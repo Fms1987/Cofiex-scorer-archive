@@ -1,0 +1,2400 @@
+# Carta-Consulta CC_61062 — Versao 2 (SIGS)
+
+
+Implantação do Corredor de Transporte Coletivo BRT Expresso DF do Eixo Norte  Etapa 1.
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 61062
+Processo: 03101.102975/2023-26
+Mutuário: Governo do Distrito Federal
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  2 de Outubro de 2023
+
+Fontes Internas:
+Contrapartida Financeira: US$ 30.000.000,00
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 120.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+1.1. DIAGNÓSTICO
+
+O Distrito Federal (DF) é uma das unidades federativas do Brasil situada na Região Centro-Oeste, onde está localizada a capital federal
+do Brasil, Brasília, que é também a sede de governo do DF. Atualmente, conta com 2,8 milhões de habitantes em uma área de 5,7 mil km²
+, distribuídos em 35 regiões administrativas. Apesar de apresentar um IDH de 0,824, o DF é a 4ª unidade federativa mais desigual do país,
+com índice Gini  de 0,566 (PNAD, 2021). Dados preliminares do Censo 2022 do IBGE mostram que o DF abriga a maior favela brasileira,
+o Sol Nascente, que ultrapassou a Rocinha, no Rio de Janeiro, com 32.081 habitações. Enquanto o DF tem a maior renda domiciliar per
+capita do Brasil, algumas regiões administrativas sequer alcançam o valor de 1 salário mínimo, como Planaltina (R$ 1.309); Sol Nascente
+e Pôr do Sol (R$ 916); e a Estrutural (R$ 695).
+
+Em pesquisa nas cidades brasileiras, coordenada pelo Instituto de Pesquisa Econômica Aplicada (Ipea), apresentada na publicação Texto
+Para Discussão 2535 - DESIGUALDADES SOCIOESPACIAIS DE ACESSO A OPORTUNIDADES NAS CIDADES BRASILEIRAS 2019 (
+http://www.ipea.gov.br/portal/publicacoes), que visa compreender a condições de transporte e de desigualdades de acesso a
+oportunidades nas cidades brasileiras, os resultados revelam dois padrões gerais em todas as vinte cidades estudadas: 1- A concentração
+de atividades nas áreas urbanas centrais aliada à performance/conectividade das redes de transporte leva a áreas de alta acessibilidade
+próximas ao centro das cidades, em contraste com regiões de periferia marcadas por desertos de oportunidades; 2- A população branca e
+de alta renda tem em média mais acesso a oportunidades de trabalho, saúde e educação do que a população negra e pobre,
+independentemente do meio de transporte considerado.
+
+Conclusivamente, nestas pesquisas as maiores desigualdades são registradas no espaço intraurbano de cada cidade: ?Essa persistente
+desigualdade nas cidades brasileiras é causa e, ao mesmo tempo, reflexo da segregação espacial e de questões estruturais geradas pela
+desigual distribuição espacial do sistema de transporte, da infraestrutura e do desenvolvimento urbano.
+
+Brasília foi uma cidade planejada e construída para ser a capital política e administrativa do Governo Federal. Seu planejamento, dentro
+do paradigma do modernismo da época, estabeleceu um padrão de ocupação disperso associado à expansão da rede rodoviária,
+priorizando o uso do automóvel. Concentrou investimentos e oportunidades no seu centro geográfico, enquanto que as áreas periféricas
+se tornaram alternativa de moradia para uma parcela da população de mais baixa renda. O processo de crescimento urbano ocorreu
+principalmente nessas áreas, principalmente após o tombamento do Plano Piloto pela Unesco, limitando qualquer crescimento vegetativo.
+
+Brasília tornou-se uma peculiar formação metropolitana, composta por um sistema urbano interligado, de caráter esparso e polinucleado,
+dominado por um centro, o Plano Piloto, com diversos assentamentos periféricos, as cidades-satélites, que se desenvolveram de maneira
+menos controlada e receberam muito menos recursos em infraestrutura urbana. A consequência deste processo é o surgimento de
+cidades dormitórios adensados, com população de baixa renda que se desloca diariamente para o Plano Piloto para acessar empregos ,
+hospitais, escolas, universidades, centros de negócios, compras, lazer, serviços especializados, dentre outros. A falta de cobertura de uma
+rede de transporte eficiente, contudo, dificulta a sua inserção no mercado de trabalho e aumentando o círculo vicioso de pobreza.
+
+A característica das viagens pendulares e a alta dependência do transporte individual motorizado só se intensificou ao longo dos anos. Na
+última década, a taxa de crescimento da frota de veículos foi 10 vezes superior à taxa de crescimento da população, totalizando 2 milhões
+de automóveis e uma população de 2,8 milhões de habitantes. O índice de motorização passou de 47,2 automóveis por 100 habitantes em
+2010 para 71,7 em 2022, mais que o dobro da média do país, que é de 31,5 automóveis por 100 habitantes. Esse aumento vem
+resultando em congestionamento e acesso reduzido a empregos, um alto número de acidentes de trânsito e mortes, além do aumento da
+poluição e das emissões de gases de efeito estufa (GEE).
+
+De acordo com o Plano Diretor de Transporte Urbano e Mobilidade do Distrito Federal (PDTU/DF), cerca de 52% das viagens no DF são
+realizadas por automóvel e moto, enquanto que em cidades como São Paulo esse número é em torno de 30% (Pesquisa O.D. 2017, Metrô
+de São Paulo). O Metrô do DF transporta apenas 2% das viagens motorizadas, enquanto que ônibus e micro-ônibus são responsáveis por
+40% dos deslocamentos. Esses dados demonstram a necessidade urgente de fortes investimentos na melhoria do sistema de transporte
+coletivo, tornando-o mais eficiente e atrativo para os usuários e revertendo a tendência de migração para o transporte individual.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+1.2. SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS   SUSTENTABILIDADE
+
+Solução proposta
+
+O GDF tem se empenhado em projetos de sistemas de transporte em massa. O modelo de BRT expresso, semelhante ao do Eixo Sul do
+DF, oferece serviços de transporte de alta qualidade, reduzindo o tempo de deslocamento das viagens e atendendo às necessidades da
+população a um custo acessível. Esse sistema é caracterizado pela sua implementação econômica e flexível, proporcionando serviços de
+transporte comparáveis aos oferecidos pelos metrôs ou trens leves, mas com um custo de desenvolvimento e operação até 75 vezes
+menor. Além disso, os BRTs podem reduzir as emissões totais de um serviço regular de ônibus em até 20%.
+
+O modelo de BRT oferece faixas exclusivas e estações de pré-pagamento para o embarque e desembarque de passageiros de maneira
+mais eficiente, garantindo um transporte de alta capacidade com maior velocidade média. Por exemplo, o corredor BRT Eixo Sul do DF
+reduziu o tempo médio de viagem dos usuários de 81 minutos para 57 minutos por trajeto, resultando em uma economia diária de quase
+uma hora no tempo gasto no deslocamento.
+
+
+Página: 3
+
+O PROJETO BRT EXPRESSO DF DO EIXO NORTE, representa um grande avanço em direção a esse novo cenário de sustentabilidade,
+visando atender as RA's de Sobradinho I e II, Planaltina, Varjão e condomínios, além das recentes RA?s criadas da Fercal e de
+Arapoanga. O projeto envolve um investimento de US$ 150 milhões, abrangendo melhorias na infraestrutura de transporte urbano e
+mobilidade ativa.
+
+O BRT Expresso DF Eixo Norte é um subsistema de transporte estruturado em torno de um Eixo Principal, com 35,26 km de corredor
+exclusivo e segregado, ligando Planaltina (DF) ao Terminal da Asa Norte (TAN). Além do Eixo Principal, o sistema conta com 10,58 km de
+corredores exclusivos e mais 23 km de sistema viário que receberão melhorias para a circulação de ônibus, como a implantação de
+paradas e abrigos, em Sobradinho, Planaltina e Plano Piloto. A proposta é implantar o corredor exclusivo em duas etapas, a saber: Etapa
+1- Subtrechos 1 e 3 (Sobradinho até Planaltina - 17,2 km); Etapa 2 - Subtrechos 5, 6 e 7. (TAN até Sobradinho - 18,06 km). Esta Carta
+Consulta é exclusivamente para atendimento à etapa 1 do corredor.
+
+O BRT Expresso DF Eixo Norte terá uma operação regulada por um sistema de planejamento, gestão e controle operacional centralizado,
+operando em faixas exclusivas e preferenciais, com veículos modernos conectados ao sistema de ITS. As estações estarão localizadas no
+canteiro central, oferecendo embarque em nível e pagamento antecipado. O modelo operacional proposto é composto por um serviço
+básico "tronco-alimentado flexível", com integração aberta e temporal entre linhas alimentadoras e troncais, atendendo aos usuários das
+cidades do Eixo Norte com destino ao Plano Piloto. Dessa forma, as circulares internas ou alimentadoras/distribuidoras atenderão às
+demandas de uma mesma região e alimentarão as linhas troncais, proporcionando máxima mobilidade à população.
+
+O projeto inclui a implantação de 17 km de corredores exclusivos de ônibus, cerca de 22 estações e quatro terminais que contarão com
+integração tarifária através do Sistema de Bilhetagem Eletrônica, permitindo ao usuário realizar até dois transbordos, um subsequente ao
+outro, no intervalo máximo de até três horas. Cerca de 86 linhas que atendem a Planaltina, Sobradinho I e II, Varjão, Arapoanga e Fercal
+serão desativadas, dando lugar a um sistema tronco-alimentado com linhas troncais (Expressas e Paradoras) e linhas alimentadoras. As
+linhas troncais expressas serão operadas por ônibus articulados de piso baixo, enquanto as linhas paradoras serão operadas com ônibus
+padron?s. O projeto também prevê melhorias na acessibilidade, incluindo a implantação de ciclovias e melhorias nas calçadas para
+facilitar o acesso às estações e terminais.
+
+Resultados esperados
+
+Aproximadamente 36 mil usuários que se deslocam diariamente por ônibus nesse eixo serão diretamente beneficiados por um serviço
+mais eficiente, que poderá reduzir até 35 minutos na viagem de Planaltina até o Plano Piloto. Atualmente, 239 veículos operam essas
+linhas, realizando uma média de 627 viagens em dias úteis e transportando 1,8 milhões de passageiros por mês.
+
+Além disso, o projeto gera outros benefícios indiretos que impactam toda a população, incluindo:
+
+i. Aumento do acesso a oportunidades de emprego e serviços e aumento da produtividade;
+
+ii. Redução das emissões de gases de efeito estufa e poluentes locais devido ao aumento da velocidade operacional dos ônibus e à
+redução do número de ônibus e viagens;
+
+iii. Melhoria na saúde da população, tanto pela redução de doenças respiratórias devido à melhoria da qualidade do ar, quanto pela
+redução de doenças cardiovasculares e obesidade, diminuindo o sedentarismo;
+
+iv. Redução do número de acidentes no trânsito urbano;
+
+v. Redução dos congestionamentos e da poluição sonora.
+
+Sustentabilidade
+
+Com a implantação do Programa, é crucial que se considere as medidas para manutenção das intervenções. Nesse sentido, o Decreto nº
+39.537/2018 que institui o Plano de Implementação das Ações de Manutenção do Patrimônio do Distrito Federal corrobora para promover
+a sustentabilidade das ações previstas no Programa.
+
+Destaca-se ainda que o DER/DF e a NOVACAP, fazem a manutenção urbana do DF, o gerenciamento e execução de contratos de
+manutenção das rodovias e de áreas urbanizadas, de vias com a responsabilidade de realizar a manutenção das obras previstas.
+Especificamente para os pavimentos rígidos (concreto), está em andamento no DER-DF o processo SEI no. 00113-00001340/2023-94,
+que trata da contratação de empresa especializada em engenharia para execução dos serviços continuados de manutenção de
+pavimentos de concreto em diversos locais no Distrito Federal. Assim, o corredor de ônibus BRT Norte também será mantido por esta
+contratação.      Portanto, face ao arcabouço legal e arranjo institucional vigente, já está previsto a manutenção destas obras com pessoal
+próprio ou contratações já planejadas, uma vez que este ente dispõe de servidores capacitados e instrumentos necessários para a
+sustentabilidade do Programa.
+
+Quanto às estações e terminais, caberá à SEMOB fazer a manutenção e operação do sistema de transporte BRT, por meio de contratos
+de prestação de serviços e de concessão.
+
+Os custos desses contratos de manutenção não envolvem os recursos do financiamento proposto e são provenientes de fontes de
+recursos do Tesouro Distrital, estima-se em 0,5% do valor das obras, R$ 4,5 milhões/ano.
+
+
+Página: 4
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+A presente proposta está alinhado aos objetivos do Governo Federal e da Política Nacional de Mobilidade Urbana (Lei Nº 12.587, de 3 de
+Janeiro de 2012), que estabelece a prioridade dos modos de transportes não motorizados sobre os motorizados e dos serviços de
+transporte público coletivo sobre o transporte individual motorizado. Está fundamentado no Programa de Governo da atual administração e
+responde às diretrizes do Plano Diretor da DF e do Plano Diretor de Transporte Urbano e Mobilidade do Distrito Federal (PDTU/DF,
+conforme Lei Nº 4.566, de 04 de maio de 2011.).
+
+Além disso,  o objeto deste projeto está previsto nas orientações estratégicas do Plano Distrital de Saneamento Básico (Lei 6.454/2019)
+Anexo III e Plano Plurianual 2020-2023 com diretrizes de médio e longo prazo que orientam o plano de investimentos do DF (PPA -Lei nº 6
+.490/2020 Anexo II - Estruturação, Base Estratégica e Detalhamento dos Programas Temáticos e respectivos atributos; (Eixo Temático:
+Desenvolvimento Territorial; Programa: 6209 - Infraestrutura; Objetivo nº 211 - Urbanização e Infraestrutura: Executar obras de
+urbanização e infraestrutura, tais como drenagem pluvial, pavimentação de vias, execução de calçadas assentamento de meios fios,
+urbanização de áreas públicas, tratamento paisagísticos, recuperação ambiental, manutenção, conservação e modernização das áreas já
+urbanizadas em diversos locais do DF.
+
+O projeto propõe alcançar as metas dos Objetivos de Desenvolvimento Sustentável, os ODS's da ONU, especificamente os Objetivos 3 e
+11:
+
+?ODS 3 - Saúde e Bem-Estar: Assegurar uma vida saudável e promover o bem-estar para todas e todos, em todas as idades.
+
+?ODS 11 - Cidades e comunidades sustentáveis: Tornar as cidades e comunidades mais inclusivas, seguras, resilientes e sustentáveis.
+
+Contrapartida - Taxa de câmbio
+
+A presente Carta Consulta prevê investimentos totais de US$ 180.000.000,00 (cento e oitenta milhões de dólares norte-americanos),
+sendo 80% financiados pelo Banco Internacional de Reconstrução e Desenvolvimento (BIRD) - Banco Mundial e 20% de contrapartida do
+Distrito Federal.
+
+A taxa de câmbio utilizada nesta carta consulta é de R$ 5,04, considerando a relação Dólar x Real em 28/09/2023, segundo dados do
+Banco Central.
+
+Os recursos orçamentários e de contrapartida do financiamento serão incluídos na Lei Orçamentária Anual do DF, após a emissão da
+recomendação da COFIEX.
+
+Os recursos de contrapartida do DF correspondem a 20% do total do Programa, no período proposto de 06 anos de execução. A
+contrapartida   será aportada com recursos provenientes de receitas tributárias previstas nos artigos 156, 158 e 159, inciso I, (b), da
+Constituição Federal, conforme estabelecido na Resolução nº 3, de 29 de maio de 2019 ? COFIEX.
+
+2. Projeto
+
+### 2.1. Título
+
+
+Implantação do Corredor de Transporte Coletivo BRT Expresso DF do Eixo Norte  Etapa 1.
+
+
+### 2.2. Título Abreviado
+
+
+Expresso DF Eixo Norte
+
+
+### 2.3. Mutuário
+
+
+Governo do Distrito Federal
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+(i) Objetivo Geral: O objetivo geral do projeto é melhorar o serviço de transporte público e a mobilidade da população de baixa renda ao
+longo do corredor de ônibus na região norte do Distrito Federal.
+
+(ii) Objetivos Específicos:
+
+1.Reduzir os tempos de viagem, através da implantação de corredores exclusivos de ônibus, melhoria de tempos de parada e eliminação
+de gargalos operacionais
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+2.Promover a melhoria na acessibilidade e circulação com conforto e segurança aos usuários de transporte público.
+
+3.Reduzir o número de acidentes no trânsito urbano na área de influência do projeto proposto;
+
+4.Melhorar as condições de espera e a operação dos pontos de embarque e desembarque de passageiros com implantação de estações e
+terminais;
+
+5.Reduzir a emissão de gases de efeito estufa e poluentes locais pelo aumento de velocidade operacional dos ônibus e redução do
+número de ônibus e viagens, consequência da tronco-alimentação.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+
+
+Descrição
+Redução de emissão de gases de efeito estufa e
+poluentes.
+
+Número de passageiros transportados
+
+Acessibilidade a empregos
+
+Redução de tempo de viagem
+
+Índice de bem-estar urbano (IBEU) Planaltina
+ano 2022
+
+Redução de acidentes na área de influência do
+projeto
+
+%
+
+Minuto
+
+Passageiros/dia
+
+Nº empreogos
+acessíveis
+
+Fórmula de Cálculo Unidade de Medida
+Redução de emissão
+de gases de efeito
+estufa e poluentes*
+Passageiros
+transportados por dia
+útil (pagantes e não
+pagantes) no corredor
+Eixo Norte.
+Englobando as RAs
+de Planaltina,
+Sobradinho,
+Sobradinho II e Fercal
+, sendo considerado
+um crescimento
+mínimo de 5% ao ano,
+com base na
+experiência do BRT
+Sul.
+Número de empregos
+acessíveis em 60
+minutos com o
+transporte coletivo na
+área de influência do
+projeto.
+Com a experiência do
+BRT Sul, o transporte
+comercial teve um
+ganho de 25 km/h
+para 45 km/h (Fonte
+SEMOB). Numa
+extensão de 35,26 km
+pode-se prever que o
+tempo do percurso
+reduzirá de 1h 24min
+para 47 min.  Linha de
+base: ano 2023 Meta:
+ano 2029
+Índice composto por
+cinco dimensões que
+abordam aspectos da
+mobilidade, das
+condições ambientais
+e habitacionais, da
+infraestrutura e dos
+serviços coletivos.
+Dados detalhados na
+publicação do IBEU-
+DF 2022 elaborado
+pelo Instituto de
+Pesquisa e Estatística
+do Distrito Federal ?
+IPEDF.
+Com a experiência do
+BRT Sul, estima-se a
+redução de 40% no
+número de acidentes
+rodoviários na área de
+influência do projeto.
+Linha de base: ano
+2019 Meta: ano 2029
+
+Un.
+
+Un.
+
+
+Página: 6
+
+Meta
+20,00
+
+Linha de Base
+0,00
+
+36.000,00
+
+45.000,00
+
+0,00
+
+30,00
+
+84,00
+
+47,00
+
+0,65
+
+0,72
+
+1.570,00
+
+942,00
+
+
+Página: 7
+
+Un.
+
+0,45
+
+0,43
+
+Índice de Gini de Planaltina ano 2022
+
+Pesquisa Nacional por
+Amostra de
+Domicílios Contínua
+de 2021. O Índice de
+Gini mede a
+desigualdade
+socioeconômica da
+população, quanto
+mais próximo de 1,
+menos igualdade.
+Linha de base: ano
+2021 Meta: ano 2029
+
+
+### 2.7. Projeto/Componentes
+
+
+Componentes
+C - IMPLANTAÇÃO DO CORREDOR DE ÔNIBUS - BRT
+S - EXECUÇÃO DA INFRAESTRUTURA
+P - Implantação de corredor exclusivo em pavimento de concreto, sistema de drenagem pluvial, OAEs e
+sinalização de Planaltina até Sobradinho,
+S - EXECUÇÃO DE ESTAÇÕES E TERMINAIS
+P -  Implantação de Terminais (Asa Norte, Sobradinho, Mestre D'Armas e Planaltina)
+P - Implantação de Estações (11 estações ao longo do trecho entre Planaltina e TAN)
+S - EXECUÇÃO DA ACESSIBILIDADE
+P - Implantação de Passarelas
+P - Implantação de Baias de ônibus
+P -  Implantação de calçadas
+C - FORTALECIMENTO INSTITUCIONAL
+S - ESTUDOS
+P - Análise de Barreiras
+P -  Sistema de Gerenciamento de Pavimento
+P - Estudos de modernização eletrificação da frota
+S - GESTÃO DO PROGRAMA
+P - Supervisão técnica e ambiental  - (Limite 5%)
+P - Unidade de Gerenciamento do Programa (UGP) (limite 1%)
+P - Auditoria Externa
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Valor(US$)
+135.000.000,00
+118.000.000,00
+118.000.000,00
+
+8.600.000,00
+2.600.000,00
+6.000.000,00
+8.400.000,00
+7.000.000,00
+400.000,00
+1.000.000,00
+15.000.000,00
+5.950.000,00
+150.000,00
+5.650.000,00
+150.000,00
+9.050.000,00
+7.500.000,00
+1.500.000,00
+50.000,00
+150.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - IMPLANTAÇÃO DO CORREDOR DE ÔNIBUS - BRT
+PROJETO EXPRESSO DF DO EIXO NORTE - prevê a implantação de 4 (quatro) Terminais: Planaltina, Mestre D?Amas,
+Sobradinho e Asa Norte. Além destes terminais, estão previstas a construção de 11 estações ao longo da via exclusiva (BR-020).
+Na presente proposição as 86 linhas que atendem a Planaltina, Sobradinho I e II, Varjão, Arapoanga e Fercal, serão desativadas e
+em seu lugar será criado um sistema tronco-alimentado com linhas troncais (Expressas e Paradoras) e linhas alimentadoras, com a
+seguinte configuração:
+Linhas Troncais do Terminal de Planaltina
+Terminal de Planaltina ? TAN Paradora
+Terminal de Planaltina ? TAN Expressa, com parada só nos terminais
+Terminal da Planaltina ? Rodoviária do Plano Piloto Paradora
+Esta implantação proporcionará a melhoria da mobilidade da população de baixa renda ao longo do corredor de ônibus na região
+norte do Distrito Federal e consequentemente a melhoria da qualidade de vida desta população.
+
+S - EXECUÇÃO DA INFRAESTRUTURA
+A implantação do trecho do corredor de ônibus entre Planaltina e Sobradinho faz parte do projeto existente no DER-DF do sistema
+de transporte coletivo de passageiros entre as cidades de Planaltina, Sobradinho e Brasília - Corredor Eixo Norte (BRT ? Bus
+Rapid Transit), desenvolvido de acordo com as diretrizes do Plano Diretor de Transporte Urbano ? PDTU, conforme Lei Nº 4.566,
+de 04 de maio de 2011.
+
+P - Implantação de corredor exclusivo em pavimento de concreto, sistema de drenagem pluvial, OAEs e sinalização de
+Planaltina até Sobradinho,
+Esta etapa de implantação do corredor possui uma extensão total de 17,2 Km de faixa exclusiva em pavimento de concreto,
+compreendendo 7 OAEs do tipo pontes, viadutos e trincheiras que garantem os retornos da rodovia sem interrupção do corredor de
+ônibus (interseção em desnível). Também, será implantado  todo o sistema de drenagem, que permita a captação e condução das
+águas que se precipitam sobre a área do corredor e que possam comprometer as condições da plataforma e a operacionalização
+do sistema, encaminhando-as para local de deságue seguro, conforme projeto existente. Por fim, para complementar a
+infraestrutura, serão executadas a sinalização viária horizontal, vertical, painéis de mensagens variáveis (PMV), e semafóricas,
+estas últimas considerando sua operação comandada remotamente pelo CCO. Tais projetos priorizaram a segurança dos usuários,
+a ordenação e orientação do tráfego de veículos, bicicletas e pedestres, assim como a fluidez do trânsito do BRT
+
+
+Página: 8
+
+S - EXECUÇÃO DE ESTAÇÕES E TERMINAIS
+Propõe-se  terminais com integração com outros modais (Terminal de Planaltina, Terminal Sobradinho I, Terminal Asa Norte e
+Terminal de Mestre D'armas), sendo todos localizados no eixo principal da BR-020, dentro da faixa de domínio da rodovia, com
+exceção do Terminal Asa Norte -TAN que possui lote no Setor de Transporte Norte, em uma das extremidades do corredor.
+
+P -  Implantação de Terminais (Asa Norte, Sobradinho, Mestre D'Armas e Planaltina)
+Propõem-se quatro terminais com integração a outros modais (Terminal de Planaltina, Terminal Sobradinho I, Terminal Asa Norte e
+Terminal de Mestre D'armas), todos localizados no eixo principal da BR-020, dentro da faixa de domínio da rodovia, com exceção
+do Terminal Asa Norte - TAN, que possui lote no Setor de Transporte Norte, em uma das extremidades do corredor.
+Os terminais buscam soluções simples, leves, funcionais e práticas que atendam às necessidades dos usuários para rápida
+transferência entre modais, com gasto mínimo de tempo, seguindo critérios de praticidade e economicidade. O projeto inclui
+soluções para a movimentação segura de pessoas portadoras de necessidades especiais, PNE, de acordo com as Normas
+Técnicas Brasileiras (NBR 9050), baseadas nos princípios do "conceito do desenho universal". Os terminais foram padronizados
+para atender ao modelo conceitual de BRT definido, garantindo as necessidades específicas de cada estação, abrangendo:
+
+?A largura e o comprimento da plataforma de embarque e desembarque de passageiros;
+?As dimensões da área de distribuição dos usuários;
+?A quantidade e o posicionamento das catracas eletrônicas de entrada e saída dos terminais e estações;
+?A largura e a posição das passarelas;
+?A localização e dimensões de rampas e escadas fixas e rolantes.
+?Foram projetados estacionamentos para a integração dos usuários que desejam acessar o sistema por meio de veículos
+motorizados individuais. O projeto das estações, terminais e garagens envolveu a arquitetura do edifício completo, incluindo o
+corpo das edificações, passarela(s) de acesso e bicicletários, com o dimensionamento de todas as salas e áreas necessárias para
+a operação.
+
+P - Implantação de Estações (11 estações ao longo do trecho entre Planaltina e TAN)
+O subsistema de transporte coletivo de passageiros, Expresso DF Eixo Norte, que percorre as cidades de Planaltina, Sobradinho e
+Plano Piloto, foi projetado para incluir, ao longo de todo o percurso proposto, uma infraestrutura composta por 37 estações simples
+e 03 estações duplas. Ambas as estações estarão equipadas com faixas para ultrapassagem e manobras de entrada e saída, além
+de oferecerem facilidades para embarque, desembarque e espera de ônibus articulados em ambos os sentidos.
+Nesta fase de implantação, serão construídas 11 estações simples. Com o objetivo de melhorar a eficiência operacional dos
+serviços de transporte e as operações de trânsito, bem como proporcionar maior conforto e segurança aos usuários do Sistema de
+Transporte Público Coletivo - STPC/DF, essas estações incluem toda a infraestrutura necessária para o Sistema ITS.
+Os acessos às estações ao longo da Rodovia DF-020 serão realizados por meio de passarelas, que se distinguem por tipologias
+com três ou quatro conexões. As passarelas de quatro conexões serão instaladas apenas nas áreas em que existem vias
+marginais.
+Ao longo de todo o trajeto do Expresso DF Eixo Norte, serão instaladas 40 estações, conforme descrito na Figura 2. A implantação
+das estações seguirá a inclinação das vias, respeitando sempre o limite máximo de +2% de declividade longitudinal. Isso garantirá
+um alinhamento perfeito dos ônibus com a plataforma de desembarque, incluindo as esquadrias.
+
+S - EXECUÇÃO DA ACESSIBILIDADE
+EXECUÇÃO DA ACESSIBILIDADE
+
+P - Implantação de Passarelas
+Em cada estação será implantada passarela em estrutura mista (concreto e aço), seguindo o padrão das passarelas já existentes
+do sistema BRT do Distrito Federal. As passarelas estão de acordo com as Normas Técnicas Brasileiras  de acessibilidade (NBR
+9050).
+
+P - Implantação de Baias de ônibus
+Em cada estação será implantada dois abrigos de ônibus, totalizando 22 baias de ônibus que servirão de integração ao sistema de
+transporte, com estrutura estimulando novos usos e harmonizando o ambiente na área de influência, com aplicação de mobiliário
+urbano e paisagismo dando identidade ao equipamento público como parte integrante do sistema de transporte. O pavimento das
+baias será em concreto.
+
+P -  Implantação de calçadas
+Com o objetivo de dar acessibilidade aos usuários, serão implantadas aproximadamente 2km de calçada entre a área urbana e
+cada estação, englobando os abrigos de ônibus e acesso às passarelas, totalizando 22 km de calçadas. As calçadas serão
+executadas em concreto 20mpa, espessura 7 cm, com armação em tela soldada e terão piso tátil direcional e de alerta em ladrilho
+hidráulico 25x25cm, atendendo as Normas Técnicas Brasileiras de acessibilidade (NBR 9050).
+
+C - FORTALECIMENTO INSTITUCIONAL
+FORTALECIMENTO INSTITUCIONAL
+
+S - ESTUDOS
+Serão elaborados estudos para identificação das barreiras que dificultam a utilização do transporte público pela população. Estes
+estudos, além dos fundamentos já consolidados no meio técnico, deverão se aprofundar nas experiências de outras regiões do DF,
+como o corredor de ônibus BRT Sul.
+
+
+Página: 9
+
+P - Análise de Barreiras
+Após a identificação das principais barreiras ao uso do transporte público, deverá ser proposta programas de cunho técnico e
+social, que atuem na sua diminuição/eliminação, aumentando assim, a eficiência do programa. A equipe técnica que fará tais
+estudos deverá ser multidisciplinar, envolvendo profissionais da área social.
+
+P -  Sistema de Gerenciamento de Pavimento
+O Sistema de Gerenciamento de Pavimentos (SGP)  tem por objetivo a execução de serviços de avaliação dos pavimentos,
+inventários, implantação e operação de Sistema de Gerência de Pavimentos no DER/DF. O DER/DF possui uma malha viária de
+rodovias pavimentadas de aproximadamente 1.072,40 km (Fonte: COPLAN/DER-DF, 2022) que necessita ser mantida para
+proporcionar adequada mobilidade e segurança aos deslocamentos da população dentro do Distrito Federal. A rede do sistema
+rodoviário é um dos principais componentes de qualquer sistema de infraestrutura. Porém, de uma maneira geral, a questão das
+rodovias públicas é abordada de forma acessória, segmentada em diversas áreas de ação do governo. O Sistema de
+Gerenciamento de Pavimentos (SGP) representa uma possibilidade concreta de se avançar de um esquema de manutenção
+tradicional, apoiado quase sempre na correção de problemas dos pavimentos, para um sistema de manutenção planejada, onde a
+atuação sobre a malha viária abrange não só a solução de seus problemas imediatos, mas também, um trabalho de prevenção que
+prolongue sua vida útil e garanta padrões mínimos de serviço em toda a malha que está sendo mantida. De maneira geral, a
+gerência de pavimentos passa pela coleta e análise dos dados, seleção das estratégias de manutenção e reabilitação, previsão
+orçamentária para o período de análise e, sempre que necessário, desenvolvimento de projetos. Seu objetivo é a obtenção do
+melhor retorno possível para os recursos investidos, provendo pavimentos seguros, confortáveis e econômicos aos usuários. Esta
+economia é obtida através da redução dos custos de manutenção e reabilitação dos pavimentos e, consequentemente, com a
+redução dos custos de operação dos veículos (desgaste dos pneus, consumo de combustível, desgaste de peças e equipamentos,
+etc.).
+
+P - Estudos de modernização eletrificação da frota
+Serão elaborados estudos para identificação a viabilidade técnica, operacional e econômico-financeira para futura substituição dos
+ônibus a diesel por ônibus elétricos. Serão realizados estudos para avaliar o desempenho dos ônibus na operação, o desempenho
+das baterias e a necessidade de investimento em infraestrutura de recarga. Também serão avaliados os ajustes operacionais
+necessários no caso de necessidade de recarga de oportunidade nos horários de entrepico. Também serão desenvolvidos
+modelagens econômicas para estimar o custo da substituição da frota, considerando os investimentos em capital e redução dos
+custos operacionais. Por fim, serão avaliados os modelos de negócios que viabilizaria a operação dos ônibus elétricos dentro dos
+contratos de concessão atual.
+
+S - GESTÃO DO PROGRAMA
+Devido à grande complexidade na execução da obra principal que compõe este Programa, torna-se necessária a contratação de 1
+(uma) empresa especializada para a supervisão das obras a serem executadas.
+
+P - Supervisão técnica e ambiental  - (Limite 5%)
+Os serviços de supervisão das obras serão financiados com recursos do BIRD. A empresa contará com o apoio do Departamento
+de Estradas de Rodagem do Distrito Federal. Compreenderão trabalhos de apoio ao acompanhamento da qualidade dos serviços,
+fidelidade no seguimento das soluções de projeto, aplicação de materiais e uso dos métodos construtivos, perfazendo assim um
+perfil altamente técnico aos trabalhos. Também deverão ser acompanhadas a acuidade dos trabalhos de sondagem, a escavação
+e o uso compatível com os materiais e equipamentos, além do monitoramento dos impactos ambientais e suas respectivas
+medidas mitigadoras, de controle e redução dos riscos ambientais decorrentes da implantação e operação das obras do Programa.
+Os serviços de supervisão, fiscalização e acompanhamento de obras contemplam as seguintes atividades básicas de campo:
+a) Controle da qualidade técnica dos serviços contratados;
+b) Acompanhamento do atendimento dos serviços contratados às especificações dos projetos;
+c) Verificações técnicas, ambientais e administrativas, relacionadas às atividades do canteiro de obras e das frentes de serviços;
+d) Verificação do cumprimento, no âmbito dos contratos dos requisitos de funcionalidade técnica requeridos em projeto;
+e) Verificação do cumprimento, no âmbito dos contratos de obras, da legislação trabalhista, de segurança do trabalho e meio
+ambiente;
+f) Controle dos faturamentos da obra, verificando os quantitativos efetivamente medidos;
+g) Acompanhamento da evolução física e financeira dos contratos;
+h) Acompanhamento por meio de relatórios mensais que reflitam indicadores de custo, desempenho e avanço físico dos
+empreendimentos, apontando os caminhos críticos e as alternativas de solução para os problemas decorrentes da execução
+contratual;
+i) Acompanhamento e monitoramento das condicionantes ambientais indicadas na licença ambiental de instalação;
+j) Elaboração e apresentação, após a conclusão de cada etapa de obra, o projeto "como construído", de maneira que representem
+a última versão emitida do projeto e que sejam condizentes com a real implantação da obra.
+
+
+Página: 10
+
+P - Unidade de Gerenciamento do Programa (UGP) (limite 1%)
+Este produto compreende as atividades destinadas a dotar a Secretaria de Estado de Obras de uma Unidade de Gerenciamento
+do Programa (UGP) com capacidade adequada para gerenciar, executar e acompanhar as ações e procedimentos estabelecidos
+no Contrato de Empréstimo a ser celebrado junto ao BIRD - Banco Mundial. A UGP está vinculada ao DER-DF e à Secretaria de
+Mobilidade, com apoio de equipe técnica multidisciplinar das diversas Secretarias e Autarquias segundo seja necessário. Poderá
+contar com um apoio operacional externo que terá por objetivo suprir a UGP de elementos administrativos e operacionais nas
+atividades de gestão e execução do contrato de empréstimo nas tomadas de decisão, principalmente quanto às ocorrências
+apresentadas no período, suas medidas de correção, nas ações preventivas contra potenciais riscos, e no acompanhamento do
+estado físico e financeiro do Programa. Possui a função de cadastramento e atualizações de todas as informações contempladas
+nas plataformas da Matriz de Usos e Fontes, do Plano Operacional Anual, do Plano de Aquisições e Contratações, do Status de
+execução física e financeira das obras e serviço, da Justificativa de Gastos do financiamento e  da Contrapartida e, por fim, do
+acompanhamento das Cláusulas Contratuais do Contrato de Empréstimo celebrado entre o Distrito Federal e o Organismo
+Financiador, atentando para seus prazos e obrigações previstos.
+
+P - Auditoria Externa
+O Produto refere-se à contratação de empresa especializada para a elaboração dos relatórios anuais de auditoria financeira
+durante o prazo de desembolso do Programa, em conformidade com o disposto no contrato de empréstimo. Os serviços
+contemplarão a verificação do cumprimento das cláusulas contratuais, a utilização dos recursos, as aquisições, os desembolsos,
+as justificativas de gastos, entre outros.
+Além da auditoria externa, o Programa estará sujeito às verificações da Controladoria do Distrito Federal e do Tribunal de Contas
+do Distrito Federal (TCDF).
+
+Categoria de Gasto
+
+Obras
+P- Implantação de corredor exclusivo em
+pavimento de concreto, sistema de drenagem
+pluvial, OAEs e sinalização de Planaltina até
+Sobradinho,
+P-  Implantação de Terminais (Asa Norte,
+Sobradinho, Mestre D'Armas e Planaltina)
+P- Implantação de Estações (11 estações ao
+longo do trecho entre Planaltina e TAN)
+P- Implantação de Passarelas
+P- Implantação de Baias de ônibus
+P-  Implantação de calçadas
+Outros
+P- Análise de Barreiras
+P-  Sistema de Gerenciamento de Pavimento
+P- Estudos de modernização eletrificação da frota
+P- Supervisão técnica e ambiental  - (Limite 5%)
+P- Unidade de Gerenciamento do Programa (UGP
+) (limite 1%)
+P- Auditoria Externa
+Total Geral
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+- PROJETOS/ETAPAS REALIZADAS
+
+Unidade de medida
+-
+Km
+
+Meta
+
+-
+17,20
+
+Un.
+
+Un
+
+Un
+Un
+Km
+-
+un
+anos
+Un
+Un.
+Un.
+
+Un.
+-
+
+4,00
+
+11,00
+
+11,00
+22,00
+22,00
+-
+1,00
+5,00
+1,00
+1,00
+1,00
+
+1,00
+-
+
+Valor
+
+% Financeiro
+
+135.000.000,00
+118.000.000,00
+
+2.600.000,00
+
+6.000.000,00
+
+7.000.000,00
+400.000,00
+1.000.000,00
+15.000.000,00
+150.000,00
+5.650.000,00
+150.000,00
+7.500.000,00
+1.500.000,00
+
+90,00
+78,67
+
+1,73
+
+4,00
+
+4,67
+0,27
+0,67
+10,00
+0,10
+3,77
+0,10
+5,00
+1,00
+
+50.000,00
+150.000.000,00
+
+0,03
+100,00
+
+Experiências anteriores no DF contribuem para a implementação do presente projeto. O corredor de BRT Expresso DF Sul foi o primeiro a
+ser implementado em Brasília - DF. Inaugurado em junho de 2014, foi operado sem cobrança de tarifa por nove meses, cuja operação
+comercial se iniciou em abril de 2015. Atualmente, o sistema já se consolida como uma importante e permanente ligação por transporte
+público das cidades-satélites Gama e Santa Maria com o Plano Piloto de Brasília. É operado por 161 veículos no corredor exclusivo,
+sendo 61 articulados e 90 padron's, realizando em média 67.000 viagens/dia. Ao compararmos com a média de viagens realizadas em
+março de 2016, após consolidação da operação, de 46.056 viagens/dia, há um aumento da ordem de 45,5%, cujo percentual de
+crescimento não foi registrado nos outros modais. Dentre os principais atrativos da exitosa operação do BRT Sul destaca-se a redução
+nos tempos de viagens, que devido às características do corredor exclusivo: vias segregadas, sem cruzamentos e interferências dos
+demais veículos, proporciona uma redução de aproximadamente 35 minutos nos deslocamento.
+
+Durante a implantação da obra observou-se que é fundamental ter o projeto executivo aprovado pelos órgãos responsáveis para sua
+implantação, bem como todas as interferências com as redes públicas devidamente solucionadas. Um outro grande desafio foi minimizar o
+impacto com o trânsito da rodovia. Para isso é importante propor desvios com a mesma capacidade da rodovia e elaborar um eficiente
+projeto de sinalização da obra.
+
+Projeto Executivo de engenharia do BRT Norte
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 11
+
+O Projeto Executivo de engenharia do BRT Norte e do EIA/RIMA foram elaborado em Julho de 2017. O escopo geral do projeto envolveu:
+
+-        Planejamento de um novo sistema de transporte público coletivo para a Região Norte do Distrito Federal;
+
+-Operação do transporte público coletivo do tipo BRT: Elaboração do modelo operacional do novo sistema e realização da sua avaliação
+financeira, testando alternativas de política tarifária;
+
+-Esquema funcional do sistema: Elaborado considerando os requisitos e restrições do espaço físico e do modelo operacional do -sistema,
+adaptando o projeto de implantação às necessidades relacionadas à eficiência operacional;
+
+-Projeto básico e executivo do BRT para o Eixo Norte: Elaboração do projeto básico e executivo da infraestrutura viária e dos
+equipamentos necessários à operação eficiente do sistema;
+
+-Estudos ambientais ao longo do corredor de 68,8 quilômetros, relativos à área de influência do sistema proposto;
+
+-Projeto básico e executivo dos componentes tecnológicos da operação do modelo, abrangendo os equipamentos, funcionalidades, os
+processos e os sistemas inteligentes para a operação eficiente do transporte público coletivo (ITS).
+
+Já obteve a Licença Prévia emitida ? LP 014/2014 e a Autorização para o Licenciamento Ambiental do ICMBio - ALA 005/2014. O PBA e
+os programas ambientais estão aprovados e prontos para execução da fase de LI e LO. O inventário florístico das árvores que interferem
+com as obras do BRT Norte, parte integrante do EIA/RIMA foi enviado ao IBRAM em 2014, contudo precisará ser atualizado, tendo em
+vista o tempo decorrido. Também, obteve a Outorga Prévia nº 6351/2015 da ADASA, emitida para lançamentos nos cursos d'água
+interceptados pelo empreendimento- Extrato de outorga publicado no Diário Oficial do DF em 12/08/2015 nº 155 página: 51.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Sem detalhes
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+- PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO - NECESSIDADE DE FINANCIAMENTO EXTERNO E OPÇÃO PELO
+AGENTE FINANCEIRO
+
+(i) Condições financeiras
+
+1.   Valor do empréstimo: USD 144.000.000,00
+
+2.     Prazo de desembolso: 6 anos
+
+3.    Agente Financeiro/Fomento: Banco Internacional para Reconstrução e Desenvolvimento ? BIRD;
+
+4.   Moeda: USD (dólar americano);
+
+5.   O custo do empréstimo:  SOFR + spread 1,75% ao ano²;
+
+6.   Carência de 5 anos;
+
+7.   Prazo de amortização: 20 anos;
+
+8.   Sistema de Amortização: Constante;
+
+9.   Taxa de Comissão Inicial: 0,25% (Taxa inicial incidente sobre o valor contratado); e
+
+10.   Taxa de Comissão de Compromisso: 0,25% a.a. aplicada a saldos não desembolsados.
+
+²Nota: O spread mostrado é o spread vigente no terceiro trimestre de 2023 (são calculados e publicados cada trimestre pelo BIRD).
+
+https://treasury.worldbank.org/en/about/unit/treasury/ibrd-financial-products/lending-rates-and-fees
+
+(ii) Necessidade de financiamento externo e a opção pelo agente financeiro
+
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 12
+
+Dado o elevado montante necessário a implantação do projeto, o GDF avalia que haverá necessidade de acessar o mercado externo de
+crédito para o financiamento deste projeto. A contratação de parte do financiamento externo apresenta vantagens pelos seguintes motivos:
+
+1.Expertise técnica do BIRD para a preparação do projeto;
+
+2.Disponibilidade de crédito no mercado interno ser escassa (atualmente, para 2023, há apenas R$ 3 bilhões disponíveis para o Brasil
+inteiro em operações interno com garantia da União, nos termos da Resolução CMN n° 4995/2022);
+
+3.Custo do financiamento externo ser menor que o custo do financiamento interno;
+
+4.Estratégia de diversificação da carteira de endividamento.
+
+Em anexo, é apresentada a justificativa para a escolha da instituição que teve como base as taxas médias de bancos internacionais para
+fins comparativos, assim como dos prazos das instituições nacionais quanto à amortização. Observa-se que a taxa praticada pelo BIRD
+está abaixo da média das instituições internacionais.
+
+¹Nota: Demais encargos e condições do BIRD - sobretaxa de exposição ao país (SBL surcharge), atualmente de 50 pontos básicos (0.5%)
+, se aplica quando a exposição total do Banco Mundial ao Brasil (considerando todos os empréstimos em vigor) exceder o chamado "SBL
+surcharge threshold", fixado nesse ano fiscal em 18,7 bilhões de dólares para o Brasil.
+
+A comissão se aplica somente ao montante que exceda a exposição e é calculada de modo pro-rata. Esse conceito foi introduzido em
+2014 e o Brasil tem por política nunca ultrapassar esse limite.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+(ii)  BENEFÍCIÁRIOS
+
+Atualmente, o conjunto de linhas que atualmente atendem as Regiões Administrativas diretamente beneficiadas são as de Planaltina,
+Sobradinho I e II, Varjão, Arapoanga e Fercal realiza diariamente 627 viagens em dias úteis, 341 aos sábados e 185 aos domingos. As
+linhas de ônibus transportam 1,8 milhões de passageiros por mês.
+
+No PDAD de 2021, a população dessas Regiões Administrativas são de 404.934 hab.. Quanto às características da população, observa-
+se uma semelhança entre as regiões, com exceção de Sobradinho que apresenta os melhores índices, se aproximando da média do DF, a
+saber:
+
+-População em idade ativa (PIA) e economicamente ativa: DF - 58,90%; Sobradinho -  55,70%; Demais regiões - 62,36%.
+
+-Remuneração do trabalho principal: DF -  R$ 3.801,00; Sobradinho - R$ 3.638,34; Demais regiões - R$ 1.984,52.
+
+-Renda Domiciliar: DF -  R$ 6.938,40; Sobradinho - R$ 6.010,80; Demais regiões - R$ 2.857,26.
+
+-Renda per capta: DF - R$ 3.002,00; Sobradinho - R$ 2.619,00; Demais regiões - R$ 1.172,12.
+
+-IDH: DF - 0,824; Sobradinho ?0,775; Demais regiões - 0,720%.
+
+-População que estudam: DF - 51%; Sobradinho - 49%; Demais regiões - 63%.
+
+-Habitantes por automóvel: DF - 3,73; Sobradinho - 2,80; Demais regiões - 5,80.
+
+Aproximadamente 36 mil usuários se deslocam diariamente por ônibus nesse eixo, que poderá reduzir até 35 minutos na viagem de
+Planaltina até o Plano Piloto.
+
+Além disso, toda a população do DF será beneficiada pelos benefícios indiretos do projeto, como redução de emissões, acidentes,
+congestionamento, ruído, dentre outros, totalizando 2,8 milhões de beneficiários indiretos.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 13
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BIRD
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+Valor Proposto
+
+30.000.000,00
+Valor Proposto
+
+120.000.000,00
+
+150.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+30.000.000,00
+Valor de Referência US
+$
+120.000.000,00
+
+150.000.000,00
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+-  EXECUÇÃO
+
+(ii)  Arranjo institucional- Matriz de responsabilidade- Estrutura operacional
+
+O Distrito Federal, mutuário da operação, terá como órgão executor do Programa a Secretaria de Transporte e Mobilidade e o seu
+gerenciamento será realizado pela Unidade de Gerenciamento do Programa - UGP. A gestão do Programa estará a cargo da UGP por um
+período de cinco anos, que será criada por meio de Decreto onde estão inseridas suas atividades e os procedimentos para a execução
+dessas funções. A finalidade da UGP é de assegurar que as ações do Programa estejam de acordo com o contrato de empréstimo e seu
+objetivo contempla: planejar, programar e acompanhar a execução física e financeira, bem como avaliar os resultados intermediários e
+finais do Programa, de modo a assegurar o cumprimento das ações planejadas e dos cronogramas estabelecidos para cumprimento das
+ações programadas.
+
+Para executar suas funções, a UGP será integrada por (1) Coordenador Geral, (1) Engenheiro, (1) Administrativo, (1) Financeiro, (1)
+Jurídico e (1) Socioambiental.
+
+O Programa também contará com apoio de Secretarias de Estado conforme demonstrado na Matriz RACI de Responsabilidade
+Institucional (em anexo). As secretarias e demais órgãos do DF envolvidos com o Programa são apresentados a seguir, com destaque
+para as funções relacionadas a sua execução. São órgãos que possuem papéis específicos na execução do programa, contribuindo com o
+organismo executor e proporcionando suporte técnico, alocação e gestão de recursos financeiros, acompanhamento das intervenções e
+realização das licitações:
+
+1.Secretaria de Transporte e Mobilidade do DF;
+
+2.Departamento de Estradas de Rodagem do DF;
+
+3.Secretaria de Estado de Planejamento, Orçamento e Administração do DF;
+
+4.Secretaria de Estado de Fazenda do DF;
+
+5.Instituto do Meio Ambiente e dos Recursos Hídricos do DF - Brasília Ambiental (IBRAM);
+
+6.Procuradoria Geral do DF;
+
+7.Secretaria de Estado de Relações Institucionais do DF;
+
+8.Secretaria Internacional do DF;
+
+9.Casa Civil do DF;
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Secretaria de Estado de Transportes
+
+Representante Oficial: Flávio Murilo Gonçalves Prates de Oliveira
+
+Endereço da Sede: Zona Cívico Administrativa Anexo do Palácio do Buriti - 15º andar
+E-mail Institucional:
+
+Telefone: (61) 3313-5954
+
+CNPJ: 00394726000156
+
+Fax:
+UF:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 6 Anos
+
+(cid:10)
+
+
+### 4.4. Execução/Cronograma
+
+
+Página: 14
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+C - IMPLANTAÇÃO DO CORREDOR DE ÔNIBUS - BRT
+
+S - EXECUÇÃO DA INFRAESTRUTURA
+
+COMPONENTES
+
+P - Implantação de corredor exclusivo em pavimento de concreto, sistema de drenagem pluvial,
+OAEs e sinalização de Planaltina até Sobradinho,
+S - EXECUÇÃO DE ESTAÇÕES E TERMINAIS
+
+P -  Implantação de Terminais (Asa Norte, Sobradinho, Mestre D'Armas e Planaltina)
+
+P - Implantação de Estações (11 estações ao longo do trecho entre Planaltina e TAN)
+
+S - EXECUÇÃO DA ACESSIBILIDADE
+
+P - Implantação de Passarelas
+
+P - Implantação de Baias de ônibus
+
+P -  Implantação de calçadas
+
+C - FORTALECIMENTO INSTITUCIONAL
+
+S - ESTUDOS
+
+P - Análise de Barreiras
+
+P -  Sistema de Gerenciamento de Pavimento
+
+P - Estudos de modernização eletrificação da frota
+
+S - GESTÃO DO PROGRAMA
+
+P - Supervisão técnica e ambiental  - (Limite 5%)
+
+P - Unidade de Gerenciamento do Programa (UGP) (limite 1%)
+
+P - Auditoria Externa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - IMPLANTAÇÃO DO CORREDOR DE ÔNIBUS - BRT
+
+S - EXECUÇÃO DA INFRAESTRUTURA
+
+COMPONENTES
+
+P - Implantação de corredor exclusivo em pavimento de concreto, sistema de drenagem pluvial,
+OAEs e sinalização de Planaltina até Sobradinho,
+S - EXECUÇÃO DE ESTAÇÕES E TERMINAIS
+
+P -  Implantação de Terminais (Asa Norte, Sobradinho, Mestre D'Armas e Planaltina)
+
+P - Implantação de Estações (11 estações ao longo do trecho entre Planaltina e TAN)
+
+S - EXECUÇÃO DA ACESSIBILIDADE
+
+P - Implantação de Passarelas
+
+P - Implantação de Baias de ônibus
+
+P -  Implantação de calçadas
+
+C - FORTALECIMENTO INSTITUCIONAL
+
+S - ESTUDOS
+
+P - Análise de Barreiras
+
+P -  Sistema de Gerenciamento de Pavimento
+
+P - Estudos de modernização eletrificação da frota
+
+S - GESTÃO DO PROGRAMA
+
+P - Supervisão técnica e ambiental  - (Limite 5%)
+
+P - Unidade de Gerenciamento do Programa (UGP) (limite 1%)
+
+P - Auditoria Externa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - IMPLANTAÇÃO DO CORREDOR DE ÔNIBUS - BRT
+
+S - EXECUÇÃO DA INFRAESTRUTURA
+
+COMPONENTES
+
+P - Implantação de corredor exclusivo em pavimento de concreto, sistema de drenagem pluvial,
+OAEs e sinalização de Planaltina até Sobradinho,
+S - EXECUÇÃO DE ESTAÇÕES E TERMINAIS
+
+P -  Implantação de Terminais (Asa Norte, Sobradinho, Mestre D'Armas e Planaltina)
+
+P - Implantação de Estações (11 estações ao longo do trecho entre Planaltina e TAN)
+
+S - EXECUÇÃO DA ACESSIBILIDADE
+
+P - Implantação de Passarelas
+
+P - Implantação de Baias de ônibus
+
+P -  Implantação de calçadas
+
+C - FORTALECIMENTO INSTITUCIONAL
+
+S - ESTUDOS
+
+P - Análise de Barreiras
+
+P -  Sistema de Gerenciamento de Pavimento
+
+P - Estudos de modernização eletrificação da frota
+
+VALOR
+
+Ano 1
+
+FONTES
+
+CUSTO
+135.000.000,00
+
+CF
+
+BIRD
+
+1.800.000,00
+
+6.200.000,00
+
+118.000.000,00
+
+1.800.000,00
+
+6.200.000,00
+
+118.000.000,00
+
+1.800.000,00
+
+6.200.000,00
+
+8.600.000,00
+
+2.600.000,00
+
+6.000.000,00
+
+8.400.000,00
+
+7.000.000,00
+
+400.000,00
+
+1.000.000,00
+
+15.000.000,00
+
+5.950.000,00
+
+150.000,00
+
+5.650.000,00
+
+150.000,00
+
+9.050.000,00
+
+7.500.000,00
+
+1.500.000,00
+
+50.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.800.000,00
+
+300.000,00
+
+150.000,00
+
+0,00
+
+150.000,00
+
+1.500.000,00
+
+1.250.000,00
+
+250.000,00
+
+0,00
+
+0,00
+
+1.800.000,00
+
+8.000.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+BIRD
+
+6.000.000,00
+
+16.490.000,00
+
+6.000.000,00
+
+14.000.000,00
+
+6.000.000,00
+
+14.000.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.250.000,00
+
+350.000,00
+
+900.000,00
+
+1.240.000,00
+
+1.100.000,00
+
+40.000,00
+
+100.000,00
+
+2.630.000,00
+
+1.130.000,00
+
+0,00
+
+1.130.000,00
+
+0,00
+
+1.500.000,00
+
+1.250.000,00
+
+250.000,00
+
+0,00
+
+0,00
+
+6.000.000,00
+
+19.120.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+BIRD
+
+7.000.000,00
+
+26.800.000,00
+
+7.000.000,00
+
+23.000.000,00
+
+7.000.000,00
+
+23.000.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.100.000,00
+
+800.000,00
+
+1.300.000,00
+
+1.700.000,00
+
+1.400.000,00
+
+100.000,00
+
+200.000,00
+
+2.630.000,00
+
+1.130.000,00
+
+0,00
+
+1.130.000,00
+
+0,00
+
+
+Página: 15
+
+S - GESTÃO DO PROGRAMA
+
+P - Supervisão técnica e ambiental  - (Limite 5%)
+
+P - Unidade de Gerenciamento do Programa (UGP) (limite 1%)
+
+P - Auditoria Externa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - IMPLANTAÇÃO DO CORREDOR DE ÔNIBUS - BRT
+
+S - EXECUÇÃO DA INFRAESTRUTURA
+
+COMPONENTES
+
+P - Implantação de corredor exclusivo em pavimento de concreto, sistema de drenagem pluvial,
+OAEs e sinalização de Planaltina até Sobradinho,
+S - EXECUÇÃO DE ESTAÇÕES E TERMINAIS
+
+P -  Implantação de Terminais (Asa Norte, Sobradinho, Mestre D'Armas e Planaltina)
+
+P - Implantação de Estações (11 estações ao longo do trecho entre Planaltina e TAN)
+
+S - EXECUÇÃO DA ACESSIBILIDADE
+
+P - Implantação de Passarelas
+
+P - Implantação de Baias de ônibus
+
+P -  Implantação de calçadas
+
+C - FORTALECIMENTO INSTITUCIONAL
+
+S - ESTUDOS
+
+P - Análise de Barreiras
+
+P -  Sistema de Gerenciamento de Pavimento
+
+P - Estudos de modernização eletrificação da frota
+
+S - GESTÃO DO PROGRAMA
+
+P - Supervisão técnica e ambiental  - (Limite 5%)
+
+P - Unidade de Gerenciamento do Programa (UGP) (limite 1%)
+
+P - Auditoria Externa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - IMPLANTAÇÃO DO CORREDOR DE ÔNIBUS - BRT
+
+S - EXECUÇÃO DA INFRAESTRUTURA
+
+COMPONENTES
+
+P - Implantação de corredor exclusivo em pavimento de concreto, sistema de drenagem pluvial,
+OAEs e sinalização de Planaltina até Sobradinho,
+S - EXECUÇÃO DE ESTAÇÕES E TERMINAIS
+
+P -  Implantação de Terminais (Asa Norte, Sobradinho, Mestre D'Armas e Planaltina)
+
+P - Implantação de Estações (11 estações ao longo do trecho entre Planaltina e TAN)
+
+S - EXECUÇÃO DA ACESSIBILIDADE
+
+P - Implantação de Passarelas
+
+P - Implantação de Baias de ônibus
+
+P -  Implantação de calçadas
+
+C - FORTALECIMENTO INSTITUCIONAL
+
+S - ESTUDOS
+
+P - Análise de Barreiras
+
+P -  Sistema de Gerenciamento de Pavimento
+
+P - Estudos de modernização eletrificação da frota
+
+S - GESTÃO DO PROGRAMA
+
+P - Supervisão técnica e ambiental  - (Limite 5%)
+
+P - Unidade de Gerenciamento do Programa (UGP) (limite 1%)
+
+P - Auditoria Externa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - IMPLANTAÇÃO DO CORREDOR DE ÔNIBUS - BRT
+
+S - EXECUÇÃO DA INFRAESTRUTURA
+
+COMPONENTES
+
+P - Implantação de corredor exclusivo em pavimento de concreto, sistema de drenagem pluvial,
+OAEs e sinalização de Planaltina até Sobradinho,
+S - EXECUÇÃO DE ESTAÇÕES E TERMINAIS
+
+P -  Implantação de Terminais (Asa Norte, Sobradinho, Mestre D'Armas e Planaltina)
+
+P - Implantação de Estações (11 estações ao longo do trecho entre Planaltina e TAN)
+
+S - EXECUÇÃO DA ACESSIBILIDADE
+
+P - Implantação de Passarelas
+
+P - Implantação de Baias de ônibus
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.500.000,00
+
+1.250.000,00
+
+250.000,00
+
+0,00
+
+0,00
+
+7.000.000,00
+
+29.430.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+BIRD
+
+8.000.000,00
+
+26.750.000,00
+
+8.000.000,00
+
+22.000.000,00
+
+8.000.000,00
+
+22.000.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.350.000,00
+
+750.000,00
+
+1.600.000,00
+
+2.400.000,00
+
+1.900.000,00
+
+150.000,00
+
+350.000,00
+
+2.630.000,00
+
+1.130.000,00
+
+0,00
+
+1.130.000,00
+
+0,00
+
+1.500.000,00
+
+1.250.000,00
+
+250.000,00
+
+0,00
+
+0,00
+
+8.000.000,00
+
+29.380.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+BIRD
+
+6.000.000,00
+
+17.980.000,00
+
+6.000.000,00
+
+14.000.000,00
+
+6.000.000,00
+
+14.000.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.950.000,00
+
+550.000,00
+
+1.400.000,00
+
+2.030.000,00
+
+1.700.000,00
+
+80.000,00
+
+250.000,00
+
+2.630.000,00
+
+1.130.000,00
+
+0,00
+
+1.130.000,00
+
+0,00
+
+1.500.000,00
+
+1.250.000,00
+
+250.000,00
+
+0,00
+
+0,00
+
+6.000.000,00
+
+20.610.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 6
+
+FONTES
+
+CF
+
+BIRD
+
+TOTAL
+
+CF
+
+1.200.000,00
+
+10.780.000,00
+
+30.000.000,00
+
+TOTAL
+
+BIRD
+105.000.000,00
+
+1.200.000,00
+
+8.800.000,00
+
+30.000.000,00
+
+88.000.000,00
+
+1.200.000,00
+
+8.800.000,00
+
+30.000.000,00
+
+88.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+950.000,00
+
+150.000,00
+
+800.000,00
+
+1.030.000,00
+
+900.000,00
+
+30.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+8.600.000,00
+
+2.600.000,00
+
+6.000.000,00
+
+8.400.000,00
+
+7.000.000,00
+
+400.000,00
+
+
+P -  Implantação de calçadas
+
+C - FORTALECIMENTO INSTITUCIONAL
+
+S - ESTUDOS
+
+P - Análise de Barreiras
+
+P -  Sistema de Gerenciamento de Pavimento
+
+P - Estudos de modernização eletrificação da frota
+
+S - GESTÃO DO PROGRAMA
+
+P - Supervisão técnica e ambiental  - (Limite 5%)
+
+P - Unidade de Gerenciamento do Programa (UGP) (limite 1%)
+
+P - Auditoria Externa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+- Atos Legais
+
+
+Página: 16
+
+1.000.000,00
+
+15.000.000,00
+
+5.950.000,00
+
+150.000,00
+
+5.650.000,00
+
+150.000,00
+
+9.050.000,00
+
+7.500.000,00
+
+1.500.000,00
+
+50.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+100.000,00
+
+2.680.000,00
+
+1.130.000,00
+
+0,00
+
+1.130.000,00
+
+0,00
+
+1.550.000,00
+
+1.250.000,00
+
+250.000,00
+
+50.000,00
+
+150.000.000,00
+
+1.200.000,00
+
+13.460.000,00
+
+30.000.000,00
+
+120.000.000,00
+
+Quanto à Lei Autorizativa, a operação exige a aprovação de lei pela Câmara Legislativa que permita ao Distrito Federal a contratação de
+financiamento. O projeto de Lei será levado à discussão na Câmara e seus impactos positivos com o investimento previsto e seu impacto
+econômico.
+
+Quanto à criação da UGP, o Distrito Federal irá criar por meio de Decreto a Unidade de Gerenciamento do Programa, mitigando todos os
+riscos administrativos do processo de contratação da operação, condicionando os requisitos prévios para a assinatura do contrato de
+empréstimo.
+
+O Órgão Executor do Programa a SEMOB, possui um excelente relacionamento e articulação com empresas concessionárias de energia,
+água e telefonia, mitigando assim os riscos administrativos no processo de contratação da operação.
+
+As principais normativas que respaldam a implementação dos produtos dos Programa são:
+
+-Lei Complementar n°803/2009 - Plano Diretor de Ordenamento Territorial do Distrito Federal
+
+-Lei Complementar n°827/2010 - Sistema Distrital de Unidades de Conservação da Natureza ? SDUC
+
+-Lei Complementar n°986/2021 -Regularização Fundiária Urbana ? Reurb no Distrito Federal
+
+-Lei n°14.133/2021 - Lei de Licitações e Contratos Administrativos
+
+-Lei Distrital n°6.454/2019 - Plano Distrital de Saneamento Básico - PDSB
+
+-Lei Distrital n°6.29/2019 - Zoneamento Ecológico-Econômico do Distrito Federal - ZEE
+
+-Lei Distrital n°6.138/2018 - Código de Obras e Edificações do Distrito Federal - COE.
+
+-Decreto  n° 39.468/2016 - Regulamenta a Política de Capacitação e de Desenvolvimento para os servidores da Administração Direta,
+Autárquica e Fundacional do Distrito Federal.
+
+-Decreto n° 9.983/2019 - Estratégia Nacional de Disseminação do Building Information Modelling
+
+-Decreto n° 10.306/2020 - Estabelece a utilização do Building Information Modelling na execução direta ou indireta de obras e serviços de
+engenharia realizada pelos órgãos e pelas entidades da administração pública federal
+
+-Decreto Distrital  n° 42.269/2021 - Regularização Fundiária Urbana ? REURB no Distrito Federal
+
+-Plano Estratégico do Distrito Federal 2019-2060
+
+-Plano Diretor de Drenagem Urbana PDDU-DF
+
+-Plano Diretor de Tecnologia da Informação PDTI - SODF
+
+5.2. RISCOS/CONTRATAÇÕES
+
+Contratações
+
+Há a tendência do Governo do Distrito Federal de se manter enxuto e com boa capacidade gerencial, portanto deve contratar, no mercado
+, empresas para apoiá-lo no Projeto. De forma geral está prevista a contratação de:
+
+(cid:10)
+(cid:10)
+
+
+Página: 17
+
+-Consultorias para a realização de projetos, modelagens, supervisão, treinamentos e apoio técnico;
+
+-Empreiteiras para a realização de obras de construção da infraestrutura, incluindo os Planos Básicos Ambientais, e/ou manutenção e
+melhorias;
+
+-Mantenedoras de máquinas e equipamentos utilizados em obras e serviços para o BRT;
+
+-Fornecedores de insumos e outros materiais de consumo produtivo.
+
+As ações que constam no Projeto independem de contratação prévia de pessoal para serem deslanchadas. Ademais, ao utilizar a
+plataforma e as normas de contratação do Banco Mundial, e da utilização da Plataforma e do Sistema de seguimento de Aquisições (
+STEP), o Estado contará com suporte técnico adicional para capacitação, divulgação de chamamentos e condução geral das licitações do
+Projeto.
+
+Riscos:
+
+?Atraso nas contratações;
+
+?Atraso na entrega dos produtos;
+
+?Atraso na implantação da obra;
+
+Ações Mitigadoras:
+
+?Criação da Unidade de Gerenciamento do Programa (UGP);
+
+?Contratação de Supervisora da Obra.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+- Desapropriações
+
+As obras de implantação do corredor serão nas faixas de domínio da Rodovia BR-020, que possui o Convênio de Delegação No 873/2014-
+00, entre o DNIT e o DER-DF (documento em anexo) e o Terminal Asa Norte será no lote da SEMOB, já destinado para o terminal.
+Portanto, as ações previstas na presente iniciativa independem de desapropriações.
+
+As obras para o BRT e acessos e ciclovias em sua íntegra, incluindo os desvios de obra, serão realizadas em vias estaduais com faixas
+de domínio bem estabelecidas. Qualquer ocupação dentro da faixa de domínio é uma autorização ou termo de permissão de uso não
+qualificada de natureza precária, regulamentada pela LEI Nº 5795, 27 DE DEZEMBRO DE 2006, e DECRETO Nº 27.365, DE 1º DE
+NOVEMBRO DE 2006, podendo ser retirada a qualquer momento sem indenização pelo DER-DF. Caso o Projeto eventualmente inclua
+alguma obra de duplicação ou alargamento que ultrapasse os limites da faixa de domínio da BR-020, o procedimento de Declaração de
+Utilidade Pública e indenização dos proprietários afetados será priorizada pela administração do estado, e deverá seguir princípios e
+critérios estipulados pelos Padrões Ambientais e Sociais do BIRD.
+
+Nos estudos realizados não foram identificadas interferências em populações indígenas, quilombolas e outras, decorrentes da
+implementação do projeto.
+
+No projeto executivo foram identificadas interferências com redes de água, esgoto, distribuição de energia elétrica e postes de iluminação
+pública. Todas as interferências foram devidamente tratadas e contempladas no cronograma e orçamento da obra, de forma a não
+inviabilizar a obra.
+
+Riscos:
+
+?Existir alguma rede de infraestrutura que não foi identificada no cadastro realizado;
+
+?Existir algum remanejamento de rede que se torne inviável tecnicamente e/ou financeiramente;
+
+?Existir alguma ocupação na faixa de domínio não autorizada pelo DER-DF;
+
+?Necessidade de alteração do projeto com implantação além da faixa de domínio;
+
+Ações Mitigadoras:
+
+?Atualizar o cadastro das redes de infraestrutura com todas as concessionárias e vistorias técnicas no local para sua confirmação;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 18
+
+?Atualizar os custos e viabilidade técnica dos remanejamento junto às concessionárias;
+
+?DER-DF vistoriar a faixa de domínio e eliminar as ocupações clandestinas;
+
+?Escolher locais para alteração do projeto de forma a não interferir com construções existentes e aplicar o procedimento de Declaração de
+Utilidade Pública e indenização dos proprietários afetados.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+- Impactos ambientais
+
+Conforme já mencionado nas etapas realizadas, o DER-DF já elaborou o Estudo de Impacto Ambiental (EIA) e o Relatório de Impacto
+Ambiental (RIMA).
+
+Os empreendimentos identificados preliminarmente são de baixo impacto, a saber:
+
+- Sobre o meio físico
+
+?Degradação e alteração da paisagem por uso de áreas de empréstimo, bota&#8208;fora, jazidas e resíduos sólidos;
+
+?Impermeabilização da camada superficial do solo
+
+?Movimentação de terra
+
+?Supressão da vegetação
+
+?Acúmulo e Produção Resíduos
+
+?Aumento de escoamento superficial e assoreamento de corpos hídricos
+
+?Desenvolvimento e ampliação de processos erosivos
+
+?Produção de ruídos e poeira
+
+- Sobre o meio biótico
+
+?Atropelamento e afugentamento da fauna silvestre e exótica;
+
+?Supressão de Vegetação
+
+- Sobre o meio socioeconômico
+
+?Geração de empregos diretos e indiretos
+
+?Interrupção eventual do tráfego para execução de obras
+
+?Valorização imobiliária dos imóveis e glebas lindeiras ao empreendimento
+
+?Geração de Expectativa na população
+
+?Diminuição no acidente de trânsito
+
+?Melhoria do escoamento do transporte coletivo
+
+?Transporte de Material para Construção do empreendimento
+
+As ações mitigadoras, preventivas e corretivas relacionadas aos riscos e impactos são apresentadas nos programas ambientais do PBA-
+Plano Básico Ambiental aprovado pelo IBRAM, a saber:
+
+1- Controle e Monitoramento de Processos Erosivos e Assoreamento
+
+2 - Controle e Monitoramento de Estabilização de Taludes
+
+3 - Controle e Monitoramento de Emissão de Ruídos
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 19
+
+4 - Controle e Monitoramento de Emissão Atmosférica
+
+5 - Controle e Monitoramento de Supressão de Vegetação
+
+6 - Controle e Monitoramento de Intervenção em APP
+
+7 - Controle e Monitoramento de Intervenção em Unidade de Conservação
+
+8 - Controle e Monitoramento de Proteção a Fauna
+
+9 - Controle e Monitoramento de Desvio e Interrupção de Tráfego
+
+10 - Controle e Monitoramento de Qualidade dos Corpos Hídricos
+
+11 - Controle e Monitoramento de Gerenciamento de Resíduos
+
+12 - Controle e Monitoramento de Gerenciamento de Efluentes Líquidos
+
+13 - Controle e Monitoramento de Sinalização Viária
+
+14 - Controle e Monitoramento de Saúde e Segurança do Trabalho
+
+15 - Controle e Monitoramento de Comunicação Social
+
+16 - Controle e Monitoramento Arqueológico
+
+Vale ressaltar que o Projeto, necessariamente, terá que aderir aos Padrões Ambientais e Sociais (ESF) do BIRD, em que a função
+controle ambiental dos impactos ambientais das intervenções do projeto, devem seguir rigorosos e abrangentes critérios durante a
+preparação, além de constituir um dos elementos centrais da supervisão e apoio técnico do Banco Mundial durante a fase de
+implementação.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+- Impactos sociais
+
+Espera-se da presente iniciativa, principalmente da redução de tempo de deslocamento e a melhoria do acesso aos empregos e serviços
+gere impactos sociais positivos, ampliando oportunidades de produtividade, descanso e lazer, melhorando a qualidade de vida da
+população.
+
+Riscos:
+
+1-Aumento dos congestionamentos;
+
+2- Aumento dos acidentes durante a execução das obras;
+
+Ações Mitigadoras:
+
+1-Analisar e adequar os desvios propostos para manter a capacidade de tráfego próximo à da rodovia;
+
+2-Aprovar antecipadamente o cronograma de execução das obras para planejamento da divulgação à população sobre os trechos em
+obras;
+
+3- Intensificar a sinalização de obra e realizar campanha de educação no trânsito na região norte;
+
+Vale ressaltar que o Projeto necessariamente terá que aderir aos Padrões Ambientais e Sociais (ESF) do BIRD, em que a função controle
+dos impactos sociais das intervenções do projeto, devem seguir rigorosos e abrangentes critérios durante a preparação, além de constituir
+um dos elementos centrais da supervisão e apoio técnico do Banco Mundial durante a fase de implementação, ouvindo à população
+beneficiada para poder melhorar o desenho do Projeto.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+- Reassentamentos
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 20
+
+As ações que constam no Projeto independem de reassentamentos populacionais prévios para serem implementadas. Entretanto, caso
+surja a necessidade de reassentamento involuntário de ocupações irregulares (por exemplo, ao longo da faixa de domínio de vias
+estaduais onde o BRT irá implementado), o Projeto deverá cumprir os Padrões Ambientais e Sociais (ESF) do BIRD, que em seu ESS-5 ?
+Desapropriações, Restrições de Uso do Solo e Reassentamento Involuntário? estabelece princípios e requerimentos a serem seguidos em
+procedimentos de reassentamento associados ao financiamento da instituição; estes incluem diretrizes de planejamento e execução,
+consultas públicas, elegibilidade de pessoas afetadas, e mecanismo de resolução de queixas / ouvidoria.
+
+Riscos:
+
+- Existir ocupação clandestina na faixa de domínio.
+
+Ações Mitigadoras:
+
+- DER-DF promover a retirada das ocupações antes do início das obras.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+- 26/12/2023: Retirada de pauta na 170ª Reunião da Cofiex, em 07/12/2023, por exceder o limite disponível para esta reunião.
+
+Informações relevantes
+
+(cid:10)
+(cid:10)
+(cid:10)

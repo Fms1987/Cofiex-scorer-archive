@@ -1,0 +1,4406 @@
+# Carta-Consulta CC_60991 — Versao 2 (SIGS)
+
+
+CARTA CONSULTA
+
+Projeto de Desenvolvimento de Capacidades para Superação da Fome e Mitigação dos
+efeitos da Pobreza e extrema Pobreza Rural
+
+Nº Carta Consulta: 60991
+Processo: 03101.101081/2023-19
+Mutuário: Estado do Ceará
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  11 de Abril de 2023
+
+Fontes Internas:
+Contrapartida Financeira: US$ 26.510.000,00
+Fontes Externas:
+Agência Espanhola de Cooperação Internacional - AECI: US$ 97.556.800,00
+Fundo Internacional  para o Desenvolvimento da  Agricultura - FIDA: US$ 8.483.200,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+O Ceará possui uma e população estimada em 9.240.580 habitantes. Em 2017, havia 297.862 Unidades Agrícolas Familiares (UAF) no
+estado, ocupando 3 milhões de hectares (48% da área agropecuária) e empregando 686.473 de pessoas.
+
+Em 2020, o Produto Interno Bruto (PIB) do estado foi de R$166,915 bi, no entanto, o PIB per capita foi R$18.168,35, representando 49%
+abaixo da média nacional. O Índice de Desenvolvimento Humano (IDH) do Ceará era de 0,682 em 2010, considerado médio; mas, o IDH
+Rural era 0,575 em 2010, classificado como baixo. Dentre os desafios de desenvolvimento rural do estado, primeiramente, há um
+segmento considerável da população em situação de pobreza (43% dos domicílios rurais em 2010), assim como em insegurança alimentar
+(47% das famílias do estado em 2017). Considerando apenas os domicílios rurais, a proporção de famílias em situação de pobreza era
+expressivamente maior, alcançando 43% do total dos domicílios em 2010. A área do Projeto. São 175 municípios inseridos no Semiárido,
+o que corresponde a 95% dos municípios. O clima semiárido se caracteriza por elevadas temperaturas, escassez e irregularidade espaço-
+temporal das chuvas e altas taxas de evaporação/evapotranspiração (IPECE, 2021). Há 384.112 estabelecimentos agropecuários, sendo
+76% UAF; 20% das UAF são geridas por mulheres, 2% por menores de 25 anos e 27% por maiores de 65 anos. Esses dados demonstram
+a lacuna de gênero, o envelhecimento da população e a problemática da sucessão geracional na agricultura familiar. O ciclo de pobreza
+repete-se há gerações e poucas políticas públicas chegam aos mais vulneráveis, com poucas exceções.
+
+O Projeto proposto representa a continuidade e ampliação do Projeto Paulo Freire I que gerou impactos relevantes no fortalecimento da
+agricultura familiar no Ceará e contribuirá na mitigação dos seguintes problemas: Mitigação dos Efeitos da Pobreza e Extrema Pobreza
+Rural. O IDH é considerado baixo em 49 municípios, médio em 124 e alto em 2. 43% das famílias estavam em situação de pobreza e 24%
+em extrema pobreza em 2010. Com a redução do auxílio emergencial, a média estadual de extrema pobreza aumentou mais de 8% em
+2020.
+
+Mitigação da Fome. Antes da pandemia, a insegurança alimentar grave já se encontrava em crescimento de 6,2% no estado do Ceará
+conforme comparativo realizado pelo IPECE (2022). Durante a pandemia, o Ceará foi o 8º com maior proporção de domicílios com
+moradores vivendo em insegurança alimentar grave (26%), o que representa 2,4 milhões passando fome, o que equivale a 27% da
+população, conforme dados da II VIGISAN. Quanto ao percentual de domicílios com crianças em situação de pobreza, se configura como
+a 4º pior situação entre os estados com 59% das crianças vivendo nesta condição segundo a UNICEF BRASIL (2023).
+
+Práticas agrícolas insustentáveis e degradação ambiental. O principal motor de mudança no uso da terra é a conversão da Caatinga para
+agricultura. A degradação antropogênica é acelerada pelas mudanças climáticas.
+
+Do total de UAF, 33% não realizavam nenhuma prática conservacionista, e 33% das UAF da área do Projeto usavam agrotóxicos. Isso
+indica a necessidade de, além de expandir a oferta de Assistência Técnica e Extensão Rural (ATER), capacitar os técnicos em práticas
+produtivas sustentáveis. Falta de saneamento básico rural. Segundo a Seinfra, enquanto o abastecimento de água alcançava 98% nas
+áreas urbanas em 2016; nas áreas rurais, a taxa era de 15%. A rede pública de esgoto cobria 15% da área urbana dos municípios em
+2016, enquanto na área rural era de 0%. O percentual de municípios com coleta de lixo adequada no Ceará é de 44%. 75% dos
+agricultores familiares da área do Projeto possuem acesso a recursos hídricos e 73% das UAF têm cisternas. Segundo levantamento da
+COAGUA/SDA (2021), há 147 mil famílias sem cisterna de consumo humano na área do Projeto. A política de recursos hídricos do Ceará,
+apesar dos avanços, não garante segurança à produção da agricultura familiar. Acesso limitado à ATER. 11% (31.753) das UAF da área
+do Projeto receberam ATER e somente 16% desta dirigiu-se às mulheres. Das 31.753 UAF que receberam ATER, 88% receberam o
+serviço do Governo, 6% contrataram serviços de ATER com recursos próprios e 2% receberam orientação técnica de cooperativas. A
+pouca abrangência da ATER traduz-se na baixa adoção de práticas conservacionistas. Desafios de comercialização, beneficiamento e
+inovações: Segundo dados da SDA, há 128 cooperativas na área do Projeto, e suas principais barreiras são a gestão ineficiente, falta de
+ATER de qualidade, restrições de acesso ao mercado, inadequação ambiental e sanitária, dificuldades de acesso às políticas de compras
+institucionais e acesso a inovações. Somente 34.977 UAF (12% do total) são agroindústrias rurais. Capacidades institucionais insuficientes
+. Há limitada provisão de serviços governamentais de apoio aos pequenos agricultores, gestão sustentável dos recursos naturais e acesso
+à água e ao saneamento.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+O Projeto implementará soluções para tratar as problemáticas identificadas no diagnóstico, e estarão orientadas prioritariamente para as
+comunidades com alta incidência de famílias rurais em situação de pobreza e/ou extrema pobreza, com insegurança alimentar e que
+enfrentam maiores dificuldades no acesso à água.
+
+A proposta segue a narrativa da ruptura do ?ciclo vicioso? entre práticas agrícolas ineficientes, degradação dos recursos naturais e o
+empobrecimento da população. Ou seja, as práticas agrícolas não adequadas causam perda da capacidade produtiva agrícola, pressão
+nos recursos naturais, e a consequente redução da área produtiva e da produtividade. Disso, resulta uma degradação da oferta de
+alimentos para consumo e comercialização, e a consequente diminuição da renda agrícola e das condições de vida. Estes fatores tendem
+a aumentar o empobrecimento das famílias, as quais submetidas à necessidade de compensar essa degradação, não têm alternativas há
+não ser ampliar práticas inapropriadas agrícolas, e o uso dos recursos naturais, amplificado assim a espiral negativa de degradação
+ambiental e empobrecimento.
+
+Para a ruptura deste ciclo, são propostas as soluções para a/o:
+
+a) Redução da pobreza, extrema pobreza e combate à insegurança alimentar
+
+(cid:10)
+
+
+Página: 3
+
+As soluções para o enfrentamento da pobreza, extrema pobreza e insegurança alimentar, perpassam de forma transversal nas atividades
+propostas no Projeto. Iniciando-se na etapa de seleção das famílias, onde a focalização será direcionada para a priorização no
+atendimento destas, e seguindo pela estratégia de atuação integrada, onde vislumbra a melhora da qualidade de vida da população alvo.
+A atuação no combate à pobreza e a insegurança alimentar será realizada de forma multidimensional, onde a melhoria de aspectos
+interdependentes, como sociais, ambientais e produtivos, propiciará o desenvolvimento dos territórios, e a consequente melhoria na
+qualidade de vida da população.
+
+b) Desenvolvimento da agricultura agroecológica sustentável em sinergia com a recuperação e a preservação ambiental
+
+As soluções para o desenvolvimento produtivo estarão incluídas nos Planos de Desenvolvimento Rural Local (PDRL), por meio da adoção
+das seguintes práticas agroecológicas: i) recuperar pastagens e solos agrícolas; ii) desenvolver a agricultura agroecológica; iii)
+fortalecimento das cadeias produtivas; iv) tratamento e uso adequado de dejetos animais; e v) produção agropecuária adaptada às
+mudanças climáticas.
+
+Espera-se que, como resultado dessas ações, as famílias beneficiadas passem a adotar tecnologias agropecuárias sustentáveis e
+consigam, ao mesmo tempo, aumentar sua produtividade, renda, diversificação produtiva, resiliência, melhoria alimentar, entre outros
+resultados.
+
+c) Melhoria do acesso à infraestrutura comunitária e familiar de saneamento básico e energia renovável
+
+Serão adotadas soluções para garantir que parte das comunidades tenham acesso ao saneamento básico, e como resultado, reduzir a
+contaminação do solo, terras e águas, prover o acesso à água de melhor regularidade e qualidade para a comunidade, além de prevenir
+as doenças associadas aos rejeitos produzidos nas unidades familiares. Serão adotadas tecnologias para geração de energia elétrica via
+fonte solar, como forma de reduzir custos operacionais de produção agrícola e familiares.
+
+d) Acesso à assistência técnica (ATER)
+
+Visa disponibilizar o serviço de técnicos especialistas, assessorando as famílias de agricultores e suas organizações em prol da
+elaboração, implementação e gestão dos planos financiados, e como resultado, permitir o fortalecimento das capacidades das famílias
+agricultoras, garantindo a implementação sustentável das atividades do Projeto.
+
+e) Melhoria do beneficiamento de produtos da agricultura familiar, comercialização e inovação
+
+As soluções serão voltadas ao fortalecimento de pequenas unidades de beneficiamento de produtos da agricultura familiar, permitindo o
+aprimoramento dos meios de transformação, seguindo a lógica da preservação e recuperação ambiental.
+
+Serão priorizadas pequenas intervenções para resultar em: i) unidades com adequação ambiental, físicas e processuais para a obtenção
+de certificações; ii) maquinários implementados ou atualizados; e iv) o fortalecimento das capacidades de gestão e administração.
+
+g) Desenvolvimento das capacidades institucionais dos órgãos do estado voltados ao desenvolvimento rural e para a mitigação dos efeitos
+da pobreza e extrema pobreza rural
+
+As soluções visam ao aumento das capacidades técnicas do estado por meio da realização de eventos de capacitação e intercâmbios,
+que resultarão no fortalecimento técnico e a atualização da equipe do estado para enfrentar os desafios produtivos diagnosticados de
+forma integrada.
+
+Importante destacar que, apesar do Projeto apresentar as ações desagregadas por componentes, estes foram estruturados de forma
+complementar, atuando em diversas frentes para o superação da fome e para a redução da pobreza e extrema pobreza.
+
+A sustentabilidade das ações será garantida pela estratégia principal de fortalecer as capacidades dos agricultores e suas organizações,
+além do corpo técnico do estado. O investimento será realizado com vistas a atender toda a cadeia de produção, ou seja, desde a
+melhoria da produção, como também no beneficiamento e comercialização.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+O Projeto tem aderência a alguns dos programas estratégicos do Ceará 2050 e encontra-se alinhado com os seus objetivos. Dentre esses
+programas, estão o Mais Valor no Campo, Ativos Ambientais e Segurança Hídrica no Semiárido.
+
+Além destes, o Projeto está alinhado às ações previstas na lei de revisão do Plano Plurianual (PPA) 2020-2023, revisado para o período
+de 2022-2023 e a Lei Orçamentária Anual para os anos correspondentes, conforme descrito abaixo em Programas e Iniciativas (códigos
+numéricos, do PPA 2022-2023, e no anexo 3, a ações sinérgicas com o Projeto) :
+
+131 - PROTEÇÃO E DEFESA DOS DIREITOS DA MULHER
+
+134 - INSTITUCIONALIZAÇÃO E DESENVOLVIMENTO DE POLÍTICAS PÚBLICAS PARA A JUVENTUDE
+
+135 - PROMOÇÃO E DEFESA DOS DIREITOS HUMANOS
+
+(cid:10)
+
+
+Página: 4
+
+254 - TRANSPARÊNCIA, PARTICIPAÇÃO E CONTROLE SOCIAL
+
+431 - INCLUSÃO E EQUIDADE NA EDUCAÇÃO
+
+711 - MATRIZ ENERGÉTICA DO ESTADO DO CEARÁ
+
+724 - CEARÁ MAIS VERDE: CONSERVAR E PROTEGER OS RECURSOS NATURAIS E BIODIVERSIDADE DO CEARÁ
+
+725 - CEARÁ NO CLIMA: MITIGANDO E SE ADAPTANDO ÀS MUDANÇAS CLIMÁTICAS
+
+726 - RESÍDUOS SÓLIDOS
+
+A nível federal, tem aderência às seguintes políticas e programas: ao Plano Setorial de Adaptação e Baixa Emissão de Carbono na
+Agropecuária (ABC+), ao Programa Nacional de Assistência Técnica e Extensão Rural na Agricultura Familiar e na Reforma Agrária (
+PRONATER), ao Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf), ao Programa de Aquisição de Alimentos (PAA),
+ao Programa Nacional de Alimentação Escolar (PNAE), ao Programa Fomento Rural, ao Programa Cisternas, à Política Nacional de
+Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais, ao novo Código Florestal, ao Plano Nacional de Promoção das
+Cadeias de Produtos da Sociobiodiversidade, ao Programa Água para Todos, ao Programas Internet para Todos e Comunidades Rurais
+Conectadas, dentre outros programas e políticas relacionados diretamente às intervenções do Projeto.
+
+Contrapartida: A contrapartida será proveniente de receitas tributárias previstas nos artigos 155, 158 e 159, inciso I, (a), da Constituição
+Federal, em conformidade com o disposto no Art. 2º, §1º, da Resolução nº 03 de 29/05/2019.
+
+Os instrumentos orçamentários a serem elaborados (PPA 2024-2027 e LOA 2023) já incluirão em seus bojos as previsões de ações e de
+recursos orçamentários para execução das atividades previstas no Projeto.
+
+Taxa de câmbio
+
+(I) Taxa de câmbio da moeda dos financiamentos FIDA/AECID em relação ao REAL: 1EUR = R$ 5,08039
+
+(II) Data de referência: 28/02/2023
+
+2. Projeto
+
+### 2.1. Título
+
+
+Projeto de Desenvolvimento de Capacidades para Superação da Fome e Mitigação dos efeitos da Pobreza e extrema Pobreza Rural
+
+
+### 2.2. Título Abreviado
+
+
+Projeto Paulo Freire II
+
+
+### 2.3. Mutuário
+
+
+Estado do Ceará
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Objetivo Geral
+
+Contribuir para a superação da fome, além de mitigar os efeitos da pobreza e extrema pobreza, por meio da adoção de práticas agrícolas
+sustentáveis, segurança hídrica reforçada e pelo aumento das capacidades dos agricultores familiares e de suas organizações.
+
+Objetivos Específicos
+
+Os objetivos específicos são:
+
+1.Proporcionar a redução da incidência de famílias em situação de pobreza e extrema pobreza, além de garantir a segurança alimentar e
+nutricional dos agricultores familiares;
+
+2.Fortalecer as principais cadeias produtivas da agrícola familiar, adaptadas às mudanças do clima, incluindo o combate ao uso de
+práticas inadequadas à preservação do solo, a degradação de áreas de preservação e assoreamento dos reservatórios de água, além de
+garantir um aumento de renda e maior disponibilidade alimentar para às famílias;
+
+3.Fortalecer pequenas unidades de beneficiamento de produtos da agricultura familiar, agregando valor aos produtos agrícolas, ampliando
+o acesso ao mercado e diversificando as fontes de renda;
+
+(cid:10)
+
+
+Página: 5
+
+4.Assegurar o acesso da população rural aos recursos hídricos para consumo humano e para produção agropecuária, e implementar
+tecnologias sociais, no âmbito familiar e comunitário, aderentes ao uso sustentável e à preservação dos recursos naturais;
+
+5.Ofertar ATER de qualidade para fortalecer as capacidades dos agricultores e de suas organizações, e introduzir inovações digitais como
+apoio às atividades agrícolas;
+
+6.Planejar e implementar atividades inclusivas para mulheres, jovens e famílias de povos e comunidades tradicionais, como Indígenas e
+Quilombolas;
+
+7.Fortalecer as capacidades do corpo técnico do estado, além de modernizar a estrutura do governo.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+
+
+Descrição
+Famílias beneficiadas pelo Projeto
+
+Famílias beneficiadas pelo Projeto lideradas por
+mulheres
+
+Famílias beneficiadas pelo Projeto liderados por
+jovens
+
+Famílias beneficiadas pelo Projeto, pertencentes
+a Povos e Comunidades Tradicionais
+
+Comunidades rurais que recebem investimentos
+para a superação da fome & mitigação dos
+efeitos da pobreza e extrema pobreza rural (
+Sistema de MeA do PPF II)
+Famílias beneficiadas pelo saneamento básico
+rural comunitário
+
+Famílias que recebem ATER para
+desenvolvimento da agricultura agroecológica e
+atividades não agrícolas
+
+Percentual de famílias que adotam tecnologias
+agropecuárias sustentáveis
+
+Percentual de famílias que aumento a produção
+agrícola
+
+Redução do índice de Pobreza Multidimensional
+(IPM)
+
+
+Página: 6
+
+Meta
+52.000,00
+
+Linha de Base
+0,00
+
+0,00
+
+26.000,00
+
+0,00
+
+7.800,00
+
+0,00
+
+1.000,00
+
+0,00
+
+920,00
+
+Família
+
+Família
+
+Família
+
+Fórmula de Cálculo Unidade de Medida
+Soma do nº de
+famílias beneficiadas
+pelo projeto, sem
+repetição (Sistema de
+MeA do PPF II)
+Soma do nº de
+famílias
+representadas por
+mulheres e
+beneficiadas pelo
+projeto (Sistema de
+MeA do PPF II)
+Soma do nº de
+famílias
+representadas por
+jovens e beneficiadas
+pelo projeto (Sistema
+de MeA do PPF II)
+Soma do nº de
+famílias pertencentes
+de Comunidades
+Tradicionais (
+quilombolas,
+indígenas e
+pescadores artesanais
+) (Sistema de MeA do
+PPF II)
+Comunidades
+beneficiadas pelos
+PDRL
+
+Comunidade
+
+Família
+
+Família
+
+0,00
+
+7.000,00
+
+Família
+
+0,00
+
+27.600,00
+
+Percentual de família
+
+0,00
+
+90,00
+
+Percentual de família
+
+0,00
+
+50,00
+
+Percentual de IPM
+
+0,00
+
+20,00
+
+Soma do número de
+famílias beneficiadas
+pelas ações de
+saneamento a nível
+comunitário (Sistema
+de MeA do PPF II)
+Soma do número de
+famílias beneficiadas
+pelo serviço de ATER
+(Sistema de MeA do
+PPF II)
+Relação das famílias
+que alteram as
+práticas agrícolas em
+prol da segurança
+alimentar, e da
+preservação do solo,
+da água e do ar (
+Estudo de avaliação
+de impacto)
+Relação de famílias
+que conseguem
+aumentar a produção
+agrícola (Estudo de
+avaliação de impacto)
+Redução do nº IPM
+segundo as
+dimensões de Renda,
+Capital Social, Capital
+Humano, Segurança
+Alimentar, Condições
+de Moradia e
+Habitação e
+Sustentabilidade (
+Estudo de avaliação
+de impacto)
+
+
+Página: 7
+
+Percentual de família
+
+0,00
+
+50,00
+
+Percentual de família
+
+0,00
+
+70,00
+
+Percentual de família
+
+0,00
+
+10,00
+
+Percentual de famílias que melhoram sua
+Segurança Alimentar e Nutricional (SAN)
+
+Percentual de famílias que relatam a redução da
+escassez hídrica em relação às suas
+necessidades
+
+Percentual de famílias atendidas pelos PDRL
+que beneficiam e/ou vendem parte de sua
+produção para as cooperativas apoiadas pelo
+Projeto e/ou outras estratégias mercadológicas
+
+Proporção das
+famílias atendidas que
+declaram ter
+melhorado sua SAN (
+utilizando a Versão
+Curta da Escala
+Brasileira de
+Insegurança Alimentar
+- EBIA) (Estudo de
+avaliação de impacto)
+Relação das famílias
+que relatam a redução
+da escassez hídrica
+em relação às suas
+necessidades (Estudo
+de avaliação de
+impacto)
+Relação das famílias
+atendidas pelos PDRL
+que beneficiam e/ou
+vendem parte de sua
+produção junto as
+cooperativas apoiadas
+pelo Projeto e/ou
+outras estratégias
+mercadológicas(
+Estudo de avaliação
+de impacto)
+
+
+### 2.7. Projeto/Componentes
+
+
+Componentes
+C - C1. DESENVOLVIMENTO RURAL SUSTENTÁVEL
+S - S1.1. FORTALECIMENTO DA AGRICULTURA FAMILIAR E SUPERAÇÃO DA FOME E MITIGAÇÃO DOS
+EFEITOS DA POBREZA
+P - Planos de Desenvolvimento Rural Local (PDRL)
+P - Regularização Fundiária e Ambiental
+S - S1.2. FORTALECIMENTO DA COMERCIALIZAÇÃO E DO BENEFICIAMENTO DE PRODUTOS DA
+AGRICULTURA FAMILIAR
+P - Plano de Negócio para fortalecimento do beneficiamento e da comercialização
+S - S1.3. INOVAÇÕES TECNOLÓGICAS
+P - Agritech e Fintech
+C - C2.  SEGURANÇA HÍDRICA, SANEAMENTO E ENERGIA RENOVÁVEL
+S -  S2.1. SANEAMENTO BÁSICO RURAL COMUNITÁRIO
+P - Acesso à água Rural Comunitário
+P - Reuso de água comunitário para produção
+P - Plano de Reciclagem e Resíduos Sólidos
+S - S2.2. TECNOLOGIA SOCIAL DE ACESSO À ÁGUA, APOIO À PRODUÇÃO AGRÍCOLA E
+INFRAESTRUTURA FAMILIAR
+P - Cisterna para consumo humano
+P - Cisterna para produção agropecuária
+P - Sistema de Reuso Familiar para Produção
+P - Módulos Sanitários com Tratamento
+P - Fogão Ecoeficiente
+P - Biodigestor
+C - C3. FORTALECIMENTO INSTITUCIONAL, TERRITORIAL E INOVAÇÕES
+S - S3.1. FORTALECIMENTO INSTITUCIONAL PARA O DESENVOLVIMENTO DA AGRICULTURA
+AGROECOLÓGICA
+P - Fortalecimento técnico da equipe do estado do Ceará
+P - Fortalecimento da equipe para Governança e Desenvolvimento Territorial
+P - Fortalecimento técnico da equipe de ATER e da CTE
+S - S3.2. ASSESSORIA TÉCNICA CONTÍNUA (ATC) PARA DESENVOLVIMENTO DA AGRICULTURA
+AGROECOLÓGICA E SUSTENTÁVEL
+P - Identificar, elaborar e implementar os PDRL, e desenvolver a governança sustentável
+S - S3.3. CONSULTORIA TÉCNICA ESPECIALIZADA (CTE) PARA O FORTALECIMENTO DO
+BENEFICIAMENTO E DA COMERCIALIZAÇÃO
+P - Consultoria Técnica Especializada (CTE) para o fortalecimento da gestão e comercialização dos
+empreendimentos.
+S - S3.4 - INOVAÇÃO EM ATER REMOTA
+P - Implementação e uso da ATER Remota
+C - C4. GESTÃO DO PROJETO, M&A E INTERCÂMBIO DE CONHECIMENTO
+S - S4.1. UNIDADE GESTORA DO PROJETO (UGP) E ESCRITÓRIOS REGIONAIS DO PROJETO (ERP)
+P - UGP Estruturada e Escritórios Regionais do Projeto (ERP)
+S - S4.2. MONITORAMENTO E AVALIAÇÃO (MEA) E GERAÇÃO DE CONHECIMENTO
+P - Sistema e estudos de MeA
+P - Gestão do Conhecimento, Comunicação e Inovações (GCCI)
+P - Cooperação Sul-Sul e triangular (SSTC)
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 8
+
+Valor(US$)
+78.045.440,00
+73.803.840,00
+
+73.167.600,00
+636.240,00
+3.181.200,00
+
+3.181.200,00
+1.060.400,00
+1.060.400,00
+28.948.920,00
+4.665.760,00
+4.241.600,00
+318.120,00
+106.040,00
+24.283.160,00
+
+9.649.640,00
+11.028.160,00
+2.078.384,00
+424.160,00
+763.488,00
+339.328,00
+14.612.312,00
+581.099,20
+
+352.052,80
+114.523,20
+114.523,20
+11.706.816,00
+
+11.706.816,00
+763.488,00
+
+763.488,00
+
+1.560.908,80
+1.560.908,80
+10.943.328,00
+10.298.604,80
+10.298.604,80
+644.723,20
+411.435,20
+127.248,00
+106.040,00
+132.550.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - C1. DESENVOLVIMENTO RURAL SUSTENTÁVEL
+Este componente possui o objetivo de implementar investimentos para o fortalecimento da Agricultura Familiar, que garantam a
+superação da fome, redução da pobreza e extrema pobreza rural em cerca de 1.200 comunidades rurais do Semiárido cearense.
+As ações serão realizadas no sentido de promover e incentivar a adoção de práticas agroecológicas, favorecendo a conservação e
+preservação dos recursos naturais no Semiárido, além de promover meios que garantam a recuperação, a preservação e o uso
+sustentável de áreas estratégicas, em particular, para a captação e o armazenamento de água, que corroborem com a melhoria
+dos aspectos ambientais. Incluirá, por exemplo, combater o uso de práticas agrícolas que agridem o solo, a pressão pela retirada
+da Caatinga e a degradação de áreas de preservação, como nascentes e mata ciliares de rios, córregos e lagoas (barreiros e etc).
+A proposta de intervenção do componente se dará em Territórios de Desenvolvimento Rural, constituídos a partir de agrupamentos
+de comunidades rurais, composta por famílias em situação de pobreza e/ou extrema pobreza, e com alta insegurança alimentar.
+Estes Territórios serão definidos a partir de um mapeamento prévio, no momento inicial do Projeto, por meio da atuação da ATER,
+técnicos especialistas do Projeto, e em consulta com as comunidades rurais e instâncias municipais envolvidas. Nesse
+mapeamento, serão priorizadas as comunidades rurais localizadas nos 175 municípios localizados no Semiárido cearense. Serão
+priorizadas famílias cadastradas em programas sociais do estado, como o Mais Infância Ceará, que atua em famílias
+extremamente pobres e que atendam aos critérios do programa.
+Este diagnóstico inicial será o norteador das ações do Projeto, e inclusive, evitará a sobreposição de benefícios comuns a outros
+programas/projetos do estado do Ceará ou do Governo Federal.
+
+
+Página: 9
+
+Este componente apoiará também a adequação de pequenas unidades de beneficiamento de produtos agrícolas, para que estejam
+aderentes às normas ambientais, principalmente em relação ao descarte de contaminantes ao ambiente. Uma vez estas unidades
+regularizadas e fortalecidas, serão um importante meio para melhorar o valor e a comercialização da produção dos Territórios.
+Como fator de inovação, o Projeto apoiará o desenvolvimento de pilotos de instrumentos digitais, como agritech e fintech,
+principalmente nas áreas de serviços financeiros digitais, comercialização eletrônica, serviços de informações digitais, entre outras.
+Portanto, este componente trabalhará fortemente o desenvolvimento, no beneficiamento e na comercialização da produção
+agrícola familiar, em contraponto com a redução do processo de degradação ambiental, fome e efeitos da pobreza rural.
+Desta forma, as ações sinérgicas previstas para serem implementadas nestes Territórios compreendem:
+i) implementar, nos Territórios de Desenvolvimento Rural, ações produtivas e ambientais que visam o fortalecimento da Agricultura
+Familiar que garantam a superação da fome, redução da pobreza e extrema pobreza rural, e promova ações de segurança
+alimentar e nutricional;
+ii) fortalecer pequenas unidades de beneficiamento, garantindo a agregação de valor aos produtos da agricultura familiar, e ampliar
+as formas de comercialização;
+iii) apoiar na implementação de pilotos de instrumentos digitais, com agritech e fintech;
+iv) garantir, de forma transversal, a participação das famílias em situação de pobreza e extrema pobreza, comunidades tradicionais
+e grupos de famílias representados por mulheres e jovens, além de propiciar formas e recursos para melhoria da segurança
+alimentar familiar.
+A estratégia do Projeto de combate à Insegurança Alimentar e Nutricional (INSAN) neste componente seguirá as seguintes
+trajetórias: i) Maior disponibilidade e acesso a alimentos nutritivos a nível familiar, por meio de maior diversificação produtiva, do
+aumento da produção de culturas ricas em nutrientes, e implementação sistemas produtivos diversificados, baseados em práticas
+agroecológicas; e ii) Gestão sustentável dos recursos naturais e resiliência climática, promovendo práticas resilientes ao clima, o
+manejo sustentável dos recursos naturais, entre outras atividades.
+Para o atendimento dessas ações, o componente atuará com base em 3 subcomponentes, caracterizados a seguir.
+
+S - S1.1. FORTALECIMENTO DA AGRICULTURA FAMILIAR E SUPERAÇÃO DA FOME E MITIGAÇÃO DOS EFEITOS DA
+POBREZA
+Este subcomponente tem como objetivo realizar investimentos em ações concretas para a superação ao avanço da fome e da
+pobreza rural, além de garantir o desenvolvimento das atividades/cadeias produtivas em total consonância com a recuperação e
+preservação dos aspectos ambientais.
+A adoção de técnicas da Agroecologia será fundamental para a redução da pressão sobre o meio ambiente e a adaptação às
+mudanças do clima. Além disso, este subcomponente será orientado pelas vocações econômicas dos Territórios assistidos, de
+modo a assegurar que o ciclo produção-comercialização possa se integrar aos arranjos já existentes na região. As ações propostas
+para a preservação e recuperação da mata e do solo reduzirão os efeitos da desertificação nos Territórios, garantindo a melhoria
+da biodiversidade (restauração da flora e fauna), além de propiciar uma gestão mais racional da disponibilidade de água superficial
+e subterrânea.
+O planejamento será estruturado com base no diagnóstico amplo a ser realizado nos Territórios, e irá garantir que as comunidades
+sejam envolvidas em prol da preservação e recuperação ambiental, no entendimento que o resultado será favorável para todo o
+grupo alvo da intervenção.
+
+P - Planos de Desenvolvimento Rural Local (PDRL)
+Cada Território conterá um Plano de Desenvolvimento Rural Local (PDRL), que será o principal instrumento para o
+desenvolvimento produtivo sustentável. O PDRL atuará com foco em geração de renda para redução da pobreza e extrema
+pobreza, na melhoria e no aumento da produção agrícola e na inserção dos produtos no mercado, por meio do aumento da
+participação dos agricultores familiares nos elos de maior valor agregado do mercado local, (produção agrícola e não agrícola) de
+forma econômica, social, inovadora e ambientalmente sustentável.
+Os PDRL são projetos produtivos que visam fomentar ações para o desenvolvimento da produção agrícola e não agrícola das
+famílias beneficiárias, por meio de repasse de recursos financeiros para a implantação das referidas ações, contribuindo para
+inclusão produtiva e aumento da renda. O PDRL irá identificar as necessidades de ações/investimentos a serem realizadas pelo
+Projeto e delinear as intervenções sob os aspectos produtivos. Este diagnóstico inicial será o norteador das ações do Projeto, e
+inclusive, evitará a sobreposição de benefícios comuns a outros programas/projetos do estado do Ceará ou do Governo Federal.
+Serão priorizados agricultores em situação de pobreza e extrema pobreza e grupos de mulheres e jovens. Haverá também a
+priorização de atendimento de comunidades tradicionais, como indígenas, quilombolas e pescadores artesanais. As temáticas que
+permitam uma melhoria da segurança alimentar e nutricional serão tratadas em todos os PDRL.
+Prioritariamente, são previstas ações para o fortalecimento das seguintes atividades/cadeias produtivas: i) fruticultura; ii)
+olericultura; iii) mandiocultura; iv) melicultura; v) cajucultura; e vi) criação de pequenos animais, como avicultura, suinocultura,
+caprinocultura e ovinocultura.
+Jovens: Para incentivar a participação de jovens nas atividades produtivas, o PDRL priorizará a incorporação de inovações para os
+processos produtivos, incluindo o atendimento de demandas especificas da juventude na busca de soluções dentro e fora das
+comunidades. Os planos englobam atividades agrícolas e não agrícolas com uso de tecnologias sociais inovadoras contribuindo
+para o protagonismo da juventude rural.
+Mulheres: No sentido de contemplar as necessidades práticas e estratégicas das mulheres, serão subsidiadas ações visando
+favorecer a sua autonomia financeira.  As experiências revelam que o apoio direto as mulheres influenciam o protagonismo e
+autonomia de outras mulheres com impactos favoráveis na realidade da comunidade.
+Segurança Alimentar e Nutricional (SAN): i) garantir o acesso a alimentos de qualidade e quantidade para as famílias por meios
+dos investimentos realizados nos PDRL (Casas de sementes crioulas e atividades produtivas da agricultura familiar) e das
+tecnologias sociais; ii) inserção dos produtos no mercado local visando aumentar e diversificar a oferta de alimentos de qualidade
+para toda população, por meio de investimentos, como kits feiras; iii) organização das famílias em Redes de Agricultores
+Agroecológicos; e iv) elaboração do Catálogo das Feiras e seus produtos e parcerias com instituições renomadas para a melhoria
+da apresentação dos produtos e certificações.
+
+
+Página: 10
+
+Para o melhor desenvolvimento dessas ações e para garantir sua sustentabilidade, os PDRL serão implementados por meio de
+uma ATER especializada, financiada pelo subcomponente 3.2.
+Principais produtos: Aproximadamente 230 PDRL financiados, beneficiando cerca de 27.600 famílias em 920 comunidades rurais.
+
+P - Regularização Fundiária e Ambiental
+Nos Territórios, serão identificadas as necessidades para a realização das atividades para a regularização fundiária e a inscrição
+dos imóveis (e áreas comuns) no Cadastro Ambiental Rural (CAR). O Projeto irá obter os dados necessários em campo, a sua
+consolidação e a posterior inserção no Sistema Nacional de Cadastro Ambiental Rural (Sicar). A emissão do CAR consiste no 1º
+passo para a regularidade ambiental da propriedade rural e das áreas comuns, que, além de garantir a segurança jurídica ao
+produtor, garante a preservação do meio ambiente de acordo com o Código Florestal vigente.
+Este documento é obrigatório para todos os imóveis rurais e tem por finalidade integrar as informações ambientais referentes à
+situação das áreas de preservação permanente (APP), das áreas de reserva legal (RL), das florestas e dos remanescentes de
+vegetação nativa, das áreas de uso restrito e das áreas consolidadas das propriedades rurais.
+O CAR é condição obrigatória para adesão ao Programa de Regularização Ambiental (PRA), especificamente para os proprietários
+que possuem um passivo ambiental relativo à supressão irregular de remanescentes da vegetação nativa, em APP, Reserva Legal
+e de uso restrito.
+Durante a etapa de diagnóstico das comunidades rurais e suas famílias, o PPF II irá identificar e qualificar as demandas para a
+regularização fundiária a serem encaminhadas para o Instituto do Desenvolvimento Agrário do Ceará (IDACE). O processo inicia
+com audiências públicas nos municípios atendidos pelo Projeto após uma articulação entre IDACE/SDA e Câmaras Municipais.
+Como resultado desta audiência, a Ata é encaminhada junto ao Instituto de Colonização e Reforma Agrária (INCRA) e a Secretaria
+Nacional de Assuntos Fundiários do Ministério da Agricultura. Em seguida o Projeto Paulo Freire inicia em conjunto com o IDACE a
+articulação e mobilização social junto as comunidades, associações comunitárias e sindicatos dos trabalhadores e trabalhadoras
+rurais (STTR), esclarecendo os trabalhos de campo a serem realizados pelo IDACE como a medição, georreferenciamento da terra
+e o cadastro do detentor bem como do imóvel rural. Após os trabalhos de campo concluídos o IDACE encaminhará via Ofício a
+Planta e o memorial descritivo da gleba ao Cartório de Registro de Imóveis do município e este emite a matrícula que permite a
+confecção dos títulos de domínio ou título de propriedade rural. Atualmente, o IDACE já realizou 73,31% de imóveis rurais
+geocadastrados para fins de regularização fundiária.
+Principais produtos: Cerca de 6.000 famílias com regularização fundiária e inscritas no Sicar.
+
+S - S1.2. FORTALECIMENTO DA COMERCIALIZAÇÃO E DO BENEFICIAMENTO DE PRODUTOS DA AGRICULTURA
+FAMILIAR
+Este subcomponente terá o objetivo de fortalecer pequenas unidades de beneficiamento da produção agrícola familiar, para que
+estas possam estar regularizadas ambientalmente e sanitária, sendo devidamente certificadas para agregar valor aos produtos
+financiados pelos PDRL do subcomponente 1.1, e desta forma, ampliar o acesso a novos mercados.
+Estes investimentos serão realizados em total consonância com a preservação dos aspectos ambientais, garantindo que estas
+unidades não sejam vetores de degradação do meio ambiente.
+
+P - Plano de Negócio para fortalecimento do beneficiamento e da comercialização
+Os investimentos no fortalecimento de pequenas unidades de beneficiamento permitirão o aprimoramento dos meios de
+transformação, seguindo a lógica da preservação e recuperação ambiental.
+Os investimentos serão realizados via Planos de Negócios (PN) para regularização e adaptação das unidades de beneficiamento
+existente, e irão garantir a: i) adequação ambiental, evitando o descarte de poluentes no meio ambiente de forma não adequada; ii)
+adaptações físicas e processuais, para garantir o atendimento às normas sanitárias para a obtenção de certificações (SIF, SIE,
+certificação orgânica etc); iii) implementação ou atualização de maquinários, que visam a aumentar a produtividade, a
+diversificação de produtos e  facilitar processos; iv) integração de ferramentas digitais para comunicação (comercialização etc); v)
+apoiar no desenvolvimento de embalagens e logomarcas; e vi) implementação de tecnologias sociais para garantir o suporte
+hídrico, o tratamento e o descarte seguro de resíduos potencialmente poluentes e tecnologias para geração de energia elétrica por
+fonte solar.
+Importante destacar que essas unidades atuam como meio de transformação de produtos, que melhoram seu o valor agregado e,
+desta forma, ampliam o acesso a novos mercados, consequentemente, garantindo a prática de preços mais benéfica para o
+agricultor.
+Os investimentos serão realizados incluindo atividades voltadas para grupos de mulheres e jovens, permitindo inclusive a
+ampliação da participação destes nos processos de gestão e decisório.
+Para o melhor desenvolvimento das ações e para garantir sua sustentabilidade, os Planos de Negócios (PN) serão elaborados e
+implementados com apoio técnico de Consultoria Técnica Especializada (CTE), financiadas pelo subcomponente 3.3, que incluirá o
+fortalecimento das capacidades de gestão e organização.
+Principais produtos: Cerca de 10 pequenas unidades de beneficiamento apoiadas.
+
+S - S1.3. INOVAÇÕES TECNOLÓGICAS
+Promover a inovação no âmbito da agricultura familiar no estado do Ceará, por meio da geração de informações de diagnóstico e
+de experiências piloto de apoio a instrumentos digitais, como as agritechs e fintechs, que trabalham com temas relevantes, tais
+como assistência técnica digital, serviços digitais de informação (preços, agroclimática, logística etc), serviços financeiros digitais,
+digitalização da cadeia de abastecimento, comércio eletrônico, entre outros.
+
+
+Página: 11
+
+P - Agritech e Fintech
+Apoiar a prestação de serviços por empresas startup de tecnologia que desejam expandir seus mercados e oferecer produtos e
+serviços para o meio rural do Ceará. A partir dos resultados dos estudos de demanda e oferta e de critérios de seleção
+desenvolvidos, seriam selecionadas empresas Fintech e Agritech para apresentarem propostas de produtos e serviços inovadores
+que poderiam atender à demanda identificada. As empresas selecionadas receberão mentoria, assistência técnica e apoio
+financeiro do Projeto para desenvolverem alternativas e inovações em seus produtos e serviços para que sejam adaptados às
+necessidades e condições dos públicos-alvo.
+Principais produtos: Cerca de 10 startups apoiadas.
+
+C - C2.  SEGURANÇA HÍDRICA, SANEAMENTO E ENERGIA RENOVÁVEL
+Este componente objetiva implementar infraestruturas capazes de melhorar a vida dos agricultores, por meio de investimentos nas
+áreas hídrica, saneamento e energia renovável. Podendo ser de uso comunitário ou familiar, os investimentos irão garantir o
+acesso à água de melhor regularidade e qualidade, além de reduzir a contaminação do solo, terras e águas com rejeitos
+produzidos nas unidades familiares.
+Oferecerá também, meios para realizar a transformação de partes dos rejeitos em itens reutilizáveis, como exemplo, a instalação
+de sistemas comunitários e familiares para o reuso de água com o tratamento de águas cinzas, e ações para a reciclagem e o
+destino adequado de resíduos sólidos familiares e dos processos produtivos.
+Na área de energia renovável, serão instaladas unidades familiares de biodigestores, para produção de gás residencial, por meio
+do uso de dejetos animais e resíduos agrícolas. Além desta tecnologia, serão apoiados projetos com implantação de painel solar
+para geração de energia elétrica.
+Prevê também, a instalação de fogões ecoeficientes, que apesar de não ser considerado uma fonte de energia renovável, é um
+importante equipamento para garantir o preparo dos alimentos utilizando menos lenha, consequentemente, reduzindo a pressão de
+desmatamento da mata nativa e reduzindo as emissões de Gases de Efeito Estufa (GEE).
+As ações e definições de comunidades que serão beneficiadas pela implementação das tecnologias e infraestruturas deste
+componente serão levantadas a partir dos Diagnósticos Rurais Participativo (DRP) elaborados para os Territórios, e das demandas
+ja existentes na Secretária de Desenvolvimento Agrário (SDA). Dessa forma, haverá uma integração de ações, incluindo os
+componentes 1 e 3.
+A estratégia do Projeto de combate à Insegurança Alimentar e Nutricional (INSAN) neste componente seguirá as seguintes
+trajetórias: i) Melhoria das determinantes sociais e ambientais da saúde, por meio de investimentos em saneamento básico rural, e
+da promoção de tecnologias sociais de acesso à água potável e o destino adequado de resíduos sólidos e do reuso de água; e ii)
+Maior igualdade de gênero e empoderamento das mulheres, introduzindo tecnologias que economizam tempo e trabalho (ex.
+fogões ecoeficientes e biodigestores), aumentando o controle e acesso das mulheres sobre insumos, tecnologias e finanças.
+
+S -  S2.1. SANEAMENTO BÁSICO RURAL COMUNITÁRIO
+Neste subcomponente, o saneamento básico rural será planejado e implementado em nível comunitário, ou seja, os investimentos
+serão realizados em prol da melhoria do meio ambiente e da qualidade de vida de um conjunto de famílias, considerando as
+soluções coletivas para acesso à água e esgotamento sanitário, além propiciar o descarte adequado e o reuso de uma parcela do
+lixo gerado por estas comunidades.
+As ações deste subcomponente serão realizadas nos Territórios, delineado por meio do diagnóstico destes. Este diagnóstico inicial
+será o norteador das ações do Projeto, e inclusive, evitará a sobreposição de benefícios comuns a outros programas/projetos do
+estado do Ceará ou do Governo Federal.
+
+P - Acesso à água Rural Comunitário
+Serão realizados investimentos para garantir o acesso à água de qualidade e em quantidade suficientes para o consumo humano
+das famílias. Prevê a implementação de poços, dessalinizadores e pequenos sistemas de armazenamento e distribuição de água,
+onde esses investimentos tiverem viabilidade técnica.
+Cada modelo será utilizado conforme as demandas e as características das comunidades alvo da intervenção.
+Principais produtos: Cerca de 100 sistemas implementados.
+
+P - Reuso de água comunitário para produção
+O sistema captará os dejetos de água cinza de um conjunto de residências. Por meio de processos de filtragem e purificação, a
+água resultante poderá ser utilizada para irrigação de áreas comunitárias, principalmente, para a produção de espécies forrageiras
+(que irão garantir a alimentação do rebanho no período de estiagem). O sistema de reuso de águas cinza comunitário poderá ser
+adotado em localidades onde há um aglomerado de residências, ou seja, principalmente em agrovilas de assentamentos, por
+exemplo.
+Dessa forma, haverá um menor descarte de água contaminada no ambiente, e em adicional, será utilizada para a irrigação de
+áreas produtivas, principalmente de forragem.
+Principais produtos: Aproximadamente 100 sistemas instalados.
+
+P - Plano de Reciclagem e Resíduos Sólidos
+O descarte inadequado de resíduos produzidos nas residências das famílias provoca a contaminação de solos, das fontes de água
+e do meio ambiente em geral. O Projeto apoiará ações direcionadas para o descarte adequado e o reuso de parte dos resíduos
+sólidos produzidos, cujos resíduos orgânicos gerados deverão ter uma destinação adequada (alimentação animal, compostagem
+etc) e os resíduos não orgânicos (como as embalagens plásticas) serão coletados para reciclagem, inclusive no desenvolvimento
+de grupos de artesanatos, liderados principalmente por mulheres e jovens, auferindo uma nova forma de renda para esses grupos.
+Principais produtos: Cerca de 100 grupos apoiados
+
+
+Página: 12
+
+S - S2.2. TECNOLOGIA SOCIAL DE ACESSO À ÁGUA, APOIO À PRODUÇÃO AGRÍCOLA E INFRAESTRUTURA FAMILIAR
+Este subcomponente visa implementar tecnologias sociais para a captação de água de chuva para o consumo humano e para
+produção, além da implantação de infraestruturas de soluções sanitárias, aderentes ao uso sustentável e à preservação dos
+recursos naturais.
+Estas tecnologias e inovações são alternativas que garantem a segurança alimentar e nutricional das famílias, além de serem
+soluções de alto impacto social e de baixo custo de implementação. Estas auxiliam o esforço de promover soluções para o
+desenvolvimento rural, desde uma perspectiva transversal que abarque a interconexão entre as questões de redução da pobreza,
+superação da fome, gestão sustentável dos ecossistemas, desenvolvimento produtivo, mitigação e adaptação às mudanças
+climáticas.
+
+P - Cisterna para consumo humano
+As cisternas para consumo humano (ou de primeira água) garantem aos beneficiários do Projeto o direito à água de qualidade,
+além de reduzirem o impacto de secas severas, como a vivenciada recentemente pelo estado do Ceará. As cisternas domiciliares
+de placas têm 16 mil litros têm o objetivo principal, proporcionar às famílias acesso à água de qualidade e em quantidade suficiente
+para consumo humano durante o período de estiagem.
+Principais produtos: Cerca de 7.200 cisternas implementadas.
+
+P - Cisterna para produção agropecuária
+As cisternas de produção (ou de segunda água) permitem armazenar água nos períodos chuvosos para fins de produção
+agropecuária, tanto para molhação de pequenas áreas agrícolas, como também para dessedentação animal. Com capacidade de
+52 mil litros, esse reservatório armazena água por meses para atender a demanda no período de estiagem, permitindo uma
+perenidade na produção agropecuária.
+Principais produtos: Aproximadamente 2.000 cisternas de produção implementadas.
+
+P - Sistema de Reuso Familiar para Produção
+O Sistema de Reuso de Água consiste numa Tecnologia Sociais que proporciona o aumento da disponibilidade de águas às
+famílias agricultoras. Além disso, a coleta e tratamento de água cinza é um importante avanço para o meio ambiente e a saúde
+pública. O Sistema faz a coleta, tratamento e reutilização da água cinza domiciliar (banho, pia e lavanderia) que antes ia direto para
+o solo. Após o processo de filtragem, está água pode ser utilizada para fortalecer os quintais produtivos, contribuindo para
+segurança alimentar e nutricional, além de ser um fator de geração de renda.
+Principais Produtos: 700 sistemas de reuso de água implementados.
+
+P - Módulos Sanitários com Tratamento
+Os módulos sanitários são infraestruturas domiciliares que irão contribuir pra a redução dos índices de morbimortalidade
+provocados pela falta de inadequação das condições de saneamento domiciliar entre às famílias mais pobres e extremamente
+pobre do meio rural. O objetivo e proporcionar aos domicílios melhorias sanitárias, necessárias à proteção das famílias e à
+promoção de hábitos higiênicos;
+Principais produtos: 100 módulos sanitários instalados.
+
+P - Fogão Ecoeficiente
+Instalação de fogões ecoeficientes para a preparação de alimentos, os quais reduzem o consumo de lenha e a incidência de
+problemas cardiorrespiratórios em mulheres e crianças. É uma tecnologia capaz de reduzir o consumo de lenha para o preparo de
+alimentos da família, consequentemente, reduzindo a pressão sobre o desmatamento da Caatinga e a emissão de gases de efeito
+estufa, além de garantir uma menor emissão de fumaça tóxica no ambiente de preparo.
+Principais produtos: Aproximadamente 3.000 fogões construídos.
+
+P - Biodigestor
+Os biodigestores têm como objetivo principal a produção de gás de cozinha. Seu uso permite a diminuição significativa do
+consumo de lenha da mata nativa, como também é substituto à compra de botijão de gás, gerando economia para as famílias.
+Serão implantados nas unidades familiares que dispõem de matéria prima, como dejetos dos animais e resíduos agrícolas.
+O líquido e gás gerados após a decomposição da matéria orgânica são coletados para serem utilizados como adubo orgânico e o
+biogás produzido é utilizado como combustível para fogões residenciais.
+A utilização do biodigestor trará ganhos ambientais, sociais e econômicos para a comunidade, entre estes pode-se citar: i) a
+preservação da vegetação local; ii) a redução da contaminação do solo e corpos hídricos; iii) a utilização de biofertilizantes e
+adubação nas hortas e roçados, contribuindo para o aumento da produção.
+Principais produtos: Cerca de 500 unidades implementadas.
+
+C - C3. FORTALECIMENTO INSTITUCIONAL, TERRITORIAL E INOVAÇÕES
+Este componente tem como objetivo elevar as capacidades técnicas, tanto em nível da equipe do estado, quanto numa perspectiva
+territorial, na escala das famílias de agricultores e suas organizações (Associação ou Cooperativa), por meio do fornecimento de
+ATER presencial e remota.
+Para as equipes estaduais, serão realizadas atividades por meio de um programa técnico-pedagógico que proverá eventos de
+capacitação e intercâmbios, além da aquisição de materiais e softwares que serão fundamentais para o fortalecimento técnico da
+equipe do estado.
+No nível Territorial e local, as famílias de agricultores e suas organizações receberão assessoramento técnico em prol da
+elaboração, implementação e gestão dos planos e investimentos financiados pelos Componentes 1 e 2, além de permitir o
+fortalecimento das capacidades das famílias agricultoras, garantindo a implementação sustentável das atividades do Projeto.
+
+
+Página: 13
+
+Será trabalhado o desenvolvimento da governança territorial produtiva e ambiental, com vistas a reduzir os processos de
+degradação do meio ambiente. Irá integrar a inclusão de inovações tecnológicas produtivas adaptadas às mudanças do clima, com
+o foco na implementação e gestão dos recursos investidos pelo Projeto.
+Dessa forma, as ações sinérgicas previstas para serem implementadas neste componente compreendem:
+i) fortalecer as capacidades da equipe do estado, assim como das prestadoras de serviços técnicos, nas áreas de gestão territorial,
+segurança hídrica, produção sustentável e nas temáticas de gênero, juventude e segurança nutricional;
+ii) elaborar e apoiar tecnicamente a implementação dos PDRL e dos PN, garantindo sua gestão eficiente e a governança
+necessária para isso, além de assegurar um aumento de capacidades dos agricultores sobre as temáticas produtivas e ambientais;
+iii) permitir que os PDRL cumpram o objetivo de garantir o desenvolvimento da agricultura agroecológica para o desenvolvimento
+de cadeias produtivas, para a  melhoria da produção, da renda e  da segurança alimentar, além de minimizar a pressão sobre o
+uso das matas nativas e do meio ambiente;
+iv) garantir a sinergia entre as ações produtivas e ambientais, para que os investimentos sejam focados na redução do processo de
+degradação ambiental nos Territórios, assegurando a integração entre as ações propostas;
+v) implementar inovações em ATER Remota, para serem aplicadas como uma ferramenta virtual de troca de conhecimentos,
+garantindo por mais tempo, a presença técnica no Território;
+vi) fortalecer os arranjos organizativos diversos que permitam a boa governança territorial, incluindo a participação de instituições
+da esfera municipal;
+vii) desenvolver atividades e práticas específicas que garantam a inclusão e a participação de grupos de mulheres, jovens e
+famílias de comunidades tradicionais;
+viii) incluir a temática sobre a melhoria da segurança alimentar e nutricional como tema transversal ao Projeto; e
+xix) realizar o monitoramento e avaliação das atividades, o registro, a comunicação e a sistematização da Gestão do
+Conhecimento.
+A Ematerce, a COAGUA e o IDACE terão um papel preponderante no desenho metodológico, apoio técnico e acompanhamento
+dos trabalhos de ATER em campo. Considerando a magnitude do Projeto, poderão ser contratadas entidades da sociedade civil
+para elaboração e implantação dos diversos tipos de ações junto ao público beneficiário.
+A estratégia do Projeto de combate à Insegurança Alimentar e Nutricional (INSAN) neste componente seguirá a seguinte trajetória:
+i) Maior conhecimento sobre nutrição, integrando noções básicas de nutrição, dietas enriquecidas e diversificadas, práticas de
+segurança alimentar e de higiene, assim como conscientizando sobre questões relacionadas a gênero e nutrição (ex. gravidez na
+adolescência, casamento infantil e saúde reprodutiva), por meio da ATER.
+Para o atendimento dos grupos-alvo, o componente atuará com base em 4 subcomponentes, caracterizados a seguir.
+
+S - S3.1. FORTALECIMENTO INSTITUCIONAL PARA O DESENVOLVIMENTO DA AGRICULTURA AGROECOLÓGICA
+O fortalecimento institucional objetiva elevar a capacidade técnica do estado e proverá eventos de capacitação e intercâmbios, que
+serão fundamentais para o fortalecimento da equipe do estado, além dos profissionais contratados pelo Projeto, com vistas à uma
+gestão mais qualificada e a operacionalização eficiente das atividades. O uso de instrumentos tecnológicos permitirá adotar
+estratégias inovadoras e metodologias virtuais de troca de conhecimentos, além de garantir que o material de conhecimento possa
+ser acessado de forma contínua no decorrer da implementação do Projeto.
+Almeja-se enfatizar temáticas que envolvam aprimorar as capacidades e práticas para ampliar a produção de alimentos, tanto para
+consumo como para geração de renda, visando focar na superação da fome e na ampliação da renda. Busca-se a inovação, a
+eficiência, a transparência, a sustentabilidade e a efetividade da gestão do Projeto, maximizando os resultados, e garantindo o
+melhor uso dos recursos públicos em termos sustentáveis nas dimensões econômicas, sociais e ambientais.
+O fortalecimento institucional será promovido, inclusive por meio da aquisição de materiais e softwares para subsidiar a realização
+das atividades previstas.
+
+P - Fortalecimento técnico da equipe do estado do Ceará
+Visa a fortalecer a capacidade institucional da equipe do estado, incluindo gestores, técnicos, além das equipes contratadas para
+apoiar a gestão do Projeto. As ações objetivam ampliar as capacidades das equipes, o que permitirá o aprimoramento dos serviços
+públicos, preparando os gestores e estruturas públicas para a tomada de decisões políticas, além de subsidiar o desenho de
+ações consertadas entre todos os setores, apoiando as atividades de priorização e gestão de políticas públicas voltadas ao
+desenvolvimento integral e sustentável do Estado.
+Prevê a implementação de um modelo de fortalecimento das capacidades que objetiva aprimorar os conhecimentos da equipe em
+temas relevantes, como: i) a definição de planos operacionais estratégicos; ii) a implementação e gestão operacional das
+intervenções de superação da fome e mitigação da pobreza rural ; iii) a implementação de práticas agropecuárias agroecológicas,
+de baixo carbono e adaptadas às mudanças do clima; e iv) a garantia da sustentabilidade das ações.
+As capacitações deverão contemplar a apropriação dos planos e projetos já desenvolvidos pelo Estado do Ceará, que
+desenvolveram tecnologias e práticas apropriadas ao enfrentamento das problemáticas cuja resolução são objeto deste Projeto.
+As capacitações serão realizadas para os profissionais lotados na UGP, o pessoal dos escritórios em campo e das secretarias de
+governo, especificamente na Secretaria de Desenvolvimento Agrário (SDA), Empresa de Assistência Técnica e Extensão Rural do
+Ceará (Ematerce), Coordenadoria de Desenvolvimento da Agricultura Familiar (Codaf), Coordenadoria do Desenvolvimento dos
+Assentamentos e Reassentamento (Codea) e Coordenadoria do Abastecimento de Água e Esgotamento (Coagua), além de outros
+órgãos relacionados.
+Principais produtos: Cerca de 100 profissionais capacitados.
+
+P - Fortalecimento da equipe para Governança e Desenvolvimento Territorial
+Serão capacitadas as equipes técnicas que estarão envolvidas na implementação do PDRL, com foco no tema produtivo, incluindo
+uma abordagem territorial horizontalizada, focalizada na construção de governanças locais, que permitam a sustentabilidade dos
+investimentos e o conhecimento das políticas públicas existentes.
+
+
+Página: 14
+
+Serão introduzidos conceitos e práticas essenciais à boa governança integrada, a exemplo das colaborações inter e intra
+institucionais, comunicação e transparência pública, monitoramento e avaliação, formulação de acordos, mediação de conflitos,
+dentre outros meios necessários.
+Serão realizadas atividades de capacitação dos profissionais envolvidos, incluindo no nível municipal, bem como haverá
+possibilidades de intercâmbios de experiências consolidadas de boa governança local.
+Principais produtos: Cerca de 100 técnicos capacitados.
+
+P - Fortalecimento técnico da equipe de ATER e da CTE
+Este produto terá como foco o fortalecimento das equipes de ATER e de Consultoria Técnica Especializada (CTE) que atuarão em
+campo para implementar os PDRL e os PN, com foco no tema produtivo, e que irão possuir contato direto com as famílias
+beneficiárias. Objetiva-se capacitar os técnicos nas temáticas referentes ao escopo do Projeto, buscando o alinhamento entre as
+diferentes equipes, a atualização e a busca por inovações metodológicas, principalmente no desenvolvimento de ações sinérgicas
+de superação da fome e a miséria, e no uso das tecnologias sociais, assim como sensibilizações de gênero, raça e etnia. Inclui-se
+também a temática sobre a gestão comunitária e o uso sustentável dos investimentos do Projeto, principalmente após o término de
+sua implementação.
+De forma específica, o fortalecimento das capacidades abordará as temáticas necessárias para a implementação das atividades
+produtivas em campo. As capacitações deverão conter assuntos relacionados com: i) organização comunitária; ii) gestão de planos
+; iii) agricultura agroecológica; iv) implementação integrada dos PDRL e PN; v) implementação, uso e gestão comunitária e familiar
+das infraestruturas; vi) preservação, recuperação e gestão dos recursos naturais; vii) acesso a mercado; viii) acesso às políticas
+públicas; ix) sustentabilidade dos investimentos; x) ATER Remota, xi) gênero, raça e etnia, xii) segurança alimentar e nutricional,
+entre outros.
+Haverá capacitação específica em Segurança Alimentar e Nutricional (SAN), com o objetivo de desenvolver e implementar ações
+de: i) Diagnóstico e mapeamento das comunidades (inclusive as feiras da agricultura); ii) Planejamento da produção familiar e sua
+comercialização; iii) Organização das famílias em Redes de Agricultores Agroecológicos; iv) Elaboração de um Catálogo das Feiras
+e seus produtos; v) Articulação com a Escola de gastronomia social e universidades para formação relativas a cultura alimentar e
+quanto a aspecto relacionados a apresentação dos produtos, bem como desenvolver parceria com a EMATERCE para o processo
+de certificação das famílias envolvidas nos processos de feira.
+Principais produtos: Cerca de 100 técnicos capacitados.
+
+S - S3.2. ASSESSORIA TÉCNICA CONTÍNUA (ATC) PARA DESENVOLVIMENTO DA AGRICULTURA AGROECOLÓGICA E
+SUSTENTÁVEL
+Este subcomponente visa a fornecer ATER especializada para a identificação, elaboração e implementação das ações dos PDRL
+nos Territórios, além de garantir uma gestão sustentável dos recursos ambientais e financeiros. A equipe técnica será responsável
+por elaborar o PDRL, realizará um diagnóstico socioambiental e produtivo do Território, preparado de forma colaborativa com as
+famílias residentes. A equipe técnica também será responsável por elaborar o plano de intervenção, contendo ações concretas
+financiadas pelos Componentes 1 e 2.
+Terá também a prerrogativa de trabalhar o desenvolvimento sustentável do Território e, principalmente, fortalecer sua governança
+para que as ações realizadas tenham continuidade mesmo após a conclusão do Projeto.
+
+P - Identificar, elaborar e implementar os PDRL, e desenvolver a governança sustentável
+O desenvolvimento produtivo é peça chave para garantir a superação da fome e a miséria, além de propiciar o desenvolvimento
+sustentável dos Territórios de Desenvolvimento Rural. Para isso, a ATER atuará em campo para que as atividades produtivas
+presentes sejam vetor para o aumento sustentável da produção agrícola e da renda. A identificação das interfaces de
+sustentabilidade dar-se-á por ocasião dos processos de formulação dos planos propostos e deverão estar claramente definidas nas
+suas diretrizes.
+Este produto tem como principais atividades: i) elaborar e implementar os PDRL financiados pelos componentes 1 e 2; ii)
+desenvolver as capacidades das famílias beneficiárias em relação à métodos e meios produtivos agroecológicos; iii) articular o
+desenvolvimento da governança sustentável no Território e das localidades; e iv) desenvolver as capacidades das famílias
+beneficiárias para que melhorem suas atividades produtivas, maximizando a implementação de práticas que não degradem o meio
+ambiente; v) prover o suporte sobre o fortalecimento das capacidades dos beneficiários de ponto de vista da gestão e da
+organização; vi) assegurar que as iniciativas e investimentos produtivos apoiados sejam sustentáveis economicamente; vii) garantir
+a gestão e o uso sustentável  das tecnologias sociais familiares; viii) garantir a inclusão e o apoio para participação efetiva de
+jovens e mulheres na implementação e gestão das atividades apoiadas; ix) garantir que as famílias estejam aptas a acessar
+políticas públicas, como de crédito e outras; e x) garantir a relação sinérgica das comunidades no Território.
+A atuação será realizada de forma integrada entre as comunidades dos Territórios de Desenvolvimento Rural, para que as famílias
+desenvolvam o sentimento de pertencimento do meio em que vivem. Será estimulada a criação de grupos organizados que terão o
+objetivo de desenvolver uma governança local com o objetivo de planejar e acompanhar os planos propostos, facilitar o intercâmbio
+de conhecimentos e saberes entre as famílias residentes no Territórios. Para isso, deverá ser considerada ainda a articulação com
+as instâncias municipais onde os Territórios estão incluídos, a exemplo dos órgãos de desenvolvimento agrário e ambiental, dentre
+outros identificados como importantes na etapa diagnóstica, além das organizações civis que atuam com foco nessas áreas.
+Do ponto de vista metodológico, os serviços ATER atuarão em campo por 2 anos, com um enfoque participativo que permita a
+priorização das necessidades e demandas reais do público beneficiário. Especial atenção será dada aos temas ambientais, de
+equidade de gênero e de criação de oportunidades para os jovens, além da priorização no atendimento às comunidades
+tradicionais, sempre respeitando suas particularidades culturais. Em relação aos grupos de jovens, será colocado em prática a
+experiência piloto de mecanização rural, realizada atualmente pela Ematerce.
+As temáticas relacionadas à melhoria da segurança alimentar e nutricional serão desenvolvidas pelas equipes de ATER nas suas
+rotinas de atuação.
+Principais produtos: Cerca de 36.000 famílias beneficiadas.
+
+
+Página: 15
+
+S - S3.3. CONSULTORIA TÉCNICA ESPECIALIZADA (CTE) PARA O FORTALECIMENTO DO BENEFICIAMENTO E DA
+COMERCIALIZAÇÃO
+Este subcomponente tem como objetivo elaborar e implementar os planos de negócios financiados pelo componente 1, referente
+às organizações de beneficiamento produtivo, bem como garantir uma gestão eficiente dos recursos.
+
+P - Consultoria Técnica Especializada (CTE) para o fortalecimento da gestão e comercialização dos empreendimentos.
+A CTE irá elaborar e implementar os PN financiados pelo componente 1, oferecendo apoio técnico por 2 anos junto às unidades de
+beneficiamento, para que tenham suas capacidades melhoradas em gestão e organização, bem como para o aprimoramento de
+processos produtivos, sendo esses alinhados aos princípios das preservação e recuperação ambiental. Com os empreendimentos
+fortalecidos, haverá uma valorização dos produtos agrícolas e o consequente aumento do acesso ao mercado.
+Tem como principais atividades: i) assessorar a elaboração e a implementação dos PN; ii) realizar o suporte técnico diretamente
+vinculado com as atividades dos PN; iii) prover o suporte sobre o fortalecimento das capacidades do ponto de vista da gestão (
+administrativa e financeira) da organização; iv) apoiar a agregação de valor e definir estratégias de marketing e acesso a mercados
+; v) capacitar e assessorar sobre os processos de licitações e prestações de conta focados na implementação dos recursos dos PN
+, sob gestão das organizações beneficiárias; vi) garantir a inclusão e o apoio para participação efetiva de jovens e mulheres na
+implementação e gestão das atividades apoiadas, assim como no fortalecimento das suas habilidades para assumirem cargos de
+liderança; vii) apoiar o acesso às principais políticas públicas, como compras públicas e  acesso ao crédito; viii) garantir o
+atendimento à legislação ambiental e a incorporação de ações de adaptação às mudanças do clima; e ix) estimular a relação de
+sinergia com os PDRL da região, para garantir o acesso à matéria prima, assim como maior eficiência.
+Principais produtos: Cerca de 10 unidades de beneficiamento apoiadas, com o total de 2.000 famílias atendidas.
+
+S - S3.4 - INOVAÇÃO EM ATER REMOTA
+Este subcomponente tem como objetivo fortalecer e ampliar o uso da ATER Remota como forma de troca de conhecimentos entre
+agricultor-técnico, atuando de forma complementar à ATER tradicional (presencial), introduzindo inovações tecnológicas e de
+processos.
+
+P - Implementação e uso da ATER Remota
+A implementação da ATER Remota visa a fortalecer o método de comunicação utilizado por agricultores e técnicos. A
+comunicação remota no semiárido nordestino ganhou notoriedade durante a pandemia, uma vez que o contato físico do técnico de
+ATER e o agricultor ficou impossibilitado por conta das restrições impostas pela COVID-19. Nesse contexto, as entidades de ATER
+ajustaram suas metodologias de atuação em campo em prol da manutenção do contato dos técnicos com os agricultores.
+O Projeto pretende fortalecer e ampliar o uso de sistemas existente, que já oferecem atendimento humanizado para as famílias, e
+objetiva aprimorar ferramentas e processos que vão além do atendimento, como o fornecimento de cursos de capacitação,
+apresentação de boas práticas, intercâmbios virtuais, vitrine de comercialização entre outras inovações digitais.
+A ATER Remota será trabalhada durante a atuação da ATER e da CTE, com presença mais preponderante no último ano de
+atuação destas.
+A nível comunitário, prevê a instalação de equipamentos receptores de internet numa parcela de associações ou cooperativas,
+para garantir que as famílias tenham a possibilidade de acessar à internet. O envolvimento dos jovens será incentivado pelas suas
+capacidades de integração dessas novas tecnologias.
+Principais produtos: Cerca de 36.000 famílias do Projeto atendidas. O aprimoramento do sistema de ATER Remota do Ematerce
+permitirá alcançar um maior número de famílias agricultoras do Ceará.
+
+C - C4. GESTÃO DO PROJETO, M&A E INTERCÂMBIO DE CONHECIMENTO
+Este componente tem o objetivo de criar um mecanismo eficiente de gerenciamento e controle das atividades implementadas pelo
+Projeto, permitindo sua plena execução, em consonância com a proposta de intervenção do Projeto, além de garantir a
+implementação dos Planos Operativos Anuais (POA).
+Objetiva também introduzir inovações tecnológicas para garantir o monitoramento e a avaliação das atividades, o registro e a
+sistematização da Gestão do Conhecimento, além de viabilizar a comunicação transparente entre as partes interessadas, incluindo
+ações de intercâmbio de conhecimento.
+Para o atendimento desses objetivos, o componente atuará com base em 2 subcomponentes, caracterizado a seguir.
+
+S - S4.1. UNIDADE GESTORA DO PROJETO (UGP) E ESCRITÓRIOS REGIONAIS DO PROJETO (ERP)
+Criação de uma Unidade Gestora de Projeto (UGP), sediada em Fortaleza, e vinculada à SDA, com equipe exclusivamente
+dedicada às ações do Projeto. Será responsável pela coordenação, planejamento, execução e supervisão das atividades.
+Para garantir a presença do Projeto em campo, e a proximidade com os beneficiários, serão instalados Escritórios Regionais do
+Projeto (ERP).
+
+P - UGP Estruturada e Escritórios Regionais do Projeto (ERP)
+Para a UGP, será definido um Coordenador Geral do Projeto, e equipes específicas para as gerências dos componentes, M&A,
+financeira, licitação e aquisição, além de equipe técnica capaz de prover a plena execução das atividades. A UGP será localizada
+em Fortaleza, sob responsabilidade da SDA. Para garantir a plena execução do Projeto, serão definidos processos para: i)
+licitações e contratos; ii) pedidos de desembolsos e prestações de contas dos recursos utilizados; e iii) monitoramento e supervisão
+da implementação das iniciativas comunitárias, assegurando o cumprimento legal dos termos acordados entre as partes.
+Subordinados à UGP, serão constituídos ERP dentro da área de intervenção do Projeto, e atenderão um determinado número de
+municípios. Cada ERP será chefiado por um Coordenador Regional do Projeto, além de uma equipe de técnicos especialistas, cujo
+quantitativo de unidades de ERP e de profissionais serão determinados com base na demanda de intervenção de cada região
+geográfica. Haverá também, técnicos fornecidos pelas agências parceiras para garantir a execução plena das atividades propostas
+para estes entes.
+
+
+Página: 16
+
+Os ERP terão como principal tarefa a responsabilidade de acompanhar a implementação do Projeto em campo, realizando o
+monitoramento da implementação dos PDRL, avaliando os pontos de estrangulamentos, resultados e qualidade dos serviços
+prestados, como os de ATER, por exemplo.
+As equipes dos ERP deverão manter uma estreita articulação com as organizações locais, tanto do ambiente público a nível
+Municipal, como Secretarias de Agricultura Familiar, Assistência Social, etc; quanto a nível Federal, como escritórios do Ministério
+da Agricultura e Pecuária (MAPA), escritórios das unidades descentralizadas da EMBRAPA entre outras instituições. Buscará
+também, realizar o diálogo com organizações da sociedade civil, como Sindicatos Rurais e Organizações de Agricultores. Desta
+forma, objetiva-se assegurar uma importante colaboração e articulação com os órgãos locais de governo, organizações da
+sociedade civil, interessados e parceiros em geral (stakeholders), com vistas a alavancar políticas públicas e parcerias que
+garantam a complementaridade ao Projeto.
+
+S - S4.2. MONITORAMENTO E AVALIAÇÃO (MEA) E GERAÇÃO DE CONHECIMENTO
+Este subcomponente terá como objetivo monitorar e avaliar as ações do Projeto, além de registrar, documentar e publicar as
+experiências, processos, resultados e melhores práticas realizadas, por meio do trabalho conjunto com os demais profissionais da
+equipe e com estreita relação com o M&A, que irá fornecer insumos quantitativos e qualitativos para a Gestão do Conhecimento.
+O M&A será o principal agente responsável pelo planejamento e acompanhamento das ações físicas do Projeto, onde atuará em
+sinergia com as equipes dos demais componentes, no sentido de auxiliar no planejamento estratégico e de assegurar que suas
+ações estejam em linha com as premissas presentes nas diretrizes do Projeto. Terá o papel de monitorar e registrar as ações em
+campo, além de avaliar se os resultados alcançados por meio das intervenções são satisfatórios. Desta forma, o M&A subsidiará a
+equipe no apoio à tomada de decisão e mudanças de rumos, caso seja necessário.
+O Projeto realizará inclusive, a sistematização das inovações, tanto de processos, como também de atividades, evidenciando a
+importância e os resultados destas. Esses produtos serão utilizados pela equipe do Projeto, por servidores do estado do Ceará,
+além de outras regiões do Semiárido nordestino, e poderão subsidiar a adoção de outras políticas públicas no Nordeste.
+A comunicação trabalhará com a disseminação das experiências à medida que forem sendo geradas, como por meio de
+publicações nas mídias sociais, como Facebook e Instagram, além do website próprio do Projeto.
+
+P - Sistema e estudos de MeA
+O Projeto implementará um sistema gerencial de informações, onde o fluxo seguirá a partir dos dados levantados em campo, até a
+UGP. Para melhor organização, um sistema informático será desenvolvido a partir dos utilizados pelo Projeto Paulo Freire ? fase 1,
+para o monitoramento de todas as atividades a serem desenvolvidas.
+A avaliação de impacto trará informações se o Projeto conseguiu alcançar os resultados previstos no objetivo, além de registrar os
+impactos ocorridos na melhoria de vida da população alvo, como no tema de nutrição, renda, métodos produtivos, entre outros.
+A pesquisa utilizará o método das diferenças em diferenças, e portanto, será realizada em 2 grupos, sendo o tratamento (uma
+amostra de beneficiários do Projeto), e controle (não beneficiários, mas que possuem um perfil semelhante ao grupo tratamento),
+com pesquisa em campo sendo realizada em 3 momentos temporais distintos: i) Linha de base, que será uma espécie de raio X
+inicial das famílias beneficiárias do Projeto, onde informações sobre a composição familiar, produção, renda etc, serão obtidas para
+posterior comparação com os estudos subsequentes; ii) Meio Termo, que será realizada entre os anos 3 e 4 do Projeto, ou seja,
+na metade da sua implementação; e iii) Avaliação Final de Impacto, que será realizada durante o último ano de execução do
+Projeto, no mesmo grupo pesquisado nas etapas anteriores.
+
+P - Gestão do Conhecimento, Comunicação e Inovações (GCCI)
+Será responsável por registrar, documentar e publicar as experiências, processos, resultados e melhores práticas do Projeto, por
+meio do trabalho conjunto com os demais profissionais da equipe, e com estreita relação com o M&A, que irá fornecer insumos
+quantitativos e qualitativos para a Gestão do Conhecimento.
+O Projeto realizará inclusive, a sistematização das inovações, tanto de processos, como também de atividades, evidenciando a
+importância e os resultados destas. Esses produtos serão utilizados pela equipe do Projeto, por servidores do estado do Ceará,
+além de outras regiões do Semiárido nordestino, e poderão subsidiar a adoção de outras políticas públicas no Nordeste.
+A comunicação trabalhará com a disseminação das experiências à medida que forem sendo geradas, como por meio de
+publicações nas mídias sociais, como Facebook e Instagram, além do website próprio do Projeto.
+O Projeto definirá um Plano de GCCI no momento inicial de implementação, apresentando o detalhamento da metodologia que
+será utilizada no decorrer da implementação. Este plano, deverá conter as atividades, processos, sistemas, capacidades, produtos
+e resultados obtidos, com o objetivo de planejar as ações GCCI. Deverá possuir também, um cronograma detalhado dos processos
+e entregas dos produtos. Importante que o cronograma seja construído levando em consideração a implementação das ações do
+Projeto em campo.
+
+P - Cooperação Sul-Sul e triangular (SSTC)
+O Projeto irá organizar e realizar eventos para a troca de saberes dos principais atores (agricultores, técnicos etc), em regiões
+semiáridas no Brasil, América Latina e África, com o objetivo de visitar experiências de sucesso e compartilhar a metodologia e os
+resultados alcançados durante a implementação do Projeto.
+Serão identificados parceiros relevantes em termos de redes e trocas de experiências. Sinergias estratégicas poderão ser
+construídas com programas nacionais e projetos em implementação em outros países da América Latina e África. Adicionalmente,
+devem ser buscados intercâmbios e parcerias com organizações e instituições de pesquisa e inovação que também atuem na
+região de modo a gerar convergência e complementaridade de esforços.
+Principais produtos: Cerca de 10 intercâmbios realizados no Brasil, América Latina e África.
+
+
+Página: 17
+
+Meta
+
+Valor
+
+% Financeiro
+
+Categoria de Gasto
+
+Obras
+P- Acesso à água Rural Comunitário
+P- Reuso de água comunitário para produção
+P- Cisterna para consumo humano
+P- Cisterna para produção agropecuária
+P- Sistema de Reuso Familiar para Produção
+P- Módulos Sanitários com Tratamento
+P- Fogão Ecoeficiente
+P- Biodigestor
+Consultoria
+P- Regularização Fundiária e Ambiental
+P- Plano de Reciclagem e Resíduos Sólidos
+P- Fortalecimento técnico da equipe do estado do
+Ceará
+P- Fortalecimento da equipe para Governança e
+Desenvolvimento Territorial
+P- Fortalecimento técnico da equipe de ATER e
+da CTE
+P- Identificar, elaborar e implementar os PDRL, e
+desenvolver a governança sustentável
+P- Consultoria Técnica Especializada (CTE) para
+o fortalecimento da gestão e comercialização dos
+empreendimentos.
+P- Implementação e uso da ATER Remota
+P- Sistema e estudos de MeA
+P- Gestão do Conhecimento, Comunicação e
+Inovações (GCCI)
+P- Cooperação Sul-Sul e triangular (SSTC)
+Outros
+P- Planos de Desenvolvimento Rural Local (PDRL
+)
+P- Plano de Negócio para fortalecimento do
+beneficiamento e da comercialização
+P- Agritech e Fintech
+P- UGP Estruturada e Escritórios Regionais do
+Projeto (ERP)
+Total Geral
+
+Unidade de medida
+-
+Sistema
+sistema
+Cisterna
+Cisterna
+Sistema
+Módulo
+Fogão
+Biodigestor
+-
+Família
+sistema
+Eventos
+
+Eventos
+
+Eventos
+
+Equipe técnica
+
+-
+100,00
+100,00
+7.200,00
+2.000,00
+700,00
+100,00
+3.000,00
+500,00
+-
+6.000,00
+100,00
+83,00
+
+108,00
+
+108,00
+
+300,00
+
+28.842.880,00
+4.241.600,00
+318.120,00
+9.649.640,00
+11.028.160,00
+2.078.384,00
+424.160,00
+763.488,00
+339.328,00
+15.999.315,20
+636.240,00
+106.040,00
+352.052,80
+
+114.523,20
+
+114.523,20
+
+11.706.816,00
+
+Equipe técnica
+
+10,00
+
+763.488,00
+
+Equipe técnica
+Sistemas/Estudos
+Publicações
+
+Intercâmbios
+-
+Plano
+
+Plano
+
+Fomento
+Gestão
+
+-
+
+120,00
+7,00
+20,00
+
+10,00
+-
+230,00
+
+10,00
+
+10,00
+1,00
+
+-
+
+1.560.908,80
+411.435,20
+127.248,00
+
+106.040,00
+87.707.804,80
+73.167.600,00
+
+3.181.200,00
+
+1.060.400,00
+10.298.604,80
+
+21,76
+3,20
+0,24
+7,28
+8,32
+1,57
+0,32
+0,58
+0,26
+12,07
+0,48
+0,08
+0,27
+
+0,09
+
+0,09
+
+8,83
+
+0,58
+
+1,18
+0,31
+0,10
+
+0,08
+66,17
+55,20
+
+2,40
+
+0,80
+7,77
+
+132.550.000,00
+
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+A questão da Superação da Fome & Mitigação dos Efeitos da Pobreza e Extrema Pobreza Rural possui antecedentes no Ceará. A SDA
+tem avançado em iniciativas como o Projeto São José e o Projeto de Desenvolvimento Produtivo e de Capacidades - Projeto Paulo Freire
+fase 1, por meio dos quais tem firmado parcerias com entidades da sociedade civil que desenvolvem tecnologias sociais - a exemplo de
+unidades de reuso de águas cinzas, fogões ecológicos, biodigestores dentre outras e que promovem ações de ATER, notadamente junto
+aos assentados, comunidades e povos tradicionais.
+
+O PPF-1 obteve importantes resultados em campo, como comprova o estudo de avaliação de impacto. O Índice de Pobreza
+Multidimensional (IPM), o qual considerou seis dimensões de análise (Renda, Capital Social, Capital Humano, Segurança Alimentar,
+Condições de Moradia e Habitação, e Sustentabilidade), mostra uma redução de 23% da pobreza no grupo de beneficiários do Projeto,
+enquanto o grupo de não beneficiários obteve uma queda de 7%. Outro importante resultado apresenta que, 64% das famílias
+beneficiadas pelo PPF-1 apresentaram aumento no valor da produção, percentual que ultrapassa o limiar definido no Marco Lógico do
+Projeto (60%).
+
+No Coordenadoria que trata do desenvolvimento territorial da SDA (Codece)  são realizadas ações voltadas para o fortalecimento do
+cooperativismo e da melhoria das certificações que permitem a comercialização dos produtos da agricultura familiar. Outras ações que
+darão suporte ao Projeto vêm sendo desenvolvidas nas demais coordenadorias da SDA, a exemplo dos programas de pequena irrigação,
+mandalas, produção de palmas forrageiras, melhoramento genético de rebanhos, pequenos sistemas de abastecimento e reuso de águas
+cinzas, crédito agrícola, distribuição de mudas e sementes que, somadas ao esforço do Projeto aqui proposto potencializarão suas ações
+e resultados esperados.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Sem detalhes
+
+Estado do Ceará ()
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+(i)Condições Financeiras das Operações:
+
+(cid:10)
+
+
+Página: 18
+
+O Projeto será objeto de cofinanciamento da Agência Espanhola de Cooperação Internacional para o Desenvolvimento (AECID) e do
+Fundo Internacional de Desenvolvimento Agrícola (FIDA), com as seguintes condições especificas:
+
+AECID
+
+As condições financeiras do financiamento dos fundos espanhóis (AECID) para o projeto proposto tem como referência os dados abaixo.
+
+Moeda: EUROS (EUR)
+
+Taxa de juros de 3,5% fixa
+
+Desembolso previsto no projeto: 6 anos
+
+Amortização 25 anos
+
+Carência de 6 anos
+
+E ainda, para o projeto há a disponibilidade de EUR 2 milhões de Doação para gestão do conhecimento, cooperação sul-sul e
+monitoramento e avaliação.
+
+FIDA
+
+Moeda: EUROS (EUR)
+
+Taxa variável em função da EURIBOR ? 6 meses
+
+Prazo de Desembolso: 7 anos
+
+Prazo de Carência: 3 anos
+
+Prazo de Amortização: 15 anos
+
+Prazo Total: 18 anos
+
+Maturidade média de repagamentos: 10,75 anos
+
+A taxa de juros anual do Empréstimo em EUR é de 4,41% tendo como referência o 2º trimestre de 2023 de acordo com o cálculo:
+
+Taxa de juros =    6-Month EURIBOR (*) + (Margem de financiamento FIDA*)
+
+Taxa de juros = 3,34%+1,07% = 4,41%
+
+Observação 1) A EURIBOR (6 meses) é considerada é do primeiro dia do trimestre que é 3,34%.
+
+Observação 2) Para o Brasil, Categoria 4, com o período de maturidade médio entre 10 a 12 anos) a margem de empréstimo está em 1,07
+%
+
+Comissão de crédito sobre o saldo não desembolsado: não há.
+
+O FIDA não cobra nenhuma outra taxa ou comissão.
+
+(ii)Necessidade de Financiamento Externo e Opção pelos Agentes Financiadores
+
+Devido à crise do Estado brasileiro e consequentemente do Estado do Ceará, a capacidade de investimento está aquém das
+necessidades e deficiências existentes. Soma-se a isso, o fato de que os agentes financeiros externos têm linhas de financiamento que
+permitem a captação de recursos necessários aos investimentos que possibilitará a realização de investimentos relevantes para o
+desenvolvimento da área do Projeto.
+
+Nesse contexto, o financiamento externo se torna uma opção factível para as ações de investimento necessárias para o Estado. No
+âmbito do Ceará, os agentes financeiros BID, FIDA e BIRD já atuam como organismos de fomento.
+
+No arranjo deste Projeto é mais que necessário não somente o aporte financeiro, mas também o nível de experiência do agente em
+âmbito nacional e internacional.
+
+No estado do Ceará, o FIDA contribuiu no financiamento do Projeto de Desenvolvimento Produtivo e de Capacidades - Projeto Paulo
+Freire-PPF1.
+
+
+Página: 19
+
+Parceria forte com o FIDA transcende investimentos e financiamento, mas inclui também forte parceria em outras áreas: monitoramento e
+avaliação (M&A), diálogo de políticas (Consórcio do Nordeste e Fórum de Secretários do Nordeste), gestão do conhecimento e
+cooperação sul-sul.
+
+A parceria com o FIDA logrou êxito no financiamento de projetos de desenvolvimento rural e combate à fome no Brasil, como no Projeto
+Dom Helder Câmara - Fase 2, executado pelo Ministério de Desenvolvimento Agrário e Agricultura Familiar (MDAF), e no estado do Ceará
+, no financiamento do Projeto de Desenvolvimento Produtivo e de Capacidades - Projeto Paulo Freire - PPF1. A opção de manter, e
+ampliar significativamente esta parceria no Ceará condiz com os excelentes resultados obtidos pelo PPF1, sendo considerado um dos
+melhores 5 projetos do FIDA no mundo, dentre mais de 200 projetos do FIDA, e comprovado pelos resultados da avaliação de impacto.
+
+O Acordo de Cofinanciamento assinado entre o FIDA e a AECID em setembro de 2020 estabelece o novo marco para cofinanciamento de
+projetos no qual o FIDA e AECID trabalham de forma exclusiva em novos projetos e para o qual foi desenvolvida a proposta do PPF2
+sendo o primeiro projeto no Brasil no âmbito deste novo Acordo e para o qual também será destinada uma doação de EUR 2 milhões para
+complementar o PPF2 nas áreas de gestão do conhecimento e cooperação sul-sul e triangular.
+
+O projeto aplicará somente uma regra e procedimento, no caso do FIDA.
+
+2.11. PROJETO/BENEFICIÁRIO
+IMPACTO AMBIENTAL
+
+Os possíveis riscos ambientais que podem ocorrer durante a implementação do projeto são de três tipos: i) riscos devidos a fenômenos
+meteorológicos; ii) introdução de espécies invasoras; e iii) riscos por atividades produtivas.
+
+i) riscos devidos a fenômenos meteorológicos: O principal risco identificado pelos fenômenos meteorológicos é o aumento do déficit hídrico
+em sistemas hidrológicos: águas superficiais e subterrâneas, estresse da vegetação florestal, baixa ou nenhuma produção em áreas
+agrícolas e pecuárias assim como baixos níveis de água armazenados em infraestruturas hidráulicas (barragens, reservatórios, poços),
+causada pela estação seca prevalecente nos últimos 7 anos. Estes possíveis riscos podem ser prevenidos ou mitigados através de
+medidas focadas em gestão sustentável e uso racional da água para fins produtivos. Essas medidas são consideradas nos Componentes
+1, 2 e 3 do projeto. As ações do projeto em recuperação e preservação ambiental, além da introdução de técnicas da Agricultura
+Agroecológica, tendem a minimizar estes riscos a médio e longo prazo.
+
+ii) introdução de espécies invasoras: as atividades de recomposição da mata nativa da Caatinga estarão condizentes com a lista de
+espécies vegetais características da região. O Projeto não incluirá espécies que não pertencem ao bioma Caatinga (ou da região) para
+evitar o desequilíbrio ambiental.
+
+iii) riscos por atividades produtivas: os riscos referem-se ao desenvolvimento de atividades produtivas tradicionais, e tendem a: i) aumentar
+a degradação dos solos; ii) diminuir a cobertura florestal; iii) aumentar a contaminação do solo e da água devido ao uso de agroquímicos
+e a geração de resíduos sólidos/ líquidos. iv) maior incidência de incêndios florestais devido ao uso do fogo para a preparação de terras
+para cultivo ou para a abertura de novas terras e o uso de agroquímicos. Estes possíveis riscos serão prevenidos ou mitigados por meio
+da adoção de práticas agroecológicas (fertilizante orgânico, água para reutilização, recuperação de áreas degradadas, entre outros), evitar
+a mudança de uso da terra para atividades agrícolas e pecuárias e gerenciamento de fogo. Essas práticas são consideradas nos
+Componentes 1 e 3 do Projeto. Além do mais, os projetos produtivos também são focados no combate ao desmatamento, em áreas que já
+têm um uso agropecuário, reduzindo a necessidade de expansão da atividade em áreas preservadas. Não será afetado o habitat natural,
+como também não haverá nenhuma expansão sobre áreas naturais que atualmente não são usadas para atividades agropecuárias.
+
+Os possíveis impactos ambientais que podem ser causados pelas atividades estabelecidas nos componentes do Projeto são considerados
+de baixo a moderado impacto, basicamente porque são de baixa escala e intensidade, e estão orientados para fortalecer o capital
+humano e a assistência técnica; gestão e acesso à água (captação de águas da chuva e reutilização); a conservação e reabilitação de
+recursos naturais e as atividades de desenvolvimento produtivo são no nível familiar. As medidas para prevenir e mitigar os possíveis
+impactos ambientais estão alinhadas com os riscos identificados e descritos nos parágrafos anteriores.
+
+IMPACTO SOCIAL
+
+O Projeto irá definir uma abordagem metodológica com as comunidades tradicionais, que incluirá: (i) um plano de capacitação das equipes
+de ATER que tenham a incumbência de trabalhar em comunidades indígenas (assim como em outras comunidades tradicionais), no
+intuito de aprimorar e de monitorar a qualidade de suas intervenções; (ii) a produção de material de suporte com metodologias apropriadas
+para as intervenções de cunho técnico e a realização das capacitações; (iii) uma revisão dos PDRL com comunidades tradicionais, para
+assegurar que as especificidades sociais e produtivas destes grupos tenham sido consideradas durante a fase de elaboração das
+propostas; (iv) encontros e intercâmbios entre povos indígenas, quilombolas e outras comunidades tradicionais em temáticas de interesse
+comum, com foco na valorização da identidade cultural.
+
+Povos indígenas
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 20
+
+Dentro da área rural de abrangência do projeto, são cerca de 8.000 indígenas que vivem na região, segundo o Censo Demográfico de
+2010. Entre os agricultores familiares, o Censo Agropecuário 2017 indica que 1.207 agricultores são indígenas.
+
+Neste caso, o processo de inclusão das famílias indígenas nas atividades do Projeto será construído a partir de um diálogo constante com
+estas famílias e suas organizações representativas, no respeito do consentimento livre, prévio e informado.
+
+Em linha com a ?Política de Compromisso com os Povos Indígenas? do FIDA (2009), o projeto adotará uma metodologia diferenciada que
+respeite às características próprias dos povos indígenas. De acordo com esta Política, qualquer ação em territórios indígenas deverá
+obrigatoriamente ser precedida por um processo de consulta participativo para solicitar o consentimento livre, prévio e informado dos
+povos indígenas interessados.
+
+Comunidades quilombolas
+
+Em relação aos povos e comunidades tradicionais (PCT), dados do IBGE (2020) indicam que há 174 localidades quilombolas distribuídas
+em 59 municípios da área do Projeto. Desse universo, 57 comunidades remanescentes de quilombos são reconhecidas pela Fundação
+Cultural Palmares.
+
+O Projeto adotará uma abordagem metodológica específica, que incluirá uma capacitação específica para as equipes de ATER, e uma
+revisão especial dos investimentos a serem feitos nestas comunidades
+
+BENEFICIÁRIOS
+
+O Projeto terá abrangência em 175 municípios do Semiárido (anexos 1.1 e 2). Irá atender aproximadamente 52.000 famílias (208.000
+pessoas), como beneficiárias diretas com ações do Projeto, sendo 26.000 famílias representadas por mulheres, 7.800 representadas por
+jovens e 1.000 famílias de povos e comunidades tradicionais.
+
+O Projeto realizará um processo de seleção e focalização para selecionar os municípios e famílias com perfil para atendimento. Serão
+selecionadas famílias em situação de pobreza e/ou extrema pobreza, e com alta insegurança alimentar, preferencialmente cadastradas
+em programas sociais do estado, como o Mais Infância Ceará, que atua em famílias extremamente pobres e que atendam aos critérios do
+programa.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Agência Espanhola de Cooperação
+Internacional - AECI
+Fundo Internacional  para o
+Desenvolvimento da  Agricultura - FIDA
+Total:
+
+Sigla
+
+CF
+Sigla
+
+AECI
+
+FIDA
+
+Moeda
+
+?
+Moeda
+
+?
+
+?
+
+Valor Proposto
+
+25.000.000,00
+Valor Proposto
+
+92.000.000,00
+
+Taxa de
+Câmbio
+1,06
+Taxa de
+Câmbio
+1,06
+
+Valor de Referência US
+$
+26.510.000,00
+Valor de Referência US
+$
+97.556.800,00
+
+8.000.000,00
+
+1,06
+
+8.483.200,00
+
+125.000.000,00
+
+132.550.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+Órgão Executor do Projeto: Secretaria do Desenvolvimento Agrário ? SDA, Órgão coordenador do projeto com a responsabilidade de
+assegurar seus recursos, realizar articulações necessárias, acompanhar e supervisionar sua execução. UGP: Sediada na SDA (Fortaleza)
+e com escritórios regionais voltados para as atividades de coordenação, planejamento, articulação institucional, implementação e
+monitoramento das ações promovidas trabalhando em estreita colaboração com as Coordenadorias e assessorias técnicas da SDA.
+
+Comitê da Gestão Estratégica e Operacional: Coordenado pela SDA e composto pelos órgãos/entidades estaduais envolvidos no apoio da
+execução das ações. Será um fórum de coordenação/decisão estratégica com as responsabilidades de: i) aprovar o Plano operativo anual
+e viabilizar os acordos necessários à sua execução e à consecução das atividades do Projeto; ii) aprovar o manual de implementação do
+Projeto; e iii) analisar os relatórios de execução semestrais/anuais, as revisões de termos e os resultados de auditorias.
+
+Conselho Estadual de Desenvolvimento Rural Sustentável: Instância de debates entre o PPFII e as demais instituições governamentais, e
+não governamentais, possibilitando a articulação e integração entre os diversos atores envolvidos no desenvolvimento rural sustentável.
+Este conselho está vinculado e coordenado à SDA.
+
+(cid:10)
+
+
+Página: 21
+
+Instâncias municipais: Os municípios serão convidados a participar em todas as ações, integrando suas contribuições aos Planos
+Territoriais e nas ações que são de suas competências, participando do fortalecimento da governança necessária à sustentabilidade
+dessas ações. Nos municípios serão envolvidos os Conselhos Municipais de Desenvolvimento Sustentável.
+
+Órgãos/Entidades e Entes parceiros na execução das ações: Empresa de Assistência Técnica e Extensão Rural do Ceará ? EMATERCE,
+visa contribuir para o desenvolvimento sustentável da agropecuária do Estado. Sua participação no PPFII dar-se-á na troca de
+experiências adquiridas pela sua ATER, bem como nas demais ações que envolvam capacitações junto aos agricultores familiares.
+Instituto Do Desenvolvimento Agrário Do Ceará ? IDACE, Autarquia Especial vinculada à SDA, Responsável pelo desenvolvimento das
+atividades relativas à organização da estrutura fundiária, com ênfase no assentamento e reassentamento rural, e possui amplos poderes
+para promover a distribuição de terras devolutas, conforme legislação específica. No âmbito do PPFII contribuirá com as ações de
+regularização fundiária e elaboração do CAR. Secretaria Estadual do Meio Ambiente - SEMA, elabora, planeja e implementa a política
+ambiental do Estado. Contribuirá com a elaboração de política pública composta de um conjunto de ações que visam promover a
+ampliação da adoção de algumas tecnologias sustentáveis com alto potencial de mitigação das emissões de Gases de Efeito Estufa e
+combate ao Aquecimento Global, no setor agropecuário. Superintendência do Meio Ambiente, Autarquia vinculada SEMA, responsável por
+executar a Política Ambiental do Estado, e integra, como órgão seccional, o SISNAMA, contribuirá no PPFII com a emissão do
+Licenciamento Ambiental das intervenções propostas, assim como no apoio ao CAR. Procuradoria Geral do Estado, objetiva contribuir
+para a realização de políticas públicas, tem no PPFII a função de participar dos processos licitatórios, por meio do apoio operacional da
+Comissão Especial de Licitação - CEL 04. A Controladoria e Ouvidoria Geral possui a missão de Assegurar a adequada aplicação dos
+recursos públicos, contribuindo para uma gestão ética e transparente e oferta dos serviços públicos com qualidade. No PPFII será
+responsável pelo sistema de gestão das parcerias do Poder Executivo Estadual. Instituto de Pesquisa e Estratégia Econômica do Ceará,
+objetiva a geração de estudos, pesquisas e informações socioeconômicas e geográficas que permitem a avaliação de programas e a
+elaboração de estratégias e políticas públicas para o desenvolvimento. No PPFII contribuirá para a organização de informações sobre as
+áreas e suas populações. Organizações da Sociedade Civil de ATER: Com suas experiências em desenvolvimento territorial rural
+executarão as ações de ATER em consonância com a Política Nacional de Assistência Técnica e com as demais ações propostas pelo
+projeto sob orientação e supervisão da UGP. Articulação do Semiárido Brasileiro e o Fórum Cearense pela Vida no Semiárido, fortalecem
+a sociedade civil mobilizando-a para a construção de políticas e ações estratégicas de convivência com o semiárido, tendo as tecnologias
+sociais de captação e armazenamento de água da chuva para consumo humano e produção de alimentos como carro-chefe.
+
+Arranjo operacional: O PPFII buscará consolidar as parcerias estabelecidas na esfera governamental e privada pelo PPFI e integrar o
+conjunto de ações das diversas coordenadorias do sistema SDA.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Secretaria do Desenvolvimento Agrário - SDA
+
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 6 Anos
+
+Fax:
+UF:
+
+
+### 4.4. Execução/Cronograma
+
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+CF
+
+Ano 1
+
+FONTES
+
+AECI
+
+C - C1. DESENVOLVIMENTO RURAL SUSTENTÁVEL
+
+78.045.440,00
+
+1.463.352,00
+
+5.385.135,36
+
+TOTAL
+
+CF
+
+TOTAL
+
+AECI
+
+TOTAL
+
+FIDA
+
+FIDA
+468.272,64
+
+S - S1.1. FORTALECIMENTO DA AGRICULTURA FAMILIAR
+E SUPERAÇÃO DA FOME E MITIGAÇÃO DOS EFEITOS DA
+POBREZA
+P - Planos de Desenvolvimento Rural Local (PDRL)
+
+P - Regularização Fundiária e Ambiental
+
+S - S1.2. FORTALECIMENTO DA COMERCIALIZAÇÃO E DO
+BENEFICIAMENTO DE PRODUTOS DA AGRICULTURA
+FAMILIAR
+P - Plano de Negócio para fortalecimento do beneficiamento
+e da comercialização
+S - S1.3. INOVAÇÕES TECNOLÓGICAS
+
+P - Agritech e Fintech
+
+C - C2.  SEGURANÇA HÍDRICA, SANEAMENTO E ENERGIA
+RENOVÁVEL
+S -  S2.1. SANEAMENTO BÁSICO RURAL COMUNITÁRIO
+
+P - Acesso à água Rural Comunitário
+
+P - Reuso de água comunitário para produção
+
+P - Plano de Reciclagem e Resíduos Sólidos
+
+S - S2.2. TECNOLOGIA SOCIAL DE ACESSO À ÁGUA,
+APOIO À PRODUÇÃO AGRÍCOLA E INFRAESTRUTURA
+FAMILIAR
+P - Cisterna para consumo humano
+
+73.803.840,00
+
+1.463.352,00
+
+5.385.135,36
+
+468.272,64
+
+73.167.600,00
+
+1.463.352,00
+
+5.385.135,36
+
+468.272,64
+
+636.240,00
+
+3.181.200,00
+
+3.181.200,00
+
+1.060.400,00
+
+1.060.400,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+28.948.920,00
+
+578.978,40
+
+2.130.640,51
+
+185.273,09
+
+4.665.760,00
+
+4.241.600,00
+
+318.120,00
+
+106.040,00
+
+93.315,20
+
+84.832,00
+
+6.362,40
+
+2.120,80
+
+343.399,93
+
+312.181,76
+
+23.413,63
+
+7.804,54
+
+29.860,87
+
+27.146,24
+
+2.035,97
+
+678,66
+
+24.283.160,00
+
+485.663,20
+
+1.787.240,58
+
+155.412,22
+
+9.649.640,00
+
+192.992,80
+
+710.213,50
+
+61.757,70
+
+(cid:10)
+(cid:10)
+
+
+Página: 22
+
+P - Cisterna para produção agropecuária
+
+11.028.160,00
+
+220.563,20
+
+811.672,58
+
+P - Sistema de Reuso Familiar para Produção
+
+2.078.384,00
+
+41.567,68
+
+152.969,06
+
+P - Módulos Sanitários com Tratamento
+
+P - Fogão Ecoeficiente
+
+P - Biodigestor
+
+424.160,00
+
+763.488,00
+
+339.328,00
+
+8.483,20
+
+15.269,76
+
+6.786,56
+
+31.218,18
+
+56.192,72
+
+24.974,54
+
+70.580,22
+
+13.301,66
+
+2.714,62
+
+4.886,32
+
+2.171,70
+
+C - C3. FORTALECIMENTO INSTITUCIONAL, TERRITORIAL
+E INOVAÇÕES
+S - S3.1. FORTALECIMENTO INSTITUCIONAL PARA O
+DESENVOLVIMENTO DA AGRICULTURA AGROECOLÓGICA
+P - Fortalecimento técnico da equipe do estado do Ceará
+
+P - Fortalecimento da equipe para Governança e
+Desenvolvimento Territorial
+P - Fortalecimento técnico da equipe de ATER e da CTE
+
+S - S3.2. ASSESSORIA TÉCNICA CONTÍNUA (ATC) PARA
+DESENVOLVIMENTO DA AGRICULTURA AGROECOLÓGICA
+E SUSTENTÁVEL
+P - Identificar, elaborar e implementar os PDRL, e
+desenvolver a governança sustentável
+S - S3.3. CONSULTORIA TÉCNICA ESPECIALIZADA (CTE)
+PARA O FORTALECIMENTO DO BENEFICIAMENTO E DA
+COMERCIALIZAÇÃO
+P - Consultoria Técnica Especializada (CTE) para o
+fortalecimento da gestão e comercialização dos
+empreendimentos.
+S - S3.4 - INOVAÇÃO EM ATER REMOTA
+
+P - Implementação e uso da ATER Remota
+
+C - C4. GESTÃO DO PROJETO, M&A E INTERCÂMBIO DE
+CONHECIMENTO
+S - S4.1. UNIDADE GESTORA DO PROJETO (UGP) E
+ESCRITÓRIOS REGIONAIS DO PROJETO (ERP)
+P - UGP Estruturada e Escritórios Regionais do Projeto (
+ERP)
+S - S4.2. MONITORAMENTO E AVALIAÇÃO (MEA) E
+GERAÇÃO DE CONHECIMENTO
+P - Sistema e estudos de MeA
+
+P - Gestão do Conhecimento, Comunicação e Inovações (
+GCCI)
+P - Cooperação Sul-Sul e triangular (SSTC)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+14.612.312,00
+
+327.112,20
+
+1.203.772,87
+
+104.675,89
+
+581.099,20
+
+46.487,94
+
+171.075,60
+
+14.876,13
+
+352.052,80
+
+114.523,20
+
+28.164,22
+
+103.644,34
+
+9.161,86
+
+33.715,63
+
+114.523,20
+
+9.161,86
+
+33.715,63
+
+11.706.816,00
+
+234.136,32
+
+861.621,66
+
+9.012,55
+
+2.931,79
+
+2.931,79
+
+74.923,62
+
+11.706.816,00
+
+234.136,32
+
+861.621,66
+
+74.923,62
+
+763.488,00
+
+15.269,76
+
+56.192,72
+
+4.886,32
+
+763.488,00
+
+15.269,76
+
+56.192,72
+
+4.886,32
+
+1.560.908,80
+
+1.560.908,80
+
+31.218,18
+
+31.218,18
+
+114.882,89
+
+114.882,89
+
+9.989,82
+
+9.989,82
+
+10.943.328,00
+
+227.095,27
+
+835.710,56
+
+72.670,49
+
+10.298.604,80
+
+205.972,10
+
+757.977,31
+
+65.911,07
+
+10.298.604,80
+
+205.972,10
+
+757.977,31
+
+65.911,07
+
+644.723,20
+
+21.123,17
+
+77.733,25
+
+6.759,42
+
+411.435,20
+
+127.248,00
+
+16.457,41
+
+2.544,96
+
+60.563,26
+
+9.365,45
+
+5.266,37
+
+814,39
+
+106.040,00
+
+2.120,80
+
+7.804,54
+
+678,66
+
+0,00
+
+2.596.537,87
+
+9.555.259,30
+
+830.892,11
+
+0,00
+
+0,00
+
+0,00
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+CF
+
+Ano 2
+
+FONTES
+
+AECI
+
+FIDA
+
+TOTAL
+
+CF
+
+TOTAL
+
+AECI
+
+TOTAL
+
+FIDA
+
+C - C1. DESENVOLVIMENTO RURAL SUSTENTÁVEL
+
+4.640.310,43
+
+17.076.342,27
+
+1.484.899,33
+
+S - S1.1. FORTALECIMENTO DA AGRICULTURA FAMILIAR
+E SUPERAÇÃO DA FOME E MITIGAÇÃO DOS EFEITOS DA
+POBREZA
+P - Planos de Desenvolvimento Rural Local (PDRL)
+
+P - Regularização Fundiária e Ambiental
+
+S - S1.2. FORTALECIMENTO DA COMERCIALIZAÇÃO E DO
+BENEFICIAMENTO DE PRODUTOS DA AGRICULTURA
+FAMILIAR
+P - Plano de Negócio para fortalecimento do beneficiamento
+e da comercialização
+S - S1.3. INOVAÇÕES TECNOLÓGICAS
+
+P - Agritech e Fintech
+
+C - C2.  SEGURANÇA HÍDRICA, SANEAMENTO E ENERGIA
+RENOVÁVEL
+S -  S2.1. SANEAMENTO BÁSICO RURAL COMUNITÁRIO
+
+P - Acesso à água Rural Comunitário
+
+P - Reuso de água comunitário para produção
+
+P - Plano de Reciclagem e Resíduos Sólidos
+
+S - S2.2. TECNOLOGIA SOCIAL DE ACESSO À ÁGUA,
+APOIO À PRODUÇÃO AGRÍCOLA E INFRAESTRUTURA
+FAMILIAR
+P - Cisterna para consumo humano
+
+P - Cisterna para produção agropecuária
+
+P - Sistema de Reuso Familiar para Produção
+
+P - Módulos Sanitários com Tratamento
+
+P - Fogão Ecoeficiente
+
+P - Biodigestor
+
+C - C3. FORTALECIMENTO INSTITUCIONAL, TERRITORIAL
+E INOVAÇÕES
+S - S3.1. FORTALECIMENTO INSTITUCIONAL PARA O
+DESENVOLVIMENTO DA AGRICULTURA AGROECOLÓGICA
+P - Fortalecimento técnico da equipe do estado do Ceará
+
+P - Fortalecimento da equipe para Governança e
+Desenvolvimento Territorial
+P - Fortalecimento técnico da equipe de ATER e da CTE
+
+4.428.230,43
+
+16.295.887,87
+
+1.417.033,73
+
+4.390.056,00
+
+16.155.406,08
+
+1.404.817,92
+
+38.174,43
+
+140.481,79
+
+190.872,00
+
+702.408,96
+
+12.215,81
+
+61.079,04
+
+190.872,00
+
+702.408,96
+
+61.079,04
+
+21.208,00
+
+21.208,00
+
+78.045,44
+
+78.045,44
+
+6.786,56
+
+6.786,56
+
+1.139.293,76
+
+4.192.601,03
+
+364.574,01
+
+167.967,36
+
+618.119,89
+
+152.697,60
+
+561.927,17
+
+11.452,32
+
+3.817,44
+
+42.144,54
+
+14.048,18
+
+53.749,55
+
+48.863,23
+
+3.664,74
+
+1.221,58
+
+971.326,40
+
+3.574.481,14
+
+310.824,46
+
+385.985,60
+
+1.420.427,01
+
+123.515,39
+
+441.126,40
+
+1.623.345,15
+
+141.160,45
+
+83.135,36
+
+16.966,40
+
+30.539,52
+
+13.573,12
+
+305.938,12
+
+26.603,32
+
+62.436,35
+
+112.385,43
+
+49.949,08
+
+5.429,25
+
+9.772,65
+
+4.343,40
+
+564.896,29
+
+2.078.818,34
+
+180.766,82
+
+34.865,95
+
+128.306,70
+
+11.157,11
+
+21.123,17
+
+6.871,39
+
+77.733,26
+
+25.286,72
+
+6.759,41
+
+2.198,85
+
+6.871,39
+
+25.286,72
+
+2.198,85
+
+
+Página: 23
+
+S - S3.2. ASSESSORIA TÉCNICA CONTÍNUA (ATC) PARA
+DESENVOLVIMENTO DA AGRICULTURA AGROECOLÓGICA
+E SUSTENTÁVEL
+P - Identificar, elaborar e implementar os PDRL, e
+desenvolver a governança sustentável
+S - S3.3. CONSULTORIA TÉCNICA ESPECIALIZADA (CTE)
+PARA O FORTALECIMENTO DO BENEFICIAMENTO E DA
+COMERCIALIZAÇÃO
+P - Consultoria Técnica Especializada (CTE) para o
+fortalecimento da gestão e comercialização dos
+empreendimentos.
+S - S3.4 - INOVAÇÃO EM ATER REMOTA
+
+P - Implementação e uso da ATER Remota
+
+C - C4. GESTÃO DO PROJETO, M&A E INTERCÂMBIO DE
+CONHECIMENTO
+S - S4.1. UNIDADE GESTORA DO PROJETO (UGP) E
+ESCRITÓRIOS REGIONAIS DO PROJETO (ERP)
+P - UGP Estruturada e Escritórios Regionais do Projeto (
+ERP)
+S - S4.2. MONITORAMENTO E AVALIAÇÃO (MEA) E
+GERAÇÃO DE CONHECIMENTO
+P - Sistema e estudos de MeA
+
+P - Gestão do Conhecimento, Comunicação e Inovações (
+GCCI)
+P - Cooperação Sul-Sul e triangular (SSTC)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+468.272,64
+
+1.723.243,32
+
+149.847,24
+
+468.272,64
+
+1.723.243,32
+
+149.847,24
+
+30.539,52
+
+112.385,43
+
+9.772,65
+
+30.539,52
+
+112.385,43
+
+9.772,65
+
+31.218,18
+
+31.218,18
+
+114.882,89
+
+114.882,89
+
+9.989,82
+
+9.989,82
+
+383.644,23
+
+1.411.810,78
+
+122.766,17
+
+370.749,77
+
+1.364.359,16
+
+118.639,93
+
+370.749,77
+
+1.364.359,16
+
+118.639,93
+
+12.894,46
+
+47.451,62
+
+4.126,24
+
+8.228,70
+
+2.544,96
+
+30.281,63
+
+9.365,45
+
+2.633,19
+
+814,39
+
+2.120,80
+
+7.804,54
+
+678,66
+
+0,00
+
+6.728.144,71
+
+24.759.572,42
+
+2.153.006,33
+
+0,00
+
+0,00
+
+0,00
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+CF
+
+Ano 3
+
+FONTES
+
+AECI
+
+FIDA
+
+TOTAL
+
+CF
+
+TOTAL
+
+AECI
+
+TOTAL
+
+FIDA
+
+C - C1. DESENVOLVIMENTO RURAL SUSTENTÁVEL
+
+4.780.283,20
+
+17.591.442,15
+
+1.529.690,62
+
+S - S1.1. FORTALECIMENTO DA AGRICULTURA FAMILIAR
+E SUPERAÇÃO DA FOME E MITIGAÇÃO DOS EFEITOS DA
+POBREZA
+P - Planos de Desenvolvimento Rural Local (PDRL)
+
+P - Regularização Fundiária e Ambiental
+
+S - S1.2. FORTALECIMENTO DA COMERCIALIZAÇÃO E DO
+BENEFICIAMENTO DE PRODUTOS DA AGRICULTURA
+FAMILIAR
+P - Plano de Negócio para fortalecimento do beneficiamento
+e da comercialização
+S - S1.3. INOVAÇÕES TECNOLÓGICAS
+
+P - Agritech e Fintech
+
+C - C2.  SEGURANÇA HÍDRICA, SANEAMENTO E ENERGIA
+RENOVÁVEL
+S -  S2.1. SANEAMENTO BÁSICO RURAL COMUNITÁRIO
+
+P - Acesso à água Rural Comunitário
+
+P - Reuso de água comunitário para produção
+
+P - Plano de Reciclagem e Resíduos Sólidos
+
+S - S2.2. TECNOLOGIA SOCIAL DE ACESSO À ÁGUA,
+APOIO À PRODUÇÃO AGRÍCOLA E INFRAESTRUTURA
+FAMILIAR
+P - Cisterna para consumo humano
+
+P - Cisterna para produção agropecuária
+
+P - Sistema de Reuso Familiar para Produção
+
+P - Módulos Sanitários com Tratamento
+
+P - Fogão Ecoeficiente
+
+P - Biodigestor
+
+C - C3. FORTALECIMENTO INSTITUCIONAL, TERRITORIAL
+E INOVAÇÕES
+S - S3.1. FORTALECIMENTO INSTITUCIONAL PARA O
+DESENVOLVIMENTO DA AGRICULTURA AGROECOLÓGICA
+P - Fortalecimento técnico da equipe do estado do Ceará
+
+P - Fortalecimento da equipe para Governança e
+Desenvolvimento Territorial
+P - Fortalecimento técnico da equipe de ATER e da CTE
+
+S - S3.2. ASSESSORIA TÉCNICA CONTÍNUA (ATC) PARA
+DESENVOLVIMENTO DA AGRICULTURA AGROECOLÓGICA
+E SUSTENTÁVEL
+P - Identificar, elaborar e implementar os PDRL, e
+desenvolver a governança sustentável
+S - S3.3. CONSULTORIA TÉCNICA ESPECIALIZADA (CTE)
+PARA O FORTALECIMENTO DO BENEFICIAMENTO E DA
+COMERCIALIZAÇÃO
+P - Consultoria Técnica Especializada (CTE) para o
+fortalecimento da gestão e comercialização dos
+empreendimentos.
+S - S3.4 - INOVAÇÃO EM ATER REMOTA
+
+P - Implementação e uso da ATER Remota
+
+C - C4. GESTÃO DO PROJETO, M&A E INTERCÂMBIO DE
+CONHECIMENTO
+
+4.440.955,20
+
+16.342.715,11
+
+1.421.105,66
+
+4.390.056,00
+
+16.155.406,08
+
+1.404.817,92
+
+50.899,20
+
+187.309,03
+
+254.496,00
+
+936.545,28
+
+16.287,74
+
+81.438,72
+
+254.496,00
+
+936.545,28
+
+81.438,72
+
+84.832,00
+
+84.832,00
+
+312.181,76
+
+312.181,76
+
+27.146,24
+
+27.146,24
+
+1.195.282,88
+
+4.398.640,99
+
+382.490,53
+
+223.956,48
+
+824.159,85
+
+203.596,80
+
+749.236,22
+
+15.269,76
+
+5.089,92
+
+56.192,72
+
+18.730,91
+
+71.666,07
+
+65.150,98
+
+4.886,32
+
+1.628,77
+
+971.326,40
+
+3.574.481,14
+
+310.824,46
+
+385.985,60
+
+1.420.427,01
+
+123.515,39
+
+441.126,40
+
+1.623.345,15
+
+141.160,45
+
+83.135,36
+
+16.966,40
+
+30.539,52
+
+13.573,12
+
+305.938,12
+
+26.603,32
+
+62.436,35
+
+112.385,43
+
+49.949,08
+
+5.429,25
+
+9.772,65
+
+4.343,40
+
+541.652,32
+
+1.993.280,55
+
+173.328,75
+
+11.621,98
+
+42.768,91
+
+3.719,04
+
+7.041,06
+
+2.290,46
+
+25.911,09
+
+8.428,91
+
+2.253,14
+
+732,95
+
+2.290,46
+
+8.428,91
+
+732,95
+
+468.272,64
+
+1.723.243,32
+
+149.847,24
+
+468.272,64
+
+1.723.243,32
+
+149.847,24
+
+30.539,52
+
+112.385,43
+
+9.772,65
+
+30.539,52
+
+112.385,43
+
+9.772,65
+
+31.218,18
+
+31.218,18
+
+114.882,89
+
+114.882,89
+
+9.989,82
+
+9.989,82
+
+387.885,83
+
+1.427.419,87
+
+124.123,48
+
+
+Página: 24
+
+S - S4.1. UNIDADE GESTORA DO PROJETO (UGP) E
+ESCRITÓRIOS REGIONAIS DO PROJETO (ERP)
+P - UGP Estruturada e Escritórios Regionais do Projeto (
+ERP)
+S - S4.2. MONITORAMENTO E AVALIAÇÃO (MEA) E
+GERAÇÃO DE CONHECIMENTO
+P - Sistema e estudos de MeA
+
+P - Gestão do Conhecimento, Comunicação e Inovações (
+GCCI)
+P - Cooperação Sul-Sul e triangular (SSTC)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+370.749,77
+
+1.364.359,16
+
+118.639,93
+
+370.749,77
+
+1.364.359,16
+
+118.639,93
+
+17.136,06
+
+63.060,71
+
+5.483,55
+
+8.228,70
+
+2.544,96
+
+30.281,63
+
+9.365,45
+
+2.633,19
+
+814,39
+
+6.362,40
+
+23.413,63
+
+2.035,97
+
+0,00
+
+6.905.104,23
+
+25.410.783,56
+
+2.209.633,38
+
+0,00
+
+0,00
+
+0,00
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+CF
+
+Ano 4
+
+FONTES
+
+AECI
+
+FIDA
+
+TOTAL
+
+CF
+
+TOTAL
+
+AECI
+
+TOTAL
+
+FIDA
+
+C - C1. DESENVOLVIMENTO RURAL SUSTENTÁVEL
+
+4.682.726,40
+
+17.232.433,15
+
+1.498.472,45
+
+S - S1.1. FORTALECIMENTO DA AGRICULTURA FAMILIAR
+E SUPERAÇÃO DA FOME E MITIGAÇÃO DOS EFEITOS DA
+POBREZA
+P - Planos de Desenvolvimento Rural Local (PDRL)
+
+P - Regularização Fundiária e Ambiental
+
+S - S1.2. FORTALECIMENTO DA COMERCIALIZAÇÃO E DO
+BENEFICIAMENTO DE PRODUTOS DA AGRICULTURA
+FAMILIAR
+P - Plano de Negócio para fortalecimento do beneficiamento
+e da comercialização
+S - S1.3. INOVAÇÕES TECNOLÓGICAS
+
+P - Agritech e Fintech
+
+C - C2.  SEGURANÇA HÍDRICA, SANEAMENTO E ENERGIA
+RENOVÁVEL
+S -  S2.1. SANEAMENTO BÁSICO RURAL COMUNITÁRIO
+
+P - Acesso à água Rural Comunitário
+
+P - Reuso de água comunitário para produção
+
+P - Plano de Reciclagem e Resíduos Sólidos
+
+S - S2.2. TECNOLOGIA SOCIAL DE ACESSO À ÁGUA,
+APOIO À PRODUÇÃO AGRÍCOLA E INFRAESTRUTURA
+FAMILIAR
+P - Cisterna para consumo humano
+
+P - Cisterna para produção agropecuária
+
+P - Sistema de Reuso Familiar para Produção
+
+P - Módulos Sanitários com Tratamento
+
+P - Fogão Ecoeficiente
+
+P - Biodigestor
+
+C - C3. FORTALECIMENTO INSTITUCIONAL, TERRITORIAL
+E INOVAÇÕES
+S - S3.1. FORTALECIMENTO INSTITUCIONAL PARA O
+DESENVOLVIMENTO DA AGRICULTURA AGROECOLÓGICA
+P - Fortalecimento técnico da equipe do estado do Ceará
+
+P - Fortalecimento da equipe para Governança e
+Desenvolvimento Territorial
+P - Fortalecimento técnico da equipe de ATER e da CTE
+
+S - S3.2. ASSESSORIA TÉCNICA CONTÍNUA (ATC) PARA
+DESENVOLVIMENTO DA AGRICULTURA AGROECOLÓGICA
+E SUSTENTÁVEL
+P - Identificar, elaborar e implementar os PDRL, e
+desenvolver a governança sustentável
+S - S3.3. CONSULTORIA TÉCNICA ESPECIALIZADA (CTE)
+PARA O FORTALECIMENTO DO BENEFICIAMENTO E DA
+COMERCIALIZAÇÃO
+P - Consultoria Técnica Especializada (CTE) para o
+fortalecimento da gestão e comercialização dos
+empreendimentos.
+S - S3.4 - INOVAÇÃO EM ATER REMOTA
+
+P - Implementação e uso da ATER Remota
+
+C - C4. GESTÃO DO PROJETO, M&A E INTERCÂMBIO DE
+CONHECIMENTO
+S - S4.1. UNIDADE GESTORA DO PROJETO (UGP) E
+ESCRITÓRIOS REGIONAIS DO PROJETO (ERP)
+P - UGP Estruturada e Escritórios Regionais do Projeto (
+ERP)
+S - S4.2. MONITORAMENTO E AVALIAÇÃO (MEA) E
+GERAÇÃO DE CONHECIMENTO
+P - Sistema e estudos de MeA
+
+P - Gestão do Conhecimento, Comunicação e Inovações (
+GCCI)
+P - Cooperação Sul-Sul e triangular (SSTC)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+4.428.230,40
+
+16.295.887,87
+
+1.417.033,73
+
+4.390.056,00
+
+16.155.406,08
+
+1.404.817,92
+
+38.174,40
+
+140.481,79
+
+190.872,00
+
+702.408,96
+
+12.215,81
+
+61.079,04
+
+190.872,00
+
+702.408,96
+
+61.079,04
+
+63.624,00
+
+63.624,00
+
+234.136,32
+
+234.136,32
+
+20.359,68
+
+20.359,68
+
+1.690.277,60
+
+6.220.221,57
+
+540.888,83
+
+233.288,00
+
+858.499,84
+
+212.080,00
+
+780.454,40
+
+15.906,00
+
+5.302,00
+
+58.534,08
+
+19.511,36
+
+74.652,16
+
+67.865,60
+
+5.089,92
+
+1.696,64
+
+1.456.989,60
+
+5.361.721,73
+
+466.236,67
+
+578.978,40
+
+2.130.640,51
+
+185.273,09
+
+661.689,60
+
+2.435.017,73
+
+211.740,67
+
+124.703,04
+
+458.907,19
+
+25.449,60
+
+45.809,28
+
+20.359,68
+
+93.654,53
+
+168.578,15
+
+74.923,62
+
+39.904,97
+
+8.143,87
+
+14.658,97
+
+6.515,10
+
+572.870,46
+
+2.108.163,44
+
+183.318,56
+
+11.621,98
+
+42.768,91
+
+3.719,04
+
+7.041,06
+
+2.290,46
+
+25.911,09
+
+8.428,91
+
+2.253,14
+
+732,95
+
+2.290,46
+
+8.428,91
+
+732,95
+
+468.272,64
+
+1.723.243,32
+
+149.847,24
+
+468.272,64
+
+1.723.243,32
+
+149.847,24
+
+30.539,52
+
+112.385,43
+
+9.772,65
+
+30.539,52
+
+112.385,43
+
+9.772,65
+
+62.436,32
+
+62.436,32
+
+229.765,78
+
+229.765,78
+
+19.979,63
+
+19.979,63
+
+398.659,50
+
+1.467.066,96
+
+127.571,04
+
+370.749,77
+
+1.364.359,16
+
+118.639,93
+
+370.749,77
+
+1.364.359,16
+
+118.639,93
+
+27.909,73
+
+102.707,80
+
+8.931,11
+
+16.457,41
+
+5.089,92
+
+60.563,26
+
+18.730,91
+
+5.266,37
+
+1.628,77
+
+6.362,40
+
+23.413,63
+
+2.035,97
+
+0,00
+
+7.344.533,96
+
+27.027.885,12
+
+2.350.250,88
+
+0,00
+
+0,00
+
+0,00
+
+
+Página: 25
+
+COMPONENTES
+
+C - C1. DESENVOLVIMENTO RURAL SUSTENTÁVEL
+
+S - S1.1. FORTALECIMENTO DA AGRICULTURA FAMILIAR
+E SUPERAÇÃO DA FOME E MITIGAÇÃO DOS EFEITOS DA
+POBREZA
+P - Planos de Desenvolvimento Rural Local (PDRL)
+
+P - Regularização Fundiária e Ambiental
+
+S - S1.2. FORTALECIMENTO DA COMERCIALIZAÇÃO E DO
+BENEFICIAMENTO DE PRODUTOS DA AGRICULTURA
+FAMILIAR
+P - Plano de Negócio para fortalecimento do beneficiamento
+e da comercialização
+S - S1.3. INOVAÇÕES TECNOLÓGICAS
+
+P - Agritech e Fintech
+
+C - C2.  SEGURANÇA HÍDRICA, SANEAMENTO E ENERGIA
+RENOVÁVEL
+S -  S2.1. SANEAMENTO BÁSICO RURAL COMUNITÁRIO
+
+P - Acesso à água Rural Comunitário
+
+P - Reuso de água comunitário para produção
+
+P - Plano de Reciclagem e Resíduos Sólidos
+
+S - S2.2. TECNOLOGIA SOCIAL DE ACESSO À ÁGUA,
+APOIO À PRODUÇÃO AGRÍCOLA E INFRAESTRUTURA
+FAMILIAR
+P - Cisterna para consumo humano
+
+P - Cisterna para produção agropecuária
+
+P - Sistema de Reuso Familiar para Produção
+
+P - Módulos Sanitários com Tratamento
+
+P - Fogão Ecoeficiente
+
+P - Biodigestor
+
+C - C3. FORTALECIMENTO INSTITUCIONAL, TERRITORIAL
+E INOVAÇÕES
+S - S3.1. FORTALECIMENTO INSTITUCIONAL PARA O
+DESENVOLVIMENTO DA AGRICULTURA AGROECOLÓGICA
+P - Fortalecimento técnico da equipe do estado do Ceará
+
+P - Fortalecimento da equipe para Governança e
+Desenvolvimento Territorial
+P - Fortalecimento técnico da equipe de ATER e da CTE
+
+S - S3.2. ASSESSORIA TÉCNICA CONTÍNUA (ATC) PARA
+DESENVOLVIMENTO DA AGRICULTURA AGROECOLÓGICA
+E SUSTENTÁVEL
+P - Identificar, elaborar e implementar os PDRL, e
+desenvolver a governança sustentável
+S - S3.3. CONSULTORIA TÉCNICA ESPECIALIZADA (CTE)
+PARA O FORTALECIMENTO DO BENEFICIAMENTO E DA
+COMERCIALIZAÇÃO
+P - Consultoria Técnica Especializada (CTE) para o
+fortalecimento da gestão e comercialização dos
+empreendimentos.
+S - S3.4 - INOVAÇÃO EM ATER REMOTA
+
+P - Implementação e uso da ATER Remota
+
+C - C4. GESTÃO DO PROJETO, M&A E INTERCÂMBIO DE
+CONHECIMENTO
+S - S4.1. UNIDADE GESTORA DO PROJETO (UGP) E
+ESCRITÓRIOS REGIONAIS DO PROJETO (ERP)
+P - UGP Estruturada e Escritórios Regionais do Projeto (
+ERP)
+S - S4.2. MONITORAMENTO E AVALIAÇÃO (MEA) E
+GERAÇÃO DE CONHECIMENTO
+P - Sistema e estudos de MeA
+
+P - Gestão do Conhecimento, Comunicação e Inovações (
+GCCI)
+P - Cooperação Sul-Sul e triangular (SSTC)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - C1. DESENVOLVIMENTO RURAL SUSTENTÁVEL
+
+S - S1.1. FORTALECIMENTO DA AGRICULTURA FAMILIAR
+E SUPERAÇÃO DA FOME E MITIGAÇÃO DOS EFEITOS DA
+POBREZA
+P - Planos de Desenvolvimento Rural Local (PDRL)
+
+P - Regularização Fundiária e Ambiental
+
+S - S1.2. FORTALECIMENTO DA COMERCIALIZAÇÃO E DO
+BENEFICIAMENTO DE PRODUTOS DA AGRICULTURA
+FAMILIAR
+P - Plano de Negócio para fortalecimento do beneficiamento
+e da comercialização
+
+VALOR
+
+CUSTO
+
+CF
+42.416,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+Ano 5
+
+FONTES
+
+AECI
+156.090,88
+
+FIDA
+
+13.573,12
+
+TOTAL
+
+CF
+
+TOTAL
+
+AECI
+
+TOTAL
+
+FIDA
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+42.416,00
+
+42.416,00
+
+156.090,88
+
+156.090,88
+
+13.573,12
+
+13.573,12
+
+1.139.293,76
+
+4.192.601,03
+
+364.574,01
+
+167.967,36
+
+618.119,89
+
+152.697,60
+
+561.927,17
+
+11.452,32
+
+3.817,44
+
+42.144,54
+
+14.048,18
+
+53.749,55
+
+48.863,23
+
+3.664,74
+
+1.221,58
+
+971.326,40
+
+3.574.481,14
+
+310.824,46
+
+385.985,60
+
+1.420.427,01
+
+123.515,39
+
+441.126,40
+
+1.623.345,15
+
+141.160,45
+
+83.135,36
+
+16.966,40
+
+30.539,52
+
+13.573,12
+
+305.938,12
+
+26.603,32
+
+62.436,35
+
+112.385,43
+
+49.949,08
+
+5.429,25
+
+9.772,65
+
+4.343,40
+
+588.479,58
+
+2.165.604,86
+
+188.313,47
+
+11.621,98
+
+42.768,89
+
+3.719,04
+
+7.041,06
+
+2.290,46
+
+25.911,07
+
+8.428,91
+
+2.253,14
+
+732,95
+
+2.290,46
+
+8.428,91
+
+732,95
+
+468.272,64
+
+1.723.243,32
+
+149.847,24
+
+468.272,64
+
+1.723.243,32
+
+149.847,24
+
+30.539,52
+
+112.385,43
+
+9.772,65
+
+30.539,52
+
+112.385,43
+
+9.772,65
+
+78.045,44
+
+78.045,44
+
+287.207,22
+
+287.207,22
+
+24.974,54
+
+24.974,54
+
+396.538,71
+
+1.459.262,46
+
+126.892,33
+
+370.749,77
+
+1.364.359,16
+
+118.639,93
+
+370.749,77
+
+1.364.359,16
+
+118.639,93
+
+25.788,94
+
+94.903,30
+
+8.252,40
+
+16.457,41
+
+5.089,92
+
+60.563,26
+
+18.730,91
+
+5.266,37
+
+1.628,77
+
+4.241,61
+
+15.609,13
+
+1.357,26
+
+0,00
+
+2.166.728,05
+
+7.973.559,23
+
+693.352,93
+
+0,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+CF
+
+Ano 6
+
+FONTES
+
+AECI
+
+FIDA
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+AECI
+
+TOTAL
+
+FIDA
+
+15.609.088,03
+
+57.441.443,81
+
+4.994.908,16
+
+14.760.768,03
+
+54.319.626,21
+
+4.723.445,76
+
+14.633.520,00
+
+53.851.353,60
+
+4.682.726,40
+
+127.248,03
+
+468.272,61
+
+40.719,36
+
+636.240,00
+
+2.341.363,20
+
+203.596,80
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+636.240,00
+
+2.341.363,20
+
+203.596,80
+
+
+Página: 26
+
+S - S1.3. INOVAÇÕES TECNOLÓGICAS
+
+P - Agritech e Fintech
+
+C - C2.  SEGURANÇA HÍDRICA, SANEAMENTO E ENERGIA
+RENOVÁVEL
+S -  S2.1. SANEAMENTO BÁSICO RURAL COMUNITÁRIO
+
+P - Acesso à água Rural Comunitário
+
+P - Reuso de água comunitário para produção
+
+P - Plano de Reciclagem e Resíduos Sólidos
+
+S - S2.2. TECNOLOGIA SOCIAL DE ACESSO À ÁGUA,
+APOIO À PRODUÇÃO AGRÍCOLA E INFRAESTRUTURA
+FAMILIAR
+P - Cisterna para consumo humano
+
+P - Cisterna para produção agropecuária
+
+P - Sistema de Reuso Familiar para Produção
+
+P - Módulos Sanitários com Tratamento
+
+P - Fogão Ecoeficiente
+
+P - Biodigestor
+
+C - C3. FORTALECIMENTO INSTITUCIONAL, TERRITORIAL
+E INOVAÇÕES
+S - S3.1. FORTALECIMENTO INSTITUCIONAL PARA O
+DESENVOLVIMENTO DA AGRICULTURA AGROECOLÓGICA
+P - Fortalecimento técnico da equipe do estado do Ceará
+
+P - Fortalecimento da equipe para Governança e
+Desenvolvimento Territorial
+P - Fortalecimento técnico da equipe de ATER e da CTE
+
+S - S3.2. ASSESSORIA TÉCNICA CONTÍNUA (ATC) PARA
+DESENVOLVIMENTO DA AGRICULTURA AGROECOLÓGICA
+E SUSTENTÁVEL
+P - Identificar, elaborar e implementar os PDRL, e
+desenvolver a governança sustentável
+S - S3.3. CONSULTORIA TÉCNICA ESPECIALIZADA (CTE)
+PARA O FORTALECIMENTO DO BENEFICIAMENTO E DA
+COMERCIALIZAÇÃO
+P - Consultoria Técnica Especializada (CTE) para o
+fortalecimento da gestão e comercialização dos
+empreendimentos.
+S - S3.4 - INOVAÇÃO EM ATER REMOTA
+
+P - Implementação e uso da ATER Remota
+
+C - C4. GESTÃO DO PROJETO, M&A E INTERCÂMBIO DE
+CONHECIMENTO
+S - S4.1. UNIDADE GESTORA DO PROJETO (UGP) E
+ESCRITÓRIOS REGIONAIS DO PROJETO (ERP)
+P - UGP Estruturada e Escritórios Regionais do Projeto (
+ERP)
+S - S4.2. MONITORAMENTO E AVALIAÇÃO (MEA) E
+GERAÇÃO DE CONHECIMENTO
+P - Sistema e estudos de MeA
+
+P - Gestão do Conhecimento, Comunicação e Inovações (
+GCCI)
+P - Cooperação Sul-Sul e triangular (SSTC)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+ATOS LEGAIS
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+212.080,00
+
+780.454,40
+
+212.080,00
+
+780.454,40
+
+67.865,60
+
+67.865,60
+
+46.657,60
+
+171.699,97
+
+14.930,43
+
+5.789.784,00
+
+21.306.405,10
+
+1.852.730,90
+
+46.657,60
+
+42.416,00
+
+3.181,20
+
+1.060,40
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+171.699,97
+
+156.090,88
+
+11.706,82
+
+3.902,27
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+14.930,43
+
+13.573,12
+
+1.017,98
+
+339,33
+
+933.152,00
+
+3.433.999,37
+
+298.608,63
+
+848.320,00
+
+3.121.817,60
+
+271.462,40
+
+63.624,00
+
+21.208,00
+
+234.136,33
+
+78.045,44
+
+20.359,67
+
+6.786,56
+
+0,00
+
+4.856.632,00
+
+17.872.405,73
+
+1.554.122,27
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.929.928,00
+
+7.102.135,04
+
+617.576,96
+
+2.205.632,00
+
+8.116.725,76
+
+705.802,24
+
+415.676,80
+
+1.529.690,61
+
+133.016,59
+
+84.832,00
+
+312.181,76
+
+152.697,60
+
+561.927,16
+
+67.865,60
+
+249.745,40
+
+27.146,24
+
+48.863,24
+
+21.717,00
+
+327.451,52
+
+1.205.021,60
+
+104.784,48
+
+2.922.462,37
+
+10.754.661,66
+
+935.187,97
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+116.219,83
+
+427.689,01
+
+37.190,36
+
+70.410,57
+
+22.904,63
+
+259.110,85
+
+84.289,08
+
+22.531,38
+
+7.329,49
+
+22.904,63
+
+84.289,08
+
+7.329,49
+
+234.136,32
+
+861.621,66
+
+74.923,62
+
+2.341.363,20
+
+8.616.216,60
+
+749.236,20
+
+234.136,32
+
+861.621,66
+
+74.923,62
+
+2.341.363,20
+
+8.616.216,60
+
+749.236,20
+
+15.269,76
+
+56.192,72
+
+4.886,32
+
+152.697,60
+
+561.927,16
+
+48.863,24
+
+15.269,76
+
+56.192,72
+
+4.886,32
+
+152.697,60
+
+561.927,16
+
+48.863,24
+
+78.045,44
+
+78.045,44
+
+287.207,22
+
+287.207,22
+
+24.974,54
+
+24.974,54
+
+312.181,74
+
+1.148.828,89
+
+312.181,74
+
+1.148.828,89
+
+99.898,17
+
+99.898,17
+
+394.842,06
+
+1.453.018,80
+
+126.349,46
+
+2.188.665,60
+
+8.054.289,43
+
+700.372,97
+
+370.749,77
+
+1.364.359,18
+
+118.639,93
+
+2.059.720,95
+
+7.579.773,13
+
+659.110,72
+
+370.749,77
+
+1.364.359,18
+
+118.639,93
+
+2.059.720,95
+
+7.579.773,13
+
+659.110,72
+
+24.092,29
+
+88.659,62
+
+7.709,53
+
+128.944,65
+
+474.516,30
+
+41.262,25
+
+16.457,41
+
+7.634,88
+
+60.563,26
+
+28.096,36
+
+5.266,37
+
+2.443,16
+
+82.287,04
+
+25.449,60
+
+302.816,30
+
+93.654,53
+
+26.331,86
+
+8.143,87
+
+132.550.000,00
+
+768.951,18
+
+2.829.740,37
+
+246.064,37
+
+26.510.000,00
+
+97.556.800,00
+
+8.483.200,00
+
+0,00
+
+0,00
+
+0,00
+
+21.208,01
+
+78.045,47
+
+6.786,52
+
+A autorização do financiamento, a ser enviada à Assembleia Legislativa após o deferimento da Carta Consulta, não deve incorrer em
+atrasos, assim como autorizações anteriores. A conjuntura global atual, todavia, impacta sobremaneira a conjuntura nacional tanto em
+termos econômicos como políticos. Para tanto, o acompanhamento e monitoramento do pleito e alinhamento dessas atividades que
+competem ao Estado mitigam tais riscos.
+
+(i)Lei estadual autorizativa para a realização das operações de crédito;
+
+(ii)Criação da Unidade de Gerenciamento de Projeto;
+
+(iii)Definição da estratégia de implementação das ações de caráter local, observando o arcabouço legal e institucional existente.
+
+Termos de Convênio ou outro tipo de composição admitida legalmente com os beneficiários (associações/organizações comunitárias de
+agricultores rurais) para execução dos PDRL e dos PN: No Projeto de Desenvolvimento Produtivo e de Capacidades - Projeto Paulo Freire
+, executado pela SDA, há diversas organizações contratadas e apoiando a elaboração dos planos de investimentos das organizações
+comunitárias. As equipes envolvidas do estado já se apropriaram do conhecimento necessário para agilizar a formalização desses
+convênios, pois já adquiriram experiência, como também estão completamente familiarizadas com o Manual de Operações que declara os
+procedimentos exigidos pelo AECID/FIDA.
+
+(cid:10)
+
+
+Página: 27
+
+Todos os processos serão acompanhados e estarão em conformidade com as normas e procedimentos adotados pelo Governo do Estado
+do Ceará.
+
+A seguir os principais riscos relacionados às contratações e as correspondentes ações mitigatórias.
+
+Riscos (R) - Ação Mitigadora (AM)
+
+(R) Baixa maturidade sobre integridade para as aquisições e gerenciamento dos contratos:
+
+(AM) Implantação de um Plano de Gerenciamento de Riscos e de Integridade.
+
+(R) Atraso no processo licitatório e nas contratações:
+
+(AM) Capacitação das equipes responsáveis pela elaboração das documentações;
+
+(AM) Avaliação de projetos de outras Instituições;
+
+(AM) Contratação dos profissionais com expertise na temática;
+
+(AM) Integração das unidades técnicas e jurídicas do Programa;
+
+(AM) Revisão criteriosa dos documentos da contratação e requisitos elencados no Termo de Referência;
+
+(AM) Negociação prévia dos prazos com a Comissão de Licitação.
+
+(R) Processo licitatório deserto:
+
+(AM) Realização de pesquisa de inteligência de mercado e identificação do máximo de fornecedores e stakeholders.
+
+(R) Descumprimento de cláusulas contratuais devido à situação financeira da empresa contratada:
+
+(AM) Adoção de critérios de seleção adequados.
+
+(R) Gestão Contratual conduzida sem estabelecimento de processo de trabalho padronizado:
+
+(AM) Padronização de processo de trabalho para gestão contratual.
+
+(R) Gestão contratual sem conformidade às regras contidas nos contratos:
+
+(AM) Revisão criteriosa do Edital e das condições contratuais.
+
+(R) Impossibilidade de aplicação de penalidades necessárias durante a execução do contrato:
+
+(AM) Melhoria na especificação das cláusulas de penalidades no edital para comportamentos inadequados dos licitantes.
+
+(R) Pouca competitividade no processo licitatório:
+
+(AM) Revisão criteriosa dos requisitos elencados no Termo de Referência. Identificação do máximo de fornecedores, através de estudos
+de inteligência de mercado.
+
+(R) Descontinuidade da solução contratada:
+
+(AM) Adoção de critérios e especificidades na elaboração do Termo de Referência, que possibilitem a máxima aderência dos bens ou
+serviços cotados ao objeto.
+
+(R) Dependência excessiva em relação à contratada:
+
+(AM) Inclusão nas contratações de procedimentos relativos à transferência de conhecimentos e capacitação. Preparação dos
+colaboradores para sustentação das soluções adquiridas, manualizações e normatizações.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+CONTRATAÇÕES
+
+Atrasos na elaboração dos documentos preparatórios de licitação, tais como: plano de aquisição, termos de referências, estimativas de
+custos, bem como dificuldades nas contratações de obras, bens, serviços e de consultoria em razão dos prazos, recursos e impugnações,
+licitações desertas e fracassadas.
+
+(cid:10)
+
+
+Página: 28
+
+Referidos riscos serão contornados com o apoio especializado em aquisições para auxiliar os órgãos participantes, monitoramento e
+controle em todas as etapas de planejamento, licitação, contratação e conclusão, reuniões periódicas sobre o desempenho dos contratos,
+com sinalização de probabilidade de cumprimento e com elaboração de plano de ação para o cumprimento dos mesmos, sobretudo, boa
+articulação. O Estado possui bastante experiência em projetos multissetoriais bem como com os organismos financiadores.
+
+O Estado do Ceará já possui profissionais com experiência em licitações nas modalidades nacional e internacional, além de contar com o
+apoio operacional da Comissão Especial de Licitação - CEL 04, pertencente à Procuradoria Geral do Estado - PGE.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+Os possíveis riscos ambientais que podem ocorrer durante a implementação do projeto são de três tipos: i) riscos devidos a fenômenos
+meteorológicos; ii) introdução de espécies invasoras; e iii) riscos por atividades produtivas.
+
+i) riscos devidos a fenômenos meteorológicos: O principal risco identificado pelos fenômenos meteorológicos é o aumento do déficit hídrico
+em sistemas hidrológicos: águas superficiais e subterrâneas, estresse da vegetação florestal, baixa ou nenhuma produção em áreas
+agrícolas e pecuárias assim como baixos níveis de água armazenados em infraestruturas hidráulicas (barragens, reservatórios, poços),
+causada pela estação seca prevalecente nos últimos 7 anos. Estes possíveis riscos podem ser prevenidos ou mitigados através de
+medidas focadas em gestão sustentável e uso racional da água para fins produtivos. Essas medidas são consideradas nos Componentes
+1, 2 e 3 do projeto. As ações do projeto em recuperação e preservação ambiental, além da introdução de técnicas da Agricultura
+Agroecológica, tendem a minimizar estes riscos a médio e longo prazo.
+
+ii) introdução de espécies invasoras: as atividades de recomposição da mata nativa da Caatinga estarão condizentes com a lista de
+espécies vegetais características da região. O Projeto não incluirá espécies que não pertencem ao bioma Caatinga (ou da região) para
+evitar o desequilíbrio ambiental.
+
+iii) riscos por atividades produtivas: os riscos referem-se ao desenvolvimento de atividades produtivas tradicionais, e tendem a: i) aumentar
+a degradação dos solos; ii) diminuir a cobertura florestal; iii) aumentar a contaminação do solo e da água devido ao uso de agroquímicos
+e a geração de resíduos sólidos/ líquidos. iv) maior incidência de incêndios florestais devido ao uso do fogo para a preparação de terras
+para cultivo ou para a abertura de novas terras e o uso de agroquímicos. Estes possíveis riscos serão prevenidos ou mitigados por meio
+da adoção de práticas agroecológicas (fertilizante orgânico, água para reutilização, recuperação de áreas degradadas, entre outros), evitar
+a mudança de uso da terra para atividades agrícolas e pecuárias e gerenciamento de fogo. Essas práticas são consideradas nos
+Componentes 1 e 3 do Projeto. Além do mais, os projetos produtivos também são focados no combate ao desmatamento, em áreas que já
+têm um uso agropecuário, reduzindo a necessidade de expansão da atividade em áreas preservadas. Não será afetado o habitat natural,
+como também não haverá nenhuma expansão sobre áreas naturais que atualmente não são usadas para atividades agropecuárias.
+
+Os possíveis impactos ambientais que podem ser causados pelas atividades estabelecidas nos componentes do Projeto são considerados
+de baixo a moderado impacto, basicamente porque são de baixa escala e intensidade, e estão orientados para fortalecer o capital
+humano e a assistência técnica; gestão e acesso à água (captação de águas da chuva e reutilização); a conservação e reabilitação de
+recursos naturais e as atividades de desenvolvimento produtivo são no nível familiar. As medidas para prevenir e mitigar os possíveis
+impactos ambientais estão alinhadas com os riscos identificados e descritos nos parágrafos anteriores.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+O Projeto irá definir uma abordagem metodológica com as comunidades tradicionais, que incluirá: (i) um plano de capacitação das equipes
+de ATER que tenham a incumbência de trabalhar em comunidades indígenas (assim como em outras comunidades tradicionais), no
+intuito de aprimorar e de monitorar a qualidade de suas intervenções; (ii) a produção de material de suporte com metodologias apropriadas
+para as intervenções de cunho técnico e a realização das capacitações; (iii) uma revisão dos PDRL com comunidades tradicionais, para
+assegurar que as especificidades sociais e produtivas destes grupos tenham sido consideradas durante a fase de elaboração das
+propostas; (iv) encontros e intercâmbios entre povos indígenas, quilombolas e outras comunidades tradicionais em temáticas de interesse
+comum, com foco na valorização da identidade cultural.
+
+Povos indígenas
+
+Dentro da área rural de abrangência do projeto, são cerca de 8.000 indígenas que vivem na região, segundo o Censo Demográfico de
+2010. Entre os agricultores familiares, o Censo Agropecuário 2017 indica que 1.207 agricultores são indígenas.
+
+Neste caso, o processo de inclusão das famílias indígenas nas atividades do Projeto será construído a partir de um diálogo constante com
+estas famílias e suas organizações representativas, no respeito do consentimento livre, prévio e informado.
+
+Em linha com a ?Política de Compromisso com os Povos Indígenas? do FIDA (2009), o projeto adotará uma metodologia diferenciada que
+respeite às características próprias dos povos indígenas. De acordo com esta Política, qualquer ação em territórios indígenas deverá
+obrigatoriamente ser precedida por um processo de consulta participativo para solicitar o consentimento livre, prévio e informado dos
+povos indígenas interessados.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 29
+
+Comunidades quilombolas
+
+Em relação aos povos e comunidades tradicionais (PCT), dados do IBGE (2020) indicam que há 174 localidades quilombolas distribuídas
+em 59 municípios da área do Projeto. Desse universo, 57 comunidades remanescentes de quilombos são reconhecidas pela Fundação
+Cultural Palmares.
+
+O Projeto adotará uma abordagem metodológica específica, que incluirá uma capacitação específica para as equipes de ATER, e uma
+revisão especial dos investimentos a serem feitos nestas comunidades.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)

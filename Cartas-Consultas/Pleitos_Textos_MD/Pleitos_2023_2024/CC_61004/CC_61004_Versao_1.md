@@ -1,0 +1,3281 @@
+# Carta-Consulta CC_61004 — Versao 1 (SIGS)
+
+
+CARTA CONSULTA
+
+Programa de Desenvolvimento Sustentável e de Inclusão Social do Município de
+Cachoeiro de Itapemirim
+
+Nº Carta Consulta: 61004
+Mutuário: Município de Cachoeiro de Itapemirim - ES
+Tipo de Operação: Operação de crédito externo
+
+Fontes Internas:
+Contrapartida Financeira: US$ 12.500.000,00
+Fontes Externas:
+Corporação Andina de Fomento - CAF: US$ 50.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+I - Enumerar e descrever o(s) PROBLEMAS(S) que as ações do programa/projeto candidato a financiamento externo se propõem
+solucionar ou minorar e incluir a informação do IDH/IDHM (PNUD)
+
+Cachoeiro de Itapemirim é um município brasileiro do estado do Espírito Santo. Sua população é de 185.784 habitantes (IBGE 2022) e seu
+IDH é de 0,746 (PNUD/2010). Seu PIB é de R$ 4.966.598,98 mil (IBGE 2018). Principal centro econômico do sul do Espírito Santo,
+Cachoeiro de Itapemirim é o segundo pólo mais importante do estado. Possui uma das maiores jazidas de mármore do Brasil e é um
+centro internacional de rochas ornamentais, sendo o responsável pelo abastecimento de 80% do mercado brasileiro de mármore.
+
+Os Problemas que as ações do Programa se propõem a solucionar ou minorar, foram priorizados pela atual gestão da Prefeitura com base
+em Planos Gerais e Setoriais de Planejamento, que serão apresentados nesta Carta Consulta, no item de Orientações Estratégicas. As
+informações e dados que os caracterizem e os demonstrem são descritos a seguir:
+
+1 - SANEAMENTO BÁSICO - MACRODRENAGEM
+
+A cidade de Cachoeiro do Itapemirim tem investido em  sistemas de macrodrenagem. Mesmo assim, o Plano de Drenagem da Cidade,
+atualizado neste ano de 2023, ainda identifica a ocorrência de alagamentos sucessivos por falta de infraestrutura de macrodrenagem na
+SUB-BACIA GILBERTO MACHADO, que compreende o bairro Gilberto Machado e o Centro da cidade, onde se concentram os comércios,
+bancos, escritório, sendo o local de maior influência econômica e social da cidade. Neste local, podem ser observados danos
+significativos ao patrimônio público e privado. A falta de drenagem de águas pluviais, causam problemas ambientais e sociais com
+desencadeamento de processos erosivos, sedimentação de corpos d'água, destruição de calçadas, perda de residências e sérias
+ameaças ao meio ambiente. Esse Problema resulta também, na paralisação econômica na região, pois a dificuldade de acesso da
+população ao local é constantes devido as enchentes durante o período de maior chuva, que dura de três a quatro meses por ano.
+
+2 - MOBILIDADE E ACESSIBILIDADE URBANA
+
+As áreas de vulnerabilidade social são as que mais sofrem com crescimento desordenado e acelerado, onde muitas ruas ainda não
+possuem a infraestrutura básica. A obra nesses bairros fará com que os moradores tenham mais dignidade, melhorando a qualidade de
+vida, visto que a condição socioeconômica destas pessoas é precária. A pouca rede viária existente nesses locais está em péssimas
+condições com muitas rachaduras, fendas, afundamentos, buracos e revestimento desgastado. Nas áreas mais densamente povoadas,
+pode-se observar que as ruas carecem de drenagem superficial, especialmente as ligações estruturais, que devem atender às vias de
+transporte  coletivo. Existe a dificuldade também para o fornecimento de serviços básicos, como os acessos de ambulância, coleta de lixo,
+escolas e centros médicos. Há também calçadas inadequadas, falta de sinalização e ciclovias. A iluminação pública é praticamente
+inexistente. A sua implantação com tecnologia de baixo custo de manutenção são necessárias para se ter uma eficiência energética.
+
+3 - INFRAESTRUTURA SOCIAL E GERAÇÃO DE EMPREGO E RENDA
+
+O crescimento das áreas de Vulnerabilidade Social e a falta em ter pessoas Capacitadas e Qualificadas, são dois Problemas que foram
+identificados pela Prefeitura como prioritários. Os levantamentos feitos na área urbana e periférica do Município, mostra diversos locais
+com áreas ocupadas por casas e barracos de famílias de baixa renda. Segundo dados do IBGE (2020), existem 33.3% da população
+nessas condições, o que o coloca o Município na posição 3956 de 5570 dentre as cidades do Brasil. Estas áreas de Vulnerabilidade Social
+estão com a infraestrutura e equipamentos públicos degradados e em situação insegurança. Existe a necessidade de recuperar esses
+locais e fazer com que a população possa utilizá-los. Os custos para Prefeitura de manutenção desses locais é muito alto, principalmente
+pela situação de insegurança. A maior parte dos moradores não tem a posse e nem escritura de suas moradias. Outro ponto crítico
+detectado e que traz impacto para o desenvolvimento econômico do município, é a falta em ter pessoas capacitadas e qualificadas nestes
+locais de baixa renda. O município precisa promover e incentivar a criação de atividades de qualificação de mão de obra, voltado
+principalmente para formação profissional para jovens e minorias sociais, que são a maioria residentes nestes bairros.
+
+4 - MEIO AMBIENTE E RECURSOS HÍDRICOS
+
+Verifica-se um abandono crescente das Áreas Ambientais do Município, que tem grande importância na Preservação dos Recursos
+Hídricos e na conservação dos Mananciais do Município. Apesar da presença de um órgão ambiental atuante, existe a necessidade de
+recuperação de áreas e rios de importância ambiental. O Problema de degradação ambiental do Parque da Ilha da Luz e o Rio Itapemirim
+são os mais prioritários.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+Para apresentação das Soluções Propostas para os Problemas descritos no item de Diagnóstico, será feita de forma objetiva a correlação
+entre as soluções e os respectivos problemas, seguindo os seguintes tópicos: DESCRIÇÃO DA SOLUÇÃO PROPOSTA; RESULTADOS
+ESPERADO E SUSTENTABILIDADE.
+
+I. Saneamento Básico - Macrodrenagem
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+DESCRIÇÃO DA SOLUÇÃO PROPOSTA: Ampliar o sistema de macrodrenagem de águas pluviais na área central da cidade numa
+extensão total de 1,75 km.
+
+RESULTADOS ESPERADOS
+
+- Redução de enchentes em áreas de alto impacto econômico e social no município.
+
+- Reduzir os engarrafamentos durante a estação chuvosa.
+
+- Redução dos danos causados nas estruturas públicas e privadas.
+
+- Diminuição da reprodução de vetores de doenças transmitidas pela água.
+
+SUSTENTABILIDADE
+
+A manutenção dessas intervenções será financiada pela secretaria de Municipal de Obras. Os custos de manutenção da cidade com o
+sistema de macrodrenagem serão menores do que os custos com a continua reconstrução das ruas e calçadas desmontadas pelas
+
+enchentes e pela interrupção do funcionamento da maioria dos comércios, bancos, lojas, escritórios existentes na área central do
+Município.
+
+II. Mobilidade Urbana e Acessibilidade.
+
+DESCRIÇÃO DA SOLUÇÃO PROPOSTA
+
+A. Recuperação da infraestrutura viária existente em Locais de Vulnerabilidade Social, com as seguintes ações:
+
+- Terraplanagem, Pavimentação em CBUQ e Drenagem Superficial numa extensão de 40 km de vias, em Locais de Vulnerabilidade Social
+, com sinalização vertical e horizontal, recuperação de passeios incluindo elementos de acessibilidade, ciclo faixas e ciclovias, faixas
+exclusivas para o transporte público e iluminação pública em LED.
+
+- Implantação de Tecnologia Semafórica no Sistema Viário.
+
+RESULTADOS ESPERADOS
+
+A. Recuperação da infraestrutura viária existente em Locais de Vulnerabilidade Social:
+
+- Melhorar os serviços de transporte público na área;
+
+- Aumentar a segurança da população local.
+
+- Reduzir drasticamente as doenças respiratórias causadas pela poeira gerada em ruas não pavimentadas;
+
+- Melhor segurança para a população local de baixa renda;
+
+- Melhor mobilidade urbana e acessibilidade;
+
+- Trânsito mais seguro e dinâmico;
+
+- Maior dinamismo, velocidade e segurança entre a movimentação de veículos e pedestres;
+
+- Incentivar o uso de bicicletas;
+
+- Economia de energia com iluminação pública LED.
+
+B. Implantação de Sistema Semafórico Inteligente:
+
+- Diminuição dos conflitos nas vias de trânsito;
+
+- Redução de acidentes e mortes no trânsito;
+
+- Diminuição dos tempos semafóricos;
+
+- Aumento da segurança e do fluxo veicular;
+
+- Aumento da segurança dos usuários principalmente durante os horários noturnos.
+
+(cid:10)
+
+
+Página: 4
+
+SUSTENTABILIDADE
+
+A Secretaria Municipal de Obras é a responsável pela manutenção das vias públicas. A Secretaria tem uma dotação orçamentária atual
+suficiente para pagar por este tipo de serviço. O custo de manutenção da Prefeitura com toda a sua malha viária pavimentada será menor
+do que os custos associados à reconstrução em da base e subsolo das vias não pavimentadas. Os custos com  segurança e acidentes de
+trânsito também serão reduzidos com a implantação do sistema semafórico inteligente.
+
+III. Infraestrutura Social e Geração de Emprego e Renda
+
+DESCRIÇÃO DA SOLUÇÃO PROPOSTA
+
+A. Melhorias na Infraestrutura e Equipamentos sociais existentes em áreas de vulnerabilidade social
+
+- Requalificação de Equipamentos Sociais de Esporte.
+
+- Requalificação de Equipamentos Sociais de Lazer e Cultura.
+
+B. Capacitação para Empreendedores Individuais
+
+- Implementação de projetos de capacitação, seleção e apoio a empreendedores individuais incluindo mapeamento, identificação, registro
+e diagnóstico da população local.
+
+C. Equipamentos Públicos para Empreendimentos Individuais
+
+- Requalificação de Equipamentos Públicos
+
+D. Melhoria nos Processos de Prestação de Serviços Públicos da Prefeitura para População
+
+- Disponibilização de Internet em Espaços Públicos.
+
+- Atualização Tecnológica dos Sistema Digitais da Prefeitura.
+
+- Regularização Fundiária.
+
+RESULTADOS ESPERADOS
+
+- Criar opções de lazer, cultura e esporte para população de baixa renda;
+
+- Diminuição dos impactos socioambientais negativos nas áreas de vulnerabilidade social por meio da implantação de equipamentos
+públicos;
+
+- Geração de emprego e renda para a população de vulnerabilidade social do município;
+
+- Fortalecer o empreendedorismo e a geração de renda familiar para a população local de baixa renda, bem como ampliar a mão de obra
+qualificada;
+
+- Melhorar o acesso aos serviços públicos nos bairros mais carentes do município;
+
+- Melhorar o atendimento da população dos serviços prestados pela Prefeitura.
+
+SUSTENTABILIDADE
+
+A Secretaria Municipal de Obras é responsável pela manutenção da infraestrutura e dos equipamentos sociais. A Secretaria tem recursos
+suficientes para apoiar esse tipo de serviço. Com as melhorias na infraestrutura desses equipamentos, os custos de manutenção devem
+ser reduzidos, podendo também ser feitas parcerias com a comunidade local para preservação das instalações.  Na área de atendimento
+a população, a responsabilidade é da Secretaria de Cultura, Esporte, Lazer e Qualidade de Vida, e Cidadania, Trabalho e Direitos
+Humanos, que tem estrutura suficiente de pessoal. As questões relacionadas a prestação dos serviços públicos a população, a
+responsabilidade é da Secretaria Municipal de Fazenda. Os custos operacionais destes serviços serão reduzidos devido a implantação de
+tecnologias mais eficientes. A reponsabilidade pelos serviços para regularização fundiária é da Secretaria Municipal de Urbanismo,
+Desenvolvimento e Meio Ambiente, que tem estrutura adequada e com profissionais experientes para execução deste serviço.
+
+IV. Meio Ambiente e Recursos Hídricos
+
+DESCRIÇÃO DA SOLUÇÃO PROPOSTA
+
+A. Urbanização e Recuperação Ambiental do entorno do Manancial do Rio Itapemirim;
+
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+B. Melhorias na Infraestrutura do Parque da Ilha da Luz.
+
+RESULTADOS ESPERADOS
+
+- Ampliação das áreas de proteção ambiental, com a urbanização e recuperação ambiental do manancial do Rio Itapemirim;
+
+- Preservação ambiental com as melhorias no Parque da Ilha da Luz;
+
+- Conservação de solos e recursos hídricos nas áreas degradadas com a recuperação ambiental do manancial do Rio Itapemirim e
+melhorias no Parque da Ilha da Luz.
+
+SUSTENTABILIDADE
+
+As áreas públicas serão mantidas pela Secretaria Municipal de Obras, com recursos próprios. As ações relacionadas ao meio ambiente e
+recursos hídricos serão operadas e mantidas pela Secretaria Municipal de Urbanismo, Desenvolvimento e Meio Ambiente, dispondo de
+orçamento atual suficiente.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+I - Informação sobre o Programa que está inserido:
+
+(i) PPA 2022-2025 (as páginas do PPA que comprovem a sua inclusão estão na aba ANEXOS)
+
+O Programa tem seus projetos e intervenções contemplados no Plano Plurianual - PPA do Município (2022 - 2025) Lei Nº LEI Nº 7.906/
+2021, de 16 de dezembro de 2021 e está incluído na Lei Orçamentária Anual - LOA de 2023, Lei n° 8010/2022, de 30 de dezembro de
+2022.
+
+(ii) Relação dos planos setoriais relacionados ao Programa (os Planos Diretores estão na aba ANEXOS).
+
+As atividades do Programa são baseadas em leis governamentais locais e são referentes a cada área de Soluções Propostas,
+especialmente:
+
+- PLANO MUNICIPAL DE MOBILIDADE URBANA DE CACHOEIRO DE ITAPEMIRIM - PLANMOB-CACHOEIRO, LEI Nº 7776, DE 12 DE
+DEZEMBRO DE 2019, REGULAMENTADO PELO DECRETO Nº 29171/2020
+
+- PLANO DIRETOR MUNICIPAL - PDM - DE CACHOEIRO DE ITAPEMIRIM, INSTRUMENTO BÁSICO DA POLÍTICA DE
+DESENVOLVIMENTO TERRITORIAL DO MUNICÍPIO, NOS TERMOS DO CAPÍTULO III DA LEI 10.257/2001, ESTATUTO DA CIDADE,
+E ESTABELECE AS DIRETRIZES DA POLÍTICA DEDESENVOLVIMENTO TERRITORIAL MUNICIPAL. LEI Nº 7.915, DE 22 DE
+DEZEMBRO DE 2021.
+
+-  PLANO MUNICIPAL DE ÁGUA, ESGOTO E GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DO MUNICÍPIO DE CACHOEIRO DE
+ITAPEMIRIM - PMAE/PMGIRS. LEI Nº 7.973, DE 03 DE AGOSTO DE 2022.
+
+- PLANO MUNICIPAL DE DRENAGEM E MANEJO DE ÁGUAS PLUVIAIS URBANAS (PMD) DE CACHOEIRO DE ITAPEMIRIM. O Plano
+Municipal de Drenagem e Manejo de Águas Pluviais Urbanas (PMD), um dos eixos do Plano Municipal de Saneamento Básico, é um
+instrumento exigido pela Lei Federal nº 11.445/2007, que instituiu a Política Nacional de Saneamento Básico, e que, por sua vez, foi
+atualizada pela Lei Federal nº 14.026/2020 relativa ao novo Marco Legal do Saneamento Básico. Sua implementação possibilitará planejar
+as ações em saneamento básico do município de Cachoeiro de Itapemirim, com vistas à integralização e universalização do atendimento
+de seus serviços.
+
+II.CONTRAPARTIDA
+
+O município de Cachoeiro de Itapemirim/ES declara que usará como contrapartida as receitas tributárias previstas nos artigos 155, 157 e
+159, inciso I, (a), da Constituição Federal e terrenos que estão vinculados à execução do Programa. Tudo nos termos da Resolução N. 3
+da COFIEX, de 29 de maio de 2019.
+
+III.TAXA DE CÂMBIO
+
+Na elaboração desta Carta Consulta utilizou-se a taxa de câmbio de venda do Banco Central do Brasil de Us$ 4,7803 do dia 19/06/2023.
+
+IV.CUSTOS DAS AÇÕES DO PROGRAMA
+
+Os custos das ações do programa são determinados pelas atividades de cada intervenção. foi utilizado tabelas de valores do SINAPI/CEF,
+DNIT e Secretaria Municipal de Obras do Município. Assim foi determinado os custos das obras, consultorias, bens e insumos que fazem
+do Programa. Os valores referentes aos custos financeiros para a operação de crédito externo foram definidos pela CAF.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 6
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa de Desenvolvimento Sustentável e de Inclusão Social do Município de Cachoeiro de Itapemirim
+
+
+### 2.2. Título Abreviado
+
+PRODESUS
+
+
+### 2.3. Mutuário
+
+
+Município de Cachoeiro de Itapemirim - ES
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+(i) Objetivo Geral: Deverá refletir os resultados que se deseja alcançar com as ações do Programa
+
+O Programa visa viabilizar o desenvolvimento sustentável e a inclusão social no município de Cachoeiro de Itapemirim, por meio da
+melhoria da infraestrutura urbana, social e ambiental, com melhorias na macrodrenagem e na mobilidade e acessibilidade urbana,
+estabelecendo a implantação de infraestrutura e equipamentos sociais em áreas de vulnerabilidade social, geração de emprego e renda
+para populações vulneráveis e melhoria nos processos de prestação de serviços públicos para população, possibilitando melhor qualidade
+de vida para a população e preservação do meio ambiente e dos recursos hídricos na área do município.
+
+(ii) Objetivos Específicos: Refletem as principais atividades a serem implementadas no âmbito do Programa, e são correlacionados com os
+resultados esperados. São a base para definição dos indicadores constantes do item 2.6, que são definidos com base no método SMART:
+Específico, Mensurável, Alcançável, Relevante e Temporal.
+
+I. Saneamento Básico - Macrodrenagem
+
+- Reduzir as enchentes em áreas de alto impacto econômico e social no município e os danos causados por inundações em áreas
+públicas e privadas.
+
+- Diminuir a reprodução de vetores de doenças transmitidas pela água.
+
+II. Mobilidade Urbana e Acessibilidade.
+
+- Melhorar os serviços de transporte público na área;
+
+- Melhorar a  segurança viária para a população local de baixa renda;
+
+- Diminuir o tempo de deslocamentos no trânsito;
+
+- Maior dinamismo, velocidade e segurança entre a movimentação de veículos e pedestres;
+
+- Incentivar o uso de ciclovias e ciclo faixas;
+
+- Reduzir o gasto de energia com iluminação pública LED.
+
+- Diminuição dos conflitos nas vias de trânsito;
+
+- Redução de acidentes e mortes no trânsito;
+
+- Diminuição dos tempos semafóricos.
+
+III. Infraestrutura Social e Geração de Emprego e Renda
+
+RESULTADOS ESPERADOS
+
+- Criar opções de lazer, cultura e esporte para população de baixa renda;
+
+- Diminuir os impactos socioambientais negativos nas áreas de vulnerabilidade social;
+
+- Gerar emprego e renda para a população de vulnerabilidade social do município e as minorias sociais;
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 7
+
+- Fortalecer o empreendedorismo e a geração de renda familiar para a população local de baixa renda, bem como ampliar a mão de obra
+qualificada;
+
+- Requalificar os equipamentos públicos de esporte, lazer e cultura nos bairros mais carentes do município;
+
+- Melhorar o atendimento da população dos serviços prestados pela Prefeitura.
+
+IV. Meio Ambiente e Recursos Hídricos
+
+RESULTADOS ESPERADOS
+
+- Ampliar as áreas de proteção ambiental na área do Município;
+
+- Recuperar áreas degradadas ambientalmente;
+
+- Conservar solos e os recursos hídricos do Município.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Descrição
+Custos Públicos com os danos causados com as
+inundações no Centro da Cidade
+
+Tempo médio de deslocamento da população no
+trânsito
+
+Percentual (%)
+
+Fórmula de Cálculo Unidade de Medida
+Custos Públicos com
+os Danos Causados
+em cada ano do
+programa, dividido
+pelo Custos Públicos
+com os Danos
+Causados no primeiro
+ano do Programa,
+multiplicado por 100
+Medição de tempo
+semafórica entre
+viagens
+
+minutos
+
+
+Página: 8
+
+Meta
+30,00
+
+Linha de Base
+100,00
+
+15,00
+
+10,00
+
+Número de usuários das ciclovias ou ciclofaixas Número Anual de
+
+Unidade
+
+0,00
+
+2.000,00
+
+Usuário de Bicicletas
+nas ciclovias do
+Programa no Ano 1 -
+Número Anual de
+Usuário de Bicicletas
+nas ciclovias do
+Programa no Ano
+5grama
+Números Anual de
+micro e pequenos
+empreendedores
+capacitados no ano 1
+do Programa -
+Número Anual de
+micro e pequenos
+empreendedores
+capacitados no Ano 5
+do Programa
+Tempo de
+atendimento da
+população a cada Ano
+do Programa
+Registros de
+acidentes no órgão de
+trânsito
+Área total de
+preservação
+ambiental e
+conservação de solos
+e mananciais
+implantadas, dividido
+pela área total do
+município, vezes 100
+Número de usuários
+dos equipamentos
+sociais, dividido pela
+população total nas
+áreas de
+vulnerabilidade social
+do Programa,
+multiplicado por 100
+
+Número de micro e pequenos empreendedores
+capacitados
+
+Tempo de atendimento da população dos
+serviços prestados pela Prefeitura
+
+Redução do número de acidentes envolvendo
+veículos
+
+Área de preservação ambiental e conservação
+de solos e mananciais
+
+Número de usuários dos equipamentos sociais
+nas áreas de vulnerabilidade social do Programa
+
+
+### 2.7. Projeto/Componentes
+
+
+Unidade
+
+0,00
+
+1.500,00
+
+minutos
+
+20,00
+
+10,00
+
+Quantidade/Ano
+
+150,00
+
+Percentual (%)
+
+10,00
+
+80,00
+
+15,00
+
+Percentual (%)
+
+15,00
+
+70,00
+
+
+Componentes
+C - INFRAESTRUTURA URBANA, SOCIOAMBIENTAL E DE INCLUSÃO SOCIAL
+S - SANEAMENTO: MACRODRENAGEM
+P - Macrodrenagem da Sub-Bacia do Gilberto Machado
+S - MOBILIDADE E ACESSIBILIDADE URBANA
+P - Requalificação da Infraestrutura Viária Existente em Locais de Vulnerabilidade Social
+P - Implantação de um Sistema Semafórico Inteligente
+S - INFRAESTRUTURA SOCIAL E GERAÇÃO DE EMPREGO DE RENDA
+P - Melhorias na Infraestrutura e nos Equipamentos Sociais nas Áreas de Vulnerabilidade Social
+P - Capacitação para Empreendedores Individuais
+P - Espaços Comerciais para Empreendedores Individuais
+P - Melhoria nos Processos de Prestação de Serviços Públicos da Prefeitura para População
+P - Terrenos dos Equipamentos Sociais
+S - MEIO AMBIENTE E RECURSOS HÍDRICOS
+P - Recuperação Ambiental do Parque da Ilha da Luz
+P - Urbanização e Recuperação Ambiental do Rio Itapemirim
+C - GESTÃO DO PROGRAMA
+P - Gerenciamento e Supervisão das Obras
+P - Elaboração de Estudos Técnicos e Projetos Executivos de Engenharia
+P - Auditoria Externa
+C - GASTOS FINANCEIROS
+P - Comissão de Financiamento
+P - Gastos de Avaliação
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 9
+
+Valor(US$)
+56.225.000,00
+3.600.000,00
+3.600.000,00
+18.900.000,00
+16.400.000,00
+2.500.000,00
+30.025.000,00
+19.300.000,00
+125.000,00
+1.500.000,00
+3.800.000,00
+5.300.000,00
+3.700.000,00
+2.300.000,00
+1.400.000,00
+5.800.000,00
+3.000.000,00
+2.600.000,00
+200.000,00
+475.000,00
+425.000,00
+50.000,00
+62.500.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - INFRAESTRUTURA URBANA, SOCIOAMBIENTAL E DE INCLUSÃO SOCIAL
+Este componente tem um custo total de US$ 56.225.000,00, sendo US$ 44.225.000,00 referentes ao valor a ser financiado pela
+CAF e US$ 12.000.000,00 referentes à contrapartida do município.
+
+Compõe este item os seguintes Subcomponentes:
+- SUBCOMPONENTE - SANEAMENTO: MACRODRENAGEM
+- SUBCOMPONENTE - MOBILIDADE E ACESSIBILIDADE URBANA
+- SUBCOMPONENTE - INFRAESTRUTURA SOCIAL E GERAÇÃO DE EMPREGO DE RENDA
+- SUBCOMPONENTE - MEIO AMBIENTE E RECURSOS HÍDRICOS
+
+Para executar o trabalho incluído nos quatro subcomponentes listados acima, haverá interferência nos serviços de  saneamento
+público e privado, nos serviços de  telefonia e comunicações. Para solucionar os problemas que dificultavam o andamento  do
+Programa, serão pesquisados os cadastros da rede dessas concessionárias, para serem planejadas a execução das intervenções
+e planos de remanejamento. Previamente à execução dos trabalhos será elaborado um projeto específico para a remoção de cada
+tipo de interferência, que será executado antes do início de cada obra. Durante a execução, será formada uma equipe de
+acompanhamento, com representantes de cada concessionária, e eventual necessidade de reparo e ajuste ou mesmo
+remanejamento de intervenções não contempladas no cadastro, será executada concomitantemente à execução das obras do
+Programa
+
+S - SANEAMENTO: MACRODRENAGEM
+Este subcomponente tem um único Produto: Macrodrenagem da Sub-Bacia do Gilberto Machado. Ele tem um custo total de US$ 3.
+600.000,00, sendo o valor financiado pela CAF de US$ 3.100.000,00 sendo a contrapartida da Prefeitura de US$ 500.000,00
+
+Os Projetos de Macrodrenagem não envolvem Remoção de Famílias. Os Impactos Negativos para os moradores serão os que
+ocorrem durante a execução das Obras:
+- Geração de Resíduos Sólidos;
+- Geração de Ruído;
+- Impacto no Trânsito Local;
+- Lançamento de Poeiras e Particulados.
+
+P - Macrodrenagem da Sub-Bacia do Gilberto Machado
+O conjunto de intervenções que compõem este projeto visam minorar os problemas causados pela baixa cobertura da atual rede
+de drenagem. O mapeamento das áreas prioritárias já foi feito pela Prefeitura, com base em critérios como: frequência, gravidade e
+população atingida pelos episódios de inundações.
+
+A escolha pela SUB-BACIA DO GILBERTO MACHADO se deve pela área ocupada por ela ocupada, que abrangem além do bairro
+Gilberto Machado e o Centro, mas também, indiretamente abrangem todos os bairros ao redor, visto que é uma região central,
+onde existem a maioria dos comércios, bancos, lojas, escritórios do Município, sendo local de muita influência econômica e social.
+
+
+Página: 10
+
+Atualmente a região sofre com alagamentos em períodos chuvosos - locais sem drenagem. Como solução do problema, foi
+elaborado estudo e projeto básico para drenagem, pavimentação e urbanização do local, tendo como diretriz uma solução de fácil
+manutenção para o Poder Público.
+
+As etapas da obra se dividem em: escavação, instalação provisória, construção da rede coletora, galerias, bueiro, caixa de
+passagem, caixa de malha e bueiro, finalizando com pavimentação e urbanização da área de implantação. A rede de
+macrodrenagem total a construir é de 1,73 km incluindo estrutura e laje de concreto armado e construção de caixas de visita para
+captação de águas pluviais. A partir desta obra, as águas pluviais serão direcionadas para galerias existentes da rede de
+macrodrenagem. Para execução destas obras de macrodrenagem não será necessário fazer desapropriação de terrenos.
+
+Através dessa intervenção, a Prefeitura busca atingir as seguintes metas definidas no item 2.5 - Objetivos Específicos do Programa
+:
+- Reduzir as enchentes em áreas de alto impacto econômico e social no município e os danos causados por inundações em áreas
+públicas e privadas.
+- Diminuir a reprodução de vetores de doenças transmitidas pela água.
+
+S - MOBILIDADE E ACESSIBILIDADE URBANA
+Este subcomponente tem dois Projetos: Requalificação da Infraestrutura Viária Existente em Locais de Vulnerabilidade Social e a
+Implantação Sistema Semafórico Inteligente. Tem um custo total de US$ 18.900.000,00, sendo US$ 16.000.000,00 referentes ao
+valor a ser financiado pela CAF e US$ 2.900.000,00 de contrapartida local.
+
+P - Requalificação da Infraestrutura Viária Existente em Locais de Vulnerabilidade Social
+Neste Produto serão feitas as intervenções de Requalificação da Infraestrutura viária existente em bairros que apresentem uma
+população vulnerável, incluindo a implantação de infraestruturas clicáveis, faixas exclusivas para transporte coletivo, obras de arte
+especiais e iluminação em LED.
+
+As áreas de vulnerabilidade social são as que mais sofrem com crescimento desordenado e acelerado, onde muitas ruas ainda não
+possuem a infraestrutura básica. A obra nesses bairros fará com que os moradores tenham mais dignidade, melhorando a
+qualidade de vida, visto que a condição socioeconômica destas pessoas é precária.
+
+Para melhorar a mobilidade e acessibilidade urbana, serão realizadas obras de pavimentação, implantação de elementos de
+acesso universal, ampliação da arborização, melhoria tecnológica da iluminação pública, disposição adequada dos passeios,
+inclusão de dispositivos de acessibilidade, sinalização e drenagem superficial de águas pluviais.
+
+As ações prioritária identificadas pelo Plano Municipal de Mobilidade Urbana visam amenizar os problemas de mobilidade de curta
+duração através da reabilitação das vias  locais bairros, com o objetivo de melhorar os acessos locais e as ligações às principais
+vias, com ênfase na promoção do transporte não motorizado, transportes públicos e segurança viária.
+
+Serão pavimentadas e requalificadas ruas e passeios, com sinalização horizontal e vertical, mobiliário urbano, acessibilidade dos
+passeios, arborização, iluminação pública, totalizando uma extensão de 40,0 km nos bairros de baixa renda  do
+município. Será também requalificada a Avenida Beira, que é uma avenida que é primordial para o fluxo de veículos, como via
+estruturante da mobilidade urbana. Nela será executado também a recuperação da urbanização, que visa proteger o Rio
+Itapemirim contra a erosão de suas margens, atendendo também a uma demanda dos moradores que usam a Beira Rio,  como
+opção de lazer. Serão instalados pontos de ônibus e faixas exclusivas para o transporte coletivo, dentro das normas de
+acessibilidade, possibilitando maior conforto aos usuários.
+
+Como obras de arte especiais definidas como prioritárias para a mobilidade urbana nestes bairros de baixa renda, serão
+executados as seguintes intervenções:
+- Retorno do Cemitério Park, atendendo diretamente os bairros IBC, Jardim Itapemirim, Jardim América, Monte Cristo e São Lucas.
+
+- Viaduto do bairro Caiçara, obra que atenderá a mobilidade urbana dos bairros à leste do Município;
+- Ponte sobre o Córrego Monte Líbano, no bairro Coronel Borges que atenderá a mobilidade urbana do bairro, bem como o acesso,
+aos bairros do entorno, trazendo mais fluidez no tráfego e segurança dos munícipes.
+- Muro de Contenção na AV. Newton Braga, no bairro Arariguaba, que se faz necessária devido a grande erosão que afetou o local
+, causando estragos, e trazendo risco a segurança da população local.
+
+Essas melhorias garantirão maior segurança viária e oferecerão melhores condições de deslocamentos para pessoas e veículos.
+São cerca de 45.200 pessoas beneficiadas diretamente. Isso representa cerca de 25% da população do Município.
+
+As intervenções de Requalificação da Infraestrutura Viária ocorreram nos seguintes bairros com população vulnerável:
+- RUBEM BRAGA
+- VILLAGE DA LUZ
+- BELA VISTA
+- ALTO UNIÃO
+- IBC
+- JARDIM ITAPEMIRIM
+- JARDIM AMÉRICA
+
+
+Página: 11
+
+- MONTE CRIST0
+- SÃO LUCAS
+- CAIÇARA
+- CORONEL BORGES
+- ARARIGUABA
+- ÁLVARO TAVARES
+- MONTE BELO
+- ALTO INDEPENDÊNCIA
+- FÉ E RAÇA
+- TEIXEIRA LEITE
+- ELPIDIO VOLPINI
+- ZUMBI
+- CAMPO LEOPOLDINA
+- BOA ESPERANÇA
+- AEROPORTO
+- RUI PINTO BANDEIRA
+- DISTRITOS
+
+Através dessa intervenção, a Prefeitura busca atingir as seguintes metas definidas no item 2.5 - Objetivos Específicos do Programa
+:
+- Melhorar os serviços de transporte público na área;
+- Melhorar a  segurança viária para a população local de baixa renda;
+- Diminuir o tempo de deslocamentos no trânsito;
+- Maior dinamismo, velocidade e segurança entre a movimentação de veículos e pedestres;
+- Incentivar o uso de ciclovias e ciclo faixas;
+- Reduzir o gasto de energia com iluminação pública LED.
+- Diminuição dos conflitos nas vias de trânsito;
+- Redução de acidentes e mortes no trânsito.
+
+P - Implantação de um Sistema Semafórico Inteligente
+Neste Produto será feita a implantação de um Sistema Semafórico Inteligente. O projeto semafórico é uma ferramenta através da
+qual são definidos a disposição, detalhes técnicos e quantitativos dos elementos semafóricos no sistema viário, em geral, de vias
+urbanas. Dentre outras coisas, o projeto semafórico contempla o diagrama de conflitos e a descrição dos tempos semafóricos,
+mensurados através de softwares, e através do projeto semafórico que é possível determinar a quais dispositivos serão usados,
+bem como a quantidade desses dispositivos, a sua forma de implementação e seus detalhes de funcionamento.
+
+Os semáforos inteligentes são um sistema de controle de tráfego de veículos que combina semáforos tradicionais com uma
+variedade de sensores e inteligência artificial para direcionar de forma inteligente o tráfego de veículos e pedestres. Os sistemas de
+semáforos inteligentes podem coletar mais dados e ajustar os sinais em tempo real. O sistema de controle pode registrar
+informações de trânsito com o uso de detectores e câmeras. Com essas informações, o sistema pode ajustar as luzes de acordo
+para melhorar o fluxo de tráfego, ajustar a duração do ciclo de sinais e mover um número maior de veículos em menos tempo.
+
+Benefícios dos semáforos inteligentes:
+- Mais rapidez e menos paradas
+- Controle de situações imprevistas. Os semáforos inteligentes ajudam a dominar o caos que geralmente ocorre em circunstâncias
+imprevistas (como acidentes de trânsito ou eventos especiais).
+- Redução de custos e benefícios para o meio ambiente. Reduzir o tempo dos motoristas no dia a dia com semáforos inteligentes
+reduzindo congestionamentos e atrasos.
+- Redução da poluição dos veículos
+Leve a tecnologia de semáforos inteligentes para a sua cidade!
+- Controle de Mobilidade Urbana: facilita o trânsito, gera dados para planos de ação e auxilia agentes de trânsito
+
+Através dessa intervenção, a Prefeitura busca atingir as seguintes metas definidas no item 2.5 - Objetivos Específicos do Programa
+:
+- Diminuição dos conflitos nas vias de trânsito;
+- Redução de acidentes e mortes no trânsito;
+- Diminuição dos tempos semafóricos.
+
+S - INFRAESTRUTURA SOCIAL E GERAÇÃO DE EMPREGO DE RENDA
+Este subcomponente tem quatro Produtos: Implantação de Infraestrutura e Equipamentos Sociais em Áreas de Vulnerabilidade
+Social; Geração de Emprego e Renda para Populações Vulneráveis; Melhoria nos Processos de Prestação de Serviços Públicos
+da Prefeitura para População; e Terrenos dos Equipamentos Sociais.
+
+Tem um custo total de US$ 30.025.000,00, sendo US$ 21.925.000,00 referentes ao valor a ser financiado pela CAF e US$ 8.100.
+000,00 de contrapartida local.
+
+
+Página: 12
+
+P - Melhorias na Infraestrutura e nos Equipamentos Sociais nas Áreas de Vulnerabilidade Social
+Neste Produto serão feitas as intervenções de Melhorias na Infraestrutura e nos Equipamentos Sociais existentes nas Áreas de
+Vulnerabilidade Social de bairros que apresentam uma população de baixa renda, com prioridade para os espaços de cuja
+finalidade social envolve as temáticas de esporte, lazer e cultura.
+
+O diagnóstico do Plano Diretor Municipal identificou a necessidade de fazer diversas melhorias nos equipamentos sociais de
+diversos bairros, priorizando os locais de maior vulnerabilidade social. As áreas socialmente desfavorecidas são as que mais
+sofrem com o crescimento desordenado e acelerado, onde muitos equipamentos públicos existentes estão degradados e  carecem
+de infraestrutura básica. Fazer intervenções nesses  locais vai melhorar a qualidade de vida dos moradores, que tem as condições
+socioeconômicas extremamente precárias.
+
+Além dessas intervenções foram identificados equipamentos sociais, também localizados em bairros de baixa renda, mas que tem
+valor histórico e são pelo seu uso, locais de atração de turismo e de prestação de serviços de comércio no entorno do local de sua
+implantação.
+
+Para as melhorias na Infraestrutura e nos Equipamentos Sociais serão executados serviços de terraplenagem, redes de água e
+esgotos, soluções com o uso de energia fotovoltaica e reuso de águas, rede elétrica, pavimentação e drenagem superficial,
+iluminação pública em LED, paisagismo e a instalação de Prédio Público para garantir a administração e segurança do local. O
+Terreno para implantação de todos os Equipamentos Sociais tem uma área total de 50 mil metros quadrados e são de propriedade
+da Prefeitura
+
+A infraestrutura e os Equipamentos Públicos prioritárias abaixo listadas já tem estudos ambientais, de engenharia, e projeto básico
+finalizado, sendo assim distribuídos:
+
+- CENTRO ESPORTIVO ARENA ITABIRA e ESTAÇÃO TRANSFORMA:  A requalificação do Centro Esportivo Arena Itabira tem
+intenção de criar um local para abranger a prática esportiva, contendo várias modalidades. Localizada em um bairro de baixa renda
+, a Arena Itabira terá caráter de desenvolvimento esportivo e de lazer, aumentando a prática do esporte no município, e busca
+trazer para o local grandes campeonatos estaduais e até nacionais. A Estação Transforma será um equipamento social
+diretamente ligado à Arena Itabira, pois sua localização é anexa, possibilitando atividades de inclusão social, fortalecendo a
+cidadania dos moradores de uma das áreas mais carentes da cidade, em especial crianças e jovens em vulnerabilidade social.
+
+- CAMPÃO DA VILA RICA: O equipamento social  de caráter esportivo Campo de Futebol da Vila Rica encontra-se em local muito
+degradado com uma população vulnerável. A estrutura existente tem condições de atender uma demanda formada por pessoas de
+todas as idades. Devido ao tempo de construção e do uso, encontra-se necessitado de reformas gerais, parte elétrica e
+hidrossanitário, bem como inclusão de acessibilidade. É uma obra que beneficia diretamente os moradores dos bairros de baixa
+renda: Vila Rica, Teixeira Leite, Maria Ortiz e Ilha da Luz.
+
+- EQUIPAMENTOS DE LAZER E CULTURA NOS BAIRROS CEL BORGES, SÃO VICENTE, MONTE ALEGRE e BELA VISTA:
+Localizados em locais com maior vulnerabilidade social do Município, a requalificação da infraestrutura destes Equipamentos
+Sociais existentes tem como finalidade estabelecer políticas integradas de combate à criminalidade, através da prevenção. O foco
+está na promoção do lazer e da cultura com a presença do Poder Público Municipal no Local. O fortalecimento da cidadania de
+moradores de regiões mais carentes da cidade, com uma população de baixa renda e vulneráveis, será feito com a
+disponibilização nestes locais de áreas de convivência e integração, dotados de bibliotecas, atividades recreativas, e de acesso a
+práticas esportivas. O Equipamento Social no bairro CEL BORGES irá diretamente beneficiar além do próprio bairro, os bairros do
+Alto Independência, Independência e o São Luiz Gonzaga. Já o Equipamento Social localizado no bairro SÃO VICENTE irá
+beneficiar diretamente somente o próprio local. Assim como o Equipamento Social no bairro MONTE ALEGRE, que também irá
+beneficiar diretamente própria comunidade. Por fim, o Equipamento Social no bairro BELA VISTA irá beneficiar diretamente o
+próprio bairro, além dos bairros Baiminas, Amaral, Alto Amarelo, Arariguaba e Presidente Arthus da Costa e Silva, todos locais
+ocupados por população de baixa renda e vulneráveis.
+
+- PRAÇA DE FATIMA: A revitalização da Praça de Fátima é uma obra de importância histórica do Município, e que já foi ponto de
+local de eventos turísticos e sociais. Localizada na Avenida Beira Rio, tem área de 11.924,46m², mas devido ao tempo e
+deteriorações pela inundação do ano de 2020, necessita de recuperação das edificações, melhoria no sistema de drenagem,
+pavimentação com inclusão de passeios acessíveis, construção de mais banheiros e de urbanização. Localizada no Centro da
+Cidade, é um local que beneficia toda a população e tem potencial de gerar desenvolvimento do turismo no Município. A intenção é
+proporcionar maior conforto e segurança, tendo mais um aparelho público de qualidade para lazer. Já foi realizado estudo
+ambiental, de engenharia, e o projeto básico está pronto, tendo cronograma de execução de 12 meses.
+
+- PRAÇA JERONIMO MONTEIRO: A revitalização da Praça Jerônimo Monteiro é outra obra, assim como a Praça de Fátima que
+retoma à história do Município. Também localizada no Centro do Município, nela encontra-se o Palácio Bernardino Monteiro, que já
+está recebendo revitalização e sendo totalmente restaurado. A obra da praça engloba melhoria na drenagem, pavimentação,
+passeios acessíveis, urbanização geral de sua área de 8.991,78m². Já foi realizado estudo ambiental, de engenharia, e o projeto
+básico está pronto, tendo cronograma de execução de 12 meses.
+
+
+Página: 13
+
+- PARQUE DE EXPOSIÇÃO: O Parque de Exposições Municipal é o local referência para eventos de caráter público no Município.
+A revitalização do parque é fundamental para tornar o local seguro, com espaço para toda a população do Município. Nele está
+instalado o Centro de Eventos, uma estrutura nova e que atende à demanda de turismo de eventos que o Município recebe. A
+revitalização da área verde e do urbanismo deste Equipamento Social é fundamental para tornar o local agradável, com espaço
+para comunidade, e para eventos gerais. O Equipamento beneficia toda a população do Município.
+
+Através dessa intervenção, a Prefeitura busca atingir as seguintes metas definidas no item 2.5 - Objetivos Específicos do Programa
+:
+- Criar opções de lazer, cultura e esporte para população de baixa renda;
+- Diminuir os impactos socioambientais negativos nas áreas de vulnerabilidade social.
+
+P - Capacitação para Empreendedores Individuais
+O município de Cachoeiro de Itapemirim, através da Secretaria de Cidadania, Trabalho e Direitos Humanos, vem buscando
+parcerias para oferecer cursos de qualificação profissional no meio urbano e rural, para atender população cachoeirense, sendo de
+suma importância para o município pois tem como objetivo combater o desemprego, elevar o potencial do trabalhador,
+promovendo cidadania e geração de renda.
+
+Neste item do Programa o município irá identificar e diagnosticar os empreendedores individuais e procurará assegurar a formação
+e qualificação destas pessoas com base nos dados que serão indicados no diagnóstico de forma a oferecer cursos e consultorias.
+Esse projeto de capacitação e treinamento será voltado a população de baixa renda e vulneráveis, serão priorizadas a inclusão dos
+grupos minoritário, quais sejam: idosos, pessoas com deficiência, LGBTQIA+, mulheres vítimas de violência domésticas, pessoas
+com preconceito de cor, indígenas e pessoas de baixa renda, que serão atendidos com cursos e aulas tecnológicos, assessoria
+técnica.
+
+O recurso destinado a qualificação profissional será usado para qualificar a mão de obra do trabalhador cachoeirense. Vale
+ressaltar que somos cidade referência em mármore e granito no país e no mundo e, muitas das vagas ofertas no município é
+destinado ao setor de rochas, que carece de mão de obra qualificada,
+Com a qualificação profissional podemos ofertar a cidade trabalhadores capacitados, e ainda, fomentar a geração de empregos e
+até mesmo incentivar os formandos dos cursos a se tornarem um empreendedor, artesão, trabalhador manual, abrindo sua própria
+empresa, gerando sua renda e empregando mais e mais pessoas.
+
+Tendo em conta as suas necessidades. Este produto está sendo elaborado em cinco fases.
+- Fase 01: Mapeamento, identificação e cadastro de cerca de 1500 pessoas nas localidades de baixa renda.
+- Fase 02: Diagnóstico pormenorizado dos empreendimentos individuais necessários no município.
+- Fase 03: A partir do diagnóstico é elaborado um plano de capacitação e apoio para formação dos empreendedores individuais.
+- Fase 04: Execução dos planos de capacitação e apoio para formação dos empreendedores individuai.
+- Fase 5: Apoio na identificação e locais de trabalho.
+
+Através dessa intervenção, a Prefeitura busca atingir as seguintes metas definidas no item 2.5 - Objetivos Específicos do Programa
+:
+- Gerar emprego e renda para a população de vulnerabilidade social do município e as minorias sociais;
+- Fortalecer o empreendedorismo e a geração de renda familiar para a população local de baixa renda, bem como ampliar a mão
+de obra qualificada.
+
+P - Espaços Comerciais para Empreendedores Individuais
+Neste Produto serão feitas as intervenções de Espaços Comerciais para Empreendedores Individuais.
+
+O diagnóstico do Plano Diretor Municipal identificou a necessidade de fazer diversas melhorias nos equipamentos sociais de
+diversos bairros, priorizando os locais de maior vulnerabilidade social. As áreas socialmente desfavorecidas são as que mais
+sofrem com o crescimento desordenado e acelerado, onde muitos equipamentos públicos existentes estão degradados e  carecem
+de infraestrutura básica. Fazer intervenções nesses  locais vai melhorar a qualidade de vida dos moradores, que tem as condições
+socioeconômicas extremamente precárias.
+
+Além dessas intervenções foram identificados equipamentos sociais, também localizados em bairros de baixa renda, mas que tem
+valor histórico e são pelo seu uso, locais de atração de turismo e de prestação de serviços de comércio no entorno do local de sua
+implantação.
+
+Para as melhorias na Infraestrutura e nos Equipamentos Sociais serão executados serviços de terraplenagem, redes de água e
+esgotos, soluções com o uso de energia fotovoltaica e reuso de águas, rede elétrica, pavimentação e drenagem superficial,
+iluminação pública em LED, paisagismo e a instalação de Prédio Público para garantir a administração e segurança do local. O
+Terreno para implantação de todos os Equipamentos Sociais tem uma área total de 50 mil metros quadrados e são de propriedade
+da Prefeitura
+
+
+Página: 14
+
+COMERCIO RUA LATERAL A ACISCI - MERCADO QUINCAS LEÃO: O projeto se refere à reforma do Mercado Quincas Leão, um
+Mercado de 405,87m² que é de extrema importância ao município, remetendo à história e tradição entre os comerciantes,
+principalmente aos agricultores familiares. Esta obra visa trazer condições melhores ao local, estruturando com drenagem,
+pavimentação, urbanização, criando bancas de feiras padronizadas, contando com pontos elétricos e hidráulicos. O comércio
+atualmente é em sua maioria de gêneros alimentícios, principalmente verduras, frutas e legumes, além de artesanatos e outros
+produtos. No local hoje trabalham cerca de 130 comerciantes, contando com 390 empregos diretos e 1170 pessoas beneficiadas
+diretamente por estas vendas, além de beneficiar indiretamente todos os munícipes. Com as reforma e a ambientação destes
+espaços, serão geradas novas lojas, espaços para comercialização, onde os editais de concessão dos mesmos para sua utilização
+comercial serão voltados de forma proporcional a população de vulnerabilidade e para as minorias.
+
+REFORMA MERCADO DO AMARELO: Se refere à reforma do Mercado do bairro Amarelo, na Rua João Valdino, local com 1.058,
+42m² que era usado para  comercialização de gêneros alimentícios, principalmente verduras, frutas e legumes, além de
+artesanatos e outros produtos, mas que devido as más condições do local e extrema necessidade de reforma, encontra-se em
+desuso. A reforma será de grande importância, melhorando condições da estrutura da edificação, parte elétrica, estrutural, etc, de
+forma atender melhor os comerciantes e público consumidor. A área do mercado possibilita o trabalho de cerca de 220
+comerciantes, contando com  hoje trabalham cerca de 130 comerciantes, contando com 660 empregos diretos e 1980 pessoas
+beneficiadas diretamente por estas vendas, além de beneficiar indiretamente todos os munícipes. Com as reforma e a ambientação
+destes espaços, serão geradas novas lojas, espaços para comercialização, onde os editais de concessão dos mesmos para sua
+utilização comercial serão voltados de forma proporcional a população de vulnerabilidade e para as minorias.
+
+P - Melhoria nos Processos de Prestação de Serviços Públicos da Prefeitura para População
+Este Produto objetiva melhorar as competências locais para planejar e gerir a gestão municipal, implantar os mecanismos
+necessários para a coordenação interinstitucional no setor público, consolidar as instâncias dos municípios e apoiar a gestão
+integral da Prefeitura, objetivando alcançar um desenvolvimento ordenado e em consenso ampliando a eficiência, a eficácia e a
+prestação dos serviços públicos para a população.
+
+Para atingir os resultados acima mencionados é necessário a implementação de dois Sistemas Digitais:
+- Atualização Tecnológica dos Sistema Digitais de Gestão da Prefeitura: planejamento e transparência, com o Fortalecimento
+Institucional e Transformação Digital (instalação de firewall de segurança e servidores datacenter) ajudarão no melhor controle,
+planejamento e acesso a informação entre os setores da Prefeitura e consequentemente a melhoria na prestação dos serviços
+públicos pata População.
+
+- Sistema de WI FI PUBLICO, que para conclusão, é necessário a implantação em dois equipamentos: Hotspot e Firewwal de
+maneiras Interligadas: Hotspot: Importante e gratificante para a população brasileira o acesso gratuito à internet através de redes
+Wi-fi, tanto para a promoção da inclusão digital, como para a comodidade e a interatividade no entretenimento, além de amplificar
+os meios de comunicação, nos espaços públicos e/ou privados. O Município já conta com um parque com disponibilidade de 30
+pontos, a ampliação alcançará 100 pontos de rádio, garantindo alta disponibilidade e internet de qualidade para a população e
+Firewall: Equipamento para controle e manutenção da ciber segurança: Tratando-se de oferta pública de internet, a navegabilidade
+e controle de ciber segurança, necessário se faz a implantação de equipamento firewall em respeito à LGPD.
+
+P - Terrenos dos Equipamentos Sociais
+Os Terrenos para implantação dos Equipamentos Sociais tem uma Área Total de 50 mil m2. Essas áreas são de propriedade da
+Prefeitura de Cachoeiro de Itapemirim.
+
+S - MEIO AMBIENTE E RECURSOS HÍDRICOS
+Este subcomponente tem dois Produtos: Melhorias na Infraestrutura do Parque da Ilha da Luz e Recuperação Ambiental do Rio
+Itapemirim.
+
+Tem um custo total de US$ 3.700.000,00, sendo US$ 3.200.000,00 referentes ao valor a ser financiado pela CAF e US$ 500.000,
+00 de contrapartida local.
+
+P - Recuperação Ambiental do Parque da Ilha da Luz
+Neste Produto serão feitas as ações de Recuperação Ambiental do Parque da Ilha da Luz, numa área de aproximadamente 15.000
+m². A Urbanização e Recuperação Ambiental do entorno Parque da Ilha da Luz, tem como ação a conservação de solos e do
+Manancial na região.
+
+Está prevista a realização de obras de drenagem, e revitalização na parte estrutural do Parque da Ilha da Luz, limpeza revegetação
+das margens, bem como a urbanização da área do entorno, com a melhoria dos equipamentos urbanos
+existentes, incluindo a substituição das lâmpadas convencionais para lâmpadas em LED, com o intuito de economizar no consumo
+de energia, e também deixar o local mais iluminado e seguro.
+
+A recuperação vegetal ao longo das margens do Parque da Ilha da Luz é outra ação a ser feita. Além disso, será planejado a
+ordenação da ocupação das margens do Parque da Ilha da Luz, com a finalidade de evitar degradações do entorno dessa área.
+
+O Parque da Ilha da Luz possui um grande valor afetivo na vida dos Cachoeirenses que viveram, no local, momentos de diversão
+em família. Com a construção do novo parque, urbanizado, sustentável e bem equipado, resgataremos isso e, também,
+apresentaremos uma Ilha da Luz renovada às novas gerações, que terão, à sua disposição, um amplo espaço público para lazer e
+entretenimento.  O projeto beneficia todo o município.
+
+
+Página: 15
+
+Através dessa intervenção, a Prefeitura busca atingir as seguintes metas definidas no item 2.5 - Objetivos Específicos do Programa
+:
+- Ampliar as áreas de proteção ambiental na área do Município;
+- Recuperar áreas degradadas ambientalmente;
+- Conservar solos e os recursos hídricos do Município.
+
+P - Urbanização e Recuperação Ambiental do Rio Itapemirim
+Neste Produto Urbanização e Recuperação Ambiental do Rio Itapemirim está previsto a realização de obras de drenagem, e
+revitalização na parte estrutural das margens do Rio Itapemirim. Serão realizados a limpeza dos leitos, o plantio emergencial de
+vegetação e a estabilização das margens dos rios. Na sequência, será feia a recomposição da mata ciliar, fundamental para a
+saúde dos cursos d'água. Será feita a urbanização da área das margens do Rio Itapemirim, com a melhoria dos equipamentos
+urbanos existentes, incluindo a substituição das lâmpadas convencionais para lâmpadas em LED, com o intuito de economizar no
+consumo de energia, e também deixar o local mais iluminado e seguro.
+
+Através dessa intervenção, a Prefeitura busca atingir as seguintes metas definidas no item 2.5 - Objetivos Específicos do Programa
+:
+- Ampliar as áreas de proteção ambiental na área do Município;
+- Recuperar áreas degradadas ambientalmente;
+- Conservar solos e os recursos hídricos do Município.
+
+C - GESTÃO DO PROGRAMA
+Este componente tem um custo total de US$ 5.800.000,00, sendo US$ 5.300.000,00 referentes ao valor a ser financiado pela CAF
+e US$ 500.000,00 referentes à contrapartida do município.
+
+O Programa será gerido pela Unidade de Gerenciamento do Programa - UGP. Esse componente tem 03 Produtos:
+- Gerenciamento e Supervisão das Obras
+- Elaboração de Estudos e Projetos Executivos de Engenharia
+- Auditoria Externa
+
+P - Gerenciamento e Supervisão das Obras
+1. Supervisão das Obras
+A Supervisão das Obras inclui a prestação de serviços de apoio a UGP para supervisão operacional e fiscalização das atividades
+técnica, ambientais e sociais incluídas no programa. A fiscalização das obras será realizada com ênfase em três dimensões:
+técnica, ambiental e social. A fiscalização de obras compreende o acompanhamento e controlo de qualidade dos serviços
+prestados, abrangendo desde a análise preliminar dos projetos, a fiscalização técnica da execução a assistência técnica e a
+qualidade dos equipamentos aplicados, bem como indicações sobre a situações locais de evolução e/ou modificações necessários,
+de acordo com a conveniência técnica e conceitual da intervenção. Por meio da fiscalização, é realizado o controle de qualidade
+da execução das obras, respeitando as condições contratuais, tais como: normas, legislação, cronogramas físico e financeiro, entre
+outros. Além de apoiar medidas para reduzir os impactos ambientais e
+sociais das intervenções.
+
+2. Gerenciamento do Programa
+Prevê-se a contratação de empresa de consultoria especializada para apoiar a Unidade de Gerenciamento do Programa - UGP,
+nas inúmeras atribuições e responsabilidades que estão listadas no item de Arranjo Institucional do Programa. O apoio da empresa
+de consultoria terá o objetivo de prover a UGP de apoio técnico e gerencial e terá as funções de proporcionar
+suporte técnico, gerencial, do planejamento, acompanhamento físico e financeiro e avaliação dos resultados do Programa.
+
+As responsabilidades do Apoio a UGP incluem:
+- Facilitar o planejamento de todas as etapas do projeto, elaborando-o nas normas dos principais modelos de plano, como o Plano
+de Aquisições, a Estrutura Analítica do Projeto e a Matriz de Resultados.
+- Gerenciar o projeto de ponta a ponta, acompanhando os aspectos técnicos, físicos e financeiros estabelecidos na Estrutura
+Analítica do Projeto (EAP).
+- Alinhar a execução financeira do programa à disponibilidade orçamentária dos órgãos executores.
+- Garantir que os processos de aquisição, licitação e contratação sejam feitos com transparência, agilidade e segurança, seguindo
+as normas do banco financiador.
+- Acompanhar a aplicação de recursos do projeto, registrando os gastos e gerando os lançamentos para a contabilidade com base
+no Método de Partidas Dobradas. Também realiza a gestão da taxa cambial, buscando os valores diretamente do site do Banco
+Central.
+- Gerar toda a documentação necessária à solicitação de recursos e à prestação de contas aos agentes financiadores, além de
+controlar as internalizações de recursos.
+- Apresentar informações estratégicas com ferramentas de análise, dashboards e relatórios específicos e personalizáveis para os
+gestores do projeto, o banco financiador e os auditores.
+- Monitorar o progresso da execução do projeto por meio de indicadores estabelecidos no planejamento e define, acompanha e
+trata os riscos.
+- Garantir a segurança dos dados gerenciando os usuários e as diferentes permissões para uso do sistema e possibilitando a
+auditoria das informações.
+- Notificar os técnicos do processador e secretarias envolvidas sobre os documentos necessários à sua contratação e preparação;
+-medidas para implementação do programa e sistematização dos dados e resultados obtidos;
+- Criação de uma matriz de resultados contendo a documentação dos dados monitorados para que possa ser útil nas fases do
+
+
+Página: 16
+
+programa.
+
+P - Elaboração de Estudos Técnicos e Projetos Executivos de Engenharia
+O produto Elaboração de Estudos e Projetos (estudos ambientais e sociais e projetos de engenharia) tem como objetivo detalhar
+os Estudos Técnicos e Projetos elaborados durante a fase de preparação do Programa com vistas ao melhor custo benefício na
+implantação das obras.
+
+ELABORAÇÃO DE ESTUDOS TÉCNICOS
+Serão elaborados de estudos técnicos voltados as ações de licenciamento ambiental, aos estudos de mudanças climáticas e
+questões sociais,  o que vai assegurar aos gestores a viabilidade de execução das ações e projetos propostos no Programa.
+
+ELABORAÇÃO DE PROJETOS EXECUTIVOS
+Serão elaborados os seguintes projetos executivos: macrodrenagem de aguas pluviais; pavimentação e acessibilidade para o
+sistema viário; acessibilidade de passeios; sinalização viária; ciclovias e ciclo faixas; infraestrutura de implantação e Equipamentos
+Sociais; urbanização e recuperação ambiental.
+
+Os projetos executivos deverão conter no mínimo: memorial descritivo, especificações técnicas, desenhos, plantas e peças
+gráficas com detalhes construtivos, memória de cálculo, planilha orçamentária de custos, planilha de composição dos preços
+unitários e cronograma físico financeiro.
+
+P - Auditoria Externa
+A contratação de Auditoria Externa objetiva realizar o exame, sistemático e independente, do Programa, com a finalidade de
+realizar o acompanhamento físico financeiro, averiguando se as atividades desenvolvidas pelas contratadas e pelo Município estão
+de acordo com as disposições estabelecidas, se foram implantadas com eficácia e se estão em conformidade com os objetivos do
+Programa.
+
+Os auditores deverão comunicar falhas, equívocos ou erros de processo e também evidências de que as demonstrações
+financeiras estão livres de distorção relevante.
+
+Como resultado das operações da auditoria externa, serão fornecidos pareceres para a devida constatação formal dos fatos
+observados, através da apresentação de evidências documentais, que servirão de base para a definição de ações de gestão para
+o controle do Programa.
+
+C - GASTOS FINANCEIROS
+Este Componente tem um custo total de US$ 475.000,00, a ser financiado totalmente pela CAF, não havendo contrapartida local.
+Este item é composto por dois subcomponentes:
+- Gastos de Avaliação
+- Comissão de Financiamento
+
+P - Comissão de Financiamento
+A Comissão de Financiamento é caracterizada como uma comissão devida do mutuário junto ao financiador. Compreende os
+desembolso necessáriospara a realização do pagamento da Comissão de Financiamento junto à agência de fomento que, no caso
+desse Programa, trata-se do Banco de Desenvolvimento da América Latina - CAF.
+Essa comissão é de 0,85% do montante do empréstimo.
+
+P - Gastos de Avaliação
+Durante a execução das obras e serviços prestados concernentes ao contrato, serão realizadas avaliações técnicas referentes à
+inserção de obras, prestação de serviços, bem como em relação ao desempenho de implantação referente à execução física e de
+desembolsos do Programa, de forma a garantir a boa realização e empregabilidade dos recursos.
+Este item engloba os custos relacionados à realização das avaliações técnicas e outras ações semelhantes na execução do
+Programa.
+
+
+Página: 17
+
+Meta
+
+Valor
+
+% Financeiro
+
+Unidade de medida
+-
+km
+
+km
+
+Unidade
+
+-
+1,73
+
+40,00
+
+12,00
+
+44.500.000,00
+3.600.000,00
+
+16.400.000,00
+
+19.300.000,00
+
+Categoria de Gasto
+
+Obras
+P- Macrodrenagem da Sub-Bacia do Gilberto
+Machado
+P- Requalificação da Infraestrutura Viária
+Existente em Locais de Vulnerabilidade Social
+P- Melhorias na Infraestrutura e nos
+Equipamentos Sociais nas Áreas de
+Vulnerabilidade Social
+P- Espaços Comerciais para Empreendedores
+Individuais
+P- Recuperação Ambiental do Parque da Ilha da
+Luz
+P- Urbanização e Recuperação Ambiental do Rio
+Itapemirim
+Bens
+P- Implantação de um Sistema Semafórico
+Inteligente
+P- Terrenos dos Equipamentos Sociais
+Consultoria
+P- Gerenciamento e Supervisão das Obras
+P- Elaboração de Estudos Técnicos e Projetos
+Executivos de Engenharia
+P- Auditoria Externa
+Serviços que Não de Consultoria
+P- Melhoria nos Processos de Prestação de
+Serviços Públicos da Prefeitura para População
+Capacitação e Treinamento
+P- Capacitação para Empreendedores Individuais
+Outros
+P- Comissão de Financiamento
+P- Gastos de Avaliação
+Total Geral
+
+Unidade
+
+2,00
+
+1.500.000,00
+
+m2
+
+m2
+
+-
+Unidade
+
+metro quadrado
+-
+Unidade
+Unidade
+
+Unidade
+-
+Unidade
+
+-
+Unidade
+-
+Unidade
+Unidade
+-
+
+12.000,00
+
+2.300.000,00
+
+7.000,00
+
+1.400.000,00
+
+-
+1,00
+
+50.000,00
+-
+1,00
+2,00
+
+1,00
+-
+2,00
+
+-
+1.500,00
+-
+1,00
+1,00
+-
+
+7.800.000,00
+2.500.000,00
+
+5.300.000,00
+5.800.000,00
+3.000.000,00
+2.600.000,00
+
+200.000,00
+3.800.000,00
+3.800.000,00
+
+125.000,00
+125.000,00
+475.000,00
+425.000,00
+50.000,00
+62.500.000,00
+
+71,20
+5,76
+
+26,24
+
+30,88
+
+2,40
+
+3,68
+
+2,24
+
+12,48
+4,00
+
+8,48
+9,28
+4,80
+4,16
+
+0,32
+6,08
+6,08
+
+0,20
+0,20
+0,76
+0,68
+0,08
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Descrever o estágio de desenvolvimento das ações necessárias ou que contribuirão para a execução do Programa e que estão em
+preparação, execução ou já foram finalizadas, tais como: estudos, termos de referência, consultorias, licenciamentos, desapropriações,
+reassentamentos, projetos de engenharia, licitações, instrumentos legais, entre outros. As etapas realizadas devem estar diretamente
+relacionadas aos Produtos do Programa.
+
+As etapas já realizadas e/ou em curso no âmbito do Programa estão abaixo descritas. Nenhum dos Produtos do programa tem ações que
+envolvem desapropriações ou reassentamentos.
+
+C - INFRAESTRUTURA URBANA, SOCIOAMBIENTAL E DE INCLUSÃO SOCIAL
+
+S - SANEAMENTO: MACRODRENAGEM
+
+P - MACRODRENAGEM DA SUB-BACIA DO GILBERTO MACHADO
+
+- Licenciamentos: Já foi realizado estudo ambiental. Processo de Licenciamento em andamento.
+
+- Projetos de engenharia: Projeto Básico está pronto.
+
+- Licitações: Editais em elaboração
+
+S - MOBILIDADE E ACESSIBILIDADE URBANA
+
+P- REQUALIFICAÇÃO DA INFRAESTRUTURA VIÁRIA EXISTENTE EM LOCAIS DE VULNERABILIDADE SOCIAL
+
+MELHORIAS NA AVENIDA DA BEIRA RIO E RODOVIÁRIA DO INTERIOR
+
+- Licenciamentos: Já foi realizado estudo ambiental. Processo de Licenciamento em andamento.
+
+- Projetos de engenharia: Projeto Básico está pronto.
+
+- Licitações: Editais em elaboração
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 18
+
+P - IMPLANTAÇÃO SISTEMA SEMAFÓRICO INTELIGENTE
+
+- Estudos: Estudos de concepção do sistema concluído.
+
+- Termos de referência: Em elaboração.
+
+- Licitações: Edital em elaboração.
+
+S - INFRAESTRUTURA SOCIAL E GERAÇÃO DE EMPREGO DE RENDA
+
+P - MELHORIAS NA INFRAESTRUTURA E NOS EQUIPAMENTOS SOCIAIS EM ÁREAS DE VULNERABILIDADE SOCIAL
+
+- Licenciamentos: Já foi realizado estudo ambiental. Processo de Licenciamento em andamento.
+
+- Projetos de engenharia: Projeto Básico está pronto.
+
+- Licitações: Editais em elaboração
+
+P - CAPACITAÇÃO DE EMPREENDEDORES INDIVIDUAIS
+
+- Termos de referência: Em elaboração.
+
+- Instrumentos legais: cadastramento dos interessados em andamento.
+
+P - EQUIPAMENTOS PÚBLICOS PARA EMPREENDIMENTOS INDIVIDUAIS
+
+- Licenciamentos: Já foi realizado estudo ambiental. Processo de Licenciamento em andamento.
+
+- Projetos de engenharia: Projeto Básico está pronto.
+
+- Licitações: Editais em elaboração
+
+P- MELHORIA NOS PROCESSOS DE PRESTAÇÃO DE SERVIÇOS PÚBLICOS DA PREFEITURA PARA POPULAÇÃO
+
+DISPONIBILIZAÇAO DE INTERNET EM ESPAÇOS PÚBLICOS
+
+- Estudos: Estudos de concepção do sistema concluído.
+
+- Termos de referência: Em elaboração.
+
+- Licitações: Edital em elaboração.
+
+S - MEIO AMBIENTE E RECURSOS HÍDRICOS
+
+P - RECUPERAÇÃO AMBIENTAL DO PARQUE DA ILHA DA LUZ
+
+- Licenciamentos: Já foi realizado estudo ambiental. Processo de Licenciamento em andamento.
+
+- Projetos de engenharia: Projeto Básico está pronto.
+
+- Licitações: Editais em elaboração
+
+P - PRESERVAÇÃO  AMBIENTAL DO RIO ITAPEMIRIM
+
+- Licenciamentos: Já foi realizado estudo ambiental. Processo de Licenciamento em andamento.
+
+- Projetos de engenharia: Projeto Básico está pronto.
+
+- Licitações: Editais em elaboração
+
+C - GESTÃO DO PROGRAMA
+
+P - GERENCIAMENTO E SUPERVISÃO DAS OBRAS- Estudos
+
+- Termos de referência: Em elaboração.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 19
+
+- Licitações: Edital em elaboração.
+
+P - ELABORAÇÃO DE ESTUDOS E PROJETOS EXECUTIVOS DE ENGENHARIA
+
+- Termos de referência: Em elaboração.
+
+- Licitações: Edital em elaboração.
+
+P - AUDITORIA EXTERNA
+
+- Termos de referência: Em elaboração.
+
+- Licitações: Edital em elaboração.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Municipal
+
+MUNICIPIO DE  CACHOEIRO DE ITAPEMIRIM(ES)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+I. CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+- Prazo de financiamento: 216 meses incluindo a carência de 66 meses.
+
+- Prazo Amortização: 156 meses.
+
+- Juros: SOFR + spread de 2,00% a.a
+
+- Demais condições financeiras: Comissão de Compromisso: Equivalente a 0,35% (zero vírgula trinta e cinco por cento) anual, aplicado
+sobre os saldos não desembolsados do empréstimo. Comissão de Financiamento: 0,85% sobre o montante financiado. Gastos de
+avaliação: valor de US$ 50.000,00.
+
+II. NECESSIDADE DE FINANCIAMENTO EXTERNO E A OPÇÃO PELO AGENTE FINANCEIRO
+
+(A) JUSTIFICAR A NECESSIDADE E A OPÇÃO POR FINANCIAMENTO EXTERNO EM DETRIMENTO DE FINANCIAMENTO INTERNO
+
+A necessidade de financiar o Programa de Desenvolvimento Sustentável e Inclusão Social do Município de Cachoeiro de Itapemirim é
+devido as restrições orçamentárias da administração pública e as altas necessidades de investimentos.
+
+A escolha de financiamento externo se deve principalmente a linhas de financiamento fornecidas por instituições financeiras internacionais
+com taxas de juros melhores que as domésticas e prazos de amortização e carência mais flexíveis, conforme se poderá verificar nas
+condições financeiras apresentadas no item (C) COMPARAR AS CONDIÇÕES FINANCEIRAS DO AGENTE FINANCEIRO ESCOLHIDO
+EM RELAÇÃO A OUTROS FINANCIADORES EXTERNOS/INTERNOS, UTILIZANDO OS MESMOS PARÂMETROS DO ITEM (I) ACIMA.
+
+O financiamento desempenha um papel importante, portanto, com sua ajuda, os municípios podem antecipar recursos mais rapidamente e
+investir em projetos importantes. Se for possível obter financiamento externo para a implementação de projetos importantes que tenham
+um prazo de conclusão e reembolso  mais longo do que o financiamento interno, as cidades podem usar esse empréstimo sem se
+preocupar com passivos de curto prazo, ou seja,  podem pagar dívidas antecipadas e pagamentos.
+
+(B) JUSTIFICAR A OPÇÃO PELO AGENTE FINANCEIRO ESCOLHIDO
+
+Numa avaliação feita pela Prefeitura dos agentes financeiros internos e externos para obtenção do financiamento para o Programa, a CAF
+apresentou as seguintes vantagens em relação a outras instituições financeiras quando se trata de preparação e execução das ações do
+Programa:
+
+- agilidade na análise e na condução de projetos e tomada de decisões;
+
+- utilização da legislação nacional para aquisições de bens, serviços, obras e consultorias;
+
+- entendimento sobre as questões prioritárias para resolução dos problemas do município;
+
+- disponibilização de equipe de consultores para esclarecimentos sobre as questões do financiamento, tanto técnica como econômicas e
+jurídicas;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 20
+
+- melhores condições financeiras que as apresentadas pelos agentes financeiros internos.
+
+(C) COMPARAR AS CONDIÇÕES FINANCEIRAS DO AGENTE FINANCEIRO ESCOLHIDO EM RELAÇÃO A OUTROS
+FINANCIADORES
+
+EXTERNOS/INTERNOS, UTILIZANDO OS MESMOS PARÂMETROS DO ITEM (I) ACIMA.
+
+De acordo com as necessidades do Programa e as condições financeiras propostas pelo agente financiador, consideramos que a CAF
+
+apresenta parâmetros financeiros semelhantes a outros agentes financeiros avaliados pela Prefeitura de Cachoeiro de Itapemirim. As
+comparações estão abaixo listadas.
+
+Informações obtidas no site da Secretaria do Tesouro Nacional.
+
+i. CAF
+
+- Prazo de financiamento: 216 meses incluindo a carência de 66 meses.
+
+- Prazo Amortização: 156 meses.
+
+- Juros: SOFR + spread de 2,00% a.a
+
+- Comissão de Compromisso: Equivalente a 0,35% anual, aplicado sobre os saldos não desembolsados do empréstimo.
+
+- Comissão de Financiamento: 0,85% sobre o montante financiado em pagamento único, na realização do primeiro desembolso.
+
+- Gastos de avaliação: valor de US$ 50.000,00 em pagamento único no momento da realização do primeiro desembolso.
+
+ii. BANCO INTERAMERICANO DE DESENVOLVIMENTO - BID
+
+- JUROS: SOFR acrescida de margem aplicável para empréstimos de capital ordinário determinada periodicamente pelo Banco.
+
+- PRAZO: 300, sendo 72 carências e 228 de amortização.
+
+- Comissão de Crédito sobre o saldo não desembolsado do empréstimo que em caso algum poderá exceder 0,75% ao ano.
+
+Recursos para inspeção e supervisão - O Mutuário não estará obrigado a cobrir as despesas do Banco a título de inspeção e supervisão
+gerais, salvo se o Banco estabelecer o contrário durante o Prazo Original de Desembolsos, como consequência de sua revisão periódica
+de encargos financeiros para empréstimos do capital ordinário, e notificar o Mutuário a respeito.
+
+iii. NEW DEVELOPMENT BANK
+
+- JUROS: SOFR acrescida de spread variável divulgado periodicamente pelo banco
+
+- PRAZO: 288, sendo 66 carências e 222
+
+(1) Front-end fee: 0,25% do valor do financiamento, pago de uma só vez no primeiro desembolso;
+
+(2) Comissão de compromisso (Commitment Charge) equivalente a 0,25% a.a., incidindo da seguinte forma:
+
+(a) nos primeiros 12 meses após a assinatura do contrato de empréstimo, sobre 15% do valor do empréstimo menos o montante
+desembolsado;
+
+(b) nos 12 meses seguintes, sobre 45% do valor do empréstimo menos o montante desembolsado;
+
+(c) nos 12 meses seguintes, sobre 85% do valor do empréstimo menos o montante desembolsado; e
+
+(d) no restante do período, sobre o valor total não desembolsado do contrato de empréstimo. Se em qualquer dos três períodos iniciais o
+valor desembolsado superar os 15%, 45% e 85% do valor do empréstimo, respectivamente, a Comissão de Compromisso será nula;
+
+(3) Juros de mora: acréscimo de 0,50% aos juros do empréstimo.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 21
+
+iv. BANCO MUNDIAL
+
+- JUROS: SOFR + 0,94% a.a
+
+- PRAZO: 228 meses, sendo 60 de carência e 168 meses de amortização
+
+- Taxa de Front-End 0,25% do valor do empréstimo
+
+- Taxa de Compromisso 0,25% ao ano sobre o saldo do empréstimo não retirado
+
+V. BANCO DO BRASIL
+
+- JUROS: Taxa anual média dos Certificados de Depósitos Interbancários (CDI), acrescidos de sobretaxa efetiva de 1,78 p.p. (um inteiro e
+setenta e oito centésimos) ponto percentual ao ano.
+
+- PRAZO: 120, sendo 12 carências e 108 de amortização.
+
+1) Tarifa de contratação: 0,70% sobre o valor total da operação;
+
+2) Comissão de compromisso: 0,20% a.a. sobre o valor não desembolsado.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+(i) Áreas Estratégicas e Impactos do Projeto (Ambientais, Econômicos e Sociais):
+
+A seguir é descrito, de forma explícita, as ações relacionadas às áreas estratégicas e impactos do Programa, considerando o item 4, do
+Anexo à Resolução Cofiex nº 17, de 7 de junho de 2021.
+
+1.1. Promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação:
+
+O Programa apresenta ações importantes nesta Área Estratégica com Impactos Positivos, tais como:
+
+I. Subcomponente - MEIO AMBIENTE E RECURSOS HÍDRICOS:
+
+- Recuperação Ambiental do Parque da Ilha da Luz
+
+- Preservação Ambiental do Rio Itapemirim
+
+II. Produto - REQUALIFICAÇÃO DA INFRAESTRUTURA VIÁRIA EXISTENTE EM LOCAIS DE VULNERABILIDADE SOCIAL
+
+-  Execução de arborização em mais de 40 km de vias e passeios públicos
+
+III. Componente - GESTÃO DO PROGRAMA
+
+- Estudos técnicos voltados as ações de licenciamento ambiental, aos estudos de mudanças climáticas voltados a questão de
+sustentabilidade ambiental do Município.
+
+1.2. Eficiência energética, geração e/ou uso de energia de fontes renováveis:
+
+O Programa apresenta ações importantes nesta Área Estratégica com Impactos Positivos, tais como:
+
+I. Produto - REQUALIFICAÇÃO DA INFRAESTRUTURA VIÁRIA EXISTENTE EM LOCAIS DE VULNERABILIDADE SOCIAL
+
+- A iluminação pública em lâmpadas LED previstas nas iluminação pública em 40 km de vias e passeios públicos.
+
+II. Produto - MELHORIAS NA INFRAESTRUTURA E NOS EQUIPAMENTOS SOCIAIS EM ÁREAS DE VULNERABILIDADE SOCIAL
+
+- Uso de energia fotovoltaica nos Equipamentos Sociais
+
+- A iluminação pública em lâmpadas LED previstas na Infraestrutura dos Equipamentos Sociais
+
+1.3. Implantação e/ou ampliação de ações de saneamento básico:
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 22
+
+O Programa tem importantes ações que fazem parte da área de saneamento básico,
+
+I. Subcomponente - SANEAMENTO: MACRODRENAGEM
+
+- Ampliação do sistema de macro drenagem da Sub-Bacia do Gilberto Machado
+
+II. Produto - MELHORIAS NA INFRAESTRUTURA E NOS EQUIPAMENTOS SOCIAIS EM ÁREAS DE VULNERABILIDADE SOCIAL
+
+- Execução de redes de água e esgotos e soluções com reuso de águas
+
+1.4. Gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes:
+
+I. Produto - URBANIZAÇÃO E RECUPERAÇÃO AMBIENTAL DO RIO ITAPEMIRIM
+
+- A urbanização e revitalização ambiental do rio Itapemirim visa proteger o solo e o manancial hídrico, o qual constitui um importante corpo
+hídrico na rede hidrográfica do município. A proposta de restauração ambiental melhorará a dinâmica hídrica do Rio Itapemirim.
+
+1.5. Conservação e manejo da biodiversidade e/ou de recursos florestais:
+
+O Programa não tem ação nesta Área Estratégica
+
+1.6. Melhoria do ambiente de negócios e/ou oportunidades:
+
+I. Produto - ESPAÇOS COMERCIAIS PARA EMPREENDEDORES INDIVIDUAIS
+
+- A Requalificação do Mercado Quincas Leão e do Mercado do Amarelo para o uso empreendedores individuais impacta de forma decisiva
+na melhoria do ambiente de negócio do município. Esse projeto poderá atrair investimentos privados em novos equipamentos para
+ampliar a economia nos locais de vulnerabilidade social do município e gerando novas oportunidades para mais empreendedores locais.
+
+1.7. Benefícios para empreendedores individuais, micro e pequenas empresas:
+
+I. Produto - ESPAÇOS COMERCIAIS PARA EMPREENDEDORES INDIVIDUAIS
+
+- A Requalificação do Mercado Quincas Leão e do Mercado do Amarelo para o uso empreendedores individuais é um benefício direto para
+empreendedores individuais situados nestes locais de vulnerabilidade social.
+
+II. Produto - CAPACITAÇÃO PARA EMPREENDEDORES INDIVIDUAIS
+
+- O produto de capacitação empreendedores individuais será possível garantir cursos, assessorias técnicas e apoio aos empreendedores
+individuais, sendo um benefício direto para essas pessoas.
+
+1.8. Geração de emprego e renda para populações de baixa renda e vulneráveis:
+
+I. Produto - CAPACITAÇÃO PARA EMPREENDEDORES INDIVIDUAIS
+
+- Essa ação estratégica está inserida na subcomponente de GERAÇÃO DE EMPREGO E RENDA PARA POPULAÇÕES VULNERÁVEIS,
+onde será possível oferecer cursos, assessoria técnica e apoio aos empreendedores individuais. Esse projeto de capacitação esta voltado
+prioritariamente a população de baixa renda e vulneráveis, que serão atendidos com cursos e aulas profissionalizantes.
+
+1.9. Infraestrutura e/ou equipamentos sociais para populações de baixa renda e vulneráveis:
+
+I. Subcomponente - INFRAESTRUTURA URBANA E EQUIPAMENTOS SOCIAIS
+
+II. Produto - MELHORIAS NA INFRAESTRUTURA E NOS EQUIPAMENTOS SOCIAIS EM ÁREAS DE VULNERABILIDADE SOCIAL
+
+Neste Produto serão feitas as intervenções de Melhorias na Infraestrutura e nos Equipamentos Sociais existentes nas Áreas de
+Vulnerabilidade Social de bairros que apresentam uma população de baixa renda, com prioridade para os espaços de cuja finalidade
+social envolve as temáticas de esporte, lazer e cultura.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+
+
+Página: 23
+
+1.10. Ações de inclusão de minorias sociais entre os beneficiários:
+
+I. Produto - CAPACITAÇÃO DE EMPREENDEDORES INDIVIDUAIS
+
+- Nas vagas ofertadas nos cursos de capacitação de empreendedores individuais em áreas de vulnerabilidade social, serão priorizadas a
+inclusão dos grupos minoritário, quais sejam: idosos, pessoas com deficiência, LGBTQIA+, mulheres vítimas de violência domésticas,
+pessoas com preconceito de cor, indígenas e pessoas de baixa renda.
+
+II.  Produto - EQUIPAMENTOS COMERCIAIS PARA EMPREENDIMENTOS INDIVIDUAIS
+
+- Os espaços criados pela Requalificação do Mercado Quincas Leão e do Mercado do Amarelo para o uso empreendedores individuais
+esta sendo priorizado para os grupos minoritário, quais sejam: pessoas com deficiência, LGBTQIA+, mulheres vítimas de violência
+domésticas, pessoas com preconceito de cor, indígenas, idosos, jovens e pessoas de baixa renda.
+
+1.11. Políticas voltadas para juventude, gênero e raça:
+
+I. Programa de Desenvolvimento Sustentável e de Inclusão Social do Município de Cachoeiro de Itapemirim
+
+- Como uma política já incorporada na atual gestão da Prefeitura e sendo esse Programa voltado para inclusão social, todas as ações tem
+como diretriz serem voltadas a esse grupo da juventude, gênero e raça.
+
+1.12. Melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão e/ou de participação cidadã:
+
+I. Produto - MELHORIA NOS PROCESSOS DE PRESTAÇÃO DE SERVIÇOS PÚBLICOS DA PREFEITURA PARA POPULAÇÃO
+
+- Este Produto objetiva melhorar as competências locais para planejar e gerir a gestão municipal, implantar sistemas digitais para os
+mecanismos necessários para a coordenação interinstitucional no setor público, consolidar as instâncias dos municípios e apoiar a gestão
+integral da Prefeitura, objetivando alcançar um desenvolvimento ordenado e em consenso ampliando a eficiência, a eficácia e a prestação
+dos serviços públicos para a população.
+
+Este Produto objetiva melhorar as competências locais para planejar e gerir a gestão municipal, implantar os mecanismos necessários
+para a coordenação interinstitucional no setor público, consolidar as instâncias dos municípios e apoiar a gestão integral da Prefeitura,
+objetivando alcançar um desenvolvimento ordenado e em consenso ampliando a eficiência, a eficácia e a sustentabilidade da gestão
+municipal.
+
+1.13. Melhoria das condições de educação e saúde:
+
+O Programa não tem ação nesta Área Estratégica
+
+1.14. Desenvolvimento, inovação e modernização tecnológica:
+
+I. Produto - MELHORIA NOS PROCESSOS DE PRESTAÇÃO DE SERVIÇOS PÚBLICOS DA PREFEITURA PARA POPULAÇÃO
+
+- Neste produto será implantado tecnologia para disponibilização de internet nos espaço públicos e será feita atualização tecnológica dos
+sistemas digitais da Prefeitura.
+
+1.15. Arranjos de financiamento que incentivem/contribuam com a participação privada:
+
+O Programa não tem ação nesta Área Estratégica
+
+(ii) informar e quantificar a população beneficiada direta e/ou indiretamente pelas ações do Programa
+
+As ações do Programa vão acontecer na área urbana e periférica do Município, em locais com áreas ocupadas por casas e barracos de
+famílias de baixa renda. Segundo dados do IBGE (2020), existem 33.3% da população nessas condições, num total de aproximadamente
+62 mil habitantes, os quais serão beneficiados diretamente com as atividades do programa. Indiretamente, podemos dizer que toda a
+população do município se beneficia com essas ações, pois as intervenções do programa promovem a integração e o acesso entre os
+bairros melhoraram o desenvolvimento sustentável do município e estimulam o emprego e a renda de todos os moradores.
+
+(iii) especificar se haverá benefício a populações de baixa renda, vulneráveis, minorias sociais, jovens, com foco em gênero e/ou raça,
+entre outros.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 24
+
+As populações de baixa renda, vulneráveis, minorias sociais, jovens, com foco em gênero e/ou raça, entre outros são os principais
+beneficiários do Programa. Todas as ações foram priorizadas para atender diretamente essas populações, que é a que mais sofre com a
+falta do mínimo existencial, que é o conjunto básico de direitos fundamentais que assegura a pessoa uma vida digna. As ações do
+Programa priorizaram beneficiar essas populações com melhorias nas condições de mobilidade e acessibilidade urbana, no acesso a
+equipamentos públicos sociais, na obtenção de qualificação profissional e acesso a melhor renda, ao melhor atendimento do serviços
+públicos e a infraestrutura de lazer, cultura e esporte.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Corporação Andina de Fomento - CAF
+Total:
+
+Sigla
+
+CF
+Sigla
+
+CAF
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+12.500.000,00
+Valor Proposto
+
+50.000.000,00
+62.500.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+12.500.000,00
+Valor de Referência US
+$
+50.000.000,00
+62.500.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+(i) Arranjo institucional: Informar as instituições envolvidas na implementação do Programa e suas respectivas responsabilidades na
+execução.
+
+MUTUÁRIO TOMADOR DO EMPRÉSTIMO - PREFEITURA MUNICIPAL DE CACHOEIRO DE ITAPEMIRIM
+
+ÓRGÃO EXECUTOR - SECRETARIA MUNICIPAL DE OBRAS
+
+Atribuições no Âmbito do Programa:
+
+Será responsável pela coordenação e gestão de todas as obras e intervenções físicas do programa. Terá o apoio de uma Supervisora de
+Obras. O Programa terá ainda a Unidade de Gerenciamento/UGP, vinculada a Secretaria de Obras e será responsável pela coordenação
+das atividades gerais do Programa, as interfaces com os órgãos envolvidos, banco financiador e demais entes públicos.
+
+UNIDADE DE GERENCIAMENTO DO PROGRAMA- UGP
+
+A Unidade de Gerenciamento do Programa, que estará diretamente vinculada a Secretaria de Obras, tem responsabilidade de Coordenar,
+Administrar e Supervisionar, oferecendo suporte a execução do Programa, com base no contrato de empréstimo a ser firmado entre a
+Prefeitura Municipal de Cachoeiro de Itapemirim e o Banco de Desenvolvimento da América Latina/CAF.
+
+A UGP terá as seguintes atribuições gerais:
+
+- acompanhar a aplicação dos recursos financeiros dos Programa;
+
+- acompanhar a elaboração de projetos básico e executivo das obras e serviços de engenharia;
+
+- orientar a elaboração, pelas áreas técnicas e funcionais da administração, de editais e termos de referência;
+
+- estabelecer cronograma físico financeiro
+
+- supervisionar a prestação de contas dos recursos recebidos;
+
+- adotar as diretrizes e recomendações do organismo financeiro.
+
+DEMAIS ÓRGÃOS ENVOLVIDOS:
+
+COMISSÃO PERMANENTE DE LICITAÇÃO - CPL
+
+- Responsável pela contratações de obras, consultorias e demais ações do Programa.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 25
+
+PROCURADORIA GERAL DO MUNICÍPIO - PGM
+
+- No âmbito do Programa, deverá acompanhar todo o processo de contratação do financiamento, analisando as minutas do Contrato de
+Empréstimo. Deverá acompanhar também todos os atos jurídicos oriundos do financiamento.
+
+(ii)Informar os Órgãos Responsáveis pelas Ações do Programa no Município:
+
+- SANEAMENTO: MACRODRENAGEM : Secretaria Municipal de Obras.
+
+- MOBILIDADE E ACESSIBILIDADE URBANA: Secretaria Municipal de Obras.
+
+-  INFRAESTRUTURA SOCIAL: Secretaria Municipal de Obras e Secretaria de Cultura, Esporte, Lazer e Qualidade de Vida, e Cidadania,
+Trabalho e Direitos Humanos.
+
+- GERAÇÃO DE EMPREGO DE RENDA: Secretaria de Cidadania, Trabalho e Direitos Humanos.
+
+- MELHORIA NOS PROCESSOS DE PRESTAÇÃO DE SERVIÇOS PÚBLICOS DA PREFEITURA PARA POPULAÇÃO: Secretaria
+Municipal de Fazenda
+
+- MEIO AMBIENTE E RECURSOS HÍDRICOS: Secretaria Municipal de Urbanismo, Desenvolvimento e Meio Ambiente.
+
+(ii) Matriz de Responsabilidade:
+
+A Matriz de Responsabilidade Institucional está incluída na aba Anexos. Utilizando a Metodologia RACI, foram detalhados as principais
+ações a serem executadas no âmbito do programa, as entidades envolvidas em sua implementação com as respectivas atribuições.
+
+(iv) Estrutura operacional: informar sobre a equipe técnica e a experiência das instituições do proponente para a implementação das ações
+do programa.
+
+As instituições envolvidas na implementação do Programa, listadas acima no item de Arranjo Institucional possui uma ampla experiência
+na implantação de ações semelhantes as Programa de Desenvolvimento Sustentável e de Inclusão Social do Município de Cachoeiro de
+Itapemirim.
+
+A Estrutura Operacional do Programa será composta pela  disponibilização de uma equipe multidisciplinar na Unidade de Gestão do
+Programa - UGP e será estruturada de acordo com as necessidades da gestão do Programa, respeitando as disposições e orientações do
+Banco de Desenvolvimento da América Latina - CAF.
+
+A UGP terá o objetivo geral de garantir total apoio na execução e implantação do Programa, e terá autonomia administrativa. A estrutura
+organizacional da UGP deverá atender ao conjunto de atribuições que constituem suas competências e terá a seguinte equipe técnica
+permanente:
+
+- Coordenação Geral
+
+- Assessor Jurídica
+
+- Especialista Técnico de Obras
+
+- Especialista socioambiental
+
+- Especialista Administrativo Financeiro
+
+A UGP contará ainda com uma o apoio técnico e logístico de empresas de consultoria de Gerenciamento e Supervisão Técnica, Ambiental
+e Social de Obras, além de empresa de Auditoria.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Prefeitura Municipal de Cachoeiro de Itapemirim - ES
+
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+
+### 4.3. Execução/Prazo
+
+
+Fax:
+UF:
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Prazo de Desembolso: 5 Anos
+
+
+Página: 26
+
+
+### 4.4. Execução/Cronograma
+
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+CF
+
+CAF
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+C - INFRAESTRUTURA URBANA, SOCIOAMBIENTAL E DE INCLUSÃO SOCIAL
+
+56.225.000,00
+
+6.305.000,00
+
+6.633.750,00
+
+S - SANEAMENTO: MACRODRENAGEM
+
+P - Macrodrenagem da Sub-Bacia do Gilberto Machado
+
+S - MOBILIDADE E ACESSIBILIDADE URBANA
+
+3.600.000,00
+
+3.600.000,00
+
+75.000,00
+
+75.000,00
+
+465.000,00
+
+465.000,00
+
+18.900.000,00
+
+435.000,00
+
+2.400.000,00
+
+P - Requalificação da Infraestrutura Viária Existente em Locais de Vulnerabilidade Social
+
+16.400.000,00
+
+360.000,00
+
+2.100.000,00
+
+P - Implantação de um Sistema Semafórico Inteligente
+
+2.500.000,00
+
+75.000,00
+
+300.000,00
+
+S - INFRAESTRUTURA SOCIAL E GERAÇÃO DE EMPREGO DE RENDA
+
+30.025.000,00
+
+5.720.000,00
+
+3.288.750,00
+
+P - Melhorias na Infraestrutura e nos Equipamentos Sociais nas Áreas de Vulnerabilidade Social
+
+19.300.000,00
+
+270.000,00
+
+2.625.000,00
+
+P - Capacitação para Empreendedores Individuais
+
+P - Espaços Comerciais para Empreendedores Individuais
+
+125.000,00
+
+0,00
+
+18.750,00
+
+1.500.000,00
+
+45.000,00
+
+180.000,00
+
+P - Melhoria nos Processos de Prestação de Serviços Públicos da Prefeitura para População
+
+3.800.000,00
+
+105.000,00
+
+465.000,00
+
+P - Terrenos dos Equipamentos Sociais
+
+S - MEIO AMBIENTE E RECURSOS HÍDRICOS
+
+P - Recuperação Ambiental do Parque da Ilha da Luz
+
+P - Urbanização e Recuperação Ambiental do Rio Itapemirim
+
+C - GESTÃO DO PROGRAMA
+
+P - Gerenciamento e Supervisão das Obras
+
+P - Elaboração de Estudos Técnicos e Projetos Executivos de Engenharia
+
+P - Auditoria Externa
+
+C - GASTOS FINANCEIROS
+
+P - Comissão de Financiamento
+
+P - Gastos de Avaliação
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5.300.000,00
+
+5.300.000,00
+
+0,00
+
+3.700.000,00
+
+2.300.000,00
+
+1.400.000,00
+
+5.800.000,00
+
+3.000.000,00
+
+2.600.000,00
+
+200.000,00
+
+475.000,00
+
+425.000,00
+
+50.000,00
+
+75.000,00
+
+45.000,00
+
+30.000,00
+
+75.000,00
+
+30.000,00
+
+30.000,00
+
+15.000,00
+
+0,00
+
+0,00
+
+0,00
+
+480.000,00
+
+300.000,00
+
+180.000,00
+
+795.000,00
+
+420.000,00
+
+360.000,00
+
+15.000,00
+
+475.000,00
+
+425.000,00
+
+50.000,00
+
+0,00
+
+6.380.000,00
+
+7.903.750,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+C - INFRAESTRUTURA URBANA, SOCIOAMBIENTAL E DE INCLUSÃO SOCIAL
+
+COMPONENTES
+
+S - SANEAMENTO: MACRODRENAGEM
+
+P - Macrodrenagem da Sub-Bacia do Gilberto Machado
+
+S - MOBILIDADE E ACESSIBILIDADE URBANA
+
+P - Requalificação da Infraestrutura Viária Existente em Locais de Vulnerabilidade Social
+
+P - Implantação de um Sistema Semafórico Inteligente
+
+S - INFRAESTRUTURA SOCIAL E GERAÇÃO DE EMPREGO DE RENDA
+
+P - Melhorias na Infraestrutura e nos Equipamentos Sociais nas Áreas de Vulnerabilidade Social
+
+P - Capacitação para Empreendedores Individuais
+
+P - Espaços Comerciais para Empreendedores Individuais
+
+P - Melhoria nos Processos de Prestação de Serviços Públicos da Prefeitura para População
+
+P - Terrenos dos Equipamentos Sociais
+
+S - MEIO AMBIENTE E RECURSOS HÍDRICOS
+
+P - Recuperação Ambiental do Parque da Ilha da Luz
+
+P - Urbanização e Recuperação Ambiental do Rio Itapemirim
+
+C - GESTÃO DO PROGRAMA
+
+P - Gerenciamento e Supervisão das Obras
+
+P - Elaboração de Estudos Técnicos e Projetos Executivos de Engenharia
+
+P - Auditoria Externa
+
+C - GASTOS FINANCEIROS
+
+P - Comissão de Financiamento
+
+P - Gastos de Avaliação
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+Ano 2
+
+FONTES
+
+CF
+
+CAF
+
+1.340.000,00
+
+8.845.000,00
+
+100.000,00
+
+620.000,00
+
+100.000,00
+
+620.000,00
+
+580.000,00
+
+3.200.000,00
+
+480.000,00
+
+2.800.000,00
+
+100.000,00
+
+400.000,00
+
+560.000,00
+
+4.385.000,00
+
+360.000,00
+
+3.500.000,00
+
+0,00
+
+25.000,00
+
+60.000,00
+
+240.000,00
+
+140.000,00
+
+620.000,00
+
+0,00
+
+0,00
+
+100.000,00
+
+640.000,00
+
+60.000,00
+
+40.000,00
+
+400.000,00
+
+240.000,00
+
+100.000,00
+
+1.060.000,00
+
+40.000,00
+
+40.000,00
+
+20.000,00
+
+0,00
+
+0,00
+
+0,00
+
+560.000,00
+
+480.000,00
+
+20.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.440.000,00
+
+9.905.000,00
+
+0,00
+
+0,00
+
+C - INFRAESTRUTURA URBANA, SOCIOAMBIENTAL E DE INCLUSÃO SOCIAL
+
+COMPONENTES
+
+S - SANEAMENTO: MACRODRENAGEM
+
+P - Macrodrenagem da Sub-Bacia do Gilberto Machado
+
+S - MOBILIDADE E ACESSIBILIDADE URBANA
+
+P - Requalificação da Infraestrutura Viária Existente em Locais de Vulnerabilidade Social
+
+P - Implantação de um Sistema Semafórico Inteligente
+
+S - INFRAESTRUTURA SOCIAL E GERAÇÃO DE EMPREGO DE RENDA
+
+P - Melhorias na Infraestrutura e nos Equipamentos Sociais nas Áreas de Vulnerabilidade Social
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+CAF
+
+2.010.000,00
+
+13.267.500,00
+
+150.000,00
+
+930.000,00
+
+150.000,00
+
+930.000,00
+
+870.000,00
+
+4.800.000,00
+
+720.000,00
+
+4.200.000,00
+
+150.000,00
+
+600.000,00
+
+840.000,00
+
+6.577.500,00
+
+540.000,00
+
+5.250.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+
+Página: 27
+
+P - Capacitação para Empreendedores Individuais
+
+P - Espaços Comerciais para Empreendedores Individuais
+
+P - Melhoria nos Processos de Prestação de Serviços Públicos da Prefeitura para População
+
+P - Terrenos dos Equipamentos Sociais
+
+S - MEIO AMBIENTE E RECURSOS HÍDRICOS
+
+P - Recuperação Ambiental do Parque da Ilha da Luz
+
+P - Urbanização e Recuperação Ambiental do Rio Itapemirim
+
+C - GESTÃO DO PROGRAMA
+
+P - Gerenciamento e Supervisão das Obras
+
+P - Elaboração de Estudos Técnicos e Projetos Executivos de Engenharia
+
+P - Auditoria Externa
+
+C - GASTOS FINANCEIROS
+
+P - Comissão de Financiamento
+
+P - Gastos de Avaliação
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+VALOR
+
+CUSTO
+
+C - INFRAESTRUTURA URBANA, SOCIOAMBIENTAL E DE INCLUSÃO SOCIAL
+
+COMPONENTES
+
+S - SANEAMENTO: MACRODRENAGEM
+
+P - Macrodrenagem da Sub-Bacia do Gilberto Machado
+
+S - MOBILIDADE E ACESSIBILIDADE URBANA
+
+P - Requalificação da Infraestrutura Viária Existente em Locais de Vulnerabilidade Social
+
+P - Implantação de um Sistema Semafórico Inteligente
+
+S - INFRAESTRUTURA SOCIAL E GERAÇÃO DE EMPREGO DE RENDA
+
+P - Melhorias na Infraestrutura e nos Equipamentos Sociais nas Áreas de Vulnerabilidade Social
+
+P - Capacitação para Empreendedores Individuais
+
+P - Espaços Comerciais para Empreendedores Individuais
+
+P - Melhoria nos Processos de Prestação de Serviços Públicos da Prefeitura para População
+
+P - Terrenos dos Equipamentos Sociais
+
+S - MEIO AMBIENTE E RECURSOS HÍDRICOS
+
+P - Recuperação Ambiental do Parque da Ilha da Luz
+
+P - Urbanização e Recuperação Ambiental do Rio Itapemirim
+
+C - GESTÃO DO PROGRAMA
+
+P - Gerenciamento e Supervisão das Obras
+
+P - Elaboração de Estudos Técnicos e Projetos Executivos de Engenharia
+
+P - Auditoria Externa
+
+C - GASTOS FINANCEIROS
+
+P - Comissão de Financiamento
+
+P - Gastos de Avaliação
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+37.500,00
+
+90.000,00
+
+360.000,00
+
+210.000,00
+
+930.000,00
+
+0,00
+
+0,00
+
+150.000,00
+
+960.000,00
+
+90.000,00
+
+60.000,00
+
+600.000,00
+
+360.000,00
+
+150.000,00
+
+1.590.000,00
+
+60.000,00
+
+60.000,00
+
+30.000,00
+
+0,00
+
+0,00
+
+0,00
+
+840.000,00
+
+720.000,00
+
+30.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.160.000,00
+
+14.857.500,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+Ano 4
+
+FONTES
+
+CF
+
+CAF
+
+1.675.000,00
+
+11.056.250,00
+
+125.000,00
+
+775.000,00
+
+125.000,00
+
+775.000,00
+
+725.000,00
+
+4.000.000,00
+
+600.000,00
+
+3.500.000,00
+
+125.000,00
+
+500.000,00
+
+700.000,00
+
+5.481.250,00
+
+450.000,00
+
+4.375.000,00
+
+0,00
+
+31.250,00
+
+75.000,00
+
+300.000,00
+
+175.000,00
+
+775.000,00
+
+0,00
+
+0,00
+
+125.000,00
+
+800.000,00
+
+75.000,00
+
+50.000,00
+
+500.000,00
+
+300.000,00
+
+125.000,00
+
+1.325.000,00
+
+50.000,00
+
+50.000,00
+
+25.000,00
+
+0,00
+
+0,00
+
+0,00
+
+700.000,00
+
+600.000,00
+
+25.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.800.000,00
+
+12.381.250,00
+
+0,00
+
+0,00
+
+C - INFRAESTRUTURA URBANA, SOCIOAMBIENTAL E DE INCLUSÃO SOCIAL
+
+670.000,00
+
+4.422.500,00
+
+12.000.000,00
+
+44.225.000,00
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+CAF
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+S - SANEAMENTO: MACRODRENAGEM
+
+P - Macrodrenagem da Sub-Bacia do Gilberto Machado
+
+S - MOBILIDADE E ACESSIBILIDADE URBANA
+
+50.000,00
+
+50.000,00
+
+310.000,00
+
+500.000,00
+
+3.100.000,00
+
+310.000,00
+
+500.000,00
+
+3.100.000,00
+
+290.000,00
+
+1.600.000,00
+
+2.900.000,00
+
+16.000.000,00
+
+P - Requalificação da Infraestrutura Viária Existente em Locais de Vulnerabilidade Social
+
+240.000,00
+
+1.400.000,00
+
+2.400.000,00
+
+14.000.000,00
+
+P - Implantação de um Sistema Semafórico Inteligente
+
+S - INFRAESTRUTURA SOCIAL E GERAÇÃO DE EMPREGO DE RENDA
+
+50.000,00
+
+200.000,00
+
+500.000,00
+
+2.000.000,00
+
+280.000,00
+
+2.192.500,00
+
+8.100.000,00
+
+21.925.000,00
+
+P - Melhorias na Infraestrutura e nos Equipamentos Sociais nas Áreas de Vulnerabilidade Social
+
+180.000,00
+
+1.750.000,00
+
+1.800.000,00
+
+17.500.000,00
+
+P - Capacitação para Empreendedores Individuais
+
+P - Espaços Comerciais para Empreendedores Individuais
+
+P - Melhoria nos Processos de Prestação de Serviços Públicos da Prefeitura para População
+
+P - Terrenos dos Equipamentos Sociais
+
+S - MEIO AMBIENTE E RECURSOS HÍDRICOS
+
+P - Recuperação Ambiental do Parque da Ilha da Luz
+
+P - Urbanização e Recuperação Ambiental do Rio Itapemirim
+
+C - GESTÃO DO PROGRAMA
+
+P - Gerenciamento e Supervisão das Obras
+
+P - Elaboração de Estudos Técnicos e Projetos Executivos de Engenharia
+
+P - Auditoria Externa
+
+C - GASTOS FINANCEIROS
+
+P - Comissão de Financiamento
+
+0,00
+
+12.500,00
+
+0,00
+
+125.000,00
+
+30.000,00
+
+70.000,00
+
+0,00
+
+50.000,00
+
+30.000,00
+
+20.000,00
+
+50.000,00
+
+20.000,00
+
+20.000,00
+
+10.000,00
+
+0,00
+
+0,00
+
+120.000,00
+
+300.000,00
+
+1.200.000,00
+
+310.000,00
+
+700.000,00
+
+3.100.000,00
+
+0,00
+
+5.300.000,00
+
+0,00
+
+320.000,00
+
+500.000,00
+
+3.200.000,00
+
+200.000,00
+
+300.000,00
+
+2.000.000,00
+
+120.000,00
+
+200.000,00
+
+1.200.000,00
+
+530.000,00
+
+500.000,00
+
+5.300.000,00
+
+280.000,00
+
+200.000,00
+
+2.800.000,00
+
+240.000,00
+
+200.000,00
+
+2.400.000,00
+
+10.000,00
+
+100.000,00
+
+100.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+475.000,00
+
+425.000,00
+
+
+Página: 28
+
+P - Gastos de Avaliação
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+62.500.000,00
+
+720.000,00
+
+4.952.500,00
+
+12.500.000,00
+
+50.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+50.000,00
+
+(i) Os atos legais necessários para a implementação do programa/projeto, tais como: leis, decretos, convênios, contratos, regimentos,
+autorizações federais, estaduais, municipais e privadas, e em que estágio se encontra(m)
+
+- Esta atividade ocorre em áreas públicas do município e não requer quaisquer licenças ou acordos com órgãos estaduais ou federais.
+
+(ii) Os riscos
+
+Quanto à lei, para fazer o empréstimo, a Prefeitura de Cachoeiro de Itapemirim deve obter uma lei específica da Câmara Municipal de
+Cachoeiro de Itapemirim, que permite a prefeitura fazer o empréstimo. A autorização legal está prevista no artigo 32.1. Ponto I da Lei
+Complementar 101/2000.
+
+A fase de aquisição da lei continua a ser um trabalho interno da Câmara Municipal, tendo já sido elaborado um anteprojeto de lei segundo
+o modelo constante do MIP -  Manual de Instruções de Pleitos, especificando os elementos essenciais de identificação(agência financeira -
+CAF, valor captado - US$ 50 milhões, objetivo da operação).
+
+Emitida a resolução do COFIEX autorizando o município a elaborar o programa, os termos de aprovação necessários para a assinatura do
+contrato de financiamento externo serão encaminhados pela Prefeitura à Câmara Legislativa de Cachoeiro de Itapemirim para apreciação
+e aprovação.
+
+Mediante aprovação da Câmara Municipal, será enviado a Secretaria do Tesouro/STN para aprovação dos limites e prazos do contrato de
+empréstimo e posterior cobrança e emissão de garantias.
+
+(iii) As ações mitigadoras.
+
+Os riscos que possam estar associados a litígios relacionados à aprovação da Lei de Autorização do Empréstimos são tratados em
+reunião das partes interessadas para resolver as questões em tempo hábil e garantir o cumprimento da aprovação antes da assinatura do
+Contrato de Empréstimo.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+(i) AS PRINCIPAIS CONTRATAÇÕES PREVISTAS PARA A EXECUÇÃO DO PROGRAMA/PROJETO (CONSULTORIAS, OBRAS, BENS
+E
+
+SERVIÇOS, OUTROS)
+
+As principais contrações para execução do Programa são:
+
+OBRAS:
+
+- Macrodrenagem da Sub-Bacia do Gilberto Machado
+
+- Infraestrutura Viária
+
+- Infraestrutura dos Equipamentos Sociais
+
+- Equipamentos Públicos para Empreendimentos Individuais
+
+- Recuperação Ambiental do Parque da Ilha da Luz e do Rio Itapemirim
+
+BENS
+
+- Equipamentos de Informática para Sistema Semafórico Inteligente
+
+- Equipamentos de Informática para Melhoria nos Processos de Prestação de Serviços Públicos
+
+- Equipamentos de Informática para Internet em Espaços Públicos
+
+CONSULTORIAS
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 29
+
+- Cursos de Capacitação
+
+- Gerenciamento e Supervisão das Obras
+
+- Elaboração de Estudos e Projetos Executivos de Engenharia
+
+- Auditoria Externa
+
+(ii) SE HÁ PREVISÃO DE CONTRATAÇÃO DE PESSOAL (VIA CONCURSO OU POR OUTRA VIA) PARA IMPLEMENTAÇÃO E
+
+SUSTENTABILIDADE DO PROGRAMA
+
+Não será necessário a contratação de pessoal via concursos ou por outra via. A Prefeitura de Cachoeiro de Itapemirim tem em seu atual
+quadro técnico, estrutura operacional de pessoal e de logística, suficientes para implantação e sustentabilidade das ações do programa.
+
+(iii) A EXPERIÊNCIA DO ÓRGÃO EXECUTOR COM AS POLÍTICAS DE AQUISIÇÃO/CONTRATAÇÃO DO AGENTE FINANCEIRO;
+
+A CAF, tem como política de aquisição/contratação o uso da lei nacional de licitações, que é de amplo conhecimento do órgão executor,
+sendo que a Prefeitura tem em sua estrutura administrativa uma comissão permanente de licitações - CPL, que será responsável dentro
+do Programa pelos processos licitatórios.
+
+(iv) OS RISCOS
+
+Os riscos nessa fase estão relacionados aos processo licitatório. São processos rotineiros na administração pública, mas exige atenção
+especial a projetos básicos e termos de referência bem estruturados e à formação de equipe técnica com experiência no setor de
+licitações.
+
+Riscos comuns:
+
+- Atrasos nos processos de aquisição
+
+- Judicialização dos Processos Licitatórios
+
+- Equipe composta por profissionais inexperientes na área de compras
+
+- Falta de comunicação entre o setor de licitações e o secretariado responsável pelo programa
+
+- Edital de Licitações mal elaborados, que revelem irregularidades irreparáveis &#8203;&#8203;ou ilegitimidade, que dão origem a
+reclamações administrativas e judiciais e guiam muitas vezes à anulação
+
+- Contratar uma empresa sem qualificação e/ou sem capacidade financeira suficiente
+
+- Contratação de Obras, Bens ou Consultorias que não incluem todos os custos e geram aditivos.
+
+(v) AS AÇÕES MITIGADORAS
+
+- Organizar uma estrutura hierárquica clara entre o setor licitatório e a Secretaria responsável pela Aquisição, com o acompanhamento da
+Unidade de Gerenciamento do Programa - UGP, para evitar erros, atrasos e contratações deficientes.
+
+- Elaboração de documentos licitatórios bem documentada por técnico especializado na área específica abrangendo todos os requisitos
+legais, técnicos  e financeiros necessários a contratação de uma empresa com condições de técnicas e financeiras para execução dos
+serviços.
+
+- Elaborar um edital bem claro e sem margem a interpretações, o que pode evitar interferências e implementação de projetos de má
+qualidade.
+
+- Assegurar que os licitantes sejam qualificados e tenham competência técnica, ética e moral para executar os contratos.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Não está prevista a necessidade de desapropriação, porque os locais das intervenções serão realizadas em terrenos da Prefeitura.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 30
+
+(I) A SITUAÇÃO DOS LICENCIAMENTOS/AUTORIZAÇÕES REQUERIDOS (ESTUDOS, TIPO DE LICENCIAMENTO, ENTIDADES
+
+RESPONSÁVEIS PELA SOLICITAÇÃO E PELA EMISSÃO DAS LICENÇAS, ETC.)
+
+TIPO DE LICENCIAMENTO: O processo de licenciamento é todo digital, o que possibilita cidadão o acompanhamento das requisições de
+maneira online. De posse de login e senha personalizados, é possível ver todo o andamento de solicitações processuais. Em
+consequência, não precisa enfrentar filas enormes, sem burocracia e sem desgastes desnecessários, o investimento no software, tem
+como objetivo o encaminhamento de solicitações, análise, monitoramento e fiscalização ambiental,assinado digitalmente para controle de
+emissão de Licenças por QR Code com Notificação por SMS e e-mail do andamento do Processo, Aplicativo Mobile com acesso a toda
+aplicação, garantindo ao munícipe agilidade, transparência e qualidade no atendimento.
+
+ENTIDADES RESPONSÁVEIS PELA SOLICITAÇÃO: Os responsáveis pela solicitação dos Licenciamentos são as Secretarias Municipais
+da Prefeitura de Cachoeiro de Itapemirim, de acordo com sua competência definida nos regimentos internos. Assim, as solicitações de
+Licenciamento seguirão as seguintes divisões:
+
+- Licenciamento das obras de Macrodrenagem: Secretaria Municipal de Obras.
+
+- Licenciamento das obras de Mobilidade e Acessibilidade Urbana: Secretaria Municipal de Obras.
+
+- Licenciamento das obras de Infraestrutura Social: Secretaria Municipal de Obras.
+
+- Licenciamento das obras de Meio Ambiente e Recursos Hídricos: Secretaria Municipal de Urbanismo, Desenvolvimento e Meio Ambiente
+.
+
+ENTIDADE RESPONSÁVEL PELA EMISSÃO DAS LICENÇAS
+
+O órgão competente para licenciamento ambiental de todas as intervenções do Programa é a Secretaria Municipal de Urbanismo,
+Desenvolvimento e Meio Ambiente.
+
+(II) OS PRINCIPAIS RISCOS AMBIENTAIS DECORRENTES DA IMPLEMENTAÇÃO DO PROGRAMA
+
+Os principais riscos ambientais decorrentes da implantação do Programa são alterações no ambiente natural e biológico,  principalmente
+durante a fase de execução das do Programa, pois altera a dinâmica local, causando instabilidade e desequilíbrio ambiental.
+
+Como resultado, os principais riscos ambientais potenciais podem ser assim relacionados:
+
+- Risco de contaminação do solo ou da água devido ao descarte inadequado de resíduos sólidos
+
+- Ameaça de mudança na qualidade do ar
+
+- Risco de alteração nos níveis de ruído e vibração
+
+- Risco de Interrupção do Serviço Público de Água, Esgoto, Energia e Telefone
+
+- Risco de paralização das atividades econômicas.
+
+(III) A EXPERIÊNCIA DO ÓRGÃO EXECUTOR COM AS POLÍTICAS/SALVAGUARDAS AMBIENTAIS DO AGENTE FINANCEIRO
+
+O município de Cachoeiro de Itapemirim não tem experiência com direta com as Políticas e Salvaguardas Ambientais do Banco de
+Desenvolvimento da América Latina - CAF. A Prefeitura tem uma estrutura e equipe técnica experiente, que tem muita experiência em
+licenciamentos de obras do porte as relacionadas no Programa, e tem suas próprias políticas ambientais, com plena condições para
+atender o que está determinado sobre as questões ambientais no contrato de empréstimo com a CAF.
+
+(IV) OS RISCOS
+
+Os principais riscos ambientais decorrentes da implementação e operação das obras do Programa: drenagem; mobilidade e acessibilidade
+urbana; ampliação de equipamentos sociais, que fazem parte das componentes do programa, serão elencados segundo os aspectos
+ambientais e possíveis impactos ambientais (riscos ambientais mais prováveis) correlatos, conforme segue abaixo.
+
+Os principais riscos ambientais associados ao desenvolvimento das atividades do programa (possíveis impactos positivos e negativos) são
+:
+
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 31
+
+- Fase  de planejamento: aquisição de serviços profissionais; definição de formas locais; características ambientais do território;
+identificação das infraestruturas de serviços públicos existentes (cadastro das interferências).
+
+- Fase de implantação do programa:
+
+Impactos negativos: geração de resíduos sólidos; perda de vegetação; fazer barulho; risco de contaminação do solo; área de depósitos e
+empréstimos não licenciados;  impacto no tráfego local; Emissão de poeira e partículas. emissão de ruído;  risco de danos à casa do
+projeto; Risco de danos estruturais devido à vibração. obstrução do fluxo de veículos; inconveniência aos vizinhos; desconforto ambiental;
+risco de acidentes de trabalho.
+
+Impactos positivos: geração de emprego e renda; promoção comercial; provisão de emprego temporário; desenvolvimento do setor
+terciário; circulação de moeda; Arrecadação de impostos; desenvolvimento comercial.
+
+- Após a conclusão do programa: melhoria da qualidade ambiental, redução de doenças de veiculação hídrica, aumento do comércio;
+incentivos turísticos; maior arrecadação de impostos; oportunidades sociais; paisagismo maior; redução de problemas de saúde,
+especialmente doenças de veiculação hídrica; redução da poluição do solo e da água; fortalecimento do desenvolvimento econômico
+regional; Aumentar a consciência ambiental da população.
+
+(V) AS AÇÕES MITIGADORAS
+
+Como ações mitigadoras para os riscos existe nos licenciamentos ambientais de cada intervenção uma lista com todas as medidas de
+prevenção e ações de acompanhamento que compõem o Plano Ambiental, nas várias fases das obras para não haver risco de impactos
+permanentes no meio ambiente.
+
+A equipe da Prefeitura responsável pela implantação do Programa, que farão parte da Unidade de Gerenciamento do Programa - UGP,
+juntamente com a equipe da Secretaria Municipal de Urbanismo, Desenvolvimento e Meio Ambiente terá um setor responsável pelo
+acompanhamento e supervisão ambiental de todas as obras e intervenções do Programa, registrando e orientando todas os cuidados
+ambientais a serem tomados de forma preventiva.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+(I) RISCOS SOCIAIS DECORRENTES DA IMPLEMENTAÇÃO DO PROGRAMA SOBRE A POPULAÇÃO; MINORIAS SOCIAIS,
+
+VULNERÁVEIS, BAIXA RENDA E POPULAÇÕES TRADICIONAIS COMO: INDÍGENAS, QUILOMBOLAS, EXTRATIVISTAS E OUTRA
+
+Não existe nenhuma interferência negativa sobre as populações tradicionais: minorias sociais, vulneráveis, baixa renda e populações
+tradicionais como: indígenas, quilombolas, extrativistas e outras, decorrentes da implementação do Programa.
+
+Pelo contrário, as ações do Programa estão voltadas para trazer benefícios diretos as populações compostas pelas minorias sociais,
+vulneráveis e de baixa renda.
+
+Em geral, o impacto social da implementação do Programa é mais negativo do que positivo, pois os moradores locais sofrem com
+interrupções no trabalho, alterações no trânsito, visitas, alterações na qualidade do ar, qualidade da água, poluição do solo e  sonora.
+Porém, considera-se que o impacto social do Programa será altamente positivo, em função dos benefícios diretos a população vulnerável
+do município a serem derivados das ações do Programa, principalmente nas intervenções de macrodrenagem,  mobilidade e
+acessibilidade urbana, geração de emprego e renda, desenvolvimento econômico, melhoria no atendimento dos serviços públicos.
+
+(II) A EXPERIÊNCIA DO ÓRGÃO EXECUTOR COM AS POLÍTICAS/SALVAGUARDAS SOCIAIS DO AGENTE FINANCEIRO;
+
+O município de Cachoeiro de Itapemirim tem conhecimento das Políticas e Salvaguardas Sociais do Banco de Desenvolvimento da
+América Latina - CAF, e terá uma equipe no acompanhamento sistemático de todas as ações do Programa para atender o que for
+solicitado pelo Agente Financeiro.
+
+(III) OS RISCOS;
+
+O risco mais importante identificado é o estresse que pode surgir durante a implantação das obras d o Programa: as pessoas entendem
+necessidades e importância das intervenções necessárias, mas os transtornos causados &#8203;&#8203;pelo execução das obras podem
+causar muitos problemas locais.
+
+(IV) AS AÇÕES MITIGADORAS.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 32
+
+A prefeitura de Cachoeiro de Itapemirim terá uma equipe social em uma estrutura local para acompanhar todas as questões de impactos
+sociais que poderão ocorre durante a implantação das intervenções do Programa. Trata-se de um Plantão Social para atender e
+encaminhar as possíveis reclamações e solicitações das populações diretamente afetadas pela execução das ações do Programa. Além
+disso, será elaborado as Diretrizes da Supervisão Ambiental, que visa orientar as questões de caráter social durante a implementação do
+Programa.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Não haverá reassentamentos de famílias no Programa.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+- 27/12/2023: Autorizado na 168ª Cofiex, em 06/09/2023, conforme Resolução Cofiex nº 51, de 06 de setembro de 2023 (SEI 37166434).
+
+Informações relevantes
+
+(cid:10)
+(cid:10)

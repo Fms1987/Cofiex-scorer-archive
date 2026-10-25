@@ -1,0 +1,2536 @@
+# Carta-Consulta CC_61086 — Versao 1 (SIGS)
+
+
+CARTA CONSULTA
+
+Projeto de financiamento para transição sustentável: aceleração do processo de
+eletrificação da frota de ônibus de Salvador
+
+Nº Carta Consulta: 61086
+Mutuário: Município de Salvador - BA
+Tipo de Operação: Operação de crédito externo
+
+Fontes Internas:
+Contrapartida Financeira: US$ 18.750.000,00
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 75.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+O município de Salvador, capital do estado da Bahia, é a quinta cidade mais populosa do Brasil, com aproximadamente 2,4 milhões de
+habitantes e uma área de 700 km², destacando-se também como a terceira maior economia do Nordeste (IBGE, 2023). Seu Índice de
+Desenvolvimento Humano Municipal (IDHM) subiu de 0,65 em 2001 para 0,75 em 2010, impulsionado pelos investimentos em educação e
+saúde. Apesar disso, a cidade segue enfrentando desafios significativos em termos de desenvolvimento, sendo a 12ª entre as capitais e a
+383ª no ranking nacional de IDHM. Quase um milhão de habitantes vive com uma renda domiciliar per capita inferior a R$ 475 por mês,
+abaixo da linha internacional da pobreza (PNAD Contínua, 2021), e 4 em cada 10 residências estão localizadas em aglomerados
+subnormais, a 3ª maior concentração do país, atrás de São Paulo e Rio de Janeiro (IBGE, 2023).
+
+Nesse contexto, o transporte público tem um papel crucial de conectar oportunidades de emprego, educação e serviços, especialmente
+áreas periféricas e difícil acesso. Nele estão 50% dos deslocamentos da população que ganha até três salários-mínimos, enquanto
+apenas 11% são realizados por transporte individual. Em contraste, entre os com renda acima de três salários-mínimos, 54% das viagens
+são feitas por transporte individual, e apenas 30% optam pelo transporte público (Pesquisa OD Salvador, 2012).
+
+O Sistema de Transporte Coletivo por Ônibus (STCO) de Salvador, com uma frota de 1.840 ônibus, incluindo 8 elétricos e 20 padrão
+EURO VI, opera 222 linhas em três bacias operacionais. Assim como em outras cidades brasileiras, o STCO vem enfrentando uma perda
+contínua de passageiros, com uma queda anual de cerca de 3% nas últimas duas décadas. Essa tendência se agravou com a pandemia:
+em 2019, o STCO transportava quase 1,5 milhão de passageiros/dia, diminuindo para aproximadamente 1,2 milhão em 2023,
+representando a perda de 20% na demanda.
+
+Paralelamente, o índice de motorização em Salvador cresceu 22% na última década, passando de 30 para 37 veículos por 100 habitantes
+(Detran BA, 2023). Esse aumento contribui para o aumento dos congestionamentos e gases poluentes. Em 2022, o setor de transporte foi
+responsável por 59% dos quase 3.000 MtCO2e de Gases de Efeito Estufa (GEE) emitidos na cidade (Inventários de GEE de Salvador,
+2022).
+
+A consequente queda da receita tarifária pós-pandemia desequilibrou financeiramente o STCO. O aumento de 81% nos custos
+operacionais, incluindo combustíveis e óleos, e de 112% nos custos de capital para a aquisição de novos ônibus EURO VI em um contexto
+de congelamento da tarifa gerou desequilíbrio econômico-financeiro nos contratos. Isso culminou na necessidade de intervenção em uma
+bacias operacionais, com suas linhas sendo posteriormente redistribuídas entre as duas SPEs remanescentes.
+
+Também dificultou a renovação da frota, crucial para manter a qualidade do serviço e controlar os custos operacionais. Com uma idade
+média de 7,8 anos, a frota excede o limite contratual de 4 anos, o que eleva os custos operacionais, reduz a disponibilidade de ônibus
+devido às frequentes manutenções, penalizando os passageiros, e aumenta as emissões atmosféricas.
+
+Esse cenário cria um ciclo vicioso negativo: os custos operacionais tendem a aumentar anualmente devido ao encarecimento do diesel e à
+crescente necessidade de manutenção de uma frota mais velha, o que pressiona o valor da tarifa. Por outro lado, se a tarifa for reajustada
+,  a atratividade do transporte público diminui, impulsionando a migração para veículos particulares e motocicletas, o que intensifica os
+problemas de mobilidade urbana e os impactos ambientais.
+
+A fim de evitar maior perda de passageiros e o colapso do sistema do STCO, a Agência Reguladora e Fiscalizadora dos Serviços Públicos
+de Salvador (ARSAL) destacou a necessidade de medidas para preservar a viabilidade econômica das concessões, incluindo subsídios e
+a remissão dos débitos de outorga, de modo a evitar a excessiva oneração dos passageiros. O Poder Legislativo promulgou a Lei n°9.762/
+23, autorizando subsídios ao transporte público por ônibus. Em novembro de 2023, a tarifa pública aumentou de R$4,90 para R$5,20, com
+a tarifa de remuneração das concessionárias fixada em R$5,50. O Poder Executivo subsidiará a diferença nos exercícios de 2023 e 2024.
+
+Para melhorar a atratividade do sistema, em 2022 a cidade implementou seu primeiro BRT, ligando os principais polos econômicos da
+cidade e reduzindo em 30% o tempo de viagem para mais de 40 mil passageiros. Visando uma  mobilidade sustentável, o sistema inclui
+frota elétrica, ciclovias e reestruturação de linhas tronco-alimentadas. Na fase inicial, o município adquiriu 8 ônibus elétricos e implementou
+, com recursos próprios, o 1º Eletroterminal de recarga. Agora, o município busca financiamento para a frota elétrica para completar a frota
+do BRT e renovar parte da frota do STCO com ônibus elétricos.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+- Solução proposta
+
+A cidade de Salvador está empenhada na melhoria da qualidade do transporte público e na redução de emissões de gases poluentes.
+Seguindo as diretrizes do PlanMob Salvador, da Política Municipal de Mobilidade (Lei 9.372/2018) e do Compromisso assinado em 2020
+pelo Plano de Adaptação e Mitigação às Mudanças Climáticas (PMAMC), a cidade estabeleceu metas específicas para enfrentar a crise
+climática. No eixo dos transportes, a meta é ter, pelo menos, 30% da frota do BRT composta por ônibus de emissão zero até 2024, e 40%
+da frota movida por veículos limpos e menos poluentes até 2032, visando alcançar a neutralidade de carbono até 2049.
+
+Com a implementação do BRT e do primeiro Eletroterminal, o município de Salvador agora busca financiamento externo para expandir a
+frota elétrica do BRT e renovar parte da frota do STCO. O município visa adquirir, pelo menos, 120 ônibus elétricos.
+
+(cid:10)
+
+
+Página: 3
+
+Em sintonia com os desafios da descarbonização do transporte, o projeto busca impulsionar a mobilidade sustentável. Isso envolve
+estudos para apoiar políticas públicas que favoreçam o transporte coletivo, incentivando a transição do transporte privado para o público.
+Dessa forma, aprimorar a qualidade do transporte público deve coincidir com soluções que promovam a sustentabilidade do sistema,
+reduzindo externalidades negativas.
+
+Outra medida prevista é a implementação de políticas de gênero. Embora Salvador seja a capital brasileira com a maior proporção de
+mulheres com 54% da população, elas correspondem a 39% do total de usuários de ônibus. Isso ressalta a necessidade de tornar o
+transporte coletivo um ambiente mais seguro, atrativo e confortável para as mulheres.
+
+As atividades do projeto estão divididas em 3 componentes:
+
+Componente 1. Mobilidade Urbana
+
+1.1 Aquisição de 120 ônibus elétricos (a depender do câmbio/preços dos modelos) para operação no sistema municipal;
+
+1.2 Financiamento de Eletroterminais;
+
+1.3 Investimentos em segurança viária, acessibilidade e tecnologia para os corredores
+
+Componente 2. Melhoria institucional: Ações de promoção sustentabilidade, inclusão social e gênero. São previstos estudos técnicos e
+ações de fortalecimento institucional, incluindo:
+
+2.1 Revisão do PlanMob: apoiar transição energética e promoção da sustentabilidade e diversidade de gênero;
+
+2.2 Medidas de incentivo ao transporte público/desincentivo ao modo individual motorizado;
+
+2.3 Aquisição de Equipamentos/Sistemas para o melhorar a gestão operacional;
+
+2.4 Projeto "Fast track" para ampliar diversidade e de igualdade de gênero no sistema.
+
+Componente 3. Gestão do Projeto
+
+
+### 3.1 Apoio ao programa e supervisão do processo
+
+
+### 3.2 Auditoria externa
+
+
+- Resultados Esperados
+
+A eletrificação da frota do BRT e do STCO, objeto desta proposta, visa reduzir as externalidades negativas da mobilidade urbana, reduzir
+as emissões de poluentes, melhorar a qualidade e atratividade do sistema e, simultaneamente, aumentar sua sustentabilidade econômico-
+financeira.
+
+A expansão da frota elétrica no sistema municipal traz ganhos operacionais significativos, pois os novos ônibus circularão em corredores
+exclusivos estabelecidos pelo PlanMob Salvador. Além disto, há uma diminuição direta das emissões devido à transição elétrica, além da
+melhoria na eficiência através do racionamento do sistema convencional, reduzindo a quantidade de ônibus à diesel em operação e,
+consequentemente, suas emissões. Tais benefícios foram estimados em 2019, com o Plano Operacional (POP2020), que definiu a rede
+de BRT/BRS com adoção de ônibus elétricos, incluindo a redução da (i) emissão de poluentes; (ii) de acidentes de trânsito; (iii) dos gastos
+operacionais; além (iv) do tempo médio de viagem.
+
+Alguns desses benefícios já podem ser observados com o início da operação do BRT elétrico, resultados que serão ampliados com o
+objeto deste financiamento. Um exemplo claro é a redução do tempo de viagem para a população vulnerável: o trajeto entre a Rodoviária
+e a Pituba, que antes levava 45 minutos, agora com o BRT leva 16 minutos. Esta melhoria se deve aos corredores exclusivos livres de
+congestionamentos e sem percursos negativos. Além disso, os investimentos nas frotas elétricas do BRT melhoram a percepção de
+qualidade do transporte e aumenta sua atratividade, beneficiando a redução de ruídos e trepidações. A migração modal já é notável: em
+menos de um ano de BRT, houve um aumento de 10% no número de passageiros que possuem automóvel, mas optam pelo transporte
+coletivo (Pesquisa de satisfação, 2022).
+
+A expansão da frota elétrica possibilitará o amplo aproveitamento do 1º Eletroterminal de Recarga da cidade, atualmente o maior do Brasil
+em potência e capacidade. Situado em área pública e capaz de recarregar simultaneamente 20 ônibus, utiliza 10 carregadores duplos de
+160 kWh e potencial para atender mais de 40 ônibus. O eletroterminal foi implantado estrategicamente no corredor, mitiga riscos
+operacionais, e aumenta a eficiência energética: após a recarga não há quilometragem ociosa. A expansão da eletrificação também será
+acompanhada pela implantação de novos Eletroterminais.
+
+Adicionalmente, espera-se aumentar a participação feminina no sistema visando diversificação de gênero. Este objetivo será alcançado
+por meio de um programa de treinamento "fast track" para mulheres e indivíduos LGBTQIA+ na categoria diamante, qualificação
+necessária para conduzir o BRT.
+
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+- Sustentabilidade
+
+Espera-se uma redução expressiva de poluentes e material particulado, impactando positivamente na saúde pública. Com a transição de
+ônibus a diesel para elétricos, se prevê uma diminuição anual de 75% nas emissões de MP, 44% em CO2 e 73% em Nox (WRIBrasil,
+2022). Em 30 anos, essa mudança pode prevenir cerca de mil hospitalizações e 45 mortes por doenças cardiovasculares e respiratórias,
+resultando um benefício econômico de R$ 12,7 e R$ 95 milhões, respectivamente.
+
+Conforme o Relatório BUCA(C40 & FIOCRUZ), a expectativa de vida da população pode aumentar em média 8 dias, com impactos
+econômicos de até R$ 72 milhões.Por fim, a transição prevê uma redução de até 30% nos custos operacionais, tanto em combustível
+quanto manutenção (Steer, 2023). O início da operação do BRT com ônibus elétricos já demonstrou ganhos econômicos significativos: R$
+0,90/km com energia elétrica, comparado a R$ 2,08/km com diesel.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+A presente proposta está alinhada aos objetivos do Governo Federal e da Política Nacional de Mobilidade Urbana  (PNMU Lei Nº 12.587,
+de 3 de janeiro de 2012), que estabelece a prioridade dos serviços de transporte público coletivo sobre o transporte individual motorizado.
+
+Está fundamentado no Programa de Governo da atual administração, constando no Plano Plurianual (PPA) de Salvador, especificamente
+no Eixo Capital da Mobilidade (pag.47-50), onde são destacados impactos ambientais positivos da adoção de ônibus zero emissões e
+menos poluentes a fim de tornar a capital mais sustentável e acessível, especialmente com a operação em corredores exclusivos, o que
+eleva a eficiência operacional.
+
+Em 2017, Salvador desenvolveu a Estratégia Salvador Resiliente, um plano de longo prazo que estabelece iniciativas e políticas públicas.
+As iniciativas se distribuem em cinco pilares: Cultura e Múltiplas Identidades, Comunidade Saudável, Economia Diversificada e Inclusiva,
+Cidade Informada e Governança Inovadora, e Transformação Urbana Sustentável. A iniciativa 54 destaca a implantação do BRT visando
+melhor qualidade de vida, diminuindo o tempo de viagem, reduzindo emissões de poluentes, aprimorando a segurança viária e
+incentivando a atividade física com ciclovias.
+
+Além disso, o PlanMob Salvador, alinhado à PNMU, propõe medidas para reduzir o impacto ambiental do sistema de mobilidade urbana.
+Isso inclui a diminuição de emissões de poluentes, a redução do impacto em áreas urbanas e a racionalização da matriz de transportes do
+município, priorizando modos de transporte com menor impacto ambiental.
+
+O planejamento estratégico da gestão 2020-2024 prevê a eletrificação da frota do BRT e de parte do STCO. Essa meta complementa o
+compromisso assumido em 2020 pelo Plano de Adaptação e Mitigação às Mudanças Climáticas (PMAMC), que estabelece pelo menos 30
+% da frota do BRT seja de ônibus zero emissões, e que até 2032, 40% da frota seja movida por veículos limpos e menos poluentes,
+visando alcançar a neutralidade de carbono até 2049.
+
+Em 2023, a cidade também atualizou seu inventário de emissões de gases de efeito estufa e desenvolveu um Plano Operacional para
+viabilizar a frota elétrica, incluindo dois projetos: o POP2020 e sua atualização, o RETRANSP, onde estão contemplados parâmetros
+operacionais necessários para viabilizar a implantação da operação dos Sistemas BRT e BRS em corredores estruturantes a utilização de
+veículos elétricos.
+
+Contrapartida
+
+A presente Carta Consulta prevê investimentos totais de US$ 93.750.000,00 (noventa e três milhões e setecentos e cinquenta mil dólares
+norte-americanos), sendo US$ 75 milhões financiados pelo Banco Internacional de Reconstrução e Desenvolvimento (BIRD Banco
+Mundial) e US$ 18.750 milhões de contrapartida do município. A origem da contrapartida está em conformidade com a Resolução COFIEX
+no 3/2019.
+
+Taxa de câmbio
+
+A taxa de câmbio é de R$ 4,8901 PTAX de venda em relação ao REAL de acordo com o Banco Central data 10/1/24
+
+2. Projeto
+
+### 2.1. Título
+
+
+Projeto de financiamento para transição sustentável: aceleração do processo de eletrificação da frota de ônibus de Salvador
+
+
+### 2.2. Título Abreviado
+
+
+SALVADOR ELÉTRICA E INCLUSIVA
+
+
+### 2.3. Mutuário
+
+
+Município de Salvador - BA
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Objetivo Geral
+
+O objetivo geral do projeto é promover a mobilidade sustentável, por meio da descarbonização e incentivos ao uso do transporte coletivo,
+contribuindo para a inclusão social, igualdade de gênero e a melhoria da qualidade dos serviços para a população.
+
+Objetivos Específicos
+
+Estão compreendidos como objetivos específicos:
+
+- Promover a sustentabilidade ambiental, reduzindo as emissões atmosféricas resultante da substituição de cerca de 120 ônibus
+municipais a diesel por ônibus elétricos, incluindo GEE e poluentes locais;
+
+- Aumentar a eficiência energética do sistema de transporte público com uso de energia de fontes renováveis;
+
+- Aumentar a satisfação dos usuários com a qualidade do transporte público, com redução de ruído e vibrações, encorajando a migração
+de modal e promovendo maior integração social;
+
+- Fortalecer e capacitar a prefeitura na adaptação, gestão e fiscalização da operação de ônibus elétricos;
+
+- Aumentar a segurança viária no sistema do BRT, melhorando acessibilidade e mobilidade ativa;
+
+- Implantar equipamentos/sistemas de inteligência para aumentar a eficiência operacional
+
+- Aprimorar a gestão do sistema e tecnologia embarcada no processo de digitalização;
+
+- Melhorar o acesso dos grupos vulneráveis ao transporte público, inclusão de gênero e aumento da diversidade;
+
+- Gerar empregos para mulheres através da capacitação para cargos de motorista, com foco na população de baixa renda;
+
+- Melhorar o ambiente de negócios das concessões de transporte através da melhor sustentabilidade econômico-financeira do sistema.
+
+
+### 2.6. Projeto/Indicadores
+
+
+Descrição
+Redução de emissão de CO2 derivada da
+substituição por elétricos em 3 anos
+
+Fórmula de Cálculo Unidade de Medida
+(Veículos Diesel
+substituídos x km
+média/dia x dias no
+ano x 2.131g/km CO2)
+
+Ton CO2
+
+
+Página: 6
+
+Meta
+23.334,00
+
+Linha de Base
+0,00
+
+Quantidade de ônibus elétricos
+
+Aumento da satisfação dos Passageiros
+
+Melhoria da gestão operacional do sistema de
+transporte público
+Aumento da diversidade de gênero entre
+motoristas capacitadas para o BRT
+
+Redução dos custos de rodagem por km dos
+diesel que serão substituidos pelos elétricos
+Redução do custo operacional com rodagem,
+combustível, lubrificantes e manutenção dos
+diesel que serão substituidos pelos elétricos
+
+Redução de emissões de NOx deriviado da
+substituição dos veículos a diesel por elétricos
+
+Redução de Material Particulado derivada da
+substituiçao dos veículos diesel por elétricos
+
+Unidades
+
+Média da Satisfação
+geral
+
+Número de
+servidores
+Mulheres
+
+R$ / km
+
+%
+
+%
+
+%
+
+Número de veículos
+elétricos operando no
+BRT e STCO
+Pesquisa de
+satisfação com escala
+de 1 a 5
+Número de servidores
+envolvidos
+Número mulheres
+capacitadas para
+categoria diamante
+Custo de consumo por
+km
+Média do valor mensal
+dos custos da
+operação dos ônibus
+elétricos / ônibus a
+diesel
+(Veículos Diesel x km
+média/dia x dias no
+ano x Xg/km NOx) - (
+veículos elétricos x km
+média/dia x dias no
+ano x Xg/km NOx)
+(Veículos Diesel x km
+média/dia x dias no
+ano x Xg/km MP10) - (
+veículos elétricos x km
+média/dia x dias no
+ano x Xg/km MP10)
+
+
+### 2.7. Projeto/Componentes
+
+
+Componentes
+C - MOBILIDADE URBANA
+S - MOBILIDADE URBANA SUSTENTÁVEL
+P - Aquisição de Ônibus Elétricos
+P - Aquisição de Equipamentos de Recarga
+P - Implantação de Eletroterminais de Recarga
+S - SEGURANÇA VIÁRIA
+P - Microacessibilidade e segurança
+P - Implantação de tecnologia para os corredores de BRT
+C - MELHORIA INSTITUCIONAL
+S - FORTALECIMENTO DAS AÇÕES DA SEMOB
+P - Revisão e atualização do PlanMob Salvador
+P - Aquisição de Equipamentos e Sistemas para aperfeiçoamento da gestão operacional
+P - Fast Track para diversidade de genero entre motoristas do BRT
+P - Estudos de impactos da mudança do clima
+P - Estudos para apoio na transição para Eletromobilidade
+P - Formular medidas de incentivo ao transporte público e desincentivo ao transporte individual privado
+motorizado
+C - GESTÃO DO PROJETO
+S - GESTÃO DO PROGRAMA
+P - Apoio Técnico ao Programa
+P - Supervisão do processo e serviços
+P - Auditoria Externa
+S - CUSTOS DE FINANCIAMENTO
+P - Comissão Inicial (0,25%)
+P - Comissão de Compromisso (0,25% sobre saldo não desembolsado)
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+8,00
+
+2,40
+
+0,01
+
+0,01
+
+2,10
+
+0,01
+
+120,00
+
+2,75
+
+50,00
+
+35,00
+
+1,50
+
+25,00
+
+0,01
+
+8,00
+
+0,01
+
+8,00
+
+Valor(US$)
+90.870.000,00
+83.070.000,00
+75.470.000,00
+4.000.000,00
+3.600.000,00
+7.800.000,00
+3.800.000,00
+4.000.000,00
+2.163.750,00
+2.163.750,00
+150.000,00
+1.330.000,00
+40.000,00
+170.000,00
+200.000,00
+273.750,00
+
+716.250,00
+435.000,00
+127.500,00
+102.500,00
+205.000,00
+281.250,00
+187.500,00
+93.750,00
+93.750.000,00
+
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - MOBILIDADE URBANA
+Componente principal de investimentos
+
+S - MOBILIDADE URBANA SUSTENTÁVEL
+Subcomponente principal referente à aquisição de frota
+
+P - Aquisição de Ônibus Elétricos
+aquisição de pelo menos 120 ônibus elétricos movidos a bateria
+
+
+Página: 7
+
+P - Aquisição de Equipamentos de Recarga
+aquisição de equipamentos de recarga do tipo plugin CCS2 ou contactless de, pelo menos 80 kWh por pistola, ou,
+preferencialmente, pelo menos, 160kWh por equipamento
+
+P - Implantação de Eletroterminais de Recarga
+implantação de pavimento rígido e infraestrutura necessária para apoio com módulos de conforto para motoristas e funcionários da
+operação do eletroterminal de recarga;
+
+S - SEGURANÇA VIÁRIA
+Itens relacionados a melhoria operacional, segurança viária, acessibilidade e ampliação de mobilidade ativa
+
+P - Microacessibilidade e segurança
+Implantação de melhoria da acessibilidade das Estações do BRT visando melhoria de passeios e mobilidade ativa: implantação de
+melhorias em segurança viária e ampliação de capilaridade da mobilidade ativa dos corredores
+
+P - Implantação de tecnologia para os corredores de BRT
+Implantação de tecnologia para os corredores de BRT: câmera e semáforos inteligentes para priorização dos coletivos que
+trafegam nos corredores, aumentando eficiência operacional e segurança viária
+
+C - MELHORIA INSTITUCIONAL
+Itens necessários para melhoria e desempenho institucional, além de mitigação de riscos futuros
+
+S - FORTALECIMENTO DAS AÇÕES DA SEMOB
+Itens de fortalecimento institucional para a SEMOB e o BRT
+
+P - Revisão e atualização do PlanMob Salvador
+Revisão e atualização do PlanMob Salvador: fortalecimento do apoio e maturação do processo de transição energética, promoção
+da sustentabilidade ambiental, social e diversidade de gênero;
+
+P - Aquisição de Equipamentos e Sistemas para aperfeiçoamento da gestão operacional
+Aquisição de Equipamentos e Sistemas para aperfeiçoamento da gestão operacional: implantar melhorias para aumentar
+capacidade interna institucional para maior autonomia e segurança na gestão operacional, ampliando acesso a dados e
+informações operacionais em tempo real e apoiando na tomada de decisão;
+
+P - Fast Track para diversidade de genero entre motoristas do BRT
+Projeto "Fast track" para diversidade de gênero entre motoristas/operação BRT: criação de um projeto para viabilizar um acesso
+rápido, fortalecendo a diversidade de gênero entre motoristas e operadores do sistema de BRT na capital, aumentando a
+diversidade na categoria diamante do sistema;
+
+P - Estudos de impactos da mudança do clima
+Estudos de impactos da mudança do clima p/ mitigação de riscos à eletromobilidade: consultoria para avaliação de impactos que
+podem refletir na operação de ônibus elétricos em Salvador considerando possíveis riscos indiretos na matriz energética causados
+pela mudança do clima;
+
+P - Estudos para apoio na transição para Eletromobilidade
+Estudos para apoio na transição para Eletromobilidade: contratação de estudos específicos para detalhamento das operações da
+frota elétrica em Salvador e assegurar a tomada de decisões na redução de custos operacionais e mitigação de riscos;
+
+P - Formular medidas de incentivo ao transporte público e desincentivo ao transporte individual privado motorizado
+Formular medidas de incentivo ao transporte público e desincentivo ao transporte individual privado motorizado: mapear
+fragilidades e vantagens a serem exploradas para a criação de um programa de incentivos para encorajar maior adesão de
+passageiros nos coletivos e reduzir a atratividade do transporte individual
+
+C - GESTÃO DO PROJETO
+Componente com itens necessários para gestão do processo com segurança e transparência
+
+S - GESTÃO DO PROGRAMA
+Gestão do programa
+
+
+Página: 8
+
+P - Apoio Técnico ao Programa
+apoio Técnico ao Programa: apoio técnico para gestão do projeto e do programa
+
+P - Supervisão do processo e serviços
+Supervisão do processo e serviços: consultores para supervisionar serviços e apoiar na fluidez do processo
+
+P - Auditoria Externa
+auditoria externa transparência do processo
+
+S - CUSTOS DE FINANCIAMENTO
+Itens relacionados aos custos de financiamento
+
+P - Comissão Inicial (0,25%)
+- CUSTOS DE FINANCIAMENTO
+Comissão Inicial (0,25%)
+
+P - Comissão de Compromisso (0,25% sobre saldo não desembolsado)
+Comissão de Compromisso (0,25% sobre saldo não desembolsado) *
+
+Categoria de Gasto
+
+Obras
+P- Implantação de Eletroterminais de Recarga
+P- Microacessibilidade e segurança
+
+Bens
+P- Aquisição de Ônibus Elétricos
+P- Aquisição de Equipamentos de Recarga
+P- Implantação de tecnologia para os corredores
+de BRT
+P- Aquisição de Equipamentos e Sistemas para
+aperfeiçoamento da gestão operacional
+Consultoria
+P- Revisão e atualização do PlanMob Salvador
+P- Estudos de impactos da mudança do clima
+P- Estudos para apoio na transição para
+Eletromobilidade
+P- Formular medidas de incentivo ao transporte
+público e desincentivo ao transporte individual
+privado motorizado
+P- Apoio Técnico ao Programa
+Outros
+P- Fast Track para diversidade de genero entre
+motoristas do BRT
+P- Supervisão do processo e serviços
+
+P- Auditoria Externa
+P- Comissão Inicial (0,25%)
+P- Comissão de Compromisso (0,25% sobre saldo
+não desembolsado)
+Total Geral
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Unidade de medida
+-
+Eletroterminais
+Entorno das
+estações
+-
+Unidades
+Pontos de recarga
+Pontos críticos
+
+Implantação
+
+-
+Revisão
+Estudos
+Estudos
+
+Relatório de ações
+
+Apoio
+-
+% de diversidade
+
+Serviços de
+supervisão
+Serviço de auditoria
+Comissão
+Comissão
+
+-
+
+Meta
+
+Valor
+
+% Financeiro
+
+-
+2,00
+12,00
+
+-
+120,00
+45,00
+20,00
+
+1,00
+
+-
+1,00
+1,00
+1,00
+
+1,00
+
+1,00
+-
+10,00
+
+1,00
+
+1,00
+0,25
+1,00
+
+-
+
+7.400.000,00
+3.600.000,00
+3.800.000,00
+
+84.800.000,00
+75.470.000,00
+4.000.000,00
+4.000.000,00
+
+1.330.000,00
+
+921.250,00
+150.000,00
+170.000,00
+200.000,00
+
+273.750,00
+
+127.500,00
+628.750,00
+40.000,00
+
+102.500,00
+
+205.000,00
+187.500,00
+93.750,00
+
+7,89
+3,84
+4,05
+
+90,45
+80,50
+4,27
+4,27
+
+1,42
+
+0,98
+0,16
+0,18
+0,21
+
+0,29
+
+0,14
+0,67
+0,04
+
+0,11
+
+0,22
+0,20
+0,10
+
+93.750.000,00
+
+100,00
+
+Foram realizados estudos detalhados, incluindo o desenvolvimento de um plano operacional, que avaliaram o impacto ambiental,
+econômico e social da introdução de ônibus elétricos no BRT de Salvador. Esses estudos foram fundamentais para embasar o projeto e
+dar maior segurança na tomada de decisão e articulação com os operadores atuais. Além disto, vale ressaltar Projetos e Implantação de
+suas obras, Termos Referência para Consultorias e Instrumentos Legais que foram articulados para viabilização deste processo.
+
+- Testes com ônibus elétricos em (2017):
+
+Articulado entre fabricante e operador, um primeiro modelo de ônibus elétrico à bateria entrou em operação para avaliação de
+desempenho.
+
+- "Salvador: Benefits of Upgrading the Municipal Bus Fleet" (2018):
+
+Relatório preparado pelo Buro Happold, Fundação Oswaldo Cruz (FIOCRUZ) e C40 sobre impactos ambientais, sociais e econômicos da
+mudança da frota de Salvador para veículos menos poluentes e zero emissões.
+
+
+Página: 9
+
+- Plano de Mobilidade Urbana Sustentável - PlanMob Salvador (2018):
+
+O PlanMob Salvador estudou e definiu as melhores alternativas para o futuro da mobilidade, incluindo indicações para o incentivo à
+mobilidade ativa e a transição para frota mais limpa e eficiente. O plano contempla propostas e programas para os diferentes modos de
+transporte e infraestrutura, visando a melhoria da qualidade de vida dos cidadãos para os próximos 30 anos. Concebido entre os anos de
+2017 e 2018, o seu processo de desenvolvimento está registrado em 8 notas técnicas e 15 relatórios técnicos, com mais de 3 mil páginas
+contemplando desde a caracterização do município a programas e propostas para horizontes futuros. Os documentos estão disponíveis no
+site planmob.salvador.ba.gov.br.
+
+- Lei da Mobilidade Urbana Municipal 9.374/2018:
+
+Institui Política Municipal de Mobilidade Urbana Sustentável e institucionaliza determinações do Plano de Mobilidade Urbana Sustentável -
+PlanMob Salvador
+
+- Lei 9.414/2018 de criação do Fundo Municipal de Mobilidade Urbana - FMMU;
+
+Cria o Fundo Municipal de Mobilidade Urbana - FMMU
+
+- 2o Inventário de Gases de Efeito Estufa de Salvador (2018):
+
+Foi realizado o 2o inventário de gases de efeito estufa, antecedendo assim o desenvolvimento dos trabalhos do Plano de Adaptação e
+Mitigação às mudanças do Clima (PMAMC), que veio a ser concluído em 2020, tendo sido possível apontar ações prioritárias de mitigação
+e adaptação em uma plataforma e conhecimento do inventário de emissões atualizada.
+
+- Plano Operacional de Transportes POP2020 (2019):
+
+Formalizado pelo Contrato de Prestação de Serviços n10/2019 assinado em 17 de junho de 2019 entre o Município de Salvador, através
+da Secretaria Municipal de Mobilidade ? SEMOB, e a empresa SYSTRA ? Engenharia e Consultoria Ltda, com contrato do valor de 1,5
+milhões, o qual foi pago pelo Fundo Municipal de Mobilidade Urbana - FMMU.
+
+Entre as diversas atividades e detalhamentos, o POP2020 indica parâmetros operacionais de cada linha (frota, intervalo, itinerário, tempo
+de viagem, demanda estimada, tipologia dos veículos, dentre outros), bem como os parâmetros das obras de infraestrutura, intervenções
+de microacessibilidade, equipamentos, layout e funcionamento das estações e terminais, controles de acesso, dentre outras, que forem
+necessárias para viabilizar a implantação da operação dos Sistemas BRT e BRS em corredores estruturantes elencados para o ano de
+2020 com a utilização de veículos elétricos.
+
+- Testes com ônibus elétricos (2019):
+
+Provocado pelo município, um novo modelo de ônibus elétricos, compatível com o sistema de BRT de Salvador, entrou em testes
+operacionais. Nesta ocasião, havia sido percebida uma resistência da operação, muitas vezes colocando em pauta questões de
+desempenho, torque e confiabilidade da tecnologia, além de necessitar reorganizar a logística com operações de recarga. Neste sentido,
+foi realizado testes em diferentes contextos com ônibus diesel espelho, operando em linhas longas, curtas, com muito "sobe-desce", em
+topografia acidentada e plana, etc.
+
+Os testes foram um sucesso para o Elétrico, resultando em uma publicação de um artigo científico com parceria entre a Prefeitura de
+Salvador, UFBA e C40 para o Painel de Mudança do Clima da Semana Latino Americana e Caribe do Clima de 2019.
+
+- Semana Latino-Americana e Caribenha sobre a Mudança do Clima em Salvador (2019);
+
+De 19 a 23 de agosto de 2019 foi sediada em Salvador a Semana Latino-americana e Caribenha sobre Mudança do Clima. O evento
+promovido pela ONU e viabilizado pela Prefeitura da cidade do Salvador aconteceu no Salvador Hall (Avenida Paralela). Vale destacar
+que o evento ocorreu em meio a um clima político delicado, uma vez que na ocasião houve um distanciamento do governo federal desta
+pauta que, inclusive, culminou no cancelamento do evento global principal que seria sediado no Brasil. No entanto, o município da cidade
+do Salvador se posicionou fortemente na manutenção e realização do evento, viabilizando esta agenda de extrema importância e
+enriquecendo trocas e decisões sobre procedimentos de adaptação e mitigação para um futuro mais sustentável.
+
+- "Salvador: Cobenefícios da implantação de linhas de BRT e BRS até 2025" (2020);
+
+Relatório preparado pela consultoria iCare e financiado pela C40 que mensura os cobenefícios do BRT e BRS para a população
+soteropolitana.
+
+- 1o Workshop de implementação de ônibus elétricos em Salvador (2020):
+
+Atividade organizada pelo C40 e a Prefeitura de Salvador com a participação dos operadores dos sistemas de transportes coletivos da
+cidade, fabricantes de ônibus elétricos do Brasil e do Mundo, operadores de ônibus elétricos, incluindo trolley bus e ônibus à bateria, e
+empresas de Energia para ampla discussão sobre os melhores caminhos para viabilizar a implantação de ônibus elétricos no sistema.
+
+- 2o Workshop de implementação de ônibus elétricos em Salvador (2021):
+
+
+Página: 10
+
+Atividade organizada pela Prefeitura de Salvador através da iniciativa TUMI, com a participação dos operadores dos sistemas de
+transportes coletivos da cidade, fabricantes de ônibus elétricos do Brasil e do Mundo, operadores de ônibus elétricos do Brasil, e
+empresas de Energia. Nesta ocasião ficou programada uma agenda de reuniões bilaterais, onde foi possível com que os operadores da
+cidade de Salvador pudessem esclarecer todas suas dúvidas, individualmente, com cada ator do processo, seja operadores de empresas
+de energia, fabricantes, e instituições especializadas oferecendo os equipamentos em modalidade de aluguel.
+
+- Análise Institucional e Regulatória para Apoiar o Financiamento de ônibus elétricos na cidade de Salvador ADDAX (2022):
+
+Relatório apresentado em atendimento ao Contrato nº 7203408, de 10 de janeiro de 2022, por meio do qual o BANCO MUNDIAL contratou
+a ADDAX ASSESSORIA ECONÔMICA E FINANCEIRA LTDA. (a ?ADDAX?) para prestar os serviços de ?Análise Institucional e
+Regulatória para apoiar o financiamento de ônibus elétricos na cidade de Salvador? (o ?Projeto?). Assim, a ADDAX desenvolveu este
+estudo de análise e proposta de estruturas de empreendimento para implementação de ônibus elétricos na frota do Sistema de Transporte
+Público Coletivo do Município de Salvador, com apoio do RHEIN SCHIRATO MEIRELES ADVOGADOS (o ?RSM Advogados?), escritório
+de advocacia especializado.
+
+- Testes com ônibus elétricos (2022):
+
+Há cerca de 1 ano da operação do BRT, e em fase de decisão da tipificação da primeira frota a ser adquirida, um dos operadores não
+havia tido ainda experiências com testes com ônibus elétricos. Foi articulado 2 veículos para testagem de desempenho e
+operacionalização em diferentes linhas. O operador realizou um relatório com dados específicos dos testes realizados.
+
+- 3o Workshop de implementação de ônibus elétricos em Salvador (2022):
+
+Atividade organizada pela Prefeitura de Salvador e WRI Brasil, também através da iniciativa TUMI, teve a participação dos operadores dos
+sistemas de transportes coletivos da cidade. Na ocasião, já se sabia exatamente o modelo de ônibus elétrico que havia sido adquirido
+para iniciar as operações da primeira fase do BRT. O workshop permitiu discutir e mitigar riscos, além de ter possibilitado uma construção
+coletiva de um caminho crítico, afinando todas as datas previstas para o início das operações, evitando surpresas e falhas na
+comunicação entre as equipes de planejamento e operação envolvidas.
+
+- Inauguração do primeiro trecho do BRT com Frota Elétrica (2022):
+
+As primeiras unidades de ônibus elétricos chegaram em Salvador entre setembro e dezembro de 2022 para atuar na operação do novo
+BRT Salvador. Um total de oito Ônibus entraram em operação na primeira fase do modal. Os ônibus elétricos do BRT serão do modelo E-
+bus, fabricados pela Eletra Industrial, empresa nacional com larga experiência na produção de veículos elétricos e híbridos. O veículo é
+100% elétrico, e, além de não emitir gases poluentes na atmosfera, são mais silenciosos que os veículos de combustão a diesel. O ônibus
+possui piso baixo, que oferece maior conforto ao usuário no embarque e desembarque, ar-condicionado, e espaço reservado para
+cadeirante.
+
+- Inauguração do primeiro Eletroterminal de Recarga do BRT (2023):
+
+Em setembro de 2023 foi inaugurado o primeiro eletroterminal de recarga da cidade de Salvador. Em área pública, os equipamentos e a
+construção da subestação de energia foram totalmente viabilizados pelo município, tendo sido realizado um processo licitatório em 2022,
+tendo início dos trabalhos e viabilização dos equipamentos em 2023.
+
+O 1o eletroterminal conta com 10 carregadores de pistolas duplas de 160kWh de potência. Essa configuração permite carregar 10 ônibus
+simultaneamente em carga ultra-rápida de 160kWh, ou 20 ônibus simultaneamente em potência de 80kWh. Sua subestação prevista de 2
+MVA permite a expansão para mais 5 pontos, permitindo alcançar até 25 ônibus em recarga simultanea. A Cabine da Subestação e
+Transformador de potência também possuem espaços para expansão de equipamentos, permitindo ampliar a potência e pontos de
+recarga no futuro.
+
+- ImpactAR: impactos do cumprimento das metas da cidade de Salvador (2023):
+
+Relatório realizado pelo WRI Brasil no âmbito da iniciativa TUMI através de uma metodologia aplicada a várias cidades para estimar o
+impacto no cumprimento das metas de eletrificação que serão refletidos na mitigação de emissões, qualidade do ar e saúde da população.
+As projeções foram valoradas através da ferramenta ImpactAR, estimando beneficios econômicos da mudança para frotas limpas.
+
+- Revisão e Reestruturação do Transporte Coletivo - RETRANSP (2023):
+
+Formalizado pelo Contrato de Prestação de Serviços n 001/2022 assinado em 01 de fevereiro de 2022 através da tomada de preços 01/
+2021 - SEMOB, com objetivo de revisar dados do POP2020 realizando uma reestruturação operacional dos serviços de transporte coletivo
+no município.
+
+- Instalação de Painéis Solares para captação de energia nas estações do BRT (2023):
+
+Foram instalados nas estações Hiper e Cidadela do BRT paineis de captação de energia solar, trazendo o exemplo para o dia a dia da
+população.
+
+- Teste com ônibus elétricos 15 metros (2023) - Em andamento:
+
+
+Página: 11
+
+Realizados testes com ônibus elétricos do tipo Padrón de 15 metros, compatível com o sistema de BRT de Salvador, que permitiu avaliar o
+aumento da capacidade e melhor atendimento da demanda para confrontar com desempenhos previstos de ônibus articulados elétricos
+em consumo de energia vs capacidade.
+
+- 3o Inventário de Gases de Efeito Estufa da cidade de Salvador (2023):
+
+Mapeamento das fontes de emissão, os dados de entrada para cada fonte mapeada na cidade
+
+- Lei 9.762/2023 Subvenção ao transporte coletivo (2023):
+
+Autoriza a concessão, por tempo e valor máximo determinados, de subsídio orçamentário ao serviço de transporte público coletivo de
+passageiros por ônibus convencional e ao subsistema de transporte especial complementar; permite desoneração ou anistia do débito da
+outorga prevista na cláusula quinta dos Contratos de Concessão no 05/2014 e no 06/2014, firmados pelo Município; e dá outras
+providências.
+
+- Lei 9.770/2023 Contratação da Operação de Crédito (2023):
+
+Autoriza o Poder Executivo a contratar operação de crédito externo, junto ao Banco Internacional para Reconstrução e Desenvolvimento ?
+BIRD, em nome do Município de Salvador, com garantia da União, na forma que indica, e dá outras providências.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Municipal
+
+MUNICIPIO DE  SALVADOR(BA)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+(i) Condições Financeiras
+
+As premissas utilizadas no modelo econômico-financeiro incluem fonte de recursos de financiamento do BIRD, como segue:
+
+Quadro 3. Condições financeiras da operação
+
+Valor do contato:&#8239;US$ 75.000.000
+
+Prazo de desembolso: 24 meses
+
+Prazo de carência:&#8239;12 meses
+
+Amortização: 180 meses
+
+Prazo total: 180 meses
+
+Periodicidade:&#8239;Semestral
+
+Taxa de Juros
+
+BIRD Taxa de juros: SOFR + 0,50% a.a.
+
+Front End Fee: 0,25% sobre o valor contratado
+
+Comissão de crédito sobre saldo não desembolsado
+
+BIRD Commitment Fee: 0,25% sobre o saldo não desembolsado
+
+(ii) Necessidade de financiamento externo e a opção pelo agente financeiro
+
+A busca por financiamento externo para viabilizar o projeto de aquisição de ônibus elétricos para o BRT em Salvador é respaldada por
+considerações estratégicas e financeiras. A opção por buscar recursos no mercado internacional se fundamenta na possibilidade de
+acesso a condições mais favoráveis, tanto em termos de taxas de juros como de prazos.
+
+A expectativa é de que, ao recorrer a esse modelo de financiamento, seja possível obter taxas de juros mais atrativas em comparação
+com as oferecidas no mercado interno, além disto, é também agregado ao processo a experiência dos técnicos envolvidos pelo agente
+financiador, dando ainda mais segurança ao sucesso do projeto.
+
+(cid:10)
+
+
+Página: 12
+
+A escolha de prazos estratégicos, como prazo de desembolso, carência, amortização e o prazo total da operação em 60 meses, foi
+orientada por uma análise detalhada das necessidades do projeto, permitindo uma adequação às características específicas do ciclo de
+vida dos ônibus elétricos e às capacidades financeiras do município, inclusive, sendo um momento oportuno pelos contratos de concessão
+vigentes terem 15 anos pela frente. A flexibilidade inerente ao financiamento externo possibilita a customização desses prazos,
+proporcionando uma gestão financeira mais alinhada aos requisitos do projeto.
+
+Além disso, a escolha por buscar recursos externos é respaldada pelo potencial de minimizar os impactos fiscais no curto prazo,
+permitindo uma gestão mais eficaz dos recursos internos para outras demandas prioritárias. Essa estratégia contribui para otimizar o uso
+dos recursos locais, direcionando-os para áreas cruciais de investimento público. Ademais, a busca por financiamento externo reforça a
+visão de Salvador como uma cidade inovadora e globalmente integrada, ampliando sua capacidade de atrair investimentos e parcerias
+internacionais.
+
+Em resumo, a opção por financiamento externo é uma escolha estratégica, proporcionando vantagens em termos de custos financeiros e
+flexibilidade de prazos. Essa abordagem visa maximizar os benefícios para o projeto de ônibus elétricos no BRT, permitindo uma
+implementação eficaz e sustentável no contexto financeiro do município de Salvador. Desta forma, abaixo são destacadas vantagens
+pertinentes em relação aos modelos disponíveis de financiamento interno:
+
+- Expertise Técnica do BIRD para preparação do projeto;
+
+- Disponibilidade de crédito no mercado interno ser escassa (o cenário atual nacional disponibiliza apenas 3 Bilhões para todo o país em
+operações internas com garantias da União, nos termos da Resolução CMN no 4995/2022);
+
+- Custo do financiamento externo ser menor que o custo de financiamento interno;
+
+- Estratégia de diversificação da carteira de endividamento;
+
+Por fim, ficou constatado pela Casa Civil da Prefeitura da cidade do Salvador que o BIRD possui melhores condições financeiras entre as
+instituições de grande renome e tradicionais no mercado. Para ficar claro, abaixo são expostos os comparativos:
+
+1.BIRD: CET 5,4% a.a. (SOFR +0,50% + 0,25% a.a. sobre o saldo não desembolsado + 0,25% sobre o valor contratado)
+
+2.BID: CET 6,18% a.a. (SOFR +1,26% +0,75% a.a. sobre o saldo não desembolsado)
+
+3.CAF: CET 6,99% a.a. (SOFR + 1,9% + 0,35% a.a. sobre o saldo não desembolsado + 0,85% sobre o valor contratado)
+
+4.Operação de crédito interno: CET 16,369% a.a. (custo máximo estimado de 119,92% do CDI - Tabela Custo Máximo da STN)
+
+2.11. PROJETO/BENEFICIÁRIO
+
+A aquisição de ônibus elétricos para o BRT e STCO é uma ação estratégica para a melhoria da mobilidade sustentável e terá impacto nos
+seguintes aspectos:
+
+- Mobilidade Sustentável: Introdução de ônibus elétricos no BRT para reduzir emissões e promover deslocamentos mais limpos,
+totalmente integrado com os outros modos de transportes, seja o sistema de Metrô, ônibus convencional ou bicicletas compartilhadas.
+
+- Inclusão Social e de Gênero: Priorização de inclusão de gênero na operação, visando aumentar a diversidade e a representatividade,
+além de criar um ambiente mais convidativo e seguro para maior adesão das mulheres no transporte coletivo.
+
+- Saúde Pública: Redução significativa da poluição do ar, resultando em benefícios diretos na saúde da população, viabilizando impactos
+na economia por evitar internações e óbitos por doenças cardiorespiratórias.
+
+- Inovação Tecnológica: Estímulo ao avanço da tecnologia por meio da adoção de ônibus elétricos e processos digitais, uma vez que
+ônibus elétricos possuem redução de trepidação a bordo e permitem uma maior vida útil de equipamentos digitais embarcados.
+
+- Eficiência Operacional: Redução de custos operacionais por meio da renovação da frota, racionalização de rotas e uso de terminais de
+recarga, reduzindo cada vez mais a frota à diesel em operação através da priorização dos elétricos em rotas de corredores exclusivos.
+
+Impactos do Projeto:
+
+- Social: Melhoria do acesso ao transporte coletivo para grupos vulneráveis, estímulo à migração de modal e promoção de integração
+social.
+
+- Ambiental: Contribuição para a neutralidade de carbono, redução da poluição atmosférica e melhoria na qualidade do ar.
+
+- Econômico: Redução de custos operacionais, estímulo à inovação tecnológica e aumento da produtividade da população.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 13
+
+População Beneficiada:
+
+- Diretamente: 340 mil pessoas no entorno dos corredores de BRT, sendo mais de 600 mil quando somadas as linhas de BRS por onde
+irão trafegar ônibus elétricos, tendo forte impacto em populações de baixa renda, vulneráveis, minorias sociais e jovens.
+
+- Bairros específicos com maior impacto, com características de alta densidade e grande parte com predominância de população
+vulnerável: Os bairros nas adjacências do projeto são, em grande parte, bairros densos e comunidades de baixa e média renda da cidade,
+como Vale das Pedrinhas, Santa Cruz, Vale das Muriçocas, Brotas, Engenho Velho da Federação, Candeal, Itaigara e Pituba possuem
+alta densidade populacional;
+
+- Indiretamente: Toda a população de Salvador, no total de 2,4 milhões de habitantes, além dos visitantes e residentes na região
+metropolitana, devido aos impactos positivos na qualidade do ar e na saúde.
+
+Essas ações visam não apenas aprimorar o transporte público, mas também promover um ambiente urbano mais saudável e inclusivo,
+beneficiando amplamente a cidade de Salvador através desta aquisição de ônibus elétricos para o BRT de Salvador. Esta ação representa
+uma iniciativa abrangente que visa transformar significativamente diversos aspectos da mobilidade urbana. Em suas áreas estratégicas,
+destaca-se a promoção da mobilidade sustentável, com a introdução de ônibus elétricos, consolidando um passo importante em direção a
+um sistema de transporte mais limpo e eficiente.
+
+No âmbito da inclusão social e de gênero, o projeto se propõe a ir além do simples aprimoramento do transporte, buscando a diversidade
+na operação do BRT. Isso não apenas representa um avanço na representatividade, mas também pode servir como catalisador para
+mudanças culturais e sociais mais amplas. Há também a relevância para a saúde pública, pois a redução substancial da poluição
+atmosférica decorrente da adoção de ônibus elétricos contribuirá diretamente para a melhoria da qualidade do ar. Essa medida, por sua
+vez, tem o potencial de impactar positivamente na saúde da população, reduzindo casos de doenças respiratórias e cardiovasculares.
+
+Do ponto de vista econômico, as ações propostas apresentam uma perspectiva de eficiência operacional, com a renovação da frota, a
+racionalização de rotas e a utilização de terminais de recarga. Isso não apenas reduzirá custos operacionais, mas também estimulará a
+inovação tecnológica ao promover a transição para uma frota de transporte público mais sustentável.
+
+Quanto à população beneficiada, quando tratando dos corredores de BRT, a abrangência direta de 340 mil pessoas nos bairros
+mencionados destaca o foco específico em comunidades de baixa renda, vulneráveis, minorias sociais e jovens. Ao somar as linhas de
+BRS do sistema, o impacto pode alcançar um número ainda maior de bairros, superando os 600 mil pessoas impactadas. Contudo, os
+benefícios se estendem para além dessas áreas, alcançando toda a população de Salvador, incluindo visitantes e residentes na região
+metropolitana. A redução das emissões e da poluição atmosférica impacta positivamente não apenas a saúde dos habitantes locais, mas
+também contribui para um ambiente mais saudável para todos.
+
+Em um contexto mais amplo, o projeto deve beneficiar diretamente os passageiros do transporte coletivo, que antes da pandemia
+transportava cerca de 2 milhões de passageiros dia útil, contando passageiros urbanos e metropolitanos de todos modais (RT 01
+POP2020). Neste contexto mais abrangente, a área dos corredores de BRT/BRS, por onde irão trafegar os ônibus elétricos, compõem os
+eixos de destino de uma grande parte do sistema. Com a implementação do projeto, as comunidades da região de abrangência terão
+ganho de tempo com a implementação dos corredores exclusivos combinados à reestruturação da rede que podem chegar a mais de 50
+minutos em bairros mais carentes de Salvador, como a Região da Ribeira, Paripe, Cajazeiras e São Cristóvão. O trajeto de deslocamento
+com o corredor BRT combinado com os modais Metrô/VLT/Monotrilho, todos com alta frequência e em tráfego exclusivo, são responsáveis
+pela alta redução do tempo de viagem.  Também cabe ressaltar que, de acordo com dados do IBGE 2022, Salvador da Bahia é a cidade
+mais negra do Brasil, país em que vive a maior comunidade de afro-descendentes do mundo fora de África, com 83% da população negra
+e parda.
+
+Apesar do projeto ocorrer apenas em território soteropolitano, uma ampla fatia das pessoas impactadas positivamente por este projeto
+virão de áreas metropolitanas, dado que o projeto contempla a área de maior concentração de destinos em Salvador. Essas ações
+articuladas não apenas melhoram a infraestrutura e os serviços de transporte público, mas também estabelecem um precedente para
+iniciativas urbanas sustentáveis, destacando Salvador como uma cidade comprometida com o bem-estar de sua população e o equilíbrio
+ambiental.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Página: 14
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BIRD
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+Valor Proposto
+
+18.750.000,00
+Valor Proposto
+
+75.000.000,00
+
+93.750.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+18.750.000,00
+Valor de Referência US
+$
+75.000.000,00
+
+93.750.000,00
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+INSTITUCIONAL
+
+A Prefeitura do Município de Salvador será o mutuário do programa, cabendo à SEMOB a supervisão e a coordenação do Projeto. Serão
+realizadas contratação e aquisição dos ônibus elétricos e equipamentos de recarga. Fica à carga da SEMOB criar e operacionalizar
+Unidade de Gestão do Projeto (UGP), além de supervisionar os seus trabalhos, realizar pagamentos e aportes financeiros, elaborar, junto
+às concessionárias e fornecedores, os termos, parâmetros e valores de referência para aquisição dos equipamentos e bens, além do
+planejamento da frota, cronograma, cadastro e acompanhamento da entrada de ônibus elétricos no sistema junto às concessionárias.
+
+A SEMOB também deverá mobilizar os atores do processo, como a TRANSALVADOR, autarquia vinculada à SEMOB, que deve trabalhar
+em ações estratégicas da execução no que diz respeito à priorização dos corredores de transporte coletivo. A Casa Civil deve
+acompanhar o processo, uma vez que é sua finalidade assessorar o Chefe do Executivo na formulação do planejamento estratégico e
+orçamentário, inclusive na captação de recursos. O Consórcio BRT Salvador, que, através da INTEGRA, organização sem fins
+econômicos, faz o papel de representação institucional das empresas concessionárias do Serviço de transporte Coletivo por Ônibus (
+STCO) de Salvador e do BRT.
+
+Também terão atuação a Secretaria de Sustentabilidade e Resiliência SECIS, através do apoio técnico e apoio a implementação do
+processo e no cumprimento das salvaguardas sociais e ambientais. A cargo da  procuradoria Geral do Município (PGMS) a supervisionar
+e acompanhar, analisar e aprovar documentos legais e processos licitatórios necessários em consonância com a legislação e instruções
+normativas do BIRD, articulando junto a UGP para preventivamente garantir a lisura e transparência dos processos. Secretária Municipal
+da Fazenda (SEFAZ) irá atuar como facilitador na execução administrativa e financeira nas áreas de competência, assessorar a UGP no
+acompanhamento do planejamento/avaliações periódicas do Projeto, centralizando o sistema de pagamentos do serviço da dívida.
+
+DE EXECUÇÃO
+
+O arranjo de execução proposto contará com uma Unidade Gestora do Projeto (UGP), sob supervisão e coordenação da SEMOB, criada
+por Ato Administrativo próprio e responsável pela gestão financeira e executiva. A Prefeitura possui em seus quadros técnicos servidores
+com diferentes formações e experiência na gestão de projetos, tanto nacionais como internacionais, que integrarão a UGP, trabalhando
+com pontos focais inter-secretarias, podendo ser contratado ainda, especializadas no gerenciamento do projeto e com expertise nos temas
+de que tratam os subcomponentes do Projeto.
+
+A UGP será responsável por executar as principais atividades da implementação do projeto, considerando-se (i) executar a gestão do
+projeto, inclusive se ocupando da relação com o BIRD; (ii) assegurar a implementação do projeto em conformidade com as disposições
+dos documentos jurídicos; (iii) zelar pelo cumprimento das atividades dentro do cronograma, identificando as questões no início do projeto
+e propondo maneiras de resolvê-las; e (iv) coordenar todas as atividades técnicas, fiduciárias e de salvaguarda à implementação do
+projeto.
+
+Compete à UGP:
+
+atuar como interlocutor perante o BIRD;
+
+Coordenar e supervisionar unidades das envolvidas na implementação com respeito à elaboração dos orçamentos estimados para os
+contratos, das partes técnicas dos documentos das licitações e solicitações de propostas;
+
+Articular com a PGM para acelerar a aprovação dos documentos de compras sujeitos ao exame da PGM, além de preventivamente
+garantir a lisura e transparência dos processos;
+
+elaborar e enviar a solicitação de não objeção aos documentos das compras e alertar os Bancos sobre qualquer questão relacionada às
+compras;
+
+Elaborar/atualizar plano de aquisições e monitorar sua implementação;
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 15
+
+supervisionar órgãos de implementação envolvidos na execução;
+
+organizar as auditorias de custo e qualidade das aquisições e estudos financiados pelo projeto.
+
+apresentar pedido de liberação de recursos;
+
+acompanhar/orientar os órgãos executores na preparação da documentação p/ liberação dos recursos e prestação de contas;
+
+reunir a documentação apresentada pelos órgãos executores;
+
+encaminhar a documentação prévia p/ liberação dos recursos;
+
+acompanhar/orientar órgãos executores quando da comprovação dos gastos, nos termos exigidos pelos agentes financeiros;
+
+preparar a documentação financeiro-contábil exigida pelos agentes financeiros;
+
+elaborar relatórios de desempenho;
+
+encaminhar cópias dos documentos fiscais, notas de empenho, de liquidação e comprovantes de pagamentos das despesas realizadas
+com os recursos oriundos das linhas de financiamento dos agentes financeiros;
+
+apresentar, se solicitado, outros documentos exigidos por disposição legal julgados necessários pelo Governo Federal/Agentes financeiros
+para comprovação das despesas relacionadas
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Secretaria de Mobilidade de Salvador - SEMOB
+
+Representante Oficial: Fabrizzio Müller Martinez
+
+Endereço da Sede: Rua Alceu Amoroso Lima, 458, Caminho das Árvores, Salvador
+E-mail Institucional:
+
+Telefone: +55 071 3202-9203
+CNPJ: 13927801002001
+
+Fax:
+UF: BA
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+COMPONENTES
+
+C - MOBILIDADE URBANA
+
+S - MOBILIDADE URBANA SUSTENTÁVEL
+
+P - Aquisição de Ônibus Elétricos
+
+P - Aquisição de Equipamentos de Recarga
+
+P - Implantação de Eletroterminais de Recarga
+
+S - SEGURANÇA VIÁRIA
+
+P - Microacessibilidade e segurança
+
+P - Implantação de tecnologia para os corredores de BRT
+
+C - MELHORIA INSTITUCIONAL
+
+S - FORTALECIMENTO DAS AÇÕES DA SEMOB
+
+P - Revisão e atualização do PlanMob Salvador
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+CF
+
+BIRD
+
+90.870.000,00
+
+9.060.000,00
+
+34.475.000,00
+
+83.070.000,00
+
+8.960.000,00
+
+32.575.000,00
+
+75.470.000,00
+
+7.560.000,00
+
+30.175.000,00
+
+4.000.000,00
+
+600.000,00
+
+1.400.000,00
+
+3.600.000,00
+
+800.000,00
+
+1.000.000,00
+
+7.800.000,00
+
+100.000,00
+
+1.900.000,00
+
+3.800.000,00
+
+0,00
+
+0,00
+
+4.000.000,00
+
+100.000,00
+
+1.900.000,00
+
+2.163.750,00
+
+355.000,00
+
+500.000,00
+
+2.163.750,00
+
+355.000,00
+
+500.000,00
+
+150.000,00
+
+150.000,00
+
+0,00
+
+P - Aquisição de Equipamentos e Sistemas para aperfeiçoamento da gestão operacional
+
+1.330.000,00
+
+165.000,00
+
+500.000,00
+
+P - Fast Track para diversidade de genero entre motoristas do BRT
+
+40.000,00
+
+40.000,00
+
+P - Estudos de impactos da mudança do clima
+
+P - Estudos para apoio na transição para Eletromobilidade
+
+P - Formular medidas de incentivo ao transporte público e desincentivo ao transporte individual
+privado motorizado
+C - GESTÃO DO PROJETO
+
+S - GESTÃO DO PROGRAMA
+
+P - Apoio Técnico ao Programa
+
+P - Supervisão do processo e serviços
+
+P - Auditoria Externa
+
+S - CUSTOS DE FINANCIAMENTO
+
+P - Comissão Inicial (0,25%)
+
+P - Comissão de Compromisso (0,25% sobre saldo não desembolsado)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+170.000,00
+
+200.000,00
+
+273.750,00
+
+716.250,00
+
+435.000,00
+
+127.500,00
+
+102.500,00
+
+205.000,00
+
+281.250,00
+
+187.500,00
+
+93.750,00
+
+0,00
+
+0,00
+
+0,00
+
+5.300,00
+
+5.300,00
+
+1.300,00
+
+1.500,00
+
+2.500,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+319.250,00
+
+110.000,00
+
+40.000,00
+
+20.000,00
+
+50.000,00
+
+209.250,00
+
+187.500,00
+
+21.750,00
+
+0,00
+
+9.420.300,00
+
+35.294.250,00
+
+0,00
+
+0,00
+
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+C - MOBILIDADE URBANA
+
+S - MOBILIDADE URBANA SUSTENTÁVEL
+
+P - Aquisição de Ônibus Elétricos
+
+P - Aquisição de Equipamentos de Recarga
+
+P - Implantação de Eletroterminais de Recarga
+
+S - SEGURANÇA VIÁRIA
+
+P - Microacessibilidade e segurança
+
+P - Implantação de tecnologia para os corredores de BRT
+
+C - MELHORIA INSTITUCIONAL
+
+S - FORTALECIMENTO DAS AÇÕES DA SEMOB
+
+P - Revisão e atualização do PlanMob Salvador
+
+P - Aquisição de Equipamentos e Sistemas para aperfeiçoamento da gestão operacional
+
+P - Fast Track para diversidade de genero entre motoristas do BRT
+
+P - Estudos de impactos da mudança do clima
+
+P - Estudos para apoio na transição para Eletromobilidade
+
+P - Formular medidas de incentivo ao transporte público e desincentivo ao transporte individual
+privado motorizado
+C - GESTÃO DO PROJETO
+
+S - GESTÃO DO PROGRAMA
+
+P - Apoio Técnico ao Programa
+
+P - Supervisão do processo e serviços
+
+P - Auditoria Externa
+
+S - CUSTOS DE FINANCIAMENTO
+
+P - Comissão Inicial (0,25%)
+
+P - Comissão de Compromisso (0,25% sobre saldo não desembolsado)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - MOBILIDADE URBANA
+
+S - MOBILIDADE URBANA SUSTENTÁVEL
+
+P - Aquisição de Ônibus Elétricos
+
+P - Aquisição de Equipamentos de Recarga
+
+P - Implantação de Eletroterminais de Recarga
+
+S - SEGURANÇA VIÁRIA
+
+P - Microacessibilidade e segurança
+
+P - Implantação de tecnologia para os corredores de BRT
+
+C - MELHORIA INSTITUCIONAL
+
+S - FORTALECIMENTO DAS AÇÕES DA SEMOB
+
+P - Revisão e atualização do PlanMob Salvador
+
+P - Aquisição de Equipamentos e Sistemas para aperfeiçoamento da gestão operacional
+
+P - Fast Track para diversidade de genero entre motoristas do BRT
+
+P - Estudos de impactos da mudança do clima
+
+P - Estudos para apoio na transição para Eletromobilidade
+
+P - Formular medidas de incentivo ao transporte público e desincentivo ao transporte individual
+privado motorizado
+C - GESTÃO DO PROJETO
+
+S - GESTÃO DO PROGRAMA
+
+P - Apoio Técnico ao Programa
+
+P - Supervisão do processo e serviços
+
+P - Auditoria Externa
+
+S - CUSTOS DE FINANCIAMENTO
+
+P - Comissão Inicial (0,25%)
+
+P - Comissão de Compromisso (0,25% sobre saldo não desembolsado)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - MOBILIDADE URBANA
+
+S - MOBILIDADE URBANA SUSTENTÁVEL
+
+P - Aquisição de Ônibus Elétricos
+
+P - Aquisição de Equipamentos de Recarga
+
+P - Implantação de Eletroterminais de Recarga
+
+S - SEGURANÇA VIÁRIA
+
+
+Página: 16
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+Ano 2
+
+FONTES
+
+CF
+
+BIRD
+
+9.060.000,00
+
+36.375.000,00
+
+8.960.000,00
+
+32.575.000,00
+
+7.560.000,00
+
+30.175.000,00
+
+600.000,00
+
+1.400.000,00
+
+800.000,00
+
+1.000.000,00
+
+100.000,00
+
+3.800.000,00
+
+0,00
+
+1.900.000,00
+
+100.000,00
+
+1.900.000,00
+
+215.000,00
+
+500.000,00
+
+215.000,00
+
+500.000,00
+
+0,00
+
+0,00
+
+165.000,00
+
+500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+50.000,00
+
+3.700,00
+
+3.700,00
+
+1.200,00
+
+1.000,00
+
+1.500,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+113.000,00
+
+95.000,00
+
+25.000,00
+
+20.000,00
+
+50.000,00
+
+18.000,00
+
+0,00
+
+18.000,00
+
+0,00
+
+9.278.700,00
+
+36.988.000,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.000,00
+
+1.000,00
+
+0,00
+
+0,00
+
+1.000,00
+
+0,00
+
+0,00
+
+0,00
+
+BIRD
+
+1.900.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.900.000,00
+
+1.900.000,00
+
+0,00
+
+151.875,00
+
+151.875,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+65.000,00
+
+86.875,00
+
+108.000,00
+
+90.000,00
+
+20.000,00
+
+20.000,00
+
+50.000,00
+
+18.000,00
+
+0,00
+
+18.000,00
+
+0,00
+
+1.000,00
+
+2.159.875,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+BIRD
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+
+Página: 17
+
+P - Microacessibilidade e segurança
+
+P - Implantação de tecnologia para os corredores de BRT
+
+C - MELHORIA INSTITUCIONAL
+
+S - FORTALECIMENTO DAS AÇÕES DA SEMOB
+
+P - Revisão e atualização do PlanMob Salvador
+
+P - Aquisição de Equipamentos e Sistemas para aperfeiçoamento da gestão operacional
+
+P - Fast Track para diversidade de genero entre motoristas do BRT
+
+P - Estudos de impactos da mudança do clima
+
+P - Estudos para apoio na transição para Eletromobilidade
+
+P - Formular medidas de incentivo ao transporte público e desincentivo ao transporte individual
+privado motorizado
+C - GESTÃO DO PROJETO
+
+S - GESTÃO DO PROGRAMA
+
+P - Apoio Técnico ao Programa
+
+P - Supervisão do processo e serviços
+
+P - Auditoria Externa
+
+S - CUSTOS DE FINANCIAMENTO
+
+P - Comissão Inicial (0,25%)
+
+P - Comissão de Compromisso (0,25% sobre saldo não desembolsado)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+236.875,00
+
+236.875,00
+
+0,00
+
+0,00
+
+0,00
+
+85.000,00
+
+65.000,00
+
+86.875,00
+
+83.000,00
+
+65.000,00
+
+20.000,00
+
+20.000,00
+
+25.000,00
+
+18.000,00
+
+0,00
+
+18.000,00
+
+319.875,00
+
+0,00
+
+0,00
+
+COMPONENTES
+
+C - MOBILIDADE URBANA
+
+S - MOBILIDADE URBANA SUSTENTÁVEL
+
+P - Aquisição de Ônibus Elétricos
+
+P - Aquisição de Equipamentos de Recarga
+
+P - Implantação de Eletroterminais de Recarga
+
+S - SEGURANÇA VIÁRIA
+
+P - Microacessibilidade e segurança
+
+P - Implantação de tecnologia para os corredores de BRT
+
+C - MELHORIA INSTITUCIONAL
+
+S - FORTALECIMENTO DAS AÇÕES DA SEMOB
+
+P - Revisão e atualização do PlanMob Salvador
+
+P - Aquisição de Equipamentos e Sistemas para aperfeiçoamento da gestão operacional
+
+P - Fast Track para diversidade de genero entre motoristas do BRT
+
+P - Estudos de impactos da mudança do clima
+
+P - Estudos para apoio na transição para Eletromobilidade
+
+P - Formular medidas de incentivo ao transporte público e desincentivo ao transporte individual
+privado motorizado
+C - GESTÃO DO PROJETO
+
+S - GESTÃO DO PROGRAMA
+
+P - Apoio Técnico ao Programa
+
+P - Supervisão do processo e serviços
+
+P - Auditoria Externa
+
+S - CUSTOS DE FINANCIAMENTO
+
+P - Comissão Inicial (0,25%)
+
+P - Comissão de Compromisso (0,25% sobre saldo não desembolsado)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+BIRD
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+18.120.000,00
+
+72.750.000,00
+
+17.920.000,00
+
+65.150.000,00
+
+15.120.000,00
+
+60.350.000,00
+
+1.200.000,00
+
+2.800.000,00
+
+1.600.000,00
+
+2.000.000,00
+
+200.000,00
+
+7.600.000,00
+
+0,00
+
+3.800.000,00
+
+200.000,00
+
+3.800.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+50.000,00
+
+50.000,00
+
+155.000,00
+
+620.000,00
+
+1.543.750,00
+
+155.000,00
+
+620.000,00
+
+1.543.750,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+85.000,00
+
+70.000,00
+
+150.000,00
+
+0,00
+
+330.000,00
+
+1.000.000,00
+
+40.000,00
+
+0,00
+
+0,00
+
+0,00
+
+170.000,00
+
+200.000,00
+
+50.000,00
+
+0,00
+
+100.000,00
+
+173.750,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+83.000,00
+
+65.000,00
+
+20.000,00
+
+20.000,00
+
+25.000,00
+
+18.000,00
+
+0,00
+
+18.000,00
+
+10.000,00
+
+10.000,00
+
+2.500,00
+
+2.500,00
+
+5.000,00
+
+0,00
+
+0,00
+
+0,00
+
+706.250,00
+
+425.000,00
+
+125.000,00
+
+100.000,00
+
+200.000,00
+
+281.250,00
+
+187.500,00
+
+93.750,00
+
+93.750.000,00
+
+50.000,00
+
+238.000,00
+
+18.750.000,00
+
+75.000.000,00
+
+A implementação bem-sucedida do programa de aquisição de ônibus elétricos em Salvador requer uma base legal robusta, refletida em
+atos legislativos que, inclusive, já estão estabelecidos. A Lei da Mobilidade Urbana Municipal 9.374/2018 é o alicerce principal, instituindo
+a Política Municipal de Mobilidade Urbana Sustentável e formalizando as diretrizes do Plano de Mobilidade Urbana Sustentável - PlanMob
+Salvador. Esse marco legal fornece o arcabouço para a modernização do sistema de transporte público da cidade, tendo já indicado a
+pertinência da adoção de tecnologias limpas e zero emissões.
+
+A criação do Fundo Municipal de Mobilidade Urbana FMMU, conforme estabelecido pela Lei 9.414/2018, adiciona uma dimensão
+financeira essencial ao projeto. Esse fundo é vital para consolidar os recursos necessários à viabilização do financiamento para a
+aquisição dos ônibus elétricos, proporcionando uma base sólida para a sustentabilidade financeira do programa.
+
+
+Página: 18
+
+Mais recentemente, a Lei 9.762/2023, autorizou a concessão de subsídios ao transporte coletivo, uma vez que o sistema apresentava
+riscos potenciais econômicos, pela alta significativa dos insumos e custos operacionais da operação de ônibus à combustão. Os
+operadores do contrato vigente, inclusive, estavam com incapacidade de endividamento. Contudo, apesar da iniciativa do município de
+subvenção do sistema, o tempo determinado e o valor máximo estipulado exigem uma gestão cuidadosa para evitar desequilíbrios
+orçamentários. A ação mitigadora inclui uma supervisão rigorosa da administração do subsídio, assegurando sua aplicação eficiente e em
+conformidade com os objetivos do projeto.
+
+A harmonização desses atos legais é crítica para garantir uma execução fluida do programa, desde a mobilização de recursos até a
+concessão de subsídios. A compreensão dos riscos associados à legislação vigente permite a implementação de estratégias eficazes de
+mitigação, promovendo um ambiente legal sólido e estável para a realização bem-sucedida do projeto de aquisição de ônibus elétricos em
+Salvador.
+
+Desta maneira, o financiamento alinha-se estrategicamente com a legislação recentemente promulgada, a Lei 9.762/2023, a qual autoriza
+a concessão de subsídios ao transporte público. A implementação desse subsídio representa uma medida significativa para assegurar a
+sustentabilidade econômica do sistema de transporte, possibilitando ao município prover apoio financeiro sem impor encargos adicionais
+aos passageiros. Em paralelo, o projeto busca viabilizar uma operação de crédito, vital para a rápida, vantajosa e eficiente aquisição de
+ônibus elétricos, contribuindo assim para a transição do sistema de transporte municipal para uma matriz mais sustentável.
+
+Neste contexto, a captação dos recursos necessários para o projeto foi formalmente autorizada pela Lei Municipal n° 9.770/2023,
+estabelecendo um limite financeiro de até US$ 75.000.000,00 para operações de crédito externo. Essa autorização é um passo essencial
+para acelerar o processo de eletrificação da frota, alinhando-se com as metas de mobilidade urbana sustentável estabelecidas pelo
+município.
+
+Adicionalmente, destaca-se a importância do aditamento ao contrato do BRT Salvador, atualmente em andamento. Este aditivo visa
+incorporar os veículos elétricos à operação, implicando na revisão e definição de parâmetros operacionais específicos. A consideração de
+manutenções diferenciadas e a adequação da infraestrutura de recarga são aspectos críticos, e a Prefeitura tem desempenhado papel
+ativo na viabilização dessas melhorias, uma vez que estas infraestruturas têm sido viabilizadas e adquiridas pela prefeitura e realizada um
+processo de cessão aos operadores do Consórcio BRT. O aditamento também contemplará questões relativas à identificação dos veículos
+elétricos e ao procedimento de desfazimento no término de sua vida útil, uma vez que os contratos vigentes possuem exatamente o
+tempo de vida útil dos equipamentos a serem adquiridos.
+
+Riscos potenciais são identificados no que tange ao perecimento dos veículos elétricos, bem como à possibilidade de perdas ou extravios.
+Estratégias de mitigação incluem a normatização desses processos, já previstos em contratos de concessão, incorporando medidas
+garantidoras para mitigar riscos dos ativos. Em síntese, a implementação bem-sucedida do programa de aquisição de ônibus elétricos em
+Salvador é respaldada por uma base legal robusta, refletida em atos legislativos já estabelecidos. A harmonização dessas leis é essencial
+para garantir uma execução fluida do programa, desde a mobilização de recursos
+
+Lei da Mobilidade Urbana Municipal 9.374/2018, publicada;
+
+Institui Política Municipal de Mobilidade Urbana Sustentável e institucionaliza determinações do Plano de Mobilidade Urbana Sustentável -
+PlanMob Salvador
+
+Lei 9.414/2018 de criação do Fundo Municipal de Mobilidade Urbana FMMU, publicado;
+
+Cria o Fundo Municipal de Mobilidade Urbana FMMU
+
+Lei 9.762/2023 Subvenção ao transporte coletivo, publicada:
+
+Autoriza a concessão, por tempo e valor máximo determinados, de subsídio orçamentário ao serviço de transporte público coletivo de
+passageiros por ônibus convencional e ao subsistema de transporte especial complementar; permite desoneração ou anistia do débito da
+outorga prevista na cláusula quinta dos Contratos de Concessão no 05/2014 e no 06/2014, firmados pelo Município
+
+Lei 9.770/2023 Autorização para contratação de financiamento (2023):
+
+Autoriza o Poder executivo a contratar operação de crédito externo, junto ao Banco Internacional para Reconstrução e Desenvolvimento
+BIRD, em nome do município de Salvador, com garantia da União.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+Para a efetivação do programa de aquisição de ônibus elétricos em Salvador, diversas contratações estratégicas são previstas,
+abrangendo consultorias, obras, aquisição de bens e serviços, além do suporte técnico essencial para a implementação e sustentabilidade
+do projeto. A previsão é realizar consultorias especializadas para o acompanhamento do processo, avaliação de impacto social, visando
+uma implementação eficiente e sustentável dos ônibus elétricos e suas infraestruturas de recarga para operacionalizar os corredores de
+BRT.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 19
+
+Em relação ao quadro de pessoal, está prevista a contratação de profissionais qualificados por meio de consultorias especializadas com o
+intuito de fortalecer a equipe responsável pelo planejamento, operação e manutenção dos ônibus elétricos, bem como para a gestão e
+fiscalização do programa.
+
+Adicionalmente, considerando a significativa quantidade de ônibus a ser adquirida, foi realizada uma consulta junto aos fornecedores
+nacionais e internacionais, que afirmaram ter capacidade para atender à demanda, garantindo as especificações técnicas necessárias. No
+entanto, a estimativa de prazo para entrega do produto, após pedido junto ao fabricante, é de 120 a 180 dias.
+
+No que se refere à infraestrutura de recarga, a consulta à Concessionária de Energia local ? grupo NeoEnergia Coelba - assegurou a
+capacidade da rede elétrica para atender à demanda de recarga dos ônibus elétricos. A inauguração de um primeiro eletroterminal de
+recarga, com capacidade para atender quase metade da frota prevista, demonstra o comprometimento da Prefeitura com a expansão do
+sistema elétrico na cidade. Projetos adicionais para novos eletroterminais estão em fase avançada de desenvolvimento, evidenciando a
+visão estratégica e o planejamento aprofundado para a implementação bem-sucedida do programa de ônibus elétricos em Salvador.
+Destas próximas fases, já estão em etapas finais de definições de projeto o 2o eletroterminal de recarga e, em paralelo, avaliação da
+localização do 3o eletroterminal de recarga da cidade.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Não existe previsão de desapropriação. Não se aplica.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+A adoção de ônibus elétricos como parte do sistema de transporte público em Salvador traz consigo uma série de benefícios ambientais e
+sociais, mas também apresenta desafios que exigem uma abordagem cuidadosa.
+
+Um primeiro ponto é trabalhar na manutenção de uma matriz energética limpa. A dependência de uma matriz energética ainda não
+totalmente limpa, pode comprometer parte dos benefícios ambientais, além de danificar a imagem do projeto. Uma forma de mitigar é
+buscar articular e incentivar investimentos em fontes de energia renovável para garantir uma matriz verdadeiramente limpa e sustentável,
+tal como foi feito nas estações do BRT, com instalação de paineis de captação de energia solar, trazendo o exemplo para o dia a dia da
+população.
+
+Outro risco a ser abordado é que a transição para ônibus elétricos pode gerar desafios na gestão adequada de resíduos relacionados à
+bateria. Sua mitigação depende de implementar uam comunicação que explique à população o cuidado responsável com estas baterias,
+além de dar ciência ao processo de 2a vida da bateria, explanando os programas de reciclagem e descarte seguro de baterias,
+assegurando a gestão ambientalmente responsável.
+
+Há uma certificação de sustentabilidade das baterias de íons de lítio que é um fator importante a ser considerado. Além disto, há já
+expectativa no mercado para a utilização da Bateria de Segunda vida, permitindo que grandes edifícios e até infraestruturas de recarga
+remotas possam mitigar custos de energia na hora do pico através do armazenamento ao longo do dia, inclusive agregando energia solar
+neste processo.
+
+Riscos de impacto na saúde também são pertinentes, que basicamente se trata da possibilidade de resistência a mudanças e a falta de
+conscientização podem gerar desafios na aceitação dos ônibus elétricos. Realizar campanhas educativas para informar a população sobre
+os benefícios na qualidade do ar e na saúde decorrentes da redução de emissões. Estudos indicam que a eletrificação da frota pode
+gerar ganhos médios de expectativa de vida de até 8 dias, impactando positivamente a saúde da população. Além disso, os benefícios
+econômicos são significativos, com potencial de economia de até R$ 72 milhões.
+
+A redução expressiva de emissões, conforme apontado pelo estudo ImpactAR, promete não apenas melhorias na saúde, mas também a
+prevenção de hospitalizações e mortes, representando uma economia substancial para o sistema de saúde e a sociedade como um todo.
+
+Dessa forma, a implementação dos ônibus elétricos não apenas contribuirá para um meio ambiente mais saudável, mas também
+promoverá avanços sociais e econômicos que impactarão positivamente a qualidade de vida da população de Salvador. O gerenciamento
+adequado dos riscos é essencial para maximizar os benefícios e garantir uma transição sustentável e inclusiva.
+
+Há também de se tratar sobre qualidade de vida e contexto social em Salvador. Este projeto necessitar ser implementado junto às políticas
+de inclusão social, garantindo que as mudanças no sistema de transporte beneficiem diretamente a população de baixa renda, por
+exemplo, através de tarifas acessíveis.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 20
+
+Além disto, é necessário entender que estes investimentos permitirão uma requalificação do transporte público, e que termina por
+incentivar também a população a utilizar também os modos ativos que são integrados. Neste processo, cabe-se ressaltar uma migração
+de pessoas que atualmente utilizam o modo individual para o transporte coletivo, impactando positivamente as emissões e pegada de
+carbono da cidade como um todo. No fundo, o único principal risco socioambiental seria insucesso do processo de eletrificação.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+A implementação do projeto de aquisição de ônibus elétricos em Salvador não apenas representa uma transformação no sistema de
+transporte público, mas também acarreta uma série de impactos sociais positivos, principalmente grande parte da população vulnerável e
+de baixa renda. Estima-se que a elevação da percepção de qualidade aos passageiros, proporcionada pela transição para ônibus elétricos
+, contribuirá significativamente para a qualidade de vida das comunidades por onde passarão.
+
+Ao trafegar em corredores exclusivos, esses ônibus não só promovem uma maior eficiência operacional, sem a interferência de
+congestionamentos, mas também beneficiam diretamente uma população de 340 mil pessoas ao longo desses corredores. Somando as
+linhas do BRS ao BRT, o número de bairros servidos é ainda maior, aumentando esse número para mais de 600 mil pessoas impactadas.
+Além disso, as comunidades adjacentes experimentarão a redução da poluição sonora e de material particulado, especialmente em
+bairros densos e de baixa e média renda, como Vale das Pedrinhas, Santa Cruz, Vale das Muriçocas, Brotas, Engenho Velho da
+Federação, Candeal, Itaigara e Pituba. Ao tratar de populações tradicionais, cabe ressaltar que de acordo com dados do IBGE 2022,
+Salvador da Bahia é a cidade mais negra do Brasil, país em que vive a maior comunidade de afro-descendentes do mundo fora de África,
+com 83% da população negra e parda.
+
+A integração da eletromobilidade a políticas de corredores de média e alta capacidade não só reduz congestionamentos e tempo de
+viagens, mas também fortalece a pauta da segurança viária, uma prioridade de longa data em Salvador. Estudos indicam que a redução
+dos gases poluentes resultará em menos internações e evitará um significativo número de óbitos por doenças cardiorrespiratórias,
+impactando positivamente principalmente os cidadãos de baixa renda que enfrentam longos deslocamentos diários.
+
+As barreiras à mobilidade segura, especialmente para mulheres, podem ser mitigadas neste projeto, uma vez que é contemplado um
+programa de fortalecimento da diversidade de gênero na operação. Isto, somado aos novos ônibus elétricos, oferecerão um ambiente
+mais seguro e inclusivo. Pessoas com deficiência, idosos e motoristas e cobradores também se beneficiam da diminuição de vibrações e
+ruídos.
+
+Ademais, os impactos sociais serão gerenciados conforme as normas do Environmental and Social Framework do Banco Mundial, com
+especial atenção à ESS4: Community Health and Safety, garantindo a minimização de riscos e impactos à saúde, segurança e proteção
+nas comunidades afetadas pelo projeto, especialmente àquelas mais vulneráveis devido às suas circunstâncias particulares. A
+implantação desse projeto representa, assim, um compromisso abrangente com o bem-estar e inclusão social em Salvador.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Não existirá reasssentamentos. Não se aplica.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)

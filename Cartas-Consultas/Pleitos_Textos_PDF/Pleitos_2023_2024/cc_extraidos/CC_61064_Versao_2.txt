@@ -1,0 +1,1528 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Programa de Aceleração e Desenvolvimento Municipal
+Nº Carta Consulta: 61064
+Processo: 03101.102958/2023-99
+Mutuário: Município de Itaquaquecetuba - SP
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  2 de Outubro de 2023
+Fontes Internas:
+Contrapartida Financeira: US$ 12.500.000,00
+Fontes Externas:
+Corporação Andina de Fomento - CAF: US$ 50.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+04
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 04
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 04
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 04
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 04
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 05
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 11
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 11
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 11
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 12
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 15
+3. FINANCIAMENTO .......................................................................................................................................................................................... 15
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 15
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 15
+4. EXECUÇÃO ...................................................................................................................................................................................................
+15
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 15
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 16
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 16
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 16
+5. RISCOS .......................................................................................................................................................................................................... 18
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 18
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 18
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 20
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 20
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 20
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 20
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+20
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+Itaquaquecetuba está localizado na Região Metropolitana de São Paulo ? RMSP, a uma distância de 41 km da capital paulista (Anexo 01,
+Mapas 01, 02 e 03). Possui uma área territorial de 82,62 km², com uma população de 369.275 habitantes (IBGE, 2022), resultando em
+uma densidade demográfica de 4.469,45 hab/km². A Cidade está integralmente inserida a Unidade de Gerenciamento de Recursos
+Hídricos UGRHI-6, sendo atendida pelo Plano da Bacia Hidrográfica do Alto Tietê (PBHAT, 2018). O município foi fundado em 1560, e
+teve emancipação política em 1953. Sua proximidade com a capital paulista e facilidade de acesso por rodovias e linhas férreas
+proporcionaram uma vocação industrial, em que atualmente abriga centenas de indústrias de diversas áreas (em torno de 500).
+
+Como parte da reconstrução e modernização da Cidade, a fim de garantir infraestrutura de qualidade e acesso aos serviços básicos,
+indispensáveis para segurança e bem-estar da população, a Administração elencou as maiores problemáticas recentes e intervenções a
+serem viabilizadas através deste programa, em consonância com as diretrizes prioritárias e principais orientações estratégicas municipais,
+que serão apresentadas posteriormente. O desenvolvimento de Itaquaquecetuba ao longo dos seus 463 anos ocorre paralelo ao
+crescimento da RMSP, com uma alta ocupação populacional, que formaram grupos habitacionais desorganizados, sem nenhum tipo de
+planejamento, que ocuparam várzeas de rios e córregos, ou ainda encostas com declividades acentuadas. Em decorrência desta
+expansão desordenada a cidade possui altas densidades populacionais distribuídas ao longo de seu território (Anexo 01, Mapa 04 ?
+Demografia), em mais de 400 bairros que carecem de infraestrutura urbana.
+
+Situado entre as Serras do Itapety, do Mar e da Mantiqueira, o relevo do Município é predominantemente serra e planalto. Com a
+expansão populacional, muitas dessas áreas atualmente estão habitadas, sendo elas potencialmente de risco. Este fenômeno que ocorreu
+durante os anos, afetou diretamente a organização e o orçamento municipal, que mantém a Defesa Civil e algumas secretarias em alerta
+para que possa dar suporte e atendimento aos munícipes que habitam as regiões vulneráveis. Ao se falar sobre áreas de risco, é
+importante relacionar as condições habitacionais do Município (Anexo 02).
+
+Atualmente, de acordo com a Prefeitura Municipal, existem 57 mil moradias irregulares no Município. Segundo o IBGE, em mapeamento
+preliminar de aglomerados subnormais realizado em 2019, Itaquaquecetuba tinha 21.025 domicílios nesta situação, em um universo de 95
+.449 domicílios (22,02%). Diante deste cenário, o Município elaborou em 2018 o Plano Municipal de Redução de Riscos ? PMRR, o qual
+apresenta um mapeamento das áreas de risco de deslizamento e áreas de inundações no Município, além da indicação de diretrizes para
+o devido gerenciamento. A partir de dados coletados em campo que foram sistematizados, chegou-se a um banco de dados digital que
+compreendeu 31 áreas de risco indicadas para mapeamento. Realizados os estudos, foram identificados 51 setores de risco dentro destas
+ áreas, sendo 32 associados a escorregamento e 19 a inundação.
+
+No Mapa Hipsométrico (Anexo 1, Mapa 05), representado pelas cores verdes, estão associadas às drenagens que cortam o Município.
+Deste modo os setores sujeitos à inundação ocorrem nas porções mais baixas do terreno, próximas aos rios e córregos. As porções mais
+altas da Cidade são representadas por cores vermelhas, sendo possível observar que os setores de risco de escorregamento ocorrem em
+elevações intermediárias, indicadas pelas cores laranja e amarelo.
+
+Já no Mapa de Inclinações (Anexo 1, Mapa 06), podemos ver os pontos de inclinação com grande predomínio de áreas de baixas
+inclinações (inferiores a 10°). Em alguns trechos observam-se inclinações superiores a 20°, com destaque para a região norte e nordeste
+da Cidade. Como esperado, os setores de risco associados a processos de inundação ocupam as áreas mais planas, enquanto os setores
+ com risco de escorregamento são observados predominantemente em terrenos com inclinação entre 17 e 30°.
+
+Como conclusão, o Mapa 7 (Anexo 1) ilustra a suscetibilidade a escorregamento e inundações. Foram contabilizadas 2.428 moradias nos
+setores de risco a escorregamento e 3.672 moradias nos setores de risco de inundação. Considerando que o estudo foi elaborado há 5
+anos, estes números provavelmente são maiores nos dias atuais. Desta forma, se fazem necessárias as intervenções apresentadas na
+Solução Proposta.
+
+Quando se leva em consideração as dimensões de longevidade, educação e renda, por meio do Indicador de Desenvolvimento Humano
+Geral ? IDHM dos municípios brasileiros, Itaquaquecetuba se coloca em 1.486º no ranking, com índice de 0,714 (PNUD, 2010). O salário
+médio mensal dos trabalhadores formais é de 2,4 salários mínimos, com 44.789 empregos registrados, e PIB per capita de R$ 20.457,81 (
+IBGE, 2021).
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+SOLUÇÃO 1: OBRAS DE MACRO E MICRODRENAGEM
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Página: 3
+A solução proposta contempla a Construção de tubulações, guias, sarjetas, galerias de águas pluviais e canais de pequenas dimensões, e
+substituição dos elementos de drenagem existentes que estão em situação precária, cujos bairros e áreas afetadas estão apresentadas
+nos mapas do Anexo 3. A seguir é apresentada a relação dos bairros, com a quantidade de ruas que deverão passar por intervenções e a
+extensão dos serviços de drenagem, inferior e superior, a serem realizados e, por fim, os custos estimados destas intervenções: (i) Jardim
+Guarani, 4 ruas e 3.500m de drenagem; (ii) Nova Louzada, 12 ruas e 5.730m de drenagem; (iii) Terra Prometida, 10 ruas e 5.250m de
+drenagem; (iv) Jardim Josely, 7 ruas e 5.150m de drenagem; (v) Estância Paraíso, 9 ruas e 5.165m de drenagem; (vi) Jardim Canaã, 18
+ruas e 5.830m de drenagem;  e (vii) Jardim Piata, 9 ruas e 5.900m de drenagem; totalizando assim 36.525m.
+
+Os resultados esperados são: (i) combater alagamentos; (ii) ampliação da capacidade e melhoria da rede de drenagem; e (iii) redução de
+erosão para os bairro anteriormente citados e que constam no PMMR, sendo respectivamente cerca de aproximadamente 1600 moradias
+que receberão os benefícios e segurança que um novo sistema de micro e macrodrenagem proporcionarão.
+
+SOLUÇÃO 2: OBRAS DE RECONSTRUÇÃO DE PAVIMENTOS
+A solução proposta contempla a reconstrução de pavimento existente, reforço de base, aplicação de concreto asfáltico e sinalização
+horizontal e vertical, cujos bairros e áreas afetadas estão apresentadas nos mapas do Anexo 3. A seguir é apresentada a relação dos
+bairros, com a quantidade de ruas que deverão passar por intervenções de recuperação e suas respectivas extensões e custos estimados:
+(i) Jardim Guarani, 4 ruas, 21.000m² de pavimentação; (ii) Nova Louzada, 12 ruas, 34.380m² de pavimentação; (iii) Terra Prometida, 10
+ruas, 31.500m³ de pavimentação; (iv) Jardim Josely, 7 ruas, 30.900m² de pavimentação; (v) Estância Paraíso, 9 ruas, 30.990m² de
+pavimentação; (vi) Jardim Canaã, 18 ruas, 34.980m² de pavimentação;  e (vii) Jardim Piata, 9 ruas, 35.400m² de pavimentação,
+totalizando 219.150m².
+
+Os resultados esperados são (i) melhoria na mobilidade urbana que impactarão na qualidade de vida de aproximadamente 1600 moradias;
+(ii) melhoria da trafegabilidade e segurança viária, com a consequente redução de acidentes; (iii) durabilidade da malha viária; e (iv)
+redução dos custos de manutenção, propiciando a economia do erário.
+
+SOLUÇÃO 3: OBRAS DE RECONSTRUÇÃO DE PASSEIOS
+A solução proposta prevê a reconstrução dos passeios públicos existentes, compostos por concreto armado, piso intertravado, podotátil e
+rampas acessíveis, cujos bairros e áreas afetadas estão apresentadas nos mapas do Anexo 3. A seguir é apresentada a relação dos
+bairros, com a quantidade de ruas que deverão passar por intervenções de reconstrução dos passeios e suas respectivas extensões e
+custos estimados: (i) Jardim Guarani, 4 ruas, 10.500m² de reconstrução de passeios; (ii) Nova Louzada, 12 ruas, 17.190m² de de
+reconstrução de passeios; (iii) Terra Prometida, 10 ruas, 15.750m² de reconstrução de passeios; (iv) Jardim Josely, 7 ruas, 15.450m² de
+reconstrução de passeios; (v) Estância Paraíso, 9 ruas, 15.495m² de reconstrução de passeios; (vi) Jardim Canaã, 18 ruas, 17.490m² de
+reconstrução de passeios;  e (vii) Jardim Piata, 9 ruas, 17.700m² de reconstrução de passeios, totalizando 109.575m².
+
+Os resultados esperados são: (i) melhoria da locomoção e acessibilidade; (ii) redução de acidentes; (iii) segurança para circulação de
+pedestres e acesso à cerca de 1.600 moradias; e (iv) valorização do entorno.
+
+SOLUÇÃO 4: OBRAS DE CONTENÇÃO DE ENCOSTAS
+A solução proposta prevê obras e serviços variados a serem aplicados de acordo com as especificidades de cada uma das áreas afetadas
+, e prevê as seguintes intervenções: construção de muro de gabião, aplicação concreto projetado, construção de cortina atirantada,
+construção de muro de arrimo em concreto armado e plantio de grama. Conforme Anexo 04 as Áreas de Risco que receberão as medidas
+estão relacionadas na sequência, com as respectivas extensão e custos estimados das obras: (i) ITQ-SR-26 ? 200m de intervenções; (ii)
+ITQ-SR-24 ? 600m de intervenções; (iii) ITQ-SR-15 ? 600m de intervenções; (iv) ITQ-SR-30 ? 300m de intervenções; (v) ITQ-SR-14 ?
+600m de intervenções; (vi) ITQ-SR-17  - 180m de intervenções; (vii) ITQ-SR-23 ? 250m de intervenções; (viii) ITQ-SR-28 ? 500m de
+intervenções; (ix) ITQ-SR-29 ? 180m de intervenções; (x) ITQ-SR-16 ? 180m de intervenções; (xi) ITQ-SR-27 ? 150m de intervenções; (xii)
+ITQ-SR-25 ? 150m de intervenções; (xiii) ITQ-SR-21 ? 100m de intervenções; (xiv) ITQ-SR-18 ? 170m de intervenções; (xv) ITQ-SR-31 ?
+100m de intervenções; (xvi) ITQ-SR-19  - 100m de intervenções; (xvii) ITQ-SR-22 ? 100m de intervenções; e (xviii) ITQ-SR-20 ? 300m de
+intervenções; totalizando assim 4.760m.
+ 
+Os resultados esperados são: (i) proteger e evitar deslizamentos ou desmoronamentos; (ii) recuperação de áreas degradadas; e (iii)
+propiciar a segurança da população das áreas afetadas que impactam diretamente 2.428 moradias.
+
+SUSTENTABILIDADE
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Página: 4
+A Secretaria Municipal de Obras ? SEMO tem orçamento anual previsto para manutenção do sistema viário, calçadas, macrodrenagem e
+microdrenagem. Por se tratar de obras de recuperação, restauração ou complementação de obras e sistemas já existentes, esses custos
+serão menores que os atualmente verificados para as estruturas precárias  existentes, não sendo necessário se ampliar o custeio com
+pessoal, sendo necessário somente o aumento com custos operacionais. Custos adicionais de operação e manutenção devido a
+implementação destas obras vão ter que ser acrescidos ao orçamento anual da SEMO específico para essa finalidade. A estimativa e que
+esse aumento seja inferior a 10% do orçamento anual.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+ORIENTAÇÕES ESTRATÉGICAS
+O Programa consta no projeto de lei relativo a Lei Orçamentária Anual (Anexo 05) e a para o exercício financeiro de 2024, e esta
+contemplado no Plano Plurianual de 2022-2025 (Anexo 06), aprovado pela Lei nº 3.588, de 06/12/2021.
+O Plano de Mobilidade de Itaquaquecetuba (Anexo 07), estabelece as diretrizes da política de mobilidade do município e dispõe sobre as
+ações necessárias para a consecução dos objetivos estabelecidos, e é essencial para melhoria do sistema viário e o desempenho
+operacional das linhas no transporte coletivo e individual, auxiliando nos pontos de intervenção de drenagem, pavimentação e passeio,
+visto a necessidade de mobilidade urbana para o atendimento das demandas e prevenção de acidentes.
+O Plano Municipal de Gestão Integrada de Resíduos Sólidos (Anexo 08), visa atender as exigências da Lei Federal nº 12.305/2010, e trás
+um prognóstico e estratégias para alcançar as metas e indicadores necessários para a gestão dos resíduos, essencial quanto se trata de
+obras, pois para efetivação do programa de forma sustentável, é imprescindível que a limpeza, o transporte e a destinação sejam de forma
+ correta.
+O Plano Municipal de Saneamento (Anexo 09), visa atender ao disposto na Lei Federal nº 11.445, de 05/01/2007 e contempla programa
+de diretrizes para uma drenagem eficiente, com a rede de distribuição de águas adequada para o volume e pressão, trás também
+indicadores do esgotamento sanitário, sendo que temos a Companhia de saneamento Básico do Estado de São Paulo ? SABESP, a
+concessionária atente o abastecimento de água e esgoto do município. Ainda existem no município, áreas não atendidas pela SABESP,
+sendo necessário obras de intervenção para regularização dessas áreas que estão contidas no programa.
+O Plano Municipal de Redução de Riscos de 2018 (Anexo 10), consiste em um estudo de mapeamento das áreas de riscos, com
+caracterização e delimitação por região do munícipio e é ele que norteia as áreas de intervenções para contenções de encostas, sendo
+indica no plano as 18 áreas constantes no programa, fornecendo todos os parâmetros para mitigação e erradicação dos riscos,
+fornecendo as bases necessárias através dos estudos realizados.
+O Plano Municipal de Contingência Municipal (Anexo 11), estabeleceu as diretrizes para ações de respostas em casos de desastres
+envolvendo deslizamentos, alagamentos, enchentes, enxurradas, granizos, vendavais e tempestades. 
+
+CONTRAPARTIDA
+a) Declaramos que a origem da contrapartida está em conformidade com o disposto na Resolução COFIEX nº 3 de 2019.
+b) Declaramos que os gastos de contrapartida só serão elegíveis a partir da data de publicação da Resolução da COFIEX que autoriza a
+preparação do respectivo projeto, observado o disposto na Resolução COFIEX nº 3 de 2019.
+
+TAXA DE CÂMBIO
+A Taxa de câmbio utilizada foi de ($) Dólar Comercial - Cotação do Banco Central em 28/09/2023 - R$ 5,0469.
+2. Projeto
+2.1. Título
+Programa de Aceleração e Desenvolvimento Municipal
+2.2. Título Abreviado
+Desenvolve Itaquá
+2.3. Mutuário
+Município de Itaquaquecetuba - SP
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+OBJETIVO GERAL
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Página: 5
+O Programa Desenvolve Itaquá tem como objetivo o desenvolvimento do município, realizando investimentos em obras de infraestrutura
+urbana em regiões precárias, levando melhor qualidade de vida para os moradores.
+
+Como todo sistema de captação de águas pluviais, a finalidade é direcionar todo o excedente das águas das chuvas para a sua
+destinação final adequada, (rios, lagos e córregos), outro ponto importantíssimo e imprescindível é o de proteger todo a superfície dos
+bairros, tal como suas encostas, assim o programa visa na questão da drenagem resolver e dar destinação adequada a toda água pluvial,
+permitindo que nos fortes períodos de chuva nossas áreas que hoje são de potencial risco, principalmente por contra dos deslizamentos
+não ocasione mais preocupação aos munícipes que ali residem.
+
+Para que toda essa água que percorre as ruas dos bairros tenha a destinação correta ao sistema  de drenagem, uma pavimentação
+asfáltica bem executada, com uma base (rachão, bica-corrida e o próprio Concreto Betuminoso Usinado Quente) permitirá a
+complementação do sistema de drenagem, pois fará com que essas aguas tomem seu curso ideal, sem falar ainda que um bom
+pavimento asfáltico proporciona uma mobilidade urbana muito melhor, atendendo aos munícipes que necessitam de saúde, através das
+ambulâncias (SAMU), aos estudantes pelo transporte escolar e até mesmo todos os moradores que utilizarão um transporte publico com
+mais eficiência.
+
+Sabemos que toda a parcela da população que utiliza os serviços municipais citados acima, (transporte escolar, transporte publico e até
+mesmo os atendimentos de saúde urgência e emergência) dependem também de um passeio adequado, sem obstruções, buraco, nos
+locais de intervenção foi verificado pontos de inexistência de passeio, que impacta diretamente na locomoção e segurança por falta de
+acessibilidade .
+
+Como resultado do mapeamento foram identificadas 2020 moradias em rico alto ou muito alto de deslizamentos, que representam mais de
+8000 moradores expostos. Considerando que PMRR foi criado com a proposta implícita de priorizar os setores de risco mais críticos (
+risco alto e muito alto) que indicam situações de urgência onde a ocorrência de desastres é mais provável. Desse modo, sugere-se que o
+município assuma essa prioridade e desenvolva um plano de investimento visando à erradicação dos setores de risco alto (R3) e risco
+muito alto (R4). Sugere-se a adoção de metas anuais para a eliminação desses setores de risco.
+1. Redigir de forma mais clara e específica, os objetivos específicos apresentados, em especial c) e d). 
+
+OBJETIVOS ESPECÍFICOS
+a) Melhoria na capacidade de escoamento das águas superficiais, com a construção dos elementos de Drenagem; e
+b) Melhoria da mobilidade urbana, fluidez viária, prevenção de acidentes e tornar mais durável a superfície de rolamento com a execução
+de obras de Pavimentação; e
+c) Proporcionar bem estar, segurança e acessibilidade a população, com a construção de Passeio; e 
+d) Reforçar e recuperar áreas degradadas e de risco, com métodos construtivos adequados para as regiões de encostas.
+
+2.6. Projeto/Indicadores
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Obras de Microdrenagem e Macrodrenagem
+Extensão de sistemas
+implantados
+m
+10.000,00
+46.525,00
+Obras de Reconstrução de Pavimentos
+Área de pavimento
+reconstruído ou
+recuperado
+m²
+100.000,00
+319.150,00
+Obras de Reconstrução de passeios
+Área de passeios com
+boas condições de
+trafegabilidade
+m²
+30.000,00
+139.575,00
+Obras de Contenção de Encostas
+Quantidade de
+encostas protegidas
+Unidade
+1,00
+18,00
+2.7. Projeto/Componentes
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Página: 6
+Componentes
+Valor(US$)
+C - OBRAS CIVIS
+58.075.255,00
+      P - Obras de Macro e Microdrenagem
+13.810.457,00
+      P - Obras de Reconstrução de Pavimentos
+6.756.624,00
+      P - Obras de Reconstrução de Passeios
+3.962.829,00
+      P - Obras de Contenção de Encostas
+33.545.345,00
+C - GESTÃO DO PROGRAMA
+3.949.745,00
+      P - Apoio à Gestão deo Programa, Supervisão Técnica, Ambiental e Social das Obras
+2.959.041,00
+      P - Elaboração de Estudos e Projetos de Engenharia
+792.563,00
+      P - Auditoria Externa
+198.141,00
+C - GASTOS FINANCEIROS
+475.000,00
+      P - Comissão de Financiamento
+425.000,00
+      P - Gastos de Avaliação
+50.000,00
+Total dos Componentes
+62.500.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - OBRAS CIVIS
+O Programa Desenvolve Itaquá, consiste em garantir a mobilidade urbana, a acessibilidade, a segurança e eficiência logística,
+visto que o munícipio está localizado em um ponto estratégico fazendo divisa com os municípios de Arujá, Mogi das Cruzes,
+Suzano, Poá, São Paulo e Guarulhos.
+Por fazer parte da região metropolitana do estado de São Paulo, o município possui um polo industrial significativo, sendo
+composto por em média 500 indústrias e está interligada pelo o Rodoanel, Rodovia Ayrton Senna, Rodovia Alberto Hinoto, Rodovia
+ João de Souza Afonso Castellano e Estrada Governador Mario Covas Júnior, principais vias de acesso.
+O Programa prevê realização de 37,5km de drenagem, 255.000m² de pavimentação, 150.000m² de passeio e a contenção de em
+média 18 encostas.
+O Desenvolvimento é um dos pilares para segurança viária do município, pensando em todo o ambiente, para estruturação dos
+bairros, visto a necessidade de otimização, fluidez, garantindo a qualidade e segurança.
+      P - Obras de Macro e Microdrenagem
+O município de Itaquaquecetuba localiza-se exatamente na faixa do Trópico de Capricórnio, que tem por caracteristicas a Zona
+Tropical, marcado por clima seco e chuvo, destacando os períodos chuvósos, a média pluviométrica anual fica em torno dos 1400
+mm, a área de interferência dessas chuvas se da em todo o território municipal  82,622 km², ressaltando ainda que além das
+influências nas delimitações do municipio, o principal rio do estado, o Rio Tietê ?corta ao meio? nosso municipio, assim não só as
+chuvas que ocorrem no municipio influenciam no sistema de drenagem municipal, mas também as chuvas que ocorrem nos
+municipios a montante de Itaquaquecetuba, e que impactam diretamento no nosso sitema de drenagem. Salientando que nos
+ultimos 15 anos, nosso municipio dispõem de um sistema de drenagem defasado, nos aspectos de dimensionamento e de
+abrangencia das zonas habitadas atualmente, assim havendo a necessidade de um novo dimensionamento e uma nova tecnologia
+nos sistemas de drenagem já implantados, e um investimento nas áreas que ainda não dispoe de um sistema, contudo faz-se
+necessario o investimento de boa parte do sistema de drenagem municipal. Conservando assim todos os dispositivos que
+compoem o sistema viário do municipio, sendo eles o de Drenagem, Pavimentação e Contencão de Encostas.  
+Jardim Guarani (4 ruas)
+- Unidade de Medida: m
+- Meta: 3.500
+- Valor: US$ 1.327.548,00
+- Categoria de Gasto: Obras
+Nova Louzada (12 ruas)
+- Unidade de Medida: m
+- Meta: 5.730
+- Valor: US$ 2.139.927,00
+- Categoria de Gasto: Obras
+Terra Prometida (10 ruas)
+- Unidade de Medida: m
+- Meta: 5.250
+- Valor: US$ 2.001.228,00
+- Categoria de Gasto: Obras
+Jardim Josely (7 ruas)
+- Unidade de Medida: m
+- Meta: 5.150
+- Valor: US$ 1.921.972,00
+- Categoria de Gasto: Obras
+Estância Paraíso (9 ruas)
+- Unidade de Medida: m
+- Meta: 5.165
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Página: 7
+- Valor: US$  1.961.600,00
+- Categoria de Gasto: Obras
+Jardim Canaã (18 ruas)
+- Unidade de Medida: m
+- Meta: 5.830
+- Valor: US$ 2.219.184,00
+- Categoria de Gasto: Obras
+Jardim Piata (9 ruas)
+- Unidade de Medida: m
+- Meta: 5.900
+- Valor: US$ 2.238.998,00
+- Categoria de Gasto: Obras
+      P - Obras de Reconstrução de Pavimentos
+Devido a expansão dos bairros e às proporções demográficas do município, ocasionou no crescimento desordenado gerando
+locais totalmente carentes em questões de infraestrutura urbana, tornado o acesso aos bairros cada vez mais precário. Com o
+plano de reurbanização dos bairros, será possível realizar a requalificação do sistema viário melhorando a fluidez do trânsito local e
+qualidade de vida dos moradores do entorno, tornando os bairros mais atrativos para investimentos financeiros, estimulando novos
+pólos comerciais, melhorando assim a renda percapta do mucípio. Assim, a pavimentação de vias, trás dignidade as pessoas,
+reforçando o direito constitucional de ir e vir, contribuindo para segurança viária, minimizando drasticamente a ocorrência de
+acidentes.
+Jardim Guarani (4 ruas)
+- Unidade de Medida: m²
+- Meta: 21.000
+- Valor: US$ 653.867,00
+- Categoria de Gasto: Obras
+Nova Louzada (12 ruas)
+- Unidade de Medida: m²
+- Meta: 34.380
+- Valor: US$ 1.069.964,00
+- Categoria de Gasto: Obras
+Terra Prometida (10 ruas)
+- Unidade de Medida: m²
+- Meta: 31.500
+- Valor: US$ 970.893,00
+- Categoria de Gasto: Obras
+Jardim Josely (7 ruas)
+- Unidade de Medida: m²
+- Meta: 30.900
+- Valor: US$ 951.079,00
+- Categoria de Gasto: Obras
+Estância Paraíso (9 ruas)
+- Unidade de Medida: m²
+- Meta: 30.990
+- Valor: US$  951.079,00
+- Categoria de Gasto: Obras
+Jardim Canaã (18 ruas)
+- Unidade de Medida: m²
+- Meta: 34.980
+- Valor: US$ 1.069.964,00
+- Categoria de Gasto: Obras
+Jardim Piata (9 ruas)
+- Unidade de Medida: m²
+- Meta: 35.400
+- Valor: US$ 1.089.778,00
+- Categoria de Gasto: Obras
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Página: 8
+      P - Obras de Reconstrução de Passeios
+Com a expansão sem planejamento da infraestrutura urbana em áreas de situação de vulnerabilidade, ocasionou o avanço das
+construções sem a padronização do alinhamento dos lotes e consequentemente não atendem sua funcionalidade. O Programa
+prevê a implantação de passeio que mantém os padrões estabelecidos e Normas de acessibilidade, a fim de possibilitar a
+autonomia no deslocamento, segurança, conforto aos seus usuários.
+Jardim Guarani (4 ruas)
+- Unidade de Medida: m²
+- Meta: 10.500
+- Valor: US$ 378.450,00
+- Categoria de Gasto: Obras
+Nova Louzada (12 ruas)
+- Unidade de Medida: m²
+- Meta: 17.190
+- Valor: US$ 614.238,00
+- Categoria de Gasto: Obras
+Terra Prometida (10 ruas)
+- Unidade de Medida: m²
+- Meta: 15.750
+- Valor: US$ 574.610,00
+- Categoria de Gasto: Obras
+Jardim Josely (7 ruas)
+- Unidade de Medida: m²
+- Meta: 15.450
+- Valor: US$ 558.759,00
+- Categoria de Gasto: Obras
+Estância Paraíso (9 ruas)
+- Unidade de Medida: m²
+- Meta: 15.495
+- Valor: US$  562.722,00
+- Categoria de Gasto: Obras
+Jardim Canaã (18 ruas)
+- Unidade de Medida: m²
+- Meta: 17.490
+- Valor: US$ 634.053,00
+- Categoria de Gasto: Obras
+Jardim Piata (9 ruas)
+- Unidade de Medida: m²
+- Meta: 17.700
+- Valor: US$ 639.997,00
+- Categoria de Gasto: Obras
+      P - Obras de Contenção de Encostas
+Situado entre as Serras do Itapety, Serra do Mar e Serra da Mantiqueira, o relevo do município é predominantemente serra e
+planalto, com a expansão populacional, muitas dessas áreas atualmente estão habitadas, e muitas delas em áreas potencialmente
+de risco, e que com esse crescimento sem planejamento, as estruturas de contenção necessárias para a segurança dessa parcela
+da população não foram executadas, ou necessitam de uma readequação das suas funcionalidades. A contenção de encostas
+consiste em sistemas de obras de engenharia tal como retaludamento, proteção de superfícies com materiais naturais e artificiais e
+de drenagem adequadas. De acordo com o Plano Municipal de Redução de Riscos (2018), cerca de 2.428 moradias mapeadas
+encontram-se com risco de escorregamento e 3.672 de inundação, contudo o programa Desenvolve Itaquá tem por finalidade
+resolver e solucionar, se não toda mas, boa parcela desses problemas. 
+Área ITQ-SR-26 - Bairro Jardim Guarani
+- Unidade de Medida: m
+- Meta: 200
+- Valor: US$ 554.796,00
+- Categoria de Gasto: Obras
+Área ITQ-SR-24 - Bairro Cidade Nova Louzada
+- Unidade de Medida: m
+- Meta: 600
+- Valor: US$ 2.338.069,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Página: 9
+- Categoria de Gasto: Obras
+Área ITQ-SR-15 - Bairros Terra Prometida e Parque Dirce
+- Unidade de Medida: m
+- Meta: 600
+- Valor: US$ 1.307.733,00
+- Categoria de Gasto: Obras
+Área ITQ-SR-30 - Bairro Jardim Josely
+- Unidade de Medida: m
+- Meta: 300
+- Valor: US$ 1.783.273,00
+- Categoria de Gasto: Obras
+Área ITQ-SR-14 - Bairro Estância Paraíso
+- Unidade de Medida: m
+- Meta: 600
+- Valor: US$ 2.238.998,00
+- Categoria de Gasto: Obras
+Área ITQ-SR-17 - Bairro Jardim Canaã
+- Unidade de Medida: m
+- Meta: 180
+- Valor: US$ 1.664.388,00
+- Categoria de Gasto: Obras
+Área ITQ-SR-23 - Bairro Cidade Nova Louzada
+- Unidade de Medida: m
+- Meta: 250
+- Valor: US$ 2.805.683,00
+- Categoria de Gasto: Obras
+Área ITQ-SR-28 - Bairro Marengo
+- Unidade de Medida: m
+- Meta: 500
+- Valor: US$ 4.319.483,00
+- Categoria de Gasto: Obras
+Área ITQ-SR-29 - Bairro Marengo
+- Unidade de Medida: m
+- Meta: 180
+- Valor: US$ 1.624,760,00
+- Categoria de Gasto: Obras
+Área ITQ-SR-16 - Bairro Jardim Canaã
+- Unidade de Medida: m
+- Meta: 180
+- Valor: US$ 1.684.202,00
+- Categoria de Gasto: Obras
+Área ITQ-SR-27 - Bairro Jardim Piata
+- Unidade de Medida: m
+- Meta: 150
+- Valor: US$ 1.505.875,00
+- Categoria de Gasto: Obras
+Área ITQ-SR-25 - Bairro Vila Nicea
+- Unidade de Medida: m
+- Meta: 150
+- Valor: US$ 1.664.388,00
+- Categoria de Gasto: Obras
+Área ITQ-SR-21 - Bairro Piratininga
+- Unidade de Medida: m
+- Meta: 100
+- Valor: US$ 1.129.406,00
+- Categoria de Gasto: Obras
+Área ITQ-SR-18 - Bairro Chácara Coqueiro
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Página: 10
+- Unidade de Medida: m
+- Meta: 170
+- Valor: US$ 1.949.712,00
+- Categoria de Gasto: Obras
+Área ITQ-SR-31 - Bairro Vila Pinheirinho
+- Unidade de Medida: m
+- Meta: 100
+- Valor: US$ 1.228.477,00
+- Categoria de Gasto: Obras
+Área ITQ-SR-19 - Bairro Jardim Luciana
+- Unidade de Medida: m
+- Meta: 100
+- Valor: US$ 1.327.548,00
+- Categoria de Gasto: Obras
+Área ITQ-SR-22 - Bairro Vila Ferreira
+- Unidade de Medida: m
+- Meta: 100
+- Valor: US$ 1.505.875,00
+- Categoria de Gasto: Obras
+Área ITQ-SR-20 - Bairro Piratininga II
+- Unidade de Medida: m
+- Meta: 300
+- Valor: US$ 2.912.679,00
+- Categoria de Gasto: Obras
+C - GESTÃO DO PROGRAMA
+O Programa será gerenciado pela Secretaria Municipal de Obras (SEMO), composto por uma equipe multidisciplinar de
+profissionais técnicos capacitados. A SEMO atuará no desenvolvimento, monitoramento e fiscalização da execução das obras,
+considerando o cronograma proposto. 
+      P - Apoio à Gestão deo Programa, Supervisão Técnica, Ambiental e Social das Obras
+O Apoio à Gestão do Programa, e a Supervisão técnica, ambiental e social das obras compreendem a prestação dos serviços de
+apoio a SEMO - Secretaria Municipal de Itaquaquecetuba para a supervisão da implantação das obras e a supervisão das ações
+ambientais e sociais das intervenções constantes no Programa.
+Constituem etapas dos serviços: (1) Análise dos Projetos Básicos ou Executivos das obras que integram o Programa; (2)
+Supervisão das Ações Ambientais e Sociais; (3) Supervisão da Execução das Obras de Engenharia; e (4) Apoio a Gestão do
+Programa.
+      P - Elaboração de Estudos e Projetos de Engenharia
+A Secretaria de Obras, na fase preparação, detalhou os projetos a nível de básicos. Para a etapa de execução das obras é
+necessário, fazer o Projeto Executivo das intervenções. Assim, a SEMO irá contratar consultoria especializada para elaboração de
+projetos executivos de engenharia, sendo um processo já adotada pela Prefeitura, pois trata-se de serviço técnico especializado
+que não está disponível no seu quadro técnico permanente.
+      P - Auditoria Externa
+A Auditoria Externa é normalmente uma exigência contratual nos financiamentos externos, e ela será responsável pela avaliação
+dos desembolsos e investimentos do Programa. O período auditado será semestral, ao final do qual será emitindo um parecer
+sobre a conformidade do Contrato de Empréstimo. Esse trabalho fornecerá a SEMO possíveis ações corretivas para serem
+verificadas durante a execução do Programa.
+C - GASTOS FINANCEIROS
+Esses gastos são os custos do financiamento a serem pagos ao órgão financiador, como forma de Comissão de Financiamento e
+Gastos de Avaliação do Programa.
+      P - Comissão de Financiamento
+Esta Comissão é definida pelo Agente Financiador, e é estipulada como sendo de 0,85% sobre o valor total do empréstimo.
+      P - Gastos de Avaliação
+A Avaliação do Programa é de U$ 50 mil dólares americanos, a serem pagos ao órgão financiador.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Página: 11
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Obras
+-
+-
+58.075.255,00
+92,92
+P- Obras de Macro e Microdrenagem
+Metros
+36.525,00
+13.810.457,00
+22,10
+P- Obras de Reconstrução de Pavimentos
+Metro Quadrado
+219.150,00
+6.756.624,00
+10,81
+P- Obras de Reconstrução de Passeios
+Metro Quadrado
+109.575,00
+3.962.829,00
+6,34
+P- Obras de Contenção de Encostas
+Unidade
+18,00
+33.545.345,00
+53,67
+Consultoria
+-
+-
+3.949.745,00
+6,32
+P- Apoio à Gestão deo Programa, Supervisão
+Técnica, Ambiental e Social das Obras
+Contrato
+1,00
+2.959.041,00
+4,73
+P- Elaboração de Estudos e Projetos de
+Engenharia
+Projetos
+4,00
+792.563,00
+1,27
+P- Auditoria Externa
+Unidade
+1,00
+198.141,00
+0,32
+Outros
+-
+-
+475.000,00
+0,76
+P- Comissão de Financiamento
+Unidade
+1,00
+425.000,00
+0,68
+P- Gastos de Avaliação
+Unidade
+1,00
+50.000,00
+0,08
+Total Geral
+-
+-
+62.500.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+O município de Itaquaquecetuba já conta com projetos básicos, planilha orçamentária para drenagem, pavimentação, passeio e estudos
+elaborados para contenção de encostas, conforme previsto no Plano Municipal de Redução de Riscos. Para as demais obras e serviços
+pretende-se desenvolver os projetos executivos no decorrer do programa, objeto do presente pleito.
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Municipal
+MUNICIPIO DE  ITAQUAQUECETUBA(SP)
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+As Condições financeiras abaixo descritas, foram obtidas com o pretenso Organismo Financiador, o Banco de Desenvolvimento da
+América Latina e Caribe - CAF, seguindo como base de informações as solicitadas pelo SADIPEM - Sistema de Análise da Dívida Pública,
+ Operações de Crédito e Garantias da União, Estados e Municípios, e são as seguintes:
+
+- Taxa de juros: SOFR de 6 meses mais spread a ser definido na data da assinatura do contrato. A CAF costuma trabalhar com um spread
+ da ordem de 1,800%a.a. somada à SOFR semestral.
+- COMISSÃO DE COMPROMISSO equivalente a 0,35% aa (zero vírgula trinta e cinco por cento) anual, aplicada sobre o saldo não
+desembolsado do empréstimo.
+- COMISSÃO DE FINANCIAMENTO equivalente a 0,85% (zero vírgula oitenta e cinco por cento) do montante do empréstimo.
+- GASTOS DE AVALIAÇÃO equivalente a US$ 50.000,00 (cinquenta mil dólares).
+- JUROS DE MORA de 2,0% aa acima dos juros estabelecidos no contrato de empréstimo.
+- INDEXADOR: variação cambial.
+- Prazo de desembolso: 60 meses
+- Prazo de carência (meses): 66
+- Prazo de amortização (meses): 150.
+- Prazo total (meses): 216.
+ - Periodicidade das parcelas de amortização: semestral
+
+As condições financeiras finais serão definidas na data de assinatura do contrato.
+
+NECESSIDADE DE FINANCIAMENTO EXTERNO E A OPÇÃO PELO AGENTE FINANCEIRO
+O Município de Itaquaquecetuba, após avaliar os diversos bancos de desenvolvimento, selecionou como melhor agente a CAF ? Banco de
+Desenvolvimento da América Latina e Caribe para o seu financiamento. A instituição se diferencia por sua agilidade, taxas e condições
+competitivas de mercado e apresentou-se com maior disposição para apoiar o Município, demonstrando maior aderência ao projeto e o fez
+de forma mais célere. A CAF também conta com disponibilidade de suporte técnico, através da contratação de consultores que
+beneficiariam o desenvolvimento do projeto.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Página: 12
+As restrições orçamentárias impedem que se façam investimentos de grande vulto, como o Programa proposto.  Já a opção pela utilização
+de recursos advindos de financiamentos externos é feita, principalmente, pelas condições financeiras ofertadas, tais como taxas de juros
+mais acessíveis e carência de até 60 meses para o início da amortização das parcelas do empréstimo.
+
+Há que se ressaltar que com os recursos advindos de outras fontes, que não os recursos próprios do orçamento, permitem a antecipação
+de investimentos e projetos maiores, com maior alcance social e beneficiando uma parcela maior da população, liberando, parcialmente,
+os recursos do tesouro municipal para o pagamento de dívidas, por exemplo.
+
+De acordo com o projeto e as condições propostas pelo agente financiador, consideramos as condições de crédito da CAF na mesma
+condição de competitividade das demais, dentre elas pode-se destacar: (i) Prazo Total: até 240 meses; (ii) Prazo de Desembolso: até 5
+anos; (iii) Período de carência: 66 meses a partir da data da assinatura do contrato; (iv) Comissão de compromisso: 0,35%; (v) Comissão
+de financiamento: 0,85%; (vi) Taxa de juros: SOFR semestral + 1.8%; e (vi) Periodicidade das amortizações: semestrais.
+
+ANÁLISE COMPARATIVA
+Na comparação com agentes externos, a CAF (Banco de Desenvolvimento para a América Latina e Caribe) se apresenta como uma
+instituição prática e ágil voltada para a realidade do Município, destacando-se quatro pontos fundamentais: (i) Celeridade, quanto se trata
+da análise técnica de projetos, busca de soluções e tomada de decisões; (ii) A CAF não conta com ?Políticas de Aquisições?, permitindo
+que seja utilizada a legislação nacional vigente para todas as aquisições do Programa, ou seja, não seriam necessárias quaisquer
+atualizações ou revisões dos processos licitatórios já praticados pela administração pública; (iii) As condições financeiras do empréstimo
+são mais vantajosas; e (iv) Os consultores da CAF estão sempre à disposição e atendem prontamente ao atendimento de
+questionamentos, sejam eles relativos ao financiamento, ou ainda outras questões técnicas e administrativas..
+De acordo com o projeto e as condições propostas pelo agente financiador, consideramos as condições de crédito da CAF mais
+competitivas do que as demais, dentre as vantagens podemos destacar
+
+- Prazo de tramitação até análise da diretoria do banco: CAF ? Até 90 dias, dependendo da COFIEX; NDB: Até 90 dias, dependendo da
+COFIEX; FONPLATA: Até 90 dias, dependendo da COFIEX; BNDES ? 210 dias; CEF ? 180 dias; BIRD e BID ? 180 dias, dependendo da
+COFIEX.
+
+- Taxa de Juros: CAF: SOFR de 6 meses para dólar americano + spread (margem variável) a ser definido pela CAF; NDB: SOFR de 6
+meses + 1,10%; FONPLATA: SOFR de 6 meses para dólar norte americano + 2,64%; BNDES: 50% TJLP + 50% IPCA ou TS; CEF: 5,0%
+a.a; BID: Libor + 1,15% a.a (vigente no 2º trimestre de 2016 que corresponde a 1,85% a.a. para o dólar norte americano); BIRD: Libor + 1,
+65% a.a. (vigente após abril de 2016 para amortização entre 18 e 20 anos).
+
+- Custos Financeiros: CAF: comissão de compromisso de 0,35% a.a. sobre o saldo não desembolsado do empréstimo, aplicado seis
+meses após a assinatura do contrato; comissão de financiamento de 0,85% do montante do empréstimo, a ser pago até a data do primeiro
+desembolso. Gastos de avaliação em torno de US$ 50.000,00; NDB: Comissão de compromisso de 0,25% sobre o saldo não
+desembolsado do empréstimo, a ser efetivado 60 (sessenta) dias após assinatura do contrato de financiamento e montante sobre o qual a
+taxa índice, varia anualmente da seguinte forma: Ano 1: 15% do montante total do financiamento - Ano 2 ? 45% do montante total do
+financiamento - Ano 3 ? 85% do montante total do financiamento - Ano 4 ? 85% do montante total do financiamento - Comissão de
+financiamento: 0,25%; FONPLATA: comissão de compromisso de 0,50% a.a. sobre o saldo não reembolsado do empréstimo, aplicado
+seis meses após a assinatura do contrato; Comissão de financiamento de 0,70% do montante do empréstimo, a ser pago até a data do
+primeiro desembolso; BNDES: 1,5% a.a. remuneração + 1,0%, risco de crédito + 0,2% comissão de estudos + 0,3% comissão por
+colaboração financeira; CEF: 2,0% sobre saldo devedor + 1,0% risco de crédito; BID: 0,5% comissão de crédito; BIRD: 0,5% comissão de
+crédito.
+
+- Carência: CAF: 66 meses após a assinatura do contrato; NDB: Até 48 meses após a assinatura do contrato; FONPLATA: 48 meses após
+a assinatura do contrato; BNDES: Definida durante a análise da operação; CEF: 48 meses após a assinatura do contrato; BID: 48 meses
+após a assinatura do contrato; BIRD: 48 meses após a assinatura do contrato.
+
+2.11. PROJETO/BENEFICIÁRIO
+Os principais beneficiários do Programa serão os moradores do município de Itaquaquecetuba/SP contemplados com as ações previstas,
+ou seja, cerca de 370 mil habitantes serão impactados direta e positivamente por estas ações. Convém salientar que toda a população de
+Itaquaquecetuba será indiretamente beneficiada, visto que as intervenções do Programa facilitam a integração entre os bairros, o acesso
+dos serviços, a segurança e melhoram o desenvolvimento do município.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Página: 13
+O Programa impacta diversas áreas de Itaquaquecetuba, beneficiando a população nos mais diversos segmentos, melhorando a
+qualidade de vida da população, com a ampliação e qualidade do fornecimento de serviços e da infraestrutura urbana e,
+consequentemente, melhores condições de vida a todos. Vejamos as áreas estratégicas e respectivos impactos do Projeto e seus
+beneficiários.
+
+1.1. PROMOÇÃO DA SUSTENTABILIDADE AMBIENTAL, INCLUINDO AÇÕES DE ADAPTAÇÃO E MITIGAÇÃO
+O programa como um todo se apoia no tripé de sustentabilidade por ter como objetivo a realização de investimentos buscando a harmonia
+entre aspectos econômicos, sociais e ambientais. É importante ressaltar que uma gestão eficiente de modernização de vários aspectos,
+requer uma sucessiva adequação de infraestrutura desde à captação de água superficiais, até sua destinação. Portanto, obras e projetos
+para drenagem, pavimentação, passeio e contenção de encosta, terão como foco sistemas voltados aos processos de controle e tomada
+de decisão são fundamentais para contribuir para a sustentabilidade ambiental do município de Itaquaquecetuba. Na sustentabilidade
+ambiental, o município também tem 12 ecopontos, que contribui para destinação correta dos resíduos, evitando os descartes em áreas
+irregulares, dos quais causam impactos negativos como os alagamentos, por não permitir o escoamento das águas. As obras de
+drenagem serão eficientes, para mitigação dos alagamentos, tendo como interligação os ecopontos, que ambos contribuíram para
+preservação ambiental.
+
+1.2. EFICIÊNCIA ENERGÉTICA, GERAÇÃO E/OU USO DE ENERGIA DE FONTES RENOVÁVEIS
+O programa trata de obras de infraestrutura, e nos locais de intervenção, as obras possibilitará a modernização da iluminação com a
+colocação de lâmpadas LED que trará economia de energia, contribuição para reduzir o impacto no meio ambiente, prolongação da vida
+útil das lâmpadas e contribuirá para o controle da poluição e emissão de calor. Como exemplo de atuação temos a Iluminação da Vila São
+Carlos, que foi revitalizado por meio da utilização das lâmpadas de LED, sendo notória o impacto visual para área e os benefícios
+econômicos e ambientais.
+
+1.3. IMPLANTAÇÃO E/OU AMPLIAÇÃO DE AÇÕES DE SANEAMENTO BÁSICO
+Sabemos que as ações que visam solucionar as questões de Saneamento Básico são amplas e complexas, e que necessitam de uma
+atenção especial da gestão pública, este Programa propõe a reestruturação da infraestrutura urbana do município, sendo assim de suma
+importância a construção e ampliação dos dispositivos de Drenagem, Pavimentação, Passeio e Contenção de Encostas. Em que
+permitirão o escoamento eficiente das águas pluviais superficiais, devido ao novo complexo de Drenagem a ser construído, bem como
+toda a nova Pavimentação e Passeio. Desta forma, contribuindo para o bem estar, saúde e desenvolvimento socioeconômico das áreas
+atingidas cujos ônus da precariedade dos serviços se demonstram mais agravados. O município possui o Plano de Saneamento Básico e
+a Companhia de Saneamento Básico do Estado de São Paulo que é responsável pela coleta e tratamento de esgotos, que garantem o
+atendimento das necessidades da população. Essas obras serão importantes para que todos os atuantes consigam exercer o seu papel
+em melhorias no que diz respeito ao saneamento básico.
+
+1.4. GESTÃO INTEGRADA DE RECURSOS HÍDRICOS, INCLUINDO SEGURANÇA HÍDRICA E/OU CONSERVAÇÃO DE SOLOS E
+NASCENTES
+O Programa irá possibilitar em conjunto com o Plano de Saneamento Básico, a eficiência dos recursos utilizados e a conservação de
+áreas de mananciais, visto que o estudo irá identificar os pontos de atuação para que assim sejam contidas e posteriormente recuperadas.
+ 
+
+1.5. CONSERVAÇÃO E MANEJO DA BIODIVERSIDADE E/OU RECURSOS FLORESTAIS
+As obras previstas no Programa, por se tratarem, em grande parte, de intervenções locais e melhoria de sistemas existentes, serão
+necessários em algumas regiões a recuperação das áreas degradadas, visto que os impactos pelo crescimento desordenados já foram
+causados, os trabalhos serão realizados em mitigação e recuperação da biodiversidade.
+
+1.6. MELHORIA DO AMBIENTE DE NEGÓCIOS E/OU OPORTUNIDADES
+As obras de Drenagem, Pavimentação, Passeio e Contenção de Encosta, poderá viabilizar novos empreendimentos. Isso traz diversas
+oportunidades na construção civil, além de aquecer indiretamente o ambiente de negócios e influenciar diretamente no crescimento e
+desenvolvimento da cidade. 
+
+1.7. BENEFÍCIOS PARA EMPREENDEDORES INDIVIDUAIS, MICRO E PEQUENAS EMPRESAS
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Página: 14
+As obras e projetos deste programa visam garantir a disponibilidade da mobilidade urbana necessária para atender as demandas de
+funcionamento dos pequenos empreendimentos. Além disso, as obras gerais para o desenvolvimento do município, aliado ao
+desenvolvimento ordenado do município, promove um aquecimento da economia local com aumento da oferta e demanda de serviços/
+produtos, beneficiando indiretamente os empreendedores pequenos médios e grandes.
+
+1.8. GERAÇÃO DE EMPREGO E RENDA PARA POPULAÇÕES DE BAIXA RENDA E VULNERÁVEIS
+Com o aumento de oportunidades de novos negócios e aumentando as oportunidades para microempresas e empreendedores individuais,
+a população de baixa renda se beneficia, pois novas oportunidade de emprego são geradas, aumentando a fonte de renda e melhorando
+a qualidade de vida dessa parcela da população. Como o programa tem uma escala com utilização de recursos elevados, serão
+necessários para implementação um volume maior de colaboradores, podendo estimular a contratação da população de baixa renda e
+vulneráveis pela a aproximação de moradia aos locais de execução das obras. 
+
+1.9. INFRAESTRUTURA SUSTENTÁVEL PARA POPULAÇÕES DE BAIXA RENDA E VULNERÁVEIS
+A melhoria da prestação dos serviços de desenvolvimento, escopo do Programa proposto, irá propiciar uma melhor qualidade de vida a
+todos os moradores do município de Itaquaquecetuba. Em especial, a população de baixa renda, normalmente alocada longe da região
+central do município, será mais bem atendida por estes serviços. O município terá condições de realizar estudos para construções de
+novas UBS, Creches, escolas e centros comunitários, podendo levar lazer a população local com a melhoria da mobilidade urbana e a
+mitigação dos riscos de deslizamentos.
+
+1.10. AÇÕES DE INCLUSÃO DE MINORIAS SOCIAIS ENTRE OS BENEFICIÁRIOS
+As ações previstas no Programa proposto, por se tratar basicamente de melhorias e adequação na infraestrutura urbana como um todo,
+visam contribuir para a plena universalização dos serviços do presente pleito, garantindo mobilidade, segurança e cidadania às minorias
+sociais e populações em condição de vulnerabilidade. O programa beneficia as minorias, pois as áreas de execução são também
+destinadas a ocupação irregulares, sendo contemplados os residentes em áreas de risco, que é uma população vulnerável e terão impacto
+ direto na melhoria da qualidade de vida.
+
+1.11. POLÍTICAS VOLTADAS PARA JUVENTUDE, GÊNERO E RAÇA
+As obras e projetos, visando o melhoramento da infraestrutura urbana para toda população do município, propicia um ambiente mais
+igualitário às parcelas desta sujeita a condições estruturais. O programa mesmo tendo o objetivo de melhoria na infraestrutura, impacta
+diretamente nas politicas voltadas para a juventude, gênero e raça, visto as ações de proteção e melhoria da qualidade de vida, pois as
+obras destinam-se também a dignidade de moradia, ao acesso a saúde e Educação, que abrangem esse público, como um ganho para
+todos, com a inclusão social e gerando renda, para combater as desigualdades.
+
+1.12. MELHORIA E/OU INOVAÇÃO EM PROCESSOS DE PRESTAÇÃO DE SERVIÇOS PÚBLICOS, DE GESTÃO E/OU DE
+PARTICIPAÇÃO CIDADÃ
+O objetivo maior da inovação em processos de prestação de serviços é otimizar os recursos disponíveis, por meio de formas inovadoras
+de gestão e organização, promovendo mais benefícios à sociedade. Assim, a inovação serve como ferramenta para melhorar o
+desempenho organizacional e qualidade dos serviços, garantindo a participação do cidadão no percurso, com o uso de novas tecnologias.
+
+1.13. MELHORIA DAS CONDIÇÕES DE EDUCAÇÃO E SAÚDE
+A saúde e educação são temas que estão diretamente ligados a infraestrutura urbana, sendo este um instrumento de mobilidade essencial
+. Com isso, todas as obras impactam diretamente na melhoria da segurança, acessibilidade e condições de acesso aos serviços básicos,
+indispensáveis para toda a população. O programa visa fornecer condições para o deslocamento em áreas de difícil acesso, através do
+transporte público coletivo, individual, entrada de equipes de emergências, atenção domiciliar e de ônibus e vans escolares.
+
+1.14.  DESENVOLVIMENTO, INOVAÇÃO E MODERNIZAÇÃO TECNOLÓGICA
+O Desenvolvimento, inovação e modernização tecnológica, também faz parte do programa, visto a importância de processos mais
+eficientes na execução de obras desse porte, com estrutura direcionada para realização e o aproveitamento, sem perdas no processo e
+respeitando o meio ambiente.
+
+1.15. ARRANJOS DE FINANCIAMENTO QUE INCENTIVEM/CONTRIBUAM COM A PARTICIPAÇÃO PRIVADA
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Página: 15
+O investimento dos recursos previstos no Programa, principalmente no que se refere às obras de melhorias em todo o município, contarão
+basicamente com a participação de empresas do setor privado. Essas empresas serão contratadas por meio de processos licitatórios e os
+valores envolvidos, bem como a especificidade dos serviços, certamente atrairão um grande número de empresas do setor privado, que
+culminará com um incremento na contratação de mão de obra e outros impactos positivos relevantes.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Internas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Contrapartida Financeira
+CF
+US$
+12.500.000,00
+1,00
+12.500.000,00
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Corporação Andina de Fomento - CAF
+CAF
+US$
+50.000.000,00
+1,00
+50.000.000,00
+Total:
+62.500.000,00
+62.500.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+ARRANJO INSTITUCIONAL
+O projeto será gerenciado por uma Unidade de Gerenciamento do Projeto (UGP), formada por uma equipe multidisciplinar, composta por
+profissionais das Secretarias envolvidas e de assessorias e consultorias contratadas.
+
+Entende-se como UGP uma unidade criada por meio de instrumento legal, diretamente vinculada à diretoria da SEMO, sendo responsável
+pelo planejamento, coordenação, monitoramento e controle da execução das atividades do projeto.
+
+A UGP,  Unidade de Gerenciamento do Projeto, será instituída através de Decreto Municipal e seus membros nomeados por portaria do
+Poder Executivo e deverá prever o percentual mínimo de 10% de servidores efetivos em sua composição a fim de garantir a continuidade
+do processo de execução do projeto.
+
+A UGP ficará subordinada à SEMO e contará com uma Coordenação Geral, uma Coordenação Técnica e uma Coordenação
+Administrativa e Financeira.
+
+Para o apoio técnico e administrativo à UGP, a SEMO deverá contratar, no âmbito do Programa pretendido, uma empresa de consultoria
+especializada para a prestação de serviços de ?Apoio à Gestão do Programa, Supervisão Técnica, Ambiental e Social?, garantindo dessa
+forma o fiel cumprimento às cláusulas do Contrato de Empréstimo e também às salvaguardas socioambientais do Agente Financiador. 
+
+MATRIZ DE RESPONSABILIDADES
+Segue anexa ao pleito a Matriz de Responsabilidades que se pretende implantar para garantir a execução do Programa (Anexo 12).
+
+ESTRUTURA OPERACIONAL
+Caberá à Secretaria Municipal de Obras, através da UGP, entre outras, as seguintes atribuições:
+
+- Coordenar as ações do Programa no âmbito da Prefeitura Municipal de Itaquaquecetuba, com vistas ao alcance dos objetivos
+estabelecidos no Acordo do Empréstimo;
+- Acompanhar os processos licitatórios, analisar e consolidar os documentos referentes a estes, verificando a sua compatibilidade aos
+procedimentos estabelecidos, bem como a suficiência de documentos;
+- Consolidar as programações físicas e financeiras da implantação dos subcomponentes e ações do Programa, atualizando-as sempre
+que necessário no cronograma acordado;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Página: 16
+- Acompanhar o cumprimento das metas contratuais previstas no contrato de empréstimo com a CAF e estabelecer o controle de
+cumprimento das cláusulas contratuais;
+-  Manter políticas e procedimentos adequados que possibilitem o procedimento e avaliação contínua da execução do Programa, com
+vistas ao alcance dos objetivos propostos;
+- Acompanhar o pagamento de faturas e preparar as correspondentes prestações parciais de contas;
+- Consolidar as prestações de contas dos recursos aplicados no Programa;
+- Gerenciar os recursos alocados ao Programa e propor alterações na programação financeira durante sua execução, de acordo com
+prioridades estabelecidas;
+- Analisar as solicitações das alterações contratuais das obras e serviços, emitindo pareceres técnicos;
+- Adotar medidas corretivas necessárias para garantir a eficiente conclusão do Programa e alcance dos objetivos;
+- Acompanhar, supervisionar e avaliar a execução físico-financeira do Programa;
+- Dar suporte técnico ao longo da execução das obras, serviços e estudos;
+- Coordenar, acompanhar e dar suporte na elaboração dos documentos;
+- Elaborar solicitações de desembolso a CAF, com base nas programações financeiras das obras e serviços e encaminhar as respectivas
+prestações de contas, incluindo justificativas de adiantamento;
+- Mobilizar, sempre que necessário, com quantidade e perfil adequado, um corpo de especialistas para avaliar os impactos de fatos
+imprevistos sobre o andamento do Programa, ou realização de obras e serviços especiais e atividades afins;
+- Promover reuniões periódicas com a CAF sobre a execução do Programa com o objetivo de avaliar o progresso alcançado na
+implementação das atividades;
+- Acompanhar e controlar a implantação físico-financeira das obras e serviços procedendo às reprogramações necessárias, quando
+pertinente;
+- Preparar a documentação necessária às auditorias da CAF e dos órgãos de controle e fiscalização municipais, estaduais e federais;
+- Representar a Secretaria Municipal de Finanças nas questões relacionadas às ações administrativas, técnicas e financeiras resultantes
+do Programa, atuando como unidade de interface com a CAF durante sua execução;
+- Promover e coordenar, em colaboração com os organismos municipais pertinentes, as ações de divulgação do Programa e de interação
+com a comunidade abrangida, assegurando a manutenção de entendimentos e diálogo permanente com organismos e entidades
+representativas da sociedade local, estabelecendo parcerias que assegurem à efetividade do Programa.
+
+
+4.2. Execução/Executores
+Executor: Prefeitura Municipal de Itaquaquecetuba
+Representante Oficial:  
+Endereço da Sede:  
+E-mail Institucional:  
+Telefone:  
+Fax:  
+CNPJ:  
+UF: SP
+4.3. Execução/Prazo
+Prazo de Desembolso:
+5
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+CAF
+CF
+CAF
+C - OBRAS CIVIS
+58.075.255,00
+2.446.650,36
+9.786.601,44
+      P - Obras de Macro e Microdrenagem
+13.810.457,00
+1.104.836,56
+4.419.346,24
+      P - Obras de Reconstrução de Pavimentos
+6.756.624,00
+0,00
+0,00
+      P - Obras de Reconstrução de Passeios
+3.962.829,00
+0,00
+0,00
+      P - Obras de Contenção de Encostas
+33.545.345,00
+1.341.813,80
+5.367.255,20
+C - GESTÃO DO PROGRAMA
+3.949.745,00
+113.692,32
+834.769,28
+      P - Apoio à Gestão deo Programa, Supervisão Técnica, Ambiental e Social das Obras
+2.959.041,00
+42.361,64
+549.446,56
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Página: 17
+      P - Elaboração de Estudos e Projetos de Engenharia
+792.563,00
+63.405,04
+253.620,16
+      P - Auditoria Externa
+198.141,00
+7.925,64
+31.702,56
+C - GASTOS FINANCEIROS
+475.000,00
+475.000,00
+0,00
+      P - Comissão de Financiamento
+425.000,00
+425.000,00
+0,00
+      P - Gastos de Avaliação
+50.000,00
+50.000,00
+0,00
+Total
+0,00
+3.035.342,68
+10.621.370,72
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+CAF
+CF
+CAF
+C - OBRAS CIVIS
+3.122.312,76
+12.489.251,04
+      P - Obras de Macro e Microdrenagem
+1.104.836,56
+4.419.346,24
+      P - Obras de Reconstrução de Pavimentos
+675.662,40
+2.702.649,60
+      P - Obras de Reconstrução de Passeios
+0,00
+0,00
+      P - Obras de Contenção de Encostas
+1.341.813,80
+5.367.255,20
+C - GESTÃO DO PROGRAMA
+97.841,06
+771.364,24
+      P - Apoio à Gestão deo Programa, Supervisão Técnica, Ambiental e Social das Obras
+42.361,64
+549.446,56
+      P - Elaboração de Estudos e Projetos de Engenharia
+47.553,78
+190.215,12
+      P - Auditoria Externa
+7.925,64
+31.702,56
+C - GASTOS FINANCEIROS
+0,00
+0,00
+      P - Comissão de Financiamento
+0,00
+0,00
+      P - Gastos de Avaliação
+0,00
+0,00
+Total
+0,00
+3.220.153,82
+13.260.615,28
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+CAF
+CF
+CAF
+C - OBRAS CIVIS
+2.775.169,00
+11.100.676,00
+      P - Obras de Macro e Microdrenagem
+552.418,28
+2.209.673,12
+      P - Obras de Reconstrução de Pavimentos
+405.397,44
+1.621.589,76
+      P - Obras de Reconstrução de Passeios
+475.539,48
+1.902.157,92
+      P - Obras de Contenção de Encostas
+1.341.813,80
+5.367.255,20
+C - GESTÃO DO PROGRAMA
+97.841,06
+771.364,24
+      P - Apoio à Gestão deo Programa, Supervisão Técnica, Ambiental e Social das Obras
+42.361,64
+549.446,56
+      P - Elaboração de Estudos e Projetos de Engenharia
+47.553,78
+190.215,12
+      P - Auditoria Externa
+7.925,64
+31.702,56
+C - GASTOS FINANCEIROS
+0,00
+0,00
+      P - Comissão de Financiamento
+0,00
+0,00
+      P - Gastos de Avaliação
+0,00
+0,00
+Total
+0,00
+2.873.010,06
+11.872.040,24
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+CAF
+CF
+CAF
+C - OBRAS CIVIS
+1.929.105,08
+7.716.420,32
+      P - Obras de Macro e Microdrenagem
+0,00
+0,00
+      P - Obras de Reconstrução de Pavimentos
+270.264,96
+1.081.059,84
+      P - Obras de Reconstrução de Passeios
+317.026,32
+1.268.105,28
+      P - Obras de Contenção de Encostas
+1.341.813,80
+5.367.255,20
+C - GESTÃO DO PROGRAMA
+50.287,28
+581.149,12
+      P - Apoio à Gestão deo Programa, Supervisão Técnica, Ambiental e Social das Obras
+42.361,64
+549.446,56
+      P - Elaboração de Estudos e Projetos de Engenharia
+0,00
+0,00
+      P - Auditoria Externa
+7.925,64
+31.702,56
+C - GASTOS FINANCEIROS
+0,00
+0,00
+      P - Comissão de Financiamento
+0,00
+0,00
+      P - Gastos de Avaliação
+0,00
+0,00
+Total
+0,00
+1.979.392,36
+8.297.569,44
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+CAF
+CF
+CAF
+C - OBRAS CIVIS
+1.341.813,80
+5.367.255,20
+11.615.051,00
+46.460.204,00
+      P - Obras de Macro e Microdrenagem
+0,00
+0,00
+2.762.091,40
+11.048.365,60
+      P - Obras de Reconstrução de Pavimentos
+0,00
+0,00
+1.351.324,80
+5.405.299,20
+      P - Obras de Reconstrução de Passeios
+0,00
+0,00
+792.565,80
+3.170.263,20
+      P - Obras de Contenção de Encostas
+1.341.813,80
+5.367.255,20
+6.709.069,00
+26.836.276,00
+C - GESTÃO DO PROGRAMA
+50.287,28
+581.149,12
+409.949,00
+3.539.796,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Página: 18
+      P - Apoio à Gestão deo Programa, Supervisão Técnica, Ambiental e Social das Obras
+42.361,64
+549.446,56
+211.808,20
+2.747.232,80
+      P - Elaboração de Estudos e Projetos de Engenharia
+0,00
+0,00
+158.512,60
+634.050,40
+      P - Auditoria Externa
+7.925,64
+31.702,56
+39.628,20
+158.512,80
+C - GASTOS FINANCEIROS
+0,00
+0,00
+475.000,00
+0,00
+      P - Comissão de Financiamento
+0,00
+0,00
+425.000,00
+0,00
+      P - Gastos de Avaliação
+0,00
+0,00
+50.000,00
+0,00
+Total
+62.500.000,00
+1.392.101,08
+5.948.404,32
+12.500.000,00
+50.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+Serão necessários diversos atos e documentos legais, em diferentes instâncias, para garantir a viabilização do projeto.Como prioridade,
+coloca-se a aprovação da presente Carta-Consulta pela COFIEX, com a consequente incorporação das recomendações que esta
+comissão poderá emitir a propósito do Projeto.
+
+Deve-se proceder, ainda, às negociações relativas à garantia do Governo Federal para a operação de crédito pretendida, acordando as
+contragarantias que serão oferecidas.
+
+No que concerne aos trabalhos de preparação do projeto junto ao órgão financiador externo, os principais diplomas são: a formalização da
+Unidade de Gerenciamento do Projeto, bem como as obrigações no que se refere à operação e manutenção das estruturas implantadas
+pelo mesmo.
+
+Na sequência, virá a Lei Municipal autorizando a Prefeitura de Itaquaquecetuba a contrair os empréstimos e prevendo as formas e meios
+de pagamento, destinação dos empréstimos e indicando as garantias, bem como a obtenção da Autorização do Senado Federal. Além
+disso, será necessária a formalização do novo acordo junto ao Ministério Público Estadual. Para a concretização dessa ação, a Prefeitura
+abriu o Processo Administrativo n° 18069/2023 para aprovação da lei autorizativa.
+
+Quanto  à  Lei  de  Responsabilidade  Fiscal  (LRF),  a  administração  deve  apresentar  evidências  de  conformidade  no  cumprimento
+da  Lei  e regularidade dos requisitos fiscais obrigatórios para fins de celebração de instrumentos contratuais.
+
+Quanto à garantia da União, o Município deverá apresentar as condições de contragarantia ao Governo  Federal conforme legislação
+vigente.
+
+Quanto à criação da UGP, o Município irá criar por Decreto a Unidade de Gerenciamento do Programa, mitigando, desta forma, todos os
+riscos administrativos do processo de contratação da operação, condicionando os requisitos prévios para a assinatura do contrato de
+empréstimo.
+
+Convém ressaltar que o Município está enquadrado dentro dos limites exigidos pelo Governo Federal, possuindo capacidade de
+pagamento e endividamento - CAPAG, sendo seu "rating A". O risco cambial é considerável, contudo é reduzido quando aplicado o
+câmbio atual.
+
+Por fim, o Município tem ciência de que outros atos legais poderão ser requeridos pelo agente financiador ou pela União no processo de
+negociação do financiamento.
+
+5.2. RISCOS/CONTRATAÇÕES
+A Matriz de Riscos para as contratações considerou os Riscos referentes às contratações de obras, serviços e consultorias e os riscos e
+mobilização para realização do serviço deste projeto. As medidas efetivas para neutralização dos riscos apontados serão elaboradas tão
+logo sejam iniciados os preparativos para o início das obras.
+
+Os riscos de contratações estão principalmente relacionados à ausência de critérios durante a realização do procedimento licitatório o que
+pode resultar na escolha de empresa técnica ou financeiramente incapaz, podendo acarretar em: (i) ineficiência no acompanhamento das
+obras e do Programa; (ii) atraso na execução de obras e projetos; e (iii) incapacidade de investimento.
+
+MATRIZ DE RISCOS
+
+Descrição: Inobservância de todos os aspectos da Lei nº 8.666/93  ou da Lei 14.333/2021, independentemente de qual for aplicada nos
+processos licitatórios
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Página: 19
+Tipo do Risco: Risco Operacional 
+Impacto: Crítica
+Probabilidade de Ocorrência: Baixa
+Ação Mitigadora: Consultoria Jurídica para análise e orientação dos editais
+
+Descrição: Fraude interna
+Tipo de Risco: Risco Operacional 
+Impacto: Crítica
+Probabilidade de Ocorrência: Baixa
+Ação Mitigadora: Comissão Especial de processos licitatórios
+
+Descrição: Fraude externa
+Tipo de Risco: Risco Operacional 
+Impacto: Crítica
+Probabilidade de Ocorrência: Baixa
+Ação Mitigadora: Inclusão do Termo de Adesão à Lei nº 12.846/2013, ou Lei Anticorrupção, nos documentos contratuais firmados junto
+aos fornecedores contratados
+
+Descrição: Descumprimento de obrigações contratuais / legais 
+Tipo de Risco: Risco Operacional
+Impacto: Crítica
+Probabilidade de ocorrência: Baixa
+Ação Mitigadora: Acompanhamento constante do gerenciamento das obrigações assumidas pelos fornecedores perante a assinatura de
+Contrato e adoção de penalidade prevista na legislação vigente.
+
+Descrição: Penalidades por não cumprimento de exigibilidade 
+Tipo de Risco: Risco de Legislação
+Impacto: Crítica
+Probabilidade de Ocorrência: Baixa
+Ação Mitigadora: Garantir o cumprimento dos índices previstos na legislação.
+
+Descrição: Não atendimento aos regulamentos vigentes 
+Tipo de risco: Risco de Legislação
+Impacto: Crítica
+Probabilidade de Ocorrência: Baixa
+Ação Mitigadora: Check list dos regulamentos a ser realizado pela SEMO
+
+Descrição: Suspensão de Processos Licitatórios por instâncias superiores 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:23
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61064
+Página: 20
+Tipo de risco: Risco de Legislação
+Impacto: Crítica
+Probabilidade de Ocorrência: Média
+Ação Mitigadora: Consultoria especializada para análise da documentação e procedimentos.
+
+Descrição: Documentos legais incompletos ou ausentes 
+Tipo de risco: Risco Operacional
+Impacto: Moderado
+Probabilidade de Ocorrência: Baixa
+Ação Mitigadora: Check list da documentação a ser realizada pela SEMO
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+5.5. RISCOS/IMPACTO SOCIAL
+5.6. RISCOS/REASSENTAMENTOS
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+Informações relevantes
+- 28/12/2023: Retirada de pauta pela 170ª Cofiex, em 07/12/2023, por exceder o limite disponível para esta reunião.
+- 02/02/2024: Retirada de pauta da 172ª Cofiex, 14/03/2024, conforme Ofício n° 025/2024 - GP enviado em 2/2/2024.
+ 
+ 

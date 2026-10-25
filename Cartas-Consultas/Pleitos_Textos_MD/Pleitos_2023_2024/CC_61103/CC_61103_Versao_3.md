@@ -1,0 +1,5438 @@
+# Carta-Consulta CC_61103 — Versao 3 (SIGS)
+
+
+Projeto do Estado de São Paulo - Centro de Referência em excelência à saúde para a rede
+do Estado de São Paulo - HCFMUSP
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 61103
+Processo: 03101.000184/2024-43
+Mutuário: Estado de São Paulo
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  2 de Fevereiro de 2024
+
+Fontes Internas:
+Contrapartida Financeira: US$ 32.000.000,00
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 128.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+O Estado de SP, o mais populoso do BR, abriga aproximadamente 44 milhões de habitantes. Sua capital é a maior cidade do país, com
+cerca de 11,5 milhões de habitantes, e desempenha um papel crucial como centro comercial, contribuindo significativamente p/ o PIB
+nacional IBGE. Além disso, vale ressaltar que SP possui um IDH de 0,806, indicando um nível considerável de desenvolvimento social e
+econômico PNUD.
+
+Apesar desses nº positivos, o estado enfrenta diversos desafios em sua atuação, particularmente no setor saúde, que se encontra muito
+pressionado pelo aumento do nº de usuários e pelo envelhecimento da população, que tem gerado demandas cada vez maiores por
+serviços complexos de saúde relacionados às doenças crônicas, em um contexto de restrição orçamentária-financeira e de financiamento
+insuficiente. Neste cenário, a rede de saúde pública vem se mostrando fragilizada, aproximadamente 60% da população do estado
+depende exclusivamente do SUS; observa-se uma migração crescente de usuários do sistema complementar p/ o sistema público; e o
+estado, tradicionalmente, recebe um grande afluxo de usuários de outras unidades da federação p/ realização de procedimentos de alta
+complexidade.
+
+Outras questões evidentes e cruciais, p/ além das relacionadas ao perfil demográfico e epidemiológico, dizem respeito à subutilização de
+tecnologias avançadas, à falta de modernização e à deficiência em saúde digital que, certamente, agregariam ao sistema público uma
+condição de oferta de serviços de saúde mais oportuna e custo-efetiva. A oferta de serviços e produtos médicos que integrem profissionais
+e procedimentos a ferramentas e soluções tecnológicas têm efeitos diretos na redução de custos, no auxílio/segurança do paciente, na
+melhoria de diagnósticos/prognósticos, e propiciam ao sistema consideráveis ganhos de escala e produtividade p/ o atendimento de uma
+demanda tão expressiva.
+
+Estudo do CFM apontou que cerca de 37% dos hospitais públicos no BR não possuíam acesso à internet em suas unidades de internação
+e, aproximadamente 59% não possuíam prontuário eletrônico, dificultando o acesso rápido e seguro às informações dos pacientes e a
+tomada de decisões médicas.
+
+Atualmente, muitos dos hospitais da rede pública de saúde apresentam áreas assistências antigas e restritas a implantações de novas
+tecnologias e adequação a legislação vigente, bem como a fragilidade no desenvolvimento e capacitação dos profissionais da saúde no
+avanço tecnológico, visto que as redes hospitalares assistenciais representam um alto custo operacional para o Estado, dificultando a
+expansão ou realocação dos fundos para investimentos em tecnologias, modernização da infraestrutura, desenvolvimento e capacitação.
+
+Atualmente, SP conta com 26 mil leitos hospitalares / SUS com uma demanda elevada ao serviço de saúde desta forma, o HCFMUSP
+como referência nacional em diversos procedimentos médicos, representa cerca de &#8773; 10% dos leitos de SP e  35% dos
+atendimentos de alta complexidade na cidade de São Paulo SES-SP, 2021), cerca de 13,9% no estado de São Paulo (SES-SP, 2021) e
+aproximadamente 3,1 % no âmbito nacional (datasus.gov.br), sendo a principal instituição pública de saúde de SP, bem como no setor de
+saúde brasileiro e, por isso, apresenta-se como instituição estratégica p/ recepção de investimentos. Fundado em 44, o HCFMUSP
+desempenha um papel fundamental na oferta de serviços de saúde de alta qualidade à população, contribuindo anualmente com 114 mil
+atendimentos de urgência e emergência, 1,4 milhões de consultas, 70 mil internações, 47 mil cirurgias e 13,2 milhões de exames em
+medicina diagnóstica sendo referência nacional em diversos procedimentos médicos.
+
+O HCFMUSP está organizado em função de objetivos específicos e compreendem: Instituto Central, Instituto do Coração, Instituto da
+Criança, Instituto de Ortopedia e Traumatologia, Instituto de Psiquiatria, Instituto de Radiologia, Instituto de Medicina Física e Reabilitação,
+Instituto do Câncer do EST de SP, Instituto Perdizes, Laboratórios de Investigação Médica, Escola de Educação Permanente
+
+O HCFMUSP e os hospitais geridos pela SES-SP, sentem o reflexo das problemáticas apresentadas dificultando aprimoramento da
+jornada e experiência do paciente nestes serviços tão necessários a população.
+
+Nesta perspectiva, o GOV de SP, tendo como princípio o compromisso de oferecer uma atenção à saúde integral e eficaz p/ os cidadãos
+que acessam a rede estadual, tem optado, estrategicamente, em concentrar investimentos em unidades de saúde de referência de alto
+padrão, priorizando aquelas que têm capacidade de expansão rápida de oferta de procedimentos de alta complexidade, com qualidade e
+volume suficientes p/ suprimento da demanda.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+Com base no diagnóstico, o Gov. de SP, por meio da SES, define as seguintes propostas de enfrentamento e de melhoria da situação
+atual do sist. Público de saúde SP, a serem implementadas como centro de referência o HCFMUSP.
+
+O HCFMUSP pela diversidade de expertises e grande capacidade de realização de serviços especializados de saúde, representa um
+enorme potencial de expansão da oferta de procedimentos de saúde, c/ garantia de atendimento de excelência às necessidades
+prioritárias do estado. Dada a sua representatividade dentro do Estado SP, o HCFMUSP foi a instituição definida para o modelo a ser
+replicado a rede de saúde do Estado de SP.
+
+Destacamos a destinação prioritária de recursos para beneficiar a população atendida pelo SUS e colaboradores da saúde HC/SES,
+contribuindo para redução da desigualdade social, aprimoramento de conhecimento diante ao avanço tecnológico e maior segurança ao
+cuidado à saúde. Nossos resultados têm o foco central nas pessoas
+
+O Esforço contínuo em direcionar investimentos, fortalecer processos e otimizar recursos aos serviços prestados, garantindo a qualidade,
+acessibilidade, eficiência e sustentabilidade. A seguir apresentamos as soluções proposta com os respectivos resultados esperados:
+
+
+Página: 3
+
+- Investir na capacitação dos RH, criando um ambiente de aprendizado contínuo que valorize a inclusão, diversidade cultural,
+responsabilidade social e a inovação tecnológica, como solução, DESENVOLVIMENTO E CAPACITAÇÃO DE PESSOAS e como
+resultado esperado
+
+Aprimoramento e capacitação dos profissionais de saúde com educação continuada, transformação digital e habilidades
+
+Desenvolvimento de pessoas em princípios de sustentabilidade, inclusão, humanização e responsabilidade social e saúde mental
+
+Fomento de estratégias de atenção ao colaborador, cultura e ações sustentáveis a instituições públicas de saúde para garantir a sua
+aplicabilidade e referência para rede
+
+Retenção de talentos
+
+Redução da desigualdade social
+
+E atingir a meta de desenvolvimento e capacitação dos colaboradores
+
+- Modernizar as áreas físicas hospitalares e equipamentos médicos de forma a melhorar a qualidade de atenção prestada aos pacientes,
+como solução, CENTRO DE REFERÊNCIA NA JORNADA E EXPERIÊNCIA DO PACIENTE e como resultado esperado
+
+Modernização da infraestrutura em promoção do modelo mais adequado à jornada do paciente e equipamentos de saúde do estado,
+proporcionando melhora na segurança do paciente em ~ 30 mil m²
+
+Otimização de processos
+
+Redução de infecção hospitalar
+
+Redução de acidente de trabalho
+
+Modelo de referência para a rede SUS
+
+Equidade social e acessos qualificados na rede SUS
+
+- Impulsionar a incorporação de tecnologias p/ otimizar a prestação de serviços de saúde, aprimorar a eficiência operacional e elevar a
+experiência do paciente, como solução, CENTRO DE REFERÊNCIA TECNOLÓGICA e como resultado esperado
+
+Aprimoramento de sistemas de informação de dados e gestão da TI como modelo referência aos demais estabelecimentos de saúde de
+SP
+
+Expansão de sist. de prontuários único nos hosp SES p/ garantir melhor gestão dos dados, integração e seg. do paciente da rede e
+implantar em 06 hosp da SES que atualmente ñ dispõem dessa tecnologia
+
+Modernização do parque TI impulsionando a adoção do modelo de prestação de serviços de saúde compatível aos avanços tecnológicos
+
+TI estruturada para atender as necessidades da inovação com ~ 2000 equipamentos médicos; ~ 5000 computadores;
+
+A modernização tecnológica, proporciona diagnósticos mais precisos, maior agilidade do tempo de atendimento e otimização de energia
+
+Expansão da capacidade de comunicação sem fio principalmente nas áreas assistências com +1500 antenas de distribuição em áreas
+críticas
+
+Ampliação das barreiras de segurança ataque cibernético
+
+- Estabelecer um modelo de gestão sustentável e eficiente alinhado aos princípios ambiental, social e de governança, de maneira que
+sirva de ref. p/ sua replicação em SP, como solução, GOVERNANÇA E SUSTENTABILIDADE e como resultado esperado
+
+Implantação de um modelo como referência aos demais hospitais em relação a práticas e alternativas sustentáveis ao consumo de
+energia e resíduos sólidos
+
+Contribuirá significativamente com a eficiência energética de 80 milhões de KWH ano gerados pelo Hospital
+
+Redução de emissão de carbono, resíduos sólidos, hospital gera aproximadamente 1.477 de toneladas/dia e redução de risco de acidente
+ao manejo de resíduos
+
+Fortalecer a conscientização da preservação do meio ambiente;
+
+Publicação de relatórios com iniciativas das práticas de sustentabilidade como modelo de referência para a rede pública de saúde e a
+população
+
+
+Página: 4
+
+Fomento de estratégias de atenção ao colaborador, cultura e ações sustentáveis a instituições públicas de saúde p/ garantir a sua
+aplicabilidade e referência p/ rede de saúde
+
+- Garantir a implantações dos projetos propostos com metodologias e melhores práticas de gerenciamento de projetos com consultores
+experientes em implantação de projetos robustos, para apoiar o HCFMUSP e SES na execução de todos os projetos propostos e serviços
+especializados em projetos executivos para garantir uma execução de qualidade adequada a legislação vigente, como solução, GESTÃO
+DE PROJETOS e como resultado esperado
+
+Mitigação de riscos, maior controle de qualidade e maior controle do tempo de execução dos projetos propostos HC/SES e adequação a
+legislação vigente
+
+SUSTENTABILIDADE
+
+Todas as ações necessárias p/ a implantação dos projetos RENOVASUS-SES/SP como centro de referência, estão contempladas nos
+custos apresentados na proposta, foram definidos de forma em que, suas operacionalizações sejam realizadas com recursos existentes
+no HCFMUSP e nas unidades de saúde da SES/SP de forma a não onerar recursos financeiros futuros com a implementação dos projetos
+apresentados
+
+Os projetos foram planejados visando ao seu término a redução de desperdícios, maior eficiência e a sustentabilidade econômica tanto
+nos projetos de áreas estruturais, projetos com impacto assistenciais e não assistenciais, tendo suas operações custeadas pelos recursos
+já existentes, porém visando a otimização dos recursos como por exemplo a redução dos eventuais gastos decorrentes de manutenções
+corretivas com quebras de equipamentos com tempo prolongado de uso, obsoletos. Não sendo necessário a implantação de ações de
+sustentabilidade para manutenção dos projetos após sua operacionalização
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+A saúde em SP implica em altos e crescentes custos com o manejo clínico e assistencial necessários à demanda de saúde e, dada a
+limitação de recursos p/ o seu financiamento, esta condição impõe p/ SP a necessidade de investir mais em estratégia, processo de
+inovação e tecnologias digitais, de forma a aumentar o acesso a serviços de saúde de qualidade, sustentável, transparente e que favoreça
+o atendimento SUS
+
+SP tem ressaltado nos seus instrumentos de planejamento e gestão que a principal estratégia p/ o setor continua sendo a mudança
+gradativa do modelo assistencial, com a implantação de sistemas integrados baseados em redes de atenção à saúde, na perspectiva de
+proporcionar racionalidade e economicidade na oferta de serviços de saúde diante da demanda crescente
+
+Enfatiza-se a importância da estratégia de incorporação gradual de tecnologias digitais em saúde p/ melhorar a qualidade do cuidado, com
+o foco na jornada do paciente e na sustentabilidade de processo assistencial. SP vive um momento de reconstrução do setor, com a
+incorporação de novas tecnologias, visando a simplificar os cuidados e melhorar o fluxo das informações de saúde e, p/ isto, conta com a
+estrutura física e tecnológica do HCFMUSP como centro de referência a rede de saúde SES, uma das unidades assistenciais de ensino,
+pesquisa e desenvolvimento mais capacitada e atuante da América Latina
+
+Reorganização das práticas e dos processos de trabalhos p/ melhoria da qualidade da atenção à saúde, com a incorporação de novas
+tecnologias digitais em saúde;
+
+Desenvolvimento de tecnologias voltadas p/ disponibilização de informações que apoiem a gestão na tomada de decisão e, à
+sustentabilidade das ações de saúde de SP;
+
+Melhoria das condições operacionais de trabalho relacionadas a infraestrutura física, disponibilidade de equipamentos e materiais
+permanentes, mobiliário, veículos necessários ao desenvolvimento das atividades
+
+Alinhadas com o Plano Estratégico do HCFMUSP 24-27 e ao PPA de SP 24-27  Lei nº 1244/2023, 15/08/23 art. 4, incisos II - saúde
+pública com maior acesso, qualidade, resolutividade e tecnologia, para enfrentamento das principais causas de problemas de saúde e XI -
+gestão pública ágil para um governo digital, transparente, ético, técnico e focado em excelência dos serviços; com o objetivo da saúde
+integrada, com modernas tecnologias e amplo acesso que visa Fortalecer o sistema público de saúde através de uma rede ampla e
+integrada em todo território e dotada de novas tecnologias que promovam eficiência e qualidade nos serviços prestados, no qual podemos
+citar alguns programas associados (930, 941, 946, 947, 4808)
+
+Vide anexos
+
+- PPA 2024-2027
+
+- ORIENTAÇÕES ESTRATÉGICAS GOV SP E HCFMUSP
+
+- PLANEJAMENTO ESTRATÉGICO ASSINADO PELO SUPERINTENDENET DO HCFMUSP
+
+Contrapartida de 20% do total do projeto, conforme inciso II do art. 1o da Resolução COFIEX 03/2019 Câmbio U$ 1,00 taxa de conversão
+R$ 5,00 (valor estimado em 28/09/23 p/ base de cálculo dos projetos)
+
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+2. Projeto
+
+### 2.1. Título
+
+
+Projeto do Estado de São Paulo - Centro de Referência em excelência à saúde para a rede do Estado de São Paulo - HCFMUSP
+
+
+### 2.2. Título Abreviado
+
+
+RENOVA SUS-SES/SP
+
+
+### 2.3. Mutuário
+
+
+Estado de São Paulo
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Objetivos Geral:
+
+Contribuir para melhorar a qualidade e a sustentabilidade da atenção à saúde no Estado de São Paulo, consolidando um modelo de
+gestão hospitalar para replicação na rede pública de saúde.
+
+Indicadores Relacionados.
+
+-Pesquisa de Satisfação dos Colaboradores (eNPS)
+
+-Pesquisa de Satisfação dos Pacientes (NPS)
+
+Objetivos Específicos:
+
+A implantação dos projetos propostos tem como objetivo específico.
+
+1.0 Aprimorar modelo de integração, capacitação, desenvolvimento e valorização dos profissionais da saúde visando a replicação para
+instituições públicas de saúde do Estado de SP com a proposta dos produtos abaixo:
+
+-AMPLIAÇÃO DO PROGRAMA DE HUMANIZAÇÃO DA SES
+
+-APRIMORAMENTO DO PROGRAMA - COMBATE AO ASSÉDIO NO AMBIENTE ORGANIZACIONAL
+
+-PLATAFORMA DIGITAL - TRILHA DE APRENDIZAGEM
+
+-PROGRAMA DE CULTURA INSTITUCIONAL PARA TRABALHAR A INCLUSÃO, EQUIDADE E DIVERSIDADE
+
+-PROGRAMA DE SAÚDE MENTAL E QUALIDADE DE VIDA NO TRABALHO
+
+-PROGRAMA PARA PROFISSIONAIS SENIORES (50+)
+
+-PROGRAMAS DE CAPACITAÇÃO EM TECNOLOGIA, SAÚDE DIGITAL, SUSTENTABILIDADE E HABILIDADES
+
+1.1 Indicadores Relacionados.
+
+-% de profissionais da saúde desenvolvidos
+
+-Taxa de profissionais seniores (+ 50 anos) desenvolvidos
+
+-Redução da taxa de Absenteísmo de RH
+
+2.0 Promover a modernização das áreas físicas, para melhor adequação ao avanço tecnológico, legislação vigente e proporcionar
+melhorias para a jornada e experiência do paciente como centro de referência com a proposta dos produtos abaixo:
+
+-MODERNIZAÇÃO DOS AMBULATÓRIO DE CONSULTAS ORTOPEDICA E TRAUMA DO IOT - HCFMUSP
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 6
+
+-MODERNIZAÇÃO DOS AMBULATÓRIO DE CONSULTAS PEDIÁTRICAS DO ICR - HCFMUSP
+
+-MODERNIZAÇÃO DA CENTRO DE INFUSÃO - HCFMUSP
+
+-MODERNIZAÇÃO DA DIVISÃO CLÍNICA DE NEUROLOGIA DO ICHC - HCFMUSP
+
+-MODERNIZAÇÃO DA SERVIÇO DE ENDOSCOPIA GASTROINTESTINAL DO ICHC - HCFMUSP
+
+-MODERNIZAÇÃO DA UNIDADE DA GASTROENTEROLOGIA DO ICHC - HCFMUSP
+
+-MODERNIZAÇÃO DA UNIDADE DE CIRURGIA GERAL E CIRURGIA CABEÇA E PESCOÇO DO ICHC - HCFMUSP
+
+-MODERNIZAÇÃO DA UNIDADE DE CLÍNICA MÉDICA E RETAGUARDA DA EMERGÊNCIA DO ICHC - HCFMUSP
+
+-MODERNIZAÇÃO DA UNIDADE DE DIVISÃO DE DERMATOLOGIA DO ICHC - HCFMUSP
+
+-MODERNIZAÇÃO DA UNIDADE DE ENDOCRINOLOGIA DO ICHC - HCFMUSP
+
+-MODERNIZAÇÃO DA UNIDADE DE NEFROLOGIA DO ICHC - HCFMUSP
+
+-MODERNIZAÇÃO DA UNIDADE DE PLÁSTICA E QUEIMADOS DO ICHC - HCFMUSP
+
+-MODERNIZAÇÃO DA ENFERMARIA DE INTERNAÇÃO PEDIÁTRICAS DO ICR - HCFMUSP
+
+-MODERNIZAÇÃO DA UTI DAS CLÍNICAS MÉDICAS DO ICHC - HCFMUSP
+
+-MODERNIZAÇÃO DA UTI TRAUMA E ACOLHIMENTO DO ICHC - HCFMUSP
+
+-MODERNIZAÇÃO DA UTI DO IOT - HCFMUSP
+
+-MODERNIZAÇÃO DA UTI IPQ - HCFMUSP
+
+-MODERNIZAÇÃO DA DIVISÃO DE NUTRIÇÃO E DIETÉTICA DO ICHC - HCFMUSP
+
+-MODERNIZAÇÃO DA DIVISÃO DE NUTRIÇÃO E DIETÉTICA DO INCOR - HCFMUSP
+
+-MODERNIZAÇÃO DA ÁREA DE ATENDIMENTO E ACOLHIMENTO DE PACIENTES DO INRAD - HCFMUSP
+
+-ADEQUAÇÃO PREDIAL E ATENDIMENTO ÀS NORMAS VIGENTE DE SEGURANÇA NO COMPLEXO - HCFMUSP
+
+2.1 Indicadores Relacionados.
+
+-Redução de acidente de trabalho nas área revitalizadas com resíduos sólidos
+
+-Percentual (%) de adequação por Metro quadrado
+
+3.0 Promover a modernização de equipamentos a fim de garantir melhoria na jornada, experiência, qualidade e segurança do paciente
+como centro de referência com a proposta dos produtos abaixo:
+
+-MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DA RADIOTERAPIA - HCFMUSP
+
+-MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS CENTRAIS DE MATERIAIS A ESTERILIZAÇÃO - HCFMUSP
+
+-MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS ENFERMAGEM - HCFMUSP
+
+-MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS UNIDADES DE TERAPIA INTENSIVA - HCFMUSP
+
+-MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DE DIAGNÓSTICO POR IMAGEM - HCFMUSP
+
+-MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DE MEDICINA NUCLEAR - HCFMUSP
+
+-MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DO SERVIÇO DE APOIO DIAGNÓSTICO TERAPÊUTICO - HCFMUSP
+
+-MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS AMBULATÓRIOS - HCFMUSP
+
+-MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS CENTRO CIRÚRGICO - HCFMUSP
+
+(cid:10)
+(cid:10)
+
+
+Página: 7
+
+-MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS CENTROS DE ENDOSCOPIA - HCFMUSP
+
+-MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS LABORATÓRIOS - HCFMUSP
+
+-MODERNIZAÇÃO DA SALA DE EQUIPAMENTOS DE RADIOTERAPIA - HCFMUSP
+
+-ADEQUAÇÃO E MODERNIZAÇÃO DA CABINE PRIMÁRIA DO INCOR - HCFMUSP
+
+3.1 Indicadores Relacionados.
+
+-Tempo Médio Entre Falhas de equipamentos médicos (MTBF)
+
+4.0 Impulsionar e expandir soluções tecnológicas da informação para otimizar a prestação de serviço de saúde, aprimorar a eficiência
+operacional e elevar a qualidade, segurança e experiência do paciente com a proposta dos produtos abaixo.
+
+-MODERNIZAÇÃO DE DATACENTER E ESPAÇOS DE TECNOLOGIA DA INFORMAÇÃO - HCFMUSP
+
+-AMPLIAÇÃO DE COBERTURA REDE SEM FIO / MOBILIDADE - HCFMUSP
+
+-ATUALIZAÇÃO DE COMPUTADORES DO COMPLEXO - HCFMUSP
+
+-ATUALIZAÇÃO E EXPANSÃO DE FIREWALL PARA DATACENTER E UNIDADES - HCFMUSP
+
+-ATUALIZAÇÃO TECNOLÓGICA E EXPANSÃO DE RECURSOS DE PORTAIS DE ACESSO E MINERAÇÃO DE DADOS PARA
+PESQUISA - HCFMUSP
+
+-DESENVOLVIMENTO DE UM MODELO DE INFORMATIZAÇÃO BASEADO EM PRONTUÁRIO ÚNICO -SES
+
+-INCORPORAÇÃO DE PLATAFORMA DE REGISTRO ELETRÔNICO DE SAÚDE (RES) - SES
+
+-GUIA DE GEOLOCALIZAÇÃO DO PACIENTE - HCFMUSP
+
+4.1 Indicadores Relacionados.
+
+-N° de unidades de atendimento SES implantado - prontuário eletrônico
+
+-Quantidade de novos clientes engajados nas plataformas digitais / mês
+
+-Percentual de número de equipamentos obsoletos trocados por ano.
+
+5.0 Implementar práticas sustentáveis, visando a redução do consumo de recursos naturais, eficiência energética, responsabilidade social
+e corporativa visando a replicação do modelo para instituições públicas de saúde do Estado com a proposta dos produtos abaixo.
+
+-ESPAÇO DE DESCOMPRESSÃO COLABORADORES - HCFMUSP
+
+-MODERNIZAÇÃO DO CENTRO DE CAPACITAÇÃO DO NÚCLEO DE GESTÃO DE PESSOAS - HCFMUSP
+
+-ENERGIA LIMPA - HCFMUSP
+
+-GESTÃO DE RESÍDUOS - HCFMUSP
+
+5.1 Indicadores Relacionados.
+
+-Taxa de consumo de energia por m2 de área construída
+
+-Redução da taxa de resíduo sólidos por tonelada no HCFMUSP
+
+-Redução de acidente de trabalho nas área revitalizadas com resíduos sólidos
+
+6.0 Mitigar os riscos de implantação dos projetos com a proposta do componente abaixo.
+
+-Gestão de Projetos.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 8
+
+6.1 Indicadores Relacionados.
+
+-Proporção dos projetos em execução e entregues
+
+-Due-diligence: Avaliação de risco jurídico, financeiro e de imagem a ser avaliado antecipadamente à contratação de prestadores de toda
+cadeia de suprimentos
+
+*VIDE NOS ANEXOS - TABELA DE INDICADORES
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+
+
+Descrição
+Pesquisa de Satisfação dos Colaboradores (
+eNPS) (prazo: medido anualmente)
+
+% de profissionais da saúde desenvolvidos (
+prazo: medido semestralmente)
+
+Taxa de profissionais seniores (+ 50 anos)
+desenvolvidos (prazo: medido semestralmente)
+
+Redução da taxa de Absenteísmo de RH (prazo:
+medido mensalmente)
+
+Redução de acidente de trabalho nas área
+revitalizadas com resíduos sólidos (prazo:
+medido mensalmente)
+Pesquisa de Satisfação dos Pacientes (NPS) (
+prazo: medido semestral)
+
+Percentual (%) de adequação por Metro
+quadrado (prazo: medido anualmente)
+
+Tempo Médio Entre Falhas de equipamentos
+médicos (MTBF) (prazo: medido mensal)
+
+N° de unidades de atendimento SES implantado
+- prontuário eletrônico (prazo: medido
+anualmente)
+Taxa de consumo de energia por m2 de área
+construída (prazo: medido semestral)
+Redução da taxa de resíduo sólidos por tonelada
+no HCFMUSP (prazo: medido semestral)
+
+Due-diligence: Avaliação de risco jurídico,
+financeiro e de imagem a ser avaliado
+antecipadamente à contratação de prestadores
+de toda cadeia de suprimentos. (prazo: medido
+mensal)
+Proporção dos projetos em execução e
+entregues (prazo: medido mensal)
+
+Percentual de numero de equipamentos
+obsoletos trocados por ano. (prazo: medido
+semestralmente)
+
+Quantidade de novos clientes engajados nas
+plataformas digitais / mês (prazo: medido
+mensalmente)
+
+
+### 2.7. Projeto/Componentes
+
+
+Porcentagem (%)
+
+% Colab
+Capacitados
+
+% Satisfação
+Colaborador
+
+Fórmula de Cálculo Unidade de Medida
+(((qtde promotores -
+qtde detratores)/qtde
+respondentes)/n de
+colaboradores)*100
+Taxa de profissionais
+desenvolvidos = nº
+profissionais que
+concluíram o
+desenvolvimento/ nº
+total de profissionais
+indicados x 100
+Taxa de profissionais
+seniores
+desenvolvidos = nº
+profissionais seniores
+que concluíram o
+desenvolvimento/ nº
+total de profissionais
+seniores indicados x
+Taxa de absenteísmo
+= número de horas de
+trabalho perdidas /
+número ideal de horas
+trabalhadas X 100
+Número de acidentes
+de trabalho / mês
+
+Número de
+acidentes mês
+
+Porcentagem (%)
+
+% Satisfação
+Pacientes
+
+m²
+
+dias
+
+(((qtde promotores -
+qtde detratores)/qtde
+respondentes)/n de
+pacientes)*100
+(m² executado/ total
+de m² planejado) x
+MTBF = (tempo de
+funcionamento *
+tempo de manutenção
+) / nº de paradas
+n° de unidades
+implantadas/total x
+Energia consumida (
+ano) / Área construída
+(Total de resíduos
+sólidos / Institutos)*
+Nº prestadores
+avaliados no fluxo de
+Due-Diligence
+
+Total de entregas do
+projetos / entregas
+mês) * 100
+(Quantidade de
+equipamentos
+obsoletos)/Quantidade
+de novos
+equipamentos
+Nº de novos clientes
+mês
+
+
+Página: 9
+
+Meta
+85,00
+
+Linha de Base
+65,00
+
+50,00
+
+75,00
+
+10,00
+
+80,00
+
+10,00
+
+4,00
+
+70,00
+
+75,00
+
+14,00
+
+90,00
+
+0,00
+
+100,00
+
+64,65
+
+90,00
+
+Porcentagem (%)
+
+0,00
+
+100,00
+
+kWh/m² (em milhões
+/ ano)
+tonelada/instituto
+
+80,00
+
+100,00
+
+64,00
+
+80,00
+
+% Percentual de
+Fornec.
+
+Porcentagem (%)
+
+Porcentagem (%)
+
+100,00
+
+100,00
+
+0,00
+
+0,00
+
+100,00
+
+100,00
+
+Nº Clientes
+
+268.000,00
+
+538.000,00
+
+
+Componentes
+C - DESENVOLVIMENTO DE PESSOAS
+S - PROGRAMAS DE CAPACITAÇÃO
+P - AMPLIAÇÃO DO PROGRAMA DE HUMANIZAÇÃO DA SES
+P - APRIMORAMENTO DO PROGRAMA - COMBATE AO ASSÉDIO NO AMBIENTE ORGANIZACIONAL
+P - PLATAFORMA DIGITAL - TRILHA DE APRENDIZAGEM
+P - PROGRAMA DE CULTURA INSTITUCIONAL PARA TRABALHAR A INCLUSÃO, EQUIDADE E
+DIVERSIDADE
+P - PROGRAMA DE SAÚDE MENTAL E QUALIDADE DE VIDA NO TRABALHO
+P - PROGRAMA PARA PROFISSIONAIS SENIORES (50+)
+P - PROGRAMAS DE CAPACITAÇÃO EM TECNOLOGIA, SAÚDE DIGITAL, SUSTENTABILIDADE E
+HABILIDADES
+C - CENTRO DE REFERÊNCIA NA JORNADA E EXPERIÊNCIA DO PACIENTE
+S - CENTRO DE REFERÊNCIA NAS ÁREAS AMBULATORIAIS
+P - MODERNIZAÇÃO DOS AMBULATÓRIO DE CONSULTAS ORTOPEDICA E TRAUMA DO IOT - HCFMUSP
+P - MODERNIZAÇÃO DOS AMBULATÓRIO DE CONSULTAS PEDIÁTRICAS DO ICR - HCFMUSP
+P - MODERNIZAÇÃO DA CENTRO DE INFUSÃO - HCFMUSP
+S - CENTRO DE REFERÊNCIA NAS ÁREAS ASSISTENCIAIS DE INTERNAÇÃO, DIAGNÓSTICOS E
+TRATAMENTO
+P - MODERNIZAÇÃO DA DIVISÃO CLÍNICA DE NEUROLOGIA DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA SERVIÇO DE ENDOSCOPIA GASTROINTESTINAL DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DA GASTROENTEROLOGIA  DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DE CIRURGIA GERAL E CIRURGIA CABEÇA E PESCOÇO DO ICHC -
+HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DE CLÍNICA MÉDICA E RETAGUARDA DA EMERGÊNCIA DO ICHC -
+HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DE DIVISÃO DE DERMATOLOGIA DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DE ENDOCRINOLOGIA DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DE NEFROLOGIA DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DE PLÁSTICA E QUEIMADOS DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA ENFERMARIA DE INTERNAÇÃO PEDIÁTRICAS DO ICR - HCFMUSP
+S - CENTRO DE REFERÊNCIA DAS UNIDADES DE TERAPIA INTENSIVA (UTI)
+P - MODERNIZAÇÃO DA UTI DAS CLÍNICAS MÉDICAS DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA UTI TRAUMA E ACOLHIMENTO DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA UTI DO IOT - HCFMUSP
+P - MODERNIZAÇÃO DA UTI IPQ - HCFMUSP
+S - CENTRO DE REFERÊNCIA DE ÁREAS DE APÓIO À ASSISTÊNCIA
+P - MODERNIZAÇÃO DA DIVISÃO DE NUTRIÇÃO E DIETÉTICA DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA DIVISÃO DE NUTRIÇÃO E DIETÉTICA DO INCOR - HCFMUSP
+P - MODERNIZAÇÃO DA ÁREA DE ATENDIMENTO E ACOLHIMENTO DE PACIENTES DO INRAD -
+HCFMUSP
+P - ADEQUAÇÃO PREDIAL E ATENDIMENTO ÀS NORMAS VIGENTE DE SEGURANÇA NO COMPLEXO -
+HCFMUSP
+C - CENTRO DE REFERÊNCIA TECNOLÓGICA
+S - ADEQUAÇÃO E MODERNIZAÇÃO DO PARQUE TECNOLÓGICO COMO CENTRO DE REFERÊNCIA
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DA RADIOTERAPIA - HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS CENTRAIS DE MATERIAIS A ESTERILIZAÇÃO -
+HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS ENFERMAGEM - HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS UNIDADES DE TERAPIA INTENSIVA - HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DE DIAGNÓSTICO POR IMAGEM - HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DE MEDICINA NUCLEAR - HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DO SERVIÇO DE APOIO DIAGNÓSTICO TERAPÊUTICO
+- HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS AMBULATÓRIOS - HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS CENTRO CIRÚRGICO - HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS CENTROS DE ENDOSCOPIA - HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS LABORATÓRIOS - HCFMUSP
+P - MODERNIZAÇÃO DA SALA DE EQUIPAMENTOS DE RADIOTERAPIA - HCFMUSP
+P - ADEQUAÇÃO E MODERNIZAÇÃO DA CABINE PRIMÁRIA DO INCOR - HCFMUSP
+S - MODERNIZAÇÃO DA TECNOLOGIA DA INFORMAÇÃO COMO CENTRO DE REFERÊNCIA
+P - MODERNIZAÇÃO DE DATACENTER E ESPAÇOS DE TECNOLOGIA DA INFORMAÇÃO - HCFMUSP
+P - AMPLIAÇÃO DE COBERTURA REDE SEM FIO / MOBILIDADE - HCFMUSP
+P - ATUALIZAÇÃO DE COMPUTADORES DO COMPLEXO - HCFMUSP
+P - ATUALIZAÇÃO E EXPANSÃO DE FIREWALL PARA DATACENTER E UNIDADES - HCFMUSP
+P - ATUALIZAÇÃO TECNOLÓGICA E EXPANSÃO DE RECURSOS DE PORTAIS DE ACESSO E MINERAÇÃO
+DE DADOS PARA PESQUISA - HCFMUSP
+P - DESENVOLVIMENTO DE UM MODELO DE INFORMATIZAÇÃO BASEADO EM PRONTUÁRIO ÚNICO -
+SES
+
+
+Página: 10
+
+Valor(US$)
+8.500.000,00
+8.500.000,00
+288.135,59
+300.000,00
+1.858.474,58
+720.338,98
+
+1.872.881,36
+432.203,39
+3.027.966,10
+
+48.209.695,10
+10.748.863,19
+4.451.515,74
+1.869.636,61
+4.427.710,84
+20.724.913,33
+
+2.629.601,09
+1.855.240,04
+4.035.819,27
+2.527.428,45
+
+1.766.511,16
+
+2.409.123,29
+1.433.105,71
+1.433.105,71
+1.693.914,82
+941.063,79
+4.538.765,45
+2.131.385,74
+979.333,46
+947.282,55
+480.763,70
+12.197.153,13
+2.848.970,07
+4.451.515,74
+445.151,57
+
+4.451.515,75
+
+72.118.304,90
+40.993.019,82
+2.717.129,93
+644.715,44
+
+630.248,57
+5.246.633,15
+4.860.580,71
+4.642.433,49
+286.826,02
+
+253.856,24
+9.749.034,77
+3.452.523,53
+1.330.348,60
+104.505,00
+7.074.184,37
+31.125.285,08
+1.383.027,25
+1.123.709,64
+3.889.764,13
+864.392,03
+864.392,03
+
+20.000.000,00
+
+
+P - INCORPORAÇÃO DE PLATAFORMA DE REGISTRO ELETRÔNICO DE SAÚDE (RES) - SES
+P - GUIA DE GEOLOCALIZAÇÃO DO PACIENTE - HCFMUSP
+C - GOVERNANÇA E SUSTENTABILIDADE
+S - BEM ESTAR AO COLABORADOR
+P - ESPAÇO DE DESCOMPRESSÃO COLABORADORES - HCFMUSP
+P - MODERNIZAÇÃO DO CENTRO DE  CAPACITAÇÃO DO NÚCLEO DE GESTÃO DE PESSOAS -
+HCFMUSP
+S - SUSTENTABILIDADE AMBIENTAL
+P - ENERGIA LIMPA - HCFMUSP
+P - GESTÃO DE RESÍDUOS - HCFMUSP
+C - GESTÃO DE PROJETOS
+S - GESTÃO DE PROJETOS
+P - GESTÃO DE PROJETOS
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 11
+
+2.000.000,00
+1.000.000,00
+25.172.000,00
+1.172.000,00
+272.000,00
+900.000,00
+
+24.000.000,00
+21.000.000,00
+3.000.000,00
+6.000.000,00
+6.000.000,00
+6.000.000,00
+160.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - DESENVOLVIMENTO DE PESSOAS
+Os projetos de desenvolvimento de pessoas, tem como objetivo aprimorar as habilidades técnicas, fomentar a inovação e a
+criatividade, promover a cultura do aprendizado contínuo e a compreender as tendências e desafios da saúde digital. O Projeto irá
+criar uma força de trabalho preparada para contribuir na excelência do atendimento do SUS, na melhora da experiência e na
+jornada do paciente, serão capazes de impulsionar a inovação, melhorar os cuidados de saúde e contribuir para a visão de futuro
+de uma saúde digitalmente avançada, refletindo o conhecimento aos familiares, desta forma teremos uma população aderente à
+saúde digital e a excelência ao atendimento aos cuidados do paciente, trazendo benefícios a todos os pacientes do Sistema único
+de Saúde do Estado de São Paulo.
+
+S - PROGRAMAS DE CAPACITAÇÃO
+Neste subcomponente, que abrange os projetos de capacitação, conscientização e fortalecimento da cultura de ESG, o programa
+visa proporcionar treinamento e desenvolvimento aos colaboradores do HCFMUSP. O objetivo é aprimorar suas habilidades,
+conhecimentos, cultura e competências, a fim de desempenhar suas funções com qualidade, atendendo plenamente às
+necessidades de assistência, ensino e pesquisa. Além disso, busca-se promover seu crescimento profissional e pessoal,
+preparando-os para acompanhar o avanço tecnológico da saúde digital e difundir uma nova mentalidade de sustentabilidade
+ambiental, social e governança, tanto dentro quanto fora do ambiente hospitalar. Os profissionais de saúde serão capacitados de
+forma contínua, o que terá um impacto positivo na jornada do paciente, tornando-a mais eficiente, eficaz e reduzindo erros
+assistenciais.
+
+P - AMPLIAÇÃO DO PROGRAMA DE HUMANIZAÇÃO DA SES
+Este produto tem por objetivo o resgate dos fundamentos básicos que norteiam as práticas de saúde no SUS, por meio da
+valorização dos diferentes sujeitos implicados no processo de produção de saúde, reavaliar as políticas voltadas o acolhimento de
+jovens "programa Jovem Aprendiz Paulista do Governo do Estado de SP", incluindo-os nos programas de humanização e
+capacitação: usuários, trabalhadores e gestores. Pretende-se ainda fomentar estratégias de valorização do trabalhador, promover
+melhorias nas condições de trabalho (ambiência) e investimento na qualificação de trabalhadores e gestores. Destacam-se as
+diretrizes como expressam de um método de inclusão: Clínica Ampliada: diretriz para que trabalhadores, gestores da saúde e
+usuários possam produzir cuidado de forma a ajudar as pessoas, não só a combaterem as doenças, mas a transformarem-se, de
+forma que a doença, mesmo sendo um limite, não as impeçam de viverem outras coisas na vida. Cogestão ou Gestão
+Compartilhada: inclui o pensar e o fazer coletivo, centrado no trabalho em equipe, na construção coletiva e em espaços coletivos
+que garantem que o poder seja de fato compartilhado, por meio de análises, decisões e avaliações construídas coletivamente.
+Acolhimento: Acolher é um compromisso de resposta às necessidades dos cidadãos que procuram os serviços de saúde.
+Valorização do trabalho e do trabalhador: favorecer a visibilidade e dizibilidade das experiências dos trabalhadores e incluí-los na
+tomada de decisão, apostando na sua capacidade de analisar, definir e qualificar os processos de trabalho. Assim como na
+Educação Permanente em Saúde, reconhecer que no mundo do trabalho há encontros e trocas que podem possibilitar a produção
+de novos sentidos no fazer saúde e novas experiências de invenção de vidas. Ambiência - organização de espaços saudáveis,
+acolhedores de trabalho, políticas no trabalho voltado a inclusão e igualdade social (gênero e raça). Espaços de encontros entre
+sujeitos como um dispositivo que potencializa e facilita a interação, capacidade de ação e reflexão das pessoas envolvidas nos
+processos de trabalho.
+
+P - APRIMORAMENTO DO PROGRAMA - COMBATE AO ASSÉDIO NO AMBIENTE ORGANIZACIONAL
+Aprimorar o programa "Você Dialogando " tem como objetivo fortalecer a gestão de pessoas com o assédio no ambiente
+organizacional de forma a promover um ambiente de trabalho seguro, no qual os colaboradores se sintam psicologicamente
+protegidos. Nos últimos anos, as organizações enfrentam desafios significativos em relação à retenção de colaboradores, com um
+alto índice de desligamentos sendo relacionado às práticas de liderança adotadas. Como controle a estes eventos, o programa
+busca criar espaços de diálogo e alinhamento entre os gestores e os colaboradores, promovendo uma cultura de respeito e ética
+no trabalho. Além disso, o programa tem um caráter de compartilhamento de boas práticas com outros órgãos. Isso significa que a
+organização pretende difundir os resultados positivos alcançados por meio do programa, compartilhando experiências, estratégias
+e lições aprendidas. Ao fazer isso, busca-se contribuir para o desenvolvimento de um ambiente de trabalho mais saudável e
+produtivo em outras organizações.
+
+
+Página: 12
+
+P - PLATAFORMA DIGITAL - TRILHA DE APRENDIZAGEM
+Este produto, plataformas digitais para educação continuada na área da saúde, impulsionadas pelo avanço da saúde digital, têm
+como objetivo capacitar os profissionais de saúde com conhecimentos atualizados, promovendo a melhoria da prática clínica e o
+cuidado de qualidade aos pacientes. As plataformas podem oferecer fóruns de discussão, conscientização de programadas de
+ESG, grupos de estudo e comunidades online, onde os profissionais podem compartilhar casos clínicos, trocar experiências e
+debater tópicos relevantes. Isso promove a aprendizagem colaborativa e o networking profissional. A plataforma oferece benefícios
+como acesso conveniente a conteúdo atualizado, trilhas de aprendizado estruturadas, interação com outros profissionais e um
+alcance global, transcendendo as fronteiras geográficas. Neste produto, contemplar contratação de prestação de serviço
+especializada, infraestrutura física e tecnológica, treinamento e outras ações necessárias para viabilizar o projeto proposto
+
+P - PROGRAMA DE CULTURA INSTITUCIONAL PARA TRABALHAR A INCLUSÃO, EQUIDADE E DIVERSIDADE
+O Programa de Cultura Institucional focado na diversidade, equidade e inclusão é uma iniciativa estratégica para promover um
+ambiente de trabalho respeitoso e livre de discriminação de forma a estimular o respeito entre colaboradores, lideranças e
+liderados, pacientes e todos os públicos que passam pelo complexo do HCFMUSP. De forma a mitigar e combater qualquer forma
+de discriminação, seja ela baseada em gênero, raça, etnia, religião, orientação sexual, deficiência ou qualquer outra característica
+que possa gerar exclusão injusta. O programa envolve uma série de ações e práticas que promovem a conscientização, a
+sensibilização e a mudança de comportamento dentro da organização como: Políticas e diretrizes, Treinamentos e capacitações,
+Recrutamento e seleção, Comunicação interna e externa, Liderança inclusiva, Monitoramento e avaliações. Programa de Cultura
+Institucional voltado para a diversidade, equidade e inclusão, o HCFMUSP cria um ambiente, onde todos os colaboradores se
+sintam valorizados e respeitados, além de se posiciona de forma positiva perante seus pacientes e demais públicos, demonstrando
+seu compromisso com a justiça social e a igualdade de oportunidades.
+Durante o desenvolvimento do projeto, serão oferecidos treinamentos e atividades de desenvolvimento definidas no programa. Os
+colaboradores serão engajados nesse processo e terão a oportunidade de adquirir novos conhecimentos, aprimorar suas
+habilidades e aplicar o aprendizado no contexto de seu trabalho diário. Em resumo, a capacitação de colaboradores é promover o
+crescimento e o desenvolvimento dos membros por meio de treinamentos e atividades de aprendizagem, de forma a melhorar seu
+desempenho e aumentar sua produtividade para contribuir com a assistência.
+
+P - PROGRAMA DE SAÚDE MENTAL E QUALIDADE DE VIDA NO TRABALHO
+Este produto tem o objetivo de estruturar um programa de Qualidade de Vida no Trabalho, um programa voltado a preocupação a
+saúde mental e qualidade de vida dos colaboradores, implantar projetos relacionados a bem-estar, prevenção e cuidados a saúde.
+Este programa poderá ser aderente a outras Instituições como boas práticas. Este projeto terá resultado na satisfação dos
+pacientes (NPS), redução dos índices de doenças relacionadas ao trabalho, redução do índice de absenteísmo e redução do índice
+de rotatividade (Turnover).
+
+P - PROGRAMA PARA PROFISSIONAIS SENIORES (50+)
+O desenvolvimento do programa "Profissionais Maduros 50+" é uma iniciativa voltada  para profissionais com mais de 50 anos de
+idade, com o objetivo principal em valorizar a experiência e habilidades adquiridas ao longo dos anos, reconhecendo o potencial do
+colaborador para contribuir de forma significativa para as organizações. Uma das principais metas do programa é garantir o
+acesso aos estudos e desenvolvimento profissional e pessoal dos participantes de forma a aprimorar as habilidades dos
+profissionais maduros. Essas oportunidades educacionais ajudam a garantir que os participantes estejam atualizados com as
+tendências do mercado de trabalho e preparados para enfrentar os desafios atuais. Além disso, o programa busca estender sua
+abrangência para outros órgãos e instituições, a fim de contribuir para uma sociedade qualificada no mercado de trabalho de forma
+mais ampla permitindo que o programa alcance um número maior de profissionais maduros e beneficia um público mais amplo
+aproveitando todo o potencial desses profissionais.
+
+P - PROGRAMAS DE CAPACITAÇÃO EM TECNOLOGIA, SAÚDE DIGITAL, SUSTENTABILIDADE E HABILIDADES
+Este produto oferece um amplo conjunto de programas de capacitação em tecnologia, ESG (Environmental, Social, and
+Governance), habilidades e cultura em saúde digital. Ele abrange tanto o uso de ferramentas e metodologias em plataformas
+digitais quanto o ensino presencial em salas de aula, com uma abordagem estruturada. A capacitação é direcionada a profissionais
+médicos e de várias outras áreas, visando fortalecer a importância do paciente como foco principal, garantindo segurança,
+eficiência e qualidade em toda a jornada de cuidados. Além disso, o programa está aberto para adesão por outras instituições
+públicas, com o objetivo de capacitar de forma contínua os colaboradores da área da saúde. O programa de capacitação tem a
+meta de treinar 20 mil colaboradores e busca alcançar também seus familiares, promovendo uma mudança cultural em relação à
+tecnologia e sustentabilidade, tanto dentro como fora do ambiente hospitalar, com benefícios para toda a sociedade.
+
+C - CENTRO DE REFERÊNCIA NA JORNADA E EXPERIÊNCIA DO PACIENTE
+Este componente tem como objetivo aprimorar a jornada do paciente no HCFMUSP, buscando garantir sua segurança em um
+ambiente mais adequado. Serão implementadas estratégias que trarão impactos positivos na experiência do paciente,
+proporcionando um ambiente amplo, moderno e seguro, garantindo maior privacidade dos pacientes, readequação do número de
+salas em relação às normas vigentes em conformidade com o avanço tecnológico, tornando-se uma referência à rede pública de
+saúde. Além de oferecer uma experiência positiva ao paciente, teremos impacto em indicadores assistenciais, como por exemplo:
+Redução na taxa de infecções hospitalares e redução no tempo de permanência. Este componente abrange compartilhar boas
+práticas em segurança do paciente ao Sistema único de Saúde, visando fortalecer a referência do HCFMUSP, nacional e
+internacional. Esta proposta está em conformidade integral com os marcos regulatórios e responsabilidade social e corporativa.
+
+
+Página: 13
+
+S - CENTRO DE REFERÊNCIA NAS ÁREAS AMBULATORIAIS
+Este subcomponente visa realizar adequações nas áreas ambulatoriais do hospital, buscando proporcionar ao SUS um ambiente
+acolhedor, funcional e seguro para consultas e atendimentos de pacientes em regime de ambulatório. Serão implementadas
+melhorias na infraestrutura, organização, ampliação dos espaços e aprimoramento do fluxo dos pacientes, visando proporcionar
+uma melhoria na experiência do paciente.
+
+P - MODERNIZAÇÃO DOS AMBULATÓRIO DE CONSULTAS ORTOPEDICA E TRAUMA DO IOT - HCFMUSP
+Neste projeto, serão estabelecidos aprimoramentos ambulatórios destinados a consultas no Instituto de ortopedia e traumatologia.
+Esses ambulatórios, após modernização e melhorias da infraestrutura, oferecerão um melhor atendimento, exames
+complementares, reabilitação, terapia ocupacional, fisioterapia e tratamentos específicos da especialidade do instituto, sendo
+referência no Sistema único de Saúde.
+
+P - MODERNIZAÇÃO DOS AMBULATÓRIO DE CONSULTAS PEDIÁTRICAS DO ICR - HCFMUSP
+Neste projeto, serão realizados adequações e aprimoramento das enfermarias de internação pediátrica no hospital ICR, SUS.
+Serão implementadas melhorias nas instalações, aquisição de equipamentos adequados às necessidades das crianças, no
+objetivo do aprimoramento do cuidado pediátrico, proporcionado ao público infantil e seus familiares um ambiente mais
+humanizado durante toda a jornada do paciente.
+
+P - MODERNIZAÇÃO DA CENTRO DE INFUSÃO - HCFMUSP
+A Proposta da implantação de um centro de infusão será para atender às necessidades de pacientes que requerem terapias
+intravenosas, como quimioterapia, medicamentos imunobiológicos, antibióticos, terapia de reposição de fluidos, dentre outros
+tratamentos. O centro de infusão será equipado com equipamentos necessários para garantir a segurança e a eficiência do
+tratamento, proporcionando ao paciente um ambiente mais humanizado. Proporcionando ao Sistema único de Saúde uma eficácia
+no tratamento e otimização de processos com maiores benefícios aos pacientes SUS. A implantação contempla infraestrutura
+física, infraestrutura tecnológica, equipamentos, materiais e adequação de fluxo operacional, treinamento entre outras ações para
+aprimorar e implementar o centro de infusão, que irá contribuir com a redução do tempo de internação, aumento do giro de leito,
+desta forma aumenta o número de atendimento nos leitos de internação.
+
+S - CENTRO DE REFERÊNCIA NAS ÁREAS ASSISTENCIAIS DE INTERNAÇÃO, DIAGNÓSTICOS E TRATAMENTO
+Este subcomponente refere-se às melhorias na jornada do paciente a serem realizadas nas áreas de internação, diagnósticos e
+tratamento do Instituto Central e Instituto da Criança, buscando adequar esses espaços para garantir melhor segurança ao
+paciente, otimizar processos, proporcionar um ambiente mais humanizado e eficiente para os pacientes do Sistema único de
+Saúde que necessitam de cuidados de internação. Isso inclui revitalizar e aprimorar as infraestruturas físicas das instalações e
+aquisição de equipamentos específicos.
+
+P - MODERNIZAÇÃO DA DIVISÃO CLÍNICA DE NEUROLOGIA DO ICHC - HCFMUSP
+Este projeto, refere-se à adequação da área da divisão clínica de neurologia no hospital ICHC e a concepção de uma área
+especifica para o AVC proporcionando melhor cuidado a saúde dos pacientes de alta complexidade. O objetivo é adequar e
+aprimorar as instalações para melhor eficiência dos serviços especializados em neurologia, como consultas, exames diagnósticos
+e tratamento de doenças neurológicas.
+
+P - MODERNIZAÇÃO DA SERVIÇO DE ENDOSCOPIA GASTROINTESTINAL DO ICHC - HCFMUSP
+O Serviço de Endoscopia Gastrointestinal do HCFMUSP é reconhecido como o centro mais importante da América Latina, na
+especialidade. É voltado para assistência, ensino, pesquisa e conta com salas de exames nas diferentes áreas.
+Serão disponibilizados recursos para investimentos em infraestrutura e equipamentos especializados para a realização de exames
+endoscópicos no trato gastrointestinal, permitindo o aprimoramento do processo diagnóstico, qualidade das imagens, resultados
+mais precisos com melhora no direcionamento ao tratamento de diversas condições clínicas relacionadas a essa especialização.
+
+P - MODERNIZAÇÃO DA UNIDADE DA GASTROENTEROLOGIA  DO ICHC - HCFMUSP
+Neste projeto, será estabelecida a adequação do espaço e modernização da unidade de gastrenterologia no hospital ICHC. O
+objetivo é com um ambiente adequado e tecnológico aprimorar os serviços especializados no diagnóstico e tratamento de doenças
+do sistema digestivo, como consultas, exames endoscópicos e procedimentos terapêuticos específicos.
+
+P - MODERNIZAÇÃO DA UNIDADE DE CIRURGIA GERAL E CIRURGIA CABEÇA E PESCOÇO DO ICHC - HCFMUSP
+Neste projeto, será estabelecida a adequação e reforma estrutural da unidade de cirurgia geral e cirurgia de cabeça e pescoço no
+hospital ICHC. O objetivo é aprimorar a eficiência no atendimento de pacientes e serviços especializados à região da cabeça e
+pescoço, bem como cirurgias gerais diversas por meio de modernização da área.
+
+P - MODERNIZAÇÃO DA UNIDADE DE CLÍNICA MÉDICA E RETAGUARDA DA EMERGÊNCIA DO ICHC - HCFMUSP
+Neste Projeto, será estabelecida a adequação e reforma estrutural da unidade de clínica médica e retaguarda de emergência no
+hospital ICHC. O objetivo é aprimorar a eficiência no atendimento de pacientes com condições clínicas diversas, oferecendo um
+melhor suporte e cuidados médicos especializados.
+
+P - MODERNIZAÇÃO DA UNIDADE DE DIVISÃO DE DERMATOLOGIA DO ICHC - HCFMUSP
+Este projeto refere-se à adequação da unidade da internação de dermatologia do hospital ICHC. Com o objetivo de aprimorar os
+serviços oferecidos na área de dermatologia, como consultas, diagnóstico e tratamento de doenças de pele, casos como além de
+procedimentos dermatológicos específicos.
+
+
+Página: 14
+
+P - MODERNIZAÇÃO DA UNIDADE DE ENDOCRINOLOGIA DO ICHC - HCFMUSP
+Neste projeto, será estabelecida a adequação e reforma estrutural da unidade de endocrinologia no hospital ICHC. O objetivo é
+aprimorar a eficiência no atendimento, por meio da modernização do espaço físico, garantindo serviços especializados em
+endocrinologia com alta qualidade e complexidade.
+
+P - MODERNIZAÇÃO DA UNIDADE DE NEFROLOGIA DO ICHC - HCFMUSP
+Neste projeto, será estabelecida a adequação e reforma estrutural da unidade de nefrologia no hospital ICHC. O objetivo é
+aprimorar a eficiência no atendimento de pacientes e no diagnóstico e tratamento de doenças renais, oferecendo ao serviço um
+melhor espaço para consultas, exames específicos e terapias renais substitutivas.
+
+P - MODERNIZAÇÃO DA UNIDADE DE PLÁSTICA E QUEIMADOS DO ICHC - HCFMUSP
+Neste projeto, será estabelecida a adequação e reforma estrutural da unidade de plástica e queimados no hospital ICHC. O
+objetivo é aprimorar a eficiência no atendimento por meio da modernização do espaço, assim garantindo um melhor atendimento
+no tratamento de queimaduras e em procedimentos cirúrgicos plásticos reparadores, com uma equipe multidisciplinar e recursos
+adequados para essas intervenções.
+
+P - MODERNIZAÇÃO DA ENFERMARIA DE INTERNAÇÃO PEDIÁTRICAS DO ICR - HCFMUSP
+Neste projeto item refere-se à modernização da enfermaria da pediátricas no Instituto da Criança, sendo referência para o Sistema
+Único de Saúde. Serão implementadas modernizações para melhoria nas instalações, aquisições de equipamentos adequados às
+necessidades das crianças para um melhor atendimento, considerando suas particularidades e necessidades de cuidados
+especiais, que trará qualidade no atendimento aos pacientes.
+
+S - CENTRO DE REFERÊNCIA DAS UNIDADES DE TERAPIA INTENSIVA (UTI)
+Este subcomponente tem como objetivo adequar as unidades de terapia intensiva (UTIs) do hospital, visando proporcionar um
+ambiente propício para o atendimento e monitoramento de pacientes em estado crítico e de alta complexidade. Serão realizadas
+melhorias estruturais, aquisição de equipamentos especializados, treinamento da equipe e implementação de protocolos
+adequados para oferecer uma terapia intensiva de alta qualidade aderente à saúde digital, melhorando a jornada e a experiência
+do paciente, impactando positivamente os resultados aos cuidados à saúde no Sistema único de Saúde
+
+P - MODERNIZAÇÃO DA UTI DAS CLÍNICAS MÉDICAS DO ICHC - HCFMUSP
+Este projeto refere-se à adequação da Unidade de Terapia Intensiva (UTI) do hospital ICHC, especializado em clínica médica geral
+. Serão implementadas melhorias na estrutura física, aquisição de equipamentos de última geração, com o objetivo de garantir um
+ambiente seguro e adequado para o cuidado de pacientes em estado grave e a possibilidade de ampliar a oferta de leitos de UTI
+no ICHC.
+
+P - MODERNIZAÇÃO DA UTI TRAUMA E ACOLHIMENTO DO ICHC - HCFMUSP
+Este projeto, visa a adequação e modernização da Unidade de Terapia Intensiva (UTI) voltada para o atendimento de pacientes
+traumatizados, sendo o HC referência de urgência e emergência em casos críticos no Estado de São Paulo. Além disso, haverá
+uma adequação no espaço de acolhimento de seus familiares, oferecendo infraestrutura de qualidade, segura e humanizada
+durante o período de internação na UTI.
+
+P - MODERNIZAÇÃO DA UTI DO IOT - HCFMUSP
+Este projeto refere-se à adequação da Unidade de Terapia Intensiva (UTI) do hospital IOT, especializado em ortopedia e
+traumatologia. Serão implementadas melhorias na estrutura física, aquisição de equipamentos de última geração, com o objetivo
+de garantir um ambiente seguro e adequado para o cuidado de pacientes em estado grave.
+
+P - MODERNIZAÇÃO DA UTI IPQ - HCFMUSP
+Este projeto refere-se à adequação da Unidade de Terapia Intensiva (UTI) do hospital IPq, especializado em psiquiatria. Serão
+implementadas melhorias na estrutura física, aquisição de equipamentos de última geração, com o objetivo de garantir um
+ambiente seguro e adequado para o cuidado de pacientes em estado grave.
+
+S - CENTRO DE REFERÊNCIA DE ÁREAS DE APÓIO À ASSISTÊNCIA
+Este subcomponente, visa umas adequações das áreas destinadas ao suporte e apoio à assistência médica. Isso inclui a
+otimização de espaços, reformas estruturais, melhoria da infraestrutura para melhorar a jornada e a experiência do paciente. O
+objetivo é proporcionar um ambiente funcional e eficiente, que contribua para a qualidade e segurança dos cuidados prestados aos
+pacientes pelo sistema único de saúde, impactando significativamente os resultados ao cuidado à saúde.
+
+P - MODERNIZAÇÃO DA DIVISÃO DE NUTRIÇÃO E DIETÉTICA DO ICHC - HCFMUSP
+Este projeto refere-se aos serviços de nutrição e dietética do ICHC que atualmente encontra-se com mais de 40 anos sem
+manutenção estrutural. A área será revitalizada, visando garantir os processos de produção alimentar mais eficiente e adequada,
+de acordo com as necessidades e prescrições médicas dos pacientes. Isso envolve adequação e modernização do espaço, assim
+como aquisição de equipamentos modernos, resultando positivamente na experiência dos pacientes durante seus cuidados.
+
+
+Página: 15
+
+P - MODERNIZAÇÃO DA DIVISÃO DE NUTRIÇÃO E DIETÉTICA DO INCOR - HCFMUSP
+Este projeto refere-se aos serviços de nutrição e dietética do InCor responsável pelos serviços de nutrição e dietética encontra-se
+há muitos anos sem manutenção estrutural. A área será revitalizada, visando garantir os processos de produção alimentar mais
+eficiente e adequada, de acordo com as necessidades e prescrições médicas dos pacientes. Isso envolve adequação e
+modernização do espaço, assim como aquisição de equipamentos modernos, resultando positivamente na experiência dos
+pacientes durante seus cuidados.
+
+P - MODERNIZAÇÃO DA ÁREA DE ATENDIMENTO E ACOLHIMENTO DE PACIENTES DO INRAD - HCFMUSP
+Este projeto se refere ao aprimoramento do atendimento e acolhimento na recepção do Instituto de Radiologia. Atualmente o InRad
+, tem entradas descentralizadas para cada modalidade de exames. A Centralização do Atendimento e Acolhimento trará
+modernização do espaço, além da otimização e racionalização deste atendimento. Oferecer um atendimento mais eficiente,
+garantindo o suporte necessário aos pacientes durante sua entrada no hospital, proporcionando um ambiente mais adequado e
+humanizado aos pacientes do Sistema único de Saúde.
+
+P - ADEQUAÇÃO PREDIAL E ATENDIMENTO ÀS NORMAS VIGENTE DE SEGURANÇA NO COMPLEXO - HCFMUSP
+Este projeto, almeja a adequações no complexo HCFMUSP visando atender as normas e regulamentações vigentes relacionadas
+as edificações. Serão implementadas medidas para garantir a segurança nas instalações, a prevenção de riscos com
+monitoramento em tempo real e centralizado, manutenção de um ambiente seguro para pacientes, funcionários e visitantes. O
+sistema único de Saúde estará aderente a todas as normas de segurança predial.
+
+C - CENTRO DE REFERÊNCIA TECNOLÓGICA
+Na última década o ambiente hospitalar tem sido afetado diretamente pela aceleração do desenvolvimento tecnológico. Nesse
+contexto, o uso de equipamentos médicos também sofreu diversas atualizações, estamos diante de cenários de alta qualidade e
+eficiência, os quais são essenciais para oferecer diagnósticos precisos, tratamentos adequados e cuidados de saúde eficazes. A
+adequação e a modernização do parque tecnológico médico, tecnologia da informação no HCFMUSP e implantação de sistema de
+prontuários eletrônico na rede de saúde do Estado  de São Paulo, proporcionarão substituição de equipamentos obsoletos por
+modelos mais eficientes operacionalmente, como também maior eficiência energética, redução de resíduos, incorporação de novas
+funcionalidades e recursos tecnológicos, a otimização do desempenho e a melhoria da qualidade dos serviços prestados na rede
+pública de referência para o Estado de São Paulo traz um impacto positivamente em sustentabilidade e governança. Esta proposta
+está em conformidade integral com os marcos regulatórios e responsabilidade social e corporativa.
+
+S - ADEQUAÇÃO E MODERNIZAÇÃO DO PARQUE TECNOLÓGICO COMO CENTRO DE REFERÊNCIA
+Este Subcomponente abrange os investimentos para a renovação do parque tecnológico médico, equipamentos obsoletos,
+inadequados e não aderentes às novas tecnologias, deverão ser substituídos. A substituição irá permitir agilidade no atendimento
+dos pacientes SUS, contribuindo positivamente na experiência e na jornada do paciente, com benefícios em atendimentos mais
+ágeis, laudos mais precisos, eficiência energética, redução de gastos com manutenções corretivas, aumento de capacidade
+operacional, minimizando o tempo de equipamentos parados.
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DA RADIOTERAPIA - HCFMUSP
+Este produto abrange a aquisição de investimentos em equipamentos como gama câmara e aceleradores lineares. Esses são
+equipamentos que possuem tecnologia complexa e com constante atualização. O parque do HCFMUSP possui um tempo médio
+de vida de 10 anos. Com este investimento haverá ganhos nos procedimentos realizados, sendo esse mais precisos e seguros,
+bem como redução no consumo de energia, aumento da disponibilidade e redução da necessidade de manutenções corretivas.
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS CENTRAIS DE MATERIAIS A ESTERILIZAÇÃO - HCFMUSP
+Este produto abrange investimentos para renovação do parque tecnológico dos equipamentos de central de material e esterilização
+, abrange equipamentos como autoclaves e lavadoras termo de infectaras. Com essa renovação, o tempo médio entre falhas dos
+equipamentos será aumentado, e consequentemente a disponibilidade dos equipamentos aumenta. Desta forma, será possível
+aumentar a quantidade de material cirúrgico que é preparado e disponibilizado, sendo possível aumentar a quantidade de cirurgias
+que podem ser realizadas. Além disso, os novos equipamentos trarão redução no consumo de energia elétrica e de água.
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS ENFERMAGEM - HCFMUSP
+Este Produto engloba equipamentos essenciais para o cuidado, conforto e segurança dos pacientes, como camas hospitalares,
+monitores multiparamétricos, oftalmoscópio, oxímetro de pulso, entre outros. A atualização dessas novas tecnologias e sistemas
+mais avançados podem trazer benefícios significativos, podendo proporcionar melhora na qualidade de atendimento, trazendo mais
+agilidade para os processos, facilitando a comunicação e fornecendo informações mais precisas sobre o estado do paciente. As
+novas tecnologias promovem aumento da eficiência otimizando rotinas de trabalho, reduzindo tempo gasto em tarefas
+administrativas e melhorando o desempenho da equipe assistencial. Permitindo que os profissionais dediquem mais tempo a
+prestação de cuidados diretos aos pacientes, aumentando a disponibilidade de equipamentos e agilidade no atendimento.
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS UNIDADES DE TERAPIA INTENSIVA - HCFMUSP
+Este Produto é referente a aquisição de Equipamentos das unidades de terapia intensiva são utilizados no cuidado de pacientes
+que precisam de observação 24 horas. Ventiladores pulmonares, monitores, multiparâmetros e cama elétrica com balança são
+exemplos dos equipamentos utilizados nas UTIS. Com a atualização do parque tecnológico, a disponibilidade de leitos fica
+ampliada, sendo possível aumentar a taxa de ocupação desses setores no tratamento de pacientes com qualquer
+descompensação clínica e após a realização de cirurgias complexas. Além disso, com a evolução tecnológica, o tempo de
+internação dos pacientes será reduzido. Os novos equipamentos terão uma maior disponibilidade para o uso, um maior tempo
+entre falhas, e apresentaram um consumo menor de energia elétrica, sendo assim, equipamentos mais sustentáveis.
+
+
+Página: 16
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DE DIAGNÓSTICO POR IMAGEM - HCFMUSP
+Este produto engloba equipamentos avançados, como ressonância magnética, ultrassom, tomografia e raios-x fixos e móveis, que
+desempenham um papel crucial na realização de diagnósticos mais precisos. Isso resulta em uma otimização do tempo, reduzindo
+o período de espera para esses procedimentos aumentando a agenda de exames para mais pacientes. Além disso, essas
+tecnologias contribuem para a redução do uso de recursos, pois as imagens detalhadas fornecidas por esses equipamentos
+reduzem a necessidade de cirurgias exploratórias. Isso também permite uma melhor utilização dos recursos médicos,
+possibilitando decisões mais assertivas por parte dos profissionais de saúde. Adicionalmente, as novas tecnologias também
+contribuem para a redução de resíduos, através da transição de imagens médicas impressas para as digitais, eliminando o uso de
+filmes e químicos.
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DE MEDICINA NUCLEAR - HCFMUSP
+Este produto abrange equipamentos como Tomografia por Emissão de Pósitrons e Ressonância Magnética por Emissão de
+Pósitrons. Tais equipamentos são exames avançados de imagem que combinam a tomografia por emissão de pósitrons com a
+tomografia computadorizada ou a ressonância magnética, respectivamente. Esses exames são amplamente utilizados na medicina
+para auxiliar no diagnóstico, estadiamento e monitoramento de várias condições médicas, principalmente câncer. Com esse
+investimento haverá a melhoria no processo de diagnóstico gerados pelos médicos radiologistas através de imagens mais nítidas,
+com melhor resolução e com auxílio de inteligência artificial. Também haverá o aumento da disponibilidade e redução da
+necessidade de manutenções corretivas.
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DO SERVIÇO DE APOIO DIAGNÓSTICO TERAPÊUTICO - HCFMUSP
+Este produto contempla aquisições de equipamentos de apoio diagnóstico terapêutico que englobam mapas e gravadores de mapa
+, fibrogastroscópios e focos auxiliares. As novas tecnologias de mapas permitem diagnósticos mais assertivos dos pacientes,
+reduzindo a necessidade de novos exames para identificação de patologias. Os novos fibrogastroscópios permitem a realização de
+ações durante o procedimento para garantir maior qualidade do resultado obtido ou intervenções de caráter terapêutico. Os focos
+auxiliares são essenciais para a visualização adequada das áreas de interesse durante procedimentos tanto diagnósticos quanto
+terapêuticos. Assim, a aquisição desses equipamentos garantirá um alto ganho de produtividade para a equipe assistencial, a qual
+conseguirá de forma mais rápida e efetiva diagnosticar e tratar pacientes, aumentando o fluxo de atendimentos na instituição.
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS AMBULATÓRIOS - HCFMUSP
+Este Produto engloba os equipamentos de ambulatório,  utilizados na terapia e diagnósticos de pacientes. Equipamentos da área
+de fisioterapia (Equipamento de movimento passivo contínuo), obstetrícia (cardiotocógrafo), ginecologia (colposcópio), odontologia
+(Raios-x Periapical), otorrinolaringologia (impedanciômetro), oftalmologia (aberrômetro) entre outras disciplinas da medicina. A
+atualização do parque de equipamentos destas áreas trará ganhos relacionados à redução na geração de resíduos, pois alguns
+destes equipamentos utilizam itens descartáveis, bem como aumento da capacidade de atendimento, pois esses equipamentos
+possuem procedimentos mais sofisticados, os quais requerem menos tempo para a terapia ou o diagnóstico. Também haverá o
+aumento da disponibilidade e redução da necessidade de manutenções corretivas.
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS CENTRO CIRÚRGICO - HCFMUSP
+Este Produto abrange aquisições, dentre os equipamentos agrupados nessa categoria, estão os equipamentos essenciais para a
+realização dos procedimentos cirúrgicos com segurança para o paciente e ergonomia aos colaboradores, como bisturis elétricos,
+focos cirúrgicos, aparelhos de anestesia, mesas, cirúrgicas e microscópios cirúrgicos. A aquisição de equipamentos com as novas
+tecnologias irá garantir maior produtividade para a equipe, tendo em vista que equipamentos obsoletos que apresentam períodos
+curtos entre as falhas ou reparos inviáveis serão substituídos por equipamentos que permitem a recuperação pós-cirúrgica mais
+rápida dos pacientes, assim aumentando a quantidade de cirurgias realizadas, reduzindo a necessidade de cancelamento de
+cirurgias previamente agendadas. Além disso, os equipamentos também irão contribuir com a sustentabilidade e redução de danos
+ao ambiente provocados pela instituição, através da redução da emissão de gases anestésicos pelos aparelhos de anestesia e
+maior eficiência energética dos equipamentos, por exemplo.
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS CENTROS DE ENDOSCOPIA - HCFMUSP
+Este produto refere a aquisição de equipamentos de endoscopia, utilizados para visualização de órgãos internos dos pacientes.
+Para esses equipamentos existem constante evolução, melhorando de forma contínua a qualidade das imagens geradas. Com
+esse investimento haverá a melhoria no processo de diagnóstico gerados pelos médicos endoscopistas através de imagens mais
+nítidas, com melhor resolução e com auxílio de inteligência artificial (em alguns casos), bem como aumento da disponibilidade e
+redução da necessidade de manutenções corretivas.
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS LABORATÓRIOS - HCFMUSP
+Este Produto abrange os equipamentos laboratoriais, tais como criostato, processadora de tecidos, estufas para grânulos e
+micrótomo, desempenham um papel fundamental na identificação e investigação de doenças. Ao atualizar o parque tecnológico, é
+possível obter uma maior eficiência energética, uma vez que os equipamentos mais modernos consomem menos energia,
+resultando em economia. Além disso, as tecnologias avançadas contribuem para um consumo otimizado de recursos, pois
+permitem reduzir o uso de reagentes e materiais de laboratório, graças a recursos como dosagem automática. Outro benefício é a
+redução de resíduos, como a transição para análises automáticas e digitais, eliminando a necessidade de uso de papel. A
+manutenção e a durabilidade dos equipamentos modernos também são vantajosas, uma vez que eles tendem a ter uma vida útil
+mais longa e exigem menos manutenção, minimizando as interrupções no funcionamento do laboratório. Ademais, há uma
+melhoria na precisão e qualidade das análises realizadas, proporcionando resultados mais confiáveis.
+
+
+Página: 17
+
+P - MODERNIZAÇÃO DA SALA DE EQUIPAMENTOS DE RADIOTERAPIA - HCFMUSP
+Este produto abrange a adequação da sala de equipamentos de radioterapia, visa preparar a estrutura com suas devidas
+instalações de segurança e equipamentos para receber a nova tecnologia em radioterapia.
+
+P - ADEQUAÇÃO E MODERNIZAÇÃO DA CABINE PRIMÁRIA DO INCOR - HCFMUSP
+Este produto abrange a aquisição do sistema elétrico de potência, composto pela entrada de energia, painéis de transferência,
+disjuntores e grupos geradores do InCor, que possuem 40 anos de uso e estão obsoletos. Necessários para garantir confiabilidade,
+adequação a normas técnicas e segurança das instalações. Com a infraestrutura elétrica atualizada, seremos capazes de
+gerenciar de forma mais eficiente a demanda de energia elétrica, evitando desperdícios e otimizando o uso dos recursos
+disponíveis. A confiabilidade aprimorada do fornecimento elétrico resultante do retrofit garantirá a operação contínua de
+equipamentos médicos críticos, sistemas de suporte à vida e iluminação essencial, contribuindo diretamente para o cuidado e a
+segurança dos pacientes. Demonstramos ainda nosso compromisso com a governança corporativa sólida, tomando medidas
+proativas para mitigar riscos operacionais, melhorar a eficiência e garantir a continuidade das operações do hospital.
+
+S - MODERNIZAÇÃO DA TECNOLOGIA DA INFORMAÇÃO COMO CENTRO DE REFERÊNCIA
+A tecnologia da informação desempenha um papel crucial na melhoria da eficiência operacional, impactando na jornada e
+experiência do paciente SUS dentro do ambiente hospitalar. Além disso, é importante manter a infraestrutura tecnológica do
+Hospital atualizado sobre as últimas tendências e avanços tecnológicos na área da saúde e áreas de apoio. Investimento em
+sistema informatizado, como por exemplo prontuário eletrônico, é essencial para garantir a eficiência operacional, proteção e
+gestão dos dados clínicos. Dentro desta proposta será utilizado as melhores soluções disponíveis para aprimorar a experiência do
+paciente e apoiar o desenvolvimento contínuo dos colaboradores. Do ponto de vista ambiental, a informatização contribui
+significativamente para a redução do uso de papel, economizando recursos naturais e reduzindo o impacto ambiental. Além disso,
+a digitalização e informatização de processos promove a eficiência energética, uma vez que muitos processos manuais intensos e
+demorados podem ser substituídos por processos automatizados e otimizados.
+
+P - MODERNIZAÇÃO DE DATACENTER E ESPAÇOS DE TECNOLOGIA DA INFORMAÇÃO - HCFMUSP
+O projeto proposto visa uma reestruturação integral do espaço físico do nosso Data Center, priorizando o retrofit para acomodação
+de equipamentos tecnológicos avançados. Esta readequação abrangerá as estruturas civis, elétricas, sistemas de climatização e
+segurança, com a incorporação de soluções contemporâneas e sistemas de automação predial. Tal medida garante um melhor
+tempo de resposta e assegura o funcionamento eficaz e autônomo da infraestrutura.
+Os espaços de tecnologia são pilares na operação hospitalar, com implicações diretas no cuidado ao paciente e no fomento à
+pesquisa e inovação. Além de aprimorar o principal espaço de processamento de dados, visamos transformar áreas
+complementares em ambientes colaborativos e produtivos, favorecendo o engajamento e a troca de informações entre segmentos
+diversos.
+Este investimento não é apenas uma renovação tecnológica, mas uma iniciativa estratégica com potencial para revolucionar o
+atendimento ao paciente, a eficiência operacional e consolidar o hospital como referência em inovação médica. Em um contexto
+fortemente digital, uma infraestrutura de TI moderna é fundamental e, ao buscar apoio financeiro, enfatizamos que tal investimento
+é crucial para manter nossa instituição na vanguarda dos cuidados de saúde.
+
+P - AMPLIAÇÃO DE COBERTURA REDE SEM FIO / MOBILIDADE - HCFMUSP
+Visando melhorar a conectividade e a mobilidade dos equipamentos conectados dentro do hospital o produto por meio da
+expansão da infraestrutura de rede sem fio de forma a beneficiar os pacientes tanto no atendimento quanto em sua jornada. A
+conectividade confiável e rápida é essencial para apoiar as atividades assistenciais diárias de garantir uma comunicação eficiente
+entre os profissionais de saúde, pacientes e sistemas hospitalares. A ampliação da cobertura da rede sem fio visa garantir que
+todos os espaços dentro do hospital estejam cobertos por uma conexão estável e de alta velocidade, permitindo que as equipes de
+saúde tenham acesso imediato às informações dos pacientes, resultados de exames, registros médicos eletrônicos e outros
+recursos digitais necessários para fornecer atendimento aos pacientes do SUS com qualidade e excelência. A melhoria da
+mobilidade implica na implementação de tecnologias que permitam a comunicação e o acesso à rede sem fio de forma contínua e
+sem interrupções à medida que os profissionais de saúde se movimentam dentro do hospital e especialmente em situações de
+emergência entre as unidades de terapia intensiva, onde a sãos necessárias resposta rápida e o acesso instantâneo a informações
+críticas e vitais para salvar vidas do paciente. A ampliação da cobertura de rede, busca aumentar a eficiência operacional, agilizar
+os processos de comunicação entre equipes médicas e assistenciais além de contribuir com a redução da utilização de papéis
+impressos, melhorar o acesso a informações médicas em tempo real, aumentar a segurança do paciente e melhorar a experiência
+geral de cuidados de saúde no ambiente hospitalar.
+
+
+Página: 18
+
+P - ATUALIZAÇÃO DE COMPUTADORES DO COMPLEXO - HCFMUSP
+A atualização do Parque Tecnológico visa modernizar e otimizar a infraestrutura de tecnologia utilizada no hospital de forma a
+suportar o avanço tecnológico e os atendimentos aos pacientes sendo de forma presencial ou por teleatendimento, a telemedicina
+a outros hospitais da rede pública de saúde e a melhora na eficiência operacional visando a qualidade no atendimento e a troca de
+informações entre os profissionais de saúde. O produto atualização do parque tecnológico envolve a aquisição e substituição dos
+equipamentos de informática existentes, por versões mais recentes e avançadas permitindo que o hospital siga nos avanços
+tecnológicos de forma a aprimorar seus serviços e processos,  garantir a eficiência e agilizando o atendimento e a jornada do
+paciente reduzindo o tempo de espera, melhorar o fluxo de informações entre os diferentes setores do hospital e a agilização de
+processos como o agendamento de consultas e o registro eletrônico de prontuários médicos. A tecnologia utilizada permite a
+implementação de novos sistemas mais avançados, como sistemas de gestão hospitalar integrados, soluções de telemedicina e
+ferramentas de apoio ao diagnóstico. Com o aprimoramento dos sistemas de segurança, firewalls, sistemas de detecção de
+intrusão, criptografia de dados e políticas de acesso restrito, serão aprimorados com medidas de segurança mais robustas de
+forma a proteger as informações dos pacientes. Embora tais atualizações representem um investimento, a longo prazo visando a
+sustentabilidade, o produto resultará em economias significativas sendo que os computadores mais eficientes consomem menos
+energia e requerem menos manutenção, reduzindo os custos operacionais do hospital.
+
+P - ATUALIZAÇÃO E EXPANSÃO DE FIREWALL PARA DATACENTER E UNIDADES - HCFMUSP
+Com o objetivo de fortalecer a segurança da infraestrutura do datacenter e dos equipamentos dos Institutos do HCFMUSP, esse
+produto busca ampliar a segurança da rede interna e a externa, controlando o tráfego de dados e protegendo os sistemas
+relacionados ao atendimento dos pacientes do HCFMUSP contra ameaças cibernéticas garantindo a confidencialidade, integridade
+e disponibilidade das informações. Ao melhorar a segurança do ambiente digital do HCFMUSP, esse produto busca proporcionar
+benefícios diretos e indiretos aos pacientes atendidos pelo SUS de forma a garantir a proteção dos dados pessoais assegurar as
+informações dos pacientes, como prontuários médicos, resultados de exames e dados sensíveis sejam adequadamente protegidas
+contra acessos não autorizados, reduzindo o risco de exposição indevida ou roubo de informações, evitar paradas nos
+atendimento aos pacientes devidos a ataques cibernéticos que possam comprometer a disponibilidade dos sistemas e
+infraestrutura de TI, manter a segurança dos sistemas de gestão hospitalar garantindo o agendamento de consultas, controle de
+estoque e gerenciamento de leitos, que são essenciais a eficiência operacional e o planejamento do atendimento de forma a
+contribuir para minimizar os impactos negativos para os pacientes e para a reputação do HCFMUSP. Como resultado esperado,
+buscamos proporcionar um ambiente mais seguro para o atendimento médico e a gestão eficiente das informações relacionadas à
+saúde.
+
+P - ATUALIZAÇÃO TECNOLÓGICA E EXPANSÃO DE RECURSOS DE PORTAIS DE ACESSO E MINERAÇÃO DE DADOS
+PARA PESQUISA - HCFMUSP
+O aprimoramento do portal de acesso busca melhorar a qualidade de dados dos pacientes, por meio da identificação de padrões e
+previsão de tendências, será possível fornecer insights valiosos que ajudarão os profissionais de saúde a tomar decisões mais
+precisas, com informações mais atualizadas dos pacientes por meio de portais personalizados e eficientes, evitar repetições
+desnecessárias de exames, permitirá análises preditivas nos planos de tratamento. Essas melhorias terão um impacto positivo na
+jornada do paciente, como redução na taxa de reinternação e taxa de mortalidade. As informações relevantes poderão ser
+compartilhadas entre diferentes profissionais de saúde e instituições do Sistema Único de Saúde como referência, melhoria de
+processos e indicadores. Isso promoverá uma melhor coordenação do cuidado, garantindo que cada profissional tenha acesso aos
+dados necessários para tomar decisões embasadas. Além disso, a digitalização e informatização de processos promove a
+eficiência energética, uma vez que muitos processos manuais e morosos podem ser substituídos por processos automatizados e
+otimizados.
+
+P - DESENVOLVIMENTO DE UM MODELO DE INFORMATIZAÇÃO BASEADO EM PRONTUÁRIO ÚNICO - SES
+Este produto traz a proposta tendo o paciente como ponto central dos cuidados, totalmente integrado entre as unidades da
+Secretaria. A meta inicial para esta jornada é a adequação tecnológica de infraestrutura para informatização de 06 unidades de
+atendimento, sendo referência para expansão do modelo em médio e longo prazo em todas as demais unidades da Secretaria.
+Considera-se neste projeto, além da incorporação tecnológica, a estruturação de centros de apoio responsáveis pela governança e
+sustentação de forma transversal entre todas as unidades onde destacam-se uma central de cadastro para assegurar a sinergia e
+padronização dos processos informatizados, também atuando como principal agente de consolidação e processamento de
+informações estratégicas, táticas e operacionais, além de uma central de operações que terá foco na implantação e sustentação do
+ambiente de forma unificada, promovendo ações de suporte remoto, capacitação e adesão aos recursos tecnológicos e processos
+unificados nas unidades informatizadas. Este projeto contempla: Centro de cadastro, centro de operações, gestão de projetos,
+sistema de gestão hospitalar e adequação tecnológica das unidades de atendimento -SES)
+
+P - INCORPORAÇÃO DE PLATAFORMA DE REGISTRO ELETRÔNICO DE SAÚDE (RES) - SES
+Este produto tem como objetivo de consolidar informações da história clínica entre as unidades da Secretaria, tais como eventos,
+resultados, prescrições entre outros, fortalecendo a jornada do paciente, a continuidade do cuidado, a redução de repetições, a
+otimização dos recursos públicos e, acima de tudo, o início da visão integrada da saúde do cidadão. Este projeto prevê a aplicação
+do Registro Eletrônico de Saúde, um recurso complementar do SI4SP, nas unidades já informatizadas e nas novas 06 novas
+unidades, sendo um grande facilitador da interoperabilidade e continuidade de cuidado em unidades com diferentes soluções
+tecnológicas.
+
+
+Página: 19
+
+P - GUIA DE GEOLOCALIZAÇÃO DO PACIENTE - HCFMUSP
+O Projeto está contemplado no Plano Plurianual (PPA 2024-2027). Tecnologias promovem economia de tempo, auxílio na
+comunicação e no diagnóstico, otimização de fluxos e padronização das informações. O Hospital das Clínicas busca a solução que
+utiliza conceitos de "Tracking Indoor", que visa orientar o deslocamento do paciente usuário do Sistema único de Saúde, a partir
+de conectividade de aplicativo da instituição aos sensores instalados dentro do complexo hospitalar. Objetivo de realmente elevar a
+qualidade da experiência do usuário com os serviços do hospital e torná-la mais agradável, a implantação da solução, será
+possível guiar de forma personalizada o paciente em todo o complexo hospitalar, desde sua chegada até o seu atendimento,
+inclusive saber o tempo que o mesmo ficou dentro de cada etapa de sua jornada como triagem, anamnese, espera, exames e
+atendimento. Monitorar pacientes em estado crítico para que recebam cuidados com rapidez e eficiência, fazendo com que o fluxo
+de trabalho seja otimizado, o que pode reduzir o tempo de permanência do paciente em um ambiente hospitalar. Este aplicativo
+servirá como boas práticas em melhoria da experiência e jornada do paciente SUS.
+
+C - GOVERNANÇA E SUSTENTABILIDADE
+Este componente visa a implantação de projetos de sustentabilidade como referência para o Sistema Único de Saúde, integrar a
+saúde, bem-estar e o meio ambiente, buscando a promoção de um sistema mais eficiente, ambientalmente responsável e voltado
+para a sustentabilidade a longo prazo. A saúde humana está intrinsecamente ligada ao ambiente em que vivemos. Ao adotar
+práticas sustentáveis, o SUS demonstra seu compromisso com a proteção do meio ambiente e a promoção da saúde ambiental.
+Os serviços de saúde geram uma quantidade significativa de resíduos perigosos, como materiais perfuro cortantes e produtos
+químicos. A implantação de programas de gestão adequada de resíduos, incluindo a segregação, o tratamento e a disposição
+correta desses materiais, contribui para evitar a contaminação ambiental e reduzir os riscos à saúde. A implementação de políticas
+e práticas que promovam o uso eficiente desses recursos contribui para a preservação dos mesmos e a redução dos custos
+operacionais. A adoção de projetos de sustentabilidade no SUS pode servir como uma ferramenta educativa para profissionais de
+saúde, pacientes e comunidade em geral. Ao promover a conscientização sobre questões ambientais e a importância de práticas
+sustentáveis, é possível criar uma cultura de cuidado com o meio ambiente e influenciar positivamente o comportamento das
+pessoas. Do ponto de vista ambiental, a informatização contribui significativamente para a redução do uso de papel, economizando
+recursos naturais e reduzindo o impacto ambiental. Neste componente estará contemplado todo investimento em infraestrutura
+física, tecnológica, aquisição de equipamentos, materiais, prestação de serviços especializados, treinamentos entre outras ações
+necessárias para viabilizar o projeto proposto.
+
+S - BEM ESTAR AO COLABORADOR
+O objetivo de implantar projetos de bem-estar aos colaboradores é uma estratégia fundamental para criar um ambiente de trabalho
+mais saudável, produtivo e satisfatório, que beneficie tanto a empresa quanto seus funcionários. Isso pode resultar em uma força
+de trabalho mais comprometida, produtiva e resiliente, capaz de enfrentar os desafios da saúde com mais eficácia e
+consequentemente, impulsionar o desempenho da Instituição.
+
+P - ESPAÇO DE DESCOMPRESSÃO COLABORADORES - HCFMUSP
+O Projeto espaço de descompressão dos colaboradores, médicos e residentes é de extrema importância para proporcionar um
+atendimento mais ágil e eficiente aos pacientes clínicos e cirúrgicos, e espaço de descompressão aos colaboradores. A adequação
+dessas áreas proporcionar uma qualidade e infraestrutura proporcionando melhor acolhimento aos colaborares. Com essa
+modernização, será possível criar espaços saudáveis que promovem a sensação de bem-estar, incluindo aspectos como
+iluminação adequada, comunicação visual eficiente, conforto acústico e térmico. O escopo da intervenção abrange todas as etapas
+necessárias para a adequação das áreas de apoio e acolhimento dos médicos, residentes e colaboradores, incluindo o
+fornecimento de materiais e a contratação de mão de obra qualificada. Serão realizadas atividades de demolição e retiradas de
+elementos existentes, seguidas pela construção de vedações em alvenaria e drywall. Além disso, serão executadas caixilharias,
+revestimentos de paredes, forros e pisos, bem como instalações hidráulicas, de ar condicionado, ventilação e exaustão, instalações
+elétricas (incluindo força e iluminação), telecomunicações e sistema de prevenção e combate a incêndio. Essas intervenções
+abrangem todas as necessidades estruturais e tecnológicas para proporcionar um ambiente adequado e funcional para os
+colaboradores.
+
+P - MODERNIZAÇÃO DO CENTRO DE  CAPACITAÇÃO DO NÚCLEO DE GESTÃO DE PESSOAS - HCFMUSP
+Este produto abrange a adequação da área física para implantar todos os programas propostos, para garantir a implantação será
+necessária uma nova estrutura física, que incorpore tecnologia avançada em saúde digital. Esta proposta visa apresentar um
+modelo inovador para a gestão de pessoas e capacitação dos profissionais da saúde, visando melhorar os resultados e promover a
+excelência no atendimento. Nesta proposta contempla infraestrutura física, tecnológica, materiais, equipamentos, contratação de
+prestação de serviço especializada, e outras ações necessárias para garantir a implantação do programa proposto.
+
+S - SUSTENTABILIDADE AMBIENTAL
+A implantação de projetos de sustentabilidade no Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo (
+HCFMUSP) terá um impacto significativo na disseminação de boas práticas para todo o Sistema Único de Saúde (SUS), resultando
+em benefícios positivos para a vida da população.
+
+
+Página: 20
+
+P - ENERGIA LIMPA - HCFMUSP
+O Hospital das Clínicas da FMUSP anseia pela gestão de energia dentro dos institutos com vistas à governabilidade de diagnóstico
+energético, criação da cultura de sistematização de dados, promoção do uso racional da energia e subsídio na tomada de decisão
+de ações de eficiência. A promoção da eficiência energética em conjunto com as energias renováveis pode reduzir os custos de
+energia, diminuir a emissão de gases de efeito estufa, diminuir emissão de poluentes e a consequente carga de doenças
+associadas a estas emissões, além de aumentar resiliência e capacidade de enfrentamento à crise climática. O Objetivo do projeto
+será intensificar ações de eficiência energética em suas operações e incrementar uso de energia renovável e, com isso,
+impulsionar a transição para uma economia de baixo carbono. Atualização de todas as documentações técnicas do Complexo HC,
+visando à governabilidade das Infraestruturas; Implantação de Rede de Distribuição Subterrânea, visando proporcionar o maior
+nível de confiabilidade no fornecimento ininterrupto de energia; Substituição de Chillers ultrapassados; Desativação da Caldeira do
+Complexo HC; Atualização de Geradores do Complexo HC; Substituição de Equipamentos a Vapor do Complexo, por
+Equipamentos de Geração Própria; Implantação de Energia Fotovoltaica. Desta forma o HCFMUSP contribuirá significativamente
+com a eficiência energética de 80 milhões de KWH gerados pelo Hospital.
+
+P - GESTÃO DE RESÍDUOS - HCFMUSP
+O novo modelo de gerenciamento de resíduos proposto pelo HCFMUSP visa o tratamento interno dos resíduos e a implantação de
+modelo de economia circular para a cadeia de resíduos recicláveis. O HCFMUSP alinhado ao seu Plano de Negócios e Gestão
+Estratégica (PNGE) busca oportunidades no cenário da sustentabilidade ambiental com foco nas principais oportunidades e
+soluções de mercado que permitam: Reduzir a quantidade de resíduos encaminhados para aterros sanitários. Reduzir os riscos
+com acidentes relacionados ao manejo de resíduos e com a geração de mídia negativa. Melhorar a segurança do processo com a
+rastreabilidade e tratamento interno dos resíduos.
+Implementar melhorias na gestão de RSS comprometendo-se a reduzir a geração de resíduos em quantidade e toxicidade e a
+capacitar as equipes para manusear os resíduos com segurança. Implantação de pacote tecnológico de tratamento interno de
+resíduos. A intervenção deverá contemplar fornecimento de materiais e mão de obra para: demolição e retiradas, construção de
+vedações em alvenaria, execução de revestimentos de paredes e pisos, instalações elétricas e iluminação. Desta forma o
+HCFMUSP contribuirá significativamente com a redução de toneladas de resíduos sólidos gerados pelo Hospital
+
+C - GESTÃO DE PROJETOS
+* A descrição deste componente é a mesma do produto. Devido a ferramenta necessitar que um produto tenha um componente,
+subcomponente e produto
+
+S - GESTÃO DE PROJETOS
+* A descrição deste subcomponente é a mesma do produto. Devido a ferramenta necessitar que um produto tenha um componente
+, subcomponente e produto
+
+P - GESTÃO DE PROJETOS
+Com o objetivo de minimizar os riscos de implantação dos projetos envolvidos nesta proposta, está previsto no investimento a
+contratação de serviço especializado em gestão de projetos, pois consultorias especializadas têm profissionais com conhecimento
+sólido e experiência com grandes implantações, possuem expertise em diversas metodologias e melhores práticas de
+gerenciamento de projetos. Grandes implantações geralmente envolvem alocar, coordenar recursos complexos, como equipes,
+orçamentos, contratos e aquisições. Consultores de gestão de projetos ajudam a otimizar a utilização desses recursos, garantindo
+que sejam aplicados de maneira eficiente e eficaz. Eles também podem auxiliar na identificação e mitigação de possíveis gargalos
+e restrições, assegurando que o projeto avance de forma adequada. Grandes implantações também podem apresentar uma
+variedade de riscos, desde questões técnicas até problemas organizacionais. Consultores de gestão de projetos estão preparados
+para identificar e avaliar esses riscos, desenvolvendo planos de mitigação para reduzir seu impacto negativo. Grandes
+implantações normalmente envolvem mudanças significativas na organização, nos processos e na cultura. Uma consultoria de
+gestão de projetos pode ajudar a gerenciar essas mudanças, trabalhando em conjunto com as equipes internas para comunicar,
+treinar e envolver os colaboradores. Isso facilita a transição, reduz a resistência à mudança e aumenta a adoção bem-sucedida dos
+novos projetos. Neste Produto também estão previstos a contratação de empresas especializadas em projetos executivos de
+arquitetura, estrutura e instalações. Para execução das adequações e modernizações de infraestruturas prediais, bem como
+adequação a legislações vigentes, os projetos executivos têm o objetivo de minimizar os riscos na execução, identificando todas as
+necessidades para garantir instalações com a qualidade esperada.
+
+
+Página: 21
+
+Categoria de Gasto
+
+Obras
+P- MODERNIZAÇÃO DOS AMBULATÓRIO DE
+CONSULTAS ORTOPEDICA E TRAUMA DO IOT
+- HCFMUSP
+P- MODERNIZAÇÃO DOS AMBULATÓRIO DE
+CONSULTAS PEDIÁTRICAS DO ICR -
+HCFMUSP
+P- MODERNIZAÇÃO DA CENTRO DE INFUSÃO
+- HCFMUSP
+P- MODERNIZAÇÃO DA DIVISÃO CLÍNICA DE
+NEUROLOGIA DO ICHC - HCFMUSP
+P- MODERNIZAÇÃO DA SERVIÇO DE
+ENDOSCOPIA GASTROINTESTINAL DO ICHC -
+HCFMUSP
+P- MODERNIZAÇÃO DA UNIDADE DA
+GASTROENTEROLOGIA  DO ICHC - HCFMUSP
+P- MODERNIZAÇÃO DA UNIDADE DE
+CIRURGIA GERAL E CIRURGIA CABEÇA E
+PESCOÇO DO ICHC - HCFMUSP
+P- MODERNIZAÇÃO DA UNIDADE DE CLÍNICA
+MÉDICA E RETAGUARDA DA EMERGÊNCIA DO
+ICHC - HCFMUSP
+P- MODERNIZAÇÃO DA UNIDADE DE DIVISÃO
+DE DERMATOLOGIA DO ICHC - HCFMUSP
+P- MODERNIZAÇÃO DA UNIDADE DE
+ENDOCRINOLOGIA DO ICHC - HCFMUSP
+P- MODERNIZAÇÃO DA UNIDADE DE
+NEFROLOGIA DO ICHC - HCFMUSP
+P- MODERNIZAÇÃO DA UNIDADE DE
+PLÁSTICA E QUEIMADOS DO ICHC - HCFMUSP
+P- MODERNIZAÇÃO DA ENFERMARIA DE
+INTERNAÇÃO PEDIÁTRICAS DO ICR -
+HCFMUSP
+P- MODERNIZAÇÃO DA UTI DAS CLÍNICAS
+MÉDICAS DO ICHC - HCFMUSP
+P- MODERNIZAÇÃO DA UTI TRAUMA E
+ACOLHIMENTO DO ICHC - HCFMUSP
+P- MODERNIZAÇÃO DA UTI DO IOT -
+HCFMUSP
+P- MODERNIZAÇÃO DA UTI IPQ - HCFMUSP
+P- MODERNIZAÇÃO DA DIVISÃO DE
+NUTRIÇÃO E DIETÉTICA DO ICHC - HCFMUSP
+P- MODERNIZAÇÃO DA DIVISÃO DE
+NUTRIÇÃO E DIETÉTICA DO INCOR -
+HCFMUSP
+P- MODERNIZAÇÃO DA ÁREA DE
+ATENDIMENTO E ACOLHIMENTO DE
+PACIENTES DO INRAD - HCFMUSP
+P- ADEQUAÇÃO PREDIAL E ATENDIMENTO ÀS
+NORMAS VIGENTE DE SEGURANÇA NO
+COMPLEXO - HCFMUSP
+P- ESPAÇO DE DESCOMPRESSÃO
+COLABORADORES - HCFMUSP
+Bens
+P- MODERNIZAÇÃO DO PARQUE
+TECNOLÓGICO DA RADIOTERAPIA -
+HCFMUSP
+P- MODERNIZAÇÃO DO PARQUE
+TECNOLÓGICO DAS CENTRAIS DE MATERIAIS
+A ESTERILIZAÇÃO - HCFMUSP
+P- MODERNIZAÇÃO DO PARQUE
+TECNOLÓGICO DAS ENFERMAGEM -
+HCFMUSP
+P- MODERNIZAÇÃO DO PARQUE
+TECNOLÓGICO DAS UNIDADES DE TERAPIA
+INTENSIVA - HCFMUSP
+
+Unidade de medida
+-
+% M² EXECUTADO
+
+Meta
+
+-
+100,00
+
+Valor
+
+% Financeiro
+
+48.481.695,10
+4.451.515,74
+
+30,30
+2,78
+
+% M² EXECUTADO
+
+100,00
+
+1.869.636,61
+
+% M² EXECUTADO
+
+100,00
+
+4.427.710,84
+
+% M² EXECUTADO
+
+100,00
+
+2.629.601,09
+
+% M² EXECUTADO
+
+100,00
+
+1.855.240,04
+
+% M² EXECUTADO
+
+100,00
+
+4.035.819,27
+
+% M² EXECUTADO
+
+100,00
+
+2.527.428,45
+
+% M² EXECUTADO
+
+100,00
+
+1.766.511,16
+
+% M² EXECUTADO
+
+100,00
+
+2.409.123,29
+
+% M² EXECUTADO
+
+100,00
+
+1.433.105,71
+
+% M² EXECUTADO
+
+100,00
+
+1.433.105,71
+
+% M² EXECUTADO
+
+100,00
+
+1.693.914,82
+
+% M² EXECUTADO
+
+100,00
+
+941.063,79
+
+% M² EXECUTADO
+
+100,00
+
+2.131.385,74
+
+% M² EXECUTADO
+
+100,00
+
+% M² EXECUTADO
+
+100,00
+
+% M² EXECUTADO
+% M² EXECUTADO
+
+100,00
+100,00
+
+979.333,46
+
+947.282,55
+
+480.763,70
+2.848.970,07
+
+% M² EXECUTADO
+
+100,00
+
+4.451.515,74
+
+% M²EXECUTADO
+
+100,00
+
+445.151,57
+
+% M² EXECUTADO
+
+100,00
+
+4.451.515,75
+
+% DE EXECUÇÃO
+
+100,00
+
+272.000,00
+
+-
+% DE EQUIP.
+ADQUIRIDOS
+
+% DE EQUIP.
+ADQUIRIDOS
+
+% DE EQUIP.
+ADQUIRIDOS
+
+% DE EQUIP.
+ADQUIRIDOS
+
+-
+100,00
+
+73.018.304,90
+2.717.129,93
+
+100,00
+
+644.715,44
+
+100,00
+
+630.248,57
+
+100,00
+
+5.246.633,15
+
+1,17
+
+2,77
+
+1,64
+
+1,16
+
+2,52
+
+1,58
+
+1,10
+
+1,51
+
+0,90
+
+0,90
+
+1,06
+
+0,59
+
+1,33
+
+0,61
+
+0,59
+
+0,30
+1,78
+
+2,78
+
+0,28
+
+2,78
+
+0,17
+
+45,64
+1,70
+
+0,40
+
+0,39
+
+3,28
+
+
+Página: 22
+
+P- MODERNIZAÇÃO DO PARQUE
+TECNOLÓGICO DE DIAGNÓSTICO POR
+IMAGEM - HCFMUSP
+P- MODERNIZAÇÃO DO PARQUE
+TECNOLÓGICO DE MEDICINA NUCLEAR -
+HCFMUSP
+P- MODERNIZAÇÃO DO PARQUE
+TECNOLÓGICO DO SERVIÇO DE APOIO
+DIAGNÓSTICO TERAPÊUTICO - HCFMUSP
+P- MODERNIZAÇÃO DO PARQUE
+TECNOLÓGICO DOS AMBULATÓRIOS -
+HCFMUSP
+P- MODERNIZAÇÃO DO PARQUE
+TECNOLÓGICO DOS CENTRO CIRÚRGICO -
+HCFMUSP
+P- MODERNIZAÇÃO DO PARQUE
+TECNOLÓGICO DOS CENTROS DE
+ENDOSCOPIA - HCFMUSP
+P- MODERNIZAÇÃO DO PARQUE
+TECNOLÓGICO DOS LABORATÓRIOS -
+HCFMUSP
+P- MODERNIZAÇÃO DA SALA DE
+EQUIPAMENTOS DE RADIOTERAPIA -
+HCFMUSP
+P- ADEQUAÇÃO E MODERNIZAÇÃO DA
+CABINE PRIMÁRIA DO INCOR - HCFMUSP
+P- MODERNIZAÇÃO DE DATACENTER E
+ESPAÇOS DE TECNOLOGIA DA INFORMAÇÃO
+- HCFMUSP
+P- AMPLIAÇÃO DE COBERTURA REDE SEM
+FIO / MOBILIDADE - HCFMUSP
+P- ATUALIZAÇÃO DE COMPUTADORES DO
+COMPLEXO - HCFMUSP
+P- ATUALIZAÇÃO E EXPANSÃO DE FIREWALL
+PARA DATACENTER E UNIDADES - HCFMUSP
+P- ATUALIZAÇÃO TECNOLÓGICA E EXPANSÃO
+DE RECURSOS DE PORTAIS DE ACESSO E
+MINERAÇÃO DE DADOS PARA PESQUISA -
+HCFMUSP
+P- DESENVOLVIMENTO DE UM MODELO DE
+INFORMATIZAÇÃO BASEADO EM
+PRONTUÁRIO ÚNICO - SES
+P- INCORPORAÇÃO DE PLATAFORMA DE
+REGISTRO ELETRÔNICO DE SAÚDE (RES) -
+SES
+P- GUIA DE GEOLOCALIZAÇÃO DO PACIENTE
+- HCFMUSP
+P- MODERNIZAÇÃO DO CENTRO DE
+CAPACITAÇÃO DO NÚCLEO DE GESTÃO DE
+PESSOAS - HCFMUSP
+Consultoria
+P- GESTÃO DE PROJETOS
+
+Capacitação e Treinamento
+P- AMPLIAÇÃO DO PROGRAMA DE
+HUMANIZAÇÃO DA SES
+P- APRIMORAMENTO DO PROGRAMA -
+COMBATE AO ASSÉDIO NO AMBIENTE
+ORGANIZACIONAL
+P- PLATAFORMA DIGITAL - TRILHA DE
+APRENDIZAGEM
+P- PROGRAMA DE CULTURA INSTITUCIONAL
+PARA TRABALHAR A INCLUSÃO, EQUIDADE E
+DIVERSIDADE
+P- PROGRAMA DE SAÚDE MENTAL E
+QUALIDADE DE VIDA NO TRABALHO
+P- PROGRAMA PARA PROFISSIONAIS
+SENIORES (50+)
+
+% DE EQUIP.
+ADQUIRIDOS
+
+% DE EQUIP.
+ADQUIRIDOS
+
+% DE EQUIP.
+ADQUIRIDOS
+
+% DE EQUIP.
+ADQUIRIDOS
+
+% DE EQUIP.
+ADQUIRIDOS
+
+% DE EQUIP.
+ADQUIRIDOS
+
+Nº DE EQUIP.
+ADQUIRIDOS
+
+% DE EQUIP.
+ADQUIRIDOS
+
+% DE EQUIP.
+ADQUIRIDOS
+% DE EQUIP.
+ADQUIRIDOS
+
+% DE EQUIP.
+ADQUIRIDOS
+% DE EQUIP.
+ADQUIRIDOS
+% DE EQUIP.
+ADQUIRIDOS
+% IMPLANTAÇÃO
+DO SISTEMA
+
+% IMPLANTAÇÃO
+DO SISTEMA
+
+% IMPLANTAÇÃO
+DO SISTEMA
+
+% IMPLANTAÇÃO
+DO SISTEMA
+% EXECUÇÃO /
+AQUISIÇÕES
+
+-
+% EXEC DOS
+PROJETOS
+-
+% DO PROGRAMA
+IMPLANTADO
+% DO PROGRAMA
+IMPLANTADO
+
+% DO PROGRAMA
+IMPLANTADO
+% DO PROGRAMA
+IMPLANTADO
+
+% DO PROGRAMA
+IMPLANTADO
+% DO PROGRAMA
+IMPLANTADO
+
+100,00
+
+4.860.580,71
+
+100,00
+
+4.642.433,49
+
+100,00
+
+286.826,02
+
+100,00
+
+253.856,24
+
+100,00
+
+9.749.034,77
+
+100,00
+
+3.452.523,53
+
+100,00
+
+1.330.348,60
+
+100,00
+
+104.505,00
+
+100,00
+
+100,00
+
+100,00
+
+100,00
+
+100,00
+
+100,00
+
+7.074.184,37
+
+1.383.027,25
+
+1.123.709,64
+
+3.889.764,13
+
+864.392,03
+
+864.392,03
+
+3,04
+
+2,90
+
+0,18
+
+0,16
+
+6,09
+
+2,16
+
+0,83
+
+0,07
+
+4,42
+
+0,86
+
+0,70
+
+2,43
+
+0,54
+
+0,54
+
+100,00
+
+20.000.000,00
+
+12,50
+
+100,00
+
+2.000.000,00
+
+100,00
+
+100,00
+
+-
+100,00
+
+-
+100,00
+
+100,00
+
+100,00
+
+100,00
+
+100,00
+
+100,00
+
+1.000.000,00
+
+900.000,00
+
+6.000.000,00
+6.000.000,00
+
+8.500.000,00
+288.135,59
+
+300.000,00
+
+1.858.474,58
+
+720.338,98
+
+1.872.881,36
+
+432.203,39
+
+1,25
+
+0,63
+
+0,56
+
+3,75
+3,75
+
+5,31
+0,18
+
+0,19
+
+1,16
+
+0,45
+
+1,17
+
+0,27
+
+
+Página: 23
+
+P- PROGRAMAS DE CAPACITAÇÃO EM
+TECNOLOGIA, SAÚDE DIGITAL,
+SUSTENTABILIDADE E HABILIDADES
+Outros
+P- ENERGIA LIMPA - HCFMUSP
+
+P- GESTÃO DE RESÍDUOS - HCFMUSP
+
+Total Geral
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+% DO PROGRAMA
+IMPLANTADO
+
+-
+% EXECUÇÃO
+PROJETO
+% EXEC DO
+PROJETO
+-
+
+100,00
+
+3.027.966,10
+
+-
+100,00
+
+100,00
+
+24.000.000,00
+21.000.000,00
+
+3.000.000,00
+
+1,89
+
+15,00
+13,13
+
+1,88
+
+-
+
+160.000.000,00
+
+100,00
+
+Na área assistencial, o HCFMUSP atua por meio de ações de promoção da saúde, prevenção de doenças, atendimento médico-hospitalar
+de alta complexidade e reabilitação de sequelas após o tratamento. Todos os projetos assistenciais estão em conformidade com as
+licenças de funcionamento vigentes junto à Vigilância Sanitária do Estado de São Paulo, e os equipamentos possuem registros na
+ANVISA ou no Ministério da Saúde.
+
+O HCFMUSP possui uma vasta experiência na execução de projetos semelhantes aos apresentados nesta proposta, contando com
+especialistas que liderarão as equipes técnicas e operacionais. Os projetos foram detalhadamente descritos por meio de planejamentos
+previamente elaborados pelas equipes técnicas e operacionais do HCFMUSP e SES, estando bem estruturados para facilitar o início das
+atividades.
+
+Devido à experiência com projetos robustos, a equipe se sente preparada para este grande desafio. Muitos dos projetos de modernização
+da infraestrutura, apresentados nas propostas, possuem projetos executivos aguardando recursos financeiros para iniciar a execução, o
+que facilita o gerenciamento do projeto. De 2011 a 2023, o HC concluiu a execução de 180 obras semelhantes, demonstrando casos de
+sucesso.
+
+A equipe idealizadora do programa de captação possui a experiência necessária para a execução imediata da proposta. Projetos de
+implantação de sistemas e portal do paciente seguem modelos já estruturados no HCFMUSP para a execução das propostas.
+
+Por ser uma autarquia, o HCFMUSP segue a Lei nº 14.133, de 1º de abril de 2021, que estabelece normas gerais de licitação e
+contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos
+Municípios.
+
+A equipe de Engenharia Clínica do HCFMUSP possui experiência na execução de projetos que abrangem a aquisição de diversas famílias
+de equipamentos. Existe um banco de memoriais descritivos que auxilia e agiliza o processo de compra de novos equipamentos para o
+complexo. A capacidade da equipe de Engenharia Clínica é evidenciada, por exemplo, durante o período de pandemia, quando foram
+realizadas aquisições rápidas de diversos equipamentos para atender os pacientes afetados pela SARS-CoV-2, vírus causador da Covid-
+19. Um dos projetos executados foi o da Portaria 1448/2020, um convênio firmado com a Secretaria de Saúde do Estado de São Paulo e o
+Ministério da Saúde, que disponibilizou aproximadamente R$ 13 milhões para a aquisição de mais de 350 equipamentos. O processo de
+compra, aquisição e entrega dos equipamentos foi concluído em 30 dias.
+
+Documento Anexo
+
+- BOOKS DE MODERNIZAÇÃO 2024 (OBRAS)
+
+- Experiência capacitação e desenvolvimento
+
+- Experiência Portal do paciente e sistemas
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Sem detalhes
+
+Estado de São Paulo ()
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+Prazo de desembolso: 60 meses (5 anos);
+
+Prazo de carência: 60 meses (5 anos);
+
+Prazo de amortização: 180 meses (15 anos);
+
+Prazo total: 240 meses (20 anos);
+
+Periodicidade da amortização: Semestral;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 24
+
+Taxa de juros: SOFR + spread variável (atualmente 1.44%);
+
+Demais encargos do financiamento:
+
+- Comissão inicial ("front-end fee") de 0,25%: Paga uma vez e apurada sobre o valor total do empréstimo.
+
+- A taxa de compromisso de 0,25% a.a.: Incide sobre o saldo não desembolsado do financiamento;
+
+- Taxa de exposição ao Brasil, de 0,5% a.a.: Aplicada quando o limite de risco estabelecido pelo BIRD (single borrrower limit)
+
+é superado. A política do governo brasileiro é de não permitir que a exposição atinja tal limite, logo, na prática, essa sobretaxa não tem
+sido cobrada.
+
+(ii) NECESSIDADE DE FINANCIAMENTO EXTERNO E A OPÇÃO PELO AGENTE FINANCEIRO
+
+(a) Justificar a necessidade e a opção por financiamento externo em detrimento de financiamento interno:
+
+A busca por financiamento externo para o projeto decorre de várias considerações estratégicas e econômicas. Em primeiro lugar, o custo
+dos empréstimos nacionais é mais alto do que os empréstimos internacionais, conforme exposto adiante na comparação entre agentes
+financeiros. Ainda, algumas entidades nacionais, como o BNDES, exigem um índice mínimo de nacionalização dos itens adquiridos com
+recursos do financiamento, o que pode não ser viável no presente projeto, que apresenta em um de seus componentes a aquisição de
+aparelhos de diagnóstico e tratamento de alta tecnologia que em sua maioria não tem produção nacional. A captação de recursos de
+instituições internacionais, como o Banco Mundial, apresenta-se como uma alternativa valiosa, uma vez que tais entidades oferecem não
+apenas recursos financeiros, mas também expertise técnica e padrões rigorosos de governança, socioambientais e de desempenho, bem
+como apoio técnico para o cumprimento de exigências socioambientais. A presença dessas instituições na composição do financiamento
+confere uma credibilidade adicional ao projeto, reforçando seu compromisso com elevados padrões de qualidade e responsabilidade
+socioambiental. Portanto, a opção por financiamento externo, especialmente de entidades internacionais de renome, se mostra como uma
+estratégia sólida e vantajosa para impulsionar o êxito e a sustentabilidade do projeto, além de se configurar como uma alternativa mais
+barata.
+
+(b) Justificar a opção pelo agente financeiro escolhido:
+
+A escolha do Banco Mundial como agente financeiro para o decorre de uma série de fatores. Inicialmente, como exposto adiante no item C
+, o BIRD apresentou um custo baixo, tanto em termos de spread como das demais taxas. Embora não tenha oferecido o menor spread em
+relação ao BID, a comissão de compromisso é bem inferior, o que é extremamente interessante neste projeto, visto que há uma previsão
+de desembolso relativamente homogênea ao longo dos anos. O BIRD conta também a seu favor com uma experiência positiva em
+projetos na área de saúde no Brasil, a exemplo de projetos conduzidos em Salvador, Rio Grande do Norte e Paraná. Ainda, o Estado de
+São Paulo tem um bom histórico de relacionamento com o BIRD, contando com seu apoio em diversos projetos nas mais diversas áreas.
+Por já ter essa experiência prévia com o agente financeiro, o proponente tem conhecimento das normas de licitação do Banco bem como
+de outros aspectos operacionais de forma a facilitar o relacionamento do executor com a instituição financeira quanto a estes termos.
+
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+
+
+Página: 25
+
+(c) Comparar as condições financeiras do agente financeiro escolhido em relação a outros financiadores externos/internos, utilizando os
+mesmos parâmetros do item (i) acima:
+
+Na decisão pela fonte de financiamento do projeto, foram analisadas alternativas de financiamentos nacionais e internacionais. Verifica-se
+que o BIRD oferece encargos financeiros substancialmente abaixo dos bancos nacionais. Segue, para efeitos comparativos, a descrição
+das características dos financiamentos dos principais bancos:
+
+- BIRD: SOFR + Spread Variável (dependente do prazo médio do financiamento e país). Para um prazo médio de 12 a 15 anos o spread
+vigente é de 1,44% a.a. Encargos: Comissão de Financiamento de 0,25%; Comissão de compromisso sob o saldo não desembolsado de 0
+,25% a.a..; Sobretaxa de 0,5% se o país ultrapassar o single borrrower limit.
+
+- BID: SOFR + Margem de Captação BID + Margem para empréstimos, atualmente totalizando SOFR + 1,25% a.a. (prazo médio máximo
+de 15,25). Encargos: Comissão de compromisso de até 0,75% a.a. sob o saldo não desembolsado;
+
+- NDB: SOFR + Spread Variável, dependente do prazo médio do financiamento. Para um prazo médio de 12 a 15 anos o spread mais
+recente disponível é de 1,55% a.a.. Encargos: Comissão de Financiamento de 0,25%; Comissão de compromisso de 0,25% a.a. sob o
+saldo não desembolsado ;
+
+- CAF: SOFR + Spread Variável, dependente do prazo médio do financiamento. Para prazo total de 20 anos, o spread mais recente é de 2,
+0% a.a., sendo que nos primeiros 8 anos seria de 1,9%a.a. Encargos: Comissão de Financiamento de 0,85% do valor do financiamento;
+Comissão de compromisso de 0,35% a.a. do saldo não desembolsado;
+
+Quanto aos financiadores internos, com aval da União, a carência é limitada a 12 meses e não há possibilidade de ressarcimento de
+despesas realizadas antes da assinatura do contrato de financiamento. Adicionalmente, ainda que os contratos com instituições nacionais
+exijam o cumprimento de critérios socioambientais, não há apoio técnico como aquele oferecido pelos grandes organismos multilaterais.
+
+Além disso, o custo de operações internas aumentou devido a publicação da Portaria 808, de 26/07/2023, que estabeleceu cobrança de 0,
+5% do valor do financiamento a título de contrapartida ao aval da União.
+
+- O BNDES oferece ao Estado de São Paulo TLP +1,4%, que atualmente equivalem 11,64 % a.a.;
+
+- O BB oferece operações de no máximo 12 anos e propõe encargos financeiros de CDI+1,77% a.a. (atualmente 13,39% a.a.).
+
+Por fim, apresentamos no anexo V um quadro resumo para comparação das condições financeiras e prazos oferecidos pelos diversos
+agentes financeiros nacionais e internacionais.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+Áreas Estratégicas e Impactos do Projeto
+
+Os projetos propostos foram idealizados seguindo as diretrizes do planejamento estratégico do HCFMUSP alinhado com o Planejamento
+do Estado de São Paulo, considerando os impactos ambientais, econômicos e sociais.
+
+Podendo citar os projetos propostos em DESENVOLVIMENTO E CAPACITAÇÃO DE PESSOAS, CENTRO DE REFERÊNCIA NA
+JORNADA E EXPERIÊNCIA DO PACIENTE, CENTRO DE REFERÊNCIA TECNOLÓGICA, GOVERNANÇA E SUSTENTABILIDADE e
+GESTÃO DE PROJETOS.
+
+Considerando as áreas estratégicas dentro desta proposta com impacto Ambientais:
+
+Comprometemo-nos a adotar práticas sustentáveis, visando a preservação e recuperação do meio ambiente. Isso inclui a implementação
+de tecnologias ecoeficientes, redução de emissões de carbono e a proteção de ecossistemas sensíveis. A monitorização contínua
+garantirá a conformidade com normas ambientais vigentes, promovendo a sustentabilidade a longo prazo com aquisições de
+equipamentos modernos e de melhor eficiência objetivando a redução energética, desta forma o HCFMUSP contribuirá significativamente
+com a eficiência energética de 80 milhões de KWH ano gerados pelo Hospital.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+
+
+Página: 26
+
+O novo modelo de gerenciamento de resíduos proposto pelo HCFMUSP visa o tratamento interno dos resíduos e a implantação de modelo
+de economia circular para a cadeia de resíduos recicláveis reduzindo os riscos com acidentes relacionados ao manejo de resíduos, bem
+como a preservação no meio ambiente, solo e águas pluviais com redução de envio de resíduos aos aterros sanitários e com a geração de
+mídia negativa. Desta forma o HCFMUSP contribuirá significativamente com a redução de resíduos no qual hoje é gerado 1.477
+toneladas de resíduos sólidos gerados por hospitais. (Fonte: Programa Brasileiro GHG Protocol, 2021).
+
+Impactos Econômicos:
+
+As ações propostas têm como meta estimular a gestão econômica por meio do fomento a setores estratégicos, aumentando a eficiência
+operacional e a conscientização dos recursos. Investiremos em capacitação profissional, tecnologia e inovação, buscando fortalecer o
+atendimento assistencial como instituição pública sendo referência nacional e global.
+
+Os projetos apresentados pelo HCFMUSP, foram planejados visando ao seu término a redução de desperdícios, maior eficiência e a
+sustentabilidade econômica tanto nos projetos com impacto assistenciais e não assistenciais, tendo suas operações custeadas pelos
+recursos já existentes, porém visando a otimização dos recursos como por exemplo a redução dos eventuais gastos decorrentes de
+manutenções corretivas com quebras de equipamentos com tempo prolongado de uso, obsoletos. Não sendo necessário a implantação de
+ações de sustentabilidade para manutenção dos projetos após sua operacionalização.
+
+Impactos Sociais:
+
+A dimensão social dos projetos prioriza a inclusão e o bem-estar da comunidade e colaboradores diretos e indiretos do HCFMUSP e
+Secretaria do Estado de Saúde de SP, bem como as tratativas da reestruturação das políticas de acolhimento aos jovens aprendizes e
+políticas voltadas a inclusão e igualdade sociais (gênero e raça). Estabeleceremos medidas para promover a equidade social, como
+acesso a serviços básicos, educação de qualidade e cuidados com a saúde. Projetos de infraestrutura serão implementados para
+melhorar a qualidade de vida, com especial atenção aos pacientes que dependem da rede pública.
+
+Aproximadamente 60% da população depende da rede pública de saúde. Em particular o complexo do Hospital das Clínicas recebe
+pacientes de todo o país, tornando São Paulo um polo crucial para a prestação de serviços de saúde pública.
+
+Destaca-se entre os benefícios/beneficiários:
+
+Acesso qualificado e oportuno aos serviços de saúde à população residente e não residente usuária dos serviços do SUS e profissionais
+da rede estadual de saúde. O programa estima como beneficiários os mais de 27 milhões de usuários ativos no Sistema Único de Saúde
+do Estado de São Paulo e usuários de outros estados do Brasil.
+
+Qualificação profissional e desenvolvimento de aproximadamente 80.000 colaboradores entre HCFMUSP e SES/SP também serão
+beneficiados através dos programas de desenvolvimento de pessoas.
+
+Esses números refletem o alcance abrangente de nossas ações e reforçam nosso compromisso com a melhoria das condições de vida de
+um amplo espectro da sociedade.
+
+Reconhecemos a importância de abordar as desigualdades sociais. Destacamos a destinação prioritária de recursos para beneficiar a
+população usuária do SUS, grupos vulneráveis, minorias sociais e jovens. Nosso programa de capacitação terá uma abordagem sensível
+ao gênero, raça, assegurando a promoção da igualdade e a redução das disparidades escolar.
+
+Em síntese, nossos projetos estão alinhados estrategicamente com as diretrizes estabelecidas ao PPA-SP 2024 - 2027, integrando ações
+em eficiência energética, infraestrutura e novas tecnologias em equipamentos para beneficiar a assistência, ações de inclusão e
+capacitação social.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BIRD
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+32.000.000,00
+Valor Proposto
+
+128.000.000,00
+
+160.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+32.000.000,00
+Valor de Referência US
+$
+128.000.000,00
+
+160.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+
+Página: 27
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+Mutuário: Governo do Estado de São Paulo
+
+O Governo do Estado de São Paulo é responsável pelas ações necessárias, isoladas ou conjuntas, relativas à transferência e alocação de
+recursos e execução dos projetos selecionados, bem como pelo cumprimento dos termos e das obrigações derivadas dos contratos de
+financiamento a serem celebrados com os bancos financiadores. Como pode ser consultado no Cadastro da Dívida Pública, mantido pelo
+Governo Federal, o Estado de São Paulo apresenta uma vasta experiência na contratação de financiamentos externos junto a diversas
+instituições financeiras, cujos recursos se destinam às mais variadas áreas de atuação estatal. Especificamente com o BIRD, o Estado
+detém um amplo histórico de contratação em diversos projetos, de modo que conhece as políticas de aquisição e salvaguarda do Banco, e
+pode apoiar o executor no relacionamento com a Instituição Financeira.
+
+Representante do Mutuário: Secretaria da Fazenda e Planejamento
+
+O Governo do Estado de São Paulo delegou à Secretaria da Fazenda e Planejamento todos os atos indispensáveis à contratação de
+financiamentos para projetos de investimento do Estado.
+
+Suas responsabilidades, incluindo os atos delegados e os próprios da Secretaria no âmbito do projeto são:
+
+- Realizar tramitação de processos de financiamento junto ao Governo Federal.
+
+- Propor e acompanhar a tramitação da lei autorizativa, bem como modificações posteriores.
+
+- Viabilizar o projeto em termos orçamentários a cada exercício fiscal.
+
+- Interlocução com as partes interessadas em assuntos relacionados ao financiamento do projeto.
+
+- Assinar contrato de financiamento em nome do Estado de São Paulo.
+
+- Acompanhar a execução do contrato em todas as etapas.
+
+Entidade Pública Executora do Projeto: HCFMUSP e SES/SP
+
+O HCFMUSP é uma Autarquia de Regime Especial do Governo do Estado de São Paulo, vinculada à SES para fins de coordenação
+administrativa, e associada à FMUSP, para fins de suporte ao ensino, pesquisa, assistência à comunidade e inovação.
+
+Suas responsabilidades no âmbito do projeto:
+
+- Gerenciar, administrar e prestar contas ao mutuário, ao banco financiador, Tribunal de Contas e outros organismos acerca dos recursos
+orçamentários e de crédito que sejam necessários para a execução anual do programa.
+
+- Assessorar e informar, regular e oportunamente, ao mutuário e ao banco financiador sobre o andamento do projeto.
+
+- Preparar e manter atualizado oportunamente todas as evidências que sejam exigidas pelo banco financiador.
+
+- Administrar, coordenar, supervisionar e avaliar do ponto de vista técnico, administrativo, ambiental e social a execução do programa.
+
+- Preparar e/ou revisar a documentação relacionada às aquisições necessárias ao programa e encaminhá-la ao banco financiador.
+
+- Realizar a gestão financeira do programa.
+
+- Preparar a documentação necessária para apresentar e prestar contas ao banco financiador.
+
+- Preparar os relatórios a que faz referência o contrato de financiamento nos formatos e prazos estabelecidos pelo banco financiador.
+
+- Preparar os pedidos de desembolsos e as justificativas de despesas do programa conforme os requisitos do banco financiador.
+
+- Responder pelos sistemas de informação contábil e financeira, preparar as demonstrações contábeis e financeiras sobre o progresso do
+programa.
+
+- Efetuar os pagamentos às contratadas e consultores, conforme progresso dos trabalhos, devidamente respaldadas pelas inspeções de
+execução e nas condições contratuais.
+
+- Contratar os serviços de auditoria requeridos pelo banco financiador e apresentar os relatórios dos auditores.
+
+- Designar representantes para todos os atos relacionados com a execução do contrato de financiamento.
+
+(cid:10)
+
+
+Página: 28
+
+- Aferir a qualidade técnica dos estudos de pré investimento e investimento, a idoneidade da execução do projeto, seu progresso e
+pagamentos.
+
+Aferir a qualidade técnica dos planos de gestão social, ambiental e de governança aplicáveis.
+
+A Secretaria de Estado da Saúde - SES é o órgão estadual responsável pela formulação da Política Estadual de Saúde e de suas
+diretrizes, norteada pelos princípios do Sistema Único de Saúde.
+
+Suas responsabilidades na execução dos projetos
+
+- Gerenciar e administrar a execução dos projetos SES.
+
+- Assessorar no andamento dos projetos.
+
+- Preparar e manter atualizado oportunamente todas as evidências que sejam exigidas pelo banco financiador.
+
+- Administrar, coordenar, supervisionar e avaliar do ponto de vista técnico, administrativo, ambiental e social a execução dos projetos
+sobre sua responsabilidade.
+
+Aferir a qualidade técnica dos planos de gestão social, ambiental e de governança aplicáveis.
+
+Documentos anexos
+
+- Matriz RACI em anexo
+
+- Experiência dos Técnicos
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo- HCFMUSP
+
+Representante Oficial: Antonio Jose Rodrigues Pereira
+
+Endereço da Sede: Rua Eneas de Carvalho Aguiar 255 - Cerqueira Cesar - São Paulo - SP
+E-mail Institucional:
+
+Telefone: 1126616200
+
+CNPJ: 60448040000122
+
+Fax:
+UF:
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+C - DESENVOLVIMENTO DE PESSOAS
+
+S - PROGRAMAS DE CAPACITAÇÃO
+
+COMPONENTES
+
+P - AMPLIAÇÃO DO PROGRAMA DE HUMANIZAÇÃO DA SES
+
+P - APRIMORAMENTO DO PROGRAMA - COMBATE AO ASSÉDIO NO AMBIENTE
+ORGANIZACIONAL
+P - PLATAFORMA DIGITAL - TRILHA DE APRENDIZAGEM
+
+P - PROGRAMA DE CULTURA INSTITUCIONAL PARA TRABALHAR A INCLUSÃO, EQUIDADE
+E DIVERSIDADE
+P - PROGRAMA DE SAÚDE MENTAL E QUALIDADE DE VIDA NO TRABALHO
+
+P - PROGRAMA PARA PROFISSIONAIS SENIORES (50+)
+
+P - PROGRAMAS DE CAPACITAÇÃO EM TECNOLOGIA, SAÚDE DIGITAL,
+SUSTENTABILIDADE E HABILIDADES
+C - CENTRO DE REFERÊNCIA NA JORNADA E EXPERIÊNCIA DO PACIENTE
+
+S - CENTRO DE REFERÊNCIA NAS ÁREAS AMBULATORIAIS
+
+P - MODERNIZAÇÃO DOS AMBULATÓRIO DE CONSULTAS ORTOPEDICA E TRAUMA DO
+IOT - HCFMUSP
+P - MODERNIZAÇÃO DOS AMBULATÓRIO DE CONSULTAS PEDIÁTRICAS DO ICR -
+HCFMUSP
+P - MODERNIZAÇÃO DA CENTRO DE INFUSÃO - HCFMUSP
+
+S - CENTRO DE REFERÊNCIA NAS ÁREAS ASSISTENCIAIS DE INTERNAÇÃO,
+DIAGNÓSTICOS E TRATAMENTO
+P - MODERNIZAÇÃO DA DIVISÃO CLÍNICA DE NEUROLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA SERVIÇO DE ENDOSCOPIA GASTROINTESTINAL DO ICHC -
+HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DA GASTROENTEROLOGIA  DO ICHC - HCFMUSP
+
+VALOR
+
+CUSTO
+8.500.000,00
+
+Ano 1
+
+FONTES
+
+CF
+
+BIRD
+
+413.084,78
+
+1.652.339,04
+
+8.500.000,00
+
+413.084,78
+
+1.652.339,04
+
+288.135,59
+
+300.000,00
+
+1.858.474,58
+
+720.338,98
+
+1.872.881,36
+
+432.203,39
+
+14.002,88
+
+14.579,47
+
+90.318,53
+
+35.007,19
+
+91.018,68
+
+21.004,31
+
+56.011,49
+
+58.317,85
+
+361.274,13
+
+140.028,73
+
+364.074,71
+
+84.017,24
+
+3.027.966,10
+
+147.153,72
+
+588.614,89
+
+48.209.695,10
+
+361.855,40
+
+1.447.421,54
+
+10.748.863,19
+
+4.451.515,74
+
+80.679,51
+
+33.412,47
+
+322.717,99
+
+133.649,87
+
+1.869.636,61
+
+14.033,24
+
+56.132,95
+
+4.427.710,84
+
+33.233,80
+
+132.935,17
+
+20.724.913,33
+
+155.558,37
+
+622.233,48
+
+2.629.601,09
+
+1.855.240,04
+
+19.737,43
+
+13.925,19
+
+78.949,70
+
+55.700,71
+
+4.035.819,27
+
+30.292,31
+
+121.169,22
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 29
+
+P - MODERNIZAÇÃO DA ENFERMARIA DE INTERNAÇÃO PEDIÁTRICAS DO ICR - HCFMUSP
+
+941.063,79
+
+P - MODERNIZAÇÃO DA UNIDADE DE CIRURGIA GERAL E CIRURGIA CABEÇA E PESCOÇO
+DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DE CLÍNICA MÉDICA E RETAGUARDA DA EMERGÊNCIA
+DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DE DIVISÃO DE DERMATOLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UNIDADE DE ENDOCRINOLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UNIDADE DE NEFROLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UNIDADE DE PLÁSTICA E QUEIMADOS DO ICHC - HCFMUSP
+
+S - CENTRO DE REFERÊNCIA DAS UNIDADES DE TERAPIA INTENSIVA (UTI)
+
+P - MODERNIZAÇÃO DA UTI DAS CLÍNICAS MÉDICAS DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UTI TRAUMA E ACOLHIMENTO DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UTI DO IOT - HCFMUSP
+
+P - MODERNIZAÇÃO DA UTI IPQ - HCFMUSP
+
+S - CENTRO DE REFERÊNCIA DE ÁREAS DE APÓIO À ASSISTÊNCIA
+
+P - MODERNIZAÇÃO DA DIVISÃO DE NUTRIÇÃO E DIETÉTICA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA DIVISÃO DE NUTRIÇÃO E DIETÉTICA DO INCOR - HCFMUSP
+
+P - MODERNIZAÇÃO DA ÁREA DE ATENDIMENTO E ACOLHIMENTO DE PACIENTES DO
+INRAD - HCFMUSP
+P - ADEQUAÇÃO PREDIAL E ATENDIMENTO ÀS NORMAS VIGENTE DE SEGURANÇA NO
+COMPLEXO - HCFMUSP
+C - CENTRO DE REFERÊNCIA TECNOLÓGICA
+
+S - ADEQUAÇÃO E MODERNIZAÇÃO DO PARQUE TECNOLÓGICO COMO CENTRO DE
+REFERÊNCIA
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DA RADIOTERAPIA - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS CENTRAIS DE MATERIAIS A
+ESTERILIZAÇÃO - HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS ENFERMAGEM - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS UNIDADES DE TERAPIA INTENSIVA
+- HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DE DIAGNÓSTICO POR IMAGEM -
+HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DE MEDICINA NUCLEAR - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DO SERVIÇO DE APOIO DIAGNÓSTICO
+TERAPÊUTICO - HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS AMBULATÓRIOS - HCFMUSP
+
+2.527.428,45
+
+18.970,53
+
+75.882,13
+
+1.766.511,16
+
+13.259,19
+
+53.036,77
+
+2.409.123,29
+
+1.433.105,71
+
+1.433.105,71
+
+1.693.914,82
+
+4.538.765,45
+
+2.131.385,74
+
+979.333,46
+
+947.282,55
+
+480.763,70
+
+12.197.153,13
+
+2.848.970,07
+
+4.451.515,74
+
+445.151,57
+
+18.082,55
+
+10.756,69
+
+10.756,69
+
+12.714,29
+
+7.063,50
+
+34.067,35
+
+15.997,89
+
+7.350,74
+
+7.110,17
+
+3.608,55
+
+91.550,17
+
+21.383,98
+
+33.412,47
+
+3.341,25
+
+72.330,20
+
+43.026,79
+
+43.026,79
+
+50.857,18
+
+28.253,99
+
+136.269,43
+
+63.991,56
+
+29.402,98
+
+28.440,70
+
+14.434,19
+
+366.200,64
+
+85.535,91
+
+133.649,87
+
+13.364,99
+
+4.451.515,75
+
+33.412,47
+
+133.649,87
+
+72.118.304,90
+
+6.122.188,16
+
+24.488.752,46
+
+40.993.019,82
+
+3.479.934,54
+
+13.919.738,08
+
+2.717.129,93
+
+230.659,62
+
+922.638,46
+
+644.715,44
+
+54.730,48
+
+218.921,91
+
+630.248,57
+
+53.502,37
+
+214.009,49
+
+5.246.633,15
+
+445.391,43
+
+1.781.565,74
+
+4.860.580,71
+
+412.619,09
+
+1.650.476,36
+
+4.642.433,49
+
+394.100,38
+
+1.576.401,51
+
+286.826,02
+
+24.348,93
+
+97.395,68
+
+253.856,24
+
+21.550,09
+
+86.200,35
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS CENTRO CIRÚRGICO - HCFMUSP
+
+9.749.034,77
+
+827.604,38
+
+3.310.417,50
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS CENTROS DE ENDOSCOPIA -
+HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS LABORATÓRIOS - HCFMUSP
+
+3.452.523,53
+
+293.087,84
+
+1.172.351,37
+
+1.330.348,60
+
+112.934,50
+
+451.737,98
+
+P - MODERNIZAÇÃO DA SALA DE EQUIPAMENTOS DE RADIOTERAPIA - HCFMUSP
+
+104.505,00
+
+8.871,52
+
+35.486,10
+
+P - ADEQUAÇÃO E MODERNIZAÇÃO DA CABINE PRIMÁRIA DO INCOR - HCFMUSP
+
+7.074.184,37
+
+600.533,91
+
+2.402.135,63
+
+S - MODERNIZAÇÃO DA TECNOLOGIA DA INFORMAÇÃO COMO CENTRO DE REFERÊNCIA
+
+31.125.285,08
+
+2.642.253,62
+
+10.569.014,38
+
+P - MODERNIZAÇÃO DE DATACENTER E ESPAÇOS DE TECNOLOGIA DA INFORMAÇÃO -
+HCFMUSP
+P - AMPLIAÇÃO DE COBERTURA REDE SEM FIO / MOBILIDADE - HCFMUSP
+
+1.383.027,25
+
+117.406,43
+
+469.625,74
+
+1.123.709,64
+
+95.392,73
+
+381.570,91
+
+P - ATUALIZAÇÃO DE COMPUTADORES DO COMPLEXO - HCFMUSP
+
+3.889.764,13
+
+330.205,59
+
+1.320.822,37
+
+P - ATUALIZAÇÃO E EXPANSÃO DE FIREWALL PARA DATACENTER E UNIDADES -
+HCFMUSP
+P - ATUALIZAÇÃO TECNOLÓGICA E EXPANSÃO DE RECURSOS DE PORTAIS DE ACESSO
+E MINERAÇÃO DE DADOS PARA PESQUISA - HCFMUSP
+P - DESENVOLVIMENTO DE UM MODELO DE INFORMATIZAÇÃO BASEADO EM
+PRONTUÁRIO ÚNICO - SES
+P - INCORPORAÇÃO DE PLATAFORMA DE REGISTRO ELETRÔNICO DE SAÚDE (RES) -
+SES
+P - GUIA DE GEOLOCALIZAÇÃO DO PACIENTE - HCFMUSP
+
+C - GOVERNANÇA E SUSTENTABILIDADE
+
+S - BEM ESTAR AO COLABORADOR
+
+P - ESPAÇO DE DESCOMPRESSÃO COLABORADORES - HCFMUSP
+
+P - MODERNIZAÇÃO DO CENTRO DE  CAPACITAÇÃO DO NÚCLEO DE GESTÃO DE
+PESSOAS - HCFMUSP
+S - SUSTENTABILIDADE AMBIENTAL
+
+P - ENERGIA LIMPA - HCFMUSP
+
+P - GESTÃO DE RESÍDUOS - HCFMUSP
+
+C - GESTÃO DE PROJETOS
+
+S - GESTÃO DE PROJETOS
+
+P - GESTÃO DE PROJETOS
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - DESENVOLVIMENTO DE PESSOAS
+
+S - PROGRAMAS DE CAPACITAÇÃO
+
+COMPONENTES
+
+P - AMPLIAÇÃO DO PROGRAMA DE HUMANIZAÇÃO DA SES
+
+864.392,03
+
+73.379,03
+
+293.516,09
+
+864.392,03
+
+73.379,03
+
+293.516,09
+
+20.000.000,00
+
+1.697.818,09
+
+6.791.272,33
+
+2.000.000,00
+
+169.781,81
+
+679.127,23
+
+1.000.000,00
+
+84.890,91
+
+339.563,62
+
+25.172.000,00
+
+120.000,00
+
+480.000,02
+
+1.172.000,00
+
+272.000,00
+
+900.000,00
+
+5.587,16
+
+1.296,68
+
+4.290,48
+
+22.348,65
+
+5.186,72
+
+17.161,93
+
+24.000.000,00
+
+114.412,84
+
+457.651,37
+
+21.000.000,00
+
+100.111,24
+
+400.444,94
+
+3.000.000,00
+
+14.301,60
+
+57.206,43
+
+6.000.000,00
+
+636.000,00
+
+2.544.000,00
+
+6.000.000,00
+
+636.000,00
+
+2.544.000,00
+
+6.000.000,00
+
+636.000,00
+
+2.544.000,00
+
+0,00
+
+7.653.128,34
+
+30.612.513,06
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+BIRD
+
+351.118,64
+
+1.404.474,57
+
+351.118,64
+
+1.404.474,57
+
+11.902,33
+
+47.609,31
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+
+Página: 30
+
+P - APRIMORAMENTO DO PROGRAMA - COMBATE AO ASSÉDIO NO AMBIENTE
+ORGANIZACIONAL
+P - PLATAFORMA DIGITAL - TRILHA DE APRENDIZAGEM
+
+P - PROGRAMA DE CULTURA INSTITUCIONAL PARA TRABALHAR A INCLUSÃO, EQUIDADE
+E DIVERSIDADE
+P - PROGRAMA DE SAÚDE MENTAL E QUALIDADE DE VIDA NO TRABALHO
+
+P - PROGRAMA PARA PROFISSIONAIS SENIORES (50+)
+
+P - PROGRAMAS DE CAPACITAÇÃO EM TECNOLOGIA, SAÚDE DIGITAL,
+SUSTENTABILIDADE E HABILIDADES
+C - CENTRO DE REFERÊNCIA NA JORNADA E EXPERIÊNCIA DO PACIENTE
+
+S - CENTRO DE REFERÊNCIA NAS ÁREAS AMBULATORIAIS
+
+P - MODERNIZAÇÃO DOS AMBULATÓRIO DE CONSULTAS ORTOPEDICA E TRAUMA DO
+IOT - HCFMUSP
+P - MODERNIZAÇÃO DOS AMBULATÓRIO DE CONSULTAS PEDIÁTRICAS DO ICR -
+HCFMUSP
+P - MODERNIZAÇÃO DA CENTRO DE INFUSÃO - HCFMUSP
+
+S - CENTRO DE REFERÊNCIA NAS ÁREAS ASSISTENCIAIS DE INTERNAÇÃO,
+DIAGNÓSTICOS E TRATAMENTO
+P - MODERNIZAÇÃO DA DIVISÃO CLÍNICA DE NEUROLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA SERVIÇO DE ENDOSCOPIA GASTROINTESTINAL DO ICHC -
+HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DA GASTROENTEROLOGIA  DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UNIDADE DE CIRURGIA GERAL E CIRURGIA CABEÇA E PESCOÇO
+DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DE CLÍNICA MÉDICA E RETAGUARDA DA EMERGÊNCIA
+DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DE DIVISÃO DE DERMATOLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UNIDADE DE ENDOCRINOLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UNIDADE DE NEFROLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UNIDADE DE PLÁSTICA E QUEIMADOS DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA ENFERMARIA DE INTERNAÇÃO PEDIÁTRICAS DO ICR - HCFMUSP
+
+S - CENTRO DE REFERÊNCIA DAS UNIDADES DE TERAPIA INTENSIVA (UTI)
+
+P - MODERNIZAÇÃO DA UTI DAS CLÍNICAS MÉDICAS DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UTI TRAUMA E ACOLHIMENTO DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UTI DO IOT - HCFMUSP
+
+P - MODERNIZAÇÃO DA UTI IPQ - HCFMUSP
+
+S - CENTRO DE REFERÊNCIA DE ÁREAS DE APÓIO À ASSISTÊNCIA
+
+P - MODERNIZAÇÃO DA DIVISÃO DE NUTRIÇÃO E DIETÉTICA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA DIVISÃO DE NUTRIÇÃO E DIETÉTICA DO INCOR - HCFMUSP
+
+P - MODERNIZAÇÃO DA ÁREA DE ATENDIMENTO E ACOLHIMENTO DE PACIENTES DO
+INRAD - HCFMUSP
+P - ADEQUAÇÃO PREDIAL E ATENDIMENTO ÀS NORMAS VIGENTE DE SEGURANÇA NO
+COMPLEXO - HCFMUSP
+C - CENTRO DE REFERÊNCIA TECNOLÓGICA
+
+S - ADEQUAÇÃO E MODERNIZAÇÃO DO PARQUE TECNOLÓGICO COMO CENTRO DE
+REFERÊNCIA
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DA RADIOTERAPIA - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS CENTRAIS DE MATERIAIS A
+ESTERILIZAÇÃO - HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS ENFERMAGEM - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS UNIDADES DE TERAPIA INTENSIVA
+- HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DE DIAGNÓSTICO POR IMAGEM -
+HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DE MEDICINA NUCLEAR - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DO SERVIÇO DE APOIO DIAGNÓSTICO
+TERAPÊUTICO - HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS AMBULATÓRIOS - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS CENTRO CIRÚRGICO - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS CENTROS DE ENDOSCOPIA -
+HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS LABORATÓRIOS - HCFMUSP
+
+P - MODERNIZAÇÃO DA SALA DE EQUIPAMENTOS DE RADIOTERAPIA - HCFMUSP
+
+P - ADEQUAÇÃO E MODERNIZAÇÃO DA CABINE PRIMÁRIA DO INCOR - HCFMUSP
+
+S - MODERNIZAÇÃO DA TECNOLOGIA DA INFORMAÇÃO COMO CENTRO DE REFERÊNCIA
+
+P - MODERNIZAÇÃO DE DATACENTER E ESPAÇOS DE TECNOLOGIA DA INFORMAÇÃO -
+HCFMUSP
+P - AMPLIAÇÃO DE COBERTURA REDE SEM FIO / MOBILIDADE - HCFMUSP
+
+P - ATUALIZAÇÃO DE COMPUTADORES DO COMPLEXO - HCFMUSP
+
+P - ATUALIZAÇÃO E EXPANSÃO DE FIREWALL PARA DATACENTER E UNIDADES -
+HCFMUSP
+P - ATUALIZAÇÃO TECNOLÓGICA E EXPANSÃO DE RECURSOS DE PORTAIS DE ACESSO
+E MINERAÇÃO DE DADOS PARA PESQUISA - HCFMUSP
+P - DESENVOLVIMENTO DE UM MODELO DE INFORMATIZAÇÃO BASEADO EM
+PRONTUÁRIO ÚNICO - SES
+P - INCORPORAÇÃO DE PLATAFORMA DE REGISTRO ELETRÔNICO DE SAÚDE (RES) -
+SES
+P - GUIA DE GEOLOCALIZAÇÃO DO PACIENTE - HCFMUSP
+
+C - GOVERNANÇA E SUSTENTABILIDADE
+
+12.392,42
+
+49.569,69
+
+76.770,01
+
+29.755,82
+
+77.365,12
+
+17.853,49
+
+307.080,03
+
+119.023,27
+
+309.460,50
+
+71.413,96
+
+125.079,45
+
+500.317,81
+
+3.386.073,40
+
+13.544.293,57
+
+754.961,00
+
+3.019.843,99
+
+312.658,25
+
+1.250.633,00
+
+131.316,47
+
+525.265,86
+
+310.986,28
+
+1.243.945,13
+
+1.455.642,44
+
+5.822.569,71
+
+184.693,60
+
+738.774,41
+
+130.305,30
+
+521.221,21
+
+283.461,25
+
+1.133.844,99
+
+177.517,37
+
+710.069,48
+
+124.073,31
+
+496.293,24
+
+169.208,05
+
+676.832,18
+
+100.656,13
+
+402.624,50
+
+100.656,13
+
+402.624,50
+
+118.974,41
+
+475.897,63
+
+66.096,89
+
+264.387,57
+
+318.786,36
+
+1.275.145,42
+
+149.700,77
+
+598.803,09
+
+68.784,82
+
+66.533,68
+
+33.767,09
+
+275.139,26
+
+266.134,70
+
+135.068,37
+
+856.683,60
+
+3.426.734,45
+
+200.101,28
+
+800.405,13
+
+312.658,25
+
+1.250.633,01
+
+31.265,82
+
+125.063,30
+
+312.658,25
+
+1.250.633,01
+
+3.446.367,19
+
+13.785.468,79
+
+1.958.961,71
+
+7.835.846,90
+
+129.845,36
+
+519.381,45
+
+30.809,46
+
+123.237,85
+
+30.118,12
+
+120.472,49
+
+250.724,48
+
+1.002.897,91
+
+232.275,92
+
+929.103,70
+
+221.851,17
+
+887.404,69
+
+13.706,75
+
+54.827,01
+
+12.131,20
+
+48.524,81
+
+465.883,85
+
+1.863.535,41
+
+164.988,12
+
+659.952,50
+
+63.574,29
+
+254.297,15
+
+4.994,06
+
+19.976,21
+
+338.058,93
+
+1.352.235,72
+
+1.487.405,48
+
+5.949.621,89
+
+66.091,68
+
+264.366,71
+
+53.699,49
+
+214.797,95
+
+185.882,84
+
+743.531,37
+
+41.307,30
+
+165.229,19
+
+41.307,30
+
+165.229,19
+
+955.753,80
+
+3.823.015,20
+
+95.575,38
+
+382.301,52
+
+47.787,69
+
+191.150,76
+
+1.687.200,00
+
+6.748.800,00
+
+
+Página: 31
+
+S - BEM ESTAR AO COLABORADOR
+
+P - ESPAÇO DE DESCOMPRESSÃO COLABORADORES - HCFMUSP
+
+P - MODERNIZAÇÃO DO CENTRO DE  CAPACITAÇÃO DO NÚCLEO DE GESTÃO DE
+PESSOAS - HCFMUSP
+S - SUSTENTABILIDADE AMBIENTAL
+
+P - ENERGIA LIMPA - HCFMUSP
+
+P - GESTÃO DE RESÍDUOS - HCFMUSP
+
+C - GESTÃO DE PROJETOS
+
+S - GESTÃO DE PROJETOS
+
+P - GESTÃO DE PROJETOS
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - DESENVOLVIMENTO DE PESSOAS
+
+S - PROGRAMAS DE CAPACITAÇÃO
+
+COMPONENTES
+
+P - AMPLIAÇÃO DO PROGRAMA DE HUMANIZAÇÃO DA SES
+
+P - APRIMORAMENTO DO PROGRAMA - COMBATE AO ASSÉDIO NO AMBIENTE
+ORGANIZACIONAL
+P - PLATAFORMA DIGITAL - TRILHA DE APRENDIZAGEM
+
+P - PROGRAMA DE CULTURA INSTITUCIONAL PARA TRABALHAR A INCLUSÃO, EQUIDADE
+E DIVERSIDADE
+P - PROGRAMA DE SAÚDE MENTAL E QUALIDADE DE VIDA NO TRABALHO
+
+P - PROGRAMA PARA PROFISSIONAIS SENIORES (50+)
+
+P - PROGRAMAS DE CAPACITAÇÃO EM TECNOLOGIA, SAÚDE DIGITAL,
+SUSTENTABILIDADE E HABILIDADES
+C - CENTRO DE REFERÊNCIA NA JORNADA E EXPERIÊNCIA DO PACIENTE
+
+S - CENTRO DE REFERÊNCIA NAS ÁREAS AMBULATORIAIS
+
+P - MODERNIZAÇÃO DOS AMBULATÓRIO DE CONSULTAS ORTOPEDICA E TRAUMA DO
+IOT - HCFMUSP
+P - MODERNIZAÇÃO DOS AMBULATÓRIO DE CONSULTAS PEDIÁTRICAS DO ICR -
+HCFMUSP
+P - MODERNIZAÇÃO DA CENTRO DE INFUSÃO - HCFMUSP
+
+S - CENTRO DE REFERÊNCIA NAS ÁREAS ASSISTENCIAIS DE INTERNAÇÃO,
+DIAGNÓSTICOS E TRATAMENTO
+P - MODERNIZAÇÃO DA DIVISÃO CLÍNICA DE NEUROLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA SERVIÇO DE ENDOSCOPIA GASTROINTESTINAL DO ICHC -
+HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DA GASTROENTEROLOGIA  DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UNIDADE DE CIRURGIA GERAL E CIRURGIA CABEÇA E PESCOÇO
+DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DE CLÍNICA MÉDICA E RETAGUARDA DA EMERGÊNCIA
+DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DE DIVISÃO DE DERMATOLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UNIDADE DE ENDOCRINOLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UNIDADE DE NEFROLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UNIDADE DE PLÁSTICA E QUEIMADOS DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA ENFERMARIA DE INTERNAÇÃO PEDIÁTRICAS DO ICR - HCFMUSP
+
+S - CENTRO DE REFERÊNCIA DAS UNIDADES DE TERAPIA INTENSIVA (UTI)
+
+P - MODERNIZAÇÃO DA UTI DAS CLÍNICAS MÉDICAS DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UTI TRAUMA E ACOLHIMENTO DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UTI DO IOT - HCFMUSP
+
+P - MODERNIZAÇÃO DA UTI IPQ - HCFMUSP
+
+S - CENTRO DE REFERÊNCIA DE ÁREAS DE APÓIO À ASSISTÊNCIA
+
+P - MODERNIZAÇÃO DA DIVISÃO DE NUTRIÇÃO E DIETÉTICA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA DIVISÃO DE NUTRIÇÃO E DIETÉTICA DO INCOR - HCFMUSP
+
+P - MODERNIZAÇÃO DA ÁREA DE ATENDIMENTO E ACOLHIMENTO DE PACIENTES DO
+INRAD - HCFMUSP
+P - ADEQUAÇÃO PREDIAL E ATENDIMENTO ÀS NORMAS VIGENTE DE SEGURANÇA NO
+COMPLEXO - HCFMUSP
+C - CENTRO DE REFERÊNCIA TECNOLÓGICA
+
+S - ADEQUAÇÃO E MODERNIZAÇÃO DO PARQUE TECNOLÓGICO COMO CENTRO DE
+REFERÊNCIA
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DA RADIOTERAPIA - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS CENTRAIS DE MATERIAIS A
+ESTERILIZAÇÃO - HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS ENFERMAGEM - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS UNIDADES DE TERAPIA INTENSIVA
+- HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DE DIAGNÓSTICO POR IMAGEM -
+HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DE MEDICINA NUCLEAR - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DO SERVIÇO DE APOIO DIAGNÓSTICO
+TERAPÊUTICO - HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS AMBULATÓRIOS - HCFMUSP
+
+78.555,47
+
+18.231,30
+
+60.324,17
+
+314.221,90
+
+72.925,22
+
+241.296,68
+
+1.608.644,53
+
+6.434.578,10
+
+1.407.563,96
+
+5.630.255,84
+
+201.080,57
+
+804.322,26
+
+276.000,00
+
+1.104.000,00
+
+276.000,00
+
+1.104.000,00
+
+276.000,00
+
+1.104.000,00
+
+0,00
+
+9.146.759,23
+
+36.587.036,93
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+BIRD
+
+331.118,64
+
+1.324.474,56
+
+331.118,64
+
+1.324.474,56
+
+11.224,36
+
+11.686,54
+
+72.397,13
+
+28.060,90
+
+72.958,34
+
+16.836,54
+
+44.897,44
+
+46.746,16
+
+289.588,51
+
+112.243,61
+
+291.833,38
+
+67.346,16
+
+117.954,83
+
+471.819,30
+
+4.057.573,29
+
+16.230.293,26
+
+904.679,03
+
+3.618.716,14
+
+374.662,22
+
+1.498.648,89
+
+157.358,13
+
+629.432,53
+
+372.658,68
+
+1.490.634,72
+
+1.744.314,18
+
+6.977.256,76
+
+221.320,61
+
+885.282,45
+
+156.146,44
+
+624.585,78
+
+339.675,09
+
+1.358.700,37
+
+212.721,24
+
+850.884,97
+
+148.678,57
+
+594.714,28
+
+202.764,08
+
+811.056,31
+
+120.617,47
+
+482.469,88
+
+120.617,47
+
+482.469,88
+
+142.568,49
+
+570.273,97
+
+79.204,72
+
+316.818,87
+
+382.005,60
+
+1.528.022,40
+
+179.388,27
+
+717.553,09
+
+82.425,69
+
+79.728,12
+
+40.463,52
+
+329.702,75
+
+318.912,48
+
+161.854,08
+
+1.026.574,48
+
+4.106.297,96
+
+239.783,82
+
+959.135,29
+
+374.662,22
+
+1.498.648,89
+
+37.466,22
+
+149.864,89
+
+374.662,22
+
+1.498.648,89
+
+2.347.120,68
+
+9.388.482,70
+
+1.334.135,15
+
+5.336.540,54
+
+88.430,14
+
+20.982,54
+
+353.720,56
+
+83.930,14
+
+20.511,71
+
+82.046,82
+
+170.753,89
+
+683.015,56
+
+158.189,65
+
+632.758,61
+
+151.089,96
+
+604.359,83
+
+9.334,87
+
+37.339,50
+
+8.261,86
+
+33.047,43
+
+
+Página: 32
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS CENTRO CIRÚRGICO - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS CENTROS DE ENDOSCOPIA -
+HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS LABORATÓRIOS - HCFMUSP
+
+P - MODERNIZAÇÃO DA SALA DE EQUIPAMENTOS DE RADIOTERAPIA - HCFMUSP
+
+P - ADEQUAÇÃO E MODERNIZAÇÃO DA CABINE PRIMÁRIA DO INCOR - HCFMUSP
+
+S - MODERNIZAÇÃO DA TECNOLOGIA DA INFORMAÇÃO COMO CENTRO DE REFERÊNCIA
+
+P - MODERNIZAÇÃO DE DATACENTER E ESPAÇOS DE TECNOLOGIA DA INFORMAÇÃO -
+HCFMUSP
+P - AMPLIAÇÃO DE COBERTURA REDE SEM FIO / MOBILIDADE - HCFMUSP
+
+P - ATUALIZAÇÃO DE COMPUTADORES DO COMPLEXO - HCFMUSP
+
+P - ATUALIZAÇÃO E EXPANSÃO DE FIREWALL PARA DATACENTER E UNIDADES -
+HCFMUSP
+P - ATUALIZAÇÃO TECNOLÓGICA E EXPANSÃO DE RECURSOS DE PORTAIS DE ACESSO
+E MINERAÇÃO DE DADOS PARA PESQUISA - HCFMUSP
+P - DESENVOLVIMENTO DE UM MODELO DE INFORMATIZAÇÃO BASEADO EM
+PRONTUÁRIO ÚNICO - SES
+P - INCORPORAÇÃO DE PLATAFORMA DE REGISTRO ELETRÔNICO DE SAÚDE (RES) -
+SES
+P - GUIA DE GEOLOCALIZAÇÃO DO PACIENTE - HCFMUSP
+
+C - GOVERNANÇA E SUSTENTABILIDADE
+
+S - BEM ESTAR AO COLABORADOR
+
+P - ESPAÇO DE DESCOMPRESSÃO COLABORADORES - HCFMUSP
+
+P - MODERNIZAÇÃO DO CENTRO DE  CAPACITAÇÃO DO NÚCLEO DE GESTÃO DE
+PESSOAS - HCFMUSP
+S - SUSTENTABILIDADE AMBIENTAL
+
+P - ENERGIA LIMPA - HCFMUSP
+
+P - GESTÃO DE RESÍDUOS - HCFMUSP
+
+C - GESTÃO DE PROJETOS
+
+S - GESTÃO DE PROJETOS
+
+P - GESTÃO DE PROJETOS
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - DESENVOLVIMENTO DE PESSOAS
+
+S - PROGRAMAS DE CAPACITAÇÃO
+
+COMPONENTES
+
+P - AMPLIAÇÃO DO PROGRAMA DE HUMANIZAÇÃO DA SES
+
+P - APRIMORAMENTO DO PROGRAMA - COMBATE AO ASSÉDIO NO AMBIENTE
+ORGANIZACIONAL
+P - PLATAFORMA DIGITAL - TRILHA DE APRENDIZAGEM
+
+P - PROGRAMA DE CULTURA INSTITUCIONAL PARA TRABALHAR A INCLUSÃO, EQUIDADE
+E DIVERSIDADE
+P - PROGRAMA DE SAÚDE MENTAL E QUALIDADE DE VIDA NO TRABALHO
+
+P - PROGRAMA PARA PROFISSIONAIS SENIORES (50+)
+
+P - PROGRAMAS DE CAPACITAÇÃO EM TECNOLOGIA, SAÚDE DIGITAL,
+SUSTENTABILIDADE E HABILIDADES
+C - CENTRO DE REFERÊNCIA NA JORNADA E EXPERIÊNCIA DO PACIENTE
+
+S - CENTRO DE REFERÊNCIA NAS ÁREAS AMBULATORIAIS
+
+P - MODERNIZAÇÃO DOS AMBULATÓRIO DE CONSULTAS ORTOPEDICA E TRAUMA DO
+IOT - HCFMUSP
+P - MODERNIZAÇÃO DOS AMBULATÓRIO DE CONSULTAS PEDIÁTRICAS DO ICR -
+HCFMUSP
+P - MODERNIZAÇÃO DA CENTRO DE INFUSÃO - HCFMUSP
+
+S - CENTRO DE REFERÊNCIA NAS ÁREAS ASSISTENCIAIS DE INTERNAÇÃO,
+DIAGNÓSTICOS E TRATAMENTO
+P - MODERNIZAÇÃO DA DIVISÃO CLÍNICA DE NEUROLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA SERVIÇO DE ENDOSCOPIA GASTROINTESTINAL DO ICHC -
+HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DA GASTROENTEROLOGIA  DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UNIDADE DE CIRURGIA GERAL E CIRURGIA CABEÇA E PESCOÇO
+DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DE CLÍNICA MÉDICA E RETAGUARDA DA EMERGÊNCIA
+DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DE DIVISÃO DE DERMATOLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UNIDADE DE ENDOCRINOLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UNIDADE DE NEFROLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UNIDADE DE PLÁSTICA E QUEIMADOS DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA ENFERMARIA DE INTERNAÇÃO PEDIÁTRICAS DO ICR - HCFMUSP
+
+317.286,45
+
+1.269.145,81
+
+112.363,84
+
+449.455,34
+
+43.296,76
+
+173.187,03
+
+3.401,16
+
+13.604,64
+
+230.232,32
+
+920.929,27
+
+1.012.985,53
+
+4.051.942,16
+
+45.011,21
+
+180.044,82
+
+36.571,60
+
+146.286,42
+
+126.594,02
+
+506.376,06
+
+28.132,00
+
+112.528,01
+
+28.132,00
+
+112.528,01
+
+650.908,44
+
+2.603.633,77
+
+65.090,84
+
+260.363,38
+
+32.545,42
+
+130.181,69
+
+1.627.200,00
+
+6.508.800,00
+
+75.761,90
+
+17.582,97
+
+58.178,93
+
+303.047,58
+
+70.331,86
+
+232.715,72
+
+1.551.438,10
+
+6.205.752,42
+
+1.357.508,34
+
+5.430.033,37
+
+193.929,76
+
+775.719,05
+
+96.000,00
+
+96.000,00
+
+96.000,00
+
+384.000,00
+
+384.000,00
+
+384.000,00
+
+0,00
+
+8.459.012,61
+
+33.836.050,52
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+BIRD
+
+305.118,63
+
+1.220.474,56
+
+305.118,63
+
+1.220.474,56
+
+10.343,00
+
+10.768,89
+
+66.712,38
+
+25.857,51
+
+67.229,53
+
+15.514,51
+
+41.372,02
+
+43.075,57
+
+266.849,52
+
+103.430,05
+
+268.918,12
+
+62.058,03
+
+108.692,81
+
+434.771,25
+
+1.836.436,91
+
+7.345.747,73
+
+409.453,10
+
+1.637.812,43
+
+169.570,21
+
+678.280,83
+
+71.219,48
+
+284.877,95
+
+168.663,41
+
+674.653,65
+
+789.467,67
+
+3.157.870,72
+
+100.168,58
+
+400.674,31
+
+70.671,08
+
+282.684,33
+
+153.735,20
+
+614.940,84
+
+96.276,55
+
+385.106,18
+
+67.291,16
+
+269.164,64
+
+91.769,98
+
+54.590,85
+
+54.590,85
+
+64.525,77
+
+35.847,65
+
+367.079,94
+
+218.363,40
+
+218.363,40
+
+258.103,08
+
+143.390,60
+
+S - CENTRO DE REFERÊNCIA DAS UNIDADES DE TERAPIA INTENSIVA (UTI)
+
+172.893,77
+
+691.575,12
+
+P - MODERNIZAÇÃO DA UTI DAS CLÍNICAS MÉDICAS DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UTI TRAUMA E ACOLHIMENTO DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UTI DO IOT - HCFMUSP
+
+P - MODERNIZAÇÃO DA UTI IPQ - HCFMUSP
+
+S - CENTRO DE REFERÊNCIA DE ÁREAS DE APÓIO À ASSISTÊNCIA
+
+81.190,21
+
+37.305,44
+
+36.084,54
+
+18.313,58
+
+324.760,86
+
+149.221,78
+
+144.338,16
+
+73.254,32
+
+464.622,37
+
+1.858.489,46
+
+
+Página: 33
+
+P - MODERNIZAÇÃO DA DIVISÃO DE NUTRIÇÃO E DIETÉTICA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA DIVISÃO DE NUTRIÇÃO E DIETÉTICA DO INCOR - HCFMUSP
+
+P - MODERNIZAÇÃO DA ÁREA DE ATENDIMENTO E ACOLHIMENTO DE PACIENTES DO
+INRAD - HCFMUSP
+P - ADEQUAÇÃO PREDIAL E ATENDIMENTO ÀS NORMAS VIGENTE DE SEGURANÇA NO
+COMPLEXO - HCFMUSP
+C - CENTRO DE REFERÊNCIA TECNOLÓGICA
+
+S - ADEQUAÇÃO E MODERNIZAÇÃO DO PARQUE TECNOLÓGICO COMO CENTRO DE
+REFERÊNCIA
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DA RADIOTERAPIA - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS CENTRAIS DE MATERIAIS A
+ESTERILIZAÇÃO - HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS ENFERMAGEM - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS UNIDADES DE TERAPIA INTENSIVA
+- HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DE DIAGNÓSTICO POR IMAGEM -
+HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DE MEDICINA NUCLEAR - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DO SERVIÇO DE APOIO DIAGNÓSTICO
+TERAPÊUTICO - HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS AMBULATÓRIOS - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS CENTRO CIRÚRGICO - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS CENTROS DE ENDOSCOPIA -
+HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS LABORATÓRIOS - HCFMUSP
+
+P - MODERNIZAÇÃO DA SALA DE EQUIPAMENTOS DE RADIOTERAPIA - HCFMUSP
+
+P - ADEQUAÇÃO E MODERNIZAÇÃO DA CABINE PRIMÁRIA DO INCOR - HCFMUSP
+
+S - MODERNIZAÇÃO DA TECNOLOGIA DA INFORMAÇÃO COMO CENTRO DE REFERÊNCIA
+
+P - MODERNIZAÇÃO DE DATACENTER E ESPAÇOS DE TECNOLOGIA DA INFORMAÇÃO -
+HCFMUSP
+P - AMPLIAÇÃO DE COBERTURA REDE SEM FIO / MOBILIDADE - HCFMUSP
+
+P - ATUALIZAÇÃO DE COMPUTADORES DO COMPLEXO - HCFMUSP
+
+P - ATUALIZAÇÃO E EXPANSÃO DE FIREWALL PARA DATACENTER E UNIDADES -
+HCFMUSP
+P - ATUALIZAÇÃO TECNOLÓGICA E EXPANSÃO DE RECURSOS DE PORTAIS DE ACESSO
+E MINERAÇÃO DE DADOS PARA PESQUISA - HCFMUSP
+P - DESENVOLVIMENTO DE UM MODELO DE INFORMATIZAÇÃO BASEADO EM
+PRONTUÁRIO ÚNICO - SES
+P - INCORPORAÇÃO DE PLATAFORMA DE REGISTRO ELETRÔNICO DE SAÚDE (RES) -
+SES
+P - GUIA DE GEOLOCALIZAÇÃO DO PACIENTE - HCFMUSP
+
+C - GOVERNANÇA E SUSTENTABILIDADE
+
+S - BEM ESTAR AO COLABORADOR
+
+P - ESPAÇO DE DESCOMPRESSÃO COLABORADORES - HCFMUSP
+
+P - MODERNIZAÇÃO DO CENTRO DE  CAPACITAÇÃO DO NÚCLEO DE GESTÃO DE
+PESSOAS - HCFMUSP
+S - SUSTENTABILIDADE AMBIENTAL
+
+P - ENERGIA LIMPA - HCFMUSP
+
+P - GESTÃO DE RESÍDUOS - HCFMUSP
+
+C - GESTÃO DE PROJETOS
+
+S - GESTÃO DE PROJETOS
+
+P - GESTÃO DE PROJETOS
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - DESENVOLVIMENTO DE PESSOAS
+
+S - PROGRAMAS DE CAPACITAÇÃO
+
+COMPONENTES
+
+P - AMPLIAÇÃO DO PROGRAMA DE HUMANIZAÇÃO DA SES
+
+P - APRIMORAMENTO DO PROGRAMA - COMBATE AO ASSÉDIO NO AMBIENTE
+ORGANIZACIONAL
+P - PLATAFORMA DIGITAL - TRILHA DE APRENDIZAGEM
+
+P - PROGRAMA DE CULTURA INSTITUCIONAL PARA TRABALHAR A INCLUSÃO, EQUIDADE
+E DIVERSIDADE
+P - PROGRAMA DE SAÚDE MENTAL E QUALIDADE DE VIDA NO TRABALHO
+
+P - PROGRAMA PARA PROFISSIONAIS SENIORES (50+)
+
+P - PROGRAMAS DE CAPACITAÇÃO EM TECNOLOGIA, SAÚDE DIGITAL,
+SUSTENTABILIDADE E HABILIDADES
+C - CENTRO DE REFERÊNCIA NA JORNADA E EXPERIÊNCIA DO PACIENTE
+
+S - CENTRO DE REFERÊNCIA NAS ÁREAS AMBULATORIAIS
+
+P - MODERNIZAÇÃO DOS AMBULATÓRIO DE CONSULTAS ORTOPEDICA E TRAUMA DO
+IOT - HCFMUSP
+P - MODERNIZAÇÃO DOS AMBULATÓRIO DE CONSULTAS PEDIÁTRICAS DO ICR -
+HCFMUSP
+P - MODERNIZAÇÃO DA CENTRO DE INFUSÃO - HCFMUSP
+
+108.524,93
+
+434.099,73
+
+169.570,21
+
+678.280,82
+
+16.957,02
+
+67.828,08
+
+169.570,21
+
+678.280,83
+
+1.568.549,52
+
+6.274.198,10
+
+891.584,76
+
+3.566.339,06
+
+59.096,69
+
+14.022,35
+
+236.386,75
+
+56.089,40
+
+13.707,70
+
+54.830,80
+
+114.112,55
+
+456.450,21
+
+105.716,04
+
+422.864,16
+
+100.971,41
+
+403.885,63
+
+6.238,37
+
+24.953,49
+
+5.521,29
+
+22.085,16
+
+212.038,31
+
+848.153,26
+
+75.091,26
+
+300.365,03
+
+28.934,65
+
+115.738,59
+
+2.272,95
+
+9.091,80
+
+153.861,19
+
+615.444,78
+
+676.964,76
+
+2.707.859,04
+
+30.080,39
+
+120.321,56
+
+24.440,32
+
+84.601,10
+
+18.800,24
+
+97.761,27
+
+338.404,39
+
+75.200,97
+
+18.800,24
+
+75.200,97
+
+434.993,45
+
+1.739.973,81
+
+43.499,35
+
+173.997,38
+
+21.749,67
+
+86.998,69
+
+1.600.000,00
+
+6.399.999,98
+
+74.495,47
+
+17.289,05
+
+57.206,42
+
+297.981,87
+
+69.156,20
+
+228.825,67
+
+1.525.504,53
+
+6.102.018,11
+
+1.334.816,46
+
+5.339.265,85
+
+190.688,07
+
+762.752,26
+
+96.000,00
+
+96.000,00
+
+96.000,00
+
+384.000,00
+
+384.000,00
+
+384.000,00
+
+0,00
+
+5.406.105,06
+
+21.624.420,37
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+BIRD
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+299.559,32
+
+1.198.237,26
+
+1.700.000,01
+
+6.799.999,99
+
+299.559,32
+
+1.198.237,26
+
+1.700.000,01
+
+6.799.999,99
+
+10.154,55
+
+10.572,68
+
+65.496,87
+
+25.386,38
+
+66.004,60
+
+15.231,83
+
+40.618,21
+
+42.290,73
+
+57.627,12
+
+60.000,00
+
+230.508,47
+
+240.000,00
+
+261.987,47
+
+371.694,92
+
+1.486.779,66
+
+101.545,52
+
+144.067,80
+
+576.271,18
+
+264.018,38
+
+374.576,27
+
+1.498.305,09
+
+60.927,32
+
+86.440,68
+
+345.762,71
+
+106.712,41
+
+426.849,63
+
+605.593,22
+
+2.422.372,88
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+9.641.939,00
+
+38.567.756,10
+
+2.149.772,64
+
+8.599.090,55
+
+890.303,15
+
+3.561.212,59
+
+373.927,32
+
+1.495.709,29
+
+885.542,17
+
+3.542.168,67
+
+
+S - CENTRO DE REFERÊNCIA NAS ÁREAS ASSISTENCIAIS DE INTERNAÇÃO,
+DIAGNÓSTICOS E TRATAMENTO
+P - MODERNIZAÇÃO DA DIVISÃO CLÍNICA DE NEUROLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA SERVIÇO DE ENDOSCOPIA GASTROINTESTINAL DO ICHC -
+HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DA GASTROENTEROLOGIA  DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UNIDADE DE CIRURGIA GERAL E CIRURGIA CABEÇA E PESCOÇO
+DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DE CLÍNICA MÉDICA E RETAGUARDA DA EMERGÊNCIA
+DO ICHC - HCFMUSP
+P - MODERNIZAÇÃO DA UNIDADE DE DIVISÃO DE DERMATOLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UNIDADE DE ENDOCRINOLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UNIDADE DE NEFROLOGIA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UNIDADE DE PLÁSTICA E QUEIMADOS DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA ENFERMARIA DE INTERNAÇÃO PEDIÁTRICAS DO ICR - HCFMUSP
+
+S - CENTRO DE REFERÊNCIA DAS UNIDADES DE TERAPIA INTENSIVA (UTI)
+
+P - MODERNIZAÇÃO DA UTI DAS CLÍNICAS MÉDICAS DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UTI TRAUMA E ACOLHIMENTO DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA UTI DO IOT - HCFMUSP
+
+P - MODERNIZAÇÃO DA UTI IPQ - HCFMUSP
+
+S - CENTRO DE REFERÊNCIA DE ÁREAS DE APÓIO À ASSISTÊNCIA
+
+P - MODERNIZAÇÃO DA DIVISÃO DE NUTRIÇÃO E DIETÉTICA DO ICHC - HCFMUSP
+
+P - MODERNIZAÇÃO DA DIVISÃO DE NUTRIÇÃO E DIETÉTICA DO INCOR - HCFMUSP
+
+P - MODERNIZAÇÃO DA ÁREA DE ATENDIMENTO E ACOLHIMENTO DE PACIENTES DO
+INRAD - HCFMUSP
+P - ADEQUAÇÃO PREDIAL E ATENDIMENTO ÀS NORMAS VIGENTE DE SEGURANÇA NO
+COMPLEXO - HCFMUSP
+C - CENTRO DE REFERÊNCIA TECNOLÓGICA
+
+S - ADEQUAÇÃO E MODERNIZAÇÃO DO PARQUE TECNOLÓGICO COMO CENTRO DE
+REFERÊNCIA
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DA RADIOTERAPIA - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS CENTRAIS DE MATERIAIS A
+ESTERILIZAÇÃO - HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS ENFERMAGEM - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DAS UNIDADES DE TERAPIA INTENSIVA
+- HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DE DIAGNÓSTICO POR IMAGEM -
+HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DE MEDICINA NUCLEAR - HCFMUSP
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DO SERVIÇO DE APOIO DIAGNÓSTICO
+TERAPÊUTICO - HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS AMBULATÓRIOS - HCFMUSP
+
+
+Página: 34
+
+0,00
+
+4.144.982,66
+
+16.579.930,67
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+525.920,22
+
+2.103.680,87
+
+371.048,01
+
+1.484.192,03
+
+807.163,85
+
+3.228.655,42
+
+505.485,69
+
+2.021.942,76
+
+353.302,23
+
+1.413.208,93
+
+481.824,66
+
+1.927.298,63
+
+286.621,14
+
+1.146.484,57
+
+286.621,14
+
+1.146.484,57
+
+338.782,96
+
+1.355.131,86
+
+188.212,76
+
+752.851,03
+
+907.753,08
+
+3.631.012,37
+
+426.277,14
+
+1.705.108,60
+
+195.866,69
+
+783.466,77
+
+189.456,51
+
+757.826,04
+
+96.152,74
+
+384.610,96
+
+2.439.430,62
+
+9.757.722,51
+
+569.794,01
+
+2.279.176,06
+
+890.303,15
+
+3.561.212,59
+
+89.030,31
+
+356.121,26
+
+890.303,15
+
+3.561.212,60
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+939.435,44
+
+3.757.741,86
+
+14.423.660,99
+
+57.694.643,91
+
+533.987,80
+
+2.135.951,28
+
+8.198.603,96
+
+32.794.415,86
+
+35.394,18
+
+141.576,72
+
+543.425,99
+
+2.173.703,94
+
+8.398,26
+
+33.593,05
+
+128.943,09
+
+515.772,35
+
+8.209,81
+
+32.839,26
+
+126.049,71
+
+504.198,86
+
+68.344,28
+
+273.377,10
+
+1.049.326,63
+
+4.197.306,52
+
+63.315,44
+
+253.261,74
+
+972.116,14
+
+3.888.464,57
+
+60.473,78
+
+241.895,13
+
+928.486,70
+
+3.713.946,79
+
+3.736,28
+
+14.945,14
+
+57.365,20
+
+229.460,82
+
+3.306,81
+
+13.227,24
+
+50.771,25
+
+203.084,99
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS CENTRO CIRÚRGICO - HCFMUSP
+
+126.993,96
+
+507.975,84
+
+1.949.806,95
+
+7.799.227,82
+
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS CENTROS DE ENDOSCOPIA -
+HCFMUSP
+P - MODERNIZAÇÃO DO PARQUE TECNOLÓGICO DOS LABORATÓRIOS - HCFMUSP
+
+P - MODERNIZAÇÃO DA SALA DE EQUIPAMENTOS DE RADIOTERAPIA - HCFMUSP
+
+44.973,65
+
+179.894,58
+
+690.504,71
+
+2.762.018,82
+
+17.329,52
+
+1.361,31
+
+69.318,13
+
+266.069,72
+
+1.064.278,88
+
+5.445,25
+
+20.901,00
+
+83.604,00
+
+P - ADEQUAÇÃO E MODERNIZAÇÃO DA CABINE PRIMÁRIA DO INCOR - HCFMUSP
+
+92.150,52
+
+368.602,10
+
+1.414.836,87
+
+5.659.347,50
+
+S - MODERNIZAÇÃO DA TECNOLOGIA DA INFORMAÇÃO COMO CENTRO DE REFERÊNCIA
+
+405.447,64
+
+1.621.790,58
+
+6.225.057,03
+
+24.900.228,05
+
+P - MODERNIZAÇÃO DE DATACENTER E ESPAÇOS DE TECNOLOGIA DA INFORMAÇÃO -
+HCFMUSP
+P - AMPLIAÇÃO DE COBERTURA REDE SEM FIO / MOBILIDADE - HCFMUSP
+
+P - ATUALIZAÇÃO DE COMPUTADORES DO COMPLEXO - HCFMUSP
+
+P - ATUALIZAÇÃO E EXPANSÃO DE FIREWALL PARA DATACENTER E UNIDADES -
+HCFMUSP
+P - ATUALIZAÇÃO TECNOLÓGICA E EXPANSÃO DE RECURSOS DE PORTAIS DE ACESSO
+E MINERAÇÃO DE DADOS PARA PESQUISA - HCFMUSP
+P - DESENVOLVIMENTO DE UM MODELO DE INFORMATIZAÇÃO BASEADO EM
+PRONTUÁRIO ÚNICO - SES
+P - INCORPORAÇÃO DE PLATAFORMA DE REGISTRO ELETRÔNICO DE SAÚDE (RES) -
+SES
+P - GUIA DE GEOLOCALIZAÇÃO DO PACIENTE - HCFMUSP
+
+C - GOVERNANÇA E SUSTENTABILIDADE
+
+S - BEM ESTAR AO COLABORADOR
+
+P - ESPAÇO DE DESCOMPRESSÃO COLABORADORES - HCFMUSP
+
+P - MODERNIZAÇÃO DO CENTRO DE  CAPACITAÇÃO DO NÚCLEO DE GESTÃO DE
+PESSOAS - HCFMUSP
+S - SUSTENTABILIDADE AMBIENTAL
+
+P - ENERGIA LIMPA - HCFMUSP
+
+P - GESTÃO DE RESÍDUOS - HCFMUSP
+
+C - GESTÃO DE PROJETOS
+
+S - GESTÃO DE PROJETOS
+
+P - GESTÃO DE PROJETOS
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+18.015,74
+
+72.062,97
+
+276.605,45
+
+1.106.421,80
+
+14.637,79
+
+50.669,28
+
+11.259,84
+
+58.551,16
+
+224.741,93
+
+898.967,71
+
+202.677,11
+
+777.952,83
+
+3.111.811,30
+
+45.039,36
+
+172.878,41
+
+691.513,62
+
+11.259,84
+
+45.039,36
+
+172.878,41
+
+691.513,62
+
+260.526,22
+
+1.042.104,89
+
+4.000.000,00
+
+16.000.000,00
+
+26.052,62
+
+104.210,49
+
+400.000,00
+
+1.600.000,00
+
+13.026,31
+
+52.105,24
+
+200.000,00
+
+800.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+5.034.400,00
+
+20.137.600,00
+
+234.400,00
+
+937.600,00
+
+54.400,00
+
+217.600,00
+
+180.000,00
+
+720.000,00
+
+4.800.000,00
+
+19.200.000,00
+
+4.200.000,00
+
+16.800.000,00
+
+600.000,00
+
+2.400.000,00
+
+96.000,00
+
+96.000,00
+
+96.000,00
+
+384.000,00
+
+1.200.000,00
+
+4.800.000,00
+
+384.000,00
+
+1.200.000,00
+
+4.800.000,00
+
+384.000,00
+
+1.200.000,00
+
+4.800.000,00
+
+160.000.000,00
+
+1.334.994,76
+
+5.339.979,12
+
+32.000.000,00
+
+128.000.000,00
+
+
+Página: 35
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+Nesse projeto setorial de abordagem assistencial, com base em políticas públicas consolidadas da saúde (SUS), não estão previstos ônus
+resultantes das intervenções previstas que possam afetar negativamente as instituições e órgãos participantes, nem a saúde, a
+segurança e o bem-estar da população alvo. Os atos que estejam diretamente ou indiretamente associados às ações do Projeto
+obedecerão aos ritos legais e administrativos previstos no planejamento estratégico do Governo e compatibilizados com as diretrizes das
+políticas e programas públicos de saúde apoiados.
+
+A ANPD (Autoridade Nacional de Proteção de Dados), CFM (Conselho Federal de Medicina) e demais órgãos reguladores e conselhos,
+exigem que os prestadores de cuidados de saúde estabeleçam guardas administrativas, físicas e técnicas para proteger a integridade,
+confidencialidade e disponibilidade das informações de saúde do paciente. O descumprimento de tais regulamentos pode levar a
+penalidades civis e penais. A extensão e a aplicação dessas multas foram fortalecidas pela Lei Geral de Proteção de Dados (LGPD).
+
+Legislações e normativas rigorosas promovem o uso de registros eletrônicos de saúde e as empresas de prestação de cuidados em saúde
+enfrentam ameaças crescentes relacionadas à segurança cibernética, o uso de registros eletrônicos de saúde com segurança de dados
+permite uma atuação em consonância com as previsões legais, gere riscos de implicações pecuniárias de multas consideráveis, bem
+como mantém a reputação institucional de quem cuida com zelo e probidade do paciente e seus dados sensíveis para manter sua
+integridade e dignidade.
+
+A RDC 50/2002 estabelece as diretrizes para o funcionamento de serviços de saúde e visa garantir a qualidade e segurança no
+atendimento. Diversos aspectos da RDC 50/2002 respaldam a necessidade de readequação do complexo hospitalar em relação à
+infraestrutura e condições físicas: A norma define critérios para a infraestrutura hospitalar, incluindo áreas de atendimento, circulação e
+armazenamento. Com quase 80 anos de existência, o complexo demanda adequações e melhoria contínua com foco em condições físicas
+ideais para a prestação de cuidados eficazes.
+
+Contudo, as atividades de assistência técnica do Projeto seguirão as diretrizes de aquisição e seleção de consultoria do Banco Mundial.
+As demais intervenções seguirão as diretrizes da Lei Federal 14.133/2021 e atualizações, em concordância com o Banco Mundial.  Atos
+legais complementares serão publicados oportunamente abrangendo a Lei Autorizativa do Projeto, Decreto de criação da Unidade de
+Gerenciamento do Projeto e previsão do Projeto nos instrumentos governamentais de planejamento (PPA, LDO e LOA).
+
+Riscos - Mudança na legislação
+
+Resposta ao risco - Readequar o programa em uma nova conformidade
+
+Riscos - Descumprimento de regulamentações
+
+Resposta ao risco - Elaborar um plano de comunicação em relação às normativas e processo de revisão legal para readequar a
+conformidade
+
+Riscos - Falha na privacidade e proteção de dados
+
+Resposta ao risco - Implementar medidas de segurança de sistemas adequadas; Obter consentimento de utilização de dados quando
+necessário
+
+5.2. RISCOS/CONTRATAÇÕES
+
+O Projeto prevê uma grande quantidade de contratações durante a sua implementação abrangendo a aquisição de materiais, projetos
+executivos, contratação de serviços, obras, consultorias e recursos humanos temporários durante a execução dos projetos. Serão
+atendidos todos os requisitos legais vigentes, incluindo o cumprimento do Plano Plurianual (PPA), Lei de Diretrizes Orçamentárias (LDO),
+Lei Orçamentária Anual (LOA), Lei de Responsabilidade Fiscal (LRF), bem como as diretrizes e legislações que regulamentam o sistema
+público de saúde. Será necessária uma Lei Autorizativa do Estado para o programa e um Decreto Regulamentador, cujas tramitações
+serão iniciadas assim que a carta consulta for aprovada.
+
+Além disso, serão formalizados instrumentos específicos para as intervenções a serem desenvolvidas no âmbito do Projeto, como a
+celebração de contratos administrativos, termos de outorgas, convênios ou instrumentos congêneres, de acordo com a legislação vigente,
+que determinará as particularidades e requisitos a serem atendidos em cada ocasião.
+
+As atividades de assistência técnica do Projeto seguirão as diretrizes de aquisição e seleção de consultoria do Banco Mundial. As demais
+intervenções seguirão as diretrizes da Lei Federal 14.133/2021 e atualizações, em concordância com o Banco Mundial.  Atos legais
+complementares serão publicados oportunamente abrangendo a Lei Autorizativa do Projeto, Decreto de criação da Unidade de
+Gerenciamento do Projeto e previsão do Projeto nos instrumentos governamentais de planejamento (PPA, LDO e LOA)
+
+Riscos - Violação de confidencialidade
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 36
+
+Resposta ao risco - Estabelecer termos de contratação associados a confidencialidade com penalidades jurídicas
+
+Riscos - Não conformidade com a RDC 50
+
+Resposta ao risco - Adequar o projeto à lei que regulamenta funcionamento de serviços de saúde
+
+Riscos - Não conformidade com a lei que regulamenta compras públicas
+
+Resposta ao risco - Elaborar um plano de comunicação em relação à lei para readequar a conformidade
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Tendo por base as intervenções propostas no escopo do Projeto, não estão previstas desapropriações de nenhuma modalidade. As áreas
+de atuação ou beneficiárias do Projeto são de propriedade do HCFMUSP e do Estado de São Paulo, com situação fundiária regularizada
+não requerendo, portanto, desapropriações.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+Pela natureza das ações previstas no escopo do Projeto não há previsão de prejuízos ambientais provocados diretamente pela execução
+de suas intervenções. Considerando a necessidade de execução de reformas e/ou ampliações de espaços físicos no decorrer do Projeto,
+identificam-se riscos baixos no processo de execução das obras, bem como no descarte do material delas decorrentes. Entretanto, será
+discutida e acordada com o Banco Mundial a matriz de acompanhamento, antecipação e mitigação de tais riscos durante a preparação do
+Projeto.
+
+Ademais, o HCFMUSP e o Estado de São Paulo se comprometem em seguir as determinações da legislação ambiental definidas tanto na
+esfera nacional como estadual e, ainda, respeitar as recomendações do Quadro Ambiental e Social do Banco Mundial. Em momento
+oportuno, antes de declarada a efetividade do Projeto, por determinação do já citado Quadro Ambiental e Social do agente financiador do
+Projeto, será elaborado o documento específico de Salvaguardas Ambientais onde estarão esclarecidas as etapas de execução das
+intervenções e os compromissos do Estado para evitar, minimizar e mitigar possíveis impactos ambientais negativos.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+A observação do escopo do projeto evidencia que nenhuma intervenção impactará negativamente sob quaisquer aspectos sociais
+fragilizados, como as populações indígenas, os quilombolas ou comunidades tradicionais. Porém, esses grupos populacionais, assim
+como outras categorias sociais como idosos e mulheres, comporão o rol de beneficiários diretos e indiretos das ações do Projeto. Mesmo
+diante dessa perspectiva, em momento oportuno, antes de declarada a efetividade do Projeto, em conformidade com o Quadro Ambiental
+e Social do Banco Mundial, será elaborado o documento de avaliação social do Projeto, no qual serão descritos os detalhes de
+implementação das intervenções e como cada uma delas impactará as categorias ou grupos sociais identificados. Se for identificado risco
+de impacto social negativo será apontado no documento os compromissos do Estado para a prevenção, mitigação ou compensação em
+cada uma das situações identificadas.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Tendo por base as intervenções propostas no escopo do Projeto, não estão previstos reassentamentos
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)
+(cid:10)
+(cid:10)

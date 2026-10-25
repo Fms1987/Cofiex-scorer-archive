@@ -1,0 +1,3271 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Projeto do Estado de São Paulo - Expansão da Linha 2-Verde, Aquisição de Material
+Rodante e Sistemas
+
+Nº Carta Consulta: 60965
+Processo: 03101.100335/2023-81
+Mutuário: Estado de São Paulo
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  17 de Fevereiro de 2023
+Fontes Internas:
+Contrapartida Financeira: US$ 107.500.000,00
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 430.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 03
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+04
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 05
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 05
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 05
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 05
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 07
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 17
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 19
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 19
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 21
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 23
+3. FINANCIAMENTO .......................................................................................................................................................................................... 23
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 23
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 23
+4. EXECUÇÃO ...................................................................................................................................................................................................
+23
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 23
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 25
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 25
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 25
+5. RISCOS .......................................................................................................................................................................................................... 30
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 30
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 31
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 32
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 32
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 32
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 33
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+33
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+A rede de transporte sobre trilhos tem um papel estratégico na estruturação da mobilidade urbana da Região Metropolitana de São Paulo (
+RMSP), composta pela capital e 38 municípios, que conta com uma população de aproximadamente 21 milhões de habitantes, cabendo
+ao Governo do Estado de São Paulo promover a expansão da rede e definir diretrizes para o planejamento, implantação e organização de
+um sistema de transporte sustentável de alta capacidade como o do Metrô, capaz de articular todos os modos de transportes existentes na
+ região.
+
+PROBLEMA ATUAL
+
+Na RMSP, a dinâmica dos deslocamentos é caracterizada por um movimento pendular, ou seja, ocorre o deslocamento cotidiano de
+pessoas que partem de bairros dormitórios nos horários de pico da manhã e realizam o percurso inverso no pico da tarde, provocando
+nesses períodos superlotação dos sistemas de transportes, maior tempo despendido nos trajetos e congestionamentos de ruas e avenidas
+. Considerando que os veículos são importante fonte de emissão de poluentes atmosféricos e de gases do efeito estufa, longos percursos
+sujeitos a congestionamentos geram impactos negativos ao meio ambiente e à saúde da população, tornando oportunos os investimentos
+em alternativas de transportes mais sustentáveis como o transporte sobre trilhos.
+
+Além de promover ganhos à qualidade de vida e ao meio ambiente, a infraestrutura de transporte amplia o acesso a oportunidades de
+trabalho, estudo, saúde, bem como e outros serviços públicos e privados. Quando esta infraestrutura é deficiente ou distribuída de forma
+desequilibrada, parcelas mais vulneráveis da população enfrentam maiores dificuldades em acessar tais oportunidades contribuindo para
+o agravamento das desigualdades sociais.
+
+O eixo leste da RMSP, onde se localiza a expansão da Linha 2-Verde, é atendido atualmente por um sistema de transporte
+metroferroviário composto pelas linhas 3-Vermelha e 15-Prata do Metrô, pelas linhas 11-Coral e 12-Safira da Companhia Paulista de
+Trens Metropolitanos - CPTM, todas com traçado radial, conectando regiões periféricas e socialmente vulneráveis ao centro da cidade de
+São Paulo. O sistema de ônibus que atende aos bairros do eixo leste da RMSP, inclusive as linhas que possuem integração nos terminais
+das estações da Linha 3-Vermelha, também possuem diretriz radial de operação.
+
+Antes da pandemia da COVID19, o sistema de ônibus voltado ao atendimento do eixo leste da RMSP transportava diariamente cerca de 1,
+2 milhão de passageiros, enquanto a Linha 3-Vermelha apresentava uma demanda diária de aproximadamente 1,3 milhão e a Linha 11-
+Coral atendia cerca de 900 mil passageiros por dia, totalizando 3,4 milhões de passageiros transportados diariamente. Tais números
+indicam a importância e pertinência da ampliação da oferta de infraestrutura de transporte público nessa região, pautada em alternativas
+sustentáveis do ponto de vista ambiental e social.
+
+A Linha 2-Verde opera, desde 2010, no trecho entre as estações Vila Madalena e Vila Prudente, com 14,7 quilômetros de extensão, 14
+estações e uma frota de 32 trens, atendendo a um carregamento de 36 mil passageiros/hora/sentido (dados de novembro/2019). Com a
+sua expansão até Penha, será necessária uma frota de 54 trens, incluindo trens reserva, para atender a um carregamento de
+aproximadamente 55.000 passageiros/hora/sentido. Portanto, a aquisição de 22 novos trens consiste em um pré-requisito para operação
+comercial de toda a Linha 2 que passará a contar com 22 estações e 23,1 quilômetros.
+
+Considerando que o trecho atual da Linha 2-Verde conta com um sistema de sinalização do tipo "Communication Based Train Control" (
+CBTC), é indispensável que a sua expansão também continue com o mesmo padrão tecnológico, de desempenho, de segurança e de
+interoperabilidade com o trecho atual. 
+
+Ressalta-se que a aquisição dos 22 trens e a contratação e implantação do sistema CBTC no trecho da expansão até Penha devem seguir
+rigorosamente o cronograma de execução do empreendimento para não comprometer a operação comercial programada para o segundo
+semestre de 2027, e retirada de pendências em 2028. A mesma necessidade de compatibilização temporal se verifica em relação à
+aquisição e à implantação dos sistemas de alimentação elétrica, auxiliares e de telecomunicações, cujas implantações em campo devem
+ser iniciadas antes da finalização das obras civis atualmente em evolução.
+
+Assim, a aquisição e disponibilização em tempo hábil dos 22 novos trens, do sistema CBTC e demais sistemas constituem um caminho
+crítico para expansão e operação comercial da Linha 2-Verde, tornando imprescindível que as contratações e implantações ocorram de
+forma sincronizada com o avanço da obra civil. No anexo 1 é apresentado o cronograma geral do projeto.
+
+ÍNDICE DE DESENVOLVIMENTO HUMANO (IDH)
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 3
+De acordo como o Programa das Nações Unidas para o Desenvolvimento (PNUD), o IDH do Município de São Paulo em 2010
+correspondia a 0,805, enquanto o do Estado de São Paulo em 2021 correspondia a 0,80.
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+SOLUÇÃO PROPOSTA
+
+Em conformidade com o diagnóstico apresentado e a atual configuração radial do sistema de transporte público, a expansão da Linha 2-
+Verde consiste em uma resposta à grande demanda por mobilidade no eixo leste da RMSP. A sua implantação, em virtude do seu traçado
+perimetral, promoverá o equilíbrio da distribuição dos passageiros entre as linhas metroferroviárias existentes, reduzirá o tempo
+despendido nos trajetos, a dependência da população por outros modos de transporte movidos a combustíveis fósseis (ônibus,
+automóveis e motocicletas) e ampliará o atendimento a passageiros de regiões carentes de mobilidade. No anexo 2 é apresentado o
+esquema da Linha 2-Verde, seu traçado e o Mapa da Rede Metropolitana em Operação e Implantação. 
+
+Considerando que a escolha entre os diversos modos por parte dos passageiros é influenciada pelo seu custo e o tempo de deslocamento
+, iniciativas que assegurem rapidez e ganhos de qualidade ao sistema metroferroviário tendem a aumentar sua atratividade em relação
+aos modos individuais de transporte, frequentemente menos sustentáveis do ponto de vista ambiental.  
+
+Como alternativa à atual configuração radial do sistema de transporte público no eixo leste da RMSP e visando elevar a oferta de
+infraestrutura de transporte para a região, o Metrô de São Paulo, a partir dos estudos de demandas e suas simulações, desenvolveu o
+projeto de expansão da Linha 2-Verde, entre a estações Vila Prudente e Dutra (município de Guarulhos). Para tanto, dividiu sua
+implantação em duas fases, sendo que a primeira, em plena execução e associada ao pleito desta Carta-Consulta, se estende da atual
+Estação Vila Prudente até a futura Estação Penha, o que corresponde a um prolongamento de 8,4 quilômetros, com 8 novas estações,
+tornando indispensável a incorporação de 22 novos trens à frota atual de 32 trens, bem como a aquisição dos sistemas para as novas
+estações e via. Em relação à segunda fase da expansão da Linha 2-Verde, estão sendo desenvolvidos os estudos, projetos e
+contratações necessárias. 
+ 
+Os 22 novos trens que necessitarão ser incorporados à frota atual para a operação da Linha 2-Verde deverão operar com nível máximo de
+automação (GoA4 "Unattended Train Operation"), proporcionando os melhores níveis de conforto e segurança aos passageiros. Por
+possuir especificações técnicas que preveem equipamentos mais eficientes de tração, ar-condicionado com controle digital de temperatura
+, iluminação completamente em LED e controle pelo sistema de sinalização CBTC, os novos trens proporcionarão economia no consumo
+de energia elétrica quando comparados aos atuais trens em operação.
+
+Além da disponibilidade de trens, o avanço físico do empreendimento requer a compatibilização do cronograma de execução das obras
+com o de implantação dos sistemas de sinalização CBTC, de alimentação elétrica, auxiliares e de telecomunicações, a fim de permitir que
+a Linha 2-Verde seja operada de forma uniforme proporcionando ao passageiro um nível de serviço, de confiabilidade, de desempenho e
+de segurança superiores aos praticados atualmente.
+
+Por ser um sistema que utiliza comunicação por rádio para realizar a conexão entre trem e equipamentos fixos instalados nas estações e
+vias, o sistema de sinalização CBTC possibilita um melhor desempenho no controle da movimentação de trens.  Isto ocorre porque há o
+controle em tempo real da posição de cada trem na via e, desta forma, é possível realizar um controle mais eficiente das curvas de
+aceleração e frenagem de cada trem. Essa característica do sistema CBTC possibilita, além da economia de energia na movimentação
+dos trens, um intervalo menor entre trens ("headway"), o que permitirá operar a Linha 2-Verde com intervalos entre trens inferiores a 100
+segundos. Além disso, o sistema de sinalização CBTC garantirá uma operação mais automatizada, mais eficiente e com menores custos
+operacionais, resultando na oferta de um melhor serviço de transporte público à população.
+
+Em face da evolução das obras civis, o Metrô de São Paulo também está realizando os trâmites necessários à contratação do sistema de
+alimentação elétrica, sistemas auxiliares e sistema de telecomunicações, cujas implantações são indispensáveis à operação comercial da
+Linha 2- Verde.
+
+RESULTADOS ESPERADOS
+
+Quando concluído, o prolongamento da Linha 2-Verde até Penha promoverá o reequilíbrio do sistema de transporte que atende o eixo
+leste da RMSP, diminuindo significativamente a dependência por meios de transporte sobre pneus e, consequentemente, os
+congestionamentos nas vias, a quantidade de acidentes, o consumo de combustíveis fósseis e as emissões de poluentes e de gases do
+efeito estufa. Além disso, a Linha 2-Verde com seu traçado não radial, após o seu prolongamento, ligará bairros do eixo leste da RMSP
+diretamente a pontos de interesse, reduzindo a convergência de viagens em direção ao centro da cidade de São Paulo.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 4
+A expansão da Linha 2-Verde permitirá distribuir de forma mais homogênea a demanda de passageiros que buscam as regiões da
+Avenida Paulista, do ABC (sudoeste da RMSP), de Santo Amaro (zona sul de São Paulo) e de outros subcentros da RMSP, evitando que
+os passageiros cruzem o centro da cidade para alcançar os seus destinos, reduzindo assim a sobrecarga dos modos de transporte
+disponíveis.
+
+Ao possibilitar uma melhor distribuição do fluxo de passageiros pelo sistema de transporte metroferroviário, a extensão da Linha 2-Verde
+possibilitará a redução do tempo de viagem para os passageiros que partem da porção leste da RMSP em direção a outros polos de
+interesse, da sobrecarga dos meios de transporte e a oferta de um transporte com maior eficiência energética. Quando em operação, a
+demanda prevista da Linha 2 - Verde deverá ser de cerca de 1,2 milhão de passageiros por dia útil (cenário 2028).
+
+SUSTENTABILIDADE
+
+Estimou-se um valor anual de R$ 37,4 milhões (base 2019) para os custos de operação e manutenção decorrentes de gastos com pessoal
+, energia elétrica, materiais e gastos gerais (limpeza, vigilância, jardinagem e outros serviços terceirizados), com a expectativa de serem
+cobertos com o incremento da demanda.
+
+A avaliação econômica do projeto, para o trecho Vila Prudente - Penha da Linha 2-Verde, considerou os benefícios sociais gerados pela
+sua implantação frente aos custos de investimento (obras civis, sistemas, material rodante e desapropriações), bem como os custos
+operacionais, para um horizonte de 30 anos, condizente com o vulto de uma obra de infraestrutura de transporte público para a RMSP.
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+ORIENTAÇÕES ESTRATÉGICAS
+
+As ações orçamentárias para a expansão da Linha 2-Verde entre Vila Prudente e Penha e a aquisição de novos trens e sistemas estão
+inseridas no Programa 3708 do Plano Plurianual para 2020-2023 (vide anexo 3), aprovado na Assembleia Legislativa, por meio do Lei nº
+17.262, de 9 de abril de 2020, publicada em 10 de abril de 2020. O Programa 3708 denomina-se Expansão, Modernização e Operação do
+Transporte Metroviário - PITU em Marcha.
+
+Os programas de expansão dos transportes metropolitanos, inclusive o da Linha 2-Verde, baseiam-se em um processo permanente de
+planejamento estratégico realizado pela Secretaria dos Transportes Metropolitanos (STM) por meio dos Planos Integrados de Transporte
+Urbano (PITU). Um dos objetivos desse planejamento é desenvolver programas de implantação e expansão de sistemas que atendam às
+necessidades da população quanto a sua mobilidade, desenvolvimento socioeconômico, sustentabilidade ambiental e qualidade de vida,
+sendo uma ferramenta importante no planejamento setorial dos transportes.
+
+CONTRAPARTIDA
+
+O valor a ser utilizado na forma de contrapartida local para o período de execução do projeto supera 20,0% do total da operação, o que
+atende ao disposto no inciso II do art. 1 da Resolução nº 3, de 29 de maio de 2019, da Comissão de Financiamentos Externos (COFIEX),
+que estabelece a contrapartida mínima de 20% do valor orçado do programa objeto de financiamento, com origem em recursos tributários
+do ente tomador do financiamento.
+
+Os recursos de contrapartida estão classificados na funcional programática nº 26.453.0001.1695.2288, para a Linha 2-Verde, trecho Vila
+Prudente - Penha, prevista na Lei Orçamentária Anual do exercício de 2023 (Lei Estadual nº 17.614 de 26 de dezembro de 2022).
+
+TAXA DE CÂMBIO ADOTADA
+
+Os valores orçados e utilizados nesta carta-consulta foram convertidos adotando-se a taxa de US$ 1,00 = R$ 5,30 de acordo com a Lei de
+Diretrizes Orçamentárias (LDO) 2023 (Lei Estadual 17.555 de 20/07/2022).
+2. Projeto
+2.1. Título
+Projeto do Estado de São Paulo - Expansão da Linha 2-Verde, Aquisição de Material Rodante e Sistemas
+
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 5
+2.2. Título Abreviado
+Projeto Linha 2-Verde: Material Rodante e Sistemas
+2.3. Mutuário
+Estado de São Paulo
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+OBJETIVO GERAL
+ 
+Viabilizar a operação da Linha 2-Verde em toda a sua extensão por meio da contratação e implantação dos sistemas de sinalização CBTC
+, de alimentação elétrica, auxiliares, de telecomunicações, bem como a aquisição de 22 novos trens, seus gerenciamentos e estudos
+técnicos.
+
+OBJETIVO ESPECÍFICO
+
+Ao término da fase de execução da infraestrutura de obras civis das estações, túneis e vias, a operação comercial da Linha 2-Verde está
+condicionada à aquisição e à implantação dos sistemas de sinalização CBTC, de alimentação elétrica, auxiliares, de telecomunicações e a
+incorporação de 22 novos trens que somados à frota atual atenderão a nova configuração da Linha 2-Verde até a estação Penha. A fim
+de minimizar os riscos de eventuais desvios de cronograma e custos, estão previstas também a contratação de consultorias técnicas para
+o gerenciamento da implantação dos sistemas, do fornecimento dos 22 novos trens e para avaliação independente de segurança. Desta
+forma, são objetivos específicos do projeto:
+
+(a) Aquisição e comissionamento de material rodante (22 novos trens) necessários à operação comercial de toda a Linha 2-Verde, ou seja,
+ entre Vila Madalena e Penha;
+
+(b) Contratação de serviços técnicos especializados e assessoria à gestão técnica e administrativa na aquisição de material rodante;
+
+(c) Contratação e implantação do sistema de sinalização CBTC a fim de assegurar os mesmos padrões de funcionamento do trecho
+atualmente em operação da Linha 2-Verde entre Vila Madalena e Vila Prudente;
+
+(d) Contratação de serviços técnicos especializados e assessoria à gestão técnica e administrativa na aquisição do sistema de sinalização
+CBTC;
+
+(e) Contratação e implantação do sistema de alimentação elétrica, sistemas auxiliares e sistemas de comunicações;
+
+(f) Contratação de serviços técnicos especializados de engenharia, acompanhamento técnico e suporte para a elaboração e implantação
+de sistemas de alimentação elétrica, auxiliares e de telecomunicações;
+
+(g) Contratação de serviços especializados de engenharia para a realização da Avaliação Independente de Segurança (ISA) do sistema
+global da Linha 2-Verde.
+
+2.6. Projeto/Indicadores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 6
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Número de passageiros transportados
+Modelagem de
+demanda
+Passageiros/dia útil
+864.661,00
+1.184.025,00
+Redução das emissões atmosféricas
+Somatório RedeCom(
+VeicKMj x FEi) -
+Somatório RedeSem(
+VeicKMj x FEi) onde:
+VeicKM =
+quilometragem
+percorrida pelos
+modos (em km); FE =
+fator de emissão do
+poluente ou GEE; j =
+tipo de combustível; i
+= poluente ou GEE;
+RedeCom = Rede
+metroviária com o
+trecho em expansão
+já em operação;
+RedeSem = Rede
+metroviária sem o
+trecho em operação
+Toneladas/ano
+1.376.316,00
+34.557,00
+Redução do consumo de Combustíveis (diesel,
+etanol e gasolina)
+Somatório RedeCom(
+VeicKMj x AVj) -
+Somatório RedeSem(
+VeicKMj x AVj) onde:
+VeicKM =
+quilometragem
+percorrida pelos
+modos (em km); AV =
+índice de autonomia
+veicular; j = tipo de
+combustível;
+RedeCom = Rede
+metroviária com o
+trecho em expansão
+já em operação;
+RedeSem = Rede
+metroviária sem o
+trecho em operação
+Litros/ano
+626.025.521,00
+15.643.966,00
+Redução dos tempos de viagem
+Somatório RedeCom(
+Horasi) - Somatório
+RedeSem(Horasi)
+onde: Horas = total de
+horas dos
+passageiros; i = modo
+(ônibus, automóvel,
+motocicleta);
+RedeCom = Rede
+metroviária com o
+trecho em expansão
+já em operação;
+RedeSem = Rede
+metroviária sem o
+trecho em operação
+Horas/ano
+1.023.825.592,00
+53.645.939,00
+Intervalo entre trens "Headway" da Linha 2-
+Verde
+Diferença do intervalo
+de tempo entre trens
+Segundos
+128,00
+100,00
+Redução da quantidade de linhas de ônibus 
+Aferição local
+Quantidade
+110,00
+77,00
+Redução do tempo médio de viagem
+Corresponde ao
+tempo médio de
+viagem entre Penha e
+Vila Prudente
+Minutos
+45,00
+20,00
+Índice de ocupação máximo na Linha 3-
+Vermelha
+Passageiro (em pé)/
+m²
+Passageiro/m²
+11,30
+7,00
+Redução de transferências nas Estações Sé,
+Brás e Luz
+Aferição nas estações Passag. Média
+Diária Útil
+770.000,00
+650.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 7
+Redução de acidentes de trânsito
+Dados de acidentes
+de trânsito
+disponibilizados no
+Relatório Anual de
+Acidentes de Trânsito
+da CET
+Redução
+ocorrências/ano
+0,00
+283,00
+2.7. Projeto/Componentes
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 8
+Componentes
+Valor(US$)
+C - MATERIAL RODANTE
+233.645.741,00
+   S - FORNECIMENTO DE 22 NOVOS TRENS
+230.848.235,00
+      P - TREM MONTADO
+177.427.642,00
+      P - DOCUMENTAÇÃO E PROJETO
+26.623.726,00
+      P - SISTEMA DE MONITORAMENTO E MEDIÇÃO DE VIA
+10.621.326,00
+      P - SOBRESSALENTES
+9.289.334,00
+      P - TRANSPORTE PARA AS DEPENDÊNCIAS DO METRÔ
+2.980.251,00
+      P - SIMULADOR DE TREINAMENTO OPERACIONAL
+2.797.879,00
+      P - TREINAMENTO
+422.454,00
+      P - MÓDULO DE CABINE UTO
+662.534,00
+      P - TERMINAL PORTÁTIL DE MANUTENÇÃO (NOTEBOOKS)
+11.543,00
+      P - CHAVE PADRÃO INOX
+11.546,00
+   S - GERENCIAMENTO DO CONTRATO DE FORNECIMENTO DOS 22 TRENS
+2.797.506,00
+      P - GERENCIAMENTO DO CONTRATO DE FORNECIMENTO DOS 22 TRENS
+2.797.506,00
+C - SISTEMAS
+301.354.259,00
+   S - SISTEMA CBTC
+30.731.467,00
+      P - PROJETO E DOCUMENTAÇÃO TÉCNICA
+6.146.293,00
+      P - FORNECIMENTO DE MATERIAIS E EQUIPAMENTOS
+9.219.442,00
+      P - SOFTWARE
+6.760.922,00
+      P - TESTES DE FÁBRICA, MONTAGEM, INSTALAÇÃO, TESTES E COMISSIONAMENTO
+3.073.145,00
+      P - TREINAMENTO
+5.531.665,00
+   S - GERENCIAMENTO DO CBTC
+4.221.418,00
+      P - GERENCIAMENTO DO FORNECIMENTO DO SISTEMA DE SINALIZAÇÃO CBTC
+4.221.418,00
+   S - ANÁLISE INDEPENDENTE DE SEGURANÇA (ISA)
+1.127.968,00
+      P - ANÁLISE INDEPENDENTE DE SEGURANÇA (ISA) DO SISTEMA GLOBAL DA LINHA 2
+1.127.968,00
+   S - SISTEMA DE ALIMENTAÇÃO ELÉTRICA
+86.045.588,00
+      P - SISTEMA DE MÉDIA TENSÃO
+13.171.177,00
+      P - SISTEMA DE TRAÇÃO
+27.558.729,00
+      P - SISTEMA DE BAIXA TENSÃO
+27.081.838,00
+      P - ADEQUAÇÃO DE TRAÇÃO E TERCEIRO TRILHO
+6.060.673,00
+      P - TERCEIRO TRILHO
+11.822.392,00
+      P - CABINE PRIMÁRIA DE MÉDIA TENSÃO
+102.237,00
+      P - REDE AÉREA
+248.542,00
+   S - SISTEMAS AUXILIARES
+123.387.576,00
+      P - ESCADAS ROLANTES
+32.574.592,00
+      P - ELEVADORES
+3.454.889,00
+      P - PORTAS DE PLATAFORMA
+29.314.105,00
+      P - SISTEMA DE DETECÇÃO, ALARME DE INCÊNDIO E ROTA DE FUGA
+5.327.216,00
+      P - SISTEMA DE TRATAMENTO DE ÁGUA DE CHUVA
+12.986,00
+      P - SISTEMA DE BOMBAS
+816.580,00
+      P - BANDEJAMENTO, SISTEMA DE ILUMINAÇÃO E TOMADAS
+19.735.293,00
+      P - UNIDADES TRANSMISSÃO REMOTAS
+4.474.148,00
+      P - SISTEMA DE CONTROLE LOCAL
+196.206,00
+      P - SISTEMA DE AR-CONDICIONADO
+724.128,00
+      P - SISTEMA DE VENTILAÇÃO PRINCIPAL
+23.797.638,00
+      P - SISTEMA DE AQUECIMENTO SOLAR
+284.790,00
+      P - SISTEMA DE VENTILAÇÃO DAS SALAS TÉCNICAS
+2.675.005,00
+   S - SISTEMA DE TELECOMUNICAÇÕES
+40.216.479,00
+      P - SISTEMA DE CONTROLE DE ACESSO
+2.158.222,00
+      P - SISTEMA DE CONTROLE DE ARRECADAÇÃO DE PASSAGEIROS (SCAP)
+2.290.318,00
+      P - SISTEMA DE MONITORAMENTO ELETRÔNICO
+4.610.524,00
+      P - SISTEMA MULTIMÍDIA
+6.369.567,00
+      P - SISTEMA DE COMUNICAÇÕES FIXAS
+1.939.948,00
+      P - REDE DE TRANSMISSÃO DE DADOS
+12.416.726,00
+      P - REDE DE FIBRAS ÓPTICAS
+3.053.160,00
+      P - SISTEMA DE COMUNICAÇÕES MÓVEIS
+142.390,00
+      P - GESTÃO DOS CANTEIROS
+7.235.624,00
+   S - GERENCIAMENTO E SUPERVISÃO DA IMPLANTAÇÃO DOS SISTEMAS
+15.623.763,00
+P - GERENCIAMENTO E SUPERVISÃO DA IMPLANTAÇÃO DOS SISTEMAS DE ALIMENTAÇÃO ELÉTRICA,
+AUXILIARES E TELECOMUNICAÇÕES
+15.623.763,00
+C - COMPONENTE TÉCNICO E INSTITUCIONAL
+2.500.000,00
+   S - FORTALECIMENTO INSTITUCIONAL E DESENVOLVIMENTO DE PRÁTICAS SUSTENTÁVEIS
+2.500.000,00
+      P - ENGENHARIA SUSTENTÁVEL E RESILIÊNCIA CLIMATICA
+1.200.000,00
+P - ESTUDO PARA A ESTRUTURAÇÃO DE EMPREENDIMENTO DE HABITAÇÃO DE INTERESSE SOCIAL (
+HIS)
+600.000,00
+      P - INTEGRAÇÃO DOS CANAIS DE DENÚNCIA DE ASSÉDIO E ABUSO SEXUAL
+700.000,00
+Total dos Componentes
+537.500.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 9
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - MATERIAL RODANTE
+Este componente contempla os 22 novos trens necessários ao complemento da frota atual de 33 trens que atendem ao trecho
+entre as estações Vila Madalena e Vila Prudente. A extensão da Linha 2-Verde entre as estações Vila Prudente e Penha com 8
+novas estações ao longo de 8,4 km exigirá a incorporação de 22 novos trens para compor a reserva técnica estratégica, bem como
+ viabilizar a operação de todo trecho da linha que passará a contar com 22 estações distribuídas ao longo de 23,1 km.
+   S - FORNECIMENTO DE 22 NOVOS TRENS
+Este subcomponente contempla a entrega, nas dependências do Metrô de São Paulo, de 22 novos trens de passageiros montados
+, em funcionamento e em conformidade com as especificações técnicas, assim como o fornecimento de equipamentos e materiais
+necessários aos trens, softwares, sobressalentes e ferramentas especiais.
+      P - TREM MONTADO
+Este produto corresponde ao fornecimento de 22 novos trens compostos por 6 carros cada e dotados de quatro portas laterais de
+cada lado, estrutura de caixa e acabamento em aço inox, tensão nominal de alimentação elétrica por terceiro trilho equivalente a
+750 Vcc, bitola nominal do rodeiro igual a 1.600 mm, capacidade de transporte de 1.800 passageiros, capacidade máxima de
+carregamento por eixo equivalente a 17 toneladas, passagem entre carros, ar-condicionado, sistema multimídia, sistemas de
+câmeras e de gravação de imagens, sistema para detecção e combate a incêndio, capacidade de operação com nível máximo de
+automação "Unattended Train Operation" (UTO). 
+      P - DOCUMENTAÇÃO E PROJETO
+Este produto corresponde aos documentos de montagens finais para aprovação do projeto dos trens e são úteis à fabricação, à
+manutenção e à operação. Contempla ainda os documentos técnicos de montagens dos trens (desenhos, esquemas funcionais,
+especificações, normas, catálogos, manuais de operação e manutenção), dos equipamentos, dos dispositivos e ferramentas
+especiais. A entrega de cada trem será acompanhada do seu respectivo histórico de fabricação, incluindo planos de inspeção e
+certificados de qualidade. Toda a documentação será fornecida em arquivos digitais e com assinatura digital identificando os
+responsáveis técnicos.
+      P - SISTEMA DE MONITORAMENTO E MEDIÇÃO DE VIA
+Este produto é composto por dois subsistemas embarcados. Um deles é o de inspeção de via e o outro é o de medição de via.
+Ambos efetuam medições, análises e inspeções de itens instalados na via permanente em tempo real e com o trem em movimento
+e sob qualquer condição meteorológica. O subsistema de inspeção de via envolve a captação de imagens de itens instalados na
+via permanente por câmeras de varredura e seu processamento para a detecção e classificação de defeitos e anomalias do perfil
+dos trilhos de rolamento. Por sua vez, o subsistema de medição de via tem a finalidade de fornecer leituras da geometria da via,
+degradação do trilho, vibração mecânica entre roda e trilho e desgastes. Ambos devem operar de forma autônoma e em condições
+de gerar automaticamente relatórios sobre falhas e desvios identificados, contribuindo para a melhoria do desempenho operacional
+ e para a redução dos custos de manutenção.
+      P - SOBRESSALENTES
+Este produto contempla o fornecimento de componentes destinados a reposição e que serão utilizados em situações de falha do
+componente instalado para que o trem esteja sempre disponível para ser utilizado na operação comercial do Metrô.  Os
+sobressalentes serão inspecionados e testados previamente ao seu armazenamento a fim de garantir que suas características
+estão de acordo com os requisitos constantes das Especificações Técnicas. Os itens e quantidades obedecerão à especificação do
+Metrô de São Paulo e contarão com elementos que integram a estrutura dos carros (vagões), truques, sistema de tração, de
+fornecimento de energia, de controle de frenagem eletrônica, de abastecimento de ar comprimido, de controle de portas, de
+detecção de inocência, de comunicação e outros.
+      P - TRANSPORTE PARA AS DEPENDÊNCIAS DO METRÔ
+Este produto envolve o transporte dos carros (vagões), sobressalentes e equipamentos que serão transladados para a montagem
+final e testes montados que devem ocorrer nas dependências do Metrô de São Paulo.
+      P - SIMULADOR DE TREINAMENTO OPERACIONAL
+Este produto corresponde a um sistema de simulação destinado à formação, à reciclagem e ao aperfeiçoamento de operadores de
+trem e do Centro de Controle Operacional (CCO). Sua finalidade é possibilitar ao treinando o enfrentamento de situações reais e
+solucionar possíveis problemas que podem ocorrer durante a operação dos trens em situações normais de operação e durante
+incidentes e emergências. O sistema possibilitará simular a execução de todas as funções de controle, comando e sinalização dos
+trens/via, bem como todas as modalidades de operação do trem.
+      P - TREINAMENTO
+Este produto corresponde às atividades de treinamento dos empregados do Metrô de São Paulo para a operação e manutenção
+dos sistemas e equipamentos. Os materiais de treinamento serão elaborados e fornecidos de maneira que seja possível o
+desenvolvimento de treinamentos em ambientes virtuais e em língua portuguesa. O treinamento de operação abordará situações
+de operação normal e em condições de anormalidades (com simulações de falhas).
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 10
+      P - MÓDULO DE CABINE UTO
+Este produto corresponde ao fornecimento e instalação para os 22 trens de módulos de cabine para segregar um espaço exclusivo
+para o operador de trem do restante do salão de passageiros. O módulo é composto de um banco de operador, assento para
+instrutor, cortina quebra sol do para-brisa e uma divisória que segregue a área da região do console ao restante do salão de
+passageiros, podendo ser totalmente removível para operação em "Unattended Train Operation" (UTO).
+      P - TERMINAL PORTÁTIL DE MANUTENÇÃO (NOTEBOOKS)
+Este produto corresponde ao fornecimento de 7 computadores portáteis para executar os softwares de manutenção e configuração
+dos sistemas embarcados. Os equipamentos devem dispor de todos os softwares aplicativos e de manutenção instalados a fim de
+possibilitar o acesso e monitoramento de todos os sistemas e equipamentos microprocessados instalados nos trens.
+      P - CHAVE PADRÃO INOX
+Este produto corresponde ao fornecimento de chaves em inox do tipo padrão Metrô para os 22 trens. Elas se destinam à abertura
+de portas, sancas, painéis, fechaduras elétricas e mecânicas dos trens.
+   S - GERENCIAMENTO DO CONTRATO DE FORNECIMENTO DOS 22 TRENS
+Este subcomponente relaciona-se aos serviços de gerenciamento, projeto e análise com o objetivo de possibilitar que o
+planejamento, o monitoramento e o controle sejam realizados com mais eficiência e eficácia, com menos esforço, recursos e tempo
+, aumentando as chances de sucesso e cumprimento dos objetivos do fornecimento dos trens.
+      P - GERENCIAMENTO DO CONTRATO DE FORNECIMENTO DOS 22 TRENS
+Este produto corresponde ao gerenciamento de projeto, análise de documentação técnica de projeto e "as built", assistência na
+fiscalização, inspeção das etapas de montagem, testes e comissionamento dos trens, assessoria técnica e administrativa,
+efetuando a emissão dos Relatórios de Conclusão e Relatórios de Aceitação para as diversas fases do projeto. A contratada para o
+gerenciamento e controle deverá representar e agir em nome do Metrô de São Paulo em todos os momentos durante a execução
+do contrato de fornecimento dos novos trens.
+C - SISTEMAS
+Este componente envolve a aquisição e implantação dos sistemas de sinalização e controle CBTC, sistema de alimentação elétrica
+, sistemas auxiliares e sistema de telecomunicações, gerenciamentos e análise independente de segurança.
+   S - SISTEMA CBTC
+Este subcomponente contempla o projeto, fabricação de equipamentos de campo e implantação do sistema de sinalização e
+controle de tráfego na extensão da Linha 2-Verde baseado na tecnologia "Communication-Based Train Control" (CBTC) que é o
+mesmo sistema utilizado para operação do trecho Vila Madalena - Vila Prudente da Linha 2 - Verde. Suas principais características
+são: Operar com grau máximo de automação "Unattended Train Operation" (UTO) e de segurança "Safety Integraty Level" (SIL4)
+definido na norma IEC 61508, permitir a obtenção de intervalos entre trens inferiores a 90 segundos, utilizar perfis contínuos de
+velocidade que proporcionam melhor conforto aos passageiros durante a viagem, permitir a redução no consumo de energia
+elétrica de tração, diagnósticos de falhas dos trens em tempo real, despachos automáticos de trens dos pátios e estacionamentos,
+interface com as Portas de Plataforma, entre outras. O sistema deve ainda incluir funções de detecção de obstáculos, frenagem de
+emergência e falha segura de forma a automatizar a operação.
+      P - PROJETO E DOCUMENTAÇÃO TÉCNICA
+Este produto corresponde ao desenvolvimento do projeto conforme requisitos estabelecidos de acordo com padrões de qualidade e
+normas específicas. Contempla a revisão de cronograma, riscos e plano do projeto. Abrange também o desenvolvimento e
+consolidação do projeto de hardware e software dos módulos, componentes e equipamentos do sistema; do projeto de
+compatibilidade eletromagnética; da implementação, integração e testes de software; do projeto de aterramento, proteção contra
+descargas atmosféricas e sobrecargas do sistema e o desenvolvimento do projeto de instalação e montagem do sistema CBTC. A
+documentação técnica contemplará as especificações hardware, módulos e equipamentos; documentação de software; esquemas
+elétricos; configurações, diagramas de interligação e tabelas de fixação de equipamentos e o projeto executivo de montagem e
+instalação dos equipamentos, cabos e materiais.
+      P - FORNECIMENTO DE MATERIAIS E EQUIPAMENTOS
+Este produto corresponde ao fornecimento de todos os módulos, cartões, equipamentos e componentes do sistema CBTC, tais
+como gabinetes, painéis, quadros, gavetas, invólucros, fios, cabos, componentes elétricos, conectores, cartões eletrônicos,
+acessórios para montagem e instalação de equipamentos (caixas de passagem, eletrodutos, suportes etc.), dispositivos de
+proteção contra surtos e sobretensão, consoles e outros.
+      P - SOFTWARE
+Este produto corresponde aos programas fontes e executáveis a serem fornecidos e que devem ser compilados e testados nas
+plataformas de desenvolvimento e de simulação, respectivamente, para validação e aceitação. Além desses, software antivírus e
+os programas dos sistemas operacionais e das ferramentas de diagnóstico para os computadores portáteis de manutenção. As
+licenças dos programas, inclusive dos programas padrão de mercado, deverão ser emitidas em nome da Companhia do Metrô de
+São Paulo e os seus fabricantes devem prover suporte técnico até o final do período de garantia.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 11
+      P - TESTES DE FÁBRICA, MONTAGEM, INSTALAÇÃO, TESTES E COMISSIONAMENTO
+Este produto contempla: (a) as inspeções e testes em fábrica para verificar se os cartões, módulos, equipamentos, software e
+interfaces foram desenvolvidos conforme os requisitos especificados; (b) as montagens e instalações de acordo com as diretrizes
+do projeto executivo e a  execução de pré-comissionamentos para verificar a conformidade das montagens e instalações dos
+equipamentos, cabos e materiais com o projeto; (c) os testes finais e integrados de comissionamento visando assegurar que o
+sistema CBTC tem condições de ser colocado em operação comercial de acordo com os requisitos especificados; (d) o
+acompanhamento da operação assistida e avaliação de desempenho.
+      P - TREINAMENTO
+Este produto abrange os treinamentos em hardware e software para todos os equipamentos especialmente desenvolvidos
+obedecendo a cronograma específico, material didático em língua portuguesa, com potencial de assegurar um total domínio do
+desenvolvimento, implantação, manutenção e operação do sistema CBTC. Todos os treinamentos cobrirão parte teórica e prática,
+podendo ser utilizado como material de apoio os manuais de operação, manutenção, hardware e software, esquemas elétricos e
+eletrônicos, diagramas, listagens de software e demais documentos necessários à perfeita qualificação dos treinandos. Os
+treinamentos serão subdivididos da seguinte forma: Desenvolvimento e capacitação; operação; manutenção preditiva, preventiva e
+corretiva em campo; manutenção corretiva em bancada (laboratório).
+   S - GERENCIAMENTO DO CBTC
+Este subcomponente corresponde aos serviços de consultoria, de gerenciamento, de acompanhamento e de supervisão do
+fornecimento e implantação do sistema de sinalização e controle CBTC. Será executado pela empresa de consultoria especializada
+, com dedicação exclusiva, visando garantir o atingimento dos objetivos e o cumprimento dos requisitos constantes nas
+especificações técnicas e documentação de projeto.
+      P - GERENCIAMENTO DO FORNECIMENTO DO SISTEMA DE SINALIZAÇÃO CBTC
+Este produto abrange os serviços especializados de engenharia para gerenciamento do contrato de fornecimento do sistema de
+sinalização CBTC, com o objetivo de acompanhar o planejamento dos serviços do contrato de fornecimento e as suas realizações,
+de aprovar os projetos, as instalações, o comissionamento do referido sistema e de efetuar a emissão dos relatórios de conclusão
+e relatórios para aceitação do sistema para as diversas fases da implantação.
+   S - ANÁLISE INDEPENDENTE DE SEGURANÇA (ISA)
+Este subcomponente abrange os serviços especializados de engenharia para Avaliação Independente de Segurança (ISA) do
+sistema global da Linha 2-Verde visando a emissão do Certificado da Avaliação de Segurança (CAS) para operação com os graus
+de automação pretendidos em cada fase da implantação. O Avaliador ISA deve verificar se os níveis exigidos de segurança e
+qualidade dos sistemas estão adequados à operação segura do sistema global da Linha 2-Verde nas diversas fases de
+implantação do empreendimento.
+      P - ANÁLISE INDEPENDENTE DE SEGURANÇA (ISA) DO SISTEMA GLOBAL DA LINHA 2
+Este produto contempla a avaliação por Avaliador Independente de Segurança com o propósito de se obter uma avaliação
+especializada e profissional (avaliação independente) sobre todo o processo de desenvolvimento e implantação do projeto do
+sistema global, verificando a consistência do Nível de Integridade de Segurança (SIL) segundo normas aplicáveis  a fim de que a
+Linha 2-Verde possa ser operada com níveis de automação superiores aos praticados atualmente no trecho entre Vila Madalena e
+Vila Prudente. O Avaliador ISA deve avaliar, auditar e emitir parecer se o nível de segurança (SIL) está adequado aos requisitos de
+segurança para a mitigação dos perigos determinados. Além disso, deve avaliar se as mitigações propostas para cada perigo
+identificado estão de acordo com os requisitos de segurança especificados.
+   S - SISTEMA DE ALIMENTAÇÃO ELÉTRICA
+Este subcomponente contempla a documentação técnica, a fabricação, a inspeção, o teste, o fornecimento, a montagem, a
+execução das instalações, os ensaios, a entrega e a colocação em serviço dos sistemas de média e baixa tensão, sistemas de
+tração, subestações retificadoras e auxiliares responsáveis pelo fornecimento e distribuição de energia elétrica para alimentação
+das vias, das estações e do pátio em níveis adequados de tensão e corrente elétrica. Deve incluir também os estudos necessários
+ao perfeito funcionamento dos sistemas e equipamentos de forma integrada, incluindo proteção, supervisão e controle, e
+especialmente atendendo ao índice de disponibilidade do sistema elétrico.
+      P - SISTEMA DE MÉDIA TENSÃO
+Este produto corresponde ao projeto, à fabricação, ao fornecimento, à implantação, ao treinamento, aos testes em fábrica e em
+campo dos sistemas de alimentação elétrica das subestações em 22 kVca e 750 Vcc das 8 novas estações da extensão da Linha 2
+-Verde, bem como a subestação de 22 kV para alimentação dos serviços auxiliares do Complexo Rapadura, incluindo as
+adequações nas estações Vila Prudente e Tamanduateí que já operam comercialmente.
+      P - SISTEMA DE TRAÇÃO
+Este produto é constituído por: (a) Grupos transformadores-retificadores responsáveis pela conversão de corrente alternada em
+contínua (825 Vcc), para o serviço de tração, sendo equipados com diodos de silício, e devem funcionar perfeitamente acoplados
+aos transformadores; (b) Transformadores para retificadores que deverão formar conjuntos com os grupos retificadores,
+perfeitamente acoplados e balanceados, num projeto integrado de forma a atender as necessidades de potência solicitadas e com
+um nível de tensão dentro dos padrões admissíveis; (c) Retificadores a diodo que deverão ser dimensionados para funcionamento
+normal mesmo com um diodo a menos em cada braço e com resfriamento por convecção natural pelo próprio ar ambiente; (d)
+Disjuntores extra rápidos de corrente contínua; (e) Cubículos (cabines destinadas ao abrigo de instalações elétricas) de corrente
+contínua; (f) Equipamentos internos aos cubículos (seccionadoras, transdutores, relés, proteções etc.). 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 12
+      P - SISTEMA DE BAIXA TENSÃO
+Este componente contempla a documentação técnica, fabricação, fornecimento, execução das instalações, montagem, ensaios,
+entrega, colocação em serviço e treinamentos referentes equipamentos de baixa tensão para as 8 estações da extensão da Linha
+2-Verde que deverão ser alimentadas a partir das subestações auxiliares de 22-0,46 kV, a serem implantadas em cada uma das
+estações e da base de manutenção. A partir destas subestações deverão ser instalados os quadros e equipamentos responsáveis
+pela distribuição de energia elétrica em baixa tensão, para atendimento às cargas em 460 Vca, 220/127 Vca, 125 Vcc e 127 Vca (
+"No-Break").
+      P - ADEQUAÇÃO DE TRAÇÃO E TERCEIRO TRILHO
+Este subitem se refere às substituições com referidas adequações para repontencialização de aproximadamente 12 km do terceiro-
+trilho de 3,2 kA por 4,5 kA e dos cabos de 400 mm² de interligação de tramos no trecho operacional da Linha 2 Verde. Estas
+adequações nas vias e nas subestações existentes visam compatibilizar o sistema elétrico com o acréscimo na quantidade de
+trens que será necessária para operação do novo trecho Vila Prudente a Penha da Linha 2 - Verde com intervalos entre trens de
+até 90 segundos.
+      P - TERCEIRO TRILHO
+Este produto corresponde ao fornecimento do sistema do terceiro trilho e circuito de retorno das estações e pátios para a
+implantação da Linha. A alimentação em corrente contínua do terceiro trilho, que faz parte do sistema elétrico do Metrô, é efetuada
+mediante ligações diretas de 4 circuitos provenientes das subestações retificadoras instaladas em todas as estações. O terceiro
+trilho é subdividido por trechos alimentados nas extremidades pelas subestações retificadoras com a finalidade de permitir a
+seletividade das proteções. Ao longo do terceiro trilho das duas vias, são instalados seccionadores e contatores para operações de
+ manobra de interrupção ou de continuidade da linha de contato.
+      P - CABINE PRIMÁRIA DE MÉDIA TENSÃO
+Este produto se refere ao projeto e documentação técnica, fabricação, fornecimento, instalações, ensaios e testes, entrega,
+colocação em serviço e treinamentos de uma cabine padrão concessionária rebaixadora de 13,9 kV para tensões operacionais
+utilizadas pela CPTM na estação Penha a ser construída.
+      P - REDE AÉREA
+Este produto corresponde ao barramento de distribuição por contato deslizante que também pode ser entendido como Sistema de
+Distribuição de Energia de Tração. Para a construção da estação Penha que serve de transferência entre as linhas 2, 3 e 11, foi
+necessário a liberação de toda a faixa de tráfego utilizada pela CPTM pela extensão com folga da nova plataforma. Para tanto foi
+construído um desvio para que os trens da CPTM continuassem trafegando e permitisse a construção desta obra.
+   S - SISTEMAS AUXILIARES
+Este subcomponente agrega a implantação dos sistemas auxiliares necessários a operação comercial da extensão da Linha 2-
+Verde e se referem às escadas rolantes, aos elevadores, às portas de plataforma, ao sistema de ar-condicionado, ao sistema de
+ventilação principal, ao sistema de ventilação auxiliar das salas técnicas, ao sistema de bombeamento de água, ao sistema de
+iluminação, ao sistema de detecção de incêndio e ao bandejamento para a passagem de cabos.
+      P - ESCADAS ROLANTES
+Este produto corresponde aos equipamentos eletromecânicos que deverão ser implantados nas estações. Tem como finalidade
+auxiliar no transporte vertical de passageiros por meio da movimentação de pessoas entre os diferentes níveis das estações, que
+se inter-relacionam com os outros sistemas de fluxo de passageiros.
+      P - ELEVADORES
+Este produto corresponde aos equipamentos eletromecânicos para transporte vertical. Nesta especificação, eles deverão operar
+como parte integrante do sistema público de transporte de massa, sendo instalados em locais de intensa circulação de passageiros
+para atenderem a movimentação de pessoas dentro das estações. Estes equipamentos deverão ser adaptados aos passageiros
+portadores de deficiência ou com mobilidade reduzida.
+      P - PORTAS DE PLATAFORMA
+Este produto tem como principais objetivos: otimizar as operações de embarque e desembarque na região das plataformas,
+aumentar os níveis de segurança dos passageiros (impedindo que passageiros caiam ou adentrem na via) e restringir o acesso às
+regiões de túneis e vias. O Sistema de Portas de Plataforma deve possuir índices de confiabilidade e disponibilidade compatíveis
+com os índices dos demais sistemas com os quais interage, de modo a não influir negativamente no desempenho operacional
+deles e dos trens. Também deve possuir um sistema de monitoração e de diagnóstico adequado para indicar e manter registradas
+as condições de operação e de falha do sistema, a fim de agilizar os trabalhos de manutenção.
+      P - SISTEMA DE DETECÇÃO, ALARME DE INCÊNDIO E ROTA DE FUGA
+O sistema de detecção e de alarme de incêndio é constituído basicamente por circuitos analógicos com dispositivos endereçáveis,
+projetados para sinalizar e detectar automaticamente princípios de incêndios, supervisionados por uma controladora central de
+alarme. Já o sistema de sinalização de rotas de fuga tem por função orientar as pessoas, através de sinalizações em rotas pré-
+definidas, na evacuação de áreas de riscos para as áreas seguras, quando encontradas em situações de emergências, tais como:
+falta ou falha de energia elétrica, desligamento voluntário, em caso de incêndio na área afetada ou em todas as áreas de risco com
+materiais combustíveis, e qualquer outro problema de falha elétrica ou mecânica que impossibilite o funcionamento dos trens,
+forçando as pessoas a evacuarem o local.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 13
+      P - SISTEMA DE TRATAMENTO DE ÁGUA DE CHUVA
+Este produto corresponde ao fornecimento e à instalação de equipamentos utilizados no tratamento da água de chuva a serem
+instalados nas estações.
+      P - SISTEMA DE BOMBAS
+Este produto corresponde ao fornecimento do projeto, à fabricação e a instalação do sistema de bombas hidráulicas centrífugas
+para a Linha 2-Verde, composto por conjuntos de máquinas operatrizes hidráulicas cuja função é ceder energia aos fluidos, de
+forma que sejam transportados por escoamento de um ponto a outro.
+      P - BANDEJAMENTO, SISTEMA DE ILUMINAÇÃO E TOMADAS
+O sistema de bandejamento corresponde à acomodação de condutores dos sistemas elétricos, eletrônicos, de sinalização e de
+telecomunicações do Metrô, observando as características dos ambientes e os locais de implantação nas estações e vias
+operacionais. Já o sistema de iluminação tem por finalidade permitir o funcionamento normal da estação e, em caso de emergência
+, permitir a evacuação dos passageiros das áreas das estações e vias com toda a segurança. Deve compreender a Iluminação
+Normal, a iluminação de Emergência alimentada pelo Grupo Gerador Diesel e a iluminação de balizamento alimentada em 125 Vcc
+ pelo Quadro de Distribuição de Corrente Contínua.
+      P - UNIDADES TRANSMISSÃO REMOTAS
+A Unidade de Transmissão Remota (UTR) é responsável por implementar comandos do SCL e receber indicações de estado e
+posição dos equipamentos de estações, das subestações e do pátio, realizando, portanto, a interface entre o supervisório (SCL) e
+os equipamentos controlados.  
+      P - SISTEMA DE CONTROLE LOCAL
+O Sistema de Controle Local é um supervisório de sistemas, o qual realiza comandos e monitoramentos de alarmes, dos estados e
+de demais informações de diversos equipamentos instalados nas estações, nas subestações e no pátio de uma linha de Metrô. A
+interface entre o SCL e os sistemas/equipamentos controlados é feita através da UTR e rede local.
+      P - SISTEMA DE AR-CONDICIONADO
+Este produto corresponde ao fornecimento dos equipamentos, dos materiais e do serviços para a implantação do sistema de ar-
+condicionado da Sala de Equipamentos Eletrônicos (SEE), das bilheterias e da Sala de Supervisão de Operação (SSO) das
+estações, como também do Centro de Formação Operacional da Segurança (CFS) da Estação Penha e das Salas Operacionais do
+Complexo Rapadura, visando controlar as condições mínimas permissíveis nos ambientes, de modo a garantir a proteção da
+saúde e do bem estar das pessoas, assim como a preservação da vida útil dos equipamentos e dos dispositivos eletrônicos
+conforme normas técnicas aplicáveis.
+      P - SISTEMA DE VENTILAÇÃO PRINCIPAL
+Este produto é composto por vários subsistemas necessários para o seu perfeito funcionamento automatizado e sincronizado,
+visando o atendimento das seguintes necessidades: (a) Remoção do calor e da poeira decorrentes da movimentação dos trens; (b)
+Renovação de ar nos ambientes subterrâneos, assegurando o número de trocas mínimas de ar; (c) Remoção e direcionamento do
+ fluxo de ar quente e fumaça proveniente de eventuais sinistros acompanhados de incêndio no interior das estações e túneis.
+      P - SISTEMA DE AQUECIMENTO SOLAR
+Este produto corresponde ao fornecimento de energia na forma de calor à água para o banho dos empregados nos vestiários das
+estações. O sistema utiliza coletores solares que promovem o aquecimento de um fluido de trabalho, como a água, através da
+conversão da radiação eletromagnética proveniente do sol em energia térmica, visando a redução do consumo energético. Fazem
+parte do sistema: os coletores solares, o reservatório térmico, a tubulação, a bomba de circulação (quando aplicável) os
+controladores de temperaturas, as bombas de calor, as válvulas entre outros.
+      P - SISTEMA DE VENTILAÇÃO DAS SALAS TÉCNICAS
+Este produto corresponde ao fornecimento dos equipamentos, dos materiais e dos serviços para a implantação do Sistema de
+Ventilação das Salas Técnicas e Operacionais, visando controlar as condições mínimas permissíveis nos ambientes, de modo a
+garantir a proteção da saúde e do bem-estar das pessoas, conforme normas técnicas aplicáveis.
+   S - SISTEMA DE TELECOMUNICAÇÕES
+Este subcomponente compreende rede de fibra óptica, sistema multimídia para divulgação de informações atualizadas e confiáveis
+aos passageiros, comunicações fixas para atendimento das necessidades de comunicações operacionais, administrativas, de
+acessibilidade e de emergência, utilizando a tecnologia de voz com protocolo Internet, radiocomunicação para atender às
+necessidades da operação comercial, comunicação móvel de voz e dados por meio da cobertura de rede Wi-Fi, monitoramento
+eletrônico por câmeras de vídeo, controle de acesso às áreas restritas de estação e pátios e apoio à manutenção e sistema de
+controle local.
+      P - SISTEMA DE CONTROLE DE ACESSO
+Este produto corresponde ao sistema que realiza o controle de acesso, por meio da leitura de cartões autorizados, a determinadas
+áreas operacionais e de manutenção restritas aos passageiros e/ou funcionários. Para tanto, utiliza recursos como leitoras de
+cartão, controladoras de porta, fechos e sensores. Está presente nas estações, nas subestações, nas saídas de emergência e nos
+pátios de uma linha de Metrô.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 14
+      P - SISTEMA DE CONTROLE DE ARRECADAÇÃO DE PASSAGEIROS (SCAP)
+Este produto corresponde ao sistema que tem como principal função controlar a arrecadação, o fluxo e a contagem de passageiros
+por meio da passagem pelos Bloqueios entre as Áreas Paga e Livre das estações, e por meio de Dispositivos de Contagem
+Eletrônica nas transferências com outras linhas de transporte público. Em linhas gerais, esse sistema é composto por Bloqueios
+Eletrônicos com barreira tipo "Tripé", Painéis de Pictogramas para visualização do estado dos Bloqueios pelos passageiros,
+Dispositivos de Contagem Eletrônica por imagem e servidores para centralização dos dados.
+      P - SISTEMA DE MONITORAMENTO ELETRÔNICO
+Este produto corresponde ao sistema de monitoramento dos diversos espaços das localidades através de câmeras para operação,
+manutenção e segurança do Metrô. Trata-se de um sistema modular e escalável, utilizando o software Securos da Intelligent
+Security Systems (ISS) em um ambiente virtualizado pela solução Vmware vSphere Enterprise Plus em conjunto com MS Windows
+ Server 2019 Data Center e solução de "storage" Dell EMC Isilion A2000.
+      P - SISTEMA MULTIMÍDIA
+Este produto corresponde ao sistema que veicula aos passageiros e aos empregados, nas localidades da Companhia do Metrô,
+informações sobre a situação operacional do sistema metroviário, mensagens de utilidade pública, mensagens institucionais, entre
+outros, por meio da geração, emissão e reprodução de mensagens de texto, de áudio (ao vivo ou pré-gravadas), de vídeo, de
+áudio e vídeo sincronizados e de informações de horário.
+      P - SISTEMA DE COMUNICAÇÕES FIXAS
+Este produto corresponde ao sistema responsável pelas comunicações via telefonia, permitindo chamadas internas e externas e
+interligação com as operadoras de telefonia da rede pública por meio de troncos de operadoras de telefonia fixa e celular.
+      P - REDE DE TRANSMISSÃO DE DADOS
+Este produto corresponde a toda infraestrutura necessária para se implantar uma rede de dados local interna (projeto, implantação,
+testes, treinamento, operação assistida e assistência técnica do sistema, incluindo a documentação técnica a ser fornecida). A
+solução de sistema (equipamentos físicos, configurações, interfaces e serviços) a ser fornecida deve prever possibilidades de
+integração futura com outras redes de dados (integração física e lógica). Ainda como escopo da rede de dados local deve ser
+considerado o cabeamento estruturado para atendimento dos pontos telefônicos IP do subsistema de telefonia.
+      P - REDE DE FIBRAS ÓPTICAS
+Este produto corresponde a uma rede completa de fibras ópticas, redundante, a qual interliga, por meio de cabos ópticos,
+distribuidores gerais ópticos, armários de telecomunicações, distribuidores intermediários ópticos, conectores e demais acessórios,
+todas as localidades do Sistema Metroviário de São Paulo.
+      P - SISTEMA DE COMUNICAÇÕES MÓVEIS
+Este produto corresponde a toda infraestrutura necessária para se implantar a radiocomunicação interna da linha, de modo que
+seja possível as comunicações entre os equipamentos e do sistema de radiocomunicação. Desta forma, a Contratada deverá
+fornecer equipamentos (transceptores móveis e portáteis) compatíveis com os existentes e configurá-los de acordo com os
+padrões e definições do sistema existente, de modo a permitir seu perfeito funcionamento com o sistema centralizado.
+      P - GESTÃO DOS CANTEIROS
+Está ação é necessária para atender toda a logística envolvida na implantação de todos os sistemas no trecho operacional e na
+expansão. Ela envolve almoxarifado, ferramentaria, vestiário, refeitório, além do escritório de administração e engenharia das
+contratadas e do próprio Metrô.
+   S - GERENCIAMENTO E SUPERVISÃO DA IMPLANTAÇÃO DOS SISTEMAS
+Este subcomponente corresponde aos serviços técnicos de engenharia, de acompanhamento técnico e de suporte para a
+elaboração e implantação de sistemas de alimentação elétrica, auxiliares e de telecomunicações.
+P - GERENCIAMENTO E SUPERVISÃO DA IMPLANTAÇÃO DOS SISTEMAS DE ALIMENTAÇÃO ELÉTRICA, AUXILIARES
+ E TELECOMUNICAÇÕES
+Este produto consiste na consultoria, isto é, gerenciamento (análise e aprovação), supervisão (acompanhamento em fábrica e
+campo) e suporte para o Contrato "Planta" dos sistemas de alimentação elétrica, telecomunicações e auxiliares.
+C - COMPONENTE TÉCNICO E INSTITUCIONAL
+O Componente Técnico e Institucional abrange iniciativas que extrapolam o empreendimento expansão da Linha 2-Verde, pois
+envolvem reformas estruturantes com potencial de promover o avanço e a maturidade das instituições e a adoção de melhores
+práticas de governança e sustentabilidade.
+   S - FORTALECIMENTO INSTITUCIONAL E DESENVOLVIMENTO DE PRÁTICAS SUSTENTÁVEIS
+Este subcomponente visa promover o avanço e a maturidade das instituições e a adoção de melhores práticas de governança e
+sustentabilidade ambiental e social.
+      P - ENGENHARIA SUSTENTÁVEL E RESILIÊNCIA CLIMATICA
+Este produto se destina a desenvolver estudos de viabilidade, projetos e implantação de alternativas energéticas, bem como um
+estudo de vulnerabilidade e resiliência climática. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 15
+      P - ESTUDO PARA A ESTRUTURAÇÃO DE EMPREENDIMENTO DE HABITAÇÃO DE INTERESSE SOCIAL (HIS)
+Este produto contempla a contratação de consultoria técnica especializada para estruturação do processo de implantação de
+empreendimentos habitacionais próximos às linhas do Metrô, com foco em Habitação de Interesse Social (HIS). Seu objetivo é a
+estruturação de modelos de negócio para implantação de HIS no entorno das estações, incluindo estudos técnicos, legais,
+econômico-financeiro e análises de mercado para avaliar sua viabilidade e definir a estrutura de construção, arrendamento,
+alienação e/ou concessão.
+      P - INTEGRAÇÃO DOS CANAIS DE DENÚNCIA DE ASSÉDIO E ABUSO SEXUAL
+Este produto tem como objetivo unificar os canais de denúncia em uma única central e criar mecanismos para atuação conjunta
+das empresas de transporte de São Paulo a fim de fortalecer as práticas de combate ao assédio e abuso sexual. Para tanto, será
+necessária a criação de um aplicativo conectado a um sistema informatizado para a compilação e o tratamento dos dados, bem
+como o direcionamento automático das denúncias às equipes especificas de cada um dos operadores do sistema de transporte.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 16
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Bens
+-
+-
+491.986.206,00
+91,53
+P- TREM MONTADO
+Quantidade (trem)
+22,00
+177.427.642,00
+33,01
+P- DOCUMENTAÇÃO E PROJETO
+%
+100,00
+26.623.726,00
+4,95
+P- SISTEMA DE MONITORAMENTO E MEDIÇÃO
+ DE VIA
+%
+100,00
+10.621.326,00
+1,98
+P- SOBRESSALENTES
+%
+100,00
+9.289.334,00
+1,73
+P- SIMULADOR DE TREINAMENTO
+OPERACIONAL
+Quantidade
+1,00
+2.797.879,00
+0,52
+P- MÓDULO DE CABINE UTO
+Quantidade
+44,00
+662.534,00
+0,12
+P- TERMINAL PORTÁTIL DE MANUTENÇÃO (
+NOTEBOOKS)
+Quantidade
+7,00
+11.543,00
+0,00
+P- CHAVE PADRÃO INOX
+Quantidade
+220,00
+11.546,00
+0,00
+P- PROJETO E DOCUMENTAÇÃO TÉCNICA
+%
+100,00
+6.146.293,00
+1,14
+P- FORNECIMENTO DE MATERIAIS E
+EQUIPAMENTOS
+%
+100,00
+9.219.442,00
+1,72
+P- SOFTWARE
+Quantidade
+1,00
+6.760.922,00
+1,26
+P- SISTEMA DE MÉDIA TENSÃO
+%
+100,00
+13.171.177,00
+2,45
+P- SISTEMA DE TRAÇÃO
+%
+100,00
+27.558.729,00
+5,13
+P- SISTEMA DE BAIXA TENSÃO
+%
+100,00
+27.081.838,00
+5,04
+P- ADEQUAÇÃO DE TRAÇÃO E TERCEIRO
+TRILHO
+%
+100,00
+6.060.673,00
+1,13
+P- TERCEIRO TRILHO
+%
+100,00
+11.822.392,00
+2,20
+P- CABINE PRIMÁRIA DE MÉDIA TENSÃO
+Quantidade
+1,00
+102.237,00
+0,02
+P- REDE AÉREA
+%
+100,00
+248.542,00
+0,05
+P- ESCADAS ROLANTES
+Quantidade
+179,00
+32.574.592,00
+6,06
+P- ELEVADORES
+Quantidade
+63,00
+3.454.889,00
+0,64
+P- PORTAS DE PLATAFORMA
+Fachadas
+17,00
+29.314.105,00
+5,45
+P- SISTEMA DE DETECÇÃO, ALARME DE
+INCÊNDIO E ROTA DE FUGA
+%
+100,00
+5.327.216,00
+0,99
+P- SISTEMA DE TRATAMENTO DE ÁGUA DE
+CHUVA
+%
+100,00
+12.986,00
+0,00
+P- SISTEMA DE BOMBAS
+%
+100,00
+816.580,00
+0,15
+P- BANDEJAMENTO, SISTEMA DE
+ILUMINAÇÃO E TOMADAS
+%
+100,00
+19.735.293,00
+3,67
+P- UNIDADES TRANSMISSÃO REMOTAS
+Quantidade
+16,00
+4.474.148,00
+0,83
+P- SISTEMA DE CONTROLE LOCAL
+%
+100,00
+196.206,00
+0,04
+P- SISTEMA DE AR-CONDICIONADO
+%
+100,00
+724.128,00
+0,13
+P- SISTEMA DE VENTILAÇÃO PRINCIPAL
+%
+100,00
+23.797.638,00
+4,43
+P- SISTEMA DE AQUECIMENTO SOLAR
+%
+100,00
+284.790,00
+0,05
+P- SISTEMA DE VENTILAÇÃO DAS SALAS
+TÉCNICAS
+%
+100,00
+2.675.005,00
+0,50
+P- SISTEMA DE CONTROLE DE ACESSO
+%
+100,00
+2.158.222,00
+0,40
+P- SISTEMA DE CONTROLE DE
+ARRECADAÇÃO DE PASSAGEIROS (SCAP)
+%
+100,00
+2.290.318,00
+0,43
+P- SISTEMA DE MONITORAMENTO
+ELETRÔNICO
+%
+100,00
+4.610.524,00
+0,86
+P- SISTEMA MULTIMÍDIA
+%
+100,00
+6.369.567,00
+1,19
+P- SISTEMA DE COMUNICAÇÕES FIXAS
+%
+100,00
+1.939.948,00
+0,36
+P- REDE DE TRANSMISSÃO DE DADOS
+%
+100,00
+12.416.726,00
+2,31
+P- REDE DE FIBRAS ÓPTICAS
+%
+100,00
+3.053.160,00
+0,57
+P- SISTEMA DE COMUNICAÇÕES MÓVEIS
+%
+100,00
+142.390,00
+0,03
+Consultoria
+-
+-
+25.570.655,00
+4,76
+P- GERENCIAMENTO DO CONTRATO DE
+FORNECIMENTO DOS 22 TRENS
+%
+100,00
+2.797.506,00
+0,52
+P- GERENCIAMENTO DO FORNECIMENTO DO
+SISTEMA DE SINALIZAÇÃO CBTC
+%
+100,00
+4.221.418,00
+0,79
+P- ANÁLISE INDEPENDENTE DE SEGURANÇA (
+ISA) DO SISTEMA GLOBAL DA LINHA 2
+%
+100,00
+1.127.968,00
+0,21
+P- GERENCIAMENTO E SUPERVISÃO DA
+IMPLANTAÇÃO DOS SISTEMAS DE
+ALIMENTAÇÃO ELÉTRICA, AUXILIARES E
+TELECOMUNICAÇÕES
+%
+100,00
+15.623.763,00
+2,91
+P- ENGENHARIA SUSTENTÁVEL E
+RESILIÊNCIA CLIMATICA
+%
+100,00
+1.200.000,00
+0,22
+P- ESTUDO PARA A ESTRUTURAÇÃO DE
+EMPREENDIMENTO DE HABITAÇÃO DE
+INTERESSE SOCIAL (HIS)
+%
+100,00
+600.000,00
+0,11
+Serviços que Não de Consultoria
+-
+-
+13.989.020,00
+2,60
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 17
+P- TRANSPORTE PARA AS DEPENDÊNCIAS
+DO METRÔ
+%
+100,00
+2.980.251,00
+0,55
+P- TESTES DE FÁBRICA, MONTAGEM,
+INSTALAÇÃO, TESTES E COMISSIONAMENTO
+%
+100,00
+3.073.145,00
+0,57
+P- GESTÃO DOS CANTEIROS
+%
+100,00
+7.235.624,00
+1,35
+P- INTEGRAÇÃO DOS CANAIS DE DENÚNCIA
+DE ASSÉDIO E ABUSO SEXUAL
+%
+100,00
+700.000,00
+0,13
+Capacitação e Treinamento
+-
+-
+5.954.119,00
+1,11
+P- TREINAMENTO
+%
+100,00
+422.454,00
+0,08
+P- TREINAMENTO
+%
+100,00
+5.531.665,00
+1,03
+Total Geral
+-
+-
+537.500.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+O trecho Vila Prudente - Penha conta com obras civis (lotes 1 ao 6) em plena execução e tem contado com recursos financeiros do
+Governo do Estado de São Paulo e da Corporação Andina de Fomento (CAF), cujo Contrato de Financiamento foi assinado em 15/9/2022,
+no valor de US$ 550,0 milhões, destinados predominantemente para as obras civis. O empreendimento conta com avanço físico total de
+26,6% de conclusão.
+
+Para o controle e monitoramento dos empreendimentos de expansão o Metrô de São Paulo desenvolveu um modelo de gestão com base
+no seu Ciclo de Vida. O modelo divide a implantação do empreendimento em cinco fases conforme detalhado a seguir.
+
+FASE 1 - VALIDAÇÃO
+Evolução: 100% concluída
+Esta fase é composta pelas seguintes etapas:
+- Revisão e validação do projeto funcional/anteprojeto;
+- Obtenção de licenças ambientais prévias;
+- Licitações: Projetos básicos de obras civis, sistemas e via permanente. Licitações para contratação de serviços de sondagens, ensaios
+geotécnicos, levantamento de dados básicos, topográficos, dados cadastrais, emissão de laudo macro, ensaios de vibrações e ruídos.
+
+FASE 2 - DETALHAMENTO
+Evolução: 100% concluída
+Esta fase é composta pelas seguintes etapas:
+- Elaboração do projeto básico de obras civis (obra bruta, arquitetura e via permanente);
+- Elaboração dos projetos de sistemas (sinalização e controle, alimentação elétrica, auxiliares e telecomunicações);
+- Elaboração do projeto de material rodante.
+
+FASE 3 - LICITAÇÃO E OBTENÇÃO DE ÁREAS
+Evolução: 93,4% concluída
+Esta fase é composta pelas seguintes etapas:
+- Reassentamentos: Concluída;
+- Obtenção de licenças de instalação: Concluída;
+- Obtenção de autorizações de início de obras: Concluída;
+- Desapropriações: Concluída. Todos os imóveis privados foram imitidos na posse;
+- Publicação de Declaração de Utilidade Pública (DUP) contemplando os imóveis passíveis de desapropriação: Concluída;
+- Cadastro de imóveis sujeitos à desapropriação: Concluído;
+- Imissão na posse de imóveis particulares desapropriados: Concluído (227 imóveis);
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 18
+- Restam pendências, não impeditivas para a implantação da Linha-2, em relação a 4 dos 7 imóveis públicos: 57% concluído.
+
+- Licitações: Em andamento, com 56,3% de evolução contemplando os itens a seguir:
+- Projeto executivo, obras civis e via permanente: Licitações concluídas;
+- Sistemas de alimentação elétrica, auxiliares e de telecomunicações: Edital publicado;
+- Sistema de sinalização e controle CBTC: Edital concluído a publicar;
+- Material rodante: Edital concluído a publicar. O edital para aquisição de material rodante contempla a aquisição de 44 trens, dos quais 22
+trens serão incorporados a frota operacional da Linha 2-Verde e contarão com recursos do financiamento a ser contratado com o BIRD.
+Os outros 22 trens destinados a outras linhas operadas pelo Metrô de São Paulo deverão contar com recursos financeiros a serem
+viabilizados pelo Estado de São Paulo.
+
+FASE 4 - IMPLANTAÇÃO
+Evolução: 14,2% de conclusão.
+Esta fase é composta pelas seguintes etapas:
+
+(a) Projeto executivo e execução de obra civil: Em andamento conforme abaixo, contando com evolução acumulada de 20,4%. O anexo 4
+apresenta o relatório fotográfico das obras referente a dezembro de 2022.
+
+- Poço da Ventilação e Saída de Emergência (VSE) Falchi Gianini: escavação do túnel de estacionamento e tratamento do túnel de via;
+- Estação Orfanato: impermeabilização e revestimento secundário do poço do corpo da estação e estruturas de concreto da vala do
+acesso secundário;
+- VSE Madrid: escavação do túnel de ligação;
+- Estação Santa Clara: armação da parede do revestimento secundário do poço do corpo da estação, estruturas de concreto da vala do
+acesso secundário e fundação das salas técnicas;
+- VSE Cestari: impermeabilização e estruturas de concreto do poço;
+- Poço Capitão: tratamento do túnel de transição sul;
+- Estação Anália Franco: estruturas de concreto da cobertura, escavação da vala, parede de diafragma da ventilação do corpo da estação;
+- VSE Coxim: estruturas de concreto do poço;
+- Estação Vila Formosa: estruturas de concreto e impermeabilização do poço e escavação dos túneis do corpo da estação;
+- Base de Manutenções Rapadura: escavação da vala e execução de tirantes;
+- Estação Santa Isabel: escavação do túnel de ligação do corpo da estação;
+- VSE João Prioste: tratamento de solo com "jet grouting";
+- Estação Guilherme Giorgi: escavação e tirantes da vala do corpo da estação e tratamento para emboque do túnel do acesso secundário;
+- VSE Júlio Colaço:  escavação do poço e tratamento para emboque do túnel de ligação; 
+- Estação Aricanduva: escavação da parede de diafragma dos poços do corpo da estação;
+- VSE Soares Neiva: escavação do poço;
+- Estação Penha: escavação do corpo da estação, estrutura de concreto das salas técnicas do Metrô, fechamento com muros, banco de
+dutos para desvio da CPTM e estruturas de concreto das salas técnicas da CPTM;
+- Vala Penha: escavação da vala, tirantes e tratamento de solo.
+- Partida da tuneladora na vala do Complexo Rapadura, prevista para 2023.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 19
+
+(b) Implantação de sistemas de sinalização CBTC, alimentação elétrica, auxiliares e de telecomunicações: Não iniciada (em processo de
+contratação e corresponde a um dos componentes desta Carta-Consulta);
+
+(c) Fabricação e comissionamento de material rodante: Não iniciada (em processo de contratação e corresponde a um dos componentes
+desta Carta-Consulta).
+
+Nota:
+Todas as informações sobre evolução citadas acima se referem ao acumulado até dezembro de 2022.
+
+FASE 5 - ENCERRAMENTO
+Não iniciada.
+Esta fase consiste em elaborar a programação da transferência da linha para as gerências de Operação e Manutenção e a conclusão de
+todas as entregas planejadas, resultando na formalização do encerramento do empreendimento.
+
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Estadual/Municipios
+Estado de São Paulo (MUNICIPIO DE  SAO PAULO)
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+CONDIÇÕES FINANCEIRAS
+
+Prazo de desembolso: 60 meses;
+Prazo de carência: 60 meses;
+Prazo de amortização: 300 meses;
+Prazo total: 360 meses;
+Periodicidade da amortização: Semestral;
+Taxa de juros: SOFR + spread variável;
+
+Demais encargos do financiamento:
+- Comissão inicial ("front-end fee") de 0,25%: Paga uma vez e apurada sobre o valor total do empréstimo. Poderá ser financiada com
+recursos do empréstimo ou ser paga com recursos próprios;
+- A taxa de compromisso de 0,25% a.a.: Incide sobre o saldo não desembolsado do financiamento;
+- Taxa de exposição ao Brasil, de 0,25% a.a.: Aplicada quando o limite de risco estabelecido pelo BIRD é superado. A política do governo
+brasileiro é de não permitir que a exposição atinja tal limite, logo, na prática, essa sobretaxa não tem sido cobrada.
+
+NECESSIDADE DE FINANCIAMENTO EXTERNO E A OPÇÃO PELO AGENTE FINANCEIRO
+
+(a) Justificar a necessidade e a opção por financiamento externo em detrimento de financiamento interno:
+
+Para aquisições de grande complexidade, como material rodante e sistemas para metrô, o apoio de um financiamento externo, com
+licitação internacional regida pelas regras do banco financiador, poderá propiciar um processo licitatório mais competitivo, com potencial
+de se obter melhores preços e prazos de entregas.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 20
+Adicionalmente, as condições financeiras e prazos de carência praticados por instituições financeiras externas tendem a ser mais
+favoráveis em comparação às opções nacionais, conforme indicado no item (c). Cabe destacar, ainda, que a contratação de financiamento
+em moeda estrangeira propicia um hedge natural contra a desvalorização da moeda local frente ao dólar, de fundamental importância
+quando se trata de financiamento para aquisição de materiais, em grande medida, importados, como por exemplo trens e sistemas. 
+
+O projeto conta com a autorização legislativa nº 17.472, de 16 de dezembro de 2021, para contratação de financiamento no valor
+equivalente a até US$ 721,0 milhões, sendo que este pleito contempla apenas a aquisição de 22 trens e sistemas para o trecho em
+expansão da Linha 2 Verde e consumirá US$ 430,0 milhões do valor autorizado em lei.
+
+
+(b) Justificar a opção pelo agente financeiro escolhido:
+
+A participação do Banco Internacional para Reconstrução e Desenvolvimento (BIRD)  justifica-se não apenas no aspecto econômico-
+financeiro, conforme indicado no item ( c), mas sobretudo do ponto de vista técnico, dado o compartilhamento, por parte da instituição, do
+conhecimento e das suas experiências e lições aprendidas em projetos similares em outros países e no Brasil. No caso específico da
+Linha 2-Verde, o BIRD possui experiência acumulada em projetos relacionados ao sistema CBTC, que já é utilizado atualmente no trecho
+em operação da Linha 2-Verde entre as estações Vila Madalena e Vila Prudente. 
+
+Desde 1992, o BIRD vem apoiando programas de investimentos em transporte de massa na RMSP. O Banco possui um histórico de
+participação em projetos no Estado de São Paulo, principalmente aqueles relacionados ao sistema metroferroviário (obras civis, aquisição
+de material rodante e sistemas). A título de exemplo, contaram com apoio técnico e financeiro do Banco a implantação da Linha-4 Amarela
+ e Linha-5 Lilás do Metrô, assim como a Linha 11-Coral e a Linha 7-Rubi da CPTM. 
+
+Neste projeto, o BIRD tem interesse em financiar a expansão da Linha 2-Verde por meio do instrumento "Investment Project Finance" (IPF
+) para viabilizar os recursos financeiros necessários para a aquisição dos novos trens, dos sistemas CBTC, de alimentação elétrica,
+auxiliares, de telecomunicações e componentes de gerenciamento e estudos técnicos. 
+
+Nesta modalidade, os desembolsos acontecem fracionados à medida que as ações do projeto são cumpridas e verificadas. Tais ações e
+montantes serão definidos durante a preparação do acordo de financiamento. 
+
+É oportuno acrescentar que o órgão executor, o Metro de São Paulo, possui experiência com as normas e diretrizes de aquisições do
+BIRD e, também, com suas políticas de salvaguardas sociais e ambientais. A exemplo do que ocorreu durante a implantação da Linha 4-
+Amarela e Linha 5-Lilás, o Banco deverá, por meio de seus consultores, realizar o acompanhamento da execução do empreendimento
+mitigando eventuais riscos socioambientais. 
+
+
+(c) Comparar as condições financeiras do agente financeiro escolhido em relação a outros financiadores externos/internos, utilizando os
+mesmos parâmetros do item (i) acima:
+
+Na decisão pela fonte de financiamento do projeto, foram analisadas alternativas de financiamentos nacionais e internacionais. Em relação
+ao financiamento externo, verifica-se que o BIRD é o que oferece menores encargos financeiros. Segue abaixo, uma descrição das
+políticas dos principais bancos:
+
+- BIRD: SOFR + Spread Variável (dependente do prazo médio do financiamento e país). Para um prazo médio de 15 anos o spread
+vigente é de 1% a.a.;
+- BID: SOFR + Margem de Captação BID + Margem para empréstimos, atualmente totalizando SOFR + 1,26% a.a.;
+- NDB: SOFR + Spread Variável, dependente do prazo médio do financiamento. Para um prazo médio de 15 anos o spread mais recente
+disponível é de 1,5% a.a.
+
+Quanto aos financiadores internos, com aval da União, a carência é limitada a 12 meses:
+
+- O BNDES oferece ao Estado de São Paulo TLP +1,4%, que atualmente equivalem a 12,10 % a.a.;
+- O consórcio BB/Itaú oferece operações de no máximo 15 anos e propõe encargos financeiros de CDI+1,75% (atualmente 15,40% a.a.); 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 21
+- O Santander (também pelo prazo de 15 anos), CDI+2,12% - atualmente 15,77 % a.a.
+Por fim, cabe ressaltar que licitação internacional, com apoio financeiro de multilaterais contribui para gerar maior competitividade no
+processo de aquisição.
+
+
+2.11. PROJETO/BENEFICIÁRIO
+ÁREAS ESTRATÉGICAS E IMPACTOS DO PROJETO
+
+Os impactos decorrentes da implantação do projeto estão condicionados a sua integral conclusão. Assim, é imprescindível que a etapa
+atual de execução das obras civis entre as Estações Vila Prudente e Penha seja sucedida da implantação dos sistemas e da
+disponibilidade dos 22 novos trens.
+
+A ampliação da Linha 2-Verde gera impactos sociais diretos aos passageiros do sistema e, também, benefícios e custos indiretos para
+toda a sociedade, classificados como externalidades. O termo "externalidade" refere-se ao caráter externo do custo, ou seja, quando um
+indivíduo opta por um modo de transporte, ele incorre em custos diretos da sua operação (combustível, tarifas, tempo pessoal etc.)
+identificados como custos internos e que são assumidos por ele e considerados quando de sua decisão de se deslocar. Entretanto,
+existem custos que não são pagos diretamente pelo passageiro e nem considerados quando da sua escolha ao deslocar-se, o que dá a
+esses custos a característica de externos ou externalidades.
+
+De acordo com as estimativas do Metrô de São Paulo, os benefícios socioambientais da expansão da Linha 2-Verde entre Vila Prudente e
+Penha identificados como externalidades positivas, monetizados, correspondem a R$ 846,7 milhões em 2028 (em reais de 2021), quando
+em plena operação comercial. Este valor corresponde à quantia economizada pela sociedade com a implantação do projeto e é distribuído
+ da seguinte forma:
+
+(a) Redução do Consumo de Combustíveis (diesel, etanol e gasolina): 15.643.966 litros/ano (equivalente a R$ 73,68 milhões); 
+(b) Redução das emissões atmosféricas: 34.557 toneladas/ano (equivalente a R$ 11,89 milhões); 
+(c) Redução do Custo Operacional (ônibus, automóvel e motocicleta): 115.563.054 Km/ano (equivalente a R$ 138,56 milhões); 
+(d) Redução dos Custos de Manutenção e Operação de Vias: R$ 18,36 milhões; 
+(e) Redução dos Tempos de Viagem (dos passageiros dos ônibus, automóveis e motocicletas): 53.645.939 horas/ano (equivalente a R$
+594,24 milhões); 
+(f) Redução dos Custos de Acidentes/ano: 283 acidentes (equivalentes a R$ 10,0 milhões). 
+
+Cabe destacar que os impactos acima mencionados são aqueles considerados na metodologia de mensuração de externalidades
+positivas do Metrô de São Paulo e que verificam o impacto do novo trecho dentro da rede metroviária. Os demais impactos provenientes
+da execução integral e operação da extensão da Linha 2-Verde são apresentados a seguir.
+
+BENEFÍCIOS SOCIOAMBIENTAIS
+
+(a) A diminuição no consumo de combustíveis fósseis em virtude da migração de passageiros dos modos de transporte mais poluidores
+para a rede metroferroviária;
+(b) Redução das emissões atmosféricas devido ao uso de energia mais limpa pelo sistema metroferroviário que absorverá a migração de
+passageiros de outros modos de transporte;
+(c) A redução dos custos operacionais de outros modos (ônibus, automóveis e motocicletas) em função da migração para o metrô; 
+(d) A redução dos custos de manutenção e operação de vias urbanas, redução dos tempos de viagens e da quantidade de acidentes.
+
+CONTRIBUIÇÃO PARA CENÁRIOS DE BAIXO CARBONO
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 22
+Considerando que o traçado da extensão da Linha 2-Verde intercepta o eixo Leste da RMSP, ocorrerá uma melhor distribuição dos
+passageiros provenientes do sistema de ônibus reduzindo, portanto, a quantidade de viagens dependentes desse modo de transporte.
+Consequentemente, ocorrerá a redução das emissões de gases do efeito estufa produzidos pela queima de combustíveis fósseis. 
+
+Considerando apenas as linhas cujos itinerários passam pela região das futuras estações do trecho em expansão, são 151 linhas com
+uma frequência total de 812 ônibus por hora, o que demonstra a potencialidade da Linha 2-Verde em absorver essa demanda.  Assim,
+com a extensão proposta, prevê-se uma redução de aproximadamente 30% no volume de ônibus que operam na região, em função da
+possibilidade de reorganização do transporte coletivo por ônibus.
+
+No que se refere à integração com automóveis, em todas as estações foram previstas baias para a parada de veículos visando o
+embarque e o desembarque rápido de passageiros, tanto para automóveis particulares, como para táxis comuns e serviço de viagens por
+aplicativo. 
+
+Com a finalidade de incentivar o uso de bicicletas pelos passageiros, bicicletários e paraciclos (dispositivos metálicos utilizados para a
+fixação e travamento de bicicletas) estão previstos em todas as estações da extensão da Linha 2-Verde.
+
+As integrações, ou seja, as captações de passageiros que chegam por outros modos de transporte contribuem para a melhoria da
+qualidade ambiental e as mudanças climáticas da RMSP, com impactos diretos sobre os cofres públicos se considerados os efeitos
+adversos à saúde pública ocasionados pela poluição do ar e de forma indireta pela emissão de gases do efeito estufa. Estimativas do
+Metrô de São Paulo, conforme citado anteriormente, atribuem somente ao efeito da redução das emissões atmosféricas uma economia
+equivalente a R$ 11,89 milhões com a implantação deste empreendimento até a estação Penha. 
+
+Ainda que o sistema seja intensivo no consumo de energia elétrica e tenha um caráter estratégico para a gestão dos impactos
+significativos na dimensão ambiental e econômico-financeira, a operação dos trens com material rodante mais eficiente e a adoção de
+medidas operacionais têm resultado em indicadores positivos em relação à eficiência energética. O consumo de energia elétrica por carro
+por quilômetro rodado caiu de 3,41 kWh/carro/km, em 2015, para 2,87 em 2021.
+
+REDUÇÃO DOS TEMPOS DE VIAGEM
+
+Os estudos do Metrô indicaram que a expansão da linha gera uma redução dos tempos de viagem em 53.645.939 horas/ano, equivalente
+a R$ 594,24milhões por ano, além de aumentar o acesso da população às oportunidades de trabalho, estudo, saúde, lazer, bem como a
+outros serviços públicos e privados.
+
+OFERTA DE LUGARES E REDISTRIBUIÇÃO DA DEMANDA
+
+Dada a impossibilidade física e operacional de aumento de capacidade de carregamento das linhas do sistema sobre trilhos e sobre pneus
+que atendem ao eixo leste da RMSP, a implantação de novas alternativas de deslocamento é a solução mais viável para lidar com a
+saturação do sistema de transporte. A extensão da Linha 2-Verde quando concluída assumirá um traçado em arco caracterizando uma
+ligação perimetral como alternativa aos deslocamentos radiais. Como consequência, minimizará a saturação da Linha 3-Vermelha em
+cerca de 5,8 mil passageiros por hora no sentido mais carregado (Leste-Oeste) e da Linha 1-Azul em cerca de 7,2 mil passageiros no
+sentido Norte-Sul. Estima-se que no horário de pico da manhã a redução do carregamento máximo da Linha 3-Vermelha seja de
+aproximadamente 11% no sentido mais carregado (Leste-Oeste) e da Linha 1-Azul em pouco mais de 16% no sentido Norte-Sul.
+
+POPULAÇÃO BENEFICIADA
+
+A área de influência direta no entorno do traçado da expansão da Linha 2-Verde entre Vila Prudente e Penha abrange cerca de 1 milhão
+de habitantes. Essa área apresenta densidade populacional de 101,7 habitantes por hectare, densidade superior a observada na capital e
+na RMSP (71,37 e 24,52 habitantes, respectivamente), indicando que a linha atravessa uma área densamente povoada. Analisando a
+população pelas faixas de renda média familiar, constata-se que no trecho da extensão da Linha 2-Verde, cerca de 39% das famílias têm
+renda média inferior a 4 salários-mínimos. 
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 23
+Outro aspecto a ser observado é que a maioria dos postos de trabalho encontrados na área de influência direta do empreendimento é de
+baixa ou média qualificação que, somados, chegam a 88% do total de empregos nessa área. A limitada oferta de postos de trabalho
+associada a baixa qualificação das vagas restringe as oportunidades dos residentes na área de influência, além de criar demanda de
+grandes deslocamentos diários dessa população para acessar empregos em outras regiões, sobretudo no centro da metrópole. Essa
+baixa acessibilidade ao emprego contribui significativamente para reprodução das condições de pobreza dos residentes na área influência
+da expansão da Linha 2-Verde.
+
+A implementação de grandes projetos de infraestrutura tem potencial de gerar empregos diretos e indiretos. Em relação a Linha 2-Verde, é
+ prevista a geração total de aproximadamente 8,0 mil postos de trabalho, sendo 3,2 mil empregos diretos e 4,8 mil indiretos.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Internas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Contrapartida Financeira
+CF
+US$
+107.500.000,00
+1,00
+107.500.000,00
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+BIRD
+US$
+430.000.000,00
+1,00
+430.000.000,00
+Total:
+537.500.000,00
+537.500.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+ARRANJO INSTITUCIONAL
+
+Os agentes envolvidos na expansão da Linha 2-Verde integram a esfera do Governo do Estado de São Paulo e se encontram
+relacionadas a seguir.
+
+(a) Governo do Estado de São Paulo (Mutuário)
+
+(b) Secretaria Estadual da Fazenda e Planejamento (Representante do Mutuário)
+O Governo do Estado de São Paulo delegou à Secretaria da Fazenda e Planejamento todos os atos indispensáveis à contratação de
+financiamentos para projetos de investimento do Estado.
+
+Suas responsabilidades, incluindo os atos delegados e os próprios da Secretaria, no âmbito do projeto são:
+
+- Tramitação dos processos de financiamento junto ao Governo Federal;
+- Propor a tramitação da lei autorizativa;
+- Viabilizar o projeto em termos orçamentários a cada exercício fiscal (contrapartida, serviço de dívida, amortização e demais encargos);
+- Interlocução com as partes interessadas em assuntos relacionados ao financiamento do projeto (Órgão Executor, Governo Federal e
+credores);
+- Assinar contrato de financiamento em nome do Estado de São Paulo;
+- Acompanhar a execução do projeto (apresentação da carta consulta, instrução do processo de financiamento junto ao Governo Federal,
+reunião de negociação contratual, revisão de carteira);
+
+(c) Secretaria dos Transportes Metropolitanos - STM (Órgão Setorial)
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 24
+
+Suas responsabilidades no âmbito do projeto:
+
+- Acompanhar a utilização dos recursos do contrato de financiamento observando as previsões estabelecidas e as disponibilidades
+existentes;
+- Apontar as fontes dos recursos orçamentários e de crédito, inclusive os de contrapartida local, destinados ao desenvolvimento das
+atividades do projeto;
+- Formalização de convênio  de execução com o Metrô, quando aplicável.
+
+(d) Companhia do Metropolitano de São Paulo - Metrô (Órgão Executor)
+
+Suas responsabilidades no âmbito do projeto:
+
+- Gerenciar, administrar e prestar contas ao Mutuário, ao banco financiador, ao Tribunal de Contas e outros organismos acerca dos
+recursos orçamentários e de crédito que sejam necessários para a execução anual do projeto;
+- Assessorar e informar, regular e oportunamente, ao Mutuário e ao financiador sobre o andamento do projeto;
+- Manter atualizado e preparar oportunamente todas as evidências que sejam exigidas pelo financiador sobre o progresso e cumprimento
+do contrato de financiamento;
+- Administrar, coordenar, supervisionar e avaliar a execução do projeto;
+- Preparar a documentação relacionada às aquisições necessárias ao projeto, tais como documentos de licitação, relatórios de avaliação e
+ informações sobre litígios e processos judiciais envolvendo contratos financiados; 
+- Supervisionar, dos pontos de vista técnico, administrativo, ambiental e social a execução do projeto. Aferir a qualidade técnica dos
+estudos de pré-investimento e investimento, a idoneidade da execução do projeto, seu progresso e pagamentos, bem como a observância
+ dos planos de gestão ambiental e social aplicáveis;
+- Realizar a gestão financeira e administrar as contas projeto;
+- Preparar a documentação necessária para apresentar e prestar contas ao financiador;
+- Preparar os pedidos de desembolso e as justificativas de despesas do projeto conforme os requisitos do financiador;
+- Responder pelos sistemas de informação contábil e financeira, preparar as demonstrações contábeis e financeiras do projeto;
+- Efetuar os pagamentos às contratadas e consultores, conforme progresso dos trabalhos, devidamente respaldadas pelas inspeções de
+execução e nas condições contratuais.
+- Contratar os serviços de auditoria independente requeridos pelo financiador e apresentar oportunamente os relatórios dos auditores
+conforme estabelecido no contrato de financiamento.
+- Designar representantes para todos os atos relacionados com a execução do contrato de financiamento, delegado sobre sua
+responsabilidade, inclusive para efetuar as solicitações desembolsos encaminhadas ao financiador;
+- Preparar todos os relatórios a que faz referência o contrato de financiamento, nos formatos e prazos estabelecidos pelo financiador.
+
+ESTRUTURA OPERACIONAL
+
+O Metrô de São Paulo, órgão executor, conta com uma Coordenadoria de Gestão Financeira de Empreendimentos (PMU) que integra a
+estrutura organizacional de Gerência de Planejamento Financeiro (GPF). O PMU tem por missão gerenciar os recursos provenientes das
+instituições financeiras nacionais e internacionais e realizar a interface entre elas e o Metrô.
+
+Os projetos de expansão e modernização do Metro de São Paulo tem recebido apoio financeiro de bancos de fomento há quase duas
+décadas. Ao longo desse período o BIRD apoiou financeiramente os empreendimentos Linha 4-Amarela e Linha 5-Lilás, possuindo
+experiência acumulada no que se refere às suas diretrizes de contratações e políticas de salvaguardas sociais e ambientais.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 25
+O anexo 5 apresenta a Matriz de Responsabilidades do projeto. O anexo 6 apresenta um histórico dos contratos de financiamento
+celebrados pelo Governo do Estado de São Paulo nos últimos 15 anos.
+
+4.2. Execução/Executores
+Executor: Companhia do Metropolitano de São Paulo - METRÔ
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+Fax:
+CNPJ:                
+UF:  
+4.3. Execução/Prazo
+Prazo de Desembolso:
+5
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - MATERIAL RODANTE
+233.645.741,00
+12.275.905,00
+49.103.624,00
+   S - FORNECIMENTO DE 22 NOVOS TRENS
+230.848.235,00
+12.148.308,00
+48.593.234,00
+      P - TREM MONTADO
+177.427.642,00
+9.337.068,00
+37.348.274,00
+      P - DOCUMENTAÇÃO E PROJETO
+26.623.726,00
+1.401.064,00
+5.604.258,00
+      P - SISTEMA DE MONITORAMENTO E MEDIÇÃO DE VIA
+10.621.326,00
+558.944,00
+2.235.774,00
+      P - SOBRESSALENTES
+9.289.334,00
+488.848,00
+1.955.392,00
+      P - TRANSPORTE PARA AS DEPENDÊNCIAS DO METRÔ
+2.980.251,00
+156.835,00
+627.338,00
+      P - SIMULADOR DE TREINAMENTO OPERACIONAL
+2.797.879,00
+147.237,00
+588.950,00
+      P - TREINAMENTO
+422.454,00
+22.231,00
+88.926,00
+      P - MÓDULO DE CABINE UTO
+662.534,00
+34.866,00
+139.462,00
+      P - TERMINAL PORTÁTIL DE MANUTENÇÃO (NOTEBOOKS)
+11.543,00
+607,00
+2.430,00
+      P - CHAVE PADRÃO INOX
+11.546,00
+608,00
+2.430,00
+   S - GERENCIAMENTO DO CONTRATO DE FORNECIMENTO DOS 22 TRENS
+2.797.506,00
+127.597,00
+510.390,00
+      P - GERENCIAMENTO DO CONTRATO DE FORNECIMENTO DOS 22 TRENS
+2.797.506,00
+127.597,00
+510.390,00
+C - SISTEMAS
+301.354.259,00
+9.795.347,00
+39.181.371,00
+   S - SISTEMA CBTC
+30.731.467,00
+1.721.110,00
+6.884.432,00
+      P - PROJETO E DOCUMENTAÇÃO TÉCNICA
+6.146.293,00
+344.222,00
+1.376.886,00
+      P - FORNECIMENTO DE MATERIAIS E EQUIPAMENTOS
+9.219.442,00
+516.333,00
+2.065.330,00
+      P - SOFTWARE
+6.760.922,00
+378.644,00
+1.514.575,00
+      P - TESTES DE FÁBRICA, MONTAGEM, INSTALAÇÃO, TESTES E COMISSIONAMENTO
+3.073.145,00
+172.111,00
+688.443,00
+      P - TREINAMENTO
+5.531.665,00
+309.800,00
+1.239.198,00
+   S - GERENCIAMENTO DO CBTC
+4.221.418,00
+222.151,00
+888.602,00
+      P - GERENCIAMENTO DO FORNECIMENTO DO SISTEMA DE SINALIZAÇÃO CBTC
+4.221.418,00
+222.151,00
+888.602,00
+   S - ANÁLISE INDEPENDENTE DE SEGURANÇA (ISA)
+1.127.968,00
+58.606,00
+234.423,00
+      P - ANÁLISE INDEPENDENTE DE SEGURANÇA (ISA) DO SISTEMA GLOBAL DA LINHA 2
+1.127.968,00
+58.606,00
+234.423,00
+   S - SISTEMA DE ALIMENTAÇÃO ELÉTRICA
+86.045.588,00
+2.477.125,00
+9.908.500,00
+      P - SISTEMA DE MÉDIA TENSÃO
+13.171.177,00
+379.179,00
+1.516.714,00
+      P - SISTEMA DE TRAÇÃO
+27.558.729,00
+793.375,00
+3.173.500,00
+      P - SISTEMA DE BAIXA TENSÃO
+27.081.838,00
+779.646,00
+3.118.584,00
+      P - ADEQUAÇÃO DE TRAÇÃO E TERCEIRO TRILHO
+6.060.673,00
+174.478,00
+697.911,00
+      P - TERCEIRO TRILHO
+11.822.392,00
+340.349,00
+1.361.397,00
+      P - CABINE PRIMÁRIA DE MÉDIA TENSÃO
+102.237,00
+2.943,00
+11.773,00
+      P - REDE AÉREA
+248.542,00
+7.155,00
+28.621,00
+   S - SISTEMAS AUXILIARES
+123.387.576,00
+3.565.494,00
+14.261.965,00
+      P - ESCADAS ROLANTES
+32.574.592,00
+951.121,00
+3.804.482,00
+      P - ELEVADORES
+3.454.889,00
+99.461,00
+397.845,00
+      P - PORTAS DE PLATAFORMA
+29.314.105,00
+843.910,00
+3.375.638,00
+      P - SISTEMA DE DETECÇÃO, ALARME DE INCÊNDIO E ROTA DE FUGA
+5.327.216,00
+153.363,00
+613.450,00
+      P - SISTEMA DE TRATAMENTO DE ÁGUA DE CHUVA
+12.986,00
+374,00
+1.495,00
+      P - SISTEMA DE BOMBAS
+816.580,00
+23.508,00
+94.032,00
+      P - BANDEJAMENTO, SISTEMA DE ILUMINAÇÃO E TOMADAS
+19.735.293,00
+568.150,00
+2.272.599,00
+      P - UNIDADES TRANSMISSÃO REMOTAS
+4.474.148,00
+128.804,00
+515.216,00
+      P - SISTEMA DE CONTROLE LOCAL
+196.206,00
+5.648,00
+22.594,00
+      P - SISTEMA DE AR-CONDICIONADO
+724.128,00
+20.847,00
+83.386,00
+      P - SISTEMA DE VENTILAÇÃO PRINCIPAL
+23.797.638,00
+685.099,00
+2.740.395,00
+      P - SISTEMA DE AQUECIMENTO SOLAR
+284.790,00
+8.199,00
+32.794,00
+      P - SISTEMA DE VENTILAÇÃO DAS SALAS TÉCNICAS
+2.675.005,00
+77.010,00
+308.039,00
+   S - SISTEMA DE TELECOMUNICAÇÕES
+40.216.479,00
+1.157.772,00
+4.631.092,00
+      P - SISTEMA DE CONTROLE DE ACESSO
+2.158.222,00
+62.132,00
+248.528,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 26
+      P - SISTEMA DE CONTROLE DE ARRECADAÇÃO DE PASSAGEIROS (SCAP)
+2.290.318,00
+65.935,00
+263.739,00
+      P - SISTEMA DE MONITORAMENTO ELETRÔNICO
+4.610.524,00
+132.730,00
+530.921,00
+      P - SISTEMA MULTIMÍDIA
+6.369.567,00
+183.370,00
+733.482,00
+      P - SISTEMA DE COMUNICAÇÕES FIXAS
+1.939.948,00
+55.848,00
+223.393,00
+      P - REDE DE TRANSMISSÃO DE DADOS
+12.416.726,00
+357.459,00
+1.429.837,00
+      P - REDE DE FIBRAS ÓPTICAS
+3.053.160,00
+87.896,00
+351.584,00
+      P - SISTEMA DE COMUNICAÇÕES MÓVEIS
+142.390,00
+4.099,00
+16.397,00
+      P - GESTÃO DOS CANTEIROS
+7.235.624,00
+208.303,00
+833.211,00
+   S - GERENCIAMENTO E SUPERVISÃO DA IMPLANTAÇÃO DOS SISTEMAS
+15.623.763,00
+593.089,00
+2.372.357,00
+P - GERENCIAMENTO E SUPERVISÃO DA IMPLANTAÇÃO DOS SISTEMAS DE
+ALIMENTAÇÃO ELÉTRICA, AUXILIARES E TELECOMUNICAÇÕES
+15.623.763,00
+593.089,00
+2.372.357,00
+C - COMPONENTE TÉCNICO E INSTITUCIONAL
+2.500.000,00
+50.000,00
+200.000,00
+S - FORTALECIMENTO INSTITUCIONAL E DESENVOLVIMENTO DE PRÁTICAS
+SUSTENTÁVEIS
+2.500.000,00
+50.000,00
+200.000,00
+      P - ENGENHARIA SUSTENTÁVEL E RESILIÊNCIA CLIMATICA
+1.200.000,00
+24.000,00
+96.000,00
+P - ESTUDO PARA A ESTRUTURAÇÃO DE EMPREENDIMENTO DE HABITAÇÃO DE
+INTERESSE SOCIAL (HIS)
+600.000,00
+12.000,00
+48.000,00
+      P - INTEGRAÇÃO DOS CANAIS DE DENÚNCIA DE ASSÉDIO E ABUSO SEXUAL
+700.000,00
+14.000,00
+56.000,00
+Total
+0,00
+22.121.252,00
+88.484.995,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - MATERIAL RODANTE
+12.353.490,00
+49.413.964,00
+   S - FORNECIMENTO DE 22 NOVOS TRENS
+12.148.308,00
+48.593.234,00
+      P - TREM MONTADO
+9.337.068,00
+37.348.274,00
+      P - DOCUMENTAÇÃO E PROJETO
+1.401.064,00
+5.604.258,00
+      P - SISTEMA DE MONITORAMENTO E MEDIÇÃO DE VIA
+558.944,00
+2.235.774,00
+      P - SOBRESSALENTES
+488.848,00
+1.955.392,00
+      P - TRANSPORTE PARA AS DEPENDÊNCIAS DO METRÔ
+156.835,00
+627.338,00
+      P - SIMULADOR DE TREINAMENTO OPERACIONAL
+147.237,00
+588.950,00
+      P - TREINAMENTO
+22.231,00
+88.926,00
+      P - MÓDULO DE CABINE UTO
+34.866,00
+139.462,00
+      P - TERMINAL PORTÁTIL DE MANUTENÇÃO (NOTEBOOKS)
+607,00
+2.430,00
+      P - CHAVE PADRÃO INOX
+608,00
+2.430,00
+   S - GERENCIAMENTO DO CONTRATO DE FORNECIMENTO DOS 22 TRENS
+205.182,00
+820.730,00
+      P - GERENCIAMENTO DO CONTRATO DE FORNECIMENTO DOS 22 TRENS
+205.182,00
+820.730,00
+C - SISTEMAS
+16.485.916,00
+65.943.652,00
+   S - SISTEMA CBTC
+1.721.110,00
+6.884.432,00
+      P - PROJETO E DOCUMENTAÇÃO TÉCNICA
+344.222,00
+1.376.886,00
+      P - FORNECIMENTO DE MATERIAIS E EQUIPAMENTOS
+516.333,00
+2.065.330,00
+      P - SOFTWARE
+378.644,00
+1.514.575,00
+      P - TESTES DE FÁBRICA, MONTAGEM, INSTALAÇÃO, TESTES E COMISSIONAMENTO
+172.111,00
+688.443,00
+      P - TREINAMENTO
+309.800,00
+1.239.198,00
+   S - GERENCIAMENTO DO CBTC
+222.151,00
+888.602,00
+      P - GERENCIAMENTO DO FORNECIMENTO DO SISTEMA DE SINALIZAÇÃO CBTC
+222.151,00
+888.602,00
+   S - ANÁLISE INDEPENDENTE DE SEGURANÇA (ISA)
+58.692,00
+234.767,00
+      P - ANÁLISE INDEPENDENTE DE SEGURANÇA (ISA) DO SISTEMA GLOBAL DA LINHA 2
+58.692,00
+234.767,00
+   S - SISTEMA DE ALIMENTAÇÃO ELÉTRICA
+4.636.836,00
+18.547.351,00
+      P - SISTEMA DE MÉDIA TENSÃO
+709.770,00
+2.839.082,00
+      P - SISTEMA DE TRAÇÃO
+1.485.089,00
+5.940.356,00
+      P - SISTEMA DE BAIXA TENSÃO
+1.459.390,00
+5.837.561,00
+      P - ADEQUAÇÃO DE TRAÇÃO E TERCEIRO TRILHO
+326.598,00
+1.306.394,00
+      P - TERCEIRO TRILHO
+637.087,00
+2.548.347,00
+      P - CABINE PRIMÁRIA DE MÉDIA TENSÃO
+5.509,00
+22.038,00
+      P - REDE AÉREA
+13.393,00
+53.573,00
+   S - SISTEMAS AUXILIARES
+6.674.112,00
+26.696.439,00
+      P - ESCADAS ROLANTES
+1.780.367,00
+7.121.468,00
+      P - ELEVADORES
+186.178,00
+744.710,00
+      P - PORTAS DE PLATAFORMA
+1.579.683,00
+6.318.731,00
+      P - SISTEMA DE DETECÇÃO, ALARME DE INCÊNDIO E ROTA DE FUGA
+287.074,00
+1.148.295,00
+      P - SISTEMA DE TRATAMENTO DE ÁGUA DE CHUVA
+700,00
+2.799,00
+      P - SISTEMA DE BOMBAS
+44.004,00
+176.016,00
+      P - BANDEJAMENTO, SISTEMA DE ILUMINAÇÃO E TOMADAS
+1.063.498,00
+4.253.994,00
+      P - UNIDADES TRANSMISSÃO REMOTAS
+241.104,00
+964.414,00
+      P - SISTEMA DE CONTROLE LOCAL
+10.573,00
+42.293,00
+      P - SISTEMA DE AR-CONDICIONADO
+39.022,00
+156.087,00
+      P - SISTEMA DE VENTILAÇÃO PRINCIPAL
+1.282.411,00
+5.129.642,00
+      P - SISTEMA DE AQUECIMENTO SOLAR
+15.347,00
+61.387,00
+      P - SISTEMA DE VENTILAÇÃO DAS SALAS TÉCNICAS
+144.151,00
+576.603,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 27
+   S - SISTEMA DE TELECOMUNICAÇÕES
+2.167.191,00
+8.668.766,00
+      P - SISTEMA DE CONTROLE DE ACESSO
+116.303,00
+465.210,00
+      P - SISTEMA DE CONTROLE DE ARRECADAÇÃO DE PASSAGEIROS (SCAP)
+123.421,00
+493.684,00
+      P - SISTEMA DE MONITORAMENTO ELETRÔNICO
+248.453,00
+993.810,00
+      P - SISTEMA MULTIMÍDIA
+343.244,00
+1.372.977,00
+      P - SISTEMA DE COMUNICAÇÕES FIXAS
+104.540,00
+418.161,00
+      P - REDE DE TRANSMISSÃO DE DADOS
+669.114,00
+2.676.458,00
+      P - REDE DE FIBRAS ÓPTICAS
+164.529,00
+658.117,00
+      P - SISTEMA DE COMUNICAÇÕES MÓVEIS
+7.673,00
+30.692,00
+      P - GESTÃO DOS CANTEIROS
+389.914,00
+1.559.657,00
+   S - GERENCIAMENTO E SUPERVISÃO DA IMPLANTAÇÃO DOS SISTEMAS
+1.005.824,00
+4.023.295,00
+P - GERENCIAMENTO E SUPERVISÃO DA IMPLANTAÇÃO DOS SISTEMAS DE
+ALIMENTAÇÃO ELÉTRICA, AUXILIARES E TELECOMUNICAÇÕES
+1.005.824,00
+4.023.295,00
+C - COMPONENTE TÉCNICO E INSTITUCIONAL
+200.000,00
+800.000,00
+S - FORTALECIMENTO INSTITUCIONAL E DESENVOLVIMENTO DE PRÁTICAS
+SUSTENTÁVEIS
+200.000,00
+800.000,00
+      P - ENGENHARIA SUSTENTÁVEL E RESILIÊNCIA CLIMATICA
+96.000,00
+384.000,00
+P - ESTUDO PARA A ESTRUTURAÇÃO DE EMPREENDIMENTO DE HABITAÇÃO DE
+INTERESSE SOCIAL (HIS)
+48.000,00
+192.000,00
+      P - INTEGRAÇÃO DOS CANAIS DE DENÚNCIA DE ASSÉDIO E ABUSO SEXUAL
+56.000,00
+224.000,00
+Total
+0,00
+29.039.406,00
+116.157.616,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - MATERIAL RODANTE
+7.718.668,00
+30.874.670,00
+   S - FORNECIMENTO DE 22 NOVOS TRENS
+7.592.694,00
+30.370.773,00
+      P - TREM MONTADO
+5.835.668,00
+23.342.671,00
+      P - DOCUMENTAÇÃO E PROJETO
+875.665,00
+3.502.661,00
+      P - SISTEMA DE MONITORAMENTO E MEDIÇÃO DE VIA
+349.340,00
+1.397.359,00
+      P - SOBRESSALENTES
+305.530,00
+1.222.120,00
+      P - TRANSPORTE PARA AS DEPENDÊNCIAS DO METRÔ
+98.022,00
+392.087,00
+      P - SIMULADOR DE TREINAMENTO OPERACIONAL
+92.023,00
+368.094,00
+      P - TREINAMENTO
+13.895,00
+55.579,00
+      P - MÓDULO DE CABINE UTO
+21.791,00
+87.164,00
+      P - TERMINAL PORTÁTIL DE MANUTENÇÃO (NOTEBOOKS)
+380,00
+1.519,00
+      P - CHAVE PADRÃO INOX
+380,00
+1.519,00
+   S - GERENCIAMENTO DO CONTRATO DE FORNECIMENTO DOS 22 TRENS
+125.974,00
+503.897,00
+      P - GERENCIAMENTO DO CONTRATO DE FORNECIMENTO DOS 22 TRENS
+125.974,00
+503.897,00
+C - SISTEMAS
+16.046.033,00
+63.902.888,00
+   S - SISTEMA CBTC
+1.075.693,00
+4.302.772,00
+      P - PROJETO E DOCUMENTAÇÃO TÉCNICA
+215.139,00
+860.554,00
+      P - FORNECIMENTO DE MATERIAIS E EQUIPAMENTOS
+322.708,00
+1.290.832,00
+      P - SOFTWARE
+236.652,00
+946.610,00
+      P - TESTES DE FÁBRICA, MONTAGEM, INSTALAÇÃO, TESTES E COMISSIONAMENTO
+107.569,00
+430.277,00
+      P - TREINAMENTO
+193.625,00
+774.499,00
+   S - GERENCIAMENTO DO CBTC
+138.844,00
+555.377,00
+      P - GERENCIAMENTO DO FORNECIMENTO DO SISTEMA DE SINALIZAÇÃO CBTC
+138.844,00
+555.377,00
+   S - ANÁLISE INDEPENDENTE DE SEGURANÇA (ISA)
+36.682,00
+146.730,00
+      P - ANÁLISE INDEPENDENTE DE SEGURANÇA (ISA) DO SISTEMA GLOBAL DA LINHA 2
+36.682,00
+146.730,00
+   S - SISTEMA DE ALIMENTAÇÃO ELÉTRICA
+4.866.081,00
+19.464.329,00
+      P - SISTEMA DE MÉDIA TENSÃO
+744.861,00
+2.979.445,00
+      P - SISTEMA DE TRAÇÃO
+1.558.511,00
+6.234.046,00
+      P - SISTEMA DE BAIXA TENSÃO
+1.531.542,00
+6.126.169,00
+      P - ADEQUAÇÃO DE TRAÇÃO E TERCEIRO TRILHO
+342.745,00
+1.370.982,00
+      P - TERCEIRO TRILHO
+668.584,00
+2.674.337,00
+      P - CABINE PRIMÁRIA DE MÉDIA TENSÃO
+5.782,00
+23.127,00
+      P - REDE AÉREA
+14.056,00
+56.223,00
+   S - SISTEMAS AUXILIARES
+7.004.079,00
+27.735.062,00
+      P - ESCADAS ROLANTES
+1.868.388,00
+7.192.303,00
+      P - ELEVADORES
+195.382,00
+781.529,00
+      P - PORTAS DE PLATAFORMA
+1.657.782,00
+6.631.129,00
+      P - SISTEMA DE DETECÇÃO, ALARME DE INCÊNDIO E ROTA DE FUGA
+301.267,00
+1.205.067,00
+      P - SISTEMA DE TRATAMENTO DE ÁGUA DE CHUVA
+734,00
+2.938,00
+      P - SISTEMA DE BOMBAS
+46.180,00
+184.718,00
+      P - BANDEJAMENTO, SISTEMA DE ILUMINAÇÃO E TOMADAS
+1.116.078,00
+4.464.310,00
+      P - UNIDADES TRANSMISSÃO REMOTAS
+253.024,00
+1.012.095,00
+      P - SISTEMA DE CONTROLE LOCAL
+11.096,00
+44.384,00
+      P - SISTEMA DE AR-CONDICIONADO
+40.951,00
+163.805,00
+      P - SISTEMA DE VENTILAÇÃO PRINCIPAL
+1.345.813,00
+5.383.251,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 28
+      P - SISTEMA DE AQUECIMENTO SOLAR
+16.106,00
+64.422,00
+      P - SISTEMA DE VENTILAÇÃO DAS SALAS TÉCNICAS
+151.278,00
+605.111,00
+   S - SISTEMA DE TELECOMUNICAÇÕES
+2.274.337,00
+9.097.350,00
+      P - SISTEMA DE CONTROLE DE ACESSO
+122.053,00
+488.210,00
+      P - SISTEMA DE CONTROLE DE ARRECADAÇÃO DE PASSAGEIROS (SCAP)
+129.523,00
+518.092,00
+      P - SISTEMA DE MONITORAMENTO ELETRÔNICO
+260.736,00
+1.042.944,00
+      P - SISTEMA MULTIMÍDIA
+360.214,00
+1.440.856,00
+      P - SISTEMA DE COMUNICAÇÕES FIXAS
+109.709,00
+438.835,00
+      P - REDE DE TRANSMISSÃO DE DADOS
+702.195,00
+2.808.781,00
+      P - REDE DE FIBRAS ÓPTICAS
+172.663,00
+690.654,00
+      P - SISTEMA DE COMUNICAÇÕES MÓVEIS
+8.052,00
+32.210,00
+      P - GESTÃO DOS CANTEIROS
+409.192,00
+1.636.768,00
+   S - GERENCIAMENTO E SUPERVISÃO DA IMPLANTAÇÃO DOS SISTEMAS
+650.317,00
+2.601.268,00
+P - GERENCIAMENTO E SUPERVISÃO DA IMPLANTAÇÃO DOS SISTEMAS DE
+ALIMENTAÇÃO ELÉTRICA, AUXILIARES E TELECOMUNICAÇÕES
+650.317,00
+2.601.268,00
+C - COMPONENTE TÉCNICO E INSTITUCIONAL
+93.750,00
+656.250,00
+S - FORTALECIMENTO INSTITUCIONAL E DESENVOLVIMENTO DE PRÁTICAS
+SUSTENTÁVEIS
+93.750,00
+656.250,00
+      P - ENGENHARIA SUSTENTÁVEL E RESILIÊNCIA CLIMATICA
+45.000,00
+315.000,00
+P - ESTUDO PARA A ESTRUTURAÇÃO DE EMPREENDIMENTO DE HABITAÇÃO DE
+INTERESSE SOCIAL (HIS)
+22.500,00
+157.500,00
+      P - INTEGRAÇÃO DOS CANAIS DE DENÚNCIA DE ASSÉDIO E ABUSO SEXUAL
+26.250,00
+183.750,00
+Total
+0,00
+23.858.451,00
+95.433.808,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - MATERIAL RODANTE
+7.680.092,00
+30.720.367,00
+   S - FORNECIMENTO DE 22 NOVOS TRENS
+7.592.694,00
+30.370.773,00
+      P - TREM MONTADO
+5.835.668,00
+23.342.671,00
+      P - DOCUMENTAÇÃO E PROJETO
+875.665,00
+3.502.661,00
+      P - SISTEMA DE MONITORAMENTO E MEDIÇÃO DE VIA
+349.340,00
+1.397.359,00
+      P - SOBRESSALENTES
+305.530,00
+1.222.120,00
+      P - TRANSPORTE PARA AS DEPENDÊNCIAS DO METRÔ
+98.022,00
+392.087,00
+      P - SIMULADOR DE TREINAMENTO OPERACIONAL
+92.023,00
+368.094,00
+      P - TREINAMENTO
+13.895,00
+55.579,00
+      P - MÓDULO DE CABINE UTO
+21.791,00
+87.164,00
+      P - TERMINAL PORTÁTIL DE MANUTENÇÃO (NOTEBOOKS)
+380,00
+1.519,00
+      P - CHAVE PADRÃO INOX
+380,00
+1.519,00
+   S - GERENCIAMENTO DO CONTRATO DE FORNECIMENTO DOS 22 TRENS
+87.398,00
+349.594,00
+      P - GERENCIAMENTO DO CONTRATO DE FORNECIMENTO DOS 22 TRENS
+87.398,00
+349.594,00
+C - SISTEMAS
+14.463.419,00
+57.666.182,00
+   S - SISTEMA CBTC
+1.075.693,00
+4.302.772,00
+      P - PROJETO E DOCUMENTAÇÃO TÉCNICA
+215.139,00
+860.554,00
+      P - FORNECIMENTO DE MATERIAIS E EQUIPAMENTOS
+322.708,00
+1.290.832,00
+      P - SOFTWARE
+236.652,00
+946.610,00
+      P - TESTES DE FÁBRICA, MONTAGEM, INSTALAÇÃO, TESTES E COMISSIONAMENTO
+107.569,00
+430.277,00
+      P - TREINAMENTO
+193.625,00
+774.499,00
+   S - GERENCIAMENTO DO CBTC
+138.844,00
+555.377,00
+      P - GERENCIAMENTO DO FORNECIMENTO DO SISTEMA DE SINALIZAÇÃO CBTC
+138.844,00
+555.377,00
+   S - ANÁLISE INDEPENDENTE DE SEGURANÇA (ISA)
+36.682,00
+146.730,00
+      P - ANÁLISE INDEPENDENTE DE SEGURANÇA (ISA) DO SISTEMA GLOBAL DA LINHA 2
+36.682,00
+146.730,00
+   S - SISTEMA DE ALIMENTAÇÃO ELÉTRICA
+4.321.621,00
+17.286.485,00
+      P - SISTEMA DE MÉDIA TENSÃO
+661.520,00
+2.646.078,00
+      P - SISTEMA DE TRAÇÃO
+1.384.131,00
+5.536.525,00
+      P - SISTEMA DE BAIXA TENSÃO
+1.360.179,00
+5.440.718,00
+      P - ADEQUAÇÃO DE TRAÇÃO E TERCEIRO TRILHO
+304.396,00
+1.217.584,00
+      P - TERCEIRO TRILHO
+593.777,00
+2.375.109,00
+      P - CABINE PRIMÁRIA DE MÉDIA TENSÃO
+5.135,00
+20.539,00
+      P - REDE AÉREA
+12.483,00
+49.932,00
+   S - SISTEMAS AUXILIARES
+6.220.398,00
+24.694.094,00
+      P - ESCADAS ROLANTES
+1.659.336,00
+6.449.844,00
+      P - ELEVADORES
+173.521,00
+694.084,00
+      P - PORTAS DE PLATAFORMA
+1.472.295,00
+5.889.178,00
+      P - SISTEMA DE DETECÇÃO, ALARME DE INCÊNDIO E ROTA DE FUGA
+267.558,00
+1.070.233,00
+      P - SISTEMA DE TRATAMENTO DE ÁGUA DE CHUVA
+652,00
+2.609,00
+      P - SISTEMA DE BOMBAS
+41.013,00
+164.050,00
+      P - BANDEJAMENTO, SISTEMA DE ILUMINAÇÃO E TOMADAS
+991.201,00
+3.964.803,00
+      P - UNIDADES TRANSMISSÃO REMOTAS
+224.713,00
+898.853,00
+      P - SISTEMA DE CONTROLE LOCAL
+9.854,00
+39.418,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 29
+      P - SISTEMA DE AR-CONDICIONADO
+36.369,00
+145.477,00
+      P - SISTEMA DE VENTILAÇÃO PRINCIPAL
+1.195.231,00
+4.780.925,00
+      P - SISTEMA DE AQUECIMENTO SOLAR
+14.304,00
+57.214,00
+      P - SISTEMA DE VENTILAÇÃO DAS SALAS TÉCNICAS
+134.351,00
+537.406,00
+   S - SISTEMA DE TELECOMUNICAÇÕES
+2.019.864,00
+8.079.456,00
+      P - SISTEMA DE CONTROLE DE ACESSO
+108.396,00
+433.585,00
+      P - SISTEMA DE CONTROLE DE ARRECADAÇÃO DE PASSAGEIROS (SCAP)
+115.031,00
+460.123,00
+      P - SISTEMA DE MONITORAMENTO ELETRÔNICO
+231.563,00
+926.250,00
+      P - SISTEMA MULTIMÍDIA
+319.910,00
+1.279.641,00
+      P - SISTEMA DE COMUNICAÇÕES FIXAS
+97.433,00
+389.734,00
+      P - REDE DE TRANSMISSÃO DE DADOS
+623.627,00
+2.494.510,00
+      P - REDE DE FIBRAS ÓPTICAS
+153.344,00
+613.377,00
+      P - SISTEMA DE COMUNICAÇÕES MÓVEIS
+7.152,00
+28.606,00
+      P - GESTÃO DOS CANTEIROS
+363.408,00
+1.453.630,00
+   S - GERENCIAMENTO E SUPERVISÃO DA IMPLANTAÇÃO DOS SISTEMAS
+650.317,00
+2.601.268,00
+P - GERENCIAMENTO E SUPERVISÃO DA IMPLANTAÇÃO DOS SISTEMAS DE
+ALIMENTAÇÃO ELÉTRICA, AUXILIARES E TELECOMUNICAÇÕES
+650.317,00
+2.601.268,00
+C - COMPONENTE TÉCNICO E INSTITUCIONAL
+62.500,00
+437.500,00
+S - FORTALECIMENTO INSTITUCIONAL E DESENVOLVIMENTO DE PRÁTICAS
+SUSTENTÁVEIS
+62.500,00
+437.500,00
+      P - ENGENHARIA SUSTENTÁVEL E RESILIÊNCIA CLIMATICA
+30.000,00
+210.000,00
+P - ESTUDO PARA A ESTRUTURAÇÃO DE EMPREENDIMENTO DE HABITAÇÃO DE
+INTERESSE SOCIAL (HIS)
+15.000,00
+105.000,00
+      P - INTEGRAÇÃO DOS CANAIS DE DENÚNCIA DE ASSÉDIO E ABUSO SEXUAL
+17.500,00
+122.500,00
+Total
+0,00
+22.206.011,00
+88.824.049,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - MATERIAL RODANTE
+6.700.991,00
+26.803.970,00
+46.729.146,00
+186.916.595,00
+   S - FORNECIMENTO DE 22 NOVOS TRENS
+6.687.642,00
+26.750.575,00
+46.169.646,00
+184.678.589,00
+      P - TREM MONTADO
+5.140.056,00
+20.560.224,00
+35.485.528,00
+141.942.114,00
+      P - DOCUMENTAÇÃO E PROJETO
+771.286,00
+3.085.144,00
+5.324.744,00
+21.298.982,00
+      P - SISTEMA DE MONITORAMENTO E MEDIÇÃO DE VIA
+307.698,00
+1.230.794,00
+2.124.266,00
+8.497.060,00
+      P - SOBRESSALENTES
+269.111,00
+1.076.443,00
+1.857.867,00
+7.431.467,00
+      P - TRANSPORTE PARA AS DEPENDÊNCIAS DO METRÔ
+86.337,00
+345.350,00
+596.051,00
+2.384.200,00
+      P - SIMULADOR DE TREINAMENTO OPERACIONAL
+81.054,00
+324.217,00
+559.574,00
+2.238.305,00
+      P - TREINAMENTO
+12.238,00
+48.954,00
+84.490,00
+337.964,00
+      P - MÓDULO DE CABINE UTO
+19.194,00
+76.774,00
+132.508,00
+530.026,00
+      P - TERMINAL PORTÁTIL DE MANUTENÇÃO (NOTEBOOKS)
+334,00
+1.337,00
+2.308,00
+9.235,00
+      P - CHAVE PADRÃO INOX
+334,00
+1.338,00
+2.310,00
+9.236,00
+   S - GERENCIAMENTO DO CONTRATO DE FORNECIMENTO DOS 22 TRENS
+13.349,00
+53.395,00
+559.500,00
+2.238.006,00
+      P - GERENCIAMENTO DO CONTRATO DE FORNECIMENTO DOS 22 TRENS
+13.349,00
+53.395,00
+559.500,00
+2.238.006,00
+C - SISTEMAS
+3.573.889,00
+14.295.562,00
+60.364.604,00
+240.989.655,00
+   S - SISTEMA CBTC
+552.690,00
+2.210.763,00
+6.146.296,00
+24.585.171,00
+      P - PROJETO E DOCUMENTAÇÃO TÉCNICA
+110.538,00
+442.153,00
+1.229.260,00
+4.917.033,00
+      P - FORNECIMENTO DE MATERIAIS E EQUIPAMENTOS
+165.807,00
+663.229,00
+1.843.889,00
+7.375.553,00
+      P - SOFTWARE
+121.592,00
+486.368,00
+1.352.184,00
+5.408.738,00
+      P - TESTES DE FÁBRICA, MONTAGEM, INSTALAÇÃO, TESTES E COMISSIONAMENTO
+55.269,00
+221.076,00
+614.629,00
+2.458.516,00
+      P - TREINAMENTO
+99.484,00
+397.937,00
+1.106.334,00
+4.425.331,00
+   S - GERENCIAMENTO DO CBTC
+122.294,00
+489.176,00
+844.284,00
+3.377.134,00
+      P - GERENCIAMENTO DO FORNECIMENTO DO SISTEMA DE SINALIZAÇÃO CBTC
+122.294,00
+489.176,00
+844.284,00
+3.377.134,00
+   S - ANÁLISE INDEPENDENTE DE SEGURANÇA (ISA)
+34.931,00
+139.725,00
+225.593,00
+902.375,00
+      P - ANÁLISE INDEPENDENTE DE SEGURANÇA (ISA) DO SISTEMA GLOBAL DA LINHA 2
+34.931,00
+139.725,00
+225.593,00
+902.375,00
+   S - SISTEMA DE ALIMENTAÇÃO ELÉTRICA
+907.452,00
+3.629.808,00
+17.209.115,00
+68.836.473,00
+      P - SISTEMA DE MÉDIA TENSÃO
+138.906,00
+555.622,00
+2.634.236,00
+10.536.941,00
+      P - SISTEMA DE TRAÇÃO
+290.639,00
+1.162.557,00
+5.511.745,00
+22.046.984,00
+      P - SISTEMA DE BAIXA TENSÃO
+285.610,00
+1.142.439,00
+5.416.367,00
+21.665.471,00
+      P - ADEQUAÇÃO DE TRAÇÃO E TERCEIRO TRILHO
+63.917,00
+255.668,00
+1.212.134,00
+4.848.539,00
+      P - TERCEIRO TRILHO
+124.681,00
+498.724,00
+2.364.478,00
+9.457.914,00
+      P - CABINE PRIMÁRIA DE MÉDIA TENSÃO
+1.078,00
+4.313,00
+20.447,00
+81.790,00
+      P - REDE AÉREA
+2.621,00
+10.485,00
+49.708,00
+198.834,00
+   S - SISTEMAS AUXILIARES
+1.307.186,00
+5.228.747,00
+24.771.269,00
+98.616.307,00
+      P - ESCADAS ROLANTES
+349.456,00
+1.397.827,00
+6.608.668,00
+25.965.924,00
+      P - ELEVADORES
+36.436,00
+145.743,00
+690.978,00
+2.763.911,00
+      P - PORTAS DE PLATAFORMA
+309.152,00
+1.236.607,00
+5.862.822,00
+23.451.283,00
+      P - SISTEMA DE DETECÇÃO, ALARME DE INCÊNDIO E ROTA DE FUGA
+56.182,00
+224.727,00
+1.065.444,00
+4.261.772,00
+      P - SISTEMA DE TRATAMENTO DE ÁGUA DE CHUVA
+137,00
+548,00
+2.597,00
+10.389,00
+      P - SISTEMA DE BOMBAS
+8.612,00
+34.447,00
+163.317,00
+653.263,00
+      P - BANDEJAMENTO, SISTEMA DE ILUMINAÇÃO E TOMADAS
+208.132,00
+832.528,00
+3.947.059,00
+15.788.234,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 30
+      P - UNIDADES TRANSMISSÃO REMOTAS
+47.185,00
+188.740,00
+894.830,00
+3.579.318,00
+      P - SISTEMA DE CONTROLE LOCAL
+2.069,00
+8.277,00
+39.240,00
+156.966,00
+      P - SISTEMA DE AR-CONDICIONADO
+7.637,00
+30.547,00
+144.826,00
+579.302,00
+      P - SISTEMA DE VENTILAÇÃO PRINCIPAL
+250.974,00
+1.003.897,00
+4.759.528,00
+19.038.110,00
+      P - SISTEMA DE AQUECIMENTO SOLAR
+3.003,00
+12.014,00
+56.959,00
+227.831,00
+      P - SISTEMA DE VENTILAÇÃO DAS SALAS TÉCNICAS
+28.211,00
+112.845,00
+535.001,00
+2.140.004,00
+   S - SISTEMA DE TELECOMUNICAÇÕES
+424.130,00
+1.696.521,00
+8.043.294,00
+32.173.185,00
+      P - SISTEMA DE CONTROLE DE ACESSO
+22.761,00
+91.044,00
+431.645,00
+1.726.577,00
+      P - SISTEMA DE CONTROLE DE ARRECADAÇÃO DE PASSAGEIROS (SCAP)
+24.154,00
+96.616,00
+458.064,00
+1.832.254,00
+      P - SISTEMA DE MONITORAMENTO ELETRÔNICO
+48.623,00
+194.494,00
+922.105,00
+3.688.419,00
+      P - SISTEMA MULTIMÍDIA
+67.175,00
+268.698,00
+1.273.913,00
+5.095.654,00
+      P - SISTEMA DE COMUNICAÇÕES FIXAS
+20.459,00
+81.836,00
+387.989,00
+1.551.959,00
+      P - REDE DE TRANSMISSÃO DE DADOS
+130.949,00
+523.796,00
+2.483.344,00
+9.933.382,00
+      P - REDE DE FIBRAS ÓPTICAS
+32.199,00
+128.797,00
+610.631,00
+2.442.529,00
+      P - SISTEMA DE COMUNICAÇÕES MÓVEIS
+1.502,00
+6.007,00
+28.478,00
+113.912,00
+      P - GESTÃO DOS CANTEIROS
+76.308,00
+305.233,00
+1.447.125,00
+5.788.499,00
+   S - GERENCIAMENTO E SUPERVISÃO DA IMPLANTAÇÃO DOS SISTEMAS
+225.206,00
+900.822,00
+3.124.753,00
+12.499.010,00
+P - GERENCIAMENTO E SUPERVISÃO DA IMPLANTAÇÃO DOS SISTEMAS DE
+ALIMENTAÇÃO ELÉTRICA, AUXILIARES E TELECOMUNICAÇÕES
+225.206,00
+900.822,00
+3.124.753,00
+12.499.010,00
+C - COMPONENTE TÉCNICO E INSTITUCIONAL
+0,00
+0,00
+406.250,00
+2.093.750,00
+S - FORTALECIMENTO INSTITUCIONAL E DESENVOLVIMENTO DE PRÁTICAS
+SUSTENTÁVEIS
+0,00
+0,00
+406.250,00
+2.093.750,00
+      P - ENGENHARIA SUSTENTÁVEL E RESILIÊNCIA CLIMATICA
+0,00
+0,00
+195.000,00
+1.005.000,00
+P - ESTUDO PARA A ESTRUTURAÇÃO DE EMPREENDIMENTO DE HABITAÇÃO DE
+INTERESSE SOCIAL (HIS)
+0,00
+0,00
+97.500,00
+502.500,00
+      P - INTEGRAÇÃO DOS CANAIS DE DENÚNCIA DE ASSÉDIO E ABUSO SEXUAL
+0,00
+0,00
+113.750,00
+586.250,00
+Total
+537.500.000,00
+10.274.880,00
+41.099.532,00
+107.500.000,00
+430.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+ATOS LEGAIS NECESSÁRIOS
+
+A autorização para contratação de operação de crédito junto a instituições financeiras nacionais ou internacionais, até o valor equivalente
+a US$ 721,0 milhões, foi concedida por meio da Lei Estadual nº 17.472, de 16/12/2021. Os recursos autorizados deverão ser direcionados,
+obrigatoriamente, para a expansão da Linha 2-Verde, aquisição de material rodante, sistemas, seus gerenciamentos e estudos técnicos, a
+ cargo da Companhia do Metrô, observada a legislação vigente, em especial as disposições da Lei Complementar nº 101, de 04/05/2000. 
+
+Durante a preparação do programa de financiamento não caberá formalização de convênio entre o Estado de São Paulo e o Executor. O
+convênio necessário para execução do projeto será devidamente formalizado após assinatura do contrato de financiamento e antes do
+primeiro desembolso, e terá por objetivo definir as responsabilidades dos partícipes. A Companhia do Metrô, na condição de executor do
+projeto, conta com experiência necessária para formalização de convênios subsidiários bem como sua execução.
+
+RISCOS E AÇÕES MITIGADORAS
+
+O Metrô de São Paulo tem instituído o Código de Conduta e Integridade que reflete os princípios éticos e legais, bem como o ordenamento
+jurídico que norteia a Administração Pública. O objetivo do documento é reforçar os princípios e valores adotados pela empresa, os quais
+orientam o comportamento ético de todos os membros da alta administração, conselho fiscal, comitê de auditoria estatutário, comitê de
+elegibilidade e aconselhamento, colaboradores, prepostos e terceiros contratados.
+
+Todas as pessoas, físicas ou jurídicas, que atuam para a empresa, direta ou indiretamente, são responsáveis por cumprir estritamente a
+lei e garantir que suas ações e decisões estejam alinhadas aos valores, princípios e regras contidos no Código de Conduta e Integridade.
+Aquele que praticar quaisquer violações às disposições nele contidas estará sujeito a sanções disciplinares ou administrativas.
+
+Em nível operacional, o Metrô implementou e mantém atualizado um conjunto de Instrumentos Normativos, incluindo políticas corporativas
+, processos, procedimentos, manuais, entre outros, abrangendo as disciplinas de processos licitatórios, elaboração de editais e contratos,
+gestão contratual, licenciamento ambiental, desapropriações, gestão de projetos, incluindo gestão de riscos de projetos, gestão de riscos
+corporativos e proteção de dados, todos à luz das leis e decretos vigentes.
+
+Na sua estrutura organizacional, o Metro de São Paulo conta com a Gerência de Gestão de Riscos Corporativos e Conformidade (GRC)
+que é uma das instâncias internas de governança corporativa em nível estratégico na Companhia, a partir da Lei 13.303/2016 (Lei das
+Estatais). A missão dessa gerência é administrar o processo de identificação, avaliação e mitigação de riscos, propor e verificar a
+aplicação de medidas para a melhoria dos controles internos, da segurança da informação e conformidade.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 31
+
+Também integra a estrutura organizacional da empresa a Gerência Jurídica (GJU) que possui as atribuições, dentre outras, de prestar
+assistência jurídica a fim de orientar a alta direção e as demais áreas da empresa, bem como assegurar que o Sistema de Gestão da
+Qualidade (SGQ) da Gerência Jurídica esteja em conformidade com os requisitos da ABNT, NBR e ISO 9001 em suas versões vigentes.
+ 
+No que se refere aos riscos contratuais, eles são mitigados por meio de áreas específicas de gestão de contratos nas gerencias de
+operação, manutenção e do empreendimento Linha 2-Verde, com processos de gestão de contratos instituídos e normatizados pela
+empresa. As decisões de aprovação ou reprovação de aditivos são feitas em reunião colegiada dos diretores do Metrô, conforme
+instrumento normativo.
+
+5.2. RISCOS/CONTRATAÇÕES
+CONTRATAÇÕES, RISCOS E AÇÕES MITIGADORAS
+
+Considerando que as obras civis se encontram contratadas e em plena execução, a conclusão do empreendimento e a entrada em
+operação da expansão da Linha 2-Verde está condicionada à aquisição de 22 novos trens e a contratação e implantação dos sistemas de
+sinalização CBTC, de alimentação elétrica, auxiliares e de telecomunicações, seus gerenciamentos e estudos técnicos.
+
+Em face da necessidade de contratação de 22 novos trens e sistemas de Sinalização CBTC, de alimentação elétrica, auxiliares e de
+telecomunicações, o Metrô de São Paulo está com seus processos de licitação em pleno andamento e na fase final de elaboração dos
+editais de licitação. O Metrô de São Paulo conta com corpo técnico de analistas, arquitetos e engenheiros contratados e com experiência
+na implantação e expansão de projetos metroviários. 
+
+Os riscos relacionados às licitações e contratações são mitigados por meio da elaboração dos editais conforme modelos previstos pela
+legislação e instrumentos normativos do Metrô. Os processos de contratação e suas etapas, incluindo a de elaboração dos editais, são
+regidas principalmente pelos instrumentos normativos denominados Processo de Contratação e Formação do Processo de Contratação do
+Metrô de São Paulo. Esses instrumentos normativos contemplam, inclusive, as diretrizes do BIRD e BID para contratações financiadas
+por esses bancos, prevendo, inclusive, a obtenção de Não Objeção ("No Objection"). A emissão e aprovação da requisição de compra
+especificando o objeto e valor estimado da contratação, a aprovação do edital, a  adjudicação e homologação do resultado da licitação são
+ decididas e aprovadas em reunião colegiada com a participação dos diretores do Metrô.
+ 
+Com a finalidade de estruturar o trabalho de preparação e execução das licitações necessárias à extensão da Linha 2-Verde seguindo as
+diretrizes e procedimentos estabelecidos pelo BIRD, instituição financeira interessada em financiar o projeto, o Metrô de São Paulo conta
+com a Gerência de Contratação e Compras (GCP), especializada em tais processos. Além disso, contará também com amparo legal da
+Gerência Jurídica e da Comissão de Licitações formada para as contratações. Ambas as gerencias contam com equipes treinadas e com
+experiência para preparar editais e atuar nas contratações realizada nos modelos definidos pelas Diretrizes de Aquisições e Contratação
+do BIRD.
+
+Os efeitos sobre a duração do processo licitatório decorrentes de eventuais recursos administrativos serão mitigados por meio da ação
+imediata da Gerência Jurídica em responder tais recursos e reestabelecer o andamento da licitação. 
+ 
+Os riscos relacionados a aumento de escopo e custo durante as execuções contratuais serão mitigados por meio da elaboração dos
+editais considerando o projeto básico aprovado para os trens, sistema de sinalização CBTC, sistema de alimentação elétrica, sistemas
+auxiliares e sistema de telecomunicações. Para todas as soluções previstas, esse risco também é mitigado por meio da decisão de
+aprovação ou reprovação de aditivos em reunião colegiada dos diretores do Metrô de São Paulo, conforme instrumento normativo.
+ 
+Em relação ao sistema de sinalização CBTC, há o risco de incompatibilidade do sistema de sinalização novo com o implantado no trecho
+em operação da Linha 2-Verde entre as estações Vila Madalena e Penha. O plano de ação é manter as especificações compatíveis com
+aquelas do sistema implantado e viabilizar a contratação direta com o mesmo fornecedor. 
+ 
+Há risco de atraso da entrada em operação dos primeiros trens devido ao atraso na entrega ou ao atraso nos seus comissionamentos. O
+plano de ação compreende manter o cronograma contratual atualizado periodicamente, com reuniões técnicas e gerenciais periódicas
+entre o Metrô e a contratada para definir as ações de contorno e soluções, caso necessário. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 32
+ 
+Há risco de atraso no comissionamento do sistema de sinalização CBTC podendo impactar a meta de operação da Linha 2-Verde até
+Penha. O plano de ação é considerar os prazos médios de montagem e comissionamento, conforme histórico do Metrô, nos marcos
+contratuais. Além disso, pretende-se atualizar periodicamente o cronograma contratual e realizar reuniões técnicas e gerenciais entre o
+Metrô e a contratada para definir as ações de contorno e soluções, caso necessário.
+ 
+Os riscos relacionados a atraso na implantação do sistema de alimentação elétrica, sistemas auxiliares e sistema de telecomunicações
+serão mitigados por meio da manutenção do cronograma contratual atualizado e reuniões técnicas e gerenciais periódicas entre o Metrô e
+a contratada para definir as ações de contorno e soluções, caso necessário.
+
+Face ao bom desempenho da execução das obras civis, não são identificados riscos de atrasos que venham a comprometer a contratação
+ de material rodante e sistemas, bem como suas respectivas incorporações à extensão da Linha 2-Verde.
+
+
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+Não estão previstas novas desapropriação para o trecho Vila Prudente - Penha. As obras civis encontram-se em execução e a aquisição
+de trens e implantação de sistemas não demandam áreas adicionais. As desapropriações e demolições de imóveis privados necessários à
+implantação do empreendimento estão concluídas, ou seja, todos os 227 imóveis privados apresentam imissão na posse. Portanto, não
+existem riscos associados a reassentamentos e desapropriações de imóveis públicos e privados nesta etapa de implantação do
+empreendimento.
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+RISCOS AMBIENTAIS E AÇÕES MITIGADORAS
+
+Os riscos relacionados aos impactos ambientais no âmbito do expansão da Linha 2-Verde entre Vila Prudente e Penha foram identificados
+e analisados com base em potenciais impactos nos meios físicos, biótico e antrópico. As medidas mitigadoras e preventivas, seus prazos
+especificados, além dos dados sobre os responsáveis envolvidos fazem parte dos documentos:
+
+(a) Programa de Gerenciamento de Resíduos;
+(b) Programa de Monitoramento dos Níveis de Ruídos e Vibrações;
+(c) Programa de Monitoramento da Qualidade do Ar;
+(d) Programa de Educação Ambiental;
+(e) Plano de Manejo Arbóreo;
+(f) Plano de Gerenciamento de Riscos e Ações em Situações de Emergências;
+(g) Plano de Gestão Ambiental da Operação.
+
+Os documentos acima mencionados fazem parte das exigências legais para as emissões da Licença Prévia, Licença de Instalação e,
+posteriormente, Licença de Operação. Para assegurar o cumprimento das ações relacionadas aos riscos ambientais, o Metrô de São
+Paulo possui uma área específica e interna à gerência gestora do empreendimento. Por ter contato com financiamento concedido pelo
+BIRD para a implantação da Linha 4-Amarela e 5-Lilas, o Metrô de São Paulo possui experiência na aplicação das políticas de
+salvaguardas sociais e ambientais do Banco. Ao longo da execução de ambos os empreendimentos o executor recebeu missões
+períodicas de especialistas do BIRD para o acompanhamento da aplicação de suas políticas de salvaguardas.
+
+Os riscos ambientais relacionados a doenças e danos à saúde dos trabalhadores, considerando esta etapa do projeto, têm relação com
+fatores que são eliminados ou mitigados por meio de obrigações contratuais e mecanismos de verificação do cumprimento da legislação
+trabalhista, normas regulamentadoras e instrumentos normativos, com exigências de treinamentos, de utilização de equipamentos de
+proteção individuais e coletivos, sinalizações adequadas conforme as normas, além de fiscalizações de rotina para identificar desvios e
+orientar a implementação de ações preventivas e corretivas.
+
+5.5. RISCOS/IMPACTO SOCIAL
+RISCOS SOCIAIS E AÇÕES MITIGADORAS
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:11
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60965
+Página: 33
+
+Os riscos relacionados aos impactos sociais no âmbito da expansão da Linha 2-Verde entre Vila Prudente e Penha foram identificados e
+analisados com base em potenciais impactos nos meios físicos, biológicos e antrópico. As medidas mitigadoras e preventivas, seus prazos
+ especificados, além dos dados sobre os responsáveis envolvidos fazem parte dos documentos:
+
+(a) Programa de Comunicação Social;
+(b) Plano de Gestão do Patrimônio Histórico;
+(c) Plano de Gestão Cultural e Arqueológico;
+(d) Programa de Controle de Tráfego.
+
+Os documentos acima mencionados fazem parte das exigências legais para as emissões da Licença Prévia, Licença de Instalação e,
+posteriormente, Licença de Operação. Para assegurar o cumprimento das ações relacionadas aos riscos sociais, o Metrô possui uma área
+específica e interna à gerência gestora do empreendimento. Conforme mencionado no item 5.4, por ter contato com financiamento do
+BIRD para a implantação da Linha 4-Amarela e 5-Lilas o Metrô de São Paulo possui experiência na aplicação da política de salvaguardas
+sociais e ambientais do Banco.
+ 
+A comunicação com os moradores dos arredores do empreendimento Linha 2-Verde e demais partes interessadas é realizada com base
+nos instrumentos normativos do Metrô de São Paulo. Para tanto, são disponibilizados canais de comunicação por meios digitais, contato
+pessoal, placas visuais e outros meios. 
+ 
+Os pequenos comerciantes ou prestadores de serviços em situação de vulnerabilidade que possam ser impactados pelo empreendimento
+são compensados financeiramente visando superar perdas de transição ou reposição de renda, conforme política estabelecida no
+Regulamento para Atendimento de Comerciantes e/ou Prestadores de Serviços Vulneráveis atingidos pelas obras de Expansão do Metrô
+de São Paulo. 
+
+No âmbito da expansão da Linha 2-Verde existem iniciativas de estudos buscando alternativas que possibilitem a utilização de áreas
+remanescentes próximas às estações para implantação de habitações de interesse social.
+
+5.6. RISCOS/REASSENTAMENTOS
+Na fase atual de evolução do projeto não há riscos associados a reassentamento. Todas as áreas necessárias a implantação da expansão
+da Linha 2-Verde já foram disponibilizadas à Companhia do Metrô. Além disso, os componentes para os quais se busca viabilizar
+financiamento, ou seja, material rodante e sistemas, não requerem áreas adicionais.
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 

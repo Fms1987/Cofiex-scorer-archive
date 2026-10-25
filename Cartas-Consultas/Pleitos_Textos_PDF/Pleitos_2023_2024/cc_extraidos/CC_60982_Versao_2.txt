@@ -1,0 +1,2227 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Programa de Combate à Fome, Conservação Ambiental e Aceleração de Aprendizagens do
+ Estado do Pará
+Nº Carta Consulta: 60982
+Processo: 03101.100834/2023-79
+Mutuário: Estado do Pará
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  24 de Março de 2023
+Fontes Internas:
+Contrapartida Financeira: US$ 70.000.000,00
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 280.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 03
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+04
+2. PROJETO ....................................................................................................................................................................................................... 05
+2.1. TÍTULO ............................................................................................................................................................................................ 05
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 05
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 05
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 05
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 05
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 06
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 08
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 16
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 17
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 18
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 19
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 19
+3. FINANCIAMENTO .......................................................................................................................................................................................... 19
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 19
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 19
+4. EXECUÇÃO ...................................................................................................................................................................................................
+20
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 20
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 21
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 22
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 22
+5. RISCOS .......................................................................................................................................................................................................... 24
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 24
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 25
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 25
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 25
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 25
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 25
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+25
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+Parte da Amazônia Legal, o Pará tem 144 municípios e 8,5 milhões de pessoas (IBGE, 2021). O estado tem a 2ª maior área do país, a 4º
+maior população quilombola e a 3º maior população indígena (IBGE, 2021). Por outro lado, é o que mais desmata &#42999; 47% do
+desmatamento no bioma amazônico em dez anos ocorreu no estado (Terra Brasilis, 2022) (Anexo 1, Fig. 1).
+
+A vulnerabilidade social é outro desafio. Com Índice de Desenvolvimento Humano Municipal (IDHM)  de 0,690 (PNUD, 2021), o Pará tem o
+quarto menor IDHM do Brasil. Além disso, o Índice de Capital Humano (ICH) do Estado é de 0,543, ou seja: uma criança paraense
+alcança apenas 54,3% do seu potencial produtivo. A baixa produtividade traz a 5ª menor média dos rendimentos do país (R$ 1.678) e alta
+concentração de renda (Gini de 0,529; PNADC, 2021).
+
+Em 2019, 47,4% da população do Pará estava abaixo da linha de pobreza (US$6,85 PPC) &#42999; o 4º estado mais pobre do Brasil. As
+estimativas mostram um aumento no pós pandemia (Anexo 1, Fig. 2).  Com isso, em janeiro de 2023, 44% da população recebia Auxílio
+Brasil (MDS, 2023). Na região do Marajó 57% da população é pobre.
+
+A.Combate à Fome
+
+Um foco do Avança Pará é o combate à fome. O Pará possui a 4º maior taxa de insegurança alimentar grave do país: 30% dos domicílios
+passam fome (Anexo 1, Fig. 3a 3b) e 90% das famílias pobres sofrem de insegurança alimentar (Anexo 1, Fig. 4). A Secretaria de
+Assistência Social, Trabalho, Emprego e Renda (SEASTER) com o Programa de Aquisição de Alimentos (PAA) atua via cozinhas
+comunitárias e restaurantes populares. 
+
+B.Infraestrutura da assistência social
+
+A rede de assistência social do Pará conta com 262 Centros de Referência da Assistência Social (CRAS), atendendo 217.000 famílias por
+ano (Anexo 1, Tab. 1), menos de 10% da demanda estimada. Os CRAS fazem a busca ativa das famílias em vulnerabilidade e inclusão
+em serviços e benefícios sociais. O Estado conta com 134 Centros de Referência Especializados de Assistência Social (CREAS) que
+atuam no atendimento às famílias, violação de direitos e abandono. A rede demanda cobertura integral, a exemplo da região do Marajó:
+dos 17 municípios, 12 contam com equipes volantes. A região tem 22 CRAS e 16 CREAS que demandam melhoria em sua estrutura de
+atendimento. O Estado possui 3 cozinhas comunitárias e 1 restaurante popular mal distribuídos, principalmente na região do Marajó.
+
+C.Florestas em Pé
+
+A redução do desmatamento é foco do Avança Pará. Desde 2018, o Pará tem criado políticas que promovem economia de baixo carbono
+que utiliza recursos florestais de maneira sustentável. Em 2022, o Pará registrou um desmatamento de 4.414 km2, o único estado da
+Amazônia a apresentar redução de sua taxa. Entretanto, tal taxa é a ainda maior do Brasil. Reduzir o desmatamento e promover uma
+economia de baixo carbono requer apoio a atividades da bioeconomia e incentivos às populações em territórios coletivos (terras indígenas
+e territórios quilombolas) a conservarem florestas. Apesar de atingirem todo o estado, essas políticas têm importância em territórios
+coletivos como a região do Marajó e hotspots de desmatamento no sul do estado. 
+
+D.Evasão Escolar
+
+O Pará possui a maior taxa de abandono escolar do Brasil: 14,8% dos jovens abandonam a escola no 1º ano do Ensino Médio. Estima-se
+que cerca de 30 mil jovens paraenses de 15 a 17 anos estão fora da escola (Observatório do Plano Nacional de Educação, 2020). Uma
+causa é o trabalho infantil (Anexo 1, Tab. 2) durante a colheita de açaí, castanhas e atividades extrativas. Outro fator é a violência. Entre
+2018 e 2022, o CREAS registrou 4.633 casos de abuso sexual (Anexo 1, Tab. 3 e 4). A 3ª maior taxa de reprovação do Brasil (9,3%)
+contribui para a evasão escolar.
+
+E.Analfabetismo e Aprendizado
+
+Os alunos paraenses aprendem pouco. No 9º ano, 42% apresentam conhecimento de 3º ano do ensino fundamental e apenas 5,6% têm
+nível adequado em matemática em 2021. No Ensino Médio, 1% dos alunos está em nível adequado em matemática.  Este desafio se inicia
+na alfabetização onde 24% dos alunos do 3º ano do EF são alfabetizados no Pará (INEP, 2016). Na região do Marajó, apenas 1% dos
+alunos têm nível adequado em matemática no 9º ano. Por isso, o IDEB do estado está entre os menores da região Norte (Anexo 1, Fig. 9).
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 3
+F.Infraestrutura de educação
+
+Poucas escolas têm infraestrutura adequada. Falta o básico: 73% não têm acesso à água tratada (Censo Escolar 2021). No Pará, 16%
+das escolas estaduais carecem de banheiro. Ao menos 60% das escolas queimam o lixo produzido, outras 15% não possuem esgoto e 79
+% utilizam a fossa. Além disso, apenas 29% das escolas paraenses tinham Banda Larga (Anexo 1, Fig. 8). Poucas escolas possuem
+infraestrutura para a provisão de alimentação escolar. Embora 92% das escolas possuam cozinha, 46% não têm geladeira (Anexo 1, Fig.
+5) e outras 39% não têm refeitório (Anexo 1, Fig. 6).
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+O objetivo do Projeto Avança Pará é combater a fome, conservar o meio ambiente e acelerar a aprendizagem no Pará. Apesar de apoiar
+políticas de três Secretarias diferentes, o projeto tem pontos de interseção entre as ações, incluindo a ações para reverter o quadro
+socioambiental no Marajó. O projeto tem dois eixos: componente 1, de apoio à SEASTER, à Secretaria de Meio Ambiente (SEMAS) e à
+Secretaria Estadual de Educação (SEDUC); e Componente 2, de assistência técnica.
+
+1 Combate à Fome, Florestas em Pé e Aceleração da Aprendizagem
+
+1.1. Combate à Fome: ações de combate à fome e fortalecimento dos programas da SEASTER (detalhes na seção 'Resumo dos
+Componentes').
+
+oSistema Único de Assistência Social (SUAS): Ampliação da capacidade de busca ativa e acompanhamento das o atendimento às
+famílias em vulnerabilidade social, priorizando insegurança alimentar grave.
+oRede de Cooperação para Combate à Fome: Promove a adesão dos municípios ao Plano Estadual de Segurança Alimentar e a
+implantação de equipamentos de SAN.
+oApoio às famílias em vulnerabilidade social: Garantia de acesso das famílias em insegurança alimentar às ofertas de SAN e cesta de
+serviços voltados a serviços essenciais, qualificação profissional e geração de renda.
+oInfraestrutura: Reforma e modernização dos equipamentos de CRAS, CREAS para ampliação da cobertura de atendimento, e construção
+ de equipamentos de SAN em áreas vulneráveis. 
+
+1.2 Florestas em Pé: ações na ponta para o controle do desmatamento e promoção da bioeconomia da SEMAS (detalhes na seção
+Resumo dos Componentes).
+
+oBolsa Floresta: Pagamento por serviços ambientais para povos e comunidades tradicionais em territórios coletivos.
+oConectividade: conectividade digital para dar acesso ao cidadão às políticas de Estado.
+oPromoção da Bioeconomia: apoio a estudos e projetos de uso de produtos da floresta, com justa repartição de benefícios. 
+oInteligência para a Força de Combate ao Desmatamento: aprimoramento de sistemas de planejamento e monitoramento espacial.
+
+1.3Aceleração da Aprendizagem: ações da SEDUC de infraestrutura escolar e aceleração da aprendizagem (detalhes das ações na seção
+ Resumo dos Componentes).
+
+oInfraestrutura Escolar: escolas com infraestrutura sustentável.
+oPrograma Estadual de Alimentação Escolar (PEAE): Provisão de alimentação escolar integrada.
+oConectividade: Conectividade nas escolas;
+oPrograma Alfabetiza Pará: Cooperação entre estado e municípios para Alfabetização na Idade Certa. 
+oAceleração da Aprendizagem: i) Programa de Ensino no Nível Certo; ii) Ações preventivas de evasão; e iii) Desenvolvimento de
+habilidades socioemocionais. 
+
+2 Gestão e Monitoramento: melhoria da gestão e monitoramento dos programas, a gestão do projeto (UGP), capacitações, e estudos.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 4
+Resultados Esperados
+
+Os resultados esperados são:
+
+1.Reduzir a insegurança alimentar grave;
+2.Ampliar o número de CRAS, CREAS e Equipamentos SAN na região do Marajó;
+3.Ampliar o número de municípios no Sistema Nacional de Segurança Alimentar e Nutricional; 
+4.Reduzir o desmatamento em regiões estratégicas;
+5.Ampliar os projetos em bioeconomia;
+6.Aumentar a capacidade do estado em combater o desmatamento ilegal;
+7.Aumentar o número de escolas sustentáveis, com foco na região do Marajó;
+8.Aumentar o percentual de crianças alfabetizadas na idade certa;
+9.Implementar Sistema de Alerta Preventivo;
+10.Implementar Ensino no Nível Certo;
+11.Implementar internet estável e veloz em escolas, CRAS e SAN, com foco na região do Marajó;
+12.Melhorar a gestão e monitoramento dos programas.
+
+Os resultados de 1 até 3 são reflexo do subcomponente 1.1: Combate à Fome. Já os resultados 4 até 6 serão contemplados no
+subcomponente 1.2: Florestas em Pé e entre 7 até 11 estão no componente 3: Aceleração da Aprendizagem. As demais atividades estão
+no C2 Gestão e monitoramento.
+
+Sustentabilidade das soluções propostas
+
+As soluções do Projeto Avança Pará são sustentáveis a longo-prazo. As ações integram a SEASTER, SEMAS e SEDUC para alimentação
+escolar, redução de trabalho infantil, monitoramento de famílias vulneráveis, prevenção de evasão escolar, geração de renda em
+atividades sustentáveis e proteção de florestas. Adicionalmente, o projeto promoverá um modelo de escola, CRAS e equipamentos SAN
+que potencializa as características do Pará e sistemas de gestão e monitoramento dos programas disponibilizados às redes municipais.
+Isso é: modelo e materiais que sejam adaptados ao contexto paraense. Estes modelos serão desenvolvidos ao longo da preparação do
+projeto.
+
+As ações integram a carteira de políticas prioritárias do Governo através da SEASTER, SEMAS e SEDUC, refletidas no Plano Plurianual (
+PPA) em elaboração para 2024-2027. As soluções são transformacionais e o componente de gestão do Programa reforçará a
+transparência e monitoramento do seu alcance através da unidade de gestão das três Secretarias.
+
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+O Programa Avança Pará está relacionado ao Plano Plurianual (PPA 2020-2023), conforme ANEXO 5 e às políticas do Projeto de Lei do
+PPA 2024-2027 do Pará, que se encontra em elaboração para envio à Assembleia Legislativa.  O PPA enfatiza os baixos resultados
+educacionais e altas taxas de evasão nas escolas públicas e faz referência aos altos níveis de pobreza, à necessidade de apoiar as
+famílias em situação de vulnerabilidade social, a importância do controle do desmatamento e da geração de renda com base na floresta. 
+
+O projeto está alinhado a oito objetivos do PPA:
+
+1)Fortalecer o SUAS (Proteção Social);
+2)Fortalecer a proteção social básica e especial (Proteção Social);
+3)Inclusão socioprodutiva das famílias em vulnerabilidade social (Proteção Social);
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 5
+4)Promover a conservação das florestas (Meio Ambiente);
+5)Promover o crescimento da bioeconomia (Meio Ambiente);
+6)Ampliar a capacidade de combate ao desmatamento ilegal (Meio Ambiente);
+7)Expansão e a qualidade da cobertura na educação básica (Educação);
+8)Fortalecer a governança da educação básica (Educação);
+9)Garantir o acesso e a permanência do aluno na escola (Educação);
+    
+O subcomponente 1.1 Combate à Fome está relacionado a duas metas. A primeira se refere à taxa de pobreza, onde o governo propôs
+reduzir de 25.8% para 23.8% de 2018 a 2023. Como a pobreza e insegurança alimentar são correlacionadas, o projeto, principalmente o
+componente 1, tende a impactar na taxa de pobreza estadual. A segunda meta refere-se à expectativa de vida ao nascer, a qual o governo
+busca aumentar em 0.1%aa entre 2018-2023. Esta meta está relacionada ao projeto, pois melhorias nutricionais na infância e acesso à
+água potável contribuem para a longevidade. Para o subcomponente Controle do Desmatamento, registra-se a Política Estadual sobre
+Mudanças Climáticas (PEMC) (Lei nº. 9.048/2020) e o Plano Estadual Amazônia Agora (PEAA) (Decreto nº. 941/2020), bem como a
+Estratégia Estadual de Bioeconomia (Decreto nº.1.943/2021) e o Plano Estadual de Bioeconomia de 2022.
+
+Já no subcomponente Aceleração da Aprendizagem está alinhado ao PPA. O PPA propõe elevar a escolaridade básica, reduzir a evasão
+escolar, melhorar a infraestrutura e a qualidade da merenda escolar, atividades contempladas no projeto. Às metas setoriais, o projeto tem
+indicadores de resultado e de processo listados no PPA. Entre eles, a melhoria no IDEB, a redução das taxas de reprovação e a distorção
+ idade-série. Por fim, o PPA dá importância à gestão pública eficiente, alinhados com a assistência técnica do projeto.
+
+Contrapartida: O Estado do Pará propõe a contrapartida financeira de 20% do valor total do projeto, proveniente de receitas tributárias
+previstas nos artigos 155, 157 e 159, inciso I, (a), da Constituição Federal, em conformidade com o disposto na Resolução COFIEX nº 3
+de 29 /05/2019.
+
+Taxa de Câmbio: A moeda do contrato será o dólar americano, com a opção de conversão para reais. A paridade é de US$ 1.00 = R$ 5,05
+ (26/04/20
+2. Projeto
+2.1. Título
+Programa de Combate à Fome, Conservação Ambiental e Aceleração de Aprendizagens do Estado do Pará
+2.2. Título Abreviado
+Programa Avança Pará
+2.3. Mutuário
+Estado do Pará
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+O objetivo geral do projeto é combater a fome, reduzir o desmatamento e acelerar a aprendizagem no Estado do Pará.
+
+Este objetivo geral será alcançado em três objetivos específicos vinculados às ações de cada subcomponente, estruturados por Secretaria
+. O subcomponente 1.1 ?Combate à Fome? reduz a incidência de insegurança alimentar grave no estado do Pará. Suas ações de
+fortalecimento do SUAS, provisão de equipamento do SAN e construção de cozinhas comunitárias têm o foco neste objetivo. O
+subcomponente 1.2 ?Florestas em Pé? promove ações de conservação ambiental e geração de renda com base na floresta. Já o
+subcomponente 1.3 ?Aceleração da Aprendizagem? promove, nas escolas, infraestrutura sustentável, conectividade, alimentação,
+programa de alfabetização na idade certa para aumentar o percentual de crianças paraenses alfabetizadas, ações de combate à evasão e
+ao abandono escolar, programa para correção de defasagens e programa de desenvolvimento de habilidades socioemocionais. Cada uma
+ delas prevê ações específicas para a região do Marajó, onde as ações serão integradas.
+
+Outro objetivo específico é a utilização de sistemas de monitoramento e gestão dos programas da SEASTER, SEMAS e SEDUC. Estes
+sistemas têm o propósito de fortalecer a execução e eficiência na execução dos programas no longo prazo.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 6
+
+2.6. Projeto/Indicadores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 7
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Percentual de domicílios em situação de
+insegurança alimentar no Pará (Indicador de
+Desenvolvimento do Projeto 1)
+Número de domicílios
+em insegurança
+alimentar grave
+dividido pelo número
+total de domicílios no
+Pará em um dado ano
+.
+Percentual
+55,00
+35,00
+Percentual de Alunos Alfabetizados na Idade
+Certa. (Indicador de Desenvolvimento do Projeto
+ 3)
+Percentual de alunos
+com desempenho ao
+menos adequado na
+avaliação de
+alfabetização da
+SEDUC no terceiro
+ano do Ensino
+Fundamental.
+Percentual
+5,00
+45,00
+Número de municípios aderindo ao regime de
+colaboração para combate à fome e promoção
+da alfabetização no Pará (PBC 1)
+Número de municípios
+que aderem
+formalmente ao
+regime de
+colaboração para
+combate à fome e
+analfabetismo no
+Estado do Pará.
+Número
+0,00
+120,00
+Número de famílias monitoradas pelo programa
+de segurança alimentar da SEASTER (PBC 2)
+Número de famílias
+cadastradas e
+acompanhadas
+programa de
+segurança alimentar
+da SEASTER.
+Número
+34.680,00
+100.000,00
+Percentual de escolas que aderem ao PEAE da
+SEDUC (PBC 3)
+Número total de
+escolas públicas
+elegíveis que
+aderiram ao programa
+de Alimentação
+Escolar da SEDUC
+dividido pelo total de
+escolas públicas
+elegíveis.
+Percentual
+91,00
+100,00
+Número de centros de segurança alimentar e
+nutricional instalados (PBC 4)
+Centros de Segurança
+Alimentar equipados
+com cozinhas
+comunitárias/
+solidárias e banco de
+alimentos
+Número
+0,00
+17,00
+Número de matrículas em escolas de tempo
+integral no Ensino Fundamental Anos Finais e
+Ensino Médio (PBC 5)
+Número total de
+matrículas em escolas
+de tempo integral em
+escolas públicas dos
+Anos Finais e Ensino
+Médio.
+Número
+59.945,00
+100.000,00
+Número de famílias atendidas no pelo Programa
+de incentivo às famílias em vulnerabilidade
+social da SEASTER (PBC 6) 
+Número total de
+famílias atendidas
+pelo PIFVS
+Número
+0,00
+80.000,00
+Negócios da bioeconomia fomentados com
+produtos no mercado ou fornecendo alimento à
+políticas de combate à fome (PBC 8)
+Número de empresas
+ou organizações civil
+com operação de
+comercialização com
+o mercado ou poder
+público
+Unidade produtiva
+0,00
+18,00
+Percentual de escolas com sistemas de alerta
+preventivo de evasão e abandono da SEDUC (
+PBC 9)
+Número total de
+escolas públicas
+elegíveis aderindo ao
+sistema de alerta
+preventivo dividido
+pelo número total de
+escolas públicas
+elegíveis
+Percentual
+0,00
+85,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 8
+Percentual de escolas aderindo ao programa de
+Ensino no nível Certo da SEDUC (PBC 10)
+Número total de
+escolas públicas
+elegíveis aderindo ao
+Ensino no Nível Certo
+dividido pelo número
+total de escolas
+públicas elegíveis.
+Percentual
+0,00
+85,00
+Percentual de escolas aderindo ao programa de
+habilidades socioemocionais da SEDUC (PBC
+11)
+Número total de
+escolas públicas
+elegíveis aderindo de
+inteligências
+emocionais dividido
+pelo número total de
+escolas públicas
+elegíveis.
+Percentual
+0,00
+70,00
+Pontos de conectividade em comunidades e
+associações
+Sistematização de
+Pontos de
+Conectividade
+instalados e
+funcionais ao final de
+cada ano
+Unidade
+0,00
+300,00
+Canal de denúncia estruturado e funcional
+Criação de canal de
+denúncias de casos
+de desmatamento
+pela SEMAS.(Não = 0
+, Sim =1)
+Número
+0,00
+1,00
+População treinada em acesso e repartição de
+benefícios da biodiversidade
+Relatório de
+treinamentos de
+pessoal com registro
+de participantes
+Número de pessoas
+0,00
+250,00
+Bolsa Floresta para conservação ambiental (
+PBC 7)
+Número de operações
+de pagamento à
+famílias cadastradas
+Número família
+beneficiad
+0,00
+12.000,00
+Redução do Desmatamento no Estado do Pará (
+Indicador de Desenvolvimento do Projeto 2)
+Área total desmatada
+(km2) de acordo com
+dados do PRODES/
+INPE
+Número
+4.141,00
+3.312,00
+2.7. Projeto/Componentes
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 9
+Componentes
+Valor(US$)
+C - COMBATE À FOME, FLORESTAS EM PÉ E ACELERAÇÃO DA APRENDIZAGEM                                    
+340.000.000,00
+   S - COMBATE À FOME
+125.000.000,00
+      P - Fortalecimento do Sistema Único de Assistência Social (SUAS)
+25.000.000,00
+P - Enfrentamento à Fome
+      
+25.000.000,00
+      P - Programa de incentivo às famílias em vulnerabilidade social                                
+30.000.000,00
+      P - Reforma e equipamento de CREAS/CRAS, Equipes Volantes sustentável               
+45.000.000,00
+   S - FLORESTA EM PÉ
+90.000.000,00
+      P - Implementação de tecnologia de conectividade digital                                        
+14.000.000,00
+      P - Inteligência espacial para Força de Combate ao desmatamento                            
+5.000.000,00
+      P - Promoção de negócios da Bioeconomia                                                             
+12.500.000,00
+      P - Instituição do Bolsa Floresta                                                                            
+58.500.000,00
+   S - ACELERAÇÃO DA APRENDIZAGEM
+125.000.000,00
+      P - Construção de Escolas Sustentáveis                                                                  
+56.500.000,00
+      P - Reforma de Escolas considerando sustentabilidade ambienta
+35.000.000,00
+      P - Programa Estadual de Alimentação Escolar (PEAE)                                                          
+4.500.000,00
+      P - Estrutura de Conectividade de Internet nas Escolas                                             
+6.000.000,00
+      P - Programa Alfabetiza Pará                                                                                   
+7.500.000,00
+      P - Implementação do Ensino No Nível Certo                                                          
+5.500.000,00
+      P - Implementação do Sistema de Alerta Preventivo de Evasão Escolar                     
+5.500.000,00
+      P - Programa de desenvolvimento das Inteligências Emocionais                                 
+4.500.000,00
+C - GESTÃO E MONITORAMENTO (ASSISTÊNCIA TÉCNICA)                                                  
+10.000.000,00
+   S - GESTÃO DO PROJETO
+2.500.000,00
+      P - Composição da Unidade Gestora do Projeto                                                         
+2.500.000,00
+   S - SISTEMAS PARA A GESTÃO DE PROGRAMAS ESTADUAIS                                     
+5.000.000,00
+      P - Sistema de Gestão e Monitoramento do Programa de Incentivo às Famílias                        
+2.000.000,00
+      P - Sistema de Gestão e Monitoramento do Projeto          
+3.000.000,00
+   S - CONSULTORIAS
+2.500.000,00
+      P - Estudos, Eventos e Consultorias                                                                         
+2.500.000,00
+Total dos Componentes
+350.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - COMBATE À FOME, FLORESTAS EM PÉ E ACELERAÇÃO DA APRENDIZAGEM                                    
+Este componente engloba políticas de combate à vulnerabilidade básica como a fome, fortalecer o controle do desmatamento e
+ações para acelerar o aprendizado. As ações prioritárias dos três subcomponentes têm na região do Marajó uma região de
+convergência e integração. Os resultados esperados destes produtos são de reduzir as vulnerabilidades socioeconômicas,
+melhorar os indicadores de alfabetização na idade certa, acelerar o desenvolvimento de habilidades fundamentais de português e
+matemática, reduzir o desmatamento em territórios coletivos e promover negócios da bioeconomia.
+   S - COMBATE À FOME
+Este subcomponente tem como objetivo reduzir a incidência de insegurança alimentar grave no estado do Pará, principalmente na
+região do Marajó. A atuação consiste na ampliação do atendimento das famílias em situação de insegurança alimentar grave, com
+especial atenção às famílias com alunos vinculados à rede pública de educação e situações de violação de direitos no ambiente
+escolar. As iniciativas neste campo devem considerar a ampliação da capacidade de busca ativa e atendimento nos territórios mais
+ vulneráveis do Estado e a adoção de critérios de sustentabilidade ambiental.
+      P - Fortalecimento do Sistema Único de Assistência Social (SUAS)
+A ampliação da capacidade de acompanhamento das famílias em vulnerabilidade social, com prioridade para as situações de
+insegurança alimentar grave e violação de direitos presente no ambiente escolar na região do Marajó. O projeto atuará na
+estruturação da área de Vigilância Socioassistencial da SEASTER, ampliação do monitoramento e apoio técnico aos municípios e
+Educação Permanente para os profissionais do SUAS. O fortalecimento inclui: a melhoria da estrutura operacional e tecnológica da
+SEASTER, dos CRAS, CREAS e Equipes volantes por meio de equipamentos e insumos para o trabalho de busca ativa nos
+territórios e acompanhamento das famílias.
+      P - Enfrentamento à Fome                                                                                                                                                
+Consiste em reverter os índices de desnutrição e insegurança alimentar grave na região do Marajó, com especial atenção às
+famílias com alunos vinculados à rede pública de educação. O projeto atuará na adesão dos municípios ao Plano Estadual de
+Segurança Alimentar que prevê a implantação do SISAN no nível local e equipamentos voltados à promoção da Segurança
+Alimentar Nutricional. A adesão dos municípios consiste na instituição de Conselho Municipal de Segurança Alimentar e Nutricional
+e compromisso com a elaboração do plano municipal e instalação de Centros de Segurança Alimentar equipados com cozinhas
+comunitárias e banco de alimentos. Bem como, oferta de formação de agentes públicos em SAN e iniciativas de Educação
+Alimentar e Nutricional para a comunidade.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 10
+      P - Programa de incentivo às famílias em vulnerabilidade social                                
+O projeto atuará na identificação de 80.000 famílias em insegurança alimentar, com crianças em situação de trabalho infantil ou
+risco de evasão escolar para garantir acesso prioritário as ações de SAN, assistência social e a política educacional. A cesta de
+serviços essenciais voltados a qualificação profissional e geração de renda ofertada às famílias inclui, ainda, apoio à emissão de
+documentos, cadastro em políticas sociais, qualificação profissional, kits de inclusão produtiva, dentre outros. 
+      P - Reforma e equipamento de CREAS/CRAS, Equipes Volantes sustentável               
+A modernização das unidades de CRAS e CREAS devem considerar os padrões físicos estabelecidos pelo Governo Federal e
+cumprir requisitos de sustentabilidade ambiental no uso de materiais e tecnologias renováveis. Além de implementar atividades de
+educação ambiental no trabalho social desenvolvido com as famílias e comunidades. O projeto também deve estruturar as
+unidades de CRAS, CREAS e as equipes volantes atuantes nos territórios de difícil acesso com equipamentos que ampliem a
+capacidade de atendimento como veículos adaptados para áreas rurais e transporte fluvial que atendam requisitos de
+sustentabilidade ambiental, além de equipamentos tecnológicos neste mesmo campo.
+Os Centros de SAN devem respeitar normas específicas de responsabilidade ambiental e empregar recursos renováveis e
+tecnologias sustentáveis. Além de desenvolver iniciativas permanentes de educação ambiental integrada à educação alimentar. 
+O Projeto irá atuar na modernização por meio de reforma ou construção de 22 CRAS, 16 CREAS, 15 equipes volantes e 17
+equipamentos de SAN, prioritariamente na região do Marajó. As iniciativas neste campo devem considerar a ampliação da
+capacidade de atendimento das famílias nos territórios mais vulneráveis e adoção de modelos de sustentabilidade ambiental. 
+   S - FLORESTA EM PÉ
+Integração da sustentabilidade ambiental e climática nas políticas sociais de governo para promover simultaneamente a proteção
+das florestas, a redução da vulnerabilidade das populações residentes em áreas de proteção ambiental e a geração de renda a
+partir de negócios de base florestal (Anexo 1, Fig.12).
+      P - Implementação de tecnologia de conectividade digital                                        
+Implantação de 300 pontos de conectividade digital em territórios coletivos (Unidades de Conservação, Terras Indígenas,
+Territórios Quilombolas e Assentamentos) e em associações e sindicatos nas regiões de mais alto desmatamento e na região do
+Marajó, com preparação das comunidades para recepção e uso da tecnologia (apresentação dos portais do governo, canais de
+denúncia ambiental, discussão desses e outros produtos, riscos e pactuação local de procedimentos de manutenção).   
+ 
+Preparação dos territórios, acordos locais e treinamentos para recepção e uso da tecnologia de conectividade: A SEMAS em
+parceria com a Fundação Guamá, da Universidade Federal do Pará, com base em seu contrato de gestão de Organização Social (
+OS), através do seu Parque de Ciência e Tecnologia Guamá, promoverão o desenho do programa e dos editais para treinamentos,
+sobre usos e formas de acesso aos portais de governo, canais de denúncia ambiental, discussão desses e outros produtos, riscos
+e pactuação local de procedimentos de manutenção, com base em sua experiência na implantação de Redes Comunitárias. 
+ 
+Instalação dos equipamentos de conectividade digital em territórios coletivos e associações, adequados a geografia local: Em
+parceria com a Empresa de Tecnologia da Informação e Comunicação do Pará - PRODEPA e o PCT Guamá, a SEMAS promoverá
+a instalação de 300 pontos de conectividade digital, sendo 50% destinado aos territórios coletivos  beneficiados pelo programa de
+pagamento por serviços ambientais (Bolsa Floresta: (Unidades de Conservação, Terras Indígenas, Territórios Quilombolas e
+Assentamentos) e 50% para as regiões de mais alta taxa de desmatamento, para dar acesso aos instrumentos de regularização,
+em pontos nas associações de produtos, e sindicatos.  
+ 
+Modulo Região do Marajó: Em parceria com a SEASTER, SEMAS e seus parceiros desenvolveram módulos específicos de
+conectividade digital para a região do Marajó, onde concentram-se 28% dos Assentamentos do Estado, com boa cobertura florestal
+, mas baixíssimo índice de desenvolvimento humano. 
+      P - Inteligência espacial para Força de Combate ao desmatamento                            
+Agregar inteligência para o desenho de operações, relatoria e comunicação para a Força de Combate do Desmatamento, com
+base na atualização das fontes de informação utilizadas para o desenho de estratégias, treinamento de efetivo e equipamento de
+comunicação, respondendo às fragilidades identificadas nas Operações Amazônia Viva (2020-2022) e na Operação Curupira da
+Força, lançada em 2023 e parceria com o governo federal. 
+ 
+Fortalecimento da capacidade estadual e municipal de fiscalização ambiental: Fortalece a capacidade de fiscalização por meio de
+uma combinação de sensoriamento remoto e geotecnologias com maior presença de campo, incluindo equipamentos, softwares e
+custos operacionais. A ênfase estará em engajar os governos municipais para atuar de forma coordenada, a fim de maximizar a
+presença do Estado no território e tornar a lei efetiva, capacitando as prefeituras para atuação na área ambiental.
+      P - Promoção de negócios da Bioeconomia                                                             
+Beneficiamento e a inserção no mercado de produtos da bioeconomia, incluindo interfaces com políticas públicas de aquisição de
+alimentos e merenda escolar, com editais de fomento ao desenvolvimento e consolidação de negócios da bioeconomia que
+representem a geração de emprego e renda no interior do Estado. 
+ 
+Editais de apoio à pesquisa e desenvolvimento aplicada às cadeias produtivas e a integração da produção com políticas de
+aquisição de alimentos e merenda escolar: Através do Fundo da Amazônia Oriental (FAO) promover a ciência, tecnologia e
+extensão para consolidação da bioeconomia no Estado, para cumprir as metas do Plano Estadual de Bioeconomia (PlanBio). 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 11
+ 
+Laboratório de pesquisa em produtos da bioeconomia: Apoiar instalações, equipamentos, veículos e software para laboratório a ser
+estabelecido em convênio com universidades, empresas e ONGs, com atenção os Projetos da Escola de Saberes da Floresta, ao
+Centro de Inovação e ao Museu da Bioeconomia, conforme ações previstas no Plano de Bioeconomia.   
+Capacitação e apoio ao desenvolvimento de projetos comunitários de acessos de repartição justa de benefícios da biodiversidade:
+Promover editais para capacitação de servidores públicos (gestores SEMAS e fornecedores de assistência técnica) e comunitários
+sobre os procedimentos de Acordos de Acesso e Repartição de Benefícios da Biodiversidade, previstos na Lei 13.123/2015, como
+forma de promover a efetivação desses acordos e incentivar a participação no PlanBio e desenvolvimento de modelos de contratos
+ de repartição.  
+ 
+Editais de promoção de renda a partir de negócios com base na floresta para fomento a cadeias de valor no interior do Estado:
+Promoção de editais de fomento a negócios sustentáveis no interior do Estado, sejam com o mercado, seja na estruturação
+organização social para participação em programas de alimentos e merenda escolar, fomentando a geração de emprego e renda e
+a consolidação de uma transição econômica para a população de baixa renda. 
+Em parceria com a SEDUC, a adaptação do calendário escolar em regiões em que as atividades extrativas impactam a presença
+de jovens na escola, combatendo o abandono e a evasão escolar e viabilizando a garantia de direitos de aprendizagem de forma
+contextualizada.
+      P - Instituição do Bolsa Floresta                                                                            
+Instituição de um programa de pagamento por serviços ambientais (PSA) para cerca de 12.000 famílias, com transferências de
+renda para populações vulneráveis residentes em áreas protegidas e territórios coletivos (Territórios Quilombolas, Terras Indígenas
+, Projetos de Assentamento e Unidades de Conservação de Uso Sustentável) nos municípios com menor IDH e maior cobertura
+florestal (dois critérios de seleção dos territórios a serem beneficiados), com clara inserção nos programas federais de auxílio social
+.
+Arcabouço institucional para o Bolsa Floresta do Pará: O Programa começa com a concepção do programa do Bolsa Floresta do
+Pará, a partir das experiências do Governo Federal com o Bolsa Verde e do Estado do Amazonas, com insumos técnicos de
+especialistas, visando pilotar os arranjos institucionais em cada categoria de território coletivo, definindo assim nicho setorial,
+arcabouço institucional de métodos de operação, gestão e monitoramento.     
+ 
+Bolsa Floresta do Pará: Implementação do programa de pagamento por serviços ambientais beneficiando cerca de 15 mil famílias
+paraenses, com transferências de renda para famílias e/ou comunidades de forma a promover a conservação e melhorar o bem
+estar social, com ênfase em povos e populações indígenas e tradicionais, comunidades ribeirinhas e pequenos agricultores em
+áreas estratégicas, incluindo a região Marajó, que concentra assentamos com cobertura florestal e baixos índices sociais.
+   S - ACELERAÇÃO DA APRENDIZAGEM
+Os alunos paraenses apresentam menores níveis de aprendizado em avaliações nacionais. Em média, mais de 90% dos alunos do
+9º ano estão com aprendizado inadequado em português e matemática (SAEB 2021). Dada essa realidade, além de fatores como
+fome e infraestrutura, este programa apoiará ações de alfabetização e aceleração da aprendizagem.
+As atividades apoiadas são: Construção e reforma de escolas priorizando regiões como Marajó, promoção de conectividade nas
+escolas, apoio ao Programa Estadual de Alimentação Escolar (PEAE), os Programas de Alfabetização na Idade Certa e Ensino no
+Nível Certo, a Iniciativa Socioemocional e o Programa de Alerta preventivo de evasão e abandono o escolar. As atividades têm o
+objetivo de mapear e sanar as dificuldades básicas de aprendizado e garantir a permanência dos estudantes no sistema
+educacional durante a educação básica. 
+Estas atividades estão alinhadas e se retroalimentam na aceleração da aprendizagem do Pará. O PEAE oferece a nutrição de que
+a criança precisa para aprender e se desenvolver, sempre presente na escola. O programa de Ensino No Nível Certo tem o
+objetivo de reverter cenários de defasagem de aprendizagem e promover equidade na garantia de direitos de aprendizagem. O
+Sistema de Alerta Preventivo viabiliza ações capazes de evitar o abandono e a evasão escolar. O programa de habilidades
+socioemocionais promove o desenvolvimento integral, considerando a realidade e as necessidades do século XXI, motivando
+estudantes e professores. Aluno com fome, fora da escola e desmotivado não estará alfabetizado na idade certa e terá dificuldades
+ de aprender o que precisa.
+      P - Construção de Escolas Sustentáveis                                                                  
+Construção. O programa irá apoiar a construção de escolas estaduais de Ensino Fundamental Anos Finais e Ensino Médio no Pará
+. Prioridade será dada à região do Marajó considerando sua vulnerabilidade social e desempenho educacional. Esta ação é
+fundamental, pois possibilita ao estado aumentar a cobertura da rede educacional ao mesmo tempo que usa esta capilaridade para
+promover ações pactuadas de proteção social em regiões vulneráveis, enquanto qualifica a alimentação escolar. Mais ainda:
+devido às características ambientais particulares da região do Marajó e do Estado do Pará, o projeto apoiará a construção de
+escolas sustentáveis. Este projeto vai considerar aspectos como: descarte de resíduos e esgoto, arborização das escolas para
+promover a biodiversidade local, fontes renováveis de energia, coleta de águas das chuvas, climatização, acessibilidade, e uso de
+materiais sustentáveis. O objetivo é construir por volta de 15 escolas adicionais. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 12
+Critérios para Construção e Foco na região do Marajó. A SEDUC irá priorizar comunidades isoladas da região do Marajó que
+atualmente são atendidas de forma limitada pela rede escolar. Desta forma, para receber uma escola nova, ou seja, a construção
+de uma escola via programa Avança Pará, passará por dois critérios: demanda por uma nova escola, se está localizada na região
+do Marajó e o grau de vulnerabilidade social. Uma proposta de geolocalização das escolas a serem construídas pode ser vista no
+Anexo 1, Figura  X. O programa também prevê um estudo técnico da oferta da rede educacional para embasar um plano de
+expansão da cobertura das escolas no médio e longo prazos.
+      P - Reforma de Escolas considerando sustentabilidade ambienta
+Reformas: O programa Avança Pará planeja adequar a infraestrutura de escolas estaduais já existentes para o atendimento aos
+alunos. Esta ação é importante pela agilidade no início das reformas e pela melhora rápida na cobertura da rede. O objetivo é que
+o projeto apoie a reforma de 40 escolas estaduais.
+Critérios para Reforma e o Foco no Marajó: Da mesma forma que o Produto ?Construção de Escolas Sustentáveis? as reformas
+das escolas seguirão critérios de vulnerabilidade social, foco na região do Marajó, e precariedade da infraestrutura das escolas. No
+Anexo 1, Figura 3, apresenta-se um mapa preliminar com a localização das escolas consideradas prioridade para reforma e
+adequações no projeto.
+      P - Programa Estadual de Alimentação Escolar (PEAE)                                                          
+Visto que a desnutrição e insegurança alimentar, além de objetivo fundamental na assistência social, também é impeditivo para o
+aprendizado, a ação base para acelerar o aprendizado se refere ao Programa Estadual de Alimentação Escolar (PEAE). O PEAE
+foi criado por Lei N 8.847 de 2019 com o intuito de aperfeiçoar as aquisições e o fornecimento de alimentação escolar nas escolas
+do Pará. De modo geral, o programa possui quatro eixos: transferência de recursos para os municípios; a aquisição de alimentos;
+fornecimento e distribuição dos alimentos; e preparo dos alimentos e cardápio nutritivo. O programa é realizado em parceria entre
+estados e municípios (via termo de adesão), porém a SEDUC realiza a aquisição dos alimentos diretamente quando os municípios
+não fizeram a adesão ao programa. 
+Inicialmente, as ações apoiadas pelo programa Avança Pará serão: 
+Implementação de logística para provisão efetiva de alimentação escolar integrada às redes municipais e à arranjos produtivos
+locais e sustentáveis;
+Contratação de equipes de gestão a nível central e regional para garantir a execução do PEAE e PNAE, assim como o
+monitoramento a nível de escola; 
+Atualização do aspecto nutricional dos cardápios escolares;
+Logística para distribuição eficaz e sustentável de alimentos nas escolas;
+Certificação de agricultores familiares para proteção e sustentabilidade ambiental.
+      P - Estrutura de Conectividade de Internet nas Escolas                                             
+Estratégias modernas de aceleração de aprendizagens precisam de conectividade de internet nas escolas. Atividades remotas,
+acesso à materiais digitalizados, plataformas de aprendizado adaptativo, engajamento dos alunos e expansão do ensino híbrido
+requerem que as escolas tenham conectividade de qualidade. Os dados do Censo Escolar 2021 apontam que 29% das escolas
+paraenses têm Banda Larga (no Brasil esse percentual é 64%). Se a conectividade nas escolas é incomum (46,4% dos estudantes
+têm internet), nos domicílios paraenses também é incomum: o SAEB 2019 mostra que 30% dos estudantes do Pará com
+computador não têm internet em casa, e apenas 25,7% têm computador e internet em casa. Por este motivo, o programa Avança
+Pará apoiará a expansão da conectividade nas escolas estaduais com o foco nos alunos e professores da rede estadual,
+priorizando comunidades vulneráveis e isoladas como na região do Marajó.
+Conectividade de internet adequada à realidade das escolas, CRAS, CREAS e equipamentos SAN: O Programa Avança Pará
+apoiará tecnicamente e financeiramente a estruturação de projetos de conectividade adaptados às necessidades e desafios das
+escolas estaduais do Pará. Da mesma forma, o principal objetivo está na ampliação da conectividade de escolas, CRAS e CREAS
+localizados na região do Marajó. Pela complexidade dos desafios, essa área de atuação também engloba um especialista em
+conectividade para monitorar e apoiar a manutenção da conexão nas localidades mais vulneráveis. O projeto também dará apoio
+financeiro para contratar conectividade de satélite de baixa latência para as escolas. O projeto terá como objetivo a instalação de
+internet em todas as 218 escolas que, segundo a SEDUC, ainda não possuem conexão por falta de rede.
+Como somente disponibilizar internet para uso das escolas tem efeito pequeno sobre o desempenho escolar, o programa dará
+apoio técnico para a identificação de ferramentas pedagógicas adequadas a cada realidade (como Plataformas de aprendizado
+adaptativo ), a formação de profissionais para o uso destas ferramentas e provisão do material básico (papel, lápis, caderno, entre
+outros) para estudantes vulneráveis. Desta forma, a atividade seria implementada em três fases: (i) desenho de projetos de
+conectividade adaptados às necessidades das escolas; (ii) implementação de internet rápida e estável em todas as escolas
+estaduais do Pará com possibilidade de atendimento; e (iii) a disponibilização e formação para uso de ferramentas pedagógicas
+digitais.
+      P - Programa Alfabetiza Pará                                                                                   
+O Programa Alfabetiza Pará nasceu com o objetivo de reverter a realidade paraense de que só um a cada quatro alunos está
+alfabetizado aos 7 ou 8 anos de idade (ANA 2019, Ministério da Educação). Neste contexto, o Programa Alfabetiza Pará foi
+lançado para garantir o direito fundamental de crianças estarem alfabetizadas na idade correta. Desta forma, o programa Avança
+Pará irá apoiar a SEDUC em duas frentes principais relacionadas à alfabetização:
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 13
+Rede de Cooperação com os Municípios para Alfabetização na Idade Certa: O projeto apoiará a rede de regime de colaboração
+com os municípios do estado do Pará para alfabetização na idade certa. Para isso, o projeto desenvolverá protocolos de
+acompanhamento da aprendizagem, elaborará materiais estruturados focalizados nas estratégias de alfabetização na idade certa,
+desenhará formações para os professores alfabetizadores, e implementará a avaliação de aprendizagem frequente. Todas estas
+atividades serão disponibilizadas aos municípios que aderirem ao programa Alfabetiza Pará.
+Da mesma forma, a governança entre os atores educacionais para melhor monitoramento da aprendizagem e das metas
+pactuadas por cada secretaria municipal de educação do Pará. Além da disponibilização de instrumentos de alfabetização, esta
+ação visa desenhar ainda mecanismos de incentivo ao investimento educacional alinhado à redistribuição da quota-parte do ICMS
+estadual. O foco desta estratégia é promover a alfabetização até a terceira série do Ensino Fundamental Anos Iniciais.
+Sistema Paraense de Avaliação Educacional (SISPAE): Avaliações diagnósticas e formativas de aprendizagem são um
+instrumento valioso para o monitoramento e planejamento das atividades pedagógicas. Atualmente, a SEDUC implementa o
+Sistema Paraense de Avaliação Educacional (SISPAE) para direcionar as estratégias e metas adotadas para cada secretaria
+municipal. Estas avaliações permitem com que a SEDUC possa intensificar, corrigir e rever ações que alcançaram ou não o
+resultado desejado em termos de aprendizado. O projeto apoiará a implementação e desenho de avaliações somativas e
+formativas focalizadas na alfabetização dos alunos, além de 4º, 5º, 8º e 9º anos do Ensino Fundamental e 1ª, 2ª e 3ª séries do
+Ensino Médio focadas nas habilidades estruturantes. Essas avaliações também serão subsídio para formatação e desenho de
+programas de formação de professores focados naquelas habilidades que os alunos estão sistematicamente com mais dificuldade
+em desenvolver.
+      P - Implementação do Ensino No Nível Certo                                                          
+De acordo com dados do SAEB 2021, de cada 10 alunos na rede estadual do Pará, mais de  9 apresentam desempenho abaixo do
+nível adequado em matemática. De modo geral, os alunos paraenses estão muito abaixo do conhecimento que deveriam ter
+obtido ao longo do ciclo escolar. Para acelerar o aprendizado é necessário desamarrar gargalos fundamentais que obliteram o
+desenvolvimento de habilidades mais complexas e impedem melhorias consistentes nos níveis de aprendizado da rede. Sob esta
+perspectiva, o projeto irá apoiar a concepção e implementação de tutorias intensas e personalizadas focadas na aceleração da
+aprendizagem dos alunos que apresentam desempenho inadequado para os anos ou as séries que estão matriculados. Em
+complemento ao Programa de Alfabetização na Idade Certa com foco nos anos iniciais, o Ensino no Nível Certo tem como alvo
+alunos do 4º ao 9º ano do ensino fundamental.
+O Ensino no Nível Certo é uma estratégia de aceleração de aprendizagem focada no desenvolvimento de habilidades
+fundamentais de português e matemática. Em termos gerais, o programa é caracterizado por períodos de tutorias intensas com
+grupos menores de alunos. Esta estratégia possui três passos principais: 
+Mapear os gargalos de aprendizagem dos alunos: este passo detalha as principais dificuldades de aprendizado em português e
+matemática;
+Reagrupar os alunos por nível: com base nas informações do mapeamento, os alunos são designados a grupos pequenos de
+acordo com seu nível de aprendizado, em vez da idade e da série em que se encontram;
+Ensino no Nível Certo: tutorias intensas, calibradas ao nível de cada grupo, são realizadas em períodos curtos. Para gerar maior
+impacto, os tutores são apoiados com materiais estruturados e formação. 
+O projeto pretende apoiar a implementação do Ensino no Nível Certo no Pará, e especialmente na região do Marajó, com os três
+estágios de implementação. Primeiramente no desenvolvimento de avaliação específica focada no mapeamento das habilidades
+mais fundamentais de português e matemática, incluindo um aplicativo particular de correção automática destas avaliações.
+Adicionalmente, o projeto também apoiará o desenvolvimento de um sistema que fará reagrupamento de alunos de maneira
+automática para minimizar erros e carga operacional de equipes escolares. Por fim, o projeto também apoiará na elaboração de
+materiais estruturados para cada nível de tutoria e no desenho de uma formação específica para tutores e diretores de escolas que
+ vão implementar o programa.
+A literatura acadêmica aponta que instruções personalizadas são uma política versátil e potencialmente transformadora para os
+alunos mais vulneráveis. Na Índia, estudos aleatorizados indicam que o número de crianças capazes de ler um parágrafo dobrou
+depois de 50 dias implementando estratégias de monitorias personalizadas (Banerjee et al., 2017). Na Nigéria, estudantes
+participando de 180 horas de tutorias personalizadas possuem probabilidade 31% maior de ler um parágrafo completo e 41% se
+tornam mais aptos a entenderem frações (Nogroho et al,. 2020). Na Botsuana, estratégias parecidas reduziram em 26 pontos
+percentuais a incidência de estudantes sem conhecimentos básicos de matemática (Young 1ove, 2019).  Quanto mais adaptada ao
+ nível do aluno, maior é o impacto da instrução sobre o nível de aprendizado (Pershad, 2020).
+      P - Implementação do Sistema de Alerta Preventivo de Evasão Escolar                     
+O desafio de reduzir a evasão e abandono escolar em redes educacionais mais vulneráveis como a do Pará e, em específico, na
+região do Marajó, é o timing que ações mitigatórias são implementadas. De modo geral, só depois que o aluno sai da escola que
+as ações remediadoras começam a acontecer. A SEDUC quer inverter esta lógica implementando o Programa de Alerta Preventivo
+de Evasão Escolar, que realiza ações preventivas de evasão e abandono enquanto o aluno ainda está na escola. A estratégia tem
+três passos principais: 
+Mapeamento dos Fatores de Risco de Evasão e Abandono Escolar: A SEDUC utiliza dados para criar um checklist com as
+variáveis de maior poder preditivo de evasão escolar (ex. faltas, notas, entre outras informações ao nível do estudante);
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 14
+Escuta Ativa: Depois que os alunos de maior risco de evasão e abandono são identificados, um profissional da SEDUC implementa
+ o protocolo de escuta ativa para avaliar qualitativamente quais fatores podem ser mitigados;
+Ações Preventivas: Quando os fatores de risco são mapeados e a Escuta Ativa realizada, protocolos de prevenção são acionados
+para manter os alunos na escola.
+O impacto dos sistemas de alerta preventivo tem sido promissor em contextos similares ao do Pará e da região do Marajó. Na
+Guatemala, por exemplo, a introdução de um Programa de Alerta Preventivo fez com que as taxas de evasão escolar diminuíssem
+significativamente nos anos iniciais e finais do ensino fundamental.  O Sistema de Alerta Preventivo do Peru, incluindo na região
+Amazônica do país, apresentou resultados promissores. 
+Da mesma forma que o Ensino no Nível Certo, o Projeto Avança Pará pretende apoiar o desenvolvimento e implementação das
+três fases do Programa de Alerta Preventivo de Evasão e Abandono Escolar. O projeto pretende, atualizar os questionários já
+disponíveis para mapeamento dos fatores de risco e utilizados em outras redes, considerando o contexto da rede educacional do
+Pará. Adicionalmente, o projeto tem o objetivo de financiar formações para profissionais das escolas implementarem a escuta ativa
+e também desenvolver protocolos de ações preventivas adaptadas à rede para os alunos com maior risco de evasão e abandono
+escolar.
+      P - Programa de desenvolvimento das Inteligências Emocionais                                 
+Para a Alfabetização na Idade Certa e Aceleração das aprendizagens ocorrerem de maneira sustentável é necessário que os
+alunos adquiram habilidades socioemocionais para lidar com os desafios ao longo da trajetória educacional. Com este objetivo, o
+Avança Pará apoiará a SEDUC na estruturação e implementação de um programa de desenvolvimento de inteligências emocionais
+nas escolas do Pará. Da mesma forma que as demais atividades de aceleração, o foco principal desta atividade será na região de
+Marajó, com o maior nível de vulnerabilidade do Estado. Esse programa terá como atividade principal a realização de grupos de
+discussão estruturados com base na Teoria Cognitiva-Comportamental (TCC). Essas discussões serão estruturadas de modo com
+que as cinco grande habilidades emocionais do BNCC (i.e., autocuidado, autoconhecimento, consciência social, tomada de
+decisões, e sociabilidade) sejam contempladas. 
+O projeto prevê apoio em diversas frentes: (i) desenvolvimento de materiais com atividades estruturadas para guiar as discussões
+com os alunos de Ensino Fundamental e Ensino Médio; (ii) formação para os monitores na implementação da estratégia; guias
+para diretores de escola implementarem as discussões estruturadas; (iv) elaboração de questionários de monitoramento e
+acompanhamento. A SEDUC planeja oferecer esta atividade para os alunos e professores das escolas públicas e também
+atividades específicas para os pais.
+Alinhamento das atividades de aceleração da aprendizagem: É importante destacar a complementaridade dos programas
+Alfabetiza Pará, Ensino no Nível Certo e de Inteligências Emocionais para o objetivo de acelerar as aprendizagens no Pará.
+Primeiro, enquanto o programa Alfabetiza Pará foca nos três primeiros anos do Ensino Fundamental, o Ensino no Nível Certo
+implementa tutorias com os alunos do 4º até o 9º ano do Ensino Fundamental, ambos programas focados nas habilidades
+fundamentais. Já a atividade Inteligências Emocionais potencializa estas estratégias, já que o desenvolvimento de habilidades
+socioemocionais está correlacionado com a melhoria no desempenho acadêmico e na redução da probabilidade de evasão e
+abandono escolar.
+C - GESTÃO E MONITORAMENTO (ASSISTÊNCIA TÉCNICA)                                                  
+O Avança Pará procura fortalecer a capacidade do governo do Estado de execução e monitoramento dos programas de redução
+da insegurança alimentar, gestão florestal e aceleração da aprendizagem. Este fortalecimento é fundamental para garantir a
+eficiência da gestão nessas três áreas bem como para melhorar os serviços de proteção social e a qualidade do ensino, promover
+a conservação das florestas sob pressão de desmatamento, promover a bioeconomia, reduzir a insegurança alimentar e garantir
+permanência dos alunos na escola. Com isso, o componente 2 de assistência técnica pretende mitigar estas dificuldades com três
+ações descritas a seguir.
+   S - GESTÃO DO PROJETO
+Este subcomponente tem como objetivo garantir à SEDUC, SEASTER e SEMAS a estrutura adequada para a realização das
+ações previstas no projeto. 
+      P - Composição da Unidade Gestora do Projeto                                                         
+O Projeto prevê a criação de uma Unidade Gestão do Projeto (UGP) composta por consultores especializados nas áreas de
+atuação, assim como servidores das secretarias. Essa integração entre especialistas e servidores já em atuação no órgão visa
+fortalecer a capacidade de execução e monitoramento das secretarias envolvidas e, de forma conjunta, dar perenidade às ações
+implementadas no escopo do projeto. A UGP será o órgão responsável pelo acompanhamento da execução das ações do projeto.
+A fim de apoiar as ações de monitoramento, o Projeto inclui a implementação dos sistemas digitais (listados abaixo). Fundamental
+considerar que durante a etapa de estudos, previstos no subcomponente 2.3, será realizada um levantamento rigoroso e analisado
+de forma aprofundada os sistemas já em uso pelas secretarias, assim como aqueles disponibilizados de forma livre e que possam
+suprir demandas necessárias.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 15
+   S - SISTEMAS PARA A GESTÃO DE PROGRAMAS ESTADUAIS                                     
+Tendo em vista as complexidades inerentes a um projeto multissetorial que busca alterar de forma significativa e permanente
+indicadores fundamentais nas áreas de educação, proteção social e meio ambiente, é fundamental a provisão de sistemas que
+tragam ganhos de eficiência e transparência para a gestão do projeto. Durante a etapa de preparação do projeto será analisado se
+os sistemas aqui propostos serão desenvolvidos diretamente ou se serão adquiridas soluções customizadas já implementadas em
+outras redes. Para o escopo desta Carta Consulta, descrevemos de forma sintética as principais funcionalidades necessárias
+dentro de cada sistema proposto.
+      P - Sistema de Gestão e Monitoramento do Programa de Incentivo às Famílias                        
+Considerando as complexidades das ações de combate à fome propõe-se a implementação de sistema específico de
+monitoramento de Insegurança Alimentar e do Programa de incentivo às famílias em situação de extrema pobreza e insegurança
+alimentar, especialmente aquelas com crianças e adolescentes na escola. A atenção demanda forte articulação intersetorial e
+monitoramento do atendimento, cobertura e cumprimento de metas do Programa. O Sistema irá gerenciar o registro de
+atendimentos das famílias, serviços incluídos, frequência em atividades específicas e evolução de atendimento (gerenciamento de
+casos) e o monitoramento de condicionalidades dos programas de transferência de renda. A ferramenta irá possibilitar o
+georreferenciamento das ofertas nos territórios e a comunicação de demandas para políticas setoriais. Deve ainda, ser integrado
+ao Sistema de monitoramento de insegurança alimentar e bases de dados do Cadastro Único.
+A UGP, por meio de equipe especializada, será responsável por coordenar todo o processo de implementação do sistema, assim
+como definir as ações de formação e capacitação de pessoal para utilização do sistema na SEASTER, SEDUC e outros órgãos
+envolvidos nos programas de alimentação e incentivo às famílias.
+      P - Sistema de Gestão e Monitoramento do Projeto          
+Com o intuito de sistematizar e dar transparência para os processos de acompanhamento dos indicadores do projeto Avança Pará,
+assim como para gestão dos processos de contratação, de compras e licitações, e organização dos estudos e documentações
+produzidos no escopo do projeto, propõe-se a implementação de um sistema geral de gestão e monitoramento. Além de abarcar
+funcionalidades para cumprir os objetivos descritos, o sistema deve possuir diferentes níveis de permissionamento para que os
+diferentes atores envolvidos no projeto possam acompanhar e monitorar as ações dentro de seu escopo de atuação.
+O Sistema de Gestão e Monitoramento do Projeto será administrado pela UGP, que também irá definir as áreas e atores
+responsáveis por alimentar o sistema com as informações relevantes para o projeto, assim como coordenar, junto as equipes
+contratadas para desenvolvimento e/ou provisão do serviço, ações de manutenção, ajuste, atualização e inclusão de novas
+funcionalidades consideradas essenciais durante o decorrer do projeto.
+   S - CONSULTORIAS
+As atividades de consultoria são fundamentais para apoiar em um correto e efetivo Planejamento de todas as atividades previstas
+no Componente 1, assim como para subsidiar o processo diagnóstico e mapeamento de processos para definição do caminho a
+ser tomado para implementação dos sistemas de gestão previstos. Composto de estudos, produção de análises estatísticas (ex.
+demanda de creches, modelos pedagógicos para educação infantil), avaliação de impacto do programa Brasil na Escola e subsídio
+técnico para o projeto. Um gargalo do PEAE é a falta de equipes técnicas especializadas para elaboração de formações e
+protocolos relacionados ao desenvolvimento do programa de alimentação. O projeto, em seu componente de assistência técnica,
+irá apoiar com especialistas essa finalidade. O projeto prevê apoio em diversas frentes do programa de inteligências emocionais: (i)
+desenvolvimento de materiais com atividades estruturadas para guiar as discussões com os alunos de Ensino Fundamental e
+Ensino Médio; (ii) formação para os monitores na implementação da estratégia; guias para diretores de escola implementarem as
+discussões estruturadas; (iv) elaboração de questionários de monitoramento e acompanhamento. A SEDUC planeja oferecer esta
+atividade para os alunos e professores das escolas públicas e também atividades específicas para os pais. 
+      P - Estudos, Eventos e Consultorias                                                                         
+Uma série de estudos, eventos e avaliações que tem por objetivo subsidiar tecnicamente as atividades desenvolvidas pelo projeto.
+Consiste nos seguintes subprodutos: i) estudos técnicos propondo um módulo de projeto de escolas sustentáveis adaptado à
+realidade do Pará; ii) estudo documentando os modelos pedagógicos internacionais como alternativas para a alfabetização na
+idade certa; iii) elaboração de cursos de formação dos monitores do Ensino no Nível Certo e Sistema de Alerta Preventivo; iv)
+elaboração e organização de materiais estruturados de matemática e Português para o programa de Ensino no Nível Certo;
+mapeamento de processos e definição de funcionalidades necessários para os sistemas de gestão propostos no projeto; v)
+estudos técnicos para definição dos parâmetros do programa Bolsa Floresta e avaliação de seus resultados; vii) seminários,
+Workshops e Eventos de divulgação das atividades do projeto.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 16
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Obras
+-
+-
+156.500.000,00
+44,71
+P- Reforma e equipamento de CREAS/CRAS,
+Equipes Volantes sustentável               
+Número
+53,00
+45.000.000,00
+12,86
+P- Implementação de tecnologia de conectividade
+digital                                        
+Número
+300,00
+14.000.000,00
+4,00
+P- Construção de Escolas Sustentáveis
+                                                 
+Número
+15,00
+56.500.000,00
+16,14
+P- Reforma de Escolas considerando
+sustentabilidade ambienta
+Número
+40,00
+35.000.000,00
+10,00
+P- Estrutura de Conectividade de Internet nas
+Escolas                                             
+Número
+218,00
+6.000.000,00
+1,71
+Bens
+-
+-
+5.000.000,00
+1,43
+P- Inteligência espacial para Força de Combate
+ao desmatamento                            
+Número
+1,00
+5.000.000,00
+1,43
+Consultoria
+-
+-
+10.000.000,00
+2,86
+P- Composição da Unidade Gestora do Projeto
+                                                    
+Número
+1,00
+2.500.000,00
+0,71
+P- Sistema de Gestão e Monitoramento do
+Programa de Incentivo às Famílias                        
+Número
+1,00
+2.000.000,00
+0,57
+P- Sistema de Gestão e Monitoramento do Projeto
+          
+Número
+1,00
+3.000.000,00
+0,86
+P- Estudos, Eventos e Consultorias
+                                                 
+Número
+15,00
+2.500.000,00
+0,71
+Serviços que Não de Consultoria
+-
+-
+47.500.000,00
+13,57
+P- Enfrentamento à Fome
+                         
+Número
+120,00
+25.000.000,00
+7,14
+P- Promoção de negócios da Bioeconomia
+                                                 
+Número
+25,00
+12.500.000,00
+3,57
+P- Implementação do Sistema de Alerta
+Preventivo de Evasão Escolar                     
+Percentual
+85,00
+5.500.000,00
+1,57
+P- Programa de desenvolvimento das
+Inteligências Emocionais                                 
+Percentual
+70,00
+4.500.000,00
+1,29
+Capacitação e Treinamento
+-
+-
+25.000.000,00
+7,14
+P- Fortalecimento do Sistema Único de
+Assistência Social (SUAS)
+Número
+120,00
+25.000.000,00
+7,14
+Outros
+-
+-
+106.000.000,00
+30,29
+P- Programa de incentivo às famílias em
+vulnerabilidade social                                
+Número
+80.000,00
+30.000.000,00
+8,57
+P- Instituição do Bolsa Floresta
+                                             
+Número
+20.000,00
+58.500.000,00
+16,71
+P- Programa Estadual de Alimentação Escolar (
+PEAE)                                                          
+Número
+120,00
+4.500.000,00
+1,29
+P- Programa Alfabetiza Pará
+                                                
+Número
+120,00
+7.500.000,00
+2,14
+P- Implementação do Ensino No Nível Certo
+                                                
+Percentual
+85,00
+5.500.000,00
+1,57
+Total Geral
+-
+-
+350.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+Programa Estadual de Alimentação Escolar no Estado do Pará (PEAE): O PEAE, implementado em 2019, consiste na transferência de
+recursos do estado para os municípios, mediante adesão dos entes. Caso o município tenha aderido ao programa, ele pode adquirir
+alimentos perecíveis, não perecíveis e gás de cozinha na localidade e posteriormente realizar a prestação de contas ao estado. Caso o
+município não tenha aderido, a aquisição da alimentação escolar é feita diretamente pela SEDUC. Atualmente 131 dos 144 municípios
+aderiram ao programa. O programa contempla 510 escolas (57,4%) e 319346 alunos (55,7%).  A previsão orçamentária para o programa
+em 2023 é de R$80,9 milhões, sendo que R$29,3 é do Tesouro Estadual e o restante são recursos do FNDE.
+
+Programa Alfabetiza Pará: O programa Alfabetiza Pará foi lançado recentemente pelo governo do estado (Fev/2023) e aguarda aprovação
+na Assembleia Legislativa do estado. O programa tem o objetivo de auxiliar os municípios no desenvolvimento dos alunos dos anos
+iniciais (1º ao 5º ano) durante a alfabetização. O Alfabetiza Pará é composto por sete eixos que envolvem oferta de materiais pedagógicos,
+formação de profissionais da educação, avaliação e monitoramento dos resultados, premiação das escolas com melhores resultados,
+apoio e assessoria técnico-financeiro para os municípios. Além disso, o programa prevê bolsas para profissionais alfabetizadores. 
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 17
+Programa Estadual de Transporte Escolar (PETE/PA): O programa de transporte escolar foi criado em 2019 e consiste na assistência
+financeira aos municípios para garantir transporte escolar aos alunos. Os municípios fazem adesão ao programa e o estado transfere os
+recursos de acordo com o valor definido pelo FNDE e a área territorial do município. Em 2019 o programa atendia 131 municípios e ilhas.
+O investimento esperado em transporte escolar do estado para 2023 é de R$191 milhões.  
+
+Plano Estadual de Segurança Alimentar e Nutricional (PESAN): é um instrumento construído de forma participativa, que envolve diferentes
+setores e políticas públicas para o planejamento, da gestão e da execução da Política Estadual de Segurança Alimentar e Nutricional
+Sustentável ( programas, ações e projetos), principalmente o orçamento público para custeio e investimento das ações. O plano atual tem
+vigência entre os anos 2020 e 2023, período disponível para adesão dos municípios. Os municípios aderidos devem implementar as ações
+ contidas no plano em nível local.
+
+Plano Estadual de Assistência Social (PEAS): é um instrumento de planejamento estratégico que apresenta as intenções e os resultados
+que se pretendem atingir no período de quatro anos, que além de prevista e determinada pela LOAS e pela Norma Operacional Básica da
+Assistência Social (NOB/SUAS 2012). O instrumento estabelece ações e metas para o aprimoramento do Sistema e reafirma o
+compromisso para com a política pública da Assistência Social no Estado na condução do Sistema Único de Assistência Social (SUAS).
+
+Conectividade digital: Nas oitivas da elaboração do Plano Estadual de Bioeconomia (Planbio), publicado em novembro de 2022, o suporte
+à conectividade digital no interior do Estado foi uma das demandas prioritárias.  Isso reforça a análise técnica das equipes de
+regularização ambiental, em especial do Cadastro Ambiental Rural (CAR) que a fragilidade ? ou inexistência ? da conectividade nas áreas
+remotas impede a conclusão do processo de regularização, a validação de informações e os canais de denúncia.  Por sua vez, a
+Universidade Federal do Pará, parceiro SEMAS através da Fundação Guamá e o do Parque de Ciência e Tecnologia, tem experiência na
+implantação de redes comunitárias e este objetivo deve integrar os Planos de Trabalho do contrato de Gestão com a SEMAS. 
+ 
+Adicionalmente, num importante passo do seu processo de transformação digital, a SEMAS lançou em março do 2023 do seu Portal de
+Transparência, com módulos de Recursos Hídricos, Programa Amazônia Agora, e o Sistema de fiscalização e monitoramento,
+disponibilizados ao cidadão e o Portal da Atos Autorizativos. Levar a conectividade digital para as comunidades da ponta, em especial
+aquelas de povos e populações tradicionais, pequenos agricultores e população socialmente mais vulnerável realiza a função do Estado
+aproximando-o do cidadão. 
+
+Bolsa Floresta: a SEMAS iniciou em março de 2023 tratativas para realizar um piloto do pagamento de bolsas, em parceria com a
+Fundação Amazônia Sustentável (FAS).  A Fundação é a gestora financeira do Programa de Bolsa Floresta no Estado do Amazonas, que
+desde 2008 já apoiou 9 mil famílias em 16 Unidades de Conservação, conquistando redução do desmatamento e melhoria de indicadores
+sociais.  A mesma FAS é parceira da SEMAS desde 2022, e executora financeira de um projeto de doação de recursos de cooperação
+internacional que, dentre outros objetivos, irá pilotar o desenvolvimento do Bolsa Floresta do Pará em 2023, em 01 unidade de
+conservação.  A SEMAS acredita que esse piloto, para as famílias que vivem dentro e no entorno de um território coletivo em processo de
+seleção, lhe dará capacidade para desenhar um programa na escala do projetado com os recursos desta operação. 
+
+Promoção da Bioeconomia: Com amplo leque de parceiros a SEMAS prevê a conclusão de acordo de cooperação técnica em revisão
+junto a Fundação Guamá (do Parque de Ciência e Tecnologia (PC&T) Guamá e através dele a colaboração com discentes das faculdades
+de Engenharia da Computação e Telecomunicações e da Faculdade de Ciência da Computação da Universidade Federal do Pará.  A
+especialidade e a capacidade de realização dessa equipe de colaboradores foram demonstradas na constituição do ramo paraense da
+Rede Nacional de Ensino e Pesquisa, com suas inovações na contratação de provedores locais, em acordos de troca de infraestrutura por
+compromissos de manutenção da rede.  Complementarmente, a SEMAS é parceria de entidades privadas com experiência nos editais de
+promoção de negócios da bioeconomia (notadamente Conexsus, Sitawi, Amaz) com quem planeja editais a serem lançados em meados
+de 2023, fruto de outros programas de apoio financeiro.  
+
+Força Estadual de Combate ao Desmatamento (FECD):  a Força consiste de um contingente de mais de 100 profissionais de fiscalização,
+geridos de colegiado composto pelas polícias do Estado, o corpo de Bombeiros e a SEMAS, instituída emergencialmente em 2019 com
+recursos repatriados da Petrobrás e amparada por decisão da suprema corte que autorizou a contratação temporária.  Já foram mais de
+15 operações realizadas.  Em janeiro de 2023, a SEMAS realizou um concurso público para contratação permanente dos membros da
+Força e, com o Avança Pará, pretende qualificar sua atuação com inteligência de gestão e engajamento dos municípios alvo das
+operações. 
+
+
+
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Estadual/Sem detalhes
+Estado do Pará ()
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 18
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+2.10.1. CONDIÇÕES FINANCEIRAS DA OPERAÇÃO:
+
+Para a viabilização do apoio financeiro à execução do Projeto, o Estado consultou 4 (quatro)  organismos internacionais que apresentaram
+as condições financeiras, com comparativo entre elas constante do Anexo IV, resultando na deliberação de o Estado contratar a fonte de
+recursos do Banco Internacional para Reconstrução e Desenvolvimento  BIRD (Banco Mundial), por apresentar esse organismo
+internacional multilateral, na alternativa de interesse do Estado, Opção 1, conforme quadro Resumo das Opções do Anexo VI, a menor
+taxa indicativa de juros e de demais encargos, conjugada com a melhor estruturação de prazo de carência, prazo de amortização e de
+prazo total do empréstimo, que atendem às necessidades e o critério de maior vantajosidade para o Estado do Pará. Ademais representa
+a opção que apresentou o menor Custo Total da Operação, conforme avaliação da planilha de Simulação de Custo objeto do Anexo VII.
+
+Condições financeiras do BIRD  Banco Mundial (Instituição Financeira selecionada):
+Valor estimado de USD 280.000.000,00 (duzentos e oitenta milhões de dólares americanos).
+instrumento de empréstimo proposto é o Investment Projeto Financing (IPF).
+Prazo de Carência: 60 meses (5 anos)
+Prazo de Amortização: 156 meses (13 anos)
+Prazo Total do financiamento: 216 meses (18 anos)
+Periodicidade da Amortização: Parcelas Semestrais
+Taxa de Juros: SOFR semestral + 0,80% (spread)
+Demais encargos e comissões: Comissão inicial de 0,25% sobre valor do empréstimo + Comissão de Compromisso de 0,25% a.a. sobre o
+ saldo não desembolsado do financiamento. Sobretaxa de 0,50% pode ser aplicada caso o país ultrapasse o single borrower limit.
+
+Os desembolsos do componente 1 estarão vinculados às metas dos programas e ações apoiadas acordadas entre Banco Mundial e
+Governo do Estado do Pará por meio de indicadores de performance (PBCs). Para o componente de assistência técnica (Componentes 2.
+1, 2.2 e 2.3) serão utilizadas a política de aquisições, gestão financeira e salvaguardas ambientais e sociais do Banco Mundial. Todos os
+recursos serão desembolsados diretamente para o Tesouro Estadual.
+Registre-se que a definição dos termos financeiros para a operação de crédito, quando aprovado e preparado o projeto de financiamento
+pela COFIEX, será feita com o apoio da Secretaria do Tesouro Nacional (STN) do Ministério da Fazenda (MF) na fase de Negociação das
+minutas contratuais do projeto. 
+
+2.10.2. NECESSIDADE DE FINANCIAMENTO EXTERNO E A OPÇÃO PELO AGENTE FINANCEIRO:
+
+Em face do expressivo aumento da taxa de juros internos, considerando uma taxa referencial utilizada pelos agentes financeiros nacionais
+, com base no CDI, persistente na ordem de 13.65% a.a., o financiamento oriundo de fonte externa se constitui um instrumento de custo
+bem menor que os de origem de fontes internas, o qual, ademais, viabiliza apoio mais célere à aplicação em investimentos e políticas
+públicas pelos entes da Federação, necessários à melhoria do acesso, garantia e expansão de serviços públicos de qualidade,
+indispensáveis ao pleno desenvolvimento sustentável do Estado do Pará. Ademais, o Estado sozinho, fundamentalmente, não tem
+capacidade financeira de arcar com o investimento, considerando que as necessidades de recursos extrapolam em muito os recursos
+ordinários previstos no orçamento geral do estado para os exercícios.
+
+O Governo do Pará sempre procura as melhores alternativas para sua carteira de crédito, entre os diversos organismos e agências de
+crédito que disponibilizam financiamentos com prazos mais longos e taxas de juros diferenciadas. Assim, objetivando a viabilização de
+implementação do projeto, o Estado identificou opções de fontes de recursos externas, tendo como base as propostas apresentadas no
+item 2.10.1 Condições Financeiras, disponíveis por organismos financeiros internacionais, considerando ser o Pará um ente da Federação
+que possui nota atual de capacidade de pagamento, classificada com rating "A", que permite que o Estado ser elegível a receber a
+garantia da União para novos empréstimos, bem como, paralelamente, possui Espaço Fiscal para 2023, disponível para pleitear a
+aprovação de contratos de empréstimo perante o Governo Federal, aliado à sua capacidade de endividamento e uma excelente
+performance de bom pagador. 
+
+Para este projeto, o Governo do Pará realizou análise das opções de financiamento externo em relação ao crédito interno, considerando
+quatro pontos: 1) Prazo total maior para financiamento externo; 2) Limitações do crédito Interno para disponibilidade de recursos; 3) Prazo
+de preparação mais curto nas operações internas gerando custos de maiores valores para a instituição executora; e 4) Maior apoio técnico
+ e compartilhamento de conhecimento proporcionado pelas Instituições multilaterais.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 19
+Após a análise financeira, com base nas condições financeiras e nos critérios acima, o Estado deliberou por selecionar o BIRD (Banco
+Mundial), com a escolha do agente para financiamento se justificando pela forte expertise do Banco Mundial em projetos de alta
+complexidade em diferentes contextos, principalmente em projetos voltados ao combate à fome, manutenção das florestas em pé e
+aceleração da aprendizagem. 
+
+Ademais, com base nos termos financeiros foi o organismo que ofertou proposta com taxa de juros e outros encargos mais vantajosa para
+o Pará, além de o BIRD ser um organismo que realiza operações com a União, estados, municípios e setor privado, com larga experiência
+na preparação e aporte de apoio a projetos na área, potencializando esforços para melhoria das condições sociais e econômicas e,
+consequentemente, contribuindo para redução da pobreza no país. Como instituição multilateral da qual o Brasil é membro, o Banco
+Mundial oferece condições financeiras extremamente favoráveis especialmente quando comparadas as instituições financeiras comerciais
+e similares aos demais órgãos multilaterais.
+
+O Pará tem histórico de parcerias de sucesso com o BIRD na implementação do Programa de apoio à Modernização e Transparência da
+Gestão Fiscal do Estado do Pará  PROGEFAZ, na finalidade de Fortalecimento Institucional, e no Programa de Redução da Pobreza e
+Gestão dos Recursos Naturais - Pará Rural, voltado para a finalidade do Desenvolvimento Rural. 
+Cabe enfatizar que não estarão presentes na execução do projeto fatores externos e totalmente fora da governança do Governo do
+Estado, que prejudicaram e impactaram sobremaneira o cumprimento dos cronogramas originais dos atuais contratos de empréstimo
+externos do Pará, a exemplo do co-financiamento da CAF-NDB para o Programa Municípios Sustentáveis e do empréstimo da JICA para o
+Programa Ação Metrópole. Destacam-se dentre esses fatores externos a Pandemia de COVID19 em 2019 impactando diretamente o
+contingente de pessoal alocado nas obras, além de dificultar a execução de atividades administrativas como a tramitação dos certames
+licitatórios e elaboração de peças técnicas, paralisando obras já contratadas. Também a complexidade das obras envolvidas nesses
+projetos de investimentos, para o que é necessário considerar que a nível nacional há carência de capacidade técnica de empresas locais
+para executar obras da natureza de gestão integrada de resíduos sólidos e, por fim, impactos econômicos e financeiros, também
+decorrentes da pandemia, que resultaram negativamente na solidez e na própria permanência no mercado de empresas e da viabilidade
+de manutenção de consórcios empresariais, na execução dos projetos de grande porte, como o Ação Metrópole. Em face disso, o
+Governo do Estado, por meio das ações coordenadas, competentes e convergentes dos órgãos executores do arranjo institucional, firma o
+compromisso de fiel cumprimento do prazo e cronograma físico-financeiro proposto para o projeto, garantindo assim habilitação aos
+desembolsos rigorosamente dentro do prazo de execução do Programa Avança Pará. 
+
+
+2.11. PROJETO/BENEFICIÁRIO
+O Programa Avança Pará beneficiará os 144 municípios do Pará, com foco na região do Marajó. Ao total, cerca de 100 mil alunos do
+Ensino Fundamental e Médio serão diretamente beneficiados. O foco principal das atividades de proteção social está em cerca de 1.5
+milhão de famílias vulneráveis do estado inscritas no Cadastro Único. Já as ações de proteção ambiental impactarão diretamente 12 mil
+pessoas pelo Bolsa Floresta, ao menos 15 negócios gerados de emprego e renda, e suas respectivas cadeias de fornecimento e algumas
+centenas de formados nas instituições de repartição de benefícios do uso da biodiversidade. 
+ 
+A análise das ações do Programa Avança Pará vis-à-vis as categorias analíticas presentes no item 4 [Áreas Estratégicas e impactos do
+projeto] do Anexo da Resolução COFIEX no 17/2021 indica que o projeto apresenta alta compatibilidade com o perfil de análise da
+Comissão. Mais especificamente, é possível afirmar que o Projeto contempla diretamente 12 (doze) e indiretamente 2 (duas) das 15 (
+quinze) áreas estratégicas listadas dos quinze itens ambientais, sociais e econômicos listados, resultando numa pontuação de 1,867 (
+Anexo 3 &#42999; Quatro de Autoavaliação)
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Internas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Contrapartida Financeira
+CF
+US$
+70.000.000,00
+1,00
+70.000.000,00
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+BIRD
+US$
+280.000.000,00
+1,00
+280.000.000,00
+Total:
+350.000.000,00
+350.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 20
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+O órgão executor do programa Avança Pará será a Secretaria Estadual de Educação (SEDUC). Porém, o Programa Avança Pará
+envolverá: (i) Secretaria Estadual de Educação (SEDUC); (ii) a Secretaria de Assistência Social (SEASTER); (iii) Secretaria Estadual de
+Meio Ambiente e Desenvolvimento Sustentável (SEMAS); (iv) Secretaria Estadual do Planejamento (SEPLAD); (v) Secretaria Estadual da
+Fazenda (SEFA); (vi) as Secretarias Municipais de Educação e Assistência Social; e (vii) a Controladoria Estadual.
+
+Estes atores serão agrupados em duas estruturas operacionais:
+a)Comissão Avança Pará: grupo nomeado (via Decreto) pelo gabinete do Governador do Estado e formado por membros da Secretaria
+Estadual de Educação (SEDUC), Secretaria de Assistência Social (SEASTER), Secretaria de Meio Ambiente e Desenvolvimento
+Sustentável (SEMAS), com conselhos municipais.
+
+b)Unidade Gestão do Projeto (UGP): a unidade de gestão do projeto será composta por técnicos de diferentes áreas de gestão com
+dedicação exclusiva. A Unidade Gestora de Projeto será mapeada à Secretaria Estadual de Educação, com um centro descentralizado na
+SEMAS e SEASTER. A responsabilidade de planejamento, execução, celeridade e monitoramento das atividades do projeto será da UGP.
+ A UGP será a principal interlocutora do Programa Avança Pará com o Banco Mundial. 
+
+Entre as atividades da UGP:
+(i)Planejamento do Programa Avança Pará;
+(ii)Acompanhamento dos processos de licitação de bens e serviços;
+(iii)Supervisão;
+(iv)Implantação das medidas de mitigação de riscos;
+(v)Apresentação de solicitações de desembolso dos indicadores, 
+(vi)Elaboração de prestação de contas, arquivo, interface com o banco;
+(vii)Apresentação de evidências do cumprimento de cláusulas contratuais; e
+(viii)Elaboração dos relatórios de andamento.
+
+A contratação da UGP passará por uma avaliação da equipe da gestão de projetos internacionais. Será estudado se o projeto poderá
+fortalecer a capacidade de unidades gestoras já existentes contratando profissionais para as áreas de monitoramento financeiro, avaliação
+e contratos. Devido ao caráter descentralizado das atividades, serão contratados: (i) um coordenador das ações de combate à fome, (ii)
+um coordenador das atividades de aceleração da aprendizagem; um (iii) coordenador de sistemas de gestão e (iv) um coordenador para
+ações ambientais. A nível de especialista planeja-se incluir: (i) um especialista em Segurança Alimentar e Nutricional, (ii) especialista em
+Assistência Social, (iii) especialista em Transferência de Renda e Qualificação Profissional, (vi) especialista em Conectividade e
+Tecnologia na Educação, (iii) Especialista em Currículo e Formação, (iv) Especialista em Alfabetização, e (vi) especialista em Avaliação
+Diagnóstica e Formativa. Como o projeto contém Infraestrutura, a UGP terá uma estrutura específica contendo: (i) Especialista em
+Monitoramento da Infraestrutura Escolas e de Proteção Social, contando com 3 analistas em infraestrutura; e (ii) especialista para
+monitoramento de reformas, contando com 3 analistas em reformas.
+
+Matriz de Responsabilidades (Anexo II)
+
+Responsável 1: Secretaria Estadual de Educação (SEDUC)
+Ações e Atividades:
+Órgão Executor do Projeto;
+Unidade responsável pela coordenação técnica do projeto; 
+
+Responsável 2: Secretaria de Assistência Social, Trabalho, Emprego e Renda (SEASTER) & Secretaria Estadual de Educação (SEDUC) e
+ Secretaria de Meio Ambiente e Sustentabilidade (SEMAS)
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 21
+Ações e Atividades:
+Coordenação do Ensino Fundamental AF;
+Coordenação do Programa Alfabetiza Pará;
+Coordenação da Aceleração Aprendizagem;
+Coordenação do Programa de Insegurança Alimentar e SAN;
+Coordenação do Programa de Incentivos Financeiros às famílias vulneráveis;
+Coordenação do SUAS;
+Coordenação do componente ?Florestas em Pé?;
+Monitoramento e avaliação do Projeto;
+Decisões técnicas e operacionais;
+Apoio às Secretarias Municipais de Educação para implementação do Projeto;
+Licitações e administração dos contratos do componente 2;
+
+Responsável 3: Secretaria Estadual de Planejamento (SEPLAD) e Secretaria Estadual da Fazenda (SEFA);
+
+Ações e Atividades:
+Gestão no Planejamento estratégico do estado e orçamentário do programa
+Gestão financeira do projeto;
+Repasse de recursos de linhas orçamentárias específicas aos municípios participantes.
+
+Responsável 4: Secretarias Municipais de Educação (SMED).
+
+Ações e Atividades:
+Implementadores do Programa de Insegurança Alimentar, Alfabetiza Pará e Aceleração das Aprendizagens em seus territórios.
+
+Responsável: Auditoria Geral do Estado.
+Ações e Atividades: 
+Realização da auditoria financeira do Programa apoiado pelo Banco Mundial por meio do financiamento.
+
+Responsável: Arranjos/Instituição a ser definida durante a preparação do Projeto.
+
+Ações e Atividades:
+Realização da avaliação técnica independente para validar o alcance dos indicadores vinculados aos desembolsos do empréstimo
+
+
+4.2. Execução/Executores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 22
+Executor: Secretaria de Estado de Educação do Pará
+Representante Oficial: Rossieli Soares da Silva
+Endereço da Sede: Avenida Augusto Montenegro, Km 10, 3º andar
+E-mail Institucional:
+Telefone: 91 9134 4495
+Fax:
+CNPJ: 05054937000163 
+UF:
+4.3. Execução/Prazo
+Prazo de Desembolso:
+5
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - COMBATE À FOME, FLORESTAS EM PÉ E ACELERAÇÃO DA APRENDIZAGEM
+               
+340.000.000,00
+4.000.000,00
+26.000.000,00
+   S - COMBATE À FOME
+125.000.000,00
+2.500.000,00
+6.000.000,00
+      P - Fortalecimento do Sistema Único de Assistência Social (SUAS)
+25.000.000,00
+0,00
+1.000.000,00
+P - Enfrentamento à Fome
+                              
+25.000.000,00
+0,00
+2.000.000,00
+      P - Programa de incentivo às famílias em vulnerabilidade social                                
+30.000.000,00
+0,00
+1.000.000,00
+      P - Reforma e equipamento de CREAS/CRAS, Equipes Volantes sustentável               
+45.000.000,00
+2.500.000,00
+2.000.000,00
+   S - FLORESTA EM PÉ
+90.000.000,00
+0,00
+11.000.000,00
+      P - Implementação de tecnologia de conectividade digital                                        
+14.000.000,00
+0,00
+2.000.000,00
+      P - Inteligência espacial para Força de Combate ao desmatamento                            
+5.000.000,00
+0,00
+1.000.000,00
+      P - Promoção de negócios da Bioeconomia                                                             
+12.500.000,00
+0,00
+3.000.000,00
+      P - Instituição do Bolsa Floresta                                                                            
+58.500.000,00
+0,00
+5.000.000,00
+   S - ACELERAÇÃO DA APRENDIZAGEM
+125.000.000,00
+1.500.000,00
+9.000.000,00
+      P - Construção de Escolas Sustentáveis                                                                  
+56.500.000,00
+0,00
+2.000.000,00
+      P - Reforma de Escolas considerando sustentabilidade ambienta
+35.000.000,00
+0,00
+2.000.000,00
+      P - Programa Estadual de Alimentação Escolar (PEAE)                                                          
+4.500.000,00
+0,00
+500.000,00
+      P - Estrutura de Conectividade de Internet nas Escolas                                             
+6.000.000,00
+500.000,00
+1.000.000,00
+      P - Programa Alfabetiza Pará                                                                                   
+7.500.000,00
+500.000,00
+1.000.000,00
+      P - Implementação do Ensino No Nível Certo                                                          
+5.500.000,00
+0,00
+1.000.000,00
+      P - Implementação do Sistema de Alerta Preventivo de Evasão Escolar                     
+5.500.000,00
+0,00
+1.000.000,00
+      P - Programa de desenvolvimento das Inteligências Emocionais                                 
+4.500.000,00
+500.000,00
+500.000,00
+C - GESTÃO E MONITORAMENTO (ASSISTÊNCIA TÉCNICA)                                                  
+10.000.000,00
+0,00
+800.000,00
+   S - GESTÃO DO PROJETO
+2.500.000,00
+0,00
+500.000,00
+      P - Composição da Unidade Gestora do Projeto                                                         
+2.500.000,00
+0,00
+500.000,00
+   S - SISTEMAS PARA A GESTÃO DE PROGRAMAS ESTADUAIS                                     
+5.000.000,00
+0,00
+0,00
+      P - Sistema de Gestão e Monitoramento do Programa de Incentivo às Famílias                        
+2.000.000,00
+0,00
+0,00
+      P - Sistema de Gestão e Monitoramento do Projeto          
+3.000.000,00
+0,00
+0,00
+   S - CONSULTORIAS
+2.500.000,00
+0,00
+300.000,00
+      P - Estudos, Eventos e Consultorias                                                                         
+2.500.000,00
+0,00
+300.000,00
+Total
+0,00
+4.000.000,00
+26.800.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - COMBATE À FOME, FLORESTAS EM PÉ E ACELERAÇÃO DA APRENDIZAGEM
+               
+21.700.000,00
+70.000.000,00
+   S - COMBATE À FOME
+7.500.000,00
+23.000.000,00
+      P - Fortalecimento do Sistema Único de Assistência Social (SUAS)
+2.500.000,00
+5.000.000,00
+P - Enfrentamento à Fome
+                              
+5.000.000,00
+7.000.000,00
+      P - Programa de incentivo às famílias em vulnerabilidade social                                
+0,00
+3.000.000,00
+      P - Reforma e equipamento de CREAS/CRAS, Equipes Volantes sustentável               
+0,00
+8.000.000,00
+   S - FLORESTA EM PÉ
+7.500.000,00
+20.500.000,00
+      P - Implementação de tecnologia de conectividade digital                                        
+1.000.000,00
+4.000.000,00
+      P - Inteligência espacial para Força de Combate ao desmatamento                            
+500.000,00
+1.000.000,00
+      P - Promoção de negócios da Bioeconomia                                                             
+1.000.000,00
+2.500.000,00
+      P - Instituição do Bolsa Floresta                                                                            
+5.000.000,00
+13.000.000,00
+   S - ACELERAÇÃO DA APRENDIZAGEM
+6.700.000,00
+26.500.000,00
+      P - Construção de Escolas Sustentáveis                                                                  
+3.000.000,00
+12.500.000,00
+      P - Reforma de Escolas considerando sustentabilidade ambienta
+2.000.000,00
+8.000.000,00
+      P - Programa Estadual de Alimentação Escolar (PEAE)                                                          
+500.000,00
+500.000,00
+      P - Estrutura de Conectividade de Internet nas Escolas                                             
+500.000,00
+2.000.000,00
+      P - Programa Alfabetiza Pará                                                                                   
+500.000,00
+1.000.000,00
+      P - Implementação do Ensino No Nível Certo                                                          
+100.000,00
+1.000.000,00
+      P - Implementação do Sistema de Alerta Preventivo de Evasão Escolar                     
+100.000,00
+1.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 23
+      P - Programa de desenvolvimento das Inteligências Emocionais                                 
+0,00
+500.000,00
+C - GESTÃO E MONITORAMENTO (ASSISTÊNCIA TÉCNICA)                                                  
+0,00
+3.700.000,00
+   S - GESTÃO DO PROJETO
+0,00
+500.000,00
+      P - Composição da Unidade Gestora do Projeto                                                         
+0,00
+500.000,00
+   S - SISTEMAS PARA A GESTÃO DE PROGRAMAS ESTADUAIS                                     
+0,00
+2.500.000,00
+      P - Sistema de Gestão e Monitoramento do Programa de Incentivo às Famílias                        
+0,00
+1.000.000,00
+      P - Sistema de Gestão e Monitoramento do Projeto          
+0,00
+1.500.000,00
+   S - CONSULTORIAS
+0,00
+700.000,00
+      P - Estudos, Eventos e Consultorias                                                                         
+0,00
+700.000,00
+Total
+0,00
+21.700.000,00
+73.700.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - COMBATE À FOME, FLORESTAS EM PÉ E ACELERAÇÃO DA APRENDIZAGEM
+               
+20.550.000,00
+77.500.000,00
+   S - COMBATE À FOME
+7.500.000,00
+28.000.000,00
+      P - Fortalecimento do Sistema Único de Assistência Social (SUAS)
+0,00
+7.000.000,00
+P - Enfrentamento à Fome
+                              
+0,00
+4.000.000,00
+      P - Programa de incentivo às famílias em vulnerabilidade social                                
+5.000.000,00
+7.000.000,00
+      P - Reforma e equipamento de CREAS/CRAS, Equipes Volantes sustentável               
+2.500.000,00
+10.000.000,00
+   S - FLORESTA EM PÉ
+7.250.000,00
+24.000.000,00
+      P - Implementação de tecnologia de conectividade digital                                        
+1.000.000,00
+4.000.000,00
+      P - Inteligência espacial para Força de Combate ao desmatamento                            
+250.000,00
+1.000.000,00
+      P - Promoção de negócios da Bioeconomia                                                             
+1.000.000,00
+2.000.000,00
+      P - Instituição do Bolsa Floresta                                                                            
+5.000.000,00
+17.000.000,00
+   S - ACELERAÇÃO DA APRENDIZAGEM
+5.800.000,00
+25.500.000,00
+      P - Construção de Escolas Sustentáveis                                                                  
+3.000.000,00
+12.500.000,00
+      P - Reforma de Escolas considerando sustentabilidade ambienta
+1.000.000,00
+8.000.000,00
+      P - Programa Estadual de Alimentação Escolar (PEAE)                                                          
+500.000,00
+500.000,00
+      P - Estrutura de Conectividade de Internet nas Escolas                                             
+0,00
+1.000.000,00
+      P - Programa Alfabetiza Pará                                                                                   
+500.000,00
+1.000.000,00
+      P - Implementação do Ensino No Nível Certo                                                          
+150.000,00
+1.000.000,00
+      P - Implementação do Sistema de Alerta Preventivo de Evasão Escolar                     
+150.000,00
+1.000.000,00
+      P - Programa de desenvolvimento das Inteligências Emocionais                                 
+500.000,00
+500.000,00
+C - GESTÃO E MONITORAMENTO (ASSISTÊNCIA TÉCNICA)                                                  
+0,00
+2.200.000,00
+   S - GESTÃO DO PROJETO
+0,00
+500.000,00
+      P - Composição da Unidade Gestora do Projeto                                                         
+0,00
+500.000,00
+   S - SISTEMAS PARA A GESTÃO DE PROGRAMAS ESTADUAIS                                     
+0,00
+1.000.000,00
+      P - Sistema de Gestão e Monitoramento do Programa de Incentivo às Famílias                        
+0,00
+1.000.000,00
+      P - Sistema de Gestão e Monitoramento do Projeto          
+0,00
+0,00
+   S - CONSULTORIAS
+0,00
+700.000,00
+      P - Estudos, Eventos e Consultorias                                                                         
+0,00
+700.000,00
+Total
+0,00
+20.550.000,00
+79.700.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - COMBATE À FOME, FLORESTAS EM PÉ E ACELERAÇÃO DA APRENDIZAGEM
+               
+19.550.000,00
+60.000.000,00
+   S - COMBATE À FOME
+7.500.000,00
+26.000.000,00
+      P - Fortalecimento do Sistema Único de Assistência Social (SUAS)
+2.500.000,00
+5.000.000,00
+P - Enfrentamento à Fome
+                              
+0,00
+4.000.000,00
+      P - Programa de incentivo às famílias em vulnerabilidade social                                
+5.000.000,00
+5.000.000,00
+      P - Reforma e equipamento de CREAS/CRAS, Equipes Volantes sustentável               
+0,00
+12.000.000,00
+   S - FLORESTA EM PÉ
+5.250.000,00
+9.000.000,00
+      P - Implementação de tecnologia de conectividade digital                                        
+1.000.000,00
+1.000.000,00
+      P - Inteligência espacial para Força de Combate ao desmatamento                            
+250.000,00
+1.000.000,00
+      P - Promoção de negócios da Bioeconomia                                                             
+1.000.000,00
+2.000.000,00
+      P - Instituição do Bolsa Floresta                                                                            
+3.000.000,00
+5.000.000,00
+   S - ACELERAÇÃO DA APRENDIZAGEM
+6.800.000,00
+25.000.000,00
+      P - Construção de Escolas Sustentáveis                                                                  
+4.000.000,00
+10.000.000,00
+      P - Reforma de Escolas considerando sustentabilidade ambienta
+1.000.000,00
+10.000.000,00
+      P - Programa Estadual de Alimentação Escolar (PEAE)                                                          
+500.000,00
+500.000,00
+      P - Estrutura de Conectividade de Internet nas Escolas                                             
+0,00
+1.000.000,00
+      P - Programa Alfabetiza Pará                                                                                   
+500.000,00
+1.000.000,00
+      P - Implementação do Ensino No Nível Certo                                                          
+150.000,00
+1.000.000,00
+      P - Implementação do Sistema de Alerta Preventivo de Evasão Escolar                     
+150.000,00
+1.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 24
+      P - Programa de desenvolvimento das Inteligências Emocionais                                 
+500.000,00
+500.000,00
+C - GESTÃO E MONITORAMENTO (ASSISTÊNCIA TÉCNICA)                                                  
+0,00
+2.500.000,00
+   S - GESTÃO DO PROJETO
+0,00
+500.000,00
+      P - Composição da Unidade Gestora do Projeto                                                         
+0,00
+500.000,00
+   S - SISTEMAS PARA A GESTÃO DE PROGRAMAS ESTADUAIS                                     
+0,00
+1.500.000,00
+      P - Sistema de Gestão e Monitoramento do Programa de Incentivo às Famílias                        
+0,00
+0,00
+      P - Sistema de Gestão e Monitoramento do Projeto          
+0,00
+1.500.000,00
+   S - CONSULTORIAS
+0,00
+500.000,00
+      P - Estudos, Eventos e Consultorias                                                                         
+0,00
+500.000,00
+Total
+0,00
+19.550.000,00
+62.500.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - COMBATE À FOME, FLORESTAS EM PÉ E ACELERAÇÃO DA APRENDIZAGEM
+               
+4.200.000,00
+36.500.000,00
+70.000.000,00
+270.000.000,00
+   S - COMBATE À FOME
+0,00
+17.000.000,00
+25.000.000,00
+100.000.000,00
+      P - Fortalecimento do Sistema Único de Assistência Social (SUAS)
+0,00
+2.000.000,00
+5.000.000,00
+20.000.000,00
+P - Enfrentamento à Fome
+                              
+0,00
+3.000.000,00
+5.000.000,00
+20.000.000,00
+      P - Programa de incentivo às famílias em vulnerabilidade social                                
+0,00
+4.000.000,00
+10.000.000,00
+20.000.000,00
+      P - Reforma e equipamento de CREAS/CRAS, Equipes Volantes sustentável               
+0,00
+8.000.000,00
+5.000.000,00
+40.000.000,00
+   S - FLORESTA EM PÉ
+0,00
+5.500.000,00
+20.000.000,00
+70.000.000,00
+      P - Implementação de tecnologia de conectividade digital                                        
+0,00
+0,00
+3.000.000,00
+11.000.000,00
+      P - Inteligência espacial para Força de Combate ao desmatamento                            
+0,00
+0,00
+1.000.000,00
+4.000.000,00
+      P - Promoção de negócios da Bioeconomia                                                             
+0,00
+0,00
+3.000.000,00
+9.500.000,00
+      P - Instituição do Bolsa Floresta                                                                            
+0,00
+5.500.000,00
+13.000.000,00
+45.500.000,00
+   S - ACELERAÇÃO DA APRENDIZAGEM
+4.200.000,00
+14.000.000,00
+25.000.000,00
+100.000.000,00
+      P - Construção de Escolas Sustentáveis                                                                  
+1.500.000,00
+8.000.000,00
+11.500.000,00
+45.000.000,00
+      P - Reforma de Escolas considerando sustentabilidade ambienta
+1.000.000,00
+2.000.000,00
+5.000.000,00
+30.000.000,00
+      P - Programa Estadual de Alimentação Escolar (PEAE)                                                          
+500.000,00
+500.000,00
+2.000.000,00
+2.500.000,00
+      P - Estrutura de Conectividade de Internet nas Escolas                                             
+0,00
+0,00
+1.000.000,00
+5.000.000,00
+      P - Programa Alfabetiza Pará                                                                                   
+500.000,00
+1.000.000,00
+2.500.000,00
+5.000.000,00
+      P - Implementação do Ensino No Nível Certo                                                          
+100.000,00
+1.000.000,00
+500.000,00
+5.000.000,00
+      P - Implementação do Sistema de Alerta Preventivo de Evasão Escolar                     
+100.000,00
+1.000.000,00
+500.000,00
+5.000.000,00
+      P - Programa de desenvolvimento das Inteligências Emocionais                                 
+500.000,00
+500.000,00
+2.000.000,00
+2.500.000,00
+C - GESTÃO E MONITORAMENTO (ASSISTÊNCIA TÉCNICA)                                                  
+0,00
+800.000,00
+0,00
+10.000.000,00
+   S - GESTÃO DO PROJETO
+0,00
+500.000,00
+0,00
+2.500.000,00
+      P - Composição da Unidade Gestora do Projeto                                                         
+0,00
+500.000,00
+0,00
+2.500.000,00
+   S - SISTEMAS PARA A GESTÃO DE PROGRAMAS ESTADUAIS                                     
+0,00
+0,00
+0,00
+5.000.000,00
+      P - Sistema de Gestão e Monitoramento do Programa de Incentivo às Famílias                        
+0,00
+0,00
+0,00
+2.000.000,00
+      P - Sistema de Gestão e Monitoramento do Projeto          
+0,00
+0,00
+0,00
+3.000.000,00
+   S - CONSULTORIAS
+0,00
+300.000,00
+0,00
+2.500.000,00
+      P - Estudos, Eventos e Consultorias                                                                         
+0,00
+300.000,00
+0,00
+2.500.000,00
+Total
+350.000.000,00
+4.200.000,00
+37.300.000,00
+70.000.000,00
+280.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+o Projeto Avança Pará atua em políticas públicas consolidadas da educação e da assistência social (SUAS), não prevendo ônus que
+possam afetar diretamente as instituições e órgãos participantes, nem à educação nem a proteção social da população alvo. Os atos
+diretamente ou indiretamente ligados às ações do Projeto obedecerão aos ritos legais e administrativos previstos no planejamento
+estratégico do Governo e compatibilizados com as diretrizes das políticas públicas apoiadas.
+
+O Projeto Avança Pará permitirá que os beneficiários tenham efetivo acesso à programas de proteção social e educação já instituídos e
+ainda em processo de formulação. Sendo assim, algumas atos legais já estão em vigor, não dependendo de novos atos para que o projeto
+ cumpra seu objetivo maior que é reduzir a fome e acelerar o aprendizado no Pará.
+
+No entanto, alguns riscos podemos ser listados:
+- Baixa capacidade técnica e quadros qualificados das secretarias municipais de educação para satisfazer às normas técnicas e
+burocráticas;
+- Coordenação insuficiente com as secretarias municipais de educação para garantir esforços consistentes na adesão, implementação e
+consistência nas ações do programa;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 25
+- Dificuldade logística de disponibilização de sistemas, instalação de internet e monitoramento das obras, principalmente na região
+amazônica do Pará;
+- Processos e procedimentos de planejamento e transferência de recursos não totalmente apropriados pelas administrações municipal;
+-  Contratação de empresas com insuficiência técnica e/ou financeira para realização de obras e assistências técnicas.
+
+Quanto às formas de mitigação:
+- O projeto visa contratar equipes focadas nas reformas e construções com para acompanhamento junto aos municípios;
+- Parceria sistemática com UNDIME na divulgação das ações do projeto e no apoio à importância do combate à fome e aceleração do
+aprendizado no estado;
+- O projeto pretende adaptar suas atividades para a realidade local. Assim, mais modalidades de construções de escolas sustentáveis e
+equipamentos SAN, mais alternativas de acesso à internet (ex. satélite) e formação às equipes serão estruturados;
+- Revisão durante a preparação do projeto dos mecanismos de planejamento e transferência financeira e assistência técnica aos
+municípios;
+- Contratação de empresas/consultores, adotando o limite superior permitido pela legislação dos critérios de seleção e habilitação técnica
+no edital de licitação, cumprindo os requisitos do Banco Mundial.
+
+5.2. RISCOS/CONTRATAÇÕES
+O Projeto Avança Pará além da proposta de combater a fome e acelerar o aprendizado no Pará, propõe maior eficiência na alocação de
+recursos e prevê a contratação de empresas e/ou consultorias para desenvolvimento dos sistemas de gestão junto a SEDUC e SEASTER.
+Para reduzir o risco de implementação das estratégias, o projeto contratará equipes descentralizadas, distribuídas por regiões de ensino e
+de proteção social, para apoio aos municípios no planejamento, no monitoramento das atividades e implementação de programas. Além
+disso, elaboração de estudos, avaliações e suporte às atividades relacionadas no projeto.
+
+Quanto aos riscos podemos destacar a incapacidade local de implementar e executar programas estaduais de educação e proteção social
+.
+
+Quanto às formas propostas de mitigação:
+- formação de equipes locais descentralizadas com assistência técnica e financeira.
+- contratação de empresa ou consultoria
+- elaboração de estudos e produção de análises estáticas.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+Com base nas intervenções propostas, não estão previstas desapropriações de nenhuma modalidade neste projeto. As áreas de atuação
+serão de propriedade do Estado e/ou dos municípios participantes, com situação fundiária regularizada não requerendo, portanto,
+desapropriações.
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+Visto que o Projeto Avança Pará engloba a execução de construções e reformas, identificam-se riscos ambientais provenientes da
+execução das obras, bem como no descarte do material delas decorrentes. Por este motivo, no período de preparação do projeto, será
+acordado com o Banco Mundial as estratégias de acompanhamento, antecipação e mitigação de tais riscos ambientais.
+5.5. RISCOS/IMPACTO SOCIAL
+O combate à fome e a aceleração das aprendizagens têm como foco a população mais vulnerável. Esta encontram-se, em grande medida,
+nos povos tradicionais, incluindo indígenas autodeclarados. Por este motivo, verificasse risco de impacto social decorrente da proteção
+social chegar neste público. Os resultados que contribuirão para a melhoria da gestão, eficiência e oferta das atividades de proteção social
+, proposto pelo Projeto, exigem mitigação de quaisquer riscos associados às populações tradicionais.
+5.6. RISCOS/REASSENTAMENTOS
+O Projeto não prevê reassentamentos.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:10
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60982
+Página: 26
+Informações relevantes
+- 07/06/2023: Autorizado na 166ª Cofiex, em 01/06/2023, conforme Resolução Cofiex nº 27, de 01 de junho de 2023.
+ 
+ 

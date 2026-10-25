@@ -1,0 +1,2254 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Projeto de Modernização Fiscal do Estado do Maranhão - PROFISCO III MA
+Nº Carta Consulta: 61197
+Processo: 03101.002135/2024-45
+Mutuário: Estado do Maranhão
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  12 de Julho de 2024
+Fontes Internas:
+Contrapartida Financeira: US$ 5.875.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 52.875.000,04
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+04
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 04
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 05
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 05
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 05
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 06
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 15
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 16
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 16
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 18
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 18
+3. FINANCIAMENTO .......................................................................................................................................................................................... 18
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 18
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 19
+4. EXECUÇÃO ...................................................................................................................................................................................................
+19
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 19
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 20
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 20
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 20
+5. RISCOS .......................................................................................................................................................................................................... 23
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 23
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 23
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 24
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 24
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 24
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 24
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+24
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+O Estado do Maranhão, situado na Região Nordeste do Brasil, é o segundo maior estado da região Nordeste e o oitavo maior do Brasil,
+sendo o quarto mais populoso do Nordeste e o décimo segundo do Brasil.
+Entre 2019 e 2021, o PIB do Maranhão variou entre R$ 97,3 bilhões e R$ 124,9 bilhões, representando aproximadamente 1,4% do PIB
+nacional. 
+O Índice de Desenvolvimento Humano (IDH) do Maranhão, em 2021, foi de 0,676, (PNUD), o Maranhão ainda ocupa a última colocação
+entre as Unidades Federativas. 
+Em 2023, o estado do Maranhão recebeu a nota "C" para a Capacidade de Pagamento (CAPAG). .Apesar dessa classificação, entre 2021
+e 2023, o estado manteve um nível de endividamento relativamente baixo, abaixo do limite máximo de 200% definido pela Lei de
+Responsabilidade Fiscal (LRF).
+As aplicações mínimas em saúde (12%) e educação (25%) têm sido cumpridas, para educação (27,27%) e saúde (15,14%).
+O Estado do Maranhão alcançou, em 2023, o maior superávit primário da série histórica recente, atingindo R$ 1,3 bilhão. A dívida
+consolidada reduziu. Houve aumento dos gastos com pessoal, especialmente nas áreas de Educação e Segurança. 
+A gestão fiscal no estado do Maranhão envolve processos organizacionais que estão sob a responsabilidade de outros órgãos além da
+Secretaria de Estado da Fazenda. Em junho de 2024, foi realizado, no Estado do Maranhão, o autodiagnóstico da Metodologia para
+Avaliação da Maturidade e Desempenho da Gestão Fiscal - MD GEFIS para avaliar o nível de maturidade dos processos e do
+desempenho da gestão fiscal do estado, nas áreas de Gestão Fazendária, Administração Tributária e Administração Financeira. A
+previsão de validação do diagnóstico pelo BID será na segunda quinzena de julho de 2024. Participaram dessa aplicação, as Secretarias
+de Estado da Fazenda (SEFAZ), da Administração (SEAD), do Planejamento e Orçamento (SEPLAN), de Transparência e Controle (STC),
+do Monitoramento das Ações Governamentais (SEMAG),a Agência de Tecnologia da Informação (ATI) e Procuradoria Geral do Estado (
+PGE).
+Os principais problemas que serão objeto de ações de modernização são:
+C1 - Gestão Fazendária e Transparência Fiscal: SEFAZ a)Ausência de alinhamento de planos de suporte da estratégia e frágil gestão de
+riscos; b) Ausência de gestão da mudança c) ferramentas e políticas inadequadas para a gestão do conhecimento, diversidade e inclusão;
+d) Frágil processo de gestão,monitoramento e avaliação da TI; e) Escassos instrumentos da transparência fiscal; f) compras públicas não
+sustentáveis. SEAD a) baixo uso de tecnologia na gestão de projetos, processos; b) não há planos de inovação e transformação digital; c)
+gestão estratégica de pessoas incipiente. SEPLAN a) ausência de maturidade em: planejamento estratégico, gestão de projetos e
+processos,monitoramento de resultados, e gestão estratégica de pessoas.
+C-2 Administração Tributária e o Contencioso Fiscal:a)integração ao REDESIM incompleta;b) gestão da dívida ativa pouco eficaz;c) falhas
+na cobrança do crédito tributário; d)baixo uso de dados na fiscalização preventiva; e) inicipiente fiscalização do agronegócio; f) não há
+modelo de cumprimento tributário cooperativo; g) alterações com a reforma tributária; h) não há infraestrutura para energia sustentável.
+C3 - Administração Financeira e Gasto Público: SEPLAN a) não há monitoramento sistemático do PELP; b) frágil planejamento financeiro;
+c) gestão de ativos ineficaz; d) gestão de custos e contábil incipientes; e) não há plano abrangente de gestão da dívida;SEAD a) Déficit
+atuarial e financeiro no Fundo Estadual de Pensão e Aposentadoria do Maranhão b) incipiente gestão da carteira de imóveis da
+administração pública.
+C4 - Gestão Jurídica para sustentabilidade fiscal: PGE a)Inadequada sistemática de recuperação da dívida ativa.
+
+Os Anexos II, III e IV apresentam o diagnóstico econômico fiscal do Estado do Maranhão, os resultados do PROFISCO I e/ou II e o
+resultado da MD-GEFIS MA, atualizado internamente em 2024.
+
+Adicionalmente ao diagnóstico da MD-GEFIS, observa-se uma frágil vinculação da gestão fiscal estadual com os desafios do
+desenvolvimento socioeconômico integrado com a sustentabilidade ambiental do estado do Maranhão, que deve visar o posicionamento
+estratégico do Estado no mercado de crédito de carbono e hidrogênio verde, e a mitigação dos efeitos das mudanças climáticas globais.
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+(i) SOLUÇÃO PROPOSTA:
+As ações propostas por componente e órgão beneficiário são descritas abaixo:
+C1 - Recursos estratégicos da Gestão fiscal (GF)
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 3
+SEFAZ: a) redesenhar sistema de avaliação e monitaramento da estratégia, com foco em riscos e automatizar o monitoramento de
+processos institucionais; b) implantar gestão da mudança; c) modernizar gestão do conhecimento e políticas internas de gênero/
+diversidade; d) implantar planos de inovação, transformação digital, gestão baseada em dados e novos mecanismos de gestão de TI;e)
+inserir recorte de gênero na educação fiscal e modernizar ferramentas de transparência; f) criar plano de logística sustentável. SEAD: a)
+implantar soluções de TI para gestão de procesos e projetos e criar plano de fomento à inovação; b) definir metodologia de
+dimensionamento da força de trabalho. SEPLAN a)definir modelo de gestão estratégica de pessoas; b) instituir metodologia para
+planejamento estratégico.
+C2 - Administração Tributária e Contencioso Fiscal
+SEFAZ: a) Integrar cadastro às novas ondas do REDESIM; b) desenvolver sistema transacional para gestão da dívida ativa; c) incorporar
+mecanismos de monitoramento e avaliação da cobrança; d) redefinir monitoramento de riscos de cumprimento com uso de dados;e)
+automatizar cruzamentos socioambientais no Sistema de Fiscalização Agrícola;f) implantar Programa de Cumprimento Tributário
+Cooperativo;g)adaptar recursos para receber mudanças da Reforma Tributária; h) instalar usina fotovoltaica.
+C3- Planejamento, orçamento, gestão financeira e do gasto público (PG)
+SEPLAN: a) desenvolver sistema para monitoramento do PELP; b) implantar modelo de avaliação da qualidade de gasto; c) implantar
+sistema de gestão de ativos e passivos; d) redesenhar e integrar processos de gestão contábil; e) implantar módulo de gestão de custos; f)
+integrar sistema da dívida ativa com sistemas financeiros.SEAD a) elaborar estudos de cenários atuariais e novo modelo de plano de
+custeio da previdência; b) impantar metodologia para gestão de imóveis.
+C4 - Gestão jurídica para sustentabilidade fiscal (GJ)
+PGE: a) implantar sistema de gestão de riscos de processos judiciais b)desenvolver solução com técnicas de aprendizado de máquina
+para classificação de peças processuais; c) desenvolver ferramenta de gestão de depósitos judiciais integrada com os sistemas da
+Secretaria da Fazenda.
+
+(ii) RESULTADOS ESPERADOS:
+
+A implementação do Programa contribuirá para a sustentabilidade fiscal, por meio dos seguintes resultados esperados:
+a. Governança fiscal melhorada, orientada à inovação e à gestão baseada em dados, aproveitando as oportunidades da transformação
+digital, para direcionar estrategicamente seu corpo técnico e diretivo e promover a sustentabilidade ambiental, a igualdade de gênero e a
+participação cidadã.
+b. Administração tributária aperfeiçoada e adaptada à nova realidade da reforma tributária, orientada à simplificação do cumprimento
+tributário, à redução da litigância fiscal, com uso intensivo de dados, contribuindo para aumentar a arrecadação tributária e melhorar o
+ambiente de negócios, em especial das micro e pequenas empresas, fomentando a gestão fiscal com aspectos relacionados ao meio
+ambiente e clima, com foco em gênero, raça e diversidade visando a inclusão no ambiente e negócios.
+c. Planejamento e gestão dos recursos públicos modernizada, baseado no uso intensivo de dados, orientada para maior eficiência dos
+gastos públicos, para a melhoria da oferta de serviços aos cidadãos e aumento dos investimentos públicos, incluindo a promoção da
+participação da iniciativa privada.
+d. Gestão jurídica aperfeiçoada, baseada no uso intensivo de dados e novas tecnologias, orientada à recuperação do crédito tributário e à
+otimização da defesa judicial, reduzindo riscos fiscais e promovendo a liquidez do crédito tributário. 
+
+Vale destacar que projetos de modernização da gestão fiscal resultam em alto retorno dos investimentos. Estudo de avaliação de impacto
+do PROFISCO I, realizado pelo BID - Anexo V, estimou que o programa contribuiu para que os estados participantes do mesmo
+incrementassem em 11,7% sua arrecadação tributária e 1,7% o número de unidades locais de empresas formais, em relação àqueles
+Estados sem projeto.
+
+(iii) SUSTENTABILIDADE:
+
+Durante a preparação do projeto, o Estado elaborará um plano de sustentabilidade dos investimentos a serem realizados. No caso de
+programas de modernização da gestão fiscal, os custos relacionados à manutenção da infraestrutura tecnológica e à sustentação dos
+novos sistemas implantados representam os principais gastos para a sustentabilidade.
+Ao longo da execução do projeto, os custos associados à manutenção dos itens acima referenciados serão financiados com recursos da
+operação, por meio da sua especificação nos termos de referência. Adicionalmente, os termos de referência definirão a necessidade de
+transferência de conhecimento técnico para o uso de manutenção dos novos processos e soluções tecnológicas implantadas, o que
+contribuirá para melhorar a produtividade e reduzir o custeio. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 4
+Após o encerramento do projeto, a manutenção será financiada com recursos do orçamento público.
+Além disso, a Secretaria de Estado da Fazenda do Maranhão (SEFAZ) dispõe de orçamento próprio que poderá ser usado para
+complementar os recursos necessários. Estima-se que é necessário o aporte anual de 1,7%, do valor do projeto para manter a
+infraestrutura tecnológica e os novos sistemas implantados (Anexo VI), em conformidade ao PROFISCO III. Ademais, é importante
+destacar que a SEFAZ/MA possui o Fundo de Fortalecimento da Administração Tributária ? FUNAT, estabelecido pela Lei nº 8.105 de 29
+de abril de 2004, que dispõe de dotação orçamentária para apoiar as ações da SEFAZ/MA.
+No PPA 2024-2027, o Programa 0212 (Fortalecimento da Administração Tributária), na ação 6026.0000 (Modernização Tecnológica da
+Administração Tributária FUNAT), estão previstas subações para manter a sustentabilidade do investimento.
+ 
+Ademais, o amadurecimento do processo de governança de projetos e a capacitação da equipe de servidores voltados às ações de
+modernização impulsionado pelo PROFISCO III, contribuem na sustentabilidade do projeto.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+(i) ORIENTAÇÕES ESTRATÉGICAS: 
+As Orientações Estratégicas de Governo do Estado do Maranhão são apresentadas no Plano Maranhão 2050 (https://www.maranhao2050
+.ma.gov.br/maranh%C3%A3o-2050), refletidas no Plano Plurianual - PPA 2024 -2027 (Lei nº 12.167, de 19 de dezembro de 2023),  no
+Plano Estratégico da SEFAZ/MA 2024/2027, na Lei Orçamentária Anual (Lei nº 12.168, de 19 de dezembro de 2023) e mostram aderência
+ ao Projeto PROFISCO III quanto às áreas prioritárias estabelecidas.
+O Estado do Maranhão lançou em 14 de junho de 2024 o seu primeiro Plano de Longo Prazo que abrangerá um período de 26 anos que
+perpassará por diversas gestões, o MARANHÃO 2050.   O Plano Estratégico de Longo Prazo Maranhão 2050 é o instrumento que tem
+como propósito fortalecer a estratégia de planejamento de longo prazo do Estado, de forma articulada com atores do governo, setor
+produtivo, sociedade civil e academia e institucionalizar diretrizes que induzam o desenvolvimento socioeconômico integrado e reduzam
+as desigualdades sociais e regionais. 
+A SEFAZ, também, faz parte da Comissão do Maranhão 2050, instituída pelo Decreto 39.131 de 05 de junho de 2024. Essa comissão foi
+criada para construir, de modo participativo, o Plano Maranhão 2050 e é formada por quatro Câmaras Técnicas. O Secretário da Fazenda
+do Estado do Maranhão é membro titular da Câmara Técnica de Desenvolvimento Institucional.
+O Plano Plurianual - PPA vigente é o primeiro do Estado do Maranhão alinhado ao Plano Maranhão 2050 e tem os objetivos estratégicos
+do atual governo do Estado do Maranhão desenhados no programa:
+Programa: 0350 Modernização da Gestão Fiscal do Estado do Maranhão (Financiamento PROFISCO)
+Objetivo: Contribuir para a sustentabilidade fiscal, promovendo a modernização da gestão fiscal do Estado
+Ação: 3270.0000 Gestão Fazendária, Transparência Fiscal, Administração Tributária e Contencioso Fiscal
+Em 2023, a SEFAZ construiu o seu Planejamento Estratégico para o período 24/27 e para fortalecer o alinhamento com o PPA, foi
+elaborado um Manual de procedimento de Planejamento Orçamentário, o qual define todo o processo. Esse mapeamento do processo de
+Planejamento Orçamentário e definição do procedimento decorreu da implantação do Modelo de Alinhamento da Estratégia Corporativa
+da SEFAZ, produto financiado pelo PROFISCO II.
+(ii) CONTRAPARTIDA:
+No caso do Estado do Maranhão, a origem da contrapartida está em conformidade com o disposto na Resolução COFIEX nº 03, de 29/05/
+2019, em especial ao disposto no art. 3º, inciso III. 
+(iii) TAXA DE CÂMBIO: 1 US$ = R$ 5,0727 - (Banco Central do Brasil, PTAX, venda) Data de Referência 06/05/2024.
+
+
+
+2. Projeto
+2.1. Título
+Projeto de Modernização Fiscal do Estado do Maranhão - PROFISCO III MA
+2.2. Título Abreviado
+PROFISCO III MA
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 5
+2.3. Mutuário
+Estado do Maranhão
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+Objetivo Geral: 
+Contribuir para a sustentabilidade fiscal do Estado do Maranhão, por meio do incremento das receitas próprias e da melhoria da qualidade
+dos gastos públicos.
+
+Objetivos Específicos: 
+i. Modernizar a gestão dos órgãos fiscais, por meio do fortalecimento da gestão estratégica para o alinhamento da organização, com vistas
+ao avanço da transformação digital e à potencialização do desempenho institucional, incluindo o fomento à inovação e à participação
+cidadã e transparência fiscal.
+ii. Melhorar a efetividade da administração tributária, por meio da simplificação do cumprimento tributário, da redução da litigância fiscal,
+do aumento da arrecadação e da melhoria do ambiente de negócios, contribuindo para a justiça fiscal e para maior dinamismo da
+economia.
+iii. Melhorar a efetividade do gasto público, por meio do aperfeiçoamento dos processos de planejamento, execução e avaliação do gasto
+público, contribuindo para a melhoria dos serviços aos cidadãos e para o aumento dos investimentos.
+iv. Melhorar a efetividade dos aspectos jurídicos da gestão fiscal, por meio da melhoria da eficiência dos processos da gestão jurídica para
+ a redução dos riscos fiscais e aumento da liquidez do crédito tributário, contribuindo para o fortalecimento da sustentabilidade fiscal.
+
+2.6. Projeto/Indicadores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 6
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Capacidade de Pagamento (CAPAG)
+(Indicador de
+Endividamento +
+Indicador de
+Poupança Corrente +
+Indicador de Liquidez)
+ / 3
+Nota A=1,B=2,C =3
+ou D=4
+3,00
+1,00
+Índice de Disponibilização de Serviços Online (
+SEFAZ)
+(Total de Serviços
+Disponíveis de Forma
+Online / Total de
+Serviços Disponíveis)
+* 100estratégicas) *
+100
+%
+71,00
+89,00
+Índice de Defasagem de Produtos e Serviços 
+Quantidade de
+sistemas avaliados
+em tecnologias
+descontinuadas e/ou
+desatualizadas /
+quantidade total de
+sistema
+%
+88,00
+20,00
+Razão Custo/Estoque da Dívida
+(Custo do Serviço da
+Dívida / Estoque Total
+ da Dívida) * 100
+%
+14,90
+9,90
+Taxa de Investimentos
+Investimento liquidado
+/ Receita Corrente
+Líquida
+%
+11,16
+16,00
+Aumento do valor anual de créditos tributários
+recuperados
+(Valor anual de
+créditos tributários
+recuperados) 
+R$
+299.986.302,16
+329.984.932,38
+Aumento da eficiência da atuação da PGE em
+relação ao total de processos judiciais em
+andamento (Índice Atos-Processos ou IAP).
+IAP (Nº de atos
+judiciais praticados no
+ano / Quantidade de
+processos judiciais
+ativos ao final do ano)
+* 100 
+%
+46,10
+55,32
+Nível de cumprimento da obrigação principal
+(Arrecadação de
+ICMS e FUMACOP
+pagos declarados +
+NL pago declarado +
+INFISC pago
+declarado - Autos de
+Infração pagos,
+parcelados, quitados -
+multas - juros) / (
+Arrecadação de ICMS
+e FUMACOP
+declarados + INFISC
+declarado + Autos de
+Infração pagos,
+parcelados, quitados,
+impugnados, em
+revisão, sob ação
+judicial e recurso)
+%
+93,31
+93,68
+Aumento da geração própria de energia
+(Auto Geração de
+Energia ao Fim do
+Projeto - Auto
+Geração Atual)
+kWh/mês
+0,00
+274.120,00
+ Incremento da arrecadação real do ICMS
+(Arrecadação Final
+de ICMS -
+Arrecadação Inicial de
+ICMS) / (Arrecadação
+ Inicial de ICMS)
+%
+0,00
+35,00
+2.7. Projeto/Componentes
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 7
+Componentes
+Valor(US$)
+C - COMPONENTE I: RECURSOS ESTRATÉGICOS DA GESTÃO FISCAL (GF)
+27.210.703,38
+      P - 1.1 SEFAZ: Governança Pública fortalecida
+1.409.505,79
+      P - 1.2 SEFAZ Gestão da mudança implantada
+116.801,70
+      P - 1.3 SEFAZ Gestão da inovação e transformação digital implantadas
+275.987,15
+      P - 1.4 SEFAZ Gestão de Pessoas e do Conhecimento fortalecidas
+201.076,35
+      P - 1.5 SEFAZ Gestão de Tecnologia da Informação fortalecida
+20.800.000,00
+      P - 1.6 SEFAZ Transparência e Cidadania Fiscal
+251.345,44
+      P - 1.7 SEFAZ Logística sustentável implantada
+201.076,35
+P - 1.8 SEAD: Governança Pública fortalecida: Gestão de projetos, processos, da inovação e da transformação
+digital aprimorada
+479.646,93
+      P - 1.9 SEAD Gestão estratégica de pessoas implantada
+1.385.646,70
+      P - 1.10 SEPLAN Gestão estratégica de pessoas implantada
+512.547,56
+      P - 1.11 SEPLAN Governança pública fortalecida
+1.577.069,41
+C - COMPONENTE II: ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL (AT)
+15.656.789,63
+      P - 2.1 Cadastro de contribuintes aperfeiçoado
+354.840,62
+      P - 2.2 Arrecadação do crédito tributário aperfeiçoada
+394.267,35
+      P - 2.3 Cobrança do crédito tributário fortalecida
+492.834,19
+      P - 2.4 Fiscalização e inteligência fiscal fortalecidas
+4.021.527,00
+      P - 2.5 Fiscalização do Agronegócio fortalecida
+1.626.539,47
+      P - 2.6 Relação do fisco com o contribuinte fortalecida
+500.000,00
+      P - 2.7 Convergência com a Reforma Tributária
+7.000.000,00
+      P - 2.8 Infraestrutura física da administração tributária provida de Energia Sustentável
+1.266.781,00
+C - COMPONENTE III: PLANEJAMENTO, ORÇAMENTO, GESTÃO FINANCEIRA E DO GASTO PÚBLICO
+11.757.572,49
+      P - 3.1 SEPLAN Planejamento e Execução Orçamentária aperfeiçoados
+3.449.839,34
+      P - 3.2 SEPLAN Políticas, Programação e Execução Financeira aperfeiçoados
+1.379.935,73
+      P - 3.3 SEPLAN Gestão de Ativos e Passivos estabelecida
+197.133,68
+      P - 3.4 SEPLAN Gestão Contábil aperfeiçoada
+394.267,35
+      P - 3.5 SEPLAN Gestão de custos e gastos públicos consolidada
+591.401,03
+      P - 3.6 SEPLAN Gestão da Dívida Pública Implementada
+394.267,35
+      P - 3.7 SEAD  Gestão financeira e contábil da previdência: Inversão da curva previdenciária 
+4.178.257,73
+      P - 3.8 SEAD Gestão da carteira de imóveis da administração direta e indireta fortalecida
+1.172.470,28
+C - COMPONENTE IV: GESTÃO JURÍDICA DOS ASSUNTOS FISCAIS (GJ)
+3.370.985,87
+      P - 4.1 Gestão das Demandas Judiciais e dos Riscos Fiscais aprimorada 
+3.370.985,87
+C - GESTÃO DO PROJETO
+753.948,67
+      P - Monitoramento e Avaliação
+753.948,67
+Total dos Componentes
+58.750.000,04
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - COMPONENTE I: RECURSOS ESTRATÉGICOS DA GESTÃO FISCAL (GF)
+As ações deste componente visam melhorar o desempenho da governança pública contribuindo para o aumento da eficiência no
+planejamento, monitoramento e avaliação dos resultados, a mitigação dos riscos fiscais, o fortalecimento dos mecanismos de
+transparência e controle e a melhoria da prestação de serviços, considerando a sustentabilidade ambiental e a promoção da
+igualdade de gênero e diversidade. Portanto, um sólido modelo de governança promove a inovação, aproveita as oportunidades da
+ transformação digital e direciona estrategicamente seu corpo técnico.
+      P - 1.1 SEFAZ: Governança Pública fortalecida
+Este produto busca promover a autonomia, o alinhamento, o direcionamento e o monitoramento da atuação da organização. Busca
+promover melhorias na capacidade de gestão da administração tributária, para otimizar a utilização dos recursos no alcance dos
+resultados. Para tanto, serão implementadas as seguintes soluções: 
+a)Revisar e aprimorar políticas de gestão de projetos e implementar sistema de informação para acompanhamento e
+gerenciamento dos projetos individuais e do portfólio de forma centralizada;
+b) Revisar o processo de monitoramento da estratégia e adequar o sistema de avaliação e monitoramento (SAM) ao Modelo de
+Alinhamento da Estratégia Corporativa;
+c) Utilizar ferramenta padronizada de documentação de processos; 
+d) Monitorar e avaliar os processos da gestão fiscal redesenhados;
+e) Gerir os riscos na organização, considerando os riscos fiscais, de conformidade, cibernéticos e operacionais.
+      P - 1.2 SEFAZ Gestão da mudança implantada
+A implementação deste produto contribuirá para elevar a eficiência dos processos de comunicação institucional e fomentar uma
+cultura receptiva às mudanças organizacionais. Para tal, serão implementadas as seguintes soluções:
+ 
+a) Modernizar diretrizes, valores e princípios da comunicação institucional, desenvolver planos de comunicação de curto, médio e
+longo prazo, e padronizar posturas para garantir coerência e efetividade na comunicação com os públicos estratégicos; 
+b) Institucionalizar práticas de gestão da mudança e cultura organizacionais e aumentar a capacidade dos líderes em gerenciar
+mudanças.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 8
+      P - 1.3 SEFAZ Gestão da inovação e transformação digital implantadas
+Este produto tem como objetivo municiar a instituição com os recursos necessários à transformação digital e a implantação de uma
+cultura de inovação.Também prevê-se que este produto fomentará a gestão baseada em dados para facilitar a implementação e o
+monitoramento das mudanças necessárias. Serão implantadas as seguintes soluções:
+a) Estabelecer diretrizes claras para a inovação e transformação digital.
+b) Formalizar um programa de inovação com objetivos, equipe multidisciplinar, público-alvo e eventos.
+c) Instituir e comunicar uma agenda de inovação com desafios definidos.
+d) Estabelecer um laboratório de inovação para fomentar a cultura inovativa.
+e) Desenvolver e implementar um plano de transformação digital detalhado.
+f) Estimular a identificação de soluções disruptivas com novas tecnologias e garantir recursos estratégicos.
+g) Definir programas continuados de premiação e reconhecimento pela inovação.
+h) Avaliar continuamente os resultados da estratégia de Transformação Digital e Gestão Baseada em Dados, definindo ajustes e
+planos de ação de melhorias. 
+      P - 1.4 SEFAZ Gestão de Pessoas e do Conhecimento fortalecidas
+O desenvolvimento deste produto tem o intuito de aprimorar as ferramentas disponíveis para a gestão do conhecimento na
+organização e incluir um recorte de gênero e diversidade no plano de competências fazendárias.  Para isso, serão realizadas as
+seguintes ações:
+a)        Atualizar a ferramenta de Gestão do Conhecimento da SEFAZ e disponibilizar inventário de conhecimentos críticos e planos
+ táticos.
+b)        Implementar políticas de capacitação voltadas para gênero, raça e diversidade. Inserir no Plano de Capacitação
+treinamentos voltados para diversidade e inclusão.
+c)        Elaborar e implantar planos de capacitação voltados ao tratamento das questões de gênero e do respeito à diversidade e
+gestão de pessoas para a transformação digital.
+d)        Desenvolver programas de liderança especificamente voltados para mulheres, oferecendo oportunidades de
+desenvolvimento e networking.
+e)        Criar políticas ambientais que envolvam a adoção de práticas sustentáveis voltadas para minimizar o impacto ambiental, e
+oferecer treinamento no tema para todos os servidores, promovendo a sociabilização e a gestão do conhecimento ambiental.
+f)        Criar políticas ambientais que envolvam a adoção de práticas sustentáveis voltadas para minimizar o impacto ambiental, e
+oferecer treinamento no tema para todos os servidores, promovendo a sociabilização e a gestão do conhecimento ambiental.
+      P - 1.5 SEFAZ Gestão de Tecnologia da Informação fortalecida
+O propósito deste produto é oferecer à SEFAZ, ao contribuinte e à sociedade, serviços e dados consistentes e seguros a fim de
+prover a relação fisco contribuinte de informações ágeis, precisas e seguras com foco na simplificação, confiança e transparência.
+A adequação do parque tecnológico se faz necessária considerando-se a prevenção da obsolescência de hardware e software,
+garantindo rápido acesso às informações em sua integralidade de maneira descomplicada, simples e moderna, com inovação e
+colaboração. Seguindo esse direcionamento serão desenvolvidas as seguintes ações: 
+a) Estabelecer políticas e procedimentos para garantir que as informações sejam gerenciadas desde sua criação até o descarte de
+acordo com padrões definidos. Isso inclui políticas de retenção, armazenamento seguro e descarte adequado.
+b) Implementar um processo formal para gerenciar mudanças nos bancos de dados e servidores de aplicação, garantindo que
+todas as alterações sejam controladas, documentadas e validadas antes da implementação, visando minimizar riscos operacionais.
+c) Desenvolver um plano estruturado para identificar, limpar e melhorar a qualidade dos dados armazenados nos bancos de dados,
+ garantindo maior confiabilidade e utilidade das informações.
+d) Definir uma arquitetura unificada e padrões tecnológicos para implementação de soluções de Analytics e IA, garantindo
+integração, interoperabilidade e eficiência nos processos de análise de dados e tomada de decisão.
+e) Estabelecer um processo para avaliar, selecionar, implementar e integrar novas soluções de Analytics e IA de forma alinhada
+aos objetivos estratégicos da SEFAZ-MA, garantindo benefícios rápidos e efetivos.
+f) Implementar modelos preditivos e de Machine Learning para melhorar a eficiência e precisão nos processos fiscais, utilizando
+dados históricos e em tempo real para análises preditivas e otimização de recursos.
+g) Desenvolver e implementar uma estrutura de governança de TI que alinhe as atividades de TI com os objetivos gerais da SEFAZ
+-MA, assegurando transparência, responsabilidade e eficiência na gestão de recursos de tecnologia.
+h) Atualizar e expandir a infraestrutura de TI para suportar novas demandas tecnológicas, adequar os datacenters para garantir a
+hospedagem das estruturas existentes e as expansões necessárias, implementar políticas robustas de segurança da informação
+conforme normativas (LGPD, LAI, LRF) e garantir a alta disponibilidade e integridade dos sistemas.
+      P - 1.6 SEFAZ Transparência e Cidadania Fiscal
+Este produto visa a ampliação do acesso do público às informações fiscais compreendendo os relatórios da execução
+orçamentária, estatísticas fiscais e contas do governo, que devem fornecer um panorama completo, tempestivo, confiável,
+comparável e acessível do desempenho e posição financeira do Estado. Ademais, o mesmo visa a sensibilização e capacitação
+em educação fiscal, com foco nos processos de ouvidoria e de atendimento, a fim de otimizar o relacionamento com a sociedade
+por meio das iniciativas a seguir:
+a) Definir estratégias e planos de trabalho para a realização de atividades de formação com os diferentes públicos (mulheres,
+agricultura familiar,  extrativistas, pescadores, piscicultores, silvicultores)
+b) Expandir as atividades dos Mutirões da Cidadania (programa estadual) para: acelerar as ações de formalização de
+Microempreendedores, disseminar o marco regulatório com as isenções do ICMS para desonerar e simplificar os negócios da
+agricultura familiar, extrativistas, pescadores, piscicultores, silvicultores, com o objetivo tornar a agricultura familiar  a maior
+fornecedora de bens para os programas governamentais de alimentação escolar e restaurantes populares;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 9
+c) Realizar avaliação do impacto do programa de Educação Fiscal e promover melhoria contínua com base nas avaliações,
+levando em consideração o fomento à igualdade de gênero, à diversidade racial e a capacitação do pequeno produtor; 
+d) Coletar opiniões dos cidadãos por meio de apps ou chatbots, implantando conselhos para políticas públicas e promovendo
+fóruns de debate;
+e) Informar ao cidadão sobre o encaminhamento de suas demandas, acompanhar o trâmite das manifestações, e elaborar
+recomendações e relatórios para as unidades responsáveis.
+      P - 1.7 SEFAZ Logística sustentável implantada
+O produto em questão visa alinhar as compras do órgão aos critérios de sustentabilidade contidos na nova lei de licitações nº 14.
+133/2021 e ainda definir diretrizes para implementação da logística sustentável no órgão. Serão realizadas as seguintes ações: 
+a) Definir Política de sustentabilidade e desenvolvimento social e definir critérios de custo-benefício para realização de compras
+sustentáveis;
+b) Elaborar Plano de Logística Sustentável (PLS); 
+c) Implantar Plano de Logística Sustentável (PLS)
+P - 1.8 SEAD: Governança Pública fortalecida: Gestão de projetos, processos, da inovação e da transformação digital
+aprimorada
+Este produto tem o intuito de implementar uma estrutura adequada para o desenvolvimento das atividades de gestão de projetos,
+processos, da inovação e da transformação tecnológica; com foco no uso da ciência de dados e adoção de novas tecnologias. As
+seguintes soluções serão implantadas: 
+a) Instituir estrutura tecnológica adequada para o desenvolvimento de atividades voltadas à gestão de projetos, processos, da
+inovação e transformação tecnológica, garantindo acesso a equipamentos e constante formação para a construção de ações
+baseadas em evidências e análises fundamentadas;
+b) Obter soluções em softwares de gestão para o desenvolvimento de processos seguindo as melhores práticas de gestão do setor
+ público;
+c) Estabelecer diretrizes claras para o desenvolvimento da gestão de projetos e de processo baseadas em ciência de dados;
+d) Institucionalizar a cultura de ciência de dados nas equipes estratégicas da SEAD;
+e) Instituir unidade responsável pela busca de novas tecnologias e recursos estratégicos.
+      P - 1.9 SEAD Gestão estratégica de pessoas implantada
+A implantação deste produto busca corrigir uma lacuna na gestão de pessoas do Governo do Estado, o qual não possui plano de
+revisão de cargos, carreiras e salário tampouco uma metodologia para alocação adequada dos servidores com base em suas
+competências. Para tanto, serão desenvolvidas as seguintes ações:
+a) Instituir metodologia e plano de dimensionamento da força de trabalho que vise o levantamento de informações e análise sobre
+a adequada alocação de recursos humanos para a entrega eficiente das demandas; 
+b) Elaborar estudo de dimensionamento da força de trabalho nos órgãos da gestão fiscal do Governo do Estado
+c) Estruturação de plano de revisão dos cargos, carreiras e salários do Estado do Maranhão, visando a economicidade e impactos
+futuros na folha de pagamento; 
+d) Desenvolver plano de desenvolvimento de cargos, visando a maior capacitação de servidores públicos
+e) Elaborar plano de levantamento, monitoramento e análise de informações sobre concursos públicos, entendendo a eficiência
+das entregas de servidores efetivos e a necessidade real de novos concursos nos órgãos do estado;
+f) Instituir estrutura tecnológica para os servidores que trabalham com gestão de pessoas, garantindo acesso a equipamentos e
+capacitação para a construção de ações baseadas em evidências e análises fundamentadas; 
+g) Elaboração de política que institua governança e gestão de pessoas, atribuindo responsabilidade, direitos e deveres,
+estabelecendo políticas e ações mais eficientes. 
+      P - 1.10 SEPLAN Gestão estratégica de pessoas implantada
+Este produto tem como objetivo aprimorar a gestão de pessoas na área da gestão fiscal com foco no alinhamento estratégico.
+Serão desenvolvidas as seguintes soluções: 
+a) Definir um modelo de gestão estratégica de pessoas no órgão responsável pela gestão do gasto com maior foco em resultados
+individuais alinhados à estratégia da organização, incluindo gestão e avaliação de desempenho individual, contemplando
+resultados, qualidade do trabalho, complexidade dos processos, metas, assiduidade, pontualidade, engajamento e
+autodesenvolvimento;
+b)Implementar trilhas de aprendizagem e gestão do conhecimento para o aperfeiçoamento dos conhecimentos específicos e gerais
+ dos servidores, promovendo políticas voltadas para juventude, gênero e raça.
+      P - 1.11 SEPLAN Governança pública fortalecida
+Este  produto tem como finalidade fortalecer o planejamento estratégico do órgão responsável pela gestão do gasto. As seguintes
+ações serão implantadas:
+a)Desenvolver o planejamento estratégico do órgão responsável pela gestão do gasto, aprimorando a gestão fiscal por meio do
+estabelecimento de metas claras, específicas e mensuráveis entre a administração fiscal e os diversos atores vinculados, visando
+maior eficiência na gestão fiscal, no fortalecimento do planejamento de longo e médio prazo e na melhoria da qualidade do gasto
+público, alinhado às diretrizes do PROFISCO III;  
+b) Implantar sistemas e ferramentas de monitoramento de metas, indicadores e resultados definidos no planejamento estratégico
+da SEPLAN, assegurando o acompanhamento contínuo dos progressos;
+c) Aprimorar a gestão de processos e projetos da SEPLAN, fortalecendo a governança institucional e melhorando a eficiência; 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 10
+d) Desenvolver e implementar o Plano Estadual de Transição Energética, promovendo a sustentabilidade ambiental e a eficiência
+energética. 
+C - COMPONENTE II: ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL (AT)
+As iniciativas deste componente têm como objetivo principal fortalecer o planejamento, o orçamento e a gestão financeira estadual,
+adotando novas estratégias em processos e atividades críticas identificados na MD-GEFIS. No campo do planejamento e
+avaliação de investimentos, busca-se uma melhoria contínua na qualidade do gasto público, utilizando intensivamente dados para
+alocação, priorização, execução, monitoramento e avaliação. Essa iniciativa, combinada ao fortalecimento da governança e dos
+processos do órgão responsável pela gestão do gasto, visa decisões mais informadas e eficazes, promovendo um uso mais
+eficiente dos recursos públicos. 
+No controle de custos, a implementação de sistemas integrados visa gerenciar os custos de forma mais eficiente. Estes sistemas
+serão alinhados ao Planejamento Estadual de Longo Prazo, ao Plano Plurianual (PPA) e à gestão fiscal, assegurando que os
+recursos sejam utilizados de maneira otimizada e transparente. 
+A avaliação da eficácia e dos resultados do gasto público é outro foco importante. Propõe-se o desenvolvimento de novas
+metodologias para a avaliação periódica dos gastos, com ênfase na qualidade do gasto, através de uma sistemática de
+Monitoramento e Avaliação (M&A).  
+Além disso, o fortalecimento da gestão da dívida e dos passivos possibilitará um controle minucioso com um enfoque na
+sustentabilidade fiscal. Isso é essencial para manter a saúde financeira do Estado e garantir que os compromissos futuros possam
+ser honrados sem comprometer a capacidade de investimento e funcionamento do governo.
+      P - 2.1 Cadastro de contribuintes aperfeiçoado
+Este produto contribuirá para o aprimoramento do processo de cadastro e integração Às novas ondas do REDESIM. Para tanto,
+será realizada a seguinte ação: a) Desenvolver mecanismos e critérios de atualização do cadastro ICMS/SEFAZ ao REDESIM de
+forma integral com a seleção de parâmetros de gênero e étnicos.
+      P - 2.2 Arrecadação do crédito tributário aperfeiçoada
+A implantação deste produto corrigirá as lacunas na atual gestão da dívida ativa realizada no Estado do Maranhão. Nesse sentido,
+serão desenvolvidos os seguintes produtos: 
+a) Elaborar novos procedimentos e fluxos de trabalho visando a eficiência e a eficácia. 
+b) Desenvolver sistema transacional adequado para gestão da dívida ativa e integrado com os órgãos responsáveis pelo
+contencioso administrativo e com o sistema de processos judiciais.
+      P - 2.3 Cobrança do crédito tributário fortalecida
+O produto em questão fortalecerá o processo de cobrança do crédito tributário, possibilitando uma melhor autonomia ao
+contribuinte e um refinamento do monitoramento e avaliação dos procedimentos de cobrança. Serão realizadas as seguintes ações
+: 
+a) Disponibilizar na visão integral do Contribuinte informações de todos os créditos do ICMS e débitos 
+da Dívida Ativa do ICMS. Assim como, as informações de pagamentos atualizadas em 15 minutos. 
+b) Otimizar o processo de cobrança para integrá-lo com todos os impostos e processos de negócio, estabelecer relatórios de
+monitoramento, controle e avaliação e incorporar mecanismos de cobrança qualificada. 
+c) Atualizar o processo de parcelamento do ICMS para melhorar os resultados da cobrança e facilitar o serviço ao contribuinte.
+      P - 2.4 Fiscalização e inteligência fiscal fortalecidas
+Este produto visa o aprimoramento do processo de fiscalização e inteligência fiscal, introduzindo conceitos de gestão de riscos,
+conformidade fiscal, tempestividade de suas ações. Serão implantadas as seguintes soluções:
+a) Reestruturar o modelo de conformidade fiscal para melhorar a gestão e controle da fiscalização no trânsito de mercadorias e na
+entrega de declarações eletrônicas. 
+b) Reestruturar a sistemática de monitoramento fiscal para incluir conceitos de matriz de risco além dos indicadores de faturamento
+, aquisições e arrecadação;
+c) Melhorar a qualidade dos dados nos arquivos da Escrituração Fiscal Digital (EFD) e Escrituração Contábil Digital (ECD) para uso
+ eficiente em malhas e auditorias fiscais; 
+d) Aprimorar a sistemática e base de indicadores para subsidiar a fiscalização, utilizando os sistemas de Gestão da Ação Fiscal (
+GFIS) e PAF-e; 
+e) Ajustar o modelo de fiscalização para conformidade com novas legislações fiscais; 
+f) Implementar roteiros padronizados para garantir a uniformidade e precisão nos processos fiscais;
+g) Prospectar soluções de mineração de dados e inteligência artificial para trabalhar com grandes volumes de dados;
+h) Incorporar regras de análise de risco nos processos de fiscalização para identificar e mitigar fraudes e irregularidades;
+i) Realizar a segunda fase da integração do Sistema PUCOMEX com a Receita Federal do Brasil; 
+j) Implantar sistema de gestão e controle de Benefício Fiscal.
+      P - 2.5 Fiscalização do Agronegócio fortalecida
+A implementação deste produto tem como objetivo aprimorar a ferramenta já desenvolvida para fiscalização de produtos agrícolas,
+o Sistema de Fiscalização e Monitoramento da Produção Agrícola,e assim aumentar o Risco Subjetivo para o Contribuinte e
+promover práticas agrícolas mais sustentáveis:
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 11
+a) Desenvolver novas funcionalidades no SIFMA para: - Automatizar os cruzamentos fiscais dentro do SIFMA: Para alertar
+automaticamente sobre divergências entre as notas fiscais e a produção registrada pela ferramenta. - Estimar produção mensal de
+safras; - Realizar cruzamentos de informação fiscal de insumos indiretos da produção. -Integrar SIFMA com a Central de Vídeo
+Monitoramento do Trânsito; - Automatizar cruzamentos socioambientais e rastreabilidade do gado: Para fins de monitoramento
+ambiental; - Implantar dashboard com análises socioambientais de municípios e produtores rurais: Para fins de benefícios
+tributários previstos na Lei nº 12.120 (Política de Tributação Ecológica do Maranhão), tais como ICMS ecológico para municípios e
+selo de conformidade verde do contribuinte;
+b) Desenvolver tecnologia para estimativa e contagem de cabeças de gado: Tanto no pasto quanto em confinamento;
+c) Fiscalizar propriedades e confinamentos por meio de imagens aéreas (drones); 
+d)Realizar Treinamento/capacitação de equipe para utilização da tecnologia desenvolvida e fiscalização.
+ 
+      P - 2.6 Relação do fisco com o contribuinte fortalecida
+Este produto visa possibilitar uma relação mais transparente e colaborativa com o contribuinte  e fisco. Para tanto, serão realizadas
+ as ações a seguir: 
+a) Desenvolver e implementar o Programa de Cumprimento Tributário Cooperativo (PCTC), com classificação dos contribuintes (
+rating), permitindo identificar o grau de risco individual de modo a orientar a SEFAZ a estabelecer incentivos e orientações de
+fiscalização;
+b) Elaborar marco legal e regulamentar para a implementação dos PCTC; 
+c) Definir procedimentos operacionais e criar uma infraestrutura tecnológica adequada; 
+d) Oferecer treinamentos específicos para os servidores da SEFAZ sobre os princípios e práticas dos PCTC;
+e) Desenvolver programas de capacitação contínua para gestores e contribuintes, focando na gestão de riscos tributários e na
+transparência;
+f) Implementar sistemas de retroalimentação acelerada e de total transparência nas operações tributárias; 
+g) Estabelecer canais de comunicação efetivos entre a SEFAZ e os contribuintes para o intercâmbio de informações e resolução de
+ problemas; 
+h) Criar mecanismos de monitoramento e avaliação contínua dos PCTC, assegurando a melhoria constante dos processos.
+      P - 2.7 Convergência com a Reforma Tributária
+A reforma tributária trará relevantes impactos sobre o modo de operação das administrações tributárias e para o contencioso fiscal
+dos entes subnacionais. Haverá a redistribuição de competências tributárias entre União, estados e municípios, bem como a
+implementação dos novos modelos de arrecadação, gestão e fiscalização. Dessa forma este produto procura consolidar os
+investimentos em processos, tecnologia e capacitação de pessoas com foco na preparação de uma Secretaria de Fazenda para
+operar eficientemente no novo ambiente projetado pela Reforma Tributária e que afetará os atuais tributos ICMS e ITCMD e o
+futuro IBS - Imposto sobre Bens e Serviços. São previstas as seguintes ações:
+a) Preparar tecnicamente e pessoalmente para este ambiente de mudanças; 
+b) Adaptar o planejamento estratégico à nova realidade; 
+c) Readequar todos os processos de trabalho, especialmente aqueles relacionados ao ICMS, IPVA e ITCD; 
+d) Adaptar a estrutura física de TI; 
+e) Adequar as plataformas de TI (arrecadação, fiscalização, cobrança, atendimento, entre outros) aos novos impostos; 
+f) Revisar a estrutura organizacional da administração tributária; 
+g) Reorganizar a legislação tributária infraconstitucional, especialmente leis estaduais e atos normativos; 
+h) Reestruturar os sistemas de controle de repartição da receita tributária.
+      P - 2.8 Infraestrutura física da administração tributária provida de Energia Sustentável
+A implementação desde produto busca fomentar uma gestão mais sustentável na administração tributária. Serão implantadas as
+seguintes soluções:
+a)Instalação de estrutura de energia fotovoltaica nos prédios da Administração Tributária do Estado que faça a captura eficiente da
+energia solar e integrem sistemas de armazenamento de energia, para uso quando necessário; 
+b)Implantação de sistemas de monitoramento e controle da produção de energia e desempenho da estrutura, permitindo a rápida
+identificação de eventuais problemas e necessidade de manutenção;
+d)Desenvolvimento de programas de capacitação para os servidores responsáveis pela operação e manutenção do sistema,
+garantindo funcionamento eficiente e prolongado da vida útil dos aparelhos; 
+e)Definição de uma metodologia e indicadores de acompanhamento do gasto energético que ajudem na formulação de ações para
+a constante economicidade do gasto. 
+C - COMPONENTE III: PLANEJAMENTO, ORÇAMENTO, GESTÃO FINANCEIRA E DO GASTO PÚBLICO
+As iniciativas deste componente têm como objetivo principal fortalecer o planejamento, o orçamento e a gestão financeira estadual,
+adotando novas estratégias em processos e atividades críticas identificados na MD-GEFIS. No campo do planejamento e
+avaliação de investimentos, busca-se uma melhoria contínua na qualidade do gasto público, utilizando intensivamente dados para
+alocação, priorização, execução, monitoramento e avaliação. Essa iniciativa, combinada ao fortalecimento da governança e dos
+processos do órgão responsável pela gestão do gasto, visa decisões mais informadas e eficazes, promovendo um uso mais
+eficiente dos recursos públicos. 
+No controle de custos, a implementação de sistemas integrados visa gerenciar os custos de forma mais eficiente. Estes sistemas
+serão alinhados ao Planejamento Estadual de Longo Prazo, ao Plano Plurianual (PPA) e à gestão fiscal, assegurando que os
+recursos sejam utilizados de maneira otimizada e transparente. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 12
+A avaliação da eficácia e dos resultados do gasto público é outro foco importante. Propõe-se o desenvolvimento de novas
+metodologias para a avaliação periódica dos gastos, com ênfase na qualidade do gasto, através de uma sistemática de
+Monitoramento e Avaliação (M&A).  
+Além disso, o fortalecimento da gestão da dívida e dos passivos possibilitará um controle minucioso com um enfoque na
+sustentabilidade fiscal. Isso é essencial para manter a saúde financeira do Estado e garantir que os compromissos futuros possam
+ser honrados sem comprometer a capacidade de investimento e funcionamento do governo.
+      P - 3.1 SEPLAN Planejamento e Execução Orçamentária aperfeiçoados
+Este produto tem como objetivo fortalecer o processo de planejamento e monitoramento das ações governamentais, de maneira
+sustentada, tomando como base cenários macroeconômicos realistas. Assim, torna-se necessário o fortalecimento da eficiência e
+da transparência, o aprimoramento dos processos de previsões fiscais e de formulação e avaliação das políticas fiscais, e a
+construção dos instrumentos de planejamento (PPA, LDO e LOA), e seus respectivos anexos, de forma integrada e previsível, de
+modo a aperfeiçoar os procedimentos de previsão de arrecadação da receita e de alocação das despesas. 
+ 
+Para o alcance desse objetivo, são propostas as seguintes soluções: 
+ 
+Desenvolver um sistema de informações que possibilite o acompanhamento das entregas do plano estratégico de longo prazo,
+com integração ao PPA e à gestão fiscal, proporcionando uma visão holística das metas, atividades e recursos envolvidos; 
+Reformular e adequar a Governança do Planejamento e outras instâncias necessárias ao pleno funcionamento do planejamento
+estadual, de modo a promover uma governança institucionalizada que acarrete o fortalecimento dos atores envolvidos no sistema
+de planejamento; 
+Aprimorar a gestão orçamentária, com foco no marco orçamentário de médio prazo para a geração de resultados, visando
+fortalecer o vínculo entre políticas, planejamento e orçamentário ao longo de um horizonte plurianual e vincular as alocações de
+despesas às prioridades; 
+Aperfeiçoar o Orçamento Participativo, a partir da integração com as áreas de transparência, controle social e cidadania fiscal,
+modernizando, dessa forma, os mecanismos de qualificação das escolhas públicas e fortalecimento democrático; 
+Aprimorar a gestão de riscos, com foco no monitoramento de controle das políticas e riscos fiscais, disponibilizando informações
+tempestivas para a tomada de decisão, com ênfase na sustentabilidade e manutenção da CAPAG, bem como na melhoria do
+controle dos riscos fiscais, a partir da utilização de ferramentas, tais como: Big Data, Painel de Gestão Fiscal, Inteligência Artificial,
+dentre outras; 
+Implementar uma Matriz Insumo-Produto para estimar o impacto sobre a produção, emprego e renda das atividades econômicas,
+de projetos governamentais, do setor privado sobre a economia, com foco na melhoria da inteligência tributária e otimização dos
+gastos públicos. Tornar esse sistema eficiente e eficaz é inerente à melhoria da competitividade e do ambiente de negócios do
+estado, assim como o fortalecimento e melhor direcionamento do gasto público.
+      P - 3.2 SEPLAN Políticas, Programação e Execução Financeira aperfeiçoados
+Este produto tem como objetivo aperfeiçoar a gestão e avaliação das políticas públicas, bem como aprimorar a execução dos
+recursos financeiros, com foco na eficiência do gasto. Nesse sentido, monitorar e analisar os impactos econômicos e fiscais das
+políticas públicas que possam afetar os desempenhos da receita e da despesa, realizar a gestão adequada dos recursos
+financeiros, bem como o controle das receitas e despesas têm reflexo sobre o alcance desse objetivo. 
+Para tanto, o produto busca: 
+implantar uma sistemática de Monitoramento e Avaliação, com ciclos de avaliação periódica e ênfase na qualidade do gasto;  
+implementar o plano estratégico de gestão fiscal sustentável, integrado ao plano de longo prazo, com ênfase no aprimoramento da
+gestão financeira e na sustentabilidade fiscal e ambiental;  
+desenvolver fluxos de caixa preditivos e mecanismos de estimação da receita e alocação despesa 
+      P - 3.3 SEPLAN Gestão de Ativos e Passivos estabelecida
+Este produto visa uma gestão eficiente dos ativos e passivos do Estado, apoiada em análises de custo-benefício e avaliação de
+riscos fiscais. Para isso, é fundamental colaborar com órgãos estratégicos como a Secretaria de Estado da Administração (SEAD),
+a Procuradoria Geral do Estado (PGE) e o Tribunal de Justiça (TJ), que gerenciam, respectivamente, a carteira de imóveis, os
+passivos contingentes e os precatórios. O projeto propõe realizar auditorias detalhadas para avaliar e valorizar os ativos,
+desenvolver um plano de reestruturação dos passivos para aumentar a liquidez e reduzir custos, e adotar ferramentas tecnológicas
+avançadas. Além disso, será criado um sistema de controle de pagamentos para assegurar a precisão e a conformidade financeira
+, e todas as participações societárias do Estado serão identificadas e monitoradas para garantir uma avaliação precisa dos ativos e
+passivos. Por fim, será estabelecida uma base de dados centralizada e abrangente que registra informações detalhadas sobre os
+imóveis do Estado, incluindo localização, estado de conservação, valor de mercado e documentação legal, facilitando uma gestão
+informada e estratégica desses bens. 
+Para isso, será proposta a seguinte solução: 
+Implantar um sistema de Gestão de ativos e passivos, incluindo ativos e passivos contingentes e os precatórios, com registro
+contábil, para transparência e controle, objetivando proteger as finanças do Estado com possíveis desembolsos que desequilibre o
+caixa. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 13
+      P - 3.4 SEPLAN Gestão Contábil aperfeiçoada
+Esse produto busca produzir registros contábeis e informações atualizadas, visando fortalecer os mecanismos de controle e gestão
+contábil estadual para a tomada de decisão gerencial. Para compor essa meta, é necessário o aprimoramento da gestão contábil,
+por meio do estabelecimento de metas claras, específicas e mensuráveis entre a Contadoria Geral e os diversos atores estaduais,
+assim como a implantação, o aperfeiçoamento e a integração de sistemas estruturantes para adequação e otimização dos
+processos contábeis. 
+Para tanto, propõe-se a seguinte solução: 
+Desenvolver e fortalecer os mecanismos de controle e gestão contábil estadual 
+      P - 3.5 SEPLAN Gestão de custos e gastos públicos consolidada
+Este produto tem como objetivo fortalecer a gestão de custos e gastos públicos, por meio do aprimoramento da coleta e análise
+das informações que subsidiem os processos avaliativos, com vistas à melhoria da qualidade do gasto. O fortalecimento da gestão
+dos custos proporcionará maior adequação do planejamento e orçamento para a eficiência do gasto, direcionamento estratégico, a
+racionalização do gasto e o aprimoramento da gestão dos investimentos públicos estaduais. 
+Com o intuito de cumprir esse objetivo, serão propostas as seguintes soluções: 
+Implementar módulo de gestão de custos, integrado ao sistema financeiro para garantir maior precisão na alocação de recursos, e
+evidenciar os desvios que ferem o princípio da economicidade. 
+Implementar ferramenta de acompanhamento dos investimentos públicos;
+      P - 3.6 SEPLAN Gestão da Dívida Pública Implementada
+Este produto tem como objetivo aprimorar a gestão da dívida pública estadual através de uma abordagem integrada e estratégica.
+As ações principais incluem a elaboração de um plano abrangente de gestão da dívida, que considera a otimização da estrutura da
+dívida e a análise de cenários macroeconômicos para prever impactos e vulnerabilidades. Serão realizadas auditorias externas
+para avaliar a eficácia das políticas de endividamento, assegurando a minimização dos custos a longo prazo e a prevenção de
+riscos financeiros. O projeto também contempla a implementação de sistemas avançados de monitoramento e controle da dívida,
+integrados com plataformas financeiras existentes, para garantir transparência, eficiência e o alinhamento com as metas fiscais.
+Além disso, serão desenvolvidas análises detalhadas de risco e sustentabilidade, apoiadas por projeções econômicas robustas,
+que guiarão as decisões sobre a contratação e a gestão da dívida. Essa abordagem busca assegurar a solvência fiscal e a
+estabilidade econômica do Estado, promovendo o desenvolvimento sustentável e a confiança dos credores. 
+Para aperfeiçoar a gestão da dívida, propõe-se a integração completa dos sistemas de gestão da dívida com plataformas
+financeiras como o Sistema Integrado de Administração Financeira do Governo Federal (SIAFI), garantindo um fluxo eficiente de
+informações e o controle automatizado de transações. A adoção de tecnologias de ponta, como sistemas de Business Intelligence (
+BI) e análise de Big Data, permitirá um monitoramento mais preciso e uma análise aprofundada da dívida. Também é crucial
+implementar processos regulares para avaliar o impacto socioeconômico dos projetos financiados por dívidas, assegurando que
+eles gerem benefícios significativos para a sociedade. Por fim, a criação de relatórios anuais detalhados sobre a gestão da dívida,
+abordando tanto os resultados financeiros quanto os impactos socioeconômicos, é essencial para garantir transparência total e
+uma governança eficaz.
+      P - 3.7 SEAD  Gestão financeira e contábil da previdência: Inversão da curva previdenciária 
+Desenvolver soluções que sejam determinantes na compatibilização entre as necessidades financeiras do Estado do Maranhão e a
+ Unidade Gestora da Previdência; 
+Promover o equilíbrio financeiro e atuarial do Regime Próprio da Previdência Social; 
+Elaborar diagnóstico situacional do Regime Próprio da Previdência Social englobando perspectivas financeiras e atuariais e
+estrutura administrativa para gestão dos fundos; 
+Elaborar modelo de operacionalização das rotinas de comprovação de vida dos beneficiários do regime; 
+Implantar medidas de gestão e transparência visando obtenção de nível A no Índice de Situação Previdenciária - ISP e certificação
+do Pró-Gestão; 
+Elaboração de estudos de cenários atuariais contendo hipóteses e critérios que contenham a projeção de formas possíveis de
+realização do custeio previdenciário; 
+Estruturação de fundos de investimento que atendam à regulamentação da Comissão de Valores Mobiliários ? CVM, a resolução
+do Conselho Monetário Nacional - CMN nº 4.963/2021 e a Portaria MTP nº 1.467/2022;
+Elaboração do  novo modelo de Plano de Custeio e demais documentos acessórios necessários à sua efetivação, contemplando
+estratégias alternativas às transferências financeiras do tesouro municipal para o RPPS tais como aporte de ativos, bens e direitos;
+Elaboração de minutas de atos normativos que permitam efetivar o processo de transferência de vidas, ato seguinte ao processo
+de transferência de imóveis;
+Apoio e Orientação na Seleção, Aporte, Monetização e Performance de Ativos;
+      P - 3.8 SEAD Gestão da carteira de imóveis da administração direta e indireta fortalecida
+- Desenvolver e implementar estrutura de governança da gestão de imóveis que alinhe as ações da gestão de imóveis com a
+melhor alocação e economia de recursos, promovendo transparência, responsabilidade e eficiência;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 14
+- Desenvolver plano estruturado para o mapeamento, sistematização e análise de informações dos imóveis do Governo do Estado,
+garantindo confiabilidade sobre a real situação da carteira de imóveis da administração pública estadual; 
+- Implementar metodologia para gerenciar os imóveis de modo que promova a boa destinação de recursos, a eficiência na
+alocação de órgãos, boa gestão sobre os gastos e necessidades de manutenção e preservação; 
+- Desenvolver as capacidades dos servidores e colaboradores que trabalham com a gestão dos imóveis garantindo acesso a
+equipamentos e sistemas adequados para a boa gestão das informações e análise eficiente. 
+- Instituir estrutura tecnológica para os servidores que trabalham com gestão de imóveis, garantindo acesso a equipamentos e
+formação para a construção de ações baseadas em evidências e análises fundamentadas; 
+C - COMPONENTE IV: GESTÃO JURÍDICA DOS ASSUNTOS FISCAIS (GJ)
+Este componente visa aumentar a efetividade da gestão jurídica para a redução dos riscos fiscais e aumento da recuperação da
+dívida ativa, garantindo maior sustentabilidade fiscal ao Estado do Maranhão. Uma efetiva gestão jurídica dos temas fiscais baseia-
+se no uso das novas tecnologias e da inteligência artificial para a redução dos riscos fiscais e a promoção da liquidez do crédito
+tributário, assegurando transparência e segurança jurídica. Dentre outros aspectos, almeja-se o aperfeiçoamento das ferramentas
+de gestão jurídica para uma maior efetividade do ambiente de execuções fiscais e para o estímulo aos meios alternativos de
+solução de conflitos e de cobrança para melhor recuperação dos créditos tributários.
+      P - 4.1 Gestão das Demandas Judiciais e dos Riscos Fiscais aprimorada 
+Este produto buscará aperfeiçoar a sistemática de recuperação da dívida ativa por meio da utilização de sistemas de
+automatização de processos, a partir do desenvolvimento de ferramentas de inteligência analítica e de aprendizado de máquina (
+machine learning) para redução dos riscos fiscais, melhoria da gestão das demandas judiciais, redução do contencioso fiscal e
+estímulo aos meios alternativos de solução de litígios. Para tanto, serão implementadas as seguintes soluções:
+a) aprimorar o sistema de automatização de processos judiciais existente no âmbito da PGE-MA para gestão analítica da carteira
+processual e otimização da arrecadação da dívida ativa; 
+b) implantar um sistema de gestão de risco para o controle dos processos internos; 
+c) implantar critérios objetivos para utilização  de mecanismos alternativos para solução de conflitos e indução da recuperação dos
+créditos;
+d) identificar e propor ferramenta para combate à sonegação fiscal no campo da execução fiscal; 
+e) desenvolver ferramenta de gestão de depósitos judiciais integrada com os sistemas da Secretaria da Fazenda; 
+f) elaborar plano contínuo de capacitação e especialização dos procuradores para aprimorar a defesa tributária do Estado; 
+g) desenvolver solução tecnológica, com técnicas de aprendizado de máquina (machine learning), para efetuar a classificação de
+atos, elaborar minutas e protocolar peças processuais, inclusive com uso de inteligência artificial; 
+h)elaborar plano de longo prazo para a atuação jurídica da Procuradoria-Geral do Estado, em consonância com os objetivos
+estabelecidos no Plano Maranhão 2050;
+i) compatibilizar a Procuradoria Geral do Estado às diretrizes da Reforma Tributária aprovada no Congresso Nacional;
+j) renovar os equipamentos de tecnologia e de informação para adequar a infraestrutura da Procuradoria-Geral do Estado às
+demais ações a serem implementadas.
+C - GESTÃO DO PROJETO
+Obter conhecimentos, habilidades e técnicas necessárias para a supervisão do projeto, de forma a propiciar o correto
+gerenciamento do escopo, tempo, custos e integração na execução de seus diferentes produtos. Para este componente, estão
+previstas duas intervenções:
+      P - Monitoramento e Avaliação
+Avaliações e monitoramentos periódicos para obter, analisar, avaliar e disponibilizar informações para conhecer o real estágio de
+execução, visando a adoção de medidas para correção de eventuais desvios. Assim, será realizada a supervisão do projeto, o
+gerenciamento do escopo, do tempo, dos custos e integração na execução.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 15
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Bens
+-
+-
+1.661.048,35
+2,83
+P- 2.8 Infraestrutura física da administração
+tributária provida de Energia Sustentável
+Unidade
+1,00
+1.266.781,00
+2,16
+P- 3.6 SEPLAN Gestão da Dívida Pública
+Implementada
+Unidade
+1,00
+394.267,35
+0,67
+Consultoria
+-
+-
+11.767.820,49
+20,03
+P- 1.1 SEFAZ: Governança Pública fortalecida
+Unidade
+1,00
+1.409.505,79
+2,40
+P- 1.2 SEFAZ Gestão da mudança implantada
+Unidade
+1,00
+116.801,70
+0,20
+P- 1.3 SEFAZ Gestão da inovação e
+transformação digital implantadas
+Unidade
+1,00
+275.987,15
+0,47
+P- 1.6 SEFAZ Transparência e Cidadania Fiscal
+Unidade
+1,00
+251.345,44
+0,43
+P- 1.7 SEFAZ Logística sustentável implantada
+Unidade
+1,00
+201.076,35
+0,34
+P- 1.8 SEAD: Governança Pública fortalecida:
+Gestão de projetos, processos, da inovação e da
+transformação digital aprimorada
+Unidade
+1,00
+479.646,93
+0,82
+P- 1.9 SEAD Gestão estratégica de pessoas
+implantada
+Unidade
+1,00
+1.385.646,70
+2,36
+P- 1.10 SEPLAN Gestão estratégica de pessoas
+implantada
+Unidade
+1,00
+512.547,56
+0,87
+P- 1.11 SEPLAN Governança pública fortalecida
+Unidade
+1,00
+1.577.069,41
+2,68
+P- 3.2 SEPLAN Políticas, Programação e
+Execução Financeira aperfeiçoados
+Unidade
+1,00
+1.379.935,73
+2,35
+P- 3.7 SEAD  Gestão financeira e contábil da
+previdência: Inversão da curva previdenciária 
+Unidade
+1,00
+4.178.257,73
+7,11
+Serviços que Não de Consultoria
+-
+-
+45.120.054,85
+76,80
+P- 1.5 SEFAZ Gestão de Tecnologia da
+Informação fortalecida
+Unidade
+1,00
+20.800.000,00
+35,40
+P- 2.1 Cadastro de contribuintes aperfeiçoado
+Unidade
+1,00
+354.840,62
+0,60
+P- 2.2 Arrecadação do crédito tributário
+aperfeiçoada
+Percentual
+100,00
+394.267,35
+0,67
+P- 2.3 Cobrança do crédito tributário fortalecida
+Percentual
+100,00
+492.834,19
+0,84
+P- 2.4 Fiscalização e inteligência fiscal
+fortalecidas
+Percentual
+100,00
+4.021.527,00
+6,85
+P- 2.5 Fiscalização do Agronegócio fortalecida
+Percentual
+100,00
+1.626.539,47
+2,77
+P- 2.6 Relação do fisco com o contribuinte
+fortalecida
+Percentual
+100,00
+500.000,00
+0,85
+P- 2.7 Convergência com a Reforma Tributária
+Percentual
+100,00
+7.000.000,00
+11,91
+P- 3.1 SEPLAN Planejamento e Execução
+Orçamentária aperfeiçoados
+Percentual
+100,00
+3.449.839,34
+5,87
+P- 3.3 SEPLAN Gestão de Ativos e Passivos
+estabelecida
+Unidade
+1,00
+197.133,68
+0,34
+P- 3.4 SEPLAN Gestão Contábil aperfeiçoada
+Percentual
+100,00
+394.267,35
+0,67
+P- 3.5 SEPLAN Gestão de custos e gastos
+públicos consolidada
+Percentual
+100,00
+591.401,03
+1,01
+P- 3.8 SEAD Gestão da carteira de imóveis da
+administração direta e indireta fortalecida
+Percentual
+100,00
+1.172.470,28
+2,00
+P- 4.1 Gestão das Demandas Judiciais e dos
+Riscos Fiscais aprimorada 
+Percentual
+100,00
+3.370.985,87
+5,74
+P- Monitoramento e Avaliação
+Percentual
+100,00
+753.948,67
+1,28
+Capacitação e Treinamento
+-
+-
+201.076,35
+0,34
+P- 1.4 SEFAZ Gestão de Pessoas e do
+Conhecimento fortalecidas
+Unidade
+1,00
+201.076,35
+0,34
+Total Geral
+-
+-
+58.750.000,04
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+Estão sendo iniciadas as discussões internas e/ou a estruturação de grupos de trabalho para a elaboração dos Termos de Referência.
+Ademais, estão em desenvolvimento iniciativas de prospecção de soluções e geração de especificações para um conjunto de produtos.
+Soluções robustas iniciadas com financiamento do PROFISCO II MA serão continuadas com o novo Projeto PROFISCO III, dentre elas:
+ 
+i) REDESIM: O projeto de integração do Cadastro de Contribuintes/ICMS-SEFAZ em relação às funcionalidades equivalentes à 1ª onda de
+implementação (Procedimentos básicos - Inscrição, Alteração e Baixa) foi concluído no ano de 2021. Em 2019, o tempo médio para
+abertura de uma empresas era de 3 dias e 13 horas, após a implantação da primeira onda do REDESIM o mesmo foi reduzido para
+apenas 18 horas. Para o PROFISCO III, estão previstas as integrações relativas a segunda e terceira ondas;
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 16
+ii) Sistema de Fiscalização e Monitoramento Agrícola (SIFMA): O SIFMA foi desenvolvido inicialmente para fiscalizar a arrecadação
+tributária da produção de grãos (soja e milho). Este sistema pioneiro no Brasil está em operação desde janeiro de 2024 e já realizou o
+primeiro auto de infração do país utilizando imagens de satélite para fins tributários. Além da função fiscal, a plataforma incorpora diversas
+funções socioambientais, proporcionando uma visão abrangente que tem sido reconhecida internacionalmente, tendo sido destaque na
+Conferência das Nações Unidas sobre Mudanças Climáticas em 2023. 
+Com a utilização de imagens de satélite para fins tributários já é perceptível o aumento  de arrecadação espontânea no setor de soja e
+milho.  Foi observado um crescimento significativo nos 4 primeiros meses de 2024 se comparado ao mesmo período de 2023 na
+arrecadação relativa à produção de soja (aumento de 34%) e milho (aumento de 31%). Esse aumento representou um incremento de
+aproximadamente R$3.000.000,00.
+
+iii) Integração ao Portal Único do Comércio Exterior: A primeira fase do projeto foi desenvolvida com os parâmetros repassados pela
+Receita Federal até então. No entanto, após a divulgação do cronograma para o tratamento da da Declaração Única de Importação (
+DUIMP), principal objetivo do sistema desenvolvido para o Estado, ficou evidente a necessidade de  uma segunda etapa para concluir a
+implementação.
+
+iv) Modelo de gestão de custos:  Em 2022, no âmbito do PROFISCO II foi desenvolvido o modelo de gestão de custos no Estado do
+Maranhão, visando não apenas aprimorar a eficiência administrativa, mas também maximizar os benefícios sociais. Um piloto foi
+implementado com sucesso na Secretaria de Estado de Desenvolvimento Social (SEDES), focando na compreensão detalhada e na
+metodologia para a implantação abrangente de um sistema de custos, com impacto no segmento populacional vulnerabilizado pela
+pobreza e exclusão social no Estado do Maranhão. Esta abordagem não apenas fortaleceu a transparência financeira, mas também
+permitiu uma análise da gestão mais eficaz dos recursos públicos. Para o PROFISCO III, está prevista a implementação do módulo de
+gestão de custos em consonância com o modelo definido e integração do mesmo ao sistema financeiro do estado.
+
+v) Plano Estratégico de Longo Prazo - Maranhão 2050: O desenvolvimento do plano foi finalizado e lançado em 2024. No entanto, ainda
+não há um sistema que possibilite o acompanhamento das entregas e resultados do Plano. Essa será uma ação que terá continuidade no
+PROFISCO III.
+Adicionalmente há uma constante troca de experiências com os demais estados da federação, através dos grupos técnicos ENCAT ?
+Encontro Nacional dos Administradores Tributários, COGEF - Comissão de Gestão Fazendária, GEFIN - Grupo de Gestão de Finanças e
+GDFAZ -Grupo de Desenvolvimento do Servidor, todos vinculados ao CONFAZ / COMSEFAZ. Dessa forma os servidores da SEFAZ-MA
+que participam ativamente desses grupos de trabalhos nacionais podem obter informações relevantes que subsidiarão tanto a elaboração
+de termos de referência e editais de licitação pública, como a realização de visitas técnicas para aprender com os sucessos e erros de
+outros estados que possam estar em estágio de maturidade mais avançado em dado processo ou projeto. 
+
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Estadual/Sem detalhes
+Estado do Maranhão ()
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+(i) CONDIÇÕES FINANCEIRAS DA OPERAÇÃO  
+a) Prazo de desembolso de 60 meses (5 anos);
+b) Prazo de carência: 60 meses (de 5 anos);
+c) Prazo máximo de amortização de 300 meses (25 anos); e
+d) Prazo total de 360 meses (30 anos).
+e) Taxa de juros (composição):
+&#9679;Índice SOFR: reajustado diariamente e composto - média dos últimos 180 dias: 5,12030% a.a.;
+&#9679;Taxa de originação (funding margin): 0,41% a. a.
+&#9679;Spread de captação: reajustado mensalmente / trimestralmente: 0,85% (3º trim. 2023);
+&#9679;A partir de janeiro de 2022, os empréstimos do BID estarão baseados na taxa SOFR, que buscará refletir adequadamente o custo
+de captação agregado do Banco para operações com garantia soberana;
+&#9679;Comissão de Crédito sobre o saldo não desembolsado do financiamento: 0,5% a.a. (2º sem 2023);
+f) TAXA DE CÂMBIO: 1 US$ = R$ 5,0727 - (Banco Central do Brasil, PTAX, venda) Data de Referência 06/05/2024.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 17
+
+(ii) Justificativa da necessidade e da opção por financiamento: 
+
+Muitos entes federativos lidam com um orçamento limitado para realizar, por conta própria, empreendimentos que demandam um alto
+volume de recursos. Com a maior parte do orçamento comprometido com as despesas obrigatórias, sobra pouco para realizar
+investimentos que deem suporte às políticas públicas. O financiamento a projetos do setor público, com apoio de natureza financeira de
+fontes externas (recursos provenientes de organismos internacionais ou agências governamentais estrangeiras), com garantia da União,
+tem muitas vantagens.
+-Taxas de juros mais baixas se comparadas a um financiamento doméstico;
+-Prazos mais longos e carência para a amortização do valor contratado;
+-Apoio dos agentes financeiros na elaboração e na execução dos projetos.
+É o que nos permite elevar a nossa capacidade de executar políticas públicas. A qualidade dos acordos de empréstimo que são feitos se
+traduzem em eficiência na política pública.
+
+A linha de crédito condicional para projetos de investimento (CCLIP ) PROFISCO I - BR-X1005), aprovada em 2008 por um montante de
+US$ 500 milhões e ampliada em 2013 para US$ 700 milhões, teve como objetivo promover a integração dos fiscos brasileiros e
+modernizar a gestão fiscal, financeira e patrimonial dos estados. O PROFISCO I apoiou a implantação da Nota Fiscal eletrônica no país a
+fim de aprofundar e garantir os ganhos obtidos e continuar o processo de modernização fiscal, os estados brasileiros, apoiados pelo
+Ministério da Fazenda, solicitaram ao BID uma nova CCLIP.
+A linha de crédito, BR-X1039 (CCLIP-PROFISCO II), de US$ 900 milhões, apoiou a modernização da gestão fazendária e o
+aperfeiçoamento da administração tributária e da gestão do gasto público nos estados brasileiros. Pretende, também, fortalecer a
+arrecadação dos estados num contexto em que o baixo crescimento econômico enfrentado pelo país gera efeitos negativos no
+desempenho fiscal dos estados.
+A linha de crédito do PROFISCO III busca contribuir para a adequação dos órgãos vinculados à gestão tributária no Estado frente aos
+novos desafios estabelecidos pela Reforma Tributária e, bem como os desafios da gestão fiscal e da transformação ecológica do país.
+Ademais é importante considerar que apesar das incertezas da implantação da Reforma Tributária, muito se tem avançado com a
+realização de seminários e reuniões envolvendo os três entes federados, com representantes dos órgãos e de grupos técnicos que estão
+discutindo a normatização, estruturação e operacionalização da Reforma Tributária.
+
+iii) Justificativa da opção pelo agente financeiro escolhido: 
+
+Os principais pontos a serem considerados são: a) conhecimento específico do BID; b) atuação de longo prazo no tema fiscal com os
+Profiscos I, II e agora o III; c) suporte técnico proporcionado pelo BID (cooperações técnicas, consultores externos); d) apoio no
+aprimoramento e na realização da MD GEFIS; e) fomento a troca de experiências via COGEF e realização de visitas técnicas; f) difusão
+de melhores práticas entre os Estados; g) fomento ao desenvolvimento de inovações e produtos de vanguarda; h) metodologias de
+monitoramento dos projetos com suporte técnico; i) mecanismos de avaliação de resultados dos projetos.
+O conhecimento específico e o amplo suporte técnico proporcionado pela equipe do Banco Interamericano de Desenvolvimento (BID) na
+área fiscal, são diferenciais de suma importância desde a fase do diagnóstico (aplicação de ferramentas de avaliação da maturidade da
+gestão fiscal MD-GEFIS), passando pelo desenho da operação até o acompanhamento da execução do projeto e avaliação de resultados
+alcançados, a exemplo do apoio provido ao longo dos programas PROFISCO I e II.
+Adicionalmente aos aspectos qualitativos mencionados, o BID proporciona intercâmbio técnico com outras unidades da federação e outros
+países, contribuindo para o conhecimento das melhores práticas e benchmarking das diferentes áreas da gestão fiscal, principalmente
+pelo apoio à Comissão de Gestão Fazendária ? COGEF, criada no âmbito do Conselho Nacional de Política Fazendária - CONFAZ.
+
+Desta forma, as justificativas para a escolha da linha de crédito PROFISCO III e do BID como fonte externa de financiamento são:
+
+Comparação das condições financeiras do agente escolhido, em relação a outros financiadores externos/internos: 
+(i)BNDES Finem - Desenvolvimento integrado dos estados: Incidem juros de IPCA + 5,15% + comissão de financiamento de 2,3% a.a.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 18
+(ii)CAF: Incidem juros considerando taxa SOFR (Secured Overnight Funding Rate), acrescido de mais margem fixa a ser definida na data
+de assinatura do contrato de empréstimo; juros de mora de 2% a.a. acima dos juros a serem estabelecidos no contrato; comissão de
+compromisso / commitment charge de 0,35% a.a., aplicado sobre os saldos não desembolsados do empréstimo; comissão de
+financiamento de 0,85% do valor total do empréstimo e mais gastos de avaliação de US$ 50 mil.
+(iii)BIRD: Incidem juros baseados na SOFR de seis meses, acrescido de spread variável definido periodicamente pelo BIRD; juros de mora
+de 0,5% (cinco décimos por cento); comissão de compromisso / commitment charge de 0,25% a.a. sobre os saldos não desembolsados
+do empréstimo; comissão de abertura de 0,25% sobre o valor do empréstimo; sobretaxa de exposição do BIRD ao País de 0,5% a.a.
+sobre o montante que exceder ao limite de exposição do país.
+(iv)BID: Incidem juros baseados na SOFR (Secured Overnight Funding Rate) acrescido de funding margin e spread definidos
+periodicamente pelo BID; comissão de compromisso /commitment charge de 0,75% a.a., aplicado sobre os saldos não desembolsados do
+empréstimo.
+
+2.11. PROJETO/BENEFICIÁRIO
+O projeto de melhoria e sustentabilidade fiscal no Estado do Maranhão apresenta benefícios significativos para a população, contribuintes,
+gestão pública e meio ambiente, promovendo um desenvolvimento mais equilibrado e inclusivo. Para a população, os principais
+resultados positivos incluem a melhoria na arrecadação, redução de gastos e maior transparência fiscal, fatores que impulsionam a
+qualidade dos serviços públicos e o ambiente de negócios. Isso, por sua vez, gera mais empregos, fomenta a sustentabilidade ambiental e
+ ajuda a mitigar os impactos das mudanças climáticas.
+Os contribuintes também se beneficiam com maior controle, regras claras e sistemas mais acessíveis e amigáveis. Isso permite o
+planejamento estratégico de médio e longo prazos, com um Estado que investe e demanda serviços e produtos, garantido pela solidez
+fiscal. A gestão pública ganha com receitas necessárias para executar políticas públicas, beneficiando órgãos governamentais como a
+Secretaria do Planejamento e Orçamento (SEPLAN), Secretaria de Administração (SEAD), Procuradoria Geral do Estado (PGE) e a
+Agência Estadual de Tecnologia de Informação (ATI). Esses benefícios são alinhados com os objetivos estratégicos do Estado, como
+desenvolvimento e redução das desigualdades sociais, conforme o PPA 2024-2027.
+A sustentabilidade ambiental e a conservação da biodiversidade serão fortalecidas através da execução de estudos técnicos que
+mensuram os riscos fiscais e a implantação de instrumentos fiscais e políticas públicas para mitigar os impactos do desenvolvimento
+econômico sobre o ecossistema. Além disso, o projeto prevê o desenvolvimento e a implementação de uma política de compras públicas
+sustentáveis, priorizando pequenos produtores locais, e a instalação de uma usina fotovoltaica para a autogeração de energia,
+substituindo fontes de energia fóssil e poluente por energia limpa e renovável.
+No âmbito do ambiente de negócios, o projeto inclui o desenvolvimento e implementação do Programa de Cumprimento Tributário
+Cooperativo (PCTC), abrangendo a criação de um marco legal, definição de procedimentos operacionais, infraestrutura tecnológica,
+capacitação contínua, transparência, comunicação efetiva entre SEFAZ e contribuintes, e mecanismos de monitoramento e avaliação.
+Ademais, promove maior efetividade na aplicação dos recursos públicos, desenvolvimento sustentável e acesso equitativo a
+oportunidades para grupos minoritários. O projeto se prepara para enfrentar a reforma tributária em tramitação, adaptando-se à criação do
+Imposto sobre Bens e Serviços (IBS), com foco na simplificação tributária, redução da litigância fiscal e uso intensivo de dados. O projeto
+também prevê ciclos de avaliação periódica, qualidade do gasto público, um plano estratégico de gestão fiscal sustentável, gestão
+financeira aprimorada, e promoção da sustentabilidade fiscal e ambiental. A implantação de uma plataforma para cobrança extrajudicial e
+ferramentas de combate à sonegação fiscal trará mais efetividade na recuperação da dívida ativa.
+A educação fiscal da população também será beneficiada com a expansão e modernização do programa, impactando diretamente cerca
+de 7 mil pessoas por ano. Produtores familiares, microempreendedores e membros de organizações sociais serão capacitados
+anualmente para o uso do sistema de Nota Fiscal Avulsa Eletrônica, promovendo a formalização e simplificação das vendas para
+empresas privadas e programas de compras governamentais.
+Em termos de inovação tecnológica, o projeto estabelece diretrizes e programas formalizados, incluindo um laboratório de inovação, um
+plano de transformação digital e uma política de governança de dados. Isso inclui programas de premiação e reconhecimento pela
+inovação, elevando a maturidade da gestão de TI e prevenindo a obsolescência de hardware e software. A melhoria na gestão de dados,
+segurança da informação e promoção da inovação fortalece o alinhamento estratégico com os objetivos da SEFAZ-MA.
+Assim, o projeto aprimora a gestão fiscal e promove a sustentabilidade ambiental e também fortalece o ambiente de negócios e a inclusão
+social, garantindo benefícios amplos e duradouros para toda a população do Estado do Maranhão.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 19
+Moeda de Referência: Dólar
+Fontes Internas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Contrapartida Financeira
+CF
+US$
+5.875.000,00
+1,00
+5.875.000,00
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Banco Interamericano de Desenvolvimento
+ - BID
+BID
+US$
+52.875.000,04
+1,00
+52.875.000,04
+Total:
+58.750.000,04
+58.750.000,04
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+ARRANJO INSTITUCIONAL
+O mutuário da operação será o Governo do Estado do Maranhão. O monitoramento e avaliação do processo e dos resultados serão
+realizados inicialmente pela unidade de coordenação no âmbito da Secretaria de Estado da Fazenda em razão de sua experiência no
+PROFISCO I e II, financiados pelo BID, que vem demonstrando conhecimento sobre políticas de aquisição, de sistemas nacionais para
+prestação de contas e de aquisições adequados e credenciados, e salvaguardas do agente financeiro externo escolhido.
+Além da Secretaria de Estado da Fazenda do Maranhão, haverá outros órgãos beneficiários envolvidos vinculados à gestão fiscal do
+estado, dos quais: 
+-Secretaria de Estado de Planejamento e Orçamento (SEPLAN), responsável pelo planejamento, organização e execução das políticas de
+governo e pela gestão do Tesouro, sua execução financeira e supervisão de dívida e encargos gerais;
+-Procuradoria Geral do Estado do Maranhão, responsável pela gestão do contencioso judicial e recuperação da dívida ativa;
+-Agência de Tecnologia da Informação, responsável por planejar, executar, controlar, normalizar e avaliar as atividades relacionadas à
+Tecnologia da Informação de todo o Estado;
+-Secretaria de Estado da Administração (SEAD), responsável pela modernização da gestão pública e gerindo seus recursos humanos e
+patrimoniais.
+Face ao número de beneficiários do PROFISCO III no estado do Maranhão, durante a preparação da operação com o Mutuário, o BID
+aplicará uma avaliação da capacidade institucional - PACI nos órgãos envolvidos no Projeto, para definir, conjuntamente o arranjo
+institucional mais adequado para realizar uma melhor gestão.
+Destaca-se que a experiência e o conhecimento acumulados, as ações de fortalecimento da capacidade institucional da equipe estadual
+na preparação, execução, monitoramento e avaliação de projetos desenvolvidas no âmbito de outros programas e parcerias, serão de
+fundamental importância para a melhoria do desempenho na execução do PROFISCO III MA, conforme segue: (i) capacitação continuada
+nas políticas de aquisições de organismos internacionais e na formulação de termos de referência e elaboração de especificações
+técnicas, segundo um conjunto de documentos padronizados, voltada para os membros da Unidade de Coordenação, líderes de produtos
+e de componentes, técnicos das áreas de compras e pareceristas jurídicos; (ii) adequação e credenciamento de sistemas nacionais para
+prestação de contas, aquisições (compras eletrônicas); (iii) ampliação da comissão especial de licitação no órgão executor, para
+atendimento ao PROFISCO III e, (iv) evolução do escritório de projetos para gestão de portfólios e monitoramento de metas e indicadores
+do planejamento estratégico e PROFISCO.
+Ressalta-se que a experiência da SEFAZ/MA, na execução do PENAFE e PROFISCOs I e II, financiados pelo BID, demonstra
+conhecimento sobre políticas de aquisição e salvaguardas do agente financeiro externo escolhido. No que se refere às salvaguardas
+ambientais e sociais, o BID possui um Marco de Políticas que traz os dez Padrões de Desempenho Ambiental e Social, aplicável a todos
+os projetos financiados pelo mesmo, e que apontam diretrizes para: avaliação e gestão de riscos e impactos ambientais e sociais; saúde e
+segurança da comunidade; aquisição de terras e reassentamento involuntário; povos indígenas; conservação da biodiversidade e gestão
+sustentável dos recursos naturais vivos; engajamento das partes interessadas e divulgação de informações; mão-de-obra e condições de
+trabalho; eficiência do uso de recursos e prevenção de poluição; patrimônio cultural; e igualdade de gênero.
+Ademais, a troca de experiências com outros estados, por meio dos grupos técnicos vinculados ao Conselho Nacional de Política
+Fazendária (CONFAZ) e ao Comitê dos Secretários de Estado da Fazenda (COMSEFAZ), em especial a Comissão de Gestão Fazendária
+(COGEF), permitiu a realização de visitas técnicas para transferência de tecnologias, o compartilhamento e cessão de soluções e o
+amadurecimento operacional das áreas gerencial e técnica dos órgãos fazendários. A equipe de coordenação do projeto e os líderes de
+projetos serão formalmente designados para essa nova etapa de modernização, sendo todos servidores públicos do quadro da Secretaria.
+MATRIZ DE RESPONSABILIDADE
+A Matriz de Responsabilidade do Projeto (Anexo XIII)  descreve as principais competências de cada um dos atores envolvidos na
+execução do Projeto, por área de intervenção.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 20
+ARRANJO OPERACIONAL
+A partir da experiência do PROFISCO II, verificou-se a importância de fortalecer o arranjo operacional do Projeto. Portanto, a equipe
+técnica da Unidade de Coordenação de Programa - UCP será ampliada, com a seguinte composição:
+A Unidade de Coordenação do PROFISCO III MA terá a seguinte composição:
+-1 Coordenador Geral
+-1 Coordenador Administrativo Financeiro
+-1 Coordenador Técnico
+-1 Assessor de Planejamento e Monitoramento
+-1 Assessor de Aquisições
+-1 Assessor de TI 
+-Líderes de produto
+4.2. Execução/Executores
+Executor: Secretaria da Fazenda do Estado do Maranhão
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+Fax:
+CNPJ:                
+UF:  
+4.3. Execução/Prazo
+Prazo de Desembolso:
+5
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - COMPONENTE I: RECURSOS ESTRATÉGICOS DA GESTÃO FISCAL (GF)
+27.210.703,38
+0,00
+2.721.070,36
+      P - 1.1 SEFAZ: Governança Pública fortalecida
+1.409.505,79
+0,00
+140.950,58
+      P - 1.2 SEFAZ Gestão da mudança implantada
+116.801,70
+0,00
+11.680,17
+      P - 1.3 SEFAZ Gestão da inovação e transformação digital implantadas
+275.987,15
+0,00
+27.598,72
+      P - 1.4 SEFAZ Gestão de Pessoas e do Conhecimento fortalecidas
+201.076,35
+0,00
+20.107,64
+      P - 1.5 SEFAZ Gestão de Tecnologia da Informação fortalecida
+20.800.000,00
+0,00
+2.080.000,00
+      P - 1.6 SEFAZ Transparência e Cidadania Fiscal
+251.345,44
+0,00
+25.134,54
+      P - 1.7 SEFAZ Logística sustentável implantada
+201.076,35
+0,00
+20.107,64
+P - 1.8 SEAD: Governança Pública fortalecida: Gestão de projetos, processos, da inovação e da
+transformação digital aprimorada
+479.646,93
+0,00
+47.964,69
+      P - 1.9 SEAD Gestão estratégica de pessoas implantada
+1.385.646,70
+0,00
+138.564,67
+      P - 1.10 SEPLAN Gestão estratégica de pessoas implantada
+512.547,56
+0,00
+51.254,76
+      P - 1.11 SEPLAN Governança pública fortalecida
+1.577.069,41
+0,00
+157.706,95
+C - COMPONENTE II: ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL (AT)
+15.656.789,63
+0,00
+1.050.627,82
+      P - 2.1 Cadastro de contribuintes aperfeiçoado
+354.840,62
+0,00
+88.710,16
+      P - 2.2 Arrecadação do crédito tributário aperfeiçoada
+394.267,35
+0,00
+98.566,84
+      P - 2.3 Cobrança do crédito tributário fortalecida
+492.834,19
+0,00
+123.208,55
+      P - 2.4 Fiscalização e inteligência fiscal fortalecidas
+4.021.527,00
+0,00
+402.152,70
+      P - 2.5 Fiscalização do Agronegócio fortalecida
+1.626.539,47
+0,00
+162.653,95
+      P - 2.6 Relação do fisco com o contribuinte fortalecida
+500.000,00
+0,00
+10.000,00
+      P - 2.7 Convergência com a Reforma Tributária
+7.000.000,00
+0,00
+140.000,00
+      P - 2.8 Infraestrutura física da administração tributária provida de Energia Sustentável
+1.266.781,00
+0,00
+25.335,62
+C - COMPONENTE III: PLANEJAMENTO, ORÇAMENTO, GESTÃO FINANCEIRA E DO GASTO
+PÚBLICO
+11.757.572,49
+587.500,01
+588.257,25
+      P - 3.1 SEPLAN Planejamento e Execução Orçamentária aperfeiçoados
+3.449.839,34
+321.369,54
+23.614,40
+      P - 3.2 SEPLAN Políticas, Programação e Execução Financeira aperfeiçoados
+1.379.935,73
+137.993,57
+0,00
+      P - 3.3 SEPLAN Gestão de Ativos e Passivos estabelecida
+197.133,68
+19.713,37
+0,00
+      P - 3.4 SEPLAN Gestão Contábil aperfeiçoada
+394.267,35
+39.426,74
+0,00
+      P - 3.5 SEPLAN Gestão de custos e gastos públicos consolidada
+591.401,03
+29.570,05
+29.570,05
+      P - 3.6 SEPLAN Gestão da Dívida Pública Implementada
+394.267,35
+39.426,74
+0,00
+      P - 3.7 SEAD  Gestão financeira e contábil da previdência: Inversão da curva previdenciária 
+4.178.257,73
+0,00
+417.825,77
+      P - 3.8 SEAD Gestão da carteira de imóveis da administração direta e indireta fortalecida
+1.172.470,28
+0,00
+117.247,03
+C - COMPONENTE IV: GESTÃO JURÍDICA DOS ASSUNTOS FISCAIS (GJ)
+3.370.985,87
+0,00
+337.098,60
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 21
+      P - 4.1 Gestão das Demandas Judiciais e dos Riscos Fiscais aprimorada 
+3.370.985,87
+0,00
+337.098,60
+C - GESTÃO DO PROJETO
+753.948,67
+0,00
+113.092,30
+      P - Monitoramento e Avaliação
+753.948,67
+0,00
+113.092,30
+Total
+0,00
+587.500,01
+4.810.146,33
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - COMPONENTE I: RECURSOS ESTRATÉGICOS DA GESTÃO FISCAL (GF)
+0,00
+5.442.140,68
+      P - 1.1 SEFAZ: Governança Pública fortalecida
+0,00
+281.901,16
+      P - 1.2 SEFAZ Gestão da mudança implantada
+0,00
+23.360,34
+      P - 1.3 SEFAZ Gestão da inovação e transformação digital implantadas
+0,00
+55.197,43
+      P - 1.4 SEFAZ Gestão de Pessoas e do Conhecimento fortalecidas
+0,00
+40.215,27
+      P - 1.5 SEFAZ Gestão de Tecnologia da Informação fortalecida
+0,00
+4.160.000,00
+      P - 1.6 SEFAZ Transparência e Cidadania Fiscal
+0,00
+50.269,09
+      P - 1.7 SEFAZ Logística sustentável implantada
+0,00
+40.215,27
+P - 1.8 SEAD: Governança Pública fortalecida: Gestão de projetos, processos, da inovação e da
+transformação digital aprimorada
+0,00
+95.929,39
+      P - 1.9 SEAD Gestão estratégica de pessoas implantada
+0,00
+277.129,34
+      P - 1.10 SEPLAN Gestão estratégica de pessoas implantada
+0,00
+102.509,51
+      P - 1.11 SEPLAN Governança pública fortalecida
+0,00
+315.413,88
+C - COMPONENTE II: ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL (AT)
+0,00
+5.494.569,17
+      P - 2.1 Cadastro de contribuintes aperfeiçoado
+0,00
+92.258,56
+      P - 2.2 Arrecadação do crédito tributário aperfeiçoada
+0,00
+102.509,51
+      P - 2.3 Cobrança do crédito tributário fortalecida
+0,00
+128.136,89
+      P - 2.4 Fiscalização e inteligência fiscal fortalecidas
+0,00
+1.809.687,15
+      P - 2.5 Fiscalização do Agronegócio fortalecida
+0,00
+731.942,76
+      P - 2.6 Relação do fisco com o contribuinte fortalecida
+0,00
+150.000,00
+      P - 2.7 Convergência com a Reforma Tributária
+0,00
+2.100.000,00
+      P - 2.8 Infraestrutura física da administração tributária provida de Energia Sustentável
+0,00
+380.034,30
+C - COMPONENTE III: PLANEJAMENTO, ORÇAMENTO, GESTÃO FINANCEIRA E DO GASTO
+PÚBLICO
+1.468.749,99
+1.470.643,13
+      P - 3.1 SEPLAN Planejamento e Execução Orçamentária aperfeiçoados
+803.423,84
+59.036,00
+      P - 3.2 SEPLAN Políticas, Programação e Execução Financeira aperfeiçoados
+344.983,93
+0,00
+      P - 3.3 SEPLAN Gestão de Ativos e Passivos estabelecida
+49.283,42
+0,00
+      P - 3.4 SEPLAN Gestão Contábil aperfeiçoada
+98.566,83
+0,00
+      P - 3.5 SEPLAN Gestão de custos e gastos públicos consolidada
+73.925,13
+73.925,13
+      P - 3.6 SEPLAN Gestão da Dívida Pública Implementada
+98.566,84
+0,00
+      P - 3.7 SEAD  Gestão financeira e contábil da previdência: Inversão da curva previdenciária 
+0,00
+1.044.564,43
+      P - 3.8 SEAD Gestão da carteira de imóveis da administração direta e indireta fortalecida
+0,00
+293.117,57
+C - COMPONENTE IV: GESTÃO JURÍDICA DOS ASSUNTOS FISCAIS (GJ)
+0,00
+674.197,17
+      P - 4.1 Gestão das Demandas Judiciais e dos Riscos Fiscais aprimorada 
+0,00
+674.197,17
+C - GESTÃO DO PROJETO
+0,00
+263.882,04
+      P - Monitoramento e Avaliação
+0,00
+263.882,04
+Total
+0,00
+1.468.749,99
+13.345.432,19
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - COMPONENTE I: RECURSOS ESTRATÉGICOS DA GESTÃO FISCAL (GF)
+0,00
+5.442.140,68
+      P - 1.1 SEFAZ: Governança Pública fortalecida
+0,00
+281.901,16
+      P - 1.2 SEFAZ Gestão da mudança implantada
+0,00
+23.360,34
+      P - 1.3 SEFAZ Gestão da inovação e transformação digital implantadas
+0,00
+55.197,43
+      P - 1.4 SEFAZ Gestão de Pessoas e do Conhecimento fortalecidas
+0,00
+40.215,27
+      P - 1.5 SEFAZ Gestão de Tecnologia da Informação fortalecida
+0,00
+4.160.000,00
+      P - 1.6 SEFAZ Transparência e Cidadania Fiscal
+0,00
+50.269,09
+      P - 1.7 SEFAZ Logística sustentável implantada
+0,00
+40.215,27
+P - 1.8 SEAD: Governança Pública fortalecida: Gestão de projetos, processos, da inovação e da
+transformação digital aprimorada
+0,00
+95.929,39
+      P - 1.9 SEAD Gestão estratégica de pessoas implantada
+0,00
+277.129,34
+      P - 1.10 SEPLAN Gestão estratégica de pessoas implantada
+0,00
+102.509,51
+      P - 1.11 SEPLAN Governança pública fortalecida
+0,00
+315.413,88
+C - COMPONENTE II: ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL (AT)
+0,00
+4.939.908,56
+      P - 2.1 Cadastro de contribuintes aperfeiçoado
+0,00
+131.291,02
+      P - 2.2 Arrecadação do crédito tributário aperfeiçoada
+0,00
+145.878,92
+      P - 2.3 Cobrança do crédito tributário fortalecida
+0,00
+182.348,65
+      P - 2.4 Fiscalização e inteligência fiscal fortalecidas
+0,00
+1.005.381,75
+      P - 2.5 Fiscalização do Agronegócio fortalecida
+0,00
+406.634,87
+      P - 2.6 Relação do fisco com o contribuinte fortalecida
+0,00
+175.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 22
+      P - 2.7 Convergência com a Reforma Tributária
+0,00
+2.450.000,00
+      P - 2.8 Infraestrutura física da administração tributária provida de Energia Sustentável
+0,00
+443.373,35
+C - COMPONENTE III: PLANEJAMENTO, ORÇAMENTO, GESTÃO FINANCEIRA E DO GASTO
+PÚBLICO
+2.056.249,98
+2.058.900,36
+      P - 3.1 SEPLAN Planejamento e Execução Orçamentária aperfeiçoados
+1.124.793,38
+82.650,37
+      P - 3.2 SEPLAN Políticas, Programação e Execução Financeira aperfeiçoados
+482.977,51
+0,00
+      P - 3.3 SEPLAN Gestão de Ativos e Passivos estabelecida
+68.996,78
+0,00
+      P - 3.4 SEPLAN Gestão Contábil aperfeiçoada
+137.993,57
+0,00
+      P - 3.5 SEPLAN Gestão de custos e gastos públicos consolidada
+103.495,18
+103.495,18
+      P - 3.6 SEPLAN Gestão da Dívida Pública Implementada
+137.993,56
+0,00
+      P - 3.7 SEAD  Gestão financeira e contábil da previdência: Inversão da curva previdenciária 
+0,00
+1.462.390,21
+      P - 3.8 SEAD Gestão da carteira de imóveis da administração direta e indireta fortalecida
+0,00
+410.364,60
+C - COMPONENTE IV: GESTÃO JURÍDICA DOS ASSUNTOS FISCAIS (GJ)
+0,00
+674.197,17
+      P - 4.1 Gestão das Demandas Judiciais e dos Riscos Fiscais aprimorada 
+0,00
+674.197,17
+C - GESTÃO DO PROJETO
+0,00
+188.487,17
+      P - Monitoramento e Avaliação
+0,00
+188.487,17
+Total
+0,00
+2.056.249,98
+13.303.633,94
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - COMPONENTE I: RECURSOS ESTRATÉGICOS DA GESTÃO FISCAL (GF)
+0,00
+8.163.210,99
+      P - 1.1 SEFAZ: Governança Pública fortalecida
+0,00
+422.851,73
+      P - 1.2 SEFAZ Gestão da mudança implantada
+0,00
+35.040,51
+      P - 1.3 SEFAZ Gestão da inovação e transformação digital implantadas
+0,00
+82.796,15
+      P - 1.4 SEFAZ Gestão de Pessoas e do Conhecimento fortalecidas
+0,00
+60.322,90
+      P - 1.5 SEFAZ Gestão de Tecnologia da Informação fortalecida
+0,00
+6.240.000,00
+      P - 1.6 SEFAZ Transparência e Cidadania Fiscal
+0,00
+75.403,63
+      P - 1.7 SEFAZ Logística sustentável implantada
+0,00
+60.322,90
+P - 1.8 SEAD: Governança Pública fortalecida: Gestão de projetos, processos, da inovação e da
+transformação digital aprimorada
+0,00
+143.894,07
+      P - 1.9 SEAD Gestão estratégica de pessoas implantada
+0,00
+415.694,01
+      P - 1.10 SEPLAN Gestão estratégica de pessoas implantada
+0,00
+153.764,27
+      P - 1.11 SEPLAN Governança pública fortalecida
+0,00
+473.120,82
+C - COMPONENTE II: ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL (AT)
+0,00
+3.545.867,17
+      P - 2.1 Cadastro de contribuintes aperfeiçoado
+0,00
+21.290,44
+      P - 2.2 Arrecadação do crédito tributário aperfeiçoada
+0,00
+23.656,04
+      P - 2.3 Cobrança do crédito tributário fortalecida
+0,00
+29.570,05
+      P - 2.4 Fiscalização e inteligência fiscal fortalecidas
+0,00
+723.874,86
+      P - 2.5 Fiscalização do Agronegócio fortalecida
+0,00
+292.777,10
+      P - 2.6 Relação do fisco com o contribuinte fortalecida
+0,00
+140.000,00
+      P - 2.7 Convergência com a Reforma Tributária
+0,00
+1.960.000,00
+      P - 2.8 Infraestrutura física da administração tributária provida de Energia Sustentável
+0,00
+354.698,68
+C - COMPONENTE III: PLANEJAMENTO, ORÇAMENTO, GESTÃO FINANCEIRA E DO GASTO
+PÚBLICO
+1.175.000,01
+1.176.514,50
+      P - 3.1 SEPLAN Planejamento e Execução Orçamentária aperfeiçoados
+642.739,07
+47.228,80
+      P - 3.2 SEPLAN Políticas, Programação e Execução Financeira aperfeiçoados
+275.987,15
+0,00
+      P - 3.3 SEPLAN Gestão de Ativos e Passivos estabelecida
+39.426,74
+0,00
+      P - 3.4 SEPLAN Gestão Contábil aperfeiçoada
+78.853,47
+0,00
+      P - 3.5 SEPLAN Gestão de custos e gastos públicos consolidada
+59.140,11
+59.140,10
+      P - 3.6 SEPLAN Gestão da Dívida Pública Implementada
+78.853,47
+0,00
+      P - 3.7 SEAD  Gestão financeira e contábil da previdência: Inversão da curva previdenciária 
+0,00
+835.651,55
+      P - 3.8 SEAD Gestão da carteira de imóveis da administração direta e indireta fortalecida
+0,00
+234.494,05
+C - COMPONENTE IV: GESTÃO JURÍDICA DOS ASSUNTOS FISCAIS (GJ)
+0,00
+1.011.295,76
+      P - 4.1 Gestão das Demandas Judiciais e dos Riscos Fiscais aprimorada 
+0,00
+1.011.295,76
+C - GESTÃO DO PROJETO
+0,00
+150.789,73
+      P - Monitoramento e Avaliação
+0,00
+150.789,73
+Total
+0,00
+1.175.000,01
+14.047.678,15
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - COMPONENTE I: RECURSOS ESTRATÉGICOS DA GESTÃO FISCAL (GF)
+0,00
+5.442.140,67
+0,00
+27.210.703,38
+      P - 1.1 SEFAZ: Governança Pública fortalecida
+0,00
+281.901,16
+0,00
+1.409.505,79
+      P - 1.2 SEFAZ Gestão da mudança implantada
+0,00
+23.360,34
+0,00
+116.801,70
+      P - 1.3 SEFAZ Gestão da inovação e transformação digital implantadas
+0,00
+55.197,42
+0,00
+275.987,15
+      P - 1.4 SEFAZ Gestão de Pessoas e do Conhecimento fortalecidas
+0,00
+40.215,27
+0,00
+201.076,35
+      P - 1.5 SEFAZ Gestão de Tecnologia da Informação fortalecida
+0,00
+4.160.000,00
+0,00
+20.800.000,00
+      P - 1.6 SEFAZ Transparência e Cidadania Fiscal
+0,00
+50.269,09
+0,00
+251.345,44
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 23
+      P - 1.7 SEFAZ Logística sustentável implantada
+0,00
+40.215,27
+0,00
+201.076,35
+P - 1.8 SEAD: Governança Pública fortalecida: Gestão de projetos, processos, da inovação e da
+transformação digital aprimorada
+0,00
+95.929,39
+0,00
+479.646,93
+      P - 1.9 SEAD Gestão estratégica de pessoas implantada
+0,00
+277.129,34
+0,00
+1.385.646,70
+      P - 1.10 SEPLAN Gestão estratégica de pessoas implantada
+0,00
+102.509,51
+0,00
+512.547,56
+      P - 1.11 SEPLAN Governança pública fortalecida
+0,00
+315.413,88
+0,00
+1.577.069,41
+C - COMPONENTE II: ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL (AT)
+0,00
+625.816,91
+0,00
+15.656.789,63
+      P - 2.1 Cadastro de contribuintes aperfeiçoado
+0,00
+21.290,44
+0,00
+354.840,62
+      P - 2.2 Arrecadação do crédito tributário aperfeiçoada
+0,00
+23.656,04
+0,00
+394.267,35
+      P - 2.3 Cobrança do crédito tributário fortalecida
+0,00
+29.570,05
+0,00
+492.834,19
+      P - 2.4 Fiscalização e inteligência fiscal fortalecidas
+0,00
+80.430,54
+0,00
+4.021.527,00
+      P - 2.5 Fiscalização do Agronegócio fortalecida
+0,00
+32.530,79
+0,00
+1.626.539,47
+      P - 2.6 Relação do fisco com o contribuinte fortalecida
+0,00
+25.000,00
+0,00
+500.000,00
+      P - 2.7 Convergência com a Reforma Tributária
+0,00
+350.000,00
+0,00
+7.000.000,00
+      P - 2.8 Infraestrutura física da administração tributária provida de Energia Sustentável
+0,00
+63.339,05
+0,00
+1.266.781,00
+C - COMPONENTE III: PLANEJAMENTO, ORÇAMENTO, GESTÃO FINANCEIRA E DO GASTO
+PÚBLICO
+587.500,01
+588.257,25
+5.875.000,00
+5.882.572,49
+      P - 3.1 SEPLAN Planejamento e Execução Orçamentária aperfeiçoados
+321.369,54
+23.614,40
+3.213.695,37
+236.143,97
+      P - 3.2 SEPLAN Políticas, Programação e Execução Financeira aperfeiçoados
+137.993,57
+0,00
+1.379.935,73
+0,00
+      P - 3.3 SEPLAN Gestão de Ativos e Passivos estabelecida
+19.713,37
+0,00
+197.133,68
+0,00
+      P - 3.4 SEPLAN Gestão Contábil aperfeiçoada
+39.426,74
+0,00
+394.267,35
+0,00
+      P - 3.5 SEPLAN Gestão de custos e gastos públicos consolidada
+29.570,05
+29.570,05
+295.700,52
+295.700,51
+      P - 3.6 SEPLAN Gestão da Dívida Pública Implementada
+39.426,74
+0,00
+394.267,35
+0,00
+      P - 3.7 SEAD  Gestão financeira e contábil da previdência: Inversão da curva previdenciária 
+0,00
+417.825,77
+0,00
+4.178.257,73
+      P - 3.8 SEAD Gestão da carteira de imóveis da administração direta e indireta fortalecida
+0,00
+117.247,03
+0,00
+1.172.470,28
+C - COMPONENTE IV: GESTÃO JURÍDICA DOS ASSUNTOS FISCAIS (GJ)
+0,00
+674.197,17
+0,00
+3.370.985,87
+      P - 4.1 Gestão das Demandas Judiciais e dos Riscos Fiscais aprimorada 
+0,00
+674.197,17
+0,00
+3.370.985,87
+C - GESTÃO DO PROJETO
+0,00
+37.697,43
+0,00
+753.948,67
+      P - Monitoramento e Avaliação
+0,00
+37.697,43
+0,00
+753.948,67
+Total
+58.750.000,04
+587.500,01
+7.368.109,43
+5.875.000,00
+52.875.000,04
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+A operação de crédito pleiteada exige a aprovação de lei autorizativa pela Assembleia Estadual que permita ao estado a contratação de
+financiamento externo. O projeto de Lei observará o disposto no Manual de Instrução de Pleitos (MIP/STNS) e será levado à apreciação e
+aprovação da Assembleia Estadual, uma vez aprovada a carta consulta pela COFIEX.
+Quanto aos Decretos, Portarias e Instruções de Serviço, o Executivo Distrital tem plena governabilidade sobre o processo necessário à
+sua edição, contando, ainda, com equipes suficientemente capacitadas para proceder à sua concepção e redação.
+No que se refere à Lei autorizativa, a equipe de governo, responsável pelo relacionamento com a Assembleia Legislativa, tem mostrado o
+real estado das finanças estaduais e sensibilizado os membros daquele Poder, sobre a importância do financiamento para a melhoria da
+arrecadação e aplicação dos recursos públicos.
+Quanto à Lei de Responsabilidade Fiscal (LRF), a administração deve apresentar evidências de conformidade no cumprimento da Lei de
+regularidade dos requisitos fiscais obrigatórios para fins de celebração de instrumentos contratuais.
+Quanto à garantia da União, o estado deverá apresentar as condições de contragarantia ao Governo Federal, conforme legislação vigente.
+Quanto à criação da UCP, o estado irá criar por Portaria a Unidade de Coordenação do Programa.
+
+5.2. RISCOS/CONTRATAÇÕES
+São identificados dois riscos relevantes quanto ao prazo de execução, tomando como base a experiência dos estados ao executarem os
+Programas Profisco I e II, quais sejam:
+a) Possíveis atrasos na elaboração dos termos de referência, relacionados com a dificuldade na preparação dos TDR
+b) Possíveis atrasos na tramitação interna dos projetos, em especial na realização das licitações.
+Ações mitigadoras:
+-Constituição de comissões internas para elaboração dos Termos de Referência dos produtos mais complexos ou prioritários;
+-Contratação de consultores para apoiar a elaboração dos Termos de Referência mais complexos e para auxiliar a formulação de
+metodologias e desenho de processos que serão aperfeiçoados ou implantados;
+-Realizar atividades de capacitação e reciclagem nas normas e procedimentos de aquisições do BID;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:36
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61197
+Página: 24
+-Estabelecer formalmente, por portaria interna, o Líder responsável pela execução do Produto, bem como designar a sua equipe técnica;
+-Manter a Comissão Especial de Licitações/PROFISCO, já estabelecida no PROFISCO II, com os técnicos que já dispõem de
+conhecimento e experiência nas normas e procedimentos de aquisição do BID.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+O escopo do projeto, devido a sua natureza, se concentra em melhorias de processos e tecnologia, com uso da infraestrutura física já
+existente, não havendo previsão de expansão física ou aquisição de propriedades. Portanto, não há riscos associados à desapropriação.
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+Para a instalação da usina fotovoltaica, na fase de planejamento, não foram identificados riscos relevantes, visto que a mesma ocorrerá
+em área já desmatada, nos prédios já em uso pela gestão fiscal. No entanto, quando da definição do projeto básico e executivo da obra,
+será feita uma análise sobre a necessidade de licenciamentos ambientais, conforme legislação vigente.
+No que se refere à modernização de equipamentos de tecnologia da informação, foram identificados riscos ambientais no descarte dos
+equipamentos obsoletos. Para mitigar esse risco, o Estado fortalecerá sua política de descarte de materiais para garantir a destinação
+adequada desses resíduos, inclusive com o apoio do produto 1.7 que trata do desenvolvimento do Plano de Logística Sustentável.
+Destaca-se também a experiência da SEFAZ-MA nas salvaguardas ambientais do agente financeiro (BID), que focam em avaliação e
+gestão de riscos e impactos ambientais e sociais; saúde e segurança da comunidade; conservação da biodiversidade e gestão sustentável
+ dos recursos naturais vivos; e eficiência do uso de recursos e prevenção de poluição.
+
+
+5.5. RISCOS/IMPACTO SOCIAL
+A Reforma Tributária é um risco social em potencial, sobretudo devido às incertezas existentes quanto às regulamentações e normativos a
+serem criados para gestão do novo imposto (IBS), e a coexistência com normativos anteriores durante a fase de transição. Esse risco
+será mitigado pela SEFAZ-MA com ações constantes de comunicação social, educação fiscal e orientação aos contribuintes, à medida
+que as alterações no sistema tributário forem delineadas e implementadas.
+Destaca-se também a experiência da SEFAZ-MA nas salvaguardas sociais do agente financeiro (BID), que apontam diretrizes para:
+avaliação e gestão de riscos e impactos ambientais e sociais; engajamento das partes interessadas e divulgação de informações; mão-de-
+obra e condições de trabalho; patrimônio cultural; e igualdade de gênero.
+5.6. RISCOS/REASSENTAMENTOS
+O escopo do projeto, devido a sua natureza, se concentra em melhorias de processos e tecnologia com uso da infraestrutura física/predial
+já existente, em vez de expansão física ou aquisição de propriedades. Portanto, não há riscos associados a reassentamentos.
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 

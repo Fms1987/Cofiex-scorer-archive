@@ -1,0 +1,3307 @@
+# Carta-Consulta CC_60990 — Versao 2 (SIGS)
+
+
+Programa de Manutenção Proativa do Estado do Espírito Santo - PROATIVA-ES
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 60990
+Processo: 03101.101032/2023-86
+Mutuário: Estado do Espírito Santo
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  10 de Abril de 2023
+
+Fontes Internas:
+Contrapartida Financeira: US$ 40.600.000,00
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 162.400.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+O Espírito Santo está situado na Região Sudeste e é o quarto menor Estado do Brasil com uma área de 46.095,583 km². Possui 78
+municípios e uma população estimada de 4.108.508 habitantes (IBGE 2021). O Estado apresenta um IDH (PNUD -2017) de 0,772, com
+um PIB (IJSN 2022) de R$ 178,4 bilhões.
+
+O Estado apresenta excelente situação fiscal e, pelo décimo ano consecutivo, recebeu a Nota A da Secretaria do Tesouro Nacional (STN),
+no que diz respeito a sua Capacidade de Pagamento do Estado (Capag). Os resultados do Relatório do Tesouro Estadual 2022,
+disponibilizados em https://sefaz.es.gov.br/resultado-do-tesouro-estadual, revelam o esforço do Estado em manter em dia sua situação
+fiscal e financeira.
+
+A infraestrutura rodoviária do Estado conta com rodovias federais, estaduais e municipais, interligando todos os municípios com vias
+pavimentadas. O Estado possui 6.513,053 km de rodovias estaduais, de responsabilidade do Estado e do (Departamento de Edificações e
+de Rodovias (DER-ES), órgão rodoviário, conforme competências estabelecidas na Lei Complementar nº 926/20219. A malha
+pavimentada estadual atual é de cerca de 3.862,02 km de rodovias.
+
+Mais da metade da malha rodoviária estadual foi pavimentada há mais de 30 anos e uma parcela desta malha não sofreu qualquer
+intervenção de restauração ou recuperação funcional desde a sua pavimentação.
+
+O Sistema Rodoviário do Espírito Santo teve sua extensão ampliada ao longo dos anos. De 2008 a 2022, houve um acréscimo de
+aproximadamente 1.000 km na extensão pavimentada da malha rodoviária estadual.
+
+Além do aumento em extensão pavimentada a ser conservada pelo Estado, os pavimentos estaduais sofrem cada vez mais com a
+crescente solicitação do tráfego na malha rodoviária. De acordo com dados do DETRAN-ES, a frota de veículos registrados no Estado do
+Espírito Santo passou de 1.052.155 veículos em 2008 para 2.044.072 veículos em 2020.
+
+O crescente tráfego, pressiona cada vez mais o sistema viário dos centros urbanos regionais, cujas vias não foram planejadas e
+preparadas para suportar o tráfego pesado dentro das cidades, trazendo transtornos à população como ruído, poluição atmosférica,
+acidentes de trânsito e congestionamentos.
+
+Pode-se ressaltar como fatores mais relevantes no processo de degradação dos pavimentos o envelhecimento gradual da malha, o
+aumento do tráfego pesado e a descontinuidade nos investimentos em manutenção, sendo que, muitas vezes, a alocação insuficiente de
+recursos para a manutenção rodoviária está relacionada à dificuldade de dimensionar o volume mínimo de recursos a serem aplicados na
+conservação da malha.
+
+Atualmente, os pavimentos rodoviários são projetados para uma vida útil de 10 (dez) anos, contados da data de abertura ao tráfego. Após
+esse período, devem receber manutenções mais importantes e de maior custo. A necessidade de manutenção contínua nas rodovias
+frequentemente não é apreciada em sua real dimensão trazendo, como consequência, em razão da insuficiência de recursos, um
+indesejável processo de crescimento na quilometragem de rodovias severamente deterioradas, gerando perda do patrimônio físico e
+aumento do custo dos transportes.
+
+Por outro lado, o Estado do Espírito Santo é propenso a eventos hidrológicos frequentes e extremos, como inundações e deslizamentos
+de terra, principalmente nas áreas sul e costeiras. Entre 2013 e 2020, foram registrados 794 desastres em todo o Estado, mais que o
+dobro da década anterior, dos quais 27% foram relacionados a enchentes e 7% a deslizamentos de terra, levando a uma estimativa de
+120 mortes e o deslocamento de cerca de 230.000 pessoas. Somente em 2020, chuvas extremas levaram a inundações severas que
+impactaram 39 municípios, resultando em 10 mortes, deslocamento de 14.230 pessoas, deixando outras 2.340 desabrigadas, com perdas
+econômicas estimadas em US$ 44 milhões.
+
+Além disso, apesar de todos os esforços empreendidos para a melhoria das condições de segurança rodoviária, as deficiências de
+manutenção e sinalização da infraestrutura na rede viária do estado contribuem para um elevado número de mortes e feridos no trânsito (
+mais de 750 mortos por ano), acima da média nacional.
+
+Diante deste cenário, o Estado do Espírito Santo por meio do Programa ora proposto se propõe a enfrentar os seguintes problemas:
+
+-Crescente deterioração do patrimônio rodoviário estadual
+
+-Deficiência de recursos para a manutenção de rodovias estaduais
+
+-Deterioração da malha rodoviária em função da ocorrência de eventos climáticos extremos
+
+-Aumento do tráfego pesado em centros urbanos regionais
+
+-Elevado índice de mortes por acidentes de trânsito no Estado
+
+Neste sentido, as soluções propostas a seguir descritas buscam estruturar o Estado para uma gestão mais eficiente do patrimônio
+rodoviário, prover as rodovias objeto do programa de melhores condições de segurança aos usuários e ao mesmo tempo minimizar e
+prevenir os efeitos de eventos climáticos extremos, evitando investimentos maiores no futuro para recuperação de rodovias.
+
+(cid:10)
+
+
+Página: 3
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+A soluções propostas pelo Programa PROATIVA-ES contemplam as seguintes medidas para a eliminação ou mitigação dos problemas
+identificados:
+
+a) Para conter a crescente deterioração do patrimônio rodoviário estadual, serão realizadas intervenções caracterizadas por obras
+múltiplas de recuperação e/ou manutenção da vida útil do pavimento existente, mantendo o traçado original das rodovias, com
+melhoramentos pontuais ou de maior monta, com recuperação e implantação de sinalização viária, manutenção e/ou substituição de
+dispositivos de drenagem e serviços de limpeza. Após a etapa inicial de recuperação, as rodovias objeto do Programa permanecem
+atendidas com ações de conservação rodoviária remunerados com base no desempenho da contratada.
+
+Na remuneração por desempenho, caso a contrata atinja todos os requisitos especificados para a boa execução dos serviços, receberá a
+medição integral para o período de execução. Caso a contratada não cumpra com todas as suas obrigações, terá descontos nas medições
+mensais baseados na gravidade das falhas detectadas.
+
+Esta modelagem de remuneração estimula o contratado a implantar soluções de melhor qualidade, uma vez que o refazimento de itens
+mal executados não será pago pelo órgão fiscalizador.
+
+b) Para eliminar a deficiência de recursos para a manutenção de rodovias estaduais objeto do Programa, os serviços de recuperação e
+manutenção serão realizados por meio de contratos do tipo DBM, que combinarão as diferentes atividades de Design/Projeto (D),
+Reabilitação / Construção (B) e Manutenção (M) sob um único contrato e reduzirão os riscos dos contratos para administração pública,
+transferindo os riscos da execução para a iniciativa privada.
+
+Os contratos terão prazo de duração mais longos (8 a 10 anos) do que o programas tradicionais, impondo ao tesouro público um
+compromisso de financiamento plurianual para a manutenção das estradas. Com períodos de contratação mais longos, espera-se um
+ganho em termos de qualidade das intervenções, uma vez que a manutenção por serviços de má qualidade fica às expensas das
+empresas contratadas.
+
+Desta forma, será possível a gradual eliminação da incerteza orçamentária para os gastos com manutenção e reabilitação de estradas,
+mediante a entrada de contratos de médio/longo prazo: Atualmente, os gastos com manutenção são "discricionários" e os primeiros a
+serem sacrificados quando as finanças estaduais ficam em má forma. A Manutenção Proativa garante que o dinheiro para essa importante
+função não acabará, pois, os pagamentos contratuais são obrigatórios.
+
+Destaca-se ainda que contratos mais longos (8 a 10 anos) oferecem aos contratantes um horizonte seguro para investir em equipamentos
+e mão de obra mais qualificada, aumentando a competitividade e gerando intervenções mais econômicas.
+
+Adicionalmente, o Programa prevê a contratação de estudos para modelagem de Concessão e/ou Parceria Público Privada (PPP) para os
+trechos de rodovias levantadas, visando expansão do modelo para outras regiões do Estado. Com base nos estudos a serem realizados,
+espera-se identificar o modelo de Projeto mais apropriado para a Administração Pública, assim como uma oferta de serviço público
+adequado à população e a justa remuneração da futura concessionária, garantindo atratividade para a iniciativa privada.
+
+c) A deterioração da malha rodoviária em função da ocorrência de eventos climáticos extremos será reduzida a partir da execução das
+obras de recuperação aliadas a manutenção e conservação rodoviária remunerada por desempenho, com contratos mais longos que
+imponham um compromisso de financiamento plurianual para a manutenção das estradas. Estas ações resultarão em rodovias melhor
+preparadas para resistir a ocorrência de eventos climáticos adversos, evitando ou reduzindo a sua deterioração.
+
+Importante destacar que, dentre os serviços de manutenção previstos estão: remoção de barreiras de corte, recomposição de aterros,
+estabilização de taludes de cortes e aterros, recuperação de estruturas e muros de contenção e limpeza e recuperação de dispositivos de
+drenagem. O aporte constante de recursos permitirá que tais serviços de manutenção sejam executados preventiva e corretivamente,
+evitando custos maiores para reparos caso os problemas ocorridos nas rodovias se agravem com o tempo.
+
+Adicionalmente, as mudanças climáticas fazem que atuar já, de maneira proativa, seja muito mais econômico que atuar uma vez que as
+estradas tenham sido destruídas.
+
+Para conter o aumento do tráfego pesado em centros urbanos regionais, está prevista no Programa a elaboração de projetos e a
+contratação de obras para implantação de contornos rodoviários urbanos em regiões atendidas pelo programa. Esta medida propiciará o
+desvio do tráfego pesado do interior de centros urbanos, que são pontos críticos para a logística do escoamento das produções agrícolas,
+em especial na região serrana de Santa Maria de Jetibá, Santa Leopoldina e Domingos Martins, importantes polos de produção agrícola e
+de agroturismo do Espírito Santo.
+
+d) Para contribuir para a redução do elevado índice de mortes por acidentes de trânsito no Estado, durante a fase de elaboração dos
+projetos de engenharia, será realizada análise da segurança das rodovias objeto do Programa através da Metodologia definida pelo
+Programa Internacional de Avaliação de Estradas (International Road Assessment Programme - iRAP).
+
+Por meio da metodologia do iRAP, é possível inspecionar rodovias e desenvolver Classificações por Estrelas e Planos de Investimento
+para rodovias mais seguras.
+
+
+Página: 4
+
+A Classificação por Estrelas do iRAP é baseada em características da infraestrutura das rodovias e do grau em que elas afetam a
+probabilidade e a gravidade dos acidentes de trânsito envolvendo ocupantes de veículos motorizados, motociclistas, pedestres e ciclistas.
+A Classificação por Estrelas fornece uma medida simples e objetiva do nível relativo de risco associado à infraestrutura rodoviária.
+Rodovias de 5  estrelas (verde) são as mais seguras, enquanto as de apenas 1 estrela (preta) são as rodovias menos seguras.
+
+Com a aplicação da metodologia do iRAP, poderão ser incorporadas soluções de engenharia aos projetos, com uma visão mais
+humanizada para utilização da rodovia, atendendo aos motoristas e também os demais usuários e comunidades no entorno, reduzindo o
+número de acidentes, resultando em menor perda de vidas.
+
+Além destas ações, espera-se também a melhoria das condições de segurança viária nas cidades em que haverá a implantação de
+contornos rodoviários urbanos.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+O Programa se insere na Agenda 2030 para o Desenvolvimento Sustentável da ONU. As ações propostas visam contribuir para o alcance
+dos Objetivos de Desenvolvimento Sustentável no Brasil, principalmente quanto aos Objetivos: 3) Saúde e Bem-estar, 9) Indústria,
+Inovação e Infraestrutura, 11) Cidades e comunidades sustentáveis e 13) Ação contra a mudança global do clima.
+
+O Programa se insere no planejamento estratégico estadual, em consonância com o Plano de Desenvolvimento ES 2030. Tal Plano é um
+planejamento de longo prazo para o Espírito Santo, definindo prioridades, estratégias, metas e caminhos a serem percorridos pelos
+setores público, privado e sociedade civil (disponível em https://planejamento.es.gov.br/.)
+
+As principais Propostas do Plano Estratégico que embasaram o PROATIVA-ES estão contidas no Mapa Estratégico ES 2030, nos
+propulsores de progresso de Infraestrutura, Logística e comunicação, sendo elas:
+
+-Conceber, estruturar e implantar novo modelo de gestão para a manutenção e operação rodoviária baseado no desempenho e
+
+-Conectar os eixos de acessos aos polos industriais, polos de turismo e portos, incluindo os contornos de núcleos urbanos.
+
+Os recursos necessários ao Programa estão inseridos no PPA Estadual 2020-2023, Programa 5473 - Reabilitação e adequação das
+rodovias estaduais, conforme páginas do PPA inseridas na aba anexos desta Carta Consulta. O PPA completo está disponível em https://
+planejamento.es.gov.br .
+
+No PPA 2024-2027, a ser elaborado pelo Estado, serão inseridos os recursos necessários à execução do Programa.
+
+A contrapartida será proveniente do Tesouro Estadual, de acordo a Resolução COFIEX nº. 03, de 29/05/19, Art. 2°, § 1º, por meio de
+receitas tributárias previstas nos Art. 155, 157 e 159, inciso I, (a), da Constituição Federal.
+
+A Taxa de câmbio da moeda do financiamento (US$) em relação ao REAL considerada corresponde a US$1,00 = R$ 5,17.  Fonte: Boletim
+BACEN, de 28/03/2023.
+
+Resultados: Como resultados, o Programa proporcionará: (i) melhoria das condições de manutenção em cerca de 10% da rede
+pavimentada sob responsabilidade estadual; (ii) gradual eliminação da incerteza orçamentária para os gastos com recuperação e
+manutenção de estradas, com reestruturação dos modelos de gestão; (iii) mitigação de potenciais impactos de eventos climáticos
+extremos na deterioração da malha rodoviária (iv) melhoria das condições de fluidez e segurança viária nos segmentos recuperados e nos
+locais contemplados com contornos rodoviários urbanos.
+
+Sustentabilidade: Não haverá gastos adicionais com custeio, manutenção, obras e bens. Todas as rodovias objeto do programa recebem
+manutenção em contratos existentes, mas pretende-se, com o Programa, aprimorar o modelo de contratação e de gestão. O investimento
+a ser realizado impedirá que as rodovias atendidas atinjam um grau severo deterioração, evitando-se custos maiores para sua
+recuperação no futuro. A melhoria na segurança viária evitará maiores custos relacionados a acidentes.
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa de Manutenção Proativa do Estado do Espírito Santo - PROATIVA-ES
+
+
+### 2.2. Título Abreviado
+
+PROATIVA-ES
+
+
+### 2.3. Mutuário
+
+
+Estado do Espírito Santo
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+(cid:10)
+
+
+Página: 5
+
+(i) Objetivo geral:
+
+O objetivo geral do Programa de Manutenção Proativa do Estado do Espírito Santo é melhorar as condições de fluidez, segurança viária e
+resiliência climática da malha rodoviária estadual, contribuindo para o desenvolvimento econômico e social do Estado do Espírito Santo.
+
+(ii) O Programa tem como objetivos específicos:
+
+1.Recuperar e manter em condições adequadas a malha rodoviária objeto do Programa, por meio de contratações de recuperação e
+manutenção de rodovias para períodos entre 08 e 10 anos, remunerando os contratados de forma "uniforme", "regular" e "contínua", em
+contratos do tipo Desenho, Construção e Manutenção (DBM) por preço global;
+
+2.Realizar a modelagem e a estruturação de Parcerias Público Privadas (PPP) ou Concessões patrocinadas ou administrativas com
+duração de até 25 anos, aumentando a eficiência na gestão da infraestrutura rodoviária, incrementando a participação da iniciativa privada
+.
+
+3.Tornar as rodovias objeto do programa mais resilientes a ocorrência de eventos climáticos extremos, assegurando recursos financeiros
+para a constante manutenção dos sistemas de drenagem, recuperação de taludes e outras medidas que contribuam para a prevenção de
+efeitos negativos como alagamentos e erosões;
+
+4.Implantar contornos rodoviários urbanos para reduzir o tráfego de passagem pelas cidades contempladas pelo Programa, com
+consequente melhoria das condições de fluidez e segurança viária;
+
+5.Tornar as rodovias objeto de recuperação mais seguras, introduzindo nos Projetos de recuperação e de manutenção conceitos de
+segurança viária para redução de acidentes, com aplicação da metodologia do iRAP, que permite classificar as rodovias de acordo com o
+grau de segurança aos usuários.
+
+O alcance de tais objetivos será medido por meio dos indicadores estabelecidos para o Programa, com base na verificação das condições
+físicas e de conforto aos usuários antes e após a realização das intervenções.
+
+Será empregada de metodologia de avaliação física já adotada para outros programas em andamento no DER-ES, que avalia as
+condições do pavimento, dos dispositivos de drenagem e da sinalização viária. Esta medida será de grande importância para verificar se
+as rodovias atendidas pelo Programa estarão adequadamente preparadas para resistir a ocorrência de eventos climáticos adversos.
+
+A melhoria do conforto aos usuários poderá ser observada pela medição do Índice de Irregularidade Longitudinal (IRI).
+
+O aumento da extensão de rodovias mais seguras será demonstrado por meio da metodologia do International Road Assessment
+Programme (iRAP), que utiliza classificação por estrelas das rodovias para expressar o grau de segurança ofertado a todas as categorias
+de usuários (ocupantes de veículos motorizados, pedestres e ciclistas).
+
+O iRAP é uma instituição sem fins lucrativos dedicada a salvar vidas por meio de rodovias mais seguras, que trabalha em parceria com
+organizações governamentais e não-governamentais para inspecionar rodovias de alto risco e desenvolver Classificações por Estrelas e
+Planos de Investimento para Rodovias Mais Seguras.
+
+Os benefícios finais para a população obtidos a partir da aplicação desta metodologia se traduzem na redução do número de mortos e
+feridos no trânsito. De acordo com as pesquisas do iRAP, de maneira geral, cada estrela a mais resulta numa redução de 50% nos custos
+de acidentes envolvendo fatalidades e feridos.
+
+Outra medida importante da melhoria das condições de segurança viária será a comparação dos índices de acidentes nos locais
+contemplados pelo Programa antes e após a execução das obras.
+
+Visando dar um grande salto na gestão dos programas de manutenção de rodovias, o Governo do estado do Espírito Santo busca o
+desenvolvimento de um novo modelo de contratação, em que todas as etapas (projeto, obras de recuperação e manutenção/conservação)
+sejam reunidas em um único contrato e que sejam remuneradas com base na aferição de parâmetros de desempenho das empresas
+contratadas.
+
+O modelo convencional de manutenção de infraestrutura no Brasil, em geral, e no Espírito Santo, em particular, envolve ciclos de
+degradação acelerada da malha, sem a adequada cobertura de manutenção, seguida pela necessária recuperação estrutural em épocas
+de abundância de recursos públicos. No entanto, uma abordagem alternativa de manutenção mais perene e proativa não apenas evita o
+abandono de trechos e a posterior necessidade de reabilitação integral, mais cara, como também atenua a curva de degradação das vias,
+de forma que, no longo prazo, a despesa total é inferior.
+
+Para assegurar a disponibilidade de recursos públicos para a manutenção perene, utiliza-se contratos mais longos (8 a 10 anos) em que
+os pagamentos são efetuados de forma escalonada no tempo, mediante cumprimento dos parâmetros de serviço ou de desempenho.
+Dessa forma, envolve-se o setor privado de forma mais duradoura e sob fortes incentivos para assegurar a qualidade da recuperação e a
+sustentabilidade da manutenção da via.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+
+
+Página: 6
+
+Meta
+100,00
+
+Linha de Base
+5,00
+
+0,00
+
+50,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+
+Descrição
+Percentual de rodovias com situação física do
+pavimento, drenagem e sinalização "Bom ou
+Muito bom"
+
+Aumento no percentual de rodovias mais
+seguras aos usuários (rodovias com 3 estrelas
+ou mais no iRAP)
+
+Percentual de redução de acidentes de trânsito
+nos segmentos recuperados
+
+Percentual de redução de acidentes de trânsito
+nos locais contemplados com a implantação de
+contornos rodoviários urbanos
+
+%
+
+%
+
+Fórmula de Cálculo Unidade de Medida
+Divisão da extensão
+de rodovias em
+situação Bom ou
+Muito Bom pela
+Extensão total de
+rodovias do Programa
+. Realizada com base
+em metodologia já
+aplicada  para
+programas de
+financiamento no DER
+-ES. Avalia estado
+geral do pavimento,
+dos dispositivos de
+drenagem e
+sinalização viária.
+Mede o resultado das
+ações de conservação
+para maior resiliência
+das rodovias.
+Aplicação da
+metodologia de
+classificação do iRAP.
+A classificação por
+estrelas mede a
+segurança da rodovia
+aos usuários. Quanto
+maior o número de
+estrelas, maior é a
+segurança. Linha de
+base a ser definida
+após a conclusão dos
+projetos.
+Calculado com base
+na comparação dos
+dados de acidentes de
+trânsito
+disponibilizados pela
+Secretaria da
+Segurança Pública e
+Defesa Social do ES (
+SESP), antes e após
+a execução das
+intervenções do
+Programa. Linha base
+e meta a serem
+definidas após a
+conclusão dos
+projetos.
+Calculado com base
+na comparação dos
+dados de acidentes de
+trânsito
+disponibilizados pela
+Secretaria da
+Segurança Pública e
+Defesa Social do ES (
+SESP), antes e após
+a execução das
+intervenções do
+Programa. Linha base
+e meta a serem
+definidas após a
+conclusão dos
+projetos.
+
+%
+
+%
+
+
+Página: 7
+
+minutos
+
+0,00
+
+0,00
+
+%
+
+0,00
+
+100,00
+
+Redução do tempo de viagem nos locais
+contemplados com a implantação de contornos
+rodoviários urbanos
+
+Percentual de rodovias recuperadas com
+melhoria nas condições de trafegabilidade e
+conforto aos usuários
+
+Calculado com base
+na medição do tempo
+de viagem antes e
+após a execução das
+obras de implantação.
+Linha base e meta a
+serem definidas após
+a conclusão dos
+projetos
+Levantamento do
+Índice de Rugosidade
+Internacional (IRI),
+dos trechos a serem
+reabilitados no
+Programa,
+anteriormente a
+intervenção e ao final
+da recuperação. Linha
+de base a ser
+definida após a
+conclusão dos
+projetos.
+
+
+### 2.7. Projeto/Componentes
+
+
+Componentes
+C - 1: RECUPERAÇÃO E MANUTENÇÃO DA INFRAESTRUTURA RODOVIÁRIA
+S - 1: ANTEPROJETO DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR DESEMPENHO
+P - 1: Anteprojeto e orçamento
+S - 2: PROJETO E OBRAS DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR DESEMPENHO
+P - 1: Obras de Recuperação e Manutenção por Desempenho
+S - 3: ANTEPROJETO DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS RODOVIÁRIOS URBANOS
+COM MANUTENÇÃO RODOVIÁRIA POR DESEMPENHO
+P - 1: Anteprojeto de Implantação de Contornos Rodoviários com Manutenção por Desempenho
+S - 4: PROJETO E OBRAS DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS RODOVIÁRIOS COM
+MANUTENÇÃO RODOVIÁRIA POR DESEMPENHO
+P - 1: Projeto e obras de Implantação de Contornos Rodoviários com Manutenção por Desempenho
+S - 5: SUPERVISÃO TÉCNICA E SÓCIO AMBIENTAL DE OBRAS E SERVIÇOS
+P - 1: Supervisão de Apoio para as obras da SR-1 (Lote 01 - Extensão aproximada de 194 Km de projeto e obras
+recuperação e 30 km de projeto e obras de contornos rodoviários)
+P - 2: Supervisão de Apoio para as obras da SR-2 (Lote 02 - Extensão aproximada de 140 Km de projeto e obras
+de recuperação)
+S - 6: PAGAMENTO DE CONTRAPARTIDA PARA PPP RODOVIÁRIA ESTRUTURADA
+P - 1: Pagamento por desempenho da reconstrução e manutenção da rodovia identificada como possível
+Parceria Público Privada por parte do DER e do Governo do Estado.
+C - 2: FORTALECIMENTO INSTITUCIONAL
+S - 1: ESTUDOS PARA MODELAGEM DE CONCESSÃO E/OU PARCERIA PÚBLICO PRIVADA (PPP)
+P - 1: Modelagem de PPP ou Concessão
+C - 3: ADMINISTRAÇÃO
+S - 1: GERENCIAMENTO DO PROJETO
+P - 1: Apoio ao Gerenciamento
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Valor(US$)
+195.500.000,00
+3.200.000,00
+3.200.000,00
+112.000.000,00
+112.000.000,00
+300.000,00
+
+300.000,00
+33.000.000,00
+
+33.000.000,00
+7.000.000,00
+4.200.000,00
+
+2.800.000,00
+
+40.000.000,00
+40.000.000,00
+
+2.500.000,00
+2.500.000,00
+2.500.000,00
+5.000.000,00
+5.000.000,00
+5.000.000,00
+203.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - 1: RECUPERAÇÃO E MANUTENÇÃO DA INFRAESTRUTURA RODOVIÁRIA
+Essa componente engloba os principais produtos do Programa relativo as obras de Recuperação e Manutenção Rodoviária por
+Desempenho de 355 km da malha pavimentada do Estado. Além das atividades acessórias com a supervisão de obras.
+
+S - 1: ANTEPROJETO DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR DESEMPENHO
+Descrição: Essa subcomponente engloba a elaboração dos anteprojetos e orçamento para subsidiar a contratação dos serviços de
+recuperação, manutenção e conservação rotineira de 355 km de rodovias estaduais.
+O processo de Recuperação se materializa através da execução de intervenções físicas na Rodovia, com soluções que envolvem
+serviços de correção de defeitos localizados e de recapeamento do pavimento.
+A manutenção reúne um conjunto de ações sistemáticas e programadas em função de condicionantes cronológicas ou da
+ocorrência de eventos supervenientes na rodovia.
+
+
+Página: 8
+
+No conceito de manutenção, estão incluídos serviços como: Limpeza da faixa de domínio; Remoção de barreiras de corte;
+Recomposição de aterros; Estabilização de taludes de cortes e aterros; Limpeza, reparos, recuperação e substituição de estruturas
+e muros de contenção; Tapa-buracos; Remendos superficiais e profundos; Reparos, recomposição e substituição de amadas
+granulares do pavimento incluindo o revestimento da pista e dos acostamentos; Reparos, substituição e implantação de
+dispositivos de sinalização, de dispositivos de segurança e de dispositivos de drenagem; Limpeza, reparos, recuperação e
+reabilitação de obras de arte especiais e muros de contenção; Retificações do traçado de curvas restritas à faixa de domínio.
+
+P - 1: Anteprojeto e orçamento
+Esse produto engloba a entrega de 355 km de anteprojeto de recuperação e manutenção por desempenho.
+Os serviços estarão divididos em 02 lotes. A previsão é que os anteprojetos sejam contratados e elaborados em no máximo um
+ano.
+
+S - 2: PROJETO E OBRAS DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR DESEMPENHO
+Essa subcomponente engloba a execução dos projetos executivos e das obras de recuperação e manutenção de 355 km de
+rodovias estaduais.
+O processo de Recuperação se materializa através da execução de intervenções físicas na Rodovia, com soluções que envolvem
+serviços de correção de defeitos localizados e de recapeamento do pavimento.
+A manutenção reúne um conjunto de ações sistemáticas e programadas em função de condicionantes cronológicas ou da
+ocorrência de eventos supervenientes na rodovia.
+No conceito de manutenção, estão incluídos serviços como: Limpeza da faixa de domínio; Remoção de barreiras de corte;
+Recomposição de aterros; Estabilização de taludes de cortes e aterros; Limpeza, reparos, recuperação e substituição de estruturas
+e muros de contenção; Tapa-buracos; Remendos superficiais e profundos; Reparos, recomposição e substituição de amadas
+granulares do pavimento incluindo o revestimento da pista e dos acostamentos; Reparos, substituição e implantação de
+dispositivos de sinalização, de dispositivos de segurança e de dispositivos de drenagem; Limpeza, reparos, recuperação e
+reabilitação de obras de arte especiais e muros de contenção; Retificações do traçado de curvas restritas à faixa de domínio.
+Durante a execução do contrato, a empresa terá a liberdade de propor soluções para maior eficiência no alcance das metas
+estabelecidas.
+
+P - 1: Obras de Recuperação e Manutenção por Desempenho
+Descrição: Esse produto engloba a entrega de 355 km de recuperação e manutenção por desempenho.
+Estão divididos em 02 lotes. A previsão é que os anteprojetos sejam contratados em no máximo seis meses e a contratação das
+obras e serviços de recuperação e manutenção por desempenho se estender por até 10 anos a partir do início do contrato.
+
+S - 3: ANTEPROJETO DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS RODOVIÁRIOS URBANOS COM
+MANUTENÇÃO RODOVIÁRIA POR DESEMPENHO
+Essa subcomponente engloba a elaboração dos anteprojetos e orçamento para subsidiar a contratação de implantação e
+manutenção de contornos rodoviários urbanos nos municípios de Santa Maria de Jetibá, Santa Leopoldina e Domingos Martins -
+ES.
+Importante destacar que Santa Maria de Jetibá é o maior pólo avícola do Estado e segundo produtor de ovos do Brasil. Fonte: www
+.pmsmj.es.gov.br.
+No Produto Interno Bruto (PIB) de Domingos Martins, destacam-se as áreas da agropecuária e de prestação de serviços. Além do
+agroturismo, a presença de diversos atrativos naturais, como montanhas, trilhas e cachoeiras e o clima ameno reforçam a
+contribuição do turismo para a economia do município. Fonte: https://bityli.com/cn67iH
+
+P - 1: Anteprojeto de Implantação de Contornos Rodoviários com Manutenção por Desempenho
+Esse produto engloba a entrega de 30 km de anteprojeto implantação e manutenção por desempenho.
+A previsão é que os anteprojetos sejam contratados em no máximo seis meses e a contratação das obras e serviços de
+recuperação e manutenção por desempenho se estender por até 10 anos a partir do início do contrato.
+
+S - 4: PROJETO E OBRAS DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS RODOVIÁRIOS COM MANUTENÇÃO
+RODOVIÁRIA POR DESEMPENHO
+Essa subcomponente engloba a execução das obras de implantação e manutenção de contornos rodoviários.
+
+P - 1: Projeto e obras de Implantação de Contornos Rodoviários com Manutenção por Desempenho
+Esse produto engloba a entrega de 30 km de implantação e manutenção por desempenho.
+A previsão é que os anteprojetos sejam contratados em no máximo seis meses e a contratação das obras e serviços de
+recuperação e manutenção por desempenho se estender por 10 anos a partir do início do contrato.
+
+S - 5: SUPERVISÃO TÉCNICA E SÓCIO AMBIENTAL DE OBRAS E SERVIÇOS
+Essa componente engloba a contratação das consultorias de supervisões de obras para apoio as Superintendências Regionais
+Executivas do DER-ES.
+As supervisoras atuarão no acompanhamento direto das obras contratadas pelo DER- ES, sendo uma empresa para cada
+Superintendência Regional (SR).
+A função da Supervisora será garantir que as obras do Programa sejam executadas observando o fiel cumprimento dos projetos,
+das normas e especificações estabelecidas e das demais condições contratuais, e alertar o DER-ES quanto às condições de
+cumprimento dos cronogramas físico e financeiro das obras.
+Será, também, obrigação da Supervisora dar o necessário apoio ao DER-ES com vistas à diminuição dos impactos ambientais das
+obras, na manutenção da segurança da sua execução e no cumprimento de outras determinações do Órgão.
+
+
+Página: 9
+
+A Supervisora deverá se instalar obrigatoriamente na Superintendência Regional (SR) de sua área de atuação, dotando aquela
+Regional das condições suficientes para o bom desempenho das atividades de supervisão de todas as obras e serviços contidos
+naquela SR.
+
+P - 1: Supervisão de Apoio para as obras da SR-1 (Lote 01 - Extensão aproximada de 194 Km de projeto e obras
+recuperação e 30 km de projeto e obras de contornos rodoviários)
+Esse produto engloba todo acompanhamento das obras, relacionadas ao Programa, que estiverem dentro dos limites da SR-1.
+
+P - 2: Supervisão de Apoio para as obras da SR-2 (Lote 02 - Extensão aproximada de 140 Km de projeto e obras de
+recuperação)
+Esse produto engloba todo acompanhamento das obras, relacionadas ao Programa, que estiverem dentro dos limites da SR-2.
+
+S - 6: PAGAMENTO DE CONTRAPARTIDA PARA PPP RODOVIÁRIA ESTRUTURADA
+Essa subcomponente engloba a contrapartida financeira que será alocada para incrementar o orçamento de realização de novas
+PPP ou Concessões patrocinadas ou administrativas em rodovias.
+O valor destinado a contratação e implantação da PPP ou Concessão será de US$ 40 milhões e corresponde a aproximadamente
+19,7% do valor total do Programa PROATIVA-ES.
+No componente 2 - Fortalecimento Institucional, serão contratados serviços de apoio a elaboração de todos os estudos
+necessários a análise da viabilidade e de estruturação da PPP ou concessão pretendida.
+O modelo proposto está baseado na experiência bem sucedida do Estado da Bahia em programa de PPP estruturada em conjunto
+ao mesmo organismo financiador.
+
+P - 1: Pagamento por desempenho da reconstrução e manutenção da rodovia identificada como possível Parceria
+Público Privada por parte do DER e do Governo do Estado.
+Categoria de Gasto: Pagamento a concessionária de PPP - contraprestação.
+
+O valor da contrapartida financeira será alocado para incrementar o orçamento de realização de novas PPPs patrocinadas ou
+administrativas em rodovias, em que o valor equivalente a US$ 40 milhões será desembolsado gradualmente a título de
+contraprestação pública em contrato piloto de PPP rodoviária. Este valor entra dentro dos 355 km da meta do componente 1 de
+recuperação e manutenção de rodovias, mas com contrato de 20 anos piloto a ser estruturado como PPP
+
+C - 2: FORTALECIMENTO INSTITUCIONAL
+Estão incluídas nessa componente as melhorias e crescimento da eficiência da Autarquia Executora e do Estado.
+
+S - 1: ESTUDOS PARA MODELAGEM DE CONCESSÃO E/OU PARCERIA PÚBLICO PRIVADA (PPP)
+Este componente engloba a contratação de estudos para modelagem de Concessão e/ou Parceria Público Privada (PPP) para os
+trechos de Rodovias levantados, visando expansão do modelo para outras regiões do Estado.
+
+P - 1: Modelagem de PPP ou Concessão
+Este produto representa consiste na contratação de estudos para modelagem de Concessão e/ou Parceria Público Privada (PPP)
+para os trechos de Rodovias levantados na região de Cachoeiro de Itapemirim - ES, visando expansão do modelo para outras
+regiões do Estado.
+
+Considera-se ESTUDOS TÉCNICOS: propostas, levantamentos, dados, pesquisas, projetos, informações técnicas, investigações,
+métodos, pareceres e quaisquer outros documentos acerca da viabilidade técnica, econômico-financeira e jurídica, com vistas à
+consolidação e adequada modelagem do Projeto.
+
+Com base nos estudos a serem realizados, espera-se identificar o modelo de Projeto mais apropriado para a Administração
+Pública, assim como em uma oferta de serviço público adequado à população e a justa remuneração da futura concessionária,
+garantindo atratividade para a iniciativa privada.
+
+Os principais objetivos que se pretende alcançar por meio do Apoio técnico à Modelagem de Parceria Público Privada (PPP) ou
+Concessão estão a seguir elencados:
+
+- Realizar modelagem técnico-operacional, econômico-financeira, jurídica e institucional;
+
+- Elaborar estudos e avaliações para planejamento detalhado para implementação da infraestrutura e da sua operação e
+manutenção ao longo do tempo;
+
+- Realizar estudos econômico-financeiros que projetam por toda a duração do contrato despesas, custos, investimentos, receitas
+acessórias, condições de financiamento e outras variáveis;
+
+- Definir metodologias de pagamento a serem empregadas;
+
+- Analisar aspectos regulatórios;
+
+
+Página: 10
+
+- Mapear e identificar os riscos e responsabilidades inerentes ao projeto de concessão ou PPP;
+
+- Elaboração das minutas de contrato, editais de licitações, anexos e outros documentos necessários a estruturação de PPP ou
+Concessão.
+
+Com base em avaliações preliminares, foi selecionada para a realização dos estudos a região de Cachoeiro de Itapemirim - ES.
+Cachoeiro de Itapemirim é o município mais populoso do Sul do Espírito Santo e o município com mais habitantes fora da Região
+Metropolitana de Vitória.
+Principal centro econômico do Sul do Espírito Santo, Cachoeiro de Itapemirim é o segundo polo mais importante do Estado, depois
+da conurbação de Vitória, a capital.
+Na região de Cachoeiro de Itapemirim está concentrada a maioria da oferta de serviços de educação, saúde, lazer, comércio e
+indústria do Sul do Estado, com atração de usuários do Sul do Espírito Santo e da região Norte do Rio de Janeiro.
+Em Cachoeiro de Itapemirim está localizada uma das maiores jazidas de mármore do Brasil. O município é um centro internacional
+de rochas ornamentais, sendo o responsável pelo abastecimento de cerca de 80% do mercado brasileiro de mármore.
+A produção industrial ligada ao setor de rochas ornamentais que parte de Cachoeiro utiliza exclusivamente o modal rodoviário para
+acessar o principal eixo rodoviário do Estado, a BR-101, bem como os acessos aos portos exportadores da região de Vitória.
+Além de importante polo de beneficiamento de rochas ornamentais, por Cachoeiro passam rodovias (BR-482, ES-482, ES-488, ES-
+496) que juntas constituem uma das principais ligações do estado do Espírito Santo com o Estado do Minas Gerais. Dentre estas
+rodovias, algumas apresentam volumes de tráfego que superam 15.000 veículos/dia.
+Estudos do Plano Diretor Rodoviário Estadual já apontam a necessidade de investimentos na região de Cachoeiro, como
+duplicação e recuperação de rodovias.
+Devido a importância que Cachoeiro de Itapemirim e seu entorno representam para o Estado, esta região foi selecionada para os
+estudos de modelagem de PPP ou Concessões, pois promover investimentos em infraestrutura nesta área representa o alcance de
+benefícios econômicos e sociais para os habitantes do município e para todos os demais usuários que utilizam a cidade e o seu
+sistema viário.
+
+A etapa de estudos de modelagem de Concessões ou PPP representa 1,2% do valor total do Programa.
+
+C - 3: ADMINISTRAÇÃO
+Administração do Programa
+
+S - 1: GERENCIAMENTO DO PROJETO
+A Administração do Programa engloba as atividades de monitoramento e controle, incluindo Gerenciamento e contratação de
+consultores individuais.
+
+P - 1: Apoio ao Gerenciamento
+Tem como objetivo o apoio a Unidade Gerenciadora do Programa (UGP) no gerenciamento, coordenação, apoio técnico e
+monitoramento do Programa, incluindo a programação e o acompanhamento da execução físico-financeira dos contratos, gestão
+técnica, acompanhamento e instrução de cumprimento dos requisitos socioambientais, suporte à gestão administrativa, de
+licitações, financeira e auditoria.
+
+Categoria de Gasto
+
+Obras
+P- 1: Obras de Recuperação e Manutenção por
+Desempenho
+P- 1: Projeto e obras de Implantação de
+Contornos Rodoviários com Manutenção por
+Desempenho
+Consultoria
+P- 1: Anteprojeto e orçamento
+P- 1: Anteprojeto de Implantação de Contornos
+Rodoviários com Manutenção por Desempenho
+P- 1: Supervisão de Apoio para as obras da SR-1
+(Lote 01 - Extensão aproximada de 194 Km de
+projeto e obras recuperação e 30 km de projeto e
+obras de contornos rodoviários)
+P- 2: Supervisão de Apoio para as obras da SR-2
+(Lote 02 - Extensão aproximada de 140 Km de
+projeto e obras de recuperação)
+P- 1: Modelagem de PPP ou Concessão
+P- 1: Apoio ao Gerenciamento
+Outros
+P- 1: Pagamento por desempenho da
+reconstrução e manutenção da rodovia
+identificada como possível Parceria Público
+Privada por parte do DER e do Governo do
+Estado.
+Total Geral
+
+Unidade de medida
+-
+km
+
+km
+
+-
+km
+km
+
+km
+
+km
+
+ud
+ud
+-
+US$
+
+Meta
+
+Valor
+
+% Financeiro
+
+-
+355,00
+
+30,00
+
+-
+355,00
+30,00
+
+194,00
+
+145.000.000,00
+112.000.000,00
+
+33.000.000,00
+
+18.000.000,00
+3.200.000,00
+300.000,00
+
+4.200.000,00
+
+140,00
+
+2.800.000,00
+
+1,00
+1,00
+-
+40.000.000,
+
+2.500.000,00
+5.000.000,00
+40.000.000,00
+40.000.000,00
+
+71,43
+55,17
+
+16,26
+
+8,87
+1,58
+0,15
+
+2,07
+
+1,38
+
+1,23
+2,46
+19,70
+19,70
+
+-
+
+-
+
+203.000.000,00
+
+100,00
+
+
+Página: 11
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+(i) Estudos preliminares:
+
+- Seleção dos segmentos e áreas objeto do Programa:
+
+Para a seleção dos trechos rodoviários objeto de intervenção, foi considerada a relação oficial de trechos Sistema Rodoviário Estadual e o
+mapa rodoviário estadual atualizados em 2022 e dados de volumes de tráfego de contagens realizadas durante os estudos de
+Operacionalização do Plano Diretor Rodoviário Estadual, realizadas entre 2013 e 2015. Também foram observadas as condições físicas
+da malha rodoviária, obtidas a partir de levantamento visual de toda a extensão da malha rodoviária pavimentada, realizado entre durante
+os meses de janeiro e fevereiro de 2023.
+
+Uma equipe de avaliadores percorreu toda a extensão da malha rodoviária estadual pavimentada (aproximadamente 3.862 km) e realizou
+a avaliação do estado geral do pavimento da pista, acostamentos, drenagem e sinalização viária, segundo metodologia de avaliação já
+utilizada pelo DER-ES em avaliação de segmentos pavimentados, aceita por organismos de financiamento com os quais o Estado já
+possui programas rodoviários em andamento.
+
+Foram priorizados, em sua maioria, trechos que se encontram em situação física classificada como regular ou ruim, e nas regiões que
+apresentaram pior índice de qualidade das rodovias (regiões das Superintendências Regionais 01 e 02 do DER-ES).
+
+Os segmentos selecionados atravessam regiões importantes para o escoamento de produção agrícola regional e para o fluxo turístico do
+Estado. Alguns destes segmentos estão situados em regiões que sensíveis a eventos climáticos extremos, principalmente na região
+serrana do Estado (Ex.: ES-261 Fundão x Santa Teresa https://www.agazeta.com.br/es/transito/chuva-es-261-entre-fundao-e-santa-teresa
+-tem-47-pontos-de-atencao-1222)
+
+Além dos segmentos a serem recuperados, foi prevista a elaboração de estudos e projetos para a contratação de obras de implantação de
+contornos rodoviários, para propiciar o desvio do tráfego pesado do interior de centros urbanos regionais, que são pontos críticos para a
+logística do escoamento das produções agrícolas, em especial na região serrana de Santa Maria de Jetibá, Santa Leopoldina e Domingos
+Martins .
+
+Nas regiões de Santa Maria de Jetibá e Santa Leopoldina, existe importante produção de hortifrutigranjeiros, com concentração de
+pequenas propriedades onde é desenvolvida a agricultura familiar, cuja produção é transportada  para a Grande Vitória para distribuição a
+diversas regiões Estado e do Brasil.
+
+Cabe destacar que o município de Santa Maria de Jetibá é o segundo maior produtor de ovos do Brasil, com grande fluxo de veículos de
+transporte de cargas para escoamento da produção e para o recebimento dos insumos necessários como ração animal.
+
+No município de Domingos Martins, destacam-se as áreas da agropecuária e de prestação de serviços. Além do agroturismo, a presença
+de diversos atrativos naturais, como montanhas, trilhas e cachoeiras,e o clima ameno reforçam a contribuição do turismo para a economia
+do município
+
+Foi ainda observado o grande histórico do Estado do Espírito Santo com problemas ocorridos devido às fortes chuvas que assolam o
+estado, principalmente entre os meses de dezembro e março, sendo recorrente praticamente todos os anos, evidenciado nos dados
+disponíveis no portal da Defesa Civil Estadual (https://defesacivil.es.gov.br/).
+
+- Estudos e projetos anteriores:
+
+Não houve contratação ou execução de consultorias, licenciamentos, desapropriações, reassentamentos, projetos de engenharia,
+licitações, instrumentos legais específicos para o Programa. Todavia, cumpre destacar que todos estes elementos estarão contemplados
+nas ações previstas no programa e serão providenciados pelo Estado à medida em que o projeto evoluir dentro do cronograma
+estabelecido.
+
+(iii) Experiências anteriores relevantes para o Programa:
+
+Importante destacar que o DER-ES iniciou o primeiro contrato piloto para contratação de serviços de conservação rodoviária remunerada
+por desempenho em 2013, atuando em cerca de 200 km da malha rodoviária estadual. Na sequência, a partir das lições aprendidas como
+primeiro contrato, efetuou a contratação da conservação rodoviária nesta modalidade para toda a malha rodoviária pavimentada estadual.
+
+Durante as etapas de preparação de tais contratações, o DER-ES estudou e estabeleceu parâmetros para a medição do desempenho das
+empresas executores, com base na realização de inventários da estrutura rodoviária existente, estabelecendo os níveis de esforço e
+critérios de medição a serem observados. Toda esta experiência e lições aprendidas, materializadas em modelos de remuneração,
+critérios de pagamento e de avaliação do desempenho das contratadas, servirão de base para a estruturação dos novos modelos de
+contratação propostos para o Programa PROATIVA-ES.
+
+Destaca-se também que o Estado do Espírito Santo já conta com uma experiência de mais de 20 anos de parcerias bem-sucedidas com o
+Banco Interamericano de Desenvolvimento, na execução dos Programas Rodoviários I, II e III, e em andamento o Programa IV.
+
+(cid:10)
+(cid:10)
+
+
+Página: 12
+
+Os mesmos agentes (o Estado, como Mutuário, e o DER-ES, como Executor) já executaram e concluíram financiamentos anteriores,
+similar ao programa ora pretendido, com a obtenção dos respectivos resultados de forma satisfatória;
+
+O Executor (DER-ES) detém um consistente registro de performance satisfatória na execução do Projeto previamente desenvolvido, e
+uma análise institucional poderá demonstrar que o Executor será capaz de manter essa condição de performance de execução nas áreas
+objeto do Programa para o qual se pretende obter a Linha de Crédito.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Municipios
+
+Estado do Espírito Santo (MUNICIPIO DE  BREJETUBA, MUNICIPIO DE  MARATAIZES, MUNICIPIO DE  PONTO BELO, MUNICIPIO DE
+SOORETAMA, MUNICIPIO DE  VILA VALERIO, MUNICIPIO DE  MARECHAL FLORIANO, MUNICIPIO DE  IRUPI, MUNICIPIO DE  SAO
+DOMINGOS DO NORTE, MUNICIPIO DE  VILA PAVAO, MUNICIPIO DE  AFONSO CLAUDIO, MUNICIPIO DE  ALEGRE, MUNICIPIO
+DE  ALFREDO CHAVES, MUNICIPIO DE  ANCHIETA, MUNICIPIO DE  APIACA, MUNICIPIO DE  ARACRUZ, MUNICIPIO DE  ATILIO
+VIVACQUA, MUNICIPIO DE  BAIXO GUANDU, MUNICIPIO DE  BARRA DE SAO FRANCISCO, MUNICIPIO DE  BOA ESPERANCA,
+MUNICIPIO DE  BOM JESUS DO NORTE, MUNICIPIO DE  CACHOEIRO DE ITAPEMIRIM, MUNICIPIO DE  CARIACICA, MUNICIPIO DE
+CASTELO, MUNICIPIO DE  COLATINA, MUNICIPIO DE  CONCEICAO DA BARRA, MUNICIPIO DE  CONCEICAO DO CASTELO,
+MUNICIPIO DE  DIVINO DE SAO LOURENCO, MUNICIPIO DE  DOMINGOS MARTINS, MUNICIPIO DE  DORES DO RIO PRETO,
+MUNICIPIO DE  ECOPORANGA, MUNICIPIO DE  FUNDAO, MUNICIPIO DE  GUACUI, MUNICIPIO DE  GUARAPARI, MUNICIPIO DE
+IBIRACU, MUNICIPIO DE  ICONHA, MUNICIPIO DE  ITAGUACU, MUNICIPIO DE  ITAPEMIRIM, MUNICIPIO DE  ITARANA, MUNICIPIO
+DE  IUNA, MUNICIPIO DE  JERONIMO MONTEIRO, MUNICIPIO DE  LINHARES, MUNICIPIO DE  MANTENOPOLIS, MUNICIPIO DE
+MIMOSO DO SUL, MUNICIPIO DE  MONTANHA, MUNICIPIO DE  MUCURICI, MUNICIPIO DE  MUNIZ FREIRE, MUNICIPIO DE  MUQUI
+, MUNICIPIO DE  NOVA VENECIA, MUNICIPIO DE  PANCAS, MUNICIPIO DE  PINHEIROS, MUNICIPIO DE  PIUMA, MUNICIPIO DE
+PRESIDENTE KENNEDY, MUNICIPIO DE  RIO NOVO DO SUL, MUNICIPIO DE  SANTA LEOPOLDINA, MUNICIPIO DE  SANTA
+TERESA, MUNICIPIO DE  SAO GABRIEL DA PALHA, MUNICIPIO DE  SAO JOSE DO CALCADO, MUNICIPIO DE  SAO MATEUS,
+MUNICIPIO DE  SERRA, MUNICIPIO DE  VIANA, MUNICIPIO DE  VILA VELHA, MUNICIPIO DE  VITORIA, MUNICIPIO DE
+MARILANDIA, MUNICIPIO DE  IBATIBA, MUNICIPIO DE  RIO BANANAL, MUNICIPIO DE  JAGUARE, MUNICIPIO DE  PEDRO
+CANARIO, MUNICIPIO DE  AGUA DOCE DO NORTE, MUNICIPIO DE  ALTO RIO NOVO, MUNICIPIO DE  JOAO NEIVA, MUNICIPIO DE
+LARANJA DA TERRA, MUNICIPIO DE  SANTA MARIA DE JETIBA, MUNICIPIO DE  VARGEM ALTA, MUNICIPIO DE  VENDA NOVA
+DO IMIGRANTE, MUNICIPIO DE  AGUIA BRANCA, MUNICIPIO DE  IBITIRAMA)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+(i) Condições Financeiras da Operação:
+
+Esta operação de crédito externo têm por base a contratação de financiamento externo, em moeda Dólar Americano, com taxa de juros
+relacionadas a variação da taxa SOFR (Secured Overnight Funding Rate) acrescida de um spread financeiro, comissões de compromisso
+e financiamento.
+
+Resumo das condições do financiamento:
+
+- Financiamento: 80% do empreendimento;
+
+- Moeda do empréstimo: USD;
+
+- Prazo de desembolso: até 96 meses;
+
+- Prazo de carência até 60 meses;
+
+- Prazo de amortização: até 240 meses;
+
+- Periodicidade da amortização 300 meses
+
+- Juros de amortização: Taxa SOFR  + 1,0%a.a.;
+
+- Comissão de compromisso: 0,25%a.a. sobre o saldo não desembolsado;
+
+- Comissão de financiamento: 0,25% do valor do financiamento;
+
+(ii) Necessidade de financiamento externo e a opção pelo agente financeiro:
+
+(a) Necessidade e opção pelo financiamento externo em detrimento de financiamento interno:
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 13
+
+O Espírito Santo vem buscando alternativas de financiamento que melhor atenda a sua carteira de crédito, sempre associada a avaliação
+das características dos projetos e programas de investimentos com as linhas disponíveis e agregação de valor dos agentes financiadores.
+As fontes de financiamento para projetos de desenvolvimento no Brasil apresentam um leque de oportunidades, com suporte de agências
+nacionais como o BNDES e Caixa Econômica Federal (CAIXA) e de agências internacionais de crédito, como Banco Mundial, BID, CAF,
+FONPLATA e outros.
+
+O custo da oportunidade do financiamento externo e prazos disponibilizados para o serviço da dívida, comparado ao nacional, e ainda a
+associação à possibilidade do apoio financeiro para um leque de ações integradas e abrangentes para a sustentabilidade do investimento;
+
+Apesar do prazo maior para concretizar a assinatura do contrato de empréstimo, as operações de crédito externo apresentam um custo de
+dívida menor que as operações de crédito interno disponíveis no mercado. Geralmente as operações externas estão atreladas a variação
+da taxa SOFR com índice próximo a 4%a.a., em condições que incluindo os complementos remuneratórios operacionais atingem um
+montante de custo em torno de 5,5% a.a. num patamar abaixo do custo das operações de crédito interno que oscilam em parâmetros na
+faixa de 11,0 a 14,5%a.a.
+
+Outra vantagem comparativa positiva para a contratação de empréstimos externos está baseada na incorporação ao conhecimento local
+um legado institucional e técnico construído junto com a agencia multilateral de crédito (Banco Mundial), durante os processos para
+elaboração do projeto, análise, aprovação e execução do empreendimento.
+
+(b) Justificativa da opção pelo agente financeiro Banco Mundial
+
+A definição do Banco Mundial pelo Estado para agente financeiro do Programa de Manutenção Proativa do Estado do Espírito Santo
+levou em consideração a parceria histórica e construtiva que o Espírito Santo tem com a Instituição no desenvolvimento e implementação
+de programas de investimentos, com execução eficiente e resultados exitosos.
+
+A escolha do Banco Mundial como agente financeiro para este Projeto fundamenta-se primordialmente no valor adicionado pela instituição
+, que em muito extrapola a disponibilização de recursos financeiros para obras e aquisições. Trabalhar com o BIRD permite ao Estado do
+Espírito Santo e ao DER em particular beneficiar-se de sua expertise global para maximizar a efetividade das soluções propostas, além de
+elevar a probabilidade de cumprimento dos objetivos de desenvolvimento pretendidos, devido à intensa atuação do Banco em termos de
+supervisão e apoio técnico durante a fase de implementação do projeto.
+
+Os projetos financiados pelo Banco Mundial buscam contribuir, de forma eficaz, para o desenvolvimento econômico e social dos países,
+com foco em resultados econômicos e ambientalmente sustentáveis, promovendo a inclusão social, a produtividade, a inovação e a
+integração econômica. Fornecendo assistência técnica desde a identificação e desenvolvimento de projetos até a sua implementação,
+disponibilizando aos mutuários e  executores um arcabouço de ferramentas de planejamento e gestão, apoiadas em metodologias de
+avaliação técnica, econômica, social e ambiental.
+
+(c) Comparativo das condições financeiras dos agentes financeiros externos e internos:
+
+Análise com base nas últimas fontes de recursos externos operacionalizadas pelo Governo do Estado do Espírito Santo:
+
+Spread Banco Mundial 1 % a.a. frente a 1,26% do BID, 1,80% da CAF; 1,1 BNDES e 1,31%a.a. da CAIXA/FINISA
+
+Juros parâmetro Taxa SOFR idêntico às demais opções das fontes externas BID e CAF
+
+Prazo de Amortização 20 anos; idêntico ao BID e melhor opção que 13 anos da CAF
+
+Comissão de Financiamento 0,25%, idêntico a opção de 0,25% do BID e melhor que 0,85% da CAF
+
+(a) Atualmente as instituições de crédito externo estruturam - operações vinculadas ao Dólar Americano - em taxas de juros com base na
+SOFR periódica (trimestral ou semestral), acrescido de um spread (fixo ou variável). Além dos juros diretos sobre cada parcela amortizada
+utilizam as comissões de compromisso e financiamento. Estas condições integram as práticas contratuais de importantes
+empreendimentos viabilizados pelo Governo do Estado junto ao Banco Mundial e BID;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 14
+
+(b) Quanto aos prazos de carência e amortização da dívida, as instituições internacionais têm trabalhado com similaridade no período de
+carência em 60 meses, mantendo um horizonte para pagamento total das parcelas (carência e amortização) próximo a 240 meses, um
+cenário, que demonstra uma condição atrativa para as operações de crédito contratadas junto ao Banco Mundial;
+
+(c) No tocante aos valores das comissões de financiamento e compromisso, os portfólios de exigências que integram as condições
+apresentadas para esta operação estão nos patamares mínimos praticados pelas melhores condições do Banco Mundial e BID;
+
+(d) Desta forma merece destaque o valor reduzido do spread praticado pelo Banco Mundial, evidenciando a representatividade positiva
+desta condição, nas prestações do período alongado para a amortização da dívida a ser contratada com o Banco;
+
+(e) Em referência ao prazo de desembolso (96 meses)  superior em 36 meses ao prazo de carência (60 meses), a vantagem comparativa
+positiva relacionada a atratividade dos juros reduzidos para o período de amortização representam inversões financeiras com benefícios
+no horizonte de projeto e serviço da dívida;
+
+(f)       Quanto a oportunidade para captação de recursos internos foi demonstrado a análise comparativa de oportunidades frente às
+opções do BNDES e Caixa Econômica Federal - FINISA, com custos de juros referenciais a: (i) operações em TLP e Spread do BNDES =
+11,63%aa. e; (ii) operações com custos do FINISA/CAIXA (CDI + spread) = 14,45% aa. (atualizações praticadas em abril/2023);
+
+(g) Concluindo, as análises comparativas demostram um padrão de similaridade na estruturação dos índices praticados por fontes
+externas (Banco Mundial, BID e CAF) em patamares inferiores aos custos das fontes de recursos internos, e, assim validando as
+vantagens comparativas positivas deste demonstrativo, para optarmos pelas operações de crédito externo disponibilizadas pelo Banco
+Mundial.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 15
+
+2.11. PROJETO/BENEFICIÁRIO
+
+(i) Ações relacionadas às áreas estratégicas e impactos do programa/projeto, considerando o item 4, do Anexo à Resolução Cofiex nº 17,
+de 7de junho de 2021;
+
+a) Promoção da sustentabilidade ambiental:
+
+- Promover adaptações pontuais ao sistema de escoamento das águas superficiais e sub-superfícies para suportarem os eventos
+climáticos adversos, além de preparar programas com predominância de intervenções de baixo nível de emissão de carbono e menos
+danosas ao ambiente, com ênfase nas reciclagens e misturas frias.
+
+- Manutenção proativa e resiliente: levantamento dos pontos de vulnerabilidade climática da rede incluída no projeto,  realização de
+intervenções em taludes, drenagem e bueiros, e conservação rotineira.
+
+- Projeto de contornos viários vai delimitar a área de expansão urbana, em direção a mata atlântica.
+
+b) Eficiência energética, geração e/ou uso de energia de fontes renováveis:
+
+As ações do Programa serão adaptadas as modernas tecnologias de conectividade e combustíveis alternativos.
+
+c) Implantação e/ou ampliação de ações de saneamento básico:
+
+As obras de recuperação e manutenção de rodovias contribuirão para a redução da ocorrência de deslizamentos de encostas, resultando
+menor carga de sedimentos para os cursos d'água nas bacias hidrográficas nas quais os segmentos rodoviários estão localizados,
+melhorando os parâmetros de qualidade da água.
+
+A limpeza mais frequente dos dispositivos de drenagem evitará ou reduzirá inundações, que podem resultar em contaminação dos locais
+atingidos, potencializando a transmissão de doenças transmitidas por meio da água.
+
+d) Gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes:
+
+Durante a execução do Programa, serão observadas as legislações ambientais estaduais e nacionais, bem como as Salvaguardas
+Ambientais do organismo financiador, adotando-se todas as medidas de prevenção e mitigação de impactos negativos relacionados a
+segurança de recursos hídricos e conservação de solos e nascentes.
+
+e) Conservação e manejo de biodiversidade e/ou de recursos florestais:
+
+As normas socioambientais do Banco, a serem seguidas durante a execução do Programa, são rigorosas quanto à necessidade de
+preservar os recursos florestais e a biodiversidade.
+
+Diversas intervenções previstas no Programa estão situadas na zona de mata atlântica, um habitat crítico brasileiro. Serão previstas ações
+específicas para limitar os impactos ambientais nesta região.
+
+f) Melhoria de ambiente de negócios e/ou oportunidades:
+
+Serão realizados contratos Longa duração, e estáveis;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 16
+
+Haverá aumento a participação do setor privado, criando condições favoráveis para atrair investidores por meio do financiamento do
+Banco e mobilizando o mercado;
+
+O Programa de Manutenção Proativa impulsionará a economia do estado, com a criação de novos mercados para o setor privado,
+incluindo potenciais novos negócios para concessionárias, consultoras e construtoras de rodovias, criando empregos e gerando um ciclo
+virtuoso de desenvolvimento econômico, que agilizará a inovação tecnológica e a criação de empregos.
+
+g) Benefícios para empreendedores individuais, micro e pequenas empresas:
+
+Os investimentos na melhoria da trafegabilidade e segurança viária resultarão em melhoria nas condições de escoamento da produção
+agrícola local e estimularão o turismo regional, com a atração de novos visitantes, favorecendo o desenvolvimento de pequenas e médias
+empresas.
+
+h) Geração de emprego e renda para populações de baixa renda e vulneráveis:
+
+Os investimentos que serão realizados pelo Programa reduzirão os custos de transporte e melhorarão a acessibilidade, favorecendo o
+acesso a empregos das populações das regiões beneficiadas.
+
+As empresas locais selecionadas deverão priorizar o emprego mão de obra local;
+
+i) Infraestrutura e/ou equipamentos sociais para populações de baixa renda e vulneráveis:
+
+A infraestrutura criada ou melhorada no Programa será utilizada por toda a população regiões atendidas, para acesso aos serviços
+básicos de saúde, educação e segurança.
+
+Destaca-se que as melhorias a serem implantadas com base na metodologia do iRAP preveem adequações na infraestrutura rodoviária de
+forma a atender, além dos usuários de veículos automotores, também os usuários transporte coletivo, ciclistas e pedestres, com uma
+abordagem abrangente que busca melhorar as condições de segurança rodoviária para todos.
+
+Os investimentos  em manutenção proativa priorizarão a contratação de mão de obra local, incentivando e favorecendo melhorias de
+renda.
+
+j) Ações de inclusão de minorias sociais entre os beneficiados:
+
+A infraestrutura criada ou melhorada no Programa será utilizada por toda a população regiões atendidas, para acesso aos serviços
+básicos de saúde, educação e segurança.
+
+Os investimentos  em manutenção proativa priorizarão a contratação de mão de obra local, incentivando e favorecendo melhorias de
+renda.
+
+k) Políticas voltadas para juventude, gênero, raça:
+
+Não há previsão de medidas específicas voltadas para a juventude, gênero, raça.
+
+As ações previstas no Programa serão realizadas em consonância às Salvaguardas ambientais e sociais do Organismo Financiador.
+
+l) Melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão, de participação cidadã:
+
+O Programa de Manutenção Proativa propõe uma abordagem de contratação integrada e de maior duração gerando uma maior eficiência
+para o Estado e redução de custos, além de transferir maiores riscos ao setor privado. Além disso, o Programa visa aumentar a
+capacidade do governo de investimento em rodovias por meio do desenvolvimento de planos plurianuais que oferecem maior
+previsibilidade de investimento.
+
+m) Melhoria das condições de educação e saúde:
+
+Com a realização das obras de recuperação e implantação de contornos, a população terá maior acesso aos serviços básicos como
+educação e saúde, além dessas intervenções contribuírem para uma redução da taxa de mortalidade e de feridos em acidentes viários no
+Estado.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 17
+
+n) Arranjos de financiamento que viabilizem a participação privada:
+
+O Programa prevê a contratação de estudos para modelagem de Concessão e/ou Parceria Público Privada (PPP).
+
+Serão realizados estudos de modelagem, para identificação do modelo de Projeto mais apropriado para a Administração Pública, com
+oferta de serviço público adequado à população e justa remuneração da futura concessionária, gerando atratividade para a iniciativa
+privada.
+
+(ii) informar e quantificar a população beneficiada direta e/ou indiretamente pelas ações do programa/projeto:
+
+O projeto beneficiará todos os residentes do Estado do Espírito Santo, estimados em 4,1 milhões, especialmente aqueles que vivem no
+interior do Estado. Em menor grau beneficiará também os residentes de Estados vizinhos que, direta ou indiretamente, participam do
+intercâmbio de mercadorias, insumos e serviços.
+
+Os beneficiários diretos do Programa serão todos os moradores dos municípios e das regiões afetadas com as obras de recuperação
+rodoviária, os usuários das rodovias abrangidas pelo Programa e o comércio e a indústria locais em razão da redução do custo do
+transporte, decorrentes do mau estado atual das rodovias.
+
+Em médio e longo prazos, tanto as atividades industriais como as comerciais, nas áreas de influência das rodovias contempladas com os
+investimentos, serão beneficiadas com a disponibilização de melhores acessos aos fornecedores das matérias primas e aos seus clientes
+e mercados de consumo.
+
+Os menores custos logísticos, resultantes principalmente da redução do custo de transportes e do aumento de segurança para o tráfego,
+facilitarão a obtenção das matérias primas e o escoamento e a colocação dos produtos nos mercados consumidores a preços mais
+competitivos, favorecendo o desenvolvimento da Economia como um todo.
+
+(iii) Benefício a populações de baixa renda, vulneráveis, minorias sociais, jovens, com foco em gênero e/ou raça, entre outros:
+
+O Programa beneficiará regiões que concentram grande parte de pequenas propriedades rurais onde se pratica a agricultura familiar no
+Estado do Espírito Santo. São núcleos de pequenos produtores rurais, cujas culturas são a base para a sua subsistência. Também serão
+beneficiadas as regiões de beneficiamento de rochas ornamentais e de produção de ovos, que movimentam a economia local, gerando
+empregos e renda para as populações da região.
+
+Será priorizado o recrutamento de mão de obra local para execução dos serviços previstos no Programa, com ações de  capacitação a
+serem ofertadas pelas empresas contratadas.
+
+A classificação dos beneficiários pela renda deve ser compatível com a distribuição censitária verificada no Estado, de vez que os
+benefícios do investimento são difusos para toda a população.
+
+Desta forma considerando o alcance por capilaridade às extremidades produtivas e permitindo o retorno ao seu esforço produtivo, este
+Programa consiste em importante instrumento para promover o desenvolvimento socioeconômico com benefícios a populações de baixa
+renda, vulneráveis, minorias sociais, jovens, com foco em gênero e/ou raça, entre outros.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 18
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BIRD
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+Valor Proposto
+
+40.600.000,00
+Valor Proposto
+
+162.400.000,00
+
+203.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+40.600.000,00
+Valor de Referência US
+$
+162.400.000,00
+
+203.000.000,00
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+ARRANJO INSTITUCIONAL:
+
+MUTUÁRIO: GOVERNO DO ESTADO DO ESPÍRITO SANTO
+
+Atribuições: responsável pelas ações necessárias à transferência e alocações de recursos e execução dos projetos definidos, bem como o
+cumprimento dos termos e das obrigações derivadas do Contrato de Empréstimo a ser celebrado com o Banco Mundial.
+
+EXECUTOR: DEPARTAMENTO DE EDIFICAÇÕES E RODOVIAS DO ESTADO DO ESPÍRITO SANTO (DER-ES)
+
+Atribuições: Executar, no âmbito de suas atribuições, obras, serviços e demais atividades necessárias para a consecução dos projetos em
+conformidade com o Contrato de Empréstimo; Gerenciar, no âmbito de sua atuação, os recursos financeiros das transferências efetuadas
+pelo Estado; Designar representantes para os atos relacionados ao Contrato de Empréstimo; Prestar contas dos recursos financeiros
+recebidos do Estado.
+
+A supervisão das obras e da manutenção rodoviária é de competência das Superintendências Regionais (SR) do DER-ES, sob supervisão
+das Diretorias técnicas (DIROP - Diretoria de Operações e Manutenção e DIREN - Diretoria de Obras de Infraestrutura), compreendendo
+o gerenciamento, fiscalização, acompanhamento dos serviços prestados, dentre outras atribuições.
+
+Em apoio às SR, serão contratadas empresas de consultoria para supervisão das obras, para garantir que as obras do Programa sejam
+executadas observando o fiel cumprimento dos projetos, normas e especificações e demais condições contratuais.
+
+A Diretoria de Administração coordena a liberação de recursos e liquidação das despesas dos contratos celebrados.
+
+O DER-ES dispõe de autonomia normativa (Dec. Estadual nº 3325-R/2023) e estrutura própria para condução dos procedimentos de
+desapropriação, por meio de uma gerência específica.
+
+A autarquia dispõe de uma estrutura permanente para gestão do programa pretendido, por meio da Gerência de Financiamento e
+Captação de Recursos (GEFIC) e da Diretoria a qual está vinculada (Diretoria de Gerenciamento de Projetos e Ações - DIGEP), conforme
+organograma anexo.
+
+À DIGEP compete, dentre outras atribuições:
+
+-Acompanhar atividades relativas aos investimentos do Estado, de forma a atender demandas de controle, intermediação e gestão
+estratégica;
+
+-Definir e manter padrões de gestão de projetos de toda a autarquia, para otimizar o controle e a execução de planos da organização;
+
+-Integrar o projeto entre os diversos órgãos da autarquia;
+
+- orientar, coordenar e supervisionar as atividades de controle interno, integridade e correição do DER-ES;
+
+- relacionar-se institucionalmente com os órgãos de controle e com a PGE/ES, nos assuntos de interesse da autarquia;
+
+À GEFIC compete, dentre outras atribuições:
+
+-Representar a autarquia na negociação de empréstimos e convênios junto a instituições financeiras privadas e públicas;
+
+-Gerenciar programas de obras e serviços de engenharia, com recursos de financiamento, exercendo atividades de planejamento,
+organização, coordenação e controle, em conjunto com demais setores do DER-ES;
+
+-Acompanhar a prestação de contas dos convênios de captação de recursos celebrados pela autarquia;
+
+
+Página: 19
+
+-Realizar a interface com instituições financeiras e órgãos da Administração Pública, acompanhando questões relativas a obras e serviços
+de interesse mútuo, bem como a transferência e solicitação de informações e documentos;
+
+A coordenação da execução do Programa será efetuada no âmbito da GEFIC, por meio de uma Unidade Gerenciadora do Programa (
+UGP) ligada a gerência, e utilizará os recursos humanos, técnicos e materiais dos diversos setores do DER-ES, e contará com empresa
+de Consultoria para apoio ao gerenciamento da execução do Programa.
+
+A DIGEP fará o acompanhamento macro, contribuindo para integrar o programa com demais órgãos internos e externos da autarquia.
+
+Para os processos licitatórios, o DER-ES mobilizará em sua estrutura uma Comissão Especial de Licitação. Também é de
+responsabilidade da empresa de Consultoria para o gerenciamento do Programa, o apoio ao DER-ES nos processos licitatórios.
+
+MATRIZ DE RESPONSABILIDADE
+
+A matriz de responsabilidade está apresentada em arquivo Anexo.
+
+ARRANJO OPERACIONAL
+
+O Programa será executado observando a estrutura organizacional existente do DER-ES, com a coordenação da UGP e contratação de
+apoios específicos para reforçar a capacidade operacional. O quadro do DER-ES possui capacidade técnica na execução de obras de
+infraestrutura rodoviária, estando em execução atualmente 53 contratos de obras, que totalizam R$ 2.298.059,929,21, bem como
+acompanhamento de outros programas de financiamento.
+
+Os recursos oriundos do empréstimo externo serão recebidos diretamente pelo Mutuário, por meio de sua Secretaria de Estado da
+Fazenda (SEFAZ), a qual efetuará o repasse dos mesmos ao DER-ES, por meio de conta vinculada.
+
+Os recursos de contrapartida local serão recursos do Estado do Espírito Santo, previstos em orçamento, em conformidade com Resolução
+Cofiex N 3, liberados pela SEFAZ ao DER-ES ao longo do Programa. Não há previsão de repasses para outras esferas do Governo.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Departamento de Estradas de Rodagem do Espírito Santo - DER-ES
+
+Representante Oficial: José Eustáquio de Freitas
+
+Endereço da Sede: Av. Marechal Mascarenhas de Moraes, 1501 Ilha de Santa Maria, Vitória/ES, Brasil
+E-mail Institucional:
+
+Telefone: 2736364501
+
+CNPJ: 04889717000197
+
+Fax: 2736364501
+UF:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 8 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+COMPONENTES
+
+C - 1: RECUPERAÇÃO E MANUTENÇÃO DA INFRAESTRUTURA RODOVIÁRIA
+
+S - 1: ANTEPROJETO DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR
+DESEMPENHO
+P - 1: Anteprojeto e orçamento
+
+S - 2: PROJETO E OBRAS DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR
+DESEMPENHO
+P - 1: Obras de Recuperação e Manutenção por Desempenho
+
+S - 3: ANTEPROJETO DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS RODOVIÁRIOS
+URBANOS COM MANUTENÇÃO RODOVIÁRIA POR DESEMPENHO
+P - 1: Anteprojeto de Implantação de Contornos Rodoviários com Manutenção por Desempenho
+
+S - 4: PROJETO E OBRAS DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS
+RODOVIÁRIOS COM MANUTENÇÃO RODOVIÁRIA POR DESEMPENHO
+P - 1: Projeto e obras de Implantação de Contornos Rodoviários com Manutenção por
+Desempenho
+S - 5: SUPERVISÃO TÉCNICA E SÓCIO AMBIENTAL DE OBRAS E SERVIÇOS
+
+P - 1: Supervisão de Apoio para as obras da SR-1 (Lote 01 - Extensão aproximada de 194 Km de
+projeto e obras recuperação e 30 km de projeto e obras de contornos rodoviários)
+P - 2: Supervisão de Apoio para as obras da SR-2 (Lote 02 - Extensão aproximada de 140 Km de
+projeto e obras de recuperação)
+S - 6: PAGAMENTO DE CONTRAPARTIDA PARA PPP RODOVIÁRIA ESTRUTURADA
+
+P - 1: Pagamento por desempenho da reconstrução e manutenção da rodovia identificada como
+possível Parceria Público Privada por parte do DER e do Governo do Estado.
+
+VALOR
+
+CUSTO
+195.500.000,00
+
+3.200.000,00
+
+3.200.000,00
+
+112.000.000,00
+
+112.000.000,00
+
+300.000,00
+
+300.000,00
+
+33.000.000,00
+
+CF
+
+Ano 1
+
+FONTES
+
+BIRD
+
+26.175.000,00
+
+3.200.000,00
+
+3.200.000,00
+
+16.800.000,00
+
+16.800.000,00
+
+300.000,00
+
+300.000,00
+
+5.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+33.000.000,00
+
+0,00
+
+5.000.000,00
+
+7.000.000,00
+
+4.200.000,00
+
+2.800.000,00
+
+40.000.000,00
+
+40.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+875.000,00
+
+525.000,00
+
+350.000,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+(cid:10)
+
+
+Página: 20
+
+C - 2: FORTALECIMENTO INSTITUCIONAL
+
+S - 1: ESTUDOS PARA MODELAGEM DE CONCESSÃO E/OU PARCERIA PÚBLICO PRIVADA (
+PPP)
+P - 1: Modelagem de PPP ou Concessão
+
+C - 3: ADMINISTRAÇÃO
+
+S - 1: GERENCIAMENTO DO PROJETO
+
+P - 1: Apoio ao Gerenciamento
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+2.500.000,00
+
+2.500.000,00
+
+2.500.000,00
+
+5.000.000,00
+
+5.000.000,00
+
+5.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.250.000,00
+
+1.250.000,00
+
+1.250.000,00
+
+1.000.000,00
+
+1.000.000,00
+
+1.000.000,00
+
+28.425.000,00
+
+0,00
+
+0,00
+
+COMPONENTES
+
+C - 1: RECUPERAÇÃO E MANUTENÇÃO DA INFRAESTRUTURA RODOVIÁRIA
+
+S - 1: ANTEPROJETO DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR
+DESEMPENHO
+P - 1: Anteprojeto e orçamento
+
+S - 2: PROJETO E OBRAS DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR
+DESEMPENHO
+P - 1: Obras de Recuperação e Manutenção por Desempenho
+
+S - 3: ANTEPROJETO DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS RODOVIÁRIOS
+URBANOS COM MANUTENÇÃO RODOVIÁRIA POR DESEMPENHO
+P - 1: Anteprojeto de Implantação de Contornos Rodoviários com Manutenção por Desempenho
+
+S - 4: PROJETO E OBRAS DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS
+RODOVIÁRIOS COM MANUTENÇÃO RODOVIÁRIA POR DESEMPENHO
+P - 1: Projeto e obras de Implantação de Contornos Rodoviários com Manutenção por
+Desempenho
+S - 5: SUPERVISÃO TÉCNICA E SÓCIO AMBIENTAL DE OBRAS E SERVIÇOS
+
+P - 1: Supervisão de Apoio para as obras da SR-1 (Lote 01 - Extensão aproximada de 194 Km de
+projeto e obras recuperação e 30 km de projeto e obras de contornos rodoviários)
+P - 2: Supervisão de Apoio para as obras da SR-2 (Lote 02 - Extensão aproximada de 140 Km de
+projeto e obras de recuperação)
+S - 6: PAGAMENTO DE CONTRAPARTIDA PARA PPP RODOVIÁRIA ESTRUTURADA
+
+P - 1: Pagamento por desempenho da reconstrução e manutenção da rodovia identificada como
+possível Parceria Público Privada por parte do DER e do Governo do Estado.
+C - 2: FORTALECIMENTO INSTITUCIONAL
+
+S - 1: ESTUDOS PARA MODELAGEM DE CONCESSÃO E/OU PARCERIA PÚBLICO PRIVADA (
+PPP)
+P - 1: Modelagem de PPP ou Concessão
+
+C - 3: ADMINISTRAÇÃO
+
+S - 1: GERENCIAMENTO DO PROJETO
+
+P - 1: Apoio ao Gerenciamento
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - 1: RECUPERAÇÃO E MANUTENÇÃO DA INFRAESTRUTURA RODOVIÁRIA
+
+S - 1: ANTEPROJETO DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR
+DESEMPENHO
+P - 1: Anteprojeto e orçamento
+
+S - 2: PROJETO E OBRAS DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR
+DESEMPENHO
+P - 1: Obras de Recuperação e Manutenção por Desempenho
+
+S - 3: ANTEPROJETO DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS RODOVIÁRIOS
+URBANOS COM MANUTENÇÃO RODOVIÁRIA POR DESEMPENHO
+P - 1: Anteprojeto de Implantação de Contornos Rodoviários com Manutenção por Desempenho
+
+S - 4: PROJETO E OBRAS DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS
+RODOVIÁRIOS COM MANUTENÇÃO RODOVIÁRIA POR DESEMPENHO
+P - 1: Projeto e obras de Implantação de Contornos Rodoviários com Manutenção por
+Desempenho
+S - 5: SUPERVISÃO TÉCNICA E SÓCIO AMBIENTAL DE OBRAS E SERVIÇOS
+
+P - 1: Supervisão de Apoio para as obras da SR-1 (Lote 01 - Extensão aproximada de 194 Km de
+projeto e obras recuperação e 30 km de projeto e obras de contornos rodoviários)
+P - 2: Supervisão de Apoio para as obras da SR-2 (Lote 02 - Extensão aproximada de 140 Km de
+projeto e obras de recuperação)
+S - 6: PAGAMENTO DE CONTRAPARTIDA PARA PPP RODOVIÁRIA ESTRUTURADA
+
+P - 1: Pagamento por desempenho da reconstrução e manutenção da rodovia identificada como
+possível Parceria Público Privada por parte do DER e do Governo do Estado.
+C - 2: FORTALECIMENTO INSTITUCIONAL
+
+S - 1: ESTUDOS PARA MODELAGEM DE CONCESSÃO E/OU PARCERIA PÚBLICO PRIVADA (
+PPP)
+P - 1: Modelagem de PPP ou Concessão
+
+C - 3: ADMINISTRAÇÃO
+
+S - 1: GERENCIAMENTO DO PROJETO
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+VALOR
+
+CUSTO
+
+CF
+
+Ano 2
+
+FONTES
+
+BIRD
+
+70.275.000,00
+
+0,00
+
+0,00
+
+50.400.000,00
+
+50.400.000,00
+
+0,00
+
+0,00
+
+19.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+19.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+875.000,00
+
+525.000,00
+
+350.000,00
+
+0,00
+
+0,00
+
+1.250.000,00
+
+1.250.000,00
+
+1.250.000,00
+
+900.000,00
+
+900.000,00
+
+900.000,00
+
+72.425.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+BIRD
+
+7.000.000,00
+
+10.375.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+8.000.000,00
+
+8.000.000,00
+
+0,00
+
+0,00
+
+1.500.000,00
+
+0,00
+
+1.500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+875.000,00
+
+525.000,00
+
+350.000,00
+
+7.000.000,00
+
+7.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+500.000,00
+
+500.000,00
+
+
+Página: 21
+
+P - 1: Apoio ao Gerenciamento
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+500.000,00
+
+0,00
+
+7.000.000,00
+
+10.875.000,00
+
+0,00
+
+0,00
+
+COMPONENTES
+
+C - 1: RECUPERAÇÃO E MANUTENÇÃO DA INFRAESTRUTURA RODOVIÁRIA
+
+S - 1: ANTEPROJETO DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR
+DESEMPENHO
+P - 1: Anteprojeto e orçamento
+
+S - 2: PROJETO E OBRAS DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR
+DESEMPENHO
+P - 1: Obras de Recuperação e Manutenção por Desempenho
+
+S - 3: ANTEPROJETO DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS RODOVIÁRIOS
+URBANOS COM MANUTENÇÃO RODOVIÁRIA POR DESEMPENHO
+P - 1: Anteprojeto de Implantação de Contornos Rodoviários com Manutenção por Desempenho
+
+S - 4: PROJETO E OBRAS DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS
+RODOVIÁRIOS COM MANUTENÇÃO RODOVIÁRIA POR DESEMPENHO
+P - 1: Projeto e obras de Implantação de Contornos Rodoviários com Manutenção por
+Desempenho
+S - 5: SUPERVISÃO TÉCNICA E SÓCIO AMBIENTAL DE OBRAS E SERVIÇOS
+
+P - 1: Supervisão de Apoio para as obras da SR-1 (Lote 01 - Extensão aproximada de 194 Km de
+projeto e obras recuperação e 30 km de projeto e obras de contornos rodoviários)
+P - 2: Supervisão de Apoio para as obras da SR-2 (Lote 02 - Extensão aproximada de 140 Km de
+projeto e obras de recuperação)
+S - 6: PAGAMENTO DE CONTRAPARTIDA PARA PPP RODOVIÁRIA ESTRUTURADA
+
+P - 1: Pagamento por desempenho da reconstrução e manutenção da rodovia identificada como
+possível Parceria Público Privada por parte do DER e do Governo do Estado.
+C - 2: FORTALECIMENTO INSTITUCIONAL
+
+S - 1: ESTUDOS PARA MODELAGEM DE CONCESSÃO E/OU PARCERIA PÚBLICO PRIVADA (
+PPP)
+P - 1: Modelagem de PPP ou Concessão
+
+C - 3: ADMINISTRAÇÃO
+
+S - 1: GERENCIAMENTO DO PROJETO
+
+P - 1: Apoio ao Gerenciamento
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - 1: RECUPERAÇÃO E MANUTENÇÃO DA INFRAESTRUTURA RODOVIÁRIA
+
+S - 1: ANTEPROJETO DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR
+DESEMPENHO
+P - 1: Anteprojeto e orçamento
+
+S - 2: PROJETO E OBRAS DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR
+DESEMPENHO
+P - 1: Obras de Recuperação e Manutenção por Desempenho
+
+S - 3: ANTEPROJETO DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS RODOVIÁRIOS
+URBANOS COM MANUTENÇÃO RODOVIÁRIA POR DESEMPENHO
+P - 1: Anteprojeto de Implantação de Contornos Rodoviários com Manutenção por Desempenho
+
+S - 4: PROJETO E OBRAS DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS
+RODOVIÁRIOS COM MANUTENÇÃO RODOVIÁRIA POR DESEMPENHO
+P - 1: Projeto e obras de Implantação de Contornos Rodoviários com Manutenção por
+Desempenho
+S - 5: SUPERVISÃO TÉCNICA E SÓCIO AMBIENTAL DE OBRAS E SERVIÇOS
+
+P - 1: Supervisão de Apoio para as obras da SR-1 (Lote 01 - Extensão aproximada de 194 Km de
+projeto e obras recuperação e 30 km de projeto e obras de contornos rodoviários)
+P - 2: Supervisão de Apoio para as obras da SR-2 (Lote 02 - Extensão aproximada de 140 Km de
+projeto e obras de recuperação)
+S - 6: PAGAMENTO DE CONTRAPARTIDA PARA PPP RODOVIÁRIA ESTRUTURADA
+
+P - 1: Pagamento por desempenho da reconstrução e manutenção da rodovia identificada como
+possível Parceria Público Privada por parte do DER e do Governo do Estado.
+C - 2: FORTALECIMENTO INSTITUCIONAL
+
+S - 1: ESTUDOS PARA MODELAGEM DE CONCESSÃO E/OU PARCERIA PÚBLICO PRIVADA (
+PPP)
+P - 1: Modelagem de PPP ou Concessão
+
+C - 3: ADMINISTRAÇÃO
+
+S - 1: GERENCIAMENTO DO PROJETO
+
+P - 1: Apoio ao Gerenciamento
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - 1: RECUPERAÇÃO E MANUTENÇÃO DA INFRAESTRUTURA RODOVIÁRIA
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+BIRD
+
+7.000.000,00
+
+10.375.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+8.000.000,00
+
+8.000.000,00
+
+0,00
+
+0,00
+
+1.500.000,00
+
+0,00
+
+1.500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+875.000,00
+
+525.000,00
+
+350.000,00
+
+7.000.000,00
+
+7.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+500.000,00
+
+500.000,00
+
+500.000,00
+
+0,00
+
+7.000.000,00
+
+10.875.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+BIRD
+
+7.000.000,00
+
+9.575.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+7.200.000,00
+
+7.200.000,00
+
+0,00
+
+0,00
+
+1.500.000,00
+
+0,00
+
+1.500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+875.000,00
+
+525.000,00
+
+350.000,00
+
+7.000.000,00
+
+7.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+500.000,00
+
+500.000,00
+
+500.000,00
+
+0,00
+
+7.000.000,00
+
+10.075.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 6
+
+FONTES
+
+CF
+
+BIRD
+
+7.000.000,00
+
+9.575.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+
+Página: 22
+
+S - 1: ANTEPROJETO DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR
+DESEMPENHO
+P - 1: Anteprojeto e orçamento
+
+S - 2: PROJETO E OBRAS DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR
+DESEMPENHO
+P - 1: Obras de Recuperação e Manutenção por Desempenho
+
+S - 3: ANTEPROJETO DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS RODOVIÁRIOS
+URBANOS COM MANUTENÇÃO RODOVIÁRIA POR DESEMPENHO
+P - 1: Anteprojeto de Implantação de Contornos Rodoviários com Manutenção por Desempenho
+
+S - 4: PROJETO E OBRAS DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS
+RODOVIÁRIOS COM MANUTENÇÃO RODOVIÁRIA POR DESEMPENHO
+P - 1: Projeto e obras de Implantação de Contornos Rodoviários com Manutenção por
+Desempenho
+S - 5: SUPERVISÃO TÉCNICA E SÓCIO AMBIENTAL DE OBRAS E SERVIÇOS
+
+P - 1: Supervisão de Apoio para as obras da SR-1 (Lote 01 - Extensão aproximada de 194 Km de
+projeto e obras recuperação e 30 km de projeto e obras de contornos rodoviários)
+P - 2: Supervisão de Apoio para as obras da SR-2 (Lote 02 - Extensão aproximada de 140 Km de
+projeto e obras de recuperação)
+S - 6: PAGAMENTO DE CONTRAPARTIDA PARA PPP RODOVIÁRIA ESTRUTURADA
+
+P - 1: Pagamento por desempenho da reconstrução e manutenção da rodovia identificada como
+possível Parceria Público Privada por parte do DER e do Governo do Estado.
+C - 2: FORTALECIMENTO INSTITUCIONAL
+
+S - 1: ESTUDOS PARA MODELAGEM DE CONCESSÃO E/OU PARCERIA PÚBLICO PRIVADA (
+PPP)
+P - 1: Modelagem de PPP ou Concessão
+
+C - 3: ADMINISTRAÇÃO
+
+S - 1: GERENCIAMENTO DO PROJETO
+
+P - 1: Apoio ao Gerenciamento
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - 1: RECUPERAÇÃO E MANUTENÇÃO DA INFRAESTRUTURA RODOVIÁRIA
+
+S - 1: ANTEPROJETO DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR
+DESEMPENHO
+P - 1: Anteprojeto e orçamento
+
+S - 2: PROJETO E OBRAS DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR
+DESEMPENHO
+P - 1: Obras de Recuperação e Manutenção por Desempenho
+
+S - 3: ANTEPROJETO DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS RODOVIÁRIOS
+URBANOS COM MANUTENÇÃO RODOVIÁRIA POR DESEMPENHO
+P - 1: Anteprojeto de Implantação de Contornos Rodoviários com Manutenção por Desempenho
+
+S - 4: PROJETO E OBRAS DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS
+RODOVIÁRIOS COM MANUTENÇÃO RODOVIÁRIA POR DESEMPENHO
+P - 1: Projeto e obras de Implantação de Contornos Rodoviários com Manutenção por
+Desempenho
+S - 5: SUPERVISÃO TÉCNICA E SÓCIO AMBIENTAL DE OBRAS E SERVIÇOS
+
+P - 1: Supervisão de Apoio para as obras da SR-1 (Lote 01 - Extensão aproximada de 194 Km de
+projeto e obras recuperação e 30 km de projeto e obras de contornos rodoviários)
+P - 2: Supervisão de Apoio para as obras da SR-2 (Lote 02 - Extensão aproximada de 140 Km de
+projeto e obras de recuperação)
+S - 6: PAGAMENTO DE CONTRAPARTIDA PARA PPP RODOVIÁRIA ESTRUTURADA
+
+P - 1: Pagamento por desempenho da reconstrução e manutenção da rodovia identificada como
+possível Parceria Público Privada por parte do DER e do Governo do Estado.
+C - 2: FORTALECIMENTO INSTITUCIONAL
+
+S - 1: ESTUDOS PARA MODELAGEM DE CONCESSÃO E/OU PARCERIA PÚBLICO PRIVADA (
+PPP)
+P - 1: Modelagem de PPP ou Concessão
+
+C - 3: ADMINISTRAÇÃO
+
+S - 1: GERENCIAMENTO DO PROJETO
+
+P - 1: Apoio ao Gerenciamento
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+7.200.000,00
+
+7.200.000,00
+
+0,00
+
+0,00
+
+1.500.000,00
+
+0,00
+
+1.500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+875.000,00
+
+525.000,00
+
+350.000,00
+
+7.000.000,00
+
+7.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+500.000,00
+
+500.000,00
+
+500.000,00
+
+0,00
+
+7.000.000,00
+
+10.075.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 7
+
+FONTES
+
+CF
+
+BIRD
+
+7.000.000,00
+
+9.575.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+7.200.000,00
+
+7.200.000,00
+
+0,00
+
+0,00
+
+1.500.000,00
+
+0,00
+
+1.500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+875.000,00
+
+525.000,00
+
+350.000,00
+
+7.000.000,00
+
+7.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+500.000,00
+
+500.000,00
+
+500.000,00
+
+0,00
+
+7.000.000,00
+
+10.075.000,00
+
+0,00
+
+0,00
+
+C - 1: RECUPERAÇÃO E MANUTENÇÃO DA INFRAESTRUTURA RODOVIÁRIA
+
+5.000.000,00
+
+9.575.000,00
+
+40.000.000,00
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+Ano 8
+
+FONTES
+
+CF
+
+BIRD
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+155.500.000,00
+
+S - 1: ANTEPROJETO DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR
+DESEMPENHO
+P - 1: Anteprojeto e orçamento
+
+S - 2: PROJETO E OBRAS DE RECUPERAÇÃO COM MANUTENÇÃO REMUNERADAS POR
+DESEMPENHO
+P - 1: Obras de Recuperação e Manutenção por Desempenho
+
+S - 3: ANTEPROJETO DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS RODOVIÁRIOS
+URBANOS COM MANUTENÇÃO RODOVIÁRIA POR DESEMPENHO
+P - 1: Anteprojeto de Implantação de Contornos Rodoviários com Manutenção por Desempenho
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.200.000,00
+
+0,00
+
+3.200.000,00
+
+7.200.000,00
+
+0,00
+
+112.000.000,00
+
+7.200.000,00
+
+0,00
+
+112.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+300.000,00
+
+300.000,00
+
+
+Página: 23
+
+S - 4: PROJETO E OBRAS DE IMPLANTAÇÃO E PAVIMENTAÇÃO DE CONTORNOS
+RODOVIÁRIOS COM MANUTENÇÃO RODOVIÁRIA POR DESEMPENHO
+P - 1: Projeto e obras de Implantação de Contornos Rodoviários com Manutenção por
+Desempenho
+S - 5: SUPERVISÃO TÉCNICA E SÓCIO AMBIENTAL DE OBRAS E SERVIÇOS
+
+P - 1: Supervisão de Apoio para as obras da SR-1 (Lote 01 - Extensão aproximada de 194 Km de
+projeto e obras recuperação e 30 km de projeto e obras de contornos rodoviários)
+P - 2: Supervisão de Apoio para as obras da SR-2 (Lote 02 - Extensão aproximada de 140 Km de
+projeto e obras de recuperação)
+S - 6: PAGAMENTO DE CONTRAPARTIDA PARA PPP RODOVIÁRIA ESTRUTURADA
+
+P - 1: Pagamento por desempenho da reconstrução e manutenção da rodovia identificada como
+possível Parceria Público Privada por parte do DER e do Governo do Estado.
+C - 2: FORTALECIMENTO INSTITUCIONAL
+
+S - 1: ESTUDOS PARA MODELAGEM DE CONCESSÃO E/OU PARCERIA PÚBLICO PRIVADA (
+PPP)
+P - 1: Modelagem de PPP ou Concessão
+
+C - 3: ADMINISTRAÇÃO
+
+S - 1: GERENCIAMENTO DO PROJETO
+
+P - 1: Apoio ao Gerenciamento
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+RISCOS /ATOS LEGAIS NECESSÁRIOS:
+
+(i) Atos Legais
+
+0,00
+
+1.500.000,00
+
+0,00
+
+33.000.000,00
+
+0,00
+
+1.500.000,00
+
+0,00
+
+33.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+5.000.000,00
+
+5.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+600.000,00
+
+600.000,00
+
+600.000,00
+
+875.000,00
+
+525.000,00
+
+0,00
+
+0,00
+
+7.000.000,00
+
+4.200.000,00
+
+350.000,00
+
+0,00
+
+2.800.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+40.000.000,00
+
+40.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.500.000,00
+
+2.500.000,00
+
+0,00
+
+2.500.000,00
+
+600.000,00
+
+4.400.000,00
+
+600.000,00
+
+4.400.000,00
+
+600.000,00
+
+4.400.000,00
+
+203.000.000,00
+
+5.600.000,00
+
+9.575.000,00
+
+40.600.000,00
+
+162.400.000,00
+
+As ações previstas no Programa serão executadas ao abrigo da legislação e regulamentação vigentes no país e no Estado, não
+necessitando ou dependendo de outros atos legais, exceto aqueles específicos relacionados às aprovações e autorizações legais
+requeridos para a celebração dos empréstimos externos com o BIRD por parte do Estado.
+
+(ii) Riscos
+
+Quanto ao risco de pagamento por parte do Estado, importante registrar que o Espírito Santo reúne condições favoráveis e reconhecidas
+pela Secretaria do Tesouro Nacional, para cumprir com os compromissos com a operação de crédito pretendida.
+
+A expertise do DER-ES na execução de empreendimentos rodoviários  assegura o empenho e interesse declarado por meio das
+providências prévias dos estudos e projetos, que demonstram o firme propósito do Governo do Estado para a realização das ações do
+Programa, não sinalizando riscos para a sua implementação.
+
+(iii) Ações mitigadoras:
+
+O Projeto, com exceção dos atos legais que não demandam de providências especiais ou específicas para a implementação das
+atividades planejadas, a não ser a  autorização legislativa para o Poder Executivo Estadual contrair o financiamento pleiteado, encontrará
+um ambiente com respaldo pelo bom relacionamento parlamentar e aceitação para o desenvolvimento socioeconômico do Estado.
+
+Os riscos e as ações mitigadoras compõem o planejamento executivo de estruturação e implementação do Programa com  o BIRD,
+levando em consideração o aprendizado em projetos desenvolvidos e/ou em desenvolvimento pelo Estado.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+RISCOS REFERENTES A CONTRATAÇÕES:
+
+(i)As contratações previstas dentro do Programa são:
+
+- Contratação de Anteprojeto de Recuperação e Manutenção por Desempenho de 355 Km de rodovias, devendo ser divididos em 02 lotes;
+
+- Contratação das Obras de Recuperação e Manutenção por Desempenho de 355 Km de rodovias, devendo ser divididos em 02 lotes;
+
+- Contratação de Anteprojeto de Implantação  e Pavimentação de Contornos Rodoviários com Manutenção Rodoviária por Desempenho;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 24
+
+- Contratação de Projeto e Obras de Implantação  e Pavimentação de Contornos Rodoviários com Manutenção Rodoviária por
+Desempenho ;
+
+- Contratação Supervisão Técnica e Sócio Ambiental de Obras e Serviços, sendo dois contratos - 1 contrato por Superintendência
+Regional;
+
+- Contratação do Consultoria para modelagem de Concessão e/ou PPP;
+
+- Contratação de Consultoria de Apoio ao Gerenciamento do Programa.
+
+(ii)Não haverá necessidade de contratação de pessoal, por parte da administração pública do estado, previamente à execução de
+quaisquer ações decorrentes do Programa.
+
+(iii) O órgão executor possui
+
+Apesar de ainda não ter realizado contratações com as políticas de aquisição do BIRD, as equipes do DER receberam treinamento  sobre
+as políticas de aquisições do BIRD em dezembro de 2022, como parte das atividades de preparação do Programa de Gestão Integrada
+das Águas e da Paisagem II.
+
+O Estado do Espírito Santo já conta com uma experiência de mais de 20 anos de parcerias bem-sucedidas com outro organismo de
+financiamento, o Banco Interamericano de Desenvolvimento, na execução dos Programas Rodoviários I, II e III, e em andamento o
+Programa IV.
+
+Os mesmos agentes (o Estado, como Mutuário, e o DER-ES, como Executor) já executaram e concluíram financiamentos anteriores,
+similar ao programa ora pretendido, com a obtenção dos respectivos resultados de forma satisfatória;
+
+(iv) e (v)Os principais riscos e medidas mitigadoras ligados as contratações são:
+
+- Risco de decisão arbitral, judicial ou administrativa que impeça ou impossibilite andamento da licitação.
+
+Ação Mitigadora: Definição de critérios claros de análise de propostas;
+
+- Risco de que não esteja disponível financiamento, nos montantes e nas condições previstas, quando a dívida e / ou o capital é exigido da
+entidade privada.
+
+Ação Mitigadora - Exigência de que todas as propostas contenham garantias quanto aos compromissos financeiros com   condições
+mínimas e facilmente realizáveis;
+
+- Risco de licitação deserta, nenhum proponente ou nenhum proponente classificado.
+
+Ação Mitigadora:Definição de parâmetros de aceitabilidade das propostas factíveis com o mercado e o serviço, além de ampla divulgação
+dos avisos de licitação;
+
+- Risco de que o projeto seja alterado pela administração após a assinatura do contrato, se alteração no projeto aumentar em demasia os
+custos da parte privada impossibilitando continuidade do contrato.
+
+Ação Mitigadora: A administração deve minimizar a chance de mudar as especificações do projeto e, para o caso de mudança, deve
+incluir cláusulas claras no contrato que garantam a recomposição do equilíbrio econômico-financeiro inicial.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+(i) Os projetos das obras ainda serão contratados, portanto, as áreas passíveis de desapropriação ainda não estão identificadas. Os atos
+de desapropriação que venham a ser necessários serão providenciados com a conclusão dos relatórios de controle ambiental e social, o
+que irá permitir antecipar providências e mitigar riscos de atrasos nas atividades de desapropriação.
+
+(ii) O DER-ES recentemente atualizou suas diretrizes para desapropriação, por meio da Norma de Procedimento - DER/ES Nº 001,
+fundamentado na Constituição Federal de 1988, Decreto-Lei 3.365 de 1941, e, Decreto Estadual Nº 3.325-R de 2013, que dispõe sobre o
+procedimento de desapropriação para implantação de obras e projetos estruturantes no âmbito do DER-ES, dando autonomia técnica para
+autarquia nessas ações. Acrescenta-se nas diretrizes do Estado o entendimento consensual quanto ao cumprimento dos requisitos
+previstos nas políticas operacionais da Instituição que venha financiar a unidade operacional ou infraestrutura a ser implantada na área
+objeto da desapropriação, no caso, as políticas do Banco Mundial.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 25
+
+(iii) As formas de compensação que serão utilizadas (indenização, bônus moradia, auxílio moradia, aluguel social, etc). O Estado irá
+cumprir as Políticas Operacionais do Banco Mundial. Tema instruído pela Procuradoria Geral do Estado.
+
+(iv) Órgãos responsável: O DER-ES possui autonomia normativa para condução das desapropriações (Decreto Estadual Nº 3.325-R de
+2013). Cabe ao DER-ES a responsabilidade pelo aporte de recursos e providenciar os pagamentos que venham a ser definidos.
+
+(v) e (vi): Riscos e ações mitigadoras:
+
+Obras de recuperação funcional de rodovias tem baixo impacto em propriedades lindeiras, sendo esse risco bem reduzido.
+
+No caso das obras de implantação de contornos rodoviários, poderá haver necessidade de desapropriações em áreas predominantemente
+rurais e desabitadas, uma vez que os traçados a serem desenvolvidos buscarão contornar os segmentos urbanos existentes.
+
+Os principais riscos ligados as desapropriações são:
+
+- Risco de não haver frentes liberadas para o contratado iniciar o empreendimento.
+
+Ação Mitigadora: Gerenciar das desapropriações de modo que ao início das obras as áreas estejam totalmente liberadas, senão for
+totalmente possível incluir a possibilidade de aditivo de prazo e reajustamento decorrente do atraso nessa atividade, e se for o caso,
+reequilíbrio.
+
+- Risco de não obter a desocupação de áreas invadidas ou já desapropriadas.
+
+Ação Mitigadora: O órgão deverá ser transparente, realizando audiências de conciliação para manter toda população afetada ciente de
+seus deveres e obrigações. Acionamento dos organismos necessários para realizar desocupação se for o caso.
+
+O DER-ES tem uma vasta experiência em processos de desapropriação e realocação e tem em sua estrutura organizacional uma unidade
+específica com profissionais capacitados para os procedimentos necessários. O órgão estabelece o planejamento de seus
+empreendimentos tendo como direcionamento busca de mecanismos para torná-las mais céleres e, ao mesmo tempo, mais justas para os
+envolvidos, garantindo-lhes compensações compatíveis com os transtornos inerentes a uma mudança forçada e, ainda, que permitam a
+sua realocação em locais dignos.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+RISCOS AMBIENTAIS
+
+(i) Situação dos licenciamentos/ autorizações requeridos:
+
+Os estudos ambientais serão desenvolvidos na fase de elaboração de Anteprojeto de Engenharia, de acordo com as disposições
+normativas estaduais, nacionais e com as salvaguardas ambientais e sociais do organismo financiador.
+
+As disposições normativas que orientam os procedimentos adotados pelo DER-ES com relação aos cuidados ambientais são constituídas
+basicamente pelos ditames da legislação vigente, pelas disposições dos Manuais, Instruções de Serviço (IS) e Especificações de Serviço (
+ES) vigentes no âmbito do DNIT e demais instrumentos específicos em vigência no DER-ES.
+
+A supervisão ambiental deverá ser realizada por meio de vistorias técnicas sistemáticas e periódicas dos trechos rodoviários em obras
+para se obter informações relativas às práticas de controle ambiental na realização dos serviços necessários à execução das obras de
+engenharia, de forma a permitir a identificação de ocorrências de impactos ambientais positivos e negativos e as conformidades e não
+conformidades ambientais. Permitirá ainda acompanhar os resultados das ações implementadas (medidas corretivas e preventivas), bem
+como verificar a necessidade de correção dos eventuais desvios detectados.
+
+O licenciamento ambiental do Instituto Estadual de Meio Ambiente e Recursos Hídricos - IEMA está previsto em leis, decretos, resoluções
+e portarias federais e estaduais, e existe para assegurar o desenvolvimento dessas atividades sem danos ao meio ambiente.
+
+As atividades de Recuperação Funcional com Conserva por Desempenho são enquadradas como de baixo impacto ambiental e o
+licenciamento é por Dispensa, conforme INSTRUÇÃO NORMATIVA IEMA Nº. 13-N, DE 30 DE DEZEMBRO DE 2021.
+
+Art. 2º Para fins de interpretação desta Instrução, entende-se por:
+
+(...)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 26
+
+XXIII - manutenção de rodovia, estradas e afins: processo sistemático e contínuo de correção para oferecer permanentemente ao usuário
+tráfego econômico, confortável e seguro, compreendendo as ações de conservação, recuperação funcional e restauração da via, com ou
+sem movimentação de areia e argila, incluindo a utilização de área de empréstimo, realizadas nos limites da sua faixa de domínio;
+
+(...)
+
+§ 1° No conceito de manutenção, estão incluídos serviços como:
+
+I - Limpeza, capina, poda e roçada da faixa de domínio;
+
+II - Remoção de barreiras de corte;
+
+III - Recomposição de aterros;
+
+IV - Estabilização de taludes de cortes e aterros;
+
+V - Limpeza, reparos, recuperação e substituição de estruturas e muros de contenção;
+
+VI - Tapa-buracos;
+
+VII - Remendos superficiais e profundos;
+
+VIII - Reparos, recomposição e substituição de amadas granulares do pavimento incluindo o revestimento da pista e dos acostamentos;
+
+IX - Reparos, substituição e implantação de dispositivos de sinalização horizontal e vertical;
+
+X - Reparos, recuperação, substituição e implantação de dispositivos de segurança;
+
+XI - Limpeza, reparos, recuperação, substituição e implantação de dispositivos de drenagem, tais como bueiros, sarjetas, canaletas, meio-
+fio, descidas dágua, entradas dágua, bocas de lobo, bocas e caixas de bueiros, dissipadores de energia, caixas de passagem, poços de
+visita e drenos;
+
+XII - Limpeza, reparos, recuperação e reabilitação de obras de arte especiais, tais como pontes, viadutos, passarelas, túneis e cortinas de
+concreto;
+
+XIII - Limpeza, reparos, recuperação ou substituição de estruturas e muros de contenção;
+
+XIV -Retificações do traçado de curvas restritas à faixa de domínio.
+
+§ 2° No conceito de melhoramento, estão incluídos serviços como:
+
+I - Alargamento da plataforma da rodovia para implantação de acostamento, terceira faixa de rolamento, ciclovia, ciclofaixa ou faixa
+multiuso (pedestre e ciclista), englobando a execução da estrutura do pavimento e, se necessário, da infraestrutura para esses serviços;
+
+II - Implantação de vias marginais em travessias urbanas;
+
+III - Implantação, substituição ou alargamento de obras de arte especiais;
+
+IV - Implantação de estruturas e muros de contenção;
+
+V - Implantação de unidades de apoio definitivas ou outras edificações necessárias à operação da via;
+
+VI - Implantação, modificação ou remanejamento de interseções e acessos;
+
+VII - Implantação de estruturas de fibra óptica a serem utilizadas para a operação rodoviária.
+
+(...)
+
+Art. 3º Estão dispensadas do licenciamento ambiental, desde que em conformidade com a presente Instrução, e que não demandem
+supressão de vegetação nativa, independente do estágio de regeneração, exceto árvores isoladas, nativas e/ou exóticas, as seguintes
+atividades:
+
+I - Manutenção, conforme descrição no inciso XXIII e no §1º do art. 2º;
+
+II - Melhoramento, conforme descrição no inciso XXIV e no §2º do art. 2º, quando em vias urbanas consolidadas;
+
+Outrossim, quando se tratam de trechos inseridos dentro de um mesmo município, mesmo se tratando de rodovia estadual, podem ser
+licenciadas por municípios devidamente habilitados conforme RESOLUÇÃO CONSEMA Nº 001, DE 14 DE MARÇO DE 2022.
+
+
+Página: 27
+
+As atividades florestais e a supressão vegetal têm seu licenciamento realizado pelo Instituto de Defesa Agropecuária e Florestal do
+Espírito Santo - IDAF.
+
+(ii) os principais riscos ambientais decorrentes da implementação do programa/projeto:
+
+Dentre os principais riscos ambientais normalmente presentes em obras rodoviárias estão: aumento de material particulado no entorno
+das obras, aumento da emissão de ruído, riscos de acidentes, risco de contaminação de solos e corpos hídricos, afugentamento de fauna,
+aumento de carreamento de materiais para rios, ocorrência de processos erosivos, aumento no tempo de viagem devido a interdições e
+desvios de tráfego, dentre outros.
+
+Todos os riscos e impactos a serem identificados durante a elaboração dos estudos e projetos serão mitigados com a elaboração e
+adoção dos instrumentos ambientais como Marcos e Planos Ambientais Sociais a serem desenvolvidos, que contarão com subprogramas
+específicos para tratamento dos riscos identificados sempre de acordo com as Salvaguardas Ambientais e sociais do Banco.
+
+Não obstante, são previstos impactos positivos, como: Melhoria das condições de acesso e mobilidade; melhoria na condição da pista de
+rolamento e sinalização com a manutenção contínua; redução de custos de transporte; aumento da renda regional e geração de empregos
+.
+
+(iii) a experiência do órgão executor com as políticas/salvaguardas ambientais do agente financeiro;
+
+A equipe órgão executor recebeu treinamento a respeito das Normas Ambientais e Sociais que integram o Quadro Ambiental e Social do
+Banco Mundial (NAS) durante a preparação de Programa de financiamento junto ao Banco Mundial e novas capacitações serão realizadas
+ao longo da preparação e implementação do Programa ora proposto.
+
+O DER-ES conta com experiência de mais de 20 anos em execução de programas internacionais na área rodoviária.
+
+(iv) e (v) Riscos e ações mitigadoras:
+
+Serão identificados na fase de elaboração de estudos e projetos de engenharia e as respectivas ações de natureza preventiva e/ou
+corretiva. Serão elaborados Marcos e Planos Ambientais do Programa, tais como: Marco de Gestão Social e Ambiental,  Plano Ambiental
+da Construção,  Planos de Gerenciamento de Resíduos, Plano de Controle de Vetores, Pragas e Fauna Nociva, Plano de recuperação de
+áreas degradadas, Plano de controle de processos erosivos, Plano de Comunicação, Planos de Ação de Emergência, Plano de Supressão
+da Vegetação, Plano de afugentamento e salvamento de flora e fauna, Plano de Gestão do Patrimônio Arqueológico e outros necessários.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+RISCOS SOCIAIS
+
+(I) riscos sociais decorrentes da implementação do programa/projeto sobre a população; minorias sociais, vulneráveis, baixa renda e
+populações tradicionais como: indígenas, quilombolas, extrativistas e outras;
+
+As intervenções propostas não se localizam em áreas de proximidades de comunidades quilombolas ou indígenas. O impacto social das
+intervenções propostas é altamente positivo. As obras propostas estão dentro das expectativas de maior prioridade da população. Os
+riscos de transtornos com a execução das obras serão mitigados com uso de boas práticas na condução e no planejamento de obras
+públicas, além de audiências públicas, comunicação e presença na equipe de obras de profissionais da área social para o
+acompanhamento e solução de problemas. Destaca-se como instrumento importante para as questões sociais, as salvaguardas do Banco
+Mundial.
+
+(ii) a experiência do órgão executor com as políticas/salvaguardas sociais do agente financeiro:
+
+A equipe órgão executor recebeu treinamento a respeito das Normas Ambientais e Sociais que integram o Quadro Ambiental e Social do
+Banco Mundial (NAS) durante a preparação de Programa de financiamento junto ao Banco Mundial e novas capacitações serão realizadas
+ao longo da preparação e implementação do Programa ora proposto.
+
+O DER-ES conta com experiência de mais de 20 anos em execução de programas internacionais na área rodoviária.
+
+(iii) e (iv) Principais riscos e ações mitigadoras:
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 28
+
+Os riscos ligados aos aspectos sociais serão identificados e avaliados durante as fases de estudos e elaboração de projetos, dentre os
+quais, em uma análise prévia, poderá estar presente:
+
+- Risco de Interferência com as comunidades lindeiras
+
+Medidas mitigadoras para minimizar os impactos dessas ações.
+
+- Divulgação de informações referentes aos benefícios das obras para as populações contempladas;
+
+- Palestras educativas visando a educação ambiental, medidas de segurança e publicidade do andamento dos serviços;
+
+- Criação de um canal de comunicação direto entre DER-ES e as comunidades afetadas;
+
+- Incentivo para o recrutamento de mão de obra local por parte das empreiteiras, incluindo cursos de capacitação e aperfeiçoamento de
+atividades, quando necessário;
+
+- Aplicação de pesquisa de satisfação
+
+Avaliar, sempre que possível, melhorias de pequena monta e com foco na segurança, como: Implantação de pavimento diferenciado,
+implantação de ponto de ônibus e implantação de redutores de velocidade (traffic calming).
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Não deverão ocorrer reassentamentos populacionais em decorrência da execução do Programa, considerando que as obras serão
+realizadas em regiões rurais.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+Informações relevantes
+
+- 11/04/2023: Recebido no SIGS, em 10/Abr/2023, a Carta-Consulta nº 60990, referente ao Programa de Manutenção Proativa do Estado
+do  Espírito  Santo,  solicitando  empréstimo/BIRD  de  US$  162.400.000,00  e  contrapartida  financeira  de  US$  40.600.000,00,  perfazendo  o
+total de US$ 203.000.000,00. 504ª GTEC/Apresentação agendada para 18/Abr/2023. (Em 11/Abr/2023)
+- 07/06/2023: Autorizado na 166ª Cofiex, em 01/06/2023, conforme Resolução Cofiex nº 26, de 01 de junho de 2023.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)

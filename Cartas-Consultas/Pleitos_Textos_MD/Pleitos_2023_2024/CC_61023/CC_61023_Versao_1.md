@@ -1,0 +1,2167 @@
+# Carta-Consulta CC_61023 — Versao 1 (SIGS)
+
+
+CARTA CONSULTA
+
+PROGRAMA BRASIL CONTRA O CRIME
+
+Nº Carta Consulta: 61023
+Mutuário: República Federativa do Brasil
+Tipo de Operação: Operação de crédito externo
+
+Fontes Internas:
+Contrapartida Financeira: US$ 3.500.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 246.500.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+Brasil ocupa o 12º lugar no tamanho do PIB (WB, 2022), mas está abaixo da mediana global e regional quanto ao respeito ao estado de
+direito (WGI, 2019). O IDH do Brasil é de 0,754 (87º lugar) com grande assimetria entre as regiões. A violência e o crime representam um
+desafio enorme para o país. O país é responsável por 20% do total de homicídios do mundo, com uma população de 2,7% dos habitantes
+do planeta (UNODC, 2020). Uma das consequências dessa violência, por exemplo, é o custo empresarial do crime e da violência, que
+mostra uma pontuação de 2,68 em 7 no Índice do Fórum Econômico Mundial (2021). Isto tem impacto na percepção dos cidadãos também
+, uma vez que 79% dos brasileiros consideram que os cidadãos não são iguais perante a lei e 23% não confiam de todo no sistema de
+justiça (Latinobarómetro, 2020).
+
+Diversos fatores estão na raiz desses problemas, como a desigualdade social e a concentração de renda em pequena parcela da
+sociedade - 1% da população mais rica recebe 48,9% da renda nacional total, enquanto a metade mais pobre possui menos de 1% da
+riqueza do país (World Inequality Lab, 2021). A baixa capacidade institucional do poder público, gerou políticas públicas pouco efetivas
+para abordar a violência e o crime.
+
+As políticas de segurança e justiça sempre estiveram referenciadas no modelo tradicional, centradas na resposta repressiva e pouco
+orientada por evidências científicas, com foco nas ações policiais reativas e uso intensivo do sistema prisional fechado. Como resultado, o
+Brasil está na posição 103 na confiabilidade dos serviços policiais (WEF-GCI, 2017) e entre os dez países com mais pessoas
+encarceradas no mundo (WPB, 2021). Ainda, o Brasil está no percentil 35º na eficácia do governo (WB-WGI, 2022).
+
+SITUAÇÃO ATUAL
+
+O principal problema a ser enfrentado hoje é a baixa capacidade institucional do Governo Federal e dos Entes Subnacionais para abordar
+de forma efetiva a violência e o crime organizado.
+
+Os problemas específicos e suas evidências, que ratificam o problema principal, são:
+
+Problema 1: Altos índices de violência letal urbana concentrada geograficamente e em populações especificas. Nos últimos 30 anos, o
+Brasil teve mais de 1,5 milhão de pessoas vítimas de homicídios (IPEA, 2023). Esses crimes são superconcentrados geograficamente:
+163 cidades do país concentram 50% das mortes violentas intencionais, 66% da letalidade policial e 36% dos feminicídios (FBSP, 2023).
+Ainda, é concentrado em grupos da população: 53% do total de vítimas de homicídios são os jovens de 15 a 29 anos (IPEA, 2021), e 77,6
+% das vítimas são negros, que também representam 84,1% das mortes decorrentes de intervenções policiais (FBSP, 2022).
+
+Problema 2: Prevalência de mercados ilegais violentos. O Brasil ocupa a posição número 22 (em 193 países) em termos de criminalidade
+organizada e a posição 87 em capacidade institucional para enfrentar esse tipo de crime (Global Organized Crime Index, 2023). No
+sistema prisional do país é forte a presença de grandes facções vinculadas ao tráfico de drogas, que exercem diferentes formas de
+controle armado e violento sobre grande parte das comunidades populares urbanas e regiões de fronteira (FBSP, 2018). Estudos relevam
+aumento no consumo abusivo de drogas e álcool, em geral, e pelas populações vulneráveis, em particular, o que gera um aumento
+constante da demanda. Entre a população jovem, o consumo de drogas ilícitas é mais que o dobro da população em geral: 7,4% dos
+jovens entre 18 e 24 anos tinham consumido algum tipo de droga no último ano e 30% dos adolescentes faziam uso de bebida alcoólica
+mensalmente (FIOCRUZ/ICICT, 2017).
+
+Entre as causas estruturais desse problema, estão os elevados níveis de informalidade da economia brasileira, que atinge 41% dos
+trabalhadores do país e 17% do PIB, os altos níveis de evasão fiscal, a extensão de fronteira que abrange 10 países, muitos deles
+grandes produtores de drogas. Essa condição da fronteira favorece a presença de diversos mercados ilegais nas regiões mais vulneráveis
+, que têm sido cada vez mais dominados por organizações criminosas violentas.
+
+Problema 3: Elevada reincidência criminal. Em junho de 2022, a população carcerária brasileira atingiu 661,9 mil pessoas, uma taxa de
+338 encarcerados a cada 100 mil habitantes, o que coloca o país na 15ª posição do mundo em termos de encarceramento (World Prison
+Brief, 2019). A reincidência no primeiro ano foi 21% e, 38,9% após 5 anos (Depen/MJ, 2022), acima de outros países como Australia,
+Estônia e Israel (Fazel e Wolf, 2015). Os baixos níveis de ressocialização estão vinculados com a alta taxa de superlotação dos presídios (
+175,82%, nos 1.456 estabelecimentos penais no país), fortemente influenciada por altos índices de prisão preventiva - 41% da população
+carcerária (CNJ, 2019). Também, condições ruins de vida, geram superlotação e impactam a incapacidade de fazer programas concretos.
+Apenas 13% dos presos trabalham e apenas 12% dos presos estudam dentro da prisão.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+Diante da situação retratada, o MJSP estruturou o PROGRAMA BRASIL CONTRA O CRIME com o objetivo de fortalecer as capacidades
+institucionais de controle e prevenção do governo Federal e modernizar suas capacidades de indução nos entes subnacionais, para
+reduzir a violência letal urbana, enfrentar a criminalidade organizada e reduzir a reincidência delitiva.
+
+As soluções a seguir estão baseadas em evidências empíricas cientificamente comprovadas, que têm demonstrado sucesso na redução
+da violência letal urbana, combate à criminalidade, mercados ilegais, organizações criminosas e redução da reincidência criminal.
+
+Componente 1: FORTALECIMENTO DAS CAPACIDADES DO GOVERNO FEDERAL. Tem por objetivo ampliar, no âmbito Federal, as
+capacidades de controle e de prevenção para reduzir a violência letal, enfrentar o crime organizado e os mercados ilegais, por meio das
+seguintes ações:
+
+
+Página: 3
+
+Subcomponente 1.1. Controle da Criminalidade: fortalecimento do Sistema Único de Segurança Pública, o aumento do volume de
+informação que o governo tem sobre Organizações Criminosas (ORCRIM) intercambiada na rede de Centros Integrados de Inteligência de
+Segurança Pública; o aumento do número de bens apreendidos/bloqueados produto do crime; e a criação de uma Política Nacional de
+Uso da Força impulsionada pelo MJSP, para a posterior adesão dos estados. As ações incluem: (i) Estruturação e Implantação do
+Programa Nacional de Enfrentamento à ORCRIM; (ii) Fortalecimento da Política Nacional de Combate à Corrupção e à Lavagem de
+Dinheiro; (iii) Revisão e aprimoramento do Sistema Único de Segurança Pública (SUSP); (iv) Implantação do Instituto Nacional de
+Segurança Pública; e, (v) Implantação do Projeto Estratégico Bodycam.
+
+Subcomponente 1.2. Prevenção da Violência e Proteção de Grupos Vulneráveis: ampliação do número de imigrantes regularizados nas
+cidades com maior concentração de migrantes; a ampliação do percentual da população alvo em programas de prevenção da violência
+nas cidades prioritárias; e o aumento da quantidade de cidades que têm Centros de Convivência implantados. Para tanto, prevê-se: (i)
+Implantação do Observatório Brasileiro de Informações sobre Drogas ? OBID; (ii) Reformulação da Política Nacional Sobre Drogas; (iii)
+Reformulação da Política Nacional Sobre Migração e Refúgio; e, (iv) Implementação de Centros de Apoio e Integração de Migrantes
+Refugiados e Apátridas.
+
+Subcomponente 1.3. Conhecimento aplicado para soluções inovadoras em Segurança e Justiça: realização de 5 pesquisas aplicadas,
+estudos, avaliações, planos e protocolos capazes de qualificar o conhecimento disponível sobre os principais problemas do crime no Brasil
+e, assim, produzir políticas mais efetivas sobre os seguintes temas: violência, uso abusivo da forca, organizações criminosas, e uso de
+drogas. Prevê também, a produção de indicadores de forma sistemática, por meio do SINESP como forma de ampliar e disseminar o
+conhecimento sobre segurança e justiça.
+
+Componente 2. FORTALECIMENTO DAS CAPACIDADES DE INDUÇÃO NOS ENTES SUBNACIONAIS. Tem por objetivo modernizar as
+competências do MJSP para induzir políticas públicas baseadas em evidências, em estados e municípios, contribuindo para que adotem
+programas e medidas com eficácia comprovada, por meio das seguintes ações:
+
+Subcomponente 2.1. Redução de crimes violentos e prevenção da violência: incremento dos equipamentos públicos voltados à inclusão
+social e ao fortalecimento comunitário nos Estados, o aumento das estratégias policiais baseadas em evidência; e, a implementação das
+diretrizes do Programa Nacional de Segurança com Cidadania -Pronasci- nos municípios prioritários. Para tanto, prevê-se a Implantação
+do Programa Município Mais Seguro.
+
+Subcomponente 2.2. Aumento da Eficácia do Sistema Prisional: ampliação do número de pessoas presas participando de programas
+cognitivo comportamentais, de atividades de emprego e educação nos estabelecimentos priorizados; a ampliação do número de egressos
+atendidos nas cidades priorizadas; e o aumento das prisões com sistema de monitoramento inteligente. Para tanto, prevê-se: (i)
+Implantação do Programa de Segurança Prisional; (ii) Ampliação do Programa de Ressocialização; e, (iii) Ampliação do Programa de
+Centrais de Atendimento a egressos.
+
+RESULTADOS ESPERADOS
+
+-Aumento do volume de informações sobre organizações criminosas, intercambiadas na rede de Centros Integrados de Inteligência de
+Segurança Pública;
+
+-Aumento do número de bens apreendidos/bloqueados;
+
+-Adesão dos estados à Política Nacional de Uso da Força impulsada pelo MJSP;
+
+-Ampliação do número de migrantes regularizados nas cidades com maior concentração;
+
+-Incremento do número de programas de prevenção, nos municípios prioritários que estejam implementando as diretrizes do Pronasci;
+
+-Incremento nas estratégias policiais baseadas em evidências, nos municípios prioritários que estejam implementando as diretrizes do
+Pronasci;
+
+-Aumento da participação de pessoas presas em atividades laborais e educacionais nos estabelecimentos priorizados;
+
+-Aumento das prisões com sistema de monitoramento inteligente implementado.
+
+SUSTENTABILIDADE
+
+A sustentabilidade do Programa se dará por meio de ações estruturadoras e permanentes e pela construção de parcerias estratégicas:
+
+-Ampliação das competências do MJSP, o que resultará em uma melhor qualificação para a gestão dos Fundos coordenados pelo MJSP e
+seu orçamento;
+
+-Estabelecimento de parcerias e aquisição de expertise no desenvolvimento e validação de Programas Baseados em Evidências;
+
+-Elaboração de planos estratégicos nas diferentes áreas do MJSP, buscando maior efetividade e capacidade de indução da política;
+
+
+Página: 4
+
+-Criação do Instituto Nacional de Segurança Pública e do Observatório Brasileiro de Informações sobre Drogas como estruturas
+permanentes de produção de dados e pesquisas nacionais;
+
+-Estabelecimento do Centro Nacional de Enfrentamento contra as Organizações Criminosas, da Rede Nacional de Inteligência Cibernética
+e a modernização do Sistema Nacional de Estatísticas de Segurança Pública (SINESP), além do fortalecimento da ENCCLA, da REDE-
+LAB e da RENACOR.
+
+Ainda, a previsão orçamentária para os próximos anos está sendo elaborada dentro do PPA 2024-2027. Para o MJSP, propõe-se três
+Programas Finalísticos:
+
+-N1B0-Promoção do Acesso à Justiça e da Defesa dos Direitos;
+
+-N1B1-Segurança Pública com Cidadania; e
+
+-N20B-Reconstrução da Política Nacional sobre Drogas com Foco na Promoção de Direitos e Redução de Desigualdades.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+1.3.1ORIENTAÇÕES ESTRATÉGICAS
+
+O Programa está inserido nas Orientações estratégicas do Governo Federal e constitui uma das prioridades elegidas pelo MJSP para o
+quadriênio. O plano estratégico do Ministério é orientado com foco na revisão das ações que já estão em prática pelo Governo Federal e
+que possuem vantagens comparativas de escala, abrangência e coordenação, tanto com focos preventivos como também de controle
+para o enfrentamento aos crimes prioritários. As ações previstas estão compatíveis com o Plano e a Política Nacional de Segurança e o
+Programa integra, ainda, as discussões que envolvem a elaboração do Plano Plurianual (PPA) para o período 2024-2027, conforme
+Programas Finalísticos propostos pelo MJSP indicados no item 1.2.3-Sustentabilidade.
+
+1.3.2CONTRAPARTIDA
+
+A Contrapartida do Financiamento provirá dos recursos alocados ao orçamento anual do MJSP.
+
+1.3.3TAXA DE CÂMBIO
+
+Taxa de câmbio da moeda do financiamento em relação ao REAL: US$ 4,94; e
+
+Data de referência 17/05/2023.
+
+2. Projeto
+
+### 2.1. Título
+
+
+PROGRAMA BRASIL CONTRA O CRIME
+
+
+### 2.2. Título Abreviado
+
+
+### 2.3. Mutuário
+
+
+República Federativa do Brasil
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Objetivo Geral
+
+Fortalecer as capacidades institucionais de controle e prevenção do Governo Federal e modernizar suas capacidades de indução nos
+entes subnacionais, para reduzir a violência letal urbana, enfrentar a criminalidade organizada e reduzir a reincidência delitiva.
+
+Objetivos Específicos
+
+(i)Fortalecer as capacidades institucionais do MJSP para controle da criminalidade, prevenção da violência e proteção de grupos
+vulneráveis; e,
+
+(ii)Modernizar as capacidades de indução de políticas baseadas em evidência para redução da violência letal e ampliação da eficácia do
+sistema prisional.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+
+### 2.6. Projeto/Indicadores
+
+
+Descrição
+Operações contra organizações criminosas pelo
+Governo Federal
+
+Ativos alienados, incorporados ou doados
+decorrentes da atuação da gestão de ativos de
+Secretaria Nacional de Políticas sobre Drogas e
+Gestão de Ativos
+
+Imigrantes regularizados
+
+Adesão dos Estados à Política Nacional Contra o
+Uso Abusivo da Força Policial impulsionada
+pelo Ministério
+
+Acesso a programas laborais
+
+
+### 2.7. Projeto/Componentes
+
+
+unidade
+
+unidade
+
+Unidade
+
+Fórmula de Cálculo Unidade de Medida
+Quantidade de
+operações contra
+organizações
+criminosas no ano
+Somatório [acumulado
+de bens doados no
+período + acumulado
+de bens incorporados
+a órgão público no
+período + acumulado
+de bens leiloados pela
+Senad no período]
+Número de migrantes
+regularizados no ano
+nas cidades com
+maior concentração
+de migrantes
+[(Quantidade de
+Estados aderentes à
+Política Nacional
+Contra o Uso Abusivo
+da Força Policial) / (
+Quantidade de
+Estados da Uniao)] X
+[(Detentos que têm
+acesso a programas
+de trabalho dentro das
+prisões) / (Número
+total de detentos)] X
+
+porcentagem
+
+porcentagem
+
+Linha de Base
+17,00
+
+Meta
+40,00
+
+492,00
+
+720,00
+
+0,00
+
+10.000,00
+
+0,00
+
+50,00
+
+18,00
+
+25,00
+
+Componentes
+C - COMPONENTE 1 - FORTALECIMENTO DAS CAPACIDADES DO GOVERNO FEDERAL
+S - SUBCOMPONENTE 1.1. CONTROLE DA CRIMINALIDADE.
+P - P1.1. Programa Nacional de Enfrentamento a Organizações criminosas (ORCRIM) estruturado e implantado;
+P - P1.2. Política Nacional de Combate à Corrupção e à Lavagem de Ativos fortalecida
+P - P1.3. Sistema Único de Segurança Pública revisado e implantado
+P - P1.4. Instituto Nacional de Segurança Pública implantado
+P - P1.5. Projeto Estratégico Bodycam implantado
+S - SUBCOMPONENTE 1.2.: PREVENÇÃO DA VIOLÊNCIA E PROTEÇÃO DE GRUPOS VULNERÁVEIS:
+P - P1.6. Observatório Brasileiro de Informações sobre Drogas ? OBID implantado;
+P - P1.7-Política Nacional Sobre Drogas reformulada:
+P - P1.8-Política Nacional Sobre Migração e Refúgio reformulada:
+P - P1.9-Centros de Apoio e Integração de Migrantes Refugiados e Apátridas implantados:
+S - SUBCOMPONENTE 1.3: CONHECIMENTO APLICADO PARA SOLUÇÕES INOVADORAS EM SEGURANÇA
+E JUSTIÇA
+P - P1.10-Inovações, Estudos e Pesquisas Aplicadas realizadas
+C - COMPONENTE 2 - FORTALECIMENTO DAS CAPACIDADES DE INDUÇÃO NOS ENTES SUBNACIONAIS
+S - SUBCOMPONENTE 2.1 REDUÇÃO DE CRIMES VIOLENTOS E PREVENÇÃO DA VIOLÊNCIA
+P - P2.1-Programa Município Mais Seguro implantado:
+S - SUBCOMPONENTE 2.2 AUMENTO DA EFICÁCIA DO SISTEMA PRISIONAL
+P - P2.2-Programa de Segurança Prisional implantado
+P - P2.3-Programa de Ressocialização ampliado
+P - P2.4-Programa de Centrais de Atendimento a egressos ampliado
+C - COMPONENTE 3 - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+P - PA1-Gestão do Programa
+P - PA2-Avaliação Intermediária, Final e de Impacto
+P - PA3-Auditoria
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Valor(US$)
+104.500.000,00
+84.500.000,00
+50.000.000,00
+3.000.000,00
+3.500.000,00
+4.000.000,00
+24.000.000,00
+10.000.000,00
+1.000.000,00
+4.000.000,00
+1.000.000,00
+4.000.000,00
+10.000.000,00
+
+10.000.000,00
+142.000.000,00
+100.000.000,00
+100.000.000,00
+42.000.000,00
+10.000.000,00
+14.000.000,00
+18.000.000,00
+3.500.000,00
+1.500.000,00
+1.000.000,00
+1.000.000,00
+250.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - COMPONENTE 1 - FORTALECIMENTO DAS CAPACIDADES DO GOVERNO FEDERAL
+Subcomponente 1.1. Controle da Criminalidade.
+
+
+Página: 6
+
+P1.1. Programa Nacional de Enfrentamento a Organizações criminosas (ORCRIM) estruturado e implantado;
+P1.2. Política Nacional de Combate à Corrupção e à Lavagem de Ativos fortalecida;
+P1.3. Sistema Único de Segurança Pública revisado e implantado;
+P1.4. Instituto Nacional de Segurança Pública implantado; e
+P1.5. Projeto Estratégico Bodycam implantado.
+
+S - SUBCOMPONENTE 1.1. CONTROLE DA CRIMINALIDADE.
+Subcomponente 1.1. Controle da Criminalidade.
+P1.1. Programa Nacional de Enfrentamento a Organizações criminosas (ORCRIM) estruturado e implantado;
+P1.2. Política Nacional de Combate à Corrupção e à Lavagem de Ativos fortalecida;
+P1.3. Sistema Único de Segurança Pública revisado e implantado;
+P1.4. Instituto Nacional de Segurança Pública implantado; e
+P1.5. Projeto Estratégico Bodycam implantado.
+
+P - P1.1. Programa Nacional de Enfrentamento a Organizações criminosas (ORCRIM) estruturado e implantado;
+P1.1-Programa Nacional de Enfrentamento a Organizações criminosas (ORCRIM) estruturado e implantado:
+Este produto é composto das seguintes ações que levarão ao atingimento das metas adiante especificadas: (i) estruturação de
+Centro Nacional de Enfrentamento contra as organizações criminosas; (ii) construção de Rede Nacional de Inteligência Cibernética
+; (iii) incremento da estrutura de fiscalização nas fronteiras; (iv) integração das bases de dados; (v) aquisição de equipamentos e
+soluções de informáticas voltadas para investigação e análise da atuação do crime organizado; (vi) fortalecimento de redes
+institucionais de combate às organizações criminosas; (vii) capacitação permanente dos agentes de segurança pública, sobre
+enfrentamento a organizações criminosas; e (viii) implementação da Rede Nacional de Entorpecente.
+
+Metas: 01 Centro Nacional de Enfrentamento contra as Organizações criminosas; 01 Rede Nacional de Inteligência Cibernética; 06
+estruturas de fiscalização nas fronteiras; 01 programa de capacitação para análise estratégica com foco em organizações
+criminosas; 01 Rede Nacional de Entorpecente implantada.
+
+P - P1.2. Política Nacional de Combate à Corrupção e à Lavagem de Ativos fortalecida
+P1.2-Política Nacional de Combate à Corrupção e à Lavagem de Dinheiro fortalecida:
+Este produto é composto das seguintes ações que levarão ao atingimento das metas adiante especificadas: (i) governança e
+fortalecimento da Estratégia Nacional de Combate à Corrupção e à Lavagem de Dinheiro (ENCCLA); (ii) modernização das
+unidades da Rede Nacional de Laboratórios de Tecnologia contra Lavagem de Dinheiro (REDE-LAB); e (iii) modernização das
+unidades da Rede Nacional de Polícias Judiciárias no Combate à Corrupção (RENACCOR).
+
+Metas: 01 Modelo de Governança da ENCCLA; 62 unidades da Rede Nacional de Laboratórios de Tecnologia contra Lavagem de
+Dinheiro (REDE-LAB) modernizadas; e 26 unidades da Rede Nacional de Polícias Judiciárias no Combate à Corrupção (
+RENACCOR) modernizadas.
+
+P - P1.3. Sistema Único de Segurança Pública revisado e implantado
+P1.3-Sistema Único de Segurança Pública revisado e aprimorado:
+Este produto é composto das seguintes ações que levarão ao atingimento das metas adiante especificadas: (i) modelagem da
+governança do Sistema Único de Segurança Pública (SUSP); (ii) modelagem da governança financeira do SUS; e (iii) Painel
+Nacional de Monitoramento de Planos no SUSP.
+
+Metas: 01 mecanismo de governança do SUSP aprimorado; 01 mecanismo de governança financeira melhorado; e 01 Painel
+Nacional de Monitoramento de Planos no SUSP.
+
+P - P1.4. Instituto Nacional de Segurança Pública implantado
+P1.4-Instituto Nacional de Segurança Pública implantado:
+Este produto é composto das seguintes ações que levarão ao atingimento das metas adiante especificadas: (i) criação do Instituto
+Nacional de Segurança Pública; (ii) programa de capacitação para os profissionais de segurança pública (módulos presenciais e
+online); e (iii) plano de implementação da nova matriz curricular nacional para profissionais e gestores de segurança.
+
+Metas: 01 Instituto criado; 03 pesquisas nacionais de vitimização realizadas; 01 programa de capacitação para os profissionais do
+SUSP implementado (módulos presenciais e online); 01 plano de implementação da nova matriz curricular nacional para
+profissionais e gestores de segurança pública executado.
+
+P - P1.5. Projeto Estratégico Bodycam implantado
+P1.5-Projeto Estratégico Bodycam implantado:
+Este produto é composto das seguintes ações que levarão ao atingimento das metas adiante especificadas: (i)  implantação de
+uma Política Nacional de Uso da Força; (ii) a utilização de câmeras nos uniformes das Polícias Federais; e (iii) capacitação para
+redução do uso abusivo da força, além de simuladores de formação.
+
+Metas: 100% das forças policiais federais com utilização de câmeras nos uniformes; 01 protocolo de atuação nacional para uso da
+forca; e 01 plano de treinamento para redução do uso abusivo da força.
+
+S - SUBCOMPONENTE 1.2.: PREVENÇÃO DA VIOLÊNCIA E PROTEÇÃO DE GRUPOS VULNERÁVEIS:
+Subcomponente 1.2.: Prevenção da Violência e Proteção de Grupos Vulneráveis:
+P1.6. Observatório Brasileiro de Informações sobre Drogas ? OBID implantado;
+
+
+Página: 7
+
+P1.7. Política Nacional Sobre Drogas reformulada;
+P1.8. Política Nacional Sobre Migração e Refúgio reformulada; e
+P1.9. Centros de Apoio e Integração de Migrantes Refugiados e Apátridas implantados.
+
+P - P1.6. Observatório Brasileiro de Informações sobre Drogas ? OBID implantado;
+P1.6-Observatório Brasileiro de Informações sobre Drogas ? OBID implantado:
+Este produto é composto das seguintes ações que levarão ao atingimento das metas adiante especificadas: (i) construção da
+infraestrutura virtual do Observatório Brasileiro de Informações sobre Drogas; (ii) implantação de sistema de informação para a
+política de drogas; (iii) manutenção da plataforma e conexão com outros observatórios de drogas de outros países; e (iv)
+financiamento de pesquisas nacionais e internacionais relacionadas à temática de drogas.
+
+Metas: 01 Observatório Brasileiro de Informações sobre Drogas implantado; 01 Sistema de informação para a política de drogas
+desenvolvido; 01 pesquisa nacional de prevalência de álcool e outras drogas na população em geral; 02 pesquisas nacionais sobre
+prevalência de álcool e outras drogas em estudantes; e 02 pesquisas nacionais sobre prevalência de álcool e outras drogas em
+universitários.
+
+P - P1.7-Política Nacional Sobre Drogas reformulada:
+P1.7-Política Nacional Sobre Drogas reformulada:
+Este produto é composto das seguintes ações que levarão ao atingimento das metas adiante especificadas: (i) implementação de
+programas de prevenção baseados em evidências em municípios prioritários; (ii) estratégia nacional voltada às pessoas em
+situação de rua no âmbito da política sobre drogas; (iii) diagnóstico situacional sobre os atores envolvidos na Política sobre drogas
+nos estados, DF e/ou regiões metropolitanas  das Capitais e construção e apoio a fluxos entre o sistema de justiça e a rede de
+proteção social para encaminhamentos; e (iv) processos formativos para atores no campo da justiça e da proteção social para o
+atendimento em liberdade de pessoas em situação de exclusão social e com demandas relacionadas ao uso abusivo de drogas.
+
+Metas: 100 municípios nos 26 Estados e Distrito Federal com Programa Famílias Fortes e Programa Elos - Construindo Coletivos
+implantado; 50 municípios de 6 Estados com Programa #Tamojunto e Comunidades que Cuidam implantado; 01 diagnóstico
+situacional sobre os atores envolvidas na política sobre drogas; 01 processo formativo para atores no campo da justiça e proteção
+social.
+
+P - P1.8-Política Nacional Sobre Migração e Refúgio reformulada:
+P1.8-Política Nacional Sobre Migração e Refúgio reformulada:
+Este produto é composto das seguintes ações que levarão ao atingimento das metas adiante especificadas: (i) criação e
+implantação de uma nova política migratória; (ii) elaboração de um plano de luta contra o tráfico de pessoas; e (iii) regularização
+migratória através do trabalho.
+
+Metas: 01 política migratória revisada e implantada; 01 plano de luta contra o tráfico de pessoas.
+
+P - P1.9-Centros de Apoio e Integração de Migrantes Refugiados e Apátridas implantados:
+P1.9-Centros de Apoio e Integração de Migrantes Refugiados e Apátridas implantados:
+Este produto é composto das seguintes ações que levarão ao atingimento das metas adiante especificadas: (i) construção de
+Centros Nacionais de Apoio e integração de Migrantes, Refugiados e Apátridas.
+
+Meta: 03 centros de apoio e integração social construídos.
+
+S - SUBCOMPONENTE 1.3: CONHECIMENTO APLICADO PARA SOLUÇÕES INOVADORAS EM SEGURANÇA E JUSTIÇA
+P1.10. Inovações, Estudos e Pesquisas Aplicadas realizadas.
+
+P - P1.10-Inovações, Estudos e Pesquisas Aplicadas realizadas
+P1.10-Inovações, Estudos e Pesquisas Aplicadas realizadas:
+Este produto é composto das seguintes ações que levarão ao atingimento das metas adiante especificadas: Pesquisas, estudos e
+protocolos capazes de qualificar o conhecimento disponível sobre os problemas principais desse Programa.
+
+Metas: 2 Pesquisas Nacionais de Vitimização; 3 Pesquisas Nacionais sobre Drogas; 02 Planos Estratégicos (SENASP e SUSP)
+atualizados; 01 Diagnóstico do abuso de drogas em populações indígenas e tradicionais; 01 Pesquisa Nacional sobre Alternativas
+Penais; 01 diagnóstico, planejamento e monitoramento do processo de migração da plataforma de TI do SINESP; estudo para
+subsidiar a criação do Observatório Brasileiro de Informações sobre Drogas; estudo para subsidiar a ampliação do Pronasci;
+estudos para subsidiar o direcionamento das políticas e estratégias existentes de combate ao crime organizado; estudo sobre
+lavagem de dinheiro e recuperação de ativos em nível internacional; estudos para formular política nacional de uso da força.
+
+C - COMPONENTE 2 - FORTALECIMENTO DAS CAPACIDADES DE INDUÇÃO NOS ENTES SUBNACIONAIS
+Subcomponente 2.1 Redução de crimes violentos e prevenção da violência:
+P2.1-Programa Município Mais Seguro implantado.
+
+Subcomponente 2.2 Aumento da Eficácia do Sistema Prisional:
+P2.2-Programa de Segurança Prisional implantado;
+P2.3-Programa de Ressocialização ampliado; e
+P2.4-Programa de Centrais de Atendimento a egressos ampliado.
+
+
+Página: 8
+
+S - SUBCOMPONENTE 2.1 REDUÇÃO DE CRIMES VIOLENTOS E PREVENÇÃO DA VIOLÊNCIA
+Subcomponente 2.1 Redução de crimes violentos e prevenção da violência:
+P2.1-Programa Município Mais Seguro implantado:
+
+P - P2.1-Programa Município Mais Seguro implantado:
+P2.1-Programa Município Mais Seguro implantado:
+Este produto é composto das seguintes ações que levarão ao atingimento das metas adiante especificadas: (i) Equipamentos
+públicos voltados à inclusão social e ao fortalecimento comunitário, que desenvolvam políticas intersetoriais baseadas em
+evidência para fortalecer cultura de paz e de prevenção de delitos nos municípios com maiores índices de violência no país (
+COMPAZ); (ii) municípios prioritários implementando as diretrizes do Pronasci; (iii) Estrutura de governança e metas do PRONASCI
+implantada; (iv) equipes regionais de coordenação do Programa implantados; (v) programa piloto de prevenção em escolas; e (vi)
+programas contra a violência doméstica e contra população LGBTQIA+ baseados para fortalecimento da Patrulha Maria da Penha
+implantados.
+
+Metas: 18 Compaz implantados; 50 municípios implantando programas de prevenção e estratégias policiais baseadas em
+evidências; 01 Modelo de governança do PRONASCI implantado, 06 equipes regionais de coordenação do programa, por região
+do país, implantados; 01 projeto piloto de prevenção em escolas, 01 projeto piloto de combate à violência doméstica baseado em
+evidência implantado, 01 projeto piloto de combate à violência contra mulheres e população LGBTQIA+ baseado em evidência
+implantado.
+
+S - SUBCOMPONENTE 2.2 AUMENTO DA EFICÁCIA DO SISTEMA PRISIONAL
+Subcomponente 2.2 Aumento da Eficácia do Sistema Prisional:
+P2.2-Programa de Segurança Prisional implantado;
+P2.3-Programa de Ressocialização ampliado; e
+P2.4-Programa de Centrais de Atendimento a egressos ampliado.
+
+P - P2.2-Programa de Segurança Prisional implantado
+P2.2-Programa de Segurança Prisional implantado:
+Este produto é composto das seguintes ações que levarão ao atingimento das metas adiante especificadas: (i) a instalação de
+Sistema de Inteligência e Segurança Penitenciária; e (ii) implementação de 05 Centros de Serviços para Pessoas Custodiadas.
+Metas: 230 unidades penitenciárias estratégica com sistemática de Monitoramento Inteligente da Integração Penitenciária
+implantada; 5 Centros de Serviços para Pessoas Custodiadas implementados.
+P2.3-Programa de Ressocialização ampliado:
+Este produto é composto das seguintes ações que levarão ao atingimento das metas adiante especificadas: (i) estruturação do
+Centro Regional de Reintegração social; (ii) implantação do Sistema de Redução da reincidência criminal baseada em evidências
+seguindo o modelo Risco-Necessidade-Reincidência; (iii) implementação de ações de fortalecimento dos centros de atendimento
+para prevenir a reincidência; (iv) fortalecimento de iniciativas de trabalho e renda nas prisões; e (v) estruturação de programa de
+educação formal para detentos.
+Metas: 04 Centros Regionais de Reintegração Social; 01 Sistema de Redução da reincidência criminal baseada em evidências no
+modelo RNR implantado; 27 estúdios de EAD implantados; 400 Fábricas de blocos de concreto construídas.
+
+P - P2.3-Programa de Ressocialização ampliado
+P2.3-Programa de Ressocialização ampliado:
+Este produto é composto das seguintes ações que levarão ao atingimento das metas adiante especificadas: (i) estruturação do
+Centro Regional de Reintegração social; (ii) implantação do Sistema de Redução da reincidência criminal baseada em evidências
+seguindo o modelo Risco-Necessidade-Reincidência; (iii) implementação de ações de fortalecimento dos centros de atendimento
+para prevenir a reincidência; (iv) fortalecimento de iniciativas de trabalho e renda nas prisões; e (v) estruturação de programa de
+educação formal para detentos.
+Metas: 04 Centros Regionais de Reintegração Social; 01 Sistema de Redução da reincidência criminal baseada em evidências no
+modelo RNR implantado; 27 estúdios de EAD implantados; 400 Fábricas de blocos de concreto construídas.
+
+P - P2.4-Programa de Centrais de Atendimento a egressos ampliado
+P2.4-Programa de Centrais de Atendimento a egressos ampliado:
+Este produto é composto das seguintes ações que levarão ao atingimento das metas adiante especificadas: Implantação de
+Centrais Especializadas para atendimento aos egressos, ampliando o serviço prestado.
+Metas: 05 Centrais Especializadas para atendimento aos egressos.
+
+C - COMPONENTE 3 - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+COMPONENTE 3 - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+PA1-Gestão do Programa;
+PA2-Avaliação Intermediária, Final e de Impacto; e,
+PA3-Auditoria.
+
+P - PA1-Gestão do Programa
+Realizar gestão do programa.
+
+P - PA2-Avaliação Intermediária, Final e de Impacto
+Realizar avaliações intermediárias, final e de impacto.
+
+
+Página: 9
+
+P - PA3-Auditoria
+Realizar auditoria na execução do programa.
+
+Categoria de Gasto
+
+Outros
+P- P1.1. Programa Nacional de Enfrentamento a
+Organizações criminosas (ORCRIM) estruturado e
+implantado;
+P- P1.2. Política Nacional de Combate à
+Corrupção e à Lavagem de Ativos fortalecida
+P- P1.3. Sistema Único de Segurança Pública
+revisado e implantado
+P- P1.4. Instituto Nacional de Segurança Pública
+implantado
+P- P1.5. Projeto Estratégico Bodycam implantado
+P- P1.6. Observatório Brasileiro de Informações
+sobre Drogas ? OBID implantado;
+P- P1.7-Política Nacional Sobre Drogas
+reformulada:
+P- P1.8-Política Nacional Sobre Migração e
+Refúgio reformulada:
+P- P1.9-Centros de Apoio e Integração de
+Migrantes Refugiados e Apátridas implantados:
+P- P1.10-Inovações, Estudos e Pesquisas
+Aplicadas realizadas
+P- P2.1-Programa Município Mais Seguro
+implantado:
+P- P2.2-Programa de Segurança Prisional
+implantado
+P- P2.3-Programa de Ressocialização ampliado
+P- P2.4-Programa de Centrais de Atendimento a
+egressos ampliado
+P- PA1-Gestão do Programa
+P- PA2-Avaliação Intermediária, Final e de
+Impacto
+P- PA3-Auditoria
+Total Geral
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+PROJETO/ETAPAS REALIZADAS
+
+Unidade de medida
+-
+
+
+-
+
+Meta
+
+Valor
+
+% Financeiro
+
+-
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+1,00
+
+1,00
+1,00
+
+1,00
+-
+
+250.000.000,00
+50.000.000,00
+
+100,00
+20,00
+
+3.000.000,00
+
+3.500.000,00
+
+4.000.000,00
+
+24.000.000,00
+1.000.000,00
+
+4.000.000,00
+
+1.000.000,00
+
+4.000.000,00
+
+10.000.000,00
+
+1,20
+
+1,40
+
+1,60
+
+9,60
+0,40
+
+1,60
+
+0,40
+
+1,60
+
+4,00
+
+100.000.000,00
+
+40,00
+
+10.000.000,00
+
+14.000.000,00
+18.000.000,00
+
+1.500.000,00
+1.000.000,00
+
+1.000.000,00
+250.000.000,00
+
+4,00
+
+5,60
+7,20
+
+0,60
+0,40
+
+0,40
+100,00
+
+Dentre as várias iniciativas recentes sobre o tema da Segurança Pública, o MJSP vem desenvolvendo importantes Planos e Programas,
+sendo os dois mais relevantes, o PRONASCI e o Plano Nacional de Segurança Pública e Defesa Social 2021-2030.
+
+O PRONASCI, instituído pela Lei nº 11.530/2007, é um programa nacional de segurança pública com cidadania executado pela União em
+cooperação com Estados, Distrito Federal e Municípios. Seu objetivo é articular ações de prevenção, controle e repressão da
+criminalidade, promovendo políticas sociais, proteção às vítimas, direitos humanos, cultura de paz, desarmamento e combate a
+preconceitos. Os focos prioritários do programa são: população juvenil, jovens e adolescentes em situações específicas, regiões
+metropolitanas com altos índices de crimes violentos e combate ao crime organizado. Em março de 2023, o Decreto Nº 11.436
+estabeleceu os eixos prioritários do PRONASCI 2, que visam contribuir para as metas e ações estratégicas do Plano Nacional de
+Segurança Pública e Defesa Social 2021-2030. Esses eixos incluem políticas de enfrentamento e prevenção de violência contra as
+mulheres, segurança pública em territórios vulneráveis, cidadania com foco no trabalho e ensino para presos e egressos, apoio às vítimas
+da criminalidade, combate ao racismo estrutural e aos crimes decorrentes. Além disso, são abordadas ações estratégicas relacionadas à
+redução de homicídios, lesões corporais, mortes violentas de mulheres, aumento da participação de presos em atividades laborais e
+educacionais, melhorias na infraestrutura dos órgãos de segurança pública, capacitação e valorização dos profissionais, e prevenção e
+repressão à violência e criminalidade relacionadas a grupos vulneráveis, desaparecimento e tráfico de pessoas.
+
+O Plano Nacional de Segurança Pública e Defesa Social 2021-2030 é um conjunto de diretrizes e metas estabelecidas pelo governo
+brasileiro para promover a segurança pública e proteger a sociedade. O plano tem como principais objetivos a redução de homicídios, a
+prevenção da violência contra as mulheres, o aumento da participação de presos em atividades laborais e educacionais, a modernização
+da infraestrutura de segurança pública, a capacitação e valorização dos profissionais de segurança, e a prevenção e repressão à
+criminalidade relacionadas a grupos vulneráveis.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Nacional/Sem detalhes
+
+(cid:10)
+
+
+Página: 10
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+CONDIÇÕES FINANCEIRAS DA OPERAÇÃO (A CONFIRMAR)
+
+Prazo de desembolso: 60 meses.
+
+Prazo de carência: até 66 meses (60 + 6 de periodicidade).
+
+Prazo de amortização: no mínimo, 234 meses (limite de 240 meses).
+
+Prazo total: 300 meses.
+
+Taxa de juros: 6.22% a.a. (Taxa SOFR diária 5.06% + margem de captação 0.31% + margem de empréstimo 0.85%).
+
+Comissões sobre o saldo não desembolsado: até 0.5% a.a.
+
+NECESSIDADE DE FINANCIAMENTO EXTERNO E OPÇÃO PELO AGENTE FINANCIADOR
+
+A contratação desta operação de crédito com o Banco Interamericano de Desenvolvimento (BID) é justificada por este já ter experiência
+em projetos exitosos voltados à justiça e segurança pública no Brasil, ter desenvolvido relevantes projetos no âmbito do Governo Federal
+do Brasil e apresentar condições de prazo, carência e encargos atrativos se comparadas às condições vigentes em outros bancos
+multilaterais de desenvolvimento e disponibilizar, durante a preparação e início da implementação do projeto, acompanhamento e
+assistência técnica com fundos de doação.
+
+Aliada às condições financeiras, durante a preparação e início da implementação do projeto, o BID disponibiliza acompanhamento e
+assistência técnica com fundos de doação. O BID é um grande parceiro em projetos do Governo Federal e agrega um amplo e
+aprofundado conhecimento em temas relacionados à justiça e segurança pública. É o único Banco de Desenvolvimento com uma área
+própria de justiça e segurança pública. Tem demostrado um alto compromisso com essa área no Brasil por meio da linha de crédito PRO-
+SEGURANCA para financiar empréstimos na área de segurança pública e justiça no montante de, até, 1.2 bilhões de dólares em 10 anos.
+Além de possuir larga experiência na realização de projetos, tais como: Programa Paraná Seguro, Programa Oportunidades e Direitos no
+Rio Grande do Sul (POD), Projeto de Estado Presente: Segurança Cidadã do Espírito Santo, Programa de Expansão e Modernização do
+Sistema Penitenciário do Espírito Santo (Moderniza-ES), Programa Integrado de Prevenção e Redução de Violência (PreVio) do Estado
+do Ceará, Programa Federativo para Segurança Pública Inteligente (PROSEG Federativo) e Programa de Modernização do Poder
+Judiciário do Espirito Santo (PROMOJUES), em preparação.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+2.11PROJETO/BENEFICIÁRIOS
+
+As ações aqui previstas deverão repercutir no conjunto da sociedade brasileira como um todo, elevando seu nível de confiança no sistema
+de Justiça e Segurança Pública do país.
+
+Ainda, os grupos populacionais destacados nas ações do Programa incluem:
+
+?População vulnerável das cidades urbanas com alta concentração de crimes violentos (jovens e negros);
+
+?Comunidades tradicionais em situação de alta vulnerabilidade (indígenas);
+
+?Mulheres vítimas de violência e população LGBTQIA+;
+
+?Migrantes, Refugiados e Apátridas; e
+
+?Egressos do sistema penitenciário.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 11
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Interamericano de Desenvolvimento
+- BID
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BID
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Não se aplica
+
+4. Execução
+
+Valor Proposto
+
+3.500.000,00
+Valor Proposto
+
+246.500.000,00
+
+250.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+3.500.000,00
+Valor de Referência US
+$
+246.500.000,00
+
+250.000.000,00
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+O Ministério da Justiça e Segurança Pública (MJSP) será o órgão executor do Programa, por meio de uma Unidade de Coordenação do
+Programa (UCP), criada por Portaria do Ministro da Justiça e Segurança Pública, ou outro instrumento jurídico adequado, vinculada ao
+Gabinete do Ministro. A execução do Programa contará, ainda, com um Comitê Estratégico do Programa (CEP), que atuará como
+instância deliberativa do Programa e deverá ser integrado pela Secretaria Nacional de Segurança Pública - SENASP; Secretaria Nacional
+de Justiça - SENAJUS; Secretaria Nacional de Políticas sobre Drogas e Gestão de Ativos - SENAD; Secretaria Nacional de Políticas
+Penais - SENAPPEN; e  Secretaria de Acesso à Justiça ? SAJU) e as Assessorias Especiais -Coordenação de Direitos Digitais, e
+Coordenação do Programa Nacional de Segurança com Cidadania ? PRONASCI, integrantes do Programa.
+
+A UCP se reportará ao Ministro da Justiça e Segurança Pública e sua estrutura compreenderá as seguintes funções: (i) Coordenador
+Geral; (ii) Coordenador Administrativo Financeiro; (iii) Coordenador Técnico; (iv) Assessor de Planejamento, Monitoramento e Avaliação; (v
+) Assessor de Aquisições; e (vi) Líderes de produtos.
+
+A execução do Programa dar-se-á pelas equipes dos Produtos que terá um líder formalmente instituído e sua equipe de execução e
+articulação das ações. A integração entre os projetos no âmbito do Programa será realizada pela unidade de coordenação em atuação
+conjunta com as equipes responsáveis.
+
+O Programa contará com uma Norma Operacional que trará as diretrizes gerais para execução do programa, bem como detalhará as
+atribuições dos membros da UCP.
+
+A Matriz de Responsabilidade do Projeto descreve as principais competências de cada um dos atores envolvidos na execução do Projeto,
+por área de intervenção, e compõe o ANEXO TÉCNICO 2 da versão eletrônica da Carta Consulta.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Ministério da Justiça e Segurança Pública- MJSP
+
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+COMPONENTES
+
+C - COMPONENTE 1 - FORTALECIMENTO DAS CAPACIDADES DO GOVERNO FEDERAL
+
+S - SUBCOMPONENTE 1.1. CONTROLE DA CRIMINALIDADE.
+
+P - P1.1. Programa Nacional de Enfrentamento a Organizações criminosas (ORCRIM)
+estruturado e implantado;
+P - P1.2. Política Nacional de Combate à Corrupção e à Lavagem de Ativos fortalecida
+
+P - P1.3. Sistema Único de Segurança Pública revisado e implantado
+
+P - P1.4. Instituto Nacional de Segurança Pública implantado
+
+P - P1.5. Projeto Estratégico Bodycam implantado
+
+S - SUBCOMPONENTE 1.2.: PREVENÇÃO DA VIOLÊNCIA E PROTEÇÃO DE GRUPOS
+VULNERÁVEIS:
+P - P1.6. Observatório Brasileiro de Informações sobre Drogas ? OBID implantado;
+
+P - P1.7-Política Nacional Sobre Drogas reformulada:
+
+P - P1.8-Política Nacional Sobre Migração e Refúgio reformulada:
+
+P - P1.9-Centros de Apoio e Integração de Migrantes Refugiados e Apátridas implantados:
+
+VALOR
+
+CUSTO
+104.500.000,00
+
+84.500.000,00
+
+50.000.000,00
+
+3.000.000,00
+
+3.500.000,00
+
+4.000.000,00
+
+24.000.000,00
+
+10.000.000,00
+
+1.000.000,00
+
+4.000.000,00
+
+1.000.000,00
+
+4.000.000,00
+
+Fax:
+UF:
+
+Ano 1
+
+FONTES
+
+CF
+
+BID
+
+27.750.000,00
+
+23.000.000,00
+
+10.000.000,00
+
+1.000.000,00
+
+1.000.000,00
+
+2.000.000,00
+
+9.000.000,00
+
+2.750.000,00
+
+250.000,00
+
+1.000.000,00
+
+500.000,00
+
+1.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+(cid:10)
+
+
+Página: 12
+
+S - SUBCOMPONENTE 1.3: CONHECIMENTO APLICADO PARA SOLUÇÕES INOVADORAS EM
+SEGURANÇA E JUSTIÇA
+P - P1.10-Inovações, Estudos e Pesquisas Aplicadas realizadas
+
+C - COMPONENTE 2 - FORTALECIMENTO DAS CAPACIDADES DE INDUÇÃO NOS ENTES
+SUBNACIONAIS
+S - SUBCOMPONENTE 2.1 REDUÇÃO DE CRIMES VIOLENTOS E PREVENÇÃO DA VIOLÊNCIA
+
+P - P2.1-Programa Município Mais Seguro implantado:
+
+S - SUBCOMPONENTE 2.2 AUMENTO DA EFICÁCIA DO SISTEMA PRISIONAL
+
+P - P2.2-Programa de Segurança Prisional implantado
+
+P - P2.3-Programa de Ressocialização ampliado
+
+P - P2.4-Programa de Centrais de Atendimento a egressos ampliado
+
+C - COMPONENTE 3 - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+
+P - PA1-Gestão do Programa
+
+P - PA2-Avaliação Intermediária, Final e de Impacto
+
+P - PA3-Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - COMPONENTE 1 - FORTALECIMENTO DAS CAPACIDADES DO GOVERNO FEDERAL
+
+S - SUBCOMPONENTE 1.1. CONTROLE DA CRIMINALIDADE.
+
+P - P1.1. Programa Nacional de Enfrentamento a Organizações criminosas (ORCRIM)
+estruturado e implantado;
+P - P1.2. Política Nacional de Combate à Corrupção e à Lavagem de Ativos fortalecida
+
+P - P1.3. Sistema Único de Segurança Pública revisado e implantado
+
+P - P1.4. Instituto Nacional de Segurança Pública implantado
+
+P - P1.5. Projeto Estratégico Bodycam implantado
+
+S - SUBCOMPONENTE 1.2.: PREVENÇÃO DA VIOLÊNCIA E PROTEÇÃO DE GRUPOS
+VULNERÁVEIS:
+P - P1.6. Observatório Brasileiro de Informações sobre Drogas ? OBID implantado;
+
+P - P1.7-Política Nacional Sobre Drogas reformulada:
+
+P - P1.8-Política Nacional Sobre Migração e Refúgio reformulada:
+
+P - P1.9-Centros de Apoio e Integração de Migrantes Refugiados e Apátridas implantados:
+
+S - SUBCOMPONENTE 1.3: CONHECIMENTO APLICADO PARA SOLUÇÕES INOVADORAS EM
+SEGURANÇA E JUSTIÇA
+P - P1.10-Inovações, Estudos e Pesquisas Aplicadas realizadas
+
+C - COMPONENTE 2 - FORTALECIMENTO DAS CAPACIDADES DE INDUÇÃO NOS ENTES
+SUBNACIONAIS
+S - SUBCOMPONENTE 2.1 REDUÇÃO DE CRIMES VIOLENTOS E PREVENÇÃO DA VIOLÊNCIA
+
+P - P2.1-Programa Município Mais Seguro implantado:
+
+S - SUBCOMPONENTE 2.2 AUMENTO DA EFICÁCIA DO SISTEMA PRISIONAL
+
+P - P2.2-Programa de Segurança Prisional implantado
+
+P - P2.3-Programa de Ressocialização ampliado
+
+P - P2.4-Programa de Centrais de Atendimento a egressos ampliado
+
+C - COMPONENTE 3 - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+
+P - PA1-Gestão do Programa
+
+P - PA2-Avaliação Intermediária, Final e de Impacto
+
+P - PA3-Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - COMPONENTE 1 - FORTALECIMENTO DAS CAPACIDADES DO GOVERNO FEDERAL
+
+S - SUBCOMPONENTE 1.1. CONTROLE DA CRIMINALIDADE.
+
+P - P1.1. Programa Nacional de Enfrentamento a Organizações criminosas (ORCRIM)
+estruturado e implantado;
+P - P1.2. Política Nacional de Combate à Corrupção e à Lavagem de Ativos fortalecida
+
+P - P1.3. Sistema Único de Segurança Pública revisado e implantado
+
+P - P1.4. Instituto Nacional de Segurança Pública implantado
+
+P - P1.5. Projeto Estratégico Bodycam implantado
+
+S - SUBCOMPONENTE 1.2.: PREVENÇÃO DA VIOLÊNCIA E PROTEÇÃO DE GRUPOS
+VULNERÁVEIS:
+P - P1.6. Observatório Brasileiro de Informações sobre Drogas ? OBID implantado;
+
+P - P1.7-Política Nacional Sobre Drogas reformulada:
+
+P - P1.8-Política Nacional Sobre Migração e Refúgio reformulada:
+
+P - P1.9-Centros de Apoio e Integração de Migrantes Refugiados e Apátridas implantados:
+
+S - SUBCOMPONENTE 1.3: CONHECIMENTO APLICADO PARA SOLUÇÕES INOVADORAS EM
+SEGURANÇA E JUSTIÇA
+P - P1.10-Inovações, Estudos e Pesquisas Aplicadas realizadas
+
+C - COMPONENTE 2 - FORTALECIMENTO DAS CAPACIDADES DE INDUÇÃO NOS ENTES
+SUBNACIONAIS
+
+10.000.000,00
+
+0,00
+
+2.000.000,00
+
+10.000.000,00
+
+142.000.000,00
+
+100.000.000,00
+
+100.000.000,00
+
+42.000.000,00
+
+10.000.000,00
+
+14.000.000,00
+
+18.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.000.000,00
+
+33.400.000,00
+
+25.000.000,00
+
+25.000.000,00
+
+8.400.000,00
+
+2.000.000,00
+
+2.800.000,00
+
+3.600.000,00
+
+3.500.000,00
+
+500.000,00
+
+1.500.000,00
+
+300.000,00
+
+1.000.000,00
+
+0,00
+
+1.000.000,00
+
+200.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+500.000,00
+
+61.150.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+BID
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+750.000,00
+
+300.000,00
+
+250.000,00
+
+200.000,00
+
+27.000.000,00
+
+22.250.000,00
+
+10.000.000,00
+
+750.000,00
+
+1.000.000,00
+
+1.500.000,00
+
+9.000.000,00
+
+2.750.000,00
+
+250.000,00
+
+1.000.000,00
+
+500.000,00
+
+1.000.000,00
+
+2.000.000,00
+
+2.000.000,00
+
+33.400.000,00
+
+25.000.000,00
+
+25.000.000,00
+
+8.400.000,00
+
+2.000.000,00
+
+2.800.000,00
+
+3.600.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+750.000,00
+
+60.400.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+BID
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+17.750.000,00
+
+13.500.000,00
+
+10.000.000,00
+
+500.000,00
+
+500.000,00
+
+500.000,00
+
+2.000.000,00
+
+2.250.000,00
+
+250.000,00
+
+1.000.000,00
+
+0,00
+
+1.000.000,00
+
+2.000.000,00
+
+2.000.000,00
+
+33.400.000,00
+
+
+Página: 13
+
+S - SUBCOMPONENTE 2.1 REDUÇÃO DE CRIMES VIOLENTOS E PREVENÇÃO DA VIOLÊNCIA
+
+P - P2.1-Programa Município Mais Seguro implantado:
+
+S - SUBCOMPONENTE 2.2 AUMENTO DA EFICÁCIA DO SISTEMA PRISIONAL
+
+P - P2.2-Programa de Segurança Prisional implantado
+
+P - P2.3-Programa de Ressocialização ampliado
+
+P - P2.4-Programa de Centrais de Atendimento a egressos ampliado
+
+C - COMPONENTE 3 - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+
+P - PA1-Gestão do Programa
+
+P - PA2-Avaliação Intermediária, Final e de Impacto
+
+P - PA3-Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - COMPONENTE 1 - FORTALECIMENTO DAS CAPACIDADES DO GOVERNO FEDERAL
+
+S - SUBCOMPONENTE 1.1. CONTROLE DA CRIMINALIDADE.
+
+P - P1.1. Programa Nacional de Enfrentamento a Organizações criminosas (ORCRIM)
+estruturado e implantado;
+P - P1.2. Política Nacional de Combate à Corrupção e à Lavagem de Ativos fortalecida
+
+P - P1.3. Sistema Único de Segurança Pública revisado e implantado
+
+P - P1.4. Instituto Nacional de Segurança Pública implantado
+
+P - P1.5. Projeto Estratégico Bodycam implantado
+
+S - SUBCOMPONENTE 1.2.: PREVENÇÃO DA VIOLÊNCIA E PROTEÇÃO DE GRUPOS
+VULNERÁVEIS:
+P - P1.6. Observatório Brasileiro de Informações sobre Drogas ? OBID implantado;
+
+P - P1.7-Política Nacional Sobre Drogas reformulada:
+
+P - P1.8-Política Nacional Sobre Migração e Refúgio reformulada:
+
+P - P1.9-Centros de Apoio e Integração de Migrantes Refugiados e Apátridas implantados:
+
+S - SUBCOMPONENTE 1.3: CONHECIMENTO APLICADO PARA SOLUÇÕES INOVADORAS EM
+SEGURANÇA E JUSTIÇA
+P - P1.10-Inovações, Estudos e Pesquisas Aplicadas realizadas
+
+C - COMPONENTE 2 - FORTALECIMENTO DAS CAPACIDADES DE INDUÇÃO NOS ENTES
+SUBNACIONAIS
+S - SUBCOMPONENTE 2.1 REDUÇÃO DE CRIMES VIOLENTOS E PREVENÇÃO DA VIOLÊNCIA
+
+P - P2.1-Programa Município Mais Seguro implantado:
+
+S - SUBCOMPONENTE 2.2 AUMENTO DA EFICÁCIA DO SISTEMA PRISIONAL
+
+P - P2.2-Programa de Segurança Prisional implantado
+
+P - P2.3-Programa de Ressocialização ampliado
+
+P - P2.4-Programa de Centrais de Atendimento a egressos ampliado
+
+C - COMPONENTE 3 - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+
+P - PA1-Gestão do Programa
+
+P - PA2-Avaliação Intermediária, Final e de Impacto
+
+P - PA3-Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - COMPONENTE 1 - FORTALECIMENTO DAS CAPACIDADES DO GOVERNO FEDERAL
+
+S - SUBCOMPONENTE 1.1. CONTROLE DA CRIMINALIDADE.
+
+P - P1.1. Programa Nacional de Enfrentamento a Organizações criminosas (ORCRIM)
+estruturado e implantado;
+P - P1.2. Política Nacional de Combate à Corrupção e à Lavagem de Ativos fortalecida
+
+P - P1.3. Sistema Único de Segurança Pública revisado e implantado
+
+P - P1.4. Instituto Nacional de Segurança Pública implantado
+
+P - P1.5. Projeto Estratégico Bodycam implantado
+
+S - SUBCOMPONENTE 1.2.: PREVENÇÃO DA VIOLÊNCIA E PROTEÇÃO DE GRUPOS
+VULNERÁVEIS:
+P - P1.6. Observatório Brasileiro de Informações sobre Drogas ? OBID implantado;
+
+P - P1.7-Política Nacional Sobre Drogas reformulada:
+
+P - P1.8-Política Nacional Sobre Migração e Refúgio reformulada:
+
+P - P1.9-Centros de Apoio e Integração de Migrantes Refugiados e Apátridas implantados:
+
+S - SUBCOMPONENTE 1.3: CONHECIMENTO APLICADO PARA SOLUÇÕES INOVADORAS EM
+SEGURANÇA E JUSTIÇA
+P - P1.10-Inovações, Estudos e Pesquisas Aplicadas realizadas
+
+C - COMPONENTE 2 - FORTALECIMENTO DAS CAPACIDADES DE INDUÇÃO NOS ENTES
+SUBNACIONAIS
+S - SUBCOMPONENTE 2.1 REDUÇÃO DE CRIMES VIOLENTOS E PREVENÇÃO DA VIOLÊNCIA
+
+P - P2.1-Programa Município Mais Seguro implantado:
+
+S - SUBCOMPONENTE 2.2 AUMENTO DA EFICÁCIA DO SISTEMA PRISIONAL
+
+P - P2.2-Programa de Segurança Prisional implantado
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+25.000.000,00
+
+25.000.000,00
+
+8.400.000,00
+
+2.000.000,00
+
+2.800.000,00
+
+3.600.000,00
+
+750.000,00
+
+300.000,00
+
+250.000,00
+
+200.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+750.000,00
+
+51.150.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+BID
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+500.000,00
+
+300.000,00
+
+0,00
+
+200.000,00
+
+16.250.000,00
+
+13.000.000,00
+
+10.000.000,00
+
+500.000,00
+
+500.000,00
+
+0,00
+
+2.000.000,00
+
+1.250.000,00
+
+250.000,00
+
+500.000,00
+
+0,00
+
+500.000,00
+
+2.000.000,00
+
+2.000.000,00
+
+33.400.000,00
+
+25.000.000,00
+
+25.000.000,00
+
+8.400.000,00
+
+2.000.000,00
+
+2.800.000,00
+
+3.600.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+500.000,00
+
+49.650.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+BID
+
+TOTAL
+
+CF
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+15.750.000,00
+
+12.750.000,00
+
+10.000.000,00
+
+250.000,00
+
+500.000,00
+
+0,00
+
+2.000.000,00
+
+1.000.000,00
+
+0,00
+
+500.000,00
+
+0,00
+
+500.000,00
+
+2.000.000,00
+
+2.000.000,00
+
+8.400.000,00
+
+0,00
+
+0,00
+
+8.400.000,00
+
+2.000.000,00
+
+TOTAL
+
+BID
+104.500.000,00
+
+84.500.000,00
+
+50.000.000,00
+
+3.000.000,00
+
+3.500.000,00
+
+4.000.000,00
+
+24.000.000,00
+
+10.000.000,00
+
+1.000.000,00
+
+4.000.000,00
+
+1.000.000,00
+
+4.000.000,00
+
+10.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+10.000.000,00
+
+0,00
+
+142.000.000,00
+
+0,00
+
+100.000.000,00
+
+0,00
+
+100.000.000,00
+
+0,00
+
+0,00
+
+42.000.000,00
+
+10.000.000,00
+
+
+Página: 14
+
+P - P2.3-Programa de Ressocialização ampliado
+
+P - P2.4-Programa de Centrais de Atendimento a egressos ampliado
+
+C - COMPONENTE 3 - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+
+P - PA1-Gestão do Programa
+
+P - PA2-Avaliação Intermediária, Final e de Impacto
+
+P - PA3-Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+0,00
+
+0,00
+
+2.800.000,00
+
+3.600.000,00
+
+0,00
+
+0,00
+
+14.000.000,00
+
+18.000.000,00
+
+1.000.000,00
+
+300.000,00
+
+500.000,00
+
+200.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.500.000,00
+
+1.500.000,00
+
+1.000.000,00
+
+1.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+250.000.000,00
+
+1.000.000,00
+
+24.150.000,00
+
+3.500.000,00
+
+246.500.000,00
+
+As contratações necessárias para a implementação das soluções propostas no PROMOSEJU serão realizadas com base nas Leis
+Federais n° 8.666/1993 e 14.133/2021, bem como em observância ao regramento previsto pelo BID.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+5.2RISCOS/CONTRATAÇÕES
+
+As contratações necessárias para a implementação das soluções propostas no PROMOSEJU serão realizadas com base nas Leis
+Federais n° 8.666/1993 e 14.133/2021, bem como em observância ao regramento previsto pelo BID.
+
+O Quadro 1, A seguir os principais riscos relacionados às contratações, que foram identificados, e as correspondentes ações mitigatórias.
+
+(RISCO/ AÇÃO MITIGATÓRIA) - RESPECTIVAMENTE
+
+Atraso no processo licitatório/ Revisão criteriosa dos documentos da contratação e negociação prévia dos prazos com a Comissão de
+Licitação.
+
+Processo de aquisição resultar em licitação deserta/ Realização de pesquisa de mercado e levantamento do máximo de referências sobre
+os possíveis fornecedores.
+
+Projeto básico incompleto ou inadequado/ Revisão criteriosa dos documentos da contratação e capacitação prévia das equipes
+responsáveis pela elaboração das documentações.
+
+Limitação indevida da competição/ Revisão criteriosa dos requisitos elencados no Termo de Referência.
+
+Descumprimento de cláusulas contratuais devido à situação financeira da empresa contratada/ Adoção de critérios de seleção adequados.
+
+Gestão contratual conduzida sem estabelecimento de processo de trabalho padronizado/ Padronizar processo de trabalho para
+contratação em toda a organização, visando aprimorar a etapa de gestão contratual.
+
+Descontinuidade da solução contratada/ Adoção de critérios que inviabilizem a adoção de solução obsoleta ou próximo da obsolescência.
+
+Não gestão do contrato segundo as regras nele contidas/ Revisão criteriosa do Edital e das atas de registro de preço de outras instituições
+.
+
+Impossibilidade de aplicação de penalidades necessárias durante a execução do contrato/ Melhor especificação das cláusulas de
+penalidades no edital para comportamentos inadequados dos licitantes.
+
+Dependência excessiva em relação à contratada/ Revisão dos artefatos do processo de contratação para inclusão de procedimentos
+relativos à transferência de conhecimentos, como reuniões mensais, oficinas e treinamentos, bem como os produtos esperados desses
+procedimentos.
+
+Fiscalização inadequada dos contratos/ Realização de capacitação e formação continuada de servidores para as funções de gestor e
+fiscal de contratos.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 15
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+RISCOS/IMPACTO SOCIAL
+
+Impacto Social Positivo
+
+O processo de fortalecimento da capacidade e aperfeiçoamento da governança institucional pelo qual passará o MJSP impactará
+diretamente no aumento da eficiência da prestação dos serviços de justiça e segurança pública, sobretudo no que tange à elaboração de
+políticas públicas de combate à violência, às drogas e ao crime organizado.
+
+Com isso, espera-se uma redução nas taxas de homicídios e feminicídios; redução da letalidade das forças policiais; redução da taxa de
+desmatamento ilegal; incremento na apreensão de drogas; e redução da incidência criminal.
+
+Importante, registrar que o Programa se alinha com os Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030 da ONU,
+particularmente com o objetivo número 16 - Paz, Justiça e Instituições eficazes, ao buscar contribuir na construção de uma sociedade
+mais pacífica e inclusiva.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)

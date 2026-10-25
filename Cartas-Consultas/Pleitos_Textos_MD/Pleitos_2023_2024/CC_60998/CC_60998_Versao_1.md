@@ -1,0 +1,2671 @@
+# Carta-Consulta CC_60998 — Versao 1 (SIGS)
+
+
+Projeto do Estado de São Paulo -  Obras Civis da Expansão da Linha 2-Verde
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 60998
+Mutuário: Estado de São Paulo
+Tipo de Operação: Operação de crédito externo
+
+Fontes Internas:
+Contrapartida Financeira: US$ 75.000.000,00
+Fontes Externas:
+Corporação Andina de Fomento - CAF: US$ 300.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+A rede de transporte sobre trilhos tem um papel estratégico na estruturação da mobilidade urbana da Região Metropolitana de São Paulo (
+RMSP), composta pela capital e 38 municípios com aproximadamente 21 milhões de habitantes. Dada sua relevância estratégica, o
+Projeto da Linha 2-Verde foi referendado no Novo PAC como projeto de interesse nacional, conforme Resolução CGPAC nº 1 de 19/12/
+2023, publicada no D.O.U em 21/12/2023. Nesse contexto, cabe ao Governo do Estado de São Paulo promover a expansão da rede e
+definir diretrizes para o planejamento, implantação e organização de um sistema de transporte sustentável de alta capacidade como o do
+Metrô.
+
+PROBLEMA ATUAL
+
+Na RMSP a dinâmica dos deslocamentos é caracterizada por um movimento pendular, ou seja, ocorre o deslocamento cotidiano de
+pessoas que partem de bairros dormitórios nos horários de pico da manhã e realizam o percurso inverso no pico da tarde, provocando
+nesses períodos superlotação dos sistemas de transportes, longo tempo despendido nos trajetos e congestionamentos de ruas e avenidas
+. Considerando que os veículos são fonte de emissão de poluentes atmosféricos e gases do efeito estufa, causadores de
+congestionamentos e geram impactos negativos ao meio ambiente e à saúde da população, tornam-se oportunos os investimentos em
+alternativas de transportes sustentáveis como o transporte sobre trilhos.
+
+O eixo leste da RMSP, onde se localiza a expansão da Linha 2-Verde, é atendido atualmente por um sistema de transporte
+metroferroviário composto pelas Linhas 3-Vermelha e 15-Prata do Metrô, pelas Linhas 11-Coral e 12-Safira da Companhia Paulista de
+Trens Metropolitanos (CPTM), todas com traçado radial, conectando regiões periféricas e socialmente vulneráveis ao centro da cidade de
+São Paulo. O sistema de ônibus que atende essa região, inclusive as linhas que possuem integração nos terminais das estações da Linha
+3-Vermelha, também possuem diretriz radial de operação.
+
+Antes da pandemia da COVID19, o sistema de ônibus transportava cerca de 1,2 milhão de passageiros dia, enquanto a Linha 3-Vermelha
+apresentava uma demanda diária próxima de 1,3 milhão e a Linha 11-Coral atendia cerca de 900 mil passageiros por dia, totalizando 3,4
+milhões de passageiros transportados diariamente, no eixo Leste da RMSP. Tais números indicam a importância e a pertinência da
+ampliação da oferta de infraestrutura de transporte público nessa região, pautada em alternativas sustentáveis do ponto de vista ambiental
+e social.
+
+Além de promover ganhos à qualidade de vida e ao meio ambiente, investimentos na infraestrutura de transporte ampliam o acesso a
+oportunidades de trabalho, estudo, saúde e a outros serviços públicos e privados. Quando esta infraestrutura é deficiente ou distribuída de
+forma desequilibrada, os segmentos mais vulneráveis da população enfrentam maiores dificuldades em acessar tais oportunidades. Esta
+dinâmica reflete a distribuição do uso e da valorização do solo em regiões adensadas como a RMSP, uma vez que o custo de moradia nas
+periferias é consideravelmente menor e, portanto, abriga a maior parte das habitações de alcance social. Contudo, é na região central que
+se concentram os postos de trabalho e instituições de ensino, impondo à população mais pobre o custo de longos deslocamentos. Neste
+contexto, o transporte público age como um instrumento de redução da desproporcionalidade no uso do solo, diminuindo as barreiras de
+acesso dos moradores das periferias às regiões de interesse e oportunidades.
+
+Considerando o contexto do transporte urbano da RMSP, o Governo do Estado de São Paulo vem desenvolvendo e implantando um
+programa de expansão da rede metroviária visando ampliar a mobilidade, disponibilizar novas alternativas de deslocamento, preservar o
+meio ambiente e, consequentemente, melhorar a qualidade de vida da população. Assim, em 17/01/2020, o Governo do Estado de São
+Paulo autorizou o Metrô a emitir as Ordens de Serviço para o início das obras de expansão da Linha 2-Verde entre Vila Prudente e Penha,
+considerando o projeto como prioritário.
+
+A expansão da Linha 2-Verde até Penha conta com um financiamento da Corporação Andina de Fomento (CAF), de US$ 550,0 milhões,
+assinado em 15/09/2022, cujos recursos são destinados majoritariamente às obras civis. O esgotamento dos recursos está previsto para o
+primeiro semestre de 2024,  necessitando assim  uma operação de crédito adicional visando garantir a continuidade das obras civis, dos
+lotes 1 ao 6. Desta forma, considerando os valores a realizar exclusivamente com obras civis entre o segundo semestre de 2024 e 2027,
+estimados em US$ 710,1 milhões, faz-se oportuno a viabilização de uma nova operação de crédito no valor de até US$ 300,0 milhões.
+
+ÍNDICE DE DESENVOLVIMENTO HUMANO (IDH)
+
+De acordo como o Programa das Nações Unidas para o Desenvolvimento (PNUD), o IDH do Município de São Paulo em 2010 é de 0,805,
+enquanto o do Estado de São Paulo em 2021 é de 0,806.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+SOLUÇÃO PROPOSTA
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+A expansão da Linha 2-Verde é um projeto estratégico para o atendimento da demanda por transporte de alta capacidade na RMSP,
+motivo pelo qual foi incluído no Novo PAC dentro do eixo Mobilidade Urbana Sustentável. A sua implantação, em virtude do seu traçado
+perimetral, promoverá o equilíbrio da distribuição dos passageiros entre as linhas metroferroviárias existentes, reduzirá o tempo
+despendido nos trajetos, a dependência por outros modos de transporte movidos a combustíveis fósseis e ampliará o atendimento a
+passageiros de regiões carentes de mobilidade. No anexo 1 é apresentado o esquema da Linha 2-Verde, seu traçado e o Mapa da Rede
+Metropolitana em Operação e Implantação.
+
+Como alternativa à atual configuração radial do sistema de transporte público no eixo leste da RMSP e visando elevar a oferta de
+transporte na região, o Metrô de São Paulo, a partir dos seus estudos de demanda e simulações, desenvolveu o projeto de expansão da
+Linha 2-Verde, entre as Estações Vila Prudente e Dutra (município de Guarulhos). Para tanto, dividiu sua implantação em duas fases,
+sendo que a primeira, considerada um projeto prioritário, em plena execução e associado ao pleito desta Carta Consulta, estende-se da
+atual Estação Vila Prudente até a futura Estação Penha, o que corresponde a um prolongamento de 8,3 quilômetros, com 8 novas
+estações, com as obras civis divididas em 6 lotes. Em relação à segunda fase do empreendimento, situada entre Penha e Dutra,
+atualmente estão em desenvolvimento os estudos preliminares, projetos e contratações.
+
+As obras civis da primeira fase da expansão da Linha 2-Verde, distribuídas nos 6 lotes contratados em setembro de 2014, os respectivos
+serviços de supervisão de obras, análise de projetos executivos e desvios de tráfego do sistema viário estão orçados em US$ 710,1
+milhões para o período entre segundo semestre de 2024 e 2027. Considerando que as obras civis contam atualmente com um
+financiamento da Corporação Andina de Fomento (CAF), formalizado em 15/09/2022, cujo esgotamento dos recursos está previsto para o
+primeiro semestre de 2024, uma operação de crédito adicional de até US$ 300,0 milhões viabilizaria cerca de 42,2% da necessidade de
+recursos destinados aos contratos elegíveis a financiamento no período citado. O anexo 2 apresenta o cronograma financeiro da operação
+de crédito.
+
+Assegurar as condições financeiras necessárias ao avanço físico das obras civis é indispensável para as demais etapas do
+empreendimento, uma vez que é necessária a compatibilização do cronograma de execução de obras civis com o de implantação dos
+sistemas de sinalização CBTC, de alimentação elétrica, auxiliares, telecomunicações e o recebimento dos 22 novos trens necessários à
+operação comercial da Linha 2-Verde até a Estação Penha.
+
+RESULTADOS ESPERADOS
+
+O prolongamento da Linha 2-Verde proporcionará o equilíbrio da demanda do sistema de transporte que atende o eixo leste da RMSP,
+diminuindo a dependência por meios de transporte sobre pneus. Estima-se uma redução de cerca de 30% no volume de ônibus
+necessários ao atendimento da região, uma vez que algumas linhas poderão ser seccionadas, outras farão retornos operacionais e outras
+poderão ser canceladas e seus atendimentos supridos diretamente pela Linha 2-Verde, contribuindo para a redução de
+congestionamentos, da quantidade de acidentes, do consumo de combustíveis fósseis e das emissões de poluentes e de gases do efeito
+estufa.
+
+Dada a impossibilidade física e operacional de aumento de capacidade de carregamento das linhas do sistema sobre trilhos e sobre pneus
+que já atendem ao eixo leste da RMSP, a implantação de novas alternativas de deslocamento é a solução mais viável para lidar com a
+saturação do sistema de transporte. A expansão da Linha 2-Verde quando concluída assumirá um traçado em arco caracterizando uma
+ligação perimetral como alternativa aos deslocamentos radiais. Como consequência, minimizará a saturação da Linha 3-Vermelha em
+cerca de 5,8 mil passageiros por hora no sentido mais carregado (Leste-Oeste) e da Linha 1-Azul em cerca de 7,2 mil passageiros no
+sentido Norte-Sul.
+
+A expansão da Linha 2-Verde permitirá distribuir de forma mais homogênea a demanda de passageiros que buscam as regiões da
+Avenida Paulista, do ABC (sudoeste da RMSP), de Santo Amaro (zona sul de São Paulo) e de outros subcentros da RMSP, evitando que
+os passageiros cruzem o centro da cidade para alcançar os seus destinos, reduzindo assim a sobrecarga dos modos de transporte
+disponíveis.
+
+
+Página: 4
+
+Ao possibilitar uma melhor distribuição do fluxo de passageiros pelo sistema de transporte metroferroviário, a expansão da Linha 2-Verde
+possibilitará a redução do tempo de viagem para os passageiros que partem da porção leste da RMSP em direção a outros polos de
+interesse, da sobrecarga dos meios de transporte e a oferta de um transporte com maior eficiência energética. Quando em operação, a
+demanda prevista da Linha 2 - Verde deverá ser de aproximadamente 1,2 milhão de passageiros por dia útil (cenário 2028).
+
+SUSTENTABILIDADE
+
+Estimou-se um valor anual de R$ 45,2 milhões (base 2023) para os custos de operação e manutenção do trecho de expansão (Vila
+Prudente a Penha) decorrentes de gastos com pessoal, energia elétrica, materiais e gastos gerais (limpeza, vigilância e outros serviços).
+Estes gastos serão cobertos com o incremento da demanda de passageiros, que passará dos atuais 710.000 passageiros/dia para cerca
+de 1,2 milhão passageiros/dia, e com a redução prevista dos custos operacionais decorrente da implantação do nível de automação GoA4,
+que permitirá a otimização da atuação das equipes de manutenção, a redução de aproximadamente 280 operadores de trem de um total
+de 400 operadores necessários, caso a operação fosse em GoA2. O anexo 3 apresenta grau de automação das linhas e  principais
+diferenças entre os níveis de automação GoA2 e GoA4.
+
+A redução prevista para a quantidade de operadores se baseia no estudo realizado em 2019 pelo Comet considerando 23 linhas de metrô
+automáticas, denominado "Impacts of Unattended Train Operation - UTO on Productivity and Efficiency in Metropolitan Railways"
+elaborado por Judith M Cohen, Alexander S Barron, Richard J Anderson, & Daniel J Graham.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+ORIENTAÇÕES ESTRATÉGICAS
+
+No âmbito federal, a expansão da Linha 2-Verde foi referendada como projeto estratégico no Novo Plano de Aceleração do Crescimento -
+Novo PAC, com intuito de facilitar a contratação de financiamentos internacionais. As ações orçamentárias para a expansão da Linha 2-
+Verde, entre Vila Prudente e Penha estão inseridas no Programa 3708 do Plano Plurianual para 2020-2023 (vide anexo 4A), aprovado na
+ALESP pela Lei 17.262/2020. O Programa 3708 é denominado Expansão, Modernização e Operação do Transporte Metroviário - PITU em
+Marcha. Em relação ao PPA 2024-2027, cujas normas de elaboração constam no Decreto 67.649/2023, fazem parte dos seus objetivos
+estratégicos a ampliação da infraestrutura de transportes e mobilidade urbana. O novo PPA encontra-se em tramitação na Assembleia
+Legislativa do Estado de São Paulo (Projeto de lei n° 1244/2023) e inclui a expansão da Linha 2-Verde no produto 2302 - OBRAS E
+SISTEMAS DA EXPANSÃO DA LINHA 2-VERDE IMPLANTADOS, conforme anexo 4B.
+
+No âmbito da Secretaria dos Transportes Metropolitanos (STM), a expansão da Linha 2-Verde integra as propostas do Plano Integrado de
+Transporte Urbano (PITU). Este instrumento de planejamento estratégico do transporte urbano de passageiros e mobilidade na RMSP tem
+por objetivo desenvolver programas de implantação e expansão da rede de transporte sobre trilhos de maneira a oferecer transporte
+público sustentável e de alta capacidade.
+
+A expansão da Linha 2-Verde amplia os benefícios promovidos por um transporte sustentável como o Metrô de São Paulo e está alinhada
+ao Plano de Ação Climática e desenvolvimento sustentável do Estado de São Paulo-PAC-2050, por meio de ações previstas para o setor
+de transporte. Entre elas, destacam-se a ação TRA2: Redução das emissões do transporte coletivo de passageiros, especificamente a sub
+ação TRA2.4: Mudança de modal para transporte metroviário e ferroviário e a ação TRA4: Planejamento urbano inteligente,
+especificamente para a sub ação TRA4.2: Incentivo a mudanças de comportamento (maior utilização de transporte público e combinação
+de transporte público e mobilidade ativa), conforme consta na tabela 6 do PAC-2050 ( anexo 5, página 40).
+
+CONTRAPARTIDA
+
+O valor a ser utilizado na forma de contrapartida local para o período de execução do projeto supera 20,0% do total da operação de crédito
+, o que atende ao estabelecido no inciso II do art. 1 da Resolução nº 3/2019, da COFIEX, que estabelece a contrapartida mínima de 20%
+do valor orçado do programa objeto de financiamento, com origem em recursos tributários do tomador.
+
+(cid:10)
+
+
+Página: 5
+
+Os recursos de contrapartida estão classificados na funcional programática nº 26.453.0001.1695.2288, para a Linha 2-Verde, trecho Vila
+Prudente - Penha, prevista na Lei Orçamentária Anual do exercício de 2024 (Lei Estadual 17.863/2023).
+
+TAXA DE CÂMBIO ADOTADA
+
+Os valores orçados e utilizados nesta Carta Consulta foram convertidos adotando-se a taxa de US$ 1,00 = R$ 4,9349 de 30/11/2023.
+
+2. Projeto
+
+### 2.1. Título
+
+
+Projeto do Estado de São Paulo -  Obras Civis da Expansão da Linha 2-Verde
+
+
+### 2.2. Título Abreviado
+
+
+Obras Civis da Expansão da Linha 2-Verde
+
+
+### 2.3. Mutuário
+
+
+Estado de São Paulo
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+OBJETIVO GERAL
+
+O Projeto tem o objetivo de oferecer melhores condições de bem-estar social à população da Região Metropolitana de São Paulo, por
+meio de melhorias das condições de mobilidade urbana na porção leste da cidade, mediante a continuidade das obras civis em execução
+para expansão da Linha 2-Verde do Metro.
+
+OBJETIVO ESPECÍFICO
+
+(a) Continuidade das obras civis, contemplando estruturas, acabamento e via permanente entre as Estações Vila Prudente (exclusive) e
+Penha (inclusive);
+
+(b) Prestação de serviços de apoio à implantação, operacionalização e monitoramento dos desvios de tráfego do sistema viário nos locais
+necessários para implantação das obras civis do empreendimento da Linha 2-Verde, no trecho entre a Estação Vila Prudente (exclusive) e
+o VSE Padre João (inclusive);
+
+(c) Prestação de serviços técnicos especializados de engenharia para apoio à supervisão, fiscalização e controle das obras civis dos lotes
+1 a 6 do empreendimento da Linha 2-Verde, no trecho entre a Estação Vila Prudente e o VSE Padre João;
+
+(d) Prestação de serviços técnicos especializados de engenharia e arquitetura para análise técnica dos projetos executivos de obras civis
+e documentação técnica da via permanente e sua homologação para o empreendimento da Linha 2-Verde, no trecho entre a estação Vila
+Prudente (exclusive) e o VSE Padre João (inclusive).
+
+(e) Disponibilização de espaços para serviços públicos e pontos comerciais para atendimento da população.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+
+(cid:10)
+
+
+Página: 6
+
+Linha de Base
+864.661,00
+
+Meta
+1.184.025,00
+
+4.353.402,00
+
+4.573.981,00
+
+30,08
+
+19,48
+
+128,00
+
+100,00
+
+770.000,00
+
+650.000,00
+
+1.376.316,00
+
+34.557,00
+
+626.025.521,00
+
+15.643.966,00
+
+
+Descrição
+Número de passageiros transportados na Linha
+2 em 2028 (Vila Madalena - Penha) (Consultar
+anexo 6
+
+Ingressos de passageiros no sistema do Metrô
+em 2028
+
+Tempo médio de viagem ponderado no lindeiro
+em 2028 (Vila Prudente Penha)
+
+Tempo médio de espera para embarque na
+Linha 2-Verde em 2028
+
+Transferências nas Estações Sé, Brás e Luz em
+
+Redução das emissões atmosféricas em 2028
+
+Redução do consumo de Combustíveis (diesel,
+etanol e gasolina) em 2028 na RMSP
+
+Minutos
+
+Segundos
+
+Passageiros
+
+Toneladas/ano
+
+Passageiros/dia
+
+Ingressos de
+passageiro
+
+Fórmula de Cálculo Unidade de Medida
+Passageiros
+transportados em dias
+úteis na Linha 2-
+Verde sem a
+expansão (linha base)
+e com a expansão (
+meta)
+Ingressos de
+passageiros em dia
+útil no sistema do
+Metro sem a
+expansão (linha base)
+e com a expansão (
+meta)
+Tempo médio de
+viagem sem a
+expansão (linha base)
+e com a expansão (
+meta)
+Aferição do intervalo
+entre trens (
+"Headway")
+Transferências
+médias em dias úteis
+sem a expansão (linha
+base) e com a
+expansão (meta)
+Somatório Rede Com(
+VeicKMj x FEi)-
+Somatório Rede Sem(
+VeicKMj x FEi)   onde:
+VeicKM =
+quilometragem
+percorrida pelos
+modos (em km);   FE
+= fator de emissão do
+poluente ou GEE;   j =
+tipo de combustível;
+i = poluente ou GEE;
+Rede Com = Rede
+metroviária com o
+trecho em expansão
+já em operação;
+Rede Sem = Rede
+metroviária sem o
+trecho em operação
+Somatório RedeCom(
+VeicKMjxAVj)-
+Somatório RedeSem(
+VeicKMjxAVj)   onde:
+VeicKM=
+quilometragem
+percorrida pelos
+modos (em km);   AV
+= índice de autonomia
+veicular;   j = tipo de
+combustível;
+RedeCom = Rede
+metroviária com o
+trecho em expansão
+já em operação;
+RedeSem = Rede
+metroviária sem o
+trecho em operação
+
+Litros/ano
+
+
+Página: 7
+
+Ganho social em termos de tempo deslocamento
+em 2028, na RMSP
+
+Pontos comerciais nas dependências das
+estações da Linha 2-Verde até 2029 (2º ano de
+operação)
+
+Receitas anuais não tarifárias provenientes da
+Linha 2-Verde até 2029 (2º ano de operação)
+
+Índice de ocupação na Linha 3-Vermelha em
+
+Somatório RedeCom(
+Horasi)- Somatório
+RedeSem(Horasi)
+onde:   Horas = total
+de horas dos
+passageiros;   i =
+modo (ônibus,
+automóvel,
+motocicleta);
+RedeCom = Rede
+metroviária com o
+trecho em expansão
+já em operação;
+RedeSem = Rede
+metroviária sem o
+trecho em operação
+Percentual de novos
+pontos comerciais
+após expansão (ano
+2029 - 2º ano de
+operação)
+Receitas anuais não
+tarifárias auferidas
+atualmente (ano 2023)
+versus após
+expansão (ano 2029
+2º ano de operação).
+Passageiros em pé/m²
+em hora pico da
+manhã atualmente
+versus após aumento
+da oferta com a
+intervenção
+
+Horas/ano
+
+1.023.825.592,00
+
+53.645.939,00
+
+Percentual
+
+0,00
+
+30,00
+
+R$
+
+1.258.000,00
+
+3.055.000,00
+
+Passageiros/m²
+
+11,30
+
+7,00
+
+
+### 2.7. Projeto/Componentes
+
+
+Componentes
+C - OBRAS CIVIS
+P - LOTE 1 - TRECHO ENTRE  FALCHI GIANINI ATE ESTACAO PENHA E TUNEIS DE VSE COM SHIELD
+P - LOTE 2 - ESTACAO PENHA INTEGRACAO  METRO X CPTM - VSE PADRE ANTONIO
+P - LOTE 3 - ESTAÇÕES :  ORFANATO, SANTA CLARA E PATEO ESTACIONAMENTO TRENS
+P - LOTE 4 - POÇO CAPITAO E  VSE COXIM
+P - LOTE 5 - ESTAÇÕES:  SANTA ISABEL E GUILHERME GIORGI - ACABAMENTO
+P - LOTE 6 - ESTAÇÃO ARICANDUVA
+C - AUDITORIA, GERENCIAMENTOS E OUTROS SERVIÇOS
+P - DESVIOS DE TRÁFEGO DO SISTEMA VIÁRIO
+P - AUDITORIA EXTERNA
+P - SUPERVISÃO DE OBRAS
+P - ANÁLISE DE PROJETOS EXECUTIVOS DE OBRAS CIVIS
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Valor(US$)
+367.496.546,00
+235.949.998,00
+69.171.150,00
+28.320.229,00
+8.205.208,00
+7.274.820,00
+18.575.141,00
+7.503.454,00
+1.015.855,00
+18.073,00
+4.191.019,00
+2.278.507,00
+375.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - OBRAS CIVIS
+Execução de obras civis dos Lotes 1 ao 6 ao longo dos 8,3 quilômetros do prolongamento da Linha 2-Verde entre as Estações Vila
+Prudente (exclusive) e Penha (inclusive). Contempla estruturas e acabamento das 8 novas estações, poços de ventilação e saída
+de emergência - (VSE), via permanente, escavação de túneis com utilização de tuneladora e na modalidade NATM (New Austrian
+Tunnelling Method).
+
+O anexo 7, apresenta o escopo de cada um dos lotes de obra civil.
+
+
+Página: 8
+
+P - LOTE 1 - TRECHO ENTRE  FALCHI GIANINI ATE ESTACAO PENHA E TUNEIS DE VSE COM SHIELD
+Execução das obras civis, contemplando  estrutura, acabamento e via permanente, no trecho entre o VSE Falchi Gianini (exclusive
+) e a Estação Penha (exclusive) da Linha 2-Verde. No Total serão escavados 6,6 km de túneis em Shield, que somados aos
+aproximadamente 900 metros aos trechos de via das estações (plataformas) e dos túneis dos VSEs resultam na extensão total de
+7,5 quilômetros de linha entre Falchi Gianini e Penha. A tuneladora partiu da Vala do Complexo Rapadura, que recebe esse nome
+por ser uma base de manutenção, estacionamento de trens, Ventilação e Saída de Emergência (VSE). Também é escopo do lote
+mais 5 Ventilações e Saídas de Emergência (VSEs): VSE Madrid, VSE Cestari, VSE João Prioste, VSE Júlio Colaço e VSE Soares
+Neiva. Além disso, esse lote é responsável pela construção da Estação Vila Formosa, com mais de 20 mil metros quadrados de
+área construída
+
+P - LOTE 2 - ESTACAO PENHA INTEGRACAO  METRO X CPTM - VSE PADRE ANTONIO
+Execução das obras civis, contemplando, na Fase 1, estrutura, acabamento e via permanente, no trecho entre a estação Penha (
+inclusive) e o VSE Padre João (inclusive) da Linha 2-Verde. No total serão implantados 0,4 quilômetros de túneis de via, que
+somados aos aproximadamente 100 metros de extensão da Vala Penha e do túnel de ligação do VSE, resultam em 0,5 quilômetros
+de linha. Também é escopo uma vala e aproximadamente 0,4 quilômetro de túnel de estacionamento.  Na Fase 1 também é
+escopo do lote a construção da Estação Penha, abrangendo a estação da Linha 2-Verde, a construção de uma estação de
+integração para a Linha 11-Coral e a integração de ambas com a estação Penha atualmente existente, da Linha 3-Vermelha, no
+total somando mais de 35 mil metros quadrados de área construída.
+
+P - LOTE 3 - ESTAÇÕES :  ORFANATO, SANTA CLARA E PATEO ESTACIONAMENTO TRENS
+Execução das obras civis, contemplando estruturas e acabamento das Estações Orfanato e Santa clara (antiga Água Rasa) e 0,3
+quilômetro de túnel NATM via dupla entre o prolongamento existente após a Estação Vila Prudente e o VSE Falchi Gianini da Linha
+2-Verde. Além disso, será construído a partir do VSE Falchi Gianini um estacionamento de trens subterrâneo para até 6 trens.
+Tanto a Estação Orfanato quanto a Estação Santa Clara possuirão aproximadamente 18 mil metros quadrados de área construída
+cada uma.
+
+P - LOTE 4 - POÇO CAPITAO E  VSE COXIM
+Execução de obras civis, contemplando estruturas e acabamento do Poço Capitão, da Estação Anália Franco e do VSE Coxim. A
+partir do Poço Capitão serão escavados o túnel de transição sul, com aproximadamente 100 metros de comprimento e o túnel
+singelo sul, com aproximadamente 240 metros de comprimento. A partir do VSE Coxim serão escavados o túnel de transição norte,
+com aproximadamente 70 metros e o túnel singelo norte, com aproximadamente 420 metros. A Estação Anália Franco possuirá no
+total aproximadamente 18 mil metros quadrados de área construída.
+
+P - LOTE 5 - ESTAÇÕES:  SANTA ISABEL E GUILHERME GIORGI - ACABAMENTO
+Execução das obras civis, contemplando estruturas e acabamento das Estações Santa Isabel (antiga Guilherme Giorgi), com
+aproximadamente 17 mil metros quadrados de área construída e Estação Guilherme Giorgi (antiga Nova Manchester), com
+aproximadamente 12 mil metros quadrados de área construída.
+
+P - LOTE 6 - ESTAÇÃO ARICANDUVA
+Execução das obras civis, contemplando, na Fase 1, estruturas e acabamento da Estação Aricanduva, com aproximadamente 19
+mil metros quadrados de área construída.
+
+C - AUDITORIA, GERENCIAMENTOS E OUTROS SERVIÇOS
+Este componente abrange os serviços de apoio à implantação, operacionalização e monitoramento dos desvios de tráfego do
+sistema viário nas proximidades dos canteiros de obras; serviço de auditoria independente do projeto e emissão de relatório anual;
+serviços especializados de engenharia para apoio à supervisão, fiscalização e controle das obras civis; serviços especializados de
+engenharia e arquitetura para análise técnica dos projetos executivos de obras civis.
+
+P - DESVIOS DE TRÁFEGO DO SISTEMA VIÁRIO
+Prestação de serviços de apoio à implantação, operacionalização e monitoramento dos desvios de tráfego do sistema viário nos
+locais necessários para implantação das obras civis do empreendimento da Linha 2-Verde, no trecho entre a Estação Vila Prudente
+(exclusive) e o VSE Padre João (inclusive) da Linha 2-Verde.
+
+P - AUDITORIA EXTERNA
+Serviços de auditoria independente do projeto a fim de verificar o cumprimento do contrato de financiamento e a adequada
+utilização dos recursos, sejam estes provenientes da CAF ou da contraparte local. Tal empresa será responsável pela preparação
+dos relatórios anuais de auditoria externa devendo incluir, no mínimo, a verificação dos seguintes aspectos: Utilização dos recursos
+do empréstimo da CAF e da contrapartida local; cumprimento do contrato de financiamento; cumprimento das obrigações
+estipuladas nos contratos de obras civis e supervisão, inclusive os aspectos ambientais e sociais; procedimentos de contratação e
+aquisição utilizados em conformidade com o contrato de empréstimo e legislação aplicável.
+
+P - SUPERVISÃO DE OBRAS
+Prestação de serviços técnicos especializados de engenharia para apoio à supervisão, fiscalização e controle das obras civis dos
+lotes 1 a 6 do empreendimento da Linha 2-Verde, no trecho entre a Estação Vila Prudente e o VSE Padre João.
+
+
+Página: 9
+
+P - ANÁLISE DE PROJETOS EXECUTIVOS DE OBRAS CIVIS
+Prestação de serviços técnicos especializados de engenharia e arquitetura para análise técnica dos projetos executivos de obras
+civis e documentação técnica da via permanente e sua homologação para o empreendimento da Linha 2-Verde, no trecho entre a
+estação Vila Prudente (exclusive) e o VSE Padre João (inclusive).
+
+Unidade de medida
+-
+m²
+
+Meta
+
+-
+27.500,00
+
+Valor
+
+% Financeiro
+
+367.496.546,00
+235.949.998,00
+
+Categoria de Gasto
+
+Obras
+P- LOTE 1 - TRECHO ENTRE  FALCHI GIANINI
+ATE ESTACAO PENHA E TUNEIS DE VSE COM
+SHIELD
+P- LOTE 2 - ESTACAO PENHA INTEGRACAO
+METRO X CPTM - VSE PADRE ANTONIO
+P- LOTE 3 - ESTAÇÕES :  ORFANATO, SANTA
+CLARA E PATEO ESTACIONAMENTO TRENS
+P- LOTE 4 - POÇO CAPITAO E  VSE COXIM
+P- LOTE 5 - ESTAÇÕES:  SANTA ISABEL E
+GUILHERME GIORGI - ACABAMENTO
+P- LOTE 6 - ESTAÇÃO ARICANDUVA
+Consultoria
+P- DESVIOS DE TRÁFEGO DO SISTEMA
+VIÁRIO
+P- AUDITORIA EXTERNA
+Serviços que Não de Consultoria
+P- SUPERVISÃO DE OBRAS
+P- ANÁLISE DE PROJETOS EXECUTIVOS DE
+OBRAS CIVIS
+Total Geral
+
+m²
+
+m²
+
+m²
+m²
+
+m²
+-
+unidade
+
+unidade
+-
+unidade
+unidade
+
+-
+
+35.000,00
+
+69.171.150,00
+
+18.000,00
+
+28.320.229,00
+
+18.000,00
+29.000,00
+
+19.000,00
+-
+1,00
+
+1,00
+-
+1,00
+10,00
+
+-
+
+8.205.208,00
+7.274.820,00
+
+18.575.141,00
+1.033.928,00
+1.015.855,00
+
+18.073,00
+6.469.526,00
+4.191.019,00
+2.278.507,00
+
+98,00
+62,92
+
+18,45
+
+7,55
+
+2,19
+1,94
+
+4,95
+0,28
+0,27
+
+0,00
+1,73
+1,12
+0,61
+
+375.000.000,00
+
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+A fase 1 da expansão da Linha 2-Verde, compreendida entre Vila Prudente e Penha, conta com obra civil (lotes 1 ao 6) em plena
+execução. A evolução acumulada até novembro de 2023, equivale a 33,84%.
+
+O anexo 8 corresponde ao cronograma de implantação de todas as fases de implantação da expansão da Linha 2-Verde até Penha.
+
+Para o controle e monitoramento dos empreendimentos de expansão, o Metrô de São Paulo desenvolveu um modelo de gestão com base
+no Ciclo de Vida do projeto. Este modelo divide a implantação do empreendimento em cinco fases conforme detalhado a seguir:
+
+ETAPAS REALIZADAS
+
+FASE 1 - VALIDAÇÃO
+
+Evolução: 100% concluída
+
+Esta fase é composta pelas seguintes etapas:
+
+- Revisão e validação do projeto funcional/anteprojeto;
+
+- Obtenção de licenças ambientais prévias;
+
+- Licitações: Projetos básicos de obras civis, sistemas e via permanente. Licitações para contratação de serviços de sondagens, ensaios
+geotécnicos, levantamento de dados básicos, topográficos, dados cadastrais, emissão de laudo macro, ensaios de vibrações e ruídos.
+
+FASE 2 - DETALHAMENTO
+
+Evolução: 100% concluída
+
+Esta fase é composta pelas seguintes etapas:
+
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 10
+
+- Elaboração do projeto básico de obras civis (obra bruta, arquitetura e via permanente);
+
+- Elaboração dos projetos de sistemas (sinalização e controle, alimentação elétrica, auxiliares e telecomunicações);
+
+- Elaboração do projeto de material rodante.
+
+FASE 3 - LICITAÇÃO E OBTENÇÃO DE ÁREAS
+
+Evolução: 89,6% concluída
+
+Esta fase é composta pelas seguintes etapas:
+
+- Reassentamentos: Concluída;
+
+- Obtenção de licenças ambientais de instalação: Concluída, exceto para a Subestação Primária de Energia Anália Franco e banco de
+dutos;
+
+- Obtenção de autorizações de início de obras: Concluída, exceto para a Subestação Primária de Energia Anália Franco e banco de dutos;
+
+- Desapropriações: Concluída. Todos os imóveis privados foram imitidos na posse;
+
+- Publicação de Declaração de Utilidade Pública (DUP) contemplando os imóveis passíveis de desapropriação: Concluída;
+
+- Cadastro de imóveis sujeitos à desapropriação: Concluído;
+
+- Imissão na posse de imóveis particulares desapropriados: Concluído (227 imóveis);
+
+- Restam pendências em relação a 4 dos 7 imóveis públicos ocupados pelas obras da Linha 2-Verde. Estes 4 imóveis estão em processo
+de formalização de propriedade pelo Metrô de São Paulo junto à Prefeitura de São Paulo (PMSP). Trata-se de pendências não impeditivas
+para a implantação do projeto, visto que as obras já estão mobilizadas em todas as áreas necessárias.
+
+- Licitações: Em andamento, com 52,7% de evolução contemplando os itens a seguir:
+
+- Projeto executivo, obras civis e via permanente: Licitações concluídas;
+
+- Sistemas de alimentação elétrica, auxiliares e de telecomunicações: Proposta comercial em análise.
+
+- Sistema de sinalização e controle CBTC: Edital concluído. (contratação por inexigibilidade);
+
+- Material rodante: Edital concluído para publicação. O edital para aquisição de material rodante contempla a aquisição de 44 trens, dos
+quais 22 trens serão incorporados a frota operacional da Linha 2-Verde e contarão com recursos financeiros provenientes de operação de
+crédito com bancos nacionais e do tesouro estadual.
+
+FASE 4  IMPLANTAÇÃO (EM ANDAMENTO)  PARTE DO OBJETO DESTA CARTA CONSULTA
+
+Evolução: 23,1% de conclusão.
+
+Esta fase é composta pelas seguintes etapas:
+
+O anexo 9 apresenta o relatório fotográfico das obras referente a novembro de 2023.
+
+- Poço da Ventilação e Saída de Emergência (VSE) Falchi Gianini: escavação do túnel de estacionamento e túnel de via;
+
+- Estação Orfanato: escavação dos túneis do corpo da estação, revestimento secundário do túnel de interligação do acesso secundário;
+
+- VSE Madrid: revestimento secundário do túnel de ligação;
+
+- Estação Santa Clara: escavação dos túneis do corpo da estação, estruturas de concreto das salas técnicas e estruturas de concreto da
+vala do acesso secundário;
+
+- VSE Cestari: tratamento para passagem da Tuneladora;
+
+- Poço Capitão: escavação do túnel de transição e do túnel singelo;
+
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+
+
+Página: 11
+
+- Estação Anália Franco: escavação, estruturas de concreto, revestimento secundário e impermeabilização da vala do corpo da estação,
+remanejamento da rede de drenagem e execução da pavimentação da 1ª etapa do desvio de tráfego;
+
+- VSE Coxim: escavação do túnel de transição norte e do túnel singelo;
+
+- Estação Vila Formosa: viga de coroamento do canal de ventilação e escavação, impermeabilização e tratamento nos túneis da chegada
+e partida da tuneladora;
+
+- Complexo Rapadura: execução dos pré-furos e corte da parede para escavação do túnel NATM;
+
+- Estação Santa Isabel: escavação em NATM dos túneis do corpo da estação;
+
+- VSE João Prioste: escavação e revestimento primário do poço;
+
+- Estação Guilherme Giorgi: laje de fundo e impermeabilização da vala do corpo da estação e revestimento secundário do túnel de
+interligação do acesso secundário;
+
+- VSE Júlio Colaço:  escavação do túnel de ligação;
+
+- Estação Aricanduva: escavação dos poços do corpo da estação e vigas transversais;
+
+- VSE Soares Neiva: impermeabilização do poço;
+
+- Estação Penha: impermeabilização e revestimento secundário do corpo da estação e escavação da vala de interligação com a futura
+estação da CPTM;
+
+- Vala Penha: laje de fundo e impermeabilização da vala;
+
+- VSE Padre João: execução paralisada. Ordem de serviço suspensa. Aguardando conclusão do processo jurídico do Condomínio
+Bandeirantes em razão à precariedade estrutural de imóvel lindeiro;
+
+- Partida da tuneladora na vala do Complexo Rapadura: Iniciada a escavação  em 25/11/23, no trecho Complexo Rapadura VSE Falchi
+Gianini, sentido Estação Vila Formosa.
+
+(b) Implantação de sistemas de sinalização CBTC, alimentação elétrica, auxiliares e de telecomunicações: Não iniciada (em processo de
+contratação);
+
+(c) Fabricação e comissionamento de material rodante: Não iniciada (em processo de contratação).
+
+Nota: Todas as informações sobre evolução citadas acima se referem ao acumulado até novembro de 2023.
+
+FASE 5 - ENCERRAMENTO
+
+Não iniciada.
+
+Esta fase consiste em elaborar a programação da transferência da linha para as gerências de Operação e Manutenção e a conclusão de
+todas as entregas planejadas, resultando na formalização do encerramento do empreendimento.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Municipios
+Estado de São Paulo (MUNICIPIO DE  SAO PAULO)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+(i) CONDIÇÕES FINANCEIRAS DA CAF
+
+(a) - PRAZOS
+
+- Prazo de desembolso: 48 meses (4 anos);
+
+- Prazo de carência: até 60 meses (5 anos);
+
+- Prazo de amortização: 180 meses (15 anos);
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 12
+
+- Prazo total: 240 meses (20 anos);
+
+- Periodicidade de amortização: semestral;
+
+(b) - TAXA DE JUROS
+
+- Taxa de juros (SOFR + spread): SOFR (seis meses) + 1,9% a.a. nos 8 primeiros anos e SOFR (seis meses)  e 2,0% a.a. a partir do nono
+ano.
+
+- Comissão de financiamento: 0,85% do valor do financiamento;
+
+- Comissão de compromisso: 0,35% a.a. do saldo não desembolsado;
+
+- Gastos de avaliação: US$ 50.000,00.
+
+(ii) NECESSIDADE DE FINANCIAMENTO EXTERNO E OPÇÃO PELO AGENTE FINANCEIRO
+
+(a) Justificativa da necessidade e a opção por financiamento externo em detrimento de financiamento interno:
+
+O Estado optou pelo financiamento em vista da expansão da Linha 2-Verde demandar recursos vultosos, cerca de US$ 710,1 milhões
+para o período entre segundo semestre de 2024 e 2027 para obras civis, que serão parcialmente supridos pelo financiamento ora proposto
+, mitigando assim as restrições e flutuações inerentes aos recursos orçamentários. A contratação de operação de crédito externa, junto a
+organismo multilateral, se justifica pelas seguintes razões:
+
+- Permite a obtenção de condições mais favoráveis de juros e carência quando comparada ao financiamento interno, conforme indicado no
+item c a seguir, suavizando a pressão sobre o Tesouro do Estado;
+
+- Possibilita o ressarcimento de gastos elegíveis realizados anteriormente à assinatura do contrato: para recursos de financiamento, desde
+a aprovação da operação pela Diretoria do Banco, e de contrapartida desde a aprovação do projeto na COFIEX, conforme regras
+estabelecidas no contrato de financiamento;
+
+- O valor, denominado em dólares norte-americanos, propicia um hedge natural contra a desvalorização da moeda nacional.
+
+- Os organismos multilaterais possuem equipes multidisciplinares especializadas para estruturação e avaliação da execução do projeto, o
+que contribui na eficiência da execução;
+
+- Permite diversificação das fontes de financiamento, visto que o Estado de São Paulo tem dívida bastante concentrada em moeda
+nacional, incluindo uma carteira de projetos significativa com o BNDES.
+
+(b) Justificativa da opção pelo agente financeiro escolhido:
+
+A opção pelo agente financeiro CAF se mostra mais vantajosa tendo em vista o seguinte:
+
+- A CAF já provê apoio financeiro ao projeto, no valor de US$ 550 milhões, por meio do contrato assinado em 15/09/2022 que se encontra
+em fase de desembolso;
+
+- Os contratos para execução das obras foram assinados em 2014. A CAF e o NDB (New Development Bank) são instituições multilaterais
+de crédito que aceitam financiar um projeto já contratado com regras nacionais (Lei 14.133/2021);
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 13
+
+- A CAF conta com equipes multidisciplinares fixas, que já analisaram e conhecem o projeto de expansão da Linha 2-Verde,
+proporcionando redução de prazos para a contratação (due dilligence), uma vez que a missão de avaliação será mais célere. Essa
+agilidade é essencial para o projeto, considerando a veloz execução do financiamento anteriormente contratado. Em caso de contratação
+com o NDB haveria necessidade de um longo processo de estruturação da equipe de acompanhamento e avaliação do projeto;
+
+- A CAF manifestou interesse em dar continuidade ao apoio financeiro no valor de até US$ 550 milhões. Note-se que o NDB, no ano de
+2021, reduziu proposta de financiamento, de US$ 200 milhões para US$ 90 milhões, a uma empresa do Estado de São Paulo, alegando
+não ter disponibilidade para ofertar o montante anteriormente acordado;
+
+- O Estado de São Paulo tem diversos contratos já assinados com a CAF (anexo 10). Em relação ao NDB, o histórico de contratação se
+resume à concessão de contragarantias para financiamentos em negociação com empresas não dependentes (Sabesp e Desenvolve SP).
+
+(c) Comparativo das condições financeiras do agente escolhido: (anexo 11)
+
+Na decisão pela fonte de financiamento do projeto foram analisadas alternativas de financiamentos nacionais e internacionais. Verifica-se
+que a CAF oferece encargos financeiros substancialmente abaixo dos bancos nacionais. Segue, para efeitos comparativos, a descrição
+das características dos financiamentos dos principais bancos:
+
+- BIRD: SOFR + Spread Variável (dependente do prazo médio do financiamento e país). Para um prazo médio entre 12 e 15 anos o
+spread vigente é de 1,44% a.a.;
+
+- BID: SOFR + Margem de Captação BID + Margem para empréstimos, atualmente totalizando SOFR + 1,25% a.a.;
+
+Observação: O projeto Linha 2-Verde não é elegível junto ao BID e ao BIRD, visto que essas instituições não financiam projetos já em
+execução, contratados com regras nacionais.
+
+- NDB: SOFR + Spread Variável, dependente do prazo médio do financiamento. Para um prazo médio entre 12 e 15 anos o spread é de 1,
+55% a.a. (atualmente totalizando 6,88% a.a.). Comissão de Financiamento: 0,25%. Comissão de compromisso: 0,25%.
+
+- CAF: SOFR + spread fixo: SOFR + 1,9% a.a. nos 8 primeiros anos (atualmente totalizando 7,23% a.a.) e SOFR + 2,0% a.a. a partir do
+nono ano. Comissão de Financiamento: 0,85% do valor do financiamento. Comissão de compromisso: 0,35% a.a. do saldo não
+desembolsado. Gastos de avaliação: US$ 50.000,00.
+
+Quanto aos financiadores internos, com aval da União:
+
+- A carência está limitada a 12 meses, conforme Portaria 5.623/2022 (Inciso I, parágrafo único, Artigo 14);
+
+- Não é permitido o reembolso de despesas realizadas em período anterior ao da contratação, conforme Inciso II, parágrafo único, do
+artigo 14 da mesma Portaria;
+
+- Com a publicação da Portaria 808, de 26/07/2023, que estabeleceu cobrança a título de contrapartida ao aval da União no valor de 0,5%
+financiamento, o custo das operações internas aumentou.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+
+(cid:10)
+(cid:10)
+
+
+Página: 14
+
+- O BNDES oferece ao Estado de São Paulo TLP +1,4%, que atualmente equivale a 11,64 % a.a. A esse valor se adiciona tarifa de 0,5%
+relativa à Portaria 808/2023 e Comissão de Financiamento de 0,5%.
+
+- O BB oferece operações de no máximo 12 anos e propõe encargos financeiros de CDI+1,77% a.a. (atualmente 13,39% a.a.). A esse
+valor se adiciona tarifa de estruturação no valor de 1,2% e Comissão de Compromisso no valor de 0,2% a.a.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+(i) ÁREAS ESTRATÉGICAS E IMPACTOS DO PROJETO
+
+A sustentabilidade está presente na essência das linhas e projetos de metrô porque são concebidos para a cidade e a mobilidade do
+futuro. Além de buscar a melhor inserção urbana e comunicação harmônica com o ambiente externo, o desenho do projeto traduz as
+características regionais, culturais e históricas do lugar, contribuindo para o espaço público e a interação dos que ali vivem e circulam.
+
+Os impactos provenientes da implantação do projeto estão condicionados a sua integral conclusão. Assim, é imprescindível que na etapa
+atual de execução das obras civis, entre as Estações Vila Prudente e Penha, seja sucedida da implantação dos sistemas e auxiliares e
+sistema de telecomunicações ("Communication Based Train Control" - CBTC). Teremos como benefício a redução no tempo de viagem,
+menor intervalo entre os trens redução no consumo de energia, acesso e informações para os usuários e maior segurança para os
+passageiros no deslocamento.
+
+A seguir são apresentados os impactos decorrentes do empreendimento. Alguns deles resultam de ações adotadas atualmente pela
+Companhia do Metrô de São Paulo em sua rede e, uma vez concluída a expansão da Linha 2-Verde, elas serão estendidas às suas
+dependências.
+
+ÁREAS PRIORITÁRIAS:  IMPACTOS DO PROGRAMA
+
+Item 1.1 Promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação.
+
+Considerando que o traçado da expansão da Linha 2-Verde intercepta o eixo Leste da RMSP, ocorrerá uma melhor distribuição dos
+passageiros provenientes do sistema de ônibus reduzindo, portanto, a quantidade de viagens dependentes desse modo de transporte. Há
+151 linhas de ônibus com uma frequência total de 812 ônibus por hora cujos itinerários passam pelas regiões das futuras estações do
+trecho em expansão da Linha 2-Verde. Com a extensão proposta, prevê-se uma redução de aproximadamente 30% no volume de ônibus
+que operam nessas regiões em função da possibilidade de reorganização do transporte coletivo por ônibus.
+
+No que se refere à integração com automóveis, em todas as estações foram previstas baias para a parada de veículos visando o
+embarque e o desembarque rápido de passageiros, tanto para automóveis particulares, como para táxis comuns e serviço de viagens por
+aplicativo.
+
+Com a finalidade de incentivar o uso de bicicletas pelos passageiros, bicicletários e paraciclos (dispositivos metálicos utilizados para a
+fixação e travamento de bicicletas) estão previstos em todas as estações da expansão da Linha 2-Verde.
+
+As integrações com o sistema de Metrô, ou seja, as captações de passageiros provenientes dos demais modos de transporte contribuem
+para a melhoria da qualidade ambiental e redução dos efeitos das mudanças climáticas, com impactos diretos sobre os cofres públicos, se
+considerados os efeitos adversos à saúde pública ocasionados pela poluição do ar e, de forma indireta, pela emissão de gases de efeito
+estufa decorrentes da queima de combustíveis fósseis. Estimativas do Metrô de São Paulo indicam que em relação à redução das
+emissões atmosféricas: 34.557 toneladas/ano equivalente a R$ 11,89 milhões (em 2028) de economia decorrente da expansão da Linha 2
+-Verde até Penha.
+
+Item 1.2 eficiência energética, geração e/ou uso de energia de fontes renováveis.
+
+No âmbito da eficiência energética, há de se considerar integralmente a Linha 2-Verde e não apenas o trecho a ser expandido, pois são as
+características técnicas e operacionais dos sistemas e material rodante a serem adotados no empreendimento proporcionarão melhores
+condições de operação e sustentabilidade, quando comparados aos padrões atuais da Linha 2-Verde. O sistema de sinalização CBTC, por
+exemplo, possibilitará o controle mais eficiente das curvas de aceleração e frenagem dos trens, garantindo, além de economia de energia,
+um intervalo menor entre trens (menor "headway"). Além disso, o novo sistema CBTC garantirá que a Linha 2-Verde seja operada com
+um nível maior de automatização e com menores custos operacionais.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 15
+
+Em relação aos 22 trens que deverão ser incorporados à frota, por serem dotados de equipamentos mais eficientes de tração, ar-
+condicionado com controle digital de temperatura e iluminação em LED, haverá redução do consumo de energia elétrica em relação aos
+atuais trens em operação. Além disso, as estações, salas técnicas e túneis contarão também com iluminação em LED, enquanto as
+escadas rolantes terão controle de frequência para a economia de energia. Estima-se que as novas estações apresentem uma redução do
+consumo da ordem de 10% em relação aos projetos concebidos antes de 2015 e que a utilização do Sistema de Sinalização CBTC traga
+uma redução no consumo de energia entre 10% e 15% em relação ao sistema convencional utilizado na Linha 3-Vermelha.
+
+Ademais, o projeto contará com um componente técnico de Engenharia Sustentável e Resiliência Climática, com foco em eficiência
+energética, maximização dos recursos hídricos, captação e tratamento de água pluvial, implantação de fontes alternativas de energia
+renovável e gestão de resíduos. Uma das ações em curso envolve um sistema de aquecimento solar para água que será utilizada nas
+instalações destinadas ao uso dos empregados e prestadores de serviço da Linha-2 Verde. Desta forma, o aquecimento da água
+destinada aos chuveiros dos vestiários dispensará o uso de equipamentos elétricos.
+
+Item 1.3 Implantação e/ou ampliação de ações de saneamento básico.
+
+O Metrô tem demonstrado um compromisso contínuo com a melhoria e modernização dos sistemas de saneamento básico que possuem
+interface com as obras de expansão da Linha 2 - Verde, como é exemplificado pelo caso do Córrego Rincão que intercepta a futura
+Estação Penha, onde intervenções no sistema de saneamento foram necessárias, incluindo o desvio temporário e a canalização do
+Córrego Rincão. O desvio viabilizou a construção das paredes diafragmas, que servem como estruturas de contenção na vala da estação,
+localizada em um nível inferior ao do córrego. Após a conclusão das paredes diafragmas, foi criada uma galeria de canalização para o
+córrego, permitindo que ele retornasse ao seu leito original e definitivo, o que, por sua vez, possibilitou a construção da estação sob o
+córrego já canalizado. Após a conclusão da canalização, a vala do desvio temporário foi preenchida.
+
+Além das obras de canalização do Córrego Rincão, para a construção da Estação Santa Clara foi necessária a substituição de uma
+adutora localizada acima do túnel da plataforma da estação. A adutora original havia sido construída na década de 1930 com materiais e
+tecnologias da época e os estudos realizados para elaboração do projeto executivo indicavam que ela não apresentava resistência
+suficiente para suportar os esforços causados pelos recalques oriundos da escavação do túnel. Desse modo, foram necessários o
+remanejamento e a substituição dessa adutora com especificações que garantissem a sua estabilidade durante as escavações.
+
+Essas ações exemplificam de forma eloquente como a implantação da Extensão da Linha 2-Verde não se limita apenas a melhorar a
+mobilidade urbana, mas também traz benefícios indiretos significativos para a cidade. O investimento em projetos de saneamento básico,
+como no caso do Córrego Rincão, demonstra o potencial transformador do empreendimento, não apenas como um meio de transporte
+eficiente, mas também como uma alavanca para aprimorar a infraestrutura e a qualidade de vida das comunidades.
+
+Item 1.4 Gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solo e nascentes
+
+No âmbito da segurança hídrica, as 8 novas estações e o Complexo Rapadura destinado ao estacionamento de trens da Linha 2-Verde
+contarão com sistemas de captação e tratamento de águas pluviais para a utilização em bacias sanitárias, lavagem de pisos e irrigação de
+áreas ajardinadas, contribuindo para o uso racional de água. A Estação Penha, por exemplo, contará com dois reservatórios para esta
+finalidade perfazendo uma capacidade de armazenamento total de 100m³ de água. Além disso, serão utilizados dispositivos hidráulicos
+que proporcionarão a redução de pelo menos 20% do consumo de água potável. Para o fornecimento de água à tuneladora e a lavagem
+das rodas dos caminhões que saem dos canteiros de obras tem sido reaproveitada a água proveniente do rebaixamento do lençol freático.
+
+Para minimizar o impacto de enchentes na região das novas estações da Linha 2-Verde, cada uma delas contará com um reservatório
+com capacidade de 180m³ para a retenção e o retardo do fluxo de água de chuva coletada na área dos seus domínios. Essa iniciativa visa
+contribuir para a mitigação dos riscos de transbordamentos de córregos e rios que compõem a bacia do Aricanduva, uma vez o fluxo de
+águas pluviais pode ser direcionado a rede coletora de forma controlada.
+
+Item 1.5 Conservação e manejo da biodiversidade e/ou de recursos florestais
+
+A aprovação do Estudo de Impacto Ambiental (EIA) e do Relatório de Impacto Ambiental (RIMA) pela Companhia Ambiental do Estado de
+São Paulo (CETESB) e a obtenção da Licença Prévia (LP) são reflexos do compromisso inabalável do Metrô em conciliar o
+desenvolvimento urbano com a proteção e conservação do meio ambiente.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 16
+
+Os projetos das estações da expansão da Linha 2-Verde foram concebidos após a realização de análise em múltiplas dimensões para
+viabilizar a conexão das infraestruturas aos serviços ecossistêmicos (ecológicos) e à biodiversidade. Foram consideradas soluções
+construtivas para minimizar as interferências dos traçados de linhas no patrimônio verde da cidade, efetuando as devidas compensações
+ambientais na eventualidade da necessidade de manejo arbóreo ou intervenção em área de preservação permanente (APP), de acordo
+com a legislação estadual e municipal vigentes. As instruções de projeto respeitam os limites e restrições de áreas, para proteger e
+beneficiar os ecossistemas. Durante a fase de implantação, o Metrô preza pelo cumprimento às obrigações legais, promovendo, quando
+aplicável, ações de restauração ecológica que beneficiam diretamente as bacias hidrográficas que sustentam a Região Metropolitana de
+São Paulo (RMSP) e implementando projetos de reurbanização e paisagismo que garantem a preservação dos habitats nas áreas urbanas
+adjacentes às novas linhas.
+
+Item 1.6 Melhoria do ambiente de negócios e/ou oportunidades
+
+A ampliação da rede transporte metroviária tem impacto transformador no entorno das novas estações, proporcionando valorização
+imobiliária, incremento na construção civil e aumento na quantidade e diversidade de estabelecimentos comerciais e de serviços. A
+facilidade de acesso atrai novos moradores para a região, e o elevado fluxo de pessoas torna as estações núcleos de atividade econômica
+, que atraem escolas, universidades, estabelecimentos comerciais etc. Este impacto é potencializado pelo Plano Diretor do Município de
+São Paulo, que classifica as áreas ao redor das estações de Metrô como Eixos de Estruturação da Transformação Urbana, onde o
+Coeficiente de Aproveitamento permitido (relação entre a área edificada e a área do lote) passa a 4 (o Coeficiente de Aproveitamento
+básico no município é 1) e outros incentivos urbanísticos podem ser ativados, resultando em maior densidade populacional e criando um
+ambiente de novas oportunidades.
+
+A Extensão da Linha 2 - Verde abrirá um leque de oportunidades de negócios adicionais. Com a construção das 8 novas estações,
+surgem diversas possibilidades de empreendimentos associados, como a criação de shoppings centers em áreas remanescentes
+adjacentes às estações, a exploração comercial de terminais de ônibus integrados e a realização de atividades promocionais, eventos,
+publicidade, instalação de quiosques, cafeterias e lojas de conveniência nas próprias estações.
+
+Em 2022, as receitas não tarifárias das linhas 1-Azul, 2-Verde, 3-Vermelha e 15-Prata totalizaram R$ 231,5 milhões, excluindo os ganhos
+provenientes da concessão de "Naming Rights" e da venda de terrenos remanescentes. Para manter a sustentabilidade financeira de suas
+operações, o Metrô de São Paulo tem buscado diversificar suas fontes de receita, formalizando concessões de direitos de nome de
+estações em troca de remuneração mensal. Essa iniciativa envolve a inclusão do nome da empresa contratante e sua marca em
+complemento ao nome original da estação, por um período de concessão de até 20 anos, além de promover a atualização da
+comunicação visual na estação concedida e em todo o sistema, melhorando a orientação dos passageiros sem onerar a operação da
+Companhia do Metrô. Atualmente, já foram concedidos os direitos de nome de três estações - Carrão (Assaí Atacadista), Saúde (
+Ultrafarma) e Penha (Lojas Besni), gerando uma receita mensal acumulada de cerca de R$ 372 mil.
+
+A expansão deste trecho terá um impacto significativo no ambiente de negócios, oferecendo opções de conveniência aprimoradas e um
+melhor atendimento aos passageiros. Além disso, promoverá a geração de receitas não tarifárias, o que é fundamental para a
+sustentabilidade e o aperfeiçoamento do sistema de transporte público. Isso não apenas beneficiará a economia local, mas também
+impulsionará a criação de empregos e estimulará o desenvolvimento econômico na região.
+
+Item 1.7 Benefícios para empreendedores individuais, micro e pequenas empresas
+
+O Metrô de São Paulo dispõe do "Regulamento para Atendimento de Comerciantes e/ou Prestadores de Serviços Vulneráveis" de maneira
+que pequenos comerciantes ou prestadores de serviços em situação de vulnerabilidade que possam ser impactados por obras de
+expansão, não apenas da Linha 2-Verde, sejam compensados financeiramente visando superar perdas de transição ou reposição de
+renda. São contemplados por este regulamento os comerciantes e/ou prestadores de serviço vulneráveis, cujos imóveis sejam objeto de
+desapropriação.
+
+Entre a população alvo da norma, recebem tratamento prioritário os comerciantes e/ou prestadores de serviço que tenham membros em
+situação de maior vulnerabilidade, tais como portadores de necessidades especiais, portadores de doenças crônicas ou graves
+documentadas por órgãos de saúde, mulheres, crianças/adolescentes, idosos, indígenas, minorias étnicas, na forma da lei.
+
+Com base em benchmark internacional, estima-se que a expansão de linhas de metrô tem o potencial de impulsionar significativamente o
+dinamismo econômico e aquecer a atividade comercial nas proximidades das estações em até 36%, como indicado em um estudo
+realizado considerando a extensão da Linha 1 do metrô de Madri (Roberto Ghidini, 2011). O estudo revela que o número de atividades
+econômicas nas proximidades de uma das estações saltou de 176 para 239, acompanhado por uma diversificação das atividades, que
+passou de 43 para 84 ramos distintos, praticamente o dobro.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 17
+
+Esse efeito positivo deriva do aumento no tráfego de pedestres nas imediações das estações, criando um ambiente propício para o
+surgimento de novos empreendimentos e estimulando o comércio local de diversas maneiras. A proximidade com as estações de metrô
+torna as áreas comerciais mais visíveis e acessíveis, atraindo um público diversificado em busca de conveniência e opções variadas. Esse
+influxo de visitantes, por sua vez, fomenta a abertura de novas lojas, restaurantes, cafeterias e serviços, gerando oportunidades para o
+empreendedorismo e fortalecendo a economia local. Em resumo, a expansão do metrô não apenas aprimora a mobilidade, mas também
+exerce um impacto positivo e duradouro no desenvolvimento econômico das áreas circundantes.
+
+Item 1.8 Geração de emprego e renda para populações de baixa renda e vulneráveis
+
+O segmento da construção civil é intensivo na utilização de mão de obra de maneira que a implementação de grandes projetos de
+infraestrutura tem elevado potencial para gerar empregos. Em relação a extensão da Linha 2-Verde, é prevista a geração de
+aproximadamente 8,0 mil postos de trabalho, sendo 3,2 mil empregos diretos e 4,8 mil indiretos. O impacto econômico positivo dessas
+obras vai além da mera construção, estendendo-se à cadeia de suprimentos, serviços de apoio e demanda por mão de obra qualificada.
+Isso não apenas reforça a economia local, mas também contribui para a estabilidade financeira das famílias e a retomada econômica da
+cidade como um todo.
+
+Ademais, os ganhos de acessibilidade proporcionados por uma conexão mais eficiente entre regiões periféricas e centrais tem impacto
+direto na produtividade, sobretudo de populações vulneráveis e de baixa renda que vivem nas bordas dos centros urbanos. A Linha 2-
+Verde do Metro resultará em menor tempo de viagem e acréscimo à capacidade de transporte para a Zona Leste da Região de São Paulo,
+facilitando o acesso à emprego, educação e serviços sociais.
+
+Item 1.9 Infraestrutura e/ou equipamentos sociais para populações de baixa renda e vulneráveis
+
+Além de promover ganhos à qualidade de vida e ao meio ambiente, os investimentos na infraestrutura de transporte ampliam o acesso às
+regiões nas quais se localizam oportunidades de trabalho, estudo, saúde, bem como outros serviços públicos e privados. Quando esta
+infraestrutura é deficiente ou distribuída de forma desequilibrada, os segmentos mais vulneráveis da população, que tendem a residir em
+bairros dormitórios frequentemente localizados nas periferias dos grandes centros, enfrentam maiores dificuldades em acessar os locais
+que concentram tais oportunidades, o que contribui para o agravamento das desigualdades sociais. Assim, iniciativas que melhorem as
+condições de deslocamento beneficiam, principalmente, tais segmentos da população.
+
+Na área de influência indireta da extensão da Linha 2-Verde são quase 7,5 milhões de pessoas (2022) potencialmente beneficiadas pela
+implantação da Linha 2-Verde e cujo acesso se dará por meio da população lindeira e integração de ônibus (municipais e intermunicipais),
+além da ferrovia.
+
+Item 1.10 Ações de inclusão de minorias sociais entre os beneficiários
+
+Os empreendimentos de Habitação de Interesse Social (HIS), conforme item 15, desempenham um papel crucial na manutenção da
+população mais carente próxima às estações e aos equipamentos de transporte. Eles ajudam a reduzir a dinâmica de afastamento dessas
+famílias para locais ainda mais distantes, devido à implantação desses empreendimentos em terrenos remanescentes contíguos às
+estações, de propriedade do Metrô, desapropriados para viabilizar a da implantação da obra. Ao oferecer moradias acessíveis e de
+qualidade nessas áreas, os empreendimentos de habitação social garantem que as famílias de baixa renda possam desfrutar dos
+benefícios de viver em locais bem conectados, com acesso facilitado a serviços, oportunidades de emprego e transporte público eficiente.
+Isso contribui para a redução das desigualdades sociais, promovendo a inclusão social e melhorando a qualidade de vida dessas
+comunidades. Além disso, ao evitar o deslocamento para áreas mais distantes, esses empreendimentos também ajudam a reduzir a
+pressão sobre o meio ambiente, minimizando a necessidade de expansão urbana e a demanda por infraestrutura de transporte adicional.
+Os mecanismos de incentivo para aquisição das unidades habitacionais serão objeto de estudo no momento da implantação do
+empreendimento.
+
+Outro aspecto importante para a inclusão de minorias sociais é a Política Tarifária praticada pelo Metrô de São Paulo, que proporciona
+tarifas com redução de preço por viagem em várias modalidades de bilhetes, além de gratuidades totais, integrações gratuitas com os
+trens metropolitanos e reduções nas tarifas integradas com outros modos, como ônibus municipais e metropolitanos, com o objetivo de
+proporcionar à população o acesso a um meio de transporte rápido, seguro, confiável, com qualidade e eficiência que promove a
+mobilidade urbana sustentável, como o Metrô. A operação da Linha 2-Verde segundo as diretrizes dessa política assegurará a concessão
+de bilhetes especiais às pessoas com deficiência para acesso gratuito ao sistema, a idosos com idade superior a 60 anos e a
+desempregados por um período de 90 dias.
+
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 18
+
+Item 1.11 Políticas voltadas para juventude, gênero e raça
+
+No que diz respeito a políticas voltadas para a juventude, ressalta-se que a Política Tarifária vigente proporciona gratuidade a estudantes
+de baixa renda e redução tarifária de 50% aos estudantes que não se enquadram nessa condição. Trata-se de um benefício que
+contempla majoritariamente a população jovem. Por ser uma prática difundida em toda a rede metroviária, esse benefício se estenderá às
+novas estações da Linha 2-Verde. Diversos estudos têm demonstrado que o transporte público é fator essencial para que os jovens
+possam ter acesso à melhores oportunidades de educação, que geralmente estão localizadas nos grandes centros urbanos. O tempo de
+deslocamento, nestes casos, é primordial para viabilizar os deslocamentos entre moradia, trabalho e educação em tempo hábil.
+
+Item 1.12. Melhoria em processos de prestação de serviços públicos de gestão e/ou de participação cidadã
+
+A expansão da Linha 2-Verde trará uma melhoria significativa nos processos de prestação de serviço público, sendo a primeira operação
+com o nível máximo de automação operacional adotada por uma empresa pública de Metrô no Brasil. Trata-se de um sistema de
+sinalização com o mais avançado nível de automação, denominado GoA4 (Grade of Automation 4), que combina automação completa
+com a ausência de um operador humano a bordo (UTO - Unattended Train Operation). Nesse sistema, os trens são capazes de operar de
+forma autônoma, realizando funções como partida, parada, aceleração, frenagem e controle de velocidade, sem a necessidade de
+intervenção humana direta.
+
+O sistema de sinalização com GoA4/UTO garante um alto grau de segurança, utilizando tecnologias como sensores, comunicação em
+tempo real e algoritmos avançados para tomar decisões precisas e realizar o monitoramento contínuo das condições da via e do tráfego
+ferroviário. Essa combinação de automação e controle avançado oferece eficiência operacional, redução de custos e maior capacidade de
+transporte nas linhas ferroviárias. Atualmente, o único sistema que opera com este grau de automação em solo nacional é a Linha 4
+Amarela de São Paulo, operada pelo Consórcio ViaQuatro através de Parceria Público-Privado. A adoção desta tecnológica na Linha 2
+Verde coloca o setor público em pé de igualdade com o setor privado, demonstrando à população a eficiência na utilização dos recursos e
+a capacidade de inovação para aprimorar o serviço prestado. Essa iniciativa representa um marco importante, destacando o compromisso
+do Companhia do Metropolitano de São Paulo- Metrô como empresa pública, em oferecer um transporte mais eficiente, confiável e
+acessível, proporcionando benefícios tangíveis à população.
+
+Sob a perspectiva do serviço prestado, o sistema de sinalização do tipo CBTC com nível de automação GoA4 ("driverless") traz diversas
+inovações aos usuários. Isso inclui um aumento na capacidade e frequência dos trens, garantindo um transporte mais eficiente e
+reduzindo o tempo de espera nas estações. Além disso, a automação proporciona maior segurança, eliminando erros humanos na
+operação dos trens e garantindo um controle preciso para evitar colisões. Após implantado, o sistema permitirá reduzir o tempo de espera
+entre trens, de atuais 128 segundos para 100 segundos promovendo assim, maior oferta de serviços públicos. Essas inovações resultarão
+em um serviço mais rápido, confiável e seguro para os passageiros. Além disso, inovações em sistemas de telecomunicação, como
+painéis indicativos nas estações, contribuem para o conforto da viagem. Esses painéis fornecem informações em tempo real sobre os
+horários de chegada e partida dos trens, além de atualizações sobre eventuais atrasos ou interrupções no serviço. Com essas
+informações disponíveis, os passageiros podem se planejar melhor e reduzir a incerteza durante a viagem, proporcionando maior conforto
+e conveniência.
+
+Item 1.13 Melhoria das condições de educação e saúde
+
+A missão do Metrô é "conectar pessoas e lugares por meio de uma rede de mobilidade sustentável gerando qualidade de vida". Neste
+sentido, o Metrô de São Paulo desenvolve e realiza ações de promoção da saúde, incentivo à leitura, empreendedorismo, inclusão social,
+campanhas de utilidade pública através do programa Metrô Social nas suas estações. O programa tem como objetivo expandir a
+experiência com o passageiro para além de uma vivência meramente de transporte, visando contribuir também para melhorar a qualidade
+de vida das pessoas. Por meio de parcerias e iniciativas apoiadas pela empresa, diversas ações sociais de utilidade pública têm sido
+desenvolvidas com a finalidade de proporcionar acesso aos mais variados serviços gratuitos, com foco nas áreas: Educação; Crianças e
+Jovens; Saúde e Nutrição; Meio Ambiente e Sustentabilidade; Empreendedorismo e Emprego; Empoderamento de Mulheres e Questões
+de Gênero; Questões Raciais e Étnicas; Inclusão, Diversidade e Necessidades Especiais; População Idosa; Justiça Social, Defesa de
+Direitos, Violência às pessoas e animais. Por serem ações desenvolvidas nas dependências das estações do Metrô de São Paulo, a
+incorporação da expansão da Linha 2-Verde a sua rede criará condições favoráveis para o incremento de tais ações.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+
+
+Página: 19
+
+Adicionalmente, conforme revelado pelo Atlas da Saúde da Cidade de São Paulo, a esmagadora maioria dos estabelecimentos de saúde
+na área municipal de São Paulo estava concentrada na região central, representando um total de 51% dos estabelecimentos nos distritos
+centrais. O distrito da Vila Mariana se destacava com a presença de 1.203 grandes estabelecimentos hospitalares, enquanto outros 50
+distritos em regiões periféricas somavam 1.245 estabelecimentos. Por exemplo, o distrito Jardim Helena, situado na Região Leste de São
+Paulo, contava com menos de 10 estabelecimentos de saúde. Esses dados evidenciam a relação entre sistemas de transporte eficazes e
+a acessibilidade a equipamentos de saúde. A expansão da Linha 2-Verde proporcionará uma conexão direta entre a Região Leste de São
+Paulo, a Região Central e o distrito da Vila Madalena, e contribuirá para melhorar o acesso da população aos serviços de saúde mais
+especializados.
+
+Item 1.14. Desenvolvimento, inovação e modernização tecnológica
+
+A expansão da Linha 2-Verde está sendo implementada adotando em seus projetos o que há de mais atual em termos de tecnologia. As
+características técnicas dos trens, do sistema de sinalização e controle CBTC e a utilização de portas de plataforma que se abrem
+somente nos momentos de embarque e desembarque de passageiros possibilitarão a operação totalmente automatizada dos trens, maior
+eficiência no consumo de energia elétrica, conforto e segurança aos passageiros.
+
+Para validar as boas práticas e as diretrizes de inovação em sustentabilidade, o Metrô realizou um diagnóstico para avaliar o potencial de
+certificação LEED BD+C®das estações do trecho em expansão da Linha 2-Verde até Penha. De forma inovadora, o Metrô inscreveu o
+projeto da Estação Anália Franco no "Green Business Certification Inc". A partir dessa iniciativa, o Metrô passou a incorporar os requisitos
+de construção sustentável certificados em seus projetos. O anexo 12 apresenta informações adicionais sobre o certificado LEED.
+
+A atenção a esses requisitos se estende desde a construção, em atividades como prevenção da poluição, armazenamento e coleta de
+recicláveis, gerenciamento e controle dos resíduos de obra civil, entre outras ações de monitoramento da obra. Ainda neste tema poderá
+ser realizado o monitoramento de toda a cadeia produtiva dos materiais, utilizando produtos "limpos" com os princípios da economia
+circular, em que é possível saber todo seu ciclo de vida desde a produção, conhecendo assim sua procedência.
+
+Outros itens contemplados envolvem a criação de espaços de convivência nas áreas externas da estação, com bancos e áreas verdes
+com percentual mínimo de 50% da superfície da edificação, podendo revitalizar o entorno e trazer benefícios de redução de calor, áreas
+mais permeáveis e servindo também à avifauna local, através das árvores do projeto de paisagismo. No interior da estação, os sistemas
+de ventilação e exaustão de ar, além do projeto de iluminação, vão colaborar para o bem-estar e conforto das pessoas, considerando a
+permanência prolongada em uma área fechada.
+
+Por fim, a inserção urbana da Estação Anália Franco é outro fator que pode ajudar na obtenção do certificado. A estação vem sendo
+construída em uma área adensada na qual já foram identificados mais de 10 tipos de serviços básicos, como escolas, hospitais, agências
+bancárias e mercados, em um raio de até 800 metros. Além do objetivo principal dessa estação, que é o transporte público, haverá
+bicicletário para integração intermodal e conexão com ciclovias próximas, colaborando para a melhoria da mobilidade.
+
+Todos esses requisitos virão acompanhados do cumprimento a diversas legislações para licenciamento ambiental e atendimento a normas
+de segurança do trabalho e exigências do corpo de bombeiros, que poderão dar à futura Estação Anália Franco o título de estação
+sustentável.
+
+Item 1.15 Arranjos de financiamento que incentivem/contribuam com a participação privada
+
+A adoção de arranjos de financiamento que incentivem e contribuam com a participação privada na expansão da Linha 2-Verde é
+justificada pelos benefícios que essa parceria pode trazer. Embora seja um investimento público, a expansão da Linha 2-Verde atrairá
+demanda adicional significativa para o sistema metroviário, o que resultará em uma maior atratividade para receitas acessórias, como
+mídia, varejo e outros empreendimentos associados às estações. Essa linha de receita não operacional é fundamental para o Metrô
+garantir sua sustentabilidade de longo prazo e reduzir sua dependência em receita operacional, seguindo exemplos bem-sucedidos de
+outras redes de transporte ao redor do mundo. Ao diversificar suas fontes de receita através de participação privada, o Metrô poderá
+investir em melhorias contínuas, oferecer serviços de qualidade e atender às necessidades em constante evolução dos usuários,
+garantindo um sistema de transporte público eficiente e sustentável.
+
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+
+
+Página: 20
+
+Além disso, prevê-se a estruturação de empreendimentos de Habitação de Interesse Social em formato de Parcerias Público Privadas (
+PPP), permitindo que parceiros privados realizem os investimentos necessários para a construção dessas habitações. As Parcerias
+Público Privadas (PPPs) para Habitação de Interesse Social são acordos colaborativos entre o setor público e o setor privado para
+viabilizar a construção e a disponibilização de moradias acessíveis para a população de baixa renda. Essas parcerias visam combater o
+déficit habitacional e garantir o acesso à moradia digna para famílias que não possuem condições financeiras para adquiri-la no mercado
+convencional. Um estudo de pré-viabilidade realizado em 2021 pelo Banco Mundial demonstrou ser factível a estruturação de uma PPP
+para implantação de até 342 Unidades de Habitação de Interesse Social, com 43 metros quadrados e 2 dormitórios, em um terreno de 3.
+400 metros quadrados localizado nos arredores da futura Estação Aricanduva, da Linha 2-Verde. Adotando-se uma média de 4 habitantes
+por unidade familiar, esta iniciativa atenderia à 1.368 pessoas.
+
+(ii) POPULAÇÃO BENEFICIADA
+
+A área de influência direta no entorno do traçado da expansão da Linha 2-Verde entre Vila Prudente e Penha abrange cerca de 1 milhão
+de habitantes. Essa área apresenta densidade populacional de 101,7 habitantes por hectare, densidade superior a observada na capital e
+na RMSP (71,37 e 24,52 habitantes, respectivamente), indicando que a linha atravessa uma área densamente povoada. Analisando a
+população pelas faixas de renda média familiar, constata-se que no trecho da expansão da Linha 2-Verde, cerca de 39% das famílias têm
+renda média inferior a 4 salários-mínimos.
+
+Outro aspecto a ser observado é que a maioria dos postos de trabalho encontrados na área de influência direta do empreendimento é de
+baixa ou média qualificação que, somados, chegam a 88% do total de empregos nessa área. A limitada oferta de postos de trabalho
+associada a baixa qualificação das vagas restringe as oportunidades dos residentes na área de influência, além de criar demanda de
+grandes deslocamentos diários dessa população para acessar empregos em outras regiões, sobretudo no centro da metrópole. Essa
+baixa acessibilidade ao emprego contribui significativamente para reprodução das condições de pobreza dos residentes na área influência
+da expansão da Linha 2-Verde.
+
+A expansão da Linha 2-Verde até Penha proporcionará muitos benefícios, não só aos seus passageiros diretos, como também aos demais
+passageiros do sistema de transporte da metrópole e à sociedade como um todo. Sua conclusão criará possibilidades de novos trajetos e
+transferências de maneira que os passageiros do sistema de transporte poderão optar pelo novo trecho e não mais pelo modo
+anteriormente utilizado, seja coletivo sobre pneus ou individual. Os impactos causados pela distribuição dos passageiros por outros modos
+são mensurados e representados através dos Benefícios Sociais, que são as externalidades positivas que ocorrem em função das
+características operacionais do modo de transporte.
+
+Os impactos provenientes da execução integral e operação da expansão da Linha 2-Verde são apresentados a seguir:
+
+(a) A diminuição no consumo de combustíveis fósseis em virtude da migração de passageiros dos modos de transporte mais poluidores
+para a rede metroferroviária;
+
+(b) Redução das emissões atmosféricas devido ao uso de energia mais limpa pelo sistema metroferroviário que absorverá a migração de
+passageiros de outros modos de transporte;
+
+(c) A redução dos custos operacionais de outros modos (ônibus, automóveis e motocicletas) em função da migração para o metrô;
+
+(d) A redução dos custos de manutenção e operação de vias urbanas;
+
+(e) Redução dos tempos de viagens e ampliação do acesso da população às oportunidades de trabalho, estudo, saúde, lazer, bem como a
+outros serviços públicos e privados;
+
+(f) Redução da quantidade de acidentes e custos decorrentes.
+
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 21
+
+O Metrô de São Paulo desenvolveu uma metodologia para estimar em valores monetários os impactos identificados como Benefícios
+Sociais decorrentes da implantação da expansão da Linha 2-Verde. Desta forma, os Benefícios Sociais da expansão da Linha 2-Verde
+entre Vila Prudente e Penha, quando em plena operação, correspondem a R$ 846,7 milhões em 2028 (em reais de 2021). Este valor
+representa a quantia economizada pela sociedade com a implantação do projeto e se distribui da seguinte forma:
+
+(a) Redução do Consumo de Combustíveis (diesel, etanol e gasolina): 15.643.966 litros/ano (equivalente a R$ 73,68 milhões);
+
+(b) Redução das emissões atmosféricas: 34.557 toneladas/ano (equivalente a R$ 11,89 milhões);
+
+(c) Redução do Custo Operacional (ônibus, automóvel e motocicleta): 115.563.054 Km/ano (equivalente a R$ 138,56 milhões);
+
+(d) Redução dos Custos de Manutenção e Operação de Vias: Equivalente a R$ 18,36 milhões;
+
+(e) Redução dos Tempos de Viagem (dos passageiros dos ônibus, automóveis e motocicletas): 53.645.939 horas/ano (equivalente a R$
+594,24 milhões);
+
+(f) Redução dos Custos de Acidentes/ano: 283 acidentes (equivalentes a R$ 10,0 milhões), provenientes de acidentes de trânsito
+calculado através do produto da quilometragem adicional, decorrente das viagens transferidas do Metrô para ônibus, automóveis e
+motocicletas com dados disponíveis no Relatório Anual de Sinistros de Trânsito da CET.
+
+O anexo 13, Memorial de Cálculo, apresenta a metodologia para a apuração dos Benefícios Sociais.
+
+(iii) BENEFÍCIO A POPULAÇÕES DE BAIXA RENDA, VULNERÁVEIS, MINORIAS SOCIAIS JOVENS, COM FOCO EM GÊNERO E/OU
+RAÇA, ENTRE OUTROS
+
+O Metrô de São Paulo implantou há 11 anos o "Regulamento para Reassentamento de Famílias Vulneráveis Atingidas pelas Obras de
+Expansão" que se transformou em uma Política Institucional da empresa e, atualmente, é um programa social que obteve a aprovação da
+comunidade técnica, sobretudo pelo esforço em tratar questões sociais em consonância com o ambiente social da cidade.
+
+Ainda no âmbito da atenção às populações de baixa renda, o projeto de expansão da Linha 2-Verde tem buscado viabilizar estudos para o
+aproveitamento de áreas remanescentes próximas às estações para a implantação de Habitações de Interesse Social (HIS).
+
+O Metrô de São Paulo tem adotado ações visando combater a importunação sexual nas dependências dos trens e estações. Para tanto,
+tem promovido o treinamento dos empregados para o adequado atendimento destas ocorrências e realizado campanhas de prevenção e
+conscientização dos passageiros. Quando em operação, estas ações serão estendidas também à extensão da Linha 2-Verde.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Corporação Andina de Fomento - CAF
+Total:
+
+Sigla
+
+CF
+Sigla
+
+CAF
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+75.000.000,00
+Valor Proposto
+
+300.000.000,00
+375.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+75.000.000,00
+Valor de Referência US
+$
+300.000.000,00
+375.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 22
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+ARRANJO INSTITUCIONAL
+
+(a) Governo do Estado de São Paulo (Mutuário)
+
+(b) Secretaria Estadual da Fazenda e Planejamento (Representante do Mutuário)
+
+O Governo do Estado de São Paulo delegou à Secretaria da Fazenda e Planejamento todos os atos indispensáveis à contratação de
+financiamentos para projetos de investimento do Estado.
+
+Suas responsabilidades, incluindo os atos delegados e os próprios da Secretaria, no âmbito do projeto são:
+
+- Tramitação dos processos de financiamento junto ao Governo Federal;
+
+- Propor a tramitação da lei autorizativa;
+
+- Viabilizar o projeto em termos orçamentários a cada exercício fiscal (contrapartida, serviço de dívida, amortização e demais encargos);
+
+- Interlocução com as partes interessadas em assuntos relacionados ao financiamento do projeto (Órgão Executor, Governo Federal e
+credores);
+
+- Assinar contrato de financiamento em nome do Estado de São Paulo;
+
+- Acompanhar a execução do projeto (apresentação da Carta-Consulta, instrução do processo de financiamento junto ao Governo Federal,
+reunião de negociação contratual, revisão de carteira);
+
+(c) Secretaria dos Transportes Metropolitanos - STM (Órgão Setorial)
+
+Suas responsabilidades no âmbito do projeto:
+
+- Acompanhar a utilização dos recursos do contrato de financiamento observando as previsões estabelecidas e as disponibilidades
+existentes;
+
+- Apontar as fontes dos recursos orçamentários e de crédito, inclusive os de contrapartida local, destinados ao desenvolvimento das
+atividades do projeto;
+
+- Formalização de convênio de execução com o Metrô, quando aplicável.
+
+(d) Companhia do Metropolitano de São Paulo - Metrô (Órgão Executor)
+
+Suas responsabilidades (anexo 14)  no âmbito do projeto:
+
+- Gerenciar, administrar e prestar contas ao Mutuário, ao banco financiador, ao Tribunal de Contas e outros organismos acerca dos
+recursos orçamentários e de crédito que sejam necessários para a execução anual do projeto;
+
+- Assessorar e informar, regular e oportunamente, ao Mutuário e ao financiador sobre o andamento do projeto;
+
+
+Página: 23
+
+- Manter atualizado e preparar oportunamente todas as evidências que sejam exigidas pelo financiador sobre o progresso e cumprimento
+do contrato de financiamento;
+
+- Administrar, coordenar, supervisionar e avaliar a execução do projeto;
+
+- Preparar a documentação relacionada às aquisições necessárias ao projeto, tais como documentos de licitação, relatórios de avaliação e
+informações sobre litígios e processos judiciais envolvendo contratos financiados;
+
+- Supervisionar, dos pontos de vista técnico, administrativo, ambiental e social a execução do projeto. Aferir a qualidade técnica dos
+estudos de pré-investimento e investimento, a idoneidade da execução do projeto, seu progresso e pagamentos, bem como a observância
+dos planos de gestão ambiental e social aplicáveis;
+
+- Realizar a gestão financeira e administrar as contas projeto;
+
+- Preparar a documentação necessária para apresentar e prestar contas ao financiador;
+
+- Preparar os desembolso e as justificativas de despesas do projeto conforme os requisitos do financiador;
+
+- Responder pelos sistemas de informação contábil e financeira, preparar as demonstrações contábeis e financeiras do projeto;
+
+- Efetuar os pagamentos às contratadas e consultores, conforme progresso dos trabalhos, devidamente respaldadas pelas inspeções de
+execução e nas condições contratuais.
+
+- Contratar os serviços de auditoria independente requeridos pelo financiador e apresentar os relatórios dos auditores conforme  contrato
+de financiamento.
+
+- Designar representantes para os atos relacionados com a execução do contrato de financiamento, delegado sobre sua responsabilidade,
+inclusive para efetuar as solicitações desembolsos encaminhadas ao financiador;
+
+- Preparar relatórios que faz referência o contrato de financiamento, nos formatos e prazos estabelecidos pelo financiador.
+
+ESTRUTURA OPERACIONAL
+
+O Metro-SP (executor) conta com uma Coordenadoria de Gestão Financeira de Empreendimentos (PMU) que integra a estrutura
+organizacional de Gerência de Planejamento Financeiro (GPF). O PMU tem por missão gerenciar os recursos provenientes das
+instituições financeiras nacionais e internacionais e realizar a interface entre elas e as áreas técnicas do Metrô envolvidas na execução do
+empreendimento.
+
+Os projetos de expansão e modernização do Metro de São Paulo tem recebido apoio financeiro de bancos de fomento há quase duas
+décadas.
+
+Cumpre-se destacar que a Companhia do Metro tem conhecimento da política de aquisições/contratações da CAF, que utiliza os sistemas
+nacionais para tal finalidade (legislação brasileira aplicável), neste caso a Lei das Estatais nº 13.303/2016, com a qual a Companhia do
+Metro tem grande experiência.
+
+Ademais, o Metro tem pleno conhecimento das políticas de aquisição, sociais e ambientais da CAF, que promove o uso dos sistemas
+nacionais (legislação brasileira aplicável) na implementação de padrões de licitações, sociais e ambientais.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Companhia do Metropolitano de São Paulo - METRÔ
+
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+
+### 4.3. Execução/Prazo
+
+
+Fax:
+UF:
+
+
+Prazo de Desembolso: 3 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+Página: 24
+
+C - OBRAS CIVIS
+
+COMPONENTES
+
+P - LOTE 1 - TRECHO ENTRE  FALCHI GIANINI ATE ESTACAO PENHA E TUNEIS DE VSE
+COM SHIELD
+P - LOTE 2 - ESTACAO PENHA INTEGRACAO  METRO X CPTM - VSE PADRE ANTONIO
+
+VALOR
+
+Ano 1
+
+FONTES
+
+CUSTO
+367.496.546,00
+
+CF
+
+37.474.640,00
+
+CAF
+149.898.566,00
+
+235.949.998,00
+
+21.122.009,00
+
+84.488.040,00
+
+69.171.150,00
+
+6.352.014,00
+
+25.408.057,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+P - LOTE 3 - ESTAÇÕES :  ORFANATO, SANTA CLARA E PATEO ESTACIONAMENTO TRENS
+
+28.320.229,00
+
+5.224.802,00
+
+20.899.206,00
+
+P - LOTE 4 - POÇO CAPITAO E  VSE COXIM
+
+8.205.208,00
+
+1.553.482,00
+
+6.213.930,00
+
+P - LOTE 5 - ESTAÇÕES:  SANTA ISABEL E GUILHERME GIORGI - ACABAMENTO
+
+7.274.820,00
+
+1.035.875,00
+
+4.143.500,00
+
+P - LOTE 6 - ESTAÇÃO ARICANDUVA
+
+C - AUDITORIA, GERENCIAMENTOS E OUTROS SERVIÇOS
+
+P - DESVIOS DE TRÁFEGO DO SISTEMA VIÁRIO
+
+P - AUDITORIA EXTERNA
+
+P - SUPERVISÃO DE OBRAS
+
+P - ANÁLISE DE PROJETOS EXECUTIVOS DE OBRAS CIVIS
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+18.575.141,00
+
+2.186.458,00
+
+8.745.833,00
+
+7.503.454,00
+
+761.155,00
+
+3.044.618,00
+
+1.015.855,00
+
+187.253,00
+
+749.013,00
+
+18.073,00
+
+1.205,00
+
+4.819,00
+
+4.191.019,00
+
+469.891,00
+
+1.879.562,00
+
+2.278.507,00
+
+102.806,00
+
+411.224,00
+
+0,00
+
+38.235.795,00
+
+152.943.184,00
+
+0,00
+
+0,00
+
+C - OBRAS CIVIS
+
+COMPONENTES
+
+P - LOTE 1 - TRECHO ENTRE  FALCHI GIANINI ATE ESTACAO PENHA E TUNEIS DE VSE
+COM SHIELD
+P - LOTE 2 - ESTACAO PENHA INTEGRACAO  METRO X CPTM - VSE PADRE ANTONIO
+
+P - LOTE 3 - ESTAÇÕES :  ORFANATO, SANTA CLARA E PATEO ESTACIONAMENTO TRENS
+
+P - LOTE 4 - POÇO CAPITAO E  VSE COXIM
+
+P - LOTE 5 - ESTAÇÕES:  SANTA ISABEL E GUILHERME GIORGI - ACABAMENTO
+
+VALOR
+
+CUSTO
+
+P - LOTE 6 - ESTAÇÃO ARICANDUVA
+
+C - AUDITORIA, GERENCIAMENTOS E OUTROS SERVIÇOS
+
+P - DESVIOS DE TRÁFEGO DO SISTEMA VIÁRIO
+
+P - AUDITORIA EXTERNA
+
+P - SUPERVISÃO DE OBRAS
+
+P - ANÁLISE DE PROJETOS EXECUTIVOS DE OBRAS CIVIS
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - OBRAS CIVIS
+
+COMPONENTES
+
+P - LOTE 1 - TRECHO ENTRE  FALCHI GIANINI ATE ESTACAO PENHA E TUNEIS DE VSE
+COM SHIELD
+P - LOTE 2 - ESTACAO PENHA INTEGRACAO  METRO X CPTM - VSE PADRE ANTONIO
+
+P - LOTE 3 - ESTAÇÕES :  ORFANATO, SANTA CLARA E PATEO ESTACIONAMENTO TRENS
+
+P - LOTE 4 - POÇO CAPITAO E  VSE COXIM
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+Ano 2
+
+FONTES
+
+CF
+
+CAF
+
+24.371.075,00
+
+97.484.302,00
+
+17.686.669,00
+
+70.746.677,00
+
+4.351.690,00
+
+17.406.757,00
+
+439.244,00
+
+1.756.977,00
+
+87.559,00
+
+350.237,00
+
+388.675,00
+
+1.554.700,00
+
+1.417.238,00
+
+5.668.954,00
+
+437.911,00
+
+1.751.645,00
+
+15.918,00
+
+1.205,00
+
+63.671,00
+
+4.820,00
+
+254.384,00
+
+1.017.539,00
+
+166.404,00
+
+665.615,00
+
+0,00
+
+24.808.986,00
+
+99.235.947,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+CAF
+
+TOTAL
+
+CF
+
+11.653.593,00
+
+46.614.370,00
+
+73.499.308,00
+
+TOTAL
+
+CAF
+293.997.238,00
+
+8.381.321,00
+
+33.525.282,00
+
+47.189.999,00
+
+188.759.999,00
+
+3.130.526,00
+
+12.522.106,00
+
+13.834.230,00
+
+55.336.920,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+5.664.046,00
+
+22.656.183,00
+
+1.641.041,00
+
+6.564.167,00
+
+P - LOTE 5 - ESTAÇÕES:  SANTA ISABEL E GUILHERME GIORGI - ACABAMENTO
+
+30.414,00
+
+121.656,00
+
+1.454.964,00
+
+5.819.856,00
+
+P - LOTE 6 - ESTAÇÃO ARICANDUVA
+
+C - AUDITORIA, GERENCIAMENTOS E OUTROS SERVIÇOS
+
+P - DESVIOS DE TRÁFEGO DO SISTEMA VIÁRIO
+
+P - AUDITORIA EXTERNA
+
+P - SUPERVISÃO DE OBRAS
+
+P - ANÁLISE DE PROJETOS EXECUTIVOS DE OBRAS CIVIS
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+ATOS LEGAIS NECESSÁRIOS
+
+111.332,00
+
+445.326,00
+
+3.715.028,00
+
+14.860.113,00
+
+301.626,00
+
+1.206.499,00
+
+1.500.692,00
+
+6.002.762,00
+
+0,00
+
+0,00
+
+203.171,00
+
+812.684,00
+
+1.205,00
+
+4.819,00
+
+3.615,00
+
+14.458,00
+
+113.929,00
+
+455.714,00
+
+838.204,00
+
+3.352.815,00
+
+186.492,00
+
+745.966,00
+
+455.702,00
+
+1.822.805,00
+
+375.000.000,00
+
+11.955.219,00
+
+47.820.869,00
+
+75.000.000,00
+
+300.000.000,00
+
+Encontra-se em trâmite administrativo o projeto de lei para autorização legislativa aos financiamentos pretendidos pelo Estado de São
+Paulo em 2024, dentre eles US$ 300 milhões para o novo financiamento com a CAF para continuidade da expansão da Linha 2-Verde. O
+projeto aguarda o início do ano legislativo da ALESP para encaminhamento. A Assembleia Legislativa de SP já aprovou as leis nº 15.427/
+2014, com autorização de US$ 550 milhões, e nº 17.472/2021, de US$ 721 milhões (incorporada à Lei 17.386/2021), destinadas a outras
+operações de crédito, para fases anteriores da expansão da Linha 2-Verde. Assim, não se espera dificuldades na aprovação de nova
+autorização.
+
+(cid:10)
+(cid:10)
+
+
+Página: 25
+
+Durante a preparação do programa de financiamento não caberá formalização de convênio entre o Estado de São Paulo e o Executor. O
+convênio necessário para execução do projeto será devidamente formalizado após assinatura do contrato de financiamento e antes do
+primeiro desembolso, e terá por objetivo definir as responsabilidades dos partícipes. A Companhia do Metrô, na condição de executor do
+projeto, conta com experiência necessária para formalização de convênios subsidiários bem como sua execução.
+
+RISCOS E AÇÕES MITIGADORAS
+
+O Metrô de São Paulo tem instituído o Código de Conduta e Integridade que reflete os princípios éticos e legais, bem como o ordenamento
+jurídico que norteia a Administração Pública. O objetivo do documento é reforçar os princípios e valores adotados pela empresa, os quais
+orientam o comportamento ético de todos os membros da alta administração, conselho fiscal, comitê de auditoria estatutário, comitê de
+elegibilidade e aconselhamento, colaboradores, prepostos e terceiros contratados.
+
+Todas as pessoas, físicas ou jurídicas, que atuam para a empresa, direta ou indiretamente, são responsáveis por cumprir estritamente a
+lei e garantir que suas ações e decisões estejam alinhadas aos valores, princípios e regras contidos no Código de Conduta e Integridade.
+Aquele que praticar quaisquer violações às disposições nele contidas estará sujeito a sanções disciplinares ou administrativas.
+
+Em nível operacional, o Metrô implementou e mantém atualizado um conjunto de Instrumentos Normativos, incluindo políticas corporativas
+, processos, procedimentos, manuais, entre outros, abrangendo as disciplinas de processos licitatórios, elaboração de editais e contratos,
+gestão contratual, licenciamento ambiental, desapropriações, gestão de projetos, incluindo gestão de riscos de projetos, gestão de riscos
+corporativos e proteção de dados, todos à luz das leis e decretos vigentes.
+
+Na sua estrutura organizacional, o Metro de São Paulo conta com a Gerência de Gestão de Riscos Corporativos e Conformidade (GRC)
+que é uma das instâncias internas de governança corporativa em nível estratégico na Companhia, a partir da Lei 13.303/2016 (Lei das
+Estatais). A missão dessa gerência é administrar o processo de identificação, avaliação e mitigação de riscos, propor e verificar a
+aplicação de medidas para a melhoria dos controles internos, da segurança da informação e conformidade.
+
+Também integra a estrutura organizacional da empresa a Gerência Jurídica (GJU) que possui as atribuições, dentre outras, de prestar
+assistência jurídica a fim de orientar a alta direção e as demais áreas da empresa, bem como assegurar que o Sistema de Gestão da
+Qualidade (SGQ) da Gerência Jurídica esteja em conformidade com os requisitos da ABNT, NBR e ISO 9001 em suas versões vigentes.
+
+No que se refere aos riscos contratuais, eles são mitigados por meio de áreas específicas de gestão de contratos nas gerencias de
+operação, manutenção e do empreendimento Linha 2-Verde, com processos de gestão de contratos instituídos e normatizados pela
+empresa. As decisões de aprovação ou reprovação de aditivos são feitas em reunião colegiada dos diretores do Metrô de São Paulo,
+conforme instrumento normativo.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+PRINCIPAIS CONTRATAÇÕES PARA A EXECUÇÃO DO PROGRAMA
+
+Considerando que os 6 lotes de obras civis se encontram contratados e em plena execução, assim como os serviços de supervisão e
+gerenciamento, não existem riscos de contratações para os componentes do projeto para os quais se pleiteia financiamento.
+
+PREVISÃO DE CONTRATAÇÃO DE PESSOAL (VIA CONCURSO OU POR OUTRA VIA)  PARA IMPLEMENTAÇÃO DO PROJETO
+
+Conforme citado no item 2.11, é previsto que a expansão da Linha 2-Verde gere aproximadamente 8,0 mil postos de trabalho, sendo 3,2
+mil empregos diretos e 4,8 mil indiretos. Por se tratar de um empreendimento realizado por empresas contratadas pelo executor, tais como
+empreiteiras, gerenciadoras, supervisoras de obras, a contratação de pessoal não ocorre via concurso, mas sob a modalidade celetista,
+ou seja, com vínculo empregatício regido pela Consolidação das Leis do Trabalho (CLT).
+
+EXPERIÊNCIA DO ÓRGÃO EXECUTOR COM AS POLÍTICAS DE AQUISIÇÃO/CONTRATAÇÃO DO AGENTE FINANCEIRO
+
+(cid:10)
+
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+
+(cid:10)
+
+
+Página: 26
+
+O Metrô de São Paulo conta com apoio financeiro da CAF para o projeto Linha 17-Ouro, cujo contrato de financiamento foi assinado em
+07/10/2019, no valor de US$ 296,0 milhões. Além disso, em 15/09/2022, a CAF assinou um contrato de financiamento de US$ 550,0
+milhões, este com previsão de exaurimento dos recursos para o primeiro semestre de 2024, destinados principalmente às despesas com a
+execução de obras civis da Linha 2-Verde. A participação da CAF em ambos os projetos tem possibilitado a ampliação da experiência do
+Metrô de São Paulo com suas políticas de aquisições através da submissão a sua avaliação dos editais e demais documentos
+relacionados as contratações elegíveis a financiamento. Além disso, a evolução dos projetos tem sido acompanhada pelo Banco por meio
+de missões periódicas contando com visita às obras e reuniões com líderes de projeto e dirigentes do Metrô de São Paulo, na qualidade
+de executor, e equipe do Estado de São Paulo, na qualidade de tomador dos empréstimos.
+
+RISCOS E AÇÕES MITIGADORAS
+
+Os riscos relacionados a aumento de escopo e custo durante as execuções contratuais serão mitigados por meio da elaboração dos
+editais considerando o projeto básico aprovado para os trens, sistema de sinalização CBTC, sistema de alimentação elétrica, sistemas
+auxiliares e sistema de telecomunicações. Para todas as soluções previstas, esse risco também é mitigado por meio da decisão de
+aprovação ou reprovação de aditivos em reunião colegiada dos diretores do Metrô de São Paulo, conforme instrumento normativo.
+
+Em relação ao sistema de sinalização CBTC, há o risco de incompatibilidade do sistema de sinalização novo com o implantado no trecho
+em operação da Linha 2-Verde entre as estações Vila Madalena e Penha. O plano de ação é manter as especificações compatíveis com
+aquelas do sistema implantado e viabilizar a contratação direta com o mesmo fornecedor.
+
+Há risco de atraso da entrada em operação dos primeiros trens devido ao atraso na entrega ou ao atraso nos seus comissionamentos. O
+plano de ação compreende manter o cronograma contratual atualizado periodicamente, com reuniões técnicas e gerenciais periódicas
+entre o Metrô e a contratada para definir as ações de contorno e soluções, caso necessário.
+
+Há risco de atraso no comissionamento do sistema de sinalização CBTC podendo impactar a meta de operação da Linha 2-Verde até
+Penha. O plano de ação é considerar os prazos médios de montagem e comissionamento, conforme histórico do Metrô, nos marcos
+contratuais. Além disso, pretende-se atualizar periodicamente o cronograma contratual e realizar reuniões técnicas e gerenciais entre o
+Metrô e a contratada para definir as ações de contorno e soluções, caso necessário.
+
+Os riscos relacionados a atraso na implantação do sistema de alimentação elétrica, sistemas auxiliares e sistema de telecomunicações
+serão mitigados por meio da manutenção do cronograma contratual atualizado e reuniões técnicas e gerenciais periódicas entre o Metrô e
+a contratada para definir as ações de contorno e soluções, caso necessário.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+(i) Para a expansão da Linha 2-Verde entre Vila Prudente e Penha foi necessária a desapropriação de 234 imóveis, sendo 227 privados e
+7 públicos. A área total desapropriada foi de aproximadamente 75.000 m². O custo acumulado corresponde a R$ 383.873.000 (até
+novembro de 2023) e contempla indenizações, avaliações periciais, demolições e taxas.
+
+(ii) As áreas necessárias ao empreendimento foram declaradas de utilidade pública pelo decreto nº 59.387 de 26/07/2013.
+
+(iii) As respectivas compensações foram realizadas mediante o pagamento de indenizações.
+
+(iv) Os processos de desapropriações foram realizados pelo Metrô de São Paulo e as despesas foram pagas com recursos do tesouro do
+Estado de São Paulo.
+
+(v) Na etapa atual de NÃO HÁ RISCOS ao empreendimento decorrentes das desapropriações. Todos os imóveis apresentam imissão na
+posse e foram disponibilizados às frentes de obras.
+
+(vi) Visando mitigar riscos e impactos provenientes das suas obras de expansão, o Metrô de São Paulo conta com programas específicos
+formalizados pelos documentos "Regulamento para Reassentamento de Famílias Vulneráveis Atingidas pelas Obras de Expansão" e
+"Regulamento para Atendimento de Comerciantes e/ou Prestadores de Serviços Vulneráveis atingidos pelas obras de Expansão do Metrô
+de São Paulo".
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 27
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+SITUAÇÃO DOS LICENCIAMENTOS
+
+A seguir é apresentado o histórico de Licenças Ambientais protocoladas e concedidas pela Companhia Ambiental do Estado de São Paulo
+(CETESB) para o trecho Vila Prudente - Paulo Freire, que inclui a fase 1 da expansão da Linha 2-Verde entre Vila Prudente e Penha, em
+implantação.
+
+- Em 30 de janeiro de 2009, foi aberto na CETESB o processo de solicitação da Licença Ambiental Prévia (LP) para o Trecho Vila
+Prudente - Paulo Freire da Linha 2-Verde;
+
+- Em 31 de março de 2009, foi emitido pela CETESB o Termo de Referência contemplando as diretrizes para elaboração do Estudo de
+Impacto Ambiental e Relatório de Impacto Ambiental (EIA/RIMA) referente ao Trecho Vila Prudente - Paulo Freire da Linha 2-Verde;
+
+- Em 18 de setembro de 2012, foi protocolado na CETESB o Estudo de Impacto Ambiental e Relatório de Impacto Ambiental (EIA/RIMA)
+para implantação do Trecho Vila Prudente - Paulo Freire da Linha 2-Verde;
+
+- Em 27 de março de 2013, foi emitida pela CETESB a Licença Ambiental Prévia, LP n° 2227, contemplando a viabilidade ambiental do
+Trecho Vila Prudente - Paulo Freire da Linha 2-Verde;
+
+- Em 17 de outubro de 2014, foi protocolado na CETESB a solicitação da Licença Ambiental de Instalação (LI) para as obras de
+implantação do Trecho Vila Prudente - Paulo Freire da Linha 2-Verde;
+
+- Em 20 de março de 2015, foi emitida pela CETESB a Licença Ambiental de Instalação, LI n° 2352, contemplando a implantação do
+Trecho Vila Prudente - Paulo Freire da linha 2-Verde;
+
+- Em 06 de julho de 2020 foi obtida a autorização para montagem de canteiros das unidades construtivas VSE Falchi Gianini, Poço
+Capitão, Estação Anália Franco, VSE Coxim, Estação Vila Formosa e Complexo Rapadura por meio do Parecer Técnico Nº 177/20/IE;
+
+- Em 12 de fevereiro de 2021 foi obtida a autorização para início de obras das unidades construtivas VSE Falchi Gianini, Estação Santa
+Clara, Poço Capitão, Estação Anália Franco e VSE Coxim por meio do Parecer Técnico Nº 036/21/IE;
+
+- Em 25 de março de 2021 foi obtida a autorização para início de obras da Estação Vila Formosa por meio do Parecer Técnico Nº 084/21/
+IE;
+
+- Em 20 de maio de 2021 foi obtida a autorização para início de obras das unidades construtivas Estação Santa Isabel, Estação Guilherme
+Giorgi, Estação Penha, Vala Penha e VSE Padre João por meio do Parecer Técnico Nº 130/21/IE;
+
+- Em 04 de junho de 2021 foi obtida a autorização para início de obras da Estação Aricanduva por meio do Parecer Técnico Nº 136/21/IE;
+
+- Em 02 de setembro de 2021 foi obtida a autorização para início de obras do Complexo Rapadura por meio do Parecer Técnico Nº 189/21
+/IE;
+
+- Em 25 de outubro de 2021 foi obtida a autorização para início de obras dos VSEs Madrid, Cestari, João Prioste, Julio Colaço e Soares
+Neiva por meio do Parecer Técnico Nº 285/21/IE.
+
+Destaca-se que o entendimento do corpo jurídico do Órgão Licenciador (CETESB), consubstanciado pelo artigo 8º do inciso II da
+Resolução Conama 237/1997, texto com redação similar ao Artigo 20, inciso II da Lei Estadual 9.509/1997 e pelo Decreto Estadual 47.400
+/2002 é de que uma Licença de Instalação tem por finalidade autorizar a instalação do empreendimento que, uma vez iniciada dentro de
+seu prazo de validade e cumpridas as medidas de controle ambiental e demais condicionantes, o executor será considerado regular até o
+término das obras sendo, portanto, dispensada a necessidade de prorrogação de seu prazo. Desta forma, ainda que na emissão da LI
+2352/2015 conste o prazo de validade de 6 anos (até março de 2021), considerando-se que as obras foram iniciadas em julho de 2020 a
+Licença de Instalação permanecerá válida até o término das etapas de instalação do trecho Vila Prudente - Paulo Freire.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 28
+
+EXPERIÊNCIA DO ÓRGÃO EXECUTOR COM AS POLÍTICAS/SALVAGUARDAS AMBIENTAIS DO AGENTE FINANCEIRO
+
+O Metrô de São Paulo tem contado com apoio financeiro da CAF para implantação da Linha 17-Ouro e o prolongamento da Linha 2-Verde.
+Tais experiências tem possibilitado que as equipes técnicas do executor estejam familiarizadas com as políticas ambientais adotadas pela
+instituição financeira. Além da experiencia prévia com a diretrizes ambientais da CAF, o executor tem implementado projetos ao longo das
+últimas duas décadas com financiamentos do BIRD, aprofundando, desta forma, sua experiencia no atendimento a salvaguardas sociais e
+ambientais. Ao longo da execução destes empreendimentos, o Metrô de São Paulo tem recebido missões periódicas de especialistas de
+ambas as instituições financeiras para o acompanhamento da aplicação de suas salvaguardas.
+
+RISCOS AMBIENTAIS E AÇÕES MITIGADORAS
+
+Os riscos relacionados aos impactos ambientais no âmbito da expansão da Linha 2-Verde entre Vila Prudente e Penha foram identificados
+e analisados com base em potenciais impactos nos meios físicos, biótico e antrópico, na etapa de elaboração do Estudo de Impacto
+Ambiental e Relatório de Impacto Ambiental (Relatório que consolida e apresenta os resultados obtidos pelo Estudo de Impacto Ambiental)
+do empreendimento. Destaca-se que este estudo é requisito para a obtenção da Licença Prévia e nele são detalhados o Diagnóstico
+Socioambiental com a definição territorial das áreas de influência do empreendimento, a caracterização dos meios citados, são
+identificados e avaliados os impactos ambientais e propostas medidas e a ações de controle a partir da apresentação dos planos e
+programas ambientais que serão referência durante a fase de implantação. Podemos citar como principais de riscos relacionados a estes
+meios:
+
+·Risco de alteração da qualidade das águas superficiais e de assoreamento de corpos hídricos;
+
+·Risco de alteração dos padrões de qualidade do solo e das águas subterrâneas;
+
+·Alteração pontual na qualidade do ar, decorrente do aumento das concentrações de material particulado em suspensão, de poeiras e da
+emissão de gases veiculares;
+
+·Alteração pontual dos níveis de ruídos, decorrentes das obras de implantação e operação do empreendimento;
+
+·Riscos de interferência das obras em áreas potencial ou comprovadamente contaminadas;
+
+·Risco de Supressão de indivíduos arbóreos alteração da paisagem;
+
+·Risco de ocorrência do afugentamento da avifauna;
+
+As medidas mitigadoras e preventivas, seus prazos especificados, além dos dados sobre os responsáveis envolvidos fazem parte do
+Plano Básico Ambiental, composto pelos seguintes documentos:
+
+1) Plano de Gestão Ambiental do Empreendimento PGA
+
+2) Plano de Controle Ambiental das Obras PCA:
+
+- Programa de Gerenciamento de Material Excedente;
+
+- Programa de Gerenciamento da Água Bombeada e Efluentes;
+
+- Programa de Gerenciamento de Resíduos;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 29
+
+-Controle de Resíduos da Construção Civil;
+
+-Controle e Gerenciamento de Resíduos Não Inertes Classe II-A;
+
+-Controle e Gerenciamento de Resíduos Perigosos e Produtos Químicos  Classe I
+
+- Programa de Gerenciamento de Áreas Contaminadas;
+
+- Programa de Monitoramento dos Níveis de Ruídos e Vibrações;
+
+- Programa de Monitoramento da Qualidade do Ar;
+
+- Programa de Educação Ambiental;
+
+- Subprograma de Controle Ambiental das Condições de Saúde e Segurança Ocupacional
+
+- Programa de Monitoramento de Recalques;
+
+- Programa de Controle de Processos Erosivos e de Assoreamento;
+
+- Programa de Controle de Vetores e Fauna Sinantrópica;
+
+- Programa de Controle de Tráfego;
+
+-Subprograma de Desvios de Tráfego e Sinalização da Obra, Transferência de Serviços e Transporte Coletivo.
+
+- Programa de Paisagismo e Reurbanização.
+
+3) Plano de Manejo Arbóreo:
+
+-Subprograma de Monitoramento de Avifauna.
+
+- Programa de Comunicação Social
+
+- Programa de Acompanhamento do Processo de Desapropriação
+
+4) Plano de Gestão do Patrimônio Histórico, Cultural e Arqueológico:
+
+- Subprograma de Prospecção, Monitoramento e Resgate Arqueológico;
+
+- Subprograma de Educação Patrimonial.
+
+5) Plano de Gerenciamento de Riscos e Ações em Emergências;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 30
+
+Os documentos acima mencionados fazem parte das exigências legais para as emissões da Licença Prévia, Licença de Instalação e,
+posteriormente, Licença de Operação. Para assegurar o cumprimento das ações relacionadas aos riscos ambientais, o Metrô de São
+Paulo possui uma área específica e interna à gerência gestora do empreendimento.
+
+Os riscos ambientais relacionados a doenças e danos à saúde dos trabalhadores, considerando esta etapa do projeto, têm relação com
+fatores que são eliminados ou mitigados por meio de obrigações contratuais e mecanismos de verificação do cumprimento da legislação
+trabalhista, normas regulamentadoras e instrumentos normativos, com exigências de treinamentos, de utilização de equipamentos de
+proteção individuais e coletivos, sinalizações adequadas conforme as normas, além de fiscalizações de rotina para identificar desvios e
+orientar a implementação de ações preventivas e corretivas.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+RISCOS SOCIAIS DECORRENTES DA IMPLEMENTAÇÃO DO PROJETO SOBRE MINORIAS SOCIAIS, VULNERÁVEIS, BAIXA RENDA
+E POPULAÇÕES TRADICIONAIS COMO INDÍGENAS, QUILOMBOLAS, EXTRATIVISTAS E OUTRAS
+
+A execução do projeto não tem potencial para a geração de riscos sociais negativos sobre minorias sociais, vulneráveis, baixa renda e
+populações tradicionais.  Pelo contrário, as obras e serviços a serem executados pelo Projeto produzem impactos sociais altamente
+positivos.
+
+EXPERIÊNCIA DO ÓRGÃO EXECUTOR COM AS POLÍTICAS/SALVAGUARDAS SOCIAIS DO AGENTE FINANCEIRO
+
+Por contar com apoio financeiros da CAF para implantação da Linha 17-Ouro e na extensão da Linha 2-Verde, o Metrô de São Paulo
+possui equipes técnicas familiarizadas com as salvaguardas sociais do agente financeiro.
+
+RISCOS SOCIAIS E AÇÕES MITIGADORAS
+
+Da mesma forma que ocorre com os riscos relacionados aos impactos ambientais, os riscos relacionados aos impactos sociais no âmbito
+da expansão da Linha 2-Verde entre Vila Prudente e Penha também foram identificados e analisados com base em potenciais impactos no
+meio socioeconômico na etapa de elaboração do Estudo de Impacto Ambiental e Relatório de Impacto Ambiental (Relatório que consolida
+e apresenta os resultados obtidos pelo Estudo de Impacto Ambiental) do empreendimento. Reitera-se que este estudo é requisito para a
+obtenção da Licença Prévia e nele são detalhados o Diagnóstico Socioambiental com a definição territorial das áreas de influência do
+empreendimento, a caracterização dos meios citados, são identificados e avaliados os impactos ambientais e propostas medidas e a
+ações de controle a partir da apresentação dos planos e programas ambientais que serão referência durante a fase de implantação.
+Podemos citar como exemplos de riscos relacionados a estes meios:
+
+·Geração de expectativa da população das Áreas de Influência Direta e Indireta do empreendimento;
+
+·Incremento da ação do mercado imobiliário e oscilação do valor dos imóveis;
+
+·Impacto social pelo processo de desapropriação;
+
+·Risco de evasão da população de menor renda;
+
+·Risco de interferência e descaracterização do patrimônio histórico-cultural Edificado;
+
+O Estudo também identifica impactos positivos importantes para o empreendimento como:
+
+·Redução das emissões de poluentes atmosféricos e ruídos, decorrente da diminuição da frota de veículos coletivos e particulares em
+circulação;
+
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+
+
+Página: 31
+
+·Aumento da mobilidade da população residente nas áreas de influência;
+
+·Aumento da arrecadação tributária;
+
+·Aumento da renda da população da Área Diretamente Afetada;
+
+·Geração de empregos e;
+
+·Diversos benefícios socioambientais associados à instalação e operação do empreendimento.
+
+As medidas mitigadoras e preventivas para os impactos negativos, seus prazos especificados, além dos dados sobre os responsáveis
+envolvidos compõem o Plano Básico Ambiental do empreendimento, conforme detalhado no Item 5.4 Riscos/Ambientais.
+
+Para assegurar o cumprimento das ações relacionadas aos riscos sociais, o Metrô possui uma área específica e interna à gerência
+gestora do empreendimento.
+
+A comunicação com os moradores dos arredores do empreendimento Linha 2-Verde e demais partes interessadas é realizada com base
+nos instrumentos normativos do Metrô de São Paulo. Para tanto, são disponibilizados canais de comunicação por meios digitais, contato
+pessoal, placas visuais e outros meios.
+
+Os pequenos comerciantes ou prestadores de serviços em situação de vulnerabilidade que possam ser impactados pelo empreendimento
+são compensados financeiramente visando superar perdas de transição ou reposição de renda, conforme política estabelecida no
+Regulamento para Atendimento de Comerciantes e/ou Prestadores de Serviços Vulneráveis atingidos por obras de expansão do Metrô de
+São Paulo.
+
+No âmbito da expansão da Linha 2-Verde existem iniciativas de estudos buscando alternativas que possibilitem a utilização de áreas
+remanescentes próximas às estações para implantação de habitações de interesse social.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Não se aplica.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+Informações relevantes
+
+-  21/03/2024:  Retirada  de  pauta  na  172ª  Reunião  da  Cofiex,  em  14/03/2024,  por  sua  classificação  não  alcançar  o  limite  disponível  para
+esta Reunião.
+-  05/08/2024:  Retirada  de  pauta  na  174ª  Reunião  da  Cofiex,  em  13/06/2024,  por  sua  classificação  não  alcançar  o  limite  disponível  para
+esta Reunião.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)

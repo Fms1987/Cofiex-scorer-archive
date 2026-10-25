@@ -1,0 +1,3101 @@
+# Carta-Consulta CC_60919 — Versao 2 (SIGS)
+
+
+PROGRAMA INTEGRADO DE SANEAMENTO E RECURSOS HÍDRICOS E SEUS IMPACTOS
+NA SAÚDE DA POPULAÇÃO DO ESTADO DA BAHIA
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 60919
+Processo: 12120.100462/2022-62
+Mutuário: Estado da Bahia
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  20 de Julho de 2022
+
+Fontes Internas:
+Contrapartida Financeira: US$ 37.290.000,00
+Fontes Externas:
+Agência Francesa de Desenvolvimento - AFD: US$ 149.160.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+A concentração territorial da produção e da riqueza na Bahia resultou em desenvolvimento econômico e social assimétrico. Programas
+federais, como o Saúde da Família PSF, juntamente com a reforma do Setor de Saúde do Estado, expandiram a atenção básica de saúde
+entre as populações rurais e pobres da Bahia. Por outro lado, o Estado ainda enfrenta desafios significativos na área da saúde, como
+melhorar a qualidade da assistência prestada pelas Equipes de Saúde da Família ESF e aumentar a resolutividade da atenção básica. O
+Estado da Bahia possui atualmente uma cobertura estimada de Saúde da Família (SF) de 79,79% , saindo de uma cobertura de 55,78%
+em 2008 para 79,79% em 2021, um incremento de 40%.
+
+Apesar desse importante incremento da cobertura de Saúde da Família, as taxas de internação por AVC na população de 30 a 59 anos
+continuam com comportamento de crescimento, passando de 5,74 em 2008 para 6,11/10.000 hab. de 30 a 59 anos em 2021,um
+incremento de 40%. Em relação as internações por condições sensíveis a atenção básica, em menores de 5 anos, de 2010 a junho de
+2022 foi identificada uma redução de cerca de 40% nestas causas de internação, entretanto 29% das internações nesta faixa etária ainda
+são por condições evitáveis na atenção básica, e a principal causa de internação neste período foram as gastroenterites infecciosas em
+menores de 5 anos. No campo dos indicadores de mortalidade, os dados de óbitos em menores de 5 anos revelam que de 2008 a 2021
+uma média de 60% dos óbitos nesta faixa etária foram por causas evitáveis, destes, cerca de 86% foram óbitos reduzíveis por ações de
+promoção à saúde vinculadas a ações de atenção e 11% de óbitos reduzíveis por ações de diagnóstico e tratamento adequado. Assim, na
+perspectiva de dar continuidade ao cuidado, ordená-lo na rede e tornar as ações iniciadas na Atenção Básica mais resolutivas, em 2017
+iniciou-se a implantação das Policlínicas Regionais de Saúde, vinculada ao Consórcio Interfederativo de Saúde. Estes serviços visam
+prestar assistência de média complexidade na rede de saúde da região, contribuindo para o aumento da resolutividade da Atenção Básica
+e evitando que os pacientes precisem ir para os hospitais com casos que podem ser solucionados na atenção primária e secundária.
+Entretanto, é inegável que a multifatorialidade do processo de adoecimento da população exige ações mais amplas que estão situadas em
+áreas que possuem interface com a saúde, mas que o desenvolvimento das ações não está no âmbito do setor saúde. Por isso, os
+investimentos conjuntos nas áreas de saúde, recursos hídricos e saneamento são tão importantes para melhorar as condições de saúde
+da população baiana. No setor de água o Estado enfrenta grandes desafios, no esforço para enfrentar a mortalidade e a morbidade
+infantis resultantes de enfermidades intestinais infecciosas, que são em sua grande maioria doenças de veiculação hídrica. O Estado está
+formando capacidade institucional para o manejo dos recursos hídricos (MRH), para garantir que suas regras e estruturas organizacionais
+possam proteger a qualidade da água e a alocação justa entre utilizações concorrentes. A Bahia demonstrou comprometimento quanto à
+consolidação do MRH, ao aprovar uma nova lei das águas e ao estabelecer novas instituições. Além disso, o Estado está expandindo a
+cobertura de abastecimento de água e de saneamento nas áreas rurais e urbanas, e foi bem-sucedido no atendimento das metas do
+programa "Água para Todos", ao oferecer abastecimento de água para 97 por cento da população urbana e para 150 mil famílias rurais.
+Por outro lado, indicadores de água na área rural revela que restam desafios significativos, e que o Estado precisava fortalecer políticas
+públicas e aumentar o investimento no desenvolvimento de infraestrutura, em especial nas pequenas comunidades rurais, junta-se a isto a
+rede de monitoramento e a necessidade de ampliação, que permita um manejo e gestão mais eficiente e eficaz. Um percentual pequeno,
+dos domicílios rurais estão conectados à rede de abastecimento de água do Estado, em comparação com o percentual de domicílios
+urbanos. Não apenas os mais pobres habitantes das áreas rurais são desproporcionalmente afetados pela falta de acesso a fonte de
+águas confiáveis, mas também um pequeno percentual da população rural baiana tem acesso a sistemas adequados de esgotamento
+sanitário. A institucionalização do processo de monitoramento, com dados consistidos, processados através de sistemas de informação
+transparente e de acesso público, assim como avaliação contínua dos programas governamentais, constitui-se num imperativo básico
+para a conquista da excelência dos serviços prestados pelo Estado.
+
+Importantes características do Estado da Bahia: Extensão territorial:564.692 km; População:14,9 milhões de hab. dois terços desses
+habitantes vivem em áreas urbanas; Produto interno bruto: é de R$ 286,20 bilhões no ano de 2018; IDH em 2010 (PNUD) de 0,66;Clima: 2
+/3 do território é semiárido.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+O Planejamento Plurianual (PPA 2020-2023) prevê iniciativas articuladas e ações sinérgicas, visando maior eficiência, eficácia e
+efetividade nos resultados.
+
+A área de Meio Ambiente e Recursos Hídricos, prioriza três instrumentos:
+
+Os Planos de Bacias Hidrográficas
+
+O Enquadramento dos Corpos d'Água
+
+Monitoramento Ambiental e dos Recursos Hídricos
+
+
+Página: 3
+
+Os Planos de Bacia identificam as intervenções e priorizam ações, em processo construído com a sociedade e aprovado pelos comitês
+das bacias hidrográficas. Estruturados para criar programas de curto, médio e longo prazo. São realizados estudos hidrológicos, com
+cenários de Mudanças Climáticas e medidas de mitigação e adaptação; Propostas de Recuperação Ambiental e da Qualidade das Águas
+com neutralização de carbono; propostas de saneamento e de monitoramento das águas de superfície e subterrânea. O Enquadramento
+dos Corpos de Águas define limites qualitativos das águas, regulando os seus usos em função da qualidade requerida. Parametriza os
+limites da outorga da água. O Monitoramento das Águas e Clima permite acompanhamento de fenômenos climáticos através da Sala de
+Situação de Risco Ambientais do INEMA, emitindo alertas em condições climáticas adversas. Pretende-se o adensamento da rede
+hidrometeorológica, garantindo dados para todos os municípios da Bahia. O sistema permitira ações de proteção a saúde, desenvolvendo
+indicadores que possam ser correlacionados ao aumento de risco para arboviroses e doenças de veiculação hídrica. Outras iniciativas,
+com efeitos na gestão das águas, são a formação de validadores do monitor de secas e a formação de agentes comunitários de saúde e
+de combate às endemias como Agentes Voluntários da Água, tornando-se agentes de vigilância e proteção das águas. As ações
+relacionadas a saneamento rural e pequenos centros urbanos pela CERB são necessários para proteção das águas e garantir melhor
+condição de saúde da população. Barragens têm o papel de amenizar os efeitos da seca. Garantem o abastecimento humano e animal
+nos períodos de seca, e são de uso múltiplo. Quanto aos Sistemas de abastecimento de água temos: Sistemas simplificados - Sistema de
+abastecimento para pequenas localidades e áreas dispersas, constituídos basicamente de captação, adução, reservação e distribuição.
+Sistemas de abastecimento de água convencionais que oferecem distribuição domiciliar e estação de tratamento em comunidades de
+maior porte da zona rural. Sistemas integrados de abastecimento de água, atendem várias localidades. Esses sistemas possuem ainda
+derivações rurais, rede de distribuição domiciliar e tomada d´água para carro-pipa. As Melhorias Sanitárias Domiciliares (MSD) são
+intervenções promovidas nos domicílios, visando atender às necessidades básicas de saneamento das famílias, com instalações
+hidrossanitárias mínimas à higiene e ao destino seguro dos esgotos domiciliares. Estas são ações previstas no PPA , onde pretende-se
+atingir os seguintes produtos essenciais para o aprimoramento das políticas públicas na Gestão das Águas: Elaborar Planos de Bacia,
+com participação pública, tendo como finalidade principal a hierarquização das intervenções de curto, médio e longo prazo;Executar
+projetos de recuperação de Matas Ciliares em áreas degradadas das bacias, estratégicas para atender as necessidades humana e
+ecossistêmicas; Ampliação de rede de monitoramento hidrometeorológica, permitindo o acompanhamento dos fenômenos monitorado e
+melhor planejamento da gestão hídrica;Melhorar infraestrutura de saneamento em ambientes urbanos/rurais, como construção de sistema
+de abastecimento de água;Construção de módulos sanitários rurais; Implantação de Barragens para armazenamento de água. Na área de
+saúde propõe-se Qualificar a Atenção Básica (AB) do Estado da Bahia, com ações de Apoio Institucional e a Telessaúde. O Apoio
+Institucional visa a qualificação dos gestores e trabalhadores da Atenção Básica, através de ferramentas de gestão, planejamento,
+monitoramento e avaliação, visitas técnicas, oficinas e tecnologias, que permitam interação e acompanhamento. Essa estratégia amplia a
+capacidade dos municípios de planejar, programar e acompanhar os serviços e o sistema de saúde; promove a gestão democrática e
+participativa; amplia a capacidade de ações coordenadas junto às equipes de Atenção Básica, ampliando o acesso da população aos
+serviços de saúde e aumentando a resolutividade da Atenção Básica.O processo estruturado em três fases: I - Planejamento e
+Formulação; II-Operativa do Apoio Institucional; III-Relatoria das Atividades. No âmbito do Telessaúde Bahia o objetivo principal é ampliar
+a resolubilidade e fortalecer a Atenção Básica e as Redes de Atenção à Saúde, a partir das ofertas de serviços de Telediagnóstico,
+Teleconsultoria, Segunda Opinião Formativa, Tele-educação.
+
+Telediagnóstico, serviço que utiliza as tecnologias da informação e comunicação para apoio ao diagnóstico a distâncias geográfica e
+temporal. Teleconsultoria é a consulta realizada entre profissionais da saúde, com a finalidade de esclarecer dúvidas sobre procedimentos
+clínicos, ações de saúde e questões relativas ao processo de trabalho. A Segunda Opinião Formativa são às respostas sistematizadas
+das perguntas das Teleconsultorias, que derivam de abordagem de assunto relevante replicável em outros contextos e lugares, com base
+nas melhores evidências científicas e clínicas. A Tele-educação visa contribuir na qualificação de profissionais para o manejo clínico no
+enfrentamento dos diversos agravos, para a organização e condução do processo de trabalho da atenção básica. As ações de TeleSaúde,
+incluindo Teleconsultoria, Tele-educação e Telediagnóstico possibilita ampliar a resolubilidade da Rede de Saúde, principalmente para
+populações que residem em áreas de difícil acesso ou pertencem a grupos minoritários. Além da ampliação do acesso, otimiza recursos
+públicos com viagens, com redução do tempo de espera para consulta com especialista, viabilizar diagnósticos precisos e atendimento
+personalizado a populações vulneráveis, reduzindo significantemente as inequidades em saúde. Esperas para obter um diagnóstico
+resultam em maior morbidade e mortalidade. A realização destes produtos, irão ajudar na melhoria nos Indicadores de Resultados nas
+áreas prioritárias (Saneamento, Meio Ambiente e Saúde) fortalecendo políticas públicas necessárias para programas e projetos capazes
+de colocar o Estado da Bahia como referência.
+
+A proposta é que o recurso do financiamento seja desembolsado em 2 modalidades: Tradicional e por resultado/indicadores.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+O Estado solicitou autorização legislativa, Lei Nº 13.549/2016, alterada pela Lei Nº 14.308, de 18 de Março de 2021, para contratar junto a
+Agência Francesa de Desenvolvimento - AFD, operação de crédito externo até o limite de EUR 150.000.000,00 (Cento e cinquenta
+milhões de euros), como pode ser visto, no Anexo 1 , observadas as condições e as exigências dos órgãos federais encarregados da
+análise econômico-financeira para fins de operação de crédito e da concessão da garantia da União.
+
+As garantias e contragarantias a serem oferecidas para o cumprimento do disposto nesta Lei serão constituídas, durante o prazo de
+vigência do respectivo contrato, de parcelas necessárias e suficientes, das cotas de repartição constitucional das receitas tributárias de
+que o Estado é titular na forma dos arts. 157 e 159, completadas pelas receitas tributárias estabelecidas no art. 155, nos termos do § 4º do
+art. 167, todos da Constituição Federal, bem como outras garantias em direito admitidas.
+
+Ainda fica o Poder Executivo autorizado a promover as modificações orçamentárias que se fizerem necessárias ao cumprimento do
+disposto nesta Lei.
+
+O Estado informa que a origem da contrapartida deste projeto está em conformidade com o disposto na Resolução COFIEX nº 3 de 29/5/
+2019, representando Euro 33.000.000,00 (20 % do programa)
+
+
+Página: 4
+
+A taxa de câmbio considerada EUR/R$ 6,3210  de 31/12/2021.
+
+O Projeto para o referido pleito junto à AFD encontra-se inserido no PPA do Estado da Bahia de 2020-2023, conforme Anexo 3.
+
+PROGRAMAS:  Saúde
+
+Recursos Hídricos
+
+Meio Ambiente
+
+COMPROMISSOS:
+
+Fortalecer a atenção básica de forma integrada e resolutiva.
+
+Ampliar o Acesso a água de qualidade e quantidade adequada na área rural, com foco no semiárido;
+
+Expandir a cobertura do esgotamento sanitário nas áreas urbana e rural;
+
+Promover a segurança hídrica com foco na redução da vulnerabilidade à eventos extremos;
+
+Promover a otimização da gestão em infraestrutura hídrica e saneamento;
+
+Consolidar a gestão integrada de recursos hídricos com a participação social;
+
+2. Projeto
+
+### 2.1. Título
+
+
+PROGRAMA INTEGRADO DE SANEAMENTO E RECURSOS HÍDRICOS E SEUS IMPACTOS NA SAÚDE DA POPULAÇÃO DO
+ESTADO DA BAHIA
+
+
+### 2.2. Título Abreviado
+
+
+PROGRAMA SANEAMENTO,RECURSOS HÍDRICOS E SAÚDE BA
+
+
+### 2.3. Mutuário
+
+
+Estado da Bahia
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Objetivo Geral: Promover o desenvolvimento social com equidade no Estado, ampliando o acesso à água em quantidade e qualidade e as
+ações para melhoria da saúde pública no Estado.
+
+Objetivos Específicos:
+
+1. Aumento de acesso à água potável de qualidade, saneamento, e atenção básica no Estado da Bahia;
+
+2. Fortalecimento dos Instrumentos da Política de Recursos Hídricos do Estado da Bahia;
+
+3. Aperfeiçoar as ações de vigilância, proteção, promoção e prevenção em saúde nos territórios;
+
+4. Fortalecer à Atenção Básica;
+
+5. Expandir o saneamento básico em áreas rurais do Estado;
+
+6. Reforçar o sistema de gestão de recursos hídricos do Estado, apoiando a implementação dos instrumentos de gestão dos recursos
+hídricos para melhorar e controlar a qualidade e quantidade da água do Estado;
+
+7. Aumentar a cobertura da Estratégia de Saúde da Família no Estado da Bahia
+
+8. Garantir a oferta de Serviços Especializados a partir das Policlínicas Regionais de Saúde.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+Meta
+84,80
+
+
+Descrição
+Ampliar em 17% (2.024.174 habitantes)a
+cobertura de serviços básicos de saúde para a
+população, por meio das equipes de saúde da
+família. (Indicador de Resultado)
+Elaborar 4  Planos de Bacia preparados e
+Estudos para classificação e Enquadramento
+das Águas de modo a garantir o atendimento no
+mínimo de 80% das áreas sob domínios do
+Estado
+Ampliar em 30%¨a rede de monitoramento
+hidrometereologica com 400 novos pontos de
+monitoramento de modo a termos 90% dos
+municípios atendidos com dados
+hidrometeorológicos;
+Número dos sistemas de abastecimento de água
+construídos e em funcionamento na área de
+intervenção do projeto
+Número de módulos sanitários (MSD)
+construídos em áreas rurais do da intervenção
+do projeto
+Expandir o saneamento básico e o acesso aos
+serviços de água em áreas rurais a 19.283
+famílias nos 05 anos após a assinatura do
+contrato(Indicador de Resultado)
+Redução de 10,55% de Número de Internações
+por diarréia e gastroenterite de origem infecciosa
+presumível em menores de 5 anos, em 38
+municípios do Semiárido beneficiários no Projeto
+em Saneamento e Recursos Hídricos. (
+Indicador de Resultado)
+
+Fortalecer o sistema de gestão de recursos
+hídricos do Estado, de modo que atenda uma
+cobertura de área equivalente a 90% dos
+municípios, com a implementação dos
+instrumentos de monitoramento da qualidade e a
+quantidade da água em 5 anos; Linha de Base (
+2021) 60% (Indicador de Resultado)
+Número de municípios com um dos serviços (
+equipamento) de telediagnóstico implantados (
+Indicador de Desembolso)
+Número de laudos de telediagóstico emitidos (
+Indicador de Desembolso)
+Ampliar para 60% a Proporção de gestantes com
+atendimento odontológico realizado (Indicador
+de Desembolso)
+
+
+### 2.7. Projeto/Componentes
+
+
+Fórmula de Cálculo Unidade de Medida
+Linha de Base (2018)
+72,48*17%
+
+Percentual
+
+Linha de Base
+72,48
+
+Linha de Bse (2021)
+56% + 24%
+
+Percentual
+
+56,00
+
+80,00
+
+Linha de Base (2021)
+60% + 30%
+
+Percentual
+
+60,00
+
+90,00
+
+Linha de Base (2021)
+0 + 8
+
+Sistema Integrado
+
+Linha de Base (2021)
+0 + 80
+
+MSD
+
+Linha de Base (2021)
+0 + 19.283
+
+familia
+
+0,00
+
+0,00
+
+8,00
+
+80,00
+
+0,00
+
+19.283,00
+
+Percentual
+
+30,11
+
+26,93
+
+percentual
+
+60,00
+
+90,00
+
+município
+
+25,00
+
+337,00
+
+número
+
+percentual
+
+16.807,00
+
+100.000,00
+
+13,60
+
+60,00
+
+Nº de internações
+SUS por diarréia e
+gastroenterite de
+origem infecciosa
+presumível, em
+menores de 5 anos,
+em determinado local
+e período X 100 /
+Total de internações
+SUS, em menores de
+5 anos,  em
+determinado local e
+período.
+Linha de Base(2021)
+60% + 30%
+
+Linha de Base (2018)
+25 municípios +337
+municípios
+Linha de Base 16.807
++18.133
+Proporção de
+gestantes com
+atendimento
+odontológico realizado
+no 5 ano
+
+
+Componentes
+C - SAÚDE
+S - ATENÇÃO A SAÚDE NA ATENÇÃO BÁSICA
+P - Número de municípios com um  dos serviços de telediagnóstico implantados - Indicador de Desembolso
+P - Equipamentos médico hospitalares para Unidade Básica de Saúde
+P - Mobiliários para Unidade Básica de Saúde
+P - Proporção de gestante com atendimento odontológico - Indicador de Desembolso
+P - Número de laudos  de telediagnóstico emitidos - Indicador de Desembolso
+S - INFORMATIZAÇÃO DA ATENÇÃO BÁSICA
+P - Equipamentos de Informática para Atenção Básica
+P - Equipamentos de educação em saúde para Atenção Básica
+S - TRANSPORTE NA ATENÇÃO BÁSICA
+P - Veículos
+C - RECURSOS HÍDRICOS E SANEAMENTO
+S - REDE HIDRO METEOROLÓGICA
+P - Aquisições e instalação de Estações(PCD) Climatológicas
+P - Aquisições e instalação de Estações(PCD) Pluviométricas
+P - Aquisições e instalação de Estações(PCD) Hidrometeorológica
+P - Aquisições e instalação de Estações(PCD) hidrogeologica para medicoes de nivel dos aquiferos
+subterraneos
+S - REDE DE MONITORAMENTO DA QUALIDADE DA ÁGUA
+P - Operação e manutenção da rede da qualidade da água superficial no Estado da Bahia
+P - Aquisição de Equipamento
+S - ESTUDOS E PLANEJAMENTO DE BACIA HIDROGRÁFICA
+P - Elaboração de Plano de Bacia
+P -  Elaboração de Estudos para Enquadramento de Corpos de Águas de Superficie ( Rios e Lagos)
+S - SISTEMA DE INFORMAÇÃO PARA GESTÃO AMBIENTAL E CLIMÁTICA
+P - Desenvolvimento e elaboração de Sistema de Apoio a Decisão para a sala de situção e acompanhamento de
+eventos criticos incorporado ao Sistema Estaduial de Informação Ambiental  Monitoramento
+S - ESTUDOS E PROJETOS
+P - Elaboração de Estudos e Projetos para Indenficação de Áreas Degradads Prioritarias para Reflorestamento
+em Areas de Proteção Permanente e Proteção de Mananciais
+S - RECUPERAÇÃO E MANUTENÇÃO DE ÁREAS PRESERVADAS
+P - Reflorestamento em Areas de Proteção Permanente, de Unidades de Conservação e Proteção de
+Mananciais.
+S - BARRAGENS
+P - Estudos e Projetos
+P - Construção de Barragens
+S - SISTEMAS DE ABASTECIMENTO DE ÁGUA
+P - Estudos e Projetos
+P - Construção de Sistemas de Abastecimento de Água
+S - MELHORIAS SANITÁRIAS DOMICILIARES (MSD)
+P - Construção de Melhorias Sanitárias Domiciliares
+C - GESTÃO DO PROJETO
+S - GESTÃO DO PROJETO
+P - Taxas
+P - Avaliação
+P - Acompanhamento e Monitoramento do Projeto
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 6
+
+Valor(US$)
+90.400.000,00
+51.266.970,00
+4.477.342,50
+20.389.155,00
+5.959.201,90
+19.943.788,10
+497.482,50
+34.714.730,00
+17.048.160,00
+17.666.570,00
+4.418.300,00
+4.418.300,00
+88.818.000,00
+5.972.163,00
+1.789.920,00
+1.423.800,00
+1.614.883,00
+1.143.560,00
+
+3.810.586,00
+3.118.800,00
+691.786,00
+3.444.443,40
+2.762.782,20
+681.661,20
+210.767,60
+210.767,60
+
+1.370.125,00
+1.370.125,00
+
+13.441.915,00
+13.441.915,00
+
+7.570.661,00
+2.330.851,00
+5.239.810,00
+52.396.292,00
+33.604.053,00
+18.792.239,00
+601.047,00
+601.047,00
+7.232.000,00
+7.232.000,00
+745.800,00
+836.200,00
+5.650.000,00
+186.450.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - SAÚDE
+Este componente tem como objetivo Fortalecer a Atenção Básica, de saúde, de forma integrada e resolutiva, tendo como iniciativas
+estruturantes: Ampliação da cobertura de Saúde da Família, com fortalecimento de equipes de Saúde da Família e Apoio aos
+municípios para o aprimoramento da gestão e do cuidado em Atenção Básica; e ampliação do número de municípios que utilizam
+ao menos dois serviços do Telessaúde.
+
+S - ATENÇÃO A SAÚDE NA ATENÇÃO BÁSICA
+ATENÇÃO A SAÚDE NA ATENÇÃO BÁSICA
+
+P - Número de municípios com um  dos serviços de telediagnóstico implantados - Indicador de Desembolso
+Municípios com serviço de telediagnóstico implantado.
+
+
+Página: 7
+
+P - Equipamentos médico hospitalares para Unidade Básica de Saúde
+Aquisição de kit com equipamentos básicos (Kit UBS MédHosp) para funcionamento e a execução do conjunto de ações propostas
+nas Unidades Básicas de Saúde ? UBS. Composição mínima de cada kit: Autoclave horizontal de mesa (até 75L); Balança
+Antropométrica Adulto; Balança Antropométrica Infantil; Cadeira para Coleta de Sangue; Cadeira de Rodas Adulto; Cilindro de
+Gases Medicinais; Detector Fetal; Câmara Fria; Mesa de Exames; Nebulizador Portátil; Oftalmoscópio; Berço acrílico.
+
+P - Mobiliários para Unidade Básica de Saúde
+Aquisição de kit com mobiliários básicos (Kit UBS mobiliário) para funcionamento e a execução do conjunto de ações propostas
+nas Unidades Básicas de Saúde - UBS. Composição mínima de cada kit: Ar Condicionado; Longarina; Mesa de médico; Cadeira
+de médico.
+
+P - Proporção de gestante com atendimento odontológico - Indicador de Desembolso
+Gestantes atendidas com os kit odontológicos.
+
+P - Número de laudos  de telediagnóstico emitidos - Indicador de Desembolso
+Emissão de 100.000 laudos de telediagnóstico.
+
+S - INFORMATIZAÇÃO DA ATENÇÃO BÁSICA
+INFORMATIZAÇÃO DA ATENÇÃO BÁSICA
+
+P - Equipamentos de Informática para Atenção Básica
+Aquisição de kit com equipamentosde informática (Kit informática) para alimentação do Sistema de Informação da Atenção (SISAB)
+nas Unidades Básicas de Saúde - UBS. Composição mínima de cada kit:Tablet e Computador
+
+P - Equipamentos de educação em saúde para Atenção Básica
+Aquisição de kit com equipamentospara realização de ações de educação em saúde (Kit educasaúde). Composição mínima de
+cada kit:Projetor de slides; Notebook compatível com caixa de som e projetor; Caixa de som.
+
+S - TRANSPORTE NA ATENÇÃO BÁSICA
+TRANSPORTE NA ATENÇÃO BÁSICA
+
+P - Veículos
+Aquisição de veículo para execução de ações vinculadas a atenção básica.
+
+C - RECURSOS HÍDRICOS E SANEAMENTO
+Este componente tem como objetivo o planejamento e intervenções que permita recuperação e monitoração da qualidade
+ambiental de bacias hidrográficas com ações e intervenções de saneamento básico, monitoramento e recuperação de mananciais,
+visando obter impacto na qualidade e quantidade dos recursos hídricos, uma gestão efetiva das disponibilidades hídricas, como
+também uma consequente redução de riscos na transmissão de doenças por veiculação hídrica.
+
+S - REDE HIDRO METEOROLÓGICA
+O adensamento da rede hidrometeorológica  garanti que todos os municípios do Estado da Bahia disponham de dados
+pluviométricos, assim como o levantamento das áreas de maiores riscos de inundação para desenvolvimento de um sistema de
+alerta mais preciso. Apenas ¼ dos municípios atualmente têm estação meteorológica e cerca de 1/5 não possui nem pluviômetro.
+
+P - Aquisições e instalação de Estações(PCD) Climatológicas
+Aquisições e instalação de Estações(PCD) Climatológicas
+
+P - Aquisições e instalação de Estações(PCD) Pluviométricas
+Aquisições e instalação de Estações(PCD) Pluviométricas
+
+P - Aquisições e instalação de Estações(PCD) Hidrometeorológica
+A rede vamos adquirir equipamentos para as redes hidrometeorológica. As aquisições prever a instalação de áreas predefinidas
+em estudos realizados pelo próprio INEMA
+
+P - Aquisições e instalação de Estações(PCD) hidrogeologica para medicoes de nivel dos aquiferos subterraneos
+Aquisições e instalação de Estações(PCD) hidrogeologica para medicoes de nivel dos aquiferos subterraneos
+
+S - REDE DE MONITORAMENTO DA QUALIDADE DA ÁGUA
+O monitoramento é outra ferramenta necessária para podermos acompanhar a disponibilidade hídrica e a qualidade, garantindo o
+atendimento da qualidade requerida e a disponibilidade dos recursos hídricos. Uma das iniciativas do PPA é o aperfeiçoamento do
+monitoramento, incluindo a prevenção de desastres causado por fenômenos climáticos.
+
+P - Operação e manutenção da rede da qualidade da água superficial no Estado da Bahia
+Operação e manutenção da rede da qualidade da água superficial no Estado da Bahia
+
+
+Página: 8
+
+P - Aquisição de Equipamento
+Aquisição de equipamento para o monitoramento inclui instalação, distribuído no território do estado e são valores de consultas as
+empresas fornecedoras e são equipamento importados e sofre pressão cambial. São cerca de 330 estações. A rede de qualidade
+esta incluída consultoria/serviços da expansão da rede, onde se inclui coleta e analise laboratorial.
+
+S - ESTUDOS E PLANEJAMENTO DE BACIA HIDROGRÁFICA
+Elaboração de Planos de Bacia, com participação pública, tendo como finalidade principal a de hierarquizar as intervenções e
+planejando as ações de recuperação de curto, médio e longo prazo.
+
+P - Elaboração de Plano de Bacia
+Os Planos e Enquadramentos (Consultoria/Contratados juntos) duram cerca de 18 meses e inclui campanhas de mobilização e
+reunião publicas, bancados pelo contrato, com procedimentos para atender a legislação de Recursos Hídricos do Estado. Os
+valores foram os mesmo adotado no empréstimo do SWAp/BIRD.
+
+P -  Elaboração de Estudos para Enquadramento de Corpos de Águas de Superficie ( Rios e Lagos)
+Os Planos e Enquadramentos (Consultoria/Contratados juntos) duram cerca de 18 meses e inclui campanhas de mobilização e
+reunião publicas, bancados pelo contrato, com procedimentos para atender a legislação de Recursos Hídricos do Estado. Os
+valores foram os mesmo adotado no empréstimo do SWAp/BIRD.
+
+S - SISTEMA DE INFORMAÇÃO PARA GESTÃO AMBIENTAL E CLIMÁTICA
+O sistema de monitoramento em desenvolvimento inclui variáveis ambientais e climáticas para o auxílio e suporte a ações de
+vigilância a efeitos das mudanças climáticas em áreas vulneráveis, como também em saúde ambiental, onde Sala de Situação
+centralizaria as informações, visando desenvolver indicadores que possam ser correlacionados ao aumento de risco para
+arboviroses (Dengue, Zika, Chikungunya), como para outras doenças com esquistosomose e mesmo presença de COVID19 em
+bacias com contribuição de águas residuárias
+
+P - Desenvolvimento e elaboração de Sistema de Apoio a Decisão para a sala de situção e acompanhamento de
+eventos criticos incorporado ao Sistema Estaduial de Informação Ambiental  Monitoramento
+Desenvolvimento e elaboração de Sistema de Apoio a Decisão para a sala de situção e acompanhamento de eventos criticos
+incorporado ao Sistema Estaduial de Informação Ambiental  Monitoramento
+
+S - ESTUDOS E PROJETOS
+Elaboração de Estudos e Projetos para Identificação de Áreas Degradadas Prioritárias para Reflorestamento em Áreas de
+Proteção Permanente e Proteção de Nascentes e Mananciais de Abastecimento, em regiões críticas e estratégicas para
+abastecimento humano, com hierarquização de prioridades e projeto executivo das áreas selecionadas como prioritaria
+
+P - Elaboração de Estudos e Projetos para Indenficação de Áreas Degradads Prioritarias para Reflorestamento em
+Areas de Proteção Permanente e Proteção de Mananciais
+Elaboração de Estudos e Projetos para Indenficação de Áreas Degradads Prioritarias para Reflorestamento em Areas de Proteção
+Permanente e Proteção de Mananciais
+
+S - RECUPERAÇÃO E MANUTENÇÃO DE ÁREAS PRESERVADAS
+Implantação de projeto de recuperação de pelo menos 2000 ha, nas áreas identificadas como prioritárias, pelos projetos de
+Recuperação de áreas degradadas e proteção de mananciais, priorizando ação conjunta com pequenos proprietários rurais.
+
+P - Reflorestamento em Areas de Proteção Permanente, de Unidades de Conservação e Proteção de Mananciais.
+Reflorestamento em Areas de Proteção Permanente, de Unidades de Conservação e Proteção de Mananciais.
+
+S - BARRAGENS
+Construção e recuperação de Barragens para armazenamento de água e perenização dos rios  nos municípios: BONINAL/
+CACHOEIRA/ CAPIM GROSSO/ CARINHANHA/ CORONEL JOÃO SÁ/ ITAETÊ/ JÂNIO QUADROS/ MIGUEL CALMON/ MUCUGÊ
+/ PINDOBAÇU/ PIRIPÁ/ PIRITIBA/ PONTO NOVO/ RIO DO PIRES/ SÃO FÉLIX/ SÃO JOSÉ DO JACUÍPE/ SEABRA, ANTAS/
+BOA VISTA DO TUPIM/ BONINAL/ MAETINGA/ MIRANTE/ PONTO NOVO/ RIO DO ANTÔNIO/ SÃO GONÇALO DOS CAMPOS/
+SEABRA.
+
+P - Estudos e Projetos
+Estudos e Projetos para construção e recuperação de Barragens para armazenamento de água e perenização dos rios.
+
+P - Construção de Barragens
+Construção de Barragens para armazenamento de água e perenização dos rios.
+
+S - SISTEMAS DE ABASTECIMENTO DE ÁGUA
+Aumento e melhoria da infraestrutura de saneamento nas áreas rurais e pequenos agrupamentos urbanos/rurais, como a
+construção de sistema de abastecimento de água, a perfurações de poços e o uso de dessalinizadores, já que muitos dos recursos
+hídricos, da região semiárida do Estado, têm águas subterrâneas com teores elevados de sais e são a única fonte de
+abastecimento;
+
+
+Página: 9
+
+Municípios: ANAGÉ/ BARRA/ BRUMADO/ ENTRE RIOS/ FORMOSA DO RIO PRETO/ ITAETÊ/ JEQUIÉ/ JUAZEIRO/ MACURURÉ
+/ PAULO AFONSO/ PONTO NOVO/ RIO DO PIRES/ SEBASTIÃO LARANJEIRAS/ URANDI, BONINAL/ BONITO/ BOQUIRA/
+IBICOARA/ IBITIARA/ IRAQUARA/ MONTE SANTO/ NOVO HORIZONTE/ PARATINGA/ RIO DE CONTAS/ SEABRA/ TUCANO
+
+P - Estudos e Projetos
+Estudos e Projetos para aumento e melhoria da infraestrutura de saneamento nas áreas rurais e pequenos agrupamentos urbanos/
+rurais, como a construção de sistema de abastecimento de água, a perfurações de poços e o uso de dessalinizadores, da região
+semiárida do Estado.
+
+P - Construção de Sistemas de Abastecimento de Água
+Construção de Sistemas de Abastecimento de Água para aumento e melhoria da infraestrutura de saneamento nas áreas rurais e
+pequenos agrupamentos urbanos/rurais, da região semiárida do Estado.
+
+S - MELHORIAS SANITÁRIAS DOMICILIARES (MSD)
+As Melhorias Sanitárias Domiciliares são intervenções promovidas nos domicílios, com o objetivo de atender às necessidades
+básicas de saneamento das famílias, por meio de instalações hidrossanitárias mínimas, relacionadas ao uso da água, à higiene e
+ao destino adequado dos esgotos domiciliares.
+Municípios: PILÃO ARCADO / REMANSO/ CACHOEIRA
+
+P - Construção de Melhorias Sanitárias Domiciliares
+Construção de Melhorias Sanitárias Domiciliares com o objetivo de atender às necessidades básicas de saneamento das famílias,
+por meio de instalações hidrossanitárias mínimas, relacionadas ao uso da água, à higiene e ao destino adequado dos esgotos
+domiciliares.
+
+C - GESTÃO DO PROJETO
+Este componente engloba a gestão do projeto, avaliação do projeto e comissão de financiamento.
+
+S - GESTÃO DO PROJETO
+Este Subcomponente engloba a gestão do projeto, avaliação do projeto e comissão de financiamento.
+
+P - Taxas
+Taxas
+
+P - Avaliação
+Avaliação do Projeto
+
+P - Acompanhamento e Monitoramento do Projeto
+Consultoria e Bens
+
+
+Página: 10
+
+Categoria de Gasto
+
+Obras
+P- Construção de Barragens
+P- Construção de Sistemas de Abastecimento de
+Água
+P- Construção de Melhorias Sanitárias
+Domiciliares
+Bens
+P- Equipamentos médico hospitalares para
+Unidade Básica de Saúde
+P- Mobiliários para Unidade Básica de Saúde
+P- Equipamentos de Informática para Atenção
+Básica
+P- Equipamentos de educação em saúde para
+Atenção Básica
+P- Veículos
+P- Aquisições e instalação de Estações(PCD)
+Climatológicas
+P- Aquisições e instalação de Estações(PCD)
+Pluviométricas
+P- Aquisições e instalação de Estações(PCD)
+Hidrometeorológica
+P- Aquisições e instalação de Estações(PCD)
+hidrogeologica para medicoes de nivel dos
+aquiferos subterraneos
+P- Aquisição de Equipamento
+Consultoria
+P- Elaboração de Plano de Bacia
+P-  Elaboração de Estudos para Enquadramento
+de Corpos de Águas de Superficie ( Rios e Lagos)
+
+P- Desenvolvimento e elaboração de Sistema de
+Apoio a Decisão para a sala de situção e
+acompanhamento de eventos criticos incorporado
+ao Sistema Estaduial de Informação Ambiental
+Monitoramento
+P- Elaboração de Estudos e Projetos para
+Indenficação de Áreas Degradads Prioritarias para
+Reflorestamento em Areas de Proteção
+Permanente e Proteção de Mananciais
+P- Estudos e Projetos
+P- Estudos e Projetos
+P- Avaliação
+Serviços que Não de Consultoria
+P- Operação e manutenção da rede da qualidade
+da água superficial no Estado da Bahia
+P- Reflorestamento em Areas de Proteção
+Permanente, de Unidades de Conservação e
+Proteção de Mananciais.
+Outros
+P- Número de municípios com um  dos serviços
+de telediagnóstico implantados - Indicador de
+Desembolso
+P- Proporção de gestante com atendimento
+odontológico - Indicador de Desembolso
+P- Número de laudos  de telediagnóstico emitidos
+- Indicador de Desembolso
+P- Taxas
+P- Acompanhamento e Monitoramento do Projeto
+Total Geral
+
+Unidade de medida
+-
+Barragem
+Sistema Integrado
+
+grupo
+
+-
+kit
+
+kit
+kit
+
+kit
+
+Veículo
+Unidade
+
+Unidade
+
+Unidade
+
+Unidade
+
+Unidade
+-
+Plano
+Estudo
+
+Unidade
+
+Meta
+
+Valor
+
+% Financeiro
+
+-
+7,00
+8,00
+
+2,00
+
+-
+2.018,00
+
+2.018,00
+2.018,00
+
+2.018,00
+
+120,00
+50,00
+
+150,00
+
+100,00
+
+100,00
+
+1,00
+-
+4,00
+4,00
+
+1,00
+
+24.633.096,00
+5.239.810,00
+18.792.239,00
+
+601.047,00
+
+72.145.335,90
+20.389.155,00
+
+5.959.201,90
+17.048.160,00
+
+17.666.570,00
+
+4.418.300,00
+1.789.920,00
+
+1.423.800,00
+
+1.614.883,00
+
+1.143.560,00
+
+691.786,00
+41.796.440,00
+2.762.782,20
+681.661,20
+
+210.767,60
+
+13,21
+2,81
+10,08
+
+0,32
+
+38,69
+10,94
+
+3,20
+9,14
+
+9,48
+
+2,37
+0,96
+
+0,76
+
+0,87
+
+0,61
+
+0,37
+22,42
+1,48
+0,37
+
+0,11
+
+Unidade
+
+1,00
+
+1.370.125,00
+
+0,73
+
+Estudos e Projetos
+Estudos e Projetos
+Avaliação
+-
+Evento
+
+13,00
+16,00
+1,00
+-
+8.000,00
+
+2.330.851,00
+33.604.053,00
+836.200,00
+16.560.715,00
+3.118.800,00
+
+hectare
+
+2.000,00
+
+13.441.915,00
+
+-
+município
+
+-
+337,00
+
+31.314.413,10
+4.477.342,50
+
+percentual
+
+60,00
+
+19.943.788,10
+
+unidade
+
+100.000,00
+
+497.482,50
+
+Monetária
+Unidade
+-
+
+1,00
+1,00
+-
+
+745.800,00
+5.650.000,00
+186.450.000,00
+
+1,25
+18,02
+0,45
+8,88
+1,67
+
+7,21
+
+16,80
+2,40
+
+10,70
+
+0,27
+
+0,40
+3,03
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+O Governo do Estado tem experiências em contratar operações de crédito externo para financiar ações multissetoriais e transversais nas
+áreas de Saúde, Saneamento e Meio Ambiente. Pode-se citar como exemplo do programa com o Banco Mundial (PROGRAMA COM
+ENFOQUE SETORIAL AMPLO DAS ÁREAS DE SAÚDE E RECURSOS HÍDRICOS DO ESTADO DA BAHIA - SWAp BAHIA). Este
+programa, também coordenado pela Secretaria da Fazenda do Estado, cumpriu com os objetivos acordados e tinha como característica
+desembolso, além da forma tradicional, também desembolso por meio de resultados e indicadores alcançados. Assim, o programa SWAp
+procurou dar escala a programas existentes, focalizar em resultados ao invés do controle das transações, fortalecer parcerias, construir
+capacidade e melhorar o desempenho das instituições envolvidas.
+
+
+Página: 11
+
+Programas com Enfoque Setorial Amplo (Sector-Wide approach ou SWAp por sua sigla em inglês) são operações de financiamento
+externo que, no caso do Banco Mundial, geralmente apoiam programas prioritários do Mutuário já em andamento, em vez de projetos ou
+ações isoladas. Os SWAp têm como objetivo aumentar o impacto e a flexibilidade desses programas. Essas operações se caracterizam
+pelo amparo a abordagens comuns no planejamento, implementação, monitoramento e avaliação, baseando-se nos sistemas e
+procedimentos do Mutuário. A lógica em questão se baseia na percepção de que processos amplos e setoriais, liderados pelos próprios
+Mutuários, seriam mais eficientes do que diversos projetos separados e com poucas áreas de contato.
+
+Dessa forma, pretende-se com este financiamento junto a Agência Francesa de Desenvolvimento a continuidade da execução de projetos
+Multissetoriais inseridos no PPA do Estado.
+
+A rede de monitoramento possui um planejamento realizado pela própria equipe do INEMA onde foi identificado os municípios prioritários
+por não possuir dados e não atendido pela rede em operação. Trata-se de um adensamento para melhor informação e dados regionais de
+hidrometeorológico e de qualidade da água.
+
+Os Planos de Bacia, foram selecionadas as áreas com maior densidade populacional, situadas na Região Hidrográfica Atlântico Leste, que
+ainda não possuem planos e já identificamos conflitos e grande parte de sua área está situada na região semiárida, que possui períodos
+de prolongadas estiagens, possuindo a segunda menor disponibilidade hídrica, dentre as doze regiões hidrográficas brasileiras. que são
+as RPGA do Paraguaçu (maior bacia hidrográfica do Estado); do Itapicuru; Recôncavo Norte (região com maior densidade populacional do
+Estado, incluindo a região metropolitana de Salvador e seu litoral norte) e Leste.
+
+Foram realizados estudos no projeto SWAp que mapearam áreas de recuperação estratégica para mananciais, que serão adotadas para
+as ações proposta de Recuperação Florestal.
+
+Um contrato pelo  projeto PDA/BID foram realizados estudos rápidos de diagnostico, identificando as ações estratégica para as Bacias do
+Paraguaçu e Recôncavo Norte, (indicando a necessidade da elaboração dos Planos de Bacia) que são os regiões onde se localiza os
+mananciais que atendem a Região Metropolitana de Salvador  A experiência adquirida com elaboração dos 07 Planos de Bacias, já
+elaborado através de contrato de consultoria, sendo 03 pelo projeto SWAp, permitiu o aperfeiçoamento nas execução destes projetos, cujo
+momento mais critico ocorreu durante a pandemia, onde muitas das reuniões presencias tiveram que buscar formas remotas, que não
+prejudicassem a execução de seus objetivos, o obtemos êxito, garantindo a participação pública.
+
+A região semiárida da Bahia é caracterizada pela existência de municípios localizados em sítios onde o clima, as condições dos solos e a
+qualidade da água produzida, são bastante adversas, em função da baixa pluviometria, da ordem de apenas 500 mm médios anuais, solos
+extremamente rasos, permeáveis, com problemas de salinização e baixa fertilidade, águas superficiais e subterrâneas escassas e de má
+qualidade, decorrentes do embasamento cristalino. Aproximadamente 6 milhões de pessoas vivem na região do semiárido baiano. Grande
+parcela dessa população encontra-se situada no mais alto nível de risco hídrico e nas piores condições de pobreza. Diante deste cenário,
+ao longo de 51 anos, a Companhia de Engenharia Hídrica e de Saneamento da Bahia (CERB) vem atendendo às demandas do semiárido
+baiano, e atualmente:
+
+Considerando os 20 produtos relacionados ao subcomponente Barragens, está elaborando 13 (treze) estudos/ projetos relacionados às
+ações de recuperação e implantação de barragens, sendo 9 (nove) já em execução e 4 (quatro) a iniciar, e 7 (sete) construções de
+barragens, sendo 6 (seis) em execução e 1 (uma) a iniciar.
+
+Com relação aos 24 produtos do subcomponente Sistema de Abastecimento de Água, as comunidades de maior porte da zona rural,
+inclusive sedes municipais, são beneficiadas pela CERB que atualmente desenvolve 16 (dezesseis) estudos/ projetos, sendo 15 (quinze)
+em execução e 1 (um) a iniciar. Com relação à construção dos Sistemas, a CERB está executando 8 (oito) destes.
+
+Quanto as soluções e benefícios promovidos com as Melhorias Sanitárias Domiciliares (MSD), que visam atender às necessidades
+básicas de saneamento das famílias, relacionadas ao uso da água, à higiene e ao destino adequado dos esgotos domiciliares, também
+fazem parte das atuais demandas da CERB e atualmente conta 02 produtos, sendo 1 (um) deles em execução e outro a iniciar,
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Sem detalhes
+
+Estado da Bahia ()
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+(i) Prazo total:  20 anos
+
+Prazo de carência:5 anos
+
+Prazo de amortização de capital:  15 anos
+
+Taxa de juros: Taxa Euribor 6 meses + XXX pb (Valor a ser definido pela agência)
+
+Comissão de Financiamento: 0,5% a.a. (a ser paga uma única vez)
+
+Comissão de Compromisso: 0,5% a.a.
+
+(cid:10)
+(cid:10)
+
+
+Página: 12
+
+Apesar da AFD apresentar condições que não diferenciam significativamente das existentes no mercado a escolha por esse Agente se
+deu pela sua disponibilidade e pelo fato de, parte dos gastos se darão através de normas conhecidas pelo Estado.
+
+(ii)Não obstante a existência de outros agentes com custos compatíveis com o da Agencia Francesa de Desenvolvimento? AFD, a grande
+experiência identificada nas áreas de Recursos Hídricos e Mudanças Climáticas, neste Banco, irá qualificar o projeto, o que justifica a
+escolha.
+
+A concessão desse financiamento trará recursos adicionais ao Tesouro Estadual, melhorando a capacidade de investimento, com alívio
+fiscal proporcionado pelo ingresso de uma nova fonte de recursos. As ações previstas deverão repercutir no conjunto da sociedade baiana
+, elevando a capacidade do Estado da Bahia de prover serviços públicos e melhorar a qualidade dos gastos públicos.
+
+Adicionalmente, os ganhos de eficiência advindos da estratégia de ajuste fiscal serão canalizados para expandir a capacidade de
+investimento do Estado, permitindo maior incentivo ao crescimento econômico do Estado.
+
+Este projeto será um projeto misto, tendo duas modalidades de desembolso; modalidade tradicional e por resultado/cumprimento de
+Indicadores, conforme descrito nos produtos e indicadores.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+População do Estado da Bahia, estimada, pelo IBGE, em 14 milhões.
+
+O projeto tem como pilares desenvolver estudos e planejamento de macro áreas territoriais, regiões/bacias hidrográficas, identificando
+suas fragilidades e determinando ações prioritárias com o objetivo de recuperação de preservação das águas/recursos hídricos e o meio
+ambiente associado. Expandir o conhecimento da dinâmica ambiental, água e clima, com a ampliação da rede de monitoramento, de
+modo a permitir um acompanhamento em tempo real de fenômenos naturais, estratégia fundamental para acompanhar eventual efeitos
+das mudanças climáticas e permitindo emissão de alertas que permitam ações preventivas para áreas vulneráveis e evitando danos
+sociais e econômicos as populações, sobretudo setores socialmente mais vulnerável. Pretende-se com isto, ter uma rede de alerta para as
+áreas mapeadas do estado, mais vulneráveis a inundações, como também validar com mais precisão, as áreas com maior deficiência
+hídrica e risco a seca. Com isto teremos benefícios indireto a 100% da população do estado com a expansão da rede de monitoramento e
+expansão de 30% da população do Estado, beneficiada diretamente com o aumento do conhecimento sobre as condições dos recursos
+hídricos em suas região, incluindo a Regiao Metropolitana de Salvador, a de maior densidade populacional no estado
+
+O projeto pretende também recuperar áreas degradadas em região de proteção de mananciais, envolvendo diretamente as comunidades
+rurais, com programa de educação ambiental e transferência de tecnologia e população e investimento reflorestamento e compensação
+pelos serviços ambientais em pequenas propriedades e comunidades tradicionais, construindo viveiros a serem administrada por estas
+comunidades. Estima-se pelo menos 200 familias diretamente beneficiada com a recuperação ambiental. E pelo menos 30% da população
+do estado indiretamente com este projeto.
+
+As ações do Projeto visam qualificar a estrutura das Unidades Básicas de Saúde distribuídas no Estado, em todas as suas regiões de
+saúde com o objetivo de aumentar a resolutividade da atenção básica para cerca de 13 milhões de baianos cobertos pela Estratégia de
+Saúde da Família, reduzindo os encaminhamentos para outros níveis de complexidade, assim como as internações por diarréia e
+gastroenterite em menores de 5 anos.  Além disso, as ações do Projeto vão reduzir o tempo de espera para realização de exames nas
+áreas de cardiologia, oftalmologia e dermatologia.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Agência Francesa de Desenvolvimento -
+AFD
+Total:
+
+Sigla
+
+CF
+Sigla
+
+AFD
+
+Moeda
+
+?
+Moeda
+
+?
+
+Valor Proposto
+
+33.000.000,00
+Valor Proposto
+
+132.000.000,00
+
+165.000.000,00
+
+Taxa de
+Câmbio
+1,13
+Taxa de
+Câmbio
+1,13
+
+Valor de Referência US
+$
+37.290.000,00
+Valor de Referência US
+$
+149.160.000,00
+
+186.450.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 13
+
+O mutuário desta operação será o Governo do Estado da Bahia, cabendo à Secretaria da Fazenda do Estado da Bahia (SEFAZ) a
+coordenação e gestão do Projeto, por meio da Unidade de Gestão do Projeto, com a incumbência de realizar tarefas gerenciais,
+administrativas e fiduciárias associadas à implementação diária do Programa. A UGP irá gerir os recursos financeiros do Programa,
+coordenar a execução das atividades, realizar acompanhamento e avaliação, e auxiliar as secretarias na execução dos procedimentos
+técnicos, administrativos, financeiros e de seleção ou licitação.
+
+O Projeto terá como Co-executores: o INEMA, CERB e SESAB.
+
+A matriz de responsabilidades encontra-se no Anexo 3, desta carta consulta
+
+TOTAL
+
+CF
+
+TOTAL
+
+AFD
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Governo do Estado da Bahia
+
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+C - SAÚDE
+
+S - ATENÇÃO A SAÚDE NA ATENÇÃO BÁSICA
+
+COMPONENTES
+
+P - Número de municípios com um  dos serviços de telediagnóstico implantados - Indicador de
+Desembolso
+P - Equipamentos médico hospitalares para Unidade Básica de Saúde
+
+P - Mobiliários para Unidade Básica de Saúde
+
+P - Proporção de gestante com atendimento odontológico - Indicador de Desembolso
+
+P - Número de laudos  de telediagnóstico emitidos - Indicador de Desembolso
+
+S - INFORMATIZAÇÃO DA ATENÇÃO BÁSICA
+
+P - Equipamentos de Informática para Atenção Básica
+
+P - Equipamentos de educação em saúde para Atenção Básica
+
+S - TRANSPORTE NA ATENÇÃO BÁSICA
+
+P - Veículos
+
+C - RECURSOS HÍDRICOS E SANEAMENTO
+
+S - REDE HIDRO METEOROLÓGICA
+
+P - Aquisições e instalação de Estações(PCD) Climatológicas
+
+P - Aquisições e instalação de Estações(PCD) Pluviométricas
+
+P - Aquisições e instalação de Estações(PCD) Hidrometeorológica
+
+P - Aquisições e instalação de Estações(PCD) hidrogeologica para medicoes de nivel dos
+aquiferos subterraneos
+S - REDE DE MONITORAMENTO DA QUALIDADE DA ÁGUA
+
+P - Operação e manutenção da rede da qualidade da água superficial no Estado da Bahia
+
+P - Aquisição de Equipamento
+
+S - ESTUDOS E PLANEJAMENTO DE BACIA HIDROGRÁFICA
+
+P - Elaboração de Plano de Bacia
+
+P -  Elaboração de Estudos para Enquadramento de Corpos de Águas de Superficie ( Rios e
+Lagos)
+S - SISTEMA DE INFORMAÇÃO PARA GESTÃO AMBIENTAL E CLIMÁTICA
+
+P - Desenvolvimento e elaboração de Sistema de Apoio a Decisão para a sala de situção e
+acompanhamento de eventos criticos incorporado ao Sistema Estaduial de Informação Ambiental
+Monitoramento
+S - ESTUDOS E PROJETOS
+
+P - Elaboração de Estudos e Projetos para Indenficação de Áreas Degradads Prioritarias para
+Reflorestamento em Areas de Proteção Permanente e Proteção de Mananciais
+S - RECUPERAÇÃO E MANUTENÇÃO DE ÁREAS PRESERVADAS
+
+P - Reflorestamento em Areas de Proteção Permanente, de Unidades de Conservação e
+Proteção de Mananciais.
+S - BARRAGENS
+
+P - Estudos e Projetos
+
+P - Construção de Barragens
+
+S - SISTEMAS DE ABASTECIMENTO DE ÁGUA
+
+P - Estudos e Projetos
+
+P - Construção de Sistemas de Abastecimento de Água
+
+S - MELHORIAS SANITÁRIAS DOMICILIARES (MSD)
+
+Fax:
+UF:
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+CF
+
+AFD
+
+90.400.000,00
+
+4.100.720,00
+
+18.859.219,75
+
+51.266.970,00
+
+1.570.700,00
+
+13.509.347,75
+
+4.477.342,50
+
+0,00
+
+1.492.447,50
+
+20.389.155,00
+
+1.141.300,00
+
+2.935.966,00
+
+5.959.201,90
+
+429.400,00
+
+763.315,00
+
+19.943.788,10
+
+497.482,50
+
+0,00
+
+0,00
+
+8.068.878,00
+
+248.741,25
+
+34.714.730,00
+
+2.530.020,00
+
+4.466.212,00
+
+17.048.160,00
+
+1.795.520,00
+
+2.013.660,00
+
+17.666.570,00
+
+734.500,00
+
+2.452.552,00
+
+4.418.300,00
+
+4.418.300,00
+
+0,00
+
+0,00
+
+883.660,00
+
+883.660,00
+
+88.818.000,00
+
+3.454.749,00
+
+17.157.784,40
+
+5.972.163,00
+
+135.600,00
+
+608.731,00
+
+1.789.920,00
+
+1.423.800,00
+
+1.614.883,00
+
+1.143.560,00
+
+33.900,00
+
+33.900,00
+
+67.800,00
+
+142.832,00
+
+94.016,00
+
+257.527,00
+
+0,00
+
+114.356,00
+
+3.810.586,00
+
+113.000,00
+
+713.143,00
+
+3.118.800,00
+
+691.786,00
+
+22.600,00
+
+90.400,00
+
+565.000,00
+
+148.143,00
+
+3.444.443,40
+
+132.210,00
+
+371.634,40
+
+2.762.782,20
+
+113.000,00
+
+300.128,00
+
+681.661,20
+
+19.210,00
+
+71.506,40
+
+210.767,60
+
+210.767,60
+
+11.300,00
+
+11.300,00
+
+73.450,00
+
+73.450,00
+
+1.370.125,00
+
+226.000,00
+
+1.144.125,00
+
+1.370.125,00
+
+226.000,00
+
+1.144.125,00
+
+13.441.915,00
+
+113.000,00
+
+13.441.915,00
+
+113.000,00
+
+0,00
+
+0,00
+
+7.570.661,00
+
+419.343,00
+
+2.193.556,00
+
+2.330.851,00
+
+83.733,00
+
+437.988,00
+
+5.239.810,00
+
+335.610,00
+
+1.755.568,00
+
+52.396.292,00
+
+2.207.794,00
+
+11.548.600,00
+
+33.604.053,00
+
+918.690,00
+
+4.802.500,00
+
+18.792.239,00
+
+1.289.104,00
+
+6.746.100,00
+
+601.047,00
+
+96.502,00
+
+504.545,00
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 14
+
+P - Construção de Melhorias Sanitárias Domiciliares
+
+C - GESTÃO DO PROJETO
+
+S - GESTÃO DO PROJETO
+
+P - Taxas
+
+P - Avaliação
+
+P - Acompanhamento e Monitoramento do Projeto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+601.047,00
+
+96.502,00
+
+504.545,00
+
+7.232.000,00
+
+745.800,00
+
+1.130.000,00
+
+7.232.000,00
+
+745.800,00
+
+1.130.000,00
+
+745.800,00
+
+745.800,00
+
+836.200,00
+
+5.650.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.130.000,00
+
+0,00
+
+8.301.269,00
+
+37.147.004,15
+
+0,00
+
+0,00
+
+C - SAÚDE
+
+S - ATENÇÃO A SAÚDE NA ATENÇÃO BÁSICA
+
+COMPONENTES
+
+P - Número de municípios com um  dos serviços de telediagnóstico implantados - Indicador de
+Desembolso
+P - Equipamentos médico hospitalares para Unidade Básica de Saúde
+
+P - Mobiliários para Unidade Básica de Saúde
+
+P - Proporção de gestante com atendimento odontológico - Indicador de Desembolso
+
+P - Número de laudos  de telediagnóstico emitidos - Indicador de Desembolso
+
+S - INFORMATIZAÇÃO DA ATENÇÃO BÁSICA
+
+P - Equipamentos de Informática para Atenção Básica
+
+P - Equipamentos de educação em saúde para Atenção Básica
+
+S - TRANSPORTE NA ATENÇÃO BÁSICA
+
+P - Veículos
+
+C - RECURSOS HÍDRICOS E SANEAMENTO
+
+S - REDE HIDRO METEOROLÓGICA
+
+P - Aquisições e instalação de Estações(PCD) Climatológicas
+
+P - Aquisições e instalação de Estações(PCD) Pluviométricas
+
+P - Aquisições e instalação de Estações(PCD) Hidrometeorológica
+
+P - Aquisições e instalação de Estações(PCD) hidrogeologica para medicoes de nivel dos
+aquiferos subterraneos
+S - REDE DE MONITORAMENTO DA QUALIDADE DA ÁGUA
+
+P - Operação e manutenção da rede da qualidade da água superficial no Estado da Bahia
+
+P - Aquisição de Equipamento
+
+S - ESTUDOS E PLANEJAMENTO DE BACIA HIDROGRÁFICA
+
+P - Elaboração de Plano de Bacia
+
+P -  Elaboração de Estudos para Enquadramento de Corpos de Águas de Superficie ( Rios e
+Lagos)
+S - SISTEMA DE INFORMAÇÃO PARA GESTÃO AMBIENTAL E CLIMÁTICA
+
+P - Desenvolvimento e elaboração de Sistema de Apoio a Decisão para a sala de situção e
+acompanhamento de eventos criticos incorporado ao Sistema Estaduial de Informação Ambiental
+Monitoramento
+S - ESTUDOS E PROJETOS
+
+P - Elaboração de Estudos e Projetos para Indenficação de Áreas Degradads Prioritarias para
+Reflorestamento em Areas de Proteção Permanente e Proteção de Mananciais
+S - RECUPERAÇÃO E MANUTENÇÃO DE ÁREAS PRESERVADAS
+
+P - Reflorestamento em Areas de Proteção Permanente, de Unidades de Conservação e
+Proteção de Mananciais.
+S - BARRAGENS
+
+P - Estudos e Projetos
+
+P - Construção de Barragens
+
+S - SISTEMAS DE ABASTECIMENTO DE ÁGUA
+
+P - Estudos e Projetos
+
+P - Construção de Sistemas de Abastecimento de Água
+
+S - MELHORIAS SANITÁRIAS DOMICILIARES (MSD)
+
+P - Construção de Melhorias Sanitárias Domiciliares
+
+C - GESTÃO DO PROJETO
+
+S - GESTÃO DO PROJETO
+
+P - Taxas
+
+P - Avaliação
+
+P - Acompanhamento e Monitoramento do Projeto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - SAÚDE
+
+S - ATENÇÃO A SAÚDE NA ATENÇÃO BÁSICA
+
+COMPONENTES
+
+P - Número de municípios com um  dos serviços de telediagnóstico implantados - Indicador de
+Desembolso
+P - Equipamentos médico hospitalares para Unidade Básica de Saúde
+
+TOTAL
+
+CF
+
+TOTAL
+
+AFD
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+AFD
+
+5.100.720,00
+
+9.049.153,00
+
+1.570.700,00
+
+3.699.281,00
+
+0,00
+
+0,00
+
+1.141.300,00
+
+2.935.966,00
+
+429.400,00
+
+763.315,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.530.020,00
+
+4.466.212,00
+
+1.795.520,00
+
+2.013.660,00
+
+1.734.500,00
+
+2.452.552,00
+
+0,00
+
+0,00
+
+883.660,00
+
+883.660,00
+
+4.386.095,00
+
+21.857.228,40
+
+203.400,00
+
+1.278.369,00
+
+79.100,00
+
+56.500,00
+
+67.800,00
+
+428.496,00
+
+235.040,00
+
+386.121,00
+
+0,00
+
+228.712,00
+
+113.000,00
+
+713.143,00
+
+22.600,00
+
+90.400,00
+
+565.000,00
+
+148.143,00
+
+152.550,00
+
+696.712,80
+
+124.300,00
+
+553.700,00
+
+28.250,00
+
+143.012,80
+
+22.600,00
+
+22.600,00
+
+69.517,60
+
+69.517,60
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+682.520,00
+
+2.288.250,00
+
+682.520,00
+
+2.288.250,00
+
+285.325,00
+
+1.492.956,00
+
+116.616,00
+
+610.426,00
+
+168.709,00
+
+882.530,00
+
+2.926.700,00
+
+15.318.280,00
+
+2.178.640,00
+
+11.401.700,00
+
+748.060,00
+
+3.916.580,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.130.000,00
+
+1.130.000,00
+
+0,00
+
+0,00
+
+1.130.000,00
+
+0,00
+
+9.486.815,00
+
+32.036.381,40
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+AFD
+
+4.100.720,00
+
+15.322.263,25
+
+1.570.700,00
+
+9.972.391,25
+
+0,00
+
+1.989.930,00
+
+1.141.300,00
+
+2.935.966,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+AFD
+
+
+Página: 15
+
+P - Mobiliários para Unidade Básica de Saúde
+
+P - Proporção de gestante com atendimento odontológico - Indicador de Desembolso
+
+P - Número de laudos  de telediagnóstico emitidos - Indicador de Desembolso
+
+S - INFORMATIZAÇÃO DA ATENÇÃO BÁSICA
+
+P - Equipamentos de Informática para Atenção Básica
+
+P - Equipamentos de educação em saúde para Atenção Básica
+
+S - TRANSPORTE NA ATENÇÃO BÁSICA
+
+P - Veículos
+
+C - RECURSOS HÍDRICOS E SANEAMENTO
+
+S - REDE HIDRO METEOROLÓGICA
+
+P - Aquisições e instalação de Estações(PCD) Climatológicas
+
+P - Aquisições e instalação de Estações(PCD) Pluviométricas
+
+P - Aquisições e instalação de Estações(PCD) Hidrometeorológica
+
+P - Aquisições e instalação de Estações(PCD) hidrogeologica para medicoes de nivel dos
+aquiferos subterraneos
+S - REDE DE MONITORAMENTO DA QUALIDADE DA ÁGUA
+
+P - Operação e manutenção da rede da qualidade da água superficial no Estado da Bahia
+
+P - Aquisição de Equipamento
+
+S - ESTUDOS E PLANEJAMENTO DE BACIA HIDROGRÁFICA
+
+P - Elaboração de Plano de Bacia
+
+P -  Elaboração de Estudos para Enquadramento de Corpos de Águas de Superficie ( Rios e
+Lagos)
+S - SISTEMA DE INFORMAÇÃO PARA GESTÃO AMBIENTAL E CLIMÁTICA
+
+P - Desenvolvimento e elaboração de Sistema de Apoio a Decisão para a sala de situção e
+acompanhamento de eventos criticos incorporado ao Sistema Estaduial de Informação Ambiental
+Monitoramento
+S - ESTUDOS E PROJETOS
+
+P - Elaboração de Estudos e Projetos para Indenficação de Áreas Degradads Prioritarias para
+Reflorestamento em Areas de Proteção Permanente e Proteção de Mananciais
+S - RECUPERAÇÃO E MANUTENÇÃO DE ÁREAS PRESERVADAS
+
+P - Reflorestamento em Areas de Proteção Permanente, de Unidades de Conservação e
+Proteção de Mananciais.
+S - BARRAGENS
+
+P - Estudos e Projetos
+
+P - Construção de Barragens
+
+S - SISTEMAS DE ABASTECIMENTO DE ÁGUA
+
+P - Estudos e Projetos
+
+P - Construção de Sistemas de Abastecimento de Água
+
+S - MELHORIAS SANITÁRIAS DOMICILIARES (MSD)
+
+P - Construção de Melhorias Sanitárias Domiciliares
+
+C - GESTÃO DO PROJETO
+
+S - GESTÃO DO PROJETO
+
+P - Taxas
+
+P - Avaliação
+
+P - Acompanhamento e Monitoramento do Projeto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - SAÚDE
+
+S - ATENÇÃO A SAÚDE NA ATENÇÃO BÁSICA
+
+COMPONENTES
+
+P - Número de municípios com um  dos serviços de telediagnóstico implantados - Indicador de
+Desembolso
+P - Equipamentos médico hospitalares para Unidade Básica de Saúde
+
+P - Mobiliários para Unidade Básica de Saúde
+
+P - Proporção de gestante com atendimento odontológico - Indicador de Desembolso
+
+P - Número de laudos  de telediagnóstico emitidos - Indicador de Desembolso
+
+S - INFORMATIZAÇÃO DA ATENÇÃO BÁSICA
+
+P - Equipamentos de Informática para Atenção Básica
+
+P - Equipamentos de educação em saúde para Atenção Básica
+
+S - TRANSPORTE NA ATENÇÃO BÁSICA
+
+P - Veículos
+
+C - RECURSOS HÍDRICOS E SANEAMENTO
+
+S - REDE HIDRO METEOROLÓGICA
+
+P - Aquisições e instalação de Estações(PCD) Climatológicas
+
+P - Aquisições e instalação de Estações(PCD) Pluviométricas
+
+P - Aquisições e instalação de Estações(PCD) Hidrometeorológica
+
+P - Aquisições e instalação de Estações(PCD) hidrogeologica para medicoes de nivel dos
+aquiferos subterraneos
+S - REDE DE MONITORAMENTO DA QUALIDADE DA ÁGUA
+
+P - Operação e manutenção da rede da qualidade da água superficial no Estado da Bahia
+
+429.400,00
+
+763.315,00
+
+0,00
+
+0,00
+
+4.034.439,00
+
+248.741,25
+
+2.530.020,00
+
+4.466.212,00
+
+1.795.520,00
+
+2.013.660,00
+
+734.500,00
+
+2.452.552,00
+
+0,00
+
+0,00
+
+883.660,00
+
+883.660,00
+
+3.707.530,00
+
+17.724.908,80
+
+192.100,00
+
+1.533.749,00
+
+67.800,00
+
+56.500,00
+
+67.800,00
+
+428.496,00
+
+376.064,00
+
+386.121,00
+
+0,00
+
+343.068,00
+
+158.200,00
+
+565.000,00
+
+67.800,00
+
+90.400,00
+
+565.000,00
+
+0,00
+
+146.900,00
+
+719.312,80
+
+124.300,00
+
+576.300,00
+
+22.600,00
+
+143.012,80
+
+11.300,00
+
+11.300,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.006.830,00
+
+3.432.375,00
+
+1.006.830,00
+
+3.432.375,00
+
+227.469,00
+
+1.190.568,00
+
+60.229,00
+
+315.383,00
+
+167.240,00
+
+875.185,00
+
+1.964.731,00
+
+10.283.904,00
+
+987.620,00
+
+5.168.620,00
+
+977.111,00
+
+5.115.284,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.130.000,00
+
+1.130.000,00
+
+0,00
+
+0,00
+
+1.130.000,00
+
+0,00
+
+7.808.250,00
+
+34.177.172,05
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+AFD
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+AFD
+
+4.096.200,00
+
+17.884.476,10
+
+1.570.700,00
+
+12.534.717,10
+
+0,00
+
+994.965,00
+
+1.141.300,00
+
+2.935.966,00
+
+429.400,00
+
+763.315,00
+
+0,00
+
+0,00
+
+7.840.471,10
+
+0,00
+
+2.525.500,00
+
+4.466.099,00
+
+791.000,00
+
+2.013.660,00
+
+1.734.500,00
+
+2.452.439,00
+
+0,00
+
+0,00
+
+883.660,00
+
+883.660,00
+
+2.117.055,00
+
+9.689.185,00
+
+214.700,00
+
+1.133.503,00
+
+90.400,00
+
+56.500,00
+
+67.800,00
+
+285.664,00
+
+376.064,00
+
+128.707,00
+
+0,00
+
+343.068,00
+
+169.500,00
+
+565.000,00
+
+90.400,00
+
+565.000,00
+
+
+Página: 16
+
+P - Aquisição de Equipamento
+
+S - ESTUDOS E PLANEJAMENTO DE BACIA HIDROGRÁFICA
+
+P - Elaboração de Plano de Bacia
+
+P -  Elaboração de Estudos para Enquadramento de Corpos de Águas de Superficie ( Rios e
+Lagos)
+S - SISTEMA DE INFORMAÇÃO PARA GESTÃO AMBIENTAL E CLIMÁTICA
+
+P - Desenvolvimento e elaboração de Sistema de Apoio a Decisão para a sala de situção e
+acompanhamento de eventos criticos incorporado ao Sistema Estaduial de Informação Ambiental
+Monitoramento
+S - ESTUDOS E PROJETOS
+
+P - Elaboração de Estudos e Projetos para Indenficação de Áreas Degradads Prioritarias para
+Reflorestamento em Areas de Proteção Permanente e Proteção de Mananciais
+S - RECUPERAÇÃO E MANUTENÇÃO DE ÁREAS PRESERVADAS
+
+P - Reflorestamento em Areas de Proteção Permanente, de Unidades de Conservação e
+Proteção de Mananciais.
+S - BARRAGENS
+
+P - Estudos e Projetos
+
+P - Construção de Barragens
+
+S - SISTEMAS DE ABASTECIMENTO DE ÁGUA
+
+P - Estudos e Projetos
+
+P - Construção de Sistemas de Abastecimento de Água
+
+S - MELHORIAS SANITÁRIAS DOMICILIARES (MSD)
+
+P - Construção de Melhorias Sanitárias Domiciliares
+
+C - GESTÃO DO PROJETO
+
+S - GESTÃO DO PROJETO
+
+P - Taxas
+
+P - Avaliação
+
+P - Acompanhamento e Monitoramento do Projeto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - SAÚDE
+
+S - ATENÇÃO A SAÚDE NA ATENÇÃO BÁSICA
+
+COMPONENTES
+
+P - Número de municípios com um  dos serviços de telediagnóstico implantados - Indicador de
+Desembolso
+P - Equipamentos médico hospitalares para Unidade Básica de Saúde
+
+P - Mobiliários para Unidade Básica de Saúde
+
+P - Proporção de gestante com atendimento odontológico - Indicador de Desembolso
+
+P - Número de laudos  de telediagnóstico emitidos - Indicador de Desembolso
+
+S - INFORMATIZAÇÃO DA ATENÇÃO BÁSICA
+
+P - Equipamentos de Informática para Atenção Básica
+
+P - Equipamentos de educação em saúde para Atenção Básica
+
+S - TRANSPORTE NA ATENÇÃO BÁSICA
+
+P - Veículos
+
+C - RECURSOS HÍDRICOS E SANEAMENTO
+
+S - REDE HIDRO METEOROLÓGICA
+
+P - Aquisições e instalação de Estações(PCD) Climatológicas
+
+P - Aquisições e instalação de Estações(PCD) Pluviométricas
+
+P - Aquisições e instalação de Estações(PCD) Hidrometeorológica
+
+P - Aquisições e instalação de Estações(PCD) hidrogeologica para medicoes de nivel dos
+aquiferos subterraneos
+S - REDE DE MONITORAMENTO DA QUALIDADE DA ÁGUA
+
+P - Operação e manutenção da rede da qualidade da água superficial no Estado da Bahia
+
+P - Aquisição de Equipamento
+
+S - ESTUDOS E PLANEJAMENTO DE BACIA HIDROGRÁFICA
+
+P - Elaboração de Plano de Bacia
+
+P -  Elaboração de Estudos para Enquadramento de Corpos de Águas de Superficie ( Rios e
+Lagos)
+S - SISTEMA DE INFORMAÇÃO PARA GESTÃO AMBIENTAL E CLIMÁTICA
+
+P - Desenvolvimento e elaboração de Sistema de Apoio a Decisão para a sala de situção e
+acompanhamento de eventos criticos incorporado ao Sistema Estaduial de Informação Ambiental
+Monitoramento
+S - ESTUDOS E PROJETOS
+
+P - Elaboração de Estudos e Projetos para Indenficação de Áreas Degradads Prioritarias para
+Reflorestamento em Areas de Proteção Permanente e Proteção de Mananciais
+S - RECUPERAÇÃO E MANUTENÇÃO DE ÁREAS PRESERVADAS
+
+P - Reflorestamento em Areas de Proteção Permanente, de Unidades de Conservação e
+Proteção de Mananciais.
+S - BARRAGENS
+
+P - Estudos e Projetos
+
+P - Construção de Barragens
+
+79.100,00
+
+90.400,00
+
+67.800,00
+
+22.600,00
+
+11.300,00
+
+11.300,00
+
+0,00
+
+0,00
+
+0,00
+
+715.064,00
+
+572.051,20
+
+143.012,80
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+678.000,00
+
+2.288.250,00
+
+678.000,00
+
+2.288.250,00
+
+216.282,00
+
+1.131.808,00
+
+49.042,00
+
+256.623,00
+
+167.240,00
+
+875.185,00
+
+736.873,00
+
+3.855.560,00
+
+736.873,00
+
+3.855.560,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.130.000,00
+
+1.130.000,00
+
+0,00
+
+0,00
+
+1.130.000,00
+
+0,00
+
+6.213.255,00
+
+28.703.661,10
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+AFD
+
+TOTAL
+
+CF
+
+TOTAL
+
+AFD
+
+2.941.640,00
+
+8.944.887,90
+
+20.340.000,00
+
+70.060.000,00
+
+1.573.525,00
+
+3.694.907,90
+
+7.856.325,00
+
+43.410.645,00
+
+0,00
+
+0,00
+
+0,00
+
+4.477.342,50
+
+1.144.125,00
+
+2.935.966,00
+
+5.709.325,00
+
+14.679.830,00
+
+429.400,00
+
+758.941,90
+
+2.147.000,00
+
+3.812.201,90
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+19.943.788,10
+
+497.482,50
+
+1.368.115,00
+
+4.366.320,00
+
+12.483.675,00
+
+22.231.055,00
+
+791.000,00
+
+2.024.960,00
+
+6.968.560,00
+
+10.079.600,00
+
+577.115,00
+
+2.341.360,00
+
+5.515.115,00
+
+12.151.455,00
+
+0,00
+
+0,00
+
+883.660,00
+
+883.660,00
+
+0,00
+
+0,00
+
+4.418.300,00
+
+4.418.300,00
+
+1.702.571,00
+
+7.020.893,40
+
+15.368.000,00
+
+73.450.000,00
+
+192.100,00
+
+479.911,00
+
+937.900,00
+
+5.034.263,00
+
+90.400,00
+
+45.200,00
+
+56.500,00
+
+142.832,00
+
+361.600,00
+
+1.428.320,00
+
+94.016,00
+
+248.600,00
+
+1.175.200,00
+
+128.707,00
+
+327.700,00
+
+1.287.183,00
+
+0,00
+
+114.356,00
+
+0,00
+
+1.143.560,00
+
+135.600,00
+
+565.000,00
+
+689.300,00
+
+3.121.286,00
+
+90.400,00
+
+45.200,00
+
+62.150,00
+
+45.200,00
+
+16.950,00
+
+11.300,00
+
+11.300,00
+
+0,00
+
+0,00
+
+565.000,00
+
+293.800,00
+
+2.825.000,00
+
+0,00
+
+395.500,00
+
+296.286,00
+
+357.509,40
+
+584.210,00
+
+2.860.233,40
+
+286.003,00
+
+474.600,00
+
+2.288.182,20
+
+71.506,40
+
+109.610,00
+
+572.051,20
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+67.800,00
+
+67.800,00
+
+142.967,60
+
+142.967,60
+
+226.000,00
+
+1.144.125,00
+
+226.000,00
+
+1.144.125,00
+
+664.440,00
+
+2.288.250,00
+
+3.144.790,00
+
+10.297.125,00
+
+664.440,00
+
+2.288.250,00
+
+3.144.790,00
+
+10.297.125,00
+
+66.331,00
+
+64.297,00
+
+2.034,00
+
+347.023,00
+
+1.214.750,00
+
+6.355.911,00
+
+336.514,00
+
+373.917,00
+
+1.956.934,00
+
+10.509,00
+
+840.833,00
+
+4.398.977,00
+
+
+Página: 17
+
+S - SISTEMAS DE ABASTECIMENTO DE ÁGUA
+
+P - Estudos e Projetos
+
+P - Construção de Sistemas de Abastecimento de Água
+
+S - MELHORIAS SANITÁRIAS DOMICILIARES (MSD)
+
+P - Construção de Melhorias Sanitárias Domiciliares
+
+C - GESTÃO DO PROJETO
+
+S - GESTÃO DO PROJETO
+
+P - Taxas
+
+P - Avaliação
+
+P - Acompanhamento e Monitoramento do Projeto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+570.650,00
+
+2.983.200,00
+
+8.406.748,00
+
+43.989.544,00
+
+570.650,00
+
+2.983.200,00
+
+5.392.473,00
+
+28.211.580,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.014.275,00
+
+15.777.964,00
+
+96.502,00
+
+96.502,00
+
+504.545,00
+
+504.545,00
+
+836.200,00
+
+1.130.000,00
+
+1.582.000,00
+
+5.650.000,00
+
+836.200,00
+
+1.130.000,00
+
+1.582.000,00
+
+5.650.000,00
+
+0,00
+
+836.200,00
+
+0,00
+
+0,00
+
+745.800,00
+
+836.200,00
+
+0,00
+
+0,00
+
+0,00
+
+1.130.000,00
+
+0,00
+
+5.650.000,00
+
+186.450.000,00
+
+5.480.411,00
+
+17.095.781,30
+
+37.290.000,00
+
+149.160.000,00
+
+(i) A operação está autorizada através da Lei Nº 13.549/2016 (Anexos 1).
+
+A referida Lei deverá ser ajustada no nome do programa tão logo o projeto seja aprovado na Cofiex.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+Par evitar riscos inerentes às operações  de contratação e aquisição, os editais e seleção/contratação serão realizados estritamente
+conforme diretrizes do banco e normas federais e estaduais, quando couber com pessoal treinado e especializado.
+
+O estado tem treinado bastante seu corpo técnico em normas e aquisições dos banco bilaterais, assim como nas normas nacionais no
+intuito de reduzir atrasos e riscos do projeto.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+No desenvolvimento das ações da Companhia de Engenharia Hídrica e de Saneamento da Bahia (CERB) existe o Comprometimento com
+as Salvaguardas Socioambientais.
+
+Quando da necessidade de aquisição de área/desapropriação ou Reassentamento Involuntário, o Governo do Estado da Bahia, por meio
+da CERB, deverá Publicar Decreto de Utilidade Pública, com croquis dos sistemas de abastecimento de água, indicando as áreas a serem
+regularizadas, com as respectivas coordenadas geográficas. Após a emissão do Decreto a contratação da obra poderá ser iniciada.
+
+Os demais procedimentos necessários para a conclusão da regularização da posse da terra serão realizados, ao longo da execução das
+obras, conforme abaixo:
+
+Cadastramento dos proprietários, levantamento da titularidade das áreas a serem regularizadas, e assinatura de Termo de Autorização ou
+Anuência pelos afetados. Esta etapa envolve o trabalho social de apresentação do sistema.
+
+Regularização das áreas por via administrativa quando houver documentação de posse;
+
+Judicialização das áreas, quando não houver documentação de posse.
+
+Assinatura de Termo de Cessão de Posse ou Doação Voluntária.
+
+Elaboração para cada sistema e/ou conjunto de sistemas, de um Plano de Reassentamento Involuntário.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+O Instituto do Meio Ambiente e Recursos Hídricos - INEMA é responsável pela execução da política estadual do meio ambiente, e tem
+como objetivo exercer a função de proteção e conservação dos recursos naturais do Estado. O INEMA é o responsável por expedir licença
+e autorização para estabelecimentos, obras e atividades utilizadoras de recursos ambientais, que sejam considerados efetiva ou
+potencialmente poluidoras, bem como para os empreendimentos capazes, sob qualquer forma, de causar degradação ambiental.
+
+Na implantação de Sistemas de abastecimento de água, a CERB efetuará análise ambiental prévia dos sistemas, considerando o impacto
+cumulativo sobre as fontes de água. Essa análise será executada previamente e em conjunto com o mapeamento das áreas e das
+comunidades para participação no Projeto, obedecendo a legislação atual.
+
+As salvaguardas ambientais, deverão ocorrer em consonância com a legislação brasileira. Assim, o Plano de Gerenciamento
+Socioambiental  tem as seguintes finalidades: (i) garantir que o subprojeto esteja inteiramente em conformidade com a legislação
+ambiental estadual e federal vigente; (ii) promover a convergência entre a redução da pobreza e a conservação do meio ambiente; (iii)
+vincular as atividades de conservação e proteção ambiental aos investimentos que aumentem o IDH.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 18
+
+A construção das barragens, deverão obedecer às exigências (Lei Federal Brasileira de nº 12.334/10), que trata de Segurança de
+Barragem, além de adotar procedimentos que já são rotina da CERB, tais como:
+
+1.Estabelecer critérios de localização, considerando a distância das áreas residenciais e demais exigências da legislação vigente;
+
+2.Obedecer à legislação quanto as Áreas de Preservação Permanente - APP;
+
+3.Proteger taludes e sangradouros com espécies vegetais apropriadas;
+
+4.Priorizar a construção em áreas antropizadas;
+
+5.Instalar descarga de fundo, para evitar a salinização e o assoreamento;
+
+6.Coleta e descarte, adequadamente, dos resíduos sólidos gerados no processo de construção, notadamente em barragem de pedra;
+
+7.Orientar os usuários quanto a preservação do manancial, utilização de insumos agrícolas, disciplinamento do uso da água e
+conservação e manutenção de barragem;
+
+8.Elaboração e distribuição de Cartilha Ilustrada com linguagem acessível aos beneficiários, capacitando sobre técnicas de proteção e
+conservação de barragem.
+
+9.Avaliar a possibilidade de implantação de tanques de contenção e evaporação do efluente (concentrado) proveniente do sistema de
+dessalinização implantado nos SAA's para ser utilizado em cochos para dessedentação animal ou pela própria comunidade para água de
+gasto, visando minimizar os impactos ambientais.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+Na implantação de Sistemas de abastecimento de água, a CERB efetuará análise ambiental prévia dos sistemas, considerando o impacto
+cumulativo sobre as fontes de água. Essa análise será executada previamente e em conjunto com o mapeamento das áreas e das
+comunidades para que estas participem do Projeto, com socialização e um trabalho educacional necessário, obedecendo a legislação
+atual.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Quando da necessidade de aquisição de área/desapropriação ou Reassentamento Involuntário, o Governo do Estado da Bahia, por meio
+da CERB, deverá Publicar Decreto de Utilidade Pública, com croquis dos sistemas de abastecimento de água, indicando as áreas a serem
+regularizadas, com as respectivas coordenadas geográficas. Após a emissão do Decreto a contratação da obra poderá ser iniciada.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+Informações relevantes
+
+- 13/12/2022: O pleito relativo ao "Programa Integrado de Saneamento e Recursos Hídricos e seus Impactos na Saúde da População do
+Estado da Bahia" foi retirado de pauta na 161ª Reunião da Comissão de Financiamentos Externos (COFIEX), realizada em 25 de outubro
+de2022, a pedido do Estado por meio do Ofício GAB nº 172/2022, de 20 de outubro de 2022. O pleito será reapreciado na próxima reunião
+de deliberação.
+
+(cid:10)

@@ -1,0 +1,3298 @@
+# Carta-Consulta CC_60849 — Versao 1 (SIGS)
+
+
+Programa de Sustentabilidade Fiscal, Eficiência e Eficácia do Gasto Público do Estado do
+Rio Grande do Sul
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 60849
+Mutuário: Estado do Rio Grande do Sul
+Tipo de Operação: Operação de crédito externo
+
+Fontes Internas:
+Contrapartida Financeira: US$ 3.000.000,00
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 30.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+DIAGNÓSTICO
+
+1. Situação geoeconômica e fiscal do Rio Grande do Sul
+
+O estado do Rio Grande do Sul está localizado no extremo meridional do Brasil, tendo como limites a Argentina, o Uruguai, o estado de
+Santa Catarina e o Oceano Atlântico. Compreende uma área de 281.730,2 km² (3,31% do território nacional), distribuída em 497
+municípios. A população estimada para 2021 é de 11.466.630 habitantes, sendo 68,3% a população em idade ativa (PIA). A densidade
+demográfica é de 39,8 hab./km², representando aproximadamente 5,4% da população total brasileira.
+
+O crescimento populacional é de 0,38%, inferior à média brasileira e uma das menores taxas entre os estados brasileiros, sendo estimado
+que este indicador se torne negativo a partir de 2035. Do ponto de vista distributivo, observa-se uma acentuada tendência de
+concentração da população em áreas urbanas, nas quais residem 85,1% dos gaúchos. A região que compreende o eixo entre a capital,
+Porto Alegre, e Caxias do Sul constitui a área mais povoada do estado, com uma densidade superior a 200 hab./km². O extremo norte e o
+oeste do estado, por outro lado, têm uma distribuição até dez vezes menor.
+
+Do ponto de vista econômico, o estado possui o PIB de R$ 457,3 bilhões (2018), o quarto maior entre as unidades federativas, com 6,5%
+de participação relativa no total, ficando atrás apenas de São Paulo (31,6%), Rio de Janeiro (10,8%) e Minas Gerais (8,8%). O PIB per
+capita do estado em 2018 foi de R$ 40.362,75, o quinto maior do país e logo após DF, SP, RJ e SC. Internamente, há uma disparidade
+econômica entre a metade norte e a metade sul do estado, em virtude dos perfis industrial, da primeira, e agrário, da segunda. Em termos
+de distribuição de renda, o Índice de Gini apresentado é de 0,483. Atualmente, 12,4% da população está enquadrada em situação de
+vulnerabilidade à pobreza, 4,9% de pobreza e 2,9% de extrema pobreza.
+
+Para os indicadores sociais, o estado possui o Índice de Desenvolvimento Humano Municipal (IDHM) de 0,746 (2020), comparável à
+Ucrânia. Outros indicadores relevantes apontam a esperança de vida ao nascer de 78 anos (quarta maior do país), mortalidade infantil de
+10,6 a cada mil nascidos vivos (quarta menor do Brasil) e uma taxa de alfabetização de 97,4%, a quarta maior entre os estados brasileiros.
+
+
+### 1.1 Contexto
+
+
+O país soma mais de 600.000 mortes em razão da COVID-19 e conta com 74,9% da população vacinada com ao menos uma dose 3 56.8
+% totalmente imunizada. A pandemia foi responsável por um crescimento abrupto da demanda nos serviços de saúde e assistência social,
+elevando as despesas dos órgãos e entidades com estas funções, mesmo o menor dinamismo do mercado interno e a redução das
+receitas tributárias. De forma geral, os gastos extras dos estados com saúde cresceram aproximadamente R$ 10 bilhões se considerado
+apenas o primeiro semestre de 2020.
+
+Para além da pandemia, quando adentrou na crise sanitária o país se encontrava em uma posição econômica desfavorável, de baixo
+crescimento. O cenário de desequilíbrio fiscal e incerteza política levaram a uma queda de confiança e redução de investimentos, com
+indicadores socioeconômicos piores do que em outras épocas de progresso.
+
+A situação fiscal dos 27 estados brasileiros é grave. Ainda antes da pandemia, sete destes declararam estado de calamidade financeira e
+20 atrasaram o pagamento de sua força de trabalho e/ou fornecedores. A taxa de investimentos de 2019 é 52,5% inferior à realizada em
+2015. Paradoxalmente, os resultados fiscais melhoraram durante a pandemia, principalmente devido ao impacto do grande volume de
+transferências federais e de programas e medidas que mantiveram a atividade econômica e contribuíram para o aumento das receitas
+com tributos. Entretanto, a temporalidade destas medidas pode deteriorar a posição fiscal dos Estados, a depender da retomada do
+crescimento econômico, que requer medidas estruturantes para a manutenção em patamares positivos.
+
+Analisando-se a situação fiscal dos 27 estados brasileiros, observa-se que apenas cinco são classificados de acordo com os parâmetros
+da Secretaria do Tesouro Nacional com a capacidade de pagamento (Capag) do tipo A. Neste universo, ainda, sete estados são
+classificados com Capag dos tipos C ou D, dentre estes o Rio Grande do Sul, que possui a avaliação ?D?.
+
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+As despesas com pessoal são o principal problema fiscal dos Estados. Representam uma parcela elevada da despesa e receita primárias
+e não são facilmente controladas, especialmente as previdenciárias. Entre 2011 e 2019, 21 estados tiveram aumento real médio do gasto
+com pessoal acima de 2%, 11 dos quais com percentual igual ou superior a 4%. Recorrendo-se aos dados do Tesouro Nacional relativos a
+2019, 15 Estados ultrapassaram o limite prudencial de 57%, 9 dos quais com percentuais acima de 60%. A média do país estava em 57,9
+%. Nesse âmbito, o Estado do Rio Grande do Sul vem promovendo reformas, incluindo a administrativa e previdenciária. Seu indicador de
+despesas com pessoal atualmente se situa em 52,4%.
+
+1.2.Situação Fiscal do Estado
+
+1.2.1 Equilíbrio fiscal
+
+No que tange ao resultado primário, o Estado do Rio Grande do Sul (RS) vem em forte instabilidade fiscal desde, pelo menos, a crise de
+2015/2016. Desde 2015, o Estado só obteve resultado primário positivo em 2016 (R$ 871 milhões) e em 2020 (R$ 2.419 milhões), mesmo
+com o efeito negativo da pandemia da COVID-19 sobre a arrecadação, principalmente no setor de serviços. Além disso, a pandemia
+trouxe custos relacionados à saúde. Mesmo diante desse cenário negativo e de recessão enfrentado pela economia brasileira, que
+influenciou o Resultado Primário de todos os entes federativos, o Estado do RS manteve o seu compromisso com a política de ajuste fiscal
+iniciada após a recessão entre 2015 e 2016, e vem começando a colher os resultados positivos que se refletem na expectativa de, em
+breve, retomar o caminho da sustentabilidade fiscal. Em reflexo disso, o Estado apresentou o 12º melhor resultado primário em termos
+relativos, quando utilizamos a relação Resultado Primário/Receita Corrente Líquida dos estados. Uma importante sinalização de evolução
+das finanças do RS foi o resultado nominal em 2020, que atingiu superávit de R$ 404 milhões.
+
+No exercício de 2020, de acordo com o Relatório de Gestão Fiscal (RGF) do 3° quadrimestre de 2020, a Dívida Consolidada Líquida (DCL
+) totalizou R$ 96,9 bilhões, correspondendo ao percentual de 223,3% da RCL, ficando muito acima do limite máximo de 200%
+estabelecido pela Resolução nº 40 de 2001, do Senado Federal. Porém, cumpre ressaltar que o RS conseguiu reduzir esse indicador de
+261,3% em 2015 para 216,4% da RCL em 2019, o que demonstra uma trajetória clara de queda da dívida do estado e do compromisso
+com o ajuste fiscal. Apesar do pequeno aumento em 2020, fica clara a trajetória de redução e o esforço que o estado tem feito para tentar
+alcançar posições mais baixas de endividamento, atingindo 183,65% no segundo quadrimestre de 2021. Pela primeira vez desde a edição
+da LRF, o Estado apresentou uma relação DCL/RCL abaixo do limite máximo de 200% definido pela Resolução 40/2001 do Senado
+Federal. Ressalte-se que esse resultado foi bastante impactado por aproximadamente R$ 4,4 bilhões de efeitos na RCL por conta da
+desestatização da CEEE-D e do reconhecimento da receita de IRRF. Sem tais efeitos, o índice estaria bastante próximo ao limite da LRF (
+200%).
+
+No caso específico do Índice de Despesa com Pessoal, o Estado do RS vem realizando diversas ações no sentido de se adequar aos
+limites dispostos na LRF e de equalizar as suas contas fiscais. Desde 2015 o estado sempre se manteve abaixo do limite de 60% da RCL.
+Saindo de 58,1% em 2015 para 49,8% em 2020. Redução de 3,8 pontos percentuais apenas em 2020. Essa pequena melhora é
+consequência do ajuste fiscal que o estado tem feito nos últimos anos e também pelo crescimento da receita acima da inflação. Em 2020,
+a receita cresceu mais de 6%. Destaca-se o volume de transferências recebidas do governo federal como parte do combate da pandemia
+da COVID-19. No ano de 2021 o indicador de gasto com pessoal continua em evolução, fechou o segundo quadrimestre em 40,5% da
+RCL. Importante ressaltar que, apesar do número publicado no RGF ser diferente (e inferior) ao número calculado pela STN dentro do
+Boletim de Finanças dos Entes Subnacionais, é clara a trajetória de melhoria desse indicador e também o esforço fiscal desempenhado
+pelo Governo do RS para equalizar as contas fiscais do Estado. Considerando os critérios da STN, o Estado encerrou o quadrimestre
+abaixo do limite prudencial, atingindo, para o Poder Executivo, o percentual de 44,36%, contra 56,21% no segundo quadrimestre de 2020.
+No consolidado de todos os Poderes, cujo limite prudencial é 57%, o Estado apresentou o percentual de 52,36%, frente aos 66,27% no
+fechamento do segundo quadrimestre de 2020.
+
+1.2.2 Desempenho da Receita
+
+Em 2020, a receita total do Estado do Rio Grande do Sul atingiu o montante de R$ 58,1 bilhões, representando um acréscimo de 6,2% em
+relação a 2019, mesmo com a pandemia da COVID-19. A Receita Corrente responde por 98,2% (R$ 57,1 bilhões desconsiderando as
+deduções do FUNDEB e a Receita de Capital por apenas 1,8% (R$ 1 bilhão).
+
+A Receita Tributária, sua principal fonte de Receita Corrente, alcançou, no ano de 2020, a quantia de R$ 39,6 bilhões, apresentando,
+desta forma, uma variação negativa de 0,2% em relação ao ano de 2019. O ICMS representa a maior parcela da arrecadação própria,
+uma vez que corresponde a 78,3% do total arrecadado, enquanto os 21,7% restantes são oriundos das rubricas de IR, IPVA, ITCD, e
+taxas. Em se tratando do ICMS (uma vez que representou 53,3% da Receita Total em 2020), vale ressaltar que, dada a necessidade de
+políticas de isolamento social, a arrecadação foi fortemente prejudicada entre março e junho, o que resultou em uma arrecadação 0,7%
+menor do que em 2019, mesmo com o estado conseguindo recuperar parte da atividade econômica no segundo semestre.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+Importante ressaltar também as receitas de contribuições que em 2020 totalizaram R$ 4,4 bilhões, o que representa um aumento de 18,5
+% em relação à 2019. Influenciou positivamente essa arrecadação a reforma da previdência realizada entre 2019 e 2020 (EC nº 78, de 03
+de fevereiro de 2020 e LC nº 15.429, de 22 de dezembro de 2019) que implementou uma taxa de contribuição progressiva no Estado,
+podendo variar entre 7,5% e 22%. Isso aumentou a arrecadação de contribuições. Além disso, a reforma expandiu a base de contribuição
+de aposentados e pensionistas, anteriormente limitada a valores de benefícios acima do teto do RGPS de R$ 6.101,06 (em 2020).
+Atualmente, as contribuições são recolhidas sobre o pagamento de benefícios acima de 1 salário mínimo. Em 2021, essa reforma deve ter
+um impacto maior no aumento das receitas previdenciárias. Importante ressaltar também que a reforma da previdência realizada no
+estado do RS terá também um impacto importante no médio/longo prazo, pois aumentou a idade mínima de aposentadoria dos servidores.
+
+Os recursos advindos das transferências correntes no ano de 2020 cresceram em relação ao ano de 2019 e foram responsáveis por 19,8
+% da Receita Total no Estado do RS, equivalente a um montante de R$ 11,5 bilhões, superando o exercício anterior em 37,1%. Devemos
+ressaltar o tamanho do pacote de ajuda fiscal do Governo Federal, que para o estado de RS, totalizou R$ 2,3 bilhões, ou 20,6% do total de
+transferências correntes recebidas.
+
+Por fim, a Receita de Capital manteve-se praticamente estável em 2020, crescimento de 0,5% em relação a 2019, atingindo o patamar de
+R$ 58,5 bilhões. Esse resultado é explicado pelo aumento de outras transferências de capitais e vendas de ativos e uma redução do
+volume de novas operações de crédito.
+
+1.2.3 Desempenho da Despesa
+
+Em 2020, a Despesa Corrente atingiu o montante de R$ 55,9 bilhões, representando 95,5% das despesas totais do estado. A despesa
+com Pessoal e Encargos é responsável pela maior parcela dessa despesa (que, por sua vez, representou 61,2% da despesa total). O
+restante fica a cargo de Outras Despesas Correntes (30,0%), em que 18,3% são referentes às transferências constitucionais e legais para
+os municípios do estado, e 4,4% a Juros e Encargos da Dívida.
+
+A Despesa de Capital teve participação de 4,5% do total das despesas e cresceu 6,7% em relação a 2019. O estado aumentou o
+montante de investimentos (2,9%) e também o volume de amortizações (9,0%). Tal resultado é reflexo do foco estadual em promover
+investimentos públicos com o intuito de fomentar o bem-estar da sociedade e, ao mesmo tempo, pagar a enorme dívida do estado para
+que possa melhorar a sua situação fiscal.
+
+Importante ressaltar que o apoio federal que suspendeu o pagamento de juros de dívidas com a União e Bancos Públicos em virtude do
+enfrentamento da pandemia da Covid-19 não impactou as contas do RS, pois o Estado já estava com essas dívidas suspensas desde
+2017, graças a uma liminar desde quando o RS tentou entrar no RRF. O novo RRF permite que o Rio Grande do Sul ingresse no
+programa com a flexibilização de regras fiscais, a concessão de operações de crédito e a suspensão do pagamento da dívida. A
+expectativa é que o Rio Grande do Sul faça o pedido de adesão ao RRF até dezembro de 2021 e conclua a elaboração do Plano de
+Recuperação Fiscal até março de 2022.
+
+Dos oito requisitos obrigatórios para homologação ao RRF, falta apenas aprovar a lei estadual que estabelece mecanismos de limitação
+do gasto público voltadas ao equilíbrio das contas públicas, abrangendo os Poderes Executivo, Legislativo, Judiciário, Tribunal de Contas,
+Ministério Público, Defensoria Pública, administração direta, fundos, autarquias e empresas estatais dependentes. O Projeto de Lei
+Complementar 378/2021 foi enviado pelo executivo à Assembléia Legislativa em 28/10/2021, em regime de urgência.
+
+Importante destacar também que foram pagos, até agosto de 2021, R$ 3,1 bilhões em Restos a Pagar (despesas de exercícios anteriores)
+, incluindo Salários (13º salário de 2020), Investimentos e Outras Despesas. O saldo de restos a pagar de despesas correntes (folha e
+custeio) do Poder Executivo reduziu-se substancialmente, tendo em vista a melhoria do fluxo de caixa e a regularização dos pagamentos
+dos salários desde novembro de 2020. Com o anúncio do pagamento em dia do 13º salário de 2021 pelo Poder Executivo, fato que não
+ocorria desde 2015, o estoque em Despesas de Pessoal ao final de 2021 será bastante inferior.
+
+1.2.4 Ajuste fiscal
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+É fato que a crise vivenciada pela economia nacional, notadamente desde 2014, tem ocasionado uma situação difícil para a maioria dos
+entes, incluindo o estado do Rio Grande do Sul. Ressalta-se, contudo, que desde o ano de 2016 o Estado vem buscando por meio de um
+forte ajuste fiscal e de modernização administrativa o reequilíbrio das contas públicas, o que já pode ser observado em alguns resultados
+fiscais e refletido em uma melhor perspectiva para o futuro. O estado tem buscado também, a partir de 2017, aderir ao RRF, o que sinaliza
+um esforço fiscal por parte do estado, incluindo medidas de ajuste fiscal para aderir ao plano. Tais ações são evidenciadas na aprovação
+da Lei Complementar nº 15.138, de 26 de março de 2018, que dispõe sobre o Regime de Recuperação Fiscal do Estado do Rio Grande do
+Sul e ajustes introduzidos pelas Leis Complementares n.º 15.601/21 e 15.720/2021. As normas versam sobre a autorização para o Estado
+do Rio Grande do Sul, por intermédio do Poder Executivo, aderir ao Regime de Recuperação Fiscal, consoante o Plano de Recuperação
+a ser apresentado ao Ministério da Economia, nos termos da Lei Complementar Federal nº 159, de 19 de maio de 2017, com as
+modificações introduzidas pela Lei Complementar Federal nº 178, de 13 de janeiro de 2021.
+
+Destarte, quando comparados os resultados fiscais do Estado em 2014 e em 2020, verificam-se grandes mudanças no que se refere não
+apenas ao controle dos gastos públicos, mas ao aumento da eficiência da administração tributária. Essa mudança pode ser demonstrada
+quando se analisa a evolução da Avaliação de Capacidade de Pagamento (CAPAG) do Estado, medida pela STN. Apesar do RS ter
+classificação CAPAG D, a pior nota desde a implementação da nova metodologia de avaliação CAPAG em 2017, podemos observar uma
+evolução na poupança corrente do RS que saiu de 104,1% em 2019 para 98,3% em 2020. Os outros indicadores da CAPAG, dívida e
+liquidez, parecem mais distantes de evoluírem para uma nota B, mas o estado mostra melhorias graduais nestes indicadores também.
+Neste sentido, o percurso de melhora fiscal, caso mantido pelo Estado, tende a culminar com a evolução nesses indicadores também.
+
+Dentre as principais medidas de ajuste fiscal adotadas recentemente, destaca-se o Reforma RS, cujo o objetivo era aprovar um conjunto
+de normas voltados ao ajuste fiscal, que resultou em:
+
+i. vedação da incorporação de vantagens de caráter temporário ou vinculadas ao exercício de função de confiança ou de cargo em
+comissão à remuneração do cargo efetivo ou aos proventos de inatividade;
+
+ii. extinção das vantagens por tempo de serviço atribuídas aos servidores públicos civis e aos militares, ativos e inativos, inclusive aos
+ocupantes de cargo em comissão, em decorrência de avanços, anuênios, triênios, quinquênios, adicionais ou gratificações de 15 anos e
+de 25  anos;
+
+iii. extinção das promoções automáticas (grau a grau ou de nível);
+
+iv. mudanças nas regras previdenciárias, para os servidores civis vinculados ao RPPS/RS, cuja idade mínima passou a ser de 62 anos,
+para as mulheres, e 65 anos, para os homens;
+
+v. adequação das regras de previdência dos servidores civis gaúchos à legislação federal;
+
+vi. alterações de alíquotas de contribuição e regras de aposentadoria, seguindo o aprovado em âmbito federal;
+
+vii. as alíquotas previdenciárias aplicadas aos militares passaram a ser as mesmas aplicadas aos civis;
+
+viii. diminuição do percentual da gratificação de permanência, conferida ao servidor que adquirir direito à aposentadoria e permanecer
+desempenhando suas funções caso conveniente e oportuna para o serviço público estadual;
+
+ix. possibilidade de redução de jornada de trabalho com a respectiva redução da remuneração;
+
+x. alteração do plano de carreira do Magistério Público, introduzindo a remuneração por subsídio, de forma a atender à Lei do Piso do
+Magistério e conferir maior previsibilidade e segurança jurídica;
+
+xi. alteração das idades mínimas e de tempo de contribuição da aposentadoria especial para os Policiais Civis e Agentes Penitenciários.
+
+As reformas estruturais proporcionarão significativa redução da taxa de crescimento vegetativo da folha de pessoal e redução do déficit
+previdenciário, estimando-se economia em torno de R$ 18,7 bilhões para os próximos 10 anos, sendo R$ 13,9 bilhões com a reforma da
+previdência e R$ 4,8 bilhões com o restante dos projetos aprovados.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 6
+
+Em virtude desses resultados iniciais positivos é extremamente importante que o Estado continue no caminho de melhorar cada vez mais
+a sua gestão fiscal, orçamentária e patrimonial, aumentando, dessa forma, a eficiência e eficácia do gasto. Dessa forma, espera-se que o
+Estado volte para o caminho da sustentabilidade fiscal, melhore a sua CAPAG e possa aumentar os seus investimentos e melhorar a
+qualidade dos serviços públicos.
+
+A adesão ao Regime de Recuperação Fiscal consolida-se como uma oportunidade para que o RS consolide o equilíbrio fiscal e recupere a
+solvência, regularizando o pagamento do serviço da dívida com a União após quatro anos de suspensão. O RRF viabilizará a retomada
+gradual desses pagamentos de forma consistente com a recuperação da capacidade financeira do Estado a médio e longo prazo
+proporcionada pelas reformas estruturais. Cabe destacar que as ações exigidas pela União, como contrapartida à retomada gradual do
+pagamento da dívida, estão integralmente aderentes à agenda de reformas estruturais gaúchas, que, em grande medida, já foram
+implementadas. No longo prazo, a recuperação da solvência fiscal permitirá ainda o acesso a novas operações de crédito, que
+contribuirão para aumentar a capacidade de investimentos do Estado, que, em conjunto com as privatizações executadas, concessões de
+serviços públicos e parcerias público-privada, impulsionarão a economia gaúcha.
+
+1.3.Projeções fiscais
+
+O Rio Grande do Sul, assim como os outros estados brasileiros, foi impactado pela pandemia da COVID-19, o que foi aliviado pelo pacote
+de ajuda fiscal do governo federal, pelo impacto do auxílio emergencial que ajudou a estimular a economia e pelas reformas conduzidas
+em 2019/2020. A fim de obter sustentabilidade fiscal de médio e longo prazo a partir de 2021, o Estado deve continuar adotando reformas
+estruturais, assim como as reformas da previdência e administrativa já realizadas.
+
+Projeções realizadas em parceria com o Banco Mundial, via desenvolvimento de uma modelagem fiscal, com foco no gasto com pessoal,
+principal despesa do Estado, aponta que os maiores desafios no médio e longo prazo para o RS são: elevado gasto com aposentados e
+expectativa de aumentar ainda mais a necessidade de reposição de servidores e de se alterar a política de aumentos salariais
+implementada no Estado durante a última década, incluindo o histórico de desigualdade entre os reajustes concedidos no passado.
+
+Desde 2009, a folha de inativos já supera a folha de ativos. As projeções mostram que o gasto com inativos deve aumentar ainda mais,
+pois é estimado que até 2025 mais de 20 mil servidores devem se aposentar, o que equivale a cerca de 20% do efetivo do Estado. Os dois
+principais grupos que pressionam a previdência encontram-se em estágios de maturidade diferentes. Enquanto os professores devem
+pressionar ainda mais o sistema previdenciário nos próximos anos, o sistema previdenciário dos militares apresenta uma folga para os
+próximos anos, porém uma onda de aposentadorias esperadas irá se tornar uma fonte de pressão ainda maior para a previdência ao
+longo das próximas décadas. Os salários dos militares aposentados são, em média, maiores do que dos militares na ativa logo antes de
+se aposentarem, o que deve pressionar ainda mais o sistema previdenciário. A reforma da previdência vai ajudar a reduzir esse desafio.
+Diante desse grande volume de aposentadorias esperadas, cria-se também a necessidade de reposição de servidores. Durante o período
+analisado, desde 2015, o Estado adotou uma política de ajuste fiscal para frear o aumento da folha de ativos que se baseou na baixa
+reposição de servidores. Essa política não é sustentável no médio e longo prazo. O Estado deverá fazer novas contratações nos próximos
+anos, principalmente na área de educação, para que os serviços públicos não fiquem prejudicados.
+
+A política de aumentos salariais é outro desafio para o Estado do Rio Grande do Sul. A análise mostrou que entre 2011 e 2014 foram
+aprovados reajustes reais, em média, de 7,1% ao ano. Já a partir de 2015, dentro do contexto de crise fiscal, esse número caiu para 3,6%,
+o que ainda é um reajuste real bastante alto dada a crise que o País e o Estado estavam enfrentando. Chama a atenção também o fato
+de mais de 50% do salário ser composto por benefícios e que esses reajustes, a partir de 2015, se deram, na sua enorme maioria, sobre
+esses benefícios. Reduzir esses benefícios é uma possível política de reajuste salarial. Porém, as projeções de folha salarial e simulações
+de políticas mostram que as maiores oportunidades de economia estão na adoção de políticas de redução de reajustes salariais anuais.
+Outro ponto importante é a significativa desigualdade entre as carreiras, ao ponto que algumas carreiras, como as de segurança pública,
+receberam reajustes salariais mais significativos do que outras carreiras do estado.
+
+
+### 1.4. Diagnóstico
+
+
+O Rio Grande do Sul sofre dos mesmos problemas regulares que os demais Estados brasileiros. No entanto, a dimensão destes requer,
+por vezes, uma análise mais detalhada que só pode ocorrer com um esforço de diagnóstico que contemple alguns componentes-chave do
+Programa. Desta feita, o Pró-Gestão incorpora em seus subprodutos a identificação, o levantamento, a avaliação de áreas em que serão
+implementados sistemas, essencial para recortes mais realísticos de temáticas do Estado no futuro. Em um breve resumo, nem todos os
+problemas são conhecidos de forma clara e esta falta de conhecimento preciso impede que o Estado informe as linhas de base de alguns
+indicadores, bem como a quantificação de gastos entre bens, serviços e capacitações, entre outros.
+
+1.4.1 Racionalização do gasto com pessoal ativo e inativo
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 7
+
+O diagnóstico da gestão fiscal do Rio Grande do Sul foi feito em parceria com o Banco Mundial. Por meio de um modelo fiscal robusto,
+que inclui minuciosa análise dos microdados da folha de pagamentos, é possível analisar os principais problemas fiscais do Estado. Entre
+2006 e 2019, a folha de ativos do poder executivo cresceu a um ritmo de 3,3% a.a em termos reais. Isso se relaciona ao aumento dos
+salários, dado que no mesmo período ocorreu a queda de em média 4,2% a.a do número de vínculos. Tal percentual corresponde
+efetivamente a uma diminuição de 34,6 mil vínculos e 25,5 mil servidores. Assim, em 2019 o Estado contava com 125,6 mil vínculos e 118,
+7 mil servidores. Ainda em relação à variação de pessoal, são importantes dois destaques. O primeiro é que boa parte da diminuição da
+força de trabalho entre 2012 e 2019 se deu na carreira de professor. Essa redução ocorreu a despeito da quase duplicação do número de
+profissionais em regime de contrato temporário. Novamente, essas contratações ocorreram no cargo docente.
+
+Tratando do principal desafio relacionado ao gasto de pessoal ativo, percebe-se que os aumentos salariais foram da ordem de 4,5% a.a.
+entre 2011 e 2014. Já de 2015 até 2019, mesmo em meio ao contexto de grave crise fiscal, o salário médio ainda cresceu 2,8% a.a.
+Contudo, aliado à contínua queda da quantidade de vínculos, esse menor valor de aumento foi suficiente para que a folha com ativos
+totais caísse 6,1% no comparativo desses anos. Além disso, chama atenção uma característica desse processo de crescimento salarial.
+Se entre 2011 e 2014 os ganhos tiveram natureza mais geral, para o período de 2015 e 2019 esse aumento se deu de forma bastante
+desuniforme entre as carreiras. De forma distinta dos demais grupos, para os cargos relacionados à área da segurança (policiais civis e
+militares), o aumento foi de em média 13% a.a. neste último recorte.
+
+Já a despesa com inativos é a grande responsável pelo crescimento recente do gasto de pessoal. Se entre 2006 e 2014 ela aumentou em
+patamares próximos ao de ativos, entre 2015 e 2019 esse ritmo crescente se manteve contínuo, ao contrário do pagamento de
+profissionais em exercício. Neste último período, desconsiderando o valor das pensões que não estavam sendo computadas, as despesas
+com aposentadorias cresceram 21,9%, o que correspondeu a uma média de 4,4% a.a em termos reais.. A tendência também é que a
+pressão sobre o gasto com inativos se mantenha nos próximos anos, considerando a trajetória linear de elevação dos vínculos inativos. As
+estimativas feitas pelo Banco Mundial apontam para um volume de aposentadorias de 26,7% da força de trabalho do Estado para os anos
+seguintes após 2019.
+
+O contexto desenhado resulta em que, em relação à Lei de Responsabilidade Fiscal, a situação do Rio Grande do Sul esteja acima do
+limite máximo de gasto com pessoal estabelecido. Em 2020, o Estado apresentou 62,7% da sua Receita Corrente Líquida comprometida
+com as despesas de pagamento de pessoal ativo. É o quinto maior valor dentre os entes do Brasil. A perspectiva para o Estado nos
+próximos 10 anos parece ser ainda mais desafiadora. Na modelagem desenhada pelo Banco Mundial, caso se pratique uma taxa de
+reposição de 1:1, a partir de 2023, e ocorra um reajuste real de 1% a.a. nos salários, a folha de pagamentos total cresceria a uma taxa de
+6,4% a.a. até 2030.
+
+Superar essa conjuntura exigirá do Rio Grande do Sul uma série de esforços. Entre 2019 e 2021 alguns passos importantes têm sido
+dados, como a reforma da previdência, do estatuto dos servidores e do magistério e da carreira de professor. Não obstante, a efetividade
+dessas medidas ainda deve ser apurada, uma vez que as projeções atuariais apontam que as despesas previdenciárias são um dos
+principais desafios à saúde fiscal do Estado. Neste aspecto, destaca-se a necessidade de estabelecer limites ao crescimento desses
+gastos. Já em relação ao pessoal ativo, o Estado deverá potencializar a alocação dos servidores disponíveis e estabelecer parâmetros de
+reposição de aposentados, assim como gerir de maneira mais eficaz a folha de pagamentos e os recursos humanos.
+
+Desde 2018, o Instituto de Previdência do Estado do Rio Grande do Sul ? IPE Prev atua na gestão dos benefícios previdenciários,
+aposentadoria e pensão por morte, após a separação do antigo IPERGS em dois institutos especializados, um na atenção à saúde do
+servidor e outro na gestão previdenciária. A capacidade de gestão do IPE Prev atualmente limita o alcance na autonomia nos processos
+de concessões e análises do Estado RS para gestão do RPPS e prevê no seu plano estratégico o aumento do número de profissionais,
+treinamentos e capacitações e o desenvolvimento de ferramentas automatizadas que apoiem a operação e análise dos processos
+previdenciários.
+
+O IPE Prev não possui, atualmente, um sistema de gestão que permita a interoperabilidade entre o sistema de RH e financeiro do Estado
+do RS e integre as empresas e órgãos independentes, incluindo os três poderes, que possuem RPPS no Estado RS. Para atender a estas
+demandas, o IPE Prev, juntamente com o suporte da PROCERGS - Centro de Tecnologia da Informação e Comunicação do Estado do
+Rio Grande do Sul S.A, promoveram, em 2017, a especificação de um sistema único de gestão previdenciária a ser desenvolvido, mas
+que teve dificuldades na valoração dos módulos e na incorporação de funcionalidades sobrepostas que inviabilizaram o processo de
+contratação. Neste momento, as necessidades de suporte operacional se intensificam e o desenvolvimento de uma ferramenta
+automatizada procura contribuir com: (a) a operação da gestão previdenciária com controle de contas a pagar e receber, cálculo de
+contribuições e concessões de benefícios; (b) emissão de certificados de Tempo de Contribuição e gestão compensatória previdenciária; (
+c) monitoramento e apoio às ações e regulamentações para o atendimento a todas as normas vigente na legislação previdenciária; e (d)
+análise preditiva, avaliação de impacto atuarial e investimentos, produção de demonstrativo e apoio à governança corporativa.
+
+
+Página: 8
+
+A gestão dos inativos é extremamente relevante, uma vez que segundo o diagnóstico do Banco Mundial este é um dos maiores desafios
+para a manutenção da sustentabilidade do sistema previdenciário, garantindo a capacidade de pagamento e situação fiscal em que o
+estado se encontra. Desta forma, o desenvolvimento do Sistema de Gestão da Previdência, assim como a adoção de um Sistema de
+análise de dados e governança previdenciária garantem tanto a gestão eficaz das rotinas de pagamento e concessão de aposentadorias,
+evitando distorções e inconsistências, quanto transparência nas análises atuariais e retorno dos recursos investidos nos fundos de
+investimentos, contribuindo para uma gestão previdenciária mais sustentável no estado.
+
+1.4.2 Modernização das Compras Públicas
+
+O Estado do Rio Grande do Sul possui uma maturidade e desenvoltura para os serviços de compras públicas que foi implementada e
+incrementada a partir de uma série de medidas modernizantes na última década, incluindo mudanças processuais e ferramentas e
+sistemas que facilitam as interfaces decisória e de visualização de dados. A título exemplificativo, o sistema atual (GCE) foi instaurado em
+2014, com uma interface mais intuitiva e um leque maior de funcionalidades e arquitetura de dados do que a ferramenta anterior, o LIC.
+
+Na mesma ocasião foi realizado o Programa de Apoio à Retomada do Desenvolvimento Econômico e Social do RS (PROREDES BIRD),
+com apoio do Banco Mundial, que proporcionou apoio técnico e financeiro para estas melhorias nas compras públicas. Dentre os avanços,
+houve o desenvolvimento dos Sistemas GCE e GCP, a implantação de melhorias na segurança interna e ferramentas de catálogo de
+itens e registro de preços, bem como a constituição de um módulo de fornecedores. Além disso, foi estruturada a Central de Licitações e
+foram proporcionados treinamentos e capacitações para o corpo técnico. O Estado também modernizou os fluxos das etapas
+preparatórias de compras públicas, implementando uma série de integrações e visualizações em Business Intelligence. Atualmente, o
+sistema GCE está integrado a uma série de outras ferramentas estaduais, como os sistemas responsáveis pelo controle das finanças
+públicas e processos administrativos do estado.
+
+As transformações tecnológicas realizadas foram um grande choque para a Administração e foram amplamente absorvidas pela equipe
+técnica, que é majoritariamente composta por colaboradores com vínculo permanente. Os avanços também auxiliaram a moldar um
+ambiente político e institucional favorável à continuidade de mudanças tecnológicas para a otimização das compras públicas estaduais. A
+automação de fluxos, processos e atividades proporcionou ganhos de produtividade que possibilitaram a redução em 44% do tamanho da
+equipe técnica, ampliando os serviços e as competências, bem como a complexidade da matéria licitatória.
+
+A trajetória desta modernização está em linha com a incorporação de recursos de inteligência artificial e tecnologias que ampliem a
+transparência dos processos na relação com os demandantes (demais órgãos da administração), fornecedores e sociedade. A maturidade
+de sistemas do Estado viabiliza soluções que estejam vinculadas ao Portal do Fornecedor do RS e ao GCE, com a qualificação do
+Catálogo de Itens do Estado e melhorias na gestão de atas e registro de preço e fornecedores credenciados e cadastrados. Há potencial
+para o uso do arcabouço tecnológico existente para potencializar a sustentabilidade e a equidade de gênero entre os fornecedores de
+bens e serviços ao estado.
+
+Pela maturidade já existente, tanto tecnológica como institucional, entendemos que podem ser incorporadas inovações como as sugeridas
+pelo Pró-Gestão de forma ágil e rápida. O projeto de modernização da área passou por diversas mudanças políticas e não apenas se
+manteve, como foi concluído. Com a centralização já consolidada, a capacidade de novas implementações tecnológicas e
+institucionalmente disruptivas, como as diversas ferramentas e plataformas em Blockchain, sejam para compras como para a gestão de
+contratos, se tornam ainda mais viáveis e escaláveis.
+
+Já há ferramentas que buscam uma gestão automatizada e funcionando em uma plataforma para a gestão integral do fornecedor. Poderia
+ser este o primeiro case de ?guichê Único? do empreendedor funcionando de forma virtual. Hoje, o Brasil ocupa a posição 185 entre 189
+países no Doing Business, pesando fortemente o tempo de regularização tributária (1500 horas anos por empresa). Os fornecedores do
+setor público são os mais afetados, já que precisam da regularidade fiscal tanto quando se apresenta a uma licitação como na vida do
+contrato. Esta pode ser uma oportunidade de tornar o estado um novo padrão a ser copiado e gerar um benchmarking interno para outros
+governos do Brasil.
+
+Ganhos substanciais em qualidade e melhor preço podem ser obtidos com um planejamento que oriente aquisições a partir da
+sazonalidade da oferta, quantidade comprada, uso de registro de preços e pregões eletrônicos, prazo maior para a preparação de
+propostas, aumento do número de licitantes e compradores e fornecedores de estados distintos. Ferramentas com foco no aumento da
+acurácia dos preços estimados para os pregões também podem ser incrementadas aos sistemas existentes, a partir de tecnologias mais
+modernas existentes no mercado.
+
+1.4.3 Redução do custo da dívida e racionalização dos investimentos públicos
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 9
+
+As rotinas de gestão administrativa vigentes indicam a necessidade de fortalecimento e estruturação da gestão financeira e contábil
+estadual. O Estado do Rio Grande do Sul apresenta esforços recentes na coordenação dos sistemas e atividades existentes, com zelo na
+integração e consolidação de bases de dados em repositórios unificados, mas ainda insuficientes. Parte das interfaces existentes são de
+difícil manuseio ou não se integram com outras cujas informações são essenciais para a celeridade e a verificação das informações,
+ocasionando o uso de ferramentas de registro e de gestão paralelas, que munem de vícios os processos atuais, os tornando altamente
+dependentes dos técnicos que os executam.
+
+Em termos de gestão de custos e racionalização de investimentos, o Estado apresenta defasagens de sistemas e integração com origens
+ainda no planejamento. São identificadas oportunidades de melhorias na gestão financeira ainda na etapa de constituição de um banco de
+projetos, sua seleção, priorização e governança estratégica. Ademais, o Rio Grande do Sul carece de instrumentos de controle, execução
+e avaliação em áreas como obras públicas, concessões e parcerias público-privadas, e execução dos repasses de recursos federais.
+
+Desde a fusão da Secretaria que se responsabilizava pelo planejamento governamental com a responsável pelo acompanhamento e
+monitoramento de projetos estratégicos, ficou saliente que os processos de planejamento e execução não eram vistos de forma sistêmica.
+Da mesma forma, o desalinhamento dos instrumentos de planejamento de políticas públicas reflete na ineficiência na execução de
+projetos e políticas. Projetos em desacordo com o PPA, sem previsão ou suficiência de recursos na LOA, sofrem diretamente na sua
+execução. A carência de ferramentas como um banco de projetos e de alinhamento com instrumentos de repasse federal, com
+consonância com os demais instrumentos, causa ineficácia na execução dos mesmos.
+
+A utilização de sistemas especialistas estanques, sem integração, que ampliam a dispersão de esforços quando da execução, em que
+cada sistema abrange apenas uma das visões, vem para ampliar este desalinhamento e dificultar a obtenção de informação para tomada
+de decisão, a gestão de riscos e a execução de projetos, com impacto final na entrega de políticas públicas eficientes e eficazes para o
+cidadão. A título exemplificativo, o Sistema de Planejamento e Orçamento - SPO permite apenas a consulta e a inserção de dados para a
+fase de planejamento da proposta de lei orçamentária anual ? PLOA, não dispondo de funcionalidades para construção de cenários
+econômicos e fiscais.
+
+O desalinhamento das peças de planejamento, monitoramento e execução impede que projetos e políticas públicas alcancem a contento
+seus benefícios esperados. A falta de um banco de projetos dificulta e atrasa o processo de captação de recursos junto à União,
+impactando em sua execução e na entrega à população, assim como impede que diversos projetos que poderiam valer-se da captação
+sejam executados, pesando muitas vezes no recurso do Tesouro. Da mesma forma, projetos que estão planejados e que esbarram na
+falta de recursos devido ao desalinhamento com as previsões orçamentárias, poderiam fazer parte deste mesmo banco. Enfim, não há um
+encadeamento sistêmico das políticas públicas desde o planejamento estratégico até a análise dos benefícios das mesmas,
+enfraquecendo sua aderência à estratégia e reduzindo suas chances de execução. É necessário, portanto, um bom alinhamento entre o
+planejamento e a execução, preferencialmente sob um único sistema integrado que permita a troca de dados e reduza o retrabalho.
+
+No que se refere à gestão de investimentos em obras públicas, o Estado utiliza o Sistema de Gestão de Obras (SGO), criado a partir da
+necessidade de integração dos dados financeiros de obras públicas com o sistema financeiro do Estado (FPE), operado pela Secretaria da
+Fazenda. O principal objetivo deste sistema é o acompanhamento gerencial de todo o ciclo de vida da obra, desde a solicitação da
+mesma, passando pelo processo de seleção da empresa, o acompanhamento da contratação e fiscalização da obra e as visitas técnicas e
+medições, até a liquidação e prestação de contas, além do registro de eventuais aditivos ao contrato. O sistema vigente confere
+transparência e confiabilidade interna às informações, inclusive possibilitando a auditoria dos dados, reduzindo a burocracia e
+possibilitando a análise e o cruzamento de variáveis para a tomada de decisão relacionada à redução de custos e maior eficiência destes
+investimentos.
+
+Atualmente, a interface do SGO (com os usuários) é pouco amigável. Além disso, o processo para realização e registro de vistorias e
+fiscalizações de obras (independente do sistema) é pouco eficiente, exigindo que o fiscal de obra ou o técnico vistoriador vá ao local da
+obra, faça os registros fotográficos, medições, anotações em mídias diversas (digitais e/ ou analógicas), transfira estas informações
+individualmente a um computador e depois elabore os documentos (relatório descritivo e fotográfico, elementos gráficos, etc), para só
+então registrar-se no sistema e fazer o carregamento dos documentos em PDF e preenchimento dos campos no SGO. Tal processo, além
+de possibilitar a ocorrência de falhas humanas, é de baixa eficiência. Além disso, o registro das informações é, muitas vezes, duplicado,
+uma vez que inserido também no sistema de processos administrativos do governo estadual (PROA).
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+
+
+Página: 10
+
+De acordo com dados fornecidos pelo Departamento de Obras Públicas - DOP da Secretaria de Obras e Habitação - SOP,
+compreendendo o período de 2015-2018, a Secretaria da Educação representa, em termos quantitativos, aproximadamente 88% do
+número total de obras prediais e cerca de 43% do total financeiro de contratos de obras prediais do Poder Executivo. No entanto, o modelo
+de gestão de obras por meio do SGO apenas inclui aquelas relacionadas às escolas, da Secretaria de Educação do Estado. O
+diagnóstico sugere a oportunidade de expansão das funcionalidades de acompanhamento do ciclo de vida das obras para ao menos
+outros dezenove órgãos e entidades da administração pública gaúcha, bem como o melhoramento de funcionalidades internas
+relacionadas ao registro de vistorias e fiscalizações, e integrações que facilitem a experiência dos técnicos e gestores públicos. O
+potencial econômico da melhoria do Sistema de Gestão de Obras é enorme, especialmente se consideradas ferramentas que auxiliem na
+tomada de decisão sobre as contratações e aquisições vinculadas às obras.
+
+Com as seguidas crises financeiras que limitam a capacidade de financiamento de investimentos com recursos próprios pelo Estado,
+houve uma perda gradativa na capacidade de estimular o desenvolvimento da economia e atender as demandas crescentes por serviços
+públicos de qualidade. Neste sentido, o Estado do Rio Grande do Sul está implantando uma política de ampliação de infraestrutura
+visando o aumento da sua capacidade de melhoria da prestação dos serviços públicos nas diversas áreas de impacto social.  Para iniciar
+este processo de melhoria demandado há muito tempo pela população do Estado, são necessárias iniciativas que vão além da
+capacidade financeira do Estado e, portanto, parcerias entre o setor público e o setor privado.
+
+O Estado do Rio Grande do Sul teve seus últimos contratos de concessões rodoviárias encerrados em 2010, totalizando 11 anos sem
+concessões rodoviárias. O primeiro contrato firmado após esse longo período foi assinado no primeiro semestre deste ano, resultando em
+aproximadamente dois bilhões de reais em investimentos. A carteira de projetos de concessões tem aumentado significativamente e
+grandes avanços técnicos e jurídicos vem marcando este tipo de contrato. Este contexto está a exigir uma reorganização do Estado, como
+poder concedente, para gerenciar as concessões. O contrato de concessão em andamento e futuras contratações necessitam de boa
+gestão para produzirem os resultados previstos na modelagem. Parte importante desta gestão é a fiscalização técnica, que deve ser
+capaz de fazer as análises e inspeções necessárias para verificar o cumprimento do Programa de Exploração da Rodovia (PER). As
+demandas sociais exigem um ritmo acelerado na superação das barreiras que ainda impedem o Estado de qualificar a prestação de
+serviços públicos a sua população por meio das ferramentas disponíveis via Parcerias Público-Privadas e, em um sentido mais amplo, um
+programa de concessões. Adicionalmente, os resultados observados em projetos já implantados indicam ganhos de eficiência e qualidade
+nos serviços prestados, confirmando a visão do Governo do Estado de que estas modalidades de investimentos devem ser estimuladas e
+implementadas no Rio Grande do Sul.
+
+A unidade central requer pessoas capacitadas para o desenvolvimento de projetos de interesse do Estado, bem como infraestrutura
+técnica para a sua operação. Complementarmente, faz-se necessário que se institua um modelo perene de gestão e fiscalização dos
+contratos, com a implementação de um sistema integrado com o planejamento, a governança e a gestão financeira estaduais.
+
+Embora a racionalização dos gastos públicos seja essencialmente orientada por órgãos e entidades do núcleo central do governo do
+Estado, como SPGG e SEFAZ, a gestão diária da maior parte dos custos relacionados à prestação de serviços é realizada pelos órgãos e
+pelas entidades setoriais, como saúde, educação e assistência social. Para a melhoria da qualidade do gasto público nestes setores é
+necessário um esforço de modernização com foco na digitalização de processos, automação de atividades rotineiras, integração e
+padronização de estruturas, bem como a estruturação de bases de dados e painéis gerenciais com insumos qualificados para a tomada de
+decisão do corpo técnico. Atualmente o estado contabiliza incontáveis sistemas em que relatórios gerenciais precisam ser requisitados
+para a companhia de processamento de dados estadual e uma série de outras ferramentas de gestão substitutas que são atualizadas de
+forma manualizada, imputando o risco do erro humano como alto para a sua operação. Importantes iniciativas de modernização que
+podem ser desenvolvidas no âmbito deste programa foram identificadas nos setores, em especial nas áreas de saúde e educação, que
+fortalecem o planejamento, monitoramento, confiabilidade da informação e dos gastos nestas áreas.
+
+O Estado tem buscado estimular o desenvolvimento via investimentos privados e melhoria dos serviços públicos em um programa cada
+vez mais robusto envolvendo desestatizações, seja promovendo concessões e parcerias público-privadas criteriosamente modeladas, seja
+pela privatização de empresas. O governo gaúcho tem revelado uma posição  favorável a parcerias com o setor privado, especialmente
+quando evidencia no Mapa Estratégico da Gestão, no título "Qualificar e incrementar a prestação de serviços, formando parcerias com o
+setor privado e 3º setor", dentro do item "Estado Sustentável". Essas parcerias são bem-vindas não só por viabilizarem os investimentos,
+mas também por oferecerem maior agilidade diante das amarras enfrentadas pelo poder público.
+
+Um dos grandes diferenciais do programa de parcerias são os ativos apresentados: rodovias estaduais (1300km, aproximadamente),
+empresas de energia, saneamento, sistema prisional, gestão imobiliária, parques, estações rodoviárias, trens urbanos, aeroportos, entre
+outros. A previsibilidade dos cronogramas das modelagens permite ao investidor fazer planos a longo prazo. Ao mesmo tempo, o BNDES
+tem prestado forte apoio técnico na estruturação dos projetos, contratando consultorias e auxiliando na interlocução junto ao governo
+federal, órgãos de controle e outras autoridades com competências aprobatórias, regulatórias e fiscalizatórias que devem ser consultadas
+ao longo do processo.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+
+
+Página: 11
+
+De forma geral, as atuais privatizações têm como objetivo a redução de dívidas, a diminuição de passivos, a ampliação da capacidade de
+investimentos por meio da iniciativa privada e a captação de recursos. Esse foco estratégico permite ao estado reorganizar seus
+investimentos, redirecionando-os para áreas essenciais como saúde, educação e segurança. A carteira de projetos de privatizações conta
+com os seguintes ativos: a Companhia Estadual de Energia Elétrica (CEEE) e suas respectivas subdivisões (Geração, Transmissão e
+Distribuição), além da SULGAS e a Companhia Riograndense de Mineração (CRM).
+
+Nesses processos, a venda dos ativos transfere de forma definitiva a propriedade de todas as estruturas vinculadas aos serviços, que
+passam a ser propriedade das empresas privadas. Essa medida permite recursos adicionais ao governo não apenas com a venda de
+empresas, mas com os impostos gerados a partir de novos investimentos que serão feitos para ampliar os serviços. Com o crescimento
+das empresas, abre-se caminho para a criação de postos de trabalho. Como o RS não apresenta capacidade de investimento, os novos
+gestores das companhias poderão ampliar o fornecimento de gás, melhorar a rede elétrica e oferecer novas fontes energéticas. O efeito
+imediato é melhorar a infraestrutura para quem pretende investir, porque trará mais competitividade ao Estado.
+
+O leilão de privatização da CEEE-D (Distribuidora) ocorreu em 31/03/2021, vencido pelo grupo Equatorial Energia, que ofertou a quantia
+mínima de R$ 100.000,00. O valor de venda, embora ínfimo, traz importante resultado para o Estado, visto que desonera o RS de um
+passivo aproximado de R$ 7 bilhões, incluindo dívida da companhia com o ICMS de R$ 4,4 bilhões. A privatização do controle da
+Companhia de Gás do Estado do Rio Grande do Sul (Sulgás), cuja concessão tem por objeto a exploração dos serviços do combustível
+canalizado no RS, foi vencida em 22/10/2021 pela empresa Compass Gás & Energia, com oferta de R$ 927.799.896,55, valor mínimo
+estipulado no edital.
+
+Além de uma oportunidade de receita para o enfrentamento da crise financeira, as desestatizações são entendidas pelo governo como um
+mecanismo para gerar investimentos privados e melhoria dos serviços públicos prestados à população. A gestão atual contabiliza cinco
+leilões exitosos realizados na Bolsa de Valores (B3): a PPP de Saneamento da Região Metropolitana, a venda da Companhia Estadual de
+Distribuição de Energia Elétrica (CEEE-D) e da CEEE Transmissão, a concessão da rodovia RSC-287 e a Sulgás.
+
+O Programa de concessão de rodovias investirá R$ 10,6 bilhões em 30 anos de concessão, sendo R$ 3,9 bilhões nos cinco primeiros
+anos, com a implementação de 687 quilômetros de duplicações e terceiras faixas. O Governo pretende viabilizar, por meio de concessões
+e de privatizações, a modernização da economia, viabilizando investimentos privados, principalmente na área de infraestrutura. O RS
+apresenta um dos maiores portfólios do país nesse tema. Além dos processos já concluídos, o Governo está conduzindo a privatização da
+CORSAN (estatal de saneamento) e, tenciona-se lançar o edital para a CEEE-Geração até o final de 2021. Essas ações deverão gerar
+desoneração do passivo das companhias e atração de bilhões de novos investimentos em infraestrutura, empregos a curto prazo, mais
+empregos e renda a longo prazo, além de retorno em tributos gerados pelas atividades econômicas.
+
+1.4.4 Racionalização de gastos com patrimônio
+
+O Estado do Rio Grande do Sul, embora apresente projetos de ponta no que diz respeito às temáticas relacionadas ao patrimônio, o que
+pode ser considerado um reflexo da maturidade dos seus processos de gestão, possui desafios que se assemelham aos vivenciados
+pelos demais estados brasileiros.
+
+Em relação à gestão dos bens imóveis, o Governo do Estado possui aproximadamente 13.000 bens sob sua propriedade, mas há
+importantes lacunas relacionadas à ausência de informações sobre estes imóveis. Um grande esforço para conhecimento desses bens foi
+realizado no âmbito do PROREDES BIRD, entre 2012 e 2019, período em que foi revisado o cadastro dos imóveis e foram desenvolvidos
+módulos no Sistema de Gestão Patrimonial do Estado (GPEWEB). Adicionalmente, foi revisado o marco legal desta área, com aprovação
+da Lei Nº 15.127, de 24 de janeiro de 2018, que estabelece a Política e o Sistema de Gestão de Ativos do Estado do Rio Grande do Sul.
+
+Atualmente, cerca de 4% destes imóveis estão avaliados e não há uma base de dados robusta e confiável que possibilite aos gestores
+informações precisas sobre o patrimônio imobiliário do Estado, ainda que a base esteja em constante processo de higienização. Embora
+exista um sistema de gestão de bens imóveis, o GPEWEB, há dificuldades de se obter informações, uma vez que o sistema não dispõe de
+painéis e relatórios gerenciais que possam efetivamente subsidiar a tomada de decisão. Está em desenvolvimento um projeto para a
+implementação de nuvem de pontos a partir da utilização de sistemas BIM, que vai permitir o mapeamento de todos imóveis do Estado e
+deverá operar integrado com o sistema de gestão de patrimônio.
+
+Outras necessidades referentes à gestão dos bens imóveis são: (i) mapeamento e revisão dos fluxos de trabalho e governança inerentes
+aos principais processos do patrimônio; (ii) a previsão de customizações no sistema GPEWEB, de forma a permitir a automatização e
+concentração dos referidos processos em um único sistema; e (iii) a atualização cadastral e regularização de imóveis.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 12
+
+Em relação aos bens móveis, o Estado possui um Centro de Serviços Compartilhados, bem como um Sistema de Gestão de Patrimônio,
+com módulos específicos para os bens desta natureza. É necessário, no entanto, que, a exemplo dos bens imóveis, sejam revistos fluxos
+e a governança relativos à gestão dos bens imóveis, bem como previstas customizações no Sistema, o que possibilitará a sua utilização
+de forma mais ampla e estratégica.
+
+No que se refere ao patrimônio de Tecnologia da Informação e Comunicação (TIC), sabe-se que a infraestrutura de um ente público é
+extremamente complexa; isso se deve à forma como ela foi e vem sendo concebida ao longo dos anos. Até há pouco tempo, sistemas
+eram, muita vezes, criados estritamente para atender demandas temáticas, não considerando as sinergias com outras áreas de atuação
+do governo e muito menos observando o potencial de inteligência que os dados armazenados poderiam gerar por meio de práticas de
+análise e ciência de dados.
+
+Como resultado dessa estrutura de TIC complexa, há enorme quantidade de sistemas independentes e, muitas vezes, não são integrados
+entre si, construídos por fabricantes distintos e com tecnologias de programação diferentes, ocasionado diversas dificuldades: retrabalho,
+já que é necessário inserir a mesma informação em sistemas distintos; inconsistências de dados e potencial de fraudes, pois há muitas
+informações inseridas manualmente dentro de sistemas diferentes; manutenções evolutivas de sistemas e também BIs e dashboards
+muito demoradas, pois a maneira tradicional de customização dessas soluções é demorada e necessita de pessoas muito capacitadas
+para isso.
+
+Além da necessidade de mapear e gerenciar os sistemas de informação a partir de uma perspectiva mais estratégica, o Estado tem a
+intenção de implantar um projeto que visa estabelecer a utilização de dados para subsidiar processos e tomada de decisão (Data - Driven
+RS). Para que esta iniciativa seja bem sucedida, é necessário que, em um primeiro momento, sejam feitos levantamentos acerca das
+principais informações armazenadas e processos suportados por cada sistema, de forma a estabelecer o relacionamento entre estes
+dados e a necessidade de sua utilização para tomada de decisão, bem como a construção de novos meios de transparência para o
+cidadão. Além disso, é necessário que sejam capacitadas as equipes responsáveis por dar vazão e velocidade à necessidade analítica do
+Estado, para que se reduza a dependência de utilização de fornecedores de TIC, bem como sejam estabelecidos os processos de
+tratamento, extração, disponibilização e utilização dos dados, a governança e a segurança destas rotinas e as estruturas responsáveis
+pela sua gestão.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+RACIONALIZAÇÃO DO GASTO COM PESSOAL ATIVO E INATIVO
+
+As soluções propostas para a racionalização do gasto com pessoal ativo e inativo são: (i) Sistema de Gestão e Dimensionamento da
+Força de Trabalho; (ii) Módulos adicionais para o Sistema de Recursos Humanos; (iii) Sistema de Gestão da Previdência; e (iv) Sistema de
+Análise e Projeções Previdenciárias.
+
+Produto 1: Sistema de Gestão e Dimensionamento da Força de Trabalho
+
+O sistema permite não apenas a implementação de modelos de planejamento da força de trabalho perenes, mas também possibilita
+reformas na área de gestão de pessoas por prover insumos para mudanças estratégicas de curto a longo prazo. Em específico, a ação
+realizada em todos os órgãos e entidades do Governo do Estado do Rio Grande do Sul, excluindo-se as sociedades de economia mista e
+empresas públicas, resume-se aos seguintes subprodutos: a) dimensionamento da Força de Trabalho de todos os órgãos da
+administração pública direta e indireta, com base no mapeamento de processos e definição de indicadores de produtividade, excetuando
+as sociedades de economia mista e empresas públicas; b) reorganização da estrutura funcional da administração e do modelo de
+governança dos setores dimensionados identificando duplicidade de tarefas e possibilidades de redução de custos; c) reorganização do
+sistema de carreiras, cargos comissionados, e desempenho do Estado, de acordo com as competências funcionais e complexidades das
+atividades levantadas no dimensionamento; d) criação de sistema para gestão de processos de gerenciamento da força de trabalho; e)
+projeções e definição de parâmetros para construção de modelos preditivos da necessidade de reposição de servidores mediante a
+demanda futura; f) revisão do estatuto dos servidores públicos e do magistério de acordo com os impactos levantados de licenças,
+afastamentos e benefícios na força de trabalho disponível; e g) capacitação das equipes para a absorção das novas atribuições e
+ferramentas de gestão da força de trabalho do estado.
+
+Produto 2: Módulos Adicionais para o Sistema de Recursos Humanos do Estado (RHE)
+
+O RHE tem por objetivo central a gestão da vida funcional do servidor público por meio da oferta de serviços que permeiam a área de
+Recursos Humanos. Para seu aprimoramento, é necessária a criação de módulos adicionais que possibilitem seu avanço para áreas
+estratégicas deste setor. Neste aspecto, são necessários os seguintes subprodutos: a) desenvolvimento de módulo de avaliação de
+desempenho;  b) desenvolvimento de módulo de gestão da produtividade e teletrabalho; c) desenvolvimento de módulo de gestão de
+competências; d) desenvolvimento de módulo de seleção de cargos comissionados; e) desenvolvimento de módulo de gestão da
+capacitação e desenvolvimento; f) desenvolvimento de módulo de banco de talento; g) desenvolvimento de módulo de gestão de
+concursos e contratação de pessoal; e g) hardware necessário para a operacionalização e atualização dos sistemas, incluindo
+equipamentos de informática como notebooks, impressoras, scanners, nobreaks, monitores e roteadores.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 13
+
+Produto 3: Sistema de Gestão da Previdência
+
+As melhorias que serão implementadas no sistema de gestão previdenciária do Rio Grande do Sul para o RPPS objetivam dar
+interoperabilidade entre o IPE Prev e os registros contábeis, folha de pagamento e demais processos transacionais relacionados à gestão
+de recursos humanos, aumentando a autonomia da gestão da previdência do Estado por meio dos seguintes subprodutos: a) o
+desenvolvimento de uma solução informatizada de gestão integrada com o sistema responsável pela gestão de servidores ativos e
+inativos do Estado (RHE) e o sistema financeiro, principalmente, e outros, se necessário, possibilitando que este sistema atue de forma
+integrada com a execução da folha, registros contábeis e demais processos transacionais relacionados à gestão previdenciária RPPS; b)
+desenvolvimento de uma solução de emissão de certificados, automatização de processos para atendimento virtual aos servidores,
+pensionistas e aposentados e gestão compensatória previdenciária; c) elaboração de painel gerencial para acompanhamento das ações e
+regulamentações de todas as normas vigentes na legislação previdenciária, indicadores de gestão; d) capacitação operacional; e e)
+hardware necessário para a operacionalização dos sistemas.
+
+Produto 4: Sistema de Análise e Projeções Previdenciárias.
+
+O desenvolvimento de ferramenta de análise de dados para produção de projeções, impactos e resultados estimados, que apoie a
+governança do sistema previdenciário e a tomada de decisões com: a) desenho de modelos preditivos de impacto atuarial, projeções,
+análise dos resultados de investimentos e produção de demonstrativos atualizados a partir de alterações nos dados originários; b)
+capacitação operacional dos profissionais usuários; e c) hardware necessário para a operacionalização dos sistemas.
+
+Os produtos aderentes à racionalização de gastos com pessoal ativo e inativo são necessários para garantir a sustentabilidade das contas
+públicas do Estado do Rio Grande do Sul, otimizando recursos e processos relacionados à área. Seus resultados esperados são:
+
+(1)  A redução da taxa de reposição da força de trabalho;
+
+(2)  Redução do tempo de concessão dos benefícios previdenciários;
+
+(3) Aumento da participação de benefícios concedidos automaticamente pelo Sistema de Gestão da Previdenciária unificado.
+
+MODERNIZAÇÃO DAS COMPRAS PÚBLICAS
+
+As soluções propostas para a modernização de compras públicas são: (i) Melhoramentos do Sistema estadual de compras públicas.
+
+Produto 5: Melhoramentos ao Sistema estadual de compras públicas
+
+Este produto objetiva proporcionar soluções de tecnologia da informação atualizadas, boas práticas e novos padrões para a eficiência em
+compras públicas, tendo em vista a constante evolução tecnológica normativa e procedimental, inclusive com adequações referentes a
+Nova Lei de Licitações e Contratos (14.133/21) e a adesão ao Acordo de Compras Públicas da Organização Mundial do Comércio (ACP-
+OMC). Estão previstos os seguintes subprodutos:  a) a implementação de módulos para o Sistema de Compras Estadual, incluindo
+mecanismos de compras públicas sustentáveis voltados para inclusão e equidade de gênero em compras públicas e incentivo à
+participação de MPEs, adoção de critérios de contratações sustentáveis nas licitações do Estado; b) utilização de tecnologia blockchain,
+que pode ser adotada nos processos de compras diretas ou de dispensa de licitação; c) integração de informações de compras públicas
+para todos os órgãos e as entidades do Estado, com a disponibilização de painéis e relatórios gerenciais; d) ampliação das
+funcionalidades do módulo de fornecedores em execução; e) revisão do marco regulatório de compras estadual para reformulação
+organizacional e implementação de benefícios para empreendedores individuais, micro e pequenas empresas, bem como shared services
+para famílias de produtos; f) capacitações necessárias para a implementação dos sistemas, e; g) hardware necessário para a
+operacionalização dos sistemas (desktops, notebooks, impressoras, entre outros).
+
+A solução de modernização de compras públicas é essencial para a continuidade dos ganhos de eficiência em aquisições e relação com
+fornecedores, otimizando recursos e fluxos relacionados à área. Seus resultados esperados são:
+
+(cid:10)
+
+(cid:10)
+(cid:10)
+
+
+Página: 14
+
+(1) Redução do tempo médio das aquisições.
+
+(2) Economia no preço médio pago por itens comuns, tais como veículos, terceirização de mão de obra, equipamentos de informática,
+transporte escolar e serviços gráficos.
+
+(3) Aumento da transparência e disponibilização de informações sobre compras públicas para a população.
+
+REDUÇÃO DO CUSTO DA DÍVIDA E RACIONALIZAÇÃO DE INVESTIMENTOS PÚBLICOS
+
+As soluções propostas para a redução do custo da dívida e racionalização dos investimentos públicos são: (i) Auditoria sobre aderência de
+contabilidade; (ii) Sistema de Gestão de Parcerias público-privadas e Concessões; (iii) Sistema de Planejamento, Governança e Gestão; (
+iv) Modernização do sistema de Gestão de Obras Públicas; e (v) Sistema de Gestão de Custos Setoriais.
+
+Produto 6: Auditoria sobre aderência de contabilidade (requisito STN)
+
+A auditoria sobre a aderência da contabilidade assegura a correta evidenciação do patrimônio público e suas variações, identificando e
+padronizando boas práticas no setor público. Inclui-se plano de implementação destas práticas, com a implementação de uma estrutura de
+governança e gestão responsável pelo seu acompanhamento.
+
+Produto 7: Sistema de Gestão de Concessões e Parcerias público-privadas
+
+Este produto propõe a maior eficiência na coordenação e execução de concessões e parcerias público-privadas, com ganhos na
+produtividade e assertividade do corpo técnico da área. Estão previstos os seguintes subprodutos: a)  desenvolvimento de um sistema de
+gerenciamento de projetos que permita acompanhamento dos projetos e gestão de documentos, permitindo acesso (e controle dos
+acessos) de todos envolvidos no processo, tanto do Estado como de contratados e concessionárias; b) desenvolvimento de um sistema de
+apoio à fiscalização, com banco de dados georreferenciado, cadastral e de indicadores, que permita o gerenciamento dos contratos e a
+governança de forma adequada e eficiente; c) integração com os sistemas de informações orçamentárias, financeiras, patrimoniais e
+contábeis; d) aquisição de softwares de acompanhamento e análise para infraestrutura de transportes rodoviários e de softwares de
+desenho; e) aquisição de hardware específico para a operacionalização, como tablets, GPS de precisão, entre outros; e f)  capacitação
+das equipes responsáveis pela utilização do sistema.
+
+Produto 8: Sistema de Planejamento, Governança e Gestão
+
+Este produto vislumbra desenvolver e implantar um sistema integrado de planejamento, orçamento e gestão, de modo a garantir a entrega
+das políticas públicas de forma mais célere e eficaz. Estão previstos os seguintes subprodutos: a) desenvolver e implementar um sistema
+integrado de planejamento de longo prazo, planejamento plurianual, orçamento anual e monitoramento de programas ações e projetos; b)
+implantação de um banco de projetos pré-avaliados, com avaliação financeira e técnica formal, padronizando procedimentos de avaliação
+e seleção; c) implementação de ferramenta de projeção de impacto econômico e fiscal dos projetos de investimentos; d) desenvolvimento
+de módulo para gestão ponta-a-ponta de recursos transferidos nas suas diversas modalidades (contrato de repasse, MROSC, convênio,
+fundo-a-fundo, termos de parceria e outros); e) capacitação das equipes responsáveis pela operacionalização do sistema; e g) aquisição
+de equipamentos necessários para operacionalização do sistema (estrutura de hardware e software, desktops, notebooks, impressoras,
+etc.)
+
+Produto 9: Modernização do Sistema de Gestão de Obras Públicas
+
+Este produto possibilitará a maior assertividade na fiscalização de obras públicas, bem como a expansão do escopo de monitoramento
+para outros órgãos e entidades do Estado, reduzindo gastos e aportando maior transparência a esta modalidade de investimento público.
+Estão destacados os seguintes subprodutos: a) desenvolvimento de ferramentas compatíveis de integração com o Sistema de Gestão de
+Obras - SGO para os processos de realização de vistorias e fiscalizações em obras, em especial a adoção de novas tecnologias para
+registro e comunicação; b) disponibilização de relatórios gerenciais e painéis de acompanhamento de informações; c) capacitações para
+as equipes, e; d) aquisição de hardware necessário para a operacionalização das novas funcionalidades.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 15
+
+Produto 10: Sistema de gestão de custos setoriais
+
+Este produto propõe a redução dos custos operacionais e transacionais e a maior eficácia na provisão de serviços públicos junto às
+setoriais. Dentre os requisitos técnicos para implantação, destacam-se: a) levantamento e priorização de custos setoriais, revisão de base
+de dados, atos regulatórios e inovações na prestação de serviços que visem a gestão e/ou participação cidadã; b) desenvolvimento de
+módulos ou sistemas cuja implementação gere economias e efetividade do serviço para o Estado; c) integração com sistemas do Estado
+nos casos em que os macroprocessos críticos sejam intersetoriais, como recursos humanos, administração tributária, insumos essenciais,
+patrimônio, provisão direta e indireta de serviços e fornecimento de produtos, manutenção de imóveis, aquisição de bens e serviços
+rotineiro, entre outros; d) construção dos indicadores para monitoramento e avaliação dos custos com a possibilidade de gerar relatórios
+customizados e de base comparativa; e) capacitações necessárias para sustentabilidade do Sistema; e f) hardware necessário para a
+implementação dos sistemas (monitores, notebooks, equipamentos de suporte gráfico e energético, entre outros).
+
+As soluções deste componente visam o aumento da eficiência das principais modalidades de gasto público do Estado, seja no
+planejamento como no monitoramento da execução. Seus resultados esperados são:
+
+(1) Melhor estruturação e avaliação ex-ante de  projetos públicos, especialmente quanto à avaliação de risco e da viabilidade técnica e
+financeira de projetos de investimentos;
+
+(2) Maior transparência e economia na gestão de concessões, parcerias público-privadas e de transferências intergovernamentais;
+
+(3) Reduzir o quantitativo de aditivos de obras públicas.
+
+RACIONALIZAÇÃO DE GASTOS COM PATRIMÔNIO
+
+Produto 11: Sistema de Gestão de Patrimônio
+
+Os Sistemas de Gestão de Bens Móveis (APE) e Imóveis (GPEWEB) têm como objetivo sanar as principais lacunas relativas a esse eixo
+no Estado do Rio Grande do Sul. É importante que sejam discutidas customizações nos sistemas já existentes, de forma a viabilizar a
+implementação de funcionalidades que permitam o aprimoramento da gestão, bem implementadas integrações, o que permite a
+interoperabilidade entre as soluções existentes. Neste sentido, devem ser implementados os seguintes subprodutos: a) customização do
+sistema de bens móveis (APE) aderentes à política e governança implementadas no Centro de Serviço Compartilhado; b) customização
+do módulo de bens imóveis (GPEWEB), com a implementação de painéis gerenciais, definição de parâmetros de ocupação e economia de
+energia e dentre outras funcionalidades, em especial visando à concentração e automação dos principais processos relativos ao
+patrimônio imobiliário em um único sistema gerencial; c) levantamento, mapeamento de informações e avaliação de imóveis de
+propriedade do Estado; d) implementação de integrações, especialmente com o sistema BIM; e) desenho de fluxos, estrutura, processos e
+governança de gestão de bens imóveis; f) atualização cadastral e regularização de imóveis; g) capacitações; e h) aquisição de hardware e
+software.
+
+Produto 12: Sistema de Gestão de Patrimônio de TIC
+
+O Sistema de Gestão de TIC permitirá ao Governo do Estado do Rio Grande do Sul gerir de forma mais eficiente os seus recursos
+tecnológicos, bem como a política estratégica de Tecnologia, Informação e Comunicação a partir da implementação dos seguintes
+subprodutos: a) desenho de processos, governança e estrutura para a implementação de processos de tomada de decisão orientados a
+dados; b) mapeamento dos sistemas existentes, com a identificação dos dados armazenados por sistema, de eventuais sobreposições de
+informação, serviços e processos suportados por sistema; c) implementação de integrações de forma a otimizar o desempenho dos
+sistemas e a produtividade na obtenção de informações; d) capacitações; e e) aquisição de hardware para suportar a implementação dos
+demais subprodutos.
+
+As soluções para a racionalização de gastos de patrimônio são a base para o entendimento situacional e prospecção de benefícios a partir
+da maior governança sobre o patrimônio mobiliário, imobiliário e tecnológico, inclusive com a adequada exploração deste. Seus
+resultados esperados são:
+
+(1) Aumento da taxa de regularização dos imóveis;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 16
+
+(2) Redução de custos unitários para compartilhamento e consumo de dados.
+
+SUSTENTABILIDADE DAS SOLUÇÕES
+
+Para que seja garantida a sustentabilidade das soluções é essencial que as implementações ocorram a partir de ciclos curtos e
+incrementais, o que possibilita a geração de capacidades mais sólidas nas equipes responsáveis pela manutenção das soluções e permite
+que sejam corrigidos eventuais erros e falhas durante a implementação. É importante também que as soluções estejam alinhadas à
+estratégia prevista pelo governo, bem como que considerem os projetos já em andamento no Estado, de forma a garantir que não haverá
+sobreposição de esforços em iniciativas semelhantes.
+
+Em relação à implementação dos sistemas de informação, é essencial que sejam envolvidas as áreas de negócio, responsáveis por definir
+as regras e diretrizes de operação, bem como as áreas técnicas,  responsáveis pela gestão de tecnologia da informação no Estado com o
+papel de garantir que os sistemas desenvolvidos estejam de acordo com os parâmetros de qualidade e interoperabilidade e hospedagem
+utilizados pelo Governo do Rio Grande do Sul. É importante também que as homologações sejam conduzidas também por essas equipes,
+de forma a garantir que a implementação dos requisitos funcionais, não funcionais e regras de negócio esteja completamente aderente ao
+especificado e contratado. As contratações de sistemas devem também observar aspectos como garantia da solução, operação assistida,
+atualizações dos sistemas e cessão do código fonte.
+
+Em relação às capacidades, todas as etapas de implementação e produtos devem contemplar a transferência de conhecimento para as
+equipes do Estado, de forma a garantir a disponibilidade de força de trabalho qualificada para a sustentação no longo prazo. É importante
+também que sejam adquiridos hardware que suporte as novas soluções, bem como estruturadas rotinas, processos, estrutura e
+governança não só para a gestão do projeto, mas para o estabelecimento dos novos procedimentos implementados a partir dos produtos
+contratados.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+As soluções propostas no âmbito do Pró-Gestão foram concebidas a partir da estratégia vigente do Estado, conforme descritas no Plano
+Estratégico do Governo do Rio Grande do Sul, em seu Plano Plurianual (2020-2023) e no portfólio de projetos estratégicos monitorado
+pela Secretaria de Planejamento, Governança e Gestão - SPGG.
+
+Em específico o projeto proposto se enquadra em ao menos 2 programas e ao menos 7 ações programáticas presentes no PPA, são eles:
+
+Programa: Sustentabilidade Fiscal e Novas Parcerias
+
+Ação Programática - Gestão do Regime Próprio de Previdência Social: Garantia de atendimento e pagamento de inativos e pensionistas
+do Estado do Rio Grande do Sul, por meio da gestão dos recursos previdenciários.
+
+Ação Programática - RS ATIVOS: Aprimoramento da governança e eficiência das empresas estatais gaúchas e otimização da gestão de
+bens móveis e imóveis do Estado, tendo em vista a proteção e a qualificação do patrimônio e a preservação de recursos públicos.
+
+Ação Programática - RS Parcerias: Qualificação da prestação de serviços e adequação da infraestrutura às necessidades atuais e futuras
+do Estado, por meio da captação de recursos privados para investimento, operação e manutenção.
+
+Programa: Governo 4.0
+
+Ação Programática - Eficiência e Assertividade no Gerenciamento de Obras Pública: Entrega de projetos e obras de arquitetura e
+engenharia de prédios públicos estaduais com assertividade e qualidade, por meio de processos de elaboração e gestão eficientes,
+integrados, transparentes e confiáveis.
+
+Ação Programática - Licita Tri Legal: Sustentabilidade das compras públicas, por meio da otimização de processo e capacidades
+organizacionais, tendo em vista a legalidade, a agilidade e a eficiência.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+
+
+Página: 17
+
+Ação Programática - RS Pessoas: Qualificação da prestação dos serviços públicos e do atendimento aos usuários, por meio da promoção
+da saúde e da segurança do servidor e da implantação da gestão por competências, com foco no desenvolvimento e treinamento, na
+avaliação de desempenho, no recrutamento de lideranças e no adequado dimensionamento da força de trabalho. Fortalecimento da
+atuação em matéria de probidade administrativa e disciplinar e implementação de ações de ética e conformidade no serviço público.
+
+Ação Programática - Sistema de Governança 4.0: Consolidação de um sistema de governança único, que sirva ao alinhamento, à
+orientação, ao diálogo e a comunicação das prioridades de decisão, ação e de desenvolvimento de projetos estratégicos ao estado,
+aperfeiçoando a capacidade de resposta, a prestação de contas, a transparência e a entrega de resultados para o cidadão.
+
+Ação Programática - Planejamento e Captação de Recursos: mapeamento de novas fontes de financiamento, normatização de sistema de
+captação de recursos, divulgação de projetos financiados, análise de viabilidade econômico-financeira de projetos, implementação de
+Banco Integrado de Projetos Públicos.
+
+Ação Programática - Implantação de Práticas Inovadoras de Gestão: ampliação do acesso ao conhecimento sobre a ação governamental
+e a realidade socioeconômica do estado, a partir da coleta, do registro e da produção de dados e informações e sua difusão por meio da
+publicação de estudos, pesquisas, avaliações e visualizações, qualificando a tomada de decisão de agentes.
+
+Também há direto alinhamento entre as soluções financiadas e os principais objetivo do Mapa Estratégico do Governo 2019-2022 em uma
+série de elementos: busca pelo equilíbrio fiscal, otimização de gastos, aumento da capacidade de investimento, formação de parcerias
+com o setor privado, aprimoramento de mecanismos de transparência e modernização e desburocratização de processos.
+
+O projeto também se alinha diretamente com os interesses do Tesouro Nacional contribuindo para a uma gestão fiscal, financeira e
+patrimonial responsável, o que é um pilar fundamental no desenvolvimento econômico do país. Desse modo, todos os componentes e
+produtos têm por objetivo reduzir despesas e melhorar a eficácia e eficiência da gestão e gasto público, otimizando a gestão pública com
+foco na sustentabilidade fiscal.
+
+Adicionalmente, o projeto busca harmonizar as soluções propostas em âmbito federal com os desafios e soluções a nível estadual por
+meio do arranjo institucional estratégico do projeto Pró-Gestão federal e subnacional. Um exemplo das vantagens de tal arranjo é a
+articulação do Banco Mundial em harmonizar o sistema de licitações públicas do governo federal com os Estados da federação inseridos
+no Pro-Gestão. O objetivo é criar sinergias entre as soluções aqui propostas entre os dois níveis do governo e assim evitar a pulverização
+de sistemas e soluções que resultam em gastos evitáveis para ambos entes federativos.
+
+Diante da relevância do projeto é primordial a sua realização para o Estado avançar na gestão fiscal, financeira e patrimonial. Entretanto,
+como trata-se de um projeto complexo e com muitas ações que demandam elevada soma de recursos para a sua implantação, se faz
+necessário a busca de fontes de recursos externos que possibilitem a concretização deste investimento.
+
+A parceria com o Banco Mundial justifica-se dado a expertise comprovada do Banco em projetos de alta complexidade no mundo todo,
+que necessitam de ampliação da capacidade técnica e institucional e de subsídios e referências internacionais. Em específico, o Estado,
+juntamente com a equipe técnica do Banco, analisou minuciosamente a folha de pagamento dos servidores públicos do Estado e
+construíram um modelo fiscal para o Rio Grande do Sul.  Tal parceria é fundamental para o alcance dos resultados almejados, seja pelo
+suporte da equipe altamente qualificada à implementação do projeto, seja pela possibilidade de contratação de consultorias especializadas
+, estudos e avaliações por meio do de assistência técnica, que, ao utilizar o normativo do Banco, permite contratações com maior
+dinamicidade.
+
+As condições financeiras da operação são padronizadas pelo Banco Mundial e estão disponíveis no seguinte endereço: https://treasury.
+worldbank.org/en/about/unit/treasury/ibrd-financial-products/lending-rates-and-fees.
+
+A contrapartida será proveniente de recursos do tesouro estadual.
+
+Na elaboração do programa foi considerada como moeda de referência o dólar norte-americano, com a taxa de câmbio US$ 1 = R$ 5,66 (
+taxa do dia 01/11/2021).
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa de Sustentabilidade Fiscal, Eficiência e Eficácia do Gasto Público do Estado do Rio Grande do Sul
+
+
+### 2.2. Título Abreviado
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 18
+
+Pro-Gestão RS
+
+
+### 2.3. Mutuário
+
+
+Estado do Rio Grande do Sul
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+O objetivo geral do projeto é promover a melhoria contínua da gestão fiscal, orçamentária e patrimonial da administração pública, por
+intermédio de ações que visem à racionalização do gasto público com resultados perenes, aumentando a eficiência da gestão fiscal e
+administração pública para cada ente subnacional que faça a adesão ao programa.
+
+Objetivos Específicos
+
+O projeto deve contribuir para:
+
+1) Gestão Fiscal
+
+Racionalização do gasto com pessoal ativo
+
+Racionalização do gasto com pessoal inativo
+
+Modernização de compras públicas
+
+2) Gestão Financeira
+
+Racionalização dos investimentos públicos
+
+3) Gestão Patrimonial
+
+Racionalização de gastos com patrimônio
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Descrição
+Proporção de órgãos da administração direta
+estadual usando ferramentas de
+dimensionamento da força de trabalho (quanto
+maior, melhor)
+Regularização de imóveis
+
+Investimentos públicos pré-avaliados
+tecnicamente
+
+Variação da Eficiência das compras públicas
+com base na otimização de transações
+
+
+Página: 19
+
+Meta
+100,00
+
+Fórmula de Cálculo Unidade de Medida
+Quantidade de órgãos
+utilizando a
+ferramenta
+
+%
+
+Linha de Base
+0,00
+
+0,00
+
+0,00
+
+70,00
+
+50,00
+
+0,00
+
+20,00
+
+%
+
+%
+
+%
+
+(Total de imóveis com
+registro  / Total de
+Imóveis)*100
+(IBIPP/I)*100 Onde
+IBIPP é o total de
+investimentos
+realizados
+estruturados a partir
+do Banco de Projetos
+e I é o total de
+investimentos
+considerados aptos à
+avaliação realizados (
+conceito de despesa
+paga, GND 4; base de
+apuração anual)
+[(MRx/MR0)-1]*100
+Onde MRx é a
+quantidade média de
+registros em sistemas
+informatizados
+provenientes de
+operadores nos
+últimos 6 meses e
+MR0 é a quantidade
+média de registros em
+sistemas
+informatizados
+provenientes de
+operadores no
+momento T0.
+
+
+### 2.7. Projeto/Componentes
+
+
+Componentes
+C - RACIONALIZAÇÃO DO GASTO COM PESSOAL ATIVO E INATIVO
+P - Sistema de dimensionamento da força de trabalho
+P - Módulos Adicionais para o Sistema de Recursos Humanos do Estado (RHE)
+P - Sistema de Gestão da Previdência
+P - Sistema de Análise e Projeções Previdenciárias
+C - MODERNIZAÇÃO DE COMPRAS PÚBLICAS
+P - Melhoramentos ao sistema estadual de compras públicas
+C - REDUÇÃO DO CUSTO DA DÍVIDA E RACIONALIZAÇÃO DOS INVESTIMENTOS PÚBLICOS
+P - Auditoria sobre aderência de contabilidade
+P - Sistema de Gestão de Concessões e Parcerias Público-Privadas
+P - Sistema de Planejamento, Governança e Gestão
+P - Modernização do Sistema de Gestão de Obras Públicas
+P - Sistema de Gestão de Custos Setoriais
+C - RACIONALIZAÇÃO DE GASTOS COM PATRIMÔNIO
+P - Sistema de Gestão do Patrimônio
+P - Sistema de Gestão de Patrimônio de TIC
+C - GESTÃO DO PROJETO
+P - Gestão do Projeto
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Valor(US$)
+7.500.000,00
+4.500.000,00
+1.000.000,00
+1.400.000,00
+600.000,00
+3.000.000,00
+3.000.000,00
+12.100.000,00
+200.000,00
+1.000.000,00
+3.500.000,00
+800.000,00
+6.600.000,00
+9.900.000,00
+6.900.000,00
+3.000.000,00
+500.000,00
+500.000,00
+33.000.000,00
+
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+
+Página: 20
+
+C - RACIONALIZAÇÃO DO GASTO COM PESSOAL ATIVO E INATIVO
+P.1.1.Sistema de Gestão e Dimensionamento da Força de Trabalho.  O sistema permite não apenas a implementação de modelos
+de planejamento da força de trabalho perenes, mas também possibilita reformas na área de gestão de pessoas por prover insumos
+para mudanças estratégicas de curto a longo prazo. Em específico, a ação realizada em todos os órgãos e entidades do Governo
+do Estado do Rio Grande do Sul, excluindo-se as sociedades de economia mista e empresas públicas, resume-se aos seguintes
+subprodutos: a) dimensionamento da Força de Trabalho de todos os órgãos da administração pública direta e indireta, com base
+no mapeamento de processos e definição de indicadores de produtividade, excetuando as sociedades de economia mista e
+empresas públicas; b) reorganização da estrutura funcional da administração e do modelo de governança dos setores
+dimensionados identificando duplicidade de tarefas e possibilidades de redução de custos; c) reorganização do sistema de
+carreiras, cargos comissionados, e desempenho do estado, de acordo com as competências funcionais e complexidades das
+atividades levantadas no dimensionamento; d) criação de sistema para gestão de processos de gerenciamento da força de
+trabalho; e) projeções e definição de parâmetros para construção de modelos preditivos da necessidade de reposição de
+servidores mediante a demanda futura; f) revisão do estatuto dos servidores públicos e do magistério de acordo com os impactos
+levantados de licenças, afastamentos e benefícios na força de trabalho disponível, e; g) capacitação das equipes para a absorção
+das novas atribuições e ferramentas de gestão da força de trabalho do estado.
+
+P.1.2.Módulos Adicionais para o Sistema de Recursos Humanos do Estado - RHE. O Sistema de Recursos Humanos do Estado (
+RHE) tem por objetivo central a gestão da vida funcional do servidor público através da oferta de serviços que permeiam a área de
+Recursos Humanos. Para seu aprimoramento, é necessária a criação de módulos adicionais que possibilitem seu avanço para
+áreas estratégicas deste setor. Neste aspecto, são necessários os seguintes subprodutos: a) desenvolvimento de módulo de
+avaliação de desempenho;  b) desenvolvimento de módulo de gestão da produtividade e teletrabalho; c) desenvolvimento de
+módulo de gestão de competências; d) desenvolvimento de módulo de seleção de cargos comissionados; e) desenvolvimento de
+módulo de gestão da capacitação e desenvolvimento; f) desenvolvimento de módulo de banco de talento; g) desenvolvimento de
+módulo de gestão de concursos e contratação de pessoal, e; g) hardware necessário para a operacionalização e atualização dos
+sistemas, incluindo equipamentos de informática como notebooks, impressoras, scanners, nobreaks, monitores e roteadores.
+Custo estimado para a aquisição de equipamentos (US$ 150,000).
+
+P.1.3.Sistema de Gestão da Previdência. As melhorias que serão implementadas no sistema de gestão previdenciária do Rio
+Grande do Sul para o RPPS objetivam dar interoperabilidade entre o IPE Prev e os registros contábeis, folha de pagamento e
+demais processos transacionais relacionados à gestão de recursos humanos, aumentando a autonomia da gestão da previdência
+do estado, por meio dos seguintes subprodutos: a) o desenvolvimento de uma solução informatizada de gestão integrada com o
+sistema responsável pela gestão de servidores ativos e inativos do Estado (RHE) e o sistema financeiro, principalmente e outros,
+se necessário, possibilitando que este sistema atue de forma integrada com a execução da folha, registros contábeis e demais
+processos transacionais relacionados à gestão previdenciária RPPS; b) desenvolvimento de uma solução de emissão de
+certificados, automatização de processos para atendimento virtual aos servidores, pensionistas e aposentados; e gestão
+compensatória previdenciária; c) elaboração de painel gerencial para acompanhamento das ações e regulamentações de todas as
+normas vigentes na legislação previdenciária, indicadores de gestão; d) capacitação operacional, e e) hardware necessário para a
+operacionalização dos sistemas. Custo estimado para a aquisição de equipamentos (US$ 140,000).
+
+P.1.4.Sistema de Análise e Projeções Previdenciárias. O desenvolvimento de ferramenta de análise de dados para produção de
+projeções, impactos e resultados estimados que apoie a governança do sistema previdenciário e a tomada de decisões com a)
+desenho de modelos preditivos de impacto atuarial, projeções, análise dos resultados de investimentos e produção de
+demonstrativos atualizados a partir de alterações nos dados originários; b) capacitação operacional dos profissionais usuários e, c)
+hardware necessário para a operacionalização dos sistemas. Custo estimado para a aquisição de equipamentos (US$ 60,000).
+
+P - Sistema de dimensionamento da força de trabalho
+O sistema permite não apenas a implementação de modelos de planejamento da força de trabalho perenes, mas também
+possibilita reformas na área de gestão de pessoas por prover insumos para mudanças estratégicas de curto a longo prazo. Em
+específico, a ação realizada em todos os órgãos e entidades do Governo do Estado do Rio Grande do Sul, excluindo-se as
+sociedades de economia mista e empresas públicas, resume-se aos seguintes subprodutos: a) dimensionamento da Força de
+Trabalho de todos os órgãos da administração pública direta e indireta, com base no mapeamento de processos e definição de
+indicadores de produtividade, excetuando as sociedades de economia mista e empresas públicas; b) reorganização da estrutura
+funcional da administração e do modelo de governança dos setores dimensionados identificando duplicidade de tarefas e
+possibilidades de redução de custos; c) reorganização do sistema de carreiras, cargos comissionados, e desempenho do Estado,
+de acordo com as competências funcionais e complexidades das atividades levantadas no dimensionamento; d) criação de sistema
+para gestão de processos de gerenciamento da força de trabalho; e) projeções e definição de parâmetros para construção de
+modelos preditivos da necessidade de reposição de servidores mediante a demanda futura; f) revisão do estatuto dos servidores
+públicos e do magistério de acordo com os impactos levantados de licenças, afastamentos e benefícios na força de trabalho
+disponível; e g) capacitação das equipes para a absorção das novas atribuições e ferramentas de gestão da força de trabalho do
+estado.
+
+
+Página: 21
+
+P - Módulos Adicionais para o Sistema de Recursos Humanos do Estado (RHE)
+O Sistema de Recursos Humanos do Estado (RHE) tem por objetivo central a gestão da vida funcional do servidor público através
+da oferta de serviços que permeiam a área de Recursos Humanos. Para seu aprimoramento, é necessária a criação de módulos
+adicionais que possibilitem seu avanço para áreas estratégicas deste setor. Neste aspecto, são necessários os seguintes
+subprodutos: a) desenvolvimento de módulo de avaliação de desempenho;  b) desenvolvimento de módulo de gestão da
+produtividade e teletrabalho; c) desenvolvimento de módulo de gestão de competências; d) desenvolvimento de módulo de seleção
+de cargos comissionados; e) desenvolvimento de módulo de gestão da capacitação e desenvolvimento; f) desenvolvimento de
+módulo de banco de talento; g) desenvolvimento de módulo de gestão de concursos e contratação de pessoal, e; g) hardware
+necessário para a operacionalização e atualização dos sistemas, incluindo equipamentos de informática como notebooks,
+impressoras, scanners, nobreaks, monitores e roteadores. Custo estimado para a aquisição de equipamentos (US$ 150,000).
+
+P - Sistema de Gestão da Previdência
+As melhorias que serão implementadas no sistema de gestão previdenciária do Rio Grande do Sul para o RPPS objetivam dar
+interoperabilidade entre o IPE Prev e os registros contábeis, folha de pagamento e demais processos transacionais relacionados à
+gestão de recursos humanos, aumentando a autonomia da gestão da previdência do estado, por meio dos seguintes subprodutos:
+a) o desenvolvimento de uma solução informatizada de gestão integrada com o sistema responsável pela gestão de servidores
+ativos e inativos do Estado (RHE) e o sistema financeiro, principalmente e outros, se necessário, possibilitando que este sistema
+atue de forma integrada com a execução da folha, registros contábeis e demais processos transacionais relacionados à gestão
+previdenciária RPPS; b) desenvolvimento de uma solução de emissão de certificados, automatização de processos para
+atendimento virtual aos servidores, pensionistas e aposentados; e gestão compensatória previdenciária; c) elaboração de painel
+gerencial para acompanhamento das ações e regulamentações de todas as normas vigentes na legislação previdenciária,
+indicadores de gestão; d) capacitação operacional, e e) hardware necessário para a operacionalização dos sistemas. Custo
+estimado para a aquisição de equipamentos (US$ 140,000).
+
+P - Sistema de Análise e Projeções Previdenciárias
+O desenvolvimento de ferramenta de análise de dados para produção de projeções, impactos e resultados estimados que apoie a
+governança do sistema previdenciário e a tomada de decisões com a) desenho de modelos preditivos de impacto atuarial,
+projeções, análise dos resultados de investimentos e produção de demonstrativos atualizados a partir de alterações nos dados
+originários; b) capacitação operacional dos profissionais usuários e, c) hardware necessário para a operacionalização dos sistemas
+. Custo estimado para a aquisição de equipamentos (US$ 60,000).
+
+C - MODERNIZAÇÃO DE COMPRAS PÚBLICAS
+P.2.1.Melhoramentos ao sistema estadual de compras públicas. Este produto objetiva proporcionar soluções de tecnologia da
+informação atualizadas, boas práticas e novos padrões para a eficiência em compras públicas, tendo em vista a constante
+evolução tecnológica, normativa e procedimental, inclusive com adequações referentes à Nova Lei de Licitações e Contratos (14.
+133/21) e à adesão ao Acordo de Compras Públicas da Organização Mundial do Comércio (ACP-OMC). Estão previstos os
+seguintes subprodutos:  a) a implementação de módulos para o Sistema de Compras Estadual, incluindo mecanismos de compras
+públicas sustentáveis voltados para inclusão e equidade de gênero em compras públicas e incentivo à participação de MPEs, bem
+como a adoção de critérios de contratações sustentáveis nas licitações do Estado; b) utilização de tecnologia blockchain, que pode
+ser adotada nos processos de compras diretas ou de dispensa de licitação; c) integração de informações de compras públicas para
+todos os órgãos e entidades do Estado, com a disponibilização de painéis e relatórios gerenciais; d) ampliação das
+funcionalidades do módulo de fornecedores em execução; e) revisão do marco regulatório de compras do Estado para
+reformulação organizacional e implementação de benefícios para empreendedores individuais, micro e pequenas empresas, bem
+como shared services para famílias de produtos; f) capacitações necessárias para a implementação dos sistemas, e; g) hardware
+necessário para a operacionalização dos sistemas (desktops, notebooks, impressoras, entre outros). Custo estimado para a
+aquisição de equipamentos (US$ 300,000)
+
+P - Melhoramentos ao sistema estadual de compras públicas
+Este produto objetiva proporcionar soluções de tecnologia da informação atualizadas, boas práticas e novos padrões para a
+eficiência em compras públicas, tendo em vista a constante evolução tecnológica, normativa e procedimental, inclusive com
+adequações referentes à Nova Lei de Licitações e Contratos (14.133/21) e à adesão ao Acordo de Compras Públicas da
+Organização Mundial do Comércio (ACP-OMC). Estão previstos os seguintes subprodutos:  a) a implementação de módulos para o
+Sistema de Compras Estadual, incluindo mecanismos de compras públicas sustentáveis voltados para inclusão e equidade de
+gênero em compras públicas e incentivo à participação de MPEs, bem como a adoção de critérios de contratações sustentáveis
+nas licitações do Estado; b) utilização de tecnologia blockchain, que pode ser adotada nos processos de compras diretas ou de
+dispensa de licitação; c) integração de informações de compras públicas para todos os órgãos e entidades do Estado, com a
+disponibilização de painéis e relatórios gerenciais; d) ampliação das funcionalidades do módulo de fornecedores em execução; e)
+revisão do marco regulatório de compras do Estado para reformulação organizacional e implementação de benefícios para
+empreendedores individuais, micro e pequenas empresas, bem como shared services para famílias de produtos; f) capacitações
+necessárias para a implementação dos sistemas, e; g) hardware necessário para a operacionalização dos sistemas (desktops,
+notebooks, impressoras, entre outros). Custo estimado para a aquisição de equipamentos (US$ 300,000)
+
+C - REDUÇÃO DO CUSTO DA DÍVIDA E RACIONALIZAÇÃO DOS INVESTIMENTOS PÚBLICOS
+P.3.1.Auditoria sobre aderência de contabilidade (requisito).  A auditoria sobre a aderência da contabilidade assegura a correta
+evidenciação do patrimônio público e suas variações, identificando e padronizando boas práticas no setor público.
+
+
+Página: 22
+
+P.3.2.Sistema de Gestão de Concessões e Parcerias Público-Privadas.  Este produto propõe a maior eficiência na coordenação e
+execução de concessões e parcerias público-privadas, com ganhos na produtividade e assertividade do corpo técnico da área.
+Estão previstos os seguintes subprodutos: a)  desenvolvimento de um sistema de gerenciamento de projetos que permita
+acompanhamento dos projetos e gestão de documentos, permitindo acesso (e controle dos acessos) de todos envolvidos no
+processo, tanto do Estado como de contratados e concessionárias; b) desenvolvimento de um sistema de apoio à fiscalização, com
+banco de dados georreferenciado, cadastral e de indicadores, que permita o gerenciamento dos contratos e a governança de
+forma adequada e eficiente; c) integração com os sistemas de informações orçamentárias, financeiras, patrimoniais e contábeis; d)
+aquisição de softwares de acompanhamento e análise para infraestrutura de transportes rodoviários e de softwares de desenho; e)
+aquisição de hardware específico para a operacionalização, como tablets, GPS de precisão, entre outros, e; f)  capacitação das
+equipes responsáveis pela utilização do sistema. Custo estimado para a aquisição de equipamentos (US$ 170,000).
+
+P.3.3.Sistema de Planejamento, Governança e Gestão. Este produto vislumbra desenvolver e implantar um sistema integrado de
+planejamento, orçamento e gestão, de modo a garantir a entrega das políticas públicas de forma mais célere e eficaz. Estão
+previstos os seguintes subprodutos: a) desenvolver e implementar um sistema integrado de planejamento de longo prazo,
+planejamento plurianual, orçamento anual e monitoramento de programas ações e projetos; b) implantação de um banco de
+projetos pré-avaliados, com avaliação financeira e técnica formal, padronizando procedimentos de avaliação e seleção; c)
+implementação de ferramenta de projeção de impacto econômico e fiscal dos projetos de investimentos; d) desenvolvimento de
+módulo para gestão ponta-a-ponta de recursos transferidos nas suas diversas modalidades (contrato de repasse, MROSC,
+convênio, fundo-a-fundo, termos de parceria e outros); e) capacitação das equipes responsáveis pela operacionalização do sistema
+, e; g) aquisição de equipamentos necessários para operacionalização do sistema (estrutura de hardware e software, desktops,
+notebooks, impressoras, etc.). Custo estimado para a aquisição de equipamentos (US$ 350,000).
+
+P.3.4.Modernização do Sistema de Gestão de Obras Públicas. Este produto possibilitará a maior assertividade na fiscalização de
+obras públicas, bem como a expansão do escopo de monitoramento para outros órgãos e entidades do estado, reduzindo gastos e
+aportando maior transparência a esta modalidade de investimento público. Estão destacados os seguintes subprodutos: a)
+desenvolvimento de ferramentas compatíveis de integração com o Sistema de Gestão de Obras - SGO para os processos de
+realização de vistorias e fiscalizações em obras, em especial a adoção de novas tecnologias para registro e comunicação; b)
+disponibilização de relatórios gerenciais e painéis de acompanhamento de informações; c) capacitações para as equipes, e; d)
+aquisição de hardware necessário para a operacionalização das novas funcionalidades. Custo estimado para a aquisição de
+equipamentos (US$ 80,000).
+
+P.3.5.Sistema de Gestão de Custos Setoriais. Este produto propõe a redução dos custos operacionais e transacionais e a maior
+eficácia na provisão de serviços públicos junto às setoriais. Dentre os requisitos técnicos para implantação, destacam-se: a)
+levantamento e priorização de custos setoriais, revisão de base de dados, atos regulatórios e inovações na prestação de serviços
+que visem a gestão e/ou participação cidadã; b) desenvolvimento de módulos ou sistemas cuja implementação gere economias e
+efetividade do serviço para o estado; c) integração com sistemas do Estado nos casos em que os macroprocessos críticos sejam
+intersetoriais, como recursos humanos, administração tributária, insumos essenciais, patrimônio, provisão direta e indireta de
+serviços e fornecimento de produtos, manutenção de imóveis, aquisição de bens e serviços rotineiro, entre outros; d) construção
+dos indicadores para monitoramento e avaliação dos custos com a possibilidade de gerar relatórios customizados e de base
+comparativa; e) capacitações necessárias para sustentabilidade do Sistema, e; f) hardware necessário para a implementação dos
+sistemas (monitores, notebooks, equipamentos de suporte gráfico e energético, entre outros). Custo estimado para a aquisição de
+equipamentos (US$ 240,000).
+
+P - Auditoria sobre aderência de contabilidade
+A auditoria sobre a aderência da contabilidade assegura a correta evidenciação do patrimônio público e suas variações,
+identificando e padronizando boas práticas no setor público.
+
+P - Sistema de Gestão de Concessões e Parcerias Público-Privadas
+Este produto propõe a maior eficiência na coordenação e execução de concessões e parcerias público-privadas, com ganhos na
+produtividade e assertividade do corpo técnico da área. Estão previstos os seguintes subprodutos: a)  desenvolvimento de um
+sistema de gerenciamento de projetos que permita acompanhamento dos projetos e gestão de documentos, permitindo acesso (e
+controle dos acessos) de todos envolvidos no processo, tanto do Estado como de contratados e concessionárias; b)
+desenvolvimento de um sistema de apoio à fiscalização, com banco de dados georreferenciado, cadastral e de indicadores, que
+permita o gerenciamento dos contratos e a governança de forma adequada e eficiente; c) integração com os sistemas de
+informações orçamentárias, financeiras, patrimoniais e contábeis; d) aquisição de softwares de acompanhamento e análise para
+infraestrutura de transportes rodoviários e de softwares de desenho; e) aquisição de hardware específico para a operacionalização,
+como tablets, GPS de precisão, entre outros, e; f)  capacitação das equipes responsáveis pela utilização do sistema. Custo
+estimado para a aquisição de equipamentos (US$ 170,000).
+
+
+Página: 23
+
+P - Sistema de Planejamento, Governança e Gestão
+Este produto vislumbra desenvolver e implantar um sistema integrado de planejamento, orçamento e gestão, de modo a garantir a
+entrega das políticas públicas de forma mais célere e eficaz. Estão previstos os seguintes subprodutos: a) desenvolver e
+implementar um sistema integrado de planejamento de longo prazo, planejamento plurianual, orçamento anual e monitoramento de
+programas ações e projetos; b) implantação de um banco de projetos pré-avaliados, com avaliação financeira e técnica formal,
+padronizando procedimentos de avaliação e seleção; c) implementação de ferramenta de projeção de impacto econômico e fiscal
+dos projetos de investimentos; d) desenvolvimento de módulo para gestão ponta-a-ponta de recursos transferidos nas suas
+diversas modalidades (contrato de repasse, MROSC, convênio, fundo-a-fundo, termos de parceria e outros); e) capacitação das
+equipes responsáveis pela operacionalização do sistema, e; g) aquisição de equipamentos necessários para operacionalização do
+sistema (estrutura de hardware e software, desktops, notebooks, impressoras, etc.). Custo estimado para a aquisição de
+equipamentos (US$ 350,000).
+
+P - Modernização do Sistema de Gestão de Obras Públicas
+Este produto possibilitará a maior assertividade na fiscalização de obras públicas, bem como a expansão do escopo de
+monitoramento para outros órgãos e entidades do estado, reduzindo gastos e aportando maior transparência a esta modalidade de
+investimento público. Estão destacados os seguintes subprodutos: a) desenvolvimento de ferramentas compatíveis de integração
+com o Sistema de Gestão de Obras - SGO para os processos de realização de vistorias e fiscalizações em obras, em especial a
+adoção de novas tecnologias para registro e comunicação; b) disponibilização de relatórios gerenciais e painéis de
+acompanhamento de informações; c) capacitações para as equipes, e; d) aquisição de hardware necessário para a
+operacionalização das novas funcionalidades. Custo estimado para a aquisição de equipamentos (US$ 80,000).
+
+P - Sistema de Gestão de Custos Setoriais
+Este produto propõe a redução dos custos operacionais e transacionais e a maior eficácia na provisão de serviços públicos junto às
+setoriais. Dentre os requisitos técnicos para implantação, destacam-se: a) levantamento e priorização de custos setoriais, revisão
+de base de dados, atos regulatórios e inovações na prestação de serviços que visem a gestão e/ou participação cidadã; b)
+desenvolvimento de módulos ou sistemas cuja implementação gere economias e efetividade do serviço para o estado; c)
+integração com sistemas do Estado nos casos em que os macroprocessos críticos sejam intersetoriais, como recursos humanos,
+administração tributária, insumos essenciais, patrimônio, provisão direta e indireta de serviços e fornecimento de produtos,
+manutenção de imóveis, aquisição de bens e serviços rotineiro, entre outros; d) construção dos indicadores para monitoramento e
+avaliação dos custos com a possibilidade de gerar relatórios customizados e de base comparativa; e) capacitações necessárias
+para sustentabilidade do Sistema, e; f) hardware necessário para a implementação dos sistemas (monitores, notebooks,
+equipamentos de suporte gráfico e energético, entre outros). Custo estimado para a aquisição de equipamentos (US$ 240,000).
+
+C - RACIONALIZAÇÃO DE GASTOS COM PATRIMÔNIO
+P.4.1.Sistema de Gestão de Patrimônio. Os Sistemas de Gestão de Bens Móveis (APE) e Imóveis (GPEWEB) têm como objetivo
+sanar as principais lacunas relativas a esse eixo no Estado do Rio Grande do Sul. É importante que sejam discutidas
+customizações nos sistemas já existentes, de forma a viabilizar a implementação de funcionalidades que permitam o
+aprimoramento da gestão, bem implementadas integrações, o que permite a interoperabilidade entre as soluções existentes. Neste
+sentido, devem ser implementados os seguintes subprodutos: a) customização do sistema de bens móveis (APE) aderentes à
+política e governança implementadas no Centro de Serviço Compartilhado; b) customização do módulo de bens imóveis (GPEWEB
+), com a implementação de painéis gerenciais, definição de parâmetros de ocupação e economia de energia e dentre outras
+funcionalidades, em especial visando à concentração e automação dos principais processos relativos ao patrimônio imobiliário em
+um único sistema gerencial; c) levantamento, mapeamento de informações e avaliação dos imóveis de propriedade do estado; d)
+implementação de integrações, especialmente com o sistema BIM; e) desenho de fluxos, estrutura, processos e governança de
+gestão de bens imóveis; f) atualização cadastral e regularização de imóveis; g) capacitações e; h) aquisição de hardware e
+software. Custo estimado para a aquisição de equipamentos (US$ 350,000).
+
+P.4.2.Sistema de Gestão de Patrimônio de TIC. O Sistema de Gestão de TIC permitirá ao Governo do Estado do Rio Grande do
+Sul gerir de forma mais eficiente os seus recursos tecnológicos, bem como a política estratégica de Tecnologia, Informação e
+Comunicação a partir da implementação dos seguintes subprodutos: a) desenho de processos, governança e estrutura para a
+implementação de processos de tomada de decisão orientados a dados, b) mapeamento dos sistemas existentes, com a
+identificação dos dados armazenados por sistema, de eventuais sobreposições de informação, serviços e processos suportados
+por sistema; c) implementação de integrações de forma a otimizar o desempenho dos sistemas e a produtividade na obtenção de
+informações; d) capacitações e; e) aquisição de hardware para suportar a implementação dos demais subprodutos. Custo estimado
+para a aquisição de equipamentos (US$ 200,000).
+
+
+Página: 24
+
+P - Sistema de Gestão do Patrimônio
+Os Sistemas de Gestão de Bens Móveis (APE) e Imóveis (GPEWEB) têm como objetivo sanar as principais lacunas relativas a
+esse eixo no Estado do Rio Grande do Sul. É importante que sejam discutidas customizações nos sistemas já existentes, de forma
+a viabilizar a implementação de funcionalidades que permitam o aprimoramento da gestão, bem implementadas integrações, o que
+permite a interoperabilidade entre as soluções existentes. Neste sentido, devem ser implementados os seguintes subprodutos: a)
+customização do sistema de bens móveis (APE) aderentes à política e governança implementadas no Centro de Serviço
+Compartilhado; b) customização do módulo de bens imóveis (GPEWEB), com a implementação de painéis gerenciais, definição de
+parâmetros de ocupação e economia de energia e dentre outras funcionalidades, em especial visando à concentração e
+automação dos principais processos relativos ao patrimônio imobiliário em um único sistema gerencial; c) levantamento,
+mapeamento de informações e avaliação dos imóveis de propriedade do estado; d) implementação de integrações, especialmente
+com o sistema BIM; e) desenho de fluxos, estrutura, processos e governança de gestão de bens imóveis; f) atualização cadastral e
+regularização de imóveis; g) capacitações e; h) aquisição de hardware e software. Custo estimado para a aquisição de
+equipamentos (US$ 350,000).
+
+P - Sistema de Gestão de Patrimônio de TIC
+O Sistema de Gestão de TIC permitirá ao Governo do Estado do Rio Grande do Sul gerir de forma mais eficiente os seus recursos
+tecnológicos, bem como a política estratégica de Tecnologia, Informação e Comunicação a partir da implementação dos seguintes
+subprodutos: a) desenho de processos, governança e estrutura para a implementação de processos de tomada de decisão
+orientados a dados, b) mapeamento dos sistemas existentes, com a identificação dos dados armazenados por sistema, de
+eventuais sobreposições de informação, serviços e processos suportados por sistema; c) implementação de integrações de forma
+a otimizar o desempenho dos sistemas e a produtividade na obtenção de informações; d) capacitações e; e) aquisição de hardware
+para suportar a implementação dos demais subprodutos. Custo estimado para a aquisição de equipamentos (US$ 200,000).
+
+C - GESTÃO DO PROJETO
+Atividades de implementação e monitoramento do projeto incluindo infraestrutura, capacitação, equipes e auditorias.
+
+P - Gestão do Projeto
+Atividades de implementação e monitoramento do projeto incluindo infraestrutura, capacitação, equipes e auditorias.
+
+Categoria de Gasto
+
+Consultoria
+P- Sistema de dimensionamento da força de
+trabalho
+P- Módulos Adicionais para o Sistema de
+Recursos Humanos do Estado (RHE)
+P- Sistema de Gestão da Previdência
+P- Sistema de Análise e Projeções
+Previdenciárias
+P- Melhoramentos ao sistema estadual de
+compras públicas
+P- Auditoria sobre aderência de contabilidade
+P- Sistema de Gestão de Concessões e Parcerias
+Público-Privadas
+P- Sistema de Planejamento, Governança e
+Gestão
+P- Modernização do Sistema de Gestão de Obras
+Públicas
+P- Sistema de Gestão de Custos Setoriais
+
+P- Sistema de Gestão do Patrimônio
+
+P- Sistema de Gestão de Patrimônio de TIC
+P- Gestão do Projeto
+Serviços que Não de Consultoria
+Total Geral
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Unidade de medida
+-
+Sistema implantado
+
+Módulos
+implantados
+Sistema aprimorado
+Sistema implantado
+
+Sistema aprimorado
+
+Auditoria executada
+Sistema implantado
+
+Sistema
+desenvolvido
+Sistema aprimorado
+
+Sistemas
+implantados
+Sistemas
+aprimorados
+Sistema implantado
+Gestão realizada
+-
+-
+
+Meta
+
+Valor
+
+% Financeiro
+
+-
+1,00
+
+7,00
+
+1,00
+1,00
+
+1,00
+
+1,00
+1,00
+
+1,00
+
+1,00
+
+2,00
+
+2,00
+
+1,00
+1,00
+-
+-
+
+33.000.000,00
+4.500.000,00
+
+100,00
+13,64
+
+1.000.000,00
+
+1.400.000,00
+600.000,00
+
+3.000.000,00
+
+200.000,00
+1.000.000,00
+
+3.500.000,00
+
+800.000,00
+
+6.600.000,00
+
+6.900.000,00
+
+3.000.000,00
+500.000,00
+0,00
+33.000.000,00
+
+3,03
+
+4,24
+1,82
+
+9,09
+
+0,61
+3,03
+
+10,61
+
+2,42
+
+20,00
+
+20,91
+
+9,09
+1,52
+0,00
+100,00
+
+No final do ano de 2019, o Governo do Estado do Rio Grande do Sul encaminhou ao Poder Legislativo um conjunto de medidas, no âmbito
+do programa denominado ?Reforma RS?. O principal objetivo da proposta é alcançar o equilíbrio fiscal das contas públicas, enfrentando o
+crescimento da despesa com pessoal, modernizando a legislação sobre as carreiras dos servidores públicos e recepcionando as novas
+regras previdenciárias dispostas na Emenda Constitucional nº 103/2019.
+
+O Reforma RS foi dividido em oito peças legislativas: uma proposta de emenda constitucional (PEC); um projeto de lei (PL); e seis projetos
+de lei complementares. Todas as peças se transformaram em leis aprovadas pela ALRS e são elencadas a seguir.
+
+(cid:10)
+(cid:10)
+
+
+Página: 25
+
+A PEC nº 285/2019 foi promulgada, como Emenda Constitucional nº 78, no dia 2 de fevereiro de 2020. A referida norma introduz
+alterações nas carreiras dos servidores e atualiza as regras previdenciárias.
+
+Entre as mudanças administrativas, destacam-se as seguintes: i) vedação da incorporação de vantagens de caráter temporário ou
+vinculadas ao exercício de função de confiança ou de cargo em comissão à remuneração do cargo efetivo ou aos proventos de inatividade
+; ii) salário-família ou abono familiar para os dependentes do servidor de baixa renda; iii) extinção das vantagens por tempo de serviço
+atribuídas aos servidores públicos civis e aos militares, ativos e inativos, inclusive aos ocupantes de cargo em comissão, em decorrência
+de avanços, anuênios, triênios, quinquênios, adicionais ou gratificações de 15 anos e de 25  anos; e iv) extinção das promoções
+automáticas (grau a grau ou de nível).
+
+Entre as principais mudanças nas regras previdenciárias, para os servidores civis vinculados ao RPPS/RS, tem-se: a idade mínima passou
+a ser de 62 anos, para as mulheres, e 65 anos, para os homens; professores, desde que comprovem tempo de efetivo exercício das
+funções de magistério na Educação Infantil e no Ensino Fundamental e Médio, estabelecidos em Lei Complementar, terão idade mínima à
+aposentadoria reduzida em cinco anos em relação às idades mínimas exigidas aos demais servidores públicos, observado o disposto na
+Constituição Federal.
+
+O PLC nº 503/2019 tornou-se a Lei Complementar nº 15.429, de 22 de dezembro de 2019, e adequa as regras de previdência dos
+servidores civis gaúchos à legislação federal ao alterar a Lei Complementar nº 13.758, de 15 de julho de 2011, que dispõe sobre o Regime
+Próprio de Previdência Social do Estado do Rio Grande do Sul, que instituiu o Fundo Previdenciário (FUNDOPREV), e a Lei
+Complementar nº 15.142, de 5 de abril de 2018, que dispôs sobre o Regime Próprio de Previdência Social do Estado do Rio Grande do
+Sul (RPPS/RS).
+
+A referida norma apresenta diversas alterações no sistema previdenciário dos servidores públicos estaduais, como alterações de alíquotas
+de contribuição e regras de aposentadoria, seguindo, basicamente, o que havia sido aprovado em âmbito federal com a instituição da EC
+nº 103/19. Nessa norma, prevêem-se as alíquotas de contribuição progressivas, conforme a tabela seguinte.
+
+Demonstrativo das novas alíquotas de contribuição previdenciária:
+
+- Até 1 um salário mínimo - 7,5%
+
+- Acima de 1 (um) salário-mínimo até R$ 2.000,00 - 9%
+
+- De R$ 2.000,01 até R$ 3.000,00 - 12%
+
+- De R$ 3.000,01 até R$ 5.839,45 - 14%
+
+- De R$ 5.839,46 até R$ 10.000,00 - 14,5%
+
+- De R$ 10.000,01 até R$ 20.000,00 - 16,5%
+
+- De R$ 20.000,01 até R$ 39.000,00 - 19%
+
+- Acima de R$ 39.000,00 - 22%
+
+Os valores das diversas faixas serão reajustados na mesma data e com o mesmo índice em que se der o reajuste dos benefícios do
+Regime Geral de Previdência Social.
+
+O PLC nº 504/2019 dispondo sobre alteração das alíquotas previdenciárias dos servidores militares ativos, inativos e pensionistas foi
+arquivado em fevereiro de 2020. Em março de 2021, por meio da Lei Complementar n° 15.602, de 16 de março de 2021 (PLC nº 13/2021),
+foram adotadas alíquotas progressivas para os militares, bem como aprovada a ampliação da base de cálculo dos inativos e pensionistas
+para um salário-mínimo, desta forma, a partir de julho de 2021, as alíquotas previdenciárias aplicadas aos militares passaram a ser as
+mesmas aplicadas aos civis.
+
+A Lei Complementar nº 15.450, de 17 de fevereiro de 2020, tratou sobre o Estatuto e Regime Jurídico Único do Servidor Público Civil do
+Estado do Rio Grande do Sul, sobre a instituição de um sistema de vale-refeição no âmbito da Administração Direta e das Autarquias e
+dispõe sobre o RPPS/RS. Entre as regras administrativas destacam-se as seguintes:
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 26
+
+- Férias em três períodos: por requerimento do servidor, e havendo concordância da chefia, as férias poderão ser gozadas em até três
+períodos;
+
+- Teletrabalho: fica autorizada a modalidade, desde que preenchidas cumulativamente três condições: existência de mecanismo de
+controle de produtividade; cumprimento de metas individuais e coletivas de produtividade, previamente fixadas; e as atribuições do cargo e
+as atividades do setor não exijam a presença física do servidor;
+
+- Gratificação de permanência: ao servidor que adquirir direito à aposentadoria voluntária com proventos integrais e cuja permanência no
+desempenho de suas funções for julgada conveniente e oportuna para o serviço público estadual poderá ser deferida, por ato do
+Governador, uma gratificação de permanência em serviço de valor correspondente a 10% do seu vencimento básico;
+
+- Redução de jornada: a pedido do servidor, a jornada de trabalho poderá ser reduzida entre 25% e 50%, mediante a concordância do
+titular do órgão ou entidade a que o servidor estiver vinculado.
+
+A Lei nº 15.454, de 17 de fevereiro de 2020, que fixou o subsídio mensal dos Militares Estaduais, altera a Lei Complementar nº 10.990, de
+18 de agosto de 1997, que dispôs sobre o Estatuto dos Militares Estaduais, e altera a Lei Complementar nº 10.992, de 18 de agosto de
+1997, que versou sobre a carreira dos Servidores Militares do Estado do RS.
+
+A Lei n° 15.451, de 17 de fevereiro de 2020, que altera a Lei nº 6.672, de 22 de abril de 1974, instituiu o Estatuto e Plano de Carreira do
+Magistério Público do Rio Grande do Sul. Entre as alterações, destaca-se que a remuneração dos membros do Magistério Público
+Estadual será por meio de subsídio, nos termos dos §§ 4º e 8º do art. 39 da Constituição Federal. Com isso, o Estado buscará atender à
+Lei do Piso do Magistério, o que permitirá maior previsibilidade e segurança jurídica.
+
+A reforma criou condições para uma política de incentivos à qualificação dos professores ao estruturar a carreira desses profissionais em
+seis classes, com cinco níveis de habilitação, com promoções de classe a classe. Os níveis de habilitação correspondem com o nível de
+formação dos professores e especialistas de educação (nível médio, licenciatura de curta duração, graduação, especialização, mestrado e
+doutorado).
+
+A Lei Complementar nº 15.452, de 17 de fevereiro de 2020, fixou o subsídio mensal para o Quadro de Cargos de Provimento Efetivo do
+Instituto-Geral de Perícias (IGP). O projeto define que a remuneração mensal dos servidores do Instituto-Geral de Perícias passa a ser na
+forma de subsídio, fixado em parcela única, nos termos dos § 4º do art. 39 da Constituição Federal. Aos servidores que tiverem
+decréscimo remuneratório em decorrência da aplicação da modalidade de pagamento por subsídio é assegurada a percepção de parcela
+autônoma de irredutibilidade.
+
+A Lei Complementar nº 15.453, de 17 de fevereiro de 2020, dispõe sobre aposentadoria especial para os Policiais Civis e Agentes
+Penitenciários. A proposta, alinhada com a EC nº 103/2019, alterou as idades mínimas e de tempo de contribuição para os policiais civis,
+integrantes do órgão a que se refere o inciso IV do caput do art. 144 da Constituição Federal, e agentes penitenciários.
+
+As reformas estruturais aprovadas trarão significativo alívio aos cofres do Estado, tanto no curto, como no médio e longo prazos. O
+equacionamento no tocante às vantagens pessoais dos servidores (adicionais, avanços, triênios, quinquênios), bem como as reformas
+previdenciárias, proporcionará significativa redução da taxa de crescimento vegetativo da folha de pessoal e a redução déficit
+previdenciário.
+
+Espera-se que a economia estimada com o conjunto de mudanças girará em torno de R$ 18,7 bilhões para os próximos 10 anos, sendo R
+$ 13,9 bilhões com a reforma da previdência e R$ 4,8 bilhões com o restante dos projetos aprovados.
+
+Em outra frente, no decorrer de 2021 e 2022, trabalha-se pela efetivação das privatizações das Companhias CEEE-G, SULGÁS, CRM e a
+CORSAN, além disso, se busca as concessões de serviços públicos e a promoção das parcerias público-privadas. Tais mudanças terão
+efeitos múltiplos, tais como: i) a criação de mais empregos e maiores investimentos no setor de energia, modernizando nossa economia,
+com ganhos de eficiência, produtividade e competitividade em diversos setores; ii) a entrada de recursos extraordinários no caixa do
+Estado; e iii) o cumprimento de uma medida de ajuste importante no processo de adesão do Estado ao novo Regime de Recuperação
+Fiscal.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 27
+
+É importante notificar que a privatização da distribuidora de energia CEEE-D deu-se através de leilão ocorrido em 31/03/2021, sendo
+vendida para a Companhia Equatorial Energia, no valor de 100 mil reais. Cabe destacar que a Companhia vencedora do leilão assumiu
+um passivo de, aproximadamente,   R$ 7 bilhões. Com a venda, a arrecadação tributária (ICMS) será potencializada, garantindo recursos
+valiosos para fazer frente às demandas de saúde, educação, segurança e infraestrutura. Já a CEEE-T foi vendida por R$ 2,67 bilhões,
+para a Companhia CPFL, em 16/07/2021. Os recursos reforçaram o caixa do Estado em 15/10/2021. Está na agenda o leilão da CEEE-G,
+para dezembro de 2021.
+
+O Estado tem buscado estimular o desenvolvimento via investimentos privados e melhoria dos serviços públicos em um programa cada
+vez mais robusto envolvendo desestatizações, seja promovendo concessões e parcerias público-privadas criteriosamente modeladas, seja
+pela privatização de empresas. O governo gaúcho tem revelado uma posição  favorável a parcerias com o setor privado, especialmente
+quando evidencia no Mapa Estratégico da Gestão, no título "Qualificar e incrementar a prestação de serviços, formando parcerias com o
+setor privado e 3º setor", dentro do item "Estado Sustentável". Essas parcerias são bem-vindas não só por viabilizarem os investimentos,
+mas também por oferecerem maior agilidade diante das amarras enfrentadas pelo poder público.
+
+Um dos grandes diferenciais do programa de parcerias são os ativos apresentados: rodovias estaduais (1300km, aproximadamente),
+empresas de energia, saneamento, sistema prisional, gestão imobiliária, parques, estações rodoviárias, trens urbanos, aeroportos, entre
+outros. A previsibilidade dos cronogramas das modelagens permite ao investidor fazer planos a longo prazo. Ao mesmo tempo, o BNDES
+tem prestado forte apoio técnico na estruturação dos projetos, contratando consultorias e auxiliando na interlocução junto ao governo
+federal, órgãos de controle e outras autoridades com competências aprobatórias, regulatórias e fiscalizatórias que devem ser consultadas
+ao longo do processo.
+
+De forma geral, as atuais privatizações têm como objetivo a redução de dívidas, a diminuição de passivos, a ampliação da capacidade de
+investimentos por meio da iniciativa privada e a captação de recursos. Esse foco estratégico permite ao estado reorganizar seus
+investimentos, redirecionando-os para áreas essenciais como saúde, educação e segurança. A carteira de projetos de privatizações conta
+com os seguintes ativos: a Companhia Estadual de Energia Elétrica (CEEE) e seus respectivas subdivisões (Geração, Transmissão e
+Distribuição), além da SULGAS e a Companhia Riograndense de Mineração (CRM).
+
+Nesses processos, a venda dos ativos transfere de forma definitiva a propriedade de todas as estruturas vinculadas aos serviços, que
+passam a ser propriedade das empresas privadas. Essa medida permite recursos adicionais ao governo não apenas com a venda de
+empresas, mas com os impostos gerados a partir de novos investimentos que serão feitos para ampliar os serviços. Com o crescimento
+das empresas, abre-se caminho para a criação de postos de trabalho. Como o RS não apresenta capacidade de investimento, os novos
+gestores das companhias poderão ampliar o fornecimento de gás, melhorar a rede elétrica e oferecer novas fontes energéticas. O efeito
+imediato é melhorar a infraestrutura para quem pretende investir, porque trará mais competitividade ao Estado.
+
+O leilão de privatização da CEEE-D (Distribuidora) ocorreu em 31/03/2021, vencido pelo grupo Equatorial Energia, que ofertou a quantia
+mínima de R$ 100.000,00. O valor de venda, embora ínfimo, traz importante resultado para o Estado, visto que desonera o RS de um
+passivo aproximado de R$ 7 bilhões, incluindo dívida da companhia com o ICMS de R$ 4,4 bilhões. A privatização do controle da
+Companhia de Gás do Estado do Rio Grande do Sul (Sulgás), cuja concessão tem por objeto a exploração dos serviços do combustível
+canalizado no RS, foi vencida em 22/10/2021 pela empresa Compass Gás & Energia, com oferta de R$ 927.799.896,55, valor mínimo
+estipulado no edital.
+
+Além de uma oportunidade de receita para o enfrentamento da crise financeira, as desestatizações são entendidas pelo governo como um
+mecanismo para gerar investimentos privados e melhoria dos serviços públicos prestados à população. A gestão atual contabiliza cinco
+leilões exitosos na Bolsa de Valores (B3): a PPP de Saneamento da Região Metropolitana, a venda da Companhia Estadual de
+Distribuição de Energia Elétrica (CEEE-D) e da CEEE Transmissão, a concessão da rodovia RSC-287 e a Sulgás.
+
+Destaca-se ainda a aprovação da Lei Complementar nº 15.138, de 26 de março de 2018, que dispõe sobre o Regime de Recuperação
+Fiscal do Estado do Rio Grande do Sul. A referida lei, que recebeu ajustes das Leis Complementares n.º 15.601/21 e 15.720/2021,
+autoriza o Estado do Rio Grande do Sul, por intermédio do Poder Executivo, a aderir ao Regime de Recuperação Fiscal, consoante o
+Plano de Recuperação a ser apresentado ao Ministério da Economia, nos termos da Lei Complementar Federal nº 159, de 19 de maio de
+2017, com as modificações introduzidas pela Lei Complementar Federal nº 178, de 13 de janeiro de 2021.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 28
+
+No que se refere a compras governamentais, o Estado do Rio Grande do Sul possui importantes etapas e medidas modernizantes
+realizadas na última década que permitiram que se alcançasse uma maior maturidade e desenvoltura para os serviços de compras
+públicas, incluindo mudanças processuais e ferramentas e sistemas que facilitam as interfaces decisória e de visualização de dados.
+Grande parte desses avanços deveu-se a financiamentos realizados, em especial o PROREDES-BIRD, que proporcionou apoio técnico e
+financeiro para estas melhorias nas compras públicas. Dentre os avanços, houve o desenvolvimento dos Sistemas GCE e GCP, a
+implantação de melhorias na segurança interna e ferramentas de catálogo de itens e registro de preços, bem como a constituição de um
+módulo de fornecedores. Além disso, foi estruturada a Central de Licitações e proporcionados treinamentos e capacitações para o corpo
+técnico. O Estado também modernizou os fluxos das etapas preparatórias de compras públicas, implementando uma série de integrações
+e visualizações em Business Intelligence. Atualmente o sistema GCE está integrado a uma série de outras ferramentas estaduais, como
+os sistemas responsáveis pelo controle das finanças públicas e processos administrativos do estado.
+
+No que se refere à gestão do patrimônio (bens imóveis), também houve importantes avanços com o financiamento do PROREDES-BIRD,
+com apoio técnico e financeiro do Banco Mundial, destacando-se o inventário de imóveis do Estado, melhorias no Sistema de Gestão
+Patrimonial, melhorias organizacionais e capacitação da equipe técnica e aprovação de legislação sobre a gestão patrimonial.
+
+No tema de viabilidade e banco de projetos, também houve avanços. Junto ao Banco Mundial, pelo PROREDES-BIRD, técnicos do
+Estado conheceram o modelo chileno de avaliação de projetos, em especial a avaliação ex-ante de projetos de investimentos. Inspirado
+neste modelo, o Estado vem buscando avançar na área na implantação de um Banco de Projetos Integrado, tendo sido realizados
+avanços principalmente na área de então, o Estado tem tido alguns avanços na área de preparação de projetos relacionados à captação
+de recursos.
+
+A SPGG, principalmente após a fusão e reestruturação da Secretaria, vem buscando avançar na integração de processos de
+planejamento, tendo construído um robusto sistema de governança e monitoramento dos projetos estratégicos e prioritários do Estado.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Sem detalhes
+
+Estado do Rio Grande do Sul ()
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+(i) Condições Financeiras
+
+O projeto fará uso do instrumento de financiamento do Banco Mundial chamado Empréstimo de Investimentos (Investment Project
+Financing ? IPF). O valor total do empréstimo é de USD 33,000,000. Os valores de cada produto foram estimados pelos especialistas
+técnicos de cada secretaria do Estado em parceria com especialistas do Banco Mundial. É importante notar que os produtos que dispõem
+de consultorias para desenvolvimento de sistemas e modelos também incluem capacitação técnica das equipes que operarão os sistemas
+e/ou liderarão a implementação dos mesmos.
+
+As condições financeiras da operação são padronizadas pelo Banco Mundial e estão disponíveis no seguinte endereço:
+
+https://treasury.worldbank.org/en/about/unit/treasury/ibrd-financial-products/lending-rates-and-fees , bem como na aba "Anexos".
+
+Por ser uma operação de âmbito federal, estas condições serão discutidas e definidas pelo Tesouro Nacional. Abaixo destacam-se os
+parâmetros das possíveis condições financeiras da operação. Nota-se que as condições financeiras serão estabelecidas pela Secretaria
+do Tesouro Nacional, conforme seu julgamento técnico, logo as informações abaixo são apenas indicativas dos parâmetros de tal escolha:
+
+a) Prazo de Desembolso: 60 meses
+
+b) Prazo de Carência: até 60 meses
+
+c) Prazo de Amortização: até 180 meses
+
+d) Prazo Total: até 240 meses
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 29
+
+e) Periodicidade da Amortização: semestral
+
+f) Taxa de juros: Libor semestral acrescida de margem variável
+
+g) Demais encargos e comissões: 0,25% de abertura, 0,25% sobre saldo não desembolsado
+
+(ii) Opção pelo agente financeiro
+
+O Programa de Sustentabilidade Fiscal, Eficiência e Eficácia do Gasto Público (Pro-Gestão) surgiu a partir de um acordo entre a
+Secretaria do Tesouro Nacional e o BIRD para apoiar ações que visem a redução e a racionalização do gasto público com resultados
+perenes, de modo a contribuir para a sustentabilidade fiscal dos entes subnacionais. Busca-se também gerar um alinhamento entre as
+soluções usadas no âmbito federal e estadual por meio do Pro-Gestão Federal, como a utilização do modelo de compras públicas e do
+sistema de carreiras federal e a adoção da reforma da previdência federal pelos Estados.
+
+Adicionalmente, dois grupos de trabalho, composto por representantes do governo federal e de mais de 15 estados, já estão funcionando
+em parceria com a CONSAD e CONSEPLAN como um suporte adicional para o Pro-Gestão. Os grupos tratam sobre reformas na área de
+recursos humanos e governo digital. Um terceiro grupo que tratará sobre inovações nas compras públicas deve ser formado em breve,
+bem como estão no radar outros grupos que tratarão de temas de patrimônio e de custos em geral.
+
+Além disso, uma parceria com o BIRD se mostra estratégica e vantajosa para o Estado do Rio Grande do Sul pela vasta experiência
+internacional que o Banco tem em apoiar reformas estruturantes em vários níveis de governo na área de recursos humanos e folha de
+pagamento, demonstrada por várias colaborações entre o Banco e os governos do mundo todo. Além da experiência internacional, o
+Banco teve um papel importante na produção dos insumos analíticos, em parceria com a SEFAZ e SPGG, que resultaram no diagnóstico
+fiscal, financeiro e patrimonial apresentado neste documento. O Banco ainda conta com uma iniciativa específica (entre outras) que vai ao
+encontro direto das necessidades da melhoria da gestão pública proposta neste projeto, como o ?Lab de Desburocratização?, que busca
+promover o uso de evidências e tecnologia na reforma do serviço público, e o ?Public Expenditure Review?, que aponta contexto e
+possíveis soluções na análise do gasto público do governo.
+
+O Rio Grande do Sul também possui vasta experiência em projetos realizados com a parceria do Banco Mundial. Destacam-se os
+financiamentos de Reforma do Estado, de 1997, US$ 125.000.000,00; o de Sustentabilidade Fiscal, de 2008, US$ 1.100.000.000,00; o
+PROREDES BIRD, de 2012, US$ 480.000.000,00; e o PROCONFIS II, de 2014, US$ 280.000.000,00. Essas operações propiciaram
+diversas intervenções para sustentabilidade fiscal e modernização da gestão pública.
+
+Acrescente-se que, em parceria com a Secretaria de Gestão do Ministério da Economia, o Banco escreveu uma nota técnica sobre como
+melhorar a Plataforma +Brasil em 2019. As recomendações dessa rigorosa avaliação incluem melhor integração com os entes
+subnacionais e estão refletidas no desenho deste projeto, sendo aplicadas aqui, inclusive, para os produtos de monitoramento das
+transferências e repasses de recursos em geral.
+
+Atualmente, por ter CAPAG D, o RS não está em condições de vislumbrar financiamentos que não sejam os estritamente definidos em
+legislação. Mesmo assim, considerando as condições como taxas e prazos aplicados pelas instituições financeiras nacionais, como Banco
+do Brasil e Caixa Econômica Federal, uma operação similar ao Pro-Gestão teria alta taxa de juros e curto prazo para amortização, o que
+apontaria para buscar melhores condições em organismos multilaterais.
+
+Como outras linhas de financiamento também não contemplam programas dessa natureza e adotam altas taxas de juros, superiores aos
+cobrados pelos agentes multilaterais de crédito, o financiamento externo apresenta-se como uma alternativa viável, além de contar com o
+apoio técnico envolvido em um projeto financiado por uma instituição desse tipo.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+Para a população gaúcha, os resultados positivos estão vinculados à melhoria da qualidade de vida advinda da modernização dos
+serviços prestados ao usuário final, o cidadão. Além disso, os sistemas e as erramentas que visam a melhoria da gestão fiscal, financeira
+e patrimonial tendem não apenas a reduzir gastos, mas aumentar a transparência das ações do serviço público para a sociedade.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 30
+
+Os órgãos e as entidades da administração pública estadual também se beneficiarão dos resultados diretos e indiretos do projeto, tais
+como a Secretaria de Planejamento, Governança e Gestão (SPGG), a Secretaria de Estado da Fazenda (SEFAZ), o Instituto de
+Previdência do Estado do Rio Grande do Sul (IPE-PREV) e demais secretarias e entidades responsáveis pela prestação de serviço direta
+e indiretamente aos cidadãos.
+
+Por fim, serão beneficiados aqueles acometidos diretamente pelos produtos ora referidos, assim como os empreendimentos que
+promovam a sustentabilidade socioambiental, em específico a eficiência energética, compras públicas sustentáveis e equidade de gênero.
+De outra parte, também são beneficiados os empreendedores individuais, micro e pequenas empresas.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BIRD
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+3.000.000,00
+Valor Proposto
+
+30.000.000,00
+
+33.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+3.000.000,00
+Valor de Referência US
+$
+30.000.000,00
+
+33.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+ARRANJO INSTITUCIONAL
+
+Considerando a complexidade institucional, técnica e operacional para a execução do projeto serão criadas duas estruturas:
+
+1. Comissão para Acompanhamento do Programa Pro-Gestão RS: órgão de caráter consultivo nomeado pelo Governador do Estado por
+meio de Decreto. A Comissão será composta por  Secretários, Secretários Adjuntos, Subsecretários ou representantes por estes indicados
+das Secretarias envolvidas de forma direta e indireta no programa.
+
+A comissão poderá convidar temporariamente outros órgãos da administração direta ou indireta para compor a Comissão, como
+Secretaria da Fazenda - SEFAZ, Procuradoria Geral Estado - PGE e Casa Civil - CC.
+
+2. Unidade de Gestão do Programa - UGP: unidade de caráter técnico, operacional e de assessoramento nomeada pelo Secretário de
+Planejamento, Governança e Gestão  por meio de Portaria. A Unidade de Gestão será composta por técnicos em caráter de dedicação
+exclusiva à gestão do Programa Pro-Gestão RS. Considerando a importância do Programa e a expertise já desenvolvida, a UGP ficará
+vinculada diretamente ao Departamento de Captação de Recursos, da SPGG.
+
+A UGP será a interlocutora do Programa junto ao Banco e terá as seguintes responsabilidades:
+
+(i) planejamento e programação do Programa e coordenação com as entidades sub executoras;
+
+(ii) acompanhamento dos processos de licitação de bens e serviços;
+
+(iii) supervisão do andamento do projeto;
+
+(iv) verificação da implantação das medidas de mitigação de riscos;
+
+(v) prestação de contas do Programa como um todo: apresentação de solicitações de desembolso, elaboração de prestação de contas,
+arquivo e interface com o Banco;
+
+(vi) apresentação de evidências do cumprimento de cláusulas contratuais; e
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 31
+
+(vii) acompanhamento e avaliação de resultados e elaboração dos relatórios de andamento.
+
+Outros órgãos co-executores terão a responsabilidade sobre as ações diretas ligadas à execução do Programa, principalmente nas
+atividades de elaboração dos documentos de licitação ou termos de referência, de fiscalização e supervisão da implantação dos
+componentes, além das contratações necessárias, com o acompanhamento da UGP. Em cada entidade co-executora será estabelecido
+um Núcleo de Apoio ao Programa (NAP), constituído por um coordenador para o acompanhamento e o apoio à execução do Programa.
+
+MATRIZ DE RESPONSABILIDADE
+
+C.1. Racionalização do gasto com pessoal ativo e inativo
+
+P.1.1 Sistema de dimensionamento da força de trabalho
+
+SUGEP/SPGG
+
+Iracema Castelo Branco
+
+iracema-branco@planejamento.rs.gov.br
+
+P.1.2 Módulos adicionais ao sistema de recursos humanos
+
+SUGEP/SPGG
+
+Iracema Castelo Branco
+
+iracema-branco@planejamento.rs.gov.br
+
+P.1.3 Sistema de gestão da previdência
+
+IPE-Prev
+
+José Guilherme Kliemann
+
+presidencia-ipe@ipe.rs.gov.br
+
+P.1.4 Sistema de análises e projeções previdenciárias
+
+IPE-Prev
+
+José Guilherme Kliemann
+
+presidencia-ipe@ipe.rs.gov.br
+
+C.2. Modernização de compras públicas
+
+P.2.1 Melhoramentos ao sistema estadual de compras públicas
+
+CELIC
+
+Marina Fassini Dacroce
+
+marina-dacroce@planejamento.rs.gov.br
+
+C.3. - Redução do custo da dívida e racionalização dos investimentos públicos
+
+P.3.1 Auditoria sobre aderência de contabilidade (requisitos)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 32
+
+SUPLAN
+
+Antonio Paulo Cargnin
+
+antonio-cargnin@planejamento.rs.gov.br
+
+P.3.2 Sistema de gestão de parcerias público-privadas e concessões
+
+SPGG
+
+Claudio Gastal
+
+gabinete@spgg.rs.gov.br
+
+P.3.3 Sistema de planejamento, governança e gestão
+
+SUPLAN
+
+Antonio Paulo Cargnin
+
+antonio-cargnin@planejamento.rs.gov.br
+
+P.3.4 Modernização do sistema de gestão de obras públicas
+
+SPGG
+
+Claudio Gastal
+
+gabinete@spgg.rs.gov.br
+
+P.3.5 Sistema de gestão de custos setoriais
+
+SPGG
+
+Claudio Gastal
+
+gabinete@spgg.rs.gov.br
+
+C.4. - Racionalização de gastos com patrimônio
+
+P.4.1 Sistema de gestão do patrimônio
+
+SPE
+
+Diego Ferrugem Cardoso
+
+diego-cardoso@planejamento.rs.gov.br
+
+P.4.2 Sistema de gestão de patrimônio de TIC
+
+SUPLAN
+
+Antonio Paulo Cargnin
+
+antonio-cargnin@planejamento.rs.gov.br
+
+C.5. -Gestão do Projeto
+
+P.5.1 Instalação e Manutenção da Unidade de Gestão do Projeto (UGP)
+
+SUPLAN
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 33
+
+Antonio Paulo Cargnin
+
+antonio-cargnin@planejamento.rs.gov.br
+
+ARRANJO OPERACIONAL
+
+Os arranjos institucionais/operacionais para a execução do Projeto serão finalizados com base nas avaliações das capacidades técnicas,
+operacionais e fiduciárias a serem realizadas pelo Banco Mundial com o apoio do Estado (por meio da SPGG) durante a preparação do
+Projeto. As avaliações irão subsidiar também o desenvolvimento de um Plano de Apoio à Implementação do Projeto, a ser incluído no
+Manual Operacional do Projeto. A Matriz de Responsabilidades da seção 4.1.3 elenca as ações esperadas e o papel de cada uma das
+instituições a serem envolvidas na execução. Serão firmados instrumentos de cooperação com os demais órgãos beneficiários ou
+diretamente envolvidos com a execução do projeto, nos quais serão estabelecidas as obrigações/responsabilidades, conforme previsto no
+Regulamento Operativo do Pro-Gestão. Não haverá repasse de recursos entre a SPGG e as co-executoras por três motivos: (i) a UGP
+ficará localizada na SPGG e encarregada de toda execução do projeto, cabendo às co-executoras as ações de caráter técnico, (ii) a
+execução orçamentária financeira se dará por meio de uma conta única do Estado; e (iii) não haverá repasses do empréstimo aos
+municípios.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Governo do Estado do Rio Grande do Sul
+
+Representante Oficial: Eduardo Figueiredo Cavalheiro Leite
+
+Endereço da Sede: Praça Marechal Deodoro, s/n, Centro Histórico, Porto Alegre - RS
+E-mail Institucional:
+
+Telefone: (51) 3210-4100
+
+CNPJ: 87934675000196
+
+Fax:
+UF:
+
+Executor: Secretaria do Planejamento e Gestão do Estado do Rio Grande do Sul
+
+Representante Oficial: Cláudio Leite Gastal
+
+Endereço da Sede: Avenida Borges de Medeiros 1501, 21º andar, Porto Alegre - RS
+E-mail Institucional:
+
+Telefone: (51) 32881423
+
+CNPJ: 87958682000128
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+C - RACIONALIZAÇÃO DO GASTO COM PESSOAL ATIVO E INATIVO
+
+P - Sistema de dimensionamento da força de trabalho
+
+COMPONENTES
+
+P - Módulos Adicionais para o Sistema de Recursos Humanos do Estado (RHE)
+
+P - Sistema de Gestão da Previdência
+
+P - Sistema de Análise e Projeções Previdenciárias
+
+C - MODERNIZAÇÃO DE COMPRAS PÚBLICAS
+
+P - Melhoramentos ao sistema estadual de compras públicas
+
+Fax:
+UF:
+
+Ano 1
+
+FONTES
+
+CF
+85.000,00
+
+45.000,00
+
+20.000,00
+
+14.000,00
+
+6.000,00
+
+30.000,00
+
+30.000,00
+
+BIRD
+765.000,00
+
+405.000,00
+
+180.000,00
+
+126.000,00
+
+54.000,00
+
+270.000,00
+
+270.000,00
+
+VALOR
+
+CUSTO
+7.500.000,00
+
+4.500.000,00
+
+1.000.000,00
+
+1.400.000,00
+
+600.000,00
+
+3.000.000,00
+
+3.000.000,00
+
+C - REDUÇÃO DO CUSTO DA DÍVIDA E RACIONALIZAÇÃO DOS INVESTIMENTOS PÚBLICOS
+
+12.100.000,00
+
+142.000,00
+
+1.278.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+P - Auditoria sobre aderência de contabilidade
+
+P - Sistema de Gestão de Concessões e Parcerias Público-Privadas
+
+P - Sistema de Planejamento, Governança e Gestão
+
+P - Modernização do Sistema de Gestão de Obras Públicas
+
+P - Sistema de Gestão de Custos Setoriais
+
+C - RACIONALIZAÇÃO DE GASTOS COM PATRIMÔNIO
+
+P - Sistema de Gestão do Patrimônio
+
+P - Sistema de Gestão de Patrimônio de TIC
+
+C - GESTÃO DO PROJETO
+
+P - Gestão do Projeto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+200.000,00
+
+1.000.000,00
+
+3.500.000,00
+
+800.000,00
+
+6.600.000,00
+
+9.900.000,00
+
+6.900.000,00
+
+3.000.000,00
+
+500.000,00
+
+500.000,00
+
+20.000,00
+
+10.000,00
+
+30.000,00
+
+16.000,00
+
+66.000,00
+
+69.000,00
+
+69.000,00
+
+180.000,00
+
+90.000,00
+
+270.000,00
+
+144.000,00
+
+594.000,00
+
+921.000,00
+
+621.000,00
+
+0,00
+
+300.000,00
+
+10.000,00
+
+10.000,00
+
+90.000,00
+
+90.000,00
+
+0,00
+
+336.000,00
+
+3.324.000,00
+
+0,00
+
+0,00
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+C - RACIONALIZAÇÃO DO GASTO COM PESSOAL ATIVO E INATIVO
+
+P - Sistema de dimensionamento da força de trabalho
+
+COMPONENTES
+
+P - Módulos Adicionais para o Sistema de Recursos Humanos do Estado (RHE)
+
+P - Sistema de Gestão da Previdência
+
+P - Sistema de Análise e Projeções Previdenciárias
+
+C - MODERNIZAÇÃO DE COMPRAS PÚBLICAS
+
+P - Melhoramentos ao sistema estadual de compras públicas
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+BIRD
+
+160.000,00
+
+1.440.000,00
+
+90.000,00
+
+30.000,00
+
+28.000,00
+
+12.000,00
+
+60.000,00
+
+60.000,00
+
+810.000,00
+
+270.000,00
+
+252.000,00
+
+108.000,00
+
+540.000,00
+
+540.000,00
+
+C - REDUÇÃO DO CUSTO DA DÍVIDA E RACIONALIZAÇÃO DOS INVESTIMENTOS PÚBLICOS
+
+254.000,00
+
+2.286.000,00
+
+
+Página: 34
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+P - Auditoria sobre aderência de contabilidade
+
+P - Sistema de Gestão de Concessões e Parcerias Público-Privadas
+
+P - Sistema de Planejamento, Governança e Gestão
+
+P - Modernização do Sistema de Gestão de Obras Públicas
+
+P - Sistema de Gestão de Custos Setoriais
+
+C - RACIONALIZAÇÃO DE GASTOS COM PATRIMÔNIO
+
+P - Sistema de Gestão do Patrimônio
+
+P - Sistema de Gestão de Patrimônio de TIC
+
+C - GESTÃO DO PROJETO
+
+P - Gestão do Projeto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - RACIONALIZAÇÃO DO GASTO COM PESSOAL ATIVO E INATIVO
+
+P - Sistema de dimensionamento da força de trabalho
+
+COMPONENTES
+
+P - Módulos Adicionais para o Sistema de Recursos Humanos do Estado (RHE)
+
+P - Sistema de Gestão da Previdência
+
+P - Sistema de Análise e Projeções Previdenciárias
+
+C - MODERNIZAÇÃO DE COMPRAS PÚBLICAS
+
+P - Melhoramentos ao sistema estadual de compras públicas
+
+0,00
+
+20.000,00
+
+70.000,00
+
+32.000,00
+
+0,00
+
+180.000,00
+
+630.000,00
+
+288.000,00
+
+132.000,00
+
+1.188.000,00
+
+138.000,00
+
+1.842.000,00
+
+138.000,00
+
+1.242.000,00
+
+0,00
+
+600.000,00
+
+10.000,00
+
+10.000,00
+
+90.000,00
+
+90.000,00
+
+0,00
+
+622.000,00
+
+6.198.000,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+BIRD
+
+160.000,00
+
+1.440.000,00
+
+90.000,00
+
+30.000,00
+
+28.000,00
+
+12.000,00
+
+60.000,00
+
+60.000,00
+
+810.000,00
+
+270.000,00
+
+252.000,00
+
+108.000,00
+
+540.000,00
+
+540.000,00
+
+C - REDUÇÃO DO CUSTO DA DÍVIDA E RACIONALIZAÇÃO DOS INVESTIMENTOS PÚBLICOS
+
+254.000,00
+
+2.286.000,00
+
+P - Auditoria sobre aderência de contabilidade
+
+P - Sistema de Gestão de Concessões e Parcerias Público-Privadas
+
+P - Sistema de Planejamento, Governança e Gestão
+
+P - Modernização do Sistema de Gestão de Obras Públicas
+
+P - Sistema de Gestão de Custos Setoriais
+
+C - RACIONALIZAÇÃO DE GASTOS COM PATRIMÔNIO
+
+P - Sistema de Gestão do Patrimônio
+
+P - Sistema de Gestão de Patrimônio de TIC
+
+C - GESTÃO DO PROJETO
+
+P - Gestão do Projeto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - RACIONALIZAÇÃO DO GASTO COM PESSOAL ATIVO E INATIVO
+
+P - Sistema de dimensionamento da força de trabalho
+
+COMPONENTES
+
+P - Módulos Adicionais para o Sistema de Recursos Humanos do Estado (RHE)
+
+P - Sistema de Gestão da Previdência
+
+P - Sistema de Análise e Projeções Previdenciárias
+
+C - MODERNIZAÇÃO DE COMPRAS PÚBLICAS
+
+P - Melhoramentos ao sistema estadual de compras públicas
+
+0,00
+
+20.000,00
+
+70.000,00
+
+32.000,00
+
+0,00
+
+180.000,00
+
+630.000,00
+
+288.000,00
+
+132.000,00
+
+1.188.000,00
+
+138.000,00
+
+1.842.000,00
+
+138.000,00
+
+1.242.000,00
+
+0,00
+
+600.000,00
+
+10.000,00
+
+10.000,00
+
+90.000,00
+
+90.000,00
+
+0,00
+
+622.000,00
+
+6.198.000,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+BIRD
+
+150.000,00
+
+1.350.000,00
+
+90.000,00
+
+20.000,00
+
+28.000,00
+
+12.000,00
+
+60.000,00
+
+60.000,00
+
+810.000,00
+
+180.000,00
+
+252.000,00
+
+108.000,00
+
+540.000,00
+
+540.000,00
+
+C - REDUÇÃO DO CUSTO DA DÍVIDA E RACIONALIZAÇÃO DOS INVESTIMENTOS PÚBLICOS
+
+242.000,00
+
+2.178.000,00
+
+P - Auditoria sobre aderência de contabilidade
+
+P - Sistema de Gestão de Concessões e Parcerias Público-Privadas
+
+P - Sistema de Planejamento, Governança e Gestão
+
+P - Modernização do Sistema de Gestão de Obras Públicas
+
+P - Sistema de Gestão de Custos Setoriais
+
+C - RACIONALIZAÇÃO DE GASTOS COM PATRIMÔNIO
+
+P - Sistema de Gestão do Patrimônio
+
+P - Sistema de Gestão de Patrimônio de TIC
+
+C - GESTÃO DO PROJETO
+
+0,00
+
+20.000,00
+
+90.000,00
+
+0,00
+
+0,00
+
+180.000,00
+
+810.000,00
+
+0,00
+
+132.000,00
+
+1.188.000,00
+
+138.000,00
+
+1.992.000,00
+
+138.000,00
+
+1.242.000,00
+
+0,00
+
+750.000,00
+
+10.000,00
+
+90.000,00
+
+
+Página: 35
+
+P - Gestão do Projeto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - RACIONALIZAÇÃO DO GASTO COM PESSOAL ATIVO E INATIVO
+
+P - Sistema de dimensionamento da força de trabalho
+
+COMPONENTES
+
+P - Módulos Adicionais para o Sistema de Recursos Humanos do Estado (RHE)
+
+P - Sistema de Gestão da Previdência
+
+P - Sistema de Análise e Projeções Previdenciárias
+
+C - MODERNIZAÇÃO DE COMPRAS PÚBLICAS
+
+P - Melhoramentos ao sistema estadual de compras públicas
+
+10.000,00
+
+90.000,00
+
+0,00
+
+600.000,00
+
+6.150.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+BIRD
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+195.000,00
+
+1.755.000,00
+
+750.000,00
+
+6.750.000,00
+
+135.000,00
+
+1.215.000,00
+
+450.000,00
+
+4.050.000,00
+
+0,00
+
+42.000,00
+
+18.000,00
+
+90.000,00
+
+90.000,00
+
+0,00
+
+100.000,00
+
+900.000,00
+
+378.000,00
+
+140.000,00
+
+1.260.000,00
+
+162.000,00
+
+60.000,00
+
+540.000,00
+
+810.000,00
+
+300.000,00
+
+2.700.000,00
+
+810.000,00
+
+300.000,00
+
+2.700.000,00
+
+C - REDUÇÃO DO CUSTO DA DÍVIDA E RACIONALIZAÇÃO DOS INVESTIMENTOS PÚBLICOS
+
+318.000,00
+
+2.862.000,00
+
+1.210.000,00
+
+10.890.000,00
+
+P - Auditoria sobre aderência de contabilidade
+
+P - Sistema de Gestão de Concessões e Parcerias Público-Privadas
+
+P - Sistema de Planejamento, Governança e Gestão
+
+P - Modernização do Sistema de Gestão de Obras Públicas
+
+P - Sistema de Gestão de Custos Setoriais
+
+C - RACIONALIZAÇÃO DE GASTOS COM PATRIMÔNIO
+
+P - Sistema de Gestão do Patrimônio
+
+P - Sistema de Gestão de Patrimônio de TIC
+
+C - GESTÃO DO PROJETO
+
+P - Gestão do Projeto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+0,00
+
+30.000,00
+
+90.000,00
+
+0,00
+
+0,00
+
+20.000,00
+
+180.000,00
+
+270.000,00
+
+100.000,00
+
+900.000,00
+
+810.000,00
+
+350.000,00
+
+3.150.000,00
+
+0,00
+
+80.000,00
+
+720.000,00
+
+198.000,00
+
+1.782.000,00
+
+660.000,00
+
+5.940.000,00
+
+207.000,00
+
+2.613.000,00
+
+690.000,00
+
+9.210.000,00
+
+207.000,00
+
+1.863.000,00
+
+690.000,00
+
+6.210.000,00
+
+0,00
+
+750.000,00
+
+0,00
+
+3.000.000,00
+
+10.000,00
+
+10.000,00
+
+90.000,00
+
+90.000,00
+
+50.000,00
+
+50.000,00
+
+450.000,00
+
+450.000,00
+
+33.000.000,00
+
+820.000,00
+
+8.130.000,00
+
+3.000.000,00
+
+30.000.000,00
+
+A implementação do projeto demanda Lei estadual autorizativa para o Executivo Estadual contrair o empréstimo e de Decretos, Portarias e
+Instruções de Serviços para disciplinar a execução dos processos aperfeiçoados ou implantados quando da conclusão dos produtos.
+Quanto aos Decretos e às Portarias e Instruções de Serviço, o Executivo estadual tem plena governabilidade sobre o processo necessário
+à sua edição, contando ainda com equipes suficientemente capacitadas para proceder a sua concepção e redação.
+
+No que se refere à Lei autorizativa, a equipe de governo responsável pelo relacionamento com a Assembleia Legislativa tem mostrado o
+real estado das finanças estaduais e sensibilizado os membros daquele Poder da importância do financiamento para melhorar a
+arrecadação e aplicação dos recursos públicos. O Poder Executivo do Estado já providenciou mensagem ao Poder Legislativo Estadual
+solicitando autorização legislativa para contrair o empréstimo junto ao Banco Mundial. Nos moldes propostos neste programa, os recursos
+a serem disponibilizados pela instituição financeira serão aplicados diretamente pelo Estado, após os devidos processos licitatórios, que
+seguirão as diretrizes do agente financeiro, conforme preconiza a legislação brasileira.
+
+Também de antemão estão de sobreaviso o Poder Legislativo para as regulamentações de planejamento da força de trabalho, carreiras,
+gestão de inativos, gestão de patrimônio, compras e gestão de custos e investimentos que serão elaboradas ou subsidiadas pelos
+produtos referenciados nesta carta.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+As principais contratações estão vinculadas aos produtos listados nos componentes do projeto. Será necessária a contratação de bens,
+consultorias e serviços. O governo do estado pretende montar uma equipe para coordenar e monitorar a execução do projeto, com
+especialistas técnicos, de aquisições e desembolsos nas regras do agente financiador.
+
+Os principais riscos estariam associados ao atraso na elaboração dos documentos preparatórios de licitação, tais como: plano de
+aquisição, termos de referências, projetos executivos, estimativas de custos, editais. Tais riscos serão mitigados com o apoio
+especializado em aquisições para auxiliar os órgãos participantes, monitoramento e controle em todas as etapas de planejamento,
+licitação, contratação e conclusão, reuniões periódicas sobre o desempenho dos contratos, com sinalização de probabilidade de
+cumprimento e com elaboração de plano de ação para o cumprimento dos mesmos. Além disso, espera-se boa articulação junto às
+setoriais participantes e a central de licitações na etapa inicial da implementação do Projeto.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 36
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+Informações relevantes
+
+- 06/06/2022: Pleito retirado de pauta na 160ª Reunião da COFIEX, realizada em 07 de abril de 2022, com base no art. 4º, inc. I, alínea "d"
+da  Resolução  COFIEX  nº  17,  de  07/06/2021,  tendo  em  vista  que  o  pleiteante  está  vedado  ao  recebimento  de  garantia  da  União  por
+ocorrência de honras de aval em contratos de operações de crédito garantidos pela União.
+- 17/11/2022: A carta consulta não obteve aprovação com base art. 8o, inc. XII da Lei Complementar no 159/2017, e no art. 19, § 2o do
+Decreto no 10.681/2021 (SEI 28507191), tendo em vista que o pleiteante possui Plano de Recuperação Fiscal Vigente, e que a operação
+pleiteada não se encontra prevista no Plano, conforme manifestação do respectivo Conselho de Supervisão do Regime de Recuperação
+Fiscal.

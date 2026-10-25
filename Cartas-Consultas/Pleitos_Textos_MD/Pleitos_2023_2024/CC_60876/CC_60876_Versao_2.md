@@ -1,0 +1,3940 @@
+# Carta-Consulta CC_60876 — Versao 2 (SIGS)
+
+
+CARTA CONSULTA
+
+Programa de Inclusão Social e Territorial de Salvador BA
+
+Nº Carta Consulta: 60876
+Processo: 12120.100126/2022-10
+Mutuário: Município de Salvador - BA
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  16 de Março de 2022
+
+Fontes Internas:
+Contrapartida Financeira: US$ 31.250.000,00
+Fontes Externas:
+Corporação Andina de Fomento - CAF: US$ 125.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+O Município de Salvador, Capital do Estado da Bahia, com 3 milhões de habitantes, tem vivenciado um ciclo virtuoso em seu processo
+administrativo, fiscal e urbanístico que se iniciou em 2013 e perdura desde então. Carece ainda, no entanto, dar passos largos em direção
+à inclusão social e territorial para consolidar a reestruturação das suas bases de desenvolvimento, integrando toda a Cidade e
+incorporando a maioria de sua população. É ao que se propõe agora a Prefeitura ao estruturar o PROGRAMA DE INCLUSÃO SOCIAL E
+TERRITORIAL, para cuja execução busca equacionar meios de financiamento.
+
+Trata-se da implementação de uma rota estratégica traçada rumo aos 500 anos da fundação da Cidade - Primeira Capital do Brasil - que
+se comemorará em 2049. O objetivo é consolidar um processo sustentável de desenvolvimento capaz de qualificar o ambiente urbano,
+promover a correção dos desequilíbrios sociais, fortalecer a base econômica local e consolidar-se como uma cidade global.
+
+Este ciclo iniciou-se com o ajuste das contas públicas (2013-2015) e a adoção do Planejamento Estratégico como instrumento de governo,
+já pelo terceiro quadriênio consecutivo, com o que se assegura não apenas o rigor na gestão fiscal responsável como a eficiência e
+racionalidade no gasto público. O reconhecimento deste trabalho realizado veio em 2019, quando Salvador foi anunciada como a Primeira
+Capital do País em Desempenho Fiscal (Índice Firjan de Gestão Fiscal) e pela Secretaria do Tesouro Nacional (STN) com o 1º lugar em
+Eficiência na Execução de Pagamentos.
+
+Logo a Prefeitura deu início também à recomposição da base legal e institucional de seu ordenamento urbanístico, tendo como pano de
+fundo o plano Salvador 500, permitindo à iniciativa privada a retomada de suas atividades normais, uma vez que a legislação urbanística
+anterior encontrava-se suspensa, em decorrência de medidas de ordem judicial.
+
+A Cidade se ressente de um cenário econômico que lhe é adverso. Com efeito, no caso de Salvador, temos uma região metropolitana
+invertida, onde o centro tornou-se cidade dormitório, enquanto as indústrias - em decorrência do planejamento metropolitano - foram
+deslocadas para os municípios vizinhos em cujos territórios foram implantados o Centro Industrial de Aratu (CIA) e o Complexo
+Petroquímico de Camaçari (COPEC). Hoje a indústria representa apenas 12% do PIB Municipal. Com isto, restou a Salvador tornar-se
+uma cidade terciária.
+
+Salvador tem uma das mais baixas rendas per capita dentre as capitais brasileiras, situando-se em 24º lugar, com rendimento médio
+domiciliar per capita de R$22.213,24 (IBGE 2019), apesar de ser a 4ª em população. Assim, para uma população de quase três milhões
+de habitantes, Salvador apresenta incômoda posição na taxa de desemprego em função de seu volume demográfico.
+
+Do ponto de vista territorial, predomina em Salvador a ocupação precária e informal, dando origem a imensas áreas formadas por bairros
+populares, muitas vezes contiguas, oriundas de antigas "invasões" - denominação local dada às favelas - hoje consolidadas,
+institucionalmente definidas como ZEIS - Zonas Especiais de Interesse Social, em número de 214 no novo Plano Diretor de
+Desenvolvimento Urbano (PDDU). Característica marcante da Cidade é, mesmo na área de urbanização consolidada, a existência de
+inúmeras ZEIS, entremeadas nas áreas de ocupação formal.
+
+Cidade pobre, com graves problemas de emprego e renda, Salvador precisa promover a progressiva e rápida inclusão socioprodutiva da
+sua grande massa populacional de baixa renda, mediante ações de capacitação, visando a formação de capital humano para possibilitar
+empregabilidade e a sustentabilidade de um ciclo virtuoso de expansão da sua base econômica, fundada no setor de serviços.
+
+De forma complementar, em atenção ao mesmo segmento populacional, precisa melhorar sistematicamente as condições de mobilidade
+sustentável para a população de mais baixa renda, estimulando a mobilidade ativa e o transporte público. Isto implica em beneficiar bairros
+pobres territorialmente distantes, e o Centro Histórico, em função de sua revitalização e repovoamento.
+
+A Prefeitura vive ainda um estágio de informatização incompleto, enquanto a digitalização já avança a largos passos na sociedade,
+envolvendo pessoas e empresas com as quais tem que se interrelacionar. A existência de uma governança mais eficiente e dinâmica, no
+âmbito municipal, revela-se essencial para permitir agilidade no atendimento à população e às empresas de qualquer porte, bem como na
+prestação de serviços públicos, administrativos e sociais, criando condições para enfrentar com maior efetividade os graves problemas
+sociais e econômicos da cidade-município.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+(i) Solução Proposta:
+
+Tendo em vista a situação descrita no Diagnóstico, impõe-se:
+
+- Promover a realização de um ambicioso programa de capacitação profissional para a população - inclusive em mídias digitais - como
+caminho a ser trilhado para promover oportunidades de sua inclusão no processo de desenvolvimento socioeconômico.
+
+- Realizar ações na área da infraestrutura de mobilidade que visem a integração de bairros isolados - rompendo a sua condição de
+verdadeiros "guetos" - mediante a implantação de acessos a bairros populares e sua integração com o sistema viário básico para
+promover a articulação com o sistema de transporte coletivo urbano de alta e média capacidade.
+
+- Estimular a mobilidade a pé no Centro Histórico, visando sua revitalização e estimular seu repovoamento, o que inclui a implantação de
+parque na Península de Itapagipe - uma extensão do Centro Histórico.
+
+-Adotar sempre critérios de sustentabilidade nas ações a serem realizadas.
+
+
+Página: 3
+
+- Avançar na transformação digital do governo municipal, de modo a facilitar o acesso da população aos serviços administrativos, melhorar
+a prestação dos serviços sociais, reduzir custos operacionais e melhorar a eficiência pública.
+
+(ii) Resultados esperados:
+
+I - Na área de capacitação profissional:
+
+- Melhorar o perfil profissional das pessoas, de modo que se adequem aos requisitos do mercado de trabalho.
+
+- Criar condições para que possam desempenhar-se como empreendedoras autônomas as pessoas que revelem perfil empreendedor.
+
+- Preparar as pessoas para acompanhar as transformações do mercado de trabalho diante da acelerada incorporação de tecnologia nos
+ambientes de trabalho - e-commerce, digitalização, negócios 4.0, trabalho remoto etc.
+
+- Gerenciar adequadamente os programas de capacitação e sua articulação com o mercado de trabalho, de forma a monitorar os
+resultados alcançados e ajustar permanentemente as diretrizes e prioridades do programa.
+
+Para a obtenção destes resultados, integram esta linha de soluções:
+
+a) Oferta de treinamento para as pessoas, de forma articulada com as necessidades e demandas do mercado de trabalho local.
+
+b) Realização de cursos de empreendedorismo para as pessoas que revelem potencial nesta área.
+
+c) Alfabetização digital como instrumento para a inclusão socioprodutiva.
+
+d) Capacitação técnica em larga escala em cursos de curta duração para abrir caminho na área das Tecnologias de Comunicação e
+Informação (TIC).
+
+e) Gestão inteligente dos programas de capacitação, mediante uso de plataforma específica e dedicada.
+
+II - Na área de obras de infraestrutura:
+
+- Reduzir os tempos de deslocamento das populações mais pobres entre os locais de moradia e os de trabalho.
+
+- Estimular a mobilidade ativa no Centro Histórico.
+
+- Incorporar meios de transporte e tecnologias que substituam a utilização de combustíveis fósseis
+
+- Promover a integração intermodal no sistema de transporte coletivo.
+
+- Melhorar o desempenho do transporte público, simultaneamente com sua adequação ao uso de fontes energéticas não geradoras de
+gases de efeito estufa (GEE), contribuindo dessa forma para o combate aos efeitos das mudanças climáticas.
+
+Para a obtenção deste conjunto de resultados, integram esta linha de soluções:
+
+a) Introdução do teleférico no sistema de transportes.
+
+b) Implantação de Rua de Pedestre no Centro Histórico.
+
+c) Requalificação do principal ascensor público da cidade.
+
+d) Adoção de ônibus elétricos, inicialmente no subsistema BRT.
+
+e) Implantação de acessos viários a bairros periféricos e isolados.
+
+f) Implantação de parque ambiental.
+
+III - Na área de digitalização do governo municipal:
+
+- Melhorar a eficiência e a efetividade do serviço público municipal.
+
+- Garantir a acessibilidade dos cidadãos, empreendedores e empresas aos serviços administrativos do município.
+
+- Utilizar o armazenamento de informações em nuvem (cloud).
+
+- Construção de ambiente inteligente de governança, operação, monitoramento e controle.
+
+(cid:10)
+
+
+Página: 4
+
+- Prover serviços prioritários digitalizados, especialmente os sociais.
+
+- Criar condições adequadas para assegurar a eficácia da ação governamental.
+
+- Aplicar modelo de smart city em bairro piloto.
+
+Para a obtenção destes resultados, integram esta linha de soluções:
+
+a) Implantação de armazenamento em nuvem
+
+b) Gestão compartilhada de sistemas e serviços digitais
+
+c) Modernização da unit delivery de planejamento estratégico
+
+d) Uso de plataformas de gerenciamento e interação com a cidadania
+
+e) Digitalização de serviços prioritários
+
+f) Implantação de bairro inteligente
+
+(iii) Sustentabilidade:
+
+Ao incrementar serviços, acrescer infraestruturas, promover melhorias tecnológicas, ambientais e de eficiência em sistemas urbanos,
+estas ações se incorporam ao estoque pré-existente, resultando em ampliação das atividades de órgãos e entidades já constitutivas da
+estrutura administrativa, passando a representar incremento marginal de custos operacionais da Prefeitura, a serem supridos com
+recursos ordinários.
+
+Por exemplo, a manutenção (conservação) da infraestrutura urbana da Cidade e dos equipamentos públicos municipais em geral é
+realizada pela SEMAN - Secretaria de Manutenção, órgão da estrutura administrativa da Prefeitura, vinculada diretamente ao Prefeito e
+dotada de orçamento próprio.
+
+Sempre e quando possível, inclusive tendo em conta a escala dos serviços ou equipamentos e as condições de mercado, alguns projetos,
+conforme referido ao longo da presente Carta Consulta, serão submetidos a processos de concessão e parcerias de investimentos.
+
+No geral, estima-se ganhos de escala e melhoria da eficiência de órgãos e unidades administrativas (nenhum órgão ou unidade está
+sendo criado para a execução do programa), justificando ainda mais a sua existência.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+(i) Orientações Estratégicas
+
+Com base no trabalho que vem sendo realizado ao longo dos últimos anos, dentro de um cenário de continuidade administrativa e
+planejamento de longo prazo, as ações identificadas, selecionadas e propostas tomam como marco de referência os estudos, documentos
+e normas recentemente elaborados, dentre os quais - tendo em vista o escopo do presente Programa - cabe destacar:
+
+- PDDU - Plano Diretor de Desenvolvimento Urbano (Lei n. 9.069, de 30 de junho de 2016)
+
+- PLANMOB - Plano de Mobilidade Urbana Sustentável (Lei n. 9.374, de 5 de julho de 2018).
+
+- PDTCI - Plano Diretor de Tecnologia da Cidade Inteligente, ora em fase de institucionalização.
+
+De forma complementar cabe também considerar, tendo em vista as políticas definidas e os objetivos estabelecidos:
+
+- Criação das Prefeituras-Bairro, em número de dez, como instrumento de desconcentração administrativa (Art. 13 da Lei n. 8.376, de
+2012)
+
+- Política Municipal de Meio Ambiente e Desenvolvimento Sustentável (Lei n. 8.915, de 25 de setembro de 2015).
+
+- Reestruturação da Defesa Civil de Salvador - CODESAL (Lei nº 8.969 de 11 de janeiro de 2016).
+
+- Delimitação das Bacias Hidrográficas e das Bacias de Drenagem Natural (Decreto n. 27.111, de 22 de março de 2016).
+
+- Política Municipal de Inovação (Lei n. 9.534, de 11 de agosto de 2020).
+
+- Plano Municipal de Conservação e Recuperação da Mata Atlântica (em fase de institucionalização).
+
+(cid:10)
+
+
+Página: 5
+
+Além desses referenciais, que proporcionam orientações estratégicas, cabe enfatizar os referenciais normativos consubstanciados pelo
+Planejamento Estratégico 2021-2024 e pelo Plano Plurianual - PPA 2022-2025, em cujos programas e metas, esta operação de crédito
+encontra guarida. Caberá às Leis Orçamentárias Anuais refletir as metas e alocar os recursos ano a ano, quando seja contratado o
+financiamento.
+
+(ii) Contrapartida
+
+O município declara que a origem dos recursos de sua contrapartida está em conformidade com a Resolução Nº 3, de 29 de maio de 2019
+, da Comissão de Financiamentos Externos (COFIEX), ou seja, a contrapartida será proveniente das receitas tributárias previstas nos
+artigos 156, 158 e 159, Inciso I, (b), da Constituição Federal, podendo-se adicionar, conforme facultado (art. 5º), a utilização de terrenos
+próprios, desde que vinculados à execução do programa.
+
+Os recursos de contrapartida de todas as operações de crédito já figuram no Plano Plurianual 2022/25, Lei nº 9.614/2021 e LOA 2022, Lei
+nº 9.616/2021, disponíveis no link: http://casacivil.salvador.ba.gov.br/index.php/menu-orcamento, bem como na proposta da Lei
+Orçamentária Anual - 2023 a ser encaminhada à Câmara Municipal. Enviamos subsidiariamente os anexos de recortes do PPA 2022/25,
+demonstrando a vinculação dos temas da operação. (Figuras 1 e 2)
+
+(iii) Taxa de Câmbio
+
+A taxa de câmbio utilizada é de US$1,00 = R$5,00, correspondente a ajustamento do câmbio oficial de venda PTAX R$5,0611 do dia 22/
+02/2022 pelo Banco Central do Brasil.
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa de Inclusão Social e Territorial de Salvador BA
+
+
+### 2.2. Título Abreviado
+
+Salvador Inclusiva
+
+
+### 2.3. Mutuário
+
+
+Município de Salvador - BA
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+(i) Objetivo Geral
+
+Estabelecer bases sólidas para a superação das condições de pobreza predominante entre a grande maioria da população de Salvador -
+Bahia, por meio da inclusão socioprodutiva, promover a melhoria das condições de vida do mesmo segmento da população nos bairros
+periféricos em que reside e aproximar a gestão municipal das necessidades das pessoas, empreendedores e empresas, mediante a
+qualificação do serviço público.
+
+(ii) Objetivos Específicos
+
+1. Disponibilizar e oferecer programas de capacitação, empreendedorismo e cursos de TIC para a população, de modo a qualificar as
+pessoas para a empregabilidade, em consonância com a evolução do mercado de trabalho.
+
+2. Melhorar a acessibilidade dos moradores de bairros populares ao sistema de transporte de média e alta capacidade.
+
+3. Introduzir modernização tecnológica e sustentabilidade no sistema de transporte coletivo.
+
+4. Promover a digitalização do serviço público municipal como meio de aprimorar a gestão, melhorar a eficiência e modernizar a atenção à
+população soteropolitana.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+
+
+Descrição
+Quantidade de litros de diesel economizados por
+ano
+
+Fluxo de pessoas transportadas por teleférico do
+Mané Dendê, no Subúrbio
+
+Tráfego de pedestres entre o Metrô Campo da
+Pólvora e o Centro Histórico
+Implantação do novo ascensor público da
+Ladeira do Pax, no Centro Histórico
+Melhoria do fluxo de veículos, nas articulações
+com a antiga "Estrada do DER-BA"
+
+Ampliação do fluxo de passageiros no Elevador
+Lacerda
+Visitantes ao Memorial do Elevador Lacerda
+
+Produção de mudas de espécies da Mata
+Atlântica
+N. de visitantes ao Centro de Interpretação da
+Mata Atlântica
+Abertura de novos negócios por pessoas
+capacitadas em Empreendedorismo
+
+Taxa de colocação de pessoas capacitadas pelo
+Programa de Qualificação - SIMM
+
+Taxa de colocação de pessoas capacitadas pelo
+Programa de Qualificação - Salvador Tech
+
+Inclusão produtiva através de alfabetização
+digital para o    desenvolvimento econômico
+Implantação do Observatório Salvador
+
+Implantação do armazenamento em nuvem
+Unidade de Gestão Estratégica
+
+Plataforma GovTech Municipal
+
+Digitalização de Serviços em Áreas Prioritárias
+
+l
+
+Fórmula de Cálculo Unidade de Medida
+99 litros diesel por
+ônibus elétrico/dia x
+40 ônibus x 365 dias
+Número de
+passageiros dia (
+bilhetagem)/dia
+Contagem do fluxo de
+pessoas/mês
+Passageiros/mês
+
+un
+
+un
+
+un
+
+UN/h/fluxo atual x
+normal
+
+
+Página: 6
+
+Linha de Base
+0,00
+
+Meta
+1.445.400,00
+
+0,00
+
+60.000,00
+
+0,00
+
+0,00
+
+0,00
+
+75.000,00
+
+120.000,00
+
+0,00
+
+Contagem volumétrica
+e classificada, com
+recortes para o
+transporte coletivo e
+cargas
+Passageiros/mês
+
+Controle do n. de
+tickets vendidos/mês
+Mudas produzidas/
+ano
+Número de visitantes
+registrados/ano
+Pessoas capacitadas
+em
+Empreendedorismo X
+novos MEI e negócios
+abertos
+Número de pessoas
+treinadas X
+colocações, via SIMM
+Número de pessoas
+treinadas X
+colocações, via
+Salvador Tech
+Quantidade de
+pessoas beneficiadas
+Observatório
+Implantado
+Nuvem Implantada
+Plataforma
+implementada
+Plataforma
+implementada
+Áreas de Serviços
+digitalizados
+Plataforma
+implementada
+
+UN
+
+900.000,00
+
+1.200.000,00
+
+Número de visitantes
+/mês
+Quantidade de
+mudas produ
+Número de visitantes
+
+%
+
+%
+
+%
+
+un
+
+un
+
+un
+un
+
+un
+
+un
+
+un
+
+un
+
+0,00
+
+50.000,00
+
+2.000,00
+
+12.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+20.000,00
+
+60,00
+
+50,00
+
+50,00
+
+1,00
+
+1,00
+
+1,00
+1,00
+
+1,00
+
+3,00
+
+1,00
+
+1,00
+
+Plataforma de Gestão do Programa de
+Capacitação
+Implantação projeto Comércio, bairro inteligente Centro de Operações
+do Bairro do Comércio
+implantado
+
+
+### 2.7. Projeto/Componentes
+
+
+Componentes
+C - OBRAS DE INFRAESTRUTURA
+S - MOBILIDADE URBANA
+P - Estação de Recarga do Sistema BRT
+P - Teleférico do Mané Dendê
+P - Rua de Pedestres: Ligação Metrô-Campo da Pólvora / Baixa dos Sapateiros / Pelourinho / Comércio
+P - Requalificação do Elevador Lacerda
+S - ARTICULAÇÕES COM A ANTIGA ESTRADA DO DER-BA
+P - Articulação com o Hospital do Subúrbio
+P - Articulação com as Ruas das Pedrinhas e Franco Velasco
+P - Articulação com a Via Bronze
+S - EQUIPAMENTOS URBANOS
+P - Centro de Interpretação da Mata Atlântica
+C - QUALIFICAÇÃO PROFISSIONAL E TRANSFORMAÇÃO DIGITAL
+S - TRABALHO, EMPREGO E RENDA
+P - Treinar para Empregar
+P - Empreenda Salvador
+P - Salvador Tech
+P - Inclusão produtiva através da alfabetização digital para o desenvolvimento econômico
+S - CIDADE INTELIGENTE
+P - Implantação do Observatório Salvador
+P - Implantação do armazenamento em nuvem
+P - Unidade de Gestão Estratégica
+P - Estratégia GovTech Municipal
+P - Digitalização de Serviços em Áreas Prioritárias
+P - Plataforma de Gestão do Programa de Capacitação
+P - COMÉRCIO, Bairro Inteligente
+C - GESTÃO DO PROJETO
+S - GESTÃO DO PROGRAMA
+P - Apoio Técnico ao Programa
+P - Supervisão das obras e serviços
+P - Auditoria Externa
+S - CUSTOS DE FINANCIAMENTO
+P - Comissão de Financiamento
+P - Avaliação e Estruturação
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 7
+
+Valor(US$)
+116.975.000,00
+93.375.000,00
+2.000.000,00
+52.275.000,00
+37.500.000,00
+1.600.000,00
+22.400.000,00
+5.600.000,00
+4.800.000,00
+12.000.000,00
+1.200.000,00
+1.200.000,00
+34.885.000,00
+15.841.000,00
+8.082.000,00
+1.605.000,00
+4.464.000,00
+1.690.000,00
+19.044.000,00
+2.630.000,00
+4.198.000,00
+2.140.000,00
+1.070.000,00
+2.000.000,00
+4.096.000,00
+2.910.000,00
+4.390.000,00
+3.277.500,00
+568.000,00
+2.639.500,00
+70.000,00
+1.112.500,00
+1.062.500,00
+50.000,00
+156.250.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - OBRAS DE INFRAESTRUTURA
+A gestão das cidades está sempre a necessitar novas obras de infraestrutura, seja para acompanhar e modernizar a estrutura
+urbana - esta a hipótese ideal - seja para suprir carências e preencher lacunas acumuladas ao longo do tempo, como é,
+predominantemente, o caso de Salvador.
+Sem embargo, no presente Programa, cuida-se das duas dimensões porque, de um lado a Cidade tem avançado no seu processo
+de modernização, buscando criar condições para um desenvolvimento qualificado e sustentável; de outro, apresenta ainda um
+grande passivo na urbanização e melhoria das condições de vida e de mobilidade nos bairros populares. Trata-se, pois, neste
+componente, de forma contundente, de dotar a cidade de infraestruturas de mobilidade e equipamentos urbanos capazes de
+avançar no processo de inclusão territorial de sua população, parte relevante do objetivo geral do Programa.
+
+S - MOBILIDADE URBANA
+O relevo acidentado da Cidade constitui um elemento dificultador para as pessoas acessarem o sistema de transporte público.
+Embora o transporte passe perto de casa, a chegada até a estação ou ponto de parada constitui muitas vezes um desafio,
+sobretudo nos bairros populares. Daí que ganha importância intensificar o programa de micromobilidade, em suas diversas
+modalidades.
+As soluções podem envolver várias alternativas, abrangendo desde as tradicionais escadarias - aqui, frequentemente também
+drenantes - passarelas interbairros, até novas soluções, inspiradas na própria experiência de Salvador, como os ascensores
+verticais - elevadores e planos inclinados - ou soluções tecnológicas mais modernas, como escadas rolantes e teleféricos, além de
+novas vias internas e de ligação e, inclusive, a requalificação de calçadas em eixos viários de acesso ao transporte coletivo, para
+que sejam capazes de propiciar que esse deslocamento se dê de modo seguro e confortável. A análise de cada caso e situação
+específica, além do volume de passageiros, são determinantes.
+Do mesmo modo, a viabilidade econômico-financeira das soluções e as necessidades das áreas onde venham a ser implantadas
+poderão aconselhar o aproveitamento integrado do entorno, ou sua valorização, acoplando a essas estruturas construções para
+usos residenciais, comerciais, espaços de lazer, espaços abertos, equipamentos sociais, como unidades de educação, de saúde,
+centros comunitários, bibliotecas, áreas verdes, conjunta ou isoladamente, entre outras alternativas.
+O fato é que a cidade continuará, cada vez mais, ganhando um novo conjunto de soluções, para atender aos pedestres nas
+ligações casa-ponto de parada do transporte coletivo, qualquer que seja o modal adotado: ônibus, metrô, BRT, VLT. Importante é
+seguir implementando novas soluções para o desenvolvimento dos bairros, especialmente os populares.
+
+
+Página: 8
+
+Ademais, vários bairros começam já a apresentar limitações em sua própria mobilidade interna e eventual falta de conexão com a
+malha viária básica da cidade, criando transtornos a suas populações. Atenta a esta realidade a Prefeitura tem promovido
+melhorias especificas e diversas soluções. O objetivo da Administração Municipal é prosseguir implantando ou melhorando
+ligações e acessos, de modo a otimizar o sistema de transporte coletivo e facilitar a mobilidade das pessoas.
+Assim, as obras de infraestrutura e equipamentos de mobilidade urbana incluídas no presente Programa, visando a inclusão
+territorial, concentram-se em duas tipologias distintas: os bairros populares - geralmente consideradas ZEIS - Zonas Especiais de
+Interesse Social, no âmbito do PDDU, assim como no Centro Histórico, cuja reabilitação urbana constitui prioridade
+
+P - Estação de Recarga do Sistema BRT
+Sendo o sistema de mobilidade o maior gerador de gases de efeito estufa (GEE), com uma grande parte das emissões de CO2
+atribuída ao tráfego urbano e ao aumento dos congestionamentos, a oferta de transporte coletivo de qualidade inclui, hoje em dia,
+a necessidade de sua descarbonização. Na cidade de Salvador o setor de transporte representa 65% das emissões de gases de
+efeito estufa (GEE).
+(i)Solução Proposta
+Estando a Cidade implantando o sistema BRT - Bus Rapid Transit, em vias exclusivas, oferece-se a oportunidade de incluir a
+utilização de ônibus elétricos na frota, inicialmente na ordem de 30% (trinta por cento), face aos elevados custos e às necessidades
+de adequação dos contratos de serviço vigentes.
+Uma das formas de reduzir o custo, evitando onerar o passageiro, é a realização, ainda que parcial, do investimento inicial em
+ativos por parte do poder público. É o que optou por fazer a Prefeitura, responsabilizando-se desde já pela implantação da Estação
+de Recarga do BRT.
+O projeto abrange os Trechos 1, 2 e 3 do BRT, assim como os corredores transversais Orlando Gomes - 29 de março e Gal Costa
+- Pinto de Aguiar, abrangendo 21 linhas de BRT e BRS, parte delas com veículos articulados, totalizando uma frota de 276 ônibus.
+Serão impactados, diretamente, cerca de 350 mil habitantes (Mapa 1).
+A unidade será implantada na Estação de Transbordo do Iguatemi, uma localização estratégica, junto ao segundo maior ponto de
+transbordo para os destinos de deslocamentos diários (menos apenas que o Terminal da Lapa), alcançando quilometragem ociosa
+dos ônibus próxima a zero.
+(ii) Resultado Esperado
+A descarbonização do Sistema BRT está em linha com os compromissos ambientais da Prefeitura de Salvador em relação às
+medidas de combate aos efeitos das mudanças do clima. Com a implantação do Sistema BRT utilizando ônibus elétricos -
+inicialmente em 30% da frota - começa-se a promover uma redução progressiva da geração de CO2 e sinaliza-se a decisão de
+promover a progressiva descarbonização de toda a frota de transporte urbano da Cidade.
+(iii) Sustentabilidade
+Implantada pela Prefeitura, a estação de recarga representa a introdução do veículo elétrico no sistema de transporte coletivo por
+ônibus na Cidade de Salvador, devendo o ativo da infraestrutura de recarga ser incorporada à concessão vigente para viabilizar a
+modicidade tarifária, em benefício dos usuários.
+A grande vantagem da eletrificação da frota está no longo prazo de operação dos veículos elétricos, por possuir menor demanda
+de manutenção, menores custos operacionais e de consumo. Por outro lado, há uma necessidade de mais elevado investimento
+inicial - a cargo dos concessionários - pois os veículos, por necessitarem de baterias, custam bem mais (R$2,15 milhões/unidade)
+que os modelos diesel (R$800 mil/veículo).
+Todo o investimento realizado pelo concessionário operador do sistema é repassado ao passageiro através do valor da tarifa. A
+modicidade tarifária será alcançada através dos baixos custos operacionais e de consumo dos veículos elétricos. Isto, somado ao
+investimento na infraestrutura de recarga realizado pela Prefeitura, reduz o peso dos investimentos iniciais pelos operadores,
+tornando mais atrativa a possibilidade de expansão da frota elétrica da cidade. Iniciada, é um caminho sem volta no sentido da
+modernização da frota e do controle de emissões de gases de efeito estufa (GEE).
+O inventário dos GEE indica que o transporte é o principal vilão na geração desses gases no ambiente urbano de Salvador,
+respondendo por 65% do total.
+Todo o investimento realizado pelo concessionário operador do sistema é repassado ao passageiro através do valor da tarifa. A
+modicidade tarifária será alcançada através dos baixos custos operacionais e de consumo dos veículos elétricos. Isto, somado ao
+investimento na infraestrutura de recarga realizado pela Prefeitura, reduz o peso dos investimentos iniciais pelos operadores,
+tornando mais atrativa a possibilidade de expansão da frota elétrica da cidade. Iniciada, é um caminho sem volta.
+
+P - Teleférico do Mané Dendê
+(i) Solução Proposta
+Cidade de relevo movimentado - marcada por vales e cumeadas, Cidade Alta e Cidade Baixa - Salvador demanda atenção
+especial às questões de micromobilidade, particularmente, após a definição do sistema de transporte de massa, com a operação
+do metrô - linhas 1 e 2; a implantação do BRT Lapa-Iguatemi/Pituba e do VLT Subúrbio-Comércio, ambos em execução.
+Trata-se, portanto, agora, da nova prioridade setorial. Os bairros populares - concentrados nas regiões do "Miolo", do Subúrbio e
+da Liberdade-São Caetano - agrupando a área de seis das dez Prefeituras-Bairro da Cidade, constituem o foco principal dessa
+ação.
+O teleférico é uma das alternativas tecnológicas disponíveis, ocorrendo determinadas condições - áreas íngremes, declividades
+variáveis e ocupação irregular - para que a micromobilidade seja cuidada. Várias cidades do mundo e em especial da América do
+Sul têm recorrido a esta solução, a exemplo da Cidade do México, La Paz (Bolívia) e Medellín (Colômbia).
+O percurso abrangerá uma extensão de 3.900m, envolvendo a implantação de 26 torres para atender a três estações: Alto da
+Terezinha, Pirajá e Campinas, esta última na Linha 1 do Metrô, fazendo a integração modal. Inicialmente serão instaladas 89
+cabines, com capacidade para dez passageiros cada, estimando-se uma capacidade de transporte de 60.000 passageiros/dia;
+posteriormente serão instaladas mais 67 cabines, ampliando a capacidade de transporte para 105.000 passageiros/dia.
+(ii) Resultado Esperado
+
+
+Página: 9
+
+O principal resultado será a quebra do isolamento em que vive a população de mais de 70.000 pessoas da bacia do rio Mané
+Dendê, melhorando significativamente a articulação dessa região com o restante da cidade. A estes se acrescenta o benefício a
+mais 31.700 habitantes do bairro de Pirajá, já na Cidade Alta. Indiretamente toda a população do Subúrbio (cerca de 700.000
+habitantes) deverá ser beneficiada, utilizando o teleférico para chegar mais rápido aos polos de emprego do Centro Histórico e do
+Centro Moderno (região da Av. Tancredo Neves), reduzindo as distâncias e os tempos de viagem diária de ida e volta.
+Estima-se também, secundariamente, uma demanda turística, pelas características do meio de transporte, o descortínio da Baía de
+Todos os Santos e a visão sobre os Parques de São Bartolomeu e Pirajá.
+O projeto está em conformidade com o Programa de Melhoria da Microacessibilidade Vertical e entre Cumeadas, constante do
+PLANMOB. Trata-se de um projeto inédito em Salvador, cujo bom desempenho deverá levar à adoção de outras iniciativas
+semelhantes. Trata-se também de modal elétrico, contribuindo para reduzir a emissão de GEE, os gases de efeito estufa,
+predominantemente oriundos, em Salvador, do sistema de circulação veicular.
+O Teleférico do Mané Dendê resulta - assinale-se - do processo participativo ocorrido na área em 2016, quando das discussões
+com a população do projeto de urbanização e saneamento ambiental da bacia, obra em execução, financiada pelo BID. É, portanto
+, um investimento complementar.
+(iii) Sustentabilidade
+Os estudos de viabilidade econômica estão sendo realizados através do BNDES, uma vez que o projeto foi selecionado em
+chamada pública promovida por essa instituição federal.
+A operação do empreendimento deverá ser privada, mediante concessão, e prevê-se integração tarifária para os passageiros que,
+adicionalmente, utilizem metrô ou ônibus na mesma viagem, tal como já é praticado no sistema de transportes coletivos de
+Salvador.
+
+P - Rua de Pedestres: Ligação Metrô-Campo da Pólvora / Baixa dos Sapateiros / Pelourinho / Comércio
+O Centro Histórico é uma área totalmente infraestruturada, contando com todos os serviços públicos necessários ao funcionamento
+de uma área urbana. Obras recentes, como a requalificação das praças do bairro do Comércio (Deodoro, Inglaterra, Cayru), da av.
+Sete de Setembro, Praça Castro Alves e Rua Chile, do Terreiro de Jesus e da rua Miguel Calmon, fazem com que a área tenha
+ganho um adequado tratamento urbanístico, com alargamento das calçadas, recuperação do pavimento e outros melhoramentos.
+A requalificação da rua Miguel Calmon, por exemplo, foi feita com base no modelo das "ruas completas" e acompanhada pela WRI
+Cidades (wribrasil.org.br/). Novas atividades também já estão aí se instalando.
+E preciso criar, agora, uma nova dinâmica urbana. Com esse objetivo a Prefeitura está cuidando de implantar ruas de pedestres,
+estimulando a mobilidade ativa, a caminhabilidade adequada ao espaço físico, cultural, histórico e arquitetônico do lugar.
+A estratégia é integrar o transporte coletivo de alta capacidade, a partir da Estação da Lapa - o maior terminal urbano do país, com
+serviços de ônibus e metrô - e a Estação do metrô no Campo da Pólvora com o tecido urbano do Centro Histórico stricto sensu.
+Pelo
+relevo, estas distâncias parecem grandes, mas não ultrapassam entre 400m e 800m, distância idêntica à que habitualmente se
+percorre a pé no interior de um shopping center.
+A área é também servida por ascensores públicos - uma marca característica da Cidade - como o Elevador Lacerda e os Planos
+Inclinados Gonçalves e Pilar, rede que se ampliou agora com a recuperação do Elevador do Taboão, abandonado havia mais de
+meio século.
+(i) Solução Proposta
+O presente Programa prioriza, como primeira iniciativa nesta área, a ligação da Estação Metrô Campo da Pólvora com o núcleo do
+Centro Histórico. Consiste na criação de uma saída do Metrô para a Baixa dos Sapateiros, o Pelourinho e o bairro do Comércio,
+criando um percurso exclusivo para pedestres.
+O projeto significa corrigir os desníveis e adequar os cruzamentos para reduzir o esforço físico e dar segurança ao transeunte. Isto
+será feito mediante a construção de um túnel exclusivo para pedestres, com início na plataforma de embarque da estação do Metrô
+no Campo da Pólvora, com uma saída na Baixa dos Sapateiros, ainda na Cidade Alta, e outra diretamente no bairro do Comércio,
+já na Cidade Baixa.
+As pessoas que pelo metrô chegarem à Baixa dos Sapateiros, na interseção com a Ladeira do Prata, terão a opção de acessar o
+platô do Centro Histórico por meio de um novo ascensor público, a ser instalado bem em frente, conformado por escadas rolantes -
+para permitir fluxo contínuo de transeuntes - que será implantado na Ladeira do Pax, ao longo da lateral do antigo cinema.
+As pessoas que queiram ir direto ao bairro do Comércio não utilizarão a saída Baixa dos Sapateiros e continuarão pelo túnel até o
+sopé da Ladeira da Montanha em um percurso feito por esteiras rolantes, com duração total de apenas quatro minutos.
+(ii)Resultado Esperado
+A Baixa dos Sapateiros é uma tradicional rua de comércio popular de Salvador, um marco de referência da Cidade, cantada na
+música por Ary Barroso. Trata-se, pois, de assegurar acesso a um importante ponto de origem e destino de pessoas -
+trabalhadores, consumidores, turistas - que, com isto, ganhará importante suporte para a sua reabilitação urbana, social e
+econômica.
+Com o uso do novo ascensor - integrante do projeto - as pessoas chegarão ao Cruzeiro de São Francisco e Terreiro de Jesus, e
+daí ao Pelourinho ou, em sentido inverso, à Praça da Sé e Praça Municipal, todas no coração do Centro Histórico, área tombada
+pelo IPHAN e reconhecida pela UNESCO como Patrimônio da Humanidade.
+Dessa forma, teremos facilitado o fluxo de turistas, mas também a criação de melhores condições para que a população local
+possa frequentar mais intensamente o Centro Histórico, cuja revitalização tem sido incentivada.
+Para promover o repovoamento do Centro Histórico a Prefeitura vem desenvolvendo importante projeto habitacional para o bairro
+do Comércio, envolvendo o retrofit dos casarões antigos de vários quarteirões (para cerca de 900 unidades habitacionais), cujos
+futuros moradores serão beneficiários diretos desta ligação pedonal.
+O projeto representará uma grande contribuição e provocará um forte impacto positivo - social e econômico - no Centro Histórico
+de Salvador.
+(iii) Sustentabilidade
+
+
+Página: 10
+
+Estão em andamento os estudos relativos à gestão do equipamento. Em princípio deverá ser administrado pela própria companhia
+concessionária do metrô, uma vez que terá efeito direto na atração de novos passageiros, constituindo-se de fato em uma saída do
+metrô.
+O novo ascensor público, na Ladeira do Pax, tanto poderá ter sua administração integrada com a do túnel de pedestres como
+poderá funcionar autonomamente, como mais um equipamento do gênero, administrado pela Prefeitura, sendo que os passageiros
+do metrô poderão contar com os benefícios da tarifa integrada.
+Espera-se a circulação inicial de cerca de 75.000 pessoas/mês, devendo chegar rapidamente a até 150.000.
+
+P - Requalificação do Elevador Lacerda
+O Elevador Lacerda constitui um dos mais importantes e marcantes ícones de Salvador, sendo mundialmente reconhecido como
+um marco da Cidade e um de seus principais cartões postais. Em 8 de dezembro de 2018, homenageando os 145 anos de sua
+inauguração, o Google publicou na versão brasileira da página de seu motor de busca um doodle com a imagem do Elevador.
+Com frequência as cidades turísticas contam com uma torre. A torre de Salvador é o Elevador Lacerda. Destacando-se por sua
+singularidade, ela se desenvolve entre a Praça Cayru, na Cidade Baixa e a Praça Municipal, na Cidade Alta, tendo ganhado essa
+configuração por conta da solução arquitetônica e de engenharia adotada em sua construção, com duas torres de elevadores, uma
+incrustrada na encosta, a outra projetada para o espaço, interligadas por uma passarela de 38 metros de extensão.
+Integrante do sistema de transporte público da cidade de Salvador, trata-se do primeiro elevador urbano do mundo. Em 8 de
+dezembro de 1873, quando a primeira torre foi inaugurada, era o elevador mais alto do mundo. A estrutura atual de 1930 tem 73,5
+metros de altura.
+Não se trata, portanto, de uma torre decorativa, mas de um equipamento funcional, parte integrante do sistema de mobilidade
+urbana, possibilitando o acesso fácil e rápido entre as Cidades Alta e Baixa.
+O Elevador Lacerda chega a transportar 900 mil passageiros por mês, com uma média de 28 mil pessoas por dia ao custo de R$0,
+15 por passageiro, num percurso com 27 segundos de duração. Em 16 de janeiro de 2019, o Elevador bateu seu recorde de
+viagens em um único dia, com 33.850 passageiros. A medida em que avança o programa de Revitalização do Centro Histórico
+esse número de passageiros tende a se elevar significativamente.
+Às vésperas do seu sesquicentenário, o Lacerda - nome herdado do seu construtor e incorporador, Antônio Francisco de Lacerda -
+está a requerer ampla requalificação e modernização, além de cuidados estruturais.
+Hidráulico até 1906 - quando foi eletrificado - conta atualmente com quatro cabines que comportam 32 passageiros cada uma e
+teve a última revisão de todo o seu maquinário elétrico e eletroeletrônico realizada em 1997. Foi tombado pelo Instituto do
+Patrimônio Histórico e Artístico Nacional (IPHAN), em 7 de dezembro de 2006.
+(i) Solução Proposta
+O novo projeto tira partido da função diferenciada do equipamento ao promover a integração entre as Cidades Alta e Baixa -
+corrigindo o desnível natural existente entre a Praça Municipal e a Praça Cayru, na falha geológica de Salvador - possibilitando
+uma experiência singular.
+Os trabalhos de engenharia corrigirão problemas decorrentes do tempo de construção e uso, inclusive a contenção de infiltrações
+na torre incrustada na encosta e a modernização dos sistemas mecânicos e elétricos. O projeto arquitetônico, respeitando as
+condições de edificação tombada pelo IPHAN como patrimônio nacional, cuidará no sentido de modernizar as instalações, criar
+mais transparência visual nos corredores e promover melhor aproveitamento dos espaços, tanto na estação superior quanto na
+inferior. O projeto de urbanismo cuidará da adequação da via e calçada em frente à Praça Cayru, para dar segurança ao pedestre
+na travessia à saída do equipamento, assim como facilitar o acesso a veículos de turismo.
+O projeto museológico, uma inovação, terá duas dimensões: uma na própria área do edifício do elevador, ampliando sua
+atratividade turística; outra na visitação ao Memorial do Elevador Lacerda e ao Centro de Visitantes que será instalado em prédio
+anexo, na estação da Praça Cayru.
+Passará a ser adotado sistema eletrônico de bilhetagem e venda antecipada, on-line, das passagens, visando modernizar o
+equipamento, melhorar a eficiência e reduzir custos operacionais.
+(ii) Resultado Esperado
+A requalificação proporcionará uma valorização ainda maior do Elevador Lacerda como atrativo turístico e local de visitação (daí o
+acréscimo do Memorial com a sua história e evolução), atraindo grande número de novos passageiros. Por sua vez, a
+movimentação turística na área provoca o surgimento de novos negócios e atividades, originando a geração de novos empregos e,
+de forma recorrente, traz mais passageiros para o Elevador e maior fluxo de pessoas para os seus arredores, sejam elas turistas,
+moradores da Cidade ou trabalhadores do Centro Histórico. De acordo com a demanda, poderá ser estendido o horário de
+funcionamento, atualmente das 07 às 22h, de segunda a sexta-feira, e das 07 às 19hs, aos sábados, domingos e feriados.
+Gerando um fluxo em que o Elevador Lacerda alimenta e é alimentado, em um virtuoso movimento circular, esta nova dinâmica
+contribui para a sustentabilidade do equipamento, assim como provoca um impacto positivo direto na dinamização de toda a área
+do entorno, tanto na Cidade Alta quanto na Cidade Baixa.
+Destaque-se, aliás, que a Praça Cayru tem sido transformada em um grande polo turístico, na medida em que, ao Mercado Modelo
+, à rampa do Mercado, à Igreja da Conceição da Praia e ao Terminal Turístico Náutico de Salvador foram acrescidos, nos últimos
+anos, a Cidade da Música da Bahia - um centro cultural de padrão internacional -, a Casa das Histórias de Salvador e Arquivo
+Público Municipal (em conclusão), o DOCA 1 (incubadora de economia criativa), o Hub Salvador (incubadora de base tecnológica),
+o Terminal de Cruzeiros Marítimos de Salvador, e está programado o aproveitamento do histórico e singular Forte de São Marcelo
+para instalação do Aquário Municipal.
+Na Cidade Alta, por sua vez, no entorno da Praça Municipal, encontra-se em expansão o Museu da Misericórdia, concentram-se
+hotéis de alto padrão (Fasano, Fera Palace) e está em implantação um centro gastronômico no Palacete Tira Chapéu.
+
+
+Página: 11
+
+S - ARTICULAÇÕES COM A ANTIGA ESTRADA DO DER-BA
+A antiga "Estrada do DER-BA", também chamada de "Estrada da Base Naval de Aratu", ou "BA-528" ainda não ganhou um nome
+de avenida, mas no Plano Diretor de Desenvolvimento Urbano (PDDU) é, do ponto de vista viário, uma Via Arterial I - a mais
+importante depois das vias expressas - e para aí está prevista a implantação de um futuro trecho do BRT transversal que vem da
+Orla Atlântica, pela Av. 29 de Março, até chegar ao Subúrbio. Do ponto de vista do uso do solo, trata-se de uma Centralidade
+Linear Municipal.
+Localizada no extremo Norte do Município, a chamada "Estrada do DER-BA" interliga a BR-324 com a região do antigo Subúrbio
+Ferroviário (hoje a ferrovia não existe mais), uma das áreas mais pobres da Cidade. A via dá acesso também ao sistema
+metroviário, que circula paralelo à BR-324. Esta foi a região selecionada pela Prefeitura para concentrar seus investimentos em
+articulações viárias para dar acesso a bairros isolados e realizar seu objetivo de inclusão territorial.
+Atualmente, há falta de conexão entre os bairros do Subúrbio Ferroviário entre si e destes com o sistema viário estruturador da
+Cidade, que se apoia quase exclusivamente na sobrecarregada Av. Afrânio Peixoto (Suburbana), acompanhando a orla da Baía de
+Todos-os-Santos. Trata-se de região onde se registram as maiores densidades demográficas da Cidade.
+Estas ligações integram o Plano de Mobilidade Urbana Sustentável de Salvador - PlanMob Salvador, elaborado em 2017, e
+constituem entradas e saídas para dar acesso a diversos bairros populares, como se indicará adiante.
+Já em 2015 a CONDER - Companhia de Desenvolvimento Urbano do Estado da Bahia houvera desenvolvido o anteprojeto de
+duplicação do trecho inicial da BA-528, compreendido entre a BR-324 (na altura do bairro de Águas Claras) e a Av. São Luís (em
+Paripe), com extensão aproximada de 7 km, contemplando a implantação do sistema BRT. Foram então previstas sete interseções
+ao longo do trecho, com a finalidade de interligá-la aos bairros adjacentes. Por sua relevância, a Prefeitura selecionou dentre estas
+as interseções 2, 3 e 4, para uma primeira intervenção viária na área.
+
+P - Articulação com o Hospital do Subúrbio
+(i)Solução proposta
+Existente desde 2010, o Hospital do Subúrbio é um hospital geral público, estadual, de grande importância social, prestando
+serviços de urgência e emergência para pacientes adultos e pediátricos, em diversas especialidades, nas áreas de clínica médica e
+cirúrgica, conta com 373 leitos e uma equipe de 1.684 funcionários. Sendo um equipamento público de saúde de grande porte,
+constitui-se em polo gerador de tráfego, com grande fluxo de veículos e pessoas, o que justifica a priorização da implantação
+dessa interseção.
+Além do acesso fluido à unidade de saúde, evitando congestionamentos, a interseção atende também aos conjuntos Paraguari I e
+II, que somam 1.480 unidades habitacionais.
+Essa Interseção é composta de cinco eixos viários, tem 1.615m de extensão total, sendo 50m de trecho subterrâneo, em trincheira,
+que cruza transversalmente à BA-528 e 1.565m de vias em superfície. (Mapa 2)
+(ii)Resultado esperado
+Condições adequadas de acesso ao Hospital do Subúrbio, única unidade geral de saúde de grande porte em toda a região Norte
+da Cidade e acesso adequado aos conjuntos habitacionais Paraguari I e II, com 1.480 habitações, além de ocupações informais na
+área.
+(iii)Sustentatbilidade
+A nova articulação viária se incorpora a malha viária básica da cidade, passando sua conservação e operação a serem
+responsabilidade dos órgãos especializados da Administração Municipal, a saber, as secretarias de Infraestrutura (manutenção) e
+de Mobilidade (trânsito e tráfego).
+
+P - Articulação com as Ruas das Pedrinhas e Franco Velasco
+(i)Solução proposta
+A Rua das Pedrinhas se configura como importante via de acesso tanto para o bairro de Coutos quanto para o de Periperi - dois
+dos mais importantes bairros do Subúrbio - interligando a "Estrada do DER-BA" com a Av. Afrânio Peixoto (Suburbana). Além do
+acesso à Rua das Pedrinhas, essa interseção dá acesso também à Rua Franco Velasco, no bairro de Coutos. Considerou-se a
+necessidade de promover a integração e atender ao fluxo gerado por ambos os bairros, muito populosos, estimulando-se a
+interrelação entre eles.
+Essa Interseção é composta de cinco eixos viários com 690m de extensão total, sendo 40m de trecho subterrâneo, em trincheira,
+que cruza transversalmente a BA-528 e 650m de vias em superfície. (Mapa 3)
+(ii)Resultado esperado
+Integração do bairro de Coutos com o sistema viário básico da cidade e criação de uma nova e fluida articulação do bairro de
+Periperi. A partir da antiga "Estrada do DER-BA" estes bairros terão acesso ao sistema metroviário, cujo tramo três chega até
+Campinas, sua última estação (obras em fase de conclusão).
+(iii)Sustentabilidade
+A nova articulação viária se incorpora a malha viária básica da cidade, passando sua conservação e operação a serem
+responsabilidade dos órgãos especializados da Administração Municipal, a saber, as secretarias de Infraestrutura (manutenção) e
+de Mobilidade (trânsito e tráfego).
+
+P - Articulação com a Via Bronze
+(i)Solução proposta
+A articulação com a Via Bronze dá acesso tanto aos bairros de Nova Brasília de Valéria e Fazenda Coutos, assim como ao Centro
+Industrial de Aratu - CIA. A presença de um grande supermercado atacadista nessa interseção é responsável por um grande fluxo
+de pessoas e veículos na área, provocando constantes engarrafamentos e risco de acidentes, bem como demonstrando o caráter
+urbano e arterial da antiga "Estrada do DER-BA".
+Essa Interseção é composta por cinco eixos viários, tendo 1.790m de extensão total, sendo 70m de trecho elevado, em viaduto
+posicionado longitudinalmente na antiga "Estrada do DER-BA", mais 310m de trecho em terra armada e 1.410m de vias em
+superfície. (Mapa 4)
+
+
+Página: 12
+
+(ii)Resultado esperado
+Estarão sendo atendidos os bairros de Nova Brasília de Valéria e Fazenda Coutos, além de proporcionar condições adequadas à
+integração com o Centro Industrial de Aratu (CIA), local de trabalho de parcela da população.
+Com o avanço, ao longo do tempo, das ocupações irregulares para fins habitacionais, os limites entre o CIA e a zona residencial
+ficaram imprecisos, uma vez que a população ocupou áreas antes destinadas ao uso industrial. A articulação com a via Bronze
+permite melhorar as condições de acesso para a população residente.
+(iii)Sustentabilidade
+A nova articulação viária se incorpora a malha viária básica da cidade, passando sua conservação e operação a serem
+responsabilidade dos órgãos especializados da Administração Municipal, a saber, as secretarias de Infraestrutura (manutenção) e
+de Mobilidade (trânsito e tráfego).
+
+S - EQUIPAMENTOS URBANOS
+Cidade terciária - e turística por excelência - Salvador vem buscando criar novos atrativos, com a incorporação de novos
+equipamentos urbanos, beneficiando a sua população. O Programa inclui o Centro de Interpretação da Mata Atlântica, um novo
+equipamento urbano.
+O Programa Salvador Capital da Mata Atlântica envolveu, nos últimos anos, a reabilitação do Jardim Botânico, a revitalização do
+Parque da Cidade e a implantação de novos parques urbanos, entre os quais o Parque dos Ventos, o Parque da Ilha dos Frades, o
+Parque da Pedra de Xangô, o Parque da Lagoa do Arraial dos Retiros, o Parque da Lagoa dos Pássaros e o Parque Marinho da
+Barra.
+O novo PDDU ampliará as áreas de preservação para 19 milhões de metros quadrados. Para impedir que essas áreas sejam
+devastadas ou invadidas, é preciso dar-lhes função social, tarefa a que a Prefeitura tem se dedicado com afinco. Neste sentido,
+foram elaborados o Plano Municipal de Conservação e Recuperação da Mata Atlântica e o Plano Diretor de Arborização Urbana.
+De forma complementar, foram aprovados o Manual Técnico de Arborização Urbana, elaborados manuais de plantio e cartilhas
+diversas. Todos focados em espécies nativas da Mata Atlântica.
+O Centro de Interpretação da Mata Atlântica dá seguimento à implementação desta política, visando atender a novas necessidades
+decorrentes, inclusive, do seu êxito e consolidação.
+
+P - Centro de Interpretação da Mata Atlântica
+Com o estabelecimento do Programa de Conservação e Recuperação da Mata Atlântica, no qual se incluem os diversos parques
+urbanos reabilitados, revitalizados e implantados, além da política de arborização urbana, incrementa-se a demanda pública e
+privada por mudas e impõe-se a necessidade de ampliar a sua produção como instrumento para assegurar a diretriz de utilização
+exclusiva de espécies da Mata Atlântica.
+O Centro de Interpretação da Mata Atlântica vem responder a essa demanda, ao mesmo tempo em que se constitui em importante
+elemento de educação ambiental.
+(i) Solução Proposta
+O projeto promove a requalificação de um precário e limitado horto municipal pré-existente, mas com área total de 13,8 mil m², em
+gleba localizada na Península de Itapagipe, próxima à Colina Sagrada do Bonfim, para sua transformação em horto e escola de
+jardinagem, destinado à produção, ensino e cultivo de plantas para uso no paisagismo da Cidade, integrado a espaços de lazer e
+visitação pública.
+A capacidade de produção e preparo de mudas será ampliada de 2.000 para 12.000 mudas, além de dotar o espaço de novas
+edificações modulares para salas de aulas, biblioteca, café, mirante, espaço administrativo, além de um módulo para pequenos
+eventos musicais. O acesso principal também foi replanejado e contará com o restauro do portão original e iluminação especial
+através de balizadores especialmente desenhados.
+As edificações modulares serão implantadas em disposições escalonadas paralelamente às curvas de nível onde havia menor
+declividade no terreno (entre 10 e 15%), de forma que todo o projeto seja facilmente acessado e o volume de cortes e aterros
+fossem reduzidos.
+O sentido da declividade favorável combinada às perspectivas do mar, orientou de maneira natural o projeto no eixo noroeste-
+sudeste permitindo ventilação cruzada natural e facilidade de circulação no conjunto de edificações do horto.
+O sistema de leiras foi proposto em escadaria no fundo de cada módulo, criando uma perspectiva agradável e vencendo a
+declividade média do terreno, possibilitando que as mudas sejam acessadas de maneira eficiente.
+(ii) Resultado Esperado
+Com o novo horto busca-se suprir a demanda incrementada por mudas de espécies nativas da Mata Atlântica para atender às
+necessidades do paisagismo da Cidade.
+Cria-se, adicionalmente, um espaço de educação ambiental para estudantes e a população em geral, além da valorização do
+espaço propiciar o surgimento de um novo parque urbano, especializado na produção de mudas e difusão da cultura de
+conservação e recuperação da Mata Atlântica no território do Município.
+(iii) Sustentabilidade
+Trata-se de um equipamento público, destinado a atender a necessidades da própria Administração Municipal, ao qual se
+adicionou funções de lazer e educação ambiental. O Horto destina-se a suprir de mudas os órgãos executores de obras da
+Prefeitura - a SEINFRA (infraestrutura), a SUCOP (obras públicas) e a SEMAN (manutenção urbana) - além de atender, subsidiaria
+e eventualmente, à demanda privada. Também apoiará as ações da SECIS (sustentabilidade e resiliência) no seu programa de
+hortas e pomares urbanos.
+Exercerá função de produção própria, ante a inexistência de oferta local de mudas de espécies da Mata Atlântica, mesmo no setor
+privado, o que tem levado a Prefeitura a adquiri-las, para atender suas necessidades e sua política de fomento, fora do município e
+até do próprio Estado, incorrendo em elevados custos e dificultando a reposição.
+Constitui-se, desta forma, em uma unidade operacional da própria Secretaria de Sustentabilidade e Resiliência, devendo a sua
+manutenção ser feita com recursos orçamentários e receitas obtidas com eventual comercialização de mudas e outras atividades
+desenvolvidas no local.
+
+
+Página: 13
+
+C - QUALIFICAÇÃO PROFISSIONAL E TRANSFORMAÇÃO DIGITAL
+A estratégia de construção da nova matriz econômica do Município de Salvador requer, de forma conjugada, a atração de
+empreendimentos e a formação de recursos humanos. É nesta linha de ação que se insere o Programa de Qualificação
+Profissional e Transformação Digital, visando proporcionar à Cidade um salto qualitativo em relação ao perfil dos seus recursos
+humanos, um passo essencial e absolutamente indispensável para superar o gargalo estrutural com que se defronta. É
+indispensável realizar um grande esforço administrativo para, em definitivo, incorporar expressivo contingente populacional ao
+mercado de trabalho e ao processo de desenvolvimento socioeconômico.
+É uma atividade necessariamente lenta, mas contínua e persistente. Estudo recente, promovido pela Prefeitura no seu processo de
+planejamento, deixou perceber que o Turismo - um dos pilares atuais da economia local - é um segmento capaz de fazer a
+transição do emprego, uma vez que, em sua expansão, absorve recursos humanos tanto qualificados como desprovidos de
+competência específica, no conjunto das atividades tanto formais como informais que o setor envolve. É indispensável, pois, que o
+Turismo esteja presente nesta estratégia.
+Paralelamente, algumas atividades econômicas selecionadas precisam ser atraídas e estimuladas para constituir a base da nova
+matriz econômica local, de acordo com as potencialidades identificadas, para gerar postos de trabalho de qualidade e com
+melhores níveis de remuneração. Para tanto, a disponibilidade de pessoas qualificadas constitui um dos maiores desafios a serem
+vencidos.
+A Prefeitura tratará a formação de recursos humanos como um incentivo econômico para as empresas e as novas atividades que
+se instalarem no Município.
+A cargo da recém-criada Secretaria Municipal de Desenvolvimento Econômico, Emprego e Renda (SEMDEC), o programa envolve
+a promoção de novos negócios nas áreas de Turismo e Economia Criativa, Alta Tecnologia e Tecnologia da Informação e
+Comunicação, Logística e Indústria, além do Comércio e Serviços. Nesta direção, várias iniciativas públicas vêm sendo
+implementadas, a exemplo do Hub Salvador - uma incubadora de base tecnológica; o COLABORE - incubadora de projetos de
+impacto social e ambiental; o DOCA 1 - incubadora de economia criativa; o Salvador Digital - em parceria com o SENAI-CIMATEC;
+o Polo Logístico de Valéria. Nesta mesma linha, foi elaborado o Plano Diretor de Tecnologia da Cidade Inteligente pela Secretaria
+Municipal de Inovação e Tecnologia (SEMIT), do qual derivam múltiplos projetos, entre os quais o de Governo Digital - instrumento
+de governança eletrônica, e a implantação de uma rede de fibra ótica por toda a Cidade, mas a liderança dos investimentos de
+natureza econômica e produtiva precisa ser da iniciativa privada.
+Por outro lado, a formação e qualificação de recursos humanos não pode se dar descolada da transformação digital do mundo
+presente, onde os smartphones, os marketplaces, as maquininhas, o "pix", o e-commerce, os recursos tecnológicos em geral
+exercem papel dominante, formatando uma nova cultura, sobretudo no mundo do trabalho e dos negócios. Os novos profissionais
+precisam estar preparados para essa realidade e os atuais precisam ser reciclados.
+Serão também estimulados e desenvolvidos ambientes inteligentes na Cidade, onde o uso das novas tecnologias possa ser posto
+a serviço do desenvolvimento urbano, da melhoria da qualidade de vida da população, da melhoria do ambiente de negócios e da
+geração de novas oportunidades de trabalho para a população local.
+Unir qualificação profissional e transformação digital - projetando a Cidade para o futuro - constitui assim a principal diretriz a ser
+seguida nessa área.
+
+S - TRABALHO, EMPREGO E RENDA
+Em um município-cidade com elevadas taxas de desemprego, predomínio de população de baixa renda e nível de escolaridade
+insuficiente, mais do que em outros lugares, em Salvador a Prefeitura tem necessariamente que assumir papel estratégico e
+fundamental na capacitação e qualificação das pessoas para o mercado de trabalho, em atividades de ensino paralelas às do
+sistema de educação formal - este a cargo da Secretaria Municipal de Educação (SMED).
+Tratando-se de uma nova função pública municipal, estas atividades serão realizadas de forma mais proativa possível, visando
+alcançar tanto os que estão em busca de emprego e não o conseguem, assim como àqueles que, em face de limitações de
+diversos tipos, encontram-se no status de desalento. Para tanto, serão desenvolvidas ações tanto presenciais quanto por meio
+digital, de modo a otimizar o esforço a ser realizado. De forma paralela e complementar, o estímulo ao empreendedorismo constitui
+ação essencial, para potencializar as capacidades individuais, diante de um cenário em que o trabalho autônomo e por conta
+própria ganha importância crescente.
+Para consolidar esta nova função pública municipal e assegurar sua continuidade após a execução do Programa, será
+desenvolvida e implementada uma plataforma de gestão ampla e integrada do Produto, permitindo o seguimento de trilhas de
+aprendizagem, assim como a evolução do treinando ao longo de sua vida laboral.
+
+P - Treinar para Empregar
+Consciente de que a criação de oportunidades de trabalho e renda para as pessoas - especialmente os jovens, mulheres e negros
+- é também uma função das Prefeituras, justificando-se, portanto, como nova política pública, o Município de Salvador incluiu em
+sua agenda de trabalho uma nova função, sempre negligenciada no país, dedicada à capacitação e qualificação profissional,
+independente e paralela ao ensino formal, em relação ao qual deverá ser complementar nas faixas etárias correspondentes. Em
+Salvador haverá, a partir de agora, uma presença cada vez mais forte e ativa da Prefeitura na capacitação e qualificação das
+pessoas, com olhar especial para os segmentos de baixa renda. (Tabela 1)
+Por um lado, é preciso atender à real demanda do setor produtivo local por qualificação profissional; de outro, será preciso levar
+em conta a aptidão das pessoas e suas experiências de vida, para fortalecê-las em seus conhecimentos e sua autoestima
+profissional.
+O Programa visa também a sensibilização do empregador para que seja mais flexível no ato de contratação, substituindo a
+exigência de experiência profissional por mão de obra qualificada.
+
+
+Página: 14
+
+Com isto, objetiva-se não apenas promover a inserção das pessoas no mercado formal de trabalho, mas também, sempre e
+quando necessário, em uma ação complementar, apoiar a formação de associações e cooperativas de produtores que sejam
+capazes de fortalecer novas estruturas de produção, canais de distribuição e comercialização de bens e serviços, numa
+perspectiva de crescente descentralização dos serviços e atendimento aos que vivem hoje relegados aos azares do mercado
+informal, sem adequada proteção social.
+Atenção especial será dada à qualificação da mão de obra feminina. Liberadas dos afazeres domésticos - pela atenção dedicada
+aos filhos no âmbito da Educação Infantil - as mães serão também preparadas para desenvolver com todo esmero e competência
+as suas atividades laborais, disputando o mercado de trabalho em condições de igualdade e conquistando salários iguais aos dos
+homens.
+Serão atendidas com prioridade as famílias inscritas no CadÚnico, o cadastro dos programas sociais governamentais, inclusive os
+programas próprios da Prefeitura, buscando criar-lhes condições autônomas para elevação da renda e melhoria das condições de
+vida.
+A Administração Municipal atuará com programas desenhados sob medida, que se somarão as atividades do "Sistema S",
+especialmente o Senac e o Senai, cujas atividades serão ainda mais demandadas pelo município, junto às entidades empresariais
+que as dirigem, e que serão conveniadas em busca de atuação conjunta, planejada e integrada, visando otimizar os resultados
+para a população e a cidade, assim como com o sistema formal de ensino profissional de nível médio, público e privado.
+Do mesmo modo, buscará o Município construir parceria com o Programa Nacional de Qualificação (PNQ), tanto para atender à
+base da pirâmide social, como as novas demandas do mundo do trabalho.
+(i) Solução Proposta
+É comum a existência de projetos eventuais de capacitação e qualificação, como iniciativas isoladas, dispersas e, sobretudo, sem
+a escala necessária para provocar impacto transformador no cenário de desemprego estrutural com que convive a Cidade. Há,
+portanto, que serem contemplados segmentos específicos de ensino e de âmbito populacional e territorial no Município. Daí a
+necessidade de estruturação de um programa sólido, robusto e contínuo, cujas bases se estabelecem a partir da presente iniciativa
+.
+Do mesmo modo, os conteúdos a serem oferecidos precisam levar em conta o perfil e as perspectivas da economia local, suas
+oportunidades e possibilidades. No caso de demandas ou necessidades especificas de natureza empresarial será sempre buscada
+a construção de parcerias que envolvam, necessariamente, o compromisso de absorção dos recursos humanos preparados. Os
+pilares desta estratégia são:
+1.Tornar Salvador polo de talentos da nova economia;
+2.Fomentar novos vetores empreendedores;
+3.Promover inclusão e empregabilidade.
+Todo o processo será operado mediante sistemas digitalizados, o que permitirá gerir a carreira do cidadão. Do ponto de vista
+territorial, os sistemas permitirão que as pessoas tenham a oportunidade de buscar sua colocação o mais próximo possível do seu
+local de moradia. Os cursos serão realizados nas modalidades presencial e a distância (oferta digital) e ministrados pelos parceiros
+.
+A execução do Projeto está a cargo da Diretoria de trabalho e Empreendedorismo da SEMDEC, contando com o suporte do SIMM
+- Serviço Municipal de Intermediação de Mão de Obra e do SAC do Empreendedor, ambos integrantes da sua estrutura.
+Dentre as trilhas a serem seguidas no âmbito do programa Treinar para Empregar estão inseridas as dos segmentos Têxtil,
+Náutico, Energia Solar, Varejo Alimentício, Economia Criativa, Turismo, Indústria (segmentos específicos), Construção Civil,
+Logística, Saúde, Tecnologia e Serviços.
+Com foco no crescimento profissional e conquistas no mercado, algumas trilhas, a exemplo dos segmentos em Saúde, Logística e
+Náutica, serão oferecidos cursos em grau de complexidade diferente (básico, pleno e sênior) visando o desenvolver para crescer,
+proporcionando o crescimento do profissional dentro da sua carreira e consequentemente o planejamento de cargos, promoções e
+aumento de salário.
+Cursos de qualificação em carreiras nos Setores como Turismo e Indústria, tais como receptivo de turismo, técnico de turismólogo,
+historiador, gestão de projetos com visão sistêmica, que podem ser aplicados em diversos setores dessa nova economia, também
+serão aplicados para atender o potencial crescimento destes segmentos e os vários ramos de atividade da econômica nestes
+setores. (Tabela 2)
+Como atividade complementar insere-se o SIMM Prepara, que vem preencher uma lacuna já detectada no perfil das pessoas que
+buscam emprego por meio dessa agência pública municipal de intermediação, mas não conseguem colocação por falta de
+habilidades.
+
+P - Empreenda Salvador
+Além da capacitação, qualificação e formação stricto sensu na rota da profissionalização, de forma complementar, o programa
+dedicará especial atenção à capacitação empreendedora, com prioridade para as pessoas que já tenham alguma iniciativa ou
+atividade de negócio, mesmo e ainda que informal - seguindo firme na atenção especial às mulheres - potencializando as suas
+ações e estimulando o crescimento e a expansão.
+Neste sentido será buscada parceria prioritária com o Sebrae - para as atividades de consultoria empresarial e digitalização, e com
+banco ou cooperativa - para o atendimento com microcrédito.
+(i) Solução Proposta
+As ações de empreendedorismo estarão focadas em segmentos específicos, buscando promover a valorização, a inclusão e o
+resgate de pessoas e microempresários com potencial para o crescimento pessoal e nos negócios, fortalecendo a base da
+economia. Dentre as linhas de ação a serem promovidas destacam-se:
+Fortalecimento de Pequenos Negócios - um programa de capacitação dos empreendedores com foco na qualificação da gestão;
+Sou Salvador - um programa de capacitação de ambulantes com o objetivo de aperfeiçoá-los e organizá-los, promovendo o
+desenvolvimento pessoal e profissional;
+Empreendedorismo Feminino - um programa de ações integradas que visa garantir a promoção, resgate e fortalecimento da
+geração de renda da mulher;
+
+
+Página: 15
+
+Empreendedorismo SIMM50+ - um programa que atuará através da identificação de potencialidades, fomentará a empregabilidade
+e o empreendedorismo de pessoas acima de 50 anos;
+Acelera Salvador - um programa com o objetivo de estimular a economia circular, a economia solidária e, consequentemente, a
+economia associativa;
+A formação empreendedora deverá abranger e beneficiar 10.000 pessoas e microempresas no período de execução do Programa.
+(Tabela 3)
+(ii) Resultado Esperado
+Este Produto deverá ter como resultante maior solidez e estabilidade na base social, minimizando os impactos e as oscilações na
+renda das pessoas e microempresas, ampliando o conjunto das atividades abrangidas e, dessa forma, contribuindo para a redução
+das elevadas taxas de desemprego na Cidade e desalento das pessoas em relação às oportunidades de trabalho e renda.
+(iii) Sustentabilidade
+Com melhor preparo no nível de capacitação, na vertente do empreendedorismo, as pessoas beneficiárias estarão aptas a elevar o
+seu nível de renda pessoal e das suas famílias, terão maior resiliência ante situações imprevistas e criarão, no conjunto, um
+cenário de maior estabilidade social na Cidade, contribuindo para superar o quadro predominante de pobreza.
+
+P - Salvador Tech
+Uma plataforma aberta de capacitação. Esta é a natureza da ação Salvador Tech, visando a formação de talentos com diversidade
+de conteúdos e métodos e dotada de um sistema de inteligência capaz de conectar oferta e demanda.
+(i) Solução Proposta
+Promover a inclusão digital e social por meio da oferta de cursos gratuitos do ecossistema de tecnologia na modalidade online,
+bem como cursos básicos e informativos que auxiliam na jornada de aprendizado e de conhecimento do mercado de trabalho.
+Além disso, estabelece parcerias junto a entes públicos, privados e terceiro setor, incentivando e fomentando a cultura inovadora,
+tecnológica e empreendedora no município. (Tabela 4)
+O site https://salvadortech.salvador.ba.gov.br/, já disponibilizado e em início de atividades, apresenta as seguintes características:
+- Captura e entendimento, apoiada em inteligência de mercado;
+- Gestão dos recursos humanos da nova economia.
+(ii) Resultado Esperado
+Mesmo considerando o caráter inovador da iniciativa, a expectativa é de que se obtenha ampla adesão ao sistema, multiplicando
+os efeitos que uma estratégia de cursos apenas presenciais possa alcançar, e ainda com a adequada mensuração dos resultados,
+mediante a disponibilização de vagas e a verificação da absorção dos treinandos pelo mercado de trabalho.
+(iii) Sustentabilidade
+Contanto com a parceria de inúmeras instituições e entidades que oferecem cursos gratuitos, selecionando-os e organizando-os
+para disponibilização aos moradores da Cidade - cerca de 3 milhões de habitantes - o site por si só justifica sua existência, arcando
+a Prefeitura apenas com o seu desenvolvimento (já realizado), gerenciamento e atualização.
+
+P - Inclusão produtiva através da alfabetização digital para o desenvolvimento econômico
+(i) Solução proposta
+A situação econômica do Município requer da Prefeitura uma abordagem inovadora, proativa e ampla no sentido de preparar a
+Cidade para atrair e acolher empreendimentos, criando um ambiente de negócios receptivo e amigável para o desenvolvimento
+das diversas atividades produtivas.
+Neste sentido, impõe-se a realização do diagnóstico e construção da rota crítica para a transformação digital de setores produtivos,
+aproveitando oportunidades de inclusão produtiva por meio da conexão entre as infraestruturas físicas e digitais, com as agendas
+de desenvolvimento econômico local.
+Também é essencial o desenvolvimento de capacidades básicas para a apropriação dos serviços digitais por populações
+vulneráveis como uma ferramenta de exercício de direitos cidadãos e geração de emprego e renda através da participação nas
+oportunidades de uma economia digital.
+(ii) Resultado esperado
+Dotar a Prefeitura, através das Secretarias de Desenvolvimento Econômico, Emprego e Renda (SEMDEC) e de Inovação e
+Tecnologia (SEMIT), de instrumentos e soluções tecnológicas capazes de apoiar as atividades privadas de qualquer porte a
+avançar no processo de digitalização, enfatizando ações voltadas para a construção da nova matriz econômica da Cidade.
+(iii) Sustentabilidade
+A contribuição para o fortalecimento econômico da Cidade, promovendo maior estabilidade social por meio da geração de renda
+constitui, por si só, resultado suficiente para justificar a sua implementação.
+
+S - CIDADE INTELIGENTE
+Elaborado com recursos do PROQUALI - Programa de Requalificação Urbanística de Salvador, financiado pela CAF (Contrato n.
+CFA 010639), o Plano Diretor de Tecnologia da Cidade Inteligente (PDTCI) estabeleceu a rota para que Salvador possa se tornar
+uma moderna cidade digital. Nada mais natural que esta nova operação, constante do presente Programa, inclua ações que
+resultem na implementação do referido Plano, assegurando a eficácia das suas recomendações.
+Neste sentido, os Produtos desse Subcomponente respondem diretamente aos desafios postos pelo PDTCI considerados
+prioritários nas condições atuais.
+
+P - Implantação do Observatório Salvador
+(i) Solução proposta
+O objetivo é construir um ambiente inteligente integrado de governança, operação, monitoramento e controle, denominado
+Observatório Salvador, com gestão de sistemas e serviços digitais compartilhados, dotado de capacidade para um gerenciamento
+transversal, resiliente e sustentável.
+O Observatório deverá constituir-se em uma plataforma de gestão integrada para dotar de inteligência a Cidade, fazendo com que
+todos os dispositivos e tecnologias se conectem e que toda a infraestrutura da cidade trabalhe de forma colaborativa.
+
+
+Página: 16
+
+Deve incorporar uma solução tecnológica aberta e padronizada, horizontal (capaz de integrar soluções de diferentes fornecedores
+de cada serviço vertical, integrando diferentes tecnologias e dispositivos), interoperável (integrando diferentes tecnologias,
+dispositivos e sistemas), com escalabilidade, robustez diante de falhas, adaptabilidade à evolução tecnológica e segurança, com
+soluções aderentes aos desafios dos Objetivos de Desenvolvimento Sustentável (ODS) da Organização das Nações Unidas (ONU)
+.
+Será responsável por realizar a integração das várias tecnologias e tipos de dados necessários em uma cidade inteligente (dados
+provenientes do monitoramento de velocidade, dos smartphones, dos sensores, das câmeras, previsões meteorológicas etc.) e
+também por homogeneizar e processar todos os dados provenientes de diversas fontes e em diferentes formatos para posterior
+análise e visualização.
+(ii) Resultado esperado
+O Observatório Salvador vai promover a gestão integrada de rede e a otimização de recursos, reunindo em um mesmo local a
+infraestrutura tecnológica, a estrutura física, a estrutura de processos e de recursos humanos, com foco em uma abordagem
+colaborativa e unificada dos temas e elementos para a gestão urbana inteligente e engajamento dos cidadãos, com gerenciamento
+baseado em resultados que possibilite monitorar a cidade e reagir com rapidez a situações diversas, com decisões preditivas.
+(iii) Sustentabilidade
+O Observatório constitui peça fundamental para a sustentabilidade de todo o sistema de informatização e digitalização da Cidade,
+indispensável portanto como suporte para a boa gestão pública, o funcionamento da vida urbana e a participação da cidadania.
+
+P - Implantação do armazenamento em nuvem
+(i) Solução proposta
+Trata-se da adoção do moderno sistema de armazenamento em nuvem, incluindo todo o conjunto dos dados e informações de
+interesse da Prefeitura Municipal, do ponto de vista administrativo, e da Cidade, do ponto de vista de gestão e operação urbana.
+(ii) Resultado esperado
+Integrante do projeto Prefeitura Digital, do âmbito do PDTCI, a implantação do sistema de nuvem para armazenamento das
+informações proporcionará maior segurança e eficiência na gestão dos dados e informações da Administração Municipal.
+(iii) Sustentabilidade
+É evidente a redução de custos em que incorre a Prefeitura ao adotar o sistema de nuvem para armazenamento dos dados e
+informações que produz e a necessidade de sua operação dinâmica e interativa com os cidadãos.
+
+P - Unidade de Gestão Estratégica
+(i) Solução proposta
+Trata-se de estruturar na Prefeitura uma sólida Unidade de Gestão Estratégica, nos moldes das modernas "Delivery Units", como
+parte dos esforços para a inovação digital no setor público municipal, mediante o desenvolvimento de modelo/plataforma para
+integração e monitoramento dos Objetivos da Cidade Inteligente (OCIs), desenvolvidos no âmbito do PDTCI, que se torne
+responsável pela articulação institucional para as iniciativas que envolvem os diversos temas setoriais, a exemplo de Educação,
+Saúde, Mobilidade, Planejamento Urbano e Meio Ambiente, entre outros.
+Referida Unidade será composta por equipe dedicada, responsável por coordenar os esforços gerais para atingir os OCIs e
+monitorar o seu avanço ao longo dos anos.
+Para tanto, será necessário dotá-la tanto de infraestrutura técnica (plano estratégico com objetivos, metas, KPIs e metodologia de
+monitoramento) como tecnológica (dashboards e estratégia de interoperabilidade de dados para monitoramento dos indicadores
+estratégicos em tempo "real").
+Evitando a duplicidade de estruturas, deverá ser encorpada a Diretoria de Planejamento Estratégico, integrante da Casa Civil e já
+responsável pelo instrumento de gestão que vem sendo aplicado pela Prefeitura há três mandatos sucessivos, constituindo-se
+assim em uma experiência exitosa a ser reforçada.
+(ii) Resultado esperado
+A melhoria da eficiência da máquina pública - produzindo melhores resultados, com mais objetividade e qualidade - e a efetividade
+das políticas públicas, especialmente aquelas relacionadas com o PDTCI, melhorando o funcionamento da Cidade, com redução
+de custos e proporcionando benefícios os cidadãos.
+(iii) Sustentabilidade
+A adoção do mecanismo de gestão por conta de uma unidade de entrega dotada de recursos humanos, métodos e tecnologias
+dedicadas à eficiência e eficácia das políticas públicas implementadas, em caráter estratégico e prioritário, pelo Poder Público
+Municipal, constitui passo fundamental para consolidar a rota estratégica estabelecida até os 500 anos da Cidade, em 2049,
+mediante a promoção de um processo sustentável de desenvolvimento.
+
+P - Estratégia GovTech Municipal
+(i) Solução proposta
+Constitui no diagnóstico e desenvolvimento de estratégia e plataforma orientada a facilitar a relação entre setor público e privado
+para gerar soluções para a população baseadas no uso de tecnologia, inovação e dados.
+Poderá incluir o desenvolvimento de um espaço para interação entre os distintos atores do ecossistema de inovação para
+colaborar na construção de soluções aos desafios públicos de Salvador, com potencial de geração de valor para outras cidades.
+Eventualmente, poderá ser estabelecida parceria para aproveitamento do potencial do Hub Salvador, fortalecendo o seu papel.
+(ii) Resultado esperado
+Utilizar o desenvolvimento tecnológico da Prefeitura e da Cidade para disponibilizar serviços e ambientes em que a população
+também se coloque como ator das políticas públicas municipais em benefício da Cidade, mediante a contínua criação de novas e
+inovadoras soluções.
+(iii) Sustentabilidade
+A importância social deste produto constitui, por si só, elemento fundamental para justificar a sua realização, na medida em que
+põe toda a capacidade tecnológica da Prefeitura a serviço e à disposição da população.
+
+
+Página: 17
+
+P - Digitalização de Serviços em Áreas Prioritárias
+(i) Solução proposta
+Consiste no mapeamento, redesenho e digitalização de serviços públicos prioritários mediante o uso das infraestruturas
+habilitantes construídas no âmbito do PROQUALI - Infovias.
+Os setores administrativos priorizados são:
+- Educação - pela importância estratégica de que se reverte, no país em geral, mas em Salvador particularmente, para assegurar
+ensino de qualidade, visando romper o cenário de despreparo das pessoas para o trabalho e para a vida.
+- Saúde - pelo atendimento necessário a toda a população, especialmente a imensa camada SUS dependente.
+- Receita - por sua relevância como base para a sustentabilidade de todas as demais ações administrativas da Prefeitura.
+No caso da Saúde será preciso considerar a interface com o DATASUS, do Ministério da Saúde.
+(ii) Resultado esperado
+Estimular o processo de digitalização - não confundir com informatização - dos serviços da Prefeitura, de modo a possibilitar a
+qualificação dos mesmos, com maior eficácia e efetividade, através da simplificação dos procedimentos de solicitação, oferta e
+acompanhamento dos serviços, com foco na universalização do acesso e no autosserviço, somado a eliminação de formalidades e
+de exigências burocráticas à prestação dos serviços públicos.
+(iii) Sustentabilidade
+Com este Produto dá um largo passo no sentido de melhorar significativamente o desempenho de sua máquina pública em setores
+selecionados como estratégicos para atender a população - Educação e Saúde - e para sustentabilidade de suas atividades -
+Receita.
+
+P - Plataforma de Gestão do Programa de Capacitação
+Constitui a base tecnológica necessária e indispensável para dar suporte a todo o programa de capacitação, assegurando sua
+eficácia e efetividade, sob pena de continuar sendo um conjunto de cursos isolados e dispersos, além de sem condições de fazer-
+se o acompanhamento da vida laboral dos beneficiários.
+(i) Solução Proposta
+A construção da plataforma incluirá a aquisição de equipamentos de informática, desenvolvimento de sistemas, aquisição de
+softwares e a preparação de ambiente físico para a central de operação e gerenciamento do Programa.
+Recursos inovadores serão incorporados e utilizados visando alcançar os impactos resultados desejados, conforme descritos nos
+produtos do Programa.
+Aspecto relevante na estratégia é a gestão de carreira do cidadão, permitindo que seja acompanhada a sua evolução ao longo da
+vida laboral. Para isto será indispensável a implementação da plataforma de gestão do programa de capacitação.
+Essa plataforma de gestão deve conter as seguintes funcionalidades:
+- Ambiente virtual de aprendizado, com trilhas adaptativas para que os alunos recebam conteúdo personalizado com base no seu
+desempenho, data ou classificação
+- Ensino adaptativo, com Ferramentas de ensino learning manager system (LMS). Deve haver integrações com API do Google
+Classroom, Microsoft Teams, Zoom, Adobe e outras ferramentas de aprendizagem centralizado.
+- Sistema de avaliação, com banco de questões, gestão de avaliações e controle de todo o processo.
+- Engajamento do aluno e customer experience, incluindo chat / comunicação interna, fórum de discussão, Transmissão ao vivo,
+gamificação e modulação para conteúdos exclusivos.
+- Gestão de performance e relatórios, a partir do banco de dados de alunos potenciais e empresas parceiras, tudo integrado com a
+estrutura tecnológica municipal.
+(ii) Resultado Esperado
+Além de possibilitar e permitir a gestão de todo o programa, a plataforma criará as condições de perenidade para o mesmo,
+assegurando o tratamento dos dados relativos aos cursos oferecidos, às pessoas beneficiárias, a aderência entre cursos e vagas,
+a evolução dos cursandos e o impacto socioeconômico na Cidade.
+O recurso tecnológico constituirá também elemento fundamental para a avaliação do próprio programa de capacitação,
+possibilitando eventuais ajustes ou correções de rumo, identificando e mensurando a demanda - individual e do mercado -
+indicando a necessidade da oferta de novos cursos e possibilitando atuação eficiente.
+(iii) Sustentabilidade
+Ação tipicamente pública, a implantação, operação e manutenção da plataforma de gestão se justifica pelo forte impacto social - e
+também econômico - que uma eficiente e efetiva política de capacitação e qualificação de recursos humanos tende a gerar em um
+contexto urbano de pobreza e educação insuficiente, contribuindo de forma significativa para a sua transformação e superação.
+
+P - COMÉRCIO, Bairro Inteligente
+Trata-se aqui da adoção de infraestruturas disruptivas para gestão territorial, a serem implantadas em uma área piloto da Cidade,
+tendo sido selecionado o bairro do Comércio, no Centro Histórico, cujo processo de revitalização encontra-se em andamento com a
+realização de múltiplos investimentos municipais - que para aí inclusive transferiu grande parte de sua Administração Central -,
+região que vem concentrando atividades de TIC e Economia Criativa, estando também em fase de equacionamento financeiro
+importante projeto habitacional (cerca de 900 unidades) mediante retrofit de antigos casarões que serão destinados para habitação
+popular.
+Não por acaso o bairro selecionado é o do Comércio, situado no Centro Histórico, que passa por amplo processo de reabilitação
+urbana. Antiga área portuária, financeira, de comércio atacadista e exportador, o bairro vem sendo reestruturado, assumindo novas
+funções urbanas. Com efeito, aí estão instalados e em funcionamento, entre outras estruturas:
+1.Hub Salvador - centro de inovação tecnológica
+2.Doca 1 - centro de economia criativa
+3.Salvador Digital:
+a.CIMATEC - unidade Centro Histórico
+b.Centro Tecnológico
+
+
+Página: 18
+
+c.Hub de Negócios
+4.Cidade da Música da Bahia - centro cultural de padrão internacional
+5.Casa das Histórias de Salvador e Arquivo Público Municipal
+6.Mercado Modelo
+7.Terminal Marítimo de Passageiros
+8.Terminal Turístico
+9.Associação Comercial da Bahia
+10.Federação da Agricultura do Estado da Bahia
+11.Museu do Cacau
+12.Várias Secretarias e Órgãos da Prefeitura Municipal de Salvador
+a.Secretaria Municipal de Sustentabilidade e Resiliência - SECIS
+b.Secretaria Municipal de Saúde -SMS
+c.Secretaria Municipal de Cultura e Turismo -SECULT
+d.Empresa Salvador Turismo - SALTUR
+e.Secretaria Municipal de Promoção Social e Combate à Pobreza, Esportes e Lazer - SEMPRE
+f.Secretaria Municipal de Educação - SMED (em fase de instalação)
+g.Secretaria Municipal de Inovação e Tecnologia - SEMIT (em fase de instalação)
+13.Junta Comercial do Estado da Bahia
+14.Companhia Docas do Estado da Bahia
+15.Gerência Regional do INSS
+16.Ed. do Ministério da Economia
+a.Superintendência do Patrimônio da União na Bahia (SPU-BA)
+b.Procuradoria Geral da Fazenda Nacional - BA
+c.Controladoria Geral da União - BA
+d.Fundacentro - BA
+e.Superintendência Regional de Administração - BA
+17.Empresa Brasileira de Correios
+18.Igreja da Conceição da Praia
+19.Igreja do Corpo Santo
+20.Igreja do Pilar
+21.Ascensores Públicos
+a.Elevador Lacerda
+b.Plano Inclinado Gonçalves
+c.Plano Inclinado Pilar
+d.Elevador do Taboão
+
+(i) Solução Proposta:
+Trata-se de aplicar ao bairro do Comércio todo um conjunto de soluções tecnológicas inteligentes, inclusive àquelas já em uso nas
+modernas cidades inteligentes do mundo, assim como, utilizar o bairro como laboratório urbano, vivo e controlado, para
+desenvolver e testar novas tecnologias de gestão urbana.
+(ii) Resultados Esperados:
+Busca-se validar as tecnologias mais apropriadas e adequadas para gestão inteligente de uma cidade latino-americana com as
+características culturais e humanas existentes entre nós. Posteriormente estas tecnologias terão sua aplicação expandida para
+toda cidade.
+(iii) Sustentabilidade:
+A escalabilidade das soluções validadas no Bairro Inteligente representarão para a Prefeitura a redução dos riscos e uma grande
+economia de recursos na sua aplicação para toda a metrópole soteropolitana.
+
+C - GESTÃO DO PROJETO
+Reúnem-se neste componente as rubricas e os recursos necessários e indispensáveis para a gestão do Programa de Inclusão
+Social e Territorial, que precisa ser eficiente, ágil, dinâmica e transparente para assegurar o cumprimento dos cronogramas físicos
+e financeiros, o controle dos custos, a integração das equipes e das ações, o fluxo financeiro correto e adequado para a obtenção
+dos resultados almejados.
+Este componente prevê, assim, despesas que garantam a execução do programa, através de suportes técnico e financeiro
+necessários para a sua implementação.
+
+S - GESTÃO DO PROGRAMA
+A administração do Programa será feita pela UGP - Unidade de Gerenciamento do Programa, criada no âmbito da administração
+centralizada da Prefeitura Municipal, destinada a cuidar da sua coordenação, articulação, supervisão e efetividade.
+
+P - Apoio Técnico ao Programa
+Inclui-se aqui a contratação de serviços para a elaboração de projetos, especialmente os da área de TIC, vinculados ao Plano
+Diretor de Tecnologia da Cidade Inteligente (PDTCI), constantes do subcomponente 2.2 - Cidade Inteligente, mas também, na área
+de obras de infraestrutura, os serviços necessários para estudo e desenvolvimento dos projetos, inclusive museológico, na
+Requalificação do Elevador Lacerda, integrante do subcomponente 1.1 - Mobilidade Urbana, bem como demandas eventuais de
+serviços de consultoria identificadas durante a realização das atividades.
+
+
+Página: 19
+
+P - Supervisão das obras e serviços
+No âmbito do Componente serão financiadas as despesas com o gerenciamento do projeto, através da implantação e do
+funcionamento da Unidade de Gestão do Programa (UGP), a ser formalmente criada na estrutura do Poder Executivo.
+A assessoria e fiscalização das obras de infraestrutura e edificações estarão sob a responsabilidade de uma empresa contratada,
+que atuará sob o comando e fiscalização da UGP, com o apoio das secretarias envolvidas, sem prejuízo de suas ações de
+supervisão e acompanhamento. Uma vez concluída a obra ou serviço, a gestão do Produto passará a ser do órgão competente.
+As licitações serão realizadas com base no regime da legislação brasileira (Lei de Licitações), o que está em pleno acordo com as
+diretrizes do agente financiador, a CAF.
+
+P - Auditoria Externa
+A Auditoria Externa, selecionada mediante concorrência, destina-se a fazer o exame cuidadoso, sistemático e independente, tendo
+por finalidade realizar o acompanhamento físico-financeiro, averiguar se as atividades desenvolvidas pelas contratadas e pelo
+Município estão em conformidade com as disposições estabelecidas, se foram implementadas com eficácia e se estão em
+conformidade com os objetivos do Programa.
+
+S - CUSTOS DE FINANCIAMENTO
+Alocam-se aqui os recursos necessários à cobertura dos gastos financeiros com a contratação para execução do Programa.
+
+P - Comissão de Financiamento
+Corresponde a custos com a contratação e gestão do programa de financiamento por parte do órgão financiador, no montante de 0
+,85 % sobre o valor do empréstimo.
+O valor deste item é de US$1.062.500 (hum milhão, sessenta e dois mil e quinhentos dólares americanos).
+
+P - Avaliação e Estruturação
+Corresponde à verba estabelecida pelo agente financeiro para cobrir as despesas com a sua Missão Técnica ao Município, visando
+a avaliação da preparação do Projeto. O valor fixo é de US$50,000.00 (cinquenta mil dólares americanos).
+
+Categoria de Gasto
+
+Obras
+P- Estação de Recarga do Sistema BRT
+P- Rua de Pedestres: Ligação Metrô-Campo da
+Pólvora / Baixa dos Sapateiros / Pelourinho /
+Comércio
+P- Requalificação do Elevador Lacerda
+P- Articulação com o Hospital do Subúrbio
+P- Articulação com as Ruas das Pedrinhas e
+Franco Velasco
+P- Articulação com a Via Bronze
+Bens
+P- Teleférico do Mané Dendê
+P- Centro de Interpretação da Mata Atlântica
+Consultoria
+P- Apoio Técnico ao Programa
+Serviços que Não de Consultoria
+P- Inclusão produtiva através da alfabetização
+digital para o desenvolvimento econômico
+P- Implantação do Observatório Salvador
+P- Implantação do armazenamento em nuvem
+P- Unidade de Gestão Estratégica
+P- Estratégia GovTech Municipal
+P- Digitalização de Serviços em Áreas Prioritárias
+P- Plataforma de Gestão do Programa de
+Capacitação
+P- COMÉRCIO, Bairro Inteligente
+P- Supervisão das obras e serviços
+P- Auditoria Externa
+Capacitação e Treinamento
+P- Treinar para Empregar
+P- Empreenda Salvador
+P- Salvador Tech
+Outros
+P- Comissão de Financiamento
+P- Avaliação e Estruturação
+Total Geral
+
+Unidade de medida
+-
+Estação implantada
+m
+
+Meta
+
+-
+1,00
+800,00
+
+un
+m
+m
+
+m
+-
+Cabines instaladas
+un
+-
+un
+-
+Sistema de TIC
+
+Sistema de TIC
+Sistema de TIC
+Sistema de TIC
+Sistema de TIC
+Sistema de TIC
+Sistema de TIC
+
+Sistema de TIC
+un
+un
+-
+Pessoas treinadas
+Pessoas treinadas
+Pessoas treinadas
+-
+un
+un
+-
+
+1,00
+1.615,00
+690,00
+
+1.790,00
+-
+89,00
+1,00
+-
+1,00
+-
+1,00
+
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+
+1,00
+1,00
+1,00
+-
+40.000,00
+10.000,00
+60.000,00
+-
+1,00
+1,00
+-
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+C - OBRAS DE INFRAESTRUTURA
+
+Valor
+
+% Financeiro
+
+63.500.000,00
+2.000.000,00
+37.500.000,00
+
+1.600.000,00
+5.600.000,00
+4.800.000,00
+
+12.000.000,00
+53.475.000,00
+52.275.000,00
+1.200.000,00
+568.000,00
+568.000,00
+23.443.500,00
+1.690.000,00
+
+2.630.000,00
+4.198.000,00
+2.140.000,00
+1.070.000,00
+2.000.000,00
+4.096.000,00
+
+2.910.000,00
+2.639.500,00
+70.000,00
+14.151.000,00
+8.082.000,00
+1.605.000,00
+4.464.000,00
+1.112.500,00
+1.062.500,00
+50.000,00
+156.250.000,00
+
+40,64
+1,28
+24,00
+
+1,02
+3,58
+3,07
+
+7,68
+34,22
+33,46
+0,77
+0,36
+0,36
+15,00
+1,08
+
+1,68
+2,69
+1,37
+0,68
+1,28
+2,62
+
+1,86
+1,69
+0,04
+9,06
+5,17
+1,03
+2,86
+0,71
+0,68
+0,03
+100,00
+
+
+Página: 20
+
+S - MOBILIDADE URBANA
+
+P - Estação de Recarga do Sistema BRT
+
+Com custo global estimado de 9,1 milhões, a Estação de Recarga encontra-se neste momento em licitação, mediante Concorrência N. 02,
+de 2022. Os operadores do sistema ficarão responsáveis por manter o equipamento e custear o consumo de energia.
+
+A concessão vigente tem prazo de mais 18 anos e o BRT deve ser operado por um consórcio criado entre as atuais operadoras -
+OTTRANS e PLATAFORMA.
+
+A capacidade é para recarregar 20 ônibus simultaneamente, sendo possível operar com até 40 ônibus, em recarga alternada. Entrarão em
+operação inicialmente oito veículos elétricos de um total de 44 veículos que operarão o BRT nos trechos 1 e 3 que começará a funcionar
+ainda em 2022.
+
+P - Teleférico do Mané Dendê
+
+Para o estudo de viabilidade econômico-financeira o projeto do teleférico foi selecionado no Edital do BNDES/KfW e está sendo elaborado
+pela IST Cable que é uma empresa da Colômbia, país que é referência em uso de teleféricos, a exemplo das cidades de Bogotá e Medelin
+. A conclusão deste estudo é janeiro de 2023, com apresentação do primeiro relatório em outubro/2022.
+
+O projeto de arquitetura está sendo elaborado pela GMR Projetos Estruturais, com prazo de conclusão para novembro de 2022. Como a
+estação do Alto da Terezinha está da área do Projeto Mané Dendê o projeto desta estação está sendo discutido com a UGP do Programa.
+
+A estação do teleférico na estação do metrô de Campinas também está sendo discutida com a Companhia de Transportes do Estado da
+Bahia e a CCR, empresa concessionária do Sistema Metroviário de Salvador e Lauro de Freitas.
+
+P - Rua de Pedestres: Ligação Metrô-Campo da Pólvora / Baixa dos Sapateiros / Pelourinho / Comércio
+
+A Secretaria de Infraestrutura (SEINFRA) já tem concluído o anteprojeto, estando sendo preparado termos de referência (TR) para
+elaboração de projeto básico. Assim, a licitação a ser realizada por RDC já contará com elementos técnicos mais precisos.
+
+A operação está em fase de negociação com a CCR, concessionária do Metrô Bahia.
+
+P - Requalificação do Elevador Lacerda
+
+Face às características do equipamento e suas múltiplas funções urbanas - patrimônio histórico, transporte, turismo - as ações envolvem a
+Secretaria de Mobilidade (SEMOB), a Fundação Mário Leal Ferreira (FMLF) e o apoio da Secretaria de Cultura e Turismo, abrangendo
+projetos de arquitetura, engenharia, urbanismo e museologia, conceitualmente integrados.
+
+Estudos preliminares, realizados pela SEMOB, coordenadora das ações, especificaram o escopo e a amplitude das intervenções; a FMLF
+está encarregada dos projetos de arquitetura e urbanismo; a própria SEMOB cuidará dos projetos estruturais de engenharia (correção de
+infiltrações, instalações elétricas e mecânicas), além do projeto museológico (Memorial do Elevador Lacerda) e de sua instalação como
+parte integrante do equipamento.
+
+S - ARTICULAÇÕES COM A ANTIGA ESTRADA DO DER-BA
+
+P - Articulação com o Hospital do Subúrbio
+
+Anteprojeto elaborado pela CONDER - Companhia de Desenvolvimento Urbano do Estado da Bahia e cedido à Prefeitura. Já está
+contratado e em elaboração o projeto básico.
+
+P - Articulação com as Ruas das Pedrinhas e Franco Velasco
+
+Anteprojeto elaborado pela CONDER - Companhia de Desenvolvimento Urbano do Estado da Bahia e cedido à Prefeitura. Já está
+contratado e em elaboração o projeto básico.
+
+P - Articulação com a Via Bronze
+
+Anteprojeto elaborado pela CONDER - Companhia de Desenvolvimento Urbano do Estado da Bahia e cedido à Prefeitura. Já está
+contratado e em elaboração o projeto básico.
+
+S - EQUIPAMENTOS URBANOS
+
+P - Centro de Interpretação da Mata Atlântica
+
+(cid:10)
+(cid:10)
+
+
+Página: 21
+
+Projeto executivo concluído pela Secretaria de Sustentabilidade e Resiliência (SECIS). Em condições para licitação tão logo o
+financiamento seja disponibilizado.
+
+C - QUALIFICAÇÃO PROFISSIONAL E TRANSFORMAÇÃO DIGITAL
+
+S - TRABALHO, EMPREGO E RENDA
+
+P - Treinar para Empregar
+
+As ações já foram iniciadas, em caráter piloto, através de parcerias com o "Sistema S", universidades e instituições de ensino locais, ao
+longo do ano de 2021 e início de 2022. Através dessa experiência a Secretaria de Desenvolvimento Econômico Emprego e Renda pôde
+realizar seus testes em relação ao modus operandi de cada programa além de ampliar sua visão em relação as demandas e
+potencialidades do mercado de Salvador. Ademais a SEMDEC pôde ainda confirmar o impacto no aumento da empregabilidade, geração
+de renda e melhoria do impacto social que os programas de capacitação são capazes de gerar na Cidade.
+
+No ano de 2021 registrou-se um aumento em 189% do número de vagas de empregos ofertadas através do SIMM e um aumento de 176%
+do número de colocados no mercado de trabalho, comparado com o ano de 2020, já sinalizando um impacto positivo dos programas de
+qualificação no aumento na empregabilidade.
+
+O crescimento está sendo incremental e ganhará escala a partir da implementação deste programa Salvador Inclusiva.
+
+P - Empreenda Salvador
+
+Também este programa já teve o seu início deflagrado, igualmente em caráter piloto, tendo certificado em qualificação empreendedora um
+conjunto de 354 pessoas no ano 2021. A iniciativa está testada e em condições de acelerar as suas ações.
+
+P - Salvador Tech
+
+O site https://salvadortech.salvador.ba.gov.br/, já disponibilizado, apresenta as seguintes características:
+
+- Gestão dos recursos humanos: identificação das vocações dos cidadãos relativas as profissões digitais da nova economia através de
+mapeamento do perfil dos indivíduos, realizando testes de perfil digital e entendendo a trajetória profissional - esses são passos mínimos
+para poder orientar, direcionar e alocar o recurso humano da forma mais eficiente;
+
+- Introdução técnica: formação mínima em conhecimentos básicos, habilidades gerenciais (softskills);
+
+- Conexão com empresas e organizações: processos seletivos e formativos com vagas de emprego direcionadas para alocação nas
+empresas;
+
+- Oferta de vagas de trabalho: empresas locais e oportunidades remotas de empresas de fora do município.
+
+Considerando o caráter inovador da iniciativa e entendendo as dificuldades que isso pode gerar, os primeiros resultados do programa têm
+sido muito positivos. Tendo sido lançado em meados de fevereiro/2022, até a competência maio/2022, em pouco mais de 100 dias temos
+a seguinte fotografia:
+
+Acessos: mais de 37.000
+
+Usuários: 5.563
+
+Cursos disponibilizados: 120
+
+Certificados emitidos: 135
+
+Programas de formação vinculados a empregabilidade: 143
+
+Entendemos que esses números validam as premissas do projeto e permite que ganhe escala com a implementação e evolução das
+iniciativas planejadas.
+
+P - Inclusão produtiva através da alfabetização digital para o desenvolvimento econômico
+
+Projeto a ser elaborado.
+
+S - CIDADE INTELIGENTE
+
+P - Implantação do Observatório Salvador
+
+Com projeto executivo elaborado no âmbito do PROQUALI - única etapa incluída naquele financiamento da CAF para a Prefeitura de
+Salvador - a implantação será licitada no primeiro ano de execução deste novo contrato de financiamento.
+
+
+Página: 22
+
+P - Implantação do armazenamento em nuvem
+
+Inicialmente constante do financiamento CAF, no contrato de empréstimo para o Programa de Requalificação Urbanística de Salvador -
+PROQUALI, a implantação do Armazenamento de Dados (nuvem urbana) foi excluída do programa, conforme documentação já inserida
+no sistema da SAIN.
+
+No âmbito do PROQUALI foram contratados e entregues o Plano Diretor de Tecnologia da Cidade Inteligente - PDTCI, juntamente com os
+projetos executivos da Nuvem Urbana, do Observatório de Salvador e da Infovia, bem como a Implantação desta, com contratação
+concluída, estando sua execução com avanço atual da ordem de 42,3% e de 45,3% no segmento de TIC no PROQUALI.
+
+Dada sua imperiosa necessidade, inclusive como pré-requisito para os demais projetos do Subcomponente Cidade Inteligente, está
+incluída na presente proposta a implantação do armazenamento de dados em nuvem. Com o projeto executivo já elaborado no âmbito do
+PROQUALI, a implantação será licitada no primeiro ano de execução deste novo contrato de financiamento.
+
+P - Unidade de Gestão Estratégica
+
+Projeto a ser elaborado
+
+P - Estratégia GovTech Municipal
+
+Projeto a ser elaborado
+
+P - Digitalização de serviços em áreas prioritárias
+
+Em fase de configuração e testes finais para implantação, onde o Portal Único de Serviços servirá, neste primeiro momento, como um Hub
+de Serviços da Prefeitura. Posteriormente será cumprida uma jornada dentro das estruturas dos órgãos definidos como prioritários, para
+levantamento e mapeamento dos serviços, os quais deverão seguir o processo de digitalização e implantação de cada serviço tendo como
+destino final o Portal Único da Prefeitura.
+
+P - Plataforma de gestão do Programa de Capacitação
+
+Projeto tecnológico definido, com especificações, aguardando financiamento para a realização das licitações necessárias.
+
+P - Comércio, bairro inteligente
+
+Definido no âmbito do PDTCI como instrumento para consolidação dos sistemas e tecnologias, e feita a seleção do bairro do Comércio, foi
+realizada missão técnica à cidade de Foz do Iguaçu para conhecer os recursos utilizados na "Vila A", promovida pela prefeitura local em
+parceria com a Agencia Brasileira de Desenvolvimento Industrial (ABDI), Itaipu Binacional e o Parque Tecnológico de Itaipu (PTI) como
+primeiro bairro inteligente do país, visando conhecer os recursos tecnológicos utilizados e acumular conhecimento para elaboração dos
+termos de referência para a licitação do projeto executivo.
+
+Além da adoção das tecnologias já experimentadas, o bairro do Comércio será também tratado como um ambiente para teste de
+tecnologias inovadoras, no conceito sandbox, permitindo realizar testes sem interferir em outras aplicações que estejam rodando no
+sistema para que, após aprovadas, possam ser expandidas para toda a Cidade.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Municipal
+
+MUNICIPIO DE  SALVADOR(BA)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+(i) Condições Financeiras
+
+Prazo total do financiamento: 216 meses
+
+Prazo de carência: 60 meses
+
+Prazo de desembolso: 60 meses
+
+Prazo de amortização: 156 meses
+
+Taxa de juros: SOFR (seis meses) + 2,00% a.a.
+
+Comissão de financiamento: 0,85% do valor do financiamento pago de uma só vez no primeiro desembolso;
+
+Comissão de compromisso: 0,35% do saldo não desembolsado.
+
+(cid:10)
+(cid:10)
+
+
+Página: 23
+
+(ii) Necessidade de financiamento externo e a opção pelo agente financeiro
+
+Tendo conquistado credibilidade pela gestão fiscal responsável e ganhado experiência como gestora de operações de crédito externas e
+internas - inclusive com a montagem de uma Diretoria de Captação de Recursos - a Prefeitura tem feito uso responsável da sua
+capacidade de endividamento e de pagamento para antecipar a realização de metas sociais e urbanas indispensáveis à melhoria das
+condições de vida da população, utilizando recursos próprios para contrapartida.
+
+Neste contexto, são os seguintes os contratos de operação de crédito firmados pela Prefeitura de Salvador ao longo dos últimos anos,
+todos ainda em fase de execução, mas em adequado ritmo de implementação:
+
+1.Banco Interamericano de Desenvolvimento - BID/Programa Nacional de Desenvolvimento Turístico em Salvador - PRODETUR-Salvador
+.
+
+Contrato de Empréstimo nº 3682/OC-BR, firmado em junho de 2017, no valor atual aproximado de US$ 71milhões, sendo 74% dos
+recursos provenientes do BID e 26% de contrapartida municipal. Salvador foi o primeiro município brasileiro a receber recursos
+diretamente do BID, por intermédio do PRODETUR.
+
+Teve liberados, até agora, 53% e executados 25% dos recursos até janeiro de 2022. O total de execução incluindo a contrapartida situa-se
+em 51%.
+
+O Programa tem sido classificado pelo BID como "SATISFATÓRIO" por 4 (quatro) anos consecutivos (2018 a 2021), mantendo a mesma
+performance, mesmo no período de pandemia da COVID-19.
+
+Em artigo publicado pelo BID, destacam-se as lições e ações inovadoras do PRODETUR Salvador, sobretudo no desenvolvimento e
+fortalecimento do Turismo Étnico Afro local: "O afroturismo tem se tornado um nicho de mercado cada vez mais relevante e ainda pouco
+atendido pelo trade turístico de uma forma geral, e encontra em Salvador um solo fértil para florescer." Fonte: https://blogs.iadb.org/brasil/
+pt-br/a-hora-e-a-vez-do-afroturismo-licoes-e-inovacoes-do-prodetur-salvador/
+
+2.Banco Interamericano de Desenvolvimento - BID/Programa de Saneamento Ambiental e Urbanização da Bacia do Rio Mané Dendê (
+Projeto Novo Mané Dendê - Salvador)
+
+Contrato de Empréstimo nº 4302/OC-BR, firmado em junho de 2018 no valor de US$67,5 milhões, teve liberados 15,7% e executados 10,1
+% dos recursos até dezembro de 2021. O total de execução incluindo a contrapartida situou-se em 7,0%.
+
+O Programa tem sido classificado pelo BID como "SATISFATÓRIO" por 2 (dois) anos consecutivos (2020 a 2021).
+
+No campo do Reassentamento podemos destacar o Sistema de Informações Sociais e de Reassentamento, desenvolvido no âmbito da
+Prefeitura, congregando as informações socioeconômicas das famílias a serem reassentadas, os dados relativos aos imóveis afetados, os
+atendimentos sociais realizados, as opções de compensação escolhidas, além do sistema de queixas e reclamações e a Elaboração do
+Manual de Execução do Reassentamento que teve como objetivo de alinhar os procedimentos, fluxos, modelagem institucional,
+instrumentos técnicos relacionados à execução do reassentamento involuntário, no âmbito do Projeto Novo Mané Dendê.
+
+3 - Banco Internacional para Reconstrução e Desenvolvimento -BIRD/Projeto Salvador Social - 1ª Fase
+
+Contrato de Empréstimo nº P 162033, firmado em julho de 2018 no valor de US$125 milhões, sendo liberados e executados 82,4% dos
+recursos até dezembro de 2021.
+
+O desempenho do projeto, do ponto de vista de seu objetivo foi avaliado pelo Banco Mundial como "SATISFATÓRIO", considerando o
+alcance de dois dos três indicadores selecionados para tal - assistência social e saúde, e o alcance de seis dos nove indicadores
+vinculados ao desembolso, que já alcançou 82% do total dos recursos do financiamento. Os indicadores não alcançados foram
+diretamente afetados pelas consequências da pandemia, com impacto nos serviços de educação e de assistência social.
+
+4 - Corporação Andina de Fomento - CAF/ Programa de Requalificação Urbanística de Salvador - PROQUALI
+
+Contrato de Empréstimo nº CFA 010639, firmado em dezembro de 2018 no valor de US$60,7 milhões, já tendo sido liberados 38,9% e
+executados 38,4% dos recursos até dezembro de 2021. O total de execução incluindo a contrapartida alcançou 45,8%.
+
+O programa dispõe de uma auditoria independente para seu acompanhamento, além das missões semestrais realizadas pelo banco para
+supervisão e controle da sua execução.
+
+No relatório elaborado pela Bazzaneze Auditores Independentes S/S para os exercícios de 2018/2019 eles colocam na sua conclusão o
+seguinte parágrafo: "Conforme discorrido no presente relatório, concluímos que a Entidade Executora (Casa Civil do Município de
+Salvador), através da Unidade de Gerenciamento do Programa - UGP, mantiveram controles adequados sobre os recursos relacionados
+às informações contábeis e financeiras do Programa de Requalificação Urbanística do Município de Salvador - PROQUALI relativos aos
+exercícios findos em 31 de dezembro de 2018 e 31 de dezembro de 2019." Comentário similar também se repetiu em referência ao
+exercício de 2020. Para o exercício de 2021 o relatório só será apresentado neste mês de março.
+
+5 - Banco Internacional para Reconstrução e Desenvolvimento -BIRD/Projeto Salvador Social - 2ª Fase
+
+
+Página: 24
+
+A assinatura desta operação de crédito estava condicionada à execução de mais de 80% da Primeira Fase do Programa SALVADOR
+SOCIAL. Desse modo, foi firmado o Contrato de Empréstimo nº 9162-BR, em outubro de 2021 no valor de US$125 milhões. Já foram
+liberados e executados 20,2% dos recursos até dezembro do mesmo ano.
+
+Essa segunda operação ainda não passou por processo de avaliação pelas instituições externas.
+
+Opção pelo agente financeiro:
+
+A opção por financiamento externo, via agencia multilateral de crédito, decorre da análise comparativa das condições de custo e prazo dos
+recursos, além do acompanhamento técnico e gerencial que essas instituições proporcionam.
+
+À luz desta experiência, a Prefeitura selecionou para apoio financeiro ao Programa de Inclusão Social e Territorial de Salvador/BA a
+Corporação Andina de Fomento - CAF, também conhecida como Banco de Desenvolvimento da América Latina, com quem já tem uma
+operação de crédito em execução, tendo se demonstrado uma instituição ágil, conhecedora dos temas municipais e com adequadas
+condições financeiras acima especificado e conforme Quadro de Condições Financeiras das operações externas já contratadas conforme
+detalhado em anexo. (Quadro 2)
+
+2.11. PROJETO/BENEFICIÁRIO
+
+Áreas estratégicas e impactos do projeto:
+
+Destaca-se a seguir a correlação entre projetos integrantes da Carta Consulta e os aspectos relevantes - áreas relevantes e impactos -
+estabelecidos pela Resolução 17/2021 da COFIEX no item 4 do seu Anexo:
+
+1.1 - Promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação
+
+A introdução do uso de veículos elétricos, em substituição ao óleo diesel, tem entre seus objetivos reduzir a geração de gases de efeito
+estufa (GEE) pelo sistema de transporte coletivo urbano, que é responsável por 65% do total de emissões. Contribuem neste conceito,
+com o uso de energia elétrica, todos os quatro projetos do subcomponente Mobilidade Urbana, a saber:
+
+a) Estação de Recarga do Sistema BRT
+
+b) Teleférico do Mané Dendê
+
+c) Rua de Pedestres: ligação metrô Campo da Pólvora / Baixa dos Sapateiros / Pelourinho / Comércio
+
+d) Requalificação do Elevador Lacerda
+
+Também atende ao requisito de sustentabilidade ambiental a implantação do Centro de Interpretação da Mata Atlântica.
+
+1.2 - Eficiência energética, geração e/ou uso de energia de fontes renováveis
+
+A adoção pela Prefeitura da inclusão e expansão do uso da energia elétrica como fonte para o sistema integrado de transporte coletivo
+tem por base, inclusive, o fato da Bahia ser estado superavitário na geração de energia a partir de fontes renováveis - eólica e solar - e
+limpas - hidroelétrica, apresentando ainda grande potencial de expansão nesta área.
+
+Com estas iniciativas a Cidade de Salvador começa a contribuir, de forma progressiva e irreversível, com a utilização dessas fontes de
+energia em substituição aos combustíveis fósseis.
+
+1.3 - Implantação e/ou ampliação de ações de saneamento básico
+
+Todos os três projetos integrantes do subcomponente Articulações com a antiga "Estrada do DER-BA" incluem serviços de drenagem
+urbana e canalização de águas pluviais, além do manejo de águas superficiais, evitando alagamentos e contaminação sanitária nas áreas
+de intervenção. São eles:
+
+a) Articulação com o Hospital do Subúrbio
+
+b) Articulação com as ruas das Pedrinhas e Franco Velasco
+
+c) Articulação com a via Bronze
+
+1.4 - Gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes
+
+1.5 - Conservação e manejo da biodiversidade e/ou de recursos florestais
+
+Com a implantação do Centro de Interpretação da Mata Atlântica - que inclui a produção de mudas - a Prefeitura reafirma o seu
+compromisso com o programa Salvador, Capital da Mata Atlântica, criando condições para a implementação do seu Manual Técnico de
+Arborização Urbana com espécies nativas da Mata Atlântica.
+
+
+Página: 25
+
+1.6 - Melhoria do ambiente de negócios e/ou oportunidades
+
+Contribuem de forma decisiva para a melhoria do ambiente de negócios e a criação de oportunidades diversos projetos integrantes dos
+subcomponentes Cidade Inteligente e Trabalho, Emprego e Renda, com especial destaque para:
+
+a) Implantação do Observatório Salvador
+
+b) Implantação do armazenamento em nuvem
+
+c) Estratégia GovTech Municipal
+
+d) Digitalização de serviços em áreas prioritárias
+
+e) Plataforma de gestão do Programa de Capacitação
+
+f) Comércio, bairro inteligente
+
+g) Treinar para Empregar
+
+h) Empreende Salvador
+
+i) Salvador Tech
+
+j) Inclusão Produtiva através da alfabetização digital para o desenvolvimento econômico
+
+1.7 - Benefícios para empreendedores individuais, micro e pequenas empresas
+
+Os empreendedores individuais, micro e pequenos empresários constituem foco de atenção dos projetos do subcomponente Trabalho,
+Emprego e Renda, a saber:
+
+a) Treinar para Empregar
+
+b) Empreende Salvador
+
+c) Salvador Tech
+
+d) Inclusão Produtiva através da alfabetização digital para o desenvolvimento econômico
+
+Também se incluem esses segmentos como beneficiários diretos do projeto Comércio, bairro inteligente.
+
+1.8 - Geração de emprego e renda para populações de baixa renda e vulneráveis
+
+O subcomponente de Trabalho, Emprego e Renda tem como principal objetivo beneficiar as populações de baixa renda e vulneráveis,
+criando condições para sua empregabilidade, inclusive por meio de sua execução em articulação direta com as demandas do mercado de
+trabalho, especialmente no caso do projeto Treinar para Empregar, com meta de 60.000 beneficiários em cinco anos.
+
+1.9 - Infraestrutura e/ou equipamentos sociais para pessoas de baixa renda e vulneráveis
+
+O conjunto de projetos do subcomponente Articulações com a antiga "Estrada do DER-BA" tem como característica comum promover
+condições de acessibilidade a todo um conjunto de bairros que constitui um verdadeiro bolsão de pobreza, situados que são na região do
+antigo Subúrbio Ferroviário. São eles:
+
+a) Articulação com o Hospital do Subúrbio
+
+b) Articulação com as ruas das Pedrinhas e Franco Velasco
+
+c) Articulação com a via Bronze
+
+1.10- Ações de inclusão de minorias sociais entre os beneficiários
+
+Objetivo central do programa Salvador Inclusiva, atendem diretamente a esse pressuposto o conjunto de projetos dos subcomponentes de
+Articulações com a antiga "Estrada do DER-BA" - na linha de inclusão territorial - e de Trabalho, Emprego e Renda - na linha de inclusão
+socioprodutiva. São eles:
+
+a) Articulação com o Hospital do Subúrbio
+
+b) Articulação com as ruas das Pedrinhas e Franco Velasco
+
+
+Página: 26
+
+c) Articulação com a via Bronze
+
+d) Treinar para Empregar
+
+e) Empreende Salvador
+
+f) Salvador Tech
+
+g) Inclusão Produtiva através da alfabetização digital para o desenvolvimento econômico
+
+1.11 - Políticas voltadas para a juventude, gênero e raça
+
+Todo o conjunto de projetos que conformam o subcomponente de Trabalho, Emprego e Renda estão vinculados a cotas para negros (80%
+), mulheres (52%) e jovens (21%), em proporções correspondentes à participação desses segmentos populacionais na população total do
+Município. São os seguintes os projetos abrangidos:
+
+a) Treinar para Empregar
+
+b) Empreende Salvador
+
+c) Salvador Tech
+
+d) Inclusão Produtiva através da alfabetização digital para o desenvolvimento econômico
+
+1.12 - Melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão e/ou participação cidadã
+
+O subcomponente Cidade Inteligente tem como objetivo a digitalização do governo municipal, precisamente para possibilitar o acesso dos
+cidadãos aos serviços públicos, administrativos e sociais, mediante o uso intensivo de inovação nos processos de prestação de serviços,
+pela melhoria da gestão. Incluem-se nesse contexto, especialmente os seguintes projetos:
+
+a) Implantação do Observatório Salvador
+
+b) Implantação do armazenamento em nuvem
+
+c) Estratégia GovTech Municipal
+
+d) Digitalização de serviços em áreas prioritárias
+
+e) Plataforma de gestão do Programa de Capacitação
+
+f) Comércio, bairro inteligente
+
+1.13 - Melhoria das condições de Educação e Saúde
+
+Visam elevar os níveis educacionais, especialmente da população de baixa renda, os seguintes projetos integrantes do subcomponente de
+Trabalho, Emprego e Renda:
+
+a) Treinar para Empregar
+
+b) Empreende Salvador
+
+c) Salvador Tech
+
+d) Inclusão Produtiva através da alfabetização digital para o desenvolvimento econômico
+
+1.14 - Desenvolvimento, Inovação e Modernização Tecnológica
+
+Constituem instrumentos para a inovação e modernização tecnológica todo um conjunto de projetos constantes do componente
+Qualificação Profissional e Transformação Digital, cabendo destacar:
+
+a) Salvador Tech
+
+b) Inclusão Produtiva através da alfabetização digital para o desenvolvimento econômico
+
+c) Implantação do Observatório Salvador
+
+d) Implantação do armazenamento em nuvem
+
+
+Página: 27
+
+e) Estratégia GovTech Municipal
+
+f) Digitalização de serviços em áreas prioritárias
+
+g) Plataforma de gestão do Programa de Capacitação
+
+h) Comércio, bairro inteligente
+
+1.15 - Arranjos de financiamento que incentivem/contribuam com a participação privada
+
+Inserem-se nessa estratégia vários dos projetos constantes do programa Salvador Inclusiva, que envolvem parceria com o setor privado,
+cabendo aqui destaque para:
+
+a) Estação de Recarga do Sistema BRT
+
+b) Teleférico do Mané Dendê
+
+c) Rua de Pedestres: ligação Metrô Campo da Pólvora / Baixa dos Sapateiros / Pelourinho / Comércio
+
+d) Treinar para Empregar
+
+e) Empreende Salvador
+
+f) Inclusão Produtiva através da alfabetização digital para o desenvolvimento econômico
+
+g) Comércio, bairro inteligente
+
+Beneficiário:
+
+Toda a região do Subúrbio tem cerca de 700.000 habitantes, abrangendo 22 bairros, com participação de 24,5% da população
+soteropolitana, sendo uma das mais pobres da Cidade. Por estas características, aí se concentra boa parte das intervenções de natureza
+física constantes do Programa.
+
+O Teleférico do Mané Dendê atenderá diretamente a cerca de 70 mil moradores da bacia do rio Mané Dendê, mais cerca de 31.700
+moradores do Bairro de Pirajá, na área da estação intermediária. Indiretamente estima-se que o Teleférico venha a atender mais 30% da
+população do Subúrbio, ou seja, outras 210.000 pessoas.
+
+Na outra extremidade da região, as articulações com a antiga "Estrada do DER-BA" beneficiam diretamente cerca de 35.000 pessoas e
+indiretamente outras 150.000 pessoas.
+
+O Elevador Lacerda tem atualmente um movimento médio diário de 28.000 pessoas/dia, chegando ao pico de 33.800 pessoas. Com a
+melhoria das condições operacionais atuais estima-se um incremento de 300.000 passageiros/mês, passando a movimentar 1.200.000
+passageiros/mês.
+
+A via de pedestres do Metrô (estação Campo da Pólvora) à Baixa dos Sapateiros, Pelourinho e Comércio deverá transportar diariamente
+75.000 passageiros, sendo que o novo ascensor público na Ladeira do Pax, a ele acoplado, chegará a 90.000 passageiros/mês uma vez
+que se beneficiária de demanda própria adicional.
+
+Os programas de Qualificação Profissional para trabalho, emprego e renda, beneficiarão diretamente a um total de 70.000 pessoas, sendo
+40.000 no Treinar para Empregar, 10.000 no Empreenda Salvador e 20.000 no Salvador Tech. As ações do subcomponente Cidade
+Inteligente reúnem serviços que estarão à disposição de toda a população municipal, hoje da ordem de 2.900.000 habitantes, sendo todos
+beneficiários indiretos do Programa.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+(cid:10)
+
+
+Página: 28
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Corporação Andina de Fomento - CAF
+Total:
+
+Sigla
+
+CF
+Sigla
+
+CAF
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+Valor Proposto
+
+31.250.000,00
+Valor Proposto
+
+125.000.000,00
+156.250.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+31.250.000,00
+Valor de Referência US
+$
+125.000.000,00
+156.250.000,00
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+(i) Arranjo Institucional
+
+A Prefeitura Municipal de Salvador, mutuária do financiamento, designa como executor do Programa a Secretaria Municipal de
+Infraestrutura (SEINFRA), onde estará localizada a UGP - Unidade de Gerenciamento do Programa, tendo Secretarias e Órgãos como
+subexecutores, conforme nomeados na Matriz de Responsabilidades.
+
+A UGP será a responsável pela interlocução operacional com a Corporação Andina de Fomento (CAF), organismo multilateral de crédito e
+com os agentes das diversas Secretarias e Órgãos envolvidos.
+
+(ii) Matriz de Responsabilidades (Tabela 6)
+
+O Componente relativo às Obras de Infraestrutura abrange ações das seguintes Secretarias e Órgãos:
+
+SECRETARIA MUNICIPAL DE INFRAESTRUTURA E OBRAS PÚBLICAS (SEINFRA) - responsável pela elaboração de projetos, através
+de sua Diretoria de Engenharia. Contará o apoio e colaboração da Fundação Mário Leal Ferreira, sempre e quando necessário;
+
+SECRETARIA MUNICIPAL DE MOBILIDADE (SEMOB) - responsável pela realização dos estudos, elaboração dos projetos e execução
+das obras da Estação de Recarga do Sistema BRT e a Requalificação do Elevador Lacerda;
+
+SUPERINTENDÊNCIA DE OBRAS PÚBLICAS DE SALVADOR (SUCOP) - responsável pela execução das obras dos diversos projetos de
+infraestrutura e equipamentos urbanos.
+
+O Componente relativo a Qualificação Profissional e Transformação Digital contará com a atuação de duas Secretarias do Município:
+
+SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO, EMPREGO E RENDA (SEMDEC) - responsável pela
+implementação das ações relativas ao Subcomponente Trabalho, Emprego e Renda;
+
+SECRETARIA MUNICIPAL DE INOVAÇÃO E TECNOLOGIA (SEMIT) - responsável pelas ações relativas ao Subcomponente Cidade
+Inteligente.
+
+Será firmado Convênio de Cooperação Técnica entre a Secretaria Municipal de Infraestrutura e Obras Públicas - SEINFRA e cada uma
+das unidades envolvidas na execução do Programa, objetivando o estabelecimento das obrigações e responsabilidades pertinentes.
+
+(iii) Arranjo Operacional
+
+O nível estratégico do Programa será exercido pela SEINFRA, com o apoio institucional da Casa Civil da Prefeitura, que exerce esta
+função em relação a todos os demais projetos municipais de financiamento externo.
+
+O nível de coordenação e gestão será exercido especificamente pela SEINFRA, através da Unidade de Gestão do Programa (UGP),
+devidamente equipada e com quadro de recursos humanos alocados com dedicação exclusiva às atividades e tarefas atinentes ao
+Programa.
+
+No Nível de Execução e Apoio Técnico, para bem executar o Programa, zelando por sua governança e eficiência, será adotada para a
+UGP o mesmo modelo de estrutura que vem sendo utilizado com êxito pela Prefeitura em outros programas de financiamento externo, via
+agências multilaterais de crédito, como o BID (PRODETUR Salvador; Mané Dendê), o BIRD (Salvador Social I e II) e a própria CAF (
+PROQUALI).
+
+Serão instituídos, em caráter temporário, como instâncias para gestão e execução do PROGRAMA DE INCLUSÃO SOCIAL E
+TERRITORIAL, no âmbito da Secretaria Municipal de Infraestrutura e Obras Públicas - SEINFRA:
+
+I.O Comitê Consultivo de Coordenação do PROGRAMA DE INCLUSÃO SOCIAL E TERRITORIAL;
+
+II.A Unidade de Gestão do Projeto - UGP;
+
+
+Página: 29
+
+a.Comissão Especial de Licitação do PROGRAMA DE INCLUSÃO SOCIAL E TERRITORIAL.
+
+III.O Núcleo Permanente de Articulação do PROGRAMA DE INCLUSÃO SOCIAL E TERRITORIAL.
+
+I.O Comitê Consultivo de Coordenação do PROGRAMA DE INCLUSÃO SOCIAL E TERRITORIAL, instância de nível estratégico, é
+responsável por definição de diretrizes que orientarão a gestão da UGP.
+
+O Comitê se reunirá periodicamente a cada 06 (seis) meses e de forma extraordinária para deliberar sobre assuntos e proposições
+pertinentes à sua área de competência dentro do PROGRAMA DE INCLUSÃO SOCIAL E TERRITORIAL, sobretudo as que venham
+necessitar de apoio institucional de alguma natureza.
+
+O Comitê será composto pelos titulares dos órgãos e entes da administração direta e indireta que participam da execução do PROGRAMA
+DE INCLUSÃO SOCIAL E TERRITORIAL,
+
+I.Secretaria Municipal de Infraestrutura e Obras Públicas - SEINFRA, que ocupará a Presidência do Comitê;
+
+II.Casa Civil do Município;
+
+III.Secretaria Municipal de Desenvolvimento Econômico, Emprego e Renda -SEMDEC;
+
+IV.Secretaria Municipal de Mobilidade - SEMOB
+
+V.Secretaria Municipal de Sustentabilidade e Resiliência - SECIS;
+
+VI.Secretaria Municipal de Inovação e Tecnologia - SEMIT
+
+VII.Secretaria Municipal de Promoção Social e Combate à Pobreza, Esportes e Lazer - SEMPRE
+
+VIII.Procuradoria Geral do Município de Salvador - PGMS
+
+IX.Superintendência de Obras Públicas do Salvador- SUCOP;
+
+A composição da UGP, com cargos e atribuições, está disponível na Tabela 07.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: SECRETARIA MUNICIPAL DE INFRAESTRUTURA E OBRAS - SEINFRA
+
+Representante Oficial: Julio Cesar dos Santos
+
+Endereço da Sede: Rua da Bélgica, 10 - Comércio
+E-mail Institucional:
+
+Telefone: (71) 3202-4603
+
+CNPJ: 13927801001110
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+COMPONENTES
+
+C - OBRAS DE INFRAESTRUTURA
+
+S - MOBILIDADE URBANA
+
+P - Estação de Recarga do Sistema BRT
+
+P - Teleférico do Mané Dendê
+
+P - Rua de Pedestres: Ligação Metrô-Campo da Pólvora / Baixa dos Sapateiros / Pelourinho /
+Comércio
+P - Requalificação do Elevador Lacerda
+
+S - ARTICULAÇÕES COM A ANTIGA ESTRADA DO DER-BA
+
+P - Articulação com o Hospital do Subúrbio
+
+P - Articulação com as Ruas das Pedrinhas e Franco Velasco
+
+P - Articulação com a Via Bronze
+
+S - EQUIPAMENTOS URBANOS
+
+P - Centro de Interpretação da Mata Atlântica
+
+Fax:
+UF:
+
+VALOR
+
+CUSTO
+116.975.000,00
+
+Ano 1
+
+FONTES
+
+CF
+
+CAF
+
+6.600.000,00
+
+16.140.000,00
+
+93.375.000,00
+
+3.220.000,00
+
+6.700.000,00
+
+2.000.000,00
+
+2.000.000,00
+
+52.275.000,00
+
+0,00
+
+0,00
+
+0,00
+
+37.500.000,00
+
+1.220.000,00
+
+6.700.000,00
+
+1.600.000,00
+
+0,00
+
+0,00
+
+22.400.000,00
+
+2.180.000,00
+
+9.440.000,00
+
+5.600.000,00
+
+520.000,00
+
+2.480.000,00
+
+4.800.000,00
+
+460.000,00
+
+2.360.000,00
+
+12.000.000,00
+
+1.200.000,00
+
+4.600.000,00
+
+1.200.000,00
+
+1.200.000,00
+
+1.200.000,00
+
+1.200.000,00
+
+0,00
+
+0,00
+
+C - QUALIFICAÇÃO PROFISSIONAL E TRANSFORMAÇÃO DIGITAL
+
+34.885.000,00
+
+1.297.000,00
+
+9.500.000,00
+
+S - TRABALHO, EMPREGO E RENDA
+
+P - Treinar para Empregar
+
+P - Empreenda Salvador
+
+P - Salvador Tech
+
+15.841.000,00
+
+422.000,00
+
+2.600.000,00
+
+8.082.000,00
+
+167.000,00
+
+1.600.000,00
+
+1.605.000,00
+
+105.000,00
+
+200.000,00
+
+4.464.000,00
+
+150.000,00
+
+800.000,00
+
+P - Inclusão produtiva através da alfabetização digital para o desenvolvimento econômico
+
+1.690.000,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+
+Página: 30
+
+S - CIDADE INTELIGENTE
+
+P - Implantação do Observatório Salvador
+
+P - Implantação do armazenamento em nuvem
+
+P - Unidade de Gestão Estratégica
+
+P - Estratégia GovTech Municipal
+
+P - Digitalização de Serviços em Áreas Prioritárias
+
+P - Plataforma de Gestão do Programa de Capacitação
+
+P - COMÉRCIO, Bairro Inteligente
+
+C - GESTÃO DO PROJETO
+
+S - GESTÃO DO PROGRAMA
+
+P - Apoio Técnico ao Programa
+
+P - Supervisão das obras e serviços
+
+P - Auditoria Externa
+
+S - CUSTOS DE FINANCIAMENTO
+
+P - Comissão de Financiamento
+
+P - Avaliação e Estruturação
+
+19.044.000,00
+
+875.000,00
+
+6.900.000,00
+
+2.630.000,00
+
+80.000,00
+
+1.500.000,00
+
+4.198.000,00
+
+99.000,00
+
+2.000.000,00
+
+2.140.000,00
+
+1.070.000,00
+
+2.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+4.096.000,00
+
+696.000,00
+
+3.400.000,00
+
+2.910.000,00
+
+0,00
+
+0,00
+
+4.390.000,00
+
+409.000,00
+
+1.617.600,00
+
+3.277.500,00
+
+409.000,00
+
+505.100,00
+
+568.000,00
+
+27.400,00
+
+100.000,00
+
+2.639.500,00
+
+379.200,00
+
+393.500,00
+
+70.000,00
+
+2.400,00
+
+11.600,00
+
+1.112.500,00
+
+1.062.500,00
+
+50.000,00
+
+0,00
+
+0,00
+
+0,00
+
+1.112.500,00
+
+1.062.500,00
+
+50.000,00
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+8.306.000,00
+
+27.257.600,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+COMPONENTES
+
+C - OBRAS DE INFRAESTRUTURA
+
+S - MOBILIDADE URBANA
+
+P - Estação de Recarga do Sistema BRT
+
+P - Teleférico do Mané Dendê
+
+P - Rua de Pedestres: Ligação Metrô-Campo da Pólvora / Baixa dos Sapateiros / Pelourinho /
+Comércio
+P - Requalificação do Elevador Lacerda
+
+VALOR
+
+CUSTO
+
+S - ARTICULAÇÕES COM A ANTIGA ESTRADA DO DER-BA
+
+P - Articulação com o Hospital do Subúrbio
+
+P - Articulação com as Ruas das Pedrinhas e Franco Velasco
+
+P - Articulação com a Via Bronze
+
+S - EQUIPAMENTOS URBANOS
+
+P - Centro de Interpretação da Mata Atlântica
+
+C - QUALIFICAÇÃO PROFISSIONAL E TRANSFORMAÇÃO DIGITAL
+
+S - TRABALHO, EMPREGO E RENDA
+
+P - Treinar para Empregar
+
+P - Empreenda Salvador
+
+P - Salvador Tech
+
+P - Inclusão produtiva através da alfabetização digital para o desenvolvimento econômico
+
+S - CIDADE INTELIGENTE
+
+P - Implantação do Observatório Salvador
+
+P - Implantação do armazenamento em nuvem
+
+P - Unidade de Gestão Estratégica
+
+P - Estratégia GovTech Municipal
+
+P - Digitalização de Serviços em Áreas Prioritárias
+
+P - Plataforma de Gestão do Programa de Capacitação
+
+P - COMÉRCIO, Bairro Inteligente
+
+C - GESTÃO DO PROJETO
+
+S - GESTÃO DO PROGRAMA
+
+P - Apoio Técnico ao Programa
+
+P - Supervisão das obras e serviços
+
+P - Auditoria Externa
+
+S - CUSTOS DE FINANCIAMENTO
+
+P - Comissão de Financiamento
+
+P - Avaliação e Estruturação
+
+Ano 2
+
+FONTES
+
+CF
+
+CAF
+
+3.800.000,00
+
+33.480.000,00
+
+1.500.000,00
+
+25.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+10.000.000,00
+
+1.500.000,00
+
+15.000.000,00
+
+0,00
+
+0,00
+
+2.300.000,00
+
+8.480.000,00
+
+600.000,00
+
+2.000.000,00
+
+500.000,00
+
+1.480.000,00
+
+1.200.000,00
+
+5.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+771.500,00
+
+8.150.000,00
+
+475.000,00
+
+2.600.000,00
+
+200.000,00
+
+1.600.000,00
+
+125.000,00
+
+200.000,00
+
+150.000,00
+
+800.000,00
+
+0,00
+
+0,00
+
+296.500,00
+
+5.550.000,00
+
+50.000,00
+
+1.000.000,00
+
+99.000,00
+
+2.000.000,00
+
+90.000,00
+
+2.050.000,00
+
+0,00
+
+0,00
+
+57.500,00
+
+500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+409.000,00
+
+361.600,00
+
+409.000,00
+
+361.600,00
+
+27.400,00
+
+150.000,00
+
+379.200,00
+
+200.000,00
+
+2.400,00
+
+11.600,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+4.980.500,00
+
+41.991.600,00
+
+0,00
+
+0,00
+
+COMPONENTES
+
+C - OBRAS DE INFRAESTRUTURA
+
+S - MOBILIDADE URBANA
+
+P - Estação de Recarga do Sistema BRT
+
+P - Teleférico do Mané Dendê
+
+P - Rua de Pedestres: Ligação Metrô-Campo da Pólvora / Baixa dos Sapateiros / Pelourinho /
+Comércio
+P - Requalificação do Elevador Lacerda
+
+S - ARTICULAÇÕES COM A ANTIGA ESTRADA DO DER-BA
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+CAF
+
+14.875.000,00
+
+42.080.000,00
+
+14.875.000,00
+
+42.080.000,00
+
+0,00
+
+0,00
+
+12.275.000,00
+
+30.000.000,00
+
+1.000.000,00
+
+12.080.000,00
+
+1.600.000,00
+
+0,00
+
+0,00
+
+0,00
+
+
+Página: 31
+
+P - Articulação com o Hospital do Subúrbio
+
+P - Articulação com as Ruas das Pedrinhas e Franco Velasco
+
+P - Articulação com a Via Bronze
+
+S - EQUIPAMENTOS URBANOS
+
+P - Centro de Interpretação da Mata Atlântica
+
+C - QUALIFICAÇÃO PROFISSIONAL E TRANSFORMAÇÃO DIGITAL
+
+S - TRABALHO, EMPREGO E RENDA
+
+P - Treinar para Empregar
+
+P - Empreenda Salvador
+
+P - Salvador Tech
+
+P - Inclusão produtiva através da alfabetização digital para o desenvolvimento econômico
+
+S - CIDADE INTELIGENTE
+
+P - Implantação do Observatório Salvador
+
+P - Implantação do armazenamento em nuvem
+
+P - Unidade de Gestão Estratégica
+
+P - Estratégia GovTech Municipal
+
+P - Digitalização de Serviços em Áreas Prioritárias
+
+P - Plataforma de Gestão do Programa de Capacitação
+
+P - COMÉRCIO, Bairro Inteligente
+
+C - GESTÃO DO PROJETO
+
+S - GESTÃO DO PROGRAMA
+
+P - Apoio Técnico ao Programa
+
+P - Supervisão das obras e serviços
+
+P - Auditoria Externa
+
+S - CUSTOS DE FINANCIAMENTO
+
+P - Comissão de Financiamento
+
+P - Avaliação e Estruturação
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+552.500,00
+
+4.100.000,00
+
+425.000,00
+
+2.600.000,00
+
+200.000,00
+
+1.600.000,00
+
+125.000,00
+
+200.000,00
+
+100.000,00
+
+800.000,00
+
+0,00
+
+0,00
+
+127.500,00
+
+1.500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+70.000,00
+
+1.000.000,00
+
+57.500,00
+
+500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+409.000,00
+
+261.600,00
+
+409.000,00
+
+261.600,00
+
+27.400,00
+
+150.000,00
+
+379.200,00
+
+100.000,00
+
+2.400,00
+
+11.600,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+15.836.500,00
+
+46.441.600,00
+
+0,00
+
+0,00
+
+COMPONENTES
+
+C - OBRAS DE INFRAESTRUTURA
+
+S - MOBILIDADE URBANA
+
+P - Estação de Recarga do Sistema BRT
+
+P - Teleférico do Mané Dendê
+
+P - Rua de Pedestres: Ligação Metrô-Campo da Pólvora / Baixa dos Sapateiros / Pelourinho /
+Comércio
+P - Requalificação do Elevador Lacerda
+
+S - ARTICULAÇÕES COM A ANTIGA ESTRADA DO DER-BA
+
+P - Articulação com o Hospital do Subúrbio
+
+P - Articulação com as Ruas das Pedrinhas e Franco Velasco
+
+P - Articulação com a Via Bronze
+
+S - EQUIPAMENTOS URBANOS
+
+P - Centro de Interpretação da Mata Atlântica
+
+C - QUALIFICAÇÃO PROFISSIONAL E TRANSFORMAÇÃO DIGITAL
+
+S - TRABALHO, EMPREGO E RENDA
+
+P - Treinar para Empregar
+
+P - Empreenda Salvador
+
+P - Salvador Tech
+
+P - Inclusão produtiva através da alfabetização digital para o desenvolvimento econômico
+
+S - CIDADE INTELIGENTE
+
+P - Implantação do Observatório Salvador
+
+P - Implantação do armazenamento em nuvem
+
+P - Unidade de Gestão Estratégica
+
+P - Estratégia GovTech Municipal
+
+P - Digitalização de Serviços em Áreas Prioritárias
+
+P - Plataforma de Gestão do Programa de Capacitação
+
+P - COMÉRCIO, Bairro Inteligente
+
+C - GESTÃO DO PROJETO
+
+S - GESTÃO DO PROGRAMA
+
+P - Apoio Técnico ao Programa
+
+P - Supervisão das obras e serviços
+
+P - Auditoria Externa
+
+S - CUSTOS DE FINANCIAMENTO
+
+P - Comissão de Financiamento
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+CAF
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+559.000,00
+
+4.590.000,00
+
+359.000,00
+
+2.200.000,00
+
+200.000,00
+
+1.200.000,00
+
+125.000,00
+
+200.000,00
+
+34.000,00
+
+800.000,00
+
+0,00
+
+0,00
+
+200.000,00
+
+2.390.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+885.000,00
+
+0,00
+
+200.000,00
+
+1.505.000,00
+
+409.000,00
+
+409.000,00
+
+27.400,00
+
+379.200,00
+
+42.600,00
+
+42.600,00
+
+31.000,00
+
+0,00
+
+2.400,00
+
+11.600,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+
+Página: 32
+
+P - Avaliação e Estruturação
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+0,00
+
+0,00
+
+968.000,00
+
+4.632.600,00
+
+0,00
+
+0,00
+
+COMPONENTES
+
+C - OBRAS DE INFRAESTRUTURA
+
+S - MOBILIDADE URBANA
+
+P - Estação de Recarga do Sistema BRT
+
+P - Teleférico do Mané Dendê
+
+P - Rua de Pedestres: Ligação Metrô-Campo da Pólvora / Baixa dos Sapateiros / Pelourinho /
+Comércio
+P - Requalificação do Elevador Lacerda
+
+S - ARTICULAÇÕES COM A ANTIGA ESTRADA DO DER-BA
+
+P - Articulação com o Hospital do Subúrbio
+
+P - Articulação com as Ruas das Pedrinhas e Franco Velasco
+
+P - Articulação com a Via Bronze
+
+S - EQUIPAMENTOS URBANOS
+
+P - Centro de Interpretação da Mata Atlântica
+
+C - QUALIFICAÇÃO PROFISSIONAL E TRANSFORMAÇÃO DIGITAL
+
+S - TRABALHO, EMPREGO E RENDA
+
+P - Treinar para Empregar
+
+P - Empreenda Salvador
+
+P - Salvador Tech
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+CAF
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+25.275.000,00
+
+91.700.000,00
+
+19.595.000,00
+
+73.780.000,00
+
+2.000.000,00
+
+0,00
+
+12.275.000,00
+
+40.000.000,00
+
+3.720.000,00
+
+33.780.000,00
+
+1.600.000,00
+
+0,00
+
+4.480.000,00
+
+17.920.000,00
+
+1.120.000,00
+
+4.480.000,00
+
+960.000,00
+
+3.840.000,00
+
+2.400.000,00
+
+9.600.000,00
+
+1.200.000,00
+
+1.200.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+700.000,00
+
+4.665.000,00
+
+3.880.000,00
+
+31.005.000,00
+
+495.000,00
+
+3.665.000,00
+
+2.176.000,00
+
+13.665.000,00
+
+200.000,00
+
+1.115.000,00
+
+967.000,00
+
+7.115.000,00
+
+125.000,00
+
+200.000,00
+
+605.000,00
+
+1.000.000,00
+
+30.000,00
+
+800.000,00
+
+464.000,00
+
+4.000.000,00
+
+P - Inclusão produtiva através da alfabetização digital para o desenvolvimento econômico
+
+140.000,00
+
+1.550.000,00
+
+140.000,00
+
+1.550.000,00
+
+S - CIDADE INTELIGENTE
+
+P - Implantação do Observatório Salvador
+
+P - Implantação do armazenamento em nuvem
+
+P - Unidade de Gestão Estratégica
+
+P - Estratégia GovTech Municipal
+
+P - Digitalização de Serviços em Áreas Prioritárias
+
+P - Plataforma de Gestão do Programa de Capacitação
+
+P - COMÉRCIO, Bairro Inteligente
+
+C - GESTÃO DO PROJETO
+
+S - GESTÃO DO PROGRAMA
+
+P - Apoio Técnico ao Programa
+
+P - Supervisão das obras e serviços
+
+P - Auditoria Externa
+
+S - CUSTOS DE FINANCIAMENTO
+
+P - Comissão de Financiamento
+
+P - Avaliação e Estruturação
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+205.000,00
+
+1.000.000,00
+
+1.704.000,00
+
+17.340.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+130.000,00
+
+2.500.000,00
+
+198.000,00
+
+4.000.000,00
+
+90.000,00
+
+2.050.000,00
+
+70.000,00
+
+1.000.000,00
+
+115.000,00
+
+1.885.000,00
+
+696.000,00
+
+3.400.000,00
+
+205.000,00
+
+1.000.000,00
+
+405.000,00
+
+2.505.000,00
+
+459.000,00
+
+459.000,00
+
+27.400,00
+
+429.200,00
+
+11.600,00
+
+2.095.000,00
+
+2.295.000,00
+
+11.600,00
+
+2.095.000,00
+
+1.182.500,00
+
+0,00
+
+0,00
+
+137.000,00
+
+431.000,00
+
+1.946.000,00
+
+693.500,00
+
+2.400,00
+
+11.600,00
+
+12.000,00
+
+58.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.112.500,00
+
+1.062.500,00
+
+50.000,00
+
+156.250.000,00
+
+1.159.000,00
+
+4.676.600,00
+
+31.250.000,00
+
+125.000.000,00
+
+Na área de mobilidade, no caso especifico da Rua de Pedestres (Ligação Metrô - Campo da Pólvora / Baixa dos Sapateiros / Pelourinho /
+Comércio), estão em curso os tramites para operação do sistema pela CCR, mesma concessionária do Metrô Bahia.
+
+Para a operação do Teleférico do Mané Dendê está sendo estudado um modelo de concessão ou parceria público-privada, a depender
+dos resultados da viabilidade econômica-financeira, com prazo aproximado de 30 anos, utilizando como referência projetos bem sucedidos
+em outras cidades da América Latina e do mundo.
+
+No caso de frustração da alternativa de parcerias com a iniciativa privada, em ambos os casos, a operação ficará a cargo da Secretaria de
+Mobilidade (SEMOB) da Prefeitura, que já opera diretamente os ascensores públicos da Cidade, em número de cinco: Elevadores
+Lacerda e do Taboão, Planos Inclinados Gonçalves, Pilar e Liberdade-Calçada.
+
+5.2. RISCOS/CONTRATAÇÕES
+(i) Principais contratações
+
+Todas as licitações serão realizadas ao abrigo da legislação nacional específica, sendo esta condição amplamente aceitas pelo agente
+financeiro, que não impõe condições especiais. A partir de valores definidos no contrato de financiamento, as licitações terão caráter
+internacional.
+
+As principais contratações previstas são:
+
+- Construção de obras infraestrutura viária
+
+- Construção de edificações públicas
+
+
+Página: 33
+
+- Requalificação de espaços públicos
+
+- Implantação de equipamentos de mobilidade
+
+- Desenvolvimento de Sistemas de TI
+
+- Serviços de capacitação profissional
+
+- Serviços de supervisão de obras
+
+- Serviços de auditoria externa
+
+(ii) Contratação de pessoal
+
+Não está prevista a admissão de pessoal para a implementação dos Produtos; apenas a designação de pessoas especializadas para a
+UGP e a realocação de pessoal integrante do quadro próprio da Prefeitura para o exercício e realização das diversas atividades.
+
+(iii) Experiência do Órgão Executor
+
+A Prefeitura tem realizado inúmeros processos licitatórios, inclusive no âmbito de financiamentos por organismos multilaterais de crédito,
+procedendo com rigorosa atenção às normas e procedimentos legais, sem intercorrências.
+
+(iv) Riscos
+
+Havendo grande experiência do Município com a realização de licitações, é de esperar-se que não ocorram imprevistos em sua tramitação
+.
+
+(v) Ações mitigadoras
+
+Todas as etapas dos processos licitatórios serão acompanhadas e validadas, previamente, pela Procuradoria Geral do Município de
+Salvador (PGMS), que dispõe de quadros especializados nessa matéria administrativa.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Nas articulações com as ruas das Pedrinhas e Franco Velasco, bem como na articulação com a via Bronze haverá necessidade de
+remanejamento de algumas poucas unidades habitacionais, decorrentes de ocupações irregulares, para adequação do traçado viário. A
+solução virá por remanejamento da localização na própria área, ganhando os ocupantes imóveis novos em melhores condições que as
+atuais ocupações.
+
+Nenhum dos demais projetos apresenta interferências que demandem desapropriações ou indenizações.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+Todos os Produtos que envolvem interferência com o ambiente físico têm as suas licenças ambientais no próprio âmbito municipal e não
+envolvem perdas ambientais. Ao contrário, vários deles importam em valorização do ambiente natural (Centro de Interpretação da Mata
+Atlântica).
+
+Algumas das intervenções valorizam a mobilidade ativa (Requalificação do Elevador Lacerda e Rua de Pedestres), a micromobilidade (
+Teleférico do Mané Dendê), ou o combate aos efeitos das mudanças climáticas (Estação de Recarga do BRT) contribuindo para
+asustentabilidade urbana.
+
+As licenças ambientais serão submetidas à Secretaria de Desenvolvimento Urbano, cuja competência abrange o licenciamento ambiental.
+
+O programa atende à legislação ambiental nacional e às políticas ambientais da CAF. A UGP e os órgãos executores atuarão em
+alinhamento com esses princípios e normas.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+O programa se refletirá em amplos benefícios sociais para toda a população soteropolitana, na medida em que aprimora as condições de
+mobilidade.
+
+No caso especifico das articulações com a antiga "Estrada do DER-BA", estas trarão benefícios particularmente para a população
+moradora da porção Norte da região suburbana, promovendo condições adequadas para sua acessibilidade ao sistema de transporte
+coletivo da cidade, especialmente metrô e BRT, o que reduzirá os tempos de deslocamento casa-trabalho, além de proporcionar conforto
+e segurança.
+
+Ainda que localizado na península de Itapagipe, o Centro de Interpretação da Mata Atlântica beneficiará toda a Cidade, na medida em que
+se tornará um importante centro de produção de mudas da Mata Atlântica, destinadas à política pública de arborização urbana, mas
+também pelo suprimento remunerado a particulares.
+
+
+Página: 34
+
+As ações de Qualificação Profissional e Transformação Digital beneficiarão diretamente as camadas mais pobres da população, inclusive
+pessoas em condição de pobreza absoluta, assim como desempregados em geral.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Não haverá necessidades de reassentamentos, buscando-se absorver os casos que se façam necessários realocação de moradias no
+entorno das próprias áreas, de modo a não deslocar as pessoas de suas comunidades.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+- 20/12/2022: O "Programa de Inclusão Social e Territorial de Salvador BA" não obteve aprovação na 161ª COFIEX, de 25/Out/2022, por
+sua  classificação  não  alcançar  o  limite  disponível  para  essa  Reunião.  O  pleito  será  reapreciado  na  próxima  reunião  de  deliberação.
+Notificação de Decisão enviada ao Prefeito de Salvador/BA em 1º/Nov/2022. Fase: Aguardando COFIEX. (Em 8/Nov/2022)
+
+Informações relevantes

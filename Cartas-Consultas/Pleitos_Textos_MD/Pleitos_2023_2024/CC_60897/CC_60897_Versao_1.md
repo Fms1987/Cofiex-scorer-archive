@@ -1,0 +1,3472 @@
+# Carta-Consulta CC_60897 — Versao 1 (SIGS)
+
+
+CARTA CONSULTA
+
+A Educação Paulistana Pode +
+
+Nº Carta Consulta: 60897
+Mutuário: Município de São Paulo - SP
+Tipo de Operação: Operação de crédito externo
+
+Fontes Internas:
+Contrapartida Financeira: US$ 112.500.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 60.500.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+A cidade de São Paulo é marcada por sua extensão territorial, densidade demográfica e acentuada disparidade de renda. Possui o 1º
+maior PIB, mas é o 199º colocado no ranking de PIB per capita (IBGE, 2013). Seu IDHM registrou 0,805 (2010), mas ao considerar apenas
+o IDHM Educação, a cidade de São Paulo cai para 0,725.
+
+Com 1.518 escolas e 37.454 professores, a Rede Municipal de Educação de São Paulo (RMESP) atende 336.711 crianças em creches,
+221.842 estudantes na pré-escola, 219.933 nos anos iniciais (AI) e 193.590 nos anos finais (AF) do ensino fundamental. A complexidade
+da rede inclui 2.412 estudantes no ensino médio e 44.404 em turmas de EJA. Para esse atendimento, a Secretaria Municipal de Educação
+(SME) possui em seu quadro 62.847 professores e 82.317 mil funcionários, a maior rede municipal do país.
+
+Os indicadores educacionais paulistanos indicam os seguintes PROBLEMAS:
+
+Desafios de Aprendizagem:
+
+- O IDEB AI da RMESP atingiu a meta (nota 6) e manteve o resultado em 2019, último dado da série. Entretanto, 40% das escolas dos AI
+não atingiram nota 6 no IDEB (2019), há grande disparidade entre as escolas, com notas entre 4,8 e 7,3.
+
+- O IDEB dos AF da RMESP praticamente não evoluiu entre 2005 e 2017. Passou de 4,2 em 2017 para 4,8 em 2019, ainda longe da meta
+(2019) de 5,8. O IDEB das escolas varia entre 2,9 e 6,2 e apenas 4 das as 547 escolas dos AF tem IDEB acima de 6.
+
+- A taxa de distorção idade-série alcançou 7,7% no 5º ano e 12,6% no 9º ano (2020). Na rede privada do município esses percentuais
+foram 2,8% e 5,2%, respectivamente.
+
+Abandono e Evasão Escolar:
+
+Além da defasagem na aprendizagem dos estudantes, o fechamento das escolas decorrente da pandemia do COVID-19 exacerbou o
+problema de evasão escolar: 21 mil crianças deixaram de estudar.
+
+Em resposta a isso, a Política Municipal de Prevenção ao Abandono e à Evasão Escolar (Lei 17.564/2021) exige adequação dos
+currículos para as necessidades pedagógicas emergentes, em especial com relação à tecnologia. Prevê também ações de
+desenvolvimento de competências socioemocionais e a aproximação da família às atividades escolares.
+
+Desafio da Diversidade:
+
+Metade dos estudantes que deixaram as escolas municipais e estaduais de todo o país em 2018 eram pretos e pardos (UNICEF). Além
+disso, as populações preta, parda e indígena têm entre 9% e 13% de estudantes reprovados, enquanto entre brancos esse percentual é
+de 6,5%.
+
+No Censo Escolar de 2015, 80% dos alunos brasileiros indicaram que seus professores carecem de treinamento para ensinar em
+ambientes multilíngues e multiculturais, a maior porcentagem entre todos os países avaliados pelo PISA.
+
+Desafios na Formação de Professores:
+
+A RMESP promove formação de professores, mas os cursos optativos oferecidos pela SME apresentam percentual de concluintes muito
+abaixo do esperado.
+
+Desafios Tecnológicos:
+
+As ferramentas digitais de suporte e apoio à aprendizagem não são integradas ao desenvolvimento de habilidades dos alunos. Também
+não há conteúdos digitais para desenvolvimento profissional dos professores, diretores e técnicos. Apenas 38% dos professores da rede
+pública municipal paulistana declararam-se preparados para usar novas TICs na prática pedagógica; apenas 19% indicaram usar internet
+na escola (INEP).
+
+Desafio de Avaliação:
+
+As avaliações em larga escala aplicadas pelo município (Prova São Paulo; IDEP e SERAp) têm seus resultados divulgados com maior
+rapidez do que as avaliações nacionais, porém ainda não apresentam processo integrado e devolutiva pedagógica ao professor.
+
+Desafio de atendimento e qualidade na Educação Infantil (EI):
+
+Apesar do esforço em atender plenamente a demanda por creches, com uma oferta total de 336.711 vagas, a demanda segue crescente.
+As organizações parceiras são responsáveis por 85% da cobertura. É necessário aprimorar os ambientes, formação e supervisão para
+garantir qualidade.
+
+Desafios de Infraestrutura (SAEB, 2019):
+
+- 39% dos professores apontam inadequação da acústica das salas, 34% da acessibilidade, e 20% do mobiliário;
+
+
+Página: 3
+
+- 31% das escolas não têm banheiro acessível e 76% não têm sala de recursos multifuncionais para atendimento especializado.
+
+Tempo de Educação limitado:
+
+A extensão do período escolar (hoje 5,1h) configura o próximo passo para a qualificação das ações educacionais.
+
+Complexidade de Gestão:
+
+Embora a rede municipal tenha importantes ferramentas de gestão em funcionamento, estas encontram-se em diferentes níveis de
+maturidade e há uma grande demanda por dados integrados que favoreçam a gestão do dia a dia e as decisões estratégicas.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+As SOLUÇÕES do projeto terão três frentes principais. A primeira consiste no aprimoramento das práticas pedagógicas, com o uso de
+tecnologias educacionais alinhadas ao currículo de forma uniforme em todas as escolas, para a garantia de equidade. O uso da tecnologia
+também permitirá o envolvimento das famílias nos compromissos escolares e com isso estimular a frequência e permanência dos
+estudantes na escola. Esta mesma frente inclui a modernização e melhoria da qualidade dos processos de formação e de avaliação. A
+formação de professores e demais profissionais da educação terá instrumentos e ferramentas para acontecer de forma híbrida (ambiente
+virtual e presencial nas próprias escolas), terá conteúdos atualizados e conectados com o currículo e com as práticas mais inovadoras
+para a formação integral dos estudantes, que deverá incluir para além de acadêmicos, competências socioemocionais, uso de tecnologias
+educacionais, integração da escola com a cidade etc. O processo de avaliação deverá contar com uma maior participação dos professores
+na geração de questões, terá funcionalidades mais modernas e irá ser complementado com um processo de devolutiva para o diretor,
+professor e para o estudante, com o intuito de encadear uma série de ações corretivas e adaptativas para a garantia da aprendizagem no
+tempo adequado.
+
+A segunda frente do projeto é de reorganização e ampliação da rede, e visa ofertar creches de qualidade a toda demanda manifesta,
+assim como estender a jornada escolar para período integral na educação infantil e ensino fundamental da rede municipal. Para tal, será
+necessário um estudo aprofundado da demanda no território e das soluções ótimas, culminando em um aporte de investimento massivo
+em infraestrutura, com ações de construção, expansão, reforma e adaptação de espaços escolares, seguindo padrões de acessibilidade e
+inclusão, sustentabilidade e eficiência energética que resulte em espaços escolares de alto padrão. Por fim, ainda na frente de
+infraestrutura, o projeto prevê ações de integração entre cidade e escola com o compartilhamento de parques, quadras e bibliotecas e o
+mapeamento e uso de tudo o que a cidade tem para oferecer em termos de cultura, tecnologia e natureza.
+
+O terceiro grupo de ações busca tornar a gestão escolar eficiente, com informações robustas e tempestivas, dados integrados e um
+processo simplificado, em que cada integrante da rede conhece e exerce seu papel. Devem ser definidas novas responsabilidades como a
+de supervisão pedagógica das unidades parceiras na oferta de creche e a do profissional instrutor de tempo integral. Os processos de
+supervisão do ambiente escolar serão revistos e aprimorados para garantir o pleno desenvolvimento de cada estudante, e a devida
+manutenção e organização do espaço escolar.
+
+Os RESULTADOS ESPERADOS para o programa são:
+
+- Atender plenamente e com qualidade a demanda por creche do município, garantindo a todos o direito ao pleno desenvolvimento infantil
+na primeira infância;
+
+- Superar as metas do IDEB em todas as escolas municipais, alcançando no médio prazo nota acima de 7 nos anos iniciais e acima de 6
+nos anos finais do ensino fundamental;
+
+- Alfabetizar todas as crianças até o final do 2° ano do ensino fundamental sem qualquer diferencial (por raça, posição socioeconômica ou
+nacionalidade);
+
+- Atender 20% dos estudantes com escolas em tempo integral (100% ao final do processo de 15-20 anos);
+
+- Reduzir drasticamente os níveis de evasão escolar e defasagem idade série sem qualquer diferencial (por raça, posição socioeconômica
+ou nacionalidade).
+
+SUSTENTABILIDADE DO PROJETO
+
+Alguns dos objetivos do programa podem acarretar aumento do gasto corrente, mas existem ações planejadas para diminuir esses
+impactos. O custo de contratação de profissionais adicionais necessários para expansão da carga horária será amenizado com a
+otimização da enturmação de alunos por sala e da alocação de professores. Esses custos de pessoal, por se tratar de um gasto corrente,
+não estão previstos dentro do projeto e serão pagos com recursos do tesouro do município.
+
+As ferramentas tecnológicas irão contribuir para a extensão da carga horária sem a necessidade de contratar professores especialistas,
+que possuem horas com maior remuneração. O investimento em tecnologia para a formação dos professores e demais profissionais da
+educação irá reduzir os custos de locação e realização de eventos necessários nos processos de formação continuada tradicionais. As
+atividades de avaliação irão construir a capacidade institucional dentro da SME-SP para que não sejam necessárias novas contratações
+de serviço de avaliação, diminuindo o custo futuro desse processo.
+
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+A construção, reforma e expansão das unidades escolares irá contar com estrutura resiliente e sustentável, que diminuirá os custos de
+manutenção e o consumo de energia elétrica e de água. Ademais, estão previstas unidades de maior porte e que possuem um custo por
+aluno menor. Está sendo realizada uma análise da demanda futura necessária por bairro, permitindo a redução do custo com transporte
+de alunos e uma ocupação maior das escolas.
+
+Por fim a redução da reprovação e abandono, além do benefício para o estudante, também gera impacto positivo sobre os custos futuros,
+uma vez que o estudante que repete de ano gera o mesmo gasto mais de uma vez. Além disso, o programa irá gerar ganhos no aumento
+dos níveis de aprendizagem e de capital humano, que deve gerar crescimento econômico para a cidade e aumento da renda da população
+, além de redução da criminalidade e melhoria da qualidade de vida da população.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+As soluções propostas são coerentes com as prioridades do Plano Estratégico da Cidade e da Secretaria Municipal de Educação.
+
+No Plano Plurianual (PPA 2020-2023 - Lei nº. 17.262, de 09 de abril de 2020) consta como objetivo estratégico: Educação de qualidade,
+inclusiva e transformadora, buscando o desenvolvimento pleno. O PPA pontua que esse objetivo será alcançado por meio da oferta de
+educação pública de qualidade e inclui ampliação e difusão do acesso aos equipamentos culturais e atividades esportivas, de modo a
+contribuir para a formação e qualidade de vida de todos.
+
+O Mapa Estratégico da Secretaria Municipal de Educação de São Paulo (Anexo I) estabelece como visão para a RMESP ser referência
+em ensino público de qualidade com equidade, que prima pela excelência, inclusão e inovação, por meio de uma gestão moderna e
+qualificada e uma rede comprometida e integrada e organiza suas ações em quatro blocos: excelência na educação; rede comprometida e
+integrada; recursos habilitadores; gestão moderna e qualificada.
+
+Ou seja, o projeto é consistente com as prioridades estratégicas do município e configura um choque de recursos e capacidade de
+execução para uma Secretaria que, apesar de extremamente qualificada, é responsável por uma rede de dimensões comparáveis a
+países inteiros e que encontra-sese encontra sobrecarregada com problemas do dia a dia e incêndios exacerbados pelo contexto da
+pandemia.
+
+Se considerarmos as orientações estratégicas do Plano Nacional de Educação 2014-2024 (LEI N° 13.005/2014), notamos alinhamento
+direto do projeto da prefeitura municipal de São Paulo nas diretrizes: (II)universalização do atendimento escolar; (III) superação das
+desigualdades educacionais, com ênfase na promoção da cidadania e na erradicação de todas as formas de discriminação; (IV) melhoria
+da qualidade da educação; e (X)  promoção dos princípios do respeito aos direitos humanos, à diversidade e à sustentabilidade
+socioambiental. São atendidas diretamente as metas 1 (Educação Infantil), 2 (Trejetória Escolar EF), 4 (Inclusão), 5 (Alfabetização da
+idade certa), 6 (Educação em Tempo Integral) e 7 (melhoria do fluxo escolar e da aprendizagem) do PNE.
+
+2. Projeto
+
+### 2.1. Título
+
+
+A Educação Paulistana Pode +
+
+
+### 2.2. Título Abreviado
+
+
+### 2.3. Mutuário
+
+
+Município de São Paulo - SP
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+O OBJETIVO GERAL do programa é tornar a escola pública paulistana um espaço de excelência e equidade à base de um modelo
+pedagógico consistente com os desafios do mundo atual, espaços escolares adequados às necessidades dos estudantes e integrados às
+comunidades e com um modelo de gestão efetivo.
+
+Por espaço de excelência, entende-se a escola pública adequada para atender de crianças pequenas a adolescentes, em cada estágio do
+seu desenvolvimento; que acolha necessidades especiais; que celebre a diversidade; e que incorpore práticas ambientalmente
+sustentáveis. A excelência deve ter como elementos estruturantes o acompanhamento das aprendizagens, a qualificação dos professores
+e de todos os demais profissionais da educação, e deve permear ainda as práticas e os sistemas de gestão da secretaria municipal. Além
+de qualificar o ambiente escolar, com a incorporação das tecnologias educacionais e o refinamento das práticas de formação e de
+avaliação, programa irá contribuir de forma ativa para a ampliação do acesso e melhoria da qualidade da oferta da educação em tempo
+integral, com a ampliação de turnos nas unidades existentes e a construção de novas unidades escolares.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+Soma-se ao intenso processo de planejamento e apoio técnico, a prática de diálogo, envolvimento e comunicação com a comunidade, que
+está previsto desde a primeira fase do projeto.
+
+OBJETIVOS ESPECÍFICOS:
+
+1. Melhorar as práticas pedagógicas de avaliação e formação, utilizar tecnologias educacionais e valorizar a diversidade para garantir os
+níveis adequados de aprendizagem a todos.
+
+2. Ampliar a oferta de escola em tempo integral, qualificar a infraestrutura escolar e integrar a escola com a cidade para alcançar
+desenvolvimento integral das crianças e bem-estar para a comunidade.
+
+3. Aumentar a eficiência, melhorar a gestão e a comunicação entre secretaria municipal, escola e comunidade com sistematização,
+integração, revisão dos processos e incentivos aos profissionais da educação.
+
+
+### 2.6. Projeto/Indicadores
+
+
+Descrição
+IDEB dos anos Iniciais do Ensino Fundamental ?
+Rede Municipal de São Paulo
+
+Número de escolas dos Anos Iniciais do Ensino
+Fundamental com IDEB abaixo de 6
+
+IDEB dos anos Finais do Ensino Fundamental ?
+Rede Municipal de São Paulo
+
+Número de escolas dos Anos Finais do Ensino
+Fundamental com IDEB abaixo de 5
+
+
+### 2.7. Projeto/Componentes
+
+
+Escolas.
+
+Nota média das
+escolas mu
+
+Fórmula de Cálculo Unidade de Medida
+O Ideb é calculado
+com base no
+aprendizado dos
+alunos em português
+e matemática (Prova
+Brasil) e no fluxo
+escolar (taxa de
+aprovação) pelo INEP.
+Fonte primária INEP,
+fonte secundária
+QEdu.
+O Ideb é calculado
+com base no
+aprendizado dos
+alunos em português
+e matemática (Prova
+Brasil) e no fluxo
+escolar (taxa de
+aprovação) pelo INEP.
+Fonte primária INEP,
+fonte secundária
+QEdu.
+
+Esse é o indicador
+da méd
+
+Nota média das
+escolas mu
+
+Linha de Base
+6,00
+
+Meta
+6,50
+
+210,00
+
+4,80
+
+0,00
+
+5,80
+
+250,00
+
+0,00
+
+(cid:10)
+(cid:10)
+
+
+Componentes
+C - COMPONENTE 1: AÇÕES PEDAGÓGICAS E TECNOLOGIAS EDUCACIONAIS PARA EXCELÊNCIA E
+EQUIDADE
+S - 1.1 TECNOLOGIAS EDUCACIONAIS
+P - 1.1.1 Portal do Aluno com Recursos Educacionais Digitais Integrados
+P - 1.1.2 Centro de Produção de Mídias para estudantes e professores
+P - 1.1.3 Alinhamento entre Tecnologias Educacionais e Currículo da Cidade
+P - 1.1.4 Plataformas de Recursos Educacionais Digitais
+P - 1.1.5 Infraestrutura Tecnológica: Conectividade nas Escolas
+P - 1.1.6 Infraestrutura Tecnológica: Dispositivos Individuais
+P - 1.1.7 Infraestrutura Tecnológica: Novas Tecnologias para Fundamental 2
+P - 1.1.8 Sistema de envio de mensagens (nudges) para ações comunicacionais para aumentar engajamento
+das famílias e estudantes (nudges)
+S - 1.2 EDUCAÇÃO INCLUSIVA, MULTICULTURAL E ANTIRRACISTA
+P - 1.2.1 Levantamentos e pesquisas de diagnóstico para aprofundar o entendimento das desigualdades étnico-
+raciais no ambiente escolar
+P - 1.2.2 Materiais de formação e apoio à prática pedagógica adequados a uma abordagem inclusiva,
+multicultural e antirracista
+P - 1.2.3 Materiais e programas de formação de professores com foco na questão étnico-racial
+S - 1.3 FORMAÇÃO SÓLIDA E ATUAL AOS PROFISSIONAIS DA EDUCAÇÃO
+P - 1.3.1 Diretrizes para Programa de Formação de Profissionais da Educação híbrido e atrelado à avaliação de
+desempenho
+P - 1.3.2 Ambiente Virtual de Aprendizagem para Profissionais da Educação (aberto/acesso livre)
+P - 1.3.3 Desenvolvimento do Conteúdo das Trilhas de Formação
+S - 1.4 AVALIAÇÃO CONTÍNUA, INTEGRADA E COM DEVOLUTIVA PEDAGÓGICA
+P - 1.4.1 Processo de produção e utilização os itens pelos professores - Testes Adaptativos Informatizados (TAI)
+e módulo de correção de textos
+P - 1.4.2 Aprimoramento da Devolutiva da Avaliação aos Professores
+P - 1.4.3 Processo e Sistema de Avaliação do Contexto Escolar na Educação Infantil na Rede Conveniada
+C - C 2: CRECHE DE QUALIDADE PARA TODOS E ESCOLA INTEGRAL E INTEGRADA À COMUNIDADE
+S - 2.1 EXPANSÃO DA OFERTA E MELHORIA DA QUALIDADE DAS CRECHES
+P - 2.1.1 Plano de Expansão da Oferta de Creches com a definição de estratégias de atendimento de 100% da
+demanda
+P - 2.1.2 Expansão, Reforma e Melhoria da Infraestrutura das Creches existentes
+P - 2.1.3 Aquisição de Equipamentos, Mobiliário e Material Pedagógico
+S - 2.2 ESCOLA INTEGRAL EM TEMPO INTEGRAL
+P - 2.2.1 Plano de Expansão das Escolas da RMESP a partir de análise de oferta e demanda para atendimento
+em tempo integral
+P - 2.2.2 Construção de Escolas Novas
+P - 2.2.3 Expansão e Reforma de Escolas, com adaptações para acessibilidade e sustentabilidade
+P - 2.2.4 Aquisição de Equipamentos e Mobiliário
+S - 2.3 CIDADE COMO ESCOLA E ESCOLA DA COMUNIDADE
+P - 2.3.1 Mapeamento de Espaços Públicos
+P - 2.3.2 Definição de Ação de Integração da Cidade com o Currículo e Rotina Escolar
+P - 2.3.4 Plano de Execução, Governança e Comunicação para a abertura de Parques Infantis e Quadras
+Escolares para a Comunidade
+P - 2.3.3 Reforma, Modernização e Compra de Acervo para Bibliotecas Públicas
+C - C 3: GESTÃO E COMUNICAÇÃO EFETIVAS
+P - 3.1 Integração e Aprimoramento do Sistema de Gestão Educacional
+P - 3.2 Revisão dos modelos de recrutamento, seleção, avaliação e incentivos das carreiras essenciais da SME
+P - 3.3 Criação do modelo de recrutamento, seleção, contratação e avaliação Instrutor de Tempo Integral
+P - 3.4 Revisão do Processo de Supervisão Escolar (Rede própria da Educação Infantil e Ensino Fundamental)
+P - 3.5 Processo e Sistema de Supervisão Pedagógica para a Rede de Educação Infantil Conveniada
+P - 3.6 Plano de Comunicação e Ações de Engajamento e Participação da Comunidade
+C - C 4: ADMINISTRAÇÃO DO PROGRAMA
+P - 4.1 Unidade Gestora do Projeto - UGP
+P - 4.2 Avaliação de Impacto
+P - 4.3 Auditoria
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 6
+
+Valor(US$)
+50.000.000,00
+
+45.800.000,00
+500.000,00
+6.000.000,00
+400.000,00
+8.500.000,00
+5.600.000,00
+16.000.000,00
+7.000.000,00
+1.800.000,00
+
+400.000,00
+100.000,00
+
+200.000,00
+
+100.000,00
+1.000.000,00
+100.000,00
+
+300.000,00
+600.000,00
+2.800.000,00
+1.500.000,00
+
+1.000.000,00
+300.000,00
+113.900.000,00
+22.600.000,00
+100.000,00
+
+20.000.000,00
+2.500.000,00
+90.100.000,00
+100.000,00
+
+35.000.000,00
+50.000.000,00
+5.000.000,00
+1.200.000,00
+150.000,00
+200.000,00
+350.000,00
+
+500.000,00
+6.300.000,00
+5.000.000,00
+100.000,00
+100.000,00
+300.000,00
+300.000,00
+500.000,00
+2.800.000,00
+2.000.000,00
+550.000,00
+250.000,00
+173.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - COMPONENTE 1: AÇÕES PEDAGÓGICAS E TECNOLOGIAS EDUCACIONAIS PARA EXCELÊNCIA E EQUIDADE
+A primeira componente consiste no aprimoramento das práticas pedagógicas, com o uso de tecnologias educacionais alinhadas ao
+currículo de forma uniforme em todas as escolas, para a garantia de equidade.
+
+
+Página: 7
+
+S - 1.1 TECNOLOGIAS EDUCACIONAIS
+Uso de tecnologia para adequação da escola aos novos tempos e estimulando a participação, frequência e permanência dos
+estudantes na escola.
+
+P - 1.1.1 Portal do Aluno com Recursos Educacionais Digitais Integrados
+Todo estudante do Ensino Fundamental e EJA deverá ter acesso a um Portal do Aluno com Recursos Educacionais Digitais
+Integrados. Esse Portal resultará da integração de todas as plataformas e dará acesso a todas as ferramentas e conteúdo
+produzidos, adquiridos ou curados pela Rede Municipal e SME:
+- Ambiente Virtual de Aprendizagem direcionado ao estudante;
+- Plataformas de Recursos Educacionais Digitais (Português, Inglês, Redação, Matemática, Programação, Ciências, Tutoria);
+- Repositório Digital (inclui materiais físicos adaptados para ambiente virtual).
+
+P - 1.1.2 Centro de Produção de Mídias para estudantes e professores
+A produção de conteúdo adequado ao Currículo da Cidade requer a implantação de um Centro de Mídias para gravação, produção
+, edição de audiovisual e estrutura para produção, contratação e curadoria de conteúdos digitais e tecnologias educacionais (
+inclusive softwares, licenças, formação e processos específicos para soluções inovadoras).
+
+P - 1.1.3 Alinhamento entre Tecnologias Educacionais e Currículo da Cidade
+Alinhamento inicial entre Tecnologias Educacionais e Currículo da Cidade e Processo de Curadoria de Conteúdos adequados ao
+Currículo da Cidade.
+
+P - 1.1.4 Plataformas de Recursos Educacionais Digitais
+Plataformas de Recursos Educacionais Digitais de Português, Inglês, Redação, Matemática, Programação, Ciências, Tutoria.
+
+P - 1.1.5 Infraestrutura Tecnológica: Conectividade nas Escolas
+Para garantir o acesso equânime a todos os estudantes, e assim afirmar esta ação como política de combate das desigualdades
+educacionais, serão providos dispositivos para os estudantes, assim como infraestrutura e conectividade adequada em todas as
+escolas. As escolas que atendam o segundo ciclo do Ensino Fundamental serão equipadas com infraestrutura tecnológica para
+Programação, Robótica, Impressão 3D etc.
+
+P - 1.1.6 Infraestrutura Tecnológica: Dispositivos Individuais
+Dispositivos (notebooks e tablets)
+
+P - 1.1.7 Infraestrutura Tecnológica: Novas Tecnologias para Fundamental 2
+Novas Tecnologias para Fundamental 2: Programação, Robótica, Impressão 3D, etc.
+
+P - 1.1.8 Sistema de envio de mensagens (nudges) para ações comunicacionais para aumentar engajamento das
+famílias e estudantes (nudges)
+A ação de tecnologia também abrange pilotar e desenvolver um Sistema de Engajamento com Pais e Alunos para a proteção da
+trajetória educacional e garantia de presença, com a utilização de Mecanismos de incentivo para escolhas certas (nudges).
+
+S - 1.2 EDUCAÇÃO INCLUSIVA, MULTICULTURAL E ANTIRRACISTA
+Para um ensino mais inclusivo e diverso.
+
+P - 1.2.1 Levantamentos e pesquisas de diagnóstico para aprofundar o entendimento das desigualdades étnico-raciais
+no ambiente escolar
+Com o intuito de fomentar um ambiente escolar adequado para uma educação inclusiva multicultural e antirracista, serão feitos
+levantamentos e pesquisas de diagnóstico para aprofundar o entendimento das desigualdades étnico-raciais no ambiente escolar.
+
+P - 1.2.2 Materiais de formação e apoio à prática pedagógica adequados a uma abordagem inclusiva, multicultural e
+antirracista
+A componente inclui revisão do currículo e materiais, estudos e ações de formação de professores para trazer consciência de
+possíveis vieses e trabalhar a diversidade, inclusão e multiculturalidade dentro da sala de aula.
+
+P - 1.2.3 Materiais e programas de formação de professores com foco na questão étnico-racial
+Adequação dos materiais de formação de apoio à prática pedagógica para uma abordagem inclusiva, multicultural e antirracista.
+Esta ação exige ainda programas de qualificação dos professores e demais profissionais.
+
+S - 1.3 FORMAÇÃO SÓLIDA E ATUAL AOS PROFISSIONAIS DA EDUCAÇÃO
+A formação de professores e demais profissionais da educação terá instrumentos e ferramentas para acontecer de forma híbrida (
+ambiente virtual e presencial nas próprias escolas), terá conteúdos atualizados e conectados com o currículo e com as práticas
+mais inovadoras para a formação integral dos estudantes, que deverá incluir para além de acadêmicos, competências
+socioemocionais, uso de tecnologias educacionais, integração da escola com a cidade etc.
+
+
+Página: 8
+
+P - 1.3.1 Diretrizes para Programa de Formação de Profissionais da Educação híbrido e atrelado à avaliação de
+desempenho
+Novas práticas de formação de professores levarão à inserção de tecnologias no dia a dia da sala de aula. A solução de formação
+inclui um Ambiente Virtual de Aprendizagem para Profissionais da Educação, isto é, um portal para formações híbridas, com
+conteúdo próprio (produzido ou adquirido pela Rede Municipal e SME) e conteúdo proveniente de processo de curadoria de
+conteúdo para docentes (disponibilizado gratuitamente ou por parceiros). O Ambiente Virtual deverá incluir trilha de formação
+atrelada à avaliação de desempenho dos profissionais e um controle de qualidade dos conteúdos com base na avaliação das
+formações ofertadas.
+
+P - 1.3.2 Ambiente Virtual de Aprendizagem para Profissionais da Educação (aberto/acesso livre)
+Esse Ambiente Virtual deve contemplar os seguintes conteúdos:
+- Produção e Gerenciamento de Avaliações: Utilização do Sistema Integrado, Aplicação das Avaliações e Utilização das
+Devolutivas;
+- Currículo da Cidade no dia a dia escolar;
+- Plataformas, Ferramentas e Conteúdos Digitais;
+- Metodologias Ativas e Práticas Inovadoras;
+- Acompanhamento da Aprendizagem;
+- Leitura, Escrita, Números e Resolução de Problemas;
+- Apoio às Transições entre Ciclos;
+- Educação Multicultural e Antirracista;
+- Educação para Sustentabilidade Ambiental;
+- Educação para a Diversidade e Inclusão;
+- Competências Socioemocionais e Participação da Família na Escola;
+- Integração Cidade-Escola (guia para compartilhamento e uso de equipamentos públicos);
+- Rotinas Internas, Cronogramas e Calendário Escolar;
+- Ferramentas de Gestão da SME;
+- Trilhas de Formação
+Cabe ressaltar que os conteúdos para formação dos profissionais da educação serão abertos para utilização livre por qualquer
+professor, gerando uma externalidade positiva para todas as redes do país.
+
+P - 1.3.3 Desenvolvimento do Conteúdo das Trilhas de Formação
+Trilhas de Formação Inicial para profissionais de todas as etapas: Professores, Coordenadores, Instrutores de Tempo Integral,
+Supervisores, Diretores, Equipe DREs.
+
+S - 1.4 AVALIAÇÃO CONTÍNUA, INTEGRADA E COM DEVOLUTIVA PEDAGÓGICA
+O processo de avaliação será aprimorado, ampliando a participação dos professores na geração de questões, incluindo
+funcionalidades mais modernas e será complementado com um processo de devolutiva para o diretor, professor e para o estudante
+, com o intuito de encadear uma série de ações corretivas e adaptativas para a garantia da aprendizagem no tempo adequado.
+
+P - 1.4.1 Processo de produção e utilização os itens pelos professores - Testes Adaptativos Informatizados (TAI) e
+módulo de correção de textos
+O processo de avaliação da SME será reestruturado em um Sistema Integrado de Produção e Gerenciamento de Avaliações para
+o Ensino Fundamental, que será compartilhado com os professores. Esse compartilhamento tem duas frentes. A primeira será a
+possibilidade de utilização dos itens - auxiliando professores na preparação de provas - e a possibilidade produção de itens,
+melhorando a aderência da avaliação às necessidades levantadas pelo professor e a qualidade dos itens disponíveis para toda a
+rede.
+O Sistema Integrado deve oferecer Testes Adaptativos Informatizados (TAI), permitindo uma análise mais individual para cada
+aluno e deve conter um módulo de gestão e correção de produção de textos e de questões dissertativas. O Sistema de Avaliação
+será integrado aos demais sistemas da SME para que os resultados das avaliações sejam cruzados com outras características dos
+estudantes, permitindo uma visão única por aluno e escola.
+
+P - 1.4.2 Aprimoramento da Devolutiva da Avaliação aos Professores
+A segunda frente será o aprimoramento da devolutiva de resultados. O sistema deverá oferecer plano de ação específico por aluno
+e/ou turma, com o detalhamento das ações pedagógicas adequadas, de acordo com os resultados as avaliações. Desse modo,
+serão disponibilizados materiais pedagógicos para uso em sala de aula com foco no desenvolvimento das lacunas identificadas
+durante a avaliação externa.
+
+P - 1.4.3 Processo e Sistema de Avaliação do Contexto Escolar na Educação Infantil na Rede Conveniada
+Para a Educação Infantil, a Avaliação do Contexto Escolar será sistematizada para que sua aplicação seja levada a todas as
+creches e pré-escolas tanto na rede direta como indireta (creches conveniadas).
+
+
+Página: 9
+
+C - C 2: CRECHE DE QUALIDADE PARA TODOS E ESCOLA INTEGRAL E INTEGRADA À COMUNIDADE
+A segunda componente do projeto é de reorganização e ampliação da rede, e visa ofertar creches de qualidade a toda demanda
+manifesta, assim como estender a jornada escolar para período integral na educação infantil e ensino fundamental da rede
+municipal. Para isso, será necessário um estudo aprofundado da demanda no território e das soluções ótimas, culminando em um
+aporte de investimento massivo em infraestrutura, com ações de construção, expansão, reforma e adaptação de espaços
+escolares, seguindo padrões de acessibilidade e inclusão, sustentabilidade e eficiência energética que resulte em espaços
+escolares de alto padrão. Por fim, ainda nesta componente, o projeto prevê ações de integração entre cidade e escola com o
+compartilhamento de parques, quadras e bibliotecas e o mapeamento e uso do que a cidade tem para oferecer em termos de
+cultura, tecnologia e natureza.
+
+S - 2.1 EXPANSÃO DA OFERTA E MELHORIA DA QUALIDADE DAS CRECHES
+Dando continuidade aos esforços da gestão atual de atendimento pleno da demanda manifesta por creche, a oferta será expandida
+.
+
+P - 2.1.1 Plano de Expansão da Oferta de Creches com a definição de estratégias de atendimento de 100% da demanda
+A expansão e melhoria da qualidade da oferta de creches terá como base estudos para a definição da estratégia mais adequada.
+
+P - 2.1.2 Expansão, Reforma e Melhoria da Infraestrutura das Creches existentes
+Expansão, reforma e melhoria da infraestrutura das creches existentes.
+
+P - 2.1.3 Aquisição de Equipamentos, Mobiliário e Material Pedagógico
+A componente também prevê a provisão de equipamentos, mobiliário e materiais pedagógicos de qualidade, voltados ao pleno
+desenvolvimento infantil na primeira infância.
+
+S - 2.2 ESCOLA INTEGRAL EM TEMPO INTEGRAL
+Primeiro grande passo rumo à universalização do atendimento em tempo integral.
+
+P - 2.2.1 Plano de Expansão das Escolas da RMESP a partir de análise de oferta e demanda para atendimento em
+tempo integral
+A partir do mapeamento dos estudantes e levantamento das unidades escolares existentes, serão estabelecidas estratégias para a
+universalização do atendimento em tempo integral: o Plano de Expansão das Escolas da RMESP, e novas escolas serão
+construídas.
+O processo de mapeamento das crianças e a caracterização das escolas alimentará os sistemas de informação e gestão da SME e
+terá como diretriz a otimização do uso dos espaços e serviços educacionais em unidades escolares de porte médio, em oposição
+a unidades pequenas e fragmentadas, favorecendo a permanência e foco dos professores em uma única escola.
+
+P - 2.2.2 Construção de Escolas Novas
+Construção de Escolas Novas,que atendem aos requisitos de inclusão e padrões elevados de sustentabilidade ambiental.
+
+P - 2.2.3 Expansão e Reforma de Escolas, com adaptações para acessibilidade e sustentabilidade
+Tanto novas quanto antigas unidades serão reformadas e adaptadas de modo a garantir acessibilidade, inclusão e sustentabilidade
+ambiental com obras de eficiência energética e que valorizam o reaproveitamento de materiais e as áreas verdes, com estrutura
+para a separação e reciclagem do lixo.
+
+P - 2.2.4 Aquisição de Equipamentos e Mobiliário
+As unidades escolares terão seus espaços adequados às necessidades da faixa etária correspondente à cada etapa escolar. Para
+a educação infantil e anos iniciais do ensino fundamental, esta qualificação engloba o mobiliário e caracterização dos ambientes (
+salas, sanitários, áreas externas) e inclui a disponibilização de áreas verdes e parques integrados à comunidade.
+Principalmente para os anos finais do ensino fundamental, a adequação contempla infraestrutura digital e tecnológica, bibliotecas e
+quadras esportivas integradas à comunidade.
+
+S - 2.3 CIDADE COMO ESCOLA E ESCOLA DA COMUNIDADE
+Com a intenção de promover a internalização do espaço escolar às comunidades, as áreas externas das escolas serão reformadas
+e compartilhadas. Esta ação é inicialmente indicada para o compartilhamento de bibliotecas, parques infantis e quadras esportivas
+.
+
+P - 2.3.1 Mapeamento de Espaços Públicos
+De forma alinhada ao conceito de ocupação do espaço público, esta ação inclui o mapeamento dos equipamentos públicos
+principalmente na área da cultura e esporte (CEUs, museus, parques, jardins, espaços tecnológicos etc.) a serem incorporados ao
+uso escolar, conforme disponibilidade e proximidade.
+
+P - 2.3.2 Definição de Ação de Integração da Cidade com o Currículo e Rotina Escolar
+Esta ação prevê a elaboração e implementação de plano de integração da cidade com o currículo.
+
+
+Página: 10
+
+P - 2.3.4 Plano de Execução, Governança e Comunicação para a abertura de Parques Infantis e Quadras Escolares para
+a Comunidade
+Esta ação prevê a elaboração e comunicação de orientações para a manutenção dos equipamentos escolares abertos à
+comunidade.
+
+P - 2.3.3 Reforma, Modernização e Compra de Acervo para Bibliotecas Públicas
+As bibliotecas públicas deverão passar por reforma, modernização e compra de acervo.
+
+C - C 3: GESTÃO E COMUNICAÇÃO EFETIVAS
+Esta componente visa o fortalecimento institucional com a modernização do gerenciamento dos programas, projetos e processos
+administrativos através da automatização por sistemas ágeis e integrados. Estes buscam a otimização da gestão, a redução de
+custos, a sustentabilidade, a colaboração e a eficiência da administração pública. Alguns cargos da SME serão revisitados e terão
+suas funções ajustadas para fomentar a elevação do padrão de qualidade na oferta de educação pública municipal.
+
+P - 3.1 Integração e Aprimoramento do Sistema de Gestão Educacional
+Todo o Sistema de Informação e Gestão Educacional (SIGED) será integrado, garantindo o aprimoramento dos sistemas
+pedagógicos e de gestão interna, com a agregação de bases de dados e produção de relatórios de forma ágil e automática
+favorecendo desde a gestão escolar até estudos e tomadas de decisão.
+
+P - 3.2 Revisão dos modelos de recrutamento, seleção, avaliação e incentivos das carreiras essenciais da SME
+Também haverá revisão dos modelos de recrutamento, seleção, avaliação e incentivos nas carreiras essenciais da SME, bem
+como revisão das atribuições e cargos da SME de forma alinhada ao processo de desenvolvimento dos profissionais.
+
+P - 3.3 Criação do modelo de recrutamento, seleção, contratação e avaliação Instrutor de Tempo Integral
+Com a extensão do período escolar, haverá um profissional habilitado e qualificado para supervisionar e promover atividades no
+período integral estendido, isto é, que vai além das 7 horas de aula. Esse profissional deverá preferencialmente fazer parte da
+comunidade onde a escola está inserida, promovendo assim engajamento, responsabilização e oferecimento de oportunidades de
+trabalho para as comunidades locais.
+
+P - 3.4 Revisão do Processo de Supervisão Escolar (Rede própria da Educação Infantil e Ensino Fundamental)
+Toda a rede direta passará a contar com processo e Supervisão Escolar próximo e frequente, com profissional qualificado e
+mecanismos de incentivos que favoreçam a proximidade do supervisor com o diretor escolar, equilíbrio a ser alcançado entre o
+atendimento das demandas locais e a orientação para ações de melhoria nas escolas. A figura atual de supervisor deverá passar
+por um processo de revisão e adequação de competências.
+
+P - 3.5 Processo e Sistema de Supervisão Pedagógica para a Rede de Educação Infantil Conveniada
+Na educação infantil, haverá um responsável pelo acompanhamento, formação e direcionamento pedagógico direcionado na Rede
+de Creches Conveniadas.
+
+P - 3.6 Plano de Comunicação e Ações de Engajamento e Participação da Comunidade
+Visando oferecer soluções adequadas e bem compreendidas pela comunidade escolar, estudantes e famílias, o projeto prevê a
+elaboração e implementação de um plano de participação, engajamento e comunicação que se estabeleça como um processo
+recorrente de diálogo e participação de estudantes, família e da comunidade na atuação da RMESP.
+
+O plano deve incluir desde orientações para acolhimento da família dentro das escolas para aumentar a participação e
+engajamento, até a especificação de materiais de comunicação e ferramentas de escuta como ouvidoria e grupos focais.
+Especificamente para este projeto, o plano irá abranger estratégia de mídias sociais.
+
+C - C 4: ADMINISTRAÇÃO DO PROGRAMA
+Esta componente tem o objetivo de promover ações para implementação de práticas de gestão, através da Unidade Gestora do
+Projeto (UGP), visando a otimização de recursos, a análise, o monitoramento e a avaliação das atividades a serem desenvolvidas
+e dos impactos alcançados.  Inclui a composição de uma Unidade Gestora do Programa com escritório de gerenciamento
+estruturado e vinculado à Secretaria Municipal da Educação.
+
+P - 4.1 Unidade Gestora do Projeto - UGP
+C 4: ADMINISTRAÇÃO DO PROGRAMA
+P 4.1 Unidade Gestora do Projeto - UGP
+
+P - 4.2 Avaliação de Impacto
+A realização de avaliações de impacto do projeto tanto de acompanhamento, quanto finalística, serão importantes no sucesso dos
+investimentos. O acompanhamento permite a verificação do seguimento do planejado e em caso negativo, a elaboração de planos
+de ação. E as avaliações de impacto final, trarão um relatório com dados e indicadores com os resultados atingidos e não atingidos
+, relatando a eficiência da aplicação do recurso. Servindo, também, para estudos, futuras análises e tomadas de decisão.
+
+P - 4.3 Auditoria
+Processo de Auditoria.
+
+
+Página: 11
+
+Valor
+
+% Financeiro
+
+Unidade de medida
+-
+USD
+
+Meta
+
+-
+5.600.000,00
+
+200.000,00
+
+200.000,00
+
+300.000,00
+
+300.000,00
+
+2.500.000,00
+
+2.500.000,00
+
+50.000.000,00
+
+28,90
+
+Categoria de Gasto
+
+Obras
+P- 1.1.5 Infraestrutura Tecnológica: Conectividade
+nas Escolas
+P- 2.1.2 Expansão, Reforma e Melhoria da
+Infraestrutura das Creches existentes
+P- 2.2.2 Construção de Escolas Novas
+
+Bens
+P- 1.1.2 Centro de Produção de Mídias para
+estudantes e professores
+P- 1.1.6 Infraestrutura Tecnológica: Dispositivos
+Individuais
+P- 1.1.7 Infraestrutura Tecnológica: Novas
+Tecnologias para Fundamental 2
+P- 1.2.2 Materiais de formação e apoio à prática
+pedagógica adequados a uma abordagem
+inclusiva, multicultural e antirracista
+P- 1.3.2 Ambiente Virtual de Aprendizagem para
+Profissionais da Educação (aberto/acesso livre)
+P- 2.1.3 Aquisição de Equipamentos, Mobiliário e
+Material Pedagógico
+P- 2.2.3 Expansão e Reforma de Escolas, com
+adaptações para acessibilidade e sustentabilidade
+P- 2.2.4 Aquisição de Equipamentos e Mobiliário
+P- 2.3.3 Reforma, Modernização e Compra de
+Acervo para Bibliotecas Públicas
+Consultoria
+P- 1.1.3 Alinhamento entre Tecnologias
+Educacionais e Currículo da Cidade
+P- 1.2.1 Levantamentos e pesquisas de
+diagnóstico para aprofundar o entendimento das
+desigualdades étnico-raciais no ambiente escolar
+P- 1.3.3 Desenvolvimento do Conteúdo das
+Trilhas de Formação
+P- 1.4.3 Processo e Sistema de Avaliação do
+Contexto Escolar na Educação Infantil na Rede
+Conveniada
+P- 2.1.1 Plano de Expansão da Oferta de Creches
+com a definição de estratégias de atendimento de
+100% da demanda
+P- 2.2.1 Plano de Expansão das Escolas da
+RMESP a partir de análise de oferta e demanda
+para atendimento em tempo integral
+P- 2.3.1 Mapeamento de Espaços Públicos
+P- 2.3.2 Definição de Ação de Integração da
+Cidade com o Currículo e Rotina Escolar
+P- 3.2 Revisão dos modelos de recrutamento,
+seleção, avaliação e incentivos das carreiras
+essenciais da SME
+P- 3.3 Criação do modelo de recrutamento,
+seleção, contratação e avaliação Instrutor de
+Tempo Integral
+P- 3.4 Revisão do Processo de Supervisão
+Escolar (Rede própria da Educação Infantil e
+Ensino Fundamental)
+P- 3.6 Plano de Comunicação e Ações de
+Engajamento e Participação da Comunidade
+P- 4.1 Unidade Gestora do Projeto - UGP
+P- 4.2 Avaliação de Impacto
+P- 4.3 Auditoria
+Serviços que Não de Consultoria
+P- 1.1.1 Portal do Aluno com Recursos
+Educacionais Digitais Integrados
+P- 1.1.4 Plataformas de Recursos Educacionais
+Digitais
+P- 1.1.8 Sistema de envio de mensagens (nudges
+) para ações comunicacionais para aumentar
+engajamento das famílias e estudantes (nudges)
+
+USD
+
+USD
+
+-
+USD
+
+USD
+
+USD
+
+USD
+
+USD
+
+USD
+
+USD
+
+USD
+USD
+
+-
+USD
+
+USD
+
+USD
+
+USD
+
+20.000.000,
+35.000.000,
+-
+6.000.000,00
+
+16.000.000,
+7.000.000,00
+
+50.000.000,
+5.000.000,00
+500.000,00
+
+-
+400.000,00
+
+100.000,00
+
+600.000,00
+
+300.000,00
+
+60.600.000,00
+5.600.000,00
+
+20.000.000,00
+
+35.000.000,00
+
+87.500.000,00
+6.000.000,00
+
+16.000.000,00
+
+7.000.000,00
+
+5.000.000,00
+500.000,00
+
+5.750.000,00
+400.000,00
+
+100.000,00
+
+600.000,00
+
+300.000,00
+
+USD
+
+100.000,00
+
+100.000,00
+
+USD
+
+100.000,00
+
+100.000,00
+
+USD
+USD
+
+USD
+
+150.000,00
+200.000,00
+
+100.000,00
+
+150.000,00
+200.000,00
+
+100.000,00
+
+USD
+
+100.000,00
+
+100.000,00
+
+USD
+
+300.000,00
+
+300.000,00
+
+USD
+
+USD
+USD
+USD
+-
+USD
+
+USD
+
+USD
+
+500.000,00
+
+500.000,00
+
+2.000.000,00
+550.000,00
+250.000,00
+-
+500.000,00
+
+2.000.000,00
+550.000,00
+250.000,00
+17.600.000,00
+500.000,00
+
+8.500.000,00
+
+8.500.000,00
+
+1.800.000,00
+
+1.800.000,00
+
+35,03
+3,24
+
+11,56
+
+20,23
+
+50,58
+3,47
+
+9,25
+
+4,05
+
+0,12
+
+0,17
+
+1,45
+
+2,89
+0,29
+
+3,32
+0,23
+
+0,06
+
+0,35
+
+0,17
+
+0,06
+
+0,06
+
+0,09
+0,12
+
+0,06
+
+0,06
+
+0,17
+
+0,29
+
+1,16
+0,32
+0,14
+10,17
+0,29
+
+4,91
+
+1,04
+
+
+Página: 12
+
+P- 1.4.1 Processo de produção e utilização os
+itens pelos professores - Testes Adaptativos
+Informatizados (TAI) e módulo de correção de
+textos
+P- 3.1 Integração e Aprimoramento do Sistema de
+Gestão Educacional
+P- 3.5 Processo e Sistema de Supervisão
+Pedagógica para a Rede de Educação Infantil
+Conveniada
+Capacitação e Treinamento
+P- 1.2.3 Materiais e programas de formação de
+professores com foco na questão étnico-racial
+P- 1.3.1 Diretrizes para Programa de Formação
+de Profissionais da Educação híbrido e atrelado à
+avaliação de desempenho
+P- 1.4.2 Aprimoramento da Devolutiva da
+Avaliação aos Professores
+P- 2.3.4 Plano de Execução, Governança e
+Comunicação para a abertura de Parques Infantis
+e Quadras Escolares para a Comunidade
+Total Geral
+
+USD
+
+1.500.000,00
+
+1.500.000,00
+
+0,87
+
+USD
+
+USD
+
+-
+USD
+
+USD
+
+USD
+
+USD
+
+-
+
+5.000.000,00
+
+5.000.000,00
+
+300.000,00
+
+300.000,00
+
+-
+100.000,00
+
+100.000,00
+
+1.550.000,00
+100.000,00
+
+100.000,00
+
+1.000.000,00
+
+1.000.000,00
+
+350.000,00
+
+350.000,00
+
+2,89
+
+0,17
+
+0,90
+0,06
+
+0,06
+
+0,58
+
+0,20
+
+-
+
+173.000.000,00
+
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Algumas atividades constantes do programa já foram iniciadas e possuem ETAPAS REALIZADAS. Já em curso consultoria especializada
+para estudo de demanda com uma visão de 2035, isto é, mapeamento da população em idade escolar e projeção de sua distribuição no
+território ao longo do tempo. Essas informações deverão guiar a reorganização e expansão da rede municipal de educação.
+
+Além disso, uma equipe de consultores da Fundação Getúlio Vargas já vem trabalhando junto à equipe da Secretaria Municipal de
+Educação no diagnóstico dos sistemas de informação existentes, para orientar a etapa posterior de redesenho, otimização e integração.
+
+A SME já está elaborando um portal unificado de acesso aos Recursos Educacionais Digitais para seus estudantes, em resposta às
+necessidades decorrentes da pandemia. Também já está em andamento a implantação de salas digitais nas escolas e a distribuição de
+tablets para os estudantes.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Municipal
+
+MUNICIPIO DE  SAO PAULO(SP)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+CONDIÇÕES FINANCEIRAS:
+
+Valor total da operação de crédito: USD 60.500.000,00
+
+Prazo de Desembolso: 60 MESES
+
+Prazo de Carência: 66 MESES
+
+Prazo de Amortização: 234 MESES
+
+Prazo Total: 300 MESES
+
+Periodicidade da Amortização: semestral
+
+Taxa de juros:
+
+- Índice SOFR (a partir de jan/2022): reajustado diariamente e composto. Atualmente adotam LIBOR (0.13% a.a)
+
+- Spread para empréstimos do Capital Ordinário: determinado periodicamente pela Diretoria do BID (atual: 0.16% a.a)
+
+- Spread de captação: reajustado mensalmente/trimestralmente (atual: 0.90% a.a)
+
+Demais encargos e comissões:
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 13
+
+- Comissão de Crédito sobre o saldo não desembolsado do financiamento: 0.5% a.a. (vigente), não podendo ultrapassar 0.75% a.a. Esta
+comissão é determinada periodicamente pela Diretoria do Banco.
+
+- Taxa de Inspeção e Vigilância: apesar do Banco não aplicar nos últimos anos (+15), no contrato de empréstimo é previsto a possibilidade
+de aplicação da taxa de Inspeção e Vigilância.
+
+Área: Educação
+
+Órgão executor do Projeto de Investimento: Secretaria Municipal de Educação de São Paulo (SME-SP)
+
+Órgão gestor da Operação de Crédito: Secretaria Municipal da Fazenda (SF)
+
+Valor do Financiamento: USD 60.500.000,00 (Sessenta milhões e quinhentos mil dólares dos EUA)
+
+Valor da Contrapartida Financeira: USD 112.500.000,00 (Cento e doze milhões e quinhentos mil de dólares dos EUA)
+
+Moeda: Dólar dos EUA
+
+NECESSIDADE DE FINANCIAMENTO EXTERNO:
+
+A análise das finanças públicas do Município de São Paulo revela a elevada participação das despesas correntes e o baixo nível das
+despesas de capital na composição das despesas totais. O gráfico 01 do anexo 02 apresenta o cenário das despesas com investimentos
+no orçamento público paulistano, evidenciando o baixo percentual de investimentos em relação à receita corrente líquida (RCL) ao longo
+dos anos.
+
+No contexto da Secretaria Municipal de Educação, 50,23% do orçamento de 2020 foi direcionado às despesas com a folha de pagamentos
+de servidores ativos, e apenas cerca de 6,75% dos recursos para investimentos. Logo, para a execução do Programa A Educação de São
+Paulo Pode Mais, faz-se necessário um aporte financeiro de alto impacto.
+
+O percentual de aplicação de investimentos no Município vinha caindo até 2017, quando houve uma retomada, abalada, porém, pela crise
+financeira e impactos da pandemia em 2021, quando chegou a 3,5% da receita corrente líquida. O Quadro de execução dos gastos ao
+longo dos anos (Anexo II) mostra o baixo nível de investimento dentro do orçamento público do Município. A conjugação de aumento
+contínuo de gasto corrente que comprime o espaço fiscal para realização de investimentos públicos e dificuldades de gestão durante a
+execução de projetos de investimentos públicos, relevam a este a um papel secundário no espectro de gastos e condenando perspectivas
+econômicas futuras do município.
+
+OPÇÃO PELO AGENTE FINANCEIRO:
+
+A escolha do Banco Interamericano de Desenvolvimento (BID) justifica-se por quatro razões. Em primeiro lugar, tratar-se do principal
+organismo multilateral de apoio ao desenvolvimento da América Latina, com conhecimento profundo dos desafios da região na
+implementação de políticas públicas, podendo, assim, sugerir soluções mais inovadoras e que funcionaram em contextos similares.
+
+Em segundo lugar, o BID acumula vasta experiência no financiamento de projetos de ensino básico e de inovação, que necessitam de
+ampliação da capacidade técnica e de referências internacionais. Em terceiro lugar, o programa da SME SP alinha-se à estratégia país do
+BID para o Brasil (2019-2022), especialmente no que diz respeito à melhoria da aprendizagem, aumento da eficiência do gasto
+educacional, redução da desigualdade de oportunidades. Das estratégias transversais, o projeto atende a meta de promover a diversidade
+, a sustentabilidade e a transformação digital, com a oferta de serviços públicos de qualidade para as famílias mais vulneráveis. A Visão
+estratégica do BID - 2025 ressalta a importância de responder à crise econômica, educacional, e do mercado de trabalho causada pela
+pandemia com investimento massivo em capital humano.
+
+Por fim, o BID apresenta condições financeiras mais vantajosas para o município de São Paulo quando comparado a outras instituições
+multilaterais, como, por exemplo, ao Banco Mundial.
+
+Conclui-se, portanto, que o BID oferece expertise e condições mais vantajosas que justificam sua escolha pelo município.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+ÁREAS ESTRATÉGICAS E IMPACTOS DO PROJETO
+
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 14
+
+A Componente 1: AÇÕES PEDAGÓGICAS E TECNOLOGIAS EDUCACIONAIS PARA EXCELÊNCIA E EQUIDADE atende a área
+estratégica 1.14. desenvolvimento, inovação e modernização tecnológica, com a tecnologia sendo levada ao dia a dia escolar, ao
+ambiente de formação de professores e ao processo de avaliação.
+
+A Subcomponente 2.2 Escola Integral em Tempo Integral relaciona-se diretamente com as áreas estratégicas 1.1. promoção da
+sustentabilidade ambiental, incluindo ações de adaptação e mitigação e 1.2. eficiência energética, geração e/ou uso de energia de fontes
+renováveis, com a escolas sustentáveis.
+
+No processo de extensão do período escolar, contemplado na Subcomponente 2.2 Escola Integral em Tempo Integral, o município deverá
+incliuir um profissional habilitado e qualificado para supervisionar e promover atividades no período integral estendido, isto é, que vai além
+das 7 horas de aula. Esse profissional deverá preferencialmente fazer parte da comunidade onde a escola está inserida, promovendo
+assim engajamento, responsabilização e oferecimento de oportunidades de trabalho para as comunidades locais, atendendo assim à
+estratégia 1.8. geração de emprego e renda para populações de baixa renda e vulneráveis.
+
+As Subcomponentes 2.1 Expansão da oferta e melhoria da qualidade das Creches; 2.2 Escola Integral em Tempo Integral; e 2.3 Cidade
+como Escola e Escola da Comunidade configuram atendimento à estratégia 1.9. infraestrutura e/ou equipamentos sociais para populações
+de baixa renda e vulneráveis.
+
+A Subcomponente 1.2 Educação Inclusiva, Multicultural e Antirracista promove as estratégias 1.10. ações de inclusão de minorias sociais
+entre os beneficiários e 1.11. políticas voltadas para juventude, gênero e raça.
+
+A Componente 3: GESTÃO E COMUNICAÇÃO EFETIVAS está alinhada as áreas estratégicas 1.12. melhoria e/ou inovação em
+processos de prestação de serviços públicos, de gestão e/ou de participação cidadã e 1.14. desenvolvimento, inovação e modernização
+tecnológica.
+
+A Subcomponente 2.1 Expansão da oferta e melhoria da qualidade das Creches contará com estudo de demanda e de otimização da
+oferta, muito provavelmente resultando em arranjo de expansão da oferta por meio de parcerias, o que atende à estratégia 1.15. arranjos
+de financiamento que incentivem/contribuam com a participação privada.
+
+POPULAÇÃO BENEFICIADA
+
+O público-alvo direto do projeto são as 336.711 crianças matriculadas em creches e aquelas que aguardam vagas, 221.842 estudantes na
+pré-escola, 219.933 estudantes nos anos iniciais do ensino fundamental e 193.590 nos anos finais do ensino fundamental. Ainda serão
+impactados pelo projeto 2.412 estudantes do ensino médio e 44.404 estudantes jovens e adultos em turmas de EJA. Dentre as 1.518
+escolas, serão priorizadas aquelas de baixo Índice do Nível Socioeconômico (INSE/INEP) e em regiões da cidade de elevada
+concentração de população jovem e de maior incidência de população preta e parda.
+
+Serão ainda beneficiados 62.847 professores e 82.317 mil funcionários.
+
+Os maiores beneficiários do projeto serão os estudantes da rede municipal de educação do município de São Paulo e suas famílias. O
+compromisso central da Secretaria Municipal de Educação é, portanto, com o desenvolvimento e aprendizagem dos bebês, crianças e
+adolescentes residentes no município de São Paulo, que terão seu presente e futuro diretamente impactados.
+
+A plena inclusão de crianças com necessidades especiais, a promoção de práticas inclusivas, antirracistas e multiculturalistas e a visão de
+valorização da natureza e de práticas sustentáveis (áreas verdes, hortas urbanas, reciclagem, eficiência energética) irão contribuir para a
+excelência de uma educação pública para o futuro não apenas porque inclui tecnologias educacionais, mas porque considera grandes
+questões e educa para um futuro melhor para todos.
+
+As trilhas de formação dos profissionais da educação serão disponibilizadas para todos os interessados, de modo a beneficiar os
+profissionais da educação de todas as escolas do Brasil.
+
+Toda a população do município de São Paulo será beneficiada com a melhor qualidade da educação pública municipal e com a integração
+da cidade com as escolas. As famílias terão mais tranquilidade com seus filhos mantidos seguros em creches e na escola por mais tempo
+e terão maior foco e produtividade em suas atividades. As comunidades terão espaços revitalizados para lazer, o que beneficiará outros
+grupos, como os idosos.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 15
+
+O benefício do projeto também poderá ser extrapolado para outros municípios do Brasil. O peso das escolhas e caminhos trilhados pelo
+município de São Paulo, a maior rede municipal de educação do Brasil, pode influenciar muitos outros municípios ao oferecer creche para
+todos e uma escola pública de excelência: em tempo integral, tecnológica, acessível, inclusiva e sustentável. Dessa forma, o projeto
+poderá contribuir para orientar a ação de outras secretarias municipais de educação, e assim impactar positivamente o alcance das metas
+do Plano Nacional de Educação, em especial aquelas relativas à oferta de creche e educação em tempo integral, servindo como modelo
+ou referência para o planejamento e execução de ações no nível do município.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Interamericano de Desenvolvimento
+- BID
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BID
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+112.500.000,00
+Valor Proposto
+
+60.500.000,00
+
+173.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+112.500.000,00
+Valor de Referência US
+$
+60.500.000,00
+
+173.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+A Prefeitura Municipal de São Paulo será a mutuária e a única responsável pela Operação de Crédito. A Preparação do Projeto será
+coordenada por uma equipe específica, que contará com representantes e pontos focais das Diretorias da Secretaria Municipal de
+Educação.
+
+A responsável pela execução geral do Projeto será a Secretaria Municipal de Educação. Para esta gestão, será estruturada uma UGP -
+Unidade de Gerenciamento do Projeto vinculada ao Secretário Municipal de Educação. Para a execução das obras no Componente 2 -
+Creche de qualidade para todos e escola integral e integrada à comunidade, será desenvolvido um instrumento legal a ser acordado entre
+a SME e a Secretaria de Infraestrutura Urbana e Obras, atribuindo os papéis e responsabilidades de cada órgão. Ademais, para garantir o
+bom andamento das atividades, poderão ser estabelecidos dois comitês: um Comitê Executivo, realizado semestralmente, com o Prefeito,
+a SME e a Secretaria Executiva de Gestão e Secretaria de Infraestrutura Urbana e Obras; e um Comitê Gestor, realizado mensalmente,
+com a participação do Secretário Municipal de Educação, Secretária Executiva e Secretária Adjunta, Secretário de Infraestrutura Urbana e
+Obras e do Coordenador do Programa (Chefe da UGP).
+
+O projeto elaborado pela SME apresenta três grandes frentes de trabalho que irão necessitar de empréstimo financeiro do BID. Em todas
+elas o BID destaca-se por sua experiência e capacidade de execução.
+
+A primeira é transformação digital, estratégia prioritária do BID para a área de educação3. A experiência do Banco em projetos nessa área
+inclui o Plano CEIBAL, no Uruguai4; a transformação digital da Costa Rica, cujo programa é bastante amplo e inclui um pilar de fomento
+das tecnologias digitais como catalizador do conhecimento. No Brasil, o BID está conduzindo um projeto para o Estado do Paraná, que se
+caracterizou como um dos estados brasileiros com melhor base de tecnologia digital educativa para enfrentar as restrições impostas pela
+pandemia.
+
+Além de tecnologia, incluímos no projeto ações relacionadas a desigualdade racial, um tema transversal muito caro ao BID. O banco tem
+uma área exclusiva para tratar dessa questão e vem consolidando-se como instituição de referência por acumular conhecimento e
+experiências nesse tema, também inserido no projeto com a SME.
+
+Essas duas frentes correspondem ao primeiro objetivo específico do projeto, de ?melhorar as práticas pedagógicas de avaliação e
+formação, utilizar tecnologias educacionais e valorizar a diversidade para garantir os níveis adequados de aprendizagem a todos?.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 16
+
+Por fim, na frente de melhoria da capacidade de gestão, o BID teve uma atuação relevante que culminou no desenvolvimento de uma
+ferramenta de gestão ? o SIGED ? completamente adaptada à realidade brasileira, considerando a disponibilidade de dados e sistemas
+locais. O objetivo desse trabalho é trazer essa experiência para a SME, para que a capacidade de execução e estratégica da SME se
+aprimore, para que alcancemos uma atuação mais eficiente e estratégica. Experiência similar foi realizada no projeto do BID com a
+Secretaria Municipal de Saúde no projeto BR-L1429.
+
+A melhoria na gestão corresponde ao terceiro objetivo específico do projeto, de ?aumentar a eficiência, melhorar a gestão e a
+comunicação entre secretaria municipal, escola e comunidade com sistematização, integração, revisão dos processos e incentivos aos
+profissionais da educação?.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Prefeitura Municipal de São Paulo - SP
+
+Representante Oficial: Ricardo Luis Reis Nunes
+
+Endereço da Sede: Viaduto do Chá, 15
+E-mail Institucional:
+
+Telefone: 1133960177
+
+CNPJ: 46392114000125
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+C - COMPONENTE 1: AÇÕES PEDAGÓGICAS E TECNOLOGIAS EDUCACIONAIS PARA
+EXCELÊNCIA E EQUIDADE
+S - 1.1 TECNOLOGIAS EDUCACIONAIS
+
+COMPONENTES
+
+P - 1.1.1 Portal do Aluno com Recursos Educacionais Digitais Integrados
+
+P - 1.1.2 Centro de Produção de Mídias para estudantes e professores
+
+P - 1.1.3 Alinhamento entre Tecnologias Educacionais e Currículo da Cidade
+
+P - 1.1.4 Plataformas de Recursos Educacionais Digitais
+
+P - 1.1.5 Infraestrutura Tecnológica: Conectividade nas Escolas
+
+P - 1.1.6 Infraestrutura Tecnológica: Dispositivos Individuais
+
+P - 1.1.7 Infraestrutura Tecnológica: Novas Tecnologias para Fundamental 2
+
+P - 1.1.8 Sistema de envio de mensagens (nudges) para ações comunicacionais para aumentar
+engajamento das famílias e estudantes (nudges)
+S - 1.2 EDUCAÇÃO INCLUSIVA, MULTICULTURAL E ANTIRRACISTA
+
+P - 1.2.1 Levantamentos e pesquisas de diagnóstico para aprofundar o entendimento das
+desigualdades étnico-raciais no ambiente escolar
+P - 1.2.2 Materiais de formação e apoio à prática pedagógica adequados a uma abordagem
+inclusiva, multicultural e antirracista
+P - 1.2.3 Materiais e programas de formação de professores com foco na questão étnico-racial
+
+S - 1.3 FORMAÇÃO SÓLIDA E ATUAL AOS PROFISSIONAIS DA EDUCAÇÃO
+
+P - 1.3.1 Diretrizes para Programa de Formação de Profissionais da Educação híbrido e atrelado
+à avaliação de desempenho
+P - 1.3.2 Ambiente Virtual de Aprendizagem para Profissionais da Educação (aberto/acesso livre)
+
+P - 1.3.3 Desenvolvimento do Conteúdo das Trilhas de Formação
+
+S - 1.4 AVALIAÇÃO CONTÍNUA, INTEGRADA E COM DEVOLUTIVA PEDAGÓGICA
+
+P - 1.4.1 Processo de produção e utilização os itens pelos professores - Testes Adaptativos
+Informatizados (TAI) e módulo de correção de textos
+P - 1.4.2 Aprimoramento da Devolutiva da Avaliação aos Professores
+
+P - 1.4.3 Processo e Sistema de Avaliação do Contexto Escolar na Educação Infantil na Rede
+Conveniada
+C - C 2: CRECHE DE QUALIDADE PARA TODOS E ESCOLA INTEGRAL E INTEGRADA À
+COMUNIDADE
+S - 2.1 EXPANSÃO DA OFERTA E MELHORIA DA QUALIDADE DAS CRECHES
+
+P - 2.1.1 Plano de Expansão da Oferta de Creches com a definição de estratégias de atendimento
+de 100% da demanda
+P - 2.1.2 Expansão, Reforma e Melhoria da Infraestrutura das Creches existentes
+
+P - 2.1.3 Aquisição de Equipamentos, Mobiliário e Material Pedagógico
+
+S - 2.2 ESCOLA INTEGRAL EM TEMPO INTEGRAL
+
+P - 2.2.1 Plano de Expansão das Escolas da RMESP a partir de análise de oferta e demanda
+para atendimento em tempo integral
+P - 2.2.2 Construção de Escolas Novas
+
+P - 2.2.3 Expansão e Reforma de Escolas, com adaptações para acessibilidade e
+sustentabilidade
+P - 2.2.4 Aquisição de Equipamentos e Mobiliário
+
+S - 2.3 CIDADE COMO ESCOLA E ESCOLA DA COMUNIDADE
+
+P - 2.3.1 Mapeamento de Espaços Públicos
+
+P - 2.3.2 Definição de Ação de Integração da Cidade com o Currículo e Rotina Escolar
+
+Fax:
+UF:
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+CF
+
+BID
+
+50.000.000,00
+
+0,00
+
+15.706.666,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+45.800.000,00
+
+500.000,00
+
+6.000.000,00
+
+400.000,00
+
+8.500.000,00
+
+5.600.000,00
+
+16.000.000,00
+
+7.000.000,00
+
+1.800.000,00
+
+400.000,00
+
+100.000,00
+
+200.000,00
+
+100.000,00
+
+1.000.000,00
+
+100.000,00
+
+300.000,00
+
+600.000,00
+
+2.800.000,00
+
+1.500.000,00
+
+1.000.000,00
+
+300.000,00
+
+113.900.000,00
+
+22.600.000,00
+
+100.000,00
+
+20.000.000,00
+
+2.500.000,00
+
+90.100.000,00
+
+100.000,00
+
+35.000.000,00
+
+50.000.000,00
+
+5.000.000,00
+
+1.200.000,00
+
+150.000,00
+
+200.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+13.843.333,00
+
+250.000,00
+
+3.000.000,00
+
+400.000,00
+
+1.700.000,00
+
+2.800.000,00
+
+5.333.333,00
+
+0,00
+
+360.000,00
+
+310.000,00
+
+100.000,00
+
+140.000,00
+
+70.000,00
+
+320.000,00
+
+100.000,00
+
+100.000,00
+
+120.000,00
+
+1.233.333,00
+
+750.000,00
+
+333.333,00
+
+150.000,00
+
+660.000,00
+
+100.000,00
+
+100.000,00
+
+0,00
+
+0,00
+
+100.000,00
+
+100.000,00
+
+0,00
+
+0,00
+
+0,00
+
+460.000,00
+
+150.000,00
+
+140.000,00
+
+(cid:10)
+
+
+Página: 17
+
+P - 2.3.4 Plano de Execução, Governança e Comunicação para a abertura de Parques Infantis e
+Quadras Escolares para a Comunidade
+P - 2.3.3 Reforma, Modernização e Compra de Acervo para Bibliotecas Públicas
+
+C - C 3: GESTÃO E COMUNICAÇÃO EFETIVAS
+
+P - 3.1 Integração e Aprimoramento do Sistema de Gestão Educacional
+
+P - 3.2 Revisão dos modelos de recrutamento, seleção, avaliação e incentivos das carreiras
+essenciais da SME
+P - 3.3 Criação do modelo de recrutamento, seleção, contratação e avaliação Instrutor de Tempo
+Integral
+P - 3.4 Revisão do Processo de Supervisão Escolar (Rede própria da Educação Infantil e Ensino
+Fundamental)
+P - 3.5 Processo e Sistema de Supervisão Pedagógica para a Rede de Educação Infantil
+Conveniada
+P - 3.6 Plano de Comunicação e Ações de Engajamento e Participação da Comunidade
+
+C - C 4: ADMINISTRAÇÃO DO PROGRAMA
+
+P - 4.1 Unidade Gestora do Projeto - UGP
+
+P - 4.2 Avaliação de Impacto
+
+P - 4.3 Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - COMPONENTE 1: AÇÕES PEDAGÓGICAS E TECNOLOGIAS EDUCACIONAIS PARA
+EXCELÊNCIA E EQUIDADE
+S - 1.1 TECNOLOGIAS EDUCACIONAIS
+
+COMPONENTES
+
+P - 1.1.1 Portal do Aluno com Recursos Educacionais Digitais Integrados
+
+P - 1.1.2 Centro de Produção de Mídias para estudantes e professores
+
+P - 1.1.3 Alinhamento entre Tecnologias Educacionais e Currículo da Cidade
+
+P - 1.1.4 Plataformas de Recursos Educacionais Digitais
+
+P - 1.1.5 Infraestrutura Tecnológica: Conectividade nas Escolas
+
+P - 1.1.6 Infraestrutura Tecnológica: Dispositivos Individuais
+
+P - 1.1.7 Infraestrutura Tecnológica: Novas Tecnologias para Fundamental 2
+
+P - 1.1.8 Sistema de envio de mensagens (nudges) para ações comunicacionais para aumentar
+engajamento das famílias e estudantes (nudges)
+S - 1.2 EDUCAÇÃO INCLUSIVA, MULTICULTURAL E ANTIRRACISTA
+
+P - 1.2.1 Levantamentos e pesquisas de diagnóstico para aprofundar o entendimento das
+desigualdades étnico-raciais no ambiente escolar
+P - 1.2.2 Materiais de formação e apoio à prática pedagógica adequados a uma abordagem
+inclusiva, multicultural e antirracista
+P - 1.2.3 Materiais e programas de formação de professores com foco na questão étnico-racial
+
+S - 1.3 FORMAÇÃO SÓLIDA E ATUAL AOS PROFISSIONAIS DA EDUCAÇÃO
+
+P - 1.3.1 Diretrizes para Programa de Formação de Profissionais da Educação híbrido e atrelado
+à avaliação de desempenho
+P - 1.3.2 Ambiente Virtual de Aprendizagem para Profissionais da Educação (aberto/acesso livre)
+
+P - 1.3.3 Desenvolvimento do Conteúdo das Trilhas de Formação
+
+S - 1.4 AVALIAÇÃO CONTÍNUA, INTEGRADA E COM DEVOLUTIVA PEDAGÓGICA
+
+P - 1.4.1 Processo de produção e utilização os itens pelos professores - Testes Adaptativos
+Informatizados (TAI) e módulo de correção de textos
+P - 1.4.2 Aprimoramento da Devolutiva da Avaliação aos Professores
+
+P - 1.4.3 Processo e Sistema de Avaliação do Contexto Escolar na Educação Infantil na Rede
+Conveniada
+C - C 2: CRECHE DE QUALIDADE PARA TODOS E ESCOLA INTEGRAL E INTEGRADA À
+COMUNIDADE
+S - 2.1 EXPANSÃO DA OFERTA E MELHORIA DA QUALIDADE DAS CRECHES
+
+P - 2.1.1 Plano de Expansão da Oferta de Creches com a definição de estratégias de atendimento
+de 100% da demanda
+P - 2.1.2 Expansão, Reforma e Melhoria da Infraestrutura das Creches existentes
+
+P - 2.1.3 Aquisição de Equipamentos, Mobiliário e Material Pedagógico
+
+S - 2.2 ESCOLA INTEGRAL EM TEMPO INTEGRAL
+
+P - 2.2.1 Plano de Expansão das Escolas da RMESP a partir de análise de oferta e demanda
+para atendimento em tempo integral
+P - 2.2.2 Construção de Escolas Novas
+
+P - 2.2.3 Expansão e Reforma de Escolas, com adaptações para acessibilidade e
+sustentabilidade
+P - 2.2.4 Aquisição de Equipamentos e Mobiliário
+
+S - 2.3 CIDADE COMO ESCOLA E ESCOLA DA COMUNIDADE
+
+P - 2.3.1 Mapeamento de Espaços Públicos
+
+P - 2.3.2 Definição de Ação de Integração da Cidade com o Currículo e Rotina Escolar
+
+P - 2.3.4 Plano de Execução, Governança e Comunicação para a abertura de Parques Infantis e
+Quadras Escolares para a Comunidade
+P - 2.3.3 Reforma, Modernização e Compra de Acervo para Bibliotecas Públicas
+
+C - C 3: GESTÃO E COMUNICAÇÃO EFETIVAS
+
+P - 3.1 Integração e Aprimoramento do Sistema de Gestão Educacional
+
+P - 3.2 Revisão dos modelos de recrutamento, seleção, avaliação e incentivos das carreiras
+essenciais da SME
+
+350.000,00
+
+500.000,00
+
+6.300.000,00
+
+5.000.000,00
+
+100.000,00
+
+100.000,00
+
+300.000,00
+
+300.000,00
+
+500.000,00
+
+2.800.000,00
+
+2.000.000,00
+
+550.000,00
+
+250.000,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+70.000,00
+
+100.000,00
+
+600.000,00
+
+0,00
+
+100.000,00
+
+100.000,00
+
+150.000,00
+
+150.000,00
+
+100.000,00
+
+560.000,00
+
+400.000,00
+
+110.000,00
+
+50.000,00
+
+17.526.666,00
+
+0,00
+
+0,00
+
+Ano 2
+
+FONTES
+
+CF
+
+BID
+
+0,00
+
+18.666.666,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+16.943.333,00
+
+250.000,00
+
+3.000.000,00
+
+0,00
+
+1.700.000,00
+
+2.800.000,00
+
+5.333.333,00
+
+3.500.000,00
+
+360.000,00
+
+90.000,00
+
+0,00
+
+60.000,00
+
+30.000,00
+
+400.000,00
+
+0,00
+
+100.000,00
+
+300.000,00
+
+1.233.333,00
+
+750.000,00
+
+333.333,00
+
+150.000,00
+
+21.000.000,00
+
+230.000,00
+
+4.000.000,00
+
+0,00
+
+4.000.000,00
+
+0,00
+
+17.000.000,00
+
+0,00
+
+7.000.000,00
+
+10.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+230.000,00
+
+0,00
+
+60.000,00
+
+70.000,00
+
+100.000,00
+
+1.650.000,00
+
+1.250.000,00
+
+0,00
+
+
+Página: 18
+
+P - 3.3 Criação do modelo de recrutamento, seleção, contratação e avaliação Instrutor de Tempo
+Integral
+P - 3.4 Revisão do Processo de Supervisão Escolar (Rede própria da Educação Infantil e Ensino
+Fundamental)
+P - 3.5 Processo e Sistema de Supervisão Pedagógica para a Rede de Educação Infantil
+Conveniada
+P - 3.6 Plano de Comunicação e Ações de Engajamento e Participação da Comunidade
+
+C - C 4: ADMINISTRAÇÃO DO PROGRAMA
+
+P - 4.1 Unidade Gestora do Projeto - UGP
+
+P - 4.2 Avaliação de Impacto
+
+P - 4.3 Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - COMPONENTE 1: AÇÕES PEDAGÓGICAS E TECNOLOGIAS EDUCACIONAIS PARA
+EXCELÊNCIA E EQUIDADE
+S - 1.1 TECNOLOGIAS EDUCACIONAIS
+
+COMPONENTES
+
+P - 1.1.1 Portal do Aluno com Recursos Educacionais Digitais Integrados
+
+P - 1.1.2 Centro de Produção de Mídias para estudantes e professores
+
+P - 1.1.3 Alinhamento entre Tecnologias Educacionais e Currículo da Cidade
+
+P - 1.1.4 Plataformas de Recursos Educacionais Digitais
+
+P - 1.1.5 Infraestrutura Tecnológica: Conectividade nas Escolas
+
+P - 1.1.6 Infraestrutura Tecnológica: Dispositivos Individuais
+
+P - 1.1.7 Infraestrutura Tecnológica: Novas Tecnologias para Fundamental 2
+
+P - 1.1.8 Sistema de envio de mensagens (nudges) para ações comunicacionais para aumentar
+engajamento das famílias e estudantes (nudges)
+S - 1.2 EDUCAÇÃO INCLUSIVA, MULTICULTURAL E ANTIRRACISTA
+
+P - 1.2.1 Levantamentos e pesquisas de diagnóstico para aprofundar o entendimento das
+desigualdades étnico-raciais no ambiente escolar
+P - 1.2.2 Materiais de formação e apoio à prática pedagógica adequados a uma abordagem
+inclusiva, multicultural e antirracista
+P - 1.2.3 Materiais e programas de formação de professores com foco na questão étnico-racial
+
+S - 1.3 FORMAÇÃO SÓLIDA E ATUAL AOS PROFISSIONAIS DA EDUCAÇÃO
+
+P - 1.3.1 Diretrizes para Programa de Formação de Profissionais da Educação híbrido e atrelado
+à avaliação de desempenho
+P - 1.3.2 Ambiente Virtual de Aprendizagem para Profissionais da Educação (aberto/acesso livre)
+
+P - 1.3.3 Desenvolvimento do Conteúdo das Trilhas de Formação
+
+S - 1.4 AVALIAÇÃO CONTÍNUA, INTEGRADA E COM DEVOLUTIVA PEDAGÓGICA
+
+P - 1.4.1 Processo de produção e utilização os itens pelos professores - Testes Adaptativos
+Informatizados (TAI) e módulo de correção de textos
+P - 1.4.2 Aprimoramento da Devolutiva da Avaliação aos Professores
+
+P - 1.4.3 Processo e Sistema de Avaliação do Contexto Escolar na Educação Infantil na Rede
+Conveniada
+C - C 2: CRECHE DE QUALIDADE PARA TODOS E ESCOLA INTEGRAL E INTEGRADA À
+COMUNIDADE
+S - 2.1 EXPANSÃO DA OFERTA E MELHORIA DA QUALIDADE DAS CRECHES
+
+P - 2.1.1 Plano de Expansão da Oferta de Creches com a definição de estratégias de atendimento
+de 100% da demanda
+P - 2.1.2 Expansão, Reforma e Melhoria da Infraestrutura das Creches existentes
+
+P - 2.1.3 Aquisição de Equipamentos, Mobiliário e Material Pedagógico
+
+S - 2.2 ESCOLA INTEGRAL EM TEMPO INTEGRAL
+
+P - 2.2.1 Plano de Expansão das Escolas da RMESP a partir de análise de oferta e demanda
+para atendimento em tempo integral
+P - 2.2.2 Construção de Escolas Novas
+
+P - 2.2.3 Expansão e Reforma de Escolas, com adaptações para acessibilidade e
+sustentabilidade
+P - 2.2.4 Aquisição de Equipamentos e Mobiliário
+
+S - 2.3 CIDADE COMO ESCOLA E ESCOLA DA COMUNIDADE
+
+P - 2.3.1 Mapeamento de Espaços Públicos
+
+P - 2.3.2 Definição de Ação de Integração da Cidade com o Currículo e Rotina Escolar
+
+P - 2.3.4 Plano de Execução, Governança e Comunicação para a abertura de Parques Infantis e
+Quadras Escolares para a Comunidade
+P - 2.3.3 Reforma, Modernização e Compra de Acervo para Bibliotecas Públicas
+
+C - C 3: GESTÃO E COMUNICAÇÃO EFETIVAS
+
+P - 3.1 Integração e Aprimoramento do Sistema de Gestão Educacional
+
+P - 3.2 Revisão dos modelos de recrutamento, seleção, avaliação e incentivos das carreiras
+essenciais da SME
+P - 3.3 Criação do modelo de recrutamento, seleção, contratação e avaliação Instrutor de Tempo
+Integral
+P - 3.4 Revisão do Processo de Supervisão Escolar (Rede própria da Educação Infantil e Ensino
+Fundamental)
+P - 3.5 Processo e Sistema de Supervisão Pedagógica para a Rede de Educação Infantil
+Conveniada
+P - 3.6 Plano de Comunicação e Ações de Engajamento e Participação da Comunidade
+
+C - C 4: ADMINISTRAÇÃO DO PROGRAMA
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+150.000,00
+
+150.000,00
+
+100.000,00
+
+450.000,00
+
+400.000,00
+
+0,00
+
+50.000,00
+
+0,00
+
+21.000.000,00
+
+20.996.666,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+BID
+
+0,00
+
+11.506.668,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+10.893.334,00
+
+0,00
+
+0,00
+
+0,00
+
+1.700.000,00
+
+0,00
+
+5.333.334,00
+
+3.500.000,00
+
+360.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+280.000,00
+
+0,00
+
+100.000,00
+
+180.000,00
+
+333.334,00
+
+0,00
+
+333.334,00
+
+0,00
+
+44.500.000,00
+
+170.000,00
+
+8.833.333,00
+
+0,00
+
+8.000.000,00
+
+833.333,00
+
+35.666.667,00
+
+0,00
+
+14.000.000,00
+
+20.000.000,00
+
+1.666.667,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+170.000,00
+
+0,00
+
+0,00
+
+70.000,00
+
+100.000,00
+
+1.350.000,00
+
+1.250.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+100.000,00
+
+560.000,00
+
+
+Página: 19
+
+P - 4.1 Unidade Gestora do Projeto - UGP
+
+P - 4.2 Avaliação de Impacto
+
+P - 4.3 Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - COMPONENTE 1: AÇÕES PEDAGÓGICAS E TECNOLOGIAS EDUCACIONAIS PARA
+EXCELÊNCIA E EQUIDADE
+S - 1.1 TECNOLOGIAS EDUCACIONAIS
+
+COMPONENTES
+
+P - 1.1.1 Portal do Aluno com Recursos Educacionais Digitais Integrados
+
+P - 1.1.2 Centro de Produção de Mídias para estudantes e professores
+
+P - 1.1.3 Alinhamento entre Tecnologias Educacionais e Currículo da Cidade
+
+P - 1.1.4 Plataformas de Recursos Educacionais Digitais
+
+P - 1.1.5 Infraestrutura Tecnológica: Conectividade nas Escolas
+
+P - 1.1.6 Infraestrutura Tecnológica: Dispositivos Individuais
+
+P - 1.1.7 Infraestrutura Tecnológica: Novas Tecnologias para Fundamental 2
+
+P - 1.1.8 Sistema de envio de mensagens (nudges) para ações comunicacionais para aumentar
+engajamento das famílias e estudantes (nudges)
+S - 1.2 EDUCAÇÃO INCLUSIVA, MULTICULTURAL E ANTIRRACISTA
+
+P - 1.2.1 Levantamentos e pesquisas de diagnóstico para aprofundar o entendimento das
+desigualdades étnico-raciais no ambiente escolar
+P - 1.2.2 Materiais de formação e apoio à prática pedagógica adequados a uma abordagem
+inclusiva, multicultural e antirracista
+P - 1.2.3 Materiais e programas de formação de professores com foco na questão étnico-racial
+
+S - 1.3 FORMAÇÃO SÓLIDA E ATUAL AOS PROFISSIONAIS DA EDUCAÇÃO
+
+P - 1.3.1 Diretrizes para Programa de Formação de Profissionais da Educação híbrido e atrelado
+à avaliação de desempenho
+P - 1.3.2 Ambiente Virtual de Aprendizagem para Profissionais da Educação (aberto/acesso livre)
+
+P - 1.3.3 Desenvolvimento do Conteúdo das Trilhas de Formação
+
+S - 1.4 AVALIAÇÃO CONTÍNUA, INTEGRADA E COM DEVOLUTIVA PEDAGÓGICA
+
+P - 1.4.1 Processo de produção e utilização os itens pelos professores - Testes Adaptativos
+Informatizados (TAI) e módulo de correção de textos
+P - 1.4.2 Aprimoramento da Devolutiva da Avaliação aos Professores
+
+P - 1.4.3 Processo e Sistema de Avaliação do Contexto Escolar na Educação Infantil na Rede
+Conveniada
+C - C 2: CRECHE DE QUALIDADE PARA TODOS E ESCOLA INTEGRAL E INTEGRADA À
+COMUNIDADE
+S - 2.1 EXPANSÃO DA OFERTA E MELHORIA DA QUALIDADE DAS CRECHES
+
+P - 2.1.1 Plano de Expansão da Oferta de Creches com a definição de estratégias de atendimento
+de 100% da demanda
+P - 2.1.2 Expansão, Reforma e Melhoria da Infraestrutura das Creches existentes
+
+P - 2.1.3 Aquisição de Equipamentos, Mobiliário e Material Pedagógico
+
+S - 2.2 ESCOLA INTEGRAL EM TEMPO INTEGRAL
+
+P - 2.2.1 Plano de Expansão das Escolas da RMESP a partir de análise de oferta e demanda
+para atendimento em tempo integral
+P - 2.2.2 Construção de Escolas Novas
+
+P - 2.2.3 Expansão e Reforma de Escolas, com adaptações para acessibilidade e
+sustentabilidade
+P - 2.2.4 Aquisição de Equipamentos e Mobiliário
+
+S - 2.3 CIDADE COMO ESCOLA E ESCOLA DA COMUNIDADE
+
+P - 2.3.1 Mapeamento de Espaços Públicos
+
+P - 2.3.2 Definição de Ação de Integração da Cidade com o Currículo e Rotina Escolar
+
+P - 2.3.4 Plano de Execução, Governança e Comunicação para a abertura de Parques Infantis e
+Quadras Escolares para a Comunidade
+P - 2.3.3 Reforma, Modernização e Compra de Acervo para Bibliotecas Públicas
+
+C - C 3: GESTÃO E COMUNICAÇÃO EFETIVAS
+
+P - 3.1 Integração e Aprimoramento do Sistema de Gestão Educacional
+
+P - 3.2 Revisão dos modelos de recrutamento, seleção, avaliação e incentivos das carreiras
+essenciais da SME
+P - 3.3 Criação do modelo de recrutamento, seleção, contratação e avaliação Instrutor de Tempo
+Integral
+P - 3.4 Revisão do Processo de Supervisão Escolar (Rede própria da Educação Infantil e Ensino
+Fundamental)
+P - 3.5 Processo e Sistema de Supervisão Pedagógica para a Rede de Educação Infantil
+Conveniada
+P - 3.6 Plano de Comunicação e Ações de Engajamento e Participação da Comunidade
+
+C - C 4: ADMINISTRAÇÃO DO PROGRAMA
+
+P - 4.1 Unidade Gestora do Projeto - UGP
+
+P - 4.2 Avaliação de Impacto
+
+P - 4.3 Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+0,00
+
+0,00
+
+400.000,00
+
+110.000,00
+
+50.000,00
+
+0,00
+
+44.500.000,00
+
+13.586.668,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+BID
+
+0,00
+
+2.060.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.060.000,00
+
+0,00
+
+0,00
+
+0,00
+
+1.700.000,00
+
+0,00
+
+0,00
+
+0,00
+
+360.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+23.500.000,00
+
+170.000,00
+
+4.833.333,00
+
+0,00
+
+4.000.000,00
+
+833.333,00
+
+18.666.667,00
+
+0,00
+
+7.000.000,00
+
+10.000.000,00
+
+1.666.667,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+170.000,00
+
+0,00
+
+0,00
+
+70.000,00
+
+100.000,00
+
+1.350.000,00
+
+1.250.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+100.000,00
+
+450.000,00
+
+400.000,00
+
+0,00
+
+50.000,00
+
+0,00
+
+23.500.000,00
+
+4.030.000,00
+
+0,00
+
+0,00
+
+
+Página: 20
+
+C - COMPONENTE 1: AÇÕES PEDAGÓGICAS E TECNOLOGIAS EDUCACIONAIS PARA
+EXCELÊNCIA E EQUIDADE
+S - 1.1 TECNOLOGIAS EDUCACIONAIS
+
+COMPONENTES
+
+P - 1.1.1 Portal do Aluno com Recursos Educacionais Digitais Integrados
+
+P - 1.1.2 Centro de Produção de Mídias para estudantes e professores
+
+P - 1.1.3 Alinhamento entre Tecnologias Educacionais e Currículo da Cidade
+
+P - 1.1.4 Plataformas de Recursos Educacionais Digitais
+
+P - 1.1.5 Infraestrutura Tecnológica: Conectividade nas Escolas
+
+P - 1.1.6 Infraestrutura Tecnológica: Dispositivos Individuais
+
+P - 1.1.7 Infraestrutura Tecnológica: Novas Tecnologias para Fundamental 2
+
+P - 1.1.8 Sistema de envio de mensagens (nudges) para ações comunicacionais para aumentar
+engajamento das famílias e estudantes (nudges)
+S - 1.2 EDUCAÇÃO INCLUSIVA, MULTICULTURAL E ANTIRRACISTA
+
+P - 1.2.1 Levantamentos e pesquisas de diagnóstico para aprofundar o entendimento das
+desigualdades étnico-raciais no ambiente escolar
+P - 1.2.2 Materiais de formação e apoio à prática pedagógica adequados a uma abordagem
+inclusiva, multicultural e antirracista
+P - 1.2.3 Materiais e programas de formação de professores com foco na questão étnico-racial
+
+S - 1.3 FORMAÇÃO SÓLIDA E ATUAL AOS PROFISSIONAIS DA EDUCAÇÃO
+
+P - 1.3.1 Diretrizes para Programa de Formação de Profissionais da Educação híbrido e atrelado
+à avaliação de desempenho
+P - 1.3.2 Ambiente Virtual de Aprendizagem para Profissionais da Educação (aberto/acesso livre)
+
+P - 1.3.3 Desenvolvimento do Conteúdo das Trilhas de Formação
+
+S - 1.4 AVALIAÇÃO CONTÍNUA, INTEGRADA E COM DEVOLUTIVA PEDAGÓGICA
+
+P - 1.4.1 Processo de produção e utilização os itens pelos professores - Testes Adaptativos
+Informatizados (TAI) e módulo de correção de textos
+P - 1.4.2 Aprimoramento da Devolutiva da Avaliação aos Professores
+
+P - 1.4.3 Processo e Sistema de Avaliação do Contexto Escolar na Educação Infantil na Rede
+Conveniada
+C - C 2: CRECHE DE QUALIDADE PARA TODOS E ESCOLA INTEGRAL E INTEGRADA À
+COMUNIDADE
+S - 2.1 EXPANSÃO DA OFERTA E MELHORIA DA QUALIDADE DAS CRECHES
+
+P - 2.1.1 Plano de Expansão da Oferta de Creches com a definição de estratégias de atendimento
+de 100% da demanda
+P - 2.1.2 Expansão, Reforma e Melhoria da Infraestrutura das Creches existentes
+
+P - 2.1.3 Aquisição de Equipamentos, Mobiliário e Material Pedagógico
+
+S - 2.2 ESCOLA INTEGRAL EM TEMPO INTEGRAL
+
+P - 2.2.1 Plano de Expansão das Escolas da RMESP a partir de análise de oferta e demanda
+para atendimento em tempo integral
+P - 2.2.2 Construção de Escolas Novas
+
+P - 2.2.3 Expansão e Reforma de Escolas, com adaptações para acessibilidade e
+sustentabilidade
+P - 2.2.4 Aquisição de Equipamentos e Mobiliário
+
+S - 2.3 CIDADE COMO ESCOLA E ESCOLA DA COMUNIDADE
+
+P - 2.3.1 Mapeamento de Espaços Públicos
+
+P - 2.3.2 Definição de Ação de Integração da Cidade com o Currículo e Rotina Escolar
+
+P - 2.3.4 Plano de Execução, Governança e Comunicação para a abertura de Parques Infantis e
+Quadras Escolares para a Comunidade
+P - 2.3.3 Reforma, Modernização e Compra de Acervo para Bibliotecas Públicas
+
+C - C 3: GESTÃO E COMUNICAÇÃO EFETIVAS
+
+P - 3.1 Integração e Aprimoramento do Sistema de Gestão Educacional
+
+P - 3.2 Revisão dos modelos de recrutamento, seleção, avaliação e incentivos das carreiras
+essenciais da SME
+P - 3.3 Criação do modelo de recrutamento, seleção, contratação e avaliação Instrutor de Tempo
+Integral
+P - 3.4 Revisão do Processo de Supervisão Escolar (Rede própria da Educação Infantil e Ensino
+Fundamental)
+P - 3.5 Processo e Sistema de Supervisão Pedagógica para a Rede de Educação Infantil
+Conveniada
+P - 3.6 Plano de Comunicação e Ações de Engajamento e Participação da Comunidade
+
+C - C 4: ADMINISTRAÇÃO DO PROGRAMA
+
+P - 4.1 Unidade Gestora do Projeto - UGP
+
+P - 4.2 Avaliação de Impacto
+
+P - 4.3 Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+Não há risco dessa natureza.
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+BID
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+0,00
+
+2.060.000,00
+
+0,00
+
+50.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.060.000,00
+
+0,00
+
+0,00
+
+0,00
+
+1.700.000,00
+
+0,00
+
+0,00
+
+0,00
+
+360.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+45.800.000,00
+
+500.000,00
+
+6.000.000,00
+
+400.000,00
+
+8.500.000,00
+
+5.600.000,00
+
+16.000.000,00
+
+7.000.000,00
+
+1.800.000,00
+
+400.000,00
+
+100.000,00
+
+200.000,00
+
+100.000,00
+
+1.000.000,00
+
+100.000,00
+
+300.000,00
+
+600.000,00
+
+2.800.000,00
+
+1.500.000,00
+
+1.000.000,00
+
+300.000,00
+
+23.500.000,00
+
+170.000,00
+
+112.500.000,00
+
+1.400.000,00
+
+4.833.334,00
+
+0,00
+
+4.000.000,00
+
+833.334,00
+
+18.666.666,00
+
+0,00
+
+7.000.000,00
+
+10.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+22.500.000,00
+
+100.000,00
+
+0,00
+
+100.000,00
+
+20.000.000,00
+
+2.500.000,00
+
+0,00
+
+0,00
+
+90.000.000,00
+
+100.000,00
+
+0,00
+
+100.000,00
+
+35.000.000,00
+
+50.000.000,00
+
+1.666.666,00
+
+0,00
+
+5.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+170.000,00
+
+0,00
+
+0,00
+
+70.000,00
+
+100.000,00
+
+1.350.000,00
+
+1.250.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+100.000,00
+
+780.000,00
+
+400.000,00
+
+330.000,00
+
+50.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.200.000,00
+
+150.000,00
+
+200.000,00
+
+350.000,00
+
+500.000,00
+
+6.300.000,00
+
+5.000.000,00
+
+100.000,00
+
+100.000,00
+
+300.000,00
+
+300.000,00
+
+500.000,00
+
+2.800.000,00
+
+2.000.000,00
+
+550.000,00
+
+250.000,00
+
+173.000.000,00
+
+23.500.000,00
+
+4.360.000,00
+
+112.500.000,00
+
+60.500.000,00
+
+(cid:10)
+(cid:10)
+
+
+Página: 21
+
+5.2. RISCOS/CONTRATAÇÕES
+
+A cidade de São Paulo conta com um dos maiores, se não o maior, mercado de todos os nichos: tecnologias e soluções educacionais,
+construção e reformas, materiais e equipamentos escolares etc. O mercado de trabalho é extremamente aquecido e conta com
+profissionais de todas as especialidades, e com alta qualificação. Não há risco dessa natureza.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Será evitado ao máximo a necessidade de construção de novas escolas em áreas que exijam desapropriação ou reassentamento de
+pessoas. A prefeitura tem terrenos em sua posse que serão utilizados para a expansão da rede de educação, portanto não há risco dessa
+natureza.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+Os impactos ambientais são apenas positivos, não há risco dessa natureza.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+Não há risco dessa natureza.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Não há necessidade de localização de terrenos e desapropriações. A prefeitura tem terrenos em sua posse que serão utilizados para a
+expansão da rede de educação, portanto não há risco dessa natureza.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)

@@ -1,0 +1,1598 @@
+# Carta-Consulta CC_61182 — Versao 1 (SIGS)
+
+
+CARTA CONSULTA
+
+Programa de sustentabilidade fiscal, econômica, social e ambiental do Estado do
+Amazonas
+
+Nº Carta Consulta: 61182
+Mutuário: Estado do Amazonas
+Tipo de Operação: Operação de crédito externo
+
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 585.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+O Amazonas é o 14º mais populoso Estado Federativo. De acordo com o último Censo Nacional, realizado pelo Instituto Brasileiro de
+Geografia e Estatística (IBGE) em 2022, a população do Estado do Amazonas é de 3.941.175 habitantes, dos quais 52,36% (2.063.547)
+vivendo na capital Manaus e 47,64% (1.877.627) nos 61 (sessenta e um) municípios do interior. Em relação ao Censo realizado em 2010,
+o crescimento populacional foi de 13,12%, correspondente ao dobro da média nacional (6,45%). Também convive com uma grande
+defasagem socioeconômica evidenciada em seus diversos elementos estruturais, de infraestrutura e indicadores sociais, tais como a baixa
+expectativa de vida (5ª pior dentre os Estados Brasileiros ? 73,0 anos), a alta mortalidade infantil (7ª pior dentre os Estados Brasileiros,
+com 13,9 óbitos de crianças com menos de um ano a cada mil nascidos vivos) e o alto déficit habitacional relativo, de aproximadamente
+15,5%, 3&#8304; maior do Brasil e muito acima da média nacional (8,1%).
+
+Os impactos da Lei Complementar nº 194/2022 e o fim do ciclo de ingressos de recursos extraordinários já sinalizavam um cenário de
+queda de arrecadação nos anos vindouros. Em 2023, os efeitos do aquecimento global foram deveras severos. O Amazonas fechou o ano
+com quase 20 (vinte) mil focos de queimadas, segundo levantamento realizado pelo Instituto Nacional de Pesquisas Espaciais (Inpe),
+além de registrar as piores marcas históricas de vazantes dos rios.  Os parágrafos que seguem detalham os 2 (dois) principais problemas
+diagnosticados, que são objeto da operação, e suas causas raízes.
+
+PROBLEMA 1: Crescimento das despesas correntes, impulsionado desde 2020 pela pandemia Covid-19 e em 2023 pela seca histórica e
+o aquecimento global, com perspectivas de efeito de médio e longo prazo, limitando a capacidade de poupança e investimento com
+recursos próprios.
+
+CAUSAS RAÍZES:
+
+1) Crescimento das despesas de pessoal;
+
+2) Crescimento das despesas com a função saúde.
+
+Entre os anos de 2010 e 2019, observou-se contínuo aumento dos gastos com pessoal, passando de R$ 7,52 bilhões para R$ 11,01
+bilhões em valores reais (despesa bruta liquidada atualizada pelo IPCA até dezembro/2022). Tal aumento foi impulsionado e agravado
+pelos recorrentes reajustes escalonados nas áreas de Segurança, Educação, Previdência e Saúde, incluindo as contratações de
+empresas de saúde (técnicos de enfermagem, enfermeiros, médicos). Juntas, estas áreas representaram 88% do valor total das despesas
+de pessoal do Estado.
+
+Nos anos de 2020 a 2022, mesmo vigorando a proibição da concessão de data-base, promoções, progressões ou quaisquer outras formas
+de aumento de remuneração, houve crescimento das despesas de pessoal decorrente das ações de combate ao COVID. A despesa bruta
+liquidada, com dados atualizados pelo IPCA até dezembro de 2022, alcançou R$ 11,57 bilhões em 2022, crescimento real 5,06% (
+comparativo 2022 e 2019). Exemplificando, foram contratados pouco mais de dois mil profissionais para atuar em hospitais e unidades de
+pronto atendimento, com impacto de mais de R$ 176 milhões na folha de pagamento. Também houve aumento nas áreas de assistência
+social, justiça e cidadania (aproximadamente R$ 33 milhões). Ainda assim, as medidas de ajuste e sustentabilidade fiscal implementadas
+surtiram o efeito esperado.
+
+PROBLEMA 2: Persistência das altas taxas de desmatamentos e incidência de queimadas nas áreas de floresta do Amazonas nos últimos
+anos.
+
+CAUSAS RAÍZES:
+
+1) Concentração da riqueza do Amazonas em sua capital e com grande correlação com o Polo Industrial de Manaus.
+
+2) Falta de estrutura, baixa capacidade de fiscalização, insuficientes avanços no Cadastro Ambiental Rural (CAR) e carência de capital e
+recursos humanos que, associados ao crescimento da especulação agropecuária e fundiária e das atividades de mineração, pressionam o
+desmatamento, as queimadas e a proliferação dos garimpos ilegais;
+
+3) Carência de infraestruturas básicas nos municípios do interior, tais como energia elétrica, saneamento básico e internet, estradas,
+rodovias, portos e hidrovias, que dificultam ou mesmo inviabilizam o acesso à saúde, à educação de qualidade, à economia, ao emprego e
+demais oportunidades de geração de renda.
+
+4) Ausência de uma política de Estado efetiva voltada ao desenvolvimento de novas matrizes econômicas alinhadas às diretrizes de
+preservação e sustentabilidade ambiental, tais como biotecnologia e serviços ambientais (em desenvolvimento), evidenciada, por exemplo,
+no baixíssimo percentual de áreas aptas (regularizadas) à exploração econômica e socioambiental.
+
+Manaus concentra, em média, 77,5% de toda a riqueza do Estado. Com um PIB baseado em Serviços (49%) e na Indústria (28%), ambos
+diretamente ligados ao Polo Industrial de Manaus - PIM, o modelo Zona Franca produziu (e continua produzindo) divisas ao Amazonas e
+ao Brasil. No entanto, uma economia territorialmente concentrada e dependente de uma única matriz é deveras restritiva aos avanços
+sociais, econômicos e ambientais.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+
+Página: 3
+
+O PRO-SUSTENTÁVEL III tem como foco principal a redução imediata e significativa das prestações anuais da dívida pública, de modo a
+aprimorar o perfil da dívida consolidada e o fluxo financeiro do Estado do Amazonas. Ainda do ponto de vista da gestão fiscal, as medidas
+também buscarão aumentar a arrecadação pelo dinamismo da bioeconomia e captação de recursos pelos serviços ambientais,
+notabilizando o crédito de carbono, qualificar os gastos públicos, aperfeiçoar os mecanismos de controle das despesas de pessoal e
+garantir a continuidade da reforma do sistema previdenciário, com consequente aumento da poupança corrente líquida e da capacidade
+de realizar investimentos com recursos próprios.
+
+No componente ambiental, o PRO-SUSTENTÁVEL III apoiará a implementação de normas e mecanismos de incentivo à economia
+ambiental, sobretudo nas áreas de regularização fundiária, concessão florestal e pagamento por serviços ambientais, créditos de carbono
+vintage e/ou futuros, e implementação do programa de desenvolvimento socioeconômico sustentável do Amazonas, denominado ?
+Amazonas 2030?, para fins de preservação da floresta, redução drástica do desmatamento e redução da pobreza, além de reforçar
+Programa de Prevenção e Controle de Queimadas e Desmatamentos do Amazonas (PPCQD-Am), cuja meta é zerar o desmatamento
+líquido no Amazonas até 2030.
+
+COMPONENTE FISCAL: CRIAR ESPAÇO FISCAL PARA INVESTIMENTOS PÚBLICOS EM MEIO-AMBIENTE E MUDANÇAS
+CLIMÁTICAS
+
+I - Compreende a implantação de medidas e sistemáticas de:
+
+I.a - ajuste, responsabilidade e sustentabilidade fiscal, incluindo o fortalecimento dos mecanismos de integridade, de eficiência, de
+transparência e de controle social;
+
+I.b - simplificação e desburocratização dos processos de despesas de modo a reduzir custos, dinamizar a estrutura administrativa e
+proporcionar um ambiente atrativo aos investimentos públicos e privados;
+
+I.c - controle das despesas com pessoal e do impacto do sistema previdenciário nas finanças estaduais;
+
+I.d ? gestão da dívida consolidada e do endividamento; e
+
+i.e ? incentivo à produção sustentável, à bioeconomia e à redução de emissões de gases de efeito estufa ao implementar critérios sociais
+e ambientais nas transferências obrigatórias (ICMS) e voluntárias de recursos aos municípios.
+
+RESULTADOS ESPERADOS
+
+1) Manutenção da avaliação da capacidade de pagamento do Estado (CAPAG B).
+
+2) Redução imediata das parcelas de pagamento da dívida e consequente melhoria no fluxo de caixa do Estado.
+
+3) Controle do déficit do Fundo Financeiro (FFIN) e trajetória de equilíbrio atuarial do sistema previdenciário do Amazonas no médio prazo.
+
+4) Aumento gradativo e sustentável da poupança corrente líquida.
+
+5) Espaço fiscal disponível para investimentos em bioeconomia, mitigação e adaptação às mudanças climáticas, saneamento básico e
+habitação.
+
+5) Captação de recursos pelos serviços ambientais, notadamente decorrentes de créditos de carbono vintage e/ou futuros (meta de no
+mínimo R$ 100 milhões até 2025).
+
+SUSTENTABILIDADE
+
+As medidas de caráter fiscal estão alinhadas à política de controle das despesas correntes, especialmente das despesas com pessoal e
+previdenciárias e da dívida consolidada, mas também com ênfase no aumento da arrecadação, no incentivo à bioeconomia, na mitigação
+e adaptação às mudanças climáticas e na melhoria e ampliação da prestação dos serviços públicos. Os avanços normativos planejados
+contemplam metas de governo e ações previstas no PPA que aprimorem a gestão de pessoal, da previdência e do endividamento,
+controlem o custeio da administração, promovem segurança jurídica e alavanquem investimentos públicos e privados.
+
+Não obstante, para além deles, espera-se:
+
+1) Estabilidade macroeconômica e melhoria da performance do Amazonas no Programa de Ajuste Fiscal.
+
+2) A modernização dos processos e o governo digital significarão maior segurança dos processos, transparência, controle de custos e
+eficiência operacional (redução de prazos e mão de obra).
+
+COMPONENTE MEIO AMBIENTE: DESENVOLVIMENTO ECONÔMICO E SOCIOAMBIENTAL SUSTENTÁVEL
+
+I - Compreende a implantação de medidas e sistemáticas de:
+
+I.a - prevenção e controle do desmatamento e das queimadas florestais por meio de: (i) diretrizes e ações coordenadas sobre queimadas
+florestais e (ii) sistema Integrado de alerta precoce de desmatamento e queimadas florestais;
+
+
+Página: 4
+
+I.b - regularização ambiental rural viabilizando a exploração socioeconômica sustentável, contemplando essencialmente as medidas de
+implementação no Estado do Amazonas dos instrumentos da Lei n.º 12.651, de 25 de maio de 2012, que dispõe sobre a proteção da
+vegetação nativa (Novo Código Florestal);
+
+I.c - incentivo à bioeconomia, à exploração econômica social e ambientalmente sustentável dos recursos naturais do bioma florestal, à
+monetização dos serviços ambientais e ao mercado de carbono;
+
+I.d - fortalecimento e ampliação do programa de pagamentos por serviços ambientais denominado ?Guardiões da Floresta?; e
+
+I.e ? combate ao aquecimento global, mitigação e adaptação às mudanças climáticas.
+
+RESULTADOS ESPERADOS
+
+1) Consolidação do processo de controle e monitoramento de desmatamento e queimadas.
+
+2) Redução de no mínimo 30% dos índices de desmatamento ilegal no triênio 2023 a 2025.
+
+3) Aumentar significativamente a quantidade de imóveis rurais do Amazonas validados no Cadastro Ambiental Rural (CAR) ? mínimo de
+três mil até 2026.
+
+4) Desenvolvimento e implementação de novos instrumentos financeiros que promovam a bioeconomia, a sociobioeconomia e a
+remuneração por serviços ecossistêmicos, estimulando um mercado de valoração de ativos ambientais (concessão de áreas florestais e
+créditos de carbono vintage e/ou futuros).
+
+SUSTENTABILIDADE
+
+Os projetos de gestão ambiental demandam contínuos investimentos e recursos operacionais para a prevenção e combate ao
+desmatamento e queimadas. Inicialmente a principal fonte dos recursos será o Tesouro Estadual. No entanto, há perspectivas de aumento
+das receitas com serviços ambientais (concessão de áreas florestais e créditos de carbono vintage e/ou futuros, por exemplo), com o
+cadastro ambiental rural (taxas de licenciamento), com a concessão de áreas florestais e com a fiscalização (multas ambientais, confisco
+de máquinas em áreas desmatadas e outros). Também a consecução e implantação de bons projetos de sustentabilidade são excelentes
+oportunidades de captação de recursos de agentes externos e de Fundos Ambientais.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+Esta proposta de crédito está alinhada à trajetória de gestão do Estado do Amazonas e suas diretrizes estratégicas de Qualidade de Vida,
+Desenvolvimento Sustentável e Modernização da Gestão Pública, refletidas no Plano Plurianual 2024-2027, Lei n° 6.671, de 28 de
+dezembro de 2023, a saber:
+
+I ? Política do Estado do Amazonas de Serviços Ambientais e Sistema Estadual de Gestão dos Serviços Ambientais, instituídos pela Lei
+Estadual n° 4.266, de 1º de dezembro de 2015, que alterou as Leis Estaduais n° 3.135/2007 e n° 3.184/2007, e que trata da necessidade
+de definição da meta voluntária estadual de redução de emissões por desmatamento e degradação florestal;
+
+II ? Política Estadual de Meio-Ambiente, Lei Complementar Estadual n° 187, de 25 de abril de 2018, que disciplina a execução do artigo
+220 da Constituição do Estado do Amazonas, institui o Conselho Estadual de Meio Ambiente e dispõe sobre o Fundo Estadual de Meio
+Ambiente;
+
+III ? Programa Municípios Sustentáveis do Amazonas - MS/AMAZONAS, instituído pelo Decreto Estadual n° 37.421, de 1º de dezembro de
+2016, que objetiva dinamizar a economia local, em bases sustentáveis, promovendo a recuperação ambiental e a conservação dos
+recursos naturais, nos municípios do Estado do Amazonas;
+
+IV ? Programa Estadual de Habitação de Interesse Social ?Amazonas Meu Lar? instituído pelo Decreto n° 47.990, de 28 de agosto de
+2023, que objetiva reduzir significativamente e em curto prazo o déficit habitacional do Estado do Amazonas.
+
+V - Programa de Reestruturação e de Ajuste Fiscal (PAF) do Estado do Amazonas, 20ª revisão período 2022-2024, e que é parte
+integrante do Contrato nº 005/98-STN/COAFI, de 11 de março de 1998, firmado entre o Governo Federal e o Estado do Amazonas, no
+âmbito da Lei Federal nº. 9.496/97, alterada pela Medida Provisória nº 2192-70, de 24 de agosto de 2001, e pelas Leis Complementares nº
+148, de 25 de novembro de 2014, nº 156, de 28 de dezembro de 2016 e nº 178, de 13 de janeiro de 2021, e da Resolução do Senado
+Federal nº 41/98;
+
+VI - Agenda 2030 da ONU, notadamente ODS-8 (Trabalho Decente e Crescimento Econômico); ODS-9 (Indústria, Inovação e
+Infraestrutura); ODS-12 (Consumo e Produção Responsáveis); ODS-13 (Ação contra a Mudança Global do Clima), e ODS-17 (Parcerias e
+Meios de Implementação), bem como a Campanha Global da ONU intitulada Race to Zero, para economia verde, produção sustentável e
+emissões líquidas zero até 2050.
+
+As operações de reestruturação e recomposição do principal de dívidas, conforme disposto no II da Resolução COFIEX nº 3, de 9 de maio
+de 2019, não preveem contrapartida. A presente proposta cumpre a Resolução COFIEX nº 17/2021, que dispõe sobre os procedimentos
+de análise e avaliação de programas/projetos, considerados pela COFIEX, vinculados aos pleitos de operações de crédito externo de
+interesse de Estados, DF e Municípios, com garantia da União.
+
+
+Página: 5
+
+1 US$ = R$ 4,95; Referência: Focus ? Relatório de Mercado (BCB); Data de Referência: 05/04/2024; Banco Central do Brasil
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa de sustentabilidade fiscal, econômica, social e ambiental do Estado do Amazonas
+
+
+### 2.2. Título Abreviado
+
+
+PRO-SUSTENTÁVEL III
+
+
+### 2.3. Mutuário
+
+
+Estado do Amazonas
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+OBJETIVO GERAL
+
+O PRO-SUSTENTÁVEL III objetiva consolidar o programa de ajuste e sustentabilidade fiscal do Estado do Amazonas. No curto prazo, irá
+apoiar as medidas de controle do avanço das despesas correntes e melhorar o quadro fiscal e o fluxo de caixa a partir da redução dos
+custos com serviços da dívida, além de atenuar os efeitos da queda de arrecadação tributária, notadamente do ICMS, impactada pela Lei
+Complementar nº 194/2022 e pelos eventos extremos decorrentes do aquecimento global. Simultaneamente, reforçar investimentos nos
+mecanismos de proteção ao meio ambiente, de redução de emissões de gases de efeito estufa (GEE), de mitigação e adaptação às
+mudanças climáticas, de incentivo às inciativas de bioeconomia e captação de recursos por pagamentos de serviços ambientais, com
+oportunidades de geração de empregos verdes e renda nos municípios do interior.
+
+Finalmente, reduzir o déficit em infraestrutura, habitação e saneamento, destacando acesso à água potável, à coleta e tratamento de
+esgoto, à gestão de resíduos sólidos e às habitações sociais destinadas às famílias mais vulneráveis, em Manaus e nos municípios do
+interior do Amazonas. Paralelamente, adotar políticas públicas orientadas ao fortalecimento da responsabilidade fiscal, ao crescimento
+econômico, ao equilíbrio social e à preservação e exploração sustentável dos recursos da floresta, proporcionando aumento da poupança/
+investimentos e ciclos virtuosos de crescimento de médio e longo prazo.
+
+OBJETIVOS ESPECÍFICOS
+
+Além do objetivo geral acima exposto, a operação (DPL) ora pleiteada tem como objetivos específicos:
+
+I - manter a avaliação da capacidade de pagamento do Amazonas (CAPAG B) ? indicador Capacidade de Pagamento;
+
+II - controlar o déficit previdenciário do Fundo Financeiro (FFIN) em níveis fiscais aceitáveis, melhorando a situação atuarial do sistema
+previdenciário do Estado e mantendo-o em trajetória decrescente - indicador Poupança Corrente;
+
+III - reduzir as parcelas de pagamento da dívida ? indicador Poupança Corrente.
+
+IV ? implementar o ICMS Ecológico como estratégia de incentivo à bioeconomia e às iniciativas de combate ao aquecimento global nos
+municípios ? indicador ICMS Ecológico como base para transferência de recursos aos municípios;
+
+V ? retirar famílias de áreas de risco ou em situação de rua - indicador Poupança Corrente;
+
+VI ? minorar o déficit habitacional e de saneamento em Manaus e no interior do Amazonas - indicador Poupança Corrente;
+
+VII - reduzir o desmatamento e as queimadas na floresta (trilha de desmatamento líquido zero até 2030) ? indicador Área desmatada em
+áreas Estaduais;
+
+VIII - ampliar significativamente o número de registros no Cadastro Ambiental Rural (CAR) analisados e validados - Cadastros Ambientais
+Rurais validados;
+
+IX - aumentar as áreas em recuperação ambiental e aptas para exploração econômica sustentável (concessão florestal) ? indicadores
+Áreas sob concessão florestal e Cadastros Ambientais Rurais validados;
+
+X ? promover a sustentabilidade fiscal alinhada aos incentivos às cadeias de bioeconomia, à energia renovável e à descarbonização da
+economia - indicadores ICMS Ecológico como base para transferência de recursos aos municípios e Capacidade de Pagamento;
+
+XI ? fornecer segurança jurídica e estimular um ambiente de negócios sustentáveis de uso dos recursos naturais, de agricultura de baixo
+carbono, de restauração de ecossistemas com alta capacidade de estoque e remoção de carbono, e de integridade social e ambiental de
+cadeias de produção ? indicadores Cadastros Ambientais Rurais validados e Realização de Concurso Público para provimento de cargos
+efetivos à Secretaria de Estado de Meio Ambiente (SEMA);
+
+
+Página: 6
+
+XII ? desenvolver mecanismos de captação de recursos para os Fundos Estaduais de Meio-Ambiente (FEMA), de Mudanças Climáticas (
+FEMUCS) e de Recursos Hídricos (FERH), de modo a garantir investimentos contínuos em bioeconomia, na preservação da floresta e na
+descarbonização da economia do Amazonas (meta de captação de no mínimo R$ 100 milhões até 2025) ? indicadores Área desmatada
+em áreas Estaduais, Cadastros Ambientais Rurais validados, Áreas sob concessão florestal e Realização de Concurso Público para
+provimento de cargos efetivos à Secretaria de Estado de Meio Ambiente (SEMA); e
+
+XII ? estruturar o sistema de pagamento por serviços ambientais no Amazonas, notadamente a partir dos créditos de carbono vintage e
+futuros ? indicadores Realização de Concurso Público para provimento de cargos efetivos à Secretaria de Estado de Meio Ambiente (
+SEMA) e Realização do Processo Seletivo Simplificado (PSS), com validade de 2 (dois) anos, para o cargo de Analista Ambiental.
+
+
+### 2.6. Projeto/Indicadores
+
+
+Descrição
+Capacidade de Pagamento ? CAPAG
+
+Poupança Corrente
+
+ICMS Ecológico como base para transferência
+de recursos aos municípios
+
+Área desmatada por subcategoria fundiária
+
+Cadastros Ambientais Rurais validados
+
+Áreas sob concessão florestal
+
+Realização de Concurso Público para
+provimento de cargos efetivos à Secretaria de
+Estado de Meio Ambiente (SEMA)
+
+Realização do Processo Seletivo Simplificado (
+PSS), com validade de 2 (dois) anos, para o
+cargo de Analista Ambiental
+
+
+### 2.7. Projeto/Componentes
+
+
+%
+
+%
+
+Km²
+
+CAPAG B = 2
+
+Número de CAR
+validados
+
+Fórmula de Cálculo Unidade de Medida
+Relatórios do Tesouro
+Nacional apurados ao
+final dos exercícios
+2024, 2025 e 2026
+Despesa Corrente /
+Receita Corrente
+Ajustada
+Municípios com
+repasses avaliados e
+programados
+conforme metodologia
+do ICMS Ecológico
+Área desmatada
+apurada na base de
+dados do PRODES /
+INPE ao final do
+exercício 2025
+Quantidade de
+cadastros ambientais
+rurais (CAR),
+apurados no Boletim
+Informativo do MAPA,
+analisados e
+validados até o final
+do exercício 2026
+Quantidade de
+hectares de áreas
+florestais concedidas
+para exploração
+econômica
+sustentável - dados
+apurados ao final do
+exercício 2025
+Concurso Público
+realizado (
+compromisso do
+Estado para permitir
+resultados da reforma
+de políticas) até 2025
+Edital do PSS Analista
+Ambiental publicado
+até 2025
+
+Hectares
+
+Unidade
+
+Unidade
+
+Linha de Base
+2,00
+
+Meta
+2,00
+
+94,86
+
+94,50
+
+0,00
+
+100,00
+
+6.412,00
+
+5.770,00
+
+463,00
+
+3.000,00
+
+0,00
+
+120.000,00
+
+0,00
+
+1,00
+
+0,00
+
+1,00
+
+
+Componentes
+C - FISCAL: CRIAR ESPAÇO FISCAL PARA INVESTIMENTOS PÚBLICOS EM MEIO-AMBIENTE E MUDANÇAS
+CLIMÁTICAS
+S - AJUSTE E SUSTENTABILIDADE FISCAL COMPREENDENDO: (1) CONTROLE DAS DESPESAS
+CORRENTES; (2) FORTALECIMENTO DOS MECANISMOS DE INTEGRIDADE, TRANSPARÊNCIA E CONTROLE
+SOCIAL; (3) SIMPLIFICAÇÃO E DESBUROCRATIZAÇÃO DOS PROCESSOS DE GESTÃO DO TESOURO
+P - LEI COMPLEMENTAR DE RESPONSABILIDADE FISCAL DO ESTADO DO AMAZONAS QUE
+ESTABELECE NORMAS DE FINANÇAS PÚBLICAS VOLTADAS À RESPONSABILIDADE NA GESTÃO FISCAL
+COMPLEMENTARES À LEGISLAÇÃO NACIONAL
+P - DECRETO QUE REGULAMENTA O CONSELHO DE GESTÃO FISCAL DO AMAZONAS (CGF/AM)
+P - DEMONSTRAÇÃO DE CUMPRIMENTO DAS METAS DO PAF
+P - CERTIFICADO DE REGULARIDADE PREVIDENCIÁRIA (CRP)
+S - GESTÃO DAS TRANSFERÊNCIAS OBRIGATÓRIAS E VOLUNTÁRIAS AOS MUNICÍPIOS
+P - LEI COMPLEMENTAR QUE REGULAMENTA O ICMS ECOLÓGICO NO ÂMBITO DO ESTADO DO
+AMAZONAS COMO INSTRUMENTO DE INCENTIVO À PRODUÇÃO SUSTENTÁVEL E REDUÇÃO DA EMISSÃO
+DE GEE NOS MUNICÍPIOS
+S - INVESTIMENTOS PÚBLICOS EM SANEAMENTO E HABITAÇÃO
+P - SISTEMA DE ANÁLISE E PRIORIZAÇÃO DE INVESTIMENTOS PÚBLICOS SUSTENTÁVEIS
+C - MEIO AMBIENTE: DESENVOLVIMENTO ECONÔMICO E SOCIOAMBIENTAL SUSTENTÁVEL
+S - ATRATIVIDADE DA CARREIRA DE ESTADO DE ANALISTA AMBIENTAL
+P - LEI ORDINÁRIA QUE INSTITUI O PLANO DE CARGOS, CARREIRA E REMUNERAÇÃO DA SECRETARIA
+DE ESTADO DO MEIO AMBIENTE - SEMA E DO INSTITUTO DE PROTEÇÃO AMBIENTAL DO AMAZONAS ?
+IPAAM
+S - FORTALECIMENTO DO SISTEMA DE GOVERNANÇA AMBIENTAL
+P - LEI ORDINÁRIA QUE ALTERA A LEI ESTADUAL N° 2984, DE 18 DE OUTUBRO DE 2005, TORNANDO
+MAIS SEVERAS AS SANÇÕES ADMINISTRATIVAS DECORRENTES DE INFRAÇÕES AMBIENTAIS
+P - DECRETO ESTADUAL QUE ATUALIZA AS METAS DE REDUÇÃO DE DESMATAMENTO DEFINIDAS NO
+DECRETO ESTADUAL N° 47.565/2013 (PPCQD-AM)
+P - EDITAL DE CONTRATAÇÃO TEMPORÁRIA DE PROFISSIONAIS ESPECIALIZADOS QUE ATUARÃO NO
+APOIO ÀS AÇÕES DE REGULARIZAÇÃO FUNDIÁRIA (CAR), POR UM PRAZO MÁXIMO DE DOIS ANOS, ATÉ A
+REALIZAÇÃO DO CONCURSO PÚBLICO E PROVIMENTO DOS ANALISTAS AMBIENTAIS
+S - PRODUÇÃO SUSTENTÁVEL E SOLUÇÕES BASEADAS NA NATUREZA
+P - DECRETO ESTADUAL QUE INSTITUI O PROGRAMA DE DESENVOLVIMENTO SOCIOECONÔMICO
+SUSTENTÁVEL DO AMAZONAS, DENOMINADO ?AMAZONAS 2030?
+P - DECRETO ESTADUAL QUE INSTITUI A ESTRATÉGIA DE BIOECONOMIA, SOCIOBIOECONOMIA, USO
+DA TERRA E MUDANÇAS CLIMÁTICAS
+P - DECRETO ESTADUAL QUE TRANSFERE OS CRÉDITOS HISTÓRICOS DE REDD+ DA SECRETARIA DE
+ESTADO DE MEIO AMBIENTE ? SEMA PARA A COMPANHIA AMAZONENSE DE DESENVOLVIMENTO E
+MOBILIZAÇÃO DE ATIVOS - CADA
+P - INSTITUIÇÃO DE GRUPO DE TRABALHO ESTADUAL DE AVALIAÇÃO E SUPORTE À CAPTAÇÃO DE
+RECURSOS RELACIONADOS AO TEMA MUDANÇAS CLIMÁTICAS NO AMAZONAS
+C - SUSTENTABILIDADE FISCAL, ECONÔMICA, SOCIAL E AMBIENTAL DO ESTADO DO AMAZONAS
+S - SUSTENTABILIDADE FISCAL, ECONÔMICA, SOCIAL E AMBIENTAL DO ESTADO DO AMAZONAS
+P - SUSTENTABILIDADE FISCAL, ECONÔMICA, SOCIAL E AMBIENTAL DO ESTADO DO AMAZONAS
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 7
+
+Valor(US$)
+0,00
+
+0,00
+
+0,00
+
+0,00
+0,00
+0,00
+0,00
+0,00
+
+0,00
+0,00
+0,00
+0,00
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+585.000.000,00
+585.000.000,00
+585.000.000,00
+585.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - FISCAL: CRIAR ESPAÇO FISCAL PARA INVESTIMENTOS PÚBLICOS EM MEIO-AMBIENTE E MUDANÇAS CLIMÁTICAS
+Representa o conjunto de iniciativas de ajuste e sustentabilidade fiscal com o objetivo de fortalecer os mecanismos de integridade,
+eficiência, transparência e controle social. Simultaneamente, simplificar e desburocratizar a gestão das despesas públicas
+correntes, reduzindo custos, dinamizando a "máquina pública", fortalecendo os processos decisórios e proporcionando um
+ambiente atrativo aos investimentos públicos e privados. O Ajuste Fiscal compreende medidas de redução das parcelas da dívida
+consolidada e de contenção e/ou redução de custos no curto prazo. A sustentabilidade fiscal compreende medidas de
+responsabilidade fiscal e controle do crescimento das despesas correntes, com destaque aos gastos com pessoal, previdência e
+endividamento, proporcionando uma maior capacidade de planejamento no médio e longo prazo, poupança líquida e um ciclo
+duradouro de investimentos.
+
+S - AJUSTE E SUSTENTABILIDADE FISCAL COMPREENDENDO: (1) CONTROLE DAS DESPESAS CORRENTES; (2)
+FORTALECIMENTO DOS MECANISMOS DE INTEGRIDADE, TRANSPARÊNCIA E CONTROLE SOCIAL; (3) SIMPLIFICAÇÃO
+E DESBUROCRATIZAÇÃO DOS PROCESSOS DE GESTÃO DO TESOURO
+Caracteriza-se pela busca do aprimoramento do desempenho fiscal do Estado do Amazonas e do cumprimento das metas do PAF.
+O ajuste fiscal compreende um conjunto de medidas com efeitos de curto prazo para equilíbrio dos gastos públicos. Estão focadas
+prioritariamente em garantir que as despesas correntes, sobretudo com pessoal, serviços da dívida e contratos de natureza
+continuada, cresçam em menor proporção que as receitas tributárias. A sustentabilidade fiscal, por outro lado, produz efeitos de
+médio e longo prazo. Desta forma, facilitam os processos de planejamento e estimulam o crescimento da poupança líquida. Quanto
+maior a poupança, maior será a capacidade de investir, atrair investimentos e garantir a solidez fiscal em momentos de crise
+econômica e queda de arrecadação.
+
+
+Página: 8
+
+P - LEI COMPLEMENTAR DE RESPONSABILIDADE FISCAL DO ESTADO DO AMAZONAS QUE ESTABELECE NORMAS
+DE FINANÇAS PÚBLICAS VOLTADAS À RESPONSABILIDADE NA GESTÃO FISCAL COMPLEMENTARES À LEGISLAÇÃO
+NACIONAL
+Medida de Política: Lei Complementar que estabelece normas de finanças públicas voltadas à responsabilidade na gestão fiscal e
+que sejam complementares à legislação nacional. Define parâmetros de limitações de empenho, de controle do crescimento das
+despesas com pessoal e do endividamento, orienta sobre as metodologias de gestão do orçamento, estabelece critérios de
+planejamento financeiro para a cronologia de pagamentos, cria o Conselho de Gestão Fiscal do Amazonas e outros.
+
+P - DECRETO QUE REGULAMENTA O CONSELHO DE GESTÃO FISCAL DO AMAZONAS (CGF/AM)
+Medida de Política: Decreto que regulamenta o Conselho de Gestão Fiscal do Amazonas que será criado em Lei Complementar (
+Responsabilidade Fiscal do Estado do Amazonas) e que contemplará, no mínimo, a composição, a estrutura de governança e os
+critérios decisórios do Conselho, além das prerrogativas, competêcnias e responsabilidades dos seus membros.
+
+P - DEMONSTRAÇÃO DE CUMPRIMENTO DAS METAS DO PAF
+Demonstrativo do cumprimento das metas do Programa de Reestruturação e de Ajuste Fiscal do Brasil (PAF), conforme relatório
+emitido pela Secretaria do Tesouro Nacional (STN).
+
+P - CERTIFICADO DE REGULARIDADE PREVIDENCIÁRIA (CRP)
+Demonstrativo que atesta e comprova a adequação do regime de previdência social dos entes federados ao disposto na Lei nº 9.
+717/98, na Lei nº 10.887/2004 e na Portaria MPS nº 402/2008.
+
+S - GESTÃO DAS TRANSFERÊNCIAS OBRIGATÓRIAS E VOLUNTÁRIAS AOS MUNICÍPIOS
+Caracteriza-se pelo aperfeiçoamento dos critérios de transferências obrigatórias e voluntárias (convênios) das receitas de impostos
+administrados pelo Estado do Amazonas compreendento aspectos tais como a trajetória de implantação do ICMS ecológico e de
+sua transição ao IBS, incentivos às iniciativas de reduções de emissões de GEE e combate ao aquecimento global nos municípios.
+
+P - LEI COMPLEMENTAR QUE REGULAMENTA O ICMS ECOLÓGICO NO ÂMBITO DO ESTADO DO AMAZONAS COMO
+INSTRUMENTO DE INCENTIVO À PRODUÇÃO SUSTENTÁVEL E REDUÇÃO DA EMISSÃO DE GEE NOS MUNICÍPIOS
+Medida de Política: Lei Complementar que estabele critérios o ICMS ecológico no Amazonas e sua transição futura ao IBS
+ecológico. Para tal, contemplará incentivos aos municípios que promovam avanços na governança e gestão ambiental e na
+execução de projetos socioambientais. Serão considerados, por exemplo, os resultados obtidos em oferta de água potável, coleta e
+tratamento de esgoto, gestão de resíduos sólidos, valorização da economia socioambiental, preservação das coberturas florestais
+e das águas, plantio de árvores e outros.
+
+S - INVESTIMENTOS PÚBLICOS EM SANEAMENTO E HABITAÇÃO
+O Estado do Amazonas possui o terceiro maior déficit habitacional do Brasil (15,5%) e muito acima da média nacional (8,1%).
+Também há uma enorme carência em saneamento, principalmente nos municípios do interior do Estado que, em regra, convivem
+com graves problemas de abastecimento de água potável, com a ausência de sistema de coleta e tratamento de esgoto e com os
+lixões. Por outro lado, dada a dependência dos municípios das transferências correntes de receitas do Estado (ICMS) e do FPM,
+os investimentos públicos em habitação social e saneamento compõem o conjunto de políticas públicas do Estado para os anos de
+2024 a 2027.
+
+P - SISTEMA DE ANÁLISE E PRIORIZAÇÃO DE INVESTIMENTOS PÚBLICOS SUSTENTÁVEIS
+Com apoio técnico do Banco Mundial, o Sistema de Análise e Priorização de Investimentos Públicos Sustentáveis, inicialmente
+restrito aos projetos de infraestrutura, incluindo análise de riscos socioambientais (com portfólio de medidas de mitigação,
+compensação e adaptação), será aprimorado com ênfase na priorização de investimentos alinhados às políticas de
+desenvolvimento econômico, social e ambientalmente sustentável, além de permitir avaliar eventuais vulnerabilidades ás finanças
+públicas, identificar potenciais fontes de captação de recursos e analisar o impacto nas receitas do Estado.
+
+C - MEIO AMBIENTE: DESENVOLVIMENTO ECONÔMICO E SOCIOAMBIENTAL SUSTENTÁVEL
+Consiste em um conjunto de iniciativas públicas de modo a estimular um ambiente favorável à atração de investimentos públicos e
+privados em bioeconomia, sociobioeconomia, serviços ambientais, educação, pesquisa, biotecnologia e formação de capital
+humano. Desburocratizar processos, simplificar obrigações, modernizar a legislação ambiental e priorizar a diversificação e
+interiorização da economia. Adicionalmente, capacitar e instrumentalizar o sistema de gestão ambiental com ferramentas e
+tecnologias de proteção ao meio ambiente, sobretudo na prevenção e combate ao desmatamento e às queimadas.
+
+S - ATRATIVIDADE DA CARREIRA DE ESTADO DE ANALISTA AMBIENTAL
+Nos últimos anos, a carreira de Analista Ambiental vem adquirindo grande relevância sobretudo em decorrência dos impactos das
+mudanças climáticas. Desta forma, tem sido difícil conseguir profissionais capacitados no mercado. Por outro lado, para cumprir as
+exigências de desenvolvimento econômico sustentável e preservação da floresta e seus recursos naturais, os órgãos de gestão e
+controle ambiental do Amazonas, SEMA e IPAAM, necessitam estruturar tais carreiras com provimento e capacitação de pessoal e
+remuneração competitiva no mercado.
+
+P - LEI ORDINÁRIA QUE INSTITUI O PLANO DE CARGOS, CARREIRA E REMUNERAÇÃO DA SECRETARIA DE ESTADO
+DO MEIO AMBIENTE - SEMA E DO INSTITUTO DE PROTEÇÃO AMBIENTAL DO AMAZONAS ? IPAAM
+Medida de Política: Encaminhamento, por iniciativa do Executivo, e aprovação em Lei Ordinária, pela Assembleia Legislativa, do
+Plano de Cargos, Carreiras e Remuneração da Secretaria de Estado de Meio Ambiente (SEMA) e do Instituto de Proteção
+Ambiental do Amazonas - IPAAM. Resultados esperados:
+
+
+Página: 9
+
+(1) Avanços no Cadastro Ambiental Rural (CAR);
+(2) Redução dos índices de desmatamentos e queimadas;
+(3) Dinamismo na execução de projetos ambientais; e
+(4) Captação de recursos de fundos públicos e privados para investimentos em sociobioeconomia.
+
+S - FORTALECIMENTO DO SISTEMA DE GOVERNANÇA AMBIENTAL
+Consiste no compromisso de melhorar continuamente os processos de governança e gestão do sistema de governança ambiental,
+de obter resultados consistentes de redução do desmatamento e queimadas, de estimular a descarbonização da economia, de
+combater o aquecimento global, de aumentar as receitas e ações de fiscalização, de avaliar previamente os impactos
+socioambientais dos projetos de infraestrutura, entre outras medidas.
+
+P - LEI ORDINÁRIA QUE ALTERA A LEI ESTADUAL N° 2984, DE 18 DE OUTUBRO DE 2005, TORNANDO MAIS
+SEVERAS AS SANÇÕES ADMINISTRATIVAS DECORRENTES DE INFRAÇÕES AMBIENTAIS
+Medida de Política: Lei ordinária que altera o Capítulo VI, das Infrações, da Lei n° 2.984, de 18 de outubro de 2005, de modo a
+aprimorar o controle da fiscalização ambiental e promover um maior rigor à aplicação de penalidades, inclusive pecuniárias, às
+infrações ambientais. Resultados esperados: redução da quantidade e da gravidade das infrações ambientais.
+
+P - DECRETO ESTADUAL QUE ATUALIZA AS METAS DE REDUÇÃO DE DESMATAMENTO DEFINIDAS NO DECRETO
+ESTADUAL N° 47.565/2013 (PPCQD-AM)
+Medida de Política: Decreto Estadual que atualiza as metas de redução de desmatamento definidas no Decreto Estadual n° 47.565
+, de 5 de junho de 2013, que instituiu o Plano Estadual de Prevenção e Controle do Desmatamento e Queimadas do Amazonas -
+PPCDQ/AM, para vigorar no período de 2023 a 2025, destinado a reduzir e controlar as emissões de gases de efeito estufa
+provenientes de desmatamento, queimadas e degradação florestal, promovendo, desta forma, a
+recuperação ambiental, a economia sustentável e a conservação dos recursos naturais.
+Resultados esperados:
+I - fortalecer e ampliar o desenvolvimento econômico e social do Estado, em bases sustentáveis e de baixas emissões de gases de
+efeito estufa, com vistas à consecução do desenvolvimento sustentável, sendo um instrumento de contribuição do Estado do
+Amazonas para o atendimento aos compromissos globais;
+II - fortalecer a conservação e a preservação ambientais, com a utilização de sistemas modernos de monitoramento, instrumentos
+econômicos e aperfeiçoamento estrutural, bem como com a modernização da fiscalização ambiental, de forma integrada;
+III - implementar ações integradas, visando a aumentar a efetividade e a eficiência da gestão ambiental e territorial, em áreas sob
+intensa pressão, pelo uso dos recursos naturais;
+IV - monitorar, periódica e sistematicamente, os estoques de carbono do Estado do Amazonas;
+V - estabelecer metas locais de controle e redução do desmatamento e das queimadas;
+VI - fortalecer as estruturas de governança ambiental dos municípios, como órgãos e conselhos municipais de meio ambiente e
+desenvolvimento rural sustentável;
+VII - promover ações de regularização fundiária e ambiental nas áreas prioritárias, em consonância com as políticas públicas
+estaduais e federais;
+VIII - promover a educação ambiental e a sensibilização pública acerca das consequências danosas ao meio ambiente e à
+qualidade de vida da população, resultantes do desmatamento e das queimadas.
+
+P - EDITAL DE CONTRATAÇÃO TEMPORÁRIA DE PROFISSIONAIS ESPECIALIZADOS QUE ATUARÃO NO APOIO ÀS
+AÇÕES DE REGULARIZAÇÃO FUNDIÁRIA (CAR), POR UM PRAZO MÁXIMO DE DOIS ANOS, ATÉ A REALIZAÇÃO DO
+CONCURSO PÚBLICO E PROVIMENTO DOS ANALISTAS AMBIENTAIS
+Os Planos de Cargos, Carreiras e Remuneração da Secretaria de Estado de Meio Ambiente - SEMA e do Instituto de Proteção
+Ambiental do Amazonas - IPAAM irão proporcionar estrutura definitiva de pessoal aos órgãos de gestão ambiental do Estado. No
+entanto, há necessidades prementes notadamente nas ações de apoio ao planejamento ambiental, fiscalização e avanços no CAR.
+Desta forma, a operação em questão apoiará a contratação temporária de profissionais especializados que atuarão na SEMA e
+IPAAM até a realização do concurso público e provimento definitivo dos novos Analistas Ambientais.
+
+S - PRODUÇÃO SUSTENTÁVEL E SOLUÇÕES BASEADAS NA NATUREZA
+Este subcomponente compreende o compromisso de incentivar o desenvolvimento social, econômico e ambiental sustentável no
+Estado do Amazonas, com estímulo à bioeconomia, à sociobioeconomia, à agricultura de baixo carbono e aos serviços ambientais,
+com segurança jurídica, atração de investimentos e incentivos às cadeias produtivas compromissadas com a preservação
+ambiental e à redução de emissões de GEE.
+
+P - DECRETO ESTADUAL QUE INSTITUI O PROGRAMA DE DESENVOLVIMENTO SOCIOECONÔMICO SUSTENTÁVEL
+DO AMAZONAS, DENOMINADO ?AMAZONAS 2030?
+Medida de Política: Decreto Estadual que institui o programa de desenvolvimento econômico, social e ambientalmente sustentável
+no Estado do Amazonas, denominado "AMAZONAS 2030", para fins de preservação da floresta, redução drástica do
+desematamento ilegal e redução da pobreza.
+
+P - DECRETO ESTADUAL QUE INSTITUI A ESTRATÉGIA DE BIOECONOMIA, SOCIOBIOECONOMIA, USO DA TERRA E
+MUDANÇAS CLIMÁTICAS
+Medida de Política: Decreto Estadual que institui a estratégia de bioeconomia, sociobioeconomia, uso da terra e mudanças
+climáticas no Estado do Amazonas.
+Resultados esperados:
+(1) Elaboração do Plano Estadual de Bioeconomia do Amazonas;
+(2) Incentivo às iniciativas de economia de baixo carbono;
+
+
+Página: 10
+
+(3) Respeito aos valores e saberes tradicionais e científicos vinculados aos serviços ambientais da floresta, fauna e flora
+, e rios do Amazonas.
+
+P - DECRETO ESTADUAL QUE TRANSFERE OS CRÉDITOS HISTÓRICOS DE REDD+ DA SECRETARIA DE ESTADO DE
+MEIO AMBIENTE ? SEMA PARA A COMPANHIA AMAZONENSE DE DESENVOLVIMENTO E MOBILIZAÇÃO DE ATIVOS -
+CADA
+Medida de Política: Decreto Estadual que transfere os créditos históricos de REDD+ da Secretaria de Estado de Meio Ambiente -
+SEMA à Companhia Amazonense de Desenvolvimento e Mobilização de Ativos - CADA com a finalidade de comercialização de
+créditos de carbono que financiarão o programa "AMAZONAS 2030".
+
+P - INSTITUIÇÃO DE GRUPO DE TRABALHO ESTADUAL DE AVALIAÇÃO E SUPORTE À CAPTAÇÃO DE RECURSOS
+RELACIONADOS AO TEMA MUDANÇAS CLIMÁTICAS NO AMAZONAS
+Estabelecer um Grupo de Trabalho remunerado a ser capacitado, com o apoio do Banco Mundial, em captação de recursos para a
+execução de projetos de mudanças climáticas no Estado do Amazonas.
+
+C - SUSTENTABILIDADE FISCAL, ECONÔMICA, SOCIAL E AMBIENTAL DO ESTADO DO AMAZONAS
+As medidas de sustentabilidade fiscal, econômica, social e ambiental do Estado do Amazonas estão alinhadas à política de
+controledos gastos correntes e da dívida pública, especialmente aqueles de caráter continuados, tais como as despesas com
+pessoal e previdenciárias, na melhoria e ampliação da prestação dos serviços públicos, no crescimento da capacidade de
+investimentos na preservação da floresta e seus recursos naturais, na promoção da bioeconomia e da sociobioeconomia, nos
+incentivos às economias de baixo carbono, na redução da emissão de GEE e na criação de mecanismos de remuneração dos
+serviços ambientais da floresta.
+
+S - SUSTENTABILIDADE FISCAL, ECONÔMICA, SOCIAL E AMBIENTAL DO ESTADO DO AMAZONAS
+As medidas de sustentabilidade fiscal, econômica, social e ambiental do Estado do Amazonas estão alinhadas à política de
+controledos gastos correntes e da dívida pública, especialmente aqueles de caráter continuados, tais como as despesas com
+pessoal e previdenciárias, na melhoria e ampliação da prestação dos serviços públicos, no crescimento da capacidade de
+investimentos na preservação da floresta e seus recursos naturais, na promoção da bioeconomia e da sociobioeconomia, nos
+incentivos às economias de baixo carbono, na redução da emissão de GEE e na criação de mecanismos de remuneração dos
+serviços ambientais da floresta.
+
+P - SUSTENTABILIDADE FISCAL, ECONÔMICA, SOCIAL E AMBIENTAL DO ESTADO DO AMAZONAS
+As medidas de sustentabilidade fiscal, econômica, social e ambiental do Estado do Amazonas estão alinhadas à política de
+controledos gastos correntes e da dívida pública, especialmente aqueles de caráter continuados, tais como as despesas com
+pessoal e previdenciárias, na melhoria e ampliação da prestação dos serviços públicos, no crescimento da capacidade de
+investimentos na preservação da floresta e seus recursos naturais, na promoção da bioeconomia e da sociobioeconomia, nos
+incentivos às economias de baixo carbono, na redução da emissão de GEE e na criação de mecanismos de remuneração dos
+serviços ambientais da floresta.
+
+
+Página: 11
+
+Categoria de Gasto
+
+Outros
+P- LEI COMPLEMENTAR DE
+RESPONSABILIDADE FISCAL DO ESTADO DO
+AMAZONAS QUE ESTABELECE NORMAS DE
+FINANÇAS PÚBLICAS VOLTADAS À
+RESPONSABILIDADE NA GESTÃO FISCAL
+COMPLEMENTARES À LEGISLAÇÃO
+NACIONAL
+P- DECRETO QUE REGULAMENTA O
+CONSELHO DE GESTÃO FISCAL DO
+AMAZONAS (CGF/AM)
+P- DEMONSTRAÇÃO DE CUMPRIMENTO DAS
+METAS DO PAF
+P- CERTIFICADO DE REGULARIDADE
+PREVIDENCIÁRIA (CRP)
+P- LEI COMPLEMENTAR QUE REGULAMENTA
+O ICMS ECOLÓGICO NO ÂMBITO DO ESTADO
+DO AMAZONAS COMO INSTRUMENTO DE
+INCENTIVO À PRODUÇÃO SUSTENTÁVEL E
+REDUÇÃO DA EMISSÃO DE GEE NOS
+MUNICÍPIOS
+P- SISTEMA DE ANÁLISE E PRIORIZAÇÃO DE
+INVESTIMENTOS PÚBLICOS SUSTENTÁVEIS
+P- LEI ORDINÁRIA QUE INSTITUI O PLANO DE
+CARGOS, CARREIRA E REMUNERAÇÃO DA
+SECRETARIA DE ESTADO DO MEIO AMBIENTE
+- SEMA E DO INSTITUTO DE PROTEÇÃO
+AMBIENTAL DO AMAZONAS ? IPAAM
+P- LEI ORDINÁRIA QUE ALTERA A LEI
+ESTADUAL N° 2984, DE 18 DE OUTUBRO DE
+2005, TORNANDO MAIS SEVERAS AS
+SANÇÕES ADMINISTRATIVAS DECORRENTES
+DE INFRAÇÕES AMBIENTAIS
+P- DECRETO ESTADUAL QUE ATUALIZA AS
+METAS DE REDUÇÃO DE DESMATAMENTO
+DEFINIDAS NO DECRETO ESTADUAL N° 47.
+565/2013 (PPCQD-AM)
+P- EDITAL DE CONTRATAÇÃO TEMPORÁRIA
+DE PROFISSIONAIS ESPECIALIZADOS QUE
+ATUARÃO NO APOIO ÀS AÇÕES DE
+REGULARIZAÇÃO FUNDIÁRIA (CAR), POR UM
+PRAZO MÁXIMO DE DOIS ANOS, ATÉ A
+REALIZAÇÃO DO CONCURSO PÚBLICO E
+PROVIMENTO DOS ANALISTAS AMBIENTAIS
+P- DECRETO ESTADUAL QUE INSTITUI O
+PROGRAMA DE DESENVOLVIMENTO
+SOCIOECONÔMICO SUSTENTÁVEL DO
+AMAZONAS, DENOMINADO ?AMAZONAS 2030
+?
+P- DECRETO ESTADUAL QUE INSTITUI A
+ESTRATÉGIA DE BIOECONOMIA,
+SOCIOBIOECONOMIA, USO DA TERRA E
+MUDANÇAS CLIMÁTICAS
+P- DECRETO ESTADUAL QUE TRANSFERE OS
+CRÉDITOS HISTÓRICOS DE REDD+ DA
+SECRETARIA DE ESTADO DE MEIO AMBIENTE
+? SEMA PARA A COMPANHIA AMAZONENSE
+DE DESENVOLVIMENTO E MOBILIZAÇÃO DE
+ATIVOS - CADA
+P- INSTITUIÇÃO DE GRUPO DE TRABALHO
+ESTADUAL DE AVALIAÇÃO E SUPORTE À
+CAPTAÇÃO DE RECURSOS RELACIONADOS
+AO TEMA MUDANÇAS CLIMÁTICAS NO
+AMAZONAS
+P- SUSTENTABILIDADE FISCAL, ECONÔMICA,
+SOCIAL E AMBIENTAL DO ESTADO DO
+AMAZONAS
+Total Geral
+
+Unidade de medida
+-
+Unidade
+
+Meta
+
+Valor
+
+% Financeiro
+
+-
+1,00
+
+585.000.000,00
+0,00
+
+100,00
+0,00
+
+Unidade
+
+Unidade
+
+Unidade
+
+Unidade
+
+Unidade
+
+Unidade
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+Unidade
+
+1,00
+
+0,00
+
+0,00
+
+Unidade
+
+1,00
+
+0,00
+
+0,00
+
+Unidade
+
+1,00
+
+0,00
+
+0,00
+
+Unidade
+
+1,00
+
+0,00
+
+0,00
+
+Unidade
+
+1,00
+
+0,00
+
+0,00
+
+Unidade
+
+1,00
+
+0,00
+
+0,00
+
+Unidade
+
+1,00
+
+0,00
+
+0,00
+
+US$
+
+-
+
+585.000.000,
+
+585.000.000,00
+
+100,00
+
+-
+
+585.000.000,00
+
+100,00
+
+
+Página: 12
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Com apoio do DPL, o Governo do Estado desenvolverá projetos e ações de (1) sustentabilidade fiscal, controlando despesas correntes
+
+obrigatórias e alavancando recursos para investimentos, e de (2) proteção do meio ambiente e preservação da floresta. Para tal, os
+esforços serão concentrados na redução do desmatamento e combate às queimadas, na captação de recursos a partir de serviços
+ambientais, no desenvolvimento de novas matrizes econômicas sustentáveis (bioeconomia e sociobioecnomia), tais como turismo
+ecológico, agricultura de baixo carbono, piscicultura, economia verde, extrativismo, manejo sustentável, biotecnologia e serviços
+ambientais.
+
+Como se trata de uma operação programática, o PRO-SUSTENTÁVEL I, realizado em 2020, contemplou relevantes medidas de política
+de sustentabilidade fiscal e de desenvolvimento econômico e socioambiental a seguir destacadas:
+
+COMPONENTE FISCAL: CRIAR ESPAÇO FISCAL PARA INVESTIMENTOS PÚBLICOS EM MEIO-AMBIENTE E MUDANÇAS
+CLIMÁTICAS
+
+1) Lei Complementar n.º 198, de 15 de julho de 2019, que fixou limites de despesas correntes (teto de gastos) e condicionou a concessão
+de quaisquer aumentos de remuneração de servidores ao enquadramento do Amazonas ao limite de despesas de pessoal definido na
+LRF. São medidas de ajuste fiscal que, combinadas com o aumento das receitas correntes, proporcionará uma trajetória de melhoria nos
+indicadores fiscais, sobretudo despesas com pessoal.
+
+2) Lei n.º 4.780, de 18 de janeiro de 2019, que dispõe sobre a Política Estadual de Incentivo à Geração e Aproveitamento da Energia Solar
+como forma de racionalizar o consumo de energia elétrica e outras fontes de energia.
+
+3) Decreto n.º 40.628, de 02 de maio de 2019, que instituiu uma nova sistemática de cobrança de ICMS incidente na comercialização de
+energia elétrica, colocando como substituto tributário as empresas geradoras, simplificando a fiscalização, a cobrança e o pagamento do
+tributo.
+
+4) Lei Complementar n.º 201, de 11 de dezembro de 2019, que majorou a alíquota de contribuição previdenciária do servidor público de 11
+% para 14% e transferiu os beneficiários do Fundo Financeiro (FFIN) com idade igual ou superior a 76 (setenta e seis) anos para o Fundo
+Previdenciário (FPREV), que é superavitário.
+
+5) Decreto n.º 42.959, de 04 de outubro de 2020, que dispõe sobre a política de priorização dos projetos de investimentos públicos em
+
+infraestrutura no âmbito do Estado do Amazonas.
+
+6) Decreto n° 47.990, de 28 de agosto de 2023, que dispõe sobre o Programa Estadual de Habitação de Interesse Social ?Amazonas Meu
+Lar?, cujo objetivo principal é reduzir significativamente e em curto prazo o déficit habitacional do Estado do Amazonas.
+
+COMPONENTE MEIO AMBIENTE: DESENVOLVIMENTO ECONÔMICO E SOCIOAMBIENTAL SUSTENTÁVEL
+
+1) Decreto n.º 40.890, de 01 de julho de 2019, que instituiu o Comitê Estadual de Prevenção e Combate aos Incêndios Florestais e
+Controle de Queimadas e Monitoramento da Qualidade do Ar.
+
+2) Decreto n.º 42.369, de 05 de junho de 2020, que instituiu o Plano Estadual de Prevenção e Controle do Desmatamento e Queimadas do
+Amazonas - PPCDQ-AM, criou o Comitê de Prevenção e Controle do Desmatamento e Queimadas do Amazonas e estabeleceu o
+compromisso estadual voluntário à redução do desmatamento e queimadas.
+
+3) Decreto n.º 42.370, de 05 de junho de 2020, que regulamenta a Lei n.º 4.406, de 28 de dezembro de 2016, que dispõe sobre o
+Cadastro Ambiental Rural - CAR, o Programa de Regularização Ambiental do Estado do Amazonas - PRA-AM.
+
+4) Lei n.º 5.225, de 03 de setembro de 2020, que altera, na forma que especifica, a Lei n. 4.415, de 29 de dezembro de 2016 que
+"DISPÕE sobre a gestão de florestas situadas em áreas de domínio do Estado para produção sustentável; INSTITUI na estrutura da
+Secretaria de Estado do Meio Ambiente - SEMA a Secretaria Executiva Adjunta de Gestão Florestal - SEAGF; CRIA o Fundo Estadual de
+Desenvolvimento Florestal - FEDF e dá outras providências".
+
+Além das medidas de política previstas no PRO-SUSTENTÁVEL I, foi instituído em 2021 o Regime de Previdência Complementar no
+âmbito do Estado do Amazonas, que fixou o limite máximo para a concessão de aposentadorias e pensões pelo regime de previdência de
+que trata o artigo 40 da Constituição Federal, e autorizou a a adesão a plano de benefícios de previdência complementar (Lei n.º 5.633, de
+29 de setembro de 2021).
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Sem detalhes
+
+Estado do Amazonas ()
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+(i) CONDIÇÕES FINANCEIRAS:
+
+1) Financiamento de Fontes Externas
+
+
+Página: 13
+
+2) Moeda: Dólar Americano
+
+3) Valor de Referência US$ 585.000.000,00
+
+4) Instituição financeira: Banco Internacional para Reconstrução e Desenvolvimento - BIRD
+
+5) Prazo de Carência: Não se aplica
+
+6) Período de Amortização: Semestral
+
+6) Prazo de Amortização: 228 (duzentos e vinte e oito) meses
+
+7) Prazo Total: 228 (duzentos e vinte e oito) meses
+
+9) Total da taxa de juros (variable spread) = Sofr + 1,04% a.a.
+
+10) Comissões e Encargos:
+
+10.1 - Comissão de Compromisso: 0,25% incidente sobre o valor não desembolsado
+
+10.2 - Taxa de Administração (Front end Fee): 0,25% incidente sobre o valor total da operação
+
+(ii) NECESSIDADE DE FINANCIAMENTO EXTERNO E OPÇÃO PELO AGENTE FINANCEIRO
+
+O Banco Mundial foi escolhido em virtude dos seguintes fatores: (1) valor da operação, visto que nem todas as instituições dispõem da
+disponibilidade dos recursos pleiteados na operação; (2) modalidade de operação de crédito (DPL), para fins de reestruturação e
+recomposição das dívidas do Estado do Amazonas, compatível com a necessidade redução imediata das parcelas de pagamento da
+dívida e consequente melhoria no fluxo de caixa do Estado; (3) economia estimada de R$ 260 milhões (VPL); (4) capacidade técnica, visto
+que o Banco Mundial está se comprometendo a apoiar o Amazonas no diagnóstico e análise dos principais potenciais econômicos do
+Estado, que contribuirá com a captação de recursos sobretudo de Fundos Ambientais e a atração de investimentos privados; (5)
+estabilidade cambial projetada para os próximos dois anos nos reiterados Boletins Focus publicados pelo Banco Central.
+
+O tipo de operação e o valor total da operação, aplicáveis às necessidades fiscais do Amazonas, não constam dos portfólios
+disponibilizados nas instituições financeiras nacionais. Também as taxas e condições de pagamento oferecidas pelo Banco Mundial são
+menores e mais atrativas. Tais fatores motivaram a escolha de financiamento externo.
+
+Os créditos do PRO-SUSTENTÁVEL III, no valor total de US$ 585 milhões (quinhentos e oito e cinco milhões de dólares americanos), cuja
+principal finalidade é melhorar o quadro fiscal a partir da redução dos custos com serviços da dívida, serão aplicados na liquidação das
+operações de crédito a seguir destacadas.
+
+I ? Contrato BB 20/02019-5 - PRODECAP 2.
+
+II ? Contrato BB 40/00009-5 - PRODECAP 2021 ? 2022.
+
+III ? Contrato BB 40/00016-8 - PRODECAP 2021 - 2022 II.
+
+IV ? Contrato BB 40/00015-X - PRODECAP 2022 - 2023.
+
+V ? Contrato BB 20/02013-9 - PROINFRA.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+De acordo com a Resolução COFIEX nº 17, de 7 de junho de 2021, em seu Art. 6º, ?as operações de crédito que se destinem à
+reestruturação e recomposição do principal de dívidas de Estados, Distrito Federal e Municípios, da sua administração direta, de suas
+autarquias, fundações e empresas estatais dependentes, não concorrerão com os demais pleitos e não consumirão o limite para
+operações com financiamento externo disposto no art. 4º desta Resolução, desde que destinadas à reestruturação e recomposição de
+dívidas que já contavam, em sua totalidade, com garantia da União?. Relevante asseverar que todas as dívidas contratadas a serem
+reestruturadas nesta operação são garantidas pela União em sua totalidade.
+
+Toda a população amazonense (aproximadamente quatro milhões de pessoas) será beneficiada por um quadro fiscal equilibrado e
+sustentável no longo prazo, mas também pelo aumento da capacidade de investimentos públicos em saneamento básico e habitação
+social, mitigação e adaptação às mudanças climáticas, crescimento econômico e geração de emprego e renda. O equilíbrio nas contas
+públicas proporciona atratividade aos investimentos privados. A imensa riqueza natural do Estado, aliada à preservação da floresta,
+viabiliza a captação de recursos de Fundos Ambientais para aplicação em projetos e ações de prevenção e controle ao desmatamento ou
+mesmo o pagamento de serviços ambientais, notadamente os créditos de carbono vintage e futuros, o incentivo à bioeconomia e à
+trajetória de desmatamento zero até 2030. A sustentabilidade do sistema previdenciário proporciona segurança ao servidor e,
+simultaneamente, contribui com o aumento da produtividade no setor público. Enfim, a qualidade no gasto público melhora serviços
+essenciais e cria espaço fiscal para a ampliação da capacidade de investimentos com recursos próprios.
+
+
+Página: 14
+
+BENEFÍCIOS DIRETOS
+
+1) Abertura de mais de R$ 2 bilhões de espaço fiscal nos sete primeiros anos (2025 a 2031), sendo pouco mais de R$ 500 milhões em
+2025.
+
+2)  Economia estimada em, no mínimo, R$ 260 milhões, conforme cálculo do VPL e descontados os pagamentos das penalidades.
+
+3) Promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação às mudanças climáticas, redução das emissões de
+gases GEE, regularização fundiária e ambiental, bioeconomia e sociobioeconomia, prevenção e combate ao desmatamento e controle das
+queimadas.
+
+4) Avanços no Cadastro Ambiental Rural (CAR).
+
+5) Conservação e manejo da biodiversidade e/ou de recursos florestais, correlacionados ao planejamento de inventivo à bioeconomia, à
+remuneração de serviços ambientais  e às políticas de valorização da floresta e mecanismo de REDD+.
+
+6) Melhoria do ambiente de negócios, avançando o marco regulatório e segurança jurídica, alavancando negócios da biodiversidade,
+floresta e remuneração de serviços ambientais (créditos de carbono vintage e futuros), atraindo investimentos privados e recursos de
+Fundos Ambientais (meta de captação = R$ 100 milhões até 2025).
+
+7) Benefícios para empreendedores individuais, micro e pequenas empresas, em projetos de bioeconomia social, de agricultura familiar e
+segurança alimentar.
+
+8) Geração de emprego e renda para populações de baixa renda e vulneráveis, incluindo as ações de inclusão de minorias sociais entre
+os beneficiários.
+
+9) Melhoria e/ou inovação em processos de prestação de serviços públicos, de governança e gestão e/ou de participação cidadã,
+resultando em aumento da capacidade de atuação estatal, com dados abertos, governo digital, transparência e participação social,
+culminando na eficiência de entregas de valor público.
+
+10) Construção de arranjos de financiamento que incentivem os investimentos privados, sobretudo na interiorização do desenvolvimento e
+redução da emissão dos GEE.
+
+11) Investimentos em políticas de mitigação dos riscos decorrentes das mudanças climáticas e que afetam principalmente as populações
+dos municípios do interior do Estado do Amazonas, povos originários e comunidades ribeirinhas, tais como os efeitos dos ciclos de secas
+dos rios, com severos impactos no abastecimento de alimento e água potável, na vida aquática (mortalidade dos peixes), na saúde, nos
+custos de logística, no acesso às escolas, dentre outros.
+
+POPULAÇÃO BENEFICIADA
+
+A população beneficiada pelo Projeto perfaz a totalidade de habitantes do estado do Amazonas, ou seja, mais de quatro milhões de
+pessoas. Adicionalmente, sendo este um projeto de institucionalização de um desenvolvimento de baixo carbono e preservação da floresta
+, beneficia diretamente a população das demais regiões brasileiras, contribuindo com ciclos de chuvas regulares e serviços ecossistêmicos
+de regulação, com a produção do agrícola nacional e, consequentemente, com o crescimento do PIB e geração de empregos.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Externas
+
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+Total:
+
+Sigla
+
+BIRD
+
+Moeda
+
+Valor Proposto
+
+US$
+
+585.000.000,00
+
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+585.000.000,00
+
+585.000.000,00
+
+585.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+I - O mutuário da operação será o Governo do Estado do Amazonas.
+
+II - O mutuante será o Banco Internacional para Reconstrução e Desenvolvimento-BIRD.
+
+III - A União atuará como Garantidor da operação de crédito externo contratada pelo Estado do Amazonas junto ao BIRD.
+
+
+Página: 15
+
+A operação de crédito, de natureza programática, terá a participação, de diferentes órgãos das administrações direta e indireta, sob a
+coordenação geral da Secretaria de Estado da Fazenda - SEFAZ.
+
+RESPONSABILIDADES DA COORDENAÇÃO GERAL: Secretaria de Estado da Fazenda - SEFAZ
+
+1) Articular junto ao Governador do Amazonas a aprovação das medidas de política essenciais aos objetivos programáticos da operação
+de crédito.
+
+2) Efetivar a renegociação das dívidas internas constantes do presente DPL, incluindo o pagamento das penalidades.
+
+3) Monitorar o espaço fiscal aberto na operação e a melhoria no fluxo de caixa do Estado do Amazonas.
+
+4) Avaliar os resultados obtidos versus planejados, além das ações mitigadoras dos principais riscos identificados.
+
+5) Atuar como órgão interlocutor com o mutuante e União.
+
+6) Elaborar e/ou consolidar os relatórios de acompanhamento da evolução da execução das ações e projetos propostos na operação, com
+foco nos resultados obtidos frente aos almejados.
+
+7) Coordenar com o mutuante:
+
+7.1 - as reuniões periódicas de monitoramento da operação programática;
+
+7.2 - o apoio técnico especializado à análise e diagnóstico das potenciais economias sustentáveis do Amazonas.
+
+8) Apoiar a Secretaria de Estado de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação na implantação das medidas
+estruturantes para a captação de investimentos privados para as novas matrizes econômicas ecológicas.
+
+PRINCIPAIS RESPONSABILIDADES DOS ÓRGÃOS AUXILIARES À EXECUÇÃO DOS PROJETOS E AÇÕES
+
+- PROCURADORIA-GERAL DO ESTADO
+
+1) Análise e parecer jurídico quanto as medidas de política propostas, em especial Projetos de Lei e Propostas de Emendas à Constituição
+Estadual.
+
+2) Consultoria e parecer jurídico nas matérias atinentes às ações e projetos ambientais, especialmente quando relacionados às matrizes
+econômicas ecológicas, além dos investimentos em infraestrutura.
+
+3) Análise e parecer jurídico do contrato de operação de crédito.
+
+- SECRETARIA DE ESTADO DE DESENVOLVIMENTO ECONÔMICO, CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+
+1) Apoiar a implantação dos projetos associados às novas matrizes econômicas ecológicas, tais como o manejo sustentável de madeira
+em Maués.
+
+2) Realizar, com o apoio de especialistas do Banco Mundial, o diagnóstico das potenciais matrizes econômicas do Amazonas, com
+impactos de curto, médio e longo prazos, planejando as medidas estruturantes para a atração e a captação de investimentos privados em
+bioeconomia, serviços ambientais e descarbonização da economia.
+
+PRINCIPAIS RESPONSABILIDADES DOS ÓRGÃOS EXECUTORES NOS COMPONENTES DA OPERAÇÃO DE CRÉDITO
+
+- SECRETARIA DE ESTADO DA FAZENDA
+
+1) Planejar, coordenar, executar e avaliar dos resultados do programa de ajuste e sustentabilidade fiscal do Amazonas.
+
+2) Implantar medidas de simplificação e desburocratização dos processos de gestão fiscal e de controle dos gastos públicos.
+
+3) Elaborar, em conjunto com especialistas do Banco Mundial, um Projeto de Lei Complementar que estabelece normas de finanças
+públicas voltadas à responsabilidade na gestão fiscal, complementares à LRF.
+
+- CONTROLADORIA-GERAL DO ESTADO
+
+1) Auditar e fiscalizar as medidas de ajuste e sustentabilidade fiscal, sobretudo no que se refere aos resultados fiscais do Estado.
+
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+
+1) Aprimorar o Sistema de Análise e Priorização de Investimentos Públicos Sustentáveis, incluindo análise de riscos socioambientais (com
+portfólio de medidas de mitigação, compensação e adaptação), e disseminar a ferramenta nos demais órgãos do Estado do Amazonas.
+
+
+Página: 16
+
+2) Apoiar a Secretaria do Estado do Meio Ambiente - SEMA no planejamento, execução e/ou fiscalização dos projetos ambientais que
+exigem investimentos em infraestrutura.
+
+- SECRETARIA ESTADUAL DE DESENVOLVIMENTO URBANO E METROPOLITANO
+
+1) Planejar a execução do Programa "Amazonas Meu Lar", em todo o Estado do Amazonas, e dos projetos de saneamento, em especial
+nos municípios do interior.
+
+- UNIDADE GESTORA DE PROJETOS ESPECIAIS e SUPERINTENDÊNCIA ESTADUAL DE HABITAÇÃO
+
+1) Executar, contratar e fiscalizar as obras de infraestrutura em saneamento e habitação social.
+
+- SECRETARIA DE ESTADO DE MEIO-AMBIENTE e INSTITUTO DE PROTEÇÃO AMBIENTAL DO AMAZONAS
+
+1) Elaborar, revisar e implementar políticas de preservação do meio-ambiente e desenvolvimento socioeconômico sustentável.
+
+2) Aprimorar a governança e gestão dos processos de fiscalização ambiental no Estado do Amazonas.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Secretaria de Fazenda do Estado do Amazonas
+
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 1 Ano
+
+
+### 4.4. Execução/Cronograma
+
+
+Fax:
+UF:
+
+COMPONENTES
+
+C - FISCAL: CRIAR ESPAÇO FISCAL PARA INVESTIMENTOS PÚBLICOS EM MEIO-AMBIENTE E MUDANÇAS CLIMÁTICAS
+S - AJUSTE E SUSTENTABILIDADE FISCAL COMPREENDENDO: (1) CONTROLE DAS DESPESAS CORRENTES; (2)
+FORTALECIMENTO DOS MECANISMOS DE INTEGRIDADE, TRANSPARÊNCIA E CONTROLE SOCIAL; (3) SIMPLIFICAÇÃO E
+DESBUROCRATIZAÇÃO DOS PROCESSOS DE GESTÃO DO TESOURO
+P - LEI COMPLEMENTAR DE RESPONSABILIDADE FISCAL DO ESTADO DO AMAZONAS QUE ESTABELECE NORMAS DE
+FINANÇAS PÚBLICAS VOLTADAS À RESPONSABILIDADE NA GESTÃO FISCAL COMPLEMENTARES À LEGISLAÇÃO NACIONAL
+P - DECRETO QUE REGULAMENTA O CONSELHO DE GESTÃO FISCAL DO AMAZONAS (CGF/AM)
+P - DEMONSTRAÇÃO DE CUMPRIMENTO DAS METAS DO PAF
+P - CERTIFICADO DE REGULARIDADE PREVIDENCIÁRIA (CRP)
+S - GESTÃO DAS TRANSFERÊNCIAS OBRIGATÓRIAS E VOLUNTÁRIAS AOS MUNICÍPIOS
+P - LEI COMPLEMENTAR QUE REGULAMENTA O ICMS ECOLÓGICO NO ÂMBITO DO ESTADO DO AMAZONAS COMO
+INSTRUMENTO DE INCENTIVO À PRODUÇÃO SUSTENTÁVEL E REDUÇÃO DA EMISSÃO DE GEE NOS MUNICÍPIOS
+S - INVESTIMENTOS PÚBLICOS EM SANEAMENTO E HABITAÇÃO
+P - SISTEMA DE ANÁLISE E PRIORIZAÇÃO DE INVESTIMENTOS PÚBLICOS SUSTENTÁVEIS
+C - MEIO AMBIENTE: DESENVOLVIMENTO ECONÔMICO E SOCIOAMBIENTAL SUSTENTÁVEL
+S - ATRATIVIDADE DA CARREIRA DE ESTADO DE ANALISTA AMBIENTAL
+P - LEI ORDINÁRIA QUE INSTITUI O PLANO DE CARGOS, CARREIRA E REMUNERAÇÃO DA SECRETARIA DE ESTADO DO
+MEIO AMBIENTE - SEMA E DO INSTITUTO DE PROTEÇÃO AMBIENTAL DO AMAZONAS ? IPAAM
+S - FORTALECIMENTO DO SISTEMA DE GOVERNANÇA AMBIENTAL
+P - LEI ORDINÁRIA QUE ALTERA A LEI ESTADUAL N° 2984, DE 18 DE OUTUBRO DE 2005, TORNANDO MAIS SEVERAS AS
+SANÇÕES ADMINISTRATIVAS DECORRENTES DE INFRAÇÕES AMBIENTAIS
+P - DECRETO ESTADUAL QUE ATUALIZA AS METAS DE REDUÇÃO DE DESMATAMENTO DEFINIDAS NO DECRETO
+ESTADUAL N° 47.565/2013 (PPCQD-AM)
+P - EDITAL DE CONTRATAÇÃO TEMPORÁRIA DE PROFISSIONAIS ESPECIALIZADOS QUE ATUARÃO NO APOIO ÀS AÇÕES DE
+REGULARIZAÇÃO FUNDIÁRIA (CAR), POR UM PRAZO MÁXIMO DE DOIS ANOS, ATÉ A REALIZAÇÃO DO CONCURSO PÚBLICO E
+PROVIMENTO DOS ANALISTAS AMBIENTAIS
+S - PRODUÇÃO SUSTENTÁVEL E SOLUÇÕES BASEADAS NA NATUREZA
+P - DECRETO ESTADUAL QUE INSTITUI O PROGRAMA DE DESENVOLVIMENTO SOCIOECONÔMICO SUSTENTÁVEL DO
+AMAZONAS, DENOMINADO ?AMAZONAS 2030?
+P - DECRETO ESTADUAL QUE INSTITUI A ESTRATÉGIA DE BIOECONOMIA, SOCIOBIOECONOMIA, USO DA TERRA E
+MUDANÇAS CLIMÁTICAS
+P - DECRETO ESTADUAL QUE TRANSFERE OS CRÉDITOS HISTÓRICOS DE REDD+ DA SECRETARIA DE ESTADO DE MEIO
+AMBIENTE ? SEMA PARA A COMPANHIA AMAZONENSE DE DESENVOLVIMENTO E MOBILIZAÇÃO DE ATIVOS - CADA
+P - INSTITUIÇÃO DE GRUPO DE TRABALHO ESTADUAL DE AVALIAÇÃO E SUPORTE À CAPTAÇÃO DE RECURSOS
+RELACIONADOS AO TEMA MUDANÇAS CLIMÁTICAS NO AMAZONAS
+C - SUSTENTABILIDADE FISCAL, ECONÔMICA, SOCIAL E AMBIENTAL DO ESTADO DO AMAZONAS
+S - SUSTENTABILIDADE FISCAL, ECONÔMICA, SOCIAL E AMBIENTAL DO ESTADO DO AMAZONAS
+P - SUSTENTABILIDADE FISCAL, ECONÔMICA, SOCIAL E AMBIENTAL DO ESTADO DO AMAZONAS
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+BIRD
+
+TOTAL
+
+BIRD
+
+0,00
+0,00
+
+0,00
+
+0,00
+0,00
+0,00
+0,00
+0,00
+
+0,00
+0,00
+0,00
+0,00
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+0,00
+0,00
+0,00
+0,00
+
+0,00
+0,00
+0,00
+0,00
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+0,00
+0,00
+0,00
+0,00
+
+0,00
+0,00
+0,00
+0,00
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+585.000.000,00
+585.000.000,00
+585.000.000,00
+585.000.000,00
+
+585.000.000,00
+585.000.000,00
+585.000.000,00
+585.000.000,00
+
+585.000.000,00
+585.000.000,00
+585.000.000,00
+585.000.000,00
+
+
+Página: 17
+
+(i) A implementação do projeto demanda Lei Estadual autorizativa para fins de aprovação da contratação da operação de crédito. Tratando
+-se de matéria que não implicará em aumento do endividamento do Estado e, simultaneamente, proporcionará uma economia estimada
+em R$ 260 milhões, abertura de espaço fiscal (R$ 2 bilhões nos primeiros sete anos) e melhoria no fluxo de caixa , a não aprovação de
+Lei autorizativa é avaliada com um risco extremamente baixo. Quanto às Leis relativas às contrapartidas mencionadas nesta proposta, os
+documentos estão elaborados ou em estágio bastante avançado. Também abordam matérias de interesses mútuos do Executivo e
+Legislativo, em especial nas temáticas de meio-ambiente e desenvolvimento socioeconômico sustentável. .
+
+(ii) RISCOS: a não publicação dos atos normativos implicam na desconformidade do DPL em relação às contrapartidas acordadas e, por
+consequência, impedirá a celebração contratual ou desembolso. Outrossim, a não contratação do PRO-SUSTENTAVEL III dificultará
+sobremaneira a implementação das contrapartidas acordadas.
+
+(iii) AÇÕES MITIGADORAS: envolvimento e comprometimento das diversas partes interessadas; submissão prévia dos documentos
+elaborados, Projetos de Lei e Minutas de Decretos, à Procuradoria-Geral do Estado para fins de análise, apreciação e aprovação à
+constitucionalidade e conformidade legal das medidas e contratações necessárias.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+O Estado do Amazonas institucionalizou um programa habitacional, denomina "AMAZONAS MEU LAR", que está contemplado no
+planejamento orçamentário (PPA 2024 a 2027), conforme Decreto n° 47.990, de 28 de agosto de 2023. O programa foi previamente
+estruturado em uma plataforma de identificação dos potenciais beneficiários, proporcionando um planejamento prévio das contratações de
+projetos e, portanto, mitigando os riscos relacionados ao prazo, custo e qualidade, dentre outros.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Não estão previstos custos de desapropriações nos projetos financiados nesta operação de crédito.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+As contrapartidas ambientais do projeto visam justamente dirimir riscos ambientais hoje existentes e aperfeiçoar a governança e gestão
+ambiental no Estado do Amazonas. No entanto, há riscos relacionados à avaliação dos resultados das políticas ambientais propostas. Há
+também o risco de utilização dos recursos economizados, não vinculados, em finalidades diversas dos projetos executivos de saneamento
+e bioeconomia, por exemplo, comprometendo os resultados finalísticos do projeto. Entretanto, tais riscos serão minimizados na
+elaboração dos orçamentos anuais e no planejamento dos investimentos públicos.
+
+PROJETOS DE SANEAMENTO EM COMUNIDADES ISOLADAS
+
+Risco: Manutenção precária do sistema de saneamento a cada cinco anos em comunidades isoladas.
+
+Fonte geradora: dificuldades logísticas para realização de procedimentos de manutenção adequados às manutenções de poços com
+energia solar em comunidades distantes.
+
+Classificação: medida não urgente.
+
+Possíveis consequências: paralisação do sistema.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+ÁREA: Saneamento
+
+RISCO: Necessidade de reassentamentos em áreas de saneamento de igarapés.
+
+I - Fonte geradora: início das atividades de obras após a retirada dos moradores.
+
+II - Classificação: medida não urgente.
+
+III - Possíveis consequências: atraso no cronograma do projeto.
+
+IV - Ações mitigadoras: custos de reassentamentos e planejamento de retiradas previstos desde a concepção do projeto e com o aval da
+comunidade envolvida; acompanhamento social até o reassentamento completo das famílias atuantes na área.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+- 17/06/2024: Autorizada na 174ª Cofiex, em 13/06/2024, conforme Resolução Cofiex nº 44, de 13 de junho de 2024.
+
+Informações relevantes

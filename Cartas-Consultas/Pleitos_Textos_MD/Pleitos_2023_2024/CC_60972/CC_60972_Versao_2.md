@@ -1,0 +1,2932 @@
+# Carta-Consulta CC_60972 — Versao 2 (SIGS)
+
+
+Programa de Requalificação Urbana e Ambiental de Ananindeua - PROANANIN
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 60972
+Processo: 03101.101754/2023-31
+Mutuário: Município de Ananindeua - PA
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  6 de Junho de 2023
+
+Fontes Internas:
+Contrapartida Financeira: US$ 8.750.000,00
+Fontes Externas:
+Fundo Financeiro para o Desenvolvimento da Bacia do Prata - FONPLATA: US$ 35.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+Ananindeua é um município do estado do Pará localizado na Região Metropolitana de Belém (RMB). É a segunda cidade mais populosa
+do estado, quarta da Amazônia e está conurbada com Belém e Marituba. Apresentou um considerável crescimento nos últimos vinte anos,
+decorrente da grande especulação imobiliária ocorrida em Belém, saltando de 410.234 habitantes em 2001 para 535.547 em 2020,
+segundo dados do IBGE; seu IDHM é de 0,718.
+
+O desenvolvimento territorial de Ananindeua tem como uma marca em sua história a construção do conjunto habitacional "Cidade Nova"
+nas décadas de 1970 e 1980, sob as diretrizes da política habitacional federal e responsabilidade da Companhia de Habitação do Estado
+do Pará (COHAB). A "Cidade Nova" é produto de um processo de tentativas de ordenamento da periferia da área metropolitana de Belém,
+onde se pretendia suprir o déficit habitacional resultante do crescimento populacional do centro urbano a partir da migração dos campos
+ou cidades do interior. Ao final da década de 1980 e ao longo da década de 1990, com o abandono do Programa habitacional, seus
+arredores se consolidaram com processos de ocupação irregular e urbanização desordenada.
+
+O processo de urbanização de Ananindeua tem se caracterizado também pela constante perda de cobertura vegetal e pela escassa
+ocorrência de espaços verdes públicos que atendam as funções ecológico e sociais nas cidades. Os mapas da dinâmica do uso do solo
+2001-2019 (ANEXO I) ilustram uma redução significativa da vegetação natural das APPs marginais aos corpos hídricos, que tiveram um
+decréscimo da ordem de 41% de território. Atualmente há em Ananindeua 5 unidades de conservação. Destas, duas são municipais,
+implantadas cinco anos após a promulgação do plano diretor de Ananindeua (2006); e as outras três estaduais que ocupam áreas
+municipais, e foram implementadas em dois momentos distintos do debate da política ambiental urbana, com destaque importante que
+duas das três unidades não foram projetadas como espaços abertos especificamente no território municipal, pois não possuem entradas
+ou acessibilidade viária projetada para acessá-los pelos munícipes, o que pode evidenciar uma perspectiva de desconexão de uso social
+dos espaços verdes. Quando observamos a localização, a distribuição populacional, dos habitantes dos bairros em que as duas unidades
+de conservação municipais se encontram, evidenciamos uma desigual distribuição destes pelo território municipal. O conflito entre os
+espaços antrópico e natural passaram a caracterizar a cidade. A Prefeitura de Ananindeua, buscando responder aos problemas
+decorrentes desse processo de ocupação do território, organizou o
+
+PROANANIN - Programa de Requalificação Urbana e Ambiental de Ananindeua.
+
+Nos 2 últimos anos, o PROANANIN realizou um investimento de aproximadamente R$ 100 milhões, em serviços de macrodrenagem com
+implantação de sistemas construtivos voltados ao combate a inundações, erosão pluvial, e obras de urbanização norteadas em soluções
+de problemas de mobilidade e tráfego local. Entre esses investimentos, está o Projeto de Reabilitação do Igarapé da Cidade Nova (PR-
+IGCN). O Igarapé compõe a bacia hidrográfica do Rio Maguari-Açu, e caracteriza-se pelo adensamento de construções em seu trecho
+mais continental e um drástico processo de degradação ambiental. Seus 250 m iniciais, receberam investimentos do Programa (ANEXO II)
+, porém, os demais a jusante, continuam suscetíveis a calamidades. Segundo consulta ao SGB (Serviço Geológico do Brasil) em janeiro
+de 2023, o trecho a jusante (750 m de extensão) apresenta risco muito alto de inundações e alagamentos (ANEXO III) principalmente nos
+meses de fevereiro a maio, agravando quando coincide com preamares dos meses de março a abril, que levam o represamento das
+águas pluviais e fluviais, tendo como consequência o represamento do igarapé atingindo as residências no seu entorno.
+
+Em um levantamento preliminar, foram registradas 308 famílias ocupantes da área de interesse do Programa (ANEXO IV), sendo 278 em
+situação irregular e 30 famílias legítimas proprietárias. Entre as famílias em situação irregular, identificaram-se 40 delas em situação de
+vulnerabilidade e/ou emergência, com risco de desabamentos e outros incidentes, e 238 em situação de menor risco, mas ainda com
+péssimas condições de moradia. As 30 famílias legítimas proprietárias, apesar de regularidade, ocupam área estratégica de interesse
+ambiental e urbanístico do Programa.
+
+A presente proposta tem por finalidade trabalhar a continuidade e aprimoramento do Projeto de Reabilitação do Igarapé da Cidade Nova,
+pretendendo solucionar: a concentração de aglomerados subnormais no seu trecho mais continental, risco de inundação do igarapé que
+atinge as residências no seu entorno, redução da vegetação natural que margeia o igarapé ao longo de sua extensão, descarte irregular e
+não seletivo de resíduos sólidos e a ausência de espaços verdes públicos que atendam as funções ecológico sociais no município.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+Para a solução dos problemas abordados, o Programa propõe as seguintes ações (ANEXO V):
+
+1.Elaboração de Projeto Básico e Executivo de Requalificação Urbana e Ambiental do Igarapé da Cidade Nova e suas Áreas de Interesse.
+O projeto existente será readequado a partir de novo estudo de concepção, respeitando o traçado natural do corpo hídrico e a integração
+urbana com o meio ambiente. Os resultados esperados são: nova concepção de intervenção com soluções baseadas na natureza;
+aprimoramento das técnicas frente aos problemas urbanos e ambientais; e, dispor de instrumento técnico para a realização das obras.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+2.Elaboração do Plano de Recuperação de Áreas Degradadas (PRAD) específico para o Igarapé da Cidade Nova. Frente ao processo de
+degradação ambiental, as iniciativas seguirão as disposições previstas em um PRAD. Será direcionado para utilização de práticas
+conjugadas para regeneração e plantio de espécies do ecossistema local. O resultado previsto é a melhoria das condições ambientais e a
+relação da população local com o patrimônio ambiental com a preservação de espécies naturais da fauna e da flora.
+
+3.Reabilitação do Igarapé da Cidade Nova e sua Área de Proteção Permanente (APP). A intervenção respeitará ao máximo o traçado do
+igarapé, constituindo o sistema construtivo a ser definido com base nos objetivos: promover a recuperação ambiental; reabilitar o curso
+d'água; recompor e proteger espécies vegetais; garantir o funcionamento da macrodrenagem. A ação resultará na redução dos danos
+ambientais decorrentes da supressão da vegetação e do assoreamento ocasionado pelo processo de ocupação. A manutenção do
+Igarapé será custeada por recursos operacionalizados pela Secretaria de Meio Ambiente (SEMA), estimado em R$ 80mil/ano.
+
+4.Implantação do Parque Urbano do Igarapé da Cidade Nova. O Parque servirá como zona de amortecimento para a APP. Será
+imprescindível para a integração urbano-ambiental, fortalecendo as políticas de esporte, lazer e cultura. O resultado esperado é a
+superação de problemas oriundos da ocupação desordenada com a oferta de equipamentos urbanos para a promoção de políticas
+públicas. A manutenção do Parque será custeada por recursos municipais de infraestrutura, podendo ser complementada por parcerias
+estratégicas com pequenos empreendedores que utilizarão o espaço. Estima-se um custo de R$150mil/ano, operacionalizado pela
+Secretaria Municipal de Serviços Urbanos (SEURB).
+
+5.Implantação do Parque Ecológico do Igarapé da Cidade Nova. O projeto irá prever a requalificação e preservação de uma área de,
+
+aproximadamente, 125.000m², formada pela bacia de acumulação do Igarapé. Conta com a disposição do relevo, que contribuirá para a
+proteção do Igarapé, conservando espécies da flora tombadas, auxiliando na preservação da fauna e servindo como espaço para
+educação ambiental e desenvolvimento comunitário. O Parque Ecológico será mantido por recursos municipais do meio ambiente somado
+a parcerias institucionais. Estima-se um custo de R$ 180mil/ano, operacionalizado pela SEMA.
+
+6.Reorganização do Sistema de Mobilidade. Para garantir a integração dos parques com a área urbana consolidada, a mobilidade local
+será replanejada. Essa ação requer a recuperação do calçamento das vias e reorganização da sinalização viária. Os resultados esperados
+são: a acessibilidade aos parques; a integração cicloviária; e, o ordenamento de fluxos. Estima-se um custo de R$40mil/ano,
+operacionalizado pela SEURB.
+
+7.Implantação de Ecopontos ao longo das áreas que passaram por requalificação. Estima-se a redução dos impactos negativos da
+deposição irregular de resíduos e melhoria da qualidade ambiental. A manutenção dos pontos será por meio dos recursos de gestão de
+resíduos sólidos e limpeza urbana. Estima-se um custo R$30mil/ano, operacionalizado pela Secretaria de Infraestrutura e Saneamento (
+SESAN).
+
+8.Reassentamento de Famílias em situação de habitação irregular e Desapropriações na área de interesse do projeto. A execução do
+projeto requer a preparação do Plano Específico de Reassentamento e Medidas Compensatórias (PERMC), que abrange a área de
+interesse e a identificação do público para a aplicação de compensações. O PERMC considerará dois eixos: Reassentamento, que incluirá
+medidas compensatórias designadas durante o trabalho técnico-social (construção de moradias, compra assistida, indenizações a
+benfeitorias, entre outros); Desapropriação, que desenvolverá compensações para a propriedade individual frente ao interesse público,
+dimensionando indenizações das benfeitorias e a análise da Planta Geral de Valores (PGV). O resultado esperado é a melhoria das
+condições de habitabilidade e a justa indenização para a liberação da área de interesse. Essas ações requerem acompanhamento técnico
+especializado durante o período de execução e, posterior a aplicação das medidas, monitoramento e avaliação para verificação dos
+resultados. Ficará sob responsabilidade da UGP em cooperação com a Secretaria Municipal de Habitação (SEHAB).
+
+9.Desenvolvimento Comunitário. O Programa desenvolverá ações voltadas para o Desenvolvimento Comunitário, que inclui: Capacitação
+Profissional para as famílias incluídas no PERMC e famílias que obtém renda do comércio e serviço local; Fomento a Políticas de Gênero,
+Raça e Diversidade, que aprimorará a conscientização da população, especialmente as mulheres incluídas no PERMC; Educação
+Ambiental, que contribuirá para o fortalecimento da relação comunitária com novos equipamentos, auxiliando na sustentabilidade por meio
+de práticas coletivas e individuais positivas. Após a conclusão do Programa, a prefeitura continuará a manter as ações por meio de
+parcerias com outras instituições.
+
+10.Implantação do Sistema de Informação e Gestão Territorial de Ananindeua - SIGAnanin. O município não possui um sistema para
+gestão territorial. A sustentabilidade das ações previstas perpassa pela implantação dessa ferramenta. O SIGAnanin servirá para o
+monitoramento do Plano Diretor e fortalecerá a transparência e a tomada de decisão frente ao desenvolvimento urbano. Será mantido
+pelos recursos do Fundo Municipal de Desenvolvimento Urbano, instituído por lei, com custo em R$50mil/ano.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+11.Implantação do Sistema de Monitoramento Ambiental de Ananindeua - SIMA. O SIMA será implantado para fortalecer a
+sustentabilidade dos investimentos no médio e longo prazo. Como resultado dessa ação, se estima o maior controle e fiscalização do
+patrimônio ambiental, bem como o reforço da transparência nas tomadas de decisão para a política ambiental por meio de ferramenta
+tecnológica de baixo custo.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+O Programa está inserido em ações do Plano Plurianual - PPA 2022-2025 (ANEXO VI), Lei N. 3.194 de 11 de novembro de 2021, e
+alinhado com as 03 (três) diretrizes estratégicas adotadas pelo Município: "1. Melhoria da Qualidade de Vida com Justiça Social e
+Econômica", "2. Ordenamento, Infraestrutura e Desenvolvimento Sustentável" e "3. Gestão Eficiente", derivadas de um processo de
+discussões e de construção coletiva sobre o conjunto de políticas públicas do município. Cada diretriz agrega ações a serem executadas
+através de projetos e atividades constantes no orçamento municipal. O PROANANIN alinha-se com as políticas de Saúde, Educação,
+Assistência Social, Segurança Pública, Cultura, Esporte e Lazer, Habitação e Mulher e as políticas de Trabalho, Emprego e Renda,
+Turismo, Saneamento, Serviços Públicos, Mobilidade Urbana e Meio Ambiente e Gestão Institucional.
+
+A presente Carta Consulta prevê investimentos totais de US$ 43.750.000,00 (quarenta e três milhões, setecentos e cinquenta mil dólares
+norte
+
+-americanos), sendo 80% financiados pelo Fonplata e 20% de contrapartida do município.
+
+A taxa de câmbio utilizada nesta carta consulta é de R $4,94, considerando a relação Dólar x Real em 14/04/2023, segundo dados do
+Banco Central.
+
+Os recursos orçamentários e de contrapartida do financiamento serão incluídos na Lei Orçamentária Anual do Município, após a emissão
+da recomendação da COFIEX.
+
+Os recursos de contrapartida do município correspondem a 20% do total do Programa, no período proposto de 05 anos de execução. A
+contrapartida será aportada com recursos provenientes de receitas tributárias previstas nos artigos 156, 158 e 159, inciso I, (b), da
+Constituição Federal, conforme estabelecido na Resolução nº 3, de 29 de maio de 2019 COFIEX.
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa de Requalificação Urbana e Ambiental de Ananindeua - PROANANIN
+
+
+### 2.2. Título Abreviado
+
+PROANANIN
+
+
+### 2.3. Mutuário
+
+
+Município de Ananindeua - PA
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+OBJETIVO GERAL:
+
+O Programa tem como objetivo geral promover a requalificação urbana e ambiental em áreas precárias com a reabilitação de rios urbanos
+e melhoria da qualidade de vida da população, com promoção do desenvolvimento social, econômico e sustentável nas áreas de
+intervenção do projeto, por meio entrega de infraestrutura, acessibilidade, mobilidade, áreas verdes, condições de habitabilidade e
+atividades econômicas locais, reordenamento territorial e integração de espaços públicos.
+
+OBJETIVOS ESPECÍFICOS:
+
+i) Promover a requalificação urbana em áreas ocupadas desordenadamente;
+
+ii) Promover a requalificação ambiental em áreas de interesse à preservação;
+
+iii) Reabilitar rios e igarapés urbanos;
+
+iv) Garantir o funcionamento do sistema de drenagem nos cursos d'água;
+
+v) Melhorar as condições de habitabilidade para famílias em situação de ocupação irregular e/ou de risco;
+
+vi) Melhorar as condições da vida urbana e do meio ambiente para a população local;
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+vii) Fomentar os sistemas de participação cidadã no planejamento e gestão territorial.
+
+Para os indicadores listados no item 2.6 a seguir, temos como marcos temporais os seguintes anos (Anexo XI):
+
+Linhas de Base e Metas:
+
+Indicador 1: ano 2023; Meta: ANO 3 do Programa
+
+Indicador 2: ano 2023; Meta: ANO 3 do Programa
+
+Indicador 3: ano 2023; Meta: ANO 5 do Programa
+
+Indicador 4: ano 2023; Meta: ANO 3 do Programa
+
+Indicador 5: ano 2023; Meta: ANO 2 do Programa
+
+Indicador 6: ano 2023; Meta: ANO 2 do Programa
+
+Indicador 7: ano 2023; Meta: ANO 5 do Programa
+
+Indicador 8: ano 2023; Meta: ANO 5 do Programa
+
+Indicador 9: ano 2023; Meta: ANO 3 do Programa
+
+Ressalta-se que tais informações estão dispostas também na descrição de cada indicador na Tabela do Capítulo 2.6.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+
+
+Descrição
+Índice Vegetação Ciliar na extensão do Igarapé
+da Cidade Nova (APP Faixa de 15 metros) -
+Linha de base: Ano 2023; Meta: Ano 3
+
+Taxa de Permeabilidade do Uso do Solo na Área
+do Programa. Linha de base: Ano 2023; Meta:
+Ano 3
+
+Índice de Área Verde Pública (Raio 1,0 Km)
+Linha de base: Ano 2023; Meta: Ano 5
+
+Taxa de Requalificação do Igarapé da Cidade
+Nova Linha de base: Ano 2023; Meta: Ano 3
+
+Taxa de Edificações em Situação de Risco Muito
+Alto a Inundações na extensão do Igarapé da
+Cidade Nova VI Linha de base: Ano 2023 Meta:
+Ano 2
+
+Taxa de Pessoas em Risco Muito Alto a
+Inundações na extensão do Igarapé da Cidade
+Nova Linha de base: Ano 2023 Meta: Ano 2
+
+Pontos de Alagamento na Cidade Nova
+relacionados a Bacia do Igarapé da Cidade Nova
+Linha de base: Ano 2023 Meta: Ano 5
+
+Pontos de Descarte Irregular de Resíduos na
+Cidade Nova relacionados a Bacia do Igarapé da
+Cidade Nova Linha de base: Ano 2023 Meta:
+Ano 5
+
+Percentual de Ciclovias Município (Meta PPA
+2022-2025) Linha de base: Ano 2023 Meta: Ano
+
+
+### 2.7. Projeto/Componentes
+
+
+Percentual
+
+Percentual
+
+Percentual
+
+Percentual
+
+Percentual
+
+Metro Quadrado/
+Habitante
+
+Fórmula de Cálculo Unidade de Medida
+(Área Atual de
+Vegetação Ciliar /
+Área Total Faixa de
+APP) x100
+(Somatória das Áreas
+Permeáveis do
+Programa / Área do
+Programa) x100
+(Somatória das Áreas
+dos Espaços Verdes
+de Uso Público do
+Bairro / Somatória de
+Habitantes do Bairro)
+(Extensão
+Requalificada do
+Igarapé / Extensão
+Total do Igarapé) x100
+(Total de Edificações
+em Risco Muito Alto a
+Inundações / Total de
+Edificações
+Desapropriadas) x100
+(Total de Pessoa sem
+Risco Muito Alto a
+Inundações / Total de
+Pessoas
+Reassentadas) x100
+(Somatória de Pontos
+de Alagamentos
+relacionados a Bacia
+de Contribuição do
+Igarapé da Cidade
+Nova / Somatória de
+Pontos de
+Alagamento da
+Cidade Nova) x100
+(Somatória de Pontos
+de Descarte Irregular
+de Resíduos na Bacia
+de Contribuição do
+Igarapé da Cidade
+Nova / Somatória de
+Pontos de Descarte
+Irregular de Resíduos
+da Cidade Nova) x100
+(Somatória da
+Extensão de Ciclovia
+Existente / Meta
+Ciclovias PPA 2025)
+x100
+
+Percentual
+
+Percentual
+
+Percentual
+
+
+Página: 6
+
+Meta
+95,00
+
+Linha de Base
+30,50
+
+17,60
+
+80,00
+
+0,16
+
+2,45
+
+10,50
+
+100,00
+
+58,40
+
+0,00
+
+48,00
+
+0,00
+
+13,00
+
+0,00
+
+20,30
+
+0,00
+
+24,90
+
+26,90
+
+
+Componentes
+C - ESTUDOS, PROJETOS E OBRAS
+S - DESENVOLVIMENTO DE ESTUDOS E PROJETOS
+P - Elaboração de Projeto Básico e Executivo de Requalificação Urbana e Ambiental do Igarapé da Cidade Nova
+e suas Áreas de Interesse
+P - Elaboração de Plano de Recuperação de Áreas Degradadas (PRAD)
+S - OBRAS
+P - Reabilitação do Igarapé da Cidade Nova e sua APP
+P - Implantação do Parque Urbano do Igarapé da Cidade Nova
+P - Implantação do Parque Ecológico do Igarapé da Cidade Nova
+P - Reorganização do Sistema de Mobilidade na Área de Interesse
+P - Implantação de EcoPontos
+C - DESENVOLVIMENTO SOCIOAMBIENTAL E MODERNIZAÇÃO INSTITUCIONAL
+S - REASSENTAMENTOS E INDENIZAÇÕES
+P - Elaboração do Plano Específico de Reassentamento e Medidas Compensatórias (PERMC)
+P - Execução de Medidas Compensatórias
+S - DESENVOLVIMENTO COMUNITÁRIO
+P - Programa de Capacitação Profissional
+P - Fortalecimento a Políticas de Gênero, Raça e Diversidade
+P - Programa de Educação Ambiental
+S - DESENVOLVIMENTO ORGANIZACIONAL E MODERNIZAÇÃO
+P - Implantação do Sistema de Informação e Gestão Territorial de Ananindeua - SIGAnanin
+P - Implantação do Sistema de Monitoramento Ambiental
+C - ADMINISTRAÇÃO, AUDITORIA E AVALIAÇÃO DO PROGRAMA
+P - Gerenciamento e Supervisão de Obras
+P - Monitoramento e Avaliação do Programa
+P - Auditorias Externas
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 7
+
+Valor(US$)
+25.250.000,00
+2.400.000,00
+2.250.000,00
+
+150.000,00
+22.850.000,00
+6.850.000,00
+6.750.000,00
+8.500.000,00
+700.000,00
+50.000,00
+11.000.000,00
+9.000.000,00
+250.000,00
+8.750.000,00
+300.000,00
+150.000,00
+50.000,00
+100.000,00
+1.700.000,00
+1.400.000,00
+300.000,00
+7.500.000,00
+6.500.000,00
+700.000,00
+300.000,00
+43.750.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - ESTUDOS, PROJETOS E OBRAS
+Compreende ações necessárias para resolver questões urbanas e ambientais prioritárias nas áreas de intervenção.
+
+S - DESENVOLVIMENTO DE ESTUDOS E PROJETOS
+Este subcomponente compreende ações de desenvolvimento de estudos e projetos do Programa.
+
+P - Elaboração de Projeto Básico e Executivo de Requalificação Urbana e Ambiental do Igarapé da Cidade Nova e suas
+Áreas de Interesse
+Este produto trata do financiamento de Estudos Técnicos Preliminares (ETP's) e Projetos a nível Básico e Executivo para a
+execução das ações do PROANANIN. Os documentos elaborados pelos ETP's deverão compatibilizar os problemas a serem
+resolvidos com as soluções propostas pelo Programa, permitindo a avaliação da sua viabilidade técnica, socioeconômica e
+ambiental. Compreende os ETP's: estudos hidrológicos, sondagens, levantamentos planialtimétricos, pesquisa comunitária de
+necessidades, caracterização da vizinhança potencialmente afetada, levantamento da fauna e da flora, estudo de impacto de
+vizinhança, estudo de viabilidade ambiental, entre outros conforme a necessidade específica. Os projetos serão realizados com
+base nas indicações dos ETP's; compreendem documentos com: soluções técnicas globais e localizadas suficientemente
+detalhadas; identificação dos tipos de serviços a executar e de materiais e equipamentos a incorporar à obra; informações que
+possibilitem o estudo e a dedução de métodos construtivos e condições organizacionais para a obra; subsídios para montagem do
+plano de licitação e gestão da obra, compreendendo a sua Programação; orçamento detalhado do custo global da obra,
+fundamentado em quantitativos de serviços e fornecimentos propriamente avaliados.
+
+P - Elaboração de Plano de Recuperação de Áreas Degradadas (PRAD)
+Financiamento da elaboração do Plano de Recuperação de Áreas Degradadas - PRAD, que permitirá a avaliação da degradação e
+a consequente definição de medidas adequadas para a recuperação da área de interesse. Obedecerá a premissas instituídas na
+Instrução Normativa ICMBIO Nº 11, de 11 de dezembro de 2014 contendo: indicação das áreas onde deverá haver intervenção
+para fins de recuperação; se haverá a necessidade de adequação topográfica; indicação da necessidade de incorporação de
+substrato de solo; indicação da metodologia mais indicada para o preparo do solo e recomposição vegetal; indicação das espécies
+vegetais a serem utilizadas na recuperação (espécies pioneiras, secundárias e clímax); apresentação do plano de monitoramento e
+de manutenção da área e outras medidas e informações necessárias ao sucesso da recuperação; análise sobre a necessidade de
+intervenção nos locais, considerando o estágio de degradação das áreas degradadas; cronograma físico-financeiro para um prazo
+de quatro anos, apresentando a composição dos custos estimados e apresentação de relatórios de monitoramento anuais durante
+a execução do plano de recuperação.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.1 promoção da sustentabilidade ambiental,
+incluindo ações de adaptação e mitigação": a preparação e implementação do Plano de Recuperação de Áreas Degradadas do
+Igarapé da Cidade Nova VI, que restabelece os limites da sua Área de Proteção Permanente, recompondo a vegetação ciliar com
+espécies nativas e consequentemente promovendo a regeneração dos ecossistemas.
+
+
+Página: 8
+
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.5 conservação e manejo da biodiversidade e/ou
+de recursos florestais": o PRAD - Plano de Recuperação de Áreas Degradadas criado para o PROANANIN, definirá as medidas
+necessárias para a restituição e monitoramento de áreas degradadas e para o restabelecimento do equilíbrio natural do meio
+ambiente, levando em consideração critérios de máxima diversidade de espécies respeitando as características do ecossistema
+local, numa área de 2,5ha correspondente a Área de Proteção Permanente do leito do igarapé.
+
+S - OBRAS
+Compreende todas as ações necessárias para requalificação e reabilitação de áreas degradadas ao longo da faixa de interesse
+ambiental do Programa, envolvendo medidas de melhoria do meio físico, de manejo dos elementos bióticos do ecossistema local,
+reabilitação de curso d'agua, requalificação o espaço urbano ao longo da faixa de interesse, recuperação e a reestruturação de
+áreas urbanizadas, implantação de parques, áreas de convívio, esporte e lazer, espaços culturais e outros equipamentos públicos.
+
+P - Reabilitação do Igarapé da Cidade Nova e sua APP
+Corresponde ao financiamento dos serviços e ações de prevenção a erosão e assoreamento da seção hidráulica do Igarapé da
+Cidade Nova (serviços de macrodrenagem) com a recuperação de vegetação ciliar ao longo de 700 metros. Compreende as
+seguintes atividades: dragagem do leito do igarapé para desassoreamento e correção de declividade, terraplenagem de taludes e
+marginais que se fizerem necessários, aplicação de revestimento permeável se necessária (a ser definido pelo projeto),
+recuperação florestal na área da APP, que considerará os critérios de máxima diversidade de espécies e o respeito as
+características do ecossistema local pré- estabelecidos no Plano de Recuperação de Áreas Degradadas - PRAD.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.1 promoção da sustentabilidade ambiental,
+incluindo ações de adaptação e mitigação": a preparação e implementação do Plano de Recuperação de Áreas Degradadas do
+Igarapé da Cidade Nova VI, que restabelece os limites da sua Área de Proteção Permanente, recompondo a vegetação ciliar com
+espécies nativas e consequentemente promovendo a regeneração dos ecossistemas.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.3 implantação e/ou ampliação de ações de
+saneamento básico": a macrodrenagem do Igarapé da Cidade Nova VI escoará de forma adequada as águas provenientes das
+galerias pluviais urbanas;
+
+P - Implantação do Parque Urbano do Igarapé da Cidade Nova
+Financiará as obras e ações necessárias para a implantação do Parque Urbano do Igarapé da Cidade Nova. A área de intervenção
+conta com aproximadamente 30.000m² e funcionará como zona de amortecimento para a faixa marginal que caracteriza a APP do
+Igarapé. A entrada principal será pela Travessa SN 21 no bairro da Cidade Nova, e contará com estacionamento, posto de guarda
+municipal, bicicletário e áreas para uso do pequeno comércio local; interligação por pistas de caminhada, integração com sistema
+de ciclomobilidade, áreas de convício social, academia ao ar livre e equipamentos de esportes; observando-se o cuidado que a
+superfície permeável seja no mínimo a 80% da área total da Zona de Amortecimento. O projeto de paisagismo privilegiará a
+adoção de espécies vegetais capazes de preservar a dinâmica ambiental local, auxiliando na transição entre as funções antrópicas
+e naturais, evitando o efeito de borda da mata ciliar e até recuperando condições de integridade dos processos biofísicos.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.2 eficiência energética, geração e/ou uso de
+energia de fontes renováveis": o Parque Urbano utilizará a iluminação pública de tecnologia LED, mais eficiente e menos poluente
+do que as tradicionais lâmpadas de vapor metálico; seus sistemas de irrigação serão automatizados e suas bombas alimentadas
+através de um sistema de captação de energia solar, através de placas solares instaladas em áreas seguras em quiosques e
+outros espaços cobertos;
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.4 gestão integrada de recursos hídricos, incluindo
+segurança hídrica e/ou conservação de solos e nascentes": a implantação do Parque Linear considerando o cuidado que a
+superfície permeável seja no mínimo 80% do total da sua área, favorece a infiltração direta no solo, abastecendo os lençóis
+freáticos e as nascentes, além de reduzir os riscos de inundação já que os sistemas urbanos de drenagem conseguirão receber
+uma quantidade menor de água da chuva; as águas provenientes no processo de tratamento dos Jardins Filtrantes no Parque
+Ecológico deverão ser utilizadas nos sistemas de irrigação dos parques.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.6 melhoria do ambiente de negócios e/ou
+oportunidades":
+com a Implantação do Parque Urbano do Igarapé da Cidade Nova, haverá disposição de espaços públicos para a exploração
+econômica, o que fará com que empreendedores que tenham permissão da Prefeitura para atuar nesses espaços sirvam produtos
+cada vez mais diversificados, que, além de comidas, incluirão cosméticos, artesanatos e outros, fortalecendo suas atividades
+econômicas e encontrando nesses espaços públicos oportunidades para crescer.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.7 benefícios para empreendedores individuais,
+micro e pequenas empresas": os permissionários cadastrados pela Prefeitura para a exploração econômica das áreas do Parque
+Urbano deverão receber suporte e capacitação através da Agência do Empreendedor, criada e gerenciada pela Secretaria
+Municipal de Desenvolvimento Econômico (SEDEC) em Cooperação Técnica com o SEBRAE, fruto de uma parceria firmada desde
+setembro de 2021. Além disso, entende-se que a infraestrutura criada possibilitará o desenvolvimento da prática empreendedora,
+criando um cenário adequado e acessível de novos negócios e negócios existentes.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.8 geração de emprego e renda para populações
+de baixa renda e vulneráveis": o apoio ao empreendedorismo impulsionado pelas oportunidades de negócios criadas pela
+implantação do Parque Urbano incentivará que trabalhadores informais tornem- se formais, possibilitando o acesso a benefícios e
+facilidades que antes eram restritos aos empresários de maior porte, como facilidade de acesso a benefícios previdenciários,
+redução da carga tributária, emitir notas fiscais e, assim, ter acesso a um mercado maior, além de ter mais facilidade para
+conseguir empréstimos e financiamentos, conseguindo gerar empregos diretos e indiretos.
+
+
+Página: 9
+
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.9 infraestrutura e/ou equipamentos sociais para
+populações de baixa renda e vulneráveis": a infraestrutura, equipamentos e mobiliário do Parque Linear oferecerá a população no
+seu entorno espaços públicos de qualidade, permitindo a realização de atividades de integração e lazer, assegurando seus direitos
+em elevar sua qualidade de vida. Além disso, ações de todo o programa são previstas em áreas periféricas e, a partir disso, as
+diretrizes estabelecem que os investimentos realizados retornem em benefícios diretos à população de baixa renda e vulnerável
+que habita na região. Os equipamentos previstos serão utilizados para o desenvolvimento de políticas de inclusão social, educação
+, esporte, cultura e lazer.
+
+P - Implantação do Parque Ecológico do Igarapé da Cidade Nova
+Este produto financiará as obras necessárias para a implantação do Parque Ecológico da Cidade Nova. Ocupando uma área verde
+de 125.000m², que vem sofrendo forte pressão antrópica, possui atributos ecológicos de grande interesse para a sua proteção,
+está localizado no centro urbano do município entre os bairros com maior densidade demográfica (Cidade Nova, Guajará, Maguari
+e PAAR), oferecendo grande potencial de gerar significativos impactos ambientais, sociais e econômicos para a população ao seu
+entorno. Na sua concepção aproveitar-se-á as clareiras naturais do local para a implantação da infraestrutura dos setores de
+utilização e acesso controlado. A entrada principal será pela Estrada do Cajuí, ao final do Parque Urbano, contará com acesso para
+outros três bairros. Sua infraestrutura contará com equipamentos necessários para a coexistência entre a vida urbana e o meio
+ambiente natural,
+fortalecimento da educação ambiental, espaços para o desenvolvimento de estudos e pesquisas, berçário de mudas, trilhas de
+acesso restrito e controlado. Será implementado dentro do Parque Ecológico, aproveitando particularidades do seu relevo que
+funciona como bacia de acumulação das águas do Igarapé da Cidade Nova, o sistema natural para tratamento de águas poluídas
+denominado Jardins Filtrantes, que ocupará uma área de 4.000m² tendo capacidade de tratar 600 m³ de água por dia.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.1 promoção da sustentabilidade ambiental,
+incluindo ações de adaptação e mitigação": a implantação do Parque Ecológico que além de preservar uma grande área que sofre
+com a pressão antrópica, oferecerá um grande potencial de gerar significativos impactos ambientais, oferecendo um Centro de
+Educação Ambiental.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.2 eficiência energética, geração e/ou uso de
+energia de fontes renováveis": a implementação do uso da tecnologia de Jardins Filtrantes dentro do Parque Ecológico, um sistema
+natural para tratamento de águas poluídas do Igarapé da Cidade Nova VI, eliminando o elevado consumo de energia na utilização
+das tradicionais Estações de Tratamento de Esgoto - ETEs; o Parque Ecológico utilizará a iluminação pública de tecnologia LED,
+mais eficiente e menos poluente do que as tradicionais lâmpadas de vapor metálico; seus sistemas de irrigação serão
+automatizados e suas bombas alimentadas através de um sistema de captação de energia solar, através de placas solares
+instaladas em áreas seguras em quiosques e outros espaços cobertos;
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.4 gestão integrada de recursos hídricos, incluindo
+segurança hídrica e/ou conservação de solos e nascentes": as águas provenientes no processo de tratamento dos Jardins
+Filtrantes no Parque Ecológico deverão ser utilizadas nos sistemas de irrigação dos parques.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.7 benefícios para empreendedores individuais,
+micro e pequenas empresas": os permissionários cadastrados pela Prefeitura para a exploração econômica das áreas do Parque
+Ecológico deverão receber suporte e capacitação através da Agência do Empreendedor, criada e gerenciada pela Secretaria
+Municipal de Desenvolvimento Econômico (SEDEC) em Cooperação Técnica com o SEBRAE, fruto de uma parceria firmada desde
+setembro de 2021. Além disso, entende-se que a infraestrutura criada possibilitará o desenvolvimento da prática empreendedora,
+criando um cenário adequado e acessível de novos negócios e negócios existentes.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.8 geração de emprego e renda para populações
+de baixa renda e vulneráveis": o apoio ao empreendedorismo impulsionado pelas oportunidades de negócios criadas pela
+implantação do Parque Ecológico incentivará que trabalhadores informais tornem- se formais, possibilitando o acesso a benefícios
+e facilidades que antes eram restritos aos empresários de maior porte, como facilidade de acesso a benefícios previdenciários,
+redução da carga tributária, emitir notas fiscais e, assim, ter acesso a um mercado maior, além de ter mais facilidade para
+conseguir empréstimos e financiamentos, conseguindo gerar empregos diretos e indiretos.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.9 infraestrutura e/ou equipamentos sociais para
+populações de baixa renda e vulneráveis": a infraestrutura, equipamentos e mobiliário do Parque Ecológico oferecerá a população
+no seu entorno espaços públicos de qualidade, permitindo a realização de atividades de integração e lazer, assegurando seus
+direitos em elevar sua qualidade de vida. Além disso ações de todo o programa são previstas em áreas periféricas e, a partir disso,
+as diretrizes estabelecem que os investimentos realizados retornem em benefícios diretos a população de baixa renda e
+vulnerável que habita na região. Os equipamentos previstos serão utilizados para o desenvolvimento de políticas de inclusão social
+, educação, esporte, cultura e lazer.
+
+P - Reorganização do Sistema de Mobilidade na Área de Interesse
+Financiará a requalificação e reorganização de vias ao entorno do Igarapé. Com a implementação do Parque Urbano, cerca de 1,
+8km do sistema viário necessitará de serviços de recuperação de calçamento e replanejamento de fluxos, incluindo a integração
+ciclomobiliária, acesso de pedestres com acessibilidade e sinalização viária, readequação do sistema de microdrenagem (bueiros,
+galerias, meio-fio, sarjetas, poços de visita) que forem necessários.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.3 implantação e/ou ampliação de ações de
+saneamento básico": a requalificação urbana que ocorrerá com a implementação do Parque Linear reconstitui sistemas de
+microdrenagem antigos e subdimensionados.
+
+
+Página: 10
+
+P - Implantação de EcoPontos
+Financiará as obras para a implantação de 38 estações de coleta seletiva ao longo das áreas de interesse do Programa nas
+adjacências do Igarapé da Cidade Nova. Com intuito de mitigar problemas de descarte irregular de resíduos sólidos nas
+proximidades, na área de relação urbana e ambiental do Igarapé da Cidade Nova será implantada 08 PEV's e 12 LEV's,
+distribuídos em pontos estratégicos conforme levantamento local. Os PEV's (Pontos de Entrega Voluntária) serão locais
+estruturado de, aproximadamente, 40m², cercados por gradil autoportante revestido em PVC, equipados com 04 contentores de
+PEAD de 2.500l destinados a acumulação temporária de resíduos da construção e demolição, de resíduos volumosos, da coleta
+seletiva e resíduos da logística reversa; os LEV's (Locais de Entrega Voluntária) serão locais estruturados de 16m² equipados com
+04 contentores de PEAD de 1.000l instalados em espaços públicos para recebimento de recicláveis. Campanhas educativas e
+ações de educação ambiental também integram este produto.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.1 promoção da sustentabilidade ambiental,
+incluindo ações de adaptação e mitigação": a disponibilidade de Ecopontos e Locais de Entrega Voluntária vinculada a campanhas
+de conscientização em separar lixo doméstico ( orgânico e não orgânico), campanhas de descarte de forma inteligente
+incentivando as boas práticas da coleta seletiva e reciclagem de material.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.3 implantação e/ou ampliação de ações de
+saneamento básico": a implementação de Ecopontos e locais de Entrega Voluntária corroboram para a questão de limpeza pública
+e manejo de resíduos sólidos;
+
+C - DESENVOLVIMENTO SOCIOAMBIENTAL E MODERNIZAÇÃO INSTITUCIONAL
+Este Componente compreende as ações de desenvolvimento socioambiental e modernização institucional do Programa.
+
+S - REASSENTAMENTOS E INDENIZAÇÕES
+Compreende a elaboração do Plano Específico de Reassentamento e Medidas Compensatórias (PERMC) e a sua execução.
+
+P - Elaboração do Plano Específico de Reassentamento e Medidas Compensatórias (PERMC)
+Esse produto corresponde ao financiamento da preparação do Plano Específico de Reassentamentos e Medidas Compensatórias (
+PERMC) para 308 famílias que ocupam a área de interesse do Programa ao longo do Igarapé da Cidade Nova e serão afetadas
+em decorrência da necessidade de deslocamentos para a implementação do projeto. Obedecerá a premissas instituídas no Manual
+de Instruções para Contratação e Execução dos Programas e Ações do Ministério das Cidades - Projetos Inseridos no Programa
+de Aceleração de Crescimento PAC, atendendo às disposições da Portaria 317/2013 e da Portaria 164/2014, estruturada em pelo
+menos quatro etapas com eventos participativos contendo: 1. Diagnóstico integrado; 2. Estudo de Concepção apresentando para a
+população afetada as soluções e medidas aplicáveis, fundamentos jurídicos, financeiros e institucionais; 3. Pactuação e
+Materialização do quadro de soluções e medidas aplicáveis conforme a caracterização de titularidade da população afetada sobre
+a área ou as edificações, acompanhadas dos procedimentos operacionais, jurídicos, financeiros e institucionais para
+disponibilização das relacionadas ao deslocamento; 4. Consolidação do Plano Específico de Reassentamento e Medidas
+Compensatórias, contendo a síntese dos produtos da Etapa 1 e 3 e mais a definição da estrutura institucional responsável pela
+implementação e monitoramento do Plano até seus termos finais; a composição para instituição de mecanismo de prevenção e
+mediação de eventuais conflitos decorrentes da intervenção; o orçamento final para implementação do Plano e o cronograma geral
+de execução.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.10 ações de inclusão de minorias sociais entre os
+beneficiários": o Plano Específico de Reassentamentos e Medidas Compensatórias (PERMC) estabelecerá as ações mitigatórias e
+compensatórias para cerca de 300 famílias em situação de vulnerabilidade ao longo da faixa de domínio das obras do
+PROANANIN de forma a garantir adequada reparação integral do direito à moradia nas modalidades de reassentamento familiar,
+coletivo e indenização. Importante salientar que a população diretamente afetada pelas ações do Programa é composta por
+minorias sociais, especialmente mulheres e jovens negros. Complementarmente, os programas de Capacitação Profissional,
+Fomento a Políticas de Gênero, Raça e Diversidade, como também o Programa de Educação Ambiental, tem como foco os
+mesmos recortes estabelecidos no PERMC.
+
+P - Execução de Medidas Compensatórias
+Esse produto corresponde a execução das Medidas Compensatórias e suas soluções estabelecidas no PERMC para as 308
+famílias ocupantes da área de interesse do Programa no Projeto do Igarapé da Cidade Nova, que inclui as ações de
+reassentamento e desapropriações. As medidas serão executadas conforme o perfil de cada família com a escolha de solução
+apropriada em negociação da equipe técnica com os beneficiários. A distribuição quantitativa das Medidas Compensatórias entre
+as famílias beneficiárias será conhecida ao decorrer do desenvolvimento dos trabalhos técnicos-sociais, que terá como balizador
+os seguintes atributos: Planta Geral de Valores (PGV); Avaliação técnica da benfeitoria com base no CUB/m²; e, Linha de Corte, a
+ser estabelecida pelo PERMC, que envolverá estudos de mercado e de dispositivos da legislação municipal, sob o qual estima-se
+preço de referência de R$ 108.418,24 para habitação popular na região.
+
+Para as 278 famílias em situação irregular, afetadas pelo reassentamento, se prevê: aluguel social aluguel social, no valor de 40%
+do salário mínimo, corrigido anualmente pelo índice adotado pelo munícipio, seguindo as disposições do Decreto Nº 319, de 21 de
+outubro de 2021 (ANEXO VII), nos casos de realocação temporária; destinação para unidade habitacional disponível na política
+habitacional do município; construção de moradia para destinação específica; compra assistida de imóvel regular em área próxima;
+e, indenização por benfeitoria em casos que se configurem acima da linha de corte definida no PERMC.
+
+Para as 30 famílias em situação regular, afetadas pela desapropriação, se prevê: indenização com base na Planta Geral de
+Valores somada a avaliação técnica das benfeitorias; e, oferta de compensação alternativa por meio de compra assistida nos
+casos que, porventura, estejam abaixo da linha de corte do PERMC.
+
+
+Página: 11
+
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.13 melhoria das condições de educação e saúde"
+: a caracterização das famílias que residem ao longo do Igarapé da Cidade Nova VI, aponta que a maioria dos seus imóveis são
+construídos de alvenaria sem reboco, com padrão baixo de habitabilidade e acesso precário a água e esgoto. O reassentamento
+dessas famílias retira essa população da exposição a um ambiente poluído, evitando doenças como diarreias, desidratação e
+infecções intestinais decorrente do consumo de água sem tratamento adequado. Ao adoecer as pessoas costumam afastar-se de
+suas atividades diárias, os estudantes por exemplo, apresentam baixo rendimento escolar em razão das faltas, o que interfere em
+seu desempenho.
+
+S - DESENVOLVIMENTO COMUNITÁRIO
+Compreende ações de desenvolvimento da comunidade local diretamente afetada e beneficiária do Programa.
+
+P - Programa de Capacitação Profissional
+Consiste no financiamento de ações voltadas para capacitação profissional da população beneficiada. Serão desenvolvidos cursos,
+palestras e seminários com foco em profissionalização, priorizando a relação com o processo de instalação do projeto e sua
+posterior relação com a comunidade. Os focos profissionais serão: construção civil, paisagismo e floricultura, gastronomia,
+atendimento ao público, estética e serviços gerais.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.6 melhoria do ambiente de negócios e/ou
+oportunidades": por meio do Programa de Capacitação Profissional, da participação da comunidade para a exploração de
+equipamentos implantados para o pequeno comércio e serviço local e de parcerias com outras instituições para a sustentabilidade
+do projeto entregue, haverá melhoria no ambiente de negócios e abertura de oportunidades de emprego e renda.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.7 benefícios para empreendedores individuais,
+micro e pequenas empresas": o Programa de Capacitação Profissional potencializará a organização de empreendedores
+individuais e, com a implantação dos equipamentos de esporte, cultura e lazer previstos, haverá oportunidades comerciais para
+micro e pequenas empresas, especialmente na atração de público consumidor de bens e serviços.
+
+P - Fortalecimento a Políticas de Gênero, Raça e Diversidade
+Financiará a fortalecimento da política de gênero, raça e diversidade na área do projeto. A ação será focada, prioritariamente, na
+população diretamente beneficiária e afetada pelas intervenções, objetivando combate à violência de gênero, ao racismo e a
+valorização da diversidade e das expressões sociais, sexuais, religiosas e culturais. Estima-se que a maior parte das famílias são
+chefiadas por mulheres negras e, com a urgência que o tema requer, se visualiza uma oportunidade para o fomento a
+conscientização social na questão de gênero, raça e diversidade. Com o desenvolvimento do PERMC e do Programa de
+Capacitação, serão ofertados cursos e eventos específicos sob o tema em parceria com instituições públicas de ensino. A iniciativa
+será sincronizada com as oportunidades de emprego e renda para mulheres, negros e negras, trans e travestis e outras
+populações socialmente vulneráveis.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.8 geração de emprego e renda para populações
+de baixa renda e vulneráveis": com o Programa de Capacitação Profissional somado ao Fomento a Políticas de Gênero, Raça e
+Diversidade, as populações mais vulneráveis poderão ter mais acesso a oportunidades de emprego e renda.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.11 políticas voltadas para juventude, gênero e
+raça": o Programa financiará campanhas de capacitação e educação, prioritariamente, a população diretamente afetada pelas
+intervenções do PROANANIN em temas relacionados a: capacitação de mulheres com vistas a promoção da igualdade de
+oportunidades no mundo do trabalho; capacitação de servidores da prefeitura municipal de Ananindeua e informação junto à
+comunidade escolar sobre a Lei Maria da Penha; capacitação e qualificação de jovens e mulheres atendidos pelos Programas de
+proteção social básica e especial; Programas de combate a homofobia entre outros. Todas as ações em sinergia com suas
+Secretarias Municipais competentes.
+
+P - Programa de Educação Ambiental
+Financiará ações do Programa de Educação Ambiental para a área do projeto. Como forma de garantir a maior sustentabilidade
+dos equipamentos implantados, o Programa de Educação Ambiental terá a aplicação de métodos participativos que objetivam a
+conscientização da comunidade local e sua relação com o meio ambiente, potencializando as boas práticas na manutenção dos
+parques, do igarapé e da sua área de proteção.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.1 promoção da sustentabilidade ambiental,
+incluindo ações de adaptação e mitigação": a disponibilidade de Ecopontos e Locais de Entrega Voluntária vinculada a campanhas
+de conscientização em separar lixo doméstico ( orgânico e não orgânico), campanhas de descarte de forma inteligente
+incentivando as boas práticas da coleta seletiva e reciclagem de material.
+
+S - DESENVOLVIMENTO ORGANIZACIONAL E MODERNIZAÇÃO
+Compreende ações para o aprimoramento tecnológico da gestão urbana do município, necessários para a sustentabilidade do
+Programa.
+
+
+Página: 12
+
+P - Implantação do Sistema de Informação e Gestão Territorial de Ananindeua - SIGAnanin
+Financiará as ações de implantação do Sistema de Informação e Gestão Territorial de Ananindeua - SIGAnanin. O SIGAnanin, com
+ferramenta de planejamento e monitoramento territorial essencial para a sustentabilidade do Programa, irá aprimorar o processo
+de tomadas de decisões, sejam apoiadas por informações cadastrais, cartográficas, econômicas ou sociodemográficas inter-
+relacionadas por meio de tecnologia de geoinformação. O custeio reúne as despesas com projeto ($100.000,00), infraestrutura ($
+250.000,00), aquisição de tecnologias e serviços ($600.000,00), coleta e conversão de dados ($250.000,00) e treinamentos ($200.
+000,00) ao longo de um período de implantação de cinco anos. As prioridades do sistema são: representação espacial dos
+elementos cadastrais (lotes, quadras, logradouros e imóveis) à base cartográfica, que apontará rotineiramente para a
+administração municipal a oportunidade de incremento de receita via IPTU e ISS; mapas interativos e atualizados a partir da
+legislação municipal, apoiando o processo de licenciamento de atividades, aprovação de projetos de construção, parcelamento
+territorial, diagnóstico e estruturação do Plano Diretor; cenários relativos ao sistema de transporte público do município,
+identificando pontos de paradas de coletivos e seus itinerários, localização de placas de trânsito e semáforos, condições da malha
+de circulação viária e monitoramento de acidentes; cenários com análise de surtos epidêmicos obtidas pelo rastreamento de
+ocorrências e localização das UBS's; cenários da rede de ensino municipal com a gestão de escolas, estudantes e currículos,
+monitoramento de índices educacionais e análise socioeconômica de estudantes; cenários de monitoramento de áreas de
+preservação, mapas temáticos com índice de desmatamento e reflorestamento. Outras aplicações poderão ser desenvolvidas e
+inseridas no sistema, conforme demanda e necessidades.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.12 melhoria e/ou inovação em processos de
+prestação de serviços públicos, de gestão e/ou de participação cidadã": a implantação do Sistema de Informação e Gestão
+Territorial de Ananindeua através do Programa, disponibilizará uma nova ferramenta para auxiliar o planejamento público do
+Município fazendo com que as tomadas de decisões sejam apoiadas por informações cadastrais, cartográficas, econômicas e
+sociodemográficas inter-relacionadas utilizando tecnologia de geoinformação. Destaca-se que, por se tratar de sistema de
+informação, a participação cidadã e/ou controle social em suas instancias terá acesso aos dados de políticas públicas do município
+com maior transparência.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.14 desenvolvimento, inovação e modernização
+tecnológica: com o SIGAnanin, o município se modernizará na política de desenvolvimento urbano e ordenamento territorial,
+criando oportunidades para o poder público municipal e aprimorando seus processos de tomada de decisão.
+
+P - Implantação do Sistema de Monitoramento Ambiental
+Financiará as ações necessárias para a implantação do Sistema de Monitoramento Ambiental, que apoiará as atividades da
+Secretaria Municipal de Meio Ambiente - SEMA, permitindo monitorar grandes áreas de proteção ambiental em tempo real e com
+baixo custo. O custeio reúne as despesas com projeto ($30.000,00), infraestrutura ($70.000,00), aquisição de tecnologias e
+serviços ($150.000,00) e treinamentos ($50.000,00), que capacitam o Município a monitorar extensivamente o perímetro urbano e
+rural em cenários que poderão ser inseridos e integrados na plataforma SIMA agregando-os a serviços públicos de: obtenção de
+licenças, cadastros ambientais e regularização ambiental; estudos de impactos ambientais; prevenção de desastres naturais;
+proteção da fauna e flora, entre outros.
+- De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, Item "1.14 desenvolvimento, inovação e modernização
+tecnológica: com o SIMA, que apoiará as atividades da Secretaria Municipal de Meio Ambiente - SEMA, permitirá monitorar
+grandes áreas de proteção ambiental em tempo real e com baixo custo.
+
+C - ADMINISTRAÇÃO, AUDITORIA E AVALIAÇÃO DO PROGRAMA
+Compreende a contratação de empresas especializadas, com o objetivo de prover à UGP (Unidade de Gestão do Programa) e aos
+demais Órgãos envolvidos na execução do PROANANIN o apoio devido e necessário, gerencial e técnico quando couber, de
+acordo com a natureza das ações previstas em cada componente.
+
+P - Gerenciamento e Supervisão de Obras
+Financiará a contratação de 01 Empresa Especializada pelo período de 60 (sessenta) meses, para dar apoio a estrutura da UGP,
+desempenhando as funções de Gerenciadora e Supervisora do Programa. Quanto Gerenciadora, compreenderá a administração
+das ações e atividades relacionadas ao planejamento e à execução do PROANANIN. Realizará o alinhamento contínuo da
+estratégia do Programa, o que inclui a determinação da melhor abordagem para atingir os objetivos propostos e não afetar as
+metas, a busca de soluções para os problemas, e a gestão de mudanças, entre outros aspectos. Quanto Supervisora,
+acompanhará o controle da qualidade dos serviços executados, incluindo a análise preliminar dos projetos, a supervisão técnica da
+execução, suporte técnico e de qualidade do material utilizado, além das indicações de mudanças nas situações locais e eventuais
+alterações necessárias, conforme a conveniência técnica e conceitual da intervenção.
+
+P - Monitoramento e Avaliação do Programa
+Financiará a contratação de 01 Equipe Técnica Especializada pelo período de 60 (sessenta) meses (cinco anos) para dar apoio à
+UGP, compreendendo a função mediadora entre os serviços a serem implantados e a sua apropriação pelas famílias beneficiárias.
+Considera-se como um componente estratégico para o Programa, uma nova prática que vem sendo utilizada em importantes
+projetos, que serve de termômetro para avaliar o impacto do Programa sobre a população; necessariamente deverá ser composta
+por uma equipe multidisciplinar de profissionais qualificados como assistentes sociais e sociólogos possibilitando que o trabalho
+social realizado supere os limites da ação localizada, buscando a inserção social das famílias afetadas em todas as fases do
+Programa:
+
+Pré-Obras: começa na assinatura do Termo de Compromisso ou Contrato até o início das obras e abrange atividades de
+divulgação de informações sobre a intervenção, projetos de obras e trabalho social.
+
+
+Página: 13
+
+Durante as Obras: abrange todo o período de produção física do empreendimento. Nesta fase são desenvolvidas as atividades
+relacionadas à constituição de grupos de acompanhamento do projeto, entidade representativa dos moradores, bem como a
+preparação dos beneficiários e sua integração com os serviços do projeto.
+
+Pós-Obras: corresponde à fase de apropriação das benfeitorias pela população, tem início com a utilização das benfeitorias pela
+população, com duração de até 12 meses para a avaliação dos resultados.
+
+P - Auditorias Externas
+O Produto refere-se à contratação de empresa especializada para a elaboração dos relatórios anuais de auditoria financeira
+durante o prazo de desembolso do Programa, em conformidade com o disposto no contrato de empréstimo. Os serviços
+contemplarão a verificação do cumprimento das cláusulas contratuais, a utilização dos recursos, as aquisições, os desembolsos,
+as justificativas de gastos, entre outros.
+
+Além da auditoria externa, o Programa estará sujeito às verificações da Controladoria do Município e do Tribunal de Contas do
+Estado do Pará (TCE/PA).
+
+Unidade de medida
+-
+metros
+
+Meta
+
+-
+700,00
+
+Valor
+
+% Financeiro
+
+22.850.000,00
+6.850.000,00
+
+30.000,00
+
+6.750.000,00
+
+125.000,00
+
+8.500.000,00
+
+Categoria de Gasto
+
+Obras
+P- Reabilitação do Igarapé da Cidade Nova e sua
+APP
+P- Implantação do Parque Urbano do Igarapé da
+Cidade Nova
+P- Implantação do Parque Ecológico do Igarapé
+da Cidade Nova
+P- Reorganização do Sistema de Mobilidade na
+Área de Interesse
+P- Implantação de EcoPontos
+Consultoria
+P- Elaboração de Projeto Básico e Executivo de
+Requalificação Urbana e Ambiental do Igarapé da
+Cidade Nova e suas Áreas de Interesse
+P- Elaboração de Plano de Recuperação de Áreas
+Degradadas (PRAD)
+P- Gerenciamento e Supervisão de Obras
+P- Monitoramento e Avaliação do Programa
+P- Auditorias Externas
+Capacitação e Treinamento
+P- Programa de Capacitação Profissional
+P- Fortalecimento a Políticas de Gênero, Raça e
+Diversidade
+P- Programa de Educação Ambiental
+Outros
+P- Elaboração do Plano Específico de
+Reassentamento e Medidas Compensatórias (
+PERMC)
+P- Execução de Medidas Compensatórias
+P- Implantação do Sistema de Informação e
+Gestão Territorial de Ananindeua - SIGAnanin
+P- Implantação do Sistema de Monitoramento
+Ambiental
+Total Geral
+
+m2
+
+m2
+
+km
+
+estações de coleta
+-
+unidade
+
+unidade
+
+unidade
+unidade
+unidades
+-
+Programa
+unidade
+
+unidade
+-
+famílias
+
+famílias
+sistema
+
+sistema
+
+-
+
+1,80
+
+38,00
+-
+1,00
+
+1,00
+
+1,00
+1,00
+1,00
+-
+1,00
+1,00
+
+1,00
+-
+308,00
+
+308,00
+1,00
+
+1,00
+
+-
+
+52,23
+15,66
+
+15,43
+
+19,43
+
+1,60
+
+0,11
+22,63
+5,14
+
+0,34
+
+14,86
+1,60
+0,69
+0,69
+0,34
+0,11
+
+0,23
+24,46
+0,57
+
+20,00
+3,20
+
+0,69
+
+700.000,00
+
+50.000,00
+9.900.000,00
+2.250.000,00
+
+150.000,00
+
+6.500.000,00
+700.000,00
+300.000,00
+300.000,00
+150.000,00
+50.000,00
+
+100.000,00
+10.700.000,00
+250.000,00
+
+8.750.000,00
+1.400.000,00
+
+300.000,00
+
+43.750.000,00
+
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Nas áreas de interesse do Igarapé da Cidade Nova, no escopo do PROANANIN, foram realizadas:
+
+I. Obras de drenagem e urbanização nas áreas do trecho 1 do Igarapé da Cidade Nova (0,21 km): O Trecho 1, identificado no Anexo XII,
+foi beneficiado por investimentos voltados para sua infraestrutura de drenagem. As características urbanas e ambientais desse trecho são
+distintas do restante do igarapé por tratar de área de urbanização regular consolidada, limítrofe a diversos equipamentos urbanos como a
+feira pública ("Feira do 6"), a praça da feira, a Unidade Básica de Saúde ("UBS do 6"), o edifício-sede da Secretaria Municipal de Saúde (
+SESAU), entre outros. O sistema construtivo apresenta contenção com "gabião", estrutura armada drenante composta por colchão de
+pedra britada retida por fios de aço galvanizado. Com a conclusão das obras, houve redução dos problemas de alagamento da área e
+eliminação total dos problemas de assoreamento e erosão no trecho.
+
+II. Trabalhos técnicos-sociais preliminares de levantamento local para elaboração do Plano Específico de Reassentamento e Medidas
+Compensatórias (PERMC) do Igarapé da Cidade Nova: A prefeitura realizou os primeiros levantamentos técnicos-sociais para traçar o
+perfil das famílias que habitam na área de interesse do projeto. Esse trabalho foi determinante para a viabilidade do pleito no planejamento
+municipal e para tomada de decisão na priorização das ações do projeto no curto e médio prazo. A partir disso, com a disponibilidade dos
+recursos necessários, os dados e informações coletadas serão a base para a consolidação do PERMC.
+
+
+Página: 14
+
+III. Desapropriações: foi realizado levantamento técnico-social preliminar para elaboração do Plano Específico de Reassentamento e
+Medidas Compensatórias (PERMC). A partir deste estudo foi possível identificar imóveis regulares de uso habitacional, comercial e misto
+que possuem evidências documentais com certidão de registro de imóveis e levantamento cadastral atualizados, mas que estão situados
+em área de interesse do Programa. Totalizam 30(trinta) imóveis com 30(trinta) famílias e 3.290m² de área construída.
+
+IV. Estudo de concepção para replanejamento do projeto, objetivando a requalificação urbana e ambiental das áreas de interesse do
+Igarapé da Cidade Nova: A partir das análises técnicas urbanísticas e ambientais, buscando maior nível de sustentabilidade e menor
+impacto ambiental, a prefeitura determinou uma nova concepção para o projeto. A nova concepção tem como diretriz a recuperação
+ambiental do igarapé e a requalificação urbana de suas áreas de interesse. Isso é a base para elaboração dos projetos básicos e
+executivos.
+
+V. Organização da Unidade Gestora do Programa de Requalificação Urbana e Ambiental de Ananindeua (UGP-PROANANIN) na estrutura
+da Secretaria Municipal de Saneamento e Infraestrutura (SESAN): A UGP foi devidamente constituída pela Lei Nº 3.319, de 27 de abril de
+2023 (ANEXO VIII), encontrando-se em funcionamento na estrutura administrativa da SESAN.
+
+VI. Lei autorizativa de captação de recursos externos para o desenvolvimento e aprimoramento do PROANANIN. Por meio da Lei Nº 3.310
+, de 18 de abril de 2023 (ANEXO IX), o Município de Ananindeua foi autorizado a realizar operação de crédito de natureza financeira no
+valor de Us$ 35.000.000,00 (trinta e cinco milhões de dólares) para investimentos no âmbito do PROANANIN.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Municipal
+
+MUNICIPIO DE  ANANINDEUA(PA)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+Ao iniciar o estudo da situação de diagnóstico estratégico do Município de Ananindeua, com o levantamento de dados tais como os
+indicadores sociais, econômicos, de infraestrutura e de saneamento básico do Município, identificou-se a necessidade de recursos
+superiores aos projetados na fonte do Tesouro Municipal para aporte nos investimentos que estão Programados no PPA 2022-2025 em
+cumprimento ao disposto no inciso I, do art. 165 da Constituição Federal e no art. 144 da Lei Orgânica do Município, aprovado pela
+Câmara Municipal de Ananindeua e sancionado pelo atual Governo.
+
+Objetivando-se constituir um instrumento mitigador para o desiquilíbrio financeiro decorrente do atual cenário de redução de receitas
+próprias que persiste em todos os entes subnacionais decorrente da fase pós-pandemia e da redução permanente das alíquotas de ICMS,
+conforme Lei Complementar 194/2022 aprovadas no Congresso Nacional com apoio do Governo Federal, fica evidente que o Município
+de Ananindeua sozinho não será capaz de realizar todos os investimentos necessários para desenvolver, aprimorar e avançar no alcance
+aos objetivos do PROANANIN.
+
+Sendo assim, em busca da realização da diretriz de Governo "Melhoria da Qualidade de Vida com Justiça Social e Econômica", que
+agrega as políticas de Saúde, Educação, Assistência Social, Segurança Pública, Cultura, Esporte e Lazer, Habitação e Mulher; e da
+diretriz "Ordenamento, Infraestrutura e Desenvolvimento Sustentável" que integra as políticas de Trabalho, Emprego e Renda, Turismo,
+Saneamento, Serviços Públicos, Mobilidade Urbana e Meio Ambiente e, Gestão Institucional, estruturou-se um modelo de captação de
+recursos com base propostas de financiamento de agentes e organismos financeiros, tanto no âmbito interno como externo, considerando
+ser o Município de Ananindeua um dos poucos entes subnacionais que possui nota de capacidade de pagamento, classificada como rating
+"A", que permite que o Município esteja elegível a receber garantia da União para novos empréstimos, bem como paralelamente, possui
+espaço fiscal para pleitear aprovação de empréstimo perante o Governo Federal.
+
+O primeiro olhar do Município para custear o projeto foi de consulta aos bancos brasileiros, sendo que, em todas as condições de crédito
+interno ofertadas pelos agentes financeiros nacionais, as taxas de juros foram significativamente superiores às dos organismos
+internacionais consultados.
+
+Após a análise financeira, com base nas condições financeiras elencadas no subitem a seguir, o Município deliberou por escolher o Fundo
+Financeiro para Desenvolvimento da Bacia do Prata - FONPLATA, que foi o organismo que ofertou a melhor proposta com taxas de juros
+e outros encargos considerados mais atrativos para o município.
+
+Cabe ressaltar que o FONPLATA oferece aos mutuários uma taxa preferencial denominada Linha de Apoio à Reativação Econômica (para
+mitigação dos efeitos da pandemia), aplicada automaticamente à metade do valor do empréstimo, bem como adicionalmente oferece a
+modalidade Linha de Financiamento Verde para intervenções do Programa declaradas elegíveis pelo Banco, que reduzem a taxa de juros
+aplicável de 2,6% para 2,1%. Esta redução traz um impacto muito positivo, levando a taxa do FONPLATA a ficar muito próxima às dos
+demais organismos financiadores externos.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 15
+
+Com isto, mesmo com as taxas do FONPLATA ficando levemente acima, não se considera a diferença suficiente como único critério para
+optar por outras possíveis fontes que, eventualmente, ainda tendo condições financeiras levemente mais favoráveis, apresentam e exigem
+requerimentos que poderiam estender exageradamente aos tempos de preparação e execução do Programa, pois demandariam gastos
+de recursos e tempos adicionais para o cumprimento de suas normas de aquisições, sociais e ambientais, bem mais complexas.
+
+Além disso o FONPLATA é um dos bancos multilaterais pioneiros na América Latina ao ter um Quadro de Dívida Sustentável alinhado
+com a Associação Internacional de Mercados de Capital (ICMA), expondo seu firme compromisso com as questões ambientais alinhadas
+à Agenda 2030 das Nações Unidas e ao Acordo de Paris.
+
+Três bancos multilaterais consultados apresentaram propostas de condições financeiras:
+
+Agente Financiador: FONPLATA - Fundo Financeiro para Desenvolvimento da Bacia do Prata (Agente Financeiro Escolhido)
+
+Prazo de Carência: 48 meses
+
+Prazo de Desembolso: 60 meses
+
+Prazo de Amortização: 132 meses (o empréstimo será amortizado pelo município mediante o pagamento de até 22 (vinte) parcelas
+semestrais, consecutivas e preferencialmente iguais, acrescidas dos juros no vencimento de cada uma das parcelas);
+
+Prazo Total do Financiamento: 180 meses
+
+Taxa de Juros: SOFR + 2,0 - 2,6% a.a
+
+Demais Encargos e Comissões: Comissão de compromisso de 0,35% a.a. sobre o saldo não desembolsado do empréstimo, aplicado seis
+meses após a assinatura do contrato; comissão de Administração (depende do tempo requerido para a assinatura do Contrato de
+Empréstimo após da aprovação da Diretoria do FONPLATA): 0,55% (até 360 dias) e 0,70% (entre 361 a 720 dias), calculado sobre o
+montante total do empréstimo, a ser pago até a data do primeiro desembolso.
+
+Agente Financiador:NDB - New Development Bank
+
+Prazo de Carência: 60 meses
+
+Prazo de Desembolso: 60 meses
+
+Prazo de Amortização: 156 meses
+
+Prazo Total do Financiamento: 216 meses
+
+Taxa de Juros: aproximadamente SOFR (6 meses) + 1,35% a.a.
+
+Demais Encargos e Comissões: Comissão de Compromisso: 0,25% a.a. sobre o saldo não desembolsado do empréstimo, aplicado seis
+meses após a assinatura do contrato
+
+Comissão de Financiamento: 0,25% do montante do empréstimo, a ser pago até a data do primeiro desembolso
+
+Agente Financiador:CAF - Corporação Andina de Fomento
+
+Prazo de Carência: 60 meses
+
+Prazo de Desembolso: 60 meses
+
+Prazo de Amortização: 156 meses
+
+Prazo Total do Financiamento: 216 meses
+
+Taxa de Juros: SOFR (6 meses) + 2% a.a
+
+Demais Encargos e Comissões: Comissão de Compromisso: 0,85% + Comissão de Administração US$ 50.000
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 16
+
+O Município optou por utilizar no apoio financeiro à execução do projeto a fonte de recursos do FONPLATA, por apresentar diferenciais
+relativos aos seguintes fatores: 1. Presteza e agilidade no atendimento, se colocando sempre disponível em atender os requerimentos
+necessários para o desenvolvimento do Programa, o que foi determinante para avaliar a viabilidade financeira e técnica da operação; 2.
+Não contemplar a cobrança de taxas de avaliação em suas missões, que já estão inclusas na comissão de financiamento. Esse fator
+permitiu um avanço rápido do trâmite do pleito sem gerar compromissos financeiros futuros ao Programa, que na análise financeira da
+Operação geralmente é considerado um custo a mais sob as condições financeiras estabelecidas; 3. Acompanhamento periódico do
+município em todo o processo que será fundamental para garantir que o pleito possa chegar em seu objetivo de assinatura em tempo mais
+oportuno e viável, conforme Programação de investimento.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+A recuperação urbana e ambiental da área de interesse do Igarapé da Cidade Nova beneficiará, diretamente, 1.232 pessoas ou 308
+famílias residentes ao longo do Igarapé da Cidade Nova. Indiretamente, o projeto beneficiará uma área urbana consolidada cuja sua
+população é de, aproximadamente, 80.000 pessoas. Segundo levantamento preliminar da prefeitura, essa população é majoritariamente
+formada por mulheres de baixa renda que se identificam como negras ou pardas.
+
+Áreas Estratégicas e Impactos do Projeto
+
+De acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, as intervenções devem considerar os impactos sociais,
+ambientais e econômicos do projeto bem como elencar as áreas estratégicas a serem abrangidas. Para tanto, foram considerados os
+seguintes itens de avaliação:
+
+Item "1.1 promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação": relacionam-se ações do PROANANIM
+referente ao tema:
+
+(a) a disponibilidade de Ecopontos e Locais de Entrega Voluntária vinculada a campanhas de conscientização em separar lixo doméstico (
+orgânico e não orgânico), campanhas de descarte de forma inteligente incentivando as boas práticas da coleta seletiva e reciclagem de
+material;
+
+(b) a preparação e implementação do Plano de Recuperação de Áreas Degradadas do Igarapé da Cidade Nova VI, que restabelece os
+limites da sua Área de Proteção Permanente, recompondo a vegetação ciliar com espécies nativas e consequentemente promovendo a
+regeneração dos ecossistemas;
+
+(c) a implantação do Parque Ecológico que além de preservar uma grande área que sofre com a pressão antrópica, oferecerá um grande
+potencial de gerar significativos impactos ambientais, oferecendo um Centro de Educação Ambiental.
+
+Item "1.2 eficiência energética, geração e/ou uso de energia de fontes renováveis": dentro do PROANANIN relacionam-se as seguintes
+ações:
+
+(a) a implementação do uso da tecnologia de Jardins Filtrantes dentro do Parque Ecológico, um sistema natural para tratamento de águas
+poluídas do Igarapé da Cidade Nova VI, eliminando o elevado consumo de energia na utilização das tradicionais Estações de Tratamento
+de Esgoto - ETEs;
+
+(b) o Parque Linear e o Parque Ecológico utilizarão a iluminação pública de tecnologia LED, mais eficiente e menos poluente do que as
+tradicionais lâmpadas de vapor metálico; seus sistemas de irrigação serão automatizados e suas bombas alimentadas através de um
+sistema de captação de energia solar, através de placas solares instaladas em áreas seguras em quiosques e outros espaços cobertos;
+
+Item "1.3 implantação e/ou ampliação de ações de saneamento básico" relaciona-se as seguintes ações do Programa:
+
+(a) a implementação de Ecopontos e locais de Entrega Voluntária corroboram para a questão de limpeza pública e manejo de resíduos
+sólidos;
+
+(b) a macrodrenagem do Igarapé da Cidade Nova VI escoará de forma adequada as águas provenientes das galerias pluviais urbanas;
+
+(c) a requalificação urbana que ocorrerá com a implementação do Parque Linear reconstitui sistemas de microdrenagem antigos e
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 17
+
+subdimensionados.
+
+Item "1.4 gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes": identificam-se as
+seguintes ações no PROANANIM:
+
+(a) a implantação do Parque Linear considerando o cuidado que a superfície permeável seja no mínimo 80% do total da sua área,
+favorece a infiltração direta no solo, abastecendo os lençóis freáticos e as nascentes, além de reduzir os riscos de inundação já que os
+sistemas urbanos de drenagem conseguirão receber uma quantidade menor de água da chuva;
+
+(b) as águas provenientes no processo de tratamento dos Jardins Filtrantes no Parque Ecológico deverão ser utilizadas nos sistemas de
+irrigação dos parques.
+
+Item "1.5 conservação e manejo da biodiversidade e/ou de recursos florestais" relaciona-se as seguintes ações do Programa:
+
+(a) o PRAD - Plano de Recuperação de Áreas Degradadas criado para o PROANANIN, definirá as medidas necessárias para a restituição
+e monitoramento de áreas degradadas e para o restabelecimento do equilíbrio natural do meio ambiente, levando em consideração
+critérios de máxima diversidade de espécies respeitando as características do ecossistema local, numa área de 2,5ha correspondente a
+Área de Proteção Permanente do leito do igarapé.
+
+Item "1.6 melhoria do ambiente de negócios e/ou oportunidades" relaciona-se as seguintes ações do Programa:
+
+(a) por meio do Programa de Capacitação Profissional, da participação da comunidade para a exploração de equipamentos implantados
+para o pequeno comércio e serviço local e de parcerias com outras instituições para a sustentabilidade do projeto entregue, haverá
+melhoria no ambiente de negócios e abertura de oportunidades de emprego e renda.
+
+(b) Com a Implantação do Parque Urbano do Igarapé da Cidade Nova, haverá disposição de espaços públicos para a exploração
+econômica, o que fará com que empreendedores que tenham permissão da Prefeitura para atuar nesses espaços sirvam produtos cada
+vez mais diversificados, que, além de comidas, incluirão cosméticos, artesanatos e outros, fortalecendo suas atividades econômicas e
+encontrando nesses espaços públicos oportunidades para crescer.
+
+Item "1.7 benefícios para empreendedores individuais, micro e pequenas empresas" relaciona-se as seguintes ações do Programa:
+
+(a) o Programa de Capacitação Profissional potencializará a organização de empreendedores individuais e, com a implantação dos
+
+equipamentos de esporte, cultura e lazer previstos, haverá oportunidades comerciais para micro e pequenas empresas, especialmente na
+atração de público consumidor de bens e serviços. (b) os permissionários cadastrados pela Prefeitura para a exploração econômica das
+áreas do Parque Urbano e do Parque Ecológico deverão receber suporte e capacitação através da Agência do Empreendedor, criada e
+gerenciada pela Secretaria Municipal de Desenvolvimento Econômico (SEDEC) em Cooperação Técnica com o SEBRAE, fruto de uma
+parceria firmada desde setembro de 2021. Além disso, entende-se que a infraestrutura criada possibilitará o desenvolvimento da prática
+empreendedora, criando um cenário adequado e acessível de novos negócios e negócios existentes.
+
+Item "1.8 geração de emprego e renda para populações de baixa renda e vulneráveis" relaciona-se as seguintes ações do Programa:
+
+(a) Com o Programa de Capacitação Profissional somado ao Fomento a Políticas de Gênero, Raça e Diversidade, as populações mais
+
+vulneráveis poderão ter mais acesso a oportunidades de emprego e renda. (b) o apoio ao empreendedorismo impulsionado pelas
+
+oportunidades de negócios criadas pela implantação do Parque Urbano e do Parque Ecológico incentivará que trabalhadores informais
+tornem-se formais, possibilitando o acesso a benefícios e facilidades que antes eram restritos aos empresários de maior porte, como
+facilidade de acesso a benefícios previdenciários, redução da carga tributária, emitir notas fiscais e, assim, ter acesso a um mercado maior
+, além de ter mais facilidade para conseguir empréstimos e financiamentos, conseguindo gerar empregos diretos e indiretos.
+
+Item "1.9 infraestrutura e/ou equipamentos sociais para populações de baixa renda e vulneráveis" relaciona-se as seguintes ações do
+Programa:
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 18
+
+(a) a infraestrutura, equipamentos e mobiliário do Parque Linear e do Parque Ecológico oferecerá a população no seu entorno espaços
+públicos de qualidade, permitindo a realização de atividades de integração e lazer, assegurando seus direitos em elevar sua qualidade de
+vida. Além disso ações de todo o programa são previstas em áreas periféricas e, a partir disso, as diretrizes estabelecem que os
+investimentos realizados retornem em benefícios diretos a população de baixa renda e vulnerável que habita na região. Os equipamentos
+previstos serão utilizados para o desenvolvimento de políticas de inclusão social, educação, esporte, cultura e lazer.
+
+Item "1.10 ações de inclusão de minorias sociais entre os beneficiários" relaciona-se as seguintes ações do Programa:
+
+(a) o Plano Específico de Reassentamentos e Medidas Compensatórias (PERMC) estabelecerá as ações mitigatórias e compensatórias
+para cerca de 300 famílias em situação de vulnerabilidade ao longo da faixa de domínio das obras do PROANANIN de forma a garantir
+adequada reparação integral do direito à moradia nas modalidades de reassentamento familiar, coletivo e indenização. Importante
+salientar que a população diretamente afetada pelas ações do Programa é composta por minorias sociais, especialmente mulheres e
+jovens negros. Complementarmente, os programas de Capacitação Profissional, Fomento a Políticas de Gênero, Raça e Diversidade,
+como também o Programa de Educação Ambiental, tem como foco os mesmos recortes estabelecidos no PERMC.
+
+Item "1.11 políticas voltadas para juventude, gênero e raça" relaciona-se as seguintes ações do Programa:
+
+(a) o Programa financiará campanhas de capacitação e educação, prioritariamente, a população diretamente afetada pelas intervenções
+do PROANANIN em temas relacionados a: capacitação de mulheres com vistas a promoção da igualdade de oportunidades no mundo do
+trabalho; capacitação de servidores da prefeitura municipal de Ananindeua e informação junto à comunidade escolar sobre a Lei Maria da
+Penha; capacitação e qualificação de jovens e mulheres atendidos pelos Programas de proteção social básica e especial; Programas de
+combate a homofobia entre outros. Todas as ações em sinergia com suas Secretarias Municipais competentes.
+
+Item "1.12 melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão e/ou de participação cidadã" relaciona-se
+as seguintes ações do Programa:
+
+(a) a implantação do Sistema de Informação e Gestão Territorial de Ananindeua através do Programa, disponibilizará uma nova
+ferramenta para auxiliar o planejamento público do Município fazendo com que as tomadas de decisões sejam apoiadas por informações
+cadastrais, cartográficas, econômicas e sociodemográficas inter-relacionadas utilizando tecnologia de geoinformação. Destaca-se que, por
+se tratar de sistema de informação, a participação cidadã e/ou controle social em suas instancias terá acesso aos dados de políticas
+públicas do município com maior transparência.
+
+Item "1.13 melhoria das condições de educação e saúde" relaciona-se as seguintes ações do Programa:
+
+(a) a caracterização das famílias que residem ao longo do Igarapé da Cidade Nova VI, aponta que a maioria dos seus imóveis são
+construídos de alvenaria sem reboco, com padrão baixo de habitabilidade e acesso precário a água e esgoto. O reassentamento dessas
+famílias retira essa população da exposição a um ambiente poluído, evitando doenças como diarreias, desidratação e infecções intestinais
+decorrente do consumo de água sem tratamento adequado. Ao adoecer as pessoas costumam afastar-se de suas atividades diárias, os
+estudantes por exemplo, apresentam baixo rendimento escolar em razão das faltas, o que interfere em seu desempenho.
+
+Item "1.14 desenvolvimento, inovação e modernização tecnológica" relaciona-se as seguintes ações do Programa:
+
+(a) com o SIGAnanin, o município se modernizará na política de desenvolvimento urbano e ordenamento territorial, criando oportunidades
+para o poder público municipal e aprimorando seus processos de tomada de decisão.
+
+(b) com o SIMA, que apoiará as atividades da Secretaria Municipal de Meio Ambiente - SEMA, permitirá monitorar grandes áreas de
+proteção ambiental em tempo real e com baixo custo.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 19
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Fundo Financeiro para o Desenvolvimento
+da Bacia do Prata - FONPLATA
+Total:
+
+Sigla
+
+CF
+Sigla
+
+Moeda
+
+US$
+Moeda
+
+Valor Proposto
+
+8.750.000,00
+Valor Proposto
+
+FONPLATA US$
+
+35.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+8.750.000,00
+Valor de Referência US
+$
+35.000.000,00
+
+43.750.000,00
+
+43.750.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+ÓRGÃO EXECUTOR - Secretaria Municipal de Saneamento e Infraestrutura (SESAN)
+
+Responsável pela administração, coordenação e supervisão do Programa. A responsabilidade direta pela administração do Programa
+caberá a Unidade de Gerenciamento do Programa (UGP), que deverá ser criada especialmente para este fim e vinculada ao Órgão
+Executor.
+
+COMITÊ DE ACOMPANHAMENTO E APOIO AO PROGRAMA - (SEPOF / SEGEF / PROGE / SEHAB / SEMMU /SEMCAT / SEMA)
+
+Responsável em promover a articulação da SESAN/UGP com as demais secretarias da administração municipal. Apoia e acompanha a
+execução física e financeira do Programa, no âmbito de cada secretaria que o compõem, deverá ser constituído através de um Decreto
+Municipal, em caráter temporário, funcionando como facilitador das demandas do Programa.
+
+Para facilitar esse processo de definição de papéis e responsabilidades, a MATRIZ DE RESPONSABILIDADE INSTITUCIONAL (matriz
+RACI - Anexo XIII) cria um mapa para as atividades de implementação do PROANANIN - Programa de Requalificação Urbana e Ambiental
+de Ananindeua. O modelo operacional proposto na implantação do PROANANIN é de uma execução centralizada, com a SESAN (
+Secretaria Municipal de Saneamento e Infraestrutura) operando como Órgão Executor, que por intermédio de sua UGP, vinculada a esta
+Secretaria, responsável por planejar e realizar a gestão técnica, administrativa e fiduciária, bem como o monitoramento e avaliação do
+Programa. A UGP-PROANANIN representará o Órgão Executor, assumindo as funções de decisão e execução relacionadas a gestão da
+implantação do Programa, e poderá ser composta por servidores públicos e/ou ocupantes de cargos comissionados da Prefeitura
+Municipal de Ananindeua e/ou, ainda, por profissionais contratados para o Programa. Integrarão a equipe chave da UGP os seguintes
+especialistas, em dedicação exclusiva: 01 Coordenador Geral, 01 Subcoordenador de Planejamento, Monitoramento e Avaliação, 01
+Subcoordenador de Engenharia e Arquitetura, 01 Subcoordenador de Gestão Social e Ambiental, 01 Subcoordenador Apoio Operacional e
+Logística. O suporte técnico a UGP dar-se-á com contratação de duas (02) empresas, com recursos do empréstimo: 01 Gerenciadora que
+disponibilizará o efetivo técnico responsável pela Gestão do Programa e pelo Trabalho Técnico-Social; 01 Supervisora que disponibilizará
+o efetivo técnico responsável pela fiscalização das Obras e Serviços contemplados no Programa. Especificamente no que tange a
+licitações relacionadas ao Programa, será criada em caráter temporário uma Comissão Especial de Licitação (CEL), vinculada a UGP,
+onde será alocado em regime de dedicação exclusiva um membro da Comissão Permanente de Licitação da SESAN para apoio ao
+Projeto. Deverá ser criado um Comitê de Acompanhamento e Apoio ao Programa presidido pelo Secretário titular da SESAN, apoiado pelo
+Coordenador Geral da UGP, tendo como membros efetivos representantes das secretarias municipais envolvidas nas ações do Programa
+(Secretaria Municipal de Planejamento, Orçamento e Finanças - SEPOF, Secretaria Municipal de Gestão Fazendária - SEGEF,
+Procuradoria Geral do Município - PROGE, Secretaria Municipal de Habitação - SEHAB, Secretaria Municipal de Cidadania, Assistência
+Social e Trabalho - SEMCAT, Secretaria Municipal da Mulher - SEMMU e Secretaria Municipal de Meio Ambiente - SEMA.
+
+A Prefeitura Municipal de Ananindeua entende que o PROANANIN é um esforço temporário que implicará na mobilização de recursos
+humanos, financeiros, técnicos e materiais dedicados para a consecução de um resultado, em função disso a opção pela contratação de
+empresas que ficarão exclusivamente responsáveis para esta finalidade.
+
+Os recursos financeiros da Operação de Crédito para pagamento de despesas elegíveis, deverão ser solicitados ao Agente Financiador
+mediante apresentação de um Plano Financeiro emitido pela SESAN/UGP, com anuência da SEPOF/SEGEF, de periodicidade semestral (
+mínimo), e posteriormente depositados para a SEGEF em conta bancária específica do Programa. Caberá a SEGEF transferir os recursos
+a SESAN/UGP para o cumprimento das obrigações pactuadas nos contratos firmados para a execução do Programa, bem como os
+recursos de contrapartida local, conforme estabelecido inicialmente no Plano Financeiro.
+
+Quanto às políticas de aquisição do agente financiador, o Programa utilizará o caderno de "Política para aquisição de bens, obras e
+serviços em operações financiadas pelo FONPLATA - Resolução RD N° 1394/2017 - como diretriz para aquisições na execução do
+Programa.
+
+Quanto às políticas sociais e ambientais, o Programa utilizará o caderno de "Estratégia Socioambiental do FONPLATA" além das
+"Diretrizes Operacionais para a Gestão Socioambiental no Ciclo de Projetos do FONPLATA" como diretrizes socioambientais na execução
+do Programa
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 20
+
+Portanto, cabe registrar que as políticas de aquisição e salvaguardas do FONPLATA são de conhecimento do Órgão executor e são
+similares às normas nacionais para tal finalidade.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Secretaria Municipal de Saneamento Ambiental de Ananindeua
+
+Representante Oficial: Paulo Roberto Cavalleiro de Macedo
+
+Endereço da Sede: Av. Três Corações, 5650 - Coqueiro, Ananindeua - PA, 67015-230
+E-mail Institucional:
+
+Telefone: (91) 3268-6972
+
+CNPJ: 29255048000122
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+C - ESTUDOS, PROJETOS E OBRAS
+
+S - DESENVOLVIMENTO DE ESTUDOS E PROJETOS
+
+COMPONENTES
+
+P - Elaboração de Projeto Básico e Executivo de Requalificação Urbana e Ambiental do Igarapé
+da Cidade Nova e suas Áreas de Interesse
+P - Elaboração de Plano de Recuperação de Áreas Degradadas (PRAD)
+
+S - OBRAS
+
+P - Reabilitação do Igarapé da Cidade Nova e sua APP
+
+P - Implantação do Parque Urbano do Igarapé da Cidade Nova
+
+P - Implantação do Parque Ecológico do Igarapé da Cidade Nova
+
+P - Reorganização do Sistema de Mobilidade na Área de Interesse
+
+P - Implantação de EcoPontos
+
+VALOR
+
+CUSTO
+
+25.250.000,00
+
+2.400.000,00
+
+2.250.000,00
+
+150.000,00
+
+22.850.000,00
+
+6.850.000,00
+
+6.750.000,00
+
+8.500.000,00
+
+700.000,00
+
+50.000,00
+
+Fax:
+UF:
+
+Ano 1
+
+FONTES
+
+CF
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+FONPLATA
+
+2.250.000,00
+
+2.250.000,00
+
+2.250.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+C - DESENVOLVIMENTO SOCIOAMBIENTAL E MODERNIZAÇÃO INSTITUCIONAL
+
+11.000.000,00
+
+4.750.000,00
+
+1.510.000,00
+
+S - REASSENTAMENTOS E INDENIZAÇÕES
+
+9.000.000,00
+
+4.750.000,00
+
+250.000,00
+
+P - Elaboração do Plano Específico de Reassentamento e Medidas Compensatórias (PERMC)
+
+250.000,00
+
+0,00
+
+250.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+FONPLATA
+
+P - Execução de Medidas Compensatórias
+
+S - DESENVOLVIMENTO COMUNITÁRIO
+
+P - Programa de Capacitação Profissional
+
+P - Fortalecimento a Políticas de Gênero, Raça e Diversidade
+
+P - Programa de Educação Ambiental
+
+S - DESENVOLVIMENTO ORGANIZACIONAL E MODERNIZAÇÃO
+
+P - Implantação do Sistema de Informação e Gestão Territorial de Ananindeua - SIGAnanin
+
+P - Implantação do Sistema de Monitoramento Ambiental
+
+C - ADMINISTRAÇÃO, AUDITORIA E AVALIAÇÃO DO PROGRAMA
+
+P - Gerenciamento e Supervisão de Obras
+
+P - Monitoramento e Avaliação do Programa
+
+P - Auditorias Externas
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - ESTUDOS, PROJETOS E OBRAS
+
+S - DESENVOLVIMENTO DE ESTUDOS E PROJETOS
+
+COMPONENTES
+
+P - Elaboração de Projeto Básico e Executivo de Requalificação Urbana e Ambiental do Igarapé
+da Cidade Nova e suas Áreas de Interesse
+P - Elaboração de Plano de Recuperação de Áreas Degradadas (PRAD)
+
+S - OBRAS
+
+P - Reabilitação do Igarapé da Cidade Nova e sua APP
+
+P - Implantação do Parque Urbano do Igarapé da Cidade Nova
+
+P - Implantação do Parque Ecológico do Igarapé da Cidade Nova
+
+P - Reorganização do Sistema de Mobilidade na Área de Interesse
+
+P - Implantação de EcoPontos
+
+8.750.000,00
+
+4.750.000,00
+
+300.000,00
+
+150.000,00
+
+50.000,00
+
+100.000,00
+
+1.700.000,00
+
+1.400.000,00
+
+300.000,00
+
+7.500.000,00
+
+6.500.000,00
+
+700.000,00
+
+300.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+60.000,00
+
+30.000,00
+
+10.000,00
+
+20.000,00
+
+1.200.000,00
+
+1.000.000,00
+
+200.000,00
+
+1.460.000,00
+
+1.300.000,00
+
+100.000,00
+
+60.000,00
+
+0,00
+
+4.750.000,00
+
+5.220.000,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+FONPLATA
+
+VALOR
+
+CUSTO
+
+CF
+
+Ano 2
+
+FONTES
+
+FONPLATA
+
+3.270.000,00
+
+150.000,00
+
+0,00
+
+150.000,00
+
+3.120.000,00
+
+850.000,00
+
+750.000,00
+
+1.500.000,00
+
+0,00
+
+20.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+C - DESENVOLVIMENTO SOCIOAMBIENTAL E MODERNIZAÇÃO INSTITUCIONAL
+
+4.000.000,00
+
+560.000,00
+
+S - REASSENTAMENTOS E INDENIZAÇÕES
+
+P - Elaboração do Plano Específico de Reassentamento e Medidas Compensatórias (PERMC)
+
+P - Execução de Medidas Compensatórias
+
+S - DESENVOLVIMENTO COMUNITÁRIO
+
+P - Programa de Capacitação Profissional
+
+4.000.000,00
+
+0,00
+
+4.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+60.000,00
+
+30.000,00
+
+(cid:10)
+(cid:10)
+
+
+Página: 21
+
+P - Fortalecimento a Políticas de Gênero, Raça e Diversidade
+
+P - Programa de Educação Ambiental
+
+S - DESENVOLVIMENTO ORGANIZACIONAL E MODERNIZAÇÃO
+
+P - Implantação do Sistema de Informação e Gestão Territorial de Ananindeua - SIGAnanin
+
+P - Implantação do Sistema de Monitoramento Ambiental
+
+C - ADMINISTRAÇÃO, AUDITORIA E AVALIAÇÃO DO PROGRAMA
+
+P - Gerenciamento e Supervisão de Obras
+
+P - Monitoramento e Avaliação do Programa
+
+P - Auditorias Externas
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - ESTUDOS, PROJETOS E OBRAS
+
+S - DESENVOLVIMENTO DE ESTUDOS E PROJETOS
+
+COMPONENTES
+
+P - Elaboração de Projeto Básico e Executivo de Requalificação Urbana e Ambiental do Igarapé
+da Cidade Nova e suas Áreas de Interesse
+P - Elaboração de Plano de Recuperação de Áreas Degradadas (PRAD)
+
+S - OBRAS
+
+P - Reabilitação do Igarapé da Cidade Nova e sua APP
+
+P - Implantação do Parque Urbano do Igarapé da Cidade Nova
+
+P - Implantação do Parque Ecológico do Igarapé da Cidade Nova
+
+P - Reorganização do Sistema de Mobilidade na Área de Interesse
+
+P - Implantação de EcoPontos
+
+C - DESENVOLVIMENTO SOCIOAMBIENTAL E MODERNIZAÇÃO INSTITUCIONAL
+
+S - REASSENTAMENTOS E INDENIZAÇÕES
+
+P - Elaboração do Plano Específico de Reassentamento e Medidas Compensatórias (PERMC)
+
+P - Execução de Medidas Compensatórias
+
+S - DESENVOLVIMENTO COMUNITÁRIO
+
+P - Programa de Capacitação Profissional
+
+P - Fortalecimento a Políticas de Gênero, Raça e Diversidade
+
+P - Programa de Educação Ambiental
+
+S - DESENVOLVIMENTO ORGANIZACIONAL E MODERNIZAÇÃO
+
+P - Implantação do Sistema de Informação e Gestão Territorial de Ananindeua - SIGAnanin
+
+P - Implantação do Sistema de Monitoramento Ambiental
+
+C - ADMINISTRAÇÃO, AUDITORIA E AVALIAÇÃO DO PROGRAMA
+
+P - Gerenciamento e Supervisão de Obras
+
+P - Monitoramento e Avaliação do Programa
+
+P - Auditorias Externas
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - ESTUDOS, PROJETOS E OBRAS
+
+S - DESENVOLVIMENTO DE ESTUDOS E PROJETOS
+
+COMPONENTES
+
+P - Elaboração de Projeto Básico e Executivo de Requalificação Urbana e Ambiental do Igarapé
+da Cidade Nova e suas Áreas de Interesse
+P - Elaboração de Plano de Recuperação de Áreas Degradadas (PRAD)
+
+S - OBRAS
+
+P - Reabilitação do Igarapé da Cidade Nova e sua APP
+
+P - Implantação do Parque Urbano do Igarapé da Cidade Nova
+
+P - Implantação do Parque Ecológico do Igarapé da Cidade Nova
+
+P - Reorganização do Sistema de Mobilidade na Área de Interesse
+
+P - Implantação de EcoPontos
+
+C - DESENVOLVIMENTO SOCIOAMBIENTAL E MODERNIZAÇÃO INSTITUCIONAL
+
+S - REASSENTAMENTOS E INDENIZAÇÕES
+
+P - Elaboração do Plano Específico de Reassentamento e Medidas Compensatórias (PERMC)
+
+P - Execução de Medidas Compensatórias
+
+S - DESENVOLVIMENTO COMUNITÁRIO
+
+P - Programa de Capacitação Profissional
+
+P - Fortalecimento a Políticas de Gênero, Raça e Diversidade
+
+P - Programa de Educação Ambiental
+
+S - DESENVOLVIMENTO ORGANIZACIONAL E MODERNIZAÇÃO
+
+P - Implantação do Sistema de Informação e Gestão Territorial de Ananindeua - SIGAnanin
+
+P - Implantação do Sistema de Monitoramento Ambiental
+
+C - ADMINISTRAÇÃO, AUDITORIA E AVALIAÇÃO DO PROGRAMA
+
+P - Gerenciamento e Supervisão de Obras
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+10.000,00
+
+20.000,00
+
+500.000,00
+
+400.000,00
+
+100.000,00
+
+1.460.000,00
+
+1.300.000,00
+
+100.000,00
+
+60.000,00
+
+0,00
+
+4.000.000,00
+
+5.290.000,00
+
+0,00
+
+0,00
+
+Ano 3
+
+FONTES
+
+TOTAL
+
+CF
+
+TOTAL
+
+FONPLATA
+
+FONPLATA
+
+8.510.000,00
+
+0,00
+
+0,00
+
+0,00
+
+8.510.000,00
+
+3.000.000,00
+
+3.000.000,00
+
+2.500.000,00
+
+0,00
+
+10.000,00
+
+60.000,00
+
+0,00
+
+0,00
+
+0,00
+
+60.000,00
+
+30.000,00
+
+10.000,00
+
+20.000,00
+
+0,00
+
+0,00
+
+0,00
+
+1.460.000,00
+
+1.300.000,00
+
+100.000,00
+
+60.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+CF
+
+0,00
+
+VALOR
+
+CUSTO
+
+CF
+
+10.030.000,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+FONPLATA
+
+Ano 4
+
+FONTES
+
+FONPLATA
+
+8.510.000,00
+
+0,00
+
+0,00
+
+0,00
+
+8.510.000,00
+
+3.000.000,00
+
+3.000.000,00
+
+2.500.000,00
+
+0,00
+
+10.000,00
+
+60.000,00
+
+0,00
+
+0,00
+
+0,00
+
+60.000,00
+
+30.000,00
+
+10.000,00
+
+20.000,00
+
+0,00
+
+0,00
+
+0,00
+
+1.460.000,00
+
+1.300.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+
+Página: 22
+
+P - Monitoramento e Avaliação do Programa
+
+P - Auditorias Externas
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+100.000,00
+
+60.000,00
+
+10.030.000,00
+
+0,00
+
+0,00
+
+C - ESTUDOS, PROJETOS E OBRAS
+
+S - DESENVOLVIMENTO DE ESTUDOS E PROJETOS
+
+COMPONENTES
+
+P - Elaboração de Projeto Básico e Executivo de Requalificação Urbana e Ambiental do Igarapé
+da Cidade Nova e suas Áreas de Interesse
+P - Elaboração de Plano de Recuperação de Áreas Degradadas (PRAD)
+
+S - OBRAS
+
+P - Reabilitação do Igarapé da Cidade Nova e sua APP
+
+P - Implantação do Parque Urbano do Igarapé da Cidade Nova
+
+P - Implantação do Parque Ecológico do Igarapé da Cidade Nova
+
+P - Reorganização do Sistema de Mobilidade na Área de Interesse
+
+P - Implantação de EcoPontos
+
+C - DESENVOLVIMENTO SOCIOAMBIENTAL E MODERNIZAÇÃO INSTITUCIONAL
+
+S - REASSENTAMENTOS E INDENIZAÇÕES
+
+P - Elaboração do Plano Específico de Reassentamento e Medidas Compensatórias (PERMC)
+
+P - Execução de Medidas Compensatórias
+
+S - DESENVOLVIMENTO COMUNITÁRIO
+
+P - Programa de Capacitação Profissional
+
+P - Fortalecimento a Políticas de Gênero, Raça e Diversidade
+
+P - Programa de Educação Ambiental
+
+S - DESENVOLVIMENTO ORGANIZACIONAL E MODERNIZAÇÃO
+
+P - Implantação do Sistema de Informação e Gestão Territorial de Ananindeua - SIGAnanin
+
+P - Implantação do Sistema de Monitoramento Ambiental
+
+C - ADMINISTRAÇÃO, AUDITORIA E AVALIAÇÃO DO PROGRAMA
+
+P - Gerenciamento e Supervisão de Obras
+
+P - Monitoramento e Avaliação do Programa
+
+P - Auditorias Externas
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+VALOR
+
+CUSTO
+
+CF
+
+43.750.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+Ano 5
+
+FONTES
+
+FONPLATA
+
+2.710.000,00
+
+0,00
+
+0,00
+
+0,00
+
+2.710.000,00
+
+0,00
+
+0,00
+
+2.000.000,00
+
+700.000,00
+
+10.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+FONPLATA
+25.250.000,00
+
+2.400.000,00
+
+2.250.000,00
+
+150.000,00
+
+22.850.000,00
+
+6.850.000,00
+
+6.750.000,00
+
+8.500.000,00
+
+700.000,00
+
+50.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+60.000,00
+
+8.750.000,00
+
+2.250.000,00
+
+0,00
+
+0,00
+
+0,00
+
+8.750.000,00
+
+250.000,00
+
+0,00
+
+250.000,00
+
+8.750.000,00
+
+0,00
+
+60.000,00
+
+30.000,00
+
+10.000,00
+
+20.000,00
+
+0,00
+
+0,00
+
+0,00
+
+1.660.000,00
+
+1.300.000,00
+
+300.000,00
+
+60.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+300.000,00
+
+150.000,00
+
+50.000,00
+
+100.000,00
+
+1.700.000,00
+
+1.400.000,00
+
+300.000,00
+
+7.500.000,00
+
+6.500.000,00
+
+700.000,00
+
+300.000,00
+
+4.430.000,00
+
+8.750.000,00
+
+35.000.000,00
+
+A Câmara Municipal de Ananindeua aprovou a Lei Nº 3.310, de 18 de abril de 2023, que permitiu ao Município realizar operação de crédito
+de natureza financeira com o Fundo Financeiro para o Desenvolvimento da Bacia do Prata - FONPLATA.
+
+Quanto à Unidade Gestora do Programa de Requalificação Urbana e Ambiental de Ananindeua (UGP-PROANANIN), houve a sua criação
+mediante a Lei Nº 3.319, de 27 de abril de 2023, que a estruturou diretamente subordinada à Secretaria Municipal de Saneamento e
+Infraestrutura de Ananindeua (SESAN).
+
+Após a identificação das interferências nos Projetos Executivos, o município iniciará as tratativas com as instituições responsáveis quanto
+ao remanejamento e/ou adequação dos dispositivos que forem necessários para a execução das obras. Para isso, o município já conta
+com um excelente relacionamento, articulação e procedimentos estabelecidos com empresas concessionárias de energia, saneamento e
+telecomunicações para a execução de obras de seu interesse.
+
+Os principais dispositivos legais que respaldam a implementação dos produtos do Programa são:
+
+1. Lei Nº 2237, de 06 de outubro DE 2006, que instituiu o Plano Diretor Municipal de Ananindeua;
+
+2. Lei Nº 3.194, de 11 de novembro de 2021, que institui o Plano Plurianual 2022- 2025 de Ananindeua;
+
+3. Lei Nº 3.318, de 27 de abril de 2023, que dispõe sobre alterações no PPA 2022-2025;
+
+4. Decreto Nº 319, de 21 de outubro de 2021, que dispõe sobre os critérios e prazos para concessão de Benefícios Eventuais, instrumento
+referência para o Aluguel Social.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 23
+
+5. Lei Nº 3.319, de 27 de abril de 2023, que cria a Unidade Gestora do Programa de Requalificação Urbana e Ambiental de Ananindeua (
+UGPPROANANIN) na estrutura da Secretaria Municipal de Saneamento e Infraestrutura de Ananindeua (SESAN).
+
+6. Lei Nº 3.310, de 18 de abril de 2023, que autoriza operação de crédito de natureza financeira para o PROANANIN.
+
+Outros atos legais poderão ser requeridos pelo agente financiador ou pela União no processo de negociação do financiamento. Quando
+necessário, as iniciativas previstas no Programa passarão por processos administrativos de análise e aprovação em órgãos como o
+Secretaria Estadual de Meio Ambiente e Sustentabilidade (SEMAS/ PA), Capitania dos Portos da Amazônia Oriental e Superintendência
+do Patrimônio da União do Pará (SPU/PA). A Prefeitura possui experiência na obtenção de licenças específicas exigidas para a execução
+do Projeto, como as licenças ambientais e de obras, não havendo riscos significativos para a sua obtenção. Diante do exposto, os riscos
+quanto aos Atos Legais, são considerados baixos para a implantação do Programa.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+A execução do Programa requer a contratação de consultorias e serviços especializados de supervisão e gerenciamento para o suporte
+
+técnico à Prefeitura Municipal de Ananindeua, sem previsão de contratação de novos servidores. As contratações serão realizadas através
+de processo licitatório, seguindo as determinações estabelecidas no contrato de financiamento.
+
+Os riscos relacionados a esse tema advêm de seleção de empresa(s) com capacidade e condições técnicas insuficientes frente a
+necessidade do Programa. Isso envolve: atrasos no cronograma; aditivos contratuais; e, baixa qualidade dos produtos entregues a
+sociedade. Esses riscos têm como fator a ausência de rigor nos processos de licitação.
+
+A medida mitigatória para esse risco é a organização e instituição de equipe técnica multidisciplinar pelo Comite de Acompanhamento e
+Apoio ao Programa, que adotará os critérios de acompanhamento de elaboração e aprovação de Termos de Referências que se fazem
+necessários em cada processo licitatório. As contratações seguirão, acima de tudo, a Nova Lei de Licitações e Contratos, Lei nº 14.133/
+2021, e a "Política para Aquisição de Bens, Obras e Serviços em Operações Financiadas pelo FONPLATA - RD nº 1394/2017".
+
+Cabe registrar que as políticas de aquisição do FONPLATA são de conhecimento do Município e são similares às normas nacionais para
+tal finalidade.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+As desapropriações foram previstas no planejamento do Programa a partir do levantamento técnico-social preliminar realizado para
+elaboração do Plano Específico de Reassentamento e Medidas Compensatórias (PERMC). Envolvem imóveis regulares de uso
+habitacional, comercial e misto que possuem evidências documentais com certidão de registro de imóveis e levantamento cadastral
+atualizados, mas que estão situados em área de interesse do Programa. Totalizam 30(trinta) imóveis com 30(trinta) famílias e 3.290m² de
+área construída. O risco previsto está relacionado as famílias insatisfeitas com o valor de indenização determinado. Como ação mitigatória
+, as desapropriações são planejadas e monitoradas na execução do PERMC, com ferramentas suficientes para a determinação de valores
+baseados na PGV e CUB/m², respeitando a propriedade e a justa reparação de custos com benfeitorias.
+
+1. Número de Imóveis: 30 imóveis e 30 famílias, 3.290m²
+
+2. Situação Fundiária: Regular, com matrículas devidamente destacadas no Registro de Imóveis.
+
+3. Custos Estimados: US$ 3.515.625,00
+
+4. Instrumento Legal previsto: Decreto de Utilidade Pública, a ser elaborado e publicado após a captação de recursos para o Programa.
+
+5. Forma de Compensação: Indenização.
+
+6. Órgãos Responsáveis: UGP-PROANANIN/SESAN e SEGEF
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+As ações do Programa trazem grandes benefícios para a população do município, garantindo melhores condições de habitação e, por
+
+conseguinte, melhores condições de vida. Entretanto, as obras de construção civil sempre geram impactos ambientais. O estabelecimento
+de ferramentas de avaliação e monitoramento para a prevenção, mitigação e compensação de impactos são necessários. Toda obra deve
+obedecer a critérios de gestão ambiental, fazendo com que os aspectos ambientais e sociais interajam.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 24
+
+Através da identificação e análise dos potenciais impactos relativos às interações do Programa propõem-se medidas mitigadoras para que
+haja uma melhor qualidade ambiental nas obras e em seu entorno, abrangendo aspectos ambientais, sociais e econômicos.
+Posteriormente, a aplicação de medidas de controle, supervisão, fiscalização e monitoramento mostram-se essenciais para que o
+Programa consiga ser implantado respeitando as diretrizes e normas estabelecidas pela legislação vigente. As obras previstas pelo
+Programa, assim como toda intervenção a ser realizada no meio físico provocando alterações na sua estrutura, por menor que sejam,
+geram riscos ambientais que devem ser identificados, monitorados e mitigados.
+
+Um risco ambiental que pode ocorrer em todas as obras do Programa é a geração de poluição atmosférica e sonora na fase de construção
+, podendo ainda ocorrerem abalos provenientes da obra. Como forma de mitigação, serão adotadas medidas de planejamento da
+execução das obras, que evitarão horários inadequados dos trabalhos e utilização de equipamentos geradores de ruídos. Será planejado
+o gerenciamento dos resíduos gerados na etapa da construção, assim como dos resíduos sólidos a serem gerados quando da utilização
+das estruturas construídas, com um correto acondicionamento, armazenamento e destinação adequadas, de forma que possam ser
+reutilizados, formando parcerias com prestadores de serviço.
+
+Em relação às intervenções físicas previstas, em virtude das características e diretrizes do Programa, não se estima riscos relacionados a
+degradação da fauna e flora local, que em sistemas de intervenção convencionais promovem a remoção da vegetação natural, que
+ocasiona até a extinção de ecossistemas e perda da biodiversidade. As diretrizes do PROANANIN estão relacionadas a proteção
+ambiental dos mananciais mediante a recuperação e manutenção das matas ciliares e conservação dos solos e do planejamento territorial
+.
+
+As intervenções das obras podem interferir na mobilidade local durante a fase de implantação, resultando em um inconveniente para a
+população. A fim de mitigar essa ocorrência serão desenvolvidos através dos espaços de participação cidadã, ações de informação e
+conscientização a respeito das obras relacionadas ao Programa, além da implantação de sistema de sinalização adequado que minimizem
+riscos de acidentes. As ações desse Programa devem ser analisadas na fase de estudo e elaboração de projetos, objetivando identificar
+os impactos possíveis de acontecer para o planejamento de ações mitigadoras e elaboração de Programas de monitoramento para serem
+implementados durante a fase de implantação e operação das obras.
+
+O FONPLATA utiliza o Sistema de Avaliação e de Gestão de Riscos Ambientais e Sociais (SERAS), o qual está voltado para identificar e
+minimizar impactos ambientais e sociais, bem como conflitos com a população da área de intervenção dos projetos, resguardando, assim,
+a qualidade das operações e zelando pelo cumprimento das normas dos países-membros.
+
+Quanto às políticas ambientais do agente financiador, o Programa utilizará o caderno de "Estratégia Socioambiental do FONPLATA" além
+das "Diretrizes Operacionais para a Gestão Socioambiental no Ciclo de Projetos do FONPLATA" como diretrizes socioambientais na
+execução do Programa.
+
+Cabe registrar que as políticas ambientais do FONPLATA são de conhecimento do Município e são similares às normas nacionais para tal
+finalidade.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+Os Impactos Sociais previstos pelo Programa estão relacionados ao seu processo de execução. Ao decorrer desse processo, atividades e
+
+costumes locais podem ter dinâmicas alteradas, gerando possíveis transtornos a parte da população local. Não há interferência em
+populações indígenas e quilombolas. Os impactos sociais se apresentam como baixos e serão acompanhados através de ferramentas de
+mediação de conflitos previstos no PERMC e de participação cidadã e controle social a serem implementadas para o monitoramento do
+Programa.
+
+Devido a execução do projeto, algumas atividades comerciais sofrerão alterações de forma direta com a retirada do seu espaço físico e/ou
+obstruções em volta da área das obras, ou de forma indireta, com impacto na redução da clientela local temporariamente e, com isso,
+serão previstas medidas compensatórias na aplicação de métodos como lucro cessante e fundo de comércio (se necessário), e ações de
+monitoramento, com o objetivo de amenizá-los.
+
+Abalos de imóveis é outro risco que poderá decorrer da execução das obras previstas no projeto. Esse impacto é visto como muito baixo.
+Para mitiga-lo, serão realizadas vistorias técnicas de caráter cautelar na área de abrangência a fim de se planejar e executar ações
+preventivas.
+
+Na área de intervenção do Programa não foram identificadas populações de indígenas ou de quilombolas.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 25
+
+Quanto às políticas sociais do agente financiador, o Programa utilizará o caderno de "Estratégia Socioambiental do FONPLATA" além das
+
+"Diretrizes Operacionais para a Gestão Socioambiental no Ciclo de Projetos do FONPLATA" como diretrizes socioambientais na execução
+do Programa.
+
+Cabe registrar que as políticas sociais do FONPLATA são de conhecimento do Município e são similares às normas nacionais para tal
+
+finalidade.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+O trabalho técnico-social realizado para elaboração do Plano Específico de Reassentamento e Medidas Compensatórias (PERMC). Com a
+aplicação do levantamento cadastral, registraram-se 278 famílias a serem beneficiadas diretamente por medidas compensatórias ao
+reassentamento e 30 famílias/proprietários a serem indenizados/as por propriedade (conforme abordado em Riscos/Desapropriações). As
+famílias foram divididas em grupos segundo as condições de habitabilidade: o primeiro grupo é formado por 40 famílias que ocupam o
+espaço de forma irregular e estão em situação de vulnerabilidade e/ou emergência, constatando-se riscos de desabamento, incêndios,
+enchentes e exposição ao esgoto; o segundo grupo é composto por 238 famílias que ocupam o espaço de forma irregular, precário e/ou
+irregular acesso ao saneamento básico, mas suas habitações não se enquadram em situação de risco eminente; o terceiro grupo é
+formado por 30 famílias/proprietários de imóveis regulares, devidamente registrados, que possuem precário e/ou irregular acesso ao
+saneamento básico mas condições de médio padrão de habitação, conforme abordado no item 5.3.
+
+Nos casos de reassentamento, a área de provisão habitacional deverá se localizar, sempre que possível, próxima à área de origem das
+famílias afetadas, e ser servida de infraestrutura básica e equipamentos públicos, já existentes ou a serem executados ao longo da
+intervenção, que atendam à demanda gerada, conforme os padrões médios da cidade, e as unidades deverão ser dotadas de
+infraestrutura e de condições de habitabilidade.
+
+A situação fundiária na área do projeto encontra-se em situação regular, entretanto ocupada irregularmente. Devido a execução do projeto
+, o reassentamento será involuntário, tendo em vista que haverá alteração compulsória do local de moradia ou de exercício de atividades
+econômicas, provocado pela execução de obras e serviços de engenharia e arquitetura. Para isso, foram realizados os serviços
+preliminares para a minuta do PERMC, que trata de peça documental essencial para: caracterização socioeconômica da população
+afetada; caracterização fundiária do território ocupado por essa população e qualidade da posse; exame de impactos do deslocamento;
+soluções e/ou alternativas de atendimento ou indenização por situações típicas; e, fundamentação da sustentabilidade das soluções ou
+alternativas eleitas.
+
+A responsabilidade na execução e acompanhamento dos processos de reassentamento se dará em conjunto pela UGP-PROANANIN/
+SESAN e SEGEF. Diante do processo de execução do reassentamento serão realizadas ações de pré e pós reassentamento, a fim de
+mitigar a possibilidade de situações que possam gerar risco de empobrecimento ou exposição ainda maiores a situações de
+vulnerabilidade para famílias afetadas com o deslocamento involuntário.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+- 20/09/2023: Autorizado na 168ª Cofiex, em 06/09/2023, conforme Resolução Cofiex nº 39, de 06 de setembro de 2023 (SEI 37161186)
+
+Informações relevantes
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)

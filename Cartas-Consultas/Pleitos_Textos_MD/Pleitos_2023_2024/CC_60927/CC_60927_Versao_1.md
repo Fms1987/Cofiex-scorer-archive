@@ -1,0 +1,5871 @@
+# Carta-Consulta CC_60927 — Versao 1 (SIGS)
+
+
+PROJETO DE DESENVOLVIMENTO SUSTENTÁVEL DA MATA ATLANTICA DA BAHIA
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 60927
+Mutuário: Estado da Bahia
+Tipo de Operação: Operação de crédito externo
+
+Fontes Internas:
+Contrapartida Financeira: US$ 32.000.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 100.000.000,00
+Fundo Internacional  para o Desenvolvimento da  Agricultura - FIDA: US$ 18.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+Os principais problemas e desafios. O Projeto atuará em 3 Territórios de Identidade: os Territórios do Baixo Sul, do Litoral Sul e do Vale do
+Jiquiriçá, abrangendo 61 municípios com ampla incidência da pobreza na porção baiana do bioma Mata Atlântica.
+
+As médias pluviométricas anuais variam de 1.300 até mais de 2.000 mm na faixa costeira, diminuindo para 600 a 800 mm nos municípios
+mais ocidentais. Segundo Censo 2010, a população da área era de 1.433.654 habitantes. Deste total, 30,3% eram de população rural.
+Uma proporção importante desta população vivia em "estado de pobreza": esta proporção era de 23,3%, aumentando para 33,7%. A taxa
+de analfabetismo era de 25,6%. Em referência ao IDHM (2010), dos 61 municípios, 43 têm um valor classificado como "baixo" e 17 um
+valor "médio". Segundo dados do INCRA, há 5.980 famílias assentadas em 122 assentamentos; 98 comunidades quilombolas (das quais,
+66 certificadas), 5.637 famílias que se dedicam à pesca artesanal e à mariscagem; e, 7.516 indivíduos de 02 etnias indígenas. A
+vulnerabilidade socioeconômica da população rural na área do Projeto.
+
+Grande parte da população rural que se encontrava em "estado de pobreza" está diretamente vinculada às atividades agrícolas (e
+extrativistas) e busca seu sustento a partir da base de recursos naturais existentes. A crescente insustentabilidade dos sistemas
+produtivos.
+
+A decadência da cultura do cacau na década de 80 provocou uma crise socioeconômica sem precedentes na região.
+
+As produtividades são baixas e a exposição excessiva do solo aos efeitos do sol e da chuva aceleram a perda de fertilidade.
+
+Nos sistemas de produção animal, o de "quintal" (aves e suínos) tem bom potencial de expansão. Representam excelentes oportunidades
+de crescimento: a apicultura e a piscicultura.
+
+O desenvolvimento insuficiente das atividades não agropecuárias-Foi identificada a existência de artesanato com a palha e a fibra de
+piaçava e de piaçava de coco.  O surgimento de algumas atividades mereceriam ser exploradas, a exemplo de atividades ligadas ao
+turismo rural. Os problemas relacionados com a degradação ambiental. Estima-se que na região, a Mata Atlântica ocupe cerca de 13,8%
+da sua área original. A utilização de práticas insustentáveis de manejo das terras cultivadas, resultam em maior exposição dos solos aos
+agentes intempéricos e erosivos. Esta intensa antropização gera um impacto significativo no ciclo da água com diminuição da
+disponibilidade hídrica. Segurança do acesso fundiário-Destaca-se a falta de titulação de unidades produtivas familiares, a exemplo das
+comunidades quilombolas: apenas 4 detêm o título, inibindo a realização de investimentos produtivos sustentáveis e dificultando o acesso
+ao crédito. Saneamento- O acesso a água de boa qualidade, o acesso ao esgotamento sanitário e um tratamento adequado do lixo são
+serviços raros no meio rural. Dados do SNIS indicam que, no estado da Bahia, a parcela da população sem acesso a água é de 18,9%.
+Também é generalizada a ausência de estruturas/tecnologias que permitam coletar, armazenar e usar a água de chuva, e/ou ter acesso à
+água subterrânea. Segundo dados do IBGE, 49,7% da população tem "esgotamento inadequado". Em 6 municípios alcança mais de 90%.
+Ação coletiva e as organizações locais e as dificuldades de acesso aos mercados-Frequentemente as organizações locais existentes não
+têm engajamento nos processos de ação coletiva necessários para enfrentar os desafios do desenvolvimento. Os empreendimentos locais
+criados têm encontrado dificuldades em relação à gestão, comercialização e beneficiamento. Mobilidade rural-É frequente encontrar
+comunidades que ficam isoladas durante o período chuvoso. Os efeitos da erosão chegam a impedir o trânsito de veículos, dificultando o
+acesso da população aos serviços de saúde, educação e outros, além do impacto econômico. Inclusão digital-A internet é uma ferramenta
+de muita importância para a população em geral. Segundo estudos do MAPA (ao nível nacional) mais de 70% das áreas rurais não têm
+acesso à Internet. Serviços e capacidades institucionais insuficientes-Existem algumas deficiências importantes relativas aos serviços
+necessários para melhorar a resiliência das comunidades rurais, a exemplo dos serviços de Assistência Técnica e Extensão Rural e dos
+serviços de defesa/sanidade agropecuária. Equidade de gênero e da inclusão da juventude-Com a migração masculina geralmente à
+procura de trabalho, é frequente que as mulheres sofram da "dupla jornada de trabalho" e assumam a inteira responsabilidade da gestão e
+operação das unidades produtivas rurais. O número de jovens na Bahia (de 15 a 29 anos) que não estudam nem trabalham superou os
+25% (IBGE, 2020), situação que se reproduz na área do projeto. A exiguidade das terras é mais uma barreira para a integração plena
+deste grupo no âmbito da geração de uma renda própria. O baixo nível de escolaridade e a falta de oportunidades têm contribuído para
+incrementar o êxodo dos jovens das áreas rurais.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+As soluções propostas serão implantadas por meio de ações do Projeto e serão referenciadas das lições colhidas, tanto do Governo da
+Bahia como do Governo Federal. As ações do Projeto serão organizadas em torno de quatro eixos temáticos:
+
+Soluções propostas
+
+a) Sistemas produtivos mais rentáveis, resilientes e multifuncionais
+
+Implementar desenvolvimento sustentável com a melhoria dos meios de subsistência e melhor nutrição, através da construção de
+sistemas mais produtivos e sustentáveis. Também é prioridade restaurar a base de recursos sobre a qual esses sistemas se erguem,
+permitindo maior resiliência e aumento da produção e a produtividade e implementar uma agropecuária baseada na biodiversidade. O
+Projeto promoverá iniciativas de beneficiamento, de apoio ao acesso a mercados, da diversificação das fontes de renda, fortalecendo
+sempre a organização das populações envolvidas, tanto em atividades agrícolas como não agrícolas.
+
+
+Página: 3
+
+Principais Iniciativas: Sistemas agroflorestais (SAFs); Roçados diversificados agroecológicos; Pequenas áreas irrigadas; Atividades de
+apicultura; Sistemas de criação de pequenos animais; Sistemas de produção e armazenamento de alimentos para criações;
+Fortalecimento de atividades sustentáveis de pesca artesanal, mariscagem e piscicultura;  Implementação de bancos de sementes
+crioulas e viveiros de mudas; Implantação de sistemas de certificação orgânica participativa; Beneficiamento da produção agropecuária e
+extrativista; Sistemas de comercialização da produção; Implantação de empreendimentos não agrícolas.
+
+b) Proteção e restauração dos recursos ambientais
+
+Para os recursos ambientais: Ações de proteção e reconexão de fragmentos remanescentes de Mata Atlântica; Proteção e recuperação
+de nascentes; Recuperação e proteção de matas ciliares e APPs; Apoio para a recomposição e proteção das Reservas Legais e
+Disseminação de SAFs para adaptação às mudanças climáticas e maior resistência diante das secas e excesso de chuvas.
+
+c)Para a acesso à água e saneamento
+
+Fortalecimento da oferta hídrica no meio rural
+
+Ampliar a oferta hídrica: Cisternas de consumo humano e de produção para animais e para pequena irrigação; Barreiros e tanques de
+pedra para outros usos domésticos e rebanho; Barragens subterrâneas; Poços tubulares; Mini represas em riachos locais;
+Acondicionamento de nascentes para acumulação; Acondicionamento de nascentes para consumo humano e doméstico e Sistemas de
+elevação d'água a partir de riachos ou nascentes e instalação de equipamentos tais como os sistemas locais autogeridos de
+abastecimento d'agua.
+
+Esgotamento sanitário
+
+Implantação de unidades de tratamento de águas "cinzas" e de tratamento do esgoto total domiciliar (do tipo eco fossa e outros), módulos
+sanitários completos. Poderão ser instalados pequenos sistemas coletivos de esgotamento sanitário, abrangendo pequenos aglomerados
+de residências e experiências piloto de gestão de resíduos sólidos no meio rural.
+
+d)Outras infraestruturas e serviços de apoio para mais resiliência
+
+Regularização fundiária e ambiental
+
+Apoiar os processos de regularização e emissão de títulos e, no caso das comunidades quilombola, acompanhar o andamento do
+processo que trata do título coletivo do território. O Projeto também terá uma ação de apoio às famílias para a elaboração do Cadastro
+Estadual Florestal de Imóveis Rurais (CEFIR).
+
+Soluções na mobilidade rural
+
+Em parceria com as prefeituras o Projeto apoiará ações de manutenção de estradas vicinais locais, instalação de pequenas pontes,
+passagens molhadas e outras obras que permitam garantir uma maior trafegabilidade.
+
+Soluções à conectividade rural
+
+O Projeto aumentará a cobertura da banda larga das áreas rurais em conjunto com o Programa Comunidades Rurais Conectadas do
+MAPA. Também buscará a parceria com o Programa Internet para Todos do MCTIC.
+
+Fortalecimento dos serviços de apoio à Agricultura Familiar
+
+Garantia de Assistência Técnica Continuada - ATC na produção sustentável, proteção e recuperação do meio ambiente, atividades não
+agrícolas diversas, gestão de recursos hídricos e saneamento. Fortalecerá o serviço de inspeção sanitária e as agências de regularização
+fundiária, além da regularização ambiental.
+
+Principais Resultados esperados
+
+Remanescentes florestais preservados, nascentes recuperadas e protegidas, áreas de mata ciliar e outras APPs; Sistemas produtivos
+mais rentáveis e resilientes; Expansão das iniciativas de agregação de valor dos produtos da Agricultura Familiar; Acesso aos mercados;
+Acesso ao saneamento ampliado; Acesso melhorado da população rural às comunidades; Acesso digital ampliado; Organizações e
+Órgãos de apoio à agricultura familiar fortalecidos e Progressos na equidade de gênero e maior inclusão da juventude e das comunidades
+tradicionais
+
+Sustentabilidade
+
+Para a sustentabilidade nos seus efeitos e impactos:
+
+Modelos produtivos e tecnológicos simples e adaptados: As inovações produtivas de baixos custos e aproveitamento de insumos e mão
+de obra disponíveis no local, melhorando a resiliência destes sistemas. A sustentabilidade advirá dos produtos, do acesso a mercados e
+da geração de renda. O acompanhamento deste processo será realizado pela ATC provida pelo Projeto.
+
+
+Página: 4
+
+Gestão aprimorada dos recursos ambientais: Redução das queimadas, degradação dos solos e o desmatamento e apoiará a recuperação
+de áreas já degradadas. O Política Estadual de Pagamentos de Serviços Ambientais trabalhará em parceria com o Projeto, tornando-se
+uma ferramenta importante de renovação e ampliação de iniciativas de preservação e recuperação dos recursos ambientais.
+
+Fortalecimento institucional: Investimento no desenvolvimento de capacidades de diversos órgãos estaduais, tais como a Coordenação de
+Desenvolvimento Agrário e o Instituto do Meio Ambiente e Recursos Hídricos, também, serão reforçadas as prefeituras parceiras, bem
+como organizações da sociedade civil e privadas de assessoria técnica.
+
+Fortalecimento das organizações rurais e desenvolvimento das capacidades, com ênfase nas mulheres e jovens: Haverá um programa de
+capacitação e troca de conhecimentos, visando o fortalecimento das capacidades dos beneficiários, com ênfase nos jovens e mulheres e o
+fortalecimento das entidades locais na implementação de projetos associativos e sua gestão.
+
+Infraestrutura básica: O projeto prevê investimentos em infraestruturas básicas de acesso à água de qualidade, energia limpa,
+saneamento adequado e comunicação. No caso dos sistemas comunitários, o Projeto trabalhará com modelo já bem-sucedidos no Estado
+e no Nordeste.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+-Alinhamento do Projeto Parceiros da Mata com o Plano Plurianual (PPA) da Bahia. O Projeto está alinhado as diretrizes e estratégias do
+Estado e, portanto, vinculado às ações do Plano de Desenvolvimento Integrado -PDI Bahia 2035 e no Plano Plurianual (PPA) 2020-2023 (
+no ANEXO IV se encontra o extrato do PPA 2020 - 2023) e à Lei Orçamentária Anual para os anos correspondentes. Os Programas de
+Governo integram os instrumentos legais de planejamento para gestão dos investimentos necessários e visão estratégica, orientando as
+ações a serem executadas anualmente, de forma adaptativa, capaz de avaliar o alcance dos objetivos, sempre na perspectiva de
+atendimento à sociedade. Dentre os programa de Governo, a SDR/CAR está vinculada ao Programa 304 - Desenvolvimento Rural, cuja
+finalidade é promover o desenvolvimento rural sustentável da Bahia, que visa estimular uma economia rural dinâmica e impulsionadora da
+desconcentração de renda, por meio de diversos mecanismos, tais como a reorganização fundiária, a valorização da Agricultura Familiar,
+o apoio a diversos tipos de empreendimento econômico de base rural, o fornecimento de assessoria técnica, o fornecimento de serviços
+de defesa agropecuária, o apoio à pesquisa e a disseminação de inovações sustentáveis, o fomento do cooperativismo, o estímulo à
+proteção e regeneração dos recursos naturais, etc. Para implementação do programa e execução dos Compromissos e Metas
+programadas na administração pública, o PPA segue a lógica de Órgão, Unidade Orçamentária, PAOE, conforme descrição  do programa
+de Governo, no qual o Projeto estará inserido. Programa 304 - Desenvolvimento Rural; Órgão18 - Secretaria de Desenvolvimento Rural;
+Unidade Orçamentária 18.401  Companhia de Desenvolvimento e Ação regional - CAR. Ações em prol do desenvolvimento rural
+sustentável. A nível federal, o Projeto Parceiros da Mata tem aderência às seguintes políticas e programas: ao Programa Nacional de
+Assistência Técnica e Extensão Rural na Agricultura Familiar e na Reforma Agrária (PRONATER), o Programa Nacional de Fortalecimento
+da Agricultura Familiar (Pronaf), o Programa de Aquisição de Alimentos (PAA), o Programa Nacional de Alimentação Escolar (PNAE), a
+Política e o Programa Nacional de Educação Ambiental (ProNEA), a Política Nacional de Desenvolvimento Sustentável dos Povos e
+Comunidades Tradicionais, o novo Código Florestal, o Plano Nacional de Promoção das Cadeias de Produtos da Sociobiodiversidade, o
+Programa Água para Todos, Programas Internet para Todos e Comunidades Rurais Conectadas, dentre outros programas e políticas cujo
+objetivo é o atendimento das demandas da sociedade rural. Contrapartida- O Governo do Estado da Bahia terá ao seu cargo disponibilizar
+os recursos necessários para a execução da contrapartida do Projeto no montante de US$ 32 milhões. É importante salientar que os
+recursos financeiros serão aportados com responsabilidade fiscal. A taxa de câmbio utilizada 1 USD para 5,0660 BRL(16/5/2022 BACEN).
+
+2. Projeto
+
+### 2.1. Título
+
+
+PROJETO DE DESENVOLVIMENTO SUSTENTÁVEL DA MATA ATLANTICA DA BAHIA
+
+
+### 2.2. Título Abreviado
+
+Parceiros da Mata
+
+
+### 2.3. Mutuário
+
+
+Estado da Bahia
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Objetivo Geral
+
+Promover uma transformação produtiva sustentável que permita uma melhor qualidade de vida da população rural dos Territórios de
+Identidade do Baixo Sul, Litoral Sul e Vale do Jiquiricá, do Bioma da Mata Atlântica da Bahia, por meio da proteção da base de recursos
+naturais, do crescimento ambientalmente sustentável e diversificado da produção do meio rural, da elevação da renda e pela ampliação do
+acesso a serviços essenciais como a infraestrutura de recursos hídricos e o saneamento rural.
+
+Objetivos Específicos
+
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+1.Promover a recuperação e preservação dos recursos ambientais do Bioma Mata Atlântica na área de abrangência do Projeto;
+
+2.Implantar e fortalecer sistemas produtivos mais rentáveis e mais resilientes diante das mudanças climáticas;
+
+3.Garantir a segurança alimentar e nutricional das famílias mais vulneráveis;
+
+4.Fortalecer e ampliar o acesso aos mercados dos produtos da agricultura familiar e apoiar os processos de beneficiamento e
+transformação da produção agropecuária;
+
+5.Fortalecer e qualificar empreendimentos não agropecuários, a exemplo do turismo rural e do artesanato;
+
+6.Promover um aumento na renda das famílias atendidas;
+
+7.Assegurar o acesso da população rural aos recursos hídricos para consumo humano e para produção agropecuária;
+
+8.Implantar projetos de saneamento ambiental rural para ampliar e qualificar o tratamento de resíduos sólidos e líquidos, domiciliar e
+coletivo;
+
+9.Melhorar o acesso viário das comunidades rurais e ampliar a inclusão digital;
+
+10.Promover a regularização fundiária e ambiental, notadamente das comunidades rurais de povos tradicionais e dos agricultores
+familiares;
+
+11.Fortalecer as capacidades das organizações locais e regionais dos produtores e das instituições/agências que trabalham na
+implementação de políticas de apoio à sustentabilidade e resiliência da agricultura familiar da área de intervenção do Projeto.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+
+
+Descrição
+Número total de famílias atendidas pelo Projeto Somatório das
+
+Fórmula de Cálculo Unidade de Medida
+
+Família
+
+
+Página: 6
+
+Meta
+100.000,00
+
+Linha de Base
+0,00
+
+Número de famílias que aumentam a sua renda
+agropecuária
+
+Percentual das famílias atendidas que melhoram
+a sua Segurança Alimentar e Nutricional (SAN)
+
+Área de Sistemas Agroflorestais (SAFs)
+implantados ou recuperados
+
+Áreas degradadas recuperadas
+
+Número de famílias com Assessoramento
+Técnico
+
+Número de famílias com acesso melhorado a
+água para consumo humano e produção (ação
+do Projeto)     )
+
+Numero de famílias com algum sistema de
+saneamento (ampliação da cobertura do
+saneamento ambiental rural)
+
+Número de famílias beneficiadas com melhor
+conectividade (inclusão digital)
+
+Número de famílias em áreas individuais ou
+comunitárias com situação fundiária regularizada
+..
+
+famílias que
+receberam algum
+serviço com benefício
+do Projeto
+Somatório das
+famílias que
+aumentaram a sua
+renda, oriunda das
+atividades apoiadas
+pelo Projeto.
+Proporção das
+famílias atendidas que
+declaram ter
+melhorado sua SAN (
+utilizando a Escala
+Curta da EBIA )
+Somatório de hectares
+de SAFs recuperados
+ou implantados pelo
+Projeto
+Somatório de hectares
+de áreas degradadas
+recuperadas
+Somatório das
+famílias que declaram
+ter recebido AT pelo
+Projeto
+Somatório das
+famílias que declaram
+ter sido beneficiadas
+pelas ações de
+acesso a água do
+Projeto.
+Somatório das
+famílias que declaram
+estar usando algum
+sistema de
+saneamento rural (
+pela ação do Projeto)
+Somatório das
+famílias que declaram
+ter tido uma melhora
+no seu acesso por uso
+da Internet
+Somatório das
+unidades familiares
+que passam a ter a
+sua situação fundiária
+regularizada com
+apoio do Projeto
+
+
+### 2.7. Projeto/Componentes
+
+
+Unidade familiar
+
+0,00
+
+23.000,00
+
+percentual
+
+0,00
+
+50,00
+
+hectares
+
+0,00
+
+10.000,00
+
+hectares
+
+Família
+
+0,00
+
+1.000,00
+
+0,00
+
+32.000,00
+
+Família
+
+0,00
+
+30.000,00
+
+Família
+
+0,00
+
+18.500,00
+
+Família
+
+0,00
+
+25.000,00
+
+Unidade familiar
+
+0,00
+
+3.000,00
+
+
+Componentes
+C - PROMOÇÃO DE SISTEMAS PRODUTIVOS RENTÁVEIS E RESILIENTES E INICIATIVAS DE PROTEÇÃO E
+RECUPERAÇÃO AMBIENTAL
+S - IMPLANTAÇÃO E FORTALECIMENTO DE SISTEMAS DE PRODUÇÃO BIODIVERSOS RESILIENTES
+P - Sistemas Agroflorestais (SAFs)
+P - Roçados sustentáveis de culturas alimentares
+P - Subsistemas de produção animal
+P - Quintais biodiversos
+P - Apicultura
+P - Sementes crioulas e mudas de qualidade
+P - Apoio à pesca artesanal e à mariscagem
+S - PAGAMENTO DE SERVIÇOS AMBIENTAIS
+P - Conservação e recuperação de APPs (matas ciliares, nascentes, topos de morro, encostas íngremes) e
+Reservas Legais
+P - Proteção e reconexão de remanescentes florestais
+S - APOIO A ATIVIDADES NÃO AGRÍCOLAS
+P - Artesanato
+P - Empreendimentos de Turismo Rural de Base Comunitária
+S - BENEFICIAMENTO, COMERCIALIZAÇÃO E FORTALECIMENTO DE EMPREENDIMENTOS E
+ORGANIZAÇÕES LOCAIS
+P - Projetos produtivos de beneficiamento de produtos da Agricultura Familiar
+P - Fortalecimento dos processos de comercialização
+P - Criação/fortalecimento de Sistemas Part. de Garantia (SPG) (certificação orgânica)
+S - DESENVOLVIMENTO DE CAPACIDADES PARA TEMAS DE PRODUÇÃO RESILIENTE, PROTEÇÃO E
+RECUPERAÇÃO AMBIENTAL, BENEFICIAMENTO, COMERCIALIZAÇÃO E FORTALECIMENTO DAS
+ORGANIZAÇÕES
+P - Assessoria técnica polivalente para famílias, comunidades, empreendimentos econômicos e organizações
+rurais
+P - Capacitações e intercâmbios
+P - Fortalecimento dos empreendimentos e das organizações locais
+P - Iniciativas de educação ambiental
+P - Iniciativas para assegurar a equidade de gênero e a inclusão da juventude
+C - INFRAESTRUTURA E SERVIÇOS PARA O DESENVOLVIMENTO RESILIENTE
+S - IMPLANTAÇÃO DE TECNOLOGIAS DE COLETA, ESTOCAGEM E ACESSO À ÁGUA
+P - Implantação de cisternas
+P - Barragens subterrâneas
+P - Pequenas barragens e outras fontes d'água
+S - SISTEMAS DE ABASTECIMENTO D'ÁGUA E SANEAMENTO RURAL
+P - Implantação / fortalecimento de sistemas simplificados de gestão comunitária e de outros sistemas de
+abastecimento d'água
+P - Instalação de sistemas de tratamento do esgoto sanitário
+P - Iniciativas experimentais de manejo de resíduos sólidos no meio rural
+S - ACESSO A FONTES DE ENERGIA RENOVÁVEL
+P - Implantação de fogões ecoeficientes
+P - Instalação de biodigestores
+P - Sistemas fotovoltaicos e eólicos
+S - INFRAESTRUTURA DE ACESSO ÀS COMUNIDADES RURAIS E DE INCLUSÃO DIGITAL
+P - Manutenção e melhoria de estradas rurais (vicinais)
+P - Passagens molhadas, pequenas pontes
+P - Ampliação da conectividade rural
+C - FORTALECIMENTO INSTITUCIONAL
+S - SERVIÇOS PARA O FORTALECIMENTO DA AGRICULTURA FAMILIAR
+P - Regularização fundiária e ambiental
+P - Apoio aos processos de reconhecimento e certificação de comunidades e povos tradicionais
+P - Fortalecimento dos serviços de defesa / sanidade agropecuária (SUASA, etc)
+P - Capacitação do órgão executor e coexecutor
+S - FORTALECIMENTO DOS ÓRGÃOS EXECUTOR, COEXECUTOR E ENTIDADES PARCEIRAS
+P - Desenvolvimento das capacidades das equipes de prefeituras e consórcios municipais parceiros
+P - Desenvolvimento das capacidades de outras entidades parceiras
+P - Estudos e Consultorias para apoio aos órgãos executor, coexecutor e entidades parceiras sobre temas
+especializados
+S - GESTÃO DE CONHECIMENTO E COMUNICAÇÃO
+P - Sistematização de experiências
+P - Ações de Comunicação
+C - GESTÃO DO PROJETO
+S - UNIDADE DE GESTÃO DO PROJETO
+P - Apoio a gestão
+P - Equipamentos diversos
+P - Estudos e consultorias no domínio da gestão do Projeto
+
+
+Página: 7
+
+Valor(US$)
+50.730.000,00
+
+13.290.000,00
+2.990.000,00
+2.000.000,00
+2.500.000,00
+1.500.000,00
+500.000,00
+1.200.000,00
+2.600.000,00
+3.400.000,00
+1.700.000,00
+
+1.700.000,00
+850.000,00
+500.000,00
+350.000,00
+9.150.000,00
+
+6.000.000,00
+2.400.000,00
+750.000,00
+24.040.000,00
+
+20.400.000,00
+
+390.000,00
+1.100.000,00
+850.000,00
+1.300.000,00
+76.750.000,00
+28.350.000,00
+8.750.000,00
+3.500.000,00
+16.100.000,00
+26.900.000,00
+17.000.000,00
+
+9.000.000,00
+900.000,00
+6.000.000,00
+1.500.000,00
+1.500.000,00
+3.000.000,00
+15.500.000,00
+1.500.000,00
+11.000.000,00
+3.000.000,00
+6.630.000,00
+2.100.000,00
+400.000,00
+400.000,00
+300.000,00
+1.000.000,00
+2.080.000,00
+400.000,00
+480.000,00
+1.200.000,00
+
+2.450.000,00
+1.400.000,00
+1.050.000,00
+15.890.000,00
+10.990.000,00
+8.400.000,00
+1.390.000,00
+1.200.000,00
+
+
+S - MONITORAMENTO E AVALIAÇÃO
+P - Sistema de Monitoramento
+P - Estudos de Avaliação de Impacto
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+
+Página: 8
+
+4.900.000,00
+2.400.000,00
+2.500.000,00
+150.000.000,00
+
+C - PROMOÇÃO DE SISTEMAS PRODUTIVOS RENTÁVEIS E RESILIENTES E INICIATIVAS DE PROTEÇÃO E
+RECUPERAÇÃO AMBIENTAL
+O Componente 1 se propõe enfrentar o declínio econômico vivido nas últimas décadas assim como as questões ambientais postas
+para os sistemas produtivos na área de intervenção do Projeto Parceiros da Mata. A evolução vivida nos últimos tempos pelos
+sistemas produtivos agropecuários foi marcada por crises importantes, que levaram a uma forte diminuição da produção e, em
+muitos casos, a uma reconversão do uso da terra, com a implantação de sistemas que significam mais extensividade e menor
+produtividade. Por outro lado, as mudanças climáticas globais poderão afetar seriamente os sistemas de produção agrícola e a
+população, devido aos efeitos esperados nos regimes de chuvas e temperaturas, tendo um impacto na produção global destes
+sistemas, na renda e também na segurança alimentar.
+O comportamento da agricultura depois de fortes eventos climáticos tem mostrado que a resiliência diante de eventos extremos
+está estreitamente relacionada com a biodiversidade presente nos sistemas produtivos. Os agricultores que utilizam práticas de
+policultura, tais como culturas de coberturas, cultivos intercalados e sistemas agroflorestais têm obtido maior retenção de umidade
+do solo, menor erosão e menores perdas econômicas. Dessa forma, a agricultura de base ecológica será capaz de orientar a
+produção de produtos in natura e matérias primas para que sejam processadas, beneficiadas e transformadas. Pretende-se adotar
+um processo de transição ecológica com o redesenho dos sistemas de produção para que sejam crescentemente menos
+dependentes de insumos externos, passando a utilizar um conjunto de práticas agropecuárias mais sustentáveis do ponto de vista
+do meio ambiente, da saúde, dos processos produtivos agroalimentares e dos mercados que constroem.
+Em termos operacionais, este componente se propõe promover a preparação de "Planos de Investimento para a Sustentabilidade"
+que definirão as ações (investimentos produtivos, iniciativas de PSA, desenvolvimento de capacidades, etc.) que serão realizados
+pelo Projeto junto às famílias/estabelecimentos, comunidades ou organizações econômicas. Estes Planos serão elaborados com o
+suporte da Assessoria Técnica, que também acompanhará a execução.
+Ao mesmo tempo, o Componente 1 também irá apoiar outras atividades que possam ser ao mesmo tempo sustentáveis e
+geradoras de produto e renda, beneficiando assim o público a ser atendido pelo Projeto.
+
+S - IMPLANTAÇÃO E FORTALECIMENTO DE SISTEMAS DE PRODUÇÃO BIODIVERSOS RESILIENTES
+Com o advento das mudanças climáticas em curso, os riscos para as atividades agropecuárias e sobretudo para a segurança
+alimentar e nutricional são multiplicados devido ao aumento na frequência e intensidade de eventos extremos e desastres
+relacionados com o clima. A adaptação da agropecuária às mudanças climáticas pode ser vista como um processo para promover
+o uso de práticas baseadas em soluções adaptativas advindas dos ecossistemas, que podem fornecer resultados positivos. Nos
+agroecossistemas, adaptar implica adotar práticas de manejo que aproveitem a biodiversidade, os serviços ecossistêmicos e os
+processos ecológicos de biomas naturais ou modificados, como base para ajudar a aumentar a capacidade das culturas e da
+pecuária de se adaptar às mudanças e às variações climáticas.
+O subcomponente parte da constatação de que as experiencias nesse sentido têm demonstrado a importância de melhorar a
+diversidade vegetal e a complexidade nos sistemas. Para tal promoverá a recuperação e a implantação de áreas de policultivos e
+de sistemas agroflorestais agrícolas buscando intensificar a produção de biomassa e de produção agrícola propriamente dita, para
+reduzir a vulnerabilidade diante de eventos climáticos extremos. Ao mesmo tempo, promoverá a implantação/fortalecimento de
+unidades de produção animal adaptadas ao contexto. A compreensão das características de funcionamento dos agroecossistemas
+pode permitir o desenho de sistemas agrícolas resilientes às mudanças climáticas, particularmente à capacidade experimental de
+selecionar plantas que possuam resistência frente às mudanças climáticas.
+
+P - Sistemas Agroflorestais (SAFs)
+Os sistemas agroflorestais, quando bem conduzidos, já vêm mostrando um ótimo potencial para a região de intervenção do Projeto
+, tanto do ponto de vista da produção quanto do fornecimento de outros serviços ecossistêmicos, como a ciclagem de nutrientes, a
+proteção do solo e dos recursos hídricos. O Projeto trabalhará na recuperação e na implantação de sistemas agroflorestais como
+uma atividade central. Tendo um potencial para aumentar a capacidade produtiva da terra e a capacidade de captura de carbono,
+permitindo o uso contínuo do solo sem degradá-lo e possibilitando a recuperação de áreas degradadas, a adoção de SAFs pelos
+agricultores/as auxilia na diminuição da taxa de desmatamento e das queimadas em novas áreas, propiciando uma 're-arborização'
+do espaço rural, favorecendo desenvolvimento socioeconômico. A implantação/recuperação de agroflorestas permitirá uma
+mescla entre diversos cultivos e criações com outras espécies (inclusive arbóreas), especialmente as nativas. A agrobiodiversidade
+instalada nos SAFs permite uma melhor distribuição dos riscos, uma vez que esses sistemas tendem a ser menos afetados por
+condições desfavoráveis e, sobretudo na agricultura familiar, a produção pode ser direcionada para autossuficiência e também
+para o mercado. As inúmeras possibilidades de arranjo dos sistemas permitem uma adaptação às condições edafoclimáticas locais
+e também às oportunidades de mercado que se apresentarem.
+
+
+Página: 9
+
+P - Roçados sustentáveis de culturas alimentares
+Existem na região sistemas produtivos que têm por base culturas de ciclo curto (anual ou bi-anual), geralmente centrados na
+produção de culturas alimentares (tais como a mandioca). No entanto, estes roçados pecam por utilizarem práticas (tais como a
+monocultura, um preparo do solo inadequado, a utilização contraproducente de insumos sintéticos, etc.) que não conseguem
+assegurar a sua sustentabilidade. Assim, é preciso implementar estratégias agroecológicas sustentáveis que promovam a
+resiliência do sistema alimentar e aumentem a produtividade e a diversidade das culturas, tais como práticas de conservação de
+solo e água, rotação de culturas, inclusão de consórcios diversificados, etc., também geram co-benefícios nutricionais para as
+famílias. O aumento da produção local de alimentos ecologicamente sustentáveis, nutritivos e seguros (sem agrotóxicos) ajudará
+os/as agricultores/as e produtores de alimentos locais, em particular as mulheres e as comunidades mais marginalizadas a
+assegurarem a disponibilidade e o acesso a alimentos em quantidade e qualidade adequadas. Os alimentos locais também têm
+maior probabilidade de apoiar dietas melhores e mais saudáveis, ampliando a segurança alimentar das famílias, em especial as
+que estão em situação de pobreza e extrema pobreza.
+
+P - Subsistemas de produção animal
+Sistemas agroecológicos de produção avícola, como a criação de frangos de maneira artesanal ou colonial, são caracterizados
+pela produção que não se enquadra no formato da indústria de frangos de corte. Essa criação está diretamente relacionada à
+agricultura familiar e representa, em muitas experiências, uma das principais fontes econômicas de pequenas propriedades. A
+avicultura familiar produz alimentos de alto valor nutritivo a baixo custo, aproveitando resíduos orgânicos de alimentos existentes
+na propriedade. O fortalecimento / implantação de sistemas deste tipo será uma atividade do Projeto, incluindo o fomento para
+instalações adequadas, a produção in situ de alimentação destes animais e orientações quanto às práticas de manejo que
+contemplem as questões reprodutivas, nutricionais e sanitárias. Também poderão ser implantados outros pequenos criatórios.
+Dentre as outras opções possíveis, uma alternativa poderá ser a criação de suínos. A sustentabilidade é uma condição da
+agroecologia e implica, necessariamente, a associação e a sucessão animal e vegetal. O sistema de produção de suínos em cama
+sobreposta, que foi desenvolvido no Brasil pela Embrapa Suínos e Aves, poderá ser um sistema alternativo útil para as famílias
+atendidas pelo Projeto.
+
+P - Quintais biodiversos
+Os quintais biodiversos, além de contribuir fortemente para uma maior segurança alimentar e nutricional das famílias, também
+funcionam como fonte de renda suplementar, através do cultivo de hortaliças, tubérculos, frutas, etc. Frequentemente incluem
+também a criação de pequenos animais (cf. parágrafo acima). Geralmente contam com uma fonte d'água para poder fazer algum
+tipo de irrigação. Os quintais agroflorestais constituem uma alternativa viável de manejo racional, devido à composição florística,
+estrutura e possibilidade de produção diversificada, auxiliando na segurança alimentar da família durante o ano inteiro. Os quintais
+agroflorestais também são importantes por causa das espécies medicinais cultivadas, por serem locais de conservação de material
+genético e porque oportunizam a convivência das famílias, servindo como espaços de recreação. Além disso, são atividades com
+grande potencial para o empoderamento das mulheres, que costumam ser as principais responsáveis pela produção nos quintais.
+O fortalecimento / implantação de quintais biodiversos será uma linha de atividade do Projeto.
+
+P - Apicultura
+A apicultura também pode ser uma atividade importante para um sistema de agricultura familiar de base ecológica. A ação
+polinizadora das abelhas aumenta a produtividade das lavouras, pomares e pastagens nativas ou cultivadas. As abelhas produzem
+, ainda, excelente alimento para o consumo da família e propiciam uma fonte de renda suplementar, através da venda da produção
+de mel, bem como de própolis, cera e outros produtos da colmeia. O apoio ao desenvolvimento da apicultura irá requerer o
+financiamento de instalações, equipamentos e orientação técnica.
+
+P - Sementes crioulas e mudas de qualidade
+A implantação de um plano de ações estratégicas na perspectiva de fomentar acesso a material genético de boa qualidade deverá
+contar com atividades relacionadas a sementes crioulas e mudas de boa qualidade. O resgate, conservação e multiplicação de
+sementes crioulas, com a instalação de bancos de sementes, buscando ampliar a diversidade de cultivos agrícolas e manutenção
+da agrobiodiversidade e sociobiodiversidade na região de abrangência do Projeto será uma das atividades desenvolvidas pelo
+Projeto. A implantação ou recuperação de SAFs vai exigir o fornecimento de mudas de qualidade tanto das culturas perenes que
+farão parte destes sistemas (cacau, seringa, pupunha, guaraná, frutas) como das plantas nativas que deverão ser incorporadas
+neles. Também será necessária uma produção de mudas para os trabalhos de reflorestamento de APPs, e de Reservas Legais, a
+serem desenvolvidos no sub-componente de PSA
+
+P - Apoio à pesca artesanal e à mariscagem
+A pesca artesanal é realizada exclusivamente pelo trabalho manual do/a pescador/a. Utiliza embarcações de médio e pequeno
+porte e equipamentos sem nenhuma sofisticação, além de insumos adquiridos nos comércios locais. Na área do Projeto a pesca é
+majoritariamente artesanal de subsistência, explorando ambientes próximos à costa, sendo total ou parcialmente destinada ao
+mercado. No âmbito do apoio à mariscagem, uma ação possível é o repovoamento de mangues com larvas de diversos marisco,
+uma tecnologia recentemente desenvolvida pela empresa estadual Bahiapesca. A estruturação do sistema produtivo da pesca e
+mariscagem também irá requerer o aprimoramento da gestão, do acesso aos mercados, infraestrutura e equipamentos, bem como
+o desenvolvimento de novas possibilidades de produtos com pescados e seus resíduos. Requer estratégias de estruturação dos
+sistemas produtivos na forma de ações financiáveis no sentido de apoiar a comercialização direta dos produtos pelas famílias de
+pescadores e marisqueiras, envolvendo suas entidades e ações em rede, assim como melhoria dos produtos e da comercialização
+nos mercados locais. Uma outra estratégia desta linha de atividades estará ancorada na valorização de produtos pouco ou nada
+requisitados pelos restaurantes, a exemplo de catados, mariscos vivos, peixes secos e peixes de terceira qualidade, que também
+são ingredientes de base da culinária local. Com isso, o Projeto irá também contribuir para a valorização e a preservação da cultura
+alimentar dos povos tradicionais.
+
+
+Página: 10
+
+S - PAGAMENTO DE SERVIÇOS AMBIENTAIS
+Este subcomponente irá compor uma estratégia específica de preservação dos ecossistemas, na qual o provedor-beneficiário
+recebe pagamentos ou incentivos condicionados, diretamente do pagador ou através do mediador, como retribuição, monetária ou
+não, pelos serviços ambientais executados por ele, tais como atividades de manutenção, preservação, restauração, recuperação,
+uso sustentável ou melhoria dos ecossistemas ou pelos serviços ecossistêmicos que estes provêm isolada ou cumulativamente.
+Para dar amparo a este tipo de ação, o Estado da Bahia instituiu a política e o programa estadual de para tal fim (com base na Lei
+nº 13.223 de 12 de janeiro de 2015). O Programa Estadual de Pagamento por Serviços Ambientais - PEPSA  está dando os seus
+primeiros passos atualmente e deverá se estruturar e desenvolver nos próximos anos. O Projeto Parceiros da Mata, desde o seu
+início, trabalhará para estabelecer uma convergência crescente com o PEPSA. O projeto trabalhará para estabelecer uma
+convergência crescente com o PEPSA, além de buscar estabelecer parcerias com outras organizações/entidades interessadas.
+
+P - Conservação e recuperação de APPs (matas ciliares, nascentes, topos de morro, encostas íngremes) e Reservas
+Legais
+Esta atividade do Projeto instituirá uma remuneração monetária com recursos do Projeto, visando a proteção e restauração da
+vegetação em Áreas de Preservação Permanente (APP) e de Reserva Legal (RL) e outras sob limitação administrativa, nos termos
+da legislação ambiental, com preferência para aquelas localizadas em bacias hidrográficas consideradas críticas para o
+abastecimento público de água, assim definidas pelo órgão competente, ou em áreas prioritárias para conservação da diversidade
+biológica em processo de desertificação ou avançada fragmentação. Serão convidados para adesão ao programa agricultores/as
+que, por meio de práticas e manejos conservacionistas e de melhoria da cobertura vegetal, venham a contribuir para o abatimento
+efetivo da erosão e da sedimentação, e para o aumento da infiltração de água, segundo o conceito provedor-recebedor. Tem como
+foco a redução da erosão, melhoria da qualidade da água e aumento das vazões dos rios, utilizando práticas mecânicas e
+vegetativas de conservação de solo e água. Na medida em que as áreas florestadas cresçam por meio deste incentivo, haverá
+também maior captura ou sequestro de carbono.
+
+P - Proteção e reconexão de remanescentes florestais
+Os remanescentes da Mata Atlântica estão sob forte pressão antrópica como resultado da exploração dos recursos da
+biodiversidade. Eles também estão sujeitos a graves ameaças devido às espécies invasoras, particularmente as exóticas, ao
+contínuo processo de fragmentação e degradação, à perda da fauna e ao efeito de borda. Além disso, as mudanças climáticas vêm
+se tornando um forte risco à manutenção da biodiversidade, o que pode acentuar as extinções em massa e provocar
+deslocamentos geográficos de espécies e ecossistemas inteiros, podendo levar a um colapso ecológico, colocando em risco o
+provimento de diversos serviços ambientais. Neste contexto, o mecanismo de pagamento por serviços ambientais surge como uma
+ferramenta complementar para promover atividades de conservação/proteção e reconexão, recuperação, manejo e uso
+sustentável dos recursos naturais encontrados nestas áreas de remanescentes florestais.
+
+S - APOIO A ATIVIDADES NÃO AGRÍCOLAS
+Entende-se por "não agrícolas" as atividades econômicas exercidas fora da agropecuária pelos residentes no meio rural. As
+atividades produtivas não agrícolas têm se tornado importante alternativa geradora de renda para a população que reside no meio
+rural, especialmente aquela pertencente à Agricultura Familiar. Além disso, uma maior diversificação das atividades não agrícolas
+poderá potencializar a permanência de mais jovens no campo. As famílias agricultoras têm sido atraídas cada vez mais para
+ocupar distintos postos de trabalho, além do agrícola, tais como turismo rural, agroindustrialização, comércio e prestação de
+serviços. Várias atividades, que inicialmente são complementares, passam a ser componentes relevantes na renda da família,
+dentre as quais merecem destaque a agroindústria familiar rural, o artesanato, o turismo dentre outras.
+
+P - Artesanato
+A área do Projeto abriga balneários multiculturais e comunidades quilombolas que, a partir das diversas espécies de palmeiras,
+como o dendê, a piaçava e o coco-da-baía, produzem artigos de utilidade doméstica, mas também biojoias e trançados, que
+expressam toda a força cultural afro-baiana. A diversidade de opções ligadas à natureza ainda disponibiliza o barro, o
+aproveitamento de madeira, materiais não recicláveis, sementes e cascas. Aliada a isto, a fertilidade do Vale do Rio Jiquiriçá
+proporciona a produção de trançados em fibra de bananeira e cipó. Com a apoio à atividade artesanal espera-se ampliar as
+oportunidades de ocupação, produção e renda, promover o acesso a tecnologias adequadas ao aumento e melhoria da
+capacidade produtiva, de formas a utilizar a inovação como um dos fatores de diferenciação do produto artesanal facilitando assim
+o acesso a mercados. Estimular o resgate a cultura como fator de agregação de valor ao artesanato, promovendo produtos com
+identidade territorial, fará parte desta estratégia. Um esforço especial de focalização buscará incluir nestas iniciativas a maior
+quantidade possível de grupos de mulheres e jovens de comunidades tradicionais.
+
+P - Empreendimentos de Turismo Rural de Base Comunitária
+Existe um potencial latente a ser explorado em relação ao ecoturismo e turismo de aventura devido à grande riqueza em recursos
+naturais (cachoeiras e corredeiras, rios, mangues, praias, matas) e pela singularidade cultural. O Projeto adotará uma estratégia
+que busque agregar valor aos destinos da região, por meio da exploração de nichos de mercado. O objetivo central seria aumentar
+a média de gasto/dia por turista, mediante a veiculação de roteiros que somem ao atrativo praia-sol outras possibilidades, a
+exemplo do turismo ecológico, rural, gastronômico e cultural. Esta linha de ação irá requerer, para além dos investimentos
+materiais, um considerável esforço de qualificação da mão-de-obra local.
+
+
+Página: 11
+
+S - BENEFICIAMENTO, COMERCIALIZAÇÃO E FORTALECIMENTO DE EMPREENDIMENTOS E ORGANIZAÇÕES LOCAIS
+O subcomponente considera a realização de investimentos que permitam agregação de valor à produção, como a melhoria e
+implantação de infraestruturas de armazenamento, beneficiamento e de agroindústrias, assim como processos de certificação da
+produção, desenvolvimento de produtos, de sinais distintivos coletivos (marca coletiva, selos) e rótulos. Considerando a
+implantação e fortalecimento de sistemas de produção biodiversos resilientes, o Projeto apoiará a transformação da produção dos
+sistemas considerados, com o apoio do Serviço de Assessoria Técnica preconizado, mediante a elaboração de Planos de
+Investimento e Planos de Negócios elaborados de forma participativa.
+
+P - Projetos produtivos de beneficiamento de produtos da Agricultura Familiar
+Trata-se de investimentos do Projeto para apoiar iniciativas associativas ou cooperativas de agregação de valor à diversidade de
+produtos  que serão apoiados pelo subcomponente "Implantação e fortalecimento de sistemas de produção biodiversos resilientes".
+Os diversos produtos oriundos das unidades familiares servirão de base ao desenvolvimento do subsistema de beneficiamento
+que os transforma em alimentos e produtos elaborados de maior valor agregado para serem comercializados em mercados,
+especialmente através de cadeias curtas agroalimentares.
+
+P - Fortalecimento dos processos de comercialização
+Os circuitos curtos de comercialização dos produtos provenientes da agricultura familiar atuam em sintonia com o padrão
+descentralizado e inclusivo de desenvolvimento rural quando pequenas produções passam a ser mais valorizadas. Os atributos
+territoriais e locais fazem com que os produtos, in natura ou beneficiados, alcancem um melhor nível de valor agregado aos
+produtos. Muitas vezes as características locais, tais como o tipo de recursos naturais, agroecossistemas, história local, tradições
+gastronômicas e culinárias, identidade social dos atores, possibilitam a criação de marcas com identidade territorial. Estes aspectos
+seriam os definidores da qualidade dos alimentos que, em alguns casos, são chamados de produtos típicos locais. O Projeto
+também apoiará a certificação orgânica participativa (cf. parágrafo a seguir), processo que permite uma agregação de valor muito
+interessante. Estas qualidades diferenciadoras dos produtos deverão permitir estabelecer parcerias concretas com empresas do
+setor privado. Uma possível parceria neste âmbito poderá ser com o setor da hotelaria e da restauração que tem uma forte
+presença no litoral da região de intervenção e que tem muito interesse em produtos alimentares de qualidade diferenciada para
+servir aos seus hóspedes. Outro setor que está em franca expansão é aquele da fabricação de chocolates de alta qualidade. Estes
+buscam cacau de qualidade (inclusive aquele com certificação orgânica), o que permite vislumbrar a possibilidade de estabelecer
+parcerias comerciais dos produtores atendidos pelo Projeto com empresas deste setor . O Projeto atuará como catalisador e
+articulador de parcerias para implementar novas alianças estratégicas, em particular com feiras locais e regionais, redes e centrais
+de comercialização representativas dos agricultores familiares e com atores privados do setor. Além disso, apoiará o acesso aos
+programas de compras públicas voltados para o público da Agricultura Familiar, tais como o PAA e o PNAE.
+
+P - Criação/fortalecimento de Sistemas Part. de Garantia (SPG) (certificação orgânica)
+Nos últimos anos, o mercado de produtos orgânicos tem crescido de forma notória. Considerando a natureza e as características
+de muitos produtos oriundos da AF, o mercado orgânico representa uma oportunidade ímpar. A legislação brasileira requer que,
+para que um produto seja comercializado como orgânico, é necessária uma certificação específica de "produto orgânico". Esta
+mesma legislação prevê que a certificação pode ser "por auditoria" (ou seja por uma entidade externa credenciada contratada para
+tal fim) ou também pode ser através de um sistema participativo de certificação. Estes Sistemas Participativos de Garantia (SPGs),
+capazes de atestar a qualidade orgânica dos produtos, deverão ser estimulados pelo Projeto, pois eles diminuem os custos da
+certificação orgânica e estimulam o envolvimento e a organização dos/as produtores/as. O Projeto atuará no fortalecimento de
+organizações que já implementam SPGs, assim como para implantar novos SPGs.
+
+S - DESENVOLVIMENTO DE CAPACIDADES PARA TEMAS DE PRODUÇÃO RESILIENTE, PROTEÇÃO E RECUPERAÇÃO
+AMBIENTAL, BENEFICIAMENTO, COMERCIALIZAÇÃO E FORTALECIMENTO DAS ORGANIZAÇÕES
+A experiência adquirida pelo Estado da Bahia na execução de projetos desenvolvimento rural sustentável tem demonstrado que
+para executar projetos desta ordem é necessário um forte investimento na construção e disseminação de conhecimento por meio
+de metodologias participativas. Assim, Subcomponente Desenvolvimento de Capacidades para temas de produção resiliente,
+proteção e recuperação ambiental, beneficiamento, comercialização e fortalecimento das organizações buscará fortalecer as
+capacidades individuas e organizativas presentes na região.
+
+P - Assessoria técnica polivalente para famílias, comunidades, empreendimentos econômicos e organizações rurais
+O Projeto deverá prover às famílias, grupos e organizações beneficiárias uma Assessoria Técnica que seja capaz de desenvolver
+as capacidades das pessoas, famílias e organizações nos domínios da implementação de sistemas produtivos mais produtivos e
+sustentáveis, na preservação e recuperação dos recursos naturais, mas também nos domínios do beneficiamento e
+agroindustrialização, na gestão de empreendimentos produtivos e comerciais e no acesso ao crédito e a outras políticas públicas
+que possam apoiar / alavancar as iniciativas da população atendida pelo Projeto. A Assessoria Técnica do Projeto também se
+efetivará em torno dos temas da instalação e manejo de sistemas de acesso à água, das outras dimensões do saneamento e dos
+sistemas de energia renovável, incluindo a realização de eventos de intercâmbio e troca de experiências sobre o tema. A AT
+deverá ser efetivada pelo Projeto em parcerias com diversos tipos de provedores, tais como ONGs, cooperativas, institutos,
+empresas e outros. Procurar-se-á a efetivação de parcerias com provedores de AT que estejam incorporando diferentes
+instrumentos digitais, que permitam realizar também um atendimento remoto. Terá foco na construção e reconstrução do
+conhecimento por meio do processo da participação do público integrante do Projeto e de suas várias formas organizativas, no
+qual estes atores passem da condição de objeto para a condição de principais "sujeitos da ação".
+
+
+Página: 12
+
+P - Capacitações e intercâmbios
+Para alcançar seus objetivos o subcomponente realizará encontros, assembleias, oficinas, rodas de conversas, roda de
+aprendizagens, seminários, visitas de campo e intercâmbios buscando a capacitação das pessoas e das entidades envolvidas com
+a implementação dos planos de desenvolvimento sustentável das comunidades e com a instalação de sistemas hídricos, de
+saneamento e de energia renovável. Compreende-se que pobreza, fragilidade organizacional e não acesso ao conhecimento são
+faces de uma mesma moeda. O subcomponente trabalhará com diversos tipos de processo de formação basicamente em três
+níveis: i) forte investimento na capacitação das pessoas das comunidades com metodologias participativas; ii) desenvolvimento de
+capacidades nas organizações formais e não formais que trabalharão com a execução do Projeto; iii) participação em intercâmbios
+relativos a questões produtivas, organizacionais, tecnologias sociais.
+
+P - Fortalecimento dos empreendimentos e das organizações locais
+A existência da pobreza e da pobreza extrema, que impactam a vida de comunidades rurais, povos indígenas e comunidades
+tradicionais estão estreitamente vinculados à ausência de organização ou à fragilidade desta. A implantação e o bom
+funcionamento de sistemas produtivos mais resilientes, assim como a melhoria das condições de vida da população nas demais
+dimensões trabalhadas pelo Projeto requer o fortalecimento das organizações locais e dos empreendimentos econômicos da
+população atendida, inclusive para poder alcançar um maior e melhor acesso aos mercados. Neste sentido, o Projeto há de investir
+no fortalecimento das entidades locais, buscando desenvolver através destas organizações uma crescente capacidade de ação
+coletiva. Para tal, serão promovidas atividades capazes de desenvolver as capacidades de gestão associativa e cooperativa,
+sempre dando especial atenção para as mulheres, os jovens, os grupos indígenas e as comunidades tradicionais.
+
+P - Iniciativas de educação ambiental
+Diante do grau bastante elevado de degradação ambiental existente na região, assim como da perspectiva das mudanças
+climáticas, o tema ambiental se torna uma necessidade emergencial, colocando-se como ponto de pauta a ser trabalhada pelo
+Projeto, inclusive por ser a Mata Atlântica a sua área de atuação. A ação humana tem sido responsável pela degradação ambiental
+encontrada na região. Sendo um assunto que perpassa todos os componentes, o tema da educação ambiental deve perpassar
+todas as ações do Projeto, buscando sensibilizar amplos segmentos da população da região sobre os problemas ambientais
+existentes, sobre a existência e o papel que devem desempenhar as Unidades de Conservação existentes na área e sobre a
+necessidade de adotar práticas ambientalmente sustentáveis que permitam a preservação e restauração do bioma. Para realizar
+este trabalho de educação ambiental, o Projeto buscará envolver as comunidades locais, assim como com as escolas, institutos
+técnicos e universidades, as organizações da sociedade civil, o setor empresarial assim como as prefeituras e demais órgãos
+governamentais que tem um envolvimento com o tema. O Projeto deverá investir na produção de material pedagógico educativo
+referido ao tema. Também deverá implementar campanhas de educação ambiental dirigidas a diferentes públicos neste domínio.
+
+P - Iniciativas para assegurar a equidade de gênero e a inclusão da juventude
+A experiência do Estado da Bahia na execução dos Projetos Pró-Gavião, Gente de Valor e Pró-Semiárido mostrou que é, ao
+mesmo tempo, possível e necessário realizar um importante investimento na promoção das relações equitativas de gênero num
+projeto de desenvolvimento sustentável. Nesta dimensão, trata-se de agir para garantir que as mulheres possam ter acesso às
+oportunidades oferecidas pelo Projeto de maneira equitativa, quando comparado ao acesso dos homens. De forma semelhante,
+caberá ao Projeto ampliar as oportunidades destinadas à juventude. Para tal, será necessário implementar ações afirmativas,
+destinadas explicitamente à garantia de acesso a mais oportunidades para estes públicos. Como exemplos de ações afirmativas,
+citaremos a criação de cotas de participação de mulheres e jovens na atribuição de fundos de investimento, de oportunidades de
+capacitação, intercâmbio, etc. Outra ação afirmativa que tem tido muito sucesso na construção da autoestima e o empoderamento
+das mulheres tem sido a utilização das "Cadernetas Agroecológicas", que constituem um instrumento de visibilização da
+importância da contribuição econômica da mulher na Agricultura Familiar. Uma terceira ação deste tipo poderá ser o estímulo à
+formação de grupos de jovens e/ou de mulheres, com vistas a lhes proporcionar um espaço de reflexão e de ação próprio.
+
+C - INFRAESTRUTURA E SERVIÇOS PARA O DESENVOLVIMENTO RESILIENTE
+O componente tem o objetivo de implantar infraestrutura e serviços que possam impactar diretamente na qualidade de vida das
+populações, ofertando estruturas hídricas para consumo e a produção, sistemas de saneamento rural, acesso à tecnologia de
+energia renovável, e infraestrutura de acesso as comunidades, a exemplo de estradas vicinais e passagens molhadas.
+
+S - IMPLANTAÇÃO DE TECNOLOGIAS DE COLETA, ESTOCAGEM E ACESSO À ÁGUA
+O objetivo deste subcomponente será o de implantar diferentes estruturas/práticas eficientes de acesso, captação, armazenamento
+e uso e até de tratamento de água para aumentar a segurança hídrica das famílias, tanto naquilo que se refere ao consumo
+humano quanto para o âmbito da produção animal e da agricultura. Serão promovidas tecnologias e práticas de uso comprovado.
+Para além da implantação física destas tecnologias, o Projeto também fará todas as capacitações que permitam que estes
+investimentos sejam bem cuidados, funcionem adequadamente e que a água seja aproveitada da melhor maneira possível.
+
+P - Implantação de cisternas
+Serão construídas cisternas de placas, com capacidade de 16.000 litros, baseadas na tecnologia social desenvolvida no Nordeste.
+De uso doméstico familiar, elas permitem a captação e armazenamento da água de chuva do telhado da habitação familiar.
+Também serão construídas cisternas de produção (de maior porte, geralmente de 52.000 litros ou mais) para captação e
+armazenamento de água para suporte a produção (de hortas, pomares, da criação animal) durante todo o ano, de forma a manter
+o ganho de renda.
+
+
+Página: 13
+
+P - Barragens subterrâneas
+O Programa apoiará a implantação de barragens subterrâneas. Esta Tecnologia Social é constituída por um barramento
+transversal ao leito dos riachos, realizado por meio da fixação de uma manta de plástico flexível em uma vala escavada até
+encontrar a camada subterrânea impermeável. Sua função é reter a água da chuva que escoa por cima e nos interstícios do solo,
+proporcionando a formação ou elevação do lençol freático. À montante e próximo ao barramento deve ser construído um poço
+amazonas ou cacimbão, revestido com anéis de concreto, tijolos, pedras ou placas, para um melhor aproveitamento da água
+armazenada na barragem subterrânea.
+
+P - Pequenas barragens e outras fontes d'água
+Aproveitando a existência de riachos com vazão permanente o semi-permanente e visando a constituição de reservas d'água de
+maior porte, o Projeto também deverá construir ou reformar pequenos açudes e pequenas barragens, que frequentemente servirão
+grupos de várias famílias ou até toda uma comunidade. O Projeto também apoiará a criação / acondicionamento de outras fontes
+de água ? que poderão ser poços tubulares, nascentes de um certo porte (e que já estejam protegidas), etc. - de maneira a garantir
+um abastecimento d'água de boa qualidade para o maior número de famílias possível.
+
+S - SISTEMAS DE ABASTECIMENTO D'ÁGUA E SANEAMENTO RURAL
+O subcomponente implantará sistemas comunitários de abastecimento de água e enfrentara a problemática do esgotamento
+sanitário apoiando iniciativas exitosas de reuso de água cinza e água preta, fossas verdes e sépticas e sistemas coletivos de
+esgotamento sanitário, assim como o manejo de resíduos sólidos.
+
+P - Implantação / fortalecimento de sistemas simplificados de gestão comunitária e de outros sistemas de
+abastecimento d'água
+O Projeto financiará a implantação de sistemas comunitários autogeridos de abastecimento d'água encanada que incluirá
+investimentos em: o acondicionamento (incluindo os equipamentos) da fonte d'água, o tratamento, e a distribuição (com redes e
+conexões residenciais incluindo medidor de consumo). Também serão financiadas a capacitação e a implantação de unidades de
+monitoramento e assessoria. A implantação e a gestão destes sistemas serão realizadas tendo como referência as experiências
+dos sistemas das Centrais de Jacobina e Seabra (na Bahia) e dos sistemas SISAR do Ceará e do Piauí. O Projeto também poderá
+financiar obras que permitam ampliar o abastecimento de água, por exemplo, com a construção de pequenas adutoras, que
+permitam o acesso a este serviço, onde antes não era possível.
+
+P - Instalação de sistemas de tratamento do esgoto sanitário
+De modo a enfrentar a urgente necessidade de enfrentar a problemática do esgotamento sanitário em áreas rurais, o Projeto
+realizará ações de implantação de sistemas de tratamento do destes efluentes de diversos tipos: i) sistemas de reuso de águas
+cinzas (bioágua familiar); ii) fossas verdes (ou BETs  bacias de evapotranspiração); iii) fossas sépticas econômicas; módulos
+sanitários (modelo FUNASA); iv) sistemas coletivos (de pequeno porte) de tratamento do esgotamento sanitário.
+
+P - Iniciativas experimentais de manejo de resíduos sólidos no meio rural
+O Projeto apoiará a implantação, na sua área de atuação, de alguns sistemas experimentais de coleta seletiva do lixo, englobando
+a área urbana e também a área rural . Estas experiências deverão ser concebidas e implementadas em parceria com algumas
+prefeituras municipais. Tratar-se á de definir modelos de gestão de resíduos sólidos que envolvam as famílias, as organizações
+comunitárias e os órgãos municipais concernidas, que realize a coleta regular e o tratamento adequado do lixo (embalagens,
+papeis, metais, plásticos, etc.). O apoio poderá financiar equipamentos e outros investimentos que sejam necessários para realizar
+estas experiências. Poderá também incluir o apoio para organizações cooperativas.
+
+S - ACESSO A FONTES DE ENERGIA RENOVÁVEL
+Buscando diminuir a dependência das famílias das fontes de energia mais emissoras de CO2, o Projeto apoiará a instalação de
+equipamentos que permitam melhorar a eficiência no uso de fontes convencionais (como a lenha), assim como o aproveitamento
+de fontes de energia renovável. No âmbito dos investimentos produtivos, serão implantados equipamentos que utilizem a energia
+solar ou eólica e biodigestores. O Projeto fornecerá Assessoria Técnica que possa apoiar a definição, instalação e funcionamento
+das tecnologias / equipamentos.
+
+P - Implantação de fogões ecoeficientes
+Existem modelos de baixo custo de fogões eco-eficientes que reduzem significativamente o consumo de lenha, além de trazer uma
+chaminé que permite jogar a fumaça do fogão para fora da cozinha. A implantação deste tipo de fogão traz diversas vantagens,
+sendo as principais a diminuição do consumo de lenha e, portanto, de emissão de CO2, a diminuição do tempo de coleta (atividade
+geralmente realizada por mulheres e/ou crianças. A evacuação da fumaça da casa também significa um maior bem-estar e
+também uma menor probabilidade de ocorrerem doenças respiratórias nas famílias. Acompanhará a instalação destes fogões, a
+realização de atividades de capacitação em nutrição saudável, especialmente para famílias com crianças de até 5 anos.
+
+P - Instalação de biodigestores
+Serão construídos biodigestores familiares nos estabelecimentos que dispõem de matéria prima para o seu funcionamento (
+principalmente esterco dos animais e resíduos vegetais). O biogás gerado nos biodigestores pode ser utilizado para gerar energia
+de diversos formatos, sendo o mais usual a energia térmica, nos fogões de cozinha. Havendo a possibilidade, o biodigestor pode
+ser instalado em unidades de beneficiamento de mandioca, o que permite o processamento da "manipueira", efluente oriundo do
+processamento da mandioca, que pode ser um elemento poluidor do ambiente.
+
+
+Página: 14
+
+P - Sistemas fotovoltaicos e eólicos
+Serão instalados sistemas fotovoltaicos para alimentação de sistemas de irrigação e unidades de beneficiamento de produtos
+agrícolas. Também serão utilizados cataventos para bombeamento d'água e outros usos. A utilização destas fontes de energia
+"limpa" reduz os custos de funcionamento destas atividades.
+
+S - INFRAESTRUTURA DE ACESSO ÀS COMUNIDADES RURAIS E DE INCLUSÃO DIGITAL
+Na área de atuação do Projeto há um déficit importante de infraestrutura básica, que dificulta a mobilidade da população e
+prejudica as atividades produtivas das comunidades rurais, atingindo com maior impacto as comunidades tradicionais e povos
+indígenas. O advento da pandemia da Covid-19 deu maior visibilidade ao isolamento digital das comunidades. O desafio deste
+subcomponente está em recuperar, ampliar, construir, e fortalecer as estruturas locais básica necessárias. Também deverá investir
+na instalação de equipamentos que possibilitem a esta população rural um maior acesso às tecnologias da informação.
+
+P - Manutenção e melhoria de estradas rurais (vicinais)
+Nos 3 Territórios de Identidade da área de abrangência do Projeto, as comunidades rurais frequentemente ficam isoladas durante o
+período chuvoso, pois as estradas vicinais de "chão" dificultam ou mesmo impossibilitam o tráfego de praticamente qualquer
+veículo. Isso dificulta o acesso da população aos serviços de saúde, educação, aos centros urbanos e impede a circulação de
+mercadorias. Devido à situação de má conservação das estradas vicinais, o Projeto deverá apoiar, geralmente em parceria com as
+prefeituras municipais, intervenções de conserto, recondicionamento e melhoria na rede viária municipal, buscando melhorar as
+suas condições de maneira remediar algumas das dificuldades aqui mencionadas. Estas intervenções poderão ser acopladas a
+alguns planos de investimentos realizados com associações, cooperativas, entidades ou mesmo prefeituras como investimentos
+necessários para garantir a mobilidade e a viabilidade econômica da produção local.
+
+P - Passagens molhadas, pequenas pontes
+Os pequenos cursos d'água (riachos, etc.) são numerosos na região. Em muitas circunstâncias eles podem constituir um obstáculo
+que dificulta ou até impede a passagem. Assim, a implantação de passagens molhadas ou pequenas pontes deverá constituir uma
+importante ação do Projeto, o qual visa reduzir o isolamento das comunidades mais afastadas. A necessidade dessas obras deverá
+ser identificada e depois priorizada partir de critérios de cunho técnico (viabilidade técnica, custo acessível) e também social, de
+modo atender as necessidades dos maiores contingentes de população de comunidades rurais isoladas. Em certos casos as
+passagens molhadas poderão ter também um impacto positivo sobre a regularização da vazão de riachos, permitindo uma
+contenção da erosão e uma infiltração da água. Para a implementação destas pequenas obras, será necessário estabelecer
+acordos de cooperação técnica com prefeituras ou outros órgãos que trabalhem neste sentido.
+
+P - Ampliação da conectividade rural
+A pandemia da Covid-19 evidenciou a urgência na ampliação da conectividade nos espaços rurais e do uso das tecnologias e das
+plataformas virtuais para quebrar o isolamento das comunidades, assegurar a realização de atividades na modalidade virtual.
+Deixou mais evidente que a conectividade digital rural permite mais acesso ao conhecimento, mais tecnologias e oportunidades. E
+mostrou que ela permite também uma comunicação mais rápida com e entre as comunidades, inclusive aquelas que estão isoladas
+. A conectividade rural também pode ser um instrumento fundamental para a inclusão de jovens no processo organizativo e
+produtivo das comunidades rurais, já que estes têm maior facilidade no uso de redes sociais e conhecimento de tecnologias da
+informação. Além de garantir uma maior integração das áreas mais isoladas da região, também possibilita que as equipes de
+Assessoria Técnica se beneficiem deste recurso, agregando o modo "remoto" à gama de instrumentos a ser utilizada por elas.
+Dentro duma estratégia de ampliação desta conectividade, o Projeto deverá investir na aquisição/instalação de equipamentos para
+implantar ou ampliar a conectividade das comunidades rurais, principalmente as mais isoladas. Também investirá na capacitação
+de jovens em informática básica; na melhoria dos processos de comunicação interna e; na aquisição de equipamentos para as
+associações visando a otimização de seus processos de gestão e comercialização. Nesta empreitada, o Projeto buscará parcerias
+com Ministério de Ciência, Tecnologia, Inovações e Comunicação, com prefeituras municipais e universidades para a implantação
+de Pontos de Inclusão Digital (PID) em comunidades rurais e capacitação dos jovens.
+
+C - FORTALECIMENTO INSTITUCIONAL
+Este componente tem primordialmente a finalidade de possibilitar o desenvolvimento de capacidades na esfera estadual,
+fortalecendo a capacidade técnica, institucional e organizacional dos atores envolvidos na implementação do Projeto. Este
+fortalecimento deverá permitir uma melhora na entrega de diferentes serviços que são importantes para a população rural.
+Adicionalmente, ele promoverá a produção e a troca de informações sobre as diferentes temáticas do Projeto, tais como a gestão
+dos recursos hídricos, uso sustentável do solo, saneamento rural, entre outros. Estas informações, devidamente registradas e
+compiladas, deverão subsidiar as decisões políticas e o desenho de ações em todos os setores, apoiando as atividades de
+priorização e integração da conservação e uso sustentável da água. Suas atividades procurarão coordenar as redes, planos e
+projetos existentes, a fim de complementar os fluxos e os sistemas de informações, evitando a duplicação de esforços
+
+S - SERVIÇOS PARA O FORTALECIMENTO DA AGRICULTURA FAMILIAR
+Nos três Territórios do Baixo Sul, Litoral Sul e Vale do Jiquiriçá, o subcomponente buscará reforçar alguns serviços que são
+necessários para o fortalecimento da agricultura familiar, investindo na obtenção de uma maior segurança jurídica de suas
+propriedades e área ancestrais, na sua regularização ambiental, além de apoiar a estruturação de serviços de defesa e sanidade
+agropecuária.
+
+
+Página: 15
+
+P - Regularização fundiária e ambiental
+Na região onde o Projeto atuará é bastante comum que, por diversos motivos, os/as agricultores/as familiares não tenham a
+escritura da terra mesmo que eles sejam seus legítimos donos. Esta situação "irregular" gera insegurança e torna as famílias mais
+vulneráveis, por exemplo, no evento de um conflito com grileiros ou com mineradoras. Também pode ser um fator que dificulta o
+acesso ao crédito e inibe a realização de investimentos produtivos sustentáveis.  Por outro lado, é recorrente, para muitos
+estabelecimentos familiares, a ausência do CEFIR (Cadastro Estadual Florestal de Imóveis Rurais) . Este fato pode ser um
+impeditivo para o acesso às políticas públicas dirigidas especificamente para a Agricultura Familiar. Sendo o CEFIR um
+instrumento que busca organizar a atuação dos cadastrados no âmbito da conservação e recuperação dos recursos naturais, a sua
+falta dificulta a implementação deste tipo de iniciativa, sendo mais gritante o problema nas áreas coletivas dos povos indígenas e
+comunidades quilombolas. Buscando contribuir para que se materialize uma melhora na entrega destes serviços para a população
+atendida, o Projeto investirá no fortalecimento dos órgãos CDA (da regularização fundiária) e INEMA (da regularização ambiental).
+Espera-se que, por meio de um trabalho conjunto com estes órgãos, o Projeto possa promover a regularização fundiária e/ou
+ambiental de um conjunto de propriedades rurais / estabelecimentos das famílias agricultoras da sua área de atuação.
+
+P - Apoio aos processos de reconhecimento e certificação de comunidades e povos tradicionais
+Encontrando-se estas  comunidades e povos entre os mais pobres e excluídos da Bahia, o Projeto promoverá um conjunto de
+atividades (tais como encontros de sensibilização na perspectiva do autorreconhecimento e assembleias) tendo como finalidade a
+organização da documentação exigida pela SEPROMI - Secretaria de Promoção da Igualdade Racial do Estado - para emissão da
+certificação de reconhecimento, possibilitando a estas comunidades acessar políticas públicas exclusivas. Este processo deverá
+possibilitar o fortalecimento desta Secretaria, permitindo que o procedimento de reconhecimento se torne mais célere e mais
+transparente. Com respeito às áreas indígenas, estas terão o apoio do projeto para que busquem junto à FUNAI a demarcação de
+suas terras. Para além destas ações o componente investirá na elaboração de planos de desenvolvimento sustentável voltados
+para estas comunidades.
+
+P - Fortalecimento dos serviços de defesa / sanidade agropecuária (SUASA, etc)
+O governo do Estado da Bahia, por meio da Secretaria de Desenvolvimento Rural-SDR tem se empenhado na criação, em cada
+Território, de um SETAF (Serviço Territorial de Apoio à Agricultura Familiar). Uma das tarefas atribuídas aos SETAFs é aquela de
+ajudar a estruturar serviços de defesa / inspeção sanitária nos municípios, permitindo assim a regularização sanitária de diversos
+produtos da AF, o que facilita a sua colocação no mercado. Uma estratégia utilizada com uma certa frequência pelos SETAFs é
+aquela de incentivar a formação de Consórcios Municipais, que permitem montar um serviço deste tipo, com adequação ao
+Sistema Unificado de Atenção à Sanidade Agropecuária - SUASA, que possa servir a vários municípios. O Projeto apoiará, com
+alguns recursos para investimento e capacitações, a formação de pelo menos 3 destes Serviços de Inspeção em Consórcio,
+durante o seu tempo de atuação.
+
+P - Capacitação do órgão executor e coexecutor
+Será realizada a capacitação sistemática das equipes técnicas do órgão executor e do coexecutor, por meio de oficinas,
+intercâmbios com outros projetos e visitas a iniciativas inovadoras bem sucedida que possam ser replicadas.
+
+S - FORTALECIMENTO DOS ÓRGÃOS EXECUTOR, COEXECUTOR E ENTIDADES PARCEIRAS
+O Projeto promoverá atividades destinadas a fortalecer a capacidade institucional das agências de governo que serão executora e
+coexecutoras das suas atividades. Isto exigirá o estabelecimento de mecanismos/espaços de coordenação entre as diferentes
+agências, que deverá, entre outras coisas: i) definir e estabelecer acordos institucionais entre agências e subsetores; ii) melhorar a
+coordenação operacional entre o Projeto e as agências e entidades parceiras envolvidas na sua execução. Espera-se que esta
+coordenação entre agências e entidades parceiras permita que a implementação geral do Projeto seja eficaz.
+Ao mesmo tempo, buscar-se-á o estabelecimento de um sistema de informações que permita registrar e monitorar o
+funcionamento e situação dos sistemas de abastecimento d'água e saneamento do meio rural, definir e implantar mecanismos de
+assessoramento técnico e um modelo de gestão para os sistemas de abastecimento de água no meio rural.
+
+P - Desenvolvimento das capacidades das equipes de prefeituras e consórcios municipais parceiros
+Sendo que o Projeto deverá implementar vários tipos de ação em conjunto com diversas prefeituras municipais e, eventualmente,
+com consórcios de municípios, será necessário que o Projeto implemente ações visando o fortalecimento das equipes destas
+entidades parceiras. Para tal, serão implementadas iniciativas de capacitação, assim como visitas de intercâmbio e outras
+atividades semelhantes, com vistas a desenvolver as capacidades destas equipes.
+
+P - Desenvolvimento das capacidades de outras entidades parceiras
+Também serão implementadas iniciativas de capacitação de diversos tipos (tais como cursos, oficinas, visitas de intercâmbio e
+outras atividades semelhantes), com vistas a desenvolver as capacidades das demais entidades parceiras, com especial destaque
+das entidades provedoras de Assessoria Técnica.
+
+P - Estudos e Consultorias para apoio aos órgãos executor, coexecutor e entidades parceiras sobre temas
+especializados
+Contratação de estudos e consultorias especializadas sobre temas específicos nas áreas ambiental, gestão de recursos hídricos,
+saneamento rural, sistemas produtivos resilientes, dentre outros, buscando a aplicação das melhores práticas existentes sobre
+essas temáticas.
+
+
+Página: 16
+
+S - GESTÃO DE CONHECIMENTO E COMUNICAÇÃO
+A finalidade do subcomponente é desenvolver o processo de criação, compartilhamento, uso e gerenciamento do conhecimento,
+levando em conta a geração de diferentes processos, formatos e linguagens valorizando a sistematização de experiência e ações
+de comunicação.
+
+P - Sistematização de experiências
+As intervenções do Projeto serão objeto de avaliações participativas e qualitativas dos seus resultados, sendo que aquelas de
+impacto comprovado serão selecionadas para serem sistematizadas, com a metodologia adequada para esse processo e serão
+disseminadas como referência de boas práticas.
+
+P - Ações de Comunicação
+O Projeto desenvolverá atividades na área de comunicação envolvendo a divulgação de seus resultados, por meio da elaboração e
+disseminação de publicações de diversos formatos, adequados para os diversos públicos (agricultores, técnicos, etc), da
+realização de eventos de apresentação de boas práticas, de campanhas informativas junto ao público beneficiário, sempre
+desenvolvendo linguagens de comunicação adaptadas ao público do Projeto.
+
+C - GESTÃO DO PROJETO
+O componente financiará o funcionamento da Unidade de Gestão do projeto - UGP, incluindo a coordenação em Salvador e
+escritórios locais, acompanhando as atividades planejadas e suas linhas de atuação. Destinado a todas as despesas operacionais
+para o pleno funcionamento da UGP.
+
+S - UNIDADE DE GESTÃO DO PROJETO
+A Unidade Gestora do Projeto (UGP), será responsável pela coordenação geral, gestão administrativa, financeira e orçamentaria,
+através de instrumentos que permitam reforçar: i) O gerenciamento; ii) A administração; iii) A gestão financeira; iv) Os processos de
+aquisição (licitações e contratos); e v) A capacidade operacional técnica. Este acompanhamento deverá facilitar o cumprimento
+das cláusulas contratuais do Acordo de Empréstimo.
+
+P - Apoio a gestão
+Compreende o atendimento aos parâmetros, Diretrizes e Políticas do BID e do FIDA para financiamentos, tais como os
+procedimentos específicos para: i) licitações e contratos; ii) Fluxo de fundos e Desembolsos; e iii) supervisão da implementação
+das iniciativas comunitárias, assegurando o cumprimento dos requerimentos de salvaguardas ambientais e sociais, de aquisições e
+de gestão financeira, incluindo prestações de contas dos beneficiários.
+
+P - Equipamentos diversos
+Compreende a infraestrutura/equipamentos necessária para a execução das atividades do Projeto, tais como, veículos,
+equipamentos de informática, móveis, materiais de escritório, etc..
+
+P - Estudos e consultorias no domínio da gestão do Projeto
+Contratação de Estudos e Consultorias especializadas sobre temas específicos na área de gestão do Projeto.
+
+S - MONITORAMENTO E AVALIAÇÃO
+O Projeto implantará um núcleo de Planejamento, Monitoramento e Avaliação das atividades e resultados, que será um
+instrumento essencial para a gestão, permitindo a realização do planejamento e acompanhamento da execução do Projeto. Esse
+núcleo será composto por uma equipe específica, que deverá acompanhar, articular e registrar a execução das atividades
+propostas pelos diversos Componentes, apoiando de forma estratégica a execução destas ações. Caberá a esta equipe de
+Planejamento e Monitoramento e Avaliação executar suas atividades em consonância com os componentes, no sentido de auxiliar
+na mensuração dos indicadores do marco lógico, no registro de informações referentes aos avanços físicos e resultados obtidos.
+Além da complementariedade operacional, essas articulações serão fundamentais para garantir que o Projeto seja executado
+conforme definido no MIP e no POA/PAC do ano vigente.
+O planejamento principal será feito anualmente com a preparação do Plano Operativo Anual (POA). Todo o processo de
+planejamento buscará promover a participação dos diversos públicos e agentes envolvidos, começando no âmbito das
+comunidades rurais, assentamentos de reforma agrária e comunidades indígenas e tradicionais, dos municípios que farão parte do
+Projeto. Ele definirá atividades e resultados almejados para o período anual, e alocará os recursos necessários para a realização
+do que foi planejado. Uma vez aprovado o POA/PAC e iniciada a sua execução, caberá à equipe de Planejamento, Monitoria e
+Avaliação fazer o registro das atividades realizadas e dos resultados alcançados durante o período de planejamento. Este
+processo será feito geralmente com o auxílio do Marco Lógico.
+Será necessário integrar as estratégias de monitoramento com a atuação do Projeto como um todo. Os produtos deste processo
+continuado de planejamento, monitoramento e avaliação deverão alimentar os processos internos de reflexão. Com base nas
+informações sistematizadas sobre os avanços e entraves no alcance dos indicadores previstos, a equipe técnica poderá assim
+efetuar uma revisão das estratégias de ação nas diversas etapas do ciclo de implementação, caso necessário. As pessoas
+encarregadas das tarefas de sistematização e gestão do conhecimento trabalharão de forma alinhada com as equipes de M&A e
+com a equipe responsável pelo trabalho de gênero, raça e etnia. Desta forma, será estimulada a produção de conhecimento de
+forma integrada, capaz de subsidiar novas ações, e também para a divulgação dos principais resultados obtidos.
+
+
+Página: 17
+
+P - Sistema de Monitoramento
+O Núcleo de Planejamento, Monitoria e Avaliação será constituído por uma equipe de profissionais qualificados, que trabalhará
+com sistemas informatizados que permitam registrar as informações pertinentes, processá-las e assim obter os resultados que
+possam auxiliar e apoiar a gestão do Projeto. Serão definidos um conjunto de indicadores chave capazes de permitir uma
+visualização do seu desempenho em suas diversas fases de implementação. As principais tarefas dessa equipe serão:
+-O apoio na elaboração do POA junto aos responsáveis dos componentes;
+-O acompanhamento dos indicadores do Marco Lógico (ML)
+-A atualização permanente do sistema informatizado de M&A;
+-O apoio aos componentes na elaboração dos Relatórios Técnicos de Avanço;
+-O gerenciamento do estudo de Avaliação de Impacto (Linha de Base, Avaliação Intermediária e Avaliação Final);
+- As sistematizações quantitativas de intervenção por área temática:
+- A realização de avaliações participativas e qualitativas dos resultados;
+- A realização de monitoramento utilizando o Sistema de Informações Georeferenciadas ? SIG.
+
+P - Estudos de Avaliação de Impacto
+O Projeto deverá conceber e realizar um Estudo de Avaliação de Impacto do Projeto, compreendendo a pesquisa e análise da
+Linha de Base ou Marco Zero, a Avaliação Intermediária e Avaliação Final.
+
+
+Página: 18
+
+Valor
+
+% Financeiro
+
+Unidade de medida
+-
+unidade
+unidade
+unidade
+Km
+
+Meta
+
+-
+2.500,00
+1.000,00
+230,00
+200,00
+
+67.750.000,00
+8.750.000,00
+3.500.000,00
+16.100.000,00
+17.000.000,00
+
+unidade
+
+3.000,00
+
+9.000.000,00
+
+Categoria de Gasto
+
+Obras
+P- Implantação de cisternas
+P- Barragens subterrâneas
+P- Pequenas barragens e outras fontes d'água
+P- Implantação / fortalecimento de sistemas
+simplificados de gestão comunitária e de outros
+sistemas de abastecimento d'água
+P- Instalação de sistemas de tratamento do
+esgoto sanitário
+P- Iniciativas experimentais de manejo de
+resíduos sólidos no meio rural
+P- Manutenção e melhoria de estradas rurais (
+vicinais)
+P- Passagens molhadas, pequenas pontes
+Bens
+P- Apicultura
+P- Apoio à pesca artesanal e à mariscagem
+P- Artesanato
+P- Implantação de fogões ecoeficientes
+P- Instalação de biodigestores
+P- Sistemas fotovoltaicos e eólicos
+P- Equipamentos diversos
+Consultoria
+P- Estudos e Consultorias para apoio aos órgãos
+executor, coexecutor e entidades parceiras sobre
+temas especializados
+P- Sistematização de experiências
+P- Estudos e consultorias no domínio da gestão
+do Projeto
+P- Estudos de Avaliação de Impacto
+Serviços que Não de Consultoria
+P- Sistemas Agroflorestais (SAFs)
+P- Roçados sustentáveis de culturas alimentares
+P- Subsistemas de produção animal
+P- Conservação e recuperação de APPs (matas
+ciliares, nascentes, topos de morro, encostas
+íngremes) e Reservas Legais
+P- Proteção e reconexão de remanescentes
+florestais
+P- Fortalecimento dos processos de
+comercialização
+P- Criação/fortalecimento de Sistemas Part. de
+Garantia (SPG) (certificação orgânica)
+P- Assessoria técnica polivalente para famílias,
+comunidades, empreendimentos econômicos e
+organizações rurais
+P- Capacitações e intercâmbios
+P- Fortalecimento dos empreendimentos e das
+organizações locais
+P- Iniciativas de educação ambiental
+P- Regularização fundiária e ambiental
+P- Apoio aos processos de reconhecimento e
+certificação de comunidades e povos tradicionais
+P- Fortalecimento dos serviços de defesa /
+sanidade agropecuária (SUASA, etc)
+P- Ações de Comunicação
+P- Apoio a gestão
+Outros
+P- Quintais biodiversos
+P- Sementes crioulas e mudas de qualidade
+P- Empreendimentos de Turismo Rural de Base
+Comunitária
+P- Projetos produtivos de beneficiamento de
+produtos da Agricultura Familiar
+P- Iniciativas para assegurar a equidade de
+gênero e a inclusão da juventude
+P- Ampliação da conectividade rural
+P- Capacitação do órgão executor e coexecutor
+
+unidade
+
+km
+
+unidade
+-
+kit
+kit
+Projetos
+unidade
+unidade
+unidade
+verba
+-
+Estudos
+
+unidade
+unidade
+
+Unidade
+-
+hectare
+hectare
+hectare
+Projetos
+
+Projetos
+
+Projetos
+
+Unidades
+certificadas
+Familias
+
+Projetos
+Projetos
+
+Projetos
+Projetos
+Projetos
+
+Projetos
+
+unidade
+unidade
+-
+unidade
+Projetos
+Projetos
+
+Projetos
+
+Projetos
+
+unidade
+Eventos
+
+45,17
+5,83
+2,33
+10,73
+11,33
+
+6,00
+
+0,60
+
+1,00
+
+7,33
+7,33
+0,33
+1,73
+0,33
+1,00
+1,00
+2,00
+0,93
+4,20
+0,80
+
+0,93
+0,80
+
+1,67
+31,55
+1,99
+1,33
+1,67
+1,13
+
+1,13
+
+1,60
+
+0,50
+
+600,00
+
+300,00
+
+100,00
+-
+1.000,00
+2.000,00
+100,00
+1.500,00
+1.500,00
+100,00
+1,00
+-
+100,00
+
+70,00
+6,00
+
+10,00
+-
+2.300,00
+2.000,00
+2.500,00
+10,00
+
+10,00
+
+800,00
+
+900.000,00
+
+1.500.000,00
+
+11.000.000,00
+10.990.000,00
+500.000,00
+2.600.000,00
+500.000,00
+1.500.000,00
+1.500.000,00
+3.000.000,00
+1.390.000,00
+6.300.000,00
+1.200.000,00
+
+1.400.000,00
+1.200.000,00
+
+2.500.000,00
+47.330.000,00
+2.990.000,00
+2.000.000,00
+2.500.000,00
+1.700.000,00
+
+1.700.000,00
+
+2.400.000,00
+
+1.500,00
+
+750.000,00
+
+85.000,00
+
+20.400.000,00
+
+13,60
+
+130,00
+220,00
+
+170,00
+4,00
+4,00
+
+10,00
+
+700,00
+6,00
+-
+3.000,00
+10,00
+70,00
+
+150,00
+
+260,00
+
+60,00
+100,00
+
+390.000,00
+1.100.000,00
+
+850.000,00
+400.000,00
+400.000,00
+
+300.000,00
+
+1.050.000,00
+8.400.000,00
+17.630.000,00
+1.500.000,00
+1.200.000,00
+350.000,00
+
+6.000.000,00
+
+1.300.000,00
+
+3.000.000,00
+1.000.000,00
+
+0,26
+0,73
+
+0,57
+0,27
+0,27
+
+0,20
+
+0,70
+5,60
+11,75
+1,00
+0,80
+0,23
+
+4,00
+
+0,87
+
+2,00
+0,67
+
+
+Página: 19
+
+P- Desenvolvimento das capacidades das equipes
+de prefeituras e consórcios municipais parceiros
+P- Desenvolvimento das capacidades de outras
+entidades parceiras
+P- Sistema de Monitoramento
+Total Geral
+
+Eventos
+
+Eventos
+
+Unidade
+-
+
+50,00
+
+60,00
+
+6,00
+-
+
+400.000,00
+
+480.000,00
+
+2.400.000,00
+150.000.000,00
+
+0,27
+
+0,32
+
+1,60
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+O governo da Bahia realizou diversas reuniões internas " notadamente com as equipes da SDR e da CAR " para a definição da ideia inicial
+do Projeto Parceiros da Mata, envolvendo sua concepção, área de intervenção, volume de recursos, público prioritário, estratégia de ação
+, etc.
+
+Também ocorreram entendimentos prévios entre a direção da SDR e da CAR com os representantes das agências financiadoras FIDA e o
+BID, culminando com 02 reuniões onde foram apresentados pelo estado a concepção geral do Projeto, o que permitiu discussões sobre a
+proposta e a manifestação de interesse das 02 agências (FIDA e BID) em participarem do seu financiamento e apoiarem tecnicamente o
+seu detalhamento.
+
+O FIDA disponibilizou uma consultoria que realizou, em março/2022, uma missão de apoio ao estado na preparação de uma versão inicial
+do Projeto, assim como da elaboração da Carta Consulta.
+
+O Projeto de Desenvolvimento Rural Sustentável na Região Semiárida da Bahia - Pró-semiárido, executado em parceria com o FIDA, cuja
+vigência se encerra em março de 2023, é coordenado pela CAR, onde se encontra a Unidade de Gestão do Projeto - UGP. Conforme foi
+dito anteriormente, esse projeto trabalha em 32 municípios de mais baixo IDH do semiárido baiano e é considerado muito bem sucedido
+como estratégia de intervenção para apoio a populações pobres do meio rural da Bahia. Para além dos seus resultados no âmbito da
+produção e da renda das famílias atendidas, o Pró-semiárido vai deixar um importante legado em termos de método de trabalho que será
+aproveitado nessa proposta. Deste legado destacamos: i) uma metodologia de focalização do público beneficiário e de planejamento
+participativo, que permite identificar as famílias mais necessitadas, e favorece a intensa participação deste público no planejamento das
+ações, incluindo os investimentos, que o Projeto realiza com ele; ii) O fornecimento de um serviço de Assessoria Técnica de qualidade,
+abrangendo um amplo leque de temas, que trabalhou com uma série de indicadores e ferramentas metodológicas inovadoras e cujo
+trabalho foi monitorado de perto pela UGP do Projeto; iii) O Projeto e as equipes de AT por ele contratadas trabalharam orientadas pelo
+enfoque agroecológico, o que permitiu que as inovações trabalhadas junto às famílias tivessem uma excelente aderência ambiental,
+econômica e social ao meio no qual o Projeto trabalhou.
+
+O Projeto Bahia Produtiva, também executado pela CAR/SDR, é um projeto com a cooperação financeira do Banco Mundial, tendo uma
+abrangência estadual incluindo os territórios de identidade aqui propostos. Esse projeto tem como prioridade apoiar atividades produtivas
+que demonstram ser rentáveis e sustentáveis, particularmente com a agregação de valor através do beneficiamento e processamento da
+produção, podendo ser um importante apoio ao projeto nas comunidades que foram beneficiadas. Este projeto está apoiando, em
+pequena escala, a implantação de sistemas produtivos sustentáveis.
+
+A região também conta com a forte presença de organizações não governamentais a exemplo da OCT , SASOP , dentre outras, que sem
+dúvida, fornecerão ótimas referências para o desenho e a implementação do Projeto.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Sem detalhes
+
+Estado da Bahia ()
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+A presente proposta inclui recursos de duas entidades financeiras internacionais. A seguir apresentam-se as condições de cada uma:
+
+BID
+
+Prazo de Desembolso: 6 anos (72 meses)
+
+Prazo de Carência: Mínimo 7 anos (84 meses)
+
+Prazo de Amortização: 16,5 anos
+
+Prazo Total: 23,5 anos
+
+Taxa de Juros (2º trimestre de 2022): SOFR  + 0,29% (margem de financiamento) + 0,90% (margem de empréstimo BID)
+
+O valor do SOFR é calculado diariamente. Para o dia 19/05/2022, este valor era de 0,09%, pelo que a Taxa de Juros seria de: 0,09 + 0,29
++ 0,90 = 1,28%
+
+Comissão de crédito sobre o saldo não desembolsado: 0,50% a.a.
+
+FIDA
+
+(cid:10)
+
+
+Página: 20
+
+O Brasil está incluído na Categoria 4 de países e as suas condições são ordinárias
+
+Prazo total: 18 anos (incluindo o período de carência)
+
+Período de carência: 3 anos
+
+Período de amortização: 15 anos (prazo total menos período de carência)
+
+Prazo de amortização média é 10,75 anos (soma das amortizações médias ponderadas do principal durante o período de amortização -já
+calculadas em função do prazo de vencimento de 18 anos e do período de carência de 3 anos)
+
+Condição normal de financiamento, em USD, taxa fixa
+
+Taxa de juros: Para as condições acima mencionadas - Taxa de juros (2º trimestre 2022): 1,34%
+
+Comissão de crédito sobre saldo não desembolsado: nenhuma
+
+Devido às dificuldades que atravessam os estados brasileiros e também a Bahia, a capacidade de investimento está aquém das
+necessidades para fomentar e apoiar o desenvolvimento do meio rural baiano. Soma se a isso o fato de que os agentes financeiros
+externos têm linhas de financiamento que permitem a captação de recursos necessários aos investimentos que possibilitarão o acesso a
+água potável, saneamento e infraestrutura básica, a preservação e recuperação ambiental e também destinados à busca de ganhos na
+renda de forma sustentável das famílias mais carentes. Nesse contexto, o financiamento externo se torna uma opção factível para as
+ações de investimento necessárias para o Estado da Bahia.
+
+No arranjo desse Projeto será muito importante o aporte financeiro previsto para os dois organismos internacionais, assim como o nível de
+experiência desses agentes em âmbito nacional e internacional. Como vimos anteriormente, o governo do estado da Bahia e o FIDA já
+acumulam 25 anos de colaboração no âmbito do desenvolvimento rural, tendo implementado três projetos de sucesso: o Pró-Gavião (1998
+/ 2006), o Gente de Valor (2007 / 2012) e  o Pró-Semiárido (2014 / 2022). Assim, a escolha do FIDA tem relação direta com sua expertise
+já aplicada no Estado na participação em outros projetos de forma consolidada no desenvolvimento da área rural. No caso do BID, ele tem
+atuado financiando diversos projetos na Bahia, em diversos âmbitos, tais como a qualificação do capital humano, energia solar, a
+modernização do fisco, infraestrutura de água e saneamento. Destaque-se a implementação do Programa de Desenvolvimento Ambiental,
+implementado entre 2012 e 2018. Este será o agente financeiro responsável pelo maior aporte de recursos. Saliente-se ainda que o BID e
+o FIDA estão financiando, conjuntamente, o Projeto Integrado de Segurança Hídrica, Sustentabilidade Ambiental e Desenvolvimento
+Socioprodutivo da Bacia dos rios Piauí e Canindé Estado Do Piauí - Piauí Sustentável e Inclusivo (PSI)  no estado do Piauí. Os
+entendimentos já existentes entre o BID e o FIDA irão permitir que não exista duplicação de esforços, por exemplo, no caso das auditorias,
+das regras de aquisições e de outros procedimentos.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+O Projeto Parceiros da Mata terá uma abrangência estadual, atendendo 61 municípios pertencentes a três Territórios de Identidade: Baixo
+Sul, Litoral Sul e Vale do Jiquiriçá. Ele irá atender aproximadamente 100.000 famílias (ou por volta de 370.000 pessoas) como
+beneficiárias diretas de suas ações.
+
+Deste total, 65.000 famílias serão atendidas com ações relacionadas com melhorias nas infraestruturas (de acesso a água e saneamento,
+de melhoria das estradas rurais, implantação de passagens molhadas e pequenas pontes, de conectividade digital) e serviços (
+regularização fundiária e ambiental, inclusão digital, AT, etc.). Além destas, o Projeto beneficiará mais 35.000 famílias com atividades
+voltadas para um fortalecimento da produção e produtividade e da resiliência dos sistemas produtivos diante das mudanças climáticas,
+para a proteção e recuperação dos recursos naturais e voltadas também para a realização de negócios no meio rural, recebendo também
+assessoria técnica.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 21
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Interamericano de Desenvolvimento
+- BID
+Fundo Internacional  para o
+Desenvolvimento da  Agricultura - FIDA
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BID
+
+FIDA
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+US$
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+Valor Proposto
+
+32.000.000,00
+Valor Proposto
+
+100.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+32.000.000,00
+Valor de Referência US
+$
+100.000.000,00
+
+18.000.000,00
+
+1,00
+
+18.000.000,00
+
+150.000.000,00
+
+150.000.000,00
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+A agência executora será a Secretaria de Desenvolvimento Rural - SDR, por meio da Companhia de Desenvolvimento e Ação Regional -
+CAR, empresa pública vinculada à SDR, que será a coexecutora do Projeto e responsável pelo seu gerenciamento técnico, financeiro e
+administrativo.
+
+A SDR / CAR terá um importante papel de articulação com outros Órgãos Públicos, notadamente com a Secretaria de Planejamento -
+SEPLAN e a Secretaria da Fazenda - SEFAZ.
+
+A Unidade Gestora do Projeto (UGP), já existente e localizada na CAR, será responsável pela gestão do Projeto, com o propósito de
+assegurar agilidade e eficácia a sua execução.
+
+O Projeto deverá estabelecer parcerias com diversos de outros órgãos estaduais, sendo os principais:
+
+Coordenação de Desenvolvimento Agrário - CDA
+
+Secretaria do Meio Ambiente - SEMA
+
+Instituto do Meio Ambiente e Recursos Hídricos - INEMA
+
+Secretaria da Promoção da Igualdade Racial - SEPROMI
+
+Companhia de Engenharia Hídrica e de Saneamento da Bahia - CERB
+
+Diversas ações deverão ser executadas conjuntamente com Prefeituras Municipais e com Consórcios de municípios, que também deverão
+tornar-se parceiros importantes do Projeto, na perspectiva, inclusive, de fortalecer mecanismos de sustentabilidade, inclusão e ampla
+participação.
+
+Por este ângulo, a UGP disseminará práticas de governança e transparência, com vistas a garantir a aderência dos principais atores,
+adotando um Comitê Gestor do Projeto, que será composto pelo Conselho de Administração da CAR, bem como outras secretarias e
+instituições do Estado (inclusive a SDR e Secretaria de Planejamento), cuja suas funções serão as de verificar a coerência com os
+objetivos do projeto e de prover orientação estratégica para a execução do mesmo.
+
+Nesta perspectiva o Projeto irá participar dos Colegiados de Desenvolvimento Territorial (órgãos para a participação e coordenação local
+das ações das organizações sociais, governamentais e da sociedade civil) com o objetivo de informar o andamento da execução do
+Projeto, obter feedback sobre as suas operações e receber contribuições em sua execução.
+
+Finalmente, destacaremos que o Projeto também se apoiará fortemente em entidades da sociedade civil, que detém experiência local e
+regional, para a implementação descentralizada e participativa de suas intervenções.
+
+A Matriz de Responsabilidades Institucionais encontra-se no ANEXO V.
+
+
+### 4.2. Execução/Executores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 22
+
+Executor: Companhia de Desenvolvimento e Ação Regional - CAR/SEPLAN-BA
+
+Representante Oficial: Wilson Dias
+
+Endereço da Sede: Avenida Luis Viana Filho, 2ª Avenida, nº 250 Anexo, Centro Administrativo da Bahia
+E-mail Institucional:
+Telefone:
+
+Fax:
+UF:
+
+CNPJ:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 6 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+COMPONENTES
+C - PROMOÇÃO DE SISTEMAS PRODUTIVOS RENTÁVEIS E
+RESILIENTES E INICIATIVAS DE PROTEÇÃO E
+RECUPERAÇÃO AMBIENTAL
+S - IMPLANTAÇÃO E FORTALECIMENTO DE SISTEMAS DE
+PRODUÇÃO BIODIVERSOS RESILIENTES
+P - Sistemas Agroflorestais (SAFs)
+
+P - Roçados sustentáveis de culturas alimentares
+
+P - Subsistemas de produção animal
+
+P - Quintais biodiversos
+
+P - Apicultura
+
+P - Sementes crioulas e mudas de qualidade
+
+P - Apoio à pesca artesanal e à mariscagem
+
+S - PAGAMENTO DE SERVIÇOS AMBIENTAIS
+
+P - Conservação e recuperação de APPs (matas ciliares,
+nascentes, topos de morro, encostas íngremes) e Reservas
+Legais
+P - Proteção e reconexão de remanescentes florestais
+
+S - APOIO A ATIVIDADES NÃO AGRÍCOLAS
+
+P - Artesanato
+
+P - Empreendimentos de Turismo Rural de Base
+Comunitária
+S - BENEFICIAMENTO, COMERCIALIZAÇÃO E
+FORTALECIMENTO DE EMPREENDIMENTOS E
+ORGANIZAÇÕES LOCAIS
+P - Projetos produtivos de beneficiamento de produtos da
+Agricultura Familiar
+P - Fortalecimento dos processos de comercialização
+
+P - Criação/fortalecimento de Sistemas Part. de Garantia (
+SPG) (certificação orgânica)
+S - DESENVOLVIMENTO DE CAPACIDADES PARA TEMAS
+DE PRODUÇÃO RESILIENTE, PROTEÇÃO E RECUPERAÇÃO
+AMBIENTAL, BENEFICIAMENTO, COMERCIALIZAÇÃO E
+FORTALECIMENTO DAS ORGANIZAÇÕES
+P - Assessoria técnica polivalente para famílias,
+comunidades, empreendimentos econômicos e organizações
+rurais
+P - Capacitações e intercâmbios
+
+P - Fortalecimento dos empreendimentos e das
+organizações locais
+P - Iniciativas de educação ambiental
+
+P - Iniciativas para assegurar a equidade de gênero e a
+inclusão da juventude
+C - INFRAESTRUTURA E SERVIÇOS PARA O
+DESENVOLVIMENTO RESILIENTE
+S - IMPLANTAÇÃO DE TECNOLOGIAS DE COLETA,
+ESTOCAGEM E ACESSO À ÁGUA
+P - Implantação de cisternas
+
+P - Barragens subterrâneas
+
+VALOR
+
+CUSTO
+
+CF
+
+Ano 1
+
+FONTES
+
+BID
+
+50.730.000,00
+
+1.065.330,00
+
+3.398.910,00
+
+FIDA
+608.760,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+TOTAL
+
+FIDA
+
+13.290.000,00
+
+279.090,00
+
+890.430,00
+
+159.480,00
+
+2.990.000,00
+
+2.000.000,00
+
+2.500.000,00
+
+1.500.000,00
+
+500.000,00
+
+1.200.000,00
+
+2.600.000,00
+
+3.400.000,00
+
+1.700.000,00
+
+1.700.000,00
+
+850.000,00
+
+500.000,00
+
+350.000,00
+
+62.790,00
+
+42.000,00
+
+52.500,00
+
+31.500,00
+
+10.500,00
+
+25.200,00
+
+54.600,00
+
+71.400,00
+
+35.700,00
+
+35.700,00
+
+17.850,00
+
+10.500,00
+
+7.350,00
+
+200.330,00
+
+134.000,00
+
+167.500,00
+
+100.500,00
+
+33.500,00
+
+80.400,00
+
+174.200,00
+
+227.800,00
+
+113.900,00
+
+113.900,00
+
+56.950,00
+
+33.500,00
+
+23.450,00
+
+35.880,00
+
+24.000,00
+
+30.000,00
+
+18.000,00
+
+6.000,00
+
+14.400,00
+
+31.200,00
+
+40.800,00
+
+20.400,00
+
+20.400,00
+
+10.200,00
+
+6.000,00
+
+4.200,00
+
+9.150.000,00
+
+192.150,00
+
+613.050,00
+
+109.800,00
+
+6.000.000,00
+
+126.000,00
+
+402.000,00
+
+72.000,00
+
+2.400.000,00
+
+750.000,00
+
+50.400,00
+
+15.750,00
+
+160.800,00
+
+50.250,00
+
+28.800,00
+
+9.000,00
+
+24.040.000,00
+
+504.840,00
+
+1.610.680,00
+
+288.480,00
+
+20.400.000,00
+
+428.400,00
+
+1.366.800,00
+
+244.800,00
+
+390.000,00
+
+1.100.000,00
+
+850.000,00
+
+1.300.000,00
+
+8.190,00
+
+23.100,00
+
+17.850,00
+
+27.300,00
+
+26.130,00
+
+73.700,00
+
+56.950,00
+
+87.100,00
+
+4.680,00
+
+13.200,00
+
+10.200,00
+
+15.600,00
+
+76.750.000,00
+
+1.611.750,00
+
+5.672.850,00
+
+390.400,00
+
+28.350.000,00
+
+595.350,00
+
+1.967.750,00
+
+271.900,00
+
+8.750.000,00
+
+183.750,00
+
+691.250,00
+
+3.500.000,00
+
+73.500,00
+
+276.500,00
+
+0,00
+
+0,00
+
+P - Pequenas barragens e outras fontes d'água
+
+16.100.000,00
+
+338.100,00
+
+1.000.000,00
+
+271.900,00
+
+S - SISTEMAS DE ABASTECIMENTO D'ÁGUA E
+SANEAMENTO RURAL
+P - Implantação / fortalecimento de sistemas simplificados
+de gestão comunitária e de outros sistemas de abastecimento
+d'água
+P - Instalação de sistemas de tratamento do esgoto sanitário
+
+P - Iniciativas experimentais de manejo de resíduos sólidos
+no meio rural
+S - ACESSO A FONTES DE ENERGIA RENOVÁVEL
+
+P - Implantação de fogões ecoeficientes
+
+P - Instalação de biodigestores
+
+P - Sistemas fotovoltaicos e eólicos
+
+26.900.000,00
+
+564.900,00
+
+2.125.100,00
+
+17.000.000,00
+
+357.000,00
+
+1.343.000,00
+
+9.000.000,00
+
+189.000,00
+
+711.000,00
+
+900.000,00
+
+18.900,00
+
+71.100,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+6.000.000,00
+
+126.000,00
+
+355.500,00
+
+118.500,00
+
+1.500.000,00
+
+1.500.000,00
+
+3.000.000,00
+
+31.500,00
+
+31.500,00
+
+63.000,00
+
+118.500,00
+
+237.000,00
+
+0,00
+
+118.500,00
+
+S - INFRAESTRUTURA DE ACESSO ÀS COMUNIDADES
+RURAIS E DE INCLUSÃO DIGITAL
+P - Manutenção e melhoria de estradas rurais (vicinais)
+
+15.500.000,00
+
+325.500,00
+
+1.224.500,00
+
+1.500.000,00
+
+31.500,00
+
+118.500,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+
+Página: 23
+
+P - Passagens molhadas, pequenas pontes
+
+11.000.000,00
+
+231.000,00
+
+869.000,00
+
+P - Ampliação da conectividade rural
+
+3.000.000,00
+
+63.000,00
+
+237.000,00
+
+C - FORTALECIMENTO INSTITUCIONAL
+
+6.630.000,00
+
+139.230,00
+
+444.210,00
+
+S - SERVIÇOS PARA O FORTALECIMENTO DA
+AGRICULTURA FAMILIAR
+P - Regularização fundiária e ambiental
+
+P - Apoio aos processos de reconhecimento e certificação
+de comunidades e povos tradicionais
+P - Fortalecimento dos serviços de defesa / sanidade
+agropecuária (SUASA, etc)
+P - Capacitação do órgão executor e coexecutor
+
+S - FORTALECIMENTO DOS ÓRGÃOS EXECUTOR,
+COEXECUTOR E ENTIDADES PARCEIRAS
+P - Desenvolvimento das capacidades das equipes de
+prefeituras e consórcios municipais parceiros
+P - Desenvolvimento das capacidades de outras entidades
+parceiras
+P - Estudos e Consultorias para apoio aos órgãos executor,
+coexecutor e entidades parceiras sobre temas especializados
+S - GESTÃO DE CONHECIMENTO E COMUNICAÇÃO
+
+P - Sistematização de experiências
+
+P - Ações de Comunicação
+
+C - GESTÃO DO PROJETO
+
+P - Apoio a gestão
+
+P - Equipamentos diversos
+
+0,00
+
+0,00
+
+79.560,00
+
+25.200,00
+
+4.800,00
+
+4.800,00
+
+2.100.000,00
+
+44.100,00
+
+140.700,00
+
+400.000,00
+
+400.000,00
+
+8.400,00
+
+8.400,00
+
+26.800,00
+
+26.800,00
+
+300.000,00
+
+6.300,00
+
+20.100,00
+
+3.600,00
+
+1.000.000,00
+
+2.080.000,00
+
+21.000,00
+
+43.680,00
+
+67.000,00
+
+139.360,00
+
+12.000,00
+
+24.960,00
+
+400.000,00
+
+8.400,00
+
+26.800,00
+
+4.800,00
+
+480.000,00
+
+10.080,00
+
+32.160,00
+
+5.760,00
+
+1.200.000,00
+
+25.200,00
+
+80.400,00
+
+14.400,00
+
+2.450.000,00
+
+1.400.000,00
+
+1.050.000,00
+
+51.450,00
+
+29.400,00
+
+22.050,00
+
+164.150,00
+
+93.800,00
+
+70.350,00
+
+29.400,00
+
+16.800,00
+
+12.600,00
+
+15.890.000,00
+
+367.500,00
+
+1.172.500,00
+
+210.000,00
+
+8.400.000,00
+
+176.400,00
+
+562.800,00
+
+100.800,00
+
+1.390.000,00
+
+63.000,00
+
+25.200,00
+
+201.000,00
+
+80.400,00
+
+S - UNIDADE DE GESTÃO DO PROJETO
+
+10.990.000,00
+
+264.600,00
+
+844.200,00
+
+151.200,00
+
+P - Estudos e consultorias no domínio da gestão do Projeto
+
+1.200.000,00
+
+S - MONITORAMENTO E AVALIAÇÃO
+
+4.900.000,00
+
+102.900,00
+
+328.300,00
+
+P - Sistema de Monitoramento
+
+P - Estudos de Avaliação de Impacto
+
+2.400.000,00
+
+2.500.000,00
+
+50.400,00
+
+52.500,00
+
+160.800,00
+
+167.500,00
+
+36.000,00
+
+14.400,00
+
+58.800,00
+
+28.800,00
+
+30.000,00
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+3.183.810,00
+
+10.688.470,00
+
+1.288.720,00
+
+0,00
+
+0,00
+
+0,00
+
+COMPONENTES
+C - PROMOÇÃO DE SISTEMAS PRODUTIVOS RENTÁVEIS E
+RESILIENTES E INICIATIVAS DE PROTEÇÃO E
+RECUPERAÇÃO AMBIENTAL
+S - IMPLANTAÇÃO E FORTALECIMENTO DE SISTEMAS DE
+PRODUÇÃO BIODIVERSOS RESILIENTES
+P - Sistemas Agroflorestais (SAFs)
+
+P - Roçados sustentáveis de culturas alimentares
+
+P - Subsistemas de produção animal
+
+P - Quintais biodiversos
+
+P - Apicultura
+
+P - Sementes crioulas e mudas de qualidade
+
+P - Apoio à pesca artesanal e à mariscagem
+
+S - PAGAMENTO DE SERVIÇOS AMBIENTAIS
+
+P - Conservação e recuperação de APPs (matas ciliares,
+nascentes, topos de morro, encostas íngremes) e Reservas
+Legais
+P - Proteção e reconexão de remanescentes florestais
+
+S - APOIO A ATIVIDADES NÃO AGRÍCOLAS
+
+P - Artesanato
+
+P - Empreendimentos de Turismo Rural de Base
+Comunitária
+S - BENEFICIAMENTO, COMERCIALIZAÇÃO E
+FORTALECIMENTO DE EMPREENDIMENTOS E
+ORGANIZAÇÕES LOCAIS
+P - Projetos produtivos de beneficiamento de produtos da
+Agricultura Familiar
+P - Fortalecimento dos processos de comercialização
+
+P - Criação/fortalecimento de Sistemas Part. de Garantia (
+SPG) (certificação orgânica)
+S - DESENVOLVIMENTO DE CAPACIDADES PARA TEMAS
+DE PRODUÇÃO RESILIENTE, PROTEÇÃO E RECUPERAÇÃO
+AMBIENTAL, BENEFICIAMENTO, COMERCIALIZAÇÃO E
+FORTALECIMENTO DAS ORGANIZAÇÕES
+P - Assessoria técnica polivalente para famílias,
+comunidades, empreendimentos econômicos e organizações
+rurais
+P - Capacitações e intercâmbios
+
+P - Fortalecimento dos empreendimentos e das
+organizações locais
+P - Iniciativas de educação ambiental
+
+P - Iniciativas para assegurar a equidade de gênero e a
+inclusão da juventude
+
+VALOR
+
+CUSTO
+
+CF
+
+Ano 2
+
+FONTES
+
+BID
+
+1.597.995,00
+
+5.098.365,00
+
+FIDA
+913.140,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+TOTAL
+
+FIDA
+
+418.635,00
+
+1.335.645,00
+
+239.220,00
+
+94.185,00
+
+63.000,00
+
+78.750,00
+
+47.250,00
+
+15.750,00
+
+37.800,00
+
+81.900,00
+
+300.495,00
+
+201.000,00
+
+251.250,00
+
+150.750,00
+
+50.250,00
+
+120.600,00
+
+261.300,00
+
+107.100,00
+
+341.700,00
+
+53.550,00
+
+170.850,00
+
+53.550,00
+
+26.775,00
+
+15.750,00
+
+11.025,00
+
+170.850,00
+
+85.425,00
+
+50.250,00
+
+35.175,00
+
+53.820,00
+
+36.000,00
+
+45.000,00
+
+27.000,00
+
+9.000,00
+
+21.600,00
+
+46.800,00
+
+61.200,00
+
+30.600,00
+
+30.600,00
+
+15.300,00
+
+9.000,00
+
+6.300,00
+
+288.225,00
+
+919.575,00
+
+164.700,00
+
+189.000,00
+
+603.000,00
+
+108.000,00
+
+75.600,00
+
+23.625,00
+
+241.200,00
+
+75.375,00
+
+43.200,00
+
+13.500,00
+
+757.260,00
+
+2.416.020,00
+
+432.720,00
+
+642.600,00
+
+2.050.200,00
+
+367.200,00
+
+12.285,00
+
+34.650,00
+
+26.775,00
+
+40.950,00
+
+39.195,00
+
+110.550,00
+
+85.425,00
+
+130.650,00
+
+7.020,00
+
+19.800,00
+
+15.300,00
+
+23.400,00
+
+
+Página: 24
+
+C - INFRAESTRUTURA E SERVIÇOS PARA O
+DESENVOLVIMENTO RESILIENTE
+S - IMPLANTAÇÃO DE TECNOLOGIAS DE COLETA,
+ESTOCAGEM E ACESSO À ÁGUA
+P - Implantação de cisternas
+
+P - Barragens subterrâneas
+
+P - Pequenas barragens e outras fontes d'água
+
+S - SISTEMAS DE ABASTECIMENTO D'ÁGUA E
+SANEAMENTO RURAL
+P - Implantação / fortalecimento de sistemas simplificados
+de gestão comunitária e de outros sistemas de abastecimento
+d'água
+P - Instalação de sistemas de tratamento do esgoto sanitário
+
+P - Iniciativas experimentais de manejo de resíduos sólidos
+no meio rural
+S - ACESSO A FONTES DE ENERGIA RENOVÁVEL
+
+P - Implantação de fogões ecoeficientes
+
+P - Instalação de biodigestores
+
+P - Sistemas fotovoltaicos e eólicos
+
+S - INFRAESTRUTURA DE ACESSO ÀS COMUNIDADES
+RURAIS E DE INCLUSÃO DIGITAL
+P - Manutenção e melhoria de estradas rurais (vicinais)
+
+P - Passagens molhadas, pequenas pontes
+
+P - Ampliação da conectividade rural
+
+C - FORTALECIMENTO INSTITUCIONAL
+
+S - SERVIÇOS PARA O FORTALECIMENTO DA
+AGRICULTURA FAMILIAR
+P - Regularização fundiária e ambiental
+
+P - Apoio aos processos de reconhecimento e certificação
+de comunidades e povos tradicionais
+P - Fortalecimento dos serviços de defesa / sanidade
+agropecuária (SUASA, etc)
+P - Capacitação do órgão executor e coexecutor
+
+S - FORTALECIMENTO DOS ÓRGÃOS EXECUTOR,
+COEXECUTOR E ENTIDADES PARCEIRAS
+P - Desenvolvimento das capacidades das equipes de
+prefeituras e consórcios municipais parceiros
+P - Desenvolvimento das capacidades de outras entidades
+parceiras
+P - Estudos e Consultorias para apoio aos órgãos executor,
+coexecutor e entidades parceiras sobre temas especializados
+S - GESTÃO DE CONHECIMENTO E COMUNICAÇÃO
+
+P - Sistematização de experiências
+
+P - Ações de Comunicação
+
+C - GESTÃO DO PROJETO
+
+S - UNIDADE DE GESTÃO DO PROJETO
+
+P - Apoio a gestão
+
+P - Equipamentos diversos
+
+P - Estudos e consultorias no domínio da gestão do Projeto
+
+S - MONITORAMENTO E AVALIAÇÃO
+
+P - Sistema de Monitoramento
+
+P - Estudos de Avaliação de Impacto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+C - PROMOÇÃO DE SISTEMAS PRODUTIVOS RENTÁVEIS E
+RESILIENTES E INICIATIVAS DE PROTEÇÃO E
+RECUPERAÇÃO AMBIENTAL
+S - IMPLANTAÇÃO E FORTALECIMENTO DE SISTEMAS DE
+PRODUÇÃO BIODIVERSOS RESILIENTES
+P - Sistemas Agroflorestais (SAFs)
+
+P - Roçados sustentáveis de culturas alimentares
+
+P - Subsistemas de produção animal
+
+P - Quintais biodiversos
+
+P - Apicultura
+
+P - Sementes crioulas e mudas de qualidade
+
+P - Apoio à pesca artesanal e à mariscagem
+
+S - PAGAMENTO DE SERVIÇOS AMBIENTAIS
+
+P - Conservação e recuperação de APPs (matas ciliares,
+nascentes, topos de morro, encostas íngremes) e Reservas
+Legais
+P - Proteção e reconexão de remanescentes florestais
+
+S - APOIO A ATIVIDADES NÃO AGRÍCOLAS
+
+P - Artesanato
+
+2.417.625,00
+
+8.187.025,00
+
+907.850,00
+
+893.025,00
+
+2.451.625,00
+
+907.850,00
+
+275.625,00
+
+1.036.875,00
+
+110.250,00
+
+414.750,00
+
+0,00
+
+0,00
+
+507.150,00
+
+1.000.000,00
+
+907.850,00
+
+847.350,00
+
+3.187.650,00
+
+535.500,00
+
+2.014.500,00
+
+283.500,00
+
+1.066.500,00
+
+28.350,00
+
+106.650,00
+
+189.000,00
+
+711.000,00
+
+47.250,00
+
+47.250,00
+
+94.500,00
+
+177.750,00
+
+177.750,00
+
+355.500,00
+
+488.250,00
+
+1.836.750,00
+
+47.250,00
+
+177.750,00
+
+346.500,00
+
+1.303.500,00
+
+94.500,00
+
+355.500,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+208.845,00
+
+666.315,00
+
+119.340,00
+
+66.150,00
+
+211.050,00
+
+37.800,00
+
+12.600,00
+
+12.600,00
+
+40.200,00
+
+40.200,00
+
+7.200,00
+
+7.200,00
+
+9.450,00
+
+30.150,00
+
+5.400,00
+
+31.500,00
+
+65.520,00
+
+100.500,00
+
+209.040,00
+
+18.000,00
+
+37.440,00
+
+12.600,00
+
+40.200,00
+
+7.200,00
+
+15.120,00
+
+48.240,00
+
+8.640,00
+
+37.800,00
+
+120.600,00
+
+21.600,00
+
+77.175,00
+
+44.100,00
+
+33.075,00
+
+246.225,00
+
+140.700,00
+
+105.525,00
+
+44.100,00
+
+25.200,00
+
+18.900,00
+
+530.250,00
+
+1.691.750,00
+
+303.000,00
+
+375.900,00
+
+1.199.300,00
+
+214.800,00
+
+264.600,00
+
+844.200,00
+
+151.200,00
+
+73.500,00
+
+37.800,00
+
+234.500,00
+
+120.600,00
+
+154.350,00
+
+492.450,00
+
+75.600,00
+
+78.750,00
+
+241.200,00
+
+251.250,00
+
+42.000,00
+
+21.600,00
+
+88.200,00
+
+43.200,00
+
+45.000,00
+
+0,00
+
+4.754.715,00
+
+15.643.455,00
+
+2.243.330,00
+
+0,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+CF
+
+Ano 3
+
+FONTES
+
+BID
+
+FIDA
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+TOTAL
+
+FIDA
+
+2.982.924,00
+
+9.516.948,00
+
+1.704.528,00
+
+781.452,00
+
+2.493.204,00
+
+446.544,00
+
+175.812,00
+
+560.924,00
+
+100.464,00
+
+117.600,00
+
+375.200,00
+
+147.000,00
+
+469.000,00
+
+88.200,00
+
+29.400,00
+
+70.560,00
+
+281.400,00
+
+93.800,00
+
+225.120,00
+
+152.880,00
+
+487.760,00
+
+67.200,00
+
+84.000,00
+
+50.400,00
+
+16.800,00
+
+40.320,00
+
+87.360,00
+
+199.920,00
+
+637.840,00
+
+114.240,00
+
+99.960,00
+
+318.920,00
+
+57.120,00
+
+99.960,00
+
+49.980,00
+
+29.400,00
+
+318.920,00
+
+159.460,00
+
+93.800,00
+
+57.120,00
+
+28.560,00
+
+16.800,00
+
+
+Página: 25
+
+P - Empreendimentos de Turismo Rural de Base
+Comunitária
+S - BENEFICIAMENTO, COMERCIALIZAÇÃO E
+FORTALECIMENTO DE EMPREENDIMENTOS E
+ORGANIZAÇÕES LOCAIS
+P - Projetos produtivos de beneficiamento de produtos da
+Agricultura Familiar
+P - Fortalecimento dos processos de comercialização
+
+P - Criação/fortalecimento de Sistemas Part. de Garantia (
+SPG) (certificação orgânica)
+S - DESENVOLVIMENTO DE CAPACIDADES PARA TEMAS
+DE PRODUÇÃO RESILIENTE, PROTEÇÃO E RECUPERAÇÃO
+AMBIENTAL, BENEFICIAMENTO, COMERCIALIZAÇÃO E
+FORTALECIMENTO DAS ORGANIZAÇÕES
+P - Assessoria técnica polivalente para famílias,
+comunidades, empreendimentos econômicos e organizações
+rurais
+P - Capacitações e intercâmbios
+
+P - Fortalecimento dos empreendimentos e das
+organizações locais
+P - Iniciativas de educação ambiental
+
+P - Iniciativas para assegurar a equidade de gênero e a
+inclusão da juventude
+C - INFRAESTRUTURA E SERVIÇOS PARA O
+DESENVOLVIMENTO RESILIENTE
+S - IMPLANTAÇÃO DE TECNOLOGIAS DE COLETA,
+ESTOCAGEM E ACESSO À ÁGUA
+P - Implantação de cisternas
+
+P - Barragens subterrâneas
+
+P - Pequenas barragens e outras fontes d'água
+
+S - SISTEMAS DE ABASTECIMENTO D'ÁGUA E
+SANEAMENTO RURAL
+P - Implantação / fortalecimento de sistemas simplificados
+de gestão comunitária e de outros sistemas de abastecimento
+d'água
+P - Instalação de sistemas de tratamento do esgoto sanitário
+
+P - Iniciativas experimentais de manejo de resíduos sólidos
+no meio rural
+S - ACESSO A FONTES DE ENERGIA RENOVÁVEL
+
+P - Implantação de fogões ecoeficientes
+
+P - Instalação de biodigestores
+
+P - Sistemas fotovoltaicos e eólicos
+
+S - INFRAESTRUTURA DE ACESSO ÀS COMUNIDADES
+RURAIS E DE INCLUSÃO DIGITAL
+P - Manutenção e melhoria de estradas rurais (vicinais)
+
+P - Passagens molhadas, pequenas pontes
+
+P - Ampliação da conectividade rural
+
+C - FORTALECIMENTO INSTITUCIONAL
+
+S - SERVIÇOS PARA O FORTALECIMENTO DA
+AGRICULTURA FAMILIAR
+P - Regularização fundiária e ambiental
+
+P - Apoio aos processos de reconhecimento e certificação
+de comunidades e povos tradicionais
+P - Fortalecimento dos serviços de defesa / sanidade
+agropecuária (SUASA, etc)
+P - Capacitação do órgão executor e coexecutor
+
+S - FORTALECIMENTO DOS ÓRGÃOS EXECUTOR,
+COEXECUTOR E ENTIDADES PARCEIRAS
+P - Desenvolvimento das capacidades das equipes de
+prefeituras e consórcios municipais parceiros
+P - Desenvolvimento das capacidades de outras entidades
+parceiras
+P - Estudos e Consultorias para apoio aos órgãos executor,
+coexecutor e entidades parceiras sobre temas especializados
+S - GESTÃO DE CONHECIMENTO E COMUNICAÇÃO
+
+P - Sistematização de experiências
+
+P - Ações de Comunicação
+
+C - GESTÃO DO PROJETO
+
+S - UNIDADE DE GESTÃO DO PROJETO
+
+P - Apoio a gestão
+
+P - Equipamentos diversos
+
+P - Estudos e consultorias no domínio da gestão do Projeto
+
+S - MONITORAMENTO E AVALIAÇÃO
+
+P - Sistema de Monitoramento
+
+P - Estudos de Avaliação de Impacto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+20.580,00
+
+65.660,00
+
+11.760,00
+
+538.020,00
+
+1.716.540,00
+
+307.440,00
+
+352.800,00
+
+1.125.600,00
+
+201.600,00
+
+141.120,00
+
+450.240,00
+
+44.100,00
+
+140.700,00
+
+80.640,00
+
+25.200,00
+
+1.413.552,00
+
+4.509.904,00
+
+807.744,00
+
+1.199.520,00
+
+3.827.040,00
+
+685.440,00
+
+22.932,00
+
+64.680,00
+
+49.980,00
+
+76.440,00
+
+73.164,00
+
+206.360,00
+
+159.460,00
+
+243.880,00
+
+13.104,00
+
+36.960,00
+
+28.560,00
+
+43.680,00
+
+4.512.900,00
+
+11.040.350,00
+
+5.936.750,00
+
+1.666.980,00
+
+3.334.270,00
+
+2.936.750,00
+
+514.500,00
+
+1.935.500,00
+
+205.800,00
+
+774.200,00
+
+0,00
+
+0,00
+
+946.680,00
+
+624.570,00
+
+2.936.750,00
+
+1.581.720,00
+
+3.950.280,00
+
+2.000.000,00
+
+999.600,00
+
+2.760.400,00
+
+1.000.000,00
+
+529.200,00
+
+990.800,00
+
+1.000.000,00
+
+52.920,00
+
+199.080,00
+
+352.800,00
+
+1.327.200,00
+
+88.200,00
+
+88.200,00
+
+331.800,00
+
+331.800,00
+
+176.400,00
+
+663.600,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+911.400,00
+
+2.428.600,00
+
+1.000.000,00
+
+88.200,00
+
+331.800,00
+
+0,00
+
+646.800,00
+
+1.433.200,00
+
+1.000.000,00
+
+176.400,00
+
+663.600,00
+
+0,00
+
+389.844,00
+
+1.243.788,00
+
+222.768,00
+
+123.480,00
+
+393.960,00
+
+70.560,00
+
+23.520,00
+
+23.520,00
+
+75.040,00
+
+75.040,00
+
+13.440,00
+
+13.440,00
+
+17.640,00
+
+56.280,00
+
+10.080,00
+
+58.800,00
+
+187.600,00
+
+122.304,00
+
+390.208,00
+
+33.600,00
+
+69.888,00
+
+23.520,00
+
+75.040,00
+
+13.440,00
+
+28.224,00
+
+90.048,00
+
+16.128,00
+
+70.560,00
+
+225.120,00
+
+40.320,00
+
+144.060,00
+
+459.620,00
+
+82.320,00
+
+61.740,00
+
+262.640,00
+
+196.980,00
+
+82.320,00
+
+47.040,00
+
+35.280,00
+
+1.405.100,00
+
+2.387.700,00
+
+517.200,00
+
+1.116.980,00
+
+1.468.460,00
+
+352.560,00
+
+993.920,00
+
+1.075.840,00
+
+282.240,00
+
+52.500,00
+
+70.560,00
+
+167.500,00
+
+225.120,00
+
+30.000,00
+
+40.320,00
+
+288.120,00
+
+919.240,00
+
+164.640,00
+
+141.120,00
+
+450.240,00
+
+147.000,00
+
+469.000,00
+
+80.640,00
+
+84.000,00
+
+0,00
+
+9.290.768,00
+
+24.188.786,00
+
+8.381.246,00
+
+0,00
+
+0,00
+
+0,00
+
+
+Página: 26
+
+COMPONENTES
+C - PROMOÇÃO DE SISTEMAS PRODUTIVOS RENTÁVEIS E
+RESILIENTES E INICIATIVAS DE PROTEÇÃO E
+RECUPERAÇÃO AMBIENTAL
+S - IMPLANTAÇÃO E FORTALECIMENTO DE SISTEMAS DE
+PRODUÇÃO BIODIVERSOS RESILIENTES
+P - Sistemas Agroflorestais (SAFs)
+
+P - Roçados sustentáveis de culturas alimentares
+
+P - Subsistemas de produção animal
+
+P - Quintais biodiversos
+
+P - Apicultura
+
+P - Sementes crioulas e mudas de qualidade
+
+P - Apoio à pesca artesanal e à mariscagem
+
+S - PAGAMENTO DE SERVIÇOS AMBIENTAIS
+
+P - Conservação e recuperação de APPs (matas ciliares,
+nascentes, topos de morro, encostas íngremes) e Reservas
+Legais
+P - Proteção e reconexão de remanescentes florestais
+
+S - APOIO A ATIVIDADES NÃO AGRÍCOLAS
+
+P - Artesanato
+
+P - Empreendimentos de Turismo Rural de Base
+Comunitária
+S - BENEFICIAMENTO, COMERCIALIZAÇÃO E
+FORTALECIMENTO DE EMPREENDIMENTOS E
+ORGANIZAÇÕES LOCAIS
+P - Projetos produtivos de beneficiamento de produtos da
+Agricultura Familiar
+P - Fortalecimento dos processos de comercialização
+
+P - Criação/fortalecimento de Sistemas Part. de Garantia (
+SPG) (certificação orgânica)
+S - DESENVOLVIMENTO DE CAPACIDADES PARA TEMAS
+DE PRODUÇÃO RESILIENTE, PROTEÇÃO E RECUPERAÇÃO
+AMBIENTAL, BENEFICIAMENTO, COMERCIALIZAÇÃO E
+FORTALECIMENTO DAS ORGANIZAÇÕES
+P - Assessoria técnica polivalente para famílias,
+comunidades, empreendimentos econômicos e organizações
+rurais
+P - Capacitações e intercâmbios
+
+P - Fortalecimento dos empreendimentos e das
+organizações locais
+P - Iniciativas de educação ambiental
+
+P - Iniciativas para assegurar a equidade de gênero e a
+inclusão da juventude
+C - INFRAESTRUTURA E SERVIÇOS PARA O
+DESENVOLVIMENTO RESILIENTE
+S - IMPLANTAÇÃO DE TECNOLOGIAS DE COLETA,
+ESTOCAGEM E ACESSO À ÁGUA
+P - Implantação de cisternas
+
+P - Barragens subterrâneas
+
+P - Pequenas barragens e outras fontes d'água
+
+S - SISTEMAS DE ABASTECIMENTO D'ÁGUA E
+SANEAMENTO RURAL
+P - Implantação / fortalecimento de sistemas simplificados
+de gestão comunitária e de outros sistemas de abastecimento
+d'água
+P - Instalação de sistemas de tratamento do esgoto sanitário
+
+P - Iniciativas experimentais de manejo de resíduos sólidos
+no meio rural
+S - ACESSO A FONTES DE ENERGIA RENOVÁVEL
+
+P - Implantação de fogões ecoeficientes
+
+P - Instalação de biodigestores
+
+P - Sistemas fotovoltaicos e eólicos
+
+S - INFRAESTRUTURA DE ACESSO ÀS COMUNIDADES
+RURAIS E DE INCLUSÃO DIGITAL
+P - Manutenção e melhoria de estradas rurais (vicinais)
+
+P - Passagens molhadas, pequenas pontes
+
+P - Ampliação da conectividade rural
+
+C - FORTALECIMENTO INSTITUCIONAL
+
+S - SERVIÇOS PARA O FORTALECIMENTO DA
+AGRICULTURA FAMILIAR
+P - Regularização fundiária e ambiental
+
+P - Apoio aos processos de reconhecimento e certificação
+de comunidades e povos tradicionais
+P - Fortalecimento dos serviços de defesa / sanidade
+agropecuária (SUASA, etc)
+P - Capacitação do órgão executor e coexecutor
+
+S - FORTALECIMENTO DOS ÓRGÃOS EXECUTOR,
+COEXECUTOR E ENTIDADES PARCEIRAS
+
+VALOR
+
+CUSTO
+
+CF
+
+Ano 4
+
+FONTES
+
+BID
+
+FIDA
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+TOTAL
+
+FIDA
+
+2.130.660,00
+
+6.797.820,00
+
+1.217.520,00
+
+558.180,00
+
+1.780.860,00
+
+318.960,00
+
+125.580,00
+
+400.660,00
+
+84.000,00
+
+268.000,00
+
+105.000,00
+
+335.000,00
+
+63.000,00
+
+21.000,00
+
+50.400,00
+
+201.000,00
+
+67.000,00
+
+160.800,00
+
+109.200,00
+
+348.400,00
+
+142.800,00
+
+455.600,00
+
+71.400,00
+
+227.800,00
+
+71.400,00
+
+35.700,00
+
+21.000,00
+
+14.700,00
+
+227.800,00
+
+113.900,00
+
+67.000,00
+
+46.900,00
+
+71.760,00
+
+48.000,00
+
+60.000,00
+
+36.000,00
+
+12.000,00
+
+28.800,00
+
+62.400,00
+
+81.600,00
+
+40.800,00
+
+40.800,00
+
+20.400,00
+
+12.000,00
+
+8.400,00
+
+384.300,00
+
+1.226.100,00
+
+219.600,00
+
+252.000,00
+
+804.000,00
+
+144.000,00
+
+100.800,00
+
+321.600,00
+
+31.500,00
+
+100.500,00
+
+57.600,00
+
+18.000,00
+
+1.009.680,00
+
+3.221.360,00
+
+576.960,00
+
+856.800,00
+
+2.733.600,00
+
+489.600,00
+
+16.380,00
+
+46.200,00
+
+35.700,00
+
+54.600,00
+
+52.260,00
+
+147.400,00
+
+113.900,00
+
+174.200,00
+
+9.360,00
+
+26.400,00
+
+20.400,00
+
+31.200,00
+
+3.223.500,00
+
+10.151.500,00
+
+1.975.000,00
+
+1.190.700,00
+
+4.479.300,00
+
+367.500,00
+
+1.382.500,00
+
+147.000,00
+
+553.000,00
+
+676.200,00
+
+2.543.800,00
+
+1.129.800,00
+
+4.250.200,00
+
+714.000,00
+
+2.686.000,00
+
+378.000,00
+
+1.422.000,00
+
+37.800,00
+
+142.200,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+252.000,00
+
+711.000,00
+
+237.000,00
+
+63.000,00
+
+63.000,00
+
+237.000,00
+
+0,00
+
+0,00
+
+237.000,00
+
+126.000,00
+
+474.000,00
+
+0,00
+
+651.000,00
+
+711.000,00
+
+1.738.000,00
+
+63.000,00
+
+237.000,00
+
+0,00
+
+462.000,00
+
+0,00
+
+1.738.000,00
+
+126.000,00
+
+474.000,00
+
+0,00
+
+278.460,00
+
+888.420,00
+
+159.120,00
+
+88.200,00
+
+281.400,00
+
+50.400,00
+
+16.800,00
+
+16.800,00
+
+53.600,00
+
+53.600,00
+
+9.600,00
+
+9.600,00
+
+12.600,00
+
+40.200,00
+
+7.200,00
+
+42.000,00
+
+87.360,00
+
+134.000,00
+
+278.720,00
+
+24.000,00
+
+49.920,00
+
+
+Página: 27
+
+P - Desenvolvimento das capacidades das equipes de
+prefeituras e consórcios municipais parceiros
+P - Desenvolvimento das capacidades de outras entidades
+parceiras
+P - Estudos e Consultorias para apoio aos órgãos executor,
+coexecutor e entidades parceiras sobre temas especializados
+S - GESTÃO DE CONHECIMENTO E COMUNICAÇÃO
+
+P - Sistematização de experiências
+
+P - Ações de Comunicação
+
+C - GESTÃO DO PROJETO
+
+S - UNIDADE DE GESTÃO DO PROJETO
+
+P - Apoio a gestão
+
+P - Equipamentos diversos
+
+P - Estudos e consultorias no domínio da gestão do Projeto
+
+S - MONITORAMENTO E AVALIAÇÃO
+
+P - Sistema de Monitoramento
+
+P - Estudos de Avaliação de Impacto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+C - PROMOÇÃO DE SISTEMAS PRODUTIVOS RENTÁVEIS E
+RESILIENTES E INICIATIVAS DE PROTEÇÃO E
+RECUPERAÇÃO AMBIENTAL
+S - IMPLANTAÇÃO E FORTALECIMENTO DE SISTEMAS DE
+PRODUÇÃO BIODIVERSOS RESILIENTES
+P - Sistemas Agroflorestais (SAFs)
+
+P - Roçados sustentáveis de culturas alimentares
+
+P - Subsistemas de produção animal
+
+P - Quintais biodiversos
+
+P - Apicultura
+
+P - Sementes crioulas e mudas de qualidade
+
+P - Apoio à pesca artesanal e à mariscagem
+
+S - PAGAMENTO DE SERVIÇOS AMBIENTAIS
+
+P - Conservação e recuperação de APPs (matas ciliares,
+nascentes, topos de morro, encostas íngremes) e Reservas
+Legais
+P - Proteção e reconexão de remanescentes florestais
+
+S - APOIO A ATIVIDADES NÃO AGRÍCOLAS
+
+P - Artesanato
+
+P - Empreendimentos de Turismo Rural de Base
+Comunitária
+S - BENEFICIAMENTO, COMERCIALIZAÇÃO E
+FORTALECIMENTO DE EMPREENDIMENTOS E
+ORGANIZAÇÕES LOCAIS
+P - Projetos produtivos de beneficiamento de produtos da
+Agricultura Familiar
+P - Fortalecimento dos processos de comercialização
+
+P - Criação/fortalecimento de Sistemas Part. de Garantia (
+SPG) (certificação orgânica)
+S - DESENVOLVIMENTO DE CAPACIDADES PARA TEMAS
+DE PRODUÇÃO RESILIENTE, PROTEÇÃO E RECUPERAÇÃO
+AMBIENTAL, BENEFICIAMENTO, COMERCIALIZAÇÃO E
+FORTALECIMENTO DAS ORGANIZAÇÕES
+P - Assessoria técnica polivalente para famílias,
+comunidades, empreendimentos econômicos e organizações
+rurais
+P - Capacitações e intercâmbios
+
+P - Fortalecimento dos empreendimentos e das
+organizações locais
+P - Iniciativas de educação ambiental
+
+P - Iniciativas para assegurar a equidade de gênero e a
+inclusão da juventude
+C - INFRAESTRUTURA E SERVIÇOS PARA O
+DESENVOLVIMENTO RESILIENTE
+S - IMPLANTAÇÃO DE TECNOLOGIAS DE COLETA,
+ESTOCAGEM E ACESSO À ÁGUA
+P - Implantação de cisternas
+
+P - Barragens subterrâneas
+
+P - Pequenas barragens e outras fontes d'água
+
+S - SISTEMAS DE ABASTECIMENTO D'ÁGUA E
+SANEAMENTO RURAL
+P - Implantação / fortalecimento de sistemas simplificados
+de gestão comunitária e de outros sistemas de abastecimento
+d'água
+P - Instalação de sistemas de tratamento do esgoto sanitário
+
+16.800,00
+
+53.600,00
+
+9.600,00
+
+20.160,00
+
+64.320,00
+
+11.520,00
+
+50.400,00
+
+160.800,00
+
+28.800,00
+
+102.900,00
+
+328.300,00
+
+58.800,00
+
+44.100,00
+
+187.600,00
+
+140.700,00
+
+58.800,00
+
+33.600,00
+
+25.200,00
+
+651.000,00
+
+2.077.000,00
+
+372.000,00
+
+445.200,00
+
+1.420.400,00
+
+254.400,00
+
+352.800,00
+
+1.125.600,00
+
+201.600,00
+
+42.000,00
+
+50.400,00
+
+134.000,00
+
+160.800,00
+
+24.000,00
+
+28.800,00
+
+205.800,00
+
+656.600,00
+
+117.600,00
+
+100.800,00
+
+321.600,00
+
+105.000,00
+
+335.000,00
+
+57.600,00
+
+60.000,00
+
+0,00
+
+6.283.620,00
+
+19.914.740,00
+
+3.723.640,00
+
+0,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+CF
+
+Ano 5
+
+FONTES
+
+BID
+
+FIDA
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+TOTAL
+
+FIDA
+
+1.811.061,00
+
+5.778.147,00
+
+1.034.892,00
+
+474.453,00
+
+1.513.731,00
+
+271.116,00
+
+106.743,00
+
+340.561,00
+
+71.400,00
+
+89.250,00
+
+53.550,00
+
+17.850,00
+
+42.840,00
+
+92.820,00
+
+227.800,00
+
+284.750,00
+
+170.850,00
+
+56.950,00
+
+136.680,00
+
+296.140,00
+
+121.380,00
+
+387.260,00
+
+60.690,00
+
+193.630,00
+
+60.690,00
+
+30.345,00
+
+17.850,00
+
+12.495,00
+
+193.630,00
+
+96.815,00
+
+56.950,00
+
+39.865,00
+
+60.996,00
+
+40.800,00
+
+51.000,00
+
+30.600,00
+
+10.200,00
+
+24.480,00
+
+53.040,00
+
+69.360,00
+
+34.680,00
+
+34.680,00
+
+17.340,00
+
+10.200,00
+
+7.140,00
+
+326.655,00
+
+1.042.185,00
+
+186.660,00
+
+214.200,00
+
+683.400,00
+
+122.400,00
+
+85.680,00
+
+26.775,00
+
+273.360,00
+
+85.425,00
+
+48.960,00
+
+15.300,00
+
+858.228,00
+
+2.738.156,00
+
+490.416,00
+
+728.280,00
+
+2.323.560,00
+
+416.160,00
+
+13.923,00
+
+39.270,00
+
+30.345,00
+
+46.410,00
+
+44.421,00
+
+125.290,00
+
+96.815,00
+
+148.070,00
+
+7.956,00
+
+22.440,00
+
+17.340,00
+
+26.520,00
+
+2.739.975,00
+
+10.307.525,00
+
+1.012.095,00
+
+3.807.405,00
+
+312.375,00
+
+1.175.125,00
+
+124.950,00
+
+470.050,00
+
+574.770,00
+
+2.162.230,00
+
+960.330,00
+
+3.612.670,00
+
+606.900,00
+
+2.283.100,00
+
+321.300,00
+
+1.208.700,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+
+Página: 28
+
+P - Iniciativas experimentais de manejo de resíduos sólidos
+no meio rural
+S - ACESSO A FONTES DE ENERGIA RENOVÁVEL
+
+P - Implantação de fogões ecoeficientes
+
+P - Instalação de biodigestores
+
+P - Sistemas fotovoltaicos e eólicos
+
+S - INFRAESTRUTURA DE ACESSO ÀS COMUNIDADES
+RURAIS E DE INCLUSÃO DIGITAL
+P - Manutenção e melhoria de estradas rurais (vicinais)
+
+P - Passagens molhadas, pequenas pontes
+
+P - Ampliação da conectividade rural
+
+C - FORTALECIMENTO INSTITUCIONAL
+
+S - SERVIÇOS PARA O FORTALECIMENTO DA
+AGRICULTURA FAMILIAR
+P - Regularização fundiária e ambiental
+
+P - Apoio aos processos de reconhecimento e certificação
+de comunidades e povos tradicionais
+P - Fortalecimento dos serviços de defesa / sanidade
+agropecuária (SUASA, etc)
+P - Capacitação do órgão executor e coexecutor
+
+S - FORTALECIMENTO DOS ÓRGÃOS EXECUTOR,
+COEXECUTOR E ENTIDADES PARCEIRAS
+P - Desenvolvimento das capacidades das equipes de
+prefeituras e consórcios municipais parceiros
+P - Desenvolvimento das capacidades de outras entidades
+parceiras
+P - Estudos e Consultorias para apoio aos órgãos executor,
+coexecutor e entidades parceiras sobre temas especializados
+S - GESTÃO DE CONHECIMENTO E COMUNICAÇÃO
+
+P - Sistematização de experiências
+
+P - Ações de Comunicação
+
+C - GESTÃO DO PROJETO
+
+S - UNIDADE DE GESTÃO DO PROJETO
+
+P - Apoio a gestão
+
+P - Equipamentos diversos
+
+P - Estudos e consultorias no domínio da gestão do Projeto
+
+S - MONITORAMENTO E AVALIAÇÃO
+
+P - Sistema de Monitoramento
+
+P - Estudos de Avaliação de Impacto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+C - PROMOÇÃO DE SISTEMAS PRODUTIVOS RENTÁVEIS E
+RESILIENTES E INICIATIVAS DE PROTEÇÃO E
+RECUPERAÇÃO AMBIENTAL
+S - IMPLANTAÇÃO E FORTALECIMENTO DE SISTEMAS DE
+PRODUÇÃO BIODIVERSOS RESILIENTES
+P - Sistemas Agroflorestais (SAFs)
+
+P - Roçados sustentáveis de culturas alimentares
+
+P - Subsistemas de produção animal
+
+P - Quintais biodiversos
+
+P - Apicultura
+
+P - Sementes crioulas e mudas de qualidade
+
+P - Apoio à pesca artesanal e à mariscagem
+
+S - PAGAMENTO DE SERVIÇOS AMBIENTAIS
+
+P - Conservação e recuperação de APPs (matas ciliares,
+nascentes, topos de morro, encostas íngremes) e Reservas
+Legais
+P - Proteção e reconexão de remanescentes florestais
+
+S - APOIO A ATIVIDADES NÃO AGRÍCOLAS
+
+P - Artesanato
+
+P - Empreendimentos de Turismo Rural de Base
+Comunitária
+S - BENEFICIAMENTO, COMERCIALIZAÇÃO E
+FORTALECIMENTO DE EMPREENDIMENTOS E
+ORGANIZAÇÕES LOCAIS
+P - Projetos produtivos de beneficiamento de produtos da
+Agricultura Familiar
+P - Fortalecimento dos processos de comercialização
+
+P - Criação/fortalecimento de Sistemas Part. de Garantia (
+SPG) (certificação orgânica)
+S - DESENVOLVIMENTO DE CAPACIDADES PARA TEMAS
+DE PRODUÇÃO RESILIENTE, PROTEÇÃO E RECUPERAÇÃO
+AMBIENTAL, BENEFICIAMENTO, COMERCIALIZAÇÃO E
+FORTALECIMENTO DAS ORGANIZAÇÕES
+
+32.130,00
+
+120.870,00
+
+214.200,00
+
+805.800,00
+
+53.550,00
+
+53.550,00
+
+201.450,00
+
+201.450,00
+
+107.100,00
+
+402.900,00
+
+553.350,00
+
+2.081.650,00
+
+53.550,00
+
+201.450,00
+
+392.700,00
+
+1.477.300,00
+
+107.100,00
+
+402.900,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+236.691,00
+
+755.157,00
+
+135.252,00
+
+74.970,00
+
+239.190,00
+
+42.840,00
+
+14.280,00
+
+14.280,00
+
+45.560,00
+
+45.560,00
+
+8.160,00
+
+8.160,00
+
+10.710,00
+
+34.170,00
+
+6.120,00
+
+35.700,00
+
+74.256,00
+
+113.900,00
+
+236.912,00
+
+20.400,00
+
+42.432,00
+
+14.280,00
+
+45.560,00
+
+8.160,00
+
+17.136,00
+
+54.672,00
+
+9.792,00
+
+42.840,00
+
+136.680,00
+
+24.480,00
+
+87.465,00
+
+49.980,00
+
+37.485,00
+
+279.055,00
+
+159.460,00
+
+119.595,00
+
+49.980,00
+
+28.560,00
+
+21.420,00
+
+557.550,00
+
+1.778.850,00
+
+318.600,00
+
+382.620,00
+
+1.220.740,00
+
+218.640,00
+
+299.880,00
+
+956.760,00
+
+171.360,00
+
+39.900,00
+
+42.840,00
+
+127.300,00
+
+136.680,00
+
+174.930,00
+
+558.110,00
+
+85.680,00
+
+89.250,00
+
+273.360,00
+
+284.750,00
+
+22.800,00
+
+24.480,00
+
+99.960,00
+
+48.960,00
+
+51.000,00
+
+0,00
+
+5.345.277,00
+
+18.619.679,00
+
+1.488.744,00
+
+0,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+CF
+
+Ano 6
+
+FONTES
+
+BID
+
+1.065.330,00
+
+3.398.910,00
+
+FIDA
+608.760,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+TOTAL
+
+FIDA
+
+10.653.300,00
+
+33.989.100,00
+
+6.087.600,00
+
+279.090,00
+
+890.430,00
+
+159.480,00
+
+2.790.900,00
+
+8.904.300,00
+
+1.594.800,00
+
+62.790,00
+
+42.000,00
+
+52.500,00
+
+31.500,00
+
+10.500,00
+
+25.200,00
+
+54.600,00
+
+71.400,00
+
+35.700,00
+
+35.700,00
+
+17.850,00
+
+10.500,00
+
+7.350,00
+
+200.330,00
+
+134.000,00
+
+167.500,00
+
+100.500,00
+
+33.500,00
+
+80.400,00
+
+174.200,00
+
+227.800,00
+
+113.900,00
+
+113.900,00
+
+56.950,00
+
+33.500,00
+
+23.450,00
+
+35.880,00
+
+24.000,00
+
+30.000,00
+
+18.000,00
+
+627.900,00
+
+2.003.300,00
+
+358.800,00
+
+420.000,00
+
+1.340.000,00
+
+240.000,00
+
+525.000,00
+
+1.675.000,00
+
+300.000,00
+
+315.000,00
+
+1.005.000,00
+
+180.000,00
+
+6.000,00
+
+105.000,00
+
+335.000,00
+
+60.000,00
+
+14.400,00
+
+31.200,00
+
+40.800,00
+
+20.400,00
+
+20.400,00
+
+10.200,00
+
+6.000,00
+
+4.200,00
+
+252.000,00
+
+804.000,00
+
+144.000,00
+
+546.000,00
+
+1.742.000,00
+
+312.000,00
+
+714.000,00
+
+2.278.000,00
+
+408.000,00
+
+357.000,00
+
+1.139.000,00
+
+204.000,00
+
+357.000,00
+
+1.139.000,00
+
+204.000,00
+
+178.500,00
+
+569.500,00
+
+102.000,00
+
+105.000,00
+
+335.000,00
+
+73.500,00
+
+234.500,00
+
+60.000,00
+
+42.000,00
+
+192.150,00
+
+613.050,00
+
+109.800,00
+
+1.921.500,00
+
+6.130.500,00
+
+1.098.000,00
+
+126.000,00
+
+402.000,00
+
+72.000,00
+
+1.260.000,00
+
+4.020.000,00
+
+720.000,00
+
+50.400,00
+
+15.750,00
+
+160.800,00
+
+28.800,00
+
+504.000,00
+
+1.608.000,00
+
+288.000,00
+
+50.250,00
+
+9.000,00
+
+157.500,00
+
+502.500,00
+
+90.000,00
+
+504.840,00
+
+1.610.680,00
+
+288.480,00
+
+5.048.400,00
+
+16.106.800,00
+
+2.884.800,00
+
+
+Página: 29
+
+P - Assessoria técnica polivalente para famílias,
+comunidades, empreendimentos econômicos e organizações
+rurais
+P - Capacitações e intercâmbios
+
+P - Fortalecimento dos empreendimentos e das
+organizações locais
+P - Iniciativas de educação ambiental
+
+P - Iniciativas para assegurar a equidade de gênero e a
+inclusão da juventude
+C - INFRAESTRUTURA E SERVIÇOS PARA O
+DESENVOLVIMENTO RESILIENTE
+S - IMPLANTAÇÃO DE TECNOLOGIAS DE COLETA,
+ESTOCAGEM E ACESSO À ÁGUA
+P - Implantação de cisternas
+
+P - Barragens subterrâneas
+
+P - Pequenas barragens e outras fontes d'água
+
+S - SISTEMAS DE ABASTECIMENTO D'ÁGUA E
+SANEAMENTO RURAL
+P - Implantação / fortalecimento de sistemas simplificados
+de gestão comunitária e de outros sistemas de abastecimento
+d'água
+P - Instalação de sistemas de tratamento do esgoto sanitário
+
+P - Iniciativas experimentais de manejo de resíduos sólidos
+no meio rural
+S - ACESSO A FONTES DE ENERGIA RENOVÁVEL
+
+P - Implantação de fogões ecoeficientes
+
+P - Instalação de biodigestores
+
+P - Sistemas fotovoltaicos e eólicos
+
+S - INFRAESTRUTURA DE ACESSO ÀS COMUNIDADES
+RURAIS E DE INCLUSÃO DIGITAL
+P - Manutenção e melhoria de estradas rurais (vicinais)
+
+P - Passagens molhadas, pequenas pontes
+
+P - Ampliação da conectividade rural
+
+C - FORTALECIMENTO INSTITUCIONAL
+
+S - SERVIÇOS PARA O FORTALECIMENTO DA
+AGRICULTURA FAMILIAR
+P - Regularização fundiária e ambiental
+
+P - Apoio aos processos de reconhecimento e certificação
+de comunidades e povos tradicionais
+P - Fortalecimento dos serviços de defesa / sanidade
+agropecuária (SUASA, etc)
+P - Capacitação do órgão executor e coexecutor
+
+S - FORTALECIMENTO DOS ÓRGÃOS EXECUTOR,
+COEXECUTOR E ENTIDADES PARCEIRAS
+P - Desenvolvimento das capacidades das equipes de
+prefeituras e consórcios municipais parceiros
+P - Desenvolvimento das capacidades de outras entidades
+parceiras
+P - Estudos e Consultorias para apoio aos órgãos executor,
+coexecutor e entidades parceiras sobre temas especializados
+S - GESTÃO DE CONHECIMENTO E COMUNICAÇÃO
+
+P - Sistematização de experiências
+
+P - Ações de Comunicação
+
+C - GESTÃO DO PROJETO
+
+428.400,00
+
+1.366.800,00
+
+244.800,00
+
+4.284.000,00
+
+13.668.000,00
+
+2.448.000,00
+
+8.190,00
+
+23.100,00
+
+17.850,00
+
+27.300,00
+
+26.130,00
+
+73.700,00
+
+56.950,00
+
+87.100,00
+
+4.680,00
+
+81.900,00
+
+261.300,00
+
+46.800,00
+
+13.200,00
+
+231.000,00
+
+737.000,00
+
+132.000,00
+
+10.200,00
+
+15.600,00
+
+178.500,00
+
+569.500,00
+
+102.000,00
+
+273.000,00
+
+871.000,00
+
+156.000,00
+
+1.611.750,00
+
+6.063.250,00
+
+0,00
+
+16.117.500,00
+
+51.422.500,00
+
+9.210.000,00
+
+595.350,00
+
+2.239.650,00
+
+0,00
+
+5.953.500,00
+
+18.280.000,00
+
+4.116.500,00
+
+183.750,00
+
+691.250,00
+
+73.500,00
+
+276.500,00
+
+338.100,00
+
+1.271.900,00
+
+564.900,00
+
+2.125.100,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.837.500,00
+
+6.912.500,00
+
+735.000,00
+
+2.765.000,00
+
+0,00
+
+0,00
+
+3.381.000,00
+
+8.602.500,00
+
+4.116.500,00
+
+5.649.000,00
+
+19.251.000,00
+
+2.000.000,00
+
+357.000,00
+
+1.343.000,00
+
+0,00
+
+3.570.000,00
+
+12.430.000,00
+
+1.000.000,00
+
+189.000,00
+
+711.000,00
+
+0,00
+
+1.890.000,00
+
+6.110.000,00
+
+1.000.000,00
+
+18.900,00
+
+71.100,00
+
+126.000,00
+
+474.000,00
+
+31.500,00
+
+31.500,00
+
+63.000,00
+
+118.500,00
+
+118.500,00
+
+237.000,00
+
+325.500,00
+
+1.224.500,00
+
+31.500,00
+
+118.500,00
+
+231.000,00
+
+869.000,00
+
+63.000,00
+
+237.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+189.000,00
+
+711.000,00
+
+0,00
+
+1.260.000,00
+
+4.384.500,00
+
+355.500,00
+
+315.000,00
+
+1.066.500,00
+
+118.500,00
+
+315.000,00
+
+948.000,00
+
+237.000,00
+
+630.000,00
+
+2.370.000,00
+
+0,00
+
+3.255.000,00
+
+9.507.000,00
+
+2.738.000,00
+
+315.000,00
+
+1.185.000,00
+
+0,00
+
+2.310.000,00
+
+5.952.000,00
+
+2.738.000,00
+
+630.000,00
+
+2.370.000,00
+
+0,00
+
+139.230,00
+
+444.210,00
+
+79.560,00
+
+1.392.300,00
+
+4.442.100,00
+
+795.600,00
+
+44.100,00
+
+140.700,00
+
+25.200,00
+
+441.000,00
+
+1.407.000,00
+
+252.000,00
+
+8.400,00
+
+8.400,00
+
+26.800,00
+
+26.800,00
+
+4.800,00
+
+4.800,00
+
+84.000,00
+
+84.000,00
+
+268.000,00
+
+268.000,00
+
+48.000,00
+
+48.000,00
+
+6.300,00
+
+20.100,00
+
+3.600,00
+
+63.000,00
+
+201.000,00
+
+36.000,00
+
+21.000,00
+
+43.680,00
+
+67.000,00
+
+139.360,00
+
+12.000,00
+
+24.960,00
+
+210.000,00
+
+670.000,00
+
+120.000,00
+
+436.800,00
+
+1.393.600,00
+
+249.600,00
+
+8.400,00
+
+26.800,00
+
+4.800,00
+
+84.000,00
+
+268.000,00
+
+48.000,00
+
+10.080,00
+
+32.160,00
+
+5.760,00
+
+100.800,00
+
+321.600,00
+
+57.600,00
+
+25.200,00
+
+80.400,00
+
+14.400,00
+
+252.000,00
+
+804.000,00
+
+144.000,00
+
+51.450,00
+
+29.400,00
+
+22.050,00
+
+164.150,00
+
+93.800,00
+
+70.350,00
+
+29.400,00
+
+16.800,00
+
+12.600,00
+
+514.500,00
+
+1.641.500,00
+
+294.000,00
+
+294.000,00
+
+938.000,00
+
+168.000,00
+
+220.500,00
+
+703.500,00
+
+126.000,00
+
+325.500,00
+
+1.038.500,00
+
+186.000,00
+
+3.836.900,00
+
+10.146.300,00
+
+1.906.800,00
+
+S - UNIDADE DE GESTÃO DO PROJETO
+
+222.600,00
+
+710.200,00
+
+127.200,00
+
+2.807.900,00
+
+6.863.300,00
+
+1.318.800,00
+
+P - Apoio a gestão
+
+P - Equipamentos diversos
+
+P - Estudos e consultorias no domínio da gestão do Projeto
+
+S - MONITORAMENTO E AVALIAÇÃO
+
+P - Sistema de Monitoramento
+
+P - Estudos de Avaliação de Impacto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+176.400,00
+
+562.800,00
+
+100.800,00
+
+2.264.000,00
+
+5.128.000,00
+
+1.008.000,00
+
+21.000,00
+
+25.200,00
+
+67.000,00
+
+80.400,00
+
+12.000,00
+
+14.400,00
+
+291.900,00
+
+931.300,00
+
+166.800,00
+
+252.000,00
+
+804.000,00
+
+144.000,00
+
+102.900,00
+
+328.300,00
+
+58.800,00
+
+1.029.000,00
+
+3.283.000,00
+
+588.000,00
+
+50.400,00
+
+52.500,00
+
+160.800,00
+
+167.500,00
+
+28.800,00
+
+30.000,00
+
+504.000,00
+
+1.608.000,00
+
+288.000,00
+
+525.000,00
+
+1.675.000,00
+
+300.000,00
+
+150.000.000,00
+
+3.141.810,00
+
+10.944.870,00
+
+874.320,00
+
+32.000.000,00
+
+100.000.000,00
+
+18.000.000,00
+
+O primeiro ato legal necessário para a implementação do Projeto Parceiros da Mata é a aprovação e promulgação da Lei Estadual
+Autorizativa para a realização da operação de crédito. A elaboração do Projeto de Lei Autorizativa é da responsabilidade do poder
+executivo. Este Projeto de Lei é encaminhado à Assembleia do Estado da Bahia para aprovação.
+
+Outros atos legais importantes serão:
+
+i)Decreto da constituição da Unidades Gestora do Projeto e de nomeação dos cargos principais conforme arranjo administrativo;
+
+ii) Termo de colaboração (ou convênios) para operação das atividades juntos às associações/organizações nas comunidades;
+
+(cid:10)
+
+
+Página: 30
+
+iii)Acordos de Cooperação Técnica e Financeira ou instrumento equivalente, com os órgãos parceiros para garantir as condições de
+operação;
+
+iv)Ato constitutivo e regimento do Conselho Gestor do Projeto (COGEP).
+
+O Projeto irá se beneficiar da estrutura da UGP existente do Projeto Pró-semiárido, na CAR (coexecutora), com uma infraestrutura e
+equipe técnica já bastante familiarizada com projetos dessa tipologia.
+
+No entanto, alguns temas/questões podem representar riscos à implementação do Projeto. Buscando minimizar estes riscos, algumas
+medidas serão adotadas.
+
+i)Preparação do Manual
+
+ii) Apoio dos organismos financiadores - BID e FIDA - que já começaram a proporcionar um respaldo ao Governo da Bahia através da
+Representação no Brasil (CBR) e do Escritório no Brasil (ICO Brasil), respectivamente e continuarão a fazê-lo nos próximos meses. Uma
+vez iniciada a implementação do Projeto, o BID e o FIDA organizarão missões de apoio à implementação, focadas em temas específicos,
+de acordo as necessidades que serão identificadas, além de efetuar missões rotineiras de supervisão;
+
+iii)Utilização dos sistemas uniformizados de Monitoramento e Avaliação do BID e do FIDA.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+Buscando evitar os riscos inerentes às operações de contratação e aquisição, os editais e seleção/contratação serão realizados
+estritamente conforme Diretrizes do BID e do FIDA. O governo do estado já possui profissionais com experiência em licitações conforme
+os métodos do BID e do FIDA.
+
+Haverá contratações realizadas pelas Organizações de Produtores que receberão recursos para implantação de investimentos de diversos
+tipos. Estes recursos serão repassados mediante convênios assinados entre a UGP e as diversas associações e cooperativas
+representando as famílias beneficiárias. Nestes convênios, as aquisições, serão realizadas conforme os métodos de licitações e os limites
+estabelecidos no Manual de Operações do Projeto. Já existe ampla experiência de mais de duas décadas no estado com essa modalidade
+de execução em projetos financiados pelo FIDA. O estado tem provido apoio às organizações no âmbito da prestação de contas. Esta
+experiência tem sido muito positiva.
+
+Serão selecionadas as entidades que prestarão Assistência Técnica para o Público beneficiário. As demandas do Projeto no que se refere
+a este serviço de AT serão atendidas por processo de Chamamento Público previsto na Lei de ATER aceitável pelo BID e pelo FIDA.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+Os possíveis riscos ambientais gerais que podem apresentar-se durante a implementação do Projeto são de dois tipos: i) riscos
+relacionados principalmente a fenômenos meteorológicos, ii) riscos causados pelas atividades produtivas implementadas pela população
+rural da região de atuação do Projeto.
+
+O risco de variação do regime pluviométrico é algo muito frequente. Um aumento ou uma diminuição ou irregularidade importante das
+chuvas poderá afetar o ritmo de implementação de algumas atividades, além de representar um grande problema para toda a população
+da região. Este possível risco é, de fato, um dos objetos de trabalho do Projeto. Assim, espera-se que a sua ação possa prevenir ou
+mitigar o risco meteorológico por meio de medidas focadas no aprimoramento da gestão sustentável dos recursos hídricos, principalmente
+para consumo humano e para as diversas atividades agropecuárias. Essas medidas são parte plena das atividades que serão realizadas
+pelos Componentes 1 e 2 do Projeto, que foram pensadas no sentido de reforçar a resiliência da população rural diante dos eventos
+climáticos extremos.
+
+Os outros riscos que podem apresentar-se por causa do desenvolvimento de atividades produtivas que são desenvolvidas pela população
+rural são diversos. Os mais importantes são: a degradação dos solos, a perda de cobertura florestal, a perda de biodiversidade (flora -
+fauna), a contaminação do solo e da água devido ao uso de agroquímicos e a geração de resíduos sólidos/líquidos. Ditos riscos podem
+ser causados por mudanças no uso da terra, transformando áreas de floresta em áreas de uso agrícola e/ou pecuário. Também poderá
+ocorrer uma maior incidência de incêndios florestais devido ao uso do fogo para a preparação de terras para cultivo ou para a abertura de
+novas terras, além do risco causado pelo uso de agroquímicos. Os riscos aqui apontados estão entre os principais motivos que levaram o
+Projeto a identificar uma série de práticas inovadoras que buscarão transformar os sistemas agropecuários da região e a relação dos/as
+agricultores/as com o meio ambiente. Estas novas formas agroecológicas de cultivar e criar (por exemplo, pelo uso de fertilizante orgânico,
+reuso de água, recuperação de áreas degradadas, implantação de SAFs, entre outros) serão cruciais para contrastar os riscos aqui
+mencionados. Essas práticas são aquelas que serão trabalhadas nos Componentes 1 e 2 do Projeto.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 31
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+-Populações indígenas
+
+Na área de atuação do Projeto existem 26 Terras Indígenas (TIs), nos Territórios de Identidade de Baixo Sul  e Litoral Sul , mas
+principalmente neste último. Em 2019, a população indígena dessas TIs foi estimada pelo IBGE em 7.516 indivíduos de duas etnias (
+Tupimanbá e Pataxó Hã Hã Hã) . O Projeto buscará atuar junto a estas populações.
+
+Os riscos associados a impactos negativos para as populações indígenas localizadas na área de atuação do Projeto são considerados
+baixos. O Projeto Parceiros da Mata visa justamente afirmar e fortalecer os direitos dos povos indígenas, assim como de outras
+comunidades tradicionais, na valorização de suas práticas sociais, culturais e de gestão socioambiental, atuando com uma metodologia
+diferenciada no trabalho com estes povos. A Consulta Livre, Prévia e Informada (CLPI) será parte integrante do processo de construção
+das atividades do Projeto com povos indígenas. As equipes de AT serão capacitadas para trabalhar com os povos indígenas, respeitando
+e valorizando suas práticas e formas de organização social. A metodologia de trabalho a ser adotada pelo Projeto promoverá uma
+participação intensa destas populações no desenho e na implementação das diversas ações a serem realizadas com elas.
+
+-Comunidades quilombolas
+
+Sendo que o Projeto buscará trabalhar com as comunidades quilombolas, existe o risco de que esta ação não respeite as especificidades
+destas comunidades tradicionais. Para mitigar este risco, o Projeto instituirá uma abordagem metodológica específica, que incluirá uma
+capacitação específica para as equipes de AT, promoverá plena participação destas comunidades no desenho e implementação das
+atividades com eles realizadas e propiciará uma revisão especial dos investimentos a serem feitos nestas comunidades.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)

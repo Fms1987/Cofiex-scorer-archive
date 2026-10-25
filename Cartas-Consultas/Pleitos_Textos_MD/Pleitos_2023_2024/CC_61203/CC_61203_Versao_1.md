@@ -1,0 +1,3591 @@
+# Carta-Consulta CC_61203 — Versao 1 (SIGS)
+
+
+CARTA CONSULTA
+
+Programa Maceió Cidade Conectada
+
+Nº Carta Consulta: 61203
+Mutuário: Município de Maceió - AL
+Tipo de Operação: Operação de crédito externo
+
+Fontes Internas:
+Contrapartida Financeira: US$ 12.000.000,00
+Fontes Externas:
+Corporação Andina de Fomento - CAF: US$ 48.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+Maceió é a capital do estado de Alagoas, região Nordeste do Brasil. Sua população residente é de 957.916 habitantes, área total de 509,
+32 km2, densidade demográfica de 1.880,77 hab/km² (IBGE-2022) e IDH-M de 0,721 (IBGE-2010). A economia da cidade é baseada
+principalmente no turismo, comércio, serviços e indústria.
+
+Apesar do grande potencial econômico e turístico, a cidade de Maceió carece de investimentos, principalmente para: viabilizar a inclusão
+digital, o desenvolvimento de mão de obra qualificada em tecnologia, a transformação digital sustentável de serviços, a implantação de
+centro de controle operacional integrado e a modernização da infraestrutura tecnológica. Tal fato motivou a elaboração desta carta-
+consulta, com vistas a obter financiamento externo para resolver os PROBLEMAS abaixo elencados.
+
+Dentre os principais PROBLEMAS, merecem destaque: (1) exclusão digital e déficit de mão de obra local qualificada em tecnologia, (2)
+falta de integração de serviços estratégicos, como controle de desastres e segurança pública, (3) ausência de plataformas de inteligência
+de dados e de planejamento e de gestão urbana, (4) a defasagem de infraestrutura tecnológica e sistemas, (5) a falta de políticas
+estruturantes de dados e de tecnologia da informação (TI).
+
+O primeiro PROBLEMA relacionado ao desenvolvimento humano é a exclusão digital, seja sob a perspectiva do acesso a tecnologias e
+conectividade, ou pela ótica da aquisição de capacidades para utilização de tecnologias e para o desenvolvimento de profissionais
+capacitados em TI e comunicação.
+
+A conectividade é um dos pilares fundamentais para desenvolvimento pessoal, educação e plena integração na sociedade moderna.
+Apesar dos esforços da Prefeitura de Maceió em reduzir a exclusão digital com a implantação de redes de wi fi com acesso gratuito à
+internet nas proximidades de favelas, comunidades urbanas e grotas, a cobertura atual é reduzida e o relevo acidentado e o adensamento
+populacional prejudicam o acesso a serviços nessas regiões.
+
+O segundo PROBLEMA identificado é a ausência de mão de obra qualificada em TI para suprir a demanda local, sejam profissionais
+graduados em áreas estratégicas para o desenvolvimento da cidade ou jovens com habilidades para ingresso no mercado de trabalho.
+Maceió não avançou na formação e retenção de profissionais qualificados em TI, havendo um déficit significativo na área e alta taxa de
+evasão nos cursos de graduação em tecnologia, superior a 70%.
+
+O terceiro PROBLEMA é que a Prefeitura de Maceió apresenta baixa capacidade de uso de dados, sem uma plataforma digital que
+agregue dados estruturados e permita a criação de painéis de inteligência, promovendo melhorias associadas à qualidade e à
+disponibilidade de dados. Existem esforços em andamento para coletar e analisar dados de forma assertiva, mas esses dados ainda não
+estão integrados em sistema ou formato único, especialmente para viabilizar transparência, serviços eficientes e o planejamento urbano.
+
+O quarto PROBLEMA está relacionado à desatualização ou ausência de políticas estruturantes para os serviços de TI, com destaque para
+a necessidade de consolidação de uma política de governo digital para o Município, contemplando estratégias para monitorar e mitigar os
+riscos inerentes. Nesse ponto, é essencial, para além do PDTI, a definição urgente de políticas relacionadas à segurança da informação,
+gestão de riscos e governança de dados, com foco na proteção de direitos digitais dos cidadãos e na continuidade da operação dos
+sistemas e tecnologias da Prefeitura de Maceió.  Outro documento relevante e que precisa ser complementado é o Plano de Cidade
+Inteligente, a fim de que aborde questões sobre direitos humanos e o foco em pessoas na transformação digital.
+
+Ainda, outro PROBLEMA que impacta em todos os demais mencionados até agora é a defasagem da infraestrutura de tecnologia e de
+comunicação, da base de dados estratégicos e do cadastro multifinalitário georreferenciado do território urbano, para suportar as novas
+tecnologias e serviços digitais a serem implantados na cidade de Maceió, bem como para expandir serviços como telemedicina. Nesse
+sentido, a implantação da empresa pública focada em inclusão digital e tecnologia está iniciando suas atividades e ainda carece de
+infraestrutura tecnológica.
+
+Apesar da existência de salas de monitoramento em alguns órgãos, um outro PROBLEMA é a falta de integração de serviços operacionais
+, controle de desastres e segurança pública, para viabilizar a coordenação de serviços de zeladoria e para o planejamento e execução de
+ações coordenadas entre os órgãos e entidades da administração municipal, de modo a resolver crises e problemas de grande impacto,
+como o afundamento do solo verificado em alguns bairros de Maceió.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+As Secretarias municipais são responsáveis pela sustentabilidade dos investimentos, conforme item 4.1 da Carta Consulta.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+A Secretaria Municipal de Estratégias Disruptivas, Ciência, Tecnologia e Inovação é a responsável por manter o atual programa de wi fi
+gratuito. Com a realização dos investimentos do Programa, a gestão e manutenção da Infovia municipal e da rede de wi fi público serão
+atribuições da Maceió Digital, e a sustentabilidade financeira será garantida pelo orçamento próprio da Prefeitura e pelas receitas
+acessórias decorrentes da exploração da infovia, sendo importante destacar que parte do custo será compensado com a economia de
+recursos atualmente dispendidos para levar conectividade a edifícios públicos e unidades de ensino, saúde e assistência social. O método
+de contratação e sustentabilidade da infraestrutura de conectividade deve estar orientado à redução de custos com incidentes e furto de
+equipamentos.
+
+A Maceió Digital será a responsável pela manutenção dos equipamentos de tecnologia adquiridos no âmbito desse Programa, inclusive os
+que integrarão a infraestrutura tecnológica do Centro de Controle Operacional Integrado, por meio de servidores e empregados do quadro
+próprio ou empresas contratadas. Registra-se que a lei de criação da Maceió Digital direcionou para a referida empresa pública os
+orçamentos de tecnologia da informação das Secretarias referentes aos exercícios futuros.
+
+A Secretaria Municipal de Segurança Cidadã atuará como principal entidade para sustentação do centro e os custos para operação serão
+cobertos pelo orçamento municipal destinados às forças de segurança (incluindo Guarda Municipal, Defesa Civil e Departamento
+Municipal de Transportes e Trânsito), com a expectativa de redução das despesas de manutenção do atual esquema de segurança e
+trânsito, desprovidos de inteligência aplicada e monitoramento remoto, especialmente pela diminuição da necessidade de ações
+ostensivas.
+
+Relativamente às plataformas e bases de dados a serem desenvolvidas no âmbito do Programa, o custo de operação e manutenção dos
+sistemas tecnológicos será pago com orçamento próprio das seguintes Secretarias: 1) plataforma de turismo sustentável e inteligente, pela
+Secretaria Municipal de Turismo; 2) plataforma de zeladoria urbana, pela Secretaria Municipal de Obras e Infraestrutura e pela Autarquia
+de Limpeza Urbana; e 3) plataforma de dados estruturados e paineis de inteligência, pela Secretaria Municipal de Fazenda e pelo Instituto
+de Pesquisa e Planejamento Urbano de Maceió. Com a implementação das plataformas digitais será ampliado o acesso a serviços e
+haverá também diminuição de retrabalho e economia de recursos públicos.
+
+No contexto das ações de formação e qualificação de mão de obra, a Sedciti será responsável pela sustentabilidade financeira do
+programa, no tocante aos custos de capacitação, e à Maceió Digital caberá a despesa de gestão e manutenção do centro tecnológico de
+apoio. O Iplan ficará responsável por operacionalizar as parcerias necessárias com o setor privado e os custos de operação do programa
+de residência em tecnologia. Também serão destinados recursos da Secretaria Municipal da Mulher para as ações de equidade de gênero
+.
+
+Os estudos e projetos a serem elaborados e atualizados ? PDTI, políticas de TI e dados, plano de cidade inteligente, estratégia de
+inclusão digital - incluirão em seu escopo a identificação de medidas para sustentabilidade dos investimentos a serem realizados em
+infraestruturas tecnológicas e plataformas digitais, assim como realizarão o planejamento integrado para as ações de educação e inclusão
+digital.
+
+Por fim, estima-se em R$ 18 milhões o valor anual para manutenção de sistemas e infraestrutura tecnológica, e para sustentação do
+programa de formação de mão de obra, após decorridos os cinco anos de execução dos investimentos. Esse total corresponde a 0,4% do
+orçamento municipal e representa um baixo custo para a gestão, considerando os benefícios decorrentes da modernização tecnológica.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+O objeto desse Programa está previsto nas seguintes orientações estratégicas:
+
+Lei Municipal n. 7.131, de 21 de janeiro de 2022, Plano Plurianual (PPA) para o período de 2022-2025 (Anexo 01);
+
+Lei Municipal n. 7.508, de 23 de janeiro de 2024, estima a receita e fixa a despesa para o exercício de 2024, considerando o aumento de
+receita estimada no PPA e a reforma administrativa (Anexo 01);
+
+As ações do Programa estão em consonância com as seguintes metas dos Objetivos de Desenvolvimento Sustentável (ODS) propostas
+na Agenda 2030 da ONU:
+
+Meta 1-Erradicação da pobreza
+
+Meta 2-Saúde e bem estar
+
+Meta 4-Educação de qualidade
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+Meta 5-Igualdade de gênero
+
+Meta 6-Água potável e saneamento
+
+Meta 8-Trabalho decente e desenvolvimento econômico
+
+Meta 9-Indústria, inovação e infraestrutura
+
+Meta 10-Redução das desigualdades
+
+Meta 11-Cidades e comunidades sustentáveis
+
+Meta 13-Ação contra a mudança global do clima
+
+Meta 14-Vida na água
+
+Meta 16-Paz, justiça e instituições eficazes
+
+Meta 17-Parcerias e meios de implementação
+
+As ações previstas constam nos planos setoriais relacionados ao Programa, como apresentado abaixo:
+
+- Lei Municipal n. 6.902/2019, Política Municipal de Ciência, Tecnologia e Inovação de Maceió;
+
+- Decreto Municipal n. 9.063/2021, dispõe sobre a implantação de meio eletrônico para tramitação dos processos administrativo no âmbito
+do Poder Executivo Municipal;
+
+- Decreto Municipal n. 9.070/2021, institui o Programa de Inovação Aberta para Transformação Digital de Maceió;
+
+- Decreto Municipal n. 9.180/2022, Plano Estratégico Maceió Cidade Inteligente 2022-2025 (Plano Maceió 4.0);
+
+- Decreto Municipal n. 9.258/2022, dispõe sobre o Sandbox Regulatório de Maceió;
+
+- Estratégia de dados da cidade de Maceió para 2024-2025;
+
+- Decreto Municipal n. 9.801/2024, a Política de Dados Abertos do Poder Executivo Municipal;
+
+- Decreto n. 9.803/2024, regulamenta a Lei de Proteção de Dados Pessoais;
+
+- Plano Municipal de Desenvolvimento Econômico 2024.
+
+Quanto aos recursos orçamentários e de contrapartida do financiamento, serão ajustados e incluídos por meio de lei específica, após
+recomendação da COFIEX. Dessa forma, o município formula a presente Carta Consulta prevendo investimentos de US$ 60.000.000,00 (
+sessenta milhões dólares norte-americanos), a serem aplicados no âmbito do Programa Maceió Cidade Conectada, sendo 80% (oitenta
+por cento) financiados e 20% (vinte por cento) de contrapartida.
+
+Os recursos de contrapartida do município correspondem a 20% do total do Programa, no período proposto de 05 anos de execução. A
+contrapartida será aportada com recursos provenientes de receitas tributárias previstas nos artigos 156, 158 e 159, inciso I, (b), da
+Constituição Federal, conforme disposto na Resolução nº 3/2019/COFIEX.
+
+Considerado, na formulação desta carta consulta, o câmbio de 5,4387 reais por dólar, data-base 09/07/2024, conforme dados do Banco
+Central do Brasil.
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa Maceió Cidade Conectada
+
+
+### 2.2. Título Abreviado
+
+Maceió ON!
+
+
+### 2.3. Mutuário
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+Município de Maceió - AL
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+OBJETIVO GERAL
+
+As ações do PROGRAMA destinam-se a acelerar o processo de transformação digital em Maceió, impulsionando o desenvolvimento
+sustentável por meio da inovação e das tecnologias da informação e comunicação, sob os preceitos de cidade inteligente centrada nas
+pessoas, impactando na melhoria dos serviços públicos oferecidos aos cidadãos e setor privado, além do aumento da capacidade da
+gestão municipal para resolver os desafios da cidade em temas de conectividade, serviços públicos e inclusão digital.
+
+OBJETIVOS ESPECÍFICOS
+
+- Aumentar a eficiência e eficácia do governo municipal na resolução de desafios da cidade mediante a utilização de tecnologias da
+informação e comunicação (Indicadores 01, 02, 03, 04 e 05);
+
+- Integrar serviços estratégicos, adotar plataformas de dados e oferecer serviços mais eficientes (Indicadores 06, 07 e 08);
+
+- Expandir a rede pública gratuita via wi fi na área urbana, implantar rede de conectividade própria, e modernizar e atualizar a
+infraestrutura tecnológica (Indicadores 09, 10 e 11);
+
+- Construir planos e diretrizes orientados à promoção de uma cidade inteligente focada nas pessoas, inclusiva e resiliente, e elaborar
+políticas fundamentais à transformação digital sustentável e orientada ao cidadão (Indicador 12);
+
+- Formar e capacitar mão de obra qualificada em tecnologia da informação e promover igualdade de gênero e inclusão social (indicadores
+13, 14 e 15).
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Descrição
+Indicador 1: Tempo médio de resolução da
+demanda dos 5 Serviços de Limpeza Urbana
+mais solicitados pela população / Linha de base:
+Anos 2020-2023; Meta: Ano 2029
+Indicador 2: Tempo médio de resolução da
+demanda dos 5 serviços de Vigilância Sanitária
+mais solicitados pela população / Linha de base:
+Ano 2020-2023; Meta: Ano 2029
+Indicador 3: Porcentagem de serviços públicos
+de zeladoria integrados na plataforma. Linha de
+base: Ano 2024; Meta: Ano 2029
+
+Indicador 4: Porcentagem de demandas de
+iluminação pública solicitadas por mulheres e
+resolvidas pela Prefeitura / Ano 2024; Meta: Ano
+
+Indicador 5: Quantidade de prédios e
+equipamentos públicos vigiados/monitorados no
+Centro Integrado / Ano 2024; Meta: Ano 2029
+
+Indicador 6: Quantidade de acessos à plataforma
+de turismo / Ano 2024; Meta: Ano 2029
+Indicador 7: Porcentagem de usuários mulheres
+e idosos que avaliaram positivamente a
+plataforma de turismo / Ano 2024; Meta: Ano
+
+%
+
+%
+
+Dias
+
+Dias
+
+Fórmula de Cálculo Unidade de Medida
+Tempo médio de
+resolução da
+demanda para os
+serviços
+Tempo médio de
+resolução da
+demanda para os
+serviços
+Número total de
+serviços públicos de
+zeladoria atendidos
+pela plataforma digital,
+dividido pelo número
+total de serviços de
+zeladoria da Prefeitura
+, multiplicado o
+resultado por 100 e
+expressa em
+porcentagem
+Número total de
+demandas resolvidas
+pela Prefeitura
+dividido pelo número
+total de demandas,
+multiplicado o
+resultado por 100 e
+expresso em
+porcentagem
+Número total de
+prédios e
+equipamentos
+públicos com vigiados/
+monitorados no
+Centro Integrado,
+divido pelo total de
+prédios públicos,
+multiplicado o
+resultado por 100 e
+expresso em
+porcentagem
+Número de acessos
+mensal
+Número total de
+avaliações positivas
+de usuários mulheres
+e idosos dividido pelo
+número total de
+usuários mulheres e
+idosos que avaliaram
+a plataforma,
+multiplicado o
+resultado por 100 e
+expresso em
+porcentagem
+
+Acessos
+
+%
+
+%
+
+
+Página: 6
+
+Meta
+10,00
+
+Linha de Base
+103,00
+
+114,00
+
+10,00
+
+0,00
+
+95,00
+
+0,00
+
+100,00
+
+0,00
+
+80,00
+
+0,00
+
+0,00
+
+3.000,00
+
+90,00
+
+
+%
+
+%
+
+%
+
+Indicador 8: Porcentagem de Secretarias com os
+dados estruturados e disponíveis na plataforma
+integrada / Ano 2024; Meta: Ano 2029
+
+Indicador 9: Porcentagem do território atendido
+pela rede de conectividade gratuita / Ano 2024;
+Meta: Ano 2029
+
+Indicador 10: Métricas de desempenho,
+segurança e qualidade da rede de wi fi gratuita.
+
+Indicador 11: Porcentagem dos edifícios públicos
+atendidos pela rede de fibra própria / Ano 2024;
+Meta: Ano 2029
+
+Indicador 12: Políticas estratégicas em TI e
+planos de desenvolvimento elaborados ou
+atualizadas / Ano 2024; Meta: Ano 2029
+
+Indicador 13: Aumento da quantidade de
+pessoas graduadas em tecnologia da informação
+por ano. Ano 2024; Meta: Ano 2035
+
+Número total de
+órgãos e entidades do
+poder executivo
+municipal com seus
+dados estratégicos
+disponíveis na
+plataforma integrada,
+dividido pelo número
+total de órgãos e
+entidades da
+Prefeitura,
+multiplicado o
+resultado por 100 e
+expresso em
+porcentagem
+Área territorial da
+zona urbana coberta
+por rede de
+conectividade gratuita,
+dividida pela área
+total da zona urbana,
+multiplicado o
+resultado por 100 e
+expresso em
+porcentagem
+Total de horas de
+disponibilidade anual
+multiplicado pelo
+número de pontos de
+conexão, subtraído o
+número de horas de
+indisponibilidade de
+todos os pontos,
+dividido pelo total de
+horas anual
+multiplicado pelo
+número de pontos de
+conexão, multiplicado
+o resultado por 100 e
+expresso em
+porcentagem
+Número total de
+prédios públicos com
+conectividade própria,
+divido pelo total de
+prédios públicos,
+multiplicado o
+resultado por 100 e
+expresso em
+porcentagem
+Políticas de TI/dados
+e planos de inclusão,
+equidade de gênero e
+sustentabilidade
+elaborados
+Média do número de
+profissionais
+graduados (
+Bacharelado) em TI (5
+anos)
+
+
+Página: 7
+
+0,00
+
+100,00
+
+2,00
+
+80,00
+
+0,00
+
+95,00
+
+%
+
+0,00
+
+80,00
+
+Quantidade
+
+2,00
+
+10,00
+
+Graduados
+
+106,00
+
+300,00
+
+
+Página: 8
+
+Indicador 14: Porcentagem das vagas do
+mercado de TI local ocupadas por mulheres. Ano
+2024; Meta: Ano 2035
+
+Indicador 15: Jovens capacitados em programa
+de formação técnica em habilidades digitais e
+inseridos no mercado de trabalho
+
+Número total de
+postos de trabalho em
+TI no mercado local
+ocupados por
+mulheres dividido pelo
+número total de
+postos de trabalho,
+multiplicado o
+resultado por 100 e
+expresso em
+porcentagem
+Número de jovens
+inseridos no mercado
+de trabalho
+anualmente por meio
+do programa de
+residência em TI
+
+%
+
+32,00
+
+51,00
+
+Empregos
+
+0,00
+
+200,00
+
+
+### 2.7. Projeto/Componentes
+
+
+Componentes
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+S - ESTUDOS E PROJETOS
+P - PDTI e Políticas Complementares de TI e Dados
+P - Plano de Cidade Ingeligente
+P - Plano de Resiliência Climática e Estratégia para a Economia Azul
+P - Estratégia Municipal de Educação e Inclusão Digital para Equidade de Gênero
+S - CENTRO DE CONTROLE OPERACIONAL INTEGRADO
+P - IMPLANTAÇÃO DO CENTRO DE CONTROLE OPERACIONAL
+P - Plataformas Tecnológicas de Zeladoria Urbana; Turismo Sustentável e Inteligente; Dados e Inteligência; e
+Cadastro Multifinalitário
+P - Rede de Monitoramento Municipal
+S - CAPACITAÇÃO E FORMAÇÃO DIGITAL
+P - Formação de Graduados em TI e Inclusão no Mercado de Trabalho
+P - Programa de Capacitação de Jovens em Tecnologias
+S - MODERNIZAÇÃO DA INFRAESTRUTURA TECNOLÓGICA
+P - Infovia Municipal
+P - Requalificação e Expansão da Rede de Conectividade Wi Fi Gratuita
+P - Aquisição de Equipamentos de Tecnologia
+C - GERENCIAMENTO DO PROGRAMA
+P - Apoio à Unidade de Gerenciamento do Programa (UGP)
+P - Auditoria Externa
+P - Gastos de Avaliação
+P - Comissão de Financiamento
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Valor(US$)
+58.250.000,00
+2.150.000,00
+1.150.000,00
+250.000,00
+500.000,00
+250.000,00
+24.000.000,00
+6.000.000,00
+10.000.000,00
+
+8.000.000,00
+13.100.000,00
+4.700.000,00
+8.400.000,00
+19.000.000,00
+7.400.000,00
+1.600.000,00
+10.000.000,00
+1.750.000,00
+1.150.000,00
+100.000,00
+92.000,00
+408.000,00
+60.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+O conceito de cidade inteligente adotado pela International Standardization Organization na norma ISO/CD n. 37.122 foi
+incorporado pela Associação Brasileira de Normas Técnicas (ABNT). A regulamentação define cidade inteligente como aquela que
+aumenta o ritmo em que proporciona resultados de sustentabilidade social, econômica e ambiental. Para isso, devem reagir a
+desafios como mudanças climáticas, rápido crescimento populacional e instabilidades de ordem política e econômica, melhorando
+fundamentalmente a maneira como engajar a sociedade, aplica métodos de liderança colaborativa, trabalha de forma transversal
+os sistemas da cidade e usa ciência dos dados e tecnologias para prestar serviços mais eficientes e melhorar a qualidade de vida
+daqueles na cidade (residentes, empresários, visitantes), sem degradar o meio ambiente natural.
+
+A Prefeitura de Maceió realizou ações estruturantes ao longo dos três primeiros anos de gestão, voltadas ao fortalecimento da
+capacidade financeira do Município e à reorganização da administração direta e indireta municipal. Nesse sentido, com o advento
+das Leis Delegadas n. 05/2023 e n. 07/2023, houve autorização legal para a criação do Instituto de Pesquisa e Planejamento
+Urbano de Maceió (IPLAN Maceió) e da Empresa de Tecnologia e Inclusão Digital de Maceió (Maceió Digital), focados no
+desenvolvimento da cidade de forma inteligente e sustentável.
+
+Para o cumprimento de sua finalidade, o IPLAN configura-se como instituição científica, tecnológica e de inovação - ICT - nos
+termos da Lei Federal nº 10.973, de 02 de dezembro de 2004, e da Lei de Inovação Municipal nº 6.902, de 26 de junho de 2019,
+cabendo-lhe o desenvolvimento de pesquisas básicas ou aplicadas, de caráter científico e tecnológico, à qualificação científica e
+tecnológica, e o desenvolvimento de novos produtos, serviços ou processos destinados a tecnologias de gestão que aumentem a
+eficácia e a qualidade dos serviços prestados aos cidadãos (art. 3º, parágrafo único, Decreto Municipal n. 9.486/2023). Conforme
+referidas normas, são competências do IPLAN:
+
+
+Página: 9
+
+&#9679; definir, coordenar e executar as políticas, diretrizes e metas relacionadas com o planejamento urbano e o
+desenvolvimento territorial do município;
+&#9679; implantar e coordenar o Sistema de Informações Geográficas do Município;
+&#9679; implantar e coordenar o Sistema de Planejamento Municipal Urbano;
+&#9679; desenvolver parâmetros e indicadores de sustentabilidade urbana;
+&#9679; coordenar e monitorar, de forma integrada, o desenvolvimento territorial da cidade;
+&#9679; propiciar a participação popular nos processos de planejamento, gestão e desenvolvimento da cidade;
+&#9679; prestar consultoria e assessoria técnica a outros órgãos e entidades da administração pública, isoladamente ou em
+conjunto com instituições técnicas, de pesquisa e extensão, e de ensino superior;
+&#9679; fomentar e promover o conceito de cidades inteligentes com o uso de tecnologias emergentes para o desenvolvimento
+urbano e sustentável, em articulação com a sociedade e órgãos e entidades da administração pública municipal;
+&#9679; prospectar, propor e coordenar projetos e iniciativas destinados a parcerias com entidades do terceiro setor, que tenham
+por objetivo a ampliação da capacidade e da participação popular na formulação de políticas públicas e no desenvolvimento urbano
+;
+&#9679; coordenar, elaborar e supervisionar as políticas e planos para cidade inteligente de Maceió, com foco no desenvolvimento
+urbano e sustentável;
+&#9679;promover o uso de dados para tomada de decisão e para aprimoramento e suporte do ciclo de gestão de políticas públicas
+e de desenvolvimento urbano.
+
+A Empresa de Tecnologia e Inclusão Digital de Maceió (Maceió Digital) foi criada para propor e prover soluções tecnológicas que
+suportem as políticas de inclusão digital, assim como para executar ações para expandir o acesso gratuito à internet em todo o
+Município de Maceió. Será responsável por gerir as soluções tecnológicas, por manter a rede de conectividade da Prefeitura e
+prover soluções tecnológicas que suportem as políticas de inclusão digital. Além disso, a Maceió Digital é responsável por elaborar
+e manter um plano de educação e inclusão digital contendo princípios, definições, papeis, responsabilidades e ações para expandir
+o acesso gratuito à internet, para promover a educação digital e para remover barreiras institucionais e estruturais para o acesso
+da população a tecnologias.
+
+Dentre os objetivos a serem realizados pela Maceió Digital destacam-se: a oferta de soluções tecnológicas para aumentar a
+eficiência e qualidade na prestação de serviços públicos; a gestão e operação das plataformas de serviços de tecnologia
+compartilhados e de uso comum no âmbito da Administração Pública Direta e Indireta; e o desenvolvimento de modelos e diretrizes
+para melhorar a experiência do usuário na prestação dos serviços públicos em canais digitais.
+
+Os subcomponentes a seguir apresentados contemplam, assim, as necessidades prioritárias de investimentos identificadas para a
+aceleração da transformação digital da Cidade Inteligente de Maceió. A partir da execução dos investimentos são estimados
+impactos relevantes nos indicadores de inteligência e sustentabilidade, potencializando a transformação digital nos setores e
+serviços prioritários que abrangem o programa, além da formação de mão de obra especializada em serviços de tecnologia da
+informação para atender à demanda local.
+
+S - ESTUDOS E PROJETOS
+A reforma administrativa da Prefeitura de Maceió teve como escopo consolidar instituições voltadas à melhoria da qualidade de
+vida dos cidadãos e dos serviços oferecidos pela gestão pública, com a criação da Maceió Digital, focada na agenda de inclusão
+digital. A Maceió Digital foi criada sob a forma de empresa pública e terá como finalidade a execução e a prestação de serviços de
+informática, telecomunicações, infraestrutura tecnológica, sistemas digitais, pesquisa, desenvolvimento, inovação, tecnologia em
+geral e assessoramento técnico aos órgãos da Administração Direta e Indireta da Prefeitura de Maceió. Além disso, a empresa
+pública deverá propor e prover soluções tecnológicas que suportem as políticas de inclusão digital, elaborar e manter um plano de
+educação e inclusão digital contendo princípios, definições, papeis, responsabilidades e ações para expandir o acesso gratuito à
+internet em todo o Município de Maceió, e para remover barreiras institucionais e estruturais para o acesso da população a
+tecnologias.
+
+Neste subcomponente da operação, será desenvolvido, de forma a estabelecer adequado planejamento e governança às
+iniciativas de cidade inteligente e transformação digital de Maceió, o Plano Diretor de Tecnologia da Informação, instrumento de
+gestão essencial à coordenação e à sustentabilidade, em longo prazo, das ações, políticas e programas de TI conduzidos pelo
+município. No mesmo sentido, a elaboração das demais políticas de TI e dados, assim como a estratégia de educação e inclusão
+digital para equidade de gênero, servirão para guiar o gestor público na construção de políticas orientadas à inclusão e à equidade
+de gênero.
+
+Ademais, tendo em vista os avanços significativos propostos no presente projeto quanto ao monitoramento ambiental e
+implantação de ações de mitigação e adaptação às mudanças climáticas e considerando a urgência da crise climática global e a
+necessidade de sua inserção no planejamento local, especialmente para uma cidade inteligente e sustentável, estão previstas a
+elaboração de plano de resiliência climática e estratégia para exploração sustentável econômica da economia azul.
+
+
+Página: 10
+
+P - PDTI e Políticas Complementares de TI e Dados
+A transformação digital deve ser sustentável, orientada ao bem comum e considerar temas que se tornaram centrais na agenda
+pública digital: a segurança cibernética; a transparência na utilização de dados, informações e algoritmos; e a proteção geral de
+dados pessoais. A Prefeitura de Maceió precisa avançar na regulamentação interna de questões críticas, com a edição de
+normativos específicos a serem observados por todos os órgãos e entidades, bem como a padronização de procedimentos e
+políticas de segurança da informação e comunicação, sendo essencial para tanto a elaboração de um Plano Diretor de Tecnologia
+da Informação com a previsão de todos os projetos já desenvolvidos e com o objetivo de dar sustentabilidade a todos os novos
+projetos, especialmente os que serão financiados no âmbito desse programa, e também  para prever o modelo de negócio da
+empresa de TI.
+
+O escopo deste produto consiste na definição do modelo de negócio da empresa pública, assim como a construção/atualização de
+políticas complementares relacionadas à segurança da informação e privacidade de dados, especificamente:
+
+- Plano Diretor de Tecnologia da Informação (PDTI).
+- Políticas de: controle de acesso a recursos e sistemas computacionais; segurança e classificação da informação; gestão de riscos
+; continuidade dos serviços de TIC; backup das informações e dados; governança, gestão e tratamento de dados pessoais.
+
+Resultados Esperados
+
+Elaborar o Plano Diretor de Tecnologia da Informação e as políticas estruturantes de TI e dados;
+Estruturar os projetos de implantação das tecnologias de acordo com as principais necessidades da população.
+
+Impactos Ambientais e Sociais Esperados
+
+Otimizar o uso de recursos tecnológicos, possibilitando que o planejamento dos investimentos no âmbito desse Programa impacte
+positivamente na gestão e prestação de serviços públicos;
+Promover a sustentabilidade e impulsionar o progresso da inteligência e resiliência da cidade por meio dos sistemas e plataformas
+tecnológicas a serem implementadas;
+Garantir a segurança da população no que tange à proteção de dados e uso de tecnologias.
+
+Metas de Desempenho
+
+Elaboração dos planos estruturantes de políticas públicas estratégicas para a transformação digital sustentável e orientada ao
+cidadão;
+Melhoria dos indicadores e índices de desenvolvimento.
+
+P - Plano de Cidade Ingeligente
+O IPLAN Maceió é responsável por fortalecer o relacionamento da Prefeitura de Maceió com instituições e organizações
+internacionais. Desde 2021 foram diversas atividades e projetos internacionais de colaboração nas temáticas de inovação,
+sustentabilidade, governança de dados e direitos digitais. Nessa última temática o IPLAN Maceió colaborou no desenvolvimento de
+guias, políticas, e projetos pilotos, e coordena a Cities Coalition for Digital Rights, uma rede formada por mais de 60 cidades que
+atuam na proteção e na promoção de direitos digitais. Em um projeto conjunto da Cities Coalition for Digital Rights com a CAF e
+ONU Habitat foi desenvolvida uma plataforma que atualmente serve como um hub de conhecimento, troca de experiências,
+promoção de eventos, conexão de servidores púbicos e comunidade de prática em direitos digitais, onde as cidades podem se
+cadastrar para receber suporte de especialistas voluntários em matéria de direitos humanos no meio digital.
+
+Como ponto de melhoria na gestão municipal, o IPLAN Maceió busca implantar a proteção a direitos digitais como elemento central
+na agenda de transformação digital, participando ativamente de fóruns globais de debate e compartilhamento de boas práticas
+entre cidades. Nesse ponto, o Secretário Presidente do IPLAN foi indicado pelo governo brasileiro para compor o grupo de
+especialistas da ONU Habitat para construção do guia para cidades inteligentes focadas em pessoas. Destaca-se no âmbito
+nacional a participação de Maceió no Programa de Aceleração Digital dos Municípios, iniciativa pioneira realizada pelo BrazilLAB
+com apoio do CAF, que trouxe resultados significativos para capacitação da equipe e culminou na aplicação do novo modelo de
+contratação pública previsto no marco legal das startups em Maceió.
+
+Para evoluir na temática em âmbito municipal, e assegurar que a transformação digital a ser realizada com os investimentos do
+programa seja inclusiva, sustentável e orientada ao cidadão, é preciso atualizar o Plano de Cidade Inteligente à estrutura
+administrativa atual da Prefeitura de Maceió e aos novos projetos de cidade inteligente previstos no âmbito desse financiamento. O
+objetivo principal é que a nova versão do Plano de Cidade Inteligente aborde de forma efetiva a proteção aos direitos digitais dos
+cidadãos no processo de transformação digital de Maceió em uma cidade inteligente com foco nas pessoas.
+
+Resultados Esperados
+
+Atualizar o Plano de Cidade Inteligente de Maceió;
+Estruturar os projetos de implantação das tecnologias com respeito aos direitos humanos e foco no usuário.
+
+Impactos Ambientais e Sociais Esperados
+
+Assegurar o respeito aos direitos humanos no processo de transformação digital da cidade inteligente;
+
+
+Página: 11
+
+Otimizar o uso de recursos tecnológicos e orientar o desenvolvimento de plataformas digitais com foco nos usuários e seus direitos
+;
+Garantir a oferta de serviços públicos digitais acessíveis aos usuários.
+
+Metas de Desempenho
+
+Atualização do plano de cidade inteligente com foco na transformação digital orientada à proteção dos direitos humanos em
+ambiente digital e na adoção de tecnologias.
+
+P - Plano de Resiliência Climática e Estratégia para a Economia Azul
+Maceió enfrenta um desafio comum às demais regiões urbanas e que demanda o fortalecimento da resiliência da cidade: as
+mudanças do clima. A resiliência climática é o conjunto de iniciativas e estratégias que permitem a adaptação, nos sistemas
+naturais ou criados pelos homens, a um novo ambiente, em resposta à mudança do clima atual ou esperada (Política Nacional do
+Clima). Os riscos climáticos que pressionam a cidade de Maceió são diversos: ondas de calor extremo, aumento do nível do mar,
+elevação do nível da laguna, e deslizamento do solo em épocas de chuva.
+
+O enfrentamento às mudanças climáticas inclui o desenvolvimento de planos de gestão de riscos e estratégias de adaptação para
+proteger as pessoas e, ainda, para implantação de infraestruturas resilientes. A definição de um plano, fundamentado na avaliação
+do risco climático, com a proposição de medidas que visem criar condições para adaptação e resiliência do município frente aos
+efeitos das mudanças climáticas, é essencial, além do objetivo primordial de melhorar a vida das pessoas, para dar
+sustentabilidade e orientar os projetos e investimentos a serem realizados no âmbito desse programa, especialmente quanto à
+implantação de estruturas de conectividade e infraestruturas tecnológicas resilientes.
+
+Além disso, não é apenas a mudança do clima que impacta os recursos naturais de Maceió. O oceano e a lagoa são recursos
+naturais importantes para a sobrevivência humana e sua exploração abrange diversos setores econômicos como turismo, pesca,
+aquacultura, transporte marítimo, exploração de fontes de energia e biotecnologia. Todo esse potencial econômico dos recursos
+naturais locais requer uma abordagem holística para o desenvolvimento sustentável e preservação das áreas costeiras marítima e
+lagunar. O planejamento da economia azul local é necessário para fortalecer o potencial econômico local apresentado pelo oceano
+e pela lagoa, para promover o crescimento econômico e social, assegurando a capacidade de longo prazo dos ecossistemas para
+suportarem essa atividade, permanecendo resilientes e saudáveis.
+
+O objetivo é viabilizar um diagnóstico com a análise dos setores da economia azul local nos últimos anos, com a definição de um
+planejamento orientado para a sustentabilidade do crescimento dos setores relacionados, considerando desde as cadeias
+produtivas ligadas à indústria (porto, pesca) quanto à exploração sustentável de recursos naturais realizada por populações
+tradicionais (marisqueiras). Esse planejamento deve considerar os novos produtos a serem desenvolvidos, como a plataforma de
+turismo.
+
+Resultados Esperados
+
+Elaborar o Plano de Resiliência Climática;
+Elaborar a Estratégia para o Desenvolvimento Sustentável da Economia Azul Local.
+
+Impactos Ambientais e Sociais Esperados
+
+Minimizar os efeitos do aumento da temperatura e das ondas de calor;
+Diminuir os impactos negativos de enxurradas, alagamentos e inundações;
+Aumentar a segurança hídrica no município tornando-o resiliente em relação ao aumento das chuvas e demais efeitos das
+mudanças climáticas;
+Reduzir os impactos de eventos de movimentos de massa, como o deslizamento de encostas, aumentando a resiliência e
+capacidade de adaptação do território e da população.
+
+Metas de Desempenho
+
+Elaboração de planos estruturantes de políticas públicas estratégicas para o desenvolvimento sustentável da cidade;
+Melhoria dos indicadores e índices de desenvolvimento.
+
+P - Estratégia Municipal de Educação e Inclusão Digital para Equidade de Gênero
+A inclusão digital tem a capacidade de democratizar o acesso e uso das tecnologias da informação e comunicação. É uma
+estratégia crucial para promover o desenvolvimento econômico, social e educacional local, pois os excluídos digitais perdem a
+chance de desenvolver habilidades e gerar novas oportunidades. Para além da conectividade gratuita, a inclusão digital no território
+depende do letramento digital e do desenvolvimento de habilidades para utilização de equipamentos e sistemas eletrônicos pela
+parte menos favorecida da população. Para reverter o contexto socioeconômico se torna imprescindível uma estratégia intencional
+e direcionada para reduzir e eliminar barreiras históricas, estruturais e institucionais ao acesso e uso de tecnologias, considerando
+especialmente a igualdade de gênero como elemento orientador da política pública, metas e objetivos concretos que irão servir de
+base para o projeto de conectividade gratuita.
+
+
+Página: 12
+
+A Associação das Empresas Alagoas de Tecnologia da Informação (ASSESPRO AL) realizou estudo recente sobre dados dos
+seguintes segmentos: Serviços de Comunicação; Software, Dados e Internet; Consultoria em TI; Serviços de Suporte Técnico e
+Manutenção; Treinamento TIC; e Comércio de Produtos de Informática. O setor, em dezembro de 2021, gerava 4.955 empregos
+diretos no Estado (sendo 2.725 em Maceió), em 2.983 empresas de TIC (1.790 em Maceió). Outro dado que releva a importância
+de uma política de gênero inclusiva é que desses empregos em TIC, apenas 32,3% do total são desempenhados por mulheres (1.
+600 em Alagoas, 880 na cidade de Maceió), e há posições ainda não ocupadas por mulheres, como Administração de Banco de
+Dados e de Redes.
+
+Um dado que chama atenção é que apenas 15,8% desses profissionais possuem o ensino superior completo (363 profissionais),
+representando um universo total de 2.295 profissionais de TI em Maceió (e observada a mesma proporção de 740 mulheres) sem
+curso de graduação completo. Para reverter esse cenário, é essencial a definição de uma estratégia municipal que irá nortear as
+ações de equidade de gênero no âmbito do Programa e com vistas ao desenvolvimento do ecossistema local.
+
+Resultados Esperados
+
+Elaborar a Estratégia Municipal de Educação e Inclusão Digital para Equidade de Gênero;
+Alinhar a convergência das políticas de conectividade gratuita, inclusão no mercado de trabalho e letramento digital para a
+equidade de gênero;
+Reduzir a desigualdade de gênero no setor de tecnologia da informação.
+
+Impactos Ambientais e Sociais Esperados
+
+Otimizar o uso de recursos tecnológicos, possibilitando que o planejamento dos investimentos no âmbito desse Programa propicie
+a inclusão digital e a equidade de gênero;
+Promover a sustentabilidade e impulsionar o progresso da redução da desigualdade de gênero e da inclusão de mulheres no
+mercado de trabalho de TI;
+Garantir que os investimentos na rede de conectividade gratuita e em capacitação e formação da mão de obra sejam eficazes para
+o letramento e a inclusão digitais.
+
+Metas de Desempenho
+
+Elaboração de planos estruturantes de políticas públicas estratégicas para o desenvolvimento humano;
+Melhoria dos indicadores e índices de desenvolvimento;
+Promoção da equidade de gênero.
+
+S - CENTRO DE CONTROLE OPERACIONAL INTEGRADO
+A reforma administrativa da Prefeitura de Maceió teve como escopo consolidar instituições voltadas à melhoria da qualidade de
+vida dos cidadãos e dos serviços oferecidos pela gestão pública, com a criação da Maceió Digital, focada na agenda de inclusão
+digital. A Maceió Digital foi criada sob a forma de empresa pública e terá como finalidade a execução e a prestação de serviços de
+informática, telecomunicações, infraestrutura tecnológica, sistemas digitais, pesquisa, desenvolvimento, inovação, tecnologia em
+geral e assessoramento técnico aos órgãos da Administração Direta e Indireta da Prefeitura de Maceió. Além disso, a empresa
+pública deverá propor e prover soluções tecnológicas que suportem as políticas de inclusão digital, elaborar e manter um plano de
+educação e inclusão digital contendo princípios, definições, papeis, responsabilidades e ações para expandir o acesso gratuito à
+internet em todo o Município de Maceió, e para remover barreiras institucionais e estruturais para o acesso da população a
+tecnologias.
+
+Neste subcomponente da operação, será desenvolvido, de forma a estabelecer adequado planejamento e governança às
+iniciativas de cidade inteligente e transformação digital de Maceió, o Plano Diretor de Tecnologia da Informação, instrumento de
+gestão essencial à coordenação e à sustentabilidade, em longo prazo, das ações, políticas e programas de TI conduzidos pelo
+município. No mesmo sentido, a elaboração das demais políticas de TI e dados, assim como a estratégia de educação e inclusão
+digital para equidade de gênero, servirão para guiar o gestor público na construção de políticas orientadas à inclusão e à equidade
+de gênero.
+
+Ademais, tendo em vista os avanços significativos propostos no presente projeto quanto ao monitoramento ambiental e
+implantação de ações de mitigação e adaptação às mudanças climáticas e considerando a urgência da crise climática global e a
+necessidade de sua inserção no planejamento local, especialmente para uma cidade inteligente e sustentável, estão previstas a
+elaboração de plano de resiliência climática e estratégia para exploração sustentável econômica da economia azul.
+
+P - IMPLANTAÇÃO DO CENTRO DE CONTROLE OPERACIONAL
+A Prefeitura de Maceió busca integrar em um único Centro de Controle Operacional as infraestruturas de monitoramento já
+existentes na Defesa Civil (focado no monitoramento de desastres), no Departamento Municipal de Transportes e Trânsito (
+orientado ao monitoramento de vias de tráfego) e na Autarquia de Limpeza Urbana (gestão e coleta de resíduos sólidos), além de
+outras Secretarias estratégicas para fiscalização urbana e prestação de serviços de zeladoria (Secretaria Municipal de
+Infraestrutura, Secretaria Municipal de Meio Ambiente e Urbanismo, Secretaria Municipal de Segurança Cidadã, Secretaria
+Municipal de Saúde).
+
+
+Página: 13
+
+As salas de monitoramento existentes possuem uma estrutura mínima para acompanhamento de ações pontuais desses órgãos e
+entidades da administração municipal, consistentes em câmeras de vigilância distribuídas pela cidade, sensores para
+monitoramento dos veículos de limpeza urbana e, no caso da Defesa Civil, para monitoramento de uma área do território urbano
+atualmente desocupada e sob efeitos da subsidência do solo, e para coleta e registro de informações meteorológicas.
+
+Os projetos a serem realizados com o empréstimo irão agregar aos investimentos da Prefeitura de Maceió nos próximos anos
+voltados à expansão da rede de monitoramento municipal, às novas plataformas digitais a serem desenvolvidas com foco na
+gestão pública e no cidadão, e ao aumento de dispositivos de vigilância de equipamentos públicos, de sensores inteligentes e de
+monitoramento de riscos ambientais. Além disso, com a estruturação de dados e adoção de modelos de inteligência para subsidiar
+a tomada de decisões, será necessário centralizar o planejamento e a execução de atividades estratégicas para a transformação
+digital almejada.
+
+Atualmente, como já destacado, a infraestrutura de monitoramento e gestão de serviços municipais é focada no monitoramento de
+trânsito, de limpeza urbana e de áreas de risco. De modo a viabilizar a adequada gestão e condução dos projetos e iniciativas de
+transformação digital e cidade inteligente, será projetado e implantado o Centro de Controle Operacional Integrado, equipamento
+que receberá múltiplas atribuições, todas interrelacionadas e focadas na melhoria dos serviços oferecidos à população. Ao abrigar
+os dados e plataformas digitais para servir como ponto de convergência para a governança da cidade inteligente, o Centro de
+Controle Operacional Integrado otimizará o uso de infraestruturas tecnológicas e centralizará o controle de serviços de zeladoria
+urbana oferecidos pelos órgãos e entidades da Prefeitura de Maceió. Serviços urbanos de segurança, mobilidade, iluminação,
+coleta de resíduos sólidos, esgoto, vigilância sanitária e fiscalização, por exemplo, manterão posições de controle e decisão no
+Centro.
+
+O Centro manterá estrutura para dar suporte às atividades dos grupos e comitês relacionados à governança de cidade inteligente,
+a serem detalhados no âmbito do Plano Diretor de Tecnologia da Informação e Comunicação e no Plano de Cidade Inteligente, e
+espaço para realizar o acompanhamento de indicadores (ISO, ODS, indicadores nacionais e internacionais), viabilizando a
+mensuração contínua da efetividade e impacto dos projetos em execução. Ainda, o Centro consistirá no ponto central para coleta,
+análise e interpretação de um grande volume de dados, além de disponibilizar de espaço para abrigar posições de comando e
+controle centralizado de serviços urbanos.
+
+O município elaborará, em primeiro momento, o plano de necessidades para o Centro de Controle Operacional Integrado, e, no
+âmbito do programa, contratará, os projetos executivos, obras, intervenções, infraestrutura lógica e elétrica, equipamentos de áudio
+/vídeo e sistemas para operacionalização do equipamento público.
+
+Resultados Esperados
+
+Implantar o Centro de Controle Operacional Integrado, destinado a múltiplas Secretarias e entidades da Administração Municipal,
+expandindo-se a capacidade de monitoramento, resposta a crises e tomada de decisões municipais;
+Unificar os centros de controle setoriais em única estrutura, com a integração de serviços, dados estruturados e inteligência
+analítica.
+
+Impactos Ambientais e Sociais Esperados
+
+Melhorar a qualidade dos serviços públicos prestados à população e a segurança pública, por meio de decisões mais rápidas e
+precisas, impactando nos sistemas de mobilidade, segurança, gestão de resíduos e diversos outros;
+Contribuir para melhorar a qualidade dos serviços públicos, promover a sustentabilidade e impulsionar o progresso nas áreas de
+educação, saúde, desenvolvimento social, entre outros.
+
+Metas de Desempenho
+
+Desenvolver o plano e os projetos executivos de arquitetura e complementares para implantação do novo Centro de Controle
+Operacional Integrado;
+Implantar o novo Centro de Controle Operacional Integrado, expandindo-se a capacidade de monitoramento e tomada de decisões
+municipais;
+Capacitar os profissionais atuantes no Centro de Controle Operacional Integrado para operação e manutenção das ferramentas
+implementadas.
+
+P - Plataformas Tecnológicas de Zeladoria Urbana; Turismo Sustentável e Inteligente; Dados e Inteligência; e Cadastro
+Multifinalitário
+Plataforma de Zeladoria Urbana
+
+A plataforma de zeladoria urbana terá como principal objetivo ser o ponto de convergência para a gestão dos serviços de
+conservação, limpeza, fiscalização, segurança, iluminação e manutenção dos espaços urbanos prestados pelos órgãos e
+entidades da administração municipal. Esses serviços abrangem a coleta de resíduos, limpeza e poda de praças públicas, ações
+de vigilância sanitária e controle de zoonoses, gestão do asfalto e reparo de vias públicas, solicitações de medicamentos,
+fiscalização de posturas, além de vários outros.
+
+
+Página: 14
+
+Essa plataforma absorverá todos os sistemas de atendimento ao público e a gestão do relacionamento do cidadão com a
+Prefeitura para os serviços de zeladoria urbana, que serão operados de forma integrada entre todas as Secretarias e entidades
+municipais no escopo do Centro de Controle Integrado. A plataforma demanda a implantação de um sistema que tenha os recursos
+necessários para gerar dados importantes, com foco na melhoria dos serviços e do atendimento ao cidadão. Além disso, a
+expectativa é de reduzir o tempo de atendimento e respostas aos pedidos enviados pelos cidadãos.
+
+Plataforma de Turismo Sustentável e Inteligente
+
+Outra ferramenta tecnológica essencial ao desenvolvimento econômico local é uma plataforma voltada ao turismo. Para que a
+cidade inteligente se transforme em um destino inteligente é preciso usar a infraestrutura tecnológica a fim de tomar suas decisões
+e realizar ações com base nos dados produzidos, administrados e processados por meio da infraestrutura tecnológica no âmbito do
+destino. O conceito de destino turístico inteligente é uma tendência crescente na indústria do turismo e tem sido estimulado pelo
+Ministério do Turismo brasileiro desde 2021.
+
+Maceió ainda carece de uma estratégia de destino inteligente que estruture seus atrativos turísticos de forma mais inovadora e
+sustentável, assim como de uma plataforma digital de turismo que, para além de disponibilizar informações e dados estratégicos
+aos turistas, também sirva para ampliar a competitividade turística, a promoção internacional e a oportunidade de investimento.
+Como elemento potencializador dessa plataforma, a rede de conectividade gratuita pode agregar a esse projeto e a plataforma de
+turismo servir como página inicial para conexão, centralizando a divulgação e estimulando ações de educação ambiental e de
+conscientização sobre a necessidade de adoção de um modelo sustentável para a economia azul, em alinhamento com o plano de
+desenvolvimento local para as economias do mar e lagunar.
+
+A tecnologia aplicada ao turismo permite tornar a experiência turística mais agradável para os visitantes e mais sustentável,
+tornando-os conscientes de serviços e produtos disponíveis no destino, além de permitir a oferta aos turistas de uma experiência
+personalizada e que valorize os atrativos e a cultura de Maceió. Além disso, viabiliza a obtenção de dados sobre o comportamento
+dos turistas, decorrentes do uso de plataforma e das avaliações dos turistas, que servem para aumentar a competitividade do
+destino Maceió e, ainda, otimizar o uso de recursos públicos na promoção do destino e melhorar a qualidade dos serviços turísticos
+. Esses dados servirão tanto para a tomada de decisão pelo gestor acerca dos investimentos públicos, quanto para alinhar as
+iniciativas, ofertas e infraestrutura de turismo com a demanda e expectativas dos visitantes. Mediante a troca instantânea, via
+plataforma, de informações com o trade turístico, será estruturado um painel de inteligência turísticas para fortalecer e orientar o
+desenvolvimento local.
+
+Outra potencialidade de uma plataforma de turismo sustentável e inteligente é utilizar tecnologias e abordagens inovadoras para
+conscientização ambiental dos visitantes. A plataforma servirá também para difundir práticas de conservação de recursos naturais
+e possuirá uma estratégia de comunicação voltada à minimizar o impacto nas comunidades locais. Para além da sustentabilidade,
+a inclusão também será elemento central no desenho e definição das funcionalidades da plataforma, de modo a criar
+oportunidades de acesso para todos os visitantes e a difusão de atrações, passeios e atividades inclusivas para idosos, mulheres,
+crianças, pessoas com deficiência e de diferentes origens culturais.
+
+Por meio de uma plataforma digital de turismo os visitantes poderão fazer passeios virtuais em pontos turísticos e edificações
+históricas, inclusive prédios históricos afetados pelo afundamento do solo; conhecer a variedade da cultura local, com a
+disponibilização de músicas, filmes e obras literárias de artistas locais; e conhecer as opções de turismo que existem nas
+comunidades locais. Enfim, o usuário terá a seu alcance todas as informações sobre culinária, hospedagem, transporte e outras de
+interesse turístico e cultural no destino Maceió.
+
+Plataforma de Dados, Inteligência e Cadastro Multifinalitário
+
+Comprometido com os resultados práticos que a transformação digital pode gerar, a Prefeitura de Maceió busca construir uma
+plataforma de integração de dados e ferramentas de planejamento de vários setores da administração pública, impulsionando e
+fomentando uma cultura de inovação em projetos que impactam e são relevantes para toda a população. Com uma abordagem
+focada em dados e tecnologia, o objetivo é melhorar a eficiência da administração pública, proporcionar uma melhor qualidade de
+vida para os cidadãos e garantir um desenvolvimento urbano inteligente e sustentável.
+
+Além disso, a estruturação de dados, etapa imprescindível à consolidação de dados abertos que contribuem para a transparência e
+prestação de contas aos cidadãos, permite: decisões baseadas em fatos: os gestores podem tomar decisões baseadas em dados
+concretos, detalhados e selecionados através de relatórios e indicadores (?dashboards?) que sintetizam informações úteis;
+aumento da eficiência: um sistema de análise de dados pode apontar áreas onde os esforços constituem um desperdício,
+promovendo, portanto, o uso eficiente dos recursos; identificação de oportunidades: as entidades da administração municipal têm
+um melhor acesso às suas próprias capacidades e processos podendo moldá-los de acordo com as necessidades; e tomada de
+decisão e relatórios em um tempo mais curto ou real: as entidades da administração municipal podem ter uma resposta rápida aos
+novos desafios e obter respostas mais rápidas para uma melhor atuação.
+
+O produto deve ser desenvolvido como uma plataforma de gestão integrada dos dados para dotar de inteligência a cidade, fazendo
+com que todos os dispositivos e tecnologias que gerem informações se conectem e que toda a infraestrutura da cidade trabalhe de
+forma colaborativa, abrangendo dados públicos tais como mobilidade, turismo, limpeza urbana, segurança, governo eletrônico,
+saúde e de todos os demais setores. O planejamento baseado em dados também viabiliza a coordenação de esforços
+multissetoriais para execução de interesses diversos, como a preservação do meio ambiente, o estímulo à indústria verde, e a
+redução da poluição em geral.
+
+
+Página: 15
+
+Para promover o desenvolvimento urbano sustentável e construir respostas para os problemas locais cuja realização possa ser
+mensurável, é essencial colaborar e estabelecer parcerias localmente, de modo a integrar bases de dados e criar uma inteligência
+que permita a tomada de decisão amparada por evidências concretas. Além disso, a definição de indicadores de sustentabilidade
+urbana é, além de uma obrigação prevista na legislação municipal, uma prática essencial para avaliar a realização das metas
+planejadas no tocante ao desenvolvimento urbano sustentável.
+
+Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), indicadores de sustentabilidade urbana fornecem subsídios para o
+acompanhamento da sustentabilidade do padrão de desenvolvimento nas dimensões ambiental, social, econômica e institucional,
+oferecendo um panorama abrangente de informações necessárias ao conhecimento da realidade do local, ao exercício da
+cidadania e ao planejamento e formulação de políticas públicas para o desenvolvimento sustentável. Esses indicadores devem
+considerar também os Objetivos de Desenvolvimento Sustentável da ONU.
+
+Resultados Esperados
+
+Implantar a plataforma de zeladoria destinada à integração das solicitações e gestão dos serviços de zeladoria urbana prestados
+pelas Secretarias e entidades da Administração Municipal;
+Implantar a plataforma de turismo sustentável e inteligente, para promover a conscientização ambiental e estimular o
+desenvolvimento da economia criativa local;
+Unificar os dados e proporcionar a coleta de informações qualitativas e quantitativas, para acompanhamento de indicadores,
+governança e qualidade da tomada de decisão pública;
+Integrar a base de dados e desenvolver modelos de inteligência, destinados a múltiplas Secretarias e entidades da Administração
+Municipal, expandindo-se a capacidade analítica para tomada de decisões municipais.
+
+Impactos Ambientais e Sociais Esperados
+
+Reduzir o tempo de resolução das demandas de zeladoria urbana formuladas pela população;
+Melhorar a qualidade do serviço público prestado aos cidadãos de Maceió;
+Difundir a cultura local e estimular o turismo sustentável e a economia criativa nas comunidades;
+Tornar disponível atrações, passeios e atividades inclusivas para idosos, mulheres, crianças, pessoas com deficiência e de
+diferentes origens culturais;
+Melhorar a qualidade dos serviços públicos prestados à população, por meio de decisões mais rápidas e precisas, impactando nos
+sistemas de mobilidade, segurança, saneamento, gestão de resíduos e diversos outros.
+
+Metas de Desempenho
+
+Desenvolver os sistemas para implantação das plataformas tecnológicas;
+Implantar a plataforma de zeladoria urbana integrada, expandindo-se a capacidade de monitoramento e tomada de decisões
+municipais;
+Implantar a plataforma de turismo sustentável e inteligente, expandindo-se a capacidade de geração de dados e fortalecendo a
+sustentabilidade no território;
+Desenvolver a plataforma de dados e os paineis de inteligência analítica;
+Melhorar o serviço de iluminação pública com foco na segurança e conforto das mulheres.
+
+P - Rede de Monitoramento Municipal
+O efetivo monitoramento e fiscalização de prédios públicos e para ações de segurança pública demanda uma cobertura monitorada
+de acessos e pontos críticos identificados pelos órgãos de segurança pública, assim como a vigilância de escolas e outros prédios
+públicos, com foco na segurança cidadã e monitoramento do entorno para proteção da população. O Centro de Controle Integrado
+servirá como ponto de convergência para o gerenciamento informatizado de serviços de monitoramento remoto e vigilância,
+gerando os dados necessários para a melhoria dos serviços de segurança pública, guarda escolar, preservação do patrimônio
+público e aumento da segurança para a população.
+
+A resiliência da cidade não se limita apenas à segurança, mas também abrange a capacidade de se adaptar e se recuperar diante
+de desafios socioambientais, consolidando uma cidade preparada para enfrentar e superar as complexidades contemporâneas.
+Este produto de transformação digital não só visa à segurança, mas também à construção de uma base resiliente, que considere o
+contexto atual de mudanças climáticas, e que sustente o bem-estar social e o desenvolvimento sustentável da comunidade.
+
+Nesse ponto, aproximadamente 300 escolas e prédios públicos, além de equipamentos públicos como praças e parques, deverão
+contar com monitoramento preventivo e usar da inteligência de dados para fortalecer uma rede de vigilância integrada. Os prédios
+públicos - escolas, postos de saúde, hospital público, unidades de assistência social, sedes de órgãos públicos - abrigam
+patrimônio público de valor significativo, sendo dever do gestor público adotar as medidas necessárias à segurança preventiva do
+patrimônio. Além disso, a vigilância de entornos das escolas propiciará a construção de rotas mais seguras para o trânsito de
+pedestres e acesso às creches e escolas municipais pelas famílias, crianças e adolescentes.
+
+
+Página: 16
+
+O objetivo do investimento inclui também a proteção de patrimônio público de uso comum pela população, o que inclui os parques,
+praças e espaços de convivências públicos, mantidos e geridos pelo poder público municipal. A implantação de sistemas
+eletrônicos de segurança e monitoramento é fundamental para os frequentadores de áreas públicas e comerciantes que exploram
+pequenos negócios nessas áreas, muitas vezes abandonadas pela falta de segurança. Assim, haverá uma ampliação dos pontos
+de monitoramento e equipamentos dos atuais centros de monitoramento da Defesa Civil, do Departamento Municipal de Trânsito e
+Transportes, e todos serão integrados em um único ambiente junto com a Guarda Municipal. Serão necessários novos 5.000 (cinco
+mil) novos pontos de monitoramento para a consolidação de uma rede de segurança cidadã, monitoramento do trânsito e de
+prevenção de desastres.
+
+De modo a potencializar a segurança pública e acelerar resultados de sustentabilidade, pretende-se, a partir desta operação,
+consolidar uma malha de sensores conectados relevantes para o monitoramento do território e para a prestação e fiscalização de
+serviços públicos, de modo que deverá abranger, no mínimo:
+
+serviços de segurança e fiscalização de espaços públicos, inclusive para detecção de emergências ou atividades suspeitas por
+meio de ferramentas digitais analíticas;
+serviços de monitoramento ambiental, especialmente da qualidade do ar e da água, para gerar dados essenciais à saúde pública e
+para a tomada de decisões acerca das políticas ambientais;
+serviços de monitoramento e resposta a mudanças climáticas, com sensores de movimentação de solo e nível da água em pontos
+estratégicos e principalmente nas regiões das orlas lagunar e marítima;
+serviços de gestão de resíduos, otimizando-se as rotas de coleta e reduzindo a frequência desnecessária de coletas, com foco na
+redução do custo de logística do serviço;
+serviços de iluminação pública, por meio da telegestão das luminárias e controle remoto dos serviços associados à iluminação
+pública;
+serviços de gerenciamento de tráfego e transporte público, gerando-se os dados necessários para planejamento dos semáforos e
+das rotas de transporte público, com a melhoria do tráfego e da qualidade do transporte público.
+
+O escopo deste produto, assim, consiste na:
+
+1. Aquisição de 5.000 (cinco mil) câmeras inteligentes de videomonitoramento para os pontos de interesse municipal;
+2. Desenvolvimento da Plataforma de Gestão Integrada do Centro de Controle;
+3. Aquisição e instalação da malha de sensores conectados e transmissores de dados;
+4. Implantação de sistemas de inteligência para coleta e uso analítico dos dados;
+5. Implantação de infraestrutura, rede lógica, rede elétrica e custos acessórios para operacionalização dos novos pontos;
+6. Serviços especializados de consultoria para instalação, implantação e definição de processos, treinamento, garantia, suporte
+técnico e manutenção.
+
+Resultados Esperados
+
+1. Requalificar e expandir o sistema de videomonitoramento municipal, com a ampliação da capacidade de produzir dados e utilizar
+de inteligência para tomada de decisão, no âmbito do Centro de Controle Operacional Integrado;
+2. Aumentar a capacidade de monitoramento de serviços e utilidades municipais, com a implantação da rede de sensores e
+conectados e transmissores de dados;
+3. Promover eficiência na prestação de serviços públicos e operação da cidade, monitorando-se em tempo real os eventos de
+interesse da gestão e permitindo-se a atuação remota;
+4. Capacitar os profissionais atuantes no Centro de Controle para utilização das novas funcionalidades, plataformas e ferramentas.
+
+Impactos Ambientais e Sociais Esperados
+
+1. Reduzir a violência urbana, especialmente contra mulheres, crianças, minorias e comunidades vulneráveis;
+2. Reduzir os gastos com manutenção do patrimônio público e garantir espaços públicos seguros para uso pela população;
+3. Aumentar a segurança no entorno de equipamentos públicos, especialmente creches e escolas;
+4. Contribuir para a melhoria dos serviços e otimização de recursos nos sistemas de mobilidade, segurança, saneamento, gestão
+de resíduos, desastres naturais, e outros;
+5. Contribuir significativamente para a mitigação dos efeitos da crise climática, auxiliar na gestão sustentável de recursos naturais,
+e promover a sustentabilidade para a comunidade.
+
+Metas de Desempenho
+
+Adquirir e operacionalizar 5.000 (cinco mil ) câmeras de videomonitoramento municipal, destinadas a pontos de interesse e
+equipamentos públicos municipais;
+Consolidar a plataforma de gestão integrada do Centro de Controle;
+Implementar sistemas de vídeo analítico e reconhecimento avançado para detecção de eventos e geração de alertas automáticos.
+
+S - CAPACITAÇÃO E FORMAÇÃO DIGITAL
+Segundo o último censo do IBGE, 14,4% da população do estado de Alagoas é analfabeta. Em Maceió, de acordo com IBGE, o
+salário médio mensal em 2021 era de 2,6 salários mínimos e a proporção de pessoas ocupadas em relação à população total era
+de 27,01%. Destaca-se também que 38,8% da população reside em domicílios com rendimentos mensais de até meio salário
+mínimo por pessoa. Esses dados revelam o contexto socioeconômico da cidade e evidenciam que a limitação de ordem financeira
+é um primeiro elemento a ser superado para que de políticas públicas tenham resultados.
+
+
+Página: 17
+
+Maceió precisa avançar na formação e retenção de profissionais qualificados em tecnologia da informação e comunicação.
+Estimativas recentes apontam que o déficit na área de tecnologia no Brasil varia entre 300 e 500 mil profissionais. Um primeiro
+desafio na formação desses profissionais é a alta taxa de desistência acumulada nos cursos de graduação em TI no Basil é
+superior a 70%. Em segundo lugar, a rapidez com que o uso e desenvolvimento de novas tecnologias se expande demanda que o
+profissional já formado adquira novos conhecimentos e, por consequência, requer a existência de programas de capacitação
+avançados. Por fim, a retenção e atração de talentos é também um desafio, especialmente ante as oportunidades de trabalho à
+distância que oferecem melhor remuneração e incentivam a mobilidade dos profissionais.
+
+Sob a perspectiva econômica, o total faturado com serviços do setor de TI em 2022 foi de R$ 383,6 milhões e o total de ISS
+arrecadado pelo Município de Maceió foi de R$ 3,8 milhões. O fortalecimento do ecossistema em tecnologia da informação
+mediante o fomento, estímulo e suporte à formação de graduados, tem o potencial de gerar um aumento de receita significativo
+para cidade.
+
+P - Formação de Graduados em TI e Inclusão no Mercado de Trabalho
+Para a formação de profissionais em cursos de graduação tecnologia da informação e comunicação, o objetivo da Prefeitura de
+Maceió é conceder bolsas integrais para 200 jovens e adolescentes (por ano), que tenham sido aprovados em universidades
+particulares mas estejam sem condições de arcar com o curso. Além da bolsa, a Prefeitura de Maceió desenvolverá um programa
+de residência em parceria com as empresas de tecnologias locais, para iniciar o estudante no mercado de trabalho, e também
+disponibilizará em um centro de capacitação da Prefeitura os equipamentos tecnológicos e sistemas necessários para o
+aprendizado, onde os jovens e adolescentes contarão também com todo o suporte de mentores, psicólogos, assistentes sociais e
+profissionais que ofereçam o apoio essencial à sua permanência na universidade. Também os estudantes de graduação em
+universidades públicas nas áreas de tecnologia da informação poderão se beneficiar dessa estrutura de apoio.
+
+Cursos de graduação em tecnologia tem o prazo médio de duração de 4 anos e, a partir de 2025 o programa financiaria o ingresso
+de 200 pessoas por ano em cursos de graduação, que já receberiam suporte para iniciar sua vida profissional. A partir de 2029, o
+programa viabilizaria a inclusão de pelo menos 140 novos profissionais graduados (considerando uma taxa de evasão de 30%) e
+com experiência prática no mercado de tecnologia da informação anualmente. Até 2035 o programa viabilizará o desenvolvimento
+profissional de 1.000 pessoas em Maceió, e reduzirá o déficit de gênero, ao garantir vagas preferenciais e atenção especial para
+formação de mulheres.
+
+Esse programa de formação de graduados e retenção desse profissionais no ecossistema local, compreende as seguintes ações
+por parte da Prefeitura de Maceió: promover o mapeamento permanentes, qualitativo e quantitativo, das demandas do setor
+produtivo da cidade do Maceió nas necessidades de mão de obra qualificada em tecnologia; suporte no desenvolvimento de cursos
+de tecnologia que atendam as demandas do mercado, controle de qualidade e atualidade dos cursos durante todo o programa;
+oferta de bolsas para ingressos em cursos de graduação tecnológicos com currículo aderente às demandas do mercado; e
+implementação de residência profissional tecnológica para inserção dos estudantes no mercado de trabalho. O propósito dessa
+ação estratégica é a inclusão de jovens no mercado de trabalho, o preenchimento de vagas no setor de tecnologia com mão de
+obra local e incentivar o desenvolvimento tecnológico, com o consequente aumento da competitividade do arranjo produtivo local.
+
+Resultados Esperados
+
+Desenvolvimento de profissionais para suprir o déficit nas áreas de tecnologia;
+Qualificação de jovens com habilidades em tecnologias de informação e comunicação;
+Redução da desigualdade de gênero.
+
+Impactos Ambientais e Sociais Esperados
+
+Viabilizar o acesso de estudantes de baixa renda às universidades particulares;
+Realização da política de equidade de gênero e inclusão de mulheres no mercado de trabalho;
+Inclusão social e digital de jovens.
+
+Metas de Desempenho
+
+Inserção de jovens no mercado de trabalho em TI;
+Aumento do quantitativo de profissionais em TI para atender a demanda local;
+Melhoria dos indicadores e índices de desenvolvimento;
+Promoção da equidade de gênero.
+
+P - Programa de Capacitação de Jovens em Tecnologias
+Para além da formação de graduados em cursos superiores de TI, a Prefeitura de Maceió identificou que é imprescindível
+estabelecer outros programas que desenvolvam profissionais digitais. Uma das soluções identificadas pela gestão municipal é
+consolidar um programa educacional gratuito que ofereça aos adolescentes ? das redes pública e privada ? a possibilidade de,
+durante o seu período de contraturno escolar, adquirirem conhecimentos em tecnologia, design e outras habilidades técnicas
+digitais, oferecendo trilhas de formação variadas e com uma metodologia que estimule aos alunos serem responsáveis e estarem
+no comando de seu próprio aprendizado.
+
+
+Página: 18
+
+O programa de aprendizado gratuito para adolescentes buscará estimular o desenvolvimento das capacidades em tecnologias da
+informação e comunicação, nas seguintes áreas: escrita, fotografia, programação, design gráfico, modelagem 3D, novas midias,
+música, robótica, desenvolvimento web, desenho, filmagem, produção de filmes, animação, desenvolvimento de jogos e animação.
+Os resultados gerados por programas dessa natureza, tendo como público-alvo jovens, são essenciais para o desenvolvimento do
+ecossistema de tecnologia das cidades em que estão presentes, à medida em que são catalisadores de habilidades digitais em
+jovens e adolescentes, além de estimularem e viabilizarem a formação de mão de obra especializada e o interesse pelo setor de
+tecnologia.
+
+Resultados Esperados
+
+Desenvolvimento de profissionais para suprir o déficit nas áreas de tecnologia;
+Qualificação de jovens com habilidades em tecnologias de informação e comunicação;
+Redução da desigualdade de gênero.
+
+Impactos Ambientais e Sociais Esperados
+
+Viabilizar o acesso de estudantes de baixa renda à capacitação e inserção profissional;
+Realização da política de equidade de gênero e inclusão de mulheres no mercado de trabalho;
+Inclusão social e digital de jovens.
+
+Metas de Desempenho
+
+Inserção de jovens no mercado de trabalho em TI;
+Aumento do quantitativo de profissionais em TI para atender a demanda local;
+Melhoria dos indicadores e índices de desenvolvimento;
+Promoção da equidade de gênero.
+
+S - MODERNIZAÇÃO DA INFRAESTRUTURA TECNOLÓGICA
+Nos termos das normas ABNT NBR ISO 37100:2017 e ABNT NBR ISO 37106:2020, a implementação de projetos multissetoriais
+para a Smart City deve, necessariamente, ancorar-se em infraestruturas planejadas e projetadas para o todo, e que permitam a
+formação de uma camada de comunicação e governança integrada de todas as áreas, baseada no gerenciamento de serviços
+centrado no cidadão, gestão estratégica da cidade e de recursos físicos e digitais. Sob a perspectiva institucional, é imprescindível
+a atualização da infraestrutura tecnológica existente e aquisição de novos equipamentos para o data center e a implantação da
+empresa de tecnologia municipal, de modo a suportar todas as aplicações, sistemas, plataformas e modernização decorrente
+desse Programa. Ainda, é imprescindível que a gestão pública disponha de conexão de alta qualidade por meio de fibra ótica,
+tecnologia ideal para garantir o fluxo de dados e a conectividade com estabilidade e segurança.
+
+P - Infovia Municipal
+A Infovia municipal será uma infraestrutura inteligente para conexão de todo o território urbano de Maceió e deverá alcançar
+prioritariamente as áreas mais vulneráveis, para o fomento da inclusão digital e redução da desigualdade social no município. Com
+a implantação da Infovia a administração municipal poderá atingir níveis de resiliência e segurança cibernética para
+desenvolvimento das iniciativas planejadas no âmbito desse Programa, tais como o monitoramento da cidade, expansão da rede wi
+fi municipal para o território urbano, conexão dos prédios públicos com fibra ótica, impactando positivamente nos projetos
+educacionais e de saúde, dentre outros.
+
+Essa rede de fibras ópticas possibilitará a implantação de uma rede digital de conexão em alta velocidade, por onde trafegarão os
+dados de sistemas e de comunicação dos órgãos da Prefeitura de Maceió, e por meio da qual se conectarão sensores,
+transmissores de dados, equipamentos de videomonitoramento e os prédios públicos municipais - unidades de ensino,
+administrativo, saúde e assistência social. O objetivo é fornecer serviços de qualidade e assegurar interconexão de redes e
+segurança no tráfego de dados, possibilitando a adoção de novas tecnologias para o ensino e a expansão de serviços de saúde,
+como a telemedicina. Além disso, a Infovia Municipal possibilitará a geração de receitas acessórias para a municipalidade,
+resultante da exploração comercial da infovia para prestação direta de serviços de comunicação a clientes privados, como
+autorizado pela ANATEL, ou para locação a terceiros das fibras óticas excedentes à demanda da Prefeitura de Maceió.
+
+As escolas da rede municipal receberão prioridade no âmbito do projeto e implementação de conectividade, considerando-se suas
+atuais demandas, e que a oferta de conectividade adequada consiste em uma das principais condicionantes da política pública de
+digitalização do ensino. O escopo deste produto, assim, abrangerá a contratação das obras, fornecimentos (inclusive
+equipamentos de segurança da rede) e serviços para lançamento e adequação da infraestrutura de conectividade que comporão a
+conexão de rede lógica, de modo a atender a todos os prédios e pontos de interesse da Municipalidade, com prioridade às escolas
+da rede pública municipal e às unidades de saúde que se beneficiarão com a expansão do uso da telemedicina.
+
+Resultados Esperados
+
+Estruturar o modelo de negócio e os projetos executivos de engenharia para implantação da infovia municipal;
+Implantar e operacionalizar a rede de fibra ótica pública para melhorar a velocidade, estabilidade e segurança da conexão à
+internet em prédios públicos;
+Habilitar novos serviços e ferramentas que demandam conectividade de alta velocidade, especialmente na educação e
+telemedicina.
+
+
+Impactos Ambientais e Sociais Esperados
+
+
+Página: 19
+
+Acelerar a transformação digital do município e a evolução dos níveis de inteligência, sustentabilidade e resiliência;
+Garantir a segurança e conectividade necessária para a transmissão de dados e conexão de prédios públicos;
+Otimizar custos, a partir de infraestruturas comuns, destinadas ao atendimento de prédios e equipamentos municipais.
+
+Metas de Desempenho
+
+Assegurar conectividade nas unidades das redes de ensino e saúde municipais;
+Assegurar conectividade nos prédios públicos e pontos de interesse como praças e parques públicos.
+
+P - Requalificação e Expansão da Rede de Conectividade Wi Fi Gratuita
+Uma primeira etapa para o processo de implantação de uma política pública de inclusão digital é viabilizar a conectividade na área
+urbana de Maceió por meio de rede de wi fi pública gratuita, como instrumento para comunicação, acesso a serviços digitais,
+trabalho online, e entretenimento. O relevo de Maceió apresenta um desafio para se alcançar a conectividade universal e
+significativa para toda a população e em todo o território urbano de Maceió. Os altos índices de desigualdade e o relevo acidentado
+da cidade relegam parte significativa da população à exclusão digital, sendo necessário buscar soluções alternativas que
+viabilizem ao Poder Público levar suas políticas de conectividade gratuita às grotas e regiões vulneráveis de Maceió.
+
+Para que a inclusão digital ocorra em uma cidade com as características socioeconômicas de Maceió, a disponibilização de rede
+pública de wi fi é essencial. De modo a garantir direitos digitais dos cidadãos, a Prefeitura de Maceió busca expandir sua rede de
+conexão wi fi gratuita para a população, a fim de proporcionar uma experiência online satisfatória, inclusiva e abrangente,
+permitindo às pessoas acesso ao lazer no meio digital e condições adequadas para trabalharem online. Esse investimento será
+direcionado para as áreas mais vulneráveis e em regiões estratégicas para o desenvolvimento local, como as orlas marítima e
+lagunar.
+
+A expansão da rede de wi-fi gratuita e alcance da população mais vulnerável depende da identificação de tecnologias e sistemas
+de provimento de conectividade aptos a chegar nas diferentes regiões urbanas da cidade, inclusive em encostas, grotas,
+comunidades isoladas e áreas não servidas por redes móveis. Além disso, busca-se levar a rede de conectividade gratuita para os
+prédios públicos. Nesse sentido, são necessários estudos especializados para definição de uma estratégia de inclusão digital para
+que a conectividade alcance regiões periféricas e vulneráveis de forma sustentável, servindo como instrumento de redução da
+desigualdade de gênero.
+
+O escopo deste produto, assim, consiste no diagnóstico das condições atuais da rede pública de wi fi gratuita municipal,
+elaboração dos projetos executivos para atender a demanda municipal, e a contratação dos fornecimentos e serviços para
+expansão das infraestruturas de wi fi nos locais de implantação, priorizando a rede de ensino e regiões vulneráveis.
+
+Resultados Esperados
+
+Incrementar o alcance, a velocidade e a estabilidade da rede de wi fi gratuita no território urbano da cidade.
+
+Impactos Ambientais e Sociais Esperados
+
+Reduzir a desigualdade digital e possibilitar o acesso da população a ferramentas e serviços online.
+
+Metas de Desempenho
+
+Requalificar a infraestrutura de conectividade wi fi existente.
+Expandir o acesso gratuito à internet de qualidade para 80% do território urbano.
+
+P - Aquisição de Equipamentos de Tecnologia
+Todas as ações detalhadas demandam uma modernização da infraestrutura tecnológica e datacenter. O ponto de convergência
+definido pela Administração municipal para essa modernização é a Empresa de Tecnologia da Informação e Inclusão Digital,
+estabelecida com missões de impacto para o desenvolvimento da cidade. Para além de prover soluções e serviços em tecnologia
+da informação e comunicação para o Poder Executivo municipal, a Maceió Digital irá garantir a integridade da base de dados do
+governo municipal e manter o acervo de regras de negócios, sistemas e aplicativos do Município de Maceió, além de gerir,
+desenvolver e ofertar plataformas, diretrizes e modelos para melhorar a experiência do usuário na prestação dos serviços públicos
+em canais digitais.
+
+Referida empresa pública tem como objetivo institucional o estímulo à integração entre suas atividades produtivas, a pesquisa e o
+ensino, realizando treinamentos, estágios e programas de residência nas suas áreas de atuação, o que torna a Maceió Digital um
+parceiro estratégico para suporte e desenvolvimento do programa de capacitação digital. Ainda em conformidade com as
+premissas de inclusão digital acima delineadas, a empresa de tecnologia deverá elaborar e manter um plano de educação e
+inclusão digital contendo princípios, definições, papeis, responsabilidades e ações para expandir o acesso gratuito à internet em
+todo o Município de Maceió, para promover a educação digital e para remover barreiras institucionais e estruturais para o acesso
+da população a tecnologias.
+
+
+Página: 20
+
+A construção de seu modelo de gestão e negócios tem impacto direto na execução das outras soluções listadas nesse programa,
+desde a operacionalização das soluções para a inclusão digital e desenvolvimento de mão de obra especializada em tecnologias
+na cidade, até o funcionamento do Centro de Controle Operacional.
+
+Resultados Esperados
+
+Implantar o data center compatível com as necessidades do PDTI;
+Garantir a infraestrutura tecnológica necessária para a oferta de serviços públicos eficientes;
+Otimizar custos, a partir de infraestruturas comuns, destinadas ao poder público municipal.
+
+Impactos Ambientais e Sociais Esperados
+
+Acelerar a transformação digital do município e a evolução dos níveis de inteligência, sustentabilidade e resiliência;
+Contribuir para a melhoria dos serviços e otimização de recursos nos sistemas de mobilidade, segurança, saneamento, gestão de
+resíduos, desastres naturais, e outros;
+Contribuir para melhorar a qualidade dos serviços públicos, promover a sustentabilidade e impulsionar o progresso nas áreas de
+educação, saúde, desenvolvimento social, entre outros.
+
+Metas de Desempenho
+
+Implantação do data center e aquisição da infraestrutura tecnológica e sistemas para operação das plataformas digitais.
+
+C - GERENCIAMENTO DO PROGRAMA
+Este componente se refere as ações necessárias para o gerenciamento do Programa.
+
+P - Apoio à Unidade de Gerenciamento do Programa (UGP)
+Este produto compreende as atividades destinadas a dotar o município de uma Unidade de Gerenciamento do Programa (UGP)
+com capacidade adequada para gerenciar, executar e acompanhar as ações e procedimentos estabelecidos no Contrato de
+Empréstimo a ser celebrado junto ao CAF. A UGP está vinculada ao IPLAN, com apoio de equipe técnica multidisciplinar de
+diversas Secretarias Municipais.
+
+Poderá contar com um apoio operacional externo que terá por objetivo suprir a UEP de elementos administrativos e operacionais
+nas atividades de gestão e execução do contrato de empréstimo nas tomadas de decisão, principalmente quanto às ocorrências
+apresentadas no período, suas medidas de correção, nas ações preventivas contra potenciais riscos, e no acompanhamento do
+estado físico e financeiro do Programa.
+
+Possui a função de cadastramento e atualizações de todas as informações contempladas nas plataformas da Matriz de Usos e
+Fontes, do Plano Operacional Anual, do Plano de Aquisições e Contratações, no cronograma de execução física e financeira das
+obras e serviços, da Justificativa de Gastos do financiamento e da Contrapartida e, por fim, do acompanhamento das Cláusulas
+Contratuais do Contrato de Empréstimo celebrado entre o município de Maceió e o Organismo Financiador, atentando para seus
+prazos e obrigações previstos.
+
+Poderá compreender ainda trabalhos de apoio, inclusive mediante a contratação de empresa especializada, para o
+acompanhamento da qualidade dos serviços, fidelidade no seguimento das soluções de projeto, aplicação de materiais e uso dos
+métodos construtivos, acompanhamento do desenvolvimento de sistemas e aquisição de infraestruturas tecnológicas, quando
+houver a necessidade de profissionais especializados. Poderá abranger também a verificação a acuidade dos trabalhos de
+implantação das infraestruturas necessárias e o uso compatível com os materiais e equipamentos, além do monitoramento dos
+impactos ambientais e suas respectivas medidas mitigadoras, de controle e redução dos riscos ambientais decorrentes da
+implantação e operação de obras do Programa.
+
+P - Auditoria Externa
+O Produto refere-se à contratação de empresa especializada para a elaboração dos relatórios anuais de auditoria financeira
+durante o prazo de desembolso do Programa, em conformidade com o disposto no contrato de empréstimo. Os serviços
+contemplarão a verificação do cumprimento das cláusulas contratuais, a utilização dos recursos, as aquisições, os desembolsos,
+as justificativas de gastos, entre outros. Além da auditoria externa, o Programa estará sujeito às verificações da Controladoria do
+Município e do Tribunal de Contas do Estado de Alagoas (TCE/AL).
+
+P - Gastos de Avaliação
+Gastos de avaliação.
+
+P - Comissão de Financiamento
+Comissão de financiamento cobrada pelo CAF referente ao montante do empréstimo do Programa.
+
+
+Página: 21
+
+Meta
+
+Valor
+
+% Financeiro
+
+Unidade de medida
+-
+Centro implantado
+
+Câmeras
+Cobertura
+Cobertura
+
+Datacenter
+-
+Políticas
+desenvolvidas
+Política desenvolvida
+Políticas
+desenvolvidas
+Política desenvolvida
+
+-
+Plataformas digitais
+
+-
+1,00
+
+5.000,00
+80,00
+80,00
+
+1,00
+-
+6,00
+
+1,00
+2,00
+
+1,00
+
+-
+4,00
+
+UGP
+UGP
+-
+Graduados em TI
+
+1,00
+1,00
+-
+300,00
+
+Categoria de Gasto
+
+Bens
+P- IMPLANTAÇÃO DO CENTRO DE CONTROLE
+OPERACIONAL
+P- Rede de Monitoramento Municipal
+P- Infovia Municipal
+P- Requalificação e Expansão da Rede de
+Conectividade Wi Fi Gratuita
+P- Aquisição de Equipamentos de Tecnologia
+Consultoria
+P- PDTI e Políticas Complementares de TI e
+Dados
+P- Plano de Cidade Ingeligente
+P- Plano de Resiliência Climática e Estratégia
+para a Economia Azul
+P- Estratégia Municipal de Educação e Inclusão
+Digital para Equidade de Gênero
+Serviços que Não de Consultoria
+P- Plataformas Tecnológicas de Zeladoria Urbana;
+Turismo Sustentável e Inteligente; Dados e
+Inteligência; e Cadastro Multifinalitário
+P- Auditoria Externa
+P- Gastos de Avaliação
+Capacitação e Treinamento
+P- Formação de Graduados em TI e Inclusão no
+Mercado de Trabalho
+P- Programa de Capacitação de Jovens em
+Tecnologias
+Outros
+P- Apoio à Unidade de Gerenciamento do
+Programa (UGP)
+P- Comissão de Financiamento
+Total Geral
+
+Qualificados
+
+1.500,00
+
+8.400.000,00
+
+-
+UGP
+
+UGP
+-
+
+-
+1,00
+
+1,00
+-
+
+1.558.000,00
+1.150.000,00
+
+408.000,00
+60.000.000,00
+
+33.000.000,00
+6.000.000,00
+
+8.000.000,00
+7.400.000,00
+1.600.000,00
+
+10.000.000,00
+2.150.000,00
+1.150.000,00
+
+250.000,00
+500.000,00
+
+250.000,00
+
+10.192.000,00
+10.000.000,00
+
+100.000,00
+92.000,00
+13.100.000,00
+4.700.000,00
+
+55,00
+10,00
+
+13,33
+12,33
+2,67
+
+16,67
+3,58
+1,92
+
+0,42
+0,83
+
+0,42
+
+16,99
+16,67
+
+0,17
+0,15
+21,83
+7,83
+
+14,00
+
+2,60
+1,92
+
+0,68
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+A rede de wi fi público existente foi implantada no âmbito do Programa Wi-Fi Brasil do Ministério das Comunicações do Governo Federal.
+Atualmente estão disponibilizados 75 pontos de wi fi gratuitos da rede municipal, sendo: 49 em unidades de ensino, 14 em unidades de
+saúde, 9 em unidades de assistência social, 2 em entidades da administração municipal e 1 em praça pública. Considerando um raio de
+cobertura de 50 a 100 metros, a cobertura total estimada em área é de 0,6 a 2,35 km2, ou seja, de 0,5 a 2% da área urbana de Maceió.
+
+Ainda, estão em curso os processos de contratação - itens a) a c) - e execução do acordo de compensação financeira celebrado entre a
+Prefeitura de Maceió e a Braskem - item d) - que contemplam a aquisição de produtos relacionados à transformação digital de Maceió,
+abaixo detalhados:
+
+- Contratação de Solução de Gestão Territorial, bem como dos Serviços/produtos relacionados a sua adoção e assimilação incluindo:
+serviços de cartografia por aerolevantamento; cadastramento Imobiliário; Sistema de Informações Geográficas; planta genérica de valores;
+serviços especializados de geoprocessamento e TI. Valor total: R$ 37.269.707,47 (trinta e sete milhões, duzentos e sessenta e nove mil,
+setecentos e sete reais, e quarenta e sete centavos). Fonte de recursos: Orçamento próprio, recursos previstos na LOA 2024. Status:
+edital em análise pela Procuradoria-Geral do Município.
+
+- Estruturação da base de dados municipal: a administração municipal irá contratar a Federação da Indústria do Estado de Alagoas para a
+estruturação das bases de dados públicos e restritos dos órgãos da administração municipal, consolidação em banco de dados que será
+de titularidade da Prefeitura de Maceió, e desenvolvimento de três paineis de inteligência relacionados a saúde, educação e assistência
+social. Valor total: R$ 2.270.960,00 (dois milhões, duzentos e setenta mil, novecentos e sessenta reais). Origem dos recursos: orçamento
+próprio do IPLAN. Status: processo em análise pela Agência de Licitações, Contratos e Convênios de Maceió.
+
+- Plataforma de planejamento urbano: a administração municipal irá contratar a PRODABEL para fornecimento de plataforma digital de
+predição de cenários em modelos 3D relativamente aos parâmetros do Plano Diretor, para uso interno e simulações relacionadas ao
+planejamento urbano, e módulo de visualização das legislações urbanísticas para visualização 3D do potencial construtivo de terrenos e
+emissão de certidão de zoneamento. Valor total: R$ 1.000.000,00 (um milhão de reais). Origem dos recursos: orçamento próprio do IPLAN
+. Status: fase de cotação de preços com base no TR elaborado.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 22
+
+- Sistema inteligente de semaforização e monitoramento: o projeto contempla a substituição dos equipamentos existentes ao longo da
+principal via arterial da cidade por semáforos inteligentes e a implantação de um conjunto de câmeras de monitoramento com alto
+desempenho para reconhecimento automatizado de placas de veículos e vídeo-análise em vias públicas. O objetivo deste sistema é
+promover maior celeridade e efetividade nas ações de mobilidade urbana, possibilitando a fiscalização das faixas exclusivas de ônibus,
+cruzamentos viários, estacionamentos irregulares, identificação de veículos furtados ou roubados e disponibilização de dados para
+análises estatísticas do tráfego, com a garantia da armazenagem em nuvem de todos os dados coletados nos processos supracitados.
+Valor total do investimento: R$ 22.000.000,00 (vinte e dois milhões), sendo R$ 13.000.000,00 (treze milhões) destinados exclusivamente
+para os projetos de monitoramento. Origem do recurso: Acordo socioambiental firmado com a Braskem e homologado judicialmente.
+Status: Especificação das aquisições a serem realizadas para a Prefeitura de Maceió pela Braskem.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Municipal
+
+MUNICIPIO DE  MACEIO(AL)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+JUSTIFICATIVA DE OPÇÃO PELO FINANCIAMENTO EXTERNO EM DETRIMENTO DE OPÇÕES DE FINANCIAMENTO INTERNO
+
+A necessidade do município buscar financiamento externo está relacionada às restrições orçamentárias, à baixa capacidade de
+investimentos, às condições financeiras mais onerosas praticadas pelos agentes internos, além do volume expressivo de recursos
+demandado para uma operação de crédito destinada para esse projeto que visa a promover uma abordagem transversal de largo alcance.
+
+A opção pelo financiamento externo em detrimento do interno decorre do fato que as linhas e opções de financiamento concedidas pelos
+organismos financeiros internacionais comumente apresentam taxas de juros e comissões mais atrativas do que as praticadas por
+instituições nacionais.
+
+Cabe destacar que este Programa proposto constitui um planejamento e execução de longo prazo, portanto a vantajosidade em relação às
+operações de crédito internas, além das condições financeiras, ocorre principalmente devido aos prazos significativamente maiores de
+desembolso, carência e amortização. Os agentes financeiros externos também disponibilizam maior volume de recursos para projetos
+especificamente dessa área de abrangência, em consonância com a demanda desse Programa.
+
+Outro ponto que merece consideração é a expertise dos bancos externos, principalmente os multilaterais, devido a capacidade de permear
+e entender as dificuldades dos países que apoiam, promovendo a infraestrutura, sustentabilidade ambiental, inclusão social, economia
+local e governança, não somente financiando programas, mas também prestando apoio técnico e integrando diferentes aspectos em todas
+as fases do projeto, desde o planejamento até a implementação e avaliação.
+
+JUSTIFICATIVA DE OPÇÃO PELO AGENTE FINANCEIRO EXTERNO ESCOLHIDO
+
+O município de Maceió, após analisar o cenário atual de alternativas de agentes financeiros bilaterais e multilaterais, identificou o CAF
+como a melhor opção para financiar a execução do programa. Nessa escolha, o CAF se destacou pelos seguintes aspectos principais:
+
+i) A experiência do Banco e seu conhecimento sobre os problemas a serem resolvidos pelo Programa, bem como a sua capacidade
+técnica e operacional;
+
+ii) As condições financeiras favoráveis do CAF, principalmente no que se refere aos prazos de desembolso, carência, amortização, e
+comissões praticadas;
+
+iii) Alinhamento do programa às diretrizes e políticas do Banco;
+
+iv) A agilidade do Banco no atendimento e aprovação das demandas do Município, visto que usa procedimentos simplificados e eficientes
+em suas análises. Tal agilidade traz ganhos expressivos na execução do cronograma físico-financeiro do programa e redução de custos
+de preparação e implementação;
+
+v) A utilização pelo Banco de políticas e normas de aquisição, sociais e ambientais similares às nacionais produzem os seguintes
+benefícios importantes à operação de crédito: a) reduzem significativamente o custo transacional da operação (baixo custo de preparação
+e execução); b) geram menor demanda de técnicos, consultorias e serviços adicionais; e c) propiciam maior segurança e menores risco na
+execução do programa.
+
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 23
+
+Além da expertise do Banco em projetos relacionados ao tema de cidades inteligentes, é importante ressaltar a escolha do CAF devido à
+parceria de longa data estabelecida entre a instituição e o município. Esta será a segunda operação de crédito externo que Maceió
+executará com o apoio do CAF, o que significa um pleno conhecimento das políticas do agente financeiro e de sua capacidade de apoiar o
+Programa no âmbito municipal.
+
+É fundamental destacar que, devido à relação estabelecida com o CAF em projeto anterior, o Banco demonstrou disposição para financiar
+os recursos necessários para atender às demandas municipais. Em contraste, outros organismos internacionais, como o BID e o Banco
+Mundial, geralmente apoiam projetos com maior volume de recursos, o que não atenderia completamente às necessidades deste
+Programa.
+
+COMPARATIVO DAS CONDIÇÕES FINANCEIRAS COM OUTROS AGENTES FINANCEIROS EXTERNOS E INTERNOS
+
+As condições financeiras oferecidas pelo CAF são atrativas, principalmente quando comparadas às taxas de juros e prazos praticados
+pelo mercado interno e por outros BMDs.
+
+Condições Financeiras do Banco escolhido - CAF:
+
+- Prazo total: 216 meses
+
+- Prazo de desembolso: 60 meses
+
+- Prazo de carência: até 66 meses
+
+- Prazo de amortização: 150 meses
+
+- Juros e encargos:
+
+Taxa de juros: SOFR + 2% a.a.
+
+Comissão de compromisso: 0,35% ao ano sobre saldos não desembolsados.
+
+Comissão de financiamento: 0,85% sobre o montante do empréstimo (US$ 408.000,00), pagos no primeiro desembolso.
+
+COMPARATIVO COM AGENTES FINANCEIROS INTERNOS:
+
+Banco de Brasília (BRB):
+
+- Prazo total: 120 meses;
+
+- Prazo de carência: 12 meses;
+
+- Prazo de amortização: 108 meses;
+
+- Taxa concedida: 115% de CDI a.a.; e
+
+- Demais Encargos: Tarifa de 1% sobre o valor do financiamento + Tarifa de 0,5% a.a sobre o saldo não desembolsado.
+
+Caixa Econômica Federal (CEF)
+
+- Prazo total: 120 meses;
+
+- Prazo de carência: 24 meses;
+
+- Prazo de amortização: 96 meses;
+
+- Taxa concedida: 131,13% de CDI a.a; e
+
+- Demais Encargos: Tarifa de Customização: 2%.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 24
+
+COMPARATIVO COM AGENTES FINANCEIROS EXTERNOS:
+
+Banco Mundial:
+
+- Prazo total: 216 meses;
+
+- Prazo de carência: 60 meses;
+
+- Prazo de amortização: 156 meses; e
+
+- Taxa concedida: SOFR semestral + 1,37% a.a;
+
+- Demais Encargos:
+
+Comissão de Financiamento (front end fee) de 0,25% sobre valor do empréstimo: e
+
+Comissão de Compromisso de 0,25% sobre saldo não desembolsado. A sobretaxa de 0,5% pode ser aplicada caso o país ultrapasse o ?
+single borrower limit?.
+
+NDB:
+
+- Prazo total: 240 meses;
+
+- Prazo de Desembolso: 48 meses;
+
+- Prazo de carência: até 60 meses a partir da data de assinatura do contrato;
+
+- Prazo de amortização: 180 meses (semestrais);
+
+- Taxa concedida: EURIBOR + spread a ser definido na assinatura do contrato (estimativa de 1,15% a.a); e
+
+- Demais Encargos:
+
+Comissão de Financiamento: 0,25% sobre valor do empréstimo;
+
+Comissão de Compromisso: 0,25% sobre o saldo não desembolsado.
+
+FONPLATA:
+
+- Prazo total: 180 meses
+
+- Prazo de Desembolso: 60 meses;
+
+- Prazo de Carência: até 60 meses;
+
+- Prazo de Amortização: 120 meses
+
+- Taxa concedida: SOFR semestral + 2,1% a 2,6%
+
+- Demais Encargos:
+
+Comissão de Compromisso: 0,35% sobre o saldo não desembolsado do empréstimo.
+
+Comissão de Administração: até 0,7% calculado sobre o montante total do empréstimo.
+
+COMPATIBILIDADE DO PRAZO DESEMBOLSO COM A COMPLEXIDADE DO PROGRAMA
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 25
+
+O Prazo de Desembolso de 5 anos é suficiente e compatível com o nível de complexidade das ações a serem implementadas pelo Projeto
+, com a capacidade técnica e institucional da cidade e com o cronograma físico-financeiro de execução. Cabe registrar que o município
+está preparado e trabalhando no planejamento e na realização das ações prévias para a implementação do programa, tais como projetos,
+estudos e editais de licitação, entre outros.
+
+DISTRIBUIÇÃO ADEQUADA DOS RECURSOS NO CRONOGRAMA DE DESEMBOLSO
+
+A distribuição anual de recursos no cronograma de desembolsos por fonte foi realizada com base no planejamento do município e do CAF
+para a implementação do programa. A distribuição anual dos recursos considera as etapas realizadas e todo o planejamento detalhado no
+Capítulo 2.7 desta Carta Consulta.
+
+Assim sendo, a distribuição dos recursos está compatível com o cronograma de desembolsos do programa.
+
+COERÊNCIA ENTRE COMPONENTES E DISTRIBUIÇÃO DE RECURSOS
+
+A distribuição dos recursos por componentes/produtos foi realizada observando a coerência e a estimativa financeira, com base em
+parâmetros levantados pelo município em relação à estimativa de custos praticados no mercado para as atividades previstas no âmbito do
+programa.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+"1.1. Promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação".
+
+Os Impactos do Projeto e Áreas Estratégicas para este item estão relacionados diretamente aos seguintes Produtos:
+
+(P) Plano de Resiliência Climática e Estratégia para a Economia Azul
+
+(P) Implantação da Rede de Monitoramento Municipal
+
+(P) Implantação da Plataforma de Turismo Sustentável e Inteligente
+
+A promoção da sustentabilidade ambiental é um dos fundamentos para inserir no escopo do programa a construção do Plano de
+Resiliência Climática e da Estratégia para a Economia Azul, assim como o desenvolvimento da Plataforma de Turismo Sustentável e
+Inteligente. Um dos objetivos da criação desses planos estratégicos é prever ação de adaptação e mitigação para lidar com os riscos
+climáticos verificados na cidade, com foco na segurança das pessoas e resiliência das infraestruturas a serem implantadas. Além disso, a
+plataforma tecnológica para o turismo servirá para difundir práticas de conservação de recursos naturais e outras ações de educação
+ambiental, e a rede de monitoramento municipal permitirá a fiscalização remota de áreas naturais de interesse ambiental para a cidade.
+
+"1.4. Gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solo e nascentes"
+
+Os Impactos do Projeto e Áreas Estratégicas para este item estão relacionados diretamente aos seguintes Produtos:
+
+(P) Plano de Resiliência Climática e Estratégia para a Economia Azul
+
+(P) Implantação da Rede de Monitoramento Municipal
+
+(P) Implantação da Plataforma de Turismo Sustentável e Inteligente
+
+A gestão integrada de recursos naturais terá uma melhoria significativa a partir da consolidação do Centro de Controle Operacional
+Integrado e da malha de sensores conectados, que possibilitarão a fiscalização remota de recursos naturais, inclusive o monitoramento da
+qualidade das fontes hídricas locais e otimização da gestão de resíduos. A proteção desses recursos naturais é um dos fundamentos para
+inserir no escopo do programa a construção do Plano de Resiliência Climática e da Estratégia para a Economia Azul, assim como o
+desenvolvimento da Plataforma de Turismo Sustentável e Inteligente. Um dos objetivos da criação desses planos estratégicos é prever as
+ações de gestão e proteção de recursos naturais, fontes hídricas e do solo, com foco também na resiliência das infraestruturas a serem
+implantadas. Além disso, a plataforma tecnológica para o turismo servirá para impulsionar a educação ambiental e estimular o turismo
+sustentável.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 26
+
+"1.5. Conservação e manejo da biodiversidade e/ou recursos florestais"
+
+Os Impactos do Projeto e Áreas Estratégicas para este item estão relacionados diretamente aos seguintes Produtos:
+
+(P) Plano de Resiliência Climática e Estratégia para a Economia Azul
+
+(P) Implantação da Rede de Monitoramento Municipal
+
+(P) Implantação da Plataforma de Turismo Sustentável e Inteligente
+
+A conservação da biodiversidade e recursos florestais - especialmente o parque municipal - terá uma melhoria significativa a partir da
+consolidação do Centro de Controle Operacional Integrado e da malha de sensores conectados, que possibilitarão a fiscalização remota
+de recursos naturais e otimização da gestão de resíduos. A proteção desses recursos naturais é um dos fundamentos para inserir no
+escopo do programa a construção do Plano de Resiliência Climática e da Estratégia para a Economia Azul, assim como o
+desenvolvimento da Plataforma de Turismo Sustentável e Inteligente. Um dos objetivos da criação desses planos estratégicos é prever as
+ações de gestão e proteção de recursos naturais, com foco também na resiliência das infraestruturas a serem implantadas. Além disso, a
+plataforma tecnológica para o turismo servirá para impulsionar a educação ambiental e estimular o turismo sustentável.
+
+"1.6 Melhoria do ambiente de negócios e/ou oportunidades"
+
+Os Impactos do Projeto e Áreas Estratégicas para este item estão relacionados diretamente  aos seguintes Produtos:
+
+(P) Implantação de Plataforma de Dados e Inteligência
+
+(P) Requalificação e Expansão da Rede de Conectividade Wi Fi Gratuita
+
+(P) Implantação da Infovia e Rede de Fibra Ótica Públicas
+
+(P) Formação de Graduados em TI e Inclusão no Mercado de Trabalho
+
+(P) Programa de Capacitação de Jovens em Tecnologias
+
+Para a melhoria do ambiente de negócios e oportunidades o Programa estabelece investimentos significativos em produtos que trarão
+benefícios como transparência da informação, disponibilização de redes de conectividade gratuita, implantação de rede de fibra ótica e
+formação de mão de obra qualificada para atuarem no setor de tecnologia local. Com a Infovia municipal será possível expandir a
+capacidade local de transmissão de dados e disponibilização de conectividade de alta qualidade, inclusive por meio da exploração
+comercial remunerada de fibras não utilizadas pela Prefeitura de Maceió para uso por clientes privados. A implantação das plataformas
+tecnológicas irá permitir a abertura de dados organizados para o setor privado e facilitará o recebimento e atendimento de demandas da
+população (por exemplo, maior eficiência dos serviços de zeladoria e geração de dados sobre turismo). Ainda, o aumento da quantidade
+de mão de obra local qualificada em TI impactará positivamente no ambiente de negócios e para a geração de novas oportunidades. Por
+último, cabe destacar que o Programa objetiva a inclusão de jovens no mercado de trabalho, o preenchimento de vagas no setor de
+tecnologia com mão de obra local e incentivos ao desenvolvimento tecnológico, com o consequente aumento da competitividade do
+arranjo produtivo local.
+
+"1.7 Benefícios para empreendedores individuais, micro e pequenas empresas"
+
+Os Impactos do Projeto e Áreas Estratégicas para este item estão relacionados diretamente  aos seguintes Produtos:
+
+(P) Estratégia Municipal de Educação e Inclusão Digital para Equidade de Gênero
+
+(P) Plano de Resiliência Climática e Estratégia para a Economia Azul
+
+(P) Implantação da Plataforma de Turismo Sustentável e Inteligente
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+
+
+Página: 27
+
+(P) Requalificação e Expansão da Rede de Conectividade Wi Fi Gratuita
+
+Para trazer benefícios a empreendedores individuais, micro e pequenas empresas o Programa estabelece investimentos significativos em
+produtos que possibilitarão a inclusão financeira digital e acesso a mercados de forma planejada e sustentável, considerando a estratégia
+de inclusão digital, a plataforma de turismo e a estratégia para a economia azul. Aliado aos planos estruturantes a serem implementados,
+a rede de conectividade gratuita permitirá a inclusão financeira na prática, ao viabilizar o uso de meios de pagamento digitais para
+ambulantes e pequenos comerciantes. A plataforma de turismo auxiliará na oferta e divulgação da economia criativa local, setor relevante
+para a economia da cidade e catalisador da atividade turística.
+
+"1.8 Geração de emprego e renda para populações de baixa renda e vulneráveis"
+
+Os Impactos do Projeto e Áreas Estratégicas para este item estão relacionados diretamente  aos seguintes Produtos:
+
+(P) Plano de Resiliência Climática e Estratégia para a Economia Azul
+
+(P) Estratégia Municipal de Educação e Inclusão Digital para Equidade de Gênero
+
+(P) Formação de Graduados em TI e Inclusão no Mercado de Trabalho
+
+(P) Programa de Capacitação de Jovens em Tecnologias
+
+A geração de emprego e renda para populações de baixa renda e vulneráveis está contemplada no Programa sob a perspectiva dos
+estudos a serem desenvolvidos para orientar as ações de inclusão digital e nos produtos de capacitação e formação de mão de obra.
+Jovens de baixa renda e vulneráveis aprovados em universidades particulares terão seus estudos subsidiados integralmente e contarão
+com uma estrutura de suporte (acesso a recursos tecnológicos e orientação profissional) para cursarem uma graduação em TI. Importante
+mencionar também que a estratégia para a economia azul tem por objetivo fortalecer as políticas para geração de emprego e renda de
+populações tradicionais residentes em regiões afetadas pelos efeitos da mudança climática e pela poluição do território.
+
+"1.9 Infraestrutura e/ou equipamentos sociais para populações de baixa renda ou vulneráveis"
+
+Os Impactos do Projeto e Áreas Estratégicas para este item estão relacionados diretamente  aos seguintes Produtos:
+
+(P) Requalificação e Expansão da Rede de Conectividade Wi Fi Gratuita
+
+(P) Formação de Graduados em TI e Inclusão no Mercado de Trabalho
+
+(P) Programa de Capacitação de Jovens em Tecnologias
+
+A rede de conectividade wi fi gratuita e o equipamento consolidado para suporte à capacitação de jovens e formação de graduados em
+tecnologias terão um impacto positivo para as populações de baixa renda ou vulneráveis. Ao disponibilizar a infraestrutura de
+conectividade wi fi para uso gratuito pela população e implantar um local onde estudantes de baixa renda tenham acesso aos recursos
+tecnológicos que precisam para sua formação profissional, o Programa propiciará a igualdade de condições e permitirá a quebra do ciclo
+da pobreza para esses estudantes em situação de vulnerabilidade, os quais contarão com apoio de mentores, psicólogos, assistentes
+sociais, além da chance de ingressarem no mercado de trabalho.
+
+"1.10 Ações de inclusão de minorias sociais entre os beneficiários"
+
+Os Impactos do Projeto e Áreas Estratégicas para este item estão relacionados diretamente aos seguintes Produtos:
+
+(P) Plano de Resiliência Climática e Estratégia para a Economia Azul
+
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 28
+
+(P) Estratégia Municipal de Educação e Inclusão Digital para Equidade de Gênero
+
+(P) Formação de Graduados em TI e Inclusão no Mercado de Trabalho
+
+(P) Programa de Capacitação de Jovens em Tecnologias
+
+A geração de emprego e renda para populações de baixa renda e vulneráveis está contemplada no Programa sob a perspectiva dos
+estudos a serem desenvolvidos para orientar as ações de inclusão digital e nos produtos de capacitação e formação de mão de obra.
+Jovens de baixa renda e vulneráveis aprovados em universidades particulares terão seus estudos subsidiados integralmente e contarão
+com uma estrutura de suporte (acesso a recursos tecnológicos e orientação profissional) para cursarem uma graduação em TI. Importante
+mencionar também que a estratégia para a economia azul tem por objetivo fortalecer as políticas para geração de emprego e renda de
+populações tradicionais residentes em regiões afetadas pelos efeitos da mudança climática e pela poluição do território.
+
+"1.11 Políticas voltadas para juventude, gênero e raça"
+
+Os Impactos do Projeto e Áreas Estratégicas para este item estão relacionados diretamente aos seguintes Produtos:
+
+(P) Estratégia Municipal de Educação e Inclusão Digital para Equidade de Gênero
+
+(P) Formação de Graduados em TI e Inclusão no Mercado de Trabalho
+
+(P) Programa de Capacitação de Jovens em Tecnologias
+
+A rede de conectividade wi fi gratuita e o equipamento consolidado para suporte à capacitação de jovens e formação de graduados em
+tecnologias terão um impacto positivo na juventude maceioense. Ao disponibilizar a infraestrutura de conectividade wi fi para uso gratuito
+pela população e implantar um local onde estudantes de baixa renda tenham acesso aos recursos tecnológicos que precisam para sua
+formação profissional, o Programa terá foco na juventude e na equidade de gênero. Para consolidar a política pública de equidade de
+gênero será elaborada a estratégia municipal respectiva e fomentada a capacitação e formação superior de mulheres com vistas a ampliar
+a proporção do número de postos de trabalho em TI ocupados por mulheres.
+
+"1.12 Melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão e/ou de participação cidadã"
+
+Os Impactos do Projeto e Áreas Estratégicas para este item estão relacionados diretamente aos seguintes Produtos:
+
+(P) Implantação do Centro de Controle de Maceió
+
+(P) Implantação da Rede de Monitoramento Municipal
+
+(P) Implantação da Plataforma de Zeladoria Urbana Integrada
+
+(P) Implantação da Plataforma de Turismo Sustentável e Inteligente
+
+(P) Implantação de Plataforma de Dados e Inteligência
+
+Os produtos a serem realizados com o empréstimo irão viabilizar o desenvolvimento de novas plataformas tecnológicas com foco na
+gestão pública e no cidadão, e o aumento de dispositivos de vigilância de equipamentos públicos, de sensores inteligentes e de
+monitoramento de riscos ambientais. Além disso, a estruturação de dados e adoção de modelos de inteligência para subsidiar a tomada
+de decisões irá resultar em melhoria da gestão pública e do planejamento urbano. Destaca-se que a plataforma de zeladoria urbana
+integrada ampliará a participação cidadã e trará maior eficiência na prestação de serviços públicos, com assertividade no atendimento ao
+cidadão e geração de dados para a gestão municipal. Por fim, ao abrigar os dados e plataformas digitais para servir como ponto de
+convergência para a governança da cidade inteligente, o Centro de Controle Operacional Integrado otimizará o uso de infraestruturas
+tecnológicas e centralizará o controle de serviços de segurança, mobilidade, iluminação, coleta de resíduos sólidos, esgoto, vigilância
+sanitária e fiscalização de equipamentos e áreas públicas, especialmente com a implantação da rede de monitoramento e sensores.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 29
+
+"1.13 Melhoria das condições de educação e saúde"
+
+Os Impactos do Projeto e Áreas Estratégicas para este item estão relacionados diretamente aos seguintes Produtos:
+
+(P) Requalificação e Expansão da Rede de Conectividade Wi Fi Gratuita
+
+(P) Implantação da Infovia e Rede de Fibra Ótica Pública
+
+(P) Formação de Graduados em TI e Inclusão no Mercado de Trabalho
+
+(P) Programa de Capacitação de Jovens em Tecnologias
+
+A Infovia municipal será uma infraestrutura inteligente para conexão de todo o território urbano de Maceió e conectará os prédios públicos
+com fibra ótica, impactando positivamente nos projetos educacionais e de saúde pela disponibilização de uma rede digital de conexão em
+alta velocidade, por onde trafegarão os dados de sistemas e de comunicação dos órgãos da Prefeitura de Maceió. O objetivo é fornecer
+serviços de qualidade e assegurar interconexão de redes e segurança no tráfego de dados, possibilitando a adoção de novas tecnologias
+nas unidades de ensino e a expansão de serviços de saúde que dependem de conectividade de alta qualidade, como é o caso da
+telemedicina. Além da melhoria tecnológica, os programas de capacitação e de formação de mão de obra representam um avanço
+significativo para a educação local, para suprir o déficit de profissionais especializados e de multiplicadores de conhecimento em
+tecnologias.
+
+"1.14 Desenvolvimento, inovação e modernização tecnológica"
+
+Os Impactos do Projeto e Áreas Estratégicas para este item estão relacionados diretamente aos seguintes Produtos:
+
+(P) Implantação do Centro de Controle de Maceió
+
+(P) Implantação da Rede de Monitoramento Municipal
+
+(P) Implantação da Plataforma de Zeladoria Urbana Integrada
+
+(P) Implantação da Plataforma de Turismo Sustentável e Inteligente
+
+(P) Implantação de Plataforma de Dados e Inteligência
+
+(P) Requalificação e Expansão da Rede de Conectividade Wi Fi Gratuita
+
+(P) Implantação da Infovia e Rede de Fibra Ótica Pública
+
+(P) Aquisição de Equipamentos de Tecnologia (Data Center e Empresa TI)
+
+A implantação do Centro de Controle, da rede de monitoramento e das plataformas tecnológicas representam um avanço significativo para
+a modernização tecnológica da Prefeitura. Os investimentos em infraestrutura e equipamentos de tecnologia irão possibilitar maior
+eficiência na prestação de serviços públicos e o desenvolvimento tecnológico será acompanhado pela formação de mão de obra
+especializada em TI para suprir a demanda local. Merecem destaque a infovia municipal e a rede gratuita de wi fi, infraestruturas que irão
+contribuir para o desenvolvimento da cidade.
+
+Item "1.15. Arranjos de financiamento que incentivem/contribuam com a participação privada"
+
+Os Impactos do Projeto e Áreas Estratégicas para este item estão relacionados diretamente aos seguintes Produtos:
+
+(P) Implantação da Plataforma de Turismo Sustentável e Inteligente
+
+(P) Implantação da Infovia e Rede de Fibra Ótica Pública
+
+(P) Formação de Graduados em TI e Inclusão no Mercado de Trabalho
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 30
+
+(P) Programa de Capacitação de Jovens em Tecnologias
+
+A Infovia Municipal possibilitará a geração de receitas acessórias para a municipalidade, resultante da exploração comercial da infovia
+para prestação direta de serviços de comunicação a clientes privados, como autorizado pela ANATEL, ou para locação a terceiros das
+fibras óticas excedentes à demanda da Prefeitura de Maceió. Para além da Prefeitura de Maceió, a participação privada é esperada para
+dar sustentabilidade ao produto de conectividade. Além disso, as universidades privadas e empresas de tecnologia locais se integrarão e
+são peças fundamentais para os produtos de formação e capacitação de mão de obra, especialmente para mapeamento qualitativo e
+quantitativo das demandas do setor, para o desenvolvimento de cursos de tecnologia que atendam as demandas locais, e para
+implementação de residência profissional tecnológica para inserção dos estudantes no mercado de trabalho.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Corporação Andina de Fomento - CAF
+Total:
+
+Sigla
+
+CF
+Sigla
+
+CAF
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+12.000.000,00
+Valor Proposto
+
+48.000.000,00
+60.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+12.000.000,00
+Valor de Referência US
+$
+48.000.000,00
+60.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+O Município de Maceió/AL terá como órgão executor do Programa o Instituto de Pesquisa e Planejamento Urbano (IPLAN) e o seu
+gerenciamento será realizado pela Unidade de Gerenciamento do Programa - UGP.
+
+A gestão do Programa estará a cargo da UGP por um período de cinco anos. Optou-se pela criação de uma nova UGP para este
+Programa em detrimento do aproveitamento da estrutura da UGP existente, uma vez que os escopos dos dois programas são muito
+diferentes. Entretanto, para a constituição desta UGP será feito treinamentos com a estrutura já existente para transferência de
+conhecimento e expertise na execução do Programa. O município já tem experiência positiva na execução de Programas de
+Desenvolvimento com Bancos Multilaterais de Crédito, bem como dispõe de equipe técnica e operacional adequada, constituída de
+engenheiros, ambientalistas, advogados e outros profissionais das áreas de tecnologia, sociais, de licitações, entre outros, que serão
+alocados na UGP e trabalham nas secretarias municipais participantes do Programa.
+
+A finalidade da UGP é de assegurar que as ações do Programa estejam de acordo com o contrato de empréstimo e seu objetivo
+contempla: planejar, programar e acompanhar a execução física e financeira, bem como avaliar os resultados intermediários e finais do
+Programa, de modo a assegurar o cumprimento das ações planejadas e dos cronogramas estabelecidos para cumprimento das ações
+programadas.
+
+O Programa também contará com apoio das Secretarias conforme demonstrado na Matriz de Responsabilidade Institucional. As
+secretarias e demais órgãos municipais envolvidos com o Programa são apresentados a seguir, com destaque para as funções
+relacionadas a sua execução. São órgãos que possuem papéis específicos na execução do programa, contribuindo com o organismo
+executor e proporcionando suporte técnico, alocação e gestão de recursos financeiros, acompanhamento das intervenções e realização
+das licitações.
+
+O Instituto de Pesquisa e Planejamento Urbano (IPLAN): a UGP atuará na coordenação das ações necessárias para viabilizar a execução
+das intervenções listadas nesta Carta Consulta, sendo através de seu Secretário-Presidente, interlocutor entre as áreas envolvidas e
+auxiliando na resolução de problemáticas que possam vir a surgir. O Secretário exercerá funções de planejamento, supervisão e
+interlocução, atuando na interface entre todos os atores institucionais envolvidos no programa na comunicação junto ao organismo
+financiador visando a implementação e administração das atividades relativas à execução do Programa e seus componentes,
+assegurando o cumprimento dos objetivos e da qualidade dos resultados previstos. É de responsabilidade do IPLAN, sob a coordenação
+de seu Secretário, demandar às demais secretarias envolvidas no programa, a execução de ações/tarefas relativas à sua execução, de
+acordo com o escopo de atuação de cada área envolvida. Para tal, determinará juntamente com o Secretário da área, quais servidores do
+quadro de cada secretaria deverão ser designados para atuar no Programa.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 31
+
+Considerando as principais Secretarias envolvidas na execução dos investimentos objeto desse Programa, o papel de cada um para os
+produtos definidos é o seguinte:
+
+1. Infovia e rede de wi fi público e gratuito: a Secretaria de Estratégias Disruptivas, Ciência, Tecnologia e Inovação (SEDCITI) será a
+coordenadora do projeto de conectividade gratuito e realizará o seu monitoramento. A Empresa de Tecnologia e Inclusão Digital de
+Maceió (MACEIÓ DIGITAL) será responsável por contratar as soluções tecnológicas e por manter a rede de conectividade, assim como
+por implementar a Infovia. O IPLAN ficará encarregado de estruturar dados e coordenar pesquisas e estudos para implementação e
+avaliação da qualidade das políticas pública de conectividade.
+
+2. Capacitação digital e formação de mão de obra qualificada em TI: A SEDCITI e o IPLAN serão responsáveis por operacionalizar o
+programa de formação de mão de obra e coordenar o programa de apoio e inserção profissional dos bolsistas. À MACEIÓ DIGITAL
+caberá a estruturação e gestão do centro tecnológico de apoio, e também a inserção profissional de bolsistas. A Secretaria Municipal de
+Mulher (SEMUC) será responsável por acompanhar o programa e estimular o acesso das mulheres a vagas de ensino e ao mercado de
+trabalho.
+
+3. Centro de Controle Operacional Integrado: A coordenação da implantação do Centro de Controle Operacional lntegrado caberá à
+SEDCITI, com o apoio do IPLAN, da Secretaria Municipal de Segurança Cidadã (SEMSC), do Departamento Municipal de Transportes e
+Trânsito (DMTT), da Defesa Civil, da Secretaria Municipal de Infraestrutura (SEMINFRA) e da Autarquia Municipal de Desenvolvimento
+Sustentável e Limpeza Urbana (ALURB), nas suas respectivas áreas de competência e serviços prestados. A gestão de sistemas e
+infraestrutura, assim como a manutenção do Centro de Controle e da infraestrutura tecnológica serão atribuições da MACEIÓ DIGITAL.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Prefeitura Municipal de Maceió - AL
+
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+Fax:
+UF:
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+CF
+
+CAF
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+
+58.250.000,00
+
+2.442.000,00
+
+6.258.000,00
+
+S - ESTUDOS E PROJETOS
+
+P - PDTI e Políticas Complementares de TI e Dados
+
+P - Plano de Cidade Ingeligente
+
+P - Plano de Resiliência Climática e Estratégia para a Economia Azul
+
+P - Estratégia Municipal de Educação e Inclusão Digital para Equidade de Gênero
+
+2.150.000,00
+
+1.150.000,00
+
+250.000,00
+
+500.000,00
+
+250.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.150.000,00
+
+1.150.000,00
+
+250.000,00
+
+500.000,00
+
+250.000,00
+
+S - CENTRO DE CONTROLE OPERACIONAL INTEGRADO
+
+24.000.000,00
+
+2.200.000,00
+
+1.100.000,00
+
+P - IMPLANTAÇÃO DO CENTRO DE CONTROLE OPERACIONAL
+
+6.000.000,00
+
+0,00
+
+500.000,00
+
+P - Plataformas Tecnológicas de Zeladoria Urbana; Turismo Sustentável e Inteligente; Dados e
+Inteligência; e Cadastro Multifinalitário
+P - Rede de Monitoramento Municipal
+
+S - CAPACITAÇÃO E FORMAÇÃO DIGITAL
+
+10.000.000,00
+
+2.200.000,00
+
+600.000,00
+
+8.000.000,00
+
+0,00
+
+0,00
+
+13.100.000,00
+
+242.000,00
+
+2.608.000,00
+
+P - Formação de Graduados em TI e Inclusão no Mercado de Trabalho
+
+4.700.000,00
+
+92.000,00
+
+808.000,00
+
+P - Programa de Capacitação de Jovens em Tecnologias
+
+8.400.000,00
+
+150.000,00
+
+1.800.000,00
+
+S - MODERNIZAÇÃO DA INFRAESTRUTURA TECNOLÓGICA
+
+P - Infovia Municipal
+
+P - Requalificação e Expansão da Rede de Conectividade Wi Fi Gratuita
+
+P - Aquisição de Equipamentos de Tecnologia
+
+C - GERENCIAMENTO DO PROGRAMA
+
+P - Apoio à Unidade de Gerenciamento do Programa (UGP)
+
+P - Auditoria Externa
+
+P - Gastos de Avaliação
+
+P - Comissão de Financiamento
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+
+COMPONENTES
+
+19.000.000,00
+
+7.400.000,00
+
+1.600.000,00
+
+10.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+400.000,00
+
+400.000,00
+
+0,00
+
+0,00
+
+1.750.000,00
+
+638.000,00
+
+40.000,00
+
+1.150.000,00
+
+230.000,00
+
+100.000,00
+
+92.000,00
+
+0,00
+
+0,00
+
+408.000,00
+
+408.000,00
+
+0,00
+
+20.000,00
+
+20.000,00
+
+0,00
+
+0,00
+
+3.080.000,00
+
+6.298.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+CAF
+
+3.425.000,00
+
+12.700.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 32
+
+S - ESTUDOS E PROJETOS
+
+P - PDTI e Políticas Complementares de TI e Dados
+
+P - Plano de Cidade Ingeligente
+
+P - Plano de Resiliência Climática e Estratégia para a Economia Azul
+
+P - Estratégia Municipal de Educação e Inclusão Digital para Equidade de Gênero
+
+S - CENTRO DE CONTROLE OPERACIONAL INTEGRADO
+
+P - IMPLANTAÇÃO DO CENTRO DE CONTROLE OPERACIONAL
+
+P - Plataformas Tecnológicas de Zeladoria Urbana; Turismo Sustentável e Inteligente; Dados e
+Inteligência; e Cadastro Multifinalitário
+P - Rede de Monitoramento Municipal
+
+S - CAPACITAÇÃO E FORMAÇÃO DIGITAL
+
+P - Formação de Graduados em TI e Inclusão no Mercado de Trabalho
+
+P - Programa de Capacitação de Jovens em Tecnologias
+
+S - MODERNIZAÇÃO DA INFRAESTRUTURA TECNOLÓGICA
+
+P - Infovia Municipal
+
+P - Requalificação e Expansão da Rede de Conectividade Wi Fi Gratuita
+
+P - Aquisição de Equipamentos de Tecnologia
+
+C - GERENCIAMENTO DO PROGRAMA
+
+P - Apoio à Unidade de Gerenciamento do Programa (UGP)
+
+P - Auditoria Externa
+
+P - Gastos de Avaliação
+
+P - Comissão de Financiamento
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+
+COMPONENTES
+
+S - ESTUDOS E PROJETOS
+
+P - PDTI e Políticas Complementares de TI e Dados
+
+P - Plano de Cidade Ingeligente
+
+P - Plano de Resiliência Climática e Estratégia para a Economia Azul
+
+P - Estratégia Municipal de Educação e Inclusão Digital para Equidade de Gênero
+
+S - CENTRO DE CONTROLE OPERACIONAL INTEGRADO
+
+P - IMPLANTAÇÃO DO CENTRO DE CONTROLE OPERACIONAL
+
+P - Plataformas Tecnológicas de Zeladoria Urbana; Turismo Sustentável e Inteligente; Dados e
+Inteligência; e Cadastro Multifinalitário
+P - Rede de Monitoramento Municipal
+
+S - CAPACITAÇÃO E FORMAÇÃO DIGITAL
+
+P - Formação de Graduados em TI e Inclusão no Mercado de Trabalho
+
+P - Programa de Capacitação de Jovens em Tecnologias
+
+S - MODERNIZAÇÃO DA INFRAESTRUTURA TECNOLÓGICA
+
+P - Infovia Municipal
+
+P - Requalificação e Expansão da Rede de Conectividade Wi Fi Gratuita
+
+P - Aquisição de Equipamentos de Tecnologia
+
+C - GERENCIAMENTO DO PROGRAMA
+
+P - Apoio à Unidade de Gerenciamento do Programa (UGP)
+
+P - Auditoria Externa
+
+P - Gastos de Avaliação
+
+P - Comissão de Financiamento
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+
+COMPONENTES
+
+S - ESTUDOS E PROJETOS
+
+P - PDTI e Políticas Complementares de TI e Dados
+
+P - Plano de Cidade Ingeligente
+
+P - Plano de Resiliência Climática e Estratégia para a Economia Azul
+
+P - Estratégia Municipal de Educação e Inclusão Digital para Equidade de Gênero
+
+S - CENTRO DE CONTROLE OPERACIONAL INTEGRADO
+
+P - IMPLANTAÇÃO DO CENTRO DE CONTROLE OPERACIONAL
+
+P - Plataformas Tecnológicas de Zeladoria Urbana; Turismo Sustentável e Inteligente; Dados e
+Inteligência; e Cadastro Multifinalitário
+P - Rede de Monitoramento Municipal
+
+S - CAPACITAÇÃO E FORMAÇÃO DIGITAL
+
+P - Formação de Graduados em TI e Inclusão no Mercado de Trabalho
+
+P - Programa de Capacitação de Jovens em Tecnologias
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.950.000,00
+
+6.000.000,00
+
+150.000,00
+
+1.500.000,00
+
+2.300.000,00
+
+2.000.000,00
+
+500.000,00
+
+2.500.000,00
+
+225.000,00
+
+2.350.000,00
+
+75.000,00
+
+850.000,00
+
+150.000,00
+
+1.500.000,00
+
+250.000,00
+
+4.350.000,00
+
+0,00
+
+0,00
+
+1.500.000,00
+
+600.000,00
+
+250.000,00
+
+2.250.000,00
+
+230.000,00
+
+230.000,00
+
+0,00
+
+0,00
+
+0,00
+
+38.000,00
+
+0,00
+
+20.000,00
+
+18.000,00
+
+0,00
+
+0,00
+
+3.655.000,00
+
+12.738.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+CAF
+
+3.525.000,00
+
+13.650.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.050.000,00
+
+5.600.000,00
+
+250.000,00
+
+2.500.000,00
+
+2.300.000,00
+
+600.000,00
+
+500.000,00
+
+2.500.000,00
+
+225.000,00
+
+2.300.000,00
+
+75.000,00
+
+850.000,00
+
+150.000,00
+
+1.450.000,00
+
+250.000,00
+
+5.750.000,00
+
+0,00
+
+0,00
+
+2.500.000,00
+
+1.000.000,00
+
+250.000,00
+
+2.250.000,00
+
+230.000,00
+
+230.000,00
+
+0,00
+
+0,00
+
+0,00
+
+38.000,00
+
+0,00
+
+20.000,00
+
+18.000,00
+
+0,00
+
+0,00
+
+3.755.000,00
+
+13.688.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+CAF
+
+575.000,00
+
+10.600.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+100.000,00
+
+3.000.000,00
+
+100.000,00
+
+1.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+2.000.000,00
+
+225.000,00
+
+2.350.000,00
+
+75.000,00
+
+900.000,00
+
+150.000,00
+
+1.450.000,00
+
+
+Página: 33
+
+S - MODERNIZAÇÃO DA INFRAESTRUTURA TECNOLÓGICA
+
+P - Infovia Municipal
+
+P - Requalificação e Expansão da Rede de Conectividade Wi Fi Gratuita
+
+P - Aquisição de Equipamentos de Tecnologia
+
+C - GERENCIAMENTO DO PROGRAMA
+
+P - Apoio à Unidade de Gerenciamento do Programa (UGP)
+
+P - Auditoria Externa
+
+P - Gastos de Avaliação
+
+P - Comissão de Financiamento
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+
+COMPONENTES
+
+S - ESTUDOS E PROJETOS
+
+P - PDTI e Políticas Complementares de TI e Dados
+
+P - Plano de Cidade Ingeligente
+
+P - Plano de Resiliência Climática e Estratégia para a Economia Azul
+
+P - Estratégia Municipal de Educação e Inclusão Digital para Equidade de Gênero
+
+S - CENTRO DE CONTROLE OPERACIONAL INTEGRADO
+
+P - IMPLANTAÇÃO DO CENTRO DE CONTROLE OPERACIONAL
+
+P - Plataformas Tecnológicas de Zeladoria Urbana; Turismo Sustentável e Inteligente; Dados e
+Inteligência; e Cadastro Multifinalitário
+P - Rede de Monitoramento Municipal
+
+S - CAPACITAÇÃO E FORMAÇÃO DIGITAL
+
+P - Formação de Graduados em TI e Inclusão no Mercado de Trabalho
+
+P - Programa de Capacitação de Jovens em Tecnologias
+
+S - MODERNIZAÇÃO DA INFRAESTRUTURA TECNOLÓGICA
+
+P - Infovia Municipal
+
+P - Requalificação e Expansão da Rede de Conectividade Wi Fi Gratuita
+
+P - Aquisição de Equipamentos de Tecnologia
+
+C - GERENCIAMENTO DO PROGRAMA
+
+P - Apoio à Unidade de Gerenciamento do Programa (UGP)
+
+P - Auditoria Externa
+
+P - Gastos de Avaliação
+
+P - Comissão de Financiamento
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+250.000,00
+
+5.250.000,00
+
+0,00
+
+0,00
+
+3.000.000,00
+
+0,00
+
+250.000,00
+
+2.250.000,00
+
+230.000,00
+
+230.000,00
+
+0,00
+
+0,00
+
+0,00
+
+38.000,00
+
+0,00
+
+20.000,00
+
+18.000,00
+
+0,00
+
+0,00
+
+805.000,00
+
+10.638.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+CAF
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+475.000,00
+
+4.600.000,00
+
+10.442.000,00
+
+47.808.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.150.000,00
+
+1.150.000,00
+
+250.000,00
+
+500.000,00
+
+250.000,00
+
+8.300.000,00
+
+15.700.000,00
+
+500.000,00
+
+5.500.000,00
+
+6.800.000,00
+
+3.200.000,00
+
+0,00
+
+1.000.000,00
+
+7.000.000,00
+
+225.000,00
+
+2.350.000,00
+
+1.142.000,00
+
+11.958.000,00
+
+75.000,00
+
+900.000,00
+
+392.000,00
+
+4.308.000,00
+
+150.000,00
+
+1.450.000,00
+
+750.000,00
+
+7.650.000,00
+
+250.000,00
+
+2.250.000,00
+
+1.000.000,00
+
+18.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+7.400.000,00
+
+1.600.000,00
+
+250.000,00
+
+2.250.000,00
+
+1.000.000,00
+
+9.000.000,00
+
+230.000,00
+
+230.000,00
+
+0,00
+
+0,00
+
+0,00
+
+38.000,00
+
+1.558.000,00
+
+192.000,00
+
+0,00
+
+1.150.000,00
+
+0,00
+
+20.000,00
+
+18.000,00
+
+0,00
+
+0,00
+
+100.000,00
+
+92.000,00
+
+0,00
+
+408.000,00
+
+0,00
+
+60.000.000,00
+
+705.000,00
+
+4.638.000,00
+
+12.000.000,00
+
+48.000.000,00
+
+De uma forma geral, a execução do programa irá requerer a contratação de consultorias especializadas, que darão suporte às equipes
+próprias do município, e serão contratadas por meio de licitações, no momento adequado, conforme determinação do contrato de
+financiamento do Programa.
+
+A execução do Programa será realizada por uma UGP, composta por profissionais qualificados, incluindo aqueles voltados à área de
+aquisições, que utilizarão as modalidades de licitação exigidas, fundamentalmente, pela Lei nº 14.133, de 1º de abril de 2021.
+
+Ressalta-se que o município já possui em seu quadro de funcionários pessoas com experiência em gerenciamento de programas
+semelhantes, os quais poderão ser mobilizados à medida em que for requerido.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+CONTRATAÇÃO DE PESSOAL
+
+Não há previsão de contratações de pessoal fixo no decorrer do programa com o objetivo de atender a demandas específicas deste.
+
+RISCOS
+
+Podemos relacionar que as contratações em geral também são riscos possíveis desse programa, causados principalmente pela ausência
+de rigor durante a realização do procedimento licitatório, que pode ocasionar a escolha de empresa técnica e/ou financeiramente incapaz,
+podendo suscitar, entre outros aspectos, em:
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 34
+
+- Má qualidade na execução de projetos e serviços;
+
+- Má qualidade no acompanhamento dos serviços do Programa;
+
+- Incapacidade de aplicação do investimento;
+
+- Descumprimento do cronograma estipulado;
+
+- Acidentes de trabalho e paralisação da execução.
+
+AÇÕES MITIGADORAS
+
+Uma das formas de mitigar os riscos das contratações é o município impor rigor nos critérios de seleção técnica nos editais de licitação,
+valorizando tanto a experiência pretérita, quanto a capacidade financeira para projetos de magnitude compatível com aqueles propostos
+no âmbito do Programa. Deve-se considerar, ainda, que, a contratação de profissionais e/ou empresas especializadas para apoio a gestão
+do programa poderá atuar na consultoria técnica de elaboração dos processos licitatórios, principalmente quanto à observância de
+normas técnicas, requisitos de qualidade, controle do cronograma, dentre outros elementos.
+
+Importante ressaltar que o município conta com uma Autarquia de Licitações, Contratos e Convênios, que vem garantindo padronização e
+celeridade aos processos, mitigando riscos na execução das atividades, com experiência em licitações que envolvem financiamento
+externo e também na tipologia das ações previstas no âmbito do Programa.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Não estão previstas desapropriações para atender à execução dos projetos elencados neste programa.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+A implementação dos projetos e iniciativas contidos nos componentes da presente operação, a princípio, não é passível de degradação
+ambiental, se consideradas as exigências e normas vigentes.
+
+As políticas urbanas digitais visam reduzir significativamente os efeitos ambientais adversos e gerar impactos ambientais positivos,
+principalmente quanto à sustentabilidade, inteligência e resiliência da cidade. Além das iniciativas previstas no componente principal dessa
+operação, nesse quesito destacam-se os impactos positivos decorrentes do planejamento transversal para a cidade objeto do Plano
+Diretor de Tecnologia da Informação (PDTI), do Plano de Resiliência Climática e Estratégia para a Economia Azul Local.
+
+O Plano Diretor de Tecnologia da Informação (PDTI) pode ter impactos ambientais tanto positivos quanto negativos. Entre os impactos
+positivos estão a redução do deslocamento físico, a eficiência energética e a facilitação da gestão ambiental. Por outro lado, os impactos
+negativos incluem o consumo de recursos, o aumento do consumo de energia e as emissões de carbono associadas, bem como o
+problema do descarte inadequado de equipamentos eletrônicos, o que deverá ser considerado como ação prevista no momento de sua
+concepção.
+
+O Plano de Resiliência Climática é fundamental para consolidar as principais iniciativas que impactam o ambiente neste projeto. Ele
+abrange a redução das emissões de gases de efeito estufa, a proteção da biodiversidade, a adaptação às mudanças climáticas, o
+estímulo à economia verde e circular, aprimoramento da disposição inadequada e gestão de resíduos, e a melhoria da qualidade do ar e
+da água. Essas medidas contribuem significativamente para mitigar as mudanças climáticas e seus efeitos prejudiciais, promovendo um
+ambiente mais saudável e sustentável.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+Por meio da transformação digital, o município busca melhorar a qualidade dos serviços prestados à população e promover a inclusão
+social, principalmente das minorias. Entre os principais impactos sociais se destacam:
+
+- maior segurança urbana através de sistemas de vigilância inteligente, análise de dados para prevenção de crimes e resposta mais rápida
+a emergências;
+
+- melhorias nos serviços públicos essenciais, como mobilidade, segurança, saneamento e gestão de resíduos;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 35
+
+- redução da desigualdade digital por meio da oferta de rede pública de wi fi gratuita, promovendo assim um desenvolvimento mais
+equitativo e sustentável;
+
+- acesso a recursos educacionais online, aprendizagem remota e desenvolvimento de habilidades digitais essenciais para o mercado de
+trabalho atual;
+
+- serviços públicos online que facilitam o acesso da população a informações e recursos, melhorando a eficiência e a transparência da
+administração;
+
+- incentivo a inovação em diversos setores, estimulando o surgimento de novas ideias, startups e soluções tecnológicas para desafios
+urbanos;
+
+- qualidade das informações geradas para a tomada de decisões conscientes e alinhadas com as necessidades da população,
+constituindo os dados como um ativo para a geração de valor social.
+
+De outro ponto, o monitoramento municipal deverá observar, fielmente, as normas e melhores práticas de segurança, privacidade e
+proteção de dados, garantindo-se ainda que, do processo de expansão dos pontos de monitoramento e incrementos de inteligência
+aplicada ao processamento das imagens e analíticos, não emerjam práticas discriminatórias ou baseadas em viés racial, por meio dos
+algoritmos empregados, sendo que esse possível impacto negativo já foi elencado como risco do presente projeto, e será observado na
+respectiva implementação.
+
+Por fim, a área das intervenções previstas no Programa não possui populações tradicionais, indígenas ou quilombolas.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+O programa não prevê reassentamentos ou deslocamento de famílias.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+-  04/10/2024:  Retirada  de  pauta  pela  176ª  Reunião  da  Cofiex,  em  26  de  setembro  de  2024,  por  exceder  o  limite  disponível  para  esta
+reunião.
+
+Informações relevantes
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)

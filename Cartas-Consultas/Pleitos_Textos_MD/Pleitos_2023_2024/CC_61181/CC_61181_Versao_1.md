@@ -1,0 +1,813 @@
+# Carta-Consulta CC_61181 — Versao 1 (SIGS)
+
+
+CARTA CONSULTA
+
+Programa BNDES-BIRD de Apoio à Descarbonização das Cadeias Energéticas e
+Industriais
+
+Nº Carta Consulta: 61181
+Mutuário: Banco Nacional de Desenvolvimento Econômico e Social - BNDES
+Tipo de Operação: Operação de crédito externo
+
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 1.000.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+A emergência do fenômeno das mudanças climáticas torna crucial a sua consideração quando do planejamento das estratégias de
+desenvolvimento dos países. Estima-se que as mudanças climáticas já resultam em danos de ao menos US$ 390 bilhões anualmente em
+países em desenvolvimento  e podem gerar perdas de até 18% do PIB global no futuro se medidas para sua mitigação não forem tomadas
+.  Adicionalmente, o Banco Mundial estima que 132 milhões de pessoas podem ser colocadas em situação de extrema pobreza já em
+2030  e até 216 milhões poderiam ser desalojadas por eventos climáticos (como secas e enchentes) até 2050 no mundo.
+
+Em face disso, o mundo definiu, no âmbito do Acordo de Paris, o desafio de limitar o aumento da temperatura média global a 1,5°C acima
+dos níveis pré-industriais. Para isso, serão necessárias ações de descarbonização em todos os setores econômicos. Neste contexto, o
+Brasil definiu sua Contribuição Nacionalmente Determinada, com metas para a redução de suas emissões de gases de efeito estufa (GEE)
+que incluem a redução de 53,1% em 2030 em comparação à 2005 e a neutralidade climática em 2050.
+
+Cumprir tais objetivos no Brasil e no mundo será um grande desafio. Segundo a International Energy Agency, apenas a descarbonização
+do setor energético global demandará investimentos anuais de US$ 4 trilhões em energias limpas a partir de 2030. Considerando um
+escopo setorial mais amplo, a McKinsey estima um custo anual de cerca de US$ 9 trilhões até 2050. No Brasil, a CNI estima que serão
+necessários R$ 40 bilhões até 2050 apenas para a descarbonização da indústria nacional.Para concretizar tais massivos investimentos
+estimados para a descarbonização, grandes volumes de financiamento serão necessários para apoiar a implantação de infraestruturas e
+tecnologias de baixo carbono. Dadas as incertezas existentes nessa agenda, tais financiamentos devem apresentar condições favoráveis.
+Com o objetivo de endereçar esse desafio, o Programa proposto busca fomentar o financiamento em infraestruturas e tecnologias de
+baixo carbono nos segmentos industriais e energéticos, estando em linha com as diretrizes do atual Governo, como os Planos de
+Transição Energética e Nova Indústria Brasil. O BNDES, com larga experiência acumulada como principal credor de longo prazo no país,
+é um tradicional financiador de projetos de baixo carbono no Brasil, incluindo segmentos como infraestrutura sustentável, indústria de
+baixo carbono e energias renováveis. O desembolso do BNDES atingiu R$ 114 bilhões em 2023 e seu desempenho operacional
+aumentou consistentemente em todas as etapas dos projetos; houve crescimento de 88% das consultas e de 32% nas aprovações frente
+a 2022. As aprovações avançaram fortemente em todos os setores , incluindo infraestruturas e tecnologias de baixo carbono. Por
+conseguinte, aumenta a necessidade de se assegurarem fontes de custo e prazo compatíveis com o perfil de repagamento dos
+investimentos a serem financiados. O orçamento de investimentos do BNDES é composto por recursos captados de fontes institucionais
+nacionais, tais como o FAT e o Tesouro Nacional, bem como por recursos provenientes de captações nos mercados doméstico e
+internacional, e os provenientes dos contratos de empréstimos firmados com organismos multilaterais e agências oficiais de crédito
+estrangeiras.
+
+A política de captação de recursos praticada pelo BNDES junto aos organismos financeiros internacionais tem como objetivo principal
+compor um orçamento apropriado para as suas operações de crédito, com vistas a manter um endividamento externo balanceado em
+termos de moedas, prazos e taxas de juros, uma vez que tais empréstimos possuem condições mais atrativas do que aquelas praticadas
+no mercado de capitais internacional. Igualmente relevante é o componente qualitativo agregado ao BNDES pela parceria com os
+organismos internacionais. Por intermédio dessas captações externas o BNDES tem acesso a experiências exitosas e a exemplos de
+práticas internacionalmente adotadas, o que contribui para aprimorar a forma de atuação do BNDES. Nesse quesito, o Banco Mundial (
+parceiro da operação proposta) tem larga experiência nacional e internacional com temas de transição energética e descarbonização
+industrial. Trata-se de uma via de mão dupla na medida em que o próprio BNDES, em razão da diversidade de situações já vivenciadas e
+de setores em que atua, também é, do ponto de vista do organismo internacional parceiro, um locus de boas práticas que podem ser
+observadas e avaliadas em maior detalhe por intermédio da execução e acompanhamento dos projetos que que são objeto dessas
+operações.
+
+Os investimentos em infraestruturas e tecnologias de baixo carbono têm grande influência no desenvolvimento econômico sustentável, na
+produtividade, e na geração de emprego e renda.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+Com o objetivo de diversificar o seu funding, o BNDES vem envidando esforços no sentido de concretizar operações de captação tanto
+com parceiros institucionais nacionais quanto com instituições internacionais.
+
+Para tal, o BNDES tem buscado expandir parcerias para que possa continuar a contribuir de forma decisiva para a retomada do
+crescimento e do desenvolvimento do país em bases sustentáveis. Para tanto, é necessário diversificar as fontes de recursos no Brasil e
+no exterior. Assim, as operações de captação de recursos com organismos internacionais e agências oficiais de crédito ganham
+importância por seu caráter complementar, estratégico e em que as condições financeiras tendem a ser atrativas.
+
+Em que pese os enormes desafios colocados na seção anterior, o Brasil é comumente colocado como um dos países que pode liderar a ?
+transição verde? global, devido às suas vantagens comparativas trazidas por aspectos como uma matriz energética de base renovável
+com potencial de expansão e oportunidades ligadas à bioeconomia. Para concretizar tais oportunidades, significativos investimentos serão
+necessários.
+
+
+Página: 3
+
+Dessa forma, os recursos a serem captados junto ao Banco Mundial (Banco Internacional para Reconstrução e Desenvolvimento ? BIRD)
+constituirão uma fonte importante para garantir o apoio a projetos de investimento associados à transição energética e descarbonização,
+destravando e viabilizando importantes financiamentos de capital em iniciativas de baixo carbono. Adicionalmente, tais investimentos
+iniciais tem o potencial de melhorar o ambiente de negócios na agenda, alavancando o investimento de outras fontes em tais iniciativas.
+Os projetos priorizados serão voltados à descarbonização das cadeias industrial e energética, o que se traduz em uma carteira
+prospectiva de projetos em seus diversos subsegmentos (energias renováveis, combustíveis verdes - como as cadeias de valor do
+hidrogênio verde, biometano e sustainable aviation fuel (SAF), eletrificação (incluindo eletromobilidade), eficiência energética,
+desenvolvimento tecnológico, entre outros. Este apoio às operações de financiamento de setores importantes da economia concorre para
+o início de um novo ciclo de crescimento do país, acelerando a retomada dos investimentos.
+
+Como será apresentado adiante, o montante de captação externa junto ao BIRD no Programa ora proposto será de até US$ 1 (um) bilhão
+de dólares americanos. Esses recursos serão completamente utilizados nas finalidades definidas, pactuadas com o BIRD, conforme
+elegibilidade da carteira de projetos em infraestruturas e tecnologias de baixo carbono.
+
+A carteira de projetos a serem financiados no âmbito deste Programa, dentro dos setores detalhados nesta carta consulta, será definida
+pelo BNDES em conjunto com o BIRD. Os projetos apresentados ao BIRD serão aqueles que já fazem ou farão parte da carteira de
+crédito do BNDES nos diferentes subsegmentos das cadeias energéticas e industriais de baixo carbono.
+
+Todas as operações apoiadas serão submetidas ao processo ordinário de concessão de crédito do BNDES e estão sujeitas ao
+cumprimento das condições estipuladas em suas normas e regras internas. As condições aplicáveis aos projetos apoiados estão definidas
+conforme as Políticas Operacionais do BNDES (Resolução 3086/2016, vigente desde 07/12/2016 e alterações posteriores).
+
+Resultados esperados: Além da diversificação da carteira de captação do BNDES a partir de funding externo complementar aos recursos
+atuais, é esperado que o Programa proposto destrave investimentos em medidas de baixo carbono no país, inclusive em indústrias
+nascentes e tecnologias de fronteira, ajudando a mobilizar investimentos privados e contribuindo para a mitigação de emissões de GEE.
+
+Além disso, os projetos apoiados devem gerar empregos e renda no país, bem como fomentar desenvolvimento tecnológico de baixo
+carbono, contribuindo, assim, para o desenvolvimento sustentável do Brasil.
+
+Sustentabilidade:
+
+O Sistema BNDES realiza habitualmente operações que se enquadram nas necessidades do Programa ora proposto. Conforme suas
+Políticas Operacionais, o BNDES concederá os empréstimos aos sub-mutuários, e os recursos do BIRD serão desembolsados
+diretamente para o BNDES, podendo estes serem feitos nas modalidades usualmente adotadas pelo BIRD, em conformidade com a
+elegibilidade da carteira e nos termos do contrato de empréstimo a ser negociado. Os recursos que serão aportados nos projetos e
+financiados pelo BIRD estão previstos no orçamento de investimento do BNDES. O BNDES e o BIRD acordarão os critérios de
+elegibilidade dos subprojetos a serem apoiados.
+
+Assim sendo, não será necessária qualquer adaptação na sistemática operacional do BNDES: a partir de sua carteira de operações, o
+BNDES identificará aquelas que atendam aos requisitos de mútuo interesse entre as instituições, concedendo financiamento aos sub-
+mutuários nos projetos elegíveis.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+O Programa proposto está alinhado às diretrizes estratégicas atuais do Governo Federal e do BNDES.
+
+Dentre as diretrizes estratégicas do Governo Federal às quais o Programa está alinhado, estão: (i) o Programa Nova Indústria Brasil, em
+particular em seu eixo 5? Bioeconomia, descarbonização, e transição e segurança energéticas, que visa reduzir as emissões industriais,
+aumentar o uso de tecnologias sustentáveis e a participação de combustíveis verdes; (ii) o Plano de Transição Ecológica do Ministério da
+Fazenda, em particular em seus eixos 1- financiamento sustentável, que prevê reforço aos recursos do Fundo Clima, gerido pelo BNDES,
+e cujos recursos do Programa poderão complementar, 2- adensamento tecnológico, com o fomento a cadeias industriais e fundos do
+FNDCT, e 4? transição energética, com o desenvolvimento de combustíveis do futuro, como SAFs e hidrogênio verde; (iii) os
+compromissos da NDC brasileira, na medida em que fomenta a mitigação de emissões, abordando inclusive setores hard-to-abate que
+serão cruciais para o cumprimento da meta de neutralidade climática; (iv) o Programa Nacional do Hidrogênio, em particlar em seu eixo 5?
+abertura e crescimento do mercado;  e (v) ao Plano Plurianual (PPA) 2024-2027, que destaca a importância e transversalidade da agenda
+de meio ambiente e clima.
+
+Em relação às diretrizes estratégicas do BNDES, estas estão alinhadas aos Objetivos de Desenvolvimento Sustentável da ONU, em áreas
+como energia, logística, saneamento, mobilidade urbana, tecnologia da informação, educação e saúde.
+
+Para o período de 2024 a 2028 foram formulados 10 Objetivos Estratégicos do Sistema BNDES, com base na Identidade Institucional, na
+Análise de Riscos e Oportunidades e nas Diretrizes Estratégicas . Elencamos a seguir tais objetivos, que podem ser agregados em 3
+grandes blocos:
+
+Corporativo:
+
+1.Expandir o desembolso e a carteira de crédito do Sistema BNDES promovendo o desenvolvimento sustentável alinhado às políticas
+públicas vigentes
+
+
+Página: 4
+
+2.Garantir o equilíbrio financeiro do Sistema BNDES
+
+Negócios:
+
+3.Expandir o apoio a projetos de infraestrutura reduzindo o hiato de investimentos no setor e promovendo resiliência
+
+4.Expandir o apoio ao desenvolvimento produtivo abrangendo inovação e digitalização
+
+5.Ampliar o apoio a projetos de desenvolvimento social e gestão pública buscando reduzir as desigualdades e promovendo cidadania
+
+6.Ampliar o apoio a projetos ambientais e climáticos contribuindo para a transição ecológica justa, a descarbonização e a conservação e
+restauração de biomas
+
+7.Ampliar o apoio à exportação promovendo maior inserção das empresas brasileiras em mercados internacionais
+
+8.Expandir crédito e garantias para MPMEs promovendo o acesso a crédito, a agropecuária sustentável e o cooperativismo
+
+9.Fomentar o mercado de capitais para contribuir com o desenvolvimento sustentável
+
+Suporte ao Negócio:
+
+10.Acelerar a transformação digital do BNDES aumentando a eficiência operacional e melhorando a experiência dos clientes.
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa BNDES-BIRD de Apoio à Descarbonização das Cadeias Energéticas e Industriais
+
+
+### 2.2. Título Abreviado
+
+
+Programa BNDES-BIRD de Apoio à Descarbonização
+
+
+### 2.3. Mutuário
+
+
+Banco Nacional de Desenvolvimento Econômico e Social - BNDES
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Objetivo geral: Apoiar o investimento em práticas, infraestruturas e tecnologias de baixo carbono nas cadeias energéticas e industriais,
+promovendo a remoção de gargalos de financiamento, melhorando o ambiente de negócios e mobilizando investimentos privados, e
+viabilizando tanto a mitigação de emissões de GEE quanto o desenvolvimento socioeconômico sustentável do país.
+
+Objetivos específicos:
+
+(i)Contribuir para a redução das emissões de gases de efeito estufa no Brasil e no mundo, a partir do fomento a iniciativas de
+descarbonização nas cadeias energéticas e industriais no país que, via efeitos de encadeamento, auxiliarão também na descarbonização
+dos demais setores econômicos;
+
+(ii)Destravar e alavancar investimentos em práticas, infraestruturas e tecnologias de baixo carbono, incluindo indústrias nascentes e
+tecnologias de fronteira;
+
+(iii)Fomentar a geração de empregos e renda de qualidade nas cadeias industriais e energéticas de baixo carbono no Brasil, contribuindo
+para o desenvolvimento socioeconômico sustentável do país.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+Descrição
+Montante de financiamento concedido a projetos
+de infraestruturas e tecnologias de baixo
+carbono
+Prazo médio dos empréstimos concedidos aos
+sub-mutuários
+
+US$
+
+Fórmula de Cálculo Unidade de Medida
+Somatório do
+montante concedido a
+projetos individuais
+Período de carência +
+período de
+amortização x 0,5
+
+Anos
+
+Número de projetos financiados pelo Programa Planejado / Realizado %
+Investimento total dos projetos apoiados pelo
+Programa (alavancagem)
+
+US$
+
+Mitigação de emissões de GEE anualmente nos
+projetos elegíveis
+
+Empregos criados em decorrência dos
+investimentos apoiados pelo Programa
+
+Somatório do
+montante dos
+investimentos de
+projetos individuais
+Somatório das
+emissões de GEE
+mitigadas
+Somatório dos postos
+de trabalho criados
+nos projetos apoiados
+
+tCO2e
+
+Un.
+
+Linha de Base
+0,00
+
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+
+Meta
+0,00
+
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+
+
+### 2.7. Projeto/Componentes
+
+
+Componentes
+C - APOIO AO INVESTIMENTO EM PROJETOS DE BAIXO CARBONO NAS CADEIAS ENERGÉTICAS E
+INDUSTRIAIS
+P - Apoio ao investimento em projetos de baixo carbono nas cadeias energéticas e industriais
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Valor(US$)
+1.000.000.000,00
+
+1.000.000.000,00
+1.000.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - APOIO AO INVESTIMENTO EM PROJETOS DE BAIXO CARBONO NAS CADEIAS ENERGÉTICAS E INDUSTRIAIS
+Apoio às operações de financiamento do BNDES a projetos de investimento de natureza pública ou privada em práticas,
+infraestruturas e tecnologias de baixo carbono nas cadeias energéticas e industriais.
+
+P - Apoio ao investimento em projetos de baixo carbono nas cadeias energéticas e industriais
+Apoio às operações de financiamento do BNDES a projetos de investimento de natureza pública ou privada em práticas,
+infraestruturas e tecnologias de baixo carbono nas cadeias energéticas e industriais.
+
+Categoria de Gasto
+
+Outros
+P- Apoio ao investimento em projetos de baixo
+carbono nas cadeias energéticas e industriais
+Total Geral
+
+Unidade de medida
+-
+US$
+
+-
+
+Meta
+
+-
+0,00
+
+-
+
+Valor
+1.000.000.000,00
+1.000.000.000,00
+
+1.000.000.000,00
+
+% Financeiro
+
+100,00
+100,00
+
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Previamente ao envio desta Carta Consulta, BNDES e BIRD realizaram uma gama de ações que contribuem para execução do Programa
+proposto, quais sejam:
+
+1. Reunião de alinhamento de agendas e identificação de oportunidades de cooperação entre as equipes do BIRD e do BNDES.
+
+2. Assinatura de um MoU entre BNDES e Banco Mundial para cooperação financeira entre as instituições em prol da descarbonização da
+economia brasileira, com foco no hidrogênio de baixo carbono, na COP 28.
+
+3. Reuniões de alinhamento entre as equipes do BNDES e BIRD para definição de itens como o escopo do Programa, o desenho do
+Programa, os arranjos institucionais necessários para a implementação do Programa, as condições financeiras do Programa, o montante
+total do Programa, o apoio técnico do BIRD ao longo do Programa, a busca por recursos concessionais para complementar a operação,
+entre outros.
+
+Ademais, estão em andamento e continuarão a ser realizadas trocas de informações e reuniões de alinhamento periódicas entre as
+equipes do BNDES e do BIRD para viabilizar a robusta preparação do Programa.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Nacional/Sem detalhes
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+-Moeda e valor total: Dólar americano - US$ 1.000.000.000,00 (um bilhão de dólares norte-americanos)
+
+(cid:10)
+(cid:10)
+
+
+Página: 6
+
+-Prazo de desembolso: até 5 anos
+
+-Prazo de carência: até 5 anos
+
+-Prazo de amortização: até 30 anos, em parcelas semestrais
+
+-Prazo total da operação:  até 35 anos
+
+-Taxa de juros: SOFR acrescida de margem, a depender do prazo da operação
+
+- Comissão inicial: 0,25% de comissão inicial (única) incidente sobre o valor da operação a ser paga em 60 dias após a entrada em vigor
+do contrato
+
+- Comissão de compromisso: 0,25% a.a. de comissão de compromisso, incidente sobre os valores não-desembolsados a partir de 60 dias
+após a entrada em vigor do contrato.
+
+- Sobretaxa de exposição: 0,5% a.a. (pode ser aplicada caso o país ultrapasse o limite de exposição previsto pelo BIRD, algo que nunca
+ocorreu).
+
+- Opções de conversão de taxa e moeda disponíveis ao longo da vida do contrato.
+
+Os termos atualizados estão sempre disponíveis em:
+
+https://treasury.worldbank.org/en/about/unit/treasury/ibrd financial products/lending rates
+
+and fees
+
+Nos termos a serem negociados para o Contrato de Financiamento, o BNDES pagará juros semestrais sobre o saldo devedor a partir data
+de desembolso. Por se tratar de um empréstimo com taxa flutuante (SOFR), não é possível estabelecer a priori o custo total efetivo.
+
+Ressalte-se a importância de se manter no Contrato de Financiamento as opções de conversão de moeda e de taxa variável para fixa ou
+de fixa para variável.
+
+Necessidade de financiamento externo e a opção pelo agente financeiro:
+
+Dada a necessidade de volumosos recursos para financiar a descarbonização da economia brasileira, o BNDES ? líder nacional em
+financiamento de alternativas de baixo carbono - optou por diversificar seu funding, captando recursos junto ao BIRD, para complementar
+suas iniciativas de financiamento de atividades de baixo carbono. A escolha se deve a uma gama de motivos, dentre os quais se
+destacam a expertise técnica e experiência global da instituição com o financiamento e acompanhamento de projetos focados em
+tecnologias de baixo carbono, como energias renováveis, mitigação de emissões industriais, o hidrogênio de baixo carbono, e a
+eletrificação. Não menos importantes são as condições financeiras competitivas apresentadas pelo BIRD.
+
+O suporte técnico de experts do Banco Mundial ao longo da consecução do Programa é algo que o distingue de outras alternativas de
+financiamento, e será de grande valia para a execução bem-sucedida de um Programa que envolve indústrias nascentes e tecnologias de
+fronteira. Neste tópico, inclusive, o BIRD já está desenvolvendo projetos em parceria com o Governo Federal e outras instituições em
+temas correlatos ao atual, como hidrogênio de baixo carbono, modernização e expansão de energias renováveis, mobilidade elétrica,
+entre outros.
+
+Já as condições financeiras do empréstimo são atrativas quando comparadas às alternativas de mercado, ainda mais quando se
+considera os longos prazos de amortização e carência oferecidos. Além disso, o BIRD pretende financiar este programa por meio do
+instrumento altamente flexível, denominado Investment Project Financing - IPF, cujos desembolsos acontecem fracionados, com
+montantes para viabilizar a execução das ações à medida que as ações forem sendo cumpridas e verificadas. Tais ações e montantes
+serão refinados e ajustados durante a preparação.
+
+A isso se soma a possibilidade de acessar recursos concessionais e não-reembolsáveis de fundos internacionais para complementar o
+atual Programa, como os Fundos de Investimento Climático (CIF, da sigla em inglês), diversificando e reduzindo ainda mais o custo de
+captação do BNDES. Tais recursos só são acessíveis via Bancos de Desenvolvimento Multilaterais. O BIRD se compromete a buscar
+oportunidades de acessar recursos concessionais para complementar o presente Programa. Caso haja disponibilidade de recursos
+adicionais para complementar o presente Programa, estes serão objeto de Carta(s) Consulta(s) específica(s) a ser(em) submetida(s),
+oportunamente, à apreciação da COFIEX.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+Os beneficiários diretos dos projetos são as empresas que atuam nos diferentes segmentos das cadeias de valor energéticas e industriais
+de baixo carbono.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 7
+
+De maneira indireta, o principal beneficiário do Programa será a sociedade brasileira como um todo, como resultado de investimentos
+verdes que deverão fomentar o desenvolvimento econômico, a criação de empregos, bem como a melhoria da qualidade ambiental, à
+medida que os projetos permitem a implantação de sistemas mais eficientes pelo uso de tecnologias mais modernas, contribuindo para a
+transição verde da economia brasileira. A decorrente redução do uso de combustíveis fósseis leva não só a uma redução de gases e
+partículas nocivas à saúde humana, contribuindo assim para melhoria das condições do ar e da água e, dessa maneira, para a saúde da
+população em geral, como também à redução das emissões de gases de efeito- estufa. Sendo assim, em última instância, pode-se
+considerar beneficiária indireta do Programa a população global como um todo, à medida em que este contribui para a mitigação da
+mudança global do clima.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Externas
+
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+Total:
+
+Sigla
+
+BIRD
+
+Moeda
+
+Valor Proposto
+
+US$
+
+1.000.000.000,00
+
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+1.000.000.000,00
+
+1.000.000.000,00
+
+1.000.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+Arranjo institucional: O Mutuário deste Programa será o BNDES. Esta é a instituição responsável pelas ações necessárias relativas à
+alocações de recursos necessários para execução do Programa. O BIRD liberará recursos ao BNDES para a consecução dos
+investimentos do Programa apresentado nesta carta consulta. A UNIÃO, por meio da Secretaria do Tesouro Nacional ? STN, passará a
+ser garantidora da nova operação. Além disso, o BNDES será responsável por cumprir todos os termos e obrigações derivadas do
+Contrato de Empréstimo a ser celebrado com o BIRD.
+
+Arranjo operacional: O custo total do Programa é de US$ 1.000.000.000,00 (um bilhão de dólares norte-americanos), originados de
+financiamento externo do BIRD
+
+A formalização do contrato entre BNDES e BIRD ocorrerá após a conclusão do processo de negociação entre as partes, incluindo os
+órgãos governamentais competentes.
+
+O Programa será executado mediante solicitações de desembolso a serem apresentadas pelo BNDES. As propostas serão elaboradas
+pelo BNDES e avaliadas pelo BIRD tomando como base as elegibilidades constantes do contrato de empréstimo. O BIRD avaliará a
+adequação dos projetos apresentados conforme as regras contratuais a serem acordadas entre as partes. Dessa forma, a carteira de
+projetos a serem financiados e os critérios a serem utilizados no âmbito deste Programa serão definidos conjuntamente com o BIRD. Os
+projetos apresentados ao BIRD serão aqueles que farão parte da carteira do BNDES e que satisfaçam os critérios conjuntamente
+acordados.
+
+Todas as operações são submetidas ao rito de análise ordinário do BNDES pertinente às operações dos segmentos elegíveis e estão
+sujeitas ao cumprimento das condições estipuladas em suas normas e regras internas. Vale ressaltar que o BNDES já realiza
+habitualmente operações que se enquadram nas necessidades do Programa em tela. Deste modo, o acompanhamento e monitoramento
+das operações parte do Programa também manterão os processos habitualmente adotados pelo BNDES.
+
+O BNDES concederá os empréstimos aos sub-mutuários e, uma vez que o BIRD concorde em financiar determinados projetos, os
+recursos do BIRD serão desembolsados diretamente para o BNDES.
+
+Em relação ao fluxo de aprovação nas diversas instâncias do BNDES, a aprovação deste Programa será submetida à apreciação da
+Diretoria do BNDES após a conclusão das negociações formais com o BIRD e com os demais órgãos governamentais responsáveis,
+seguindo o rito de concessão de garantia soberana.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Banco Nacional de Desenvolvimento Econômico e Social - BNDES
+
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+Fax:
+UF:
+
+(cid:10)
+(cid:10)
+
+
+Página: 8
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 4 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+C - APOIO AO INVESTIMENTO EM PROJETOS DE BAIXO CARBONO NAS CADEIAS ENERGÉTICAS E INDUSTRIAIS
+
+COMPONENTES
+
+P - Apoio ao investimento em projetos de baixo carbono nas cadeias energéticas e industriais
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - APOIO AO INVESTIMENTO EM PROJETOS DE BAIXO CARBONO NAS CADEIAS ENERGÉTICAS E INDUSTRIAIS
+
+P - Apoio ao investimento em projetos de baixo carbono nas cadeias energéticas e industriais
+
+COMPONENTES
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - APOIO AO INVESTIMENTO EM PROJETOS DE BAIXO CARBONO NAS CADEIAS ENERGÉTICAS E INDUSTRIAIS
+
+P - Apoio ao investimento em projetos de baixo carbono nas cadeias energéticas e industriais
+
+COMPONENTES
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - APOIO AO INVESTIMENTO EM PROJETOS DE BAIXO CARBONO NAS CADEIAS ENERGÉTICAS E INDUSTRIAIS
+
+COMPONENTES
+
+P - Apoio ao investimento em projetos de baixo carbono nas cadeias energéticas e industriais
+
+Total
+
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+VALOR
+
+CUSTO
+1.000.000.000,
+1.000.000.000,
+0,00
+
+Ano 1
+
+FONTES
+
+BIRD
+250.000.000,00
+
+250.000.000,00
+
+TOTAL
+
+BIRD
+
+250.000.000,00
+
+0,00
+
+Ano 2
+
+FONTES
+
+BIRD
+250.000.000,00
+
+250.000.000,00
+
+TOTAL
+
+BIRD
+
+0,00
+
+250.000.000,00
+
+0,00
+
+Ano 3
+
+FONTES
+
+BIRD
+250.000.000,00
+
+250.000.000,00
+
+TOTAL
+
+BIRD
+
+0,00
+
+250.000.000,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+VALOR
+
+CUSTO
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+BIRD
+250.000.000,00
+
+250.000.000,00
+
+250.000.000,00
+
+TOTAL
+
+BIRD
+1.000.000.000,
+1.000.000.000,
+1.000.000.000,
+
+1.000.000.000,
+
+O principal ato legal necessário à execução do Programa é a assinatura do contrato referente ao IPF entre o BNDES e o BIRD, com
+participação da União enquanto garantidor soberano. Todos os demais riscos das operações de financiamento do BNDES aos sub-
+mutuários são assumidos diretamente pelo BNDES, não sendo repassados ao BIRD. Ademais, cabe ressaltar que, como já mencionado,
+as análises dos projetos serão feitas em conformidade com as normas internas já desenvolvidas do BNDES, aplicáveis a todas as
+operações de mesma natureza.
+
+Quanto à assinatura do contrato entre BIRD e BNDES, alguns passos de mitigação de eventuais riscos já foram tomados, como a
+assinatura do um Memorando de Entendimento (MoU, da sigla em inglês) entre as partes durante a COP 28 (28ª Conferência das Partes
+das Nações Unidas Sobre Mudança do Clima), e diversas reuniões de alinhamento entre as equipes das duas instituições. Tais reuniões
+seguirão ocorrendo como medida de mitigação de riscos. Sendo assim, tal risco é visto como baixo.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+Eventuais de riscos de contratações com os sub-mutuários finais são avaliados pelo BNDES, que tem extensa expertise para tal em
+conformidade com suas políticas internas existentes. Ademais, não há previsão de contratação de pessoal para a execução das atividades
+do Programa. Note-se que, no Programa proposto, considerando que em alguns dos setores elegíveis, os sub-projetos poderão estar em
+estágio de maturidade ainda incipiente, BNDES e BIRD poderão trabalhar conjuntamente no fomento e apoio à estruturação dos projetos,
+inclusive por meio de cooperação técnica, visando o desenvolvimento de um pipeline robusto e a mitigação de tal risco.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Esse risco não é relevante para o presente Programa, pois é assumido pelo sub-mutuário. Adicionalmente, destaca-se que o BNDES não
+financia os gastos com desapropriações e exige aos sub-mutuários que haja fontes disponíveis para esse uso.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+O Programa apoiará projetos de investimento sujeitos à classificação socioambiental e à adoção de medidas mitigatórias estabelecidas em
+seus respectivos processos de licenciamento ambiental. O BNDES está estruturado e em permanente aperfeiçoamento para gerenciar
+adequadamente estes riscos.
+
+(cid:10)
+
+
+Página: 9
+
+O BNDES e o BIRD acordarão os procedimentos de avaliação e gestão socioambiental dos subprojetos apoiados no âmbito desse
+empréstimo. O BIRD utiliza como referência sua própria política para a análise e gerenciamento dos riscos socioambientais e, caso se
+encontre alguma lacuna relevante, BNDES e BIRD acordarão critérios adicionais específicos. Entretanto, não são esperadas lacunas/
+divergências relevantes, considerando que as políticas de ambas as instituições são bastante criteriosas nesse tema.
+
+Como fator de mitigação de eventuais riscos ambientais, durante as negociações e preparação do Programa estão previstas reuniões e
+visitas técnicas entre as equipes ambientais de ambas as instituições, de modo a alinhar e adequar a avaliação e gestão socioambiental
+do Programa. Tal alinhamento e interação entre equipes faz parte dos ritos do BIRD antes da assinatura do contrato entre as Partes.
+
+Ademais, ainda que o impacto específico dependa dos sub-projetos apoiados, de maneira geral é esperado impacto ambiental positivo a
+partir da implementação do Programa ora proposto, com redução da poluição local e das emissões de gases de efeito estufa em virtude
+do menor consumo de combustíveis fósseis, da adoção tecnologias e processos industriais mais sustentáveis, entre outros.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+Em princípio, não está previsto apoio a projetos em áreas indígenas ou de populações tradicionais. Como mencionado no item anterior,
+BNDES e BIRD possuem criteriosas normas socioambientais e os procedimentos para a avaliação e gestão socioambiental dos projetos
+apoiados no âmbito do Programa proposto serão acordados na etapa de estruturação do Programa, sendo estes fatores mitigadores de
+riscos socioambientais.
+
+Ademais, ainda que o impacto específico dependa dos sub-projetos apoiados, de maneira geral é esperado impacto social positivo, com a
+criação de empregos e geração de renda em virtude dos investimentos realizados, bem como a redução da poluição do ar pela redução na
+queima de combustíveis fósseis.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Esse risco não é relevante para o presente Programa, pois é assumido pelo sub-mutuário. De toda maneira, a necessidade e implicações
+para a implementação dos projetos será objeto de análise e adoção de medidas mitigadoras que serão especificamente pactuadas.
+
+O Programa está sujeito ao risco de demanda. No entanto, no momento dessa proposição avalia-se este risco como sendo baixo, uma vez
+que os recursos do Programa se destinam a atividades tradicionais da carteira do BNDES ou, nos casos em que atividades inovadoras
+estão envolvidas, estas têm boas perspectivas de mercado no país, como a cadeia de valor do hidrogênio de baixo carbono. Como
+mencionado anteriormente, o volume consultas e aprovações entre 2022 e 2023 cresceu, respectivamente, 88% e 32%, indicando assim
+um fluxo contínuo de operações de financiamento para os próximos anos.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)
+(cid:10)
+(cid:10)

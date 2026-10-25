@@ -1,0 +1,1771 @@
+# Carta-Consulta CC_60905 — Versao 2 (SIGS)
+
+
+Segurança Hídrica e Garantia do Abastecimento para o Município de Campinas no Estado
+de São Paulo
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 60905
+Processo: 12120.100402/2022-40
+Mutuário: Sociedade de Abastecimento de Água e Saneamento S/A - SANASA Campinas
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  1 de Julho de 2022
+
+Fontes Externas:
+Corporação Andina de Fomento - CAF: US$ 233.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+O município de Campinas, situado na região noroeste do Estado de São Paulo, distando 99 km da capital do Estado, possui uma área de
+794,571 km2 e abriga uma população de 1.223.237 habitantes (IBGE 2021), sendo a sede da Região Metropolitana de Campinas. É o
+décimo quarto município mais populoso do País e o terceiro em relação ao Estado. Segundo o IBGE (2019), gerou um Produto Interno
+Bruto - PIB de R$ 65,9 bilhões, representando o décimo em relação ao País e o terceiro no Estado de São Paulo.
+
+A Sociedade de Abastecimento de Água e Saneamento S.A. - SANASA é uma sociedade de economia mista de capital aberto e sem
+ações negociáveis e sua finalidade é planejar, executar, fiscalizar, operar e manter os serviços públicos e privados de saneamento básico
+no Município de Campinas.
+
+O abastecimento de água do município de Campinas é realizado a partir das captações de água, a fio d´água, diretamente Rios Atibaia (
+98,6%) e Capivari (1,4%).
+
+A ONU - Organização das Nações Unidas - preconiza que regiões com disponibilidade hídrica inferior a 1.000 m3/hab.ano encontram-se
+em nível de escassez hídrica, nesse sentido, ressaltamos que o Sistema Cantareira, principal responsável pelo aporte de água para o rio
+Atibaia, chegou a uma disponibilidade hídrica média em 2012 de 1.041 m³/hab.ano e, nos anos de 2014 e 2015, quando ocorreu uma
+severa crise hídrica em toda a região Sudeste do País, essa disponibilidade foi de apenas 408 m³/hab.ano.
+
+O Rio Capivari, segundo manancial do município de Campinas, também apresentou uma disponibilidade hídrica no período de apenas 400
+m³/hab.ano.
+
+Buscando alternativas para amenizar a escassez hídrica característica da região, a SANASA implementou, dentre outras ações, o
+Programa de Controle de Perdas que visava maior eficiência e sustentabilidade ao sistema. O Índice de Perdas na Distribuição que era de
+37,7% em 1994 e foi reduzido a 20,57% no ano de 2021. Essa redução permitiu diminuir o volume de água captado, sendo possível
+garantir o abastecimento do município inclusive com o incremento populacional de aproximadamente 350 mil habitantes no período de
+1994 a 2021. O Volume captado em 1994 era de 116,5 bilhões de litros e em 2021 foram captados 108,7 bilhões de litros, ou seja, mesmo
+com crescimento populacional da ordem de 41%. Caso não houvesse nenhuma ação da SANASA nesse período, o volume necessário a
+ser captado para o abastecimento do município seria de 164,5 bilhões de litros, ou seja, obtivemos uma redução no volume captado de 66,
+1% .
+
+Este cenário demonstra que, muito embora, o município de Campinas esteja investindo em ações que estimulem o seu desenvolvimento
+sendo um município de elevado PIB participando entre as 10 maiores economias do país com IDH/IDHM de 0,805 (CENSO, 2010) e sua
+região metropolitana figurando como um importante eixo econômico do estado de São Paulo e do Brasil, necessita de ações que
+proporcionem autonomia hídrica ao município, principalmente caso se verifique um novo período de escassez, conforme verificado durante
+a crise hídrica de 2014 e 2015. Destaca-se que houve uma redução acentuada da Vazão Natural que aflui até o Sistema Cantareira e que
+o volume do Sistema iniciou o ano de 2021 com 36,23% e encerrou o ano com 24,85%, essa informação é agravada pelo volume de
+chuvas verificado na região ano a ano, no ano de 2021 foi totalizado um volume de apenas 997 mm no município de Campinas, volume
+esse muito próximo do verificado no ano de 2014.
+
+Em razão desse quadro, verificamos a necessidade de investimentos em novo sistema produtor de água, resultando nas obras proposta
+que tem como objetivos o aumento da segurança hídrica para o município de Campinas, reduzindo a dependência do rio Atibaia e,
+consequentemente, do Sistema Cantareira, viabilizando a interligação de bacias hidrográficas. Esta solução se consolida aos estudos em
+desenvolvimento para a utilização das represas de Pedreira e Duas Pontes, permitindo a integração ao Sistema Adutor Regional do PCJ,
+com a captação de água feita diretamente na Represa de Pedreira, o que proporcionará a adoção de um novo manancial estratégico para
+o município de Campinas, bem como uma maior flexibilidade operacional ao sistema de abastecimento de água. Esse sistema será
+integrado ao sistema produtor Atibaia, com as demais obras constantes da proposta, que juntas proporcionarão autonomia ao município
+de Campinas para o abastecimento da população residente, bem como ao crescimento previsto.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+SOLUÇÃO PROPOSTA
+
+A proposta apresentada é formada por cinco componentes, que funcionarão de forma integrada.
+
+COMPONENTE 1: NOVO SISTEMA ADUTOR DO RIO JAGUARI
+
+Esta obra tem como finalidade proporcionar a garantia de atendimento à população de Campinas, permitindo uma redução significativa da
+dependência do Sistema Cantareira, o qual encontra-se muito comprometido, conforme já descrito no Diagnóstico, com uma séria
+preocupação de ocorrência de nova crise hídrica na região sudeste do Brasil, em especial as bacias do PCJ e Alto Tietê, vinculadas a
+esse Sistema.
+
+A obra permitirá ainda o atendimento dos novos empreendimentos contratados, com demanda prevista de 900,4 L/s, para os próximos 5
+anos. Além destes, a SANASA foi consultada por outros 1.110 empreendedores para implantação de novas unidades comerciais,
+industriais e residenciais, que totalizam 2.700,07 L/s.
+
+
+Página: 3
+
+O projeto prevê a execução de uma captação flutuante na Represa de Pedreira, uma adutora de recalque de água bruta com 7,5 km de
+extensão e 1.000 mm de diâmetro, uma Estação de Tratamento de Água - ETA 5, para 2.000 L/s e uma subadutora de água tratada com
+16 km de extensão e 1.000 mm de diâmetro, que interligará o Sistema Produtor Jaguari ao Sistema Atibaia, no Centro de Reservação e
+Distribuição PUCC.
+
+COMPONENTE 2: ESTUDO DE OTIMIZAÇÃO DO SISTEMA DE ABASTECIMENTO
+
+O Plano deverá avaliar alternativas economicamente viáveis para o atendimento das demandas futuras, visando atrair empreendimentos
+de porte, com horizonte de planejamento de 30 anos, em conformidade com as metas estabelecidas pelo Plano Municipal de Saneamento
+Básico. Estes estudos contemplarão a avaliação dos potenciais usos dos efluentes das Estações Produtoras de Água de Reuso, a
+avaliação das unidades existentes de abastecimento, propondo ações para sua adequação visando maior flexibilidade e otimização
+operacional.
+
+COMPONENTE 3: SUBADUTORA NORTE III
+
+Execução de uma subadutora que interligará as ETAs 3 e 4 ao Centro de Reservação e Distribuição do Taquaral, obra a ser executada em
+aço, com 1.000 mm de diâmetro e 8 km de extensão.
+
+Esta adutora tem por objetivo atender às expectativas de expansão urbana, proporcionando uma melhor condição de escoamento da
+produção de água das ETAs 3 e 4, permitindo o escoamento de 800 L/s e o alívio da Subadutora Central, em operação há cerca de 30
+anos, e do Macroanel Central.
+
+COMPONENTE 4: MODERNIZAÇÃO E OTIMIZAÇÃO DA ETA 2
+
+As ETAs 1 e 2 foram implantadas em 1936 e 1961, respectivamente, funcionando de forma conjunta, com capacidade de tratamento para
+650 L/s, com processo de tratamento convencional.
+
+A modernização proposta prevê a ampliação da vazão tratada de 650 L/s para 1.000 L/s, sendo prevista a manutenção das estruturas da
+fase de clarificação da ETA 2, com as devidas modificações necessárias para o atendimento incremental da vazão, substituição do
+sistema de filtração atual de areia por sistema de filtração por membranas de ultrafiltração, uma estrutura de equalização de resíduos
+provenientes dessa planta e encaminhamento até um emissário próximo ao site, e um tanque de contato para o recebimento e distribuição
+de toda a produção de água tratada.
+
+COMPONENTE 5: SUBSTITUIÇÃO DE REDES
+
+Execução de 237 km de redes em PEAD - Polietileno de Alta Densidade, em substituição às existentes, implantadas nas décadas de 60 e
+70, que apresentam desgastes naturais devidos ao tempo de utilização, tornando vulnerável o abastecimento da população atendida,
+principalmente em razão do alto índice de rompimentos e paralizações no fornecimento de água. A substituição destas tubulações
+recuperará a rede de distribuição de água, proporcionando a estanqueidade das tubulações. Esta melhoria no sistema eliminará ruptura,
+por fadiga do material cimento amianto, e a interrupção no fornecimento para manutenção corretiva, reduzindo o volume de perda de água
+.
+
+RESULTADOS ESPERADOS:
+
+A solução proposta tem como objetivos o aumento da segurança hídrica para o município de Campinas, reduzindo a dependência do rio
+Atibaia e, consequentemente, do Sistema Cantareira, viabilizando a interligação de bacias hidrográficas. Esta solução se consolida aos
+estudos em desenvolvimento para a utilização das represas de Pedreira e Duas Pontes, permitindo a integração ao Sistema Adutor
+Regional do PCJ, com a captação de água feita diretamente na Represa de Pedreira, o que proporcionará a adoção de um novo
+manancial estratégico para o município de Campinas, bem como uma maior flexibilidade operacional ao sistema de abastecimento de
+água. O projeto foi delineado de forma a integrar todo o sistema de abastecimento de água, resultando na garantia do abastecimento da
+população de Campinas, com a redução da dependência do Sistema Cantareira, em razão do aporte de 2.000 L/s do rio Jaguari. O novo
+sistema produtor será integrado ao sistema de distribuição existente, o qual será otimizado, com a modernização da ETA 2, a construção
+de uma nova subadutora - Subadutora Norte III e a substituição de 237 km de redes por tubulações em PEAD. A atualização do Plano
+Diretor de Abastecimento permitirá a consolidação destas ações com a adequação e proposta de melhorias para o sistema como um todo.
+
+O Novo Sistema Adutor do Jaguari proporcionará uma redução das paradas no sistema de captação de água em 50%, garantindo assim o
+abastecimento da população, esse resultado será acompanhado através do indicador que acompanha o volume de água que deixa de ser
+aduzido. Já os demais componentes, de forma integrada, resultarão na otimização do sistema, o que será acompanhado através do
+indicador que monitora o número de manutenções corretivas de redes, a previsão é de que esse indicador resulte numa redução de 20%
+das manutenções corretivas.
+
+SUSTENTABILIDADE:
+
+O projeto como um todo será acompanhado pelas equipes técnicas da SANASA, que já dispõem de pessoal próprio para as diversas
+etapas de implantação (processos licitatórios, licenciamentos ambientais, controle e acompanhamento de serviços e obras, etc.) e
+operação, sendo as obras inseridas no Centro de Controle Operacional - CCO, existente para controle e acompanhamento das unidades
+do sistema de abastecimento, o qual funciona de forma automatizada, com equipamentos que enviam as informações para uma central de
+controle responsável pelo acompanhamento de todo o sistema.
+
+
+Página: 4
+
+Todos os projetos desenvolvidos já incluem sistema de telemetria que permitem o acompanhamento e monitoramento em tempo real.
+
+Não será necessária a contratação de mão de obra adicional para a operação, monitoramento e controle das obras previstas no projeto.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+O projeto proposto está inserido no Plano Plurianual do Município de Campinas, Lei n. 16.180, de 28 de dezembro de 2021, o qual está
+incluído no presente como ANEXO 7. O Plano aprovou o orçamento para o município para o quadriênio de 2022 a 2025. As obras que
+compõem a presente proposta estão inseridas nas seguintes ações:
+
+Ação 263/P - Segurança Hídrica, onde constam as obras relativas à Componente 1 - Novo Sistema Adutor Jaguari;
+
+Ação 259/P - Desenvolvimento de Projetos e Serviços para Viabilização de Obras - Componente 2 - Estudo de Otimização do Sistema de
+Abastecimento;
+
+Ação 261/P - Componente 3 - Subadutora Norte III;
+
+Ação 262/P - Otimização e Melhorias nas Captações e Estações de Tratamento de Água - Componente 4 - Modernização e Otimização da
+ETA 2; e
+
+Ação 265/P - Redução e Controle de Perdas Físicas na Distribuição de Água - Componente 5 - Substituição de Redes.
+
+O PPA está incluído no Anexo 7.
+
+O ANEXO 18 apresenta a Declaração do Chefe do Poder Executivo do Município de Campinas, Prefeito Dário Jorge Giolo Saadi, referente
+à Operação de Crédito para o presente projeto, na qual declara a inclusão das ações tanto no Plano Plurianual, quanto na Lei
+Orçamentária Anual - LOA, do Município de Campinas.
+
+CONTRAPARTIDA:
+
+A SANASA é uma empresa de economia mista da administração indireta do Município de Campinas/SP.
+
+O Projeto aqui proposto não prevê contrapartida, ou seja, será 100% financiado com recursos externos da CAF.
+
+TAXA DE CÂMBIO:
+
+A Taxa de câmbio aditada tomou como base a data de 10/06/2022 - 1US$ = R$ 5,066.
+
+2. Projeto
+
+### 2.1. Título
+
+
+Segurança Hídrica e Garantia do Abastecimento para o Município de Campinas no Estado de São Paulo
+
+
+### 2.2. Título Abreviado
+
+
+Segurança Hídrica para o Município de Campinas/SP
+
+
+### 2.3. Mutuário
+
+
+Sociedade de Abastecimento de Água e Saneamento S/A - SANASA Campinas
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+OBJETIVO GERAL:
+
+A solução proposta tem como objetivos o aumento da segurança hídrica para o município de Campinas, reduzindo a dependência do rio
+Atibaia e, consequentemente, do Sistema Cantareira, viabilizando a interligação de bacias hidrográficas. Ressaltamos, conforme já
+descrito no Diagnóstico, que o Sistema Cantareira encontra-se seriamente comprometido, com índices semelhantes aos verificados
+durante a Crise Hídrica de 2014-2015, o que, caso venha a ocorrer novamente, afetará drasticamente as bacias hidrográficas do
+Piracicaba, Capivari e Jundiaí e do Alto Tietê.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+Esta solução se consolida aos estudos em desenvolvimento para a utilização das represas de Pedreira e Duas Pontes, permitindo a
+integração ao Sistema Adutor Regional do PCJ, com a captação de água feita diretamente na Represa de Pedreira, o que proporcionará a
+adoção de um novo manancial estratégico para o município de Campinas, bem como uma maior flexibilidade operacional ao sistema de
+abastecimento de água.
+
+O Projeto proporcionará a garantia do abastecimento para o município de Campinas / SP, com o atendimento das demandas futuras e a
+redução de volumes perdidos, resultantes de paradas na captação de água, bem como das manutenções corretivas e problemas
+operacionais no sistema de distribuição de água.
+
+O Objetivo Geral do presente Projeto é a Segurança Hídrica para o Município de Campinas / SP, garantindo assim, o enfrentamento a
+novas possíveis situações de escassez hídrica, sem afetar o abastecimento da população.
+
+OBJETIVOS ESPECÍFICOS:
+
+O Novo Sistema Adutor do Jaguari proporcionará uma redução das paradas no sistema de captação de água em 50%, garantindo assim o
+abastecimento da população, esse resultado será acompanhado através do indicador que acompanha o volume de água que deixa de ser
+captado em razão das paradas da captação.
+
+Já os demais componentes, de forma integrada, resultarão na otimização do sistema, o que poderá ser acompanhado com o indicador que
+monitora o número de manutenções corretivas de redes, a previsão é de que esse indicador resulte numa redução de 20% das
+manutenções corretivas.
+
+
+### 2.6. Projeto/Indicadores
+
+
+Descrição
+Volume de Água Bruta não Aduzida por
+Interrupção na Captação - VNA - ANEXO 45
+
+Índice de Manutenção Corretiva de Água - IMCA
+- ANEXO 46
+
+m3/ano
+
+Fórmula de Cálculo Unidade de Medida
+Produto da
+multiplicação da
+vazão de captação de
+água bruta registrada
+no momento de cada
+interrupção pela
+duração desta
+interrupção.
+Quantidade de
+manutenções
+corretivas nas redes,
+por ano
+
+Qtde. de
+manutenções/ano
+
+Linha de Base
+349.177,00
+
+Meta
+175.000,00
+
+1.800,00
+
+1.400,00
+
+
+### 2.7. Projeto/Componentes
+
+
+Componentes
+C - SISTEMA PRODUTOR JAGUARI PARA O MUNICÍPIO DE CAMPINAS
+S -  CAPTAÇÃO DE ÁGUA BRUTA
+P - Captação e Elevatória de Água Bruta
+S -  ADUTORA DE RECALQUE
+P - Adutora de Recalque
+S - ESTAÇÃO DE TRATAMENTO DE ÁGUA - ETA 5
+P - ETA 5
+S - SUBADUTORA DE ÁGUA TRATADA
+P - Subadutora de Água Tratada
+C - ESTUDO DE OTIMIZAÇÃO DO SISTEMA DE ABASTECIMENTO DE ÁGUA DO MUNICÍPIO
+S - ESTUDO DE OTIMIZAÇÃO DO SISTEMA DE ABASTECIMENTO
+P - Estudo de Otimização do Sistema de Abastecimento
+C - SUBADUTORA NORTE III
+P - Subadutora Norte III
+C - MODERNIZAÇÃO E OTIMIZAÇÃO DA ETA 2
+P - Modernização e Otimização da ETA 2
+C - SUBSTITUIÇÃO DE REDES
+S - SUBSTITUIÇÃO DE REDES
+P - Substituição de Redes
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Valor(US$)
+135.000.000,00
+8.000.000,00
+8.000.000,00
+15.000.000,00
+15.000.000,00
+80.500.000,00
+80.500.000,00
+31.500.000,00
+31.500.000,00
+5.000.000,00
+5.000.000,00
+5.000.000,00
+12.000.000,00
+12.000.000,00
+40.000.000,00
+40.000.000,00
+41.000.000,00
+41.000.000,00
+41.000.000,00
+233.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - SISTEMA PRODUTOR JAGUARI PARA O MUNICÍPIO DE CAMPINAS
+Execução do Novo Sistema Produtor Jaguari para o Município de Campinas, que permitirá o aporte de 2m3/s a partir do rio Jaguari
+, para o
+
+
+Página: 6
+
+S -  CAPTAÇÃO DE ÁGUA BRUTA
+Captação de água bruta na represa de Pedreira, no rio Jaguari, para 2 m3/s.
+
+P - Captação e Elevatória de Água Bruta
+Execução de uma Captação de água Bruta e estação elevatória para 2 m3/s, incluindo conjuntos moto bomba, barriletes de sucção
+e recalque, casa de bombas e edificações complementares, subestação para 138 kva, proteção contra transientes hidráulicos, e
+unidades e serviços complementares.
+
+S -  ADUTORA DE RECALQUE
+Adutora de Recalque de água bruta, com 7.500 m de extensão e 1.000 mm de diâmetro
+
+P - Adutora de Recalque
+Execução de adutora de recalque com 7.500 m de extensão e 1.000 mm de diâmetro, em aço soldado.
+
+S - ESTAÇÃO DE TRATAMENTO DE ÁGUA - ETA 5
+Execução de uma Estação de Tratamento de Água - ETA 5, para 2m3/s, em dois módulos de 1 m3/s cada.
+
+P - ETA 5
+Execução de uma Estação de Tratamento de Água - ETA 5, para 2,0 m3/s, com membranas filtrantes, reservatório Pulmão, com 4
+módulos de 6.000 m3 cada, subestação e linha de alimentação, incluindo unidades e serviços complementares.
+
+S - SUBADUTORA DE ÁGUA TRATADA
+Execução de Subadutora de Água Tratada com 16.000 m de extensão e 1.000 mm de diâmetro.
+
+P - Subadutora de Água Tratada
+Execução de uma Subadutora de Água Tratada, com 16.000 m de extensão e 1.000 mm de diâmetro, em aço soldado, incluindo
+unidades e serviços complementares.
+
+C - ESTUDO DE OTIMIZAÇÃO DO SISTEMA DE ABASTECIMENTO DE ÁGUA DO MUNICÍPIO
+Elaboração de um Estudo de Otimização do Sistema de Abastecimento de Água para o município de Campinas, contemplando as
+alternativas e soluções para atendimento ao acréscimo de demanda para os próximos 30 anos, a avaliação dos potenciais usos
+dos efluentes das Estações Produtoras de Água de Reúso do município e a avaliação das unidades existentes, propondo ações
+para sua adequação, visando maior flexibilidade e otimização operacional.
+
+S - ESTUDO DE OTIMIZAÇÃO DO SISTEMA DE ABASTECIMENTO
+Atualização do Plano Diretor de Abastecimento de Campinas, contemplando, além do atendimento às novas demandas do Plano
+Diretor Estratégico de Campinas, aprovado em janeiro/2018, o reuso de efluentes provenientes das Estações Produtoras de Água
+de Reuso, com avaliação dos potenciais usos; a adequação dos sistemas existentes, visando a otimização e flexibilidade
+operacional; a readequação dos setores de abastecimento de água e; a avaliação das unidades de abastecimento do sistema.
+
+P - Estudo de Otimização do Sistema de Abastecimento
+Elaboração de um Estudo para Otimização do Sistema de Abastecimento de Água para o município de Campinas, contemplando a
+integração do Novo Sistema Produtor Jaguari ao Sistema Produtor Atibaia, existente, bem como estudar o atendimento às novas
+demandas do Plano Diretor Estratégico de Campinas, aprovado em janeiro/2018, o reuso de efluentes provenientes das Estações
+Produtoras de Água de Reuso, com avaliação dos potenciais usos; a adequação dos sistemas existentes, visando a otimização e
+flexibilidade operacional; a readequação dos setores de abastecimento de água e; a avaliação das unidades de abastecimento do
+sistema.
+
+C - SUBADUTORA NORTE III
+Execução de uma subadutora que interligará as ETAs 3 e 4 ao Centro de Reservação e Distribuição do Taquaral, com extensão de
+8.000 m e 1.000 mm de diâmetro, em aço.
+
+P - Subadutora Norte III
+Execução de uma subadutora que interligará as ETAs 3 e 4 ao Centro de Reservação e Distribuição do Taquaral, com extensão de
+8.000 m e 1.000 mm de diâmetro, em aço.
+
+C - MODERNIZAÇÃO E OTIMIZAÇÃO DA ETA 2
+Execução de obras e serviços para a modernização e otimização da ETA 2, prevendo o aumento da capacidade de tratamento de
+650 L/s para 1.000 L/s.
+
+P - Modernização e Otimização da ETA 2
+Execução de obras e serviços para a modernização e otimização da ETA 2, com a finalidade de aumentar sua capacidade de
+tratamento de 650 L/s para 1.000 L/s e otimizá-la.
+
+C - SUBSTITUIÇÃO DE REDES
+Execução de 237 km de redes em PEAD - Polietileno de Alta Densidade, em substituição às existentes, que se encontram com
+elevado nível de desgaste.
+
+
+Página: 7
+
+S - SUBSTITUIÇÃO DE REDES
+Execução de 237 km de redes em PEAD - Polietileno de Alta Densidade, em substituição às existentes, que se encontram com
+elevado nível de desgaste.
+
+P - Substituição de Redes
+Execução de 237 km de redes em PEAD - Polietileno de Alta Densidade, em substituição às existentes, que se encontram com
+elevado nível de desgaste.
+
+Categoria de Gasto
+
+Obras
+P- Captação e Elevatória de Água Bruta
+P- Adutora de Recalque
+P- ETA 5
+P- Subadutora de Água Tratada
+P- Subadutora Norte III
+P- Modernização e Otimização da ETA 2
+P- Substituição de Redes
+Total Geral
+
+Unidade de medida
+-
+Unidade
+m
+Unidade
+m
+m
+Unidade
+m
+-
+
+Meta
+
+-
+1,00
+7.500,00
+1,00
+16.000,00
+8.000,00
+1,00
+237.000,00
+-
+
+Valor
+
+% Financeiro
+
+228.000.000,00
+8.000.000,00
+15.000.000,00
+80.500.000,00
+31.500.000,00
+12.000.000,00
+40.000.000,00
+41.000.000,00
+233.000.000,00
+
+97,85
+3,43
+6,44
+34,55
+13,52
+5,15
+17,17
+17,60
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Existem estudos básicos e estudos de concepção, os quais foram inseridos como anexos a esta documentação.
+
+A seguir é apresentada uma síntese dessa documentação:
+
+SISTEMA PRODUTOR JAGUARI:
+
+Foi desenvolvido um Estudo de Alternativas para  elaborado o Estudo de Concepção do Sistema Produtor Jaguari, Anexo 21, além deste,
+estão anexados os seguintes documentos referentes a esse documento:
+
+- Layout do Sistema de Captação Projeto CAP - SPJ Fl 000 - ANEXO 22
+
+- Estudo de Concepção Preliminar - Linha de Recalque de Água Bruta - Traçado e Perfil da Linha, com a articulação das folhas 1 a 14 -
+Projeto LR SPJ Folha 000 e Estudo de Concepção Preliminar - Linha de Recalque de Água Bruta - Planta e Perfil por trecho da Linha -
+Projetos LR - SPJ Fls 1/14 a Fl 14/14 - ANEXO 23
+
+- Estação de Tratamento de Água - ETA 5 - Jaguari - Layout de Implantação - Projeto ETA 5 - SPJ Fl 000 - ANEXO 24
+
+Estudo de Concepção Preliminar - Adutora de Água Tratada - Traçado e Perfil da Adutora, com a articulação das folhas 1 a 27 - Projeto
+AAT - SPJ Folha 000 e Estudo de Concepção Preliminar - Adutora de Água Tratada - Planta e Perfil por trecho da Adutora - Projetos AAT -
+SPJ Fls 1/27 a Fl 27/27 - ANEXOS 25, 26 e 27.
+
+Foi realizada uma consulta ao Departamento de Água e Energia Elétrica, Órgão responsável pela análise e emissão de outorgas do uso
+da água para o Estado de São Paulo, o qual se manifestou, por meio da Declaração, ANEXO 19, informando que o projeto será analisado
+no Projeto do Sistema Adutor Regional PCJ-SAR PCJ, que deverá ter início no mês de setembro/2022.
+
+ESTUDO DE OTIMNIZAÇÃO DO SISTEMA DE ABASTECIMENTO DE ÁGUA PARA O MUNICÍPIO DE CAMPINAS/SP:
+
+Termo de Referência para a Contratação do Estudo de Otimização do Sistema de Abastecimento de Água para o Município de Campinas/
+SP - ANEXO 47
+
+SUBADUTORA NORTE III:
+
+Estudo de Concepção Preliminar - Adutora Norte III - Traçado e Perfil da Linha, com a articulação das folhas 1 a 12 - Projeto AAT  NORTE
+III Folha 000 e Estudo de Concepção Preliminar - Adutora Norte III - Planta e Perfil por trecho da Linha - Projetos AAT  NORTE III Fls 1/12
+a Fl 12/12 - ANEXO 29
+
+MODERNIZAÇÃO E OTIMIZAÇÃO DA ETA 2
+
+- Termo de Referência para contratação de projeto e obra para Modernização e Otimização da ETA 2 e Layout da Modernização e
+Otimização da ETA 2 - ANEXO 30
+
+SUBSTITUIÇÃO DE REDES
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 8
+
+Projetos de troca de redes nos seguintes setores:
+
+- Setor Jd. Rossin - Projeto 20130048-001 - ANEXO 31
+
+- Setor Jd. Odila - Projeto 20160020-001 - ANEXO 32
+
+- Setor Bosque (Proença I) - Projeto 20160108-001 - ANEXO 33
+
+- Setor Botafogo - Projeto 20180010-001 - ANEXO 34
+
+- Setor Bq. Palmeira - Projeto 20180285-001 - ANEXO 35
+
+- Setor Novo C. Elísios - Projeto 20180285001 - ANEXO 36
+
+- Setor Paineiras - Projeto 20200034-001 - ANEXO 37
+
+- Setor Costa e Silva - Projeto 20200127-001 - ANEXO 38
+
+- Setor Nova Campinas II - Projeto 20200138-001 - ANEXO 39
+
+- Setor Roseira - Projeto 20200148-001 - ANEXO 40
+
+- Setor Miranda - Projeto 2021031-001 - ANEXO 41
+
+- Setor Cambui - ANEXO 42
+
+- Setor Centro - ANEXO 43
+
+- Setor Santa Cândida - ANEXO 44
+
+Esclarecemos ainda que foi emitida uma Declaração do Chefe do Poder Executivo do Município de Campinas, Prefeito Dário Jorge Giolo
+Saadi, ANEXO 18, referente à presente proposta de projetos, declarando que o mesmo encontra-se incluído no Plano Plurianual, bem
+como na Lei Orçamentária Anual - LOA.
+
+Estas obras serão integradas ao projeto de universalização do saneamento, com a finalidade de atender a 100% da população de
+Campinas com abastecimento de água, para tanto, a SANASA Campinas assinou o Contrato 441.917-02, em 26/09/17 - Sistema de
+Abastecimento de Água, no valor de R$ 141.752.733,10, com contrapartida de 10%, para a execução de uma adutora de água bruta, com
+2.700 m de extensão, 6 subadutoras com extensão total de 31.230m , 27 reservatórios, com reservação total de 65.330 m3, 4 estações
+elevatórias de água e implantação de 57.828 m de rede de distribuição e o Contrato 520.217-27, em 23/09/19 - Substituição de Redes, no
+valor de R$ 282.829.578,73, com contrapartida de 5%, para substituição de 423,54 km de redes de água.
+
+Estas obras encontram-se em andamento, sendo o acompanhamento feito por um sistema de gestão que apresenta a evolução das obras
+e serviços.
+
+Esse sistema faz parte do escopo do gerenciamento de obras e apresenta a evolução dos projetos, apontando principais entregas e
+eventos. As informações são disponibilizadas no painel de acompanhamento que apresenta as informações referentes aos processos
+internos para solução das questões relacionadas a documentações técnicas, interferências com concessionárias, licenciamentos, dentre
+outros.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Municipal
+
+MUNICIPIO DE  CAMPINAS(SP)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+(i) As condições financeiras serão mais bem discutidas quando da realização das missões do Banco.
+
+Condições propostas:
+
+-Desembolso: 60 meses
+
+-Carência: 60 meses
+
+-Prazo Total: 216 meses
+
+-Taxa de juros: Sofr de 6 meses + 2%aa (para os 96 primeiros meses, redução do spread de 0,10% ficando Sofr+1,9% aa)
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 9
+
+-Comissão de Compromisso: 0,35%aa sobre o saldo não desembolsado
+
+-       Comissão de financiamento: 0,85% do valor do financiamento pago no 1º desembolso
+
+Moeda de Referência: Dolar americano
+
+(ii)
+
+Para viabilizar os investimentos aqui propostos, a companhia levou em consideração a necessidade de financiamento X a maximização
+dos recursos disponíveis para captação.
+
+Dessa forma, a obtenção de recursos externos, com garantia da União apresentou-se como a opção mais factível dado o volume do
+investimento necessário em contraponto às linhas internas disponíveis para investimento em infraestrutura.
+
+A maior parte dos investimentos da companhia, até o momento, foram financiados com recursos e linhas internas, subsidiadas pelo
+Governo Federal. Tais recursos, na grande maioria, vieram de linhas específicas para o Setor de Saneamento do FGTS, que sempre
+proporcionaram o melhor custo X benefício analisados do ponto de vista de valor, custo, prazo de retorno do financiamento e também,
+prazo para obtenção do recurso.
+
+No entanto, para o projeto aqui apresentado, a Administração da companhia entendeu que devido ao montante de recursos necessários e
+também, para que a companhia maximize os recursos disponíveis para captação de recursos, alinhas externas se tornaram, nesse
+momento, mais favoráveis.
+
+Dessa forma, dentre as instituições internacionais a CAF - Confederação Andina de Fomento, Banco de desenvolvimento comprometido
+em melhorar a qualidade de vida de todos os latino-americanos, com o objetivo de promover o desenvolvimento sustentável e a integração
+da região, se apresentou como uma boa opção aderente às necessidades da companhia.
+
+A CAF possui condições do financiamento de prazo, carência, taxa e principalmente crédito, extremamente atrativos e além disso se
+prontificou a financiar 100% do projeto aqui proposto.
+
+Sua preocupação com o meio ambiente e busca incansável em promover o acesso a serviços básicos para promover a qualidade de vida
+das populações vulneráveis, são pilares presentes na SANASA.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+O projeto visa garantir a oferta água para abastecer a população do município de Campinas, proporcionar a melhoria da qualidade da
+água distribuída e melhoria da segurança hídrica para todo o município.
+
+A população beneficiada é a população do próprio município, 1.223.237 habitantes, conforme IBGE (2021).
+
+As obras propostas permitirão a viabilização de novos empreendimentos, sendo que desde o ano de 2015 até julho de 2021 a SANASA foi
+consultada por 1.314 novos empreendimentos solicitando viabilidade técnica para o atendimento dos mesmos. Estes empreendimentos
+consistem nas seguintes categorias:
+
+- 382 empreendimentos comerciais, com vazões previstas de 520,02 L/s
+
+- 59 empreendimentos industriais, com vazão prevista de 27,45 L/s;
+
+- 27 novos loteamentos, com vazão prevista de 268,95 L/s;
+
+- 846 novos condomínios residenciais, com vazão prevista de 2.784,05 L/s.
+
+Deste total já foram contratados junto à SANASA 204 empreendimentos, com uma vazão total de 900,04 L/s.
+
+Essas unidades permitirão acesso a moradias para cerca de 600.000 pessoas, além da oportunidade de empregos tanto para as unidades
+comerciais quanto para as industriais.
+
+Vale ressaltar que o projeto permitirá a otimização do sistema de abastecimento de água, com a redução de consumo de energia, em
+razão da adequação dos setores, permitindo a redução do consumo, principalmente nos horários de pico.
+
+O projeto como um todo foi delineado com a premissa de proporcionar a segurança hídrica não somente ao município, pois com permitirá
+uma folga em todo o Sistema Atibaia, responsável diretamente pelo abastecimento de outros 12 municípios na bacia.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 10
+
+As obras têm potencial para gerar 1.400 empregos diretos.
+
+Os projetos estão sendo desenvolvidos adotando tecnologias de ponta. Campinas já possui duas Estações Produtoras de Água de Reúso,
+assim, a proposta de um Estudo de Otimização do Sistema de Abastecimento pretende avaliar os usos mais adequados para o efluente
+dessas unidades, de forma a otimizar o consumo, especialmente em unidades industriais.
+
+Os projetos desenvolvidos pela SANASA são acompanhados com trabalhos socioeducativos junto às comunidades existentes na
+envoltória das ações, integrando os projetos já existentes para inclusão e participação destes nos programas. Essas atividades visam o
+uso consciente da água e no sistema de saneamento como um todo. Dentre os programas existentes, utilizaremos principalmente os
+seguintes:
+
+- Sanasa na Comunidade: projetos que promovem o engajamento da comunidade local com objetivo a sensibilizar a população para que
+assuma um papel mais responsável, sustentável e participativo sobre os sistemas de saneamento e o meio ambiente.
+
+- Ciclo de Água no Saneamento CASA: trabalho técnico social, no qual propõe uma visão sistêmica do processo de abastecimento de
+água e esgotamento sanitário, com objetivo de promover o diálogo da empresa com a população municipal. O Programa CASA
+desenvolve os seguintes projetos: CASA nas escolas, mau uso de rede de esgoto, CASA nos espaços públicos, CASA URA (Uso Racional
+da Água).
+
+- Centro de Conhecimento da Água CCA: espaço de educação não formal, os visitantes são convidados a refletir sobre as relações
+humanas com a água e o meio ambiente.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Externas
+
+Sigla
+
+Moeda
+
+Valor Proposto
+
+Corporação Andina de Fomento - CAF
+Total:
+
+CAF
+
+US$
+
+233.000.000,00
+233.000.000,00
+
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+233.000.000,00
+233.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+ARRANJO INSTITUCIONAL
+
+A SANASA Campinas possui Sistema de Gestão da Qualidade implantado desde 2004, sendo renovado anualmente com a acreditação do
+INMETRO na ABNT. Para tanto todos os setores da empresa possuem documentação e procedimentos dos serviços de suas
+responsabilidades.
+
+A empresa conta com estrutura capacitada para o desenvolvimento e acompanhamento dos serviços e obras a serem contratadas. A
+formatação do projeto conta com a participação da Presidência, da Gerência de Finanças e Mercado, da Diretoria Financeira e das
+Gerências de Integração; Planejamento e Projetos; Controle de Perdas e Sistemas; Gerência de Obras e; Produção e Operação de Água
+da Diretoria Técnica.
+
+MATRIZ DE RESPONSABILIDADE
+
+Após contratado o financiamento, outras áreas serão envolvidas para a implantação do projeto:
+
+1. Estudo de Otimização do Sistema de Abastecimento para o Município de Campinas: Contará com as Gerências de Integração;
+Planejamento e Projetos; Produção e Operação de Água, da Diretoria Técnica para o desenvolvimento do Termo de Referência, o qual
+será submetido à Gerência de Compras e Licitações e à Procuradoria Jurídica, para avaliação e encaminhamento do processo licitatório.
+Após ser contratado o desenvolvimento do Plano Diretor, a Gerência de Planejamento e Projetos será responsável pelo acompanhamento
+e gestão do referido contrato, contando com o auxílio das Gerências de Produção; Gerência de Meio Ambiente e Operação de Água e de
+Integração, para a validação das etapas de projeto. As Gerências de Compras e Licitações, Procuradoria Jurídica, Finanças e Mercado e
+Controladoria, fazem o acompanhamento do andamento do contrato e das medições encaminhadas ao Agente Financiador.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 11
+
+2.Novo Sistema Produtor do Rio Jaguari, Subadutora Norte III, Modernização e Otimização da ETA 2 e Substituição de Redes: Contará
+com as Gerências de Integração; Planejamento e Projetos; Manutenção de Adutoras; Controle de Perdas e Sistemas; Produção e
+Operação de Água e; Obras, para o desenvolvimento do Termo de Referência, o qual será submetido à Gerência de Compras e Licitações
+e à Procuradoria Jurídica, para avaliação e encaminhamento do processo licitatório. Após contratado, como a licitação será relativa a
+Projetos e Obras, a Gerência de Planejamento e Projetos será responsável pelo acompanhamento e gestão da elaboração dos projetos e
+a Gerência de Obras pelo acompanhamento e gestão das obras do Sistema Produtor do Rio Jaguari, da Subadutora Norte III e da
+Modernização e Otimização da ETA 2, já o projeto de Substituição de Redes será acompanhado pelas Gerências de Controle de Perdas e
+de Manutenção de Adutoras. Na fase de projeto, as Gerências de Produção e Operação de Água; de Integração e; de Meio Ambiente
+participarão da discussão das etapas de projeto. Em relação aos projetos do Novo Sistema Produtor do Rio Jaguari e da Subadutora Norte
+III, a Gerência Jurídica de Patrimônio Imobiliária atuará na solução das questões relativas a titularidade de áreas. As Gerências de
+Compras e Licitações, Procuradoria Jurídica, Finanças e Mercado e Controladoria, fazem o acompanhamento do andamento do contrato e
+das medições encaminhadas ao Agente Financiador.
+
+3.O componente relativo ao Capital de Giro será acompanhado pelas Gerências de Finanças e Mercado e de Controladoria da Diretoria
+Técnica.
+
+ESTRUTURA OPERACIONAL
+
+A SANASA Campinas, com a finalidade de alcançar a universalização do Saneamento, contratou junto ao MDR/CEF por meio do
+Programa Saneamento para Todos, com recursos do PAC / FGTS, três importantes contratos:
+
+Contrato 441.917-02, assinado em 26/09/17 - Sistema de Abastecimento de Água, no valor de R$ 141.752.733,10, com contrapartida de
+10%, para a execução de uma adutora de água bruta, com 2.700 m de extensão, 6 subadutoras com extensão total de 31.230m, 27
+reservatórios, com reservação total de 65.330 m3, 4 estações elevatórias de água e implantação de 57.828 m de rede de distribuição;
+
+Contrato 441.921-63, assinado em 26/09/17 - Sistema de Esgotamento Sanitário, no valor de R$ 273.419.285,59, com contrapartida de 5
+%, para a execução de 141.858 m de redes coletoras, 30.040 m de interceptores e coletores tronco, 23 estações elevatórias de esgoto, 16
+.226 m de linhas de recalque e ampliação de 6 estações de tratamento de esgoto;
+
+Contrato 520.217-27, assinado em 23/09/19 - Substituição de Redes, no valor de R$ 282.829.578,73, com contrapartida de 5%, para
+substituição de 423,54 km de redes de água.
+
+Estas obras encontram-se em andamento, sendo o acompanhamento feito por um sistema de gestão que apresenta a evolução das obras
+e serviços.
+
+Esse sistema faz parte do escopo do gerenciamento de obras e apresenta a evolução dos projetos, apontando principais entregas e
+eventos. As informações são disponibilizadas no painel de acompanhamento que apresenta as informações referentes aos processos
+internos para solução das questões relacionadas a documentações técnicas, interferências com concessionárias, licenciamentos, dentre
+outros.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Sociedade de Abastecimento de Água e Saneamento S/A - SANASA Campinas
+
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+Fax:
+UF:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+C - SISTEMA PRODUTOR JAGUARI PARA O MUNICÍPIO DE CAMPINAS
+
+COMPONENTES
+
+S -  CAPTAÇÃO DE ÁGUA BRUTA
+
+P - Captação e Elevatória de Água Bruta
+
+S -  ADUTORA DE RECALQUE
+
+P - Adutora de Recalque
+
+S - ESTAÇÃO DE TRATAMENTO DE ÁGUA - ETA 5
+
+P - ETA 5
+
+S - SUBADUTORA DE ÁGUA TRATADA
+
+P - Subadutora de Água Tratada
+
+C - ESTUDO DE OTIMIZAÇÃO DO SISTEMA DE ABASTECIMENTO DE ÁGUA DO MUNICÍPIO
+
+S - ESTUDO DE OTIMIZAÇÃO DO SISTEMA DE ABASTECIMENTO
+
+P - Estudo de Otimização do Sistema de Abastecimento
+
+C - SUBADUTORA NORTE III
+
+TOTAL
+
+CAF
+
+VALOR
+
+CUSTO
+135.000.000,00
+
+Ano 1
+
+FONTES
+
+CAF
+
+6.750.000,00
+
+8.000.000,00
+
+400.000,00
+
+8.000.000,00
+
+400.000,00
+
+15.000.000,00
+
+750.000,00
+
+15.000.000,00
+
+750.000,00
+
+80.500.000,00
+
+4.025.000,00
+
+80.500.000,00
+
+4.025.000,00
+
+31.500.000,00
+
+1.575.000,00
+
+31.500.000,00
+
+1.575.000,00
+
+5.000.000,00
+
+500.000,00
+
+5.000.000,00
+
+500.000,00
+
+5.000.000,00
+
+500.000,00
+
+12.000.000,00
+
+1.200.000,00
+
+
+P - Subadutora Norte III
+
+C - MODERNIZAÇÃO E OTIMIZAÇÃO DA ETA 2
+
+P - Modernização e Otimização da ETA 2
+
+C - SUBSTITUIÇÃO DE REDES
+
+S - SUBSTITUIÇÃO DE REDES
+
+P - Substituição de Redes
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - SISTEMA PRODUTOR JAGUARI PARA O MUNICÍPIO DE CAMPINAS
+
+COMPONENTES
+
+S -  CAPTAÇÃO DE ÁGUA BRUTA
+
+P - Captação e Elevatória de Água Bruta
+
+S -  ADUTORA DE RECALQUE
+
+P - Adutora de Recalque
+
+S - ESTAÇÃO DE TRATAMENTO DE ÁGUA - ETA 5
+
+P - ETA 5
+
+S - SUBADUTORA DE ÁGUA TRATADA
+
+P - Subadutora de Água Tratada
+
+C - ESTUDO DE OTIMIZAÇÃO DO SISTEMA DE ABASTECIMENTO DE ÁGUA DO MUNICÍPIO
+
+S - ESTUDO DE OTIMIZAÇÃO DO SISTEMA DE ABASTECIMENTO
+
+P - Estudo de Otimização do Sistema de Abastecimento
+
+C - SUBADUTORA NORTE III
+
+P - Subadutora Norte III
+
+C - MODERNIZAÇÃO E OTIMIZAÇÃO DA ETA 2
+
+P - Modernização e Otimização da ETA 2
+
+C - SUBSTITUIÇÃO DE REDES
+
+S - SUBSTITUIÇÃO DE REDES
+
+P - Substituição de Redes
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - SISTEMA PRODUTOR JAGUARI PARA O MUNICÍPIO DE CAMPINAS
+
+COMPONENTES
+
+S -  CAPTAÇÃO DE ÁGUA BRUTA
+
+P - Captação e Elevatória de Água Bruta
+
+S -  ADUTORA DE RECALQUE
+
+P - Adutora de Recalque
+
+S - ESTAÇÃO DE TRATAMENTO DE ÁGUA - ETA 5
+
+P - ETA 5
+
+S - SUBADUTORA DE ÁGUA TRATADA
+
+P - Subadutora de Água Tratada
+
+C - ESTUDO DE OTIMIZAÇÃO DO SISTEMA DE ABASTECIMENTO DE ÁGUA DO MUNICÍPIO
+
+S - ESTUDO DE OTIMIZAÇÃO DO SISTEMA DE ABASTECIMENTO
+
+P - Estudo de Otimização do Sistema de Abastecimento
+
+C - SUBADUTORA NORTE III
+
+P - Subadutora Norte III
+
+C - MODERNIZAÇÃO E OTIMIZAÇÃO DA ETA 2
+
+P - Modernização e Otimização da ETA 2
+
+C - SUBSTITUIÇÃO DE REDES
+
+S - SUBSTITUIÇÃO DE REDES
+
+P - Substituição de Redes
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - SISTEMA PRODUTOR JAGUARI PARA O MUNICÍPIO DE CAMPINAS
+
+COMPONENTES
+
+S -  CAPTAÇÃO DE ÁGUA BRUTA
+
+P - Captação e Elevatória de Água Bruta
+
+S -  ADUTORA DE RECALQUE
+
+P - Adutora de Recalque
+
+S - ESTAÇÃO DE TRATAMENTO DE ÁGUA - ETA 5
+
+P - ETA 5
+
+S - SUBADUTORA DE ÁGUA TRATADA
+
+P - Subadutora de Água Tratada
+
+
+Página: 12
+
+12.000.000,00
+
+1.200.000,00
+
+40.000.000,00
+
+2.000.000,00
+
+40.000.000,00
+
+2.000.000,00
+
+41.000.000,00
+
+4.100.000,00
+
+41.000.000,00
+
+4.100.000,00
+
+41.000.000,00
+
+4.100.000,00
+
+0,00
+
+14.550.000,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+VALOR
+
+CUSTO
+
+TOTAL
+
+CAF
+
+Ano 2
+
+FONTES
+
+CAF
+
+27.000.000,00
+
+1.600.000,00
+
+1.600.000,00
+
+3.000.000,00
+
+3.000.000,00
+
+16.100.000,00
+
+16.100.000,00
+
+6.300.000,00
+
+6.300.000,00
+
+1.500.000,00
+
+1.500.000,00
+
+1.500.000,00
+
+3.600.000,00
+
+3.600.000,00
+
+8.000.000,00
+
+8.000.000,00
+
+9.225.000,00
+
+9.225.000,00
+
+9.225.000,00
+
+0,00
+
+49.325.000,00
+
+0,00
+
+TOTAL
+
+CAF
+
+Ano 3
+
+FONTES
+
+CAF
+
+40.500.000,00
+
+2.400.000,00
+
+2.400.000,00
+
+4.500.000,00
+
+4.500.000,00
+
+24.150.000,00
+
+24.150.000,00
+
+9.450.000,00
+
+9.450.000,00
+
+1.500.000,00
+
+1.500.000,00
+
+1.500.000,00
+
+3.600.000,00
+
+3.600.000,00
+
+12.000.000,00
+
+12.000.000,00
+
+9.225.000,00
+
+9.225.000,00
+
+9.225.000,00
+
+0,00
+
+66.825.000,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+TOTAL
+
+CAF
+
+Ano 4
+
+FONTES
+
+CAF
+
+47.250.000,00
+
+2.800.000,00
+
+2.800.000,00
+
+5.250.000,00
+
+5.250.000,00
+
+28.175.000,00
+
+28.175.000,00
+
+11.025.000,00
+
+11.025.000,00
+
+
+Página: 13
+
+C - ESTUDO DE OTIMIZAÇÃO DO SISTEMA DE ABASTECIMENTO DE ÁGUA DO MUNICÍPIO
+
+S - ESTUDO DE OTIMIZAÇÃO DO SISTEMA DE ABASTECIMENTO
+
+P - Estudo de Otimização do Sistema de Abastecimento
+
+C - SUBADUTORA NORTE III
+
+P - Subadutora Norte III
+
+C - MODERNIZAÇÃO E OTIMIZAÇÃO DA ETA 2
+
+P - Modernização e Otimização da ETA 2
+
+C - SUBSTITUIÇÃO DE REDES
+
+S - SUBSTITUIÇÃO DE REDES
+
+P - Substituição de Redes
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - SISTEMA PRODUTOR JAGUARI PARA O MUNICÍPIO DE CAMPINAS
+
+COMPONENTES
+
+S -  CAPTAÇÃO DE ÁGUA BRUTA
+
+P - Captação e Elevatória de Água Bruta
+
+S -  ADUTORA DE RECALQUE
+
+P - Adutora de Recalque
+
+S - ESTAÇÃO DE TRATAMENTO DE ÁGUA - ETA 5
+
+P - ETA 5
+
+S - SUBADUTORA DE ÁGUA TRATADA
+
+P - Subadutora de Água Tratada
+
+C - ESTUDO DE OTIMIZAÇÃO DO SISTEMA DE ABASTECIMENTO DE ÁGUA DO MUNICÍPIO
+
+S - ESTUDO DE OTIMIZAÇÃO DO SISTEMA DE ABASTECIMENTO
+
+P - Estudo de Otimização do Sistema de Abastecimento
+
+C - SUBADUTORA NORTE III
+
+P - Subadutora Norte III
+
+C - MODERNIZAÇÃO E OTIMIZAÇÃO DA ETA 2
+
+P - Modernização e Otimização da ETA 2
+
+C - SUBSTITUIÇÃO DE REDES
+
+S - SUBSTITUIÇÃO DE REDES
+
+P - Substituição de Redes
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+1.500.000,00
+
+1.500.000,00
+
+1.500.000,00
+
+3.600.000,00
+
+3.600.000,00
+
+14.000.000,00
+
+14.000.000,00
+
+9.225.000,00
+
+9.225.000,00
+
+9.225.000,00
+
+VALOR
+
+CUSTO
+
+0,00
+
+75.575.000,00
+
+0,00
+
+Ano 5
+
+FONTES
+
+CAF
+
+13.500.000,00
+
+TOTAL
+
+CAF
+135.000.000,00
+
+800.000,00
+
+8.000.000,00
+
+800.000,00
+
+8.000.000,00
+
+1.500.000,00
+
+15.000.000,00
+
+1.500.000,00
+
+15.000.000,00
+
+8.050.000,00
+
+80.500.000,00
+
+8.050.000,00
+
+80.500.000,00
+
+3.150.000,00
+
+31.500.000,00
+
+3.150.000,00
+
+31.500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+5.000.000,00
+
+5.000.000,00
+
+5.000.000,00
+
+12.000.000,00
+
+12.000.000,00
+
+4.000.000,00
+
+40.000.000,00
+
+4.000.000,00
+
+40.000.000,00
+
+9.225.000,00
+
+41.000.000,00
+
+9.225.000,00
+
+41.000.000,00
+
+9.225.000,00
+
+41.000.000,00
+
+233.000.000,00
+
+26.725.000,00
+
+233.000.000,00
+
+A Sociedade de Abastecimento de Água e Saneamento S.A, SANASA, é uma sociedade de economia mista de capital aberto e sem ações
+negociáveis. Constituída de acordo com a Lei Municipal nº 4.356, de 28 de dezembro de 1973, regulamentada pelo Decreto nº 4.437, de
+14 de março de 1974, a SANASA possui participação majoritária da Prefeitura Municipal de Campinas e tem como finalidades principais
+planejar, executar, fiscalizar, operar e manter os serviços públicos e privados de saneamento básico no Município de Campinas.
+
+A SANASA tem sua estrutura e ferramentas de Governança definidas pela Lei das Sociedades Anônimas nº 6.404/1976, Lei das Estatais
+nº 13.303/2016, Lei Anticorrupção nº 12.846/2013, Instruções da CVM e Código de Conduta da Alta Administração Municipal de Campinas
+(Decreto nº 17.405/2011).
+
+O município de Campinas aderiu à regulação pela Agência Reguladora dos Serviços de Saneamento das Bacias dos Rios Piracicaba,
+Capivari e Jundiaí - ARES-PCJ em abril de 2012 e, dessa forma, a SANASA passou a ser regulada por essa agência, atendendo ao
+disposto na Lei 11.445 de 2007.
+
+A ARES-PCJ é responsável por toda a regulação e fiscalização dos serviços públicos de saneamento básico, incluindo a Política Tarifária
+dos prestadores de serviços de saneamento na região das bacias do PCJ.
+
+A SANASA dispõe de mecanismos para garantir a integridade d=e a transparência dos negócios:
+
+- Programa de Compliance (Governança);
+
+- Carta Anual de Políticas Públicas e Governança Corporativa (Governança);
+
+- Portal da Transparência (Governança);
+
+- Controles internos e sistemas automatizados (todas as áreas);
+
+- Sistema de pregão eletrônico (Licitações);
+
+- Fiscalização de empresas terceirizadas (Jurídico);
+
+
+Página: 14
+
+- Sistema geral de indicadores (Qualidade);
+
+- Auditoria Interna;
+
+- Auditoria Independente - TATICCA Auditores Independentes S.S.;
+
+- Auditoria Externa ISO - ABNT;
+
+- Compromisso com os 10 Princípios do Pacto Global das Nações Unidas; e
+
+- Relatório de Sustentabilidade - Standards GRI (Global Reporting Initiative).
+
+O PNELP - Plano de Negócios e Estratégia de Longo Prazo - é o documento que estabelece as diretrizes técnicas, administrativas e
+financeiras; a declaração de missão, visão e valores e a definição das estratégias e metas para o período de 2022 a 2026. O Plano passa
+por revisão e atualização anual, e é aprovado pelo Conselho de Administração na última reunião anual. A primeira versão foi aprovada em
+2016 e sua elaboração contou com a participação dos gestores sêniores e diretores. O PNELP atende à Lei das Estatais nº 13.303/2016.
+
+A Carta Anual de Políticas Públicas e Governança Corporativa 2022 ano base 2021, publicada anualmente após a aprovação das
+Demonstrações Financeiras anuais, foi aprovada pelo Conselho de Administração em 29/03/2022. Este documento explicita os
+compromissos de consecução de objetivos de políticas públicas, bem como as atividades desenvolvidas pela Companhia, estruturas de
+controle, fatores de risco, dados econômico-financeiros, comentário dos administradores sobre o desempenho, políticas e práticas de
+governança corporativa e descrição da composição e remuneração da administração, em atendimento ao disposto no artigo 8º, incisos I e
+VIII da Lei nº 13.303/2016.
+
+O atual Programa de Compliance da SANASA foi aprovado em dezembro de 2018, em atendimento às Leis Federais nº 12.846/2013 - Lei
+Anticorrupção e nº 13.303/2016 - Lei das Estatais, com o compromisso de prezar pela ética e o combate à corrupção. O Programa de
+Compliance está alinhado ao Código de Conduta da Alta Administração Municipal de Campinas (Decreto nº 17.405/2011), Programa de
+Integridade da CGU, 10 Princípios do Pacto Global da ONU e Objetivos do Desenvolvimento Sustentável das Nações Unidas. O Programa
+é composto por ferramentas de conformidade e integridade, focadas na Prevenção, Detecção e Resposta, e possui os seguintes pilares:
+
+- Comprometimento da Alta Gestão: envolvimento de todos os gestores, a começar da alta gestão;
+
+- Política e Códigos de Conduta: disponíveis no Portal da Transparência no site da Sanasa;
+
+- Treinamento e Comunicação: é a base de todo Programa (2.039 funcionários passaram por treinamento online em 2021);
+
+- Riscos e Controles Internos: controles preventivos (ações mitigatórias de Riscos Corporativos) e controles detectivos (indicadores de
+Riscos Corporativos);
+
+- Canal de Denúncias: com possibilidade de denúncia anônima e direito à resposta, disponível no Portal da Transparência no site da
+Sanasa;
+
+- Investigação e Resposta: Comitê de Conduta Ética e Sindicância; e
+
+- Diligência prévia das partes interessadas: fornecedores e indicados para membros da Diretoria, Conselhos e Comitês.
+
+Gestão de Riscos Corporativos
+
+A SANASA faz a gestão de seus riscos corporativos desde 2013, seguindo metodologia própria para a identificação e monitoramento dos
+riscos através de ações mitigatórias, que inclui normas, controles internos, sistemas automatizados, treinamentos e orientações aos
+funcionários. A eficácia das ações é acompanhada através de indicadores atualizados periodicamente. Ao final de 2021 havia um total de
+108 riscos gerenciados em toda a empresa. Através da Gestão de Riscos Corporativos, os gestores podem analisar e reportar à alta
+gestão as preocupações críticas, tornando-se uma ferramenta para tomada de decisões.
+
+Pretende-se inserir nos projetos pleiteados os possíveis riscos, para que possam ser acompanhados em todas as etapas de implantação a
+fim de que sejam minimizados os impactos.
+
+O ANEXO 20 apresenta a Matriz de Risco para o presente projeto.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+A SANASA será a responsável pela execução do projeto, utilizando pessoal próprio especializado em gestão de empreendimentos, com
+apoio de técnicos existentes nos diversos departamentos da empresa, que serão responsáveis pelo processo de contratação e
+acompanhamento dos projetos e obras. Está prevista a contratação de empresas para o gerenciamento e fiscalização para as obras do
+Sistema Produtor do Rio Jaguari, para a modernização da ETA 2 e para o serviço de Substituição de Redes.
+
+(cid:10)
+
+
+Página: 15
+
+A contratação dos serviços para o desenvolvimento do Estudo de Otimização do Sistema de Abastecimento para o Município de
+Campinas contará com as Gerências de Integração, de Planejamento e Projetos e de Produção e Operação de Água, para o
+desenvolvimento do Termo de Referência, o qual será submetido à Gerência de Compras e Licitações e à Procuradoria Jurídica, para
+avaliação e encaminhamento do processo licitatório, obedecendo a legislação vigente. Após ser contratado o desenvolvimento do Plano
+Diretor, a Gerência de Planejamento e Projetos será responsável pelo acompanhamento e gestão do referido contrato, contando com o
+auxílio das Gerências de Produção; Gerência de Meio Ambiente e Operação de Água e de Integração, Controle e Desenvolvimento
+Tecnológico para a validação das etapas de projeto. As Gerências de Compras e Licitações, Procuradoria Jurídica, Finanças e Mercado e
+Controladoria, fazem o acompanhamento do andamento do contrato e das medições encaminhadas ao Agente Financiador.
+
+A contratação do Novo Sistema Produtor do Rio Jaguari, da Subadutora Norte III, da Modernização e Otimização da ETA 2 e da
+Substituição de Redes - Contará com as Gerências de Integração, Controle e Desenvolvimento Tecnológico; Planejamento e Projetos;
+Manutenção de Emissários e Adutoras; Controle de Perdas e Sistemas; Produção e Operação de Água e; Obras, da Diretoria Técnica
+para o desenvolvimento do Termo de Referência, o qual será submetido à Gerência de Compras e Licitações, da Diretoria Administrativa e
+à Procuradoria Jurídica, da Presidência, para avaliação e encaminhamento do processo licitatório. Após contratado, como a licitação será
+relativa a Projetos e Obras, a Gerência de Planejamento e Projetos será responsável pelo acompanhamento e gestão da elaboração dos
+projetos e a Gerência de Obras pelo acompanhamento e gestão das obras do Sistema Produtor do Rio Jaguari, da Subadutora Norte III e
+da Modernização e Otimização da ETA 2, já o projeto de Substituição de Redes será acompanhada pelas Gerências de Controle de
+Perdas e de Manutenção de Emissários e Adutoras. Na fase de projeto, as Gerências de Produção e Operação de Água; de Integração,
+Controle e Desenvolvimento Tecnológico e; de Meio Ambiente participarão da discussão das etapas de projeto. Em relação aos projetos
+do Novo Sistema Produtor do Rio Jaguari e da Subadutora Norte III, a Gerência Jurídica de Patrimônio Imobiliário atuará na solução das
+questões relativas a titularidade de áreas. As Gerências de Compras e Licitações, Procuradoria Jurídica, Finanças e Mercado e
+Controladoria, fazem o acompanhamento do andamento do contrato e das medições encaminhadas ao Agente Financiador.
+
+Riscos e ações mitigadoras:
+
+A SANASA Campinas possui Sistema de Gestão da Qualidade implantado desde 2004, sendo renovado anualmente com a acreditação do
+INMETRO na ABNT. Para tanto todos os setores da empresa possuem documentação e procedimentos dos serviços de suas
+responsabilidades, tomando todas as ações necessárias tanto para mitigar riscos inerentes aos processos de contratação, como para a
+tomada de ações mitigadoras, quando necessário.
+
+O ANEXO 20 apresenta a Matriz de Risco para o presente projeto.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+O Projeto do Novo Sistema Produtor Jaguari já prevê a elaboração do Estudo de Impacto Ambiental e o respectivo Relatório de Impacto
+Ambiental - EIA - RIMA, que deverá apresentar todo o levantamento dos impactos e as ações mitigadoras necessárias.
+
+Para o traçado das adutoras e subadutoras foram estudados caminhamentos já existentes, entretanto, nos projetos foram incluídos os
+levantamentos de áreas necessárias a serem desapropriadas, para as quais a SANASA possui pessoal técnico especializado para
+acompanhamento e supervisão dos trabalhos.
+
+A Gerência de Patrimônio Imobiliário da SANASA possui uma área específica para o desenvolvimento dos trabalhos relativos a
+desapropriações de áreas, aquisição de áreas e demais documentações necessárias para a regulamentação das mesmas.
+
+O ANEXO 20 apresenta a Matriz de Risco para o presente projeto.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+O Projeto do Novo Sistema Produtor Jaguari já prevê a elaboração do Estudo de Impacto Ambiental e o respectivo Relatório de Impacto
+Ambiental - EIA - RIMA, que deverá apresentar todo o levantamento dos impactos e as ações mitigadoras necessárias.
+
+Para o traçado das adutoras e subadutoras foram estudados caminhamentos já existentes, entretanto, nos projetos foram incluídos os
+levantamentos de áreas necessárias a serem desapropriadas, para as quais a SANASA possui pessoal técnico especializado para
+acompanhamento e supervisão dos trabalhos.
+
+A SANASA possui uma área específica para o desenvolvimento dos trabalhos relativos aos licenciamentos e autorizações necessárias
+para a implantação das obras, a Gerência de Meio Ambiente (PN).
+
+FLUXOGRAMA DE PROJETOS AMBIENTAIS
+
+O processo de licenciamento ambiental inicia-se por demanda da Diretoria Técnica, que encaminha o projeto para a Gerência de Meio
+Ambiente (PN).
+
+Assim que o processo chega na PN, é verificada a documentação de posse. Caso o processo não contenha estes documentos, é
+encaminhado à Gerencia de Patrimônio Imobiliário (PY) para apresentação.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 16
+
+Com o projeto e documento de posse, a PN elabora as solicitações pertinentes para cada órgão/secretaria, a saber:
+
+- Secretaria Municipal de Planejamento e Urbanismo: Certidão de Uso e Ocupação do Solo;
+
+- Secretaria Municipal do Verde, Urbanismo e Desenvolvimento Sustentável: Exame Técnico Municipal Certificado de Dispensa de
+Licenciamento, Licenças Prévia, de Instalação e de Operação e, Autorização para supressão de vegetação, corte de árvores isoladas,
+intervenção em Área de Preservação Permanente e movimentação de terra.
+
+As unidades licenciáveis nessa Secretaria são:
+
+- Adutoras e subadutoras;
+
+- Desassoreamento de córregos e lagos em áreas urbanas; e
+
+- Subestação de energia.
+
+- Secretaria de Serviços Públicos: Autorização para corte de árvores isoladas em logradouro público, em obras que não sejam necessárias
+outras aprovações ambientais.
+
+- Secretaria Municipal de Cultura e Turismo - Conselho de Defesa do Patrimônio Cultural de Campinas (CONDEPACC): Parecer/
+Manifestação.
+
+- Companhia Ambiental do Estado de São Paulo (CETESB): Certificado de Movimentação de Resíduos de Interesse Ambiental (CADRI);
+Licença Prévia, de Instalação e de Operação; Autorização para supressão de vegetação, corte de árvores isoladas,
+
+intervenção em Área de Preservação Permanente, movimentação de terra e para Treinamento de Combate à Incêndio; Parecer Técnico.
+
+As unidades licenciáveis na CETESB são:
+
+- Estação Elevatória de Esgoto (EEE);
+
+- Estação de Tratamento de Esgoto (ETE); e
+
+- Estação de Tratamento de Água (ETA).
+
+- Departamento de Águas e Energia Elétrica (DAEE): Declaração sobre Viabilidade de Implantação de empreendimentos; Dispensa de
+outorga; Outorga de Direito de Interferência e Outorga de Direito de Uso.
+
+- Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA): Certificado de Regularidade, Cadastro Técnico
+Federal para Estações de Tratamento de Água e Esgoto.
+
+Assim que as aprovações ambientais são emitidas, o processo é encaminhado à Diretoria Técnica.
+
+O Anexo 28 apresenta o Fluxograma dos procedimentos ambientais para projetos de infraestrutura em saneamento.
+
+O ANEXO 20 apresenta a Matriz de Risco para o presente projeto.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+Os projetos pleiteados serão incorporados nas ações e programas desenvolvidos pela SANASA.
+
+A SANASA adota ações visando atingir as metas do Pacto Global e os Objetivos do Desenvolvimento Sustentável:
+
+As metas do Pacto Global são uma chamada para que a empresa alinhe suas estratégias e operações aos Dez Princípios universais nas
+áreas de Direitos Humanos, Trabalho, Meio Ambiente e Anticorrupção e desenvolva ações que contribua para o enfrentamento dos
+desafios da sociedade. É a chamada para o desenvolvimento de ações que contribuirá para o alcance da Agenda 2030 dos Objetivos do
+Desenvolvimento Sustentável da Organização das Nações Unidas, visando o desenvolvimento sustentável.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 17
+
+Os projetos desenvolvidos pela SANASA são acompanhados com trabalhos socioeducativos junto às comunidades existentes na
+envoltória das ações, integrando os projetos já existentes para inclusão e participação destes nos programas. Essas atovodades visam o
+uso consciente da água e no sistema de saneamento como um todo. Dentre os programas existentes, utilizaremos principalmente os
+seguintes:
+
+- Sanasa na Comunidade: projetos que promovem o engajamento da comunidade local com objetivo a sensibilizar a população para que
+assuma um papel mais responsável, sustentável e participativo sobre os sistemas de saneamento e o meio ambiente.
+
+- Ciclo de Água no Saneamento CASA: trabalho técnico social, no qual propõe uma visão sistêmica do processo de abastecimento de
+água e esgotamento sanitário, com objetivo de promover o diálogo da empresa com a população municipal. O Programa CASA
+desenvolve os seguintes projetos: CASA nas escolas, mau uso de rede de esgoto, CASA nos espaços públicos, CASA URA (Uso Racional
+da água).
+
+- Centro de Conhecimento da Água CCA: espaço de educação não formal, os visitantes são convidados a refletir sobre as relações
+humanas com a água e o meio ambiente.
+
+O ANEXO 20 apresenta a Matriz de Risco para o presente projeto.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Não existem populações a serem reassentadas na área de abrangência do projeto.
+
+O ANEXO 20 apresenta a Matriz de Risco para o presente projeto.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+Informações relevantes
+
+- 31/10/2022: Projeto submetido á 161ª Reunião da COFIEX (outubro/2022). Operação de crédito externo não aprovada tendo em vista a
+necessidade  de  informações  e  esclarecimentos  adicionais,  que  permitam  uma  manifestação  conclusiva  a  respeito  da  capacidade  de
+pagamento da empresa.
+- 03/11/2022: Projeto não obteve aprovação na 161ª Reunião da Comissão de Financiamentos Externos (COFIEX), realizada em 25-10-
+2022,  tendo  em  vista  a  necessidade  de  informações  e  esclarecimentos  adicionais  pela  Empresa,  que  permita  uma  manifestação
+conclusiva a respeito da sua capacidade de pagamento. O pleito poderá ser reapreciado, desde que a Secretaria Executiva da Cofiex seja
+informada, por meio de ofício, que a pendência tenha sido solucionada.
+- 02/06/2023: Retirado de pauta pela 165ª Cofiex (27/04/2023), em razão da impossibilidade de conclusão da análise técnica por falta de
+informações (2a tentativa).
+- 02/06/2023: Retirado de pauta pela 166ª Cofiex (01/06/2023).
+
+(cid:10)
+(cid:10)

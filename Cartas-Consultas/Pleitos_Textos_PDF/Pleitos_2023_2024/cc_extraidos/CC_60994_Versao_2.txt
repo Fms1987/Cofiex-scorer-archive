@@ -1,0 +1,1362 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Programa Mais Saneamento para Bahia - MSB
+Nº Carta Consulta: 60994
+Processo: 03101.101890/2023-21
+Mutuário: Empresa Baiana de Águas e Saneamento S.A. - EMBASA
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  19 de Junho de 2023
+Fontes Externas:
+New Development Bank - NDB: ? 280.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+05
+2. PROJETO ....................................................................................................................................................................................................... 05
+2.1. TÍTULO ............................................................................................................................................................................................ 05
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 05
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 05
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 06
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 06
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 06
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 06
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 09
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 10
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 10
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 12
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 15
+3. FINANCIAMENTO .......................................................................................................................................................................................... 15
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 15
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 15
+4. EXECUÇÃO ...................................................................................................................................................................................................
+15
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 15
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 16
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 16
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 16
+5. RISCOS .......................................................................................................................................................................................................... 17
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 17
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 19
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 19
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 20
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 21
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 21
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+21
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+A Bahia é o maior estado da região Nordeste do Brasil, com extensão territorial de 564,7 mil km² e população com cerca de 14,1 milhões
+de pessoas. Atualmente o IDH do estado é de 0,660, abaixo da média nacional, com rendimento mensal domiciliar per capita de R$ 1.010,
+00. (IBGE 2022).
+A Empresa Baiana de Águas e Saneamento S.A. (Embasa) é uma empresa estatal, responsável pelo abastecimento de água (captação,
+tratamento e distribuição) e esgotamento sanitário (coleta, tratamento e destinação) na Bahia, desempenha um papel fundamental na
+gestão dos recursos hídricos e no fornecimento de água potável para a população do Estado, bem como contribui para a preservação do
+meio ambiente e para a saúde pública.
+A área de atuação da Embasa abrange 367 municípios dos 417 existentes, atendendo tanto áreas urbanas como rurais. A empresa possui
+uma infraestrutura extensa, com estações de tratamento de água e esgoto, redes de distribuição e coleta, além de laboratórios para
+análise de qualidade da água. 
+A partir do  Novo Marco Legal do Saneamento, promulgado em 15 de julho de 2020 através da Lei 14.026/2020, a Agência Nacional de
+Águas e Saneamento Básico (ANA) foi instituída como responsável por estabelecer metas de universalização que garantam o atendimento
+de 99% da população com água potável e de 90% da população com coleta e tratamento de esgotos até 31 de dezembro de 2033, assim
+como metas quantitativas de não intermitência do abastecimento, de redução de perdas e de melhoria dos processos de tratamento.
+Atualmente, o índice de atendimento urbano de esgoto das áreas de atuação da Embasa é de 50,42% (coleta e tratamento), principal foco
+e desafio do Programa, enquanto que o atendimento urbano de água é de 98,04%, uma diferença de 39,58 e 1 pontos percentuais,
+respectivamente, para atingimento das metas de universalização. Em se tratando de ligações existentes, a empresa possui 4,1 milhões de
+ligações de água e 1,5 milhões de esgoto, beneficiando mais de 9,5mm e 4,9mm de pessoas com serviços de água e esgoto,
+respectivamente (demais dados no Anexo 1).
+O Estado possui diversas áreas vulneráveis do ponto de vista socioeconômico e ambiental, com seus principais desafios relacionados ao
+crescimento populacional, intenso processo de urbanização e mudanças climáticas, que impactam a disponibilidade e a qualidade dos
+recursos hídricos. Em paralelo, agrava-se a questão do esgotamento sanitário em diversos municípios baianos. O lançamento de esgotos
+domésticos, industriais e hospitalares em redes de drenagem que permeiam as cidades e deságuam diretamente nos rios, canais ou nas
+praias, causam a poluição da água e comprometem a balneabilidade dos corpos hídricos e dos reservatórios de água que abastecem a
+população e servem de fonte de irrigação. Esta situação traz impactos diretos à população não atendida, com elevados riscos à saúde
+pública, e também à população atendida, de modo indireto, em função da poluição dos recursos hídricos, que recebem a carga poluidora
+dos esgotos não tratados. Desta forma, a Embasa tem atuado em melhorias na infraestrutura, tecnologia e gestão, visando garantir o
+acesso sustentável à água potável e o tratamento adequado do esgoto e, apesar dos grandes esforços realizados pela empresa, tais
+fatores geram grande pressão nos serviços de infraestrutura urbana, e notadamente os maiores impactos são percebidos na área do
+Saneamento Básico. 
+Mesmo com todos os investimentos aportados ao longo dos últimos anos, na implantação de sistemas de esgotamento sanitário na
+Região Metropolitana de Salvador (RMS) e no interior do Estado, ainda são baixos os índices de universalização do serviço no Estado. É
+premente e oportuno, ampliar os investimentos na requalificação e na expansão dos serviços de coleta, afastamento e tratamento de
+esgotos sanitários, de forma que seja possível cumprir as ousadas metas de universalização, em todo o Estado da Bahia.
+Em se tratando de perdas de água, em 2011 foi registrado o índice nacional de 37,2% de recursos desperdiçados no trajeto até as
+residências, enquanto que em 2021 o Sistema Nacional de Informações sobre Saneamento (SNIS) apontou o crescimento para 40,1% (
+conforme gráfico ilustrado no Anexo 2).
+Desta forma, assim como no restante do Brasil, a redução do nível de perdas de água na distribuição é um dos maiores desafios
+operacionais da Embasa e as ações relacionadas a esse tema têm como foco a redução das perdas reais (vazamentos e
+extravasamentos) e, principalmente, as perdas aparentes (submedição e consumos não autorizados). 
+Portanto, a Embasa possui um grande desafio para universalização do saneamento básico  e  redução de perdas de água no Estado da
+Bahia, os quais necessitam de apoio financeiro e técnico de terceiros para o cumprimento desta meta, pois somente com  recursos
+próprios a empresa não suportará esta demanda desafiadora. Assim, a parceria com o NDB busca viabilizar investimentos e aprimorar a
+gestão dos serviços de saneamento na companhia.
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+Desta maneira, o Programa busca apoiar a EMBASA na execução do seu Plano Investimentos para atender a Lei 14.026/2020 - Novo
+Marco Legal do Saneamento, essa lei foi criada com o objetivo de universalizar o acesso aos serviços de distribuição de água e esgoto e
+traz como meta o atingimento de 99% e 90% de cobertura de água e esgoto até o ano de 2033, respectivamente.
+Dessa forma, as ações estarão voltadas para 3 componentes: 
+- Universalização dos Serviços de Abastecimento de Água;
+- Universalização dos Serviços de Esgotamento Sanitário;
+- Levantamento e Diagnóstico para combate à perdas na distribuição de água.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 3
+
+COMPONENTE 1 UNIVERSALIZAÇÃO DOS SERVIÇOS DE ABASTECIMENTO DE ÁGUA
+
+SOLUÇÃO PROPOSTA
+Para o Componente 1, a Embasa mapeou ações estruturantes prioritárias, que possuem potencial de implantação e melhoria do
+abastecimento de água das cidades, e estão alinhadas com a promoção da sustentabilidade, em suas 03 dimensões: social, econômica e
+ambiental. 
+Tais ações contemplam eixos estruturados, com destaque para implantação/ampliação de Sistemas de Abastecimento de Água, com
+vistas ao atendimento das metas de universalização/cobertura do serviço e garantia de abastecimento contínuo (24/7), sem intermitências
+rotineiras (manobras). 
+
+RESULTADOS ESPERADOS
+A universalização dos serviços de abastecimento de água garantirá que 98,69% das pessoas dos municípios atendidos pela Embasa até
+2027, e 99% até 2033, tenham acesso a água potável em suas casas. Isso melhora diretamente a qualidade de vida das pessoas,
+fornecendo as condições básicas para a saúde e higiene.
+Com a universalização da água os seguintes benefícios são esperados: 
+- Melhoria na saúde pública;
+- Desenvolvimento econômico;
+- Segurança alimentar, devido a redução do risco de contaminação;
+- Preservação do meio ambiente. 
+
+COMPONENTE 2 UNIVERSALIZAÇÃO DOS SERVIÇOS DE ESGOTAMENTO SANITÁRIO
+
+SOLUÇÃO PROPOSTA
+Para o Componente 2, apesar de todos os esforços empreendidos pela EMBASA e pelo Governo do Estado, é necessário ampliar as
+inversões externas no setor, para complementar e potencializar os investimentos já assegurados, e assim permitir o cumprimento das
+metas ambientais estabelecidas. Ao mesmo tempo, é também necessário que os recursos sejam aplicados em ações estruturantes, de
+modo a garantir sua sustentabilidade de longo prazo.
+A contratação do presente financiamento é decisiva para a interiorização das ações de sustentabilidade hídrica, ao contemplar
+Implantação e Ampliação do Sistema de Esgotamento Sanitário em diversos municípios do Estado da Bahia.
+
+RESULTADOS ESPERADOS
+Desta forma, as ações propostas nesta carta-consulta visam promover a implantação e ampliação dos sistemas de esgotamento sanitário
+das áreas urbanas dos municípios da Bahia, garantindo o atendimento das metas de universalização estabelecidas nos contratos firmados
+ com diversos municípios baianos. 
+Atualmente, o índice de atendimento urbano de esgoto da EMBASA é de 50,42%, com o Novo Marco do Saneamento a meta é atingir o
+índice de 90% até o ano de 2033. Até o final do Programa Mais Saneamento (2027) espera-se atingir a meta aproximada de 58,74%.
+A universalização dos serviços de abastecimento de esgoto também traz uma série de resultados positivos e impactos significativos para a
+ sociedade:
+- Melhoria na saúde pública; 
+- Proteção do meio ambiente, o tratamento adequado do esgoto contribui para a preservação do meio ambiente;
+- Melhoria na qualidade da água já que haveria uma redução significativa na poluição dos rios, lagos e aquíferos, melhorando a qualidade
+da água disponível para consumo humano, agricultura e vida selvagem;
+- Desenvolvimento econômico;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 4
+- Desenvolvimento sustentável, uma vez que está alinhada com os Objetivos de Desenvolvimento Sustentável (ODS) das Nações Unidas,
+especificamente com o ODS 6, que busca garantir a disponibilidade e gestão sustentável da água e saneamento para todos. 
+
+COMPONENTE 3 ELABORAÇÃO DE LEVANTAMENTO E DIAGNÓSTICO PARA COMBATE À PERDAS NA DISTRIBUIÇÃO DE ÁGUA.
+SOLUÇÃO PROPOSTA
+Este Componente propõe a elaboração de um diagnóstico/estudo com vistas ao combate e à redução de perdas de água (reais e
+aparentes). 
+
+RESULTADOS ESPERADOS
+Um estudo eficaz de combate às perdas no abastecimento de água pode fornecer informações valiosas e levar a uma série de resultados
+positivos. Aqui estão alguns dos resultados esperados:
+- Identificação de pontos de perda; 
+- Avaliação das causas e magnitude das perdas, essas informações são essenciais para o desenvolvimento de estratégias eficazes de
+combate às perdas.
+- Desenvolvimento de medidas corretivas;
+- Estimativa dos benefícios econômicos;.
+- Monitoramento contínuo e avaliação de resultados.
+É importante destacar que os resultados esperados de um estudo de combate às perdas no abastecimento de água podem variar
+dependendo das condições específicas de cada sistema de abastecimento. 
+No entanto, em geral, espera-se que o estudo forneça uma base sólida para a implementação de medidas eficazes, resultando em
+redução das perdas, melhorias na eficiência operacional e sustentabilidade dos recursos hídricos.
+
+SUSTENTABILIDADE DAS AÇÕES
+A EMBASA é a responsável pela manutenção dos seus sistemas operacionais e conta com um quadro de funcionários com 323
+engenheiros e 283 técnicos/agentes operacionais especializados. Ademais, se prevê a contratação de 31 engenheiros e 508 técnicos/
+agentes operacionais a partir de concurso vigente.
+No que se refere aos custos, o Planejamento Orçamentário de Custeio da Embasa de 2023 a 2027 apresenta, dentre outros, a previsão
+para o custeio de manutenção e operação dos ativos da empresa e foi realizado com base na ferramenta de Gerenciamento Matricial de
+Despesas-GMD e no Método PDCA. O GMD trabalha o custeio por pacotes. Os pacotes reúnem conjuntos de contas contábeis que têm
+naturezas semelhantes de gastos. Atualmente são 24 pacotes, conforme Anexo 3, que abrangem todo o Plano de Contas da Empresa,
+sem considerar a conta de Custos de Construção.
+Dentre esses pacotes temos o Pacote Manutenção de Sistemas EMBASA, os custos de manutenção não envolvem recursos do
+financiamento e são provenientes de fontes próprias da EMBASA. Segue abaixo evolução nominal de 2018 a 2022 e Planejamento
+Orçamentário de 2023 a 2027 dos gastos nesse pacote, conforme Anexo 4:
+2018: R$ 295,79 milhões;
+2019: R$ 326,45 milhões;
+2020: R$ 346,33 milhões;
+2021: R$ 379,91 milhões;
+2022: R$ 431,03 milhões;
+2023: R$ 467,59 milhões;
+2024: R$ 514,28 milhões;
+2025: R$ 540,01 milhões;
+2026: R$ 560,78 milhões;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 5
+2027: R$ 595,83 milhões.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+(i) ORIENTAÇÕES ESTRATÉGICAS
+As ações do Programa estão previstas no Plano Plurianual 2020-2023 do Estado da Bahia (anexo 5, página 211 o programa de recursos
+hídricos, do qual a Embasa faz parte), bem como no Anexo II da LOA - Lei Orçamentária Anual que prevê as receitas e fixa as despesas e
+investimentos do governo (inclusive Embasa) para o ano seguinte, indicando quanto será aplicado em cada órgão para fazer frente às
+ações elencadas no PPA, que define as diretrizes de médio prazo e orientam o Plano de Investimentos do Estado (Lei Nº 14.393 de 15/12/
+2021), (anexo 6, nas páginas 1351, 1356 e 1357). 
+
+A EMBASA definiu como orientação estratégica principal do Programa o Plano de Negócios, Estratégia Plurianual de Negócio 2023-2027 (
+Anexo 14) e a Política Estadual de Saneamento Básico do Governo do Estado. O Plano estabelece metas de acordo com a Lei nº 14.026/
+2020 - Novo Marco Legal do Saneamento e norteia as ações necessárias para o seu atingimento. No Plano de Negócios podemos
+visualizar ainda premissas de receitas, relacionadas à  ligações e volumes; bem como uma projeção do Capex necessário (conforme
+anexo 7).
+
+A Lei nº 14.026/2020 - Novo Marco Legal do Saneamento, é um balizador para as intervenções previstas no Programa. O novo marco
+introduziu os princípios norteadores das normas de referência a serem editadas pela ANA (Agência Nacional de Águas), sendo as
+principais: 
+(a) o estímulo à concorrência, competitividade, eficiência e sustentabilidade econômica e financeira; 
+(b) o incentivo à regionalização dos serviços para contribuir com a viabilidade econômica e financeira, ganhos de escala, eficiência; 
+(c) a busca pela universalização dos serviços e modicidade tarifária, e; 
+(d) as limitações de sobreposição de custos administrativos e gerenciais em função de subcontratação e subdelegações.
+
+A Lei foi criada com o objetivo de universalizar o acesso aos serviços de distribuição de água e esgoto, sendo estipulada a meta de
+atingimento de 99% e 90% de cobertura, respectivamente, até 2033.
+
+Nesse contexto, a EMBASA tratou de regularizar os Contratos Programas e de Concessão (incorporou as metas de universalização e
+outras metas nos contratos em vigor por meio de aditivo contratual, conforme art. 11-B da 11.445/2007, alterada pela 14.026/2020), bem
+como comprovou a sua Capacidade Econômica e Financeira junto à Agência Reguladora e ANA, conforme critérios do decreto 10.710/
+2021, requisitos para validação dos contratos em vigor.
+
+(ii) CONTRAPARTIDA
+O Programa contará apenas com recursos de financiamento, modalidade de empréstimo de desembolsos condicionados ao cumprimento
+de metas e de execução financeira, previamente estabelecidas, conforme estabelecido no Art. 3, inciso V, da Resolução nº 3, de 29 de
+maio de 2019, COFIEX.
+
+(iii) TAXA DE CÂMBIO
+Com relação ao cronograma de desembolsos do programa em questão, foi utilizada como moeda do contrato o EURO, adotando como
+cotação: 1Euro = 5,41R$. (em 01/06/2023).
+
+2. Projeto
+2.1. Título
+Programa Mais Saneamento para Bahia - MSB
+2.2. Título Abreviado
+MSB
+2.3. Mutuário
+Empresa Baiana de Águas e Saneamento S.A. - EMBASA
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 6
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+(i)OBJETIVO GERAL
+O objetivo geral do Programa é ampliar, de forma eficiente e sustentável, a oferta de serviços de abastecimento de água e de
+esgotamento sanitário, otimizando a operação dos sistemas e contribuindo para o desenvolvimento econômico e social do Estado da
+Bahia.
+
+
+(ii)OBJETIVOS ESPECÍFICOS
+a) Promover a universalização dos serviços de abastecimento de água para a área de atuação da Embasa e cumprir com os Contratos de
+Programa/Concessão para o atendimento das metas do Novo Marco do Saneamento.
+
+b) Promover a universalização dos serviços de esgotamento sanitário para a área de atuação da Embasa e cumprir com os Contratos de
+Programa/Concessão para o atendimento das metas do Novo Marco do Saneamento. 
+
+c) Elaborar levantamento e diagnóstico para combate às perdas na distribuição de água na área de atuação da Embasa.
+
+
+
+É importante ressaltar que os anos de linha de base e meta dos Indicadores do Capítulo 2.6 a seguir estão apresentados na descrição de
+cada indicador. 
+2.6. Projeto/Indicadores
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Aumento no número de famílias com ligações
+de água potável nas áreas de atuação da
+Embasa (ALA - Acréscimo de ligação de água).
+Linha de Base: ANO 2022 Meta: ANO 2027
+Somatório da
+quantidade de novas
+ligações de água no
+período
+ligações
+99.429,00
+76.197,00
+Aumento no número de famílias com ligações de
+esgoto nas áreas de atuação da Embasa (ALE -
+Acréscimo de Ligações de Esgoto). Linha de
+Base: ANO 2022 Meta: ANO 2027
+Somatório da
+quantidade de novas
+ligações de esgoto no
+período 
+ligações
+55.199,00
+233.009,00
+IAA - Índice atendimento urbano Água. Linha de
+Base: ANO 2022 Meta: ANO 2027
+Divisão entre o
+número de economias
+habitadas existentes
+de água e a soma das
+economias
+residenciais habitadas
+existentes de água +
+potenciais habitadas +
+ factíveis habitadas
+porcentagem
+98,19
+98,69
+IAE - Índice de atendimento urbano Esgoto.
+Linha de Base: ANO 2022 Meta: ANO 2027
+Divisão entre o
+número de economias
+habitadas existentes
+de esgoto e a soma
+das economias
+residenciais habitadas
+existentes de esgoto
++ potenciais habitadas
+ + factíveis habitadas
+porcentagem
+50,42
+58,74
+2.7. Projeto/Componentes
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 7
+Componentes
+Valor(?)
+C - UNIVERSALIZAÇÃO DOS SERVIÇOS DE ABASTECIMENTO DE ÁGUA
+25.887.396,87
+      P - Novas ligações de água 
+25.887.396,87
+C - UNIVERSALIZAÇÃO DOS SERVIÇOS DE ESGOTAMENTO SANITÁRIO
+251.323.324,02
+      P - Novas ligações de esgoto
+251.323.324,02
+C - LEVANTAMENTO E DIAGNÓSTICO PARA COMBATE À PERDAS NA DISTRIBUIÇÃO DE ÁGUA
+2.789.279,11
+      P - Levantamento e diagnóstico para combate à perdas na distribuição de água
+2.789.279,11
+Total dos Componentes
+280.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - UNIVERSALIZAÇÃO DOS SERVIÇOS DE ABASTECIMENTO DE ÁGUA
+Este componente se refere às ações para universalização dos serviços de abastecimento de água.
+      P - Novas ligações de água 
+Se prevê a construção de 76.197 novas ligações de água. 
+Etapas de implantação:
+1.Diagnóstico dos sistemas existentes, identificando o potencial de novas ligações e as ações demandas para atendimento (
+necessidade de implantação ou ampliação de sistemas para expansão das ligações ou apenas obras de extensão de redes):
+- Ampliação ou implantação de sistemas de água: quando não existir infraestrutura de produção de água ou quando a estrutura
+existente for incompatível com a demanda gerada com o atendimento das novas ligações, exigindo intervenções e ampliação da
+estrutura existente;
+- Extensões de rede de água: Quando a infraestrutura existente for capaz de absorver as novas demandas previstas com as novas
+ligações, exigindo apenas a ampliação da distribuição.
+2.Projetos e implementação de obras para ampliação da cobertura de água conforme diagnóstico prévio, divididos em obras de
+implantação ou ampliação de estruturas ou obras de extensão de redes:
+- Ampliação de sistemas, podendo contemplar obras de implantação ou ampliação de estruturas de captação (captação, elevatória
+e adução de água bruta), tratamento (Estações de Tratamento de Água - ETA), adução (adutoras e elevatórias), e distribuição (
+adutoras, elevatórias, reservatórios de água apoiados e elevados, redes e ramais), incluindo as novas ligações de água;
+- Projeto de extensão de redes, contemplando apenas melhorias no sistema de distribuição, com implantação ou ampliação de
+elevatórias, extensões de redes e ramais de forma a possibilitar o atendimento de novas ligações de água.
+O Projeto envolve investimentos nas áreas de infraestrutura de serviços de água: construção de reservatórios, estações de
+bombeamento, rede de distribuição e outras instalações auxiliares para as novas ligações.
+Com o acesso universal à água potável, há uma redução significativa das doenças transmitidas pela água, como diarreia, cólera e
+hepatite A. Essas doenças são responsáveis por um grande número de mortes, especialmente em áreas onde o acesso à água
+potável é limitado. Além disso, a água adequada para higiene pessoal também ajuda a prevenir doenças infecciosas.
+A disponibilidade de água potável em todas as áreas, incluindo áreas rurais e comunidades de baixa renda, impulsiona o
+desenvolvimento econômico. A água é essencial para a agricultura, indústria e setor de serviços. Com acesso à água, as
+comunidades terão melhores condições para iniciar e expandir negócios, cultivar alimentos e melhorar sua produtividade em geral.
+A água é um elemento fundamental para a produção de alimentos. Com a universalização do acesso à água, as comunidades
+poderão investir na agricultura irrigada, aumentando a produção de alimentos e melhorando a segurança alimentar. Além disso, a
+água potável é essencial para a higiene na manipulação e preparação de alimentos, reduzindo o risco de contaminação.
+A universalização dos serviços de abastecimento de água também envolve o manejo sustentável dos recursos hídricos. Isso inclui
+a proteção de fontes de água, a conservação da água e a conscientização sobre o uso responsável. Essas medidas ajudam a
+garantir um suprimento de água adequado para as gerações futuras.
+É importante ressaltar que a universalização dos serviços de abastecimento de água é um desafio complexo que envolve
+investimentos significativos em infraestrutura, políticas públicas eficazes e cooperação entre diferentes setores da sociedade. No
+entanto, os benefícios a longo prazo justificam os esforços necessários para alcançar esse objetivo.
+C - UNIVERSALIZAÇÃO DOS SERVIÇOS DE ESGOTAMENTO SANITÁRIO
+Este componente se refere às ações para universalização dos serviços de esgotamento sanitário.
+      P - Novas ligações de esgoto
+Se prevê a construção de 233.009 novas ligações de esgoto.
+Etapas de implantação:
+1. Diagnóstico dos sistemas existentes identificando potencial de ligações pendentes e ações demandas para atendimento (
+necessidade de implantação ou ampliação de sistemas para expansão das ligações ou apenas obras de adensamento de ligações
+- extensão de redes coletoras, elevatórias e adensamento):
+- Ampliação ou implantação de sistemas de esgoto: quando não existir infraestrutura de coleta e tratamento ou quando a estrutura
+existente for incompatível com a demanda gerada com o atendimento das novas ligações, exigindo implantação de novas
+estruturas e/ou ampliação das estruturas existentes;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 8
+- Extensões de rede de esgoto (Adensamento): Quando a infraestrutura existente for capaz de absorver as novas demandas
+previstas com as novas ligações, exigindo apenas a ampliação da distribuição.
+2. Projetos e implementação de obras para ampliação da cobertura de esgotamento sanitário conforme diagnóstico prévio,
+divididos em implantação e/ou ampliação de estruturas e apenas adensamento:
+- Projetos de implantação e/ou ampliação de Sistemas de Esgotamento Sanitário - SES, podendo contemplar obras de implantação
+ou ampliação de coleta (ligações de esgoto, ramais e coletores), transporte (Interceptores e elevatórias de esgoto), tratamento (
+Estações de Tratamento de Esgotos - ETE) e destinação final(estações elevatórias e emissário final);
+- Projeto de adensamento de esgoto, contemplando apenas melhorias no sistema de coleta, com a possibilidade de implantação de
+ novas elevatórias, extensões de redes coletoras e ramais de forma a viabilizar as novas ligações de esgoto.
+O Projeto envolve investimentos nas áreas de infraestrutura de serviços de esgotos: Interceptores, redes coletoras, captações em
+tempo seco, estações de tratamento de esgotos, estações elevatórias, ramais para as novas ligações.
+O acesso universal aos serviços de abastecimento de esgoto garante o tratamento adequado dos resíduos humanos, reduzindo a
+contaminação da água e do solo. Isso ajuda a prevenir doenças transmitidas pelo esgoto, como cólera, disenteria, febre tifoide e
+hepatite A. A melhoria na saúde pública resultante da redução da exposição a essas doenças tem um impacto direto na qualidade
+de vida das pessoas.
+O tratamento adequado do esgoto contribui para a preservação do meio ambiente. Ao evitar o despejo de esgoto não tratado em
+corpos d'água e solos, reduz-se a poluição e a degradação dos ecossistemas aquáticos.
+O lançamento de esgoto não tratado em corpos d'água pode contaminar as fontes de água potável. Com a universalização dos
+serviços de abastecimento de esgoto, haveria uma redução significativa na poluição dos rios, lagos e aquíferos, melhorando a
+qualidade da água disponível para consumo humano, agricultura e vida selvagem.
+A universalização dos serviços de abastecimento de esgoto pode gerar benefícios econômicos significativos. A melhoria na saúde
+pública resultante da redução de doenças relacionadas ao saneamento inadequado reduz os custos com tratamento médico e
+aumenta a produtividade da mão de obra. Além disso, o tratamento de esgoto pode criar oportunidades de emprego e impulsionar
+setores relacionados, como o desenvolvimento de tecnologias de tratamento de águas residuais.
+A universalização dos serviços de abastecimento de esgoto está alinhada com os Objetivos de Desenvolvimento Sustentável (ODS
+) das Nações Unidas, especificamente com o ODS 6, que busca garantir a disponibilidade e gestão sustentável da água e
+saneamento para todos. Ao promover o acesso a serviços de saneamento adequados, se contribui para a construção de um futuro
+mais sustentável e equitativo.
+É importante ressaltar que a universalização dos serviços de abastecimento de esgoto também requer investimentos significativos
+em infraestrutura, planejamento adequado e conscientização da população sobre a importância do saneamento básico. No entanto
+, os benefícios para a saúde, meio ambiente e desenvolvimento social justificam os esforços necessários para alcançar esse
+objetivo.
+C - LEVANTAMENTO E DIAGNÓSTICO PARA COMBATE À PERDAS NA DISTRIBUIÇÃO DE ÁGUA
+Este componente se refere às ações para levantamento e diagnóstico para combate à perdas na distribuição de água.
+      P - Levantamento e diagnóstico para combate à perdas na distribuição de água
+O Produto prevê a elaboração de um levantamento com diagnóstico preciso para combate à perdas na distribuição de água na
+área de atuação da Embasa. Um estudo eficaz neste tema pode fornecer informações valiosas e levar a uma série de resultados
+positivos.
+Dentre as ações objeto de estudo estão: 
+- Implantação de novas tecnologias para: (a) controle ativo de vazamentos; (b) qualidade e velocidade de reparos em redes e
+ramais de distribuição. 
+- No mapeamento feito está a mobilização para pesquisa de vazamento por satélite (tecnologia israelense), a melhoria no cadastro
+de redes subterrâneas, por meio do uso de equipamento tipo georadar e a disponibilidade de novos sistemas para controle e
+monitoramento dos sistemas de distribuição de água. 
+- Remodelagem de contratos de performance voltados à manutenção de redes e ramais de água. Com o objetivo de torná-los
+ferramentas eficientes aos alcances das metas de indicadores de redução de perdas de água. 
+- Implantação de Distritos de Medição e Controle (DMC) em diversos setores hidráulicos. 
+O estudo permitirá a identificação precisa dos pontos onde ocorrem as maiores perdas no sistema de abastecimento de água,
+como vazamentos em tubulações, ligações clandestinas, erros de medição, entre outros. Essa identificação ajudará na priorização
+das ações corretivas e no direcionamento dos recursos para as áreas mais críticas.
+O estudo analisará as causas das perdas de água, como infraestrutura inadequada, falta de manutenção, medição imprecisa, entre
+outras. Além disso, avaliará a magnitude das perdas, quantificando a quantidade de água perdida em volume ou percentual. Essas
+ informações são essenciais para o desenvolvimento de estratégias eficazes de combate às perdas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 9
+Com base nos resultados do estudo, poderão ser propostas medidas corretivas específicas para reduzir as perdas no
+abastecimento de água. Isso pode incluir ações como reparo de vazamentos, substituição de tubulações antigas, modernização
+dos sistemas de medição, implantação de tecnologias avançadas de detecção de vazamentos, entre outras. As medidas corretivas
+serão adaptadas às necessidades e características do sistema de abastecimento em questão.
+O estudo permitirá uma avaliação dos benefícios econômicos esperados com a redução das perdas no abastecimento de água.
+Isso pode incluir a estimativa de redução de custos operacionais, como tratamento de água não utilizada e reparos de emergência,
+bem como a projeção de aumento da receita devido ao melhor faturamento e cobrança mais precisa.
+O estudo também pode estabelecer um sistema de monitoramento contínuo para acompanhar os resultados das medidas
+implementadas. Isso permitirá avaliar a eficácia das ações adotadas, identificar novas oportunidades de melhoria e garantir a
+sustentabilidade das ações de combate às perdas a longo prazo.
+Para viabilizar essas ações, o Programa propõe que o contrato de empréstimo seja firmado na modalidade SDL (Sustainable
+Development Loan), que prevê desembolsos vinculados ao alcance de metas estabelecidas por indicadores pré-acordados (segue
+no Anexo 8 os indicadores com as metas anuais). 
+Dessa forma, à medida que a empresa avança em seu plano de investimentos, ela tem acesso aos recursos do banco. Essa
+abordagem reduz os riscos de contratação e fortalece a implementação dos sistemas nacionais de gestão de riscos
+socioambientais e de aquisições. A modalidade SDL também reduz significativamente os custos de transação, trazendo agilidade
+na prestação de contas e desembolsos. 
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Obras
+-
+-
+277.210.720,89
+99,00
+P- Novas ligações de água 
+Ligações
+76.197,00
+25.887.396,87
+9,25
+P- Novas ligações de esgoto
+Ligações
+233.009,00
+251.323.324,02
+89,76
+Outros
+-
+-
+2.789.279,11
+1,00
+P- Levantamento e diagnóstico para combate à
+perdas na distribuição de água
+Estudo
+1,00
+2.789.279,11
+1,00
+Total Geral
+-
+-
+280.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+A EMBASA possui uma Carteira de Projetos Básicos de Engenharia Concluídos e a Concluir em 2023 (conforme Anexo 9), inclusive com
+suas respectivas especificações técnicas, restando, oportunamente, as atualizações dos orçamentos e a elaboração/atualização de
+termos de referência, para posterior Licitação. Essa Carteira se apresenta aderente aos propósitos do Programa Mais Saneamento para
+Bahia.
+As ações que ainda não dispõem de projetos prontos para licitação serão inseridas no rol de contratações integrada ou semi- integrada,
+conforme prevê a Lei Federal nº 13.303/2016, a qual está submetida a EMBASA.
+O processo de licenciamento ambiental dos empreendimentos da Embasa se dá quando da conclusão do projeto básico através do
+requerimento junto ao órgão ambiental estadual, o INEMA. Durante a etapa de projeto, são realizados os estudos socioambientais
+pertinentes a cada empreendimento, sendo que, através destes estudos, é realizado o mapeamento dos impactos socioambientais
+relacionados à sua implantação e operação, bem como, são propostas as medidas mitigadoras necessárias, as quais, são implementadas
+por intermédio dos planos, projetos e programas ambientais desenvolvidos nesta etapa. São exemplos de alguns estudos socioambientais
+elaborados: Na Fase de Estudos de Concepção e Viabilidade de projetos tem-se o Relatório de Avaliação Ambiental (RAM) e o Relatório
+de Impacto Social (RIS); na fase de projeto Básico também são elaborados o RAM e o RIS direcionados para esta etapa; Inventário
+Florestal (IF); Estudo de Componente Quilombola (ECQ); Estudo de Corpo Receptor (ECR) para fins de outorga; dentre outros. Quanto
+aos planos, projetos e programas desenvolvidos, podemos citar os seguintes: Plano de Supressão e Transplantio de Vegetação (PSTRV);
+Plano de Afugentamento e Resgate de Fauna (PARF); Plano de Resgate de Flora (PRF); Plano de Recuperação de Áreas Degradadas (
+PRAD); Projeto de Trabalho Social (PTS); Programa de Monitoramento da Qualidade da Água e Sedimentos (PMQAS); Programa de
+Monitoramento e Manejo de Organismos Aquáticos (PMMOA); dentre outros. Os estudos, planos, projetos e programas são avaliados pelo
+INEMA e com sua aprovação são emitidas as autorizações necessárias ao início das obras. Vale salientar que todo o planejamento é
+realizado visando a obtenção das licenças antes da licitação das obras.
+Para as ações de regularização fundiária, a Embasa conta com um processo estruturado, com representantes das áreas envolvidas nas
+ações (assistentes sociais, gerência de patrimônio, gerente de obras, procuradoria jurídica e gestão de empreendimentos),  no qual,  as
+tratativas são discutidas mensalmente, dando maior celeridade aos processos de regularização fundiária.
+O processo se inicia preliminarmente na fase de execução do projeto básico, com a análise do Tomo relativo à Regularização Fundiária.
+Toda documentação deve ser aprovada antes da entrega oficial do projeto pela equipe de patrimônio da Embasa, responsável pela
+regularização das áreas. Sempre que possível, as estruturas são alocadas em áreas públicas ou que envolvam o menor número possível
+de proprietários, bem como sejam posicionadas de forma a não inviabilizar a utilização das áreas residuais do terreno pelo proprietário. Os
+ projetos buscam soluções técnicas adequadas, de modo a minimizar os custos de implantação.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 10
+Com a conclusão do projeto e a priorização das áreas denominadas mandatórias (áreas indispensáveis ao bom andamento da obra), se
+dá início a obtenção dos decretos de utilidade pública para propriedades privadas e/ou Termos de Cessão de Uso para propriedades
+públicas. Paralelamente é elaborado o laudo de avaliação e iniciada as negociações com os proprietários, em caso de consenso, o
+processo segue por vias administrativas para aprovação e pagamento da área, em caso de litígio o processo segue por vias judiciais com
+solicitação de liminar para imissão de posse. Em ambos os casos, os processos findam com o registro da posse em cartório. Vale salientar
+ que todo o planejamento é realizado visando a obtenção das regularizações das áreas antes da licitação das obras.
+
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Estadual/Sem detalhes
+Estado da Bahia ()
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+(i) As condições indicativas de financiamento apresentadas pelo agente financeiro (o NDB) são:
+Valor do Financiamento: até 280.000.000,00 Euros.
+
+- Prazo total: até 240 meses
+- Carência: até 60 meses
+- Prazo de amortização: até 180 meses
+- Moeda: Euro
+- Amortização: Semestral
+- Taxa de Referência: EURIBRO + spread variável 
+- Spread: 1,15% (variável, válido entre 1 de janeiro e 30 de junho de 2023)
+- Comissão inicial: 0,25% do valor do empréstimo (capitalizável)
+- Comissão de Compromisso: 0,25% do saldo não desembolsado (não aplicável se os desembolsos acumulados  corresponderem a 15%,
+45%, 85% e 100%, respectivamente, nos anos 1, 2, 3 e 4 da implementação do programa)
+- Desembolso: por antecipação e/ou reembolso
+- Financiamento retroativo para despesas elegíveis: limitado a até 20% do montante do empréstimo, e a um ano antes da data de
+assinatura do acordo de empréstimo;
+- Prazo do Desembolso: até 60 meses
+- Declaração do Estado da Bahia: o Estado da Bahia oferecerá contragarantias à operação, bem como a informação de que a EMBASA se
+enquadra no conceito de estatal não dependente. Assim, está em elaboração o projeto de lei a ser tramitado na casa legislativa para
+autorizar o governo do  Estado a conceder as garantias.
+
+Para a elaboração do cronograma de desembolsos do programa em questão foi utilizado como moeda do contrato o euro, adotando como
+cotação: 1Euro = 5,41R$. (em 01/06/2023).
+
+COMPARATIVO COM AGENTES FINANCEIROS INTERNOS: 
+BRB
+- Prazo total: 120 meses;
+- Prazo de carência: 12 meses;
+- Prazo de amortização: 108 meses;
+- Taxa concedida: 115% de CDI a.a.;
+- Demais Encargos: Tarifa de 1% sobre o valor do financiamento + Tarifa de 0,5% a.a sobre o saldo não desembolsado;
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 11
+Caixa Econômica Federal
+- Prazo total: 288 meses;
+- Prazo de carência: 48 meses;
+- Prazo de amortização: 240  meses;
+- Taxa concedida: 9% (6% juros; 2% Administração e 1% Risco)
+- Demais Encargos: Tarifa de Customização: 2%;
+- Atualização Monetária: TR
+
+Banco Nacional de Desenvolvimento Econômico e Social
+- Prazo total: 288 meses;
+- Prazo de carência: 48 meses;
+- Prazo de amortização: 240  meses;
+- Taxa concedida: TLP (IPCA + 5,49%) + (1,65 Spread do Banco)
+- Demais Encargos: Tarifa de Customização: 0,03%;
+
+
+COMPARATIVO COM AGENTES FINANCEIROS EXTERNOS: 
+CAF
+- Prazo total: 216 meses;
+- Prazo de carência: 60 meses;
+- Prazo de amortização: 156 meses;
+- Taxa concedida: SOFR semestral + 2,00% a.a
+- Demais Encargos: Comissão de compromisso de 0,35% e Comissão de financiamento de 0,85%;
+
+Banco Mundial
+- Prazo total: 216 meses;
+- Prazo de carência: 60 meses;
+- Prazo de amortização: 156 meses;
+- Taxa concedida: SOFR semestral + 1,37%
+- Demais Encargos: Comissão Inicial de 0,25% sobre valor do empréstimo, Comissão de compromisso de 0,25% sobre saldo não
+desembolsado; Sobretaxa de 0,5% pode ser aplicada caso o país ultrapasse o "single borrower limit".
+
+É importante ressaltar que os agentes financeiros internos e os demais agentes externos, não possuem a modalidade SDL ofertada pelo
+NDB, somente a modalidade com necessidade de contrapartida de pelo menos 20% do valor total do Programa a ser financiado (art 2º da
+Resolução nº 3, de 29 de maio de 2019, da COFIEX). 
+
+A Resolução COFIEX nº 3 supracitada dispõe no Art 3º, inciso V: 
+"Não será exigido o requisito de contrapartida a que se referem os artigos anteriores, nas seguintes operações:
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 12
+(...) V - de empréstimos na modalidade de desembolsos condicionados ao cumprimento de metas e de execução financeira, previamente
+estabelecidas."
+
+
+(ii) Da justificativa para a escolha do NDB
+O NDB (New Development Bank) possuiu a modalidade de empréstimos SDL (Sustainable Development Loan), que prevê desembolsos
+vinculados ao alcance de metas estabelecidas por indicadores pré-acordados. Dessa forma, à medida que a empresa avança em seu
+plano de investimentos, ela tem acesso aos recursos do banco. Essa abordagem reduz os riscos de contratação e fortalece a
+implementação dos sistemas nacionais de gestão de riscos socioambientais e de aquisições. Essa modalidade SDL também reduz
+significativamente os custos de transação, trazendo agilidade na prestação de contas e desembolsos. 
+
+O NDB está construindo uma carteira relevante de projetos na área de água e saneamento no Brasil, principalmente através de empresas
+estatais, como a EMBASA. São exemplos, SABESP (SP), COMPESA (PE), CAGEPA (PB) e ainda empresas do setor privado como a
+AEGEA. Recentemente o NDB aprovou empréstimo similar ao SDL para SABESP. Este tipo de empréstimo é oferecido a empresas com
+alta capacidade e disciplina na implementação de projetos e monitoramento de resultados.
+
+Custos e prazos de empréstimo do NDB para financiamentos com garantia soberana no Brasil está entre os mais baixos dentre os bancos
+multilaterais e ainda possui taxas favoráveis de abertura e comissão de compromisso.
+
+NDB tem estabelecido um diálogo com a EMBASA para potencial financiamento desde 2019, incluindo visitas à empresa e discussões
+sobre potenciais projetos ao longo dos anos. O NDB tem fornecido apoio à empresa nas etapas de pré-identificação do programa e na
+elaboração da respectiva carta-consulta. Esse apoio, realizado por sua equipe técnica e consultorias, é de extrema importância, pois além
+de trazer um ganho significativo de conhecimento e qualidade à carta-consulta e, consequentemente, ao programa, também agiliza o
+processo. 
+
+A utilização pelo Banco de políticas e normas de aquisição, sociais e ambientais similares às nacionais produz os seguintes benefícios
+para a operação de crédito: (i) Reduz significativamente o custo transacional da operação de crédito, resultando em baixo custo de
+preparação e execução. (ii) Gera menor demanda por técnicos, consultorias e serviços adicionais. (iii) Proporciona maior segurança e
+reduz os riscos na execução do Programa.
+
+Assim, para fazer frente a novas ações estruturadoras estratégicas para a melhoria e a expansão dos serviços de abastecimento de água
+e esgotamento sanitário no Estado, a Companhia decidiu dar um passo diferente na gestão financeira, buscando captar diretamente
+recursos junto aos bancos internacionais, que oferecem linhas de crédito mais longas e taxas atrativas. A Companhia entende que esta
+captação com o NDB permitirá: reduzir o custo de captação e alongar o perfil da dívida; investir de forma sustentável; se beneficiar da
+experiência do NDB em projetos similares e em seus países membros.
+
+
+
+2.11. PROJETO/BENEFICIÁRIO
+O saneamento básico é um tema de extrema relevância em um país, pois possui um impacto direto na saúde, qualidade de vida,
+preservação do meio ambiente, desenvolvimento socioeconômico e desigualdade social de toda a sua população e  permeia todas as
+esferas da sociedade.
+O programa auxiliará na ampliação da rede de abastecimento de água e de esgotamento sanitário atendida pela EMBASA, sendo assim,
+ela beneficiará não apenas o novo público de 212.590 habitantes que passarão a ser abastecidos com água  e  de 650.095 habitantes
+com esgotamento sanitário, como também favorecerá toda a população dos municípios atendidos pela companhia, uma vez que a
+ampliação da cobertura de coleta de esgoto contribui para a melhoria ambiental dessas regiões. Desta forma, será atendida indiretamente
+toda a população da região atendida pela EMBASA, bem como a população de seu entorno.
+
+Neste contexto indica-se a seguir como os critérios de avaliação previstos na Resolução nª 17, de 07 de junho de 2021 da COFIEX são
+contemplados pelo Programa:
+- Item 1.1 - Promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação:
+O Programa planeja implementar ações de saneamento básico levando em consideração o uso eficiente e sustentável dos recursos
+hídricos. A implantação de novas ligações de sistema de esgotamentos sanitários prevê o tratamento adequado dos resíduos sólidos de
+modo a evitar a contaminação do solo e corpos d´água, contribuindo para a proteção ambiental.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 13
+- Item 1.2 - Eficiência energética, geração e /ou uso de energia de fontes renováveis:
+A Embasa tem como meta, a partir de 2024 operar 60% dos seus sistemas que recebem alta tensão com energia eólica e solar e, a partir
+de 2026 operar 95%, isto é, os sistemas de água e esgoto previstos no Programa serão operados com uso de energia de fontes
+renováveis.
+O Programa também aborda a elaboração de estudos e projetos para tratar a redução de perdas e automação, que promoverá grandes
+ganhos energéticos.
+
+-  Item 1.3 - Implantação e/ou ampliação de ações de saneamento básico:
+A Embasa é responsável pela prestação dos serviços de abastecimento de água e de esgotamento sanitário em 367 municípios do Estado
+da Bahia, compreendendo a captação, tratamento e distribuição de água, bem como a coleta, transporte, tratamento e destinação
+adequada dos esgotos domésticos. Desta forma, o Programa abrange ações de ampliação/implantação da oferta de serviços de
+abastecimento de água e de esgotamento sanitário, assim como estudos e projetos para melhoria da eficiência operacional dos sistemas
+de abastecimento de água, reduzindo as perdas de água.
+
+- Item 1.4 - Gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes:
+As ações do Programa tratam diretamente da gestão integrada de recursos hídricos ao buscar uma abordagem abrangente e sustentável
+para lidar com os desafios relacionados à água, promovendo o uso eficiente e equitativo dos recursos hídricos, aumento da resiliência dos
+sistemas urbanos a períodos de maior seca, a conservação dos ecossistemas aquáticos e a melhoria da qualidade de vida das pessoas.
+O Programa também trata da segurança hídrica ao requalificar e ampliar os sistemas de abastecimento de água e esgotamento sanitário,
+garantindo o acesso suficiente, confiável e seguro à água para atender às necessidades básicas das comunidades, bem como para
+sustentar o desenvolvimento socioeconômico e proteger o meio ambiente contra a poluição hídrica. As ações do Programa visam
+assegurar que haja água em quantidade e qualidade adequadas para atender às demandas das populações, da agricultura, da indústria e
+dos ecossistemas dos municípios atendidos pela empresa.
+
+- Item 1.5 - Conservação e manejo da biodiversidade e/ou de recursos florestais:
+Ao implantar os sistemas de abastecimento de água e de esgotamento sanitário o Programa atuará na recuperação da vegetação ciliar no
+entorno das áreas de intervenção.
+Além disso, a universalização do sistema de esgotamento sanitário contribuirá diretamente para a conservação e manejo da
+biodiversidade e recursos florestais ao coletar e tratar os resíduos sólidos que hoje são lançados diretamente nos mananciais.
+
+- Item 1.6 - Melhoria do ambiente de negócios e/ou oportunidades:
+A implantação de saneamento básico pode trazer várias melhorias para o ambiente de negócios e criar oportunidades econômicas, como:
+a atração de investimentos; criação de empregos desde a construção das redes de abastecimento de água e esgotamento sanitário até a
+operação e manutenção desses sistemas, com potencial para a criação de empregos
+diretos e indiretos; desenvolvimento de setores relacionados, como construção civil, engenharia ambiental, fabricação de equipamentos
+sanitários etc; redução de custos operacionais de empresas e indústrias; melhoria da qualidade de vida dos trabalhadores, gerando maior
+satisfação e produtividade; dentre outros.
+
+- Item 1.7 - Benefícios para empreendedores individuais, micro e pequenas empresas:
+A implantação de saneamento básico gera benefícios a empreendedores, principalmente aos individuais, micro e pequenas empresa ao
+promover a melhoria no ambiente de negócios, assim como um ambiente livre de contaminação por esgoto, melhoria das condições
+sanitárias e redução da probabilidade de doenças entre os trabalhadores, o que pode resultar em menor absenteísmo e maior capacidade
+de trabalho.
+O saneamento básico é capaz de impactar diretamente o empreendedorismo e pequenos negócios, a partir da identificação de
+oportunidades de negócios, como serviços de limpeza e manutenção de sistemas, fabricação e venda de produtos sanitários, coleta e
+reciclagem de resíduos, entre outros.
+
+- Item 1.8 - Geração de emprego e renda para populações de baixa renda e vulneráveis:
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 14
+A implantação de um sistema de saneamento básico pode ter um impacto significativo na geração de emprego e renda para populações
+de baixa renda e vulneráveis, como: criação de empregos diretos e indiretos, desde mão de obra na construção e operação, cargos
+ocupados em sua grande maioria por população de baixa renda; oportunidades de capacitação e desenvolvimento de habilidades de mão
+de obra local, aumentando as perspectivas de emprego de pessoas com baixo poder aquisitivo; fortalecimento das cadeias de valor locais
+que contribuem para o desenvolvimento econômico sustentável, gerando mais empregos e renda para a população local. Essas iniciativas
+empresariais podem gerar renda adicional para essas comunidades, contribuindo para a redução da pobreza e o aumento da resiliência
+econômica.
+
+- Item 1.9 - Infraestrutura e/ou equipamentos sociais para populações de renda baixa e vulneráveis:
+A infraestrutura de abastecimento de água é essencial para garantir o acesso à água potável para populações de baixa renda e
+vulneráveis. A presença de infraestrutura adequada de água potável facilita o acesso a fontes seguras de água, reduzindo a dependência
+de fontes contaminadas e melhorando a saúde e a qualidade de vida de pessoas que vivem em situação de vulnerabilidade social e
+condições precárias. A infraestrutura de esgotamento sanitário é fundamental para garantir a coleta e o tratamento adequado dos resíduos
+humanos. Isso inclui redes de esgoto, fossas sépticas, estações de tratamento de esgoto e outros sistemas de disposição de resíduos. A
+falta de acesso a sistemas de esgotamento sanitário adequados pode resultar em contaminação do meio ambiente, propagação de
+doenças e condições insalubres. Portanto, a presença de infraestrutura de esgotamento sanitário é essencial para proteger a saúde e o
+bem-estar das populações de baixa renda e vulneráveis.
+
+- Item 1.10 - Ações de inclusão de minorias sociais entre os beneficiários:
+As minorias sociais muitas vezes enfrentam desigualdades e discriminação em diferentes aspectos de suas vidas. Negar-lhes o acesso a
+serviços básicos, como água potável e saneamento adequado, aprofunda ainda mais essas desigualdades. Garantir que as ações de
+saneamento básico sejam direcionadas para atender às necessidades das minorias sociais é
+uma maneira de promover a equidade e a justiça social.
+As minorias sociais são frequentemente afetadas de forma desproporcional por condições insalubres devido à falta de acesso a serviços
+de saneamento básico. Isso pode levar a problemas de saúde, como doenças transmitidas pela água, infecções e problemas relacionados
+à higiene inadequada. Ao incluir as minorias sociais como beneficiárias de ações de  saneamento básico, busca-se garantir que elas
+tenham acesso a condições de vida saudáveis e seguras.
+
+- Item 1.11 - Políticas voltadas para juventude, gênero e raça:
+Segundo a PNAD Contínua de 2018, feita pelo IBGE, confirmou que uma em cada 5 pessoas que moravam na Bahia afirmavam ter cor
+preta. Ou seja, 3.389.881 baianos se autodeclaravam pretos, representando 22,9% da população do estado, além disso, somando-se
+pretos e pardos (negros), chegava-se, em 2018, a 81,1% da população da Bahia (11,994 milhões de pessoas).
+Além disso, conforme pesquisa realizada em 2020 pela Superintendência de Estudos Econômicos e Sociais da Bahia (SEI) em parceria
+com a Secretaria de Políticas para as Mulheres (SPM), cerca de 35% das famílias baianas cadastradas no CadÚnico são monoparentais
+femininas, ou seja, lideradas por mulheres sem cônjuge. A porcentagem representa 960.763 famílias.
+Assim, comprovamos que a política de saneamento básico praticada na Bahia, na qual  o Programa estará inserida, inevitavelmente irá
+requalificar e ampliar os sistemas de água e esgoto em áreas majoritariamente habitadas por pessoas negras e pardas, mulheres chefes
+de família e jovens.
+
+- Item 1.12 - Melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão e/ou de participação cidadã:
+O Programa traz consigo em sua essência a melhoria da prestação dos serviços públicos de saneamento, pois ou estará implantando
+sistemas de água/esgoto ou ampliando sistemas de abastecimento de água, que consequentemente aumentará a oferta hídrica nas
+localidades beneficiadas.
+
+Item 1.13 - Melhoria das condições de educação e saúde:
+A implantação de um sistema de saneamento básico adequado tem um impacto significativo na melhoria das condições de saúde de uma
+comunidade, como: Redução de doenças transmitidas pela água; Melhoria da higiene pessoal; Prevenção de doenças relacionadas ao
+esgoto; Controle de vetores de doenças; Promoção da saúde pública com uma melhoria geral.
+A falta de saneamento básico adequado está frequentemente associada a problemas de saúde, pois a contaminação da água e a falta de
+higiene podem levar a doenças transmitidas por água e doenças relacionadas ao saneamento precário. Ao implantar sistemas de
+saneamento básico, as condições de saúde das populações de baixa renda e vulneráveis melhoram, reduzindo a incidência de doenças e
+aumentando a produtividade da força de trabalho. Isso pode resultar em maior estabilidade no emprego e aumento da renda disponível
+para as famílias.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 15
+
+- Item 1.14 - Desenvolvimento, inovação e modernização tecnológica:
+O Programa prevê a elaboração de diagnóstico e projeto para a implantação de tecnologias inovadoras, como a filtração por membrana, a
+ozonização, a fotocatálise e os processos de digestão anaeróbica, que podem remover contaminantes com maior eficácia e reduzir a
+carga de poluentes nos corpos hídricos.
+Além disso, os projetos previstos no Programa terão foco no uso de sensores, sistemas de monitoramento remoto, análise de dados e
+modelos de previsão, melhorando o monitoramento dos sistemas de saneamento básico. Isso permite a detecção precoce de problemas,
+a gestão mais eficiente dos recursos hídricos, a redução de perdas de água e a otimização das operações. Além disso, a aplicação de
+tecnologias de Internet das Coisas (IoT) e inteligência artificial (IA) pode melhorar a eficiência energética, a manutenção preditiva e a
+tomada de decisões baseada em dados.
+Os projetos irão abordar a automação e controle de processos em Centro de Controle de Operadores (CCO) que permitirá o acionamento
+remoto dos conjuntos motor bomba distribuídos em estações elevatórias do sistema, além da visualização em tempo real das informações
+mais relevantes para a operação do sistema.
+
+- Item 1.15 - Arranjos de financiamento que incentivem/contribuam com a participação privada:
+Como o Programa financiará somente parte do Plano de Negócios da companhia, o valor restante para financiamento dos investimentos
+necessários para universalização será viabilizado via: 1) emissões de debêntures junto ao mercado de capitais (1 emissão corporativa e 1
+emissão incentivada em andamento), fomento de PPPs (1 MIP em andamento) e 2 locações de ativos em finalização do TR).
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Euro
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência ?
+New Development Bank - NDB
+NDB
+?
+280.000.000,00
+1,00
+280.000.000,00
+Total:
+280.000.000,00
+280.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+A EMBASA será responsável pela execução das ações descritas nos componentes. Os resultados do Projeto serão acompanhados
+estrategicamente dentro do Planejamento da Companhia, assim como os demais Programas hoje em execução pela EMBASA.
+Conforme discussões iniciais com o Banco, pode ser necessária a constituição de UGP - Unidade Gestora de Projeto específica; em
+sendo este o caso, será representada pela Unidade de Administração Financeira (FAF).
+
+Para facilitar esse processo de definição de papéis e responsabilidades, de forma sintética, apresentamos em anexo a matriz de
+responsabilidade RACI da EMBASA (conforme Anexo 10), bem como listamos abaixo os principais atores a serem envolvidos na
+execução do Programa Mais Saneamento para Bahia - MSB:
+a) Agente Financiador: NDB;
+b) Órgão Executor: EMBASA;
+c) Unidade de Gerenciamento do Programa: UGP , representada pela Unidade de Administração Financeira (FAF) - Organograma
+apresentado no anexo 11.
+
+O trabalho da empresa na área de empreendimentos está alinhado com a Política Estadual de Saneamento Básico do Governo do Estado
+e integra as ações do Programa Estadual Água para Todos-PAT. No Anexo 12, podemos visualizar as obras já concluídas e em
+andamento realizadas pela EMBASA (ano base 2021) de acordo com o PAT.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 16
+Alinhada às diretrizes do Governo do Estado para o Programa Água para Todos e na busca da universalização dos seus serviços, a
+Embasa elevou o patamar de desembolsos, devido aos investimentos realizados na expansão da cobertura de atendimento dos serviços
+de água e esgoto que, em 2022, superaram a marca histórica de R$ 1 bilhão. Tal indicador reafirma a convicção de que é possível
+alavancar o seu crescimento em bases sustentáveis. 
+A Embasa credita seu bom desempenho empresarial à competência técnica e ao elevado grau de comprometimento dos seus
+colaboradores e parceiros, conduta essencial para que os compromissos assumidos perante a sociedade sejam alcançados. A busca pela
+excelência e pela melhoria contínua, fortemente incorporada à cultura da empresa, mitigam os riscos, atenuando crises potenciais. A
+mudança de comportamento, em um processo de adaptação contínuo para ajustes às alterações de cenário, estimula a incorporação de
+inovações nos processos, somando novas experiências na expertise adquirida ao longo dos seus mais de 50 anos. Atualmente, o corpo
+funcional da EMBASA conta com 4.176 funcionários, dentre eles: 323 engenheiros; 1.599 operadores técnicos na área de água/esgoto; 44
+analistas na área de controle de qualidade de água e esgoto, executam atividades mais relacionadas ao Programa Mais Saneamento
+para Bahia - MSB.
+O Modelo Operacional proposto na implantação do Programa MSB, fundamenta-se na atuação complementar de duas unidades: a UGP,
+como entidade principal, e uma empresa contratada para o apoio ao Gerenciamento e Fiscalização.
+A UGP representa o Órgão Executor, assumindo as funções de Decisão e de Execução relacionadas à Gestão da implantação do
+Programa. A atuação da empresa contratada estará focada no apoio às funções da UGP, nos tópicos por ela indicados, estando limitada
+às suas funções de gestão e fiscalização do Projeto, ela fará a validação do atingimento das metas para que ocorram os desembolsos
+programados.
+O cronograma de desembolso foi distribuído de forma a apoiar o alcance das metas anuais estabelecidas no nosso Plano de Negócios (
+Anexo 14) (2023-2027), conforme Anexo 7.
+Cumpre-se destacar que a Embasa tem conhecimento da política de aquisições/contratações do NDB, que utiliza os sistemas nacionais,
+isto é, a legislação brasileira aplicável para empresa pública, da sociedade de economia mista  (Lei Nº 13.303, de 30/06/2016), na qual a
+Embasa tem grande experiência.
+A empresa tem conhecimento das políticas sociais e ambientais do NDB, que promove o uso dos sistemas nacionais, isto é, a legislação
+brasileira aplicável, na implementação de padrões sociais e ambientais; exceção feita a questões relacionadas a reassentamento em que
+há distinção quanto à reconstituição dos meios de vida, dentre outros. O Banco informou a empresa que durante a preparação e avaliação
+do Programa, a equipe de especialistas do NDB avaliará a capacidade de implementação do mutuário e da entidade executora, além dos
+impactos socioambientais do mesmo, e proporá um Plano de Gestão de Impactos Sociais e Ambientais e eventuais medidas de mitigação
+adequadas.
+QUANTO ÀS SOLICITAÇÕES DA SECRETARIA DO TESOURO NACIONAL (STN):
+- Contratos Cláusulas Restritivas - Anexo 13
+- Plano de Negócios da Empresa - Anexo 14
+- Projeção fluxo caixa da operação - Anexo 15
+- Relatório de Administração e Demonstrações Financeiras 2019  - Anexo 16
+- Relatório de Administração e Demonstrações Financeiras 2020  - Anexo 17
+- Relatório de Administração e Demonstrações Financeiras 2021  - Anexo 18
+- Relatório de Administração e Demonstrações Financeiras 2022  - Anexo 19
+- Informação sobre Declaração do Estado da Bahia inserida no item 2.10
+4.2. Execução/Executores
+Executor: Empresa Baiana de Águas e Saneamento S.A. - EMBASA
+Representante Oficial: Leonardo Góes 
+Endereço da Sede: Av. Luis Viana, nº 420, Centro Administrativo da Bahia, Salvador, BA.
+E-mail Institucional:
+Telefone: (71)3372-4201
+Fax:
+CNPJ: 13504675000110 
+UF:
+4.3. Execução/Prazo
+Prazo de Desembolso:
+5
+Anos
+4.4. Execução/Cronograma
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 17
+Ano 1
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+NDB
+NDB
+C - UNIVERSALIZAÇÃO DOS SERVIÇOS DE ABASTECIMENTO DE ÁGUA
+25.887.396,87
+4.804.332,87
+      P - Novas ligações de água 
+25.887.396,87
+4.804.332,87
+C - UNIVERSALIZAÇÃO DOS SERVIÇOS DE ESGOTAMENTO SANITÁRIO
+251.323.324,02
+31.342.106,17
+      P - Novas ligações de esgoto
+251.323.324,02
+31.342.106,17
+C - LEVANTAMENTO E DIAGNÓSTICO PARA COMBATE À PERDAS NA DISTRIBUIÇÃO DE ÁGUA
+2.789.279,11
+0,00
+      P - Levantamento e diagnóstico para combate à perdas na distribuição de água
+2.789.279,11
+0,00
+Total
+0,00
+36.146.439,04
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+NDB
+NDB
+C - UNIVERSALIZAÇÃO DOS SERVIÇOS DE ABASTECIMENTO DE ÁGUA
+4.625.966,78
+      P - Novas ligações de água 
+4.625.966,78
+C - UNIVERSALIZAÇÃO DOS SERVIÇOS DE ESGOTAMENTO SANITÁRIO
+33.120.647,10
+      P - Novas ligações de esgoto
+33.120.647,10
+C - LEVANTAMENTO E DIAGNÓSTICO PARA COMBATE À PERDAS NA DISTRIBUIÇÃO DE ÁGUA
+697.319,77
+      P - Levantamento e diagnóstico para combate à perdas na distribuição de água
+697.319,77
+Total
+0,00
+38.443.933,65
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+NDB
+NDB
+C - UNIVERSALIZAÇÃO DOS SERVIÇOS DE ABASTECIMENTO DE ÁGUA
+7.114.938,05
+      P - Novas ligações de água 
+7.114.938,05
+C - UNIVERSALIZAÇÃO DOS SERVIÇOS DE ESGOTAMENTO SANITÁRIO
+48.124.401,28
+      P - Novas ligações de esgoto
+48.124.401,28
+C - LEVANTAMENTO E DIAGNÓSTICO PARA COMBATE À PERDAS NA DISTRIBUIÇÃO DE ÁGUA
+697.319,78
+      P - Levantamento e diagnóstico para combate à perdas na distribuição de água
+697.319,78
+Total
+0,00
+55.936.659,11
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+NDB
+NDB
+C - UNIVERSALIZAÇÃO DOS SERVIÇOS DE ABASTECIMENTO DE ÁGUA
+4.394.260,76
+      P - Novas ligações de água 
+4.394.260,76
+C - UNIVERSALIZAÇÃO DOS SERVIÇOS DE ESGOTAMENTO SANITÁRIO
+54.628.534,09
+      P - Novas ligações de esgoto
+54.628.534,09
+C - LEVANTAMENTO E DIAGNÓSTICO PARA COMBATE À PERDAS NA DISTRIBUIÇÃO DE ÁGUA
+697.319,78
+      P - Levantamento e diagnóstico para combate à perdas na distribuição de água
+697.319,78
+Total
+0,00
+59.720.114,63
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+NDB
+NDB
+C - UNIVERSALIZAÇÃO DOS SERVIÇOS DE ABASTECIMENTO DE ÁGUA
+4.947.898,41
+25.887.396,87
+      P - Novas ligações de água 
+4.947.898,41
+25.887.396,87
+C - UNIVERSALIZAÇÃO DOS SERVIÇOS DE ESGOTAMENTO SANITÁRIO
+84.107.635,38
+251.323.324,02
+      P - Novas ligações de esgoto
+84.107.635,38
+251.323.324,02
+C - LEVANTAMENTO E DIAGNÓSTICO PARA COMBATE À PERDAS NA DISTRIBUIÇÃO DE ÁGUA
+697.319,78
+2.789.279,11
+      P - Levantamento e diagnóstico para combate à perdas na distribuição de água
+697.319,78
+2.789.279,11
+Total
+280.000.000,00
+89.752.853,57
+280.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+- Lei 14.026/2020 - Novo Marco Legal do Saneamento;
+- A diretoria colegiada da Agência Reguladora de Saneamento Básico do Estado da Bahia - AGERSA, com fulcro nos artigos 2º e 4º da Lei
+ 12.602/2012, c/c artigos 4º e 15 do Decreto Federal nº 10.710/2021 atestou a capacidade econômico-financeira da EMBASA;
+- Garantia do Estado da Bahia: o Estado da Bahia oferecerá contragarantias à operação. Assim, está em elaboração o projeto de lei a ser
+tramitado na casa legislativa para autorizar o governo do  Estado a conceder as garantias.
+- RILC - Regulamento Interno de Licitações, Contratos e Convênios
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 18
+- LDO - lei de diretrizes orçamentárias 
+- Lei Federal 11.079/04 - Institui normas gerais para licitação e contratação de parceria público-privada no âmbito da administração pública
+. 
+- Lei Federal 11.445/07 - Estabelece diretrizes nacionais para o saneamento básico; altera as Leis nos 6.766, de 19 de dezembro de 1979,
+8.036, de 11 de maio de 1990, 8.666, de 21 de junho de 1993, 8.987, de 13 de fevereiro de 1995; revoga a Lei no 6.528, de 11 de maio
+de 1978; e dá outras providências. 
+- Lei Federal 13.303/16 - Dispõe sobre o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias, no
+âmbito da União, dos Estados, do Distrito Federal e dos Municípios. 
+- Decreto 14.024/12 - instituiu a Política de Meio Ambiente e de Proteção à Biodiversidade do Estado da Bahia, e da Lei nº 11.612, de 08
+de outubro de 2009, que dispõe sobre a Política Estadual de Recursos Hídricos e o Sistema Estadual de Gerenciamento de Recursos
+Hídricos. 
+- LEI Nº 12.377 DE 28 DE DEZEMBRO DE 2011 - Altera a Lei nº 10.431, de 20 de dezembro de 2006, que dispõe sobre a Política
+Estadual de Meio Ambiente e de Proteção à Biodiversidade, a Lei nº 11.612, de 08 de outubro de 2009, que dispõe sobre a Política
+Estadual de Recursos Hídricos e a Lei nº 11.051, de 06 de junho de 2008, que Reestrutura o Grupo Ocupacional Fiscalização e Regulação
+. 
+- LEI Nº 10.431 DE 20 DE DEZEMBRO DE 2006 - Dispõe sobre a Política de Meio Ambiente e de Proteção à Biodiversidade do Estado da
+ Bahia e dá outras providências. 
+- Decreto Estadual nº 15.682 DE 19/11/2014 - Altera o Regulamento da Lei nº 10.431, de 20 de dezembro de 2006 e da Lei nº 11.612, de
+08 de outubro de 2009, aprovado pelo Decreto nº 14.024, de 06 de junho de 2012. 
+- LEI Nº 11.612 DE 08 DE OUTUBRO DE 2009 - Dispõe sobre a Política Estadual de Recursos Hídricos, o Sistema Estadual de
+Gerenciamento de Recursos Hídricos, e dá outras providências. 
+- LEI Nº 12.035 DE 22 DE NOVEMBRO DE 2010 - Altera dispositivos da Lei nº 11.612, de 08 de outubro de 2009 - dispõe sobre a Política
+Estadual de Recursos Hídricos, o Sistema Estadual de Gerenciamento de Recursos Hídricos, e dá outras providências; 
+- PORTARIA INEMA Nº 11.292 de 13/02/2016 - Define os documentos e estudos necessários para requerimento junto ao INEMA dos atos
+administrativos para regularidade ambiental de empreendimentos e atividades no Estado da Bahia, revoga a Portaria INEMA n° 8578/2014
+ e dá outras providências. 
+- RESOLUÇÃO Nº 96 DE 25 DE FEVEREIRIO DE 2014 - Estabelece diretrizes e critérios gerais para a outorga do direito de uso dos
+recursos hídricos de domínio do Estado da Bahia, e dá outras providências; 
+- Resolução CONAMA 237, de 19 de dezembro de 1997 - Dispõe sobre licenciamento ambiental; competência da União, Estados e
+Municípios; listagem de atividades sujeitas ao licenciamento; Estudos Ambientais, Estudo de Impacto Ambiental e Relatório de Impacto
+Ambiental. 
+- Resolução Conama nº 01/86 - Dispõe sobre critérios básicos e diretrizes gerais para a avaliação de impacto ambiental; 
+- Decreto-lei nº15 de 1937 - Dispõe sobre a organização do patrimônio histórico e artístico nacional; 
+- Lei nº 3.924/1961- Dispõe sobre a proteção dos bens arqueológicos; 
+- Instrução Normativa Iphan nº 01/2015 - Estabelece procedimentos administrativos a serem observados pelo Instituto do Patrimônio
+Histórico e Artístico Nacional nos processos de licenciamento ambiental dos quais participe. 
+- Lei nº 6938/81 - Dispõe sobre a exigência de estudos complementares em empreendimentos não passíveis de EIA/RIMA; 
+- Lei Nº 8.895 de 16 de dezembro de 2003 - Institui normas de proteção e estímulo à preservação do patrimônio cultural do Estado da
+Bahia, cria a Comissão de Espaços Preservados e dá outras providências; 
+- Decreto Nº 10.039 de 03 de julho de 2006 - Regulamenta a Lei nº 8.895, de 16 de dezembro de 2003, que instituiu normas de proteção e
+estímulo à preservação do patrimônio cultural do Estado da Bahia e criou a Comissão de Espaços Preservados, e dá outras providências;
+ 
+- Portaria n°. 196, de 18 de maio de 2016 - Dispõe sobre a conservação de bens arqueológicos móveis, cria o Cadastro Nacional de
+Instituições de Guarda e Pesquisa, o Termo de Recebimento de Coleções Arqueológicas e a Ficha de Cadastro de Bem Arqueológico
+Móvel.
+- Portaria nº21, 22 de janeiro de 2014 - Ministério das Cidades.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 19
+QUANTO ÀS SOLICITAÇÕES DA SECRETARIA DO TESOURO NACIONAL (STN):
+- Contratos Cláusulas Restritivas - Anexo 13
+- Plano de Negócios da Empresa - Anexo 14
+- Projeção fluxo caixa da operação - Anexo 15
+- Relatório de Administração e Demonstrações Financeiras 2019  - Anexo 16
+- Relatório de Administração e Demonstrações Financeiras 2020  - Anexo 17
+- Relatório de Administração e Demonstrações Financeiras 2021  - Anexo 18
+- Relatório de Administração e Demonstrações Financeiras 2022  - Anexo 19
+- Declaração do Estado da Bahia: o Estado da Bahia oferecerá contragarantias à operação, bem como a informação de que a EMBASA se
+enquadra no conceito de estatal não dependente. Assim, está em elaboração o projeto de lei a ser tramitado na casa legislativa para
+autorizar o governo do  Estado a conceder as garantias.
+
+5.2. RISCOS/CONTRATAÇÕES
+As contratações previstas para a execução das ações serão de responsabilidade da EMBASA (formalizados pela Gerência de Licitações e
+Contratos), por meio de processos licitatórios, cujas ordens de serviço poderão ser assinadas após resolução da COFIEX. A EMBASA
+usa como base o seu RILC (Regulamento Interno de Licitação e Contratos - Lei nº 13.303 de 30 de junho de 2016) e a Lei Federal 14.133/
+2021 (Licitações e Contratos).
+Para implantação do programa/projeto, além das contratações de empresa para a execução do escopo da obra, estão previstas as
+contratações para execução dos serviços ambientais, contratos para desenvolvimento dos trabalhos técnicos sociais e arqueológicos,
+quando necessários. As aquisições dos materiais de grande porte serão realizadas diretamente pela Embasa e para gerenciamento das
+obras, serão contratadas empresas especializadas. 
+O planejamento e monitoramento dos contratos para implantação do programa serão realizados pela equipe própria com o apoio de
+equipes terceirizadas através de contratos de assessoramento técnico. 
+A Embasa possui vasta experiência com as políticas de aquisição/contratação do agente financeiro, entre 2015 e 2023 foram encerrados
+85 instrumentos contratuais, tendo sido realizado o montante de R$ 2 bilhões em investimentos captados. Atualmente a Diretoria de
+Empreendimentos conta com uma carteira de 34 instrumentos contratuais vigentes com o montante total de R$ 2,6 bilhões investidos. 
+
+Prováveis Riscos e Ações Mitigatórias 
+Risco: Não cumprir o marco regulatório de universalização em esgotamento sanitário até 2033. 
+Causa: Ações de sustentação não resolvidas em tempo hábil. 
+Ações Mitigadoras: Toda licitação da Diretoria de Empreendimentos é precedida de mapa de risco com suas respectivas ações
+mitigatórias e para as licitações semi-integradas (realizada em sua grande maioria na DE), é obrigatório a elaboração de matriz de risco
+com divisão das responsabilidades entre o contratante e a contratada.
+
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+Como alguns projetos ainda estão em desenvolvimento, não é possível estimar o número de imóveis a serem desapropriados, nem os
+custos estimados, já que os valores variam de acordo com a região, no entanto, a Embasa procura sempre que possível, alocar as
+estruturas em áreas públicas ou que envolvam o menor número possível de proprietários, bem como sejam posicionadas de forma a não
+inviabilizar a utilização das áreas residuais do terreno pelo proprietário. Os projetos buscam soluções técnicas adequadas, de modo a
+minimizar os custos de implantação. 
+Com a conclusão do projeto e a priorização das áreas denominadas mandatórias (áreas indispensáveis ao bom andamento da obra), se
+dá início a obtenção dos decretos de utilidade pública para propriedades privadas e/ou Termos de Cessão de Uso para propriedades
+públicas. Paralelamente é elaborado o laudo de avaliação e iniciada as negociações com os proprietários, em caso de concessão, o
+processo segue por vias administrativas para aprovação e pagamento da área, em caso de litígio o processo segue por vias judiciais com
+solicitação de liminar para imissão de posse. Em ambos os casos, os processos findam com o registro da posse em cartório.  
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 20
+Nas aquisições das áreas particulares são realizadas as devidas indenizações com base num laudo técnico, entretanto a Embasa utiliza
+também de outros instrumentos legais como aluguel social, pagamento de benfeitorias, doação e cessão de uso. A responsabilidade pelas
+desapropriações fica a cargo da Embasa, inclusive os custos relacionados às indenizações. Com relação às demais interferências de
+obra, a Embasa submete o projeto de interferências, que é elaborado junto com o projeto de engenharia, à aprovação da concessionária/
+instituição externa. A aprovação do projeto de interferências autoriza a ocupação longitudinal ou transversal das faixas de domínio de
+rodovias federais ou estaduais, bem como ferrovias, para tanto, utilizando o método destrutivo ou não, em unidades sob jurisdição do
+DNIT, SIT, VIA BAHIA, CLN, ANTT ou FCA. 
+
+Prováveis Riscos e Ações Mitigatórias 
+Risco: Não liberação das áreas a serem desocupadas ou cedidas para o uso em tempo hábil. 
+Causa: Demora na negociação e/ou tramitação e julgamento dos processos judiciais 
+Ações Mitigadoras: A Administração deverá obter a autorização do proprietário e/ou imissão de posse ou termo de cessão de uso até o
+início da frente de serviço. Ocorrendo o risco, será ajustado o cronograma liberando frentes de serviços não impactadas pela
+desapropriação. 
+Risco: Não obter autorização das concessionárias para execução das obras lineares em tempo hábil. 
+Causa: Morosidade na análise e aprovação dos projetos enviados. 
+Ações Mitigadoras: A Administração deverá requerer autorização das concessionárias 6 meses antes da publicação do edital. Ocorrendo o
+ risco, será ajustado o cronograma liberando frentes de serviços não impactadas pela desapropriação.
+
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+Com relação aos impactos ambientais, um programa com as características do presente tem a particularidade de não apresentar, em
+primeira análise, impactos efetivamente negativos. Tal fato decorre da coerência intrínseca conceitual dos empreendimentos em questão,
+já que os planos contemplam ações na área ambiental, além de projetos e obras de saneamento básico que visam, justamente, a
+minimização dos impactos negativos causados ao meio ambiente pela sua ausência, e a melhoria das condições de salubridade dos
+ambientes residenciais.
+O projeto inclui um conjunto expressivo de ações de esgotamento sanitário em áreas prioritárias para proteção de mananciais estratégicos
+  para abastecimento público. Os impactos ambientais destas ações devem ser, portanto, extremamente positivos.
+Na ausência de medidas preventivas adequadas, alguns impactos potenciais podem ocorrer. Por exemplo:
+- Erosão do solo nas fases de construção e implantação das obras de infraestrutura hídrica: A prevenção da erosão do solo,
+descaracterizando a existência do impacto negativo, é perfeitamente factível através do simples, mas eficiente, controle da movimentação
+de terra, caso seja necessário. Quanto à poluição do solo, apenas na fase  de implantação das redes coletoras e emissários é que existe
+esta possibilidade de ocorrência de impactos negativos;
+- Possível supressão vegetal: EMBASA possui programas de recuperação da vegetação nativa, reabilitação da mata ciliar.
+- Atraso na obtenção da regularização ambiental: A EMBASA possui um setor específico que faz gestão junto ao órgão ambiental para
+emissão das licenças e autorizações antes da licitação.
+Cabe destacar que os impactos negativos em sua maioria são reversíveis, atuando pontualmente durante a execução da obra e que
+podem  ser minimizados através dos Plano de Controle Ambiental de Obras e outros de Planos e Programas de monitoramento de
+emissão de particulados, fumaça preta e ruídos, gestão de resíduos gerados, sinalização de obras, atendimento às emergências entre
+outros.
+Vale ressaltar ainda, o forte impacto causado na população beneficiária quanto aos aspectos de educação sanitária e ambiental. A
+experiência tem comprovado que o efeito demonstrativo de uma obra de abastecimento e/ou de implantação de melhorias sanitárias,
+associado aos programas de educação e gestão ambiental, produz efeitos significativos no comportamento dos cidadãos, quer no que
+tange à higiene pessoal e do espaço privado, quer no que se refere ao ambiente público e ao meio ambiente. Se além dos aspectos
+sanitários e de saúde se agregam componentes relativos à conscientização ambiental e à motivação para uma atitude consciente quanto
+aos recursos naturais, estar-se-ão dando passos efetivos no sentido de tornar muito mais efetivo qualquer trabalho com as gerações que
+estão se formando.
+É fundamental que a implantação de saneamento básico seja realizada de forma planejada e sustentável, levando em consideração os
+impactos ambientais e adotando medidas mitigadoras. A adoção de tecnologias mais eficientes, a gestão adequada dos recursos naturais
+e a conscientização sobre a importância da sustentabilidade são aspectos cruciais para minimizar os impactos ambientais e promover a
+preservação dos ecossistemas.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 21
+5.5. RISCOS/IMPACTO SOCIAL
+Pela natureza do programa em questão, os impactos sociais esperados são extremamente positivos. Os diversos empreendimentos
+contemplados seguem a legislação e normas vigentes com relação às questões sociais.
+A implantação de ações de saneamento básico terá um impacto significativo no Estado da Bahia. Alguns dos principais impactos sociais
+positivos que estão previstos com a implementação do saneamento básico:
+- Saúde pública: O saneamento básico adequado, que inclui o fornecimento de água potável e o tratamento adequado de esgoto, tem um
+impacto direto na saúde da população. A disponibilidade de água limpa reduz a propagação de doenças transmitidas pela água, como
+cólera, diarreia, febre tifoide e hepatite A. O tratamento de esgoto evita a contaminação do meio ambiente e a disseminação de doenças
+relacionadas ao esgoto, como verminoses, esquistossomose e doenças respiratórias.
+- Qualidade de vida: A falta de saneamento básico afeta negativamente a qualidade de vida das pessoas. Com a implementação
+adequada do saneamento, as condições de vida melhoram significativamente. As pessoas têm acesso a água limpa para beber, cozinhar
+e higiene pessoal, reduzindo a incidência de doenças e melhorando a higiene geral. Além disso, o tratamento adequado de esgoto reduz o
+ mau cheiro, a poluição visual e a proliferação de insetos e roedores.
+- Desenvolvimento econômico: A falta de saneamento básico pode ter um impacto negativo na economia de uma região. Doenças
+relacionadas à falta de saneamento básico levam a altas taxas de absentismo escolar e no trabalho, diminuindo a produtividade e o
+desenvolvimento econômico. Com a implementação do saneamento básico, a saúde geral da população melhora, resultando em uma
+força de trabalho mais saudável e produtiva.
+Meio ambiente: O saneamento básico adequado contribui para a proteção do meio ambiente. O tratamento de esgoto evita a
+contaminação de rios, lagos e aquíferos, preservando os recursos hídricos e a biodiversidade. 
+- Igualdade social: A implementação de saneamento básico é essencial para reduzir as desigualdades sociais. Populações vulneráveis,
+como comunidades de baixa renda, áreas rurais e assentamentos informais, são as mais afetadas pela falta de saneamento básico.
+Acesso igualitário ao saneamento básico garante que todas as pessoas tenham a oportunidade de viver em condições saudáveis e dignas
+.
+Em resumo, a implantação de saneamento básico tem um impacto social positivo significativo, melhorando a saúde pública, a qualidade
+de vida, o desenvolvimento econômico, a proteção do meio ambiente e promovendo a igualdade social. É uma medida essencial para
+promover o bem-estar e a sustentabilidade das comunidades.
+Além disso, a Embasa realiza ações sociais de conscientização com enfoque na mobilização e engajamento da população das áreas com
+implantação ou ampliação de sistemas de esgotamento sanitário e/ou abastecimento de água, visando a sensibilização sobre a
+importância do saneamento básico, adesão ao serviços, preservação do meio ambiente e uso racional da água, contextualizando os
+benefícios das intervenções que serão executadas.
+
+
+5.6. RISCOS/REASSENTAMENTOS
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+Informações relevantes
+- 25/09/2023: Retirada de pauta pela 168ª Cofiex (06/09/2023) devido à impossibilidade de conclusão da análise técnica por falta de
+informações.
+ 
+ 

@@ -1,0 +1,4492 @@
+# Carta-Consulta CC_61254 — Versao 2 (SIGS)
+
+
+CARTA CONSULTA
+
+Programa Curitiba Resiliente: ações estratégicas do PlanClima
+
+Nº Carta Consulta: 61254
+Processo: 03101.003107/2024-45
+Mutuário: Município de Curitiba - PR
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  11 de Outubro de 2024
+
+Fontes Internas:
+Contrapartida Financeira: US$ 27.860.000,00
+Fontes Externas:
+Agência Francesa de Desenvolvimento - AFD: US$ 111.440.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+As cidades enfrentam desafios crescentes devido a eventos climáticos extremos e mudanças nos padrões de precipitação. A urbanização
+sobre ecossistemas importantes, ao ignorar processos naturais, reduz vegetação e impermeabiliza o solo, causando erosão,
+assoreamento, sobrecarga na rede de drenagem e redução da infiltração, aumentando os riscos climáticos.
+
+A Avaliação de Riscos Climáticos (ANEXOS 02e03), elaborada para embasar o Plano de Ação Climática local, o PlanClima (ANEXO 04),
+apontou aumento de 1,2°C na temperatura média da cidade nas últimas seis décadas e mudanças no regime de chuvas, indicando riscos
+de inundação, alagamento, deslizamento, onda de calor e seca.
+
+Para o risco de seca, que impacta Curitiba e região, a Avaliação indicou um possível aumento na frequência de períodos de estiagem,
+como o de 2020 e 2021, resultando em grave crise hídrica e racionamento de água.
+
+Para os riscos de alagamento, inundação e onda de calor, a Avaliação, considerando a impermeabilização do solo, as áreas verdes e a
+densidade demográfica, indicou alto grau de risco na bacia do rio Belém, com ênfase nas porções central e sul (ANEXO 05).
+
+A bacia do rio Belém é significativa porque a cidade se desenvolveu em torno de seu canal principal e do afluente rio Ivo, abrangendo a
+região central e bairros adjacentes. Com nascente e foz dentro da cidade, ocupa 87 km², representando 20% da área total do município, e
+abriga mais de 500 mil habitantes, quase um terço da população (ANEXO 06).
+
+Na porção sul, o menor acesso a áreas verdes compromete a biodiversidade e o bem-estar da população. O Diagnóstico da Arborização
+Pública Viária aponta um déficit de 24 mil árvores nos 406 km de vias da região, impactando serviços ecossistêmicos de regulação do
+clima, purificação do ar e benefícios à saúde (ANEXO 07, p.21e24). A Avaliação de Ilhas de Calor de Superfície Urbana sobre os efeitos
+da menor arborização (ANEXO 07, p.26 e ANEXO 08), revela que a bacia do Belém tem temperatura média 0,8°C maior que Curitiba,
+sendo a porção  sul a mais alta, com média de 22,7°C.
+
+Na Avaliação de Vulnerabilidade Ambiental e Socioeconômica (ANEXOS 09 e 10), as porções central e sul da bacia do rio Belém, também
+foram identificadas como as mais vulneráveis a eventos extremos considerando o cenário de alta emissão de GEE.
+
+Curitiba, com 1.773.733 habitantes, é o 6º maior PIB dos municípios brasileiros e possui um Índice de Desenvolvimento Humano, IDHM de
+0, 823, classificado como muito alto. No entanto, a análise intraurbana revela desigualdades socioespaciais (ANEXO 11). Na porção sul
+da bacia do rio Belém, o IDHM é inferior, com população de renda mais baixa e maior vulnerabilidade socioambiental, mais exposta aos
+riscos climáticos. O Cadastro Único Nacional indica que nessa região 6.908 famílias têm cadastros ativos, sendo 2.677 em situação de
+pobreza (renda per capita até R$ 218) e 1.743 em situação de baixa renda (renda per capita até meio salário mínimo)(ANEXO 12).
+
+Na porção sul da bacia, o rio está retificado e há muitos afluentes canalizados. As águas escoam para o rio Iguaçu, que tem baixa
+declividade. Durante chuvas intensas, quando o nível do Iguaçu supera o do Belém, ocorre o refluxo das águas, aumentando o risco de
+inundação, ameaçando áreas urbanizadas ao longo do rio e seus afluentes, como ocorreu em 1997 e 1999.
+
+Nos últimos 20 anos, seguindo o Plano Diretor de Drenagem, foram realizadas diversas intervenções de engenharia cinza para mitigar as
+cheias na bacia. Destacam-se as obras de macrodrenagem na região da Av. Linha Verde, no rio Pinheirinho e alargamentos e
+desassoreamentos no encontro das bacias do Belém e Iguaçu.
+
+Em 2024, uma modelagem hidrodinâmica avaliou as intervenções implementadas com simulações de vazões para um Tempo de
+Recorrência de 100 anos considerando três cenários de distribuição espacial das chuvas. Em todos houve risco de retorno das águas do
+rio Iguaçu, podendo ocorrer inundações na porção sul da bacia e afetar cerca de 450 famílias em situação de vulnerabilidade
+socioambiental em áreas de ocupação irregular, bem como famílias em áreas regulares (ANEXO 13).
+
+Outra modelagem, com metodologia HAND (Height Above the Nearest Drainage), permitiu identificar as áreas suscetíveis à inundação
+para eventos de vazão extrema, indicando um alto nível de suscetibilidade na parte sul da bacia (ANEXO 07, p. 7 e 44). O estudo mostrou
+que a elevação de 1m acima do leito do rio, poderia abranger cerca de 10 km² e afetar cerca de 57 mil residentes, a maior parte na porção
+sul da bacia.
+
+Com relação às ocorrências hídricas, dados da Defesa Civil e Corpo do Bombeiros de 2014 a 2024 identificam que a bacia do rio Belém
+concentra cerca de 30% das ocorrências de alagamentos e inundações do município (ANEXO 07, p. 13).
+
+Esses riscos, inter-relacionados de forma complexa, tornam-se sistêmicos, sendo essencial para a cidade adotar abordagens de
+planejamento que assegurem a regeneração urbana e melhorem a capacidade de resposta aos riscos climáticos.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+O Programa Curitiba Resiliente fundamenta-se no conceito de Soluções baseadas na Natureza (SbN), reconhecidas como essenciais para
+enfrentar desafios climáticos, aumentar a resiliência urbana e promover impactos ambientais e socioeconômicos positivos. As
+intervenções incluem a requalificação da porção sul da bacia do rio Belém, Projetos EcoDistrito Belém e Reserva Hídrica do Futuro, e
+inovações tecnológicas de gestão e monitoramento, Projeto Hipervisor Urbano.
+
+O Programa contribui para a meta de cidade neutra em emissões de CO2 e adaptada ao clima até 2050 e enquadra-se (ANEXO43) nos
+objetivos previstos nos Incisos I, III, IV, V, VI e VII do Art.2º da Resolução COFIEX80/23 e do Art.1º da Portaria MPO-SEAID/MPO220/24.
+
+
+Página: 3
+
+No que se refere à sustentabilidade do Programa, com a finalização das obras e serviços, a responsabilidade da gestão será dos entes
+municipais, detalhados no item Arranjo Institucional. Os custos de manutenção relacionados à implementação da infraestrutura verde e
+dos processos de inovação e tecnologia podem, a longo prazo, diminuir custos operacionais em diversas áreas setoriais de atuação do
+Município (ANEXO44).
+
+Projeto EcoDistrito Belém-EDB
+
+O EDB é uma abordagem multissetorial de requalificação focada em adaptação e resiliência climática. Fortalece estruturas ambientais,
+sociais e econômicas, proporcionando espaços públicos que incentivam a interação entre pessoas, meio urbano e áreas verdes. Propõe a
+estruturação de uma rede de espaços em diferentes escalas e funções, com visão sistêmica de planejamento: nas edificações-casas e
+empresas sustentáveis; nos lotes-aumento da permeabilidade; nas ruas-maior permeabilidade, arborização, e áreas calmas com vias,
+passeios e ciclovias drenantes; e na região-fortalecimento da trama verde e azul, áreas alagáveis, e dinamização do ambiente de negócios
+.
+
+Localizado na porção sul da bacia do rio Belém, abrange o perímetro formado pela Av. Linha Verde, o eixo do BRT da Av. Mal. Floriano, o
+Parque Iguaçu e a Av. Com. Franco. A região é marcada por intensa atividade produtiva, com cluster de empresas de materiais de
+construção, logística, Polos Cervejeiro e de Malhas, e áreas habitacionais de baixa/média densidade, bem conectadas por transporte
+coletivo e terminais de integração.
+
+Essa rede de espaços adapta o desenho urbano aos processos naturais da paisagem e das chuvas, minimiza riscos climáticos, melhora a
+qualidade ambiental e promove interação social e qualidade de vida.
+
+O pleito contempla a Etapa 1 do EDB (ANEXO14).
+
+Intervenções
+
+a)Parque Linear Belém: recuperação da APP, implantação de áreas de esporte e lazer, ciclovia, via-parque e SbN de gestão de águas
+
+b)Eixos Ambientais em córregos contribuintes: requalificação com infraestrutura verde e resiliente e melhorias urbanísticas
+
+c)Reverdejamento e biodiversidade: plantio de mudas de árvores e ações de manejo e reintrodução de flora e fauna nativas
+
+d)Rede de mobilidade ativa: requalificação de vias com infraestrutura verde e resiliente
+
+e)Unidades habitacionais com tecnologias sustentáveis para realocação de famílias em situação de risco
+
+f)Cooperativa EcoCidadão para gestão de resíduos recicláveis e geração de emprego e renda
+
+g)EcoHub Belém: programa de melhoria do ambiente de negócios e oportunidades com inclusão etária, gênero e minorias sociais,
+engajamento e educação ambiental
+
+Resultados
+
+a)Requalificação do trecho sul da APP do rio Belém e principais córregos, incremento da biodiversidade, ampliação de áreas permeáveis,
+promoção da interação e convívio social, e aumento da retenção de água de chuva
+
+b)Redução das ilhas de calor e aumento da diversidade biológica
+
+c)Deslocamentos por mobilidade ativa seguros, acessíveis e adaptados ao clima
+
+d)Redução da população em áreas de risco climático
+
+e)Dinamização social e econômica
+
+f)Sensibilização da população aos riscos climáticos, às ações do EDB e senso de pertencimento
+
+Projeto Reserva Hídrica do Futuro-RHF
+
+O RHF responde ao risco climático de seca, exacerbado pela crise hídrica de 2020/2021. Localizado na divisa sul da cidade, o  RHF
+interliga antigas cavas de extração de areia ao longo do rio Iguaçu, funcionando como reservatório de água em períodos de escassez e
+atenuador de cheias. Além disso, cria ampla área de parques e estruturas de esporte e lazer.
+
+A foz do rio Belém, junto ao rio Iguaçu, é área alagável situada entre três Unidades de Conservação (UC) da APA do Iguaçu, com restrição
+de ocupação. A implantação de parque visa principalmente atenuar o risco de inundação durante eventos extremos de chuva,
+especialmente em relação ao refluxo do rio Iguaçu.
+
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+O pleito contempla a implantação de parque entre o EDB e a  foz do rio Belém (ANEXO15).
+
+Intervenções
+
+a)Parque RHF: implantação de ciclovia, via-parque e SbN de gestão de águas
+
+b)Implantação de área de manejo para ações de desassoreamento permanente na porção sul do rio Belém
+
+Resultados
+
+a)Conservação da APA do Iguaçu, incremento da biodiversidade, conexão entre UCs e o Parque Linear Belém e aumento da retenção da
+água de chuva
+
+b)Melhoria das ações de manejo das ações de desassoreamento
+
+Projeto Hipervisor Urbano de Curitiba-HUC
+
+O HUC foi desenvolvido para monitorar e avaliar informações climáticas e indicadores da cidade e apoiar a implementação do PlanClima,
+com a Fase 1 concluída em 2024. É uma plataforma integrada de planejamento, gestão e monitoramento baseada em dados, para
+viabilizar o funcionamento pleno do conceito de cidade inteligente e facilitar a tomada de decisões urbanas. Sua operação utiliza
+tecnologias avançadas, como modelagem preditiva, bigdata, aprendizado de máquina, inteligência artificial, e gêmeos digitais. O HUC
+integra bases de dados do município e fontes externas, como órgãos estaduais, federais e privados, para gerar análises progressivas e de
+multidomínios  sobre aspectos urbanos. Essas análises evoluem da descrição de eventos à explicação de suas causas, predição de
+recorrência e prescrição   de ações para potencializar ou mitigar seus efeitos.
+
+O pleito contempla a Fase 2 do HUC (ANEXO16).
+
+Intervenções
+
+a)Plataforma de integração e análise de dados e informações
+
+b)DataCenter Fase 2 e sensores
+
+c)Monitoramento do  nível dos rios voltadas ao alerta e prevenção de desastres: Programa Família Resiliente
+
+d)Monitoramento das condições de saneamento básico: telediagnóstico e monitoramento da qualidade da água
+
+Resultados
+
+a)Aumento da capacidade operacional, qualidade das análises, integração e tratamento de dados climáticos
+
+b)Fortalecimento na capacidade de planejamento, prevenção, alerta e resposta a riscos climáticos
+
+c)Redução da poluição hídrica
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+O Programa Curitiba Resiliente responde a 15 das 20 ações do PlanClima (ANEXO17) implementado pelo Decreto Municipal 1.670/20 e
+atende à diretriz do Plano Diretor (PD), Lei Municipal 14.771/15 (ANEXO18), que visa melhorar a qualidade de vida e a  resiliência da
+cidade frente a eventos climáticos severos (Art.14, IncisoXV).
+
+O Capítulo III do PD-Do Patrimônio Ambiental Natural e Cultura (Art.61a67) estabelece diretrizes da política ambiental visando a
+conservação, proteção, recuperação e uso sustentável do patrimônio ambiental natural e cultural para as presentes e futuras gerações,
+observando o princípio de não retrocesso ambiental e as mudanças climáticas.
+
+O PD estabelece o Sistema Municipal de Planejamento que inclui Planos Setoriais e Estratégicos (Art.4e9), e está alinhado com os Planos
+Setoriais de Desenvolvimento Ambiental, Conservação da Biodiversidade, Saneamento Básico, Mobilidade e Transporte, Habitação,
+Desenvolvimento Socioeconômico, e Defesa Social e Civil. No âmbito dos Planos Estratégicos, o Programa integra o PlanClima, o de
+Pedestrianização, Inovação e Design, Arborização, Cultura, Turismo, e Esporte e Lazer.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+O PlanClima, que orienta o Programa Curitiba Resiliente, também fundamenta o Plano Plurianual 2022-2025 (PPA), Lei Mun. 15.926/21 (
+ANEXO19), que possui três Eixos Estratégicos e sete Programas de Governo. No Eixo Sustentabilidade, os Programas Viva uma Nova
+Curitiba e Viva Curitiba Tecnológica incluem a conservação ambiental, ação climática, eficiência energética, recursos hídricos, inovação,
+tecnologia e soluções conectadas. No Eixo Solidariedade, os Programas Viva Curitiba que Não Dorme e Viva Curitiba Cidadã incluem a
+prevenção de riscos de desastres, segurança alimentar, e habitação. O Capítulo 10 do PPA menciona o PlanClima, consolidando os
+compromissos do Acordo de Paris, da Agenda 2030 e na Carta de Compromisso de Curitiba da rede C40 de Cidades para Liderança do
+Clima (p.106).
+
+O Programa, também está alinhado às políticas estadual e nacional de meio ambiente, bem como às voltadas à mitigação e adaptação às
+mudanças climáticas, à exemplo do recém-criado Programa Cidades Verdes Resilientes instituído pelos Ministérios MMA, MCidades e
+MCTI, Decreto Federal 12.041/24 (ANEXO45).
+
+Destaca-se, ainda o alinhamento do Programa aos ODS da Agenda 2030 da ONU: ODS 11-Cidades e Comunidades Sustentáveis (metas
+11.1a 11.7e11.b); e ODS 13-Ação contra a mudança global do clima (metas13.1e13.3). Também são endereçados os ODS: 3-Saúde e
+Bem-Estar; 5-Igualdade de gênero; 6-Água limpa e saneamento; 7-Energia limpa e sustentável; 10-Redução das desigualdades; 12-
+Consumo e produção sustentáveis; 15-Vida terrestre; e 17-Parcerias e Meios de Implementação.
+
+O Programa prevê contrapartida mínima de 20% do valor total, financiada por receitas tributárias conforme Art.156,158e159, IncisoI, Letra(
+b), da Constituição Federal, em consonância com a Resolução COFIEX 3/19.
+
+Taxa de Câmbio
+
+EURO=R$6,0707 (30/09/24-BACEN)
+
+EURO=USD1,1144 (30/09/24)
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa Curitiba Resiliente: ações estratégicas do PlanClima
+
+
+### 2.2. Título Abreviado
+
+
+Programa Curitiba Resiliente
+
+
+### 2.3. Mutuário
+
+
+Município de Curitiba - PR
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Curitiba tem ampliado seus investimentos e engajamento técnico, administrativo e político para promover adaptação e resiliência climática.
+Historicamente, a cidade adotou soluções de infraestrutura verde, como parques urbanos, e intervenções de infraestrutura cinza para
+reduzir riscos de desastres. As soluções cinza nem sempre são adequadas em termos de biodiversidade, paisagem urbana e custo-
+efetividade diante dos desafios climáticos atuais, sendo voltadas especificamente aos aspectos de drenagem.
+
+O conceito de Soluções baseadas na Natureza (SbN), visando a conservação e restauração de ecossistemas por meio de um conjunto de
+ações positivas, de não arrependimento, que fundamenta o Programa Curitiba Resiliente: ações estratégicas do PlanClima, busca a
+geração de benefícios ambientais, sociais e econômicos combinados, reforçando a capacidade de Curitiba, para enfrentar os riscos
+climáticos e aumentar a resiliência urbana de forma mais eficaz e inclusiva.
+
+A descrição dos objetivos geral e específicos e sua correlação com os Componentes do Programa e com os Indicadores, bem como as
+fórmulas de cálculo, unidades de medida, linhas de base, metas e metas intermediárias dos Indicadores, encontram-se no ANEXO 46.
+
+Objetivo geral
+
+Promover a adaptação e aumentar a resiliência dos sistemas natural, socioeconômico e urbano da cidade de Curitiba frente aos riscos
+climáticos, fomentando a regeneração urbana sustentável e inclusiva, a partir do conceito de SbN, por meio de projetos de gestão
+integrada  das águas, na bacia do rio Belém, e de uma plataforma integrada de planejamento e gestão baseados em dados em nível
+municipal (o Objetivo Geral está refletido no Indicador 1).
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 6
+
+Objetivos específicos
+
+1) Promover a requalificação ambiental a partir de uma visão sistêmica da paisagem, integrando as tramas verde e azul no desenho
+urbano por meio da recuperação da cobertura vegetal, da permeabilidade do solo, da infiltração, da evapotranspiração e da bio/
+fitorremediação de poluentes fornecendo múltiplos benefícios para a população (o Objetivo Específico 1 está refletido no Indicador 2);
+
+2) Ampliar a infraestrutura sustentável na rede de mobilidade ativa (o Objetivo Específico 2 está refletido no indicador 3);
+
+3) Ampliar o volume de retenção de águas de chuva priorizando SbN (o Objetivo Específico 3 está refletido no Indicador 4);
+
+4) Ampliar a cobertura vegetal na porção sul da bacia do rio Belém (o Objetivo Específico 4 está refletido no Indicador 5);
+
+5) Reduzir a quantidade de famílias em situação de risco socioambiental relacionados aos impactos de eventos climáticos extremos, que
+residem em assentamentos informais (o Objetivo Específico 5 está refletido no Indicador 6);
+
+6) Realizar ações de capacitação e engajamento comunitário, com inclusão etária, de gênero e minorias sociais, nos temas social,
+econômico e ambiental (o Objetivo Específico 6 está refletido no Indicador 7);
+
+7) Realizar ações de capacitação profissional e orientação sobre mercado de trabalho para redução do desemprego e subemprego (o
+Objetivo Específico 7 está refletido no Indicador 8);
+
+8) Implementar a Fase 2 do Hipervisor Urbano, para o funcionamento pleno (o Objetivo Específico 8 está refletido no Indicador 9); e
+
+9) Aprimorar a capacidade de resposta, prevenção e alerta aos riscos climáticos (hidrometeorológico), bem como das condições de
+saneamento básico (avaliação da qualidade da água), por meio da implementação de um sistema de monitoramento, com integração de
+dados e informações, a ser realizado pelo Hipervisor Urbano (o Objetivo Específico 9 está refletido no Indicador 10).
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Descrição
+1. Índice de Resiliência para os riscos climáticos
+(o Indicador 1 está correlacionado ao Objetivo
+Geral)
+
+2. Área de infraestrutura resiliente às mudanas
+climáticas implementada (o Indicador 2 está
+correlacionado ao Objetivo Específico 1)
+
+3. Área de infraestrutura sustentável implantada
+na rede de mobilidade ativa (o Indicador 3 está
+correlacionado ao Objetivo Específico 2)
+
+4. Volume de retenção e detenção de águas de
+chuva em infraestrutura de SbN para drenagem
+urbana sustentável (o Indicador 4 está
+correlacionado ao Objetivo Específico 3)
+
+5. Quantidade de novas mudas de árvores
+plantadas em áreas públicas na porção sul da
+bacia do rio Belém (o Indicador 5 está
+correlacionado ao Objetivo Específico 4)
+
+Unidade
+
+metro quadrado
+
+metro quadrado
+
+Fórmula de Cálculo Unidade de Medida
+Média aritmética
+simples dos
+Indicadores 2 a 10,
+calculada a partir da
+normalização linear
+dos valores de cada
+indicador (método
+genebrino ou
+distancial). A meta
+poderá ser revista
+após a elaboração
+dos projetos
+executivos.
+Somatória das áreas
+implementadas de
+parques, eixos
+ambientais e rede de
+mobilidade ativa
+sustentável, com
+estratégias de
+Soluções baseadas
+na Natureza (SbN). A
+meta poderá ser
+revista após a
+elaboração dos
+projetos executivos.
+Somatória das áreas
+de infraestrutura
+sustentável (
+pavimentos drenantes
+) implantada na rede
+de mobilidade ativa (
+ruas diagonais, eixos
+ambientais e via-
+parque). A meta
+poderá ser revista
+após a elaboração
+dos projetos
+executivos.
+Somatória da
+capacidade de
+retenção e detenção
+das tipologias de SbN
+projetadas (jardins de
+chuva, lagoas pluviais
+e áreas de
+preservação
+permanente para
+espraiamento de
+águas fluviais) e das
+vias, ciclovias e
+calçadas com
+pavimento drenante. A
+meta poderá ser
+revista após a
+elaboração dos
+projetos executivos.
+Somatória de novas
+mudas de árvores
+plantadas em praças,
+vias e parques na
+porção sul da bacia do
+rio Belém.
+
+muda de indivíduo
+arbóreo
+
+metro cúbico
+
+
+Página: 7
+
+Meta
+0,60
+
+Linha de Base
+0,00
+
+0,00
+
+850.000,00
+
+0,00
+
+110.000,00
+
+0,00
+
+540.000,00
+
+0,00
+
+30.000,00
+
+
+Página: 8
+
+6. Número de famílias em assentamentos
+informais, em área de risco de inundação
+realocadas (o Indicador 6 está correlacionado ao
+Objetivo Específico 5)
+
+7. Percentual de beneficiários participantes de
+ações de desenvolvimento social, econômico e
+ambiental (o Indicador 7 está correlacionado ao
+Objetivo Específico 6)
+
+8. Percentual de beneficiários participantes de
+ações de melhoria das atividades geradoras de
+renda ou emprego (o Indicador 8 está
+correlacionado ao Objetivo Específico 7)
+
+9. Percentual de implantação do Hipervisor
+Urbano (o Indicador 9 está correlacionado ao
+Objetivo Específico 8)
+
+10. Percentual de implementação do sistema de
+monitoramento do nível dos rios e do Índice de
+Qualidade da Água (o Indicador 10 está
+correlacionado ao Objetivo Específico 9)
+
+
+### 2.7. Projeto/Componentes
+
+
+Número absoluto de
+famílias em
+assentamentos
+informais, em área de
+risco de inundação
+realocadas para
+novas unidades
+habitacionais, com
+incorporação de
+tecnologias
+sustentáveis.
+Razão entre o número
+de beneficiários
+participantes de ações
+de desenvolvimento
+social, econômico e
+ambiental e o total de
+beneficiários
+contemplados pelo
+programa,
+multiplicado por 100.
+Razão entre o número
+de beneficiários
+participantes de ações
+de orientação sobre o
+mercado de trabalho,
+com foco na
+empregabilidade
+formal,
+encaminhamento para
+capacitação
+profissional e/ou para
+vagas de emprego e o
+total de beneficiários
+em situação de
+desemprego e
+subemprego,
+multiplicado por 100.
+Razão entre a
+diferença da linha de
+base (Fase 1 já
+implantada) e a meta
+de implantação para o
+funcionamento pleno
+do Hipervisor Urbano,
+multiplicado por 100.
+Razão entre a
+diferença da linha de
+base e a meta de
+implantação do
+sistema de
+monitoramento,
+multiplicado por 100.
+
+família
+
+0,00
+
+450,00
+
+percentual
+
+0,00
+
+50,00
+
+percentual
+
+0,00
+
+50,00
+
+percentual
+
+16,00
+
+100,00
+
+percentual
+
+0,00
+
+100,00
+
+
+Componentes
+C - 1. GESTÃO DE ÁGUAS PLUVIAIS E DE RECURSOS HÍDRICOS, RECUPERAÇÃO AMBIENTAL E
+BIODIVERSIDADE
+S - 1.1. ECODISTRITO BELÉM - REESTRUTURAÇÃO AMBIENTAL
+P - 1.1.1. IMPLANTAÇÃO DO PARQUE LINEAR DO RIO BELÉM
+P - 1.1.2. REQUALIFICAÇÃO AMBIENTAL E URBANA DE EIXOS AMBIENTAIS AO LONGO DE CÓRREGOS
+CONTRIBUINTES
+P - 1.1.3. REVERDEJAMENTO E INCREMENTO DA BIODIVERSIDADE
+P - 1.1.4. REDE DE MOBILIDADE ATIVA COM INFRAESTRUTURA SUSTENTÁVEL
+S - 1.2. RESERVA HÍDRICA DO FUTURO - AMORTECIMENTO E MANEJO
+P - 1.2.1. PARQUE RESERVA HÍDRICA DO FUTURO - FOZ DO RIO BELÉM COM RIO IGUAÇU
+C - 2. ECODISTRITO BELÉM - INFRAESTRUTURA SOCIAL E EQUIPAMENTOS PÚBLICOS
+S - 2.1. HABITAÇÃO RESILIENTE E COM EFICIÊNCIA ENERGÉTICA
+P - 2.1.1. PRODUÇÃO DE UNIDADES HABITACIONAIS COM TECNOLOGIAS SUSTENTÁVEIS PARA
+REALOCAÇÃO DE FAMÍLIAS EM SITUAÇÃO DE RISCO, PRIORIZANDO INCLUSÃO ETÁRIA, DE GÊNERO E
+MINORIAS SOCIAIS
+S - 2.2. GESTÃO DE RESÍDUOS E GERAÇÃO DE EMPREGOS PARA POPULAÇÃO VULNERÁVEL
+P - 2.2.1. BARRACÃO ECOCIDADÃO - COOPERATIVA DE MATERIAIS RECICLÁVEIS
+S - 2.3. AMBIENTE DE NEGÓCIOS E OPORTUNIDADES
+P - 2.3.1. PROGRAMA ECOHUB BELÉM
+C - 3. INOVAÇÃO E TECNOLOGIA EM PROCESSOS DE PRESTAÇÃO DE SERVIÇOS VOLTADOS À
+IMPLEMENTAÇÃO DO PLANCLIMA
+S - 3.1. HIPERVISOR URBANO - FASE 2
+P - 3.1.1. PLATAFORMA DE INTEGRAÇÃO E ANÁLISE DE DADOS E INFORMAÇÕES
+P - 3.1.2. DATA CENTER FASE 2 E SENSORES
+P - 3.1.3. SERVIÇOS DE APOIO
+S - 3.2. INOVAÇÃO E TECNOLOGIA
+P - 3.2.1. MONITORAMENTO DO NÍVEL DOS RIOS VOLTADO AO ALERTA E PREVENÇÃO DE DESASTRES:
+PROGRAMA FAMÍLIA RESILIENTE
+P - 3.2.2. MONITORAMENTO DAS CONDIÇÕES DE SANEAMENTO BÁSICO E QUALIDADE DA ÁGUA
+C - 4. GERENCIAMENTO, SUPERVISÃO E PROJETOS
+S - 4.1. APOIO AO GERENCIAMENTO E SUPERVISÃO
+P - 4.1.1. APOIO AO GERENCIAMENTO DE OBRAS, À SUPERVISÃO AMBIENTAL E SOCIAL
+P - 4.1.2. APOIO À SUPERVISÃO DE OBRAS
+P - 4.1.3. PROJETO DE TRABALHO SOCIAL (PTS)
+S - 4.2. CONSULTORIAS, ESTUDOS E PROJETO EXECUTIVOS
+P - 4.2.1. CONSULTORIAS, ESTUDOS E PROJETOS EXECUTIVOS DE ENGENHARIA E ARQUITETURA
+P - 4.2.2. ESTUDOS HIDROLÓGICOS E RELATÓRIO AMBIENTAL PRÉVIO (RAP)
+P - 4.2.3. ESTUDOS E DESENVOLVIMENTO DE APLICAÇÕES E TECNOLOGIA
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 9
+
+Valor(US$)
+82.160.000,00
+
+75.560.000,00
+58.560.000,00
+5.100.000,00
+
+3.100.000,00
+8.800.000,00
+6.600.000,00
+6.600.000,00
+29.660.000,00
+28.060.000,00
+28.060.000,00
+
+1.100.000,00
+1.100.000,00
+500.000,00
+500.000,00
+14.955.000,00
+
+12.600.000,00
+9.400.000,00
+2.200.000,00
+1.000.000,00
+2.355.000,00
+55.000,00
+
+2.300.000,00
+12.525.000,00
+10.300.000,00
+5.500.000,00
+2.800.000,00
+2.000.000,00
+2.225.000,00
+1.600.000,00
+500.000,00
+125.000,00
+139.300.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - 1. GESTÃO DE ÁGUAS PLUVIAIS E DE RECURSOS HÍDRICOS, RECUPERAÇÃO AMBIENTAL E BIODIVERSIDADE
+As ações desse Componente são fundamentadas no conceito de Soluções baseadas na Natureza (SbN) que têm sido
+reconhecidas como essenciais para enfrentar desafios climáticos e visam a conservação e restauração de ecossistemas por meio
+de iniciativas positivas e de não arrependimento.
+
+Elas se concentram na gestão das águas pluviais, conservação de recursos hídricos, recuperação ambiental e biodiversidade,
+além de facilitar o acesso às tramas verde e azul. O objetivo é gerar benefícios ambientais, sociais e econômicos combinados,
+fortalecendo a capacidade de Curitiba para enfrentar riscos climáticos e aumentar a resiliência urbana de forma eficaz e inclusiva.
+
+No trecho sul da bacia do rio Belém, que se estende da Avenida Linha Verde até sua foz no rio Iguaçu, o rio encontra-se aberto e
+retificado e apresenta uma extensão aproximada de 6,5 km, em seção trapezoidal, com margens providas de cobertura vegetal na
+forma de árvores isoladas, não configurando maciços florestais. Nesta região, o rio Belém está consolidado na malha urbana da
+cidade, estando implantado parcialmente com sistema viário nas margens, pontes, pontilhões e travessias em alguns pontos que
+conectam os bairros Hauer, Guabirotuba, Uberaba e Boqueirão, assim como algumas áreas de lazer com equipamentos públicos
+para a população.
+
+A proposta visa tornar a porção sul da bacia do rio Belém mais resiliente aos riscos climáticos, aumentando a capacidade de
+adaptação aos efeitos das chuvas intensas que têm ocorrido em Curitiba, bem como aos efeitos de formação de ilhas de calor.
+Para isso, estão previstas intervenções diretas para a requalificação ambiental de espaços urbanos, a preservação de áreas
+suscetíveis à inundação e o reverdejamento dessa região. A requalificação dos espaços visa mitigar os efeitos da vulnerabilidade
+socioambiental das famílias que ali residem, expostas a diversos fatores de risco socioambiental, incluindo riscos à saúde. Além
+disso, busca recuperar a área de APP, melhorando a permeabilidade e qualidade do solo, protegendo contra os processos
+erosivos frente à susceptibilidade de inundações e dos efeitos produzidos na paisagem local.
+
+
+Página: 10
+
+As ações, também visam a inclusão socioambiental da população que ali vive em situação irregular e em condições de risco. Com
+a recuperação da área degradada será possível a implantação de dois parques que enriquecerão o conjunto da rede de parques
+existentes na bacia, gerando um impacto positivo na biodiversidade local. A mata ciliar será recuperada, por meio de recomposição
+e plantio com vegetação nativa e servirá como área de amortecimento durante eventos de chuvas expressivas, ajudando a conter
+os volumes de água no ponto mais a jusante da bacia do rio Belém.
+
+Os recursos destinados à implementação dos Subcomponentes/Produtos desse Componente destinam-se integralmente ao
+alcance dos objetivos ambientais e climáticos previstos nos Incisos I, III, V, VI e VII do Art. 2o da Resolução COFIEX 80/2023 e do
+Art. 1o da Portaria MPO-SEAID/MPO/220/2024 conforme descreve-se a seguir:
+
+(i) os Produtos 1.1.1. PARQUE LINEAR BELÉM, 1.1.2. REQUALIFICAÇÃO AMBIENTAL AO LONGO DE CÓRREGOS e 1.2.1.
+PARQUE RESERVA HÍDRICA DO FUTURO enquadram-se nos Incisos I, III, VI e VII, tendo como principalis objetivos a adaptação
+da cidade aos riscos climáticos de inundação, alagamento e ondas de calor, bem como visam a revitalização, conservação,
+proteção e recuperação ambiental da Área de Preservação Permanente de 50 metros para cada lado da margem do rio Belém na
+porção sul da bacia hidrográfica e dos três afluentes localizados nessa região, promovendo a conservação do solo, fortalecendo o
+aumento da biodiversidade desses ecossistemas e o uso e manejo sustentável desses ativos ambientais com a geração de co-
+benefícios sociais e econômicos, e aumentando a capacidade de remoções por sumidouros de carbono no Município, essencial
+para o alcance da meta de neutralidade de carbono estabelecida no PlanClima;
+
+(ii) o Produto 1.1.3. REVERDEJAMENTO E INCREMENTO DA BIODIVERSIDADE enquadra-se nos Incisos I, VI e VII, tendo como
+principais objetivos a atenuação dos riscos climáticos de inundação, alagamento e onda de calor, a regeneração de áreas verdes,
+a revitalização da bacia hidrográfica e o incremento da riqueza e abundância de diversidade biológica ligadas às condições
+ambientais e ecológicas da porção sul da bacia do rio Belém por meio de ações de conservação e manejo da flora e fauna nativas,
+sendo que o aumento da área de cobertura vegetal proposto contribui, também para a mitigação das emissões de GEE
+fortalecendo a capacidade de remoções por sumidouros de carbono no município, essencial para o alcance da meta de
+neutralidade de carbono estabelecida no PlanClima; e
+
+(iii) o Produto 1.1.4. REDE DE MOBILIDADE ATIVA COM INFRAESTRUTURA SUSTENTÁVEL enquadra-se nos Incisos I, VI e VII,
+tendo como atributos a atenuação dos riscos climáticos de inundação, alagamento e ondas de calor por meio da implementação
+de infraestrutura de gestão de águas pluviais sustentável (jardins de chuva e pavimentos drenantes com baixa condutividade
+térmica, que ajudam a drenar eficientemente a água da chuva, evitando acúmulos e alagamentos, e reduzir o efeito de ilha de calor
+em áreas urbanas), fortalecendo as possibilidades de deslocamento por mobilidade ativa (a pé e bicicleta), e aumentando a
+capacidade de remoções por sumidouros de carbono no município, essencial para o alcance da meta de neutralidade de carbono
+estabelecida no PlanClima.
+
+S - 1.1. ECODISTRITO BELÉM - REESTRUTURAÇÃO AMBIENTAL
+Intervenção urbana com abordagem multissetorial de requalificação na porção sul da bacia do rio Belém, focada em adaptação e
+resiliência climática. O Projeto fortalece estruturas ambientais, sociais e econômicas, proporcionando espaços públicos inclusivos,
+que incentivam a interação entre pessoas, meio urbano e áreas verdes, reduzindo os impactos da urbanização no ciclo hidrológico
+e oferecendo múltiplos benefícios à população. Este Subcomponente inclui: (i) implantação do Parque Linear do rio Belém; (ii)
+requalificação de Eixos Ambientais ao longo de córregos contribuintes do rio Belém; (iii) reverdejamento e incremento da
+biodiversidade; e (iv) rede de mobilidade ativa com infraestrutura sustentável (ANEXO 20).
+
+P - 1.1.1. IMPLANTAÇÃO DO PARQUE LINEAR DO RIO BELÉM
+Este Produto abrange a gestão de águas pluviais, recuperação ambiental, biodiversidade, sombreamento, acessibilidade e inclusão
+etária, de gênero e minorias sociais. As ações incluem a implementação da Etapa 1 do Parque Linear do rio Belém, com
+aproximadamente 2,2 km de extensão e 50 m de largura em cada lado das margens do rio, dentro da APP.
+
+A proposta geral do Parque é fundamentada em um sistema integrado de soluções ambientais e de drenagem do rio Belém. Ela
+visa garantir o acesso da população a áreas de convívio, esporte, lazer e contemplação do rio, além de ampliar a biodiversidade e
+melhorar a qualidade de vida da comunidade (ANEXO 21).
+
+O Parque incorpora soluções de infraestrutura verde e azul para transformar a realidade de um rio retificado, em uma proposta que
+respeita os processos naturais da paisagem e das chuvas. Isso é alcançado por meio de taludes e platôs, que permitem o
+espraiamento do rio, aumentando a área de contenção de cheias e a redução da velocidade das águas em momentos de picos de
+precipitação.
+
+Essa abordagem permite aumentar o volume de retenção de água, passando de cerca de 282 mil m³ para cerca de 470 mil m³ (
+esse volume será  revisto após a elaboração dos projetos executivos). A proposta inclui canteiros de depuração para contenção e
+melhoria da qualidade da água dos afluentes do rio Belém (jardim filtrante), além da recomposição da mata ciliar ao longo de toda
+a sua extensão. Também estão previstas áreas para esporte e lazer, adotando critérios de inclusão etária, de gênero e minorias
+sociais (ANEXO 22).
+
+No perímetro do Parque, será implantada a via-parque com aproximadamente 5 km de extensão, funcionando como um túnel
+verde ao longo das duas margens do rio. Essa via delimita a área do Parque e integra o sistema ecológico e de drenagem, sendo
+composta por faixas acessíveis de caminhada e ciclovia e pista para veículos, todas em concreto drenante com sub-base em
+rachão. Isso melhora o escoamento das águas superficiais e contribui para um microclima com menores temperaturas de
+superfície. As vias também contarão com arborização e iluminação para pedestres, transformando a paisagem e aumentando a
+segurança e o convívio social (ANEXOS 23 e 24).
+
+
+Página: 11
+
+Serão implantadas três passarelas de pedestres para conectar as duas margens do rio, além da revitalização de quatro pontes
+viárias existentes, que incluirão áreas de convívio em suas cabeceiras. Essas áreas receberão iluminação adequada e mobiliário
+urbano, garantindo a identidade do meio ambiente do rio Belém e valorizando a biodiversidade desejada (ANEXO 25). As áreas de
+convívio são elementos   essenciais para a contemplação, segurança e monitoramento do rio Belém. (ANEXO 26).
+
+Para a execução desse Produto serão necessárias desapropriações de 102.500 m2 entre imóveis vagos e ocupados com comércio
+e serviços e habitações irregulares e regulares que estão localizadas em APP e áreas de drenagem do rio Belém.
+Também, serão necessários estudos (Hidrológicos e Relatório Ambiental Prévio) e projetos executivos (Drenagem, Infraestrutura e
+Parque) que estão previstos no Componente 4.
+
+P - 1.1.2. REQUALIFICAÇÃO AMBIENTAL E URBANA DE EIXOS AMBIENTAIS AO LONGO DE CÓRREGOS
+CONTRIBUINTES
+Para aprimorar a gestão de águas pluviais, a recuperação ambiental, a biodiversidade e fortalecer a trama verde e azul do
+EcoDistrito estão previstas ações de requalificação ambiental e melhorias urbanísticas ao longo de três principais rios contribuintes
+da porção sul do rio Belém, localizados nas ruas Zulmira Bacila (Córrego Areiãozinho), Cel. Luiz José dos Santos e Waldemar
+Loureiro Campos. Essa requalificação aumentará as áreas permeáveis e facilitará o acesso da população às áreas naturais.
+
+A requalificação inclui o aumento da área permeável e adoção de SbN para a gestão de águas pluviais. Também, prevê
+infraestrutura de mobilidade ativa resiliente com a implantação de pavimento drenante nas vias compartilhadas com a bicicleta e
+nas calçadas e arborização viária (ANEXOS 27, 28 e 29).
+
+Para a execução desse Produto será necessária a desapropriação apenas de uma área com cerca de 3.400 m2  no Eixo Ambiental
+da rua Zulmira Bacila (Córrego Areiãozinho). Serão necessários estudos (Hidrológicos e  Ambiental Prévio) e projetos executivos (
+Drenagem, Infraestrutura) que estão previstos no Componente 4.
+
+P - 1.1.3. REVERDEJAMENTO E INCREMENTO DA BIODIVERSIDADE
+Considerando o risco de formação de ilhas de calor, este Produto contempla ações de reverdejamento da porção sul da bacia do
+rio Belém por meio do plantio de árvores e incremento da riqueza e abundância de diversidade biológica ligadas às condições
+ambientais e ecológicas (ANEXOS 30 e 31)
+
+As ações incluem: (i) a revegetação de matas ciliares e incremento da biodiversidade ao longo do Parque Linear Belém e dos
+Córregos (6.000 árvores, arbustos e vegetação ripária e ações de manejo, controle e reintrodução de flora e fauna nativas); e (ii) o
+incremento de arborização viária com o plantio de 24.000 mudas de árvores nativas.
+
+P - 1.1.4. REDE DE MOBILIDADE ATIVA COM INFRAESTRUTURA SUSTENTÁVEL
+Este Produto abrange a gestão de águas pluviais, requalificação urbana, sombreamento e acessibilidade, visando fortalecer a
+mobilidade ativa. Isso será alcançado por meio da requalificação dos dois eixos viários diagonais existentes, com a adoção de
+infraestrutura verde e resiliente. Essa rede se integra às demais estruturas de mobilidade ativa previstas no Parque Linear do rio
+Belém e nos Eixos Ambientais ao longo dos três principais contribuintes do rio Belém.
+
+A requalificação inclui o aumento da área permeável e adoção de SbN para a gestão de águas pluviais (jardins de chuva). Também
+prevê infraestrutura de mobilidade ativa resiliente com a implantação de pavimento drenante nas vias compartilhadas com a
+bicicleta e nas calçadas e arborização viária (ANEXO 32).
+
+Para a execução desse produto não serão necessárias desapropriações. Serão necessários estudos (Solo) e projetos executivos (
+Drenagem, Infraestrutura) que estão previstos no Componente 4.
+
+S - 1.2. RESERVA HÍDRICA DO FUTURO - AMORTECIMENTO E MANEJO
+Intervenção urbana com abordagem de conservação ambiental de área alagável, consistindo na interligação de antigas cavas de
+extração de areia, com a dupla função de armazenar água para períodos de escassez hídrica e contribuir para a atenuação de
+cheias, com a criação de bacias de retenção. Além disso, cria uma ampla área de parques e estruturas de esporte e lazer na divisa
+sul do Município. No Programa Curitiba Resiliente, a Reserva Hídrica do Futuro tem como objetivo principal atenuar o risco de
+inundação durante eventos extremos de chuva, especialmente em relação ao refluxo do rio Iguaçu sobre o rio Belém.
+
+P - 1.2.1. PARQUE RESERVA HÍDRICA DO FUTURO - FOZ DO RIO BELÉM COM RIO IGUAÇU
+Este Produto abrange a gestão de águas pluviais e recursos hídricos, a conservação da área alagável da APA do Iguaçu, o
+aumento da biodiversidade e a conexão entre as Unidades de Conservação existentes do Parque Iguaçu/Setor Náutico, o Parque
+de São José dos Pinhais, o Parque da Imigração Japonesa, e o Parque Linear do rio Belém à ser implantado por este Programa.
+
+Prevê a implantação de 1,1 km de parque no trecho entre a linha férrea e o rio Iguaçu, em área contígua ao Parque Linear do rio
+Belém, com pista de caminhada, ciclovia, via-parque, estacionamento e SbN de gestão das águas, com capacidade de retenção de
+cerca de 60 mil m³. Também, está prevista a implantação de área para ações de manejo de resíduos provenientes das ações de
+desassoreamento contínuo do rio Belém, com cerca de 40 mil m², necessária para manter as condições de vazão do rio na porção
+extremo sul da bacia (ANEXOS 15, 35 e 36).
+
+
+Página: 12
+
+Para a execução desse Produto será necessária a aquisição de 305 mil m² de imóveis vagos em áreas alagáveis que estão
+localizadas na APA do rio Iguaçu. Por se tratar de área alagável, sem ocupação e com restrição de ocupação, a aquisição será
+realizada por meio da utilização de instrumento urbanístico de Transferência do Direito de Construir (TDC). A TDC com a doação
+de áreas para implantação de parques públicos são práticas importantes na gestão urbana e no planejamento ambiental. A TDC
+permite que proprietários de terrenos, que não podem construir em suas propriedades, transfiram esse potencial construtivo para
+outras áreas de seu interesse. Essa prática é frequentemente utilizada em locais onde há interesse em preservar espaços abertos,
+como parques e áreas verdes. Assim, é possível equilibrar o desenvolvimento urbano e a preservação e conservação ambiental,
+incentivando a construção em áreas já urbanizadas, enquanto se mantêm espaços  livres.
+
+Esse tipo de abordagem consta do ordenamento jurídico urbanístico do Município e é amplamente adotada pela cidade em casos
+semelhantes de aquisição de áreas para a implantação de parques públicos.
+
+Para a execução desse Produto serão necessários estudos (Hidrológicos e Relatório Ambiental Prévio) e projetos executivos (
+Drenagem, Infraestrutura e Parque) que estão previstos no Componente 4.
+
+C - 2. ECODISTRITO BELÉM - INFRAESTRUTURA SOCIAL E EQUIPAMENTOS PÚBLICOS
+As ações relacionadas à esse Componente envolvem as ações de caráter social do Programa Curitiba Resiliente no que se refere
+à construção de unidades habitacionais resilientes e com eficiência energética, construção de equipamento público para gestão de
+resíduos recicláveis e geração de renda para população vulnerável, e implementação de programa de capacitação e engajamento
+para melhoria do ambiente de negócios e oportunidades.
+
+Os recursos destinados à implementação dos Subcomponentes/Produtos desse Componente destinam-se integralmente ao
+alcance dos objetivos ambientais e climáticos previstos nos Incisos I, III, IV, VI e VII do Art. 2o da Resolução COFIEX 80/2023 e do
+Art. 1o da Portaria MPO-SEAID/MPO/220/2024 conforme descreve-se a seguir:
+
+(i) o Produto 2.1.1. PRODUÇÃO DE UNIDADES HABITACIONAIS COM TECNOLOGIAS SUSTENTÁVEIS PARA REALOCAÇÃO
+DE FAMÍLIAS enquadra-se nos Incisos I e III, considerando que: a reversão de áreas de ocupações irregulares para áreas de
+parque permitem a requalificação ambiental desse ecossistema; as unidades habitacionais à serem construídas vão incorporar
+tecnologias sustentáveis voltadas à geração compartilhada de energia a partir de energia solar (paineis fotovoltaicos); a adoção de
+paineis fotvoltaicos, além de contribuir para a redução dos gastos com energia elétrica das famílias de renda mais baixa contribui
+para a redução das emissões de GEE por se tratar de fonte renovável de energia, essencial para o alcance da meta de
+neutralidade de carbono estabelecida no PlanClima; as unidades contarão com reservatórios de retenção de água de chuva (que
+contribuem para a redução do volume de água nos sistemas de drenagem nos momentos de picos pluviométricos); 100% das
+unidades estarão ligadas à rede de esgotamento sanitário e servidas por serviços de coleta e destinação adequada de resíduos; e
+as unidades habitacionais vão reduzir a vulnerabilidade e promover a adaptação, aumentando a resiliência das edificações e da
+população realocada.
+
+(ii) o Produto 2.2.1. BARRACÃO ECOCIDADÃO - COOPERATIVA DE MATERIAIS RECICLÁVEIS enquadra-se nos Incisos V, VI e
+VII, tendo como foco a gestão e destinação adequada de resíduos sólidos, oportunizando a redução, reutilização e reciclagem de
+resíduos, evitando emissões de GEE provenientes do uso de novos recursos naturais, bem como relacionadas ao transporte, caso
+fossem destinados para aterro sanitário, e fortalecem a adaptação às mudanças climáticas com a redução de vulnerabilidade das
+famílias de baixa renda que atuam nessa etapa da cadeia de gestão de resíduos; e
+
+(iii) o Produto 2.3.1. PROGRAMA ECOHUB BELÉM enquadra-se nos Incisos I e VII por envolver ações de capacitação e
+engajamento que fortalecem as dinâmicas socioeconômicas essenciais quando da adoção de abordagens SbN voltadas à
+participação e engajamento da comunidade local (população e setores produtivos), para aumento da resiliência dos sistemas social
+, econômico, urbano e ambiental, desenvolvendo capacitações, sensibilização e educação ambiental, disseminação de
+conhecimento sobre a diversidade de ações do Programa Curitiba Resiliente, promovendo oportunidades de geração de emprego
+e renda verdes, estimulando o empreendedorismo, a inclusão etária, de gênero e minorias sociais, estimulando a coesão social e o
+senso de pertencimento, com o objetivo de tornar a comunidade mais próspera e confiante no futuro.
+
+S - 2.1. HABITAÇÃO RESILIENTE E COM EFICIÊNCIA ENERGÉTICA
+Construção de 450 unidades habitacionais para as famílias a serem realocadas da APP.
+
+P - 2.1.1. PRODUÇÃO DE UNIDADES HABITACIONAIS COM TECNOLOGIAS SUSTENTÁVEIS PARA REALOCAÇÃO DE
+FAMÍLIAS EM SITUAÇÃO DE RISCO, PRIORIZANDO INCLUSÃO ETÁRIA, DE GÊNERO E MINORIAS SOCIAIS
+Construção de unidades habitacionais com incorporação de tecnologias sustentáveis para promover melhores condições de
+habitabilidade para as famílias em situação de vulnerabilidade socioambiental, bem como sua inclusão social. As unidades
+habitacionais terão 60 m² podendo ter dois ou três dormitórios, e vão contar com painéis fotovoltaicos e reservatório de retenção de
+águas pluviais.
+
+Do total de famílias cadastradas pela COHAB-CT em áreas de ocupação irregular, 58 famílias encontram-se em terrenos públicos
+municipais passíveis de regularização fundiária via instrumento da REURB. Nessas áreas serão realizadas ações de urbanização e
+encaminhamentos jurídicos para a regularização. Esses custos não constam nesse Programa e serão custeados com recursos
+próprios da Prefeitura.
+
+Para a consecução deste Produto está prevista a desapropriação de 47.000 m². Também, serão necessários estudos e projetos
+executivos das unidades habitacionais (ANEXO 37) que estão previstos no Componente 4.
+
+
+Página: 13
+
+S - 2.2. GESTÃO DE RESÍDUOS E GERAÇÃO DE EMPREGOS PARA POPULAÇÃO VULNERÁVEL
+Graves consequências ambientais e de saúde pública são geradas pelo descarte inadequado de resíduos sólidos. Por um lado é
+importante reduzir o volume de resíduos recicláveis descartados inadequadamente, bem como diminuir a parcela de resíduos
+encaminhados para o aterro sanitário, em consonância com as metas do PlanClima. Por outro lado, promover a reutilização de
+materiais ou reinseri-los em outras cadeias produtivas, adotando abordagens de economia circular é essencial para reduzir a
+necessidade de usos de recursos naturais, além de ampliar a possibilidade de geração de emprego e renda verdes, em especial
+considerando o contexto da população mais vulnerável.
+
+A região em que está inserido o Programa Curitiba Resiliente caracteriza-se por ser uma Zona de Serviços, com potencial para a
+realização de ações com foco na gestão de resíduos sólidos, buscando conectar as empresas e comunidade local envolvida com
+separação e aproveitamento de resíduos recicláveis.
+
+Dessa forma, esse Subcomponente contempla o fortalecimento das ações municipais que já são empreendidas para ampliar as
+oportunidades de geração de emprego e renda para a população vulnerável que atua na cadeia de reciclagem de resíduos.
+
+P - 2.2.1. BARRACÃO ECOCIDADÃO - COOPERATIVA DE MATERIAIS RECICLÁVEIS
+As Associações de Catadores de Material Reciclável de Curitiba - Programa EcoCidadão - recebem, fazem a triagem e
+comercializam resíduos da coleta seletiva da cidade. Cada cooperativa participante do EcoCidadão é remunerada conforme a
+quantidade de material recebido, valor utilizado para cobrir as despesas. O lucro vem da venda dos materiais separados em
+barracões que atendem esta etapa da cadeia da gestão de resíduos. O Programa EcoCidadão busca orientar, organizar e apoiar
+associações e cooperativas de catadores de material reciclável com o objetivo de reduzir o volume de resíduos recicláveis
+lançados indevidamente em áreas de mananciais, fundos de vale, córregos e rios, minimizando o impacto de degradação
+ambiental, bem como promover geração de emprego e renda para população em situação de vulnerabilidade socioambiental.
+
+A intervenção compreende a construção de um Barracão do EcoCidadão com equipamentos de triagem. Esse Barracão vai
+integrar a rede de 40 Associações de Catadores de \material Reciclável de Curitiba, inclusive que teve parte dela implementada
+com recursos do BNDES.
+
+Para a implantação do equipamento será necessária a desapropriação de terreno com 2.500 m². Também, serão necessários
+estudos e projetos executivos do Barracão que estão previstos no Componente 4.
+
+S - 2.3. AMBIENTE DE NEGÓCIOS E OPORTUNIDADES
+Realização de ações para a dinamização do ambiente de negócios, empreendedorismo, micro e pequenas empresas, e geração
+de emprego e renda, para aprimorar a atividade econômica com a atração de investimentos e empregos verdes, engajamento
+comunitário e empresarial e educação ambiental na área do Projeto EcoDistrito Belém.
+
+P - 2.3.1. PROGRAMA ECOHUB BELÉM
+Implementação do Programa EcoHub Belém com a realização de ações de capacitação com inclusão etária (jovens e idosos), de
+gênero, e minorias sociais, fortalecimento do setor produtivo e do setor de serviços, realização de feiras, engajamento comunitário
+e empresarial, segurança alimentar e educação ambiental.
+
+Essas ações visam promover oportunidades de geração de emprego e renda verdes, estimulando o empreendedorismo, a inclusão
+, estimulando a coesão social e o senso de pertencimento, com o objetivo de tornar a comunidade mais próspera e confiante no
+futuro.
+
+As ações poderão ocorrer em equipamentos públicos existentes, à exemplo da estrutura do programa Worktiba (coworking público
+municipal) na Rua da Cidadania na área de abrangência do EcoDistrito Belém, bem como na estrutura física do Ecossistema de
+Inovação do Vale do Pinhão da Prefeitura de Curitiba, que está localizado na porção central da bacia do rio Belém. Também,
+podem ocorrer ações de forma itinerante, e com a realização de parcerias com empresas, academia e centros de pesquisa e
+desenvolvimento.
+
+C - 3. INOVAÇÃO E TECNOLOGIA EM PROCESSOS DE PRESTAÇÃO DE SERVIÇOS VOLTADOS À IMPLEMENTAÇÃO DO
+PLANCLIMA
+A Prefeitura Municipal de Curitiba está continuamente engajada em processos de inovação e tecnologia nos serviços. Esses
+esforços buscam transformar a forma como os serviços são prestados, tornando-os mais eficientes, acessíveis e alinhados às
+necessidades do planejamento e gestão da cidade, além de potencializar os resultados e benefícios para os cidadãos.
+Este componente abrange ações essenciais para o aprimoramento da capacidade e qualidade da prestação de serviços do
+município, com ênfase no aumento da resiliência da cidade em relação aos riscos climáticos e engloba o funcionamento pleno do
+Hipervisor Urbano de Curitiba, o monitoramento e controle de indicadores e implementação do PlanClima, e o aprimoramento da
+capacidade de resposta do município a eventos climáticos extremos.
+Concebido e desenvolvido desde 2017 e previsto como órgão de apoio na implementação do PlanClima e no acompanhamento
+dos indicadores climáticos, de mobilidade e de desenvolvimento social, o Hipervisor Urbano teve sua primeira etapa iniciada em
+2024 e está incorporado à estrutura organizacional do Instituto de Pesquisa e Planejamento Urbano de Curitiba (IPPUC). No
+âmbito do PlanClima, o Hipervisor Urbano figura como um dos cinco Setores Estratégicos estabelecidos e corresponde à Ação 19
+do Plano. Foi estruturado para colocar o uso de dados e a inovação na base do desenvolvimento de soluções para o
+enfrentamento dos riscos climáticos.
+
+
+Página: 14
+
+A cultura de gestão de dados para subsidiar o planejamento de políticas, somada ao monitoramento das ações e administrar
+serviços em tempo real, aspectos que fazem parte do conceito do Hipervisor Urbano, auxiliam no desenvolvimento das ações
+priorizadas no PlanClima e na capacidade de resposta aos riscos climáticos.
+A captação e a análise de dados confiáveis e diversificados formam a base para que os agentes públicos possam desenvolver
+estudos, programas e políticas, e os dados são fundamentais na construção de modelos viáveis que tenham impacto no
+desenvolvimento das ações de enfrentamento à mudança climática. A base de dados e a análise das informações coletadas
+também são importantes no monitoramento dos impactos das ações estabelecidas.
+Com os dados disponibilizados de forma estruturada em um modelo de Hipervisor Urbano, é possível planejar e mensurar as
+ações, identificar padrões dentro da cidade ou de uma comunidade e realizar a interação digital dos atores e das informações. Com
+esse processo de inovação, a coleta, o uso e a análise dos dados podem ser feitos de forma prática e acessível, e em diferentes
+escalas dentro da cidade.
+A inovação é um propulsor do desenvolvimento de ações e iniciativas para a obtenção dos objetivos traçados dentro do PlanClima,
+e é também um fator de engajamento de diferentes setores da sociedade - empresas, universidades, startups e comunidades. A
+Prefeitura de Curitiba tem um histórico robusto na produção de informações de qualidade sobre a cidade, como, por exemplo, a
+plataforma municipal de Sistema de Informações Geográficas, GeoCuritiba, que agrega informações geográficas e urbanísticas de
+toda a cidade. Contudo, é rotineiro que cada órgão municipal, no planejamento de suas ações, consuma e analise isoladamente
+apenas dados de seu próprio domínio.
+Neste contexto, a proposta do Hipervisor urbano busca integrar as bases de dados da Prefeitura, que se encontram em sistemas
+legados e de difícil compatibilização, bem como bases externas ao Município, de órgãos estaduais, federais, internacionais e entes
+privados. Os órgãos da administração pública utilizam seus sistemas informatizados especialistas para melhor responder às suas
+demandas regulares. Tais demandas podem ser recorrentes e urgentes, o que limita a chance de análises e investigações acerca
+das causas ou soluções alternativas aos problemas enfrentados.
+Por não ser responsável por ações de Comando e Controle de Operação, o Hipervisor Urbano tem a disponibilidade e capacidade
+de investigar problemas enfrentados pela administração municipal sob o foco de planejamento, cruzando informações e analisando
+soluções mais efetivas que possam ser propostas e implementadas caso a caso. A centralização destes dados busca possibilitar a
+geração de análises multidomínio e progressivas para melhor responder as entidades do município ou a sociedade como um todo.
+As análises multidomínio se propõem a avaliar aspectos urbanos de maneira sistêmica, integrando dados de diferentes domínios e
+naturezas, buscando insights e correlações que passariam despercebidas em uma análise monotemática.
+Nas análises progressivas, busca-se incrementalmente aprofundar o conhecimento sobre o tema para melhor entender e priorizar
+reações a cada situação apresentada. Ela é dividida em 4 etapas: na análise descritiva é descrito o que acontece - essa análise já
+é feita por cada órgão da Prefeitura; na sequência realiza-se a análise explicativa, onde o foco é determinar o porquê de a situação
+acontecer; após isso, tem-se a análise preditiva que busca estimar como essa situação estará no futuro; e por fim, a análise
+prescritiva, em que elenca-se as 3 melhores ações a serem tomadas para incentivar o fenômeno em questão (se é algo positivo),
+evitar (se é negativo) ou como minimizar os danos de algo inevitável (uma possível catástrofe climática, por exemplo).
+Um dos objetivos do Hipervisor Urbano é a criação do gêmeo digital da cidade de Curitiba. Trata-se de um modelo digital de alta
+precisão que mimetiza as condições e dinâmicas urbanas e permite interação direta com a realidade por meio do modelo. A
+maquete virtual, além de refletir a realidade local, também serve de ferramenta para estudos de cenários futuros, como
+crescimento populacional, mudanças e melhorias no transporte coletivo, inundações, dentre outros. No caso de inundações, por
+exemplo, é possível realizar estudos de impacto no território com base no modelo para embasar propostas de obras e melhorias de
+eliminação ou minimização de catástrofes e utilizar a própria maquete como meio de divulgação para a população, uma vez que a
+visualização do modelo 3D de inundação é mais palpável à população, facilitando a comunicação de possíveis riscos.
+Assim, este Componente corrobora para a análise de cenários, para o desenvolvimento de sistemas de alertas vinculando a
+ocorrência de eventos com o disparo de protocolos de ação, realização de modelagens, monitoramento e avaliação de diferentes
+indicadores, à exemplo da qualidade da água e do ar, da temperatura da superfície urbana, da relação entre condições climáticas e
+impactos na saúde, monitoramento de vetores relacionados ao clima, entre outros aspectos, possibilitando que a gestão pública se
+anteceda aos riscos resultantes de eventos climáticos e agregando valor para a adaptação e resiliência da cidade. Nesse contexto
+, conforme acima descrito, os recursos destinados à implementação do Subcomponente 3.1. HIPERVISOR URBANO - FASE 2 e
+seus Produtos 1.1 PLATAFORMA DE INTEGRAÇÃO E ANÁLISE DE DADOS E INFORMAÇÕES, 3.1.2. DATA CENTER FASE 2 E
+SENSORES E 3.2.3. SERVIÇOS DE APOIO, e do Subcomponente 3.2. INOVAÇÃO E TECNOLOGIA e seus Produtos 3.2.1.
+PLATAFORMA DE COLETA DE DADOS HIDROMETEOROLÓGICOS E 3.2.1 MONITORAMENTO DAS CONDIÇÕES DE
+SANEAMENTO BÁSICO E QUALIDADE DA ÁGUA, destinam-se integralmente ao alcance dos objetivos ambientais e climáticos
+previstos nos Incisos I, III, IV, V, VI e VII do Art. 2o da Resolução COFIEX 80/2023 e do Art. 1o da Portaria MPO-SEAID/MPO/220/
+2024.
+
+S - 3.1. HIPERVISOR URBANO - FASE 2
+O Hipervisor Urbano é uma plataforma integrada de planejamento, gestão e monitoramento baseada em dados, que visa permitir o
+funcionamento pleno dos conceitos de cidade inteligente e subsidiar os processos de tomada de decisão e planejamento da cidade
+, em especial quanto às mudanças climáticas, mobilidade sustentável e desenvolvimento social,   e teve sua Fase 1 implementada
+no início de 2024.
+
+Sua operação utiliza ferramentas avançadas de tecnologia de informação e ciências de dados, como modelagem e análise
+preditivas, big data, aprendizagem de máquina e aprendizagem profunda, inteligência artificial, gêmeos digitais, edge computing,
+etc.
+
+As ações previstas no Programa compreendem a implantação da Fase 2 do Hipervisor Urbano atingindo seu pleno funcionamento
+e envolvem: (i) plataforma de integração e análise de dados e informações; (ii) Data Center e sensores; e (iii) Serviços de Apoio.
+
+
+Página: 15
+
+P - 3.1.1. PLATAFORMA DE INTEGRAÇÃO E ANÁLISE DE DADOS E INFORMAÇÕES
+Solução Integrada de Hipervisão que engloba uma coleção de programas de computador, bancos de dados estruturados ou não,
+estruturas de data lake e data fabric, permitindo que os analistas, cientistas de dados e desenvolvedores extraiam, transformem e
+carreguem bases de dados em um repositório integrado favorecendo as análises progressivas e multidomínio.
+
+P - 3.1.2. DATA CENTER FASE 2 E SENSORES
+Aquisição de equipamentos para coleta, recebimento, armazenamento e processamento de dados e informações. Constitui a
+infraestrutura básica do Hipervisor e representa o aumento efetivo da capacidade computacional, a estabilidade das operações, a
+segurança dos dados e informações na medida em que os equipamentos são adquiridos e não contratados como serviço.
+
+P - 3.1.3. SERVIÇOS DE APOIO
+As ações envolvem atividades de apoio para a implementação e operação do Hipervisor urbano, envolvendo assistência técnica e
+jurídica, consultoria e capacitação da equipe interna, e a realização de levantamentos técnicos.
+
+S - 3.2. INOVAÇÃO E TECNOLOGIA
+Esse Subcomponente envolve inovações tecnológicas para ações de monitoramento no nível de água dos corpos hídricos, das
+condições de saneamento básico, e da qualidade da água dos corpos hídricos.
+
+P - 3.2.1. MONITORAMENTO DO NÍVEL DOS RIOS VOLTADO AO ALERTA E PREVENÇÃO DE DESASTRES:
+PROGRAMA FAMÍLIA RESILIENTE
+Este produto contempla o monitoramento do nível dos rios com foco na implementação de medidas de prevenção e alerta de
+desastres relacionados à eventos climáticos extremos. O Produto contempla a aquisição de plataforma de coleta de dados
+hidrometeorológicos, sendo que o Hipervisor Urbano fará a integração de dados e informações ampliando as ações do SisAAPrev (
+Sistema de Alerta e Alarme de Prevenção à desastres de Curitiba).
+
+Com relação às medidas de prevenção e alerta, no âmbito do PlanClima e das ações da Coordenadoria de Defesa Civil de Curitiba
+, em 2023 foi implementado o SisAAPrev para ampliação da capacidade de prevenção e proteção de desastres da cidade e região
+metropolitana. O SisAAPrev implantou 12 plataformas de coleta de  dados meteorológicos (estações meteorológicas com
+transmissão de dados via telemetria, automáticas e autônomas) e de um software especializado para coleta de dados sobre os
+níveis de chuva e sensores que detectam uma variedade de indicadores climáticos.
+
+Além disso foram instaladas três estações hidrológicas para monitorar as bacias hidrográficas do Município. O SisAAPrev é
+monitorado no ambiente do Hipervisor Urbano, que organiza as informações e realiza análises dos dados, produzindo informações
+gerenciais para processos de tomada de decisão e ações frente à eventos climáticos extremos. As informações estratégicas
+produzidas a partir dos dados coletados  vão permitir das continuidade na porção sul da bacia do rio Belém do programa Família
+Resiliente, voltado à população mais vulnerável, para a elaboração de planos familiares de auto-socorro (ANEXO 47).
+
+P - 3.2.2. MONITORAMENTO DAS CONDIÇÕES DE SANEAMENTO BÁSICO E QUALIDADE DA ÁGUA
+Este produto contempla dois serviços voltados ao monitoramento das condições de saneamento básico  e qualidade da água na
+bacia do rio Belém, ambos voltados ao controle da poluição hídrica, sendo que essas iniciativas compõem as ações de
+monitoramento do Hivervisor Urbano de Curitiba no contexto do Programa Curitiba Resiliente e no âmbito do PlanClima.
+
+A bacia do Belém apresenta mais de 97% de cobertura da rede de coleta de esgoto, mas a contaminação dos corpos hídricos
+permanece um problema significativo. A qualidade da água do rio é classificada como ruim ou péssima, a depender do ano de
+análise e local de coleta, e piora especialmente na porção central da bacia, onde o canal principal e dois importantes afluentes
+estão totalmente canalizados. Para atuar sobre essa questão estão previstas duas ações: (i) o telediagnóstico, mapeamento e
+cadastro da rede de drenagem; e (ii) o aprimoramento do sistema de monitoramento e análise da qualidade da água.
+
+Com relação ao telediagnóstico, mapeamento e cadastro da rede de drenagem, também conhecido como televisionamento ou
+vídeo inspeção de redes, será possível diagnosticar problemas em tubulações, utilizando-se de uma câmera sonda ou uma câmera
+conectada a um robô, sendo possível analisar o interior das tubulações, rastrear e localizar pontos exatos de problemas, tornando
+o diagnóstico mais rápido e preciso.
+
+As imagens geradas pelo telediagnóstico revelam a condição operacional das tubulações, como ligações inadequadas,
+lançamentos indevidos ou cruzamentos irregulares entre as redes de esgoto sanitário e de água pluvial, além de identificar o nível
+de assoreamento e obstruções das tubulações. Também, identifica as condições estruturais das tubulações, apontando infiltrações,
+trincas, rupturas e desalinhamentos. A solução, também será utilizada para o mapeamento georreferenciado e cadastro das
+galerias de águas pluviais, essencial para o gerenciamento das redes de drenagem (ANEXO 33).
+
+Com relação ao monitoramento da qualidade da água, a frequência de amostragem é importante para a detecção de violações aos
+padrões normativos, identificação de variação temporal na qualidade da água, perfil do corpo hídrico e identificação de cargas
+poluidoras. Os rios urbanos possuem grande variação da qualidade da água, o que acarreta a necessidade de monitoramento mais
+frequente, o que encarece o serviço. A obtenção de dados a um menor custo é uma estratégia mais efetiva e ponto de partida
+para a melhoria a longo prazo dos parâmetros analisados e consequentemente da qualidade da água.
+
+
+Página: 16
+
+Nesse Produto, propõe-se o monitoramento contínuo da qualidade da água dos corpos hídricos, baseando-se na análise do
+parâmetro de oxigênio dissolvido, que possibilita a rápida identificação de poluição gerada pela presença de esgoto no corpo
+hídrico, o que possibilitará orientar ações de vistoria, fiscalização e remediação de contaminação nas sub-bacias hidrográficas. A
+possibilidade de informação em tempo real, diferente do que acontece atualmente, diminuirá consideravelmente o tempo de
+contaminação no recurso hídrico, quando comparado com as demandas provenientes de denúncias ou dos resultados do
+monitoramento semestral. Este produto contempla a aquisição de infraestrutura para implantação, mobilização e instalação
+estações de monitoramento da qualidade nos rios e   transmissão on-line de dados para servidor, armazenamento em nuvem e
+disposição dos dados em plataforma web por intermédio do Hipervisor Urbano (ANEXO 34).
+
+C - 4. GERENCIAMENTO, SUPERVISÃO E PROJETOS
+Esse Componente é voltado ao apoio à execução do Programa. As ações envolvem a contratação de empresas para o
+Gerenciamento Geral do Programa, para a realização da Supervisão Ambiental, Social e de Obras, para o Projeto de Trabalho
+Social e para a elaboração de projetos executivos de engenharia, ou seja, tratam das ações necessárias à viabilização dos
+Subcomponentes e Produtos descritos nos Componentes 1, 2 e 3.
+
+Por tratarem-se de atividades meio, de apoio à execução do Programa, os recursos destinados à implementação dos
+Subcomponentes/Produtos enquadram-se integralmente ao alcance dos objetivos ambientais e climáticos previstos nos Incisos I,
+III, IV, V, VI e VII do Art. 2o da Resolução COFIEX 80/2023 e do Art. 1o da Portaria MPO-SEAID/MPO/220/2024, descritos nos
+Componentes anteriores: 1. GESTÃO DE ÁGUAS PLUVIAIS E DE RECURSOS HÍDRICOS, RECUPERAÇÃO AMBIENTAL E
+BIODIVERSIDADE; 2. ECODISTRITO BELÉM - INFRAESTRUTURA SOCIAL E EQUIPAMENTOS PÚBLICOS; e 3. INOVAÇÃO E
+TECNOLOGIA EM PROCESSOS DE PRESTAÇÃO DE SERVIÇOS.
+
+S - 4.1. APOIO AO GERENCIAMENTO E SUPERVISÃO
+Atividades de apoio ao gerenciamento e supervisão do Programa
+
+P - 4.1.1. APOIO AO GERENCIAMENTO DE OBRAS, À SUPERVISÃO AMBIENTAL E SOCIAL
+As ações incluem o apoio ao gerenciamento de obras e à Supervisão Ambiental e Social, coordenado pela Unidade Técnico-
+Administrativa de Gerenciamento dos Programas (UTAG) vinculada ao Instituto de Pesquisa e Planejamento de Curitiba (IPPUC).
+
+P - 4.1.2. APOIO À SUPERVISÃO DE OBRAS
+As ações incluem o apoio à supervisão de obras coordenadas pela UTAG vinculada ao IPPUC e pela Secretaria Municipal de
+Obras Públicas (SMOP).
+
+P - 4.1.3. PROJETO DE TRABALHO SOCIAL (PTS)
+As ações que envolvem trabalho social a ser desenvolvido com a população que será realocada, e tem como objetivo promover a
+participação dos moradores por meio de atividades socioeducativas, auxiliando na organização e gestão comunitária, educação
+sanitária, ambiental, patrimonial e para a saúde, e visando a melhoria nas condições de vida das famílias beneficiadas. Parte das
+ações serão desenvolvidas por meio do contrato de Supervisão, e parte por equipe própria da Prefeitura Municipal.
+
+O valor estimado para a realização dessas ações é de aproximadamente R$ 10.000.000,00. Esse valor não inclui o aluguel social.
+Caso seja necessário durante a etapa de obras, o aluguel social será suportado pelo orçamento municipal destinado à habitação
+social.
+
+S - 4.2. CONSULTORIAS, ESTUDOS E PROJETO EXECUTIVOS
+As ações envolvem a contratação de consultorias, estudos e projetos executivos identificando as necessidades, caracterizando os
+problemas, e avaliando as alternativas de viabilidade nos aspectos técnico, socioeconômico, financeiro e ambiental, propondo
+medidas que contribuam para melhorar as condições de controle de cheias e a recuperação ambiental da região.
+
+P - 4.2.1. CONSULTORIAS, ESTUDOS E PROJETOS EXECUTIVOS DE ENGENHARIA E ARQUITETURA
+As ações abrangem a contratação de consultorias, estudos, projetos executivos de engenharia e arquitetura dos Parques
+EcoDistrito do rio Belém e Reserva Hídrica do Futuro, dos Eixos Ambientais, da Rede de Mobilidade Ativa, das Unidades
+Habitacionais e do Barracão EcoCidadão.
+
+P - 4.2.2. ESTUDOS HIDROLÓGICOS E RELATÓRIO AMBIENTAL PRÉVIO (RAP)
+Abrange a contratação de consultorias para a elaboração dos estudos hidrológicos e do Relatório Ambiental Prévio (RAP).
+
+P - 4.2.3. ESTUDOS E DESENVOLVIMENTO DE APLICAÇÕES E TECNOLOGIA
+O Produto visa promover o desenvolvimento de estudos que possam trazer inovações com demandas que sejam identificadas
+durante a execução do Programa, bem como melhorias institucionais em equipamentos no que compete à adoção gradativa de
+novas tecnologias e processos integrados que permitam a criação, utilização e atualização de modelos digitais de obras e serviços
+de engenharia.
+
+
+Categoria de Gasto
+
+Obras
+P- 1.1.1. IMPLANTAÇÃO DO PARQUE LINEAR
+DO RIO BELÉM
+P- 1.1.2. REQUALIFICAÇÃO AMBIENTAL E
+URBANA DE EIXOS AMBIENTAIS AO LONGO
+DE CÓRREGOS CONTRIBUINTES
+P- 1.1.4. REDE DE MOBILIDADE ATIVA COM
+INFRAESTRUTURA SUSTENTÁVEL
+P- 1.2.1. PARQUE RESERVA HÍDRICA DO
+FUTURO - FOZ DO RIO BELÉM COM RIO
+IGUAÇU
+P- 2.1.1. PRODUÇÃO DE UNIDADES
+HABITACIONAIS COM TECNOLOGIAS
+SUSTENTÁVEIS PARA REALOCAÇÃO DE
+FAMÍLIAS EM SITUAÇÃO DE RISCO,
+PRIORIZANDO INCLUSÃO ETÁRIA, DE
+GÊNERO E MINORIAS SOCIAIS
+P- 2.2.1. BARRACÃO ECOCIDADÃO -
+COOPERATIVA DE MATERIAIS RECICLÁVEIS
+Bens
+P- 3.1.2. DATA CENTER FASE 2 E SENSORES
+Consultoria
+P- 3.1.3. SERVIÇOS DE APOIO
+P- 3.2.1. MONITORAMENTO DO NÍVEL DOS
+RIOS VOLTADO AO ALERTA E PREVENÇÃO
+DE DESASTRES: PROGRAMA FAMÍLIA
+RESILIENTE
+P- 3.2.2. MONITORAMENTO DAS CONDIÇÕES
+DE SANEAMENTO BÁSICO E QUALIDADE DA
+ÁGUA
+P- 4.1.1. APOIO AO GERENCIAMENTO DE
+OBRAS, À SUPERVISÃO AMBIENTAL E SOCIAL
+P- 4.1.2. APOIO À SUPERVISÃO DE OBRAS
+P- 4.1.3. PROJETO DE TRABALHO SOCIAL (
+PTS)
+P- 4.2.1. CONSULTORIAS, ESTUDOS E
+PROJETOS EXECUTIVOS DE ENGENHARIA E
+ARQUITETURA
+P- 4.2.2. ESTUDOS HIDROLÓGICOS E
+RELATÓRIO AMBIENTAL PRÉVIO (RAP)
+P- 4.2.3. ESTUDOS E DESENVOLVIMENTO DE
+APLICAÇÕES E TECNOLOGIA
+Serviços que Não de Consultoria
+P- 1.1.3. REVERDEJAMENTO E INCREMENTO
+DA BIODIVERSIDADE
+P- 3.1.1. PLATAFORMA DE INTEGRAÇÃO E
+ANÁLISE DE DADOS E INFORMAÇÕES
+Capacitação e Treinamento
+P- 2.3.1. PROGRAMA ECOHUB BELÉM
+Total Geral
+
+
+Página: 17
+
+Valor
+
+% Financeiro
+
+108.220.000,00
+58.560.000,00
+
+Unidade de medida
+-
+metro quadrado
+
+Meta
+
+-
+355.000,00
+
+metro quadrado
+
+78.000,00
+
+5.100.000,00
+
+metro quadrado
+
+112.600,00
+
+8.800.000,00
+
+metro quadrado
+
+305.000,00
+
+6.600.000,00
+
+77,69
+42,04
+
+3,66
+
+6,32
+
+4,74
+
+unidades
+habitacionais
+
+450,00
+
+28.060.000,00
+
+20,14
+
+metro quadrado
+
+1.050,00
+
+1.100.000,00
+
+-
+percentual
+-
+percentual
+plataforma
+
+-
+100,00
+-
+100,00
+1,00
+
+2.200.000,00
+2.200.000,00
+15.880.000,00
+1.000.000,00
+55.000,00
+
+serviço
+
+2,00
+
+2.300.000,00
+
+Mês
+
+Mês
+Mês
+
+60,00
+
+60,00
+60,00
+
+5.500.000,00
+
+2.800.000,00
+2.000.000,00
+
+metro quadrado
+
+878.650,00
+
+1.600.000,00
+
+relatório
+
+global
+
+-
+muda de indivíduo
+arbóreo
+percentual
+
+2,00
+
+1,00
+
+-
+30.000,00
+
+500.000,00
+
+125.000,00
+
+12.500.000,00
+3.100.000,00
+
+100,00
+
+9.400.000,00
+
+0,79
+
+1,58
+1,58
+11,40
+0,72
+0,04
+
+1,65
+
+3,95
+
+2,01
+1,44
+
+1,15
+
+0,36
+
+0,09
+
+8,97
+2,23
+
+6,75
+
+-
+ano
+-
+
+-
+5,00
+-
+
+500.000,00
+500.000,00
+139.300.000,00
+
+0,36
+0,36
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+O aprimoramento gradativo do planejamento urbano de Curitiba e o fortalecimento de sua política ambiental, a partir de uma abordagem
+que integra o desenvolvimento urbano, ambiental, social e econômico tem permitido responder de forma mais efetiva aos desafios
+impostos pelo crescimento urbano ao longo das décadas, e mais recentemente aos efeitos das mudanças climáticas. Entre 1970 e 2000, a
+abordagem municipal incluiu o fortalecimento de eixos de desenvolvimento urbano que integram a mobilidade urbana, os usos mistos e o
+adensamento populacional aliados à proteção e conservação de áreas verdes e faixas de drenagem, a implementação de parques,
+reciclagem de resíduos, e a educação ambiental.
+
+A partir de 2000 Curitiba tem desenvolvido estratégias e ações para aumentar o seu protagonismo no esforço global para enfrentar as
+mudanças climáticas, integrando no planejamento municipal ações transformadoras que promovam a biodiversidade, a descarbonização,
+a adaptação e o aumento da resiliência dos sistemas urbano, ambiental, econômico e social da cidade. Em 2006, Curitiba sediou a COP 8
+da Convenção das Nações Unidas sobre Diversidade Biológica, bem como MOP 3 do Protocolo de Cartagena sobre Biossegurança, com
+profundo significado político, técnico, simbólico e pedagógico, dada a grandeza da responsabilidade do Brasil em relação à questão
+ambiental, em nível nacional e global.
+
+(cid:10)
+(cid:10)
+
+
+Página: 18
+
+Em 2009, foi criado o Fórum Curitiba sobre Mudanças Climáticas, por decreto municipal, com a participação de órgãos municipais,
+universidades e entidades da sociedade civil, que estabeleceu a Estratégia para a Mudança do Clima, prevendo ações de médio e longo
+prazo, como a elaboração de Inventários de Emissões de GEE e de Sumidouros, e a Avaliação da Vulnerabilidade Ambiental e
+Socioeconômica para o Município. Essa estratégia promoveu a fundamentação técnica e científica para a inclusão do Plano Estratégico de
+Mitigação e Adaptação às Mudanças Climáticas na estrutura do Sistema de Planejamento Municipal, na revisão do Plano Diretor de
+Curitiba de 2015.
+
+Em 2020, após dois anos de trabalho realizado por equipe multidisciplinar e em colaboração com a sociedade, e com base em evidências,
+foi lançado por meio do Decreto Municipal 1.670/2020, o Plano de Mitigação e Adaptação às Mudanças Climáticas de Curitiba, o
+PlanClima (ANEXO 17).
+
+O Programa Curitiba Resiliente está inserido no processo gradual de implementação do PlanClima e responde a 15 das 20 ações
+priorizadas no Plano, com ações que vêm sendo desenvolvidas a partir de 2017 à exemplo dos projetos Gestão de Risco Climático Bairro
+Novo do Caximba, Curitiba 100 Mil Árvores por Ano, Curitiba Mais Energia, Fazenda Urbana, Mobilidade Urbana Sustentável, e Hipervisor
+Urbano.
+
+Também, com o objetivo de minimizar os impactos de chuvas fortes e prevenir alagamentos em pontos críticos e emergenciais, foi criado
+o Programa Curitiba Contra as Cheias, com uma abordagem de manutenção e implementação de infraestrutura. As ações incluem
+serviços de limpeza e desassoreamento, realização de serviços constantes em galerias e canalizações, construção de reservatórios de
+contenção de cheias em áreas mais adensadas, e obras de macrodrenagem. Na bacia do rio Belém foram realizadas obras de
+macrodrenagem nos rios Juvevê, Henry Ford e Pinheirinho.
+
+Em relação à requalificação da bacia do rio Belém, que incorpora infraestrutura verde, somando-se as 14 Unidades de Conservação
+existentes - incluindo parques e bosques de grande relevância para o município - estão sendo desenvolvidos projetos na porção norte da
+bacia. As novas Unidades estão sendo projetadas e implementadas, alinhando-se às propostas do Programa Curitiba Resiliente. Essas
+intervenções são fundamentais para enfrentar as mudanças climáticas, pois promovem a conservação da cobertura vegetal e
+desempenham um papel crucial na gestão de águas pluviais, ampliando a capacidade de retenção de água ao longo da bacia. Destaca-se
+a ampliação do Parque das Nascentes do Belém, o Bosque Serraria Mila, o Parque Colinas do Abranches e a renaturalização de trechos
+do rio Belém na Vila Diana. As intervenções de ampliação do Parque das Nascentes do Belém, do Bosque Serraria Mila e de
+renaturalização de trechos do rio na Vila Diana, os projetos foram contratados e as empresas estão em fase de execução do Plano de
+Trabalho. O Parque Colina do Abranches teve a obra licitada e já foi dada a emissão da Ordem de Serviço e as desapropriações
+necessárias já estão concluídas.
+
+Também, com foco na requalificação ambiental da bacia, encontra-se em fase de desenvolvimento de estudo de concepção, as propostas
+de implantação de jardins filtrantes na porção central da bacia, na região do Centro Cívico e do Passeio Público.
+
+Essas intervenções impactam diretamente as ações previstas no Programa Curitiba Resiliente porque melhoram a qualidade da água à
+montante, bem como reduzem o volume de água que escoa para a porção sul da bacia do rio Belém, que apresenta maior risco de
+inundação  e alagamento de acordo com a Avaliação de Riscos Climáticos do Município.
+
+Ainda, para melhorar a atenuação dos riscos climáticos na porção sul da bacia do rio Belém encontra-se em andamento o
+desenvolvimento de estudos para aplicar SbN para a gestão de águas pluviais na área da PUCPR, dentro de um acordo com o Ministério
+Público, com foco em ampliar a capacidade de detenção de águas pluviais durante as cheias do rio Belém. Essas ações irão somar-se às
+intervenções para controle de cheias que estão sendo desenvolvidas para a bacia do rio Belém.
+
+Com relação às ações de monitoramento, prevenção e alerta, no âmbito do PlanClima e das ações da Coordenadoria de Defesa Civil de
+Curitiba, em 2023 foi implementado o Sistema de Alerta e Alarme de Prevenção à desastres de Curitiba (SisAAPrev) para ampliação da
+capacidade de prevenção e proteção de desastres da cidade e região metropolitana. O SisAAPrev implantou doze plataformas de coleta
+de dados meteorológicos (estações meteorológicas com transmissão de dados via telemetria, automáticas e autônomas) e de um software
+especializado para coleta de dados sobre os níveis de chuva e sensores que detectam uma variedade de indicadores climáticos: incluindo
+rajadas de vento, radiação solar, pressão atmosférica e temperatura. Além disso foram instaladas três estações hidrológicas para
+monitorar as bacias hidrográficas do município. O SisAAPrev é monitorado no ambiente do Hipervisor Urbano, que organiza as
+informações e realiza análises dos dados, produzindo informações gerenciais para processos de tomada de decisão e ações frente à
+eventos climáticos extremos. Encontra-se em fase de planejamento a aquisição de mais três estações hidrológicas para ampliar o
+monitoramento para todas as 6 bacias hidrográficas do município. Ainda, com relação à prevenção está em fase inicial, na porção central
+da bacia do rio Belém na Vila Torres, o Programa Família Resiliente, voltado à população mais vulnerável, para a elaboração de planos
+familiares de auto-socorro.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 19
+
+Com relação à educação ambiental são desenvolvidas de forma permanente por meio dos Programas Amigo dos Rios e Conhecer para
+Prevenir, ações integradas voltadas à sensibilização quanto à importância da conservação e recuperação dos Rios, plantios comunitários,
+geração de multiplicadores por meio de capacitações, orientações quanto à separação de resíduos, saneamento, mudanças climáticas,
+áreas verdes e recursos hídricos, e a formação de Grupos de Apoio Local em microbacias, bem como palestras e simulados em todas as
+escolas da rede municipal, e em parte da rede privada, voltadas ao preparo de alunos e professores para situações de emergências,
+incluindo as decorrentes de eventos climáticos.
+
+Com relação à ampliação da cobertura vegetal, a partir de 2019 foi dado início ao Programa 100 Mil Árvores por ano, com múltiplos
+benefícios para a população e impactando diretamente no risco climático de formação de ilhas de calor urbano. Até junho de 2024 foram
+plantadas mais de 500 mil mudas de árvores, incluindo áreas públicas e privadas.
+
+Considerando apenas as árvores plantadas em vias públicas, entre 2022 e 2024, das 27.154 árvores plantadas no município, 14.448 estão
+na bacia do rio Belém, sendo 1.911 na porção sul, representando 13,23% em relação às plantadas na bacia e 7,04% em relação às
+plantadas no município. O plantio de árvores em áreas públicas encontra-se em execução e estão sendo plantadas cerca de 1.700 novas
+mudas por mês.
+
+Com relação à qualidade das águas dos corpos hídricos, a avaliação é realizada semestralmente de forma sistemática e abrange todas as
+bacias e sub-bacias do município. Para a caracterização da qualidade da água, utiliza-se o IQA (Índice de Qualidade de Água). Conforme
+o  valor obtido, é possível classificar o corpo hídrico e avaliar as condições em que se encontra. No rio Belém, desde de 2016 são
+monitorados  seis pontos distintos.
+
+Com relação aos estudos hidrológicos necessários para o dimensionamento de ações relacionadas ao manejo de águas pluviais no
+município, Curitiba foi recentemente selecionada no Programa Novo PAC para receber recursos para estudos e projetos para a Bacia do
+rio Belém e para a atualização do Plano Diretor de Drenagem Municipal (PDD), que inclui o desenvolvimento de modelo hidrológico para a
+cidade. A atualização do PDD será a base para a elaboração de planos, estudos e projetos de engenharia para o manejo de águas
+pluviais urbanas, tendo em vista a universalização dos serviços, com o objetivo de sanar a insuficiência ou a inexistência de dispositivos
+de drenagem, responsável pelas inundações e processos erosivos buscando, também, a adoção de Soluções baseadas na Natureza (SbN
+) e cenários de mudanças climáticas. O Termo de Referência da contratação encontra-se em fase de elaboração. Após a conclusão da
+sua elaboração será assinado o Termo de Compromisso com o Governo Federal.
+
+Com a implementação da estrutura de Governança Interna e Externa do PlanClima, de caráter transversal às as ações prioritárias,
+principalmente com a criação do Comitê de Implementação do PlanClima em 2022 por meio do Decreto Municipal 1.162/2022 (ANEXO 48)
+e com a reestruturação do Fórum Municipal de Mudanças Climáticas por meio do Decreto Municipal 340/2024 (ANEXO 49), o município
+inova no envolvimento e engajamento de atores para a ação climática. Este modelo de governança vem sendo aplicado em uma série de
+processos e projetos aliados a parceiros estratégicos da cidade.
+
+A iniciativa Climate Smart Cities Challenge (Desafio Climático das Cidades Inteligentes), promovida pela Viable Cities - programa de
+inovação estratégica da Suécia - com apoio da ONU-Habitat, visa transformar cidades em ambientes inteligentes e resilientes às
+mudanças climáticas. Curitiba, entre as quatro cidades selecionadas globalmente, estabeleceu o desafio da criação de bairros de carbono
+zero. A iniciativa envolveu diversas secretarias municipais e instituições, com criação de um Comitê de Governança por meio do Decreto
+Municipal 1.926/2022, reunindo, também, líderes comunitários, empresas e academia, com foco específico em uma área inserida na
+porção central da bacia do Rio Belém. Teve como objetivo criar um modelo escalável de cidade inteligente, priorizando zero carbono e
+qualidade de vida, a partir do desenvolvimento de um sistema demonstrador no campo da inovação, validando soluções tecnológicas e
+metodológicas na resolução de questões complexas, como urbanismo, sustentabilidade e tecnologia, onde a interação entre diversos
+fatores é fundamental.
+
+Curitiba, também está inserida no Projeto Generation Restoration (Geração de Restauração) do Programa das Nações Unidas para o Meio
+Ambiente - PNUMA - como um exemplo de cidade que busca promover a sustentabilidade e a restauração ambiental. Este projeto visa
+apoiar iniciativas que promovem a recuperação de ecossistemas e a implementação de práticas de gestão ambiental. Além da sua
+distinção como cidade modelo, o PNUMA selecionou recentemente Curitiba para implementar um projeto piloto inovador, aumentando o
+papel global de defesa e liderança de Curitiba em direção à restauração de ecossistemas. O projeto piloto será realizado sob a forma de
+tempo e experiência   de dois especialistas técnicos para analisar projetos em conservação do capital natural e da biodiversidade, e
+estratégias de adaptação e mitigação climática da cidade.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 20
+
+Por meio desta iniciativa, Curitiba tem compartilhado experiências e se capacitado em Soluções baseadas na Natureza, a exemplo dos
+eventos: Construindo uma Geração de Restauração: Workshop Presencial de Capacitação com Cidades Piloto e Modelo, de 13 a 15 de
+dezembro de 2023, no escritório do PNUMA, em Paris, França; Reunião de Especialistas: Natureza Urbana, Infraestrutura Urbana Verde e
+Adaptação Climática, de 28 a 29 de maio de 2024 em Istambul, Turquia; Construindo cidades climaticamente inteligentes e resilientes na
+Turquia: Planejamento de Ação Climática e Infraestrutura Urbana Verde, de 30 a 31 de maio de 2024, em Ancara, Turquia; e Workshops
+Regionais sobre Soluções baseadas na Natureza: Explorando necessidades e lacunas na implementação e expansão, de 9 a 10 de
+setembro de 2024, no Rio de Janeiro, Brasil.
+
+O Município de Curitiba, para fortalecer sua visão frente à mitigação e adaptação às mudanças climáticas têm estabelecido compromissos
+junto aos seus parceiros. O Grupo C40 de Grandes Cidades para a Liderança Climática, por meio do Acelerador da Natureza Urbana,
+reforça o empenho das cidades em aumentar a natureza nos ambientes urbanos até 2030, reduzindo vulnerabilidades climáticas e
+melhorando serviços ecossistêmicos. Propõe-se tornar públicos os objetivos relacionados à natureza, desenvolver programas de
+empregos verdes, envolver comunidades vulneráveis, mapear riscos climáticos e identificar oportunidades para espaços verdes. Também,
+compromete-se a ações para superar barreiras de governança e a mobilização de investimentos, reportando o progresso anualmente.
+Além disso, pretende-se implementar novos espaços verdes em áreas vulneráveis, realizar um inventário de vegetação natural,
+desenvolver práticas de governança inclusivas e atualizar as ações de adaptação climática do PlanClima para refletir essas metas. Por
+meio deste programa, haverá capacitação em formato Workshop com o tema "Planejamento Urbano e Natureza para Resiliência Climática
+em Cidades da América Latina, que será realizado em  São Paulo de 26 a 28 de novembro de 2024.
+
+Outro parceiro relevante ao processo de implementação das ações climáticas e de sustentabilidade nas cidades é o ICLEI - Governos
+Locais pela Sustentabilidade. Como parte do compromisso de Curitiba com a resiliência climática e a sustentabilidade, a cidade aderiu à
+iniciativa "Mecanismo de Seguro para Infraestrutura Urbana?, frequentemente referida como UIIF (Urban Infrastructure Insurance Facility).
+O UIIF é um programa que busca criar um sistema de seguros para proteger investimentos em infraestrutura urbana contra riscos
+climáticos e desastres naturais, ajudando as cidades a se tornarem mais resilientes. Este mecanismo visa analisar de forma detalhada os
+riscos enfrentados pela cidade, permitindo que Curitiba identifique quais infraestruturas são mais vulneráveis e quais devem ser
+priorizadas para proteção, além de facilitar o acesso a seguros que cobrem tais infraestruturas. Com o seguro, Curitiba pode melhorar a
+resiliência, garantindo que os serviços essenciais não sejam interrompidos em caso de desastres. A iniciativa envolve a colaboração entre
+diferentes setores, incluindo governos locais, empresas e organizações internacionais, para compartilhar conhecimento e recursos.
+
+Curitiba participou da Conferência presencial do projeto Mecanismo de Seguro de Infraestrutura Urbana - UIIF em San José, Costa Rica,
+entre os dias 15 e 17 de novembro de 2023, organizado pelo Secretariado Mundial do ICLEI e pelo escritório do ICLEI para o México e
+Caribe. O objetivo do evento foi promover o debate qualificado entre as cidades integrantes do projeto na América Latina e Caribe a fim de
+trocar experiências e avançar nas definições das infraestruturas que serão beneficiadas pelo produto de seguro a ser desenvolvido.
+
+Outra iniciativa que induz um processo de governança participativo e colaborativo, com uma metodologia participativa e intersetorial,
+envolvendo a comunidade, instituições e o poder público, na bacia do rio Belém em área contígua, situada à montante da área de
+abrangência do Programa, é o Projeto "Trilha da Vida", desenvolvido pelo LabClima da PUCPR, que visa promover a sustentabilidade
+ambiental e a inclusão social por meio da construção de pocket parks no campus da universidade. Alinhado ao macroprojeto de integrar
+pesquisa e comunidade, o "Trilha da Vida" propõe uma abordagem integrada para enfrentar desafios ambientais e sociais, focando na
+gestão de resíduos sólidos e na revitalização urbana. O Projeto foca na valorização dos carrinheiros e na educação ambiental,
+promovendo melhores condições de trabalho e uma gestão eficiente dos resíduos, contribuindo para a qualidade de vida na Vila Torres, e
+na criação de áreas verdes multifuncionais que incentivam a gestão de recursos  hídricos, lazer e educação ambiental, melhorando a
+qualidade ambiental e o bem-estar das comunidades vulneráveis da Bacia do rio Belém.
+
+Destaca-se, também a Cooperação Internacional de dois anos com a Agência de Cooperação Internacional do Japão (JICA) realizada
+entre março de 2022 e março de 2024 voltada para a capacitação e trocas de experiências entre países. A Cooperação foi voltada ao
+Fortalecimento de Capacidades em Desenvolvimento Urbano Sustentável em três áreas estratégicas: envelhecimento da sociedade,
+gestão de desastres com ênfase em mudanças climáticas e transformação digital. Foram 3 visitas técnicas ao Japão com participantes do
+IPPUC, Secretaria Municipal do Meio Ambiente, Coordenadoria de Defesa Civil e Secretaria Municipal de Tecnologia da Informação, e três
+visitas técnicas ao Brasil entre consultores e técnicos de prefeituras do Japão. A Cooperação, por meio de um processo de co-criação
+resultou em um documento de Recomendações de Políticas para implementação em Curitiba, e algumas já estão sendo desenvolvidas,
+como o Programa Família Resiliente, destinado a ações de auto-socorro em casos de eventos extremos.
+
+Em 2022, Curitiba renovou a participação na campanha Construindo Cidades Resilientes (Making Cities Resilient - MCR 2030, liderada
+pela ONU, visando a redução de desastres e o desenvolvimento de resiliência urbana. Foi criado um Comitê Gestor por Decreto Municipal,
+com a participação de representantes de toda a estrutura da administração municipal, buscando soluções práticas para prever e evitar
+desastres.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 21
+
+Em 2023 foi realizado pela Coordenadoria de Defesa Civil o I Fórum Metropolitano de Proteção e Defesa Civil, envolvendo as
+Coordenadorias de Defesa Civil da Região Metropolitana de Curitiba. O evento resultou no estabelecimento de uma ação intermunicipal
+por meio de Decreto Municipal, para a atuação conjunta das Defesas Civis em caso de desastres climáticos Em 2024, a Coordenadoria de
+Defesa Civil firmou convênio com o SIMEPAR voltado ao compartilhamento de informações meteorológicas. Em 2024, a cidade sediou o
+2o Fórum Nacional Integrado de Segurança Pública Cidadã, Defesa Civil e Trânsito, edição de 2024. O evento foi promovido pelo
+Conselho Nacional de Secretários e Gestores Municipais de Segurança - CONSEMS e pela Prefeitura Municipal de Curitiba, e organizado
+pela Coordenadoria de Defesa Civil de Curitiba, reunindo participantes de todo o Brasil.
+
+Com relação ao desenvolvimento das competências e de ativos necessários para o desenvolvimento das soluções de forma conjunta com
+diferentes atores e de forma intersetorial o Município, especificamente em relação ao Programa Curitiba Resiliente, realizou no segundo
+semestre de 2024, com a equipe de servidores envolvida com a elaboração do Programa Curitiba Resiliente, uma Oficina de Capacitação
+em SbN voltada ao manejo de águas pluviais e co-benefícios. Essa Oficina contribuiu para o aprimoramento das soluções apresentadas
+no Programa, bem como para a melhoria do conhecimento técnico da equipe sobre o tema. Está previsto, ainda para 2024, um Workshop
+em SbN para aprofundar conhecimento sobre o tema, que será essencial para o detalhamento das propostas.
+
+Também, com foco específico no Programa Curitiba Resiliente foram desenvolvidos estudos de Caracterização da Bacia Hidrográfica do
+Rio Belém (ANEXOS 06), de Análise de Estratégias de Gestão de Águas pluviais para a Bacia do Rio Belém, consolidada em um Relatório
+(ANEXO 07), de Ilhas de Calor de Superfície Urbana e a relação com a Arborização Urbana de Curitiba (ANEXO 08), e de Modelagem
+por meio do software HEC-RAS (Hydrologic Engineering Center - River Analysis System) para simulação de Manchas de Inundação para
+um TR 100 Anos (ANEXO 13).
+
+Com relação aos dados socioeconômicos da área do Programa referente ao Projeto Ecodistrito Belém, foram realizados estudos para a
+caracterização dessa importante região da cidade em relação às atividades produtivas, perfil de renda, faixa etária e gênero (ANEXO 12).
+
+Com relação às famílias em situação de vulnerabilidade socioambiental, a Companhia de Habitação Popular de Curitiba (COHAB-CT)
+realizou cadastro das famílias em áreas de ocupação irregular que estão na área de intervenção do Programa. Foram cadastradas 404
+famílias e 8 atividades comerciais. Também, foi identificado o perfil das famílias e já foram realizadas conversas com a comunidade para
+identificação das necessidades relacionadas às ações de realocação.
+
+Considerando que para a implantação do Parque Linear do rio Belém, também será necessária a desapropriação de áreas em
+loteamentos regulares para compor a faixa de preservação do rio Belém e incorporá-la à área do Parque, já foi realizada a identificação
+dos imóveis, a estimativa de metros quadrados, a quantidade de propriedades a serem desapropriadas, e realizada a estimativa de custo
+dessas desapropriações (ANEXO 37).
+
+Com relação ao Projeto Reserva Hídrica do Futuro, o município vem desenvolvendo ações e projetos de acordo com as etapas de
+implantação. Encontra-se em andamento as obras do Parque Costa que fazem parte da Etapa 1 de implementação do Projeto.
+
+Com relação ao Projeto Hipervisor Urbano, atualmente denominado Hipervisor Curitiba, já foi implementada a Fase 1 que envolveu as
+ações de planejamento, instalação e Data Center (Fase 1). Os valores já investidos somam pouco mais de 11 milhões de Reais.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Municipal
+
+MUNICIPIO DE  CURITIBA(PR)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+A operação de crédito externo a ser contratada com o Agência Francesa de Desenvolvimento - AFD, contempla as seguintes condições:
+
+a. Prazo de desembolso: 60 meses;
+
+b. Prazo de carência: 60 meses;
+
+c. Prazo de amortização: 180 meses;
+
+d. Prazo total: 240 meses;
+
+e. Periodicidade da amortização: semestral;
+
+f. Taxa de juros: 4,09% a.a.; ou Juros variável: EURIBOR + 1,70% a.a.;
+
+g. Comissão de Compromisso: 0,50% a.a. sobre o montante não desembolsado, semestralmente;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 22
+
+h. Comissão de Financiamento: 0,50% flat (taxa única, sobre o montante emprestado);
+
+i. Tipo de Operação: Empréstimo com juros e garantia soberana.
+
+A opção por um financiamento em detrimento da utilização de recursos próprios se dá pela preservação de reservas fiscais, considerando
+a carteira de investimentos atual do município e os compromissos já assumidos. Além disso, um financiamento trará mais flexibilidade
+orçamentária, permitindo a distribuição de custos ao longo dos anos, com vistas ao atingimento das metas do PlanClima conforme o
+cronograma previsto.
+
+Anteriormente à busca por financiamento externo buscou-se identificar as condições financeiras e prazos que o mercado interno tem a
+oferecer. Nas linhas de crédito convencionais mostraram taxas de juros mais altas e prazos mais curtos, de modo que a celeridade na
+contratação das mesmas não compensam os custos adicionais. Já as linhas de crédito incentivadas, como Fundo Clima (Lei Federal 12.
+114/2009) e o FINISA Verde (Caixa Econômica Federal), contam com taxas mais baixas que as linhas internas convencionais, entretanto
+os procedimentos não tão céleres de pleito, validação e aprovação tendem a aproximar os prazos daqueles exigidos nas operações
+externas, desincentivando sua utilização como fonte exclusiva e direcionando o município a diversificar riscos buscando opções de
+financiamentos externos.
+
+Analisando o cenário atual, o município de Curitiba identificou a AFD como a melhor alternativa de instituição financeira externa. Além dos
+objetivos do Programa estarem alinhados com as diretrizes dos Projetos apoiados pela AFD, esse financiamento mostrou-se como a
+opção mais competitiva para a implementação do Programa. As condições financeiras oferecidas pela AFD são atrativas, principalmente
+quando comparadas às taxas de juros do mercado interno e aos praticados atualmente por outros Bancos Multilaterais de
+Desenvolvimento (BMDs). Embora o processo de contratação com o mercado interno seja mais célere, as taxas de juros são superiores e
+os prazos de carência e amortização menores.
+
+Destaca-se que o município de Curitiba possui experiência prévia com financiamentos internacionais. As condições financeiras indicam
+que a operação terá um custo efetivo inferior à taxa máxima admissível pela STN para operações de crédito de Estados e Municípios com
+garantia da União, 7,61% (válida a partir de 01/10/24 - duration 10 anos).
+
+A escolha pela AFD como agente financeiro foi reforçada pelo seu comprometimento em melhorar as condições de vida econômicas,
+sociais e ambientais nos projetos que desenvolve, através de projetos que comprovem a sustentabilidade técnica, financeira e ambiental.
+Uma de suas vantagens estratégicas é a existência de subvenções para estudos e atividades complementares, o que permite aos
+mutuários terem acesso a especialistas de diversas áreas sem o desembolso de recursos. O modelo de negócios da AFD representa uma
+grande oportunidade, pois o planejamento e estruturação da operação de crédito contam com o apoio da Agência ao longo de todo o
+processo. Seus serviços de financiamento e promoção estão alinhados com a Agenda 2030 das Nações Unidas e contribuem para o
+alcance dos 17 Objetivos de Desenvolvimento Sustentável (ODS).
+
+Na sequência, bem como no ANEXO 50, são apresentadas as condições encontradas tanto no mercado interno, quanto no externo em
+operações municipais com objeto semelhante:
+
+Município: Esteio - RS
+
+Destinação: Investimentos em resiliência urbana, contenção de enchentes e obras de macrodrenagem;
+
+Credor: Banco Regional de Desenvolvimento do Extremo Sul
+
+Condições financeiras: Valor: R$ 30.000.000,00; Prazo de desembolso: 24 meses; Prazo de carência: 5 meses; Prazo de amortização:
+246 meses; Prazo total: 251 meses; Juros variáveis: Euribor + 4,00% a.a.; Tarifa de análise: 0,40% do valor do Empréstimo; Atualização
+monetária pela variação cambial do Euro.
+
+Estado: Sergipe (em negociação)
+
+Destinação: Destinados a apoiar a adoção de  práticas agrícolas resilientes às mudanças climáticas por agricultores familiares do
+semiárido do Estado de Sergipe;
+
+Credor: Banco Nacional de Desenvolvimento Econômico e Social
+
+Condições financeiras: Valor: R$ 126.604.800,36; Prazo de desembolso: 72 meses; Prazo de carência: 12 meses; Prazo de amortização:
+228 meses; Prazo total: 240 meses; Juros variáveis: TLP + 1,00% a.a.; Tarifa de colaboração financeira: 0,50% do valor do Empréstimo;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 23
+
+Estado: Bahia (em negociação)
+
+Destinação: Destinam-se ao Projeto Sertão Vivo - Semeando Resiliência Climática nas Comunidades Rurais do Nordeste - PCRP.;
+
+Credor: Banco Nacional de Desenvolvimento Econômico e Social
+
+Condições financeiras: Valor: R$ 252.000.000,71; Prazo de desembolso: 72 meses; Prazo de carência: 12 meses; Prazo de amortização:
+228 meses; Prazo total: 240 meses; Juros variáveis: TLP + 1,00% a.a.; Tarifa de colaboração financeira: 0,50% do valor do Empréstimo;
+
+Estado: Piauí (em negociação)
+
+Destinação: Destinados ao apoio de projetos que promovam o aumento da resiliência climática da população rural do semiárido Piauiense,
+no âmbito da iniciativa Sertão Vivo - Semeando Resiliência Climática em Comunidades Rurais no Nordeste.;
+
+Credor: Banco Nacional de Desenvolvimento Econômico e Social
+
+Condições financeiras: Valor: R$ 126.398.441,14; Prazo de desembolso: 72 meses; Prazo de carência: 12 meses; Prazo de amortização:
+228 meses; Prazo total: 240 meses; Juros variáveis: TLP + 1,00% a.a.; Tarifa de colaboração financeira: 0,50% do valor do Empréstimo.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+O Programa Curitiba Resiliente: ações estratégicas do PlanClima alinha-se aos conceitos de planejamento urbano de Curitiba, visando
+promover de forma integrada a preservação, a conservação, a recuperação ambiental e o bem-estar da população, oferecendo espaços
+urbanizados, salubres e de qualidade. O Programa está em consonância com o Plano Municipal de Mitigação e Adaptação às Mudanças
+Climáticas de Curitiba - o PlanClima, instituído pelo Decreto Municipal 1.670/2020, especialmente no que tange ao desenvolvimento de
+ações de adaptação climática. Essas ações focam no aumento da resiliência urbana, por meio da melhoria da gestão das águas pluviais e
+do fortalecimento das tramas verde e azul.
+
+A solução proposta para garantir a integridade da Área de Proteção Ambiental na porção sul da bacia do rio Belém, assim como assegurar
+condições urbanísticas adequadas para a população, abrange um conjunto de intervenções de curto, médio e longo prazos.
+
+Para facilitar a compreensão dos impactos do Programa Curitiba Resiliente em relação às Áreas Estratégicas mencionadas no item 4 do
+Anexo à Resolução COFIEX 17/2021, as soluções propostas pelo Programa, relativas aos Projetos Ecodistrito Belém, Reserva Hídrica do
+Futuro e Hipervisor Urbano, foram organizadas de acordo com a estrutura de Componentes, Subcomponentes e Produtos, apresentada a
+seguir de forma resumida.
+
+COMPONENTE 1. GESTÃO DE ÁGUAS PLUVIAIS E DE RECURSOS HÍDRICOS, RECUPERAÇÃO AMBIENTAL E BIODIVERSIDADE
+
+SUBCOMPONENTE 1.1. ECODISTRITO BELÉM - REESTRUTURAÇÃO AMBIENTAL
+
+PRODUTO 1.1.1. Parque Linear do Belém
+
+PRODUTO 1.1.2.Eixos Ambientais ao longo de córregos contribuintes
+
+PRODUTO 1.1.3. Reverdejamento e incremento da biodiversidade
+
+PRODUTO 1.1.4.Rede de mobilidade ativa sustentável
+
+SUBCOMPONENTE 1.2. RESERVA HÍDRICA DO FUTURO - AMORTECIMENTO E MANEJO PRODUTO
+
+PRODUTO 2.1.1. Parque Reserva Hídrica do Futuro
+
+COMPONENTE 2. ECODISTRITO BELÉM - INFRAESTRUTURA SOCIAL E EQUIPAMENTOS PÚBLICOS
+
+SUBCOMPONENTE 2.1. HABITAÇÃO RESILIENTE E COM EFICIÊNCIA ENERGÉTICA PRODUTOS
+
+PRODUTO 2.1.1. Produção de unidades habitacionais com tecnologia sustentável
+
+SUBCOMPONENTE 2.2. GESTÃO DE RESÍDUOS E GERAÇÃO DE EMPREGOS PARA POPULAÇÃO VULNERÁVEL PRODUTOS
+
+PRODUTO 2.1.1. Barracão EcoCidadão - Cooperativa de Materiais Recicláveis
+
+SUBCOMPONENTE 2.3. AMBIENTE DE NEGÓCIOS E OPORTUNIDADES
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 24
+
+PRODUTO 2.3.1. Programa EcoHub Belém
+
+COMPONENTE 3. INOVAÇÃO E TECNOLOGIA EM PROCESSOS DE PRESTAÇÃO DE SERVIÇOS VOLTADOS À IMPLEMENTAÇÃO
+DO PLANCLIMA
+
+SUBCOMPONENTE 3.1. HIPERVISOR URBANO - FASE 2
+
+PRODUTO 3.1.1. Plataforma de integração e análise de dados e informações
+
+PRODUTO 3.1.2. Data Center Fase 2 e Sensores
+
+PRODUTO 3.1.3. Serviços de Apoio
+
+SUBCOMPONENTE 3.2. INOVAÇÃO E TECNOLOGIA
+
+PRODUTO 3.2.1. Monitoramento do nível dos rios voltado ao alerta e prevenção de desastres: Programa Família Resiliente
+
+PRODUTO 3.2.1. Monitoramento das condições de saneamento básico  e qualidade da água
+
+COMPONENTE 4. GERENCIAMENTO, SUPERVISÃO E PROJETOS
+
+SUBCOMPONENTE 4.1. APOIO AO GERENCIAMENTO E SUPERVISÃO
+
+PRODUTO 4.1.1. Apoio ao gerenciamento de obras, à Supervisão Ambiental e Social
+
+PRODUTO 4.1.2. Apoio à Supervisão de Obras
+
+PRODUTO 4.1.3. Projeto de Trabalho Social (PTS)
+
+SUBCOMPONENTE 4.2. CONSULTORIAS, ESTUDOS E PROJETOS EXECUTIVOS
+
+PRODUTO 4.2.1. Consultorias, estudos e projetos executivos de engenharia e arquitetura
+
+PRODUTO 4.2.2. Estudos hidrológicos e Relatório Ambiental Prévio (RAP)
+
+PRODUTOS 4.2.3. Estudos e desenvolvimento de aplicações e tecnologia
+
+IMPACTOS DO PROGRAMA CURITIBA RESILIENTE EM RELAÇÃO AS ÁREAS ESTRATÉGICAS DO ITEM 4 DO ANEXO À
+RESOLUÇÃO COFIEX 17/2021:
+
+Item 1.1 - Promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação:
+
+O Programa Curitiba Resiliente: ações estratégicas do PlanClima fundamenta-se no conceito de Soluções baseadas na Natureza (SbN),
+que têm sido amplamente reconhecidas como essenciais para enfrentar os desafios climáticos com o objetivo de aumentar a resiliência
+em áreas urbanas, oferecendo não apenas soluções ambientais, como também impactos sociais e econômicos positivos. O Programa
+abrange intervenções socioambientais focadas na restauração de ecossistemas hidrológicos, na recuperação de áreas degradadas, na
+requalificação urbana, no fortalecimento da conexão entre as pessoas e a natureza, no engajamento comunitário e dos setores produtivos,
+na educação ambiental e no avanço tecnológico voltado ao monitoramento, prevenção e alerta. Essas ações compõem os
+Subcomponentes e os Produtos dos Componentes 1, 2 e 3.
+
+O Programa responde à 15 das 20 ações do PlanClima e permite testar e escalar soluções visando a meta de mitigação e adaptação da
+cidade às mudanças climáticas até 2050. As ações incluem a revitalização da porção sul da bacia do rio Belém, por meio dos Projetos
+EcoDistrito Belém e Reserva Hídrica do Futuro, e a melhoria das ações de planejamento e resposta com o Projeto Hipervisor Urbano.
+
+Item 1.2 - Eficiência energética, geração e/ou uso de energia de fontes renováveis
+
+No Projeto EcoDistrito Belém, a implantação do Parque Linear exigirá a realocação de aproximadamente 450 famílias que vivem em
+situação de vulnerabilidade socioambiental em áreas de ocupações irregulares.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 25
+
+Conforme previsto do Produto 2.1.1. serão construídas 450 unidades habitacionais resilientes e com padrões de eficiência energética,
+incorporando tecnologias sustentáveis. Entre essas tecnologias, destaca-se a utilização de painéis fotovoltaicos e a geração distribuída de
+energia a partir da energia solar.
+
+Item 1.3 - implantação e/ou ampliação de ações de saneamento básico
+
+Apesar da bacia do Belém ter mais de 97% de cobertura da rede de coleta de esgoto, a contaminação dos corpos hídricos permanece um
+desafio significativo. O Produto 3.2.1 contempla o monitoramento das condições de saneamento básico e da qualidade da água dos
+corpos hídricos, por meio do telediagnóstico das redes de drenagem e do aprimoramento do sistema de monitoramento da qualidade da
+água.
+
+Com relação ao telediagnóstico, será possível identificar problemas nas tubulações. As imagens geradas por essa tecnologia revelarão a
+condição operacional das tubulações, permitindo detectar ligações inadequadas, lançamentos indevidos e cruzamentos irregulares entre
+as redes de esgoto sanitário e água pluvial. Além disso, o telediagnóstico ajudará a identificar o nível de assoreamento e obstruções nas
+tubulações, bem como a avaliar condições estruturais, apontando infiltrações, trincas, rupturas e desalinhamentos. Essa solução também
+será utilizada para o mapeamento georreferenciado e cadastro das galerias de águas pluviais, o que é essencial para o gerenciamento
+eficaz das redes de drenagem.
+
+Com relação ao monitoramento da qualidade da água, a frequência de amostragem é crucial para detectar violações aos padrões
+normativos, identificar variações temporais na qualidade da água, caracterizar o corpo hídrico e reconhecer cargas poluidoras. O
+Programa inclui a aquisição de infraestrutura para a implantação, mobilização e instalação de estações de monitoramento da qualidade da
+água nos rios, além da transmissão online de dados para um servidor, armazenamento em nuvem e disponibilização das informações em
+uma plataforma web por meio do Hipervisor Urbano. A obtenção de dados a um custo reduzido é uma estratégia mais eficaz e serve como
+ponto de partida para a melhoria a longo prazo dos parâmetros analisados e, consequentemente, da qualidade da água. A proposta se
+fundamenta na análise do parâmetro de oxigênio dissolvido, que possibilita a rápida identificação de poluição gerada pela presença de
+esgoto no corpo hídrico e orienta ações de vistoria, fiscalização e remediação de contaminação nas sub-bacias. A disponibilização de
+informações em tempo real reduzirá consideravelmente o tempo de contaminação dos recursos hídricos, em comparação com as
+demandas oriundas de denúncias ou com os resultados do monitoramento semestral.
+
+Item 1.4 Gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes
+
+Os Subcomponentes e Produtos que englobam o Componente 1. Gestão de Águas Pluviais e de Recursos Hídricos, Recuperação
+Ambiental e Biodiversidade  contribuem para essa Área Estratégica.
+
+O Subcompente 1.2. Reserva Hídrica do Futuro ? Amortecimento e Manejo, que faz parte de projeto mais amplo concebido em resposta
+ao risco climático de seca exacerbado pela crise hídrica enfrentada por Curitiba e Região Metropolitana em 2020 e 2021, consiste na
+interligação de antigas cavas de extração de areia ao  longo do rio Iguaçu, ao sul da cidade, com a função dupla de armazenar água para
+períodos de escassez hídrica e contribuir para a atenuação de cheias, com a criação de infraestruturas verde-azul como as bacias de
+retenção, conectadas a uma extensa área de parques e estruturas de esporte e lazer.
+
+No Programa Curitiba Resiliente está prevista a implantação do Produto 1.2.1. referente ao trecho situado na foz do rio Belém, junto ao rio
+Iguaçu no rio Belém, de Parque em área alagável, que contribuirá para a atenuar o risco de cheias em eventos extremos de chuvas, em
+especial considerando o refluxo do rio Iguaçu, bem como a preservação da APA do Iguaçu contribuindo para a qualidade da água no
+trecho inicial desse importante rio de relevância nacional.
+
+Ainda considerando a gestão integrada dos recursos hídricos, a proposta de implantação do Produto 1.1.1. Parque Linear do rio Belém e
+do Produto 1.1.2. Eixos Ambientais ao longo de três córregos na área do Projeto EcoDistrito Belém inclui a ampliação de áreas
+permeáveis, o plantio de árvores e a recuperação da mata ciliar. Além disso, as Soluções baseadas na Natureza (SbN) para a gestão das
+águas pluviais, conceito norteador para os Projetos EcoDistrito Belém e Reserva Hídrica do Futuro, incluem, entre outros benefícios,
+mecanismos de bio e fitorremediação da poluição  difusa, proteção os corpos hídricos e conservação do solo. Essas iniciativas geram
+impactos ambientais, sociais e econômicos positivos que estão alinhados com os objetivos desta Área Estratégica.
+
+Item 1.5 Conservação e manejo da biodiversidade e/ou de recursos florestais
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 26
+
+Além das ações diretamente voltadas à conservação ambiental, como a recuperação da Área de Preservação Permanente no trecho do
+Parque Linear Belém, a requalificação de Eixos Ambientais ao longo de três córregos e a implantação do Parque Reserva Hídrica do
+Futuro, o Produto 1.1.3. Reverdejamento e Incremento da Biodiversidade aborda o risco de formação de ilhas de calor por meio do plantio
+de árvores, bem como do aumento da riqueza e diversidade biológica, considerando as condições ambientais e ecológicas. As ações
+propostas incluem a revegetação de matas ciliares, o aumento significativo da arborização viária e o fortalecimento da biodiversidade ao
+longo do Parque Linear Belém e dos córregos, envolvendo arbustos, vegetação ripária e ações de manejo, controle e reintrodução de flora
+e fauna nativas.
+
+As premissas relacionadas à fauna, identificadas como prioritárias para o incremento e conservação da biodiversidade no trecho sul do rio
+Belém, serão inicialmente direcionadas pela realização de um levantamento da fauna na região e nos afluentes, além do estabelecimento
+de  um diagnóstico da biodiversidade local. A identificação e o monitoramento de grupos relevantes da fauna contribuirão para nortear
+ações de manejo, visando tanto o aumento da diversidade de espécies quanto o controle das espécies exóticas que impactam a
+biodiversidade local.
+
+Uma vez que a riqueza e a abundância da diversidade biológica estão intimamente ligadas às condições ambientais, está previsto um
+plano para a remoção de espécies de flora exóticas ao longo da mata ciliar, substituindo-as por espécies nativas da região, respeitando a
+fitossociologia e a ecologia da paisagem, priorizando o uso de plantas frutíferas e floríferas que também atraiam a fauna. Nesse contexto,
+alinha-se com as ações de monitoramento das condições de saneamento básico previstas, porque é igualmente importante garantir
+saneamento e fiscalização de lançamentos irregulares nos cursos d'água, promovendo campanhas de educação ambiental focadas na
+proteção e cuidados com o rio, para melhorar o ambiente aquático.
+
+Medidas práticas a serem adotadas incluem: (i) a implantação de jardins biodiversos com caixas de manejo racional contendo abelhas
+sociais nativas sem ferrão, envolvendo a comunidade local; (ii) a instalação de dispositivos de controle de velocidade e de passagem de
+fauna nas ruas que margeiam o rio, para reduzir o risco de atropelamentos e facilitar a conexão com áreas de remanescentes florestais; (iii
+) o incentivo à criação de reservas do patrimônio natural em imóveis da região, permitindo o estabelecimento de corredores para a fauna
+ao longo do rio Belém, além de plantios estratégicos visando à formação de "stepping stones"; e (iv) após a implantação do Parque Linear,
+a realização de ações de refaunação com a soltura de espécies de animais silvestres.
+
+Item 1.6 - Melhoria do ambiente de negócios e/ou oportunidades; e
+
+Item 1.7 - Benefícios para empreendedores individuais, micro e pequenas empresas
+
+O Subcomponente 2.3. Ambiente de Negócios e Oportunidades, que faz parte do Componente 2 - EcoDistrito Belém - Infraestrutura Social
+e Equipamentos Públicos, contempla o Produto 2.3.1. Programa EcoHub Belém. Este programa inovador será implantado para promover
+a melhoria do ambiente de negócios e gerar novas oportunidades. Ele incluirá ações de capacitação com foco na inclusão etária (para
+jovens e idosos), de gênero e de minorias sociais, além de fortalecer o setor produtivo e de serviços.
+
+As iniciativas também abrangem a realização de feiras, engajamento comunitário e empresarial, segurança alimentar e educação
+ambiental. Essas iniciativas poderão ocorrer em equipamentos públicos existentes, à exemplo da estrutura do programa Worktiba (
+coworking público municipal) na Rua da Cidadania na área de abrangência do EcoDistrito Belém, bem como na estrutura física do
+Ecossistema de Inovação do Vale do Pinhão da Prefeitura de Curitiba, que está localizado na porção central da bacia do rio Belém.
+Também, podem ocorrer ações de forma itinerante, e com a realização de parcerias com empresas, academias e centros de pesquisa e
+desenvolvimento.
+
+Essas iniciativas visam aprimorar a atividade econômica, melhorar o ambiente de negócios, fomentar o empreendedorismo e apoiar micro
+e pequenas empresas, atraindo investimentos e promovendo empregos verdes. O Programa EcoHub representa a junção entre a
+atividade produtiva do setor de serviços, o setor público e a comunidade, contribuindo para construir uma cidade mais inovadora, vibrante
+e resiliente frente aos desafios das mudanças climáticas.
+
+Item 1.8 - Geração de emprego e renda para populações de baixa renda e vulneráveis; e
+
+Item 1.9 - Infraestrutura e/ou equipamentos sociais para populações de baixa renda e vulneráveis
+
+O Programa Curitiba Resiliente está priorizando a construção de moradias para o reassentamento de famílias em situação de risco
+socioambiental, priorizando a inclusão etária, de gênero e minorias sociais São 450 unidades habitacionais resilientes e com eficiência
+energética com aproximadamente 60 m2 (Produto 2.1.1.).
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 27
+
+Além das moradias está prevista a construção de um Barracão da Cooperativa EcoCidadão (Produto 2.2.1). As Cooperativas do
+EcoCidadão tem como objetivo orientar, organizar e apoiar associações e cooperativas de catadores de material reciclável com visando
+reduzir o volume de resíduos recicláveis lançados em áreas de mananciais, fundos de vale, córregos e rios, minimizando o impacto de
+degradação ambiental, bem como promover geração de emprego e renda para população em situação de vulnerabilidade socioambiental.
+
+A infra estrutura social conta ainda com o Programa EcoHub Belém já descrito nas Áreas Estratégicas, Itens 1.6 e 1.7, e com a
+infraestrutura ambiental nos Parques, Eixos Ambientais, Rede de Mobilidade Ativa Sustentável que promovem a interação com a natureza
+e com a comunidade, estimulando o convívio social.
+
+Item 1.10 - Ações de inclusão de minorias sociais entre os beneficiários; e
+
+Item 1.11 - Políticas voltadas para juventude, gênero e raça
+
+O Componente 2 - EcoDistrito Belém - Infraestrutura social e equipamento públicos, contempla no conceito de suas ações a inclusão
+etária, de gênero e de minorias sociais.
+
+No Produto 4.1.3. Projeto de Trabalho Social previsto, o Plano de Ação para Reassentamento terá como objetivo a promoção da inclusão
+social ampla, e a garantia do acesso à moradia em local próximo, preservando os vínculos econômicos e sociais.
+
+O Trabalho Social estará presente em todas as etapas do Programa, desde a fase que antecede e durante as obras e, pelo menos, um
+ano de acompanhamento após os últimos reassentamentos. As ações serão planejadas e organizadas em seis programas:: Inclusão
+Etária, de Gênero e Minorias Sociais; Mecanismos de Comunicação e Participação Popular; Organização Financeira; Educação Ambiental
+e Patrimonial; Reassentamento e Pós Reassentamento - Reabilitação.
+
+O Trabalho Social visa promover o exercício da participação e inserção social das famílias envolvidas direta e indiretamente na proposta
+de intervenção na transversalidade com as demais políticas públicas, contribuindo para a melhoria da qualidade de vida e sustentabilidade
+dos bens, equipamentos e serviços implantados.
+
+Da mesma forma, o Programa EcoHub Belém descrito anteriormente irá realizar ações voltadas à inclusão relacionada a esses aspectos,
+incluindo diferentes públicos com diferentes faixas etárias (juventude e idosos), gênero e minorias sociais.
+
+Item 1.12 - Melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão e/ou de participação cidadã; e
+
+Item 1.14 - Desenvolvimento, inovação e modernização tecnológica
+
+A disponibilidade de informações de diversas fontes é essencial para que a administração pública tome decisões estratégicas, baseadas
+em dados e tenha maior efetividade em suas ações. A prefeitura de Curitiba é destaque na produção de informações de qualidade sobre a
+cidade disponibilizadas publicamente como, por exemplo, na plataforma municipal de Sistema de Informações Geográficas, GeoCuritiba.
+Contudo, é rotineiro que cada órgão municipal, no planejamento de suas ações, consuma e analise isoladamente apenas dados de seu
+próprio domínio.
+
+O Programa Curitiba Resiliente contempla a implantação do Subcomponente 3.1. Hipervisor Urbano ? Fase 2, que busca integrar as
+bases de dados da Prefeitura, que se encontram em sistemas legados e de difícil compatibilização, bem como bases externas ao
+Município, de órgãos estaduais, federais e entes privados, para a geração de análises progressivas e de multidomínios.
+
+Análises multidomínio se propõem a avaliar aspectos urbanos de maneira sistêmica, integrando dados de diferentes domínios e naturezas,
+buscando insights e correlações que passariam despercebidos em uma análise monotemática. O aspecto progressivo das análises busca
+evoluir a partir das etapas de descrição do evento, passando à explicação de suas causas, à predição de recorrência e chegando à
+prescrição de ações para potencializar ou mitigar seus efeitos, de acordo com as necessidades.
+
+No centro de seu funcionamento está o ambiente de integração de dados e a estrutura de processamento, apoiados em hardware de alta
+performance para que informações de diferentes domínios e fontes estejam tratadas e integradas, permitindo que cada órgão da Prefeitura
+possa, a qualquer momento, realizar análises, acompanhar o impacto de suas políticas de forma intersetorial e planejar ações futuras
+utilizando fontes previamente inacessíveis ou de difícil acesso, aprimorando os processos de prestação de serviços públicos.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 28
+
+A implantação do Hipervisor Urbano está inserida no âmbito da implementação do PlanClima direcionando esforços para o planejamento,
+gestão e monitoramento de questões relacionadas ao enfrentamento das mudanças climáticas e na capacidade de resposta do Município
+à eventos extremos.
+
+O Subcomponente 3.3. Inovação e Tecnologia, também corrobora para essas Áreas Estratégicas por meio da implementação de sistemas
+de monitoração voltados ao nível do rios e as condições de saneamento básico e qualidade da água, que serão geridas pelo Hipervisor
+Urbano.
+
+Ademais, o Produto 4.2.3. Estudos e desenvolvimento de aplicações e tecnologia, prevê ações de  para promover o desenvolvimento de
+estudos que possam trazer inovações com demandas que sejam identificadas durante a execução do Programa, bem como melhorias
+institucionais em equipamentos no que compete à adoção gradativa de novas tecnologias e processos integrados que permitam a criação,
+utilização e atualização de modelos digitais de obras e serviços de engenharia.
+
+Item 1.13 - Melhoria das condições de educação e saúde
+
+As mudanças climáticas geram uma série de impactos diretos e indiretos sobre a saúde humana. Esses impactos variam em intensidade e
+abrangência, afetando as populações de diferentes maneiras: (i) mudanças na distribuição de vetores relacionados ao aumento da
+temperatura e a alteração dos padrões de precipitação, à exemplo de mosquitos, que transmitem doenças como dengue, malária e zika; (ii
+) proliferação de patógenos relacionados ao aumento do calor, aumentando o risco de surtos de doenças transmitidas pela água e
+alimentos; (iii) saúde respiratória afetada pela poluição do ar devido intensificada pela elevação das temperaturas pode intensificar a
+poluição do ar, agravando condições respiratórias como asma, doenças pulmonares obstrutivas crônicas e alergias; (iv) saúde mental
+afetada por estresse e ansiedade decorrente de eventos climáticos extremos, como desastres naturais; (v) insegurança alimentar e
+nutricional gerada por impactos na produção agrícola levando à escassez e aumentando os preços, o que impacta a nutrição e a saúde
+das populações mais vulneráveis; (vi) impactos diretos de eventos climáticos extremos, causando ferimentos, morte e deslocamento
+populacional, além de afetar a infraestrutura de saúde; e ( vii) desidratação, insolação e exacerbação de doenças crônicas decorrentes de
+ondas de Calor; entre outros.
+
+Esses aspectos evidenciam que a inter-relação entre mudanças climáticas e saúde é complexa e exige uma abordagem integrada que
+considere não apenas os aspectos ambientais, mas também as dimensões sociais e econômicas. Dessa forma, a promoção de políticas
+públicas que visem a    mitigação e adaptação às mudanças climáticas e à adaptação contribui diretamente para a melhoria da saúde da
+população e a redução de gastos com saúde pública para tratamento de doenças relacionadas ao clima. Assim, o Programa Curitiba
+Resilente por meio de seus Componentes 1, 2 e 3 gera co-benefícios na área de saúde, sendo fundamental para proteger a população.
+
+Destaca-se, também, que as ações de educação ambiental previstas no escopo do Programa, com inclusão etária, de gênero e  minorias
+sociais a serem desenvolvidas no âmbito do Programa EcoHub Belém (Produto 2.3.1.), bem como pelas Secretarias Municipal do Meio
+Ambiente e da Educação, da Coordenadoria de Defesa Civil e da Escola Municipal de Sustentabilidade reforçam o amplo trabalho do
+Município para sensibilização de diversos públicos com foco no enfrentamento das mudanças climáticas.
+
+POPULAÇÃO BENEFICIADA DIRETA E/OU INDIRETAMENTE PELAS AÇÕES DO PROGRAMA:
+
+A população beneficiada diretamente é de aproximadamente 65.000 pessoas (27.000 domicílios) que encontram-se dentro do perímetro
+do Projeto EcoDistrito Belém (IBGE, 2022).
+
+A população beneficiada indiretamente é de aproximadamente 500.000 habitantes (Censo Demográfico IBGE, 2022) e referem-se aos
+moradores dentro da área da bacia hidrográfica do rio Belém.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 29
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Agência Francesa de Desenvolvimento -
+AFD
+Total:
+
+Sigla
+
+CF
+Sigla
+
+AFD
+
+Moeda
+
+?
+Moeda
+
+?
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+Valor Proposto
+
+25.000.000,00
+Valor Proposto
+
+100.000.000,00
+
+125.000.000,00
+
+Taxa de
+Câmbio
+1,11
+Taxa de
+Câmbio
+1,11
+
+Valor de Referência US
+$
+27.860.000,00
+Valor de Referência US
+$
+111.440.000,00
+
+139.300.000,00
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+Mutuário e Estrutura Administrativa
+
+O mutuário do Programa é o Município de Curitiba. A Prefeitura Municipal de Curitiba é composta pelo Chefe do Poder Executivo e por
+diversas entidades, incluindo Autarquias, Fundações, Empresas de Economia Mista e Secretarias Municipais. A coordenação do
+Programa será feita pelo Instituto de Pesquisa e Planejamento Urbano de Curitiba com a participação da Secretaria Municipal do Meio
+Ambiente, da Companhia de Habitação Popular de Curitiba, e da Secretaria Municipal de Obras Públicas. A execução será suportada por
+vários órgãos administrativos, com destaque para a Unidade Técnico-Administrativa de Gerenciamento dos Programas.
+
+Principais Órgãos e Responsabilidades:
+
+Instituto de Pesquisa e Planejamento Urbano de Curitiba (IPPUC)
+
+Preparação dos procedimentos licitatórios para a contratação de projetos executivos;
+
+Coordenação da elaboração de estudos e projetos relacionados ao Programa em conjunto com a SMMA, SMOP e COHAB-CT;
+Elaboração de relatório Ambiental Prévio (RAP) referente aos componentes do Programa.
+
+Secretaria Municipal do Meio Ambiente (SMMA)
+
+Licenciamento ambiental, fiscalização e execução de obras/serviços ambientais; Manutenção das infraestruturas verde e sustentável; e
+
+Participação na elaboração de estudos e projetos, em conjunto com a SMOP, IPPUC e COHAB-CT.
+
+Companhia de Habitação Popular de Curitiba (COHAB-CT)
+
+Regularização Fundiária, elaboração de projetos de loteamento, aprovação e Titulação de Domicílios; Retirada e reassentamento das
+famílias;
+
+Execução do Projeto de Trabalho Social; e
+
+Participação na elaboração dos projetos em conjunto com o IPPUC.
+
+Secretaria Municipal de Obras Públicas (SMOP)
+
+Processos de licitação das obras necessárias;
+
+Manutenção de serviços de drenagem e desassoreamento; e
+
+Participação na elaboração de estudos e projetos em conjunto com o IPPUC, SMMA e COHAB-CT.
+
+Unidade Técnico-Administrativa de Gerenciamento dos Programas (UTAG)
+
+Gerenciamento da execução do Programa e do contrato de operação de crédito externo.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 30
+
+Secretaria Municipal de Planejamento, Finanças e Orçamento (SMF)
+
+Suporte nas questões financeiras e orçamentárias;
+
+Processos de tramitação e aprovação da operação de crédito; e Programação e execução orçamentária e financeira.
+
+Procuradoria Geral do Município (PGM)
+
+Assessoria jurídica em questões contratuais e de aquisições.
+
+Secretaria Municipal de Administração Pública, Gestão de Pessoal e Tecnologia da Informação (SMAP)
+
+Negociação das desapropriações das áreas atingidas.
+
+Agência Curitiba de Desenvolvimento e Inovação (Agência Curitiba)
+
+Desenvolvimento e apoio às atividades voltadas à dinamização do ambiente de negócios e oportunidades no Projeto EcoDistrito Belém.
+
+Secretaria Municipal de Defesa Social e Trânsito - Coordenadoria Municipal de Proteção e Defesa Civil (SMDT-Defesa Civil)
+
+Ações preventivas, de assistência e recuperação, para evitar, diminuir ou reduzir desastres.
+
+A Matriz de Responsabilidade encontra-se no ANEXO 38.
+
+A equipe técnica será composta por representantes dos seguintes órgãos: IPPUC (Assessoria da Presidência, Diretoria de Projetos,
+Diretoria de Planejamento e Diretoria do Hipervisor Curitiba), SMMA (Assessoria Técnica, Departamento de Parques e Praças e
+Departamento de Mudanças Climáticas); COHAB-CT (Área de Planejamento Habitacional); SMOP (Departamento de Pontes e Drenagem)
+; e SMF (Assessoria de Captação de Recursos e Gestão de Investimentos).
+
+Essa equipe atuará na preparação do Programa em parceria com a UTAG, que será responsável pela coordenação geral e pela interface
+com a Agência Francesa de Desenvolvimento (AFD), após a assinatura do contrato.
+
+A equipe conta com vasta experiência na implementação de programas de estruturação urbana multissetoriais, conforme demonstrado no
+Histórico de Financiamentos (ANEXO 39). A PMC possui a capacidade necessária para gerenciar investimentos significativos, com cerca
+de R$ 1,4 bilhões atualmente em execução em obras de infraestrutura e edificações.
+
+Além da equipe técnica, representantes de outros órgãos da PMC contribuirão para a implementação do Programa conforme necessário.
+É importante ressaltar que a Prefeitura valoriza a intersetorialidade como um de seus princípios corporativos.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Prefeitura Municipal de Curitiba - PR
+Representante Oficial: Rafael Valdomiro Greca de Macedo
+
+Endereço da Sede: Av. Cândido de Abreu, 817, Curitiba, Paraná
+E-mail Institucional:
+
+Telefone: +55 (41) 3350-8739
+CNPJ: 76417005000186
+
+Fax:
+UF:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+CF
+
+AFD
+
+TOTAL
+
+CF
+
+TOTAL
+
+AFD
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 31
+
+82.160.000,00
+
+500.000,00
+
+200.000,00
+
+75.560.000,00
+
+500.000,00
+
+200.000,00
+
+58.560.000,00
+
+0,00
+
+5.100.000,00
+
+500.000,00
+
+P - 1.2.1. PARQUE RESERVA HÍDRICA DO FUTURO - FOZ DO RIO BELÉM COM RIO IGUAÇU
+
+6.600.000,00
+
+C - 2. ECODISTRITO BELÉM - INFRAESTRUTURA SOCIAL E EQUIPAMENTOS PÚBLICOS
+
+29.660.000,00
+
+7.800.000,00
+
+28.060.000,00
+
+7.800.000,00
+
+28.060.000,00
+
+7.800.000,00
+
+C - 1. GESTÃO DE ÁGUAS PLUVIAIS E DE RECURSOS HÍDRICOS, RECUPERAÇÃO
+AMBIENTAL E BIODIVERSIDADE
+S - 1.1. ECODISTRITO BELÉM - REESTRUTURAÇÃO AMBIENTAL
+
+P - 1.1.1. IMPLANTAÇÃO DO PARQUE LINEAR DO RIO BELÉM
+
+P - 1.1.2. REQUALIFICAÇÃO AMBIENTAL E URBANA DE EIXOS AMBIENTAIS AO LONGO DE
+CÓRREGOS CONTRIBUINTES
+P - 1.1.3. REVERDEJAMENTO E INCREMENTO DA BIODIVERSIDADE
+
+P - 1.1.4. REDE DE MOBILIDADE ATIVA COM INFRAESTRUTURA SUSTENTÁVEL
+
+S - 1.2. RESERVA HÍDRICA DO FUTURO - AMORTECIMENTO E MANEJO
+
+S - 2.1. HABITAÇÃO RESILIENTE E COM EFICIÊNCIA ENERGÉTICA
+
+P - 2.1.1. PRODUÇÃO DE UNIDADES HABITACIONAIS COM TECNOLOGIAS SUSTENTÁVEIS
+PARA REALOCAÇÃO DE FAMÍLIAS EM SITUAÇÃO DE RISCO, PRIORIZANDO INCLUSÃO
+ETÁRIA, DE GÊNERO E MINORIAS SOCIAIS
+S - 2.2. GESTÃO DE RESÍDUOS E GERAÇÃO DE EMPREGOS PARA POPULAÇÃO
+VULNERÁVEL
+P - 2.2.1. BARRACÃO ECOCIDADÃO - COOPERATIVA DE MATERIAIS RECICLÁVEIS
+
+S - 2.3. AMBIENTE DE NEGÓCIOS E OPORTUNIDADES
+
+P - 2.3.1. PROGRAMA ECOHUB BELÉM
+
+C - 3. INOVAÇÃO E TECNOLOGIA EM PROCESSOS DE PRESTAÇÃO DE SERVIÇOS
+VOLTADOS À IMPLEMENTAÇÃO DO PLANCLIMA
+S - 3.1. HIPERVISOR URBANO - FASE 2
+
+P - 3.1.1. PLATAFORMA DE INTEGRAÇÃO E ANÁLISE DE DADOS E INFORMAÇÕES
+
+P - 3.1.2. DATA CENTER FASE 2 E SENSORES
+
+P - 3.1.3. SERVIÇOS DE APOIO
+
+S - 3.2. INOVAÇÃO E TECNOLOGIA
+
+P - 3.2.1. MONITORAMENTO DO NÍVEL DOS RIOS VOLTADO AO ALERTA E PREVENÇÃO DE
+DESASTRES: PROGRAMA FAMÍLIA RESILIENTE
+P - 3.2.2. MONITORAMENTO DAS CONDIÇÕES DE SANEAMENTO BÁSICO E QUALIDADE
+DA ÁGUA
+C - 4. GERENCIAMENTO, SUPERVISÃO E PROJETOS
+
+S - 4.1. APOIO AO GERENCIAMENTO E SUPERVISÃO
+
+P - 4.1.2. APOIO À SUPERVISÃO DE OBRAS
+
+P - 4.1.3. PROJETO DE TRABALHO SOCIAL (PTS)
+
+S - 4.2. CONSULTORIAS, ESTUDOS E PROJETO EXECUTIVOS
+
+P - 4.2.1. CONSULTORIAS, ESTUDOS E PROJETOS EXECUTIVOS DE ENGENHARIA E
+ARQUITETURA
+P - 4.2.2. ESTUDOS HIDROLÓGICOS E RELATÓRIO AMBIENTAL PRÉVIO (RAP)
+
+P - 4.2.3. ESTUDOS E DESENVOLVIMENTO DE APLICAÇÕES E TECNOLOGIA
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+3.100.000,00
+
+8.800.000,00
+
+6.600.000,00
+
+1.100.000,00
+
+1.100.000,00
+
+500.000,00
+
+500.000,00
+
+14.955.000,00
+
+12.600.000,00
+
+9.400.000,00
+
+2.200.000,00
+
+1.000.000,00
+
+2.355.000,00
+
+55.000,00
+
+2.300.000,00
+
+12.525.000,00
+
+10.300.000,00
+
+2.800.000,00
+
+2.000.000,00
+
+2.225.000,00
+
+1.600.000,00
+
+500.000,00
+
+125.000,00
+
+P - 4.1.1. APOIO AO GERENCIAMENTO DE OBRAS, À SUPERVISÃO AMBIENTAL E SOCIAL
+
+5.500.000,00
+
+0,00
+
+0,00
+
+200.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+6.800.000,00
+
+6.800.000,00
+
+5.300.000,00
+
+1.200.000,00
+
+300.000,00
+
+0,00
+
+0,00
+
+0,00
+
+2.175.000,00
+
+1.100.000,00
+
+1.100.000,00
+
+0,00
+
+0,00
+
+1.075.000,00
+
+800.000,00
+
+250.000,00
+
+25.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+8.300.000,00
+
+9.175.000,00
+
+0,00
+
+0,00
+
+COMPONENTES
+
+C - 1. GESTÃO DE ÁGUAS PLUVIAIS E DE RECURSOS HÍDRICOS, RECUPERAÇÃO
+AMBIENTAL E BIODIVERSIDADE
+S - 1.1. ECODISTRITO BELÉM - REESTRUTURAÇÃO AMBIENTAL
+
+P - 1.1.1. IMPLANTAÇÃO DO PARQUE LINEAR DO RIO BELÉM
+
+P - 1.1.2. REQUALIFICAÇÃO AMBIENTAL E URBANA DE EIXOS AMBIENTAIS AO LONGO DE
+CÓRREGOS CONTRIBUINTES
+P - 1.1.3. REVERDEJAMENTO E INCREMENTO DA BIODIVERSIDADE
+
+P - 1.1.4. REDE DE MOBILIDADE ATIVA COM INFRAESTRUTURA SUSTENTÁVEL
+
+S - 1.2. RESERVA HÍDRICA DO FUTURO - AMORTECIMENTO E MANEJO
+
+P - 1.2.1. PARQUE RESERVA HÍDRICA DO FUTURO - FOZ DO RIO BELÉM COM RIO IGUAÇU
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+8.760.000,00
+
+AFD
+600.000,00
+
+8.760.000,00
+
+600.000,00
+
+8.560.000,00
+
+200.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+600.000,00
+
+0,00
+
+0,00
+
+0,00
+
+C - 2. ECODISTRITO BELÉM - INFRAESTRUTURA SOCIAL E EQUIPAMENTOS PÚBLICOS
+
+900.000,00
+
+125.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+AFD
+
+S - 2.1. HABITAÇÃO RESILIENTE E COM EFICIÊNCIA ENERGÉTICA
+
+P - 2.1.1. PRODUÇÃO DE UNIDADES HABITACIONAIS COM TECNOLOGIAS SUSTENTÁVEIS
+PARA REALOCAÇÃO DE FAMÍLIAS EM SITUAÇÃO DE RISCO, PRIORIZANDO INCLUSÃO
+ETÁRIA, DE GÊNERO E MINORIAS SOCIAIS
+S - 2.2. GESTÃO DE RESÍDUOS E GERAÇÃO DE EMPREGOS PARA POPULAÇÃO
+VULNERÁVEL
+P - 2.2.1. BARRACÃO ECOCIDADÃO - COOPERATIVA DE MATERIAIS RECICLÁVEIS
+
+S - 2.3. AMBIENTE DE NEGÓCIOS E OPORTUNIDADES
+
+P - 2.3.1. PROGRAMA ECOHUB BELÉM
+
+C - 3. INOVAÇÃO E TECNOLOGIA EM PROCESSOS DE PRESTAÇÃO DE SERVIÇOS
+VOLTADOS À IMPLEMENTAÇÃO DO PLANCLIMA
+S - 3.1. HIPERVISOR URBANO - FASE 2
+
+P - 3.1.1. PLATAFORMA DE INTEGRAÇÃO E ANÁLISE DE DADOS E INFORMAÇÕES
+
+P - 3.1.2. DATA CENTER FASE 2 E SENSORES
+
+P - 3.1.3. SERVIÇOS DE APOIO
+
+S - 3.2. INOVAÇÃO E TECNOLOGIA
+
+P - 3.2.1. MONITORAMENTO DO NÍVEL DOS RIOS VOLTADO AO ALERTA E PREVENÇÃO DE
+DESASTRES: PROGRAMA FAMÍLIA RESILIENTE
+
+900.000,00
+
+900.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+125.000,00
+
+125.000,00
+
+3.110.000,00
+
+2.600.000,00
+
+1.500.000,00
+
+800.000,00
+
+300.000,00
+
+510.000,00
+
+10.000,00
+
+
+Página: 32
+
+P - 3.2.2. MONITORAMENTO DAS CONDIÇÕES DE SANEAMENTO BÁSICO E QUALIDADE
+DA ÁGUA
+C - 4. GERENCIAMENTO, SUPERVISÃO E PROJETOS
+
+S - 4.1. APOIO AO GERENCIAMENTO E SUPERVISÃO
+
+P - 4.1.1. APOIO AO GERENCIAMENTO DE OBRAS, À SUPERVISÃO AMBIENTAL E SOCIAL
+
+P - 4.1.2. APOIO À SUPERVISÃO DE OBRAS
+
+P - 4.1.3. PROJETO DE TRABALHO SOCIAL (PTS)
+
+S - 4.2. CONSULTORIAS, ESTUDOS E PROJETO EXECUTIVOS
+
+P - 4.2.1. CONSULTORIAS, ESTUDOS E PROJETOS EXECUTIVOS DE ENGENHARIA E
+ARQUITETURA
+P - 4.2.2. ESTUDOS HIDROLÓGICOS E RELATÓRIO AMBIENTAL PRÉVIO (RAP)
+
+P - 4.2.3. ESTUDOS E DESENVOLVIMENTO DE APLICAÇÕES E TECNOLOGIA
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+500.000,00
+
+3.375.000,00
+
+2.300.000,00
+
+1.100.000,00
+
+700.000,00
+
+500.000,00
+
+1.075.000,00
+
+800.000,00
+
+250.000,00
+
+25.000,00
+
+0,00
+
+9.660.000,00
+
+7.210.000,00
+
+0,00
+
+0,00
+
+COMPONENTES
+
+C - 1. GESTÃO DE ÁGUAS PLUVIAIS E DE RECURSOS HÍDRICOS, RECUPERAÇÃO
+AMBIENTAL E BIODIVERSIDADE
+S - 1.1. ECODISTRITO BELÉM - REESTRUTURAÇÃO AMBIENTAL
+
+P - 1.1.1. IMPLANTAÇÃO DO PARQUE LINEAR DO RIO BELÉM
+
+P - 1.1.2. REQUALIFICAÇÃO AMBIENTAL E URBANA DE EIXOS AMBIENTAIS AO LONGO DE
+CÓRREGOS CONTRIBUINTES
+P - 1.1.3. REVERDEJAMENTO E INCREMENTO DA BIODIVERSIDADE
+
+P - 1.1.4. REDE DE MOBILIDADE ATIVA COM INFRAESTRUTURA SUSTENTÁVEL
+
+S - 1.2. RESERVA HÍDRICA DO FUTURO - AMORTECIMENTO E MANEJO
+
+P - 1.2.1. PARQUE RESERVA HÍDRICA DO FUTURO - FOZ DO RIO BELÉM COM RIO IGUAÇU
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+AFD
+
+9.400.000,00
+
+13.800.000,00
+
+9.400.000,00
+
+10.500.000,00
+
+9.400.000,00
+
+0,00
+
+0,00
+
+3.300.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+600.000,00
+
+6.600.000,00
+
+3.300.000,00
+
+3.300.000,00
+
+C - 2. ECODISTRITO BELÉM - INFRAESTRUTURA SOCIAL E EQUIPAMENTOS PÚBLICOS
+
+250.000,00
+
+11.185.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+AFD
+
+S - 2.1. HABITAÇÃO RESILIENTE E COM EFICIÊNCIA ENERGÉTICA
+
+P - 2.1.1. PRODUÇÃO DE UNIDADES HABITACIONAIS COM TECNOLOGIAS SUSTENTÁVEIS
+PARA REALOCAÇÃO DE FAMÍLIAS EM SITUAÇÃO DE RISCO, PRIORIZANDO INCLUSÃO
+ETÁRIA, DE GÊNERO E MINORIAS SOCIAIS
+S - 2.2. GESTÃO DE RESÍDUOS E GERAÇÃO DE EMPREGOS PARA POPULAÇÃO
+VULNERÁVEL
+P - 2.2.1. BARRACÃO ECOCIDADÃO - COOPERATIVA DE MATERIAIS RECICLÁVEIS
+
+S - 2.3. AMBIENTE DE NEGÓCIOS E OPORTUNIDADES
+
+P - 2.3.1. PROGRAMA ECOHUB BELÉM
+
+C - 3. INOVAÇÃO E TECNOLOGIA EM PROCESSOS DE PRESTAÇÃO DE SERVIÇOS
+VOLTADOS À IMPLEMENTAÇÃO DO PLANCLIMA
+S - 3.1. HIPERVISOR URBANO - FASE 2
+
+P - 3.1.1. PLATAFORMA DE INTEGRAÇÃO E ANÁLISE DE DADOS E INFORMAÇÕES
+
+P - 3.1.2. DATA CENTER FASE 2 E SENSORES
+
+P - 3.1.3. SERVIÇOS DE APOIO
+
+S - 3.2. INOVAÇÃO E TECNOLOGIA
+
+P - 3.2.1. MONITORAMENTO DO NÍVEL DOS RIOS VOLTADO AO ALERTA E PREVENÇÃO DE
+DESASTRES: PROGRAMA FAMÍLIA RESILIENTE
+P - 3.2.2. MONITORAMENTO DAS CONDIÇÕES DE SANEAMENTO BÁSICO E QUALIDADE
+DA ÁGUA
+C - 4. GERENCIAMENTO, SUPERVISÃO E PROJETOS
+
+S - 4.1. APOIO AO GERENCIAMENTO E SUPERVISÃO
+
+P - 4.1.1. APOIO AO GERENCIAMENTO DE OBRAS, À SUPERVISÃO AMBIENTAL E SOCIAL
+
+P - 4.1.2. APOIO À SUPERVISÃO DE OBRAS
+
+P - 4.1.3. PROJETO DE TRABALHO SOCIAL (PTS)
+
+S - 4.2. CONSULTORIAS, ESTUDOS E PROJETO EXECUTIVOS
+
+P - 4.2.1. CONSULTORIAS, ESTUDOS E PROJETOS EXECUTIVOS DE ENGENHARIA E
+ARQUITETURA
+P - 4.2.2. ESTUDOS HIDROLÓGICOS E RELATÓRIO AMBIENTAL PRÉVIO (RAP)
+
+P - 4.2.3. ESTUDOS E DESENVOLVIMENTO DE APLICAÇÕES E TECNOLOGIA
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - 1. GESTÃO DE ÁGUAS PLUVIAIS E DE RECURSOS HÍDRICOS, RECUPERAÇÃO
+AMBIENTAL E BIODIVERSIDADE
+S - 1.1. ECODISTRITO BELÉM - REESTRUTURAÇÃO AMBIENTAL
+
+P - 1.1.1. IMPLANTAÇÃO DO PARQUE LINEAR DO RIO BELÉM
+
+P - 1.1.2. REQUALIFICAÇÃO AMBIENTAL E URBANA DE EIXOS AMBIENTAIS AO LONGO DE
+CÓRREGOS CONTRIBUINTES
+P - 1.1.3. REVERDEJAMENTO E INCREMENTO DA BIODIVERSIDADE
+
+P - 1.1.4. REDE DE MOBILIDADE ATIVA COM INFRAESTRUTURA SUSTENTÁVEL
+
+S - 1.2. RESERVA HÍDRICA DO FUTURO - AMORTECIMENTO E MANEJO
+
+P - 1.2.1. PARQUE RESERVA HÍDRICA DO FUTURO - FOZ DO RIO BELÉM COM RIO IGUAÇU
+
+0,00
+
+0,00
+
+11.060.000,00
+
+11.060.000,00
+
+250.000,00
+
+250.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+125.000,00
+
+125.000,00
+
+2.620.000,00
+
+1.700.000,00
+
+1.300.000,00
+
+200.000,00
+
+200.000,00
+
+920.000,00
+
+20.000,00
+
+900.000,00
+
+2.325.000,00
+
+2.300.000,00
+
+1.100.000,00
+
+700.000,00
+
+500.000,00
+
+25.000,00
+
+0,00
+
+0,00
+
+25.000,00
+
+0,00
+
+9.650.000,00
+
+29.930.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+AFD
+
+0,00
+
+27.500.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+AFD
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+24.200.000,00
+
+20.300.000,00
+
+1.100.000,00
+
+600.000,00
+
+2.200.000,00
+
+3.300.000,00
+
+3.300.000,00
+
+C - 2. ECODISTRITO BELÉM - INFRAESTRUTURA SOCIAL E EQUIPAMENTOS PÚBLICOS
+
+250.000,00
+
+8.425.000,00
+
+
+Página: 33
+
+S - 2.1. HABITAÇÃO RESILIENTE E COM EFICIÊNCIA ENERGÉTICA
+
+P - 2.1.1. PRODUÇÃO DE UNIDADES HABITACIONAIS COM TECNOLOGIAS SUSTENTÁVEIS
+PARA REALOCAÇÃO DE FAMÍLIAS EM SITUAÇÃO DE RISCO, PRIORIZANDO INCLUSÃO
+ETÁRIA, DE GÊNERO E MINORIAS SOCIAIS
+S - 2.2. GESTÃO DE RESÍDUOS E GERAÇÃO DE EMPREGOS PARA POPULAÇÃO
+VULNERÁVEL
+P - 2.2.1. BARRACÃO ECOCIDADÃO - COOPERATIVA DE MATERIAIS RECICLÁVEIS
+
+S - 2.3. AMBIENTE DE NEGÓCIOS E OPORTUNIDADES
+
+P - 2.3.1. PROGRAMA ECOHUB BELÉM
+
+C - 3. INOVAÇÃO E TECNOLOGIA EM PROCESSOS DE PRESTAÇÃO DE SERVIÇOS
+VOLTADOS À IMPLEMENTAÇÃO DO PLANCLIMA
+S - 3.1. HIPERVISOR URBANO - FASE 2
+
+P - 3.1.1. PLATAFORMA DE INTEGRAÇÃO E ANÁLISE DE DADOS E INFORMAÇÕES
+
+P - 3.1.2. DATA CENTER FASE 2 E SENSORES
+
+P - 3.1.3. SERVIÇOS DE APOIO
+
+S - 3.2. INOVAÇÃO E TECNOLOGIA
+
+P - 3.2.1. MONITORAMENTO DO NÍVEL DOS RIOS VOLTADO AO ALERTA E PREVENÇÃO DE
+DESASTRES: PROGRAMA FAMÍLIA RESILIENTE
+P - 3.2.2. MONITORAMENTO DAS CONDIÇÕES DE SANEAMENTO BÁSICO E QUALIDADE
+DA ÁGUA
+C - 4. GERENCIAMENTO, SUPERVISÃO E PROJETOS
+
+S - 4.1. APOIO AO GERENCIAMENTO E SUPERVISÃO
+
+P - 4.1.1. APOIO AO GERENCIAMENTO DE OBRAS, À SUPERVISÃO AMBIENTAL E SOCIAL
+
+P - 4.1.2. APOIO À SUPERVISÃO DE OBRAS
+
+P - 4.1.3. PROJETO DE TRABALHO SOCIAL (PTS)
+
+S - 4.2. CONSULTORIAS, ESTUDOS E PROJETO EXECUTIVOS
+
+P - 4.2.1. CONSULTORIAS, ESTUDOS E PROJETOS EXECUTIVOS DE ENGENHARIA E
+ARQUITETURA
+P - 4.2.2. ESTUDOS HIDROLÓGICOS E RELATÓRIO AMBIENTAL PRÉVIO (RAP)
+
+P - 4.2.3. ESTUDOS E DESENVOLVIMENTO DE APLICAÇÕES E TECNOLOGIA
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - 1. GESTÃO DE ÁGUAS PLUVIAIS E DE RECURSOS HÍDRICOS, RECUPERAÇÃO
+AMBIENTAL E BIODIVERSIDADE
+S - 1.1. ECODISTRITO BELÉM - REESTRUTURAÇÃO AMBIENTAL
+
+P - 1.1.1. IMPLANTAÇÃO DO PARQUE LINEAR DO RIO BELÉM
+
+P - 1.1.2. REQUALIFICAÇÃO AMBIENTAL E URBANA DE EIXOS AMBIENTAIS AO LONGO DE
+CÓRREGOS CONTRIBUINTES
+P - 1.1.3. REVERDEJAMENTO E INCREMENTO DA BIODIVERSIDADE
+
+P - 1.1.4. REDE DE MOBILIDADE ATIVA COM INFRAESTRUTURA SUSTENTÁVEL
+
+S - 1.2. RESERVA HÍDRICA DO FUTURO - AMORTECIMENTO E MANEJO
+
+P - 1.2.1. PARQUE RESERVA HÍDRICA DO FUTURO - FOZ DO RIO BELÉM COM RIO IGUAÇU
+
+C - 2. ECODISTRITO BELÉM - INFRAESTRUTURA SOCIAL E EQUIPAMENTOS PÚBLICOS
+
+S - 2.1. HABITAÇÃO RESILIENTE E COM EFICIÊNCIA ENERGÉTICA
+
+P - 2.1.1. PRODUÇÃO DE UNIDADES HABITACIONAIS COM TECNOLOGIAS SUSTENTÁVEIS
+PARA REALOCAÇÃO DE FAMÍLIAS EM SITUAÇÃO DE RISCO, PRIORIZANDO INCLUSÃO
+ETÁRIA, DE GÊNERO E MINORIAS SOCIAIS
+S - 2.2. GESTÃO DE RESÍDUOS E GERAÇÃO DE EMPREGOS PARA POPULAÇÃO
+VULNERÁVEL
+P - 2.2.1. BARRACÃO ECOCIDADÃO - COOPERATIVA DE MATERIAIS RECICLÁVEIS
+
+S - 2.3. AMBIENTE DE NEGÓCIOS E OPORTUNIDADES
+
+P - 2.3.1. PROGRAMA ECOHUB BELÉM
+
+C - 3. INOVAÇÃO E TECNOLOGIA EM PROCESSOS DE PRESTAÇÃO DE SERVIÇOS
+VOLTADOS À IMPLEMENTAÇÃO DO PLANCLIMA
+S - 3.1. HIPERVISOR URBANO - FASE 2
+
+P - 3.1.1. PLATAFORMA DE INTEGRAÇÃO E ANÁLISE DE DADOS E INFORMAÇÕES
+
+P - 3.1.2. DATA CENTER FASE 2 E SENSORES
+
+P - 3.1.3. SERVIÇOS DE APOIO
+
+S - 3.2. INOVAÇÃO E TECNOLOGIA
+
+P - 3.2.1. MONITORAMENTO DO NÍVEL DOS RIOS VOLTADO AO ALERTA E PREVENÇÃO DE
+DESASTRES: PROGRAMA FAMÍLIA RESILIENTE
+P - 3.2.2. MONITORAMENTO DAS CONDIÇÕES DE SANEAMENTO BÁSICO E QUALIDADE
+DA ÁGUA
+C - 4. GERENCIAMENTO, SUPERVISÃO E PROJETOS
+
+S - 4.1. APOIO AO GERENCIAMENTO E SUPERVISÃO
+
+P - 4.1.1. APOIO AO GERENCIAMENTO DE OBRAS, À SUPERVISÃO AMBIENTAL E SOCIAL
+
+P - 4.1.2. APOIO À SUPERVISÃO DE OBRAS
+
+P - 4.1.3. PROJETO DE TRABALHO SOCIAL (PTS)
+
+S - 4.2. CONSULTORIAS, ESTUDOS E PROJETO EXECUTIVOS
+
+P - 4.2.1. CONSULTORIAS, ESTUDOS E PROJETOS EXECUTIVOS DE ENGENHARIA E
+ARQUITETURA
+P - 4.2.2. ESTUDOS HIDROLÓGICOS E RELATÓRIO AMBIENTAL PRÉVIO (RAP)
+
+0,00
+
+0,00
+
+8.300.000,00
+
+8.300.000,00
+
+250.000,00
+
+250.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+125.000,00
+
+125.000,00
+
+2.120.000,00
+
+1.500.000,00
+
+1.300.000,00
+
+0,00
+
+200.000,00
+
+620.000,00
+
+20.000,00
+
+600.000,00
+
+2.325.000,00
+
+2.300.000,00
+
+1.100.000,00
+
+700.000,00
+
+500.000,00
+
+25.000,00
+
+0,00
+
+0,00
+
+25.000,00
+
+0,00
+
+250.000,00
+
+40.370.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+AFD
+
+TOTAL
+
+CF
+
+TOTAL
+
+AFD
+
+0,00
+
+21.400.000,00
+
+18.660.000,00
+
+63.500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+21.400.000,00
+
+18.660.000,00
+
+56.900.000,00
+
+20.300.000,00
+
+17.960.000,00
+
+40.600.000,00
+
+0,00
+
+700.000,00
+
+4.400.000,00
+
+1.100.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.100.000,00
+
+8.800.000,00
+
+6.600.000,00
+
+6.600.000,00
+
+725.000,00
+
+9.200.000,00
+
+20.460.000,00
+
+0,00
+
+0,00
+
+8.700.000,00
+
+19.360.000,00
+
+8.700.000,00
+
+19.360.000,00
+
+600.000,00
+
+500.000,00
+
+600.000,00
+
+600.000,00
+
+500.000,00
+
+600.000,00
+
+125.000,00
+
+125.000,00
+
+305.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+305.000,00
+
+5.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+500.000,00
+
+500.000,00
+
+14.955.000,00
+
+12.600.000,00
+
+9.400.000,00
+
+2.200.000,00
+
+1.000.000,00
+
+2.355.000,00
+
+55.000,00
+
+300.000,00
+
+0,00
+
+2.300.000,00
+
+2.325.000,00
+
+2.300.000,00
+
+1.100.000,00
+
+700.000,00
+
+500.000,00
+
+25.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+12.525.000,00
+
+10.300.000,00
+
+5.500.000,00
+
+2.800.000,00
+
+2.000.000,00
+
+2.225.000,00
+
+1.600.000,00
+
+500.000,00
+
+
+Página: 34
+
+P - 4.2.3. ESTUDOS E DESENVOLVIMENTO DE APLICAÇÕES E TECNOLOGIA
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+139.300.000,00
+
+0,00
+
+0,00
+
+25.000,00
+
+0,00
+
+125.000,00
+
+24.755.000,00
+
+27.860.000,00
+
+111.440.000,00
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+Os atos legais necessários para a implementação do Programa Curitiba Resiliente referem-se a Lei autorizativa para esta operação de
+crédito junto à Câmara Municipal de Curitiba (CMC), e a adequação na normativa da Unidade Técnico-Administrativa de Gerenciamento
+de Programas (UTAG) para incorporação dos objetivos do presente Programa e da inclusão dos órgãos envolvidos.
+
+RISCO - APROVAÇÃO DA CARTA-CONSULTA PELA COFIEX
+
+Ações Mitigadoras
+
+a) Considerando o objetivo de obter autorização de preparação de Operação de Crédito Externo junto à COFIEX para contratação de
+empréstimo com a Agência Francesa de Financiamento (AFD), em 30/07/2024 foi instituído por meio do Decreto Municipal 1.162/2024 (
+ANEXO 42), o Comitê para Preparação de Operação de Crédito Externo para Implementação de Projetos Prioritários do Plano Municipal
+de Mitigação e Adaptação às Mudanças Climáticas de Curitiba - PlanClima. O Comitê tem como finalidade elaborar estudos, discutir
+soluções e definir especificações de componentes voltados à elaboração da Carta-Consulta e trâmites administrativos junto ao Governo
+Federal e à AFD. O Comitê é coordenado pelo Instituto de Pesquisa e Planejamento Urbano de Curitiba (IPPUC), e é composto por equipe
+multidisciplinar com 35 membros representantes do IPPUC, da Secretaria Municipal do Meio Ambiente (SMMA), da Secretaria Municipal
+de Obras Públicas (SMOP), da Companhia de Habitação Popular de Curitiba (COHAB-CT), da Secretaria Municipal de Planejamento,
+Finanças e Orçamento (SMF), e da Secretaria Municipal de Defesa Social e Trânsito - Coordenadoria Municipal de Proteção e Defesa Civil
+(SMDT-Defesa Civil).
+
+b) Considerando que a aprovação é orientada pela avaliação do Grupo Técnico da COFIEX (GTEC), além do atendimento aos critérios,
+especificações e objetivos da Resolução COFIEX Nº 80/2023, da Portaria MPO-SEAID/MPO Nº 220/2024, e da Resolução Nº 17/2021,
+esse risco também é mitigado com incorporação detalhada das orientações, observações e sugestões no âmbito da 691ª Reunião do
+GTEC realizada em formato virtual em 22/10/2024 com a equipe da Prefeitura Municipal de Curitiba.
+
+RISCO - APROVAÇÃO DA LEI DE AUTORIZAÇÃO PARA OPERAÇÃO DE CRÉDITO JUNTO À CMC
+
+Ações Mitigadoras
+
+a) A Lei Autorizativa para esta operação de crédito externo será encaminhada ainda em 2024 para a Câmara Municipal de Curitiba (CMC).
+Atualmente, o legislativo municipal está alinhado com as prioridades estratégicas do Município, especialmente em temas relacionados às
+mudanças climáticas e medidas para seu enfrentamento. Contudo, caso a Lei necessite ser discutida no próximo ano devido ao calendário
+do legislativo, mesmo com as mudanças na composição da CMC após a realização das Eleições Municipais, o Prefeito eleito está
+alinhado, suporta o Programa, e os projetos do Programa Curitiba Resiliente fazem parte do Plano de Governo 2025-2028 (ANEXO 51, p.
+36, 37, 65, 102 e 104). Também, é importante destacar que os objetivos da operação de crédito externo estão em consonância com os
+Planos do Sistema Municipal de Planejamento do Plano Diretor de Curitiba e com as ações do PlanClima e com a visão de se tornar uma
+cidade neutra em carbono e adaptada às mudanças até 2050. Portanto, há argumentos sólidos para garantir a aprovação da Lei. Assim
+que a Lei esteja aprovada será efetuada a previsão dos aportes desta operação nas peças orçamentárias.
+
+b) Esse risco, também será mitigado por meio da articulação dos entes envolvidos na aprovação da Lei, para esclarecimentos sobre o
+Programa Curitiba Resiliente e sobre o financiamento.
+
+c) Além da consistência dos instrumentos de planejamento urbano, a mobilização da gestão municipal para formar alianças estratégicas
+com instituições de reputação ilibada - como organismos financeiros, academia e ONGs internacionais ? atuam como uma blindagem
+institucional, assegurando a legitimidade e visibilidade do Programa Curitiba Resiliente. Essas alianças são um importante mitigador do
+risco de falta de apoio legislativo.
+
+d) Para reduzir ainda mais esse risco, também conta-se com o apoio por meio das estruturas de Governança Interna e Externa do
+PlanClima, o Comitê PlanClima, e o Fórum Municipal de Mudanças Climáticas, respectivamente instituídos por meio dos Decretos
+Municipais 1.162/2022 e 340/2024 (ANEXOS 48 e 49). O Comitê PlanClima, formado por dez órgãos e secretarias municipais, é
+responsável pela implementação, monitoramento, avaliação, reporte e revisão do PlanClima. O Fórum de Mudanças Climáticas, de caráter
+consultivo, tem como objetivo debater e  propor medidas de mitigação e adaptação às mudanças climáticas para a cidade de Curitiba, por
+meio de recomendações técnicas, e conta com a participação de membros representantes do Poder Público Municipal, de segmentos da
+Sociedade Civil Organizada, de instituições de  ensino, pesquisa e extensão, e de órgãos e entidades no âmbito estadual.
+
+RISCO - ADEQUAÇÃO NA NORMATIVA DA UTAG
+
+Ações Mitigadoras
+
+a) Considerando que trata-se de ato administrativo interno da Prefeitura Municipal, entende-se que não há riscos relacionados à
+adequação da normativa.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 35
+
+5.2. RISCOS/CONTRATAÇÕES
+
+As principais contratações previstas para a execução desse Programa são: (i) execução de obras: SbN, unidades habitacionais,
+equipamento público e infraestrutura sustentável; (ii) programa de capacitação para o fortalecimento de negócios, oportunidades e
+geração de emprego e renda; (iii) serviços de consultoria, estudos e elaboração de projetos executivos das intervenções relacionadas ao
+Programa); (iv) aquisição de bens (plataforma de integração e análise de dados  e informações, hardware para Data Center próprio e
+sensores complementares) (v) serviços de   capital (telediagnóstico e plantio de mudas de árvores); (vi) serviços de apoio ao pleno
+funcionamento do Hipervisor Urbano; e (vii) serviços de consultorias necessários para reforçar a equipe da UTAG.
+
+Para a implementação e sustentabilidade deste Programa, não há necessidade de contratação de pessoal para o quadro geral do
+Município, face aos arranjos institucionais e operacionais existentes. Porém, poderão ser contratados consultores para compor as equipes
+da UTAG.
+
+RISCO - POLÍTICAS DE AQUISIÇÃO DA AFD
+
+Ações Mitigadoras
+
+a) O Município já possui experiências anteriores com o agente financeiro em questão, e detém conhecimento técnico e equipe necessários
+para operar as políticas de aquisição/contratação da Agência Francesa de Desenvolvimento (AFD). Essa experiência soma-se ao
+Histórico de Financiamentos (ANEXO 39) junto a outros organismos multilaterais que possuem políticas de aquisição e salvaguardas
+sociais e ambientais similares.
+
+b) Também, para uma maior redução desse risco, o Município mantém um programa de capacitação permanente para todos os envolvidos
+com as aquisições. Destaca-se o processo transitório promovido  para atender a nova Lei de Licitações nº 14.133/2021 e as políticas de
+aquisições de organismos internacionais que possuem contrato com o Município. Cerca de 20 pessoas passaram por treinamento para a
+formulação adequada da documentação licitatória, buscando evitar, e/ou amenizar a judicialização dos certames licitatórios.
+
+RISCO - EXECUÇÃO DAS OBRAS
+
+Ações Mitigadoras
+
+a) A maior parte das ações do Programa prevê a contratação de obras de engenharia, as quais o Município possui expertise em realizar.
+Atualmente, o Município administra uma carteira de 149 contratos de investimento no valor de aproximadamente R$ 1,5 bilhões, sendo 80
+% desse valor em obras de infraestrutura.
+
+b) A realização de um planejamento rigoroso, com cronogramas e orçamentos detalhados, estratégias de comunicação estabelecendo um
+diálogo contínuo com fornecedores e partes interessadas, avaliação prévia e estudos de viabilidade técnica e ambiental e monitoramento
+do progresso das obras ajustando estratégias de acordo com as necessidades são medidas que minimizam os riscos relacionados aos
+contratos de execução de obras.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+As áreas a serem apropriadas pelo Programa Curitiba Resiliente estão apresentadas no ANEXO 37 e totalizam 155.500 metros quadrados
+. As áreas foram identificadas de acordo com os objetivos do Programa, e os quantitativos dividem-se em quatro frentes, de acordo com a
+finalidade:
+
+1. Desapropriação de 102.500 metros quadrados para a implantação da Etapa 1 do Parque Linear do Belém. Referem-se a lotes
+localizados na faixa da Área de Preservação Permanente de aproximadamente 50 metros para cada lado das margens do rio Belém, no
+trecho de 2,2 km onde será implementado o Parque. São áreas de proprietários particulares e serão objeto de Decreto de Utilidade
+Pública para propiciar a realização das desapropriações, que poderão ocorrer de forma amigável ou judicial. Todos os imóveis privados de
+interesse para a implantação do Parque receberam mensagem de alerta, instruindo a consultar o IPPUC no caso de utilização da área
+para qualquer empreendimento ou licenciamento urbanístico. Os imóveis serão indenizados. O valor das indenizações foi estimado com
+base em pesquisa imobiliária de valores de mercado para imóveis assemelhados e nas mesmas condições de localização, potencial
+construtivo e tipologia de construção e de ocupação do solo, para o mês de referência de agosto de 2024, totalizando aproximadamente R
+$ 102.500.000,00. Em complementação, também foi realizada pré-análise de valores de desapropriação pela Comissão de Avaliação de
+Imóveis (CAI) da Secretaria Municipal de Administração, Gestão de Pessoal e Tecnologia da Informação (SMAP), responsável pela
+avaliação de imóveis nos processos de desapropriação do Município;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 36
+
+2. Desapropriação de 47.000 metros quadrados destinados à construção de 450 moradias para as famílias que serão realocadas. São
+lotes prioritariamente vagos, localizados dentro do perímetro do EcoDistrito Belém. Os imóveis serão indenizados. O valor das
+indenizações foi estimado com base em pesquisa imobiliária de valores de mercado para imóveis assemelhados e nas mesmas condições
+de localização, potencial construtivo e tipologia de construção e de ocupação do solo, para o mês de referência de agosto de 2024,
+totalizando aproximadamente R$ 47.000.000,00. Em complementação, também foi realizada pré-análise de valores de desapropriação
+pela Comissão de Avaliação de Imóveis (CAI) da Secretaria Municipal de Administração, Gestão de Pessoal e Tecnologia da Informação (
+SMAP), responsável pela avaliação de imóveis nos processos de desapropriação do Município;
+
+3. Desapropriação de 3.500 metros quadrados que serão destinados à implantação da Etapa 1 do Eixo Ambiental da Rua Zulmira Bacila (
+Córrego Areiãozinho). Os imóveis serão indenizados. Os imóveis serão indenizados. O valor das indenizações foi estimado com base em
+pesquisa imobiliária de valores de mercado para imóveis assemelhados e nas mesmas condições de localização, potencial construtivo e
+tipologia de construção e de ocupação do solo, para o mês de referência de agosto de 2024, totalizando aproximadamente R$ 3.500.000,
+00. Em complementação, também foi realizada pré-análise de valores de desapropriação pela Comissão de Avaliação de Imóveis (CAI) da
+Secretaria Municipal de Administração, Gestão de Pessoal e Tecnologia da Informação (SMAP), responsável pela avaliação de imóveis
+nos processos de desapropriação do Município; e
+
+4. Desapropriação de 2.500 metros quadrados que serão destinados à implantação da Cooperativa EcoCidadão e construção de Barracão
+. Os imóveis serão indenizados. O valor das indenizações foi estimado com base em pesquisa imobiliária de valores de mercado para
+imóveis assemelhados e nas mesmas condições de localização, potencial construtivo e tipologia de construção e de ocupação do solo,
+para o mês de referência de agosto de 2024, totalizando aproximadamente R$ 2.500.000,00. Em complementação, também foi realizada
+pré-análise de valores de desapropriação pela Comissão de Avaliação de Imóveis (CAI) da Secretaria Municipal de Administração, Gestão
+de Pessoal e Tecnologia da Informação (SMAP), responsável pela avaliação de imóveis nos processos de desapropriação do Município.
+
+Os órgãos responsáveis pelas ações de desapropriação e indenização e pelo aporte de recursos são a Secretaria Municipal de
+Administração, Gestão de Pessoal e Tecnologia da Informação (SMAP), e a Secretaria Municipal de Planejamento, Finanças e Orçamento
+(SMF), respectivamente.
+
+Os recursos para as desapropriações serão oriundos das receitas tributárias municipais previstas na lei orçamentária anual,
+complementados, conforme a necessidade, por aqueles cuja origem advém de outros instrumentos das políticas municipais como a venda
+de potencial construtivo adicional.
+
+RISCO - DESAPROPRIAÇÕES LITIGIOSAS OU QUESTIONAMENTO DE VALORES
+
+Ações Mitigadoras
+
+a) O risco de judicialização ou questionamentos quanto aos valores à serem pagos pode acarretar em acréscimos do montante
+previamente definido. Entretanto, o Município dispõe de procedimentos padronizados para a realização das desapropriações,
+departamento dedicado no âmbito da SMAP, e pessoal qualificado na área, com experiência consolidada, uma vez que é um tipo de
+atividade rotineira no âmbito da administração municipal;
+
+b) Realização de estudo prévio antes da publicação dos Decretos de Utilidade Pública; e
+
+c) Além do lançamento prévio dos alertas nos lotes quanto à consulta ao IPPUC quanto ao Projeto EcoDistrito Belém, e as estimativas de
+valores de desapropriação com base em pesquisa imobiliária de valores de mercado e pré-análise pela Comissão de Avaliação de Imóveis
+(CAI) da Secretaria Municipal de Administração, Gestão de Pessoal e Tecnologia da Informação (SMAP), serão elaborados os projetos de
+desapropriação, com a respectiva Avaliação da CAI-SMAP.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+LICENCIAMENTO AMBIENTAL
+
+A Lei Federal nº 6.938/1981, da Política Nacional sobre o Meio Ambiente, estabeleceu o marco legal brasileiro que ampara as questões
+ambientais, norteando todas as legislações subsequentes nos âmbitos estadual e municipal.
+
+Em 1997, o Conselho Nacional de Meio Ambiente - CONAMA publicou a Resolução nº 237 que em seu Art. 6º estabeleceu dentre as
+competências, o licenciamento ambiental de empreendimentos e atividades de impacto ambiental local e daquelas que lhe forem
+delegadas pelo Estado por instrumento legal ou convênio, passíveis de serem exercidas pelo órgão ambiental municipal. Curitiba é
+membro integrante do Sistema Nacional do Meio Ambiente - SISNAMA.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 37
+
+Desde os anos 2000, o Governo do Estado do Paraná e o Município de Curitiba vêm renovando o Convênio de Cooperação Técnica e
+Operacional, com o objetivo de integrar e aprimorar a gestão ambiental nos aspectos de licenciamento ambiental, definindo as obrigações
+dos entes de maneira articulada, coordenada e em cooperação. Neste Convênio, o Estado do Paraná delega ao Município de Curitiba a
+competência para exercer o licenciamento, controle e fiscalização ambiental de todos os empreendimentos e ou atividades utilizadoras de
+recursos ambientais e ou consideradas efetiva ou potencialmente poluidoras localizados no território de Curitiba. Está em vigência o
+Termo de Convênio nº 820/2022 publicado no Diário Oficial do Estado nº 11.247 de 25/08/2022 e, portanto, os atos municipais de
+licenciamento  ambiental estão devidamente amparados.
+
+A partir dos conceitos e preceitos da Política Nacional do Meio Ambiente, a legislação ambiental em Curitiba alinha-se com os objetivos da
+preservação, de melhoria da qualidade ambiental à vida, de manutenção do meio ambiente ecologicamente equilibrado, visando o bem de
+uso comum e essencial à sadia qualidade de vida, assegurando condições ao desenvolvimento socioeconômico. Rege o licenciamento
+ambiental em Curitiba, o Decreto Municipal nº 340/2022 onde estão estabelecidos os procedimentos administrativos de empreendimentos
+e atividades utilizadoras de recursos ambientais, efetiva ou potencialmente poluidoras e capazes de causar degradação ambiental.
+
+Em 1997, o Município instituiu por meios do Decreto Municipal nº 838 o Relatório Ambiental Prévio - RAP como um dos instrumentos de
+análise urbanística e ambiental, e assim subsidiar a avaliação de impactos ambientais, e precede o processo de licenciamento ambiental
+trifásico - Licença Prévia - LP, Licença de Instalação - LI e Licença de Operação - LO.
+
+O RAP se diferencia de outros instrumentos por ampliar o olhar sobre a gestão e o planejamento urbano, realizando uma análise
+multidisciplinar e interinstitucional. Trata-se de um estudo técnico para a análise de viabilidade ambiental de atividades consideradas
+potencial ou efetivamente passíveis de impactos significativos no meio ambiente, no sistema viário e na qualidade de vida da comunidade
+lindeira. O  RAP identifica as informações mais relevantes, considerando diversas áreas de influência (meio físico, biótico e antrópico),
+avaliando os impactos esperados e apontando medidas. As medidas propostas (ações e atividades), podem ser de natureza preventiva (
+que buscam  prevenir a ocorrência de impactos negativos), mitigadoras (destinadas a atenuar ou corrigir os impactos urbanos e
+ambientais), e compensatórias (voltadas a compensar os impactos ambientais não mitigáveis ou a utilização de recursos ambientais).
+
+A responsabilidade pela coordenação da equipe e dos trabalhos desenvolvidos é da Secretaria Municipal do Meio Ambiente, por meio do
+Departamento de Licenciamento e Fiscalização. Como critério de licenciamento ambiental dentro do escopo do Programa Curitiba
+Resiliente, os Projetos EcoDistrito Belém e Reserva Hídrica do Futuro enquadram-se no inciso IV do artigo 2º do Decreto Municipal nº 838/
+1997 e há exigibilidade de aprovação prévia de RAP para se verificar a viabilidade ambiental do empreendimento em razão da natureza e
+área de localização dos empreendimentos, que podem representar alteração significativa sobre o meio ambiente, sendo que a
+continuidade deverá seguir o licenciamento ambiental trifásico - LP, LI e LO, de acordo com o Decreto Municipal nº 340/2022.
+
+A elaboração do RAP faz parte das ações previstas no Programa Curitiba Resiliente  referente ao Componente 4 ? Gerenciamento,
+Supervisão e Projetos, Subcomponente 4.2 ? Consultorias, Estudos e Projetos Executivos, Produto 4.2.2 ? Estudos Hidrológicos e
+Relatório Ambiental Prévio (RAP), com previsão de contratação na fase inicial do Programa.
+
+Ademais, cabe complementar que dos critérios e diretrizes para avaliação de impacto ambiental definidos da Resolução nº 001/1986 do
+CONAMA, os Projetos EcoDistrito Belém e Reserva Hídrica do Futuro, considerando o escopo do Programa Curitiba Resiliente, não se
+enquadram  no inciso XV do Art. 2º, pois a área da intervenção do projeto urbanístico é inferior a 100 hectares e, portanto, não se aplica a
+apresentação do Estudo de Impacto Ambiental - EIA e seu Relatório - RIMA.
+
+Também, destaca-se que em 2012, a partir da publicação da Lei Federal nº 12.651, que ficou conhecida como o Novo Código Florestal, o
+Brasil estabeleceu o ordenamento jurídico sobre a proteção da vegetação nativa, incluindo as Áreas de Preservação Permanente (APP),
+de Reserva Legal e de  Uso Restrito, a exploração florestal, o suprimento de matéria-prima florestal, o controle da origem dos produtos
+florestais de seu território, norteando assim os licenciamentos ambientais de empreendimentos que se enquadrem nestas condições.
+
+As APP têm a função ambiental de preservar os recursos hídricos, a paisagem e a biodiversidade. Para estas áreas, são definidas faixas
+marginais, que são medidas a partir da borda da calha do leito regular, de acordo com a largura que apresentam. Portanto, pelas
+características do rio Belém no trecho sul, aplicando-se os critérios previstos no Art. 4º do Código Florestal, a faixa marginal aplicável é de
+50 metros, pois a largura deste recurso hídrico varia entre 20 e 30 metros.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 38
+
+Embora a Lei Federal nº 12.651/2012 estabeleça que as intervenções nas APPs são bem restritas (Art. 8º), elas podem ocorrer desde que
+enquadrem-se nas situações de utilidade pública, interesse social ou baixo impacto ambiental, conforme definido no Art. 3º. Os Projetos
+EcoDistrito Belém e Reserva Hídrica do Futuro, dentro do escopo do Programa Curitiba Resiliente enquadram-se: nos critérios do Inciso
+VIII -Utilidade Pública alínea b (atividades e obras de defesa civil), e alínea c (atividades que comprovadamente proporcionem melhorias
+na proteção das funções ambientais); e nos critérios do Inciso IX - Interesse Social alínea c (implantação de infraestrutura pública
+destinada a esportes, lazer e atividades educacionais e culturais ao ar livre em áreas urbanas e rurais consolidadas), e alínea d (
+regularização fundiária de assentamentos humanos ocupados predominantemente por população de baixa renda em áreas urbanas
+consolidadas). Assim, à luz da legislação ambiental, os critérios de utilidade pública e interesse social, também nortearão o licenciamento
+ambiental do Programa Curitiba Resiliente.
+
+Nesse contexto, considerando os aspectos abordados acima relacionados, não se vislumbram riscos do licenciamento ambiental nas
+intervenções propostas, estando de acordo com a legislação ambiental vigente.
+
+IMPACTOS AMBIENTAIS
+
+Com relação aos impactos ambientais, primeiramente, destaca-se que a proposta de intervenção no trecho sul do rio Belém visa uma
+solução mais eficaz e de menor impacto ambiental, beneficiando a população afetada pelos efeitos das grandes chuvas, especialmente
+nas áreas próximas ao curso d'água, com o objetivo de implementar ações que melhorem  a qualidade urbana e ambiental da região. Em
+consonância com o PlanClima de Curitiba, a proposta inclui intervenções destinadas a prevenir riscos de inundações e alagamentos, evitar
+a reincidência de ocupações irregulares em áreas inundáveis, melhorar as condições de escoamento das águas pluviais e promover uma
+melhor qualidade de vida para a população da região.
+
+As ações voltadas a requalificação ambiental proposta por meio da implantação do Parque Linear do Rio Belém (Produto 1.1.1), dos eixos
+ambientais ao longo de córregos (Produto 1.1.2), das ações de reverdejamento e biodiversidade (Produto 1.1.3), da rede de mobilidade
+ativa sustentável (Produto 1.1.4), e do Parque Reserva Hídrica do Futuro (Produto 1.2.1) promoverão ações de mitigação de emissões de
+GEE, pela recuperação da vegetação ao longo da porção sul do rio Belém e seus três córregos contribuintes, bem como nas vias que
+fazem parte da área de abrangência do Programa, com estímulo à proteção das áreas de vegetação nativa, e ações de adaptação às
+mudanças climáticas, reduzindo casos de inundação e alagamento, tornando a região mais resiliente a esses tipos de ocorrências. Esses
+Produtos contribuem, também, para a melhoria da sensação térmica na região reduzindo à sustentabilidade à formação de ilhas de calor
+urbano, por meio da implantação das árvores, tanto nos parques e eixos ambientais, quanto no sistema viário que compõe a rede de
+mobilidade ativa e demais vias da região.
+
+As ações voltadas à inovação e tecnologia em processos de prestação de serviços previstas no Componente 3 relacionadas à
+implementação da Fase 2 do Hipervisor Urbano e ao monitoramento das condições de saneamento básico e de monitoramento
+hidrometeorológico impactam no monitoramento ambiental, na avaliação e gestão de riscos de desastres relacionados aos riscos de
+inundação, alagamento e o ondas de calor, bem como na melhoria da qualidade da água dos corpos hídricos.
+
+As ações voltadas à infraestrutura social de reassentamento da população atualmente vivendo em situação de vulnerabilidade
+socioambiental em áreas com infraestrutura urbana adequada (Produto 2.1.1) impactam na melhoria das condições socioambientais das
+famílias, enquanto a implantação da Cooperativa de Materiais Recicláveis do EcoCidadão (Produto 2.1.1) e as ações de capacitação do
+EcoHub Belém (Produto 2.3.1), impactam na melhoria das condições ambientais da região, na redução da poluição hídrica e no cuidado
+da população em relação ao meio ambiente urbano.
+
+Considerando esses impactos, não há dúvidas sobre a relevância do Programa de cunho socioambiental, que busca resgatar a
+sustentabilidade e promover um ordenamento equilibrado nesta importante área, situada no encontro dos rios Belém e Iguaçu, exemplar
+distinto da bacia hidrográfica curitibana e paranaense, com relevância nacional. A partir da implementação das propostas, a qualidade
+ambiental e paisagística da região terá um significativo incremento de qualidade, promovendo mudanças nas tendências de uso e
+ocupação do solo. As propostas resgatam a funcionalidade do recurso hídrico e da APP, além de proteger a flora e a fauna locais,
+ressignificando o uso e ocupação do solo local, requalificando a área e fomentando o resgate de biodiversidade.
+
+Estes impactos foram identificados como oportunidades e medidas de adaptação que trarão co-beneficios socioeconômico, incluindo:
+desenvolvimento econômico; inovação; desenvolvimento de novas tecnologias, redução de doenças e pobreza, oportunização do resgate
+da funcionalidade da APP associada ao uso pela população, dos parques a serem implantados. Ao adaptar esse espaço por meio de
+iniciativas e medidas que reduzam a vulnerabilidade humana e dos sistemas naturais em relação aos efeitos atuais e esperados das
+mudanças climáticas, será possível conservar as áreas naturais. Assim, as chances de sucesso no enfrentamento dos impactos de
+eventos climáticos extremos e na consolidação do efetivo desenvolvimento sustentável da cidade serão significativamente ampliadas.
+
+EXPERIÊNCIA DO ÓRGÃO EXECUTOR COM AS POLÍTICAS/SALVAGUARDAS AMBIENTAIS DO AGENTE FINANCEIRO
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 39
+
+A notoriedade conquistada por Curitiba em planejamento e gestão urbana deve-se à idealização e implementação de projetos urbanos.
+Desde a institucionalização do RAP como instrumento de licenciamento ambiental e urbanístico, a municipalidade tem vivenciado uma
+experiência que possibilita uma análise mais ampla e integrada dos aspectos ambientais, urbanos e de gestão da cidade.
+
+Nesse sentido, destaca-se o empreendimento "Parque Linear do Rio Barigui - Viva Barigui", desenvolvido pela Prefeitura Municipal de
+Curitiba com financiamento da Agência Francesa de Desenvolvimento (AFD), que abrange um conjunto de intervenções na sub- bacia do
+Rio Barigui, em Curitiba. Com aproximadamente 45 km de extensão e uma área de drenagem de 144 km², representa 51,59% da  área de
+drenagem total da bacia e um terço da área total do município, sendo a maior bacia hidrográfica da capital paranaense.
+
+O projeto incluía o reassentamento de ocupações em APP ao longo do Rio Barigui, a implementação de infraestrutura com transposições
+de cursos d'água, e desapropriações em áreas particulares e em áreas irregulares, com previsão de realocação de 1.129 famílias
+distribuídas em três trechos da sub-bacia. Além disso, foram planejados espaços urbanizados com equipamentos públicos, novas áreas
+verdes integradas aos Parques Naturais Municipais existentes, ampliando os espaços ambientalmente protegidos e de lazer para a
+população, e a implantação de lagoas para contenção de águas de chuvas durante períodos de cheia, visando reduzir o risco de
+inundações. O projeto, também enfatizava a conservação dos maciços florestais existentes na bacia e a preservação das margens do rio.
+
+O projeto, também possibilitou a implantação de quatro novos parques públicos lineares ao longo do Rio Barigui, que incluem áreas de
+lazer, reflorestamento e áreas verdes protegidas: Parque Guairacá, na Fazendinha; Parque Mané Garrincha, no bairro Cidade Industrial;
+Parque Mairi, entre a Cidade Industrial e a Fazendinha; e Parque Yberê, no bairro Campo de Santana. Esses parques são de grande
+relevância para a conservação ambiental e a melhoria da qualidade da água do rio.
+
+Mais recentemente, foi concedida viabilidade ambiental para o "Projeto de Gestão de Risco Climático Bairro Novo do Caximba", também
+desenvolvido pela Prefeitura Municipal de Curitiba com financiamento da Agência Francesa de Desenvolvimento (AFD). O projeto, que
+está em andamento, abrange a recuperação ambiental da APP do Rio Barigui e a implantação de bacias de espraiamento e contenção de
+cheias. Também inclui a criação de um platô belvedere, áreas de lazer e a urbanização composta por uma série de ações para o
+reassentamento de 1.147 famílias, além de melhorias urbanas, regularização fundiária da área consolidada, produção de unidades
+habitacionais e infraestrutura, e a construção de equipamentos públicos comunitários na Área de Abrangência Específica (AAE).
+
+São exemplos que, embora variem em área de abrangência, compartilham semelhanças na abordagem das soluções. Ambos atuam como
+reordenadores dos espaços urbanos e redirecionam a funcionalidade desejada para o zoneamento proposto para Curitiba. Alinhados com
+a promoção e melhoria da qualidade ambiental, conforme a legislação vigente, visam urbanizar espaços por meio da instalação de
+equipamentos públicos, implantar mecanismos para a contenção e redução do risco de inundações em períodos de cheia, e integrar novas
+áreas verdes às já existentes. Além disso, buscam ampliar os espaços ambientalmente protegidos e de lazer para a população, conservar
+os maciços florestais da bacia e preservar as margens do rio.
+
+Considerando que ambos projetos foram realizados com a AFD, o órgão executor está bastante familiarizado e tem ciência das políticas/
+salvaguardas ambientais do agente financeiro.
+
+Além dessas experiências, especificamente quanto à execução do Programa Curitiba Resiliente, a Unidade Técnico-Administrativa de
+Gerenciamento de Programas (UTAG) possui uma equipe especializada com 13 técnicos para gerenciar e supervisionar as questões
+ambientais e sociais de programas de empréstimos internacionais. Ao longo dos anos, a equipe tem atualizado seus processos para
+atender às novas exigências dos financiadores e da legislação vigente. A Unidade realiza avaliações mensais para garantir que as
+empreiteiras estejam cumprindo as normas ambientais. Em campo, esses técnicos identificam e corrigem problemas, para implementar
+soluções técnicas e seguir os programas ambientais.
+
+O gerenciamento ambiental abrange o planejamento e execução das propostas, cuidando do licenciamento e monitoramento das
+atividades e impactos ambientais. O cumprimento dos Planos de Gestão e Controle Ambiental e Social, exigidos pelos contratos de
+empréstimo, é monitorado através de parâmetros de desempenho que garantem qualidade por meio de medidas efetivas de proteção
+ambiental. Com a experiência adquirida ao longo dos anos foi desenvolvido um Sistema de Avaliação de Desempenho da Conformidade
+da Obra.
+
+RISCOS
+
+Certamente, a requalificação de APPs e a adoção de medidas voltadas ao enfrentamento aos riscos climáticos da cidade significam
+benefícios ambientais, de saúde e econômicos relevantes. No entanto, algumas das ações previstas no Programa podem ter impactos
+negativos ao meio ambiente, resultando em riscos, caso não sejam aplicadas as medidas preventivas adequadas e efetivas.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 40
+
+RISCO - CONTAMINAÇÃO E ASSOREAMENTO DECORRENTE DAS AÇÕES DE DEMOLIÇÃO
+
+A significativa quantidade de desapropriações necessárias, especialmente para a implantação do Parque Linear Belém, envolve a
+demolição   de numerosas edificações. Essa ação gera uma grande quantidade de resíduos que devem ser destinados de forma
+adequada, evitando que sejam carreados ao leito do rio Belém.
+
+Ações Mitigadoras
+
+a) A gestão dos resíduos de demolições, das obras de infraestrutura viária e da implantação do parque linear propriamente dito pode ser
+desafiadora, sendo necessário desenvolver sistemas de gerenciamento efetivos implantados nas áreas de intervenção em espaços que
+permitam direcionar, de acordo com a classificação e tipologia, os resíduos para o reaproveitamento, a reciclagem, a destinação final
+correta para áreas ambientalmente adequadas e assim, minimizar os riscos de contaminação e assoreamento.
+
+b) Implementar sistemas de separação no local da demolição, onde materiais como concreto, metal, madeira, tijolos e outros possam ser
+classificados e armazenados e destinados adequadamente;
+
+c) Estabelecer parcerias com empresas especializadas para a reciclagem de materiais, como a transformação de concreto em agregados
+reciclados ou a reutilização de madeiras;
+
+d)  Sempre que possível, reutilizar estruturas e componentes, como janelas, portas e acabamentos, em novas construções ou reformas;
+criar centros de coleta onde materiais de demolição possam ser armazenados e disponibilizados para a comunidade ou para
+empreendimentos que possam aproveitá-los;
+
+e) O Município de Curitiba possui procedimentos específicos tanto para o gerenciamento de resíduos sólidos gerados pelas atividades
+econômicas, quanto para aqueles gerados durante a realização de obras. Esses procedimentos abrangem desde a geração e coleta até a
+disposição final ambientalmente adequada dos rejeitos, em conformidade com a Política Nacional de Resíduos Sólidos (Lei Federal 12.
+305/ 2010) e a Política Municipal de Meio Ambiente de Curitiba (Lei Municipal 15.852/2021) e quando aplicável é parte integrante de
+Licenciamento Ambiental específico; e
+
+f) Além dessas, existem outras normas que regulamentam e orientam o gerenciamento de diferentes tipos de resíduos. Para os resíduos
+da construção civil, o Decreto Municipal 906/2022 obriga a elaboração de Plano de Gerenciamento de Resíduos da Construção Civil (
+PGRCC);   este Plano pode servir como um instrumento de planejamento do canteiro durante a realização das obras, de planejamento
+financeiro, a partir  da volumetria estimada por tipo de resíduo e dos custos inerentes a destinação final. Adicionalmente, pode-se prever,
+em contrato, uma  cláusula que assegure a apresentação do plano aprovado pela SMMA como também a aprovação do relatório de
+gerenciamento, oportunidade para se verificar a destinação final adequada dos resíduos gerados durante os serviços de demolição.
+
+RISCO - CONTAMINAÇÃO DO SOLO DECORRENTE DE INUNDAÇÃO/ALAGAMENTO
+
+Outro aspecto, refere-se ao risco de alagamento e consequente contaminação das áreas de convívio, esporte e lazer no Parque Linear do
+rio Belém na ocorrência de cheias, especialmente nas regiões dos platôs que ampliam o volume de retenção de águas de chuva.
+
+Ações Mitigadoras
+
+a) Os platôs e taludes previstos em diferentes níveis podem ser alagados em estágios variados. Os taludes promovem a contenção do
+espraiamento da água, bem como a implementação de murunduns têm como objetivo fazer a delimitação das águas, impedindo, até certa
+mediada o espraiamento para as áreas de convívio, esporte e lazer;
+
+b) Também, estão previstas medidas voltadas para o monitoramento das condições de saneamento básico e qualidade da água,
+possibilitando ações de controle mais eficazes;
+
+c) Adicionalmente, está prevista a implantação de infraestrutura de jardins filtrantes, utilizando técnicas de remediação, como a
+biorremediação (uso de microorganismos para degradação de poluentes) e fitorremediação (uso de plantas para absorção de
+contaminantes), o que contribui para a melhoria da qualidade da água. Nesse contexto, todas as SbN propostas no Programa ajudam a
+reduzir a poluição difusa, resultando em melhorias no Índice de Qualidade da Água;
+
+O plantio de vegetação ao longo das margens do rio Belém e a implementação de infraestrutura verde e resiliente, por meio da adoção de
+SbN para gestão de águas pluviais ao longo de córregos e em algumas vias, também ajudam a estabilizar o solo, absorver poluentes e
+reduzir a erosão, melhorando a filtragem natural. Essas medidas criam zonas de proteção ao redor dos rios, limitando a atividade humana
+e contribuindo para a proteção do solo e dos ecossistemas adjacentes.; e
+
+d) Ações ambientais educativas para sensibilizar a população sobre a importância da preservação ambiental e os efeitos da poluição nas
+águas. Em relação à qualidade da água, o município já desenvolve o Programa Amigo dos Rios, que desenvolverá     ações na área do
+Programa.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+(cid:10)
+
+
+Página: 41
+
+O Programa Curitiba Resiliente tem como objetivo promover a adaptação e o aumento da resiliência dos sistemas urbano, ambiental,
+econômico e social por meio de soluções verdes e baseadas na natureza. Caracteriza-se por um conjunto de intervenções, que visa
+ordenar a ocupação existente na poligonal de intervenção, requalificar áreas urbanas, bem como minimizar o impacto ambiental
+garantindo a recuperação e conservação do meio ambiente voltadas à melhoria da qualidade de vida da população direta e indiretamente
+atingidas pelo Programa. Assim, além dos aspectos ambientais, o Programa busca proporcionar condições para a melhoria da qualidade
+de vida, tanto para a população que  reside em núcleos comunitários formados irregularmente nas áreas de ocupação urbana dos locais
+de interesse de intervenção, quanto da população em geral que reside e trabalha na área de abrangência do Programa.
+
+IMPACTOS SOCIAIS
+
+Com a implementação das propostas, espera-se um incremento significativo na qualidade ambiental e paisagística da região, assim como
+na qualidade socioeconômica e socioespacial. Isso inclui modificações nas tendências de uso e ocupação do solo, promovendo benefícios
+para a população em geral, bem como a inclusão socioambiental da população que vive em situação irregular e em condições insalubres,
+além de um sensível aumento da segurança.
+
+A implantação do Parque Linear do Belém (Produto 1.1.1) atinge famílias e negócios estabelecidos a partir da década de 1970, e que
+atualmente encontram-se na APP do rio Belém. Para a implantação do Parque e o respeito à APP de 50 metros para cada lado do rio,
+adequando a legislação ambiental e, também, reduzindo riscos de inundação e alagamentos, essas ocupações que fazem parte de
+loteamentos regulares, serão indenizadas e terão a possibilidade de se instalarem em outros locais a seu critério. Já as famílias de baixa
+renda que ocupam de forma irregular a área destinada à implantação do Parque há mais de 30 anos e encontram-se em extrema
+vulnerabilidade social serão realocadas para unidades habitacionais sustentáveis (Produto 2.1.1) que serão construídas em locais
+próximos e dotados de infraestrutura urbana adequada.
+
+Nesse sentido, as ações do Programa que atrelam desenvolvimento urbano, oferta de moradia, infraestrutura de mobilidade ativa, esporte,
+cultura e lazer, inserindo a comunidade que vive em áreas de ocupação irregular na cidade formal, facilitando o desenvolvimento
+socioeconômico local, a conservação ambiental e uso responsável dos recursos naturais e sustentabilidade dos espaços urbanos o
+impacto social gerado é significativo.
+
+Para as famílias situadas em locais passíveis de regularização, o Programa proporcionará a melhoria da qualidade de vida da comunidade
+por meio da implementação da Regularização Fundiária Urbana - REURB e oferta de unidades habitacionais seguras e adequadas para a
+ascensão das famílias beneficiadas, através de melhores condições habitacionais tais como: salubridade, segurança, infraestrutura,
+geração de renda e acesso aos serviços e equipamentos urbanos.
+
+EXPERIÊNCIA DO ÓRGÃO EXECUTOR COM AS POLÍTICAS/SALVAGUARDAS SOCIAIS DO AGENTE FINANCEIRO
+
+O Município, por intermédio da COHAB-CT possui experiência na condução de trabalho social similares aos que serão necessários nesse
+Programa. A experiência mais recente refere-se ao Projeto Gestão de Riscos Climáticos Bairro Novo do Caximba que conta com o
+financiamento da AFD, e contempla um conjunto de intervenções similares ao Programa Curitiba Resiliente. Dessa forma, aprendizados
+decorrentes desse recente Projeto, ainda em fase de implementação poderão ser incorporados no atual Programa, na medida das
+demandas relacionadas às políticas e salvaguardas sociais do agente financeiro se apresentem.
+
+Entre os aprendizados, destacam-se o trabalho intersetorial, as ações voltadas à inclusão de gênero, etária e minorias sociais, o
+fortalecimento do protagonismo social e  participação da comunidade nas ações propostas em todas as etapas do projeto, constituindo-se
+em mecanismos para mitigação dos riscos sociais.
+
+RISCOS
+
+As ações previstas no Programa resultam em benefícios ambientais, sociais e econômicos, mas podem, também, ter impactos negativos
+após a implantação.
+
+RISCO - SEGURANÇA PÚBLICA E DEPREDAÇÃO
+
+A vasta extensão de áreas destinadas à recomposição da APP no extremo sul do rio Belém pode gerar preocupações relacionadas à
+segurança pública e à depredação nas regiões adjacentes ao Parque Linear do Belém e ao Parque Reserva Hídrica do Futuro. Contudo,
+podem ser desenvolvidas ações que ajudam a mitigar os riscos associados  à segurança pública e à depredação, tornando região do
+Parque, áreas mais seguras e agradáveis para a comunidade.
+
+Ações Mitigadoras
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 42
+
+a) Iluminação adequada para garantir que as áreas do Parque sejam bem iluminadas para desencorajar atividades ilícitas;
+
+b) Desenho cuidadoso criando espaços abertos e visíveis, evitando áreas isoladas onde a criminalidade pode ocorrer;
+
+c) Utilização de mobiliário resiliente, com materiais resistentes e de fácil manutenção para evitar vandalismos;
+
+d) Promoção o engajamento comunitário, incluindo a comunidade no planejamento e nas atividades do Parque, estimulando o senso de
+pertencimento;
+
+e)  Incentivo a formação de grupos de vigilância e patrulhas comunitárias;
+
+f) Promoção de eventos culturais, esportivos e educacionais regulares para atrair visitantes e aumentar a presença de pessoas nas áreas;
+
+g) Instalação de áreas de recreação, como playgrounds, quadras e equipamentos esportivos, para encorajar o uso regular do Parque;
+
+h) Adoção de ações de monitoramento e segurança, como a instalação de câmeras de vigilância em pontos estratégicos do Parque;
+
+i) Realização de ações de educação ambiental com programas que sensibilizem a população sobre a importância da conservação
+ambiental e os benefícios das áreas de parque;
+
+j) Incentivo a iniciativas de voluntariado para a participação da comunidade em atividades de limpeza e conservação;
+
+k) Realização de manutenção contínua para garantir que áreas verdes e parques permaneçam limpos e bem conservados;
+
+l) Atuação rápida para reparação de danos e remoção de pichações, desestimulando comportamentos de depredação; e
+
+m) Formação de parcerias com escolas, ONGs e instituições locais para promover a segurança e a educação ambiental.
+
+RISCO - TRANSTORNOS À POPULAÇÃO DURANTE A EXECUÇÃO DAS OBRAS
+
+Embora as intervenções propostas tragam benefícios à população, como a melhoria das áreas de circulação da população às áreas
+verdes e ao EcoDistrito  com valorização dos deslocamentos por mobilidade ativa e acesso a espaços públicos e da área comercial e de
+serviços, entre outros, poderá ocorrer transtorno aos deslocamentos e acessibilidade durante a execução das obras.
+
+Ações Mitigadoras
+
+a) Adequação de vias alternativas e soluções para mitigar transtornos na mobilidade da população;
+
+b) Disponibilização de informação à população sobre a execução das obras antes do seu início;
+
+c) Sinalização nas áreas de intervenção, para mitigar possíveis problemas no acesso ao transporte público e mobilidade geral da
+população; e
+
+d) Instrumentos de sinalização para evitar acidentes, sendo que, quando necessário, serão realizados desvios para a realização das obras
+.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Com o objetivo de identificar as famílias residentes na área atingida pelo Programa Curitiba Resiliente, no período de 15 a 22 de julho de
+2024, foi realizado o mapeamento e cadastramento dos moradores pela equipe da COHAB-CT, o que possibilitou a caracterização
+socioeconômica das famílias ali residentes.
+
+Por ocasião do mapeamento, identificou-se as famílias moradoras, tendo sido mapeados 412 imóveis que se caracterizam como
+ocupações irregulares em áreas de vulnerabilidade ambiental e socioeconômica, dentre estes, 8 comerciais. Destes imóveis,
+aproximadamente 84% não poderão permanecer no local e serão reassentados. Nos demais serão aplicados a REURB.
+
+Após a elaboração do perfil socioeconômico, diferentes ações vêm sendo realizadas junto à comunidade, dentre as quais se destacam:
+reunião informativa, visitas em área, atendimentos na sede da COHAB-CT, por meio telefônico, presencial e por aplicativo de mensagens
+instantâneas.
+
+Em relação à política de reassentamento, o Município dispõe de procedimentos padronizados com essa finalidade, departamento
+dedicado e pessoal qualificado na área, com experiência consolidada e com o desenvolvimentos de ações que já foram aplicadas na
+implementação de outros programas que envolvem reassentamentos.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 43
+
+A COHAB-CT será a responsável pelas ações de reassentamento e regularização fundiária, e trabalha conjuntamente com a Secretaria
+Municipal de Administração, Gestão de Pessoal e Tecnologia da Informação (SMAP) e a Secretaria Municipal de Planejamento, Finanças
+e Orçamento (SMF). A UTAG também conta com equipe especializada no assunto, o que contribui para que as ações de reassentamento
+ocorram com segurança e tranquilidade. O aporte de recursos necessários será realizado pela SMF oriundos de recursos próprios da PMC
+.
+
+Os reassentamentos involuntárias de famílias residentes em locais que sofrerão intervenção por meio de Projeto Socioambiental devem
+garantir às famílias o respeito ao direito à moradia e restauração das condições sociais, visando a melhoria da qualidade de vida. Nesse
+sentido, o Município de Curitiba, por meio de estudos, fará o reassentamento apenas das famílias que estão em área não edificável. As
+ações serão descritas no Plano de Ação para Reassentamento que será elaborado e que terá como objetivo a promoção da equidade de
+gênero, a garantia do acesso à moradia em local próximo, preservando os vínculos econômicos e sociais.
+
+O Trabalho Social estará presente em todas as etapas do Projeto Socioambiental, desde a fase que antecede os reassentamentos e
+durante as obras e, pelo menos, um ano de acompanhamento após os últimos reassentamentos realizados. As ações serão planejadas e
+organizadas em seis programas: Inclusão Etária, de Gênero e Minorias Sociais; Mecanismos de Comunicação e Participação Popular;
+Organização Financeira; Educação Ambiental e Patrimonial; Reassentamento e Pós Reassentamento - Reabilitação.
+
+O Trabalho Social visa promover o exercício da participação e inserção social das famílias envolvidas direta e indiretamente na proposta
+de intervenção na transversalidade com as demais políticas públicas, contribuindo para a melhoria da qualidade de vida e sustentabilidade
+dos bens, equipamentos e serviços implantados.
+
+Apesar de terem sido cadastrados 412 imóveis que correspondem a 404 famílias, lições aprendidas em outros programas desse porte
+sugerem que seja previsto uma margem de reassentamentos um pouco maior que a quantidade cadastrada, em torno de 10%. Assim,
+estima-se o reassentamento de aproximadamente 450 famílias.
+
+Em função da análise do perfil da população, a composição familiar e as necessidades individuais, a tipologia arquitetônica desenvolvida
+para a construção de novas moradias demanda uma área construída de aproximadamente 27.000m² com unidades habitacionais de dois
+e 3 dormitórios, e 47.000 m² de área de desapropriação. Considerando-se a premissa de garantia do acesso à moradia em local próximo,
+preservando os vínculos de econômicos e sociais, e os custos de aquisição dos lotes necessários aos reassentamentos, estima-se um
+custo de 35 milhões de reais.
+
+A realocação de famílias de ocupações irregulares durante processos de regularização fundiária pode trazer uma série de benefícios, mas
+também apresenta diversos riscos
+
+RISCO - RESISTÊNCIA DA COMUNIDADE E FALTA DE ACEITAÇÃO
+
+As famílias podem resistir ao  reassentamento por diferentes fatores: sentimento de pertencimento à área de origem; falta de confiança
+nas promessas de melhoria das condições de reassentamento com infraestrutura que atenda as necessidades das famílias; perda de rede
+de apoio, dificultando a adaptação das  famílias em novos locais; vínculos com os equipamentos públicos (creches, escolas, unidades de
+saúde); questões econômicas relacionadas à emprego e renda, especialmente se as novas localizações forem distantes dos locais de
+trabalho anteriores ou tenham a possibilidade de persa de rede de prestação de serviços; estresse psicológico causado pela mudança,
+especialmente em famílias que já enfrentam situações de vulnerabilidade; dificuldades na Integração das famílias em novos ambientes,
+que podem ter características culturais diferentes; e expectativas em relação ao reassentamento não atendidas, gerando
+descontentamento e frustração.
+
+Ações Mitigadoras
+
+a) Realização de planejamento cuidadoso que inclua a participação das comunidades afetadas
+
+b) Apresentação de garantias de infraestrutura adequada;
+
+c) Criação de programas de apoio que facilitem a transição e integrem as famílias na nova comunidade; e
+
+d) Intenso trabalho intersetorial entre a COHAB-CT e demais Secretarias de Políticas Públicas do município de Curitiba durante todo o
+processo de intervenção, disponibilizando o suporte necessário às famílias no processo de informação, preparação e acompanhamento,
+visando a adaptação aos novos padrões de moradia, incentivando a permanência das famílias na área revitalizada e, assim, buscando a
+sustentabilidade da intervenção.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 44

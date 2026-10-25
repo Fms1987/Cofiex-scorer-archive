@@ -1,0 +1,1065 @@
+# Carta-Consulta CC_61247 — Versao 2 (SIGS)
+
+
+CARTA CONSULTA
+
+Programa Acredita Nordeste  (Microcrédito e Inclusão Produtiva)
+
+Nº Carta Consulta: 61247
+Processo: 03101.003028/2024-34
+Mutuário: Banco do Nordeste do Brasil - BNB
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  10 de Outubro de 2024
+
+Fontes Externas:
+KfW Entwicklungsbank: ? 200.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+O Cadastro Único para Programas Sociais do Governo Federal (CadÚnico) é o principal instrumento do Estado brasileiro para a
+identificação, seleção e a inclusão de famílias de baixa renda em programas federais, sendo usado para a concessão dos benefícios dos
+programas como Bolsa Família, Pé de Meia, Minha Casa Minha Vida, dentre outros.
+
+O Brasil possui 40,4 milhões de famílias inscritas no Cadastro Único do Governo Federal, sendo o Nordeste a região com maior
+participação, com 37,9% do total de famílias em situação de vulnerabilidade cadastradas (Gov. Federal-MDS, 2024).
+
+Em geral, o conceito de pobreza envolve abordagem multidimensional, porém a carência de renda autônoma é determinante para a
+situação familiar. A renda do trabalho é particularmente importante para as famílias pobres, sendo influenciada pela condição de ocupação
+. De fato, das famílias do CadÚnico com renda mensal de até 2 salários-mínimos, 10,3 milhões de famílias têm pelo menos um trabalhador
+por conta própria, das quais 4,1 milhões, ou 39,9% estão no Nordeste (Gov. Federal-MDS, 2024).
+
+Neste contexto, uma questão social crucial é possibilitar que as famílias pobres ganhem autonomia financeira pelo trabalho: como apoiar
+suas atividades profissionais, permitindo que o trabalho seja suficiente para sustentá-las?
+
+A experiência com microcrédito do Grameen Bank, de Bangladesh, é referência como caso de sucesso na estratégia de autonomia
+financeira de famílias pobres, especialmente aquelas chefiadas por mulheres.
+
+No Brasil, a política pública de microcrédito segue as diretrizes do Programa Nacional de Microcrédito Produtivo Orientado (PNMPO) do
+Governo Federal. O Programa foca na concessão de pequenos empréstimos, com valores adequados às necessidades dos
+empreendedores de baixa renda para investir em seus negócios.
+
+Uma característica importante do PNMPO é o acompanhamento orientado, com suporte técnico e gerencial, visando a utilização eficiente
+e sustentável dos recursos, estimulando a autonomia e autoestima dos beneficiários, como protagonistas de suas histórias. Busca, ainda,
+incentivar a criação de rede de apoio ao empreendedor e facilitar acesso a mercados, fomentando em sua comunidade um ambiente de
+empreendedorismo e inovação.
+
+O Crediamigo, programa de microcrédito urbano do Banco do Nordeste que aplica as diretrizes do PNMPO, foi lançado em 1998 e fornece
+não apenas crédito mas, também, conta corrente, microsseguros e orientação aos empreendedores sobre como utilizar os recursos de
+forma produtiva e tem sido um instrumento relevante também para a inclusão financeira para os clientes que possuem pouca ou nenhuma
+educação formal ou de idade mais avançada, assim como para o empoderamento feminino.
+
+Ao longo do tempo, o Crediamigo se consolidou como uma ferramenta relevante para a inclusão financeira e o combate à pobreza na
+Região, com R$ 118,1 bilhões em desembolso acumulado. Somente em 2023, o Crediamigo desembolsou R$ 10,64 bilhões, em mais de 3
+,6 milhões de operações, com 2,0 milhões de clientes ativos, dos quais 68,6% são empreendedoras que se reconhecem com a identidade
+de gênero feminino, independente da alteração do nome social no documento de identificação (BNB, 2024).
+
+Neste contexto, o programa Acredita no Primeiro Passo, gerido pelo Ministério do Desenvolvimento e Assistência Social, Família e
+Combate à Fome (MDS) prevê a concessão de crédito no modelo PNMPO, como estratégia de inclusão produtiva, aumento da renda pelo
+trabalho, qualidade de vida e participação social, para inscritos no CadÚnico.
+
+Como banco público e gestor do Crediamigo, maior programa de microcrédito do Brasil, o Banco do Nordeste foi chamado a participar do
+programa Acredita para atendimento com microcrédito aos beneficiários do CadÚnico no Nordeste. Na região estão 5,4 milhões de
+pessoas que empreendem com renda de até 2 salários mínimos e 2,5 milhões de mulheres empreendedoras (IBGE-PNAD Contínua, 2022
+).
+
+Entretanto, desafios relevantes se apresentam. As ações de indução e divulgação do programa Acredita irão gerar crescimento não
+orgânico da demanda ao Crediamigo, demandando novos recursos financeiros, mitigação do risco de crédito derivado da expansão de
+atendimento a esse público, bem como a expansão da capacidade operacional, em termos quantitativos e de distribuição espacial, de
+modo a atender os novos clientes com os serviços inerentes à metodologia de microcrédito produtivo orientado do PNMPO.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+SOLUÇÃO PROPOSTA
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+O programa Acredita no Primeiro Passo, funcionando de forma articulada com os benefícios e programas sociais do CadÚnico, visa gerar
+oportunidades de inclusão produtiva, aumento da renda pelo trabalho, qualidade de vida e participação social para famílias em situação de
+vulnerabilidade socioeconômica, tendo como eixo o microcrédito produtivo orientado para fomento a atividades empreendedoras e
+empresariais.
+
+Conforme previsto no Projeto de Lei do Programa Acredita PL-1725/2024, a ação creditícia será na modalidade microcrédito produtivo
+orientado e deverá ser embasada e fortalecida por outros componentes do Programa:
+
+a)Garantia de operações, sem custo para o tomador do crédito, por meio do Fundo Garantidor de Operações (FGO), de 100% do valor de
+cada operação de crédito para investimento, capital de giro isolado ou associado, limitado a 20% da carteira garantida e ao valor
+disponível no FGO para o Programa, tendo ainda como condições que no mínimo 50% das operações do Acredita na instituição financeira
+sejam contratadas por mulheres ou por empreendimentos individuais de mulheres (arts. 5 ao 8 e 11) e que os encargos sejam de no
+máximo 6%a.a. mais variação do Índice Nacional de Preços ao Consumidor Amplo(IPCA) correspondente ao período acumulado dos
+últimos 12 meses e estabelecida na data base de realização de cada operação; e
+
+b)Custeio das despesas de serviços de agente estruturador de negócio para o microcrédito produtivo orientado do Programa à conta do
+MDS, observada a disponibilidade orçamentária e financeira do Ministério (art.10).
+
+O Programa Acredita prevê ainda um conjunto articulado de iniciativas do Governo Federal, estabelecidas em parceria com Estados,
+Distrito Federal, prefeituras, organizações públicas, setores empregadores e da sociedade civil (Gov. Federal-MDS, 2024) e, por meio
+dessa rede de cooperação, oferece também aos seus beneficiários cursos gratuitos de qualificação profissional e apoio ao
+empreendedorismo, fortalecendo a ação por meio do microcrédito produtivo orientado.
+
+A focalização do programa Acredita no microcrédito para apoio ao público do CadÚnico visa, assim, oferecer uma solução duradoura para
+a autonomia financeira das famílias beneficiárias, reduzindo gradativamente a necessidade de transferências de renda.
+
+Porém, para a participação do Banco do Nordeste, por meio do Crediamigo, devem ser tratados os desafios identificados para o
+atendimento qualificado do expressivo volume de demanda não planejada de inscritos no CadÚnico.
+
+Os componentes previstos para o programa Acredita respondem a pontos críticos identificados para participação do Crediamigo: mitigação
+de risco (com o FGO), ampliação da capacidade operacional (com o custeio dos serviços de estruturação pelo MDS) e capacitação/
+suporte complementar, por meio da rede de cooperação institucional.
+
+Para superação do desafio de suprimento de funding, é apresentada a presente proposta de captação de recursos do KfW, no valor de
+EUR 200 milhões (duzentos milhões de euros), viabilizando recursos adicionais ao Crediamigo, visando a disponibilização de oferta
+estável de microcrédito.
+
+RESULTADOS ESPERADOS
+
+Com o programa ora proposto, para suprimento de recursos ao Crediamigo para operações de microcrédito produtivo orientado ao público
+do programa Acredita no Primeiro Passo, espera-se contribuir para o alcance dos seguintes resultados:
+
+a)Promover a articulação e integração de políticas públicas;
+
+b)Gerar oportunidades de inclusão produtiva e aumento da renda pelo trabalho para as famílias em situação de vulnerabilidade
+socioeconômica inscritas no CadÚnico;
+
+c)Ampliar o acesso ao crédito dos beneficiários, com o suprimento de funding adicional ao Crediamigo para a oferta de recursos estáveis
+no componente microcrédito do programa Acredita, do Governo Federal;
+
+d)Ampliar a inclusão bancária, a educação financeira e o suporte à atividade dos microempreendedores atendidos;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+e)Contribuir para a redução das disparidades de gênero e fomento ao empreendedorismo feminino, com prioridade para maior
+participação no crédito para empreendedoras que se reconhecem com a identidade de gênero feminino, independente da alteração do
+nome social no documento de identificação.
+
+SUSTENTABILIDADE
+
+A Sustentabilidade das ações do programa será abordada dos pontos de   vista:
+
+(i)Operacional, pelos mais de 25 anos do Banco do Nordeste na contratação de operações de microcrédito com o Crediamigo, o maior
+programa de microcrédito produtivo orientado da América do Sul, com modelo operacional e de gestão consolidado e escalável para
+novas expansões;
+
+(ii)Financeiro, pela existência do Fundo  de Garantia de Operações &#8722; FGO orientado ao Programa Acredita, que poderá ser
+utilizado pelo BNB, conforme sua avaliação do nível de risco da carteira e da gestão do fluxo de caixa subjacente. Para implantar o
+Programa Acredita no Primeiro Passo (já aderido pelo BNB), não houve necessidade de contratação de mão de obra complementar para o
+Crediamigo, atrelado à inexistência de custo de captação, por conseguinte há uma expectativa de receita adicional de 3,5% sobre o valor
+contratado, limitado a R$ 500,00 milhões. Foram realizadas simulações pela área de Gestão Orçamentária e de Capital do BNB, com
+estimativa de impacto na margem financeira e demais receitas auferidas. Para equacionar as condições de contratação, foi simulada a
+criação de uma carteira com os produtos, sendo: Giro Individual com taxa de 3,40%, Giro Individual com taxa de 3,05% + cobertura do
+FGO e Giro Solidário MIX com 70,00% Rec. Internos e 30,00% FNE. Os resultados da simulação se apresentaram positivos para o novo
+formato, com bom potencial de geração de receita em comparativo com o Giro Solidário MIX e o Giro Individual com taxa de 3,40%, sem
+cobertura do FGO. A receita da devolução de valores inadimplentes do fundo garantidor será recebida em momento posterior, conforme
+fluxo de composição da inadimplência e regras do fundo, ampliando a eficiência do produto frente aos demais. Para o FNE, o valor de
+responsabilidade do Fundo seria de, aproximadamente, R$ 0,72 milhão.
+
+(iii)Finalístico, pela possibilidade de serviço financeiro orientado continuado ao público adimplente do programa e novos solicitantes,
+permitindo o aumento de renda e melhoria das condições de vida das populações alvo.
+
+(iv)Institucional, por ser o Crediamigo um programa sólido, bem&#8722;sucedido e estratégico para o BNB, a presente operação permitirá
+alavancar ainda mais os resultados a que o BNB se propõe com esta iniciativa.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+ORIENTAÇÕES ESTRATÉGICAS
+
+Destacam-se abaixo as principais Orientações Estratégicas (OE) das Diretrizes Estratégicas (DE) definidas pelo Banco do Nordeste para o
+quinquênio 2024-2028, onde se enquadra o Programa ora proposto de captação de recursos para o Crediamigo:
+
+DE1 - Promover o desenvolvimento regional sustentável
+
+OE 1.2 Contribuir com o desenvolvimento regional, por meio da organização, financiamento, fortalecimento e elevação da competitividade
+das atividades econômicas priorizadas, de forma integrada e orientada, considerando os elos da cadeia produtiva (insumos, produção,
+beneficiamento e comercialização) e as atividades de suporte (infraestrutura, sustentabilidade ambiental, sustentabilidade social,
+governança e capital social e financiamento reembolsável e não reembolsável).
+
+OE 1.4 Promover a articulação e integração de políticas públicas.
+
+DE2 - Avançar nas práticas ambientais, sociais e de governança
+
+OE 2.6 Promover a inclusão social de grupos vulneráveis na sociedade, inclusive através do apoio a projetos sociais.
+
+OE 2.7 Desenvolver e apoiar ações de educação financeira e outros temas relacionadas aos fatores ASG para todos os públicos.
+
+DE6 - Consolidar a liderança no microcrédito
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+OE 6.1 Modernizar continuamente as operações de microfinanças por intermédio do uso intensivo de meios digitais e estruturação de
+modelo de gerenciamento de larga escala para melhorar o atendimento e a conveniência dos clientes, reduzindo custos, agilizando
+processos operacionais e aumentando o volume de negócios.
+
+OE 6.2 Contribuir com o processo de inclusão digital dos clientes de microfinanças, dotando-os de meios de obtenção de crédito,
+pagamento e recebimento adequados às suas atividades, mediante, inclusive, da ampliação dos canais de atendimento por intermédio de
+alianças estratégicas com empresas públicas e privadas.
+
+DE7 - Diversificar as fontes de recursos financeiros
+
+OE 7.1 Atuar como parceiro de organismos multilaterais e de instituições de desenvolvimento, buscando fontes alternativas de recursos e
+cooperação técnica.
+
+OE 7.3 Atuar na captação de recursos por meio da emissão de títulos com características ESG.
+
+Informações adicionais sobre a inclusão e alinhamento do programa nos Planos e Programas do Governo Federal segue em anexo.
+
+CONTRAPARTIDA
+
+Considerando o Manual de Financiamentos Externos da SEAID/MPO e a Resolução nº 3 da Cofiex, de 29 de maio de 2019, não há
+exigência de contrapartida para empresas estatais federais e bancos de desenvolvimento. Sendo assim, não serão aportados recursos de
+contrapartida para esta operação de crédito externa.
+
+TAXA DE CÂMBIO:  EURO 1.00 = R$ 6,0411 (TAXA PTAX, BANCO CENTRAL DO BRASIL, EM 03/10/2024)
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa Acredita Nordeste  (Microcrédito e Inclusão Produtiva)
+
+
+### 2.2. Título Abreviado
+
+Acredita Nordeste
+
+
+### 2.3. Mutuário
+
+
+Banco do Nordeste do Brasil - BNB
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+OBJETIVO GERAL:
+
+Gerar oportunidades de inclusão produtiva e aumento da renda pelo trabalho fomentando melhoria de qualidade de vida e participação
+social para pessoas em situação de vulnerabilidade socioeconômica inscritas no Cadastro Único para Programas Sociais do Governo
+Federal (CadÚnico).
+
+OBJETIVOS ESPECÍFICOS:
+
+1.Ampliar o acesso ao microcrédito produtivo orientado, promovendo o desenvolvimento de atividades econômicas geradoras de renda,
+contribuindo para qualidade de vida e dinâmica positiva na comunidade local;
+
+2.Incentivar o empreendedorismo entre mulheres, contribuindo para a maior participação socioeconômica desse público e redução das
+disparidades de gênero;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 6
+
+3.Promover a inclusão bancária de microempreendedores do microcrédito produtivo orientado;
+
+4.Oferecer educação financeira e suporte para a atividade empreendedora de beneficiários do CadÚnico, contribuindo para a
+sustentabilidade dos negócios, aumento de renda e qualidade de vida.
+
+
+### 2.6. Projeto/Indicadores
+
+
+Descrição
+Percentual de beneficiários do Programa que
+acessaram microcrédito produtivo orientado pela
+1ª vez em 01 ano
+
+Percentual de mulheres atendidas com crédito
+do Programa em 01 ano
+
+Percentual de beneficiários do Programa que
+abriram contas bancárias ou adquiriram outros
+serviços financeiros em 01 ano
+
+Percentual de beneficiários que participaram de
+programas de educação financeira e orientação
+gerencial em 01 ano
+
+Percentual de aumento da renda após o crédito
+para clientes beneficiados em 01 ano
+
+Percentual de Crescimento do faturamento dos
+negócios em 01 ano
+
+%
+
+%
+
+%
+
+Fórmula de Cálculo Unidade de Medida
+(Número de pessoas
+atendidas no
+Programa que
+acessaram
+microcrédito produtivo
+orientado pela 1ª vez
+em 1 ano/ Total de
+beneficiários do
+microcrédito no
+Programa em 1 ano) *
+(Número de pessoas
+que se reconhecem
+com a identidade de
+gênero feminino
+atendidas no
+Programa em 01 ano /
+Total de beneficiários
+do Programa em 01
+ano) * 100
+(Número de pessoas
+atendidas no
+Programa que
+acessaram
+microcrédito produtivo
+orientado pela 1ª vez
+em 01 ano/ Total de
+beneficiários do
+microcrédito no
+Programa em 01 ano)
+* 100
+(Número de pessoas
+que participaram de
+programas de
+educação financeira e
+orientação gerencial
+em 01 ano / Total de
+beneficiários do
+microcrédito no
+Programa em 01 ano)
+* 100
+(Renda após o crédito
+/ Renda antes do
+crédito) * 100
+(Faturamento após 01
+ano - Faturamento
+inicial) / Faturamento
+inicial * 100
+
+%
+
+%
+
+%
+
+Linha de Base
+0,00
+
+Meta
+10,00
+
+0,00
+
+60,00
+
+0,00
+
+100,00
+
+0,00
+
+100,00
+
+0,00
+
+0,00
+
+5,00
+
+5,00
+
+
+### 2.7. Projeto/Componentes
+
+
+Componentes
+C - OPORTUNIDADES DE INCLUSÃO PRODUTIVA E AUMENTO DE RENDA PELO TRABALHO
+S - MICROCRÉDITO PARA INSCRITOS NO CADÚNICO
+P - Financiamento de Microcrédito para Inscritos no CadÚnico
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Valor(?)
+200.000.000,00
+200.000.000,00
+200.000.000,00
+200.000.000,00
+
+(cid:10)
+
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+
+Página: 7
+
+C - OPORTUNIDADES DE INCLUSÃO PRODUTIVA E AUMENTO DE RENDA PELO TRABALHO
+Por meio deste componente, serão disponibilizadas oportunidades de inclusão produtiva e aumento da renda pelo trabalho para
+pessoas em situação de vulnerabilidade socioeconômica inscritas no Cadastro Único para Programas Sociais do Governo Federal
+(CadÚnico).
+
+S - MICROCRÉDITO PARA INSCRITOS NO CADÚNICO
+Por meio deste componente, será disponibilizado acesso a microcrédito produtivo orientado para pessoas inscritas no CadÚnico do
+Governo Federal.
+
+P - Financiamento de Microcrédito para Inscritos no CadÚnico
+Por meio deste produto, será disponibilizado acesso a microcrédito produtivo orientado para pessoas inscritas no CadÚnico do
+Governo Federal.
+
+Categoria de Gasto
+
+Outros
+P- Financiamento de Microcrédito para Inscritos
+no CadÚnico
+Total Geral
+
+Unidade de medida
+-
+EURO
+
+-
+
+Meta
+
+-
+200.000.000,
+-
+
+Valor
+
+% Financeiro
+
+200.000.000,00
+200.000.000,00
+
+200.000.000,00
+
+100,00
+100,00
+
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+As negociações para concepção deste Programa vêm desde janeiro de 2024, quando foram iniciadas tratativas com o MDS sobre o
+programa Acredita, na época ainda em estruturação por aquele Ministério, quando foi proposto ao BNB que realizasse a captação junto ao
+KfW para a disponibilização de linha de financiamento para beneficiar empreendedores do Cadastro Único, dentro do Programa de
+Redução da Pobreza do Governo Federal, e aplicação direta no programa de Microcrédito Produtivo Orientado do BNB (Crediamigo).
+
+Nesse processo, foi verificado que a possibilidade de captação de recursos do KfW como funding adicional para o Crediamigo,
+considerando as ações de divulgação e indução do programa Acredita a serem adotadas pelo MDS e sua rede de cooperação institucional
+, poderiam gerar expressivo crescimento da demanda no Nordeste, região que detém maior quantidade de famílias em situação de
+vulnerabilidade socioeconômica inscritas no CadÚnico.
+
+Desde janeiro, têm sido realizadas reuniões para construção do escopo do programa e discussão de adequação das condições
+operacionais e financeiras (taxas, prazos etc.) com o MDS e o KfW, contribuindo inclusive com a formatação dos eixos do programa
+Acredita, até a preparação desta Carta Consulta.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Nacional/Estados
+
+Estado de Alagoas, Estado da Bahia, Estado do Ceará, Estado do Espírito Santo, Estado do Maranhão, Estado de Minas Gerais, Estado
+da Paraíba, Estado de Pernambuco, Estado do Piauí, Estado do Rio Grande do Norte, Estado de Sergipe
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+Valor: EUR 200,0 milhões
+
+Prazo de Desembolso: 12 meses.
+
+Prazo de Carência: 24 meses
+
+Prazo de Amortização: 72 meses (13 parcelas semestrais)
+
+Prazo Total: 96 meses
+
+Taxa de Juros: Euribor + 0,87% a.a. ou taxa fixa equivalente
+
+O Banco do Nordeste adota a prática de esterilizar o risco cambial de captações externas por meio de instrumento financeiro de hedge. Na
+ocasião da internalização dos recursos em moeda estrangeira, um swap cambial é simultaneamente contratado, de modo que o BNB não
+incorre no risco de variação cambial. Esse procedimento de mitigação do risco cambial que, via de regra, é repassado ao beneficiário final
+na forma de composição do custo total da operação de crédito, significa também num modelo de redução da exposição do cliente a um
+possível choque de taxa de câmbio em seu fluxo de pagamento em moeda local, notadamente, considerando tratar-se de clientes de
+microcrédito (baixa renda).
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 8
+
+Em sendo aprovado programa governamental que possibilite a utilização de hedge cambial para esse segmento de negócios a preços
+mais competitivos, intenciona-se que o Programa aqui proposto concorra a esse benefício.
+
+Taxa de Compromisso sobre saldo não desembolsado: o KfW estabelece 0,25% a.a. sobre o valor não desembolsado, com início três
+meses após a data da assinatura do Contrato de Empréstimo até a data do desembolso total, exigível semestralmente (15 de maio e 15 de
+novembro).
+
+Taxa de Administração: o KfW estabelece uma taxa de 0,5% flat do montante total do empréstimo, a ser paga em uma das duas datas a
+seguir (a que ocorrer primeiro): antes do primeiro desembolso do KfW ao BNB; ou três meses após a assinatura do contrato de
+empréstimo.
+
+As condições acima serão objeto de negociação durante a estruturação da operação, de forma a viabilizar o repasse pelo BNB aos
+beneficiários finais do programa Acredita no Primeiro Passo.
+
+COVENANTS: a operação prevê a existência de covenants padrão em contratos de crédito, cujos termos serão negociados entre o Banco
+do Nordeste e o KFW no momento da elaboração das cláusulas contratuais.
+
+NECESSIDADE DE FINANCIAMENTO EXTERNO E OPÇÃO PELO AGENTE FINANCEIRO
+
+Os recursos à disposição do Banco do Nordeste para aplicação no microcrédito produtivo orientado são, via de regra, recursos de curto
+prazo, cujo volume oscila conforme as condições de mercado do momento, o que faz com que naturalmente possuam uma menor
+previsibilidade quanto à sua estabilidade.
+
+Uma linha de financiamento externo, por outro lado, confere a possibilidade de contratação de um funding com prazo mais alongado, o
+que, por sua vez, provê uma estabilidade ao volume de recursos captados que recursos de curto prazo não oferecem. Nesse sentido, o
+financiamento externo, ao proporcionar mais opções de longo prazo, apresenta-se como opção vantajosa para suprir as necessidades de
+funding do programa, ao mesmo tempo que permite realocar as captações de curto prazo a programas de crédito mais aderentes a esse
+perfil.
+
+A opção pelo KFW como agente financeiro se justifica por essa instituição oferecer uma linha de financiamento com prazo de até oito anos
+a um custo de taxa de juros estipulado em Euribor + 0,87% ao ano. Em termos comparativos, essa precificação é mais vantajosa do que,
+por exemplo, a contratada pelo próprio Banco do Nordeste com a Agência Francesa de Desenvolvimento (AFD), cujo contrato de 12 anos
+assinado em junho de 2023 prevê o pagamento de Euribor + 2,30% ao ano.
+
+O KFW ainda oferece a alternativa de uma taxa fixa, estimada em 3,54% ao ano. Essa taxa também é inferior à taxa de 3,86% exigida no
+contrato de três anos assinado entre Banco do Nordeste e Banco Europeu de Investimentos (BEI) em 2022.
+
+CONTRAGARANTIAS
+
+Atendendo à Resolução nº 48/2007 do Senado Federal, o BNB apresentará como proposta de contragarantia, pela garantia da União,
+títulos públicos do tipo LFT (Letra Financeira do Tesouro), de forma a atender ao requisito de que sejam em valor igual ou superior ao da
+dívida durante toda a vigência da operação de crédito, abrangendo o ressarcimento integral dos custos do financiamento decorrentes da
+cobertura do eventual inadimplemento e serem suficientes para cobrir qualquer pagamento que a União possa vir a ser chamada a honrar.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+Considerando as áreas estratégicas e impactos de interesse do projeto, conforme a Resolução Cofiex 17/2021, o programa Acredita
+Nordeste se caracteriza conforme exposto a seguir:
+
+1.1.Promoção da sustentabilidade ambiental: em se tratando de programa de microcrédito urbano, o projeto terá impacto socioambiental
+mínimo ou quase nulo e contribuirá para a melhoria das condições de vida de populações de baixa renda, tendo impacto ambiental
+positivo de forma indireta.
+
+1.2 Eficiência energética, geração e/ou uso de energia de fontes renováveis: não se aplica a esse programa.
+
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 9
+
+1.3 Implantação e/ou ampliação de ações de saneamento básico: não se aplica a este programa.
+
+1.4 Gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes: não se aplica a este
+programa.
+
+1.5 Conservação e manejo da biodiversidade e/ou de recursos florestais: não se aplica a este programa.
+
+1.6 Melhoria do ambiente de negócios e/ou oportunidades: atendido pelo programa, pois este atuará de forma significativa na promoção
+de novos negócios, do empreendedorismo e na geração de oportunidades de negócios para populações de baixa renda, atuando
+fortemente na inclusão produtiva e na geração de emprego e renda.
+
+1.7 Benefícios para empreendedores individuais, micro e pequenas empresas: atendido pelo Programa à medida que o foco principal do
+programa é aumentar o acesso ao microcrédito produtivo orientado, que associa crédito a serviços de apoio e orientação técnica, com
+estímulo ao empreendedorismo, conforme previsto no programa Acredita no Primeiro Passo, do MDR/Governo Federal, e tem como
+principais beneficiários empreendedores informais, microempreendedores individuais e microempresas.
+
+1.8 Geração de emprego e renda para populações de baixa renda e vulneráveis: atendido pelo Programa, sendo seu principal objetivo, à
+medida que visa disponibilizar o acesso ao microcrédito produtivo orientado à população inscrita no CadÚnico, com associação do crédito
+a serviços de apoio, conforme previsto no programa Acredita no Primeiro Passo, do MDR/Governo Federal, fomentando a implantação,
+manutenção e expansão de empreendimentos.
+
+1.9 Infraestrutura e/ou equipamentos sociais para populações de baixa renda e vulneráveis: não se aplica a este programa.
+
+1.10 Ações de inclusão de minorias sociais entre os beneficiários: atendido plenamente pelo programa, à medida que tem como
+beneficiários a população de baixa renda inscrita no CadÚnico, composta principalmente por população negra (preta e parda), que
+normalmente não tem acesso adequado a serviços financeiros, com pouca ou nenhuma educação formal, além de ter como público
+prioritário empreendedoras que se reconhecem com a identidade de gênero feminino.
+
+1.11 Políticas voltadas para juventude, gênero e raça: atendido pelo programa, visto que os beneficiários do programa, população de baixa
+renda inscrita no CadÚnico, consistem na sua maioria de população negra (preta e parda), além de ter como público prioritário
+empreendedoras que se reconhecem com a identidade de gênero feminino.
+
+1.12 Melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão e/ou de participação cidadã: atendido, visto que o
+programa parte de uma política pública do Governo Federal que visa inovar no avanço do microcrédito produtivo orientado de forma mais
+específica para um público-alvo de baixíssima renda, que normalmente não tem acesso adequado a serviços financeiros, com pouca ou
+nenhuma educação formal, além de ter como público prioritário empreendedoras que se reconhecem com a identidade de gênero feminino
+.
+
+1.13 Melhoria das condições de educação e saúde: é inerente à modalidade microcrédito produtivo orientado associar ao crédito serviços
+de orientação técnica e financeira ao público beneficiário, que contará também com oportunidades de capacitação proporcionadas pelo
+programa Acredita no Primeiro Passo, principalmente para um público com pouca ou mesmo nenhuma educação formal. Além disso, com
+o fomento à inclusão produtiva e à autossuficiência financeira dos beneficiários, visa-se a melhoria da qualidade de vida dos beneficiários,
+espera-se de forma indireta proporcionar melhores condições de saúde.
+
+1.14 Desenvolvimento, inovação e modernização tecnológica: atendido por meio das ações de suporte e capacitação financeira e técnica
+para sustentabilidade dos microempreendimentos.
+
+1.15 Arranjos de financiamento que incentivem/contribuam com a participação privada: atendido pelo programa, considerando que o
+público microempreendedor é o beneficiário do crédito e responsável pela aplicação dos recursos nas diversas atividades produtivas
+privadas desenvolvidas.
+
+POPULAÇÃO BENEFICIADA
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 10
+
+Os recursos do programa visam beneficiar as famílias inscritas no Cadastro Único do Governo Federal da região Nordeste e do Norte de
+Minas Gerais e do Espírito Santo, podendo atingir aproximadamente 16 milhões de famílias cadastradas.
+
+BENEFÍCIOS A POPULAÇÕES SOCIALMENTE VULNERÁVEIS
+
+O público beneficiário do Programa são os inscritos no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico), principal
+instrumento do Estado brasileiro de identificação de famílias de baixa renda e em situação de vulnerabilidade socioeconômica para a
+concessão dos benefícios de programas como Bolsa Família, Pé de Meia, Minha Casa Minha Vida etc. No Nordeste e norte de Minas
+Gerais e Espírito Santo, quase 16 milhões de famílias estão inscritas no CadÚnico e poderão ser atendidas pelo Programa.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Euro
+
+Fontes Externas
+
+Sigla
+
+Moeda
+
+Valor Proposto
+
+KfW Entwicklungsbank
+Total:
+
+KfW
+
+?
+
+200.000.000,00
+200.000.000,00
+
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência ?
+
+200.000.000,00
+200.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+ARRANJO INSTITUCIONAL
+
+O Mutuário/Executor do programa é o Banco do Nordeste do Brasil S.A., tendo como Submutuários os beneficiários do microcrédito
+produtivo orientado do programa Crediamigo inscritos no CadÚnico. O KfW liberará recursos ao BNB para a concessão de crédito aos
+beneficiários do Programa apresentado nesta carta consulta. A União, por meio da Secretaria do Tesouro Nacional ? STN, passará a ser
+garantidora da nova operação. Além disso, o BNB será responsável por cumprir todos os termos e obrigações derivadas do Contrato de
+Empréstimo a ser celebrado com o KfW. Dessa forma, para a implementação do Programa é idealizado um arranjo institucional executivo
+em quatro instâncias, a serem instituídas:
+
+i. KfW: fonte dos recursos para crédito aos submutuários e definidor das condições de aplicação dos recursos, bem como da prestação de
+contas;
+
+ii. Governo Federal, por meio do MDS: responsável pelo Fundo Garantidor da Operação (FGO), que poderá vir a ser utilizado para garantir
+100% das operações de até 20% da carteira; por meio do Tesouro Nacional:  provimento de eventual programa de proteção cambial (
+hedge) em condições mais vantajosas para o programa Acredita;
+
+iii. BNB: Mutuário e executor do programa;
+
+iv. Clientes/Submutuários: Público inscrito no CadÚnico, microempreendedore(a)s que executarão diretamente as finalidades financiadas
+nas operações de microcrédito produtivo orientado, de acordo com as regras dos programas Acredita e Crediamigo.
+
+O BNB será responsável pela operacionalização do crédito junto aos microempreendedores, tomadores finais dos recursos captados. A
+seleção dos empreendimentos a serem financiados seguirá os critérios técnicos de análise de crédito em conformidade com os normativos
+internos do BNB e as diretrizes do programa Acredita, do Governo Federal, compatibilizando, no que for necessário, aos requisitos do
+KfW, e obedecendo ao marco legal brasileiro de regulamentação bancária, a legislação ambiental e trabalhista prevista e exigida pela
+legislação brasileira.
+
+O BNB, portanto, financia as propostas de crédito aprovadas, cabendo-lhe o monitoramento do cumprimento das condições previstas no
+subempréstimo. Fica a cargo dos Submutuários (beneficiários finais), inscritos no CadÚnico, a responsabilidade direta pela execução do
+previsto nos subcontratos. O monitoramento permite a coleta de dados de forma a atender exigências de comprovação, informação e
+desenvolvimento de base interna de dados.
+
+MATRIZ DE RESPONSABILIDADE
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 11
+
+A matriz de responsabilidade encontra-se em anexo a esta Carta Consulta.
+
+Dentre as responsabilidades do BNB estão a observância de obrigações financeiras e não financeiras a serem assumidas no contrato de
+empréstimo.
+
+Os recursos do empréstimo serão recebidos diretamente pelo BNB, que os repassará por meio de operações de microcrédito a inscritos
+no CadÚnico. Os recursos serão repassados pelo KfW ao BNB conforme cronograma a ser reavaliado durante a preparação do Programa,
+e os desembolsos do BNB aos beneficiários finais dos recursos ocorrerão mediante apresentação de propostas de crédito seguindo
+processo de crédito específico de microcrédito produtivo orientado do Crediamigo. Eventuais ajustes nas regras e procedimentos de
+concessão de crédito aos segmentos a serem atendidos serão efetuados em comum acordo entre BNB e KfW durante a etapa de
+preparação do Programa.
+
+ESTRUTURA OPERACIONAL
+
+A gestão do Programa será estabelecida na sede do BNB, em Fortaleza/CE, com unidades qualificadas e especializadas, tanto para o
+gerenciamento de operações com recursos externos e relacionamento com organismos multilaterais, como para o gerenciamento e
+operacionalização do maior programa de microcrédito da América do Sul, o Crediamigo, incluindo o apoio de toda a equipe do Banco
+descentralizada, lotada em todos os estados da Região Nordeste e no Norte dos estados de Minas Gerais e Espírito Santo.
+
+A experiência do BNB como mutuário de financiamentos internacionais pode ser evidenciada na operacionalização bem sucedida de
+outras captações recentes efetuadas com organismos multilaterais, a exemplo da Agência Francesa de Desenvolvimento (AFD) e BID.
+Especificamente para o programa Crediamigo, já foram captados anteriormente recursos do Banco Europeu de Investimento (BEI),
+Corporação Andina de Fomento (CAF) e, em experiência anterior, recursos do Banco Mundial.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Banco do Nordeste do Brasil - BNB
+
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 1 Ano
+
+
+### 4.4. Execução/Cronograma
+
+
+C - OPORTUNIDADES DE INCLUSÃO PRODUTIVA E AUMENTO DE RENDA PELO TRABALHO
+S - MICROCRÉDITO PARA INSCRITOS NO CADÚNICO
+P - Financiamento de Microcrédito para Inscritos no CadÚnico
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+Fax:
+UF:
+
+VALOR
+
+Ano 1
+
+FONTES
+
+TOTAL
+
+CUSTO
+200.000.000,00
+200.000.000,00
+200.000.000,00
+200.000.000,00
+
+KfW
+200.000.000,00
+200.000.000,00
+200.000.000,00
+200.000.000,00
+
+KfW
+200.000.000,00
+200.000.000,00
+200.000.000,00
+200.000.000,00
+
+O principal ato legal necessário à execução do Programa é a assinatura do contrato entre o BNB e o KfW, com participação da União
+enquanto garantidor soberano. A contratação do empréstimo externo, assim como as ações previstas no Programa, serão executadas ao
+abrigo da legislação e regulamentação vigentes no País, a exemplo de: Resoluções Bacen 2.827/2001 e 3.844/2010, Resolução CMN,
+Resolução CMN 4.857/2020, Resoluções Cofiex 03/2019, 01/2021, 02/2021, 17/2021, Resoluções do Senado Federal 40/2001, 43/2001,
+88/2007, 49/2007, Lei Federal 13.303/2016 (Lei das Estatais), Lei Complementar 101/2000 (LRF), Lei Complementar 148/2014, Lei
+Complementar 159/2017, Lei Federal 10.552/2002 e alterações, Manual para Instrução de Pleitos e Portarias da STN, Portarias do
+Ministério da Fazenda e a Constituição Federal.
+
+Além da legislação nacional vigente, para contratação e execução do programa, deverão ser obedecidas as normas vigentes do KfW,
+adequadas e compatibilizadas às exigências e requisitos já existentes na legislação nacional e à realidade operacional do Banco do
+Nordeste.
+
+Não se verifica a necessidade ou dependência de outros atos legais, além daqueles específicos (citados acima) relacionados ao processo
+de aprovações e autorizações legais requeridos para a celebração do empréstimo externo, os quais envolvem, principalmente, essa
+Comissão de Financiamentos Externos (COFIEX), a Secretaria de Assuntos Internacionais (SEAID-MPO), a Secretaria do Tesouro
+Nacional (STN), a Procuradoria Geral da Fazenda Nacional (PGFN), o Senado Federal e o Ministério da Fazenda.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 12
+
+Para mitigar riscos de incumprimento do marco legal e regulatório, o BNB contará com o apoio de sua área jurídica, além de eventual
+assessoria jurídica terceirizada. Ademais, tem sido realizadas reuniões periódicas de alinhamento entre as equipes do BNB e do KfW para
+mitigar riscos associados ao processo de negociação e assinatura do contrato entre as partes.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+RISCOS RELATIVOS A CONTRATAÇÕES (Pessoal/Aquisições)
+
+Não há previsão de contratação de consultorias para a execução do Programa, tampouco de contratação de pessoal diretamente pelo
+BNB para a operacionalização da linha de financiamento.
+
+Para minimizar riscos, o BNB contará com especialistas de sua equipe técnica e de sua área jurídica.
+
+A contratação do empréstimo externo obedecerá à legislação nacional vigente, normas do Banco Central, Ministério da Fazenda e às
+políticas e diretrizes do KfW, de forma que as minutas do contrato de empréstimo serão trabalhadas durante a negociação e preparação
+do Programa pelas equipes das duas instituições.
+
+RISCOS CONTRATAÇÕES DE CRÉDITO
+
+Para mitigar o risco de crédito dos projetos a serem financiados, a esteira tradicional de operacionalização do microcrédito do Banco do
+Nordeste será obedecida, aplicando-se o mesmo grau de exigência das demais operações do Banco, que tradicionalmente resulta num
+baixo índice de não cumprimento de operações (inadimplência inferior a 5%), contando ainda o BNB com a possibilidade de utilização do
+Fundo Garantidor (FGO), conforme sua avaliação de risco, para operacionalização do Programa.
+
+Não se verifica risco de ausência de demanda para os recursos levantados no âmbito do conjunto dos componentes do programa.
+
+RISCO CAMBIAL
+
+O Banco do Nordeste adota a prática de esterilizar o risco cambial de captações externas por meio de instrumento financeiro de hedge. Na
+ocasião da internalização dos recursos em moeda estrangeira, um swap cambial é simultaneamente contratado, de modo que o BNB não
+incorre no risco de variação cambial. Esse procedimento de mitigação do risco cambial que, via de regra, é repassado ao beneficiário final
+na forma de composição do custo total da operação de crédito, significa também num modelo de redução da exposição do cliente a um
+possível choque de taxa de câmbio em seu fluxo de pagamento em moeda local.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Não haverá ocorrência de desapropriações na execução do Programa.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+Dado o porte dos empreendimentos a serem financiados (pessoas físicas, microempreendedores individuais e microempresas), considera-
+se que o programa terá impactos socioambientais mínimos ou nulos como resultado das operações.
+
+Não obstante, considerando principalmente aos financiamentos a microempresas, todas as operações de crédito com os submutuários
+obedecerão ao marco legal e regulatório nacional, no que for aplicável, como:
+
+a)Política Nacional do Meio Ambiente: com objetivos e forma de aplicação definidos na Lei Complementar nº 140/2011, Lei nº 6.938/1981,
+Decreto nº 99.274/1990, Resolução nº 237/1997 do Conselho Nacional do Meio Ambiente (CONAMA) e, no que respeita às penalidades
+aplicáveis às infrações ambientais, a Lei nº 9.605, de 12/02/1998;
+
+b)No âmbito estadual, as Políticas Estaduais do Meio Ambiente, definidas na legislação e atos administrativos de cada Estado;
+
+c)Resolução do Conselho Monetário Nacional - CMN nº 4.945/2021: Dispõe sobre a Política de Responsabilidade Social, Ambiental e
+Climática (PRSAC) e sobre as ações com vistas à sua efetividade para as instituições financeiras e demais instituições autorizadas a
+funcionar pelo Banco Central do Brasil;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 13
+
+d)Normativo SARB nº 14/2014: Normativo de criação e implementação de política de responsabilidade socioambiental do Sistema de
+Autorregulação Bancária da Federação Brasileira de Bancos -FEBRABAN;
+
+e)Política de Responsabilidade Socioambiental e Climática (PRSAC) do Banco do Nordeste.
+
+Além disso, também no que couber, serão obedecidas as Guias de Sustentabilidade - Avaliação e gestão dos aspectos ambientais, sociais
+e climáticos: princípios e procedimentos do KfW.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+O Crediamigo obedece a processo metodológico de aplicação obrigatória que possibilita ao cliente o acesso ao crédito de forma rápida, de
+acordo com a sua capacidade de pagamento e com esquema e mecanismos de garantias adequados. A utilização da metodologia de
+microcrédito produtivo orientado consiste em acompanhamento e orientação para melhor aplicação do recurso, a fim de integrá-los de
+maneira competitiva ao mercado.
+
+A metodologia prevê a elevação gradual do valor, sendo os primeiros empréstimos de caráter de conhecimento do grupo e valor pequeno,
+com a ideia de oferecer um produto com créditos escalonados, pelo qual os valores emprestados poderão ser gradualmente elevados, a
+partir do desenvolvimento da empresa, da sua capacidade de pagamento e do momento em que o cliente adquirir experiência no
+manuseio dos recursos.
+
+Os agentes de crédito do Crediamigo atuam diretamente onde estão os clientes, ou seja, nas comunidades, feiras, mercados etc. Essa
+proximidade objetiva a superação das barreiras que impedem os clientes de chegar ao sistema bancário formal, por meio da qual se
+conhecerá as reais condições da atividade do cliente e criando um elo de confiança e respeito mútuo entre o cliente e o banco, além de
+assessorá-lo com orientações que irão promover o crescimento do seu negócio, a melhor qualificação da sua produção e a melhoria da
+sua capacidade gerencial.
+
+Dada a característica específica do Programa, os impactos sociais esperados são apenas positivos, com o apoio ao empreendedorismo,
+estimulando a autossuficiência econômica dos beneficiários, o crescimento de microempreendimentos e a consequente inclusão produtiva,
+criação de empregos e geração de renda, como resultado dos investimentos realizados.
+
+Sobre eventuais interferências em populações indígenas, quilombolas e outras decorrentes da implementação do programa/projeto.
+Especificar se há interferência em populações, informamos que o Crediamigo atua preponderantemente no meio urbano. Contudo, a
+interferência em populações tradicionais, quando ocorre, se dá de forma positiva, contribuindo para o escoamento de sua produção e
+melhoria nas condições de comercialização de seus produtos.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Não ocorrerão reassentamentos na execução do Programa.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)

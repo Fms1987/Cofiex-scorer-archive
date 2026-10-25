@@ -1,0 +1,2985 @@
+# Carta-Consulta CC_60931 — Versao 1 (SIGS)
+
+
+PROGRAMA DE REQUALIFICAÇÃO E DESENVOLVIMENTO URBANO DE CONTAGEM
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 60931
+Mutuário: Município de Contagem - MG
+Tipo de Operação: Operação de crédito externo
+
+Fontes Internas:
+Contrapartida Financeira: US$ 16.000.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 64.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+O município de Contagem, localizado no centro da Região Metropolitana de Belo Horizonte (RMBH), Minas Gerais, é o segundo em
+população no estado, com cerca de 670 mil habitantes, faz limite com a capital e mais quatro municípios. Possui o primeiro distrito
+industrial do estado, instalado no início dos anos de 1940, e essa marca industrial prevaleceu ao longo do processo de formação da
+cidade. Outras áreas industriais foram implantadas ao longo da segunda metade do século XX, e nas duas últimas décadas grandes áreas
+vêm sendo ocupadas com atividades de comércio atacadista e logística.
+
+Com um PIB de R$ 30,4 bilhões, em 2019, Contagem é a terceira maior economia do estado , sendo superada pela capital (R$ 97,2
+bilhões) e por Uberlândia (R$ 37,6 bilhões). No entanto, por possuir uma população predominantemente operária, o município é muito
+dependente da capital, especialmente no que se refere a prestação de serviços.
+
+Com um IDH de 0,756 (em 2010), considerado alto na classificação do PNUD, Contagem aparece na 31ª posição quando comparado a
+outros municípios do estado. Segundo o Censo de 2010, a renda per capita do município  de R$ 782,44, o que o colocou em quinto lugar
+da RMBH. Esse valor corresponde a 47% da renda per capita de Nova Lima, o primeiro da região nesse quesito; esse município foi
+ocupado, em sua área conurbada com Belo Horizonte, por classe média/ alta que migrou da zona sul da capital.
+
+A implantação de extensas áreas para atividades econômicas em Contagem se baseia no sistema de articulação viária com os demais
+municípios da RMBH e com outras regiões do país, especialmente por meio das rodovias BR 381/261 e BR 040 que se conectam dentro
+de seu território através da Via Expressa de Contagem e, no limite com Belo Horizonte, do Anel Rodoviário.
+
+O principal eixo viário urbano é a Av. João César de Oliveira, que articula o antigo distrito industrial - Cidade Industrial Juventino Dias - ao
+centro histórico na Sede Municipal, atravessando a região denominada Eldorado, onde se encontra a principal centralidade do município.
+Entre essas regiões está o Centro Industrial de Contagem (CINCO), implantado pelo próprio município na década de 1970. No limite desse
+centro industrial, a Av. João César de Oliveira faz sua interseção com a Via Expressa (Via Urbana Leste-Oeste - VULO), conectando o
+eixo estruturante urbano com o sistema viário regional. Sob influência direta dessa área, com alta acessibilidade devido ao sistema viário e
+de transporte, há uma intensa ocupação por população de baixa renda em bairros populares, vilas e favelas, com urbanização e
+saneamento precários. Esse conjunto forma a unidade territorial denominada Unidade de Planejamento UP Perobas, com cerca de 20 mil
+moradores. A renda média dos responsáveis pelos domicílios era de 1,46 salários mínimos, segundo o censo de 2010, e seu IDH-M, de 0,
+690. O centro histórico do município, com espaços públicos e equipamentos marcantes de sua história, demanda ações integradas para
+sua recuperação e preservação. A região em estudo, de importância vital para o município, devido ao seu caráter central, histórico,
+estrutural e função social, encontra-se subutilizada, com terrenos ociosos, galpões industriais sem utilização. Desenvolver essa  nova
+centralidade, tendo o sistema de transporte público e não motorizado como instrumento de indução do desenvolvimento, permitindo o
+acesso das populações vulneráveis que aí habitam aos equipamentos e serviços públicos é o principal objetivo deste programa. A
+melhoria da mobilidade, pela inserção de caminhamentos e rotas para bicicletas na área do projeto, possibilitará a acessibilidade a outras
+regiões do território para trabalho, estudo, serviços e lazer.
+
+Medidas administrativas possibilitarão a oferta de alternativas no eixo da Av. João César de Oliveira, no CINCO, para implantação de
+atividades residencial, de comércio e serviços, hoje restritas ao uso industrial, visando nova centralidade. A urbanização das áreas
+habitacionais do Perobas possibilitará melhoria da sua articulação interna, com o entorno e com o sistema de mobilidade. Precedidos de
+um plano global, os projetos deverão se desenvolver integradamente, contemplando especialmente as questões ambientais e sanitárias,
+de mobilidade interna e de espaços públicos, de equipamentos sociais, de educação e saúde. A participação dos moradores será
+fundamental, desde o início do processo, condição básica para a eficácia dos projetos; a melhoria das habitações terá um foco especial a
+se desenvolver por meio de alternativas e iniciativas tanto do poder público quanto dos próprios moradores.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+(i) Solução Proposta - A solução proposta para os problemas apontados no diagnóstico, a fim de desenvolver uma nova centralidade plural
+e inclusiva na região, atualmente subutilizada e em localização privilegiada, passa pelas seguintes ações:
+
+- Implantação e recuperação de equipamentos públicos;
+
+- Construção e melhoria de habitações em áreas de interesse social;
+
+- Regularização fundiária;
+
+- Urbanização do antigo Centro Industrial de Contagem (CINCO);
+
+- Requalificação do sistema de mobilidade, incluindo vias, sinalização, calçadas, abrigos do sistema de transporte público;
+
+- Ampliação da conectividade para o sistema de mobilidade não motorizado e transporte público - incluindo rotas de caminhabilidade,
+cicloviárias e vias complementares para o Sistema Integrado de Mobilidade (SIM).
+
+- Requalificação dos sistemas de micro e macrodrenagem na área de intervenção; e
+
+- Implementação de ações de fortalecimento institucional com vistas à melhoria dos serviços de atendimento  população.
+
+(ii) Resultados esperados: Como resultados, espera-se:
+
+
+Página: 3
+
+- Requalificação urbana do Centro industrial de Contagem, provendo equipamentos públicos e criando condições para instalação de
+atividades de comércio/ serviço e habitação;
+
+- Atração de investimentos privados no eixo de integração da Av. João César de Oliveira e suas imediações, possibilitando o
+fortalecimento da região como importante centralidade a partir do polo de atração de atividades urbanas entre os centros do Eldorado e da
+Sede;
+
+- O adensamento populacional ao longo dos eixos viários e áreas adjacentes, visando melhor aproveitamento da infraestrutura existente e
+implementação de estratégias urbanas integradas, como Desenvolvimento Orientado ao Transporte (DOT);
+
+- Requalificação urbana do complexo Perobas, incluindo melhorias habitacionais, melhorias nas condições de mobilidade, na infraestrutura
+de saneamento e em equipamentos urbanos, implantação de áreas de convívio, adequação do ordenamento urbano, possibilitando que a
+população residente permaneça na área com maior qualidade habitacional e acessibilidade adequada ao sistema de mobilidade;
+
+- Melhoria das condições de acessibilidade, considerando diversidades de gênero, condições físicas e sociais, com as ações de
+implantação do SIM, que inclui a construção de acessos e abrigos seguros em pontos de embarque/desembarque de passageiros, de
+construção e manutenção de dispositivos de drenagem nas pistas e calçadas dos eixos de transporte e adoção de sistemas tecnológicos
+para qualificação do serviço de transporte público, integrando diferentes modos em uma única plataforma;
+
+- Recuperação dos espaços e equipamentos públicos de cultura e lazer do centro histórico e sua integração por meio da melhoria da
+acessibilidade.
+
+(iii) Sustentabilidade: A sustentabilidade do projeto funda-se em três pilares principais:
+
+- O envolvimento e participação da população e capacitação de suas lideranças para que o sentimento de pertencimento de seu território e
+de seus equipamentos prevaleça e permaneça após as ações diretas do programa;
+
+- A melhoria da capacidade de gestão dos agentes públicos a ser implantada ao longo de todo o processo, envolvendo os órgãos da
+administração da área urbana, ambiental e de mobilidade; e
+
+- A garantia da manutenção de toda a infraestrutura e de equipamentos implantados pelo programa mediante o treinamento de pessoal,
+sistema operacional e de recursos a serem alocados nos orçamentos anuais da administração municipal.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+Orientac&#807;o&#771;es Estratégicas - Contrapartida - Taxa de Ca&#770;mbio
+
+O programa proposto está coerente com os princípios e objetivos da política urbana do Plano Diretor Municipal (Lei Complementar nº 248,
+de 11/01/2018), da política habitacional definida no Sistema Municipal de Habitação de Interesse Social (SIMHIS) (Lei Complementar nº
+038, de 10/07/2007), do Sistema Municipal de Cultura (LEI Nº 4647, de 27/12/2013) do Plano de Mobilidade Urbana de Contagem (Lei 4.
+830, de 30/05/2016), da Política Municipal de Saneamento Básico (LEI nº 4377, de 14/07/ 2010) e da Política Municipal do Meio Ambiente
+(Lei nº 3789, de 23/07/2003).
+
+O Plano Diretor encontra-se em processo de revisão por meio da IV Conferência Municipal de Política Urbana, que está em sua fase final
+de apresentação e votação das propostas para alteração da lei atual. Um dos pontos de destaque da revisão é voltado para a área de
+atuação do programa.
+
+Para as políticas acima a administração municipal possui órgãos da administração direta ou indireta para sua gestão. São as secretarias
+municipais de Desenvolvimento Urbano e Habitação (SMDUH), de Cultura (SECULT), de Meio Ambiente e Desenvolvimento Sustentável (
+SEMAD), de Obras e serviços Urbanos (SEMOBS) e a Autarquia Municipal de Trânsito e Transportes de Contagem (TransCon). A
+participação e o controle social se dão, entre outros meios, por intermédio dos conselhos municipais com representação da sociedade civil
+: Conselho Municipal de Política Urbana (COMPUR), Conselho Municipal de Habitação (CMH), Conselho Municipal de Política Cultural (
+COMPAC), Conselho Municipal de Transporte (CMT), Conselho Municipal de Saneamento Básico (CMSB) e Conselho Municipal Meio
+Ambiente (COMAC).
+
+O Município possui delegação do Estado de Minas Gerais para promover todas as etapas de licenciamento de empreendimentos no
+âmbito do município.
+
+Os componentes do programa inserem-se no Plano Plurianual do Município de Contagem para o período 2022 a 2025 (Lei nº 5203, de 23/
+12/2022), em diversas ações previstas nas secretarias diretamente envolvidas: SMDUH 001, SMDUH 004, FUMHIS 006, FUMHIS 001,
+FUMHIS 002, FUMHIS 003, FUMHIS 005, SEMAD 001, SEMAD 003, FMMA 002, FMMA 003, SECULT 001, SECULT 003, FUMPAC 001,
+TRANSCON 001, TRANSCON 004, SEMOBS 001, SEMOBS 003, SEMOBS 004, SEMOBS 005, SEMOBS 006 e FMSA 001.
+
+A fonte de recursos da contrapartida será o Tesouro do Município, considerando as receitas previstas nos artigos 156, 158 e 159, inciso I,
+(b), da Constituição Federal, nos Termos da Resolução da COFIEX nº 03, de 29/05/2019 e outras fontes que eventualmente se
+consolidem, até a formalização do presente financiamento, ou ao longo da implantação do Programa.
+
+(cid:10)
+
+
+Página: 4
+
+A taxa de Câmbio considerada para todos os cálculos dos custos e do orçamento final é a taxa de câmbio fixada pelo Banco Central do
+Brasil (Cotações de Fechamento Ptax do dólar do Estados Unidos da América, para venda), de US$1,00=R$ 5,0088, publicada para o dia
+09/03/22.
+
+2. Projeto
+
+### 2.1. Título
+
+
+PROGRAMA DE REQUALIFICAÇÃO E DESENVOLVIMENTO URBANO DE CONTAGEM
+
+
+### 2.2. Título Abreviado
+
+PROURBE
+
+
+### 2.3. Mutuário
+
+
+Município de Contagem - MG
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+(i)Objetivo Geral
+
+Promover o desenvolvimento urbano sustentável e inclusivo do município por meio da requalificação urbanística das centralidades
+existentes e da formação de novas centralidades.
+
+(ii) Objetivos Específicos
+
+- Promover a integração das áreas lindeiras à Av. João César de Oliveira, entre a Sede, CINCO e Eldorado, possibilitando maior
+intensidade de usos diversificados - serviços, comércio e moradias - ao longo desse eixo estruturador;
+
+- Requalificar o centro histórico da sede municipal;
+
+- Melhorar as condições de acessibilidade e de mobilidade ao longo dos corredores do SIM e Incentivar a mobilidade ativa e a integração
+com os corredores do SIM, incluindo suas conexões com o centro histórico;
+
+- Melhorar as condições habitacionais, ambientais e sanitárias da população residente às margens da Via Expressa e do eixo da Av. João
+César de Oliveira, cujos bairros e vilas constituem o complexo habitacional da região do Perobas;
+
+- Melhorar o atendimento à população mediante a ampliação da capacidade de gestão dos órgãos públicos municipais envolvidos no
+programa, incluindo a modernização do sistema de gerenciamento e licenciamento ambiental e urbanístico. Desenvolver formas de
+participação das comunidades envolvidas no programa em todas as suas etapas;
+
+- Dotar o município de uma plataforma integrada de mobilidade, adotando soluções tecnológicas que permitam a migração para o modelo
+mobilidade como serviço - MaaS
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+Descrição
+Implantação de rotas de caminhabilidade
+Implantação de rotas cicloviárias
+Execução das obras de Requalificação
+urbanística das vias complementares do SIM
+Implantação de novas vias
+Urbanização em Áreas de Interesse Social - AIS Domicílios
+
+Fórmula de Cálculo Unidade de Medida
+km de rota implantada km
+km de rota implantada km
+km
+km de vias
+requalificadas
+km de vias novas
+
+km
+domicílios
+
+Construção de Unidades Habitacionais
+
+Melhorias Habitacionais em Área de Interesse
+Social (AIS)
+Regularização fundiária em Áreas de Interesse
+Social - AIS
+Recuperação e Adequação da infraestrutura de
+transportes na área do Programa (sinalização de
+vias, abrigos, calçadas, etc.)
+Recuperação da infraestrutura urbana crítica da
+macro e microdrenagem nas áreas de influência
+do SIM e do Complexo do Perobas
+Trabalho Técnico Social
+
+
+### 2.7. Projeto/Componentes
+
+
+beneficiados
+Unidades
+habitacionais a
+construir
+Domicílios
+beneficiados
+Domicílios
+beneficiados
+km de vias
+recuperadas/
+adequadas
+Metros lineares de
+vias
+
+Unidades
+habitacionais
+
+Domicílios
+
+Domicílios
+
+km
+
+m
+
+Linha de Base
+0,00
+2,00
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+Meta
+120,00
+100,00
+55,00
+
+2,00
+3.130,00
+
+530,00
+
+620,00
+
+4.690,00
+
+20,00
+
+0,00
+
+10.000,00
+
+Famílias beneficiadas Famílias
+
+0,00
+
+1.150,00
+
+
+Componentes
+C - MELHORIAS  URBANÍSTICAS E AMBIENTAIS
+S - OBRAS E PROJETOS
+P - Intervenções urbanas incluindo Mobilidade Urbana
+P - Intervenções em Urbanização
+P - Estudos e Projetos
+S - REGULARIZAÇÃO FUNDIÁRIA DO COMPLEXO DO PEROBAS
+P - Regularização fundiária Plena em áreas de interesse social - vilas, favelas e loteamentos públicos do
+Complexo Perobas
+P - Elaboração do Plano Diretor de Reassentamento (PDR)
+P - Elaboração do Plano Específico de Reassentamento (PER)
+S - AÇÕES DE COMUNICAÇÃO DO PROGRAMA
+P - Ações de Comunicação do Programa
+S - RECUPERAÇÃO DA INFRAESTRUTURA URBANA NA ÁREA DO PROGRAMA
+P - Recuperação e Adequação da infraestrutura urbana na área de influência do SIM (sinalização de vias,
+abrigos, calçadas, etc.)
+P - Recuperação e adequação da infraestrutura urbana crítica da macro e microdrenagem nas áreas de
+influência do SIM e do Complexo Perobas
+S - SUPERVISÃO DE OBRAS E ATO (AJUSTES TÉCNICOS DE OBRAS)
+P - Supervisão de obras e ATO (Ajustes Técnicos de Obras)
+S - GESTÃO PARTICIPATIVA NAS POLÍTICAS DE DESENVOLVIMENTO URBANO ? TRABALHO TÉCNICO
+SOCIAL
+P - Gestão Participativa nas políticas de desenvolvimento urbano ? Trabalho Técnico Social
+C - SUSTENTABILIDADE SOCIOAMBIENTAL, FORTALECIMENTO INSTITUCIONAL E  INOVAÇÃO
+TECNOLÓGICA
+S - SUSTENTABILIDADE SOCIOAMBIENTAL
+P - Ações de inclusão social
+P - Gestão Socioambiental
+P - Plano de Comunicação Social do Programa (PCS)
+S - FORTALECIMENTO INSTITUCIONAL
+P - Elaboração do Plano de Fortalecimento Institucional
+P - Implementação do Plano de Fortalecimento Institucional
+S - ACELERAÇÃO DA INOVAÇÃO TECNOLÓGICA
+P - Elaboração do Plano de Aceleração da Inovação Tecnológica
+P - Implementação das ações inerentes ao modelo MaaS
+P - Aquisição de bens para a instalação da infraestrutura (equipamento, softwares e mobiliários).
+C - ADMINISTRAÇÃO, AUDITORIA, AVALIAÇÃO E MONITORAMENTO -
+S - APOIO AO GERENCIAMENTO
+P - Apoio ao Gerenciamento
+S - AVALIAÇÃO E MONITORAMENTO
+P - Avaliação Intermediária
+P - Avaliação Econômica Ex-Post
+P - Avaliação do Reassentamento
+P - Auditoria Externa Independente
+P - Avaliação Final PCR
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 6
+
+Valor(US$)
+67.581.000,00
+62.302.020,00
+15.860.000,00
+43.202.020,00
+3.240.000,00
+1.260.000,00
+1.160.000,00
+
+50.000,00
+50.000,00
+578.980,00
+578.980,00
+770.000,00
+385.000,00
+
+385.000,00
+
+1.900.000,00
+1.900.000,00
+770.000,00
+
+770.000,00
+8.069.000,00
+
+2.734.000,00
+552.000,00
+2.082.000,00
+100.000,00
+3.735.000,00
+100.000,00
+3.635.000,00
+1.600.000,00
+300.000,00
+300.000,00
+1.000.000,00
+4.350.000,00
+4.000.000,00
+4.000.000,00
+350.000,00
+20.000,00
+20.000,00
+80.000,00
+190.000,00
+40.000,00
+80.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - MELHORIAS  URBANÍSTICAS E AMBIENTAIS
+O Componente 1- MELHORIAS  URBANÍSTICAS e AMBIENTAIS abriga as obras de infraestrutura urbana, incluindo aí as de
+mobilidade urbana nas áreas de influência do Programa, bem como aquelas localizadas na área denominada Complexo Perobas
+destinadas à requalificação urbanística e habitacional e à recuperação da infraestrutura cri&#769;tica de macro e microdrenagem ,
+além das ações de regularização fundiária dessa área.
+Este componente contém os produtos correspondentes:
+- às obras;
+- à regularização fundiária; e
+- à Recuperação de Infraestrutura Urbana na Área do Programa
+Os investimentos deste componente correspondem a 84,48% do total do Programa, equivalentes a US$67,581 milhões, sendo US
+$52,590 milhões fonte BID e US$14,990  milhões fonte CPL.
+
+S - OBRAS E PROJETOS
+Os investimentos previstos para este subcomponente correspondem a cerca de 77,88% do total do Programa, equivalente a US$
+62,302 milhões, sendo US$48,256 milhões, BID, e US$14,045 milhões, CPL
+
+P - Intervenções urbanas incluindo Mobilidade Urbana
+a)Implantação de 120 km de rotas de caminhabilidade: Estima-se que esses 120 km correspondem em torno de 20% do total da
+rede de caminhabilidade planejada;
+
+
+Página: 7
+
+b)Implantação de 100 km de rotas cicloviárias: Estima-se que esses 100 km correspondem em torno de 30% do total da rede
+cicloviária planejada;
+c)Execução de obras de Requalificação Urbanística de 55 km de vias complementares do SIM (Sistema Integrado de Mobilidade
+de Contagem): São vias que se conectam com a rede viária do SIM e que serão requalificadas por meio de intervenções do tipo
+Rua Completa, em sua maioria;
+d)Implantação de 2 km de novas vias: São trechos curtos de vias que implantados permitirão melhorar o fluxo de veículos e,
+principalmente, a segurança dos pedestres;
+e)Execução das obras de requalificação da infraestrutura urbana do Centro Histórico, cerca de 8 km: serão executadas obras de
+acréscimo de área para tratamento urbanístico junto às calçadas e praças, por meio de melhorias geométricas e de medidas de
+traffic calming, implantação de novo sistema de iluminação, paisagismo, dentre outras intervenções;
+Os resultados previstos, ale&#769;m dos benefi&#769;cios socioambientais, são que cerca de 50% das  rotas cicloviárias
+planejadas estarão executadas em formato de rede, ou seja, rotas integradas entre si; também parte considerável da rede de
+caminhabilidade estará executada, as vias complementares àquelas que integram o sistema SIM passarão por intervenções de
+requalificação do tipo Rua Completa e o Centro Histórico de Contagem será contemplado com uma serie de melhorias urbanísticas
+, como a criação de espaço na via para o modo ativo, correções geométricas em diversas interseções, racionalizando o espaço
+para veículos e melhorando a segurança e conforto para o pedestre, principalmente, como também contará com um circuito
+privilegiando o modo ativo (a pé e bicicleta) que integrará todos os equipamentos históricos e culturais do Núcleo Histórico da
+cidade.
+Os investimentos previstos para este produto correspondem a cerca de 19,83% do total do Programa, equivalente a US$ 15,860
+milhoes, sendo US$14,460 milhoes, BID, e US$1,400 milhão, CPL.
+
+P - Intervenções em Urbanização
+a)Urbanização de parques, praças e corredor de transporte: serão realizadas intervenções urbanísticas lindeiras à Av. João Cesar,
+avenida que compõe o corredor norte-sul, principal corredor de transporte do SIM, e que atravessa o principal centro comercial de
+Contagem. As intervenções consistem em revitalizar calçadas, criar ciclovias, melhorar a iluminação, instalar equipamentos
+urbanos, implantar paisagismo, dentre outras; Implantação de um parque linear na Praça das Jabuticabas, execução de obras de
+melhoramento urbanístico no Parque do Beatriz e na Praça Tancredo Neves.
+b)Urbanização em Áreas de Interesse Social do Complexo do Perobas: as obras de infraestrutura (sistema viário e saneamento
+básico), melhoria dos espaços públicos, acessibilidade e/ou mobilidade, entre outros, devem ser propostas para as áreas ocupadas
+por população de baixa renda, sobretudo vilas e favelas, de acordo com as necessidades apontadas no Plano de Regularização
+Fundiária e no Plano Urbanístico do Complexo Perobas, objetivando a melhoria da vida cotidiana de todos os cidadãos que
+residem ou utilizam a região.  No mapa do ANEXO 01  encontram-se demarcadas as referidas AIS;
+c)Implantação de jardins de chuva em espaços públicos com a finalidade de contribuir com o escoamento da água da chuva,
+permitindo que a água seja filtrada pela vegetação e se infiltre no solo por meio de camadas minerais, auxiliando na recarga do
+lençol freático, aumento da biodiversidade, melhora do microclima local e da qualidade do ar e implantação de vagas verdes que
+são soluções ambientais onde os espaços de vagas pavimentadas destinadas a veículos nas vias e estacionamentos são
+destinados a áreas permeáveis e vegetadas, contribuindo para a drenagem urbana sustentável, manutenção do ciclo hídrico
+natural, melhoria do microclima através da redução do efeito de ilha de calor, melhoria da paisagem da cidade com promoção da
+biodiversidade, recreação, saúde pública e mental. Esses dispositivos serão implantados no circuito do centro histórico e na
+urbanização das praças e parques mencionados no item (ii) a);
+d)Implantação do Centro de Controle e Monitoramento Operacional, integrando as ações de Desenvolvimento Urbano, de
+Mobilidade e Ambientais. As novas instalações contarão com cerca de 4.000 m2 de a&#769;rea construída.
+e)Requalificação urbanística do Complexo  Perobas e Construção de Unidades Habitacionais: A proposta é promover a
+urbanização das vilas localizadas dentro do perímetro definido para o chamado ?Complexo Perobas? com o mínimo de remoções
+possível, de modo a não desestruturar a vida cotidiana e das redes de convivência local. Neste mesmo sentido, deve-se buscar
+locais internos ou muito próximos para a implantação das unidades habitacionais de reassentamento. Baseando-se nas últimas
+experiências em Contagem, foi estimado em 15% do total de domicílios de cada vila a ser objeto de obras, no entanto, a
+expectativa é reduzir ao estritamente necessário para implantar infraestrutura básica para atender satisfatoriamente à comunidade
+e a obter espaço público de qualidade.  Para a escolha de local e tipologia os moradores serão envolvidos em todo o processo;
+f)Melhorias Urbanísticas e Habitacionais em Área de Interesse Social (AIS): Intenciona-se oferecer para as famílias moradoras de
+áreas de interesse social do Complexo do Perobas a possibilidade de realizar pequenas obras na residência sempre associada a
+presença de profissionais que podem auxiliar no projeto e/ou construção por meio do ATHIS (Assistência Técnica de Habitação de
+Interesse Social). Esta ação, trará efetiva mudança na vida das pessoas.
+Os investimentos previstos para este produto correspondem a cerca de 54,00% do total do Programa, equivalente a US$ 43,202
+milhoes, sendo US$31,509 milhoes; BID, e US$11,692 milhoes, CPL.
+
+P - Estudos e Projetos
+a)Elaboração de Plano Urbano e Projeto Básico para área denominada Complexo Perobas: a área do denominado Complexo
+Perobas abrange a região do entorno da confluência de dois eixos importantes do SIM, Avenida João César de Oliveira e Via
+Expressa. O Plano deve trabalhar todos os aspectos urbanos com o objetivo de promover, sobretudo, articulação interna e externa
+para todos modais, com destaque para o deslocamento a pé, além da inserção física e social das áreas de interesse social por
+meio de instrumentos que promovam a captura da mais valia, entre outros;
+b)Serviço aerofotogramétrico / levantamento planialtimétrico cadastral: serão realizados os serviços topográficos cadastrais, por
+meio de aerolevantamento por drone, das áreas do programa objeto de projetos executivos;
+c)Elaboração de projetos executivos de rede cicloviária: o programa contemplará a elaboração de 100 km de projetos executivos
+de rotas cicloviárias, em conformidade com o Plano de Mobilidade Ativa de Contagem;
+d)Elaboração de projetos executivos de rede de caminhabilidade: serão elaborados 120 km de projetos executivos de rotas de
+caminhabilidade, em conformidade com o Plano de Mobilidade Ativa de Contagem;
+
+
+Página: 8
+
+e)Elaboração de projetos executivos de unidades habitacionais: serão elaborados projetos executivos para cerca de  530 unidades
+habitacionais para o reassentamento de famílias previsto no Plano de Regularização Fundiária e no Plano Urbano Complexo
+Perobas;
+f)Elaboração de projetos urbanísticos em áreas de interesse social: serão elaborados projetos executivos
+g)Elaboração dos projetos executivos de requalificação urbana das vias complementares do SIM: são vias complementares que se
+integram aos corredores do SIM, em extensão aproximada de 55 km. Cerca de 60% dessas vias serão do tipo Rua Completa;
+h)Elaboração dos projetos executivos urbanísticos do Circuito do Centro Histórico: o circuito do centro histórico possui extensão
+aproximada de 8 km. O projeto executivo contemplará a circulação de veículos e pedestres, calçadas, pavimentação, drenagem,
+iluminação pública apropriada, paisagismo e comunicação visual. O projeto do circuito histórico priorizará a mobilidade ativa;
+i)Elaboração dos projetos executivos do Centro de Controle e Monitoramento Operacional: prevê-se a execução de um Centro de
+Controle e Monitoramento, integrando as ações de Desenvolvimento Urbano, de Mobilidade e Ambientais. As instalações contarão
+com cerca de 4.000 m2 de a&#769;rea construída;
+j)Projetos de Tratamento Urbanístico (urbanização lindeira da Av. João Cesar, Parque Linear na Praça das Jabuticabas,  Parque
+do Beatriz, Praça Tancredo Neves): são projetos com característica de revitalização/requalificação dessas áreas.
+Os investimentos previstos para este produto correspondem a cerca de 4,05% do total do Programa, equivalente a US$ 3,240
+milhoes, sendo US$2,287 milhoes, BID, e US$952.970 milhoes, CPL.
+
+S - REGULARIZAÇÃO FUNDIÁRIA DO COMPLEXO DO PEROBAS
+Os investimentos em ações necessárias à Regularização Fundiária do Complexo do Perobas correspondem a cerca de 1,58% do
+total do Programa, equivalente a US$1,260 milhão, sendo US$1,008 milhão, BID, e US$252.000, CPL.
+
+P - Regularização fundiária Plena em áreas de interesse social - vilas, favelas e loteamentos públicos do Complexo
+Perobas
+Com o objetivo de legalizar a permanência de moradores das vilas, favelas e loteamentos públicos e garantir o direito à moradia,
+serão elaborados planos que contemplem a regularização urbanística e jurídica do loteamento, recuperação ambiental,
+urbanização e integração do assentamento à cidade e melhoria das condições sociais, econômicas, de organização e mobilização
+dos moradores, respeitando as demandas e características de cada local garantidas pelo amplo envolvimento da população.
+Serão contratadas consultorias para elaboração de estudos e planos voltados para a sustentabilidade do Programa e aquisição de
+bens necessários as acoes de Participação e Desenvolvimento Comunitário, Comunicação, Inserção Social; Geração de Ocupação
+Produtiva e Renda, de Educacao Sanitária Ambiental, alem de questões relacionadas a Regularização Fundiária. Neste contexto,
+essas acoes serao consubstanciadas em alguns Planos, dentre eles o Plano Diretor de Reassentamento (PDR) e Plano Específico
+de Reassentamento (PER).
+Os investimentos em Regularização Fundiária correspondem a cerca de 1,45% do total do Programa, equivalente a US$1,160
+milhão, sendo US$928.000, BID, e US$232.000, CPL.
+
+P - Elaboração do Plano Diretor de Reassentamento (PDR)
+O PDR estabelece os mecanismos que possibilitem: (i) a reposição da moradia em condições iguais ou melhores que a original; e (
+ii) a minimização dos efeitos socioeconômicos adversos e a potencialização de oportunidades favoráveis geradas pela perda física
+(imóvel) e deslocamento das atividades econômicas, evitando geração de passivo social manifesto no desaparecimento de postos
+de trabalho e geração de renda.
+Os investimentos neste produto correspondem a cerca de 0,06% do total do Programa, equivalente a US$50.000, sendo US$40.
+000, BID, e US$10.000, CPL.
+
+P - Elaboração do Plano Específico de Reassentamento (PER)
+O PER estabelece os critérios e parâmetros para a implementação dos mecanismos estabelecidos no PDR.
+Os investimentos neste produto correspondem a cerca de 0,06% do total do Programa, equivalente a US$50.000, sendo US$40.
+000, BID, e US$10.000, CPL
+
+S - AÇÕES DE COMUNICAÇÃO DO PROGRAMA
+Será contratada empresa de comunicação para apoiar a UGP nas ações de comunicação e divulgação do Programa, utilizando-se
+das mídias disponíveis e por meio de site próprio. Esse subcomponente atuará durante os cinco anos do programa.
+O valor estimado para Ações de Comunicação do Programa e&#769; de US$578.980, correspondente a aproximadamente 0,72%
+do total do Programa, fonte BID.
+
+P - Ações de Comunicação do Programa
+Será contratada empresa de comunicação para apoiar a UGP nas ações de comunicação e divulgação do Programa, utilizando-se
+das mídias disponíveis e por meio de site próprio. Esse subcomponente atuará durante os cinco anos do programa.
+
+S - RECUPERAÇÃO DA INFRAESTRUTURA URBANA NA ÁREA DO PROGRAMA
+Os investimentos em Recuperação da Infraestrutura Urbana na área do programa correspondem a cerca de 0,96% do total do
+Programa, equivalente a US$770 mil, sendo US$77.000, BID, e US$693.000, CPL.
+
+P - Recuperação e Adequação da infraestrutura urbana na área de influência do SIM (sinalização de vias, abrigos,
+calçadas, etc.)
+Serão objeto de Recuperação e Adequação os diversos equipamentos urbanos e dispositivos de sinalização existentes ao longo
+dos principais corredores secundários de transporte público que acessam os corredores do SIM.
+Os investimentos neste produto correspondem a cerca de 0,48% do total do Programa, equivalente a US$385.000, sendo US$38.
+500, BID, e US$346.500, CPL.
+
+
+Página: 9
+
+P - Recuperação e adequação da infraestrutura urbana crítica da macro e microdrenagem nas áreas de influência do
+SIM e do Complexo Perobas
+Os servic&#807;os correspondem a&#768; recuperac&#807;a&#771;o, limpeza, desobstrução e desassoreamento de canais e
+sistemas de drenagem urbana nessas áreas, assegurando a funcionalidade dos sistemas existentes. O objetivo principal e&#769; a
+correção da problema&#769;tica decorrente do assoreamento e obstrução de pontos específicos de canais e redes de drenagem,
+a fim de prevenir o seu transbordamento e alagamento do entorno, fator esse que enseja no aumento dos índices de doenças de
+veiculação hídrica e outros transtornos.
+Os investimentos neste produto correspondem a cerca de 0,48% do total do Programa, equivalente a US$385.000, sendo US$38.
+500, BID, e US$346.500, CPL.
+
+S - SUPERVISÃO DE OBRAS E ATO (AJUSTES TÉCNICOS DE OBRAS)
+Os trabalhos de Supervisão e Ajustes Técnicos de Obras compreendem acompanhamento técnico, análise e aprovação técnica,
+planejamento e controle tecnológico das obras e serviços realizados. Para esses serviços serão contratadas consultorias para
+apoio à Unidade de Gestão do Programa - UGP.
+O valor estimado para a Supervisa&#771;o de Obras e Acompanhamento Te&#769;cnico de Obras (ATO) e&#769; de US$1,900
+milhão, correspondente a aproximadamente 2,38% do total do Programa, sendo 100% fonte BID.
+
+P - Supervisão de obras e ATO (Ajustes Técnicos de Obras)
+Os trabalhos de Supervisão e Ajustes Técnicos de Obras compreendem acompanhamento técnico, análise e aprovação técnica,
+planejamento e controle tecnológico das obras e serviços realizados. Para esses serviços serão contratadas consultorias para
+apoio à Unidade de Gestão do Programa - UGP.
+O valor estimado para a Supervisa&#771;o de Obras e Acompanhamento Te&#769;cnico de Obras (ATO) e&#769; de US$1,900
+milhão, correspondente a aproximadamente 2,38% do total do Programa, sendo 100% fonte BID.
+
+S - GESTÃO PARTICIPATIVA NAS POLÍTICAS DE DESENVOLVIMENTO URBANO ? TRABALHO TÉCNICO SOCIAL
+Será contratada empresa de consultoria para apoiar a UGP na implementação do Plano Específico de Reassentamento e em
+conformidade com as premissas do Plano de Sustentabilidade Social e Ambiental ? PSSA,
+O valor estimado desse subcomponente e&#769; de US$770.000,00, correspondente a aproximadamente 0,96% do total do
+Programa, fonte BID.
+
+P - Gestão Participativa nas políticas de desenvolvimento urbano ? Trabalho Técnico Social
+Será contratada empresa de consultoria para apoiar a UGP na implementação do Plano Específico de Reassentamento e em
+conformidade com as premissas do Plano de Sustentabilidade Social e Ambiental ? PSSA,
+O valor estimado desse subcomponente e&#769; de US$770.000,00, correspondente a aproximadamente 0,96% do total do
+Programa, fonte BID.
+
+C - SUSTENTABILIDADE SOCIOAMBIENTAL, FORTALECIMENTO INSTITUCIONAL E  INOVAÇÃO TECNOLÓGICA
+Este componente contempla os seguintes subcomponentes:
+S - Sustentabilidade Socioambiental;
+S - Fortalecimento Institucional; e
+S - Aceleração da Inovação Tecnológica.
+Na a&#769;rea de sustentabilidade social e fortalecimento institucional, o Programa atuara&#769; com o objetivo de contribuir para
+a melhoria da capacidade operativa e de gesta&#771;o das instituições que participam da execução do Programa e,
+posteriormente, da operação e manutenc&#807;a&#771;o das obras, bem como promover a participação efetiva da comunidade no
+estabelecimento das condições necessárias para a sustentabilidade do Programa, utilizando-se de instrumento de comunicação
+social e de fomento a&#768; participação comunitária, educação ambiental e sanitária.
+O valor estimado deste componente, que corresponde a 10,09% do total do Programa, é na ordem de US$8,069 milho&#771;es,
+sendo US$7,059 milhões aportados pela fonte BID e US$1,009 milhão pela CPL.
+
+S - SUSTENTABILIDADE SOCIOAMBIENTAL
+Os investimentos estimados para este subcomponente, correspondentes a 3,42% do total do Programa, sera&#771;o,
+aproximadamente, US$2,734milho&#771;es, sendo US$1,984 milhão da fonte BID e US$749.100, de contrapartida local.
+
+P - Ações de inclusão social
+Implantação e Operação do Observatório Municipal de Inclusão Social na Mobilidade Urbana, Estudo das condições de mobilidade
+da população da área de reassentamento, Ações de promoção da autonomia econômica da população da área de reassentamento
+e Ações de igualdade de gênero na mobilidade urbana.
+Os investimentos em Ações de Inclusão Social  correspondem a cerca de 0,69% do total do Programa, equivalente a US$552.000,
+00, sendo US$149.700, BID, e US$402.300, CPL.
+
+P - Gestão Socioambiental
+Gestão
+?Desenvolvimento e implantação de ações de sustentabilidade socioambiental durante o período do Programa, tais como:
+Programa de Educação Socioambiental, Ações de mobilização Socioambiental, Ações de Informação, Mobilização e Educação
+Ambiental e Sanitária/Programa de Ampliação de Coleta Seletiva. Em linhas gerais, essas ações visam fazer com que a população
+contemplada com investimentos do Programa reconheça o esforço feito com recursos públicos e, com isso, adote práticas de
+responsabilidade socioambiental no sentido de dar sustentabilidade aos investimentos feitos.
+?Elaboração Plano de Sustentabilidade Socioambiental (PSSA);
+
+
+Página: 10
+
+?Elaboração e Implantação do Sistema Municipal de Informações sobre Recursos Hídricos e Saneamento Básico;
+?Elaboração do Plano Municipal de Resíduos Sólidos;
+?Atualização do Inventário e Planos referentes às Ações Climáticas;
+?Elaboração do Plano de Gestão Ambiental (PGAS), outros planos e ações ( Plano Municipal de Educação Ambiental e Plano
+Municipal de Arborização Urbana (PMAU));
+Os investimentos em Gestão Socioambiental correspondem a cerca de 2,60% do total do Programa, equivalente a US$2,082
+milhões, sendo US$1,735 milhão, BID, e US$346.800, CPL.
+
+P - Plano de Comunicação Social do Programa (PCS)
+
+A elaboração do Plano de Comunicação Social do Programa (PCS) corresponde a  cerca de 0,13% do total do Programa,
+equivalente a US$100.000, fonte BID.
+
+S - FORTALECIMENTO INSTITUCIONAL
+
+O fortalecimento institucional visa, por meio da contratação de consultorias, serviços e aquisições de bens, otimizar a capacidade
+operacional e de gestão das entidades envolvidas, direta ou indiretamente, na consecução dos objetivos do Programa, na
+sustentabilidade das ações desenvolvidas e na manutenção das obras e sistemas implantados.
+Os investimentos estimados para este subcomponente, correspondem a 4,67% do total do Programa, serão, aproximadamente, US
+$3,735 milhões, fonte BID.
+
+P - Elaboração do Plano de Fortalecimento Institucional
+Trata-se do instrumento que irá estabelecer onde, quanto e como  serão alocados os recursos para o fortalecimento das
+instituições envolvidas no Programa.
+A elaboração do Plano de Fortalecimento Institucional corresponde a  cerca de 0,13% do total do Programa, equivalente a US$100.
+000, fonte BID.
+
+P - Implementação do Plano de Fortalecimento Institucional
+
+As ações de Fortalecimento Institucional serão aplicadas na Autarquia Municipal de Trânsito e Transporte de Contagem ?
+TransCon e nas Secretarias Municipais de Desenvolvimento Urbano e Habitação, Meio Ambiente e Desenvolvimento Sustentável,
+de Cultura, de Trabalho e Geração de Renda e de Desenvolvimento Social e Segurança Alimentar.
+A implementação do Plano Fortalecimento Institucional corresponde a  cerca de 4,54% do total do Programa, equivalente a US$3,
+635 milhões, fonte BID.
+
+S - ACELERAÇÃO DA INOVAÇÃO TECNOLÓGICA
+
+As ações serão de modernização da gestão pública a partir do treinamento do talento humano para desenvolvimento de novas
+disciplinas, habilidades em ciência de dados, análise de dados, segurança cibernética etc., bem como dotar o Município de
+hardware e software com vistas à melhoria contínua dos serviços prestados. Desse modo, haverá maior confiabilidade e segurança
+no uso de plataformas digitais.
+Os investimentos estimados para este produto, correspondentes a 2,00% do total do Programa, serão de, aproximadamente, US$1
+,600 milhão, sendo US$1,340 milhão da fonte BID e US$260.000, de contrapartida local.
+
+P - Elaboração do Plano de Aceleração da Inovação Tecnológica
+Elaboração do Plano de Aceleração da Inovação Tecnológica: destinado a gerenciar serviços relacionados ao Desenvolvimento
+Urbano, introduzindo a cultura da inovação tecnológica e da transformação digital, ao capacitar cidadãos e funcionários, visando a
+confiabilidade e o desenvolvimento de plataformas digitais mais amigáveis
+A elaboração do Plano de Aceleração da Inovação Tecnológica corresponde a  cerca de 0,38% do total do Programa, equivalente
+a US$300.000, sendo US$240.000, BID, e US$60.000, CPL
+
+P - Implementação das ações inerentes ao modelo MaaS
+Implementação das ações inerentes ao modelo MaaS ? mobilidade como serviço, ou seja, colocar o passageiro no centro das
+atenções, oferecendo um melhor serviço e uma melhor experiência de forma personalizada e integrada ao criar interfaces que
+ofereçam acesso aos serviços de transporte público coletivo e transporte público individual disponíveis na cidade de Contagem,
+cujo pagamento dos diferentes modos utilizados em uma viagem seria em uma única plataforma.
+Este produto corresponde a  cerca de 0,38% do total do Programa, equivalente a US$300.000, fonte BID.
+
+P - Aquisição de bens para a instalação da infraestrutura (equipamento, softwares e mobiliários).
+Aquisição de bens para a instalação da infraestrutura (equipamento, softwares e mobiliários).Tais recursos destinam-se à aquisição
+de equipamentos, softwares e mobiliários necessários à equipagem dos setores indicados no Plano de Aceleração Tecnológica.
+Esse produto corresponde a  cerca de 1,25% do total do Programa, equivalente a US$1,000 milhão, sendo US$800.000, BID, e US
+$200.000, CPL
+
+C - ADMINISTRAÇÃO, AUDITORIA, AVALIAÇÃO E MONITORAMENTO -
+Este Componente - Administração, Auditoria, Avaliação e Monitoramento - e&#769; composto pelos seguintes Subcomponentes: S
+- Apoio ao Gerenciamento e S - Avaliação e Monitoramento.
+
+
+Página: 11
+
+Destaca-se que o Programa contará com uma  Unidade Gestora (UGP) responsa&#769;vel pela Administrac&#807;a&#771;o Geral
+/Gesta&#771;o do Programa, ou seja, planejamento e controle, contratac&#807;o&#771;es, execuc&#807;a&#771;o fi&#769;sica e
+financeira, controle de qualidade, monitoramento e avaliac&#807;a&#771;o.
+O valor estimado deste componente
+
+S - APOIO AO GERENCIAMENTO
+
+A Prefeitura fará a Administração e a Gestão do Programa com apoio de uma empresa de Consultoria no período do Programa e  o
+valor estimado  e&#769; de US$4,000 milhões, correspondente a 5,00% do total do Programa,  sendo 100% fonte BID.
+
+P - Apoio ao Gerenciamento
+A Prefeitura fará a Administração e a Gestão do Programa com apoio de uma empresa de Consultoria no período do Programa e  o
+valor estimado  e&#769; de US$4,000 milhões, correspondente a 5,00% do total do Programa,  sendo 100% fonte BID.
+
+S - AVALIAÇÃO E MONITORAMENTO
+
+Serão contratados empresas de consultoria e consultores individuais para o monitoramento e avaliação do Projeto durante a sua
+execução, bem como para a avaliação Ex-Post, em atendimento à metodologia do BID, com o objetivo de se avaliar os resultados
+esperados.
+O valor estimado para Avaliação e Monitoramento e&#769; de US$350.000, correspondente a aproximadamente 0,44% do total do
+Programa, fonte BID.
+
+P - Avaliação Intermediária
+O valor estimado deste produto, correspondente a 0,03% do total do Programa, e&#769; de US$ 20.000, fonte BID.
+
+P - Avaliação Econômica Ex-Post
+
+O valor estimado deste produto, correspondente a 0,03% do total do Programa, e&#769; de US$ 20.000, fonte BID.
+
+P - Avaliação do Reassentamento
+
+O valor estimado deste produto, correspondente a 0,10% do total do Programa, e&#769; de US$ 80.000, fonte BID.
+
+P - Auditoria Externa Independente
+A auditoria externa será realizada uma vez ao ano, a partir do segundo ano. O valor estimado deste produto, correspondente a 0,
+24% do total do Programa, e&#769; de US$ 190.000, sendo US$4,264 milhões de fonte BID e US$1,066 milhão de CPL. ez ao ano
+
+P - Avaliação Final PCR
+
+Auditoria realizada no encerramento do Programa. O valor estimado deste produto, correspondente a 0,05% do total do Programa,
+e&#769; de US$ 40.000, fonte BID.
+
+
+Página: 12
+
+Valor
+
+% Financeiro
+
+Unidade de medida
+-
+km
+
+domicílios
+km
+
+Meta
+
+-
+285,00
+
+3.130,00
+107,00
+
+m
+
+10.000,00
+
+385.000,00
+
+Categoria de Gasto
+
+Obras
+P- Intervenções urbanas incluindo Mobilidade
+Urbana
+P- Intervenções em Urbanização
+P- Recuperação e Adequação da infraestrutura
+urbana na área de influência do SIM (sinalização
+de vias, abrigos, calçadas, etc.)
+P- Recuperação e adequação da infraestrutura
+urbana crítica da macro e microdrenagem nas
+áreas de influência do SIM e do Complexo
+Perobas
+Bens
+P- Implementação do Plano de Fortalecimento
+Institucional
+P- Aquisição de bens para a instalação da
+infraestrutura (equipamento, softwares e
+mobiliários).
+Consultoria
+P- Estudos e Projetos
+P- Elaboração do Plano Diretor de
+Reassentamento (PDR)
+P- Elaboração do Plano Específico de
+Reassentamento (PER)
+P- Supervisão de obras e ATO (Ajustes Técnicos
+de Obras)
+P- Gestão Participativa nas políticas de
+desenvolvimento urbano ? Trabalho Técnico
+Social
+P- Ações de inclusão social
+P- Gestão Socioambiental
+P- Plano de Comunicação Social do Programa (
+PCS)
+P- Elaboração do Plano de Fortalecimento
+Institucional
+P- Elaboração do Plano de Aceleração da
+Inovação Tecnológica
+P- Apoio ao Gerenciamento
+P- Avaliação Intermediária
+P- Avaliação Econômica Ex-Post
+P- Avaliação do Reassentamento
+P- Auditoria Externa Independente
+P- Avaliação Final PCR
+Serviços que Não de Consultoria
+P- Regularização fundiária Plena em áreas de
+interesse social - vilas, favelas e loteamentos
+públicos do Complexo Perobas
+P- Ações de Comunicação do Programa
+P- Implementação das ações inerentes ao modelo
+MaaS
+Total Geral
+
+-
+unidade
+
+unidade
+
+-
+unidade
+unidade
+
+unidade
+
+unidade
+
+unidade
+
+unidade
+unidade
+unidade
+
+unidade
+
+plano
+
+unidade
+unidade
+unidade
+unidade
+unidade
+unid
+-
+domicílios
+
+unidade
+ação
+
+-
+
+-
+1,00
+
+1,00
+
+-
+10,00
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+5,00
+6,00
+1,00
+
+1,00
+
+1,00
+
+1,00
+1,00
+1,00
+1,00
+4,00
+1,00
+-
+4.690,00
+
+1,00
+1,00
+
+-
+
+59.832.020,00
+15.860.000,00
+
+43.202.020,00
+385.000,00
+
+4.635.000,00
+3.635.000,00
+
+1.000.000,00
+
+13.494.000,00
+3.240.000,00
+50.000,00
+
+50.000,00
+
+1.900.000,00
+
+770.000,00
+
+552.000,00
+2.082.000,00
+100.000,00
+
+100.000,00
+
+300.000,00
+
+4.000.000,00
+20.000,00
+20.000,00
+80.000,00
+190.000,00
+40.000,00
+2.038.980,00
+1.160.000,00
+
+578.980,00
+300.000,00
+
+74,79
+19,82
+
+54,00
+0,48
+
+0,48
+
+5,79
+4,54
+
+1,25
+
+16,87
+4,05
+0,06
+
+0,06
+
+2,38
+
+0,96
+
+0,69
+2,60
+0,12
+
+0,12
+
+0,38
+
+5,00
+0,02
+0,02
+0,10
+0,24
+0,05
+2,55
+1,45
+
+0,72
+0,38
+
+80.000.000,00
+
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Das ac&#807;o&#771;es e etapas já&#769; realizadas e em andamento no a&#770;mbito do Programa se destacam:
+
+1)Em fase de licitação o Plano de Transporte Ativo de Contagem, incluídos a elaboração dos projetos executivos de cerca de 71 km de
+rotas de caminhabilidade e 55 km de rede cicloviária;
+
+2)Concluído o projeto conceitual do Circuito do Centro Histórico, com vistas à racionalização do uso espaço viário para veículos
+motorizados e modo ativo, implantação de medidas de traffic calming, melhorias urbanísticas como acréscimos de área junto às calçadas
+para abrigar o modo ativo, transformação de espaço viário em áreas de pedestres, implantação de nova iluminação pública com altura
+mais baixa e tecnologia de iluminação fotovoltaica, dentre outras medidas;
+
+3)Em execução as obras de infraestrutura urbana das vias do SIM;
+
+4)Em revisão o Plano de Mobilidade de Contagem;
+
+5)Em revisão o Plano Diretor de Desenvolvimento Urbano de Contagem
+
+
+Página: 13
+
+6)Em elaboração o Plano Municipal de Arborização Urbana (PMAU);
+
+7)Em revisão a Legislação Ambiental do município;
+
+8)Em revisão e elaboração de Normativas Técnicas para o Licenciamento Ambiental
+
+9)A Ampliação do Programa Municipal de Coleta Seletiva;
+
+10)A Construção do Plano Municipal de Educação Ambiental;
+
+11) Ações de Mobilização Socioambiental através de projetos como: Rio da Minha Vida, Cuidar do Verde, Oficinas Ecopedagógicas,
+Trilhas Ecoculturais, Conectando Saberes e Práticas Sustentáveis, Circuito de Percepção Socioambiental da Bacia Hidrográfica, Fórum
+Permanente de Desenvolvimento Sustentável (FPDS);
+
+12)Implementação da A3P ? Agenda Ambiental da Administração Pública;
+
+13)Implementação de Soluções Baseadas na Natureza (SbN) ? Jardim de Chuva;
+
+14)Identificação, catalogação e cadastro das nascentes do município pelo Projeto Contagem das Nascentes;
+
+15)Vistorias para emissão de Certidão de Existência de Área de Preservação Permanente (APP);
+
+16)Implantação do Conselho Municipal de Defesa Animal (COMBEA);
+
+17)Implantação do Comitê de Mudanças Climáticas;
+
+18)Projeto Ronda Ambiental, possui ações integradas para combater o desmatamento, a degradação de nascentes e o parcelamento
+irregular do solo;
+
+19)Projeto de desassoreamento de córregos do município em parceria com a Secretaria Municipal de Obras e Serviços Urbanos.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Municipal
+
+MUNICIPIO DE  CONTAGEM(MG)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+Pretende-se financiar US$ 80.000.000,00, com prazo de desembolso de 60 meses, prazo de carência de 60 meses, prazo de amortização
+linear semestral depois da carência, totalizando 300 meses, prazo total de 360 meses.
+
+Taxa de Juros BID:
+
+Linha FFF CO LIBOR3 - Produtos Vigentes Capital Ordinário
+
+- Taxa de referência: 1,04%
+
+- Margem de financiamento: 0,18%
+
+- Margem para empréstimo BID: 0,90%
+
+- Taxa de Juros: 2,12% a.a.
+
+O município de Contagem tem contraído financiamentos com vários organismos tais como CAIXA, BNDES, Banco do Brasil e CAF ?
+Comissão Andina de Fomento.
+
+Foram realizados alguns levantamentos sobre as condições financeiras oferecidas por esses organismos e concluiu-se que dadas as
+particularidades do Programa PROURBE, cujo objetivo é promover o desenvolvimento urbano sustentável e inclusivo do município por
+meio da requalificação urbanística das centralidades existentes e da formação de novas centralidades, e o formato de atuação junto aos
+mutuários, o BID foi o organismo que apresentou as condições que mais se ajustavam ao Programa e aos interesses do Município.
+
+Assim, foi iniciada a preparação de uma Carta Consulta para ser apresentada a&#768; COFIEX, visando a obtenção de autorização para
+preparar um Programa a ser submetido ao BID, com o objetivo de obter um financiamento parcial para a execução do PROURBE. A opção
+do Município pelo financiamento externo para a execução do Programa também considerou a experiência positiva de diversas ações
+desenvolvidas e consolidadas no âmbito de Programa de natureza semelhante, já&#769; executados no Estado como, por exemplo, o
+DRENURBS, em Belo Horizonte, cidade a qual Contagem é conurbada.
+
+Então, para a realização de todas as ações iniciais necessárias a&#768; preparação da Carta Consulta, foi solicitado ao BID um apoio
+técnico e financeiro, na forma de uma Cooperação Técnica que se encontra aprovada.
+
+(cid:10)
+
+
+Página: 14
+
+2.11. PROJETO/BENEFICIÁRIO
+
+Os beneficiários do Programa são constituídos pela população da cidade de Contagem mais especificamente a população localizada na
+área de abrangência do Programa entre a Sede do Município e a região do Eldorado. A população, em geral, que utiliza o sistema de
+transporte para deslocamentos urbanos, que trabalha na área do Programa, que utiliza os equipamentos urbanos e comunitários e suas
+benfeitorias serão os mais diretamente beneficiados.
+
+OS investimentos em urbanização, correspondentes a cerca de 54% do orçamento do PROURBE, contemplarão em torno de 3.130
+famílias que vivem em áreas de fragilidade social, permitirão a construção de 530 unidades habitacionais para as famílias a serem
+realocadas para a implantação de projetos urbanísticos na área, mantendo as características do relacionamento de vizinhança entre as
+famílias, serão executadas melhorias habitacionais em cerca de 620 domicílios. Ainda serão beneficiados com a regularização fundiária
+algo em torno de 4.690 domicílios.  O PROURBE implementará a gestão participativa nas políticas urbanas envolvendo, inicialmente,
+cerca de 1.150 famílias.
+
+Ainda como benefícios e beneficiários, o modo ativo (a pé e bicicleta) de mobilidade será contemplado pelo financiamento, introduzindo no
+município maneiras saudáveis de deslocamentos, integrando esse modo ao sistema de transporte coletivo urbano da cidade,
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Interamericano de Desenvolvimento
+- BID
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BID
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+16.000.000,00
+Valor Proposto
+
+64.000.000,00
+
+80.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+16.000.000,00
+Valor de Referência US
+$
+64.000.000,00
+
+80.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+A Secretaria Municipal de Desenvolvimento Urbano e Habitação ? SMDUH sera&#769; a entidade institucional, no a&#770;mbito da
+Prefeitura Municipal de Contagem, responsável pela preparação do Programa.
+
+A SMDUH executara&#769; as seguintes atividades: a concepção e a elaboração da Carta Consulta; a negociação com o Ministério do
+Planejamento, Orc&#807;amento e Gesta&#771;o - MPOG, por meio da Secretaria de Assuntos Internacionais - SAIN; o
+acompanhamento do processo de aprovac&#807;a&#771;o da Carta Consulta pela Comissa&#771;o de Financiamento Externo - COFIEX;
+a coordenac&#807;a&#771;o de todos os procedimentos te&#769;cnicos relativos a&#768; preparac&#807;a&#771;o do Programa; a
+negociac&#807;a&#771;o com o Agente Financiador; as negociac&#807;o&#771;es com o Ministe&#769;rio da Fazenda, por meio da
+Secretaria do Tesouro Nacional - STN e da Procuradoria Geral da Fazenda Nacional - PGFN; e o acompanhamento da aprovac&#807;a&#
+771;o pelo Senado Federal. A execução do Programa também será&#769; de responsabilidade da SMDUH que, com o apoio da UGP ?
+Unidade de Gerenciamento do Programas, coordenara&#769; as atividades relacionadas a&#768; contratac&#807;a&#771;o e a&#768;
+implantac&#807;a&#771;o dos diversos servic&#807;os e obras constantes em cada componente. Na fase de execuc&#807;a&#771;o,
+cabera&#769; a&#768; SDUH a responsabilidade de coordenar as interfaces com as Secretarias Municipais, Age&#770;ncias de Estado e
+Empresas Pu&#769;blicas envolvidas no processo de implantac&#807;a&#771;o do Programa. Nessa etapa, a SDUH contara&#769; com
+suporte te&#769;cnico e operacional da Prefeitura de Contagem no relacionamento com o Banco Interamericano de Desenvolvimento -
+BID. Ale&#769;m da SDUH, fazem parte ainda da matriz de responsabilidade institucional as secretarias: SEMAD - Secretaria Municipal
+de Meio Ambiente; TransCon ? Autarquia de Trânsito e Transporte de Contagem;  Secretaria de Cultura; Secretaria Municipal de Trabalho
+e Geração de Renda e Secretaria de Desenvolvimento Social e Segurança Alimentar; SEMOBS ? Secretaria Municipal de Obras e
+Serviços Urbanos.
+
+Ale&#769;m disso, a SMDUH sera&#769; a responsa&#769;vel por todos os procedimentos administrativos necessa&#769;rios ao registro
+no ativo permanente da UGP ou no das entidades beneficiadas dos materiais e equipamentos adquiridos com os recursos financiados. A
+SMDUH na&#771;o repassara&#769; recursos financeiros a&#768;s instituic&#807;o&#771;es beneficia&#769;rias do Programa.
+
+A SMDUH executara&#769;, tambe&#769;m, diretamente, por meio da UGP, as atividades de relacionamento (elo) com o BID. A UGP tera
+&#769; cara&#769;ter transito&#769;rio. Existira&#769; o tempo necessa&#769;rio a&#768; execuc&#807;a&#771;o do Programa.
+
+
+### 4.2. Execução/Executores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 15
+
+Executor: Secretaria Municipal de Desenvolvimento Urbano e Habitação, Contagem/MG
+
+Representante Oficial: Mônica Maria Bedê Cadaval
+
+Endereço da Sede: Av. João César de Oliveira, 1410 ? Eldorado. CEP 32.310-000
+E-mail Institucional:
+
+Telefone: 31-3335.5090
+
+CNPJ: 18715508000131
+
+Fax:
+UF:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+C - MELHORIAS  URBANÍSTICAS E AMBIENTAIS
+
+S - OBRAS E PROJETOS
+
+P - Intervenções urbanas incluindo Mobilidade Urbana
+
+COMPONENTES
+
+P - Intervenções em Urbanização
+
+P - Estudos e Projetos
+
+S - REGULARIZAÇÃO FUNDIÁRIA DO COMPLEXO DO PEROBAS
+
+P - Regularização fundiária Plena em áreas de interesse social - vilas, favelas e loteamentos
+públicos do Complexo Perobas
+P - Elaboração do Plano Diretor de Reassentamento (PDR)
+
+P - Elaboração do Plano Específico de Reassentamento (PER)
+
+S - AÇÕES DE COMUNICAÇÃO DO PROGRAMA
+
+P - Ações de Comunicação do Programa
+
+S - RECUPERAÇÃO DA INFRAESTRUTURA URBANA NA ÁREA DO PROGRAMA
+
+P - Recuperação e Adequação da infraestrutura urbana na área de influência do SIM (sinalização
+de vias, abrigos, calçadas, etc.)
+P - Recuperação e adequação da infraestrutura urbana crítica da macro e microdrenagem nas
+áreas de influência do SIM e do Complexo Perobas
+S - SUPERVISÃO DE OBRAS E ATO (AJUSTES TÉCNICOS DE OBRAS)
+
+P - Supervisão de obras e ATO (Ajustes Técnicos de Obras)
+
+S - GESTÃO PARTICIPATIVA NAS POLÍTICAS DE DESENVOLVIMENTO URBANO ? TRABALHO
+TÉCNICO SOCIAL
+P - Gestão Participativa nas políticas de desenvolvimento urbano ? Trabalho Técnico Social
+
+C - SUSTENTABILIDADE SOCIOAMBIENTAL, FORTALECIMENTO INSTITUCIONAL E
+INOVAÇÃO TECNOLÓGICA
+S - SUSTENTABILIDADE SOCIOAMBIENTAL
+
+P - Ações de inclusão social
+
+P - Gestão Socioambiental
+
+P - Plano de Comunicação Social do Programa (PCS)
+
+S - FORTALECIMENTO INSTITUCIONAL
+
+P - Elaboração do Plano de Fortalecimento Institucional
+
+P - Implementação do Plano de Fortalecimento Institucional
+
+S - ACELERAÇÃO DA INOVAÇÃO TECNOLÓGICA
+
+P - Elaboração do Plano de Aceleração da Inovação Tecnológica
+
+P - Implementação das ações inerentes ao modelo MaaS
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+CF
+
+BID
+
+67.581.000,00
+
+1.280.000,00
+
+4.252.000,00
+
+62.302.020,00
+
+1.241.440,00
+
+4.020.760,00
+
+15.860.000,00
+
+288.470,00
+
+1.733.730,00
+
+43.202.020,00
+
+0,00
+
+0,00
+
+3.240.000,00
+
+952.970,00
+
+2.287.030,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+1.260.000,00
+
+1.160.000,00
+
+50.000,00
+
+50.000,00
+
+578.980,00
+
+578.980,00
+
+770.000,00
+
+385.000,00
+
+385.000,00
+
+1.900.000,00
+
+1.900.000,00
+
+770.000,00
+
+770.000,00
+
+8.069.000,00
+
+2.734.000,00
+
+552.000,00
+
+2.082.000,00
+
+100.000,00
+
+3.735.000,00
+
+100.000,00
+
+3.635.000,00
+
+1.600.000,00
+
+300.000,00
+
+300.000,00
+
+38.560,00
+
+18.560,00
+
+10.000,00
+
+10.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+154.240,00
+
+74.240,00
+
+40.000,00
+
+40.000,00
+
+0,00
+
+0,00
+
+77.000,00
+
+38.500,00
+
+38.500,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+548.000,00
+
+448.000,00
+
+0,00
+
+348.000,00
+
+100.000,00
+
+100.000,00
+
+100.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+320.000,00
+
+320.000,00
+
+320.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+P - Aquisição de bens para a instalação da infraestrutura (equipamento, softwares e mobiliários).
+
+1.000.000,00
+
+C - ADMINISTRAÇÃO, AUDITORIA, AVALIAÇÃO E MONITORAMENTO -
+
+S - APOIO AO GERENCIAMENTO
+
+P - Apoio ao Gerenciamento
+
+S - AVALIAÇÃO E MONITORAMENTO
+
+P - Avaliação Intermediária
+
+P - Avaliação Econômica Ex-Post
+
+P - Avaliação do Reassentamento
+
+P - Auditoria Externa Independente
+
+P - Avaliação Final PCR
+
+4.350.000,00
+
+4.000.000,00
+
+4.000.000,00
+
+350.000,00
+
+20.000,00
+
+20.000,00
+
+80.000,00
+
+190.000,00
+
+40.000,00
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+1.280.000,00
+
+5.120.000,00
+
+0,00
+
+0,00
+
+C - MELHORIAS  URBANÍSTICAS E AMBIENTAIS
+
+S - OBRAS E PROJETOS
+
+P - Intervenções urbanas incluindo Mobilidade Urbana
+
+COMPONENTES
+
+P - Intervenções em Urbanização
+
+P - Estudos e Projetos
+
+S - REGULARIZAÇÃO FUNDIÁRIA DO COMPLEXO DO PEROBAS
+
+P - Regularização fundiária Plena em áreas de interesse social - vilas, favelas e loteamentos
+públicos do Complexo Perobas
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+BID
+
+4.041.050,00
+
+15.796.700,00
+
+3.278.450,00
+
+14.706.055,00
+
+1.111.530,00
+
+5.288.135,00
+
+2.166.920,00
+
+9.417.920,00
+
+0,00
+
+69.600,00
+
+69.600,00
+
+0,00
+
+278.400,00
+
+278.400,00
+
+
+Página: 16
+
+P - Elaboração do Plano Diretor de Reassentamento (PDR)
+
+P - Elaboração do Plano Específico de Reassentamento (PER)
+
+S - AÇÕES DE COMUNICAÇÃO DO PROGRAMA
+
+P - Ações de Comunicação do Programa
+
+S - RECUPERAÇÃO DA INFRAESTRUTURA URBANA NA ÁREA DO PROGRAMA
+
+P - Recuperação e Adequação da infraestrutura urbana na área de influência do SIM (sinalização
+de vias, abrigos, calçadas, etc.)
+P - Recuperação e adequação da infraestrutura urbana crítica da macro e microdrenagem nas
+áreas de influência do SIM e do Complexo Perobas
+S - SUPERVISÃO DE OBRAS E ATO (AJUSTES TÉCNICOS DE OBRAS)
+
+P - Supervisão de obras e ATO (Ajustes Técnicos de Obras)
+
+S - GESTÃO PARTICIPATIVA NAS POLÍTICAS DE DESENVOLVIMENTO URBANO ? TRABALHO
+TÉCNICO SOCIAL
+P - Gestão Participativa nas políticas de desenvolvimento urbano ? Trabalho Técnico Social
+
+C - SUSTENTABILIDADE SOCIOAMBIENTAL, FORTALECIMENTO INSTITUCIONAL E
+INOVAÇÃO TECNOLÓGICA
+S - SUSTENTABILIDADE SOCIOAMBIENTAL
+
+P - Ações de inclusão social
+
+P - Gestão Socioambiental
+
+P - Plano de Comunicação Social do Programa (PCS)
+
+S - FORTALECIMENTO INSTITUCIONAL
+
+P - Elaboração do Plano de Fortalecimento Institucional
+
+P - Implementação do Plano de Fortalecimento Institucional
+
+S - ACELERAÇÃO DA INOVAÇÃO TECNOLÓGICA
+
+P - Elaboração do Plano de Aceleração da Inovação Tecnológica
+
+P - Implementação das ações inerentes ao modelo MaaS
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+693.000,00
+
+346.500,00
+
+346.500,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+144.745,00
+
+144.745,00
+
+0,00
+
+0,00
+
+0,00
+
+475.000,00
+
+475.000,00
+
+192.500,00
+
+192.500,00
+
+758.950,00
+
+2.203.300,00
+
+598.950,00
+
+936.300,00
+
+390.750,00
+
+103.500,00
+
+208.200,00
+
+832.800,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+727.000,00
+
+0,00
+
+727.000,00
+
+160.000,00
+
+540.000,00
+
+60.000,00
+
+240.000,00
+
+0,00
+
+100.000,00
+
+P - Aquisição de bens para a instalação da infraestrutura (equipamento, softwares e mobiliários).
+
+100.000,00
+
+200.000,00
+
+C - ADMINISTRAÇÃO, AUDITORIA, AVALIAÇÃO E MONITORAMENTO -
+
+S - APOIO AO GERENCIAMENTO
+
+P - Apoio ao Gerenciamento
+
+S - AVALIAÇÃO E MONITORAMENTO
+
+P - Avaliação Intermediária
+
+P - Avaliação Econômica Ex-Post
+
+P - Avaliação do Reassentamento
+
+P - Auditoria Externa Independente
+
+P - Avaliação Final PCR
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.200.000,00
+
+1.152.500,00
+
+1.152.500,00
+
+47.500,00
+
+0,00
+
+0,00
+
+0,00
+
+47.500,00
+
+0,00
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+4.800.000,00
+
+19.200.000,00
+
+0,00
+
+0,00
+
+C - MELHORIAS  URBANÍSTICAS E AMBIENTAIS
+
+S - OBRAS E PROJETOS
+
+P - Intervenções urbanas incluindo Mobilidade Urbana
+
+COMPONENTES
+
+P - Intervenções em Urbanização
+
+P - Estudos e Projetos
+
+S - REGULARIZAÇÃO FUNDIÁRIA DO COMPLEXO DO PEROBAS
+
+P - Regularização fundiária Plena em áreas de interesse social - vilas, favelas e loteamentos
+públicos do Complexo Perobas
+P - Elaboração do Plano Diretor de Reassentamento (PDR)
+
+P - Elaboração do Plano Específico de Reassentamento (PER)
+
+S - AÇÕES DE COMUNICAÇÃO DO PROGRAMA
+
+P - Ações de Comunicação do Programa
+
+S - RECUPERAÇÃO DA INFRAESTRUTURA URBANA NA ÁREA DO PROGRAMA
+
+P - Recuperação e Adequação da infraestrutura urbana na área de influência do SIM (sinalização
+de vias, abrigos, calçadas, etc.)
+P - Recuperação e adequação da infraestrutura urbana crítica da macro e microdrenagem nas
+áreas de influência do SIM e do Complexo Perobas
+S - SUPERVISÃO DE OBRAS E ATO (AJUSTES TÉCNICOS DE OBRAS)
+
+P - Supervisão de obras e ATO (Ajustes Técnicos de Obras)
+
+S - GESTÃO PARTICIPATIVA NAS POLÍTICAS DE DESENVOLVIMENTO URBANO ? TRABALHO
+TÉCNICO SOCIAL
+P - Gestão Participativa nas políticas de desenvolvimento urbano ? Trabalho Técnico Social
+
+C - SUSTENTABILIDADE SOCIOAMBIENTAL, FORTALECIMENTO INSTITUCIONAL E
+INOVAÇÃO TECNOLÓGICA
+S - SUSTENTABILIDADE SOCIOAMBIENTAL
+
+P - Ações de inclusão social
+
+P - Gestão Socioambiental
+
+P - Plano de Comunicação Social do Programa (PCS)
+
+S - FORTALECIMENTO INSTITUCIONAL
+
+P - Elaboração do Plano de Fortalecimento Institucional
+
+P - Implementação do Plano de Fortalecimento Institucional
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+BID
+
+4.649.950,00
+
+15.825.800,00
+
+4.580.350,00
+
+14.735.155,00
+
+0,00
+
+4.675.635,00
+
+4.580.350,00
+
+10.059.520,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+0,00
+
+69.600,00
+
+69.600,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+278.400,00
+
+278.400,00
+
+0,00
+
+0,00
+
+144.745,00
+
+144.745,00
+
+0,00
+
+0,00
+
+0,00
+
+475.000,00
+
+475.000,00
+
+192.500,00
+
+192.500,00
+
+150.050,00
+
+2.154.200,00
+
+50.050,00
+
+200.200,00
+
+3.850,00
+
+15.400,00
+
+46.200,00
+
+184.800,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.454.000,00
+
+0,00
+
+1.454.000,00
+
+
+Página: 17
+
+S - ACELERAÇÃO DA INOVAÇÃO TECNOLÓGICA
+
+P - Elaboração do Plano de Aceleração da Inovação Tecnológica
+
+P - Implementação das ações inerentes ao modelo MaaS
+
+100.000,00
+
+500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+100.000,00
+
+P - Aquisição de bens para a instalação da infraestrutura (equipamento, softwares e mobiliários).
+
+100.000,00
+
+400.000,00
+
+C - ADMINISTRAÇÃO, AUDITORIA, AVALIAÇÃO E MONITORAMENTO -
+
+S - APOIO AO GERENCIAMENTO
+
+P - Apoio ao Gerenciamento
+
+S - AVALIAÇÃO E MONITORAMENTO
+
+P - Avaliação Intermediária
+
+P - Avaliação Econômica Ex-Post
+
+P - Avaliação do Reassentamento
+
+P - Auditoria Externa Independente
+
+P - Avaliação Final PCR
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.220.000,00
+
+1.152.500,00
+
+1.152.500,00
+
+67.500,00
+
+20.000,00
+
+0,00
+
+0,00
+
+47.500,00
+
+0,00
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+4.800.000,00
+
+19.200.000,00
+
+0,00
+
+0,00
+
+C - MELHORIAS  URBANÍSTICAS E AMBIENTAIS
+
+S - OBRAS E PROJETOS
+
+P - Intervenções urbanas incluindo Mobilidade Urbana
+
+COMPONENTES
+
+P - Intervenções em Urbanização
+
+P - Estudos e Projetos
+
+S - REGULARIZAÇÃO FUNDIÁRIA DO COMPLEXO DO PEROBAS
+
+P - Regularização fundiária Plena em áreas de interesse social - vilas, favelas e loteamentos
+públicos do Complexo Perobas
+P - Elaboração do Plano Diretor de Reassentamento (PDR)
+
+P - Elaboração do Plano Específico de Reassentamento (PER)
+
+S - AÇÕES DE COMUNICAÇÃO DO PROGRAMA
+
+P - Ações de Comunicação do Programa
+
+S - RECUPERAÇÃO DA INFRAESTRUTURA URBANA NA ÁREA DO PROGRAMA
+
+P - Recuperação e Adequação da infraestrutura urbana na área de influência do SIM (sinalização
+de vias, abrigos, calçadas, etc.)
+P - Recuperação e adequação da infraestrutura urbana crítica da macro e microdrenagem nas
+áreas de influência do SIM e do Complexo Perobas
+S - SUPERVISÃO DE OBRAS E ATO (AJUSTES TÉCNICOS DE OBRAS)
+
+P - Supervisão de obras e ATO (Ajustes Técnicos de Obras)
+
+S - GESTÃO PARTICIPATIVA NAS POLÍTICAS DE DESENVOLVIMENTO URBANO ? TRABALHO
+TÉCNICO SOCIAL
+P - Gestão Participativa nas políticas de desenvolvimento urbano ? Trabalho Técnico Social
+
+C - SUSTENTABILIDADE SOCIOAMBIENTAL, FORTALECIMENTO INSTITUCIONAL E
+INOVAÇÃO TECNOLÓGICA
+S - SUSTENTABILIDADE SOCIOAMBIENTAL
+
+P - Ações de inclusão social
+
+P - Gestão Socioambiental
+
+P - Plano de Comunicação Social do Programa (PCS)
+
+S - FORTALECIMENTO INSTITUCIONAL
+
+P - Elaboração do Plano de Fortalecimento Institucional
+
+P - Implementação do Plano de Fortalecimento Institucional
+
+S - ACELERAÇÃO DA INOVAÇÃO TECNOLÓGICA
+
+P - Elaboração do Plano de Aceleração da Inovação Tecnológica
+
+P - Implementação das ações inerentes ao modelo MaaS
+
+P - Aquisição de bens para a instalação da infraestrutura (equipamento, softwares e mobiliários).
+
+C - ADMINISTRAÇÃO, AUDITORIA, AVALIAÇÃO E MONITORAMENTO -
+
+S - APOIO AO GERENCIAMENTO
+
+P - Apoio ao Gerenciamento
+
+S - AVALIAÇÃO E MONITORAMENTO
+
+P - Avaliação Intermediária
+
+P - Avaliação Econômica Ex-Post
+
+P - Avaliação do Reassentamento
+
+P - Auditoria Externa Independente
+
+P - Avaliação Final PCR
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+BID
+
+3.149.950,00
+
+10.045.800,00
+
+3.103.550,00
+
+9.047.955,00
+
+0,00
+
+1.487.500,00
+
+3.103.550,00
+
+7.560.455,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+0,00
+
+46.400,00
+
+46.400,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+185.600,00
+
+185.600,00
+
+0,00
+
+0,00
+
+144.745,00
+
+144.745,00
+
+0,00
+
+0,00
+
+0,00
+
+475.000,00
+
+475.000,00
+
+192.500,00
+
+192.500,00
+
+50.050,00
+
+1.954.200,00
+
+50.050,00
+
+200.200,00
+
+3.850,00
+
+15.400,00
+
+46.200,00
+
+184.800,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.454.000,00
+
+0,00
+
+1.454.000,00
+
+300.000,00
+
+0,00
+
+100.000,00
+
+200.000,00
+
+800.000,00
+
+752.500,00
+
+752.500,00
+
+47.500,00
+
+0,00
+
+0,00
+
+0,00
+
+47.500,00
+
+0,00
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+3.200.000,00
+
+12.800.000,00
+
+0,00
+
+0,00
+
+C - MELHORIAS  URBANÍSTICAS E AMBIENTAIS
+
+S - OBRAS E PROJETOS
+
+P - Intervenções urbanas incluindo Mobilidade Urbana
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+BID
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+1.869.950,00
+
+6.669.800,00
+
+14.990.900,00
+
+52.590.100,00
+
+1.842.110,00
+
+5.746.195,00
+
+14.045.900,00
+
+48.256.120,00
+
+0,00
+
+1.275.000,00
+
+1.400.000,00
+
+14.460.000,00
+
+
+Página: 18
+
+P - Intervenções em Urbanização
+
+P - Estudos e Projetos
+
+S - REGULARIZAÇÃO FUNDIÁRIA DO COMPLEXO DO PEROBAS
+
+P - Regularização fundiária Plena em áreas de interesse social - vilas, favelas e loteamentos
+públicos do Complexo Perobas
+P - Elaboração do Plano Diretor de Reassentamento (PDR)
+
+P - Elaboração do Plano Específico de Reassentamento (PER)
+
+S - AÇÕES DE COMUNICAÇÃO DO PROGRAMA
+
+P - Ações de Comunicação do Programa
+
+S - RECUPERAÇÃO DA INFRAESTRUTURA URBANA NA ÁREA DO PROGRAMA
+
+P - Recuperação e Adequação da infraestrutura urbana na área de influência do SIM (sinalização
+de vias, abrigos, calçadas, etc.)
+P - Recuperação e adequação da infraestrutura urbana crítica da macro e microdrenagem nas
+áreas de influência do SIM e do Complexo Perobas
+S - SUPERVISÃO DE OBRAS E ATO (AJUSTES TÉCNICOS DE OBRAS)
+
+P - Supervisão de obras e ATO (Ajustes Técnicos de Obras)
+
+S - GESTÃO PARTICIPATIVA NAS POLÍTICAS DE DESENVOLVIMENTO URBANO ? TRABALHO
+TÉCNICO SOCIAL
+P - Gestão Participativa nas políticas de desenvolvimento urbano ? Trabalho Técnico Social
+
+C - SUSTENTABILIDADE SOCIOAMBIENTAL, FORTALECIMENTO INSTITUCIONAL E
+INOVAÇÃO TECNOLÓGICA
+S - SUSTENTABILIDADE SOCIOAMBIENTAL
+
+P - Ações de inclusão social
+
+P - Gestão Socioambiental
+
+P - Plano de Comunicação Social do Programa (PCS)
+
+S - FORTALECIMENTO INSTITUCIONAL
+
+P - Elaboração do Plano de Fortalecimento Institucional
+
+P - Implementação do Plano de Fortalecimento Institucional
+
+S - ACELERAÇÃO DA INOVAÇÃO TECNOLÓGICA
+
+P - Elaboração do Plano de Aceleração da Inovação Tecnológica
+
+P - Implementação das ações inerentes ao modelo MaaS
+
+P - Aquisição de bens para a instalação da infraestrutura (equipamento, softwares e mobiliários).
+
+C - ADMINISTRAÇÃO, AUDITORIA, AVALIAÇÃO E MONITORAMENTO -
+
+S - APOIO AO GERENCIAMENTO
+
+P - Apoio ao Gerenciamento
+
+S - AVALIAÇÃO E MONITORAMENTO
+
+P - Avaliação Intermediária
+
+P - Avaliação Econômica Ex-Post
+
+P - Avaliação do Reassentamento
+
+P - Auditoria Externa Independente
+
+P - Avaliação Final PCR
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+1.842.110,00
+
+4.471.195,00
+
+11.692.930,00
+
+31.509.090,00
+
+0,00
+
+27.840,00
+
+27.840,00
+
+0,00
+
+952.970,00
+
+2.287.030,00
+
+111.360,00
+
+252.000,00
+
+1.008.000,00
+
+111.360,00
+
+232.000,00
+
+928.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+144.745,00
+
+144.745,00
+
+0,00
+
+0,00
+
+0,00
+
+475.000,00
+
+475.000,00
+
+192.500,00
+
+192.500,00
+
+10.000,00
+
+10.000,00
+
+0,00
+
+0,00
+
+693.000,00
+
+346.500,00
+
+40.000,00
+
+40.000,00
+
+578.980,00
+
+578.980,00
+
+77.000,00
+
+38.500,00
+
+346.500,00
+
+38.500,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.900.000,00
+
+1.900.000,00
+
+770.000,00
+
+770.000,00
+
+50.050,00
+
+200.200,00
+
+1.009.100,00
+
+7.059.900,00
+
+50.050,00
+
+200.200,00
+
+749.100,00
+
+1.984.900,00
+
+3.850,00
+
+15.400,00
+
+402.300,00
+
+149.700,00
+
+46.200,00
+
+184.800,00
+
+346.800,00
+
+1.735.200,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+100.000,00
+
+3.735.000,00
+
+100.000,00
+
+3.635.000,00
+
+260.000,00
+
+1.340.000,00
+
+60.000,00
+
+240.000,00
+
+0,00
+
+300.000,00
+
+200.000,00
+
+800.000,00
+
+810.000,00
+
+622.500,00
+
+622.500,00
+
+187.500,00
+
+0,00
+
+20.000,00
+
+80.000,00
+
+47.500,00
+
+40.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+4.350.000,00
+
+4.000.000,00
+
+4.000.000,00
+
+350.000,00
+
+20.000,00
+
+20.000,00
+
+80.000,00
+
+190.000,00
+
+40.000,00
+
+80.000.000,00
+
+1.920.000,00
+
+7.680.000,00
+
+16.000.000,00
+
+64.000.000,00
+
+Os diversos órgãos da Prefeitura Municipal de Contagem prestarão apoio a&#768; SMDUH nas fases de preparação e execuc&#807;a&#
+771;o do Programa, com destaques a&#768; necessidade de Ato Legal (Conve&#770;nio, Decretos, Contratos, Termos de Refere&#770;
+ncia, leis). Nesse sentido, os riscos legais serão minimizados. A execuc&#807;a&#771;o consistira&#769; na implementação de ac&#807;
+o&#771;es pelos va&#769;rios agentes participantes, visando ao cumprimento das atividades previstas e das condic&#807;o&#771;es
+contratadas.
+
+Faz-se necessário a aprovação, junto a Câmara Municipal de Vereadores e Senado, da contratação dos recursos da operação de crédito,
+conforme Lei Complementar nº. 101/2000 (anexo VIII):
+
+Art. 32. O Ministério da Fazenda verificará o cumprimento dos limites e condições relativos à realização de operações de crédito de cada
+ente da Federação, inclusive das empresas por eles controladas, direta ou indiretamente.
+
+§ 1o O ente interessado formalizará seu pleito fundamentando-o em parecer de seus órgãos técnicos e jurídicos, demonstrando a relação
+custo-benefício, o interesse econômico e social da operação e o atendimento das seguintes condições:
+
+I - existência de prévia e expressa autorização para a contratação, no texto da lei orçamentária, em créditos adicionais ou lei específica;
+
+II - inclusão no orçamento ou em créditos adicionais dos recursos provenientes da operação, exceto no caso de operações por
+antecipação de receita;
+
+III - observância dos limites e condições fixados pelo Senado Federal;
+
+IV - autorização específica do Senado Federal, quando se tratar de operação de crédito externo;
+
+V - atendimento do disposto no inciso III do art. 167 da Constituição;
+
+
+Página: 19
+
+VI - observância das demais restrições estabelecidas nesta Lei Complementar.
+
+Assim que a COFIEX aprovar o pleito o Executivo Municipal encaminhará à Câmara de Vereadores o projeto de lei autorizativa.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+As ac&#807;o&#771;es implementadas pelo Programa sempre envolvera&#771;o os respectivos o&#769;rga&#771;os da Prefeitura de
+Contagem durante a sua execuc&#807;a&#771;o.
+
+Todas as contratac&#807;o&#771;es sera&#771;o de responsabilidade da UGP e, para tanto, deverá ser criada uma Comissão Especial
+de Licitações - CEL especialmente para realizar todos os procedimentos licitato&#769;rios em conformidade com as poli&#769;ticas do
+BID.
+
+As principais contratações serão para a elaboração de projetos executivos, para a execução de obras (construtoras e supervisora) e apoio
+ao gerenciamento do programa. Na&#771;o se verifica, em um primeiro momento, a necessidade de contratac&#807;a&#771;o de
+servidores para serem alocados nos produtos do Programa.
+
+Como riscos, citam-se a falta de experiência de técnicos da Prefeitura quanto aos procedimentos licitatórios em conformidade com as
+políticas do BID e, dependendo do objeto em licitação, se a fonte de recursos é CPL ou BID.
+
+Portanto, como medidas mitigadoras, a equipe da CEL deverá ser capacitada pelo agente financiador e que as principais aquisições sejam
+realizadas pela fonte BID.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+(a) As desapropriações previstas se localizam na área denominada Complexo Perobas onde serão implementadas ações de urbanização
+e construídas unidades habitacionais; (b) em caso de imo&#769;veis a serem desapropriados e que estejam irregulares, a indenizac&#807
+;a&#771;o seguira&#769; o que preconiza o Plano Especi&#769;fico de Reassentamento aprovado pelo Banco Interamericano de
+Desenvolvimento - BID; (c) a Procuradoria Geral do Munici&#769;pio (PGM) e&#769; o o&#769;rga&#771;o responsa&#769;vel pelo
+processo administrativo e judicial de desapropriac&#807;a&#771;o e a Secretaria Municipal da Fazenda, o o&#769;rga&#771;o responsa&
+#769;vel pelo aporte de recursos; (d) As desapropriações serão mínimas e o resultado das obras beneficiará 3.130 famílias, além da
+produção de  530 unidades habitacionais. O município seguirá os requerimentos orientadores do DECRETO-LEI Nº 3.365, DE 21 DE
+JUNHO DE 1941, tendo em vista que as desapropriações se justificam por utilidade pública.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+Os impactos ambientais ocorrerão principalmente nas intervenc&#807;o&#771;es de infraestrutura urbana a serem realizadas na área do
+Complexo Perobas e na execução das obras viárias complementares do SIM, como os servic&#807;os decorrentes da pavimentac&#807;
+a&#771;o de vias. No entanto, o município busca minimizar impactos oriundos da impermeabilização do solo com intervenções em áreas
+verdes, como descrito anteriormente. Além disso, as licenças ambientais são necessárias para implementação de qualquer projeto. O
+município possui delegação do Estado de Minas Gerais para promover todo o processo de licenciamento ambiental porque agiliza os
+procedimentos necessários. .  As ac&#807;o&#771;es mitigadoras sera&#771;o implementadas com base no Plano de Controle Ambiental
+de Obras, devidamente acompanhadas por engenheiros ambientais da Supervisora, UGP, Gerenciadora e Executora
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+(a) estima-se em cerca de 530 fami&#769;lias a serem reassentadas; (b) o Plano Especi&#769;fico de Reassentamento, PER, identificara
+&#769; o nu&#769;mero de fami&#769;lias a serem reassentadas e indenizadas. O Programa disponibilizara&#769; cerca 530 unidades
+habitacionais a serem construi&#769;das em sua a&#769;rea; e as indenizac&#807;o&#771;es ocorrera&#771;o dentro de crite&#769;rios
+aprovados pelo PER e monitorados pelo Gerenciamento do Programa; (c) os imo&#769;veis destas comunidades passarão pelo processo
+de regularização fundiária; (d) em caso de imo&#769;veis a serem desapropriados a indenizac&#807;a&#771;o seguira&#769; o que
+preconiza o PER, aprovado pelo BID; e) a sistema&#769;tica deverá ser a de entendimento entre as partes, com conhecimento pre&#769;
+vio de valores e aceitac&#807;a&#771;o formal por parte do expropriado; f) a Procuradoria Geral do Munici&#769;pio (PGM) e&#769; o o&
+#769;rga&#771;o responsa&#769;vel pelo processo administrativo e judicial de desapropriac&#807;a&#771;o; e a Secretaria Municipal da
+Fazenda - SEFAZ, o o&#769;rga&#771;o responsa&#769;vel pelo aporte de recursos.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)
+(cid:10)
+
+
+Página: 20
+
+Informações relevantes
+
+- 02/09/2022: Recebida, em 22/Jul/2022, a Carta-Consulta nº 60931, referente ao "Programa de Requalificação e Desenvolvimento Urbano
+de  Contagem",  pleiteando  empréstimo/BID  no  valor  de  US$  64.000.000,00,  com  contrapartida  municipal  de  US$  26.000.000,00,
+totalizando US$ 51.000.000,00. 489ª GTEC/Apresentação da CC realizada em 1º/Set/2022 Solicitadas Informações Complementares em 2
+/Set/2022 Fase: Em revisão. (Em 2/Set/2022)
+-  13/10/2022:  Mediante  Of.  PREF-GP  Nº  242/2022,  de  20/Set/2022,  a  Prefeita  do  Município  de  Contagem/MG  solicitou  à  SAIN/ME  o
+ARQUIVAMENTO  da  CC  60931,  por  não  haver  tido  tempo  hábil  para  que  o  Município  pudesse  adequar  o  escopo  do  Programa  às
+solicitações das informações complementares. (Em 13/Out/2022)

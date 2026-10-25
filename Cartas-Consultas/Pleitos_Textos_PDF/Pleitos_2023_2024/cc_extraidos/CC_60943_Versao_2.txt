@@ -1,0 +1,1898 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+PROEX : Programa de Expansão do Saneamento em Pernambuco
+Nº Carta Consulta: 60943
+Processo: 12120.100484/2022-22
+Mutuário: Companhia Pernambucana de Saneamento - COMPESA
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  22 de Julho de 2022
+Fontes Internas:
+Contrapartida Financeira: US$ 4.796.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 119.444.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+03
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 04
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 04
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 04
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 04
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 07
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 12
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 13
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 13
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 14
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 15
+3. FINANCIAMENTO .......................................................................................................................................................................................... 15
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 15
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 15
+4. EXECUÇÃO ...................................................................................................................................................................................................
+15
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 15
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 16
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 16
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 16
+5. RISCOS .......................................................................................................................................................................................................... 18
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 18
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 20
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 21
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 21
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 22
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 22
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+22
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+O Estado de Pernambuco possui uma área de 98.311,616 km², apresenta uma conformação geográfica longitudinal no sentido Leste-
+Oeste e estreita no sentido norte-sul e possui 185 municípios. Sua população, estimada em 9.684.793 habitantes (2021), corresponde a 4,
+5% da população brasileira e 16,8% da nordestina, com forte concentração na Região Metropolitana do Recife 42,7% da população total
+do Estado, IDH de 0,673 e taxa de urbanização de 80,2%, registrando uma densidade demográfica de 89,6 habitantes por quilômetro
+quadrado. (Anexo A, f.1)
+Entre as 27 unidades federativas, Pernambuco tem o pior índice de disponibilidade hídrica. A quantidade de água acumulada nos
+reservatórios dividida pelo número de habitantes mostra que cada pernambucano recebe cerca de 1.320 m³ de água por ano, o menor
+índice do Brasil, margeando a situação de Estresse de água, segundo classificação da ONU (Anexo A, f.1). Pernambuco está situado em
+uma região que, pela própria natureza, demanda atenção especial no tocante à oferta de água. Baixos índices de precipitação,
+irregularidade do seu regime de chuvas, temperaturas elevadas durante todo ano e altas taxas de evaporação dos lençóis de água
+contribuem para os reduzidos volumes de disponibilidade hídrica. Associado a isso, 80% dos recursos hídricos estão concentrados na
+região litorânea, enquanto 90% de seu território está na região semiárida, frequentemente submetida a longos períodos de seca.
+Neste contexto está a Companhia Pernambucana de Saneamento COMPESA como a principal operadora dos serviços no Estado. A
+Companhia é uma estatal independente, com mais de 50 anos de atuação, sob a forma de uma sociedade de economia mista, vinculada
+ao Governo do Estado, por meio da Secretaria de Infraestrutura e Recursos Hídricos. (Anexo A, f.2)
+Diante da conjuntura de indisponibilidade do recurso hídrico o Governo Estado e a Compesa têm empreendido grande esforço para
+mitigação da crise de abastecimento, realizando investimentos pesados em grandes obras estruturadoras, de modo a viabilizar o aumento
+de produção e o acesso à água aos sistemas distribuidores. (Anexo A, f.3)
+No entanto, somente o aumento na oferta de água não garantirá a solução do problema em tela. Os sistemas produtores locais e os
+distribuidores do Estado, em boa parte, estão precarizados, além de subdimensionados, em relação a atual demanda de cada Município.
+Tais sistemas não passaram por um processo de requalificação e ampliação proporcional para suprir o crescimento demográfico e a um
+futuro aumento na oferta de água. 
+Aliado a isso, nos Balanços Hídricos da Compesa pode-se perceber alta margem de erro de macromedição e, consequentemente, alta
+margem de erro de volume de perda real e aparente. Tal condição denota um processo metrológico deficiente, tanto pela desatualização
+tecnológica do parque de macromedidores quanto por sua baixa cobertura. Das 50 maiores localidades da Compesa, que correspondem a
+ aproximadamente 80% de todo o volume produzido do Estado, apenas 7 possuem indicador de macromedição da Distribuição em 100%.
+Ao se efetuar uma avaliação do parque de micromedidores, tomando como referência a Região Metropolitana do Recife (RMR), é possível
+verificar que  é constituído de 78,8% de hidrômetros com idade superior a cinco anos. A Idade média do parque da RMR é de 7 anos e a
+do interior do estado de 8. 
+Como efeito, dispõe-se de uma rede de abastecimento de baixa eficiência de distribuição. Em 2020 o índice de perdas na distribuição foi
+da ordem de 49,8%, déficit que tende a aumentar caso mantida a situação atual que já sofre pela pouca disponibilidade de água.
+Em relação aos serviços de coleta e tratamento de esgoto, o Estado de Pernambuco apresenta um índice de cobertura urbano de apenas
+27% (Anexo A, f.4). A evolução relativa do atendimento deste serviço no Estado muito se deve ao Programa Cidade Saneada, PPP de R$
+6,7 Bilhões em investimentos que possui como objetivos a universalização e a qualificação dos serviços de esgotamento sanitário na RMR
+ (anexo A, f.5).
+A partir da edição da lei Federal 14.026/20, que atualiza o Marco Legal do Saneamento, as metas para a universalização dos serviços
+foram formalmente estabelecidas e o curto prazo para seu alcance (2033) colocam ainda mais pressão sobre este cenário de urgência. (
+anexo A, f.6)
+Nos estudos promovidos pela Compesa no sentido de se adequar as necessidades impostas pelo novo Marco Legal de forma técnica e
+economicamente viável, estimou-se em R$ 20,3 Bilhões a necessidade de investimentos para atendimento de tais metas, obedecendo-se
+um regime de faseamento estabelecido pelo Decreto 10.710 de 31/05/21, em 3 períodos. (Anexo A, f.7 e Anexo B).
+O programa proposto nesta carta consulta integra o conjunto de ações planejadas pela Compesa com o objetivo de cumprir as metas de
+atendimento dos serviços firmadas na primeira fase dos investimentos (2021-2026), com vistas a redução de perdas e a universalização
+dos serviços no ano de 2033.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+O PROEX-PE, Programa de Expansão do Saneamento em Pernambuco tem como objetivo, além de requalificar e ampliar a cobertura dos
+sistemas de abastecimento de água e de esgotamento sanitário, promover uma série de intervenções que permitirão o aumento da
+eficiência operacional, reduzindo as perdas e a eliminação do rodízio na distribuição, com sensível otimização do controle e
+monitoramento dos sistemas, promovendo ações de:
+1) Universalização da cobertura com requalificação do parque de macromedição dos sistemas operados pela Compesa;
+2) Expansão, requalificação e modernização do parque de micromedidores dos sistemas operados pela Companhia;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 3
+3) Expansão e eficientização de sistemas de abastecimento de água dos Municípios ainda não contemplados por fontes de recursos
+previstas para o desenvolvimento das ações propostas para a fase I;
+3) Retrofit de sistemas produtores integrados ainda não contemplados por fontes de recursos previstas para o desenvolvimento das ações
+propostas para a fase I;
+4) Implantação ou expansão e requalificação de sistemas de esgotamento sanitários ainda não contemplados por fontes de recursos
+previstas para o desenvolvimento das ações propostas para a fase I.
+Através do Projeto de Macromedição será possível se quantificar de forma confiável as perdas em todos os sistemas de abastecimento
+operados pela Compesa. A efetiva implantação deste projeto é indispensável para o controle e o gerenciamento das perdas nos sistemas
+de abastecimento de água, viabilizando inclusive uma melhor gestão na distribuição da água para os usuários. O mesmo contribuirá
+decisivamente para melhor orientar a operação do sistema de abastecimento de água a partir da universalização da cobertura e da
+obtenção de dados confiáveis.
+A principal proposta do projeto de Micromedição reside na ampliação e modernização do parque de hidrômetros dos sistemas de
+abastecimentos operados pela Compesa, proporcionando a aferição efetiva e precisa dos volumes consumidos pelos usuários. Assim será
+possível mapear com maior precisão onde as perdas se encontram e orientar os técnicos a agirem de forma a melhor combate-las. Tal
+projeto buscará a universalização da hidrometração, garantindo que todo cliente possua uma ligação medida, através de hidrômetro
+compatível com seu perfil, além de envolver ações de redução do erro de medição, como a substituição corretiva, preditiva e preventiva
+dos medidores, bem como a avaliação do consumo dos clientes.
+Tanto o projeto de Macromedição quanto o de micromedição são de abrangência estadual e tem natureza estruturante. A implantação de
+ambos é fundamental para uma avaliação precisa e qualificada da gestão dos sistemas de abastecimento e dos efeitos das ações de
+requalificação de tais sistemas nas diversas fases de investimento para universalização. Num cenário de indisponibilidade hídrica como o
+Pernambucano, um parque de Macromedição e micromedição moderno e abrangente é decisivo para a boa gestão de um recurso tão
+escasso.
+Em relação ao problema dos sistemas distribuidores o PROEX contemplará especificamente os municípios de Olinda, São Lourenço,
+Timbaúba, Lajedo e Pesqueira. Tal escolha será detalhada na seção seguinte e se relacionam com o macro programa Estadual chamado
+pacto pela água. Estes são Municípios que já tem garantida ações de ampliação de oferta de água a partir dos sistemas produtores
+integrados e apresentam, conforme premissas detalhadas mais adiante, uma relação de balanço hídrico entre oferta e demanda
+favoráveis a redução da intermitência, aumento do atendimento e redução de perdas com intervenções no sistema de distribuição através
+da requalificação e ampliação de redes e ramais, estruturação de distritos de medição e controle, recuperação de reservatórios e
+elevatórias e automação dos sistemas. Serão também necessários ajustes nos sistemas produtores locais para se adequar ao aumento de
+oferta de água recebida. Para garantir uma melhor eficiência e eficácia das ações serão contratadas no modelo de remuneração por
+performance. 
+O PROEX atuará também nos retrofit?s dos sistemas produtores de Tapacurá, na Região Metropolitana do Recife, e da ETA Voluntários
+da Pátria em Ouricuri, no sertão do Estado. Em ambos os casos serão promovidas intervenções nas unidades de tratamento de modo a
+recuperar a capacidade nominal de produção ampliando sensivelmente a oferta de água tratada para as cidades de Recife, São Lourenço
+da Mata, Camaragibe e Jaboatão na RMR e Ouricuri, Trindade, Ipubi, Santa Filomena e Araripina no Sertão Pernambucano. Os sistemas
+distribuidores destas localidades estarão no escopo de outras ações.
+Em termos de esgotamento sanitário o PROEX focará suas ações na ampliação dos sistemas dos Municípios de Escada, Bezerros, Belo
+Jardim e Sanharó, com foco ao atendimento das metas da primeira fase de investimentos em atendimento ao novo marco de saneamento
+para ampliação dos serviços. São municípios que já possuem sistema preliminarmente implementados e pelo aporte de oferta de água
+que receberão em breve precisarão ter um sistema de esgotamento sanitário compatível para suportar o aumento de demanda para o
+tratamento dos efluentes. 
+Todas as ações propostas pelo PROEX-PE se coadunam com o Estudo de Viabilidade Técnico Econômico e Financeiro exigidos pelo
+novo Marco Legal do Saneamento como condição necessária para a convalidação e atualização dos contratos de concessão dos serviços
+com seus respectivos titulares. Todos os valores referentes aos investimentos contemplados por este programa são reflexo fiel do que se
+encontra projetado no referido EVTE que foi devidamente avaliado e homologado pela ARPE  Agência de Regulação de Pernambuco em
+março de 2022. Tal estudo atesta a sustentabilidade da Companhia na consecução de seu plano de investimentos para atendimento das
+metas de universalização dos serviços nas suas 3 fases. Desta forma existe respaldo técnico que atesta que o PROEX-PE é um programa
+fundamentado em bases viáveis. Ademais, os projetos aqui contemplados são projetos dirigidos, em sua grande maioria, para tornar os
+sistemas mais eficientes e promover uma distribuição mais racional de água, reduzindo perdas e consequentemente todo o custo
+operacional inerente e preservando a modicidade tarifária dos serviços. Para subsidio destes argumentos encaminhamos no anexo C que
+apresenta o relatório da Arpe que homologa a comprovação da capacidade econômico-finaceira apresentada pela Compesa.
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+As Soluções propostas para os problemas levantados passam invariavelmente pela adequação da concessionária as disposições do novo
+Marco Legal. A Compesa tem agido proativamente neste sentido. (Anexo A, f.8)
+O EVTE e o plano de captação da Compesa (anexo C), frutos desta referida adequação, passaram a ser os principais orientadores da
+Estratégia Empresarial da companhia e de todos os seus programas, projetos e ações em consequência. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 4
+As ações para universalização dos serviços de saneamento básico estão distribuídas em 3 fases de investimento (Anexo A, f.7), sendo
+que para a fase 1 (2021-2026) a companhia já deverá demonstrar até o final de 2022 sua efetividade no que concerne a conclusão do
+plano de captação e indicação das fontes de financiamento. 
+Neste sentido, a Compesa se encontra em adiantado estágio de elaboração, onde, dos R$ 7,4 Bilhões necessários para a referida fase,
+cerca de 4,9 Bi já estão disponíveis conforme Anexo A,f.9.
+Os investimentos com recursos em captação com Instituições Multilaterais de Crédito se encontram concentrados em 3 programas (
+Anexo D): PEX-PE, PROMIRHIS, capitaneado pelo Governo do Estado, e este PROEX-PE. Em termos das ações nos sistemas de
+abastecimento de água, todos estão estruturados em consonância com as premissas adotadas pelo Pacto pela Água (anexo E), macro
+programa em desenvolvimento no Estado com horizonte de 12 anos em abastecimento de água, objetivando prioritariamente a eliminação
+da intermitência de abastecimento e o cumprimento das demais metas do novo marco regulatório.  
+A recuperação de sistemas produtores, necessários para o cumprimento das metas da primeira fase também serão contemplados nesses
+3 programas, suplementando as necessidades de oferta de água não alcançados pelos investimentos em andamento (Anexo A, f.3).
+Em relação ao esgotamento sanitário para o interior do Estado, além da PPP já vigente na RMR, estão em fase de fechamento de
+proposta técnica e financeira, as negociações entre COMPESA, CAIXA ECONÔMICA e empresas de referência internacional, para a
+contratação de Assessorias e Consultorias Técnicas Especializadas, necessárias à Estruturação e à Modelagem das PPPs, para Sistemas
+de Esgotamento Sanitários, em 3 blocos: Bloco Capibaribe, Ipojuca e Mata Norte; Bloco Agreste e Mata Sul e Bloco Microrregião Sertão.
+Apesar disso, pelo compromisso firmado pela Companhia em termos de metas de universalização do esgotamento sanitário, tais parcerias
+não atingirão integralmente as necessidades previstas para a primeira fase. Por isso, subsidiariamente, tanto o PROEX quanto o
+PROMIRHIS contemplarão obras de expansão de sistemas de esgotamento sanitário no interior.
+A contrapartida (CF) deverá ser alocada na proporção de 3,86% do montante total do programa por meio da obra de Ampliação da ETA
+Voluntários da Pátria - Ouricuri estimada em US$ 4,80 milhões.
+A taxa de câmbio utilizada para a estimativa dos valores das ações contempladas no projeto é de 1 USD para 5,40 BRL (18/07/22, Bacen)
+2. Projeto
+2.1. Título
+PROEX : Programa de Expansão do Saneamento em Pernambuco
+2.2. Título Abreviado
+PROEX - PE
+2.3. Mutuário
+Companhia Pernambucana de Saneamento - COMPESA
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+OBJETIVO GERAL DO PROGRAMA:
+O objetivo geral do Programa é ampliar, de forma eficiente e sustentável, a oferta de serviços de abastecimento de água e de
+esgotamento sanitário, otimizando a operação dos sistemas e contribuindo para o desenvolvimento econômico e social nos municípios
+contemplados em consonância com as ações e metas estabelecidas e firmadas para a 1ª fase dos investimentos do novo Marco do
+Saneamento com vistas a Universalização.
+
+OBJETIVOS ESPECÍFICOS 
+-Universalizar e modernizar o parque de Macromedidores dos sistemas de abastecimento operados pela Compesa com vistas a uma
+melhor gestão na distribuição da água para os usuários.
+-Ampliar e modernizar o parque de micromedidores nos sistemas de abastecimento operados pela Compesa com vistas a racionalização
+do consumo, redução de perdas aparentes e melhor monitoramento da distribuição de água.
+-Expandir e ampliar os sistemas de abastecimento dos Municípios de Olinda, São Lourenço, Timbaúba, Lajedo e Pesqueira de modo a
+proporcionar redução do racionamento nas áreas críticas, expansão do atendimento e redução das perdas na distribuição conforme meta
+estabelecida na fase I do plano de investimentos da Companhia.
+-Reestabelecer a capacidade de produção do sistema Tapacurá de 2.800 L/s para 4.000 L/s, aumentando a oferta de água para os
+Municípios de Recife, Jaboatão, Camaragibe e São Lourenço em consonância com as ações previstas para fase I do plano de
+investimentos da Compesa.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 5
+-Reestabelecer a capacidade de produção da ETA Voluntários da Pátria de 80 l/s para 600 l/s aumentando a oferta de água para os
+Municípios de Ouricuri, Trindade, Ipubi, Santa Filomena e Araripina em consonância com as ações previstas para fase I do plano de
+investimentos da Compesa.
+-Ampliar o sistema de Esgotamento Sanitário de Bezerros, Escada, Belo Jardim e Sanharó de modo a proporcionar o atendimento aos
+serviços em conformidade com as metas estabelecidas na fase I do plano de investimentos da Companhia.
+No anexo F apresentamos uma tabela que apresenta sinteticamente os resultados específicos esperados para cada ação.
+
+2.6. Projeto/Indicadores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 6
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Cobertura de Abastecimento de Água
+POPULAÇÃO
+URBANA COBERTA
+COM
+INFRAESTRUTURA
+DE
+ABASTECIMENTO
+DE ÁGUA DOS
+MUNICÍPIOS COM
+OBRAS DE SAA
+CONTEMPLADAS NO
+PROGRAMA /
+POPULAÇÃO
+URBANA
+RESIDENTE DOS
+MUNICÍPIOS COM
+OBRAS DE SAA
+CONTEMPLADAS NO
+ PROGRAMA
+%
+97,34
+99,05
+Índice de Perda na Distribuição
+IPD = [(VOLUME DE
+ÁGUA DISTRIBUÍDO
+NOS MUNICÍPIOS E
+LOCALIDADES COM
+OBRAS DE SAA
+CONTEMPLADAS NO
+PROGRAMA -
+VOLUME DE ÁGUA
+CONSUMIDO NOS
+MUNICÍPIOS E
+LOCALIDADES COM
+OBRAS DE SAA
+CONTEMPLADAS NO
+PROGRAMA) /
+VOLUME DE ÁGUA
+DISTRIBUÍDO NOS
+MUNICÍPIOS E
+LOCALIDADES COM
+OBRAS DE SAA
+CONTEMPLADAS NO
+ PROGRAMA]
+%
+67,36
+46,23
+Cobertura de Esgotamento Sanitário
+(POPULAÇÃO
+URBANA COBERTA
+COM
+INFRAESTRUTURA
+DE ESGOTAMENTO
+SANITÁRIO DOS
+MUNICÍPIOS COM
+OBRAS DE SES
+CONTEMPLADAS NO
+PROGRAMA  /
+POPULAÇÃO
+URBANA TOTAL
+DOS MUNICÍPIOS
+COM OBRAS DE SES
+CONTEMPLADAS
+NO PROGRAMA) x
+100
+%
+2,75
+31,90
+Índice de Macromedição dos sistemas
+produtores
+Número de sistemas
+produtores/ sistemas
+produtores
+macromedido 
+%
+83,00
+90,00
+Incremento de Capacidade de tratamento
+Capacidade de
+tratamento  atual
+instalada nas etas
+tapacurá e voluntários
+da pátria/capacidade
+de tratamento ao final
+do programa 
+l/s
+2.880,00
+4.600,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 7
+Indice de Micromedição
+% de hidrômetros
+insstalados com
+menos de 5 anos
+%
+30,00
+45,00
+Indicador de dias de abastecimento
+Número de dias de
+abastecimento no mês
+(média ponderada
+das economias ativas
+das localidades
+contempladas no
+programa)
+dias de
+abastecimento
+6,94
+15,00
+2.7. Projeto/Componentes
+Componentes
+Valor(US$)
+C - EXPANSÃO E REQUALIFICAÇÃO DA MACRO E MICROMEDIÇÃO
+10.886.000,00
+      P - Ampliação da Macromedição dos SAAs da COMPESA
+7.317.000,00
+      P - Renovação do Parque de Hidrômetros da COMPESA
+3.569.000,00
+C - OBRAS DE AMPLIAÇÃO E EFICIENTIZAÇÃO DE SISTEMAS DE ABASTECIMENTO DE ÁGUA 
+39.693.000,00
+      P - Ampliação e Eficientização do SAA Olinda
+7.649.000,00
+      P - Ampliação e Eficientização do SAA São Lourenço da Mata
+22.176.000,00
+      P - Ampliação e Eficientização do SAA Pesqueira
+3.972.000,00
+      P - Ampliação e Eficientização do SAA Timbaúba
+3.030.000,00
+      P - Ampliação e Eficientização do SAA Lajedo
+2.866.000,00
+C - OBRAS DE AMPLIAÇÃO DE SISTEMA DE ESGOTAMENTO SANITÁRIO
+34.977.000,00
+      P - Ampliação do SES Escada
+9.943.000,00
+      P - Ampliação do SES Bezerros
+10.259.000,00
+      P - Ampliação do SES Belo Jardim
+9.115.000,00
+      P - Ampliação do SES Sanharó
+5.660.000,00
+C - RETROFIT DE SISTEMAS PRODUTORES INTEGRADOS
+34.394.000,00
+      P - Retrofit do Sistema Produtor Tapacurá
+29.598.000,00
+      P - Ampliação da ETA Voluntários da Pátria - Ouricuri (contrapartida)
+4.796.000,00
+C - ADMINISTRAÇÃO E ENGENHARIA
+4.290.000,00
+      P - Supervisão de Obras
+2.507.000,00
+      P - Suporte ao gerenciamento do Programa
+1.667.000,00
+      P - Monitoramento e avaliação
+58.000,00
+      P - Auditoria
+58.000,00
+Total dos Componentes
+124.240.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - EXPANSÃO E REQUALIFICAÇÃO DA MACRO E MICROMEDIÇÃO
+As perdas de água atualmente constituem o maior desafio das companhias gestoras dos sistemas públicos de abastecimento de
+água no Brasil. Para localidades como o Estado de Pernambuco, onde a disponibilidade de recursos hídricos está à margem do
+estresse de água conforme a ONU (anexo A, f. 1), essa preocupação é ainda maior e mais desafiadora.
+Para se viabilizar uma gestão de alto nível em qualquer setor econômico é necessário que se disponha de um sistema de medição
+preciso, confiável e abrangente para que as decisões estejam embasadas em informações corretas e produzam os efeitos
+desejados.
+Na gestão operacional do abastecimento de água tal papel é desempenhado pelos sistemas de macro e micromedição. Ambos
+sistemas, sendo bem calibrados, atualizados e abrangentes exercem um papel fundamental para o monitoramento dos sistemas de
+abastecimento de água, proporcionando elementos para um melhor controle de vazão e pressão nas redes e na localização e
+magnitude das perdas, orientando os técnicos a agir de forma a melhor proceder em cada caso.
+Neste componente se encontram reunidos os dois projetos que pretendem, nesta primeira fase de investimentos, suprir o sistema
+de abastecimento de água do Estado de sistemas de macro e micromedição adequados as necessidades atuais e futuras.
+      P - Ampliação da Macromedição dos SAAs da COMPESA
+A efetiva implantação de um projeto de macromedição é uma atividade absolutamente indispensável para o controle e o
+gerenciamento das perdas nos sistemas de abastecimento de água e claro, a eliminação do uso do empirismo na operação dos
+mesmos. O mesmo contribuiu enormemente para melhor orientar a operação do sistema de abastecimento de água e para a
+obtenção de dados e estatísticas precisas e confiáveis de produção e distribuição dos sistemas. 
+A partir do aumento da oferta de água e da consecução das ações programadas pelo Pacto Pela Água e os demais projetos da
+Compesa para a primeira fase de investimentos, torna-se ainda mais urgente a necessidade de ampliação do sistema de
+macromedição, promovendo uma aferição mais acurada dos efeitos das obras e serviços de expansão e eficientização de redes e
+proporcionando elementos para uma gestão efetiva e racional dos sistemas de abastecimento de água em todo Estado. 
+De forma resumida, para a macromedição está se propondo:
+(1)A Atualização e Ampliação dos pontos de Macromedição (vazão, pressão, nível) e a respectiva atualização do cadastro técnico
+dos macromedidores por sistema informatizado.
+(2)A Construção de um laboratório de macromedição com bancada de capacidade até DN300, com Acreditação na NBR 17025
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 8
+Ao final do programa a expectativa é que os sistemas operados pela Compesa apresentem Indice de Macromedição das Etas em
+100%, Índice de Macromedição das localidades e Municípios em 100% e Redução da margem de erro dos volumes de entrada nas
+ diversas áreas de abastecimento operadas pela Compesa.
+      P - Renovação do Parque de Hidrômetros da COMPESA
+O plano de hidrometração deve prezar pelo melhor gerenciamento, pela identificação de perdas, pela cobrança justa e pela
+identificação dos consumidores. Tais ações podem resultar na redução de custos, aumento de faturamento e redução do consumo
+de água.
+Assim dentre os benefícios que o hidrômetro em boas condições de uso podemos citar: 
+?Inibição do consumo supérfluo e do desperdício de recursos
+?Recuperação de volumes oriundos dos desperdícios com melhoria na prestação do serviço em regime de eficiência;
+?Enquadrar o cliente em sua devida faixa de consumo;
+Sistemas com abastecimento intermitente propiciam mudanças profundas no perfil dos clientes, normalmente alterando a
+capacidade dos hidrômetros, que são mais exigidos, já que grandes consumos ocorrem em pequenos períodos. Qualquer
+mudança de regime intermitente para contínuo obrigará o redimensionamento dos hidrômetros. A partir dos programas em
+desenvolvimento na Compesa e do Governo do Estado (PEX-PE, PROMIRHIS  e PROEX) para a expansão e eficientização
+fundamentados nas premissas do Pacto pela água para redução do racionamento do abastecimento, a expectativa é que a
+mudança no regime de abastecimento aconteça de forma acelerada, requisitando ações efetivas e imediatas de renovação,
+expansão e compatibilização no parque de hidrômetros. Os fabricantes recomendam a troca de hidrômetros a cada cinco anos
+para que o equipamento não apresente submedição.
+Ao final do programa pretende-se atualizar o parque de hidrômetros da COMPESA, aumentar o quantitativo de ligações ativas com
+hidrômetros, utilizar novas tecnologias para substituições inteligentes e com melhor retorno no faturamento e combate a perdas e
+utilizar as novas tecnologias indicadas de hidrômetros conforme os padrões internacionais.
+Atualmente a COMPESA possui cerca de 30% dos hidrômetros instalados com até 5 anos de uso, o que demonstra a necessidade
+real e imediata de renovação do parque de hidrômetros, complementando as ações de perdas que estão em andamento dos
+programas acima mencionados.
+C - OBRAS DE AMPLIAÇÃO E EFICIENTIZAÇÃO DE SISTEMAS DE ABASTECIMENTO DE ÁGUA 
+Este componente apresenta o conjunto de ações que visam expandir sustentavelmente a oferta de água tratada para os diversos
+sistemas de abastecimento do Estado em conjunto com a eficientização operacional do processo de distribuição de água, a partir
+das contratações semi integradas e por performance. A seleção do escopo e das Municipalidades contempladas se alinham
+plenamente as premissas do Pacto Pela Água e ao ranqueamento elaborado na priorização dos municípios com melhor relação
+oferta x demanda de água que apresentam intermitência de abastecimento (anexo E). Por tais critérios, este componente
+contemplará especificamente os municípios de Olinda, São Lourenço, Timbaúba, Lajedo e Pesqueira. Essas ações, conjunto com
+os demais programas e projetos em desenvolvimento, fazem parte do plano coorporativo para atendimento da primeira fase dos
+investimentos para universalização dos serviços conforme o novo Marco Legal do Saneamento.
+É importante observar que os empreendimentos contemplados neste programa priorizam sistemas de abastecimento de água que,
+em boa parte, já receberam ou estão em vias de receber reforços na oferta de água e necessitam promover a requalificação de
+suas redes adutoras e distribuidoras para aproveitar com a melhor relação custo x benefício esse aumento de vazão. Haverá
+também a necessidade de se realizar adequações e requalificações dos sistemas produtores de cobertura local em vistas ao
+aumento da oferta esperada.
+Pretende-se, a partir das ações aqui propostas, que os sistemas de abastecimento de água de cada localidade sejam
+requalificados de modo a equilibrar receitas e custos, oferta e demanda, reduzindo o racionamento do fornecimento de água e a
+necessidade de maiores investimentos futuros para construção ou ampliação de sistemas produtores.
+      P - Ampliação e Eficientização do SAA Olinda
+A concepção prevista para o sistema de abastecimento de água de Olinda comtempla a ampliação, setorização e substituição da
+rede de distribuição da localidade Peixinhos, bem como recuperação de estruturas nas duas localidades do município. Destaca-se
+que a localidade da sede do município foi contemplada com investimentos para melhoria de sua eficiência, incluindo sua
+setorização, através do Programa de Sustentabilidade Hídrica de Pernambuco (PSH/PE que envolveu captação de recursos com o
+ BIRD.
+O estudo preliminar para melhoria do abastecimento e otimização da distribuição na localidade de Peixinhos, prevê dentre outras
+ações , as seguintes medidas: aumento do volume de reservação, construindo mais dois reservatórios de 2000m³, triplicando
+assim a capacidade de reservação da área, implantação de 9 (nove) SMC, implantação de subadutoras reunindo todos os poços
+no centro de reservação, substituição de adutoras e linhas troncos em cimento amianto, instalações de medidores de vazão e
+válvulas redutoras de pressão.
+Dentre as principais intervenções a serem realizadas, estão previstas a implantação de 03 poços e 02 reservatórios. Além destas,
+será realizada a reforma/recuperação de 29 poços, 03 estações elevatórias e 15 reservatórios. Acerca da rede, está prevista a
+expansão de 125 km de rede de distribuição e substituição de outros 76 km, para melhorar o abastecimento de 09 áreas do
+município, incrementando cerca de 10 mil ligações.
+Além das obras de adequação do SAA também fará parte do empreendimento o período de operação por performance, onde serão
+priorizadas as ações de eficientização do sistema, eliminação do racionamento e redução das perdas em vistas ao atendimento
+das metas acordadas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 9
+      P - Ampliação e Eficientização do SAA São Lourenço da Mata
+A concepção do sistema de abastecimento de água da cidade de São Lourenço da Mata prevê em sua PRODUÇÃO, captações
+nas barragens existentes de Várzea do Una e de Goitá e captações a fio de água no rio Capibaribe, de Castelo e Tiúma. Para tal
+devem ser utilizadas as atuais captações de água, com exceção do açude da Barragem Goitá onde se vislumbra uma nova
+unidade de captação flutuante, para utilização como reserva de água e possibilidade de flexibilidade operacional entre os sistemas
+de São Lourenço da Mata e Tapacurá. A água captada nestes locais será encaminhada por gravidade (Várzea do Una e Goitá) e
+recalque (Tiúma e Castelo) até à Estação de Tratamento de Água a construir próxima ao stand-pipe existente. A água tratada é
+encaminhada a um reservatório a construir no recinto da ETA, que funcionará como tanque de aspiração da estação de
+bombeamento a partir da qual a água tratada é enviada para os reservatórios de distribuição.
+Para o Município de São Lourenço da Mata está proposto que a distribuição de água tratada deverá ser efetuada a partir de três
+reservatórios: (1) RAP Norte, que servirá toda a área da cidade localizada a Norte do Rio Capibaribe; (2) RAP Sul, que servirá toda
+a área da cidade localizada a Sul do Rio Capibaribe, com exceção da área sob influência da Torre de Pressão localizada junto ao
+reservatório Sul; e (3) REL Sul, que permitirá abastecer a zona alta do Parque Capibaribe que não é possível servir de forma
+gravítica através do RAP Sul.
+O empreendimento aqui proposto prevê a implantação da etapa de DISTRIBUIÇÃO da área da cidade localizada a Norte do Rio
+Capibaribe a qual será dividida em 12 distritos de medição e controle, para possibilitar um melhor controle operacional e comercial
+da rede de distribuição. Ainda, é prevista a expansão de 31 km de rede de distribuição e substituição de outros 26 km, para
+melhorar o abastecimento das áreas do município, incrementando cerca de 15 mil ligações.
+Além das obras de adequação do SAA também fará parte do empreendimento o período de operação por performance, onde serão
+priorizadas as ações de eficientização do sistema, eliminação do racionamento e redução das perdas em vistas ao atendimento
+das metas acordadas.
+      P - Ampliação e Eficientização do SAA Pesqueira
+O sistema de abastecimento de água de Pesqueira possui captações isoladas e duas barragens integradas, Rosas e Ipaneminha.
+A integração da ETA Ipaneminha com a sede foi desativada, isolando o sistema da sede. Está previsto um reforço da produção
+pelo Sistema Adutor do Agreste.
+Dentre as principais intervenções a serem realizadas, estão previstas a implantação de 02 estações de tratamento, 01 estações,
+elevatória e 07 reservatórios. Além destas, será realizada a reforma/recuperação de 04 captações de barragem, 04 estações de
+tratamento, 03 estações elevatórias e 14 reservatórios. Acerca da rede, está prevista a expansão de 19 km de rede de distribuição
+e substituição de outros 60 km, para melhorar o abastecimento de 19 áreas do município, incrementando cerca de 360 ligações.
+Além das obras de adequação do SAA também fará parte do empreendimento o período de operação por performance, onde serão
+priorizadas as ações de eficientização do sistema, eliminação do racionamento e redução das perdas em vistas ao atendimento
+das metas acordadas.
+      P - Ampliação e Eficientização do SAA Timbaúba
+O sistema de abastecimento de água de Timbaúba possui três captações, sendo que o Sistema Novo está e continuará desativado
+. Como reforço para este SAA, está prevista uma ampliação do Sistema Produtor Engenho Trás dos Montes, incrementando 20 L/s
+. 
+Dentre as principais intervenções a serem realizadas, estão previstas a implantação de 01 captação de barragem, 01 estação de
+tratamento, 01 estação elevatória e 02 reservatórios.
+Além destas, será realizada a reforma/recuperação de 02 captações de barragem, 01 estação de tratamento, 05 estações
+elevatórias e 08 reservatórios. Acerca da rede, está prevista a expansão de 6 km de rede de distribuição e substituição de outros
+45 km, para melhorar o abastecimento de 12 áreas do município, incrementando cerca de 190 ligações. 
+Além das obras de adequação do SAA também fará parte do empreendimento o período de operação por performance, onde serão
+priorizadas as ações de eficientização do sistema, eliminação do racionamento e redução das perdas em vistas ao atendimento
+das metas acordadas.
+      P - Ampliação e Eficientização do SAA Lajedo
+O sistema de abastecimento de água de Lajedo é integrado com a localidade Vila de São José e São Bento do Una-Queimada
+Grande, tendo previsão de reforço pelo Sistema Adutor do Agreste.
+Dentre as principais intervenções que serão realizadas, destaca-se a implantação de 02 estações elevatórias e 03 reservatórios.
+Além destas, será realizada a reforma/recuperação de 01 captação de barragem, 01 estação de tratamento, 06 estações
+elevatórias e 09 reservatórios. Com relação a rede, está prevista a implantação de 11 km de rede de distribuição e a substituição
+12 km, para melhorar o abastecimento das áreas abastecidas do município, incrementando cerca de 1.000 ligações.
+Além das obras de adequação do SAA também fará parte do empreendimento o período de operação por performance, onde serão
+priorizadas as ações de eficientização do sistema, eliminação do racionamento e redução das perdas em vistas ao atendimento
+das metas acordadas.
+C - OBRAS DE AMPLIAÇÃO DE SISTEMA DE ESGOTAMENTO SANITÁRIO
+As obras de esgotamento Sanitário elencadas neste PROEX contemplam os Municípios do Interior do Estado em que se verifica,
+nos compromissos assumidos para a fase 1, previsão de evolução nos indicadores de atendimento dos serviços. São intervenções
+que a Companhia ainda busca fonte de recursos para sua implementação e que não terão suas necessidades integralmente
+atingidas pelas PPPs do esgotamento sanitário do interior do Estado que se encontram em fase de estudos.
+Estão previstas ações de ampliação de cobertura de sistemas de esgotamento sanitário, com vistas as metas de atendimento
+constante da 1ª fase do plano de universalização dos serviços, em consonância com as políticas ambientais, de modo a prover os
+municípios com sistemas sustentáveis e com objetivo de preservar o meio ambiente promovendo a melhoria na qualidade de vida
+da população.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 10
+      P - Ampliação do SES Escada
+A implantação da 1ª etapa do Sistema de Esgotamento Sanitário de Escada, que foi iniciada por meio de recursos do Banco
+Interamericano de Desenvolvimento - BID, no âmbito do Programa de Saneamento Ambiental da Bacia Hidrográfica do Rio Ipojuca
+? PSA Ipojuca, tinha por objetivo, atender cerca de 40% da população urbana da cidade de Escada, abrangendo os bairros de
+Nova Descoberta, Centro, Viradouro, São Sebastião, Riacho do Navio e Vila Operária. Foram realizados durante o PSA Ipojuca a
+implantação de aproximadamente de 6 km de rede coletora de esgoto, 12 km de ramal condominial, 200 ligações intradomiciliares
+e 03 estações de bombeamento, além da reforma e ampliação da Estação de Tratamento de Esgoto, conferindo-lhe capacidade
+para tratar 120 L/s de esgoto.
+As obras que estão previstas para serem realizadas, são de complementação à iniciada por meio do PSA Ipojuca, viabilizado a
+adaptação de 01 Tanque de Aeração da Estação de Tratamento de Esgotos ? ETE, construção de 01 Estação Elevatória B, além
+da implantação de 5 km de rede coletora, cerca de 24 km de ramais condominiais e 6.000 ligações intradomiciliares.
+Com a finalização das obras, será beneficiada com o projeto, uma população de aproximadamente 22.000 habitantes. 
+      P - Ampliação do SES Bezerros
+O Sistema de Esgotamento Sanitário da Cidade de Bezerros, previsto para atender uma população de aproximadamente 19 mil
+habitantes, na primeira etapa do projeto, com a utilização de recursos do Banco Interamericano de Desenvolvimento - BID, no
+âmbito do Programa de Saneamento Ambiental da Bacia Hidrográfica do Rio Ipojuca ? PSA Ipojuca, que contemplou parte da
+execução de 01 Estação de tratamento de esgoto com capacidade de 47,6 l/s, assentamento de 10 km de rede coletora de esgoto
+DN 150 A 600 mm em tubos PVC e PEAD, implantação de 5.000 metros de ramais condominiais, parte de 01 Estação elevatória
+com capacidade de bombear 150 l/s, e execução de 2.280 metros de emissário de recalque.  
+As obras que estão previstas para serem realizadas, são de complementação à iniciada pelo PSA Ipojuca, que tem por objetivo a
+finalização de 01 Estação de Tratamento de Esgotos ? ETE e de 01 Estação Elevatória, além da implantação de 25 km de ramais
+condominiais e 4.000 ligações intradomiciliares.
+Com a finalização das obras, serão beneficiados nessa primeira fase do projeto os Bairros: Centro, São Pedro, São Sebastião e
+Cruzeiro, localizados na Bacia D, totalizando uma população de aproximadamente 19.000 habitantes. Salientamos que a
+implantação da Estação de Tratamento de Esgoto será executada por etapas, seguindo o projeto básico elaborado pela Compesa
+para área urbana.
+      P - Ampliação do SES Belo Jardim
+No Município de Belo Jardim houve um contrato financiado com recursos do Banco Interamericano de Desenvolvimento - BID, no
+âmbito do Programa de Saneamento Ambiental da Bacia Hidrográfica do Rio Ipojuca ? PSA Ipojuca, que viabilizou obras de parte
+da implantação da primeira etapa do Sistema de Esgotamento Sanitário de Belo Jardim e obras complementares, que no final
+deveria atender cerca de 35% da cidade. 
+No que se refere às bacias atendidas nesta parte que foi executada por meio do contrato supracitado, merecem destaque as
+seguintes intervenções que foram realizadas: a) Ligações intradomiciliares: serão contempladas cerca de 300 ligações; b)
+Implantação de cerca de 17 Km de ramais condominiais; c) Implantação de cerca de 17 Km de rede coletora de esgoto. As obras
+complementares realizadas tinham por objetivo atender as necessidades de operação e manutenção dos Sistemas de
+Esgotamento Sanitário e Abastecimento de Água de Belo Jardim. Foram construídos: 01 Almoxarifado, 01 Núcleo de Manutenção
+e 01 Laboratório Regional. Para atendimento das necessidades dos usuários, foi realizada a reforma da Loja de Atendimento ao
+Cliente que a Compesa mantém na cidade.
+Em paralelo, por meio de outro contrato, também foi realizada a implantação de 01 Estação de Tratamento de Esgotos ?ETE.
+As obras que estão previstas para serem realizadas, são de complementação à iniciada por meio do PSA Ipojuca, que tem por
+objetivo a construção de 01 Estação Elevatória com vazão de recalque de 6,56 L/s, implantação de 2 km de rede coletora, 33 km
+de ramais condominiais e 4.700 ligações intradomiciliares.
+Com a conclusão das obras de todo o sistema de esgotamento sanitário será beneficiada uma população de aproximadamente 18.
+000 habitantes.
+      P - Ampliação do SES Sanharó
+A cidade de Sanharó não possui Sistema de Esgotamento Sanitário Público. A Compesa realizou a revisão o Projeto elaborado
+pela SRHE, e contratou a obra com recursos do Banco Interamericano de Desenvolvimento - BID, no âmbito do Programa de
+Saneamento Ambiental da Bacia Hidrográfica do Rio Ipojuca ? PSA Ipojuca. A obra realizada por meio do PSA Ipojuca, consistiu
+na implantação de aproximadamente 16 km de rede coletora com tubos PVC DN 150 a 350mm, 20 km de ramal condominial, 03
+estações elevatórias de esgoto, emissários de recalque com 1,3 km em PVC DN 100 a 350mm, cerca de 1.300 ligações. O sistema
+foi construído preferencialmente na metodologia condominial, objetivando a universalização do atendimento e a racionalização dos
+ custos de investimento. 
+A obra que deverá ser realizada, prevê a complementação dos serviços iniciados pelo  PSA Ipojuca, e tem por objetivo, a
+implantação de aproximadamente 10 km de ramais condominiais e cerca de 2.000 ligações intradomiciliares.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 11
+Vale salientar que em relação a estação de tratamento de esgotos sanitários, está sendo viabilizado um processo licitatório em
+separado, que irá realizar o tratamento terciário dos esgotos afluentes, com capacidade para 40 l/s.
+Com a conclusão das obras de todo o sistema de esgotamento sanitário, será beneficiada uma população de aproximadamente 13.
+000 habitantes.
+C - RETROFIT DE SISTEMAS PRODUTORES INTEGRADOS
+Para cumprimento da primeira fase dos investimentos previstos para o alcance das metas de universalização dos serviços de
+abastecimento de água as intervenções nos grandes sistemas integrados do Estado já se encontram em andamento ou com
+recursos garantidos (Anexo A, f.3).  O projeto de Integração do São Francisco chegou para suprir a imensa necessidade de
+disponibilidade hídrica sofrida pelo Estado de Pernambuco, principalmente na região do Agreste do Estado e boa parte do Sertão. 
+Desta forma, as intervenções em sistemas produtores necessários ainda não totalmente contemplados pelas supracitadas ações
+são em sua quase totalidade advindas de abrangência local, atendendo apenas as necessidades dos municípios sede, e estão
+integrados ao escopo das ações previstas para concretização do Pacto Pela Água, contempladas pelo PEX, PROMIRHIS e, como
+visto no componente anterior os projetos voltados para a ampliação e eficientização dos SAA se propõe a promover essas
+adequações nos sistemas produtores de cada localidade.
+O presente componente visa restabelecer e ampliar a capacidade de produção de sistemas integrados para suprir as demandas
+dos municípios beneficiados que constam do plano de investimentos e metas da fase 1 e ainda não possuem recursos garantidos,
+como é o caso do Retrofit do Sistema Tapacurá, importante sistema produtor da Região Metropolitana do Recife. 
+O outro componente desta seção é também um retrofit, desta vez no sertão, para a ETA Voluntários dá Pátria, que está sediado no
+Município de Ouricuri, mas atende também os municípios de Trindade, Ipubi, Santa Filomena e Araripina. Esta é uma ação que já
+está prevista no plano Estadual de investimentos e entrará como contrapartida neste PROEX.
+      P - Retrofit do Sistema Produtor Tapacurá
+O Sistema Tapacurá entrou em operação em 1975 e atualmente produz, aproximadamente, 36% do volume distribuído na Região
+Metropolitana do Recife, abrangendo a Cidade do Recife, São Lourenço da Mata, Camaragibe e Jaboatão. A captação é realizada
+a partir dos seguintes mananciais: Rio Tapacurá, Rio Duas Unas e, posteriormente, com unidades de captação construídas durante
+ situações de emergência, os Rios Capibaribe e Várzea do Una.
+O Rio Tapacurá e o Rio Duas Unas, são explorados através de barragens homônimas aos seus respectivos rios, localizadas em
+São Lourenço da Mata e Jaboatão dos Guararapes, respectivamente. Já o Rio Capibaribe é explorado através das estações
+elevatórias de Tiúma e Castelo. Vale ressaltar que para que estas elevatórias operassem normalmente, o Rio Capibaribe foi
+regularizado através das Barragens Carpina e Goitá (estando esta última localizada no Rio Goitá, um de seus afluentes) que,
+inicialmente construídas para contenção de enchentes, passaram a desempenhar também a função de abastecimento público. 
+As principais intervenções previstas para o Retrofit do Sistema Produtor Tapacurá são: a recuperação dos dispositivos de controle
+das Barragens de Duas e Tapacurá; aquisição e instalação de válvulas e dispositivos hidromecânicos das adutoras de Duas Unas
+e Tapacurá; o remanejamento, aquisição e instalação de trecho de 5 km da adutora de DN 1.600 mm; modernização e resgate da
+capacidade nominal da estação de tratamento de Tapacurá de 2.800 L/s para 4.000 L/s, incluindo recuperação civil, estrutural e
+ETEF; adequação e modernização das captações de Castelo, Tiúma e Duas Unas, incluindo a construção do Stand Pipe;
+recuperação estrutural dos tubos de concreto armado da adutora de DN 1.600 mm; e automação.
+      P - Ampliação da ETA Voluntários da Pátria - Ouricuri (contrapartida)
+A obra consiste em implantar o terceiro módulo de filtros ascendentes e de polimento, recuperar estrutura dos filtros existentes, e
+substituição dos leitos filtrantes. Concentrar o tratamento de água para Trindade, Ipubi, Morais, Santa Rita, Araripina e
+comunidades rurais que hoje recebem água bruta. Desativação das ETA's dessas 5 localidades e eliminação da necessidade de
+futuras ETEF?s na GNR Araripe (Ação MPPE). 
+Serão 65.000 ligações beneficiadas além das novas e após a reformulação do projeto e da obra pronta, terão uma oferta de água
+de 600L/s enquanto que atualmente tem: 80L/s.
+O pay back do valor total será em 120 meses.
+C - ADMINISTRAÇÃO E ENGENHARIA
+Conjunto de ações necessárias à supervisão e ao gerenciamento das ações, com foco no acompanhamento e na fiscalização das
+obras, bem como no suporte às atividades relacionadas à gestão e aos aspetos técnicos e administrativos do Programa.
+      P - Supervisão de Obras
+Devido à grande quantidade de obras previstas dentro do Programa, torna-se necessária à contratação de empresas
+especializadas no acompanhamento e fiscalização dos diversos canteiros e frentes de serviços de obras que serão criados. O
+período previsto para o desenvolvimento desses trabalhos é de 4 anos.
+Esses serviços compreenderão o apoio à COMPESA na fiscalização das obras de saneamento, firmados com terceiros. Também
+compreenderão trabalhos de acompanhamento da qualidade dos serviços, fidelidade no seguimento das soluções de projeto,
+aplicação de materiais e uso dos métodos construtivos, perfazendo assim um perfil altamente técnico aos trabalhos. Também
+deverão ser acompanhadas a acuidade dos trabalhos de sondagem, a escavação e uso compatível com os materiais e
+equipamentos:
+Para o desempenho do serviço de fiscalização e acompanhamento de obras estão previstas as seguintes atividades básicas:
+(1) Atividades de campo, realizadas no local das obras;
+(2) Controle da qualidade técnica dos serviços contratados;
+(3) Acompanhamento do atendimento dos serviços contratados às especificações da COMPESA;
+(4) Apropriação, quando for o caso, dos quantitativos efetivamente executados;
+(5) Verificações técnicas, ambientais e administrativas, relacionadas às atividades do canteiro de obras e das frentes de serviços;
+(6) Verificação do cumprimento, no âmbito dos contratos dos requisitos de funcionalidade técnica requeridos em projeto;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 12
+(7) Verificação do cumprimento, no âmbito dos contratos de obras, da legislação trabalhista e de segurança do trabalho.
+(8) Controle dos faturamentos da obra, verificando os quantitativos efetivamente medidos;
+(9) Acompanhamento da evolução física e financeira dos contratos;
+(10) Determinação de índices de produtividade das equipes de obra, utilizáveis para elaboração de futuros orçamentos;
+(11) Verificação de cadastros de unidades dos sistemas de abastecimento de água e esgotamento sanitário da COMPESA;
+(12) Acompanhamento através de relatórios mensais que reflitam indicadores de custo, desempenho e avanço físico dos
+empreendimentos, apontando os caminhos críticos e as alternativas de solução para os problemas decorrentes da execução
+contratual.
+      P - Suporte ao gerenciamento do Programa
+A contratação de gerenciadora para o Programa tem por objetivo dar suporte à COMPESA nas seguintes atividades:
+acompanhamento das licitações e execução dos empreendimentos; fornecimento de informações ao organismo financiador e
+prestação de contas ao mesmo; elaboração de todos os documentos previstos em Contrato de Empréstimo, tais como Relatórios
+Semestrais, Planos Anuais de Manutenção, Relatórios de Auditoria etc; acompanhamento de metas; elaboração e manutenção do
+planejamento global do Programa. 
+Pretende-se, com este suporte, tornar possível o monitoramento do Programa em todos os níveis, com vistas a promover os
+ajustes necessários ao seu cumprimento, de acordo com as metas acordadas com o organismo financiador.
+      P - Monitoramento e avaliação
+O foco dessas atividades é o acompanhamento sistemático e rotineiro de ações, metas e procedimentos relacionados ao alcance
+de objetivos macro, considerada sua temporalidade rotineira em tempo oportuno, para subsidiar a tomada de decisão, redução de
+problema e correção de rumos. Monitorar continuamente permite ajustar as medidas a fim de se aproximar do alcance dos
+objetivos.
+      P - Auditoria
+Os serviços de consultoria em questão consistem na emissão de opinião profissional, por auditores externos, sobre: 
+(1)A situação financeira do Projeto no período auditado e as normas e os procedimentos de licitação utilizados pelo Projeto; 
+(2)A adequação dos seus respectivos controles internos e 
+(3) A sua conformidade com o Acordo Empréstimo e com as leis e regulamentos aplicáveis.
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Obras
+-
+-
+109.064.000,00
+87,78
+P- Ampliação e Eficientização do SAA Olinda
+% PERDAS
+DISTRIBUIÇÃO 
+44,40
+7.649.000,00
+6,16
+P- Ampliação e Eficientização do SAA São
+Lourenço da Mata
+% PERDAS
+DISTRIBUIÇÃO 
+52,30
+22.176.000,00
+17,85
+P- Ampliação e Eficientização do SAA Pesqueira
+% PERDAS
+DISTRIBUIÇÃO 
+46,90
+3.972.000,00
+3,20
+P- Ampliação e Eficientização do SAA Timbaúba
+% PERDAS
+DISTRIBUIÇÃO 
+49,00
+3.030.000,00
+2,44
+P- Ampliação e Eficientização do SAA Lajedo
+% PERDAS
+DISTRIBUIÇÃO 
+41,40
+2.866.000,00
+2,31
+P- Ampliação do SES Escada
+% COBERTURA
+ESGOTOS
+32,10
+9.943.000,00
+8,00
+P- Ampliação do SES Bezerros
+% DE COBERTURA
+ESGOTOS
+29,80
+10.259.000,00
+8,26
+P- Ampliação do SES Belo Jardim
+% DE COBERTURA
+ESGOTOS
+23,80
+9.115.000,00
+7,34
+P- Ampliação do SES Sanharó
+% DE COBERTURA
+ESGOTOS
+68,10
+5.660.000,00
+4,56
+P- Retrofit do Sistema Produtor Tapacurá
+ud
+1,00
+29.598.000,00
+23,82
+P- Ampliação da ETA Voluntários da Pátria -
+Ouricuri (contrapartida)
+ud
+1,00
+4.796.000,00
+3,86
+Consultoria
+-
+-
+4.232.000,00
+3,41
+P- Supervisão de Obras
+meses
+60,00
+2.507.000,00
+2,02
+P- Suporte ao gerenciamento do Programa
+meses
+60,00
+1.667.000,00
+1,34
+P- Monitoramento e avaliação
+meses
+60,00
+58.000,00
+0,05
+Serviços que Não de Consultoria
+-
+-
+10.886.000,00
+8,76
+P- Ampliação da Macromedição dos SAAs da
+COMPESA
+% de Macromedição
+ETAs
+100,00
+7.317.000,00
+5,89
+P- Renovação do Parque de Hidrômetros da
+COMPESA
+%
+45,00
+3.569.000,00
+2,87
+Outros
+-
+-
+58.000,00
+0,05
+P- Auditoria
+meses
+60,00
+58.000,00
+0,05
+Total Geral
+-
+-
+124.240.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 13
+A maior parte dos projetos básicos de engenharia estão concluídos, inclusive com suas respectivas especificações técnicas, restando,
+oportunamente, as atualizações dos orçamentos e a elaboração/atualização de termos de referência, para posterior Licitação. As ações
+que ainda não dispõem de projetos prontos para licitação serão inseridas no rol de contratações integrada ou semi-integrada, conforme
+prevê a Lei 13.303, a qual está submetida a COMPESA.
+
+Os projetos serão submetidos ao órgão estadual competente de regulação ambiental, Agência Estadual de Meio Ambiente CPRH, que
+após análise emitirá parecer técnico a respeito das condicionantes necessárias para a execução das ações.
+
+Maior detalhamento no anexo G.
+
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Estadual/Municipios
+Estado de Pernambuco (MUNICIPIO DE  SANTA FILOMENA, MUNICIPIO DE  SANTA CRUZ, MUNICIPIO DE  ARARIPINA, MUNICIPIO
+DE  BELO JARDIM, MUNICIPIO DE  BEZERROS, MUNICIPIO DE  ESCADA, MUNICIPIO DE  IPUBI, MUNICIPIO DE  JABOATAO DOS
+GUARARAPES, MUNICIPIO DE  LAJEDO, MUNICIPIO DE  OLINDA, MUNICIPIO DE  OURICURI, MUNICIPIO DE  PESQUEIRA,
+MUNICIPIO DE  RECIFE, MUNICIPIO DE  SANHARO, MUNICIPIO DE  SAO LOURENCO DA MATA, MUNICIPIO DE  TIMBAUBA,
+MUNICIPIO DE  TRINDADE, MUNICIPIO DE  CAMARAGIBE)
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+Os termos financeiros da operação estão estruturados dentro dos parâmetros definidos pelo BID, sendo eles:
+a) Carência: 5.5 anos (66 meses)
+ b) Prazo: 25 anos (300 meses)
+c) Prazo de amortização: 19.5 anos (234 meses) 
+d) Taxa de juros (composição):
+d.1) Índice SOFR: reajustado diariamente 
+d.2) Spread de captação: reajustado trimestralmente (Atualmente em 0.29%)
+d.2) Spread para empréstimos do Capital Ordinário: determinado periodicamente pela Diretoria do BID (Atualmente em 0.9%) 
+Comissão de crédito sobre o saldo não desembolsado do financiamento: 0.5% a.a. (vigente), não podendo ultrapassar 0.75% a.a. Essa
+comissão é determinada periodicamente pela Diretoria do Banco.
+e) Prazo de desembolso: 5 anos (60 meses)  
+f) Intervalos de desembolso: 06 Meses
+g) Modalidade de emprestimo: FFF (Flexible Financing Facility/Facilidade Flexível de Financiamento)
+Justificativa para a Escolha do BID
+Nos últimos 12 anos, para exercer sua atribuição de executar a política de abastecimento de água e esgotamento sanitário do Estado de
+Pernambuco, a Companhia Pernambucana de Saneamento - COMPESA investiu mais de R$ 7 bilhões, com recursos próprios e captados
+pelo Governo do Estado de Pernambuco nas diversas fontes disponíveis para o setor. Foram e estão sendo realizadas diversas obras e
+ações que impactam diretamente na melhoria da qualidade de vida dos pernambucanos e visam sanar dificuldades estruturais
+relacionadas a limitada disponibilidade hídrica, operação ineficiente dos sistemas e a baixa cobertura dos sistemas de esgotamento
+sanitário.
+Diante disso e da necessidade contínua de ampliação e melhoria dos serviços de abastecimento de água e esgotamento sanitário, a
+COMPESA tem buscado novas fontes e formas de captação de recurso para viabilizar essas ações. No contexto de captação nacional, há
+restrições de crédito para empréstimos e financiamento impostas ao setor público, como o teto de endividamento do setor indicado pelo
+Governo Federal.
+O Banco Interamericano de Desenvolvimento - BID é um banco multilateral de desenvolvimento (BMD). Aqui, cabe conceituar brevemente
+o que representa um BMD. 
+Analisando a literatura sobre o assunto, temos que um banco de desenvolvimento é definido assim considerando que seus programas,
+financiamentos e empréstimos são dirigidos para projetos que buscam fomentar o desenvolvimento nos países de atuação. Ainda, temos
+que os bancos multilaterais de desenvolvimento são como cooperativas de créditos nos quais os países-clientes também são sócios do
+banco (COUTO, 1999: 46-47). 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 14
+No caso do BID, foi criado 1959 com o propósito de financiar projetos viáveis de desenvolvimento econômico, social e institucional e
+promover a integração comercial regional na área da América Latina e o Caribe. Como mutuário de financiamentos com BMDs, o Brasil
+possui uma carteira de projetos em execução relativamente extensa, computando bilhões de dólares, com vários organismos de caráter
+multilateral e bilateral. 
+Segundo o artigo "A Lógica de Funcionamento dos Bancos Multilaterais de Desenvolvimento e o seu Relacionamento com o Brasil no
+período 1990-2012", a lógica de funcionamento dos bancos desse tipo consiste no direcionamento desses recursos, com custos
+competitivos, para o financiamento de projetos públicos e privados nos países mutuários, em geral com baixo retorno financeiro, mas com
+importantes retornos econômico e social. 
+Ainda conforme o referido artigo, considerando que a lógica de funcionamento dos bancos multilaterais consiste no ?direcionamento de
+recursos, com custos competitivos, para o financiamento de projetos públicos e privados nos países mutuários, em geral com baixo
+retorno financeiro, mas com importantes retornos econômico e social?, os financiamentos e empréstimos possuem características mais de
+ longo prazo e taxas mais atrativas do que outros instrumentos financeiros de mercado.
+Diante disso, foram pesquisados 5 dos principais players desse segmento (anexo A, f.10), sendo eles:
+1.BID - Banco Interamericano de Desenvolvimento (IBD);
+2.BIRD - Banco Internacional para Reconstrução e Desenvolvimento (IBRD);
+3.NBD - Novo Banco de Desenvolvimento (NDB);
+4.CAF - Banco de Desenvolvimento da América Latina;
+5.AFD - Agência Francesa de Desenvolvimento.
+Na etapa que estamos de preparação do projeto, também serão discutidas/simuladas as melhores condições para as ações que forem
+desenhadas, buscando otimizar o custo final da operação.
+
+2.11. PROJETO/BENEFICIÁRIO
+As ações especificadas neste documento, terão impactos imediatos e diretos para as populações das regiões de abrangência do projeto e
+adjacências. Serão diretas ou indiretamente beneficiados os Municípios da Olinda, Recife, Jaboatão dos Guararapes, Camaragibe, São
+Lourenço da Mata, Pesqueira, Timbaúba, Lajedo, Escada, Belo Jardim, Sanharó, Bezerros, Ouricuri, Trindade, Ipubi, Araripina, Santa Cruz
+ e Santa Filomena, abrangendo uma população de aproximadamente 3 Milhões de habitantes.
+A infraestrutura hídrica proposta constitui elemento central da gestão dos escassos recursos hídricos do estado, dando uso eficaz das
+águas transpostas do Rio São Francisco e de outros sistemas adutores do Estado. Essas ações estão em linha com o plano estadual de
+recursos hídricos, de acordo com a legislação brasileira de gestão integrada de recursos hídricos e com as disposições do novo Marco
+Legal do Saneamento e do planejamento do Estado e da Companhia para cumprimento das metas de universalização dos serviços. 
+A alocação negociada da água, envolvendo as águas transpostas do Rio São Francisco e os sistemas adutores operados pela COMPESA
+a partir de reservatórios de uso múltiplo, são elementos inovadores de gestão integrada e participativa de recursos hídricos. No âmbito
+estadual, essa alocação passa pelo sistema de gestão participativa do Estado, capitaneado pela APAC, pelo Conselho Estadual e pelos
+comitês de bacia e associações de usuários da água. Da mesma forma, a gestão dos serviços regionalizados de saneamento básico, em
+conformidade com lei federal e estadual, pressupõe a efetiva participação dos municípios, ampliando os espaços de participação cidadã. 
+O modelo de contratação e de operação das ações de redução de perdas envolve contratos de operação e manutenção com o setor
+privado, de médio e longo prazos. Essa participação privada na operação gera incentivos à eficiência e à inovação, ao mesmo tempo em
+que os contratos conterão metas precisas de melhoria e expansão dos serviços. 
+Através dos projetos de expansão e eficientização dos sistemas distribuidores, coadunada com as premissas do Pacto Pela Água, o
+PROEX irá aumentar segurança hídrica das cidades contempladas, assegurando maior oferta de água e, especialmente, seu uso mais
+eficiente em sistemas de distribuição, reduzindo racionamentos. Neste sentido, muito também irão contribuir os projetos de Macro e
+micromedição para os demais municípios do Estado para a gestão dos serviços e ações de combate as perdas e melhoria da distribuição.
+Por este componente o PROEX fará a ponte entre as diversos projetos, programas e ações em andamento e em desenvolvimento na
+Compesa.
+Os sistemas de elevação de água envolverão equipamentos de eficiência energética, além de regime operacional que maximize as
+disponibilidades hídricas de distintos sistemas locais e integrados/regionais. O controle de perdas em sistemas de água também envolve
+eficiência energética, especialmente pela otimização dos sistemas de abastecimento e da criação dos distritos de medição e controle e
+setorização.  Novas tecnologia de contratação de serviços, de operação automatizada, de implantação dos DMCs, de leitura e medição
+digital, entre outras, reduzirá custos de operação e riscos. Destacar no texto, inserir indicador
+A ampliação dos serviços de esgotamento sanitário reduzirá a poluição dos corpos de água, aumentando a sua disponibilidade para uso,
+assim também contribuindo para a melhoria da segurança hídrica.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 15
+A garantia da oferta hídrica além de proporcionar melhores condições de saúde e dignidade a população beneficiada pelo PROEX-PE,
+também oferece outros efeitos positivos no âmbito socioeconômico e ambiental.
+Aumento da segurança hídrica e da prestação dos serviços de abastecimento de água e de esgotamento sanitário tem impacto direto na
+saúde, reduz a mortalidade infantil e a incidência de doenças relacionadas. Mais ainda, favorece a fruição e acesso e reduz riscos de
+interrupção dos serviços de saúde e de educação.
+A oferta segura de água garante fornecimento mesmo em períodos de secas severas, favorecendo o ambiente de negócios, abrindo
+oportunidade de novos empreendimentos pois aumenta a previsibilidade da vida nas cidades beneficiadas, reduzindo emigrações e
+favorecendo o desenvolvimento de novos negócios locais e também de atividades novas, como turismo, aumentando oportunidades.
+Assim, beneficia o comércio local, favorecendo o desenvolvimento econômico em função da redução dos riscos de interrupções e de
+perdas econômicas. 
+A garantia da oferta de água trará importante incentivo ao desenvolvimento local, aumentando oportunidades, principalmente para as
+populações de baixa renda residentes nas áreas do projeto, de baixo IDH, estimada em 1,35 milhões habitantes nestas condições. As
+próprias obras, que terão importante demanda de empregos no período de sua execução, especialmente para moradores da região
+beneficiada (mais de 2.869 novos empregos para as obras de água e esgoto). 
+A redução do racionamento de água e o aumento da segurança hídrica favorecem as famílias mais vulneráveis, em geral de mais baixa
+renda, especialmente as mulheres, de forma direta e indireta, posto que elas ainda são mais responsáveis pela segurança do lar e dos
+cuidados com filhos. A oferta domiciliar perene de água evita deslocamentos para a busca de água, reduz interrupções em serviços como
+educação e saúde, favorecendo, consequentemente, que mais mulheres possam buscar o mercado de trabalho.
+Pode-se dizer também que o escopo do PROEX-PE tem forte vínculo com adaptação climática, aumentando a resiliência dos serviços de
+água, posto que as secas tendem a se agravar em severidade e duração.
+
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Internas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Contrapartida Financeira
+CF
+US$
+4.796.000,00
+1,00
+4.796.000,00
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Banco Interamericano de Desenvolvimento
+ - BID
+BID
+US$
+119.444.000,00
+1,00
+119.444.000,00
+Total:
+124.240.000,00
+124.240.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+ARRANJO OPERACIONAL
+A Unidade Gestora do Programa do PROEX|PE ficará inserida na Gerência de Programas Especiais - GPS, ligada à Diretoria de Negócios
+e Eficiência da COMPESA - DNE. Esta Gerência foi estruturada para garantir a gestão e o monitoramento dos contratos de empréstimos
+da Companhia, provendo o necessário suporte técnico, jurídico, socioambiental e administrativo-financeiro.
+A GPS deve garantir a perfeita interlocução com os diversos atores envolvidos no Projeto, inclusive de fora da Companhia, tais como
+Secretarias de Estado, Agências de Meio Ambiente e Prefeituras, bem como gerir o contrato de empréstimo, monitorar e prover todos os
+procedimentos e mecanismos necessários ao atingimento as metas do Programa. Ligadas à Gerência de Programas Especiais estão:
+A Coordenação de Programas Especiais (CPS) deve administrar as atividades técnicas de engenharia, garantindo que as diretrizes
+definidas em instrumentos específicos do contrato sejam cumpridas. Assim, deve acompanhar a elaboração, fazer análises e aprovar os
+projetos, as especificações técnicas e os orçamentos de engenharia. Acompanhar a execução das ações necessárias ao licenciamento de
+obras, a execução e o recebimento de obras e serviços de engenharia, desenvolvendo suas atribuições de acordo com os procedimentos
+e padrões adotados pela Companhia, interagindo com Gerências de Obras e outras correlatas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 16
+A Coordenação de Meio Ambiente e Articulação Social (CMS) deve administrar as atividades socioambientais do Programa, garantindo
+que as diretrizes definidas em instrumentos específicos do contrato sejam cumpridas. Também deve coordenar e aprovar os projetos e
+ações nas áreas sociais e monitorar o cumprimento dos requisitos socioambientais, promovendo a interlocução com os órgãos
+competentes. Desenvolver suas atribuições, observando os procedimentos padrões adotados pela Companhia, interagindo com áreas e
+temas correlatos.
+A Coordenação Administrativa e Financeira (CAF) deve garantir que as diretrizes definidas em instrumentos específicos do contrato sejam
+cumpridas. Coordenar e executar as ações necessárias à elaboração de propostas orçamentárias do Programa, junto aos órgãos
+competentes, no que se refere à alocação dos recursos de contrapartida e da operação de crédito. Deve acompanhar as solicitações de
+desembolso, emissão de notas de empenho, pagamentos e conciliações das contas do Programa, garantindo os registros formais
+necessários ao controle dessas ações. A Coordenação deve executar as ações necessárias para garantir o cumprimento das obrigações
+administrativas, econômicas e financeiras, incluindo pagamentos, observando as exigências do agente financiador. Desenvolver suas
+atribuições observando os procedimentos padrões adotados pela Companhia, interagindo com áreas e temas correlatos.
+A Coordenação Jurídica e de Aquisições (CJA) coordena as atividades jurídicas e de aquisições do Programa, garantindo que as diretrizes
+definidas em instrumentos específicos do contrato de financiamento sejam cumpridas. Elaborar e avaliar os documentos de natureza legal
+do Programa, incluindo termos de referência, editais, contratos, termos aditivos, convênios e/ou termos de cooperação técnica. Também
+deve coordenar o processo de recebimento de bens e adotar as providências cabíveis junto à área de patrimônio da Companhia,
+desenvolvendo suas atribuições de acordo com os procedimentos padrões adotados. Deve interagir com as áreas e temas correlatos.
+Cada umas das Coordenações espelha uma área específica na estrutura organizacional da Compesa (e/ou de outros Órgãos), cabendo-
+lhes o trabalho de interlocução direta com as áreas correlatas. Enfim, a Gerência de Programas Especiais, e suas Coordenações e
+respectivas estruturas, transita por todo o organograma da Companhia, interagindo com as mais diversas áreas.
+Essa estrutura da UGP, que poderá variar de tamanho ao longo do Programa, será composta por profissionais de carreira da COMPESA,
+nos cargos de Gerência, Coordenações e algumas especialidades, além de consultores individuais e profissionais terceirizados, por meio
+dos contratos de Gerenciamento e de Supervisão.
+De forma exitosa, a GPS, com o referido modelo e estrutura, faz a gestão e dá suporte a dois dos principais Programas no Estado, com
+destaque para o Programa de Saneamento Ambiental da Bacia do Rio Ipojuca. Neste modelo, a UGP Compesa, assim como proposto
+nesta Carta Consulta, garante o cumprimento das políticas do BID, nas fases de contratação, execução, prestação de contas e operação
+das ações, monitorando, fiscalizando e provendo os recursos necessário ao bom andamento do Programa.
+Na GPS, simultaneamente, outras UGPs devem coexistir de forma harmônica, cada qual com as suas estruturas e funções especificas,
+todas subordinadas às Coordenações mencionadas. Cada Programa, com financiamento específico, deverá contar com um UGP,
+devidamente estruturada.
+ 
+O arranjo institucional e a matriz de responsabilidade se encontram no anexo H.
+
+4.2. Execução/Executores
+Executor: Companhia Pernambucana de Saneamento - COMPESA
+Representante Oficial: MANUELA COUTINHO DOMINGUES MARINHO
+Endereço da Sede: Avenida Cruz Cabugá, 1387 - Santo Amaro
+E-mail Institucional:
+Telefone:  (81) 3412-9012
+Fax:
+CNPJ: 09769035000164 
+UF:
+4.3. Execução/Prazo
+Prazo de Desembolso:
+5
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - EXPANSÃO E REQUALIFICAÇÃO DA MACRO E MICROMEDIÇÃO
+10.886.000,00
+0,00
+468.000,00
+      P - Ampliação da Macromedição dos SAAs da COMPESA
+7.317.000,00
+0,00
+314.000,00
+      P - Renovação do Parque de Hidrômetros da COMPESA
+3.569.000,00
+0,00
+154.000,00
+C - OBRAS DE AMPLIAÇÃO E EFICIENTIZAÇÃO DE SISTEMAS DE ABASTECIMENTO DE
+ÁGUA 
+39.693.000,00
+0,00
+1.705.000,00
+      P - Ampliação e Eficientização do SAA Olinda
+7.649.000,00
+0,00
+329.000,00
+      P - Ampliação e Eficientização do SAA São Lourenço da Mata
+22.176.000,00
+0,00
+953.000,00
+      P - Ampliação e Eficientização do SAA Pesqueira
+3.972.000,00
+0,00
+170.000,00
+      P - Ampliação e Eficientização do SAA Timbaúba
+3.030.000,00
+0,00
+130.000,00
+      P - Ampliação e Eficientização do SAA Lajedo
+2.866.000,00
+0,00
+123.000,00
+C - OBRAS DE AMPLIAÇÃO DE SISTEMA DE ESGOTAMENTO SANITÁRIO
+34.977.000,00
+0,00
+20.902.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 17
+      P - Ampliação do SES Escada
+9.943.000,00
+0,00
+5.943.000,00
+      P - Ampliação do SES Bezerros
+10.259.000,00
+0,00
+6.132.000,00
+      P - Ampliação do SES Belo Jardim
+9.115.000,00
+0,00
+5.447.000,00
+      P - Ampliação do SES Sanharó
+5.660.000,00
+0,00
+3.380.000,00
+C - RETROFIT DE SISTEMAS PRODUTORES INTEGRADOS
+34.394.000,00
+2.863.000,00
+1.275.000,00
+      P - Retrofit do Sistema Produtor Tapacurá
+29.598.000,00
+0,00
+1.275.000,00
+      P - Ampliação da ETA Voluntários da Pátria - Ouricuri (contrapartida)
+4.796.000,00
+2.863.000,00
+0,00
+C - ADMINISTRAÇÃO E ENGENHARIA
+4.290.000,00
+0,00
+186.000,00
+      P - Supervisão de Obras
+2.507.000,00
+0,00
+108.000,00
+      P - Suporte ao gerenciamento do Programa
+1.667.000,00
+0,00
+72.000,00
+      P - Monitoramento e avaliação
+58.000,00
+0,00
+3.000,00
+      P - Auditoria
+58.000,00
+0,00
+3.000,00
+Total
+0,00
+2.863.000,00
+24.536.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - EXPANSÃO E REQUALIFICAÇÃO DA MACRO E MICROMEDIÇÃO
+0,00
+1.645.000,00
+      P - Ampliação da Macromedição dos SAAs da COMPESA
+0,00
+1.105.000,00
+      P - Renovação do Parque de Hidrômetros da COMPESA
+0,00
+540.000,00
+C - OBRAS DE AMPLIAÇÃO E EFICIENTIZAÇÃO DE SISTEMAS DE ABASTECIMENTO DE
+ÁGUA 
+0,00
+5.996.000,00
+      P - Ampliação e Eficientização do SAA Olinda
+0,00
+1.155.000,00
+      P - Ampliação e Eficientização do SAA São Lourenço da Mata
+0,00
+3.350.000,00
+      P - Ampliação e Eficientização do SAA Pesqueira
+0,00
+600.000,00
+      P - Ampliação e Eficientização do SAA Timbaúba
+0,00
+458.000,00
+      P - Ampliação e Eficientização do SAA Lajedo
+0,00
+433.000,00
+C - OBRAS DE AMPLIAÇÃO DE SISTEMA DE ESGOTAMENTO SANITÁRIO
+0,00
+14.075.000,00
+      P - Ampliação do SES Escada
+0,00
+4.000.000,00
+      P - Ampliação do SES Bezerros
+0,00
+4.127.000,00
+      P - Ampliação do SES Belo Jardim
+0,00
+3.668.000,00
+      P - Ampliação do SES Sanharó
+0,00
+2.280.000,00
+C - RETROFIT DE SISTEMAS PRODUTORES INTEGRADOS
+1.933.000,00
+4.473.000,00
+      P - Retrofit do Sistema Produtor Tapacurá
+0,00
+4.473.000,00
+      P - Ampliação da ETA Voluntários da Pátria - Ouricuri (contrapartida)
+1.933.000,00
+0,00
+C - ADMINISTRAÇÃO E ENGENHARIA
+0,00
+648.000,00
+      P - Supervisão de Obras
+0,00
+380.000,00
+      P - Suporte ao gerenciamento do Programa
+0,00
+250.000,00
+      P - Monitoramento e avaliação
+0,00
+9.000,00
+      P - Auditoria
+0,00
+9.000,00
+Total
+0,00
+1.933.000,00
+26.837.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - EXPANSÃO E REQUALIFICAÇÃO DA MACRO E MICROMEDIÇÃO
+0,00
+3.208.000,00
+      P - Ampliação da Macromedição dos SAAs da COMPESA
+0,00
+2.158.000,00
+      P - Renovação do Parque de Hidrômetros da COMPESA
+0,00
+1.050.000,00
+C - OBRAS DE AMPLIAÇÃO E EFICIENTIZAÇÃO DE SISTEMAS DE ABASTECIMENTO DE
+ÁGUA 
+0,00
+11.699.000,00
+      P - Ampliação e Eficientização do SAA Olinda
+0,00
+2.255.000,00
+      P - Ampliação e Eficientização do SAA São Lourenço da Mata
+0,00
+6.535.000,00
+      P - Ampliação e Eficientização do SAA Pesqueira
+0,00
+1.170.000,00
+      P - Ampliação e Eficientização do SAA Timbaúba
+0,00
+894.000,00
+      P - Ampliação e Eficientização do SAA Lajedo
+0,00
+845.000,00
+C - OBRAS DE AMPLIAÇÃO DE SISTEMA DE ESGOTAMENTO SANITÁRIO
+0,00
+0,00
+      P - Ampliação do SES Escada
+0,00
+0,00
+      P - Ampliação do SES Bezerros
+0,00
+0,00
+      P - Ampliação do SES Belo Jardim
+0,00
+0,00
+      P - Ampliação do SES Sanharó
+0,00
+0,00
+C - RETROFIT DE SISTEMAS PRODUTORES INTEGRADOS
+0,00
+8.725.000,00
+      P - Retrofit do Sistema Produtor Tapacurá
+0,00
+8.725.000,00
+      P - Ampliação da ETA Voluntários da Pátria - Ouricuri (contrapartida)
+0,00
+0,00
+C - ADMINISTRAÇÃO E ENGENHARIA
+0,00
+1.263.000,00
+      P - Supervisão de Obras
+0,00
+739.000,00
+      P - Suporte ao gerenciamento do Programa
+0,00
+492.000,00
+      P - Monitoramento e avaliação
+0,00
+16.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 18
+      P - Auditoria
+0,00
+16.000,00
+Total
+0,00
+0,00
+24.895.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - EXPANSÃO E REQUALIFICAÇÃO DA MACRO E MICROMEDIÇÃO
+0,00
+3.475.000,00
+      P - Ampliação da Macromedição dos SAAs da COMPESA
+0,00
+2.335.000,00
+      P - Renovação do Parque de Hidrômetros da COMPESA
+0,00
+1.140.000,00
+C - OBRAS DE AMPLIAÇÃO E EFICIENTIZAÇÃO DE SISTEMAS DE ABASTECIMENTO DE
+ÁGUA 
+0,00
+12.673.000,00
+      P - Ampliação e Eficientização do SAA Olinda
+0,00
+2.442.000,00
+      P - Ampliação e Eficientização do SAA São Lourenço da Mata
+0,00
+7.080.000,00
+      P - Ampliação e Eficientização do SAA Pesqueira
+0,00
+1.268.000,00
+      P - Ampliação e Eficientização do SAA Timbaúba
+0,00
+968.000,00
+      P - Ampliação e Eficientização do SAA Lajedo
+0,00
+915.000,00
+C - OBRAS DE AMPLIAÇÃO DE SISTEMA DE ESGOTAMENTO SANITÁRIO
+0,00
+0,00
+      P - Ampliação do SES Escada
+0,00
+0,00
+      P - Ampliação do SES Bezerros
+0,00
+0,00
+      P - Ampliação do SES Belo Jardim
+0,00
+0,00
+      P - Ampliação do SES Sanharó
+0,00
+0,00
+C - RETROFIT DE SISTEMAS PRODUTORES INTEGRADOS
+0,00
+9.445.000,00
+      P - Retrofit do Sistema Produtor Tapacurá
+0,00
+9.445.000,00
+      P - Ampliação da ETA Voluntários da Pátria - Ouricuri (contrapartida)
+0,00
+0,00
+C - ADMINISTRAÇÃO E ENGENHARIA
+0,00
+1.369.000,00
+      P - Supervisão de Obras
+0,00
+800.000,00
+      P - Suporte ao gerenciamento do Programa
+0,00
+533.000,00
+      P - Monitoramento e avaliação
+0,00
+18.000,00
+      P - Auditoria
+0,00
+18.000,00
+Total
+0,00
+0,00
+26.962.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - EXPANSÃO E REQUALIFICAÇÃO DA MACRO E MICROMEDIÇÃO
+0,00
+2.090.000,00
+0,00
+10.886.000,00
+      P - Ampliação da Macromedição dos SAAs da COMPESA
+0,00
+1.405.000,00
+0,00
+7.317.000,00
+      P - Renovação do Parque de Hidrômetros da COMPESA
+0,00
+685.000,00
+0,00
+3.569.000,00
+C - OBRAS DE AMPLIAÇÃO E EFICIENTIZAÇÃO DE SISTEMAS DE ABASTECIMENTO DE
+ÁGUA 
+0,00
+7.620.000,00
+0,00
+39.693.000,00
+      P - Ampliação e Eficientização do SAA Olinda
+0,00
+1.468.000,00
+0,00
+7.649.000,00
+      P - Ampliação e Eficientização do SAA São Lourenço da Mata
+0,00
+4.258.000,00
+0,00
+22.176.000,00
+      P - Ampliação e Eficientização do SAA Pesqueira
+0,00
+764.000,00
+0,00
+3.972.000,00
+      P - Ampliação e Eficientização do SAA Timbaúba
+0,00
+580.000,00
+0,00
+3.030.000,00
+      P - Ampliação e Eficientização do SAA Lajedo
+0,00
+550.000,00
+0,00
+2.866.000,00
+C - OBRAS DE AMPLIAÇÃO DE SISTEMA DE ESGOTAMENTO SANITÁRIO
+0,00
+0,00
+0,00
+34.977.000,00
+      P - Ampliação do SES Escada
+0,00
+0,00
+0,00
+9.943.000,00
+      P - Ampliação do SES Bezerros
+0,00
+0,00
+0,00
+10.259.000,00
+      P - Ampliação do SES Belo Jardim
+0,00
+0,00
+0,00
+9.115.000,00
+      P - Ampliação do SES Sanharó
+0,00
+0,00
+0,00
+5.660.000,00
+C - RETROFIT DE SISTEMAS PRODUTORES INTEGRADOS
+0,00
+5.680.000,00
+4.796.000,00
+29.598.000,00
+      P - Retrofit do Sistema Produtor Tapacurá
+0,00
+5.680.000,00
+0,00
+29.598.000,00
+      P - Ampliação da ETA Voluntários da Pátria - Ouricuri (contrapartida)
+0,00
+0,00
+4.796.000,00
+0,00
+C - ADMINISTRAÇÃO E ENGENHARIA
+0,00
+824.000,00
+0,00
+4.290.000,00
+      P - Supervisão de Obras
+0,00
+480.000,00
+0,00
+2.507.000,00
+      P - Suporte ao gerenciamento do Programa
+0,00
+320.000,00
+0,00
+1.667.000,00
+      P - Monitoramento e avaliação
+0,00
+12.000,00
+0,00
+58.000,00
+      P - Auditoria
+0,00
+12.000,00
+0,00
+58.000,00
+Total
+124.240.000,00
+0,00
+16.214.000,00
+4.796.000,00
+119.444.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+De acordo com a análise geral de riscos (AGR) da Compesa, o risco legal aparece como categoria, sendo subdividido em trabalhista,
+tributário, civil e regulamentar. As ações previstas no PROEX/PE serão executadas ao abrigo da legislação e regulamentação vigentes no
+País e no Estado, não necessitando ou dependendo de outros atos legais, exceto aqueles específicos relacionados às aprovações e
+autorizações legais requeridas para a celebração de empréstimos com agentes financiadores externos.
+Riscos relacionados à Lei de contra garantia do Estado
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 19
+Especificamente sobre o momento de captação do empréstimo, há de se mencionar a etapa de elaboração de Lei Estadual de contra
+garantia do empréstimo, pelo estado de Pernambuco. A Compesa alinhou previamente com o acionista majoritário a realização de tal
+captação, das ações a serem contempladas e da forma selecionada para obtenção do empréstimo. De antemão vale citar que o Governo
+do Estado recentemente sancionou lei autorizativa de contragarantias para operação de crédito semelhante entre a Compesa e o banco
+NDB. Diante disso, entende-se a realização de ação mitigadora do risco legal relativo a esta etapa da captação.
+Riscos Relacionados aos Contratos de Concessão/Novo Marco Regulatório
+Esse risco, na AGR da Compesa, aparece vinculado ao de continuidade do negócio, mas também tem impacto direto em outros como
+mercado e concorrência, cenário político e econômico, regulamentar, dentre outros.
+Nesse cenário, pode-se dizer que dois principais fatores de risco aparecem como decisivos: a manutenção ou não dos vetos presidenciais
+e a adequação tempestiva da Compesa aos demais preceitos trazidos pelo marco legal. Acerca do primeiro, os vetos foram votados pelo
+Congresso em março de 2021 e mantidos.
+Manutenção dos vetos presidenciais aos artigos 14 e 16 sobre dispositivos da lei 14.026/20, que tratam respectivamente sobre as
+indenizações aos ativos não amortizados, e sobre a possibilidade de regularização e renovação dos contratos em vigor.
+Veto ao Artigo 14: Facilita a retomada dos serviços pelo titular (município), retirando a compulsoriedade de indenização ao prestador
+contratado. Isso fragiliza fortemente o cumprimento dos contratos vigentes, deixando as empresas de saneamento numa situação de total
+insegurança jurídica quanto a continuidade de sua operação ou ressarcimento de valores investidos e não amortizados.
+Veto ao Artigo 16: A proposta de Lei aprovada no Senado reconhecia os contratos existentes, assim como a prestação dos serviços de
+fato, mesmo sem instrumento contratual, possibilitando sua adequação e renovação, pelo prazo máximo de 30 anos, mediante acordo
+entre as partes, até 31 de março de 2022. Com a manutenção do veto, a carteira de delegações das Companhias Estaduais de
+Saneamento encontra-se bastante comprometidas.
+Pois bem, sabe-se que os Contratos de Programa são instrumentos previstos na Lei Federal nº 11.107/2005, que introduziu mecanismos
+objetivando viabilizar a cooperação entre os entes federativos para a realização de objetivos de interesses comuns, conforme diretriz
+prevista no art. 241 da CF/88, de modo a contribuir para o amadurecimento e efetivação do sistema federativo brasileiro.
+Dentro do contexto da gestão associada (art. 241, CF), a Lei Federal nº 11.445/07, até a modificação introduzida pela Lei Federal nº 14.
+026/2020, trazia a possibilidade jurídica de celebração de contrato entre o poder concedente e o concessionário, fazendo remissão à
+possibilidade de utilização dos instrumentos previstos na Lei nº 11.107/05, que em seu art. 13 (ainda em vigor), prevê o contrato de
+programa como instrumento para regular as obrigações que um ente da Federação constitua para com o outro.
+Contudo, a Lei Federal nº 14.026/2020 trouxe profundas mudanças em relação à estrutura jurídica no Saneamento Básico, dentre elas a
+adoção do princípio da regionalização dos serviços de saneamento e o estímulo à concorrência, impondo aos titulares dos serviços a
+necessidade de celebração de contrato de concessão, mediante licitação, para a prestação dos serviços públicos de saneamento básico
+por entidade que não integre a administração do titular (novo art. 10 da Lei nº 11.445/2007), vedando a formalização de contratos de
+programa, convênio, termo de parceria ou outros instrumentos de natureza precária para os serviços em questão.
+De antemão, alerte-se que há diversos dispositivos do Novo Marco do Saneamento que têm gerado intenso debate no setor quanto à
+observância do ato jurídico perfeito, indo de encontro ao comando do artigo 5º, XXXVI da Constituição da República, uma vez que os
+contratos de programa outrora firmados obedeceram às condições de validade vigentes à época.
+Nesse contexto, a Lei Federal nº 14.026/2020 prevê em seu artigo 17 que os contratos de concessão e os contratos de programa para
+prestação dos serviços públicos de saneamento básico existentes na data de sua publicação permanecerão em vigor até o advento do seu
+ termo contratual. 
+Nesse sentido, a legislação é clara quanto à possibilidade jurídica de alteração dos contratos de programa, especialmente no presente
+caso, em que a Lei nº 14.026/2020 traz de forma expressa e cogente o comando normativo que obriga a celebração de Termos Aditivos
+aos Contratos de Programa em vigor, o que reforça ainda mais esse entendimento.
+Art. 11-B. Os contratos de prestação dos serviços públicos de saneamento básico deverão definir metas de universalização que garantam
+o atendimento de 99% (noventa e nove por cento) da população com água potável e de 90% (noventa por cento) da população com coleta
+e tratamento de esgotos até 31 de dezembro de 2033, assim como metas quantitativas de não intermitência do abastecimento, de
+redução de perdas e de melhoria dos processos de tratamento.
+§ 1º Os contratos em vigor que não possuírem as metas de que trata o caput deste artigo terão até 31 de março de 2022 para viabilizar
+essa inclusão.
+(...)
+§ 3º As metas de universalização deverão ser calculadas de maneira proporcional no período compreendido entre a assinatura do contrato
+ou do termo aditivo e o prazo previsto no caput deste artigo, de forma progressiva, devendo ser antecipadas caso as receitas advindas da
+ prestação eficiente do serviço assim o permitirem, nos termos da regulamentação.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 20
+(grifos nossos)
+Assim, a Lei 14.026/2020 trouxe a obrigação para que os contratos que não possuam as metas estabelecidas no art. 11-B o façam até 31/
+03/2021, com manifestação prévia dos titulares anuindo com a minuta de aditivo para as metas de universalização até 31/12/2021, a teor
+do disposto no Decreto 10.710/2021.
+Ademais, tal como a Legislação acima ressaltada, os Contratos de Concessão/Programa celebrados de forma uniforme/padronizada pela
+COMPESA também são claros quanto à possibilidade de alterações por meio de termos aditivos.
+Também é de relevo o fato de que a alteração do contrato de programa para atendimento à mudança do Marco Legal está sendo realizado
+pelos Municípios e entidades regionais em todos os Estados da Federação, o que inclusive passou por recente regulamentação da ANA (
+Agência Nacional das Águas), que publicou a Resolução 106/2021, concluindo os trabalhos decorrentes da Consulta Pública 005/2021,
+definindo-se, então critérios para os Termos Aditivos.
+Ademais, oportuno registrar que a Lei Federal nº 14.026/2020 alterou a Lei nº 11.445/07, incluindo o §3º em seu artigo 10, prevendo que
+os contratos de concessão e os contratos de programa para prestação dos serviços públicos de saneamento básico existentes na data de
+sua publicação permanecerão em vigor até o advento do seu termo contratual, respeitando expressamente o ato jurídico perfeito,
+observando-se o artigo 5º, XXXVI da Constituição da República;
+Válido, ainda, destaque para o fato de que a Lei 14.026/2020 ainda não se consolidou integralmente, mormente pelas discussões
+decorrentes do Decreto 10.710/2021, o que tem causado uma enorme insegurança jurídica em todo o setor, e sequer há consenso sobre a
+possibilidade jurídica ou mesmo fática da sua aplicação, seja por, na visão de inúmeros juristas , ferir o ato jurídico perfeito ao estipular
+comandos normativos com profundos reflexos aos contratos em curso, ou mesmo, ultrapassando essa questão, pela imposição de
+obrigações obscuras, com prazos considerados inexequíveis, e sem qualquer medida de transição, o que vem sendo combatido por meio
+de Ações de Inconstitucionalidades no STF.
+Com relação às ações mitigadoras, a Compesa estabeleceu e vem cumprindo um plano de ações de adequação ao marco legal. Destaca-
+se o atendimento ao art. 10 do Decreto Federal 10.710 de maio/2021, que dispõe sobre o procedimento de comprovação da capacidade
+econômico-financeira junto ao órgão regulador. Nesse sentido, a Compesa protocolou junto à Agência Reguladora toda a documentação
+exigida por meio de ofício enviado em 27/12/2021. No dia 21/03/2022, a ARPE manifestou sua aprovação acerca da capacidade
+econômico-financeira da COMPESA (Anexo C.1).
+Destaque-se, ainda, que em 2021 foi contratada a empresa de consultoria Fundação para Pesquisa e Desenvolvimento da Administração,
+Contabilidade e Economia ? FUNDACE, por meio do processo de inexigibilidade de licitação, tendo por base o notório saber e
+especialização da consultoria nesse ramo, que teve por objeto a prestação de serviços técnicos especializados de consultoria e assessoria
+regulatória institucional, para adequação dos serviços de abastecimento de água e esgotamento sanitário, no âmbito do estado de
+Pernambuco, em aderência aos requisitos previstos na Lei Federal 11.445/2007 e as atualizações previstas na Lei 14.026/2020.
+Fruto da consultoria realizada, a FUNDACE encabeçou o entendimento de que a extensão de prazo seria uma das mais viáveis hipóteses
+de recomposição do reequilíbrio econômico-financeiro dos ajustes firmados com os Municípios, considerando-se a impossibilidade de
+ajuste de cronogramas e pagamento direto, bem como a sensibilidade do setor à modicidade tarifária, conforme trecho adiante transcrito
+da consultoria no Parecer Regulatório Institucional apresentado à Compesa:
+"Estender os contratos de prestação de serviços confere ao prestador a segurança de receitas suficiente à amortização de seus novos
+investimentos, a possibilidade de captação de recursos mediante garantia de retorno aos investidores e maior segurança perante a
+inclusão das obrigações que se façam necessárias à universalização dos serviços públicos de abastecimento de água e esgotamento
+sanitário em sua área de prestação".
+Assim, vale salientar que, no final de 2021, foram firmados Termos de Atualização com os Municípios que contemplam a previsão de
+prorrogação dos contratos até dezembro de 2050 (anexo i) como medida de recomposição do equilíbrio econômico financeiro necessária
+ao atingimento das metas estabelecidas no Decreto.
+
+5.2. RISCOS/CONTRATAÇÕES
+NPor vezes, o uso de regras de licitação distintas das especificadas na legislação nacional, traz consigo o risco de dificuldades e atrasos
+no processo de contratação. Neste caso, a contramedida surge do fato de a Compesa já possuir experiência na contratação nas normas
+de licitação do BID. 
+Outros aspectos relevantes que devem ser levados em consideração para o sucesso do Programa, dizem respeito às formas de
+contratação das ações. Contratações diversas e pulverizadas, que não privilegiam e dão foco à plenitude dos empreendimentos, tendem a
+gerar falta de compatibilidade e descontinuidade às ações. Os modelos de contratação selecionados buscarão contemplar todas as ações
+necessárias e suficientes ao pleno funcionamento de cada empreendimento, atribuindo a responsabilidade pelos estudos, elaboração de
+projetos executivos, especificação e aquisição de materiais e equipamentos, execução das obras, além da pré-operação dos sistemas a
+um único responsável.
+Desta forma, o contratado responsabilizar-se-á pelo pleno funcionamento do empreendimento ao final de sua execução, sem que que lhe
+seja facultada a possibilidade de atribuir parcela de um eventual insucesso a outras contratações.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 21
+&#8195;Não há previsão de contratação de pessoal ou concurso público pela COMPESA, para este Programa específico. O grande
+volume de obras e o elevado nível de exigência das políticas socioambientais e de segurança do trabalho a que se propõe o Programa,
+torna indispensável a formação de uma equipe técnica dedicada, adequadamente dimensionada e capacitada para auxiliar na construção
+e na execução de um processo de monitoramento e fiscalização das atividades. 
+O Projeto será conduzido pela Unidade Gestora do Programa - UGP, lotada na Gerência de Programas Especiais de Companhia GPS. A
+COMPESA adotará o Modelo Operacional na implantação do PROEX/PE, que se fundamenta na atuação complementar de duas unidades
+: a UGP, como entidade principal, e uma empresa contratada para o apoio ao Gerenciamento do Programa e Supervisão, contratada
+através de processo licitatório. As contratações previstas para a execução das ações serão de responsabilidade da COMPESA, por meio
+de processos licitatórios conforme Regulamento Interno de Licitações e Contratos e dos critérios exigidos pelo agente finaciador.
+A COMPESA implementou projetos financiados por outras organizações internacionais de desenvolvimento. Na última década, a
+Companhia trabalhou com dois bancos multilaterais de desenvolvimento (?MDBs?) em: (i) o Projeto Sustentabilidade Hídrica de
+Pernambuco (US$190 milhões) financiado pelo Banco Mundial e (ii) o Programa de Saneamento Ambiental Ipojuca (US$  200 milhões)
+financiado pelo próprio Banco Interamericano de Desenvolvimento (?BID?). 
+Com base nas lições aprendidas em projetos de investimento anteriores financiados por outras instituições de desenvolvimento, a
+Companhia será apoiada por uma gerenciadora contratada, especialista em gerenciamento de projetos. A Gerenciadora irá (i) preparar
+desenhos de projetos, atualizar e finalizar detalhes técnicos e preparar documentos de licitação, (ii) supervisionar as atividades de
+construção, o que inclui a fiscalização decampo para verificar se os requisitos técnicos, ambientais e sociais são cumpridos, e (iii)
+monitorar a execução do Projeto e preparar relatórios para o BID. Também serão realizadas para cada projeto contratações integradas de
+forma a garantir maior uniformidade e controle de sua gestão. 
+Mitigação do risco de Variação cambial ? PROEX
+Nesta etapa do processo, visualiza-se como alternativa para mitigação dos riscos associados à variação cambial, no caso desta operação
+entre a paridade USD/BRL, a estruturação de operações de Hedge Cambial com o objetivo de proteger as obrigações em moeda
+estrangeira contraídas pela Compesa em razão do contrato de financiamento com o BID. O Hedge deverá ser operacionalizado por meio
+da contratação de escritório de investimentos especializado e monitorado por profissional da Compesa qualificado para atuar no
+acompanhamento, supervisão e reporte das atividades desempenhadas pela contratada.
+Considerando que em muitos casos os BMDs contam com alternativas para estas questões que envolvem variações cambiais, como o
+SWAP, tais alternativas eventualmente apresentadas pelo BID serão também avaliadas para que então seja adotado o modelo que
+apresente maior vantajosidade à companhia.
+
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+O Programa não apresenta problemas significativos no que diz respeito à aquisição de áreas. A maior parte das obras, como redes
+coletoras, coletores-tronco, redes de distribuição de água e suas respectivas ligações e substituições de redes de água serão construídas
+em vias públicas. No entanto, casos específicos serão avaliados oportunamente. A COMPESA conta com um departamento específico
+para tratar de desapropriações, caso necessárias. Os custos relacionados a eventuais desapropriações devem ser viabilizados através de
+recursos provenientes do Programa.
+
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+Com relação aos impactos ambientais, um programa com as características do presente tem a particularidade de não apresentar, em
+primeira análise, impactos efetivamente negativos. Tal fato decorre da coerência intrínseca conceitual dos empreendimentos em questão,
+já que os planos contemplam ações na área ambiental, além de projetos e obras de saneamento básico que visam, justamente, a
+minimização dos impactos negativos causados ao meio ambiente pela sua ausência, e a melhoria das condições de salubridade dos
+ambientes residenciais.
+O projeto inclui um conjunto expressivo de ações de esgotamento sanitário em áreas prioritárias para proteção de mananciais estratégicos
+ para abastecimento público. Os impactos ambientais destas ações devem ser, portanto, extremamente positivos.
+Na ausência de medidas preventivas adequadas, alguns impactos potenciais podem ocorrer. Por exemplo, erosão do solo nas fases de
+construção e implantação das obras de infra-estrutura hídrica.
+A prevenção da erosão do solo, descaracterizando a existência do impacto negativo, é perfeitamente factível através do simples, mas
+eficiente, controle da movimentação de terra, caso seja necessário. Quanto à poluição do solo, apenas na fase de implantação das redes
+coletoras e emissários é que existe esta possibilidade de ocorrência de impactos negativos.
+Como impactos negativos, inerentes às obras em vias públicas, destacam-se os riscos de acidentes nas frentes de obra, risco de poluição
+do solo e água por resíduos sólidos, líquidos e produtos oleosos oriundos do canteiro de obras, áreas de apoio e frentes de trabalho,
+poluição do ar com material particulado e emissões de máquinas e veículos, além de possível supressão vegetal e interferências em áreas
+ de preservação permanente para implantação das unidades prevista na obra.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:08
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60943
+Página: 22
+Cabe destacar que os impactos negativos em sua maioria são reversíveis, atuando pontualmente durante a execução da obra e que
+podem ser minimizados através dos Plano de Controle Ambiental de Obras e outros de Planos e Programas de monitoramento de
+emissão de particulados, fumaça preta e ruídos, gestão de resíduos gerados, sinalização de obras, atendimento às emergências entre
+outros.
+Com relação às Licenças Ambientais, que deverão ser emitidas pelos Órgãos Ambientais e devem estabelecer as condições, restrições e
+medidas de controle ambiental, a COMPESA deverá realizar um mapeamento da situação de cada um dos empreendimentos propostos
+neste Programa e, oportunamente, estabelecer um cronograma que garanta as emissões e/ou atualizações das Licenças para os
+processos licitatórios, para o início das obras e da operação dos sistemas. A COMPESA dispõe de uma Gerência de Meio Ambiental, que
+trata sobre o tema e interage com os Órgãos Ambientais e com a Unidade Gestora do Programa.&#8195; 
+
+5.5. RISCOS/IMPACTO SOCIAL
+Pela natureza do programa em questão, os impactos sociais esperados são positivos. Os diversos empreendimentos contemplados
+deverão seguir a legislação e normas vigentes com relação às questões sociais.
+Vale ressaltar ainda, o forte impacto causado na população beneficiária quanto aos aspectos de educação sanitária e ambiental. A
+experiência tem comprovado que o efeito demonstrativo de uma obra de abastecimento e/ou de implantação de melhorias sanitárias,
+associado aos programas de educação e gestão ambiental, produz efeitos significativos no comportamento dos cidadãos, quer no que
+tange à higiene pessoal e do espaço privado, quer no que se refere ao ambiente público e ao meio ambiente. Se além dos aspectos
+sanitários e de saúde se agregam componentes relativos à conscientização ambiental e à motivação para uma atitude consciente quanto
+aos recursos naturais estar-se-ão dando passos efetivos no sentido de tornar muito mais efetivo qualquer trabalho com as gerações que
+estão se formando.
+Destaca-se que, considerando as experiências anteriores da Compesa em programas como o PSA Ipojuca e o PSH/PE, a Companhia
+possui expertise sobre as questões sociais e ambientais advindas de ações como as previstas neste Programa. Durante a execução dos
+programas citados, foram realizadas diversas ações socioambientais, respeitando as condições dos Manuais de Execução do Projetos e
+premissas dos respectivos órgãos financiadores.
+
+5.6. RISCOS/REASSENTAMENTOS
+Em princípio, não há previsão de necessidade de reassentamento. No entanto, casos específicos serão avaliados oportunamente. A
+COMPESA conta com um departamento específico para tratar de reassentamentos, caso necessários.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+Informações relevantes
+- 31/10/2022: Programa submetido à 161ª reunião da COFIEX (outubro/20220. Operação de crédito externo não aprovada por exceder o
+limitedisponível para esta reunião. 
+- 03/11/2022: O Programa não obteve aprovação na 161ª Reunião da Comissão de Financiamentos Externos (COFIEX), realizada em 25-
+10-2022, por sua classificação não alcançar o limite disponível para essa Reunião. O pleito será reapreciado na próxima reunião de
+deliberação.
+- 02/06/2023: Retirado de pauta pela 165ª Cofiex (27/04/2023), em razão da impossibilidade de conclusão da análise técnica por falta de
+informações (2a tentativa).
+- 02/06/2023: Retirado de pauta pela 166ª Cofiex (01/06/2023).
+ 
+ 

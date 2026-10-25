@@ -1,0 +1,908 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Programa de Linha de Crédito para Transformação Digital dos Estados e Cidades
+Nº Carta Consulta: 61169
+Processo: 03101.001115/2024-57
+Mutuário: Caixa Econômica Federal - CEF
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  9 de Maio de 2024
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 500.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:31
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61169
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+04
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 04
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 04
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 04
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 04
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 05
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 08
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 08
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 08
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 09
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 10
+3. FINANCIAMENTO .......................................................................................................................................................................................... 10
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 10
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 11
+4. EXECUÇÃO ...................................................................................................................................................................................................
+11
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 11
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 11
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 11
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 11
+5. RISCOS .......................................................................................................................................................................................................... 12
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 12
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 12
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 12
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 12
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 13
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 13
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+13
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:31
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61169
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+A transformação digital dos Estados e Cidades do Brasil é uma iniciativa fundamental para a modernização da administração pública e
+essencial para atendimento das demandas da sociedade por um serviço público de qualidade, com maior eficiência e com menor gasto de
+ tempo e dinheiro por parte do cidadão e do setor produtivo.
+A população brasileira está cada vez mais conectada e adaptada ao mundo digital e essa revolução tecnológica tem induzido governos,
+em todos os níveis, a acelerarem a transformação digital e a adequarem seus processos e serviços aos novos padrões e necessidades da
+sociedade. Dentre os resultados dessas iniciativas constam maior responsabilidade e transparência às demandas públicas, melhor
+atendimento ao cidadão e empresas, e economia para os cofres públicos.
+As tecnologias digitais estão mudando radicalmente a maneira como os cidadãos vivem, trabalham, consomem serviços e interagem. A
+capacidade dos governos de responder à transformação digital em andamento e produzir processos e serviços mais inclusivos,
+convenientes e colaborativos é crucial para garantir a confiança dos cidadãos. Dentre os ganhos que a transformação digital pode trazer,
+destacam-se o aumento da produtividade, a melhoria no acesso à informações e serviços, a melhora na governança e a economia de
+custos. A digitalização também tem um impacto social importante, pois democratiza o acesso à informação e aos serviços públicos.
+De acordo com o Ministério da Gestão e da Inovação em Serviços Públicos, o sistema Gov.br, que resume o programa federal de
+transformação digital, gerou economia superior a R$ 1,4 bilhão apenas em 2023. Projeções da Estratégia Brasileira de Transformação
+Digital 2018 (E-Digital), elaborado pelo MCTI, sugerem que uma estratégia eficiente de transformação digital pode aumentar o Produto
+Interno Bruto (PIB) anual em 5,7% e economizar até 97% nos custos de atendimento e serviços públicos. 
+Ao mesmo tempo em que somos a quarta maior população conectada do mundo, ocupamos apenas a 49 ª posição no ranking de
+governos digitais publicado em 2022, pela Organização das Nações Unidas (ONU). Conforme publicado pelo Ministério da Gestão e da
+Inovação em Serviços Públicos, em 2019 mais de 500 serviços públicos, de 28 órgãos diferentes, foram disponibilizados em canais digitais
+, o que gerou a redução de R$ 345 milhões nas despesas anuais do governo, que agora pode destinar os recursos para outras finalidades,
+ beneficiando mais pessoas. 
+Em agosto de 2023, o Governo Federal lançou a Estratégia Nacional de Transformação Digital que tem como objetivo reduzir a
+desigualdade digital, e contribuir para um país mais inclusivo no atendimento aos cidadãos, em especial os mais vulneráveis, com mais
+eficiência. Um dos principais pontos é proporcionar o compartilhamento das soluções tecnológicas desenvolvidas por instituições ou entes
+federativos para economizar recursos. 
+A transformação digital é tema atual e parte relevante da agenda governamental no sentido de avanço de difusão do conhecimento
+tecnológico bem como da sua aplicabilidade nas diversas áreas possíveis. E a capilaridade da Caixa é uma característica importante que
+a faz atuante nesse tema. 
+A CAIXA fez um estudo utilizando o anexo Estudo dos municípios, com dados de 410 municípios brasileiros, abrangendo 125 milhões de
+habitantes, que corresponde a 60% da população nacional, para compreender o estágio de desenvolvimento digital, dimensionar suas
+demandas e servir de subsídio para elaboração desse programa.
+Abaixo, trazemos os Marcos Legais que subsidiam a agenda de transformação digital no Brasil.
+Lei nº 14.129/2021: Dispõe sobre princípios, regras e instrumentos para o Governo Digital e para o aumento da eficiência pública
+Decreto nº 10.996/2022: Altera o Decreto nº 10.332/2020, que institui a Estratégia de Governo Digital para o período de 2020 a 2022, no
+âmbito dos órgãos e das entidades da administração pública federal direta, autárquica e fundacional.
+Decreto nº 10.782/2021: Altera o Decreto nº 9.319/2018, que institui o Sistema Nacional para a Transformação Digital e estabelece a
+estrutura de governança para a implantação da Estratégia Brasileira para a Transformação Digital.
+Decreto nº 10.332/2020: institui a Estratégia de Governo Digital para o período de 2020 a 2022, no âmbito dos órgãos e das entidades da
+administração pública federal direta, autárquica e fundacional e dá outras providências;
+Decreto nº 10.278/2020: regulamenta o disposto no inciso X do caput do art. 3º da Lei nº 13.874/2019, e no art. 2º-A da Lei nº 12.682/2012
+, para estabelecer a técnica e os requisitos para a digitalização de documentos públicos ou privados, a fim de que os documentos
+digitalizados produzam os mesmos efeitos legais dos documentos originais;
+Decreto nº 9.756/2019: institui o portal único "gov.br" e dispõe sobre as regras de unificação dos canais digitais do Governo federal.
+Decreto nº 9.319/2018: institui o Sistema Nacional para a Transformação Digital E-digital
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+A CAIXA é um banco público que opera em todo o território nacional, com a missão de promover a cidadania e o desenvolvimento
+sustentável do país, atuando como instituição financeira, agente de políticas públicas e parceira estratégica do Estado brasileiro com
+ampla experiência no financiamento e estruturação de projetos em diversas áreas, e tem o potencial de desempenhar um papel crucial na
+transformação digital do país. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:31
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61169
+Página: 3
+Este programa tem como objetivo apoiar Estados e Cidades no desenvolvimento e implementação de suas agendas de transformação
+digital disponibilizando uma linha de crédito que contempla o financiamento das seguintes finalidades:
+-Infraestrutura Pública Digital
+Compreende a conexão de estabelecimentos públicos, com resiliência, confiança e segurança de modo permanente, e é habilitadora de
+serviços públicos e sociais pelos meios digitais, da inclusão digital e promove a inovação. 
+No Brasil, muitos Estados e Cidades carecem de infraestrutura digital em suas unidades presenciais de atendimento, inclusive sedes dos
+governos e prefeituras, escolas, unidades de saúde e postos de seguranças. Este segmento da transformação digital busca suprir esses
+estabelecimentos com recursos de conectividade em banda larga.
+-Transformação Digital da Carta de Serviços
+A jornada de transformação digital abrange várias etapas e sua efetividade é alcançada quando a unidade federativa consegue
+transacionar digitalmente a solicitação do cidadão ou da empresa, de ponta a ponta, acessível em qualquer lugar, a qualquer hora e em
+qualquer dispositivo.
+Os estágios iniciais são centrados em ajustes de metodologias, procedimentos e ferramentas de TI do governo visando ganhos de
+eficiência, simplificação, transparência e produção de dados. Em seguida, a elaboração de uma carta de serviços digital, e centrada no
+cliente (cidadão, empresas, ou poder público). Em seguida, ocorre a integração das bases de dados e sua guarda em um ambiente digital
+seguro. Por fim, ocorre a disponibilização de ferramentas de acesso aos cidadãos por meio de dispositivos eletrônicos. Soluções com o
+uso de ferramentas de Inteligência Artificial (IA) para operações governamentais visando ganhos de produtividade e responsividade.
+-Capacidade Digital
+Essa etapa abrange novos valores e princípios para o Governo Digital, colocando os cidadãos em primeiro lugar. Além disso, são
+necessárias competências de liderança para uma abordagem coordenada, bem como uma cultura organizacional digital orientada a
+resultados. Servidores públicos habilitados digitalmente podem fazer o melhor uso das ferramentas para atendimento do dever público.
+Evidências coletadas com a experiência acumulada de décadas atuando com municípios revelam que o fortalecimento da infraestrutura
+digital, apoio à elaboração da carta de serviços e suporte ao desenvolvimento de capacidades e habilidades digitais dos entes federados
+constituem as dimensões fundamentais para avançar na transformação digital.
+De acordo com o estudo realizado, identificamos que mais da metade dos servidores possuem apenas formação de nível médio (Anexo
+Estudo dos Municípios)
+(i)Solução proposta:
+O Programa tem abrangência nacional e o objetivo de impulsionar investimentos em transformação digital, por meio do financiamento a
+projetos que promovam a modernização e melhoria dos serviços públicos. O suporte será focado para o desenvolvimento local e regional
+visando acelerar a transformação digital dos entes federados com foco na modernização e simplificação de processos, serviços,
+ferramentas, plataformas tecnológicas, elaboração e implementação de cartas de serviços digitais e fortalecimento da infraestrutura de
+conectividade de instituições públicas.
+Nas soluções propostas está incluído:
+Diagnóstico dos entes financiados pelo projeto para o desenvolvimento do seu processo de transformação digital.
+Estruturação dos planos de transformação digital, sua projeção, custos, sustentabilidade e dinâmica.
+Dimensionamento da infraestrutura digital, incluindo as demandas por armazenamento de dados, conectividade dos edifícios públicos (ex.
+unidades de saúde e educação, postos de segurança, sedes de prefeituras, secretarias de fazenda, unidades de assistência social, entre
+outras), das redes internas (ex. cabeamentos, roteadores, comutadores e hubs, etc), dos pontos de consulta automatizado (ex. Totens e
+unidades de interação automatizada) e da rede de suporte humana (ex. postos de atendimento presencial e remoto).
+Desenho da carta de serviços digitais, sua abrangência, projeção, itens prioritários e integração com sistemas dos outros entes federados.
+Estabelecimento de um programa de capacitação digital dos servidores públicos e dos usuários de serviços públicos digitais e
+modernização da cultura organizacional para adequá-la ao contexto digital da prestação de serviços.
+Definição de uma política de monitoramento da jornada de transformação digital e um plano de melhorias e evolução.
+(ii)Resultados esperados:
+O Programa busca ampliar a oferta de crédito para implementação da transformação digital dos entes, expandir a quantidade de serviços
+e o acesso da população, em especial os mais vulneráveis, a esses serviços por meios digitais. O programa prevê a conexão dos prédios
+públicos com banda larga de alta velocidade e inclusão digital ampla com respeito ao contexto de desenvolvimento local e sustentável
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:31
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61169
+Página: 4
+Espera-se a adoção de um portal único para a prestação dos serviços pelos entes, adesão ao GOV.BR, integração com outras
+ferramentas digitais e servidores públicos capacitados e a sociedade utilizando o canal digital. 
+(iii)Sustentabilidade:
+Não se vislumbram custos adicionais expressivos para a implementação e viabilização do Programa na Caixa. A instituição já dispõe de
+unidades executoras e implementadoras habilitadas para a realização do Programa e uma estrutura madura de diálogo com os entes
+federados, com presença em quase todos os municípios do Brasil.
+O projeto provê assistência técnica para assegurar à Caixa e aos seus clientes governamentais a efetividade na implementação da
+transformação digital, que como resultado financeiro trará redução nos gastos com a prestação de serviços públicos. Toda contratação
+seguirá o rito de governança da CAIXA, que leva em consideração, a condição fiscal de cada ente. Cabe destacar que os contratos com
+entes públicos contam com garantia da União ou do Fundo de Participação dos Municípios  "FPM", o que reduz o risco de inadimplência.
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+Os investimentos que compõem o programa estão alinhados às prioridades setoriais do Governo Federal, e de acordo com os
+investimentos do novo PAC. Estão previstos investimentos de R$ 1,68 trilhão, dos quais R$ 28 bilhões estão destinados para Inclusão
+Digital e Conectividade.
+O projeto faz parte da Agenda CAIXA 2030 de Sustentabilidade e Inovação para o desenvolvimento de Cidades Sustentáveis, atuando na
+Gestão Municipal para "Liderança no apoio financeiro para soluções de cidades inteligentes e avanço dos ODS". Com esse compromisso
+a CAIXA atua para o avanço do ODS 11 - Cidades Sustentáveis e Resilientes, ofertando não apenas o crédito, mas também a assistência
+técnica necessária aos Estados e Cidades para implementarem a transformação digital.
+Também está em consonância com o posicionamento Corporativo da CAIXA para Cidades e Estados, que busca financiar investimentos
+em infraestrutura e conceder apoio financeiro ao setor público. A proposta aqui apresentada está igualmente em conformidade com a
+perspectiva de aumento da necessidade de recursos para investimentos em transformação digital e apoio à modernização das práticas
+governamentais, contribuindo para a democratização do acesso ao serviço público do Brasil e a melhor gestão dos recursos dos entes
+federativos.
+Esta Carta Consulta está aderente à orientação estratégica de diversificação de fontes de financiamento para impulsionar a transição para
+uma econômica mais digital nos Estados e Cidades, de baixa emissão, permitindo melhores condições aos clientes e efetividade de
+atuação da CAIXA. A diversificação de fontes de recursos permite minimizar riscos, desenvolver novas competências empresariais para
+captação de recursos internacionais e ampliar o atendimento das necessidades de financiamento, especialmente nos setores que
+colaboram com a melhoria do desempenho fiscal e da gestão pública no Brasil. Como benefícios para a CAIXA, temos o alto potencial
+econômico da transformação digital dos entes federados, além de poder atender às necessidades dos clientes que desenvolvam projetos
+digitais com impacto positivo a para a sociedade. Tal demanda também se justifica pela expectativa de digitalização dos municípios, à
+exemplo do que já está acontecendo com os Estados com a adesão aos sistemas de cadastro digitais do "gov.br", que permitirá fortalecer
+a abrangência e governança do escudo de proteção social no nível local, democratizando o acesso aos serviços públicos.
+A escolha do Banco Mundial como fonte de recursos para financiamento decorre não apenas pela capacidade do organismo disponibilizar
+os recursos em moeda local, simplificando sua disponibilização no mercado interno, mas também pela experiência técnica em mais de 65
+países na temática mencionada. Essa experiência possibilita uma colaboração mais abrangente na transição digital dos Estados e
+Cidades, permitindo a transferência de conhecimento e o estabelecimento de uma parceria estratégica com a CAIXA.
+05/04/24 - Cotação Dólar:5,05
+2. Projeto
+2.1. Título
+Programa de Linha de Crédito para Transformação Digital dos Estados e Cidades
+2.2. Título Abreviado
+Transformação Digital Para Estados e Cidades
+2.3. Mutuário
+Caixa Econômica Federal - CEF
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+A execução deste projeto tem o objetivo de atuar junto aos Estados e Cidades brasileiras na oferta de financiamento e assistência técnica
+para Infraestrutura Pública Digital, Transformação Digital da Carta de Serviços e Capacidade Digital, impulsionando a transformação digital
+dos serviços públicos, melhorando a eficiência e acessibilidade para os cidadãos, em especial os mais vulneráveis, empreendedores
+individuais e micro e pequenas empresas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:31
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61169
+Página: 5
+Com o financiamento de projetos para transformação digital a CAIXA tem como objetivo:
+(a)Reduzir as lacunas de oferta de crédito para acelerar a transformação digital nos Estados e Cidades. Identificamos que apenas 1
+instituição financeira nacional oferece linha exclusiva para o financiamento de transformação digital para estados e municípios.
+(b)Assegurar conectividade a banda larga e criação de data centers para atender aos prédios públicos de Estados e Municípios, inclusive
+sedes de prefeituras, escolas, postos de saúde, postos de segurança, unidades de assistência social, entre outros.
+(c)Expandir o número de serviços disponíveis através de Cartas de Serviços Públicos Digitais 
+(d)Capacitar os servidores públicos e os usuários de serviços públicos em Estados e Municípios, visando a prestação de serviços digitais e
+ o seu usufruto pleno pela sociedade.
+(e)Habilitar Estados e Municípios para adesão ao GOV.BR - Apenas 20% dos municípios fizeram a adesão de acordo com a Rede
+Nacional de Governo Digital
+As operações de crédito serão disponibilizadas de acordo com as necessidades do proponente, mediante a apresentação de projetos de
+investimento a esta instituição financeira. Tais projetos serão analisados levando em consideração o risco de crédito e a viabilidade
+econômico financeira.
+Por meio das Salas de Cidades e Estados a CAIXA proporciona um espaço exclusivo para que os entes públicos apresentem suas
+demandas, projetos e necessidades para o avanço da transformação digital. Dessa forma, a sociedade poderá usufruir de soluções mais
+modernas, integradas, eficientes e transparentes.
+
+
+Obs: A linha de base igual a zero para os indicadores apresentados significa nossa intenção em trabalhar com entes que não possuem
+iniciativas avançadas em transformação digital. Ainda que alguns parceiros possam ter uma base diferente de zero, a contabilidade dos
+indicadores será feira para os que não possuem progressos nos respectivos indicadores. Por exemplo, quando falamos em -adesão ao
+Gov.br- e atribuímos a meta de 30, significa que do escopo dos projetos a serem implementados, esperamos auxiliar 30 Municípios ou
+Estados a aderirem ao Gov.br. Alguns potenciais parceiros que já estiverem aderidos ao Gov.br não serão contabilizados na meta. Essa
+mesma lógica se aplica aos demais indicadores.
+
+2.6. Projeto/Indicadores
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Estados e Municípios brasileiros contemplados
+com financiamento
+Somatório da
+quantidade de
+estados e municípios
+atendidos pelo projeto
+Unidade
+0,00
+50,00
+Taxa das mulheres que prestam serviço de
+atendimento capacitadas para o componente de
+Habilitação Digital
+Número de Servidoras
+capacitadas em
+Conhecimentos
+Digitais/Total de
+Servidoras Públicas
+do ente *100
+Percentual
+0,00
+80,00
+Número de municípios habilitados para adesão
+ao Gov.br
+Somatório de
+municípios
+Número de
+municípios
+0,00
+30,00
+Cidadania Digital
+Quantidade de
+serviços públicos
+digitais prestados no
+portal de serviços (
+web + app)/ano
+qtd atendimentos/
+ano
+0,00
+1.200.000,00
+Ampliação da carta de serviços digitais de
+Estados e Municípios
+Quantidade de
+serviços digitais/
+tradicionais
+percentual
+0,00
+80,00
+Capacitação em Habilidades Digitais
+Quantidade de
+Servidores Públicos
+habilitados/total de
+servidores públicos do
+ ente
+percentual
+0,00
+80,00
+Conexão de prédios públicos dos Estados e
+Municípios financiados pelo projeto com banda
+larga de alta capacidade
+Quantidade de
+prédios públicos
+conectados/
+quantidade de prédios
+ públicos
+percentual
+0,00
+100,00
+2.7. Projeto/Componentes
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:31
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61169
+Página: 6
+Componentes
+Valor(US$)
+C - INVESTIMENTO EM PROJETOS DE TRANSFORMAÇÃO DIGITAL
+480.000.000,00
+   S - FINANCIAMENTO DE PROJETOS DE INFRAESTRUTURA DIGITAL 
+300.000.000,00
+      P - Projetos de conectividade e processamento/armazenamento de dados
+300.000.000,00
+   S - FINANCIAMENTO DE PROJETOS DE SERVIÇOS DIGITAIS
+160.000.000,00
+      P - Projetos para implementação da Carta de Serviços Digitais
+160.000.000,00
+   S - FINANCIAMENTO DE CAPACIDADES DIGITAIS
+20.000.000,00
+      P - Investimento capacitação técnica de habilidades digitais
+20.000.000,00
+C - ASSISTÊNCIA TÉCNICA 
+20.000.000,00
+      P - Assistência Técnica
+20.000.000,00
+Total dos Componentes
+500.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - INVESTIMENTO EM PROJETOS DE TRANSFORMAÇÃO DIGITAL
+Financiamento de projetos e/ou equipamentos que incentivem a transformação digital nos Estados e Cidades melhorando a
+eficiência e acessibilidade dos cidadãos, em especial os mais vulneráveis, e empresas aos serviços públicos.
+A CAIXA tem adotado a estratégia de avançar no atendimento das demandas por crédito dos municípios que ainda não tenham
+relacionamento anterior com o banco. Como resultado, em 2023, 30% dos contratos efetuados para o segmento foram com
+municípios que ainda não tinham nenhuma operação de crédito com a instituição. Esse avanço representa uma descentralização
+das operações de crédito e permite atender um número maior de municípios.
+   S - FINANCIAMENTO DE PROJETOS DE INFRAESTRUTURA DIGITAL 
+Financiamento aos entes federados para aquisição de sistemas de conectividade, processamento e armazenamento de dados, e
+envolvem a construção/ampliação de data centers e aquisição servidores de rede, ou ainda a contratação de serviços na nuvem,
+dependendo do porte do Estado ou Cidade. A conectividade se refere ao provimento de meios de comunicação de dados em alta
+capacidade e disponibilidade. Essa é a infraestrutura fundamental que permite o órgão público se comunicar com os cidadãos,
+empresas e outras entidades públicas por meios digitais.
+Essas infraestruturas digitais permitem a execução automatizada por meio de programação, aplicações de inteligência artificial e
+de processamento de dados para resposta às demandas da sociedade. Além disso, servem para a guarda de dados, autenticação
+de identidades e comunicação com bancos de dados de outras entidades públicas, inclusive as federais.
+Trata-se do subcomponente estruturante do projeto e compreende também a contratação de links de dados e a construção de
+redes internas que permitam a distribuição do sinal de conexão, por cabos ou meios sem fios, aos terminais dos servidores
+públicos e dos totens disponíveis para acesso da comunidade.
+Também contempla os instrumentos de coleta de dados que abrangem o conjunto de equipamentos de identificação dos cidadãos
+e dispositivos para coleta de dados por meio da digitalização de documentos, reconhecimento facial e registros de dados.
+O dimensionamento da infraestrutura digital terá apoio da assistência técnica indicada no Componente 2.
+      P - Projetos de conectividade e processamento/armazenamento de dados
+Financiamento de projetos para disponibilização de conectividade e implementação da infraestrutura necessária para
+armazenamento e processamento de dados. Os itens típicos dessa etapa da transformação digital incluem (i) conexões em fibra
+ótica, (ii) equipamentos de distribuição de sinal de internet, (iii) equipamentos de armazenagem e processamento de dados, (iv)
+softwares de produtividade, de interoperabilidade e de segurança cibernética, (v) construção/adaptação de Data Centers ou
+contratação de soluções de armazenagem e processamento na nuvem, (vi) sistemas de refrigeração para Data centers, (vi)
+sistemas de prevenção de incêndios e proteção de ativos digitais e de dados, entre outros.
+   S - FINANCIAMENTO DE PROJETOS DE SERVIÇOS DIGITAIS
+Financiamento de projetos para implementação da Carta de Serviços Digitais prestados pelos Estados e Cidades cuja
+implementação permitirá a melhoria do atendimento às demandas da sociedade, principalmente das comunidades que mais
+dependem de serviço público e assistência do Estado.
+Tem efeitos diretos sobre a criação de um ambiente de negócios mais eficiente e menos oneroso ao empresário, principalmente
+aos micros e pequenos empresários locais.
+Esse subcomponente abrange, dentre outros, o apoio à integração da Cidade ou Estado ao gov.br e outros serviços públicos
+oferecidos pela União, inclusive aqueles afetos ao fortalecimento e fiscalização do sistema de escudo social (por exemplo,
+benefícios, bolsa família, suportes emergenciais, ações de emergência e calamidade pública) e prestação de contas (por exemplo,
+transferências interfederativas e compromissos orçamentários obrigatórios). 
+A formatação da Carta de Serviços em uma linguagem simples e disponível para a sociedade, bem como o apoio para o
+dimensionamento dos sistemas faz parte do escopo da assistência técnica indicada no Componente 2.
+      P - Projetos para implementação da Carta de Serviços Digitais
+Financiamento de projetos para implementação da Carta de Serviços Digitais prestados pelos Estados e Cidades, para torná-los
+acessíveis em qualquer tempo e local proporcionando a democratização do acesso à serviços públicos pela população, e
+empresas. 
+Para atender tal propósito o projeto contempla soluções como por exemplo aquisição de (i) softwares e soluções web que
+permitam o uso efetivo dos serviços públicos e o processamento das  demandas da sociedade, (ii) sistemas de integração de
+serviços e emissão de documentos, (iii) sistemas para disponibilização de dados públicos à sociedade, (iv) sistemas de prestação
+de contas junto à União, (v) software de interoperabilidade para troca de dados unificada e segura entre organizações do setor
+privado e público, (vi) sistemas de cadastros, captura biométrica, integração, e autenticação de identidades digitais, entre outros.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:31
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61169
+Página: 7
+   S - FINANCIAMENTO DE CAPACIDADES DIGITAIS
+Financiamento para internalização das capacidades digitais dos servidores públicos e da população, de modo a promover uma
+mudança da cultura de trabalho e de utilização dos serviços pelo meio digital.
+Trata-se do componente humano do Programa, que busca capacitar os servidores com os conhecimentos necessários para a
+transformação digital e permitir o uso efetivo das ferramentas digitais para a prestação de serviços à sociedade. 
+Os recursos alocados para esse subcomponente prevê o financiamento para capacitação do quadro de funcionários e dos
+cidadãos que farão uso dos serviços públicos. As formações abrangem cursos de extensão e de especialização avançada, com a
+necessidade de contratação de instituições de ensinos, consultorias especializadas, e uma rede de suporte para a formação dos
+servidores públicos e da população em habilidades digitais. Abrange desde os conhecimentos fundamentais até níveis avançados
+que habilite os servidores a atuar de modo proativo na resolução de problemas, na evolução das plataformas digitais e na
+adequação do setor públicos às demandas da sociedade.
+      P - Investimento capacitação técnica de habilidades digitais
+Financiamento para capacitação técnica de habilidades digitais para provimento da prestação, tratamento dos pedidos e utilização
+dos serviços públicos em ambiente digital.
+Abrange (i)contratação de instituições de ensino e consultorias para capacitação dos servidores públicos com habilidades digitais (
+por exemplo, uso de dispositivos, uso de software para baixar aplicativos e criar documentos, concluir transações on-line, acesso
+ao gov.br, criação de chaves digitais, habilidades de processamento de dados e textos, geração de conteúdos digitais, uso de
+ferramentas de Inteligência Artificial (IA), big data, segurança cibernética, Internet das Coisas, redes virtuais, dentre outras), (ii)
+elaboração de manuais técnicos e protocolos para recepção, tratamento e respostas às demandas da sociedade, (iii)
+desenvolvimento de metodologias ágeis de gestão de projetos e de prestação de serviços a partir de plataformas digitais, (iv)
+fomento ao estabelecimento de espaços públicos com disponibilidade de conectividade, capacitação, oficinas, (v) capacitação dos
+cidadãos para uso efetivo dos serviços públicos.
+C - ASSISTÊNCIA TÉCNICA 
+A Assistência Técnica servirá para fazer contratações de serviços técnicos especializados(consultorias e estudos) necessários
+para o desenvolvimento, planejamento e implementação das propostas apresentada, de acordo com as finalidades:
+1-Assistência Técnica aos tomadores do crédito:
+Muitas dessas regiões carecem de capacidades e conhecimentos que permitam apresentar projetos estruturados, viáveis e de
+qualidade, para maximizar os benefícios da transformação digital.
+A assistência técnica se presta a suprir essas limitações por meio de contratação de empresas para prestação de serviço
+necessária para estruturação dos projetos.
+O Custo dessas contratações será repassado ao proponente
+2-Fortalecimento Institucional da CAIXA:
+Prevê contratações de serviços e empresas para o desenvolvimento das capacidades internas da CAIXA para executar o programa
+      P - Assistência Técnica
+O recurso poderá será utilizado para cobertura de custos operacionais durante a fase de implantação dos projetos. Poderão ser
+utilizados para suportar (i) estudos técnicos, (ii) contratação de consultorias, e (iii) estruturação de projetos básicos e executivos,
+dentre outros serviços especializados.
+Exemplo de itens de financiamento:
+1 - Assistência Técnica ao Mutuário Final: 
+Contratação de Estudos de Viabilidade Técnica e modelagem
+Consultoria para modelos de aditivos e contratos
+Empresas para elaboração de projetos básicos e executivos
+2 - Fortalecimento Institucional da CAIXA
+Consultorias Jurídicas
+Capacitação em temas específicos para o corpo técnico da CAIXA em relação à transformação digital
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:31
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61169
+Página: 8
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Bens
+-
+-
+480.000.000,00
+96,00
+P- Projetos de conectividade e processamento/
+armazenamento de dados
+Dólar
+300.000.000,
+00
+300.000.000,00
+60,00
+P- Projetos para implementação da Carta de
+Serviços Digitais
+Dólar
+160.000.000,
+00
+160.000.000,00
+32,00
+P- Investimento capacitação técnica de
+habilidades digitais
+Dólar
+20.000.000,
+00
+20.000.000,00
+4,00
+Consultoria
+-
+-
+20.000.000,00
+4,00
+P- Assistência Técnica
+Dólar
+20.000.000,
+00
+20.000.000,00
+4,00
+Total Geral
+-
+-
+500.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+A CAIXA, como principal agente financeiro de políticas públicas do Governo Federal, possui em seu Planejamento Estratégico objetivos
+voltados às práticas ambientais, sociais e de governança corporativa. 
+Buscando o fomento de financiamento de soluções Transformação Digital, a CAIXA vem negociando com o Banco Mundial apoio para o
+financiamento destes projetos através da disponibilização de recursos financeiros e técnicos e viabilização de funding.
+Observamos que 45.4% dos governadores eleitos na última eleição apresentaram como prioridade propostas de governo digital em suas
+candidaturas (2023-2026). Fonte: estudo NESAP - Núcleo de Estudos do Servidor e da Administração Pública.
+Analisamos 410 municípios brasileiros, abrangendo 60% da população nacional, e observamos que existe um atraso significativo na
+adesão a projetos de transformação digital no Brasil (Anexo - Estudo dos Municípios).
+Baseado no potencial identificado nesta análise previa, foram realizadas reuniões preliminares entre a CAIXA e o Banco Mundial para
+identificar dados, informações e os arranjos institucionais necessários para a preparação do programa de linha de crédito do Banco
+Mundial x CAIXA.
+Como ação prévia à execução do projeto, a Caixa já lançou a linha de financiamento FINISA - Transformação Digital para estados e
+municípios.
+O projeto representa uma atuação estratégica da Caixa, pois irá unir a capilaridade do banco com a expertise do Banco Mundial para
+projetos inovadores, necessários para que o Brasil alcance seus compromissos de digitalização dos entes da federação.
+Por fim, fizemos estudos preliminares de mercado e tomamos a decisão com base em demandas existentes para que os Estados e
+Municípios façam sua transformação digital. 
+
+
+
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Nacional/Sem detalhes
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+A escolha do Banco Mundial como fonte de recursos para financiamento é proveniente de uma agenda de negociações que ocorre desde
+a assinatura do MoU (Memorandum of Understanding) em SET/22. Durante esse período, o Banco Mundial demonstrou ter a expertise
+necessária para atuar junto à CAIXA em promover a transformação digital para estados e cidades democratizando o acesso aos serviços
+públicos, se estabelecendo como uma parceira estratégica e fortalecendo ainda mais os esforços conjuntos.
+Sob o aspecto financeiro, as condições apresentadas pelo Banco Mundial se mostraram competitivas em relação ao custo dos recursos
+internos da CAIXA, considerando que a intenção é captar o recurso atrelado ao CDI. 
+A CAIXA tem diversas formas de captação no mercado interno. Em análises comparativas ao custo com o Banco Mundial, a captação em
+mercado local se apresentou em média 1 % a.a maior, considerando uma taxa prefixada e o prazo de 10 anos de vencimento.
+O Banco Mundial também possibilita a disponibilização do recurso em moeda local (R$) atrelado aos principais indexadores, possibilitando
+ analisar a cada desembolso a melhor opção de conversão.
+
+
+COMPARATIVO DE CONDIÇÕES BANCO MUNDIAL X BID: 
+                       VALOR  | MOEDA | PRAZO  | CARÊNCIA |      TAXA U$     | TAXA PRÉ R$ |  TAXA CDI R$  | TAXA IPCA R$
+Banco Mundial   500 MI    Dólar     10 anos    3 anos        SOFR + 0,94%    10,29%a.a       CDI+[37]bps    IPCA + 5,63%
+BID                  500 MI    Dólar     10 anos    3 anos        SOFR + 0,49%     11,43%a.a       CDI+[57]bps    IPCA + 6,56%
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:31
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61169
+Página: 9
+
+
+Adicionalmente, as 2 instituições ainda cobram:
+Taxa Inicial: 0,25% sob o valor contratado
+Taxa de não desembolso: 0,25%a.a sob o valor não desembolsado
+Referência das cotações: ABR/24
+
+Em síntese, nos comparativos realizados, a proposta do Banco Mundial mostrou-se mais vantajosa em relação ao do BID.
+2.11. PROJETO/BENEFICIÁRIO
+O Programa tem como público-alvo Estados e Cidades brasileiras que venham a ter seus projetos aprovados, de acordo com as diretrizes
+de elegibilidade estipuladas em conjunto entre CAIXA e Banco Mundial, respeitadas as políticas de crédito e investimento destas
+instituições financeiras.
+Os beneficiários desses projetos são os cidadãos, em especial os mais vulneráveis, e empresas, que poderão usufruir de soluções
+modernas, integradas, eficientes e transparentes para a prestação de serviços públicos.
+O projeto também pretende gerar efeitos sobre a matriz econômica dos entes federados, fomentar investimentos em tecnologias e
+infraestrutura resilientes e desenvolver habilidades digitais dos servidores públicos encarregados em atender e tratar pedidos da
+sociedade, que farão uso do serviço público por meios de dispositivos fixos ou móveis.
+Identificamos que a transformação digital tem os seguintes impactos:
+a)Experiências no contexto brasileiro provam que a transformação digital dos estados e municípios reduzem a quantidade de
+deslocamento necessários para que os cidadãos possam requisitar os serviços e consequentemente reduz a utilização de combustível e a
+ emissão de gases do efeito estufa. 
+Também permite o uso eficiente dos recursos devido a menor utilização de papeis, cartuchos de tintas, e energia na prestação do serviço.
+Além disso, proverá a conexão de estabelecimentos públicos e ferramentas digitais de coleta, monitoramento e transparência de dados
+permitirá um melhor controle social sobre a condição ambiental do município.
+b)Sobre a questão da eficiência energética o impacto pode ser direto e indireto. Por exemplo, as aplicações digitais em temas de cidades
+inteligentes afetarão positivamente a eficiência energética dos Estados e Municípios uma vez que permitirá o uso inteligente dos sistemas
+de iluminação pública e consumo de energia nos prédios públicos. De modo indireto, tem-se que a modernização do parque tecnológicos
+os Estados e Municípios permitirá eficiência no uso de eletricidade.
+c)O projeto abrange uma infraestrutura digital que permitirá instrumentalizar os órgãos e entidades de saneamento com ferramentas
+digitais e dispositivos de monitoramento modernos. Tais soluções permitirão adicionar valor às atividades de regulação e prestação de
+serviços de saneamento público, inclusive nas regiões onde tais serviços não estão disponíveis ou estão em fase de construção.
+Apenas 45.2% dos municípios alvos do Programa possuem sistema de cobertura de tratamento de esgoto. A transformação digital dos
+municípios permitirá municiá-los com ferramentas digitais de monitoramento e transparência que permitirão aos gestores municipais
+melhor alocação de recursos para fins de saneamento básico. De modo indireto, a melhor eficiência dos gastos públicos permitirá aos
+gestores direcionar seus recursos para atividades essenciais de saneamento.
+d)O projeto abrange uma infraestrutura digital que permitirá instrumentalizar com ferramentas digitais os órgãos e entidades no
+monitoramento e distribuição de recursos hídricos, e conservação de solos e nascentes. Tais soluções permitirão assegurar maior controle
+ sobre os recursos e usos dos sistemas de gestão integrada desses recursos.
+Os municípios alvos do programa possuem uma média de 40.2% de perdas na distribuição dos recursos hídricos.
+e)Existem inúmeras evidências de que a transformação digital pode catalisar o progresso em direção aos objetivos ambientais por meio de
+melhores mecanismos de gestão das questões ambientais, de monitoramento e fiscalização, e com a integração com mecanismos de
+comunicação junto aos órgãos ambientais. Este Programa inclui entre seus componentes a conexão de todas as instituições públicas dos
+municípios alvos, inclusive aqueles encarregados de questões de manejo da biodiversidade, parques e recurso florestais.
+Muitos dos municípios alvos desse Programa estão localizados em bacias hidrográficas e zonas de reserva de ativos ambientais. Em
+média, os municípios algo do Programa possuem 34% de cobertura florestal e quando se toma somente aqueles da Amazônia Legal esse
+percentual sobre para 65.8%.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:31
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61169
+Página: 10
+f)O conjunto de componentes e produtos do Projeto abrangem dimensões estruturais e de serviços digitais voltadas à melhoria do
+ambiente de negócios por meio de desburocratização e facilitação da regularização dos negócios. Essa dimensão possui metas
+específicas de desempenho projetadas nesta Carta Consulta, revelando compromisso da Caixa sobre a melhoria do ambiente de negócios
+nas cidades brasileiras. Referências disponíveis para o contexto brasileiro, sugerem que, em média, as unidades federativas que
+aderiram ao gov.br reduziram o tempo com abertura de empresas em 66.7%. Entende-se que, uma vez implementada a transformação
+digital, espera-se alçar os municípios a uma nova condição de conectividade universal e significativa e ampliar o escopo e alcance de
+serviços digitais para a sociedade brasileira. Desse modo, entende-se que o Projeto possui grande impacto na melhoria do ambiente de
+negócios e criação de oportunidades no Estado.
+g)Os municípios contemplados neste Programa são em sua maioria de pequeno porte cuja economia depende em grande parte de
+pequenos empreendimentos. 92.5% dos municípios mapeados como potenciais beneficiários possuem o setor de serviços como sua
+principal atividade econômica. Ações de transformação digital como as contempladas nesta Carta consulta farão uma transformação
+paradigmática na otimização da burocracia e dos custos transacionais que empreendedores individuais têm para regularização de seus
+negócios. 
+Cabe ressaltar que a ampliação da infraestrutura digital do setor público e a digitalização dos serviços resultará em externalidades
+positivas sobre a comunidade local. Esses ganhos de eficiência e produtividade resultarão na simplificação e desoneração da atuação
+empresarial, notadamente dos micros e pequenos empresários.
+h) Uma vez implementado o conjunto de componentes propostos promoverá alavancagem de investimentos, com geração de novos
+negócios e empregos, em especial para a população de baixa renda dos municípios. Espera-se a geração de empregos locais em
+atividades de suporte e execução da digitalização, elevando a qualificação da população local e fomentando empregos qualificados para
+populações que muitas vezes dependem de auxílio do poder público. 
+i)Sistemas digitais e modernos de identificação se consolidam principalmente com soluções tecnológicas acessadas por meios de
+dispositivos móveis. A consulta da identidade em meios eletrônicos passa a ser uma prerrogativa sob o domínio das partes que exigem a
+identificação e não uma obrigação exclusiva do cidadão. Tal liberdade permitirá as populações de baixa renda exercer seus direitos e
+obrigações civis sem a necessidade de carregar um documento impresso, bastando identificar-se oralmente, com suas digitais ou outros
+meios.
+j)O projeto contempla, principalmente, municípios de baixo e médio desenvolvimento com grande presença de minorias marginalizadas e
+dependentes do escudo social do Estado. Ao migrar o provimento de serviços públicos para meios digitais o município habilitará milhões
+de pessoas para terem acesso a serviços públicos, inclusive os de identificação, de integração de sistemas de educação e prontuário
+eletrônico, de justiça e cidadania, entre outros. O adensamento da infraestrutura nessas regiões permitirá maior integração de cidadãos e
+proverá acesso a serviços digitais e conectividade em estabelecimentos do sistema público de suporte social, educacional e de emprego.
+Além disso, o componente de desenvolvimento de habilidades digitais para acesso aos serviços públicos permitirá mulheres, minorias
+sociais e sexuais, povos indígenas, negros, quilombolas, indivíduos com baixa escolaridade, idosos, imigrantes, pessoas com deficiência,
+beneficiários de sistemas de apoio social e de renda mínima a fazerem uso efetivo dos meios digitais para obtenção do serviço público e
+cidadania.
+k)O componente de habilitação digital permitirá oferecer conhecimentos e habilidades básicas e intermediárias que permitam jovens,
+mulheres, minorias de gêneros e sexuais, e grupos sociais carentes a realizarem e terem acesos a prontuários eletrônicos, matrícula
+digital, solicitação de programas sociais, acesso à justiça e estabelecimento de fomento à cidadania. Esse enfoque, combinado com a
+região focal do projeto, permitirá o acesso aos serviços públicos por populações e grupos sociais sensíveis, inclusive aqueles de regiões
+do sertão, da Amazônia Legal e de municípios com IDH abaixo da média nacional.
+l)O conjunto de componentes do projeto permitirá conectar todos os estabelecimentos públicos municipais e habilitar ferramentas
+fundamentais para aos serviços públicos federais e  integração com sistemas do educação, saúde, segurança pública e assistência social.
+A coleta de dados permitirá alimentar automaticamente dados do censo escolar e hospitalar e agilizar a transferência Inter federativa de
+recursos com maior precisão e com menos erros e desvios. Tal dinâmica complementa outros esforços conduzidos pelo poder público
+para os setores de educação, saúde, segurança pública, entre outros.
+m)O programa prevê investimentos em infraestrutura de conectividade e de sistemas. Esses investimentos exercem efeito em toda a
+cadeia de valor da transformação digital, desde os fornecedores de equipamentos e serviços até a capacitação de jovens que proverão
+mão de obra para a manutenção do novo acervo digital, inclusive com o estímulo entre os setores públicos e privado. O setor privado faz
+parte dessa arquitetura uma vez que será fornecedor de meios de conectividade e provimento de serviços de consultoria e de governança
+de dados.
+* os dados apresentados nesse item foram obtidos com base no anexo - Estudos dos Municípios
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:31
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61169
+Página: 11
+Moeda de Referência: Dólar
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+BIRD
+US$
+500.000.000,00
+1,00
+500.000.000,00
+Total:
+500.000.000,00
+500.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+As instituições envolvidas na implementação e execução do projeto são a CAIXA e o Banco Mundial
+Após a conclusão das negociações formais com o Banco Mundial e com os demais órgãos governamentais responsáveis, a aprovação
+deste Projeto será submetida à apreciação do Conselho de Administração da Caixa e, em seguida, cumprirá o rito de concessão de
+garantia soberana.
+A CAIXA é o principal executor de políticas públicas do Governo Federal e possui ampla experiência e estrutura para implementação de
+programas e projetos contemplados no escopo dessa carta consulta. Com saldo de carteira superior a R$ 100 Bilhões com entes públicos,
+totaliza mais de 4.100 contratos ativos e sob a Vice-Presidência de Governo há uma estrutura de 70 Salas das Cidades e Estados,
+espaço exclusivo para recepcionar as demandas de prefeitos e governadores, 76 Superintendências Executivas de Governo, 48
+Gerências Executivas compostas por profissionais com múltiplas formações e 24 representações de Governo.
+Disponibilizamos aos estados e municípios a linha de crédito FINISA Transformação Digital que está alinhada à Estratégia Nacional de
+Governo Digital (ENGD), coordenada pelo Ministério da Gestão e da Inovação em Serviços Públicos (MGI), que apresenta um conjunto de
+ recomendações estratégicas voltadas para ampliação e simplificação do acesso do cidadão aos serviços públicos.
+A CAIXA é parceira estratégica do MGI para a implementação dessa estratégia junto a estados e municípios, ofertando linhas de
+financiamento e assistência técnica, de modo a assegurar a modernização do Estado, promover o desenvolvimento sustentável e
+identificar a cooperação entre os entes federados e com a sociedade.
+A Matriz de Responsabilidade segue na aba anexo. Em síntese, as atividades e responsabilidades serão as seguintes:
+a)Estruturação da operação de captação: Vice-Presidências de Sustentabilidade e Cidadania Digital, de Finanças e Controladoria e Banco
+ Mundial
+b)Aprovação da captação após a conclusão das negociações formais com o Banco Mundial e com os demais órgãos governamentais
+responsáveis: Conselho de Administração da CAIXA
+c)Gestão financeira e contratual do Programa: Vice-Presidência de Sustentabilidade e Cidadania Digital
+d)Análise dos subempréstimos pelas equipes técnicas da CAIXA: Vice-Presidência de Governo
+e)Aprovação dos projetos financiados no âmbito do Programa (subempréstimos): Vice-Presidências de Sustentabilidade e Cidadania
+Digital, de Governo, e Banco Mundial
+f)Acompanhamento e monitoramento dos indicadores do Programa: Vice-Presidências de Sustentabilidade e Cidadania Digital e de
+Governo
+
+
+
+4.2. Execução/Executores
+Executor: Caixa Econômica Federal - CEF
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+Fax:
+CNPJ:                
+UF:  
+4.3. Execução/Prazo
+Prazo de Desembolso:
+3
+Anos
+4.4. Execução/Cronograma
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:31
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61169
+Página: 12
+Ano 1
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BIRD
+BIRD
+C - INVESTIMENTO EM PROJETOS DE TRANSFORMAÇÃO DIGITAL
+480.000.000,00
+240.000.000,00
+   S - FINANCIAMENTO DE PROJETOS DE INFRAESTRUTURA DIGITAL 
+300.000.000,00
+150.000.000,00
+      P - Projetos de conectividade e processamento/armazenamento de dados
+300.000.000,00
+150.000.000,00
+   S - FINANCIAMENTO DE PROJETOS DE SERVIÇOS DIGITAIS
+160.000.000,00
+80.000.000,00
+      P - Projetos para implementação da Carta de Serviços Digitais
+160.000.000,00
+80.000.000,00
+   S - FINANCIAMENTO DE CAPACIDADES DIGITAIS
+20.000.000,00
+10.000.000,00
+      P - Investimento capacitação técnica de habilidades digitais
+20.000.000,00
+10.000.000,00
+C - ASSISTÊNCIA TÉCNICA 
+20.000.000,00
+10.000.000,00
+      P - Assistência Técnica
+20.000.000,00
+10.000.000,00
+Total
+0,00
+250.000.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BIRD
+BIRD
+C - INVESTIMENTO EM PROJETOS DE TRANSFORMAÇÃO DIGITAL
+156.000.000,00
+   S - FINANCIAMENTO DE PROJETOS DE INFRAESTRUTURA DIGITAL 
+100.000.000,00
+      P - Projetos de conectividade e processamento/armazenamento de dados
+100.000.000,00
+   S - FINANCIAMENTO DE PROJETOS DE SERVIÇOS DIGITAIS
+50.000.000,00
+      P - Projetos para implementação da Carta de Serviços Digitais
+50.000.000,00
+   S - FINANCIAMENTO DE CAPACIDADES DIGITAIS
+6.000.000,00
+      P - Investimento capacitação técnica de habilidades digitais
+6.000.000,00
+C - ASSISTÊNCIA TÉCNICA 
+6.000.000,00
+      P - Assistência Técnica
+6.000.000,00
+Total
+0,00
+162.000.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BIRD
+BIRD
+C - INVESTIMENTO EM PROJETOS DE TRANSFORMAÇÃO DIGITAL
+84.000.000,00
+480.000.000,00
+   S - FINANCIAMENTO DE PROJETOS DE INFRAESTRUTURA DIGITAL 
+50.000.000,00
+300.000.000,00
+      P - Projetos de conectividade e processamento/armazenamento de dados
+50.000.000,00
+300.000.000,00
+   S - FINANCIAMENTO DE PROJETOS DE SERVIÇOS DIGITAIS
+30.000.000,00
+160.000.000,00
+      P - Projetos para implementação da Carta de Serviços Digitais
+30.000.000,00
+160.000.000,00
+   S - FINANCIAMENTO DE CAPACIDADES DIGITAIS
+4.000.000,00
+20.000.000,00
+      P - Investimento capacitação técnica de habilidades digitais
+4.000.000,00
+20.000.000,00
+C - ASSISTÊNCIA TÉCNICA 
+4.000.000,00
+20.000.000,00
+      P - Assistência Técnica
+4.000.000,00
+20.000.000,00
+Total
+500.000.000,00
+88.000.000,00
+500.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+Além das formalidades legais previstas no rito das contratações de empréstimos internacionais que contam com aval da União, tal rito
+assegura máximo compliance com as regras internacionais e escrutínio minucioso de autoridades do Poder executivo e Legislativo. Por
+parte da CAIXA, trata-se de instituição pública de alta credibilidade, regida por um conjunto de competências, mandatos, definições e
+procedimentos a serem observados, de forma a identificar e avaliar os impactos da ocorrência de eventos relativos a falhas legais em
+procedimentos e em contratos, com o objetivo de reduzir, mitigar e eliminar a ocorrência de eventos de risco de atos legais.
+
+
+5.2. RISCOS/CONTRATAÇÕES
+A Caixa é uma instituição centenária com grande experiência na contratação de operações de repasse e possui modelos de instrumentos
+contratuais que são adotados em todas as operações. A CAIXA possui quadro funcional em quantidade com as competências e
+habilidades necessárias para suportar a operação, pois empregará a mesma estrutura utilizada em outras linhas de crédito. 
+Cabe destacar que os contratos com entes públicos contam com garantia da União ou do Fundo de Participação dos Municípios - FPM, o
+que reduz consideravelmente o risco de inadimplência. 
+Ato legal - Parecer nº 2/2018/Gab/CGU/AGU
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:31
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61169
+Página: 13
+5.5. RISCOS/IMPACTO SOCIAL
+5.6. RISCOS/REASSENTAMENTOS
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 

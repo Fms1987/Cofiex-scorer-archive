@@ -1,0 +1,2952 @@
+# Carta-Consulta CC_61186 — Versao 1 (SIGS)
+
+
+CARTA CONSULTA
+
+PROGRAMA DE RECONSTRUÇÃO E ADAPTAÇÃO ÀS MUDANÇAS CLIMÁTICAS EM
+PORTO ALEGRE(cid:13)
+
+Nº Carta Consulta: 61186
+Mutuário: Município de Porto Alegre - RS
+Tipo de Operação: Operação de crédito externo
+
+Fontes Internas:
+Contrapartida Financeira: US$ 40.000.000,00
+Fontes Externas:
+New Development Bank - NDB: US$ 160.000.000,00
+
+(cid:10)
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+(i) Porto Alegre, capital do Rio Grande do Sul, tem cerca de 1.332.000 habitantes (2022, IBGE). Sua Região Metropolitana é composta por
+31 municípios, totalizando aproximadamente 4,4 milhões de habitantes. De topografia complexa, formada por morros e 27 arroios, a
+capital está localizada junto ao Lago Guaíba, que margeia o limite oeste do Município e pelo Rio Gravatai, em seu limite norte. A bacia
+hidrográfica do Guaíba é o escoadouro das águas de uma região que abrange 30% de toda área geográfica do Estado, com o encontro
+dos rios Jacuí, Gravataí, Sinos e Caí. O ponto de maior represamento destas águas coinicide com a área de maior densidade urbana, o
+centro da Capital. Esta região, juntamente com a zona norte, concentra as áreas mais baixas da cidade, abaixo da cota 3, praticamente no
+nível médio das águas dos rios.
+
+Desde o início de maio de 2024, o RS vem enfrentando uma crise sem precedentes, desencadeada pelo grande volume de chuvas que
+culminaram no maior evento de inundação do país. Atingindo as zonas de maior densidade urbana do Estado, este evento afetou
+diretamente mais de 150 mil pessoas (IPH/UFRGS, 2024) somente na Capital. Esta foi a maior cheia registrada do Lago Guaíba que
+alcançou 5,3 m (PMPA, 2024). Esse evento extremo evidenciou uma gama de questões interligadas, desde problemas no Sistema de
+Proteção contra Inundações, drenagem até a ocupação desordenada de áreas de risco, destacando a necessidade de uma abordagem
+abrangente e multissetorial na gestão urbana da cidade.
+
+O sistema de drenagem da capital possui extensão total de 3.338 km de redes pluviais, além de reservatórios de amortecimento de vazão
+e unidades de bombeamento, que apresentaram falhas durante os episódios de maio de 2024. Uma avaliação realizada em 2022 indicou
+a necessidade de melhorar a eficiência e sustentabilidade do manejo de águas pluviais, de acordo com as diretrizes do Plano Diretor de
+Drenagem Urbana. As falhas ocorridas em todas as casa de bombas distribuídas ao longo da área central, 4º. Distrito, Humaitá e Sarandi,
+juntamente com o rompimento de 3 comportas e o extravasamento de diques foram determinantes para a ocorrência de uma situação de
+calamidade nas áreas mais baixas da cidade (Mapa de Inundação). A inundação atingiu áreas residenciais e comerciais deixando bairros
+inteiros comprometidos. As áreas periféricas e irregulares, reflexo do crescimento urbano desordenado, foram devastadas deixando uma
+parcela da população desabrigada (13.204 pessoas)e desalojadas (126.606 pessoas) que necessitaram desocupar seus domicílios. Além
+dos graves problemas diretamente decorrentes da inundação, a cidade enfrentou problemas de falta de energia elétrica e de fornecimento
+de água, revelando mais fragilidades na sua infraestrutura. Estações de Tratamento de Água foram comprometidas, desabastecendo a
+população de grande parte da cidade, mesmo aquelas não atingidas pela inundação.
+
+As deficiências na infraestrutura viária que afetam diretamente a logística urbana tornaram-se ainda mais evidentes com o bloqueio de
+seus principais acessos, comprometendo o abastecimento geral da população. A entrada e saída da cidade ficou limitada a uma única via,
+até a construção emergencial de um acesso humanitário, que viabilizou a chegada de alimentos, água e doações à população.
+Equipamentos essenciais como Aeroporto, CEASA e Rodoviária também foram inundados.
+
+(ii) Os principais problemas a serem resolvidos são:
+
+a) Falha no funcionamento do Sistema de Proteção contra Inundações e na infraestrutura existente de drenagem, compreendendo as
+estações de bombeamento (casas de bombas), canais coletores, diques e comportas.
+
+b) Impactos sociais, ambientais, comerciais e econômicos em virtude dos efeitos da enchente e alagamentos ocorridos nos eventos de
+maio de 2024. Danos de várias magnitudes em equipamentos sociais, no patrimônio público e no privado. Impacto na área central e
+econômica da cidade, em diversos bairros inundados, em áreas de habitação popular e em áreas de risco.
+
+c) Impactos na infraestrutura viária existente devido as inundações e falta de infraestrutura viária e logística para transporte de cargas e de
+acessos para abastecimento da cidade, tecnologias insuficientes e falta de planejamento da logística urbana, incluindo estratégias para
+momentos de crise.
+
+d) Falta de Instrumentos de gestão e tecnologia inexistentes para enfrentamento de eventos extremos e monitoramento de eventos
+climáticos que possam garantir a manutenção da infraestrutura básica da cidade.
+
+e) Falta de ações em Segurança Hídrica, de modo a garantir o fornecimento e a qualidade da água para consumo da população;
+
+Os investimentos no sistema de proteção contra inundações, drenagem e logística são um importante marco no desenvolvimento
+sustentável de Porto Alegre, e apoiam uma visão de cidade inclusiva, resiliente e inteligente.
+
+(ii) (IDHM): 0,805 (PNUD - 2010)
+
+OBS.: Em Anexos - Documentos da Carta Consulta.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+(ii) SOLUÇÃO PROPOSTA: AT (1.1)
+
+O Programa visa solucionar os desafios relacionados a eventos climáticos extremos que a cidade de Porto Alegre, por suas características
+geográficas está suscetível, com vistas a um desenvolvimento de resiliência e sustentabilidade, preservando vidas, o meio ambiente e a
+atividade econômica do município.
+
+São as seguintes as soluções propostas:
+
+
+Página: 3
+
+a) Eficientização do Sistema de Proteção contra Inundações e qualificação da infraestrutura de drenagem, com a realização de obras de
+engenharia, para reformas e ampliação das estações de bombeamento com utilização de tecnologias, instalações modernas e soluções
+de infraestrutura resiliente.
+
+b) Estudo de ações e implantação de soluções na área habitacional para a população mais vulnerável; construção e recuperação de
+equipamentos sociais, e capacitação e qualificação para a população atingida, com ênfase na inserção econômica das mulheres e dos
+jovens.
+
+c) Qualificação da infraestrutura viária: qualificação viária, com soluções resilientes quanto a eventos extremos, de modo garantir o acesso
+ao Porto Seco, principal setor de abastecimento da cidade e recuperação das vias atingidas pela enchente.
+
+d) Implementação de soluções de inovação e resiliência: desenvolvimento de planos estratégicos para o enfrentamento de eventos
+extremos, gestão e implantação de equipamentos para o monitoramento de cheias e de logística urbana.
+
+e) Estudo de soluções sustentáveis e resilientes com o objetivo de garantir uma gestão eficiente e sustentável dos recursos hídricos
+urbanos, aumentar a capacidade de absorção das chuvas e reduzir os impactos de enchentes e alagamentos na cidade.
+
+(iii) RESULTADOS ESPERADOS
+
+a)  Sistema de Proteção contra Inundações e  infraestrutura de drenagem da cidade funcionando de forma eficiente e resiliente, evitando
+os impactos sociais, ambientais e econômicos de precipitações, alagamentos e inundações.
+
+b) Garantia de acesso à habitação para a parte da população vulnerável da região, infraestrutura viária recuperada e qualificada;
+equipamentos públicos prestando serviços ao cidadão.
+
+c) Vias e acessos estruturados e segurança para a retomada das atividades econômicas da região, a partir da qualificação da mobilidade
+e infraestrutura logística do Porto Seco e entorno. Capacidade de planejamento, monitoramento e gestão por meio do Laboratório de
+Mobilidade e Logística e Observatório de Mobilidade.
+
+d) Mitigar perdas na ocorrência de desastres. Capacidade de planejamento e gestão resiliente no enfrentamento aos eventos climáticos.
+Plataformas e ferramentas disponíveis para projetar, implementar e avaliar estratégias, políticas e medidas para melhorar a compreensão
+do risco de desastres, a fim de reduzir os impactos e promover a melhoria contínua nas práticas de resposta e recuperação.
+
+(iv) SUSTENTABILIDADE
+
+A operacionalização, manutenção e sustentabilidade financeira de médio e longo prazo serão viabilizadas pelo incremento financeiro
+proveniente do investimento neste Programa.
+
+Os efeitos e impactos causados pelos eventos climáticos, a carência de investimentos em gestão de riscos, a insuficiência de recursos
+para o sistema de proteção contra cheias e para as estações de bombeamentos (estimados em R$ 4,5 milhões anuais por CB) nesse
+momento não podem ser mensurados, no entanto, existem orçamentos e estimativas de necessidades de investimentos, que calculam o
+montante de cerca de R$ 4 bilhões para investimentos em reestruturação do sistema, e cerca de mais de R$ 5 bilhões para recuperar a
+cidade.
+
+Dessa forma, diante de um desastre, não podemos garantir a manutenção anual dos investimentos, tendo em vista que é certo a perda de
+receitas municipais, em virtude do impacto econômico advindo das perdas públicas e privadas. No entanto, podemos investir em obras de
+prevenção e gestão de riscos em desastres, que no médio e longo prazo trazem benefícios, como citados no artigo: The triple dividend of
+resilience:
+
+(i) redução de custos e danos;
+
+(ii) melhoria da qualidade de vida;
+
+(iii) ganhos econômicos (empreendedorismo e inovação);
+
+(iv) ampliação dos horizontes de planejamento (acumulação de poupança);
+
+(v) aumento do valor da terra - (o que se poderia alcançar nas áreas do afetadas pela inundação de 2024).
+
+A sustentabilidade do programa deverá ocorrer por meio da construção de diversas parcerias estratégicas que contribuirão para o
+desenvolvimento dos projetos e ações, antes, durante e após a implantação dos investimentos previstos neste Programa, tais como:
+
+a) Parceria com o Governo Federal e Governo do Estado do RS.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+b) Parceria com o agente financeiro NDB, por meio de assistência técnica na inovação, na elaboração de estudos e projetos, e na
+execução dos principais produtos previstos.
+
+c) Cooperação com Universidades, Empresas e Sociedade Civil com vistas a criação de um ecossistema de conhecimento e troca de
+informações na busca pela sustentabilidade e resiliência.
+
+e) Recursos para os investimentos do Programa previstos no PPA, aportados anualmente nas Leis Orçamentárias do Departamento de
+Águas e Esgotos, com receitas advindas de tarifas de água e esgoto, estando previsto em 2024 recursos para manutenção no montante
+de R$ 66 milhões - Anexos LOA2024, e na Secretaria de Serviços Urbanos (SMSURB), previsão em 2024 para manutenção e
+recuperação de pavimentos em vias públicas no valor de R$ 174,6 milhões. Na Habitação os recursos serão advindos de programas e
+ações do Governo Federal e fortalecimento da economia local.
+
+Por fim, conclui-se, que a falta de manutenção em saneamento, mas principalmente a falta de investimentos estruturantes causam a
+insustentabilidade financeira, visto que uma calamidade e desastre apresentam não somente prejuízos financeiros, mas perdas de vidas e
+destruição ambiental, como as vivenciadas pelo povo do RS e que afetaram a capital dos gaúchos.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+(ii) ORIENTAÇÕES ESTRATÉGICAS:
+
+(i) As ações do Programa constam no Plano Plurianual (PPA 2022-2025), Lei 12.865/21; na LDO 2024 e na LOA 2024, Lei 13.775 de 21. a
+) Ações de infraestrutura urbana - alinhadas com o Eixo de Serviços Públicos- Programa Gestão da Cidade. b) Ações de reassentamento
+e habitação - alinhadas com o Eixo de Desenvolvimento Social. c) Ações de qualificação da mobilidade e de desenvolvimento econômico -
+nos Programas Gestão da Cidade e no Programa Reset - Mudança do Ambiente de Negócios, que fazem parte do Eixo de Serviços
+Públicos.
+
+(ii)As ações previstas constam nos planos setoriais:
+
+1. Plano Diretor de Desenvolvimento Ambiental Urbano (PDDUA) - LC nº 434, 01/12/1999, atualizada até a LC nº 667, 03/01/2011,
+incluindo a LC nº 646, 22/07/2010.
+
+2. Plano Diretor de Drenagem Urbana - Manual de Drenagem Urbana (PDDU-MDU) - Vol. VI/2005.
+
+3. Plano Municipal de Saneamento Básico (ANEXO PMSB 1 e 2) - DECRETO Nº 18.517, 27/12/13, relativo ao manejo de águas pluviais
+urbanas, em conformidade com as diretrizes da Lei Federal nº 11.445/2007 e seus decretos regulamentadores (nº 7.217/2010 e nº 8.211/
+2014).
+
+4. Plano Diretor Cicloviário Integrado LC nº 626, 15/07/2009, atualizações: LC 710/2013, 18/02/2013, LC 744/2014, 28/10/2014, e Decreto
+nº18.848/2014, 14/11/2014.
+
+5. Plano Diretor de Acessibilidade/ PMPA : LC nº 678, 28/08/2011, atualizada pela LC nº 758, 09/02/2015.
+
+6. Plano Plurianual para o quadriênio 2022-2025, LO nº 12.865, 03/09/2021, atualizações: LO nº 12.942/2021, 27/12/2021, LO nº 13.169,
+08/07/2022, e LO nº 13.775, 13/12/2023.
+
+7. Plano de Mobilidade Urbana de Porto Alegre, LC nº 951, 17/08/2022.
+
+8. Plano de Segurança Viária Sustentável da Cidade de Porto Alegre, Decreto nº 21.652/2022, 23/09/2022.
+
+9. Plano de Ação Climática, em elaboração (2023-2024), Consultoria - BIRD.
+
+Outros Planos e Estudos:
+
+Plano Diretor de Transporte Público de Porto Alegre - (Ano 2000); Pesquisa de Entrevista Domiciliar - (2003).
+
+Estudo elaborado de Planejamento Estratégico (EPE), Desenvolvido pela SMT/EPTC, Governo do Estado e Ministério das Cidades - (
+2005).
+
+Plano Integrado de Transporte e Mobilidade Urbana (PITMUrb), Desenvolvido pela SMT/EPTC, Governo do Estado e Ministério das
+Cidades - (2009).
+
+Roteiro de Logística de Porto Alegre (Logus) - CAF.
+
+(iii) CONTRAPARTIDA
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+Os recursos de contrapartida do município correspondem a 20% do total do Programa, no período proposto de 05 anos de execução. A
+contrapartida será aportada com recursos provenientes de receitas tributárias previstas nos artigos 156, 158 e 159, inciso I, (b), da
+Constituição Federal, conforme estabelecido na Resolução nº 3, de 29 de maio de 2019, COFIEX.
+
+(iv) TAXA DE CÂMBIO:
+
+BACEN para a cotação do US Dólar (PTAX) em relação ao Real na data de 17.05.2024. Para a conversão: 1 Dólar-R$ 5,1157.
+
+2. Projeto
+
+### 2.1. Título
+
+
+PROGRAMA DE RECONSTRUÇÃO E ADAPTAÇÃO ÀS MUDANÇAS CLIMÁTICAS EM PORTO ALEGRE
+
+
+### 2.2. Título Abreviado
+
+SUPERAPOA
+
+
+### 2.3. Mutuário
+
+
+Município de Porto Alegre - RS
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+(i) OBJETIVO GERAL
+
+Garantir a segurança humana, o bem-estar, a qualidade de vida e o desenvolvimento sustentável por meio de ações de gestão de riscos
+em desastres e de infraestruturas resilientes para o enfrentamento às mudanças climáticas no Município de Porto Alegre.
+
+(ii) OBJETIVOS ESPECÍFICOS
+
+1. Garantir a eficiência do Sistema de Proteção contra Inundações, por meio de investimentos em ampliação da capacidade e
+modernização de seus componentes.
+
+2. Garantir o acesso à habitação e desenvolvimento sócio-econômico a parte das populações afetadas pelas cheias.
+
+3. Qualificar a infraestrutura viária de acesso à cidade e a equipamentos essenciais, melhorando a eficiência logística de acesso e
+distribuição de bens e serviços,  garantindo a manutenção do abastecimento e condições básicas à população em eventos climáticos
+extremos.
+
+4.  Implantar Gestão de Riscos em Desastres.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Descrição
+Eficiência dos elementos do Sistema de
+Proteção contra Inundações diante de eventos
+de cheia (Ano da linha de base: 2024 / Ano da
+meta: 2029)
+
+Ampliação da infraestrutura da rede cicloviária
+nas vias com intervenções previstas dentro do
+Programa (Ano da linha de base: 2024 / Ano da
+meta: 2029)
+
+Manutenção do número de empresas instaladas
+na região do Porto Seco após o evento de
+inundação ocorrido em maio/24 (Ano da linha de
+base: 2023 / Ano da meta: 2029)
+
+Eficiência das Estações de Tratamento de Água
+em eventos climáticos (Ano da linha de base:
+2024 / Ano da meta: 2029)
+
+Plano de Contingência/Emergência homologado
+e implementado (Ano linha base: 2025/ Ano da
+meta: 2027)
+
+Plano de Segurança Hídrica homologado e
+implementado (Ano linha base: 2025/ Ano da
+meta: 2027)
+
+Aumento percentual de jovens participantes em
+atividades voltadas à promoção de geração de
+renda (Ano da linha de base: 2025 / Ano da meta
+: 2029)
+
+Aumento percentual de participação de mulheres
+nas atividades voltadas à promoção de geração
+de renda (Ano da linha de base: 2025 / Ano da
+meta: 2029)
+
+Extensão de vias que garantam o acesso aos
+serviços básicos essenciais (Ano da linha de
+base: 2024 / Ano da meta: 2029)
+
+Percentual
+
+Percentual
+
+Percentual
+
+Quilômetro
+
+Número de
+empresas
+
+Fórmula de Cálculo Unidade de Medida
+Porcentagem de
+casas de bombas,
+comportas e diques
+em funcionamento
+adequado em eventos
+de cheia
+Somatório dos Km
+considerados na linha
+de base e dos Km a
+serem implantados
+com o Projeto
+Somatório do número
+de empresas
+instaladas
+considerando a linha
+de base, e do número
+de empresas
+instaladas após a
+implantação do
+Projeto
+Porcentagem de ETAs
+em funcionamento
+adequado diante de
+eventos climáticos
+Plano de Contingência
+/Emergência para
+eventos climáticos
+extremos elaborado,
+homologado e
+implementado/testado
+Plano de Segurança
+Hídrica elaborado,
+homologado e
+implementado/testado
+{[(Número de jovens
+participantes no ano,
+ao término da
+execução do
+Programa)-(Número
+de jovens
+participantes em 2025
+)]/(Número de jovens
+participantes em 2025
+)}x100
+{[(Número de
+mulheres
+participantes no ano,
+ao término da
+execução do
+Programa )-(Número
+de mulheres
+participantes em 2024
+) ]/(Número de
+mulheres participantes
+em 2024) }x100
+Somatório dos km
+considerando a linha
+de base e dos km
+implantados com a
+execução do Projeto
+
+Quilômetros
+
+Percentual
+
+Percentual
+
+Percentual
+
+
+Página: 6
+
+Meta
+80,00
+
+Linha de Base
+0,00
+
+86,00
+
+110,00
+
+67,00
+
+67,00
+
+30,00
+
+90,00
+
+0,00
+
+100,00
+
+0,00
+
+100,00
+
+0,00
+
+50,00
+
+0,00
+
+50,00
+
+96,00
+
+106,00
+
+
+Capacidade das estações de bombeamento (
+Ano da linha de base: 2024 / Ano da meta: 2029)
+
+Capacidade das estações de bombeamento de
+água tratada (Ano da linha de base: 2024 / Ano
+da meta: 2029)
+
+Somatório da
+capacidade das
+estações de
+bombeamento
+considerando a linha
+de base, e da
+capacidade de
+bombeamento após a
+implantação do
+Programa
+Somatório da
+capacidade de
+bombeamento
+considerando a linha
+de base, e da
+capacidade de
+bombeamento após a
+implantação do
+Programa
+
+
+Página: 7
+
+33,00
+
+69,00
+
+Metros cúbicos /
+segundo
+
+Metros cúbicos /
+segundo
+
+33,00
+
+69,00
+
+
+### 2.7. Projeto/Componentes
+
+
+Componentes
+C - INFRAESTRUTURA RESILIENTE
+S - S.1 - INTERVENÇÕES ESTRUTURANTES
+P - ESTUDOS E PROJETOS
+P - Obras de Saneamento - Drenagem - Proteção Contra as Cheias
+P - Obras nas vias de acesso ao Porto Seco
+P - Requalificação da Voluntários da Pátria - Trecho 2
+P - Desapropriações e Assentamentos
+P - Habitação de Interesse Social
+P - Recuperação de Vias
+S - GESTÃO E INOVAÇÃO
+P - Plano de Contingência e Emergência
+P - Sistema de Monitoramento de Cheias
+P - Plano de Segurança Hídrica
+P - Implantação do Observatório e Laboratório de Mobilidade e Logística Urbana
+P - Gestão de Plano de Logística Urbana
+C - INFRAESTRUTURA SOCIAL E QUALIFICAÇÃO PARA TRABALHO E RENDA
+P - Capacitação e Qualificação para a População Vulnerável
+P - Recuperação dos Equpamentos Públicos
+C - UNIDADE GESTORA DO PROGRAMA
+P - Apoio ao Gerenciamento
+P - Supervisão de Obras
+P - Auditoria e Avaliação do Programa
+P - Comunicação Social e Mobilização
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Valor(US$)
+194.000.000,00
+191.000.000,00
+3.000.000,00
+100.000.000,00
+38.000.000,00
+16.000.000,00
+20.000.000,00
+9.000.000,00
+5.000.000,00
+3.000.000,00
+1.000.000,00
+300.000,00
+800.000,00
+600.000,00
+300.000,00
+3.000.000,00
+2.000.000,00
+1.000.000,00
+3.000.000,00
+600.000,00
+2.000.000,00
+300.000,00
+100.000,00
+200.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - INFRAESTRUTURA RESILIENTE
+Os projetos alocados nesse componente  possuem aderência aos seguintes Objetivos de Desenvolvimento Sustentável e suas
+metas:
+- ODS 6. Assegurar a disponibilidade e gestão sustentável da água e saneamento para todas e todos.
+META 6.1: Até 2030, melhorar a qualidade da água, reduzindo a poluição, eliminando despejo e minimizando a liberação de
+produtos químicos e materiais perigosos, reduzindo à metade a proporção de águas residuais não tratadas e aumentando
+substancialmente a reciclagem e reutilização segura globalmente.
+- ODS 9. construir infraestruturas resilientes, promover a industrialização inclusiva e sustentável e fomentar a inovação
+META 9.1: Implementar soluções de drenagem que contribuam para o aumento de resiliência nas áreas de cota mais baixa da
+cidade, sujeitas a alagamentos e inundações, protegendo a população residente e a atividade econômica das regiões.
+- ODS 11. Tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis.
+META 11.1: Até 2030, garantir o acesso de todos à habitação segura, adequada e a preço acessível, e aos serviços básicos e
+urbanizar as favelas;
+META 11.2: Até 2030, proporcionar o acesso a sistemas de transporte seguros, acessíveis, sustentáveis e a preço acessível para
+todos, melhorando a segurança rodoviária por meio da expansão dos transportes públicos, com especial atenção para as
+necessidades das  pessoas em situação de vulnerabilidade, mulheres, crianças, pessoas com deficiência e idosos;
+META 11.3: Até 2030, aumentar a urbanização inclusiva e sustentável, e as capacidades para o planejamento e gestão de
+assentamentos humanos participativos, integrados e sustentáveis, em todos os países;
+
+
+Página: 8
+
+META 11.4. Apoiar relações econômicas, sociais e ambientais positivas entre áreas urbanas, periurbanas e rurais, reforçando o
+planejamento nacional e regional de desenvolvimento.
+- ODS 13. Tomar medidas urgentes para combater a mudança climática e seus impactos.
+Meta 13.1: Até 2030 reforçar a resiliência e a capacidade de adaptação a riscos relacionados ao clima e às catástrofes naturais em
+todos os países;
+Meta 13.2: Até 2030 Integrar medidas da mudança do clima nas políticas, estratégias e planejamentos nacionais.
+Meta 13.3: Garantir a eficiência do Sistema de Proteção contra Inundações, com ampliação da capacidade e modernização de
+seus componentes.
+- ODS 17: Fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento sustentável
+Meta 17.1: Promover ações de planejamento para o enfrentamento de crises climáticas no Município de Porto Alegre.
+Meta 17.2: Incentivar e promover parcerias públicas, público-privadas e com a sociedade civil eficazes, a partir da experiência das
+estratégias de mobilização de recursos dessas parcerias.
+
+S - S.1 - INTERVENÇÕES ESTRUTURANTES
+Investimentos em Saneamento - Sistema de Proteção Contra Cheias e Drenagem Urbana; Mobilidade - Logística urbana e
+mobilidade sustentável; Gestão e Inovação - Estudos, plataformas e ferramentas de prevenção a riscos, crises e desastres.
+Investimentos na qualificação do Sistema de Proteção contra Inundações e na macrodrenagem urbana,  através da ampliação da
+capacidade e modernização de seus componentes. Qualificação da infraestrutura viária de acesso à cidade e equipamentos
+essenciais. Investimentos em Habitação para a população vulnerável residentes em áreas inundáveis e afetadas pelos eventos de
+maio de 2024.
+
+P - ESTUDOS E PROJETOS
+Contratação de estudos e pesquisas para os projetos de mobilidade; análise de impacto ambiental, levantamentos cadastrais para
+desapropriação das áreas atingidas pelos gravames viários e imóveis para reassentamentos (caso existir); e projetos executivos
+para os investimentos no sistema viário do Acesso Norte ao Porto Seco, na malha viária estruturadora, como a Rua Voluntários.
+
+P - Obras de Saneamento - Drenagem - Proteção Contra as Cheias
+Os investimentos propostos para o Programa seguem as soluções previstas no Plano Diretor de Drenagem Urbana, no Plano
+Municipal de Saneamento, e no Caderno de Encargos, Anteprojetos e Estudos. Propõe a revisão das estações de bombeamento
+com capacidade e características adequadas, orientando o aprofundamento dos poços de sucção, a ampliação das capacidades
+de bombeamento, a modernização de equipamentos e instalações com autossuficiência energética, para permitir escoamentos
+satisfatórios das precipitações, associando a implantação de novos condutos, como também a ampliação de condutos existentes.
+Da mesma forma, o Programa prevê a análise das fragilidades das comportas e diques do sistema, identificando e implementando
+as ações necessárias para garantir a eficiência dos sistema como um todo. O conjunto das ações visa aumentar a capacidade de
+adaptação e a resiliência da cidade em relação aos eventos extremos advindos das mudanças climáticas.
+A sustentabilidade operacional, de manutenção e com despesas de pessoal tem apresentado avanços a partir da unificação dos
+serviços de manejo de águas pluviais com os serviços de abastecimento de água e esgotamento sanitário, sob a gestão de uma
+mesma entidade administrativa, o Departamento Municipal de Água e Esgoto - DMAE, desde 2019. Essa unificação delegada a
+uma entidade da administração indireta, com gestão de autarquia, dotada de independência administrativa, tem permitido
+concentração de esforços e aumento de eficiência em aplicação de recursos, na medida que compartilha as despesas de custeio e
+confere melhor aproveitamento das estruturas organizacionais-administrativas.
+Nos Anexos da Carta Consulta foi incluída imagem referente à área de abrangência dos investimentos propostos em macro
+drenagem pluvial.
+
+P - Obras nas vias de acesso ao Porto Seco
+Provavelmente o problema mais visível de Porto Alegre, em termos de logística urbana, seja o eixo norte que dá acesso ao Porto
+Seco, conectando-o ao Aeroporto Internacional Salgado Filho, à região metropolitana e às rodovias estaduais e federais (BR-290 e
+BR-116).
+Com o Rio Jacuí a oeste, e ligação direta com o centro da cidade, esta região teve sua origem com atividade industrial e de
+depósitos. Criado na década de 1970, o Porto Seco tinha o propósito de retirar as empresas que ocupavam a região do 4º Distrito
+de Porto Alegre, zona industrial mais próxima do centro da cidade, afastando da região central e orla as áreas para atividades de
+apoio à distribuição de cargas. Apesar da infraestrutura viária gravada no Plano Diretor como eixos de alta capacidade, corredores
+de produção e eixos de carga, a implantação do Porto Seco não foi acompanhada da execução da malha viária necessária para
+suportar o tráfego de veículos pesados.
+A implantação de núcleos residenciais, inclusive núcleos de habitação de interesse social, junto a regiões onde as atividades
+originais pouco dependiam de uma urbanização qualificada, resultou em populações cujo deslocamento depende de vias e
+espaços públicos precários: inexistência de passeios públicos e travessias de pedestres e paradas de transporte coletivo, ausência
+de pavimentação mesmo nas paradas de transporte coletivo e iluminação pública precária. Esta precariedade, somada ao fluxo
+acentuado e a circulação de veículos pesados, tem reflexo direto na segurança viária aumentando o risco de acidentes graves.
+Desta forma, atualmente esse importante eixo de distribuição de cargas é compartilhado com o acesso de veículos particulares e
+transporte público à região norte da cidade, através de vias com pista única e sentido duplo de circulação, sem priorização do
+transporte coletivo, ciclovias ou mesmo passeio público adequado. Atividades de produção e distribuição de cargas compartilham a
+região com áreas residenciais, algumas de caráter precário, aumentando os conflitos de mobilidade e segurança viária no entorno.
+As intervenções na rede viária propostas no Programa incluem investimentos em 5,5 km duplicação/pavimentação, 5,5 km
+ciclovias, passeios com acessibilidade universal, drenagem, iluminação pública, arborização e sinalização viárias. A proposta é que
+as intervenções viárias incorporem elementos que atendam às questões de sustentabilidade ambiental e resiliência, com soluções
+que contribuam para a mitigação dos efeitos das mudanças climáticas e a qualificação da ambiência urbana, tais como, ampliar a
+cobertura vegetal, através da criação de corredores verdes, ampliar a preservação de água através da implantação de jardins de
+chuva e do aumento da permeabilidade dos materiais, controle dos níveis de ruído, redução de ilhas de calor, etc.
+
+
+Página: 9
+
+Tais investimentos também preveem a priorização do transporte público coletivo, acarretando na redução dos tempos de
+deslocamento , o que beneficiará usuários das 11 linhas de transporte coletivo urbano, além do transporte metropolitano que
+circula no local. A execução do chamado Acesso Norte vai propiciar o desenvolvimento econômico e o aumento da atratividade do
+Porto Seco e, consequentemente, a geração de empregos em seu entorno imediato. Além disso, serão beneficiadas as
+comunidades dos bairros Sarandi, Sta. Rosa de Lima e Rubem Berta, e o acesso da população de várias cidades da região
+Metropolitana, como Alvorada, Cachoeirinha e Gravataí. Dentre as vias priorizadas no Acesso Norte ao Porto Seco, se destacam:
+Av. Francisco Silveira Bitencourt e a Av. Bernardino Silveira Amorim. A ampliação das vias se dará em região urbana consolidada,
+sobre áreas em geral regulares, planas e
+sem comprometimentos ambientais, com recuos viários gravados no Plano Diretor da cidade, a serem desapropriados tanto por
+índices construtivos quanto em pecúnia. Existem alternativas de traçado viário que reduzem reassentamentos. Nos Anexos da
+Carta Consulta) foi incluída imagem referente a área de abrangência dos investimentos propostos no Acesso Norte ao Porto Seco.
+
+P - Requalificação da Voluntários da Pátria - Trecho 2
+A Rua Voluntários da Pátria conecta a Região do Centro Histórico à zona Norte da Cidade.
+Ao longo de sua extensão passa pelos bairros: Centro Histórico, Floresta, São Geraldo, Navegantes, Farrapos e Humaitá, com
+grande diversidade de usos, que vai desde o comércio popular junto à região central, empresas, até moradia popular em seu
+trecho mais ao norte, nas proximidades do Estádio Arena do Grêmio. Por estar posicionada paralelamente à estrada Marechal
+Osório (BR-290), acaba sendo um importante eixo de conexão entre Porto Alegre e sua Região Metropolitana. Recebe intenso
+tráfego, seja de veículos de passeio como de carga, servindo de alternativa de trânsito entre a região próxima a Rodoviária, o
+Centro da cidade, e a Zona Norte, o Aeroporto Internacional Salgado Filho e as saídas para as rodovias BR 116 e BR 290.
+Possui 7,5 km de extensão total, com um trecho já duplicado de aproximadamente 500 metros, entre a Rua da Conceição (junto à
+rodoviária de Porto Alegre) e a Rua Ernesto Alves e, também, já está duplicada após a Avenida Sertório, se estendendo até a
+Avenida Padre Leopoldo Brentano. No que se refere ao transporte público, atualmente a operação do sistema na região é radial e
+possui operação convencional. Neste sistema, as linhas de ônibus realizam a ligação entre os bairros da região Norte e a área
+central da cidade, sem realizar integração em terminais. São cinco linhas em operação na Rua Voluntários da Pátria, com um
+carregamento diário de aproximadamente 10 mil passageiros (dados pré-pandemia).
+O objeto da proposta é a requalificação do trecho de aproximadamente 3,0 km, localizado entre a duplicação já executada e a
+Avenida Sertório. Após a duplicação, a Rua Voluntários da Pátria terá duas pistas de circulação, com faixa preferencial para a
+circulação de ônibus, aproximadamente 3,0 km de ciclovia , canteiro central e passeios laterais com atendimento a todas as
+questões de acessibilidade universal.
+Tal intervenção atenderá a necessidade de ampliação das vias estruturantes do Município de acordo com o definido no Plano
+Diretor de Desenvolvimento Urbano Ambiental (PDDUA, 1999) de Porto Alegre, além de garantir uma boa ambiência urbana. A
+população alvo deste projeto está estimada em torno 300.000 beneficiários indiretos, e 75.000 beneficiários diretos.
+A duplicação, no que se refere a sua funcionalidade, contemplará a:
+- Priorização do transporte público a partir da implantação de faixa preferencial, reduzindo os tempos de viagem;
+- Qualificação da via como importante eixo de logística urbana;
+- Execução da ciclovia que fará a interligação dos dois trechos implantados, complementando o eixo de ciclovia definido no Plano
+Diretor Cicloviário Integrado (PDCI, 2009);
+- Execução de passeios públicos adequados, garantindo a microacessibilidade ao longo da via atendendo a questões de
+acessibilidade universal;
+- Soluções de projeto para aumentar os níveis de segurança viária, visando à redução de acidentes;
+- Qualificação da via como alternativa à Av. Castelo Branco e à Av. Farrapos em casos de bloqueios, acidentes, etc.
+- Qualificação e estruturação do espaço público do entorno da avenida, promovendo a revitalização da região do 4º Distrito;
+A proposta é que as intervenções viárias incorporem elementos que atendam às questões de sustentabilidade ambiental e
+resiliência, com soluções que contribuam para a mitigação dos efeitos das mudanças climáticas e a qualificação da ambiência
+urbana, tais como, ampliar a cobertura vegetal, através da criação de corredores verdes, ampliar a reservação de água através da
+implantação de jardins de chuva e do aumento da permeabilidade dos materiais, controle dos níveis de ruído, redução de ilhas de
+calor, etc., em consonância com as diretrizes do Programa Centro+4D, programa a ser financiado pelo Banco Mundial e Agência
+Francesa de Desenvolvimento.
+
+P - Desapropriações e Assentamentos
+DESAPROPRIAÇÕES: Desenvolvimento do Plano de Desapropriações envolvendo: (1) Pesquisa cartorial/identificação/
+atualização dos imóveis atingidos pelas obras (custo de equipe de apoio e despesas cartoriais); (2) Elaboração/atualização dos
+laudos de avaliações (custo de equipe de apoio operacional caso designada a equipe interna da SMF ou contratação externa dos
+laudos); (3) Negociação administrativa e ações judiciais (custo para equipe de apoio operacional); e (4) Pagamento das
+indenizações administrativas e judiciais, das custas judiciais e despesas cartoriais dos registros e emissão de novas matrículas.
+REASSENTAMENTOS: Desenvolvimento do Plano de Reassentamento considerando as estratégias e instrumentos como a
+disponibilidade de unidades habitacionais, aluguel social (temporário até o reassentamento definitivo) e bônus moradia como
+opções de escolha das famílias: (1) levantamento e cadastro das famílias atingidas pelas obras; (2) Tratativas com as famílias para
+adesão ao Plano de Reassentamento (apoio operacional); (3)Implementação das estratégias/instrumentos: (3.a) Produção/
+disponibilização das unidades habitacionais (custo operacional e custo de terreno e obras); (3.b) Disponibilização do aluguel social
+(apoio operacional e custo do pagamento dos alugueis); e Disponibilização do Bônus Moradia (custo de apoio operacional e
+pagamento do Bônus).
+
+P - Habitação de Interesse Social
+Os bairros Humaitá e Sarandi, na zona norte da cidade, foram severamente afetados pela inundação ocorrida em maio de 2024.
+Essas regiões são intensamente adensadas e convivem com áreas residenciais e comerciais, sendo que todas tiveram que ser
+evacuadas.
+
+
+Página: 10
+
+Existem núcleos habitacionais irregulares com histórico de condições precárias de habitabilidade  que foram devastados, deixando
+uma população desalojada e desabrigada, em sua maioria, pessoas e famílias em situação de vulnerabilidade.
+O Programa prevê investimentos em soluções de habitação para a população vulnerável atingida, a partir da execução de núcleos
+habitacionais ou da aquisição de unidades já construídas. As áreas inundadas deverão ser previamente analisadas com relação à
+viabilidade de ocupação e sua densidade, e receber as intervenções indicadas pelos estudos técnicos especializados. No caso de
+construção de unidades novas, as soluções de projeto devem incorporar conceitos de sustentabilidade e resiliência, inclusive em
+seus equipamentos de lazer e uso comunitário. Deverão ser adotadas propostas que levem em consideração a ocorrência de
+eventos extremos e contribuam para a mitigação dos efeitos às mudanças climáticas.
+Serão beneficiadas preferencialmente as comunidades dos bairros Sarandi e Humaitá desalojadas e desabrigadas devido à
+inundação de 2024.
+
+P - Recuperação de Vias
+A necessária reconstrução de vias, de cerca de 600Km, seja pelas intervenções na rede de macrodrenagem, seja para recuperar
+vias danificadas pelo evento climático ocorrido, abre a oportunidade de incorporar o conceito de desenvolvimento verde, resiliente
+e inclusivo (GRID), isto é, as soluções de projeto para as vias a serem recuperadas devem incorporar elementos que atendam às
+questões de sustentabilidade ambiental e resiliência. Está prevista implantação de ciclovias, passeios com acessibilidade universal,
+drenagem, iluminação pública, arborização e sinalização viárias. As soluções técnicas a serem adotadas deverão levar em
+consideração a ocorrência de eventos extremos e contribuir para a mitigação dos efeitos das mudanças climáticas e a qualificação
+da ambiência urbana, tais como, ampliar a cobertura vegetal, através da criação de corredores verdes, ampliar a reservação de
+água através da implantação de jardins de chuva e do aumento da permeabilidade dos materiais, controle dos níveis de ruído,
+redução de ilhas de calor, etc.
+
+S - GESTÃO E INOVAÇÃO
+Investimentos em prevenção, monitoramento e gestão de riscos e desastres para o enfrentamento de crises climáticas no
+município de Porto Alegre.
+
+P - Plano de Contingência e Emergência
+O Programa prevê a contratação de estudos especializados para revisar e complementar os planos existentes (Plano de
+Contingências e Plano de Ações Emergenciais)
+A revisão dos planos pretende entender a dimensão da situação do evento adverso que colapsou as entradas e saídas de Porto
+Alegre, atingindo infraestruturas básicas como Aeroporto, Rodoviária, CEASA .
+
+P - Sistema de Monitoramento de Cheias
+Desenvolvimento de sistema para monitorar os níveis das águas da Bacia Hidrográfica do Guaíba, emitindo alertas de enchentes a
+diversos atores do sistema de defesa civil e população em geral. O Sistema também deve prever a criação de um banco de dados
+para pesquisas e estudos, que serão utilizados como base para o planejamento do enfrentamento de crises climáticas.
+
+P - Plano de Segurança Hídrica
+o Programa propõe o desenvolvimento de um Plano de Segurança Hídrica, com o objetivo de avaliar as vulnerabilidades do
+sistema de abastecimento de água do Município, bem como propor ações para garantir o abastecimento e a qualidade da água
+para a população, mesmo em situações de crise e eventos climáticos extremos.
+As inundações de maio de 2024, além de desabrigar milhares de pessoas e comprometer a economia da cidade, provocou uma
+crise no abastecimento de água em todo o Município, demonstrando fragilidades no sistema tanto em áreas afetadas como
+também em regiões não afetadas pela inundação.
+
+P - Implantação do Observatório e Laboratório de Mobilidade e Logística Urbana
+Ampliação do Observatório de Mobilidade e Logística Urbana
+O Observatório da Mobilidade é dedicado a questões específicas de distribuição de mercadorias e transporte de cargas e logística.
+Este projeto tem como objetivo ser um ponto de referência para bancos de dados, monitoramento de impacto e análise da
+realidade territorial, o que implica ter informações completas e uso intensivo de tecnologias de informação e comunicação, tanto
+para a coleta de informações quanto para seu processamento e divulgação. Este observatório visa fortalecer a capacidade
+institucional do território e promover estudos comparativos e integrativos entre diversos municípios e centros urbanos da região.
+A identificação dos indicadores permite avaliar quantitativamente o impacto das medidas implementadas, por exemplo, do Plano de
+Logística Integral, este observatório permitirá que as Autoridades utilizem os resultados da seguinte forma:
+- Aumentar o conhecimento dos efeitos e a viabilidade das medidas propostas;
+- Pavimentando o caminho para a introdução de medidas adequadas para cada situação;
+- Aumentar a conscientização da população sobre os problemas causados pelo transporte urbano de cargas e a necessidade de
+cooperação entre os diversos atores.
+Além disso, possibilitará identificar as medidas mais adequadas para reduzir os impactos negativos do transporte urbano de cargas
+, fornecendo as orientações necessárias às autoridades para selecionar as medidas mais adequadas.
+
+O objetivo do Laboratório de Mobilidade e Logística Urbana é oferecer soluções logísticas e de eficiência urbana e energética a
+partir de uma perspectiva multidisciplinar e colaborativa, a partir de pesquisas aplicadas com ensino nas áreas de mobilidade,
+transporte, engenharia, segurança viária, projeto urbano, design industrial e gestão ambiental (Arquivo 5).
+Do ponto de vista da distribuição de mercadorias, existem diferentes medidas que podem ajudar a minimizar ruídos e vibrações em
+circulação e operações e poderiam ser analisadas neste laboratório:
+- Elaboração de Portarias Municipais que regulamentam o peso máximo autorizado dos veículos de distribuição urbana,
+cronogramas de distribuição e operações de carga e descarga (Tanto os horários de trânsito quanto de descarga devem ser
+aqueles em que há menos tráfego nas cidades).
+
+
+Página: 11
+
+- O uso de infraestruturas veiculares reduzindo viagens vazias e aumentando o uso da capacidade de carga dos veículos usados,
+uma vez que veículos vazios ou apenas parcialmente carregados contribuem para ruídos, poluição etc.;
+- Veículos que devem ser distribuídos: em bom estado de funcionamento o motor, a carroceria e outros elementos suscetíveis à
+produção de ruídos ou vibrações;
+- Os veículos devem estar sempre disponíveis para as autoridades de inspeção para que possam inspecionar os níveis de ruído
+que produzem;
+- Organização da distribuição urbana de mercadorias utilizando veículos elétricos silenciosos e limpos (híbridos) que beneficiam o
+meio ambiente;
+- Utilização de combustíveis alternativos como GNV (gás natural comprimido), gás natural liquefeito (GNL) e gases liquefeitos de
+petróleo (GLP), combustíveis com baixo teor de enxofre;
+- Pesquisa sobre novos combustíveis, como biocombustíveis, ou outras fontes de energia;
+- Análise de novas tecnologias, transformação digital;
+- Treinamento adequado em logística verde
+
+P - Gestão de Plano de Logística Urbana
+A Gestão de Logística visa inovar no planejamento de desenvolvimento urbano e será responsável pela elaboração do Plano de
+Logística Urbana que considera a logística como parte essencial do desenvolvimento de Porto Alegre, integrado e alinhado com
+outros planos setoriais, criando uma unidade logística que terá como atribuição fiscalizar, regular e gerenciar a logística urbana da
+cidade, coordenar as atividades e recursos, implantar o Laboratório e fortalecer o Observatório de Mobilidade.
+Além disso, possibilitará identificar as medidas mais adequadas para reduzir os impactos negativos do transporte urbano,
+fornecendo as orientações necessárias às autoridades para selecionar as ações pertinentes.
+
+C - INFRAESTRUTURA SOCIAL E QUALIFICAÇÃO PARA TRABALHO E RENDA
+O programa prevê a recuperação dos equipamentos públicos atingidos pelas enchentes de maio de 2024, e também a capacitação
+e qualifcação da população vulnerável com vistas à inserção no mercado produtivo.
+
+P - Capacitação e Qualificação para a População Vulnerável
+A proposta é que o processo de capacitação seja participativo, contando com o apoio das lideranças das comunidades em diversos
+segmentos (mulheres, jovens, idosos, educadores, empresários, entidades comerciais e sindicatos), a fim de que o projeto seja
+uma expressão dos anseios da comunidade, atendendo as demandas locais e se transformando em um motor de transformação
+social. Estima-se a capacitação de cerca de 10 mil pessoas, em especial as atingidas pelas inundações.
+As ações de educação e qualificação de mão de obra previstas no programa são focadas na capacitação da população vulnerável,
+nas mulheres, nas minorias e nos jovens de baixa renda, que poderão se incluir nas novas atividades do setor privado que,
+aproveitando as oportunidades ofertadas pelo poder público, se instalem na área do programa.
+Nesse intuito, o objetivo é de incluir a população menos favorecida moradora do entorno das obras, disponibilizando cursos
+profissionalizantes relacionados às obras de infraestrutura, com foco nas mulheres e jovens, que poderão se incluir nas novas
+atividades do setor privado e aproveitar as oportunidades ofertadas pelo poder público.
+
+P - Recuperação dos Equpamentos Públicos
+A proposta é que as intervenções locais nos equipamentos públicos disponibilizados para a comunidade s atingidas pelas
+inundações de maio de 2024,sejam realizadas em espaços e prédios públicos onde são prestados os serviços à população.
+Investimentos em obras e reformas em equipamentos públicos, tais como: CRAS, CREAS, Conselho Tutelar, Unidades de
+Reciclagem, quadras poliesportivas e praças, incorporando elementos que atendam às questões de sustentabilidade ambiental e
+resiliência, com soluções que contribuam para a mitigação dos efeitos das mudanças climáticas e a qualificação da ambiência
+urbana, realizando investimentos que visem ampliar a cobertura vegetal, através da criação de corredores verdes, ampliar a
+reserva de água através da implantação de jardins de chuva e do aumento da permeabilidade dos materiais, utilizar energia limpa
+com a aquisição de placas fotovoltáicas para abastecer os equipamentos, dentre outras soluções a ser estudadas e implantadas.
+
+C - UNIDADE GESTORA DO PROGRAMA
+Investimentos destinados ao gerenciamento do Programa.
+
+P - Apoio ao Gerenciamento
+Para tornar clara a situação concretizada neste Programa, em que haverá o repasse de recursos oriundos de financiamento
+internacional a Prefeitura para suas autarquias, descrevemos a seguir o fluxo financeiro de contratos externos, que ocorrem
+noMunicípio da seguinte forma:
+(i) Os recursos são transferidos para uma conta designada Conta Principal, aberta especificamente para o Programa, para receber
+desembolsos do empréstimo, sendo administrada pelo Tesouro. Esta conta é aberta em um banco comercial aceitável para o
+banco financiador do empréstimo, na moeda do contrato.
+(ii) Uma conta segregada operacional será aberta, em reais, para realizar a internalização dos recursos da conta designada
+Principal.
+(iii) A SMPAE será responsável por autorizar o Tesouro a realizar os pagamentos uma vez que as obrigações estejam realizadas e
+devidamente documentadas. Os processos de pagamento serão registrados no SIGEF - Sistema Integrado de Planejamento e
+Gestão Fiscal e deverão ser reconciliados ao final de cada mês. O SIGEF exige que os fundos sejam comprometidos pela fonte de
+financiamento,permitindo o acompanhamento dos recursos do empréstimo até as despesas do projeto.
+(iv) A maior parte dos pagamentos em reais será feita a partir da conta operacional- Principal para as contas dos beneficiários,
+aplicando-se as percentagens de co-financiamento elegíveis a cada despesa. A única exceção são aqueles relacionados aos
+contratos celebrados pelo DMAE e pelo DEMHAB, por se tratarem de Autarquias Municipais. Através da celebração um Convênio,
+as partes comprometem-se à conjunção de esforços e a atuação harmônica das partes para execução das atividades com
+recursos oriundos do contrato de empréstimo.
+
+
+Página: 12
+
+(v) Pagamentos efetuados na conta desses Departamentos: Após a validação dos documentos de pagamento pela SMPAE e SMF,
+os recursos necessários para o pagamento de cada fatura devida são liberados e depositados na respectiva conta segregada que
+o DMAE e o DEMHAB abrirão para o projeto. Após o recebimento dos recursos, os Departamentos processam o pagamento à
+empresa que executou o serviço/obra contratado. A conta do projeto nos Departamentos não reterão os fundos do projeto por mais
+de 24 horas.
+(vi) O Demonstrativo de Despesas - SOEs será elaborado pela SMPAE, com informações disponíveis no SDO/CTB. Os registos
+contabilísticos, Conciliação do DA e respetivos extratos bancários os apoiarão.
+Nos dispositivos de macro e microdrenagem estão assegurados desde a Lei Municipal nº 12.504/2019, vigência desde 01/05/19,
+complementada pela nº 12.939/2021 que atribuíram à Autarquia DMAE (criada pela Lei Municipal nº 2312/1961) toda a gestão da
+infraestrutura de águas pluviais, que anteriormente dependia das disponibilidades de recursos exclusivamente por parte da
+Prefeitura.Conforme a publicação Dados Gerais DMAE 2022/2023, p. 9, desde 01/05/19 a aplicação de recursos em sistemas
+pluviais tem sido crescente.
+Com essa alteração, a Autarquia DMAE, que detém receitas próprias, tem garantido aplicação de recursos em manejos de águas
+pluviais independentemente de recursos disponíveis na Prefeitura.
+O produto compreende aplicação de recursos em consultoria, aquisição de bens, elaboração de projetos.
+
+P - Supervisão de Obras
+Contratação de serviços de apoio técnico à fiscalização e supervisão das obras
+
+P - Auditoria e Avaliação do Programa
+Contratação de consultorias para auditorias externas dos projetos. Aqui existe a possibilidade de utilização dos serviços do
+Tribunal deContas do Estado do RS (TCE-RS) a partir de acordos com o Organismo Financiador e contratação de consultoria para
+avaliação finaldo Programa (avaliação ex-post).
+
+P - Comunicação Social e Mobilização
+Contratação para divulgação e elaboração de materiais informativos para à população sobre os investimentos e impactos
+socioambientais, econômicos e sociais.
+
+Categoria de Gasto
+
+Obras
+P- Obras de Saneamento - Drenagem - Proteção
+Contra as Cheias
+P- Obras nas vias de acesso ao Porto Seco
+P- Requalificação da Voluntários da Pátria -
+Trecho 2
+P- Habitação de Interesse Social
+P- Recuperação de Vias
+P- Recuperação dos Equpamentos Públicos
+Bens
+P- Sistema de Monitoramento de Cheias
+Consultoria
+P- ESTUDOS E PROJETOS
+P- Plano de Contingência e Emergência
+P- Plano de Segurança Hídrica
+P- Implantação do Observatório e Laboratório de
+Mobilidade e Logística Urbana
+P- Apoio ao Gerenciamento
+P- Supervisão de Obras
+P- Comunicação Social e Mobilização
+Serviços que Não de Consultoria
+P- Desapropriações e Assentamentos
+P- Gestão de Plano de Logística Urbana
+P- Auditoria e Avaliação do Programa
+Capacitação e Treinamento
+P- Capacitação e Qualificação para a População
+Vulnerável
+Total Geral
+
+Unidade de medida
+-
+percentual
+
+percentual
+percentual
+
+percentual
+percential
+percentual
+-
+unidade
+-
+UNIDADE
+unidade
+unidade
+unidade
+
+percentual
+percentual
+unidade
+-
+percentual
+percentual
+unidade
+-
+percentual
+
+Meta
+
+Valor
+
+% Financeiro
+
+-
+100,00
+
+100,00
+100,00
+
+100,00
+100,00
+100,00
+-
+1,00
+-
+20,00
+2,00
+1,00
+2,00
+
+100,00
+100,00
+1,00
+-
+100,00
+100,00
+1,00
+-
+100,00
+
+169.000.000,00
+100.000.000,00
+
+38.000.000,00
+16.000.000,00
+
+9.000.000,00
+5.000.000,00
+1.000.000,00
+300.000,00
+300.000,00
+8.100.000,00
+3.000.000,00
+1.000.000,00
+800.000,00
+600.000,00
+
+600.000,00
+2.000.000,00
+100.000,00
+20.600.000,00
+20.000.000,00
+300.000,00
+300.000,00
+2.000.000,00
+2.000.000,00
+
+84,50
+50,00
+
+19,00
+8,00
+
+4,50
+2,50
+0,50
+0,15
+0,15
+4,05
+1,50
+0,50
+0,40
+0,30
+
+0,30
+1,00
+0,05
+10,30
+10,00
+0,15
+0,15
+1,00
+1,00
+
+-
+
+-
+
+200.000.000,00
+
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Dentre as etapas realizadas que contribuem para os objetivos do Programa no Município de Porto Alegre, citamos: AT (3.1)
+
+COMPONENTE 1  INFRAESTRUTURA
+
+SUBCOMPONENTE ? Intervenções Estruturantes
+
+(cid:10)
+
+
+Página: 13
+
+1.Pesquisa EDOM: Em andamento, a Pesquisa Origem e Destino por entrevistas Domiciliares no Município de Porto Alegre, incluindo a
+tabulação, expansão, aferição e calibração das matrizes de viagens dos dados coletados nas entrevistas, utilizando recursos de software
+adequados, e também a realização das pesquisas complementares necessárias para aferição e para compreensão do padrão de
+deslocamentos na cidade. Plano de Mobilidade Urbana (LC 951/22), Plano de Segurança Viária Sustentável (Decreto 21652/22).
+
+2. Obras nas vias do Acesso Norte Porto Seco - Termo de Referência (Tdr) para contratação do projeto de engenharia da via (em
+elaboração).
+
+3. Infraestrutura na região do Aeroporto Internacional Salgado Filho - Obra da Av. Severo Dullius concluídas, com o objetivo de melhorar o
+trânsito na região do Aeroporto e zona norte da cidade, conexão da entrada da cidade com a Av. Sertório e criação de anel viário no
+entorno do Aeroporto.
+
+4. PPP da Iluminação Pública contratado e em execução.
+
+5. PPP Saneamento em estruturação
+
+6. PPP Serviços em estudos
+
+SUBCOMPONENTE Resiliência e Inovação
+
+1. Plano de Diretor de Desenvolvimento Urbano Ambiental (PDDUA) em andamento, com a implementação da Agenda 2030 e na Nova
+Agenda Urbana através do Projeto de Cooperação Técnica Internacional com o PNUD
+
+2. Inventário de Emissões de Gases de Efeito Estufa de Porto Alegre - entregue em agosto/2021
+
+3. Plano de Ação Climática (em elaboração)
+
+4. Estudos de soluções GRID - Promoção do desenvolvimento econômico associado a metas ambientais e inclusão ? Assistência Técnica
+BIRD, em andamento
+
+5. Roteiro de Logística de Porto Alegre elaborado
+
+6. Sistema de Gerência de Pavimentos (GERPAV) - Contratação em andamento para atualização do SISTEMA GERPAV - Sistema de
+Gerência de Pavimentos, que irá atender às necessidades do Município no sentido de orientar os investimentos em conservação e
+manutenção dos pavimentos das vias públicas da cidade como um todo, visando a otimização da aplicação dos recursos disponíveis, além
+de cadastrar e manter atualizadas as informações referentes às características das vias urbanas (cadastro viário) do Município de Porto
+Alegre. O objetivo do Sistema é determinar onde, quanto e qual o montante de recursos necessários necessários para manter a malha
+viária em um padrão de qualidade e trafegabilidade. Com recursos orçamentários estimados em R$ 10 milhões, oriundos do contrato de
+financiamento nº 40/00084-2, firmado entre o Município e o Banco do Brasil, estão em andamento as seguintes contratações para
+atualizações deste sistema:
+
+a)Contratação de empresa de tecnologia de informação para implementar aprimoramentos e atualização do software GERPAV do
+Município;
+
+b)Atualização e complementação do Cadastro Viário, com as alterações (alargamentos e ampliações) e acréscimos (novos logradouros e
+loteamentos) ocorridas desde 2007, de modo a ter 100% da malha viária cadastrada e integrada aos Sistemas utilizados pelo Município (
+CVU, OSPOA, CDL, GEO, entre outros);
+
+c)Contratação de todos os diagnósticos e levantamentos necessários para a operação do Sistema GERPAV, incluindo o diagnóstico das
+condições dos pavimentos da malha viária de Porto Alegre e elaboração do Plano de Manutenção e Reabilitação.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Municipal
+MUNICIPIO DE  PORTO ALEGRE(RS)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+(i) condições financeiras:
+
+Analisando o cenário atual, o município de Porto Alegre identificou o NDB como a melhor alternativa de instituição financeira. Além dos
+objetivos do Programa estarem alinhados com as diretrizes dos Projetos apoiados pelo NDB, o financiamento externo mostrou-se como a
+opção mais competitiva para a implementação do projeto devido aos custos do financiamento junto a Bancos Multilaterais de
+Desenvolvimento (BMDs) serem menores do que os atualmente praticados no mercado nacional.
+
+Observa-se que o município de Porto Alegre possui experiência prévia com financiamentos internacionais.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 14
+
+As condições financeiras indicam que a operação terá um custo efetivo inferior à taxa máxima admissível pela STN para operações de
+crédito de Estados e Municípios com garantia da União, 6,41% (válida a partir de 28/06/2022).
+
+As condições financeiras oferecidas pelo NDB são atrativas, principalmente quando comparadas às taxas de juros do mercado interno e
+aos  praticados atualmente por outros BMDs. Embora o processo de contratação com o mercado interno seja mais célere, as taxas de
+juros são superiores e os prazos de carência e amortização menores, conforme comparativo abaixo.
+
+Condições Financeiras do Banco escolhido - NDB:
+
+a) Prazo de desembolso: 60 meses
+
+b) Prazo de carência: 60 meses
+
+c) Prazo de amortização: 180 meses
+
+d) Prazo total: 240 meses
+
+e) Periodicidade da amortização: semestral
+
+f) Taxa de juros: 1,19847% a.a. + taxa SOFR (semestral)
+
+g) Demais encargos e comissões: 0,25% do saldo não desembolsado.
+
+h) Tipo de Operação: Empréstimo para Projeto/ Project Loan
+
+i) Taxa de juros: taxa SOFR (semestral) + spread de 1,1984736928% a.a. + taxa SOFR (semestral), spread variável e informado a cada
+semestre.
+
+j) Demais encargos e comissões: front-end fee de 0,25%; e taxa de compromisso de 0,25% do saldo não desembolsado em relação a
+cronograma acordado. De acordo com a política do NDB, caso o mutuário alcance níveis acordados de desembolso ao longo da
+implementação do projeto, a taxa de compromisso não será aplicada ao saldo não desembolsado.
+
+No caso de POA, considerando-se projeto de 5 anos, poder-se-á tentativamente estabelecer os seguintes marcos de aplicação da política:
+
+- 12 (doze) meses após a assinatura do contrato de empréstimo, 10% (dez por cento) do valor do empréstimo, a taxa de compromisso
+será aplicada sobre a diferença entre 10% do valor do empréstimo e o saldo desembolsado se a diferença for maior que 0 (zero); caso
+contrário, a taxa de compromisso será nula.
+
+-
+
+- 24 (vinte e quatro) meses após a assinatura do contrato de empréstimo, 40% (quarenta por cento) do valor do empréstimo a taxa de
+compromisso será aplicada sobre a diferença entre 40% do valor do empréstimo e o saldo desembolsado se a diferença for maior que 0 (
+zero); caso contrário, a taxa de compromisso será nula;
+
+- 36 (trinta e seis) meses após a assinatura do contrato de empréstimo, sobre 70% (setenta por cento) do valor do empréstimo, a taxa de
+compromisso será aplicada sobre a diferença entre 70% do valor do empréstimo e o saldo desembolsado se a diferença for maior que 0 (
+zero); caso contrário, a taxa de compromisso será nula;
+
+- 48 (quarenta e oito) meses após a assinatura do contrato de empréstimo, sobre 90% (noventa por cento) do valor do empréstimo, a taxa
+de compromisso será aplicada sobre a diferença entre 90% do valor do empréstimo e o saldo desembolsado se a diferença for maior que
+0 (zero); caso contrário, a taxa de compromisso será nula; e
+
+- 60 (sessenta) meses e depois disso, a taxa de compromisso será aplicada sobre o valor total não desembolsado do contrato de
+empréstimo.
+
+COMPARATIVO COM AGENTES FINANCEIROS INTERNOS:
+
+BRB
+
+- Prazo total: 120 meses;
+
+- Prazo de carência: 12 meses;
+
+- Prazo de amortização: 108 meses;
+
+- Taxa concedida: 115% de CDI a.a.;
+
+(cid:10)
+
+
+Página: 15
+
+- Demais Encargos: Tarifa de 1% sobre o valor do financiamento + Tarifa de 0,5% a.a sobre o saldo não desembolsado;
+
+Caixa Econômica
+
+- Prazo total: 120 meses;
+
+- Prazo de carência: 24 meses;
+
+- Prazo de amortização: 96 meses;
+
+- Taxa concedida: 131,13% de CDI a.a;
+
+- Demais Encargos: Tarifa de Customização: 2%;
+
+COMPARATIVO COM AGENTES FINANCEIROS EXTERNOS:
+
+CAF
+
+- Prazo total: 216 meses;
+
+- Prazo de carência: 60 meses;
+
+- Prazo de amortização: 156 meses;
+
+- Taxa concedida: SOFR semestral + 2,00% a.a
+
+- Demais Encargos: Comissão de compromisso de 0,35% e Comissão de financiamento de 0,85%;
+
+Banco Mundial
+
+Prazo total: 216 meses;
+
+- Prazo de carência: 60 meses;
+
+- Prazo de amortização: 156 meses;
+
+- Taxa concedida: SOFR semestral + 1,37%
+
+- Demais Encargos: Comissão Inicial de 0,25% sobre valor do empréstimo, Comissão de compromisso de 0,25% sobre saldo não
+
+desembolsado; Sobretaxa de 0,5% pode ser aplicada caso o país ultrapasse o single borrower limit.
+
+Outra importante vantagem se relaciona aos custos transnacionais decorrentes da parceria com o NDB. O uso dos sistemas nacionais
+tanto para os aspectos socioambientais quanto para os procedimentos de licitações e gestão de contratos traz duas vantagens
+importantes: não impõe custos adicionais de preparação e implementação de projeto, evitando-se equipes e treinamentos adicionais e
+reduzindo os tempos requeridos para contratações; utiliza as regras nacionais, o que aumenta a capacidade de implementação não
+apenas no projeto específico, mas que se pode disseminar para outros projetos do mutuário; redução dos requerimentos de revisões
+prévias pelo financiador também impacta positivamente na execução do projeto; finalmente, essa política de sistemas nacionais resulta
+ainda em tempo significativamente menor de preparação e implementação do projeto, menos demanda de equipe técnica, consultorias e
+serviços adicionais.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+Dados de 10.05.2024 - Enchente em Porto Alegre.
+
+Número de Desabrigados: 13.204 pessoas que necessitaram de abrigo público.
+
+Número de Desalojados: 126.606 pessoas que necessitaram desocupar seus domicílios.
+
+Pessoas afetadas indiretamente pelo desastre: 1.196.239 pessoas com restrição de acessos, abastecimento de água e/ou energia.
+
+Obs.: Esse dados variaram para maior nos dias seguintes. (Fonte Defesa Civil)
+
+(i)Os beneficiários diretos das obra de drenagem e proteção contra inundações serão todos os cidadãos e usuários das regiões que
+receberão os investimentos, particularmente a população moradora nas regiões Norte e 4º Distrito que foram diretamente atingidas pela
+inundação de maio/24. Beneficiários diretos das obras de saneamento: 156.780.
+
+(cid:10)
+(cid:10)
+
+
+Página: 16
+
+(ii)Os investimentos em infraestrutura viária para transporte de cargas, bem como tecnologia e planejamento da logística urbana, incluindo
+estratégias para momentos de crise e acessos a equipamentos essenciais, otimizarão o desenvolvimento socioeconômico do Município,
+especialmente para os cidadãos das regiões diretamente  beneficiadas, haja vista a melhoria da mobilidade e da segurança de acesso.
+Beneficiários diretos da infraestrutura para transporte de cargas (Acesso Norte e R. Voluntários da Pátria): 182.948.
+
+(iii)Os investimentos na infraestrutura e monitoramento do abastecimento de água potável possui impacto crucial para toda a população de
+Porto Alegre, especialmente para os moradores das áreas que sofreram com o desabastecimento no evento de 2024, cerca de 135.815
+pessoas.
+
+(iv)O somatório dos beneficiários diretos dos investimentos chega a 475.543 pessoas, dada a amplitude dos eventos ocorridos e ainda em
+andamento.
+
+(v)Indiretamente, será beneficiada toda a população de Porto Alegre, cerca de 1,3 milhão  de habitantes que de alguma forma foi atingida
+pelos eventos extremos ocorridos.
+
+Obs.: dados com base na população dos bairros atingidos, conforme Censo 2022
+
+DESCRIÇÃO DAS ÁREAS ESTRATÉGICAS E IMPACTOS DO PROJETO
+
+AEI 1.1 - As intervenções na malha viária propostas no projeto vão além da priorização do transporte coletivo e incentivo à mobilidade
+ativa, cujo impacto ambientalmente positivo é amplamente conhecido. A proposta visa a incorporação de soluções de projeto que
+contribuam para a sustentabilidade ambiental, resiliência, mitigação dos efeitos das mudanças climáticas e a qualificação da ambiência
+urbana, seja a partir do desenho viário, da ampliação da arborização viária ou da utilização de materiais e tecnologias diferenciados. Para
+além da qualificação viária ambientalmente adequada, Programa também tem como um de seus produtos a implantação de estações para
+medição das emissões de poluentes, garantindo uma importante ferramenta de monitoramento ambiental para a cidade
+
+AEI 1.2 - O Programa prevê, nas vias com intervenções, investimentos na iluminação pública com foco na eficiência energética (
+substituição pela tecnologia LED).
+
+AEI 1.3 - O Programa prevê intervenções nas estações de bombeamento a partir da ampliação das capacidades de bombeamento, a
+modernização de equipamentos e instalações com autossuficiência energética, para permitir escoamentos satisfatórios das precipitações,
+associando a implantação de novos condutos, como também a ampliação de condutos existentes. Da mesma forma, o Programa prevê a
+análise das fragilidades das comportas e diques do sistema, identificando e implementando as ações necessárias para garantir a eficiência
+dos sistema como um todo. O conjunto das ações visa aumentar a capacidade de adaptação e a resiliência da cidade em relação aos
+eventos extremos advindos das mudanças climáticas.
+
+AEI 1.4 - Gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes: No Produto Obras de
+Saneamento, Drenagem, Sistema de Proteção contra Inundações, a segurança hídrica é atendida por meio de um conjunto das ações
+que visa aumentar a capacidade de adaptação e a resiliência da cidade em relação aos eventos extremos advindos das mudanças
+climáticas. No Produto Plano de Segurança Hídrica, está previsto o planejamento de ações para garantir o abastecimento e a qualidade da
+água para a população, mesmo em situações de crise e eventos climáticos extremos.
+
+AEI 1.6 - Melhoria do ambiente de negócios e/ou oportunidades; e AEI 1.7 - Benefícios para empreendedores individuais, micro e
+pequenas empresas: O Programa tem como objetivo melhorar a logística urbana com desenvolvimento social e econômico,
+potencializando o desenvolvimento do ambiente de negócios e oportunidades a partir de uma série de investimentos em infraestrutura e
+implantação de laboratório e observatório de mobilidade e logística.
+
+AEI 1.8 - Geração de emprego e renda para populações de baixa renda e vulneráveis: O componente Desenvolvimento de Competências,
+Requalificação e Geração de Trabalho e Renda prevê a implantação de agenda de cursos e capacitações, orientadas para o fomento da
+economia criativa e para o mercado de trabalho, de acordo com as demandas do setor produtivo instalado na região, além de capacitação
+e qualificação para pessoas em situação de vulnerabilidade social. Ademais, no Capacitação e Qualificação para a População Vulnerável
+estão previstas as ações de educação e qualificação de mão de obra focadas na capacitação da população vulnerável, nas mulheres, nas
+minorias e nos jovens de baixa renda, que poderão se incluir nas novas atividades do setor privado que, aproveitando as oportunidades
+ofertadas pelo poder público, se instalem na área do programa.
+
+AEI 1.9 - Infraestrutura e/ou equipamentos sociais para populações de baixa renda e vulneráveis: O Programa prevê a qualificação por
+meio de obras, reformas e ampliações de Equipamentos sociais e públicos com vistas ao atendimento da população local, caracterizada
+pela baixa renda e vulnerabilidade social.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 17
+
+AEI 1.10 - Ações de inclusão de minorias sociais entre os beneficiários: Produto Capacitação e Qualificação para a população vulnerável,
+onde estão previstas as ações de educação e qualificação de mão de obra focadas na capacitação da população vulnerável, nas mulheres
+, nas minorias e nos jovens de baixa renda, que poderão se incluir nas novas atividades do setor privado que, aproveitando as
+oportunidades ofertadas pelo poder público, se instalem na área do programa.
+
+AEI 1.11 - Políticas voltadas para juventude, gênero e raça: A análise das necessidades da população, com a implementação do
+Complexo definirá a estratégia e as políticas voltadas para a criança e jovens, mas também que visem o fortalecimento da identidade de
+gênero, de raça e de ações de inclusão da população de baixa renda e em situação de vulnerabilidade.
+
+AEI 1.12 - Melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão, de participação cidadã: A elaboração do
+Plano de Contingência e do Plano de Segurança Hídrica visam  melhor preparar a cidade e seus cidadãos para o enfrentamento eventos
+extremos.
+
+O Observatório e o Laboratório de Mobilidade e Logística Urbana representam uma ação que impacta positivamente o tema econômico,
+por intermédio de uma inovação em processos de prestação de serviços públicos, e envolve atividades voltadas à inovação de gestão e à
+digitalização. Ademais, as estratégias e as políticas voltadas para a criança e jovens, e que visem o fortalecimento da identidade de
+gênero, de raça e de ações de inclusão da população de baixa renda e em situação de
+
+vulnerabilidade, serão determinadas por meio da participação cidadã.
+
+AEI 1.14 - Desenvolvimento, inovação e modernização tecnológica: Investimentos na qualificação do Sistema de Proteção contra
+Inundações e Macrodrenagem, contemplando, além das intervenções físicas, a modernização de seus equipamentos. Além disso está
+prevista a implantação de um sistema de monitoramento de cheias e equipamentos para medição de emissão de poluentes, de modo a
+adequar a cidade aos conceitos de desenvolvimento verde e resiliente.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+New Development Bank - NDB
+Total:
+
+Sigla
+
+CF
+Sigla
+
+NDB
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+40.000.000,00
+Valor Proposto
+
+160.000.000,00
+200.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+40.000.000,00
+Valor de Referência US
+$
+160.000.000,00
+200.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+4.1EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+(i)Preparação do Programa:
+
+Consoante as atribuições da SMPAE, o arranjo de preparação contará com uma Unidade de Preparação do Programa (UPP) formada por
+servidores públicos que executarão as principais atividades para a implementação do projeto, considerando-se a (i) coordenação geral da
+DCRPF/SMPAE, (ii) a participação de todas as secretarias envolvidas. A UPP contará, ainda com a alocação de consultorias
+especializadas e com expertises nos temas de que tratam os subcomponentes. Esta UPP contará, ainda, com o apoio de técnicos e
+consultores do NDB, responsáveis pela Preparação do Programa junto ao Banco, nos temas de que tratam os subcomponentes. A
+SMPAE está apresentada nos ANEXOS.
+
+(ii)Execução do Programa:
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 18
+
+O arranjo de execução proposto contará com uma Unidade Gestora do Programa, situada na Diretoria da Captação de Recursos e
+Programa de Financiamento (DCRPF-SMPAE), com atribuição de gerenciamento do contrato de financiamento. Esta Unidade Gestora
+Central será formada por servidores públicos que executarão as principais atividades de gerenciamento do Programa considerando-se: (i)
+coordenação geral; (ii) coordenação técnico-administrativa. (iii) coordenação de licitações; (iv) coordenação fiduciária/financeira. A UGP
+contará, ainda, com a alocação de consultorias especializadas de gerenciamento do projeto e com expertise nas diferentes fases/etapas
+de gerenciamento do programa, com atenção especial para aquisições/ licitações internacionais, gerenciamento fiduciário e auditorias,
+monitoramento, avaliações ex-ante e ex-post, licenciamento, e demais temas afetos aos subprogramas.
+
+A execução do programa contará com atividades dos diversos órgãos municipais, estruturada por eixo de gestão, conforme segue:
+
+- Eixo Gestão dos Serviços Públicos - conta com o envolvimento do Departamento de Água e Esgotos (DMAE), Secretaria de Obras e
+Infraestrutura (SMOI), Secretaria de Meio Ambiente e Urbanismo (SMAMUS); Secretaria de Mobilidade Urbana (SMMU), que estarão
+vinculadas com as obras dos subcomponentes (S): - Intervenções de macrodrenagem; Intervenções de microdrenagem; Fortalecimento
+institucional para riscos; e Infraestrutura urbana. O DMAE, a SMOI, a SMAMUS e a SMMU estão apresentadas no Novo ANEXO 6  e suas
+estruturas demonstradas no Novo Anexo 31.4 até 31.15.- Eixo de Desenvolvimento Social - conta com o envolvimento da Secretaria de
+Habitação e Regularização Fundiária (SMHARF) e o Departamento de Habitação (DEMHAB), responsável pelo subcomponente (S) de
+Reassentamento. A SMHARF e o DEMHAB estão apresentados no ANEXO 6 e sua estrutura demonstrada nos Novo Anexo 31.16 a 31.19
+.
+
+- Eixo de Gestão Eficiência da Máquina Pública - conta com as Secretaria da Fazenda (SMF), Secretaria da Administração e Patrimônio (
+SMAP) e Procuradoria Geral do Município (PGM), que terão responsabilidades sobre os processos licitatórios e fiduciários do Programa.
+
+O DMAE dentro de sua atual estrutura operacional e de funcionários, providenciará todos os projetos de engenharia, licenças ambientais e
+alvarás necessários para as licitações das obras. Também serão de sua responsabilidade, com o suporte da contratação de uma
+empresa de consultoria para a supervisão das obras, o acompanhamento, fiscalização e pagamentos das faturas mensais das obras. O
+DMAE reportará mensalmente à UGP o andamento das obras, bem como quaisquer dificuldades encontradas para a consecução das
+mesmas.
+
+Por sua vez o DEMHAB estruturará uma Unidade de Gerenciamento Local (UGL) dentro da sua composição atual com a mobilização de
+profissionais com o objetivo de executar e acompanhar todas as atividades relacionadas ao reassentamento do Programa. Também
+competirá ao DEMHAB, por meio dessa UGL, reportar mensalmente a UGP o andamento das obras de seu componente bem como
+quaisquer dificuldades encontradas para a consecução das mesmas.
+
+Durante a execução do Programa a UCP contará com a presença de gestores de projetos ocupando a função de pontos focais em cada
+um dos órgãos de suas respectivas competências para execução dos produtos, conforme descrito na Matriz de Responsabilidade
+Institucional.
+
+(iii)Matriz de Responsabilidade - RACI (ANEXOS).
+
+O mutuário para esta operação será a Prefeitura Municipal de Porto Alegre (PMPA), cabendo à Secretaria Municipal de Planejamento e
+Assuntos Estratégicos (SMPAE) a supervisão e a coordenação do PROGRAMA DE RECONSTRUÇÃO E ADAPTAÇÃO ÀS MUDANÇAS
+CLIMÁTICAS EM PORTO ALEGRE - SUPERAPOA, por meio da Unidade Gestora do Programa (UGP).
+
+4.2Execução/Executores
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Prefeitura Municipal de Porto Alegre - RS
+
+Representante Oficial: Sebastião Araújo Melo
+
+Endereço da Sede: Rua General São Manoel, 157
+E-mail Institucional:
+Telefone:
+
+CNPJ:  92963560000160
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+Fax:
+UF:
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+### 4.4. Execução/Cronograma
+
+
+C - INFRAESTRUTURA RESILIENTE
+
+S - S.1 - INTERVENÇÕES ESTRUTURANTES
+
+P - ESTUDOS E PROJETOS
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+194.000.000,00
+
+Ano 1
+
+FONTES
+
+CF
+
+NDB
+
+5.460.000,00
+
+21.840.000,00
+
+191.000.000,00
+
+5.400.000,00
+
+21.600.000,00
+
+3.000.000,00
+
+480.000,00
+
+1.920.000,00
+
+P - Obras de Saneamento - Drenagem - Proteção Contra as Cheias
+
+100.000.000,00
+
+2.000.000,00
+
+8.000.000,00
+
+
+Página: 19
+
+TOTAL
+
+CF
+
+TOTAL
+
+NDB
+
+P - Obras nas vias de acesso ao Porto Seco
+
+P - Requalificação da Voluntários da Pátria - Trecho 2
+
+P - Desapropriações e Assentamentos
+
+P - Habitação de Interesse Social
+
+P - Recuperação de Vias
+
+S - GESTÃO E INOVAÇÃO
+
+P - Plano de Contingência e Emergência
+
+P - Sistema de Monitoramento de Cheias
+
+P - Plano de Segurança Hídrica
+
+P - Implantação do Observatório e Laboratório de Mobilidade e Logística Urbana
+
+P - Gestão de Plano de Logística Urbana
+
+C - INFRAESTRUTURA SOCIAL E QUALIFICAÇÃO PARA TRABALHO E RENDA
+
+P - Capacitação e Qualificação para a População Vulnerável
+
+P - Recuperação dos Equpamentos Públicos
+
+C - UNIDADE GESTORA DO PROGRAMA
+
+P - Apoio ao Gerenciamento
+
+P - Supervisão de Obras
+
+P - Auditoria e Avaliação do Programa
+
+P - Comunicação Social e Mobilização
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - INFRAESTRUTURA RESILIENTE
+
+S - S.1 - INTERVENÇÕES ESTRUTURANTES
+
+P - ESTUDOS E PROJETOS
+
+COMPONENTES
+
+P - Obras de Saneamento - Drenagem - Proteção Contra as Cheias
+
+P - Obras nas vias de acesso ao Porto Seco
+
+P - Requalificação da Voluntários da Pátria - Trecho 2
+
+P - Desapropriações e Assentamentos
+
+P - Habitação de Interesse Social
+
+P - Recuperação de Vias
+
+S - GESTÃO E INOVAÇÃO
+
+P - Plano de Contingência e Emergência
+
+P - Sistema de Monitoramento de Cheias
+
+P - Plano de Segurança Hídrica
+
+P - Implantação do Observatório e Laboratório de Mobilidade e Logística Urbana
+
+P - Gestão de Plano de Logística Urbana
+
+C - INFRAESTRUTURA SOCIAL E QUALIFICAÇÃO PARA TRABALHO E RENDA
+
+P - Capacitação e Qualificação para a População Vulnerável
+
+P - Recuperação dos Equpamentos Públicos
+
+C - UNIDADE GESTORA DO PROGRAMA
+
+P - Apoio ao Gerenciamento
+
+P - Supervisão de Obras
+
+P - Auditoria e Avaliação do Programa
+
+P - Comunicação Social e Mobilização
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - INFRAESTRUTURA RESILIENTE
+
+S - S.1 - INTERVENÇÕES ESTRUTURANTES
+
+P - ESTUDOS E PROJETOS
+
+COMPONENTES
+
+P - Obras de Saneamento - Drenagem - Proteção Contra as Cheias
+
+P - Obras nas vias de acesso ao Porto Seco
+
+P - Requalificação da Voluntários da Pátria - Trecho 2
+
+P - Desapropriações e Assentamentos
+
+P - Habitação de Interesse Social
+
+38.000.000,00
+
+760.000,00
+
+3.040.000,00
+
+16.000.000,00
+
+320.000,00
+
+1.280.000,00
+
+20.000.000,00
+
+1.200.000,00
+
+4.800.000,00
+
+9.000.000,00
+
+540.000,00
+
+2.160.000,00
+
+5.000.000,00
+
+100.000,00
+
+400.000,00
+
+3.000.000,00
+
+1.000.000,00
+
+300.000,00
+
+800.000,00
+
+600.000,00
+
+300.000,00
+
+3.000.000,00
+
+2.000.000,00
+
+1.000.000,00
+
+3.000.000,00
+
+600.000,00
+
+2.000.000,00
+
+300.000,00
+
+100.000,00
+
+60.000,00
+
+20.000,00
+
+6.000,00
+
+16.000,00
+
+12.000,00
+
+6.000,00
+
+60.000,00
+
+40.000,00
+
+20.000,00
+
+60.000,00
+
+12.000,00
+
+40.000,00
+
+6.000,00
+
+2.000,00
+
+240.000,00
+
+80.000,00
+
+24.000,00
+
+64.000,00
+
+48.000,00
+
+24.000,00
+
+240.000,00
+
+160.000,00
+
+80.000,00
+
+240.000,00
+
+48.000,00
+
+160.000,00
+
+24.000,00
+
+8.000,00
+
+0,00
+
+5.580.000,00
+
+22.320.000,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+NDB
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+NDB
+
+7.280.000,00
+
+29.120.000,00
+
+7.160.000,00
+
+28.640.000,00
+
+120.000,00
+
+480.000,00
+
+3.000.000,00
+
+12.000.000,00
+
+1.140.000,00
+
+4.560.000,00
+
+480.000,00
+
+1.920.000,00
+
+1.600.000,00
+
+6.400.000,00
+
+720.000,00
+
+2.880.000,00
+
+100.000,00
+
+400.000,00
+
+120.000,00
+
+480.000,00
+
+40.000,00
+
+12.000,00
+
+32.000,00
+
+24.000,00
+
+12.000,00
+
+160.000,00
+
+48.000,00
+
+128.000,00
+
+96.000,00
+
+48.000,00
+
+120.000,00
+
+480.000,00
+
+80.000,00
+
+40.000,00
+
+320.000,00
+
+160.000,00
+
+120.000,00
+
+480.000,00
+
+24.000,00
+
+80.000,00
+
+12.000,00
+
+4.000,00
+
+96.000,00
+
+320.000,00
+
+48.000,00
+
+16.000,00
+
+0,00
+
+7.520.000,00
+
+30.080.000,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+NDB
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+NDB
+
+8.280.000,00
+
+33.120.000,00
+
+8.100.000,00
+
+32.400.000,00
+
+0,00
+
+0,00
+
+4.000.000,00
+
+16.000.000,00
+
+1.520.000,00
+
+6.080.000,00
+
+640.000,00
+
+2.560.000,00
+
+1.200.000,00
+
+4.800.000,00
+
+540.000,00
+
+2.160.000,00
+
+
+Página: 20
+
+P - Recuperação de Vias
+
+S - GESTÃO E INOVAÇÃO
+
+P - Plano de Contingência e Emergência
+
+P - Sistema de Monitoramento de Cheias
+
+P - Plano de Segurança Hídrica
+
+P - Implantação do Observatório e Laboratório de Mobilidade e Logística Urbana
+
+P - Gestão de Plano de Logística Urbana
+
+C - INFRAESTRUTURA SOCIAL E QUALIFICAÇÃO PARA TRABALHO E RENDA
+
+P - Capacitação e Qualificação para a População Vulnerável
+
+P - Recuperação dos Equpamentos Públicos
+
+C - UNIDADE GESTORA DO PROGRAMA
+
+P - Apoio ao Gerenciamento
+
+P - Supervisão de Obras
+
+P - Auditoria e Avaliação do Programa
+
+P - Comunicação Social e Mobilização
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - INFRAESTRUTURA RESILIENTE
+
+S - S.1 - INTERVENÇÕES ESTRUTURANTES
+
+P - ESTUDOS E PROJETOS
+
+COMPONENTES
+
+P - Obras de Saneamento - Drenagem - Proteção Contra as Cheias
+
+P - Obras nas vias de acesso ao Porto Seco
+
+P - Requalificação da Voluntários da Pátria - Trecho 2
+
+P - Desapropriações e Assentamentos
+
+P - Habitação de Interesse Social
+
+P - Recuperação de Vias
+
+S - GESTÃO E INOVAÇÃO
+
+P - Plano de Contingência e Emergência
+
+P - Sistema de Monitoramento de Cheias
+
+P - Plano de Segurança Hídrica
+
+P - Implantação do Observatório e Laboratório de Mobilidade e Logística Urbana
+
+P - Gestão de Plano de Logística Urbana
+
+C - INFRAESTRUTURA SOCIAL E QUALIFICAÇÃO PARA TRABALHO E RENDA
+
+P - Capacitação e Qualificação para a População Vulnerável
+
+P - Recuperação dos Equpamentos Públicos
+
+C - UNIDADE GESTORA DO PROGRAMA
+
+P - Apoio ao Gerenciamento
+
+P - Supervisão de Obras
+
+P - Auditoria e Avaliação do Programa
+
+P - Comunicação Social e Mobilização
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - INFRAESTRUTURA RESILIENTE
+
+S - S.1 - INTERVENÇÕES ESTRUTURANTES
+
+P - ESTUDOS E PROJETOS
+
+COMPONENTES
+
+P - Obras de Saneamento - Drenagem - Proteção Contra as Cheias
+
+P - Obras nas vias de acesso ao Porto Seco
+
+P - Requalificação da Voluntários da Pátria - Trecho 2
+
+P - Desapropriações e Assentamentos
+
+P - Habitação de Interesse Social
+
+P - Recuperação de Vias
+
+S - GESTÃO E INOVAÇÃO
+
+P - Plano de Contingência e Emergência
+
+P - Sistema de Monitoramento de Cheias
+
+P - Plano de Segurança Hídrica
+
+P - Implantação do Observatório e Laboratório de Mobilidade e Logística Urbana
+
+P - Gestão de Plano de Logística Urbana
+
+200.000,00
+
+800.000,00
+
+180.000,00
+
+720.000,00
+
+60.000,00
+
+18.000,00
+
+48.000,00
+
+36.000,00
+
+18.000,00
+
+240.000,00
+
+72.000,00
+
+192.000,00
+
+144.000,00
+
+72.000,00
+
+180.000,00
+
+720.000,00
+
+120.000,00
+
+480.000,00
+
+60.000,00
+
+240.000,00
+
+180.000,00
+
+720.000,00
+
+36.000,00
+
+144.000,00
+
+120.000,00
+
+480.000,00
+
+18.000,00
+
+6.000,00
+
+72.000,00
+
+24.000,00
+
+0,00
+
+8.640.000,00
+
+34.560.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+VALOR
+
+CUSTO
+
+TOTAL
+
+CF
+
+TOTAL
+
+NDB
+
+Ano 4
+
+FONTES
+
+CF
+
+NDB
+
+9.170.000,00
+
+36.680.000,00
+
+9.050.000,00
+
+36.200.000,00
+
+0,00
+
+0,00
+
+6.000.000,00
+
+24.000.000,00
+
+1.900.000,00
+
+7.600.000,00
+
+800.000,00
+
+3.200.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+350.000,00
+
+1.400.000,00
+
+120.000,00
+
+480.000,00
+
+40.000,00
+
+12.000,00
+
+32.000,00
+
+24.000,00
+
+12.000,00
+
+160.000,00
+
+48.000,00
+
+128.000,00
+
+96.000,00
+
+48.000,00
+
+120.000,00
+
+480.000,00
+
+80.000,00
+
+40.000,00
+
+320.000,00
+
+160.000,00
+
+120.000,00
+
+480.000,00
+
+24.000,00
+
+80.000,00
+
+12.000,00
+
+4.000,00
+
+96.000,00
+
+320.000,00
+
+48.000,00
+
+16.000,00
+
+0,00
+
+9.410.000,00
+
+37.640.000,00
+
+0,00
+
+0,00
+
+Ano 5
+
+FONTES
+
+CF
+
+NDB
+
+TOTAL
+
+CF
+
+8.610.000,00
+
+34.440.000,00
+
+38.800.000,00
+
+TOTAL
+
+NDB
+155.200.000,00
+
+8.490.000,00
+
+33.960.000,00
+
+38.200.000,00
+
+152.800.000,00
+
+0,00
+
+0,00
+
+600.000,00
+
+2.400.000,00
+
+5.000.000,00
+
+20.000.000,00
+
+20.000.000,00
+
+80.000.000,00
+
+2.280.000,00
+
+9.120.000,00
+
+7.600.000,00
+
+30.400.000,00
+
+960.000,00
+
+3.840.000,00
+
+3.200.000,00
+
+12.800.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+4.000.000,00
+
+16.000.000,00
+
+1.800.000,00
+
+7.200.000,00
+
+250.000,00
+
+1.000.000,00
+
+1.000.000,00
+
+4.000.000,00
+
+120.000,00
+
+480.000,00
+
+600.000,00
+
+2.400.000,00
+
+40.000,00
+
+12.000,00
+
+32.000,00
+
+24.000,00
+
+12.000,00
+
+160.000,00
+
+200.000,00
+
+800.000,00
+
+48.000,00
+
+60.000,00
+
+240.000,00
+
+128.000,00
+
+160.000,00
+
+640.000,00
+
+96.000,00
+
+48.000,00
+
+120.000,00
+
+480.000,00
+
+60.000,00
+
+240.000,00
+
+C - INFRAESTRUTURA SOCIAL E QUALIFICAÇÃO PARA TRABALHO E RENDA
+
+120.000,00
+
+480.000,00
+
+600.000,00
+
+2.400.000,00
+
+P - Capacitação e Qualificação para a População Vulnerável
+
+P - Recuperação dos Equpamentos Públicos
+
+C - UNIDADE GESTORA DO PROGRAMA
+
+P - Apoio ao Gerenciamento
+
+80.000,00
+
+40.000,00
+
+320.000,00
+
+400.000,00
+
+1.600.000,00
+
+160.000,00
+
+200.000,00
+
+800.000,00
+
+120.000,00
+
+480.000,00
+
+600.000,00
+
+2.400.000,00
+
+24.000,00
+
+96.000,00
+
+120.000,00
+
+480.000,00
+
+
+Página: 21
+
+P - Supervisão de Obras
+
+P - Auditoria e Avaliação do Programa
+
+P - Comunicação Social e Mobilização
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+80.000,00
+
+12.000,00
+
+4.000,00
+
+320.000,00
+
+400.000,00
+
+1.600.000,00
+
+48.000,00
+
+16.000,00
+
+60.000,00
+
+20.000,00
+
+240.000,00
+
+80.000,00
+
+200.000.000,00
+
+8.850.000,00
+
+35.400.000,00
+
+40.000.000,00
+
+160.000.000,00
+
+(i) Atos legais necessários à implementação do Programa e outros:
+
+a. Após a aprovação da Carta Consulta pela COFIEX, será submetida ao legislativo municipal a lei autorizativa para a contratação da
+operação de crédito com aval da União, em fase de elaboração;
+
+b. A atualização e complementação do Plano Diretor de Macrodrenagem-PDDRU-POA serão iniciadas durante a fase de preparação do
+Programa e nortearão a definição das soluções de macrodrenagem e revisão do sistema de proteção contra inundações. Atualmente a
+contratação da revisão do PDDRU está em processo de licitação.
+
+c. Os decretos de utilidade pública para fins de desapropriação serão encaminhados após o diagnóstico das áreas envolvidas no projeto.
+
+(ii e iii) Os riscos de ordem legal e institucional ocorrem ao longo do tempo de execução do Programa e, na maioria dos casos, são
+mitigáveis.
+
+Riscos: Considera-se um risco efetivo no cumprimento dos prazos estabelecidos nos cronogramas de execução dos financiamentos o
+atraso na obtenção da titularidade de bens e das Licenças de Instalação e Operação que constituem condições prévias para a execução
+de obras e reformas.
+
+Mitigação: Elaborar o planejamento prévio a partir do mapeamento de todas as intervenções previstas no Programa, identificando a
+titularidade dos bens, as necessidades e a situação dos licenciamentos e de outros atos administrativos e jurídicos necessários. Constituir
+uma equipe técnica específica para esta ação no âmbito da UGP. Buscando mitigar o risco de entraves futuros aos licenciamentos, será
+feita uma aproximação às equipes do FEPAM, SISEPRA, CONSEMA e SMAMUS apresentando as propostas de intervenção do Programa
+, além de serem realizadas consultas prévias a solicitação das licenças necessárias sobre os projetos e obras para sanar qualquer ponto
+incoerente com as normas e diretrizes ambientais vigentes.
+
+Riscos: Condições prévias para o primeiro desembolso.
+
+Devido à complexidade dos contratos e de suas intervenções, existe risco, mesmo que baixo, de não atendimento de maneira satisfatória
+de algumas das condições contratuais para o primeiro desembolso.
+
+Mitigação: Após a assinatura dos Contratos, garantir o atendimento total e satisfatório das condições estabelecidas em contrato para o
+
+primeiro desembolso e aporte de recursos do empréstimo ao programa.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+As contratações em termos de recursos de investimento estão previstas nos produtos dos componentes de intervenções estruturantes que
+se destinam a estudos, projetos e obras. Está sendo avaliada a necessidade de contratação de pessoal (via concurso ou contratação de
+cargos de confiança e de consultorias) de apoio para implementação do programa.
+
+A experiência do órgão executor com as políticas de aquisição/contratação do agente financeiro:
+
+As licitações ficarão sob responsabilidade da DLC, Diretoria de Licitações e Contratações que conta com uma equipe especializada e um
+quadro de engenheiros com expertise em licitações de obras de engenharia.
+
+A Prefeitura de Porto Alegre possui uma experiência em captação de recursos nacionais e internacionais para financiamentos de projetos
+públicos e estratégicos para o Município, bem como no gerenciamento de Programas de Financiamentos por meio de Unidades Gestoras.
+Dentre os financiamentos externos mais relevantes nas últimas décadas, citamos as seguintes operações de crédito: AT (3.3)
+
+- 1997: Preservação do Ambiente Natural e Recuperação de Área Degradada da B. do Arroio Dilúvio (FONPLATA), valor de US$ 1.143.
+000,00;
+
+- 1997: Ampliação do Pronto Socorro do Hospital Municipal de Porto Alegre (FONPLATA), valor de US$ 2.600.000,00;
+
+- 1998: Programa de Desenvolvimento Municipal de Porto Alegre - III Perimetral (BID), valor de US$ 76.500.000,00;
+
+- 2003: Fundo Financeiro para o Desenvolvimento da Bacia do Prata (FONPLATA), Programa Integrado Entrada da Cidade (PIEC), valor
+US$ 55.000.000,00;
+
+- 2008: Banco Interamericano de Desenvolvimento (BID), Programa Integrado Socioambiental (PISA), valor US$ 83.270.000,00;
+
+
+Página: 22
+
+- 2016: Corporação Andina de Fomento (CAF), hoje Banco da América Latina, Programa ORLA POA - Organicidade e Requalificação do
+Espaço Urbano, do Lazer, do Acesso e Mobilidade de Porto Alegre, valor US$ 92.000.000,00, atualmente em execução;
+
+- 2023: Programa de Desenvolvimento Social e Sustentabilidade Fiscal do Município de Porto Alegre (PORTOALEGRE+), Financiamento
+BID, valor de US$ 150 milhões, assinatura prevista para o 2 ° semestre; e
+
+- 2023: Programa de Revitalização da Área Central de Porto Alegre (CENTRO+4D), Financiamento Banco Mundial e AFD- Agência
+Francesa de Desenvolvimento valor de Euro 130 milhões, assinatura prevista para o 2° semestre .
+
+Riscos: Licitações e Contratações de Estudos, Serviços, Projetos e Obras.
+
+Licitações e Contratações de Estudos, Serviços, Projetos e Obras.
+
+Riscos: Considerando as particularidades e exigências legais que envolvem os prazos e processos de contratação na Administração
+Pública, existem riscos de atrasos nos processos de contratações e consequentemente atraso na execução.
+
+Durante a preparação dos projetos serão necessárias contratações de consultorias técnicas, especializadas e a aquisição de softwares e
+equipamentos. Na etapa de execução do financiamento, serão necessárias contratações de serviços de capacitações, consultorias e de
+projetos e obras.
+
+Mitigação: Propõe-se identificar as licitações que podem ser publicadas durante o período de preparação do programa, tais como estudos
+específicos para as intervenções no sistema de proteção, estudos de impacto ambiental, estudos de tráfego prévios à elaboração dos
+projetos viários, estudos técnicos de viabilidade de utilização das áreas alagáveis, e concursos públicos de arquitetura para a os projetos
+de Núcleos Habitacionais na área de influência do Programa. A promoção de concursos públicos engaja a comunidade e dá visibilidade às
+propostas, além de trazer mais qualidade às edificações e sua inserção no tecido urbano.
+
+Tendo em vista a publicação do decreto Nº 22.647, de 2 de maio de 2024, que declarou estado de calamidade pública no Município de
+Porto Alegre e, conforme seu artigo 5º, permitiu a dispensa de licitação para aquisição de bens, serviços e obras a serem concluídas em
+180 dias, poderão ser contratados imediatamente e de forma direta os estudos ou análises emergenciais, que integrarão os investimentos
+do Programa. Para as demais licitações, a prática do NDB de utilização dos sistemas nacionais de aquisições e gestão de contratos,
+somadas à supervisão pela equipe de aquisições do Banco, facilitam e reduzem os riscos de erros de procedimentos. A nova lei de
+licitações que confere mais opções de contratações ao Município, entre elas a contratação Integrada, é outro elemento facilitador e de
+agilização dos procedimentos de aquisições.
+
+Após a contratação, a Unidade Gestora do Programa contará com uma assessoria jurídica especializada em licitações para
+monitoramento, acompanhamento e elaboração do Plano de Aquisições do Programa.
+
+O monitoramento físico-financeiro do programa será feito por meio de sistema de software/plataforma capaz de interligar com os demais
+sistemas existentes no município e acompanhar todas as etapas da operação de crédito desde sua captação até o encerramento e
+prestação de contas.
+
+A nova lei de licitações que confere mais opções de contratações ao Município, entre elas a contratação Integrada, é outro elemento
+facilitador e de agilização dos procedimentos de aquisições.
+
+Após a contratação, a Unidade Gestora do Programa contará com uma assessoria jurídica especializada em licitações para
+monitoramento e acompanhamento elaboração do Plano de Aquisições do Programa.
+
+O monitoramento físico-financeiro do programa será feito por meio de sistema de software/plataforma capaz de interligar com os demais
+sistemas existentes no município e acompanhar todas as etapas da operação de crédito desde sua captação até o encerramento e
+prestação de contas.
+
+Por fim, cabe registrar que as obras serão licitadas obedecendo ao regramento nacional das compras públicas (Lei nº 14.133/21), bem
+como os procedimentos para licitações de caráter internacional vinculadas ao NDB que não conflitem com as leis nacionais vigentes,
+reiterando que o NDB adota como política a utilização dos sistemas nacionais.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+(a) A presença de incerteza jurídica das decisões; (b) A salvaguarda que os Bancos Internacionais tendem a exigir para os processos de
+desapropriação, que consideram violar os direitos individuais; (c) Os possíveis entraves consideráveis nos fluxos de desembolsos e
+operacionais dos projetos; (d) A sensibilidade política do tema, posto que as desapropriações constituem-se formas incisivas de
+intervenção estatal na propriedade privada.
+
+As desapropriações do programa, quando necessárias, serão realizadas em todos os Arroios de intervenção do Programa, considerando
+as medidas compensatórias indicadas na Lei Federal N°3.365/41, Lei Federal nº 4132, de 1962, Decreto Lei nº 1.075, de 1970,  como
+indenização financeira.
+
+(cid:10)
+(cid:10)
+
+
+Página: 23
+
+Para dirimir os riscos vinculados à desapropriação serão priorizados a redução dos impactos sociais e econômico, que estão detalhados
+no item 5.5, e o fortalecimento do trabalho inter-secretarias, que será reforçado para garantir o acesso das famílias às políticas sociais
+públicas existentes no Município, e para este último ponto reitera-se que será realizado o Plano de Gerenciamento das Partes
+Interessadas para mapear as relações das instituições e seus impactos.
+
+Além disso, o Programa seguirá as legislações que facilitam os casos de desapropriação, reassentamento e realocação no município
+sendo elas que regem os atendimentos viam compra assistida e aluguel social (detalhadas no item 5.6); e as normativas que regem os
+processos de promoção de atenção aos processos de cuidados das cidades, como o Plano Nacional de Pedestres, Plano Nacional de
+Urbanismo, para PCDs etc., na figura normativa do Estatuto das Cidades, da Lei Federal Nº 10.257/200.
+
+Mitigação: (a) Identificar as matrículas atingidas o mais rápido possível, e iniciar os procedimentos de desapropriação com 24 meses de
+antecedência ao início das obras; Previsão orçamentária e financeira para dar início aos processos e procedimentos administrativos e
+operacionais; Estrutura técnica especializada para os atos de desapropriação (b) A orientação geral para a inclusão de alguma obra que
+necessite desapropriação no Programa será a de que a emissão da posse esteja garantida. Isto é, antes da garantia da posse provisória,
+não serão iniciadas obras; (c) Enfatiza-se que, em caso de imóveis a serem desapropriados, o processo seguirá o estabelecido pelo
+Decreto-Lei n° 3.365/41, e também pelo Plano Municipal de Habitação de Interesse Social, elaborado pelo Departamento Municipal de
+Habitação (DEMHAB) da Prefeitura de Porto Alegre.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+As ações do Programa promoverão impactos ambientais positivos ao reforçar a proteção das áreas afetadas pelas inundações de 2024,
+através da revisão, restruturação e implantação de sistemas mais eficientes. Nas áreas urbanas vulneráveis vai proporcionar maior
+qualidade de vida à população e resiliência urbana frente aos impactos das inundações. As práticas pedagógicas para compreensão da
+necessidade de cuidados ambientais e patrimoniais são grandes aliadas destes processos de enlevamento da resiliência, garantindo aos
+usuários melhor preparação para novos eventos e desfrute das intervenções.
+
+Riscos: os principais riscos ambientais decorrentes da implementação do programa estão relacionados aos impactos socioambientais
+provocados pelas soluções de engenharia que serão propostas, como reassentamentos, intervenções em áreas alagadiças, proteção às
+áreas de banhado e mesmo à necessidade de supressão/plantio de arborização.
+
+Mitigação: buscando mitigar o risco de entraves futuros, será feita uma aproximação com os órgãos ambientais como FEPAM, SISEPRA,
+
+CONSEMA e SMAMUS, apresentando as propostas de intervenção do Programa a fim de obter as diretrizes e sanar eventuais pontos
+conflitantes com as normas e legislação vigentes.
+
+Tendo em vista o porte da intervenção, deverá ser necessária a elaboração de Estudo de Impacto Ambiental. O processo é conhecido da
+
+Prefeitura e bem conduzido pela SMAMUS e FEPAM. Vale ainda ressaltar que o NDB tem como princípio o uso dos sistemas nacionais
+para a gestão dos riscos ambientais, sendo que, para o Brasil, há grande equivalência entre o marco ambiental do Banco e as regras de
+procedimentos ambientais nacionais e locais.
+
+Para as intervenções de menor porte, atualmente a SMAMUS (secretaria municipal do meio-ambiente, urbanismo e sustentabilidade)
+analisa os empreendimentos públicos e, conforme o caso, isenta o licenciamento. No caso de intervenções específicas em arborização, é
+emitida uma autorização de remoção vegetal pela SMAMUS e emitido um termo de compensação vegetal, que prevê, ou o pagamento em
+pecúnia ou o plantio compensatório. Todas estas etapas estarão previstas nos projetos e nas licitações de obra.
+
+Portanto é imprescindível ao Programa a utilização de mecanismos de estudos de impacto, mitigação, controle, recuperação e
+compensação dos impactos socioambientais que promovam uma melhor qualidade de vida à população nas áreas afetadas.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+(i) Os impactos sociais mais efetivos se darão (a) nas ações que visam minimizar os alagamentos e inundações recorrentes, e que
+atingem comunidades vulneráveis e de baixa renda; (b) na reconstrução e retomada do crescimento da economia nas regiões suscetíveis
+às inundações, de modo a recriar o ambiente de negócios e empreendedorismo afetado pelas grandes perdas decorrentes da cheia de
+2024; (c) na implementação de ações voltadas à inclusão das populações vulneráveis e das minorias; de apoio e garantia dos direitos das
+mulheres, jovens, e crianças, entre outros. Considerando a priorização das ações sociais em um Componente exclusivamente dedicado às
+mesmas, a tendência é reduzir e melhorar os Impactos Sociais, que no caso deste Programa, são positivos.
+
+(ii)A Prefeitura de Porto Alegre possui na sua estrutura organizacional a Fundação de Assistência Social e Cidadania que atende a
+população em situação de vulnerabilidade, às minorias sociais e de baixa renda e elabora relatórios e planos, bem como executa ações
+para os programas de financiamentos que possuem impacto social.
+
+(iii) Riscos: A aceitação ou aprovação das ações propostas pelas partes interessadas (stakeholders). Para além do simples cumprimento
+dos requisitos regulamentares, é necessário considerar também as expetativas de uma grande variedade de partes interessadas, incluindo
+as comunidades locais e também as organizações não governamentais.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 24
+
+(iv)Mitigação: (a) O município está ciente das políticas e salvaguardas sociais do agente financeiro, e contemplará no Projeto em questão
+vários dos conceitos e diretrizes propostas pelo NDB, desde as questões de gênero, de desemprego e empreendedorismo, de
+atendimento a moradores de ruas, de atendimento aos jovens e às crianças, etc.; (b) Durante a preparação do Projeto está prevista a
+contratação de um Diagnóstico da situação social do Município de Porto Alegre e das conexões regionais do mesmo, a fim de qualificar e
+melhor resolver as tensões e necessidades sociais; (c) A PMPA assumirá o compromisso de posicionar os direitos humanos e os seus
+princípios como o elemento central das ações; (d) assegurará a participação significativa das partes interessadas (stakeholders) nos
+processos de desenvolvimento do Projeto e decisões quanto às intervenções; (e) O Projeto prevê o desenvolvimento de projetos sociais,
+ações socioeducativas, na qualificação profissional e empreendedorismo da população vulneravel; (f) No caso de implantação de novos
+núcleos habitacionais, a proposta deve estar vinculada à qualidade do projeto arquitetônico, que priorizarão aspectos de eficiência
+energética e soluções de baixo consumo de água. Os conjuntos habitacionais preverão espaços de uso misto que viabilizarão
+composições destes para uso comunitário, mas também, para a promoção de ações comerciais ou institucionais, podendo viabilizar uma
+renda extra ao condomínio e moradores envolvidos por meio da comercialização de bens e serviços, aquecendo a economia e mercado
+de trabalho local.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+O Programa tem como premissa atender todas as políticas e normas para os temas socioambientais estabelecidas pelo agente financiador
+, o que reduzirá os riscos advindos do reassentamento. Além disso, está comprometido em realizar apenas os reassentamentos
+essenciais para salvaguardar vidas.
+
+Neste contexto é fundamental ressaltar que a Prefeitura de Porto Alegre possui vasta experiência com o tema de reassentamentos
+involuntários adquirida, por exemplo, no âmbito do programa PISA, que reassentou 1.314 famílias e, no âmbito do Projeto Nazaré, que
+reassentou mais 1.662 famílias em duas localidades diferentes. Foram ofertadas diferentes opções de moradia, como um dos mecanismos
+de redução dos riscos a não adesão ao reassentamento pelas famílias (como da não permanência na região ou resistências ao processo)
+, com ocupação de condomínios de apartamentos e sobrados ou utilizar o advento do Bônus-Moradia, o qual possibilita, se for o desejo do
+beneficiário, ir para outro município do estado do Rio Grande do Sul. Além disso, a compensação foi feita de acordo com a classificação
+da população afetada, que por sua vez são divididos em proprietários, posseiros, ocupantes, usuários e locatários.
+
+Para os proprietários e posseiros as modalidades podem variar em: Bônus moradia, Indenização financeira com custo de reposição, ou
+seja, o valor de mercado dos bens, sem desconto por depreciação e acrescido dos custos de transação, permuta por bens valoráveis de
+igual valor, fornecimento de auxílio à realocação e outros.
+
+Para os ocupantes e usuários as modalidades possíveis foram: Indenização financeira por benfeitorias feitas, bônus moradia, fornecimento
+de auxílio à realocação e outros.
+
+No caso dos locatários é fornecido somente o auxílio à realocação.
+
+O DEMHAB indica que os procedimentos adotados nas experiências do Município envolvem, portanto, o reassentamento em
+empreendimento de interesse social autoproduzido ou via compra assistida, aluguel social, até a indicação de acesso a modalidade de
+atendimento definitivo, indenização e construção de unidades comerciais, conforme cadastro prévio. Abaixo seguem as leis e decretos que
+instituem o bônus moradia, o fundo municipal de habitação de interesse social e regulamenta o bolsa-auxílio aluguel social:
+
+Lei nº 11.229/2012 e Decreto nº 21.491/2022: Institui o Bônus-Moradia destinado à indenização e ao reassentamento de famílias
+ocupantes de áreas de risco ou residentes em áreas que deverão ser liberadas para permitir a execução de obras de infraestrutura urbana
+no Município de Porto Alegre
+
+Lei Complementar 612/2009 e Lei Complementar 946/2022: Cria o Fundo Municipal de Habitação de Interesse Social (FMHIS) e institui
+seu conselho gestor na forma da Lei Federal 11.124/2005. E define o FMHIS como um instrumento de política urbana destinado a
+financiar e a implementar a política habitacional direcionada à população de menor renda.
+
+Lei 11.124/2005 e Decreto N° 18.576/2014: Regulamenta a Bolsa- Auxílio de Aluguel Social atualizado pela Instrução Normativa 004/2023
+e Decreto N° 21.359/2022.
+
+O DEMHAB também destaca que trabalhou com a criação e/ou fomento de mecanismos instrumentalizadores da participação da
+população, abrangendo todas as etapas (preparação, valoração dos bens afetados, negociação, execução e monitoramento). Para tanto,
+foram reuniões individuais com afetados/famílias, bem como reuniões coletivas, culminando na formação de comissão de representantes
+das pessoas/grupos afetados para acompanhamento dos planos de reassentamento. Foi também desenvolvido um mecanismo/canal de
+facilitação e resolução de queixas e reclamações, denominado plantão social. Institucionalmente, houve a formação de comissão de
+acompanhamento do projeto, articulação com as instâncias participativas da municipalidade (orçamento participativo, comissões de
+habitação).
+
+A Prefeitura, como demonstrado em suas experiências na realização de reassentamentos, busca trabalhar com a realização adequada e
+ampla da participação dos indivíduos afetados, prevendo consultas e oportunidades de participação durante o planejamento, execução,
+monitoramento e avaliação dos processos de desapropriação e reassentamento involuntário. Reconhece, neste ínterim, algumas lições
+aprendidas como: a necessidade de fortalecer o processo comunicativo com as famílias a serem reassentadas para construção de
+vínculos com o projeto e a necessidade de articulação das políticas sociais públicas. Estas informações serão trabalhadas junto com o
+Trabalho Técnico Social para traçar estratégias adequadas.
+
+
+Página: 25
+
+Ademais, para dirimir os riscos gerais relacionados com o reassentamento, tendo em vista sua importância dentro do Programa, serão
+elaboradas as ferramentas e mecanismos necessários, seguindo as políticas e normas indicadas pelo Banco Mundial, como o Marco da
+Política de Reassentamento - (MPR) e o Plano de Ação de Reassentamento - (PAR) (a ser elaborado). Além desses documentos, o
+Programa dará continuidade aos instrumentos e ferramentas de controle, monitoramento e avaliação já trabalhados pelo Município que
+deram certo e buscará fortalecer possíveis elementos verificados como necessários. Destacam-se como esses instrumentos:
+
+O Programa, no que diz respeito ao componente social, especialmente em relação as desapropriações e atividades de reassentamento,
+será planejado e executado com ampla participação das pessoas afetadas, visando evitar o descontentamento, queixas ou reclamações.
+Neste sentido, o Programa garantirá que todos os interessados sejam igualmente informados sobre seus direitos e sobre os canais de
+acesso à resolução de possíveis conflitos que possam ocorrer durante toda a implantação do Programa. Deste modo, será estabelecido
+um sistema para recebimento e resposta a manifestações, pedidos de informações, encaminhamento de sugestões e reclamações,
+decorrentes do processo de desapropriação e reassentamento involuntário, assim como das obras.
+
+Monitoramento e Avaliação Posterior: Em decorrência dos casos de desapropriação e reassentamento involuntário, haverá necessidade
+de implantar um sistema de monitoramento processual e de avaliação, com o objetivo de verificar se os fundamentos do MPR e do PAR
+estão sendo alcançados. O monitoramento será realizado por equipe técnica capacitada e as atividades realizadas por meio de visitas de
+campo, que incluirão contato com a população afetada e suas lideranças, bem como por meio de análise periódica dos relatórios mensais
+de evolução da execução do PAR e acompanhamento dos registros do Sistema de Resposta a Manifestações, Reclamações e Solicitação
+de Informações que serão elaborados pela UGP ou empresas de consultoria contratadas para sua execução.
+
+Aumento dos custos familiares e impacto no rendimento familiar:
+
+O reassentamento involuntário pode gerar aumento de gastos com deslocamento para o trabalho e de custos de manutenção da nova
+moradia, como taxas condominiais e outros tributos venais, contas de consumo, como luz e água, que podem agravar a inadimplência de
+prestações da nova moradia ou das taxas condominiais, culminando, por um lado, na precarização dos espaços coletivos do condomínio e
+, por outro, no extremo, inviabilizando a permanência da família na moradia recebida. Além disso, as pessoas realocadas que possuem
+algum tipo de comércio ou prestam algum tipo de serviço na comunidade ou nas proximidades, são impactadas pela perda de clientes e
+consequentemente de renda.
+
+Para diminuir o risco do aumento dos custos de vida e perda da renda da população deslocada, uma das propostas está vinculada à
+qualidade do projeto arquitetônico dos conjuntos habitacionais, que priorizarão aspectos de eficiência energética reduzindo os encargos
+com a climatização e iluminação artificial dos ambientes, que consideram, além da própria disposição estrutural, a geração de energia
+renovável local e soluções de baixo consumo de água. Os conjuntos habitacionais preverão espaços de uso misto que viabilizarão
+composições destes para uso comunitário, mas também, para a promoção de ações comerciais ou institucionais, podendo viabilizar uma
+renda extra ao condomínio e moradores envolvidos por meio da comercialização de bens e serviços, aquecendo a economia e mercado
+de trabalho local. Tarefa essencial do TTS deverá é a de levantamento das necessidades das famílias, que indicarão quais serviços
+melhor apoiarão suas rotinas, como, por exemplo, aquelas chefiadas por mulheres com creches, ou famílias com idosos que necessitam
+de serviços de cuidadores, entre outros.
+
+Com relação ao rendimento familiar, outro ponto a ser trabalhado pelo TTS é a busca por parcerias para o desenvolvimento de projetos
+sociais, ações socioeducativas, na qualificação profissional e empreendedorismo das famílias. E em paralelo a isso, acionar os órgãos
+responsáveis para viabilizar o acesso aos postos de trabalho existentes, com buscas ativas dos moradores que demonstraram interesse
+durante os processos de capacitação.
+
+Rompimento das conexões sociais da vizinhança devido à realocação para áreas fora da bacia hidrográfica de origem:
+
+O reassentamento involuntário afeta as relações de vizinhança e as redes de apoio social, impactando, principalmente, as mulheres que
+perdem sua rede de apoio. Com isso, aumentam as dificuldades nos cuidados dos filhos pequenos e pessoas idosas, não podendo com
+isso trabalhar ou estudar. Além disso, as bacias hidrográficas alvo do projeto são áreas adensadas que não dispõem, originalmente e
+antes das estratégias de mitigação e remediação, de áreas para remanejamento da população que precisará ser remanejada para áreas
+fora da bacia originária.
+
+Para dirimir este risco, durante a atuação do TTS, seguindo as normas e procedimentos estabelecidos e consolidados pelo Município e
+legislação própria das execuções de trabalhos sociais, serão levantados antecipadamente os aspectos socioeconômicos, ambientais e
+culturais de cada família afetada, para oferecer soluções compensatórias adequadas para as famílias. Ademais, com intuito de possibilitar
+a manutenção da rede de apoio social e adaptação sociocultural territorial e comunitária, serão despendidos esforços no sentido de
+preservação da identidade comunitária, com intuito de conduzir o maior quantitativo para os mesmos espaços socioterritoriais, além da
+promoção de ações e estratégias de promoção de conexões comunitárias e de desenvolvimento de novas redes de apoio. Para tanto,
+serão promovidas ações de remobilização dos beneficiários, após aluguel social, para a escolha por moradias em condomínios verticais
+ou outros processos compensatórios previstos na legislação, como o bônus moradia, com todo o suporte e orientação aos moradores,
+ofertada pelo TTS, que inclusive informará sobre a nova condição da moradia e sobre organização e gestão condominial, buscando
+esclarecer as obrigações legais de cada pessoa e do coletivo.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 26
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN

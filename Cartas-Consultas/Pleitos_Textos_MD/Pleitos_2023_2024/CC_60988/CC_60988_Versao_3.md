@@ -1,0 +1,1297 @@
+# Carta-Consulta CC_60988 — Versao 3 (SIGS)
+
+
+CARTA CONSULTA
+
+Programa Sergipe Mais Próspero e Sustentável
+
+Nº Carta Consulta: 60988
+Processo: 03101.101077/2023-51
+Mutuário: Estado de Sergipe
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  25 de Abril de 2023
+
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 120.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+Sergipe é o menor dos estados brasileiros e sua população equivale a 2,21 milhões de habitantes em 2022 (gráfico 1 do Anexo I), cuja
+composição étnica (gráfico 2 do Anexo I) corresponde a pardos (67%), brancos (22%), negros (10%) e outros (1%). Resultados prévios do
+censo de 2022 demonstram consolidação de tendência de metropolização e resiliência do Alto Sertão. Em 2010, o Estado encontrava-se
+em quarto lugar no Indice de Desenvolvimento Humano (IDH) da Região Nordeste, apresentando resultado de 0,665. Com este índice, o
+Estado ficou atrás de Rio Grande do Norte (0,684), Ceará (0,682) e Pernambuco (0,673), tendo crescido 28,4% no período 2000-2010.
+
+A última década (2010-2022) foi marcada por eventos com reflexos pronunciados sobre a sociedade brasileira, e especificamente
+sergipana, quais sejam: a crise fiscal dos entes subnacionais em 2015-2016 e a pandemia de COVID-19 em 2020-2021. Sob a ótica
+econômico-financeira, os indicadores apresentam vulnerabilidade, uma vez que dependem da RCL, em grande parte, composta por
+transferências correntes e arrecadação de ICMS (gráfico 5 do Anexo I). Frente ao recuo na atividade econômica, adiaram-se ajustes nas
+contas públicas no contexto da pandemia, sendo as finanças estaduais afetadas por fatores decorrentes de leis complementares (Leis
+Complementares Federais nº 173/2020, nº 192/2022, nº 194/2022) e emendas constitucionais federais, e por fatores conjunturais e
+eventualmente transitórios, o que implicou na abertura de espaço pela União para desafogar as finanças públicas estaduais. Ainda, a
+previsão na LC Federal nº 194/2022, de redução de alíquotas do ICMS provocou perda estrutural para o Estado, afetou a segunda fonte
+mais expressiva da arrecadação [ICMS, com média de 40% da RCL entre 2012 e 2022 (tabela 1 do Anexo I)] e promoveu a necessidade
+de buscar mecanismos que possam equilibrar as contas.
+
+Por outro lado, cabe destacar os parâmetros positivos também. Em 2022, o saldo da Dívida Consolidada Líquida (DCL) correspondeu a 31
+,38% da RCL ajustada para fins de endividamento (gráfico 3 do Anexo I). Nesse quesito, a relação DCL-RCL encontra-se
+substancialmente abaixo dos limites prudencial (180% RCL) e máximo (200% RCL), definidos na Resolução do Senado Federal nº 40/
+2001, e pela Lei de Responsabilidade Fiscal. Igualmente, os precatórios estão sendo quitados junto ao Tribunal de Justiça do Estado (
+gráfico 4 do Anexo I), conforme Plano de Pagamento de Precatórios Judiciais, em estrito cumprimento ao preceito constitucional. Além
+disso, a gestão da dívida pública do Estado de Sergipe é caracterizada por quadro favorável e nota B de Capacidade de Pagamento (
+CAPAG), considerada adequada em termos de risco de crédito para a Secretaria do Tesouro Nacional. Resultante do progresso na
+CAPAG, ao Estado de Sergipe, concedeu-se espaço fiscal, de até R$ 964,32 milhões, para contratação de operações de crédito, com
+garantia da União, no exercício de 2023.
+
+No entanto, as principais fragilidades do Estado são bem desafiadoras: a tendência estrutural de aumento da despesa corrente obrigatória,
+com elevado grau de rigidez orçamentária, e a questão previdenciária, que implica em constantes aportes do Tesouro Estadual e cujas
+despesas são fortemente pressionadas pelo envelhecimento do quadro de servidores civis e militares (tabela 2 do Anexo I).
+
+Por isso, nos próximos anos, é fundamental a retomada sustentável da economia para evitar novas crises de solvência e para garantir
+políticas públicas justas e mais focadas aos anseios da sociedade, em ambiente macroeconômico sólido. Para tanto, como solução,
+identificou-se a necessidade de reestruturar a dívida pública registrada em real (R$) em um momento favorável devido à política monetária
+mais restritiva e consequente aumento da taxa Selic (gráfico 16 do Anexo I).
+
+Nessa linha, o Governo do Estado pretende melhorar o perfil da dívida pública, por meio de operação de reestruturação e recomposição
+de principal de dívida estadual contraída com credores nacionais (Banco do Brasil, Caixa Econômica Federal, Banco de Brasília e BNDES)
+, de modo a assumir novo compromisso de linha de crédito com Banco Mundial, em condições mais favoráveis e atingir melhor patamar de
+endividamento (tabelas 6 e 7 do Anexo I).
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+A operação de reestruturação da dívida é o centro da estratégia para o Estado. As ações subsidiárias para reforçar a sustentabilidade
+fiscal a médio prazo e para promover o crescimento da atividade econômica estadual com sustentabilidade ambiental são a base
+fundamental que garantem o futuro do Estado.
+
+Viabilizar espaço fiscal (gráfico 17 do Anexo I), na forma de economia de R$ 100 milhões no primeiro ano (tabelas 5, 6 e 7 do Anexo I),
+contribui com a programação financeira do Estado. O uso mais eficiente para esses recursos disponíveis não é somente empregá-los em
+outras ações do governo e sim certificar que serviços públicos de qualidade serão destinados à população sergipana.
+
+Isso se dá ao condicionar o "Programa Sergipe Mais Próspero e Sustentável" a medidas estruturais, definidas por marcos legais
+distribuídos em dois Pilares (Fiscal e Ambiental), que fazem parte da contrapartida (não financeira) com o BIRD. Os dois Pilares compõem
+a sustentação ao objetivo do Programa. Dessa forma, o aprimoramento da legislação vigente permitirá o enfrentamento cada vez mais
+robusto do Estado às adversidades econômicas e climáticas.
+
+A seguir, destacam-se os resultados esperados das reformas estruturais subsidiárias para o ano de 2025, assumindo, como base, as
+informações disponíveis do exercício de 2022.
+
+Pilar 1 - Medidas estruturais para reforçar a sustentabilidade fiscal (Anexo II)
+
+As medidas subsidiárias nessa área são etapas acessórias para criar ambiente favorável para a sustentabilidade das contas públicas do
+Estado a médio prazo, mediante controle das despesas, expansão das receitas ou melhoria da gestão do patrimônio estadual.
+
+1)Marco fiscal de médio prazo: Legislação para adotar estrutura fiscal de médio prazo com metas de ajuste e medidas para promover a
+sustentabilidade fiscal, partindo de 0,13% RCL em 2022 e atingindo superávit primário superior a 2% RCL em 2025;
+
+
+Página: 3
+
+2)Despesas com pessoal: Reformas para aumentar eficiência e controle nas despesas com pessoal, e para alinhar verbas remuneratórias
+e ajustes salariais com espaço fiscal, de modo a garantir a estabilidade (52% RCL) do limite consolidado de pessoal estabelecido na Lei
+de Responsabilidade Fiscal, abaixo dos limites de alerta e prudencial;
+
+3)Gestão de ativos: Legislação para maior eficiência e racionalização na gestão de ativos públicos, com R$ 40 milhões de receita
+esperada para 2025 em exploração do patrimônio imobiliário do Estado. Atualmente, são apenas R$ 6,5 milhões; e
+
+4)Receitas: Estabelecimento de novas alíquotas de ICMS para produtos como tabaco, álcool e refrigerantes; e aprovação de regulamentos
+para permitir atualização regular do valor agregado do ICMS, o que garante modernização do processo arrecadatório e atingimento de R$
+5,4 bilhões em termos de receita bruta desse imposto em 2025.
+
+Pilar 2 - Reformas estruturais para promover crescimento sustentável (Anexo II)
+
+O "Programa Sergipe Mais Próspero e Sustentável" visa a sustentabilidade das contas públicas para reverter cenário de baixa capacidade
+de investimento, despesas obrigatórias crescentes e despesas discricionárias decrescentes, a partir de medidas de ajuste fiscal mais
+profundo, e para contornar desequilíbrios excessivamente custosos para a população. Construir a base para reduzir o impacto negativo
+para a população é o foco do segundo Pilar. O arcabouço legal acessório tem como propósito criar ambiente favorável para a identificação
+dos riscos climáticos, a promoção de investimentos na economia verde, o acesso a serviços básicos de saneamento básico, a
+transformação energética no Estado, e a mitigação e a adaptação às mudanças climáticas.
+
+No Brasil, a área mais vulnerável à mudança de clima, do ponto de vista social, é a região semiárida no interior do Nordeste. Assume-se
+que atividades humanas bastante dependentes do clima (temperatura e chuva), como a agricultura, serão mais afetadas pelo fenômeno
+das mudanças climáticas. As mudanças climáticas afetam o planejamento e a operação da infraestrutura hídrica para atendimento dos
+usos múltiplos, como geração de energia, navegação, irrigação, abastecimento de água, controle de inundação. A baixa resiliência da
+população em situação de vulnerabilidade socioeconômica amplia ainda mais os impactos dos desequilíbrios climáticos, tornando-os mais
+onerosos financeira e socialmente. Para fazer frente a tais impactos, medidas de adaptação e mitigação às mudanças climáticas deverão
+ser implementadas.
+
+Por isso, as medidas subsidiárias de sustentabilidade ambiental apoiarão o crescimento da atividade econômica com consequente criação
+de empregos e redução da pobreza, o que diminui a situação de vulnerabilidade socioeconômica.
+
+1)Investimento público: Regulamentos para aumentar a resiliência dos investimentos públicos aos riscos climáticos, com vistas a avaliar
+40% do total de projetos de infraestrutura, sob o escopo preventivo a riscos de clima e riscos de desastres, inclusive com regulamentação
+de cláusulas subjacentes no processo de licitação;
+
+2)Investimento - PPPs: Legislação para estabelecer marco estadual de promoção de investimentos mais resilientes e mais verdes, com
+objetivo de estruturar projetos de eficiência energética de prédios públicos e de museus, bem como de escolas, inclusive Parcerias Público
+-Privadas (PPPs). A meta é alcançar 50% das edificações públicas com projetos de eficiência energética;
+
+3)Investimento - Concessões: Legislação para permitir concessão de serviços de saneamento, com objetivo de cobrança pelo uso de água
+bruta e universalização do fornecimento de água e esgotamento sanitário, mediante concessão do serviço atualmente prestado pela
+Departamento de Saneamento de Sergipe (DESO), inclusive atendimento urbano e rural, e a povoados integrados e isolados. A meta é
+aumentar o número de editais estaduais para novas concessões (uma ou mais);
+
+4)Energia Limpa: Política para energia limpa e transformação energética no Estado, com objetivo de sinalizar que o Estado está aberto
+para mais investimento privado em geração de energia eólica e solar, com aumento de 10% no volume de investimentos em energia limpa
+; e
+
+5)Lei de mitigação e adaptação climática: Legislação para reforçar e institucionalizar regras estatais para mitigação e adaptação à
+mudança climática, e apoio ao desmatamento zero, com aumento de 15% nas unidades de conservação (UC) da natureza de uso
+sustentável na categoria de área de proteção ambiental (APA).
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+(i) Orientações estratégicas:
+
+Além da operação de reestruturação da dívida, como principal solução, os pilares do Programa proposto estão estreitamente alinhados
+com os temas orientadores do Plano Plurianual (PPA) do governo e do Programa Sergipano de Desenvolvimento Social e Econômico (
+DESENVOLVE SERGIPE).
+
+Não há a necessidade de inclusão da operação de reestruturação e recomposição da dívida pública estadual, ou das medidas adicionais
+de ajuste fiscal e ambiental, no Plano Plurianual (PPA), por caracterizar-se em duplicidade, considerando que os serviços da dívida
+externa já constam da Lei Orçamentária Anual (LOA), da Lei de Diretrizes Orçamentárias (LDO) e PPA do Governo do Estado de Sergipe.
+
+O programa se alinha diretamente com a missão do Estado: trabalhar para que Sergipe volte a crescer, por meio do saneamento das
+finanças públicas, garantindo serviços públicos de qualidade e impulsionando o desenvolvimento socioeconômico e ambiental em todo o
+Estado.
+
+(cid:10)
+
+
+Página: 4
+
+(ii) Contrapartida:
+
+Não há contrapartida financeira negociada com o Banco Mundial (BIRD). As reformas estruturais citadas na seção de "Solução Proposta"
+referem-se a contrapartidas não financeiras.
+
+A origem da contrapartida está em conformidade com art. 3º, inciso II, da Resolução COFIEX nº 3, de 29 de maio de 2019, abaixo:
+
+"Art. 3º Não será exigido o requisito de contrapartida a que se referem os artigos anteriores, nas seguintes operações:
+
+I - de caráter comercial para a aquisição de bens e contratação de serviços;
+
+II - de reestruturação e recomposição do principal de dívidas;
+
+III- de financiamento de projetos de investimento para a melhoria da administração das receitas e da gestão fiscal, orçamentária, financeira
+e patrimonial, de acordo com o previsto no Parágrafo 3º do art. 7º, da Resolução nº 43/2001 do Senado Federal;
+
+IV - de empréstimos na modalidade de ajuste setorial, de rápido desembolso, condicionados a políticas de desenvolvimento para apoiar
+reformas estruturais; e
+
+V - de empréstimos na modalidade de desembolsos condicionados ao cumprimento de metas e de execução financeira, previamente
+estabelecidas."
+
+(iv) A taxa de câmbio da moeda do financiamento (USD) em relação ao REAL equivale a R$/USD 4,48, conforme cotação mínima da série
+de estatísticas consolidadas do sistema de Expectativas de Mercado do Banco Central do Brasil em 20/04/2023.
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa Sergipe Mais Próspero e Sustentável
+
+
+### 2.2. Título Abreviado
+
+
+Sergipe Sustentável
+
+
+### 2.3. Mutuário
+
+
+Estado de Sergipe
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+(i) Objetivo Geral
+
+A operação de reestruturação da dívida é o centro da estratégia para o Estado que tem como foco a consolidação fiscal.
+
+No montante de USD 120 milhões, o empréstimo irá reduzir o custo atual (de CDI para taxa SOFR) e permitir o alongamento dos prazos
+de pagamento das operações de crédito (de prazo médio de 8,6 anos para 19 anos), que podem resultar em economia estimada superior
+a R$ 100 milhões no primeiro ano, em termos de Valor Presente Líquido (VPL), decrescendo a cada ano como destacado no gráfico 15 do
+Anexo I, ou cerca de 25% do saldo devedor total das dívidas a serem reestruturadas (tabelas 4, 5 e 6 do Anexo I).
+
+(ii) Objetivos Específicos
+
+Os objetivos específicos do "Programa Sergipe Mais Próspero e Sustentável" são os seguintes:
+
+1.Recuperar o equilíbrio fiscal do Estado;
+
+2.Manter avaliação da capacidade de pagamento que autorize o Estado a receber garantias da União para novas operações de crédito (
+CAPAG B);
+
+3.Reduzir dependência de transferências correntes com aumento da arrecadação de receitas próprias (tabela 1 do Anexo I);
+
+4.Melhorar o ambiente de negócios;
+
+5.Aumentar o volume do investimento privado no Estado;
+
+6.Desenvolver infraestrutura mais resiliente;
+
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+7.Aumentar acesso aos serviços de água e esgotamento sanitário; e
+
+8.Estimular crescimento sustentável por meio da energia renovável e do uso sustentável dos recursos hídricos.
+
+
+### 2.6. Projeto/Indicadores
+
+
+Descrição
+Resultado primário
+
+Despesas de pessoal
+
+Gestão de ativos
+
+Receita Bruta de ICMS
+
+Prevenção contra riscos de clima e riscos de
+desastres
+
+Eficiência energética
+
+Concessão
+
+Energia Limpa
+
+Mitigação e adaptação climática
+
+
+### 2.7. Projeto/Componentes
+
+
+em reais
+
+em reais
+
+% do total
+
+% da RCL
+
+% da RCL
+
+Fórmula de Cálculo Unidade de Medida
+Resultado primário
+como percentagem da
+receita corrente
+líquida (RCL)
+Despesas de pessoal
+como percentagem da
+receita corrente
+líquida (RCL)
+1.3.1.0.00.0.0 Receita
+de Exploração do
+Patrimônio Imobiliário
+do Estado
+Receita em 2025
+comparada à
+estimativa de receita
+sem aplicação de
+reformas
+Número de projetos
+de infraestrutura, com
+inclusão de cláusulas
+subjacentes para
+prevenção a riscos de
+clima e riscos de
+desastres, em
+percentagem do total
+de projetos de
+infraestrutura
+Percentagem de
+edificações públicas
+com eficiência
+energética
+Número de editais
+estaduais para novas
+concessões
+Volume total de
+investimento em
+energia verde
+Área de conservação
+ambiental
+
+% do total de
+edificações
+
+milhões de reais
+
+quantidade
+
+hectares
+
+Linha de Base
+0,13
+
+Meta
+2,00
+
+44,00
+
+44,00
+
+6.449.203,02
+
+40.000.000,00
+
+4.563.523.937,54
+
+5.400.000.000,00
+
+0,00
+
+40,00
+
+0,00
+
+50,00
+
+0,00
+
+1,00
+
+500,00
+
+1.000,00
+
+3.058,00
+
+3.363,00
+
+
+Componentes
+C - RESTRUTURAÇÃO E RECOMPOSIÇÃO DE PRINCIPAL DA DIVIDA EXTERNA
+S - REDUÇÃO DOS CUSTOS E ALONGAMENTO DA DÍVIDA EXTERNA
+P - Principal da Dívida Externa Reestruturado e Recomposto
+C - SUSTENTABILIDADE DA POLÍTICA FISCAL
+S - SITUAÇÃO FISCAL EQUILIBRADA
+P - ADOÇÃO DE ESTRUTURA FISCAL DE MÉDIO PRAZO
+P - CONTROLE DAS DESPESAS COM PESSOAL
+P - MELHORIA DA GESTÃO PATRIMONIAL DO ESTADO
+P - EXPANSÃO DAS RECEITAS
+C - SUSTENTABILIDADE AMBIENTAL
+S - MUDANÇAS CLIMÁTICAS
+P - PREVENÇÃO A RISCOS CLIMÁTICOS E DESASTRES
+P - MITIGAÇÃO E ADAPTAÇÃO CLIMÁTICA
+S - ENERGIA
+P - ENERGIA LIMPA
+P - EFICIÊNCIA ENERGÉTICA
+S - SANEAMENTO BÁSICO
+P - CONCESSÃO DE SERVIÇOS DE SANEAMENTO
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 6
+
+Valor(US$)
+120.000.000,00
+120.000.000,00
+120.000.000,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+120.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - RESTRUTURAÇÃO E RECOMPOSIÇÃO DE PRINCIPAL DA DIVIDA EXTERNA
+Este componente visa a reestruturação e recomposição de principal de dívida estadual contraída com credores nacionais, como
+Banco do Brasil S.A., Caixa Econômica Federal, Banco de Brasília S.A. e BNDES, com alto custo, tendo medidas de
+sustentabilidade fiscal e ambiental, como contrapartida, por meio de compromisso de médio e longo prazo estabelecidos com o
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD.
+
+S - REDUÇÃO DOS CUSTOS E ALONGAMENTO DA DÍVIDA EXTERNA
+Este subcomponente prevê a implantação de solução para suavizar os pagamentos da dívida pública ao longo dos exercícios,
+contribuindo com a programação financeira do Estado. O alongamento da nova operação de crédito com BIRD atinge 19 anos, 3,3
+% da dívida vence em menos de 30 dias, enquanto o percentual da dívida vencendo em menos de 5 anos é de 28,1% contra 70,7
+% dos contratos selecionados. As condições de redução dos custos são: a partir de CDI + SPREAD firmados em contrato com
+credores nacionais, a reestruturação da dívida passará para SFOR + SPREAD. Em suma, a queda no serviço da dívida abre
+espaço fiscal para outros investimentos. A ação deste subcomponente equivale ao produto de "Principal da Dívida Externa
+Reestruturado e Recomposto".
+
+P - Principal da Dívida Externa Reestruturado e Recomposto
+Este produto prevê a reestruturação e recomposição de principal de dívida estadual contraída com credores nacionais, como
+Banco do Brasil S.A., Caixa Econômica Federal, Banco de Brasília S.A. e Banco Nacional de Desenvolvimento Econômico e Social
+, com elevado custo. O momento macroeconômico é favorável à reestruturação de dívidas em real (R$) devido à política monetária
+mais restritiva e consequente aumento da taxa Selic. A nova linha de crédito apresenta condições mais favoráveis e permite atingir
+melhor patamar de endividamento. A economia estimada com a reestruturação é superior a R$ 100 milhões em termos de Valor
+Presente Líquido (VPL), o que representa 25,4% do saldo devedor total das dívidas a serem reestruturadas. Essa economia é
+resultante da redução do custo e do alongamento dos prazos de pagamento das 7 (sete) operações de crédito abaixo
+discriminadas atualmente existentes em comparação às condições financeiras do empréstimo do BIRD.
+
+Banco do Brasil S.A.:
+BB-Amortização: saldo devedor de R$ 11.546.499,08
+BB-Malha Rodoviária: saldo devedor de R$ 13.969.571,90
+
+Banco de Brasília S.A.:
+BRB 2021: saldo devedor de R$ 93.429.674,74
+BRB 2022: saldo devedor de R$ 180.568.966,97
+
+Caixa Econômica Federal:
+FINISA I: saldo devedor de R$ 157.417.534,13
+FINISA II: saldo devedor de R$ 84.257.526,94
+
+C - SUSTENTABILIDADE DA POLÍTICA FISCAL
+Este componente visa a sustentabilidade da política fiscal, que depende de mudanças necessárias em sua condução, com
+aumento de receitas, redução de despesas e/ou melhoria da gestão do patrimônio estadual, a fim de que o Estado tenha recursos
+para honrar seus compromissos no curto prazo, e também para garantir sua solvência no longo prazo.
+
+
+Página: 7
+
+S - SITUAÇÃO FISCAL EQUILIBRADA
+Este subcomponente prevê que as receitas públicas serão suficientes para cobrir todas as despesas governamentais, incluindo
+pagamentos de dívidas e serviços públicos. Dessa forma, com a situação fiscal equilibrada, o Estado não dependerá de
+empréstimos excessivos para cobrir suas obrigações financeiras, com déficits fiscais crônicos, o que pode levar a consequências
+negativas. Isso indicará gestão financeira responsável e sustentável, que requer planejamento cuidadoso, análise das
+necessidades públicas e priorização de recursos financeiros. O objetivo do subcomponente é reverter cenário de baixa capacidade
+de investimento, despesas obrigatórias crescentes e despesas discricionárias decrescentes, a partir de medidas de ajuste fiscal
+mais profundo, e para contornar desequilíbrios excessivamente custosos para a população. As ações deste subcomponente estão
+distribuídas em 04 produtos: (i) adoção de estrutura fiscal de médio prazo; (ii) controle das despesas com pessoal; (iii) melhoria da
+gestão do patrimônio estadual; e (iv) expansão das  receitas.
+
+P - ADOÇÃO DE ESTRUTURA FISCAL DE MÉDIO PRAZO
+Este produto prevê a elaboração de legislação para adotar estrutura fiscal de médio prazo, com metas de ajuste e medidas para
+promover a sustentabilidade fiscal. O conjunto de diretrizes irão orientar a política fiscal em um horizonte temporal de médio prazo,
+geralmente entre três e cinco anos, fornecendo abrangente das metas, prioridades e medidas fiscais a serem adotadas pelo
+governo para garantir a sustentabilidade das finanças públicas. Difere do PPA por trazer em seu conteúdo estimativas de variáveis
+econômicas e orçamentárias. O planejamento que decorre da estrutura estabelece metas fiscais, comprometimento com políticas
+tributária e de gastos, e reformas estruturais, bem como fornece previsibilidade e estabilidade nas políticas fiscais, permitindo que
+os agentes econômicos e os investidores tenham compreensão clara das perspectivas fiscais do governo, servindo como
+instrumento de controle e monitoramento do desempenho fiscal, ajudando a evitar desvios significativos em relação aos objetivos
+estabelecidos.
+
+P - CONTROLE DAS DESPESAS COM PESSOAL
+Este produto prevê conjunto de medidas e políticas para monitorar e limitar os gastos relacionados aos seus funcionários e
+servidores públicos, como estabelecer: (i) planejamento de pessoal para estimar a necessidade de funcionários e de que perfil,
+facilitando o dimensionamento adequado da força de trabalho; (ii) definição de limites e critérios para contratação de pessoal; (iii)
+definição de políticas salariais, limites de aumento salarial, regras de progressão na carreira e critérios para concessão de
+benefícios e gratificações, alinhando verbas remuneratórias e ajustes salariais com espaço fiscal, padrões de mercado e
+capacidade financeira do governo; (iv) mecanismos de avaliação e de correção de desempenho dos funcionários e servidores; e (v)
+definição de regras de monitoramento e controle contínuo.
+
+P - MELHORIA DA GESTÃO PATRIMONIAL DO ESTADO
+Este produto prevê a definição de critérios para política de gestão eficiente dos bens imóveis de propriedade pública (terrenos,
+edifícios, propriedades e outros ativos imobiliários), como planejamento e uso estratégico, manutenção e conservação,
+transparência e controle, exploração de oportunidades de parcerias com setor privado. A melhor gestão do patrimônio imobiliário
+do estado trará otimização dos recursos, redução de custos operacionais, geração de receitas, utilização eficiente dos espaços
+públicos, valorização do patrimônio e melhoria dos serviços prestados pelo governo.
+
+P - EXPANSÃO DAS RECEITAS
+Este produto visa estabelecer as estratégias e medidas para expandir a receita tributária, reduzindo a dependência às
+transferências da União. São medidas a serem adotadas: (i) revisão e atualização da legislação tributária: identificação e
+fechamento de lacunas fiscais, criação de medidas antielisão, fortalecimento da fiscalização e simplificação do sistema tributário; (ii
+) melhoria da conformidade tributária: programa de educação fiscal, divulgação de informações claras sobre obrigações fiscais,
+implementação de sistemas eficientes de auditoria e fiscalização, e aplicação rigorosa de penalidades para aqueles que não
+cumprem as obrigações fiscais; (iii) ampliação da base de contribuintes: identificação e inclusão de setores informais ou não
+tributados, combate à economia subterrânea e adoção de políticas que incentivem a formalização das atividades econômicas.
+
+C - SUSTENTABILIDADE AMBIENTAL
+Este componente visa construir a base legal para reduzir impactos negativos para a população e criar ambiente favorável para a
+identificação dos riscos climáticos, a promoção de investimentos na economia verde, o acesso a serviços básicos de saneamento
+básico, a transformação energética no Estado, e a mitigação e a adaptação às mudanças climáticas.
+
+S - MUDANÇAS CLIMÁTICAS
+Este subcomponente prevê elaboração de legislação para aumentar a resiliência da população, em especial aquela parcela em
+situação de vulnerabilidade socioeconômica, frente aos impactos dos desequilíbrios climáticos.
+
+P - PREVENÇÃO A RISCOS CLIMÁTICOS E DESASTRES
+Este produto visa estabelecer regramento para projetos de infraestrutura públicos, especificamente investimento em sistemas de
+alerta precoce e gestão de riscos de desastres e programação de mitigação e adaptação. À medida que a frequência, a duração e
+a intensidade dos riscos naturais se agravem no contexto das mudanças climáticas, o número de desastres climáticos deverá
+aumentar consideravelmente. A gestão de riscos de desastres envolve a identificação, análise e avaliação dos riscos existentes,
+desenvolvimento e implementação de medidas para reduzir esses riscos, enquanto a mitigação e adaptação se concentra em
+ações específicas para prevenção ou minimização dos impactos negativos dos desastres e a recuperação mais rápida e eficaz.
+São exemplos de medidas: exigência de regras de engenharia para tornar a infraestrutura mais resistente a desastres, como a
+construção de edifícios com materiais mais seguros, a construção de sistemas de drenagem eficientes para evitar inundações, a
+criação de áreas de abrigo e a proteção de áreas propensas a deslizamentos de terra; políticas para recuperação pós-desastre,
+estabelecer sistemas de monitoramento e avaliação para acompanhar a eficácia das medidas de mitigação e adaptação.
+
+
+Página: 8
+
+P - MITIGAÇÃO E ADAPTAÇÃO CLIMÁTICA
+Este produto prevê legislação para reforçar e institucionalizar regras estatais para mitigação e adaptação à mudança climática.
+Enquanto ações de mitigação atuam no sentido de reduzir o risco climático pela redução de emissões de gases de efeito estufa da
+atmosfera (menor probabilidade de ocorrência de evento climático extremo), as ações de adaptação têm a possibilidade de
+melhorar as ações de enfrentamento ao impacto das mudanças climáticas por meio da redução da vulnerabilidade e/ou exposição
+dos sistemas. Isso inclui aprimorar os processos de licenciamento ambiental, monitoramento e fiscalização dos biomas. O Estado
+de Sergipe conta com grande diversidade de ecossistemas: caatinga, cerrado, mata atlântica, praias, restingas e manguezais, que
+equivale mais de 25 mil hectares de área total. Planeja-se educação ambiental para conscientização da juventude. Além disso, o
+governo estadual administra o patrimônio de cinco unidades de conservação ambiental. Baseado em experiências internacionais, o
+objetivo é empreender políticas de conservação baseadas na comunidade e na educação para manejar essas áreas úmidas,
+apoiando o desenvolvimento das comunidades que dependem desses ecossistemas para suas casas e meios de vida.
+
+S - ENERGIA
+Este subcomponente visa estimular a economia verde como um dos objetivos de longo prazo para se alcançar sustentabilidade.
+Isso envolve investimentos públicos e privados, desenvolvimento tecnológico e inovação, políticas públicas, programas
+governamentais e condutas de mercado coerentes.
+
+P - ENERGIA LIMPA
+Este produto prevê política para mais energia limpa no Estado para gerar novas oportunidades de negócios, melhoria da qualidade
+de vida da população em geral, redução significativa das desigualdades entre ricos e pobres, conservação da biodiversidade e dos
+recursos naturais. O objetivo é sinalizar que o Estado de Sergipe está aberto para mais investimento privado em geração de
+energia eólica e solar, com expectativa de aquecimento da atividade econômica das regiões aonde chegam parques, fábricas e
+toda a cadeia da indústria. Outro ganho importante esperado com a economia verde é o aumento da produtividade, resultado da
+maior eficiência na utilização dos insumos e recursos e otimização do consumo de energia. É uma mudança de paradigma que
+acarreta equilíbrio ambiental, oportunidades de inovação, surgimento de novos mercados e profissões, fortalecimento da confiança
+dos investidores, fornecedores e consumidores e maior estabilidade econômica.
+
+P - EFICIÊNCIA ENERGÉTICA
+Este produto prevê legislação para estabelecer marco estadual de promoção de investimentos mais resilientes e mais verdes, com
+objetivo de estruturar projetos de eficiência energética de prédios públicos e de museus, bem como de escolas, inclusive Parcerias
+Público-Privadas (PPPs). Além de reduzir o consumo de energia, a adoção dessas medidas em prédios públicos visa transformar o
+mercado de eficiência energética, estimular o desenvolvimento de novas tecnologias e cultivar hábitos e práticas racionais de uso
+da energia elétrica. Dentre as opções, algumas são meramente de gestão, como sensibilização dos gestores para a adoção de
+práticas de eficiência energética; identificação da situação do sistema de condicionamento de ar e de iluminação, incluindo estado
+de conservação; levantamento do consumo energético mensal, por meio das contas de energia elétrica fornecidas pela
+concessionária de energia. As medidas de eficiência energética em edificações públicas têm caráter de replicabilidade, capacitação
+de áreas técnicas, gestão da energia elétrica e compras eficientes. Dessa forma, a partir de normativos legais e infralegais,
+pretende-se transformar o setor público sergipano em exemplo de sustentabilidade e eficiência para a sociedade, promovendo
+construções sustentáveis e redução de emissões, fomentando boas práticas de gestão e induzindo o mercado à produção e
+consumo sustentáveis.
+
+S - SANEAMENTO BÁSICO
+Este subcomponente visa maior acesso ao saneamento básico. Atualmente, apenas 20 dos 75 municípios no Estado de Sergipe
+possuem algum tipo de coleta de esgoto. Em 2019, como ilustração, 29% da população sergipana não tinham acesso de água por
+rede geral e 58% não tinham esgotamento sanitário por rede coletora ou pluvial. A universalização dos serviços públicos visa o
+acesso da população à coleta e ao tratamento de esgoto.
+
+P - CONCESSÃO DE SERVIÇOS DE SANEAMENTO
+Este produto prevê legislação para permitir concessão de serviços de saneamento, com objetivo de cobrança pelo uso de água
+bruta e universalização do fornecimento de água e esgotamento sanitário, mediante concessão do serviço atualmente prestado
+pela Departamento de Saneamento de Sergipe (DESO), inclusive atendimento urbano e rural, e a povoados integrados e isolados.
+Ao longo de 35 anos, a estimativa é ampliar o atendimento com serviços de abastecimento de água, atendendo a 99% da
+população urbana e povoados, e de esgotamento sanitário, a 90% da população, até o ano de 2033.
+
+
+Página: 9
+
+Categoria de Gasto
+
+Outros
+P- Principal da Dívida Externa Reestruturado e
+Recomposto
+P- ADOÇÃO DE ESTRUTURA FISCAL DE
+MÉDIO PRAZO
+P- CONTROLE DAS DESPESAS COM PESSOAL
+P- MELHORIA DA GESTÃO PATRIMONIAL DO
+ESTADO
+P- EXPANSÃO DAS RECEITAS
+P- PREVENÇÃO A RISCOS CLIMÁTICOS E
+DESASTRES
+P- MITIGAÇÃO E ADAPTAÇÃO CLIMÁTICA
+P- ENERGIA LIMPA
+P- EFICIÊNCIA ENERGÉTICA
+P- CONCESSÃO DE SERVIÇOS DE
+SANEAMENTO
+Total Geral
+
+Unidade de medida
+-
+
+Meta
+
+-
+100,00
+
+Valor
+
+% Financeiro
+
+120.000.000,00
+120.000.000,00
+
+100,00
+100,00
+
+resultado primário
+
+% da RCL
+Gestão do
+patrimônio
+reais
+% do total
+
+hectares
+reais
+% do total
+quantidade
+
+-
+
+0,00
+
+0,00
+0,00
+
+0,00
+0,00
+
+0,00
+0,00
+0,00
+0,00
+
+-
+
+0,00
+
+0,00
+0,00
+
+0,00
+0,00
+
+0,00
+0,00
+0,00
+0,00
+
+0,00
+
+0,00
+0,00
+
+0,00
+0,00
+
+0,00
+0,00
+0,00
+0,00
+
+120.000.000,00
+
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Para se contratar a operação de crédito com o Banco Mundial, são etapas a realizar: apreciação favorável da COFIEX, verificação de
+limites e condições de pedido de garantia da União, aprovação de lei específica na Assembleia Legislativa do Estado de Sergipe,
+aprovação de resolução no Senado Federal.
+
+Além disso, a gestão estadual adotou as seguintes ações, que contribuem para a execução dos pilares fundamentais do "Programa
+Sergipe Mais Próspero e Sustentável" e que permitem a sustentabilidade de seus objetivos.
+
+C - RESTRUTURAÇÃO E RECOMPOSIÇÃO DE PRINCIPAL DA DIVIDA EXTERNA
+
+1) Em elaboração:
+
+- Minuta do projeto de lei estadual autorizativa;
+
+- Minuta de resolução do Senado Federal.
+
+C) SUSTENTABILIDADE DA POLÍTICA FISCAL
+
+P) AUMENTO DAS RECEITAS
+
+- Atualização da legislação estadual, por meio do aperfeiçoamento da estrutura tributária e fiscal, melhoria do ambiente de negócios,
+modernização da governança e instituição de programas governamentais:
+
+- Publicação da Lei nº 9.176, de 31 de março de 2023, que altera arts. 2º e 18 da Lei nº 3.796, de 26 de dezembro de 1996, que dispõe
+quanto ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e
+Intermunicipal e de Comunicação (ICMS), resultante de Projeto de Lei nº 95, de 2023, de iniciativa do Poder Executivo, que trata da
+alteração da alíquota modal do ICMS para minimizar impactos na arrecadação estadual frente a legislação federal em setores produtivos
+relevantes, a exemplo dos combustíveis, energia elétrica e comunicação;
+
+- Publicação da Lei nº 9.177, de 31 de março de 2023, que altera arts. 1º, 2º e 2º-A da Lei nº 4.731, de 27 de dezembro de 2002, que
+dispõe sobre o Fundo Estadual de Combate e Erradicação da Pobreza, com acréscimo de 1% de alíquotas de ICMS incidentes em
+determinadas operações e prestações com determinados produtos e serviços, com a correspondente arrecadação vinculada a esse Fundo
+;
+
+- Publicação da Lei nº 9.181, de 10 de abril de 2023, que dispõe sobre a compensação de débitos inscritos em dívida ativa de natureza
+tributária ou de outra natureza, com precatórios vencidos do Estado de Sergipe e suas entidades submetidas ao regime especial de
+pagamento de precatórios;
+
+- Publicação da Lei nº 9.167, de 23 de janeiro de 2023, que dispõe sobre normas fiscais e procedimentais a serem observadas pelo
+Estado de Sergipe, por meio da Secretaria de Estado da Fazenda - SEFAZ e da Procuradoria-Geral do Estado - PGE, no que toca à
+redução de juros e multas de créditos tributários relacionados ao ICMS.
+
+C) SUSTENTABILIDADE AMBIENTAL
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 10
+
+P) MITIGAÇÃO E ADAPTAÇÃO CLIMÁTICA
+
+-  Alinhamento de ações com o Ibama sobre projeto Elos Caatinga, no âmbito de Áreas Protegidas e Florestas;
+
+-  Definição de critérios para reposição da Caatinga e Mata Atlântica no Estado;
+
+-  Balneabilidade das praias sergipanas, monitorada semanalmente para garantir a segurança dos banhistas; o monitoramento
+constante das praias para identificação de resíduos e animais que possam aparecer na faixa da areia; e a análise das águas dos rios,
+sempre buscando soluções para minimizar impactos negativos;
+
+-  Regularização de empreendimentos e licenciamentos arqueológicos para garantir a preservação do patrimônio histórico e cultural do
+estado;
+
+-  Alinhamento para desenvolvimento de projetos em obras públicas para preservação do meio ambiente;
+
+-  Debate de estratégias para diminuir o consumo de plástico, cujo resíduo polui e contamina os biomas de Sergipe;
+
+-  Composição de Grupo de Trabalho em Educação Ambiental relacionado à Política de Educação Ambiental.
+
+P) CONCESSÃO DE SERVIÇOS DE SANEAMENTO
+
+-  Contratação do BNDES para estudos para concessão de serviços de saneamento;
+
+-  Definição do valor de outorga da concessão de serviços de saneamento.
+
+P) EFICIÊNCIA ENERGÉTICA
+
+-  Publicação da Lei nº 9.197, de 26 de abril de 2023, que institui o Programa de Parcerias Estratégicas do Estado de Sergipe ? PPE-SE
+, altera e revoga dispositivos da Lei nº 6.299 de 19 de dezembro de 2007.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Sem detalhes
+
+Estado de Sergipe ()
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+(i) Condições Financeiras:
+
+- Valor estimado para reestruturação: USD 120 milhões (R$ 541,19 milhões)
+
+- Moeda: USD;
+
+- Atualização monetária: variação cambial;
+
+- Juros/custo do financiamento com BIRD: SOFR + 0,60% a.a.
+
+- Liberações previstas: USD 120 milhões em 2024, em um único desembolso;
+
+- Aportes estimados de contrapartida: sem contrapartida financeira;
+
+- Prazo de vencimento: 19 anos
+
+- Prazo de carência: ausência de carência
+
+- Prazo de amortização:
+
+- Periodicidade: semestral;
+
+- Sistema de amortização: constante;
+
+As dívidas a serem refinanciadas (tabela 4 do Anexo I) não são garantidas pela União.
+
+Informa-se que o campo "Financiamento - Indicadores de Contragarantia" não permite salvamento da opção selecionada. Pontua-se nesta
+seção de "Condições Financeiras" que o Estado de Sergipe concorda com a contragarantia, considerando que haverá nova garantia da
+União.
+
+(ii) Necessidade de financiamento externo e opção pelo agente financeiro Banco Mundial (BIRD):
+
+(cid:10)
+(cid:10)
+
+
+Página: 11
+
+A Dívida Consolidada Bruta (DC) do Estado de Sergipe correspondia a 48,54% da Receita Corrente Líquida em 2021 (gráfico 13 do Anexo
+1), o que permitiu que Sergipe alcançasse a classificação A na CAPAG. Apesar disto, o perfil da dívida não é o mais adequado, com
+alguns contratos domésticos apresentando elevados custos de financiamento e prazos relativamente curtos.
+
+O momento macroeconômico é favorável à reestruturação de dívidas em real (R$) devido à política monetária mais restritiva e
+consequente aumento da taxa Selic (gráfico 14 do Anexo 1).
+
+Por isto, o Governo do Estado pretende melhorar o perfil da dívida pública, por meio de operação de reestruturação e recomposição de
+principal de dívida estadual contraída com credores nacionais (Banco do Brasil S.A. - BB, Caixa Econômica Federal - CAIXA, Banco de
+Brasília S.A. - BRB e Banco Nacional de Desenvolvimento Econômico e Social - BNDES), de modo a assumir novo compromisso de linha
+de crédito com BIRD, em condições financeiras vantajosas para o Estado e atingir melhor patamar de endividamento (tabela 4 do Anexo 1
+). Por ser um organismo internacional, a escolha pelo Banco Mundial deve-se às condições mais favoráveis se comparadas àquelas
+apresentadas por outras instituições financeiras privadas, com redução tanto do custo, como do alongamento dos prazos de pagamento
+das operações de crédito selecionadas. Ainda que os outros organismos multilaterais financiadores adotem o mesmo indicador de custo (
+taxa SOFR), o diferencial do BIRD foi também apresentar alinhamento com estratégia de parceria em três áreas principais: consolidação
+fiscal e eficácia de governo; investimento e produtividade do setor privado; e desenvolvimento equitativo e sustentável. Com foco na
+consolidação fiscal, o Estado de Sergipe busca, portanto, conquistar a prosperidade compartilhada de forma ambientalmente sustentável.
+
+A vantajosidade da operação de reestruturação da dívida pública estadual considera que o Estado de Sergipe irá utilizar os recursos
+recebidos da reestruturação, no valor de USD 120 milhões, para abater e/ou quitar as dívidas mencionadas na tabela 4 do Anexo I e
+destinam-se para o pagamento de principal da dívida, não sendo utilizada para financiamento de fluxo de dívida. A economia estimada
+com a reestruturação é superior a R$ 100 milhões em termos de Valor Presente Líquido (VPL), o que representa 25,4% do saldo devedor
+total das dívidas a serem reestruturadas (tabela 5 do Anexo 1). Isso é, portanto, inferior às dívidas a serem refinanciadas (tabela 5 do
+Anexo I). O cálculo não inclui taxa de compromisso (0,25%) no valor do empréstimo, devendo ser paga com recursos próprios, no
+montante de USD 257.709,42.
+
+O novo empréstimo permitirá suavizar os pagamentos da dívida pública ao longo dos exercícios, contribuindo com a programação
+financeira do Estado. O alongamento da nova operação de crédito com BIRD atinge 19 anos, 3,3% da dívida vence em menos de 30 dias,
+enquanto o percentual da dívida vencendo em menos de 5 anos é de 28,1% contra 70,7% dos contratos selecionados. Em suma, a queda
+no serviço da dívida abre espaço fiscal para outros investimentos (gráfico 17 do Anexo 1).
+
+2.11. PROJETO/BENEFICIÁRIO
+
+A proposta não está direcionada a um público-alvo, em particular. A proposta é abranger a sociedade sergipana como um todo,
+equivalente à população de 2,21 milhões de habitantes em 2022 (gráfico 1 do Anexo I), recuperando o equilíbrio fiscal do Estado.
+Adicionalmente, pretende-se alcançar as seguintes áreas estratégicas:
+
+1) promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação: O Programa prevê legislação para reforçar e
+institucionalizar regras estatais para mitigação e adaptação à mudança climática. Isso inclui aprimorar os processos de licenciamento
+ambiental, monitoramento e fiscalização dos biomas e aumentar a área de conservação ambiental representado pela extensão, em
+hectares, de florestas nativas no Estado.
+
+2) eficiência energética, geração e/ou uso de energia de fontes renováveis: A partir de normativos legais e infralegais, pretende-se
+transformar o setor público sergipano em exemplo de sustentabilidade e eficiência para a sociedade, promovendo construções
+sustentáveis e redução de emissões, fomentando boas práticas de gestão e induzindo o mercado à produção e consumo sustentáveis. As
+medidas de eficiência energética em edificações públicas terão caráter de replicabilidade, capacitação de áreas técnicas, gestão da
+energia elétrica e compras eficientes.
+
+3) implantação e/ou ampliação de ações de saneamento básico: Apenas 20 dos 75 municípios no Estado de Sergipe possuem algum tipo
+de coleta de esgoto. Em 2019, 29% da população sergipana não tinham acesso de água por rede geral e 58% não tinham esgotamento
+sanitário por rede coletora ou pluvial. Ao permitir concessão de serviços de saneamento, a estimativa ao longo de 35 anos é ampliar o
+atendimento com serviços de abastecimento de água, atendendo a 99% da população urbana e povoados, e de esgotamento sanitário, a
+90% da população, até o ano de 2033.
+
+4) gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes: A área mais vulnerável à
+mudança de clima, do ponto de vista social, é a região semiárida no interior do Nordeste. A redução da pluviometria nessa região, o
+aumento da temperatura e a consequente diminuição da vazão de importantes rios, como o São Francisco, e, provavelmente, do volume
+de água armazenado nos reservatórios regionais terá grande impacto na segurança hídrica regional. Sugere-se instituir medidas de
+adaptação e de fortalecimento da resiliência a riscos de clima e de desastres, de modo a fortalecer os projetos de infraestrutura públicos e
+proteger as comunidades dos impactos das mudanças climáticas.
+
+5) conservação e manejo da biodiversidade e/ou de recursos florestais: O Programa prevê legislação para reforçar e institucionalizar
+regras estatais para aprimorar os processos de licenciamento ambiental, monitoramento e fiscalização dos biomas, inclusive das florestas
+nativas do Estado.
+
+6) geração de emprego e renda para populações de baixa renda e vulneráveis: Por meio da consolidação fiscal e consequente
+crescimento da atividade econômica, o Programa visa a criação de empregos e redução da pobreza, o que diminui a situação de
+vulnerabilidade socioeconômica.
+
+
+Página: 12
+
+7) ações de inclusão de minorias sociais entre os beneficiários: O Estado de Sergipe possui mais de 25 mil hectares de área total de
+manguezal, distribuídos em quatro regiões: Baixo São Francisco (2911,07 ha), Sul Sergipano (8.342,23 ha), Grande Aracaju (13325,46 ha)
+e Leste Sergipano (291,31 ha). Baseado nas experiências de Fiji e Papua Nova Guiné, pretende-se empreender políticas de conservação
+ambiental baseadas na comunidade e na educação para manejar áreas úmidas de manguezais, apoiando o desenvolvimento das
+comunidades que dependem desses ecossistemas para suas casas e meios de vida.
+
+8) melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão e/ou de participação cidadã: Dentre as ações de
+eficiência energética, algumas são meramente de gestão, como sensibilização dos gestores para a adoção de práticas de eficiência
+energética; identificação da situação do sistema de condicionamento de ar e de iluminação, incluindo estado de conservação;
+levantamento do consumo energético mensal, por meio das contas de energia elétrica fornecidas pela concessionária de energia.
+
+9) melhoria das condições de educação e saúde: A universalização dos serviços públicos visa o acesso da população à coleta e ao
+tratamento de esgoto. Seus impactos na higiene da população têm reflexos diretos na saúde. Ampliar o acesso a esse sistema, portanto,
+resulta em melhorias nas taxas médias de internações pelas doenças causadas pela falta de saneamento básico e, portanto, reduz
+também o consumo em serviços de saúde.
+
+10) arranjos de financiamento que incentivem/contribuam com a participação privada: Política para energia limpa e transformação
+energética no Estado, com vistas a sinalizar o interesse do Estado de Sergipe em mais investimento privado para geração de energia
+eólica e solar.
+
+11) melhoria do ambiente de negócios e/ou oportunidades: A geração de energia limpa abre novas oportunidades de negócios, melhora a
+qualidade de vida da população em geral, reduz significativamente a desigualdade social, conserva a biodiversidade e os recursos
+naturais. Dentre os ganhos esperados com a economia verde é o aumento da produtividade, resultado da maior eficiência na utilização
+dos insumos e recursos e otimização do consumo de energia. É uma mudança de paradigma que acarreta equilíbrio ambiental,
+oportunidades de inovação, surgimento de novos mercados e profissões, fortalecimento da confiança dos investidores, fornecedores e
+consumidores e maior estabilidade econômica.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Externas
+
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+Total:
+
+Sigla
+
+BIRD
+
+Moeda
+
+Valor Proposto
+
+US$
+
+120.000.000,00
+
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+120.000.000,00
+
+120.000.000,00
+
+120.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+(i) Arranjo institucional
+
+O BIRD liberará recursos para a quitação da dívida com os credores nacionais (BB, CAIXA, BRB e BNDES), referente aos contratos
+assinalados no Anexo I na seção "Melhorar o perfil da dívida pública - reestruturação da dívida". A UNIÃO, por meio da Secretaria do
+Tesouro Nacional - STN, atual garantidora da operação com os credores nacionais, passará a ser garantidora da nova operação. A
+verificação da implantação das contrapartidas (não financeiras) pelo Estado de Sergipe ficará a cargo do BIRD.
+
+As dívidas a serem refinanciadas (tabela 4 do Anexo I) não são garantidas pela União.
+
+A implantação das contrapartidas (não financeiras) é anterior ao desembolso programado vinculado à operação de crédito, por se tratar de
+uma linha de crédito mais flexível a empréstimos para políticas de desenvolvimento - DPL no âmbito do Banco Mundial (BIRD).
+
+O executor do "Programa Sergipe Mais Próspero e Sustentável" será a Secretaria de Estado da Fazenda, responsável pela gestão da
+dívida pública estadual. Sua equipe técnica tem como objetivo prover e gerir os recursos públicos que viabilizam a gestão do Governo
+estadual, com transparência, isenção e tempestividade, necessárias para o desenvolvimento econômico do Estado. Sua participação ativa
+envolve também acompanhamento da execução orçamentário-financeira.
+
+No processo de elaboração da legislação, a atuação estratégica da Secretaria de Estado da Casa Civil é fundamental para permitir maior
+alcance das ações subsidiárias relacionadas aos dois pilares fundamentais, por parte das instituições do Estado de Sergipe, assessorando
+e articulando os melhores parceiros institucionais para a consecução das atividades, além de intermediar as discussões entre todos os
+atores envolvidos para dar celeridade à execução do programa e mitigar riscos.
+
+
+Página: 13
+
+Além disso, a Sefaz e a Casa Civil serão apoiadas pelos órgãos e entidades estaduais para a formulação das políticas públicas delineadas
+no Programa.
+
+As instituições estaduais responsáveis pela implantação do projeto são:
+
+- Pilar 1: Reforçando a sustentabilidade fiscal a médio prazo: Secretaria de Estado da Fazenda, com suporte técnico da Secretaria de
+Estado da Administração.
+
+- Pilar 2: Promovendo crescimento com sustentabilidade ambiental: Secretaria de Estado da Casa Civil, com apoio técnico da Secretaria
+de Estado do Meio Ambiente, Sustentabilidade e Ações Climáticas e da Defesa Civil relacionada à Secretaria de Estado da Segurança
+Pública.
+
+Em todas as etapas do Programa, a Procuradoria-Geral do Estado - PGE participará ativamente mediante a essencial análise jurídica da
+legislação que se propõe.
+
+(ii) Matriz de Responsabilidade encontra-se discriminada no Anexo II.
+
+(iii) Estrutura operacional: Não se aplica.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Governo do Estado de Sergipe
+
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+Executor: Secretaria de Estado da Fazenda de Sergipe
+
+Representante Oficial: Sarah Tarsila Araújo Andreozzi
+
+Endereço da Sede: Av. 31 de Março - Capucho, Aracaju - SE
+E-mail Institucional:
+
+Telefone: (79) 3216-7358/7235
+CNPJ: 131287980001 01
+
+Fax:
+UF:
+
+Fax:
+UF:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 1 Ano
+
+
+### 4.4. Execução/Cronograma
+
+
+COMPONENTES
+
+C - RESTRUTURAÇÃO E RECOMPOSIÇÃO DE PRINCIPAL DA DIVIDA EXTERNA
+S - REDUÇÃO DOS CUSTOS E ALONGAMENTO DA DÍVIDA EXTERNA
+P - Principal da Dívida Externa Reestruturado e Recomposto
+C - SUSTENTABILIDADE DA POLÍTICA FISCAL
+S - SITUAÇÃO FISCAL EQUILIBRADA
+P - ADOÇÃO DE ESTRUTURA FISCAL DE MÉDIO PRAZO
+P - CONTROLE DAS DESPESAS COM PESSOAL
+P - MELHORIA DA GESTÃO PATRIMONIAL DO ESTADO
+P - EXPANSÃO DAS RECEITAS
+C - SUSTENTABILIDADE AMBIENTAL
+S - MUDANÇAS CLIMÁTICAS
+P - PREVENÇÃO A RISCOS CLIMÁTICOS E DESASTRES
+P - MITIGAÇÃO E ADAPTAÇÃO CLIMÁTICA
+S - ENERGIA
+P - ENERGIA LIMPA
+P - EFICIÊNCIA ENERGÉTICA
+S - SANEAMENTO BÁSICO
+P - CONCESSÃO DE SERVIÇOS DE SANEAMENTO
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+(i) Atos legais necessários:
+
+VALOR
+
+CUSTO
+120.000.000,00
+120.000.000,00
+120.000.000,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+120.000.000,00
+
+Ano 1
+
+FONTES
+
+BIRD
+120.000.000,00
+120.000.000,00
+120.000.000,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+120.000.000,00
+
+TOTAL
+
+BIRD
+120.000.000,00
+120.000.000,00
+120.000.000,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+120.000.000,00
+
+Publicação de atos legais e infralegais que definam e regulamentem o alcance, os requisitos e as especificidades da contrapartida (não
+financeira) do Programa. Atualmente, encontra-se em fase prévia de elaboração desses normativos.
+
+(cid:10)
+
+
+Página: 14
+
+Para tanto, faz-se necessária a elaboração e a aprovação de lei autorizativa para contratação da operação de crédito, que depende de
+autorização da Assembleia Legislativa do Estado de Sergipe. Por ser uma operação de crédito externa, inclui-se também a exigência legal
+federal de sua aprovação no Senado Federal. Esta demanda será realizada em tempo hábil e respeitando os preceitos legais e temporais
+para formalização da contratação. Tal risco é mitigado, tendo em vista que o Governo possui maioria parlamentar naquela Casa.
+
+As etapas de análise, negociação e assinatura junto à COFIEX e ao Governo Federal são objeto de tratativas conduzidas de forma
+conjunta entre o Governo do Estado de Sergipe, por meio da Secretaria de Estado da Fazenda, e o organismo multilateral.
+
+Outro risco a ser considerado é a desvalorização cambial da moeda estrangeira, em USD. A taxa de juros é contrapeso ao risco cambial
+por conta da conjuntura econômica.
+
+(ii) Riscos:
+
+A não publicação dos atos legais e infralegais que se propõem no Programa pode implicar na impossibilidade de acesso ao empréstimo
+para políticas de desenvolvimento - DPL, no âmbito do Banco Mundial (BIRD), uma vez que a implantação das contrapartidas (não
+financeiras) é etapa anterior ao desembolso programado vinculado à operação de crédito.
+
+(ii.1) Riscos/Contratações (não foi possível, no sistema sigs, incluir no tópico correto):
+
+Um ponto positivo é que o Programa não envolve contratações, com ou sem processos de licitação. Demanda-se mais das etapas de
+elaboração da legislação e de articulação política para aprovação legislativa.
+
+(ii.2) Riscos/Impacto Social (não foi possível, no sistema sigs, incluir no tópico correto):
+
+Maior vulnerabilidade socioeconômica e a dolorosa fragilidade humana frente às mudanças climáticas são mais percebidas na região
+semiárida no interior de Sergipe. O crescimento da pobreza e do desemprego reforça a necessidade de se criar uma rede de proteção
+para a população de mais baixa renda, que demanda mais serviços públicos, em especial, saúde e educação. Sergipe é o quinto Estado
+brasileiro com maior número de famílias pobres e possui 52,7% da população em situação de pobreza (rendimento domiciliar até ½ salário
+-mínimo per capita) (gráfico 10 do Anexo I) e 13,6% da população na extrema pobreza (R$ 168 mensais per capita) (gráfico 11 do Anexo I)
+. O grande risco de não implantar as medidas sugeridas é prejudicar ainda mais a camada da população vulnerável.
+
+Outro risco social possível refere-se à percepção que diferentes segmentos socioeconômicos têm de questões fiscais. A falta de sintonia
+entre o que o cidadão espera e está disposto a contribuir com aquilo que o governo oferece e exige em tributos. Ou mesmo a demanda
+reprimida e o consumo desenfreado dos jovens frente à aposentadoria dos mais velhos. Por isso, é plausível considerar que a legislação
+proposta possa gerar incômodos a princípio. Implantar programas de educação fiscal é uma alternativa que possibilita à sociedade
+conhecer o Estado e sua estrutura, a função socioeconômica dos tributos, o valor da arrecadação tributária, além de incentivar o
+acompanhamento da aplicação dos recursos arrecadados, e a dinâmica do gasto público. Eficiente articulação (política e social) por parte
+do governo é outra possibilidade que pode mitigar as falhas de comunicação com a sociedade.
+
+Nesse sentido, a prioridade governamental é a retomada do crescimento - para gerar produto, emprego, renda e impostos - e, a partir do
+aumento do Produto Interno Bruto (PIB) e da geração de empregos, reduzir progressivamente o quadro de miséria, pobreza e desemprego
+do Estado de Sergipe.
+
+(iii) Ações mitigadoras:
+
+Preparação das minutas dos atos legais e infralegais, bem como sua submissão à Procuradoria-Geral do Estado, deixando-as pendentes
+apenas da concordância do Governador.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+(i) Situação de licenciamentos/autorizações requeridos
+
+Um dos projetos do Pilar 2 refere-se à elaboração de legislação para promover a simplificação e a celeridade na análise dos processos de
+licenciamento ambiental, tornando o trâmite processual ágil, transparente e moderno. Ou seja, ainda que a situação de licenciamentos
+seja morosa ou inexistente, é objetivo do Programa
+
+(ii) Principais riscos ambientais decorrentes da implantação do Programa
+
+O Pilar 2 do conjunto de medidas adicionais do Programa Sergipe Mais Próspero e Sustentável está fundamentado em compromissos
+vinculados ao crescimento da atividade econômica, com enfoque na sustentabilidade ambiental e climática do Estado, por meio da energia
+renovável e do uso sustentável dos recursos hídricos.
+
+(iii) Experiência do órgão executor com políticas/salvaguardas ambientais do agente financeiro
+
+
+Página: 15
+
+As Salvaguardas Ambientais e Sociais englobam valores centrais da instituição e visam garantir que as intervenções apoiadas pelo Banco
+tenham impacto social e ambiental positivo, assegurando a promoção do desenvolvimento de forma sustentável em todos os países onde
+atua.
+
+É a primeira vez que os órgãos executores do Estado de Sergipe terão a oportunidade de atuar com enfoque reforçado à gestão de riscos
+ambientais. Ainda assim, o Estado encontra-se alinhado à promoção da abordagem de desenvolvimento verde, resiliente e inclusivo, com
+objetivo de buscar a erradicação da pobreza e a prosperidade compartilhada com uma lente de sustentabilidade.
+
+(iv) Riscos
+
+As políticas públicas propostas no Programa serão realizadas em conformidade com a legislação ambiental vigente no âmbito federal,
+estadual e municipal. O objetivo do Programa é trazer maior segurança ao arcabouço estatal frente aos potenciais impactos ambientais e
+climáticos.
+
+São riscos:
+
+- Não cumprimento de prazos;
+
+- Não publicação de atos legais e infralegais;
+
+- Dificuldade na mensuração dos indicadores relacionados à política ambiental (Pilar 2);
+
+- Inviabilidade do projeto estadual de concessão à política federal de prestação regionalizada dos serviços públicos de saneamento básico
+(Decreto nº 11.467/2023);
+
+(v) Ações mitigadoras
+
+- Estabelecimento de prazos factíveis;
+
+- Preparação das minutas dos atos legais e infralegais, bem como sua submissão à Procuradoria-Geral do Estado, deixando-as pendentes
+apenas da concordância do Governador;
+
+- Construção de indicadores relacionados à política ambiental;
+
+- Avaliação jurídica de temas específicos pela Procuradoria-Geral do Estado.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN

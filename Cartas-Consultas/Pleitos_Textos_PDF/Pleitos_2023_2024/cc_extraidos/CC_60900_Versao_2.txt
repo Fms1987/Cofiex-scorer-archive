@@ -1,0 +1,2293 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+PROGRAMA DE DESENVOLVIMENTO DOS TERRITÓRIOS SERGIPANOS MAIS SERGIPE
+Nº Carta Consulta: 60900
+Processo: 12120.100422/2022-11
+Mutuário: Estado de Sergipe
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  7 de Julho de 2022
+Fontes Internas:
+Contrapartida Financeira: US$ 19.600.000,00
+Fontes Externas:
+New Development Bank - NDB: US$ 78.400.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+03
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 04
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 04
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 04
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 04
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 06
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 16
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 18
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 18
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 19
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 20
+3. FINANCIAMENTO .......................................................................................................................................................................................... 20
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 20
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 20
+4. EXECUÇÃO ...................................................................................................................................................................................................
+20
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 20
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 21
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 21
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 21
+5. RISCOS .......................................................................................................................................................................................................... 24
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 24
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 25
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 25
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 25
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 26
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 26
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+26
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+Sergipe possui 75 municípios e 2.338.474 habitantes. (IDH: 0,665 - 20ª posição nacional e 4ª Nordeste). Em 2019, o PIB de Sergipe foi de
+R$ 44,69 bilhões, o equivalente a 4% do Nordestino e 0,6% do país.
+Os municípios sergipanos estão distribuídos em 8 Territórios de Planejamento, considerando características geográficas e sociais: Alto
+Sertão Sergipano, Agreste Central Sergipano, Médio Sertão Sergipano, Baixo São Francisco, Grande Aracaju, Sul Sergipano, Leste
+Sergipano e Centro Sul Sergipano. Os municípios que compõem cada território são indicados no Mapa dos Territórios de Sergipe,
+documento anexo. Esses territórios refletem desigualdades estruturais do estado, onde somente Aracaju possui IDH alto, concentrando
+também o PIB estadual (45%). 
+Ademais, outros dados que refletem essas desigualdades dizem respeito à situação de insegurança hídrica e a falta de acesso a serviços
+básicos de saneamento que atingem duramente as regiões do interior do estado. O estado de Sergipe possui 23 municípios localizados na
+região do semiárido. A região do semiárido é caracterizada pelo clima seco, com poucas chuvas, elevada evapotranspiração e elevados
+riscos de desertificação. Essa característica impacta significativamente no desenvolvimento desses municípios, a saber, o Território
+Sergipano de menor IDH, o Alto Sertão, está totalmente inserido nesta região.
+Em Sergipe, 25,29% dos domicílios estão localizados na área rural, dos quais apenas 49,7% dos domicílios rurais recebem água através
+da rede geral de abastecimento, ou seja, metade dos domicílios rurais utilizam soluções alternativas para suprir essa necessidade básica
+e ficando expostos aos períodos de estiagem, prolongados no semiárido sergipano, deixando milhares de famílias em situação de
+vulnerabilidade e de insegurança hídrica. Além disso, 88,5% dos domicílios situados na zona rural não possuem acesso a soluções
+adequadas de esgotamento sanitário.
+Também vale destacar que grande parte das estradas rurais não são pavimentadas, apresentando uma condição de trafegabilidade
+desfavorável, restringindo o deslocamento de pessoas, o transporte de cargas, o transporte escolar e o acesso aos serviços públicos pela
+população. Além do mais, não possuem drenagem das águas pluviais, deixando muitas regiões inacessíveis em períodos de chuvas
+intensas. 
+Um dos setores econômicos que também ilustra a concentração do desenvolvimento estadual em volta da capital Aracaju é o turismo.
+Embora o estado tenha 44 cidades inseridas no Mapa do Turismo Brasileiro, apenas Aracaju tem atividade turística consolidada. As
+demais apresentam apenas atividade incipiente ou potencial, necessitando de infraestrutura para o seu desenvolvimento. Embora
+represente apenas 3,2% do PIB do Estado, o setor emprega mais de 13 mil pessoas e tem grande potencial gerador de renda e de
+empregos.
+Outro ponto crucial que impacta diretamente na interiorização do desenvolvimento é a integração municipal. Nesse sentido, um problema
+observado é a péssima condição das rodovias estaduais. Atualmente, 74,3% das rodovias pavimentadas no domínio do Estado possuem
+estado geral de conservação péssimo, ruim ou regular, dificultando o acesso a da população a serviços, inclusive transporte escolar e
+mercados, o escoamento da produção, bem como diminuindo a competitividade da indústria e o desenvolvimento de atividades turísticas
+nos municípios do interior. 
+Além da interconexão física que favorece a integração municipal, destaca-se também a comunicação de dados. Em regiões do interior, o
+acesso à internet é precário ou inexistente, gerando barreiras ao desenvolvimento de negócios, serviços e acesso a informações, inclusive
+ para aprimorar serviços educacionais e de saúde. Ademais, acesso em banda larga é ferramenta fundamental para inovação.
+Esse é o conjunto de problemas que este Programa se propõe a enfrentar, visto que está clara a configuração socioespacial do
+desenvolvimento desigual e combinado, em que os municípios de territórios inseridos no interior do estado, em especial no semiárido,
+apresentam indicadores piores que aqueles inseridos no território da Grande Aracaju. Nesse sentido, é preciso implementar políticas
+públicas voltadas para a interiorização do desenvolvimento sustentável, com melhoria na infraestrutura social e produtiva e na qualidade
+de vida desta população.
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+i) Solução proposta: A solução proposta busca a interiorização dos investimentos estaduais através da realização de importantes ações
+que irão contribuir para o desenvolvimento socioeconômico dos municípios do interior sergipano. Nesse sentido, a proposta foi estruturada
+em 03 eixos temáticos: Saneamento Rural e Segurança Hídrica, Incentivo aos Setores Produtivos e Desenvolvimento Social e Urbano.
+Trata-se de intervenções que irão contribuir para a redução dos problemas públicos apontados no tópico anterior e para alcançar o
+objetivo de redução das desigualdades territoriais, com grande impacto na escala local e regional, gerando benefícios diretos para as
+populações dos municípios.
+SANEAMENTO RURAL E SEGURANÇA HÍDRICA
+Para mitigar o problema da insegurança hídrica e da falta de acesso a serviços básicos de saneamento que atingem grande parte das
+comunidades rurais do interior Sergipe, o Programa propõe uma série de ações:
+- Implantação de solução conjunta de saneamento rural: sistemas simplificados de abastecimento de água + sistemas sanitários +
+pavimentação em comunidades rurais que não são atendidas pela rede geral de abastecimento de água e que não possuem acesso a
+soluções adequadas de esgotamento sanitário. Espera-se reduzir a insalubridade observada no dia-a-dia dessas famílias, reduzir a
+contaminação e mortes por doenças de veiculação hídrica, minimizar os impactos ambientais resultantes dos efluentes não tratados,
+melhorar a produtividade dos trabalhadores e o aproveitamento escolar de crianças e jovens e melhorar o acesso a essas comunidades.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 3
+- Investimento em segurança de barragens: o Programa irá realizar intervenções nas principais barragens do Estado, essenciais para o
+abastecimento de água para consumo humano e para a atividade produtiva. Espera-se garantir a plena operacionalização dessas
+barragens, o atendimento a todas as normas de segurança, bem como avaliar a possibilidade de aumentar a capacidade dessas
+barragens.
+- Ações para mitigar os efeitos da insegurança hídrica vivenciada por pequenos produtores rurais e para fortalecer, principalmente, região
+do semiárido sergipano, que concentra boa parte da atividade agropecuária do estado: 1) melhoria da infraestrutura dos perímetros
+irrigados gerenciados pela Cohidro, visando o pleno funcionamento desses equipamentos, a correção de patologias existentes nas
+estruturas e a modernização tecnológica; 2) realização de obras de recuperação e ampliação de aguadas (reservatórios naturais de água)
+essenciais para a criação de rebanhos e para pequenos cultivos agrícolas, que são fonte de subsistência para pequenos produtores rurais.
+INCENTIVO AO SETORES PRODUTIVOS
+Buscando incentivar todos os setores da economia dos territórios sergipanos, bem como impulsionar o desenvolvimento socioeconômico
+local e regional, serão realizados investimentos em infraestrutura logística. Para tanto, serão realizadas obras de reestruturação da malha
+viária estadual, com o objetivo de ampliar a integração intermunicipal e proporcionar maior segurança e celeridade no deslocamento de
+pessoas e cargas. Além de ampliar a interconexão física, o Programa irá expandir a comunicação de dados para os municípios do interior,
+com a implantação da Rede Estadual de Banda Larga. Com esse projeto, que será um marco para a universalização do acesso à internet,
+espera-se levar modernização tecnológica a todos os municípios, melhorar os serviços prestados à população, ampliar o uso de recursos
+digitais por empresas, incrementar a produtividade e a competitividade e fomentar a geração de emprego e renda.
+Ademais, um dos setores econômicos que tem grande capacidade de fortalecer o desenvolvimento socioeconômico é o turismo. Nesse
+sentido, as orlas de municípios com potencial turístico serão revitalizadas e terão sua infraestrutura melhorada. Com isso, espera-se
+ampliar o leque de destinos turísticos e expandir a atividade turística em Sergipe, aumentando o fluxo de turistas nos municípios do interior
+, a geração de emprego formal e informal e de renda.
+DESENVOLVIMENTO SOCIAL E URBANO
+Através deste eixo, o Programa irá interiorizar os investimentos em infraestrutura esportiva e de lazer com o objetivo de incentivar o
+desenvolvimento social nos municípios do interior sergipano. Serão construídos três tipos de equipamentos: areninhas, brinquedopraças e
+complexos esportivos. Com isso, espera-se contribuir para a melhoria de indicadores de saúde, educação e desenvolvimento humano, e
+para o desenvolvimento do núcleo urbano nos arredores dos locais onde serão implantados, movimentando também a economia local.
+ii) Resultados esperados: Com a implementação deste Programa espera-se impulsionar o desenvolvimento socioeconômico dos
+municípios do interior sergipano, aumentar a participação desses municípios na economia do Estado, melhorar a qualidade de vida da
+população, proporcionar a inclusão pela renda, mitigar a situação de insegurança hídrica vivenciada principalmente na região do semiárido
+, oferecer à população mais vulnerável serviços básicos de saneamento,  estimular o desenvolvimento de núcleos urbanos, ampliar a
+integração intermunicipal através da melhoria da interconexão física e da expansão da comunicação de dados, aprimorar a prestação de
+serviços públicos, melhorar o ambiente de negócios, criar oportunidades e gerar emprego e renda.
+iii) Sustentabilidade: Todos os projetos aqui propostos se enquadram como políticas de estado essenciais que buscam proporcionar à
+população acesso a serviços e à infraestrutura básica necessária para o bom desenvolvimento das atividades socioeconômicas e para a
+melhoria da qualidade de vida. Portanto, não são demandas de caráter transitório e sim necessidades básicas e perenes da sociedade.
+A gestão e a manutenção dos equipamentos previstos no eixo 3, das orlas municipais, bem como dos sistemas simplificados de
+abastecimento de água será de competência de cada município a partir da formalização de instrumentos jurídicos específicos entre o
+Governo do Estado e as Prefeituras, que definirão os termos de uso desses equipamentos bem como as responsabilidades das partes
+envolvidas. (maior detalhamento na descrição dos componentes)
+A operação e manutenção dos perímetros irrigados é de responsabilidade da Cohidro, que realiza essas atividades de forma cotidiana. Já
+para a implantação da Rede Estadual de Banda Larga, está previsto o modelo híbrido, com o investimento inicial do governo, porém
+utilizando parcerias com o setor privado para operação e manutenção da rede.
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+As ações do Programa pretendido estão em consonância com as orientações estratégicas trazidas pelos instrumentos de planejamento
+governamental de Sergipe, em especial pelo Plano Plurianual (PPA) 2020-2023, instituído pela Lei nº 8.645/2020, e pelo Plano Estratégico
+ do Governo do Estado (PE) 2019-2022. 
+O programa se alinha diretamente com a missão do Estado, apresentada pelo PPA 2020-2023 e pelo PE 2019-2022, que é:  Trabalhar
+para que Sergipe volte a crescer, por meio do saneamento das finanças públicas, garantindo serviços públicos de qualidade e
+impulsionando o desenvolvimento socioeconômico em todo o estado. Com isso, observa-se que levar o desenvolvimento socioeconômico
+para todo o estado, assim como garantir de serviços públicos de qualidade, são forças motrizes para Sergipe, em concordância com o
+propósito do Programa de Desenvolvimento dos Territórios pretendido.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 4
+Além disso, todos os componentes propostos convergem diretamente com os objetivos estratégicos definidos pelo PPA 2020-2023 e pelo
+PE 2019-2022, dentre os quais se destacam: OE6 - desenvolver e implementar políticas voltadas para a cultura, o esporte, o lazer e a
+juventude, buscando a valorização e a democratização dessas políticas; OE7 - retomar o desenvolvimento econômico por meio da
+implantação do complexo portuário industrial, do fortalecimento das cadeias produtivas de recursos naturais, da ciência e tecnologia e do
+turismo; OE9 - aprimorar a gestão dos recursos hídricos, concentrando-se em ações de segurança hídrica e de convivência com a seca,
+bem como fortalecer a gestão ambiental sustentável; OE10 - melhorar o abastecimento de água e ampliar o esgotamento sanitário; e
+OE11 - reconstruir, conservar e ampliar a malha viária. 
+O Programa também se mostra alinhado aos Objetivos de Desenvolvimento Sustentável (ODS), que compõem a Agenda 2030 da
+Organização das Nações Unidas e orientam a formulação de políticas públicas em Sergipe, dentre os quais se destacam: ODS 3 - saúde e
+bem estar; ODS 6 - água potável e saneamento; ODS 8 - trabalho decente e crescimento econômico; ODS 9 - indústria, inovação e
+infraestrutura; ODS 10 - redução das desigualdades; e ODS 11 - cidades e comunidades sustentáveis. 
+O valor total do projeto é de US$ 98.000.000,00, dos quais US$ 19.600.000,00 são de contrapartida estadual, o que equivale a 20% do
+custo total, em conformidade com o disposto na Resolução COFIEX nº 3 de 29/05/2019. Ademais, não há relação entre a contrapartida
+proposta neste Programa com os financiamentos nacionais recentemente contratados pelo Estado de Sergipe.
+A moeda do contrato deverá ser o Dólar Americano. A proporção adotada nesta proposta é de US$ 1,00 = R$ 4,917, cotada em 19/05/
+2022. 
+A presente solicitação se trata de uma operação de crédito externo junto ao NDB, organismo multilateral de financiamento ao
+desenvolvimento, escolhido após constatar a vantajosidade das taxas oferecidas pelo NDB em relação aos outros órgãos financiadores,
+conforme detalhado no item 2.10.
+2. Projeto
+2.1. Título
+PROGRAMA DE DESENVOLVIMENTO DOS TERRITÓRIOS SERGIPANOS MAIS SERGIPE
+2.2. Título Abreviado
+Mais Sergipe
+2.3. Mutuário
+Estado de Sergipe
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+Objetivo Geral
+Promover o desenvolvimento territorial sustentável do estado de Sergipe, interiorizando os investimentos em infraestrutura social e
+produtiva e incrementando a renda interna e a qualidade de vida da população sergipana
+Objetivos Específicos
+1.Implantar 200 sistemas simplificados de abastecimento de água em comunidades rurais distribuídas em 32 municípios do interior
+sergipano que não são atendidas pela rede geral de abastecimento de água
+2.Implantar 4000 sistemas sanitários em comunidades rurais distribuídas em 32 municípios do interior sergipano que não possuem acesso
+ a soluções adequadas de esgotamento sanitário
+3. Pavimentar 100 km de vias públicas em comunidades rurais distribuídas em 32 municípios do interior sergipano, com o objetivo de
+melhorar o tráfego e o acesso a essas localidades, principalmente em períodos de chuvas intensas
+4. Recuperar e ampliar 1.300 aguadas nos 23 municípios do semiárido sergipano, objetivando a segurança hídrica para os pequenos
+produtores rurais
+5.Recuperar infraestrutura dos Perímetros Irrigados Califórnia, no município de Canindé de São Francisco; Jabirebi, no município de
+Tobias Barreto; Jacarecica I, no município de Itabaiana; Jacarecica II, nos municípios de Malhador, Areia Branca e Riachuelo; Piauí, no
+município de Lagarto; e Poção da Ribeira, no município de Itabaiana, visando garantir a não interrupção e o pleno funcionamento dos
+sistemas de bombeamento de água nos perímetros, aproximadamente 13.900 pessoas
+6. Elaborar os Planos de Segurança das Barragens das barragens Jabiberi e Piauí.
+7. Recuperar e modernizar a infraestrutura física das Barragens Governador João Alves Filho, Jacarecica I, Jacarecica II, Jabiberi e Piauí.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 5
+8. Implantar o monitoramento por instrumentação geotécnica nas barragens dos reservatórios das barragens Jacarecica I, Jacarecica II,
+Governador João Alves Filho.
+9. Urbanizar 10 orlas marítimas/fluviais nos municípios do interior sergipano, objetivando aumentar o fluxo de turistas nos municípios do
+interior sergipano e incrementar a geração de emprego e renda. 
+10. Implantar a Rede Estadual de Banda Larga de Sergipe, com o objetivo de universalizar o acesso à internet em banda larga,
+alcançando 99,5% da população estadual
+11. Reestruturar 62,5 km de rodovias estaduais localizadas no território do Baixo São Francisco, com o intuito de melhorar o estado geral
+de conservação dessas rodovias e de incentivar o desenvolvimento da região 
+12. Construir 74 areninhas distribuídas em todos os municípios do interior do Estado, com o objetivo de incentivar a prática de esportes e
+promover a inclusão social.
+13. Construir 74 brinquedopraças distribuídas em todos os municípios do interior do Estado, com o objetivo de promover o
+desenvolvimento infantil de crianças na faixa etária de 0 a 6 anos
+14. Construir 08 complexos esportivos, sendo 01 em cada território, com o objetivo de incentivar a prática de esportes e promover a
+inclusão social.
+2.6. Projeto/Indicadores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 6
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Percentual de domicílios rurais sem acesso à
+solução adequada de esgotamento sanitário
+[quantidade de
+domicílios rurais sem
+acesso à solução
+adequada de
+esgotamento sanitário
+/quantidade de
+domicílios rurais] x
+100
+%
+88,50
+87,10
+Percentual de municípios atendidos pela Rede
+Estadual de Banda Larga
+[quantidade de
+municípios atendidos
+pela Rede Estadual
+de Banda Larga /
+quantidade de
+municípios sergipanos
+] x 100
+%
+5,30
+100,00
+Percentual de rodovias pavimentadas nos
+domínios do Estado com estado geral de
+conservação péssimo, ruim ou regular
+[(quilômetros de
+rodovias
+pavimentadas com
+estado geral de
+conservação péssimo,
+ruim ou regular) / (
+quilômetros de
+rodovias
+pavimentadas no
+domínio do Estado)] x
+100
+%
+74,30
+71,60
+Quantidade de barragens estaduais com Plano
+de Segurança de Barragens elaborado
+número de barragens
+com Plano de
+Segurança de
+Barragens concluído
+un
+4,00
+6,00
+Quantidade de aguadas recuperadas/ampliadas
+nos 23 municípios do semiárido sergipano
+Número de aguadas
+recuperadas/
+ampliadas nos 23
+municípios do
+semiárido sergipano
+UN
+1.805,00
+3.105,00
+Percentual de municípios do interior sergipano
+beneficiados com a implantação de areninhas
+[quantidade de
+municípios do interior
+sergipano
+beneficiados com a
+implantação de
+areninhas/número de
+municípios do interior
+sergipano]
+%
+0,00
+100,00
+Percentual de municípios do interior sergipano
+beneficiados com a implantação de
+brinquedopraças
+[quantidade de
+municípios do interior
+sergipano
+beneficiados com a
+implantação de
+brinquedopraças/
+número de municípios
+ do interior sergipano]
+%
+0,00
+100,00
+Percentual de territórios sergipanos beneficiados
+ com a implantação de complexos esportivos
+[quantidade de
+territórios sergipanos
+beneficiados com a
+implantação de
+complexos esportivos/
+quantidade de
+territórios sergipanos]
+%
+0,00
+100,00
+2.7. Projeto/Componentes
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 7
+Componentes
+Valor(US$)
+C - SANEAMENTO RURAL E SEGURANÇA HÍDRICA
+40.469.692,00
+   S - SOLUÇÃO CONJUNTA DE SANEAMENTO RURAL
+33.227.442,00
+      P - Implantação de Sistemas Simplificados de Abastecimento de Água
+2.033.760,00
+P - Implantação de sistemas sanitários nas localidades contempladas com sistemas simplificados de
+abastecimento de água
+8.948.546,00
+P - Pavimentação nas localidades contempladas com sistemas simplificados de abastecimento de água e
+sistemas sanitários
+22.245.136,00
+   S - SEGURANÇA DE BARRAGENS
+3.620.450,00
+      P - Estudos e projetos de Segurança de Barragens
+739.000,00
+      P - Obras de Segurança de Barragens 
+1.393.450,00
+      P - Serviços de Segurança de Barragens 
+1.488.000,00
+   S - PERÍMETROS IRRIGADOS
+2.034.800,00
+      P - Aquisições para melhoria na infraestrutura de Perímetros Irrigados 
+406.800,00
+      P - Execução de obras para melhoria na infraestrutura de Perímetros Irrigados
+1.628.000,00
+   S - RECUPERAÇÃO E AMPLIAÇÃO DE AGUADAS
+1.587.000,00
+      P - Recuperação/ampliação de aguadas de pequeno e médio porte 
+1.587.000,00
+C - INCENTIVO AOS SETORES PRODUTIVOS
+30.837.000,00
+   S - INFRAESTRUTURA TURÍSTICA
+6.102.000,00
+      P - Urbanização e implantação/recuperação de infraestrutura de orlas marítimas e fluviais
+6.102.000,00
+   S - INFOVIA DIGITAL
+8.135.000,00
+      P - Implantação da Rede Estadual de Banda Larga de Sergipe 
+8.135.000,00
+   S - MALHA VIÁRIA
+16.600.000,00
+      P - Reestruturação das rodovias estaduais 
+16.600.000,00
+C - DESENVOLVIMENTO SOCIAL E URBANO
+23.693.308,00
+   S - ARENINHAS
+7.524.913,00
+      P - Construção de areninhas 
+7.524.913,00
+   S - PRAÇAS DA PRIMEIRA INFÂNCIA (BRINQUEDOPRAÇAS)
+11.287.370,00
+      P - Implantação de praças da primeira infância (brinquedopraças)
+11.287.370,00
+   S - COMPLEXOS ESPORTIVOS
+4.881.025,00
+      P - Construção de complexos esportivos 
+4.881.025,00
+C - ADMINISTRAÇÃO DO PROGRAMA
+3.000.000,00
+   S - ADMINISTRAÇÃO DO PROGRAMA
+3.000.000,00
+      P - Gerenciamento do Programa 
+1.650.000,00
+      P - Supervisão de Obras 
+1.350.000,00
+Total dos Componentes
+98.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - SANEAMENTO RURAL E SEGURANÇA HÍDRICA
+Este componente visa oferecer à população residente em áreas rurais nos municípios do interior sergipano condições mínimas e
+essenciais de saneamento básico. São resultados esperados: redução da contaminação e mortes por doenças de veiculação
+hídrica, redução da poluição dos cursos d?água, contribuindo para a sustentabilidade ambiental e para a mitigação dos impactos
+ambientais resultantes de efluentes não tratados, redução do afastamento do trabalho e da escola em razão de problemas
+gastrointestinais, melhoria no aproveitamento escolar e na produtividade dos trabalhadores sergipanos. Além disso, este
+componente prevê intervenções voltadas para combater a insegurança hídrica na zona rural do Estado, principalmente na região
+do semiárido, a qual concentra boa parte da atividade agropecuária estadual. Um dos objetivos é garantir aos pequenos produtores
+rurais o acesso à água para produção agrícola e dessedentação animal. Serão executadas ações de segurança de barragens,
+aquisições e obras para melhoria da infraestrutura de perímetros irrigados e, também, obras de recuperação e ampliação de
+aguadas de médio e pequeno porte.  As intervenções estão distribuídas em 04 subcomponentes: (i) Implantação de solução
+conjunta de saneamento rural, (ii) Ações de segurança de barragens (iii) Melhoria na infraestrutura de perímetros irrigados, (iv)
+Recuperação e ampliação de aguadas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 8
+   S - SOLUÇÃO CONJUNTA DE SANEAMENTO RURAL
+Este subcomponente prevê a implantação de uma solução conjunta de saneamento rural nos municípios do interior do estado. As
+intervenções aqui previstas irão beneficiar diretamente 32 municípios e 4.000 domicílios rurais que sofrem com a falta de acesso à
+água de boa qualidade e a soluções adequadas de esgotamento sanitário, e com o tráfego através de ruas não pavimentadas.
+Nesse sentido, as intervenções serão implantadas da seguinte forma: 01 sistema simplificado de abastecimento de água + 20
+sistemas sanitários + 500m de pavimentação em cada localidade beneficiária de cada um dos 32 municípios pré-selecionados. As
+localidades serão definidas com base em visitas técnicas que serão realizadas pela Cohidro para verificar o enquadramento dos
+domicílios nas condições previstas neste Programa e com base em estudos de viabilidade que irão analisar tecnicamente as
+características do solo e formação rochosa da região. O quantitativo das soluções aqui propostas foi definido considerando a
+capacidade de execução da Cohidro. Para seleção dos municípios beneficiários, foi feita a análise de dados de saneamento nos
+domicílios rurais do censo demográfico do IBGE de 2010. Foram considerados os municípios que possuem percentual de
+domicílios rurais atendidos pela rede geral de abastecimento de água até 50% e percentual de domicílios rurais sem acesso a
+soluções adequadas de esgotamento sanitário acima de 70%.  A distribuição do quantitativo entre esses municípios foi feita de
+forma proporcional à quantidade de domicílios enquadrados nesta situação e considerando também que a implantação de 01
+sistema simplificado de abastecimento de água beneficia, em média, 20 domicílios. Outra consideração feita foi a pavimentação de
+500m de vias rurais nas localidades beneficiárias para cada conjunto implantado (01 sistema simplificado de abastecimento de
+água + 20 sistemas sanitários). As ações deste subcomponente estão distribuídas em 03 produtos: (i) Implantação de sistemas
+simplificados de abastecimento de água, (ii) Implantação de sistemas sanitários nas localidades contempladas com sistemas
+simplificados de abastecimento de água, (iii) Pavimentação nas localidades contempladas com sistemas simplificados de
+abastecimento de água e sistemas sanitários.
+      P - Implantação de Sistemas Simplificados de Abastecimento de Água
+Este produto prevê a implantação de sistemas simplificados de abastecimento de água como a melhor solução técnica alternativa
+de abastecimento de água para comunidades rurais dos municípios do interior sergipano que não são atendidas pela rede geral de
+abastecimento. A implantação desses sistemas consiste em: perfuração de poços artesianos + sistema de bombeamento para
+captação da água do poço + armazenamento + distribuição centralizada através de chafariz. Após a implantação dos sistemas, a
+tecnologia é entregue ao município, através da formalização de um Termo de Cooperação e Responsabilidade entre a Cohidro e a
+Prefeitura. Porém a Cohidro possui um setor próprio de recuperação e manutenção de poços. Serão implantados 200 sistemas de
+abastecimento de água, distribuídos em 32 municípios sergipanos, com base nos critérios apresentados na descrição do respectivo
+ subcomponente, da seguinte forma:
+Território do Baixo São Francisco:
+- Amparo de São Francisco: 02 sistemas;
+- Pacatuba: 08 sistemas;
+Território do Agreste Central:
+- São Miguel do Aleixo: 02 sistemas;
+- Moita Bonita: 06 sistemas;
+- Areia Branca: 05 sistemas;
+- Carira: 06 sistemas;
+- Itabaiana: 14 sistemas;
+- Ribeirópolis: 04 sistemas;
+- Pinhão: 02 sistemas;
+- Macambira: 03 sistemas;
+Território do Alto Sertão:
+- Monte Alegre de Sergipe: 03 sistemas;
+Território do Centro Sul:
+- Riachão do Dantas: 10 sistemas;
+- Simão Dias: 17 sistemas;
+- Poço Verde: 06 sistemas;
+- Tobias Barreto: 11 sistemas;
+Grande Aracaju:
+- Maruim: 03 sistemas;
+- Itaporanga D?Ajuda: 11 sistemas;
+- São Cristóvão: 08 sistemas;
+- Santo Amaro das Brotas: 03 sistemas;
+- Riachuelo: 01 sistema;
+- Laranjeiras: 03 sistemas;
+Território do Leste Sergipano:
+- Rosário do Catete: 02 sistemas;
+Território do Sul Sergipano:
+- Boquim: 07 sistemas;
+- Umbaúba: 08 sistemas;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 9
+- Cristinápolis: 04 sistemas;
+- Salgado: 09 sistemas;
+- Arauá: 04 sistemas;
+- Tomar do Geru: 07 sistemas;
+- Santa Luzia do Itanhy: 06 sistemas;
+- Itabaianinha: 16 sistemas;
+- Estância: 07 sistemas;
+- Pedrinhas: 02 sistemas.
+P - Implantação de sistemas sanitários nas localidades contempladas com sistemas simplificados de abastecimento
+de água
+Este produto prevê a implantação de sistemas sanitários para atender à população residente nas áreas rurais dos municípios do
+interior do Estado que não têm acesso a soluções adequadas de esgotamento sanitário. Os sistemas consistem na instalação de
+caixa de gordura + caixa de inspeção + tanque séptico + filtro anaeróbico + sumidouro. Após a implantação dos sistemas, a
+tecnologia é entregue aos beneficiários. Serão implantados 4000 sistemas sanitários nas localidades que serão atendidas com a
+implantação de sistemas simplificados de abastecimento de água, distribuídas em 32 municípios sergipanos, com base nos
+critérios apresentados na descrição do respectivo subcomponente, da seguinte forma:
+Território do Baixo São Francisco:
+- Amparo de São Francisco: 40 sistemas;
+- Pacatuba: 160 sistemas;
+Território do Agreste Central:
+- São Miguel do Aleixo: 40 sistemas;
+- Moita Bonita: 120 sistemas;
+- Areia Branca: 100 sistemas;
+- Carira: 120 sistemas;
+- Itabaiana: 280 sistemas;
+- Ribeirópolis: 80 sistemas;
+- Pinhão: 40 sistemas;
+- Macambira: 60 sistemas;
+Território do Alto Sertão:
+- Monte Alegre de Sergipe: 60 sistemas;
+Território do Centro Sul:
+- Riachão do Dantas: 200 sistemas;
+- Simão Dias: 340 sistemas;
+- Poço Verde: 120 sistemas;
+- Tobias Barreto: 220 sistemas;
+Grande Aracaju:
+- Maruim: 60 sistemas;
+- Itaporanga D?Ajuda: 220 sistemas;
+- São Cristóvão: 160 sistemas;
+- Santo Amaro das Brotas: 60 sistemas;
+- Riachuelo: 20 sistemas;
+- Laranjeiras: 60 sistemas;
+Território do Leste Sergipano:
+- Rosário do Catete: 40 sistemas;
+Território do Sul Sergipano:
+- Boquim: 140 sistemas;
+- Umbaúba: 160 sistemas;
+- Cristinápolis: 80 sistemas;
+- Salgado: 180 sistemas;
+- Arauá: 80 sistemas;
+- Tomar do Geru: 140 sistemas;
+- Santa Luzia do Itanhy: 120 sistemas;
+- Itabaianinha: 320 sistemas;
+- Estância: 140 sistemas;
+- Pedrinhas: 40 sistemas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 10
+P - Pavimentação nas localidades contempladas com sistemas simplificados de abastecimento de água e sistemas
+sanitários
+Este produto prevê a pavimentação de vias rurais localizadas nas áreas que serão beneficiadas com a implantação de sistemas
+simplificados de abastecimento de água e sistemas sanitários. Este terceiro produto compõe a solução conjunta de saneamento
+rural proposta no respectivo subcomponente, pois melhora as condições de drenagem, principalmente em períodos de chuvas
+intensas, em que essas localidades ficam inacessíveis devido à grande quantidade de lama. Além disso, a pavimentação dessas
+vias irá reduzir o levantamento de terra/poeira, contribuindo para reduzir também a poluição atmosférica e a incidência de doenças
+respiratórias. Serão pavimentados 100km de vias nas localidades que serão atendidas com a implantação de sistemas
+simplificados de abastecimento de água e sistemas sanitários, distribuídos em 32 municípios sergipanos, com base nos critérios
+apresentados na descrição do respectivo subcomponente, da seguinte forma:
+Território do Baixo São Francisco:
+- Amparo de São Francisco: 1000 metros;
+- Pacatuba: 4000 metros;
+Território do Agreste Central:
+- São Miguel do Aleixo: 1000 metros;
+- Moita Bonita: 3000 metros;
+- Areia Branca: 2500 metros;
+- Carira: 3000 metros;
+- Itabaiana: 7000 metros;
+- Ribeirópolis: 2000 metros;
+- Pinhão: 1000 metros;
+- Macambira: 1500 metros;
+Território do Alto Sertão:
+- Monte Alegre de Sergipe: 1500 metros;
+Território do Centro Sul:
+- Riachão do Dantas: 5000 metros;
+- Simão Dias: 8500 metros;
+- Poço Verde: 3000 metros;
+- Tobias Barreto: 5500 metros;
+Grande Aracaju:
+- Maruim: 1500 metros;
+- Itaporanga D?Ajuda: 5500 metros;
+- São Cristóvão: 4000 metros;
+- Santo Amaro das Brotas: 1500 metros;
+- Riachuelo: 500 metros;
+- Laranjeiras: 1500 metros;
+Território do Leste Sergipano:
+- Rosário do Catete: 1000 metros;
+Território do Sul Sergipano:
+- Boquim: 3500 metros;
+- Umbaúba: 4000 metros;
+- Cristinápolis: 2000 metros;
+- Salgado: 4500 metros;
+- Arauá: 2000 metros;
+- Tomar do Geru: 3500 metros;
+- Santa Luzia do Itanhy: 3000 metros;
+- Itabaianinha: 8000 metros;
+- Estância: 3500 metros;
+- Pedrinhas: 1000 metros.
+   S - SEGURANÇA DE BARRAGENS
+Através deste subcomponente serão executadas diversas ações voltadas para a Segurança das Barragens existentes no Estado,
+visando garantir a gestão integrada dos recursos hídricos, incluindo a segurança hídrica da população. Estão previstas a
+recuperação das estruturas físicas das barragens, a realização de testes de qualidade, a elaboração de Planos de Segurança de
+Barragens, a realização de estudos hidrológicos e a implementação de instrumentação geotécnica para monitoramento das
+barragens. Trata-se de intervenções que foram identificadas e estruturadas no âmbito do Programa Águas de Sergipe, executado
+em parceria entre o Governo do Estado e o Banco Mundial. As ações deste subcomponente estão distribuídas em 03 produtos: (i)
+Estudos e projetos de Segurança de Barragens; (ii) Obras de segurança de barragens; (iii) Serviços de seguranças de barragens.
+      P - Estudos e projetos de Segurança de Barragens
+Este produto abrange as seguintes ações:
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 11
+1. Realização de amostragens para verificar a reatividade álcali-agregado das barragens Jacarecica I, Jacarecica II, Governador
+João Alves Filho, Jabiberi e Piauí.
+2. Realização de ensaios para verificar a reatividade álcali-agregado das barragens Jacarecica I, Jacarecica II, Governador João
+Alves Filho, Jabiberi e Piauí
+As amostragens e os ensaios referentes a reatividade álcali-agregado são essenciais, pois é por meio dessa análise que é
+verificado o fenômeno de expansivo que ocorre em diversas estruturas do concreto.
+3. Realização de amostragens para verificar a agressividade ao concreto da água dos reservatórios das barragens Jacarecica I,
+Jacarecica II, Governador João Alves Filho, Jabiberi e Piauí
+4. Realização de ensaios para verificar a agressividade ao concreto da água dos reservatórios das barragens Jacarecica I,
+Jacarecica II, Governador João Alves Filho, Jabiberi e Piauí
+As amostragens para efeitos de resistência do concreto irão apresentar dados que certifiquem a qualidade da estrutura por meio de
+informações como capacidade resistente e durabilidade da estrutura para resistir às influências externas causadas pelos
+processos de intemperismo.
+5. Realização de Estudo Hidrológico do reservatório das barragens Jabiberi e Piauí
+O estudo hidrológico tem como finalidade avaliar a vazão de regularização ideal, as condições de operação, a possibilidade
+hidrológica de aumentar a capacidade dos reservatórios sem afetar a segurança das barragens e fornecer informações
+hidrológicas para auxiliar na elaboração do Plano de Segurança de Barragens (PSB).
+6. Realização de Batimetria (Mensurar a profundidade dos reservatórios) das barragens Jabiberi e Piauí
+Busca verificar o volume atualizado dos reservatórios com o intuito de dar maior segurança hídrica da disponibilidade de água para
+ os perímetros irrigados.
+7. Elaboração dos Planos de Segurança das Barragens das barragens Jabiberi e Piauí
+O Plano de Segurança de Barragem ? PSB, conforme determinado em lei, é um dos instrumentos da Política Nacional de
+Segurança de Barragens (PNSB) e nele deverão ser apresentadas as potenciais situações de risco de integridade das barragens e
+ as ações imediatas que serão adotadas para redução dos prováveis danos. 
+O Plano de Segurança de cada uma das barragens, conforme preconizado pela Lei n° 12.334 de 20 de setembro de 2010, conterá
+um Plano de Ação Emergencial- PAE, que estabelecerá as ações a serem executadas pelo empreendedor da barragem em caso
+de situação de emergência, identificará os agentes a serem notificados dessa ocorrência e, deverá estar disponível em cada um
+dos empreendimentos e nas prefeituras envolvidas, bem como ser encaminhado às autoridades competentes e aos organismos de
+defesa civil. Deste modo, o PSB funciona como uma espécie de plano diretor de segurança de barragens, que vincula a atuação
+do empreendedor e dos órgãos de fiscalização.
+      P - Obras de Segurança de Barragens 
+Este produto abrange as seguintes ações:
+1. Implantação da Descarga de Fundo na Barragem Governador João Alves Filho
+2. Implantação da Descarga de Fundo e Casa de Comando na Barragem Jacarecica II
+A descarga de fundo é um dispositivo, acessório das barragens, indispensável na operação e manutenção desse tipo de obra, os
+mesmos não foram incluídos na concepção do projeto original dessas barragens. Esse dispositivo tem caráter de controle e
+condução de efluentes do reservatório, demonstrando assim, a importância da sua implantação.
+3.Recuperação da ombreira direita à jusante da barragem Jacarecica I
+As ombreiras são pontos de contato da barragem com o terreno natural, estando vinculada a estabilidade da estrutura. Elas são
+consideradas pontos delicados em termos de resistências às ações erosivas no caso de galgamento, sendo, portanto, considerado
+essencial a realização da sua recuperação e contenção.
+4.Recuperação da estrutura física das barragens das barragens Jabiberi e Piauí
+As ações de recuperação da estrutura física das barragens, como recuperação do corpo da barragem, tratamento das anomalias
+existentes, limpeza e instalação de iluminação são ações essenciais para garantir a operabilidade, segurança e estabilidade da
+estrutura.
+      P - Serviços de Segurança de Barragens 
+Este produto abrange as seguintes ações:
+1. Implantação de monitoramento por instrumentação geotécnica nas barragens dos reservatórios das barragens Jacarecica I,
+Jacarecica II, Governador João Alves Filho
+Os procedimentos de controle e monitoramento de obras geotécnicas são realizados por meio da instrumentação geotécnica, que
+realiza a medição dos recalques de uma barragem de concreto, sendo considerada uma das observações mais importantes na
+supervisão do comportamento dessas estruturas durante os períodos de construção, enchimento do reservatório e operação.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 12
+Além disso, a instrumentação geotécnica possibilita a medição dos deslocamentos cisalhantes (horizontais) na base da barragem,
+que são medições de grande interesse, visto que refletem diretamente as condições de estabilidade em relação ao
+escorregamento. Ressalta-se também, que a observação das subpressões na fundação das barragens de concreto é essencial
+para uma boa supervisão de suas condições de segurança, levando em consideração a estabilidade dessas estruturas em relação
+ao tombamento e ao escorregamento, uma vez que as suas características são diretamente afetadas pelo nível das pressões
+piezométricas na interface concreto-rocha e nas descontinuidades sub-horizontais de baixa resistência existentes na fundação.
+Portanto, é fundamental a implantação dessa instrumentação, para assim, garantir um melhor monitoramento dessas estruturas.
+2. Recuperação e substituição da tomada d?Água da Barragem Jacarecica II
+A tomada d?água é uma estrutura utilizada para a captação das vazões destinadas às finalidades das barragens, sendo, portanto,
+crucial manter a sua operabilidade, diante disto é fundamental recuperar e substituir equipamentos da tomada d?água. 
+3. Recuperação do stop log e a grade de proteção da adução do reservatório Governador João Alves Filho (Poção da Ribeira)
+O stop-log tem como função básica criar uma zona seca para proteger o setor no qual se realizam trabalhos de manutenção,
+portanto sua recuperação também é de extrema importância.
+   S - PERÍMETROS IRRIGADOS
+Este subcomponente prevê a melhoria na infraestrutura de todos os perímetros irrigados existentes no Estado de Sergipe e que
+são gerenciados pela Cohidro. Estas áreas de irrigação são essenciais para a subsistência de pequenos agricultores que
+dependem dessa tecnologia pública para produção de seus cultivos agrícolas. Nesse sentido, é preciso investir na melhoria da
+infraestrutura desses equipamentos, visando o seu pleno funcionamento, a correção de patologias existentes, a modernização
+tecnológica e a eficiência agrícola. As ações deste subcomponente estão distribuídas em 02 produtos: (i) Aquisições para melhoria
+na infraestrutura de Perímetros Irrigados; (ii) Execução de obras para melhoria na infraestrutura de Perímetros Irrigados.
+      P - Aquisições para melhoria na infraestrutura de Perímetros Irrigados 
+Este produto abrange as seguintes ações:
+1. Aquisição de equipamentos elétricos e tubulações, válvulas e registros para os Perímetros Irrigados Califórnia, no município de
+Canindé de São Francisco; Jabirebi, no município de Tobias Barreto; Jacarecica I, no município de Itabaiana; Jacarecica II, nos
+municípios de Malhador, Areia Branca e Riachuelo; Piauí, no município de Lagarto; e Poção da Ribeira, no município de Itabaiana,
+beneficiando um total de aproximadamente 13.900 pessoas.
+A aquisição de equipamentos elétricos, visa a necessidade de garantir continuidade e o pleno funcionamento dos sistemas de
+bombeamento dos perímetros irrigados que substituirão os equipamentos antigos, os quais são utilizados há mais de 30 anos,
+evitando constantes interrupções para manutenção, bem como elevados custos que decorrem com essas paradas.
+A aquisição de tubulações, válvulas e registros decorre da necessidade de substituição dos equipamentos antigos que apresentam
+anomalias, sendo fundamental para o bom funcionamento dos conjuntos motobombas das unidades de bombeio. Esses ativos
+garantem um melhor fornecimento de água, com adequada pressão e vazão, proporcionam plena condição de funcionamento,
+garantindo grau de confiabilidade satisfatório, alto rendimento e redução de perdas por desgaste da rede de adução que alimenta o
+ sistema de irrigação dos produtores.
+      P - Execução de obras para melhoria na infraestrutura de Perímetros Irrigados
+Este produto abrange as seguintes ações:
+1. Recuperação do canal secundário no Perímetro Irrigado Califórnia, no município de Canindé de São Francisco: devido à extrema
+importância dos canais, principal e secundário, que compõem o Perímetro Irrigado Califórnia, é imprescindível garantir o seu pleno
+funcionamento. Em virtude dessa relevância e, também, das patologias existentes nos canais, por exemplo, infiltrações,
+demasiada vegetação, ineficiência das juntas de dilatação, deterioração das placas de concreto, é crucial realizar a recuperação da
+estrutura destas estruturas. Ademais, essa recuperação, tem como intuito melhorar a eficiência agrícola, evitar a perda de água
+proveniente da infiltração. Isso, além de proporcionar a chegada de água em volumes adequados para cada lote rural, oportunizará
+ uma melhor produção, bem como uma redução dos custos operacionais.
+2.  Recuperação das Estações de Bombeamento 02 do Perímetro Califórnia em Canindé do São Francisco e do Perímetro Piauí
+em Lagarto: Em virtude de inúmeros problemas, como avarias na estrutura, falhas na parte elétricas e na hidrossanitários, a
+ausência de sistemas de drenagens, bem como deterioração na cobertura da edificação têm provocado vários prejuízos para o
+pleno funcionamento das estações de bombeamento 02, localizadas nos municípios de Canindé de São Francisco e Lagarto.
+Dessa forma, faz-se necessária a execução de uma revitalização de todas as partes danificadas dessas EBs.
+   S - RECUPERAÇÃO E AMPLIAÇÃO DE AGUADAS
+Este subcomponente objetiva a recuperação/ampliação de aguadas de pequeno e médio porte localizadas nos 23 municípios do
+semiárido sergipano, por se tratar da região que mais sofre com a insegurança hídrica ocasionada pelos longos períodos de
+estiagem. Serão realizados serviços de remoção dos sedimentos depositados ao longo dos anos, o que irá aumentar
+significativamente a capacidade de acúmulo de água. Além disso poderão ser construídas novas barreiras de impermeabilização
+para evitar a perda de água que vem ocorrendo nessas barragens. Esses pequenos reservatórios naturais de água são de extrema
+importância para a população que vive no semiárido sergipano, em situação de insegurança hídrica, pois essa água é essencial
+para a criação de rebanhos e para pequenos cultivos agrícolas, que são fonte de subsistência para essa população.  Além disso,
+trata-se de uma região que concentra boa parte da atividade agropecuária do Estado, portanto é preciso investir em ações voltadas
+para reduzir a insegurança hídrica dessa região, contribuindo para o desenvolvimento de pequenos produtores, para inclusão pela
+renda, bem como para o incremento da economia local e regional. As ações deste subcomponente estão distribuídas em 01
+produto: (i) Recuperação e ampliação de aguadas de médio e pequeno porte.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 13
+      P - Recuperação/ampliação de aguadas de pequeno e médio porte 
+Este produto prevê a recuperação e ampliação de 1300 aguadas de médio e pequeno porte localizadas nos 23 municípios do
+semiárido sergipano. Serão realizados serviços de remoção dos sedimentos depositados ao longo dos anos, o que irá aumentar
+significativamente a capacidade de acúmulo de água. Além disso poderão ser construídas novas barreiras de impermeabilização
+para evitar a perda de água que vem ocorrendo nessas barragens.
+C - INCENTIVO AOS SETORES PRODUTIVOS
+Este componente visa incentivar todos os setores da economia dos territórios sergipanos a partir do investimento em infraestrutura
+logística e turística, uma das grandes potencialidades sergipanas. Os investimentos em infraestrutura logística irão possibilitar uma
+maior integração entre os municípios e territórios do Estado, o que permitirá dinamizar a economia local e regional bem como atrair
+novos negócios e criar oportunidades em todas as regiões de Sergipe. Para tanto, este componente prevê a realização de obras
+de reestruturação da malha viária estadual, proporcionando maior segurança e celeridade no deslocamento de pessoas e cargas, e
+a expansão da comunicação de dados para os municípios do interior do Estado, com implantação da Rede Estadual de Banda
+Larga. Trata-se de um projeto inovador que será um marco para a universalização do acesso à internet, levando a modernização
+tecnológica ao interior do Estado, contribuindo para melhorar os serviços prestados à população e para ampliar o uso de recursos
+digitais por empresas, gerando maior produtividade e competitividade e fomentando a geração de emprego e renda. Também
+serão realizados investimentos para melhorar e ampliar a infraestrutura turística em diversos municípios, selecionados em função
+de suas caraterísticas naturais e de seus atrativos turísticos, com objetivo de incentivar essa atividade que tem grande potencial de
+crescimento em Sergipe. As ações deste componente estão distribuídas em 03 subcomponentes: (i) Infraestrutura turística, (ii)
+Infovia Digital, (iii) Malha Viária.
+   S - INFRAESTRUTURA TURÍSTICA
+Através deste subcomponente serão realizados investimentos na melhoria da infraestrutura turística estadual. Um dos setores
+econômicos que tem grande capacidade de fortalecer o desenvolvimento é o turismo. Com o crescimento da atividade turística tem
+-se uma reação em cadeia com a geração de emprego formal e informal, geração de renda, aumento de receita para o Estado,
+preservação do patrimônio natural e cultural, e melhoria da qualidade de vida. Nesse sentido, com a implementação desse
+subcomponente espera-se contribuir para ampliar o leque de destinos turísticos e expandir a atividade turística em Sergipe,
+aumentando o fluxo de turistas nos municípios do interior, bem como atrair novos atores para este setor que tem grande potencial
+de desenvolvimento em Sergipe, principalmente por ser uma região litorânea e pela sua riqueza fluvial. As ações deste
+subcomponente estão distribuídas em 01 produto: (i) Urbanização e implantação/recuperação de infraestrutura de orlas marítimas
+e fluviais
+      P - Urbanização e implantação/recuperação de infraestrutura de orlas marítimas e fluviais
+Este produto objetiva melhorar e ampliar a infraestrutura turística nos municípios do interior de Sergipe para o efetivo
+aproveitamento das potencialidades de cada região e consequente incremento das atividades turísticas, promovendo a geração de
+emprego e renda e beneficiando empreendedores individuais, micro e pequenas empresas no segmento do turismo e em outros
+segmentos da economia que são impactados positivamente pelo crescimento de atividade turística. Estão previstas obras em 10
+orlas localizadas nos municípios no interior sergipano:
+1.Requalificação Urbanística da Orla e Atracadouro do Povoado Pontal de Indiaroba/SE;
+2.Urbanização da Orla Fluvial do Povoado Crasto, em Santa Luzia do Itanhy;
+3.Construção da Contenção e Urbanização da orla da Caueira, no Município de Itaporanga D?Ajuda/SE;
+4.Urbanização da orla da prainha de Porto Grande em Nossa Senhora do Socorro;
+5.Orla fluvial e atracadouro do município de Santana do são Francisco;
+6.Orla Lagoa Vista da Serra em São Domingos;
+7.Orla Porto D?Areia em Estância;
+8.Orla Fluvial do município de Porto da Folha;
+9.Construção de atracadouro em Porto N'Angola, no município de Estância.
+10.Reforma do atracadouro de Porto do Cavalo, em Estância
+As prefeituras dos municípios elencados acima já demonstraram interesse para a concretização dessas intervenções e se
+comprometeram com a gestão e manutenção desses equipamentos públicos.
+   S - INFOVIA DIGITAL
+Este subcomponente prevê a implantação da Rede Estadual de Banda Larga, o que será um divisor de águas no que se refere à
+ampliação da conectividade e da comunicação de dados para os municípios do interior do Estado. São objetivos do Projeto Infovia
+Digital:
+- Universalizar o acesso à internet em banda larga no Estado, atingindo 99,5% da população sergipana;
+- Aumentar a velocidade em até 100 vezes em relação às conexões atuais para o interior do Estado;
+- Aumentar a eficiência da Administração Pública, reduzindo os custos de conectividade do estado em até 70%;
+- Melhorar e inovar nos processos de prestação dos serviços públicos aos cidadãos, principalmente nas áreas de educação, saúde
+e segurança pública;
+- Ampliar o uso de recursos digitais por empresas gerando maior produtividade e competitividade e contribuir para a geração de
+emprego e renda;
+- Contribuir para a geração de emprego e renda.
+As ações deste subcomponente estão distribuídas em 01 produto: (i) Implantação da Rede Estadual de Banda Larga.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 14
+      P - Implantação da Rede Estadual de Banda Larga de Sergipe 
+Este produto prevê a implantação da Rede Estadual de Banda Larga em Sergipe em fibra óptica, com até 800 km de extensão, um
+anel principal oferecendo redundância, extensões lineares de fibra, enlaces de rádio para alcançar áreas periféricas e rurais e rede
+acesso (última milha) ligando pontos importantes dentro dos municípios (governos, escolas e outros) ao anel principal, com o
+objetivo de universalizar o acesso à internet em banda larga no Estado, atingindo 99,5% da população sergipana.
+   S - MALHA VIÁRIA
+Através deste subcomponente, serão realizados investimentos na reestruturação da malha viária estadual com o objetivo de
+oferecer segurança e melhorar a trafegabilidade das rodovias estaduais, bem como para facilitar a integração intermunicipal.
+Atualmente, 74,3% das rodovias pavimentadas no domínio do Estado possuem estado geral de conservação péssimo, ruim ou
+regular (CNT, 2021). Portanto, as ações serão voltadas para a recuperação de rodovias deterioradas, incluindo a renovação da
+sinalização vertical e horizontal e a recuperação de acostamento. Tais intervenções também facilitarão o escoamento da produção
+agrícola e industrial sergipana, o que contribuirá para a dinamização da economia do estado, oportunizando o surgimento de novos
+negócios e, por conseguinte, promovendo a geração de emprego e renda. As ações deste subcomponente estão distribuídas em
+01 produto: (i) Reestruturação das rodovias estaduais.
+      P - Reestruturação das rodovias estaduais 
+Este produto prevê a reestruturação de 62,5 km de rodovias estaduais. Desde 2020, o Governo de Sergipe vem investindo em um
+programa de reestruturação da malha viária estadual, por meio do qual já foram recuperados 140,78km, outros 538,08km estão em
+execução e mais 165,01km em fase de licitação. Visando dar continuidade a essas obras de grande importância para a promoção
+do desenvolvimento territorial sustentável com a melhoria da infraestrutura logística estadual, através deste produto, novos trechos
+da SE-200 e da SE-335 serão revitalizados, complementando as intervenções que já estão sendo feitas. Trata-se de rodovias que
+estão com péssimas condições de tráfego. Além disso, esse investimento irá contribuir para o desenvolvimento da região do Baixo
+São Francisco, principalmente para o fortalecimento das atividades sucroalcooleiras, da rizicultura e do turismo ecológico, grandes
+potencialidades da região. Abaixo, estão relacionados os trechos rodoviários que serão reestruturados: 
+- Rodovia SE-335: Japoatã x Neópolis (26km);
+- Rodovia SE-200: Entroncamento SE-335 (Neópolis)x Entroncamento SE-204 (Ilha das Flores) (20 km);
+- Rodovia SE-335: Entroncamento BR 101 x Entroncamento SE-204 (Japoatã) (16,5km)
+C - DESENVOLVIMENTO SOCIAL E URBANO
+Este componente visa oferecer à população equipamentos públicos comunitários inclusivos para a prática de esporte recreativo e
+de lazer, bem como para promoção do desenvolvimento infantil. Sabe-se que o investimento em esporte, lazer e cultura gera
+efeitos positivos na educação, saúde e desenvolvimento humano, principalmente de crianças e jovens, pois proporciona a inclusão
+social, o desenvolvimento de habilidades cognitivas e motoras, além do bem estar físico e mental. Ademais, a implementação
+desses equipamentos irá contribuir para o desenvolvimento do núcleo urbano nos arredores dos locais onde serão implantados,
+movimentando também a economia local. As ações deste componente estão distribuídas em 03 subcomponentes: (i) Areninhas, (ii)
+ Praças da primeira infância (Brinquedopraças), (iii) Complexos esportivos.
+   S - ARENINHAS
+Este subcomponente prevê a construção de areninhas em todos os 74 municípios do interior sergipano. Trata-se de equipamentos
+comunitários que serão disponibilizados para a população local e que buscam incentivar a prática de esporte, o lazer e a formação
+cidadã, melhorar a qualidade de vida da população, desenvolver o núcleo urbano no entorno do equipamento, contribuir para a
+descoberta e formação de talentos e promover o convívio social. As ações deste subcomponente estão distribuídas em 01 produto:
+ (i) Construção de areninhas.
+      P - Construção de areninhas 
+Este produto prevê a construção de uma areninha em cada município do interior sergipano, totalizando 74 equipamentos
+construídos. As areninhas são equipamentos públicos coletivos multifuncionais em formato de campo de jogo Society para a
+prática de modalidades esportivas, ginástica funcional, atividades lúdicas e de recreação. O terreno para a construção será
+indicado por cada Prefeitura. Depois de construídas, as areninhas serão entregues aos municípios e sua gestão e manutenção
+ficará a cargo de um Comitê Municipal composto por representantes da Prefeitura e da comunidade local de cada município, a
+exemplo da solução que é adotada no Ceará. Ademais, o Governo do Estado em parceria com os Governos Municipais
+desenvolverá projetos de inclusão social através do esporte voltados, principalmente, para crianças e jovens em situação de
+vulnerabilidade social. 
+   S - PRAÇAS DA PRIMEIRA INFÂNCIA (BRINQUEDOPRAÇAS)
+Este subcomponente prevê a implementação de praças da primeira infância (brinquedopraças) em todos os 74 do interior
+sergipano. Esta ação tem o objetivo de criar espaços públicos para acolhimento das crianças na primeira infância (0 a 6 anos) na
+fase do ?brincar e crescer?, através de um ambiente lúdico que propicie atividades psicopedagógicas frente ao desenvolvimento
+infantil mescladas em um espaço com mobiliário para relações de socialização, atividades motoras, experiências sensoriais,
+pedagógicas, ambientais e culturais. Além disso, o espaço será constituído por mobiliários acessíveis e dimensionados para
+proporcionar a inclusão de crianças com algum tipo de deficiência. As ações deste subcomponente estão distribuídas em 01
+produto: (i) Implantação de praças da primeira infância (brinquedopraças).
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 15
+      P - Implantação de praças da primeira infância (brinquedopraças)
+Este produto prevê a construção de uma brinquedopraça em cada município do interior sergipano, totalizando 74 equipamentos
+construídos. A brinquedopraça é um espaço um espaço de ludicidade para a primeira infância de brincar e crescer, que conta com
+os seguintes espaços: 1) Espaço com carpete emborrachado, mobiliário de pequena escala de labirintos e objetos sensorial
+texturizados (espaço sensorial para os primeiros passos protegido com cercamento para segurança das crianças - crianças de 0 a
+2 anos); 2) Espaço para escalada e plataforma, escorregador, balanço, cordas e barras, (espaço para atividades motoras e
+brincadeiras -crianças de 3 a 6 anos); 3) Espaço de estar cultural com assentos, mini palco, objetos sonoros (atividades de
+fantoche, teatrinho, musicalização, contação de história - crianças de 0 a 6 anos); 4) Espaço bola (mini campinho para uso de bola)
+; 5) Pista serpenteada (minipista para triciclo, patinete e bicicleta). O terreno para a implantação da brinquedopraça será indicado
+por cada Prefeitura, levando-se em consideração a sua inserção urbana locacional tomando-se como referência questões como a
+proximidade com o CRAS (Centro de Referência da Assistência Social) municipal, com as escolas públicas e demais situações
+favoráveis que contribuam para boas relações de convergência, acessibilidade, e o sucesso do uso do equipamento pelo público
+prioritário. Depois de implantada a brinquedopraça, será formalizado um Termo de Adesão e de Cooperação com o município
+beneficiário, o qual será responsável pelo acompanhamento dos serviços de conservação e da forma de utilização para o uso
+dinâmico do espaço, a exemplo da solução que é adotada no Ceará.
+   S - COMPLEXOS ESPORTIVOS
+Este subcomponente prevê a construção de Complexos Esportivos em todos os territórios sergipanos. O objetivo é ampliar a
+infraestrutura esportiva do Estado, disponibilizando à população espaços públicos coletivos adequados à prática esportiva e de
+lazer. Através da implantação destes equipamentos, além de contribuir para a melhoria da qualidade de vida da população e para a
+redução dos índices de criminalidade entre os jovens, espera-se também incentivar o desenvolvimento de núcleos urbanos nos
+arredores das localidades onde serão implantados. As ações deste subcomponente estão distribuídas em 01 produto: (i)
+Construção de complexos esportivos.
+      P - Construção de complexos esportivos 
+Este produto prevê a construção de um Complexo Esportivo em cada território sergipano, totalizando 08 equipamentos construídos
+. Para receber este equipamento, foram selecionadas as cidades que são centralidades em cada território, ou seja, aquelas
+cidades mais influentes que concentram a maior parte dos fluxos intermunicipais da região. Para definição do município
+beneficiário no Território da Grande Aracaju, considerou-se o 2º município mais influente e populoso, depois da capital Aracaju.
+Território do Alto Sertão: Nossa Senhora da Glória;
+Território do Baixo São Francisco: Propriá;
+Território do Médio Sertão: Nossa Senhora das Dores;
+Território do Agreste Central: Itabaiana;
+Território do Leste Sergipano: Carmópolis;
+Território da Grande Aracaju: Nossa Senhora do Socorro;
+Território do Centro Sul: Lagarto;
+Território do Sul Sergipano: Estância.
+Os complexos esportivos são equipamentos públicos que contam a seguinte estrutura: área destinada para o público infantil +
+quadra de vôlei/beach tennis + pista de bike/corrida + área de patins/skate + campo de futebol com vestiários. Além disso, será um
+espaço inclusivo, adequado a todas as normas de acessibilidade vigentes. O terreno para a construção será indicado por cada
+Prefeitura. Depois de construídos, os Complexos serão entregues aos municípios e sua gestão e manutenção ficará a cargo de um
+ Comitê Municipal composto por representantes da Prefeitura e da comunidade local de cada município.
+C - ADMINISTRAÇÃO DO PROGRAMA
+Esse componente tem por objetivo apoiar o Estado de Sergipe, no planejamento, na organização, na execução, no monitoramento/
+controle e na avaliação do Programa de modo que os resultados pretendidos sejam alcançados. Poderão ser contratados estudos
+e projetos, serviços de consultoria e serviços de supervisão de obras. 
+   S - ADMINISTRAÇÃO DO PROGRAMA
+Através deste subcomponente serão contratados serviços de consultoria para prestar apoio à Unidade de Coordenação do
+Programa - UCP e aos órgãos estaduais envolvidos na execução do Programa, no que diz respeito à elaboração de projetos, às
+contratações a serem realizadas, ao monitoramento e avaliação dos projetos e ações previstas, à supervisão de obras, ao
+cumprimento das metas pré-estabelecidas, ao atendimento dos requisitos ambientais e sociais, entre outros aspectos que
+busquem subsidiar a tomada de decisão em direção ao alcance dos objetivos definidos no Programa.
+      P - Gerenciamento do Programa 
+Consultoria, estudos e/ou projetos para apoiar a UCP e os órgãos estaduais no Gerenciamento do Programa.
+      P - Supervisão de Obras 
+Supervisão de obras e trabalhos de gestão socioambientais associados para apoiar a UCP e os órgãos estaduais envolvidos na
+execução do Programa.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 16
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Obras
+-
+-
+92.366.200,00
+94,25
+P- Implantação de Sistemas Simplificados de
+Abastecimento de Água
+un
+200,00
+2.033.760,00
+2,08
+P- Implantação de sistemas sanitários nas
+localidades contempladas com sistemas
+simplificados de abastecimento de água
+un
+4.000,00
+8.948.546,00
+9,13
+P- Pavimentação nas localidades contempladas
+com sistemas simplificados de abastecimento de
+água e sistemas sanitários
+km
+100,00
+22.245.136,00
+22,70
+P- Obras de Segurança de Barragens 
+un
+4,00
+1.393.450,00
+1,42
+P- Execução de obras para melhoria na
+infraestrutura de Perímetros Irrigados
+un
+2,00
+1.628.000,00
+1,66
+P- Recuperação/ampliação de aguadas de
+pequeno e médio porte 
+un
+1.300,00
+1.587.000,00
+1,62
+P- Urbanização e implantação/recuperação de
+infraestrutura de orlas marítimas e fluviais
+un
+10,00
+6.102.000,00
+6,23
+P- Implantação da Rede Estadual de Banda Larga
+ de Sergipe 
+un
+1,00
+8.135.000,00
+8,30
+P- Reestruturação das rodovias estaduais 
+km
+62,50
+16.600.000,00
+16,94
+P- Construção de areninhas 
+un
+74,00
+7.524.913,00
+7,68
+P- Implantação de praças da primeira infância (
+brinquedopraças)
+un
+74,00
+11.287.370,00
+11,52
+P- Construção de complexos esportivos 
+un
+8,00
+4.881.025,00
+4,98
+Bens
+-
+-
+406.800,00
+0,42
+P- Aquisições para melhoria na infraestrutura de
+Perímetros Irrigados 
+un
+1,00
+406.800,00
+0,42
+Consultoria
+-
+-
+3.739.000,00
+3,82
+P- Estudos e projetos de Segurança de Barragens
+un
+7,00
+739.000,00
+0,75
+P- Gerenciamento do Programa 
+un
+1,00
+1.650.000,00
+1,68
+P- Supervisão de Obras 
+un
+1,00
+1.350.000,00
+1,38
+Serviços que Não de Consultoria
+-
+-
+1.488.000,00
+1,52
+P- Serviços de Segurança de Barragens 
+un
+3,00
+1.488.000,00
+1,52
+Total Geral
+-
+-
+98.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+C - Saneamento Rural e Segurança Hídrica:
+-Implantação de sistemas simplificados de abastecimento de água: projeto básico para implantação de 150 sistemas pronto. Projeto
+básico para implantação dos demais sistemas em elaboração. Processo de licenciamento ambiental está em andamento.
+
+-Implantação de sistemas sanitários: projeto básico em elaboração e o processo de licenciamento ambiental está em andamento.
+
+-Melhoria da Infraestrutura de Perímetros Irrigados: 
+
+1)Recuperação do canal secundário no Perímetro Irrigado Califórnia, no município de Canindé de São Francisco: projeto básico concluído
+e o processo de licenciamento ambiental está em andamento.
+
+2)Recuperação da Estação de Bombeamento 02 do Perímetro Irrigado Califórnia, no município de Canindé de São Francisco: projeto
+básico concluído e o processo de licenciamento ambiental está em andamento.
+
+3)Aquisição e substituição de equipamentos elétricos dos perímetros irrigados gerenciados pela Cohidro: termo de referência concluído.
+
+4)Aquisição e substituição de tubulações, válvulas e registros dos perímetros irrigados gerenciados pela Cohidro: termo de referência
+concluído.
+
+-Recuperação/ampliação de aguadas de pequeno e médio porte: projeto básico pronto e o processo de licenciamento ambiental está em
+andamento.
+
+-Segurança de Barragens: 
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 17
+As seguintes intervenções já possuem projeto básico concluído: 
+1) Implantação da Descarga de Fundo na Barragem Governador João Alves Filho; 
+2) Implantação da Descarga de Fundo e Casa de Comando na Barragem Jacarecica II; 3) Recuperação da ombreira direita à jusante da
+barragem Jacarecica I; e 
+4) Recuperação da estrutura física das barragens das barragens Jabiberi e Piauí. 
+
+Termos de Referência elaborados: 
+1) Realização de amostragens para verificar a reatividade álcali-agregado das barragens Jacarecica I, Jacarecica II, Governador João
+Alves Filho, Jabiberi e Piauí; 2) Realização de ensaios para verificar a reatividade álcali-agregado das barragens Jacarecica I, Jacarecica
+II, Governador João Alves Filho, Jabiberi e Piauí; 
+3) Realização de amostragens para verificar a agressividade ao concreto da água dos reservatórios das barragens Jacarecica I,
+Jacarecica II, Governador João Alves Filho, Jabiberi e Piauí;
+4) Realização de ensaios para verificar a agressividade ao concreto da água dos reservatórios das barragens Jacarecica I, Jacarecica II,
+Governador João Alves Filho, Jabiberi e Piauí; 
+5) Realização de Estudo Hidrológico do reservatório das barragens Jabiberi e Piauí; 6) Realização de Batimetria (Mensurar a profundidade
+ dos reservatórios) das barragens Jabiberi e Piauí; 
+7) Elaboração dos Planos de Segurança das Barragens das barragens Jabiberi e Piauí; 8) Recuperação e substituição da tomada d?Água
+da Barragem Jacarecica II; 
+9) Recuperação do stop log e a grade de proteção da adução do reservatório Governador João Alves Filho (Poção da Ribeira);
+10) Implantação de monitoramento por instrumentação geotécnica nas barragens dos reservatórios das barragens Jacarecica I, Jacarecica
+ II, Governador João Alves Filho.
+
+Os processos de licenciamento ambiental para essas intervenções estão em andamento.
+
+C ? Incentivo aos Setores Produtivos: 
+
+- Infraestrutura de orla marítimas e fluviais: existem projetos básico e executivo para as seguintes intervenções: 
+1) Requalificação Urbanística da Orla e Atracadouro do Povoado Pontal de Indiaroba/SE; 
+2) Urbanização da Orla Fluvial do Povoado Crasto, em Santa Luzia do Itanhy; 
+3) Construção da Contenção e Urbanização da orla da Caueira, no Município de Itaporanga D?Ajuda/SE; 
+4) Urbanização da orla da prainha de Porto Grande em Nossa Senhora do Socorro.
+
+Outros projetos estão em elaboração: 
+
+1) Orla fluvial e atracadouro do município de Santana do São Francisco; 
+2) Orla Lagoa Vista da Serra em São Domingos; 
+3) Orla Porto D?Areia em Estância; 
+4) Orla Fluvial do município de Porto da Folha; 
+5) Construção de atracadouro em Porto N'Angola, no município de Estância 
+
+Os processos de licenciamento ambiental para essas intervenções estão em andamento.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 18
+- Infovia Digital: projeto básico pronto;
+- Malha Viária: Projetos e orçamentos concluídos. Processo de renovação das licenças em andamento.
+
+C - Desenvolvimento Social e Urbano
+
+- Construção de Complexos Esportivos: Há uma licitação em andamento para construção de um Complexo Esportivo no município de
+Simão Dias. Os projetos de engenharia podem ser adaptados para que sejam adotados como um projeto padrão, que será utilizado para
+construção deste equipamento esportivo nos demais territórios;
+
+- Construção de areninhas: projeto padrão, com projeto básico e executivo concluídos;
+
+- Implantação de Praças da Primeira Infância (Brinquedopraças): projeto padrão, com projeto básico e executivo concluídos.
+
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Estadual/Sem detalhes
+Estado de Sergipe ()
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+- Moeda do Financiamento: Dólar Americano.
+- Empréstimo com garantia da União
+- Montante Total do Projeto: US$ 98.000.000,00
+- Montante do Financiamento: US$ 78.400.000,00
+- Prazo total: 20 anos
+- Carência:  05 anos
+- Prazo de desembolso:  05 anos
+- Prazo de amortização: 15 anos
+- Taxa Variável: SOFR + 1,50% a.a (A taxa variável será definida no momento da negociação do contrato e a taxa final no momento do
+desembolso)
+- Comissão de crédito (sobre o saldo não desembolsado):  0.25% conforme tabela de amortização do NDB, podendo não incidir caso
+cumpridas metas de desembolso anual.
+- Comissão de abertura :  0.25% sobre o valor total do empréstimo
+- Periodicidade das amortizações: Semestral
+
+Necessidade de financiamento externo e opção pelo agente financeiro
+
+Além dos objetivos do projeto estarem alinhados com as diretrizes de projetos apoiados pelo NDB, o financiamento externo mostra-se
+como a opção mais competitiva para a implementação do projeto devido aos custos do financiamento junto a Bancos Multilaterais de
+Desenvolvimento serem menores do que os atualmente praticados no mercado nacional/doméstico.
+
+As condições financeiras oferecidas pelo NDB são atrativas, principalmente quando comparadas às taxas de juros do mercado interno.
+Embora o processo de contratação com o mercado interno seja mais célere, as taxas de juros são superiores, conforme evidenciado pelas
+ últimas operações contratadas pelo Estado de Sergipe, demonstradas na tabela abaixo
+
+BANCO - OBJETIVO - ANO DE CONTRATAÇÃO - TAXA DA OPERAÇÃO - TAXA DA OPERAÇÃO COM A CONVERSÃO DA CDI (a.a.)
+
+Caixa Econômica Federal - Reestruturação da Malha Viária - 2021 - 4,73% a.a. + CDI a.a. - 17,38%
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 19
+Banco de Brasília - Reestruturação da Malha Viária - 2021 - 3,90% a.a. + CDI a.a. - 16,55%
+Banco do Brasil - Amortização de Dívida - 2021 - 204% CDI a.a. - 25,81%
+Banco do Brasil - Reestruturação da Malha Viária - 2021 - 215% CDI a.a. - 27,20%
+Caixa Econômica Federal - Reestruturação da Malha Viária - 2020 - 4,8% a.a. + CDI a.a. - 17,45%
+
+Obs.: CDI anualizada referente ao dia 26/05/2022
+
+Dentre os bancos multilaterais de desenvolvimento que operam no Brasil, o NDB apresenta taxas mais baixas, além do commitment fee (
+comissão cobrada pelo não desembolso do empréstimo) ser baseada em uma progressão ao longo de 4 anos, condizente com os
+desembolsos de um projeto de infraestrutura.
+
+Outra vantagem se relaciona aos custos transnacionais decorrentes da parceria com o NDB. O uso dos sistemas nacionais tanto para os
+aspectos socioambientais quanto para os procedimentos de licitações e gestão de contratos traz duas vantagens importantes: não impõe
+custos  adicionais de preparação e implementação de projeto, evitando-se equipes e treinamentos adicionais e reduzindo os tempos
+requeridos; ademais, tal medida reforça a implementação das regras nacionais, o que aumenta a capacidade de implementação não
+apenas no projeto específico ,mas que se pode disseminar para outros projetos do mutuário; a redução dos requerimentos de revisões
+prévias pelo financiador também impacta positivamente a execução do projeto;  Finalmente, essa política de sistemas nacionais resulta
+ainda em tempo significativamente menor de preparação e implementação do projeto, menos demanda de pessoas e consultorias e
+serviços adicionais.
+
+2.11. PROJETO/BENEFICIÁRIO
+i) Áreas estratégicas e impactos do projeto: 
+1) Promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação: O Programa prevê a implantação de sistemas
+sanitários que consistem na instalação de caixa de gordura e de inspeção, tanque séptico, filtro anaeróbico e sumidouro, o que irá reduzir
+a poluição dos cursos d'água, contribuindo para a sustentabilidade ambiental e a mitigação dos impactos ambientais resultantes de
+efluentes não tratados, dentre outros benefícios. Além disso, o Programa irá pavimentar estradas rurais, reduzindo a poluição atmosférica
+causada pelo levantamento de terra. Também serão realizados investimentos na reestruturação de rodovias estaduais, o que irá diminuir o
+ tempo de deslocamento nas estradas do estado, reduzindo a emissão de gases de efeito estufa. 
+2) Implantação e/ou ampliação de ações de saneamento básico: Para ampliar o acesso à água serão realizados investimentos para a
+implantação de sistemas simplificados de abastecimento de água, além de ações de segurança de barragens. Também se enquadram
+nessa área estratégica a implantação de sistemas sanitários em comunidades rurais do interior de Sergipe (esgotamento sanitário) e as
+ações de pavimentação de estradas rurais e de reestruturação das rodovias estaduais, que incluem obras de drenagem, outra vertente do
+saneamento básico.
+3) Gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes: Serão realizadas diversas
+ações voltadas para a redução da insegurança hídrica vivida nos municípios do interior do Estado, principalmente na região do semiárido,
+como a implantação de sistemas simplificados de abastecimento de água, ações de segurança de barragens, melhoria da infraestrutura de
+ perímetros irrigados, recuperação/ampliação de aguadas de pequeno porte. 
+4) Melhoria do ambiente de negócios e/ou oportunidades; 5) Benefícios para empreendedores individuais, micro e pequenas empresas; 6)
+Arranjos de Financiamento que incentive ou contribuam com a participação privada: Com a realização de investimentos em infraestrutura
+logística, seja física, a partir da reestruturação de rodovias estaduais, seja digital, por meio da implantação da Infovia Digital, o Programa
+irá ampliar a integração intermunicipal,  impulsionar todos o setores da economia e, consequentemente, melhorar o ambiente de negócios
+e ampliar as oportunidades, as condições para as criação e manutenção de micro e empresas e incentivar a participação da iniciativa
+privada.  Com a implantação da Rede Estadual de Banda Larga será possível ampliar o uso de recursos digitais por empresas gerando
+maior produtividade e competitividade e contribuindo para a geração de emprego e renda. 
+7) Geração de emprego e renda para populações de baixa renda e vulneráveis: Irão contribuir para essa área estratégica as ações de
+segurança hídrica voltadas para os pequenos produtores rurais, com a recuperação de aguadas e a melhoria da infraestrutura dos
+perímetros irrigados. Com o pleno funcionamento dos perímetros irrigados e com as aguadas com maior capacidade para armazenamento
+de água de chuva, os pequenos produtores rurais conseguirão manter seu rebanho e sua produção agrícola mesmo em períodos de
+estiagem, gerando um incremento em sua renda.
+8) Infraestrutura e/ou equipamentos sociais para populações de baixa renda e vulneráveis; 9) Ações de inclusão de minorias sociais entre
+os beneficiários, políticas voltadas para a juventude, gênero e raça: O componente de Desenvolvimento Social e Urbano prevê a
+realização de investimentos para a implantação de infraestrutura de esporte e lazer em todos os municípios do interior do Estado. Esse
+investimento terá impacto positivo na melhoria da saúde da população, no desenvolvimento social, físico e cognitivo de crianças e jovens,
+na inclusão social de pessoas em situação de vulnerabilidade, na diminuição da exposição de crianças e jovens a riscos sociais e na
+redução da criminalidade observada entre jovens.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 20
+10) Melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão e/ou de participação cidadã; 11) Desenvolvimento,
+inovação e modernização tecnológica: Nesse sentido, o Programa prevê a implantação da Infovia Digital. Espera-se ampliar a eficiência
+da Administração Pública, melhorar e inovar nos processos de prestação dos serviços públicos aos cidadãos, principalmente nas áreas de
+educação, saúde e segurança pública, ampliar o uso de recursos digitais por empresas gerando maior produtividade e competitividade e
+contribuir para a geração de emprego e renda.
+12) Melhoria das condições de educação e saúde: Irão contribuir para a melhoria das condições de saúde e educação, as ações voltadas
+para a o Saneamento Rural, para pavimentação de vias rurais, com a redução da poluição atmosférica e melhoria do acesso dos
+transportes escolares a determinadas regiões, e para o desenvolvimento social e urbano, com o incentivo às práticas de esporte, lazer e
+cultura. Além disso, contribuirá para a melhoria das condições de educação a implantação da Infovia Digital, ampliando o acesso à Rede
+Banda Larga nas escolas dos municípios do interior sergipano. 
+ii) e iii) Beneficiários diretos e indiretos do Programa com inclusão das populações vulneráveis, de baixa renda, jovens e minorias sociais
+O Programa de Desenvolvimento dos Territórios de Sergipe irá beneficiar a população dos municípios do interior sergipano, 1.665.860
+pessoas. Em especial o Programa irá beneficiar as famílias que se encontram em situação de vulnerabilidade social. Através da
+implementação de determinadas ações, grupos específicos serão beneficiados:
+-Implantação de solução conjunta de saneamento rural: Irá beneficiar diretamente cerca de 4.000 famílias que vivem em comunidades
+rurais dos municípios do interior sergipano e que não possuem acesso à rede geral de abastecimento de água, nem a soluções
+adequadas de esgotamento sanitário;
+-Implantação de brinquedopraças: O Programa irá contribuir para o desenvolvimento de crianças de 0 a 6 anos e para a inclusão de
+crianças que possuem algum tipo de deficiência. Sergipe possui 151.538 crianças inscritas no CadÚnico na faixa etária da Primeira
+Infância de 0 a 6 anos. Portanto, essas crianças serão as principais beneficiárias desta intervenção.
+-Recuperação e ampliação de aguadas e melhoria da infraestrutura de perímetros irrigados: Irá beneficiar diretamente os pequenos
+produtores rurais, em especial, aqueles localizados nos 23 municípios sergipanos da região do semiárido.
+-Construção de areninhas e complexos esportivos: Tem como principal público-alvo os jovens.  O objetivo é reduzir a exposição dos
+jovens aos riscos sociais, contribuir para a redução da criminalidade e incentivar a permanência na escola.
+-Reestruturação das rodovias estaduais: Irá beneficiar diretamente a população dos municípios por onde passam as rodovias
+selecionadas: Neópolis, Ilha das Flores, Japoatã e São Francisco (44.434 pessoas).
+Por outro lado, a implantação da Rede Estadual de Banda Larga irá beneficiar toda a população sergipana ao ampliar o acesso à internet
+e melhorar a qualidade dos serviços públicos prestados à sociedade. 
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Internas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Contrapartida Financeira
+CF
+US$
+19.600.000,00
+1,00
+19.600.000,00
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+New Development Bank - NDB
+NDB
+US$
+78.400.000,00
+1,00
+78.400.000,00
+Total:
+98.000.000,00
+98.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+O Mutuário desta operação será o Estado de Sergipe.
+A Superintendência Especial de Planejamento, Monitoramento e Captação de Recursos - Superplan da Secretaria de Estado Geral de
+Governo, órgão estadual responsável por coordenar e elaborar projetos e ações para captação de recursos visando ao financiamento de
+políticas públicas em áreas estratégicas do Estado, juntamente com a Secretaria de Estado da Fazenda - Sefaz e com o apoio técnico dos
+órgãos estaduais que desenvolvem projetos e ações afins com as intervenções previstas no Programa, serão os responsáveis pelas fases
+ de preparação e negociação do Programa.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 21
+O executor do Programa será a Secretaria de Estado do Desenvolvimento Urbano e Sustentabilidade - Sedurbs, órgão estadual
+responsável pelo planejamento, pela regulação, normatização e gestão da aplicação de recursos em políticas de desenvolvimento urbano,
+ urbanização, habitação, saneamento básico e ambiental, bem como por executar grande parte das obras públicas estaduais.
+A Companhia de Desenvolvimento de Recursos Hídricos e Irrigação de Sergipe será um Órgão Coexecutor do Programa, responsável
+pela execução do Componente Saneamento Rural e Segurança Hídrica. No âmbito da Administração Pública Estadual, compete à Cohidro
+a execução de políticas de desenvolvimento de recursos hídricos, irrigação, abastecimento de água, saneamento básico para
+comunidades rurais, entre outras políticas voltadas para recursos hídricos e irrigação. A Cohidro tem ampla experiência na implantação de
+sistemas simplificados de abastecimento de água, na recuperação de aguadas, bem como no desenvolvimento e gerenciamento de
+perímetros irrigados.
+A coordenação do Programa será realizada através da Unidade de Coordenação do Programa - UCP, que será vinculada à Sedurbs e
+instituída através de Decreto Estadual. A UCP será composta por uma equipe multidisciplinar, a qual será definida através de Portaria.
+Cabe à UCP, a articulação institucional e a administração do programa, de acordo com as normas e os procedimentos pré-definidos, com
+objetivo de assegurar a efetiva implementação de todas as ações propostas e o alcance dos resultados esperados.
+No âmbito da Sedurbs será constituída uma Comissão Especial de Licitação, que será responsável pela realização dos processos de
+compras e contratações dos bens, serviços e obras previstos no Programa. Vale ressaltar que, em conformidade com a política adotada
+pelo NDB, as licitações seguirão as normas e os procedimentos nacionais.
+Para dar suporte à UCP e aos órgãos estaduais, no que se refere à Administração do Programa e à Supervisão de Obras, em razão do
+grande volume de intervenções previstas, serão contratadas consultorias para prestação de serviços de apoio à supervisão de obras,  ao
+monitoramento e à avaliação do programa, à elaboração de projetos, às contratações necessárias para implementação do Programa e ao
+acompanhamento de todas as atividades relacionadas ao Programa, inclusive no que diz respeito à análise e consolidação de relatórios
+de execução, podendo propor à UCP eventuais medidas que visem manter o cumprimento das metas estabelecidas. Este gasto será
+coberto por recursos do Tesouro Estadual, indicados como contrapartida.
+Além do mais, a SEDURBS e a UCP serão apoiadas pelos órgãos e entidades estaduais responsáveis pela execução de políticas públicas
+ afins com os Componentes/Subcomponentes previstos no Programa:
+-Secretaria de Estado da Educação do Esporte e da Cultura;
+-Secretaria de Estado do Turismo;
+-Secretaria de Estado da Inclusão e Assistência Social;
+-Empresa Sergipana de Tecnologia da Informação;
+-Secretaria de Estado da Agricultura, do Desenvolvimento Agrário e da Pesca.
+A UCP e estes órgãos terão o apoio da Superplan e da Sefaz no decorrer da execução do programa, no que diz respeito a aspectos de
+planejamento, monitoramento, avaliação, execução orçamentária/financeira e na atuação estratégica de intermediar discussões entres
+todos os atores envolvidos com objetivo de dar celeridade à execução do programa e de mitigar riscos.
+Também estarão envolvidos na execução do Programa, a Procuradoria Geral do Estado - PGE no que diz respeito à aprovação dos
+processos de aquisições e contratações de obras e serviços, e a Administração Estadual do Meio Ambiente - ADEMA e os órgãos
+ambientais municipais, no que se refere aos processos de licenciamento ambiental das obras/serviços de engenharia.
+
+4.2. Execução/Executores
+Executor: Secretaria de Estado do Desenvolvimento Urbano e Sustentabilidade
+Representante Oficial: Ubirajara Barreto Santos
+Endereço da Sede: R. Vila Cristina, 1051 - Treze de Julho, Aracaju - SE, 49020-150
+E-mail Institucional:
+Telefone: 07931985332
+Fax:
+CNPJ: 34841267000123 
+UF:
+4.3. Execução/Prazo
+Prazo de Desembolso:
+5
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+NDB
+CF
+NDB
+C - SANEAMENTO RURAL E SEGURANÇA HÍDRICA
+40.469.692,00
+0,00
+7.020.684,00
+   S - SOLUÇÃO CONJUNTA DE SANEAMENTO RURAL
+33.227.442,00
+0,00
+4.984.116,00
+      P - Implantação de Sistemas Simplificados de Abastecimento de Água
+2.033.760,00
+0,00
+305.064,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 22
+P - Implantação de sistemas sanitários nas localidades contempladas com sistemas simplificados
+de abastecimento de água
+8.948.546,00
+0,00
+1.342.282,00
+P - Pavimentação nas localidades contempladas com sistemas simplificados de abastecimento de
+ água e sistemas sanitários
+22.245.136,00
+0,00
+3.336.770,00
+   S - SEGURANÇA DE BARRAGENS
+3.620.450,00
+0,00
+543.068,00
+      P - Estudos e projetos de Segurança de Barragens
+739.000,00
+0,00
+110.850,00
+      P - Obras de Segurança de Barragens 
+1.393.450,00
+0,00
+209.018,00
+      P - Serviços de Segurança de Barragens 
+1.488.000,00
+0,00
+223.200,00
+   S - PERÍMETROS IRRIGADOS
+2.034.800,00
+0,00
+1.017.400,00
+      P - Aquisições para melhoria na infraestrutura de Perímetros Irrigados 
+406.800,00
+0,00
+203.400,00
+      P - Execução de obras para melhoria na infraestrutura de Perímetros Irrigados
+1.628.000,00
+0,00
+814.000,00
+   S - RECUPERAÇÃO E AMPLIAÇÃO DE AGUADAS
+1.587.000,00
+0,00
+476.100,00
+      P - Recuperação/ampliação de aguadas de pequeno e médio porte 
+1.587.000,00
+0,00
+476.100,00
+C - INCENTIVO AOS SETORES PRODUTIVOS
+30.837.000,00
+1.660.000,00
+1.627.150,00
+   S - INFRAESTRUTURA TURÍSTICA
+6.102.000,00
+0,00
+1.220.400,00
+      P - Urbanização e implantação/recuperação de infraestrutura de orlas marítimas e fluviais
+6.102.000,00
+0,00
+1.220.400,00
+   S - INFOVIA DIGITAL
+8.135.000,00
+0,00
+406.750,00
+      P - Implantação da Rede Estadual de Banda Larga de Sergipe 
+8.135.000,00
+0,00
+406.750,00
+   S - MALHA VIÁRIA
+16.600.000,00
+1.660.000,00
+0,00
+      P - Reestruturação das rodovias estaduais 
+16.600.000,00
+1.660.000,00
+0,00
+C - DESENVOLVIMENTO SOCIAL E URBANO
+23.693.308,00
+0,00
+3.553.997,00
+   S - ARENINHAS
+7.524.913,00
+0,00
+1.128.737,00
+      P - Construção de areninhas 
+7.524.913,00
+0,00
+1.128.737,00
+   S - PRAÇAS DA PRIMEIRA INFÂNCIA (BRINQUEDOPRAÇAS)
+11.287.370,00
+0,00
+1.693.106,00
+      P - Implantação de praças da primeira infância (brinquedopraças)
+11.287.370,00
+0,00
+1.693.106,00
+   S - COMPLEXOS ESPORTIVOS
+4.881.025,00
+0,00
+732.154,00
+      P - Construção de complexos esportivos 
+4.881.025,00
+0,00
+732.154,00
+C - ADMINISTRAÇÃO DO PROGRAMA
+3.000.000,00
+367.500,00
+0,00
+   S - ADMINISTRAÇÃO DO PROGRAMA
+3.000.000,00
+367.500,00
+0,00
+      P - Gerenciamento do Programa 
+1.650.000,00
+165.000,00
+0,00
+      P - Supervisão de Obras 
+1.350.000,00
+202.500,00
+0,00
+Total
+0,00
+2.027.500,00
+12.201.831,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+NDB
+CF
+NDB
+C - SANEAMENTO RURAL E SEGURANÇA HÍDRICA
+0,00
+12.842.946,00
+   S - SOLUÇÃO CONJUNTA DE SANEAMENTO RURAL
+0,00
+9.968.233,00
+      P - Implantação de Sistemas Simplificados de Abastecimento de Água
+0,00
+610.128,00
+P - Implantação de sistemas sanitários nas localidades contempladas com sistemas simplificados
+de abastecimento de água
+0,00
+2.684.564,00
+P - Pavimentação nas localidades contempladas com sistemas simplificados de abastecimento de
+ água e sistemas sanitários
+0,00
+6.673.541,00
+   S - SEGURANÇA DE BARRAGENS
+0,00
+905.113,00
+      P - Estudos e projetos de Segurança de Barragens
+0,00
+184.750,00
+      P - Obras de Segurança de Barragens 
+0,00
+348.363,00
+      P - Serviços de Segurança de Barragens 
+0,00
+372.000,00
+   S - PERÍMETROS IRRIGADOS
+0,00
+1.017.400,00
+      P - Aquisições para melhoria na infraestrutura de Perímetros Irrigados 
+0,00
+203.400,00
+      P - Execução de obras para melhoria na infraestrutura de Perímetros Irrigados
+0,00
+814.000,00
+   S - RECUPERAÇÃO E AMPLIAÇÃO DE AGUADAS
+0,00
+952.200,00
+      P - Recuperação/ampliação de aguadas de pequeno e médio porte 
+0,00
+952.200,00
+C - INCENTIVO AOS SETORES PRODUTIVOS
+4.150.000,00
+3.152.500,00
+   S - INFRAESTRUTURA TURÍSTICA
+0,00
+1.525.500,00
+      P - Urbanização e implantação/recuperação de infraestrutura de orlas marítimas e fluviais
+0,00
+1.525.500,00
+   S - INFOVIA DIGITAL
+0,00
+1.627.000,00
+      P - Implantação da Rede Estadual de Banda Larga de Sergipe 
+0,00
+1.627.000,00
+   S - MALHA VIÁRIA
+4.150.000,00
+0,00
+      P - Reestruturação das rodovias estaduais 
+4.150.000,00
+0,00
+C - DESENVOLVIMENTO SOCIAL E URBANO
+0,00
+4.738.662,00
+   S - ARENINHAS
+0,00
+1.504.983,00
+      P - Construção de areninhas 
+0,00
+1.504.983,00
+   S - PRAÇAS DA PRIMEIRA INFÂNCIA (BRINQUEDOPRAÇAS)
+0,00
+2.257.474,00
+      P - Implantação de praças da primeira infância (brinquedopraças)
+0,00
+2.257.474,00
+   S - COMPLEXOS ESPORTIVOS
+0,00
+976.205,00
+      P - Construção de complexos esportivos 
+0,00
+976.205,00
+C - ADMINISTRAÇÃO DO PROGRAMA
+750.000,00
+0,00
+   S - ADMINISTRAÇÃO DO PROGRAMA
+750.000,00
+0,00
+      P - Gerenciamento do Programa 
+412.500,00
+0,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 23
+      P - Supervisão de Obras 
+337.500,00
+0,00
+Total
+0,00
+4.900.000,00
+20.734.108,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+NDB
+CF
+NDB
+C - SANEAMENTO RURAL E SEGURANÇA HÍDRICA
+0,00
+11.032.046,00
+   S - SOLUÇÃO CONJUNTA DE SANEAMENTO RURAL
+0,00
+9.968.233,00
+      P - Implantação de Sistemas Simplificados de Abastecimento de Água
+0,00
+610.128,00
+P - Implantação de sistemas sanitários nas localidades contempladas com sistemas simplificados
+de abastecimento de água
+0,00
+2.684.564,00
+P - Pavimentação nas localidades contempladas com sistemas simplificados de abastecimento de
+ água e sistemas sanitários
+0,00
+6.673.541,00
+   S - SEGURANÇA DE BARRAGENS
+0,00
+905.113,00
+      P - Estudos e projetos de Segurança de Barragens
+0,00
+184.750,00
+      P - Obras de Segurança de Barragens 
+0,00
+348.363,00
+      P - Serviços de Segurança de Barragens 
+0,00
+372.000,00
+   S - PERÍMETROS IRRIGADOS
+0,00
+0,00
+      P - Aquisições para melhoria na infraestrutura de Perímetros Irrigados 
+0,00
+0,00
+      P - Execução de obras para melhoria na infraestrutura de Perímetros Irrigados
+0,00
+0,00
+   S - RECUPERAÇÃO E AMPLIAÇÃO DE AGUADAS
+0,00
+158.700,00
+      P - Recuperação/ampliação de aguadas de pequeno e médio porte 
+0,00
+158.700,00
+C - INCENTIVO AOS SETORES PRODUTIVOS
+4.980.000,00
+3.966.000,00
+   S - INFRAESTRUTURA TURÍSTICA
+0,00
+1.525.500,00
+      P - Urbanização e implantação/recuperação de infraestrutura de orlas marítimas e fluviais
+0,00
+1.525.500,00
+   S - INFOVIA DIGITAL
+0,00
+2.440.500,00
+      P - Implantação da Rede Estadual de Banda Larga de Sergipe 
+0,00
+2.440.500,00
+   S - MALHA VIÁRIA
+4.980.000,00
+0,00
+      P - Reestruturação das rodovias estaduais 
+4.980.000,00
+0,00
+C - DESENVOLVIMENTO SOCIAL E URBANO
+0,00
+5.923.327,00
+   S - ARENINHAS
+0,00
+1.881.228,00
+      P - Construção de areninhas 
+0,00
+1.881.228,00
+   S - PRAÇAS DA PRIMEIRA INFÂNCIA (BRINQUEDOPRAÇAS)
+0,00
+2.821.843,00
+      P - Implantação de praças da primeira infância (brinquedopraças)
+0,00
+2.821.843,00
+   S - COMPLEXOS ESPORTIVOS
+0,00
+1.220.256,00
+      P - Construção de complexos esportivos 
+0,00
+1.220.256,00
+C - ADMINISTRAÇÃO DO PROGRAMA
+817.500,00
+0,00
+   S - ADMINISTRAÇÃO DO PROGRAMA
+817.500,00
+0,00
+      P - Gerenciamento do Programa 
+412.500,00
+0,00
+      P - Supervisão de Obras 
+405.000,00
+0,00
+Total
+0,00
+5.797.500,00
+20.921.373,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+NDB
+CF
+NDB
+C - SANEAMENTO RURAL E SEGURANÇA HÍDRICA
+0,00
+9.211.973,00
+   S - SOLUÇÃO CONJUNTA DE SANEAMENTO RURAL
+0,00
+8.306.860,00
+      P - Implantação de Sistemas Simplificados de Abastecimento de Água
+0,00
+508.440,00
+P - Implantação de sistemas sanitários nas localidades contempladas com sistemas simplificados
+de abastecimento de água
+0,00
+2.237.136,00
+P - Pavimentação nas localidades contempladas com sistemas simplificados de abastecimento de
+ água e sistemas sanitários
+0,00
+5.561.284,00
+   S - SEGURANÇA DE BARRAGENS
+0,00
+905.113,00
+      P - Estudos e projetos de Segurança de Barragens
+0,00
+184.750,00
+      P - Obras de Segurança de Barragens 
+0,00
+348.363,00
+      P - Serviços de Segurança de Barragens 
+0,00
+372.000,00
+   S - PERÍMETROS IRRIGADOS
+0,00
+0,00
+      P - Aquisições para melhoria na infraestrutura de Perímetros Irrigados 
+0,00
+0,00
+      P - Execução de obras para melhoria na infraestrutura de Perímetros Irrigados
+0,00
+0,00
+   S - RECUPERAÇÃO E AMPLIAÇÃO DE AGUADAS
+0,00
+0,00
+      P - Recuperação/ampliação de aguadas de pequeno e médio porte 
+0,00
+0,00
+C - INCENTIVO AOS SETORES PRODUTIVOS
+5.810.000,00
+3.966.000,00
+   S - INFRAESTRUTURA TURÍSTICA
+0,00
+1.525.500,00
+      P - Urbanização e implantação/recuperação de infraestrutura de orlas marítimas e fluviais
+0,00
+1.525.500,00
+   S - INFOVIA DIGITAL
+0,00
+2.440.500,00
+      P - Implantação da Rede Estadual de Banda Larga de Sergipe 
+0,00
+2.440.500,00
+   S - MALHA VIÁRIA
+5.810.000,00
+0,00
+      P - Reestruturação das rodovias estaduais 
+5.810.000,00
+0,00
+C - DESENVOLVIMENTO SOCIAL E URBANO
+0,00
+5.923.327,00
+   S - ARENINHAS
+0,00
+1.881.228,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 24
+      P - Construção de areninhas 
+0,00
+1.881.228,00
+   S - PRAÇAS DA PRIMEIRA INFÂNCIA (BRINQUEDOPRAÇAS)
+0,00
+2.821.843,00
+      P - Implantação de praças da primeira infância (brinquedopraças)
+0,00
+2.821.843,00
+   S - COMPLEXOS ESPORTIVOS
+0,00
+1.220.256,00
+      P - Construção de complexos esportivos 
+0,00
+1.220.256,00
+C - ADMINISTRAÇÃO DO PROGRAMA
+750.000,00
+0,00
+   S - ADMINISTRAÇÃO DO PROGRAMA
+750.000,00
+0,00
+      P - Gerenciamento do Programa 
+412.500,00
+0,00
+      P - Supervisão de Obras 
+337.500,00
+0,00
+Total
+0,00
+6.560.000,00
+19.101.300,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+NDB
+CF
+NDB
+C - SANEAMENTO RURAL E SEGURANÇA HÍDRICA
+0,00
+362.043,00
+0,00
+40.469.692,00
+   S - SOLUÇÃO CONJUNTA DE SANEAMENTO RURAL
+0,00
+0,00
+0,00
+33.227.442,00
+      P - Implantação de Sistemas Simplificados de Abastecimento de Água
+0,00
+0,00
+0,00
+2.033.760,00
+P - Implantação de sistemas sanitários nas localidades contempladas com sistemas simplificados
+de abastecimento de água
+0,00
+0,00
+0,00
+8.948.546,00
+P - Pavimentação nas localidades contempladas com sistemas simplificados de abastecimento de
+ água e sistemas sanitários
+0,00
+0,00
+0,00
+22.245.136,00
+   S - SEGURANÇA DE BARRAGENS
+0,00
+362.043,00
+0,00
+3.620.450,00
+      P - Estudos e projetos de Segurança de Barragens
+0,00
+73.900,00
+0,00
+739.000,00
+      P - Obras de Segurança de Barragens 
+0,00
+139.343,00
+0,00
+1.393.450,00
+      P - Serviços de Segurança de Barragens 
+0,00
+148.800,00
+0,00
+1.488.000,00
+   S - PERÍMETROS IRRIGADOS
+0,00
+0,00
+0,00
+2.034.800,00
+      P - Aquisições para melhoria na infraestrutura de Perímetros Irrigados 
+0,00
+0,00
+0,00
+406.800,00
+      P - Execução de obras para melhoria na infraestrutura de Perímetros Irrigados
+0,00
+0,00
+0,00
+1.628.000,00
+   S - RECUPERAÇÃO E AMPLIAÇÃO DE AGUADAS
+0,00
+0,00
+0,00
+1.587.000,00
+      P - Recuperação/ampliação de aguadas de pequeno e médio porte 
+0,00
+0,00
+0,00
+1.587.000,00
+C - INCENTIVO AOS SETORES PRODUTIVOS
+0,00
+1.525.350,00
+16.600.000,00
+14.237.000,00
+   S - INFRAESTRUTURA TURÍSTICA
+0,00
+305.100,00
+0,00
+6.102.000,00
+      P - Urbanização e implantação/recuperação de infraestrutura de orlas marítimas e fluviais
+0,00
+305.100,00
+0,00
+6.102.000,00
+   S - INFOVIA DIGITAL
+0,00
+1.220.250,00
+0,00
+8.135.000,00
+      P - Implantação da Rede Estadual de Banda Larga de Sergipe 
+0,00
+1.220.250,00
+0,00
+8.135.000,00
+   S - MALHA VIÁRIA
+0,00
+0,00
+16.600.000,00
+0,00
+      P - Reestruturação das rodovias estaduais 
+0,00
+0,00
+16.600.000,00
+0,00
+C - DESENVOLVIMENTO SOCIAL E URBANO
+0,00
+3.553.995,00
+0,00
+23.693.308,00
+   S - ARENINHAS
+0,00
+1.128.737,00
+0,00
+7.524.913,00
+      P - Construção de areninhas 
+0,00
+1.128.737,00
+0,00
+7.524.913,00
+   S - PRAÇAS DA PRIMEIRA INFÂNCIA (BRINQUEDOPRAÇAS)
+0,00
+1.693.104,00
+0,00
+11.287.370,00
+      P - Implantação de praças da primeira infância (brinquedopraças)
+0,00
+1.693.104,00
+0,00
+11.287.370,00
+   S - COMPLEXOS ESPORTIVOS
+0,00
+732.154,00
+0,00
+4.881.025,00
+      P - Construção de complexos esportivos 
+0,00
+732.154,00
+0,00
+4.881.025,00
+C - ADMINISTRAÇÃO DO PROGRAMA
+315.000,00
+0,00
+3.000.000,00
+0,00
+   S - ADMINISTRAÇÃO DO PROGRAMA
+315.000,00
+0,00
+3.000.000,00
+0,00
+      P - Gerenciamento do Programa 
+247.500,00
+0,00
+1.650.000,00
+0,00
+      P - Supervisão de Obras 
+67.500,00
+0,00
+1.350.000,00
+0,00
+Total
+98.000.000,00
+315.000,00
+5.441.388,00
+19.600.000,00
+78.400.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+De acordo com o que dispõe o Art. 47, inciso XXVIII, da Constituição do Estado de Sergipe, a contratação de operações de crédito
+externas depende de autorização da Assembleia Legislativa do Estado de Sergipe. Portanto, faz-se necessária a elaboração/aprovação de
+Lei Autorizativa para contratação da Operação de Crédito aqui requerida. Esta demanda será alocada na Administração Pública, que
+deverá operar em tempo hábil e respeitando os preceitos legais e temporais para formalização da contratação. Todavia, tal risco é
+mitigado, tendo em vista que o Governo possui maioria parlamentar naquela casa. 
+Em relação às etapas de análise, negociação e assinatura junto à COFIEX e ao Governo Federal, as tratativas serão conduzidas de forma
+conjunta entre o Governo do Estado de Sergipe, através da Secretaria de Estado Geral de Governo e da Secretaria de Estado da
+Fazenda, e o NDB. 
+Outro risco a ser considerado é o risco de transição política, visto que o atual governador do Estado de Sergipe não poderá disputar a
+eleição para Governador deste ano. Porém, as intervenções previstas neste Programa tratam-se de políticas de Estado, consistentes com
+o PPA Estadual e com os ODS, sem componentes de orientação política ou partidária, e que irão beneficiar todas as regiões do Estado.
+Ademais, as intervenções propostas a nível municipal decorrem de demandas e de parcerias com governos municipais, que permanecem
+e que não estão sujeitos ao mesmo ciclo eleitoral. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 25
+Ademais, cabe às Prefeituras a disponibilização dos terrenos para implantação dos equipamentos comunitários previstos no componente
+de Desenvolvimento Social e Urbano. A localização atenderá às recomendações do Governo de Sergipe, quanto à facilidade de acesso,
+segurança e adequação aos formatos dos projetos. Após a implantação desses equipamentos, serão formalizados instrumentos
+específicos que irão dispor sobre a competência das Prefeituras para a gestão e manutenção dos equipamentos. Esse risco é mitigado
+considerando que as minutas desses instrumentos já estão elaboradas e que as Prefeituras apoiam a implantação desses equipamentos
+comunitários e estão de acordo com os termos de gestão e manutenção. 
+Outro elemento importante de risco a ser considerado é a desvalorização cambial do dólar, visto que os recursos serão alocados em
+moeda estrangeira, com imediata conversão para utilização no projeto. No futuro as amortizações e juros também serão convertidas na
+referida moeda para pagamento. A taxa de juros é um contrapeso ao risco cambial pois está em patamar confortável em comparação às
+opções existentes no mercado. O prazo da operação permite uma diluição de uma possível alta do dólar, pois neste prazo também
+ocorrerá baixas, ampliando a possibilidade de compensação entre altas e baixas. O Governo do Estado de Sergipe ao longo desses
+últimos 4 anos implementou uma série de ações visando o reequilíbrio das contas públicas estaduais e a sustentabilidade dos gastos
+públicos, alcançando a nota CAPAG B segundo a avaliação da Secretaria do Tesouro Nacional - STN. Portanto, o Estado de Sergipe se
+encontra em uma situação de solvência, honrando seus compromissos de curto prazo e com condições de amealhar recursos não
+vinculados que fazem frente a necessidade de investimentos e amortização de dívidas e juros.
+
+5.2. RISCOS/CONTRATAÇÕES
+Considerando os preceitos constitucionais dispostos no art. 37, inciso XXI, da Constituição Federal e no art. 164 da Constituição do Estado
+de Sergipe, no âmbito da Administração pública, as compras, alienações, obras e os serviços serão contratados mediante processo de
+licitação pública. Todas as contratações previstas neste projeto seguirão os preceitos constitucionais, legais e infralegais que dispõem
+sobre licitações públicas: Lei 14.133, de 01 de abril de 2021, Lei 8.666, de 21 de junho de 1993, Lei 13.303, de 30 de junho de 2016 para
+as licitações a serem realizadas pela Cohidro, Lei 10.520 de 17 de julho de 2022 para aquisição de bens e serviços comuns, Lei Estadual
+5.848 de 13 de março de 2006, Decreto Estadual 40.638 de 30 de julho de 2020, entre outros normativos. 
+Será instituída uma Comissão Especial de Licitação, a qual será vinculada à Sedurbs e contará com uma equipe capacitada e com
+experiência em licitações públicas. As contratações previstas neste projeto de responsabilidade da Sedurbs serão realizadas através desta
+Comissão. Já as contratações de responsabilidade da Cohidro, órgão coexecutor do Programa, serão realizadas através de sua
+Comissão Permanente de Licitação. Vale destacar também a política adotada pelo NDB: o uso das regras nacionais no que se refere às
+licitações a serem realizadas em atendimento ao Programa aqui proposto, o que reduz riscos de erros ao aplicar regras diferentes (caso
+de outros bancos multilaterais). Destacamos também que sempre que o objeto permitir, obras de escopo similar poderão ser contratadas
+através de um único procedimento licitatório gerando com isso menos licitações e maior requerimento técnico e financeiro dos licitantes.
+Nesses casos, para não comprometer o princípio da competitividade, as licitações poderão ser divididas em lotes, situação em que cada
+lote, na prática, corresponderá a uma licitação distinta. 
+Outro risco que será considerado é a alta variação dos preços de mercado decorrente dos impactos socioeconômicos provocados pela
+Pandemia da Covid-19 e crises internacionais. Para mitigar tal risco, os preços de referência dos processos licitatórios serão definidos com
+base em sistemas de referência de custos e/ou em pesquisas mercadológicas, seguido da análise crítica dos preços obtidos,
+especialmente quando houver grande variação, devendo ser desconsiderados preços excessivamente elevados e inexequíveis. Este
+procedimento criterioso para definição dos preços de referência também irá contribuir para evitar licitações desertas, quando não há o
+comparecimento de nenhum licitante ao certame, e fracassadas, quando nenhum proponente é selecionado em decorrência de
+inabilitação ou desclassificação da proposta, especialmente devido à apresentação de preços elevados ou inexequíveis. Também para
+evitar licitações desertas e fracassadas, os editais de licitação e seus documentos anexos irão definir claramente o objeto a ser licitado,
+bem como suas especificações, as condições para participação do certame, os critérios para julgamento das propostas, assim como todas
+ as condições e exigências para as contratações. 
+Outra ação importante para mitigar os riscos relacionados às Contratações é a Gestão dos Contratos. Trata-se de uma série de processos
+que vão desde a elaboração de um contrato até sua prestação de contas. Dentre outros benefícios, uma boa gestão dos contratos a
+serem firmados irá permitir que os objetos sejam executados dentro dos prazos, do orçamento e dos preceitos técnicos e legais pré-
+definidos. Essa gestão será feita pela UCP em parceria com a Comissão Especial de Licitação, a Comissão Permanente de Licitação da
+Cohidro e demais setores afins da Sedurbs e Cohidro. 
+Os projetos e ações previstos neste Programa serão executados pela Sedurbs e pela Cohidro, órgãos estaduais que possuem larga
+experiência nas áreas de sua competência e que contam com um quadro de servidores capacitados, bem como pela UCP. Entretanto, em
+virtude do volume de intervenções aqui propostas, será necessária a contratação de serviços de consultoria para apoio à Administração do
+ Programa e à Supervisão de Obras.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+Todas as intervenções serão realizadas em conformidade com as políticas e as legislações ambientais vigentes no âmbito federal,
+estadual e municipal, trazendo uma segurança com relação aos potenciais impactos ambientais decorrentes da implementação dos
+projetos e das ações previstas no Programa. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:05
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60900
+Página: 26
+Como o Programa prevê intervenções de pequeno porte, de pouco ou nenhum impacto ambiental negativo, os processos de licenciamento
+serão simplificados. A Cohidro será o órgão responsável pela solicitação dos licenciamentos referentes às intervenções previstas no
+Componente de Saneamento Rural e Segurança Hídrica e a Sedurbs em relação às demais intervenções previstas no Programa. A
+Administração Estadual do Meio Ambiente - Adema é o órgão responsável pelo licenciamento das atividades poluidoras ou potencialmente
+ poluidoras existentes ou que vierem a se instalar no estado de Sergipe, atualmente vinculado à Sedurbs. 
+Os pleitos de licenciamento ambiental para a realização de intervenções e obras pelo Estado de Sergipe têm obtido êxito junto à Adema.
+Contribuem para este fator a qualidade e o detalhamento dos projetos, bem como a boa relação institucional com a Adema. A UCP terá o
+papel fundamental de orientar a elaboração dos projetos e a execução das obras, de modo que os aspectos ambientais sejam
+identificados, analisados e considerados nessas etapas, bem como de monitorar o atendimento às condicionantes porventura existentes
+nos respectivos licenciamentos ambientais.
+Vale destacar também que as políticas ambientais do NDB seguem as políticas nacionais, isso na prática significa que à medida que o
+Projeto obtenha as licenças ambientais aplicáveis estará em conformidade com as políticas do Banco que acompanhará o projeto através
+de missões e relatório anuais. 
+Destacamos ainda que diversas intervenções propostas contribuirão para impactar positivamente o meio ambiente, a exemplo da
+implantação de solução conjunta de saneamento rural nas comunidades rurais do estado de Sergipe, o que irá reduzir a poluição dos
+cursos d'água, contribuindo para a sustentabilidade ambiental e a mitigação dos impactos ambientais resultantes de efluentes não tratados
+, além da redução da poluição atmosférica ocasionada pelo levantamento de terra/poeira decorrente do tráfego nas vias não pavimentadas
+. Além disso, com as obras de reestruturação da malha viária estadual, será possível aumentar a velocidade média de tráfego e o tempo
+de deslocamento, contribuindo, desta forma, para a redução da emissão dos gases de efeito estufa. 
+
+5.5. RISCOS/IMPACTO SOCIAL
+A execução das obras pode gerar incômodos temporários à população nos locais de intervenção, fato que terá o acompanhamento
+pontual dos responsáveis pelas obras, da fiscalização estadual, bem como da UCP. Além do mais, a UCP terá o papel fundamental de
+orientar a elaboração dos projetos e a execução das obras, de modo que os aspectos sociais sejam identificados, analisados e
+considerados nessas etapas, com o objetivo de subsidiar as tomadas de decisão e minimizar possíveis transtornos.
+Destacamos ainda que as intervenções propostas irão contribuir para o desenvolvimento socioeconômico dos municípios do interior
+sergipano, oferecendo infraestrutura social, de transporte, de saneamento e de incentivo à produção que irão impactar positivamente na
+qualidade de vida da população local e regional, bem como irão promover a inclusão das populações em situação de vulnerabilidade
+social.
+Além de realizar a implantação de sistemas simplificados de abastecimento de água e de sistemas sanitários, a Cohidro realiza, como
+trabalho social, a capacitação das comunidades beneficiárias para o correto uso e para o conhecimento dos benefícios das soluções
+implantadas.
+A implantação de areninhas e complexos esportivos irá estreitar as relações entre o Estado, os municípios e a população local em prol do
+desenvolvimento de projetos sociais de incentivo ao esporte e ao lazer, reduzindo a exposição de crianças e adolescentes a riscos sociais.
+Além do mais, com a implantação das brinquedopraças, serão realizados projetos assistenciais voltados para o desenvolvimento de
+crianças de 0 a 6 anos.
+As políticas sociais do NDB seguem em sua maioria as políticas nacionais. O principal requerimento adicional do NDB nesse quesito, diz
+respeito ao reassentamento involuntário. Pois o NDB inclui aqueles sem título ou direito sobre a propriedade que sofrerão reassentamento
+como elegíveis a ressarcimento. Além disso o Banco possui o conceito de ?livelihood restoration?, ou seja, as pessoas que serão
+reassentadas devem ter os seus meios de vida mantidos similares a antes de serem atingidas. Caso, durante a diligência do Projeto,
+sejam identificados reassentamentos, será feito um Marco de Reassentamento para o Projeto que irá prever as diretrizes para execução
+dos mesmos. Este Marco será parte integrante das licitações, para que as empresas executoras possam seguir os requerimentos do
+banco. No entanto, este risco é mitigado uma vez que o Programa aqui proposta não prevê reassentamentos.
+
+5.6. RISCOS/REASSENTAMENTOS
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+Informações relevantes
+- 17/10/2022: Carta Consulta, versão 2, apresentada em 08 de agosto de 2022. Aguardando COFIEX 161.
+ 
+ 

@@ -1,0 +1,1134 @@
+# Carta-Consulta CC_61200 — Versao 1 (SIGS)
+
+
+Reformas para o crescimento produtivo, sustentável e inclusivo do Brasil
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 61200
+Mutuário: República Federativa do Brasil
+Tipo de Operação: Operação de crédito externo
+
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 1.000.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+O Brasil é o país de maior renda média-alta na região da América Latina e do Caribe e aspira a se tornar um líder global em termos de
+uma economia sustentável, verde e inclusiva que gere oportunidades para todos. Para alcançar esses objetivos, o Brasil precisa superar
+desafios importantes no desenvolvimento de uma economia mais produtiva, resistente ao clima e a desastres naturais, bem como no
+aprimoramento de instituições que promovam um setor privado mais competitivo, dentro de uma estrutura macroeconômica e fiscal
+sustentável e socialmente inclusiva (Banco Mundial, 2023a).
+
+PRODUTIVIDADE E SUSTENTABILIDADE FISCAL
+
+De acordo com o Banco Mundial, entre 2000 e 2022, o PIB per capita cresceu 1,3 vezes, muito abaixo do da China (5,3), da Índia (2,8) e
+de outros pares relevantes.  Estima-se que o custo às empresas de fazer negócios no país, o 'Custo Brasil', tenha alcançado mais de BRL
+1.5 trilhões ou cerca de 22% do PIB em 2019 (Movimento Brasil Competitivo, 2019), acima dos países da OCDE e outros concorrentes,
+sendo particularmente oneroso para pequenas empresas.
+
+Um importante componente do Custo Brasil se deve a um dos sistemas tributários mais complexos do mundo. Ainda de acordo com o
+Banco Mundial, o Brasil tem uma carga tributária mais alta do que a maioria dos seus pares regionais, superior a 30% do PIB, e
+semelhante à de países de alta renda. No entanto, diferentemente dos países de renda alta onde predominam os impostos sobre a renda
+de pessoas físicas (mais progressivo), no Brasil, a maior parte da receita tributária provém de impostos sobre bens e serviços e impostos
+sobre a folha de pagamento (tributação regressiva) (Banco Mundial, 2018 e 2022a). Uma vez que a maior parcela da renda dos mais
+pobres se destina ao consumo, essa estrutura tributária gera um peso maior dos impostos sobre esse grupo (tributação regressiva).
+
+Destaca-se, da mesma forma, o resultado primário médio do governo geral, o qual passou de um superávit de 2,6 por cento do PIB entre
+2006 e 2013 para um déficit de 1,9 por cento no período de 2014 a 2023. Isso se deve, em parte, a pressões estruturais sobre as
+despesas públicas nos últimos anos que reduziram o escopo da ação da política fiscal.
+
+CLIMA E TRANSFORMAÇÃO ECOLÓGICA
+
+A mudança climática já está alterando os padrões de temperatura e chuva no Brasil e seus efeitos são reforçados pelo desmatamento e
+pela degradação da terra. Eventos climáticos extremos, como secas, inundações repentinas e inundações fluviais nas cidades, estão
+causando perdas de R$ 13 bilhões ao ano, em média, equivalente cerca de US$ 2 bilhões (Banco Mundial, 2023b).
+
+Para responder a este cenário, a Contribuição Nacionalmente Determinada (CND) brasileira de 2023, firmada no âmbito do Acordo de
+Paris, estabelece que o país deva reduzir as suas emissões em 48% até 2025, 53% até 2030 e ter emissões líquidas zero em 2050. Na
+COP 28, foi lançado o Plano de Transformação Ecológica (PTE), Anexo VI, para lidar com a crise climática mediante estimulação dos
+investimentos para melhorar as condições ambientais e reduzir as desigualdades. O custo do PTE, em valores preliminares, foi estimado
+em até US$ 160 bilhões por ano. Ocorre que, de acordo com o Banco Mundial, a Poupança Bruta Doméstica no Brasil está em torno de 15
+por cento do PIB, abaixo de pares regionais, sendo insuficiente para alavancar uma maior mobilização de recursos para a transformação
+ecológica.
+
+INCLUSÃO SOCIAL
+
+De acordo com o Banco Mundial, antes da pandemia, os 10% mais ricos dos brasileiros tinham uma renda média per capita cerca de 50
+vezes superior que a dos 10% mais pobres. O início da pandemia ampliou essas lacunas existentes e, após a pandemia, em 2022, cerca
+de 40 por cento da futura força de trabalho do Brasil estava crescendo em lares pobres (Banco Mundial 2022c).  Essas crianças sofreram
+grandes perdas de aprendizado durante a pandemia, o que as colocará em uma situação ainda mais difícil (Banco Mundial, 2022d). Entre
+os brasileiros, mulheres, jovens e afro-brasileiros foram os mais profundamente afetados por choques passados, enfrentando desafios
+mais difíceis e experimentando uma reversão parcial dos ganhos de bem-estar anteriores.
+
+Esses importantes desafios exigem avanços na implementação de grandes reformas de políticas que (i) promovam a produtividade
+reduzindo as ineficiências da economia brasileira e facilitando o comércio internacional, (ii) consolidem a arquitetura fiscal para contribuir
+com a sustentabilidade fiscal; (iii) mobilizem recursos para a transformação ecológica e o controle do desmatamento; e (iii) aumentem o
+acesso à assistência social e à melhoria da escolaridade.
+
+As referências bibliográficas constam no Anexo I.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+I - SOLUÇÃO PROPOSTA
+
+As soluções propostas visam contribuir para o crescimento e desenvolvimento sustentável do Brasil; aumentar a produtividade do país em
+um contexto fiscalmente sustentável; reforçar o financiamento para a transformação ecológica e uma economia mais amigável ao meio
+ambiente; e acelerar a inclusão social.
+
+
+Página: 3
+
+COMPONENTE 1. Aumento da produtividade da economia brasileira e sustentabilidade fiscal. Visando fortalecer a produtividade da
+economia brasileira e a credibilidade da política macroeconômica do país, este componente apoia as seguintes políticas: i) aprimoramento
+do sistema tributário que promova a simplificação, aumente a produtividade e melhore o ambiente de negócios; ii) facilitação do comércio
+externo; iii) instituição de um novo arcabouço fiscal visando reduzir a incerteza em torno da política fiscal, o aumento da previsibilidade e a
+estabilização da dívida em médio prazo; iv) fortalecimento da progressividade do sistema tributário ao permitir a tributação de fundos de
+investimento e renda obtidos no exterior por meio de empresas offshore.
+
+COMPONENTE 2. Reforçar o financiamento da transformação ecológica. Visando gerar incentivos para acelerar a transformação
+ecológica, promover um sistema financeiro mais ecológico e instrumentos de financiamento verdes, bem como prevenir e controlar o
+desmatamento, este componente apoia as seguintes políticas: i) criação de critérios baseados em indicadores de preservação ambientais
+para parcela equivalente a 5% das transferência intergovernamentais direcionadas à Municípios, conforme EC 132; ii) adoção de um
+arcabouço para títulos soberanos sustentáveis para apoiar a emissão de títulos de dívida soberana sustentáveis; iii) reforçar as regras que
+impedem a concessão de crédito por razões ambientais, sociais ou climáticas no âmbito do bureau de crédito verde; iv) instituição do
+Programa de Mobilização de Capital Privado Externo e Proteção Cambial (Eco Invest Brasil), no âmbito do Fundo Nacional de Mudança
+Climática (FNMC) (Anexo VII) v) criação do programa 'União com os Municípios' para a redução do desmatamento e dos incêndios
+florestais na Amazônia, para controlar o desmatamento; vi) criação da Nova Bolsa Verde para apoiar a conservação ambiental e controlar
+o desmatamento.
+
+COMPONENTE 3. Acelerar a inclusão social. Com o objetivo de melhorar a qualidade das informações que permitam ganhos de eficiência
+e da focalização do Programa Bolsa Família, além de aumentar os recursos para a alimentação escolar, este componente apoia as
+seguintes políticas: i) adoção de melhorias na qualidade da informação no registro único de informação social (Cadastro Único) e na
+eficiência do novo Programa Bolsa Família; ii) incremento orçamentário para fortalecer o Programa Nacional de Alimentação Escolar.
+
+Ver Anexo II.
+
+II - RESULTADOS ESPERADOS
+
+COMPONENTE 1. Aumento da produtividade da economia brasileira e sustentabilidade fiscal.
+
+Espera-se que a reforma do sistema tributário e a facilitação do comércio internacional reduzam os custos de transação e aumentem a
+concorrência. Espera-se também que o novo arcabouço fiscal estabilize a dívida no médio prazo, enquanto a tributação de fundos e
+offshores aumente o volume de receita arrecadada, bem como a progressividade do sistema tributário brasileiro.
+
+COMPONENTE 2. Reforçar o financiamento da transformação ecológica.
+
+As reformas no componente 2 devem melhorar a qualidade das políticas climáticas do Brasil e, da mesma forma, contribuirão para
+alavancar novos financiamentos e investimentos e usar mais eficientemente recursos existentes para a avançar a transformação ecológica
+. Em particular, espera-se um aumento dos investimentos em conservação, infraestrutura verde, energia renovável e restauração de terras
+degradadas.
+
+COMPONENTE 3. Acelerar a inclusão social.
+
+Espera-se que as políticas deste componente aumentem o acesso de famílias de baixa renda à assistência social e melhorem os
+resultados de aprendizagem de crianças desfavorecidas. Especificamente, a qualificação das informações no Cadastro Único aumenta a
+eficiência dos programas que o utilizam para elegibilidade, incluindo o Programa Bolsa Família. Os ganhos de eficiência por meio da
+redução de erros de inclusão nos programas sociais aumentam o acesso para famílias necessitadas, como aquelas chefiadas por
+mulheres. As reformas para uma alimentação escolar mais adequada e saudável são complementares a esses resultados. Espera-se que
+a melhoria da alimentação escolar melhore a nutrição infantil, a frequência escolar e a capacidade cognitiva.
+
+III - SUSTENTABILIDADE
+
+As principais medidas de política associadas a fortalecer a transformação ecológica estão ancoradas em compromissos assumidos pelo
+Governo com a comunidade internacional e contribuem para o alcance dos resultados almejados no Plano Plurianual 2024-2027. São
+reformas estruturantes que estão sendo elaboradas por vários órgãos do Governo Federal, como os Ministérios da Fazenda e do Meio
+Ambiente, Banco Central e Conselho Monetário Nacional, além de contar com o auxílio de instituições financeiras e da academia.
+
+Cumpre destacar que a ótica de equidade de gênero será incorporada no Programa Eco Invest (Anexo VII), a partir dos critérios de
+alocação dos recursos estabelecidos na Portaria do MF nº 964/2024.
+
+Cabe destacar que, ao longo do Programa, o Banco Mundial continuará apoiando tecnicamente o desenvolvimento de medidas
+relacionadas à transformação ecológica, incluindo inovações financeiras, mobilização de recursos adicionais e mudanças regulamentares,
+bem como dará assistência na avaliação de resultados dessas ações. O Banco poderá, ainda, auxiliar em reformas macroeconômicas,
+microeconômicas, setoriais e institucionais, assim como aquelas que buscam uma tributação mais progressiva e melhorias nos bens e
+serviços sociais para a inclusão social.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+Acerca da sustentabilidade, ver Anexo VIII
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+I - ALINHAMENTO COM O PPA 2024 - 2027
+
+A mensagem presidencial no âmbito do PPA 2024-2027: I) Ressalta como prioridade de ação governamental a estruturação de um modelo
+de desenvolvimento ambientalmente sustentável e socialmente inclusivo (págs. 73-74); II) Enfatiza o Regime Fiscal Sustentável, bem
+como buscar maior equidade quanto ao custeamento do Estado de bem-estar social (págs. 83-88); III) Destaca os benefícios da reforma
+tributária em andamento (págs.76-77); IV) Destaca que a vertente ecológica tem importância substancial na transição para um
+crescimento sustentável (pág. 77).
+
+Agendas Transversais (Anexo V Agenda Ambiental) Reflete a urgência e a complexidade dos problemas ambientais e climáticos,
+demonstrando que a pauta ambiental é prioritária.
+
+Esse DPF está alinhado com os seguintes programas do PPA 2024 - 2027:
+
+Componente 1:
+
+2801 - Neoindustrialização, ambiente de negócios e participação econômica internacional. Objetivo específico 0371 - Promover a
+simplificação e a desburocratização do ambiente de negócios; e o acesso a redes de apoio, crédito e garantias, com enfoque em micro e
+pequenas empresas (MPEs), microempreendedores e artesãos (MDIC).
+
+1158 - Enfrentamento da Emergência Climática. Objetivo específico 0272 - Ampliar a adoção de medidas de mitigação e adaptação à
+mudança do clima (MMA).
+
+Componente 2:
+
+2315 - Política Econômica para o Crescimento e Desenvolvimento Socioeconômico Sustentável e Inclusivo. Objetivo específico 0380 -
+Viabilizar as iniciativas para a transformação ecológica da economia brasileira, visando o crescimento econômico sustentável, com
+crescimento de produtividade, aumento de renda, redução do impacto ambiental e distribuição de renda (MF). Diretamente relacionado à
+transformação ecológica.
+
+Acordo de Paris. O governo brasileiro se comprometeu, em sua Contribuição Nacionalmente Determinada, a reduzir as emissões de gases
+de efeito estufa e alcançar a emissão líquida zero em 2050.
+
+Lançamento do Eco Invest (Anexo VII) Este Plano foi anunciado em 26/02/2024 pelo Ministério da Fazenda em parceria com o Ministério
+do Meio Ambiente e entidades internacionais, como o BID e o Banco Mundial, e visa ser um instrumento do PTE.
+
+Componente 3:
+
+5129 - Inclusão de famílias em situação de vulnerabilidade no Cadastro Único e produção de informações e conhecimento para políticas
+sociais. Objetivo específico 0231 - Produzir estudos, dados, ferramentas informacionais, entre outros, para o aperfeiçoamento das políticas
+de desenvolvimento e assistência social e de seus impactos sobre a sociedade brasileira (MDS).
+
+5133 - Segurança alimentar e nutricional e combate à fome - Objetivo específico 0376 - Fomentar o desenvolvimento de sistemas
+alimentares saudáveis e sustentáveis (MDS).
+
+II - CONTRAPARTIDA  Este projeto não prevê contrapartida.
+
+III - TAXA DE CÂMBIO
+
+1 US$ = R$ 5,586
+
+Referência: Banco Central do Brasil, PTAX , fechamento, venda (bcb.gov.br).
+
+Data de referência: 03/07/202
+
+2. Projeto
+
+### 2.1. Título
+
+
+Reformas para o crescimento produtivo, sustentável e inclusivo do Brasil
+
+
+### 2.2. Título Abreviado
+
+
+Crescimento produtivo, sustentável e inclusivo
+
+
+### 2.3. Mutuário
+
+
+República Federativa do Brasil
+
+
+Página: 5
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+OBJETIVO GERAL: Contribuir para o crescimento produtivo, sustentável e inclusivo do Brasil.
+
+OBJETIVOS ESPECÍFICOS: (i) aumentar a produtividade e a sustentabilidade fiscal da economia brasileira; (ii) reforçar o financiamento
+da transformação ecológica; e (iii) acelerar a inclusão social.
+
+O BIRD oferece diferentes tipos de empréstimos aos membros mutuários do Banco, dependendo da finalidade para a qual os fundos são
+usados, incluindo Empréstimos Baseados em Políticas (Development Policy Financing em ingles - DPF) e Empréstimos para Investimento
+(Investment Policy Financing em ingles - IPF). Os DPFs fornecem fundos para apoiar medidas de políticas e/ou mudanças institucionais.
+Especificamente, um DPF programático apoia medidas de políticas ou mudanças institucionais a serem executadas em fases e
+compreende múltiplas operações individuais. Com os DPFs, os fundos são desembolsados em uma única parcela por operação, e cada
+operação é desembolsada mediante o cumprimento de determinadas condições. Por outro lado, os IPF financiam bens, obras públicas e
+serviços que promovam o desenvolvimento social, econômico e institucional.
+
+Neste caso, o Ministério da Fazenda solicitou apoio para criar e implementar medidas de políticas e mudanças institucionais, e não
+especificamente capitalizar um fundo ou financiar uma carteira de projetos específicos. Um DPF programático permite que os diferentes
+componentes do Programa, alinhados aos objetivos acima descritos, sejam desenvolvidos e estabelecidos em fases, para se
+retroalimentarem e terem um impacto mais sustentável e mais forte na economia brasileira.
+
+Este DPF foi construído em torno de temas que são prioritários para o governo do Brasil e dos quais o Banco Mundial tem sido um
+parceiro ativo no desenvolvimento e na implementação de reformas importantes (conforme descrito em mais detalhes na seção 'condições
+financeiras da operação').
+
+Ademais, esse DPF serve como um meio de aumentar a coordenação entre os bancos multilaterais de desenvolvimento. Isso é feito por
+meio da intenção do Ministério da Fazenda de utilizar estes instrumentos de captação de recursos, junto aos organismos multilaterais,
+para financiar o Plano de Transformação Ecológica, inclusive por meio do programa Eco Invest Brasil.
+
+Para financiar produtos específicos do Eco Invest no âmbito de um IPF, seria necessário um projeto totalmente desenvolvido com todas as
+suas características, como beneficiários e portfólio, integralmente identificados. Ainda que a destinação dos recursos do DPF pretendida
+pelo Ministério da Fazenda esteja orientada de forma ampla ao Eco Invest, os produtos do programa ainda estão em desenvolvimento e
+necessitam de regulamentação legal e infralegal, motivo pelo qual não poderiam ser totalmente identificados nesse momento. Esta é a
+razão pela qual se justifica a escolha pelo instrumento DPF, com destinação não pré-identificada e específica dos recursos a serem
+captados.
+
+
+### 2.6. Projeto/Indicadores
+
+
+Descrição
+Aumento Real da Arrecadação
+
+Pontuação no componente de Política Climática
+( rating) do Climate Change Performace Index (
+CPPI)
+Porcentagem de chefes de família entre as
+famílias com crianças de 0-6 anos e que
+recebem transferência de BF que são mulheres
+
+
+### 2.7. Projeto/Componentes
+
+
+Unidade
+
+Fórmula de Cálculo Unidade de Medida
+Valor das Receitas
+Federais 2024 / Valor
+das Receitas Federais
+2023 corrigido pelo
+IPCA (Ver Anexo IX)
+Ver anexo IX
+
+Rating
+
+Linha de Base
+1,00
+
+Meta
+1,00
+
+5,00
+
+7,00
+
+Porcentagem
+
+81,20
+
+82,20
+
+Numerador: Número
+de famílias com
+crianças de 0 a 6 anos
+que recebem
+transferência do BF e
+cujo chefe de família
+são mulheres
+Denominador:
+Número de famílias
+com crianças de 0 a 6
+anos que recebem
+transferência do BF (
+Ver Anexo IX)
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Componentes
+C - COMPONENTE I AUMENTAR A PRODUTIVIDADE E A SUSTENTABILIDADE FISCAL DA ECONOMIA
+BRASILEIRA
+S - P 1.1 ALTERAÇÃO DO SISTEMA TRIBUTÁRIO NACIONAL DOS IMPOSTOS SOBRE CONSUMO
+S - P 1.2 INSTITUIR O MARCO LEGAL PARA O PROGRAMA OPERADOR ECONÔMICO AUTORIZADO
+S - P 1.3 INSTITUIÇÃO DE REGIME FISCAL SUSTENTÁVEL PARA GARANTIR A ESTABILIDADE
+MACROECONÔMICA DO PAÍS E CRIAR AS CONDIÇÕES ADEQUADAS AO CRESCIMENTO
+SOCIOECONÔMICO
+S - P 1.4 TRIBUTAÇÃO DE FUNDOS DE INVESTIMENTOS E A RENDA OBTIDA NO EXTERIOR POR MEIO DE
+OFFSHORES
+C - COMPONENTE II REFORÇAR O FINANCIAMENTO DA TRANSFORMAÇÃO ECOLÓGICA
+S - P 2.1 CRIAÇÃO DE UMA TRANSFERÊNCIA INTERGOVERNAMENTAL VERDE POR MEIO DA
+VINCULAÇÃO DE 5% DAS TRANSFERÊNCIAS MUNICIPAIS À PRESERVAÇÃO AMBIENTAL
+S - P 2.2 ESTABELECIMENTO DE REGRAS PARA EMISSÃO DE TÍTULOS SOBERANOS SUSTENTÁVEIS
+ALINHADAS AOS PRINCÍPIOS E DIRETRIZES DA INTERNATIONAL CAPITAL MARKETS ASSOCIATION (ICMA)
+S - P 2.3 RESOLUÇÃO DO BANCO CENTRAL PARA REFORÇAR AS REGRAS QUE IMPEDEM A CONCESSÃO
+DE CRÉDITO POR RAZÕES AMBIENTAIS, SOCIAIS OU CLIMÁTICAS NO ÂMBITO DO BUREAU DE CRÉDITO
+VERDE
+S - P 2.4 CRIAÇÃO DA PROGRAMA "UNIÃO COM MUNICÍPIOS PELA REDUÇÃO DO DESMATAMENTO E
+INCÊNDIOS FLORESTAIS NA AMAZÔNIA"
+S - P 2.5 CRIAÇÃO DA NOVA BOLSA VERDE PARA APOIAR A CONSERVAÇÃO AMBIENTAL
+S - P 2.6 INSTITUIÇÃO DO PROGRAMA DE MOBILIZAÇÃO DE CAPITAL PRIVADO EXTERNO E PROTEÇÃO
+CAMBIAL (ECO INVEST BRASIL), NO ÂMBITO DO FNMC
+C - COMPONENTE III ACELERAR A INCLUSÃO SOCIAL
+S - P 3.1 MELHORAR A FISCALIZAÇÃO E A QUALIFICAÇÃO DAS INFORMAÇÕES CONSTANTES DO
+CADÚNICO E DO PROGRAMA BOLSA FAMÍLIA
+S - P 3.2 PROMOVER ALIMENTAÇÃO ADEQUADA E SAUDÁVEL NO AMBIENTE ESCOLAR
+C - MATRIZ DE POLÍTICAS COM COMPONENTES SUBCOMPONENTES SUPRAMENCIONADOS
+P - P - MATRIZ DE POLÍTICAS COM COMPONENTES SUBCOMPONENTES SUPRAMENCIONADOS.
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 6
+
+Valor(US$)
+0,00
+
+0,00
+0,00
+0,00
+
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+0,00
+
+0,00
+0,00
+
+0,00
+1.000.000.000,00
+1.000.000.000,00
+1.000.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - COMPONENTE I AUMENTAR A PRODUTIVIDADE E A SUSTENTABILIDADE FISCAL DA ECONOMIA BRASILEIRA
+As ações deste componente focam em reformas estruturais para fortalecer as condições econômicas e fiscais do Brasil, criando,
+assim, melhores condições para o investimento privado, a produtividade, o crescimento e a inclusão.
+
+S - P 1.1 ALTERAÇÃO DO SISTEMA TRIBUTÁRIO NACIONAL DOS IMPOSTOS SOBRE CONSUMO
+Esta medida visa simplificar a tributação sobre consumo, atendendo os princípios da transparência, da justiça tributária, da
+cooperação e da defesa do meio ambiente, contribuindo para a melhoria do ambiente de negócios e atração de capital externo.
+
+S - P 1.2 INSTITUIR O MARCO LEGAL PARA O PROGRAMA OPERADOR ECONÔMICO AUTORIZADO
+Esta medida visa facilitar o comércio internacional, ao aumentar a eficiência dos procedimentos alfandegários e de controle do
+comercio exterior, estabelecendo as bases jurídicas para a implementação de melhores práticas internacionais, como a
+possibilidade do deferimento do recolhimento de impostos e encargos incidentes nas importações.
+
+S - P 1.3 INSTITUIÇÃO DE REGIME FISCAL SUSTENTÁVEL PARA GARANTIR A ESTABILIDADE MACROECONÔMICA DO
+PAÍS E CRIAR AS CONDIÇÕES ADEQUADAS AO CRESCIMENTO SOCIOECONÔMICO
+Esta medida visa contribuir para a sustentabilidade fiscal do país ao longo do tempo, impactando positivamente o ambiente de
+negócios, a atração de capital externo e a produtividade econômica.
+
+S - P 1.4 TRIBUTAÇÃO DE FUNDOS DE INVESTIMENTOS E A RENDA OBTIDA NO EXTERIOR POR MEIO DE OFFSHORES
+Esta medida visa aumentar equidade do sistema tributário nacional e ampliar a base tributária.
+
+C - COMPONENTE II REFORÇAR O FINANCIAMENTO DA TRANSFORMAÇÃO ECOLÓGICA
+As ações desse componente focam em reformas para aumentar o financiamento e o avanço da transformação ecológica.
+
+S - P 2.1 CRIAÇÃO DE UMA TRANSFERÊNCIA INTERGOVERNAMENTAL VERDE POR MEIO DA VINCULAÇÃO DE 5%
+DAS TRANSFERÊNCIAS MUNICIPAIS À PRESERVAÇÃO AMBIENTAL
+Esta medida visa acelerar a transformação ecológica dos municípios brasileiros ao vincular uma parcela das transferências fiscais
+aos resultados da preservação ambiental.
+
+S - P 2.2 ESTABELECIMENTO DE REGRAS PARA EMISSÃO DE TÍTULOS SOBERANOS SUSTENTÁVEIS ALINHADAS
+AOS PRINCÍPIOS E DIRETRIZES DA INTERNATIONAL CAPITAL MARKETS ASSOCIATION (ICMA)
+Esta medida visa estabelecer as obrigações que o Brasil deve cumprir como emissor de título soberano sustentável.
+
+
+Página: 7
+
+S - P 2.3 RESOLUÇÃO DO BANCO CENTRAL PARA REFORÇAR AS REGRAS QUE IMPEDEM A CONCESSÃO DE
+CRÉDITO POR RAZÕES AMBIENTAIS, SOCIAIS OU CLIMÁTICAS NO ÂMBITO DO BUREAU DE CRÉDITO VERDE
+Esta medida visa acelerar a transformação ecológica no setor agrícola ao ampliar a verificação de critérios socioambientais na
+concessão de financiamentos a produtores rurais.
+
+S - P 2.4 CRIAÇÃO DA PROGRAMA "UNIÃO COM MUNICÍPIOS PELA REDUÇÃO DO DESMATAMENTO E INCÊNDIOS
+FLORESTAIS NA AMAZÔNIA"
+Esta medida visa fortalecer a prevenção, monitoramento, controle e à redução de desmatamento e degradação florestal no Bioma
+Amazônia, com vistas à proteção de áreas ameaçadas de degradação e à racionalização do uso do solo.
+
+S - P 2.5 CRIAÇÃO DA NOVA BOLSA VERDE PARA APOIAR A CONSERVAÇÃO AMBIENTAL
+Esta medida visa promover a cidadania, a melhoria das condições de vida e a elevação da renda da população que exerça
+atividades de conservação dos recursos naturais em áreas coletivas e incentivar a participação de seus beneficiários em ações de
+capacitação ambiental, social, educacional, técnica e profissional.
+
+S - P 2.6 INSTITUIÇÃO DO PROGRAMA DE MOBILIZAÇÃO DE CAPITAL PRIVADO EXTERNO E PROTEÇÃO CAMBIAL (
+ECO INVEST BRASIL), NO ÂMBITO DO FNMC
+Esta medida visa incentivar investimentos estrangeiros em projetos sustentáveis no país e oferecer soluções de proteção cambial,
+para que os riscos associados à volatilidade de câmbio sejam minorados e assim fomentem a atração de investimentos
+necessários para a transformação ecológica brasileira.
+
+C - COMPONENTE III ACELERAR A INCLUSÃO SOCIAL
+As ações deste componente focam em reformas estruturais para fortalecer a qualidade da informação, levando a melhorias em
+termos de eficiência e focalização do programa Bolsa Família e promovendo mais recursos para o Programa Nacional de
+Alimentação Escolar (PNAE).
+
+S - P 3.1 MELHORAR A FISCALIZAÇÃO E A QUALIFICAÇÃO DAS INFORMAÇÕES CONSTANTES DO CADÚNICO E DO
+PROGRAMA BOLSA FAMÍLIA
+Esta medida visa melhorar a qualidade da informação do CadUnico através da atualização dos registros das famílias. As melhorias
+de qualidade da informação têm que levar a quedas nos erros de inclusão dos programas que usam Cadastro Único, incluindo
+Bolsa Família.
+
+S - P 3.2 PROMOVER ALIMENTAÇÃO ADEQUADA E SAUDÁVEL NO AMBIENTE ESCOLAR
+Esta medida visa promover o acesso à alimentos adequados e saudáveis no ambiente escolar para aumentar as taxas de retenção
+escolar, reduzir o absenteísmo estudantil, melhorar o aprendizado e a nutrição dos estudantes.
+
+C - MATRIZ DE POLÍTICAS COM COMPONENTES SUBCOMPONENTES SUPRAMENCIONADOS
+Conjunto dos Componentes e Subcomponentes apresentados.
+
+P - P - MATRIZ DE POLÍTICAS COM COMPONENTES SUBCOMPONENTES SUPRAMENCIONADOS.
+Conjunto de componentes e subcomponentes apresentados na matriz de política.
+
+Categoria de Gasto
+
+Outros
+P- P - MATRIZ DE POLÍTICAS COM
+COMPONENTES SUBCOMPONENTES
+SUPRAMENCIONADOS.
+Total Geral
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Unidade de medida
+-
+valor
+
+Meta
+
+-
+1.000.000.
+000,00
+
+Valor
+1.000.000.000,00
+1.000.000.000,00
+
+% Financeiro
+
+100,00
+100,00
+
+-
+
+-
+
+1.000.000.000,00
+
+100,00
+
+O Banco Mundial tem trabalhado em estreita colaboração com o governo do Brasil por meio de assistência técnica, estudos analíticos,
+relatórios e financiamento para apoiar o desenvolvimento e a implementação das políticas propostas neste programa (veja a seção
+"condições financeiras da operação ' para uma descrição das etapas realizadas pelo Banco Mundial para ajudar a implementar as
+reformas).
+
+No COMPONENTE 1, o Congresso Nacional aprovou, em dezembro de 2023, a Emenda Constitucional nº 132/2023, que altera o sistema
+tributário nacional, racionalizando a tributação sobre a comercialização de bens e serviços, e trazendo simplificação e ganho de eficiência
+na arrecadação. O Regime Fiscal Sustentável foi aprovado por intermédio da Lei Complementar nº 200, de 30 de agosto de 2023, e visa
+garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico. Ademais, em dezembro
+de 2023, foi promulgada a Lei 14.754/2023, que estabelece novas regras para a tributação dos fundos de investimentos e a renda obtida
+no exterior por meio de offshores. Por último, o governo apresentou ao Congresso Nacional o Projeto de Lei 15/2024 para aprimorar a
+estrutura legal do Programa de Operador Econômico Autorizado. Espera-se que o Projeto de Lei seja aprovado nos próximos meses.
+
+
+Página: 8
+
+Já no COMPONENTE 2, o governo brasileiro avançou com quatro medidas que visam aumentar o financiamento público e privado da
+transformação ecológica: (i) a criação de uma transferência intergovernamental verde ao vincular 5% das transferências municipais à
+preservação ambiental por meio do EC 132/2023 em dezembro de 2023; (ii) o lançamento do Arcabouço Brasileiro de Finanças
+Soberanas Sustentáveis em 05/09/23, que resultou na emissão, em 13 de novembro de 2023, de seu primeiro título soberano sustentável
+no mercado internacional; (iii) a resolução do CMN 5.081/2023 para reforçar as regras que impedem a concessão de crédito por razões
+ambientais, sociais ou climáticas no âmbito do bureau de crédito verde; e (iv) por meio da Medida Provisória 1.213/2024 o Ministério da
+Fazenda instituiu o Programa Eco Invest e uma de suas primeiras sublinhas foi regulamentada pela Resolução CMN nº 5.130/2024. Por
+último, consciente de que o desmatamento é um dos principais desafios que a transformação ecológica enfrenta, o governo avançou na
+Criação do programa 'União com Municípios pela Redução do Desmatamento e Incêndios Florestais na Amazônia' por intermédio do
+Decreto nº 11.687/2023; e na criação da Nova Bolsa Verde para apoiar a conservação ambiental por intermédio do Decreto nº 11.635/
+2023.
+
+Por fim, no COMPONENTE 3, o governo avançou na pauta de inclusão social por ocasião da aprovação do Decreto 11.762/2023, em
+outubro de 2023, que criou as condições para melhorar a fiscalização e a qualificação das informações do CadÚnico e do Programa Bolsa
+Família. Ademais, o governo reforçou ainda mais a inclusão social, em dezembro de 2023, ao promover a alimentação adequada e
+saudável no ambiente escolar para todas as crianças por meio do Decreto 11.821/2023.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Nacional/Sem detalhes
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+A. CONDIÇÕES FINANCEIRAS DA OPERAÇÃO (Condições e termos de financiamento do BIRD a serem discutidos com a STN.
+Disponível em: https://treasury.worldbank.org/en/about/unit/treasury/ibrd-financial-products/lending-rates-and-fees)
+
+a)Prazo de desembolso de 12 meses (1 ano);
+
+b)Prazo de carência 60 meses (5 anos);
+
+c)Prazo máximo de amortização de 180 meses (15 anos);
+
+d)Prazo total de 240 meses (20 anos);
+
+e)Vida Média Ponderada: 12,5 anos;
+
+f)Taxa de juros (composição):
+
+-Taxa de referência+margem variável (atualmente entre 0,23% e 1,85%, dependendo do prazo médio da operação e da moeda
+escolhida);
+
+-Taxa de referência: SOFR (USD), EURIBOR (EUR), TONA (JPY), ou SONA (GBP) - dependendo da moeda escolhida;
+
+-Comissão inicial de 0.25% e comissão de compromisso de 0.25% a.a. sobre o saldo não desembolsado.
+
+g)Taxa de câmbio: 1 US$ = R$ 5,586 - (Banco Central do Brasil, PTAX, venda) Data de Referência - 03 de julho de 2024.
+
+B. NECESSIDADE DE FINANCIAMENTO EXTERNO E OPÇÃO PELO AGENTE FINANCEIRO
+
+a) Justificar a necessidade e a opção por financiamento:
+
+O Brasil precisa de um grande volume de investimento para o alcance das metas de desenvolvimento produtivo, sustentável e inclusivo, e
+a implementação do PTE, o que demanda a participação do setor público e privado. Sem o apoio de um programa como este, dificilmente
+seriam aportados os recursos necessários e definidas metas tão ousadas para a institucionalização das políticas e a implantação dos
+modelos de governança ora previstos.
+
+É improvável que o mercado interno de crédito atenda a esse volume de recursos, especialmente nas condições necessárias para
+alcançar o êxito esperado da operação, motivo pelo qual se torna imperativo a obtenção de financiamento para dar suporte ao orçamento
+federal.
+
+b) Justificar a opção pelo agente financeiro escolhido:
+
+A escolha do BIRD advém do seu constante apoio no desenvolvimento de estudos, diagnósticos e recomendações, que são etapas
+fundamentais no desenho de várias políticas contempladas neste Programa.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 9
+
+Embora a referida instituição disponha de condições financeiras vantajosas para a modalidade escolhida, a adicionalidade do BIRD vai
+muito além da captação dos recursos: o conhecimento específico e o amplo suporte técnico proporcionado pela equipe do Banco,
+incluindo a possibilidade de intercâmbio técnico com outros países, são diferenciais de suma importância para auxiliar o desenvolvimento
+das ações previstas e a avaliação dos seus resultados.
+
+COMPONENTE 1:O Banco Mundial apoiou a reforma tributária ao longo dos anos, reunindo evidências para diagnosticar as falhas do
+atual sistema de tributação indireta e suas implicações para a produtividade. A assistência técnica foi fornecida na forma de uma
+conferência internacional sobre o IVA em países federativos para informar o projeto da reforma. O Banco também desenvolveu
+ferramentas de micro simulação para simular os impactos distributivos dos cenários de reforma tributária, informando as decisões
+relacionadas à cesta básica e ao 'cashback', promovendo assim a progressividade da reforma.
+
+O Banco Mundial tem a facilitação do comércio externo e o desenvolvimento do Programa Operador Econômico Autorizado como parte de
+seu programa mais amplo de apoio à facilitação do comércio, que também abrangeu várias outras iniciativas importantes. O 'Time
+Release Study' (TRS) identificou gargalos nos tempos de liberação de carga, usando uma metodologia desenvolvida pela Organização
+Mundial de Aduanas com o apoio do Banco Mundial, para aumentar a eficiência dos procedimentos de fronteira. A Avaliação de Lacunas
+do Acordo de Facilitação do Comércio (TFA) da OMC, também desenvolvida pelo Grupo do Banco Mundial, avaliou o alinhamento do
+Brasil com as medidas técnicas do TFA, determinando se as leis, regulamentações e práticas foram implementadas adequadamente. Em
+relação ao Programa Operador Econômico Autorizado, o Banco Mundial tem apoiado o diálogo e a colaboração internacional que permitiu,
+entre outros avanços, a assinatura de Acordo de Reconhecimento Mútuo com 11 países da América Latina e Caribe em maio de 2022.
+
+O BIRD também tem uma larga tradição de contribuição à melhoria das políticas e da gestão fiscal no país, assim como na produção de
+conhecimento na área fiscal. Entre outras, podem-se destacar o apoio ao novo arcabouço fiscal por meio do compartilhamento de
+experiências internacionais para o desenho do novo arcabouço fiscal. Em relação com a tributação de fundos de investimentos e os
+offshores, o BIRD tem apoiado esse processo com a elaboração de estudos que destacaram a regressividade do sistema tributário
+brasileiro e sua contribuição limitada para a redução da pobreza.
+
+COMPONENTE 2: O Banco Mundial tem apoiado o governo do Brasil na análise das opções de reforma e espaços de melhoria no que diz
+respeito às transferências fiscais intergovernamentais com base em boas práticas internacionais. Isso apresenta uma oportunidade de
+implementar reformas que promovam aspectos equitativos no sistema de transferência intergovernamental, mas também criar incentivos à
+preservação ambiental através de transferência de equalização ecológica. Um componente de equalização ecológica nas transferências
+intergovernamentais ajuda a superar desafios para a preservação ambiental. Dessa forma, instrumentos que permitam a alocação de
+fundos significativos, e sejam estruturados em nível jurisdicional, contribuem para uma maior efetividade no incentivo à preservação
+florestal.
+
+Em relação às emissões soberanas, vale reiterar que, como resultado de um trabalho iniciado em 2021, coordenado pela Secretaria do
+Tesouro Nacional, e com apoio técnico do Banco Mundial e do BID, o Governo Brasileiro emitiu, em novembro de 2023, seu primeiro
+Título Sustentável Soberano, no valor de 2 bilhões de dólares. O trabalho, que culminou na emissão soberana, passou pelo
+estabelecimento de uma estrutura robusta de governança, por meio de um comitê técnico multisetorial - o Comitê Interministerial de
+Finanças Sustentáveis Soberanas (CFSS), e um Arcabouço Brasileiro Para Títulos Soberanos Sustentáveis, que apresenta categorias
+ambientais e sociais elegíveis para aplicação dos recursos provenientes da emissão. O sucesso e a credibilidade de todo esse árduo
+trabalho foi reconhecido internacionalmente, merecendo, inclusive, o prêmio de Título Soberano Sustentável do Ano, pela Environmental
+Finance (Sustainability bond of the year - sovereign: Republic of Brazil : Environmental Finance (environmental-finance.com).
+
+O BIRD está trabalhando com o Banco Central do Brasil para avaliar o Bureau de Crédito Verde e melhorar a base analítica para a
+evolução e o desenvolvimento desse instrumento.
+
+Com relação ao Eco Invest Brasil, o Banco Mundial aderiu à essa iniciativa do Governo Brasileiro durante o lançamento do programa no
+G20, com o objetivo de apoiar a programa por meio de financiamento, soluções financeiras e suporte técnico. Destaca-se a colaboração
+do BIRD com esse programa como um mecanismo de maior coordenação e colaboração entre os MDBs em conformidade com o roteiro
+do G20 de reformas dos bancos multilaterais que visa intensificar os esforços e trabalhar juntos, de forma eficaz e em escala, e orientar os
+bancos de desenvolvimento para as prioridades nacionais de desenvolvimento.
+
+Em relação às reformas relacionadas ao desmatamento, o BIRD tem apoiado o fortalecimento de políticas para apoiar o objetivo do
+Governo Federal em alcançar desmatamento zero. Entre outras atividades, o Banco contribuiu para o programa União com Municípios
+pela Redução do Desmatamento e Incêndios Florestais na Amazônia e pela criação da Nova Bolsa Verde. O Banco Mundial apoiou o
+Brasil no desenvolvimento políticas para fortalecer a capacidade institucional de combate ao desmatamento através de uma abordagem
+multifacetada. Isso incluiu fornecer assistência técnica e financiamento para a criação e implementação de estruturas ambientais robustas
+em nível federal e estadual, bem como apoiou instituições financeiras na adoção de práticas inovadoras. O Banco Mundial também
+contribuiu com programa Bolsa Verde, que é uma forma de pagamento por serviços ambientais que incentiva as comunidades em áreas
+coletivas a preservar a floresta e as ajuda a garantir fontes alternativas de renda. A principal contribuição do Banco Mundial foi o piloto
+desse tipo de transferência em nível subnacional, especialmente no estado do Amazonas, onde esse programa foi implementado com
+sucesso. Ao implementar e testar essa abordagem em regiões subnacionais selecionadas, o Banco Mundial buscou demonstrar a eficácia
+do Bolsa Verde como uma ferramenta contra o desmatamento.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 10
+
+COMPONENTE 3: O Banco Mundial tem um longo histórico de apoio ao Bolsa Família desde sua criação e, recentemente, apoiou o
+governo na iniciativa de melhorar o programa (Novo Bolsa Família) visando abordar as limitações identificadas no design do pacote de
+transferências de dinheiro e o Programa de Fortalecimento Emergencial do Atendimento do Cadastro Único no Sistema Único da
+Assistência Social (PROCAD-SUAS), que por sua vez visa enfrentar os desafios e questões previamente destacadas em relação ao
+CadÚnico.
+
+Da mesma forma, o Banco Mundial tem trabalhado em estreita colaboração com as autoridades federais no fortalecimento dos sistemas
+educacionais do Brasil, inclusive para a implantação da escola em tempo integral e o fortalecimento dos programas de alimentação
+escolar, que são essenciais para a nutrição e a aprendizagem das crianças mais pobres. A alimentação escolar adequada e saudável é
+parte integrante de um sistema educacional moderno e socialmente inclusivo, especialmente à medida que o Brasil expande para o ensino
+em tempo integral. O Banco Mundial apoiou o Brasil na modernização do seu sistema educacional ao longo do tempo por meio de
+conhecimento e financiamento, incluindo a transição para o ensino em tempo integral em desenvolvimento no Estado do Ceará, onde
+inovações importantes agora estão influenciando as políticas educacionais em todo o Brasil. O Banco Mundial tem defendido as
+complementaridades que uma reforma da alimentação escolar traria para o sistema educacional, melhorando tanto a nutrição quanto os
+resultados de aprendizado.
+
+c)Comparar as condições financeiras do agente escolhido, em relação a outros financiadores externos/internos:
+
+BNDES Finem - Crédito Projetos Direto para União, Estados e Municípios
+
+Nas operações diretas, a Taxa de juros é composta pelo Custo Financeiro e pela Remuneração do BNDES. O custo das operações é o
+custo financeiro do BNDES, calculado pela Taxa de Longo Prazo, composta pelo IPCA + 5,48%a.a., (abril/24), acrescido da remuneração
+do BNDES estimada em, no mínimo, 1,5% a.a.. O valor mínimo da operação é de R$ 20 milhões e o prazo de 20 anos.
+
+CAF
+
+Incidem juros considerando taxa SOFR (Secured Overnight Funding Rate) acrescido de mais margem fixa a ser definida na data de
+assinatura do contrato de empréstimo; juros de mora de 2% a.a. acima dos juros a serem estabelecidos no contrato; comissão de
+compromisso / commitment charge de 0,35% a.a., aplicado sobre os saldos não desembolsados do empréstimo; comissão de
+financiamento de 0,85% do valor total do empréstimo e mais gastos de avaliação de US$ 50 mil.
+
+BIRD
+
+Incidem juros baseados na SOFR de seis meses, acrescido de spread variável definido periodicamente pelo BIRD; juros de mora de 0,5%
+(cinco décimos por cento); comissão de compromisso / commitment charge de 0,25% a.a. sobre os saldos não desembolsados do
+empréstimo; comissão de abertura de 0,25% sobre o valor do empréstimo.
+
+BID
+
+Incidem juros baseados na SOFR acrescido de funding margin e spread definidos periodicamente pelo BID; comissão de compromisso /
+commitment charge de 0,75% a.a., aplicado sobre os saldos não desembolsados do empréstimo.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+Este Programa de reformas, que promove um Brasil mais produtivo, sustentável, resiliente e inclusivo, é um programa com benefícios para
+toda a população.
+
+O Brasil precisa aprimorar seu modelo de crescimento em direção a um modelo mais produtivo, inclusivo e resiliente. Para isso, melhorar
+sua produtividade é essencial para gerar ganhos duradouros de renda e promover melhores empregos para seus cidadãos. O
+subinvestimento crônico em infraestrutura é um grande desafio que resulta em estoques de infraestrutura de baixa qualidade e altamente
+vulneráveis, ameaçando as perspectivas de crescimento econômico de longo prazo do país. Esse fato requer a mobilização de mais
+financiamento para o investimento privado, mas também a geração de espaço fiscal adequado para o investimento público. Isso deve ser
+acompanhado de um aumento da capacidade de inclusão social dos pobres, das mulheres e dos afro-brasileiros, para que eles possam
+aproveitar melhor as oportunidades que surgem com o crescimento.
+
+Ao permitir um amplo conjunto institucional que incentive maior fluxo de investimentos em projetos que apoiarão a transformação
+ecológica brasileira, constata-se que se trata de um programa que consiste em uma estratégia de desenvolvimento produtivo, inclusivo e
+sustentável. Além disso, essas medidas apoiariam os modos de vida tradicionais e recompensariam as populações rurais e indígenas por
+seus meios de subsistência sustentáveis nos ecossistemas sensíveis da Amazônia, onde o desmatamento é um problema latente.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 11
+
+Em relação ao aspecto social, ele tem potencial de melhorar a qualidade de vida da população devido ao acesso a uma maior qualidade
+de recursos ambientais (como ar e água), e dado que eventos climáticos extremos impactam de forma desigual a população, o programa
+também potencial para reduzir o impacto em indivíduos em situação de vulnerabilidade. Em termos econômicos, um novo conjunto de
+investimentos pode impactar positivamente o mercado de trabalho, o ambiente de negócios, a competitividade do país, bem como a
+inovação e diversificação da matriz tecnológica.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Externas
+
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+Total:
+
+Sigla
+
+BIRD
+
+Moeda
+
+Valor Proposto
+
+US$
+
+1.000.000.000,00
+
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+1.000.000.000,00
+
+1.000.000.000,00
+
+1.000.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Não se aplica
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+O mutuário da operação será o Governo Federal, por meio da Secretaria Executiva do Ministério da Fazenda.
+
+A estrutura decisória, a execução, monitoramento e a avaliação do Programa e dos seus resultados será:
+
+NÚCLEO DE COORDENAÇÃO: Formado por membros da Secretaria Executiva do Ministério da Fazenda e da Secretaria do Tesouro
+Nacional, formalizados em Portaria, responsável por:
+
+-Articulação direta com o agente financiador;
+
+-Coordenação com os demais órgãos do governo envolvidos na operação, os quais são responsáveis pela adoção das medidas e pela
+execução técnica das atividades da Matriz de Políticas;
+
+-Apoio ao cumprimento das soluções propostas; e
+
+-Monitoramento da execução das medidas de política que compõem o Programa.
+
+O núcleo de coordenação é formado por:
+
+-Secretário Executivo do Ministério da Fazenda; e
+
+-Secretário do Tesouro Nacional.
+
+-Cada Secretário terá um assessor técnico para apoiar no cumprimento de suas funções.
+
+NÚCLEO DE EXECUÇÃO: Formado por membros da Secretaria Executiva do Ministério da Fazenda e dos órgãos envolvidos no
+cumprimento das políticas, formalizado em Portaria, responsável por:
+
+-Elaboração dos Relatórios de Gerenciamento Financeiro;
+
+-Preparação e apresentação de relatórios e evidências (meios de verificação) do cumprimento das condições de desembolso, bem como
+quaisquer outros relatórios que o Banco venha a exigir;
+
+-Subsídio ao Núcleo de Coordenação com os dados técnicos necessários à implementação das medidas de políticas; e
+
+-Implementação das medidas relacionadas às suas áreas de atuação.
+
+O núcleo de execução é formado por:
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 12
+
+-1 Coordenador;
+
+-1 Assessor de Planejamento e Monitoramento; e
+
+-1 líder por órgão responsável pela implementação das medidas de políticas do Programa.
+
+O detalhamento das funções dos núcleos de coordenação e de execução serão detalhados no Regulamento Operacional do Projeto.
+
+Salienta-se que a equipe do núcleo de execução possui experiência na execução de projetos internacionais, como o PNAFM I, PNAFM II (
+BR-L1252), no valor de US$ 150 milhões e PNAFM III (BR-L1377), atualmente em execução, no valor de US$ 150 milhões.
+Adicionalmente, apoia a coordenação geral do Programa Progestão, sendo responsável pelo acompanhamento da execução dos projetos
+específicos dos estados. Destaca-se, ainda, a execução pela STN, em parceria com o BNDES, do projeto Fundo Garantidor para
+Investimentos do Programa Emergencial de Acesso a Crédito (BR-L1559, 5130/OC-BR), que tinha o objetivo de apoiar a sobrevivência
+das Pequenas e Médias Empresas (PME) diante da crise gerada pela Covid-19, como apoio ao emprego no Brasil. O Relatório de
+Conclusão do Projeto (PCR) foi validado pelo Escritório de Avaliação e Supervisão do BID quem atribuiu ao programa um resultado geral
+muito bem-sucedido (sua nota mais alta).
+
+Para maiores informações sobre o arranjo institucional, ver Anexo III.
+
+MATRIZ DE RESPONSABILIDADE
+
+A Matriz de Responsabilidade do Projeto (ver Anexo IV) descreve as principais competências de cada uma das áreas da Unidade de
+Coordenação do Projeto (UCP).
+
+ARRANJO OPERACIONAL
+
+O gerenciamento do projeto será realizado pelos Núcleos de Coordenação e de Execução, formados por membros da Secretaria
+Executiva do Ministério da Fazenda, da Secretaria do Tesouro Nacional e dos órgãos responsáveis pela execução das medidas de política
+, incluindo outros órgãos do governo e instituições financeiras públicas e privadas.
+
+Em relação à execução, as ações propostas dos Componentes I e II do presente Programa serão executadas prioritariamente pelo
+Ministério da Fazenda, por meio de suas secretarias, respaldando-se nas institucionalidades desenvolvidas no âmbito do FNMC, do
+Comitê de Finanças Soberanas Sustentáveis, e Comitê Interinstitucional da Taxonomia Sustentável Brasileira para a coordenação dos
+temas específicos. O Componente III estará sob responsabilidade do Ministério do Desenvolvimento e Assistência Social, Família e
+Combate à Fome e Ministério da Educação.
+
+As equipes terão a responsabilidade de cumprir as ações estabelecidas na Matriz de Políticas (Anexo V), que será consolidada durante a
+etapa de negociação do projeto junto ao Banco Mundial.
+
+Cumpre salientar que todos os núcleos de coordenação e execução têm vasta experiência na realização das ações que se encontram sob
+sua alçada, contendo em seu quadro membros com a expertise necessária e suficiente à execução do projeto proposto com efetividade,
+buscando o atingimento dos resultados esperados advindos de sua implementação.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Ministério da Fazenda - MF
+
+Representante Oficial:
+
+Endereço da Sede: Esplanada dos Ministérios, Bloco P, Brasília/DF
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+Fax:
+UF:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 1 Ano
+
+
+### 4.4. Execução/Cronograma
+
+
+C - COMPONENTE I AUMENTAR A PRODUTIVIDADE E A SUSTENTABILIDADE FISCAL DA ECONOMIA BRASILEIRA
+S - P 1.1 ALTERAÇÃO DO SISTEMA TRIBUTÁRIO NACIONAL DOS IMPOSTOS SOBRE CONSUMO
+S - P 1.2 INSTITUIR O MARCO LEGAL PARA O PROGRAMA OPERADOR ECONÔMICO AUTORIZADO
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+0,00
+0,00
+0,00
+
+Ano 1
+
+FONTES
+
+BIRD
+
+0,00
+0,00
+0,00
+
+TOTAL
+
+BIRD
+
+0,00
+0,00
+0,00
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 13
+
+S - P 1.3 INSTITUIÇÃO DE REGIME FISCAL SUSTENTÁVEL PARA GARANTIR A ESTABILIDADE MACROECONÔMICA DO PAÍS E
+CRIAR AS CONDIÇÕES ADEQUADAS AO CRESCIMENTO SOCIOECONÔMICO
+S - P 1.4 TRIBUTAÇÃO DE FUNDOS DE INVESTIMENTOS E A RENDA OBTIDA NO EXTERIOR POR MEIO DE OFFSHORES
+C - COMPONENTE II REFORÇAR O FINANCIAMENTO DA TRANSFORMAÇÃO ECOLÓGICA
+S - P 2.1 CRIAÇÃO DE UMA TRANSFERÊNCIA INTERGOVERNAMENTAL VERDE POR MEIO DA VINCULAÇÃO DE 5% DAS
+TRANSFERÊNCIAS MUNICIPAIS À PRESERVAÇÃO AMBIENTAL
+S - P 2.2 ESTABELECIMENTO DE REGRAS PARA EMISSÃO DE TÍTULOS SOBERANOS SUSTENTÁVEIS ALINHADAS AOS
+PRINCÍPIOS E DIRETRIZES DA INTERNATIONAL CAPITAL MARKETS ASSOCIATION (ICMA)
+S - P 2.3 RESOLUÇÃO DO BANCO CENTRAL PARA REFORÇAR AS REGRAS QUE IMPEDEM A CONCESSÃO DE CRÉDITO POR
+RAZÕES AMBIENTAIS, SOCIAIS OU CLIMÁTICAS NO ÂMBITO DO BUREAU DE CRÉDITO VERDE
+S - P 2.4 CRIAÇÃO DA PROGRAMA "UNIÃO COM MUNICÍPIOS PELA REDUÇÃO DO DESMATAMENTO E INCÊNDIOS
+FLORESTAIS NA AMAZÔNIA"
+S - P 2.5 CRIAÇÃO DA NOVA BOLSA VERDE PARA APOIAR A CONSERVAÇÃO AMBIENTAL
+S - P 2.6 INSTITUIÇÃO DO PROGRAMA DE MOBILIZAÇÃO DE CAPITAL PRIVADO EXTERNO E PROTEÇÃO CAMBIAL (ECO
+INVEST BRASIL), NO ÂMBITO DO FNMC
+C - COMPONENTE III ACELERAR A INCLUSÃO SOCIAL
+S - P 3.1 MELHORAR A FISCALIZAÇÃO E A QUALIFICAÇÃO DAS INFORMAÇÕES CONSTANTES DO CADÚNICO E DO
+PROGRAMA BOLSA FAMÍLIA
+S - P 3.2 PROMOVER ALIMENTAÇÃO ADEQUADA E SAUDÁVEL NO AMBIENTE ESCOLAR
+C - MATRIZ DE POLÍTICAS COM COMPONENTES SUBCOMPONENTES SUPRAMENCIONADOS
+
+P - P - MATRIZ DE POLÍTICAS COM COMPONENTES SUBCOMPONENTES SUPRAMENCIONADOS.
+
+Total
+
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+0,00
+
+0,00
+0,00
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+0,00
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+0,00
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+0,00
+
+0,00
+0,00
+
+0,00
+1.000.000.000,
+1.000.000.000,
+1.000.000.000,
+
+0,00
+1.000.000.000,
+1.000.000.000,
+1.000.000.000,
+
+0,00
+1.000.000.000,
+1.000.000.000,
+1.000.000.000,
+
+A operação de crédito pleiteada exige a aprovação do Legislativo, permitindo ao Governo a contratação de financiamento externo. O
+processo observará o disposto no Manual de Instrução de Pleitos (MIP/STN), uma vez aprovada a carta consulta pela COFIEX e será
+monitorado pela Unidade de Coordenação do Projeto sob a gestão da STN.
+
+Efetivamente, há riscos relacionados aos atos legais, em especial quanto à Medida Provisória nº 1.213/2024, que instituiu o Programa Eco
+Invest. Embora essa MP já venha produzindo efeitos, ainda depende de aprovação pelo Congresso Nacional para sua conversão em lei.
+
+Sobre os atos legais, identificam-se os seguintes riscos:
+
+1)Risco de não aprovação da Medida Provisória, o qual, embora de baixa probabilidade, seria de alto impacto. Para esse risco, a ação de
+mitigação possível é a articulação do governo junto ao Congresso. Destaca-se que a MP em tela instituiu outros programas, além do Eco
+Invest, e que o governo federal está empenhado na sua aprovação; e
+
+2)Risco de alterações significativas na Medida Provisória, afetando a viabilidade do Programa. Consideramos esse segundo risco mitigado
+, pois a MP 1.213/2024 recebeu 84 emendas, das quais apenas 6 afetariam os artigos relacionados ao Eco Invest (arts. 31 a 39). Em
+análise preliminar, vimos que as emendas não possuem potencial significativo de afetar o Programa ou seu formato, e, ainda que
+aprovadas, há possibilidade de ajuste pelas normas complementares (portarias, resoluções do CMN etc.).
+
+5.2. RISCOS/CONTRATAÇÕES
+
+Deve-se esclarecer primeiro que esta captação junto ao BIRD é um empréstimo baseado em políticas. Assim, a captação vai ser aportada
+no orçamento da União, não cabendo mencionar risco de demanda para este ato. O risco cambial da captação, em dólar, com
+possibilidade de conversão a reais, será gerido no âmbito da política de gestão da dívida pública.
+
+Ademais, como dito, grande parte dos recursos do Projeto será destinada diretamente ao Programa Eco Invest Brasil. A MP nº 1.213/2024
+explicita, no art. 34, que, para terem acesso às linhas e aos recursos do Programa Eco Invest Brasil, instituições financeiras, públicas ou
+privadas, poderão ser habilitadas como agentes financeiros da Linha, desde que os riscos da atuação sejam suportados por esses
+agentes financeiros.
+
+A Resolução CMN nº 5.130/2024, por seu turno, que regulamentou aspectos gerais da linha Eco Invest Brasil e detalhes da sublinha de
+financiamento parcial, reitera, em seu art. 2º, que as instituições financeiras habilitadas como agentes financeiros da Linha Eco Invest
+Brasil, assumirão todos os riscos das operações, incluído o risco de crédito, nos termos da Medida Provisória nº 1.213, de 2024.
+
+Entendemos que o eventual risco de demanda será devidamente tratado nos editais de leilões (a serem regulamentados por MP).
+
+Ainda, com relação à execução das políticas do Programa Eco Invest, tem-se trabalhado de forma que não seja transferido à União
+nenhum risco cambial. Ou seja, de fato, não há que se falar em riscos financeiros inerentes a essa operação.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+(cid:10)
+(cid:10)
+
+
+Página: 14
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN

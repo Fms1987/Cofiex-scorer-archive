@@ -1,0 +1,2327 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Programa de Transformação Digital e Cidade Inteligente de Belém - PRODIGITAL BELÉM
+Nº Carta Consulta: 61238
+Processo: 03101.003037/2024-25
+Mutuário: Município de Belém - PA
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  10 de Outubro de 2024
+Fontes Internas:
+Contrapartida Financeira: US$ 6.000.000,00
+Fontes Externas:
+Corporação Andina de Fomento - CAF: US$ 24.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+04
+2. PROJETO ....................................................................................................................................................................................................... 05
+2.1. TÍTULO ............................................................................................................................................................................................ 05
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 05
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 05
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 05
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 05
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 07
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 17
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 18
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 18
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 21
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 23
+3. FINANCIAMENTO .......................................................................................................................................................................................... 23
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 23
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 23
+4. EXECUÇÃO ...................................................................................................................................................................................................
+23
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 23
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 25
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 25
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 25
+5. RISCOS .......................................................................................................................................................................................................... 27
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 27
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 27
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 28
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 28
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 29
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 29
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+29
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+Belém, capital do Pará com 1,3 milhão de habitantes e IDHM de 0,746, está em um processo de transformação para se tornar uma cidade
+digital, inteligente e inclusiva. Embora tenha avançado, a cidade ainda enfrenta desafios em áreas como conectividade, educação, saúde,
+mobilidade urbana e gestão ambiental. Recentemente, Belém subiu 19 posições no ranking Connected Smart Cities de 2023 no eixo
+Tecnologia e Inovação, refletindo o esforço para modernizar os serviços públicos.
+Conectividade
+A conectividade é um dos maiores desafios enfrentados por Belém. Embora 78,8% dos domicílios tenham acesso à internet, muitas áreas
+periféricas e insulares ainda sofrem com cobertura inadequada. A cidade tem uma infraestrutura de fibra óptica de 200 km, insuficiente
+para atender às demandas de uma cidade que busca se tornar referência em inovação. A expansão da rede de fibra óptica e Wi-Fi público
+ é fundamental para reduzir a desigualdade digital.
+A proposta prevê a expansão da conectividade em locais estratégicos, como praças, escolas, unidades de saúde e terminais de transporte
+, promovendo a inclusão digital e o acesso a serviços essenciais. Isso é importante para melhorar a qualidade de vida da população,
+garantindo que áreas vulneráveis tenham acesso à tecnologia e serviços digitais.
+Educação
+Na educação, Belém enfrenta desafios relacionados à infraestrutura e à capacitação de professores. A rede municipal tem cerca de 70 mil
+alunos e 3.500 professores, mas menos de 40% das escolas têm acesso à internet de alta velocidade, o que limita a inovação pedagógica.
+ Apenas 6% dos professores possuem formação para o uso de tecnologias educacionais, impactando o processo de ensino.
+O projeto de modernização da educação inclui a distribuição de dispositivos tecnológicos, como tablets e notebooks, para alunos e
+professores, além da implementação de um Plano de Formação Continuada para capacitar os docentes. Essas medidas visam melhorar a
+qualidade do ensino e preparar os estudantes para as demandas do mercado de trabalho moderno.
+Saúde
+No setor de saúde, Belém também enfrenta dificuldades ligadas à falta de infraestrutura digital. Desde 2021, a cidade tem implementado
+um projeto de telemedicina, mas muitas unidades de saúde ainda não têm a conectividade necessária para utilizar o sistema e-SUS,
+essencial para a modernização dos serviços. Cerca de 100 unidades de saúde carecem de conectividade e 80% delas precisam de
+equipamentos de informática.
+A digitalização dos prontuários e a automação do atendimento são passos importantes para reduzir a burocracia e melhorar a eficiência do
+sistema de saúde, permitindo melhor acompanhamento dos pacientes. A expansão da telemedicina também ajudará a melhorar o acesso
+a cuidados em áreas mais remotas, onde os especialistas são escassos.
+Mobilidade Urbana e Sustentabilidade
+A mobilidade urbana de Belém enfrenta desafios significativos. A frota de ônibus tem uma idade média de 8,36 anos e é uma das
+principais fontes de emissão de CO2. Em 2023, a cidade emitiu 1,68 milhões de toneladas de CO2, grande parte proveniente do
+transporte público. A realização da COP30 em 2025 coloca Belém em uma posição estratégica para liderar a transição energética.
+A instalação de estações de recarga para veículos elétricos é parte dessa estratégia, promovendo a adoção de um transporte mais limpo e
+sustentável. As estações serão instaladas em áreas de alta circulação, incentivando o uso de veículos elétricos tanto pelo setor público
+quanto pelos cidadãos, reduzindo as emissões de carbono.
+Gestão Ambiental e Resiliência Climática
+Belém, localizada em uma região de alta pluviosidade, enfrenta desafios relacionados às mudanças climáticas. A cidade registra uma
+média anual de 2.920 mm de chuvas, e as enchentes são frequentes, especialmente nas áreas periféricas, onde a infraestrutura de
+drenagem é insuficiente. As enchentes resultam em prejuízos materiais e colocam em risco a vida dos moradores.
+A gestão ambiental da cidade, coordenada pela SEMMA, em parceria com o CENSIPAM, busca mitigar os impactos climáticos com a
+instalação de sensores inteligentes para monitorar variáveis ambientais, como o nível dos rios e o volume de chuvas. Esses sensores
+permitirão uma resposta mais rápida e eficiente aos desastres naturais, garantindo maior segurança à população.
+Transformação Digital e os Próximos Passos
+A transformação digital de Belém vai além da simples inclusão digital. Ao expandir a conectividade, modernizar a educação e os serviços
+de saúde, e promover a sustentabilidade no transporte urbano, Belém estará mais preparada para enfrentar os desafios futuros. O foco na
+sustentabilidade e na resiliência climática garantirá que a cidade continue avançando como uma referência em inovação e
+desenvolvimento sustentável.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 3
+Os componentes desta operação contemplam as necessidades prioritárias de investimentos identificadas para aceleração da
+transformação digital, abrangendo:
+1. Aumento da conectividade, com a expansão da rede lógica e dos pontos de acesso Wi-Fi, dos prédios públicos municipais;
+2. Modernização das escolas municipais para o aprimoramento da educação digital, o fornecimento de equipamentos eletrônicos e a
+formação continuada dos profissionais;
+3. Modernização da infraestrutura das unidades de saúde com tecnologia capaz de reduzir filas, absenteísmo de consultas e exames,
+além de propiciar a inclusão digital para a população mais carente.
+4. Digitalização de serviços municipais, baseada num modelo de gestão integrada com ênfase a participação da sociedade e modelo ESG,
+ investimentos para a digitalização dos principais serviços de legado e transformação para plataforma única e integrada;
+5. Desenvolvimento de Sistema de Monitoramento Inteligente Urbano implantando sensores para produção de dados que auxiliem a
+gestão pública tornar mais eficiente a solução das demandas municipais em uma cidade inteligente, digital e inclusiva;
+6. Estruturação de plataformas de eficiência energética no sistema de mobilidade urbana do município para contribuir com redução da
+emissão de gases e os efeitos no aquecimento global.
+7. Desenvolvimento do Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI), estabelecendo o planejamento de longo prazo.
+
+Resultados Esperados:
+A implementação dessas ações deve produzir resultados significativos:
+1. reduzir a desigualdade digital, proporcionando aos cidadãos padrões adequados de conectividade e acesso às ferramentas e
+tecnologias nos prédios públicos;
+2. monitorar e reduzir a emissão de gases poluentes, implantar ações relacionadas às mudanças climáticas, e adotar estratégias que
+promovam a resiliência frente aos riscos ambientais;
+3. proporcionar decisões públicas mais rápidas e precisas, impactando nos sistemas de mobilidade, segurança, saneamento, gestão de
+resíduos, prevenção de desastres naturais, e outros;
+4. ampliar as oportunidades de ensino-aprendizagem através do planejamento adequado das atividades, formação continuada dos
+profissionais e fornecimento de equipamentos digitais para alunos e professores da rede pública municipal;
+5. reduzir a violência urbana, principalmente contra mulheres, crianças e comunidade LGBTQIA+, inibindo o cometimento de crimes e atos
+ de vandalismo por meio de inteligência e inovação;
+6. monitoramento mais eficaz de recursos ambientais, como a qualidade do ar, da água e a preservação de áreas verdes. Monitoramento
+de mais de 120 mil árvores urbanas e a reestruturação do laboratório ambiental da Secretaria Municipal de Meio Ambiente (SEMMA).
+7. redução de veículos emissores de gases poluentes circulando e acelerar a transição energética para consumo e geração de energia
+renovável.
+8. Reestruturação e modernização do sistema de monitoramento inteligente: A expansão da infraestrutura de sensores inteligentes que
+produzem dados para tomada de decisão para gestão pública.
+9. modernização dos sistemas administrativos e tributários da cidade promoverá uma gestão mais eficiente e transparente, facilitando o
+acesso dos cidadãos às informações e fortalecendo a confiança na administração pública, através de atendimento de Omnichannel e
+plataforma de pagamento via PIX e cartão de crédito de todos os tributos e taxas municipais, redução de resposta na emissão de certidões
+ negativas, alvarás e acordos fiscais e tributários.
+10. aumento da arrecadação com a modernização dos processos fiscais e administrativos, gerando uma arrecadação mais eficiente, com
+uma melhor gestão dos recursos públicos e redução da evasão fiscal.
+11. maior participação dos cidadãos na gestão pública, fortalecendo a democracia participativa através de consultas públicas e aplicativos
+móveis. proporcionar acesso e a eficiência na entrega dos serviços à população, por meio de plataformas digitais intuitivas, agregando
+valor público;
+12. contribuir à consolidação do setor de inovação e à aceleração de negócios inovadores na cidade, fomentando e retendo empresas e
+talentos locais;
+13. acelerar e contribuir para a inteligência, resiliência e sustentabilidade, por meio de instrumentos que fomentem o planejamento e a
+gestão das ações da cidade inteligente.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 4
+SUSTENTABILIDADE:
+Para garantir a continuidade das iniciativas do Programa, as secretarias e órgãos municipais de Belém são responsáveis pela manutenção
+ e operação dos sistemas implementados, com orçamentos e recursos designados para assegurar a sustentação financeira das soluções:
+1. Companhia de Tecnologia da Informação do Município de Belém (CINBESA): Com orçamento anual de R$ 24 milhões, a CINBESA é
+responsável pela sustentação dos sistemas municipais. Em parceria com a Empresa de Tecnologia do Estado do Pará (PRODEPA),
+compartilha a manutenção da rede de fibra, com custo anual de R$ 636 mil.
+2. Secretaria Municipal de Finanças (SEFIN): Destina R$ 7,8 milhões à CINBESA para sustentar os sistemas tributários.
+3. Secretaria Municipal de Educação (SEMEC): Com orçamento anual de R$ 900 milhões, a SEMEC apoia as ações educacionais do
+Programa e a capacitação tecnológica dos professores. O Fundo Municipal de Educação (FME) custeia as formações continuadas, e R$
+312 mil são destinados à CINBESA para manutenção da conectividade nas escolas.
+4. Secretaria Municipal de Saúde (SESMA): Com orçamento anual de R$ 1 bilhão, a SESMA sustenta a infraestrutura de telemedicina e
+interoperabilidade dos sistemas de saúde. Destina também R$ 1,068 milhão à CINBESA para garantir a conectividade necessária ao setor
+.
+5. Superintendência Executiva de Mobilidade Urbana de Belém (SEMOB): Atualmente, investe R$ 312 mil para manutenção da fibra óptica
+ e destinará R$ 100 mil anuais para a operação do sistema de recarga elétrica de veículos.
+6. Secretaria Municipal de Urbanismo (SEURB): Sustenta a infraestrutura de Wi-Fi público e de conectividade nos postes da cidade por
+meio de uma Parceria Público-Privada (PPP), em colaboração com a concessionária de energia.
+7. Secretaria Municipal de Meio Ambiente (SEMMA): Utiliza o Fundo Municipal de Meio Ambiente (FMMA), proveniente de multas e
+compensações financeiras, para assegurar a continuidade das ações de monitoramento e preservação ambiental.
+A sustentabilidade financeira do Programa é garantida pelos orçamentos designados pelos órgãos municipais envolvidos, com um custo
+adicional estimado de R$ 3 milhões anuais para manter as soluções implementadas e fortalecer os serviços públicos em Belém.
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+O programa PRODIGITAL está alinhado com as diretrizes estratégicas de Belém, conforme o Plano Plurianual (PPA) 2022-2025, instituído
+ pela Lei Municipal nº 9.716, de 13 de dezembro de 2021. Entre os principais objetivos e metas que sustentam o programa, destacam-se:
+Objetivo 1104: Assegurar a formação contínua dos trabalhadores da educação, com a meta de oferecer capacitação a todos os
+profissionais da rede municipal.
+Objetivo 1102: Erradicar o analfabetismo em Belém, promovendo a inclusão digital para todos os estudantes da educação básica.
+Objetivo 1201: Ampliar e qualificar as equipes de Atenção Primária à Saúde (APS), elevando de 12 para 315 o número de equipes com
+prontuário eletrônico.
+Objetivo 1301: Fortalecer a segurança pública municipal, intensificando o monitoramento e qualificando os servidores da Guarda Municipal
+.
+Metas: Expandir de 15 para 200 os espaços monitorados e implementar o Sistema de Gestão de Dados da Segurança Pública.
+Objetivo 6301: Modernizar a infraestrutura da administração pública, promovendo acesso digital e justiça fiscal.
+Metas:
+- Conectar via fibra óptica e Wi-Fi 100% das escolas municipais, 20 unidades de saúde, 5 CRAS, 50% das feiras e mercados e 7 espaços
+públicos.
+- Garantir internet via rádio na Ilha de Cotijuba e adicionar 14 pontos de Wi-Fi.
+- Digitalizar 1,5 milhão de páginas.
+- Responder 80% das demandas administrativas pela OGM e aumentar para 70% a capacidade de resposta da Ouvidoria às demandas da
+ população.
+- Manter 100% de atualização no Portal da Transparência.
+- Planos e Documentos Setoriais
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 5
+O programa também se articula com planos setoriais estratégicos, incluindo o Plano Diretor de Belém (Lei nº 8.655/2008), Política
+Municipal de Meio Ambiente (Lei nº 8.489/2005), Plano Municipal de Educação - PME (Lei nº 9.129/2015) e Plano Municipal de Saúde (
+2022-2025). Esses documentos reforçam a integração do PRODIGITAL com as políticas municipais e garantem a continuidade dos
+investimentos necessários, com base nas diretrizes da Carta Brasileira para Cidades Inteligentes e na Política Nacional de Cidades
+Inteligentes (PL 976/2021).
+
+CONTRAPARTIDA
+Os recursos e contrapartida de financiamento serão estabelecidos conforme legislação específica, seguindo recomendações da COFIEX.
+O Município de Belém alocará US$ 30.000.000,00 no PRODIGITAL, sendo 80% financiados externamente e 20% como contrapartida local
+. A contrapartida será provida por receitas tributárias, conforme os artigos 156, 158 e 159 da Constituição Federal e a Resolução COFIEX
+n.º 3/2019, com gastos elegíveis a partir da publicação da resolução autorizativa.
+
+TAXA DE CÂMBIO
+Para a elaboração desta carta consulta, utilizou-se a taxa de câmbio de R$ 5,48 por dólar, com base em 13 de agosto de 2024, segundo o
+Banco Central do Brasil. Essa taxa será a referência para os recursos previstos, assegurando consistência entre custos e metas do
+programa.
+2. Projeto
+2.1. Título
+Programa de Transformação Digital e Cidade Inteligente de Belém - PRODIGITAL BELÉM
+
+2.2. Título Abreviado
+PRODIGITAL BELÉM
+2.3. Mutuário
+Município de Belém - PA
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+As ações do PRODIGITAL destinam-se a acelerar o processo de transformação digital no Município de Belém, impulsionando o
+desenvolvimento sustentável por meio da inovação e das tecnologias da informação e comunicação, sob os preceitos de cidade inteligente
+, impactando na qualidade de vida e dos serviços públicos prestados aos cidadãos.
+
+OBJETIVOS ESPECÍFICOS 
+(i) reduzir a desigualdade digital, melhorando os padrões adequados de conectividade e acesso às ferramentas e novas tecnologias de
+informação e comunicação. (INDICADORES 1, 2, 3 e 4)
+(ii) contribuir à preservação do meio ambiente na região, incrementando-se a capacidade de sensoriamento e monitoramento de qualidade
+ da água, qualidade do ar, poluição sonora e desmatamento de áreas verdes; (INDICADORES 2 e 12)
+(iii) Melhorar as condições de saúde e bem-estar da população, especialmente de regiões remotas da cidade; (INDICADORES 5 e 6)
+(iv) Implementar serviços digitais mais eficientes para os cidadãos de Belém. (INDICADORES 7, 8, 9 e 13)
+(v) Melhorar o conforto, a segurança e acessibilidade de terminais de transporte em Belém mediante a adoção de tecnologias inovadoras,
+com especial enfoque em mulheres e segmentos vulneráveis e vulnerabilizados; (INDICADORES 10 e 11)
+
+2.6. Projeto/Indicadores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 6
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Indicador 01: Percentual de professores
+capacitados em sistemas de aprendizagem com
+recursos digitais. Linha Base: Ano 2024 /  Meta:
+Ano 2029
+Porcentagem de
+professores da rede
+municipal capacitados
+em recursos de
+aprendizagem com
+inclusão tecnológica.
+Percentual
+12,00
+90,00
+Indicador 02: Tempo médio de tramitação dos
+processos de licenciamento ambiental junto à
+Secretaria Municipal de Meio Ambiente de
+Belém.Linha de Base: Ano 2024/ Meta: Ano
+2030
+Número médio de dias
+de tramitação até a
+decisão final nos
+processos de
+licenciamento
+ambiental. Fonte:
+SEMMA, 2023
+dias
+180,00
+45,00
+Indicador 03: Porcentagem de matrículas na
+rede municipal de ensino realizadas online.
+Linha de Base: Ano 2024 / Meta: Ano 2029
+Porcentagem de
+matrículas online.
+Fonte: SEMEC e
+CINBESA, 2023
+Percentual
+90,00
+98,00
+Indicador 04:  Porcentagem  de pontos de
+acesso a dados conectados por rede de fibra
+óptica no Município de Belém. Linha de Base:
+Ano 2024/ Meta: Ano 2029
+Levantamento do
+número de acessos
+por fibra óptica até
+outubro de 2024 junto
+a DSI Fonte: Cinbesa
+Unidade
+80,00
+500,00
+Indicador 05: Número total de consultas médicas
+e multiprofissionais por mês. Linha de Base:
+Ano 2024/ Meta: Ano 2030
+Conforme a norma
+NBR ISO referida,
+deve ser considerado
+o número total de
+consultas realizadas
+remotamente, a cada
+100.000 habitantes.
+Fonte:SESMA, 2024
+% Teleconsultas/
+mes
+1,35
+60,00
+Indicador 06: Porcentagem da população da
+cidade com prontuário eletrônico unificado,
+acessível on-line pelos provedores de serviços
+de saúde (ABNT NBR ISO 37122:2020 - 11.1).
+Linha de Base: Ano 2024502/ Meta: Ano 2028
+Conforme a norma
+NBR ISO referida,
+deve ser considerada
+a população total da
+cidade, bem como o
+número total de
+prontuários
+eletrônicos unificados.
+ Fonte: SESMA, 2023
+%
+60,00
+100,00
+Indicador 07: Sistemas e aplicações municipais
+que precisarão ser requalificados e
+modernizados para uma gestão unificada e
+eficiente.   Base: Ano 2024/ Meta: Ano 2028
+São considerados os
+sistemas destinados à
+eficiência
+administrativa,
+arrecadação tributária,
+gestão de recursos
+humanos,
+transparência e
+gestão de contratos
+administrativos.  Fonte
+: CINBESA, 2023
+Unidade
+5,00
+1,00
+Indicador 08: Porcentagem de pagamentos de
+tributos municipais realizados por meio
+eletrônico, considerando Cartão de Crédito,
+Débito ou PIX  (ABNT NBR ISO 37122:2020 - 9.
+2)  Base: Ano 2024/ Meta: Ano 2029
+Levantamento feito
+junto a CPOG -
+Coordenação de
+Planejamento,
+Orçamento e Gestão,
+responsável pelos
+sistemas de
+arrecadação tributária.
+Fonte: CINBESA,
+2023
+%
+5,00
+50,00
+Indicador 09: Porcentagem de serviços urbanos
+acessíveis e que podem ser solicitados online (
+ABNT NBR ISO 37122:2020 - 10.2)
+Conforme ABNT NBR
+ISO 37122:2020 - 10.
+2.  Fonte: CINBESA,
+2023
+%
+31,00
+70,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 7
+Indicador 10: Nível de satisfação dos usuários do
+sistema de mobilidade municipal de Belém,
+quanto aos atributos de conforto, segurança e
+acessibilidade das estações e terminais de
+passageiros
+Aferido a partir de
+pesquisa junto aos
+usuários, aplicada nos
+terminais, estações e
+on-line.  Fonte:
+SEMOB, 
+Percentual
+97,37
+100,00
+Indicador 11:  Sistemas de recargas para frota
+de ônibus elétricos. Linha de Base: Ano 2024/
+Meta: Ano 2030
+Conforme ABNT NBR
+ISO 37122:2020.
+Fonte: SEMOB  2024
+unidades
+5,00
+30,00
+Indicador 12: Porcentagem da população da
+cidade com acesso a sistemas de alerta públicos
+em tempo real sobre condições de qualidade do
+ar e da água (ABNT NBR ISO 37122:2020 - 11.
+3). Linha de base 2023. Meta 2029. Fonte:
+SEMMA
+Número de pessoas
+com acesso a
+sistemas de alerta
+público em tempo real
+para avisos de
+qualidade do ar e
+água dividido pela
+população total da
+cidade. Multiplicado
+por 100 e expresso
+em porcentagem.
+porcentagem de
+habitantes
+0,00
+60,00
+Indicador 13: Porcentagem dos prédios públicos
+cobertos por conectividade lógica (Indicador
+Interno). Linha de base 2024. Meta 2029. Fonte:
+CINBESA
+Número total de
+edifícios públicos com
+conectividade lógica,
+dividido pelo total de
+edifícios públicos do
+município. Resultado
+multiplicado por 100 e
+expresso em
+porcentagem.
+porcentagem de
+edifícios
+62,00
+100,00
+2.7. Projeto/Componentes
+Componentes
+Valor(US$)
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+29.315.000,00
+   S - CONECTIVIDADE
+5.650.000,00
+      P - Requalificação e Expansão da Rede de Fibra Óptica, Wi-FI Municipal e Conectividade de Ilhas
+5.650.000,00
+   S - MONITORAMENTO URBANO INTELIGENTE
+4.195.000,00
+      P - Plano da Malha de sensores e equipamentos conectados
+395.000,00
+      P - Expansão do Monitoramento Municipal
+3.800.000,00
+   S - DIGITALIZAÇÃO DO ENSINO
+2.480.000,00
+      P - Fornecimento de Dispositivos aos Alunos e Profissionais da Rede Pública Municipal de Ensino
+1.280.000,00
+      P - Plano de Formação Continuada dos Profissionais da Rede Pública Municipal de Ensino
+1.200.000,00
+   S - TELEMEDICINA E DIGITALIZAÇÃO DA ATENÇÃO EM SAÚDE
+5.400.000,00
+      P - Requalificação e Modernização dos Sistemas Municipais de Atenção em Saúde
+3.600.000,00
+      P - Requalificação e Ampliação da Telemedicina na Rede Municipal de Saúde
+1.800.000,00
+   S - DIGITALIZAÇÃO DE SERVIÇOS MUNICIPAIS
+9.390.000,00
+      P - Requalificação e Modernização dos Sistemas Municipais
+9.390.000,00
+   S - REQUALIFICAÇÃO DE MOBILIDADE URBANA
+2.200.000,00
+      P - Implantação de Projeto de Eficiência Energética
+2.200.000,00
+C - ESTUDOS, PLANOS E PROJETOS
+550.000,00
+      P - Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI) e Projetos Executivos, Consultorias técnicas 
+500.000,00
+      P - Revisão da Política Municipal de Acessibilidade
+50.000,00
+C - GESTÃO DO PROGRAMA
+135.000,00
+      P - Apoio Técnico do Programa
+100.000,00
+      P - Auditoria Externa
+35.000,00
+Total dos Componentes
+30.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+O projeto visa a transformação digital da cidade de Belém, alinhando-se às diretrizes da Carta Brasileira para Cidades Inteligentes
+e aos Objetivos de Desenvolvimento Sustentável da Agenda 2030 da ONU. Por meio da adoção de tecnologias avançadas e
+soluções inovadoras. O projeto aprimorará a infraestrutura urbana, melhorar a qualidade de vida dos cidadãos e promover a
+sustentabilidade social, econômica e ambiental do território.
+Para alcançar esses objetivos, foram identificadas e priorizadas áreas-chave de investimento, incluindo conectividade pública,
+monitoramento ambiental, digitalização do ensino, requalificação da telemedicina, modernização da gestão municipal,
+acessibilidade, infraestrutura de transporte e eletromobilidade. Estes subcomponentes foram desenhados para acelerar a
+transformação digital do município, contribuindo para um ambiente urbano mais inteligente e inclusivo.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 8
+   S - CONECTIVIDADE
+Disponibilizar, progressivamente, novo ponto de acesso à internet pública gratuita, inclusive no âmbito de praças, parques, prédios
+públicos municipais, escola, unidades de saúde, modais de transporte, terminais de integração e outros equipamentos municipais,
+de modo a universalizar a conectividade em Belém, compreendida como direito fundamental e instrumento de cidadania na cidade
+inteligente. 
+      P - Requalificação e Expansão da Rede de Fibra Óptica, Wi-FI Municipal e Conectividade de Ilhas
+Considera-se a fibra óptica a tecnologia ideal para a promoção de conectividade aos prédios e pontos de interesse municipal,
+tendo em vista sua velocidade e estabilidade oferecida, atributos essenciais para o adequado funcionamento e usufruto das
+ferramentas pretendidas para a Cidade Inteligente. Contudo, Belém dispõe de rede própria de fibra óptica em extensão ainda
+insuficiente (cerca de 200 km), em vista dos serviços e utilidades vislumbradas, além de uma vasta extensão territorial (1.059,466)
+quilômetros quadrados e está a 10 metros de altitude. A maioria do território é insular, com 42 ilhas, sendo as mais conhecidas as
+de Mosqueiro, Caratateua, Cotijuba e Combu. Nesses casos específicos, a fibra óptica pode não ser a escolha mais adequada,
+mas a garantia de conectividade ainda é essencial e deve ser assegurada.
+Em resposta a tal cenário, será estruturada e implementada a conexão de rede lógica, infraestrutura pervasiva de conectividade,
+distribuída em toda a cidade, cuja capilaridade deverá alcançar prioritariamente as áreas mais carentes ou desprovidas de
+infraestrutura de acesso, para fomento da inclusão sociodigital e evolução tecnológica. Deve possuir capacidade para suportar
+diversas aplicações e para fornecer melhores serviços aos cidadãos, uma vez que, além de ampliar e potencializar o seu raio de
+alcance para toda extensão municipal, possibilitará também a interconexão de todas as redes e sistemas municipais atualmente
+existentes, além de objetos e sensores destinados à captação de informações do espaço urbano.
+As escolas e unidades de saúde da rede municipal receberão prioridade no âmbito do projeto e implementação de conectividade,
+considerando-se suas atuais demandas, e que a oferta de conectividade adequada consiste em uma das principais condicionantes
+da política pública de digitalização do ensino e da saúde. São essenciais, assim, que não somente a administração da escola e
+unidade de saúde, mas toda a comunidade, especialmente os estudantes, pacientes e servidores públicos, tenham pleno acesso à
+conexão estável e em velocidade compatível com suas atividades.
+Vislumbra-se a oferta da velocidade média mínima de 1 Mbps a cada usuário (estudantes, professores, colaboradores, enfermeiros
+, médicos e toda a comunidade usuária destes serviços públicos) como essencial em toda a rede, o que corrobora a necessidade e
+urgência da requalificação da conectividade em cada uma das 76 (setenta e seis)  escolas que compõem a rede municipal de
+ensino e 101 unidades de saúde desatendidas por rede de fibra própria e wi fi com alta eficiência. 
+Destaca-se que, em alguns casos, já há o atendimento por fibra própria ou de terceiros (cerca 101 unidades), contratada pela
+própria unidade de saúde, porém deverão se adequar a rede própria da prefeito para consumir os recursos de segurança de dados
+entre alta velocidade na utilização dos sistemas residentes e concentrados em data center próprio e centralizador de plataformas
+corporativas. Mesmo assim, ainda se mostra necessária a elaboração de projeto e lançamento de fibra para atender a expansão de
+infraestrutura em andamento para a conexão. O mesmo cenário se verifica quanto às unidades de saúde municipais, prédios
+administrativos e equipamentos de interesse municipal, cujas condições atuais de conectividade deverão ser avaliadas em projeto
+e, eventualmente, incluídas no processo de requalificação da expansão da conectividade.
+Também, escopo deste produto, assim, abrangerá a contratação das obras, fornecimentos (inclusive equipamentos de segurança
+da rede) e serviços para lançamento e adequação da infraestrutura de conectividade que comporão a conexão de rede lógica, de
+modo a atender a todos os prédios e pontos de interesse da Municipalidade, com prioridade às escolas, unidades de saúde da
+rede pública municipal.
+Ressalta-se que, no âmbito do componente desta operação, os projetos executivos para a implantação da conexão de rede lógica
+poderão ser desenvolvidos em paralelo ao PDTCI, absorvendo suas necessidades e demandas, a partir das metas e projetos
+definidos como prioritários em cada um dos eixos temáticos do Plano.
+Resultados Esperados
+1.Incrementar a velocidade, estabilidade e resiliência da conexão à internet nos prédios públicos municipais e equipamentos de
+interesse;
+2.Habilitar novos serviços e o uso de ferramentas e soluções que demandam conexão resiliente e em alta velocidade à internet,
+especialmente na educação, saúde, comunidades e administração, aprimorando-se o processo de ensino-aprendizagem na rede
+municipal de Belém..
+Impactos Ambientais e Sociais Esperados
+1. Reduzir a desigualdade digital, proporcionando-se a melhoria da qualidade de acesso dos cidadãos e acesso às ferramentas e
+novas TICs;
+2. Otimizar custos na operação dos serviços de conectividade nos prédios e equipamentos municipais, mediante a adoção de
+modelo integrado de gestão da rede lógica e de cibersegurança.
+3. Requalificar a infraestrutura interna de conectividade Wi-Fi em todas as 148 (cento e quarenta e oito) unidades da rede
+municipal de ensino, contemplando salas de aula e ambientes de aprendizagem;
+4. Requalificar a infraestrutura interna de conectividade Wi-Fi em todas as 124  (cento e vinte e quatro) unidades da rede municipal
+de saúde, contemplando recepção e ambientes de trabalho;
+5. Garantir acesso à internet em velocidade mínima de 1 Mbps por usuário a toda Belém com wi fi público..
+Metas de Desempenho
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 9
+1. Assegurar conectividade em todas as 76 (setenta e seis) unidades da rede municipal de ensino;
+2. Assegurar conectividade em todas as 113 (cento e treze) unidades da rede municipal de saúde;
+3. Assegurar conectividade em todas as 96 (noventa e seis) prédios públicos;
+4. Assegurar conectividade em todos os 655 (seiscentos e cinquenta e cinco) espaços públicos, escolas, unidades de saúde entre
+outros de interesse social e público com wi-fi providos com a rede de fibra de alta eficiência e cibersegurança embarcada;
+5. Ampliar de 200 km para 522 km a rede de fibra municipal;
+6. Garantir acesso à internet em velocidade mínima de 1 Mbps por aluno a toda a comunidade escolar da rede pública do
+Município;
+7. Assegurar conectividade nos prédios públicos municipais e pontos de interesse.
+8. Assegurar conectividade na área insular do município de Belém.
+   S - MONITORAMENTO URBANO INTELIGENTE
+Este subomponente de transformação digital visa à requalificação e expansão do sistema de monitoramento e fiscalização de
+áreas públicas, ampliando o número de equipamentos e modernizando tecnologias e ferramentas utilizadas na análise e geração
+de alertas para os órgãos municipais. Contará com a ampliação do número de câmeras inteligentes, monitores de
+acompanhamento, implantação de softwares de inteligência no tratamento dos dados gerados por câmeras, além de sensores de
+semáforos, sensores de material particulado, contadores ópticos de partículas, sensores de gás amperométricos, sensores
+biológicos para a qualidade do ar e água, entre outros.
+Belém, desde 2023 possui uma central de videomonitoramento dedicada à fiscalização e controle de trânsito, já em 2024 foi
+implantada uma central voltada para a segurança pública e patrimonial. Contudo, essas iniciativas ainda são insuficientes para
+atender a uma cidade com 1.247,95 km² de extensão, distribuída em 08 distritos administrativos e abrigando uma população de
+aproximadamente 1,3 milhão de habitantes. 
+A cidade possui 14 bacias hidrográficas, que frequentemente influenciam as áreas sujeitas a alagamentos devido aos efeitos das
+marés e à ocorrência de chuvas intensas no período mais chuvoso.  Além disso, Belém conta com cerca de 4.432 árvores, já
+cadastradas no sistema de localização de arbóreos da SEMMA, em área urbana, porém conforme registro de geolocalização
+destes vegetais, apenas os distritos DABEL e DAENT foram atendidos e os restantes dos distritos DAGUA, DABEN, DAMOS,
+DAICO e DAOUT ainda em fase de levantamento e cadastro. 
+A modernização do sistema de monitoramento e fiscalização de áreas públicas, integrando-se às Tecnologias da Informação e
+Comunicação (TICs), não só fortalece a segurança urbana, mas também promove a resiliência comunitária frente a potenciais
+crises. A expansão dos pontos de controle, aliada ao aprimoramento da análise de imagens e dados, monitoramento ambiental e
+fluxos de mobilidade urbana, reflete o compromisso com a adaptação contínua às demandas em constante evolução.
+      P - Plano da Malha de sensores e equipamentos conectados
+À medida que Belém tem avançado na implementação de dispositivos e na promoção da conectividade e integração no ambiente
+urbano, surge a necessidade de um planejamento estratégico mais robusto para acelerar os resultados de sustentabilidade
+almejados. Antes da instalação dos sensores conectados, é crucial realizar um planejamento adequado da infraestrutura de
+conectividade e da própria malha de sensores. Isso garantirá que os projetos implantados atendam às necessidades estratégicas
+da cidade inteligente, refletindo a visão de um desenvolvimento urbano sustentável e eficiente.
+Essa abordagem é justificada pela necessidade de garantir que a cidade de Belém possa integrar e utilizar eficazmente novas
+tecnologias para enfrentar seus desafios urbanos. Planejar a infraestrutura de conectividade e a malha de sensores de forma
+adequada é essencial para evitar problemas futuros, como a incompatibilidade de sistemas, lacunas na cobertura de sensores e a
+subutilização dos dados coletados. Além disso, um planejamento estratégico robusto permitirá que Belém maximize os benefícios
+dos investimentos feitos em tecnologias inteligentes, promovendo um ambiente urbano mais resiliente, eficiente e sustentável.
+Resultados Esperados
+Plano da Malha de sensores e equipamentos conectados de Belém elaborado, com projetos executivos para sua implantação.
+Impactos Ambientais e Sociais Esperados
+Otimizar o uso de recursos, possibilitando que o adequado planejamento da malha de sensores impacte positivamente na
+infraestrutura de segurança, saneamento, gestão de resíduos, desastres naturais, entre outros;
+Promover a sustentabilidade e impulsionar o progresso da inteligência e resiliência da cidade por meio de sistemas conectados.
+Garantir a segurança da população no que tange a mudanças climáticas e resiliência urbana.
+Metas de Desempenho
+Implementar, 01 (um) Plano da Malha de Sensores conectados (IoT) aplicada à gestão de serviços municipais e à resolução de
+problemas públicos relevantes;
+Ampliar a malha de sensores conectados (IoT) do município de forma sistêmica e otimizada;
+      P - Expansão do Monitoramento Municipal
+O monitoramento cobre áreas estratégicas como praças, avenidas e locais turísticos, auxiliando na prevenção e resposta a crimes,
+além de ajudar na gestão de tráfego e na implementação de soluções para melhorar a mobilidade urbana. Com 500 câmeras
+monitoram toda cidade, além auxiliar observação das condições superficiais e visíveis das árvores nas vias públicas, auxiliando na
+identificação daquelas que necessitam de manutenção ou representam risco de queda.  Instalação inicial de 200 sensores de
+tráfego em pontos críticos de vias públicas, a expansão do videomonitoramento para todas as áreas prioritárias e a implementação
+de drones no monitoramento urbano. Para o monitoramento ambiental, serão implantados 60 células com conjunto de sensores de
+material particulado, contadores ópticos de partículas, sensores de gás amperométricos, sensores biológicos nos 08 distritos e 14
+bacias hidrográficas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 10
+No longo prazo, a integração total dos sistemas, com sistemas de inteligência sobre imagens e dados e a avaliação contínua das
+tecnologias garantirão a eficácia do monitoramento em toda a cidade.
+O escopo deste produto, assim, consiste na:
+Aquisição, licenciamento e operacionalização de 500 (quinhentas) câmeras de videomonitoramento para pontos de interesse
+municipal, incluindo escolas, creches e demais equipamentos públicos municipais;
+Aquisição, licenciamento e operacionalização de 200 (duzentos) sensores de trânsito, monitoramento em vias públicas e área de
+risco;
+Aquisição, licenciamento e operacionalização de 60 (sessenta) células de conjuntos sensores de monitoramento ambiental.
+Ampliação da Plataforma de Gestão Integrada do Centro de Controle;
+Implantação de Sistemas de Vídeo Analítico e Reconhecimento Avançado Analítico;
+Implantação de Infraestrutura, Rede Lógica, Rede Elétrica e investimentos acessórios para operacionalização dos novos pontos;
+Serviços Profissionais de Instalação, Implantação, Consultoria de Processos, Treinamento, Garantia, Suporte Técnico e
+Manutenção Preventiva.
+Resultados Esperados
+Requalificar o sistema de videomonitoramento municipal, ampliando-se seu espectro de cobertura e aprimorando-se a inteligência,
+ferramentas e analíticos empregados pelo Centro Integrado de Monitoramento Municipal
+Capacitar os profissionais atuantes no Centro Integrado de Monitoramento Municipal para operação de novas ferramentas
+implementadas.
+Impactos Ambientais e Sociais Esperados
+Contribuir às autoridades policiais e judiciárias na solução de crimes e contravenções, por meio de inteligência, identificando-se a
+autoria e instruindo-se o respectivo processo com provas oriundas do Centro Integrado de Monitoramento Municipal, consolidando-
+se o papel municipal de provedor de inteligência aos órgãos de investigação e controle de política urbana;
+Contribuir para a resiliência urbana, no âmbito do controle das mudanças climáticas, riscos ambientais e defesa civil.
+Reduzir a violência urbana, especialmente contra mulheres, negros, crianças e comunidade LGBTQIA+, inibindo-se o cometimento
+de crimes e atos de vandalismo nas vias e espaços públicos;
+Reduzir o tempo de resposta dos órgãos municipais a eventos que demandem atendimento, inclusive preventivo;
+Metas de Desempenho
+Adquirir e operacionalizar novas 500 (quinhentas) câmeras de videomonitoramento municipal, destinadas a pontos de interesse
+municipal, escolas e demais equipamentos públicos municipais;
+Adquirir e operacionalizar novas 200 (quinhentos) sensores inteligentes em vias públicas e áreas críticas municipais;
+Adquirir, licenças e softwares para gerenciamento 60 (sessenta) células de conjuntos sensores de monitoramento ambiental.
+Ampliar a Plataforma de Gestão Integrada do Centro Integrado de Monitoramento Municipal
+Implementar novos Sistemas de Vídeo Analítico e Reconhecimento Avançado Analítico para detecção de eventos e geração de
+alertas automáticos;
+   S - DIGITALIZAÇÃO DO ENSINO
+A Rede Municipal de Ensino de Belém é composta por 148 (cento e quarenta e oito) escolas que oferecem Educação Básica nas
+etapas de Educação Infantil e Ensino Fundamental, incluindo modalidades como Educação Especial, Educação do Campo, das
+Águas e das Florestas, e Educação de Jovens e Adultos e Idosos. São cerca de 70 mil estudantes, assistidos por professores,
+servidores não docentes e outros profissionais que prestam serviços de limpeza, alimentação, atividades complementares e apoio
+escolar.
+De modo a aprimorar as oportunidades de ensino-aprendizagem, a Secretaria Municipal de Educação (SEMEC) tem envidado
+esforços na melhoria da infraestrutura das escolas, em termos de conectividade e equipamentos, assim como na capacitação
+contínua dos profissionais da educação. No entanto, como demonstrado no diagnóstico que precedeu a submissão desta carta
+consulta, acredita-se que esses esforços ainda têm espaço para crescimento, pressupondo, ao menos, três ações integradas:
+1.Escolas 100% conectadas;
+2.Fornecimento de dispositivos aos alunos e professores da rede;
+3.Plano de Formação Permanente para uso das tecnologias no processo ensino-aprendizagem.
+      P - Fornecimento de Dispositivos aos Alunos e Profissionais da Rede Pública Municipal de Ensino
+O produto visa a aquisição e distribuição de dispositivos tecnológicos como parte das estratégias de digitalização do ensino na
+rede pública municipal de Belém. O foco é proporcionar ferramentas que ampliem as oportunidades de ensino-aprendizagem,
+integrando tecnologia ao cotidiano escolar e reduzindo a desigualdade digital. Essa iniciativa está alinhada com a meta (7.20) do
+Plano Municipal de Educação (PME) de Belém, que prevê a provisão de equipamentos e recursos tecnológicos a todas as escolas
+públicas da educação básica.
+Resultados Esperados:
+Promover a adoção de novas soluções e plataformas digitais pelos profissionais da rede, melhorando a interação com os objetos
+de conhecimento e os espaços de ensino.
+Impactos Ambientais e Sociais Esperados:
+Incrementar a qualidade do ensino, com métodos mais interativos e adaptáveis às necessidades dos alunos.
+Reduzir a desigualdade digital e preparar os alunos para as demandas do mercado de trabalho futuro.
+Metas de Desempenho
+Prover até (cinco mil) dispositivos digitais às escolas da rede pública municipal de ensino, em todas as unidades;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 11
+Ampliar o índice de adoção de dispositivos digitais no processo ensino-aprendizagem em Belém.
+Contribuir para ampliar o IDEB Belém de 5,3 Anos Iniciais e 5,1 Anos finais para 6,8 em todas as modalidades;
+      P - Plano de Formação Continuada dos Profissionais da Rede Pública Municipal de Ensino
+Este produto visa a elaboração e execução de um Plano de Formação Continuada para aproximadamente 1.000 profissionais da
+rede pública municipal de ensino. A formação é voltada para o uso eficiente de tecnologias da informação e comunicação (TIC) no
+processo de ensino-aprendizagem. Alinhado ao Plano Municipal de Educação (PME) de Belém, o plano busca identificar as
+necessidades dos profissionais e capacitá-los para o emprego de ferramentas digitais, garantindo o sucesso na implementação das
+ TICs na educação.
+Resultados Esperados:
+Identificar e suprir as necessidades de formação em TIC dos profissionais da rede pública municipal de ensino.
+Capacitar os profissionais para o uso eficiente de tecnologias digitais no processo de ensino, aumentando o engajamento e a
+eficácia das políticas de digitalização.
+Impactos Ambientais e Sociais Esperados:
+Ampliar o engajamento com as políticas públicas de inserção de TICs.
+Desenvolver as habilidades profissionais dos educadores, melhorando a qualidade do ensino e tornando-o mais envolvente e
+adaptável aos alunos.
+Metas de Desempenho:
+Desenvolver um plano de necessidades para a formação continuada dos profissionais.
+Executar a formação de 1.000 profissionais, incluindo gestores, coordenadores e professores.
+   S - TELEMEDICINA E DIGITALIZAÇÃO DA ATENÇÃO EM SAÚDE
+Como mencionado, o Município conduz desde 2021 projeto pioneiro de telemedicina ofertado em unidades de saúde municipais.
+No entanto, o alcance do programa é limitado e esbarra na falta de disponibilidade de infraestruturas digitais de qualidade para sua
+ampliação. O programa prevê atender a essa carência com a implantação de infraestrutura tecnológica, com vistas a aumentar a
+eficiência da atualização de dados e reduzir custos com atividades analógicas ainda realizadas nas unidades municipais. Além
+disso, buscará também a expansão dos serviços de telemedicina a partir das lições aprendidas no âmbito a plataforma Belém
+Saúde Digital.
+      P - Requalificação e Modernização dos Sistemas Municipais de Atenção em Saúde
+No âmbito da transformação digital dos serviços de saúde de Belém, pretende-se, ainda, requalificar e modernizar os sistemas de
+Gestão Hospitalar (RBE-Belém), no qual, atualmente, está presente nas 5 (cinco) unidades de pronto atendimento (UPA) e nos 4 (
+quatro) hospitais municipais. Trata-se de um sistema de gestão hospitalar da própria Prefeitura, mantido e ampliado pela CINBESA
+. 
+Esta ferramenta registra anualmente os atendimentos de centenas de milhares de pacientes, garantindo o registro de um
+prontuário unificado ao nível municipal, e servindo como base na geração dos arquivos de produção das unidades. Tal ferramenta
+gera economia na casa de milhões de reais, todos os anos, devido ao alto custo de ferramentas proprietárias nesse segmento. 
+No entanto, o sistema tem suas limitações devido à falta de investimento em tecnologia, contando com equipe reduzida para a
+demanda intensa de melhorias e atualizações solicitadas. Assim, faz-se necessário a aplicação de recursos para a criação de
+novos módulos, melhoria de infraestrutura e adaptação para novos meios de acesso, como tablets e smartphones.
+Deste modo, pretende-se, assim, requalificar o sistema Rede Bem-estar Belém (RBE-Belém), com a melhoria dos módulos de
+gestão de leitos hospitalares, controle de requisições e estoque de farmácias e almoxarifados, registro e geração dos arquivos de
+produção ambulatorial e hospitalar. 
+Outrossim, um dos problemas enfrentados pela gestão administrativa das unidades de saúde é a dificuldade no controle de
+frequência de plantonistas e no agendamento de plantões. Isso provoca insegurança para pacientes e profissionais, além de
+impedir que o município tenha certeza de que os serviços contratados estão sendo realmente prestados à população, acarretando
+potencial prejuízo ao erário municipal. Portanto, por meio da digitalização deste fluxo, existe espaço para maior transparência e
+melhores práticas administrativas. A aquisição de uma ferramenta que permita a melhoria desse processo é uma das propostas
+que melhor atende às necessidades atuais. Pretende-se, assim, implementar ferramentas de gestão de plantões de profissionais
+de saúde, incrementando-se a transparência e a eficiência na prestação dos serviços de saúde.
+Sob o ponto de vista de gestão, faz-se necessário a construção de uma ferramenta de acompanhamento e controle dos Registros
+na Média e Alta Complexidade Municipais (RBE-BI), pois, assim como na atenção primária em saúde (APS), os atendimentos na
+área de média e alta complexidade (MAC) geram extensos volumes de dados, que têm potencial para impactar diretamente tanto
+as contas do município, quanto ajudar a compreender o quadro da saúde municipal e o planejamento, especialmente em situações
+como epidemias e surtos de doenças infectocontagiosas, como foi o caso da pandemia de Covid-19, ou as epidemias de Zika vírus
+ e Chikungunya, por exemplo.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 12
+Ademais, pretende-se assim, implementar sistema apto a assegurar a integração de informações dos serviços e atendimentos
+municipais, tanto na MAC, quanto na APS, permitindo que o Município tenha pleno domínio sobre a natureza dos atendimentos e
+das demandas em relação à saúde local, com a exibição de informações através de paineis, relatórios e consultas diretas em
+diferentes segmentos da saúde, como doenças (CID), procedimentos, classe de profissionais (CBO), etc. A disponibilização de
+dados anonimizados dos atendimentos de média e alta complexidade no Município de Belém ainda permitirá que institutos de
+pesquisa, empresas e universidades possam desenvolver pesquisas e criar produtos que possam contribuir com a melhoria na
+saúde da população belenense.
+A Prefeitura de Belém está implementando um ambicioso projeto de modernização do sistema de saúde municipal, focado na
+integração de infraestrutura tecnológica nas unidades de saúde, portanto a requalificação e modernização dos sistemas municipais
+de atenção em saúde, visam melhorar a eficiência e a qualidade do atendimento à população, utilizando tecnologias avançadas
+para transformar a gestão e a prestação de serviços de saúde.
+Resultados Esperados:
+Com a implementação deste projeto, espera-se uma significativa melhoria na qualidade do atendimento prestado à população. A
+digitalização dos prontuários e a instalação de sistemas de agendamento online facilitarão o acesso às informações dos pacientes,
+reduzindo o tempo de espera e melhorando a coordenação do cuidado. Além disso, a utilização de tablets pelas equipes de saúde
+permitirá um monitoramento mais eficaz das endemias e uma resposta mais rápida a surtos de doenças.
+Impactos Ambientais e Sociais Esperados:
+Do ponto de vista ambiental, a digitalização dos sistemas de saúde reduzirá o uso de papel, contribuindo para a sustentabilidade. A
+modernização das unidades de saúde também incluirá a adoção de práticas e tecnologias mais eficientes em termos de energia,
+reduzindo a pegada de carbono das instalações.
+Socialmente, a requalificação do sistema de saúde terá um impacto positivo significativo. A instalação de dispositivos de
+comunicação visual nas unidades de saúde melhora a orientação dos pacientes, tornando o atendimento mais acessível e inclusivo
+. A ampliação do atendimento de telemedicina permitirá que mais pessoas, especialmente aquelas em áreas remotas, tenham
+acesso a cuidados médicos de qualidade. A formação de profissionais de saúde em tecnologia promoverá uma cultura de inovação
+ e melhoria contínua, beneficiando toda a comunidade.
+Metas de Desempenho:
+Equipar 122 unidades de Saúde com infraestrutura tecnológica para promover o melhor atendimento de pacientes; sistema
+informatizados de gestão de pacientes e atualização de sistema e-SUS do município de Belém;
+Equipar com dispositivos móveis 100% das equipes de Saúde da Família e Endemias através de tablets para utilização de sistema
+e-SUS Território;
+Dotar 100% das unidades de saúde do município com sistemas de saúde digital
+Realizar formação continuada para profissionais da saúde para uso qualificado de dispositivos tecnológicos.
+Redução do tempo de espera para consultas e procedimentos, o aumento da satisfação dos pacientes e a melhoria dos
+indicadores de saúde pública
+Tornar mais eficiente o controle de doenças endêmicas e acompanhamento de pacientes da atenção básica.
+      P - Requalificação e Ampliação da Telemedicina na Rede Municipal de Saúde
+A telemedicina permitirá que os pacientes recebam consultas e orientações médicas à distância, facilitando o acesso aos serviços
+de saúde, especialmente para aqueles que vivem em áreas remotas ou têm dificuldades de locomoção.
+Belém, com uma população de aproximadamente 1,3 milhão de habitantes, enfrenta desafios significativos na área da saúde,
+incluindo a alta incidência de doenças tropicais e a necessidade de melhorar a infraestrutura de saúde pública. Este projeto de
+modernização é um passo crucial para enfrentar esses desafios, promovendo um atendimento mais eficiente, acessível e de
+qualidade para toda a população, o projeto prevê a ampliação do atendimento de telemedicina para alcançar até 800 mil pessoas
+em todo município de Belém.
+Esta plataforma possuirá funcionalidades similares aos aplicativos de troca de mensagem, onde será viável que o cidadão, após
+uma triagem de atendimento, possa interagir com os profissionais capacitados para o atendimento, seja por texto, áudio ou vídeo,
+permitindo desta forma uma maior abrangência e adesão ao serviço. É previsto também que haja subsídio de transmissão de
+dados junto às operadoras, permitindo que o cidadão possa acessar os serviços, mesmo que não possua dados móveis habilitados
+ junto às empresas de telefonia. 
+Ademais, é importante salientar, que o sistema também deverá ser capaz de emitir e validar receitas e guias médicas digitais
+válidas, de modo que a população não tenha a necessidade de deslocamento até um espaço físico para ter a posse do documento,
+ sendo este apenas necessário em caso de retirada de medicamento distribuído gratuitamente ou realização de exames.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 13
+Finalmente, mas não menos importante, salientamos também que a telemedicina deve estar integrada com os demais sistemas de
+atendimento à saúde do cidadão, garantindo desta forma que o atendimento realizado nesta modalidade, possa ser continuado
+presencialmente, caso assim se faça necessário. O programa prevê ainda, a aquisição de equipamentos e treinamento continuado
+dos profissionais envolvidos no atendimento, para que se alcance uma excelência no atendimento à população.
+   S - DIGITALIZAÇÃO DE SERVIÇOS MUNICIPAIS
+Para transformar Belém em uma cidade cada vez mais digital, inteligente e inclusiva, será implementado um amplo programa de
+modernização dos sistemas de gestão da Prefeitura. Esse programa será organizado em um Sistema Integrado de Governança
+Digital, com o objetivo de melhorar a eficiência e a transparência dos serviços públicos. O sistema abrangerá várias áreas
+principais, cada uma focada em diferentes aspectos da administração pública.
+No Atendimento ao Cidadão, o Portal do Cidadão proporcionará acesso a informações e serviços gerais, enquanto o Agendamento
+de Serviços permitirá a marcação de consultas e atendimentos públicos. A Ouvidoria e Reclamações servirá como um canal para
+sugestões, reclamações e denúncias, e a Transparência e Acesso à Informação facilitará a consulta de dados públicos e a
+prestação de contas.
+Para os Serviços para Empresas, o módulo de Licenciamento e Alvarás permitirá a solicitação e renovação de licenças e alvarás
+de funcionamento. A Nota Fiscal Eletrônica facilitará a emissão e consulta de notas fiscais, e o Cadastro de Empresas será
+responsável pelo registro e atualização de dados empresariais. Além disso, o módulo de Incentivos e Benefícios Fiscais fornecerá
+informações e permitirá a solicitação de incentivos fiscais.
+Na Gestão de Servidores Públicos, o Portal do Servidor oferecerá acesso a informações pessoais, contracheques e benefícios. A
+Gestão de Folha de Pagamento cuidará do processamento e consulta de pagamentos, enquanto o módulo de Capacitação e
+Treinamento permitirá a inscrição e acompanhamento de cursos e formações. A Avaliação de Desempenho disponibilizará
+ferramentas para a avaliação e feedback dos servidores.
+Em Gestão Urbana e Infraestrutura, o módulo de Planejamento Urbano permitirá a consulta de planos diretores e projetos urbanos,
+enquanto Obras e Serviços Públicos acompanhará o andamento de obras e serviços. A Mobilidade Urbana disponibilizará
+informações sobre transporte público e trânsito, com controle de tráfego de ônibus, carros e outros veículos, auxiliados por
+videomonitoramento e semáforos inteligentes. A fiscalização do ordenamento urbano será realizada por meio de
+videomonitoramento e rondas com câmeras georreferenciadas, utilizando inteligência artificial para monitorar e gerar mapas do
+município, identificando problemas como buracos, lixo, carros abandonados e calçadas quebradas. A participação popular no
+planejamento urbano e na execução do orçamento público será essencial para garantir inclusão e transparência.
+Na área da Saúde, o Agendamento de Consultas permitirá a marcação de consultas e exames, enquanto o Prontuário Eletrônico
+dará acesso a históricos médicos. O módulo de Campanhas de Saúde fornecerá informações sobre campanhas de vacinação e
+prevenção, e a Farmácia Popular possibilitará a consulta de medicamentos disponíveis. A integração dos sistemas digitais de
+saúde pública com o e-SUS e os gestores de unidades de saúde será fundamental. A Telemedicina, por meio de um aplicativo
+móvel, ampliará o acesso aos serviços de saúde.
+Em Educação, o módulo de Matrículas e Transferências cuida da inscrição e transferência de alunos, enquanto o Boletim Escolar
+permite a consulta de notas e frequência. Programas Educacionais fornece informações sobre projetos educacionais, e a
+Capacitação de Professores permite a inscrição e acompanhamento de cursos para docentes.
+Na Assistência Social, o Cadastro Único cuida do registro e atualização de dados para programas sociais, enquanto Benefícios
+Sociais permite a consulta e solicitação de benefícios. Centros de Referência fornece informações sobre CRAS e CREAS, e
+Programas de Inclusão abrange projetos e ações de inclusão social.
+Por fim, na Segurança Pública, o módulo de Monitoramento e Vigilância oferece acesso a câmeras de segurança e monitoramento,
+enquanto a Defesa Civil fornece informações e alertas sobre desastres naturais. A Guarda Municipal disponibiliza serviços e
+informações da guarda municipal, e Prevenção e Combate ao Crime abrange programas e ações de segurança. A Mobilidade
+Urbana, integrada à segurança pública, controla o tráfego de ônibus, carros e outros veículos, auxiliados por videomonitoramento e
+ semáforos inteligentes.
+Além dessas funcionalidades, um sistema de gestão integrado municipal pode incluir módulos de Gestão Financeira, que
+abrangem planejamento orçamentário, contabilidade e automação de caixa. Gestão de suprimentos pode incluir compras e
+licitações, controle de almoxarifado e patrimônio. Gestão Ambiental pode monitorar e gerenciar recursos naturais e implementar
+práticas sustentáveis Inteligência de Dados pode ser utilizada para análise e tomada de decisões informadas, enquanto Aplicativos
+Móveis podem facilitar o acesso dos cidadãos a diversos serviços públicos.
+      P - Requalificação e Modernização dos Sistemas Municipais
+No processo de transformação digital dos serviços da prefeitura de Belém, será realizada a requalificação e modernização dos
+sistemas de gestão de sistema municipal e estruturas relacionadas.
+O escopo da requalificação resultará na modernização de seus sistemas de legado e de gestão através de um projeto de
+transformação digital. Este novo sistema unificado utilizará inteligência artificial (IA) e geolocalização para otimizar a administração
+pública e melhorar os serviços aos cidadãos.
+A integração dos sistemas municipais criará uma base de dados compartilhada, facilitando a sustentação e evolução contínua do
+sistema. A IA permitirá a automação de processos, análise de grandes volumes de dados e decisões mais informadas. A
+geolocalização possibilitará o monitoramento em tempo real das atividades municipais, como gestão de tráfego e manutenção de
+infraestruturas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 14
+Essa integração proporcionará uma visão holística das operações municipais, melhorando a eficiência e a transparência. A base de
+dados compartilhada facilitará a comunicação entre departamentos, eliminando redundâncias e melhorando a coordenação. Isso
+resultará em um atendimento mais rápido e eficiente aos cidadãos, que poderão acessar diversos serviços públicos integralmente
+e simplificados.
+Este projeto representa um passo significativo para a modernização da gestão pública em Belém, promovendo um governo mais
+inteligente, eficiente e responsivo às necessidades da população.
+Resultados Esperados
+Requalificar e modernizar os sistemas municipais de atenção em saúde, promovendo-se maior eficiência administrativa e
+operacional;
+Aprimorar os processos de gestão de leitos hospitalares, controle de estoques de farmácias e registros em geral na prestação dos
+serviços de saúde em Belém;
+Otimizar a gestão dos atendimentos e a eficiência operacional na atenção primária em saúde (APS) e na área de média e alta
+complexidade (MAC) de Belém;
+Integrar unidades de saúde da rede municipal ao sistema "Bora Plantão" de controle inteligente de escalas e plantões;
+Aprimorar e expandir a política de prontuário eletrônico unificado, acessível on-line pelos provedores de serviços de saúde;
+Ampliar o volume de dados pertinentes aos serviços de saúde compartilhados com institutos, centros de pesquisa e universidades,
+para o desenvolvimento de pesquisas e estudos quanto às políticas públicas de saúde municipal.
+Automatização do Processo de Fiscalização: Redução do tempo de emissão e processamento de multas, tornando o sistema mais
+ágil e eficiente.
+Aumento da Conformidade Legal: Melhor controle e rastreamento das infrações, assegurando que as penalidades sejam aplicadas
+conforme as leis de trânsito vigentes.
+Transparência e Controle: Fornecimento de relatórios detalhados para monitoramento das atividades de fiscalização, permitindo
+uma gestão mais eficaz e tomada de decisões informadas.
+Otimizar o processo de pré-matrículas online na rede municipal de ensino de Belém.
+ 
+Impactos Ambientais e Sociais Esperados
+Prover serviços de saúde mais eficientes à população belenense;
+Melhorar as condições de saúde e bem-estar da população, especialmente de regiões remotas de Belém, como suas Ilhas, por
+meio da tecnologia aliada a estratégias assertivas de atendimento em saúde.
+Metas de Desempenho
+Reduzir para 15 minutos o tempo médio de espera para realização de exames e consultas, desde a requisição, na rede municipal
+de saúde de Belém;
+Matrículas realizadas online para 100% das vagas oferecidas a alunos novos a cada ano.
+Redução no Tempo de Processamento: Redução de pelo menos 30% no tempo necessário para a emissão e processamento de
+infrações de trânsito.
+Alcance de uma taxa de satisfação dos cidadãos de 85% ou mais, em relação à transparência e eficiência do sistema de
+fiscalização de trânsito
+   S - REQUALIFICAÇÃO DE MOBILIDADE URBANA
+Integram este subcomponente, de modo a construir ambientes públicos mais inclusivos, acessíveis, seguros e sustentáveis, em
+benefício de toda população e do meio ambiente de Belém, sede da COP 30.
+A implantação de estações de recarga para veículos elétricos em Belém/PA, pode trazer benefícios significativos para o meio
+ambiente e ajudar a combater as mudanças climáticas. Estudos indicam que a substituição de veículos a combustão por elétricos
+pode reduzir as emissões de CO2, em até 50%.  A utilização de veículos elétricos reduz a emissão de gases poluentes, como
+dióxido de carbono (CO2;) e monóxido de carbono (CO), comuns em veículos movidos a combustíveis fósseis. 
+Além disso, Belém, localizada na Amazônia, se beneficiaria enormemente da redução de poluição atmosférica. A energia para
+recarga desses veículos pode ser obtida de fontes renováveis, como a energia solar, abundante na região. Isso não só diminui a
+emissão de dióxido carbono, mas também promove o uso sustentável dos recursos naturais.
+Dados recentes mostram que a adoção de veículos elétricos está crescendo no Brasil, com um aumento significativo nas vendas,
+porém sem ampla implantação de infraestruturas de recarga, públicas e acessíveis a toda população, principalmente aos meios de
+transporte coletivos, comerciais e particulares.  A instalação de pontos de recarga para estes veículos proverá um avanço na
+transição energética sustentável para toda população de Belém.
+A realização da COP 30 em Belém, em 2025, destaca ainda mais a importância da cidade no contexto ambiental global. Este
+evento reunirá líderes de diversas nações para discutir e formular políticas climáticas que visem a mitigação dos impactos
+ambientais e a promoção de um desenvolvimento sustentável. A COP 30, que será realizada em 2025, coloca Belém no centro das
+atenções mundiais, reforçando a necessidade de ações concretas para a preservação da Amazônia e a luta contra as mudanças
+climáticas.
+Iniciativas como essas são cruciais para garantir um futuro mais verde e saudável para as próximas gerações, especialmente em
+regiões tão vitais como a Amazônia.  
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 15
+      P - Implantação de Projeto de Eficiência Energética
+Este Produto prevê a instalação de estações de recarga para veículos elétricos em Belém, que atualmente possui uma
+infraestrutura insuficiente para as necessidades futuras do município. A nova rede de estações de recarga será expandida para
+cobrir todas as rotas de ônibus da rede municipal, incluindo pontos estratégicos nos distritos e órgãos públicos, atendendo meios
+de transporte coletivos, comerciais e particulares que atualmente não contam com infraestrutura disponível. Deverá contar com a
+implantação de placas solares para reduzir os custos com o fornecimento de energia nos locais de implantação ou em prédios do
+poder público municipal.
+Resultados Esperados
+Espera-se uma diminuição significativa nas emissões de dióxido de carbono, contribuindo para a melhoria da qualidade do ar em
+Belém.
+Aumento da adoção de veículos elétricos, com a instalação de estações de recarga, prevê-se um aumento na utilização de
+veículos elétricos, tanto particulares, comerciais e quanto no transporte público.
+Promoção de fontes de energia renováveis como energia solar nos pontos de recarga para contribuir com transição energética.
+Melhoria da saúde pública com a redução da poluição atmosférica contribuindo na diminuição de doenças respiratórias e outras
+condições de saúde relacionadas à qualidade do ar.
+Impactos Ambientais e Sociais Esperados
+Preservação da Biodiversidade: A redução da poluição ajudará a proteger a rica biodiversidade da Amazônia, essencial para o
+equilíbrio ecológico.
+Mitigação das Mudanças Climáticas: A diminuição das emissões de gases de efeito estufa contribuirá para a mitigação dos
+impactos das mudanças climáticas.
+Desenvolvimento Sustentável: A iniciativa promoverá um modelo de desenvolvimento sustentável, servindo de exemplo para outras
+ regiões.
+Conscientização Ambiental: A realização da COP 30 em Belém aumentará a conscientização sobre a importância da preservação
+ambiental e das ações climáticas.
+Metas de Desempenho
+Alcançar uma redução de até 50% nas emissões de dióxido de carbono provenientes do transporte público coletivo, comercial e
+particular.
+Instalação de estações de recarga nos 8 distritos de Belém: Implementar 200 pontos de estações de recarga para veículos
+elétricos em pontos estratégicos da cidade.
+Aumento de 8% na Frota de Veículos Elétricos: Incentivar a substituição de veículos a combustão por elétricos/híbridos, visando
+um aumento de 30% na frota até 2030.
+Utilização de energia solar para redução de custos na sustentação dos 200 pontos de estações de recarga com cerca de 30 % da
+energia utilizada nas estações de recarga seja proveniente de fontes renováveis, como a energia solar.
+C - ESTUDOS, PLANOS E PROJETOS
+Este componente diz respeito ao processo de construção e/ou revisão do Plano Diretor de Tecnologias da Cidade Inteligente (
+PCDTI), além do processo de revisão da Política Municipal de Acessibilidade, sendo norteadores das ações a serem adotadas no
+processo de transformação digital do Município de Belém. 
+No que tange ao Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI), será desenvolvido como instrumento essencial de
+gestão urbana para a coordenação e sustentabilidade das iniciativas da cidade inteligente em Belém. O PDTCI visa a integração
+de soluções tecnológicas de forma interoperável, evitando silos digitais e fomentando uma cidade inteligente planejada de maneira
+integrada.
+O projeto será iniciado com a realização de diagnósticos amplos e participativos, com base nas normas ABNT NBR ISO 37120:
+2021, 37122:2020, 37123:2021, e outras normas pertinentes. Esses diagnósticos abordarão a qualidade dos serviços públicos,
+inteligência urbana, resiliência, e a situação atual das infraestruturas e serviços de telecomunicações, tecnologia da informação,
+segurança e privacidade da informação, segurança cibernética, e governança de TIC da Prefeitura Municipal.
+Além dos diagnósticos, o processo de elaboração do PDTCI inclui workshops e atividades para definir objetivos, metas, prioridades
+, e orçamento para cada componente da cidade inteligente, promovendo a participação e o engajamento das partes interessadas.
+O plano também incluirá a preparação de projetos executivos de engenharia para a implantação da Infovia Municipal e outras
+infraestruturas inteligentes que sustentem as metas e iniciativas definidas no PDTCI.
+Além do mais, a atualização da Política Municipal de Acessibilidade de Belém, tem como objetivo  garantir que todas as dimensões
+e serviços municipais sejam inclusivos e acessíveis. A revisão incluirá uma avaliação abrangente do estágio atual das políticas de
+acessibilidade, estabelecendo objetivos e metas claros para o curto, médio e longo prazos.
+A nova política de acessibilidade acompanhará as intervenções e iniciativas em acessibilidade e integração multimodal,
+promovendo ambientes públicos mais inclusivos, acessíveis, seguros e sustentáveis em Belém. O processo será participativo,
+assegurando que as partes interessadas, incluindo a população, sejam envolvidas na discussão e formulação da política.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 16
+      P - Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI) e Projetos Executivos, Consultorias técnicas 
+O PDTCI visa eliminar silos digitais e fomentar a interoperabilidade entre os sistemas municipais, alinhando-se à Política Nacional
+de Cidades Inteligentes e ao Plano Nacional de Internet das Coisas. A proposta inclui o diagnóstico abrangente da cidade, a fim de
+identificar desafios e definir soluções integradas e sustentáveis para os eixos da smart city.
+Principais diagnósticos a serem conduzidos:
+Qualidade dos Serviços Públicos (ABNT NBR ISO 37120:2021)
+Inteligência da Cidade (ABNT NBR ISO 37122:2020)
+Resiliência da Cidade (ABNT NBR ISO 37123:2021)
+Infraestruturas de Telecomunicações e TI da Prefeitura
+Segurança e Privacidade da Informação (conforme LGPD e normas ABNT)
+Governança de TICs (COBIT 2019)
+Após a fase diagnóstica, serão organizados workshops e atividades participativas com técnicos municipais e stakeholders externos
+para formular os objetivos e metas da smart city. A governança do projeto será estruturada com base nas diretrizes da ABNT NBR
+ISO 37101:2017.
+Além disso, serão elaboradas minutas de lei e planos de metas para o primeiro biênio de vigência do PDTCI. O produto também
+incluirá projetos executivos de engenharia, especialmente o da Infovia Municipal, necessária para o suporte às iniciativas previstas
+no PDTCI.
+Resultados Esperados
+Elaborar e aprovar, por lei municipal, Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI) para Belém;
+Estruturar os projetos executivos de engenharia para implantação de infraestruturas inteligentes.
+Impactos Ambientais e Sociais Esperados
+Acelerar a transformação digital do Município e a evolução dos níveis de inteligência, sustentabilidade e resiliência da cidade de
+Belém;
+Mitigar a ocorrência de silos digitais na organização municipal;
+Otimizar custos, a partir de infraestruturas comuns, destinadas ao atendimento de multisserviços;
+Contribuir ao atingimento dos propósitos de sustentabilidade da cidade inteligente.
+Metas de Desempenho
+Elaborar e aprovar, por lei municipal, 01 (um) Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI) para Belém;
+Estruturar 01 (um) projeto executivo de engenharia da Infovia Municipal.
+      P - Revisão da Política Municipal de Acessibilidade
+Este produto envolve a revisão e atualização da Política Municipal de Acessibilidade de Belém, com o intuito de assegurar que
+todos os serviços e dimensões da cidade sejam acessíveis e inclusivos. A revisão contemplará uma análise detalhada do estado
+atual das políticas de acessibilidade, definindo metas e objetivos específicos para serem atingidos no curto, médio e longo prazos.
+A nova política acompanhará as ações e iniciativas voltadas para acessibilidade e integração multimodal, promovendo espaços
+públicos mais inclusivos, acessíveis, seguros e sustentáveis em Belém. O processo será conduzido de forma participativa,
+garantindo a inclusão das partes interessadas, como a população, nas discussões e na formulação da política.
+Resultados Esperados
+Elaborar Política Municipal de Acessibilidade atualizada e revista, abrangendo todas as dimensões e serviços municipais.
+Impactos Ambientais e Sociais Esperados
+Ampliar a acessibilidade em Belém, a integração multimodal e a articulação entre as políticas municipais de mobilidade, segurança
+e meio ambiente.
+C - GESTÃO DO PROGRAMA
+Este componente prevê despesas que garantam a execução do programa através de suportes técnico e financeiros necessários à
+sua implantação.
+      P - Apoio Técnico do Programa
+Apoio técnico ao programa e supervisão/monitoramento de obras, intervenções e aquisições, da ordem de 7% (sete por cento) do
+valor total do investimento, para contratação de consultorias para apoio à Unidade de Coordenação.
+      P - Auditoria Externa
+Auditoria externa para atender às exigências de auditoria na execução do programa.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 17
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Bens
+-
+-
+3.480.000,00
+11,60
+P- Fornecimento de Dispositivos aos Alunos e
+Profissionais da Rede Pública Municipal de
+Ensino
+dispositivos digitais
+5.000,00
+1.280.000,00
+4,27
+P- Implantação de Projeto de Eficiência
+Energética
+pts estações de
+recarga
+200,00
+2.200.000,00
+7,33
+Consultoria
+-
+-
+1.080.000,00
+3,60
+P- Plano da Malha de sensores e equipamentos
+conectados
+Plano
+1,00
+395.000,00
+1,32
+P- Plano Diretor de Tecnologias da Cidade
+Inteligente (PDTCI) e Projetos Executivos,
+Consultorias técnicas 
+Planos e Projeto
+2,00
+500.000,00
+1,67
+P- Revisão da Política Municipal de Acessibilidade
+Política revisada
+1,00
+50.000,00
+0,17
+P- Apoio Técnico do Programa
+Consultoria
+1,00
+100.000,00
+0,33
+P- Auditoria Externa
+consultoria
+1,00
+35.000,00
+0,12
+Serviços que Não de Consultoria
+-
+-
+5.650.000,00
+18,83
+P- Requalificação e Expansão da Rede de Fibra
+Óptica, Wi-FI Municipal e Conectividade de Ilhas
+km de rede de fibra
+322,00
+5.650.000,00
+18,83
+Capacitação e Treinamento
+-
+-
+1.200.000,00
+4,00
+P- Plano de Formação Continuada dos
+Profissionais da Rede Pública Municipal de
+Ensino
+profissionais
+capacitados
+1.000,00
+1.200.000,00
+4,00
+Outros
+-
+-
+18.590.000,00
+61,97
+P- Expansão do Monitoramento Municipal
+equipamentos
+1.000,00
+3.800.000,00
+12,67
+P- Requalificação e Modernização dos Sistemas
+Municipais de Atenção em Saúde
+und. de saúde
+equipadas
+122,00
+3.600.000,00
+12,00
+P- Requalificação e Ampliação da Telemedicina
+na Rede Municipal de Saúde
+plataforma
+1,00
+1.800.000,00
+6,00
+P- Requalificação e Modernização dos Sistemas
+Municipais
+sistemas
+modernizados
+3,00
+9.390.000,00
+31,30
+Total Geral
+-
+-
+30.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+O governo municipal está elaborando projetos estratégicos para impulsionar a transformação digital através de um novo Sistema Integrado
+de Governança para modernizar a administração pública, melhorar a qualidade dos serviços e aumentar a transparência. O sistema está
+sendo elaborado pela CINBESA com a colaboração dos diversos órgãos municipais, utilizará tecnologias como Inteligência Artificial e
+Geolocalização, abrangendo diversas áreas, como atendimento ao cidadão, serviços para empresas, gestão pública, saúde, educação,
+assistência social, segurança e finanças. O objetivo é integrar todos os serviços digitais municipais em uma única plataforma, automatizar
+processos, otimizar a distribuição de serviços e facilitar o acesso da população a informações, tornando a gestão pública mais eficiente,
+transparente e acessível.
+Com a Modernização da Infraestrutura de Conectividade, Processamento e Armazenamento de dados da Prefeitura, acerca da rede de
+fibra foi realizado até o momento a ampliação de 118 km, totalizando 200 km, esta ampliação atendeu 72 unidades educacionais com
+todas recebendo wi-fi institucional e para comunidade de alunos e docentes, 04 prédios públicos, 03 praças que receberam wi-fi público,
+02 estações de BRT, além de realizar a redundância da rede para reduzir as interrupções por rompimento da rede, cerca de R$8.000.000,
+00 em investimentos.
+Com investimentos do Tesouro Municipal, para modernizar o processamento e armazenamento, foi adquirido um novo Data Center mais
+moderno e com tecnologia hyper convergente, ampliando o processamento em 400% em relação ao existente de mais de 10 anos de
+utilização.  Esse investimento ficou na ordem de R$3.500.000,00. 
+Para garantir a segurança de dados do Governo Municipal, empresa, servidores e funcionários públicos de Belém, foram adquiridos
+sistemas de Cibersegurança (Firewall) mais modernos e em redundância de monitoramento e bloqueios de ataques contra os sistemas de
+governança municipal.
+Na saúde pública a Prefeitura de Municipal de Belém implantou o "Belém Saúde Digital" sistema de atendimento à população para
+consultas com médicos, nutricionistas e psicólogos através de plataforma digital.  Está primeira etapa de implantação visa o atendimento
+da atenção básica e tem o objetivo de atender toda população de Belém. 
+Segurança e Mobilidade a Prefeitura de Municipal de Belém implantou centrais de videomonitoramento com cerca de 20 monitores de TV
+e 68 câmeras, em diversos pontos da cidade, objetivando o apoio às ações da Prefeitura na fiscalização de trânsito e na segurança
+pública.
+Com a participação estratégica na elaboração de projetos e ações que objetivam a implementação da Transformação Digital Municipal, a
+Prefeitura Municipal de Belém ingressou no Plano de Transformação Digital Nacional, sendo uma das cidades que participam das ações e
+programas nacionais. Também, criou um comitê na CINBESA, para a realização de Compliance e criação de  instrumentos jurídico-
+administrativos de cibersegurança. Desta forma, avança na construção do seu Plano de Transformação Digital de Tecnologia da
+Informação do município de Belém.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 18
+1. Requalificação e Expansão da Rede de Fibra Óptica Municipal e Conectividade de Ilhas
+Estágio Atual: Termos de Referência em elaboração
+2. Plano da Malha de sensores e equipamentos conectados
+Estágio Atual: Termos de Referência em elaboração
+3. Expansão do Monitoramento Municipal
+Estágio Atual: Termos de Referência elaborados
+4. Fornecimento de Dispositivos aos Alunos e Profissionais da Rede Pública Municipal de Ensino
+Estágio Atual: Termos de Referência elaborados
+5. Plano de Formação Continuada dos Profissionais da Rede Pública Municipal de Ensino
+Estágio Atual: Termos de Referência elaborados
+6. Requalificação e Modernização dos Sistemas Municipais de Atenção em Saúde
+Estágio Atual: Termos de Referência em elaboração
+7. Requalificação e Ampliação da Telemedicina na Rede Municipal de Saúde
+Estágio Atual: Termos de Referência em elaboração
+8. Requalificação e Modernização de Sistemas Municipais
+Estágio Atual: Termos de Referência em elaboração
+9. Implantação de Projeto de Eficiência Energética
+Estágio Atual: Consultoria concluída, com recomendações a serem incorporadas aos Termos de Referência e processos de contratação
+10. Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI) e Projetos Executivos, Consultorias Técnicas
+Estágio Atual: Termos de Referência em elaboração
+11. Revisão da Política Municipal de Acessibilidade
+Estágio Atual: Termos de Referência em elaboração
+12. Apoio Técnico do Programa
+Estágio Atual: Termos de Referência em elaboração
+13. Auditoria Externa
+Estágio Atual: Termos de Referência em elaboração
+
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Municipal
+MUNICIPIO DE  BELEM(PA)
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+JUSTIFICATIVA DE OPÇÃO PELO FINANCIAMENTO EXTERNO EM DETRIMENTO DE OPÇÕES DE FINANCIAMENTO INTERNO
+A necessidade do município buscar financiamento externo está relacionada às restrições orçamentárias, à baixa capacidade de
+investimentos dos entes públicos, às condições financeiras mais onerosas praticadas pelos agentes internos, além do volume expressivo
+de recursos demandado para uma operação de crédito destinada para projetos de largo alcance.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 19
+A opção pelo financiamento externo ao invés do interno decorre do fato que as linhas e opções de financiamento concedidas pelos
+organismos financeiros internacionais apresentam taxas de juros e comissões mais atrativas do que as praticadas por instituições
+nacionais, assim como concedem prazos significativamente maiores de desembolso, carência e amortização. Além disso, os agentes
+financeiros externos disponibilizam maior volume de recursos para seus projetos, em consonância com a demanda para projetos como o
+Programa.
+
+JUSTIFICATIVA DE OPÇÃO PELO AGENTE FINANCEIRO EXTERNO ESCOLHIDO 
+O município de Belém, após analisar o cenário atual de alternativas de agentes financeiros bilaterais e multilaterais, identificou o CAF
+como a melhor opção para financiar a execução do programa.
+Nessa escolha, o CAF se destacou pelos seguintes aspectos principais:
+i) A experiência do Banco e seu conhecimento sobre os problemas a serem resolvidos pelo PRODIGITAL, bem como a sua capacidade
+técnica e operacional;
+ii) As condições financeiras favoráveis do CAF, tanto no que se refere aos prazos de desembolso, carência e amortização, como na taxa
+de juros e comissões praticadas;
+iii) Alinhamento do programa às diretrizes e políticas do Banco;  
+iv) A agilidade do Banco no atendimento e aprovação das demandas do Mutuário, visto que usa procedimentos simplificados e eficientes
+em suas análises. Tal agilidade traz ganhos expressivos na execução do cronograma físico-financeiro do programa e redução de custos
+de preparação e implementação;
+v) A utilização pelo Banco de políticas e normas de aquisição, sociais e ambientais similares às nacionais produzem os seguintes
+benefícios importantes à operação de crédito:  a) reduzem significativamente o custo transacional da operação (baixo custo de preparação
+e execução); b) geram menor demanda de técnicos, consultorias e serviços adicionais; e c) propiciam maior segurança e menores risco
+na execução do programa.
+
+COMPARATIVO DAS CONDIÇÕES FINANCEIRAS COM OUTROS AGENTES FINANCEIROS EXTERNOS E INTERNOS
+As condições financeiras oferecidas pelo CAF são atrativas, principalmente quando comparadas às taxas de juros e prazos praticados
+pelo mercado interno e por outros BMDs.
+
+Condições Financeiras do Banco escolhido - CAF 
+- Prazo total: 216 meses
+- Prazo de desembolso: 60 meses
+- Prazo de carência: até 66 meses
+- Prazo de amortização: 150 meses
+- Juros e encargos: 
+Taxa de juros: SOFR + 2% a.a.
+Comissão de compromisso: 0,35% ao ano sobre saldos não desembolsados.
+Comissão de financiamento: 0,85% sobre o montante do empréstimo (US$ 340.000,00), pagos no primeiro desembolso.
+
+COMPARATIVO COM AGENTES FINANCEIROS INTERNOS: 
+Banco Regional de Brasília (BRB)
+- Prazo total: 120 meses;
+- Prazo de carência: 12 meses;
+- Prazo de amortização: 108 meses;
+- Taxa concedida: 115% de CDI a.a.; e
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 20
+- Demais Encargos: Tarifa de 1% sobre o valor do financiamento + Tarifa de 0,5% a.a sobre o saldo não desembolsado.
+Caixa Econômica Federal (CEF)
+- Prazo total: 120 meses;
+- Prazo de carência: 24 meses;
+- Prazo de amortização: 96 meses;
+- Taxa concedida: 131,13% de CDI a.a; e
+- Demais Encargos: Tarifa de Customização: 2%.
+
+COMPARATIVO COM AGENTES FINANCEIROS EXTERNOS: 
+Banco Mundial
+- Prazo total: 216 meses;
+- Prazo de carência: 60 meses;
+- Prazo de amortização: 156 meses; e
+- Taxa concedida: SOFR semestral + 1,37% a.a;
+- Demais Encargos: 
+- Comissão de Financiamento (front end fee) de 0,25% sobre valor do empréstimo: e
+- Comissão de Compromisso de 0,25% sobre saldo não desembolsado. A sobretaxa de 0,5% pode ser aplicada caso o país ultrapasse o
+"single borrower limit".
+
+NDB: 
+- Prazo total: 240 meses;
+- Prazo de Desembolso:  48 meses;
+- Prazo de carência: até 60 meses a partir da data de assinatura do contrato;
+- Prazo de amortização: 180 meses (semestrais);
+- Taxa concedida: EURIBOR + spread a ser definido na assinatura do contrato (estimativa de  1,15% a.a); e
+- Demais Encargos: 
+Comissão de Financiamento: 0,25% sobre valor do empréstimo;
+Comissão de Compromisso: 0,25% sobre o saldo não desembolsado.
+
+FONPLATA: 
+- Prazo total: 180 meses
+- Prazo de Desembolso: 60 meses;
+- Prazo de Carência: até 60 meses;
+- Prazo de Amortização: 120 meses
+- Taxa concedida: SOFR semestral + 2,1% a 2,6% 
+- Demais Encargos: 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 21
+Comissão de Compromisso: 0,35% sobre o saldo não desembolsado do empréstimo.
+Comissão de Administração: até 0,7% calculado sobre o montante total do empréstimo.
+
+
+COMPATIBILIDADE DO PRAZO DESEMBOLSO COM A COMPLEXIDADE DO PROGRAMA
+O Prazo de Desembolso de 5 anos é suficiente e compatível com o nível de complexidade das ações a serem implementadas pelo Projeto
+, com a capacidade técnica e institucional da cidade e com o cronograma físico-financeiro de execução. Cabe registrar que o município
+está preparado e trabalhando no planejamento e na realização das ações prévias para a implementação do programa, tais como projetos,
+estudos e editais de licitação, entre outros.  
+
+
+DISTRIBUIÇÃO ADEQUADA DOS RECURSOS NO CRONOGRAMA DE DESEMBOLSO
+A distribuição anual de recursos no cronograma de desembolsos por fonte foi realizada com base no planejamento do município e do CAF
+para a implementação do programa. A distribuição anual dos recursos considera as etapas realizadas e todo o planejamento detalhado no
+Capítulo 2.7 desta Carta Consulta.
+Assim sendo, a distribuição dos recursos está compatível com o cronograma de desembolsos do programa.
+
+COERÊNCIA ENTRE COMPONENTES E DISTRIBUIÇÃO DE RECURSOS
+A distribuição dos recursos por componentes/produtos foi realizada observando a coerência e a estimativa financeira, com base em
+parâmetros levantados pelo município em relação à estimativa de custos praticados no mercado para as atividades previstas no âmbito do
+ programa.
+
+2.11. PROJETO/BENEFICIÁRIO
+Público-Alvo e Beneficiários
+As ações do PRODIGITAL são projetadas para acelerar a transformação digital em Belém, promovendo o desenvolvimento sustentável
+através da inovação e das tecnologias da informação e comunicação, alinhadas aos princípios de uma cidade inteligente. O objetivo é
+melhorar significativamente a qualidade de vida dos cidadãos e a eficiência dos serviços públicos oferecidos.
+População Beneficiada
+O programa beneficiará diretamente mais de 1,3 milhão de habitantes do município de Belém. Entre os principais impactos está a
+expansão da conectividade digital, com destaque para a chegada de internet de alta velocidade às do município, promovendo a inclusão
+digital e oferecendo serviços mais eficientes.
+Beneficiários Diretos
+A população de Belém será a beneficiária direto das intervenções, obras e aquisições realizadas no âmbito do PRODIGITAL. Essas ações
+visam melhorar os indicadores de inteligência e sustentabilidade da cidade, proporcionando uma transformação digital que abrange
+setores e serviços prioritários do programa.
+Áreas Estratégicas e Impactos do Projeto
+
+As ações do PRODIGITAL estão alinhadas com áreas prioritárias de impacto ambiental, social e econômico. Para garantir a eficácia do
+programa, é essencial justificar como seus componentes se relacionam com os 15 itens avaliados pela COFIEX, destacando os produtos
+ou subcomponentes da Matriz de Componentes que contribuem para essas áreas estratégicas.
+1.1 Promoção da Sustentabilidade Ambiental
+Requalificação da Política de IoT, Malha de Sensores e Gestão Orientada por Dados: Implementação de sensores conectados em áreas
+urbanas para monitorar condições ambientais, auxiliando na gestão sustentável e na mitigação de impactos ambientais.
+MONITORAMENTO URBANO INTELIGENTE: Uso de tecnologia para monitorar a qualidade do ar, água e solo em tempo real,
+possibilitando respostas rápidas a mudanças ambientais.
+Sistema Unificado de Controle Ambiental (SUCA): Integração de informações ambientais em um sistema centralizado, facilitando a gestão
+de recursos naturais e a adoção de políticas de conservação.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 22
+Gestão Inteligente do Patrimônio Arbóreo de Belém: Controle e preservação das áreas verdes urbanas, garantindo que a arborização
+contribua para a sustentabilidade e o bem-estar da população.
+1.2 Eficiência Energética e Uso de Fontes Renováveis
+Controle de Tráfego Inteligente e Videomonitoramento: Sistema de controle de tráfego integrado que otimiza o fluxo de veículos e reduz o
+consumo de combustíveis fósseis por meio de soluções tecnológicas.
+Modernização de estações de transbordo: Oferecer maior comodidade aos passageiros com a utilização de serviços digitais implantados.
+1.5 Conservação da Biodiversidade e Recursos Florestais
+Gestão Inteligente do Patrimônio Arbóreo: Monitoramento e controle do patrimônio arbóreo, visando a conservação das espécies nativas e
+ a gestão sustentável das áreas verdes da cidade.
+Monitoramento Urbano Inteligente: Ferramentas tecnológicas para rastrear a saúde dos ecossistemas e prevenir a degradação dos
+recursos naturais, promovendo a biodiversidade local.
+1.6 Melhoria do Ambiente de Negócios
+Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI): Criação de uma estrutura tecnológica moderna que facilite a inovação e o
+empreendedorismo, promovendo um ambiente de negócios dinâmico em Belém.
+Requalificação de Sistemas Municipais: Modernização dos sistemas administrativos, permitindo maior eficiência nos processos e serviços
+que impactam o ambiente de negócios.
+1.7 Benefícios para Empreendedores e Pequenas Empresas
+Fornecimento de Dispositivos para Alunos e Profissionais da Educação: Inclusão digital que beneficia pequenos empreendedores ao
+melhorar a qualificação tecnológica e fomentar a economia local.
+Digitalização de Serviços Municipais: Facilitação do acesso a serviços públicos online, promovendo eficiência e reduzindo barreiras para
+pequenos empresários e autônomos.
+1.8 Geração de Emprego e Renda para Populações Vulneráveis
+Telemedicina e Digitalização da Saúde: Expansão de serviços de saúde que criam novas oportunidades de emprego no setor, ao mesmo
+tempo, em que melhoram o acesso da população vulnerável a cuidados médicos.
+Digitalização do Ensino: Melhoria da qualificação profissional de jovens e adultos, abrindo novas oportunidades de emprego e geração de
+renda.
+Plano de Formação Continuada dos Profissionais da Educação: Capacitação contínua de professores e gestores educacionais para
+preparar a força de trabalho e aumentar a empregabilidade.
+1.9 Infraestrutura para Populações Vulneráveis
+Fornecimento de Dispositivos para Alunos e Profissionais da Educação: Inclusão digital e acesso a equipamentos de informática para
+estudantes e profissionais de baixa renda.
+Digitalização de Serviços Municipais: Melhor acesso a serviços essenciais para populações vulneráveis, promovendo a equidade social.
+Telemedicina e Digitalização da Atenção em Saúde: Expansão do atendimento médico a comunidades de baixa renda, melhorando a
+saúde pública por meio da telemedicina.
+Ampliação da conectividade: Através de rede de fibra óptica e wifi para atender a inclusão digital, expansão de serviços digitais realizado
+pelo município de Belém para população.
+1.10 Inclusão de Minorias Sociais
+Digitalização do Ensino: Inclusão digital de grupos marginalizados, garantindo que minorias tenham acesso às ferramentas e
+oportunidades educacionais.
+Plano de Formação Continuada para Profissionais da Educação: Foco na diversidade e inclusão social, capacitando professores para lidar
+ com alunos de diferentes origens e necessidades.
+1.11 Políticas para Juventude, Gênero e Raça
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 23
+Telemedicina e Digitalização da Saúde: Serviços de saúde mais acessíveis para jovens e minorias, com foco em atender populações
+historicamente desfavorecidas.
+Acessibilidade e Integração Multimodal: Implementação de soluções de mobilidade inclusiva, garantindo que jovens, mulheres e minorias
+raciais tenham acesso seguro e fácil aos serviços de transporte.
+Revisão da Política Municipal de Acessibilidade: Adequação das políticas públicas para garantir que as minorias tenham acesso igualitário
+aos serviços urbanos e de infraestrutura.
+1.12 Melhoria dos Serviços Públicos e Participação Cidadã
+Requalificação do Sistema de Informações: Modernização dos processos administrativos para melhorar a eficiência e a transparência na
+prestação de serviços públicos, promovendo maior participação cidadã.
+Digitalização de Serviços Municipais: Expansão dos serviços online, facilitando o acesso aos serviços públicos para todos os cidadãos,
+com foco em eficiência e inovação.
+Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI): Implementação de tecnologias que permitem uma gestão mais participativa,
+com os cidadãos interagindo diretamente com as autoridades por meio de plataformas digitais.
+1.13 Melhoria nas Condições de Educação e Saúde
+Requalificação e Ampliação da Telemedicina: Expansão dos serviços de saúde para áreas remotas e populações vulneráveis por meio da
+telemedicina, promovendo atendimento médico mais rápido e acessível.
+Digitalização do Ensino: Implementação de plataformas digitais nas escolas municipais, proporcionando uma educação mais inclusiva e
+moderna.
+Fornecimento de Dispositivos para Alunos e Profissionais da Educação: Equipar alunos e professores com dispositivos tecnológicos,
+garantindo que todos tenham acesso a ferramentas essenciais para o aprendizado.
+Requalificação e Modernização dos Sistemas de Saúde: Modernização dos hospitais e centros de saúde municipais, garantindo que a
+população receba atendimento médico de qualidade com uso de tecnologias avançadas.
+1.14 Desenvolvimento, Inovação e Modernização Tecnológica
+Requalificação da Política de IoT, Malha de Sensores e Gestão Orientada por Dados: Uso de tecnologias de IoT para monitoramento
+inteligente da cidade, facilitando a tomada de decisões com base em dados precisos.
+Monitoramento Urbano Inteligente: Aplicação de novas tecnologias para acompanhar o estado do meio ambiente em tempo real,
+permitindo respostas rápidas a eventos ambientais críticos.
+Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI): Desenvolvimento de um planejamento estratégico para transformar Belém
+em uma cidade inteligente, integrando tecnologias inovadoras para modernizar a infraestrutura urbana.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Internas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Contrapartida Financeira
+CF
+US$
+6.000.000,00
+1,00
+6.000.000,00
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Corporação Andina de Fomento - CAF
+CAF
+US$
+24.000.000,00
+1,00
+24.000.000,00
+Total:
+30.000.000,00
+30.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 24
+O Mutuário será o município de Belém, tendo como garantidor a República Federativa do Brasil. O executor do Programa é a Secretaria
+Municipal de Coordenação Geral do Planejamento e Gestão (SEGEP), que atuará por meio da Unidade de Gerenciamento do Programa (
+UGP). Belém tem ampla expertise na elaboração, preparação e execução de projetos com financiamento internacional, como os
+realizados com o BID e Fonplata para infraestrutura e saneamento.
+
+A UGP contará com uma equipe técnica capacitada e experiente, composta por 08 engenheiros civis e ambientais, 02 arquitetos, 03
+contadores, 01 economista, 02 administradores, 18 analistas de sistemas, 12 técnicos de informática, 01 biólogo, 01 geólogo, 05
+servidores de segurança pública, 11 servidores na área de desenvolvimento econômico e inovação, mais de 40 profissionais da gestão
+administrativa da educação, 05 procuradores para políticas públicas, licitações e contratos, 16 servidores na Central de Licitações, entre
+outros. Parte dessa equipe já participou de contratos internacionais, como os programas PROMABEN I e II financiados pelo BID. A UGP
+será formalmente instituída por decreto após a assinatura do contrato.
+
+A Matriz de Responsabilidade Institucional RACI (Anexo II) define as atribuições dos órgãos envolvidos na execução do Programa, entre
+os quais se destacam:
+
+a) Secretaria Municipal de Finanças (SEFIN): gerenciará os recursos financeiros e contábeis do Programa, assegurando que os objetivos
+e resultados sejam alcançados, em conjunto com a UGP.
+
+b) Gabinete do Prefeito de Belém - Escritório de Dados e Gerenciamento de Projetos: atuará no assessoramento do cumprimento das
+metas, principalmente no desenvolvimento do Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI).
+
+c) Secretaria Municipal de Coordenação Geral do Planejamento e Gestão (SEGEP): responsável pelo acompanhamento da evolução
+territorial e pela implementação do PDTCI, com foco no monitoramento do desenvolvimento e proposição de futuras ações.
+
+d) Companhia de Tecnologia da Informação do Município de Belém (CINBESA): por meio de suas diretorias, participará na execução de
+ações voltadas à conectividade e digitalização dos sistemas municipais, além de auxiliar na preparação e implementação do PDTCI.
+
+e) Guarda Municipal de Belém (GMB): atuará na expansão da rede de câmeras e no monitoramento, além de formar pessoal nas novas
+plataformas digitais.
+
+f) Secretaria Municipal de Educação (SEMEC): participará das ações de modernização das escolas, apoiando a conectividade e formação
+de professores e alunos.
+
+g) Secretaria Municipal de Meio Ambiente (SEMMA): coordenará ações de preservação ambiental, monitoramento de áreas de risco e
+implementação de medidas para adaptação às mudanças climáticas, com foco na gestão de sistemas de drenagem e monitoramento
+urbano.
+
+h) Secretaria Municipal de Urbanismo (SEURB): por meio de sua diretoria de projetos, atuará no restauro e requalificação de praças e
+espaços públicos, além da instalação de infraestrutura elétrica para equipamentos de rede de fibra e Wi-Fi.
+
+i) Fundação Cultural de Belém (FUMBEL): atuará na requalificação de bens culturais, garantindo a aprovação de projetos de restauro junto
+ aos conselhos competentes.
+
+j) Procuradoria Geral do Município (PGM): oferecerá consultoria jurídica e acompanhará os aspectos legais da contratação do
+financiamento.
+
+l) Companhia de Desenvolvimento de Belém (CONPA): o município possui conhecimento das políticas de salvaguarda do agente
+financeiro, e o CAF utiliza padrões nacionais de licitação, uma área em que Belém já tem vasta experiência.
+
+m) Superintendência Executiva de Mobilidade Urbana de Belém (SEMOB): responsável pela instalação de sensores de controle de
+mobilidade, além da formação de agentes nas novas plataformas de monitoramento e fiscalização.
+
+O município de Belém tem pleno domínio das políticas de salvaguarda socioambientais e de aquisições e exigências da CAF,
+demonstrando sua experiência no cumprimento de padrões internacionais para licitações e critérios ambientais e sociais.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 25
+4.2. Execução/Executores
+Executor: SECRETARIA MUNICIPAL DA COORDENAÇÃO GERAL DO PLANEJAMENTO E GESTÃO - SEGEP
+Representante Oficial: João Claudio Tupinamba Arroyo / gab.segep@gmail.com
+Endereço da Sede: Avenida Governador José Malcher, 2110, São Brás
+E-mail Institucional:
+Telefone: (91) 3251-4504
+Fax:
+CNPJ: 05055009000113 
+UF:
+4.3. Execução/Prazo
+Prazo de Desembolso:
+5
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+CAF
+CF
+CAF
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+29.315.000,00
+1.965.000,00
+10.140.000,00
+   S - CONECTIVIDADE
+5.650.000,00
+130.000,00
+2.120.000,00
+      P - Requalificação e Expansão da Rede de Fibra Óptica, Wi-FI Municipal e Conectividade de Ilhas
+5.650.000,00
+130.000,00
+2.120.000,00
+   S - MONITORAMENTO URBANO INTELIGENTE
+4.195.000,00
+360.000,00
+1.255.000,00
+      P - Plano da Malha de sensores e equipamentos conectados
+395.000,00
+60.000,00
+255.000,00
+      P - Expansão do Monitoramento Municipal
+3.800.000,00
+300.000,00
+1.000.000,00
+   S - DIGITALIZAÇÃO DO ENSINO
+2.480.000,00
+150.000,00
+730.000,00
+      P - Fornecimento de Dispositivos aos Alunos e Profissionais da Rede Pública Municipal de Ensino
+1.280.000,00
+70.000,00
+530.000,00
+      P - Plano de Formação Continuada dos Profissionais da Rede Pública Municipal de Ensino
+1.200.000,00
+80.000,00
+200.000,00
+   S - TELEMEDICINA E DIGITALIZAÇÃO DA ATENÇÃO EM SAÚDE
+5.400.000,00
+465.000,00
+835.000,00
+      P - Requalificação e Modernização dos Sistemas Municipais de Atenção em Saúde
+3.600.000,00
+265.000,00
+435.000,00
+      P - Requalificação e Ampliação da Telemedicina na Rede Municipal de Saúde
+1.800.000,00
+200.000,00
+400.000,00
+   S - DIGITALIZAÇÃO DE SERVIÇOS MUNICIPAIS
+9.390.000,00
+220.000,00
+4.000.000,00
+      P - Requalificação e Modernização dos Sistemas Municipais
+9.390.000,00
+220.000,00
+4.000.000,00
+   S - REQUALIFICAÇÃO DE MOBILIDADE URBANA
+2.200.000,00
+640.000,00
+1.200.000,00
+      P - Implantação de Projeto de Eficiência Energética
+2.200.000,00
+640.000,00
+1.200.000,00
+C - ESTUDOS, PLANOS E PROJETOS
+550.000,00
+0,00
+350.000,00
+P - Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI) e Projetos Executivos,
+Consultorias técnicas 
+500.000,00
+0,00
+300.000,00
+      P - Revisão da Política Municipal de Acessibilidade
+50.000,00
+0,00
+50.000,00
+C - GESTÃO DO PROGRAMA
+135.000,00
+0,00
+50.000,00
+      P - Apoio Técnico do Programa
+100.000,00
+0,00
+50.000,00
+      P - Auditoria Externa
+35.000,00
+0,00
+0,00
+Total
+0,00
+1.965.000,00
+10.540.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+CAF
+CF
+CAF
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+1.450.000,00
+7.370.000,00
+   S - CONECTIVIDADE
+70.000,00
+2.090.000,00
+      P - Requalificação e Expansão da Rede de Fibra Óptica, Wi-FI Municipal e Conectividade de Ilhas
+70.000,00
+2.090.000,00
+   S - MONITORAMENTO URBANO INTELIGENTE
+340.000,00
+1.000.000,00
+      P - Plano da Malha de sensores e equipamentos conectados
+40.000,00
+0,00
+      P - Expansão do Monitoramento Municipal
+300.000,00
+1.000.000,00
+   S - DIGITALIZAÇÃO DO ENSINO
+120.000,00
+550.000,00
+      P - Fornecimento de Dispositivos aos Alunos e Profissionais da Rede Pública Municipal de Ensino
+60.000,00
+200.000,00
+      P - Plano de Formação Continuada dos Profissionais da Rede Pública Municipal de Ensino
+60.000,00
+350.000,00
+   S - TELEMEDICINA E DIGITALIZAÇÃO DA ATENÇÃO EM SAÚDE
+400.000,00
+1.000.000,00
+      P - Requalificação e Modernização dos Sistemas Municipais de Atenção em Saúde
+200.000,00
+800.000,00
+      P - Requalificação e Ampliação da Telemedicina na Rede Municipal de Saúde
+200.000,00
+200.000,00
+   S - DIGITALIZAÇÃO DE SERVIÇOS MUNICIPAIS
+220.000,00
+2.670.000,00
+      P - Requalificação e Modernização dos Sistemas Municipais
+220.000,00
+2.670.000,00
+   S - REQUALIFICAÇÃO DE MOBILIDADE URBANA
+300.000,00
+60.000,00
+      P - Implantação de Projeto de Eficiência Energética
+300.000,00
+60.000,00
+C - ESTUDOS, PLANOS E PROJETOS
+0,00
+200.000,00
+P - Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI) e Projetos Executivos,
+Consultorias técnicas 
+0,00
+200.000,00
+      P - Revisão da Política Municipal de Acessibilidade
+0,00
+0,00
+C - GESTÃO DO PROGRAMA
+0,00
+50.000,00
+      P - Apoio Técnico do Programa
+0,00
+50.000,00
+      P - Auditoria Externa
+0,00
+0,00
+Total
+0,00
+1.450.000,00
+7.620.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 26
+Ano 3
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+CAF
+CF
+CAF
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+1.330.000,00
+2.980.000,00
+   S - CONECTIVIDADE
+70.000,00
+640.000,00
+      P - Requalificação e Expansão da Rede de Fibra Óptica, Wi-FI Municipal e Conectividade de Ilhas
+70.000,00
+640.000,00
+   S - MONITORAMENTO URBANO INTELIGENTE
+80.000,00
+400.000,00
+      P - Plano da Malha de sensores e equipamentos conectados
+40.000,00
+0,00
+      P - Expansão do Monitoramento Municipal
+40.000,00
+400.000,00
+   S - DIGITALIZAÇÃO DO ENSINO
+460.000,00
+120.000,00
+      P - Fornecimento de Dispositivos aos Alunos e Profissionais da Rede Pública Municipal de Ensino
+180.000,00
+60.000,00
+      P - Plano de Formação Continuada dos Profissionais da Rede Pública Municipal de Ensino
+280.000,00
+60.000,00
+   S - TELEMEDICINA E DIGITALIZAÇÃO DA ATENÇÃO EM SAÚDE
+500.000,00
+1.000.000,00
+      P - Requalificação e Modernização dos Sistemas Municipais de Atenção em Saúde
+400.000,00
+600.000,00
+      P - Requalificação e Ampliação da Telemedicina na Rede Municipal de Saúde
+100.000,00
+400.000,00
+   S - DIGITALIZAÇÃO DE SERVIÇOS MUNICIPAIS
+220.000,00
+820.000,00
+      P - Requalificação e Modernização dos Sistemas Municipais
+220.000,00
+820.000,00
+   S - REQUALIFICAÇÃO DE MOBILIDADE URBANA
+0,00
+0,00
+      P - Implantação de Projeto de Eficiência Energética
+0,00
+0,00
+C - ESTUDOS, PLANOS E PROJETOS
+0,00
+0,00
+P - Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI) e Projetos Executivos,
+Consultorias técnicas 
+0,00
+0,00
+      P - Revisão da Política Municipal de Acessibilidade
+0,00
+0,00
+C - GESTÃO DO PROGRAMA
+5.000,00
+0,00
+      P - Apoio Técnico do Programa
+0,00
+0,00
+      P - Auditoria Externa
+5.000,00
+0,00
+Total
+0,00
+1.335.000,00
+2.980.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+CAF
+CF
+CAF
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+740.000,00
+1.910.000,00
+   S - CONECTIVIDADE
+70.000,00
+460.000,00
+      P - Requalificação e Expansão da Rede de Fibra Óptica, Wi-FI Municipal e Conectividade de Ilhas
+70.000,00
+460.000,00
+   S - MONITORAMENTO URBANO INTELIGENTE
+260.000,00
+500.000,00
+      P - Plano da Malha de sensores e equipamentos conectados
+0,00
+0,00
+      P - Expansão do Monitoramento Municipal
+260.000,00
+500.000,00
+   S - DIGITALIZAÇÃO DO ENSINO
+40.000,00
+120.000,00
+      P - Fornecimento de Dispositivos aos Alunos e Profissionais da Rede Pública Municipal de Ensino
+20.000,00
+60.000,00
+      P - Plano de Formação Continuada dos Profissionais da Rede Pública Municipal de Ensino
+20.000,00
+60.000,00
+   S - TELEMEDICINA E DIGITALIZAÇÃO DA ATENÇÃO EM SAÚDE
+170.000,00
+430.000,00
+      P - Requalificação e Modernização dos Sistemas Municipais de Atenção em Saúde
+120.000,00
+380.000,00
+      P - Requalificação e Ampliação da Telemedicina na Rede Municipal de Saúde
+50.000,00
+50.000,00
+   S - DIGITALIZAÇÃO DE SERVIÇOS MUNICIPAIS
+200.000,00
+400.000,00
+      P - Requalificação e Modernização dos Sistemas Municipais
+200.000,00
+400.000,00
+   S - REQUALIFICAÇÃO DE MOBILIDADE URBANA
+0,00
+0,00
+      P - Implantação de Projeto de Eficiência Energética
+0,00
+0,00
+C - ESTUDOS, PLANOS E PROJETOS
+0,00
+0,00
+P - Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI) e Projetos Executivos,
+Consultorias técnicas 
+0,00
+0,00
+      P - Revisão da Política Municipal de Acessibilidade
+0,00
+0,00
+C - GESTÃO DO PROGRAMA
+0,00
+0,00
+      P - Apoio Técnico do Programa
+0,00
+0,00
+      P - Auditoria Externa
+0,00
+0,00
+Total
+0,00
+740.000,00
+1.910.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+CAF
+CF
+CAF
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+510.000,00
+920.000,00
+5.995.000,00
+23.320.000,00
+   S - CONECTIVIDADE
+0,00
+0,00
+340.000,00
+5.310.000,00
+      P - Requalificação e Expansão da Rede de Fibra Óptica, Wi-FI Municipal e Conectividade de Ilhas
+0,00
+0,00
+340.000,00
+5.310.000,00
+   S - MONITORAMENTO URBANO INTELIGENTE
+0,00
+0,00
+1.040.000,00
+3.155.000,00
+      P - Plano da Malha de sensores e equipamentos conectados
+0,00
+0,00
+140.000,00
+255.000,00
+      P - Expansão do Monitoramento Municipal
+0,00
+0,00
+900.000,00
+2.900.000,00
+   S - DIGITALIZAÇÃO DO ENSINO
+0,00
+190.000,00
+770.000,00
+1.710.000,00
+      P - Fornecimento de Dispositivos aos Alunos e Profissionais da Rede Pública Municipal de Ensino
+0,00
+100.000,00
+330.000,00
+950.000,00
+      P - Plano de Formação Continuada dos Profissionais da Rede Pública Municipal de Ensino
+0,00
+90.000,00
+440.000,00
+760.000,00
+   S - TELEMEDICINA E DIGITALIZAÇÃO DA ATENÇÃO EM SAÚDE
+290.000,00
+310.000,00
+1.825.000,00
+3.575.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 27
+      P - Requalificação e Modernização dos Sistemas Municipais de Atenção em Saúde
+190.000,00
+210.000,00
+1.175.000,00
+2.425.000,00
+      P - Requalificação e Ampliação da Telemedicina na Rede Municipal de Saúde
+100.000,00
+100.000,00
+650.000,00
+1.150.000,00
+   S - DIGITALIZAÇÃO DE SERVIÇOS MUNICIPAIS
+220.000,00
+420.000,00
+1.080.000,00
+8.310.000,00
+      P - Requalificação e Modernização dos Sistemas Municipais
+220.000,00
+420.000,00
+1.080.000,00
+8.310.000,00
+   S - REQUALIFICAÇÃO DE MOBILIDADE URBANA
+0,00
+0,00
+940.000,00
+1.260.000,00
+      P - Implantação de Projeto de Eficiência Energética
+0,00
+0,00
+940.000,00
+1.260.000,00
+C - ESTUDOS, PLANOS E PROJETOS
+0,00
+0,00
+0,00
+550.000,00
+P - Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI) e Projetos Executivos,
+Consultorias técnicas 
+0,00
+0,00
+0,00
+500.000,00
+      P - Revisão da Política Municipal de Acessibilidade
+0,00
+0,00
+0,00
+50.000,00
+C - GESTÃO DO PROGRAMA
+0,00
+30.000,00
+5.000,00
+130.000,00
+      P - Apoio Técnico do Programa
+0,00
+0,00
+0,00
+100.000,00
+      P - Auditoria Externa
+0,00
+30.000,00
+5.000,00
+30.000,00
+Total
+30.000.000,00
+510.000,00
+950.000,00
+6.000.000,00
+24.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+Para a implementação do PRODIGITAL, foram identificados os seguintes riscos vinculados a atos legais, com respectivas ações
+mitigadoras para assegurar a conformidade do Programa:
+1, Risco de Ausência de Autorização Legislativa:
+Risco: A contratação do financiamento junto ao CAF requer uma autorização específica da Câmara Municipal. A ausência de aprovação
+legislativa pode atrasar o início das atividades do Programa.
+Ação Mitigadora: Planejamento para submissão da proposta legislativa no tempo adequado e engajamento prévio com representantes
+legislativos para esclarecer os benefícios do Programa e obter apoio necessário.
+2. Risco de Necessidade de Atos Legais Adicionais durante a Implementação:
+Risco: Novos atos legais, como decretos e convênios, podem ser requeridos para viabilizar a execução e a integração de ações entre
+órgãos municipais. A ausência desses atos pode causar interrupções no Programa.
+Ação Mitigadora: Monitoramento contínuo das exigências legais durante a implementação e atuação coordenada com a Procuradoria
+Geral do Município (PGM) para providenciar, quando necessário, a formalização dos atos legais com antecedência.
+3. Risco de Conformidade com Normas de Segurança da Informação:
+Risco: A ausência de adequação às normas de segurança da informação pode gerar implicações legais e comprometer a integridade dos
+dados municipais.
+Ação Mitigadora: Garantir que os contratos incluam cláusulas que exijam cumprimento rigoroso das normas de segurança da informação e
+ proteção de dados, com fiscalização contínua pela CINBESA para assegurar conformidade e prontidão em auditorias.
+Esses riscos e ações mitigadoras foram delineados para assegurar que todos os atos legais necessários ao PRODIGITAL estejam
+devidamente cumpridos, minimizando a possibilidade de entraves legais e garantindo o cumprimento de normas essenciais para a
+viabilidade do Programa.
+
+5.2. RISCOS/CONTRATAÇÕES
+A execução do PRODIGITAL exigirá diversas contratações de consultorias, obras e serviços, além da aquisição de bens e tecnologias
+para viabilizar a transformação digital e a modernização de Belém como cidade inteligente. Essas contratações contemplam projetos de
+conectividade, monitoramento urbano, telemedicina, digitalização de serviços, requalificação de mobilidade urbana, além de estudos e
+planos estratégicos para garantir o sucesso do Programa.
+Principais Contratações Previstas:
+- Consultorias Técnicas para apoio na gestão e implementação do Programa, elaboração do Plano Diretor de Tecnologias da Cidade
+Inteligente (PDTCI), revisão da Política Municipal de Acessibilidade e supervisão de obras;
+Serviços de Infraestrutura de Conectividade e Rede Lógica, com a expansão da fibra óptica, instalação de Wi-Fi municipal e conectividade
+nas ilhas;
+- Equipamentos de Monitoramento Urbano incluindo câmeras de videomonitoramento e sensores inteligentes para monitoramento
+ambiental e mobilidade;
+Aquisição de Dispositivos Educacionais e Implementação de Programas de Formação para a digitalização do ensino na rede municipal;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 28
+- Sistemas de Saúde e Telemedicina para modernização da rede municipal de saúde e expansão dos serviços de atendimento remoto;
+- Serviços de Eletromobilidade e Eficiência Energética para a instalação de estações de recarga para veículos elétricos e expansão do
+transporte sustentável.
+
+Contratação de Pessoal: Não está prevista a contratação de pessoal adicional para a execução do Programa além dos integrantes da
+Unidade de Gerenciamento do Programa (UGP), que atuarão temporariamente para viabilizar a implementação das atividades.
+
+Riscos e Ações Mitigadoras:
+1. Risco de Atraso nas Contratações:
+Risco: Atrasos nas licitações e contratações necessárias para a execução do Programa podem comprometer o cronograma e o
+cumprimento das metas estabelecidas.
+Mitigação: Planejamento e acompanhamento detalhado de todas as etapas de licitação com cronograma específico para cada contratação
+; coordenação próxima com a Procuradoria Geral do Município (PGM) para resolução rápida de trâmites.
+2. Risco de Serviços Inadequados ou Fora do Padrão:
+Risco: Fornecedores ou consultores que não atendam aos padrões de qualidade exigidos podem comprometer a eficácia dos produtos e
+serviços.
+Mitigação: Estabelecimento de critérios claros e rígidos nos termos de referência e especificações contratuais; supervisão e
+monitoramento contínuo da execução e entrega dos produtos contratados, com exigência de certificações e comprovantes de qualidade.
+3. Risco de Dependência de Fornecedores Únicos:
+Risco: Depender de um único fornecedor para serviços críticos pode limitar a flexibilidade e dificultar a continuidade dos serviços em caso
+de falhas.
+Mitigação: Diversificação de fornecedores e contratação de redundâncias para serviços essenciais, especialmente para conectividade e
+monitoramento.
+4. Risco de Segurança da Informação:
+Risco: Vulnerabilidades em sistemas e serviços contratados podem comprometer a segurança dos dados e a privacidade dos usuários.
+Mitigação: Inclusão de requisitos rigorosos de segurança da informação e cibersegurança nos contratos, auditorias regulares e
+conformidade com as melhores práticas e normativas de proteção de dados.
+5. Risco de Sobreposição de Projetos e Esforços Duplicados:
+Risco: Contratações não integradas podem resultar em redundâncias e ineficiência no uso de recursos.
+Mitigação: Integração de todas as atividades sob o PDTCI, que atuará como estrutura centralizadora e orientadora para evitar duplicações
+e garantir alinhamento entre diferentes componentes e subcomponentes do Programa.
+Essas ações mitigadoras foram planejadas para assegurar a continuidade das atividades do PRODIGITAL e o uso eficaz dos recursos,
+promovendo uma execução organizada e eficiente de cada etapa do Programa.
+
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+Não estão previstas desapropriações para atender à execução dos projetos elencados neste programa.
+
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+A implementação dos projetos e iniciativas contidos nos componentes da presente operação, a princípio, não é passível de degradação
+ambiental, se consideradas as exigências e normas vigentes.
+
+As políticas urbanas digitais visam reduzir significativamente os efeitos ambientais adversos e gerar impactos ambientais positivos,
+principalmente quanto à sustentabilidade, inteligência e resiliência da cidade. Além das iniciativas previstas no componente principal dessa
+ operação, nesse quesito destacam-se os impactos ambientais decorrentes do Plano Diretor de Tecnologia da Cidade Inteligente (PDTCI).
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:44
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61238
+Página: 29
+O Plano Diretor de Tecnologia da Cidade Inteligente (PDTCI) pode ter impactos ambientais tanto positivos quanto negativos. Entre os
+impactos positivos estão a redução do deslocamento físico, a eficiência energética e a facilitação da gestão ambiental. Por outro lado, os
+impactos negativos incluem o consumo de recursos, o aumento do consumo de energia e as emissões de carbono associadas, bem como
+o problema do descarte inadequado de equipamentos eletrônicos, o que deverá ser considerado ação prevista no momento de sua
+concepção.
+
+5.5. RISCOS/IMPACTO SOCIAL
+O programa não resultará, a princípio, em impactos sociais negativos, sendo os impactos positivos auferidos por meio dos indicadores
+estipulados em cada produto.
+
+POPULAÇÕES INDÍGENAS
+
+Por meio da transformação digital, o município busca melhorar a qualidade dos serviços prestados à população e promover a inclusão
+social, principalmente das minorias. Entre os principais impactos sociais se destacam: 
+maior segurança urbana através de sistemas de vigilância inteligente, análise de dados para prevenção de crimes e resposta mais rápida
+as emergências;
+melhorias nos serviços públicos essenciais, como mobilidade, segurança, saneamento e gestão de resíduos;
+redução da desigualdade digital por meio da conectividade, promovendo assim um desenvolvimento mais equitativo e sustentável;
+acesso a recursos educacionais online, aprendizagem remota e  desenvolvimento de habilidades digitais essenciais para o mercado de
+trabalho atual;
+serviços públicos online que facilitam o acesso da população a informações e recursos, melhorando a eficiência e a transparência da
+administração;
+incentivo a inovação em diversos setores, estimulando o surgimento de novas ideias, startups e soluções tecnológicas para desafios
+urbanos;
+qualidade das informações geradas para a tomada de decisões conscientes e alinhadas com as necessidades da população, constituindo
+os dados como um ativo para a geração de valor social.
+
+De outro ponto, o monitoramento municipal deverá observar, fielmente, as normas e melhores práticas de segurança, privacidade e
+proteção de dados, garantindo-se ainda que, do processo de expansão dos pontos de monitoramento e incrementos de inteligência
+aplicada ao processamento das imagens e analíticos, não emerjam práticas discriminatórias ou baseadas em viés racial, por meio dos
+algoritmos empregados, sendo que esse possível impacto negativo já foi elencado como risco do presente projeto, e será observado na
+respectiva implementação. 
+
+Por fim, a área das intervenções previstas no PRODIGITAL não possui populações tradicionais, indígenas ou quilombolas.
+
+
+5.6. RISCOS/REASSENTAMENTOS
+O programa não prevê reassentamentos ou deslocamento de famílias.
+
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 

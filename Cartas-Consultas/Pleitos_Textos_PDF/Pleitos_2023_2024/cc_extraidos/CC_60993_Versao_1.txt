@@ -1,0 +1,2563 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+PROJETO DE DESENVOLVIMENTO RURAL SUSTENTÁVEL DA PARAÍBA - PROCASE II
+Nº Carta Consulta: 60993
+Mutuário: Estado da Paraíba
+Tipo de Operação: Operação de crédito externo
+Fontes Internas:
+Contrapartida Financeira: US$ 25.000.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 70.000.000,00
+Fundo Internacional  para o Desenvolvimento da  Agricultura - FIDA: US$ 10.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+04
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 04
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 04
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 04
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 04
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 07
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 10
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 11
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 11
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 12
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 13
+3. FINANCIAMENTO .......................................................................................................................................................................................... 13
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 13
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 14
+4. EXECUÇÃO ...................................................................................................................................................................................................
+14
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 14
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 16
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 16
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 16
+5. RISCOS .......................................................................................................................................................................................................... 20
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 20
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 21
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 21
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 21
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 22
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 22
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+22
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+Diagnóstico 
+a) A Paraíba
+O IDH no valor de 0,658, valor considerado ?médio? em 2010. Em 1991, era de 0,362, passando para 0, 484 no ano 2000. Na última
+aferição deste índice (2010), o estado ocupava a 23ª posição entre as 27 unidades federativas brasileiras.
+Em 2020, o PIB foi de R$ 70,2 bilhões, registrando um crescimento de 3,9% em relação a 2019. Em termos de PIB per capita, apresentou
+um valor de R$ 17.402/hab, um aumento nominal de 2,9%, o que resultou em um acréscimo de 0,3 p.p. no PIB/hab regional e nacional. 
+b) A área do Projeto
+São 210 municípios (anexo 1), o que corresponde a 94% dos municípios, distribuídos entre os Biomas Caatinga (193) e Mata Atlântica (17
+). O Censo Agropecuário (IBGE 2017) informa que são 151.714 propriedades rurais, sendo 77% da Agricultura Familiar (UAF).
+O Projeto contribuirá na mitigação dos seguintes problemas:
+Pobreza e Extrema Pobreza Rural: Há 39% dos domicílios rurais em situação de pobreza (2010), e 20% considerados extremamente
+pobres. No estado, apenas 36% da população possui Segurança Alimentar, enquanto os demais, são classificados como Insegurança
+Alimentar leve, moderada e grave (II VIGISAN, 2021). O IDH em 146 municípios é considerado baixo (70%) , médio em 62 (29%) e alto
+em 2 (1%). Segundo IBGE 2010, cerca de 28% da população possui algum tipo de deficiência (visual, auditiva, motora ou mental).
+Sistemas produtivos ineficientes e impacto nas Mudanças Climáticas: Os sistemas produtivos, em grande parte, não estão adaptados à
+crescente da escassez de água nem ao contexto de mudança climática. Há baixa produtividade das atividades agropecuárias
+dependentes disponibilidade de água, além do uso de técnicas produtivas não adequadas. Como exemplo, 32% das Unidades da
+Agricultura Familiar (UAF) utilizam agrotóxico, e 39% não adota nenhuma prática conservacionista (IBGE 2017). No caso da mecanização,
+a cada 130 agricultores, 1 possui apoio de trator, semeadeira etc (IBGE 2017). Cerca de 15% das UAF não têm acesso à terra garantido (
+IBGE 2017).
+A caatinga e a mata atlântica são biomas que sofrem com a ação antrópica, sendo a caatinga desmatada a uma taxa de 0,28% ao ano (2.
+352 km2 / ano) entre 2002 e 2008. Em relação à Mata Atlântica, restam apenas 9% da cobertura vegetal original, e a pouca mata que
+resta está dividida em pequenos fragmentos, o que torna essa área ainda mais vulnerável.
+Sistema de ATER inadequado e insuficiente: Sem o apoio de profissionais qualificados, os agricultores ficam impedidos de implementar
+práticas agrícolas mais sustentáveis e eficientes, bem como de se adaptar às mudanças climáticas e aos desafios do mercado e do
+acesso a financiamento. Apenas 17% das UAF têm acesso ao serviço de ATER (IBGE 2017), sendo destas, 80% informa que recebe do
+Governo (federal, estadual ou municipal).
+Disponibilidade e fornecimento de água e saneamento limitados: Os sistemas de abastecimento são insuficientes, não conseguindo suprir
+as necessidades da população rural, nem para o uso doméstico nem para a produção agropecuária. Segundo IBGE 2017, cerca de 13%
+das UAF não possui acesso a nenhuma fonte d'água (cerca de 16 mil famílias). Dessas famílias que não possuem água, 6% estão em
+municípios não pertencentes ao Semiárido. Cerca de 37% descarta o esgoto sanitário sem tratamento diretamente no meio ambiente.
+Organizações coletivas fragilizadas: Os empreendimentos para atividades de acondicionamento, beneficiamento e comercialização dos
+produtos também têm encontrado muitas dificuldades. Há cerca de 8.700 unidades de beneficiamento na área do projeto (IBGE 2017).
+Segundo MDS 2018, havia na região NE, 77 empreendimentos cadastrados e aptos para ofertar seus produtos para compradores
+governamentais. Destes, apenas 7 são da Paraíba (10%). 
+Comercialização limitada: Os agricultores familiares possuem canais de comercialização limitados, dependentes da venda localmente.
+Segundo dados da FNDE, o PNAE da Paraíba recebeu apenas 2% dos recursos totais do programa em 2022. Em relação ao NE, este
+resultado coloca o estado apenas na frente de Sergipe, Rio Grande do Norte e Alagoas. Vale destacar que o PNAE é um importante meio
+de comercialização para os produtos das UAF. 
+Capacidades institucionais deficientes: Existem algumas deficiências importantes no que se refere aos serviços governamentais: i)
+Serviços de ATER inadequados e insuficiente; ii) Baixa abrangência das instituições estaduais encarregadas pela regularização ambiental;
+ iii) Deficiência nos serviços de inspeção sanitária.
+A vulnerabilidade aqui retratada, associada às mudanças climáticas, agravam o ciclo negativo causado pelas deficiências na gestão dos
+recursos hídricos e nos sistemas produtivos. Esse processo coloca em risco o abastecimento hídrico, além de colocar em risco a produção
+. Neste respeito, pode-se afirmar que os sistemas de produção na região estão em crise e que esta alimenta processos de degradação
+social e ambiental, o que reforça o empobrecimento das famílias rurais o aumento da migração.
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+SOLUÇÃO PROPOSTA
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 3
+As soluções propostas serão planejadas e implementadas para resolver importantes problemas e entraves ao desenvolvimento rural
+sustentável da Paraíba. Estas ações terão como alicerce as lições aprendidas pelo PROCASE I, além de projetos semelhantes
+implantados com o apoio do FIDA e do BID, no Semiárido brasileiro, ou em outras regiões. Também serão referências as lições colhidas
+por outras políticas para o meio rural, tanto do Governo da Paraíba como do Governo Federal. 
+As propostas irão seguir uma estratégia que visa a realização de diversos investimentos, a introdução de novas práticas, além da garantia
+de serviços de apoio, visando a implantação de sistemas mais produtivos e mais resilientes.
+A proposta com as soluções para:
+Reduzir a Pobreza e Extrema Pobreza Rural: O Projeto terá como foco beneficiar as famílias em situação de vulnerabilidade social,
+pobreza e extrema pobreza, entre as quais serão priorizados os jovens, as mulheres, os indígenas, os quilombolas e as famílias com
+deficientes físico ou mental. A atuação multidimensional buscará como resultado, que as famílias possam ter acesso constante à água de
+qualidade, melhora da produção agrícola com fins de garantir a produção de alimentos saudáveis e suficiente, além de propiciar novas
+formas de auferir renda, por meio de novos/melhorados circuitos de comercialização para a venda do excedente da produção.
+Desenvolver sistemas produtivos resilientes em consonância com a conservação dos biomas: A superação das vulnerabilidades da UAF
+diante das mudanças climáticas exige adaptações importantes nas práticas de manejo agrícola, no sentido de uma intensificação que
+permita adquirir maior capacidade de resiliência e aumentar a produção e a produtividade dos sistemas familiares. Estas mudanças nas
+práticas produtivas estarão voltadas para a valorização e o desenvolvimento dos recursos disponíveis.
+Estão previstas as seguintes ações estratégicas: i) Constituição/fortalecimento de reservas forrageiras; ii) Inovação e tecnologia da
+Agricultura Familiar (Mecanização Adaptada); iii) Quintais produtivos biodiversos; iv) Fortalecimento e organização das principais
+produções; v) Pequenas áreas irrigadas associadas a roçados diversificados (consórcios) agroecológicos para produção orgânica ou a
+constituição de reservas vivas com espécies adaptadas; e vi) Implementação de Sistemas agroflorestais (SAFs) para diversos fins. Como
+resultado, espera-se que a materialização das ações deste eixo irá garantir a resolução do problema de fragilidade das principais cadeias
+produtivas agrícolas e não agrícolas que levam ao empobrecimento e desmobilização social das comunidades rurais, bem como a
+degradação ambiental associada a paisagem onde elas estão inseridas. 
+Os investimentos a serem realizados pelo projeto no tema dos recursos hídricos terá um papel fundamental no sentido de constituir e
+reforçar sistemas produtivos mais resilientes.
+Fornecer e fortalecer o sistema de ATER: Sistema de ATER aprimorado e qualificado para garantir a implementação e a sustentabilidade
+das ações do PROCASE II. Assim, o Projeto proverá apoio para modernização e adaptação dos serviços de: i) ATER para um manejo
+eficiente de recursos hídricos, para implantação e gestão de sistemas produtivos resilientes, para fortalecimento das organizações locais,
+e comercialização; ii) ATER especializada em gênero, etnia e geração, como forma de inclusão participativa; iii) ATER especializada para
+regularização fundiária, ambiental, sanitária e acesso as políticas públicas; e iv) Formação/capacitação das famílias beneficiárias e de
+suas organizações. Como resultado, espera-se que as famílias tenham suas capacidades ampliadas, principalmente na forma de cultivar e
+ preservar o meio ambiente, garantido a sustentabilidade dos investimentos.
+Garantir e manter o acesso à água de qualidade: Visa ampliar a captação e o armazenamento de água para uso doméstico ou coletivo,
+dessedentação animal e para agricultura familiar. Está prevista a instalação de sistemas amplos e diversificados de captação e
+armazenamento de água, formados por diversos tecnologias, equipamentos ou estruturas. Haverá também o acesso às águas
+subterrâneas, sendo com abertura de novos poços ou viabilizando o uso de suas águas quando estas não estão com condições de uso
+imediato, devido aos percentuais de salinidade. 
+Resultando em ações irão garantir a resolução do problema de acesso à água para as comunidades rurais atendidas, ao tempo que a
+aplicação das tecnologias sociais irá promover o uso racional deste recurso para maior resiliência.
+Fortalecer as organizações coletivas e ampliar a comercialização dos produtos das UAF: Investimentos em maquinários adequados,
+adequações e/ou construção de unidades de beneficiamento, principalmente para o atendimento da legislação sanitária e ambiental, com
+vista a obtenção de selos para comercialização. Está prevista também, a instalação de fontes de energias renováveis como painéis
+solares, para fonte de geração de energia elétrica, e baratear os custos de produção, bem como de manutenção da UAF.
+Haverá o acompanhamento de técnicos especializados em ATER, para garantir a realização de processos de gestão eficiente das
+beneficiamento. Como resultado, espera-se um aumento da diversificação de produtos beneficiados com certificação orgânica,
+agroecológicos, selos de origem, selo da Agricultura Familiar e Selo Quilombola ou Indígena.
+Aprimorar as capacidades institucionais: O aumento das capacidades técnicas do estado na área de agricultura familiar será feito por meio
+da realização de eventos de capacitação e intercâmbios. O resultado será a equipe do governo, das entidades que fornecem ATER no
+estado com condições técnicas e de capacidades adequadas para atuar nas temáticas abordadas pelo Projeto, tanto nas áreas técnicas,
+como também transversais como monitoramento e avaliação.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 4
+A sustentabilidade das ações será garantida pela estratégia principal de garantir meios de produção, acesso a alimentos e água de
+qualidade para os agricultores, além do fortalecimento de suas capacidades, com o objetivo de dar continuidade às ações do projeto,
+mesmo após o seu término. Investimentos serão realizados desde a melhoria da produção, como também no beneficiamento e
+comercialização. O fortalecimento das capacidades do estado será outro ponto fundamental. A sustentabilidade será reforçada por meio
+de ações de gestão de conhecimento, pela documentação, sistematização e disseminação de experiências e boas práticas e ampliando
+outros países com a cooperação sul-sul e triangular
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+O Projeto de Desenvolvimento Rural Sustentável da Paraíba (PROCASE II) inscreve-se plenamente nas orientações estratégicas do
+Governo do Estado da Paraíba, sendo parte integrante do novo Plano Plurianual (PPA).
+O PPA do quadriênio 2020-2023 acompanha o Programa de Governo proposto em 2022 pelo atual governador. O PPA definiu diversos
+eixos estratégicos que orientam as suas principais linhas de atuação. Dois destes eixos se relacionam diretamente com o presente Projeto
+: i) Eixo Estratégico 2 ? Paraíba Desenvolvida, Sustentável, Integrada e Contemporânea; e ii) Eixo Estratégico 3 ? Paraíba Inovadora,
+Criativa, Inteligente e Estratégica.
+Diversas Diretrizes Estratégicas deste PPA orientam as principais agendas que o estado deve seguir no período. Dentre estas, cabe
+destacar as Diretrizes II e III, que anunciam que o governo irá ?estimular e apoiar a criação de ambientes inovadores regionais conforme
+as vocações, ativos e arranjos produtivos locais? e também ?fomentar a gestão hídrico-ambiental com o aperfeiçoamento dos serviços
+públicos essenciais com destaque para abastecimento, saneamento e tratamento de resíduos sólidos?.
+A implementação do PROCASE II está inscrita no PPA como o Objetivo 1058, pertencente ao Programa 5002 ? Economia Sustentável e
+Competitiva, sendo o órgão responsável desta iniciativa a Secretaria de Estado da Agricultura Familiar e do Desenvolvimento do
+Semiárido (SEAFDS). Ao mesmo tempo, o Projeto dialoga diretamente com outros Objetivos deste mesmo Programa, sendo o principal
+exemplo o Objetivo 1056 ? Fomentar o Desenvolvimento Rural Sustentável. Também existe grande afinidade com o Programa 5003 ?
+Meio Ambiente, Recursos Hídricos e Saneamento (anexo 2).
+Políticas públicas nacionais de apoio à Agricultura Familiar: PRONAF (Programa Nacional de Fortalecimento da AF), PAA (Programa de
+Aquisição de Alimentos), PNAE (Programa Nacional de Alimentação Escolar), Programa Nacional de Assistência Técnica e Extensão
+Rural na Agricultura Familiar e na Reforma Agrária (PRONATER), Programa Nacional de Alimentação Escolar (PNAE), Programa
+Fomento Rural, Programa Cisternas, à Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais, Plano
+Nacional de Promoção das Cadeias de Produtos da Sociobiodiversidade, Programa Água para Todos, dentre outros programas e políticas
+relacionados diretamente às intervenções do Projeto.
+Contrapartida: A contrapartida financeira proposta é de 23,8% do valor total do projeto no valor de USD 25 milhões, proveniente de
+receitas tributárias previstas nos artigos 155, 157 e 159, inciso I, (a), da Constituição Federal, em conformidade com o que estipula a
+Resolução COFIEX nº 3 de 29/05/2019.
+Taxa de Câmbio: A taxa de câmbio utilizada na preparação da presente proposta foi de 1 USD para 5,15 BRL (cotação de 23/02/2023
+BACEN).
+
+2. Projeto
+2.1. Título
+PROJETO DE DESENVOLVIMENTO RURAL SUSTENTÁVEL DA PARAÍBA - PROCASE II
+
+2.2. Título Abreviado
+PROCASE II
+2.3. Mutuário
+Estado da Paraíba
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+Objetivo Geral
+Contribuir para o desenvolvimento rural sustentável da agricultura familiar nos territórios paraibanos, reduzindo os níveis de pobreza rural
+e fortalecendo as ações de enfrentamento e mitigação às mudanças climáticas.
+
+Objetivos Específicos
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 5
+&#8722;Aperfeiçoar e adaptar os sistemas produtivos da agricultura familiar, aumentando sua produção e produtividade, e ao mesmo
+tempo, melhorando a sua resiliência, portanto, a sua capacidade de enfrentar os desafios impostos pelas mudanças climáticas;
+&#8722;Fortalecer os sistemas de oferta e uso da água para a população rural da área de abrangência do Projeto, para atender às
+necessidades de consumo humano e para uso na produção agrícola e não agrícola;
+&#8722;Implantar tecnologias sociais que promovam melhorias no manejo de resíduos sólidos, acesso às energias renováveis e melhoria
+da eficiência energética no meio rural;
+&#8722;Fortalecer a regularização fundiária e ambiental da agricultura familiar, dando prioridade aos imóveis onde estão inseridas as
+populações tradicionais;
+&#8722;Ampliar a renda promovida pelas atividades agrícolas e não agrícolas das famílias com soluções inovadoras para novos produtos
+e acesso aos mercados;
+&#8722;Implantar / fortalecer empreendimentos de beneficiamento da produção agropecuária, de artesanatos e de provisão de serviços;
+&#8722;Fortalecer as capacidades técnicas e operacionais de órgãos estaduais e entidades da sociedade civil que trabalham na
+implementação das iniciativas de saneamento básico, e das políticas de apoio à sustentabilidade e à resiliência da Agricultura Familiar no
+território da Paraíba;
+
+2.6. Projeto/Indicadores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 6
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+(P) Famílias beneficiadas pelo Projeto
+Soma do nº de
+famílias beneficiadas
+pelo projeto, sem
+repetição.
+Família
+0,00
+50.000,00
+(P) Famílias beneficiadas pelo Projeto
+representadas por mulheres
+Soma do nº de
+famílias
+representadas por
+mulheres e
+beneficiadas pelo
+projeto
+Família
+0,00
+25.000,00
+(P) Famílias beneficiadas pelo Projeto
+representadas por jovens
+Soma do nº de
+famílias
+representadas por
+jovens e beneficiadas
+pelo projeto
+Família
+0,00
+10.000,00
+(P) Famílias beneficiadas pelo Projeto,
+pertencentes a Povos e Comunidades
+Tradicionais
+Soma do nº de
+famílias pertencentes
+de Comunidades
+Tradicionais (
+quilombolas,
+indígenas e
+pescadores artesanais
+)
+Família
+0,00
+1.000,00
+(P) Famílias que tiveram acesso a água de
+consumo doméstico
+Soma do nº de
+famílias que declaram
+que tiveram acesso a
+água de consumo
+Família
+0,00
+16.760,00
+(P) Famílias beneficiadas pelos Projetos de
+Investimento Resilientes
+Soma do nº de
+famílias que
+receberam
+investimento via
+Projeto de
+Investimento
+Resilientes
+Família
+0,00
+18.000,00
+(P) Famílias beneficiadas pelos investimentos
+em Unidades de Beneficiamento
+Soma do nº de
+famílias que
+beneficiadas pelos
+investimentos nas
+Unidades de
+Beneficiamento
+Famílias
+0,00
+3.000,00
+(R) Percentual de famílias que adotam
+tecnologias agropecuárias sustentáveis
+Relação das famílias
+que alteram as
+práticas agrícolas em
+prol da segurança
+alimentar, e da
+preservação do solo,
+da água e do ar.
+Percentual de família
+0,00
+90,00
+(R) Percentual de famílias que aumentam a
+produção agrícola
+Relação de famílias
+que conseguem
+aumentar a produção
+agrícola
+Percentual de família
+0,00
+50,00
+(I) Redução do nº de famílias em situação de
+pobreza e extrema pobreza
+Redução do nº de
+famílias que
+conseguiram
+aumentar sua renda
+média per capita, e
+saem da linha de
+pobreza e extrema
+pobreza
+Percentual de família
+0,00
+20,00
+(I) Percentual de famílias que melhoram sua
+Segurança Alimentar e Nutricional (SAN)
+Proporção das
+famílias atendidas que
+declaram ter
+melhorado sua SAN (
+utilizando a Versão
+Curta da Escala
+Brasileira de
+Insegurança Alimentar
+ - EBIA)
+Percentual de família
+0,00
+50,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 7
+2.7. Projeto/Componentes
+Componentes
+Valor(US$)
+C - C1. INFRAESTRUTURAS E SERVIÇOS PARA O DESENVOLVIMENTO RESILIENTE
+37.006.000,00
+   S - S1.1 - IMPLANTAÇÃO DE TECNOLOGIAS DE ACESSO À ÁGUA E SANEAMENTO
+22.726.000,00
+      P - P - Acesso à água para consumo humano
+13.160.000,00
+      P - P - Acesso à água para produção agrícola e criação animal
+8.000.000,00
+      P - P- Reutilização de descartes
+366.000,00
+      P - P- Acessibilidade rural
+1.200.000,00
+   S - S1.2 - INCENTIVOS PARA A SUSTENTABILIDADE ENERGÉTICA
+8.200.000,00
+      P - P - Unidades de produção de energia renovável
+7.200.000,00
+      P - P - Ecotecnologias domésticas de manejo energético
+1.000.000,00
+S - S1.3 - DESENVOLVIMENTO DE CAPACIDADES PARA ACESSO À ÁGUA, SANEAMENTO E
+SUSTENTABILIDADE ENERGÉTICA
+6.080.000,00
+      P - P - Assessoria técnica 
+6.000.000,00
+      P - P - Capacitações e intercâmbios
+80.000,00
+C - C2 - SISTEMAS PRODUTIVOS RESILIENTES PARA O ENFRENTAMENTO DA POBREZA RURAL
+53.403.900,00
+   S - S2.1 - IMPLANTAÇÃO DE SISTEMAS PRODUTIVOS BIODIVERSOS RESILIENTES 
+25.307.500,00
+      P - P- Plano de Investimento Resiliente (PIR)
+25.000.000,00
+      P - P- Regularização fundiária e ambiental
+300.000,00
+      P - P- Piloto de Sistemas Participativo de Garantia (SPG) 
+7.500,00
+   S - S2.2 - FORTALECIMENTO E DIVERSIFICAÇÃO DA COMERCIALIZAÇÃO
+6.500.000,00
+      P - P - Apoio a estruturação de cooperativas
+4.000.000,00
+      P - P - Fortalecimento de Feiras locais e /ou Centros de Comercialização
+1.500.000,00
+      P - P - Estruturação dos Serviços de Inspeção Sanitária
+1.000.000,00
+S - S2.3 - DESENVOLVIMENTO DE CAPACIDADES PARA SISTEMAS PRODUTIVOS RESILIENTES E
+COMERCIALIZAÇÃO
+21.596.400,00
+      P - P - Assessoria Técnica
+18.000.000,00
+      P - P - Agentes de Desenvolvimento Local 
+3.356.400,00
+      P - P - Capacitações e intercâmbios
+240.000,00
+C - C3. FORTALECIMENTO INSTITUCIONAL E DE CAPACIDADES
+3.950.000,00
+S - S3.1 - FORTALECIMENTO DAS CAPACIDADES DA AGÊNCIA EXECUTORA, DAS SUB-EXECUTORAS E
+DAS ENTIDADES PARCEIRAS 
+3.950.000,00
+      P - P- Capacitações para agência executora, sub-executoras e entidades de AT
+2.200.000,00
+      P - P - Realização de estudos
+750.000,00
+      P - P - Cursos profissionalizantes para Jovens
+1.000.000,00
+C - C4. GESTÃO DO PROJETO
+10.640.100,00
+   S - S4.1 - UNIDADE DE GESTÃO DO PROJETO
+9.020.100,00
+      P - P - Apoio à gestão do Projeto
+9.020.100,00
+   S - S4.2 - MONITORAMENTO, AVALIAÇÃO, GESTÃO DO CONHECIMENTO E COOPERAÇÃO SUL-SUL
+1.620.000,00
+      P - P - Sistema de monitoramento
+70.000,00
+      P - P - Estudos de avaliação de impacto
+700.000,00
+      P - P - Sistematização de experiências
+400.000,00
+      P - P - Ações de comunicação e Cooperação Sul-Sul
+450.000,00
+Total dos Componentes
+105.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - C1. INFRAESTRUTURAS E SERVIÇOS PARA O DESENVOLVIMENTO RESILIENTE
+Implantação de infraestruturas hídricas para consumo humano e para produção, reutilização de descartes, e aumento de
+capacidades para o melhor uso da água.
+   S - S1.1 - IMPLANTAÇÃO DE TECNOLOGIAS DE ACESSO À ÁGUA E SANEAMENTO
+Implementação de diferentes estruturas/práticas eficientes de acesso, captação, armazenamento e tratamento de água para
+aumentar a segurança hídrica das famílias, tanto naquilo que se refere ao consumo humano quanto para o âmbito da produção
+animal e da agricultura.
+      P - P - Acesso à água para consumo humano
+Construção de infraestruturas de acesso à água para consumo humano
+      P - P - Acesso à água para produção agrícola e criação animal
+Construção de infraestruturas de acesso à água para produção
+      P - P- Reutilização de descartes
+Construção de tecnologias de descarte e/ou resuo adequado de águas negras e cinzas
+      P - P- Acessibilidade rural
+Implantação de passagens molhadas
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 8
+   S - S1.2 - INCENTIVOS PARA A SUSTENTABILIDADE ENERGÉTICA
+Implementação de equipamentos para a produção de energia limpa
+      P - P - Unidades de produção de energia renovável
+Implementação de cataventos e placas fotovoltaicas para uso no bombeamento d?água. 
+      P - P - Ecotecnologias domésticas de manejo energético
+Instalação de fogões ecoeficientes e biodigestores
+S - S1.3 - DESENVOLVIMENTO DE CAPACIDADES PARA ACESSO À ÁGUA, SANEAMENTO E SUSTENTABILIDADE
+ENERGÉTICA
+Assessoria técnica e capacitação para o manejo integrado dos recursos hídricos e acesso a energia limpa
+      P - P - Assessoria técnica 
+Acompanhamento técnico na temática do manejo integrado dos recursos hídricos, esgotamento familiar e para as ações de
+sustentabilidade energética implementadas pelo Componente 1
+      P - P - Capacitações e intercâmbios
+Realização de capacitações e intercâmbios para troca de conhecimentos entre agricultores
+C - C2 - SISTEMAS PRODUTIVOS RESILIENTES PARA O ENFRENTAMENTO DA POBREZA RURAL
+Visa fortalecer as unidades familiares no estado da Paraíba, apoiando por meio de investimentos e capacitação, uma
+transformação dos sistemas existentes em crise, com a implantação de sistemas produtivos inovadores, mais intensivos e
+diversificados, na busca de maior resiliência
+   S - S2.1 - IMPLANTAÇÃO DE SISTEMAS PRODUTIVOS BIODIVERSOS RESILIENTES 
+Fortalecer os sistemas produtivos baseados no uso das práticas agroecológicas e de baixo impacto carbono, buscando maior
+resiliência e permitindo uma melhoria e diversificação da produção de alimentos saudáveis, destinados ao autoconsumo das
+famílias e também destinados ao mercado
+      P - P- Plano de Investimento Resiliente (PIR)
+Elaboração e implementação do principal instrumento de planejamento e implementação dos recursos do componente. Terá um
+enfoque comunitário e será preparado e executado junto a uma associação comunitária já existente.
+      P - P- Regularização fundiária e ambiental
+Realizar regularização fundiária e ambienal, buscando criar melhores condições para que as famílias possam realizar as suas
+atividades e investimentos produtivos de forma mais segura e numa perspectiva de uso sustentável dos recursos naturais. 
+      P - P- Piloto de Sistemas Participativo de Garantia (SPG) 
+Sistemas de certificação participativa para produção orgânica
+   S - S2.2 - FORTALECIMENTO E DIVERSIFICAÇÃO DA COMERCIALIZAÇÃO
+Visa fortalecer pequenas cooperativas de beneficiamento, para promover a comercialização dos produtos da agricultura familiar
+      P - P - Apoio a estruturação de cooperativas
+Investimento para fortalecer pequenas cooperativas
+      P - P - Fortalecimento de Feiras locais e /ou Centros de Comercialização
+Investimento para garantir que o agricultor tenha acesso à feiras ou centros de comercialização
+      P - P - Estruturação dos Serviços de Inspeção Sanitária
+Apoiar a  articulação dos Consórcios Municipais de Inspeção Agropecuária
+   S - S2.3 - DESENVOLVIMENTO DE CAPACIDADES PARA SISTEMAS PRODUTIVOS RESILIENTES E COMERCIALIZAÇÃO
+Assessoria técnica e capacitação para o desenvolvimento da agricultura sustentável
+      P - P - Assessoria Técnica
+Assessoria Técnica (AT) qualificada, que domine os temas relacionados com a construção de sistema produtivos resilientes
+      P - P - Agentes de Desenvolvimento Local 
+Agentes jovens para acompanhar a implementação do projeto
+      P - P - Capacitações e intercâmbios
+Realização de capacitações e intercâmbios para troca de conhecimentos entre agricultores
+C - C3. FORTALECIMENTO INSTITUCIONAL E DE CAPACIDADES
+Visa desenvolver capacidades na esfera estadual, fortalecendo a capacitação técnica, institucional e organizacional dos atores
+envolvidos na implementação do Projeto
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 9
+S - S3.1 - FORTALECIMENTO DAS CAPACIDADES DA AGÊNCIA EXECUTORA, DAS SUB-EXECUTORAS E DAS
+ENTIDADES PARCEIRAS 
+Visa fortalecer a capacidade institucional das agências de governo que serão executora e sub-executoras das suas atividades.
+      P - P- Capacitações para agência executora, sub-executoras e entidades de AT
+Elaborar e realizar os cursos e eventos de capacitação
+      P - P - Realização de estudos
+Contratar serviços especializados no formato de estudos.
+      P - P - Cursos profissionalizantes para Jovens
+Realização de cursos profissionalizantes para jovens das áreas rurais
+C - C4. GESTÃO DO PROJETO
+Criação de uma Unidade Gestora, com equipe exclusivamente dedicada às ações do Projeto, sendo responsável pela coordenação
+, planejamento, monitoramento, avaliação, execução e supervisão das atividades.
+   S - S4.1 - UNIDADE DE GESTÃO DO PROJETO
+Financiamento da equipe técnica dedicada ao projeto, bem como fornecimento de suporte, como veículos, computadores, material
+de escritório etc
+      P - P - Apoio à gestão do Projeto
+Contratação da equipe técnica do projeto
+   S - S4.2 - MONITORAMENTO, AVALIAÇÃO, GESTÃO DO CONHECIMENTO E COOPERAÇÃO SUL-SUL
+Monitorar e avaliar as ações do Projeto, além de registrar, documentar e publicar as experiências, processos, resultados e
+melhores práticas realizadas, por meio do trabalho conjunto com os demais profissionais da equipe e com estreita relação com o M
+&A, que irá fornecer insumos quantitativos e qualitativos para a Gestão do Conhecimento.
+      P - P - Sistema de monitoramento
+Sistema para monitorar as atividades do projeto
+      P - P - Estudos de avaliação de impacto
+Realização de linha de base, avaliação de meio termo e estudo de impacto.
+      P - P - Sistematização de experiências
+Publicação de produtos de gestão do conhecimento, das ações e inovações do projeto
+      P - P - Ações de comunicação e Cooperação Sul-Sul
+Publicação de produtos de gestão do conhecimento, comunicação das ações e inovações do projeto, além de realização
+intercâmbios nos países do cone sul.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 10
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Obras
+-
+-
+29.560.000,00
+28,15
+P- P - Acesso à água para consumo humano
+Sistemas
+1.790,00
+13.160.000,00
+12,53
+P- P - Acesso à água para produção agrícola e
+criação animal
+Sistemas
+2.010,00
+8.000.000,00
+7,62
+P- P- Acessibilidade rural
+Passagem
+20,00
+1.200.000,00
+1,14
+P- P - Unidades de produção de energia
+renovável
+Unidades
+90,00
+7.200.000,00
+6,86
+Bens
+-
+-
+366.000,00
+0,35
+P- P- Reutilização de descartes
+Sistemas
+260,00
+366.000,00
+0,35
+Consultoria
+-
+-
+2.370.000,00
+2,26
+P- P - Realização de estudos
+Unidade
+11,00
+750.000,00
+0,71
+P- P - Sistema de monitoramento
+Sistema
+1,00
+70.000,00
+0,07
+P- P - Estudos de avaliação de impacto
+Estudos
+3,00
+700.000,00
+0,67
+P- P - Sistematização de experiências
+Sistematizações
+50,00
+400.000,00
+0,38
+P- P - Ações de comunicação e Cooperação Sul-
+Sul
+Eventos
+700,00
+450.000,00
+0,43
+Serviços que Não de Consultoria
+-
+-
+24.300.000,00
+23,14
+P- P - Assessoria técnica 
+Família
+16.760,00
+6.000.000,00
+5,71
+P- P- Regularização fundiária e ambiental
+Família
+1.500,00
+300.000,00
+0,29
+P- P - Assessoria Técnica
+Família
+18.000,00
+18.000.000,00
+17,14
+Capacitação e Treinamento
+-
+-
+3.520.000,00
+3,35
+P- P - Capacitações e intercâmbios
+Eventos
+200,00
+80.000,00
+0,08
+P- P - Capacitações e intercâmbios
+Eventos
+600,00
+240.000,00
+0,23
+P- P- Capacitações para agência executora, sub-
+executoras e entidades de AT
+Capacitações
+50,00
+2.200.000,00
+2,10
+P- P - Cursos profissionalizantes para Jovens
+Cursos
+50,00
+1.000.000,00
+0,95
+Outros
+-
+-
+44.884.000,00
+42,75
+P- P - Ecotecnologias domésticas de manejo
+energético
+Kits
+1.000,00
+1.000.000,00
+0,95
+P- P- Plano de Investimento Resiliente (PIR)
+Projetos
+500,00
+25.000.000,00
+23,81
+P- P- Piloto de Sistemas Participativo de Garantia
+(SPG) 
+Unidades
+certificadas
+15,00
+7.500,00
+0,01
+P- P - Apoio a estruturação de cooperativas
+Cooperativas
+20,00
+4.000.000,00
+3,81
+P- P - Fortalecimento de Feiras locais e /ou
+Centros de Comercialização
+Locais
+30,00
+1.500.000,00
+1,43
+P- P - Estruturação dos Serviços de Inspeção
+Sanitária
+Unidade
+15,00
+1.000.000,00
+0,95
+P- P - Agentes de Desenvolvimento Local 
+Agentes
+1.200,00
+3.356.400,00
+3,20
+P- P - Apoio à gestão do Projeto
+Gestão
+6,00
+9.020.100,00
+8,59
+Total Geral
+-
+-
+105.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+O Projeto de Desenvolvimento Sustentável do Cariri e Seridó e Curimataú - PROCASE, com execução financeira finalizada em 2020,
+realizou ações significativas e de impacto deixando legado importante de lições aprendidas. É a partir deste acervo e base que postula-se
+a necessidade de ampliar significativamente, para o conjunto da região semiárida e para outro bioma da Mata Atlântica, o trabalho por ele
+iniciado principalmente na mesorregião da Borborema. Conforme constatado pela Missão de Supervisão do FIDA em 2020, apontam-se os
+ seguintes logros da fase I do PROCASE, dentre outros: 
+-Reforço significativo da segurança hídrica de aproximadamente 400 comunidades, com a perfuração de 539 poços e a instalação de 222
+barragens subterrâneas, 60 dessalinizadores;
+-Implementação de 95 Projetos produtivos, de diversos tipos (incluindo fabricação de doces, viveiros comunitários, artesanatos, reforço da
+criação animal, etc.);
+-Nestas comunidades houve um reforço da produção de forragens ? principalmente com a instalação de campos de palma, utilizados
+como parcelas de produção de semente (mudas) para propiciar a recuperação dos campos de palma familiares de palma, perdidos por
+causa do ataque da praga da cochonilha-do-carmim e da seca;
+-Implantação de 31 Sistemas Agroflorestais (SAFs), a serem considerados como experiências piloto, de forma que o uso da água seja
+otimizado, e os princípios agroecológicos no uso e conservação do solo sejam valorizados, além permitir uma fonte de renda para as
+famílias;
+-Também foram realizadas experiências com painéis fotovoltaicos, para gerar energia a ser usadas em unidades de beneficiamento de
+produtos agropecuários e de artesanato;
+-Foram construídas 3 barragens, possibilitando a constituição de reservas de água de maior porte, que permitiram melhorar o
+abastecimento da população local e o desenvolvimento da irrigação, beneficiando 10.022 famílias;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 11
+-Importante destacar que a metodologia e o conjunto de instrumentos relativos à implementação desenvolvidos no âmbito do PROCASE I
+e num contexto semiárido, poderão ser utilizadas mediante aprimoramento e adequação à nova área de atuação do PROCASE II, como
+por exemplo a intervenção na região da zona da Mata e o trabalho com povos indígenas;
+-O trabalho do PROCASE permitiu a formação de uma rede institucional envolvendo diversas Secretarias de Estado e um conjunto
+importante de entidades ?parceiras?. Dentre estas últimas cabe mencionar a Empresa Paraibana de Pesquisa, Extensão Rural e
+Regularização Fundiária - EMPAER; as outras entidades contratadas para prover o serviço de Assessoria Técnica às famílias atendidas
+pelo Projeto ? o SENAR, o IDS, o PATAC, a COOPTERA; o Programa Água Doce. No que refere às Secretarias de Estado, cabe destacar
+Secretaria de Estado da Infraestrutura, Recursos Hídricos e Meio Ambiente - SEIRHMA; Secretaria Executiva de Segurança Alimentar e
+Economia Solidária - SESAES; Secretaria da Mulher e Diversidade Humana;  também foi possível estabelecer parcerias com diversas
+prefeituras.
+-O PROCASE II foi elaborado numa perspectiva de melhorar ou agregar alguns eixos de intervenção quando comparado com a fase I. Se
+trata de buscar uma melhor inserção na estrutura do governo junto com o fortalecimento das capacidades numa perspectiva de maior
+sustentabilidade e ampliação. Além desses aspectos, o tema da segurança hídrica foi ampliado e diversificado. A inclusão socio produtiva,
+de povos tradicionais e em particular indígenas é outro destaque importante, assim como o fortalecimento das capacidades dos jovens e
+dos jovens com deficiência, serão outras inovações que terão objetivo de tornar o PROCASE II mais relevante para o estado.
+Além disso, a avaliação de impacto do PROCASE I demonstra importantes resultados de impacto do projeto, entre outros: 
+i.51% das famílias beneficiadas pelo projeto tiveram uma variação positiva no índice de ativos produtivos, sendo que 24% tiveram uma
+variação percentual positiva do índice de ativos produtivos igual ou superior a 150%, mostrando uma melhoria significativa;
+ii.Nos temas de gênero, as atividades relacionadas ao beneficiamento por parte das mulheres aumentaram 43% nas comunidades
+beneficiárias e reduziram em 6% nas comunidades controle;
+iii.Em relação à frequência na diversidade na alimentação, a proporção de famílias nas comunidades beneficiárias que declarou sempre
+ter diversidade na alimentação é 44,8% maior do que a proporção no Grupo Controle;
+iv.65,1% das famílias declararam aumento na produção vegetal, 56,8% aumento na produção de derivados animal, 48,6% aumento na
+produção animal, 22,8% aumento na produção de derivados vegetal e 9,1% em atividades não agrícolas (artesanato). Na análise
+agregada sobre o aumento da produção, 88% das famílias declararam que a produção aumentou;
+v.20% dos beneficiários informaram que tiveram acesso a mercados por meio das ações exclusivas do PROCASE, uma porcentagem
+satisfatória para o projeto, tendo em conta que diversas cadeias produtivas apoiadas foram fortalecidas e reestruturadas mediante o
+investimento, para em seguida passarem a acessar mercados.
+O relatório de conclusão do Projeto informa que os quase 500 cata-ventos instalados, baixaram o custo de energia na irrigação a zero,
+além da durabilidade com relação a outros meios. A energia solar implantada nas cooperativas gerou uma economia de aproximadamente
+ R$ 10.000/mês, diminuindo os custos de produção destas unidades e aumentando o seu lucro.
+
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Estadual/Sem detalhes
+Estado da Paraíba ()
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+(i) Condições Financeiras das Operações:
+O Projeto será objeto de cofinanciamento do BID e do FIDA, com as seguintes condições específicas:
+BID
+?Prazo de Desembolso: 6 anos (72 meses)
+?Prazo de Carência: Mínimo 7 anos (84 meses)
+?Prazo de Amortização: 198 meses
+?Prazo Total: 282 meses
+?Taxa de Juros (1º trimestre de 2023) de: SOFR (*) + 0.41 % (margem de financiamento) + 0.85% (margem de empréstimo BID)
+?Comissão de crédito sobre o saldo não desembolsado: 0,50% a.a. 
+A taxa SOFR substituiu a LIBOR, que era utilizada até 2021. O valor da taxa SOFR é calculado diariamente.  Como exemplo, para o dia
+11/04/2023, esse valor foi de 2.12 (ver cálculo abaixo), pelo que a Taxa de Juros anual do empréstimo seria:  2.12 + 0.41 + 0.85 = 3.38%
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 12
+Para uma fatura que termina em 11 de abril de 2023:
+(Taxa SOFR = 2.12) * +  0.41  +  0.85 = 3.38%
+*Taxa SOFR e calculada usando a seguinte formula:
+(Índice SOFR final / Índice SOFR inicial)) -1
+Valores do Índice SOFR podem ser encontrados em: https://www.newyorkfed.org/markets/reference-rates/sofr-averages-and-index SOFR
+Averages and Index Data - FEDERAL RESERVE BANK of NEW YORK
+
+FIDA
+&#9679;       Prazo de Desembolso: 6 anos (72 meses)
+&#9679;       Prazo de Carência: 3 anos (36 meses)
+&#9679;       Prazo de Amortização: 180 meses(15 anos máx)
+&#9679;       Prazo Total: 216 meses (18 anos máx)
+&#9679;       Taxa de Juros (1º trimestre de 2023) de: SOFR = 4,31% (a SOFR considerada é do primeiro dia do trimestre.)
+Margem FIDA = 0.60% (margem de financiamento FIDA para o Brasil e com o período de maturidade médio de 10 a 12 anos) Margem
+BIRD = 0.56% (margem de empréstimo referencial do BIRD para as mesmas condições de categoria país e média de maturidade):   4,31 +
+ 0.60 + 0,56 = 5,47
+&#9679;       Comissão de crédito sobre o saldo não desembolsado: não há
+(II) Necessidade de financiamento externo e opção pelo agente financeiro
+Devido a conjuntura do Estado brasileiro e consequentemente do Estado da Paraíba, a capacidade de investimento está aquém das
+necessidades e deficiências existentes. Soma-se a isso o fato de que os agentes financeiros externos têm linhas de financiamento que
+permitem a captação de recursos necessários aos investimentos que possibilitarão acesso a água potável e para ganhos com de renda de
+ forma sustentável, fortalecendo toda agricultura familiar.
+Nesse contexto, o financiamento externo se torna uma opção factível para as ações de investimento necessárias para o Estado. No
+âmbito da Paraíba, os agentes financeiros BID e FIDA já atuam como organismos de fomento.
+Comparativamente com outras opções de financiamento, podemos afirmar que em termos de juros, o BID e o FIDA são opções bastante
+atrativas, que podem ser comparadas ao BNDES, que atualmente pratica taxas mais elevadas.
+Verifica-se também que a opção pelos financiadores Banco Interamericano de Desenvolvimento ? BID e Fundo Internacional de
+Desenvolvimento da Agricultura - FIDA para apoiar este projeto pode ser justificada pelas condições vantajosas que apresentam, uma vez
+que outros organismos internacionais cobram, além dos juros do empréstimo, taxas de compromisso, Front End Fee, gastos com
+avaliação do Projeto, entre outros.
+No arranjo desse projeto é mais do necessário não somente o aporte financeiro necessário, mas também o nível de experiência do agente
+ em âmbito nacional e internacional, sobre as principais temáticas que o PROCASE II vai abordar.
+A escolha do FIDA tem relação direta com sua expertise já aplicada no Estado na participação em outros projetos de forma consolidada no
+ desenvolvimento da área rural nos outros estados do Nordeste.
+O BID além de ser o agente financeiro responsável pelo maior aporte de recursos é parceiro do Estado em outras operações de crédito,
+também tem atuação em projetos de melhoramento do capital humano e combate à pobreza.
+Vale mencionar também que as duas agencias, adquiriram recentemente uma experiencia positiva em colaborar para a preparação e
+elaboração do Projeto Piauí Sustentável e Inclusive (PSI). Durante a elaboração deste projeto em 2022, foi possível desenvolver uma
+metodologia de trabalho assim como as principais ferramentas a serem utilizadas durante a implementação. O FIDA e o BID já assinaram
+um Acordo de Coordenação para facilitar a implementação do Projeto, de modo que se utilize somente um regramento e assim evitando
+duplicidade e potencializando as fortalezas de cada instituição. Baseado na complementaridade e construção de sinergias, essa
+experiencia será bastante útil para o PROCASE II.
+
+2.11. PROJETO/BENEFICIÁRIO
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 13
+O Projeto terá abrangência em 210 municípios (anexos 1). Irá atender aproximadamente 50.000 famílias (200.000 pessoas), como
+beneficiárias diretas com ações do Projeto, sendo 25.000 famílias consideradas como público prioritário, representadas por mulheres, 10.
+000 representadas por jovens e 1.000 famílias de povos e comunidades tradicionais. Serão priorizadas as famílias em situação de pobreza
+e extrema pobreza, preferencialmente cadastradas no Cadastro Único de Família (CadÚnico), instaladas em comunidades rurais e
+assentamentos de reforma agrária.
+Mesmo havendo sobreposição na área de atuação entre o Procase I e a proposta do Procase II, não haverá atendimento direto às famílias
+ já beneficiadas pela fase 1.
+Mulheres rurais. O Projeto irá desenvolver uma estratégia específica, que incluirá ações com mulheres, buscando: i) promover uma
+distribuição mais equilibrada do trabalho realizado no seio das famílias; ii) assegurar que as mulheres tenham um acesso igualitário às
+oportunidades proporcionadas pelo Projeto (nos âmbitos da formação, dos investimentos, do acesso a mercados, do acesso a serviços); e
+ iii) fortalecer a sua capacidade de liderança nos empreendimentos econômicos e nas organizações comunitárias ou territoriais. 
+Assim, o Projeto deverá implementar ações afirmativas em prol das mulheres. Isto significa instituir linhas de atuação e mecanismos
+operacionais que possam atender as demandas específicas das mulheres. Para tal, o Projeto contemplará ações que potencializam a
+participação das mulheres em atividades produtivas como a criação de aves, a apicultura e caprino-ovinocultura, nas quais elas estão já
+engajadas, mas tendem a não ser reconhecidas. Também deverão ser apoiadas outras atividades produtivas, tais como fruticultura,
+quintais produtivos, artesanato e beneficiamento de produtos da roça, que contam com uma participação expressiva das mulheres rurais,
+mas que tendem a ser inviabilizadas perante outras demandas que prevalecem no campo produtivo. Estes mecanismos operacionais do
+Projeto deverão assegurar que as mulheres sejam contempladas, mesmo quando não sejam elas as interlocutoras diretas do Projeto.
+Jovens. Observa-se um processo de mobilidade crescente por parte da juventude rural, que faz com que eles se desloquem com
+frequência para os centros urbanos (locais, de proximidade ou as cidades maiores, geralmente mais distantes). Este processo enfraquece
+a sociedade rural. Por isso, torna-se necessário buscar estratégias que incentivem a permanência do jovem no campo, atendendo melhor
+seus interesses dentro do amplo leque de atividades agrícolas e não agrícolas. Para tal, o Projeto deverá buscar uma maior integração e
+parceria com diversas instituições de ensino, localizadas na área de intervenção do projeto, estimulando a inserção dos formandos nas
+atividades do Projeto (por exemplo, na instalação de investimentos hídricos, na implementação de inovações que tornem as unidades
+produtivas mais resilientes, etc.), para que venham a exercer um papel de agentes de desenvolvimento local. Para oportunizar melhor as
+possibilidades de qualificação da mão de obra do público jovem, o projeto também buscará um maior alinhamento com as ações
+educativas do governo estadual, visando a integração de jovens rurais nas iniciativas de capacitação técnica especializada nas principais
+cadeias produtivas voltadas para a AF. 
+Quilombolas. Cruzando diversas fontes de informação, foi possível identificar a existência de 44 comunidades quilombolas certificadas.
+Destas, somente 4 comunidades estão localizadas na região da Mata Paraibana. Temos então que há pelo menos 40 comunidades
+quilombolas na região semiárida da Paraíba, distribuídas em 25 municípios do Sertão, da Borborema e do Agreste. No final de 2011,
+estimava-se que existiam 2.400 famílias vivendo em territórios quilombolas em todo o Estado (SECRETARIA-DE-ESTADO-DA-MULHER-
+E-DA-DIVERSIDADE-HUMANA-DA-PARAÍBA, 2011). De acordo com a Coordenação Estadual de Quilombolas da Paraíba, com as novas
+certificações existem aproximadamente 4.500 famílias residentes em comunidades quilombolas. Considerando que as famílias destas
+comunidades encontram-se, frequentemente, num estado de muita pobreza e levando em conta que a maioria delas têm tido poucas
+oportunidades de acesso a políticas públicas, caberá ao Projeto fazer um esforço especial para atender a maior quantidade possível
+dessas comunidades.
+Povos indígenas. O estado da Paraíba possui uma população indígena de 16.043 pessoas que residem em seu território, representando 0,
+43% do total da população do Estado (IBGE, 2010). A população é formada por suas etnias, Potiguara e Tabajara, os Potiguara encontra-
+se distribuída em terras indígenas localizadas entre os rios Camaratuba e Mamanguape, e seu conjunto de aldeias constituem três Terras
+Indígenas (Potiguara, Terra Indígena Jacaré de São Domingos e Monte Mór). O referido território situa-se sobre as áreas dos Municípios
+de Baía da Traição, Rio Tinto e Marcação (CARDOSO; GUIMARÃES 2012). O povo Tabajara apresenta uma população superior a 750
+indígenas, suas terras ainda passam por processo jurídico de identificação e incidem em áreas dos Municípios de Alhandra, Conde e
+Pitimbu (TERRAS INDÍGENAS, 2015). Os povos indígenas tem importância na proteção do meio ambiente, sendo considerados guardiões
+da biodiversidade, a categoria vem sendo uma das mais afetadas nos efeitos das mudanças climáticas, caberá ao PROCASE II atender
+esse público e minimizar o impacto das mudanças de forma eficaz.  
+Assentamentos. Dados do INCRA (datados de dezembro de 2017) dizem que existem no estado da Paraíba 314 assentamentos da
+Reforma Agrária, abrigando algo mais de 14.600 famílias. Além deste contingente de assentados, estima-se que mais 4.900 famílias
+conseguiram um ?pedaço de chão? por meio do PNCF (Programa Nacional de Crédito Fundiário). Assim como acontece em muitas
+comunidades quilombolas, as famílias assentadas também vivem uma situação de muita penúria. Considerando que, também nestes
+casos, as escassas oportunidades no que tange às políticas públicas têm sido uma das causas desta situação, caberá ao Projeto trabalhar
+ com famílias assentadas, buscando melhorar a situação delas.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 14
+Moeda de Referência: Dólar
+Fontes Internas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Contrapartida Financeira
+CF
+US$
+25.000.000,00
+1,00
+25.000.000,00
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Banco Interamericano de Desenvolvimento
+ - BID
+BID
+US$
+70.000.000,00
+1,00
+70.000.000,00
+Fundo Internacional  para o
+Desenvolvimento da  Agricultura - FIDA
+FIDA
+US$
+10.000.000,00
+1,00
+10.000.000,00
+Total:
+105.000.000,00
+105.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+(i) Arranjo institucional
+O Mutuário será o Estado da Paraíba. 
+a) Órgão Executor do Projeto: 
+1.Agência Executora:
+Secretaria de Estado da Agricultura Familiar e do Desenvolvimento do Semiárido (SEAFDS)
+2.Agências sub-executoras:
+i) A Secretaria de Estado de Infraestrutura e Recursos Hídricos (SEIRH) 
+ii) A Secretaria de Estado de Desenvolvimento Humano (SEDH)
+iii) Secretaria de Estado do Meio Ambiente e Sustentabilidade (SEMAS)
+iv) Empresa de Pesquisa, Extensão Rural e Regularização Fundiária (EMPAER/SEDAP) 
+(ii) Matriz de Responsabilidade
+
+Órgão:
+Secretaria de Estado da Agricultura Familiar e do Desenvolvimento do Semiárido (SEAFDS)
+Status no Projeto:
+Executora
+Principais ações:
+Órgão coordenador do projeto com a responsabilidade de assegurar seus recursos, realizar articulações necessárias, acompanhar e
+supervisionar sua execução.
+Será responsável por: (i) assegurar a inclusão dos recursos previstos para a execução do Projeto no orçamento anual do estado; (ii)
+promover articulações institucionais necessárias à implementação do Projeto com organizações dos governos federal, estadual e
+municipal, do setor privado e dos agricultores familiares; (iii) implementar e supervisionar a execução do Projeto de acordo com os termos
+negociados e o estabelecido no Manual de Implementação do Projeto. A experiência adquirida pela SEAFDS e pela equipe executora na
+implementação do PROCASE, servirão de alicerce para as instâncias e processos que serão necessários para uma boa execução do
+Projeto.
+Órgão:
+Secretaria de Estado de Infraestrutura e Recursos Hídricos (SEIRH)
+Status no Projeto:
+sub-executora
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 15
+Principais ações:
+A SEIRH terá a responsabilidade direta de executar ações relacionadas com o acesso à água: perfuração de poços, construção e reforma
+de pequenas barragens, instalação de adutoras e ramais, implantação de sistemas comunitários de abastecimento d?água.
+ Órgão:
+Secretaria de Estado de Desenvolvimento Humano (SEDH)
+Status no Projeto:
+sub-executora
+Principais ações:
+A SEDH terá responsabilidade direta e indireta de apoiar ações voltadas à manutenção, fortalecimento e autonomia dos grupos de
+mulheres, jovens e populações tradicionais e realização de ações conjuntas destinadas ao apoio à comercialização dos produtos oriundos
+na agricultura familiar e economia solidária, por meio da Secretaria Executiva de Segurança Alimentar e Economia Solidária (SESAES). 
+Órgão:
+Secretaria de Estado do Meio Ambiente e Sustentabilidade (SEMAS)
+Status no Projeto:
+sub-executora
+Principais ações:
+Esta Secretaria terá a responsabilidade direta e indireta de executar ações relacionadas a área ambiental. Também será responsável pelo
+apoio na resolutividade normativa da legislação ambiental necessária para apoiar ações do PROCASE II através do Conselho Estadual de
+ Meio Ambiente.
+Órgão:
+Empresa de Pesquisa, Extensão Rural e Regularização Fundiária (EMPAER/SEDAP) 
+Status no Projeto:
+sub-executora
+Principais ações:
+A diretoria da EMPAER dedicada à assessoria técnica e extensão rural (a antiga EMATER) assumirá a tarefa de prover uma parte dos
+serviços de AT, tanto no Componente 1 como no Componente 2. Já a diretoria da EMPAER que trata da questão da terra (antigo
+INTERPA) será a entidade encarregada de realizar a regularização fundiária prevista no Projeto.  Já a diretoria da EMPAER que trata da
+questão da pesquisa científica (antigo EMEPA) será a entidade encarregada de realizar parte dos intercâmbios tecnológicos previstos no
+Projeto.
+UGP: Sediada em João Pessoa, e com escritórios regionais voltados para as atividades de coordenação, planejamento, articulação
+institucional, implementação e monitoramento das ações promovidas, trabalhando em estreita colaboração com as Coordenadorias e
+assessorias técnicas da SEAFDS. A UGP deverá responder pelas atividades de coordenação, planejamento, articulação institucional,
+implementação e monitoramento das ações promovidas. A equipe trabalhará em estreita colaboração com as Coordenadorias e
+assessorias técnicas da SEAFDS e das sub-executoras.
+Capacidade da SEAFDS: A SEAFDS, possui experiência em projetos com cooperação internacional, com o FIDA e Banco Mundial,
+principalmente.
+Responsabilidades e atribuições dos agentes financeiros: Os agentes financeiros envolvidos na Operação são o Banco Interamericano de
+Desenvolvimento - BID e o Fundo Internacional de Desenvolvimento Agrícola - FIDA. Eles serão responsáveis pelo apoio técnico,
+monitoramento e avaliação do Projeto. O intuito da união dos dois agentes financeiros é unir a capacidade econômica e infraestrutura do
+BID com a expertise do FIDA em ações no Nordeste e particularmente na Paraíba.
+(iii) Arranjo operacional:
+Parcerias. O Projeto buscará consolidar as parcerias estabelecidas na esfera governamental pelo Projeto Procase ? fase 1, com outras
+instituições das esferas públicas e privadas e integrar o conjunto de ações das diversas coordenadorias do sistema SEAFDS.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 16
+
+
+
+
+
+
+
+
+4.2. Execução/Executores
+Executor: Secretaria de Estado de Agricultura Familiar e Desenvolvimento do Semiarido - SEAFDS
+Representante Oficial: Antonio Ribeiro
+Endereço da Sede: Av. Rio Grande do Sul, 1345 - Estados, João Pessoa - PB 16º Andar, 58030-021
+E-mail Institucional:
+Telefone: (83) 3214-9247
+Fax:
+CNPJ: 21736498000125 
+UF:
+4.3. Execução/Prazo
+Prazo de Desembolso:
+6
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+FIDA
+CF
+BID
+FIDA
+C - C1. INFRAESTRUTURAS E SERVIÇOS PARA O
+DESENVOLVIMENTO RESILIENTE
+37.006.000,00
+881.095,23
+2.467.066,66
+352.438,09
+S - S1.1 - IMPLANTAÇÃO DE TECNOLOGIAS DE ACESSO
+À ÁGUA E SANEAMENTO
+22.726.000,00
+541.095,24
+1.515.066,66
+216.438,09
+      P - P - Acesso à água para consumo humano
+13.160.000,00
+313.333,33
+877.333,33
+125.333,33
+P - P - Acesso à água para produção agrícola e criação
+animal
+8.000.000,00
+190.476,19
+533.333,33
+76.190,48
+      P - P- Reutilização de descartes
+366.000,00
+8.714,29
+24.400,00
+3.485,71
+      P - P- Acessibilidade rural
+1.200.000,00
+28.571,43
+80.000,00
+11.428,57
+S - S1.2 - INCENTIVOS PARA A SUSTENTABILIDADE
+ENERGÉTICA
+8.200.000,00
+195.238,09
+546.666,67
+78.095,24
+      P - P - Unidades de produção de energia renovável
+7.200.000,00
+171.428,57
+480.000,00
+68.571,43
+      P - P - Ecotecnologias domésticas de manejo energético
+1.000.000,00
+23.809,52
+66.666,67
+9.523,81
+S - S1.3 - DESENVOLVIMENTO DE CAPACIDADES PARA
+ACESSO À ÁGUA, SANEAMENTO E SUSTENTABILIDADE
+ENERGÉTICA
+6.080.000,00
+144.761,90
+405.333,33
+57.904,76
+      P - P - Assessoria técnica 
+6.000.000,00
+142.857,14
+400.000,00
+57.142,86
+      P - P - Capacitações e intercâmbios
+80.000,00
+1.904,76
+5.333,33
+761,90
+C - C2 - SISTEMAS PRODUTIVOS RESILIENTES PARA O
+ENFRENTAMENTO DA POBREZA RURAL
+53.403.900,00
+605.998,83
+1.696.796,66
+242.399,52
+S - S2.1 - IMPLANTAÇÃO DE SISTEMAS PRODUTIVOS
+BIODIVERSOS RESILIENTES 
+25.307.500,00
+301.279,77
+843.583,33
+120.511,90
+      P - P- Plano de Investimento Resiliente (PIR)
+25.000.000,00
+297.619,05
+833.333,33
+119.047,62
+      P - P- Regularização fundiária e ambiental
+300.000,00
+3.571,43
+10.000,00
+1.428,57
+      P - P- Piloto de Sistemas Participativo de Garantia (SPG) 
+7.500,00
+89,29
+250,00
+35,71
+S - S2.2 - FORTALECIMENTO E DIVERSIFICAÇÃO DA
+COMERCIALIZAÇÃO
+6.500.000,00
+47.619,07
+133.333,33
+19.047,61
+      P - P - Apoio a estruturação de cooperativas
+4.000.000,00
+0,00
+0,00
+0,00
+P - P - Fortalecimento de Feiras locais e /ou Centros de
+Comercialização
+1.500.000,00
+35.714,29
+100.000,00
+14.285,71
+      P - P - Estruturação dos Serviços de Inspeção Sanitária
+1.000.000,00
+11.904,78
+33.333,33
+4.761,90
+S - S2.3 - DESENVOLVIMENTO DE CAPACIDADES PARA
+SISTEMAS PRODUTIVOS RESILIENTES E
+COMERCIALIZAÇÃO
+21.596.400,00
+257.099,99
+719.880,00
+102.840,01
+      P - P - Assessoria Técnica
+18.000.000,00
+214.285,71
+600.000,00
+85.714,29
+      P - P - Agentes de Desenvolvimento Local 
+3.356.400,00
+39.957,14
+111.880,00
+15.982,86
+      P - P - Capacitações e intercâmbios
+240.000,00
+2.857,14
+8.000,00
+1.142,86
+C - C3. FORTALECIMENTO INSTITUCIONAL E DE
+CAPACIDADES
+3.950.000,00
+164.285,72
+460.000,00
+65.714,28
+S - S3.1 - FORTALECIMENTO DAS CAPACIDADES DA
+AGÊNCIA EXECUTORA, DAS SUB-EXECUTORAS E DAS
+ENTIDADES PARCEIRAS 
+3.950.000,00
+164.285,72
+460.000,00
+65.714,28
+P - P- Capacitações para agência executora, sub-executoras
+ e entidades de AT
+2.200.000,00
+104.761,91
+293.333,33
+41.904,76
+      P - P - Realização de estudos
+750.000,00
+35.714,29
+100.000,00
+14.285,71
+      P - P - Cursos profissionalizantes para Jovens
+1.000.000,00
+23.809,52
+66.666,67
+9.523,81
+C - C4. GESTÃO DO PROJETO
+10.640.100,00
+294.883,32
+825.673,33
+117.953,33
+   S - S4.1 - UNIDADE DE GESTÃO DO PROJETO
+9.020.100,00
+214.764,29
+601.340,00
+85.905,71
+      P - P - Apoio à gestão do Projeto
+9.020.100,00
+214.764,29
+601.340,00
+85.905,71
+S - S4.2 - MONITORAMENTO, AVALIAÇÃO, GESTÃO DO
+CONHECIMENTO E COOPERAÇÃO SUL-SUL
+1.620.000,00
+80.119,03
+224.333,33
+32.047,62
+      P - P - Sistema de monitoramento
+70.000,00
+7.500,00
+21.000,00
+3.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 17
+      P - P - Estudos de avaliação de impacto
+700.000,00
+50.000,00
+140.000,00
+20.000,00
+      P - P - Sistematização de experiências
+400.000,00
+4.761,90
+13.333,33
+1.904,76
+      P - P - Ações de comunicação e Cooperação Sul-Sul
+450.000,00
+17.857,13
+50.000,00
+7.142,86
+Total
+0,00
+1.946.263,10
+5.449.536,65
+778.505,22
+0,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+FIDA
+CF
+BID
+FIDA
+C - C1. INFRAESTRUTURAS E SERVIÇOS PARA O
+DESENVOLVIMENTO RESILIENTE
+2.643.285,73
+7.401.200,00
+1.057.314,28
+S - S1.1 - IMPLANTAÇÃO DE TECNOLOGIAS DE ACESSO
+À ÁGUA E SANEAMENTO
+1.623.285,72
+4.545.200,00
+649.314,28
+      P - P - Acesso à água para consumo humano
+940.000,00
+2.632.000,00
+376.000,00
+P - P - Acesso à água para produção agrícola e criação
+animal
+571.428,57
+1.600.000,00
+228.571,43
+      P - P- Reutilização de descartes
+26.142,86
+73.200,00
+10.457,14
+      P - P- Acessibilidade rural
+85.714,29
+240.000,00
+34.285,71
+S - S1.2 - INCENTIVOS PARA A SUSTENTABILIDADE
+ENERGÉTICA
+585.714,28
+1.640.000,00
+234.285,72
+      P - P - Unidades de produção de energia renovável
+514.285,71
+1.440.000,00
+205.714,29
+      P - P - Ecotecnologias domésticas de manejo energético
+71.428,57
+200.000,00
+28.571,43
+S - S1.3 - DESENVOLVIMENTO DE CAPACIDADES PARA
+ACESSO À ÁGUA, SANEAMENTO E SUSTENTABILIDADE
+ENERGÉTICA
+434.285,73
+1.216.000,00
+173.714,28
+      P - P - Assessoria técnica 
+428.571,43
+1.200.000,00
+171.428,57
+      P - P - Capacitações e intercâmbios
+5.714,30
+16.000,00
+2.285,71
+C - C2 - SISTEMAS PRODUTIVOS RESILIENTES PARA O
+ENFRENTAMENTO DA POBREZA RURAL
+1.640.632,15
+4.593.770,01
+656.252,86
+S - S2.1 - IMPLANTAÇÃO DE SISTEMAS PRODUTIVOS
+BIODIVERSOS RESILIENTES 
+603.184,53
+1.688.916,67
+241.273,81
+      P - P- Plano de Investimento Resiliente (PIR)
+595.238,10
+1.666.666,67
+238.095,24
+      P - P- Regularização fundiária e ambiental
+7.142,86
+20.000,00
+2.857,14
+      P - P- Piloto de Sistemas Participativo de Garantia (SPG) 
+803,57
+2.250,00
+321,43
+S - S2.2 - FORTALECIMENTO E DIVERSIFICAÇÃO DA
+COMERCIALIZAÇÃO
+226.190,48
+633.333,34
+90.476,19
+      P - P - Apoio a estruturação de cooperativas
+95.238,10
+266.666,67
+38.095,24
+P - P - Fortalecimento de Feiras locais e /ou Centros de
+Comercialização
+71.428,57
+200.000,00
+28.571,43
+      P - P - Estruturação dos Serviços de Inspeção Sanitária
+59.523,81
+166.666,67
+23.809,52
+S - S2.3 - DESENVOLVIMENTO DE CAPACIDADES PARA
+SISTEMAS PRODUTIVOS RESILIENTES E
+COMERCIALIZAÇÃO
+811.257,14
+2.271.520,00
+324.502,86
+      P - P - Assessoria Técnica
+642.857,14
+1.800.000,00
+257.142,86
+      P - P - Agentes de Desenvolvimento Local 
+159.828,57
+447.520,00
+63.931,43
+      P - P - Capacitações e intercâmbios
+8.571,43
+24.000,00
+3.428,57
+C - C3. FORTALECIMENTO INSTITUCIONAL E DE
+CAPACIDADES
+246.428,57
+690.000,00
+98.571,43
+S - S3.1 - FORTALECIMENTO DAS CAPACIDADES DA
+AGÊNCIA EXECUTORA, DAS SUB-EXECUTORAS E DAS
+ENTIDADES PARCEIRAS 
+246.428,57
+690.000,00
+98.571,43
+P - P- Capacitações para agência executora, sub-executoras
+ e entidades de AT
+157.142,86
+440.000,00
+62.857,14
+      P - P - Realização de estudos
+17.857,14
+50.000,00
+7.142,86
+      P - P - Cursos profissionalizantes para Jovens
+71.428,57
+200.000,00
+28.571,43
+C - C4. GESTÃO DO PROJETO
+349.765,46
+979.343,33
+139.906,19
+   S - S4.1 - UNIDADE DE GESTÃO DO PROJETO
+322.146,43
+902.010,00
+128.858,57
+      P - P - Apoio à gestão do Projeto
+322.146,43
+902.010,00
+128.858,57
+S - S4.2 - MONITORAMENTO, AVALIAÇÃO, GESTÃO DO
+CONHECIMENTO E COOPERAÇÃO SUL-SUL
+27.619,03
+77.333,33
+11.047,62
+      P - P - Sistema de monitoramento
+5.000,00
+14.000,00
+2.000,00
+      P - P - Estudos de avaliação de impacto
+0,00
+0,00
+0,00
+      P - P - Sistematização de experiências
+4.761,90
+13.333,33
+1.904,76
+      P - P - Ações de comunicação e Cooperação Sul-Sul
+17.857,13
+50.000,00
+7.142,86
+Total
+0,00
+4.880.111,91
+13.664.313,34
+1.952.044,76
+0,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+FIDA
+CF
+BID
+FIDA
+C - C1. INFRAESTRUTURAS E SERVIÇOS PARA O
+DESENVOLVIMENTO RESILIENTE
+2.643.285,73
+7.401.200,00
+1.057.314,28
+S - S1.1 - IMPLANTAÇÃO DE TECNOLOGIAS DE ACESSO
+À ÁGUA E SANEAMENTO
+1.623.285,72
+4.545.200,00
+649.314,28
+      P - P - Acesso à água para consumo humano
+940.000,00
+2.632.000,00
+376.000,00
+P - P - Acesso à água para produção agrícola e criação
+animal
+571.428,57
+1.600.000,00
+228.571,43
+      P - P- Reutilização de descartes
+26.142,86
+73.200,00
+10.457,14
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 18
+      P - P- Acessibilidade rural
+85.714,29
+240.000,00
+34.285,71
+S - S1.2 - INCENTIVOS PARA A SUSTENTABILIDADE
+ENERGÉTICA
+585.714,28
+1.640.000,00
+234.285,72
+      P - P - Unidades de produção de energia renovável
+514.285,71
+1.440.000,00
+205.714,29
+      P - P - Ecotecnologias domésticas de manejo energético
+71.428,57
+200.000,00
+28.571,43
+S - S1.3 - DESENVOLVIMENTO DE CAPACIDADES PARA
+ACESSO À ÁGUA, SANEAMENTO E SUSTENTABILIDADE
+ENERGÉTICA
+434.285,73
+1.216.000,00
+173.714,28
+      P - P - Assessoria técnica 
+428.571,43
+1.200.000,00
+171.428,57
+      P - P - Capacitações e intercâmbios
+5.714,30
+16.000,00
+2.285,71
+C - C2 - SISTEMAS PRODUTIVOS RESILIENTES PARA O
+ENFRENTAMENTO DA POBREZA RURAL
+2.868.400,00
+8.031.519,97
+1.147.360,00
+S - S2.1 - IMPLANTAÇÃO DE SISTEMAS PRODUTIVOS
+BIODIVERSOS RESILIENTES 
+1.209.047,62
+3.385.333,30
+483.619,05
+      P - P- Plano de Investimento Resiliente (PIR)
+1.190.476,19
+3.333.333,30
+476.190,48
+      P - P- Regularização fundiária e ambiental
+17.857,14
+50.000,00
+7.142,86
+      P - P- Piloto de Sistemas Participativo de Garantia (SPG) 
+714,29
+2.000,00
+285,71
+S - S2.2 - FORTALECIMENTO E DIVERSIFICAÇÃO DA
+COMERCIALIZAÇÃO
+416.666,67
+1.166.666,67
+166.666,66
+      P - P - Apoio a estruturação de cooperativas
+285.714,29
+800.000,00
+114.285,71
+P - P - Fortalecimento de Feiras locais e /ou Centros de
+Comercialização
+71.428,57
+200.000,00
+28.571,43
+      P - P - Estruturação dos Serviços de Inspeção Sanitária
+59.523,81
+166.666,67
+23.809,52
+S - S2.3 - DESENVOLVIMENTO DE CAPACIDADES PARA
+SISTEMAS PRODUTIVOS RESILIENTES E
+COMERCIALIZAÇÃO
+1.242.685,71
+3.479.520,00
+497.074,29
+      P - P - Assessoria Técnica
+1.071.428,57
+3.000.000,00
+428.571,43
+      P - P - Agentes de Desenvolvimento Local 
+159.828,57
+447.520,00
+63.931,43
+      P - P - Capacitações e intercâmbios
+11.428,57
+32.000,00
+4.571,43
+C - C3. FORTALECIMENTO INSTITUCIONAL E DE
+CAPACIDADES
+114.285,72
+320.000,00
+45.714,28
+S - S3.1 - FORTALECIMENTO DAS CAPACIDADES DA
+AGÊNCIA EXECUTORA, DAS SUB-EXECUTORAS E DAS
+ENTIDADES PARCEIRAS 
+114.285,72
+320.000,00
+45.714,28
+P - P- Capacitações para agência executora, sub-executoras
+ e entidades de AT
+78.571,43
+220.000,00
+31.428,57
+      P - P - Realização de estudos
+35.714,29
+100.000,00
+14.285,71
+      P - P - Cursos profissionalizantes para Jovens
+0,00
+0,00
+0,00
+C - C4. GESTÃO DO PROJETO
+458.576,22
+1.284.013,34
+183.430,48
+   S - S4.1 - UNIDADE DE GESTÃO DO PROJETO
+429.528,57
+1.202.680,00
+171.811,43
+      P - P - Apoio à gestão do Projeto
+429.528,57
+1.202.680,00
+171.811,43
+S - S4.2 - MONITORAMENTO, AVALIAÇÃO, GESTÃO DO
+CONHECIMENTO E COOPERAÇÃO SUL-SUL
+29.047,65
+81.333,34
+11.619,05
+      P - P - Sistema de monitoramento
+1.666,69
+4.666,67
+666,67
+      P - P - Estudos de avaliação de impacto
+0,00
+0,00
+0,00
+      P - P - Sistematização de experiências
+9.523,83
+26.666,67
+3.809,52
+      P - P - Ações de comunicação e Cooperação Sul-Sul
+17.857,13
+50.000,00
+7.142,86
+Total
+0,00
+6.084.547,67
+17.036.733,31
+2.433.819,04
+0,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+FIDA
+CF
+BID
+FIDA
+C - C1. INFRAESTRUTURAS E SERVIÇOS PARA O
+DESENVOLVIMENTO RESILIENTE
+1.762.190,48
+4.934.133,34
+704.876,19
+S - S1.1 - IMPLANTAÇÃO DE TECNOLOGIAS DE ACESSO
+À ÁGUA E SANEAMENTO
+1.082.190,48
+3.030.133,34
+432.876,19
+      P - P - Acesso à água para consumo humano
+626.666,67
+1.754.666,67
+250.666,67
+P - P - Acesso à água para produção agrícola e criação
+animal
+380.952,38
+1.066.666,67
+152.380,95
+      P - P- Reutilização de descartes
+17.428,57
+48.800,00
+6.971,43
+      P - P- Acessibilidade rural
+57.142,86
+160.000,00
+22.857,14
+S - S1.2 - INCENTIVOS PARA A SUSTENTABILIDADE
+ENERGÉTICA
+390.476,19
+1.093.333,33
+156.190,48
+      P - P - Unidades de produção de energia renovável
+342.857,14
+960.000,00
+137.142,86
+      P - P - Ecotecnologias domésticas de manejo energético
+47.619,05
+133.333,33
+19.047,62
+S - S1.3 - DESENVOLVIMENTO DE CAPACIDADES PARA
+ACESSO À ÁGUA, SANEAMENTO E SUSTENTABILIDADE
+ENERGÉTICA
+289.523,81
+810.666,67
+115.809,52
+      P - P - Assessoria técnica 
+285.714,29
+800.000,00
+114.285,71
+      P - P - Capacitações e intercâmbios
+3.809,52
+10.666,67
+1.523,81
+C - C2 - SISTEMAS PRODUTIVOS RESILIENTES PARA O
+ENFRENTAMENTO DA POBREZA RURAL
+3.467.345,23
+9.708.566,67
+1.386.938,11
+S - S2.1 - IMPLANTAÇÃO DE SISTEMAS PRODUTIVOS
+BIODIVERSOS RESILIENTES 
+1.803.750,00
+5.050.500,00
+721.500,00
+      P - P- Plano de Investimento Resiliente (PIR)
+1.785.714,29
+5.000.000,00
+714.285,71
+      P - P- Regularização fundiária e ambiental
+17.857,14
+50.000,00
+7.142,86
+      P - P- Piloto de Sistemas Participativo de Garantia (SPG) 
+178,57
+500,00
+71,43
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 19
+S - S2.2 - FORTALECIMENTO E DIVERSIFICAÇÃO DA
+COMERCIALIZAÇÃO
+380.952,38
+1.066.666,67
+152.380,96
+      P - P - Apoio a estruturação de cooperativas
+238.095,24
+666.666,67
+95.238,10
+P - P - Fortalecimento de Feiras locais e /ou Centros de
+Comercialização
+71.428,57
+200.000,00
+28.571,43
+      P - P - Estruturação dos Serviços de Inspeção Sanitária
+71.428,57
+200.000,00
+28.571,43
+S - S2.3 - DESENVOLVIMENTO DE CAPACIDADES PARA
+SISTEMAS PRODUTIVOS RESILIENTES E
+COMERCIALIZAÇÃO
+1.282.642,85
+3.591.400,00
+513.057,15
+      P - P - Assessoria Técnica
+1.071.428,57
+3.000.000,00
+428.571,43
+      P - P - Agentes de Desenvolvimento Local 
+199.785,71
+559.400,00
+79.914,29
+      P - P - Capacitações e intercâmbios
+11.428,57
+32.000,00
+4.571,43
+C - C3. FORTALECIMENTO INSTITUCIONAL E DE
+CAPACIDADES
+185.714,29
+520.000,00
+74.285,71
+S - S3.1 - FORTALECIMENTO DAS CAPACIDADES DA
+AGÊNCIA EXECUTORA, DAS SUB-EXECUTORAS E DAS
+ENTIDADES PARCEIRAS 
+185.714,29
+520.000,00
+74.285,71
+P - P- Capacitações para agência executora, sub-executoras
+ e entidades de AT
+78.571,43
+220.000,00
+31.428,57
+      P - P - Realização de estudos
+35.714,29
+100.000,00
+14.285,71
+      P - P - Cursos profissionalizantes para Jovens
+71.428,57
+200.000,00
+28.571,43
+C - C4. GESTÃO DO PROJETO
+525.600,00
+1.471.680,00
+210.240,00
+   S - S4.1 - UNIDADE DE GESTÃO DO PROJETO
+429.528,57
+1.202.680,00
+171.811,43
+      P - P - Apoio à gestão do Projeto
+429.528,57
+1.202.680,00
+171.811,43
+S - S4.2 - MONITORAMENTO, AVALIAÇÃO, GESTÃO DO
+CONHECIMENTO E COOPERAÇÃO SUL-SUL
+96.071,43
+269.000,00
+38.428,57
+      P - P - Sistema de monitoramento
+833,33
+2.333,33
+333,33
+      P - P - Estudos de avaliação de impacto
+58.333,35
+163.333,33
+23.333,33
+      P - P - Sistematização de experiências
+19.047,62
+53.333,33
+7.619,05
+      P - P - Ações de comunicação e Cooperação Sul-Sul
+17.857,13
+50.000,01
+7.142,86
+Total
+0,00
+5.940.850,00
+16.634.380,01
+2.376.340,01
+0,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+FIDA
+CF
+BID
+FIDA
+C - C1. INFRAESTRUTURAS E SERVIÇOS PARA O
+DESENVOLVIMENTO RESILIENTE
+881.095,23
+2.467.066,66
+352.438,10
+S - S1.1 - IMPLANTAÇÃO DE TECNOLOGIAS DE ACESSO
+À ÁGUA E SANEAMENTO
+541.095,24
+1.515.066,66
+216.438,10
+      P - P - Acesso à água para consumo humano
+313.333,33
+877.333,33
+125.333,34
+P - P - Acesso à água para produção agrícola e criação
+animal
+190.476,19
+533.333,33
+76.190,48
+      P - P- Reutilização de descartes
+8.714,29
+24.400,00
+3.485,71
+      P - P- Acessibilidade rural
+28.571,43
+80.000,00
+11.428,57
+S - S1.2 - INCENTIVOS PARA A SUSTENTABILIDADE
+ENERGÉTICA
+195.238,09
+546.666,67
+78.095,24
+      P - P - Unidades de produção de energia renovável
+171.428,57
+480.000,00
+68.571,43
+      P - P - Ecotecnologias domésticas de manejo energético
+23.809,52
+66.666,67
+9.523,81
+S - S1.3 - DESENVOLVIMENTO DE CAPACIDADES PARA
+ACESSO À ÁGUA, SANEAMENTO E SUSTENTABILIDADE
+ENERGÉTICA
+144.761,90
+405.333,33
+57.904,76
+      P - P - Assessoria técnica 
+142.857,14
+400.000,00
+57.142,86
+      P - P - Capacitações e intercâmbios
+1.904,76
+5.333,33
+761,90
+C - C2 - SISTEMAS PRODUTIVOS RESILIENTES PARA O
+ENFRENTAMENTO DA POBREZA RURAL
+2.864.114,24
+8.019.520,01
+1.145.645,73
+S - S2.1 - IMPLANTAÇÃO DE SISTEMAS PRODUTIVOS
+BIODIVERSOS RESILIENTES 
+1.502.380,95
+4.206.666,67
+600.952,39
+      P - P- Plano de Investimento Resiliente (PIR)
+1.488.095,24
+4.166.666,67
+595.238,10
+      P - P- Regularização fundiária e ambiental
+14.285,71
+40.000,00
+5.714,29
+      P - P- Piloto de Sistemas Participativo de Garantia (SPG) 
+0,00
+0,00
+0,00
+S - S2.2 - FORTALECIMENTO E DIVERSIFICAÇÃO DA
+COMERCIALIZAÇÃO
+333.333,29
+933.333,34
+133.333,34
+      P - P - Apoio a estruturação de cooperativas
+238.095,20
+666.666,67
+95.238,10
+P - P - Fortalecimento de Feiras locais e /ou Centros de
+Comercialização
+71.428,57
+200.000,00
+28.571,43
+      P - P - Estruturação dos Serviços de Inspeção Sanitária
+23.809,52
+66.666,67
+9.523,81
+S - S2.3 - DESENVOLVIMENTO DE CAPACIDADES PARA
+SISTEMAS PRODUTIVOS RESILIENTES E
+COMERCIALIZAÇÃO
+1.028.400,00
+2.879.520,00
+411.360,00
+      P - P - Assessoria Técnica
+857.142,86
+2.400.000,00
+342.857,14
+      P - P - Agentes de Desenvolvimento Local 
+159.828,57
+447.520,00
+63.931,43
+      P - P - Capacitações e intercâmbios
+11.428,57
+32.000,00
+4.571,43
+C - C3. FORTALECIMENTO INSTITUCIONAL E DE
+CAPACIDADES
+88.095,24
+246.666,67
+35.238,09
+S - S3.1 - FORTALECIMENTO DAS CAPACIDADES DA
+AGÊNCIA EXECUTORA, DAS SUB-EXECUTORAS E DAS
+ENTIDADES PARCEIRAS 
+88.095,24
+246.666,67
+35.238,09
+P - P- Capacitações para agência executora, sub-executoras
+ e entidades de AT
+52.380,95
+146.666,67
+20.952,38
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 20
+      P - P - Realização de estudos
+35.714,29
+100.000,00
+14.285,71
+      P - P - Cursos profissionalizantes para Jovens
+0,00
+0,00
+0,00
+C - C4. GESTÃO DO PROJETO
+476.790,46
+1.335.013,34
+190.716,19
+   S - S4.1 - UNIDADE DE GESTÃO DO PROJETO
+429.528,57
+1.202.680,00
+171.811,43
+      P - P - Apoio à gestão do Projeto
+429.528,57
+1.202.680,00
+171.811,43
+S - S4.2 - MONITORAMENTO, AVALIAÇÃO, GESTÃO DO
+CONHECIMENTO E COOPERAÇÃO SUL-SUL
+47.261,89
+132.333,34
+18.904,76
+      P - P - Sistema de monitoramento
+833,33
+2.333,33
+333,33
+      P - P - Estudos de avaliação de impacto
+0,00
+0,00
+0,00
+      P - P - Sistematização de experiências
+28.571,43
+80.000,00
+11.428,57
+      P - P - Ações de comunicação e Cooperação Sul-Sul
+17.857,13
+50.000,01
+7.142,86
+Total
+0,00
+4.310.095,17
+12.068.266,68
+1.724.038,11
+0,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 6
+VALOR
+FONTES
+TOTAL
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+FIDA
+CF
+BID
+FIDA
+C - C1. INFRAESTRUTURAS E SERVIÇOS PARA O
+DESENVOLVIMENTO RESILIENTE
+0,00
+0,00
+0,00
+8.810.952,40
+24.670.666,66
+3.524.380,94
+S - S1.1 - IMPLANTAÇÃO DE TECNOLOGIAS DE ACESSO
+À ÁGUA E SANEAMENTO
+0,00
+0,00
+0,00
+5.410.952,40
+15.150.666,66
+2.164.380,94
+      P - P - Acesso à água para consumo humano
+0,00
+0,00
+0,00
+3.133.333,33
+8.773.333,33
+1.253.333,34
+P - P - Acesso à água para produção agrícola e criação
+animal
+0,00
+0,00
+0,00
+1.904.761,90
+5.333.333,33
+761.904,77
+      P - P- Reutilização de descartes
+0,00
+0,00
+0,00
+87.142,87
+244.000,00
+34.857,13
+      P - P- Acessibilidade rural
+0,00
+0,00
+0,00
+285.714,30
+800.000,00
+114.285,70
+S - S1.2 - INCENTIVOS PARA A SUSTENTABILIDADE
+ENERGÉTICA
+0,00
+0,00
+0,00
+1.952.380,93
+5.466.666,67
+780.952,40
+      P - P - Unidades de produção de energia renovável
+0,00
+0,00
+0,00
+1.714.285,70
+4.800.000,00
+685.714,30
+      P - P - Ecotecnologias domésticas de manejo energético
+0,00
+0,00
+0,00
+238.095,23
+666.666,67
+95.238,10
+S - S1.3 - DESENVOLVIMENTO DE CAPACIDADES PARA
+ACESSO À ÁGUA, SANEAMENTO E SUSTENTABILIDADE
+ENERGÉTICA
+0,00
+0,00
+0,00
+1.447.619,07
+4.053.333,33
+579.047,60
+      P - P - Assessoria técnica 
+0,00
+0,00
+0,00
+1.428.571,43
+4.000.000,00
+571.428,57
+      P - P - Capacitações e intercâmbios
+0,00
+0,00
+0,00
+19.047,64
+53.333,33
+7.619,03
+C - C2 - SISTEMAS PRODUTIVOS RESILIENTES PARA O
+ENFRENTAMENTO DA POBREZA RURAL
+1.268.723,83
+3.552.426,67
+507.489,51
+12.715.214,28
+35.602.599,99
+5.086.085,73
+S - S2.1 - IMPLANTAÇÃO DE SISTEMAS PRODUTIVOS
+BIODIVERSOS RESILIENTES 
+605.952,39
+1.696.666,67
+242.380,95
+6.025.595,26
+16.871.666,64
+2.410.238,10
+      P - P- Plano de Investimento Resiliente (PIR)
+595.238,10
+1.666.666,67
+238.095,24
+5.952.380,97
+16.666.666,64
+2.380.952,39
+      P - P- Regularização fundiária e ambiental
+10.714,29
+30.000,00
+4.285,71
+71.428,57
+200.000,00
+28.571,43
+      P - P- Piloto de Sistemas Participativo de Garantia (SPG) 
+0,00
+0,00
+0,00
+1.785,72
+5.000,00
+714,28
+S - S2.2 - FORTALECIMENTO E DIVERSIFICAÇÃO DA
+COMERCIALIZAÇÃO
+142.857,15
+400.000,00
+57.142,85
+1.547.619,04
+4.333.333,35
+619.047,61
+      P - P - Apoio a estruturação de cooperativas
+95.238,10
+266.666,67
+38.095,24
+952.380,93
+2.666.666,68
+380.952,39
+P - P - Fortalecimento de Feiras locais e /ou Centros de
+Comercialização
+35.714,29
+100.000,00
+14.285,71
+357.142,86
+1.000.000,00
+142.857,14
+      P - P - Estruturação dos Serviços de Inspeção Sanitária
+11.904,76
+33.333,33
+4.761,90
+238.095,25
+666.666,67
+95.238,08
+S - S2.3 - DESENVOLVIMENTO DE CAPACIDADES PARA
+SISTEMAS PRODUTIVOS RESILIENTES E
+COMERCIALIZAÇÃO
+519.914,29
+1.455.760,00
+207.965,71
+5.141.999,98
+14.397.600,00
+2.056.800,02
+      P - P - Assessoria Técnica
+428.571,43
+1.200.000,00
+171.428,57
+4.285.714,28
+12.000.000,00
+1.714.285,72
+      P - P - Agentes de Desenvolvimento Local 
+79.914,29
+223.760,00
+31.965,71
+799.142,85
+2.237.600,00
+319.657,15
+      P - P - Capacitações e intercâmbios
+11.428,57
+32.000,00
+4.571,43
+57.142,85
+160.000,00
+22.857,15
+C - C3. FORTALECIMENTO INSTITUCIONAL E DE
+CAPACIDADES
+141.666,66
+396.666,67
+56.666,67
+940.476,20
+2.633.333,34
+376.190,46
+S - S3.1 - FORTALECIMENTO DAS CAPACIDADES DA
+AGÊNCIA EXECUTORA, DAS SUB-EXECUTORAS E DAS
+ENTIDADES PARCEIRAS 
+141.666,66
+396.666,67
+56.666,67
+940.476,20
+2.633.333,34
+376.190,46
+P - P- Capacitações para agência executora, sub-executoras
+ e entidades de AT
+52.380,95
+146.666,67
+20.952,38
+523.809,53
+1.466.666,67
+209.523,80
+      P - P - Realização de estudos
+17.857,14
+50.000,00
+7.142,86
+178.571,44
+500.000,00
+71.428,56
+      P - P - Cursos profissionalizantes para Jovens
+71.428,57
+200.000,00
+28.571,43
+238.095,23
+666.666,67
+95.238,10
+C - C4. GESTÃO DO PROJETO
+427.741,66
+1.197.676,67
+171.096,68
+2.533.357,12
+7.093.400,01
+1.013.342,87
+   S - S4.1 - UNIDADE DE GESTÃO DO PROJETO
+322.146,43
+902.010,00
+128.858,57
+2.147.642,86
+6.013.400,00
+859.057,14
+      P - P - Apoio à gestão do Projeto
+322.146,43
+902.010,00
+128.858,57
+2.147.642,86
+6.013.400,00
+859.057,14
+S - S4.2 - MONITORAMENTO, AVALIAÇÃO, GESTÃO DO
+CONHECIMENTO E COOPERAÇÃO SUL-SUL
+105.595,23
+295.666,67
+42.238,11
+385.714,26
+1.080.000,01
+154.285,73
+      P - P - Sistema de monitoramento
+833,33
+2.333,33
+333,33
+16.666,68
+46.666,66
+6.666,66
+      P - P - Estudos de avaliação de impacto
+58.333,33
+163.333,33
+23.333,33
+166.666,68
+466.666,66
+66.666,66
+      P - P - Sistematização de experiências
+28.571,43
+80.000,00
+11.428,57
+95.238,11
+266.666,66
+38.095,23
+      P - P - Ações de comunicação e Cooperação Sul-Sul
+17.857,14
+50.000,01
+7.142,88
+107.142,79
+300.000,03
+42.857,18
+Total
+105.000.000,00
+1.838.132,15
+5.146.770,01
+735.252,86
+25.000.000,00
+70.000.000,00
+10.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 21
+O primeiro atos legal necessário para a implementação do Projeto é a aprovação e promulgação da Lei estadual autorizativa para a
+realização da operação de crédito. A elaboração do ?Projeto de Lei Autorizativa? é da responsabilidade do poder executivo. Este ?Projeto
+de Lei? é encaminhado à Assembleia Legislativa do Estado da Paraíba, para aprovação.
+ Outros atos legais importantes serão: 
+i)decreto de constituição da Unidade Gestora do Projeto e de nomeação dos cargos principais conforme arranjo administrativo; 
+ii)termos de colaboração (ou convênios) para operação das atividades juntos às associações/organizações nas comunidades; 
+iii)Acordos de Cooperação Técnica e Financeira ou instrumento equivalente, com as os órgãos coexecutores (principalmente SEIRH e
+EMPAER), para garantir as condições de operação;
+iv)Ato constitutivo e regimento do Conselho Gestor do Projeto (COGEP). 
+Como mencionado acima, o Projeto espera que poderá se beneficiar de infraestrutura e dos recursos humanos já familiarizados com a
+gestão de uma iniciativa deste tipo. Contudo, existe o risco de solução de continuidade, na medida em que o início da vigência do novo
+Projeto pode demorar. Por isso, cabe mencionar as medidas que serão adotadas para mitigação dos mesmos: 
+i)Preparação do do Manual de Operações (MOP), que fornece subsídios importantes para as modalidades de implementação do Projeto
+incluindo os trâmites e processos de implementação;
+ii)Apoio dos organismos financiadores ? BID e FIDA ? que já começaram a proporcionar um respaldo ao Governo da Paraíba, através da
+Representação no Brasil (CBR) e do Escritório no Brasil (ICO Brasil), respectivamente, e continuarão a fazê-lo nos próximos meses. Uma
+vez iniciada a implementação do Projeto, o BID e o FIDA organizarão missões de apoio à implementação, focadas em temas específicos,
+de acordo as necessidades que serão identificadas, além de efetuar missões rotineiras de supervisão;
+iii)Utilização dos sistemas uniformizados de Monitoramento e Avaliação do BID e do FIDA.
+
+5.2. RISCOS/CONTRATAÇÕES
+Editais de seleção/contratação conforme Diretrizes do BID e do FIDA. O governo do estado já possui profissionais com experiência em
+licitações conforme os métodos do BID e do FIDA. Em geral são selecionadas as Organizações que prestam Assistência Técnica para o
+Projeto, serviço que terá continuidade com o novo Projeto, por ser uma das premissas do BID e do FIDA de apoio ao seu público alvo.
+Haverá contratações realizadas pelas Organizações de Produtores que receberão recursos para implantação investimentos de diversos
+tipos. Estes recursos serão repassados mediante convênios assinados entre a UGP e as diversas associações representando as famílias
+beneficiárias. Nestes convênios, as aquisições, sempre de pouca monta, serão realizadas conforme método de licitação simples ?
+Solicitação de Cotação? (Shopping), obedecendo às orientações e os limites estabelecidos no Manual de Operações do Projeto.
+As demandas do Projeto no que se refere ao serviço de Assessoria Técnica serão atendidas diretamente pela EMPAER ou por processo
+de Chamamento Público previsto na Lei de ATER aceitável pelo BID e pelo FIDA. Para bens e insumos para a UGP o pregão eletrônico
+será adotado.
+O pessoal da UGP será composto de servidores públicos e serão computados como contrapartida do Governo. Isto acontecerá também
+como outros financiamentos de programas governamentais, aos quais o público beneficiário do Projeto tem acesso.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+Os possíveis riscos ambientais gerais que podem apresentar-se durante a implementação do projeto são de dois tipos: i) riscos
+relacionados principalmente a fenômenos meteorológicos; ii) riscos causados pelas atividades produtivas implementadas pela população
+rural da região de atuação do Projeto.
+O risco de variação do regime pluviométrico é algo muito frequente. Uma diminuição ou irregularidade importante das chuvas poderá
+afetar o ritmo de implementação de algumas atividades, além que representar um grande problema para toda a população. Este possível ?
+risco? é, de fato, um dos objetos de trabalho do Projeto. Assim, espera-se que a sua ação possa prevenir ou mitigar o risco meteorológico
+por meio de medidas focadas na aprimoração da gestão sustentável dos recursos hídricos, principalmente para consumo humano, e para
+as diversas atividades agropecuárias. Essas medidas são parte plena das atividades que serão realizadas pelos Componentes 1 e 2 do
+Projeto, que foram pensadas no sentido de reforçar a resiliência da população rural diante dos eventos climáticos extremos.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:09
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60993
+Página: 22
+Os riscos que podem apresentar-se por causa do desenvolvimento de atividades produtivas que são desenvolvidas pela população rural
+são diversos. Os mais importantes são: a degradação dos solos; a perda de cobertura florestal, contaminação do solo e da água devido ao
+uso de agroquímicos e a geração de resíduos sólidos/líquidos. Ditos riscos podem ser causados por mudanças no uso da terra,
+transformando áreas de floresta em áreas de uso agrícola e/ou pecuário. Também poderá ocorrer uma maior incidência de incêndios
+florestais devido ao uso do fogo para a preparação de terras para cultivo ou para a abertura de novas terras, além do risco causado pelo
+uso de agroquímicos. Os riscos aqui apontados estão entre os principais motivos que levaram o Projeto a identificar uma série de práticas
+inovadoras que deverão transformar os sistemas agropecuários da região. Estas novas formas agroecológicas de cutivar e criar (por
+exemplo, pelo uso de fertilizante orgânico, água para reutilização, recuperação de áreas degradadas, implantação de SAFs, entre outros)
+serão cruciais para cotrarrestar os riscos aqui mencionados. Essas práticas também são consideradas nos Componentes 1 e 2 do projeto.
+
+5.5. RISCOS/IMPACTO SOCIAL
+Populações Indígenas: A população indígena da Paraíba, representa 0,43% do total da população do Estado (IBGE, 2010). É composta
+por duas etnias, Potiguara e Tabajara. Os povos da etnia Potiguara, habitam 32 aldeias com 15 mil habitantes localizados nos municípios
+de Baía da Traição, Rio Tinto e Marcação. Falantes de tupi e português, praticantes e divulgadores da tradição, educação e memória dos
+anciões. O Toré se destaca como uma dança ritual, poética, lúdica, religiosa e cultural que organiza, alimenta e conecta as pessoas à
+divindade. 
+A segunda etnia, a Tabajara, está espalhada, anônima e quase extinta nas áreas rurais do litoral sul e em assentamentos INCRA e na
+periferia de João Pessoa, desde a desapropriação de suas terras nos anos 50 e 60. Os Tabajara vivem esse processo de construção
+social, cultural e política em que o território sempre se constituiu como dimensão política da identidade étnica, uma vez que a terra, base
+sólida e geográfica de um povo, tornou-se extrema e urgente.
+Os espaços familiares individuais e os coletivos fazem parte da dinâmica de reprodução social do povo indígena, intimamente ligados ao
+plantio e colheita prejudicados pelas ações dos usineiros da região. Os povos indígenas têm o reconhecimento como ser no mundo e
+como ser que interage e que vive de forma integral em contato e numa relação de dependência com o meio ambiente e seus recursos. É
+fundamental o reconhecimento da contribuição dos povos indígenas na preservação do meio ambiente, no PROCASE II, a inserção deste
+novo público, será para fortalecer ações para reprodução desses povos e dispor de mecanismos e tecnologias sociais que busquem
+melhorar a qualidade de vida das populações indígenas. 
+
+5.6. RISCOS/REASSENTAMENTOS
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 

@@ -1,0 +1,2220 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Programa de Resiliência Urbana e Inovação na Gestão de Riscos Climáticos de
+Cachoeirinha/RS - Desenvolvimento Cachoeirinha
+Nº Carta Consulta: 61248
+Processo: 03101.003039/2024-14
+Mutuário: Município de Cachoeirinha - RS
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  10 de Outubro de 2024
+Fontes Internas:
+Contrapartida Financeira: US$ 17.630.000,00
+Fontes Externas:
+Asian Infrastructure Investment Bank - AIIB: US$ 70.520.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+04
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 04
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 04
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 04
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 04
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 06
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 13
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 15
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 15
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 17
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 18
+3. FINANCIAMENTO .......................................................................................................................................................................................... 18
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 18
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 19
+4. EXECUÇÃO ...................................................................................................................................................................................................
+19
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 19
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 20
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 20
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 20
+5. RISCOS .......................................................................................................................................................................................................... 22
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 22
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 24
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 25
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 26
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 27
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 28
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+29
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+Cachoeirinha, localizada na Região Metropolitana de Porto Alegre, no estado do Rio Grande do Sul, é um município com uma população
+estimada em aproximadamente 135 mil habitantes. A cidade enfrenta desafios significativos relacionados à infraestrutura urbana e à
+adaptação aos impactos das mudanças climáticas, especialmente em eventos climáticos extremos, como as enchentes ocorridas em maio
+ de 2024.
+(i) Problemática
+As chuvas torrenciais de maio de 2024 evidenciaram a fragilidade da infraestrutura urbana de Cachoeirinha. O evento registrou uma
+precipitação acumulada de 180 mm, resultando em desastres como inundações e enxurradas, que afetaram diretamente 131.389 pessoas
+. Mais de 2.000 unidades habitacionais foram danificadas ou destruídas, e 1.853 pessoas ficaram desabrigadas, necessitando de abrigo
+público. Outras 3.016 pessoas foram desalojadas. O município conta com um sistema de proteção de diques e casas de bombas na parte
+sul do território, acontece que a zona sudoeste está exposta e sem proteção devido a não construção de dique na região. Foi através
+desta região que as águas do Rio Gravataí invadiram a cidade. No Bairro Parque da Matriz, onde também houve entrada de água, esta se
+deu através de uma passagem de fauna que deverá ser isolada. O Arroio Passinhos teve sua estrutura de contenção abalada pelo volume
+ de chuvas e força da água, já o Meu Rincão e Sítio Ipiranga, ao noroeste, sofreram com o extravasamento do Arroio Sapucaia.
+Bairros como Eunice, Carlos Wilkens, Veranópolis, Imbuí, Parque da Matriz, Meu Rincão e Sítio Ipiranga foram fortemente impactados. O
+fornecimento de água e energia elétrica foi interrompido em diversas regiões, e a mobilidade urbana ficou prejudicada com vias alagadas.
+Além disso, 3 unidades de saúde e 2 escolas foram danificadas, comprometendo a prestação de serviços essenciais durante o evento. No
+ANEXO 12, são demonstradas as áreas mais atingidas pelas inundações no município.
+Relatórios do CIC (Centro das Indústrias de Cachoeirinha) indicam que as indústrias locais sofreram grandes prejuízos com a falta
+prolongada de energia elétrica e água, que impediu o funcionamento por vários dias. A Associação Comercial de Cachoeirinha (CDL)
+também relatou prejuízos no setor comercial devido à interrupção de serviços de energia, água e comunicação.Os principais desafios
+identificados são:
+D.1 - Fragilidade da Infraestrutura Urbana e problemas de mobilidade urbana: A interrupção da conexão com cidades vizinhas
+prejudicaram todos os setores econômicos. O principal acesso à cidade ficou interrompido por volta de 20 dias. A insuficiência da rede de
+drenagem das vias intensificou as inundações, tornando-as intransitáveis e comprometendo a mobilidade. O acúmulo de água
+enfraqueceu a base do asfalto, levando à sua deterioração. Cerca de 26 ruas necessitarão de restauração para a recuperação das áreas
+atingidas.
+D.2 - Inadequação do Sistema de Proteção e Drenagem: O sistema atual não conseguiu escoar adequadamente o volume de água,
+resultando em alagamentos em áreas residenciais e comerciais. As Casas de bombeamento existentes não foram suficientes para o
+volume excepcional, mas cada vez mais frequente, de chuvas no evento de Maio/2024. Algumas comportas necessitam de recuperação e
+vedação, pois não impediram a entrada da água.  O arroio Passinhos teve sua estrutura de canalização deteriorada pela agressividade
+das águas, deixando moradores apreensivos e ocasionando acidentes, ANEXO 06-Figura 02. 
+D.3 - Vulnerabilidade das Edificações Públicas e Capacidade de Resposta: A descentralização dos serviços públicos dificultaram as ações
+de resposta e o funcionamento em momentos de crises. As unidades de saúde e escolas danificadas mostraram a necessidade de
+edificações públicas mais adaptadas a eventos climáticos.
+D.4 - Impacto nas Indústrias e Comércio: As chuvas de maio de 2024 expuseram a vulnerabilidade das atividades econômicas de
+Cachoeirinha. O principal acesso ao Distrito Industrial foi bloqueado pelos alagamentos, gerando grandes prejuízos. A insuficiência da
+infraestrutura deixou as áreas produtivas altamente suscetíveis a interrupções prolongadas, afetando negativamente a economia local. A
+falta de energia elétrica, água e comunicação paralisou indústrias e estabelecimentos comerciais.
+D.5 - Gestão de Riscos e Monitoramento: A resposta ao desastre foi limitada pela falta de um sistema de monitoramento de cheias,
+carência de dados do território e inexistência de um centro de controle equipado e capacitado. As ações bem intencionadas porém
+descoordenadas e com falta de subsídios técnicos resultaram na demora e na falta de assertividade do que o evento provocaria no
+município. 
+Esses problemas evidenciam a necessidade de uma infraestrutura urbana mais resiliente, melhorias nos sistemas de drenagem e a
+criação de ferramentas de gestão de riscos para mitigar os impactos de eventos climáticos adversos. 
+(ii) IDH/IDHM (Fonte PNUD) - 0,757 
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+(i) Solução Proposta e Desafios Correspondentes
+Para enfrentar a vulnerabilidade climática de Cachoeirinha, intensificada pelas chuvas de maio de 2024, o Programa propõe soluções
+estruturantes para reabilitar a infraestrutura e fortalecer a resposta a eventos extremos. As intervenções, ligadas aos desafios identificados
+, incluem:
+Reestruturação e Reabilitação da Infraestrutura Urbana e Acessos à Cidade
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 3
+Desafio D.1 - Fragilidade da Infraestrutura e Mobilidade Urbana:
+A recuperação de vias afetadas e a reabilitação da Av. Gen. Flores da Cunha visam garantir a mobilidade e segurança da população. A
+construção da RS-010, que ligará Canoas, Porto Alegre e Gravataí à Cachoeirinha, criará uma nova alternativa de acesso e conexão entre
+ cidades vizinhas, preservando o fluxo econômico em períodos de fortes chuvas. Essa construção funcionará como dique.
+Melhoria dos Sistemas de Drenagem e Controle de Inundações
+Desafio D.2 - Inadequação do Sistema de Drenagem:
+A canalização do Arroio Passinhos e a reconstrução das casas de bombeamento serão essenciais para controlar inundações em bairros
+vulneráveis e melhorar a segurança hídrica em regiões afetadas. Essas ações garantirão um escoamento adequado das águas, reduzindo
+os impactos das enchentes sobre residências, comércio, indústrias e vias de acesso. O Plano de Drenagem definirá as obras necessárias
+ para o aprimoramento e manutenção contínua da drenagem urbana.
+Requalificação de Áreas Públicas e Infraestrutura Verde
+Desafios D.2 e D.3 - Inadequação de Drenagem e Vulnerabilidade das Edificações Públicas:
+Praças e parques municipais serão requalificados para atuarem como áreas de absorção de águas pluviais e amortecedores durante
+fortes chuvas, diminuindo a sobrecarga nos sistemas de drenagem. Espaços estratégicos, como o Parque Linear João Pessoa, Parque
+Norte e o Parque Tancredo Neves, proporcionarão lazer, regulação climática, preservação e educação ambiental, além de mitigar as ilhas
+de calor e promover impacto significativo na qualidade de vida urbana.
+Construção de Infraestruturas Públicas Resilientes
+Desafio D.3 - Vulnerabilidade das Edificações Públicas e Capacidade de Resposta:
+O novo Centro Administrativo e Centro de Controle de Desastres e Combate a Emergências Climáticas (CCDCED) centralizará a resposta
+a emergências e a gestão de crises e facilitará a comunicação em períodos críticos. A concentração das secretarias e localização
+estratégica do Centro facilitarão o acesso aos serviços. Será a primeira edificação pública projetada com conceitos de resiliência e
+sustentabilidade, esta iniciativa será replicada em escolas, postos de saúde e outras edificações públicas.
+Fortalecimento da Infraestrutura para Atividades Econômicas
+Desafio D.4 - Impacto nas Indústrias e Comércio:
+O viaduto na Av. Fernando Ferrari e seu prolongamento facilitarão a ligação ao Distrito Industrial e outras regiões estratégicas, permitindo
+o fluxo de caminhões sem interrupção na transposição com a Av. Flores da Cunha. A ligação facilitada entre municípios fortalecerá a
+mobilidade econômica e social, criando alternativas de mobilidade para enfrentar melhor acontecimentos climáticos intensos.
+Fortalecimento da Gestão de Riscos e Monitoramento Climático
+Desafio D.5 - Gestão de Riscos e Monitoramento:
+A implantação de Ferramentas de Informações Geográficas (SIG) expandirá  áreas mapeadas e dados geoespaciais sobre o território,
+fortalecendo a gestão e a resposta em crises climáticas. O sistema de monitoramento de cheias, com 13 pontos de monitoramento nos
+arroios e Rio Gravataí, permitirá ação coordenada e rápida durante enchentes. A capacitação técnica de servidores e a realização de
+estudos subsidiarão o planejamento de longo prazo e a prevenção de desastres.
+(ii) Resultados Esperados
+Os resultados concretos esperados com a implementação do programa incluem:
+Redução dos Impactos das Inundações: Vias danificadas recuperadas e melhoramento do sistema de drenagem reduzirão inundações em
+ áreas críticas, proporcionando segurança à população, preservando a mobilidade e protegendo residências, indústrias e comércios.
+Aumento da Resiliência Urbana: As infraestruturas resilientes permitirão que Cachoeirinha enfrente situações extremas com mais
+eficiência. As casas de bombeamento e a RS-010, que funcionará como dique, formarão uma rede de proteção robusta contra inundações
+, defendendo as áreas mais vulneráveis.
+Melhoria na Qualidade de Vida e Lazer: A requalificação de parques e praças aumentará a capacidade de absorção de águas pluviais e
+oferecerá espaços de lazer, convívio social e conservação ambiental. A criação e preservação de espaços naturais promoverão o bem-
+estar, a saúde pública e a sustentabilidade urbana.
+Capacitação Técnica e Inclusiva em Gestão de Riscos: A capacitação técnica em gestão de riscos priorizará a inclusão de mulheres e
+jovens, fortalecendo a resiliência comunitária e a participação cidadã em ações de prevenção. Assim, a população estará mais preparada
+para enfrentar emergências climáticas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 4
+Planejamento Futuro Baseado em Dados: O SIG ampliará a cobertura de dados geográficos e ambientais do território, permitindo um
+planejamento urbano fundamentado e detalhado para antecipar e minimizar riscos climáticos. Os estudos hídricos apoiarão políticas
+públicas eficazes de longo prazo.
+(iii) Sustentabilidade
+A sustentabilidade financeira e operacional será garantida por medidas de manutenção das infraestruturas e continuidade das operações,
+sob a responsabilidade da Secretaria Municipal de Planejamento e suas correlatas.
+Manutenção de Infraestruturas de Drenagem e Vias Públicas: As novas estruturas de drenagem, casas de bombeamento e vias contarão
+com manutenção preventiva e monitoramento contínuo. Os custos estão previstos no orçamento anual da Secretaria de Infraestrutura e
+Serviços Urbanos, assegurando o funcionamento dessas estruturas.
+Operação e Manutenção do Sistema de Monitoramento e SIG: A operação do sistema de monitoramento climático e do Sistema de
+Informações Geográficas (SIG) será coordenada pela Secretaria de Planejamento, com equipe capacitada para o uso dessas ferramentas
+geoespaciais. 
+Pessoal: A operação será realizada pela equipe já existente, sem previsão de novas contratações. 
+Custos Adicionais Estimados: Considerando que esses custos incrementais serão absorvidos pelo orçamento municipal, com ajustes
+conforme necessário para assegurar a sustentabilidade financeira das infraestruturas e serviços implantados, estima-se que os custos de
+operacionalização e manutenção das obras e sistemas sejam de R$ 3,9 milhões anuais.
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+(i) ORIENTAÇÕES ESTRATÉGICAS
+O Programa de Resiliência Urbana e Inovação na Gestão de Riscos Climáticos de Cachoeirinha está em total conformidade com as
+orientações estratégicas do município e integra-se ao Plano Plurianual (PPA) 2022-2025 (Anexo 1) de Cachoeirinha. As ações previstas
+no programa, como a reabilitação de infraestrutura urbana, a melhoria dos sistemas de drenagem e o fortalecimento da gestão de riscos
+climáticos, estão alinhadas com os programas e objetivos descritos no PPA, que incluem o Programa 0005 ? Organização e Modernização
+Administrativa e o Programa 0090 ? Planejamento, Elaboração e Acompanhamento de Projetos. Esses programas visam melhorar a
+capacidade do município de gerenciar sua infraestrutura e serviços públicos, além de planejar o desenvolvimento urbano de forma
+sustentável.
+Adicionalmente, o programa está vinculado a planos setoriais de desenvolvimento urbano e ambiental, que visam mitigar os impactos de
+eventos climáticos extremos e aumentar a resiliência da infraestrutura do município. Entre esses planos setoriais estão o Plano Diretor de
+Desenvolvimento Urbano (Lei Complementar nº 011/2007) e o Plano Municipal de Saneamento Básico (PMSB) de 2014, que preveem a
+modernização e expansão dos sistemas de drenagem e a requalificação de áreas urbanas vulneráveis a enchentes.
+(ii) CONTRAPARTIDA
+Os recursos de contrapartida do município correspondem a 20% do total do Programa, no período proposto de 05 anos de execução. A
+contrapartida será aportada com recursos provenientes de receitas tributárias previstas nos artigos 156, 158 e 159, inciso I, (b), da
+Constituição Federal, conforme disposto na Resolução nº 3, de 29 de maio de 2019 - COFIEX.
+(iii) TAXA DE CÂMBIO
+A moeda a ser utilizada para o financiamento será o dólar americano, adotando-se a taxa de câmbio em relação ao real de R$ 5,5191,
+conforme a cotação vigente na data de referência 08/10/2024, de acordo com os dados do Banco Central do Brasil.
+
+2. Projeto
+2.1. Título
+ Programa de Resiliência Urbana e Inovação na Gestão de Riscos Climáticos de Cachoeirinha/RS - Desenvolvimento Cachoeirinha
+2.2. Título Abreviado
+Desenvolvimento Cachoeirinha 
+2.3. Mutuário
+Município de Cachoeirinha - RS
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+Objetivo Geral 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 5
+O objetivo do Programa é promover a resiliência urbana e a sustentabilidade por meio de intervenções estruturantes e inovação na gestão
+de riscos climáticos, melhorando a infraestrutura e fortalecendo a capacidade de resposta a emergências ambientais.
+
+Objetivos Específicos:
+a) Qualificar a infraestrutura viária e o principal acesso à cidade e a equipamentos essenciais, garantindo condições básicas de mobilidade
+ e logística durante eventos climáticos extremos.
+Este objetivo visa solucionar a interrupção dos acessos viários críticos durante eventos extremos (D1 e D4), como ocorreu no evento
+climático de 2024. A construção da RS 010 e do viaduto na Av. Fernando Ferrari, junto ao seu prolongamento, melhorará a eficiência
+logística de acesso ao Distrito Industrial e a outras áreas estratégicas da cidade. Esse objetivo está diretamente relacionado aos
+Indicadores 1 e 2, que medem a eficiência logística e a redução dos dias sem acesso viário devido a inundações.
+
+b) Reestabelecer e fortalecer a infraestrutura municipal e qualificar espaços urbanos estratégicos para o enfrentamento aos impactos das
+mudanças climáticas.
+Este objetivo responde ao problema da fragilidade da infraestrutura urbana (D1), exposta por eventos climáticos intensos, como as
+enchentes de maio de 2024, que causaram danos significativos à mobilidade e à segurança. As ações incluirão a restauração de vias
+afetadas e seu sistema de drenagem, a reabilitação da Av. General Flores da Cunha e requalificação de praças e parques. Esses esforços
+estão diretamente atrelados aos Indicadores 2 e 3, que medem a redução do impacto de eventos climáticos na mobilidade e o aumento
+no uso de áreas de lazer utilizadas pela população.
+
+c) Assegurar a eficiência do Sistema de Proteção contra Inundações através da modernização e ampliação da capacidade dos
+componentes do sistema.
+Visando resolver o problema de drenagem insuficiente e proteção contra enchentes (D2), o programa incluirá novo Plano de Drenagem e
+sua execução, a construção e reconstrução de casas de bombeamento e a canalização e urbanização do Arroio Passinhos, fundamentais
+para conter inundações. Esse objetivo é monitorado pelo Indicador 4, que avalia o aumento na capacidade das estações de bombeamento
+, refletindo a capacidade de resposta a eventos extremos.
+
+d) Centralizar o Atendimento ao Cidadão, melhorando a gestão de serviços municipais durante eventos extremos.
+Para enfrentar o problema da descentralização de serviços durante crises climáticas (D3), o programa prevê a construção de um Centro
+Administrativo com Centro de Controle de Desastres e Combate a Emergências Climáticas (CCDCED). Essa estrutura centralizará o
+atendimento e as operações de emergência, facilitando uma resposta coordenada e rápida durante situações de crise. Esse objetivo é
+correlacionado ao Indicador 5, que mede a redução dos pontos de atendimento dispersos.
+
+e) Ampliar a abrangência de áreas mapeadas e dados sobre o território através de Ferramentas de Informações Geográficas (SIG).
+Este objetivo atende à necessidade de melhorar a gestão territorial e o monitoramento de áreas de risco (D5). O desenvolvimento do
+Sistema de Informações Geográficas (SIG) permitirá o mapeamento detalhado e a coleta de dados em áreas vulneráveis. A amplitude de
+dados e o aumento das áreas cadastradas serão medidos pelo Indicador 6, que monitora o crescimento do cadastro imobiliário.
+
+f) Capacitar a população em geral, com foco em mulheres e jovens, por meio de programas de educação e treinamento em gestão de
+riscos climáticos.
+Em resposta à necessidade de desenvolver a gestão de riscos e o monitoramento climático (D5), este objetivo inclui a implementação de
+um programa de capacitação em gestão de riscos, com foco em mulheres e jovens, garantindo uma cota de 50% para esses grupos. Esse
+ objetivo é representado pelo Indicador 7, que mede o número de mulheres e jovens capacitados.
+
+2.6. Projeto/Indicadores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 6
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Indicador 1: Tempo médio de percurso entre o
+Distrito Industrial e a saída do Município. Ano da
+Linha de Base: 2024 - Meta: 2029 Fonte:
+SMMOB
+Tempo médio de
+viagem antes da
+implantação do
+viaduto X Tempo
+médio de viagem
+depois do viaduto
+Minutos
+20,00
+12,00
+Indicador 2: Dias em que a cidade fica sem seu
+principal acesso viário em função de eventos
+climáticos extremos. Ano da Linha de Base:
+evento extremo de maio 2024 - Ano Meta: 2029
+Fonte: SMMOB
+Dias em que a cidade
+ficou sem acesso
+viário no evento
+climático extremo de
+maio 2024 X dias sem
+acesso viário após
+implantação das
+intervenções
+dias
+20,00
+0,00
+Indicador 3: Número médio de visitantes por dia
+nas praças e parques após as requalificações e
+implantação do Parque Norte. Ano da Linha de
+Base: 2024 - Meta: 2029 Fonte: SMCELT
+Número médio de
+visitantes antes x
+Número médio de
+visitantes por dia após
+ requalificação
+visitantes/ dia
+3.500,00
+6.500,00
+Indicador 4: Capacidade das estações de
+bombeamento (Ano da linha de base: 2024 / Ano
+ da meta: 2029) Fonte: SMISU
+Somatório da
+capacidade das
+estações de
+bombeamento
+considerando a linha
+de base e da
+capacidade de
+bombeamento após a
+implantação do
+programa
+Metros cúbicos /
+segundo
+3,30
+15,00
+Indicador 5: Locais de serviços da prefeitura que
+o cidadão deve buscar apoio em caso de
+eventos extremos. Ano da Linha de Base: 2025 -
+ Ano Meta: 2029 Fonte: SEPLAN
+Número de locais
+oficiais de
+atendimento a
+população do
+município dispersos
+pelo território X
+número após a
+centralização dos
+atendimentos no
+Centro Administrativo
+locais
+5,00
+1,00
+Indicador 6: Percentual de áreas registradas no
+cadastro imobiliário da Prefeitura. Ano da linha
+de Base: 2024 - Meta: 2029 Fonte: SEPLAN
+áreas total dos lotes
+cadastrados no
+sistema de
+georreferenciamento
+da Prefeitura / área
+total dos setores (
+base cartográfica) 
+%
+50,00
+90,00
+Indicador 7: Número de mulheres e jovens
+capacitados em ações de educação, treinamento
+e formação para geração de renda,
+sustentabilidade socioambiental e outros (Linha
+de Base: 2024 / Meta: 2029) Fonte:SMCAS
+Somatório do número
+de mulheres e jovens
+capacitados
+mulheres e jovens
+0,00
+300,00
+2.7. Projeto/Componentes
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 7
+Componentes
+Valor(US$)
+C - INFRAESTRUTURA RESILIENTE
+78.000.000,00
+   S - INTERVENÇÕES ESTRUTURANTES
+70.000.000,00
+      P - Restauração de infraestrutura urbana de vias afetadas pelas enchentes
+6.500.000,00
+      P -  Reabilitação mais resiliente da Av. General Flores da Cunha
+3.500.000,00
+      P - Requalificação e construção de praças e parques
+12.500.000,00
+      P - Reconstrução e construção das casas de bombeamento
+2.500.000,00
+      P - Execução de Canalização e Urbanização do Arroio Passinhos
+6.000.000,00
+      P - Execução do Plano de Drenagem
+7.000.000,00
+P - Execução de Obras Viárias Resilientes para Qualificar os Acessos e Facilitar a Mobilidade (RS 010 e
+Prolongamento Av. Fernando Ferrari)
+25.000.000,00
+      P - Construção do viaduto na Av. Fernando Ferrari sobre a Av. Flores da Cunha
+7.000.000,00
+   S - EDIFICAÇÕES PÚBLICAS 
+8.000.000,00
+P - A construção do novo Centro Administrativo, que abrigará o Centro de Controle de Desastres e Combate a
+Emergências Climáticas (CCDCED)
+8.000.000,00
+C - INOVAÇÃO E FORTALECIMENTO NA GESTÃO DE RISCOS E NA PRESTAÇÃO DE SERVIÇOS
+7.750.000,00
+      P - Estudos e Projetos
+3.500.000,00
+      P - Programa de Capacitação em Gestão de Riscos
+100.000,00
+      P -  Estudos de Impacto das Mudanças Climáticas na Hidrologia de Cachoeirinha
+700.000,00
+      P -  Desenvolvimento de Ferramentas de Informações Geográficas (SIG)
+2.700.000,00
+      P - Sistema de Monitoramento de Cheias
+750.000,00
+C - GESTÃO DO PROGRAMA
+2.400.000,00
+      P - Supervisão técnica, ambiental e social 
+2.000.000,00
+      P - Apoio ao Gerenciamento do Programa 
+300.000,00
+      P -  Auditoria Externa
+100.000,00
+Total dos Componentes
+88.150.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - INFRAESTRUTURA RESILIENTE
+Os itens apresentados neste componente visam implementar soluções de drenagem que contribuam para o aumento da resiliência
+nas áreas de cota mais baixa da cidade, frequentemente sujeitas a alagamentos e inundações. Essas medidas são essenciais para
+ proteger a população residente e a atividade econômica das regiões afetadas. 
+   S - INTERVENÇÕES ESTRUTURANTES
+Este subcomponente visa melhorar a infraestrutura urbana de Cachoeirinha, aumentando sua resiliência a eventos climáticos
+extremos, como enchentes. As ações incluem a restauração de pavimentos das vias afetadas (P 1.1.1) e a reabilitação da Av.
+General Flores da Cunha (P 1.1.2), além da requalificação de praças, parques e jardins (P 1.1.3), reconstrução das Casas de
+Bomba (P 1.1.4), canalização e urbanização do arroio passinhos (P1.1.5) e execução de Plano de Drenagem (P1.1.6), essenciais
+para o controle de inundações. Também está prevista a execução de obras viárias para melhorar a mobilidade (P 1.1.7), a
+construção de um viaduto (P 1.1.8) , visando modernizar e prevenir futuros problemas de infraestrutura.
+      P - Restauração de infraestrutura urbana de vias afetadas pelas enchentes
+A restauração do pavimento de ruas afetadas pelas enchentes é necessária para recuperar a infraestrutura urbana e garantir a
+segurança da mobilidade dos cidadãos. Este projeto envolverá a remoção dos materiais danificados e a aplicação de novas
+camadas de pavimentação, utilizando técnicas e materiais que aumentem a resistência a eventos climáticos severos.
+Além disso, a obra incluirá melhorias na drenagem, como a instalação de bocas de lobo e sistemas de escoamento, para minimizar
+o risco de alagamentos futuros. Estas melhorias  não apenas facilitarão o tráfego, mas também contribuirão para a recuperação
+das áreas afetadas, promovendo um ambiente urbano mais seguro e acessível para todos.
+O evento climático enchente de Maio de 2024 atingiu 4 regiões do município, em três serão necessárias a recuperação de Vias:
+REGIÃO 01 - Bairro Meu Rincão, divisa com município de Esteio
+REGIÃO 02 - Bairros Carlos Wilkens e Vila Eunice
+REGIÃO 04 - Bairro Parque da Matriz
+A relação das Vias e sua extensão podem ser visualizadas no ANEXO 2, Figura 02.
+      P -  Reabilitação mais resiliente da Av. General Flores da Cunha
+Esta obra será uma ação abrangente e estratégica, focando na criação de uma infraestrutura que consiga suportar eventos
+extremos, com extensão de 4,6km, o projeto incluirá a requalificação de toda a sua estrutura, com a implementação de técnicas de
+engenharia que garantam a drenagem, durabilidade e resistência a eventos climáticos severos.
+Além disso, as ações de melhoria através de paisagismo cuidadosamente planejado, que incorporarão vegetação nativa e
+elementos que favoreçam a drenagem natural como jardins de chuva, não apenas melhorarão a estética da avenida, mas também
+contribuirão para a qualidade do ar e o bem-estar da comunidade. Plano de arborização específico para a Avenida deverá ser
+elaborado. Novas calçadas com definição de áreas exclusivas para pedestres, ciclistas e a definição das vagas de estacionamento
+buscarão qualificar o espaço urbano oportunizando um caminhar seguro e convidativo, ação esta que beneficiará também o
+comércio local. Corredor ou faixa exclusiva para transporte coletivo deverá ser incorporado ao projeto. O objetivo é garantir que a
+Avenida Flores da Cunha seja um corredor eficiente e seguro para todos os usuários, incluindo pedestres e ciclistas. ANEXO 3 -
+Figura 01
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 8
+      P - Requalificação e construção de praças e parques
+É urgente tomar ações para combater a mudança climática e seus impactos, reforçando a capacidade de adaptação a riscos
+relacionados ao clima e a catástrofes naturais. A requalificação e construção desses espaços públicos não só trará um novo
+aspecto estético à cidade, mas incorporará elementos que promovam a drenagem eficiente, a biodiversidade local e a minimização
+das ilhas de calor. Os projetos deverão adotar soluções para tornar o município mais preparado para enfrentar a nova realidade
+climática de eventos extremos mais frequentes, a localização pode ser visualizada no ANEXO 4 - Figura 01
+Parque Tancredo Neves: O Parque Natural Municipal Doutor Tancredo de Almeida Neves localizado na Av. Capitão Garibaldi Pinto
+dos Santos n°2265, bairro Granja Esperança, ANEXO 4 - Figura 02, foi reconhecido pelo município como uma Unidade de
+Conservação da Natureza em 1985, pela Lei Municipal nº 811/1985 e classificado como uma Unidade Proteção Integral com o
+objetivo de preservar a fauna e flora da região e a nascente do arroio Passinho. No local foi instituído o Centro de Educação
+Ambiental Francisco de Medeiros que promove atividades que buscam integrar a comunidade com a área de preservação.
+Acontece que o parque opera com infraestrutura precária e sem atrativos, minimizando a capacidade de atendimento às escolas e
+a coletividade. Com o objetivo de educar e promover a consciência ambiental são necessários recursos para construção de Sede,
+ANEXO 4 - Figuras 03 e 04, que abriguem salas de aula, laboratórios, área de atividades interativas, trilhas interpretativas, jardins
+didáticos, recreação e palco. A edificação necessitará de 1500m2 para acomodar as atividades planejadas. O projeto deve fazer
+uso de sistemas que promovam a sustentabilidade, como a captação de água da chuva, painéis solares e a construção deverá ser
+com materiais de baixo impacto ambiental. A Unidade de Conservação compreende uma área de 193589,21m2, que abrigará as
+atividades externas.
+Parque Norte: Previsto no Plano Diretor Municipal, o parque norte não foi implantado até o momento. É necessária a destinação de
+nova área, já prevista, que contemple a zona norte do município que é carente de lazer e contato com a natureza. O público alvo
+são famílias, crianças, idosos e esportistas. A intenção é criar grandes espaços verdes com soluções para gestão de água pluvial,
+atuando como uma esponja natural que absorve, retém e filtra a água da chuva, com o objetivo de reduzir enchentes, melhorar a
+qualidade da água, controlar ilhas de calor e criar ambientes mais agradáveis para a comunidade. A área de 104.408,85m2,
+ANEXO 4 - Figura 05, reserva  uma nascente e áreas de preservação permanentes que serão incorporadas ao projeto. Serão
+necessários investimentos em infraestrutura de vias com extensão de cerca de 1.100 metros x 12 de largura, redes de água e
+esgoto, iluminação pública, drenagem e mobiliário urbano, além de projetos especializados por se tratar de grande área. Os
+elementos serão definidos a partir da definição no projeto que será contratado. Imagens de conceitos que buscamos podem ser
+visualizadas no ANEXO 4 - Figura 06.
+Parque Linear João Pessoa: Desenvolvido sobre a canalização do conduto forçado, o calçadão da Av. João Pessoa foi projetado
+no ano de 2014 recebendo recursos federais para construção de suas calçadas. Com extensão de aproximadamente 450 metros
+transformou-se em potencial equipamento público de lazer necessitando então de investimento para o desenvolvimento de seu
+interior, como ilustram as imagens do ANEXO 4 - Figuras 07 e 08. Assim como as praças, receberá abordagem com foco na
+contribuição para a drenagem das águas. O local tem vocação para eventos culturais, feiras e atividades comunitárias,
+fortalecendo o vínculo social e a identidade local.
+Praças Municipais e Pocket Parques: Necessárias para manter o microclima equilibrado no interior dos bairros, elas também
+sofrerão abordagem para se tornarem eficientes pontos de absorção de águas provenientes de eventos climáticos comuns e
+extremos. Soluções como bacias de contenção, jardins de chuva, bacias de infiltração, pavimentos e calçadas permeáveis e valas
+verdes serão incorporados aos projetos. A vegetação também será pensada de maneira estratégica para retardar a chegada da
+chuva ao solo. Já os ?pocket? parques serão projetados em sobras de terrenos já identificados pela cidade visualizados no
+ANEXO 4 - Figura 09. Serão 05 (cinco) Praças e 06 (seis) ?Pocket Parques
+O somatório dessas ações planejadas pretendem contribuir para o enfrentamento das crises climáticas no Município de
+Cachoeirinha. Iniciativas para criar uma cidade mais resiliente, capaz de resistir e se adaptar aos desafios impostos.
+      P - Reconstrução e construção das casas de bombeamento
+A reconstrução e construção das casas de bombeamento, juntamente com a construção de novas instalações, fortalecerá o
+sistema de drenagem do município e garantirá a eficiência no controle de alagamentos, especialmente em áreas afetadas pelo Rio
+Gravataí. Este projeto incluirá a modernização das instalações existentes, ANEXO 14, e a construção de uma nova casa de
+bombeamento com a implementação de equipamentos de última geração, aumentando a capacidade e a confiabilidade das
+operações. Com essas melhorias, será possível gerenciar de forma mais eficaz as águas pluviais que fluem para o rio, reduzindo o
+risco de inundações. As novas casas de bombeamento serão projetadas para resistir a eventos climáticos extremos, utilizando
+materiais e tecnologias que assegurem sua durabilidade e funcionalidade. Além disso, integrarão soluções sustentáveis, como
+sistemas de monitoramento em tempo real, permitindo uma resposta mais ágil e eficaz em situações de emergência.
+Essa requalificação não apenas protegerá a população e a infraestrutura local, mas também contribuirá para um planejamento
+urbano mais eficiente, promovendo um ambiente mais seguro e resiliente frente aos desafios das mudanças climáticas. Com essas
+ melhorias, o município estará melhor preparado para enfrentar os impactos das chuvas intensas e outras adversidades climáticas.
+Reconstrução Casa de Bombeamento João Pessoa 
+Reconstrução Casa de Bombeamento Nilo Peçanha
+Construção Casa de Bombeamento Parque da Matriz
+A localização pode ser visualizada no ANEXO 5 - Figura 01
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 9
+      P - Execução de Canalização e Urbanização do Arroio Passinhos
+Importante intervenção urbanística e ambiental que visa melhorar a infraestrutura e qualidade de vida na área onde o arroio está
+localizado, nos bairros Jardim Atlântico, Parque Silveira Martins, Monte Carlo, Princesa Isabel, Jardim Colinas, Navegantes, Vista
+Alegre, Vila Veronice e Travessa da Ponte. O projeto envolverá nova estrutura de contenção do arroio em substituição à precária
+existente, a implementação de sistemas de drenagem e manejo de águas pluviais, além de ações para recuperação da área ao
+redor, com foco na melhoria da mobilidade, segurança, saúde e paisagismo. O projeto tem extensão de cerca de 4 km, ANEXO 6 -
+Figura 01. No evento de chuvas de maio de 2024 a canalização do arroio sofreu sérios danos, provocando desmoronamentos e
+acidentes, ANEXO 6 - Figura 02, sendo necessárias medidas paliativas já em curso mas necessitando de uma solução definitiva, o
+que demanda grande investimento.
+      P - Execução do Plano de Drenagem
+O Plano de Drenagem será executado conforme as definições do projeto contratado. Este plano deve buscar não apenas gerenciar
+as águas pluviais de forma eficiente, mas também contribuir para a preservação ambiental, mitigação de riscos climáticos e
+adaptação às mudanças climáticas. Também deverá considerar tanto os impactos ambientais quanto os sociais, promovendo
+soluções que integrem a infraestrutura com os ecossistemas locais.
+Estratégias e soluções como Drenagem Sustentável (Sustainable Drainage Systems - SuDS), Soluções Baseadas na Natureza,
+Drenagem Urbana Integrada (Green Infrastructure) e  Gestão de Águas Pluviais com Tecnologias Inovadoras serão exigidas no
+projeto.
+P - Execução de Obras Viárias Resilientes para Qualificar os Acessos e Facilitar a Mobilidade (RS 010 e Prolongamento
+ Av. Fernando Ferrari)
+A execução de obras viárias resilientes é uma iniciativa para qualificar os acessos e melhorar a mobilidade no Município de
+Cachoeirinha. Essas intervenções serão projetadas para suportar condições climáticas adversas, utilizando materiais e técnicas
+que aumentem a durabilidade e a segurança das vias. 
+As obras incluirão a construção do prolongamento da Av. Fernando Ferrari, que liga toda região central do município, ANEXO 7 -
+Figura 01 e a construção da RS-010 que funcionará como dique e fará a ligação direta entre os município de Canoas,Porto alegre,
+Cachoeirinha e Gravataí, ANEXO 7 - Figura 02, garantido a fluidez do tráfego durante períodos de chuva intensa e uma nova
+alternativa de conexão entre municípios.
+Prolongamento Av. Fernando Ferrari: aprox 1.100 x 25 metros
+RS-010: aprox 10.375 X 100 metros 
+É importante ressaltar que a implementação da RS-010 envolverá desapropriações que ainda precisam ser definidas. Nesse
+sentido, estamos comprometidos em realizar um planejamento cuidadoso e transparente, que leve em conta as necessidades da
+comunidade e busque soluções justas para todos os afetados.
+Neste momento, estamos em fase de planejamento e, para dar andamento ao projeto, será necessária a contratação de estudos
+que contemplem todos os aspectos técnicos e sociais da obra. Esse planejamento cuidadoso garantirá que o prolongamento da Av
+. Fernando Ferrari e a RS-010 atendam às necessidades da comunidade e que as soluções implementadas sejam eficazes e
+sustentáveis.
+      P - Construção do viaduto na Av. Fernando Ferrari sobre a Av. Flores da Cunha
+É uma iniciativa estratégica para melhorar a fluidez do tráfego e reduzir congestionamentos na região de um dos principais acessos
+à cidade, a 600 metros da ponte entre os municípios de de Porto Alegre e Cachoeirinha, ANEXO 8 - Figura 01. O projeto incluirá
+uma estrutura moderna que facilitará a mobilidade, além de integrar soluções de drenagem eficientes, minimizando o risco de
+alagamentos nas vias abaixo. O viaduto também será projetado com atenção à estética urbana, incorporando elementos
+paisagísticos que promovam conceitos de sustentabilidade e respeito ao meio ambiente, como por exemplo jardins verticais. Essa
+obra representa um passo importante para a resiliência da infraestrutura do município, uma vez que um dos acessos principais ao
+distrito industrial se dá através da Av. Fernando Ferrari, mantendo assim as atividades econômicas funcionando em situações
+extremas
+A estrutura com 367.00 metros de extensão e tabuleiro de 67.00x17.00metros de largura foi pensada para ser construída em
+concreto pré moldado. ANEXO 8 - Figura 04
+   S - EDIFICAÇÕES PÚBLICAS 
+A construção do novo Centro Administrativo, que abrigará o Centro de Controle de Desastres e Combate a Emergências Climáticas
+ (CCDCED), é uma iniciativa essencial para fortalecer a capacidade de resposta da cidade a situações de emergência.
+P - A construção do novo Centro Administrativo, que abrigará o Centro de Controle de Desastres e Combate a
+Emergências Climáticas (CCDCED)
+O Centro Administrativo ficará localizado ao lado da Prefeitura atual, em terreno próprio, na Avenida Flores da Cunha nº2209,
+ANEXO 9 - Figura 01 . Alguns estudos preliminares podem ser visualizados no ANEXO 9 - Figuras 02 e 03 . A área inicial do
+projeto prevê aproximadamente 6.500m2 de área construída. O edifício deverá atender a uma série de critérios relacionados à
+sustentabilidade, eficiência energética, uso responsável de recursos naturais e impacto ambiental reduzido.  O Centro será
+equipado com tecnologia avançada para monitoramento e gestão de crises, permitindo uma coordenação eficiente entre diferentes
+órgãos e agências durante desastres naturais. Ao concentrar a estrutura administrativa da prefeitura e todas as secretarias em um
+único prédio, o projeto também proporcionará melhores condições de trabalho, especialmente para a Defesa Civil do Município que
+terá acesso facilitado aos recursos e informações necessários. A capacidade de resposta às demandas da população em um
+único local buscam reduzir os deslocamentos e inconvenientes enfrentados hoje nas solicitações dos serviços públicos. Além de
+oferecer um espaço adequado para a gestão de emergências, o Centro promoverá a capacitação contínua de profissionais e a
+conscientização da comunidade sobre riscos climáticos. Sua localização estratégica, na principal avenida da cidade, facilitará o
+acesso e a comunicação em situações críticas, garantindo uma resposta rápida e eficaz.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 10
+C - INOVAÇÃO E FORTALECIMENTO NA GESTÃO DE RISCOS E NA PRESTAÇÃO DE SERVIÇOS
+Este Componente busca modernizar a capacidade do município em gerenciar riscos climáticos e hídricos, além de melhorar a
+prestação de serviços essenciais. Entre seus principais produtos estão: a elaboração de estudos e projetos, capacitação em gestão
+de riscos, análise dos impactos das mudanças climáticas, desenvolvimento de ferramentas de geoinformação, implantação de um
+sistema de monitoramento de cheias. Essas ações visam aumentar a resiliência e eficiência da cidade.
+      P - Estudos e Projetos
+Os projetos, como etapas iniciais, serão necessários para execução dos produtos. A realização de estudos e projetos será
+fundamental para entender e mitigar os impactos das enchentes no município de Cachoeirinha e na região metropolitana do Rio
+Grande do Sul e propor a melhor alternativa. Esses esforços devem ser direcionados a identificar vulnerabilidades, desenvolver
+soluções sustentáveis.
+Os projetos deverão considerar soluções de infraestrutura verde, como bacias de retenção, jardins de chuva para ajudar a
+gerenciar o escoamento da água e reduzir o risco de enchentes. Eficiência energética, uso racional e coleta da água da chuva
+também devem ser considerados.  Essas soluções não apenas mitigam os impactos, mas também melhoram a qualidade de vida
+urbana.
+Projetos
+Projetos Executivo Vias urbanas;
+Projetos Urbanísticos e executivos de Parques e Praças;
+Projetos de Engenharia para as Casas de Bombas;
+Projetos Urbanístico e de Engenharia Viaduto;
+Projeto Urbanístico e de Engenharia Arroio Passinhos;
+Projeto Arquitetônico e Executivo do Novo Centro Administrativo;
+Banco de Projetos como foco em adaptação climática.
+Planos e Estudos
+Plano de Drenagem Urbana;
+Plano de Arborização Urbana.
+      P - Programa de Capacitação em Gestão de Riscos
+Será essencial preparar profissionais e comunidades para enfrentar os desafios impostos por eventos climáticos extremos, como
+enchentes. Este programa tem como objetivo desenvolver habilidades e conhecimentos que promovam a resiliência e a eficácia na
+gestão de riscos, assegurando que todos estejam prontos para atuar de maneira proativa em situações de emergência. A
+capacitação para 600 pessoas será para população em geral, mas o foco será em capacitar mulheres e jovens, destinando e
+garantindo que 50% das vagas disponíveis sejam para esse público específico.
+A prioridade para capacitar jovens tem relevância não só para informar sobre os desafios enfrentados, mas também educar sobre a
+importância da mitigação e adaptação, criando uma base sólida para futuras gerações. As mulheres terão prioridade na
+capacitação pois são mais afetadas pelos efeitos das mudanças climáticas e frequentemente chefiam suas famílias. Elas tendem a
+ter menos recursos e acesso a informações, o que as torna mais vulneráveis a desastres naturais. Mulheres capacitadas podem se
+envolver em processos de tomada de decisão e influenciar políticas públicas relacionadas ao clima, garantindo que suas
+necessidades e perspectivas sejam consideradas propiciando igualdade de gênero.
+Objetivos do Programa
+Desenvolver Competências: Capacitar os participantes para identificar, avaliar e gerenciar riscos associados a desastres naturais,
+fortalecendo suas habilidades técnicas e de tomada de decisão.
+Promover Conscientização: Aumentar a compreensão sobre a importância da gestão de riscos e as medidas preventivas que
+podem ser adotadas pelas comunidades e organizações.
+Fomentar Colaboração: Estimular parcerias entre diferentes setores, como governo, organizações não governamentais (ONGs) e a
+ sociedade civil, para uma abordagem integrada na gestão de riscos.
+Implementar Ações Práticas: Oferecer formação prática que permita a aplicação imediata dos conhecimentos adquiridos, com foco
+em soluções reais para os problemas enfrentados pelas comunidades.
+Estrutura do Programa
+Fundamentos da Gestão de Riscos: Introdução aos conceitos básicos e à importância da gestão de riscos.
+Mudanças Climáticas: Discussão sobre os impactos das mudanças climáticas e como elas afetam a ocorrência de desastres
+naturais.
+Análise de Vulnerabilidades: Métodos para identificar e avaliar as vulnerabilidades das comunidades.
+Módulos Práticos:
+Simulações de Emergência: Exercícios práticos que simulem situações de desastres, permitindo que os participantes testem suas
+habilidades de resposta.
+Estudos de Caso: Análise de eventos passados para aprender com as experiências e identificar melhores práticas.
+Desenvolvimento de Planos de Ação: Orientação na criação de planos específicos para diferentes tipos de riscos.
+Workshops e Palestras:
+Convidar especialistas para compartilhar experiências e apresentar inovações na gestão de riscos.
+O Programa de Capacitação em Gestão de Riscos é um passo crucial para fortalecer a resiliência das comunidades diante de
+desastres naturais. Ao capacitar indivíduos e grupos com o conhecimento e as ferramentas necessárias, podemos criar uma
+sociedade mais preparada e capaz de enfrentar os desafios impostos pelas mudanças climáticas e seus efeitos devastadores.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 11
+      P -  Estudos de Impacto das Mudanças Climáticas na Hidrologia de Cachoeirinha
+Os estudos de impacto das mudanças climáticas na hidrologia de Cachoeirinha serão fundamentais para entender como as
+alterações nos padrões climáticos afetam o ciclo hidrológico e, consequentemente, a gestão dos recursos hídricos na região. Com
+a intensificação de eventos climáticos extremos, como chuvas intensas e períodos de seca, é crucial analisar esses impactos para
+implementar estratégias de mitigação e adaptação.
+Objetivos dos Estudos:
+Avaliar Alterações nos Padrões de Precipitação: Investigar como as mudanças climáticas estão influenciando a frequência e a
+intensidade das chuvas em Cachoeirinha, incluindo a identificação de tendências de aumento de eventos extremos.
+Analisar a Variação dos Fluxos Hídricos: Estudar como as alterações nas precipitações impactam os cursos d'água, reservatórios e
+ a disponibilidade de água na região, com foco em períodos de cheia e seca.
+Identificar Vulnerabilidades: Avaliar as áreas mais vulneráveis às inundações e à escassez hídrica, considerando a infraestrutura
+existente e o uso do solo.
+Propor Medidas de Adaptação: Sugerir ações e políticas públicas que possam ser implementadas para mitigar os impactos
+identificados e promover a resiliência da comunidade, entre ela um Plano de Segurança Hídrica
+Estes estudos nortearão as tomadas de decisões dos gestores para enfrentar e desenvolver estratégias eficazes de adaptação.
+      P -  Desenvolvimento de Ferramentas de Informações Geográficas (SIG)
+O desenvolvimento de Ferramentas de Informações Geográficas (SIG) será uma estratégia para gerenciar riscos de forma eficaz,
+especialmente em regiões propensas a desastres naturais, como enchentes. Ao coletar, analisar e visualizar dados espaciais,
+essas ferramentas oferecerão suporte tanto no planejamento de ações no longo prazo como na hora do próprio evento climático.
+Objetivos do Desenvolvimento de SIG
+Mapeamento de Vulnerabilidades: Criar mapas que identifiquem áreas suscetíveis a inundações e outros desastres, ajudando na
+priorização de intervenções.
+Análise Espacial de Dados: Integrar diferentes fontes de dados (climáticos, hidrológicos, socioeconômicos) para entender as inter-
+relações entre fatores que contribuem para riscos.
+Planejamento Urbano e Ambiental: Fornecer suporte visual para o planejamento urbano, ajudando a integrar práticas sustentáveis
+e a gestão de recursos hídricos.
+Monitoramento e Avaliação: Facilitar o monitoramento contínuo de mudanças ambientais e a avaliação da eficácia de políticas e
+intervenções.
+Cadastramento das Redes Pluviais e Cloacais do Município: Realizar o cadastramento das redes pluviais e cloacais do município
+para gerir os recursos hídricos de forma eficaz e prevenir enchentes e alagamentos. 
+Metodologia
+Coleta de Dados: Reunir dados geoespaciais de diversas fontes, incluindo satélites, sensores remotos e levantamentos de campo.
+Desenvolvimento de Mapas Interativos: Criar plataformas online que permitam o acesso fácil a mapas interativos, onde os usuários
+ possam visualizar informações relevantes e realizar análises.
+Capacitação de Usuários: Promover treinamentos para profissionais e comunidades locais sobre o uso das ferramentas SIG,
+garantindo que todos possam aproveitar ao máximo os recursos disponíveis.
+Integração com Sistemas de Alerta: Conectar as ferramentas SIG a sistemas de monitoramento de cheias e eventos climáticos,
+permitindo uma resposta rápida e eficaz em situações de emergência.
+Resultados Esperados
+Mapas Temáticos: Produção de mapas que representem dados sobre riscos, recursos hídricos, uso do solo e infraestrutura,
+facilitando o planejamento e a gestão.
+Relatórios de Análise: Geração de relatórios que analisem os dados espaciais, oferecendo insights valiosos para gestores e
+formuladores de políticas.
+Aumento da Participação Comunitária: Facilitar a participação da comunidade no planejamento urbano e na gestão de riscos,
+permitindo que cidadãos contribuam com dados e informações.
+Aprimoramento da Resiliência: Contribuir para a construção de comunidades mais resilientes, que estão melhor preparadas para
+enfrentar os desafios das mudanças climáticas.
+Esta ferramenta será capaz de fornecer informações para todas as Secretarias da Prefeitura Municipal.
+      P - Sistema de Monitoramento de Cheias
+Implementar um Sistema de Monitoramento de Cheias, para gerenciar os riscos de inundações, permitindo uma resposta ágil a
+emergências, especialmente na região do Rio Gravataí. Serão 13 pontos localizados no Rio Gravataí, Arroio Passinhos, Arroio
+Brigadeira e Arroio Sapucaia, Anexo 13. Ao unir tecnologia, dados e análises, esse sistema vai fornecer informações em tempo
+real sobre as condições hidrológicas, ajudando a proteger a população e a reduzir danos. O Sistema deverá ser instalado no novo
+Centro Administrativo, o que facilitará o tempo de resposta da gestão municipal. 
+Objetivos do Sistema
+Detecção Precoce: Identificar rapidamente condições que podem levar a cheias no Rio Gravataí, permitindo ações preventivas e
+alertas antecipados.
+Monitoramento Contínuo: Obter dados em tempo real sobre níveis de água, precipitação e condições meteorológicas, garantindo
+uma visão abrangente da situação hídrica na bacia do rio.
+Apoio à Tomada de Decisões: Fornecer informações confiáveis e atualizadas para gestores públicos, permitindo uma resposta
+rápida e coordenada durante eventos de inundação.
+Conscientização da Comunidade: Informar a população sobre os riscos e ações a serem tomadas, promovendo a segurança e a
+preparação.
+Componentes do Sistema
+Sensores e Estações Meteorológicas:
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 12
+Instalação de sensores em 13 pontos estratégicos do Rio Gravataí, Arroio Passinhos, Arroio Brigadeira e Arroio Sapucaia para
+monitorar níveis de água e pluviômetros para medir a precipitação.
+Plataforma de Dados:
+Desenvolvimento de uma plataforma que integre os dados coletados, permitindo a visualização em tempo real e a análise das
+informações.
+Sistema de Alertas:
+Implementação de um sistema de alertas que notifique a população e os gestores sobre condições críticas das águas, utilizando
+SMS, aplicativos e redes sociais.
+Mapas Interativos:
+Criação de mapas que mostrem áreas de risco, níveis de água e previsões meteorológicas, facilitando a compreensão da situação
+pela comunidade.
+Metodologia de Implementação
+Levantamento de Dados: Coletar dados históricos sobre eventos de cheias no Rio Gravataí, Arroio Passinhos, Arroio Brigadeira e
+Arroio Sapucaia e padrões climáticos para orientar o desenvolvimento do sistema.
+Desenvolvimento Tecnológico: Criar ou adaptar tecnologia para sensores e plataformas de dados, garantindo que sejam acessíveis
+ e eficientes.
+Capacitação de Equipes: Treinar equipes de resposta a emergências e gestores públicos sobre o uso do sistema e a interpretação
+dos dados.
+Envolvimento da Comunidade: Promover campanhas de conscientização sobre o sistema e a importância da preparação para
+eventos de cheias.
+Resultados Esperados
+Redução de Riscos: Aumento na capacidade de antecipar e mitigar os impactos de cheias no Rio Gravataí, Arroio Passinhos,
+Arroio Brigadeira e Arroio Sapucaia, resultando em menos danos a vidas e propriedades.
+Resposta Eficaz: Melhoria na coordenação e na rapidez das ações durante eventos de inundação, minimizando a confusão e os
+riscos para a população.
+Empoderamento Comunitário: Aumento da conscientização da população sobre os riscos e as medidas de segurança, promovendo
+ uma cultura de preparação.
+Melhoria na Gestão de Recursos: Dados confiáveis podem orientar o planejamento urbano e a gestão hídrica, contribuindo para a
+sustentabilidade.
+C - GESTÃO DO PROGRAMA
+Para abordar a gestão do programa em Cachoeirinha, especialmente focando no desenvolvimento sustentável e no combate às
+enchentes, é importante que a supervisão técnica, ambiental e social assegure a implementação de práticas que minimizem os
+impactos ambientais e promovam a resiliência das comunidades. A UGP  deve oferecer apoio contínuo, facilitando a comunicação
+entre as partes interessadas e garantindo que as iniciativas estejam alinhadas com as necessidades locais. Por fim, a auditoria
+externa  é essencial para avaliar a eficácia das ações, promovendo transparência e responsabilidade, e permitindo ajustes que
+potencializem os resultados e mitigação dos efeitos das enchentes.
+      P - Supervisão técnica, ambiental e social 
+Devido à complexidade na execução de obras que compõem este Programa, torna-se necessária a contratação de empresa
+especializada no apoio à supervisão das obras a serem implantadas.
+Os serviços de supervisão das obras apoiarão a Secretaria de Obras e Secretaria de Planejamento (SEPLAN) na fiscalização das
+obras contratadas com empresas privadas. Também compreenderão trabalhos de apoio ao acompanhamento da qualidade dos
+serviços, fidelidade no seguimento das soluções de projeto, aplicação de materiais e uso dos métodos construtivos, perfazendo
+assim um perfil altamente técnico aos trabalhos. Também deverão ser acompanhadas a acuidade dos trabalhos de sondagem, a
+escavação e o uso compatível com os materiais e equipamentos, além do monitoramento dos impactos ambientais e suas
+respectivas medidas mitigadoras, de controle e redução dos riscos ambientais decorrentes da implantação e operação das obras
+do Programa. Para o desempenho do apoio ao serviço de fiscalização e acompanhamento da obra estão previstas as seguintes
+atividades: 
+a) controle da qualidade técnica dos serviços contratados; 
+b) acompanhamento do atendimento dos serviços contratados às especificações dos projetos; 
+c) verificações técnicas, ambientais e administrativas, relacionadas às atividades do canteiro de obras e das frentes de serviços; 
+d) verificação do cumprimento, no âmbito dos contratos dos requisitos de funcionalidade técnica requeridos em projeto; 
+e) verificação do cumprimento, no âmbito dos contratos de obras, da legislação trabalhista, de segurança do trabalho e meio
+ambiente; 
+f) controle dos faturamentos da obra, verificando os quantitativos efetivamente medidos; 
+g) acompanhamento da evolução física e financeira dos contratos; 
+h) acompanhamento por meio de relatórios mensais que reflitam indicadores de custo, desempenho e avanço físico dos
+empreendimentos, apontando os caminhos críticos e as alternativas de solução para os problemas decorrentes da execução
+contratual; 
+i) acompanhamento e monitoramento das condicionantes ambientais indicadas na licença ambiental de instalação; 
+j) elaboração e apresentação, após a conclusão de cada etapa de obra, o projeto "como construído", de maneira que representem
+a última versão emitida do projeto e que sejam condizentes com a real implantação da obra.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 13
+      P - Apoio ao Gerenciamento do Programa 
+Este produto compreende as atividades destinadas a dotar o município de uma Unidade de Gerenciamento do Programa (UGP)
+com capacidade adequada para  gerenciar, executar e acompanhar as ações e procedimentos estabelecidos no Contrato de
+Empréstimo a ser celebrado junto ao AIIB. A UGP está vinculada à SEPLAN, com apoio de equipe técnica multidisciplinar das
+diversas Secretarias Municipais. Poderá contar com um apoio operacional externo que terá por objetivo suprir a UGP de elementos
+administrativos e operacionais nas atividades de gestão e execução do contrato de empréstimo nas tomadas de decisão,
+principalmente quanto às ocorrências apresentadas no período, suas medidas de correção, nas ações preventivas contra
+potenciais riscos, e no acompanhamento do estado físico e financeiro do Programa. Possui a função de cadastramento e
+atualizações de todas as informações contempladas nas plataformas da Matriz de Usos e Fontes, do Plano Operacional Anual, do
+Plano de Aquisições e Contratações, do Status de execução física e financeira das obras e serviço, da Justificativa de Gastos do
+financiamento e  da Contrapartida e, por fim, do acompanhamento das Cláusulas Contratuais do Contrato de Empréstimo
+celebrado entre o município de Cachoeirinha e o Organismo Financiador, atentando para seus prazos e obrigações previstos.
+      P -  Auditoria Externa
+O Produto refere-se à contratação de empresa especializada para a elaboração dos relatórios anuais de auditoria financeira
+durante o prazo de desembolso do Programa, em conformidade com o disposto no contrato de empréstimo. Os serviços
+contemplarão a verificação do cumprimento das cláusulas contratuais, utilização dos recursos, legalidade das aquisições,
+execução dos desembolsos, qualidade das justificativas de gastos, sistemas de controle e o que mais for julgado necessário pelo
+agente financiador e órgãos de fiscalização.
+Além desta auditoria, o Município fica sujeito  às auditorias da Controladoria Municipal e do TCE/RS, para a total transparência das
+ações implantadas.
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Obras
+-
+-
+78.000.000,00
+88,49
+P- Restauração de infraestrutura urbana de vias
+afetadas pelas enchentes
+KM
+13,00
+6.500.000,00
+7,37
+P-  Reabilitação mais resiliente da Av. General
+Flores da Cunha
+KM
+4,60
+3.500.000,00
+3,97
+P- Requalificação e construção de praças e
+parques
+unidade
+13,00
+12.500.000,00
+14,18
+P- Reconstrução e construção das casas de
+bombeamento
+unidade
+3,00
+2.500.000,00
+2,84
+P- Execução de Canalização e Urbanização do
+Arroio Passinhos
+KM
+4,00
+6.000.000,00
+6,81
+P- Execução do Plano de Drenagem
+unidade
+1,00
+7.000.000,00
+7,94
+P- Execução de Obras Viárias Resilientes para
+Qualificar os Acessos e Facilitar a Mobilidade (RS
+010 e Prolongamento Av. Fernando Ferrari)
+KM
+11,50
+25.000.000,00
+28,36
+P- Construção do viaduto na Av. Fernando Ferrari
+sobre a Av. Flores da Cunha
+M
+367,00
+7.000.000,00
+7,94
+P- A construção do novo Centro Administrativo,
+que abrigará o Centro de Controle de Desastres e
+Combate a Emergências Climáticas (CCDCED)
+unidade
+1,00
+8.000.000,00
+9,08
+Capacitação e Treinamento
+-
+-
+100.000,00
+0,11
+P- Programa de Capacitação em Gestão de
+Riscos
+unidade
+1,00
+100.000,00
+0,11
+Outros
+-
+-
+10.050.000,00
+11,40
+P- Estudos e Projetos
+unidade
+1,00
+3.500.000,00
+3,97
+P-  Estudos de Impacto das Mudanças Climáticas
+na Hidrologia de Cachoeirinha
+unidade
+1,00
+700.000,00
+0,79
+P-  Desenvolvimento de Ferramentas de
+Informações Geográficas (SIG)
+unidade
+1,00
+2.700.000,00
+3,06
+P- Sistema de Monitoramento de Cheias
+unidade
+1,00
+750.000,00
+0,85
+P- Supervisão técnica, ambiental e social 
+unidade
+1,00
+2.000.000,00
+2,27
+P- Apoio ao Gerenciamento do Programa 
+unidade
+1,00
+300.000,00
+0,34
+P-  Auditoria Externa
+unidade
+1,00
+100.000,00
+0,11
+Total Geral
+-
+-
+88.150.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+(P) 1.1.1 Restauração de infraestrutura urbana de vias afetadas pelas enchentes.
+Levantamento de vias afetadas: CONCLUÍDO
+(P) 1.1.2 Reabilitação mais resiliente da Av. General Flores da Cunha.
+Levantamento da extensão da Avenida para contratação de Projeto: CONCLUÍDO 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 14
+Estudo Preliminar: CONCLUÍDO
+(P) 1.1.3 Requalificação e construção de praças e parques.
+Parque Tancredo Neves: Plano de manejo da UC CONCLUìDO, Cercamento CONCLUíDO, Calçadas CONCLUÍDO.
+Parque Norte:Reconhecimento da área CONCLUÍDO.
+Parque Linear João Pessoa: Levantamento topográfico CONCLUíDO,Estudo preliminar CONCLUíDO,Calçadas CONCLUÍDO
+(P) 1.1.4 Reconstrução e construção das Casas de Bombeamento.
+Melhorias nas instalações da Casa de Bombeamentoda Av. João Pessoa, consertos em 2 Motobombas. Foram executados serviços de
+construção de vigas, pilares e reforço metálico para aprimorar o sistema e torná-lo mais eficaz, totalizando um investimento de R$ 416.187
+,52 (quatrocentos e dezesseis mil, cento e oitenta e sete reais e cinquenta e dois centavos). CONCLUÍDO
+(P) 1.1.5 Execução de Canalização e Urbanização do Arroio Passinhos.
+Levantamento Topográfico CONCLUÍDO. Projeto Urbanístico e executivo: em andamento
+(P) 1.1.6 Execução do Plano de Drenagem. NÃO INICIADO
+Necessária a contratação Plano de Drenagem
+Ato Legal: Instituição de Comissão para elaboração de Plano Setorial de Drenagem Urbana (Decreto nº7534/2022), CONCLUÍDO.
+(P) 1.1.7 Execução de obras viárias resilientes para qualificar os acessos e facilitar a mobilidade (RS 010 e Prolongamento Av. Fernando
+Ferrari)
+Estudos Preliminares, EM ANDAMENTO
+Contratação de estudos e projetos, NÃO INICIADO
+(P) 1.1.8 Construção do viaduto na Av. Fernando Ferrari sobre a Av. Flores da Cunha
+Estudo Preliminar CONCLUÍDO
+Contratação de estudos e projetos, NÃO INICIADO
+(P) 1.2.1 Construção de novo Centro Administrativo com Centro de Controle de Desastres e Combate a Emergências Climáticas (
+CCDCED)
+Estudo Preliminar CONCLUÍDO
+Contratação de estudos e projetos, NÃO INICIADO
+(P) 2.1 Estudos e Projetos
+Contratação de estudos e projetos, NÃO INICIADO
+(P) 2.2 Programa de Capacitação em Gestão de Riscos
+Definição de escopo: EM ANDAMENTO
+(P) 2.3 Estudos de Impacto das Mudanças Climáticas na Hidrologia de Cachoeirinha
+Contratação de estudos, NÃO INICIADO
+(P) 2.4 Desenvolvimento de Ferramentas de Informações Geográficas (SIG): 
+Contratação de uma empresa especializada para a realização dos serviços de georreferenciamento do Município, EM LICITAÇÃO.
+Compra de Imagem de satélite de alta resolução do território de Cachoeirinha, pós-evento da inundação do dia 03/05/2024, para
+identificação da mancha de inundação e as edificações afetadas, para a avaliação dos impactos do evento e o planejamento de ações de
+recuperação. CONCLUÍDO
+(P) 2.6 Sistema de Monitoramento de Cheias
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 15
+Levantamento de pontos de Monitoramento, CONCLUÍDO.
+
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Municipal
+MUNICIPIO DE  CACHOEIRINHA(RS)
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+(i) CONDIÇÕES FINANCEIRAS
+As condições financeiras da operação junto ao AIIB são: 
+- Prazo total:até 35 anos
+-Prazo de carência: até 5 anos
+- Prazo de amortização:até 30 anos
+- Taxa de juros (em USD): SOFR + spread variável em função do prazo da operação ( de 0,87% até 1,37% )
+- Demais encargos e comissões: (i) Front-end-Fee: 0,25%; Commitment fee: 0,25% sobre o saldo não desembolsado
+
+(ii) NECESSIDADE DE FINANCIAMENTO EXTERNO E A OPÇÃO PELO AGENTE FINANCEIRO:
+A implementação do Programa de Cachoeirinha, que abrange obras de macrodrenagem, infraestrutura resiliente e gestão de riscos,
+demanda um financiamento robusto e acessível. O financiamento externo se apresenta como a melhor solução para viabilizar esses
+investimentos, garantindo tanto o aporte necessário de capital quanto condições mais favoráveis para a execução do projeto, sem
+comprometer a saúde fiscal do município.
+(ii.a) Necessidade de Financiamento Externo
+Dada a magnitude do Programa de Cachoeirinha, o financiamento externo é essencial para suprir as necessidades financeiras de grandes
+intervenções, como a reconstrução de casas de bomba, construção do viaduto na Av. Fernando Ferrari sobre a Av. Flores da Cunha e
+obras viárias para qualificar os acessos e facilitar a mobilidade no município. 
+As opções de financiamento interno (nacional), embora disponíveis, apresentam limitações significativas em termos de volume de recursos
+ e condições financeiras, como juros mais altos e prazos de amortização mais curtos.
+Em contrapartida, o financiamento internacional oferece taxas de juros mais baixas e prazos de pagamento mais longos, proporcionando
+ao município de Cachoeirinha uma flexibilidade maior na gestão do fluxo de caixa. Essa abordagem permite que o município distribua os
+compromissos financeiros ao longo de um período maior, reduzindo o impacto no curto prazo.
+Além dos aspectos financeiros, o financiamento internacional garante acesso a expertise técnica global, por meio de consultorias e
+assistência técnica. Isso é fundamental para o sucesso de um programa que envolve riscos ambientais e infraestrutura resiliente,
+assegurando que as soluções adotadas sejam modernas e eficientes.
+(ii.b) Opção pelo Banco Asiático de Investimento em Infraestrutura (AIIB)
+A escolha do Banco Asiático de Investimento em Infraestrutura (AIIB) como agente financeiro foi motivada por sua expertise em projetos
+de infraestrutura de grande escala e seu compromisso com a resiliência climática. O AIIB se destaca por oferecer condições financeiras
+competitivas, como taxas de juros reduzidas e prazos de amortização flexíveis, elementos que permitem ao município de Cachoeirinha
+otimizar o uso dos recursos e planejar o pagamento do financiamento a longo prazo.
+Outro fator decisivo foi o compromisso do AIIB com a sustentabilidade. O banco está alinhado aos Objetivos de Desenvolvimento
+Sustentável (ODS) e aplica rigorosos padrões de proteção ambiental e social. Isso assegura que o financiamento esteja vinculado a
+práticas responsáveis, tanto no aspecto ambiental quanto social, o que é crucial para um programa voltado à gestão de riscos e à proteção
+ contra enchentes.
+Além das condições financeiras e ambientais, o AIIB oferece suporte técnico especializado, proporcionando ao município de Cachoeirinha
+acesso a conhecimento e soluções inovadoras. Esse suporte é fundamental para a implementação eficiente do programa, garantindo que
+as intervenções sejam bem-sucedidas e sustentáveis a longo prazo.
+
+(ii.c) Comparativo com as condições financeiras do agente escolhido - Banco Asiático de Investimento em Infraestrutura (AIIB) - em
+relação a outros financiadores externos e internos:
+AGENTES FINANCEIROS EXTERNOS:
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 16
+BANCO MUNDIAL
+-Prazo total: até 35 anos;
+-Prazo de carência: 5 anos;
+-Taxa concedida: Taxa SOFR semestral + spread variável (0,23% até 1,85% - depende do prazo médio e da moeda do empréstimo);
+-Demais Encargos: Comissão Inicial de 0,25% sobre valor do empréstimo, comissão de compromisso de 0,25% sobre saldo não
+desembolsado.
+
+CAF
+-Prazo total: até 20 anos;
+-Prazo de carência: 5 anos;
+-Taxas: SOFR semestral + 1,9% a.a nos primeiros 8 anos e depois SOFR + 2,0% a.a.
+-Demais Encargos: Comissão de compromisso de 0,35% e comissão de financiamento de 0,85% sobre o valor total;
+
+NDB 
+- Prazo Total: até 20 anos;
+- Prazo de Carência:  5 anos;
+- Taxa de Juros: SOFR + 1,55338% (variável semestralmente)
+- Demais Encargos: Comissão de Financiamento de 0,25% do valor do empréstimo (capitalizável) mais Comissão de Compromisso de 0,
+25% do saldo não desembolsado;
+
+FONPLATA: 
+Prazo Total: até 15 anos;
+Prazo de Carência:  5 anos;
+Taxa de Juros: SOFR + 2,1% a 2,6%
+Demais Encargos: Comissão de Financiamento de 0,55% do valor do empréstimo mais Comissão de Compromisso de 0,35% do saldo
+não desembolsado.
+
+AGENTES FINANCEIROS NACIONAIS:
+BNDES FUNDO CLIMA:
+Prazo Total: até 25 anos;
+Prazo de Carência: 5 anos;
+Taxa de Juros: 6,15% + spread básico de 1,1% + spread de risco (0,2% a 1,7%) para empréstimos sem a garantia da União - conforme
+rating BNDES - ou spread de risco de 0,1% com garantia da União.
+Observações: Participação e Valores Máximos: 100% dos itens financiáveis, com restrições a financiamento de reassentamentos, limite de
+ R$ 250 MM a cada 12 meses e necessidade de projetos básicos prontos.
+
+BNDES FINEM: 
+Prazo Total: Até 24 anos
+Prazo de Carência: 1 a 3 anos
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 17
+Taxa de Juros: TLP + spread básico 1,3% +spread de risco de 0,2% a 1,7% (sem garantia da União - conforme rating BNDES) ou 0,1% (
+garantia da União)
+Observações: Participação e Valores Máximos: 90% total do Projeto, limitado a 100% dos itens financiáveis, com restrições a
+financiamento de reassentamentos e necessidade de projetos básicos prontos.
+
+PRÓ CIDADES: 
+Prazo Total: Até 20 anos
+Prazo de Carência: 4 anos
+Taxa de Juros: 6% a.a + Taxa Referencial (TR) + 3% de remuneração do Agente Financeiro, diferencial de juros e taxa de risco de crédito.
+Observações: valor até R$ 150 MM por operação. Contrapartida de no mínimo 5% do valor do investimento e necessidade de que a maior
+parte da área esteja regularizada sob o ponto de vista fundiário.
+
+CEF FINISA: 
+Prazo Total: Até 10 anos;
+Prazo de Carência:  1 ano;
+Taxa de Juros: 110% CDI
+Demais Encargos: Comissão de Estruturação de 2,00% do valor do empréstimo.
+
+2.11. PROJETO/BENEFICIÁRIO
+(i) Áreas Estratégicas e Impactos do Projeto (Ambientais, Econômicos e Sociais)
+O Programa de Resiliência Urbana e Inovação na Gestão de Riscos Climáticos de Cachoeirinha alinha-se a várias áreas estratégicas e
+gera impactos significativos nas dimensões ambientais, econômicas e sociais. Abaixo, destacam-se as principais áreas e justificativas,
+citando os produtos correspondentes da Matriz de Componentes:
+- Promoção da Sustentabilidade Ambiental (AEI 1.1):
+As ações de Canalização do Arroio Passinhos (Produto 1.1.5), execução do Plano de Drenagem (Produto 1.1.6) e requalificação da
+Unidade de Conservação Parque Tancredo Neves (Produto 1.1.3) estão diretamente relacionadas à sustentabilidade ambiental, mitigando
+o impacto das enchentes, prevenindo desastres climáticos futuros, preservando nascentes, fauna e flora e ainda educando futuras
+gerações. Essas medidas promovem algumas adaptações no território para enfrentamento às mudanças climáticas, protegendo
+ecossistemas e infraestrutura urbana.
+- Implantação e/ou Ampliação de Ações de Saneamento Básico (AEI 1.3):
+A construção e reconstrução das Casas de Bombeamento (Produto 1.1.4) e a execução de drenagem das obras viárias (Produto 1.1.1)
+estão diretamente relacionadas à ampliação do saneamento básico, assegurando a drenagem eficiente e reduzindo o risco de inundações,
+ especialmente em áreas urbanas mais vulneráveis.
+- Gestão Integrada de Recursos Hídricos (AEI 1.4):
+A Canalização do Arroio Passinhos (Produto 1.1.5), o Sistema de Monitoramento de Cheias (Produto 2.6) e a criação de grandes áreas de
+absorção e filtragem de água nas Praças e Parques (Produto 1.1.3) visam fortalecer a gestão de recursos hídricos. Essas ações são
+essenciais para garantir a segurança hídrica, minimizar os danos provocados pelas enchentes e melhorar a qualidade de vida dos
+moradores de áreas mais vulneráveis.
+- Infraestrutura para Populações de Baixa Renda e Vulneráveis (AEI 1.9):
+A requalificação de praças e parques (Produto 1.1.3) e a execução de obras viárias resilientes (Produto 1.1.7) beneficiarão diretamente as
+comunidades de baixa renda e vulneráveis, proporcionando infraestrutura mais segura e resiliente, que ajuda a mitigar os efeitos de
+enchentes em áreas frequentemente impactadas.
+- Políticas de Inclusão de Minorias Sociais (AEI 1.10):
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 18
+O programa inclui ações que visam beneficiar diretamente minorias sociais, garantindo que esses grupos tenham acesso à infraestrutura
+moderna e segura. O novo Centro Administrativo (Produto 1.2.1) atenderá a essa população, que é a que mais necessita dos serviços
+públicos, em um só lugar proporcionando mais eficiência. A requalificação de praças e parques (Produto 1.1.3) foi pensada para atender
+às necessidades das populações desfavorecidas, promovendo inclusão e equidade. Esses espaços públicos oferecerão áreas de
+convivência e lazer, melhorando a qualidade de vida das minorias sociais residentes nas áreas mais vulneráveis.
+- Políticas voltadas para Juventude, Gênero e Raça (AEI 1.11):
+No âmbito do Programa de Capacitação em Gestão de Riscos (Produto 2.2), serão implementadas ações de capacitação específicas
+direcionadas a jovens e mulheres vulneráveis. Esses grupos terão acesso a treinamentos e cursos em gestão de riscos climáticos e
+resposta a desastres, com ênfase em práticas que fortaleçam suas capacidades de autossuficiência em situações de emergência e
+aumentem a participação dessas populações nas políticas de gestão de riscos climáticos.
+A prioridade para capacitar jovens tem relevância não só para informar sobre os desafios enfrentados, mas também educar sobre a
+importância da mitigação e adaptação, criando uma base sólida para futuras gerações. As mulheres terão prioridade na capacitação pois
+são mais afetadas pelos efeitos das mudanças climáticas e frequentemente chefiam suas famílias. Elas tendem a ter menos recursos e
+acesso a informações, o que as torna mais vulneráveis a desastres naturais. Mulheres capacitadas podem se envolver em processos de
+tomada de decisão e influenciar políticas públicas relacionadas ao clima, garantindo que suas necessidades e perspectivas sejam
+consideradas propiciando igualdade de gênero,
+
+Ações Específicas:
+Capacitação Exclusiva para Mulheres e Jovens:
+Descrição: Os cursos e treinamentos focados em gestão de riscos serão oferecidos prioritariamente a mulheres e jovens, promovendo sua
+ formação em práticas de resposta a emergências.
+Objetivo Específico: Ampliar as competências desses grupos em gestão de riscos, capacitando-os para serem agentes de apoio em suas
+comunidades durante eventos climáticos extremos.
+Cotas e Participação Prioritária:
+Descrição: Para garantir a inclusão, será adotada uma política de cotas de no mínimo 50% para participação para mulheres e jovens,
+reforçando a presença desses grupos nos programas de capacitação.
+Objetivo Específico: Garantir uma composição de gênero e faixa etária representativa nos programas de capacitação, promovendo maior
+participação feminina e jovem nas iniciativas de defesa civil.
+Essas políticas específicas visam promover uma inclusão social mais ampla, reforçando o engajamento de populações vulneráveis em
+ações de resposta a desastres, com o intuito de fortalecer a capacidade comunitária de Cachoeirinha frente aos desafios climáticos.
+(ii) População Beneficiada
+O programa beneficiará diretamente aproximadamente 141.303 pessoas, que correspondem à população total estimada de Cachoeirinha
+em 2024. Indiretamente, melhorará a resiliência climática da região metropolitana de Porto Alegre. Os principais beneficiados serão os
+residentes de áreas frequentemente afetadas por enchentes, como os bairros Imbuí, Eunice, Parque da Matriz e Carlos Wilkens e outros
+descritos na Matriz de Componentes.
+(iii) Benefício a Populações Vulneráveis
+As ações do programa são voltadas para atender populações de baixa renda que vivem em áreas sujeitas a inundações. Além disso, o
+programa inclui políticas específicas voltadas para a inclusão de minorias sociais, jovens e mulheres, com o objetivo de promover
+equidade e melhorar as condições de vida nas áreas mais vulneráveis. Essas populações serão priorizadas no acesso a infraestrutura
+moderna e segura, como a requalificação de parques e praças (Produto 1.1.3) e o fortalecimento das defesas contra enchentes por meio
+das Casas de Bombeamento (Produto 1.1.4).
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 19
+Moeda de Referência: Dólar
+Fontes Internas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Contrapartida Financeira
+CF
+US$
+17.630.000,00
+1,00
+17.630.000,00
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Asian Infrastructure Investment Bank - AIIB AIIB
+US$
+70.520.000,00
+1,00
+70.520.000,00
+Total:
+88.150.000,00
+88.150.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+(i) ARRANJO INSTITUCIONAL
+O município de Cachoeirinha será o mutuário do Programa, com a República Federativa do Brasil como garantidora. A Secretaria de
+Planejamento (SEPLAN) será responsável pela execução, coordenada por meio da Unidade de Gerenciamento do Programa (UGP). A
+Secretaria, na função de Órgão Executor, assumirá o planejamento, a gestão administrativa, o acompanhamento técnico e a avaliação do
+Programa. Sob a liderança do Secretário, caberá à Secretaria articular a participação das demais secretarias envolvidas, de acordo com
+suas competências específicas, para garantir a implementação eficaz das ações previstas. 
+A UGP atuará como interface principal entre a Prefeitura, o Banco Asiático de Investimento em Infraestrutura (AIIB), o Governo Federal e
+demais instituições públicas e privadas envolvidas no Programa. A UGP será responsável por garantir que as ações estejam em
+conformidade com o contrato de empréstimo e seus objetivos, incluindo o planejamento, execução e monitoramento físico e financeiro do
+Programa. A UGP será encarregada da avaliação de resultados e do cumprimento de prazos e metas estabelecidos, podendo contar com
+suporte operacional externo.
+(ii) MATRIZ DE RESPONSABILIDADE
+A Matriz de Responsabilidade Institucional RACI (Anexo 11) detalha as atividades do Programa, especificando os órgãos e suas
+respectivas atribuições. A seguir estão indicadas as funções de cada secretaria envolvida:
+Secretaria Municipal de Planejamento (SEPLAN): Coordenará o Programa, com a UGP diretamente vinculada. Responsável pela
+elaboração de Estudos Técnicos Preliminares (ETPs), Termos de Referência (TRs) e fiscalização de recebimentos de projetos e obras,
+com exceção das de pavimentação.
+Secretaria Municipal de Infraestrutura e Serviços Urbanos: Executará a elaboração de ETP e TR de pavimentação e acompanhará a
+fiscalização das obras de pavimentação.
+Secretaria Municipal de Administração: Suporte nos processos licitatórios, por meio da Superintendência de Compras.
+Secretaria Municipal da Fazenda: Realizará a liberação de recursos financeiros vinculados ao Programa e apoiará a UGP em questões
+financeiras.
+Secretaria Municipal de Captação de Recursos: Suporte na representação do Município junto a Ministérios e Instituições Bancárias.
+Secretaria Municipal de Meio Ambiente e Sustentabilidade: Realizará o licenciamento ambiental de obras do programa e apoiará na
+elaboração de ETPs e TRs para intervenções na Unidade de Conservação Tancredo Neves e no Plano Setorial de Arborização Urbana.
+Procuradoria Geral do Município: Prestar auxílio jurídico em todos os processos que envolvam aspectos legais do Programa.
+(iii) ARRANJO OPERACIONAL
+A Prefeitura de Cachoeirinha dispõe de equipe técnica qualificada para a execução do Programa. A equipe possui sólida experiência em
+projetos de infraestrutura de grande porte, incluindo operações de crédito com instituições nacionais e internacionais (Fonplata). Entre os
+profissionais dedicados à execução do Programa estão:
+01 Procurador especializado em contratos e licitações, acompanhando todos os processos licitatórios e jurídicos.
+05 Engenheiros responsáveis pela fiscalização das obras.
+05 Arquitetos para acompanhamento dos projetos, focados em intervenções urbanas e paisagísticas.
+02 Servidores com experiência em gestão de convênios, que realizarão a articulação entre os entes federativos e financiadores.
+02 Técnicos especializados em monitoramento ambiental e social, que acompanharão as atividades para garantir conformidade com as
+políticas de salvaguardas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 20
+A Prefeitura conta com experiência em programas de financiamento com instituições como o Banco Nacional de Desenvolvimento
+Econômico e Social (BNDES) e a Caixa Econômica Federal, o que reforça sua capacidade de gestão de grandes operações de crédito. Os
+servidores envolvidos no Programa foram capacitados em políticas de aquisição e gestão, incluindo capacitações recentes em padrões
+internacionais, o que favorece o alinhamento às políticas do AIIB.
+Os profissionais integram diversas secretarias da Prefeitura, conforme especificado na Matriz de Responsabilidade Institucional RACI, e
+terão papéis fundamentais no suporte técnico, gestão financeira, acompanhamento de intervenções e apoio aos processos de licitação. A
+equipe da UGP será alocada em um espaço exclusivo dentro do Órgão Executor.
+Apesar de a Prefeitura não ter experiência prévia com o AIIB, servidores experientes em operações de financiamento serão alocados na
+UGP ou consultados conforme necessário, aproveitando a proximidade com a capital, Porto Alegre/RS.
+(IV) CONHECIMENTO ACERCA DAS POLÍTICAS DO BANCO
+O Programa seguirá a "Directive on the Environmental and Social Framework" do AIIB como política de salvaguarda socioambiental. Para
+as políticas de aquisição, será adotada a "Procurement Policy" (versão de 26/06/2024 ou mais recente), disponível no site do AIIB, como
+referência para os processos de contratação.
+4.2. Execução/Executores
+Executor: Secretaria Municipal de Planejamento de Cachoeirinha/RS
+Representante Oficial: Paulo Garcia
+Endereço da Sede: Avenida GENERAL FLORES DA CUNHA, Nº 2209, VILA CACHOEIRINHA - Cachoeirinha/RS
+E-mail Institucional:
+Telefone: (51) 3041-7100
+Fax:
+CNPJ: 87990800000185 
+UF:
+4.3. Execução/Prazo
+Prazo de Desembolso:
+5
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+AIIB
+CF
+AIIB
+C - INFRAESTRUTURA RESILIENTE
+78.000.000,00
+745.000,00
+2.230.000,00
+   S - INTERVENÇÕES ESTRUTURANTES
+70.000.000,00
+745.000,00
+2.230.000,00
+      P - Restauração de infraestrutura urbana de vias afetadas pelas enchentes
+6.500.000,00
+195.000,00
+780.000,00
+      P -  Reabilitação mais resiliente da Av. General Flores da Cunha
+3.500.000,00
+0,00
+0,00
+      P - Requalificação e construção de praças e parques
+12.500.000,00
+250.000,00
+1.000.000,00
+      P - Reconstrução e construção das casas de bombeamento
+2.500.000,00
+300.000,00
+450.000,00
+      P - Execução de Canalização e Urbanização do Arroio Passinhos
+6.000.000,00
+0,00
+0,00
+      P - Execução do Plano de Drenagem
+7.000.000,00
+0,00
+0,00
+P - Execução de Obras Viárias Resilientes para Qualificar os Acessos e Facilitar a Mobilidade (RS
+ 010 e Prolongamento Av. Fernando Ferrari)
+25.000.000,00
+0,00
+0,00
+      P - Construção do viaduto na Av. Fernando Ferrari sobre a Av. Flores da Cunha
+7.000.000,00
+0,00
+0,00
+   S - EDIFICAÇÕES PÚBLICAS 
+8.000.000,00
+0,00
+0,00
+P - A construção do novo Centro Administrativo, que abrigará o Centro de Controle de Desastres
+e Combate a Emergências Climáticas (CCDCED)
+8.000.000,00
+0,00
+0,00
+C - INOVAÇÃO E FORTALECIMENTO NA GESTÃO DE RISCOS E NA PRESTAÇÃO DE
+SERVIÇOS
+7.750.000,00
+852.500,00
+1.250.000,00
+      P - Estudos e Projetos
+3.500.000,00
+231.000,00
+924.000,00
+      P - Programa de Capacitação em Gestão de Riscos
+100.000,00
+10.000,00
+40.000,00
+      P -  Estudos de Impacto das Mudanças Climáticas na Hidrologia de Cachoeirinha
+700.000,00
+49.000,00
+196.000,00
+      P -  Desenvolvimento de Ferramentas de Informações Geográficas (SIG)
+2.700.000,00
+540.000,00
+0,00
+      P - Sistema de Monitoramento de Cheias
+750.000,00
+22.500,00
+90.000,00
+C - GESTÃO DO PROGRAMA
+2.400.000,00
+52.000,00
+408.000,00
+      P - Supervisão técnica, ambiental e social 
+2.000.000,00
+40.000,00
+360.000,00
+      P - Apoio ao Gerenciamento do Programa 
+300.000,00
+12.000,00
+48.000,00
+      P -  Auditoria Externa
+100.000,00
+0,00
+0,00
+Total
+0,00
+1.649.500,00
+3.888.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+AIIB
+CF
+AIIB
+C - INFRAESTRUTURA RESILIENTE
+2.983.000,00
+13.142.000,00
+   S - INTERVENÇÕES ESTRUTURANTES
+2.823.000,00
+11.702.000,00
+      P - Restauração de infraestrutura urbana de vias afetadas pelas enchentes
+520.000,00
+2.080.000,00
+      P -  Reabilitação mais resiliente da Av. General Flores da Cunha
+140.000,00
+560.000,00
+      P - Requalificação e construção de praças e parques
+575.000,00
+2.300.000,00
+      P - Reconstrução e construção das casas de bombeamento
+300.000,00
+450.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 21
+      P - Execução de Canalização e Urbanização do Arroio Passinhos
+240.000,00
+960.000,00
+      P - Execução do Plano de Drenagem
+280.000,00
+1.120.000,00
+P - Execução de Obras Viárias Resilientes para Qualificar os Acessos e Facilitar a Mobilidade (RS
+ 010 e Prolongamento Av. Fernando Ferrari)
+768.000,00
+4.232.000,00
+      P - Construção do viaduto na Av. Fernando Ferrari sobre a Av. Flores da Cunha
+0,00
+0,00
+   S - EDIFICAÇÕES PÚBLICAS 
+160.000,00
+1.440.000,00
+P - A construção do novo Centro Administrativo, que abrigará o Centro de Controle de Desastres
+e Combate a Emergências Climáticas (CCDCED)
+160.000,00
+1.440.000,00
+C - INOVAÇÃO E FORTALECIMENTO NA GESTÃO DE RISCOS E NA PRESTAÇÃO DE
+SERVIÇOS
+1.045.000,00
+1.480.000,00
+      P - Estudos e Projetos
+259.000,00
+1.036.000,00
+      P - Programa de Capacitação em Gestão de Riscos
+10.000,00
+40.000,00
+      P -  Estudos de Impacto das Mudanças Climáticas na Hidrologia de Cachoeirinha
+56.000,00
+224.000,00
+      P -  Desenvolvimento de Ferramentas de Informações Geográficas (SIG)
+675.000,00
+0,00
+      P - Sistema de Monitoramento de Cheias
+45.000,00
+180.000,00
+C - GESTÃO DO PROGRAMA
+57.000,00
+428.000,00
+      P - Supervisão técnica, ambiental e social 
+40.000,00
+360.000,00
+      P - Apoio ao Gerenciamento do Programa 
+12.000,00
+48.000,00
+      P -  Auditoria Externa
+5.000,00
+20.000,00
+Total
+0,00
+4.085.000,00
+15.050.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+AIIB
+CF
+AIIB
+C - INFRAESTRUTURA RESILIENTE
+4.030.000,00
+18.695.000,00
+   S - INTERVENÇÕES ESTRUTURANTES
+3.830.000,00
+16.895.000,00
+      P - Restauração de infraestrutura urbana de vias afetadas pelas enchentes
+520.000,00
+2.080.000,00
+      P -  Reabilitação mais resiliente da Av. General Flores da Cunha
+245.000,00
+980.000,00
+      P - Requalificação e construção de praças e parques
+675.000,00
+2.700.000,00
+      P - Reconstrução e construção das casas de bombeamento
+250.000,00
+375.000,00
+      P - Execução de Canalização e Urbanização do Arroio Passinhos
+420.000,00
+1.680.000,00
+      P - Execução do Plano de Drenagem
+490.000,00
+1.960.000,00
+P - Execução de Obras Viárias Resilientes para Qualificar os Acessos e Facilitar a Mobilidade (RS
+ 010 e Prolongamento Av. Fernando Ferrari)
+960.000,00
+5.290.000,00
+      P - Construção do viaduto na Av. Fernando Ferrari sobre a Av. Flores da Cunha
+270.000,00
+1.830.000,00
+   S - EDIFICAÇÕES PÚBLICAS 
+200.000,00
+1.800.000,00
+P - A construção do novo Centro Administrativo, que abrigará o Centro de Controle de Desastres
+e Combate a Emergências Climáticas (CCDCED)
+200.000,00
+1.800.000,00
+C - INOVAÇÃO E FORTALECIMENTO NA GESTÃO DE RISCOS E NA PRESTAÇÃO DE
+SERVIÇOS
+972.500,00
+1.190.000,00
+      P - Estudos e Projetos
+210.000,00
+840.000,00
+      P - Programa de Capacitação em Gestão de Riscos
+0,00
+0,00
+      P -  Estudos de Impacto das Mudanças Climáticas na Hidrologia de Cachoeirinha
+35.000,00
+140.000,00
+      P -  Desenvolvimento de Ferramentas de Informações Geográficas (SIG)
+675.000,00
+0,00
+      P - Sistema de Monitoramento de Cheias
+52.500,00
+210.000,00
+C - GESTÃO DO PROGRAMA
+57.000,00
+428.000,00
+      P - Supervisão técnica, ambiental e social 
+40.000,00
+360.000,00
+      P - Apoio ao Gerenciamento do Programa 
+12.000,00
+48.000,00
+      P -  Auditoria Externa
+5.000,00
+20.000,00
+Total
+0,00
+5.059.500,00
+20.313.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+AIIB
+CF
+AIIB
+C - INFRAESTRUTURA RESILIENTE
+3.448.800,00
+17.351.200,00
+   S - INTERVENÇÕES ESTRUTURANTES
+3.208.800,00
+15.191.200,00
+      P - Restauração de infraestrutura urbana de vias afetadas pelas enchentes
+65.000,00
+260.000,00
+      P -  Reabilitação mais resiliente da Av. General Flores da Cunha
+175.000,00
+700.000,00
+      P - Requalificação e construção de praças e parques
+625.000,00
+2.500.000,00
+      P - Reconstrução e construção das casas de bombeamento
+150.000,00
+225.000,00
+      P - Execução de Canalização e Urbanização do Arroio Passinhos
+300.000,00
+1.200.000,00
+      P - Execução do Plano de Drenagem
+350.000,00
+1.400.000,00
+P - Execução de Obras Viárias Resilientes para Qualificar os Acessos e Facilitar a Mobilidade (RS
+ 010 e Prolongamento Av. Fernando Ferrari)
+1.228.800,00
+6.771.200,00
+      P - Construção do viaduto na Av. Fernando Ferrari sobre a Av. Flores da Cunha
+315.000,00
+2.135.000,00
+   S - EDIFICAÇÕES PÚBLICAS 
+240.000,00
+2.160.000,00
+P - A construção do novo Centro Administrativo, que abrigará o Centro de Controle de Desastres
+e Combate a Emergências Climáticas (CCDCED)
+240.000,00
+2.160.000,00
+C - INOVAÇÃO E FORTALECIMENTO NA GESTÃO DE RISCOS E NA PRESTAÇÃO DE
+SERVIÇOS
+570.000,00
+120.000,00
+      P - Estudos e Projetos
+0,00
+0,00
+      P - Programa de Capacitação em Gestão de Riscos
+0,00
+0,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 22
+      P -  Estudos de Impacto das Mudanças Climáticas na Hidrologia de Cachoeirinha
+0,00
+0,00
+      P -  Desenvolvimento de Ferramentas de Informações Geográficas (SIG)
+540.000,00
+0,00
+      P - Sistema de Monitoramento de Cheias
+30.000,00
+120.000,00
+C - GESTÃO DO PROGRAMA
+57.000,00
+428.000,00
+      P - Supervisão técnica, ambiental e social 
+40.000,00
+360.000,00
+      P - Apoio ao Gerenciamento do Programa 
+12.000,00
+48.000,00
+      P -  Auditoria Externa
+5.000,00
+20.000,00
+Total
+0,00
+4.075.800,00
+17.899.200,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+AIIB
+CF
+AIIB
+C - INFRAESTRUTURA RESILIENTE
+2.433.200,00
+12.941.800,00
+13.640.000,00
+64.360.000,00
+   S - INTERVENÇÕES ESTRUTURANTES
+2.233.200,00
+11.141.800,00
+12.840.000,00
+57.160.000,00
+      P - Restauração de infraestrutura urbana de vias afetadas pelas enchentes
+0,00
+0,00
+1.300.000,00
+5.200.000,00
+      P -  Reabilitação mais resiliente da Av. General Flores da Cunha
+140.000,00
+560.000,00
+700.000,00
+2.800.000,00
+      P - Requalificação e construção de praças e parques
+375.000,00
+1.500.000,00
+2.500.000,00
+10.000.000,00
+      P - Reconstrução e construção das casas de bombeamento
+0,00
+0,00
+1.000.000,00
+1.500.000,00
+      P - Execução de Canalização e Urbanização do Arroio Passinhos
+240.000,00
+960.000,00
+1.200.000,00
+4.800.000,00
+      P - Execução do Plano de Drenagem
+280.000,00
+1.120.000,00
+1.400.000,00
+5.600.000,00
+P - Execução de Obras Viárias Resilientes para Qualificar os Acessos e Facilitar a Mobilidade (RS
+ 010 e Prolongamento Av. Fernando Ferrari)
+883.200,00
+4.866.800,00
+3.840.000,00
+21.160.000,00
+      P - Construção do viaduto na Av. Fernando Ferrari sobre a Av. Flores da Cunha
+315.000,00
+2.135.000,00
+900.000,00
+6.100.000,00
+   S - EDIFICAÇÕES PÚBLICAS 
+200.000,00
+1.800.000,00
+800.000,00
+7.200.000,00
+P - A construção do novo Centro Administrativo, que abrigará o Centro de Controle de Desastres
+e Combate a Emergências Climáticas (CCDCED)
+200.000,00
+1.800.000,00
+800.000,00
+7.200.000,00
+C - INOVAÇÃO E FORTALECIMENTO NA GESTÃO DE RISCOS E NA PRESTAÇÃO DE
+SERVIÇOS
+270.000,00
+0,00
+3.710.000,00
+4.040.000,00
+      P - Estudos e Projetos
+0,00
+0,00
+700.000,00
+2.800.000,00
+      P - Programa de Capacitação em Gestão de Riscos
+0,00
+0,00
+20.000,00
+80.000,00
+      P -  Estudos de Impacto das Mudanças Climáticas na Hidrologia de Cachoeirinha
+0,00
+0,00
+140.000,00
+560.000,00
+      P -  Desenvolvimento de Ferramentas de Informações Geográficas (SIG)
+270.000,00
+0,00
+2.700.000,00
+0,00
+      P - Sistema de Monitoramento de Cheias
+0,00
+0,00
+150.000,00
+600.000,00
+C - GESTÃO DO PROGRAMA
+57.000,00
+428.000,00
+280.000,00
+2.120.000,00
+      P - Supervisão técnica, ambiental e social 
+40.000,00
+360.000,00
+200.000,00
+1.800.000,00
+      P - Apoio ao Gerenciamento do Programa 
+12.000,00
+48.000,00
+60.000,00
+240.000,00
+      P -  Auditoria Externa
+5.000,00
+20.000,00
+20.000,00
+80.000,00
+Total
+88.150.000,00
+2.760.200,00
+13.369.800,00
+17.630.000,00
+70.520.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+Para assegurar a execução eficaz do programa, destacam-se os atos legais necessários, seu estágio atual, os riscos associados e as
+ações mitigadoras a serem adotadas.
+a. Projeto de Lei para Contratação de Crédito Externo
+Ato Legal: Projeto de Lei autorizando o município a contratar operação de crédito externa, com o aval da União.
+Estágio Atual: Em fase de elaboração para envio ao Legislativo após a aprovação da Carta Consulta pela COFIEX.
+Risco: Possível atraso na tramitação legislativa.
+Ação Mitigadora: Preparar comunicação direta com o Legislativo, destacando a relevância do financiamento para mitigação de impactos
+climáticos, e manter monitoramento contínuo dos trâmites.
+b. Atualização do Plano Diretor com Plano Setorial de Drenagem Urbana
+Ato Legal: Atualização do Plano Diretor para incorporar o Plano Setorial de Drenagem Urbana.
+Estágio Atual: Comissão instituída (Decreto nº 7534 de 13 de outubro de 2022) para elaboração do Termo de Referência e futura
+contratação do Plano Setorial.
+Risco: Demora na finalização do Termo de Referência e licitação.
+Ação Mitigadora: Acompanhar a comissão responsável e alocar recursos adicionais se necessário, com apoio contínuo da UGP para
+garantir o cronograma.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 23
+c. Atualização do Plano Diretor com Plano Setorial de Arborização
+Ato Legal: Inclusão das diretrizes do Plano Setorial de Arborização no Plano Diretor.
+Estágio Atual: Preparação para abertura de licitação para contratação de empresa especializada.
+Risco: Demora na seleção da empresa e elaboração do plano.
+Ação Mitigadora: Estabelecer cronograma detalhado com etapas de licitação e priorizar contratos com experiência comprovada,
+otimizando a supervisão do processo pela UGP.
+d. Decretos de Utilidade Pública para Desapropriações na RS-010
+Ato Legal: Emissão de decretos de utilidade pública para desapropriações na área da RS-010.
+Estágio Atual: Pendente de diagnóstico das áreas afetadas.
+Risco: Atraso na identificação e notificação de áreas para desapropriação.
+Ação Mitigadora: Antecipar estudos e avaliações para emissão dos decretos em tempo hábil, contando com apoio de consultoria externa
+se necessário.
+e. Termo de Cooperação Técnica com o Governo do Estado do Rio Grande do Sul para RS-010
+Ato Legal: Formalização do termo de cooperação técnica para implementação da RS-010.
+Estágio Atual: Em planejamento inicial, para alinhamento das responsabilidades entre Estado e Município.
+Risco: Descompasso nos prazos de execução entre o município e o Estado.
+Ação Mitigadora: Manter diálogo constante com o Governo do Estado para alinhamento de cronogramas e apoio técnico.
+
+Riscos de Ordem Legal e Institucional e Ações Mitigadoras
+Titularidade dos Bens e Licenciamento Ambiental
+Risco: Atraso na obtenção das licenças ambientais e titularidade de bens essenciais para a execução das obras.
+Ação Mitigadora: Antecipar o mapeamento das áreas afetadas para definir titularidades e necessidades de licenciamento. Criar uma
+equipe técnica na UGP para atuar diretamente na interlocução com órgãos como SEMA/RS, FEPAM, DAER, METROPLAN e SMMAS,
+promovendo consultas e análises prévias para minimizar possíveis incompatibilidades.
+Regulação Ambiental e de Proteção Social
+Risco: Conformidade com as normas de salvaguardas ambientais e sociais do AIIB e regulamentos locais.
+Ação Mitigadora: Assegurar conformidade com normas como a Lei Estadual n° 10.330/2010 e as diretrizes do AIIB. A UGP contará com
+consultoria especializada para assegurar que os planos estejam de acordo com as NBR 10004/2004 e Resoluções do CONAMA e
+CONSEMA, além de se alinhar com as normas do FEPAM e SMMAS.
+Desapropriações e Indenizações
+Risco: Impasses com proprietários das áreas identificadas para desapropriação.
+Ação Mitigadora: Realizar audiências públicas e consultas comunitárias para explicar o impacto positivo das obras e estabelecer um plano
+de comunicação claro e transparente, assegurando suporte jurídico pela Procuradoria Geral do Município.
+Apoio e Supervisão do AIIB
+Risco: Eventual descompasso no atendimento às políticas do AIIB em aquisições e salvaguardas.
+Ação Mitigadora: A equipe da UGP participará de treinamentos fornecidos pelo AIIB sobre as políticas de salvaguardas socioambientais e
+políticas de aquisição, além de manter uma comunicação regular para alinhamento contínuo.
+Essas ações permitirão ao município de Cachoeirinha gerenciar os riscos institucionais e legais ao longo da execução do Programa,
+assegurando uma implementação eficiente e em conformidade com as regulamentações vigentes.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 24
+5.2. RISCOS/CONTRATAÇÕES
+As ações do Programa de Resiliência Urbana e Inovação na Gestão de Riscos Climáticos estão diretamente relacionadas aos serviços
+prestados pelo quadro de servidores de carreira, especialmente nas áreas de arquitetura e engenharia, da Prefeitura de Cachoeirinha. As
+intervenções previstas exigirão uma intensificação da carga horária e especialização técnica de engenheiros e arquitetos, além de um
+aumento da capacidade de fiscalização e prestação de contas. Por esse motivo, a capacitação do quadro atual é vista como um pilar
+central para o sucesso do Programa, permitindo que os servidores ampliem seu conhecimento nas políticas de aquisições de organismos
+internacionais e se adaptem às exigências do financiamento.
+(i) Principais Contratações para a Execução do Programa
+Consultorias Técnicas Especializadas:
+Contratação de consultorias para a elaboração de estudos e projetos detalhados para o Plano Setorial de Drenagem Urbana e o Plano de
+Arborização, entre outros, garantindo o alinhamento com as políticas de salvaguarda do Banco Asiático de Investimento em Infraestrutura
+(AIIB).
+Objetivo: Fornecer suporte técnico altamente qualificado para atender às exigências de licenciamento ambiental e mitigação de riscos
+climáticos, além de adequar as práticas locais às diretrizes de financiadores internacionais.
+Capacitação e Formação para Servidores Municipais:
+Contratação de cursos e consultorias para capacitação em políticas de aquisição e salvaguardas socioambientais internacionais, com foco
+ nos servidores de engenharia, arquitetura e planejamento.
+Objetivo: Fortalecer a capacidade institucional, promovendo uma gestão mais eficiente e transparente, e garantir que as intervenções
+atendam às normas de qualidade e segurança estabelecidas.
+Serviços de Georreferenciamento e Aquisição de Imagens de Satélite:
+Já em processo licitatório, a contratação de uma empresa para realizar o mapeamento geoespacial do município, além das já adquiridas
+imagens de satélite de alta resolução para análise das áreas afetadas pela inundação de 2024.
+Objetivo: Subsidiar o planejamento e monitoramento urbano com dados precisos, permitindo uma resposta mais ágil e precisa a eventos
+climáticos extremos.
+Obras de Engenharia e Infraestrutura:
+Contratação de serviços para construção de infraestrutura de drenagem, reabilitação de vias de acesso, construção de casas de
+bombeamento e implementação de soluções de engenharia que aumentem a resiliência da cidade.
+Objetivo: Garantir que a infraestrutura municipal esteja preparada para enfrentar as consequências de eventos climáticos extremos,
+assegurando mobilidade e segurança para a população.
+Aquisição de Software e Equipamentos para Monitoramento:
+Aquisição de softwares de Sistema de Informações Geográficas (SIG) e equipamentos de monitoramento de cheias para análise em
+tempo real.
+Objetivo: Melhorar a gestão de risco, fornecendo dados essenciais para a tomada de decisões em situações de emergência e contribuindo
+ para uma operação eficiente das novas infraestruturas.
+(ii) Necessidade de Contratação de Pessoal
+Atualmente, não há previsão de contratação de novos servidores para implementação ou sustentabilidade do programa. As atividades de
+operação e manutenção das intervenções realizadas serão conduzidas pelos servidores municipais existentes, que receberão
+capacitações específicas para alinhar o trabalho às demandas do programa. 
+(iii) Riscos Associados às Contratações e Ações Mitigadoras
+Atrasos nos Processos de Licitação e Contratação:
+Risco: O cumprimento dos prazos pode ser comprometido devido à complexidade dos processos licitatórios para obras e serviços.
+Mitigação: Utilizar as flexibilidades da nova Lei de Licitações, especialmente a modalidade de contratação integrada, que permite maior
+agilidade nos procedimentos de aquisição.
+Limitações de Capacitação e Familiaridade com Normas Internacionais:
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 25
+Risco: O pouco conhecimento na prática das normas e políticas do AIIB pode gerar dificuldades na execução do programa. Apesar do
+município ter conhecimento das políticas do Banco, não possui experiência na prática ainda.
+Mitigação: Investir na capacitação dos servidores através de consultorias especializadas, promovendo treinamentos focados nas diretrizes
+do AIIB e em melhores práticas internacionais de gestão de riscos.
+Contratações de Softwares e Equipamentos Tecnológicos:
+Risco: Dificuldades na integração e uso dos novos sistemas adquiridos para monitoramento e gestão.
+Mitigação: Realizar treinamentos específicos para o uso dos softwares de SIG e dos equipamentos de monitoramento, com o objetivo de
+capacitar a equipe técnica na operação das novas ferramentas.
+Possíveis Impactos Ambientais e Sociais das Obras:
+Risco: As obras de infraestrutura, se não bem planejadas, podem gerar impactos ambientais e sociais.
+Mitigação: Adotar soluções baseadas na natureza sempre que possível, reduzindo os impactos ambientais e promovendo a
+sustentabilidade. Além disso, será priorizada a seleção de mão de obra local, incluindo a participação de mulheres na construção civil, de
+forma a promover o desenvolvimento econômico da região.
+Essas ações e medidas mitigadoras visam assegurar que as contratações sejam realizadas de forma eficiente, permitindo o progresso do
+programa e a implementação das intervenções necessárias para a adaptação climática e a resiliência de Cachoeirinha.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+A obra da RS-010 no município de Cachoeirinha apresenta potenciais riscos relacionados às desapropriações necessárias para a sua
+implementação, especialmente porque parte do traçado da rodovia afetará terrenos do Instituto Rio Grandense do Arroz (IRGA),
+propriedade do Estado do Rio Grande do Sul. Será essencial uma articulação política entre as esferas municipal e estadual para a
+concessão dessas áreas, exigindo um alinhamento efetivo entre os agentes políticos e administrativos.
+Ainda não há um levantamento específico do número de imóveis, área ou número de famílias impactadas, pois o traçado definitivo da RS-
+010 ainda não foi concluído. Assim que a definição do traçado estiver pronta, serão iniciados os levantamentos fundiários, incluindo:
+Levantamento e Cadastro Fundiário: Identificação dos imóveis e cadastro das famílias, mapeando as matrículas e condições de ocupação
+para a avaliação detalhada dos terrenos e estruturas afetadas. Esse processo é estimado em cerca de 6 meses após a definição do
+traçado e será fundamental para o planejamento e alocação dos recursos financeiros.
+Custos Estimados: A partir do levantamento, serão calculados os custos de desapropriação e indenização com base em avaliações justas,
+ conforme determinado pela legislação vigente.
+
+INSTRUMENTOS LEGAIS E COMPENSAÇÃO
+A execução das desapropriações será amparada por instrumentos legais, incluindo:
+Decreto de Utilidade Pública (DUP): Será publicado conforme o levantamento de áreas, possibilitando o processo legal de desapropriação.
+Compensações Financeiras e Assistenciais: As famílias e indivíduos afetados poderão receber compensações por meio de:
+Indenização Financeira: Garantida pela Lei Federal nº 3.365/41, Lei Federal nº 4.132/62 e Decreto-Lei nº 1.075/70, que asseguram a
+indenização justa para proprietários.
+Bônus Moradia e Auxílio Moradia: Será oferecido como alternativa às famílias que optarem por não adquirir nova propriedade com a
+indenização.
+Aluguel Social: Provisão de auxílio financeiro para garantir uma moradia temporária até a realocação definitiva das famílias.
+O aporte de recursos para essas compensações será feito pelo Governo Estadual, em conjunto com o município, que buscará recursos de
+ fontes estaduais e federais para apoiar a execução das desapropriações.
+RISCOS ASSOCIADOS E AÇÕES MITIGADORAS
+A seguir, os principais riscos identificados, associados à desapropriação, e suas respectivas estratégias de mitigação:
+Atraso na Obtenção de Titularidade e Licenças:
+Risco: Delays nos processos de titularidade e obtenção das licenças necessárias podem comprometer os cronogramas das obras.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 26
+Mitigação: Identificar as matrículas afetadas de forma ágil e iniciar os procedimentos de desapropriação 24 meses antes do início das
+obras, garantindo orçamento e estrutura técnica adequados.
+Impactos Sociais e Econômicos nas Famílias Afetadas:
+Risco: As desapropriações podem gerar impactos socioeconômicos significativos para as famílias e as comunidades afetadas.
+Mitigação: Implementar um Plano de Gerenciamento das Partes Interessadas que contemple apoio às famílias na adesão às políticas
+sociais disponíveis e mantenha comunicação clara e transparente com os afetados.
+Interrupção das Obras por Falta de Posse Definitiva:
+Risco: O início das obras sem a posse dos terrenos pode levar a interrupções e litígios.
+Mitigação: Assegurar a emissão da posse provisória antes do início das obras, seguindo os procedimentos do Decreto-Lei nº 3.365/41 e
+do Plano Municipal de Habitação de Interesse Social, supervisionado pela Secretaria Municipal de Habitação de Cachoeirinha.
+Essas ações visam garantir que o processo de desapropriação ocorra de forma justa e eficiente, minimizando os impactos nas
+comunidades e viabilizando a execução do projeto da RS-010.
+
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+A implementação do Programa exigirá licenciamentos ambientais que estarão sob a responsabilidade da empresa contratada para a
+elaboração de projetos, estudos e planos. O tipo e o porte de cada intervenção definirão se as licenças serão emitidas pela Secretaria
+Municipal de Meio Ambiente e Sustentabilidade (SMMAS) ou pela Fundação Estadual de Proteção Ambiental Henrique Luis Roessler (
+FEPAM).
+Situação dos Licenciamentos Requeridos
+Estudos Ambientais: O Programa inclui a realização de estudos de impacto ambiental (EIA), relatórios de impacto ao meio ambiente (
+RIMA) e diagnósticos específicos conforme exigido por lei, para avaliar e mitigar os impactos das intervenções.
+Tipo de Licenciamento: Licenças prévias, de instalação e de operação serão necessárias para garantir que todos os processos estejam
+em conformidade com as normas ambientais, especialmente para obras de drenagem, canalização e construção de infraestrutura.
+Possíveis Impactos Ambientais Os principais impactos previstos incluem:
+Degradação de Ecossistemas Locais: A canalização de arroios e obras em áreas naturais podem alterar habitats e impactar a fauna e flora
+.
+Poluição de Recursos Hídricos: Intervenções nos sistemas de drenagem podem impactar a qualidade da água nos arroios e rios, afetando
+a biodiversidade aquática.
+Redução da Vegetação e Alteração do Solo: A movimentação de solo e supressão de vegetação nas áreas de obras elevam o risco de
+erosão e comprometem a vegetação nativa.
+Riscos e Ações Mitigadoras Para minimizar os impactos ambientais, o Programa contempla as seguintes ações mitigadoras:
+Supervisão Técnica, Ambiental e Social das Obras
+Risco: A falta de acompanhamento técnico especializado pode comprometer o cumprimento das exigências ambientais e aumentar os
+impactos negativos.
+Ação Mitigadora: O programa prevê a contratação de uma empresa especializada para a Supervisão Técnica, Ambiental e Social das
+obras, com o objetivo de assegurar a implementação de todas as medidas de mitigação. Essa empresa garantirá o cumprimento rigoroso
+das licenças e orientações ambientais, monitorando os impactos e ajustando as ações conforme necessário.
+Planejamento Ambiental e Monitoramento Contínuo
+Risco: Falhas no licenciamento e monitoramento contínuo podem afetar a conformidade ambiental.
+Ação Mitigadora: Com a parceria da empresa de supervisão, será realizado um acompanhamento contínuo de todos os procedimentos de
+licenciamento, assegurando que as medidas de mitigação sejam aplicadas durante e após a execução das obras.
+Adoção de Soluções Baseadas na Natureza (SbN)
+Risco: O uso exclusivo de técnicas convencionais de construção pode aumentar o impacto ambiental e social.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 27
+Ação Mitigadora: A implementação de soluções baseadas na natureza, como jardins de chuva e sistemas de drenagem sustentável, será
+priorizada. Essas abordagens ajudam a reduzir o impacto ambiental e favorecem a adaptação climática e a conservação dos recursos
+naturais.
+Engajamento da Comunidade e Sensibilização Ambiental
+Risco: Falta de informação para a comunidade sobre os impactos e benefícios das obras, levando a conflitos e pressão sobre o
+ecossistema.
+Ação Mitigadora: Será desenvolvido um plano de engajamento comunitário para comunicar os benefícios ambientais e de resiliência das
+obras. A participação da comunidade será incentivada, promovendo um entendimento compartilhado sobre as intervenções e seus
+impactos ambientais.
+Essas ações garantirão que o Programa contribua para a sustentabilidade ambiental e a resiliência climática de Cachoeirinha,
+preservando os ecossistemas locais e proporcionando benefícios duradouros à população e ao meio ambiente.
+
+5.5. RISCOS/IMPACTO SOCIAL
+A implementação das intervenções urbanas previstas em Cachoeirinha poderá acarretar interferências temporárias na dinâmica social,
+resultando em impactos diretos e indiretos para a população, especialmente nas áreas de obra. Esses impactos, embora momentâneos,
+visam melhorias duradouras na qualidade de vida urbana e ambiental do município.
+Possíveis Interferências na População
+Transtornos Temporários de Mobilidade e Acessibilidade
+Impacto: A execução de obras, especialmente nas principais vias, pode causar congestionamentos, desvios de tráfego e restrições
+temporárias no acesso a determinados locais, dificultando a mobilidade dos moradores e o transporte público.
+Riscos: A interrupção temporária de acessos pode afetar a rotina de deslocamento, o transporte de cargas e o acesso a serviços
+essenciais, como escolas e unidades de saúde.
+Ações Mitigadoras: Será elaborado um plano de trânsito para minimizar os transtornos, com rotas alternativas bem sinalizadas e
+informação clara para a população. Equipes de comunicação trabalharão para manter a comunidade informada sobre o andamento das
+obras, utilizando redes sociais, rádio e parcerias com associações comunitárias.
+Ruído e Emissão de Poeira
+Impacto: Durante as obras, haverá aumento de ruído e emissão de poeira, especialmente em áreas próximas às intervenções de
+drenagem e infraestrutura viária.
+Riscos: Esses incômodos podem afetar a saúde e o bem-estar dos moradores, especialmente os grupos mais vulneráveis, como idosos,
+crianças e pessoas com problemas respiratórios.
+Ações Mitigadoras: Equipamentos com menores níveis de ruído serão utilizados sempre que possível, e a rega regular das vias e áreas de
+obra ajudará a reduzir a poeira. Além disso, as obras serão realizadas em horários estratégicos para minimizar o impacto nas áreas
+residenciais.
+Possíveis Deslocamentos e Reassentamentos
+Impacto: Algumas intervenções poderão demandar desapropriações e reassentamentos temporários. Isso representa um risco de impacto
+social significativo para as famílias afetadas, incluindo a interrupção da rotina e a possível perda temporária de renda.
+Riscos: Deslocamentos forçados podem gerar estresse e insegurança entre os moradores.
+Ações Mitigadoras: A administração municipal, com o apoio de assistentes sociais da Secretaria de Assistência Social e Cidadania,
+coordenará um processo de acompanhamento individualizado para cada família, assegurando indenizações justas e apoio psicológico e
+social. Serão oferecidos auxílios específicos, como bônus moradia e aluguel social, para garantir a segurança e o bem-estar das famílias
+durante o período de transição. Todos os reassentamentos e compensações seguirão a legislação vigente e as políticas de salvaguarda
+dos financiadores.
+Interrupção Temporária de Serviços Públicos
+Impacto: Obras de grande porte podem exigir o desligamento temporário de serviços públicos, como abastecimento de água e energia,
+especialmente nas áreas diretamente afetadas.
+Riscos: A falta de acesso a serviços essenciais pode gerar desconforto e transtornos para a população.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 28
+Ações Mitigadoras: Sempre que possível, as obras serão planejadas para evitar interrupções. Nos casos em que essas interrupções forem
+inevitáveis, a Prefeitura comunicará com antecedência os moradores e oferecerá alternativas, como o abastecimento provisório de água
+em pontos estratégicos.
+Participação e Diálogo com a Comunidade
+Impacto: A falta de comunicação adequada sobre o andamento das obras pode gerar desinformação, resistência e reclamações por parte
+da população.
+Riscos: A ausência de um diálogo transparente pode resultar em desconfiança e insatisfação entre a administração pública e a
+comunidade.
+Ações Mitigadoras: A Prefeitura promoverá encontros regulares e fóruns de participação pública, permitindo que a população expresse
+suas preocupações e sugestões. Os assistentes sociais da Secretaria de Assistência Social e Cidadania atuarão como ponto de contato
+para ouvir os moradores e mediar o diálogo entre a comunidade e a administração, fortalecendo a confiança e a cooperação.
+Populações Tradicionais Não há previsão de interferência direta em populações indígenas, quilombolas ou outros grupos étnico-culturais
+tradicionais, uma vez que as áreas de intervenção do programa não abrangem territórios ocupados por esses grupos.
+5.6. RISCOS/REASSENTAMENTOS
+A obra da RS-010, planejada como parte do programa de desenvolvimento de infraestrutura urbana em Cachoeirinha, é a única
+intervenção com potencial de requerer reassentamento de famílias. Em estudos preliminares não foram identificadas zonas residenciais
+que gerem volume considerável de reassentamento já que a intenção de implantação encontra-se em sua maior parte em áreas públicas
+ou industriais.
+No entanto, até o momento, o traçado da rodovia ainda não foi definido, de modo que não é possível afirmar com certeza se haverá a
+necessidade de reassentamento.
+Cadastro e Identificação das Famílias
+Descrição: Caso o traçado da RS-010, ao ser definido, indique a necessidade de reassentamento, será realizado um levantamento social
+detalhado para identificar as famílias afetadas, verificando a posse dos imóveis e elaborando laudos emitidos pelo Serviço Social do
+município. A prioridade será concedida ao cadastro em nome da mulher, sempre que possível, assegurando a equidade de gênero no
+processo.
+Critério de Reassentamento: As famílias afetadas, se houver necessidade de reassentamento, serão preferencialmente reassentadas em
+áreas adjacentes, em um raio de até 5 km de sua localização atual, preservando o máximo possível das atividades econômicas, relações
+de vizinhança e vínculos afetivos com o território.
+Situação Fundiária e Procedimentos Legais
+Descrição: A definição da necessidade de reassentamento dependerá do traçado final da RS-010. Caso ocorra, a Secretaria de Gestão e
+Governo, junto com a Procuradoria Municipal, conduzirá os processos de desapropriação, amparados por decretos de utilidade pública,
+assegurando a aplicação das medidas previstas no Plano de Trabalho do Serviço Social do Município.
+Instrumentos Legais: O processo será realizado em conformidade com as legislações vigentes, visando minimizar os impactos e
+assegurando que o processo de reassentamento, se necessário, ocorra com respaldo legal e apoio social.
+Fontes de Recursos e Compensação
+Aporte de Recursos: Caso haja necessidade de reassentamento, o município buscará apoio financeiro por meio de cooperativas
+habitacionais e convênios com o Governo Federal. Alternativamente, a Prefeitura poderá alocar recursos próprios ou utilizar imóveis
+oriundos de áreas parceladas por empreendedores, conforme o Plano Diretor Municipal (Lei Complementar nº11/2007).
+Custo Estimado de Reassentamento: Estima-se, caso necessário, um custo de aproximadamente R$ 120.000,00 por unidade habitacional,
+ com padrões que seguem o programa Minha Casa Minha Vida.
+Riscos Associados e Ações Mitigadoras
+Risco: O reassentamento, se ocorrer, pode acarretar a perda de vínculos sociais e econômicos das famílias afetadas.
+Mitigação: Estudos de Viabilidade Urbanística e Impacto de Vizinhança, realizados conforme o Estatuto das Cidades e a legislação
+municipal, avaliarão os possíveis impactos e proporão soluções de reassentamento adaptadas, com o mínimo de impacto social e
+ambiental.
+Monitoramento e Acompanhamento Social
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:42
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61248
+Página: 29
+Descrição: Caso ocorra o reassentamento, a Secretaria de Assistência Social e Cidadania prestará acompanhamento contínuo, garantindo
+ que as famílias tenham suporte durante a transição e integração à nova área, promovendo assistência social e programas de apoio.
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 

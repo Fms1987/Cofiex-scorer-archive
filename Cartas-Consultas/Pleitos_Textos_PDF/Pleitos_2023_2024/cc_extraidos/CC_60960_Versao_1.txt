@@ -1,0 +1,2522 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Programa de Urbanização de Assentamentos Populares Pro Morar Rio de Janeiro PROAP
+IV
+Nº Carta Consulta: 60960
+Mutuário: Prefeitura da Cidade do Rio de Janeiro
+Tipo de Operação: Operação de crédito externo
+Fontes Internas:
+Contrapartida Financeira: US$ 36.000.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 144.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+04
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 04
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 04
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 04
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 04
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 06
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 15
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 18
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 18
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 20
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 23
+3. FINANCIAMENTO .......................................................................................................................................................................................... 23
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 23
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 23
+4. EXECUÇÃO ...................................................................................................................................................................................................
+23
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 23
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 24
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 25
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 25
+5. RISCOS .......................................................................................................................................................................................................... 27
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 27
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 29
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 29
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 29
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 30
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 31
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+32
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+O Município do Rio de Janeiro possui uma população estimada em 6.775.561 habitantes, ocupando uma área de 1.200.329 km², sendo
+que aproximadamente 1,4 milhão destes habitantes vivem em assentamentos subnormais, perfazendo um percentual de 22,6%. Não
+obstante, a cidade possui o segundo maior PIB do Brasil, ultrapassando R$ 354,98 bilhões, além de um IDHM que a situa na 45ª posição
+nacional, sendo igual a 0,799 (IBGE-2010).
+
+A PCRJ e o BID possuem uma exitosa parceria iniciada em 1995 com a assinatura do Programa de Urbanização de Assentamentos
+Populares - PROAP I, que se derivou em mais outros 02 contratos - nos anos de 2002 e 2010, possibilitando a implementação de
+Programas de reconhecimento internacional, como o Favela-Bairro e o Morar Carioca. Tais políticas públicas resultaram em um avanço
+significativo no enfrentamento à pobreza e ao acesso à moradia digna, gerando importantes transformações urbanas que representaram
+melhorias em índices sociais, de emprego, renda, e qualidade de vida da população mais vulnerável.
+
+A partir deste pleito, a PCRJ busca restabelecer esta parceria, visando a realização de uma quarta fase do Programa, que possa dar conta
+das necessidades vigentes e incorpore contemporaneidades em seu escopo, considerando toda a experiência já realizada, porém lidando
+ com novos enfrentamentos típicos do nosso tempo.
+ 
+Considerando o patamar de Urbanização já alcançado com os Projetos anteriores, os assentamentos populares no RJ possuem novos
+desafios, que a despeito de sempre serem perpassados por necessidades básicas de infraestrutura e regularização fundiária, devem se
+ampliar no sentido de democratizar o acesso à cidade e à urbanização, para além dos limites informais desses assentamentos. Esse
+recorte atual deve considerar aumento da pobreza e vulnerabilidade social por conta das sucessivas crises econômicas do país, e da
+pandemia da COVID 19, que nos trouxe novas demandas para além do agravamento das já conhecidas.
+
+Segundo o Sistema de Assentamentos de Baixa Renda (SABREN), do Instituto Municipal de Urbanismo Pereira Passos - IPP, o território
+do Município do RJ abrange atualmente 1.074 favelas, assim distribuídas: AP1 - 73 Favelas; AP2 - 65 Favelas; AP3 - 400 Favelas; AP4 -
+202 Favelas e AP5 - 334 Favelas.
+
+Sabe-se que existem hoje no Município 444.893 habitantes (Fonte IBGE -2010) vivendo em condições de risco, sejam eles advindos de
+inundações, enxurradas ou deslizamentos. Embora os sistemas de infraestrutura urbana sejam acessíveis à maioria da população, ainda
+existem localidades aonde esses serviços não chegam ou são oferecidos sem a qualidade técnica desejada. 
+
+Visando minimizar essas condições e democratizar o acesso aos serviços básicos de infraestrutura urbana, suprir o déficit habitacional,
+diminuir a inadequação de moradias, universalizar o acesso aos meios digitais, promover a inclusão de populações minoritárias ou em
+risco social, mitigar riscos ambientais, atendendo as premissas de desenvolvimento sustentável, pretende-se solucionar ou minorar
+situações de precariedade de serviços, priorizando os seguintes problemas: 1.Deficiência em Rede de Esgotamento Sanitário; 2.
+Deficiência no Sistema de Abastecimento de Água; 3.Deficiência no Sistema De Drenagem Pluvial; 4.Deficiência na Iluminação Pública; 5.
+Falta de Acesso à Áreas de Esporte e Lazer; 6.Deficiência na Pavimentação de Ruas, Becos e Vielas; 7.Áreas de Risco Geotécnicas e de
+Inundação; 8.Falta de Acesso Digital Universal; 9.Inadequação Habitacional; 10.Déficit Habitacional; 11.Interconexão entre Favelas e
+Bairro Formal; 12. Utilização de Energia Limpa e Renovável; 13. Fragilidade no acesso às Políticas Públicas e Garantia de Direitos das
+Famílias em situação de vulnerabilidade social; 14. Agravamento das Desigualdades Sociais, de Gênero, Sexual e Étnico- Racial; 15.
+Precarização no acesso à qualificação profissional e na oferta de emprego e geração de renda; 16. Impermanência nas condições de
+preservação patrimonial e ambiental; 17. Regularização Urbanística e Fundiária.
+
+A Prefeitura pretende atender a regiões da cidade que se encontram em maior situação de vulnerabilidade. A opção de priorizar o
+atendimento a favelas da AP3 advém do fato de que nessa região se encontram o maior número de assentamentos subnormais, com os
+menores IDH e IDS da cidade, além de ser uma região com grande infraestrutura construída, próxima aos postos de trabalho, tornando-se
+uma região atraente para o adensamento populacional, em detrimento de regiões mais afastadas dos centros urbanos, que demandam
+grandes investimentos em infraestrutura urbana. Pretende-se também atender assentamentos subnormais nas AP4 e AP5, selecionados
+de acordo com seus IDH e IDS contando ainda com uma relação de custo/benefício com atendimento ao maior número de famílias
+possível.
+
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+O PROAP IV pretende reunir um conjunto de ações integradas e intersetoriais, com uma abordagem em que além das atuações
+tradicionais, haverá inclusão de novos componentes. Buscando intersetorialidade, juntando esforços para otimizar as atuações e atender
+as demandas de urbanização da cidade como um todo. Para isso, será levado em conta também projetos baseados na metodologia DOTS
+, com estudos realizados na região de V. Carvalho/Penha, no âmbito de uma cooperação técnica entre a PCRJ e o BID (2022).
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 3
+Pretende-se agir nas moradias, através de obras de Melhorias Habitacionais e Assistência Técnica, a fim de garantir salubridade e
+controle urbano, de modo a não comprometer futuramente as intervenções realizadas.
+O componente social atuará de maneira transversal, em todas as etapas do programa, incorporando as premissas da diversidade, do
+respeito à igualdade e equidade de direitos, assim como na horizontalização da comunicação, na democratização das informações e no
+fortalecimento da identificação e vinculação dos moradores com o território.
+Além disso, o projeto pretende utilizar a inclusão digital como meio de democratizar o acesso à informação.
+A proposta atual para a estruturação do PROAP IV parte da premissa da atuação em duas escalas diferenciadas.
+
+ESCALA LOCAL: na favela
+Nessa escala serão atendidas favelas nas AP3, AP4 e AP5, escolhidas de acordo com critérios técnicos, sociais e estratégicos. Essa ação
+desenvolver-se-á da maneira tradicional com a Urbanização Integrada (redes abastecimento de água, rede coleta esgoto sanitário, rede
+drenagem pluvial, sistema viário, praças e áreas de lazer, iluminação pública, melhoria do microclima e contenções de encostas) e oferta
+de moradias voltadas para reassentamento a partir da Produção Habitacional ou condicionada a compra assistida/subsídio habitacional.
+Somam-se a esses componentes a atuação em Melhorias Habitacionais - MH e Assistência Técnica em Habitação de Interesse Social -
+ATHIS, visando a melhoria das condições de habitabilidade das edificações em áreas em processo de urbanização. 
+Propõe-se também a criação das PRAÇAS DIGITAIS, como elemento urbano, criando uma conexão entre as áreas formais e informais.
+Essas praças serão alocadas em áreas públicas objetivando a inclusão digital franqueando acesso a população local com disponibilização
+de mobiliário urbano e rede  wi-fi, favorecendo a convivência e interação.
+
+ESCALA REGIONAL: no entorno da favela, favorecendo a integração entre a cidade formal e informal
+A grande novidade do PROAP IV será o atendimento de forma integral a centralidades, mediante a integração entre os diversos órgãos
+na implementação de projetos e obras, e levando em conta a parceria do BID em diversos projetos em desenvolvimento nesse momento
+para a PCRJ. O território escolhido será na AP3, baseado nas prioridades estabelecidas pelo Plano Diretor, aproveitando a farta
+infraestrutura disponibilizada e a intenção de revitalizar essas áreas através de incentivo ao comércio e às moradias, atuando contra o
+esvaziamento que ocorre nessas regiões. As intervenções se darão ao longo de eixos estruturantes de transporte, utilizando estudos
+realizados com conceitos de DOTS. A área escolhida será o eixo V.Carvalho-Penha ao longo da linha do BRT, com foco na centralidade
+da PENHA. O Programa propõe intervenções não só no núcleo das favelas, mas também em suas áreas formais lindeiras, integrando
+tramas da cidade de fato, pensando seu formato de urbanização à luz de temas como sustentabilidade urbana e mudanças climáticas, em
+uma visão urbana mais sistêmica e com territorialidade.
+A urbanização abrangerá a Requalificação das Centralidades e das Conexões e implantação de um equipamento âncora. Essas atuações
+se somarão às da ESCALA LOCAL.
+Para além das Escalas de Atuação, o PROAP IV contará com ações transversais que permearão todas as atividades, quais sejam:
+Trabalho Técnico Social e o Programa Territórios Sociais; Integração das políticas públicas e da rede socioassistencial privada nos
+territórios; Regularização Fundiária; Mitigação de risco social e ambiental; Preservação do Meio Ambiente; Inclusão Digital;
+Desenvolvimento Institucional e Monitoramento e avaliação do Programa. 
+Na implementação das duas escalas, a PCRJ pretende atender a 15.402 domicílios, sendo que a maior atuação se dará na AP3,
+prioridade essa afirmada pelo maior número de favelas e domicílios situados em assentamentos subnormais e atendendo às diretrizes do
+Plano Diretor e do Planejamento Estratégico. 
+ANEXO 1 - Mapa demonstrativo das áreas elegíveis para urbanização com Diagnóstico e Mapa de localização.
+ANEXO 2 - Tabela correlacionando os problemas apresentados no item 1.1 e respectivas soluções propostas.
+
+RESULTADOS ESPERADOS
+A SMH busca promover o reordenamento urbano na cidade visando à integração às políticas habitacionais de âmbito federal e estadual,
+bem como às demais políticas setoriais do município, em particular as de desenvolvimento urbano, ambiental e de inclusão social, de
+forma a reconhecer a moradia como direito básico da população. Espera-se como resultado a inclusão social e urbana das famílias
+atendidas, a disseminação da cultura de paz nos territórios, reconhecendo a existência de demandas específicas e diferenciadas, tais
+como o significativo número de famílias chefiadas por mulheres, da população portadora de necessidades especiais, da população idosa,
+bem como reconhecimento da diversidade de gênero. Com isso, reconhece-se a função social da cidade e da propriedade, levando em
+conta as demandas da sustentabilidade, entendida como o desenvolvimento local socialmente justo, ambientalmente equilibrado e
+economicamente viável, visando garantir qualidade de vida para presentes e futuras gerações.
+
+SUSTENTABILIDADE
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 4
+As ações nas favelas e seus entornos terão a sua manutenção física e funcionalidade garantidas pelos seguintes órgãos com as ações
+inseridas na estrutura vigente, sem previsão de gastos incrementais adicionais: Secretaria Coordenação Governamental; Rioluz; Rio-
+Águas; Secretaria Conservação; Comlurb. A sustentabilidade social das intervenções será trabalhada ao longo do programa com ações de
+fortalecimento comunitário, como: participação de mão obra local nos canteiros, projetos de desenvolvimento socioprodutivo, que deem
+sustentação às intervenções físicas, mas também contribuem à elevação da renda e do bem-estar da família. Estas estratégias
+maximizam o sentimento de pertencimento e o investimento individual na casa e no bairro, e contribuem à elevação geral da qualidade de
+vida nos territórios.
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+As ações propostas por este Programa se encontram em harmonia com as orientações estratégicas estabelecidas no Plano Diretor - LC nº
+111/11 (Anexo 3), e suas alterações previstas no PLC nº 44/21, Lei Municipal de Mudanças Climáticas - Lei nº 5.248/11 (Anexo 4), Plano
+Plurianual 2021-2024 - Lei nº 7.234/22 (Anexo 5), Plano de Desenvolvimento Sustentável e Ação Climática - Lei Municipal nº 6.906/21,
+Decreto nº 48.940/21 (Anexo 6) com diretrizes de médio e longo prazo que norteiam o plano de investimentos do Município. Tais
+intervenções são compatíveis com a Agenda 2030 e a Estratégia de Adaptação da Cidade às Mudanças Climáticas (Anexo 7) que
+compreende a avaliação do potencial de exposição e a sensibilidade da Cidade do RJ frente aos perigos climáticos e estabelece um
+conjunto de medidas de adaptação para aumento da resiliência dos sistemas selecionados como prioritários e fortalecer a capacidade
+institucional e de pessoas.  
+
+O Programa possui também ações relacionadas à Habitação em consonância com o alinhamento contido no Plano Estratégico 2021-2024
+(Anexo 8) em vigor que tem como Temas de Desenvolvimento Sustentável vinculados:1) Igualdade e Equidade; 2) Longevidade e Bem-
+estar; 3) Mudanças Climáticas e Resiliência e 4) Corredores de Sustentabilidade nas 5 (cinco) APs da Cidade do RJ.  
+
+O Programa pretende alcançar itens das metas 3, 4, 5, 6, 7, 8, 11 e 13 dos Objetivos de Desenvolvimento Sustentável da ONU.
+
+Quanto aos recursos orçamentários, tanto da contrapartida quanto do financiamento, eles já foram incluídos no PLOA 2023 nº 1513/2022,
+na proporção do cronograma estimado para o projeto. (Anexo 9).
+
+Dessa forma, o Município formula a presente Carta com investimentos de US$180.000.000,00 (cento e oitenta milhões de dólares norte-
+americanos), a serem aplicados, sendo 80% financiados e 20% de contrapartida.
+ 
+Quanto à taxa utilizada de câmbio nesta carta consulta foi considerado o câmbio de 5,2941 de reais por dólar aplicado, considerando data
+base de 30/11/2022, segundo dados do Banco Central. 
+
+Com relação aos recursos de contrapartida, o município garante sua contrapartida de no mínimo 20% no período proposto de 06 (seis)
+anos de execução, apresentada por recursos provenientes de receitas tributárias previstas nos artigos 156, 158 e 159, inciso I, (b), da CF/
+88, conforme estabelecido na Resolução nº 3, de 29/05/19 - COFIEX, eliminando assim os riscos de falta de recursos para a conclusão do
+Programa.
+
+2. Projeto
+2.1. Título
+Programa de Urbanização de Assentamentos Populares Pro Morar Rio de Janeiro PROAP IV
+2.2. Título Abreviado
+PROAP IV
+2.3. Mutuário
+Prefeitura da Cidade do Rio de Janeiro
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+Objetivo geral
+
+O Programa visa melhorar a qualidade de vida dos moradores de assentamentos subnormais da cidade do Rio de Janeiro, prevendo, além
+das obras de urbanização e infraestrutura, um conjunto de ações sociais integradas, a participação da população, a regularização
+urbanística e fundiária e apoio ao desenvolvimento de capital humano e social destas comunidades.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 5
+
+Objetivos Específicos
+
+a) Dotar os assentamentos subnormais de infraestrutura de saneamento básico e urbanização com qualidade e eficiência;
+b) Promover melhorias habitacionais e assistência técnica nos assentamentos definidos pelo Município, buscando uma maior qualidade de
+vida para as famílias, a partir da redução de insalubridade, melhora no conforto térmico e incentivo a utilização de energia limpa e
+renovável;
+c) Promover a interconexão entre favela e bairro formal através de integração de serviços públicos e infraestrutura urbana;
+d) Acessar as famílias e seus territórios, através do levantamento de suas realidades, necessidades e potencialidades, promovendo a
+participação e protagonismo dos moradores em todas as etapas previstas na intervenção.
+e) Desenvolver as ações jurídicas, urbanísticas, ambientais e sociais destinadas à incorporação ao ordenamento territorial urbano dos
+assentamentos subnormais abrangidas pelo Programa, visando reconhecer e garantir a segurança da posse de seus ocupantes,
+concedendo o seu título de propriedade.
+f) Promover a modernização do sistema de monitoramento SIHAB, considerando a interface ou desenvolvimento de aplicativos com outros
+sistemas, com vistas a otimizar a obtenção de dados, possibilitando o planejamento adequado para nortear a tomada de decisão em
+relação aos programas e políticas habitacionais. 
+g) Implementar um Sistema de Monitoramento e Uso do Solo para que a Prefeitura possa agir de forma preventiva e corretiva no controle
+de ocupações irregulares do solo urbano
+h) Implementar o monitoramento, realizar uma avaliação de impacto e uma avaliação econômica do programa;
+i) Capacitação da equipe da PCRJ visando aprimoramento das políticas públicas vinculadas ao Programa.
+j) Fortalecimento Institucional da Gestão em Habitação de Assentamentos Subnormais, com a implantação de um Programa de políticas
+públicas mais voltadas para as Habitações de Interesse Social e sua regulamentação que visem garantir aos beneficiários o sentido de
+pertencimento e de resiliência aos desastres naturais e adaptação as mudanças climáticas.
+
+2.6. Projeto/Indicadores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 6
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Domicílios que recebem serviços de
+infraestrutura urbana (água, rede de esgoto,
+drenagem pluvial, pavimentação, iluminação
+pública, áreas de esporte e lazer e mitigação de
+risco geotécnico) com qualidade e eficiência na
+área de intervenção
+80% dos domicílios da
+área, conforme o
+último CENSO de
+2010, acrescidos 10%
+pela defasagem de
+tempo
+Domicílios
+0,00
+12.320,00
+Domicílios atendidos com Melhorias
+Habitacionais e Assistência Técnica
+80% de 12% do total
+de domicílios do (
+CENSO 2010 + 10%)
+Domicílios
+0,00
+1.470,00
+Favelas declaradas Área de Especial Interesse
+Social ou modificadas para incluir as áreas de
+intervenções do PROAP 4
+Percentual das áreas
+elegíveis a serem
+contempladas com as
+intervenções do
+Programa
+Percentual
+0,00
+100,00
+Emissão de Título de Domínio para os
+Domicílios inseridos em PAL aprovados
+20% dos Domicílios
+Domicílios
+0,00
+3.080,00
+Redução do índice de pobreza multidimensional
+nas áreas de intervenção
+Diminuição do risco
+social de 80% das
+famílias identificadas
+com risco 2 e 3 do
+Índice de Pobreza
+Multidimensional (IPM
+) após a realização da
+busca ativa do
+programa Territórios
+Sociais 
+Percentual de
+famílias
+0,00
+80,00
+Participação dos moradores nas atividades do
+Projeto de Trabalho Social nas áreas de
+intervenção
+Total de moradores
+presentes nas
+atividades (a linha de
+base é zero porque
+esse trabalho ainda
+não foi implementado
+nas áreas de
+intervenção)
+Percentual
+0,00
+50,00
+Famílias acompanhadas no Plano de
+Realocação
+famílias alvo da
+realocação
+Percentual
+0,00
+100,00
+2.7. Projeto/Componentes
+Componentes
+Valor(US$)
+C - MELHORIAS URBANAS E SOCIAIS
+166.570.246,00
+   S - ESTUDOS E PROJETOS 
+3.512.383,00
+      P - Projetos de Urbanização Integrada Favelas 
+2.820.774,00
+      P - Projetos de Urbanização de entorno e Centralidades
+691.609,00
+   S - URBANIZAÇÃO INTEGRADA, ENTORNO E CENTRALIDADES
+109.160.902,00
+      P - Obras de Urbanização Integrada 
+80.562.725,00
+      P - Obras de Requalificação Urbana de entorno e centralidade 
+23.053.637,00
+      P - Obras de Melhorias Habitacionais
+5.544.540,00
+   S - REGULARIZAÇÃO URBANÍSTICA E FUNDIÁRIA
+4.620.450,00
+      P - Processo de Regularização Urbanística e Fundiária
+4.620.450,00
+   S - REALOCAÇÃO DE EDIFICAÇÕES 
+41.996.970,00
+      P - Produção Habitacional / Compra Assistida
+41.996.970,00
+   S - PROGRAMAS SOCIAIS 
+7.279.541,00
+      P - Territórios Sociais 
+484.818,00
+      P - Trabalho de Acompanhamento Social para Realocação 
+634.123,00
+      P - Trabalho de Acompanhamento Social para execução das Obras de Urbanização
+6.160.600,00
+C - GESTÃO DO PROGRAMA
+13.429.754,00
+   S - GERENCIAMENTO
+10.865.664,00
+      P - Apoio à Gestão do Programa, Supervisão de Obras e Fortalecimento Institucional
+10.865.664,00
+   S - DESENVOLVIMENTO INSTITUCIONAL
+2.564.090,00
+      P - AMPLIAÇÃO DO SISTEMA DE MONITORAMENTO DE DADOS MUNICIPAL
+480.000,00
+      P - MONITORAMENTO E AVALIAÇÃO DE IMPACTO DO PROGRAMA
+924.090,00
+      P - SISTEMA DE MONITORAMENTO E USO DO SOLO
+1.160.000,00
+Total dos Componentes
+180.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 7
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - MELHORIAS URBANAS E SOCIAIS
+Esse componente engloba a elaboração de estudos e projetos de Urbanização Integrada de favelas e de centralidades, obras de
+Urbanização Integrada de favelas e centralidades, obras de Melhorias Habitacionais, execução de processos de Regularização
+Fundiária e Urbanística, Plano de Reassentamento incluindo os produtos de Produção Habitacional e Compra Assistida e todo
+Trabalho Técnico Social com os moradores em integração com o programa Territórios Sociais. Para cada favela e centralidade
+será elaborado um projeto de urbanização seguindo os critérios estabelecidos pela SMH, que posteriormente se materializará em
+obras de urbanização e trabalho social, após as devidas aprovações nas Concessionárias de Serviços Públicos. O propósito do
+componente é fazer com que as favelas se integrem à malha urbana da cidade e aos sistemas de manutenção da Prefeitura.
+   S - ESTUDOS E PROJETOS 
+O subcomponente de Estudos e Projetos deverá dar conta da elaboração dos projetos de urbanização integrada e melhorias
+habitacionais, entendendo o projeto como o conjunto de elementos técnicos, tais como desenhos, orçamento, termos de referência,
+ dentre outros, destinados à caracterização de obras para contratação. 
+O projeto básico a ser futuramente licitado para execução de obras deverá ser desenvolvido de acordo com as normas técnicas e
+legislação vigente e composto por desenhos, especificações, memorial de cálculo, e demais elementos suficientes para
+estabelecer com a precisão devida aspectos constitutivos com todas as características, dimensões e quantidades necessárias à
+execução das obras. 
+      P - Projetos de Urbanização Integrada Favelas 
+Para cada uma das favelas futuramente selecionadas serão elaborados, conforme necessidade, os seguintes projetos:
+a) Sistema de Abastecimento de Água: construção, expansão e recuperação de redes de abastecimento de água e dos demais
+elementos do sistema. 
+Os projetos serão elaborados em obediência as Normas Técnicas da ABNT, pertinentes a matéria, e em conformidade com
+diretrizes e especificações normativas das Concessionárias do serviço de abastecimento de água que atuam no Município do Rio
+de Janeiro.
+Na concepção do projeto serão consideradas as informações e orientações contidas no documento DPA - Declaração de
+Possibilidade de Abastecimento emitido pela concessionária em resposta a CPAE - Consulta de Possibilidade de Esgotamento e
+Abastecimento aberta pelo município, junto a concessionária.
+Na DPA estarão presentes orientações pertinentes a elaboração do projeto de abastecimento de água, materializadas nas
+informações referentes ao ponto de interligação da rede projetada com a rede existente, a pressão disponível na rede existente no
+ponto de interligação, o regime de abastecimento, o diâmetro e o material do distribuidor indicado na DPA para ligação e o
+consumo diário por domicilio. Em algumas situações, o ponto de interligação com a rede existente, indicado na DPA, não estará
+localizada no limite da área de intervenção e nesses casos, haverá necessidade de uma obra de retaguarda para aduzir o
+abastecimento até a área de projeto.
+O projeto será desenvolvido em base cartográfica obtida de levantamento topográfico planialtimétrico e cadastral realizado na área
+de projeto, estendendo-se o levantamento sobre a área necessária para o projeto das obras de retaguarda, quando indicadas na
+DPA.
+A concepção do sistema de abastecimento de água potável será desenvolvida amparada nas informações fornecidas pelo
+documento DPA e no levantamento topográfico realizado. Assim, conforme o regime de abastecimento (permanente ou
+intermitente), a pressão disponível na rede existente, a localização do ponto de interligação do sistema projetado com a rede
+existente, informações contidas na DPA e a altimetria do relevo da área de projeto fornecida pelo levantamento topográfico, serão
+definidos os possíveis componentes do sistema: adução, estação elevatória/recalque, reservatório, rede de distribuição.
+Conjunturas locais, pertinentes a cada região de projeto, também serão consideradas na elaboração dos projetos e definição dos
+componentes do sistema.
+Os projetos elaborados em obediência as normas técnicas vigentes serão submetidos a análise das concessionárias do serviço de
+ abastecimento de água potável, conforme a região de abrangência de cada empresa, para posterior aprovação.
+b) Sistema de Coleta de Esgoto Sanitário: construção, expansão e recuperação de redes de esgotamento sanitário e dos demais
+elementos do sistema, incluindo ETE's e ligações domiciliares. 
+Os projetos serão elaborados em obediência as Normas Técnicas da ABNT, pertinentes a matéria, e em conformidade com
+diretrizes e especificações normativas das Concessionárias do serviço de esgotamento sanitário que atuam no Município do Rio de
+ Janeiro.
+Na concepção do projeto serão consideradas as informações e orientações contidas no documento DPE - Declaração de
+Possibilidade de Esgotamento emitido pela concessionária em resposta a CPAE - Consulta de Possibilidade de Esgotamento e
+Abastecimento aberta pelo município, junto a concessionária.
+Na DPE estarão presentes orientações referentes ao destino final da rede coletora a ser projetada, podendo ser uma rede
+existente com destinação final de efluentes adequada as exigências da legislação ou na ausência, a indicação da necessidade de
+projetar uma ETE - Estação de Tratamento de Esgotos.  Em algumas situações, a rede coletora existente com destinação final
+adequada não estará localizada no limite da área de intervenção e nesses casos, haverá necessidade de uma obra de retaguarda
+para conduzir o efluente sanitário até o ponto de interligação com a rede existente indicada na DPE.
+O projeto será desenvolvido em base cartográfica obtida de levantamento topográfico planialtimétrico e cadastral realizado na área
+de projeto, estendendo-se o levantamento sobre a área necessária para o projeto das obras de retaguarda, quando indicadas na
+DPE.
+O sistema de esgotamento sanitário a ser adotado será do tipo separador absoluto com regime de escoamento em lâmina livre,
+garantida a condição de auto limpeza dos coletores. Não será admitido o ingresso intencional de águas pluviais no coletor de
+esgotos, exceto a contribuição de infiltração e dentro dos parâmetros aceitáveis na NBR 9649.
+O projeto deve atender a todos os domicílios em cada comunidade, com rede coletora de esgotos assentada em uma das testadas
+do domicilio, considerando a orientação da saída da ligação domiciliar existente na unidade residencial. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 8
+Os projetos elaborados em obediência as normas técnicas vigentes serão submetidos a análise das concessionárias do serviço de
+esgotamento sanitário, conforme a região de abrangência de cada empresa, para posterior aprovação.
+c) Sistema Viário: construção, recuperação, expansão, pavimentação e obras complementares para ruas, becos, calçadas,
+caminhos, escadas e pequenas obras de arte com sinalização vertical, horizontal e nomenclatura dos logradouros. 
+O projeto deverá conceber um sistema viário que promova a melhoria da permeabilidade externa-interna a cada favela. Além disso,
+a proposta deverá prover acesso, ao menos com vias de serviço, a todos os domicílios. As vias locais internas deverão possuir
+acesso prioritariamente a vias coletoras. O sistema viário interno não poderá ter hierarquia superior à via coletora. Serão premissas
+ do projeto a organização e hierarquização do sistema viário, respeitando a classificação da CET-RIO e ainda: 
+Otimizar a integração do sistema viário interno com os logradouros existentes na cidade formal; Dar continuidade, na medida do
+possível, às ruas já reconhecidas e possibilitar a nomenclatura de ruas e numeração das edificações;
+Analisar o aproveitamento e melhoria das vias de pedestres, becos e escadarias já implantadas; Evitar a abertura de ruas que
+possam vir a se tornar vetores de ocupação;
+Promover a acessibilidade universal e adotar medidas de promoção da segurança viária; Introduzir na favela toda a sinalização
+viária e de segurança da cidade formal; 
+Promover a permeabilidade do tecido viário da malha interna onde couber, em conjunto com o conceito de desadensamento,
+mediante o alargamento e abertura dos becos e vias estreitas, possibilitando a circulação de veículos de pequeno porte de
+transporte de pessoas e serviços (inclusive de Concessionárias de serviços públicos), facilitando a acessibilidade entre moradias e
+equipamentos públicos; 
+Introduzir elementos físicos e a proteção de pequenos taludes que configurem e delimitem o espaço público das vias, escadas e
+rampas, através de pavimentação e construção de guias ou elementos delimitadores;
+d) Sistema de Drenagem Pluvial: construção, expansão e recuperação de obras para captação de águas pluviais. 
+Os projetos serão elaborados em obediência as Instruções Técnicas para Elaboração de Estudos Hidrológicos e Dimensionamento
+Hidráulico de Sistemas de Drenagem Urbana da Fundação Instituto das Águas do Município do Rio de Janeiro - Rio Águas, órgão
+responsável por gerir e supervisionar as atividades referentes ao manejo de águas pluviais no Município do Rio de Janeiro.
+Os projetos são desenvolvidos em base cartográfica obtida de levantamento topográfico planialtimétrico e cadastral da área de
+projeto, estendendo-se o levantamento sobre a área necessária para o projeto das obras de retaguarda quando, verificada a
+necessidade de estender a rede até um desague mais favorável ou captar a contribuição de uma bacia externa.
+O projeto se caracteriza por duas etapas. A primeira se refere ao Estudo Hidrológico, onde a partir da definição de coeficientes e
+parâmetros de projeto se procede os cálculos hidrológicos pelo Método Racional Modificado para obtenção das vazões de projeto.
+A segunda etapa relaciona-se ao Dimensionamento Hidráulico dos dispositivos de drenagem adotados no projeto, realizado
+conforme critérios, coeficientes e parâmetros de projeto estabelecidos no documento Instrução Técnica da Rio Águas. 
+O estudo das bacias contribuintes é realizado com apoio da base cartográfica do Município do Rio de Janeiro e do levantamento
+topográfico e consolidado a partir de vistorias no local e a observação de conjunturas que possam interferir nas bacias
+contribuintes.
+A definição dos dispositivos de drenagem mais adequado e a sua localização leva em consideração os elementos presentes no
+projeto de urbanismo, no relevo da área de projeto e no estudo hidrológico de modo, a garantir com eficiência a captação e o
+transporte disciplinado das águas pluviais, sem provocar transtornos à população, até o desague em local apropriado. Também
+são considerados fatores referentes a manutenção e a limpeza dos dispositivos.
+Os projetos elaborados em obediência a referida instrução técnica serão submetidos a análise da Rio Águas para posterior
+aprovação.
+e) Coleta de lixo: instalação de compactadores e recipientes de armazenamento de lixo (contêineres ou caçambas), que poderão
+ser portáteis ou fixas, e eventualmente construção de locais para guarda de equipamentos. 
+f) Sistema de Iluminação Pública: instalação, expansão e reabilitação de sistemas de iluminação pública, incluindo postes,
+luminárias, instalações elétricas e lâmpadas em LED.
+A proposta deverá definir os pontos e dimensionamento de iluminação pública, priorizando o conforto e segurança do usuário e
+atendendo a critérios de eficiência energética e homogeneidade dos índices de iluminamento definidos pela RIOLUZ, constando de
+: definição dos níveis de iluminamento a serem alcançados nos diversos espaços da favela (vias principais, vias secundárias,
+praças, áreas de esporte e lazer, áreas de entorno dos equipamentos de uso coletivo, etc.) e planilhas de cálculo luminotécnico.
+g) Contenção de encostas: projeto de estruturas de contenção em áreas de risco e outras obras civis para proteção de áreas
+sujeitas às enchentes ou deslizamentos.
+O projeto de contenção e estabilização de encostas será elaborado com base nos ensaios geotécnicos realizados e dados
+hidrológicos levantados, apresentando todos os elementos necessários à execução das obras. A escolha da solução deverá levar
+em consideração: acesso; altura do talude; materiais disponíveis; características do terreno; presença de construções vizinhas
+possibilidade ou não de instalação de ancoragens sub-horizontais; situação do perfil projetado em relação ao existente; meio
+ambiente; relocações necessárias e otimização do custo de implantação. Deverá ser prevista a execução de contenção ou outra
+medida corretiva nos locais onde durante o desenvolvimento das diversas disciplinas de projeto tenha sido detectada a sua
+necessidade, visando a obtenção da estabilidade dos maciços.
+h) Meio Ambiente: construção de pequenos hortos, plantio de árvores, reflorestamento, instalação de barreiras e cercas de
+proteção, entre outros. O projeto deverá indicar instrumentos de mitigação dos problemas ambientais, incentivando e possibilitando
+ a utilização de energia limpa e renovável e propondo soluções baseadas nos seguintes princípios:
+·Implantação de sistemas de drenagem eficientes para conduzir e reduzir o run off, com vistas a minimizar os impactos de águas
+de chuva sobre o solo, priorizando-se a adoção de Soluções baseadas na Natureza - SBN;
+·Garantia de que as escavações para execução de taludes ou contenções que se façam necessárias, sempre que possível
+reutilizem o material escavado no próprio local; 
+·Identificação de dados de capacidade de suporte, de disponibilidade e capacidade da infraestrutura urbana e questões relativas
+aos impactos na vizinhança; 
+·Instalação de mirantes e trilhas onde couber;
+· Implantação de novos reflorestamentos em áreas livres ou onde houver necessidade, como cobertura fixadora de solo em
+encostas; 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 9
+·Introdução no planejamento dos projetos de conceitos de ampliação de áreas verdes, assim como de redução da remoção de
+vegetação e de minimização de alteração da morfologia dos terrenos, especialmente em áreas de encostas; 
+·Plantio preferencialmente de espécies nativas, notadamente as ameaçadas ou sob risco de extinção; 
+·Reorganização dos processos de corte ou poda, visando o reaproveitamento de galhadas e resíduos gerados, com criação de
+ecopontos verdes;
+·Incremento da arborização de praças e demais logradouros internos, empregando sistemas eficientes e significativos de drenagem
+ com vistas a ampliar as áreas permeáveis, utilizando-se, quando possível, de Soluções Baseadas na Natureza - SBN; 
+·Prever a implantação de delimitadores nas áreas contíguas aos remanescentes de cobertura vegetal; 
+·Considerar a ocupação de áreas próximas a nascentes e/ou ?olhos d?água?, visando a sua manutenção e proteção; 
+·Prover o abastecimento de água de forma a garantir o uso adequado dos recursos naturais; Projetos e ações deverão propiciar o
+uso racional da água sempre que possível, com o reuso de águas pluviais e de águas cinza, devendo ser adotadas as melhores
+soluções para o tratamento/descarte dos efluentes
+·Prever soluções de saneamento aplicáveis a grupamentos de baixa renda que não agridam o meio ambiente, assegurando que
+não haverá qualquer tipo de descarte de efluentes para o exterior das residências ou logradouros; 
+·Prever sistemas de coleta eficientes de modo a garantir que não haja descarte inadequado de material sólido; 
+·Implantar "ecopontos" simplificados que permitam a coleta separada de lixo orgânico e de reciclável, para facilitar o transbordo e
+triagem do material gerado, em especial dos resíduos volumosos;
+·Criar meios/espaços adequados para o processamento de material reciclável, e capacitação de moradores prevendo geração de
+renda; 
+·Prever que os resíduos de demolições sejam reutilizados no próprio local, evitando custos de transporte; 
+·Garantir a implantação de bicicletários e sempre que possível, a implantação de ciclovias internas, em conexão com rede
+cicloviária já existente; 
+·Garantir a circulação segura para portadores de necessidades especiais; 
+·Estimular a implantação de telhados verdes, muros verdes, telhados brancos e de áreas verdes em vazios como forma de redução
+ dos efeitos de ilhas de calor nas áreas de forte densidade de ocupação do solo; 
+·Contemplar na concepção dos projetos conceitos de redução de consumo de energia, de aproveitamento racional de recursos
+naturais, de qualidade e eficiência de processos e tecnologias, de racionalização do consumo de água, de uso e desempenho de
+materiais com maior vida útil e demais critérios de sustentabilidade;
+·Prever, quando pertinente, espaços para as Hortas Comunitárias; 
+·Sugerir a possibilidade de uso de pavimentação parcialmente permeável nas vias internas, sempre que possível utilizando
+materiais compostos a partir do reuso ou reciclagem.
+·Projetar, quando viável, e após aprovação da comunidade, a instalação de usinas de energia solar, acompanhando e promovendo
+a formação de cooperativas para gestão comunitária O Programa irá iniciar com um projeto piloto a ser definido durante a
+execução, após a aprovação dos moradores.
+j) Praças e áreas de esporte e lazer: construção, complementação e recuperação, fornecimento de equipamento e instalações para
+ parques, espaços de uso múltiplo para pratica de esportes. 
+O projeto prevê a estruturação dos espaços livres nas favelas concebendo, nas áreas maiores, espaços multifuncionais de esporte
+e lazer, que atendam a crianças, adolescentes e idosos, com as subdivisões do espaço recebendo mobiliário e equipamentos
+específicos para cada faixa etária. Nas áreas de menores dimensões serão propostos locais de convivência diária que contribuam
+para preservação do espaço público. Os materiais especificados deverão considerar as características do local, além de serem de
+baixo custo e fácil manutenção. As quadras e áreas esportivas projetadas deverão apresentar, quando viável, dimensões oficiais e
+correta orientação, bem como prever inclinação para drenagem superficial.
+k) Produção Habitacional: elaboração de projetos de unidades habitacionais, englobando projetos de arquitetura, estrutura,
+instalações e quaisquer outros necessários para a execução das obras. Essas unidades habitacionais serão disponibilizadas para
+famílias que necessitem ser realocadas de determinadas áreas devido ao risco geotécnico e outros ou em função do novo projeto
+urbanístico. 
+As unidades habitacionais deverão ser projetadas e dimensionadas de acordo com os parâmetros mínimos que garantam uma boa
+habitabilidade. Deverão ser observadas as especificidades necessárias à adaptação do projeto da unidade habitacional aos idosos
+ e Portadores de Necessidades Especiais, seguindo as normas da NBR 9.050/2004 da Associação Brasileira de Normas Técnicas
+Além dos projetos acima descritos, deverão ser elaborados produtos adicionais para subsidiar a confecção dos projetos, quais
+sejam: Serviços topográficos, Serviços Geotécnicos, demarcação da Área de Especial Interesse Social, Pesquisa Fundiária e
+Contagem de Domicílios. Todos os projetos deverão ser aprovados nas Concessionárias de Serviços Públicos. 
+      P - Projetos de Urbanização de entorno e Centralidades
+As intervenções se darão ao longo da linha do BRT Transcarioca entre V. Carvalho e Penha, com foco na centralidade PENHA. 
+Em 2021/2022 foi desenvolvido um Estudo de Viabilidade para Desenvolvimento Orientado ao Transporte (DOT) no âmbito de uma
+cooperação técnica entre a Prefeitura do Rio e o BID. Este estudo apontou um potencial DOT para a centralidade PENHA e foi
+desenvolvido um Plano Geral para esta área. Levou em consideração parâmetros de uso e ocupação do solo, qualificação urbana
+e da acessibilidade/mobilidade. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 10
+Os projetos deverão abranger a Requalificação das Centralidades e das Conexões baseados neste Estudo de Viabilidade com a
+implantação de um equipamento âncora.  Os serviços a serem disponibilizados nesse equipamento deverão ser discutidos com
+diversos órgãos da Prefeitura visando oferecer uma variedade de utilizações que incrementem e alavanquem a dinâmica da região,
+proporcionando qualidade no atendimento e aglutinando desejos e necessidades da população do entorno. Serão necessários
+projetos de urbanização e paisagismo, projetos de edificações relativos ao equipamento âncora (arquitetura, implantação, estrutura
+e instalações) e projetos de complementação de infraestrutura urbana (rede de água, esgoto sanitário, drenagem pluvial,
+iluminação pública, sistema viário). Todos esses projetos deverão ser desenvolvidos de acordo com as normas técnicas e
+legislação vigente e composto por desenhos, especificações, memorial de cálculo, e demais elementos suficientes para
+estabelecer com a precisão devida os aspectos constitutivos com todas as características, dimensões e quantidades necessárias à
+execução das obras. Será elaborado, de acordo com a meta física, 1 (hum) projeto completo de urbanização do entorno e
+centralidade abrangendo a área ao longo do BRT Transcarioca entre os bairros de Vicente de Carvalho e Penha.
+   S - URBANIZAÇÃO INTEGRADA, ENTORNO E CENTRALIDADES
+Este subcomponente compreende as ações de urbanização integrada do entorno e centralidades previstas no Programa.
+      P - Obras de Urbanização Integrada 
+As obras de urbanização integrada deverão seguir o disposto em relação aos produtos de Projetos de Urbanização Integrada
+especificados no Produto 1.1.1. Desta forma, pode-se relacionar as seguintes intervenções: sistema de abastecimento de água;
+coleta de esgoto sanitário; sistema viário; drenagem pluvial; coleta de lixo; iluminação pública; contenção de encostas; meio
+ambiente; parques e praças e; produção habitacional. Serão executadas obras de urbanização integrada para atendimento à 15.
+402 famílias, nas favelas futuramente selecionadas, tendo como exemplo de caracterização as relacionadas nos mapas do ANEXO
+ 1.
+Uma intervenção inovadora serão as obras das praças digitais cujo projeto teve como fundamento principal a implementação de
+uma política pública de inclusão digital, sendo implantadas em praças nas divisas entre áreas formais e os assentamentos
+subnormais. Para facilitar essa integração social e tecnológica, os equipamentos da praça serão projetados com uma arquitetura
+inclusiva e contemporânea, levando em conta os desafios que esse tipo de ação poderia proporcionar e que através de um
+mobiliário urbano único e diferenciado, contemplasse a requalificação desses espaços e seu entorno e atendesse as premissas do
+projeto. 
+      P - Obras de Requalificação Urbana de entorno e centralidade 
+Os produtos relacionados à execução de obras de requalificação urbana dar-se-ão no entorno e Centralidade PENHA e deverão
+seguir o disposto em relação aos produtos de Projetos de Urbanização de Centralidades especificados no Produto 1.1.2. 
+A área de intervenção compreende a área ao longo da linha do BRT Transcarioca entre Vicente de Carvalho e Penha, com foco na
+centralidade PENHA. O Produto prevê a implantação de um equipamento âncora, assim como a execução de obras de
+requalificação urbana a partir da implantação de infraestrutura urbana (saneamento básico, sistema viário e urbanização).  Serão
+executadas obras de urbanização integrada, para atendimento à 18.613 (dezoito mil, seiscentos e treze) famílias, moradoras do
+entorno da área eleita, conforme mapa do ANEXO 1.
+      P - Obras de Melhorias Habitacionais
+O Produto contempla a execução de pequenas obras de reformas ou reparo de domicílios que apresentem condições de
+insalubridade ou risco físico, como: kit hidrossanitário, emboço, reboco e pintura de paredes externas e/ou reparo em telhados com
+fornecimento de materiais de construção e assistência técnica aos moradores nestas reformas. Serão executadas obras de
+melhorias habitacionais em 12 % dos domicílios para atendimento à 1.848 (hum mil oitocentos e quarenta e oito) famílias.
+O Município do Rio de Janeiro instituiu em 2021 o Programa Casa Carioca, que tem como objetivo possibilitar um ambiente seguro
+e saudável para as famílias em situação de vulnerabilidade social através da realização de obras de melhorias habitacionais para
+as famílias que vivem em domicílios inadequados com existência de infraestrutura no entorno completa ou inadequada,
+enquadrada no Programa Territórios Sociais. Estão previstas a realização de 20.000 melhorias até o final de 2024.
+   S - REGULARIZAÇÃO URBANÍSTICA E FUNDIÁRIA
+Este subcomponente contempla a execução do processo de regularização urbanística e fundiária nos assentamentos subnormais
+objeto das intervenções do Programa, a ser realizado nas tratativas inerentes da Lei Federal nº 13.465/2017 - REURB -
+Regularização Fundiária Urbana. Portanto, se prevê que tal regularização jurídica e urbanística dos assentamentos informais seja
+realizada a partir dos respectivos levantamentos das informações fundiárias, notificações dos proprietários originários,
+cadastramento, parcelamento da terra com fins da utilização dos instrumentos jurídicos disponíveis para a titulação dos moradores,
+conforme as características do assentamento trabalhado e utilizados conforme a estratégia mais eficiente para a sua regularização
+. No qual os procedimentos serão descritos através do (P)1.3.1 a seguir.
+      P - Processo de Regularização Urbanística e Fundiária
+Este Produto contempla a execução do processo de regularização urbanística e fundiária nos assentamentos subnormais objeto
+das intervenções do Programa, a ser realizado nas tratativas inerentes da Lei Federal nº 13.465/2017 - REURB - Regularização
+Fundiária Urbana. Portanto, se prevê que tal regularização jurídica e urbanística dos assentamentos informais seja realizada a
+partir dos respectivos levantamentos das informações fundiárias, notificações dos proprietários originários, cadastramento,
+parcelamento da terra com fins da utilização dos instrumentos jurídicos disponíveis para a titulação dos moradores, conforme as
+características do assentamento trabalhado e utilizados conforme a estratégia mais eficiente para a sua regularização.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 11
+Os procedimentos a serem elaborados no âmbito do Programa, por meio de contratação de empresas para a elaboração dos
+Projetos de Regularização Urbanística e Fundiária darão os insumos necessários para a SMH atender as metas estabelecidas,
+conforme as seguintes tratativas:
+a. Declaração das Áreas de Especial Interesse Social (AEIS) para os assentamentos objeto do Programa, dentro do universo de
+áreas elegíveis, por meio de lei específica, delimitando ou alterando os polígonos onde ocorrerão os investimentos do poder
+público na implementação da urbanização e regularização urbanística e fundiária.
+b. Disciplinar o uso e a ocupação do solo das comunidades beneficiadas, promovendo a inserção destas no planejamento da
+cidade, incluindo a definição e adoção de normas específicas, em conjunto com a delimitação das áreas públicas e privadas e o
+reconhecimento para a oficialização dos logradouros públicos, qualificando, assim, esse ambiente urbano.
+c. Desenvolver de forma coordenada entre técnicos sociais e urbanistas as atividades de sensibilização social e esclarecimento,
+orientando o morador quanto às possibilidades e caminhos para a sua regularização. Busca-se com isso uma maior adesão dos
+moradores à regularização fundiária, abrangendo um maior universo de beneficiários titulados dentro daqueles domicílios que
+foram atendidos com obras de urbanização.
+d. Identificação espacial do tecido urbanizado, por meio de levantamentos topográficos, tanto do espaço público, quanto das
+edificações existente naquele assentamento, permitirão a delimitação dos lotes a serem regularizados. Em conjunto o
+levantamento cadastral dos beneficiários, de suas moradias, permitirá a qualificação do universo de pessoas a serem tituladas e a
+elaboração dos Projetos Aprovados de Loteamento (PAL), permitindo o registro dos lotes regularizados, e por consequência, a
+titulação dos seus moradores.
+   S - REALOCAÇÃO DE EDIFICAÇÕES 
+O subcomponente Realocação de Edificações está relacionado ao projeto de urbanização, e seus impactos nas moradias que
+deverão ser realocadas por motivos de riscos, por estarem no traçado da intervenção, entre outros.  
+O programa tem como objetivo reduzir riscos e garantir habitabilidade para as moradias, cabendo diagnóstico com a elaboração do
+Plano de Realocação (conforme (P) 1.5.2 - Trabalho de Acompanhamento Social para Realocação) do programa PROAP IV, no
+qual a negociação se dá a partir das modalidades descritas no (P)1.4.1 - Produção Habitacional / Compra Assistida, respeitadas as
+ características da Realocação e a especificidade das famílias atendidas. 
+      P - Produção Habitacional / Compra Assistida
+Para o PROAP IV, a Realocação de moradias foi estimada em 10% dos domicílios das áreas de intervenções, considerando a
+mitigação de riscos pela remoção das famílias das áreas identificadas, as necessidades de projetos e outras vulnerabilidades
+habitacionais encontradas, no qual será realizado principalmente por meio de:
+a. Produção de novas unidades habitacionais de interesse social, visando construção de 45% da estimativa, para as quais foi
+estimado o valor de R$ 235.000,00/UH, contemplando com previsão de 2 anos (período inicialmente previsto de construção das
+habitações) de auxílio habitacional temporário no valor de R$ 400,00 (quatrocentos reais) por mês (conforme Decreto Municipal
+nº44.637 / 2018).
+b. Outras modalidades descritas pelo Decreto nº49.591 (18/10/2021), priorizando a compra de outra unidade habitacional
+denominada por compra assistida, tendo por objetivo a aquisição de 55% da estimativa para as quais considerou-se o valor de R$
+100.000,00/UH.
+O critério de cálculo para a produção habitacional tem no seu valor total, a previsão de dois anos de pagamento do Auxílio
+Habitacional Temporário e aproximadamente 12% do valor do imóvel para contemplar o custo do terreno desapropriado para
+construção do empreendimento habitacional. 
+Com relação a compra assistida, foi utilizado como base o Decreto Rio nº 49.591, de 18/10/2021, que aprovou as diretrizes para a
+demolição de edificações e realocação de moradores em assentamentos populares, bem como seus valores estabelecidos. Tal
+Decreto, versa também sobre outras modalidades que poderão ser consideradas neste plano de reassentamento como Subsídio
+Habitacional (avaliação da benfeitoria informal) no qual está implícito no valor da compra assistida.  
+   S - PROGRAMAS SOCIAIS 
+O Subcomponente Programas Sociais vai agregar de maneira integrada, aspectos transversais importantes ao projeto de
+urbanização que abordam temas presentes na vida dos moradores e do território.  
+A premissa do Trabalho Técnico Social é assegurar a participação da comunidade em todas as etapas de intervenção, nos eixos
+de acompanhamento social, reassentamento (quando houver) e integração das políticas públicas, através do programa Territórios
+Sociais e outros programas existentes nas demais secretarias da prefeitura. 
+      P - Territórios Sociais 
+Este Produto contempla o financiamento de ações previstas no Programa Territórios Sociais, já em execução no Município, nas
+localidades alvo das intervenções urbanísticas no Programa  PROAP IV proposto.
+Desta forma, é importante informar que o programa Territórios Sociais é uma iniciativa da Prefeitura da Cidade do Rio de Janeiro
+que visa identificar as famílias cariocas com maior grau de vulnerabilidade social. Objetiva diminuir o risco social das famílias
+atendidas, inserindo-as nos serviços da prefeitura.
+Executado em parceria com o ONU Habitat, está alinhado com o princípio da Agenda 2030 para o Desenvolvimento Sustentável,
+de não deixar ninguém para trás.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 12
+É coordenado por um Comitê Gestor composto pelas seguintes secretarias e órgãos da municipalidade:  Secretaria Municipal de
+Educação, Secretaria Municipal de Saúde, Secretaria Municipal de Assistência Social, Instituto Pereira Passos, Secretaria
+Municipal de Habitação, Secretaria Municipal de Trabalho e Renda, Secretaria Municipal de Cultura, Secretaria Municipal de Ação
+Comunitária, Secretaria da Juventude e Secretaria de Políticas para a Mulher.
+O programa tem como processos a busca ativa - com objetivo de identificar as famílias e inserção das mesmas nos serviços já
+oferecidos pela prefeitura; as ações integradas - que envolvem todos os programas e projetos desenvolvidos pelas políticas
+públicas representadas no Comitê Gestor; e o monitoramento - que objetiva o acompanhamento e a reavaliação do risco social das
+ famílias, conforme Anexo 9 - Quadro resumo dos resultados da busca ativa em Territórios Sociais.
+A seleção para a inclusão no programa acontece a partir da aplicação do questionário do Índice de Pobreza Multidimensional - IPM
+que classifica as famílias de acordo com o grau de vulnerabilidade. Aquelas que apresentam graus 2 e 3 e as que se encontram
+em extrema pobreza e não estão inseridas no Cadastro Único de Programas Sociais são incluídas no programa.
+O atendimento a essas famílias é realizado a partir de um Protocolo Integrado de serviços e procedimentos e monitorado através
+de uma plataforma digital onde são registradas todas as informações relativas aos atendimentos/encaminhamentos realizados,
+sendo esse sistema compartilhado com todo o Comitê Gestor.
+O programa já atende 10 grandes complexos de favelas do Rio de Janeiro (Maré, Alemão, Penha, Lins, Jacarezinho, Cidade de
+Deus, Vila Kennedy, Rocinha, Chapadão e Pedreira), totalizando aproximadamente 160 mil domicílios e 43 mil famílias
+identificadas com risco social e já atendidas e monitoradas pela prefeitura. Após 12 meses/referência 2021, de atendimento
+integrado, 84,4 % das famílias multidimensionalmente pobres (risco 2 ou 3 do IPM) atendidas pelo programa tiveram seu risco
+social reduzido.
+Está prevista a expansão até 2024 para outras 642 favelas, 74 conjuntos habitacionais e 128 loteamentos irregulares, totalizando
+novos 462 mil domicílios. 
+Esse produto também prevê a capacitação dos técnicos da SMH e das demais secretarias envolvidas no programa através de
+Palestras, Oficinas ou Seminários.
+      P - Trabalho de Acompanhamento Social para Realocação 
+No presente programa, a Secretaria Municipal de Habitação (SMH) atuará junto aos assentamentos populares precários em
+especial, favelas irregulares, promovendo a urbanização e regularização dessas áreas. No que diz respeito às áreas de risco
+geológico e de inundações (encostas e margens a beira de rios) e risco habitacional (estrutura construtiva do imóvel e/ou
+condições de habitabilidade), bem como por necessidade de implantação dos projetos urbanísticos locais, a realocação dessas
+famílias se dará a partir do Plano de Reassentamento.
+Sabemos que, mesmo uma habitação precária, propicia às famílias formas de convivência e de organização social que se apoiam
+em uma rede de solidariedade que tem por base o território onde elas moram e que a relocação compulsória de uma moradia,
+mesmo em casos justificados, deve ser precedida de um entendimento e aceitação por parte das famílias a serem realocadas
+quanto aos objetivos, condições e benefícios do projetos que serão desenvolvidos na localidade e/ou condições específicas do
+imóvel a ser habitado e as alternativas possíveis de solução.
+Isto posto, no Plano de Realocação do programa PROAP IV, a oferta de outra moradia às famílias se dará por meio de uma das
+modalidades, conforme descrito no 1.4.1 - Produção Habitacional / Compra Assistida, respeitadas as características da Realocação
+ e a especificidade das famílias atendidas.
+Estas possibilidades visam estender a esses cidadãos as regras adotadas para as áreas formais da cidade, reconhecendo-lhes o
+direito de escolherem a melhor forma de moradia, em substituição àquela que precisará ser demolida, tendo como princípio o
+pertencimento ao território original e os vínculos ali construídos.
+Todo o processo de atendimento aos moradores que acontecerá na etapa anterior ao início das obras, "pré-obras", até a sua
+instalação e adaptação nas novas moradias, "pós-morar", terá o acompanhamento das equipes do Trabalho Social, desenvolvendo
+ações que propiciem a participação e a plena compreensão dos moradores de todas as etapas, tendo como foco à adaptação
+dessas famílias à nova realidade, conforme abaixo:
+a.Ação de visitas individuais, por família, com o objetivo de levantar e mapear dados mais detalhados sobre a população afetada,
+ouvir os anseios desta população, prestar esclarecimentos e orientar quanto ao processo de desapropriação;
+b.Realização de reuniões e atendimentos individuais para assegurar que a população afetada seja uniformemente informada sobre
+ suas opções e direitos relativos ao reassentamento e consultada sobre as opções oferecidas;
+c.Atendimentos individuais e coletivos (caso necessário) para que dúvidas sejam dirimidas e situações especiais possam ser
+adequadamente resolvidas e/ou encaminhadas;
+d.Assembleias para divulgação com diversos segmentos da sociedade civil, organizada com Associações de Moradores etc., para
+exposição, pelos técnicos, sobre o projeto e outros dados;
+e.Encaminhamento dos casos especiais para a área jurídica (orientações jurídicas) da contratada;
+f.Encaminhamento e atendimento pontual dos casos atípicos e vulneráveis;
+g.Acompanhamento antes, durante e após a realocação;
+h.Criação de um Comitê para Realocação/Remanejamento, objetivando manter a população informada sobre todo processo.
+i.Criação de instância de mediação de conflitos e encaminhamento de reclamações.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 13
+O acompanhamento técnico "pós-morar" será realizado periodicamente às famílias para monitorar o processo de adaptação,
+realizando registros de progresso e demandas; deverá promover a integração dos moradores aos equipamentos urbanos/redes
+sociais da localidade, bem como aos demais serviços públicos do território.
+Esse produto também prevê a capacitação dos técnicos da SMH e das demais secretarias envolvidas no programa através de
+Palestras, Oficinas ou Seminários.
+      P - Trabalho de Acompanhamento Social para execução das Obras de Urbanização
+O Trabalho Social trata de um conjunto de atividades a serem desenvolvidas com caráter informativo, educativo e de promoção
+social, visando a participação comunitária e a minimização de impactos causados pelas obras. Essas ações favorecem a melhoria
+da qualidade de vida das famílias das áreas elegíveis de intervenção, principalmente porque estimulam o fortalecimento social e o
+desenvolvimento da sua autonomia, utilizando-se de recursos emancipadores e de exercício cidadão. 
+Sob o olhar do diálogo entre as políticas setoriais e a garantia de acesso às mesmas, algumas propostas são apresentadas:
+a. Ampliação do atendimento às famílias com a efetiva atuação dos escritórios sociais, que por meio dos plantões técnicos
+efetivam o encaminhamento e articulação com as demais políticas setoriais.
+b. Ações articuladas para atendimento das demandas específicas da mulher, principalmente às que tratam das desigualdades de
+gênero, do estímulo ao empoderamento feminino, qualificação profissional e de enfrentamento à violência doméstica. 
+c. Ações de conscientização e enfrentamento à violência contra jovens, pessoas negras, mulheres e pessoas LGBTQIA+, tendo
+como premissa a disseminação da cultura de paz e igualdade de direitos sociais. 
+d. Apoio para criação, reorganização, fortalecimento e formalização de entidades da sociedade civil de prestação de serviços no
+território, para ampliação da rede socioassistencial no território.
+e. Apoio à formação de comissões e grupos de produção, formação de cooperativas, cursos de capacitação em
+empreendedorismo, capacitação em fundamentos de economia solidária, acesso a crédito e implantação dos projetos de iniciativa
+das comunidades, respeitadas as particularidades da população beneficiária e condições específicas de cada intervenção; 
+f. Atividades de informação e preparação das famílias para o impacto provocado pelas mudanças na execução das obras, visando
+à mitigação dos transtornos causados no momento da intervenção física.
+g. Apoio à criação de Comitês Locais de Acompanhamento do Programa para cada área de intervenção, com a participação de
+lideranças locais/associação de moradores, representantes dos equipamentos públicos e dos prestadores de serviço público, a fim
+de potencializar os resultados das ações propostas, orientar as ações de comunicação e sensibilização das comunidades.
+h. Criação de canais diversificados de comunicação com os moradores para reclamações e sugestões, de acordo com a
+característica de cada localidade.
+i. Articulação e/ou promoção de atividades de capacitação e requalificação profissional, objetivando o encaminhamento para o
+mercado de trabalho e oportunidades proporcionadas por projetos das demais secretarias no Planejamento Estratégico da Cidade
+e das ações do Plano de Trabalho Social. 
+j. Priorização dos beneficiários das políticas de transferência de renda nas ações de capacitação e qualificação profissional, no
+sentido de contribuir para o desenvolvimento de sua autonomia financeira.
+k. Ações de educação ambiental para promover uma discussão qualificada acerca do saneamento, habitação e de suporte no
+processo de recuperação de áreas degradadas.
+l. Formação de agentes multiplicadores para as questões ambientais visando a construção de um conhecimento sobre os serviços
+de saneamento, manutenção e a importância de intervenções sustentáveis. 
+m. Ações voltadas para catadores de materiais recicláveis e de famílias que sobrevivem desta coleta, quanto o gerenciamento dos
+resíduos sólidos, impacto ambiental, comércio de recicláveis e o cooperativismo, como estratégia para o desenvolvimento de uma
+economia sustentável. 
+n. Capacitação sobre manutenção preventiva da moradia e uso adequado dos serviços de água, esgoto, drenagem, coleta de
+resíduos sólidos e equipamentos implantados, assim como orientações sobre a conservação e manutenção destes e sobre
+impostos, taxas, tarifas e tarifa social inclusive por meio de campanhas;
+o. Inserção das famílias no CadÚnico, de acordo com o perfil do programa. 
+Esse produto também prevê a capacitação dos técnicos da SMH e das demais secretarias envolvidas no programa através de
+Palestras, Oficinas ou Seminários.
+C - GESTÃO DO PROGRAMA
+Este componente integra ações voltadas ao gerenciamento e desenvolvimento institucional previstos no Programa.
+   S - GERENCIAMENTO
+O subcomponente Gerenciamento prevê ações para o gerenciamento, apoio à gestão do Programa, Supervisão das obras
+previstas no Programa e fortalecimento institucional.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 14
+      P - Apoio à Gestão do Programa, Supervisão de Obras e Fortalecimento Institucional
+O produto destina-se a fortalecer a Unidade de Gestão do Programa - UGP - PROAP IV/RJ, que integrará a Administração Direta
+do Poder Executivo, sob a Coordenação Geral da Secretaria Municipal de Habitação, objetivando assegurar as ações e
+procedimentos desenvolvidos na forma estabelecida no Contrato de Empréstimo a ser celebrado junto ao BID. Este produto
+abrange o apoio operacional que terá por objetivo suprir a UGP/RJ de elementos administrativos e operacionais definidos pelo
+organismo financiador, nas tomadas de decisão principalmente quanto às ocorrências apresentadas no período, suas medidas de
+correção, nas ações preventivas contra potenciais riscos, e no acompanhamento do estado físico e financeiro do Programa. Possui
+a função de cadastramento e atualizações de todas as informações contempladas nas plataformas da Matriz de Usos e Fontes, do
+Plano Operacional Anual, do Plano de Aquisições e Contratações, do Status de execução física e financeira das obras e serviços,
+da Justificativa de Gastos de Partida e Contrapartida e por fim do acompanhamento das Cláusulas Contratuais do Contrato de
+Empréstimo negociado e celebrado entre o Município do RJ e o Organismo Financiador, atentando para seus prazos e obrigações.
+Este apoio ao gerenciamento do programa, mediante consultoria especializada, evidencia-se como fundamental em função da
+abrangência do programa e da sua complexidade técnica e social;
+Além disso, o Produto também contempla a contratação de 1 (uma) empresa especializada no apoio à supervisão das obras a
+serem executadas.
+Os serviços de supervisão das obras compreenderão o apoio à Secretaria Municipal de Habitação para a fiscalização das metas
+programadas em contratos firmados com terceiros. Também compreenderão trabalhos de apoio ao acompanhamento da qualidade
+dos serviços, fidelidade no seguimento das soluções de projeto, aplicação de materiais e uso dos métodos construtivos,
+perfazendo assim um perfil altamente técnico aos trabalhos. Também deverão ser acompanhadas a acuidade dos trabalhos de
+sondagem, a escavação e o uso compatível com os materiais e equipamentos, além do monitoramento dos impactos sociais,
+ambientais e suas respectivas medidas mitigadoras, de controle e redução dos riscos ambientais decorrentes da implantação e
+operação das obras do Programa.
+Para o desempenho do apoio ao serviço de fiscalização e acompanhamento da obra estão previstas as seguintes atividades: 
+a) controle da qualidade técnica dos serviços contratados; 
+b) acompanhamento do atendimento dos serviços contratados às especificações dos projetos; 
+c) verificações técnicas (incluindo testes laboratoriais), ambientais e administrativas, relacionadas às atividades do canteiro de
+obras e das frentes de serviços; 
+d) verificação do cumprimento, no âmbito dos contratos dos requisitos de funcionalidade técnica requeridos em projeto; 
+e) Verificação do cumprimento, no âmbito dos contratos de obras, da legislação trabalhista, de segurança do trabalho e meio
+ambiente; 
+f) controle dos faturamentos da obra, verificando os quantitativos efetivamente medidos; 
+g) acompanhamento da evolução física e financeira dos contratos; 
+h) acompanhamento por meio de relatórios mensais que reflitam indicadores de custo, desempenho e avanço físico dos
+empreendimentos, apontando os caminhos críticos e as alternativas de solução para os problemas decorrentes da execução
+contratual; 
+i) acompanhamento e monitoramento das condicionantes ambientais indicadas na licença ambiental de instalação; 
+j) elaboração e apresentação, após a conclusão de cada etapa de obra, o projeto "como construído", de maneira que representem
+a última versão emitida do projeto e que sejam condizentes com a real implantação da obra.
+Neste Subcomponente também serão implementadas ações de fortalecimento institucional que permitam dar maior transparência
+as atividades implementadas pelo Programa. Estas ações se darão através da divulgação em mídias sociais, flyers, cartilhas, e
+espaço no sítio eletrônico da SMH para críticas, sugestões e reclamações advindas do Programa em parceria com instrumentos
+hoje já utilizados no âmbito municipal, tais como o 1746 (Sugestões e reclamações) e a Ouvidoria da própria SMH direcionando
+mais rapidamente potenciais questionamentos em relação ao tema PROAP IV e suas implicações.
+   S - DESENVOLVIMENTO INSTITUCIONAL
+Este subcomponente tem como objetivo o desenvolvimento institucional com a modernização e sistematização do Programa a fim
+de assegurar os processos internos dando maior celeridade, segurança e transparência, através dos produtos (P) 2.2.1 e (P) 2.2.3.
+ Além disso, através do (P) 2.2.2 proporcionar monitoramento e avaliação de impacto de todo programa. 
+      P - AMPLIAÇÃO DO SISTEMA DE MONITORAMENTO DE DADOS MUNICIPAL
+Trata-se de contratação de empresa para viabilizar interface dos sistemas legados da Municipalidade que são utilizados pelo
+Instituto Pereira Passos (SIURB) e pela Secretaria Municipal de Habitação (SIHAB), com vistas a proporcionar maior transparência
+e controle dos dados inerentes aos planos de reassentamento e processo de regularização urbanística e fundiária.
+Estes sistemas já existem no âmbito desta Municipalidade, mas precisam de ampliação de seus requisitos funcionais mínimos e do
+desenvolvimento de aplicativos do tipo Power BI ou outra ferramenta de barramento que possam realizar a sincronicidade de
+dados, entre eles, permitindo a utilização de PDA's ou tablets que realizem atividades em campo e transfiram em tempo real as
+informações para os sistemas corporativos objetivando assim auxiliar a Administração Municipal nas medidas corretivas e
+preventivas que minimizem a ocupação equivocada do solo urbano evitando assim a ocorrência de desastres naturais e ocupação
+indevida das áreas minimizando os assentamentos subnormais na Cidade e indicando novas proposições para ocupação que
+possam tornar a política habitacional eficaz e efetiva.
+Uma consultoria em andamento no âmbito da cooperação técnica entre a PCRJ e o BID está atualmente realizando o diagnóstico
+das necessidades e definindo os detalhes deste produto.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 15
+      P - MONITORAMENTO E AVALIAÇÃO DE IMPACTO DO PROGRAMA
+Este produto destina-se à contratação de empresa para realização de duas pesquisas de campo: uma pesquisa antes e outra pós
+intervenções com os seguintes objetivos:
+1. atualização dos diagnósticos dos territórios para aprimoramento dos projetos e identificação das áreas prioritárias de intervenção
+ (crescimento do território, número de domicílios, número de famílias, reassentamentos e melhorias habitacionais);
+2.  identificação das famílias prioritárias para o Programa Territórios Sociais e atendimento pelo trabalho técnico social;
+3.  construção da linha de base para o monitoramento e avaliação do Programa durante a sua execução e avaliação ex-post,
+baseada na metodologia  já desenvolvida no PROAP III   no método de diferenças em diferenças com seleção de áreas controle,
+em parceria com o Instituto Pereira Passos, com o objetivo de se medir a efetividade do Programa e o grau de atendimento aos
+resultados esperados. Será desenhado o Marco Lógico do Programa, bem como indicadores de resultado complementares,
+indicadores de impacto e índices sintéticos como o de integração urbana, de valorização imobiliária e de desenvolvimento social.
+Além disso, para o monitoramento do programa serão utilizados: 
+a. Informações geradas pelas Secretarias responsáveis pela execução de componentes específicos (SEAC, SMPU, SMAS, SMAC,
+ entre outras) que deverão manter registros e acompanhamento específico dos resultados de seus componentes. 
+b. dados gerados pelo sistema de gestão (físico-financeiro) do Programa. 
+Também está prevista a elaboração de pesquisa específica de Avaliação do Trabalho Técnico Social, verificando a percepção e
+satisfação, assim como eventuais mudanças de comportamento dos moradores alvo das ações.
+      P - SISTEMA DE MONITORAMENTO E USO DO SOLO
+Através de levantamentos aerofotogramétricos, restituições aerofotogramétricas e o fornecimento de imagens ortorretificadas,
+organizar, dentro do SIURB, um sistema de monitoramento que permita o monitoramento das variações horizontais e verticais ou
+ocupações irregulares em áreas que sejam objeto do programa, para apoio ao Controle e Ocupação do Solo (SCOS) e a
+Regularização Urbanística e Fundiária; executar a incorporação dos projetos executivos de obras, nas bases geográficas
+corporativas do IPP, no tocante a Logradouros, Quadras, Edificações e Equipamentos Públicos a serem construídos, segundo as
+estruturas da base corporativa geográfica do IPP; efetuar a atualização das informações oriundas dos "As Built" das obras
+executadas, segundo as estruturas da base corporativa geográfica do IPP e dos  parâmetros pré-estabelecidos nos cadastros
+corporativos do IPP.
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Obras
+-
+-
+109.160.902,00
+60,64
+P- Obras de Urbanização Integrada 
+Família
+15.402,00
+80.562.725,00
+44,76
+P- Obras de Requalificação Urbana de entorno e
+centralidade 
+Família
+18.613,00
+23.053.637,00
+12,81
+P- Obras de Melhorias Habitacionais
+Famílias
+1.848,00
+5.544.540,00
+3,08
+Consultoria
+-
+-
+2.564.090,00
+1,42
+P- AMPLIAÇÃO DO SISTEMA DE
+MONITORAMENTO DE DADOS MUNICIPAL
+sistema
+informatizado
+1,00
+480.000,00
+0,27
+P- MONITORAMENTO E AVALIAÇÃO DE
+IMPACTO DO PROGRAMA
+Famílias
+15.402,00
+924.090,00
+0,51
+P- SISTEMA DE MONITORAMENTO E USO DO
+SOLO
+Sistema
+Informatizado
+1,00
+1.160.000,00
+0,64
+Serviços que Não de Consultoria
+-
+-
+26.278.038,00
+14,60
+P- Projetos de Urbanização Integrada Favelas 
+projeto
+7,00
+2.820.774,00
+1,57
+P- Projetos de Urbanização de entorno e
+Centralidades
+projeto
+1,00
+691.609,00
+0,38
+P- Processo de Regularização Urbanística e
+Fundiária
+Família
+15.402,00
+4.620.450,00
+2,57
+P- Territórios Sociais 
+percentual de
+famílias
+80,00
+484.818,00
+0,27
+P- Trabalho de Acompanhamento Social para
+Realocação 
+Famílias 
+1.321,00
+634.123,00
+0,35
+P- Trabalho de Acompanhamento Social para
+execução das Obras de Urbanização
+Famílias
+15.402,00
+6.160.600,00
+3,42
+P- Apoio à Gestão do Programa, Supervisão de
+Obras e Fortalecimento Institucional
+unidade
+1,00
+10.865.664,00
+6,04
+Outros
+-
+-
+41.996.970,00
+23,33
+P- Produção Habitacional / Compra Assistida
+Família
+1.321,00
+41.996.970,00
+23,33
+Total Geral
+-
+-
+180.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+A Prefeitura do Rio, antecipando-se à solicitação do PROAP IV desenvolveu uma série de ações que contribuirão para a execução dos
+projetos elencados. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 16
+Nesta seção é apresentada a situação das ações prévias em preparação ou execução e as ações já concluídas que compõem as etapas
+de cada um dos projetos supracitados que foram mencionados como exemplos de áreas elegíveis. Para outros assentamentos
+subnormais elegíveis e não relacionados, há pelo menos ações de mapeamento das potencialidades do território, pré-diagnóstico do
+assentamento baseado em dados disponíveis na Prefeitura e Tratativas para inserção dos assentamentos no Programa Territórios Sociais
+.
+(C) 1 - MELHORIAS URBANAS E SOCIAIS
+   (S) 1.1 - ESTUDOS E PROJETOS 
+       (P) 1.1.1 - Projetos de Urbanização Integrada Favelas 
+Este Produto contempla as seguintes ações nos assentamentos elegíveis abaixo listados:
+a)MORRO DO MATRIZ E MORRO DO QUETO
+-Projeto Básico completo em andamento
+b)VILLAGE COSTA BARROS
+-Mapeamento das potencialidades do território concluído
+-Pré- diagnóstico do assentamento baseado em dados disponíveis na Prefeitura concluído
+-Tratativas para inserção do assentamento no Programa Territórios Sociais
+c)PARQUE NOVA MARACÁ, RUA SÉRGIO SILVA E ESTRADA VELHA DA PAVUNA (SÉRGIO SILVA)
+-Mapeamento das potencialidades do território concluído
+-Pré- diagnóstico do assentamento baseado em dados disponíveis na Prefeitura concluído
+-Tratativas para inserção do assentamento no Programa Territórios Sociais
+d)MORRO DO SANATÓRIO, MORRO RUA PROFESSOR BURLAMAQUI E MORRO SÃO JOSÉ
+-Projeto Básico completo contratado, com previsão de início em dezembro 2022
+e)PARQUE BELA VISTA
+-Mapeamento das potencialidades do território concluído
+-Pré- diagnóstico do assentamento baseado em dados disponíveis na Prefeitura concluído
+-Tratativas para inserção do assentamento no Programa Territórios Sociais
+f)MORRO DO MATA QUATRO E MARGEM DA LINHA
+-Mapeamento das potencialidades do território concluído
+-Pré-diagnóstico do assentamento baseado em dados disponíveis na Prefeitura concluído
+-Tratativas para inserção do assentamento no Programa Territórios Sociais
+g)LADEIRA DA REUNIÃO, MORRO DA REUNIÃO, RUA JOSÉ BRAGA
+-Projeto Básico completo finalizado
+h)MORROS COMANDANTE LUIS SOUTO, CHÁCARA FLORA E CHACRINHA DO MATO ALTO
+-Projeto Básico completo finalizado
+i)MORROS ALTO KENNEDY, CASTOR DE ANDRADE, VILA PIQUIROBI, ESTRADA DA SAUDADE, CASTOR DE ANDRADE II, RUA
+CONGO 147 E VILA PROGRESSO
+-Mapeamento das potencialidades do território concluído
+-Pré- diagnóstico do assentamento baseado em dados disponíveis na Prefeitura concluído
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 17
+-Tratativas para inserção do assentamento no Programa Territórios Sociais
+j)MORROS VILA CRUZEIRO E CARIRI
+-Projeto Básico completo finalizado
+k)MORROS LAUDELINO FREIRE, JARDIM DO CARMO E VACARIA/TERRA PROMETIDA
+-Mapeamento das potencialidades do território concluído
+-Pré- diagnóstico do assentamento baseado em dados disponíveis na Prefeitura concluído
+-Tratativas para inserção do assentamento no Programa Territórios Sociais
+       (P) 1.1.2 - Projetos de Urbanização de entorno e Centralidade
+- Estudos e Projeto do DOTS sob a responsabilidade da SMTR concluído
+-Pré-diagnóstico das potencialidades da área em andamento
+   (S) 1.2 - URBANIZAÇÃO INTEGRADA, ENTORNO E CENTRALIDADE 
+       (P) 1.2.1 - Obras de Urbanização Integrada 
+Este Produto contempla as seguintes ações nos assentamentos abaixo listados:
+         A) LADEIRA DA REUNIÃO, MORRO DA REUNIÃO, RUA JOSÉ BRAGA
+-Licitação de obras finalizada. Previsão de início em dezembro de 2022
+         B) MORROS VILA CRUZEIRO E CARIRI
+-Licitação de obras em andamento.
+        (P) 1.2.3 - Obras de Melhorias Habitacionais 
+Validação das famílias identificadas pelo Programa Territórios sociais como elegíveis a Melhorias Habitacionais em andamento pela
+Secretaria Especial de Ação Comunitária
+   (S) 1.3 - REGULARIZAÇÃO URBANÍSTICA E FUNDIÁRIA  
+       (P) 1.3.1 - Processo de Regularização Fundiária e Urbanística
+Este Produto contempla as seguintes ações nos assentamentos elegíveis abaixo listados:
+A)MORROS VILA CRUZEIRO E CARIRI
+-Áreas já declaradas AEIS
+-Cadastro Técnico Imobiliário e Projetos de Regularização Urbanística e Fundiária já elaborados para Vila Cruzeiro.
+B)MORRO LAUDELINO FREIRE
+-Área já declarada AEIS
+C)MORRO DO QUETO E MORRO DA MATRIZ
+-Áreas já declaradas AEIS
+D)LADEIRA DA REUNIÃO, MORRO DA REUNIÃO, RUA JOSÉ BRAGA
+-Áreas já declaradas AEIS
+E)MORROS COMANDANTE LUIS SOUTO, CHÁCARA FLORA E CHACRINHA DO MATO ALTO
+-Áreas já declaradas AEIS
+-Pesquisa Fundiária prévia.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 18
+F)VILLAGE COSTA BARROS E TERRA NOSTRA
+-Áreas parcialmente declaradas AEIS
+G)MARGEM DA LINHA
+-Área já declarada AEIS
+   (S) 1.4 - REALOCAÇÃO DE EDIFICAÇÕES
+       (P) 1.4.1 - PRODUÇÃO HABITACIONAL / COMPRA ASSISTIDA
+Considerando a necessidade de reconhecimento da demanda de realocação em fase de elaboração, existe um trabalho paralelo que é de
+identificação de terrenos passiveis de produção de habitação de interesse social realizado. Está em andamento estudo através da busca
+ativa que considera: prospecção preliminar de terrenos, análise sobre a situação fiscal e enfitêutica dos imóveis selecionados, pesquisa
+fundiária, vistoria, a fim de obter banco de imóveis e terrenos passiveis de atender aos planos de realocação.
+   (S) 1.5 - PROGRAMAS SOCIAIS 
+       (P) 1.5.1 - Territórios Sociais 
+Para cada área de intervenção do programa PROAP IV será realizada a contratação de uma equipe de campo preferencialmente
+composta de moradores dos territórios, para a execução da busca ativa das famílias identificadas pelo Programa Territórios Sociais a
+partir da aplicação do questionário do Índice de Pobreza Multidimensional, que classificará as famílias vulneráveis para o
+acompanhamento intersetorial e posterior monitoramento para verificação da redução do seu risco social.
+Dentre as áreas elencadas como elegíveis a esta fase do PROAP IV, as comunidades detalhadas no Anexo 9 já contam com equipes do
+Programa Territórios Sociais realizando a busca ativa e as famílias identificadas já estão no radar do atendimento integrado pelas
+secretarias. 
+       (P) 1.5.2 - Trabalho de Acompanhamento Social para Realocação 
+O plano de acompanhamento social para a realocação das famílias está em fase de discussão interna e construção de um escopo mínimo
+do trabalho para futuros incrementos a partir da caracterização dos moradores, dos projetos de obras e das soluções propostas para cada
+ área de intervenção. Serão parte integrante dos Planos Executivos de cada território.
+       (P) 1.5.3 - Trabalho de Acompanhamento Social para Execução das Obras de Urbanização
+1.Localidade: Ladeira da Reunião, Morro da Reunião, Rua José Braga - Projeto Básico finalizado. Aguardando licitação.
+2.Localidade:  Vila Cruzeiro - Projeto Básico finalizado. Aguardando licitação
+3.Demais localidades: Termos de Referência em construção.
+
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Municipal
+MUNICIPIO DE  RIO DE JANEIRO(RJ)
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+A Operação de crédito externo a ser contratada com o Banco Interamericano de Desenvolvimento (BID) e, de acordo com informações
+levantadas junto ao BID, deverá ser contratada nas seguintes bases:
+
+1-Montante da Operação: US$ 180 milhões, sendo US$ 144 milhões de financiamento e US$ 36 milhões de contrapartida;
+2-Moeda: Dólar dos Estados Unidos da América;
+3-Prazo de Desembolso: em até 72 (setenta e dois) meses ou 12 (doze) semestres, da data de assinatura do Contrato de Empréstimo;
+4-Prazo de Carência: até 78(setenta e oito) meses, a contar da data de assinatura do Contrato de Empréstimo (período de desembolso
+mais seis meses após o último desembolso);
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 19
+5-Amortização: será em 20 anos (240 meses) contados da assinatura do contrato de empréstimo, com pagamento em 39 parcelas
+semestrais, iniciado a partir do final do período de carência. O esquema de amortização será semestral, desde que preservada a Vida
+Média Ponderada (VMP), podendo o principal ser amortizado em: (i) parcelas iguais e semestrais; (ii) uma única parcela (Bullet); (iii)
+parcelas crescentes ao longo do tempo; ou (iv) parcelas irregulares, com prazo de carência estendido. Para este empréstimo, entende-se
+pertinente o EAM adotar a opção de parcelas iguais e semestrais, sem prejuízo de posterior alteração. Nesta hipótese os pagamentos
+serão semestrais;
+6-Juros: A taxa de juros é definida pelo Mecanismo de Financiamento Flexível do BID. A taxa de empréstimos é composta por: (i) taxa
+variável com base na SOFR (composta diariamente) denominada em dólares norte-americanos, mais (ii) margem de captação do BID, em
+relação a SOFR (composta diariamente), denominada em dólares norte-americanos, acrescida de spread de crédito variável, do capital
+ordinário do BID. Serão pagos semestralmente;
+7-Comissão de Crédito: percentual a ser cobrado sobre o saldo não desembolsado a partir de 60 dias após a contratação, podendo ser
+revista periodicamente, até o máximo de 0,75% ao ano. Paga semestralmente;
+8-Taxa de Inspeção e Vigilância: percentual de 1% a ser cobrado sobre o valor do empréstimo, a partir de 60 dias após a contratação e
+pago durante o período de desembolso, em doze parcelas semestrais. Esta condição figura no Contrato de Empréstimo, mas o BID não
+tem cobrado esta taxa.
+
+Nos termos a serem negociados para Contrato de Empréstimo Individual, o Município pagará juros semestrais sobre o saldo devedor, a
+uma taxa de juros baseada na SOFR (composta diariamente) mais o custo de captação do BID e o spread aplicável. Por tratar-se de um
+empréstimo com taxa flutuante, não é possível estabelecer à priori o custo total efetivo.
+
+O custo total do empréstimo pode ser estimado considerando o custo financeiro publicado na página institucional do BID, para o primeiro
+trimestre de 2022, o qual apresenta a seguinte composição: LIBOR 3 meses para o 1º trimestre de 2022 (0,24%), mais a margem
+composta pelo custo de funding do BID (0,17%) e pelo spread (0,90%) de empréstimo, atualmente em 1,31%. Assim, o custo total da taxa
+de empréstimo será equivalente a 1,31% ao ano. Informações disponíveis no endereço eletrônico do BID.
+
+É importante ressaltar que este Programa pretende estar inscrito dentro da Linha de Crédito Condicional Para Projetos de Investimento (
+CCLIP) Pro Morar, atualmente em preparação pelo BID. Esta linha de crédito, visando apoiar inovações no atendimento habitacional de
+populações de baixa renda no Brasil, poderá tornar o processo de preparação do Programa mais célere no BID após aprovação desta
+Carta Consulta. Desta forma, o Anexo 11 detalha as condições desta Linha de Crédito a partir do Marco Estratégico Conceitual. 
+
+Esta CCLIP também agregará outros programas, nacionais ou subnacionais, que conjuntamente formarão uma rede de conhecimento
+sobre desafios da habitação de interesse social brasileira, tanto quantitativos como qualitativos, de qual a PCRJ poderá se beneficiar.
+Embora o processo de contratação com o mercado interno seja mais célere, as taxas de juros são superiores, conforme taxas
+comparativas abaixo:
+
+AGENTES FINANCEIROS INTERNOS: 
+BRB
+- Prazo total: 120 meses;
+- Prazo de carência: 12 meses;
+- Prazo de amortização: 108 meses;
+- Taxa concedida: 115% de CDI a.a.;
+- Demais Encargos: Tarifa de 1% sobre o valor do financiamento + Tarifa de 0,5% a.a sobre o saldo não desembolsado;
+
+CAIXA ECONÔMICA FEDERAL
+- Prazo total: 120 meses;
+- Prazo de carência: 24 meses;
+- Prazo de amortização: 96 meses;
+- Taxa concedida: 131,13% de CDI a.a.;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 20
+- Demais Encargos: Tarifa de Customização: 2%;
+
+Assim, optou-se pelo financiamento externo em detrimento do financiamento interno, pois considerou-se que as taxas de financiamentos
+internos são maiores e a amortização e prazos de pagamento são menores, o que gera uma pressão muito forte sobre o fluxo de caixa do
+Município, limitando fortemente as possibilidades de captação de recursos para projetos estruturantes.
+As condições financeiras oferecidas pelo BID são atrativas, principalmente quando comparadas às taxas de juros do mercado interno e
+aos praticados atualmente por outros BMDs. 
+
+AGENTES FINANCEIROS EXTERNOS: 
+NDB
+- Prazo total: 216 meses;
+- Prazo de carência: 60 meses;
+- Prazo de amortização: 156 meses;
+- Taxa concedida: SOFR + spread a ser definido na assinatura do contrato;
+- Demais Encargos: Comissão Inicial de 0,25% sobre valor do empréstimo e Comissão de compromisso de 0,25% sobre saldo não
+desembolsado;
+
+CAF
+- Prazo total: 216 meses;
+- Prazo de carência: 60 meses;
+- Prazo de amortização: 156 meses;
+- Taxa concedida: SOFR semestral + 2,00% a.a
+- Demais Encargos: Comissão de compromisso de 0,35% e Comissão de financiamento de 0,85%;
+
+Banco Mundial
+- Prazo total: 216 meses;
+- Prazo de carência: 60 meses;
+- Prazo de amortização: 156 meses;
+- Taxa concedida: SOFR semestral + 1,37%
+- Demais Encargos: Comissão Inicial de 0,25% sobre valor do empréstimo, comissão de compromisso de 0,25% sobre saldo não
+desembolsado; Sobretaxa de 0,5% pode ser aplicada caso o país ultrapasse o - single borrower limit.
+
+O Município do Rio de Janeiro/RJ, no âmbito das discussões do Programa, por meio dos seus Órgãos Técnicos e de Consultores, estudou
+várias fontes internas e externas de financiamento, capazes de aportar os recursos necessários para a execução do Programa, na forma
+de financiamento de longo prazo. A partir dos levantamentos apontados acima, os Órgãos Técnicos concluíram que, tendo em vista os
+objetivos a serem alcançados com a execução do Programa, a melhor opção seria dar continuidade ao financiamento com o BID, que já
+atua com a Municipalidade em outras fases do Programa e que se mantém como uma instituição financeira com melhores condições
+demonstrando ser o Organismo que mais se ajusta à fase quatro do Programa e aos interesses do Município.
+
+Vale ressaltar ainda que o BID oferece à PCRJ várias cooperações técnicas que permitem que o Município tenha acesso a consultorias
+técnicas e fortalecimento de capacidades, mediante trocas nacionais e regionais, garantindo que as intervenções propostas estejam na
+ponta em termos de qualidade setorial.
+
+2.11. PROJETO/BENEFICIÁRIO
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 21
+O Programa se propõe a atender aproximadamente 12.320 domicílios gerando impacto direto e indireto em 49.280 moradores (calculando-
+se 80% do total de domicílios, adotando-se a média de 4 integrantes por família), levando ações de melhoria da qualidade de vida dos
+mesmos, com foco na mitigação das desigualdades sociais, raciais e de gênero, criando oportunidades de geração de renda e
+desenvolvimento econômico local através das intervenções urbanísticas. 
+
+Assim, de acordo com a Resolução nº 17, de 07 de junho de 2021 da COFIEX, as intervenções devem considerar os impactos sociais,
+ambientais e econômicos do projeto bem como elencar as áreas estratégicas a serem abrangidas. Para tanto, foram considerados os
+seguintes itens de avaliação: 
+
+- Item 1.1 - Promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação, se relaciona as seguintes ações do
+programa:
+
+Esse tema está diretamente relacionado aos produtos P.1.1.1 (Projetos de Urbanização Integrada de Favelas), P.1.2.1 (Obras de
+Urbanização Integrada em favelas) nos projetos e obras relativos aos sistemas de esgotamento sanitário, sistema de drenagem pluvial,
+iluminação pública, mitigação dos riscos geotécnicos e na elaboração de projetos e execução de obras de reflorestamento. Relaciona-se
+também ao produto P.1.2.3 no que diz respeito à melhoria nas condições de ventilação, iluminação, condições hidrossanitárias e melhoria
+nas coberturas dos domicílios frente às intempéries.
+
+- Item 1.2 - Eficiência energética, geração e/ou uso de energia de fontes renováveis, se relaciona as seguintes ações do programa:
+Esse tema está diretamente relacionado aos produtos P.1.1.1 (Projetos de Urbanização Integrada em favelas), P.1.2.1 (Obras de
+Urbanização Integrada em favelas) nos projetos e obras relativos à Iluminação Pública, e no produto P.1.5.3 (Trabalho de
+Acompanhamento Social para execução de obras de urbanização) no que diz respeito ao incentivo e acompanhamento da formação de
+cooperativas visando a instalação e gestão de usinas de energia solar.
+
+- Item 1.3 - Implantação e/ou ampliação de ações de saneamento básico, se relaciona as seguintes ações do programa:
+Esse tema está diretamente relacionado aos produtos P.1.1.1 (Projetos de Urbanização Integrada em favelas), P.1.2.1 (Obras de
+Urbanização Integrada em favelas) nos projetos e obras relativos à elaboração de projetos e execução de obras de sistemas de
+esgotamento sanitário, sistemas de abastecimento de água e sistemas de drenagem pluvial. Da mesma forma, relaciona-se com o produto
+P.1.2.3 (Obras de Melhorias Habitacionais) no que diz respeito à melhoria das condições hidro sanitárias. Relaciona-se também com os
+produtos P1.1.2 e P1.2.2 no que diz respeito à requalificação do entorno na centralidade PENHA. 
+Além disso, temos a previsão de atendimento aos domicílios na implementação de Melhorias Habitacionais Produto (P)1.2.3 (Obras de
+Melhorias Habitacionais) numa proposta de requalificação de moradias a partir de critérios específicos já estabelecidos pela legislação,
+com vistas a impactar diretamente a qualidade de vida das famílias no enfrentamento à insalubridade e promoção da saúde dos
+moradores.
+
+- Item 1.4 gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes, se relaciona as
+seguintes ações do Programa:
+Esse tema está diretamente relacionado aos produtos P.1.1.1 (Projetos de Urbanização Integrada em favelas), P.1.2.1 (Obras de
+Urbanização Integrada em favelas) nas ações relativas à elaboração de projetos e execução de obras de drenagem pluvial e proteção das
+margens de corpos hídricos, com plantio de vegetação nativa, onde couber.
+
+- Item 1.5. conservação e manejo da biodiversidade e/ou de recursos florestais se relaciona as seguintes ações do Programa:
+Esse tema está diretamente relacionado aos produtos P.1.1.1 (Projetos de Urbanização Integrada em favelas), P.1.2.1 (Obras de
+Urbanização Integrada em favelas) nas ações relativas à elaboração de projetos e execução de obras de reflorestamento, onde couber.
+
+- Item 1.7 benefícios para empreendedores individuais, micro e pequenas empresas, se relaciona as seguintes ações do Programa:
+Esse tema está diretamente relacionado ao produto (P) 1.6.4 - Trabalho de Acompanhamento Social para execução das Obras de
+Urbanização, uma vez que o Trabalho Técnico Social se estrutura em uma perspectiva de reconhecimento do território e identificação de
+suas potencialidades.
+Essas atividades objetivam atuar na perspectiva de qualificação/requalificação de empreendedores individuais, micro e pequenas
+empresas locais tendo como foco o fomento ao desenvolvimento econômico desses territórios. Todas as ações serão ofertadas aos
+empreendedores individuais, micro e pequenas empresas atendidos pelas intervenções urbanísticas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 22
+Como resultados esperam-se: Incremento da gestão financeira dos pequenos negócios com vistas à tomada de decisões mais assertivas
+e maximização dos lucros; qualificação da comunicação com os clientes nos processos de vendas dos pequenos negócios e na oferta de
+serviços com a abordagem de novas ferramentas de comunicação.
+
+- Item 1.8 - Geração de emprego e renda para populações de baixa renda e vulneráveis, se relaciona as seguintes ações do Programa:
+Esses temas estão diretamente relacionados ao produto (P) 1.6.4 - Trabalho de Acompanhamento Social para execução das Obras de
+Urbanização, uma vez que o Trabalho Técnico Social estrutura as ações fundamentadas nos princípios de participação comunitária,
+sustentabilidade das intervenções e preservação ambiental, incentivando o protagonismo e autonomia das famílias.
+Essas atividades objetivam atuar na perspectiva da integralidade e intersetorialidade das políticas públicas e da rede socioassistencial
+privada nos territórios.
+Todas as ações serão ofertadas aos moradores e às moradoras dos territórios atendidos pelas intervenções urbanísticas, com vistas ao
+fortalecimento das famílias, possibilitando a superação de vulnerabilidades pelo acesso ao emprego formal ou outras possibilidades de
+geração de renda. 
+Como resultados esperam-se: ampliação da qualificação profissional dos desempregados, empregabilidade, criação de novas
+oportunidades de geração de renda, fomento aos negócios locais e iniciativas voltadas para economia solidária, criando sustentabilidade e
+ incremento na situação econômica das famílias vulneráveis. 
+ 
+- Item 1.9 - Infraestrutura e/ou equipamentos sociais para populações de baixa renda e vulneráveis, se relaciona as seguintes ações do
+programa:
+Esse tema está diretamente relacionado ao produto (P) 1.2.2 Obras de Requalificação Urbana de entorno e centralidade - Penha. Está
+previsto uma unidade denominada "equipamento âncora " que será destinado a potencializar o acesso aos serviços públicos, dando maior
+capilaridade para a população. Não foi pré-definido considerando que a pesquisa inicial permitirá um conhecimento da realidade local de
+cada território, bem como apontará a necessidade de oferta das políticas públicas para os moradores.
+
+- Item 1.10 - Ações de inclusão de minorias sociais entre os beneficiários, se relaciona as seguintes ações do programa: 
+Esse tema está diretamente relacionado ao produto (P) 1.5.4 - Trabalho de Acompanhamento Social para execução das Obras de
+Urbanização. 
+Através do Trabalho Técnico Social serão elaboradas atividades com vistas a conscientização e a mitigação das violências nas temáticas
+de gênero, raça e LGBTQIA+, enfrentamento ao preconceito religioso, tendo como premissas a igualdade social e a disseminação da
+cultura de paz nos territórios.
+Todas as atividades serão ofertadas aos moradores e às moradoras dos territórios atendidos pelas intervenções urbanísticas
+Como resultados esperam-se: disseminar uma cultura não-discriminatória nos territórios, promover o acesso à cidade desses grupos
+minoritários, sobretudo da juventude negra e, identificação/reparação dos danos causados pelas violências que os acometem pela
+inclusão em serviços de acompanhamento especializados.
+
+- Item 1.11. políticas voltadas para juventude, gênero e raça, se relaciona as seguintes ações do Programa:
+Esses temas estão diretamente relacionados aos produtos (P) 1.5.4 - Trabalho de Acompanhamento Social para execução das Obras de
+Urbanização e (P) 1.5.1 - Territórios Sociais 
+As ações do programa Territórios Sociais atendem às famílias mais vulneráveis numa perspectiva de integração das políticas públicas.
+O Trabalho Técnico Social desenvolverá um Plano de Ação construído a partir do Diagnóstico da Macro área e do levantamento
+socioeconômico das famílias, identificando suas reais necessidades e desejos tendo como premissas: o enfrentamento às desigualdades
+étnico-raciais, a violência contra a mulher e a violação de direitos.
+Todas as atividades serão ofertadas aos moradores e às moradoras dos territórios atendidos pelas intervenções urbanísticas.
+Como resultados esperam-se: superação das situações de violência, inclusão dos moradores em políticas públicas e acompanhamento
+especializado, acesso à cidade e aos bens culturais.
+
+- Item 1.12. melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão e/ou participação cidadã, se relaciona as
+seguintes ações do Programa: 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 23
+A proposta de integração dos sistemas da PCRJ, bem como o processo de modernização do Sistema de Informações Habitacionais, com
+propósito de aprimorar as funcionalidades assegurando as informações dos beneficiários das políticas públicas georreferenciadas,
+prioritariamente para abarcar as famílias do plano de reassentamento/realocação, é considerada como uma medida inovadora de gestão
+pública, que está relacionado ao produto (P)2.2.1 - Ampliação e Modernização do Sistema de Informações Habitacionais. 
+A participação cidadã está diretamente relacionada aos produtos (P) 1.5.4 - Trabalho de Acompanhamento Social para execução das
+Obras de Urbanização e (P) 1.5.1 - Territórios Sociais
+
+-  Item 1.13. melhoria das condições de educação e saúde, se relaciona as seguintes ações do Programa: 
+Esses temas estão diretamente relacionados aos produtos (P) 1.5.4 - Trabalho de Acompanhamento Social para execução das Obras de
+Urbanização e (P) 1.5.1 - Territórios Sociais 
+O programa Territórios Sociais tem por objetivo levar o atendimento integrado às famílias mais vulneráveis da cidade. Dados do último ano
+apontam 20.292 famílias atendidas pela política de Saúde, 11.754 famílias atendidas pela política de Assistência Social, 2.439 crianças
+atendidas na Educação com matrícula escolar e 16.095 domicílios identificados com demandas habitacionais já referenciadas para ações
+de Melhorias Habitacionais.
+O Trabalho Técnico Social desenvolverá um Plano de Ação construído a partir do Diagnóstico da Microárea e do levantamento
+socioeconômico das famílias, realizando a interlocução com a rede pública local para inclusão dos demais moradores não atendidos pelo
+programa Territórios Sociais. Todas as atividades serão ofertadas aos moradores dos territórios atendidos pelas intervenções urbanísticas.
+Como resultados esperam-se: superação das vulnerabilidades, acesso às políticas públicas de saúde e educação, redução da evasão/
+abandono escolar.
+
+- Item 1.14. desenvolvimento, inovação e modernização tecnológica, se relaciona as seguintes ações do Programa:
+Ampliar aquisição/locação de equipamentos para auxiliar no processo de cadastramento em campo, de forma online e georreferenciada,
+assegurando as informações e dados pessoais. Ação atrelada ao (P)2.1.1 Gerenciamento, Apoio à Gestão do Programa, Supervisão de
+Obras.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Internas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Contrapartida Financeira
+CF
+US$
+36.000.000,00
+1,00
+36.000.000,00
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Banco Interamericano de Desenvolvimento
+ - BID
+BID
+US$
+144.000.000,00
+1,00
+144.000.000,00
+Total:
+180.000.000,00
+180.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Não se aplica
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+O Município do Rio de Janeiro instituirá uma Unidade de Preparação do Programa que atuará em sua preparação e até a assinatura do
+contrato de empréstimo junto ao Agente Financiador, doravante designada como UPP/PROAP IV/RJ. Após a assinatura do Contrato será
+criada a Unidade de Gestão do Programa, designada pela sigla UGP - PROAP IV/RJ, que será estruturada conforme descrição a seguir, e
+cujos integrantes serão nomeados por ato normativo. Os Organogramas dispostos no Anexo 12 apresentam a estrutura organizacional
+dessas Unidades. 
+
+A finalidade da UGP- PROAP IV é assegurar que as ações do Programa estejam de acordo com o Contrato de Empréstimo e seus
+objetivos contemplam: planejar, programar, acompanhar a execução física e financeira, bem como avaliar os resultados intermediários e
+finais do Programa, de forma a assegurar o cumprimento dos cronogramas estabelecidos para cumprimento das ações programadas.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 24
+A UGP será composta por uma Coordenação Geral e Coordenadorias Técnicas constituídas pelo quadro de funcionários da SMH e de
+outros órgãos da Municipalidade nas Áreas de Arquitetura, Engenharia, Ciências Sociais e ambientais e demais profissionais de nível
+superior e de nível médio que atuarão como Apoio Administrativo, Apoio ao Gerenciamento, Apoio Financeiro, Jurídico e Socioambiental,
+conforme o Organograma constante no Anexo 12.
+
+A Coordenação Geral será exercida pela Secretaria Municipal de Habitação - SMH, que como órgão executor, terá a responsabilidade de
+gestão administrativa, articulação com o agente financiador e com as Unidades da Prefeitura envolvidas na implementação dos
+componentes do Programa, seja direta ou indiretamente. A Coordenação Financeira será exercida pela Superintendência de Captação de
+Recursos Externos da Secretaria Municipal de Fazenda e Planejamento - SMFP/SUPCRE, que executará a gestão financeira e
+orçamentária, a programação de desembolsos, e a interface com o Agente Financiador e Governo Federal.
+
+O Programa também contará com apoio dos Órgãos/Entidades identificados na Matriz de Responsabilidade Institucional (Anexo 13). Os
+Órgãos envolvidos com o Programa são apresentados a seguir, com destaque para as funções relacionadas à sua execução. 
+
+a) Coordenadoria de Programas de Investimentos da SMH - responsável pelo gerenciamento, acompanhamento físico-financeiro do
+PROAP IV na UGP/RJ;
+b) Coordenadoria de Projetos da SMH/IPP - responsáveis pela elaboração dos projetos em favelas e entornos (franja e centralidades);
+c) Coordenadoria de Obras da SMH - responsável pela execução das obras programadas em favelas;
+d) Coordenadorias de Ações Sócio Habitacionais e de Fomento a Produção Habitacionais da SMH - responsáveis pela implementação e
+execução do subcomponente social monitorando os procedimentos inerentes à realocação das famílias;
+e) Coordenadoria de Regularização Fundiária da SMH - Responsável pela execução das ações previstas no subcomponente
+Regularização Urbanística e Fundiária;
+f) Instituto Pereira Passos - Entidade autárquica responsável pela avaliação e monitoramento dos dados obtidos pelo programa Territórios
+Sociais vinculada à Secretaria Municipal de Planejamento Urbano e pela contratação, através de licitação, de um sistema de satélite e de
+laser vertical para complementar o sistema de monitoramento dos dados municipais de ocupação das áreas de assentamentos
+subnormais;
+g) Secretaria Municipal de Infraestrutura - SMI - Órgão responsável pela execução das intervenções planejadas para o entorno (
+Centralidades - DOT), viabilização da execução dos empreendimentos listados nesta Carta Consulta, auxiliando na resolução de
+problemáticas que possam vir a surgir.
+h) SMFP/Superintendência de Captação de Recursos Externos: Órgão responsável em realizar os registros financeiros necessários à
+contabilidade pública, efetuar os pagamentos aos fornecedores contratados através dos processos licitatórios instaurados e,
+posteriormente, efetuar a quitação das parcelas vincendas do financiamento.
+i) SMU/Instituto Pereira Passos: responsável pela coordenação e contratação da pesquisa de linha de base e avaliação e monitoramento
+do PROAP IV; da implementação do programa Territórios Sociais nos territórios selecionados e pela contratação. 
+j) SMH/ Subsecretaria de Gestão: Coordenar e supervisionar os assuntos relativos às aquisições e contratos no âmbito do programa.
+k) Procuradoria Geral do Município: Órgão Jurídico que atuará na contratação do financiamento, e participará da análise dos editais de
+licitação.
+l) Controladoria Geral do Município: Órgão de Controle Interno que participará analisando as aquisições e contratações efetuadas sob o
+aspecto contábil, atuando na transparência dos processos de despesa em consonância com as normas do BID e do MRJ.
+m) Tribunal de Contas do Município do Rio de Janeiro: Órgão de Controle Externo que ficará responsável pela realização da Auditoria
+Externa que analisará o Contrato de Empréstimo, aquisições, contratações e demais atos efetivados.
+
+4.2. Execução/Executores
+Executor: Prefeitura Municipal do Rio de Janeiro - RJ
+Representante Oficial: Eduardo da Costa Paes
+Endereço da Sede: Rua Afonso Cavalcanti, 455 13º andar, Cidade Nova
+E-mail Institucional:
+Telefone: (21)2976-1365
+Fax:
+CNPJ: 42498733000148 
+UF:
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 25
+Executor: Secretaria Municipal do Habitat - RJ
+Representante Oficial: Gustavo José Freue
+Endereço da Sede: Rua Afornso Cavalcanti, 455, Anexo - 4º andar, Cidade Nova
+E-mail Institucional:
+Telefone: (21)2976-2405
+Fax:
+CNPJ: 42498733000148 
+UF:
+4.3. Execução/Prazo
+Prazo de Desembolso:
+6
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - MELHORIAS URBANAS E SOCIAIS
+166.570.246,00
+12.400.288,70
+10.015.745,05
+   S - ESTUDOS E PROJETOS 
+3.512.383,00
+266.464,50
+941.695,30
+      P - Projetos de Urbanização Integrada Favelas 
+2.820.774,00
+266.464,50
+457.569,00
+      P - Projetos de Urbanização de entorno e Centralidades
+691.609,00
+0,00
+484.126,30
+   S - URBANIZAÇÃO INTEGRADA, ENTORNO E CENTRALIDADES
+109.160.902,00
+11.985.802,50
+5.770.002,80
+      P - Obras de Urbanização Integrada 
+80.562.725,00
+11.431.348,50
+5.770.002,80
+      P - Obras de Requalificação Urbana de entorno e centralidade 
+23.053.637,00
+0,00
+0,00
+      P - Obras de Melhorias Habitacionais
+5.544.540,00
+554.454,00
+0,00
+   S - REGULARIZAÇÃO URBANÍSTICA E FUNDIÁRIA
+4.620.450,00
+0,00
+462.045,00
+      P - Processo de Regularização Urbanística e Fundiária
+4.620.450,00
+0,00
+462.045,00
+   S - REALOCAÇÃO DE EDIFICAÇÕES 
+41.996.970,00
+0,00
+2.099.848,50
+      P - Produção Habitacional / Compra Assistida
+41.996.970,00
+0,00
+2.099.848,50
+   S - PROGRAMAS SOCIAIS 
+7.279.541,00
+148.021,70
+742.153,45
+      P - Territórios Sociais 
+484.818,00
+130.900,50
+111.508,50
+      P - Trabalho de Acompanhamento Social para Realocação 
+634.123,00
+17.121,20
+14.584,95
+      P - Trabalho de Acompanhamento Social para execução das Obras de Urbanização
+6.160.600,00
+0,00
+616.060,00
+C - GESTÃO DO PROGRAMA
+13.429.754,00
+0,00
+1.245.328,20
+   S - GERENCIAMENTO
+10.865.664,00
+0,00
+543.283,20
+      P - Apoio à Gestão do Programa, Supervisão de Obras e Fortalecimento Institucional
+10.865.664,00
+0,00
+543.283,20
+   S - DESENVOLVIMENTO INSTITUCIONAL
+2.564.090,00
+0,00
+702.045,00
+      P - AMPLIAÇÃO DO SISTEMA DE MONITORAMENTO DE DADOS MUNICIPAL
+480.000,00
+0,00
+240.000,00
+      P - MONITORAMENTO E AVALIAÇÃO DE IMPACTO DO PROGRAMA
+924.090,00
+0,00
+462.045,00
+      P - SISTEMA DE MONITORAMENTO E USO DO SOLO
+1.160.000,00
+0,00
+0,00
+Total
+0,00
+12.400.288,70
+11.261.073,25
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - MELHORIAS URBANAS E SOCIAIS
+13.006.106,30
+29.569.720,80
+   S - ESTUDOS E PROJETOS 
+266.464,50
+665.051,70
+      P - Projetos de Urbanização Integrada Favelas 
+266.464,50
+457.569,00
+      P - Projetos de Urbanização de entorno e Centralidades
+0,00
+207.482,70
+   S - URBANIZAÇÃO INTEGRADA, ENTORNO E CENTRALIDADES
+12.540.256,50
+18.179.216,80
+      P - Obras de Urbanização Integrada 
+11.431.348,50
+11.540.005,60
+      P - Obras de Requalificação Urbana de entorno e centralidade 
+0,00
+6.639.211,20
+      P - Obras de Melhorias Habitacionais
+1.108.908,00
+0,00
+   S - REGULARIZAÇÃO URBANÍSTICA E FUNDIÁRIA
+0,00
+924.090,00
+      P - Processo de Regularização Urbanística e Fundiária
+0,00
+924.090,00
+   S - REALOCAÇÃO DE EDIFICAÇÕES 
+0,00
+8.399.394,00
+      P - Produção Habitacional / Compra Assistida
+0,00
+8.399.394,00
+   S - PROGRAMAS SOCIAIS 
+199.385,30
+1.401.968,30
+      P - Territórios Sociais 
+130.900,50
+111.508,50
+      P - Trabalho de Acompanhamento Social para Realocação 
+68.484,80
+58.339,80
+      P - Trabalho de Acompanhamento Social para execução das Obras de Urbanização
+0,00
+1.232.120,00
+C - GESTÃO DO PROGRAMA
+0,00
+2.993.132,80
+   S - GERENCIAMENTO
+0,00
+2.173.132,80
+      P - Apoio à Gestão do Programa, Supervisão de Obras e Fortalecimento Institucional
+0,00
+2.173.132,80
+   S - DESENVOLVIMENTO INSTITUCIONAL
+0,00
+820.000,00
+      P - AMPLIAÇÃO DO SISTEMA DE MONITORAMENTO DE DADOS MUNICIPAL
+0,00
+240.000,00
+      P - MONITORAMENTO E AVALIAÇÃO DE IMPACTO DO PROGRAMA
+0,00
+0,00
+      P - SISTEMA DE MONITORAMENTO E USO DO SOLO
+0,00
+580.000,00
+Total
+0,00
+13.006.106,30
+32.562.853,60
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 26
+Ano 3
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - MELHORIAS URBANAS E SOCIAIS
+4.422.318,50
+32.280.301,05
+   S - ESTUDOS E PROJETOS 
+0,00
+1.372.707,00
+      P - Projetos de Urbanização Integrada Favelas 
+0,00
+1.372.707,00
+      P - Projetos de Urbanização de entorno e Centralidades
+0,00
+0,00
+   S - URBANIZAÇÃO INTEGRADA, ENTORNO E CENTRALIDADES
+4.336.712,50
+18.179.216,80
+      P - Obras de Urbanização Integrada 
+0,00
+11.540.005,60
+      P - Obras de Requalificação Urbana de entorno e centralidade 
+3.227.804,50
+6.639.211,20
+      P - Obras de Melhorias Habitacionais
+1.108.908,00
+0,00
+   S - REGULARIZAÇÃO URBANÍSTICA E FUNDIÁRIA
+0,00
+924.090,00
+      P - Processo de Regularização Urbanística e Fundiária
+0,00
+924.090,00
+   S - REALOCAÇÃO DE EDIFICAÇÕES 
+0,00
+10.499.242,50
+      P - Produção Habitacional / Compra Assistida
+0,00
+10.499.242,50
+   S - PROGRAMAS SOCIAIS 
+85.606,00
+1.305.044,75
+      P - Territórios Sociais 
+0,00
+0,00
+      P - Trabalho de Acompanhamento Social para Realocação 
+85.606,00
+72.924,75
+      P - Trabalho de Acompanhamento Social para execução das Obras de Urbanização
+0,00
+1.232.120,00
+C - GESTÃO DO PROGRAMA
+0,00
+3.259.699,20
+   S - GERENCIAMENTO
+0,00
+3.259.699,20
+      P - Apoio à Gestão do Programa, Supervisão de Obras e Fortalecimento Institucional
+0,00
+3.259.699,20
+   S - DESENVOLVIMENTO INSTITUCIONAL
+0,00
+0,00
+      P - AMPLIAÇÃO DO SISTEMA DE MONITORAMENTO DE DADOS MUNICIPAL
+0,00
+0,00
+      P - MONITORAMENTO E AVALIAÇÃO DE IMPACTO DO PROGRAMA
+0,00
+0,00
+      P - SISTEMA DE MONITORAMENTO E USO DO SOLO
+0,00
+0,00
+Total
+0,00
+4.422.318,50
+35.540.000,25
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - MELHORIAS URBANAS E SOCIAIS
+4.422.318,50
+27.587.988,45
+   S - ESTUDOS E PROJETOS 
+0,00
+0,00
+      P - Projetos de Urbanização Integrada Favelas 
+0,00
+0,00
+      P - Projetos de Urbanização de entorno e Centralidades
+0,00
+0,00
+   S - URBANIZAÇÃO INTEGRADA, ENTORNO E CENTRALIDADES
+4.336.712,50
+14.859.611,20
+      P - Obras de Urbanização Integrada 
+0,00
+11.540.005,60
+      P - Obras de Requalificação Urbana de entorno e centralidade 
+3.227.804,50
+3.319.605,60
+      P - Obras de Melhorias Habitacionais
+1.108.908,00
+0,00
+   S - REGULARIZAÇÃO URBANÍSTICA E FUNDIÁRIA
+0,00
+924.090,00
+      P - Processo de Regularização Urbanística e Fundiária
+0,00
+924.090,00
+   S - REALOCAÇÃO DE EDIFICAÇÕES 
+0,00
+10.499.242,50
+      P - Produção Habitacional / Compra Assistida
+0,00
+10.499.242,50
+   S - PROGRAMAS SOCIAIS 
+85.606,00
+1.305.044,75
+      P - Territórios Sociais 
+0,00
+0,00
+      P - Trabalho de Acompanhamento Social para Realocação 
+85.606,00
+72.924,75
+      P - Trabalho de Acompanhamento Social para execução das Obras de Urbanização
+0,00
+1.232.120,00
+C - GESTÃO DO PROGRAMA
+0,00
+2.173.132,80
+   S - GERENCIAMENTO
+0,00
+2.173.132,80
+      P - Apoio à Gestão do Programa, Supervisão de Obras e Fortalecimento Institucional
+0,00
+2.173.132,80
+   S - DESENVOLVIMENTO INSTITUCIONAL
+0,00
+0,00
+      P - AMPLIAÇÃO DO SISTEMA DE MONITORAMENTO DE DADOS MUNICIPAL
+0,00
+0,00
+      P - MONITORAMENTO E AVALIAÇÃO DE IMPACTO DO PROGRAMA
+0,00
+0,00
+      P - SISTEMA DE MONITORAMENTO E USO DO SOLO
+0,00
+0,00
+Total
+0,00
+4.422.318,50
+29.761.121,25
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - MELHORIAS URBANAS E SOCIAIS
+1.194.514,00
+26.741.073,75
+   S - ESTUDOS E PROJETOS 
+0,00
+0,00
+      P - Projetos de Urbanização Integrada Favelas 
+0,00
+0,00
+      P - Projetos de Urbanização de entorno e Centralidades
+0,00
+0,00
+   S - URBANIZAÇÃO INTEGRADA, ENTORNO E CENTRALIDADES
+1.108.908,00
+16.112.545,00
+      P - Obras de Urbanização Integrada 
+0,00
+16.112.545,00
+      P - Obras de Requalificação Urbana de entorno e centralidade 
+0,00
+0,00
+      P - Obras de Melhorias Habitacionais
+1.108.908,00
+0,00
+   S - REGULARIZAÇÃO URBANÍSTICA E FUNDIÁRIA
+0,00
+924.090,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 27
+      P - Processo de Regularização Urbanística e Fundiária
+0,00
+924.090,00
+   S - REALOCAÇÃO DE EDIFICAÇÕES 
+0,00
+8.399.394,00
+      P - Produção Habitacional / Compra Assistida
+0,00
+8.399.394,00
+   S - PROGRAMAS SOCIAIS 
+85.606,00
+1.305.044,75
+      P - Territórios Sociais 
+0,00
+0,00
+      P - Trabalho de Acompanhamento Social para Realocação 
+85.606,00
+72.924,75
+      P - Trabalho de Acompanhamento Social para execução das Obras de Urbanização
+0,00
+1.232.120,00
+C - GESTÃO DO PROGRAMA
+0,00
+2.753.132,80
+   S - GERENCIAMENTO
+0,00
+2.173.132,80
+      P - Apoio à Gestão do Programa, Supervisão de Obras e Fortalecimento Institucional
+0,00
+2.173.132,80
+   S - DESENVOLVIMENTO INSTITUCIONAL
+0,00
+580.000,00
+      P - AMPLIAÇÃO DO SISTEMA DE MONITORAMENTO DE DADOS MUNICIPAL
+0,00
+0,00
+      P - MONITORAMENTO E AVALIAÇÃO DE IMPACTO DO PROGRAMA
+0,00
+0,00
+      P - SISTEMA DE MONITORAMENTO E USO DO SOLO
+0,00
+580.000,00
+Total
+0,00
+1.194.514,00
+29.494.206,55
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 6
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - MELHORIAS URBANAS E SOCIAIS
+554.454,00
+4.375.416,90
+36.000.000,00
+130.570.246,00
+   S - ESTUDOS E PROJETOS 
+0,00
+0,00
+532.929,00
+2.979.454,00
+      P - Projetos de Urbanização Integrada Favelas 
+0,00
+0,00
+532.929,00
+2.287.845,00
+      P - Projetos de Urbanização de entorno e Centralidades
+0,00
+0,00
+0,00
+691.609,00
+   S - URBANIZAÇÃO INTEGRADA, ENTORNO E CENTRALIDADES
+554.454,00
+1.197.463,40
+34.862.846,00
+74.298.056,00
+      P - Obras de Urbanização Integrada 
+0,00
+1.197.463,40
+22.862.697,00
+57.700.028,00
+      P - Obras de Requalificação Urbana de entorno e centralidade 
+0,00
+0,00
+6.455.609,00
+16.598.028,00
+      P - Obras de Melhorias Habitacionais
+554.454,00
+0,00
+5.544.540,00
+0,00
+   S - REGULARIZAÇÃO URBANÍSTICA E FUNDIÁRIA
+0,00
+462.045,00
+0,00
+4.620.450,00
+      P - Processo de Regularização Urbanística e Fundiária
+0,00
+462.045,00
+0,00
+4.620.450,00
+   S - REALOCAÇÃO DE EDIFICAÇÕES 
+0,00
+2.099.848,50
+0,00
+41.996.970,00
+      P - Produção Habitacional / Compra Assistida
+0,00
+2.099.848,50
+0,00
+41.996.970,00
+   S - PROGRAMAS SOCIAIS 
+0,00
+616.060,00
+604.225,00
+6.675.316,00
+      P - Territórios Sociais 
+0,00
+0,00
+261.801,00
+223.017,00
+      P - Trabalho de Acompanhamento Social para Realocação 
+0,00
+0,00
+342.424,00
+291.699,00
+      P - Trabalho de Acompanhamento Social para execução das Obras de Urbanização
+0,00
+616.060,00
+0,00
+6.160.600,00
+C - GESTÃO DO PROGRAMA
+0,00
+1.005.328,20
+0,00
+13.429.754,00
+   S - GERENCIAMENTO
+0,00
+543.283,20
+0,00
+10.865.664,00
+      P - Apoio à Gestão do Programa, Supervisão de Obras e Fortalecimento Institucional
+0,00
+543.283,20
+0,00
+10.865.664,00
+   S - DESENVOLVIMENTO INSTITUCIONAL
+0,00
+462.045,00
+0,00
+2.564.090,00
+      P - AMPLIAÇÃO DO SISTEMA DE MONITORAMENTO DE DADOS MUNICIPAL
+0,00
+0,00
+0,00
+480.000,00
+      P - MONITORAMENTO E AVALIAÇÃO DE IMPACTO DO PROGRAMA
+0,00
+462.045,00
+0,00
+924.090,00
+      P - SISTEMA DE MONITORAMENTO E USO DO SOLO
+0,00
+0,00
+0,00
+1.160.000,00
+Total
+180.000.000,00
+554.454,00
+5.380.745,10
+36.000.000,00
+144.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+a)O Município do RJ apresentará Projeto de Decreto Legislativo que será submetido à Câmara Municipal para aprovação do Empréstimo.
+Risco: não aprovação do Decreto;
+Ação Mitigadora: Realizar gestão técnica junto as Comissões temáticas da Câmara Municipal;
+Risco: Não obediência aos ditames da Responsabilidade Fiscal pelos Gestores do Contrato podendo acarretar a interrupção dos projetos
+e demais atividades estabelecidas por descumprimento de obrigações assumidas.
+
+b)Quanto a Lei de Responsabilidade Fiscal
+Risco: Administração não conseguir apresentar evidências de conformidade no cumprimento da Lei e regularidade dos requisitos fiscais
+obrigatórios para fins de celebração de instrumentos contratuais.
+Ação Mitigadora: Dotar os Gestores de mecanismos de controle que permitam monitorar o ccumprimento da legislação e da regularidade
+dos requisitos indispensáveis a celebração de contratos.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 28
+c)Os Projetos de urbanização, bem como, as Unidades Habitacionais de Interesse Social previstas no Programa serão construídas em
+zoneamento compatível, em conformidade com as normas e diretrizes de ocupação e de uso do solo e do Código de Obras do Município
+do RJ.
+Risco: Alteração da legislação após a aprovação dos estudos e projetos, riscos geológicos identificados posteriormente e outros riscos não
+ observados quando da realização das contratações.
+Ação Mitigadora: Dotar a Administração de mecanismos de identificação de todos os riscos geológicos, geotécnicos e da necessidade de
+adequação da legislação para promover obras de urbanização e uma Produção Habitacional segura e obediente as normas de ocupação
+e uso do solo urbano.
+
+d)Os Projetos de Regularização Urbanística e Fundiária irão atuar na revisão das propriedades das glebas originárias existentes, que por
+meio dos Projetos Aprovados de Loteamentos - PAL irão definir juridicamente as áreas públicas e privadas, desmembrando tais glebas,
+que poderão ser particulares e / ou públicas, nos lotes dos beneficiários finais da regularização fundiária, e lotes de uso comum do povo
+como equipamentos públicos, vias públicas, áreas de reflorestamento, praças, etc.
+Risco: Impugnação pelos proprietários, sejam públicos e ou privados, quando da notificação do Auto de Demarcação Urbanística, não
+permitindo e ou inviabilizando os procedimentos para registro do PAL e posterior Titulação dos beneficiários.
+Ação Mitigadora: Propor conciliações em conjunto com os proprietários das glebas, PGM, e Cartórios de Registro de Imóveis, de modo a
+permitir alternativas para transposição das impugnações, sem a necessidade de judicialização da regularização.
+
+e) O Município deverá criar por Decreto uma Unidade Gerenciadora do Programa, com o objetivo de identificar, mapear e mitigar todos os
+riscos administrativos do processo de contratação da operação, condicionando os requisitos prévios para a assinatura do Contrato de
+Empréstimo.
+Risco: Unidade Gerenciadora do Programa com "stakeholders" que não fazem parte das políticas públicas a serem consideradas e
+também a ausência de integração entre os mesmos.
+Ação Mitigadora: Identificar corretamente as ações que serão empreendidas no programa e definir a participação de cada Órgão/Entidade
+do Município evitando conflito de atribuições que possam acarretar a duplicidade de atividades e ações.
+
+f) Risco de variação Cambial considerável.
+Risco: O câmbio poderá sofrer acréscimo considerável que venha a impedir a execução dos processos constantes das aquisições de bens
+, serviços, obras e serviços de engenharia, que tenham sido pactuados.
+Ação Mitigadora: Propor a utilização do sistema de conversão, vinculado à data do desembolso (contrato de câmbio); e acompanhar as
+variações cambiais, monitorando as oscilações de mercado e seus impactos no Contrato de Empréstimo pactuado. Ressalta-se que o
+valor de financiamento é compatível com a capacidade de pagamento do município de forma conservadora, de modo a diminuir este risco.
+
+g) Quanto à necessidade de realizar articulação com concessionárias de energia e água
+ Risco: o risco é baixo, visto que o Município mantém um bom relacionamento com as concessionárias.
+Ação Mitigadora: manter o bom relacionamento e estabelecer convênios ou acordos para atender as potenciais áreas elegíveis.
+
+Quanto a outros potenciais riscos associados a atos legais enumeramos as principais legislações que subsidiam a implementação dos
+principais produtos do Programa e norteiam o "modus operandi" da Administração Pública Municipal, os quais elencamos abaixo:
+- Constituição Federal de 1988 
+- Lei Orgânica do Município do Rio de Janeiro 
+- Plano Diretor - Lei Complementar nº 111, de 01 de fevereiro de 2011, revisado pela Lei Complementar nº 44, de 21/09/2021; 
+- Plano Plurianual - Lei nº 7.234, de 12/01/2022; 
+- Plano de Desenvolvimento Sustentável - Lei nº 6.906, de 24/05/2021; 
+- Plano de Regularização Urbanística e Fundiária - Lei Federal nº 13.465/2017; 
+- Lei de Responsabilidade Fiscal - Lei Federal nº 101/00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 29
+
+
+
+5.2. RISCOS/CONTRATAÇÕES
+As aquisições de bens e as contratações de obras e serviços inerentes ao PROAP IV estarão sujeitas aos procedimentos constantes do
+Regulamento de Licitações e Contratações do Banco Interamericano de Desenvolvimento que constam do Manual do Banco e no Contrato
+ de Empréstimo.
+A execução do Programa irá requerer a contratação de empresas de consultorias especializadas que auxiliarão as equipes da Prefeitura.
+Tais empresas serão contratadas por licitação no momento oportuno, em consonância com a determinação do contrato de empréstimo.
+Destacamos como principais contratações as obras de urbanização, serviços de consultoria, supervisão ambiental assim como apoio ao
+gerenciamento do contrato junto à UGP que será criada.
+Riscos: Os riscos de contratações estão relacionados à ausência de critérios técnicos e de rigor durante a realização dos procedimentos
+licitatórios o que pode ocasionar na escolha de empresas técnica ou financeiramente incapazes, acarretando má qualidade na execução
+de obras e projetos, desempenho técnico inadequado no acompanhamento das obras e do Programa.
+Ações Mitigadoras: Para minimizar a ocorrência de tais problemas adotaremos a análise e aprovação dos projetos por equipe
+multidisciplinar, composta por técnicos da SMH, e de outros órgãos que possuam transversalidade nos temas permitindo um nível maior
+de detalhamento e menos riscos de termos aditivos. Adotaremos também critérios técnicos compatíveis com o grau de complexidade da
+obra na qualificação técnica dos Termos de Referência permitindo a seleção de empresas com capacidade técnica e operacional
+condizentes com a natureza da obra.
+Abaixo elencamos legislação municipal que poderá ser adotada suplementarmente em alguns certames licitatórios lembrando que em
+caso de conflitos há de prevalecer a legislação normativa do Agente Financiador, conforme previsto em legislação nacional e no contrato
+de Empréstimo.
+ - Lei Complementar nº 207/80 - CAF e suas alterações; 
+- Decreto Municipal nº 3.221/81 - RGCAF e suas alterações.
+
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+Toda a ação de desapropriação necessária para o desenvolvimento dos projetos do programa PROAP IV, deve ser iniciada em um
+processo administrativo na Secretaria Municipal de Habitação e encaminhado à Procuradoria Geral do Município (PGM) para dar
+prosseguimento na avaliação dos custos a serem pagos aos respectivos proprietários/expropriados. Em caso de imóveis pertencentes a
+outras esferas da administração pública, serão estabelecidas tratativas, visando à doação dos mesmos ao Município. Considerando a
+previsão de construção de empreendimento de habitação de interesse social e equipamento âncora ainda em análise dos projetos, está
+em fase de estudo a prospecção de terrenos (priorizando imóveis nas franjas, ou seja, no entorno próximo das áreas de intervenção) para
+contemplar domicílios oriundos dos planos de reassentamento e a proposta do equipamento âncora.
+Riscos: Os riscos de desapropriação dos imóveis e terrenos estão associados aos riscos jurídicos originários de avaliações entre outras
+tratativas que se tornem imóveis municipais, cabendo na pior situação a não efetivação do processo de desapropriação. 
+Ações Mitigadoras: Criação de um Grupo ou Comitê Gestor de Regularização Fundiária e Reassentamento, composto por técnicos da
+Habitação (SMH), Fazenda e Planejamento (SMFP) e PGM, para dar celeridade na execução das ações de desapropriação, regularização
+fundiária e realocações de habitações que serão contempladas pelo plano de reassentamento (item 5.6 RISCOS/REASSENTAMENTO),
+evitando conflitos e atrasos na execução das intervenções do programa. É previsto também a priorização de terrenos próprios municipais,
+bem como situações de terrenos com dívidas junto ao Município, sempre com propósito de reduzir o custo e dar função social a terrenos/
+imóveis subutilizados ou em estado de abandono, permitindo também a celeridade no processo de desapropriação. 
+Abaixo elencamos a legislação utilizada para o desenvolvimento do processo de desapropriação formal bem como Decreto que estabelece
+ diretrizes para realocação de moradias em assentamento informais:
+ - Decreto-Lei nº 3.365, de 21 de junho de 1941 - Desapropriação Utilidade Pública
+ - Lei nº 4.132, de 10 de setembro de 1962 - Desapropriação Interesse Social.- Decreto Rio nº 49.591/2021, 18/10/2021.
+
+
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+O Programa Proap IV possui aspectos positivos que se mostram maiores que os potenciais impactos negativos, uma vez que a
+viabilidade de se reorientar a ocupação dos assentamentos subnormais, propicia a melhoria de diversos aspectos ambientais dos quais se
+ destacam:
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 30
+a) A implantação de novas áreas de reflorestamento, a construção de pequenos hortos e a instalação de delimitadores, a preservação e
+recuperação de significativa área de Mata Atlântica existentes na Cidade, somando-se a outra revegetação já desenvolvidas pela
+Prefeitura do Rio, e que se utilizam, inclusive, da mão-de-obra das comunidades.
+Riscos/Oportunidades: Preservação e recuperação da Mata Atlântica.
+Ações mitigadorass: Potenciar a orientação da ocupação em assentamentos subnormais.
+
+b) A regularização das ocupações situadas em encostas contribuirá para a redução da erosão do solo e da ocorrência de deslizamentos,
+diminuindo ainda o aporte de sedimentos aos cursos d'água das regiões atendidas pelo Programa. A qualidade da água dos corpos
+hídricos também será favorecida pela implantação de redes de esgoto e de drenagem naqueles locais.  
+Riscos/Oportunidades: Redução dos deslizamentos de encostas e do assoreamento e poluição dos cursos d'água.
+Ações Mitigadoras: Potencializar a orientação das ocupações associadas às soluções de infraestrutura para as redes de esgoto e
+drenagem de águas pluviais.
+
+c) A ampliação de áreas livres, o incremento da arborização de praças e o plantio de árvores deverá contribuir para a redução da
+formação de ilhas de calor, tão comuns em áreas de grande adensamento populacional com as áreas objeto das intervenções.
+Os impactos sociais e econômicos são bastante significativos, pois acabam oportunizando a incorporação destes assentamentos à área
+urbana integrando-os a seu segmento formal, determinando ainda um aumento da arrecadação rnunicipal, geração de renda e o resgate
+da cidadania de seus habitantes.
+Riscos/Oportunidades: Redução da formação de ilhas de calor. 
+Ações Mitigadoras: Potencializar a orientação da ocupação em assentamentos subnormais.
+
+d) A adoção de conceitos como reuso da água, telhados verdes, eficiência energética e de durabilidade de materiais na concepção dos
+projetos habitacionais contribuirá para uma maior sustentabilidade ambiental do Programa.
+Riscos/Oportunidades: Sustentabilidade ambiental das construções.
+Ações Mitigadoras: Potencializar a orientação da ocupação sustentável em assentamentos subnormais.
+
+e) A previsão e sistemas apropriados para coleta e reciclagem de resíduos sólidos e a reutilização de resíduos de demolições propiciará a
+redução do envio desses materiais aos Aterros sanitários, permitindo uma melhor utilização dessas instalações, assim como, a redução
+das emissões de gases de efeito estufa- GEE deste setor.
+Riscos/ Oportunidades: Redução do envio de resíduos sólidos aos aterros sanitários e das emissões de GEE associadas.
+Ações Mitigadoras: Potencializar a orientação da ocupação sustentável em assentamentos subnormais.
+
+f) A garantida da implantação de bicicletários e, sempre que possível, de ciclovias contribuirá para uma redução das emissões de
+poluentes atmosféricos e de gases de efeito estufa.
+Riscos/ Oportunidades: Redução das emissões de poluentes atmosféricos e de gases de efeito estufa.
+Ações Mitigadoras: Potencializar a mobilidade sustentável.
+
+g) Os impactos sociais e econômicos são bastante significativos, pois acabam oportunizando a incorporação destes assentamentos à área
+urbana integrando-os a seu segmento formal, determinando ainda um aumento da arrecadação municipal, geração de renda e o resgate
+da cidadania de seus habitantes.
+Riscos/ Oportunidades: Aumento de arrecadação municipal, geração de renda.
+Ações Mitigadoras: Potencializar a incorporação de assentamentos nas áreas urbanas.
+
+
+
+5.5. RISCOS/IMPACTO SOCIAL
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 31
+O trabalho Técnico Social proposto no Programa pressupõe o reconhecimento do território, suas características e dinâmica de
+funcionamento. Sendo assim, não foram identificados preliminarmente a presença de populações tradicionais como indígenas,
+quilombolas e extrativistas nas localidades alvo das intervenções urbanísticas.
+No contexto do  PROAP IV, a Prefeitura da cidade do Rio de Janeiro inicia a quarta etapa e se propõe, a partir das experiências e lições
+aprendidas no PROAP I, II e III, a avançar no enfrentamento aos possíveis entraves ao desenvolvimento dos projetos, buscando antever
+aos riscos ocasionados por variáveis externas e internas conforme abaixo:
+
+a)Violência urbana 
+Riscos: Sabemos que a influência do poder paralelo é um elemento presente na cidade e poderá interferir na realidade local de cada
+projeto de maneiras diferentes, sendo considerado um fator dificultador do ponto de vista do cumprimento do cronograma das atividades,
+bem como aos conflitos decorrentes de incursões policiais ou mesmo entre facções. 
+Ações Mitigadoras:
+-Ampliação do prazo de execução das intervenções nas áreas com presença e interferência do poder paralelo para compatibilização e
+execução do PTS (quando necessário);
+-Reuniões preparatórias com as lideranças locais e associações de moradores na etapa "pré-obras" para sensibilização e mediação
+quanto à entrada do poder público nos territórios para execução das intervenções;
+-Criação de agenda sistemática com o Comitê Local de Acompanhamento do Programa e elaboração de um Plano de Comunicação Local
+que garanta fluidez e transparência nas agendas dos serviços a todos os moradores.
+
+b) Descompasso entre os processos licitatórios de obras e do Trabalho Técnico Social 
+Riscos: Considerando as características das intervenções propostas nos projetos integrados é fundamental que o Trabalho Técnico Social
+seja iniciado na etapa "pré-obras", tendo em vista a premissa do desenvolvimento de um trabalho dialógico com os moradores, baseado
+na participação comunitária e na transparência.
+Ações Mitigadoras: 
+Designação destas licitações como contratações prioritárias do programa;
+Realização de reuniões técnicas sistemáticas de planejamento das intervenções, envolvendo as equipes internas da SMH e assessoria
+jurídica, para compatibilização das ações e minimização do tempo de avaliação dos projetos nos órgãos licenciadores e de controle
+interno da Prefeitura;
+Realização de reuniões técnicas sistemáticas de acompanhamento dos projetos após o início, envolvendo o Responsável Técnico do
+projeto social, o Responsável Técnico do projeto de obras, os fiscais dos contratos e as empresas executoras em campo para
+compatibilização das ações e adequações necessárias.
+
+
+
+5.6. RISCOS/REASSENTAMENTOS
+a)Relacionados à quantidade de unidade habitacionais
+Riscos: Considerando a perspectiva de atendimento do programa, foi estimado um percentual de 10% dos domicílios a serem
+contemplados com plano de realocação. Tendo em vista o lapso temporal dos dados existentes relacionados ao CENSO 2010 (IBGE),
+poderá impactar negativamente no valor estimado.
+Ações Mitigadoras: Foi considerado uma margem de erro para mais no número de domicílios a serem reassentados, tendo em vista os
+atuais índices utilizados para desenvolvimento de projetos de infraestrutura em Área de Especial Interesse Social, que variam de 5% a 8%
+. Além disso, se prevê a elaboração de projetos que priorizem a redução de reassentamentos, moderando as realocações sempre que
+possível sem perda da boa execução do projeto.
+
+b)Relacionados à dificuldade na aceitação da realocação de moradia
+Riscos: As edificações contempladas nos planos de realocação, poderão ser atreladas a realocação voluntária ou involuntária, a depender
+ das áreas definidas. Há que se considerar também os processos judiciais em andamento resultantes de Ações Civis Públicas.
+Ações Mitigadoras: Em situações de realocação involuntário, após as tratativas convencionais de negociação buscando acordo de forma
+amigável, se houver necessidade, poderão ser tratados como processos de desapropriação o qual existe o envolvimento do comitê gestor,
+ conforme descrito nos riscos e ações mitigadoras do item 5.3. RISCOS/DESAPROPRIAÇÕES - INDENIZAÇÕES.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:12
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60960
+Página: 32
+
+c)Relacionados à temporalidade. 
+Riscos:  As dificuldades poderão ocorrer desde o processo de negociação com as famílias nos processos de compra assistida (tendo em
+vista o valor base calculado através do Decreto Rio 49.591/2021) até a fase de liberação do recurso financeiro para a compra, que tem
+que cumprir um rito administrativo interno próprio da Prefeitura, regulado por legislações específicas.
+Ações Mitigadoras: Com o objetivo de auxiliar os beneficiários, se prevê a busca ativa no território de um banco de imóveis à venda para
+dar celeridade no processo da compra assistida, com opções já averiguadas pela equipe técnica.
+
+d)Relacionados a dificuldades operacionais relativas a atrasos no reassentamento das famílias 
+Riscos: Da mesma forma as dificuldades poderão ocorrer desde o processo de negociação com as famílias até a sua realocação para a
+moradia provisória, com a concessão do Auxílio Habitacional Temporário (AHT), até que se tenha a provisão de moradia definitiva.
+Em ambos os casos, os atrasos poderão gerar impactos na execução das demais intervenções nos territórios.
+Ações Mitigadoras: Se prevê a realização de reuniões técnicas sistemáticas de acompanhamento do Projeto Executivo de Realocação de
+cada território, envolvendo as equipes internas da SMH, fiscais dos contratos e assessoria jurídica para compatibilização das ações e
+minimização do tempo de tramitação dos processos junto aos órgãos de controle interno da Prefeitura. 
+
+e)Relacionadas ao custo
+Riscos: Os valores considerados no subcomponente (S) 1.4 - Realocação de Edificações poderão ser influenciados pelo mercado
+imobiliário, limitando o quantitativo estimado para realocação.
+Ações Mitigadoras: Reconhecendo as possíveis alterações de mercado, foi considerado um valor estimado para produção habitacional
+acima do utilizado no mercado popular de habitação no ano de 2022. Mesmo assim é sabido sobre as alterações que o mercado da
+construção civil pode ter diante das variações governamentais e econômicas, maiores do que o valor estimado. Sendo assim, o Programa
+priorizará a utilização de terrenos próprios municipais e/ou que estão associados a processos judiciais visando reintegração de posse,
+reduzindo o valor final da Unidade Habitacional, desconsiderando o valor do terreno implícito na estimativa. 
+Ainda para produção habitacional busca-se parcerias com outras esferas governamentais e outros, a fim de garantir a execução do
+Programa dentro do valor considerado. Com relação as modalidades valoradas pelo Decreto nº49.591, cabe incorporar que a busca ativa
+dos imóveis, descrita nas ações mitigadoras do risco 5.3.3, consideram prioritariamente os classificados como baixa renda vinculados a
+incentivos fiscais existentes na PCRJ, isentos dos impostos ITBI e IPTU.
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+Informações relevantes
+- 11/09/2023: Retirada de pauta pela 166ª Cofiex (01/06/2023) com base no art. 4º, inc. I, "e" da Resolução COFIEX nº 17/2021, tendo em
+vista que o valor da operação pleiteada violaria o Espaço Fiscal do pleiteante.
+ 
+ 

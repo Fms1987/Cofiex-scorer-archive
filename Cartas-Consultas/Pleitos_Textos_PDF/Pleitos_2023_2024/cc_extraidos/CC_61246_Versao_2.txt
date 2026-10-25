@@ -1,0 +1,1194 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Programa Novo Seguro de Crédito à Exportação (NSCE) da ABGF
+Nº Carta Consulta: 61246
+Processo: 03101.003080/2024-91
+Mutuário: Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A.
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  11 de Outubro de 2024
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 300.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:41
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61246
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+04
+2. PROJETO ....................................................................................................................................................................................................... 05
+2.1. TÍTULO ............................................................................................................................................................................................ 05
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 05
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 05
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 05
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 05
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 06
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 08
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 09
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 09
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 11
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 11
+3. FINANCIAMENTO .......................................................................................................................................................................................... 11
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 11
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 11
+4. EXECUÇÃO ...................................................................................................................................................................................................
+11
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 11
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 12
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 12
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 12
+5. RISCOS .......................................................................................................................................................................................................... 14
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 14
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 14
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 14
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 14
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 15
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 15
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+15
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:41
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61246
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+O Seguro de Crédito à Exportação (SCE), operado pela ABGF, em nome da União/CAMEX, e lastreado pelo Fundo de Garantia à
+Exportação (FGE) - um fundo de natureza contábil (FNC) instituído pela Lei 9.818/99(1) tem viabilizado bilhões de dólares em exportações
+ brasileiras.
+
+1)Primeiro problema: o formato atual do SCE limita as possibilidades de apoio à exportação, pois deveria seguir a lógica de um fundo
+financeiro. Além disso, pode impactar outras necessidades orçamentárias ao ocupar, inesperadamente, espaço no Orçamento Geral da
+União (OGU).
+Apesar do equilíbrio atuarial do FGE(2), seu caráter de FNC faz com que as necessidades de indenização concorram com outras
+despesas orçamentárias, afetando o equilíbrio fiscal e reduzindo o potencial de cobertura de crédito. No modelo atual, flutuações entre
+receitas estimadas e despesas fixadas, comuns na dinâmica orçamentária, representam risco à execução do SCE nos termos pactuados,
+comprometendo a credibilidade e a honra dos compromissos, essenciais neste setor.
+
+2)Segundo problema: a dinâmica atual do SCE tem baixa focalização no apoio do acesso ao crédito à exportação à MPMEs.
+Historicamente, a estrutura do SCE concentra-se em grandes empresas e setores específicos de alto valor agregado(3).  Em setembro de
+2024, o FGE mostrou elevada concentração em grandes empresas(4). Essas operações estão usualmente associadas a itens exportáveis
+de alto valor agregado associadas a itens de alto valor agregado, o que amplia o risco do sistema de apoio oficial.
+Para as Micro, Pequenas e Médias Empresas (MPMEs), o histórico de inadimplência, somado à baixa liquidez e à qualidade limitada das
+garantias, gera custos elevados ou mesmo inviabilidade na obtenção de crédito junto a bancos privados. Consequentemente, conforme
+dados do SEBRAE e Banco Central(5), poucas MPMEs acessam o crédito nacional. Até agosto de 2024, as MPMEs ocuparam uma
+participação irrisória no SCE(6). Em contraste, outras ECAs internacionais têm foco mais expressivo nas MPMEs(7), o que poderia
+aumentar o valor exportado por essas empresas no Brasil, historicamente baixo(8). 
+
+Para solucionar ambos os problemas, propõe-se que a ABGF seja o veículo para transformação do SCE, atuando em coordenação com
+MDIC, CAMEX e Ministério da Fazenda, estabelecendo o Novo Seguro de Crédito à Exportação (NSCE). Nesse modelo, o pagamento de
+indenizações teria como primeiro recurso um lastro financeiro gerido pela ABGF e, em última instância, o lastro contábil do FGE.
+A Lei 12.712/2012 autorizou a criação da ABGF para concessão de garantias, especialmente em operações de crédito no comércio
+exterior, permitindo inclusive a criação de fundos garantidores. A Lei 6.704/79 estabelece que a ABGF pode ser contratada para todos os
+serviços relacionados ao SCE. 
+
+O Parecer 120/2024/CONJUR-MDIC/CGU/AGU reforça que "a concessão de garantia da cobertura dos riscos comerciais e dos riscos
+políticos e extraordinários do SCE só pode ser contratada pela ABGF." Além disso, o Parecer SEI nº 3327/2024/MF - PGFN (Procuradora-
+Geral da Fazenda Nacional) viabiliza o compartilhamento de risco entre o lastro financeiro da ABGF e o FGE sem necessidade de
+alteração legislativa.
+
+"... se pode a União fazer o mais, deveria poder também, a princípio, fazer o menos; se pode responder pelo todo, deveria poder também,
+a princípio, responder pela parte, no caso, pela parte correspondente às despesas originadas após certo intervalo, ou se configurada
+hipótese específica (cut through) no escopo do cogitado compartilhamento de riscos entre o ente e seu parceiro" PARECER SEI Nº 3327/
+2024/MF - PGFN
+
+O modelo proposto está em consonância com a Resolução GECEX 493/2023(9) do Comitê-Executivo de Gestão da Câmara de Comércio
+Exterior.
+
+Para aprofundamento e dados do diagnóstico, consultar Anexo 1 e Anexo 6
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+Solução: A ABGF busca financiamento para implementar o lastro financeiro do NSCE, que apoiará novas operações de seguro de crédito
+à exportação com índices sustentáveis de alavancagem. Espera-se que, com o tempo, o lastro se torne autossustentável a partir da
+operação do modelo. Além disso, o novo modelo será moldado para ampliar o foco nas MPMEs.
+Além dos recursos solicitados, o apoio do Banco Interamericano de Desenvolvimento (BID) é fundamental para a formatação final do
+NSCE e para a estratégia de ampliação do produto para as MPMEs.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:41
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61246
+Página: 3
+Para assegurar a competitividade de seus produtos no mercado internacional, muitos governos criaram suas próprias agências de apoio à
+exportação (Export Credit Agencies - ECAs). No caso do Brasil, optou-se pela instituição da ABGF, com o objetivo de criar uma agência de
+ garantias que apoie as exportações. Este pleito contribuirá para o desenvolvimento completo da ECA brasileira.
+A ABGF está sendo estruturada como um veículo para implementar o Novo Seguro de Crédito à Exportação (NSCE), com base em
+normativas definidas em coordenação com a Secretaria Executiva da CAMEX, vinculada ao MDIC, o Ministério da Fazenda, e outros
+órgãos governamentais relevantes. Esse modelo é resultado de discussões governamentais que remontam a 2013, quando foi autorizada
+a criação da ABGF. Desde então, o Grupo Executivo da Câmara de Comércio Exterior (GECEX) e seus grupos técnicos (GTs)(10) vêm
+apontando a necessidade de um mecanismo financeiro de natureza privada, como um fundo ou empresa pública, para superar entraves
+históricos.
+
+O modelo proposto assegura a sustentabilidade do NSCE, limitando a exposição ao risco ao valor atuarial do lastro do mecanismo,
+considerando prêmios arrecadados e pagamentos de indenizações. A subscrição técnica robusta do NSCE será essencial para a sua
+viabilidade.
+
+Estrutura Operacional do NSCE:
+1.A ABGF constituirá o lastro inicial do NSCE, utilizando parte de seus recursos em caixa e o financiamento do BID, de acordo com
+avaliação atuarial e de risco para inclusão de operações.
+2.O NSCE arrecadará prêmios de seguro conforme operações realizadas.
+3.A ABGF será responsável pela indenização dos sinistros caracterizados.
+4.Nos termos da Lei 6.704/79 e da Resolução GECEX nº 493/2023, a União atuará como última instância de risco, cobrindo indenizações
+via FGE apenas se o lastro financeiro do NSCE for insuficiente.
+
+O Parecer SEI nº 3327/2024/MF confirma a viabilidade desse modelo de compartilhamento de risco com a União, sem necessidade de
+alteração legislativa. A implementação do NSCE está sendo estruturada com o MDIC, com eventuais ajustes normativos no âmbito federal
+.
+
+Com essa estrutura, o impacto para o OGU será reduzido, pois a União será responsável pelo pagamento de indenizações apenas em
+última instância. Atualmente, na LOA 2025, há previsão de R$ 1,01 bilhões para indenizações que afetam o resultado primário; com o
+NSCE, a necessidade de alocação desses valores poderá ser reduzida e suplementada apenas em casos extremos.
+
+Além disso, o modelo prevê o compartilhamento dos prêmios de seguro entre União e ABGF, conforme percentual a ser definido por
+normativas específicas. O acionamento do FGE ocorrerá exclusivamente como recurso de última instância, em conformidade com normas
+a serem estabelecidas junto à CAMEX.
+
+Foco em MPMEs e Inclusão:
+O NSCE será especialmente importante para apoiar exportações das Micro, Pequenas e Médias Empresas (MPMEs), promovendo
+estratégias como a flexibilização do produto, ampliação de canais digitais de divulgação e outras iniciativas. Esse enfoque visa colocar o
+Brasil em níveis comparáveis a outros países no apoio a MPMEs. Estima-se que o NSCE poderá disponibilizar bilhões de reais para esse
+segmento.(11)
+
+Além disso, o NSCE tem potencial para facilitar o acesso ao crédito para MPMEs lideradas por mulheres, um segmento que, segundo
+dados do SME Finance Forum(12), enfrenta distorções no mercado de crédito, fazendo com que as garantias sejam essenciais para esse
+público.
+
+Ainda, o NSCE também será relevante para potencializar o apoio às exportações das MPMEs, por meio de estratégias de soluções
+focadas no segmento a partir da maior flexibilização do produto, ampliação de canais digitais de divulgação e interação, bem como outras
+iniciativas que permitem ao país atingir patamar semelhantes aos seus pares no apoio a esse segmento.
+
+A ABGF está implementando estruturas permanentes, como um sistema automatizado para facilitar o acesso das MPMEs ao cadastro e
+aprovação de crédito, além de ampliar parcerias com bancos públicos e privados. O apoio do BID é fundamental para identificar gargalos,
+definir estratégias e sugerir ações que maximizem o impacto do NSCE no apoio às MPMEs
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:41
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61246
+Página: 4
+Destino dos recursos
+O financiamento do BID será destinado ao lastro financeiro inicial do NSCE, permitindo a formação gradual de um colchão financeiro. Esse
+lastro, aplicado em investimentos de baixo risco, e a arrecadação de prêmios, garantirá a sustentabilidade do modelo e o pagamento ao
+BID.
+
+Análises iniciais indicam que o financiamento via BID é vantajoso para a administração pública, oferecendo uma economia de
+aproximadamente 26,46% em relação ao custo dos títulos do Tesouro Nacional (Anexo 2). Com premissas conservadoras de rendimento
+e arrecadação de prêmios, o NSCE mostra-se sustentável, mitigando riscos para a União.
+
+Os recursos do financiamento serão integralmente usados como lastro financeiro, enquanto as demais ações da ABGF serão financiadas
+por receitas operacionais
+
+Expansão de Recursos Humanos:
+
+A ABGF está planejando uma expansão gradual de sua equipe, prevista para 2025, em coordenação com a Secretaria de Coordenação e
+Governança das Empresas Estatais do Ministério da Gestão e da Inovação em Serviços Públicos (SEST/MGI). Essa expansão integra a
+estratégia de implantação do NSCE e deverá gerar um incremento de R$ 1,2 milhão em 2025 e R$ 1,9 milhão em 2026 em custos de
+pessoal. Esse incremento será sustentado pelas receitas operacionais da companhia e não pelo financiamento pleiteado
+
+Resultados Esperados:
+1.Operacionalização, pela ABGF, de um NSCE sustentável e autossuficiente, com previsibilidade para pagamento de indenizações e
+mitigação de impacto orçamentário.
+2.Ampliação do acesso das MPMEs ao SCE, superando barreiras que impedem pequenos exportadores de obter crédito.
+
+Metas:
+1.Operacionalização, pela ABGF, de pelo menos US$ 1,55 bi a.a. de operações aprovadas pelo NSCE em US$.
+2.Operacionalização, pela ABGF, de R$ 290 milhões em operações via NSCE para MPMEs, após 365 dias da implementação do NSCE.
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+1.3.1 Marco de Referência
+-Lei nº 12.712, de 30 de agosto de 2012
+-Lei nº 6.704, de 26 de outubro de 1979
+-Resolução GECEX nº 493 de julho de 2023
+
+1.3.2 Contrapartida:
+-Não são previstas contrapartidas, dado que 100% do capital da ABGF pertence à União
+1.3.3. Taxa de Câmbio:
+-1 US$ = R$ 5,5257
+
+Orientações estratégicas:
+O projeto está alinhado ao objetivo estratégico:
+2) Promover o crescimento e aprimoramento dos negócios da ABGF. 
+
+Em dezembro de 2024, a ABGF revisará seu planejamento estratégico 2024 - 2028, acrescentando objetivos relacionados ao NSCE.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:41
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61246
+Página: 5
+Referência: Banco Central do Brasil, PTAX de Compra. Data de Referência: 23/08/2024.
+
+2. Projeto
+2.1. Título
+Programa Novo Seguro de Crédito à Exportação (NSCE) da ABGF
+2.2. Título Abreviado
+NSCE
+2.3. Mutuário
+Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A.
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+OBJETIVO GERAL: 
+O objetivo do financiamento será permitir que a ABGF apoie a operacionalização do NSCE, viabilizando um modelo autossustentável de
+provisão de garantia ao crédito à exportação, visando superar o longo histórico que acompanha o mecanismo, além de promover maior
+acesso das MPMEs ao NSCE.
+
+A partir do lastro financeiro criado, as operações do NSCE serão suportadas por tal lastro no primeiro plano e pelo FGE tão somente em
+última instância. No longo prazo, a partir da credibilidade gerada pelo NSCE, espera-se que o FGE possa ser completamente substituído
+pelo novo lastro.
+
+O lastro financeiro, aplicado em investimentos de baixo risco, e a arrecadação de prêmios, garantirá a sustentabilidade do modelo e o
+pagamento ao BID. 
+
+Conforme descrito na carta, o detalhamento do modelo está sendo construído em conjunto com os atores governamentais competentes, e
+será definido ao longo da preparação do Projeto com apoio técnico do BID 
+
+ 
+OBJETIVOS ESPECÍFICOS:
+Objetivo 1: Constituir lastro financeiro para viabilizar a operacionalização do Novo Seguro de Crédito à Exportação, atuarialmente
+sustentável e autossuficiente, com previsibilidade de pagamento de indenizações.
+ 
+Objetivo 2: Expandir o acesso das MPMEs ao Seguro de Crédito à Exportação por meio das ações da ABGF junto ao BID, utilizando os
+recursos do empréstimo para operacionalizar o NSCE. Isso permitirá à ABGF oferecer maior agilidade, flexibilidade e alcance ao produto,
+superando um dos maiores obstáculos para os pequenos exportadores na obtenção de crédito.
+ 
+O apoio do BID é fundamental para identificar gargalos, definir estratégias e sugerir ações que maximizem o impacto do NSCE no apoio
+às MPMEs. O banco viabilizará cooperação técnica não reembolsável para apoiar na definição dessa estratégia. Entende-se que tais
+ações passarão por identificar gargalos, elaborar estratégia de divulgação, de ampliação da capilaridade do produto por meio de rede de
+multiplicadores do produto, estratégias de apoio à carteira de crédito de MPMEs de bancos, digitalização, entre outras iniciativas.
+
+
+2.6. Projeto/Indicadores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:41
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61246
+Página: 6
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Operacionalizar o Novo seguro de crédito à
+exportação através de novas operações
+Valor a.a. de
+operações aprovadas
+com garantia do
+NSCE em US$ bi,
+contados 365 dias da
+implantação do NSCE
+. (Ver Anexo 5
+Indicadores) 
+US$ bilhões /a.a.
+0,00
+1,55
+Aumentar o volume de financiamento destinado
+às MPMEs integrantes do sistema de apoio
+oficial
+Volume de
+financiamento
+aprovado pelo NSCE
+caracterizado como
+MPMEs (a
+caracterização será
+derivada das
+definições legais dos
+portes que
+caracterizam as
+MPMEs) em R$ Mi,
+contados 365 dias da
+implantação do NSCE
+. (Ver Anexo 5
+Indicadores) 
+R$ Mi
+101,77
+291,00
+2.7. Projeto/Componentes
+Componentes
+Valor(US$)
+C - OPERACIONALIZAÇÃO DO NOVO SCE EM COORDENAÇÃO COM O MDIC
+0,00
+   S - ADEQUAÇÃO INTERNA DA ABGF
+0,00
+      P - Realização de Concurso Público. 
+0,00
+      P - Desenho do veículo financeiro (Fundo ou reorganização societária da empresa)
+0,00
+      P - Elaboração da Nota Técnica Atuarial para o novo modelo
+0,00
+      P - Registro perante a SUSEP 
+0,00
+   S - REGULAÇÃO DO NOVO SCE
+0,00
+      P - Publicação de Decreto Federal para regulamentação do NSCE 
+0,00
+      P - Publicação de Resolução com regulamentação técnica do NSCE
+0,00
+C - MANTER COBERTURA SUFICIENTE PARA O VOLUME DE EXPORTAÇÕES ATUAIS COBERTAS PELO
+SCE
+300.000.000,00
+   S - RISCO
+0,00
+      P - Elaboração da política de subscrição de risco para o NSCE 
+0,00
+   S - CRIAÇÃO DA POLÍTICA DE INVESTIMENTOS DO NSCE
+300.000.000,00
+      P - Constituição dos ativos
+300.000.000,00
+      P - Aplicação das disponibilidades
+0,00
+C - AUMENTO DO NÚMERO DE MPMES INTEGRANTES DO SISTEMA DE APOIO OFICIAL À EXPORTAÇÃO
+0,00
+   S - INSTRUMENTOS INTERNOS EM COORDENAÇÃO COM O MDIC
+0,00
+      P - Adaptação do sistema atual de SCE para MPMEs
+0,00
+      P - Desenvolvimento digital em marketplaces focados no exportador
+0,00
+P - Construção de produtos customizados para MPMEs, como cobertura de carteiras de crédito focadas em
+crédito ao comércio exterior, com enfoque em MPMEs e com a coordenação do MDIC.
+0,00
+   S - ATORES EXTERNOS
+0,00
+      P - Planejamento estratégico para aumento do uso do NSCE com consultorias contratadas junto ao BID
+0,00
+P - Formalização de acordos de cooperação técnica com os principais atores governamentais no sistema de
+exportação e de MPMEs (APEX, Banco do Brasil e SEBRAE)
+0,00
+Total dos Componentes
+300.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - OPERACIONALIZAÇÃO DO NOVO SCE EM COORDENAÇÃO COM O MDIC
+O objetivo deste componente é implementar toda a estrutura administrativa e regulatória necessária para a implementação do novo
+ seguro de crédito à exportação
+   S - ADEQUAÇÃO INTERNA DA ABGF
+Este conjunto de produtos corresponde ao total de partes necessária para operacionalização do NSCE por parte da ABGF
+      P - Realização de Concurso Público. 
+De maneira a adequar a capacidade de operação, a ABGF realizará concurso público, a partir de balizas definidas pela SEST, de
+forma a garantir efetivo permanente na empresa e garantir a continuidade do NSCE no longo prazo.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:41
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61246
+Página: 7
+      P - Desenho do veículo financeiro (Fundo ou reorganização societária da empresa)
+Esta medida visa alterar as estruturas internas e de governança da empresa visando um encaixe ideal com os objetivos do NSCE.
+      P - Elaboração da Nota Técnica Atuarial para o novo modelo
+Esta ação visa a elaboração da Nota Técnica Atuarial do modelo, documento que baliza as principais característica do seguro de
+crédito à exportação, abrangendo fatores como o preço a ser cobrado pela operação e regulamentação dos casos específicos
+tratados no âmbito do NSCE.
+      P - Registro perante a SUSEP 
+Registro perante a SUSEP 
+   S - REGULAÇÃO DO NOVO SCE
+Este conjunto de produtos corresponde ao total de partes necessária para operacionalização do NSCE dentro do ambiente
+infralegal brasileiro.
+      P - Publicação de Decreto Federal para regulamentação do NSCE 
+Conforme previsto na Lei 6.704/79 e no Decreto 3.937/01, existem uma série de parâmetros para a operacionalização do NSCE,
+para tanto prioriza-se junto aos órgãos governamentais a publicação de um decreto regulamentador de forma a estabelecer as
+balizas gerais do NSCE.
+      P - Publicação de Resolução com regulamentação técnica do NSCE
+A publicação de Resolução GECEX que complemente a Resolução GECEX 633/2024 e oferte ao NSCE diretrizes detalhadas e
+solidez normativa.
+C - MANTER COBERTURA SUFICIENTE PARA O VOLUME DE EXPORTAÇÕES ATUAIS COBERTAS PELO SCE
+O objetivo deste componente é implementar as práticas e os recursos necessários para a condução do novo lastro do NSCE, além
+das ferramentas que garantirão a boa gestão das disponibilidades financeiras e do risco do mecanismo financeiro.
+   S - RISCO
+Este conjunto corresponde aos instrumentos a serem utilizados para a regulação dos riscos aceitáveis para o novo mecanismo de
+garantias. 
+      P - Elaboração da política de subscrição de risco para o NSCE 
+Este produto tem a função de detalhar os parâmetros para aceitação das operações com cobertura do NSCE, dispondo sobre os
+limites para aceitação de novas operações e parâmetros para enquadramento no âmbito do seguro, a política ainda fornecerá os
+parâmetros mínimos e máximo de risco da carteira como um todo além dos mecanismos para diversificação do risco através de
+instrumentos locais e internacionais.
+   S - CRIAÇÃO DA POLÍTICA DE INVESTIMENTOS DO NSCE
+Este conjunto de produtos tem a função de detalhar os parâmetros de investimentos das disponibilidades do mecanismo,
+priorizando alta liquidez e hedges cambiais contra passivos em moedas estrangeiras, garantido assim uma cobertura que minimize
+o risco e maximize os retornos buscando sempre a fronteira eficiente entre os parâmetros.
+      P - Constituição dos ativos
+Este produto consiste na eficácia da entrada dos recursos no mecanismo financeiro, sendo o único que apresenta um custo deste
+financiamento, dado que o empréstimo será integralmente utilizado para a criação do lastro para o NSCE.
+      P - Aplicação das disponibilidades
+Este produto consiste na aplicação das políticas de investimentos e das regulamentações específicas cabíveis à ABGF.
+C - AUMENTO DO NÚMERO DE MPMES INTEGRANTES DO SISTEMA DE APOIO OFICIAL À EXPORTAÇÃO
+O objetivo deste componente é criar as estruturas mínimas para que a ABGF possa encontrar as MPMEs exportadoras que não
+encontram crédito dentro sistema atual e impulsionar as MPMEs ainda não exportadoras a entrar nesse mercado.
+   S - INSTRUMENTOS INTERNOS EM COORDENAÇÃO COM O MDIC
+Este conjunto de produtos corresponde aos instrumentos a serem desenvolvidos pela ABGF para maximiza o acesso das MPMEs
+ao NSCE.
+      P - Adaptação do sistema atual de SCE para MPMEs
+Este produto corresponde a atualização dos sistemas de T.I internos da ABGF para a operacionalização do NSCE, dado que hoje
+ele atua apenas para operações com lastro no FGE.
+      P - Desenvolvimento digital em marketplaces focados no exportador
+Este produto corresponde ao desenvolvimento de novos instrumentos digitais que estejam em ambientes de fácil acesso para o
+exportador, é essencial que esse produto seja facilmente acessível para as MPMEs e esteja integrado a ambientes virtuais
+conhecidos por esse grupo.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:41
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61246
+Página: 8
+P - Construção de produtos customizados para MPMEs, como cobertura de carteiras de crédito focadas em crédito ao
+comércio exterior, com enfoque em MPMEs e com a coordenação do MDIC.
+Este produto corresponde ao desenvolvimento de mecanismos adicionais para as MPMEs, visando a diversificação de fontes pelas
+quais o exportador pode acessar os benefícios do NSCE, essa ação visa capilarizar o atendimento a esse público através da
+cooperação da ABGF com carteiras de crédito que sejam especializadas em crédito no exterior e em MPMEs, oferecendo parte de
+cobertura para a carteira de crédito em troca de condições favoráveis para as MPMEs. 
+   S - ATORES EXTERNOS
+Este conjunto de produtos corresponde aos esforços institucionais da ABGF na promoção conjunta dos produtos para as MPMEs
+exportadoras.
+      P - Planejamento estratégico para aumento do uso do NSCE com consultorias contratadas junto ao BID
+Este produto corresponde ao desenvolvimento de um planejamento estratégico específico para os canais de distribuição dos
+produtos idealizados pela ABGF, inicialmente a consultoria passará pela etapa do diagnóstico e chegará a um plano de ação
+visando suprir as defasagens existentes no mercado de crédito.
+P - Formalização de acordos de cooperação técnica com os principais atores governamentais no sistema de
+exportação e de MPMEs (APEX, Banco do Brasil e SEBRAE)
+Este produto corresponde à formalização de acordos de cooperação técnica entre os diversos agentes governamentais voltados
+para a promoção da exportação, com isso é esperado que ocorra uma sincronização de objetivos entre as entidades e o
+aprimoramento dos produtos de todas as partes envolvidas.
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Outros
+-
+-
+300.000.000,00
+100,00
+P- Realização de Concurso Público. 
+%
+100,00
+0,00
+0,00
+P- Desenho do veículo financeiro (Fundo ou
+reorganização societária da empresa)
+%
+100,00
+0,00
+0,00
+P- Elaboração da Nota Técnica Atuarial para o
+novo modelo
+%
+100,00
+0,00
+0,00
+P- Registro perante a SUSEP 
+%
+100,00
+0,00
+0,00
+P- Publicação de Decreto Federal para
+regulamentação do NSCE 
+%
+100,00
+0,00
+0,00
+P- Publicação de Resolução com regulamentação
+técnica do NSCE
+%
+100,00
+0,00
+0,00
+P- Elaboração da política de subscrição de risco
+para o NSCE 
+%
+100,00
+0,00
+0,00
+P- Constituição dos ativos
+US$
+300.000.000,
+00
+300.000.000,00
+100,00
+P- Aplicação das disponibilidades
+%
+100,00
+0,00
+0,00
+P- Adaptação do sistema atual de SCE para
+MPMEs
+%
+100,00
+0,00
+0,00
+P- Desenvolvimento digital em marketplaces
+focados no exportador
+%
+100,00
+0,00
+0,00
+P- Construção de produtos customizados para
+MPMEs, como cobertura de carteiras de crédito
+focadas em crédito ao comércio exterior, com
+enfoque em MPMEs e com a coordenação do
+MDIC.
+%
+100,00
+0,00
+0,00
+P- Planejamento estratégico para aumento do uso
+do NSCE com consultorias contratadas junto ao
+BID
+%
+100,00
+0,00
+0,00
+P- Formalização de acordos de cooperação
+técnica com os principais atores governamentais
+no sistema de exportação e de MPMEs (APEX,
+Banco do Brasil e SEBRAE)
+%
+100,00
+0,00
+0,00
+Total Geral
+-
+-
+300.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+O item C1 vem sendo levado a diante pela ABGF desde o início do ano de 2023.A companhia está em discussões  junto à SEST para a
+reforma dos seus cargos  e início de processo para realização de concurso público para preenchimento de posições. A diretoria executiva
+da ABGF está em diálogo com a SUSEP para tratar do retorno do registro da empresa.
+
+A iniciativa também foi objeto de parecer jurídico Parecer SEI nº 3327/2024/MF da Procuradoria Geral da Fazenda Nacional (PGFN)
+acerca da viabilidade do novo modelo, bem como de eventuais estruturas de compartilhamento de risco da carteira com a União. Entende-
+se que eventual estrutura nesse sentido deve se dar de maneira a limitar eventual risco à União àqueles de cauda.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:41
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61246
+Página: 9
+Além disso, a ABGF tem apoiado a construção dos normativos governamentais que regrarão a matéria, a exemplo de decreto presidencial
+e resolução GECEX (junto ao MDIC) contendo o regramento para eventuais estruturas de compartilhamento de risco, bem como
+endereçando os papeis dos atores governamentais nessa nova estrutura. 
+
+
+Com relação ao C2, a ABGF, ao longo do ano, vem se rearticulando no cenário internacional, através da volta para o grupo das Export
+Credit Agency (ECAs) dos BRICS e a integração ao grupo mundial das ECAs (Berne Union), a empresa vem tomando conhecimento das
+principais estratégias de investimentos e de diversificação de riscos das maiores ECAs estrangeiras. Nesse sentido o BID está
+organizando rodadas com essas instituições para discutir quais seriam as melhores práticas que otimizam risco e retornos dentro do
+contexto das ECAs. No âmbito nacional, a política de subscrição de riscos do SCE amparado no FGE fornecerá parâmetros iniciais a
+serem incorporados ao NSCE.
+
+Por fim, no item C3, a ABGF por conta da retomada do PROEX pré-embarque com fornecimento do SCE, vem realizando diversas
+rodadas com o Banco do Brasil visando o alinhamento entre os processos do banco e da ABGF. Por parte da APEX a ABGF já participou
+de um podcast para o fornecimento de informações aos exportadores e assinou um termo de cooperação entre as instituições. Essa série
+de ações demonstra que a pauta de promoção da exportação das MPMEs é comum a todos esses importantes agentes do sistema de
+apoio oficial, sendo tais estruturas parte do arcabouço institucional que permeará o aumento das MPMEs na pauta exportadora,
+potencializando os efeitos do NSCE. Com apoio do BID será formalizada consultoria estratégica de expansão para MPMEs, visando assim
+ uma articulação que potencialize os usos e benefícios do sistema.
+
+
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Nacional/Sem detalhes
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+Condições Financeiras: 
+Segundo as condições mais atualizadas, os recursos do BID (US$ 300 milhões) terão um custo de SOFR + 1,2% em dólar, terão prazo
+máximo de 300 meses (25 anos), com até 60 meses de desembolsos e carência de até 72 meses, conforme a necessidade de capital
+provocado pelas operações, ou desembolso do total no primeiro ano, visando a maior rentabilização dos recursos.
+O cronograma de desembolso poderá ser antecipado em função da demanda do programa e da geração de carteira atingida pela ABGF
+No caso de um empréstimo do BID à ABGF com garantia soberana da República Federativa do Brasil, as condições são as seguintes:
+Prazo de Desembolso: em até 60 meses (5 anos) da data de assinatura do Contrato de Empréstimo Individual;
+Prazo de Carência: até 72 meses (6 anos), a contar da data de assinatura do Contrato de Empréstimo Individual; 
+Amortização: até 228 meses (19 anos). O esquema de amortização é flexível, desde que preservada a Vida Média Ponderada (VMP) de
+15,25 anos, podendo o principal ser amortizado em: (i) parcelas iguais e semestrais; (ii) uma única parcela (bullet); (iii) parcelas crescentes
+ao longo do tempo; ou (iv) parcelas irregulares, com prazo de carência estendido. Para este empréstimo, entende-se pertinente adotar a
+opção de parcelas iguais e semestrais, sem prejuízo de posterior alteração;
+Juros: A taxa de juros é definida pelo Mecanismo de Financiamento Flexível do BID. A taxa de empréstimos é composta por: (i) taxa
+variável com base na taxa SOFR (Secured Overnight Financing Rate) denominada em dólares norte-americanos, mais (ii) margem de
+captação do BID em relação a SOFR denominada em dólares norte-americanos, acrescida de (iii) spread de crédito variável de capital
+ordinário do BID.
+
+Comissão de crédito: percentual a ser cobrado sobre o saldo não desembolsado a partir de 60 dias após a contratação de 0,5% ao ano,
+podendo ser revista periodicamente, até o máximo de 0,75% ao ano.
+
+O custo total foi estimado considerando informações fornecidas pelo BID, o qual apresenta a seguinte composição: Taxa SOFR (cuja
+cotação em 07 de outubro era 4,85% a.a.) mais a margem composta pelo custo de captação e pelo spread ordinário de empréstimo do
+BID, atualmente em 0,4% e 0,8%, respectivamente. Assim, o custo total da taxa de empréstimo será equivalente a SOFR + 1,2% ao ano,
+em dólares.
+
+A modalidade de empréstimo será o Global Credit Loan (GCL) do Banco Interamericano de Desenvolvimento (BID). Trata-se de operação
+em que o BID concede uma linha de crédito a uma instituição intermediária (geralmente um banco de desenvolvimento ou uma agência de
+crédito) para financiar projetos voltados para objetivos específicos, como financiamento de pequenas e médias empresas (PMEs),
+projetos de infraestrutura ou setores prioritários de um país
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:41
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61246
+Página: 10
+Algumas características do GCL:
+1. Intermediário financeiro: O empréstimo é concedido a uma instituição que atua como intermediária entre o BID e os destinatários finais
+dos recursos (ex., empresas ou projetos).
+2. Flexibilidade: Permite que a instituição intermediária use os recursos para diversos subprojetos, com condições ajustadas às
+necessidades de cada beneficiário.
+3. Monitoramento: O BID mantém um controle menos direto sobre os subprojetos, confiando que a instituição intermediária faça a gestão e
+ monitoramento adequado das operações de crédito.
+4. Objetivos específicos: O GCL é normalmente direcionado a áreas prioritárias como sustentabilidade, inovação ou desenvolvimento
+econômico.
+
+Existe a possibilidade de realizar a internalização dos recursos através do swap de dólares para reais a ser definida no momento da
+formalização dos contratos e observando as condições de mercado. Sendo tal alternativa utilizada quando da presença de passivos em
+dólares.
+
+Necessidade de financiamento externo e a opção pelo agente financeiro:
+
+Conforme descritos em outros itens, a opção pelo financiamento do BID é uma forma eficiente de operacionalizar o NSCE. Além da
+vantajosidade quantitativa interna e externa (quando comparado com captações pelo Tesouro Nacional), o BID se propôs a auxiliar na
+estruturação do projeto através de consultorias pro bono que desenharão as melhores estratégias de capilarização do produto para as
+MPMEs e respaldo técnico para as políticas operacionais do fundo (como por exemplo: políticas de investimentos, riscos e subscrição de
+riscos) tal suporte será complementar ao financiamento ofertado, porém desvinculado do empréstimo em si e sem incorporar seu custo ao
+capital fornecido. 
+
+Componente 1: O BID auxiliará a estrutura do novo fundo através de consultorias pro bono auxiliando a eficácia da estrutura ora proposta.
+A assistência será crucial dado a expertise do banco tanto na área de mercado de capitais, quanto para as MPMEs, permitindo que o
+NSCE possua uma estrutura técnica robusta.
+Componente 2: Através de uma sólida política de investimentos e de riscos (que será desenvolvida em parceria com o BID), o lastro
+formado pelo empréstimo somado aos seus rendimentos permitirá o fornecimento contínuo e financeiramente autossustentável do NSCE
+Componente 3: O BID já atuou em diversos empréstimos no Brasil voltado para o fortalecimento das MPMEs, demonstrando-se como um
+banco com experiência no setor, aumentando as possibilidades de sucesso da política. 
+
+Além das condições vantajosas oferecidas pelo BID, o próprio NSCE, por ser um instrumento de lastro, permite a alavancagem de seus
+recursos, possibilitando que o lastro alocado cubra múltiplas operações de seguro de crédito. Como exemplo, o FGE, atualmente baseado
+nas normas de Basileia, permite uma alavancagem de 9,09 vezes, o que significa que cada real alocado pode cobrir até 9,09 reais em
+operações de crédito.
+
+A fonte tem condições atrativas para a ABGF, em comparação com as atuais fontes disponíveis para financiar a constituição do lastro do
+NSCE. A ABGF pode utilizar sua estrutura e suas operações para viabilizar mais recursos por meio do capital próprio e alterações em seu
+estatuto, visando o direcionamento dos seus dividendos à sustentação do próprio mecanismo no longo prazo.
+
+
+Comparativo de Taxas:
+BANCO DO BRASIL: CDI + 1,40% a.a. 1) Tarifa de contratação: 0,50% sobre o valor do contrato; 2) Comissão de Compromisso: 0,20% a.
+a. sobre o saldo não desembolsado.
+CAIXA ECONÔMICA FEDERAL: 110,00% do CDI a.a. comissão de Estruturação devida de 2,00% (dois por cento) sobre o valor total do
+financiamento, a ser paga com recursos próprios, previamente ao primeiro desembolso.
+BIRD: Taxa SOFR + 1,40% de referência acrescido de spread variável a ser definido periodicamente pelo BIRD. Taxa de Front-End 0,25%
+ do valor do empréstimo. Taxa de Compromisso 0,25% ao ano sobre o saldo do empréstimo não retirado
+New Development Bank: Taxa SOFR + margem, para empréstimo com prazo maior do que 18 anos, a taxa aplicável é de 1,52%
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:41
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61246
+Página: 11
+2.11. PROJETO/BENEFICIÁRIO
+Os beneficiários dos projetos são todos os usuários do sistema de suporte oficial à exportação, em especial as MPMEs, que
+quantitativamente representarão a maioria dos beneficiados. O objetivo inicial é viabilizar US$ 1,55 bilhão por ano, com uma capacidade
+total de até US$ 2,5 bilhões anuais em operações de médio e longo prazo, além de R$ 291 milhões anuais em operações de curto prazo
+para MPMEs. Até 2035, espera-se viabilizar R$ 1,6 bilhão especificamente para o segmento de MPMEs. Com base nesses montantes,
+estima-se que, em um horizonte de 10 anos, até 33.187 MPMEs sejam beneficiadas (ver anexo 5), podendo haver variação em função da
+evolução da pauta exportadora no Brasil.
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Banco Interamericano de Desenvolvimento
+ - BID
+BID
+US$
+300.000.000,00
+1,00
+300.000.000,00
+Total:
+300.000.000,00
+300.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+ARRANJO INSTITUCIONAL
+A formalização do contrato entre ABGF e BID ocorrerá após a conclusão do processo de negociação entre as partes, incluindo os órgãos
+governamentais competentes. Durante a preparação do Programa NSCE, ABGF, MDIC e BID definirão conjuntamente os critérios de
+elegibilidade para definição da carteira de projetos a ser segurada. Todas as operações serão submetidas ao rito de análise da ABGF sob
+a ótica das políticas de subscrição de riscos pertinente às operações indiretas e estarão sujeitas ao cumprimento das condições
+estipuladas em suas normas e regras internas.
+
+No momento, estão em discussões junto ao MDIC normativo da CAMEX para fixação do arranjo normativo do NSCE, a partir das bases
+ofertadas pela Resolução GECEX 493/2023.
+
+Hoje a ABGF opera o SCE mediante contrato junto ao Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC), e é
+responsável pela subscrição de risco do SCE. Espera-se que o NSCE deverá operar de maneira semelhante, a partir das definições
+exaradas em normativos específicos.
+
+Deverá ser aprovada também a política de subscrição de riscos (PSR) para o lastro financeiro. 
+
+Adicionalmente, o BID também ofertará Cooperação Técnica (CT) não-reembolsável com vistas a apoiar o fortalecimento da capacidade
+institucional da ABGF, capacitando-a para preparar e gerenciar sua nova agenda de seguros de crédito de exportação.
+
+MATRIZ DE RESPONSABILIDADE: Documento em anexo (Anexo 3 - Matriz de Responsabilidade)
+ 
+ESTRUTURA OPERACIONAL
+Em relação ao fluxo decisório nas diversas instâncias da ABGF, a operação de crédito será submetida à aprovação da Diretoria Executiva
+da ABGF e de seu Conselho Administrativo, após a conclusão das negociações formais com o BID e com os demais órgãos
+governamentais responsáveis. A operação de captação de recursos junto ao BID será estruturada pela Presidência da ABGF. 
+
+A Gerência Executiva de Governança ficará responsável pela execução do contrato de empréstimo com o BID e contará com o apoio de
+outras áreas da ABGF, como a Diretoria Administrativa Financeira, entre outras. O programa ainda será acompanhado pela Diretoria
+Garantias. O quantitativo de cada gerência, após a recomposição é apresentada conforme Anexo 4 - Cargos e Quantitativo
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:41
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61246
+Página: 12
+O Programa do NSCE será integrado à estrutura da Gerência Executiva de Garantias, cujo principal objetivo é a análise das operações
+para formulação de recomendação técnica acerca da subscrição de risco e que também é responsável pela gestão do fluxo processual de
+sinistros e bem como o acompanhamento econômico-financeiro e atuarial do FGE nos termos atuais, sendo que tal atividade é realizada
+desde a criação da ABGF (ou seja, desde 2013), demonstrando que essa equipe já conhece todos os procedimentos que seriam
+necessários para a implementação e gestão do NSCE.
+
+No período de implantação do projeto, os componentes serão executados de forma conjunta entre todas as gerências, atribuindo cada
+produto ou subcomponente à área com maior afinidade. De maneira geral, o componente I será majoritariamente responsabilidade da
+Gerência Executiva de Governança, enquanto o componente II terá responsabilidade divida parcialmente entre a Gerência Executiva de
+Garantias e a Gerência Executiva de Administrativa Financeira da ABGF. Por fim, o componente III será de responsabilidade da Gerência
+de Tecnologia da Informação e da Gerência de Planejamento Estratégico e Comunicação.
+
+4.2. Execução/Executores
+Executor: Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A.
+Representante Oficial: Maíra Madrid (Presidente da Empresa)
+Endereço da Sede: Setor Comercial Norte Quadra 02, Bloco A, nº 190, 10º andar, sala 1002 ? Edifício Corporate Financial
+Center, CEP: 70712-900 ? Brasília ? DF.
+E-mail Institucional:
+Telefone: (61) 3246-6200
+Fax:
+CNPJ: 17909518000145 
+UF:
+4.3. Execução/Prazo
+Prazo de Desembolso:
+4
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BID
+BID
+C - OPERACIONALIZAÇÃO DO NOVO SCE EM COORDENAÇÃO COM O MDIC
+0,00
+0,00
+   S - ADEQUAÇÃO INTERNA DA ABGF
+0,00
+0,00
+      P - Realização de Concurso Público. 
+0,00
+0,00
+      P - Desenho do veículo financeiro (Fundo ou reorganização societária da empresa)
+0,00
+0,00
+      P - Elaboração da Nota Técnica Atuarial para o novo modelo
+0,00
+0,00
+      P - Registro perante a SUSEP 
+0,00
+0,00
+   S - REGULAÇÃO DO NOVO SCE
+0,00
+0,00
+      P - Publicação de Decreto Federal para regulamentação do NSCE 
+0,00
+0,00
+      P - Publicação de Resolução com regulamentação técnica do NSCE
+0,00
+0,00
+C - MANTER COBERTURA SUFICIENTE PARA O VOLUME DE EXPORTAÇÕES ATUAIS COBERTAS PELO SCE
+300.000.000,00
+75.000.000,00
+   S - RISCO
+0,00
+0,00
+      P - Elaboração da política de subscrição de risco para o NSCE 
+0,00
+0,00
+   S - CRIAÇÃO DA POLÍTICA DE INVESTIMENTOS DO NSCE
+300.000.000,00
+75.000.000,00
+      P - Constituição dos ativos
+300.000.000,00
+75.000.000,00
+      P - Aplicação das disponibilidades
+0,00
+0,00
+C - AUMENTO DO NÚMERO DE MPMES INTEGRANTES DO SISTEMA DE APOIO OFICIAL À EXPORTAÇÃO
+0,00
+0,00
+   S - INSTRUMENTOS INTERNOS EM COORDENAÇÃO COM O MDIC
+0,00
+0,00
+      P - Adaptação do sistema atual de SCE para MPMEs
+0,00
+0,00
+      P - Desenvolvimento digital em marketplaces focados no exportador
+0,00
+0,00
+P - Construção de produtos customizados para MPMEs, como cobertura de carteiras de crédito focadas em crédito ao comércio
+exterior, com enfoque em MPMEs e com a coordenação do MDIC.
+0,00
+0,00
+   S - ATORES EXTERNOS
+0,00
+0,00
+      P - Planejamento estratégico para aumento do uso do NSCE com consultorias contratadas junto ao BID
+0,00
+0,00
+P - Formalização de acordos de cooperação técnica com os principais atores governamentais no sistema de exportação e de MPMEs (
+APEX, Banco do Brasil e SEBRAE)
+0,00
+0,00
+Total
+0,00
+75.000.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BID
+BID
+C - OPERACIONALIZAÇÃO DO NOVO SCE EM COORDENAÇÃO COM O MDIC
+0,00
+   S - ADEQUAÇÃO INTERNA DA ABGF
+0,00
+      P - Realização de Concurso Público. 
+0,00
+      P - Desenho do veículo financeiro (Fundo ou reorganização societária da empresa)
+0,00
+      P - Elaboração da Nota Técnica Atuarial para o novo modelo
+0,00
+      P - Registro perante a SUSEP 
+0,00
+   S - REGULAÇÃO DO NOVO SCE
+0,00
+      P - Publicação de Decreto Federal para regulamentação do NSCE 
+0,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:41
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61246
+Página: 13
+      P - Publicação de Resolução com regulamentação técnica do NSCE
+0,00
+C - MANTER COBERTURA SUFICIENTE PARA O VOLUME DE EXPORTAÇÕES ATUAIS COBERTAS PELO SCE
+75.000.000,00
+   S - RISCO
+0,00
+      P - Elaboração da política de subscrição de risco para o NSCE 
+0,00
+   S - CRIAÇÃO DA POLÍTICA DE INVESTIMENTOS DO NSCE
+75.000.000,00
+      P - Constituição dos ativos
+75.000.000,00
+      P - Aplicação das disponibilidades
+0,00
+C - AUMENTO DO NÚMERO DE MPMES INTEGRANTES DO SISTEMA DE APOIO OFICIAL À EXPORTAÇÃO
+0,00
+   S - INSTRUMENTOS INTERNOS EM COORDENAÇÃO COM O MDIC
+0,00
+      P - Adaptação do sistema atual de SCE para MPMEs
+0,00
+      P - Desenvolvimento digital em marketplaces focados no exportador
+0,00
+P - Construção de produtos customizados para MPMEs, como cobertura de carteiras de crédito focadas em crédito ao comércio
+exterior, com enfoque em MPMEs e com a coordenação do MDIC.
+0,00
+   S - ATORES EXTERNOS
+0,00
+      P - Planejamento estratégico para aumento do uso do NSCE com consultorias contratadas junto ao BID
+0,00
+P - Formalização de acordos de cooperação técnica com os principais atores governamentais no sistema de exportação e de MPMEs (
+APEX, Banco do Brasil e SEBRAE)
+0,00
+Total
+0,00
+75.000.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BID
+BID
+C - OPERACIONALIZAÇÃO DO NOVO SCE EM COORDENAÇÃO COM O MDIC
+0,00
+   S - ADEQUAÇÃO INTERNA DA ABGF
+0,00
+      P - Realização de Concurso Público. 
+0,00
+      P - Desenho do veículo financeiro (Fundo ou reorganização societária da empresa)
+0,00
+      P - Elaboração da Nota Técnica Atuarial para o novo modelo
+0,00
+      P - Registro perante a SUSEP 
+0,00
+   S - REGULAÇÃO DO NOVO SCE
+0,00
+      P - Publicação de Decreto Federal para regulamentação do NSCE 
+0,00
+      P - Publicação de Resolução com regulamentação técnica do NSCE
+0,00
+C - MANTER COBERTURA SUFICIENTE PARA O VOLUME DE EXPORTAÇÕES ATUAIS COBERTAS PELO SCE
+75.000.000,00
+   S - RISCO
+0,00
+      P - Elaboração da política de subscrição de risco para o NSCE 
+0,00
+   S - CRIAÇÃO DA POLÍTICA DE INVESTIMENTOS DO NSCE
+75.000.000,00
+      P - Constituição dos ativos
+75.000.000,00
+      P - Aplicação das disponibilidades
+0,00
+C - AUMENTO DO NÚMERO DE MPMES INTEGRANTES DO SISTEMA DE APOIO OFICIAL À EXPORTAÇÃO
+0,00
+   S - INSTRUMENTOS INTERNOS EM COORDENAÇÃO COM O MDIC
+0,00
+      P - Adaptação do sistema atual de SCE para MPMEs
+0,00
+      P - Desenvolvimento digital em marketplaces focados no exportador
+0,00
+P - Construção de produtos customizados para MPMEs, como cobertura de carteiras de crédito focadas em crédito ao comércio
+exterior, com enfoque em MPMEs e com a coordenação do MDIC.
+0,00
+   S - ATORES EXTERNOS
+0,00
+      P - Planejamento estratégico para aumento do uso do NSCE com consultorias contratadas junto ao BID
+0,00
+P - Formalização de acordos de cooperação técnica com os principais atores governamentais no sistema de exportação e de MPMEs (
+APEX, Banco do Brasil e SEBRAE)
+0,00
+Total
+0,00
+75.000.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BID
+BID
+C - OPERACIONALIZAÇÃO DO NOVO SCE EM COORDENAÇÃO COM O MDIC
+0,00
+0,00
+   S - ADEQUAÇÃO INTERNA DA ABGF
+0,00
+0,00
+      P - Realização de Concurso Público. 
+0,00
+0,00
+      P - Desenho do veículo financeiro (Fundo ou reorganização societária da empresa)
+0,00
+0,00
+      P - Elaboração da Nota Técnica Atuarial para o novo modelo
+0,00
+0,00
+      P - Registro perante a SUSEP 
+0,00
+0,00
+   S - REGULAÇÃO DO NOVO SCE
+0,00
+0,00
+      P - Publicação de Decreto Federal para regulamentação do NSCE 
+0,00
+0,00
+      P - Publicação de Resolução com regulamentação técnica do NSCE
+0,00
+0,00
+C - MANTER COBERTURA SUFICIENTE PARA O VOLUME DE EXPORTAÇÕES ATUAIS COBERTAS PELO SCE
+75.000.000,00
+300.000.000,00
+   S - RISCO
+0,00
+0,00
+      P - Elaboração da política de subscrição de risco para o NSCE 
+0,00
+0,00
+   S - CRIAÇÃO DA POLÍTICA DE INVESTIMENTOS DO NSCE
+75.000.000,00
+300.000.000,00
+      P - Constituição dos ativos
+75.000.000,00
+300.000.000,00
+      P - Aplicação das disponibilidades
+0,00
+0,00
+C - AUMENTO DO NÚMERO DE MPMES INTEGRANTES DO SISTEMA DE APOIO OFICIAL À EXPORTAÇÃO
+0,00
+0,00
+   S - INSTRUMENTOS INTERNOS EM COORDENAÇÃO COM O MDIC
+0,00
+0,00
+      P - Adaptação do sistema atual de SCE para MPMEs
+0,00
+0,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:41
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61246
+Página: 14
+      P - Desenvolvimento digital em marketplaces focados no exportador
+0,00
+0,00
+P - Construção de produtos customizados para MPMEs, como cobertura de carteiras de crédito focadas em crédito ao comércio
+exterior, com enfoque em MPMEs e com a coordenação do MDIC.
+0,00
+0,00
+   S - ATORES EXTERNOS
+0,00
+0,00
+      P - Planejamento estratégico para aumento do uso do NSCE com consultorias contratadas junto ao BID
+0,00
+0,00
+P - Formalização de acordos de cooperação técnica com os principais atores governamentais no sistema de exportação e de MPMEs (
+APEX, Banco do Brasil e SEBRAE)
+0,00
+0,00
+Total
+300.000.000,00
+75.000.000,00
+300.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+Acerca do tema, importante frisar que o Parecer PGFN SEI nº 3327/2024/MF oferta segurança quanto à existência de autorização legal
+para a construção do NSCE. No mais, o modelo está sendo construído em conjunto com o MDIC e deverá ser submetido à avaliação
+jurídica conjunta da Pasta.
+Estima-se a publicação de Decreto Presidencial para regulamentar alguns pontos da Lei do Seguro de Crédito à Exportação, bem como a
+aprovação de uma Resolução do GECEX que definirá as diretrizes para o funcionamento do Novo Seguro de Crédito à Exportação.
+Em relação ao Decreto Presidencial, vale lembrar que Decretos Legislativos podem revogar o Decreto Presidencial, constituindo este o
+principal risco associado. 
+Prevê-se também a publicação de Resolução do GECEX de forma a complementar as diretrizes já traçadas pela Resolução 493/2023 que
+tratou do Novo Modelo de SCE. O NSCE nada mais seria do que a consolidação desse novo modelo. Por ser resultado de uma decisão
+colegiada, há o risco de não se alcançar o quórum necessário para sua aprovação.
+Medidas mitigadoras: de forma a mitigar o risco de não aprovação dos normativos supracitados estão sendo discutidas junto à SE-CAMEX
+/MDIC as minutas dos atos normativos que farão parte da nova regulamentação. Entende-se que a SE-CAMEX levará as minutas aos
+foros que ela considerar competente para exará-los, além de executar o trabalho de coordenação entre os diferentes órgãos de governo
+que compõem seus colegiados
+Outra ação mitigadora do risco é que o desembolso do financiamento somente se dará após a regulamentação pertinente.
+Todos os esforços serão envidados ao longo do período de preparação do projeto para que a regulamentação pertinente seja editada e
+publicada, em coordenação com todos os órgãos competentes da Administração Pública.
+
+5.2. RISCOS/CONTRATAÇÕES
+A implementação do programa contará com apoio adicional de cooperação técnica do BID para consultorias visando implementação do
+projeto : (i) elaboração do perfil do projeto (PP), (ii) estudos técnicos de viabilidade financeira e dimensionamento da demanda potencial, (
+iii) critérios de elegibilidade do programa e sistema de monitoramento e avaliação, (iv) modelos de assistência técnica e instrumento
+mitigador de riscos ( componente não reembolsável e (v) preparação das propostas de implementação das operações (POD). 
+A respeito da composição de pessoal da ABGF para operar o modelo ora pretendido, tais discussões já estão em curso junto à SEST. A
+estimativa é de incremento do quadro de pessoal de 40  para 64 pessoas até julho de 2025. Em um primeiro momento, os cargos serão
+preenchidos nos mesmos moldes que a companhia ora prática, com a gradual substituição para contratação a partir de concurso público
+quando houver a aprovação do Plano de Cargos da empresa pela SEST. A previsão é de o concurso público ocorrer no primeiro semestre
+de 2025.
+Assim, o risco reside em eventual  atraso na deliberação da SEST acerca do plano de cargos e atrasos na contratação de banca
+examinadora.
+Como eventual medida mitigadora, cumpre destacar  a possibilidade de contratação de pessoal no formato atualmente adotado pela
+ABGF, além da coordenação técnica e em alto nível para que as contratações ocorram conforme planejado. 
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+Não se vislumbra risco iminente de desapropriações, uma vez que não se trata de um projeto de infraestrutura. Contudo, o NSCE poderá,
+eventualmente, aprovar garantias para projetos que envolvam algum nível de desapropriação. Como já ocorre no âmbito do SCE, a
+análise dessas operações inclui uma due diligence completa, que busca antecipar potenciais impactos. Além disso, a empresa, em
+conjunto com a SE-CAMEX, vem avaliando as melhores práticas para alinhar a análise das operações aos padrões internacionais de
+minimização de impactos ambientais e sociais, como os Princípios do Equador.
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+Não se vislumbra risco iminente de impactos ambientais, uma vez que não se trata de um projeto de infraestrutura. Contudo, o NSCE
+poderá, eventualmente, aprovar garantias para projetos que envolvam algum nível de risco ambiental. Como já ocorre no âmbito do SCE,
+a análise dessas operações inclui uma due diligence completa, que busca antecipar potenciais impactos. Além disso, a empresa, em
+conjunto com a SE-CAMEX, vem avaliando as melhores práticas para alinhar a análise das operações aos padrões internacionais de
+minimização de impactos ambientais e sociais, como os Princípios do Equador.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:41
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61246
+Página: 15
+5.5. RISCOS/IMPACTO SOCIAL
+Não se vislumbra risco iminente de impactos sociais, uma vez que não se trata de um projeto de infraestrutura.. Como já ocorre no âmbito
+do SCE, a análise dessas operações inclui uma due diligence completa, que busca antecipar potenciais impactos. Além disso, a empresa,
+em conjunto com a SE-CAMEX, vem avaliando as melhores práticas para alinhar a análise das operações aos padrões internacionais de
+minimização de impactos ambientais e sociais, como os Princípios do Equador.
+
+Adicionalmente, vale ressaltar o potencial impacto social positivo da operação. A operacionalização do Seguro de Crédito à Exportação é
+pilar fundamental da Política de Crédito à Exportação. E o comércio exterior é vetor fundamental para o desenvolvimento do país:
+empresas que exportam são, em regra, mais produtivas, inovadoras e pagam melhores salários do que as que não competem no mercado
+ internacional, gerando impactos positivos para a sociedade em geral
+
+5.6. RISCOS/REASSENTAMENTOS
+Não se vislumbra risco iminente de impactos reassentamentos, uma vez que não se trata de um projeto de infraestrutura. Contudo, o
+NSCE poderá, eventualmente, aprovar garantias para projetos que envolvam algum nível de desapropriação. Como já ocorre no âmbito do
+SCE, a análise dessas operações inclui uma due diligence completa, que busca antecipar potenciais impactos. Além disso, a empresa,
+em conjunto com a SE-CAMEX, vem avaliando as melhores práticas para alinhar a análise das operações aos padrões internacionais de
+minimização de impactos ambientais e sociais, como os Princípios do Equador.
+
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 

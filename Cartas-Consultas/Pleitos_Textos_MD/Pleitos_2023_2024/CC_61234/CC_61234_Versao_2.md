@@ -1,0 +1,2766 @@
+# Carta-Consulta CC_61234 — Versao 2 (SIGS)
+
+
+Projeto de Modernização da Gestão Fiscal do Estado do Rio Grande do Sul
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 61234
+Processo: 03101.003111/2024-11
+Mutuário: Estado do Rio Grande do Sul
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  11 de Outubro de 2024
+
+Fontes Internas:
+Contrapartida Financeira: US$ 12.000.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 120.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+O RS enfrentará complexos desafios na Gestão Fiscal, sendo o mais relevante a Reforma Tributária, para os quais serão necessários
+esforços e investimentos relacionados a: adaptação dos modelos de gestão da administração tributária, incluindo desdobramentos
+institucionais e normativos do novo IBS; fortalecimento do planejamento, orçamento e investimento público, como fundamentos da
+sustentabilidade fiscal; fortalecimento da gestão dos recursos estratégicos, para avanço da transformação digital e do desempenho
+institucional; eficiência tributária, por meio da conformidade, da redução da litigância fiscal, enfrentamento do alto contencioso e melhoria
+do ambiente de negócios; relacionamento com o contribuinte pautado pela inovação e transformação digital e fomento à participação
+cidadã; efetividade da gestão para a mitigação dos riscos fiscais; incorporação nos instrumentos da gestão fiscal, de forma transversal, as
+dimensões ambiental e social, através da avaliação de políticas públicas de alto impacto e das demandas geradas por eventos climáticos
+adversos. Para enfrentamento destes desafios, o RS pleiteia operação para a linha de crédito PROFISCO III, conforme Anexo I.
+
+O RS é o 9º Estado em extensão, 6º em população e o 4º em PIB. A evolução do PIB RS, acompanhou a seguinte trajetória: em 2019
+apresentou crescimento real de 1,06%. Em 2020, a variação foi -7,21%, R$ 470,9 bi motivado pela pandemia; em 2021, foi de 9,28% e em
+2022, redução de -2,84% devido à estiagem. Em 2022, o PIB em valores correntes foi equivalente a R$ 592,6 bi, 5,88% do PIB Nacional.
+O PIB per capita do RS em 2022 foi R$ 51.701,00, queda de 5,4% na comparação de 2021. O IDH 2021 foi de 0,771, o que o posiciona
+como o 5° entre as UFs.
+
+Em maio/2024, tempestades e fortes ventos atingiram 478 municípios (96%), impactando 2,3 milhões de indivíduos, provocando as
+maiores enchentes da história gaúcha levando ao Congresso Nacional declarar estado de calamidade em todo o RS.
+
+O RS está classificado com CAPAG D, em RRF desde 20/06/21. A evolução do endividamento nos três últimos exercícios, que possui
+como um dos indicadores a Relação Dívida Consolidada/RCL se apresentou em 2021: 223,27% em 2022: 198,7% e em 2023: 180,45%. O
+RS tem modernizado sua gestão fiscal com base no planejamento estratégico, reavaliação de processos e transformação dos serviços ao
+cidadão, por meio de programas como PROFISCO I e II. Em 2023, foi realizada a Avaliação MD-GEFIS. Apesar dos esforços, ainda
+enfrenta desafios como a RTC, o RRF e a transição para uma economia de baixo carbono. Os principais problemas-alvo são:
+
+RECURSOS ESTRATÉGICOS DA GESTÃO FISCAL:a)Modelo de governança da gestão fiscal não abrange a todos os processos e não
+está alinhado com as demandas da RTC, ao processo de inovação tecnológica e aos impactos das mudanças climáticas;b) incipiente
+modelo de gestão de riscos;c) Sistema de Gestão de Pessoas não integrado e não adaptado para enfrentar os desafios da RTC e das
+transformações digital e ambientais;d) gestão administrativa e de compras tradicional, rígida e com instrumentos ultrapassados;e)
+comunicação social desatualizada para atender os desafios da RT;f) ausência de políticas para transformação digital, inovação e
+governança de dados. ADM. TRIBUTÁRIA E CONTENCIOSO FISCAL:a) incipiente modelo de gestão de conformidade tributária, limitando
+a ação estratégica;b) o modelo da gestão da Receita não está harmonizado com a gestão da conformidade tributária;c) a política tributária
+do RS está desalinhada com o novo modelo de desenvolvimento econômico baseado em baixo carbono e inclusão social;d) o modelo de
+cumprimento das obrigações tributárias é de elevado custo e complexidade para os contribuintes;e) incipientes ações e interações
+necessárias às adequações à reforma tributária. PLANEJAMENTO, ORÇAMENTO, GESTÃO FINANCEIRA E GASTO PÚBLICO:a) os
+processos orçamentário, financeiro e contábil não estão adequadamente integrados, gerando retrabalho, risco de erros e  imprevisibilidade
+;b) existência de  rotinas contábeis sem automatização, com eficiência e eficácia reduzida dos registros; c) sistema da folha de
+pagamentos com limitada integração com o SIAFC FPE, ocasionando erros e omissões; d) ausência de modelo de gestão de riscos da
+dívida pública;e) modelo de qualidade do gasto e de avaliação de políticas públicas é incipiente e não atende as demandas estratégicas;f)
+o Tesouro não dispõe de estratégia estabelecida voltada para a transformação digital, limitando ganhos de eficiência e a tomada de
+decisão pelo gestor público. GESTÃO JURÍDICA:a) o modelo de gestão de pessoas da PGE e DPE não está estruturados para enfrentar
+os novos desafios da RTC e das mudanças climáticas;b) a governança e a infraestrutura de TI da PGE não alinhada à transformação
+digital;c) os instrumentos de gestão jurídica da PGE não estão adaptados para o uso de IA;d) a gestão de dados na PGE não está
+adaptada aos desafios da RTC e dos processos de inovação tecnológicos.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+Para enfrentar os problemas identificados, são propostas as soluções nos quatro componentes que integram o PROFISCO III:
+
+COMPONENTE I - Recursos estratégicos da Gestão fiscal (GF): a) modelo de governança da gestão fiscal alinhado com as demandas da
+Reforma Tributária do Consumo - RTC, ao processo de inovação tecnológica e aos impactos das mudanças climáticas; b) Modelo de
+gestão de riscos institucionais e Plano de Mitigação implementados; c) Modelo de gestão de pessoas adaptado a gestão das mudanças; d
+) gestão administrativa e de compras modernizada, sustentável e eficiente energeticamente; e) comunicação social transparente, direta e
+focada no contribuinte; e f) SEFAZ orientada a dados e adaptada para os desafios da transformação digital e da RTC.
+
+COMPONENTE II - Administração Tributária e Contencioso Fiscal (AT): a) Modelo de gestão de conformidade tributária implantado na
+SEFAZ; b) Modelo de gestão da Receita Digital implantado e redirecionado para a gestão da conformidade tributária; c) Modelo de política
+tributária alinhado ao novo modelo de desenvolvimento econômico do Estado do Rio Grande do Sul e a conformidade tributária; d) o
+modelo de cumprimento das obrigações tributárias simplificado e redirecionado para a conformidade tributária dos contribuintes; e) Modelo
+de gestão da Receita direcionada a gestão de dados, a conformidade tributária e a RTC.
+
+COMPONENTE III - Planejamento, orçamento, gestão financeira e do gasto público (PG): a) fluxo de trabalho revisto e Sistema FPE (
+SIAFE) com novos módulos de gestão financeira e integrados aos demais sistemas corporativos; b) informações contábeis automatizadas
+e sistematizadas para subsidiar a tomada de decisão; c) sistema da Folha de Pagamentos automatizado, integrado ao PFE e com
+auditoria interna; d) modelo de gestão de riscos da dívida pública implementado; e) modelo de qualidade do gasto e de avaliação de
+políticas públicas estruturados com parâmetros de sustentabilidade ambiental e climática e f) modelo de gestão do Tesouro orientado a
+dados, riscos e inovação.
+
+
+Página: 3
+
+COMPONENTE IV - Gestão jurídica para sustentabilidade fiscal (GJ): a) Modelo de gestão de pessoas por competências implementando
+e com sistemática de capacitação para superação dos desafios da RTC estabelecida; b) modelo de governança de TI orientado a projetos
+e a dados implementado; c) modelo de gestão jurídica com IA implementado; d) modelo de gestão de dados da PGE e da DPE
+implementados.
+
+A implementação do Programa contribuirá para a sustentabilidade fiscal, por meio dos seguintes resultados esperados:
+
+a. Governança fiscal melhorada, orientada à inovação e à gestão baseada em dados, aproveitando as oportunidades da transformação
+digital, para direcionar estrategicamente seu corpo técnico e diretivo e promover a sustentabilidade ambiental, a igualdade de gênero e a
+participação cidadã.
+
+b. Administração tributária aperfeiçoada e adaptada à nova realidade da reforma tributária, orientada à simplificação do cumprimento
+tributário, à redução da litigância fiscal, com uso intensivo de dados, contribuindo para aumentar a arrecadação tributária e melhorar o
+ambiente de negócios, em especial das micro e pequenas empresas, fomentando a gestão fiscal com aspectos relacionados ao meio
+ambiente e clima, com foco em gênero, raça e diversidade visando a inclusão no ambiente e negócios.
+
+c. Planejamento e gestão dos recursos públicos modernizada, baseado no uso intensivo de dados, orientada para maior eficiência dos
+gastos públicos, para a melhoria da oferta de serviços aos cidadãos e aumento dos investimentos públicos, incluindo a promoção da
+participação da iniciativa privada.
+
+d. Gestão jurídica aperfeiçoada, baseada no uso intensivo de dados e novas tecnologias, orientada à recuperação do crédito tributário e à
+otimização da defesa judicial, reduzindo riscos fiscais e promovendo a liquidez do crédito tributário.
+
+Vale destacar que projetos de modernização da gestão fiscal resultam em alto retorno dos investimentos. Estudo de avaliação de impacto
+do PROFISCO I, realizado pelo BID (anexo VI), estimou que o programa contribuiu para que os estados participantes do programa
+incrementassem em 11,7% sua arrecadação tributária e 1,7% o número de unidades locais de empresas formais, em relação àqueles
+Estados sem projeto.
+
+Durante a preparação do projeto, o Estado do RS elaborará um plano de sustentabilidade dos investimentos a serem realizados. No caso
+de programas de modernização da gestão fiscal, os custos relacionados à manutenção da infraestrutura tecnológica e à sustentação dos
+novos sistemas implantados representam os principais gastos para sustentabilidade. Estudo realizado por esta equipe avaliou que será
+necessário o aporte anual de 1,4 % do valor do projeto ou cerca de USD 1,7 mil, vide Anexo VII - Custo Anual de Manutenção PROFISCO
+III RS. Ademais, anualmente é elaborado um Plano de Manutenção dos Bens e Sistemas do Programa contendo as orientações e
+identificação de recursos para a conservação desses equipamentos. Este plano encontra-se no Anexo VIII.
+
+Ao longo da execução do projeto, os custos associados à manutenção dos itens acima referenciados serão financiados com recursos da
+operação, por meio da sua especificação nos termos de referência. Adicionalmente, os termos de referência definirão a necessidade de
+transferência de conhecimento técnico para o uso de manutenção dos novos processos e soluções tecnológicas implantadas, o que
+contribuirá para melhorar a produtividade e reduzir o custeio.
+
+Após o encerramento do projeto, a manutenção será financiada com recursos do orçamento público e a SEFAZ/RS dispõe de orçamento
+próprio destinado a manutenção de sua estrutura, inclusive dispõe do Fundo de Modernização e Reaparelhamento da Secretaria da
+Fazenda do Estado do Rio Grande do Sul - FUNSEFAZ/RS, estabelecido pela Lei nº 12.200 de 29 de dezembro de 2004, regulamentado
+em sua administração e execução pelo Decreto nº 44.348, de 15 de março de 2006. Além disso, o Plano Plurianual ? PPA para o
+quadriênio 2024 - 2027, previsto na Lei nº 16.005 de 20/10/2023 prevê o Programa Gestão, Manutenção e Serviços ao Estado, o qual
+possui a Ação Programática denominada Gestão, Manutenção e Serviços ao Estado - SEFAZ que tem como Iniciativa o Apoio
+Administrativo e a Qualificação da Infraestrutura.
+
+Ademais, o amadurecimento do processo de governança de projetos e a capacitação da equipe de servidores voltados às ações de
+modernização impulsionado pelo PROFISCO III, contribuem na sustentabilidade do projeto.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+As Orientações Estratégicas de Governo estão consistentes com as propostas apresentadas no Plano Rio Grande - Projetos Estruturantes
+(Anexo IX) especificamente nos temas relacionados ao incentivo à retomada econômica, melhoria do ambiente de negócios, reconversão
+econômica. Este Programa também está alinhado ao Projeto Receita Digital 2030 (Anexo X), especificamente no processo de inovação e
+gestão por dados da Receita do RS, bem como nas ações de conformidade tributária, melhorando o ambiente de negociações para o
+contribuinte. Da mesma forma, está alinhado ao Regime de Recuperação Fiscal RRF (Anexo XI), em busca da modernização da SEFAZ/
+RS na busca da Sustentabilidade Fiscal. Também está alinhado com o Plano PROCLIMA RS 2050, (Anexo XII), em termos de Resiliência
+Climática e Transição Energética Justa, mediante intervenções de reforma dos prédios públicos e incentivo ao uso de energias limpas.
+Também está correlacionado com a educação ambiental e conscientização decorrente as atividades de educação fiscal e de comunicação
+com a sociedade.
+
+O Projeto também tem aderência às ações propostas na lei de revisão do Plano Plurianual (PPA 2024 -2027):
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+Programa: Equilíbrio Fiscal e Novas Parcerias
+
+Ação Programática: Modernização Fiscal - PROFISCO.
+
+Iniciativa: PROFISCO - SEFAZ
+
+Descrição: Programa de Modernização dos Fiscos Estaduais, com objetivo de implementar ações nas áreas de gestão fazendária ,
+transparência, administração financeira e tributária, contencioso fiscal e gasto público, visando aprimorar e simplificar os serviços
+prestados pelas fazendas estaduais, otimizar o uso e controle dos gastos públicos, bem como ampliar as receitas com tributos.
+
+PPA em elaboração: 28172943-mensagem-ppa-2024-2027-pos-emenda-28112023-final-1 (1).pdf, página 112.
+
+CONTRAPARTIDA: No caso do Estado do RS, a origem da contrapartida está em conformidade com o disposto na Resolução COFIEX nº
+03, de 29/05/2019 - De acordo o art. 3º, da Resolução nº 3, de 29 de maio de 2019, em especial ao disposto no art. 3º, inciso III.
+
+TAXA DE CÂMBIO: 1 US$ = R$ 5,47 - (Banco Central do Brasil, PTAX, venda) Data de Referência 18/08/2024.
+
+2. Projeto
+
+### 2.1. Título
+
+
+Projeto de Modernização da Gestão Fiscal do Estado do Rio Grande do Sul
+
+
+### 2.2. Título Abreviado
+
+PROFISCO III RS
+
+
+### 2.3. Mutuário
+
+
+Estado do Rio Grande do Sul
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Objetivo Geral:
+
+Contribuir para a sustentabilidade fiscal por meio da melhoria da gestão das receitas e do gasto público.
+
+Objetivos Específicos:
+
+Modernizar a gestão dos órgãos da gestão fiscal, por meio do fortalecimento da gestão estratégica para o alinhamento da organização,
+com vistas ao avanço da transformação digital e à potencialização do desempenho institucional, incluindo o fomento à inovação, a
+participação cidadã, a transparência fiscal e a sustentabilidade ambiental.
+
+Melhorar a efetividade da administração tributária, por meio da simplificação do cumprimento tributário, da conformidade tributária, da
+redução da litigância fiscal, do aumento da arrecadação e da melhoria do ambiente de negócios, contribuindo para a justiça fiscal e para
+maior dinamismo da economia.
+
+Melhorar a efetividade do gasto público, por meio do aperfeiçoamento dos processos de planejamento, execução e avaliação do gasto
+público, contribuindo para a melhoria dos serviços aos cidadãos e para o aumento dos investimentos.
+
+Melhorar a efetividade dos aspectos jurídicos da gestão fiscal, por meio da melhoria da eficiência dos processos da gestão jurídica para a
+redução dos riscos fiscais e aumento da liquidez do crédito tributário, contribuindo para o fortalecimento sustentabilidade fiscal, bem como
+a previsibilidade dos gastos.
+
+Incorporar nos instrumentos da gestão fiscal, de forma transversal, as dimensões ambiental e social, incluindo o fomento à igualdade de
+gênero e à diversidade racial.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+O PROFISCO III RS busca contribuir para a sustentabilidade fiscal do Estado do Rio Grande do Sul, mediante uso intensivo de dados para
+subsidiar o processo de tomada de decisão. Para tanto, busca fomentar a transformação digital com o uso intensivo de inteligência
+artificial, pelo fomento às inovações, pelo trabalho colaborativo e integrado e com uma gestão baseada em dados e em evidências. Neste
+sentido, o Estado está alinhado com as áreas mais dinâmicas da economia, relacionadas com a transformação da economia baseada em
+carbono e intensiva em insumos naturais, para uma economia verde, potencializando os investimentos sustentáveis, as oportunidades de
+emprego e geração de renda, contribuindo para reduzir as desigualdades econômicas, ambientais, sociais e de gênero.
+
+Adicionalmente e dando materialidade à Agenda ONU 2030 e seus objetivos de sustentabilidade, a SEFAZ do RS pretende inovar no
+PROFISCO III para, mediante a celebração de acordo de cooperação técnica com a Defensoria Pública do Estado, estabelecer novo
+componente destinado a contribuir para a gestão e efetividade do gasto público e, por conseguinte, para o processo de sustentabilidade e
+resiliência fiscal do estado vinculado aos objetivos 10 (redução das desigualdades) e 16 (paz, justiça e instituições eficazes). Para tanto,
+pretende-se que o PROFISCO III contribua no processo de estruturação de câmara de mediação e arbitragem dos conflitos entre o estado
+e a população de baixa renda, de tal sorte que se assegure o acesso a uma efetiva justiça para todos e que nossas instituições sejam
+mais eficazes, responsáveis e inclusivas em todos os níveis essenciais para alcançar o desenvolvimento sustentável.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+
+
+Descrição
+Índice de atingimento das metas do
+Planejamento Estratégico
+
+Índice de eficácia do modelo de gestão de riscos
+da SEFAZ
+
+Índice de Satisfação e Engajamento dos
+Colaboradores
+
+Índice de Mulheres em Cargos de Liderança na
+SEFAZ
+
+Índice de Disponibilidade de Sistemas Críticos
+de TI
+
+Índice de Sustentabilidade e Conformidade dos
+Fornecedores
+
+Índice de Transparência e Governança Pública (
+ITGP)
+
+Índice de Destreza Digital
+
+Índice de Incremento de Receita Tributária
+
+%
+
+%
+
+%
+
+%
+
+%
+
+Fórmula de Cálculo Unidade de Medida
+(Metas Cumpridas /
+Metas Planejadas) ×
+(Quantidade de
+Planos de Controle
+Implementados / Total
+de Riscos Altos e
+Extremos
+Identificados) × 100
+(Média das Respostas
+dos Participantes em
+Todos os Itens do
+Questionário / Número
+Total de Itens) × 100
+(Número de
+Servidores Mulheres
+em Cargos de
+Liderança / Número
+Total de Servidores da
+SEFAZ) × 100
+[ total do tempo do
+mês (43.200min) -
+total de tempo
+indisponível (min) ] /
+total do tempo do mês
+(43.200min) x 100
+(Número de
+Fornecedores em
+Conformidade /
+Número Total de
+Fornecedores) × 100
+(Número de Critérios
+de Transparência e
+Governança
+Atendidos / Número
+Total de Critérios
+Avaliados) × 100
+(Número total de
+servidores fora da TI
+que customizam,
+geram dados ou
+soluções tecnológicas
+/ Número total da
+força de trabalho fora
+do ramo de TI) × 100
+(Receita Tributária
+Atual - Receita
+Tributária Base /
+Receita Tributária
+Base) × 100
+
+%
+
+%
+
+%
+
+%
+
+
+Página: 6
+
+Linha de Base
+86,82
+
+0,00
+
+Meta
+87,00
+
+40,00
+
+78,40
+
+79,40
+
+25,60
+
+28,60
+
+98,00
+
+99,90
+
+0,00
+
+20,00
+
+87,00
+
+90,00
+
+0,00
+
+15,00
+
+1,00
+
+1,10
+
+Número de Câmaras Setoriais do CBPT
+Implementadas
+
+Grau de Maturidade em Transformação Digital Média Ponderada do
+Grau de Maturidade =
+&#8721; (Avaliação de
+Cada Bloco × Peso
+do Bloco) / Número
+Total de Blocos
+Número de Câmaras
+Setoriais
+Implementadas = (
+Câmaras Setoriais
+Instituídas no CBPT -
+Conselho de Boas
+Práticas Tributárias)
+(Soma das Notas
+Ponderadas de
+Satisfação / Número
+Total de Respostas) ×
+
+Índice de Satisfação do Usuário sobre os
+Serviços Tributários
+
+Número
+
+0,00
+
+1,00
+
+Número
+
+0,00
+
+2,00
+
+%
+
+0,00
+
+60,00
+
+
+Página: 7
+
+Índice de Adequação ao Novo Modelo Tributário
+do IVA Dual
+
+(Quantidade de
+Serviços IBS
+Implantados /
+Quantidade de
+Serviços IBS
+Planejados) × 100
+
+%
+
+0,00
+
+50,00
+
+Índice de Modernização de Módulos de Software (Número de Módulos
+
+Número
+
+0,00
+
+1,00
+
+Economia Gerada pela Utilização de Bases de
+Dados de Outros Entes Públicos nas Rotinas
+Operacionais da Gestão da Folha
+
+Emissão de Relatórios de Riscos Fiscais da
+Dívida Pública
+Índice de Projetos Finalizados do ciclo no
+Programa de Qualidade do Gasto
+
+Índice de Projetos Finalizados do Ciclo no
+Programa de Inovação do Tesouro
+
+Horas de Capacitação
+
+Índice de Implementação do PDTI
+
+Resultado Econômico Institucional
+
+Índice de Implementação do Modelo de Gestão
+de Dados
+
+Diminuição da relação entre o custo para
+arrecadar e a arrecadação tributária
+
+Atualizados para
+Linguagem Moderna /
+Número Total de
+Módulos Identificados
+para Atualização) ×
+Redução mensal de
+Pagamentos Mensais
+Indevidos a Falecidos
+em relação à média
+anual antes da
+implementação -
+período base avaliado
+.
+Número de Relatórios
+Emitidos por Ano
+(Número de Projetos
+Finalizados / Número
+Total de Projetos
+Previstos para o Ciclo)
+× 100
+(Número de Iniciativas
+Testadas / Número
+Total de Iniciativas
+Planejadas para o
+Ciclo) × 100
+Horas de Capacitação
+por Pessoa = (Total
+de horas de
+capacitação
+realizadas por
+procuradores / Total
+de procuradores) + (
+Total de horas de
+capacitação
+realizadas por
+servidores / Total de
+servidores)
+(Quantidade de
+Projetos e Ações
+Realizadas no
+Período / Quantidade
+Total de Projetos e
+Ações Planejadas) ×
+Valores Arrecadados
+da Dívida Ativa +
+Valores
+Economizados com a
+Atuação Jurídica
+(Quantidade de
+Projetos e Ações
+Realizadas no
+Período / Total de
+Projetos e Ações
+Previstas) × 100
+Orçamento de
+funcionamento da
+SEFAZ RS /
+Arrecadação tributária
+total
+
+Reais
+
+0,00
+
+150.000,00
+
+Unidade
+
+%
+
+%
+
+0,00
+
+0,00
+
+1,00
+
+35,00
+
+0,00
+
+35,00
+
+Hora
+
+50,00
+
+60,00
+
+%
+
+0,00
+
+40,00
+
+Reais
+
+960.399.920,40
+
+1.253.154.145,20
+
+%
+
+%
+
+0,00
+
+50,00
+
+1,28
+
+1,25
+
+
+Redução da discrepância entre o orçamento
+planificado e o orçamento executado
+
+Modelo de gestão de Métodos Alternativos de
+Resolução de Conflitos da DPE implantado
+
+%
+
+%
+
+Orçamento executado
+/ orçamento
+planejado
+(Quantidade de
+demandas resolvidas
+pelo MARC / Total de
+demandas
+provenientes da DPE
+contra o Estado) ×
+
+
+Página: 8
+
+5,00
+
+50,00
+
+5,76
+
+0,00
+
+
+### 2.7. Projeto/Componentes
+
+
+Componentes
+C - 1 - RECURSOS ESTRATÉGICOS DA GESTÃO FISCAL (GF)
+P - 1.1 - Modelo de Governança Pública verde e inovador
+P - 1.2 -  Modelo de Gestão de Riscos Integrado
+P - 1.3 - Modelo de Gestão de Pessoas Ampliado
+P - 1.4 - Gestão da Tecnologia da Informação implementado
+P - 1.5 - Modelo de Gestão de Infraestrutura e Aquisições com critérios sustentáveis implantado
+P - 1.6 - Comunicação e transparência
+P - 1.7 - Políticas para transformação digital, inovação e governança de dados implantada
+C - 2 - ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL (AT)
+P - 2.1 - Modelo de gestão de Conformidade Tributária implantado
+P - 2.2 - Receita Digital implantada, visando a conformidade tributária
+P - 2.3 - Modelo de Política Tributária Indutor do Desenvolvimento Econômico e Social implantado
+P - 2.4 - Produtos e serviços voltados à simplificação implantados, visando a conformidade tributária
+P - 2.5 Convergência com a Reforma Tributária
+C - 3 - PLANEJAMENTO, ORÇAMENTO, GESTÃO FINANCEIRA E DO GASTO PÚBLICO (PG)
+P - 3.1 Gestão da execução orçamentária financeira integrada
+P - 3.2 - Modelo de gestão contábil aprimorado
+P - 3.3 - Modelo de Gestão de Folha de Pagamento de Ativos e Inativos implementado
+P - 3.4 - Modelo de Gestão de Riscos da Dívida Pública implementado
+P - 3.5 - Modelo de Qualidade do Gasto e avaliação de Políticas Públicas implementado
+P - 3.6 - Programa de Inovação do Tesouro do Estado
+C - 4 - GESTÃO JURÍDICA PARA SUSTENTABILIDADE FISCAL (GJ)
+P - 4.1 - Modelo de gestão de pessoas e desenvolvimento de competências da PGE aprimorado
+P - 4.2 - Modelo de gestão da tecnologia da informação da PGE implantado
+P - 4.3 - Modelo de gestão jurídica para sustentabilidade fiscal modernizado e com uso de Inteligência Artificial
+P - 4.4 - Modelo de gestão de dados da PGE implantado
+P - P 4.5 - Modelo de gestão de métodos alternativos de resolução de conflitos (MARC) da DPE
+C - GESTÃO DO PROJETO
+P - A1 - Monitoramento e Avaliação
+P - A2 - Auditoria
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Valor(US$)
+35.440.000,00
+2.400.000,00
+2.400.000,00
+5.880.000,00
+13.960.000,00
+6.000.000,00
+2.400.000,00
+2.400.000,00
+63.560.000,00
+6.000.000,00
+9.600.000,00
+6.000.000,00
+7.920.000,00
+34.040.000,00
+19.800.000,00
+3.600.000,00
+6.600.000,00
+4.200.000,00
+600.000,00
+2.400.000,00
+2.400.000,00
+10.980.000,00
+2.004.000,00
+2.964.000,00
+2.004.000,00
+2.004.000,00
+2.004.000,00
+2.220.000,00
+1.200.000,00
+1.020.000,00
+132.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - 1 - RECURSOS ESTRATÉGICOS DA GESTÃO FISCAL (GF)
+As ações deste componente visam melhorar o desempenho da governança pública contribuindo para o aumento da eficiência no
+planejamento, monitoramento e avaliação dos resultados, a mitigação dos riscos fiscais, o fortalecimento dos mecanismos de
+transparência e controle e a melhoria da prestação de serviços, considerando a sustentabilidade ambiental e a promoção da
+igualdade de gênero e diversidade. Portanto, um sólido modelo de governança promove a inovação, aproveita as oportunidades da
+transformação digital e direciona estrategicamente seu corpo técnico.
+
+P - 1.1 - Modelo de Governança Pública verde e inovador
+Este produto busca promover a autonomia, o alinhamento, o direcionamento e o monitoramento da atuação da organização. Busca
+promover melhorias na capacidade de gestão da administração tributária, define diretrizes para a transformação digital e estimula
+o uso intensivo de tecnologias e a cultura da inovação, para otimizar a utilização dos recursos no alcance dos resultados. Para
+tanto, serão implementadas as seguintes soluções: (i) desenvolver a modelagem da governança fiscal, adequada aos fatores de
+inovação e de sustentabilidade; (ii) estruturar uma sistemática de governance officer (AGE) na SEFAZ; (iii) Implantar Sistema
+Integrado de Gestão Corporativa; (iv) implementação de indicadores estratégicos, transversais e de sustentabilidade fiscal e
+ambiental; (v) implementar metodologia de gestão de portfólio de projetos estratégicos da SEFAZ; (vi) implementar sistemas de
+gestão e monitoramento da gestão estratégica e da gestão de projetos com painel de informações gerenciais e (vii) desenvolver
+sistemática de comunicação do planejamento estratégico.
+
+
+Página: 9
+
+P - 1.2 -  Modelo de Gestão de Riscos Integrado
+Este produto busca promover a criação e implementação de estratégias e práticas para identificar, avaliar e monitorar riscos
+associados a gestão da SEFAZ/RS. Para tanto, serão implementadas as seguintes soluções: (i); desenvolvimento de metodologia
+de gestão de riscos institucionais, fiscais e de impactos das mudanças climáticas desenvolvida; (ii) Ferramentas de gestão de
+riscos implementada; (iii) estruturação da auditoria da gestão de riscos; (iv) programa de gestão de crises, de continuidade do
+negócio; (v) planos de respostas a incidentes climáticos e de recuperação de desastres; e (vi) programa de avaliação de
+continuidade de negócio de terceiros.
+
+P - 1.3 - Modelo de Gestão de Pessoas Ampliado
+A implementação deste produto contribuirá para prover a SEFAZ/RS uma equipe coesa, produtiva, comprometida, capacitada e
+focada nas estratégias e nos resultados organizacionais, no processo de adaptação da RTC e dos impactos das mudanças
+climáticas. Neste sentido, serão implementadas as seguintes ações: (i) implantação de módulos do Sistema de Integrado de
+Gestão de Pessoas (funcionalidades gestão de pessoas, rh, gestão por competências); (ii) implantação de Programa de
+Diversidade, Equidade e Inclusão, de acordo com política a ser criada pela área de Gestão de Pessoas da Sefaz; (iii) diagnóstico,
+criação de metodologia e aplicação de dimensionamento da força de trabalho frente as novas demandas da RTC e dos processos
+de inovação tecnológica; (iv) desenvolvimento de novo modelo do conhecimento da SEFAZ/RS, mediante: a) criação de trilhas de
+aprendizagem dos conhecimentos críticos; b) adaptação da metodologia e do sistema de Gestão por Competências, considerando
+novo perfil do servidor fazendário diante da reforma tributária e dos impactos das mudanças climáticas sobre a gestão tributária; c)
+implantação do Programa de Sucessão em unidades identificadas; d) elaboração e Execução de Planos Anuais de capacitação
+baseados em competências e em sistema próprio; e) elaboração de programa de disseminação do conhecimento - Desafios da
+Reforma Tributária; f) criação de Programa de Desenvolvimento de Lideranças com foco em trabalho híbrido, transformação digital,
+reforma tributária e ações de adaptação as mudanças climáticas.
+Também será ampliado o programa de saúde, qualidade de vida e sustentabilidade, com ações como: (a) criação de Programa de
+Disseminação dos conceitos e aplicações de ESG para a Sefaz; (b) mapeamento dos riscos climáticos e ambientais no ambiente
+de trabalho da SEFAZ; e (c) Elaboração dos Planos Anuais de Qualidade de Vida.
+
+P - 1.4 - Gestão da Tecnologia da Informação implementado
+O propósito deste produto é oferecer à SEFAZ, ao contribuinte e à sociedade, serviços e dados consistentes e seguros a fim de
+prover a relação fisco contribuinte de informações ágeis, precisas e seguras com foco na simplificação, confiança e transparência.
+A adequação do parque tecnológico se faz necessária considerando-se a prevenção da obsolescência de hardware e software,
+garantindo rápido acesso às informações em sua integralidade de maneira descomplicada, simples e moderna, com inovação e
+colaboração. Seguindo esse direcionamento serão desenvolvidas as seguintes ações: (i) atualização do parque tecnológico
+existente  para atendimento às necessidades da SEFAZ, com  aderência  às melhores práticas  de sustentabilidade e indicadores
+do Acordo de Paris; (ii) modernização da gestão de serviços por meio dos conceitos de observabilidade e automação de processos
+de TI; (iii) estruturar o sistema de governança através de Implementação de políticas e metodologias modernas  de gestão e
+desenvolvimento  de soluções; (iv) estruturar mecanismos de identificação de novas soluções, inovações e  tecnologias; (v)
+estruturar uma gestão de continuidade de negócio baseada em plano de continuidade, gestão  de riscos e gestão de crises; e (vi)
+implementar o modelo de smart building e coworking para otimização dos espaços de trabalho.
+
+P - 1.5 - Modelo de Gestão de Infraestrutura e Aquisições com critérios sustentáveis implantado
+A implantação deste produto busca atender às boas práticas de ESG, propondo soluções voltadas para sustentabilidade ambiental,
+social e de governança corporativa, adequando as edificações da Secretaria da Fazenda ao novo cenário de sustentabilidade
+ambiental, social e de governança, promovendo mudanças nas instalações prediais com vistas a reduzir custos de manutenção,
+reduzir emissões de poluentes e tornar os ambientes mais verdes e agradáveis. Também busca implementar um modelo de
+aquisições sustentáveis na SEFAZ/RS. Seguindo esse direcionamento serão desenvolvidas as seguintes ações: (i) criação da
+carta de serviços administrativos em tecnologia e portal específicos; (ii) implantar soluções em processos trabalho com uso de
+ciência de dados; (iii) desenvolvimento de um portal integrado com informações e serviços das áreas de patrimônio, infraestrutura,
+logística, aquisições e pessoas; (iv) implementação de sistemática para gestão de documentos e informações com uso de IA; (v)
+estruturação de processos de comunicação interna, aderente ao Plano de Comunicação da SEFAZ, capaz de informar aos
+públicos interno e externo quais os serviços e como acessá-los; (vi) implementação de novos módulos do GCP (Sistema Gestão de
+Contratações Públicas) em conjunto com os órgãos centrais (CELIC e CAGE); (vii) desenvolver políticas e diretrizes para as
+compras sustentáveis na SEFAZ/RS, com destaque à promoção de aquisições de bens de baixo consumo de energia (selo verde),
+de baixo carbono, buscando mitigação dos efeitos das mudanças climáticas, fomentar a economia local e circular.
+Também será ampliado novo processo de gestão patrimonial, infraestrutura e logística sustentável, por meio de: (i)  reforma de
+prédio sede da SEFAZ com base inteligente, sustentável, resiliente e certificada; (ii) desenvolvimento da política interna de gestão
+patrimonial; (iii) desenvolvimento do sistema para gestão do estoque, com ênfase na sustentabilidade e just-in-time; (iv) reforma de
+prédio público da SEFAZ/RS para integrar arquivo, microfilmagem e almoxarifado com base inteligente, sustentável, resiliente e
+certificada; (v) projeto e implantação de modelo de eficiência energética nos prédios, e nas aquisições e manutenção de bens da
+SEFAZ, com indicadores específicos para alinhamento com o Acordo de Paris; (vi) implantar a metodologia BIM (Building
+Information Modeling) como principal ferramenta para a elaboração de projetos e controle de obras de arquitetura e engenharia na
+SEFAZ/RS; (vii) realizar obras represadas para melhoria das funcionalidades e qualidade de vida para os ambientes na SEFAZRS
+(CAGE; RE; TE e demais unidades transversais) considerando a nova realidade de trabalho híbrido e de otimização de espaços; (
+vii) recriação do espaço inovação, perdido nas enchentes que atingiram o prédio sede, com ênfase na resiliência e sustentabilidade
+dos espaços e (viii) criação e institucionalização de um política de aquisições com critérios de ESG.
+
+
+Página: 10
+
+P - 1.6 - Comunicação e transparência
+Este produto visa aperfeiçoar o processo de comunicação institucional no sentido mais amplo, com foco inclusive nos processos de
+ouvidoria e de atendimento, a fim de otimizar o relacionamento com a sociedade por meio de iniciativas de transparência e de
+desenvolvimento da cidadania fiscal, oferecendo à sociedade conhecimento tempestivo, inteligível e simplificado. Seguindo esse
+direcionamento serão desenvolvidas as seguintes ações: (i) implementar serviços e ferramentas para produção de conteúdo; (ii)
+estruturar processo de monitoramento e interação nas redes sociais visando diminuição das dúvidas dos contribuintes e população
+em geral e promover a disseminação de conteúdos  informativos dos temas fazendário com linguagem simples e acessível; (iii)
+realizar pesquisa para definir abordagem, programas e materiais específicos da educação fiscal, adequado para diferentes públicos
+-alvo, e atualizado em relação à Reforma Tributária; e (iv) reestruturar o Portal Transparência RS, com foco em oferecer
+informação especializada para os diferentes públicos (novos painéis, linguagem cidadã, etc.)
+
+P - 1.7 - Políticas para transformação digital, inovação e governança de dados implantada
+Este produto visa fortalecer a gestão pública inteligente e o modelo de transparência pública do Estado, com base no uso da
+inteligência de dados, inovação e na transformação digital. Seguindo esse direcionamento serão desenvolvidas as seguintes ações
+: (i) definição de políticas para transformação digital, inovação e governança de dados de forma coordenada para toda a SEFAZ/
+RS; (ii) implantação de programa de promoção de cultura para a transformação digital e inovação; (iii) implementar programas
+transversais de amadurecimento em destreza digital nas áreas da SEFAZ/RS; (iv) estruturação, integração e compartilhamento de
+base de dados; e (v) implementar as diretrizes da política de Lei Geral de Proteção de Dados Pessoais (LGPD).
+
+C - 2 - ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL (AT)
+As ações deste componente visam melhorar o desempenho da administração tributária e do contencioso fiscal, considerando as
+diretrizes para facilitar conformidade tributária do contribuinte e para a RTC, contribuindo para o aumento da arrecadação das
+receitas próprias, a redução de tempos para cumprimento das obrigações tributárias, a celeridade na tramitação do processo
+administrativo fiscal e a recuperação da dívida ativa. Assim, a nova administração tributária maximiza o cumprimento voluntário das
+obrigações e facilita a conformidade tributária para a redução da litigiosidade, com suporte no uso intensivo de dados.
+
+P - 2.1 - Modelo de gestão de Conformidade Tributária implantado
+Este produto tem por objetivo implementar um novo modelo de conformidade tributária na SEFAZ/RS buscando  a melhoria do
+ambiente de negócios, facilidades ao contribuinte no cumprimento das obrigações fiscais. Este modelo orientará toda a ação da
+SEFAZ/RS nos próximos anos, devidamente adequado as novas diretrizes da RTC. Para tanto, serão desenvolvidos: (i)
+implementar processo estruturado de gestão de riscos de conformidade tributária, com desenvolvimento de ferramentas,
+capacitação de servidores e implantação de programas de estímulo à conformidade voluntária; (ii) implementar processo
+estruturado de medição da brecha tributária, com capacitação de servidores e cálculo automatizado; (iii) qualificar processos e
+gestão de dados para fomentar e apoiar as ações dos contribuintes e intermediários tributários com vistas a manter o cadastro
+correto e atualizado, com declarações tempestivas, completas e exatas, com pagamento pontual; (iv) implementar solução
+automatizada que integre as ações de conformidade e possibilite a avaliação de seu impacto na redução da brecha; (v)
+disponibilizar solução tecnológica e analítica para ações relacionadas à resolução de litígios tributários, centrado na interação
+qualificada entre Administração Tributária, litigantes e intermediários tributários; (vi) estruturar ações e ferramentas que permitam a
+célere atuação da Administração Tributária do tributo imediatamente após o vencimento; e (vii) estruturar ações e ferramentas
+integradas voltadas à gestão ativa do estoque das dívidas tributárias, priorizando por valor, antiguidade e efetivas condições de
+recuperabilidade.
+
+P - 2.2 - Receita Digital implantada, visando a conformidade tributária
+Este produto contribuirá para um modelo de governança da Receita Digital, mediante uma gestão eficaz de dados, potencializando
+a conformidade e reduzindo custos, com maior interação entre o fisco e o contribuinte. Nesse sentido serão desenvolvidas as
+seguintes ações: (i) estruturar uma base de regras tributárias constantemente atualizada e em formato administrável e verificável
+que reflita a interpretação oficial da Administração Tributária acerca da aplicação da Legislação, acessível tanto para os servidores
+quanto para os agentes econômicos e demais partes interessadas e apta a ser integrada em suas respectivas soluções
+tecnológicas; (ii) implementar framework que oriente a estratégia mais assertiva para a gestão de dados econômico-tributários de
+maneira eficaz, visando maximizar a conformidade e minimizar custos considerando a estrutura tecnológica da Administração
+Tributária e considerando os sistemas naturais do contribuinte; (iii) implementar modelo de governança para o conjunto de serviços
+da Receita Digital, orientando o desenvolvimento, implementação e conectividade tanto dentro da Administração Tributária quanto
+em cooperação com outros atores; (iv) estruturar novas interfaces fisco-contribuinte que facilitem seu engajamento com os
+processos da Administração Tributária em tempo real, viabilizando oportunidades de integração dos sistemas dos contribuintes
+com o fisco, inclusive de maneiras mais automatizadas; (v) implementar infraestrutura robusta e integrada capaz de viabilizar a
+identificação única de pessoas físicas e jurídicas que interagem com a Administração Tributária, de modo a garantir a autenticidade
+, a integridade e a confidencialidade das informações eletrônicas e dos documentos enviados ou recebidos; e (vi) desenvolver
+novas habilidades que serão necessárias para a Administração Tributária digital, com intervenção humana ocorrendo com menos
+frequência e com suporte crescente de processos de inteligência artificial.
+
+
+Página: 11
+
+P - 2.3 - Modelo de Política Tributária Indutor do Desenvolvimento Econômico e Social implantado
+Este produto busca implementar uma estratégia de política fiscal e tributária para promover o crescimento econômico e o bem-
+estar social, fomentando a adequação da dos incentivos fiscais e da tributação como ferramentas para estimular o
+desenvolvimento sustentável e a inclusão social. Nesse sentido serão desenvolvidas as seguintes ações: (i) implantar ferramentas
+para estruturação e busca da legislação e forma simplificada e parametrizável; (ii) elaborar estudos técnicos fiscal e tributários para
+fomentar o desenvolvimento econômico sustentável, revisão de gastos tributários, promover a adaptação as adaptações as
+mudanças climáticas e mensurar os impactos sobre a arrecadação tributária; (iii) desenvolver parâmetros, indicadores e
+instrumentos para avaliar o resultado da política tributária, dos incentivos tributários sobre a arrecadação e sobre as mudanças
+climáticas; (iv) prever e analisar a arrecadação de forma automatizada, considerando fatores de riscos, inclusive climáticos; (v)
+automatizar a medição da brecha de política tributária.
+
+P - 2.4 - Produtos e serviços voltados à simplificação implantados, visando a conformidade tributária
+Este produto contempla as estratégias para estimular a conformidade tributária e aprimorar o atendimento, a comunicação fisco
+contribuinte e facilitando o cumprimento das obrigações tributárias pelo contribuinte, melhorando o ambiente de negócios. Para
+tanto, é necessário que as bases de dados sejam consistentes e que as informações reflitam com fidedignidade as operações
+realizadas à luz das regras fiscais. Assim, um modelo de atendimento mais eficiente deve ter como premissas a menor
+necessidade de obrigar o contribuinte a realizar deslocamentos físicos, gerando impactos significativos na redução da emissão de
+gases beneficiando assim o meio ambiente, maior concentração de serviços em um portal único com acesso seguro e maior
+possibilidade de o contribuinte conhecer as informações a seu respeito que estão disponíveis para o Fisco.
+
+Nesse sentido serão desenvolvidos as seguintes ações: (i) implementar processo estruturado e contínuo de avaliação da qualidade
+da prestação de serviço, mediante realização de pesquisa regular e cientificamente estruturada; (ii) implementar plano de
+qualificação dos colaboradores que atuam no atendimento, com revisão de processos e ferramentas; (iii) implementar abordagem
+multicanais (Omni Channel) para gestão integrada das demandas do contribuinte; (iv) implementar a obrigação fiscal única; (v)
+aprimorar o Portal de Serviços da Receita Estadual; (vi) implementar ferramenta de inteligência artificial generativa para respostas
+às consultas; (vii) implementar ferramenta automatizada de auditoria da arrecadação; (viii) implementar documento único de
+arrecadação; (ix) implementar novas formas de recolhimento de tributos (debito automático, PIX, cartão de crédito, transferências
+bancárias, débito em conta, etc); (x) implantar solução automatizada para devolução automática de pagamentos indevidos ou a
+maior,  reconhecimento de compensações de saldo credor, transferências de saldo credor e desonerações; (xi) automatizar o
+processo de julgamento de repetição de indébito e revisão do trabalho para maior celeridade na devolução de valores aos
+contribuintes; (xii) implantar processo estruturado de auditoria interna para aferição da aplicação de regras e políticas da Receita
+Estadual; (xiii) capacitar colaboradores na área de auditoria interna e de gestão de riscos; (xiv) realizar pesquisa para definir
+abordagem, programas e materiais específicos da educação fiscal, adequado para diferentes públicos-alvo; (xv) qualificar câmaras
+temáticas voltadas ao diálogo e à identificação de oportunidades de incremento na conformidade voluntária e na implementação de
+ações setoriais voltadas ao desenvolvimento econômico; e (xvi) implantar canal de interação com entes externos para fluxo de
+informações.
+
+P - 2.5 Convergência com a Reforma Tributária
+O referido produto foca nos impactos relevantes que a reforma tributária em curso trará sobre o modus operandi das
+administrações tributárias subnacionais, principalmente no que concerne à Administração Tributária e o Contencioso Fiscal. A
+redistribuição de competências tributárias entre os entes federativos União, Estados e Municípios e a implementação de novos
+modelos de arrecadação, gestão e fiscalização exigem uma profunda reestruturação das Secretarias de Fazenda. Nesse contexto,
+o presente produto visa consolidar investimentos em processos, tecnologia e capacitação de pessoal com foco na preparação da
+SEFAZ para operar de forma eficiente no novo ambiente projetado pela reforma tributária. O foco recai sobre os tributos ICMS e
+ITCMD, passíveis de extinção com a criação do IBS Imposto sobre Bens e Serviços. Em um nível macro, o produto prevê ações
+que integrem pessoas, normas, processos e sistemas da SEFAZ às demandas decorrentes da reforma. Neste sentido, serão
+implementadas as seguintes ações: (i) Revisar os processos de trabalho, sistemas legados e soluções tecnológicas impactados
+pela reforma tributária, com capacitação e disseminação das mudanças decorrentes da reforma tributária; (ii) adequar o ambiente
+da SEFAZ Virtual às mudanças decorrentes da reforma tributária; (iii) adequar a estrutura organizacional às mudanças decorrentes
+da Reforma Tributária; (iv) adequar os processos de trabalho à fase de transição dos modelos de tributação sobre o consumo; (v)
+Capacitar as equipes de trabalho para o novo modelo de tributação para o consumo e à preparação para mudança do modelo,
+entre outras ações.
+
+C - 3 - PLANEJAMENTO, ORÇAMENTO, GESTÃO FINANCEIRA E DO GASTO PÚBLICO (PG)
+As ações deste componente visam o fortalecimento da administração financeira estadual que demanda a revisão dos modelos e
+instrumentos para a gestão de áreas críticas, tais como: o planejamento e execução orçamentária, execução financeira,
+contabilidade e gestão da dívida, pois o sistema integrado de administração financeira em produção encontra-se bastante defasado
+, tanto no ponto de vista técnico, com uma linguagem de desenvolvimento e banco de dados obsoletos, que repercutem em
+dificuldades de manutenções e evoluções, como também no conjunto dos seus módulos em produção. Outros aspectos
+considerados no projeto incluem a relevância de tratar o orçamento público como um instrumento que contribua para o
+desenvolvimento de políticas inclusivas e fomento à economia local.
+
+
+Página: 12
+
+P - 3.1 Gestão da execução orçamentária financeira integrada
+Este produto objetiva aumentar a eficiência da gestão financeira, com hipóteses e probabilidades voltadas para a economia,
+arrecadação, execução de despesas, alocação de recursos, dentre outras coisas, sendo esses fundamentais para a obtenção do
+equilíbrio desejado pelo governante. Nesse sentido serão desenvolvidas as seguintes ações: (i) implementar fluxo de caixa
+automatizado, proporcionando a  rastreabilidade da despesa pública a partir das liberações orçamentárias e automatizando todo o
+fluxo de caixa: empenho, liquidação e pagamento,  envolvendo os órgãos executores para o fornecimento das informações
+complementares acerca das previsões das respectivas despesas e seus cronogramas; (ii) desenvolver novas versões, módulos ou
+integrações no sistema de Finanças Públicas do Estado - FPE; (iii) sistema de conciliação bancária automatizado implementado; (
+iv) automatização da contabilização da folha de pagamento; e (v) implementação de sistemática para prevenção de passivos
+financeiros do Estado implementada.
+
+P - 3.2 - Modelo de gestão contábil aprimorado
+Este produto visa aprimorar o modelo de gestão contábil do Estado a fim de garantir eficiência nos registros e nas informações
+contábeis, bem como ampliar a transparência, a eficiência e a responsabilidade na gestão dos recursos públicos. Nesse sentido
+serão desenvolvidas as seguintes ações: (i) desenvolver o módulo de Processamento de Folhas no FPE, integrar com o módulo
+Contabilidade possibilitando desativar as plataformas legadas; (ii) desenvolver rotinas automatizadas, por meio de integração de
+módulos do FPE com o módulo Contabilidade; (iii) promover a geração dos relatórios e demonstrativos contábeis a partir da Matriz
+Saldo Contábil (MSC); (iv) desenvolver um painel de qualidade contábil, colaborando com os processos de contabilidade, controle
+e auditoria; (v) inventariar imóveis do Estado (atualização cadastral e  avaliação atualizada); e (vi) desenvolver sistemática de
+reavaliação periódica destes bens.
+
+P - 3.3 - Modelo de Gestão de Folha de Pagamento de Ativos e Inativos implementado
+Este produto visa aprimorar o modelo de gestão da folha de pagamentos dos ativos e inativos do Estado, implementando gestão
+de dados e auditoria por IA. Nesse sentido serão desenvolvidas as seguintes ações: (i) integração entre sistemas e automatização
+da contabilização de folhas de pagamento; (ii) estruturação da bases de dados de Sistemas de Folha de Pagamentos e Gestão de
+Pessoas de forma a disponibilizar dados em tempo real para a realização de estudos exploratórios e análises preditivas com uso
+de ferramentas de ciência de dados, inteligência artificial e machine learning; integração com o ambiente de hardware e software
+do Tesouro Orientado a Dados; (iii) desenvolvimento de ferramentas de tecnologia para apoiar a gestão da folha segundo as
+premissas legais dos regimes RPPS/RS, gerando cálculos dos fluxos atuariais e das previsões para suporte a tomadas de decisão
+da Gestão; (iv) aquisição de infraestrutura tecnológica de hardware e software para processamento dos cálculos e realização dos
+estudos necessários para a boa gestão das questões previdenciárias.
+
+P - 3.4 - Modelo de Gestão de Riscos da Dívida Pública implementado
+Este produto visa aprimorar o modelo de gestão da dívida pública incorporando mecanismos e ferramentas para a gestão de riscos
+da dívida. Nesse sentido serão desenvolvidas as seguintes ações: (i) desenvolver e implementar metodologias de gestão de riscos
+fiscais, financeiros e ambientais e avaliar os impactos para a gestão da dívida pública; (ii) desenvolver estudos para otimizar a
+gestão da dívida pública; e (iii) implementar sistemática de monitoramento e mitigação de riscos da gestão da dívida.
+
+P - 3.5 - Modelo de Qualidade do Gasto e avaliação de Políticas Públicas implementado
+Avaliar a qualidade do gasto e a efetividade das políticas públicas é um fator fundamental para melhorar a efetividade na alocação
+dos recursos públicos. Nesse sentido serão desenvolvidas as seguintes ações: (i) estruturar Base de Dados do Preço de
+Referência de Medicamentos para nível nacional; (ii) implementar  sistemática de precificação da NFe para outros clusters; (iii)
+implementar ferramenta de revisão sistemática de gastos (Spending Review); (iv) implantar ferramentas de racionalização dos
+gastos nas compras governamentais, com parâmetros de sustentabilidade ambiental e climática; (v) desenvolver metodologia e
+ferramenta de avaliação de Políticas Públicas, incluindo   seus impactos sobre a sustentabilidade ambiental e climática; (vi)
+implementar sistemática de gestão dos sequestros judiciais.
+
+P - 3.6 - Programa de Inovação do Tesouro do Estado
+Este produto busca implementar uma estratégia de transformação digital, com inovação ampliando os ganhos de eficiência da
+gestão financeira do Estado. Nesse sentido serão desenvolvidas as seguintes ações: (i) desenvolver e implementar estratégia de
+inovação e transformação digital do Tesouro do Estado TE; (ii) implementar ferramentas para automação inteligente e em métodos
+ágeis; (iii) implementar observatório de finanças pública no âmbito do Tesouro do Estado; (iv) desenvolver estudos e pesquisas
+aplicadas nas temáticas envolvendo a administração financeira, riscos e mudanças climáticas;  e (v) desenvolver plataforma
+analítica de dados financeiros.
+
+C - 4 - GESTÃO JURÍDICA PARA SUSTENTABILIDADE FISCAL (GJ)
+Este componente visa aumentar a efetividade gestão jurídica para a redução dos riscos fiscais e aumento da liquidez do crédito
+tributário. Uma efetiva gestão jurídica dos temas fiscais baseia-se no uso das novas tecnologias e da inteligência artificial para a
+redução dos riscos fiscais e a promoção da liquidez do crédito tributário, assegurando transparência e segurança jurídica.
+
+P - 4.1 - Modelo de gestão de pessoas e desenvolvimento de competências da PGE aprimorado
+Este produto visa aprimorar a gestão de pessoas na Procuradoria Geral do Estado, a fim de ampliar a eficiência e com capacidade
+de adaptação para os desafios da Reforma Tributária. Nesse sentido serão desenvolvidas as seguintes ações: (i) implementar os
+planos anuais de capacitação institucional com foco na gestão para resultados e gestão por competências; (ii) implementar o
+sistema de gestão por competências; (iii) atualizar os programas de qualidade de vida, de desenvolvimento de lideranças e de
+educação ambiental; (iv) atualizar o aparelhamento tecnológico e soluções educacionais digitais para a ESAE e seus Centros de
+Estudos; e (v) revisar a metodologia de gestão da força de trabalho.
+
+
+Página: 13
+
+P - 4.2 - Modelo de gestão da tecnologia da informação da PGE implantado
+Este produto visa fortalecer a gestão de Tecnologia da Informação da Procuradoria Geral do Estado, a fim de ampliar a eficiência e
+a capacidade de adaptação para os desafios da Reforma Tributária. A adequação do parque tecnológico se faz necessária
+considerando-se a prevenção da obsolescência de hardware e software, garantindo rápido acesso às informações em sua
+integralidade de maneira descomplicada, simples e moderna, com inovação e colaboração. Nesse sentido serão desenvolvidas as
+seguintes ações: (i) qualificar os serviços de atendimento aos usuários e de provimento de soluções através de capacitações,
+soluções e serviços técnicos; (ii) adequar os espaços físicos utilizados pela área de TI, as salas de armazenamento de
+equipamentos e de servidores de rede; (iii) ampliar a infraestrutura de cabeamento estruturado e contingência elétrica nas
+edificações ocupadas pela PGE; (iv) elaborar planos e procedimentos e adotar ferramentas e controles de segurança cibernética,
+de segurança da informação e de proteção de dados; (v) elaborar o plano de contingência e continuidade de serviços de TIC; e (vi)
+modernizar e virtualizar o parque tecnológico considerando a aquisição de equipamentos de acordo com requisitos de
+sustentabilidade ambiental.
+
+P - 4.3 - Modelo de gestão jurídica para sustentabilidade fiscal modernizado e com uso de Inteligência Artificial
+Este produto visa aprimorar a atuação consultoria e o controle de litígios relacionados à gestão jurídica com uso de inteligência
+jurídica. Nesse sentido serão desenvolvidas as seguintes ações: (i) implementar novo portal de orientação e consultoria jurídica
+para suporte e maior agilidade na pesquisa e elaboração de pareceres; (ii) avançar na modernização do sistema de informação e
+inteligência jurídica (uso de IA) incluindo a adoção de ferramenta para automatizar a confecção de peças jurídicas e adequar
+processos à Reforma Tributária; (iii) prover soluções para pesquisa, leitura e interpretação de jurisprudência para elaboração de
+estratégias de atuação jurídica com uso de IA; (iv) desenvolver solução amigável com acessibilidade ao público pelo portal da PGE
+para resolução de litígios, negociação e pagamento da dívida ativa em fase judicial; e (v) aprimorar os instrumentos de gestão de
+passivos contingentes e consolidados com uso de soluções analíticas.
+
+P - 4.4 - Modelo de gestão de dados da PGE implantado
+Este produto visa implementar a gestão de dados na PGE, estruturando banco de dados, informações e mecanismos de análise de
+dados. Nesse sentido serão desenvolvidas as seguintes ações: (i) implementar o Laboratório de Inovação da PGE; (ii) desenvolver
+soluções para automação e análise de dados; (iii) modernizar a plataforma tecnológica para gerenciamento e governança de
+bancos de dados; (iv) atualizar e ampliar as bases de dados para análise estratégica da cobrança da dívida ativa em fase judicial; (
+v) desenvolver a estratégia de data analytics para alavancar a inteligência analítica da PGE; (vi) desenvolver capacidades
+analíticas e letramento em dados em nível institucional; (vii) desenvolver soluções de jurimetria para identificação e controle de
+riscos em demandas judiciais; e (viii) atualizar o modelo de gestão da informação.
+
+P - P 4.5 - Modelo de gestão de métodos alternativos de resolução de conflitos (MARC) da DPE
+Este produto visa aprimorar a atuação preventiva e equitativa da DPE na solução de conflitos entre a população de baixa renda e o
+Estado do Rio Grande do Sul. Nesse sentido, serão desenvolvidas as seguintes ações: (i) implementar, nas dependências da DPE
+, espaço para instituição da câmara de mediação de conflitos; (ii) definir perfil, habilidades e competências do corpo técnico da
+DPE necessárias ao processo não judicial de resolução de conflitos; (iii) Desenvolver documentos padronizados, como acordos de
+mediação, termos de compromisso e relatórios de progresso, dentre outros, de sorte a permitir a contínua transparência do
+processo de mediação de conflito; (iv) promover ações de conscientização sobre os benefícios das soluções não judiciais de
+conflitos, mediante a realização de campanhas de sensibilização, workshops, e parcerias com organizações comunitárias e
+instituições educacionais; e (v) implementar um sistema de monitoramento e avaliação contínua, voltado a medir a eficácia e a
+eficiência do espaço de solução não judicial de conflitos, em especial, sob os aspectos de economicidade e planejamento do gasto
+público.
+
+C - GESTÃO DO PROJETO
+Obter conhecimentos, habilidades e técnicas necessárias para a supervisão do projeto, de forma a propiciar o correto
+gerenciamento do escopo, tempo, custos e integração na execução de seus diferentes produtos. Para este componente, estão
+previstas duas intervenções: Monitoramento e Avaliação, e Auditoria.
+
+P - A1 - Monitoramento e Avaliação
+Avaliações e monitoramentos periódicos para obter, analisar, avaliar e disponibilizar informações para conhecer o real estágio de
+execução, visando a adoção de medidas para correção de eventuais desvios. Assim, será realizada a supervisão do projeto, o
+gerenciamento do escopo, do tempo, dos custos e integração na execução.
+
+P - A2 - Auditoria
+Revisão das demonstrações financeiras, registros, transações e operações do projeto.
+
+
+Página: 14
+
+Categoria de Gasto
+
+Obras
+P- 1.5 - Modelo de Gestão de Infraestrutura e
+Aquisições com critérios sustentáveis implantado
+Bens
+P- 1.4 - Gestão da Tecnologia da Informação
+implementado
+P- 4.2 - Modelo de gestão da tecnologia da
+informação da PGE implantado
+Consultoria
+P- 1.1 - Modelo de Governança Pública verde e
+inovador
+P- 1.2 -  Modelo de Gestão de Riscos Integrado
+P- 1.6 - Comunicação e transparência
+P- 1.7 - Políticas para transformação digital,
+inovação e governança de dados implantada
+P- 2.1 - Modelo de gestão de Conformidade
+Tributária implantado
+P- 2.2 - Receita Digital implantada, visando a
+conformidade tributária
+P- 2.3 - Modelo de Política Tributária Indutor do
+Desenvolvimento Econômico e Social implantado
+P- 2.4 - Produtos e serviços voltados à
+simplificação implantados, visando a
+conformidade tributária
+P- 2.5 Convergência com a Reforma Tributária
+P- 3.4 - Modelo de Gestão de Riscos da Dívida
+Pública implementado
+P- 3.5 - Modelo de Qualidade do Gasto e
+avaliação de Políticas Públicas implementado
+P- 3.6 - Programa de Inovação do Tesouro do
+Estado
+P- 4.3 - Modelo de gestão jurídica para
+sustentabilidade fiscal modernizado e com uso de
+Inteligência Artificial
+P- 4.4 - Modelo de gestão de dados da PGE
+implantado
+P- P 4.5 - Modelo de gestão de métodos
+alternativos de resolução de conflitos (MARC) da
+DPE
+P- A1 - Monitoramento e Avaliação
+P- A2 - Auditoria
+Serviços que Não de Consultoria
+P- 1.3 - Modelo de Gestão de Pessoas Ampliado
+P- 3.1 Gestão da execução orçamentária
+financeira integrada
+P- 3.2 - Modelo de gestão contábil aprimorado
+P- 3.3 - Modelo de Gestão de Folha de
+Pagamento de Ativos e Inativos implementado
+P- 4.1 - Modelo de gestão de pessoas e
+desenvolvimento de competências da PGE
+aprimorado
+Total Geral
+
+Unidade de medida
+-
+%
+
+-
+%
+
+%
+
+-
+%
+
+%
+%
+%
+
+%
+
+%
+
+%
+
+%
+
+%
+%
+
+%
+
+%
+
+%
+
+%
+
+percentual
+
+%
+%
+-
+%
+%
+
+%
+%
+
+%
+
+-
+
+Meta
+
+Valor
+
+% Financeiro
+
+-
+100,00
+
+-
+100,00
+
+100,00
+
+-
+100,00
+
+100,00
+100,00
+100,00
+
+100,00
+
+100,00
+
+100,00
+
+100,00
+
+100,00
+100,00
+
+100,00
+
+100,00
+
+100,00
+
+100,00
+
+100,00
+
+100,00
+100,00
+-
+100,00
+100,00
+
+100,00
+100,00
+
+100,00
+
+6.000.000,00
+6.000.000,00
+
+16.924.000,00
+13.960.000,00
+
+2.964.000,00
+
+86.792.000,00
+2.400.000,00
+
+2.400.000,00
+2.400.000,00
+2.400.000,00
+
+6.000.000,00
+
+9.600.000,00
+
+6.000.000,00
+
+7.920.000,00
+
+34.040.000,00
+600.000,00
+
+2.400.000,00
+
+2.400.000,00
+
+2.004.000,00
+
+2.004.000,00
+
+2.004.000,00
+
+1.200.000,00
+1.020.000,00
+22.284.000,00
+5.880.000,00
+3.600.000,00
+
+6.600.000,00
+4.200.000,00
+
+2.004.000,00
+
+4,55
+4,55
+
+12,82
+10,58
+
+2,25
+
+65,75
+1,82
+
+1,82
+1,82
+1,82
+
+4,55
+
+7,27
+
+4,55
+
+6,00
+
+25,79
+0,45
+
+1,82
+
+1,82
+
+1,52
+
+1,52
+
+1,52
+
+0,91
+0,77
+16,88
+4,45
+2,73
+
+5,00
+3,18
+
+1,52
+
+-
+
+132.000.000,00
+
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Uma vez que este novo Programa é uma continuidade do PROFISCO II, verifica-se que muitas ações já estão sendo desenvolvidas e
+serão complementadas no PROFISCO III. Ademais, diversos TDR´s estão sendo discutidos internamente, garantindo assim, solução de
+continuidade entre os dois Programa. O anexo IV detalha esta relação e os avanços entre os dois programas.
+
+Ademais, estão em desenvolvimento iniciativas de prospecção de soluções e geração de especificações para um conjunto de produtos.
+Soluções robustas iniciadas com financiamento do PROFISCO II serão continuadas com o novo Projeto PROFISCO III.
+
+(cid:10)
+(cid:10)
+
+
+Página: 15
+
+O Componente 1 do PROFISCO II - Gestão Fazendária e Transparência Fiscal aborda a implementação de modelos de governança,
+gestão de pessoas, tecnologia da informação e compras, além de uma comunicação mais transparente da SEFAZ/RS com a sociedade.
+Os programas PROFISCO I e II contribuíram para a modernização e aprimoramento das práticas administrativas, como a criação de
+comitês de gestão, sistemas de acompanhamento de teletrabalho, e a adoção de tecnologias avançadas em TIC. Também foram
+desenvolvidas políticas de diversidade e inclusão, além de ações voltadas à educação fiscal e transparência, com a criação de canais de
+comunicação e a ampliação do Portal da Transparência. O PROFISCO III se propõe a consolidar esses avanços, focando na continuidade
+desses projetos e na adaptação às novas demandas sociais e tecnológicas.
+
+O Componente 2 do PROFISCO II - Administração Tributária e Contencioso Fiscal abriga projetos como a Receita Orientada a Dados e a
+Legislação Digital Inteligente, além de implementar um sistema de simplificação tributária e um modelo de fiscalização mais eficiente,
+utilizando ferramentas de ciência de dados para aprimorar a gestão da SEFAZ/RS, que terão continuidade no PROFISCO III. Também
+serão melhorados os serviços ao contribuinte, com a introdução de canais de atendimento omni channel e facilidades na arrecadação.
+Essas ações visam não apenas a conformidade tributária, mas também a adequação à nova reforma tributária, promovendo uma gestão
+mais eficiente e transparente. O foco do PROFISCO IIII será na modernização da Administração Tributária e do Contencioso Fiscal,
+enfatizando a integração das atividades tributárias por meio de uma gestão orientada a dados e riscos, com ênfase em avançar na Receita
+Digital via padronização de dados e construção de regras tributárias, em alinhamento com as diretrizes da OCDE.
+
+O Componente 3 do PROFISCO II - Administração Financeira e Gasto Público, promoveu importantes avanços na SEFAZ/RS, como a
+atualização do Sistema Integrado de Administração Financeira e Contábil - Sistema FPE e melhorias na gestão das folhas de pagamento.
+No âmbito do PROFISCO III as atenções serão voltadas para a Administração Financeira e o Gasto Público, destacando a continuidade
+do trabalho de modernização do Sistema FPE, através do aprofundamento das melhorias implantadas no PROFISCO II, com a
+implementação do fluxo de caixa automatizado, integrando dados e promovendo a eficiência na operação de processos críticos. Além
+disso, será dada continuidade à gestão de passivos e da dívida pública, com ênfase na transparência e agilidade. O modelo de gestão de
+riscos fiscais e a auditoria baseada em análise de riscos também serão aprimorados, visando uma gestão fiscal mais eficiente. Por fim, o
+programa de qualidade do gasto buscará racionalizar despesas e promover inovações na Administração Pública, garantindo a eficiência e
+a eficácia das políticas implementadas.
+
+O Componente 4 do PROFISCO II - Gestão Jurídica e Assuntos Fiscais na Procuradoria Geral do Estado - PGE, conta com investimentos
+importantes em tecnologia, como é o caso do Sistema Único de Procuradorias Públicas - SUPP, desenvolvido para apoiar atividades
+consultivas e contenciosas, integrando-se a outros sistemas, e do Sistema Gestão por Competências, que integra aplicações para
+gerenciar capacitações e desempenho dos servidores do órgão. Em seguimento no PROFISCO III, novas
+
+funcionalidades e uma metodologia para dimensionar a força de trabalho serão implementadas, além de inovações na gestão do
+contencioso judicial por meio de automação e jurimetria. Além disso, será elaborado o Plano Diretor de Tecnologia da Informação - PDTI,
+que visa modernizar a infraestrutura da PGE e criado um Núcleo de Dados dedicado a gerenciar informações e promover inovações.
+Essas iniciativas buscam fortalecer a capacidade da PGE na gestão de processos jurídicos e melhorar a eficiência operacional.
+
+Cabe destacar que o arranjo institucional do Programa, envolvendo todas as áreas da SEFAZ/RS está implementado e operacional e as
+equipes de licitações estão estruturadas. Ademais, os líderes de produtos e os técnicos da SEFAZ/RS conhecem os processos e
+procedimentos do PROFISCO II. Estes pontos demonstram as vantagens comparativas de implementação do PROFISCO III, uma vez que
+a curva de aprendizagem já foi alcançada.
+
+Adicionalmente há uma constante troca de experiências com os demais estados da federação, através dos grupos técnicos ENCAT ?
+Encontro Nacional dos Administradores Tributários, COGEF - Comissão de Gestão Fazendária, GEFIN - Grupo de Gestão de Finanças e
+GDFAZ - Grupo de Desenvolvimento do Servidor, todos vinculados ao CONFAZ / COMSEFAZ. Dessa forma os servidores da SEFAZ/RS
+que participam ativamente desses grupos de trabalhos nacionais podem obter informações relevantes que subsidiarão tanto a elaboração
+de termos de referência e editais de licitação pública como a realização de visitas técnicas para aprender com os sucessos e erros de
+outros estados que possam estar em estágio de maturidade mais avançado em dado processo ou projeto.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Sem detalhes
+
+Estado do Rio Grande do Sul ()
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+A.CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+a) Prazo de desembolso de 36 meses (3 anos);
+
+b) Prazo de carência: 36 meses (de 3 anos);
+
+c) Prazo máximo de amortização de 300 meses (25 anos); e
+
+d) Prazo total de 360 meses (30 anos).
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 16
+
+e) Taxa de juros (composição):
+
+-Índice SOFR: reajustado diariamente e composto - média dos últimos 180 dias: 5,120% a.a.;
+
+-Taxa de originação (funding margin): 0,41% a. a.
+
+-Spread de captação: reajustado mensalmente / trimestralmente: 0,85% (3º trim. 2023);
+
+-A partir de janeiro de 2022, os empréstimos do BID estarão baseados na taxa SOFR, que buscará refletir adequadamente o custo de
+captação agregado do Banco para operações com garantia soberana;
+
+-Comissão de Crédito sobre o saldo não desembolsado do financiamento: 0,5% a.a. (2º sem 2023);
+
+f) Taxa de câmbio: US$ = R$ 5,47 - (Banco Central do Brasil, PTAX, venda) Data de Referência 18/08/2024.
+
+B.NECESSIDADE DE FINANCIAMENTO EXTERNO E OPÇÃO PELO AGENTE FINANCEIRO
+
+a) Justificativa da necessidade e da opção por financiamento:
+
+A linha de crédito condicional para projetos de investimento (CCLIP) PROFISCO I - BR-X1005), aprovada em 2008 por um montante de
+US$ 500 milhões e ampliada em 2013 para US$ 700 milhões, teve como objetivo promover a integração dos fiscos brasileiros e
+modernizar a gestão fiscal, financeira e patrimonial dos estados. O PROFISCO I apoiou a implantação da Nota Fiscal eletrônica no país a
+fim de aprofundar e garantir os ganhos obtidos e continuar o processo de modernização fiscal, os estados brasileiros, apoiados pelo
+Ministério da Fazenda, solicitaram ao BID uma nova CCLIP.
+
+A linha de crédito, BR-X1039 (CCLIP-PROFISCO II), de US$ 900 milhões, apoiou a modernização da gestão fazendária e o
+aperfeiçoamento da administração tributária e da gestão do gasto público nos estados brasileiros. Pretende, também, fortalecer a
+arrecadação dos estados num contexto em que o baixo crescimento econômico enfrentado pelo país gera efeitos negativos no
+desempenho fiscal dos estados.
+
+A linha de crédito PROFISCO III, de US$ 2 bilhões, continuará apoiando os estados no enfrentamento dos grandes desafios que as
+gestões fiscais subnacionais deverão enfrentar nos próximos 10 anos, que incluem a implantação da Reforma Tributária, a transformação
+digital, a implantação de programas de conformidade, a redução da litigiosidade tributária, a modernização dos SIAFICs, dentre outros
+temas relevantes , que devem ser conduzidos estrategicamente e de forma conjunta entre os estados como forma de propiciar ganhos de
+sinergias na execução dos projetos e, ao mesmo tempo, poder contar com recursos financeiros direcionados e exclusivos para a
+modernização da gestão fiscal ao longo da sua execução.
+
+O orçamento fiscal destinado aos órgãos é consumido em sua maior parte com o custeio da produção de sistemas informatizados. A parte
+destinada a investimento tem-se reduzido ao longo dos anos e está comprometida, na maioria dos casos, com manutenções evolutivas
+dos sistemas existentes para atender às frequentes alterações legislativas.
+
+Ademais é importante considerar as demandas de adaptação e desenvolvimento de processos, sistemas, modelos, capacitações para
+implementação da Reforma Tributária Consumo. Este processo demandará esforços e recursos relevantes para promover as adequações
+nos prazos previstos.
+
+b) Justificativa da opção pelo agente financeiro escolhido:
+
+A escolha do BID advém do seu constante apoio no desenvolvimento de estudos, diagnósticos e recomendações, que são etapas
+fundamentais no desenho de várias políticas contempladas neste Programa.
+
+Embora a referida instituição disponha de condições financeiras vantajosas para a modalidade escolhida, a adicionalidade do BID vai
+muito além da captação dos recursos: o conhecimento específico e o amplo suporte técnico proporcionado pela equipe do Banco,
+incluindo a possibilidade de intercâmbio técnico com outros países, são diferenciais de suma importância para auxiliar o desenvolvimento
+das ações previstas e a avaliação dos seus resultados.
+
+O conhecimento específico e o amplo suporte técnico proporcionado pela equipe do Banco Interamericano de Desenvolvimento (BID) na
+área fiscal, são diferenciais de suma importância desde a fase do diagnóstico (aplicação de ferramentas de avaliação da maturidade da
+gestão fiscal MD-GEFIS nos estados e municípios), passando pelo desenho da operação até o acompanhamento da execução do projeto
+e avaliação de resultados alcançados, a exemplo do apoio provido ao longo dos programas PROFISCO I e II, implementado junto aos
+estados.
+
+Adicionalmente aos aspectos qualitativos mencionados, o BID proporciona intercâmbio técnico com outras unidades da federação e outros
+países, contribuindo para o conhecimento das melhores práticas e benchmarking das diferentes áreas da gestão fiscal.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 17
+
+O BID também tem uma larga tradição de contribuição à melhoria das políticas e da gestão fiscal no país, assim como na produção de
+conhecimento na área fiscal. Entre outras, podem-se destacar:
+
+- Parceria bem-sucedida com Programas de Modernização Administrativa e Fiscal, tais como PNAFE, PNAF, PROFISCO I e PROFISCO II
+e PRÓ-SUSTENTABILIDADE.
+
+- Apoio decisivo do Banco aos esforços dos entes federativos brasileiros para fortalecimento da área fiscal, da gestão pública e do
+Ministério da Fazenda, por meio do Programa de apoio à Gestão e Integração dos Fiscos no Brasil (PROFISCO), por meio da Linha de
+Crédito CCLIP BRX1005;
+
+- O valor agregado pelo Banco, além da contribuição financeira, em todas as fases dos programas ou projetos, inclusive nas áreas de
+sustentabilidade institucional e ambiental.
+
+- Apoio ao Regime Fiscal Sustentável, por meio de estudos sobre experiências internacionais para o desenho do novo arcabouço fiscal,
+incluindo modelo de regras fiscais;
+
+- Implantação de quadro Fiscal e Orçamentário de Médio Prazo (PMM). O BID tem apoiado esse processo com a elaboração de estudos,
+intercâmbios técnicos com outros países e seminários para o desenho de modelo de governança e proposta de plano de ação para a
+implementação do PMM no Brasil;
+
+- Fortalecimento da agenda para melhoria da qualidade do gasto público. O BID está apoiando o fortalecimento das avaliações de políticas
+públicas e sua divulgação e está desenhando um processo de revisão de gastos em nível federal. O apoio tem sido amplo e variado
+nessa área: desenvolvimento de avaliações de políticas públicas específicas; estudos de governança no processo de avaliação e
+orçamentação; publicação de boletins de avaliação para maior e melhor divulgação; organização e participação em seminários.
+Adicionalmente, o Banco está contribuindo para a construção de uma metodologia para classificar a efetividade das políticas públicas, a
+fim de subsidiar a revisão dos gastos.
+
+- Apoio à Reforma Tributária por meio de estudos, intercâmbio de experiência e apoio técnico da equipe do BID. Ressalta-se o apoio no
+desenho do modelo de implementação do IBS, a visita técnica ao Chile para conhecer a experiência de declaração pré-preenchida do IVA,
+a ser aplicado no CBS e IBS, além das reuniões com equipes da Colômbia, Equador e Peru para avaliação dos programas de cashback
+para subsidiar o modelo brasileiro. Também é importante o apoio do BID na melhoria da eficiência da administração tributária que permitiu
+a implantação da Nota Fiscal Eletrônica, que gerou informações de qualidade para a construção dos cenários pós-reforma tributária. O
+diagnóstico do BID sobre contencioso administrativo tributário também tem sido fundamental para o desenho do novo contencioso
+federativo, que será criado para o IBS e CBS; e
+
+- Apoio ao Programa do Regime de Recuperação Fiscal (RRF). O BID vem apoiando o programa do RRF, que representa uma alternativa
+de reestruturação fiscal dos estados com grave desequilíbrio fiscal, por meio de apoio técnico para revisão do processo e elaboração de
+metodologias para análise dos programas dos estados, elaboração de manuais de adesão ao Regime, desenvolvimento de metodologia
+para monitoramento e avaliação dos programas dos Estados no RRF, estudo sobre o cumprimento das metas de benefícios fiscais dos
+estados e desenvolvimento de metodologia para apuração do impacto dos benefícios fiscais.
+
+c) Comparação das condições financeiras do agente escolhido, em relação a outros financiadores externos/internos:
+
+(i)BNDES Finem - Crédito Projetos Direto para União, Estados e Municípios. Nas operações diretas, a Taxa de juros é composta pelo
+Custo Financeiro e pela Remuneração do BNDES. O custo das operações é o custo financeiro do BNDES, calculado pela Taxa de Longo
+Prazo, composta pelo IPCA + 5,48%a.a., (abril/24), acrescido da remuneração do BNDES estimada em, no mínimo, 1,5% a.a. O valor
+mínimo da operação é de R$ 20 milhões e o prazo de 20 anos;
+
+(ii)CAF: Incidem juros considerando taxa SOFR (Secured Overnight Funding Rate), acrescido de mais margem fixa a ser definida na data
+de assinatura do contrato de empréstimo; juros de mora de 2% a.a. acima dos juros a serem estabelecidos no contrato; comissão de
+compromisso / commitment charge de 0,35% a.a., aplicado sobre os saldos não desembolsados do empréstimo; comissão de
+financiamento de 0,85% do valor total do empréstimo e mais gastos de avaliação de US$ 50 mil.
+
+(iii)BIRD: Incidem juros baseados na SOFR de seis meses, acrescido de spread variável definido periodicamente pelo BIRD; juros de mora
+de 0,5% (cinco décimos por cento); comissão de compromisso / commitment charge de 0,25% a.a. sobre os saldos não desembolsados
+do empréstimo; comissão de abertura de 0,25% sobre o valor do empréstimo; sobretaxa de exposição do BIRD ao País de 0,5% a.a.
+sobre o montante que exceder ao limite de exposição do país.
+
+(iv)BID: Incidem juros baseados na SOFR (Secured Overnight Funding Rate) acrescido de funding margin e spread definidos
+periodicamente pelo BID; comissão de compromisso / commitment charge de 0,75% a.a., aplicado sobre os saldos não desembolsados do
+empréstimo.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 18
+
+2.11. PROJETO/BENEFICIÁRIO
+
+Para a população do Estado do Rio Grande do Sul, os resultados positivos estarão relacionados aos avanços na maturidade da gestão
+fiscal do Estado, às melhorias na arrecadação, redução dos gastos e transparência fiscal, contribuindo para a melhoria da qualidade de
+vida da sociedade em geral, mediante melhoria e ampliação dos serviços públicos prestados, principalmente em formato digital, e do
+ambiente de negócios, oferecendo um novo modelo de relacionamento fisco-contribuinte, possibilitando gerar mais empregos, ações de
+sustentabilidade ambiental, contribuindo para mitigação dos impactos das mudanças climáticas. Alcançando assim, a sua visão de um
+Estado mais Próspero, Justo e Sustentável.
+
+O projeto beneficiará, além da Secretaria de Estado da Fazenda, distintos órgãos da administração pública estadual, tais como: Secretaria
+de Planejamento, Governança e Gestão ? SPGG, a Procuradoria Geral do Estado do Rio Grande do Sul - PGE-RS.
+
+A sustentabilidade ambiental e a conservação da biodiversidade serão fortalecidas através da execução de estudos técnicos visam
+mensurar os riscos fiscais e a implantação de instrumentos fiscais e políticas públicas que visam mitigar os impactos do desenvolvimento
+econômico sobre o ecossistema, pelo desenvolvimento e implantação de uma política de compras públicas sustentáveis e com critérios de
+priorização de compras de pequenos produtos locais, com a implantação de modelos de eficiência energética nos prédios da SEFAZ/RS.
+
+Sob o aspecto da contribuição para a melhoria do ambiente de negócios e a maior inserção dos pequenos e microempreendedores são
+identificados vários produtos que contribuem diretamente, pode-se aqui destacar: (i) programa de conformidade tributária transversal em
+todos os produtos relacionados com a Receita; (ii) implementação de políticas de incentivo fiscais para empresas sustentáveis e que
+fomentam a economia circular; (iii) Programa de Fomento para a Participação Social Implantado, entre outros.
+
+Sob o aspecto do desenvolvimento, inovação tecnológica pode-se identificar que todo conjunto de produtos apresenta essa característica,
+todavia como iniciativa emblemática pode-se citar a implementação de um plano de transformação digital, que visa a implantação de uma
+cultura organizacional e de um modelo de gestão onde o dado é considerado um ativo estratégico e saber utilizá-lo adequadamente gera
+valor relevante ao negócio, fortalecendo o processo de decisão e aumento de produtividade o conceito de gestão orientada a dados em
+toda a SEFAZ/RS.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Interamericano de Desenvolvimento
+- BID
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BID
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+12.000.000,00
+Valor Proposto
+
+120.000.000,00
+
+132.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+12.000.000,00
+Valor de Referência US
+$
+120.000.000,00
+
+132.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+ARRANJO INSTITUCIONAL
+
+O mutuário da operação será o Governo do Estado do Rio Grande do Sul. O monitoramento e avaliação do processo e dos resultados
+estarão sob a coordenação de uma UGCP na Secretaria de Estado da Fazenda em razão de sua experiência no PROFISCO I e II,
+financiados pelo BID. Esta experiente equipe vem demonstrando conhecimento sobre as políticas de aquisição, sobre os sistemas
+nacionais para prestação de contas e de aquisições adequados e credenciados, e salvaguardas do agente financeiro externo escolhido.
+Ademais a equipe técnica da SEFAZ/RS demonstra maturidade na preparação dos Termos de Referência, nos orçamentos estimativos
+das contratações, garantindo assim, condições fundamentais para implementar este novo Programa.
+
+Face ao número de beneficiários do PROFISCO III RS, no momento da preparação da operação com o Mutuário, o BID aplicará a PACI -
+Plataforma de Avaliação da Capacidade Institucional tanto na UGCP da Secretaria da Fazenda - quanto nos demais órgãos beneficiários
+do Projeto. O objetivo da PACI no contexto do presente projeto é a de avaliar a capacidade das instituições beneficiárias e seus papeis na
+execução do Projeto, amadurecendo de forma conjunta, o arranjo institucional mais apropriado à gestão mais eficiente.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 19
+
+Ressalta-se novamente que a experiência da SEFAZ/RS, no PROFISCO I e II, financiados pelo BID, demonstra conhecimento sobre
+políticas de aquisição e salvaguardas do agente financeiro externo escolhido. O PROFISCO II terá a sua execução concluída no prazo de
+vigência contratual, sem a necessidade de aditivos de prazos ou de valor. Este fato, demonstra a maturidade e conhecimento no
+gerenciamento e na execução de projetos fiscais com recursos internacionais.
+
+Além disso, a UGCP se utilizará de sua experiência e maturidade em gestão de projetos, adquirida ao longo das jornadas dos
+PROFISCOs I e II, e estratégias para executar o programa em três anos. A equipe da Comissão Especial de Licitações (CEL) já possui
+alto nível de especialização na condução dos processos de contratação pelos métodos do BID no PROFISCO II e será reforçada com
+recursos adicionais e equipe para apoiar diretamente as demandas do PROFISCO III. Outra estratégia utilizada será a de iniciar os
+processos das contratações mais complexos de forma antecipada, assim que o novo financiamento for aprovado. Com o apoio dos
+Assessores de Aquisições e de TIC, que compõem a equipe da UGCP, e da consolidada metodologia de gestão das aquisições, os líderes
+iniciarão a preparação dos termos de referência das contratações previstas com os métodos do BID. Dessa forma, os processos de
+seleção serão planejados e conduzidos pela CEL, ainda durante a vigência do PROFISCO II, para que as contratações sejam
+formalizadas logo após a assinatura do contrato de empréstimo do PROFISCO III. Essas estratégias garantirão eficiência operacional e de
+gestão para que o Programa inicie a execução de seus contratos já nos primeiros meses de sua vigência.
+
+Cabe ressaltar ainda que nas seleções conduzidas pela CEL será aplicado o Modelo de Aquisições Inovativas e Sustentáveis (MAIS), uma
+estratégia que utiliza ferramentas e instrumentos teóricos e práticos voltada à abordagem socioambiental em processos de compras
+públicas para o desenvolvimento sustentável. O modelo inclui a metodologia para avaliação de critérios socioambientais que visa qualificar
+as empresas que apresentam maior nível de maturidade na adoção de iniciativas socioambientais na fase de seleção.
+
+Ademais, a troca de experiências com outros estados, por meio dos grupos técnicos vinculados ao Conselho Nacional de Política
+Fazendária (CONFAZ) e ao Comitê dos Secretários de Estado da Fazenda (COMSEFAZ), em especial a Comissão de Gestão Fazendária
+(COGEF), permitiu a realização de visitas técnicas para transferência de tecnologias, o compartilhamento e cessão de soluções e o
+amadurecimento operacional das áreas gerencial e técnica dos órgãos fazendários. A equipe de coordenação do projeto e os líderes de
+projetos serão formalmente designados para essa nova etapa de modernização, sendo todos servidores públicos concursados do quadro
+da Secretaria.
+
+MATRIZ DE RESPONSABILIDADE
+
+A Matriz de Responsabilidade do Projeto (Anexo XIV) descreve as principais competências de cada um dos atores envolvidos na
+execução do Projeto, por área de intervenção.
+
+ARRANJO OPERACIONAL
+
+A partir da experiência do PROFISCO II, a Unidade de Gestão e Coordenação do Projeto - UGCP será estruturada da seguinte forma:
+
+-1 Coordenador Geral
+
+-1 Coordenador Administrativo Financeiro
+
+-1 Coordenador Técnico
+
+-1 Assessor de Planejamento e Monitoramento
+
+-1 Assessor de Aquisições
+
+-1 Assessor de TI
+
+-Líderes de componentes
+
+-Líderes de produtos
+
+O Anexo XV - Modelo de Execução do PROFISCO III RS detalha as competências e responsabilidade da estrutura da UGCP.
+
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 20
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Secretaria de Estado da Fazenda do Rio Grande do Sul
+
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 3 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+Fax:
+UF:
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+CF
+
+BID
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+C - 1 - RECURSOS ESTRATÉGICOS DA GESTÃO FISCAL (GF)
+
+35.440.000,00
+
+1.260.000,00
+
+6.880.000,00
+
+P - 1.1 - Modelo de Governança Pública verde e inovador
+
+P - 1.2 -  Modelo de Gestão de Riscos Integrado
+
+P - 1.3 - Modelo de Gestão de Pessoas Ampliado
+
+P - 1.4 - Gestão da Tecnologia da Informação implementado
+
+2.400.000,00
+
+2.400.000,00
+
+0,00
+
+0,00
+
+600.000,00
+
+600.000,00
+
+5.880.000,00
+
+270.000,00
+
+1.200.000,00
+
+13.960.000,00
+
+990.000,00
+
+2.500.000,00
+
+P - 1.5 - Modelo de Gestão de Infraestrutura e Aquisições com critérios sustentáveis implantado
+
+6.000.000,00
+
+P - 1.6 - Comunicação e transparência
+
+P - 1.7 - Políticas para transformação digital, inovação e governança de dados implantada
+
+2.400.000,00
+
+2.400.000,00
+
+0,00
+
+0,00
+
+0,00
+
+900.000,00
+
+600.000,00
+
+480.000,00
+
+C - 2 - ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL (AT)
+
+63.560.000,00
+
+594.000,00
+
+12.200.000,00
+
+P - 2.1 - Modelo de gestão de Conformidade Tributária implantado
+
+P - 2.2 - Receita Digital implantada, visando a conformidade tributária
+
+6.000.000,00
+
+9.600.000,00
+
+P - 2.3 - Modelo de Política Tributária Indutor do Desenvolvimento Econômico e Social implantado
+
+6.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+1.200.000,00
+
+2.400.000,00
+
+900.000,00
+
+P - 2.4 - Produtos e serviços voltados à simplificação implantados, visando a conformidade
+tributária
+P - 2.5 Convergência com a Reforma Tributária
+
+7.920.000,00
+
+288.000,00
+
+900.000,00
+
+34.040.000,00
+
+306.000,00
+
+6.800.000,00
+
+C - 3 - PLANEJAMENTO, ORÇAMENTO, GESTÃO FINANCEIRA E DO GASTO PÚBLICO (PG)
+
+19.800.000,00
+
+324.000,00
+
+3.660.000,00
+
+P - 3.1 Gestão da execução orçamentária financeira integrada
+
+P - 3.2 - Modelo de gestão contábil aprimorado
+
+3.600.000,00
+
+84.000,00
+
+420.000,00
+
+6.600.000,00
+
+120.000,00
+
+1.200.000,00
+
+P - 3.3 - Modelo de Gestão de Folha de Pagamento de Ativos e Inativos implementado
+
+4.200.000,00
+
+120.000,00
+
+720.000,00
+
+P - 3.4 - Modelo de Gestão de Riscos da Dívida Pública implementado
+
+P - 3.5 - Modelo de Qualidade do Gasto e avaliação de Políticas Públicas implementado
+
+P - 3.6 - Programa de Inovação do Tesouro do Estado
+
+600.000,00
+
+2.400.000,00
+
+2.400.000,00
+
+0,00
+
+0,00
+
+0,00
+
+120.000,00
+
+480.000,00
+
+720.000,00
+
+C - 4 - GESTÃO JURÍDICA PARA SUSTENTABILIDADE FISCAL (GJ)
+
+10.980.000,00
+
+96.000,00
+
+1.803.600,00
+
+P - 4.1 - Modelo de gestão de pessoas e desenvolvimento de competências da PGE aprimorado
+
+2.004.000,00
+
+0,00
+
+400.800,00
+
+P - 4.2 - Modelo de gestão da tecnologia da informação da PGE implantado
+
+2.964.000,00
+
+96.000,00
+
+200.400,00
+
+P - 4.3 - Modelo de gestão jurídica para sustentabilidade fiscal modernizado e com uso de
+Inteligência Artificial
+P - 4.4 - Modelo de gestão de dados da PGE implantado
+
+2.004.000,00
+
+2.004.000,00
+
+P - P 4.5 - Modelo de gestão de métodos alternativos de resolução de conflitos (MARC) da DPE
+
+2.004.000,00
+
+0,00
+
+0,00
+
+0,00
+
+400.800,00
+
+400.800,00
+
+400.800,00
+
+C - GESTÃO DO PROJETO
+
+P - A1 - Monitoramento e Avaliação
+
+P - A2 - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - 1 - RECURSOS ESTRATÉGICOS DA GESTÃO FISCAL (GF)
+
+P - 1.1 - Modelo de Governança Pública verde e inovador
+
+COMPONENTES
+
+P - 1.2 -  Modelo de Gestão de Riscos Integrado
+
+P - 1.3 - Modelo de Gestão de Pessoas Ampliado
+
+P - 1.4 - Gestão da Tecnologia da Informação implementado
+
+P - 1.5 - Modelo de Gestão de Infraestrutura e Aquisições com critérios sustentáveis implantado
+
+P - 1.6 - Comunicação e transparência
+
+P - 1.7 - Políticas para transformação digital, inovação e governança de dados implantada
+
+C - 2 - ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL (AT)
+
+P - 2.1 - Modelo de gestão de Conformidade Tributária implantado
+
+P - 2.2 - Receita Digital implantada, visando a conformidade tributária
+
+P - 2.3 - Modelo de Política Tributária Indutor do Desenvolvimento Econômico e Social implantado
+
+P - 2.4 - Produtos e serviços voltados à simplificação implantados, visando a conformidade
+tributária
+P - 2.5 Convergência com a Reforma Tributária
+
+C - 3 - PLANEJAMENTO, ORÇAMENTO, GESTÃO FINANCEIRA E DO GASTO PÚBLICO (PG)
+
+P - 3.1 Gestão da execução orçamentária financeira integrada
+
+2.220.000,00
+
+48.000,00
+
+396.000,00
+
+1.200.000,00
+
+0,00
+
+240.000,00
+
+1.020.000,00
+
+48.000,00
+
+156.000,00
+
+0,00
+
+2.322.000,00
+
+24.939.600,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+BID
+
+1.512.000,00
+
+10.240.000,00
+
+0,00
+
+0,00
+
+720.000,00
+
+720.000,00
+
+324.000,00
+
+1.440.000,00
+
+1.188.000,00
+
+4.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+1.800.000,00
+
+720.000,00
+
+840.000,00
+
+1.069.200,00
+
+16.544.000,00
+
+0,00
+
+0,00
+
+0,00
+
+2.100.000,00
+
+2.784.000,00
+
+1.800.000,00
+
+518.400,00
+
+1.620.000,00
+
+550.800,00
+
+8.240.000,00
+
+624.000,00
+
+6.270.000,00
+
+204.000,00
+
+1.020.000,00
+
+
+Página: 21
+
+P - 3.2 - Modelo de gestão contábil aprimorado
+
+P - 3.3 - Modelo de Gestão de Folha de Pagamento de Ativos e Inativos implementado
+
+P - 3.4 - Modelo de Gestão de Riscos da Dívida Pública implementado
+
+P - 3.5 - Modelo de Qualidade do Gasto e avaliação de Políticas Públicas implementado
+
+P - 3.6 - Programa de Inovação do Tesouro do Estado
+
+C - 4 - GESTÃO JURÍDICA PARA SUSTENTABILIDADE FISCAL (GJ)
+
+P - 4.1 - Modelo de gestão de pessoas e desenvolvimento de competências da PGE aprimorado
+
+P - 4.2 - Modelo de gestão da tecnologia da informação da PGE implantado
+
+P - 4.3 - Modelo de gestão jurídica para sustentabilidade fiscal modernizado e com uso de
+Inteligência Artificial
+P - 4.4 - Modelo de gestão de dados da PGE implantado
+
+P - P 4.5 - Modelo de gestão de métodos alternativos de resolução de conflitos (MARC) da DPE
+
+C - GESTÃO DO PROJETO
+
+P - A1 - Monitoramento e Avaliação
+
+P - A2 - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - 1 - RECURSOS ESTRATÉGICOS DA GESTÃO FISCAL (GF)
+
+P - 1.1 - Modelo de Governança Pública verde e inovador
+
+COMPONENTES
+
+P - 1.2 -  Modelo de Gestão de Riscos Integrado
+
+P - 1.3 - Modelo de Gestão de Pessoas Ampliado
+
+P - 1.4 - Gestão da Tecnologia da Informação implementado
+
+P - 1.5 - Modelo de Gestão de Infraestrutura e Aquisições com critérios sustentáveis implantado
+
+P - 1.6 - Comunicação e transparência
+
+P - 1.7 - Políticas para transformação digital, inovação e governança de dados implantada
+
+210.000,00
+
+2.100.000,00
+
+210.000,00
+
+1.260.000,00
+
+0,00
+
+0,00
+
+0,00
+
+210.000,00
+
+840.000,00
+
+840.000,00
+
+336.000,00
+
+3.426.840,00
+
+0,00
+
+801.600,00
+
+336.000,00
+
+701.400,00
+
+0,00
+
+0,00
+
+0,00
+
+641.280,00
+
+641.280,00
+
+641.280,00
+
+96.000,00
+
+792.000,00
+
+0,00
+
+480.000,00
+
+96.000,00
+
+312.000,00
+
+0,00
+
+3.637.200,00
+
+37.272.840,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+BID
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+2.268.000,00
+
+13.280.000,00
+
+5.040.000,00
+
+30.400.000,00
+
+0,00
+
+0,00
+
+1.080.000,00
+
+1.080.000,00
+
+0,00
+
+0,00
+
+2.400.000,00
+
+2.400.000,00
+
+486.000,00
+
+2.160.000,00
+
+1.080.000,00
+
+4.800.000,00
+
+1.782.000,00
+
+3.500.000,00
+
+3.960.000,00
+
+10.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+3.300.000,00
+
+1.080.000,00
+
+1.080.000,00
+
+0,00
+
+0,00
+
+0,00
+
+6.000.000,00
+
+2.400.000,00
+
+2.400.000,00
+
+C - 2 - ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL (AT)
+
+2.296.800,00
+
+30.856.000,00
+
+3.960.000,00
+
+59.600.000,00
+
+P - 2.1 - Modelo de gestão de Conformidade Tributária implantado
+
+P - 2.2 - Receita Digital implantada, visando a conformidade tributária
+
+P - 2.3 - Modelo de Política Tributária Indutor do Desenvolvimento Econômico e Social implantado
+
+P - 2.4 - Produtos e serviços voltados à simplificação implantados, visando a conformidade
+tributária
+P - 2.5 Convergência com a Reforma Tributária
+
+0,00
+
+0,00
+
+0,00
+
+2.700.000,00
+
+4.416.000,00
+
+3.300.000,00
+
+0,00
+
+0,00
+
+0,00
+
+6.000.000,00
+
+9.600.000,00
+
+6.000.000,00
+
+1.113.600,00
+
+3.480.000,00
+
+1.920.000,00
+
+6.000.000,00
+
+1.183.200,00
+
+16.960.000,00
+
+2.040.000,00
+
+32.000.000,00
+
+C - 3 - PLANEJAMENTO, ORÇAMENTO, GESTÃO FINANCEIRA E DO GASTO PÚBLICO (PG)
+
+852.000,00
+
+8.070.000,00
+
+1.800.000,00
+
+18.000.000,00
+
+P - 3.1 Gestão da execução orçamentária financeira integrada
+
+P - 3.2 - Modelo de gestão contábil aprimorado
+
+312.000,00
+
+1.560.000,00
+
+600.000,00
+
+3.000.000,00
+
+270.000,00
+
+2.700.000,00
+
+600.000,00
+
+6.000.000,00
+
+P - 3.3 - Modelo de Gestão de Folha de Pagamento de Ativos e Inativos implementado
+
+270.000,00
+
+1.620.000,00
+
+600.000,00
+
+3.600.000,00
+
+P - 3.4 - Modelo de Gestão de Riscos da Dívida Pública implementado
+
+P - 3.5 - Modelo de Qualidade do Gasto e avaliação de Políticas Públicas implementado
+
+P - 3.6 - Programa de Inovação do Tesouro do Estado
+
+0,00
+
+0,00
+
+0,00
+
+270.000,00
+
+1.080.000,00
+
+840.000,00
+
+0,00
+
+0,00
+
+0,00
+
+600.000,00
+
+2.400.000,00
+
+2.400.000,00
+
+C - 4 - GESTÃO JURÍDICA PARA SUSTENTABILIDADE FISCAL (GJ)
+
+528.000,00
+
+4.789.560,00
+
+960.000,00
+
+10.020.000,00
+
+P - 4.1 - Modelo de gestão de pessoas e desenvolvimento de competências da PGE aprimorado
+
+0,00
+
+801.600,00
+
+0,00
+
+2.004.000,00
+
+P - 4.2 - Modelo de gestão da tecnologia da informação da PGE implantado
+
+528.000,00
+
+1.102.200,00
+
+960.000,00
+
+2.004.000,00
+
+P - 4.3 - Modelo de gestão jurídica para sustentabilidade fiscal modernizado e com uso de
+Inteligência Artificial
+P - 4.4 - Modelo de gestão de dados da PGE implantado
+
+P - P 4.5 - Modelo de gestão de métodos alternativos de resolução de conflitos (MARC) da DPE
+
+C - GESTÃO DO PROJETO
+
+P - A1 - Monitoramento e Avaliação
+
+P - A2 - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+0,00
+
+0,00
+
+0,00
+
+961.920,00
+
+0,00
+
+2.004.000,00
+
+961.920,00
+
+961.920,00
+
+0,00
+
+0,00
+
+2.004.000,00
+
+2.004.000,00
+
+96.000,00
+
+792.000,00
+
+240.000,00
+
+1.980.000,00
+
+0,00
+
+480.000,00
+
+0,00
+
+1.200.000,00
+
+96.000,00
+
+312.000,00
+
+240.000,00
+
+780.000,00
+
+132.000.000,00
+
+6.040.800,00
+
+57.787.560,00
+
+12.000.000,00
+
+120.000.000,00
+
+A operação de crédito pleiteada exige a aprovação de lei autorizativa pela Assembleia Estadual que permita ao estado a contratação de
+financiamento externo. O projeto de Lei observará o disposto no Manual de Instrução de Pleitos (MIP/STNS) e será levado à apreciação e
+aprovação da Assembleia Estadual, uma vez aprovada a carta consulta pela COFIEX.
+
+Quanto aos Decretos, Portarias e Instruções de Serviço, o Executivo Estadual tem plena governabilidade sobre o processo necessário à
+sua edição, contando, ainda, com equipes suficientemente capacitadas para proceder à sua concepção e redação.
+
+No que se refere à Lei autorizativa, a equipe de governo, responsável pelo relacionamento com a Assembleia Legislativa, tem mostrado o
+real estado das finanças estaduais e sensibilizado os membros daquele Poder, sobre a importância do financiamento para a melhoria da
+arrecadação e aplicação dos recursos públicos.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 22
+
+Quanto à Lei de Responsabilidade Fiscal (LRF), a administração deve apresentar evidências de conformidade no cumprimento da Lei de
+regularidade dos requisitos fiscais obrigatórios para fins de celebração de instrumentos contratuais.
+
+Quanto à garantia da União, o estado deverá apresentar as condições de contragarantia ao Governo Federal, conforme legislação vigente.
+
+Quanto à criação da UGCP, o estado irá atualizar por Decreto a Unidade de Coordenação do Programa que já existe no PROFISCO II.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+A principais contratações previstas para o projeto estão apresentadas no Anexo XIII - Orçamento do Programa detalhado agrupadas pelos
+tipos: Consultorias, Obras, Bens, Serviços e Capacitação.
+
+Há previsão de contratação de pessoal, para apoiar ações de implementação do Projeto. Tais contratações não serão realizadas por meio
+de concurso, mas sim, por meio da seleção de firmas de consultoria ou consultores individuais, tudo dentro das modalidades específicas e
+segundo políticas de aquisições do agente financiador - BID.
+
+O Estado do Rio Grande do Sul detém vasta experiência com as políticas de aquisição/contratação do agente financeiro, por meio das
+execuções de projetos anteriores já referenciados como o PROFISCO I (finalizado em 2018) e o PROFISCO II (em execução e com
+previsão de finalização em 2025).
+
+Os principais riscos identificados e relacionados à temática de contratações são:
+
+a.Atrasos na elaboração dos termos de referência, relacionados com a dificuldade na preparação dos TDR pelos líderes de produtos;
+
+b.Atrasos na tramitação interna dos projetos, em especial na realização das licitações;
+
+c.Atrasos relacionados aos ritos de contratação provenientes do arranjo institucional com modelo de aquisições centralizadas ou
+descentralizadas;
+
+d.Alterações no escopo de algumas contratações em virtude da Reforma Tributária do Consumo - RTC.
+
+As principais ações de mitigação para tais riscos são:
+
+a.Constituir comissões internas para elaboração dos Termos de Referência dos produtos mais complexos ou prioritários;
+
+b.Estabelecer formalmente, por portaria interna, o Líder responsável pela execução do Produto, bem como designar a sua equipe técnica;
+
+c.Dar seguimento na aplicação da metodologia e ferramenta de gestão das aquisições adotada no PROFISCO II;
+
+d.Contratar consultores para apoiar a elaboração dos Termos de Referência e para auxiliar a formulação de metodologias e desenho de
+processos que serão aperfeiçoados ou implantados, conforme arranjo institucional e modelos operacionais apresentados nos anexos;
+
+e.Realizar atividades de capacitação e reciclagem nas normas e procedimentos de aquisições do BID;
+
+f.Manter nas Comissões Especiais de Licitações técnicos que já dispõem de conhecimento e experiência nas normas e procedimentos de
+aquisição do BID;
+
+g.Estreitar o relacionamento com a equipe da unidade responsável pela fase externa das licitações no âmbito da central de licitações -
+CELIC;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 23
+
+h.Aprimorar o arranjo de coordenação com a Procuradoria Geral do Estado do Rio Grande do Sul, com relação aos fluxos de seleção e
+aquisição do projeto;
+
+i.Participar dos grupos técnicos relativos à RTC a fim de identificar possíveis impactos sobre o desenvolvimento dos produtos e
+disponibilizar conhecimento técnico para adaptar, tempestivamente, os processos e sistemas na fase de preparação dos TDR´s;
+
+j.Aplicação ferramental da "PACI - Plataforma de Avaliação da Capacidade Institucional" tanto na UGCP da Secretaria da Fazenda e nos
+demais órgãos beneficiários do Projeto, tendo por objetivo avaliar a capacidade das instituições beneficiárias e seus papeis e
+relacionamentos na execução do Projeto, amadurecendo o arranjo institucional mais apropriado à gestão mais eficiente do Projeto.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+O Projeto não executará obras que se utilizem de novos prédios alvo de ações de desapropriação. As reformas de infraestrutura contidas
+no projeto serão realizadas apenas em imóveis de propriedade do Estado.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+O Projeto por si próprio não desencadeará riscos ou impactos ambientais de médio porte decorrentes de sua implementação e não
+necessitará de emissão de licenciamentos específicos na temática ambiental. Haverá pequenas adequações em instalações da SEFAZ,
+que conforme a legislação brasileira, não demandaram licenciamento ambiental prévio. Todavia, existe o risco baixo associado à geração
+de resíduos das reformas, para a os quais, teremos como principais ações mitigatórias:
+
+-Adaptar as instalações físicas da SEFAZ, a partir de um modelo de eficiência energética nos prédios, nas aquisições e manutenção de
+bens da SEFAZ, com base inteligente, sustentável e resiliente;
+
+-Descartar resíduos das obras implementadas pelo projeto, de forma adequada (de acordo com as melhores práticas);
+
+-Para a execução das obras será elaborado um plano de descarte de materiais, com incentivo a reciclagem e descarte em locais
+especializados. Também será elaborado um plano de gestão de ruídos a fim de reduzir potenciais impactos ambientais;
+
+-Será designado um servidor estadual devidamente qualificado para monitorar os possíveis riscos das reformas.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+O projeto não prevê intervenções diretas que possam gerar impactos sociais adversos, concentrando-se em melhorias administrativas e
+institucionais que não prejudicam as comunidades locais ou interesses comuns.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+O projeto não envolve atividades que resultem em deslocamentos populacionais ou reassentamentos, já que não há intervenções físicas
+que interfiram em áreas habitadas.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)

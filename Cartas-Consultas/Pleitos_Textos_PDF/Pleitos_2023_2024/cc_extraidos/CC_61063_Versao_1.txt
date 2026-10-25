@@ -1,0 +1,527 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Reformas Institucionais para a Competitividade e a Melhoria do Ambiente de Negócios
+Nº Carta Consulta: 61063
+Mutuário: República Federativa do Brasil
+Tipo de Operação: Operação de crédito externo
+Fontes Internas:
+Contrapartida Financeira: US$ 0,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 100.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:17
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61063
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+04
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 04
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 04
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 04
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 04
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 05
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 05
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 06
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 06
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 06
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 06
+3. FINANCIAMENTO .......................................................................................................................................................................................... 06
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 06
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 07
+4. EXECUÇÃO ...................................................................................................................................................................................................
+07
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 07
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 07
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 07
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 07
+5. RISCOS .......................................................................................................................................................................................................... 07
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 07
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 08
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 08
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 08
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 08
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 08
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+08
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:17
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61063
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+Os tradicionais motores de crescimento do Brasil estão se esgotando. O bônus demográfico do país terminou em 2018, quando a
+proporção de pessoas em idade ativa na população geral começou a cair, acompanhado de queda nas proporções investimento/PIB e
+poupança/PIB. Neste contexto, para gerar um crescimento econômico robusto é importante implementar reformas que estimulem um
+crescimento substancial e sustentado da produtividade e da competividade das empresas nacionais.
+Entretanto, os indicadores nacionais de produtividade agregada no Brasil têm tido um desempenho abaixo do esperado nas últimas
+décadas e, atualmente, a produtividade nacional está a uma considerável distância daquela observada nos países na fronteira tecnológica.
+Vários fatores contribuem para esse cenário, dentre os quais estão as distorções burocráticas, trabalhistas e econômicas, os gargalos
+logísticos e as deficiências na infraestrutura, comumente denominados como ?Custo Brasil?. Estimativas recentes apontam que o Custo
+Brasil consome R$ 1,74 trilhão por ano das empresas instaladas no país, equivalente a 20,1% do Produto Interno Bruto (PIB). 
+O Relatório Global de Competitividade 2019 (GCI, em inglês) do Fórum Econômico Mundial, principal referência de indicador internacional
+de competitividade, coloca o Brasil em 71º lugar entre 141 países. A análise dos componentes do relatório traz luz sobre os fatores que
+contribuem para o baixo desempenho nacional: carga regulatória do governo (141º lugar), direitos de propriedade (103º lugar), proteção da
+propriedade intelectual (95º lugar), capacidade de resposta do governo à mudança (122º lugar) e adequação do marco legal aos modelos
+de negócios digitais (111º lugar).
+Outro conjunto de indicadores importantes, que integra o relatório "Regulação de Mercados de Produtos" elaborado pela OCDE, coloca o
+Brasil em situação pior que a média dos países membros da Organização, e também dos países vizinhos, em pilares como carga
+administrativa sobre novas empresas, barreiras ao comércio e investimento e complexidade regulatória.
+Além dos elementos elencados, cabe destacar também outras questões que, embora mencionadas com menor frequência, não são
+menos importantes para a melhoria da produtividade e da competitividade nacionais e que podem ser beneficiadas por ações no escopo
+das competências do MDIC: 
+a.Integração às cadeias produtivas globais: dentre os fatores que limitam essa integração estão a ausência de acordos de livre comércio,
+problemas diversos nas operações de comércio exterior e problemas referentes à regulação do Operador Econômico Autorizado (OEA);
+b.Infraestrutura da qualidade (IQ): a IQ tem como componentes a metrologia, a regulamentação técnica, a normalização, a avaliação da
+conformidade, a acreditação e a vigilância de mercado. A ausência de uma visão estratégica para a IQ dificulta a modernização do setor
+produtivo nacional;
+c.Cenário climático global: o combate às mudanças climáticas, incluindo os compromissos internacionais assumidos pelo Brasil
+relacionados ao tema, pode acrescentar novos desafios ao aumento da competitividade nacional, mas pode também representar
+oportunidades ao país, devido às suas vantagens competitivas proporcionadas por suas excepcionais condições naturais;
+d.Empreendedorismo feminino: mulheres têm participação econômica crescente, com presença relevante em vários setores, sobretudo em
+serviços. Entretanto, os empreendimentos femininos têm se mostrado menos sustentáveis, com menos produtos inovadores e com menor
+ valor agregado, o que impacta a competitividade nacional e a renda;
+e.Impacto de gênero: o processo regulatório e seus impactos não são neutros do ponto de vista do gênero. Assim, uma perspectiva de
+gênero no desenho de regulações pode trazer ganhos no resultado dessas regulações sobre os diferentes grupos da sociedade.
+Nesse contexto, o presente Programa buscará reduzir obstáculos à melhoria da competitividade do país, com foco especialmente nos
+aspectos institucionais relacionados ao Custo Brasil e às dificuldades enfrentadas por grupos sociais e econômicos vulneráveis, para
+aumentar sua produtividade e participação no setor produtivo. Para isso, as iniciativas propostas foram organizadas em quatro eixos:
+i.Baixo nível de coordenação e de alinhamento institucional na elaboração de políticas públicas que afetem o ambiente de negócios,
+ii.Limitadas capacidades institucionais para a gestão do ciclo regulatório que inibem a eficiência dos mercados,  
+iii.Alta carga administrativa gerada para empresas e cidadãos por meio de procedimentos, requerimentos administrativos e serviços
+obsoletos, e
+iv.Limitações de acesso e intercâmbio de informações governamentais que dificultam transações entre governos, empresas e cidadãos.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+SOLUÇÕES PROPOSTAS 
+
+Para enfrentar a situação descrita nas seções anteriores, são propostas ações subdivididas em quatro componentes que buscam
+estimular a competitividade do país com base no fortalecimento das capacidades de governança e gestão que apoiem as políticas de
+responsabilidade do MDIC, em especial a política regulatória e a política de comércio exterior. O detalhe de cada componente e seus
+objetivos podem ser encontrados abaixo:
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:17
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61063
+Página: 3
+Componente 1 - Governança, coordenação e alinhamento institucional. Apoiar a implementação de uma estrutura de governança
+institucional e a geração de referenciais estratégicos que apoiem a melhoria do ambiente de negócios. Nesse sentido, entre outras, seriam
+ implementadas as seguintes medidas: 
+a.Aprovação de um Plano de Ação Bienal para a implementação da Estratégia Nacional de Propriedade intelectual;
+b.Instituição de instância de governança e coordenação da política regulatória em nível nacional;
+c.Criação de comitê técnico de assessoramento no âmbito do CONMETRO para coordenar a elaboração, de forma coletiva, da Estratégia
+Nacional de Infraestrutura da Qualidade, com um horizonte de 10 anos e previsão de planos de ação bienais;
+d.Instituição de comitê técnico para a coordenação de ações do Governo Federal de apoio à indústria de baixo carbono;
+e.Definição pelo Governo Federal de mecanismo nacional de governança e diretrizes de política para a promoção da cultura exportadora
+com ênfase no apoio às MPME; 
+f.Lançamento de iniciativa nacional com foco na ampliação da presença feminina no mercado internacional, incluindo a oferta de mentorias
+, acesso a oportunidades e treinamentos; 
+g.Elaboração de Agenda de Redução do Custo-Brasil;
+h.Criação do Grupo de Trabalho para Redução do Custo Brasil, visando ao aumento de competitividade do setor produtivo, e
+i.Instituição da Mesa de Debates ? Mulheres nas Políticas Públicas: Política Regulatória.
+
+Componente 2 - Política de Apoio à Melhoria Regulatória. Promover a melhoria da qualidade das regulações, por meio de instrumentos de
+apoio à gestão do ciclo regulatório e à tomada de decisões baseadas em evidências.  Deverão ser implementadas medidas para:
+a.Desenho e lançamento de iniciativa nacional com foco no fortalecimento das capacidades institucionais para a gestão da regulação;
+b.Publicação de estudo para definição de diretrizes para a elaboração, pelos reguladores federais, de Análises de Impacto Regulatório;
+c.Elaboração de forma participativa e lançamento de Estratégia Nacional de Boas Práticas Regulatórias;
+d.Diagnóstico sobre o nível de maturidade regulatória de órgãos e entidades federais com competências reguladoras;
+e.Elaboração e divulgação de diretrizes para a realização de agenda regulatória pelos órgãos e entidades reguladoras;
+f.Lançamento de instrumento para reconhecimento dos atos normativos e reguladores de nível nacional e subnacional alinhados às
+melhores práticas nacionais e internacionais;
+g.Publicação de estudos para apoiar a formulação e implementação de critérios de proporcionalidade para realização de Análises de
+Impacto Regulatório;
+h.Publicação de estudo sobre os efeitos da implementação de boas práticas regulatórias no recebimento de investimento externo direto;
+i.Elaboração de estudo sobre a relação entre a participação das mulheres na elaboração de políticas regulatórias e a qualidade da
+regulação, com diagnóstico sobre a presença feminina em agências reguladoras federais, e
+j.Elaboração de benchmark internacional sobre a incorporação da temática de gênero, ambiental e do clima no processo regulatório.
+
+Componente 3 - Modernização e desburocratização de serviços e procedimentos administrativos. Apoio à medição e redução dos custos
+administrativos na interação entre governos, empresas e cidadãos, com ênfase na simplificação dos marcos normativos e modernização
+da gestão na entrega de serviços. Serão implementadas medidas de políticas para:
+a.Elaboração e implementação de Plano de Desburocratização do INPI;
+b.Elaboração e implementação de Plano de Desburocratização do Inmetro;
+c.Reavaliação dos modelos de avaliação da conformidade do Inmetro com base no risco e na proporcionalidade, conferindo mais agilidade
+ e eficiência à certificação de produtos de baixo risco e reduzindo eventuais custos desnecessários para o setor produtivo;
+d.Instituição de modalidade simplificada para licenciamento de operações de comércio exterior viabilizando várias operações de
+exportação ou importação, de modo a agilizar e reduzir os custos empresariais, preservando controles necessários por parte do governo, e
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:17
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61063
+Página: 4
+e.Elaboração de estudo para apoiar a formulação e implementação de política de gestão de estoque regulatório por meio de compensação
+ normativa ou de custos regulatórios ("one-in, x-out").
+
+Componente 4 - Ferramentas digitais de apoio à competitividade. Promover o desenvolvimento e uso de ferramentas digitais que facilitem
+o acesso à informação e as transações entre governos, cidadãos e empresas, com base no fortalecimento das capacidades digitais
+governamentais e das MPMEs. Entre outras, seriam implementadas as seguintes medidas: 
+a.Lançamento de plataforma e ferramenta digital que apoie aos reguladores na implementação de boas práticas regulatórias;
+b.Instituição de processo de certificação da sustentabilidade dos projetos incluídos no site do Monitor de Investimentos, a partir de
+metodologia que considera princípios ambientais, sociais e de governança, com vistas a estimular a transparência e a adoção de práticas
+ESG, e
+c.Incorporação ao site do Monitor de Investimentos de informação de, ao menos, dois setores produtivos e dois estados adicionais, de
+modo a incrementar a visibilidade de oportunidades e estimular a sustentabilidade dos investimentos públicos e privados.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+ORIENTAÇÕES ESTRATÉGICAS
+O Programa está alinhado com a prioridades governamentais de aumento da competitividade nacional, fortalecimento das capacidades
+institucionais, apoio ao empreendedorismo sustentável e à inclusão social expressas na proposta do MDIC para o Plano Plurianual 2024-
+2027. 
+ 
+CONTRAPARTIDA
+Não será exigida contrapartida financeira para a obtenção de financiamento ao Programa de Reformas Institucionais para a
+Competitividade e a Melhoria do Ambiente de Negócios, por se tratar de empréstimo na modalidade de desembolsos condicionado ao
+cumprimento de políticas, e desse modo enquadrado na excepcionalidade prevista no Art. 3º, Inciso V, da Resolução Cofiex nº 3, de 29 de
+ maio de 2019.
+
+TAXA DE CÂMBIO
+Taxa de Câmbio (R$ /US$): 4,95. Dólar comercial de venda de 14/08/2023. Fonte: Banco Central do Brasil
+
+2. Projeto
+2.1. Título
+Reformas Institucionais para a Competitividade e a Melhoria do Ambiente de Negócios
+2.2. Título Abreviado
+Competitividade e Melhoria do Ambiente de Negócios
+2.3. Mutuário
+República Federativa do Brasil
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+OBJETIVO GERAL:
+ 
+Contribuir para o aumento da competitividade do país, por meio da redução dos custos de transação e do aumento da inclusão produtiva.
+
+
+OBJETIVOS ESPECÍFICOS:
+&#9679;Implementar uma estrutura de governança institucional que fortaleça a coordenação e o alinhamento estratégico do setor público.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:17
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61063
+Página: 5
+&#9679;Incentivar a melhoria da qualidade regulatória, com base na adoção e no fortalecimento das capacidades para o uso de boas
+práticas regulatórias.
+
+&#9679;Promover a desburocratização, a simplificação administrativa e a modernização dos serviços ao cidadão.
+
+&#9679;Fomentar a adoção de ferramentas digitais com o objetivo de aumentar o acesso à informação e fortalecer as capacidades
+institucionais.
+
+2.6. Projeto/Indicadores
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Índice de Capacidade Institucional para
+Regulação ? I-CIR
+CGU/UNOPS
+Percentual
+16,70
+30,00
+Subpilar de eficácia da regulação: custo
+calculado com base na metodologia Custo Brasil
+Movimento Brasil
+Competitivo - MBC
+Bilhões de reais
+65,60
+60,00
+Número de MPEs exportadoras.
+MDIC
+unidade
+11.413,00
+13.500,00
+2.7. Projeto/Componentes
+Componentes
+Valor(US$)
+C - TOTAL GERAL
+100.000.000,00
+   S - TOTAL  GERAL
+100.000.000,00
+      P - TOTAL GERAL
+100.000.000,00
+Total dos Componentes
+100.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - TOTAL GERAL
+A natureza da operação proposta não requer o comprometimento dos recursos a serem desembolsados pelo BID com nenhum
+componente, produto ou atividade específico e, por consequência, não estão vinculadas a nenhum gasto em particular. A
+implementação das medidas previstas implicará no desembolso diretamente ao Tesouro Nacional, mediante solicitação do
+Governo Federal. 
+   S - TOTAL  GERAL
+A natureza da operação proposta não requer o comprometimento dos recursos a serem desembolsados pelo BID com nenhum
+componente, produto ou atividade específico e, por consequência, não estão vinculadas a nenhum gasto em particular. A
+implementação das medidas previstas implicará no desembolso diretamente ao Tesouro Nacional, mediante solicitação do
+Governo Federal. 
+      P - TOTAL GERAL
+A natureza da operação proposta não requer o comprometimento dos recursos a serem desembolsados pelo BID com nenhum
+componente, produto ou atividade específico e, por consequência, não estão vinculadas a nenhum gasto em particular. A
+implementação das medidas previstas implicará no desembolso diretamente ao Tesouro Nacional, mediante solicitação do
+Governo Federal. 
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Outros
+-
+-
+100.000.000,00
+100,00
+P- TOTAL GERAL
+USD
+100.000.000,
+00
+100.000.000,00
+100,00
+Total Geral
+-
+-
+100.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+Algumas das medidas identificadas e apoiadas pelo projeto já apresentam grau avançado de implementação, o que ser evidenciado com
+base no conteúdo dos seguintes instrumentos normativos:
+&#9679;Decreto nº 11.593, de 10 julho de 2023: Institui a Política Nacional de Cultura Exportadora e o Comitê Nacional para a Promoção
+da Cultura Exportadora
+&#9679;Decreto nº 11.577, de 27 junho de 2023: Altera o Decreto nº 660, de 25 de setembro de 1992, que institui o Sistema Integrado de
+Comércio Exterior - Siscomex
+&#9679;Decreto nº 11.547, de 5 de junho de 2023: Dispõe sobre o Comitê Técnico da Indústria de Baixo Carbono (CTIBC)
+&#9679;Agenda de Redução do Custo-Brasil
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:17
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61063
+Página: 6
+&#9679;Resolução CE/CNDI/MDIC nº 3, de 9 de agosto de 2023: Institui o Grupo de Trabalho para Redução do Custo-Brasil, visando o
+aumento de competitividade do setor produtivo 
+&#9679;Plano de Ação Bienal para a implementação da Estratégia Nacional de Propriedade intelectual 
+
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Nacional/Sem detalhes
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+CONDIÇÕES FINANCEIRAS DA OPERAÇÃO:
+Os termos financeiros da operação estão estruturados dentro dos parâmetros definidos pelo BID, sendo eles: 
+a.Prazo de desembolso: 18 (dezoito meses) meses
+b.     Carência: 5,5 anos (66 meses)
+c.     Prazo de amortização: 20 anos (máximo)
+d.Taxa de juros (composição): 
+     &#9679;Índice SOFR: reajustado diariamente e composto
+     &#9679;Spread de captação: reajustado mensalmente/trimestralmente 
+     &#9679;Spread para empréstimos do Capital Ordinário: determinado periodicamente pela Diretoria do BID
+&#9679;Comissão de Crédito sobre o saldo não desembolsado do financiamento: 0.5% a.a. (vigente), não podendo ultrapassar 0.75%a
+.a. Esta comissão é determinada periodicamente pela Diretoria do Banco. Termos e condições financeiras aplicáveis aos empréstimos
+baseados em políticas (PBL) com recursos do capital ordinário do BID.
+
+
+NECESSIDADE DE FINANCIAMENTO EXTERNO E OPÇÃO PELO AGENTE FINANCEIRO
+O Banco Interamericano de Desenvolvimento (BID) tem um longo histórico de apoio ao fortalecimento institucional, à competitividade e à
+inclusão social no Brasil e vem trabalhando em conjunto com a equipe do MDIC em diversas iniciativas. Adicionalmente, o BID acumula
+grande experiência na elaboração e financiamento de projetos e é reconhecido pela geração de conhecimento sobre esses temas em
+nível internacional.
+As condições de crédito são vantajosas se comparadas a outras opções de captação no mercado doméstico e de entidades multilaterais. 
+Por fim, o conhecimento do contexto nacional aliado à experiência internacional da equipe técnica do BID são elementos que facilitarão a
+assistência técnica, a elaboração e a execução do Programa.
+
+2.11. PROJETO/BENEFICIÁRIO
+O Programa beneficiará os empreendedores em geral, ao contribuir para que enfrentem menores custos de transação e maior participação
+ e previsibilidade no ambiente de negócios. 
+
+De modo especial, deverão ser beneficiadas as empresas exportadoras e importadoras, os pequenos negócios (e dentro deste grupo, as
+mulheres empreendedoras), por terem regulações simplificadas, maior acesso à informação, assistência e menores custos em suas
+interações com o governo. 
+
+Além disso, os órgãos e entidades governamentais participantes se beneficiarão de ferramentas regulatórias e tecnológicas para o
+cumprimento de suas responsabilidades.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:17
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61063
+Página: 7
+Moeda de Referência: Dólar
+Fontes Internas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Contrapartida Financeira
+CF
+US$
+1,00
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Banco Interamericano de Desenvolvimento
+ - BID
+BID
+US$
+100.000.000,00
+1,00
+100.000.000,00
+Total:
+100.000.000,00
+100.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Não se aplica
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+ARRANJO INSTITUCIONAL: 
+Na estrutura regimental do MDIC a Secretaria de Competitividade e Política Regulatória (SCPR) será a unidade coordenadora da
+execução. A Secretaria utilizará sua própria estrutura funcional para realizar as atividades requeridas, que incluirão:
+A.Monitoramento da execução das ações que compõem o projeto;
+B.Coordenação com os demais órgãos do MDIC envolvidos na operação e que sejam responsáveis pela execução das medidas previstas;
+C.Preparação e apresentação de relatórios sobre o cumprimento das condições de desembolso;
+D.Participação ativa nas discussões técnicas com o BID.
+
+
+
+ESTRUTURA OPERACIONAL
+O gerenciamento do projeto será realizado por equipe que reportará ao Gabinete da SCPR, podendo ser atribuída a uma unidade
+específica da estrutura da Secretaria a competência para a coordenação do Programa.
+
+4.2. Execução/Executores
+Executor: Ministério do Desenvolvimento, Indústria, Comércio e Serviços
+Representante Oficial:
+Endereço da Sede: Esplanada dos Ministérios Bloco J - Brasília, DF, 70297-400, Brasil
+E-mail Institucional:
+Telefone: (61) 2027-8292 / 7717
+Fax:
+CNPJ:                
+UF:
+4.3. Execução/Prazo
+Prazo de Desembolso:
+1
+Ano
+e 6 Meses
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - TOTAL GERAL
+100.000.000,00
+0,00
+0,00
+   S - TOTAL  GERAL
+100.000.000,00
+0,00
+0,00
+      P - TOTAL GERAL
+100.000.000,00
+0,00
+0,00
+Total
+0,00
+0,00
+0,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - TOTAL GERAL
+0,00
+100.000.000,00
+0,00
+100.000.000,00
+   S - TOTAL  GERAL
+0,00
+100.000.000,00
+0,00
+100.000.000,00
+      P - TOTAL GERAL
+0,00
+100.000.000,00
+0,00
+100.000.000,00
+Total
+100.000.000,00
+0,00
+100.000.000,00
+0,00
+100.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:17
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61063
+Página: 8
+5.2. RISCOS/CONTRATAÇÕES
+Não haverá contratações de pessoal ou de serviços pelo órgão executor e tampouco impacto orçamentário no Ministério. 
+5.3. RISCOS/DESAPROPRIAÇÕES
+Não haverá desapropriações 
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+5.5. RISCOS/IMPACTO SOCIAL
+5.6. RISCOS/REASSENTAMENTOS
+Não haverá reassentamentos. 
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 

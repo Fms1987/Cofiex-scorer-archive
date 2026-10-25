@@ -1,0 +1,1880 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Programa de Investimentos para o Desenvolvimento da Infraestrutura de Energia Elétrica
+em Santa Catarina.
+Nº Carta Consulta: 61032
+Mutuário: Celesc Distribuição S.A.
+Tipo de Operação: Operação de crédito externo
+Fontes Internas:
+Contrapartida Financeira: US$ 75.136.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 300.500.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:22
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61032
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+04
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 04
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 04
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 04
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 04
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 06
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 10
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 11
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 11
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 11
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 12
+3. FINANCIAMENTO .......................................................................................................................................................................................... 12
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 12
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 12
+4. EXECUÇÃO ...................................................................................................................................................................................................
+12
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 12
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 13
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 13
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 13
+5. RISCOS .......................................................................................................................................................................................................... 16
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 16
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 16
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 17
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 17
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 17
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 17
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+17
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:22
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61032
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+A Centrais Elétricas de Santa Catarina S.A. (Celesc) é uma empresa do setor elétrico brasileiro atuando em distribuição (Celesc-D) e
+geração de energia (Celesc-G) em Santa Catarina (SC). É uma sociedade de economia mista, sendo o estado de SC o acionista
+majoritário.  A Celesc-D, concessionária da distribuição de energia elétrica em SC, atua em 285 municípios. Sua área cobre 7 milhões de
+pessoas, 3,3% da população nacional, e 6% do consumo de eletricidade no pais, atendendo mais de 3,4 milhões de unidades
+consumidoras. É um mercado com grande potencial e economia diversificada  . (Boletim Indicadores Econômicos-Fiscais - Anexo).
+A Celesc-D investe para aprimorar suas redes e garantir confiabilidade do sistema diante da demanda em crescimento. Os investimentos
+deste novo Programa visam: (i) suprir eficientemente o aumento da demanda e promover o crescimento econômico; (ii) conferir maior
+flexibilidade operacional, integrando energias renováveis e melhorando a qualidade e resiliência; e (iii) posicionar a Celesc-D como
+referência em inovação, fortalecendo suas capacidades em aspetos como mitigação da mudança climática, equidade de gênero,
+diversidade e inclusão social.
+
+A. SUPRIMENTO EFICIENTE DO CRESCIMENTO DA DEMANDA
+Na última década (2013-2022), a demanda de energia elétrica na área de concessão da Celesc-D cresceu cerca de 20%, enquanto no
+Brasil, o aumento foi inferior a   10%. Para os próximos anos (2023-2030), a Celesc prevê um crescimento médio anual da demanda de 3
+%  . (Crescimento de Demanda por Energia Brasil/SC - Anexo)
+
+B. FLEXIBILIDADE OPERACIONAL AO SISTEMA DE DISTRIBUIÇÃO E INTEGRAÇÃO DE ENERGIAS RENOVÁVEIS
+Modernização e automação das redes de energia elétrica são imperativas diante da evolução tecnológica e das demandas por eficiência e
+sustentabilidade. Automação otimiza operações, minimiza falhas e integra fontes renováveis. Digitalização aprimora operações, oferece
+previsões de demanda, facilita a tomada de decisões, melhora a confiabilidade dos serviços, reduz perdas, amplia a integração de fontes
+renováveis, otimiza fluxos de energia e torna a infraestrutura mais resiliente e sustentável.
+No Brasil,  a geração distribuída (GD)  cresce rapidamente: até 2032 serão 37 GW de GD. No estado de SC a GD também cresce: em
+2022, a capacidade instalada de GD solar fotovoltaica era de 852MW; para 2032, a previsão é de 1.4GW, 65% superior à atual. A inserção
+da GD traz vantagens econômicas, sociais e ambientais. Estimula empregos, promove independência energética e utilização de fontes
+limpas, alinhando-se aos esforços de combate às mudanças climáticas. 
+
+C. LIDERANÇA EM INOVAÇÃO PARA MITIGAÇÃO DA MUDANÇA CLIMÁTICA E EQUIDADE DE GÊNERO, DIVERSIDADE E
+INCLUSÃO SOCIAL
+Para alcançar metas de redução de emissões de gases de efeito estufa é crucial diminuir o consumo de combustíveis fósseis no
+transporte, a eletrificação é promissora inovação. A Celesc-D lidera a promoção da  mobilidade elétrica em SC, com mais de 1.500km de
+rotas eletrificadas, com 34 estações de carregamento. Entretanto, apenas 9% dos VE nacionais elétricos estão em SC. Até 2040 a frota de
+ VEs deve dobrar: mobilidade elétrica é vital.  
+O Brasil registra desigualdades de gênero e raça; alcançar inclusão social com igualdade é um desafio. A população afro-brasileira
+representa 50,7% do país. A preferência do empregador por pessoas brancas explica aproximadamente 6-7% da disparidade salarial
+racial. No caso das mulheres 49,76% dos domicílios declarou ter uma mulher come chefe de família em 2022. A taxa de emprego feminino
+é de 53,76% contra 73,85% de homens. Disparidades salariais entre homens e mulheres são exacerbadas pela raça e persistem nas
+mulheres instruídas. Os salários das mulheres afrodescendentes são menos da metade dos salários dos homens brancos. As mulheres
+brasileiras são mais educadas e têm uma esperança de vida mais longa, mas o seu rendimento é três quintos dos homens. O setor de
+energia apresenta disparidades, com pouca representação feminina (21.15% de mulheres trabalham em empresas de eletricidade, gás e
+água) e obstáculos para entrada em áreas técnicas, onde há uma proporção feminina de graduadas de 37%.   
+Em 2022 a Celesc foi certificada Melhor Empresa para Trabalhar e está certificada em Responsabilidade Social. Iniciativas como o
+Programa Jovem Aprendiz desenvolvem abordagem de gênero para dar maiores oportunidades. A agenda de gênero, diversidade e
+inclusão reduz desigualdades - a Celesc conta com 24% da força de trabalho composta por mulheres, com 25% ocupando cargos de
+gestão, embora somente 3,79% ocupem postos de gestão técnica e menos de 1% atuem em cargos operacionais. 
+
+Considerando estes desafios, a Celesc-D investe para acompanhar o crescimento econômico e manter o desenvolvimento de SC em
+patamares de países desenvolvidos. Em 2021, o IDHM do estado atingiu 0,792, posicionando SC na faixa de Alto Desenvolvimento
+Humano.
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+A Celesc-D objetiva assegurar a alocação de recursos financeiros necessários à realização dos investimentos da Companhia, mediante
+contrato de empréstimo externo com agência de desenvolvimento, contando com garantia soberana da União, visando à execução de
+obras, aquisições de equipamentos e recursos técnicos destinados ao melhoramento e a ampliação da infraestrutura de distribuição de
+energia elétrica na área de concessão da Companhia. 
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:22
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61032
+Página: 3
+Pretende-se obter empréstimo junto ao Banco Interamericano de Desenvolvimento - BID, agência de desenvolvimento que já atua junto à
+Companhia através do Contrato de Empréstimo Nº 4404/OC-BR, que se encontra em fase final de execução e sempre esteve com a
+melhor classificação de projetos nas avaliações internas do BID, realizadas anualmente, sendo classificado como satisfatório.
+
+A presente Carta Consulta refere-se ao projeto de financiamento para o qual se pretende empréstimo externo do BID, sendo este
+denominado Programa de Investimentos em Infraestrutura Energética da Celesc - BID (Programa BID II). 
+
+Tratando-se de contrato de empréstimo externo, requer a Secretaria de Assuntos Internacionais e Desenvolvimento (SEAID) o
+encaminhamento de uma Carta Consulta para a operação pretendida. 
+
+A solução proposta para atender às necessidades de ampliação e modernização da infraestrutura da Celesc-D, com a finalidade de
+fortalecer a eficiência na prestação do serviço e aumentar a flexibilidade do sistema elétrico, reduzindo sua vulnerabilidade e promovendo
+medidas de mitigação dos efeitos da mudança climática, garantindo, em todo momento, o fornecimento qualificado da energia necessária
+ao desenvolvimento social e econômico do estado de SC. 
+
+Assim, compreendem no âmbito do Programa os investimentos pretendidos e os seguintes resultados: 
+- Implantação de 15 novas subestações abaixadoras de tensão. As SEs serão automatizadas e aparelhadas com sistemas de
+conectividade (comunicação e gestão remota). Resultado: Aumento da capacidade da rede de distribuição da Celesc-D, fornecendo uma
+oferta adicional média de 500 MVA. 
+- Implantação de aproximadamente 200 km de novas linhas de distribuição de alta tensão. Resultado: Expansão da infraestrutura de
+distribuição de energia, incluindo sistemas de conectividade adequados.
+- Modernização e Ampliação da capacidade de transformação de subestações existentes. Resultado: Melhora da capacidade de
+transformação de subestações que já estão operando com alta carga (acima de 90%), além de introduzir automação e sistemas de
+conectividade avançados. 
+- Modernização de equipamentos em subestações existentes. Resultado: Incorporação de digitalização, automação e de tecnologias mais
+eficientes e ecologicamente sustentáveis para aumentar a eficiência energética 
+- Desapropriações necessárias para a implantação de novas subestações e constituição de faixas de servidão de passagem para novas
+linhas de distribuição de alta tensão  ; 
+- Ampliação e melhoramento de redes alimentadoras de média e baixa tensão. Resultados; Resultado: aproximadamente 500 unidades de
+ redes alimentadores trifásicas atendidas;   
+- Renovação do Sistema de Média e Baixa tensão. Resultado: implantação de equipamentos para digitalização e operação remota,
+visando maior eficiência operacional. 
+- Implantação de projeto de medição inteligente no município de Florianópolis. Resultado: Atendimento de pelo menos 270 mil unidades
+consumidoras (Projeto AMI / Florianópolis) que trará mais empoderamento ao consumidor.
+- Implantação de novo Centro de Operações. Resultado: Otimizar a operação do sistema  por meio de automação e tecnologias de
+telecomunicação para a gestão remota da infraestrutura;
+- Aquisição de veículos elétricos para substituição da frota de operação da companhia e implantação de eletropostos. Resultados:
+Resultado: Implantação de eletropostos de abastecimentos nas regionais da Celesc-D para atendimento destes novos veículos elétricos
+adquiridos; 
+- Aquisição de baterias acumuladoras. Resultado: Aquisição de até 3 conjuntos de 1MW/2MWh de baterias acumuladoras para
+gerenciamento da demanda. 
+- Aquisição de subestação móvel do tipo SKID; Resultado: Incremento da flexibilidade operacional em caso de demandas excepcionais.
+- Implantação e operacionalização do Programa de Aprendizagem e do Programa de Estágio da Celesc-D. Resultado: Promoção da
+equidade de gênero, diversidade, inclusão e sustentabilidade, junto à cadeia de fornecimento. 
+
+Importante destacar que a Celesc-D já dispõe de um conjunto de obras estruturantes  para contratação a partir de 2024, obras estas que
+poderão ser incluídas na amostra representativa do Programa. 
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:22
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61032
+Página: 4
+Observa-se que com a implementação do Programa não são esperados custos adicionais, aos já absorvidos regularmente pela Celesc-D,
+no que se refere à operação e a manutenção de obras e bens. Pelo contrário, os investimentos no Programa preveem digitalização e
+operação remota do sistema, o que deverá resultar em redução dos atuais custos de operação e manutenção da companhia.   
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+O Programa está estruturado para atender o crescimento da demanda de energia necessária ao desenvolvimento social e econômico do
+estado, assim como para o atendimento dos pilares fundamentais para o mercado futuro de energia: digitalização, descarbonização e
+descentralização.
+
+No atendimento do crescimento da demanda por energia, o Programa prevê investimentos estruturantes no sistema de distribuição de alta
+ tensão.
+
+No que se refere à digitalização o Programa prevê: (i) Automação e conectividade (redes inteligentes); (ii) Novo centro de operações; (iii)
+Implantação de sistemas de medição inteligente.
+
+No que se refere à descarbonização o Programa prevê: (i) Nova frota operada por energia renovável; (ii) Implantação de postos elétricos
+para a nova frota operada por energia renovável; (iii) Aquisição e operação de baterias acumuladoras de grande porte para absorção de
+GD, peça chave para integração de fontes renováveis.
+
+No que se refere à descentralização o Programa prevê: (i) Implantação de medidores inteligentes e melhorias no sistema para integração
+da GD à rede; (ii) Implantação de redes inteligentes, em conjunto com a medição inteligente, possibilitando a evolução dos sistemas e sua
+integração aos conceitos de cidades inteligentes.
+
+Adicionalmente, estão previstos investimentos para promoção de igualdade de gênero, diversidade e inclusão: (i) Ingresso de jovens por
+gênero, raça e outros no Programa de Aprendizagem da Celesc-D, incluindo jovens em situação de vulnerabilidade social; (ii) Tratamento
+diferenciado para estagiários que sejam oriundos do Programa de Aprendizagem, preparando-os para atuação na cadeia de fornecedores.
+
+Os investimentos irão incorporar inovações tecnológicas, com foco em eficiência energética e em ganhos ambientais: (i) utilização de
+equipamentos de transformação que operem com óleos vegetais em substituição aos que operam com óleos minerais; (ii) utilização de
+disjuntores que operem com mesmo meio isolante que o adotado na tecnologia GIS, mais moderna e segura, dentre outros.
+ 
+O Programa está alinhado às orientações estratégicas do setor conforme o PDD da ANNEL, e estão incorporados ao planejamento
+estratégico da Celesc-D nos termos do Plano Quinquenal de Obras (PQO). Importante observar que parte dos investimentos propostos
+estão, também, alinhados ao Plano de Investimento do "Renewable Energy Integration Program do Climate Investment Fund (Programa
+REI-CIF)", firmado em 30/06/23 pelo Governo Federal. A inclusão da operação da Celesc-D no Plano de Investimentos em Energias
+Renováveis resultou fundamental para atrair pelo menos US$ 70 milhões de recursos internacionais do "Climate Investment Fund (CIF)"
+para apoiar a agenda verde do Governo brasileiro. 
+
+Por fim, as contrapartidas previstas estarão em conformidade com as Resoluções da COFIEX e a taxa de câmbio adotada é de R$ 5 (
+cinco reais por dólar), conforme taxa BACEN de 15/08/2023.
+
+2. Projeto
+2.1. Título
+Programa de Investimentos para o Desenvolvimento da Infraestrutura de Energia Elétrica em Santa Catarina.
+2.2. Título Abreviado
+Programa Celesc BID II
+2.3. Mutuário
+Celesc Distribuição S.A.
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:22
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61032
+Página: 5
+OBJETIVO GERAL:
+Promover a ampliação e modernização da infraestrutura da Celesc-D, com a finalidade de fortalecer a eficiência na prestação do serviço e
+aumentar a flexibilidade do sistema elétrico, reduzindo sua vulnerabilidade e promovendo medidas de mitigação dos efeitos da mudança
+climática, garantindo, em todo momento, o fornecimento qualificado da energia necessária ao desenvolvimento social e econômico do
+estado de SC.
+
+OBJETIVOS ESPECÍFICOS:
+(i) suprir eficientemente o aumento da demanda na área de concessão da Celesc-D, acompanhando e promovendo o crescimento
+económico;
+(ii) conferir maior flexibilidade operacional ao sistema de distribuição, e facilitar a integração de energias renováveis, melhorando sua
+qualidade e resiliência; e
+(iii) posicionar à Celesc-D como referência em inovação, fortalecendo suas capacidades internas e ações, principalmente, em aspetos
+relacionados com mitigação da mudança climática, equidade de gênero, diversidade, e inclusão social.
+
+2.6. Projeto/Indicadores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:22
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61032
+Página: 6
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+INDICADOR DE RESULTADO 1: Potência
+instalada de geração distribuída integrada ao
+sistema elétrico da Celesc 
+Somatório dos
+pedidos de conexão
+de energia solar na
+área de concessão 
+MW
+852,00
+1.010,00
+INDICADOR DE RESULTADO 2: Redução
+emissões GEE
+Total de energia
+gerada pela GD no
+ano multiplicado pelo
+fator de emissão do
+Sistema Elétrico
+Brasileiro do ano de
+2022
+TnCO2eq
+0,00
+589.483,53
+INDICADOR DE RESULTADO 3: Demanda
+elétrica atendida pela Celesc-D
+Relatórios de mercado
+ da Celesc
+GWh/ano
+27.372,00
+33.551,00
+INDICADOR DE RESULTADO 4: Duração
+Equivalente de Interrupção por Unidade
+Consumidora (DEC)
+Soma dos tempos de
+duração das
+interrupções sofridas
+por cada Unidade
+Consumidora, dividida
+pelo número de
+Unidades
+Consumidoras
+atendidas
+horas
+9,82
+8,68
+INDICADOR DE RESULTADO 5: Frequência
+Equivalente de Interrupção por Unidade
+Consumidora (FEC)
+Soma do número de
+interrupções sofridas
+por cada Unidade
+Consumidora, dividida
+pelo número de
+Unidades
+Consumidoras
+atendidas
+Interrupções
+7,56
+6,55
+INDICADOR DE RESULTADO 6: Participação
+média de mulheres e afrodescendentes nos
+Programas da CELESC (Jovem Aprendiz/
+Estágio)
+Relatórios ESG/
+Celesc (jovens
+aprendizes e
+estagiários mulheres e
+ afrodescendentes)
+%
+0,00
+50,00
+INDICADOR DE RESULTADO 7: Fator de
+utilização da Subestação (FUS)
+Somatório da
+demanda máxima da
+subestação dividido
+pelo somatório da
+capacidade instalada
+dos transformadores
+em MVA
+%
+0,00
+80,00
+INDICADOR DE PRODUTO 1: Subestações
+implantadas
+Subestação entregue
+e operando no
+sistema
+quantidade
+175,00
+195,00
+INDICADOR DE PRODUTO 2: Linhas de
+distribuição implantadas
+Extensão de linhas de
+ distribuição
+km
+5.000,00
+5.200,00
+INDICADOR DE PRODUTO 3: Subestações
+ampliadas
+Subestações
+ampliadas e operando
+quantidade
+0,00
+30,00
+INDICADOR DE PRODUTO 4: Ampliação de
+redes de média e baixa tensão monofásicas para
+ trifásicas
+Extensão
+km
+0,00
+500,00
+INDICADOR DE PRODUTO 5: Novo centro de
+operação e controle
+Centro implantado,
+aparelhado e
+operando
+quantidade
+0,00
+1,00
+INDICADOR DE PRODUTO 6: VE na frota
+institucional da Celesc
+Veículo elétrico
+adquirido 
+quantidade
+0,00
+60,00
+INDICADOR DE PRODUTO 7:  Estações de
+carregamento de VE
+Estação implantada
+em regional da Celesc
+quantidade
+0,00
+16,00
+INDICADOR DE PRODUTO 8:  Medidores
+inteligentes em Florianópolis
+Medidores
+implantados
+quantidade
+0,00
+270,00
+2.7. Projeto/Componentes
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:22
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61032
+Página: 7
+Componentes
+Valor(US$)
+C - MELHORA DA EFICIÊNCIA E FLEXIBILIDADE OPERACIONAL. AMPLIAÇÃO E MODERNIZAÇÃO DO
+SISTEMA DE DISTRIBUIÇÃO DE ALTA TENSÃO
+235.000.000,00
+   S - SUBESTAÇÕES
+155.000.000,00
+      P - Implantação de novas subestações
+65.000.000,00
+      P - Ampliação de capacidade em subestações existentes
+65.000.000,00
+      P - Renovação de equipamentos em subestações existentes
+25.000.000,00
+   S - LINHAS DE DISTRIBUIÇÃO
+70.000.000,00
+      P - Implantação de novas linhas de distribuição
+70.000.000,00
+   S - DESAPROPRIAÇÕES E INDENIZAÇÕES
+10.000.000,00
+      P - Aquisição de terrenos e indenizações
+10.000.000,00
+C - MELHORA DA EFICIÊNCIA E FLEXIBILIDADE OPERACIONAL. AMPLIAÇÃO E MODERNIZAÇÃO DO
+SISTEMA DE DISTRIBUIÇÃO DE MÉDIA E BAIXA TENSÃO
+72.636.000,00
+   S - AMPLIAÇÃO E MELHORAMENTO DE REDES RURAIS
+57.636.000,00
+      P - Ampliação e melhoramento em alimentadores
+37.636.000,00
+      P - Renovação de redes de média e baixa tensão
+20.000.000,00
+   S - MEDIÇÃO INTELIGENTE
+15.000.000,00
+      P - Implantação de Sistema de Medição Inteligente em Florianópolis
+15.000.000,00
+C - INOVAÇÃO TECNOLOGICA, EQUIDADE DE GENERO, DIVERSIDADE, E INCLUSÃO  
+50.000.000,00
+   S - CENTRO DE CONTROLE E OPERAÇÃO
+20.000.000,00
+      P - Novo Centro de Operação Integrado
+20.000.000,00
+   S - ELETROMOBILIDADE
+8.000.000,00
+P - Corredor Elétrico Operacional da Celesc (Postos de Abastecimentos nas Regionais da Celesc) e Veículos
+Elétricos
+8.000.000,00
+   S - BATERIAS ACUMULADORAS DE GRANDE PORTE
+7.000.000,00
+      P - Equipamento para armazenamento de energia elétrica
+7.000.000,00
+   S - SUBESTAÇÕES PORTÁTEIS, COMPACTAS E MODULARES
+10.000.000,00
+      P - Aquisição de subestação tipo SKID
+10.000.000,00
+   S - EQUIDADE DE GENERO, DIVERSIDADE E INCLUSÃO SOCIAL
+5.000.000,00
+      P - Programa Jovem Aprendiz
+2.500.000,00
+      P - Programa de Estágio
+2.000.000,00
+      P - Capacitação
+500.000,00
+C - ENGENHARIA, ADMINISTRAÇÃO, MONITORAMENTO E AVALIAÇÃO
+18.000.000,00
+   S - ESTUDOS E PROJETOS
+15.000.000,00
+      P - Contratação de consultoria para projetos e supervisão de obras
+10.000.000,00
+      P - Gestão do Programa
+5.000.000,00
+   S - ADMINISTRAÇÃO, MONITORAMENTO E AVALIAÇÃO
+3.000.000,00
+      P - Administração do Programa
+2.500.000,00
+      P - Transparência - Comunicação de Ações do Programa
+300.000,00
+      P - Auditoria Externa
+50.000,00
+      P - Avaliação do Programa
+150.000,00
+Total dos Componentes
+375.636.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - MELHORA DA EFICIÊNCIA E FLEXIBILIDADE OPERACIONAL. AMPLIAÇÃO E MODERNIZAÇÃO DO SISTEMA DE
+DISTRIBUIÇÃO DE ALTA TENSÃO
+Execução de obras no sistema de distribuição de alta tensão, sendo: novas subestações, ampliações de subestações existentes,
+novas linhas, renovação de equipamentos em subestações existentes (incluindo digitalização e telecomunicação) e
+desapropriações
+   S - SUBESTAÇÕES
+Implantação de novas subestações e ampliação de capacidade em subestações existentes
+      P - Implantação de novas subestações
+Novas subestações que resultarão na agregação de aproximadamente 500 MVA na rede da Celesc-D
+      P - Ampliação de capacidade em subestações existentes
+Ampliação de capacidade em subestações com carregamento médio acima de 90%, agregando aproximadamente 700 MVA a rede
+ da Celesc-D
+      P - Renovação de equipamentos em subestações existentes
+Aquisição de equipamentos para atualização de ativos e incorporação de novas tecnologias com ganhos de eficiência e ganhos
+ambientais em pelo menos 20 subestações existentes. Considerada a aquisição de transformadores de força, "retrofit" em
+transformadores, disjuntores, religadores
+   S - LINHAS DE DISTRIBUIÇÃO
+Implantação de novas linhas de distribuição
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:22
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61032
+Página: 8
+      P - Implantação de novas linhas de distribuição
+Implantação de aproximadamente 20 novas linhas de distribuição perfazendo uma extensão de mais de 200 km
+   S - DESAPROPRIAÇÕES E INDENIZAÇÕES
+Desapropriações executadas na forma de aquisições de terrenos para novas subestações e indenizações para constituição de
+faixas de passagem requeridas para a implantação de novas linhas
+      P - Aquisição de terrenos e indenizações
+Desapropriações executadas na forma de aquisição de terrenos para subestações e indenização de proprietários impactados pela
+implementação de novas linhas de distribuição, considerando-se a aquisição de aproximadamente 10 terrenos para subestações  e
+ até 50 indenizações por direitos de passagem para linhas de distribuição.
+C - MELHORA DA EFICIÊNCIA E FLEXIBILIDADE OPERACIONAL. AMPLIAÇÃO E MODERNIZAÇÃO DO SISTEMA DE
+DISTRIBUIÇÃO DE MÉDIA E BAIXA TENSÃO
+Melhoramentos em redes de média e baixa tensão, sendo: ampliação e melhoramento de redes alimentadoras, renovação de
+sistemas de média e baixa tensão no atendimento de redes rurais (Programa Rural Trifásico) e implantação de sistema de medição
+ inteligente no município de Florianópolis (Projeto AMI / Florianópolis)
+   S - AMPLIAÇÃO E MELHORAMENTO DE REDES RURAIS
+Investimento para atendimento da cadeia produtiva do agronegócio em Santa Catarina, com ênfase na substituição de redes
+monofásicas por trifásicas e aquisição de de equipamentos para renovação e modernização, beneficiando aproximadamente 66 mil
+produtores rurais em praticamente todas as regiões do estado com impacto em 60 mil empregos diretose 480 mil empregos
+indiretos.
+      P - Ampliação e melhoramento em alimentadores
+Implantação e melhoramento de redes trifásicas ou substituição de redes monofásicas existentes por redes trifásicas, com
+perspectiva de atendimento da cadeia produtiva do agronegócio catarinense que engloba 66 mil produtores integrados e gera
+aproximadamente 60 mil empregos diretos e 480 mil empregos indiretos.
+      P - Renovação de redes de média e baixa tensão
+Aquisição de equipamentos para atualização tecnológica necessária, principalmente, para o atendimento da cadeia produtiva do
+agronegócio catarinense.
+   S - MEDIÇÃO INTELIGENTE
+Substituição de medidores de consumo de energia do tipo eletromecânico por modelos eletrônicos inteligentes com comunicação
+remota.
+      P - Implantação de Sistema de Medição Inteligente em Florianópolis
+Aquisição de medidores eletrônicos inteligentes, com serviços de implantação de medição inteligente, projetando-se redução de
+perdas, redução de inadimplência, redução de custos operacionais e ampliação de serviços prestados ao cliente.
+C - INOVAÇÃO TECNOLOGICA, EQUIDADE DE GENERO, DIVERSIDADE, E INCLUSÃO  
+Melhoramentos na operação das redes, aparelhamento da Celesc e projeto de diversidade e inclusão 
+   S - CENTRO DE CONTROLE E OPERAÇÃO
+Implantação de novo centro de operação integrando processos de gestão do parque gerador, a medição de energia, os sistemas
+de telecomunicação e a gestão patrimonial.
+      P - Novo Centro de Operação Integrado
+Aquisição de bens, serviços e sistemas, incluindo a substituição das atuais ferramentas de gestão da operação, do controle e
+comando das subestações e do despacho de equipes de campo. Utilização dos novos sistemas ADMS (Advanced Distribuition
+Management System) e SCADA (Supervisory Control and Data Acquisition) que atuarão como plataforma para o gerenciamento de
+ sistemas estratégicos no controle remoto de subestações e na gestão técnica dos sistemas de alta e média tensão.
+   S - ELETROMOBILIDADE
+Substituição da frota operacional da companhia que opera com motores a combustão por veículos com motorização elétrica,
+incluindo a infraestrutura para abastecimento destes veículos junto das unidades regionais da companhia.
+      P - Corredor Elétrico Operacional da Celesc (Postos de Abastecimentos nas Regionais da Celesc) e Veículos Elétricos
+Implantação de 16 "eletropostos" (1 em cada Agência Regional) e aquisição de pelo menos 3 veículos elétricos para cada Agência
+Regional e mais 12 veículos elétricos para atuar na seda da companhia.
+   S - BATERIAS ACUMULADORAS DE GRANDE PORTE
+Aquisição de equipamento para armazenamento de energia para integração de fontes renováveis (tecnologia BESS)
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:22
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61032
+Página: 9
+      P - Equipamento para armazenamento de energia elétrica
+Armazenamento de energia para a integração de fontes renováveis intermitentes na matriz elétrica, agregando confiabilidade ao
+sistema elétrico por reduzir ou mitigar variações abruptas na geração em função da disponibilidade dos recursos energéticos em
+tempo real. (3 conjuntos de 2MVA)
+   S - SUBESTAÇÕES PORTÁTEIS, COMPACTAS E MODULARES
+Aquisição de subestações móveis (tipo SKID). Flexibilidade para cada aplicação, com ganho de tempo na fabricação, montagem,
+comissionamento e instalação.
+      P - Aquisição de subestação tipo SKID
+Aquisição de subestações móveis (transportáveis) para o rápido fornecimento de energia ou pra o rápido reestabelecimento do
+fornecimento em casos emergenciais.
+   S - EQUIDADE DE GENERO, DIVERSIDADE E INCLUSÃO SOCIAL
+Desenvolvimento de ações para a promoção de diversidade e inclusão no ambiente corporativo da companhia com alcance da
+cadeia de fornecedores (promoção de diversidade e inclusão no desenvolvimento do mercado de trabalho associado ao setor
+elétrico).
+      P - Programa Jovem Aprendiz
+Operacionalização do Programa Jovem Aprendiz da Celesc, que absorve jovens em condições de vulnerabilidade social,
+promovendo sua formação para ingressar no mercado de trabalho. Iniciativa de absorção de jovens considerando ambiente de
+diversidade e inclusão em articulação com as políticas adotadas pela companhia.
+      P - Programa de Estágio
+Operacionalização do Programa de Estágio da Celesc, em articulação com o Programa Jovem Aprendiz e foco na diversidade e
+inclusão, preparando mão de obra qualificada para atender a companhia e atingir a cadeia de suprimentos da Celesc.
+      P - Capacitação
+Capacitação e treinamento na formação de jovens aprendizes e estagiários, bem como na complementação da formação de
+contingente de funcionários da companhia (multiplicadores) nos temas de diversidade e inclusão.
+C - ENGENHARIA, ADMINISTRAÇÃO, MONITORAMENTO E AVALIAÇÃO
+Estudos, projetos, supervisão, consultoria, gestão e avaliação/auditoria do Programa
+   S - ESTUDOS E PROJETOS
+Estudos sócio ambientais requeridos para fins de licenciamento, projetos de engenharia e supervisçao de obras.
+      P - Contratação de consultoria para projetos e supervisão de obras
+Contratação de consultoria técnica e ambiental para a realização de projetos e supervisão de obras (engenharia do proprietário),
+para o atendimento das unidades regionais da Celesc-D presentes nas oito macrorregiões catarinenses: Litoral (Grande Capital),
+Leste, Norte, Vale do Itajaí (Alto Vale), Planalto, Sul, Meio-Oeste e Oeste.
+      P - Gestão do Programa
+Consultoria técnica especializada para atuar no apoio à Unidade de Coordenação do Programa, na execução das atividades
+técnicas, ambientais, financeiras, aquisições, administrativas e contábeis associadas |à execução do Programa.
+   S - ADMINISTRAÇÃO, MONITORAMENTO E AVALIAÇÃO
+Atividades relacionadas à operação do Programa, incluindo atividades de auditoria externa e avaliações do Programa
+eventualmente requeridas pela agente financeiro.
+      P - Administração do Programa
+Considera-se a contrapartida na forma de contabilização no Programa dos custos dispendidos pela Celesc com a mobilização de
+pessoal dos seus quadros para atuar na coordenação dos trabalhos sob a responsabilidade da UCP.
+      P - Transparência - Comunicação de Ações do Programa
+Considera-se neste item a disponibilização de verba para a contratação de campanhas de divulgação das ações realizadas ao
+abrigo do Programa, atendendo critérios de transparência e "compliance" adotados pela Celesc-D
+      P - Auditoria Externa
+Execução anual de auditoria das contas e do Programa. 
+      P - Avaliação do Programa
+Contratação de avaliação intermediária e avaliação final do Programa.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:22
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61032
+Página: 10
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Obras
+-
+-
+237.636.000,00
+63,26
+P- Implantação de novas subestações
+unidade
+15,00
+65.000.000,00
+17,30
+P- Ampliação de capacidade em subestações
+existentes
+unidade
+30,00
+65.000.000,00
+17,30
+P- Implantação de novas linhas de distribuição
+km
+200,00
+70.000.000,00
+18,64
+P- Ampliação e melhoramento em alimentadores
+unidade
+500,00
+37.636.000,00
+10,02
+Bens
+-
+-
+115.000.000,00
+30,61
+P- Renovação de equipamentos em subestações
+existentes
+unidade
+20,00
+25.000.000,00
+6,66
+P- Aquisição de terrenos e indenizações
+unidade
+60,00
+10.000.000,00
+2,66
+P- Renovação de redes de média e baixa tensão
+unidade
+1.000,00
+20.000.000,00
+5,32
+P- Implantação de Sistema de Medição Inteligente
+ em Florianópolis
+unidade
+270.000,00
+15.000.000,00
+3,99
+P- Novo Centro de Operação Integrado
+unidade
+1,00
+20.000.000,00
+5,32
+P- Corredor Elétrico Operacional da Celesc (
+Postos de Abastecimentos nas Regionais da
+Celesc) e Veículos Elétricos
+unidade
+1,00
+8.000.000,00
+2,13
+P- Equipamento para armazenamento de energia
+elétrica
+unidade
+3,00
+7.000.000,00
+1,86
+P- Aquisição de subestação tipo SKID
+unidade
+2,00
+10.000.000,00
+2,66
+Consultoria
+-
+-
+15.200.000,00
+4,05
+P- Contratação de consultoria para projetos e
+supervisão de obras
+unidade
+8,00
+10.000.000,00
+2,66
+P- Gestão do Programa
+unidade
+1,00
+5.000.000,00
+1,33
+P- Auditoria Externa
+unidade
+5,00
+50.000,00
+0,01
+P- Avaliação do Programa
+unidade
+2,00
+150.000,00
+0,04
+Serviços que Não de Consultoria
+-
+-
+7.300.000,00
+1,94
+P- Programa Jovem Aprendiz
+unidade
+250,00
+2.500.000,00
+0,67
+P- Programa de Estágio
+unidade
+200,00
+2.000.000,00
+0,53
+P- Administração do Programa
+unidade
+1,00
+2.500.000,00
+0,67
+P- Transparência - Comunicação de Ações do
+Programa
+unidade
+1,00
+300.000,00
+0,08
+Capacitação e Treinamento
+-
+-
+500.000,00
+0,13
+P- Capacitação
+unidade
+1.000,00
+500.000,00
+0,13
+Total Geral
+-
+-
+375.636.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+(a) Realizadas reuniões técnicas da equipe de coordenação do Programa com o agente financeiro proposto (BID) para definição de linhas
+de investimentos estratégicos a serem abordadas. 
+
+(b) Realizadas tratativas institucionais com o estado de Santa Catarina, que atuará como contragarantidor da operação.
+
+(c) Iniciadas tramitações com o Governo do Estado e com a Assembleia Legislativa de Santa Catarina para a emissão de Lei Autorizativa
+para o fornecimento das contragarantias necessárias à garantia a ser fornecida pela União.
+
+(d) Elaborados projetos, obtidas licenças ambientais e realizadas as tratativas fundiárias necessárias à contratação de obras previstas
+para integrar a amostra representativa do Programa, a saber:
+     - Nova subestação de São Francisco do Sul/Gamboa (SFG);
+     - Nova subestação de Governador Celso Ramos/Areias de Cima (GCS);
+     - Nova subestação de Treze Tílias/Linha Babenberg (TTL);
+     - Ampliação da subestação de Lages/Vidal Ramos (LVR);
+     - Ampliação da subestação de Joinville - Perini (JPI);
+     - Nova linha de distribuição de Forquilhinha Rede Básica - Içara;
+     - Nova linha de distribuição de São Francisco do Sul Gamboa - Seccionamento (Joinville Santa Catarina - São Francisco do Sul);
+     - Nova linha de distribuição de Porto Belo - Bombinhas;
+     - Nova linha de distribuição de Lançamento do 2º circuito da LD Biguaçu Rede Básica - Tijucas;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:22
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61032
+Página: 11
+     - Nova linha de distribuição de 138KV Salto Pilão - Presidente Getúlio;
+     - Nova linha de distribuição de 138KV Videira RB -  Caçador Castelhano.
+
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Estadual/Sem detalhes
+Estado de Santa Catarina ()
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+Pelas tratativas preliminares conduzidas junto ao agente financeiro proposto, tendo em consideração as condições financeiras pactuadas
+para o atual Programa Celesc BID (4404/OC-BR), que se encontra em fase final de execução, as condições financeiras esperadas para a
+operação proposta são as seguintes:
+
+(a)Prazo de desembolso, prazo de carência, prazo de amortização e prazo total (em meses): As condições financeiras da operação
+pretendida compreendem um prazo de desembolsos de 60 meses, um prazo de carência de 66 meses e um prazo de amortização de 234
+meses; o prazo total da operação compreenderá, portanto, 300 meses.   
+
+(b)Taxa de juros e demais encargos previstos e comissões: Ao longo do período de execução dos investimentos do Programa (prazo de
+carência), serão pagos, ao final de cada 6 meses, encargos constituídos pelos juros baseados na taxa SOFR (Secured Overnight
+Financing Rate), calculados com base diária sobre os valores já desembolsados do empréstimo, além de uma comissão de crédito, taxa
+incidente sobre os valores não desembolsados do empréstimo, atualmente no valor de 0,5 % a.a., também calculada com base diária, com
+ incidência 60 dias após assinatura do contrato de empréstimo.
+
+(c)Necessidade de financiamento externo e opção pelo agente escolhido: (i) A necessidade de obtenção do empréstimo externo
+pretendido pela Celesc-D prende-se à realização dos investimentos indispensáveis para possibilitar a ampliação e melhoria da
+infraestrutura de distribuição de energia elétrica a cargo da Companhia, para atendimento às exigências constantes do contrato de
+concessão a que está sujeita; (ii) O empréstimo externo pretendido constitui a opção de captação dos recursos necessários com o menor
+custo financeiro disponível para a Celesc-D, posto que se pleiteia, na condição de empresa pública de economia mista, um financiamento
+com a garantia soberana da União, assegurando a obtenção das menores taxas de captação pelos agentes; (iii) A opção pelo agente
+escolhido - o Banco Interamericano de Desenvolvimento (BID), deve-se ao fato de que a Celesc-D já está finalizando a execução bem
+sucedida de um primeiro Programa de financiamento com esse Agente, estando já familiarizada com a aplicação das práticas e Políticas
+de aquisições do Banco.
+
+2.11. PROJETO/BENEFICIÁRIO
+Dentre as área estratégicas impactadas diretamente pelo Programa proposto, nos termos especificados no Anexo à Resolução Cofiex nº
+17, de 7 de junho de 2021, destacam-se:
+- Eficiência energética, geração e uso de energia de fontes renováveis através da incorporação da geração distribuída e da implementação
+ de corredor elétrico operacional para os deslocamentos necessários à realização das atividades da companhia.
+- Melhoria do ambiente de negócios e oportunidades mediante o acesso a infraestrutura energética necessária à implantação e ao
+desenvolvimento da indústria catarinense, promovendo a geração e a manutenção de postos de trabalho.
+- Geração de emprego e renda para a fixação de famílias no campo através da realização de investimentos na qualificação da energia
+disponibilizada para a área rural de Santa Catarina, favorecendo o desenvolvimento do modelo do agronegócio catarinense.
+- Melhoria nos processos de prestação de serviços públicos, de gestão e de participação de consumidores mediante a implementação de
+sistemas de medição inteligente que possibilitarão melhoria na gestão dos usuários de energia.
+- Desenvolvimento, inovação e modernização tecnológica com a renovação e atualização tecnológica de ativos da companhia e com a
+instalação de novo centro de operação.
+
+O Programa proposto atenderá 264 municípios (263 municípios em Santa Catarina e 1 no Paraná), abrangendo cerca de 7 milhões de
+pessoas.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:22
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61032
+Página: 12
+Adicionalmente, o Programa prevê investimentos em fortalecimento institucional para a consolidação da Política de Diversidade e Inclusão
+da Celesc-D, que busca garantir um ambiente corporativo mais igualitário, e para incentivar o ingresso no mercado de trabalho do setor
+de energia de jovens aprendizes em situação de vulnerabilidade social e de estagiários, facilitando o acesso de minorias sociais e jovens
+com foco em gênero, raça, dentre outros. Destaca-se que o Programa Jovem Aprendiz da Celesc, que receberá o apoio do Programa, é
+pautado ao atendimento e capacitação de jovens de 14 a 16 anos, oriundos de famílias em situação de vulnerabilidade social,
+assegurando-lhes formação técnico-profissional através de atividades práticas e cursos de aprendizagem, compatíveis com seu
+desenvolvimento físico, moral e psicológico, nos termos da Lei nº. 10.097/2000 e do Decreto nº. 5.598/2005. 
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Internas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Contrapartida Financeira
+CF
+US$
+75.136.000,00
+1,00
+75.136.000,00
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Banco Interamericano de Desenvolvimento
+ - BID
+BID
+US$
+300.500.000,00
+1,00
+300.500.000,00
+Total:
+375.636.000,00
+375.636.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+O Mutuário e o Executor do empréstimo externo pretendido será a Celesc-D, que já possui experiência com a realização de programas de
+investimento executados através de Contrato de Empréstimo firmado com o Banco Interamericano de Desenvolvimento (BID).
+
+A coordenação da execução do Programa será efetuada por meio de uma unidade específica, a Unidade de Coordenação do Programa (
+UCP), a qual já está criada e se encontra operacional no âmbito da companhia.  
+
+Já compõem os quadros desta UCP existente técnicos dos quadros da Celesc-D que atuam em regime de dedicação exclusiva e outros
+em regime de dedicação por tempo parcial. Para este novo Programa, propomos ter a seguinte composição; (i) um Coordenador Geral,
+em regime de dedicação exclusiva, (ii) um Coordenador Técnico que neste novo Programa pleiteado atuará em regime de dedicação
+exclusiva, (iii) um Coordenador de Planejamento que atuará em regime de dedicação exclusiva; (iv) um Coordenador  de Contratações (
+Aquisições) que neste novo Programa pleiteado atuará em regime de dedicação exclusiva, (v) um Coordenador Ambiental, e (vi) um
+Coordenador Econômico-Financeiro e Contábil, também com dedicação exclusiva (decidir sobre esta dedicação).  
+
+A Celesc-D utilizará também todos os recursos humanos, técnicos e materiais dos seus diversos setores e instâncias técnico-
+administrativas para a condução do Programa.
+
+A execução de todos os serviços de consultoria e das obras de implantação de novas Subestações abaixadoras de tensão, de adequação
+de Subestações existentes, de implantação e/ou recapacitação de Linhas de Transmissão, assim como das demais obras civis e das
+aquisições de equipamentos e dos serviços de instalação de equipamentos, inseridos no contexto do Programa, será realizada por meio
+de empresas de engenharia, instaladoras e construtoras (empreiteiras) privadas, todas sendo selecionadas mediante prévias licitações
+públicas, nacionais e/ou internacionais, de acordo com a legislação vigente no país e observadas as normas e procedimentos do BID, em
+conformidade com as Políticas de aquisições do Banco e disposições a serem especificadas no Contrato de Empréstimo que venha a ser
+celebrado.
+
+A supervisão técnica para fiscalização da execução das obras será efetuada por meio de empresas de consultoria contratadas,
+observadas as disposições legais e normativas acima referidas, podendo a Celesc-D vir a executar atividades de supervisão com pessoal
+e recursos próprios, nos casos de obras capazes de serem atendidas diretamente pelos quadros da Companhia.
+
+Adicionalmente, em apoio direto à atuação da UCP, pretende-se realizar a contratação de consultoria técnica especializada para a gestão
+técnica e ambiental do Programa.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:22
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61032
+Página: 13
+Por fim, no arranjo institucional do Programa serão considerados os resultados apresentados em trabalho de consultoria realizado pelo
+BID no âmbito da Celesc-D. (Relatório de Avaliação de Meio Termo do Programa de Investimentos em Infraestrutura Energética da
+CELESC - BID /  Revisão de Processos, cópia em documento anexo)
+
+4.2. Execução/Executores
+Executor: Celesc Distribuição S.A.
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+Fax:
+CNPJ:                
+UF:  
+4.3. Execução/Prazo
+Prazo de Desembolso:
+5
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - MELHORA DA EFICIÊNCIA E FLEXIBILIDADE OPERACIONAL. AMPLIAÇÃO E
+MODERNIZAÇÃO DO SISTEMA DE DISTRIBUIÇÃO DE ALTA TENSÃO
+235.000.000,00
+0,00
+47.500.000,00
+   S - SUBESTAÇÕES
+155.000.000,00
+0,00
+31.000.000,00
+      P - Implantação de novas subestações
+65.000.000,00
+0,00
+13.000.000,00
+      P - Ampliação de capacidade em subestações existentes
+65.000.000,00
+0,00
+13.000.000,00
+      P - Renovação de equipamentos em subestações existentes
+25.000.000,00
+0,00
+5.000.000,00
+   S - LINHAS DE DISTRIBUIÇÃO
+70.000.000,00
+0,00
+14.000.000,00
+      P - Implantação de novas linhas de distribuição
+70.000.000,00
+0,00
+14.000.000,00
+   S - DESAPROPRIAÇÕES E INDENIZAÇÕES
+10.000.000,00
+0,00
+2.500.000,00
+      P - Aquisição de terrenos e indenizações
+10.000.000,00
+0,00
+2.500.000,00
+C - MELHORA DA EFICIÊNCIA E FLEXIBILIDADE OPERACIONAL. AMPLIAÇÃO E
+MODERNIZAÇÃO DO SISTEMA DE DISTRIBUIÇÃO DE MÉDIA E BAIXA TENSÃO
+72.636.000,00
+16.527.200,00
+0,00
+   S - AMPLIAÇÃO E MELHORAMENTO DE REDES RURAIS
+57.636.000,00
+11.527.200,00
+0,00
+      P - Ampliação e melhoramento em alimentadores
+37.636.000,00
+7.527.200,00
+0,00
+      P - Renovação de redes de média e baixa tensão
+20.000.000,00
+4.000.000,00
+0,00
+   S - MEDIÇÃO INTELIGENTE
+15.000.000,00
+5.000.000,00
+0,00
+      P - Implantação de Sistema de Medição Inteligente em Florianópolis
+15.000.000,00
+5.000.000,00
+0,00
+C - INOVAÇÃO TECNOLOGICA, EQUIDADE DE GENERO, DIVERSIDADE, E INCLUSÃO  
+50.000.000,00
+0,00
+3.000.000,00
+   S - CENTRO DE CONTROLE E OPERAÇÃO
+20.000.000,00
+0,00
+0,00
+      P - Novo Centro de Operação Integrado
+20.000.000,00
+0,00
+0,00
+   S - ELETROMOBILIDADE
+8.000.000,00
+0,00
+2.000.000,00
+P - Corredor Elétrico Operacional da Celesc (Postos de Abastecimentos nas Regionais da Celesc
+) e Veículos Elétricos
+8.000.000,00
+0,00
+2.000.000,00
+   S - BATERIAS ACUMULADORAS DE GRANDE PORTE
+7.000.000,00
+0,00
+0,00
+      P - Equipamento para armazenamento de energia elétrica
+7.000.000,00
+0,00
+0,00
+   S - SUBESTAÇÕES PORTÁTEIS, COMPACTAS E MODULARES
+10.000.000,00
+0,00
+0,00
+      P - Aquisição de subestação tipo SKID
+10.000.000,00
+0,00
+0,00
+   S - EQUIDADE DE GENERO, DIVERSIDADE E INCLUSÃO SOCIAL
+5.000.000,00
+0,00
+1.000.000,00
+      P - Programa Jovem Aprendiz
+2.500.000,00
+0,00
+500.000,00
+      P - Programa de Estágio
+2.000.000,00
+0,00
+400.000,00
+      P - Capacitação
+500.000,00
+0,00
+100.000,00
+C - ENGENHARIA, ADMINISTRAÇÃO, MONITORAMENTO E AVALIAÇÃO
+18.000.000,00
+500.000,00
+3.070.000,00
+   S - ESTUDOS E PROJETOS
+15.000.000,00
+0,00
+3.000.000,00
+      P - Contratação de consultoria para projetos e supervisão de obras
+10.000.000,00
+0,00
+2.000.000,00
+      P - Gestão do Programa
+5.000.000,00
+0,00
+1.000.000,00
+   S - ADMINISTRAÇÃO, MONITORAMENTO E AVALIAÇÃO
+3.000.000,00
+500.000,00
+70.000,00
+      P - Administração do Programa
+2.500.000,00
+500.000,00
+0,00
+      P - Transparência - Comunicação de Ações do Programa
+300.000,00
+0,00
+60.000,00
+      P - Auditoria Externa
+50.000,00
+0,00
+10.000,00
+      P - Avaliação do Programa
+150.000,00
+0,00
+0,00
+Total
+0,00
+17.027.200,00
+53.570.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - MELHORA DA EFICIÊNCIA E FLEXIBILIDADE OPERACIONAL. AMPLIAÇÃO E
+MODERNIZAÇÃO DO SISTEMA DE DISTRIBUIÇÃO DE ALTA TENSÃO
+0,00
+47.500.000,00
+   S - SUBESTAÇÕES
+0,00
+31.000.000,00
+      P - Implantação de novas subestações
+0,00
+13.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:22
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61032
+Página: 14
+      P - Ampliação de capacidade em subestações existentes
+0,00
+13.000.000,00
+      P - Renovação de equipamentos em subestações existentes
+0,00
+5.000.000,00
+   S - LINHAS DE DISTRIBUIÇÃO
+0,00
+14.000.000,00
+      P - Implantação de novas linhas de distribuição
+0,00
+14.000.000,00
+   S - DESAPROPRIAÇÕES E INDENIZAÇÕES
+0,00
+2.500.000,00
+      P - Aquisição de terrenos e indenizações
+0,00
+2.500.000,00
+C - MELHORA DA EFICIÊNCIA E FLEXIBILIDADE OPERACIONAL. AMPLIAÇÃO E
+MODERNIZAÇÃO DO SISTEMA DE DISTRIBUIÇÃO DE MÉDIA E BAIXA TENSÃO
+16.527.200,00
+0,00
+   S - AMPLIAÇÃO E MELHORAMENTO DE REDES RURAIS
+11.527.200,00
+0,00
+      P - Ampliação e melhoramento em alimentadores
+7.527.200,00
+0,00
+      P - Renovação de redes de média e baixa tensão
+4.000.000,00
+0,00
+   S - MEDIÇÃO INTELIGENTE
+5.000.000,00
+0,00
+      P - Implantação de Sistema de Medição Inteligente em Florianópolis
+5.000.000,00
+0,00
+C - INOVAÇÃO TECNOLOGICA, EQUIDADE DE GENERO, DIVERSIDADE, E INCLUSÃO  
+0,00
+18.000.000,00
+   S - CENTRO DE CONTROLE E OPERAÇÃO
+0,00
+5.000.000,00
+      P - Novo Centro de Operação Integrado
+0,00
+5.000.000,00
+   S - ELETROMOBILIDADE
+0,00
+2.000.000,00
+P - Corredor Elétrico Operacional da Celesc (Postos de Abastecimentos nas Regionais da Celesc
+) e Veículos Elétricos
+0,00
+2.000.000,00
+   S - BATERIAS ACUMULADORAS DE GRANDE PORTE
+0,00
+5.000.000,00
+      P - Equipamento para armazenamento de energia elétrica
+0,00
+5.000.000,00
+   S - SUBESTAÇÕES PORTÁTEIS, COMPACTAS E MODULARES
+0,00
+5.000.000,00
+      P - Aquisição de subestação tipo SKID
+0,00
+5.000.000,00
+   S - EQUIDADE DE GENERO, DIVERSIDADE E INCLUSÃO SOCIAL
+0,00
+1.000.000,00
+      P - Programa Jovem Aprendiz
+0,00
+500.000,00
+      P - Programa de Estágio
+0,00
+400.000,00
+      P - Capacitação
+0,00
+100.000,00
+C - ENGENHARIA, ADMINISTRAÇÃO, MONITORAMENTO E AVALIAÇÃO
+500.000,00
+3.070.000,00
+   S - ESTUDOS E PROJETOS
+0,00
+3.000.000,00
+      P - Contratação de consultoria para projetos e supervisão de obras
+0,00
+2.000.000,00
+      P - Gestão do Programa
+0,00
+1.000.000,00
+   S - ADMINISTRAÇÃO, MONITORAMENTO E AVALIAÇÃO
+500.000,00
+70.000,00
+      P - Administração do Programa
+500.000,00
+0,00
+      P - Transparência - Comunicação de Ações do Programa
+0,00
+60.000,00
+      P - Auditoria Externa
+0,00
+10.000,00
+      P - Avaliação do Programa
+0,00
+0,00
+Total
+0,00
+17.027.200,00
+68.570.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - MELHORA DA EFICIÊNCIA E FLEXIBILIDADE OPERACIONAL. AMPLIAÇÃO E
+MODERNIZAÇÃO DO SISTEMA DE DISTRIBUIÇÃO DE ALTA TENSÃO
+0,00
+47.500.000,00
+   S - SUBESTAÇÕES
+0,00
+31.000.000,00
+      P - Implantação de novas subestações
+0,00
+13.000.000,00
+      P - Ampliação de capacidade em subestações existentes
+0,00
+13.000.000,00
+      P - Renovação de equipamentos em subestações existentes
+0,00
+5.000.000,00
+   S - LINHAS DE DISTRIBUIÇÃO
+0,00
+14.000.000,00
+      P - Implantação de novas linhas de distribuição
+0,00
+14.000.000,00
+   S - DESAPROPRIAÇÕES E INDENIZAÇÕES
+0,00
+2.500.000,00
+      P - Aquisição de terrenos e indenizações
+0,00
+2.500.000,00
+C - MELHORA DA EFICIÊNCIA E FLEXIBILIDADE OPERACIONAL. AMPLIAÇÃO E
+MODERNIZAÇÃO DO SISTEMA DE DISTRIBUIÇÃO DE MÉDIA E BAIXA TENSÃO
+16.527.200,00
+0,00
+   S - AMPLIAÇÃO E MELHORAMENTO DE REDES RURAIS
+11.527.200,00
+0,00
+      P - Ampliação e melhoramento em alimentadores
+7.527.200,00
+0,00
+      P - Renovação de redes de média e baixa tensão
+4.000.000,00
+0,00
+   S - MEDIÇÃO INTELIGENTE
+5.000.000,00
+0,00
+      P - Implantação de Sistema de Medição Inteligente em Florianópolis
+5.000.000,00
+0,00
+C - INOVAÇÃO TECNOLOGICA, EQUIDADE DE GENERO, DIVERSIDADE, E INCLUSÃO  
+0,00
+3.000.000,00
+   S - CENTRO DE CONTROLE E OPERAÇÃO
+0,00
+0,00
+      P - Novo Centro de Operação Integrado
+0,00
+0,00
+   S - ELETROMOBILIDADE
+0,00
+2.000.000,00
+P - Corredor Elétrico Operacional da Celesc (Postos de Abastecimentos nas Regionais da Celesc
+) e Veículos Elétricos
+0,00
+2.000.000,00
+   S - BATERIAS ACUMULADORAS DE GRANDE PORTE
+0,00
+0,00
+      P - Equipamento para armazenamento de energia elétrica
+0,00
+0,00
+   S - SUBESTAÇÕES PORTÁTEIS, COMPACTAS E MODULARES
+0,00
+0,00
+      P - Aquisição de subestação tipo SKID
+0,00
+0,00
+   S - EQUIDADE DE GENERO, DIVERSIDADE E INCLUSÃO SOCIAL
+0,00
+1.000.000,00
+      P - Programa Jovem Aprendiz
+0,00
+500.000,00
+      P - Programa de Estágio
+0,00
+400.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:22
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61032
+Página: 15
+      P - Capacitação
+0,00
+100.000,00
+C - ENGENHARIA, ADMINISTRAÇÃO, MONITORAMENTO E AVALIAÇÃO
+500.000,00
+3.120.000,00
+   S - ESTUDOS E PROJETOS
+0,00
+3.000.000,00
+      P - Contratação de consultoria para projetos e supervisão de obras
+0,00
+2.000.000,00
+      P - Gestão do Programa
+0,00
+1.000.000,00
+   S - ADMINISTRAÇÃO, MONITORAMENTO E AVALIAÇÃO
+500.000,00
+120.000,00
+      P - Administração do Programa
+500.000,00
+0,00
+      P - Transparência - Comunicação de Ações do Programa
+0,00
+60.000,00
+      P - Auditoria Externa
+0,00
+10.000,00
+      P - Avaliação do Programa
+0,00
+50.000,00
+Total
+0,00
+17.027.200,00
+53.620.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - MELHORA DA EFICIÊNCIA E FLEXIBILIDADE OPERACIONAL. AMPLIAÇÃO E
+MODERNIZAÇÃO DO SISTEMA DE DISTRIBUIÇÃO DE ALTA TENSÃO
+0,00
+47.500.000,00
+   S - SUBESTAÇÕES
+0,00
+31.000.000,00
+      P - Implantação de novas subestações
+0,00
+13.000.000,00
+      P - Ampliação de capacidade em subestações existentes
+0,00
+13.000.000,00
+      P - Renovação de equipamentos em subestações existentes
+0,00
+5.000.000,00
+   S - LINHAS DE DISTRIBUIÇÃO
+0,00
+14.000.000,00
+      P - Implantação de novas linhas de distribuição
+0,00
+14.000.000,00
+   S - DESAPROPRIAÇÕES E INDENIZAÇÕES
+0,00
+2.500.000,00
+      P - Aquisição de terrenos e indenizações
+0,00
+2.500.000,00
+C - MELHORA DA EFICIÊNCIA E FLEXIBILIDADE OPERACIONAL. AMPLIAÇÃO E
+MODERNIZAÇÃO DO SISTEMA DE DISTRIBUIÇÃO DE MÉDIA E BAIXA TENSÃO
+11.527.200,00
+0,00
+   S - AMPLIAÇÃO E MELHORAMENTO DE REDES RURAIS
+11.527.200,00
+0,00
+      P - Ampliação e melhoramento em alimentadores
+7.527.200,00
+0,00
+      P - Renovação de redes de média e baixa tensão
+4.000.000,00
+0,00
+   S - MEDIÇÃO INTELIGENTE
+0,00
+0,00
+      P - Implantação de Sistema de Medição Inteligente em Florianópolis
+0,00
+0,00
+C - INOVAÇÃO TECNOLOGICA, EQUIDADE DE GENERO, DIVERSIDADE, E INCLUSÃO  
+0,00
+25.000.000,00
+   S - CENTRO DE CONTROLE E OPERAÇÃO
+0,00
+15.000.000,00
+      P - Novo Centro de Operação Integrado
+0,00
+15.000.000,00
+   S - ELETROMOBILIDADE
+0,00
+2.000.000,00
+P - Corredor Elétrico Operacional da Celesc (Postos de Abastecimentos nas Regionais da Celesc
+) e Veículos Elétricos
+0,00
+2.000.000,00
+   S - BATERIAS ACUMULADORAS DE GRANDE PORTE
+0,00
+2.000.000,00
+      P - Equipamento para armazenamento de energia elétrica
+0,00
+2.000.000,00
+   S - SUBESTAÇÕES PORTÁTEIS, COMPACTAS E MODULARES
+0,00
+5.000.000,00
+      P - Aquisição de subestação tipo SKID
+0,00
+5.000.000,00
+   S - EQUIDADE DE GENERO, DIVERSIDADE E INCLUSÃO SOCIAL
+0,00
+1.000.000,00
+      P - Programa Jovem Aprendiz
+0,00
+500.000,00
+      P - Programa de Estágio
+0,00
+400.000,00
+      P - Capacitação
+0,00
+100.000,00
+C - ENGENHARIA, ADMINISTRAÇÃO, MONITORAMENTO E AVALIAÇÃO
+500.000,00
+3.070.000,00
+   S - ESTUDOS E PROJETOS
+0,00
+3.000.000,00
+      P - Contratação de consultoria para projetos e supervisão de obras
+0,00
+2.000.000,00
+      P - Gestão do Programa
+0,00
+1.000.000,00
+   S - ADMINISTRAÇÃO, MONITORAMENTO E AVALIAÇÃO
+500.000,00
+70.000,00
+      P - Administração do Programa
+500.000,00
+0,00
+      P - Transparência - Comunicação de Ações do Programa
+0,00
+60.000,00
+      P - Auditoria Externa
+0,00
+10.000,00
+      P - Avaliação do Programa
+0,00
+0,00
+Total
+0,00
+12.027.200,00
+75.570.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - MELHORA DA EFICIÊNCIA E FLEXIBILIDADE OPERACIONAL. AMPLIAÇÃO E
+MODERNIZAÇÃO DO SISTEMA DE DISTRIBUIÇÃO DE ALTA TENSÃO
+0,00
+45.000.000,00
+0,00
+235.000.000,00
+   S - SUBESTAÇÕES
+0,00
+31.000.000,00
+0,00
+155.000.000,00
+      P - Implantação de novas subestações
+0,00
+13.000.000,00
+0,00
+65.000.000,00
+      P - Ampliação de capacidade em subestações existentes
+0,00
+13.000.000,00
+0,00
+65.000.000,00
+      P - Renovação de equipamentos em subestações existentes
+0,00
+5.000.000,00
+0,00
+25.000.000,00
+   S - LINHAS DE DISTRIBUIÇÃO
+0,00
+14.000.000,00
+0,00
+70.000.000,00
+      P - Implantação de novas linhas de distribuição
+0,00
+14.000.000,00
+0,00
+70.000.000,00
+   S - DESAPROPRIAÇÕES E INDENIZAÇÕES
+0,00
+0,00
+0,00
+10.000.000,00
+      P - Aquisição de terrenos e indenizações
+0,00
+0,00
+0,00
+10.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:22
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61032
+Página: 16
+C - MELHORA DA EFICIÊNCIA E FLEXIBILIDADE OPERACIONAL. AMPLIAÇÃO E
+MODERNIZAÇÃO DO SISTEMA DE DISTRIBUIÇÃO DE MÉDIA E BAIXA TENSÃO
+11.527.200,00
+0,00
+72.636.000,00
+0,00
+   S - AMPLIAÇÃO E MELHORAMENTO DE REDES RURAIS
+11.527.200,00
+0,00
+57.636.000,00
+0,00
+      P - Ampliação e melhoramento em alimentadores
+7.527.200,00
+0,00
+37.636.000,00
+0,00
+      P - Renovação de redes de média e baixa tensão
+4.000.000,00
+0,00
+20.000.000,00
+0,00
+   S - MEDIÇÃO INTELIGENTE
+0,00
+0,00
+15.000.000,00
+0,00
+      P - Implantação de Sistema de Medição Inteligente em Florianópolis
+0,00
+0,00
+15.000.000,00
+0,00
+C - INOVAÇÃO TECNOLOGICA, EQUIDADE DE GENERO, DIVERSIDADE, E INCLUSÃO  
+0,00
+1.000.000,00
+0,00
+50.000.000,00
+   S - CENTRO DE CONTROLE E OPERAÇÃO
+0,00
+0,00
+0,00
+20.000.000,00
+      P - Novo Centro de Operação Integrado
+0,00
+0,00
+0,00
+20.000.000,00
+   S - ELETROMOBILIDADE
+0,00
+0,00
+0,00
+8.000.000,00
+P - Corredor Elétrico Operacional da Celesc (Postos de Abastecimentos nas Regionais da Celesc
+) e Veículos Elétricos
+0,00
+0,00
+0,00
+8.000.000,00
+   S - BATERIAS ACUMULADORAS DE GRANDE PORTE
+0,00
+0,00
+0,00
+7.000.000,00
+      P - Equipamento para armazenamento de energia elétrica
+0,00
+0,00
+0,00
+7.000.000,00
+   S - SUBESTAÇÕES PORTÁTEIS, COMPACTAS E MODULARES
+0,00
+0,00
+0,00
+10.000.000,00
+      P - Aquisição de subestação tipo SKID
+0,00
+0,00
+0,00
+10.000.000,00
+   S - EQUIDADE DE GENERO, DIVERSIDADE E INCLUSÃO SOCIAL
+0,00
+1.000.000,00
+0,00
+5.000.000,00
+      P - Programa Jovem Aprendiz
+0,00
+500.000,00
+0,00
+2.500.000,00
+      P - Programa de Estágio
+0,00
+400.000,00
+0,00
+2.000.000,00
+      P - Capacitação
+0,00
+100.000,00
+0,00
+500.000,00
+C - ENGENHARIA, ADMINISTRAÇÃO, MONITORAMENTO E AVALIAÇÃO
+500.000,00
+3.170.000,00
+2.500.000,00
+15.500.000,00
+   S - ESTUDOS E PROJETOS
+0,00
+3.000.000,00
+0,00
+15.000.000,00
+      P - Contratação de consultoria para projetos e supervisão de obras
+0,00
+2.000.000,00
+0,00
+10.000.000,00
+      P - Gestão do Programa
+0,00
+1.000.000,00
+0,00
+5.000.000,00
+   S - ADMINISTRAÇÃO, MONITORAMENTO E AVALIAÇÃO
+500.000,00
+170.000,00
+2.500.000,00
+500.000,00
+      P - Administração do Programa
+500.000,00
+0,00
+2.500.000,00
+0,00
+      P - Transparência - Comunicação de Ações do Programa
+0,00
+60.000,00
+0,00
+300.000,00
+      P - Auditoria Externa
+0,00
+10.000,00
+0,00
+50.000,00
+      P - Avaliação do Programa
+0,00
+100.000,00
+0,00
+150.000,00
+Total
+375.636.000,00
+12.027.200,00
+49.170.000,00
+75.136.000,00
+300.500.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+(a)Risco de Obtenção de Lei Autorizativa para a Conceção de Contragarantia à operação: Risco decorrente da não aprovação de Lei
+Autorizativa para que o estado de Santa Catarina possa fornecer as contragarantias necessárias ao fornecimento da garantia da operação
+ pela União.
+
+Medida de mitigação: Contatos já realizados com o Governo do Estado/Secretaria da Fazenda e com a Assembléia Legislativa do Estado
+de Santa Catarina para início da tramitação de Projeto de Lei, demonstrando o interesse estratégico dos investimentos para a promoção
+de desenvolvimento social e econômico.
+
+Classificação do Risco: Baixo.
+
+(b)Risco em Licitações: Risco decorrente da adoção obrigatória das políticas de aquisições do Banco;
+
+Medida de mitigação: (i) Regulamento Interno de Licitações e Contratos da Celesc, (ii) experiência anterior decorrente de Programa
+financiado pelo BID e (iii) análise da capacidade institucional de fluxos de operação com recomendações elaboradas por consultoria do
+BID (iv) composição de uma comissão especial de licitações capacitada nas políticas de aquisições do BID e dedicada ao Programa.
+
+Classificação do Risco: Muito Baixo.
+
+(c)Risco Orçamentário: Risco de atrasos ou de não execução de empreendimento por falta de recursos;
+
+Medida de mitigação: Procedimento de segregação de orçamento específico para a execução do Programa (garantia de aporte de
+recursos).
+
+Classificação do Risco: Muito Baixo.
+
+5.2. RISCOS/CONTRATAÇÕES
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:22
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61032
+Página: 17
+Risco em Contratações: Riscos associados à elaboração de estudos, projetos e especificações necessárias às contratações de obras e
+aquisições de bens, bem como riscos associados a execução dos contratos.
+
+Medida de mitigação: (i) Contratação de consultoria técnica especializada para apoiar na elaboração de projetos de engenharia, para
+apoiar na realização de supervisão técnica e ambiental e para apoiar no gerenciamento do Programa; (ii) Não será necessária a
+contratação direta de pessoal pela Celesc-D, na forma de mão de obra de dedicação exclusiva, não havendo previsão de contratação de
+pessoal por via de concurso ou outra; (iii) Experiência da Celesc com contratações realizadas seguindo as políticas do agente financeiro
+proposto para a operação, visto que a empresa está em fase final de execução do Contrato de Empréstimo Nº 4404/OC-BR firmado com o
+ BID.
+
+Classificação do Risco: Baixo.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+Risco em Desapropriações: Riscos associados à aquisição de terrenos para a implantação de aproximadamente 20 novas subestações e
+a desapropriação na forma de aquisição de direitos de passagem para aproximadamente 200km de linhas.
+
+Medida de mitigação: (i) Para a execução das desapropriações, na forma de aquisição de terrenos e de faixas de passagem, a Celesc-D
+irá fortalecer o seu setor específico que já atua nas obras do atual Programa, fortalecendo-o também com apoio jurídico especializado; (ii)
+O Programa proposto conta com a previsão de recursos do financiamento a serem destinados ao custeio das desapropriações e/ou
+compra de terrenos e faixas de passagem; além destes recursos do financiamento, a Celesc-D conta com recursos próprios para fazer
+frente às desapropriações necessárias; (iii) As compensações, quando necessárias, serão realizadas na forma de indenizações custeadas
+por recursos próprios da Celesc-D; (iv) Registra-se que a Celesc-D já possui experiência com as políticas do agente financeiro proposto
+para a operação, pois está em fase final de execução do Contrato de Empréstimo Nº 4404/OC-BR firmado com o BID.
+
+Classificação do Risco: Muito Baixo.
+
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+Risco de Impactos Ambientais: Riscos de eventuais impactos ambientais decorrentes da implantação de novas subestações e de novas
+linhas de distribuição.
+
+Medida de mitigação: (i) Os impactos ambientais decorrentes da implementação do projeto serão os decorrentes da execução das obras
+do Programa no que se refere a novas subestações e novas linhas de distribuição, uma vez que os demais investimentos ou não
+requerem licenciamento ambiental específico ou serão realizados amparados em licenças de operação que já são correntes na Celesc-D;
+(ii) Os impactos ambientais nas novas subestações e linhas serão devidamente identificados, juntamente com a indicação e quantificação
+das medidas mitigadoras correspondentes, quando da elaboração dos respectivos projetos de engenharia, os quais fornecerão todos os
+elementos necessários para a obtenção das necessárias Licenças Ambientais, as quais especificarão as eventuais medidas mitigadoras
+adicionais requeridas para a sua devida implementação; (iii) A Celesc dispõe de um setor exclusivamente dedicado à gestão ambiental de
+obras, setor este que será responsável por promover estudos e solicitar licenciamento junto aos órgão competentes, bem como será o
+responsável por acompanhar a execução de eventuais condicionantes ambientais apontados em licenças; (iv) As obras indicadas como
+potencialmente integrantes da amostra representativa do Programa já possuem Licença Ambiental Prévia (LAP), havendo sido avaliados
+pelo órgão ambiental competente os riscos ambientais e onde se relacionam as condicionantes ambientais indicadas como medidas
+mitigadoras; (v) Registra-se que a Celesc-D já possui experiência com as Políticas de Aquisição e Contratação e Ambiental e Social do
+agente financeiro proposto para a operação, pois está em fase final de execução do Contrato de Empréstimo Nº 4404/OC-BR firmado com
+o BID , havendo sido as obras do Programa decorrente deste financiamento classificadas em Categoria B; (vi) Os impactos ambientais
+esperados com o novo Programa deverão ser similares aos observados no atual Programa em fase final de execução e, por isso, não se
+preveêm riscos ambientais adicionais.
+
+Classificação do Risco: Muito Baixo
+
+5.5. RISCOS/IMPACTO SOCIAL
+5.6. RISCOS/REASSENTAMENTOS
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:22
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61032
+Página: 18
+Informações relevantes
+- 28/12/2023: Retirada de pauta pela 170ª Cofiex, em 07/12/2023, por exceder o limite disponível para esta reunião.
+- 30/07/2024: Retirada de pauta pela 172ª Cofiex, em 14/13/2024, por exceder o limite disponível para esta reunião.
+- 30/07/2024: Retirada de pauta pela 174ª Cofiex, em 13/06/2024, por exceder o limite disponível para esta reunião.
+ 
+ 

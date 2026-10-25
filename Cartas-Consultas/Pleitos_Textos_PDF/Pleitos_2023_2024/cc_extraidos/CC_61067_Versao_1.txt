@@ -1,0 +1,1067 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Programa de investimento em saúde para o fortalecimento e consolidação da rede de
+atenção às doenças crônicas não transmissíveis e saúde digital no estado de Alagoas
+Nº Carta Consulta: 61067
+Mutuário: Estado de Alagoas
+Tipo de Operação: Operação de crédito externo
+Fontes Internas:
+Contrapartida Financeira: US$ 10.000.000,00
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 50.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61067
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+03
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 04
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 04
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 04
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 04
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 05
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 06
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 07
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 07
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 07
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 07
+3. FINANCIAMENTO .......................................................................................................................................................................................... 07
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 07
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 08
+4. EXECUÇÃO ...................................................................................................................................................................................................
+08
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 08
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 08
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 08
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 08
+5. RISCOS .......................................................................................................................................................................................................... 10
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 10
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 10
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 10
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 11
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 11
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 11
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+11
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61067
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+1.1.1 Contexto geral do estado
+Alagoas, um estado localizado no Nordeste do Brasil, com área de 27.843 km² e população estimada de 3,1 milhões de habitantes. É o
+segundo menor estado da região, atrás apenas de Sergipe. Sua população é predominantemente jovem, com 53,3% na faixa etária de 15
+a 59 anos. A taxa de urbanização é de 73,6%, com 26,4% da população residindo na área rural. O estado apresenta indicadores
+socioeconômicos sensíveis, como: IDH de 0,684, o segundo menor do país; expectativa de vida de 69,87 anos, uma das mais baixa do
+país; alto índice de analfabetismo, com 19,4%; e grande desigualdade de renda, com o segundo pior rendimento médio per capita do país,
+ de R$ 935.
+
+Situação fiscal do Estado  
+Os ajustes fiscais implementados proporcionaram condições necessárias para que o Estado alcançasse solidez fiscal e financeira que
+permitiu melhorar sua classificação de risco para obtenção de crédito, aumentar sua capacidade de investimentos, ampliar a oferta de
+serviços públicos e valorizar seu quadro de servidores. Em 2022 foi observada uma mudança da trajetória desses resultados,
+evidenciando, por um lado, o aumento das despesas, especialmente do serviço da dívida e dos gastos com pessoal, e de outro, a queda
+da arrecadação decorrente notadamente dos impactos da Lei Complementar nº 194/2022 e do fim do ciclo de ingressos extraordinários.
+A Dívida Consolidada Bruta (DC) do estado correspondia a 78,62% da Receita Corrente Líquida em 2022 (classificação B na CAPAG
+relativa a este indicador). Atualmente, o Governo do Estado processa uma operação de reestruturação e recomposição de principal de
+dívida estadual contraída com credores nacionais (Banco do Brasil S.A e Caixa Econômica Federal), de modo a assumir novo
+compromisso de linha de crédito com BIRD, em condições mais favoráveis e atingir melhor patamar de endividamento.
+
+1.1.2 Contexto setorial e institucional: saúde
+Perfil epidemiológico
+As doenças crônicas não transmissíveis (DCNT) constituem o principal problema de saúde pública em Alagoas, com altas taxas de
+morbimortalidade nos últimos anos (Anexo 1). O aumento da morbimortalidade por DCNT está relacionado a fatores como envelhecimento
+da população, transição demográfica e nutricional, e crescimento de fatores de risco modificáveis, como tabagismo, uso nocivo de álcool,
+inatividade física e alimentação não saudável e obesidade. As causas de óbitos mais frequentes em Alagoas são as relacionadas às
+DCNT, com destaque para doenças cardiovasculares, algumas doenças infecciosas e parasitárias e neoplasias. As doenças do aparelho
+circulatório são responsáveis pelas principais causas de óbitos no grupo das DCNTs em Alagoas. As neoplasias também tiveram aumento
+ na carga de doença. 
+
+Organização do setor saúde e as novas tecnologias
+Em Alagoas, o sistema de saúde ainda tem um longo caminho a percorrer quanto a necessidade de planejamento de médio e longo prazo,
+para o fortalecimento do sistema de saúde e articulação entre desenvolvimento e sustentabilidade.  Faz-se necessário consolidar os
+processos que abranjam a demanda e oferta conscientes e racionais de serviços de saúde com utilização de tecnologias digitais,
+ferramentas essenciais para a melhoria da eficiência e da qualidade do atendimento em saúde. Os profissionais do setor de saúde
+precisam ser capacitados para utilizar essas tecnologias, que podem apoiar a tomada de decisão e melhorar o fluxo de trabalho. A
+inexistência de um programa de investimentos estruturado em tecnologias digitais é um entrave para o avanço na resposta aos principais
+desafios do setor saúde em Alagoas.
+Rede de serviços de saúde e estrutura de gestão
+A oferta de serviços de saúde em Alagoas está organizada em 2 macrorregiões e 10 regiões de saúde. Nos últimos anos, o estado tem
+realizado um esforço para ampliar e descentralizar os serviços de média e alta complexidade, no entanto, a expansão de unidades
+terciárias não foi acompanhada do aumento simultâneo da oferta de serviços especializados e de apoio diagnóstico. Apesar dos avanços,
+Alagoas ainda apresenta problemas relacionados à capacitação profissional, falta de tecnologias para serviços complexos, falta de
+informações para decisão; dificuldades de regulação assistencial à nova demanda; desequilíbrio entre oferta e demanda de diagnóstico,
+em alguns locais.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+1.2.1Área de abrangência do projeto
+A área de abrangência do projeto engloba os 102 municípios do Estado, tendo como base a ampliação do acesso, maior eficiência e
+qualidade na cobertura e atendimento existentes para a operacionalização das linhas de cuidado  priorizadas, correspondentes ao
+enfrentamento das principais causas de morbimortalidade do estado: (i) Linha de cuidado ? Oncologia no adulto e (ii) Linha de cuidado ?
+Doença Renal Crônica (DRC) dialítica em adultos. As áreas específicas de atuação e abrangência seguem as definições e critérios do
+Sistema Único de Saúde (SUS). Além de investimentos na (iii) assistência farmacêutica, (iv) aquisição de sistema gestão hospitalar e (v)
+consultorias externas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61067
+Página: 3
+
+1.2.2Detalhamento das propostas
+(i)Linha de cuidado - Oncologia no Adulto: construção de dois CACONs estaduais
+A construção de Centros de Assistência de Alta Complexidade em Oncologia (CACON) é uma medida fundamental para melhorar a
+qualidade de vida dos pacientes oncológicos em um estado que enfrenta sérios problemas de acesso e atendimento. CACON é uma
+unidade especializada que oferece serviços de prevenção, diagnóstico, tratamento, reabilitação e cuidados paliativos para pessoas com
+câncer, integrando as ações de atenção primária, secundária e terciária. Com a estruturação dos CACONs, os pacientes oncológicos
+poderiam receber um atendimento mais rápido, eficiente e humanizado, reduzindo as filas de espera, os deslocamentos, os custos e os
+riscos de complicações. Além disso, contribuiria para o desenvolvimento científico e tecnológico na área da oncologia, capacitando
+profissionais e gerando conhecimento. Portanto, a construção é uma prioridade para garantir o direito à saúde e à dignidade dos pacientes
+ oncológicos em um estado que precisa urgentemente de mais recursos e estrutura para enfrentar essa grave doença.
+
+(ii)Linha de cuidado - Doença Renal Crônica dialítica em adultos: disponibilização de máquinas de diálise para descentralizar os serviços
+em hospitais regionais distantes da capital
+A descentralização dos serviços de diálise ambulatorial é uma medida que visa melhorar a qualidade de vida e o acesso à saúde dos
+pacientes que sofrem de insuficiência renal crônica e que moram em municípios distantes dos grandes centros. Esses pacientes precisam
+realizar o procedimento de filtração do sangue periodicamente, o que demanda tempo, custo e desgaste físico e emocional para se
+deslocarem até as unidades especializadas. Ao oferecer o serviço de diálise ambulatorial dentro da estrutura hospitalar já existente nessas
+regiões, é possível reduzir os riscos de infecção, complicações e mortalidade, além de proporcionar maior conforto, autonomia e
+dignidade aos pacientes e seus familiares.
+
+(iii)Assistência farmacêutica: implementação de Sistema de Gerenciamento da Assistência Farmacêutica e expansão do programa
+Remédio em Casa
+Um sistema de gerenciamento da assistência farmacêutica é uma ferramenta que permite otimizar os processos e recursos da assistência
+farmacêutica de um estado, garantindo a qualidade, a segurança e a eficiência na distribuição e no uso dos medicamentos. Entre as
+vantagens de implementar um sistema de gestão farmacêutica, é possível citar: (1) a melhoria do controle e do monitoramento do estoque,
+da validade e do consumo dos medicamentos, evitando desperdícios, faltas ou sobras; (2) a padronização dos critérios e dos
+procedimentos para a seleção, a aquisição, o armazenamento, a dispensação e a prescrição dos medicamentos, seguindo as diretrizes
+clínicas e as normas sanitárias vigentes; (3) a integração dos dados e das informações entre os diferentes níveis de atenção à saúde,
+facilitando o acompanhamento e a avaliação dos resultados terapêuticos e epidemiológicos; (4) a ampliação do acesso e da cobertura da
+assistência farmacêutica, especialmente para os pacientes que necessitam de medicamentos de alto custo ou de uso contínuo; (5) a
+expansão de um programa que fornece medicamento nos domicílios para os pacientes com condições crônicas de saúde, reduzindo os
+custos com transporte, as filas nas unidades de saúde ou de abandono do tratamento.
+Um sistema de gerenciamento da assistência farmacêutica é, portanto, uma estratégia que contribui para a promoção da saúde, a
+prevenção de doenças e a melhoria da qualidade de vida da população.
+
+(iv)Sistema de gestão da rede hospitalar: aquisição de sistemas e equipamentos para implementação
+Um sistema de gestão da rede hospitalar que integrará os equipamentos que compõem a rede hospitalar estadual com vistas a (1)
+melhorar a qualidade e a segurança do atendimento aos pacientes, pois os profissionais de saúde terão acesso rápido e fácil às
+informações clínicas, histórico, exames, medicamentos e alergias de cada paciente; (2) otimizar o uso dos recursos e reduzir custos, pois
+o sistema permitirá o controle e o monitoramento dos estoques, dos leitos, dos equipamentos e dos serviços prestados pelos
+estabelecimentos de saúde; (3) facilitar a gestão e a fiscalização dos hospitais, pois o sistema fornecerá dados e indicadores sobre o
+desempenho, a produtividade, a qualidade e a eficiência de cada unidade de saúde; (4) e promover a integração e a cooperação entre os
+hospitais e unidades pré-hospitalares, pois o sistema possibilitará o compartilhamento de informações, de protocolos, de boas práticas e
+de experiências entre os profissionais de saúde.
+
+(v)Consultorias externas:
+Consultorias externas são fundamentais para auxiliar um estado na determinação de ações para áreas estratégicas e para apoio
+educacional aos profissionais do âmbito da saúde. Essas consultorias podem oferecer uma visão ampla e imparcial dos problemas e das
+oportunidades que o estado enfrenta, bem como sugerir soluções baseadas em evidências e boas práticas. Além disso, as consultorias
+externas podem contribuir para o desenvolvimento de competências e habilidades dos profissionais da saúde, por meio de capacitações,
+mentorias e acompanhamentos. Dessa forma, as consultorias externas podem ajudar o estado a melhorar a qualidade e a eficiência dos
+serviços de saúde prestados à população.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61067
+Página: 4
+O Projeto está integrado às orientações estratégicas globais do Estado, repercutidas nos programas prioritários definidos no Plano
+Plurianual (PPA) 2020-2023 e 2024-2027 (em preparação), e nas respectivas Leis Orçamentárias Anuais. 
+
+Os dados apresentados no diagnóstico evidenciam que o enfrentamento dos desafios postos ao estado implica em altos e crescentes
+custos com o manejo clínico e assistencial necessários à demanda de serviços de saúde e, dada a limitação de recursos para o seu
+financiamento, esta condição impõe ao estado a necessidade de investir cada vez mais em estratégias que preveem a introdução
+processos inovativos e incorporação de tecnologias de gestão, como forma de aumentar o acesso a serviços de saúde de qualidade e
+oportunos, de forma sustentável, transparente e que favoreça a consolidação do SUS. 
+
+O Estado, portanto, tem indicado nos seus instrumentos de planejamento estadual que a principal estratégia para o setor saúde continua
+sendo a expansão gradativa do modelo provisional de serviços públicos, com a implantação de sistemas integrados baseados em redes
+de atenção à saúde, e tendo como perspectiva a racionalidade e economicidade na oferta de serviços de saúde, diante da demanda
+crescente e apesar da limitação de recursos. 
+
+Considerando a possibilidade de financiamento externo e no sentido de potencializar as ações definidas no planejamento do Estado,
+definiu-se o conjunto de intervenções no Projeto, concentrado em intervenções de apoio à organização e consolidação do SUS, tendo
+como orientações estratégicas específicas:
+
+- Ampliação do acesso às ações e serviços especializados de saúde para as linhas de cuidado priorizadas, com qualidade e de forma
+humanizada;
+
+- Reorganização das práticas e dos processos de trabalhos para melhoria da qualidade da atenção à saúde;
+
+- Desenvolvimento de tecnologias voltadas à sustentabilidade das unidades executoras das políticas de saúde, centralizadas e
+descentralizadas; e
+
+- Fortalecimento dos processos de monitoramento efetivo das ações de prevenção e controle, identificação de grupos de risco,
+reconhecimento de casos para acionar intervenções e mensuração de tendências. 
+
+2. Projeto
+2.1. Título
+Programa de investimento em saúde para o fortalecimento e consolidação da rede de atenção às doenças crônicas não transmissíveis e
+saúde digital no estado de Alagoas
+2.2. Título Abreviado
+Alagoas Sem Parar
+2.3. Mutuário
+Estado de Alagoas
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+(i) Objetivo geral:
+Melhorar a eficiência do sistema estadual de atenção à saúde no âmbito das doenças crônicas não transmissíveis, assistência
+farmacêutica e integração dos sistemas de informação estaduais.
+
+(ii) Objetivos específicos:
+Qualificar o cuidado longitudinal das condições crônicas oncológicas e de doença renal crônica com ampliação da cobertura de
+acompanhamento, estratificação de risco e monitoramento clínico-assistencial;
+
+Fortalecer a estrutura operacional de suporte da assistência farmacêutica estadual;
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61067
+Página: 5
+Implantar e consolidar sistemas integrados de prontuário clínico e gestão hospitalar em toda rede estadual pré-hospitalar e hospitalar;
+
+Fortalecer a capacidade gerencial às equipes técnicas da Secretaria Estadual de Saúde através de consultorias externas.
+
+2.6. Projeto/Indicadores
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Resposta à demanda ? Câncer: Este indicador
+mensura o nível de resposta à demanda pelos
+serviços prestados dos CACONs estaduais
+Tempo médio de
+espera para o
+paciente iniciar o
+tratamento.
+Número de dias
+90,00
+45,00
+Descentralização de atendimento de hemodiálise
+: Este indicador mensura a descentralização de
+atendimento, beneficiando a população com
+atendimentos céleres e com menor custo de
+transporte.
+Mensuração
+quantitativa de postos
+de atendimento
+descentralizados
+Nº centros de
+referência
+4,00
+8,00
+Sustentabilidade de compras farmacêuticas:
+Este indicador mensura os gastos com compras
+emergenciais devido às falhas no controle de
+estoque e planejamento de compras.
+Volume financeiro de
+compras emergenciais
+para produtos
+farmacêuticos
+% de compras
+emergenciais
+11,50
+5,00
+Abrangência do Programa Remédio em Casa:
+Este indicador visa a quantificar os usuários
+beneficiados pelo programa.
+Quantificação dos
+beneficiados pelo
+programa.
+Nº absoluto
+beneficiários
+9.000,00
+18.000,00
+2.7. Projeto/Componentes
+Componentes
+Valor(US$)
+C - ESTRUTURAÇÃO DA REDE DE ATENÇÃO ÀS DOENÇAS CRÔNICAS NÃO TRANSMISSÍVEIS COM
+ÊNFASE NA ONCOLOGIA E DOENÇA RENAL CRÔNICA 
+43.200.000,00
+   S - ESTRUTURAÇÃO FÍSICA E TECNOLÓGICA DE SERVIÇOS RELACIONADOS À ONCOLOGIA
+36.000.000,00
+      P - Estruturação de dois CACONs (Centro de Assistência de Alta Complexidade em Oncologia) estaduais
+36.000.000,00
+   S - DESCENTRALIZAÇÃO DOS SERVIÇOS DE HEMODIÁLISE AMBULATORIAL
+7.200.000,00
+P - Disponibilizar equipamentos de hemodiálise para realização do serviço ambulatorial em hospitais da rede
+estadual
+7.200.000,00
+C - FORTALECIMENTO DA ASSISTÊNCIA FARMACÊUTICA 
+2.400.000,00
+S - IMPLEMENTAÇÃO DE SISTEMA DE GERENCIAMENTO DA ASSISTÊNCIA FARMACÊUTICA E AQUISIÇÃO
+ DE EQUIPAMENTOS
+2.400.000,00
+P - Aquisição de Sistema e Equipamentos para Gerenciamento da Assistência Farmacêutica e sua manutenção
+por 5 anos
+1.800.000,00
+      P - Expansão do programa Remédio em Casa
+600.000,00
+C - AÇÕES DE EDUCAÇÃO E GESTÃO
+14.400.000,00
+   S - IMPLEMENTAÇÃO DE SISTEMA DE GESTÃO DA REDE HOSPITALAR
+12.000.000,00
+      P - Aquisição do sistema integrado e equipamentos de gestão da rede hospitalar e pré hospitalar do estado
+12.000.000,00
+   S - IMPLEMENTAÇÃO DE MEDIDAS DE CAPACITAÇÃO E MELHORIA NA TOMADA DE DECISÃO
+2.400.000,00
+      P - Transferência de conhecimento para o fortalecimento na tomada de decisões estratégicas
+2.400.000,00
+Total dos Componentes
+60.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - ESTRUTURAÇÃO DA REDE DE ATENÇÃO ÀS DOENÇAS CRÔNICAS NÃO TRANSMISSÍVEIS COM ÊNFASE NA
+ONCOLOGIA E DOENÇA RENAL CRÔNICA 
+Ações relacionadas à qualificação das doenças crônicas não transmissíveis, voltadas com maior ênfase para a oncologia e doença
+ renal crônica dialítica
+   S - ESTRUTURAÇÃO FÍSICA E TECNOLÓGICA DE SERVIÇOS RELACIONADOS À ONCOLOGIA
+Adaptação da infraestrutura existente e aquisição de equipamentos necessários para procedimentos cirúrgicos
+      P - Estruturação de dois CACONs (Centro de Assistência de Alta Complexidade em Oncologia) estaduais
+Estruturação física, através de reforma ou construção, de dois CACONs estaduais nas estruturas existes dos hospitais
+Metropolitanos, em Arapiraca e Maceió
+   S - DESCENTRALIZAÇÃO DOS SERVIÇOS DE HEMODIÁLISE AMBULATORIAL
+Distribuição de equipamentos de diálise ambulatorial em vazios assistenciais deste serviço no estado
+      P - Disponibilizar equipamentos de hemodiálise para realização do serviço ambulatorial em hospitais da rede estadual
+Realizar a disponibilização de máquinas de hemodiálise e realizar os procedimentos ambulatoriais em hospitais da rede estadual
+mais distantes dos serviços já existentes.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61067
+Página: 6
+C - FORTALECIMENTO DA ASSISTÊNCIA FARMACÊUTICA 
+Ações para melhoria da eficiência e efetividade dos processos da assistência farmacêutica estadual
+S - IMPLEMENTAÇÃO DE SISTEMA DE GERENCIAMENTO DA ASSISTÊNCIA FARMACÊUTICA E AQUISIÇÃO DE
+EQUIPAMENTOS
+Aquisição de sistema de gerenciamento da assistência farmacêutica e aquisição de equipamentos para programa Remédio em
+Casa
+P - Aquisição de Sistema e Equipamentos para Gerenciamento da Assistência Farmacêutica e sua manutenção por 5
+anos
+Aquisição e manutenção por cinco anos de sistema de gerenciamento da assistência farmacêutica, para farmácias estaduais, e
+seus equipamentos necessários para implementação
+      P - Expansão do programa Remédio em Casa
+Ampliação do programa Remédio em Casa, através da aquisição de equipamentos como capas de chuva, baús para motocicletas,
+baús refrigerados para transporte de termolábeis, capacete, roupas de identificação para os motociclistas, entre outros;
+C - AÇÕES DE EDUCAÇÃO E GESTÃO
+Ações voltadas para educação e apoio ao gerenciamento
+   S - IMPLEMENTAÇÃO DE SISTEMA DE GESTÃO DA REDE HOSPITALAR
+Aquisição e estruturação de sistema de gestão da rede hospitalar
+      P - Aquisição do sistema integrado e equipamentos de gestão da rede hospitalar e pré hospitalar do estado
+Ação destinada para aquisição de sistema de gestão da rede hospitalar e pré-hospitalar, aquisição de equipamentos, manutenção
+e reformas necessárias para estruturação
+   S - IMPLEMENTAÇÃO DE MEDIDAS DE CAPACITAÇÃO E MELHORIA NA TOMADA DE DECISÃO
+Implementação de medidas que visem a capacitação profissional e consubstanciem às áreas nas tomadas de decisão
+      P - Transferência de conhecimento para o fortalecimento na tomada de decisões estratégicas
+Investimentos em ações de educação permanente, treinamentos e consultorias para maior capacitação 
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Obras
+-
+-
+36.000.000,00
+60,00
+P- Estruturação de dois CACONs (Centro de
+Assistência de Alta Complexidade em Oncologia)
+estaduais
+Serviços de saúde
+2,00
+36.000.000,00
+60,00
+Bens
+-
+-
+21.600.000,00
+36,00
+P- Disponibilizar equipamentos de hemodiálise
+para realização do serviço ambulatorial em
+hospitais da rede estadual
+Novos hospitais c
+serviço
+3,00
+7.200.000,00
+12,00
+P- Aquisição de Sistema e Equipamentos para
+Gerenciamento da Assistência Farmacêutica e
+sua manutenção por 5 anos
+Pessoas
+beneficiadas CEAF
+70.000,00
+1.800.000,00
+3,00
+P- Expansão do programa Remédio em Casa
+Nº de beneficiários
+18.000,00
+600.000,00
+1,00
+P- Aquisição do sistema integrado e
+equipamentos de gestão da rede hospitalar e pré
+hospitalar do estado
+% hospitais com
+sistema
+100,00
+12.000.000,00
+20,00
+Capacitação e Treinamento
+-
+-
+2.400.000,00
+4,00
+P- Transferência de conhecimento para o
+fortalecimento na tomada de
+decisões estratégicas
+Aumento % de
+capacitações
+100,00
+2.400.000,00
+4,00
+Outros
+-
+-
+0,00
+0,00
+Total Geral
+-
+-
+60.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+O estado de Alagoas já tem investido em programas de tratamento de doenças cardiovasculares, que são a principal causa de morte no
+Brasil. Dois exemplos desses programas são o AVC Dá Sinais e o Bate-Coração.
+
+O programa AVC Dá Sinais visa dar celeridade ao atendimento dos pacientes com suspeita ou diagnóstico de Acidente Vascular Cerebral
+(AVC), através da disponibilização de dispositivos eletrônicos (tablets) em unidades de saúde. O paciente com suspeita de AVC, atendido
+pelo SAMU, é inserido no sistema de telemedicina (Join), encaminhado para o hospital de referência para realização de tomografia de
+crânio e a partir do exame de imagem, a equipe de telemedicina (Telestroke) direciona o paciente para realização do tratamento
+trombolítico, cirúrgico ou conservador. Após cerca de 1 ano de implantação, o programa já realizou o atendimento de mais de 3.000
+pacientes, dos quais 1.831 tiveram diagnóstico de AVC e foram realizados 238 trombólises venosas e 103 trombectomias mecânicas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61067
+Página: 7
+
+O programa Bate-Coração tem como objetivo reduzir a mortalidade por infarto agudo do miocárdio (IAM). O programa oferece um
+atendimento rápido e especializado aos pacientes que chegam às unidades de saúde com diagnóstico sugestivo, através do segmento do
+protocolo: chegada na unidade, realização da ECG, acionamento da equipe remota através da plataforma e encaminhamento para
+unidade de destino para tratamento.
+
+Além disso, já conta com estudos técnicos preliminares que substanciam a necessidade da estruturação de serviços oncológicos.
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Estadual/Sem detalhes
+Estado de Alagoas ()
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+(i) Condições Financeiras
+Moeda: USD
+Valor: USD 50 milhões 
+Taxas de Juros: SOFR + 0,95% a.a.
+Demais encargos e comissões: Taxa inicial de 0,25% do valor da operação, que é cobrada uma única vez, antes do desembolso. Além
+disso, há uma comissão de compromisso de 0,25% ao ano, cobrada sobre os valores não desembolsados e cujo período de cobrança se
+inicia 60 dias após a assinatura do acordo de empréstimo.
+Período de amortização: semestral
+Prazo de carência: 5 anos
+Prazo total: 19 anos
+É relevante destacar que as tais informações são preliminares e que as condições financeiras efetivas do empréstimo serão definidas nas
+negociações dos acordos. Tem-se ainda que as taxas mencionadas são as informadas no site do Banco Mundial no dia 29 de setembro
+de 2023. 
+Dado à agenda de transformação digital da política de estado implementada pelo Governo de Alagoas e a necessidade de melhorias
+substanciais no atendimento à saúde ao que se refere às doenças crónicas não transmissíveis que geram um volume oneroso de
+tratamentos quando há ocorrência de diagnósticos tardios, o financiamento se justifica pela urgente melhora deste serviços que possam
+trazer melhorias no bem estar social e gerar impactos econômicos expressivos, tanto nas conta públicas como na disponibilidade de renda
+ da população assistida.
+A escolha pelo Banco Internacional para Reconstrução e Desenvolvimento não se dá apenas pelas condições financeiras oferecidas
+serem mais competitivas e com menores custos que os demais órgãos financiadores, mas também pela estrutura de apoio técnico
+desempenhada em operação com grande impacto social.
+
+2.11. PROJETO/BENEFICIÁRIO
+População residente e não residente usuária dos serviços do SUS e profissionais da rede estadual de saúde. O programa estima como
+beneficiários os mais de 3 milhões de usuários ativos no Sistema Único de Saúde do Estado de Alagoas, acrescidos dos usuários
+eventuais do sistema de saúde suplementar e de outros estados do Brasil.
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Internas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Contrapartida Financeira
+CF
+US$
+10.000.000,00
+1,00
+10.000.000,00
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+BIRD
+US$
+50.000.000,00
+1,00
+50.000.000,00
+Total:
+60.000.000,00
+60.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61067
+Página: 8
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+(i) Arranjo institucional: Instituições envolvidas na implementação do programa/projeto
+Seguem as instituições que participarão da implementação/execução do projeto proposto e prestar as informações ao BIRD.
+- Secretaria de Estado da Saúde de Alagoas - SESAU
+- Procuradoria Geral do Estado - PGE
+- Agência de Modernização da Gestão de Processos - AMGESP
+
+(ii) Matriz de Responsabilidades: Anexo 2.
+
+(iii) Arranjo operacional: informar sobre a equipe técnica e a experiência das instituições do proponente para a implementação das ações
+do programa/projeto
+
+A Secretaria de Estado da Saúde de Alagoas (SESAU) é o órgão responsável pela gestão e execução das políticas de saúde pública do
+estado. Ela coordena e supervisiona as ações e os serviços de saúde, bem como os recursos financeiros destinados à área. Relacionado
+ao financiamento, a SESAU tem por responsabilidade investir em melhorias na saúde pública, como ampliação da rede de atenção,
+qualificação dos profissionais, aquisição de equipamentos e insumos, entre outros. Por fim, a secretaria é a responsável pela elaboração,
+implementação, monitoramento e avaliação do projeto de financiamento, em articulação com os demais órgãos e entidades envolvidos.
+A Procuradoria Geral do Estado (PGE) é o órgão responsável por assessorar juridicamente o governo estadual e defender os seus
+interesses em todas as esferas. No âmbito de um projeto de financiamento que será realizado pela secretaria de saúde, a PGE tem o
+papel de analisar a legalidade e a viabilidade do contrato, bem como de acompanhar a execução e a prestação de contas dos recursos
+destinados à saúde pública do estado. A PGE também pode atuar na solução de eventuais conflitos ou demandas judiciais que envolvam
+o projeto.
+A AMGESP (Agência de Modernização da Gestão de Processos) é o órgão responsável pelos processos licitatórios e de contratos do
+estado de Alagoas. Ela atua como gestora e fiscalizadora dos contratos administrativos, garantindo a legalidade, a eficiência e a
+transparência das contratações públicas. A AMGESP também auxiliará no projeto de financiamento que será realizado pela secretaria de
+saúde e que visará a aplicação de recursos na saúde pública do estado.
+
+4.2. Execução/Executores
+Executor: Governo do Estado de Alagoas
+Representante Oficial: Paulo Suruagy do Amaral Dantas
+Endereço da Sede: Palácio República dos Palmares, R. Cincinato Pinto S/N- 2º Andar ,Centro
+E-mail Institucional:
+Telefone: 8233152002
+Fax:
+CNPJ:                
+UF:
+4.3. Execução/Prazo
+Prazo de Desembolso:
+5
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - ESTRUTURAÇÃO DA REDE DE ATENÇÃO ÀS DOENÇAS CRÔNICAS NÃO
+TRANSMISSÍVEIS COM ÊNFASE NA ONCOLOGIA E DOENÇA RENAL CRÔNICA 
+43.200.000,00
+3.500.000,00
+17.500.000,00
+S - ESTRUTURAÇÃO FÍSICA E TECNOLÓGICA DE SERVIÇOS RELACIONADOS À
+ONCOLOGIA
+36.000.000,00
+3.000.000,00
+15.000.000,00
+P - Estruturação de dois CACONs (Centro de Assistência de Alta Complexidade em Oncologia)
+estaduais
+36.000.000,00
+3.000.000,00
+15.000.000,00
+   S - DESCENTRALIZAÇÃO DOS SERVIÇOS DE HEMODIÁLISE AMBULATORIAL
+7.200.000,00
+500.000,00
+2.500.000,00
+P - Disponibilizar equipamentos de hemodiálise para realização do serviço ambulatorial em
+hospitais da rede estadual
+7.200.000,00
+500.000,00
+2.500.000,00
+C - FORTALECIMENTO DA ASSISTÊNCIA FARMACÊUTICA 
+2.400.000,00
+280.000,00
+1.400.000,00
+S - IMPLEMENTAÇÃO DE SISTEMA DE GERENCIAMENTO DA ASSISTÊNCIA FARMACÊUTICA
+E AQUISIÇÃO DE EQUIPAMENTOS
+2.400.000,00
+280.000,00
+1.400.000,00
+P - Aquisição de Sistema e Equipamentos para Gerenciamento da Assistência Farmacêutica e
+sua manutenção por 5 anos
+1.800.000,00
+200.000,00
+1.000.000,00
+      P - Expansão do programa Remédio em Casa
+600.000,00
+80.000,00
+400.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61067
+Página: 9
+C - AÇÕES DE EDUCAÇÃO E GESTÃO
+14.400.000,00
+1.280.000,00
+6.400.000,00
+   S - IMPLEMENTAÇÃO DE SISTEMA DE GESTÃO DA REDE HOSPITALAR
+12.000.000,00
+1.200.000,00
+6.000.000,00
+P - Aquisição do sistema integrado e equipamentos de gestão da rede hospitalar e pré hospitalar
+do estado
+12.000.000,00
+1.200.000,00
+6.000.000,00
+S - IMPLEMENTAÇÃO DE MEDIDAS DE CAPACITAÇÃO E MELHORIA NA TOMADA DE
+DECISÃO
+2.400.000,00
+80.000,00
+400.000,00
+      P - Transferência de conhecimento para o fortalecimento na tomada de decisões estratégicas
+2.400.000,00
+80.000,00
+400.000,00
+Total
+0,00
+5.060.000,00
+25.300.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - ESTRUTURAÇÃO DA REDE DE ATENÇÃO ÀS DOENÇAS CRÔNICAS NÃO
+TRANSMISSÍVEIS COM ÊNFASE NA ONCOLOGIA E DOENÇA RENAL CRÔNICA 
+2.400.000,00
+12.000.000,00
+S - ESTRUTURAÇÃO FÍSICA E TECNOLÓGICA DE SERVIÇOS RELACIONADOS À
+ONCOLOGIA
+2.000.000,00
+10.000.000,00
+P - Estruturação de dois CACONs (Centro de Assistência de Alta Complexidade em Oncologia)
+estaduais
+2.000.000,00
+10.000.000,00
+   S - DESCENTRALIZAÇÃO DOS SERVIÇOS DE HEMODIÁLISE AMBULATORIAL
+400.000,00
+2.000.000,00
+P - Disponibilizar equipamentos de hemodiálise para realização do serviço ambulatorial em
+hospitais da rede estadual
+400.000,00
+2.000.000,00
+C - FORTALECIMENTO DA ASSISTÊNCIA FARMACÊUTICA 
+30.000,00
+150.000,00
+S - IMPLEMENTAÇÃO DE SISTEMA DE GERENCIAMENTO DA ASSISTÊNCIA FARMACÊUTICA
+E AQUISIÇÃO DE EQUIPAMENTOS
+30.000,00
+150.000,00
+P - Aquisição de Sistema e Equipamentos para Gerenciamento da Assistência Farmacêutica e
+sua manutenção por 5 anos
+25.000,00
+125.000,00
+      P - Expansão do programa Remédio em Casa
+5.000,00
+25.000,00
+C - AÇÕES DE EDUCAÇÃO E GESTÃO
+280.000,00
+1.400.000,00
+   S - IMPLEMENTAÇÃO DE SISTEMA DE GESTÃO DA REDE HOSPITALAR
+200.000,00
+1.000.000,00
+P - Aquisição do sistema integrado e equipamentos de gestão da rede hospitalar e pré hospitalar
+do estado
+200.000,00
+1.000.000,00
+S - IMPLEMENTAÇÃO DE MEDIDAS DE CAPACITAÇÃO E MELHORIA NA TOMADA DE
+DECISÃO
+80.000,00
+400.000,00
+      P - Transferência de conhecimento para o fortalecimento na tomada de decisões estratégicas
+80.000,00
+400.000,00
+Total
+0,00
+2.710.000,00
+13.550.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - ESTRUTURAÇÃO DA REDE DE ATENÇÃO ÀS DOENÇAS CRÔNICAS NÃO
+TRANSMISSÍVEIS COM ÊNFASE NA ONCOLOGIA E DOENÇA RENAL CRÔNICA 
+500.000,00
+2.500.000,00
+S - ESTRUTURAÇÃO FÍSICA E TECNOLÓGICA DE SERVIÇOS RELACIONADOS À
+ONCOLOGIA
+400.000,00
+2.000.000,00
+P - Estruturação de dois CACONs (Centro de Assistência de Alta Complexidade em Oncologia)
+estaduais
+400.000,00
+2.000.000,00
+   S - DESCENTRALIZAÇÃO DOS SERVIÇOS DE HEMODIÁLISE AMBULATORIAL
+100.000,00
+500.000,00
+P - Disponibilizar equipamentos de hemodiálise para realização do serviço ambulatorial em
+hospitais da rede estadual
+100.000,00
+500.000,00
+C - FORTALECIMENTO DA ASSISTÊNCIA FARMACÊUTICA 
+30.000,00
+150.000,00
+S - IMPLEMENTAÇÃO DE SISTEMA DE GERENCIAMENTO DA ASSISTÊNCIA FARMACÊUTICA
+E AQUISIÇÃO DE EQUIPAMENTOS
+30.000,00
+150.000,00
+P - Aquisição de Sistema e Equipamentos para Gerenciamento da Assistência Farmacêutica e
+sua manutenção por 5 anos
+25.000,00
+125.000,00
+      P - Expansão do programa Remédio em Casa
+5.000,00
+25.000,00
+C - AÇÕES DE EDUCAÇÃO E GESTÃO
+280.000,00
+1.400.000,00
+   S - IMPLEMENTAÇÃO DE SISTEMA DE GESTÃO DA REDE HOSPITALAR
+200.000,00
+1.000.000,00
+P - Aquisição do sistema integrado e equipamentos de gestão da rede hospitalar e pré hospitalar
+do estado
+200.000,00
+1.000.000,00
+S - IMPLEMENTAÇÃO DE MEDIDAS DE CAPACITAÇÃO E MELHORIA NA TOMADA DE
+DECISÃO
+80.000,00
+400.000,00
+      P - Transferência de conhecimento para o fortalecimento na tomada de decisões estratégicas
+80.000,00
+400.000,00
+Total
+0,00
+810.000,00
+4.050.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - ESTRUTURAÇÃO DA REDE DE ATENÇÃO ÀS DOENÇAS CRÔNICAS NÃO
+TRANSMISSÍVEIS COM ÊNFASE NA ONCOLOGIA E DOENÇA RENAL CRÔNICA 
+500.000,00
+2.500.000,00
+S - ESTRUTURAÇÃO FÍSICA E TECNOLÓGICA DE SERVIÇOS RELACIONADOS À
+ONCOLOGIA
+400.000,00
+2.000.000,00
+P - Estruturação de dois CACONs (Centro de Assistência de Alta Complexidade em Oncologia)
+estaduais
+400.000,00
+2.000.000,00
+   S - DESCENTRALIZAÇÃO DOS SERVIÇOS DE HEMODIÁLISE AMBULATORIAL
+100.000,00
+500.000,00
+P - Disponibilizar equipamentos de hemodiálise para realização do serviço ambulatorial em
+hospitais da rede estadual
+100.000,00
+500.000,00
+C - FORTALECIMENTO DA ASSISTÊNCIA FARMACÊUTICA 
+30.000,00
+150.000,00
+S - IMPLEMENTAÇÃO DE SISTEMA DE GERENCIAMENTO DA ASSISTÊNCIA FARMACÊUTICA
+E AQUISIÇÃO DE EQUIPAMENTOS
+30.000,00
+150.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61067
+Página: 10
+P - Aquisição de Sistema e Equipamentos para Gerenciamento da Assistência Farmacêutica e
+sua manutenção por 5 anos
+25.000,00
+125.000,00
+      P - Expansão do programa Remédio em Casa
+5.000,00
+25.000,00
+C - AÇÕES DE EDUCAÇÃO E GESTÃO
+280.000,00
+1.400.000,00
+   S - IMPLEMENTAÇÃO DE SISTEMA DE GESTÃO DA REDE HOSPITALAR
+200.000,00
+1.000.000,00
+P - Aquisição do sistema integrado e equipamentos de gestão da rede hospitalar e pré hospitalar
+do estado
+200.000,00
+1.000.000,00
+S - IMPLEMENTAÇÃO DE MEDIDAS DE CAPACITAÇÃO E MELHORIA NA TOMADA DE
+DECISÃO
+80.000,00
+400.000,00
+      P - Transferência de conhecimento para o fortalecimento na tomada de decisões estratégicas
+80.000,00
+400.000,00
+Total
+0,00
+810.000,00
+4.050.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - ESTRUTURAÇÃO DA REDE DE ATENÇÃO ÀS DOENÇAS CRÔNICAS NÃO
+TRANSMISSÍVEIS COM ÊNFASE NA ONCOLOGIA E DOENÇA RENAL CRÔNICA 
+300.000,00
+1.500.000,00
+7.200.000,00
+36.000.000,00
+S - ESTRUTURAÇÃO FÍSICA E TECNOLÓGICA DE SERVIÇOS RELACIONADOS À
+ONCOLOGIA
+200.000,00
+1.000.000,00
+6.000.000,00
+30.000.000,00
+P - Estruturação de dois CACONs (Centro de Assistência de Alta Complexidade em Oncologia)
+estaduais
+200.000,00
+1.000.000,00
+6.000.000,00
+30.000.000,00
+   S - DESCENTRALIZAÇÃO DOS SERVIÇOS DE HEMODIÁLISE AMBULATORIAL
+100.000,00
+500.000,00
+1.200.000,00
+6.000.000,00
+P - Disponibilizar equipamentos de hemodiálise para realização do serviço ambulatorial em
+hospitais da rede estadual
+100.000,00
+500.000,00
+1.200.000,00
+6.000.000,00
+C - FORTALECIMENTO DA ASSISTÊNCIA FARMACÊUTICA 
+30.000,00
+150.000,00
+400.000,00
+2.000.000,00
+S - IMPLEMENTAÇÃO DE SISTEMA DE GERENCIAMENTO DA ASSISTÊNCIA FARMACÊUTICA
+E AQUISIÇÃO DE EQUIPAMENTOS
+30.000,00
+150.000,00
+400.000,00
+2.000.000,00
+P - Aquisição de Sistema e Equipamentos para Gerenciamento da Assistência Farmacêutica e
+sua manutenção por 5 anos
+25.000,00
+125.000,00
+300.000,00
+1.500.000,00
+      P - Expansão do programa Remédio em Casa
+5.000,00
+25.000,00
+100.000,00
+500.000,00
+C - AÇÕES DE EDUCAÇÃO E GESTÃO
+280.000,00
+1.400.000,00
+2.400.000,00
+12.000.000,00
+   S - IMPLEMENTAÇÃO DE SISTEMA DE GESTÃO DA REDE HOSPITALAR
+200.000,00
+1.000.000,00
+2.000.000,00
+10.000.000,00
+P - Aquisição do sistema integrado e equipamentos de gestão da rede hospitalar e pré hospitalar
+do estado
+200.000,00
+1.000.000,00
+2.000.000,00
+10.000.000,00
+S - IMPLEMENTAÇÃO DE MEDIDAS DE CAPACITAÇÃO E MELHORIA NA TOMADA DE
+DECISÃO
+80.000,00
+400.000,00
+400.000,00
+2.000.000,00
+      P - Transferência de conhecimento para o fortalecimento na tomada de decisões estratégicas
+80.000,00
+400.000,00
+400.000,00
+2.000.000,00
+Total
+60.000.000,00
+610.000,00
+3.050.000,00
+10.000.000,00
+50.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+Nesse projeto setorial de abordagem assistencial, com base em políticas públicas consolidadas da saúde (SUS), não estão previstos ônus
+resultantes das intervenções previstas que possam afetar negativamente as instituições e órgãos participantes, nem a saúde, a
+segurança e o bem-estar da população alvo. Os atos que estejam diretamente ou indiretamente associados às ações do Projeto
+obedecerão aos ritos legais e administrativos previstos no planejamento estratégico do Governo e compatibilizados com as diretrizes das
+políticas e programas públicos de saúde apoiados. 
+
+As atividades de assistência técnica do Projeto seguirão as diretrizes de aquisição e seleção de consultoria do Banco Mundial. As demais
+intervenções seguirão as diretrizes da Lei Federal 8.666/1993 e atualizações, em concordância com o Banco Mundial.  Atos legais
+complementares serão publicados oportunamente abrangendo a Lei Autorizativa do Projeto, Decreto de criação da Unidade de
+Gerenciamento do Projeto e previsão do Projeto nos instrumentos governamentais de planejamento (PPA, LDO e LOA).
+5.2. RISCOS/CONTRATAÇÕES
+O Projeto prevê uma grande quantidade de contratações durante a sua implementação abrangendo a aquisição de bens, contratação de
+serviços, obras e consultorias. Para isso, contará com uma equipe com experiência em licitações com regramento internacional adquirida
+ao longo da implementação de Projetos semelhantes. Para sanar as dificuldades que possam ser geradas pela quantidade de órgãos
+envolvidos, seja no âmbito das aquisições, seja no âmbito das salvaguardas sociais e ambientais, o Estado irá centralizar suas licitações
+na UGP que estará implantada na SEFAZ, sendo formada uma equipe exclusivamente para este fim.
+Serão atendidos todos os requisitos legais vigentes, incluindo o cumprimento do Plano Plurianual (PPA), Lei de Diretrizes Orçamentárias (
+LDO), Lei Orçamentária Anual (LOA), Lei de Responsabilidade Fiscal (LRF), bem como toda a legislação administrativa, financeira e fiscal
+suplementar. Será necessária uma Lei Autorizativa do Estado para o programa e um Decreto Regulamentador, cujas tramitações serão
+iniciadas assim que a carta consulta for aprovada. 
+Além disso, serão formalizados instrumentos específicos para as intervenções a serem desenvolvidas no âmbito do Projeto, como a
+celebração de contratos administrativos, termos de outorgas, convênios ou instrumentos congêneres, de acordo com a legislação vigente,
+que determinará as particularidades e requisitos a serem atendidos em cada ocasião.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61067
+Página: 11
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+Pela natureza das ações previstas no escopo do Projeto não há previsão de prejuízos ambientais provocados diretamente pela execução
+de suas intervenções. Considerando a necessidade de execução de reformas e/ou ampliações de espaços físicos no decorrer do Projeto,
+identificam-se riscos baixos no processo de execução das obras, bem como no descarte do material delas decorrentes. Entretanto, será
+discutida e acordada com o Banco Mundial a matriz de acompanhamento, antecipação e mitigação de tais riscos durante a preparação do
+Projeto.
+Ademais, o Estado de Alagoas se compromete em seguir as determinações da legislação ambiental definidas tanto na esfera nacional
+como estadual e, ainda, respeitar as recomendações do Quadro Ambiental e Social do Banco Mundial. Em momento oportuno, antes de
+declarada a efetividade do Projeto, por determinação do já citado Quadro Ambiental e Social do agente financiador do Projeto, será
+elaborado o documento específico de Salvaguardas Ambientais onde estarão esclarecidas as etapas de execução das intervenções e os
+compromissos do Estado para evitar, minimizar e mitigar possíveis impactos ambientais negativos.
+
+5.5. RISCOS/IMPACTO SOCIAL
+A observação do escopo do projeto evidencia que nenhuma intervenção impactará negativamente sob quaisquer aspectos grupos sociais
+fragilizados, como as populações indígenas, os quilombolas ou comunidades tradicionais. Porém, esses grupos populacionais, assim
+como outras categorias sociais como idosos e mulheres, comporão o rol de beneficiários diretos e indiretos das ações do Projeto. Mesmo
+diante dessa perspectiva, em momento oportuno, antes de declarada a efetividade do Projeto, em conformidade com o Quadro Ambiental
+e Social do Banco Mundial, será elaborado o documento de avaliação social do Projeto, no qual serão descritos os detalhes de
+implementação das intervenções e como cada uma delas impactará as categorias ou grupos sociais identificados. Se for identificado risco
+de impacto social negativo será apontado no documento os compromissos do Estado para a prevenção, mitigação ou compensação em
+cada uma das situações identificadas.
+5.6. RISCOS/REASSENTAMENTOS
+Tendo por base as intervenções propostas no escopo do Projeto, não estão previstos reassentamentos.
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 

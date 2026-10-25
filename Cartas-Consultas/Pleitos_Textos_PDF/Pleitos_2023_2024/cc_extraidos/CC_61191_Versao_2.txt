@@ -1,0 +1,2245 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Programa de Financiamento à Sustentabilidade e às Micro e Pequenas Empresas do
+Estado de Minas Gerais
+Nº Carta Consulta: 61191
+Processo: 03101.002085/2024-04
+Mutuário: Banco de Desenvolvimento de Minas Gerais S/A - BDMG
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  9 de Julho de 2024
+Fontes Externas:
+Banco Europeu de Investimento - BEI: ? 150.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+04
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 05
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 05
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 05
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 05
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 05
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 10
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 11
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 18
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 21
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 21
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 25
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 26
+3. FINANCIAMENTO .......................................................................................................................................................................................... 26
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 26
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 26
+4. EXECUÇÃO ...................................................................................................................................................................................................
+26
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 26
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 27
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 27
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 28
+5. RISCOS .......................................................................................................................................................................................................... 29
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 29
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 29
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 31
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 31
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 32
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 33
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+33
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+Os efeitos das mudanças climáticas ocorrem de forma desigual no mundo, especialmente em locais de maior vulnerabilidade
+socioeconômica e ambiental, principalmente nos países em desenvolvimento, como o Brasil. Minas Gerais experimenta um agravamento
+desafiador das condições socioambientais devido às mudanças climáticas, caracterizadas pelo aumento exponencial de eventos graves,
+como secas no Norte e Nordeste e inundações por chuvas torrenciais nas áreas de maior concentração urbana. Os eventos de ondas de
+calor, enchentes, deslizamentos de terra, escassez hídrica e de alimentos envolvem relevantes consequências econômicas e
+socioambientais (PBMC, 2016).
+
+Além das vulnerabilidades climáticas, MG possui disparidades em seu desenvolvimento socioeconômico, com áreas dinâmicas e
+adensamentos populacionais desorganizados, gargalos logísticos e desafios na infraestrutura urbana e sanitária. Além dos desafios e
+vulnerabilidades socioambientais, reconhecem-se oportunidades devido à: (i) grande incidência solar; (ii) diversidade de biomas; (iii)
+disponibilidade de recursos hídricos, minerais e terras raras para a transição energética; (iv) mercado consumidor relevante; e (v)
+localização geográfica privilegiada próximo aos centros dinâmicos do Brasil.
+
+Minas Gerais possui grande heterogeneidade estrutural, o que torna desafiador o equacionamento dos gargalos de desenvolvimento,
+sendo o BDMG fundamental no fomento a tais áreas. Em 2023, o BDMG atendeu 5.108 empresas e prefeituras provenientes de 613
+municípios, sendo 84% com IDH inferior à média brasileira (0,728). Os desembolsos do BDMG em regiões mais vulneráveis do estado,
+como o Jequitinhonha e Norte, tiveram um aumento superior a 100% entre 2021 e 2023, em parte em projetos de energia fotovoltaica,
+contribuindo na geração de energia renovável. No Brasil, Minas Gerais é o 4º na lista do IDHM no país (0,774) em 2021.
+
+Estimativa indica a necessidade de investimentos em infraestrutura no valor de USD 150 bilhões por ano na América Latina (BID, 2018),
+sendo urgente o financiamento de projetos de infraestrutura urbana sustentável, saneamento e acesso à água, geração de energia
+renovável e eficiência energética, como a iluminação pública por placas de LED.
+
+Os impactos climáticos acentuam as desigualdades socioeconômicas ocorrendo com maior frequência e intensidade com municípios
+menor infraestrutura urbana de drenagem, esgotamento e cobertura vegetal, além de se localizarem em regiões de seca e escassez
+hídrica (Norte e Nordeste) ou de fortes chuvas (Região Metropolitana da capital e Zona da Mata). Em 2022, temporais assolaram 415 dos
+853 municípios mineiros (48,7%), que entraram em estado de calamidade pública (Defesa Civil MG, 2022), e deste total 93,5%
+apresentam IDH abaixo da média nacional, deixando mais de 90 mil pessoas desabrigadas e prejuízos financeiros nos setores público e
+privado acima de R$1,3 bilhão.
+
+Os municípios de MG, principalmente de baixo IDH, necessitam de recursos para geração de energia renovável, em especial a fotovoltaica
+, haja vista o potencial de incidência solar nas regiões Norte e Nordeste. Assim, frente aos efeitos climáticos no estado, a oferta de
+financiamento pelo BDMG nesse setor é crucial para atender às metas de descarbonização, proteção ambiental e melhoria do IDH local.
+No Brasil, entre 2013 e 2017, 48,6% dos municípios foram impactados por secas, enxurradas, erosão e deslizamentos (IBGE, 2018). A
+tragédia no Rio Grande do Sul em 2024 reforça a urgência do financiamento climático. A Defesa Civil do RS, em junho de 2024, apontou
+que 96% dos municípios do RS e quase 2,4 milhões de pessoas foram atingidos pelas enchentes.
+
+As mudanças climáticas afetam grupos sociais de forma diferenciada, agravando a desigualdade social e de gênero. Pessoas que vivem
+em contextos de maior vulnerabilidade climática possuem probabilidade 15 vezes maior de mortalidade devido a enchentes, secas e
+tempestades do que as que vivem em regiões de baixo impacto\ (IPCC Report, 2022). Assim, o acesso escasso ao crédito favorável para
+as micro e pequenas empresas em situação de vulnerabilidade climática, em regiões de menor desenvolvimento regional e que não
+favoreçam à igualdade de gênero, reduz o desenvolvimento econômico, a capacidade de recuperação pós desastres e a manutenção de
+empregos e renda locais.
+
+Acrescenta-se o crescimento exponencial do mercado de placas solares, usinas eólicas, inteligência artifical, robótica e baterias elétricas
+para veículos, que demandam minerais críticos para as transições energética e digital. O Brasil, em especial, MG, insere-se nesse novo
+mercado ao apresentar relevantes depósitos, com nióbio, lítio, manganês, cobre, níquel, grafite e terras raras. O fomento à exploração
+mineral sustentável e alinhado às tecnologias de transição é crucial na redução das desigualdades socioeconômicas, eficiência do uso de
+recursos e adoção de energias renováveis nas atividades econômicas.
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+As ações evidenciadas a partir da identificação dos desafios em Minas Gerais consistem no desenvolvimento de um Programa de
+atendimento ao desenvolvimento sustentável e inclusivo em MG, pelo direcionamento de financiamentos do BDMG a projetos de transição
+energética para setores público e privado, redução das emissões de GEE, mineração verde, para as transições energética e digital e
+crédito para MPEs lideradas por mulheres e em municípios de baixo IDH.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 3
+Propõe-se soluções em 3 eixos: (i) expansão da carteira de projetos de energia renovável, eficiência energética e infraestrutura urbana
+sustentável; (ii) desenvolvimento de uma carteira para a mineração verde e cadeias de fornecimento de minerais para as transições
+energéticas e digital, com destaque para os minerais estratégicos em MG: nióbio, manganês, grafite e lítio; e (iii) fomento a MPEs, com
+ênfase nas áreas de vulnerabilidade climática, de baixo IDH e empresas lideradas por mulheres. 
+
+O inventário de emissões GEE de MG (2022) indica que as principais emissões são nas áreas de energia (26%), agricultura, florestas e
+usos do solo (51%), processos industriais, que inclui beneficiamento minerário (18%), e resíduos (5%). Estudo da WTW (2021) identificou
+as regiões Norte e Nordeste de MG como as mais vulneráveis às mudanças climáticas, devido às secas, direcionando o Programa a
+atender tais áreas vulneráveis.
+
+O alcance dos resultados propostos envolve a adoção de melhorias internas no BDMG e a expansão das linhas dedicadas à energia
+renovável, eficiência energética e crédito para MPEs, inicialmente realizadas em parceria com o BEI entre 2019-2023. Isso permitiu ao
+Banco a adoção de melhores práticas no financiamento à descarbonização e geração de energia renovável em sua carteira. Em especial,
+as linhas de crédito às MPEs foram criadas durante a pandemia do COVID-19, garantindo capital de giro frente a crise econômica e
+sanitária.
+
+Com a parceria BEI foram concluídos os desembolsos de EUR 120 milhões (aprox. R$ 720 milhões). Somente em 2023 foram R$ 310,1
+milhões em projetos de usinas fotovoltaicas, centrais de geração hidrelétrica, usinas de biomassa e iluminação pública eficiente. Em 2024,
+a parceria recebeu o prêmio ALIDE-VERDE por apresentar melhores práticas e produtos para a ação climática.
+O Programa alinha-se às práticas exigidas pelo Banco Central e Conselho Monetário Nacional (Res. CMN 4.943/2021), a fortalecer o
+gerenciamento dos riscos financeiros em atenção aos socioambientais e climáticos, já que as linhas envolvem a ação climática.
+
+O desenvolvimento socioambiental tem crescente importância e é amplamente ressaltados nos Objetivos de Desenvolvimento Sustentável
+(ODS), sendo que o BDMG é uma das primeiras instituições financeiras que direciona seus financiamentos conforme a categorização dos
+ ODS.
+
+Em 2020, o BDMG publicou seu Framework para a emissão de Títulos Sustentáveis, com enquadramento para projetos Ambientais e
+Sociais, com indicadores de impacto conforme os ODS. No Programa, o BDMG buscará alinhar os financiamentos concedidos aos ODS e
+classificar os projetos conforme os impactos socioambientais e climáticos.
+
+São vantagens do Programa: (i) alavancagem de benefícios climáticos e sociais via engajamento dos sub-mutuários; (ii) promoção da
+sinergia de atuação do BDMG e estado de MG; (iii) aprimoramento do BDMG no fortalecimento da governança, aumento de capacidade
+operacional dos sistemas fiduciários, gestão de risco e cumprimento das salvaguardas socioambientais; (iv) caráter inovativo no
+financiamento de novas tecnologias.
+
+São adicionalidades do Programa: (1) aumento dos investimentos em transição energética e desenvolvimento sustentável em MG; (2)
+impacto positivo sobre a população pela melhoria de IDH dos municípios financiados; (3) aumento do emprego e redução das
+vulnerabilidades socioambientais e de gênero; (4) melhorias em indicadores ambientais, como tCO2/ano de emissões evitadas e emissões
+ de GGE financiadas; (5) aumento de renda média via empregos qualificados.
+
+Em 2023, o desembolso total do BDMG para investimentos verdes, como energia renovável e eficiência energética, saneamento e
+agricultura sustentável foi de R$ 437,7 milhões, com destaque para energias renováveis (R$ 328,8 milhões). Os impactos foram de 7.982
+tCO2/ano de emissões de GEE evitadas, equivalente ao consumo de mais de 600 viagens aéreas entre RJ-SP, ida e volta. De 2019 a
+2023, gerou-se 163 GWh/ano, igual ao consumo de energia elétrica anual de 54 mil casas com 4 pessoas.
+
+As prefeituras têm investido em projetos de eficiência energética, com ganhos ambientais na redução das emissões de GEE e implantação
+de iluminação por LED, mais econômicas e seguras. Em 2023, com o apoio do BDMG, 48 cidades de MG investiram R$ 47,2 milhões. Os
+desembolsos sociais e MPEs em 2023 foram de R$ 621 milhões e nas linhas de empreendedorismo feminino, o BDMG contribuiu na
+manutenção de quase 4 mil empregos em 215 cidades de MG, atendendo a 911 empreendedoras.
+
+Quanto a sustentabilidade financeira, a meta do BDMG é ampliar sua carteira em 90% até 2028, alcançando R$ 11,9 bilhões e aumentar a
+ eficiência na gestão de ativos e fluxos financeiros.
+
+O Programa, por se tratar de expansão de linhas sustentáveis e de MPE da parceria com o BEI desde 2019, tem equipe e conhecimento
+necessário a executá-lo, permitindo a manutenção das linhas após o desembolso. A experiência do BDMG no setor minerário indica
+baixos custos de implementação e monitoramento.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 4
+
+No cenário pós-Programa, estima-se que custos de capacitação e operacionalização sejam baixos, pois o Banco trabalha de forma
+contínua com o BEI. Quanto ao custo de gestão da carteira, as linhas verdes e para MPEs devem ter taxa de expansão superior às linhas
+não verdes do BDMG. No médio prazo, espera-se crescimento da participação do BDMG no financiamento climático e ampliação do
+percentual da carteira vinculado aos ODS, maior atendimento às metas de igualdade de gênero e redução das vulnerabilidades.
+
+Quanto à sustentabilidade financeira do programa, em relação aos seus custos envolvidos ao longo da execução após o periodo de
+desembolso, afirma-se que estão incorporados nos valores dos produtos, o que envolve custos de captação e administração do crédito,
+perda esperada, inadimplência e margem da operação (vide exemplo de custos em linha de crédito do BDMG no Anexo 16).
+
+Quanto a continuidade do Programa e das linhas de crédito, o BDMG se utilizará de novas operações do BEI, cuja parceria é contínua
+desde 2019, e de demais captações externas com outros bancos multilaterais que atuam no Brasil.
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+(i) Orientações estratégicas
+O BDMG é um banco público que busca diversificar a economia regional e promover o desenvolvimento socioeconômico de MG,
+atendendo 776 das 853 prefeituras (91%), principalmente em regiões vulneráveis. Recentemente o BDMG redirecionou sua estratégia de
+captações para a diversificação e redução de riscos de mercado, para além das operações de repasse do BNDES, tendo como solução as
+ operações de crédito com multilaterais, permitindo variedade, controle de performance (covenants) e foco em impacto.
+
+Em valores a mercado, em 31/12/2023 o BDMG contabilizou R$ 1,5 bilhão de empréstimos no exterior com BEI, CAF, BID INVEST, AFD e
+ FONPLATA, sendo o estoque de captações externas de 44,8% do total captado (4T/2023).
+
+Operações externas são reconhecidas nas políticas do BDMG como funding de longo prazo, aderentes à atuação do Banco e provendo
+melhor gestão ALM. O BDMG estimou volume de captações externas adicionais de R$ 3,2 bilhões entre 2024-2028, considerando
+potenciais operações com e sem garantia soberana, a atender o crescimento projetado da carteira de crédito, junto a fontes internas e
+repasses nacionais, conforme Plano Estratégico (Anexo 1). Estima-se desembolso de R$ 1,7 bilhão para a linha BDMG
+SUSTENTABILIDADE entre 2024-2028 e aumento de 188% de crescimento no período.
+
+Esse contexto se reflete na Política de Responsabilidade Social, Ambiental e Climática do BDMG (PRSAC), priorizando financiamentos a
+projetos com externalidades positivas. O BDMG desenvolveu ferramentas de suporte as ações climáticas, como Impact Score,
+Calculadora de GEE, Pegada de Carbono e Mapa de Calor (HeatMapR) para Riscos Climáticos Físicos e de Transição.
+
+É objetivo institucional do BDMG, como agente de desenvolvimento da ação climática em MG, a redução das emissões de GEE e das
+desigualdades regionais e sociais. A estratégia do Banco alinha-se, no nível estadual, ao Programa Rota de Descarbonização de MG, ao
+Plano Estadual de Ação Climática (PLAC-MG) e ao Plano de Energia e Mudanças Climáticas (PEMC) para 2020-2030 e, no nível federal,
+colabora com as metas da Contribuição Nacionalmente Determinada do Brasil no Acordo de Paris. No nível global, adequa-se ao Race to
+Zero, em que há a adesão do estado de MG.
+
+A parceria com o BEI está em sintonia com a estratégia do BDMG de diversificação de funding e com a nova fronteira de operações com
+garantia da União, aberta pelo Programa BDMG INFRA ODS, aprovado pela COFIEX em setembro/2022 e Programa BDMG PBR,
+aprovado em dezembro/2023.
+
+A captação externa com o BEI consta do orçamento do BDMG a sustentar projetos elegíveis previstos no Plano Estratégico, com várias
+vantagens operacionais: custo de captação mais acessível, flexibilidade, elegibilidade multissetorial, agilidade e suporte.
+
+(ii) Contrapartida
+Devido a natureza da operação e da constituição do BDMG, não há previsão de contrapartida.
+
+(iii) Taxa de câmbio
+A moeda do financiamento pleiteado é Euro (EUR). Em 27/07/2024, EUR 1,00 = R$ 5,914.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 5
+2. Projeto
+2.1. Título
+Programa de Financiamento à Sustentabilidade e às Micro e Pequenas Empresas do Estado de Minas Gerais
+2.2. Título Abreviado
+BDMG SUSTENTABILIDADE E MPE
+2.3. Mutuário
+Banco de Desenvolvimento de Minas Gerais S/A - BDMG
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+O objetivo geral do Programa de Financiamento à Sustentabilidade e às Micro e Pequenas Empresas do Estado de Minas Gerais consiste
+em financiar propostas transformadoras que promovam externalidades sociais, ambientais e climáticas positivas, alinhadas com as
+diretrizes mapeadas pela Agenda 2030 da ONU, por meio de financiamento a projetos dos setores público e privado vinculados à energia
+e infraestrutura urbana sustentável, mineração para as transições energética e digital, o  fortalecimento das micro e pequenas empresas (
+MPEs) localizadas em municípios vulneráveis e IDH abaixo da média brasileira em Minas Gerais e MPEs lideradas por mulheres.
+
+De maneira específica, o Programa possui três vertentes principais.
+
+A primeira vertente atua na energia renovável, eficiência energética e infraestrutura urbana sustentável. 
+
+Nesse eixo, o programa destina-se a dar continuidade à parceria existente entre o BDMG e o BEI nos empréstimos destinados à energia
+renovável e eficiência energética desde 2019, com parte dos recursos flexibilizados para direcionamento às MPEs em 2020 para mitigar
+os efeitos da pandemia da Covid-19. Em termos de desembolso, entre 2020 e 2023, o BDMG desembolsou empréstimos do BEI no
+montante de EUR 120 milhões. Tais recursos se concentraram, em sua maioria nessa temática, atendendo aos ODS, os indicadores de
+sustentabilidade e de ação climática, bem como atingindo populações de baixo IDH no estado, uma vez que as áreas de maior incidência
+solar, propícias para projetos fotovoltaicos, concentram-se nas regiões Norte e Nordeste, que se caracterizam por maior vulnerabilidade
+social e ambiental. 
+
+Acresce-se que esse eixo também contempla novas tecnologias renováveis, como a destinação de crédito para projetos de hidrogênio
+verde e cadeias de produção envolvidas nessa tecnologia. Historicamente, os recursos do BEI foram utilizados também para pequenas
+Centrais Geradoras Hidreletricas (CGHs) e projeto de geração de energia a partir da Biomassa da Cana-de-Açúcar.
+
+Por fim, ainda nesse grupo, encontram-se recursos destinados à infraestrutura básica dos municípios, tais como investimentos em acesso
+à água, esgotamento sanitário, tratamento adequado e disposição final de resíduos sólidos urbanos (RSU), permitindo tanto o setor
+privado (concessionárias e permissionárias de serviços de saneamento e RSU), quanto o setor público (prefeituras em MG), via acesso a
+editais do BDMG para licitação e contratação, teriam acesso ao Programa. Assim, esse eixo é essencial a proporcionar infraestrutura
+básica aos cidadãos e empresas localizadas nem MG, com melhor qualidade de vida e incremento à atividade produtiva local.
+
+Cidades nas regiões Norte, Noroeste, Jequitinhonha e Vale do Mucuri possuem baixa cobertura de Saneamento Básico, demandando
+investimentos nessa área, pois apenas 48,90% da população urbana possui o tratamento de seu efluente e 72% possuem destinação
+adequada de RSU. Dentre os 853 municípios mineiros, apenas 469 destinam seus RSU em aterros sanitários, 76 em aterros sem licença
+ambiental e 308 ainda usam lixões (Governo de Minas, 2021). Há uma deficiência de drenagem em várias cidades, o que provoca
+inundações, riscos à população, perdas e danos à infraestrutura.
+
+Em 2023, 53 municípios, sendo 91% com o IDH abaixo da média brasileira, realizaram projetos de saneamento via BDMG. Foram 34
+projetos de esgotamento sanitário, dez de resíduos sólidos urbanos, sete de abastecimento de água e três relacionados ao plano
+municipal de saneamento básico. No total, o BDMG desembolsou R$ 50,4 milhões para saneamento em 2023, sendo 60% dos recursos
+alocados em projetos na região do Rio Doce, atingida pelo rompimento da barragem de rejeitos minerários no município de Mariana, em
+2015.
+
+
+
+Na vertente de energia renovável, eficiência energética e infraestrutura urbana sustentável, propõe-se os seguintes objetivos específicos,
+alinhados aos indicadores:
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 6
+
+- desenvolver projetos de energia renovável e eficiência energética, primando pela redução/neutralidade das emissões de CO2 e geração
+de energia limpa.
+
+Indicador 1: Percentual de projetos dos setores público e privado de energia e de infraestrutura urbana sustentável financiado pelo
+Programa vinculados aos ODS.
+Indicador 2. Energia limpa gerada pelos projetos apoiados pelo Programa.
+Indicador 3. Emissões de CO2 evitadas pelos projetos apoiados pelo Programa.
+Indicador 4. Número de empregos suportados/apoiados pelo Programa.
+
+- financiar projetos de infraestrutura sustentável, como tratamento de resíduos sólidos, acesso à água, saneamento e infraestrutura social
+e urbana, que contribuam/incentivem com a participação do setor privado.
+
+- promover infraestrutura para população de baixa renda e vulneráveis com melhoria das condições de saúde pública.
+
+Indicador 1: Percentual de projetos dos setores público e privado de energia e de infraestrutura urbana sustentável financiado pelo
+Programa vinculados aos ODS.
+Indicador 4. Número de empregos suportados/apoiados pelo Programa.
+
+- promover o financiamento de projetos inovadores/com tecnologia inovadora em hidrogênio verde e em sua cadeia econômica, a fim de
+expandir a matriz energética renovável em Minas Gerais e Brasil.
+
+Indicador 1: Percentual de projetos dos setores público e privado de energia e de infraestrutura urbana sustentável financiado pelo
+Programa vinculados aos ODS
+Indicador 2. Energia limpa gerada pelos projetos apoiados pelo Programa
+Indicador 3. Emissões de CO2 evitadas pelos projetos apoiados pelo Programa
+Indicador 4. Número de empregos suportados/apoiados pelo Programa.
+
+
+
+A segunda vertente destina-se à mineração verde e aos minerais estratégicos às transições energética e digital.
+
+Por mineração verde entende-se a aplicação de processos e procedimentos de redução das emissões de carbono na exploração mineral.
+Tais procedimentos envolvem a aplicação de energia renováveis, reutilização de materiais e água, redução das emissões de gases de
+efeito estufa (GGE), eficiência energética e transição para uma produção de menor impacto de carbono.
+
+Quanto aos minerais críticos ou estratégicos, Minas Gerais possui diversidade de recursos minerais para a transição energética. No que
+se refere à produção de baterias elétricas e demais equipamentos e tecnologias verdes, a oportunidade de Minas Gerais liderar a
+exploração e produção de tecnologia verde que se torna essencial para as próximas décadas. Nesse sentido, o financiamento da
+mineração para a transição energética abarca a possibilidade de realizar a adequação do setor minerário no estado, que responde por
+parte importante na atividade econômica e geração de emprego na região. Além disso, minerais como lítio, encontram-se nas regiões
+Norte e Nordeste do estado, caracterizadas por IDH abaixo da média brasileira, forte desigualdade social e por baixa atividade econômica.
+A exploração de tais minérios críticos e terras raras apresenta a possibilidade de geração de empregos e aumento da renda média local,
+reduzindo a concentração urbana e diversificando geograficamente a economia mineira. Acrescenta-se que a exploração de minerais
+vitais para a transição energética pode, inclusive, atrair novas empresas no território, seja como provedoras de insumos-chave para a
+exploração e processamento dos minerais, seja como na instalação de fábricas de beneficiamento de produtos e tecnologias. Outros
+minerais de exploração tradicional no setor minerário, como alumínio, cobre, níquel e manganês, também utilizados em diferentes
+equipamentos enquadrados nas transições energética e digital, encontram-se no território de Minas Gerais.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 7
+Conforme estudo da KfW (2022), os minerais destinados à transformação digital e neutralidade climática exercem, portanto, centralidade
+nos investimentos sustentáveis nos próximos anos, uma vez que tais matérias-primas, como terras raras, cobalto, lítio e cobre são
+utilizados em motores e baterias elétricas, na robótica, impressão em 3D e outras tecnologias digitais relacionadas. Por exemplo, o Brasil
+historicamente concentra quase a totalidade da exploração do Nióbio, localizado na região de Araxá, Minas Gerais. Como consequência, o
+Brasil, em especial, Minas Gerais, configura-se como região de oportunidade na diversificação das exportações dos minerais críticos para
+ tecnologias verdes, permitindo maior competitividade no mercado.
+
+Somente 10 países respondem por 70% da exploração mineral no mundo, liderada pela China (18%), em segundo lugar pela Austrália (13
+%) e, em seguida, pelo Brasil, Chile e os Estados Unidos, com percentuais entre 5%-6% para cada. Outrossim, a demanda por tais
+materiais críticos, como lítio, grafita e cobalto, crescerá de forma exponencial nos próximos anos.
+
+É necessário observar que os minerais estratégicos ou críticos para a transição energética também contribuem para a transição digital,
+sendo setores mutualmente beneficiados pelos investimentos em tais minerais e na realização da mineração verde em seu processo
+extrativo e de beneficiamento. Em especial, os investimentos em robótica, inteligência artificial, internet das coisas e tecnologias conexas,
+ou indiretamente em componentes da cadeia de produção, envolvem a busca por eficiência energética e uso de energia renovável, devido
+ao grande consumo energético para a sua viabilização.
+
+Nesse sentido, o eixo da mineração verde e de transições energética e digital relacionam-se intrinsicamente com o primeiro eixo de
+energia e infraestrutura urbana sustentável, uma vez que o Programa BDMG SUSTENTABILIDADE E MPE objetiva disponibilizar linhas
+de crédito para o desenvolvimento da atividade econômica sustentável em Minas Gerais, caracterizada por empreendimentos privados e
+públicos de baixo carbono e resiliente. Tais investimentos possibilitam proporcionar maiores condições para implementação e expansão
+da atividade econômica no território mineiro, primando pela diversificação de setores, capilaridade geográfica e redução das
+desigualdades regionais e socioeconômicas.
+
+
+Na vertente de mineração verde e aos minerais estratégicos às transições energética e digital, propõe-se os seguintes objetivos
+específicos, alinhados aos indicadores.
+
+- financiar projetos inovadores e com novas tecnologias a promover a mineração verde, via redução do consumo de água e energia, além
+do uso de energia limpa nas suas atividades.
+
+- promover o financiamento de projetos vinculados às atividades e cadeias de produção da mineração crítica para a transição energética e
+digital, induzindo a aplicação de novas tecnologias e o processo industrial no Brasil.
+
+Indicador 1: Percentual de projetos dos setores público e privado de energia e de infraestrutura urbana sustentável financiado pelo
+Programa vinculados aos ODS.
+Indicador 3. Emissões de CO2 evitadas pelos projetos apoiados pelo Programa.
+Indicador 4. Número de empregos suportados/apoiados pelo Programa.
+Indicador 7. Percentual de projetos dos setores público e privado em mineração verde e para a transição energética financiado pelo
+Programa.
+Indicador 8. Emissões de CO2 evitadas nos setores relacionados com mineração para as transições energética e digital financiados pelo
+Programa.
+
+
+
+
+
+Por fim, a terceira vertente concentra-se nas micro e pequenas empresas localizadas em municípios vulneráveis e de Índice de
+Desenvolvimento Humano (IDH) abaixo da média brasileira, e para MPEs lideradas por mulheres.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 8
+Os investimentos em micro e pequenas empresas (MPEs) no estado de Minas Gerais destinam-se a atender parte importante na carteira
+de crédito do BDMG, com disponibilidade principalmente de capital de giro. Tal recurso foi essencial durante a pandemia do COVID-19 e a
+parceria com o BEI à época contemplou essa espécie de recurso. Atualmente, em um momento de retomada da recuperação econômica
+no Brasil e em Minas Gerais, a disponibilidade de recursos para MPE é crucial para reinvestimentos, reposição de estoques, compra de
+insumos, matérias-primas, compra e renovaçao de equipamentos e máquinas, expansão do negócio e realização de obras de reforma,
+readequação e ampliação, e principalmente manutenção de empregos formais.
+
+Em específico, o Programa propõe a destinação de linha de crédito para MPEs localizados em municípios caracterizados por
+vulnerabilidades sociais e ambientais, em especial, aqueles que apresentam IDH abaixo da média brasileira. Nesse sentido, o BDMG
+objetiva tornar atrativo o capital para regiões de menor dinamismo econômico e caracterizadas por forte desigualdade social. Além disso, a
+linha contempla também a vulnerabilidade ambiental, o que se observa em regiões marcadas por períodos de estiagem, como no Norte e
+Nordeste de MG, ou em áreas de maior concentração urbana, que são atingidas por chuvas torrenciais e não possuem infraestrutura
+básica e social adequada.
+
+Outrossim, o Programa destina também uma linha específica para atender aos objetivos de igualdade de gênero, ao fornecer crédito para
+mulheres líderes de MPEs. O BDMG possui experiência comprovada em fornecimento de linhas de crédito para mulheres
+empreendedoras, apresentando continuamente financiamento para esse grupo nos últimos anos. Em especial, o BDMG foi destaque no
+prêmio da ALIDE na categoria Mulheres Empreendedoras, em 2023, o que reforça o reconhecimento do Banco em promover a redução
+das desigualdades de gênero na atividade econômica.
+
+Conforme dados da FGV, PNAD Contínua - IBGE e DIEESE de 2023, entre 2012 e 2022 houve uma progressão lenta da redução das
+disparidades na participação entre homens e mulheres no mercado de trabalho. No 4º trimestre de 2022, a participação de homens no
+mercado trabalho foi de 72,1%, enquanto a de mulheres foi de 52,7%, ainda inferior ao período pré-pandemia de 54,3%. Nesse sentido,
+observa-se a necessidade de investir em crédito específico a reduzir as desigualdades de gênero no estado, contribuindo com melhores
+condições para a atividade econômica feminina.
+
+Vale ressaltar demanda por investimentos em infraestrutura urbana e sustentável e financiamento a micro e pequenas empresas é alta,
+pois o estado possui uma grande quantidade de pequenas cidades. Minas Gerais possui 853 municípios, sendo 668 considerado de
+pequeno porte, com até 20 mil habitantes (78%), 152 de médio porte, com população de 20.001 a 100.000 (18%), e 33 de grande porte,
+com população acima de 100 mil (4%). Nesse sentido, o BDMG possui desafio em atingir empresas e municípios mineiros em sua maioria
+de pequeno e médio porte, que apresentam em sua quase totalidade IDH abaixo da média brasileira. 
+Conforme o Relatório de Sustentabilidade do BDMG de 2023, o banco atendeu a 5.108 clientes formados por empresas e prefeituras
+provenientes de 613 municípios mineiros, sendo 84% destes com IDH abaixo da média nacional. A capilaridade da oferta de crédito do
+banco é atestada quando se observa que o BDMG encerrou o ano de 2023 com ao menos um cliente ativo em 776 dos 853 municípios
+mineiros, representando 91% de presença no estado. Essa capilaridade na presença na quase totalidade de Minas Gerais é essencial na
+oferta de crédito para pequenas e médias prefeituras e, principalmente, para micro e pequenas empresas sediadas no estado.
+
+Conforme a Resolução Cofiex nº. 03, de 2019, os municípios que podem solicitar operação de crédito com garantia soberana devem ter,
+no mínimo, população superior a 100 mil habitantes, além de apresentar contrapartida de pelo menos 20% do valor total do projeto a ser
+financiado. Assim, a própria Comissão de Financiamento Externo (Cofiex) não alcança diretamente os pleitos de municípios pequenos e
+médios. Portanto, o BDMG se constitui como instrumento multiplicador de investimentos no estado, a partir da sua capacidade de
+diversificação e capilaridade dos projetos.
+
+Nesse sentido, a Resolução Cofiex nº. 03/2019 exclui a participação de 820 municípios mineiros (96%) do acesso direto ao crédito externo
+ com garantia da União, que fornece melhores condições financeiras em termos de prazos e custos financeiros. 
+
+
+
+Na vertente de micro e pequenas empresas localizadas em municípios vulneráveis e de Índice de Desenvolvimento Humano (IDH) abaixo
+da média brasileira, e para MPEs lideradas por mulheres, propõe-se os seguintes objetivos específicos, alinhados aos indicadores.
+
+- fornecer crédito às micro e pequenas empresas no Estado de Minas Gerais, com ênfase nos municípios vulneráveis e de Índice de
+Desenvolvimento Humano (IDH) abaixo da média brasileira.
+
+- gerar emprego e renda para população baixa renda e vulneráveis.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 9
+- melhorar o ambiente de negócios e incrementar as oportunidades socioeconômicas das regiões atendidas, com foco na redução das
+desigualdades regionais e sociais.
+
+- promover a igualdade de gênero via o financiamento a micro e pequenas empresas lideradas por mulheres.
+
+Indicador 1: Percentual de projetos dos setores público e privado de energia e de infraestrutura urbana sustentável financiado pelo
+Programa vinculados aos ODS.
+Indicador 4. Número de empregos suportados/apoiados pelo Programa.
+Indicador 5. Número de empresas sediadas em municípios vulneráveis e de IDH abaixo da média brasileira financiadas com recursos do
+Programa.
+Indicador 6. Número de empresas lideradas por mulheres financiadas com recursos do Programa.
+
+
+Além disso, conforme detalhado no Anexo 3 - Matriz com Arranjo Institucional, o BDMG possui instrumentos e medidas que garantam a
+sustentabilidade financeira dos projetos de descarbonização e o contínuo acompanhamento dos resultados desses projetos, tais como o
+Impact Score, que mede o impacto dos desembolsos, a Calculadora de GEE, instrumento para identificar as emissões de carbono
+evitadas com os financiamentos de sustentabilidade estabelecidos pelo Framework, a Pegada de Carbono, que atribui pontuações para
+medir a qualidade dos dados e foi desenvolvida em colaboração com a Carbon Trust, o HeatMapR, que consiste em um mapa de calor
+desenvolvido com Willis Towers Watson (WTW, 2021), para analisar os setores e áreas geográficas e para identificar os riscos climáticos
+físicos das regiões atendidas pelo BDMG. Esses instrumentos são utilizados pelo BDMG para identificar os setores de maior emissão de
+GEE, de riscos e a exposição da carteira.
+
+As linhas propostas no Programa BDMG SUSTENTABILIDADE E MPE objetivam contribuir com a estratégia do Banco em aumentar a sua
+carteira para linhas verdes e sociais. O BDMG elaborou, em 2013, sua Política de Responsabilidade Socioambiental (PRSA). As diretrizes
+desta Política envolvem, entre outros itens: (i) o alinhamento de sua atuação à política estadual e nacional do meio ambiente; (ii) a
+priorização do atendimento a empreendimento com externalidades socioambientais positivas com ênfase, entre outros, na redução da
+geração e no reaproveitamento de resíduos sólidos, eficiência energética, energias renováveis e (iii) a exclusão da concessão de
+financiamentos para empreendimentos com alto impacto ambiental e social.
+
+O Banco também possui um histórico de captações internacionais na tentativa de diversificar e maximizar o uso dos fundings disponíveis
+para atender a sua estratégia de atuação. Dentre os organismos multilaterais e bancos internacionais que o Banco já captou recursos
+estão o Banco Interamericano de Desenvolvimento (BID), Agência Francesa de Desenvolvimento (AFD), Banco de Tóquio, Banco de
+Desenvolvimento da América Latina (CAF) e a reconhecida parceria com o Banco Europeu de Investimentos (BEI). Com essas e outras
+fontes de recursos de repasses de entidades nacionais, fundos do Estado e recursos próprios, o Banco busca atuar em linha com a
+estratégia do Estado contribuindo para o desenvolvimento socioeconômico e sustentável de Minas Gerais.
+
+Em 2020, o BDMG efetivou a primeira emissão da história de Títulos Sustentáveis (ou Sustainable Bonds) realizada por um banco público
+brasileiro. Os recursos provenientes destes títulos se transformaram em linhas de crédito para projetos alinhados aos Objetivos do
+Desenvolvimento Sustentável (ODS).
+
+Ressalta-se que 40% dos desembolsos realizados pelo BDMG em operações enquadram-se como aderentes a pelo menos um ODS
+aplicados pelo Banco, que correspondem a 13 dos 17 objetivos.
+
+Dessa forma, o Programa levou em consideração a diversidade geográfica, as características topográficas e de insolação do Estado de
+Minas Gerais, que demonstram seu potencial energético. Conforme o Atlas Solarimétrico de Minas Gerais (2021), o estado possui regiões
+com alto potencial de geração de energia solar fotovoltaica (média do estado é de 1354 kWh / kWp) e um bom rendimento global médio,
+em especial ao norte do estado. Dessa forma, Minas Gerais apresenta grandes oportunidades na adoção de geração de energia
+fotovoltaicas e de demais tecnologias solares. Assim, o estado de Minas Gerais é referência em energia solar fotovoltaica, sendo o estado
+líder em geração, promovendo investimentos e empregos verdes nos últimos anos. Além disso, 100% dos 853 municípios possuem ao
+menos uma unidade de geração de energia solar fotovoltaica, marca importantíssima para entender o compromisso mineiro de zerar as
+emissões líquidas de gases de efeito estufa até 2050.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 10
+Em cumprimento à Resolução CMN Nº 4.945, de 15 de setembro de 2021, foi aprovada em agosto de 2022 a Política de
+Responsabilidade Social, Ambiental e Climática (PRSAC) do BDMG. A PRSAC consiste em um conjunto de princípios e de diretrizes de
+natureza social, ambiental e climática a ser observado pelo Banco na condução da sua estratégia, dos seus negócios, das suas atividades
+e dos seus processos, bem como na sua relação com as partes interessadas, para promover o desenvolvimento socioeconômico
+sustentável de Minas Gerais. Junto com a PRSAC, encontra-se o Plano de Ação norteado pelas agendas globais em prol da
+sustentabilidade e das mudanças climáticas, como a Agenda 2030 da ONU, o Acordo de Paris, a Agenda de Ação Adis Abeba, além de
+outras iniciativas de âmbito nacional. O Plano também está integralmente alinhado ao Plano Estadual de Ação Climática de Minas Gerais (
+PLAC-MG), coordenado pela Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável de Minas Gerais (SEMAD), que visa
+alcançar a neutralidade de emissões líquidas de gases de efeito estufa, no estado, até 2050, notadamente no âmbito da campanha Race
+to Zero.
+
+Assim, informações complementares sobre o BDMG e o Programa SUSTENTABILIDADE E MPE encontram-se nos seguintes Anexos.
+
+Anexo 1 Plano Estratégico 2024-2028 e Plano de Negócios de 2024.
+Anexo 2 Indicadores ATUALIZADO
+Anexo 3 Matriz com Arranjo Institucional
+Anexo 4 Referências consultadas para a elaboração da Carta Consulta
+Anexo 5 Contatos do BDMG
+Anexo 6 Declaração de que o BDMG é empresa estatal não dependente e que a operação conta com contragarantias oferecidas pelo
+estado de Minas Gerais
+Anexo 7 Declaração de ausência de subsidiárias
+Anexo 8 Declaração de ausência de cláusulas restritivas
+Anexo 9 Demonstrações contábeis auditadas dos últimos 5 anos (2019, 2020, 2021, 2022 e 2023)
+Anexo 10 Apresentação do BDMG e do Programa BDMG SUSTENTABILIDADE E MPE para o GTEC
+Anexo 11 Framework de Títulos Sustentáveis 
+Anexo 12 Política de Responsabilidade Social, Ambiental e Climática, Plano de Ação e Atividades não Financiáveis do BDMG
+Anexo 13 Nota Técnica Minerais Críticos BDMG
+Anexo 14 Estudo KFW
+Anexo 15 Relatório de Sustentabilidade do BDMG de 2023
+Anexo 16 Sustentabilidade Financeira
+Anexo 17 Metas Físicas
+Anexo 18 Respostas às sugestões da GTEC
+
+2.6. Projeto/Indicadores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 11
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+1 Percentual de projetos dos setores público e
+privado de energia e de infraestrutura urbana
+sustentável financiado pelo Programa vinculados
+ aos ODS
+(Projetos apoiados
+pelo Programa com
+ODS vinculados /
+Total de projetos
+apoiados pelo
+Programa) * 100
+%
+45,00
+55,00
+2 Energia limpa gerada pelos projetos apoiados
+pelo Programa
+Total de energia limpa
+gerada (estimada)
+pelos projetos
+apoiados no
+Programa
+GWh/ano
+100,00
+150,00
+3 Emissões de CO2 evitadas pelos projetos
+apoiados pelo Programa
+Total de emissões de
+CO2 evitadas (
+estimada) pelos
+projetos apoiados pelo
+ Programa
+tCO2eq/ano
+8.000,00
+10.000,00
+4 Número de empregos suportados/apoiados
+pelo Programa
+Número de empregos
+suportados/apoiados
+pelo Programa
+número (#)
+20.000,00
+25.000,00
+5 Número de empresas sediadas em municípios
+vulneráveis e de IDH abaixo da média brasileira
+financiadas com recursos do Programa
+Número de empresas
+sediadas em
+municípios
+vulneráveis e de IDH
+abaixo da média
+brasileira financiadas
+com recursos do
+Programa em valores
+anuais cumulativos
+Número(#)
+150,00
+200,00
+6 Número de empresas lideradas por mulheres
+financiadas com recursos do Programa
+Número de empresas
+lideradas por
+mulheres financiadas
+com recursos do
+Programa em valores
+anuais
+Número (#)
+900,00
+1.080,00
+7 Percentual de projetos dos setores público e
+privado em mineração verde e para as
+transições energética e digital financiado pelo
+Programa
+(Projetos apoiados
+pelo Programa em
+mineração verde e
+transição energética /
+Total de projetos
+apoiados pelo
+Programa) * 100
+Número (#)
+0,00
+30,00
+8. Emissões de CO2 evitadas nos setores
+relacionados com mineração para as transições
+energética e digital financiados pelo Programa
+Total de emissões de
+CO2 evitadas (
+estimada) pelos
+projetos apoiados pelo
+ Programa
+tCO2eq/ano
+0,00
+500,00
+2.7. Projeto/Componentes
+Componentes
+Valor(?)
+C - INVESTIMENTOS EM ENERGIA E INFRAESTRUTURA URBANA SUSTENTÁVEL
+85.000.000,00
+      P - Projetos dos setores público e privado para energia renovável e eficiência energética
+60.000.000,00
+      P - Projetos dos setores público e privado para infraestrutura urbana sustentável
+15.000.000,00
+      P - Projetos dos setores público e privado para Hidrogênio Verde
+10.000.000,00
+C - INVESTIMENTOS EM MINERAÇÃO VERDE E PARA AS TRANSIÇÕES ENERGÉTICA E DIGITAL
+45.000.000,00
+      P - Projetos do setor privado em mineração verde
+22.500.000,00
+P - Projetos do setor privado em cadeias de fornecimento de minerais críticos que apoiem as transições
+energética e digital
+22.500.000,00
+C - INVESTIMENTOS EM MICRO E PEQUENAS EMPRESAS
+20.000.000,00
+      P - Projetos para Micro e Pequenas Empresas em municípios vulneráveis e de IDH abaixo da média brasileira
+10.000.000,00
+      P - Projetos para Micro e Pequenas Empresas liderados por mulheres
+10.000.000,00
+Total dos Componentes
+150.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - INVESTIMENTOS EM ENERGIA E INFRAESTRUTURA URBANA SUSTENTÁVEL
+A captação externa financiará investimentos em projetos dos setores público e privado referentes à energia renovável, eficiência
+energética, hidrogênio verde e infraestrutura urbana sustentável, a serem desenvolvidos em Minas Gerais.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 12
+A classificação dos projetos e seus valores possuem caráter indicativo, condicionados à posterior prospecção e originação do
+crédito aos sub-mutuários. Considera-se que os valores apresentados são intercambiáveis entre si para melhor responder à futura
+real demanda de originação.
+Os valores dos produtos apresentados foram elaborados a partir das linhas de crédito existentes e oferecidas aos setores privado e
+público do estado de Minas Gerais. Além disso, para cada produto proposto foram vinculados potenciais ODS dentre o grupo dos
+13 atualmente incorporados na metodologia do BDMG.
+      P - Projetos dos setores público e privado para energia renovável e eficiência energética
+Destina-se a financiar projetos dos setores público e privado em energia renovável e de eficiência energética no estado de Minas
+Gerais. Contempla projetos de geração de energia renovável (implantação de Usinas Eólicas, Usinas Fotovoltaicas, CHGs, PCHs,
+Usinas de Biomassa, Iluminação Pública e outras tecnologias), transmissão e distribuição de energia, que permitam a ampliação
+do acesso e/ou maior eficiência energética. Esse produto contém iniciativas que proporcionam maior eficiência energética e
+geração e/ou uso de energia de fontes renováveis.
+Atualmente, o banco dispõe das linhas BDMG SOLAR FOTOVOLTAICO e BDMG SUSTENTABILIDADE BEI que atendem a esse
+escopo. Em 2023, na linha de crédito BDMG CIDADES SUSTENTÁVEIS foram financiados projetos de eficiência energética e de
+geração distribuída de energia.
+Observa-se que esse produto concentra o maior montante de recursos do Programa BDMG SUSTENTABILIDADE E MPE.
+A exemplo, a linha BDMG SUSTENTABILIDADE se destina a financiamentos destinados a projetos de energia renovável e
+eficiência energética, obras civis, instalações, serviços e equipamentos, componentes e sistemas geradores fotovoltaicos para
+empresas com faturamento anual acima de R$ 16 milhões e prazo máximo de 144 meses, já incluídos até 24 meses de carência.
+Conforme o Framework de Títulos Sustentáveis do BDMG, que estabelece a correlação entre o financiamento de projetos com os
+ODS, é possível identificar os objetivos potenciais vinculados: 7 (Energia Limpa e Acessível), 12 (Consumo e produção
+responsáveis) e 13 (Ação Contra a Mudança Global do Clima).
+Dessa forma, o produto vincula-se aos indicadores:
+1. Percentual de projetos dos setores público e privado de energia e de infraestrutura urbana sustentável financiado pelo Programa
+ vinculados aos ODS.
+2. Energia limpa gerada pelos projetos apoiados pelo Programa
+3. Emissões de CO2 evitadas pelos projetos apoiados pelo Programa  
+4. Número de empregos suportados/apoiados pelo Programa
+O Anexo 2 Indicadores de Desempenho apresenta maiores detalhes.
+São projetos elegíveis para energia renovável conforme o Framework de Títulos Sustentáveis do BDMG:
+- Geração e transmissão centralizada (superior a 5 MW) e distribuída (até a 5 MW) de energia de fonte solar.
+- Centrais Geradoras Hidrelétricas (CGH) e Pequenas Centrais Hidrelétricas (PCH) à fio de água com até 30 MW de potência.
+- Geração de energia a partir de biomassa de resíduos agrícolas, cogeração por bagaço de cana, biogás a partir de resíduos
+industriais e agropecuários que não reduzam o estoque de carbono de biomassa e solo.
+- Produção de biocombustíveis sustentável, em total conformidade com o Código Florestal Brasileiro, que não competem com a
+produção de alimentos nem esgotem as reservas de carbono no solo.
+- Tecnologias que permitam a integração dos sistemas de energia na rede e o monitoramento da performance;
+- Sistemas de armazenamento (baterias, armazenamento por bombeamento).
+São projetos elegíveis para eficiência energética conforme o Framework de Títulos Sustentáveis do BDMG:
+- Aumento da eficiência dos serviços públicos de energia a partir de redução de perdas, instalação de iluminação ou equipamentos
+mais eficientes, incluindo a Iluminação por LED e postes com placas de captação de luz solar.
+- Eficiência energética de equipamentos e aparelhos, ou construção por meio de técnicas que reduzam o consumo de energia em
+pelo menos 20%, como em elevadores inteligentes, aproveitamento da luz solar para iluminação, projeto de arquitetura visando
+adequada ventilação dos espaços e isolamento térmico, bem como o dimensionamento e posicionamento adequado das janelas.
+- Atualização/renovação de edifícios com mudanças na arquitetura ou construção que permitam redução no consumo de energia,
+via troca de janelas para melhor aproveitamento da luz solar, melhoria da ventilação dos espaços e isolamento térmico.
+- Eficiência energética de equipamentos e aparelhos, como em sistemas de aquecimento e refrigeração, troca de eletrodomésticos
+e iluminação por LED.
+- Substituição de instalação antiga por uma mais eficiente por meio de troca de instalações elétricas antigas, instalações de ar
+comprimido e sistemas de iluminação.
+- Instalação de equipamentos mais eficientes, mudanças em processos, redução da perda de calor e aumento da recuperação de
+calor.
+O valor do produto é de EUR 60.000.000,00 (sessenta milhões de euros) e a meta financeira do produto é de R$ 354.000.000,00 (
+trezentos e cinquenta e quatro milhões de reais).
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 13
+O BDMG dispõe de três linhas para financiamento privado para energia renovável e eficiência energética, sendo eles o BDMG
+SUSTENTABILIDADE CLIMA, destinado a viabilizar projetos de longo prazo focados em geração de energia renovável para
+empresas com faturamento anual a partir de R$ 16 milhões, o FINAME FUNDO CLIMA, para aquisição de máquinas e
+equipamentos relacionados à redução de gases do efeito estufa, à adaptação climática e seus efeitos, e o BDMG PRONAMPE
+INVESTIMENTO, que opera com recursos do BDMG, no âmbito do programa de apoio ao crédito instituído pelo Governo Federal,
+que também é indicado para a aquisição de equipamentos para projetos fotovoltaicos, focado no autoconsumo.
+Como meta física cumulativa no ano 5 estima-se a projeção de linhas de crédito no valor total de: EUR 273.000.000,00 (duzentos e
+ setenta e três milhões de euros).
+      P - Projetos dos setores público e privado para infraestrutura urbana sustentável
+Destina-se a financiar projetos dos setores público e privado para acesso à água, saneamento básico, tratamento adequado e
+disposição final de resíduos sólidos.
+Atualmente o BDMG dispõe de linhas de crédito sobre o tema BDMG Municípios com finalidade para projetos de saneamento e
+financiamentos à projetos de Parcerias Público-Privadas (PPP) e concessões públicas, desde que alinhadas aos objetivos e metas
+do Programa.
+O produto também objetiva financiar projetos dos setores público e privado a apoiar empreendimentos de infraestrutura de menor
+porte e sustentáveis, como a implantação, ampliação ou adequação de infraestrutura urbana, o que inclui pavimentação de vias
+urbanas já atendidas com serviços de água e esgoto, faixas exclusivas, calçadas, ciclovias, praças, equipamentos públicos,
+abrigos nos pontos de parada de transporte público coletivo urbano de passageiros. Além disso estão contemplados projetos como
+implantação, reforma, readequação e ampliação de sistemas de drenagem, readequação urbana, contenção de encostas,
+barragens e canais. Atualmente o BDMG dispõe de linhas de crédito sobre o tema: BDMG Municípios (Razão de financiamento:
+Cidades e Infraestrutura.
+Conforme o Framework de Títulos Sustentáveis do BDMG, que estabelece a correlação entre o financiamento de projetos com os
+ODS, é possível identificar os objetivos potenciais vinculados: 6 (Água Potável e Saneamento), 9 (Indústria, Inovação e
+Infraestrutura), 11 (Cidades e Comunidades Sustentáveis) e 13 (Ação contra a Mudança Global do Clima).
+Dessa forma, o produto vincula-se aos indicadores:
+1. Percentual de projetos dos setores público e privado de energia e de infraestrutura urbana sustentável financiado pelo Programa
+ vinculados aos ODS.
+4. Número de empregos suportados/apoiados pelo Programa
+O Anexo 2 Indicadores de Desempenho apresenta maiores detalhes.
+São projetos elegíveis para acesso à água, saneamento e tratamento e disposição final de RSU conforme o Framework de Títulos
+Sustentáveis do BDMG:
+- Ligação, coleta, interceptação, estações elevatórias, tratamento, disposição final.
+- Captação, adução, estações elevatórias, construção e reforma de reservatórios, tratamento, distribuição, medição e melhorias
+operacionais visando redução de perdas, via novos reservatórios, estações de tratamento de água, ETAs, novas redes de
+distribuição para levar água potável à população ainda sem acesso e modernização de redes para redução de perdas).
+- Tratamento e/ou disposição final de Resíduos Sólidos Urbano (RSU), por meio de aterros sanitários com queima para
+aproveitamento de energia do metano emitido na decomposição da matéria orgânica em condições anaeróbicas.
+- Unidades de triagem e compostagem.
+- Estação de transbordo.
+- Pavimentação de vias urbanas em a&#769;reas que carecem de conexa&#771;o, saneamento e outras infraestruturas sociais,
+permitindo urbanização inclusiva em cidades desamparadas.
+- Implatação, ampliação ou adequação de faixas exclusivas, calçadas, ciclovias.
+- Implatação, ampliação ou adequação de faixas de praças, sinalização, iluminação pública.
+- Construção de abrigos nos pontos de parada de transporte público coletivo urbano de passageiros.
+- Infraestruturas e instalações operacionais de drenagem urbana de a&#769;guas pluviais.
+- Cnotenção de encostas instáveis, recuperação de áreas úmidas.
+O valor do produto é de EUR 15.000.000,00 (quinze milhões de euros) e a meta financeira do produto é de R$ 88.500.000,00 (
+oitenta e oito milhões e quinhentos mil reais).
+O BDMG dispõe de linhas voltadas para municípios, como o BDMG Sustentabilidade, para cidades que investem em projetos e
+obras municipais relacionados aos Objetivos de Desenvolvimento Sustentável (ODS). Essa linha de crédito financia até 100% dos
+projetos nas áreas de: eficiência energética, cidades inteligentes, geração de energia renovável e limpa, incluindo geração
+distribuída (GD), sistema de abastecimento de água, tratamento de esgoto e de resíduos sólidos urbanos, escolas, creches,
+unidades de saúde, portais turísticos, decks, píer, sinalização turísticas, ginásios e centros de lazer, esportivo e cultural. Também
+há o BDMG MOBILIDADE, destinado à construção e reforma de vias vicinais e pontes, além de obras de mobilidade e drenagem
+urbana, como construção e reformas de vias, equipamentos urbanos, sinalização, calçamentos, ciclovias e abrigos de ônibus.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 14
+Como meta física cumulativa no ano 5 estima-se a projeção de linhas de crédito no valor total de: EUR 27.000.000,00 (vinte e sete
+milhões de euros).
+      P - Projetos dos setores público e privado para Hidrogênio Verde
+Destina-se a financiar projetos dos setores público e privado para o desenvolvimento, suprimento, aquisição de materiais,
+máquinas e equipamentos relacionados à geração, distribuição e armazenamento de hidrogênio verde. 
+Atualmente o BDMG não dispõe de linhas de crédito sobre o tema, sendo que será desenvolvido juntamente com a assistência do
+BEI.
+Conforme o Framework de Títulos Sustentáveis do BDMG, que estabelece a correlação entre o financiamento de projetos com os
+ODS, é possível identificar os objetivos potenciais vinculados: 7 (Energia Limpa e Acessível), 12 (Consumo e produção
+responsáveis) e 13 (Ação Contra a Mudança Global do Clima).
+Dessa forma, o produto vincula-se aos indicadores:
+1. Percentual de projetos dos setores público e privado de energia e de infraestrutura urbana sustentável financiado pelo Programa
+ vinculados aos ODS.
+2. Energia limpa gerada pelos projetos apoiados pelo Programa
+3. Emissões de CO2 evitadas pelos projetos apoiados pelo Programa  
+4. Número de empregos suportados/apoiados pelo Programa
+O Anexo 2 Indicadores de Desempenho apresenta maiores detalhes.
+São projetos elegíveis para hidrogênio verde:
+- Tecnologias que permitam a integração dos sistemas de energia na rede e o monitoramento da performance;
+- Sistemas de armazenamento (baterias, armazenamento por bombeamento).
+- Instalação de equipamentos mais eficientes e mudanças em processos.
+O valor do produto é de EUR 10.000.000,00 (dez milhões de euros) e a meta financeira desse produto é de R$ 59.000.000,00 (
+cinquenta e nove milhões de reais).
+Há a previsão de implantação de centros de produção de Hidrogênio Verde em Minas Gerais nos próximos cinco anos. Na cidade
+de Itajubá, houve um investimento do governo alemão em um projeto de cerca de R$ 25 milhões, em parceria com a UNIFEI (
+Universidade Federal de Itajubá). Os experimentos para o uso de hidrogênio de baixo carbono pretendem avaliar a viabilidade da
+aplicação do gás de baixa emissão em processos industriais, junto a empresas siderúrgicas de MG, por exemplo.
+Como meta física cumulativa no ano 5 estima-se a projeção de linhas de crédito no valor total de: EUR 5.000.000,00 (cinco milhões
+ de euros).
+C - INVESTIMENTOS EM MINERAÇÃO VERDE E PARA AS TRANSIÇÕES ENERGÉTICA E DIGITAL
+A captação externa financiará investimentos em projetos do setor privado referentes à mineração verde e em minerais críticos para
+as transições energética e digital. Quanto a este último, apresenta-se uma concentração em minerais que são atendidos pelo BEI
+e se encontram no território de Minas Gerais.
+A classificação dos projetos e seus valores possuem caráter indicativo, condicionados à posterior prospecção e originação do
+crédito aos sub-mutuários. Considera-se que os valores apresentados são intercambiáveis entre si para melhor responder à futura
+real demanda de originação.
+Os valores dos produtos apresentados foram elaborados a partir das linhas de crédito existentes e oferecidas aos setores privado e
+público do estado de Minas Gerais. Além disso, para cada produto proposto foram vinculados potenciais ODS dentre o grupo dos
+13 atualmente incorporados na metodologia do BDMG.
+      P - Projetos do setor privado em mineração verde
+Destina-se a financiar projetos do setor privado para a melhoria dos processos de implantação, readequação e expansão dos
+projetos de mineração do Estado. Em particular, a mineração verde objetiva estabelecer procedimentos e operações destinadas a
+reduzir o consumo de água e de energia, das emissões de carbono com a tendência para a neutralidade da pegada de carbono,
+bem como a adoção de processos mais inclusivos ambiental e socialmente.
+A lista de exclusão socioambiental do BDMG impede que o Banco financie os seguintes casos relacionados à mineração:
+- Mineração que incorpore processo de lavra rudimentar e garimpo;
+- Mineração cuja barragem, se houver no empreendimento financiado, estiver classificada no nível 3 de emergência de acordo com
+ a classificação da Agência Nacional de Mineração.
+Assim, o BDMG permite direcionar crédito para a mineração, desde que seja sustentável e aplique procedimentos de energia
+renovável e eficiência energética e de recursos a serem utilizados.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 15
+Atualmente o BDMG não dispõe de linhas de crédito sobre o tema, sendo que será desenvolvido juntamente com a assistência do
+BEI.
+Conforme o Framework de Títulos Sustentáveis do BDMG, que estabelece a correlação entre o financiamento de projetos com os
+ODS, é possível identificar os objetivos potenciais vinculados: 7 (Energia Limpa e Acessível), 12 (Consumo e produção
+responsáveis) e 13 (Ação Contra a Mudança Global do Clima).
+ 
+Ressalta-se que o estado de Minas Gerais foi palco de dois desastres ambientais e sociais decorrentes do rompimento de
+barragens de minério em Mariana, no ano de 2015, e em Brumadinho, em 2019, gerando drásticas consequências humanas,
+ambientais, sociais e econômicas para as regiões afetadas. Essa situação também deve ser considerada para fins de fornecimento
+ de crédito ao setor privado dessas localidades.
+Dessa forma, o produto vincula-se aos indicadores:
+3. Emissões de CO2 evitadas pelos projetos apoiados pelo Programa  
+4. Número de empregos suportados/apoiados pelo Programa
+7. Percentual de projetos do setor privado em mineração verde e para as transições energética e digital financiado pelo Programa
+O Anexo 2 Indicadores de Desempenho apresenta maiores detalhes.
+O valor do produto é de EUR 22.500.000,00 (vinte e dois milhões e quinhentos mil euros) e a meta financeira desse produto é de R
+$ 132.750.000,00 (cento e trinta e dois milhões e setecentos e cinquenta milhões de reais).
+Por se tratar de nova linha de crédito oferecida pelo BDMG, em linha com a proposta de transição energética e de mineração verde
+, não há linhas de crédito específicas para este setor, o que serão desenvolvidas no Programa.
+Para os próximos cinco anos, há a previsão de investimento em projetos de reaproveitamento dos rejeitos de minério, como
+projetos evidenciados por mineradoras em MG estimados em R$ 428 milhões. Há também há a possibilidade de projetos de
+processo de produção de areia sustentável, obtida a partir do tratamento de rejeitos de minério de ferro. Em 2022, em um estudo
+das Universidades de Queensland (Austrália) e de Genebra (Suíça), foi verificado que a areia proveniente do processo de
+produção do minério de ferro pode contribuir para solucionar duas importantes questões ambientais: atenuar a extração predatória
+de areia e reduzir a geração de rejeitos de mineração.
+Como meta física cumulativa no ano 5 estima-se a projeção de linhas de crédito no valor total de: EUR 5.000.000,00 (cinco milhões
+ de euros).
+P - Projetos do setor privado em cadeias de fornecimento de minerais críticos que apoiem as transições energética e
+digital
+Destina-se a financiar projetos do setor privado destinados à geração de tecnologia para a transição energética, em especial com
+minerais existentes no território mineiro, tais como nióbio, grafita, lítio, terras raras, além dos minerais de maior exportação como
+ferro, manganês, alumínio, cobre e ouro.
+Minas Gerais possui a oportunidade de se inserir nas principais cadeias de produção para a mineração de transições energética e
+digital, uma vez que tais minérios se constituem como estratégicos na criação de baterias elétricas para veículos, componentes
+para placas solares, equipamentos e tecnologias.
+Além disso, considera-se também os investimentos no setor privado para as empresas fornecedoras de insumos, materiais e
+equipamentos para as mineradoras, bem como as companhias de processamento e tecnologia. A exploração de tais minerais
+críticos pode favorecer a implementação de empregos de qualidade e de maior renda nas localidades. Em especial, o lítio é insumo
+para baterias elétricas e se encontram nas regiões de MG de menor IDH, Norte, Nordeste e Vale do Jequitinhonha. Nesse sentido,
+há o desafio de assegurar uma exploração ambiental e socialmente adequada, que gere também a redução dos altos níveis de
+desigualdade social observado em tais regiões. A exploração de minerais críticos permite também a diversificação geográfica e de
+setores na economia mineira.
+A lista de exclusão socioambiental do BDMG impede que o Banco financie os seguintes casos relacionados à mineração:
+- Mineração que incorpore processo de lavra rudimentar e garimpo;
+- Mineração cuja barragem, se houver no empreendimento financiado, estiver classificada no nível 3 de emergência de acordo com
+ a classificação da Agência Nacional de Mineração.
+Assim, o BDMG permite direcionar crédito para a mineração, desde que seja sustentável e aplique procedimentos de energia
+renovável e eficiência energética e de recursos a serem utilizados.
+Atualmente o BDMG não dispõe de linhas de crédito sobre o tema, sendo que será desenvolvido juntamente com a assistência do
+BEI.
+Conforme o Framework de Títulos Sustentáveis do BDMG, que estabelece a correlação entre o financiamento de projetos com os
+ODS, é possível identificar os objetivos potenciais vinculados: 7 (Energia Limpa e Acessível), 12 (Consumo e produção
+responsáveis) e 13 (Ação Contra a Mudança Global do Clima). 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 16
+Dessa forma, o produto vincula-se aos indicadores:
+3. Emissões de CO2 evitadas pelos projetos apoiados pelo Programa  
+4. Número de empregos suportados/apoiados pelo Programa
+7. Percnetual de projetos do setor privado em mineração verde e para as transições energética e digital financiado pelo Programa
+8. Emissões de CO2 evitadas em setores relacionados com mineração para as transições energética e digital financiados pelo
+Programa
+O Anexo 2 Indicadores de Desempenho apresenta maiores detalhes.
+O valor do produto é de EUR 22.500.000,00 (vinte e dois milhões e quinhentos mil euros) e a meta financeira desse produto é de R
+$ 132.750.000,00 (cento e trinta e dois milhões e setecentos e cinquenta milhões de reais).
+Por se tratar de nova linha de crédito oferecida pelo BDMG, em linha com a proposta de transição energética e de mineração verde
+, não há linhas de crédito específicas para este setor, o que serão desenvolvidas no Programa.
+Com as linhas de financiamento em inovação do BDMG, os projetos que apoiem a transição energética e digital serão altamente
+incentivados nos próximos cinco anos. Como ressaltado ao longo da carta consulta, os minerais críticos constituem como nova
+fronteira de financiamento alinhado à ação climática, ao permitir investimentos destinados à indústria de energia renovável e
+tecnológica. Importantes regiões de MG atuam nesses novos minerais, como nióbio, lítio, grafite e manganês.
+Como meta física cumulativa no ano 5 estima-se a projeção de linhas de crédito no valor total de: EUR 20.000.000,00 (vinte
+milhões de euros).
+C - INVESTIMENTOS EM MICRO E PEQUENAS EMPRESAS
+A captação externa destina-se aos investimentos em micro e pequenas empresas sediadas em municípios vulneráveis e com IDH
+abaixo da média brasileira no estado de Minas Gerais e as MPEs lideradas por mulheres.
+A classificação dos projetos e seus valores possuem caráter indicativo, condicionados à posterior prospecção e originação do
+crédito aos sub-mutuários. Considera-se que os valores apresentados são intercambiáveis entre si para melhor responder à futura
+real demanda de originação.
+Os valores dos produtos apresentados foram elaborados a partir das linhas de crédito existentes e oferecidas aos setores privado e
+público do estado de Minas Gerais. Além disso, para cada produto proposto foram vinculados potenciais ODS dentre o grupo dos
+13 atualmente incorporados na metodologia do BDMG.
+      P - Projetos para Micro e Pequenas Empresas em municípios vulneráveis e de IDH abaixo da média brasileira
+Destina-se a financiar micro e pequenas empresas localizadas em municípios vulneráveis e com IDH abaixo da média brasileira. A
+destinação de linha de crédito específica para MPEs reconhece a importância desse segmento na carteira do BDMG e,
+principalmente, o seu papel de garantir dinamicidade na economia local e regional, proporcionando oferta de emprego e aumento
+da renda das famílias.
+Em especial, a linha do Programa destina recursos para MPEs em locais de maior vulnerabilidade e baixo IDH que, por sua vez,
+apresentam menor dinamismo econômico, entendendo que a oferta de capital no longo prazo em capital de giro pode promover a
+melhoria em indicadores sustentáveis e sociais.
+As operações via MPEs estarão relacionadas, em sua maioria, a atividades de comércio e serviços, com pequeno ticket médio (
+entre R$ 20.000 e R$ 30.000). O Banco conta com uma plataforma digital exclusiva para avaliar e conceder crédito para micro e
+pequenos empreendedores.
+Nesta categoria, são consideradas operações para financiamento de atividades produtivas em áreas de baixo IDH desenvolvidas
+por micro e pequenas empresas, conforme definido pela Lei Complementar 123, de 2000, ou empreendedores individuais:
+- Microempresas são aquelas que apresentam receita bruta anual igual ou inferior a R$ 360.000,00.
+- Pequenas empresas são aquelas que possuem receita bruta anual superior a R$ 360.00,00 e inferior a R$ 4.800.000,00.
+Ressalta-se que as MPEs brasileiras são intensas na geração de emprego e apresentam papel essencial para o desenvolvimento
+econômico e social. A garantia de acesso ao crédito por essas empresas e&#769; crucia para a inclusão financeira e para
+estimular a economia de Minas Gerais.
+Atualmente, o banco dispõe das linhas BDMG GERAMINAS, BDMG GERAMINAS Fidelidade, BDMG GERAMINAS Social e BDMG
+ Minas Criativa.
+Conforme o Framework de Títulos Sustentáveis do BDMG, que estabelece a correlação entre o financiamento de projetos com os
+ODS, é possível identificar os objetivos potenciais vinculados: 8 (Trabalho Decente e Crescimento Econômico), 9 (Indústria,
+Inovação e Infraestrutura), 10 (Redução das Desigualdades) e 12 (Consumo e produção responsáveis). 
+Dessa forma, o produto vincula-se aos indicadores:
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 17
+1. Percentual de projetos dos setores público e privado de energia e de infraestrutura urbana sustentável financiado pelo Programa
+ vinculados aos ODS.
+4. Número de empregos suportados/apoiados pelo Programa
+5. Número de empresas sediadas em municípios vulneráveis e de IDH abaixo da média brasileira financiadas com recursos do
+Programa.
+O Anexo 2 Indicadores de Desempenho apresenta maiores detalhes.
+São projetos elegíveis para energia renovável conforme o Framework de Títulos Sustentáveis do BDMG:
+- Financiamento para planejamento de abertura de novas unidades, expansão por meio de franquias, construção de novos galpões
+ ou estruturação de pequenas unidades de fabricação de produtos.
+- Empréstimos para compra de máquinas e equipamentos necessários para aumento da produtividade.
+- Crédito para equilíbrio de fluxo de caixa e apoio com gastos inesperados, multas e encargos específicos de micro e pequenas
+empresas.
+- Capital de giro de longo prazo para MPEs.
+-  Financiamento de micro e pequenas empresas que fortaleçam a atividade turística a longo prazo, apoiada na preservação
+ambiental e cultural e gerando benefícios sociais permanentes.
+O valor do produto é de EUR 10.000.000,00 (dez milhões de euros) e a meta prevista desse produto é de R$ 59.000.000,00 (
+cinquenta e nove milhões de reais).
+São linhas de crédito do BDMG a justificar as metas físicas para os próximos 5 anos nesse produto:
+BDMG BDMG PRONAMPE FUNGETUR, micro ou pequenas empresas, do setor de turismo, com faturamento anual de até R$ 4,8
+milhões e no mínimo 12 meses de existência, anteriores à data de protocolo do pedido. É um pré-requisito para obter o
+PRONAMPE FUNGETUR a empresa estar registrada no Cadastur (Cadastro dos Prestadores de Serviços Turísticos, do Ministério
+do Turismo).
+BDMG GIRO: linha de crédito destinada a fortalecer micro e pequenas empresas de todos os setores de atuação com capital de
+giro competitivo, destinado a sociedades com faturamento bruto anual de até R$ 4,8 milhões.
+BDMG SOLO MAIS: Crédito para a adoção de produção sustentável, que contribua para a regeneração do solo nas lavouras.
+Destinado a produtores rurais, pessoas físicas ou jurídicas, localizados em Minas Gerais. Visa financiar a aquisição de
+remineralizadores e/ou condicionadores para recomposição e/ou recuperação do solo; fertilizantes naturais, minerais e/ou à base
+de biomassa; bioproduto à base de microrganismos; sementes de plantas de cobertura; transporte e aplicação dos produtos na
+área de plantio.
+Como meta física cumulativa no ano 5 estima-se a projeção de linhas de crédito no valor total de: EUR 306.000.000,00 (trezentos e
+ seis milhões de euros).
+      P - Projetos para Micro e Pequenas Empresas liderados por mulheres
+Destina-se a financiar micro e pequenas empresas lideradas por mulheres e incentivar a geração de novas empreendedoras.
+Assim, o BDMG objetiva a oferecer taxas de juros específicas para MPE que tenham no mínimo 6 meses de existência e que
+sejam controladas por empresárias mineiras também pelo prazo mínimo de 6 meses.
+Em especial, a linha do Programa destina recursos para MPEs lideradas por mulheres objetiva atingir os objetivos estratégicos do
+banco de igualdade de gênero, acesso ao crédito e redução das desigualdades sociais.
+Atualmente, o banco dispõe das linhas BDMG Empreendedoras de Minas e BDMG Empreendedoras de Minas, Baixo IDH.
+Conforme o Framework de Títulos Sustentáveis do BDMG, que estabelece a correlação entre o financiamento de projetos com os
+ODS, é possível identificar os objetivos potenciais vinculados: 5 (Igualdade de Gênero) e 10 (Redução das Desigualdades). 
+Dessa forma, o produto vincula-se aos indicadores:
+1. Percentual de projetos dos setores público e privado de energia e de infraestrutura urbana sustentável financiado pelo Programa
+ vinculados aos ODS.
+4. Número de empregos suportados/apoiados pelo Programa
+6. Número de empresas lideradas por mulheres financiadas com recursos do Programa
+O Anexo 2 Indicadores de Desempenho apresenta maiores detalhes.
+São projetos elegíveis para energia renovável conforme o Framework de Títulos Sustentáveis do BDMG:
+- Financiamento para planejamento de abertura de novas unidades, expansão por meio de franquias, construção de novos galpões
+ ou estruturação de pequenas unidades de fabricação de produtos em MPEs controladas por mulheres.
+- Crédito para equilíbrio de fluxo de caixa e apoio com gastos inesperados para MPEs controladas por empresas.
+- Capital de giro de longo prazo para MPEs controladas por mulheres.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 18
+O valor do produto é de EUR 10.000.000,00 (dez milhões de euros) e a meta prevista desse produto é de R$ 59.000.000,00 (
+cinquenta e nove milhões de reais).
+São linhas de crédito do BDMG a justificar as metas físicas para os próximos 5 anos nesse produto:
+BDMG PRONAMPE CAPITAL DE GIRO:  micro ou pequenas empresas, em geral, com faturamento anual de até R$ 4,8 milhões e
+no mínimo 12 meses de existência, anteriores à data de protocolo do pedido. Oferece taxas reduzidas para aumentar o capital de
+giro, equilibrar fluxo de caixa ou reorganizar dívidas, e possui condições especiais para mulheres empreendedoras (empresas que
+tenham participação feminina no capital social ou superior a 50%, há pelo menos 6 meses, contam com juros de 5,75% a.a. + Selic
+ e tarifa reduzida).
+BDMG PRONAMPE INVESTIMENTO: micro ou pequenas empresas, em geral, com faturamento anual de até R$ 4,8 milhões e no
+mínimo 12 meses de existência, anteriores à data de protocolo do pedido. O BDMG financia a reforma ou ampliação do negócio,
+aquisição de veículos ou mobiliário e compra de equipamentos.
+Como meta física cumulativa no ano 5 estima-se a projeção de linhas de crédito no valor total de: EUR 22.800.000,00 (vinte e dois
+milhões e oitocentos mil euros).
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Outros
+-
+-
+150.000.000,00
+100,00
+P- Projetos dos setores público e privado para
+energia renovável e eficiência energética
+Euro
+65.000.000,
+00
+60.000.000,00
+40,00
+P- Projetos dos setores público e privado para
+infraestrutura urbana sustentável
+Euro
+20.000.000,
+00
+15.000.000,00
+10,00
+P- Projetos dos setores público e privado para
+Hidrogênio Verde
+Euro
+15.000.000,
+00
+10.000.000,00
+6,67
+P- Projetos do setor privado em mineração verde
+Euro
+25.000.000,
+00
+22.500.000,00
+15,00
+P- Projetos do setor privado em cadeias de
+fornecimento de minerais críticos que apoiem as
+transições energética e digital
+Euro
+25.000.000,
+00
+22.500.000,00
+15,00
+P- Projetos para Micro e Pequenas Empresas em
+municípios vulneráveis e de IDH abaixo da média
+brasileira
+Euro
+15.000.000,
+00
+10.000.000,00
+6,67
+P- Projetos para Micro e Pequenas Empresas
+liderados por mulheres
+Euro
+15.000.000,
+00
+10.000.000,00
+6,67
+Total Geral
+-
+-
+150.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+Primeiramente, destacam-se algumas ações de natureza institucional e legal na estrutura do BDMG que viabilizaram a operacionalização
+de captações externas nos últimos anos e reforçam a capacidade técnica de operacionalização e gestão dos contratos internacionais pelo
+Banco. Dentre várias iniciativas, destacam-se a criação da Gerência de Captação Internacional e Relação com o Mercado, vinculada à
+Superintendência de Administração Financeira, e a reorientação estratégica alinhada às melhores práticas de sustentabilidade, como a
+criação da Política de Responsabilidade Social, Ambiental e Climática, a instituição da Gerência de Risco Socioambiental e Climático,
+vinculada à Superintendência de Riscos e Controles Internos, a implementação da metodologia de risco socioambiental, a certificação do
+Framework ODS em cooperação com o BID, e a criação da Gerência de Sustentabilidade, dividindo as competências da Gerência de
+Estratégia e Sustentabilidade.
+
+Além disso, ao longo dos últimos 10 anos, o BDMG adquiriu experiência e know-how em captações externas, tendo realizado
+aproximadamente 10 operações de financiamento externo, com 7 parceiros distintos, incluindo a emissão de um Bond Sustentável, ao
+final de 2020.
+
+A emissão de um título sustentável ocorrido em 2020, estruturou-se a partir de uma operação junto ao BID INVEST, braço do grupo BID
+para investimentos no setor privado, no valor USD 50 milhões. O referido Bond destinava-se à alocação de recursos em projetos alinhados
+ a um ou mais ODS.
+
+Uma característica do BDMG é que as captações externas são acompanhadas de instrumentos de hedge, em especial o swap cambial.
+Desse modo, na ocasião da internalização dos recursos em moeda estrangeira, um swap cambial é simultaneamente contratado, de modo
+que o BDMG não incorre no risco de variação cambial. Adicionalmente, como os financiamentos são concedidos em moeda nacional, os
+sub-mutuários também não são expostos a qualquer risco de choque de taxa de câmbio em seu fluxo de pagamento, sendo visto como
+um diferencial por parte do BDMG.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 19
+Ressalta-se que o BDMG consiste em banco de desenvolvimento subnacional robusto a promover a presente linha de crédito, uma vez
+que possui reconhecida experiência na capacidade de alocar crédito para os setores público e privado no estado de Minas Gerais (e
+estados limítrofes, no caso de benefícios comprovados ao estado de MG). Caracteriza-se pela maturidade institucional na organização e
+gestão dos dados, permitindo a mensuração dos impactos, a maior qualidade de análise dos resultados e a elaboração de relatórios (
+reports) estruturados.
+
+O BDMG se destaca por vincular a sua política estratégica aos Objetivos de Desenvolvimento Sustentável, que se materializa em linhas e
+produtos voltados para a sustentabilidade e o impacto social, ambiental e climático positivo. Outrossim, a classificação de todas as suas
+operações de crédito ocorre conforme um dos 13 ODS relacionados no Framework Sustentável do BDMG ou como Outros (sem
+classificação ODS). O enquadramento das operações com taxonomia ODS vincula cada operação financeira a um grupo de categorias e
+indicadores de impacto. Dessa forma, o BDMG objetiva não apenas prover o crédito aos sub-mutuários, mas, em especial, mensurar o
+impacto de suas operações financeiras e ações.
+
+A parceria entre BDMG e BEI é de longa data. O primeiro contrato de empréstimo ocorreu em 2019, sendo que os desembolsos foram
+contínuos desde 2020.
+
+Em outubro de 2019, o Banco Europeu de Investimentos concedeu uma linha de crédito de até EUR 100.000.000 (cem milhões de euros)
+para o financiamento de projetos e investimentos em energia renovável (fotovoltaica, hidroelétrica e biomassa) e eficiência energética,
+com o objetivo de contribuir para a mitigação dos efeitos da mudança climática em Minas Gerais.  
+Em 2020, a demanda das empresas e municípios por suporte financeiro foi bastante considerável. O BDMG concentrou esforços para
+apoiar seus clientes durante a crise deflagrada pela pandemia. Nesse sentido, em outubro de 2020 foi realizado um aditivo contratual que
+possibilitou a flexibilização da aplicação de 30% dos recursos da linha, ou seja, EUR 30.000.000 (trinta milhões de euros), com destinação
+para empresas que apresentassem um número inferior a 3000 funcionários e em setores de atividades classificadas no código europeu
+NACE 0 e 1.
+
+Desta forma a captação ficou dividida em 70% financiamentos do tipo FL - para energia renovável e eficiência energética e 30% para
+financiamentos do tipo MBIL - para micro e pequenas e médias empresas.
+
+Em 2021, ocorreu o 2º aditivo contratual ampliando-se a linha para EUR 120.000.000 (cento e vinte milhões de euros). Manteve-se a
+proporção de 70% da linha para projetos e investimentos em energia renovável e eficiência energética e 30% para projetos de
+investimento para micro e pequenas e médias empresas.
+
+Em 2023, ocorreu o 3º aditivo contratual destinando a transferir o montante EUR 6.000.000 (seis milhões de euros), da ampliação da linha,
+de financiamentos do tipo MBIL para financiamentos do tipo FL. Dessa forma, todos os recursos adicionais, no valor de EUR 20.000.000 (
+vinte milhões de euros), foram destinados a projetos de eficiência energética e energia renovável.
+
+Em sua totalidade, a proporção final de alocação de recursos da operação com o Banco Europeu de investimento ficou assim distribuída:
+75% para projetos e investimentos em energia renovável e eficiência energética (EUR 90.000.000) e 25% para projetos de investimento
+para micro e pequenas e médias empresas (EUR 30.000.000).
+
+Frente à finalização dos desembolsos referentes à contratação com o BDMG sem garantia da União, o Banco iniciou tratativas com o BEI
+a fim de continuar com a parceria que apresenta relevante benefício para o desenvolvimento socioeconômico e ambiental do estado de
+Minas Gerais.
+
+Nos últimos anos é também observado uma estratégia institucional do BEI de maior aproximação com o Brasil e entes subnacionais.
+Desde 1997 que o BEI financia projetos no Brasil. Em especial, o BEI inaugurou um escritório em Brasília em maio de 2023, sendo que a
+instituição possui também representação em outras localidades na América Latina e Caribe, como na Colômbia, Barbados e República
+Dominicana.
+
+Acompanhando a agenda global de desenvolvimento e tendo no centro de sua estratégia a preocupação com as gerações futuras, os
+Objetivos de Desenvolvimento Sustentável (ODS) são vitais para o BDMG. Dessa forma, o BDMG reconhece e reforça o seu compromisso
+com as ambições incorporadas pelos ODS. A estratégia está sendo construída para intensificar as ações do BDMG em apoio à Agenda
+2030, solucionando as barreiras que restringem a canalização de financiamento para o desenvolvimento sustentável e aproveitando as
+oportunidades para aumentar os investimentos nos ODS em Minas Gerais.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 20
+Nesse sentido, os recursos advindos do BEI para o financiamento de projetos de energias renováveis e de eficiência energética, são
+iniciativas aderentes aos Objetivos 7 e 13 da agenda 2030: 
+
+- Objetivo 7. Assegurar o acesso confiável, sustentável, moderno e a preço acessível à energia para todos  
+- Objetivo 13. Tomar medidas urgentes para combater a mudança climática e seus impactos.  
+
+Com forte adicionalidade, os recursos do BEI têm permitido a aplicação de recursos a custos acessíveis em projetos de energias
+renováveis, como energia solar fotovoltaica e centrais de geração hidrelétrica, biomassa e projetos de eficiência energética como
+iluminação pública municipal. O impacto esperado nestes projetos está relacionado a um volume de geração de energia limpa e economia
+de energia que, consequentemente, evitam a emissão de gases de efeito estufa para a atmosfera. Além dos indicadores ambientais,
+estima-se ainda a criação de novos postos de trabalho durante a execução dos projetos, assim como após a realização dos investimentos.
+   
+
+O Banco de Desenvolvimento de Minas Gerais tem como propósito transformar iniciativas em realidade para fazer diferença na vida dos
+mineiros, para tal, ele busca garantir sustentabilidade financeira, maximizar impacto e desenvolvimento e ser especialista em Minas Gerais
+para gerar valor à sociedade. Nesse sentido, para guiar o BDMG, foram definidas as seguintes estratégias: balancear nível de
+rentabilidade e risco para o alcance de resultados; realizar a gestão equilibrada de funding para viabilizar os objetivos estratégicos;
+garantir altos padrões de qualidade, alcançando excelência técnica e operacional; atuar, junto às empresas, de forma efetiva e contínua,
+reforçando, inclusive, o papel anticíclico do BDMG; incorporar impacto e desenvolvimento como variável decisória; maximizar o impacto
+pela mobilização de recursos e de parceria para Minas Gerais; viabilizar soluções financeiras (produtos e serviços) para o
+desenvolvimento de MG; e ampliar a inserção do BDMG e de Minas Gerais nas agendas globais de desenvolvimento.  
+
+Por sua vez, a missão do Banco Europeu de Investimento é promover o crescimento sustentável na UE e em outros continentes,
+comprometido com o desenvolvimento sustentável, de acordo com sua estratégia e base de modelo de negócios. Nesse contexto, o
+Banco Europeu de Investimentos alinha-se com as prioridades e com a estratégia do BDMG no Brasil, considerando que investe em
+iniciativas que criam vínculos entre pessoas, negócios e economias. As iniciativas que o BEI apoia visam enfrentar os desafios e riscos do
+mundo em mudanças e são uma prova concreta da importância da UE para vidas e empresas não só na Europa.
+
+A linha de financiamento do BEI proporcionou ao BDMG oferecer a empresas de diferentes portes e setores em Minas Gerais, opção de
+crédito de longo prazo a custos acessíveis para investimentos em energias renováveis e em eficiência energética. Na ausência da linha de
+financiamento do BEI, o BDMG continuaria atuando com recursos de repasses e recursos próprios que, além de não possuírem o prazo e
+ custos adequados aos investimentos, são escassos frente a necessidade de capital para transformação da matriz energética do Estado.   
+
+Além de benefícios ambientais e financeiros claros, observa-se a geração de novos postos de trabalhos criados no período de aplicação
+dos investimentos e execução dos projetos, além de novos empregos gerados também após a conclusão dos projetos. 
+Analisando os impactos da parceria Bei e BDMG entre 2019-2023, para a linha de crédito destinada à energia renovável e eficiência
+energética (Linha FL), o BDMG aprovou financiamentos para uso dos recursos do BEI destinados a 62 projetos que somam mais de R$
+588 milhões. São 56 usinas fotovoltaicas, 3 centrais geradoras hidrelétricas e 2 projetos de iluminação pública e 1 projeto de biomassa.
+Estes projetos estão distribuídos em 57 diferentes municípios de Minas Gerais, sendo 40 deles com IDH abaixo da média brasileira. A
+nova capacidade instalada é de 182 MW, a quantidade de eletricidade produzida em novas usinas é de 648 GWh/ano e a redução anual
+de emissão de CO2 é estimada em 44 mil tCO2/ano. Foram 10 tranches desembolsadas junto ao BEI no período (sendo 9 tranches para
+financiamentos FL). Já para os financiamentos às micro e pequenas empresas (Linha MBIL), foram financiados aproximadamente 2.900
+clientes, totalizando R$ 184 milhões, num total de 301 municípios com manutenção de mais de 16.000 empregos.
+
+A seleção de projetos a serem financiados considera a regularidade do empreendimento e conformidade com a legislação brasileira e
+normas ambientais e sociais do BEI. A regularidade é verificada durante o processo de concessão de crédito pelo BDMG por meio da
+verificação de documentos ambientais, documentação do imóvel onde o projeto será instalado, certidões e autorizações necessárias para
+a implantação do empreendimento. Antes de cada liberação de recursos do financiamento, nova checagem é realizada, objetivando
+confirmar a situação regular do projeto. Caso seja identificada alguma pendência, a liberação de recursos é suspensa até a regularização
+da situação. 
+
+Durante todo o projeto há acompanhamento sistemático pelo BDMG para monitorar o avanço da implantação e conformidade com a
+legislação brasileira e normas ambientais e sociais do BEI. Para projetos com maior potencial de impacto, pode ainda haver a contratação
+de consultorias especializadas para acompanhamento do projeto e impactos decorrentes da implantação. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 21
+No geral, os projetos financiados pelo BDMG com recursos do BEI são de pequeno porte e baixo potencial poluidor. Grande parte possui
+baixo risco socioambiental com impactos ambientais e sociais negativos insignificantes pois não envolvem, por exemplo, desapropriações,
+impacto sobre a biodiversidade, entre outros. Pelo contrário, são projetos que, por suas características, possuem impactos
+socioambientais positivos como a geração de empregos e a redução da emissão de CO2.
+
+Além dos dois atores principais envolvidos na transação financeira, quais sejam os bancos de desenvolvimento BEI e BDMG, os atores
+envolvidos na linha de financiamento incluem clientes que realizarão os investimentos: empresas de diferentes portes interessados na
+realização de investimentos em energias renováveis e eficiência energética em Minas Gerais; micro, pequenas e médias empresas de
+projetos tipo MBIL, atores locais de comunidades e públicos do entorno onde os projetos são executados; agentes estaduais públicos
+como a Companhia Energética de Minas Gerais (Cemig) e órgãos da Secretaria de Meio Ambiente de Minas Gerais (SEMAD),
+responsáveis pelas licenças ambientais e documentos de conformidade; além de atores privados, como empresas responsáveis por
+auditorias ambientais e energéticas.
+
+Assim, reforça-se o interesse em uma operação de financiamento baseado em infraestrutura urbana sustentável, energia renovável e
+eficiência energética alinhado também à resultados de descarbonização e resiliência climática, alinhada também à redução de
+desigualdades, plenamente aderente ao mandato e às prioridades das duas instituições (BDMG e BEI). Neste sentido, reconhece-se o
+alinhamento de estratégias e a adicionalidade de uma parceria do BEI com um banco local de desenvolvimento com foco na maximização
+de impactos e maior capilaridade, como o BDMG.
+
+No desenho do Programa BDMG SUSTENTABILIDADE E MPE foram realizados estudos prévios de definição de indicadores, metas,
+marcos e objetivos na estruturação de um projeto de financiamento inovador e alinhado com as melhores práticas de ação climática e de
+desenvolvimento socioeconômico, primando pelo atendimento de questões de gênero e de redução das desigualdades.
+Ademais, as projeções de desembolso para o próximo quinquênio e a carteira/ pipeline indicativa de projetos para municípios (setor
+público) e empresas (setor privado), alinhados ao Programa em preparação, revelaram uma previsão de desembolsos em projetos de
+ação climática e redução das desigualdades em torno de R$ 4 bilhões nos próximos cinco anos.
+
+Vale salientar que o menor custo previsto da operação externa com o BEI, ora discutida, em relação ao custo de financiamento externo
+atual do BDMG, gera uma maior demanda esperada de projetos ao menos por dois canais. Primeiro, de forma mecânica, um menor custo
+de captação resulta em um maior número de projetos viáveis (VPL positivo), dado uma menor taxa de desconto relativa esperada.
+Segundo, o menor custo de captação se traduz em menor custo financeiro ao sub-mutuário final, gerando melhor posicionamento
+competitivo das linhas do BDMG. 
+
+Ainda, em termos de ações prévias, realizou-se levantamentos para avaliação de operações externas com garantia soberana junto a
+outros potenciais multilaterais, com vistas a se analisar a competitividade de parâmetros da operação com o BEI, como custos e prazos,
+agilidade na preparação do projeto e flexibilidade no desenho da operação e no uso dos recursos. 
+
+O Programa BDMG SUSTENTABILIDADE E MPE será fonte de recursos para intermediação financeira do BDMG aos sub-mutuários que
+possuam projetos alinhados à ação climática e à redução de desigualdade, sendo que a infraestrutura de equipamentos e sistemas, a
+capacidade técnica do corpo funcional, a expertise de repasses de organismos multilaterais e as ferramentas para mensuração de
+impactos já se encontram estruturados no BDMG para desenvolvimento e implementação do Programa. Em linhas gerais, a
+implementação do Programa no BDMG não significa alteração ou aumento da estrutura física e de pessoal, estando integrada com as
+atividades e políticas de financiamento do Banco.
+
+A reconhecida experiência do BDMG com o uso de recursos de fontes internacionais reforça a expectativa de resultados de impacto já no
+curto e médio prazo, ao se utilizar  a estrutura dos funcionários, sistemas e processos existentes, sem gastos incrementais ao Banco, além
+de associar as diretrizes do BDMG e as políticas públicas do estado com descarbonização e resiliência climática. Por meio de sua
+capilaridade, o BDMG se mostra mecanismo eficiente para atingir um maior número de empresas e municípios, em especial de menor
+porte (muitas vezes sem acesso a crédito atrativo), engajando-os na ação climática e mobilizando recursos privados para a
+sustentabilidade.
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Estadual/Sem detalhes
+Estado de Minas Gerais ()
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+(i) Condições financeiras: 
+
+Valor do contrato 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 22
+EUR 150.000.000,00 (cento e cinquenta milhões de euros) 
+
+Taxas
+Taxa Fixa em EUR (3,6%),
+Taxa Fixa em USD (5,1%),
+Euribor 6 meses + Spread Variável (102 pontos base),
+SOFR + Spread Variável (127 pontos base) *Taxas indicativas à data de 27 de março de 2024 
+
+A política de taxas de referência do BEI encontra-se disponível no link a seguir: https://www.eib.org/en/products/pricing-and-other-terms.
+htm
+
+Prazos
+Prazo total: 300 meses (25 anos) 
+Prazo de carência: máximo de 60 meses (5 anos) 
+Prazo de amortização: 240 meses (20 anos) 
+
+Periodicidade dos pagamentos 
+Semestral 
+
+Prazo de Desembolso (Período de Disponibilidade)
+Máximo de 60 meses (5 anos) 
+
+Sobre o financiamento do hedge cambial, o custo estimado da internalização dos recursos da operação junto ao BEI, conforme estimativas
+de 30/03/2023, é um valor em torno de 105,3% DI (com a característica de um longo prazo para pagamento - até 25 anos, incluído
+commitment fee e encargos de inspeção e supervisão). Informa-se que foram feitas cotações com duas instituições financeiras do
+segmento S1, que confirmaram a possibilidade de realizarem swaps cambiais para o período integral da linha (25 anos), assim como para
+renovação de swaps cambiais de 10 ou 15 anos, a cada 5 anos, garantindo a mitigação do risco de câmbio em todo o período. 
+
+Demais encargos e comissões
+A Comissão de aprovação (upfront fee) é de 0,20% sobre o montante aprovado, dentro de uma data do vencimento o mais tardar até 100
+dias após a data de assinatura do contrato de financiamento.
+
+A Comissão de autorização (commitment fee) é de um máximo de 0,50% sobre saldo não desembolsado, começando a valer a partir de
+entre 12 e 36 meses após a assinatura do contrato.
+
+
+Mecanismo de Desembolsos
+
+ii) Necessidade de financiamento externo e a opção pelo agente financeiro:
+
+Como banco de desenvolvimento local com foco em impacto, o BDMG atua com uma diversidade de fontes de funding (captações internas
+, captações externas, repasses nacionais e gestão de fundos) de modo a fazer frente às necessidades de recursos para financiamento às
+empresas e aos municípios, primordialmente no Estado de Minas Gerais.
+
+São três as razões principais para a necessidade de financiamento externo.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 23
+Primeiro, trata-se de forma de diversificação de risco de fontes de funding, gerando uma melhoria do perfil de risco de crédito do próprio
+Banco e mitigação de risco de carência de recursos para financiar as atividades produtivas dos sub-mutuários. Ao final do ano de 2023, as
+ captações externas representavam em torno de 44,8% das fontes de funding do BDMG captados no mercado nacional e internacional.
+
+Em segundo lugar, a Resolução CMN nº 5.047/2022, art. 12, II, que disciplina a constituição e funcionamento dos bancos de
+desenvolvimento, limita a captação interna de recursos, visto que estabelece que 'o saldo das letras financeiras emitidas, somado ao saldo
+dos depósitos a prazo captados, não deve ser superior a 50% (cinquenta por cento) do valor do patrimônio líquido da instituição'. Dessa
+forma, para fazer frente à estratégia do Banco e projeções de desembolso, papel relevante possuem as captações internacionais.
+
+Terceiro, o perfil dos financiamentos externos é de operações de prazo mais longo, e muitas vezes, de custo financeiro menor, melhor
+alinhando-se a parte da demanda dos projetos de sub-mutuários, e permitindo uma melhor gestão ALM e de liquidez.
+Vale salientar que nos últimos 10 anos o BDMG realizou aproximadamente 12 operações de financiamento externo, com 8 parceiros
+distintos, incluindo a emissão de um Bond Sustentável, o que demonstra a experiência e expertise do Banco nesse tipo de operações.  Em
+dezembro de 2023, em valores marcados a mercado (MaM), o BDMG contabilizava um estoque de R$ 1.491.543.340,00 de captações
+externas, junto à CAF, FONPLATA, BID INVEST, AFD e em outras contratações com o BEI.
+
+O interesse do BDMG em contratar uma operação de crédito junto ao BEI decorre de uma série de vantagens operacionais deste, dentre
+as quais: (1) prazos e custos que se mostram adequados frente à demanda prevista para o escopo de projetos; (2) custos de captação
+acessíveis; (3) elegibilidade com foco nos setores público e privado (com ênfase naquelas empresas localizadas em municípios de IDH
+abaixo da média nacional); (4) agilidade e suporte na preparação do projeto; (5) convergência de diretrizes de investimento do BEI e do
+BDMG, como compromisso comum das duas instituições quanto à implementação dos Objetivos para o Desenvolvimento Sustentável da
+Agenda 2030 da ONU.
+
+Em especial, os recursos do Programa serão essenciais em manter as linhas de crédito semelhantes que atendem aos projetos de energia
+e infraestrutura urbana sustentável, mineração para as transições energética e digital e MPEs, contribuindo para o desenvolvimento
+econômico e social de longo prazo para os 853 municípios do estado. Em especial, a previsão de desembolso é linear nos 5 anos por ser
+continuidade nas linhas existentes e indicadas em cada um dos produtos propostos no presente Programa.
+Em relação às condições favoráveis em termos de prazos, custos e critérios de elegibilidade, a título de comparação, seguem abaixo
+condições associadas às principais captações externas do BDMG vigentes, sem garantia soberana, cujos dados já foram publicados em
+documentos de natureza pública, como as demonstrações financeiras do BDMG:
+
+- BID INVEST (Sustainable Bond) - 2020: USD 50 milhões | Prazo: 7 anos (sendo 2 anos de carência) | Finalidade: Projetos elegíveis ao
+Sustainable Bond alinhados com um ou mais Objetivos de Desenvolvimento Sustentável (ODS) da ONU | Assinatura Contrato: 2020 |
+Percentual alocado: 100%.
+
+- Corporação Andina de Fomento (CAF1): USD 100 milhões | Prazo: 10 anos (sendo 2 anos de carência) | Finalidade: Financiamento a
+operações destinadas a contribuir para a inovação, expansão e modernização da capacidade produtiva de empresas estabelecidas em
+Minas Gerais | Assinatura Contrato: 2013 | Percentual alocado: 100%.
+
+- Corporação Andina de Fomento (CAF2): USD 100 milhões | Prazo: 6 anos (sendo 2 anos de carência) | Finalidade: Financiamento de
+operações de micro, pequenas e médias empresas, orientado a mitigar os efeitos da crise COVID e apoiar o processo de recuperação da
+atividade econômica | Assinatura Contrato: 2020 | Percentual alocado: 100%.
+
+- FONPLATA: USD 36 milhões | Prazo: até 8 anos (sendo 2 anos de carência) | Finalidade: Financiamento a projetos de municípios de
+Minas Gerais | Assinatura Contrato: 2020 | Percentual alocado: 100%.
+
+- Banco Europeu de Investimento (BEI): EUR 120 milhões | Prazo: 10 anos (sendo 2 anos de carência) | Finalidade: Financiamento a
+projetos em energia renovável e eficiência energética (70%) e financiamento de micro, pequenas e médias empresas atingidas pela
+pandemia de COVID-19 (30%) | Assinatura Contrato: 2019 (Aditivo para extensão do crédito: 2021) | Percentual alocado: 100%.
+
+- Agência Francesa de Desenvolvimento (AFD1): EUR 50 milhões | Prazo: 12 anos (sendo 3 anos de carência) | Finalidade:
+Financiamento a projetos de municípios mineiros em setores que apresentem co-benefícios ambientais e expansão de serviços básicos |
+Assinatura Contrato: 2014 | Percentual alocado: 62%.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 24
+- Agência Francesa de Desenvolvimento (AFD2): EUR 70 milhões | Prazo: até 12 anos (sendo 3 anos de carência) | Finalidade:
+Financiamento a projetos do framework verde (70%) bem como projetos do framework social (30%) do BDMG | Assinatura Contrato: 2020
+| Percentual alocado: 25%.
+
+Além disso, considerando-se operações externas com garantia soberana, a operação com o BEI apresentou custos e prazos competitivos
+com os disponibilizados nos sites de outros potenciais multilaterais (como NDB, AIIB, BID, IBRD ou World Bank Group), porém com
+significativa vantagem em termos de agilidade e suporte na preparação do projeto e no uso dos recursos para o setor público.
+
+Em relação às condições favoráveis em termos de prazos, custos e critérios de elegibilidade, com garantia soberana, segue o comparativo
+ com outros bancos multilaterais de desenvolvimento que atuam no Brasil:
+
+- New Development Bank (NDB): taxa de referência SOFR e spread variável de 1,70% a.a.;
+
+- Asian Infrastructure Investment Bank (AIIB): taxa de referência SOFR e spread variável de 1,37% a.a.;
+
+- Banco Interamericano de Desenvolvimento (BID): taxa de referência SOFR e spread variável de 1,26% a.a.;
+
+- International Bank for Reconstruction and Development (IBRD): taxa de referência SOFR e spread variável de 1,57% a.a..
+
+Portanto, observa-se que as condições oferecidas pelo BEI se encontram em linha com as taxas de outros bancos multilaterais de
+desenvolvimento, com condições financeiras mais favoráveis oferecidas pelo banco para o modelo de operação de crédito externo com
+garantia da União.
+
+Os valores consultados de referência dos bancos multilaterais, no oferecimento de operações de crédito com garantia soberana,
+encontram-se disponíveis nos links a seguir.
+
+- Banco Interamericano de Desenvolvimento (BID): www.iadb.org/en/idb-finance/interest-rates-and-loan-charges
+
+- Asian Infrastructure Investment Bank (AIIB): www.aiib.org/en/policies-strategies/operational-policies/sovereign-loan-pricing.html
+
+- International Bank for Reconstruction and Development (IBRD): IBRD-Flexible-Loan-IFL-Pricing-Basics-Product-Note.pdf (worldbank.org)
+
+- New Development Bank (NDB): www.ndb.int/wp-content/uploads/2023/02/NEW-DEVELOPMENT-BANK-SOVEREIGN-GUARANTEED-
+LOAN-PRICING-20230101.pdf
+
+
+iii) Custo estimado da internalização dos recursos
+
+Como já destacado, um diferencial do BDMG é uso dos recursos captados externamente por meio de financiamentos concedidos em
+moeda nacional aos sub-mutuários (no caso, municípios). Os recursos em moeda estrangeira (USD ou EUR) são internalizados em
+moeda local (BRL - R$) pelo BDMG, sendo o risco cambial mitigado a partir da contratação simultânea de swaps cambiais.
+
+O custo estimado da internalização dos recursos da operação junto ao BEI, conforme estimativa de 26/12/2023, é um valor em torno de
+117,7% DI (com a característica de um longo prazo para pagamento - até 15 anos).
+
+Além disso, entende-se que os recursos da operação com o BEI possam ser utilizados em operações de Blended Finance, ou mesmo
+como fonte para desenho de instrumentos de garantia às operações financeiras de projetos ligados à infraestrutura urbana sustentável,
+com destaque para os projetos de energia renovável e eficiência energética, saneamento básico e acesso à água e resíduos sólidos
+urbanos.
+
+(iv) Contragarantias à União do Financiamento
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 25
+
+Além das cotas de repartição constitucional (recebíveis do Estado de Minas Gerais), a contragarantia para a União para a operação de
+financiamento com garantia soberana ora discutida poderá ser de fluxo de recebíveis do próprio Banco de Desenvolvimento de Minas
+Gerais.
+
+(v) Prazo de Desembolsos/ Cronograma
+
+Considerando a modalidade desta operação de crédito baseada em sub-empréstimos a municípios e empresas privadas, a estrutura
+técnica e a experiência do BDMG nesse tipo de operações, o Banco está seguro de que o Prazo de Desembolsos de 5 anos é adequado e
+ suficiente para a plena execução do Programa.
+
+O Cronograma de Desembolsos anual está em conformidade com o previsto em uma operação de crédito para desembolsos a sub-
+mutuários.
+2.11. PROJETO/BENEFICIÁRIO
+O público-alvo (beneficiários diretos) são os municípios e as empresas privadas localizadas no estado de Minas Gerais, cujo uso dos
+recursos captados esteja relacionado a descarbonização, resiliência climática e redução de desigualdade associada, além de se
+enquadrem nos critérios de normativos internos do BDMG.
+
+Em razão do uso livre dos recursos, que permite uma utilização multisetorial dos valores do Programa BDMG SUSTENTABILIDADE E
+MPE, prefeituras e empresas de diversos setores serão elegíveis e os recursos poderão ser aplicados em várias áreas no estado. No caso
+dos beneficiários diretos do setor público, os municípios poderão se beneficiar do Programa por meio de acesso a financiamentos a
+projetos relacionados à descarbonização e resiliência climática aplicados em infraestrutura e desenvolvimento econômico, tais como em
+eficiência energética, saneamento básico e melhoria do ambiente de negócios, dentre outros. No caso dos beneficiários diretos do setor
+privado, as empresas poderão se beneficiar a partir de financiamento à promoção da sustentabilidade ambiental, geração de emprego e
+renda para populações de baixa renda e vulneráveis, além de destinas políticas de fomento ao empreendedorismo feminino, inovação e
+modernização tecnológica, dentre outros.
+
+Em específico, os beneficiários concentram-se nas populações vulneráveis com maior risco de sofrerem desastres naturais decorrentes
+dos efeitos das mudanças climáticas, em especial, as populações mineiras das regiões Norte e Nordeste, devido ao aumento dos períodos
+de escassez hídrica, e as populações localizadas nas regiões metropolitanas dos municípios maiores do Estado, em virtude dos riscos de
+enchentes e inundações, conforme dados do 4º Inventário de GEE de Minas Gerais (FEAM, 2022). 
+Os beneficiários concentram-se em municípios de Minas Gerais, com destaque para o atendimento a municipalidades de menor IDH, que
+possuem grande demanda por projetos de infraestrutura e possuem baixo acesso ao mercado financeiro por se tratar, em grande maioria,
+de municípios de 5 mil a 30 mil habitantes.  Salienta-se que no ano de 2023 mais de 301 prefeituras de municípios de pequeno e médio
+porte de Minas Gerais solicitaram crédito somente ao BDMG.
+
+Observa-se que o Programa se estrutura a partir das linhas de crédito existentes e disponíveis aos municípios e empresas sediadas em
+Minas Gerais. Dessa forma, tais linhas de crédito existentes no BDMG seriam incrementadas pelo Programa proposto, permitindo a
+expansão de municípios contemplados e o desenvolvimento de novos projetos de infraestrutura e energia renovável.
+O BDMG SUSTENTABILIDADE E MPE abrange importante áreas estratégicas da atuação do Banco (Anexos 1 e 3), com significativos
+impactos econômicos, sociais e ambientais esperados, seja por meio de financiamentos a beneficiários do setor privado, seja por meio do
+setor público.
+
+Vale salientar que os financiamentos aos sub-mutuários mobilizarão capital privado aos investimentos em projetos relacionados à
+descarbonização, resiliência climática e redução de desigualdades. A título de informação, os projetos dos sub-mutuários finais (empresas
+) a serem financiados com recursos repassados pelo BDMG no âmbito da operação externa com o BEI devem apresentar uma
+contrapartida financeira, de pelo menos 20% do valor do projeto, em consonância às políticas internas do BDMG. Nesse sentido, os
+recursos de contrapartida constituem em incentivo ao mercado privado em incorporar práticas e processos ambientais, climáticas e
+socialmente adequadas em seus processos produtivos, possibilitando a multiplicação de atividades responsáveis e dos impactos esperado
+ pelo Programa.
+
+Além disso, ressalta-se que as ações resultantes do programa serão apropriadas pelos beneficiários finais (sub-mutuários), de modo que a
+responsabilidade pelo monitoramento de indicadores relativos à manutenção destas, em prazo além da vigência das obrigações
+contratuais, é atribuída aos sub-mutuários e beneficiários finais, cabendo ao BDMG tão somente prestar apoio técnico caso seja
+requisitado. De outro lado, ganhos operacionais das ações do Programa (sistemas, indicadores, expertise em originação) tendem a ser
+absorvidos pelo BDMG.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 26
+A população dos municípios mineiros e os consumidores dos produtos e serviços oferecidos pelos tomadores privados são os
+beneficiários indiretos e finais dos projetos contemplados com os recursos potenciais da operação aqui proposta. Pela natureza dos
+projetos relacionados ao desenvolvimento sustentável e ação climática, parcela da população com acesso restrito ao crédito de longo
+prazo, assim como, as populações, sobretudo a faixa mais carente, vivendo em áreas desprovidas de serviços básicos, tendem a ser os
+principais beneficiários finais. Conforme estimativa do IBGE, datada de 2021, a população do Estado de Minas Gerais é de
+aproximadamente 21,4 milhões de habitantes, e conta com vários municípios localizados em regiões de menor IDH no estado, como o
+Vale do Mucuri, Jequitinhonha e Norte de Minas.
+
+Por fim, a implementação de linhas de crédito vinculada a resultados de redução das emissões de carbono, de transição verde de
+processos produtivos e de prevenção e mitigação de desastres climáticos favorece o alcance das Contribuições Nacionalmente
+Determinadas (NDCs) do Brasil, conforme a Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC) e o Acordo de
+Paris de 2015. Em especial, como o Programa Baseado em Resultados envolve metas de descarbonização, possui importante
+contribuição nas metas nacionais de reduzir as emissões de GEE em 37% abaixo dos níveis de referência de 2005, em 2025, e de reduzir
+as emissões de GEE em 50% abaixo dos níveis de 2005, em 2030.
+
+Ressalta-se que a Estratégia Nacional para a Implementação e o Financiamento da NDC do Brasil ao Acordo de Paris é articulada entre a
+União, governos estaduais e municipais e setores relevantes da economia. Além disso, o setor privado e a sociedade civil organizada
+atuam de forma articulada com o Fórum Brasileiro de Mudança do Clima.
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Euro
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência ?
+Banco Europeu de Investimento - BEI
+BEI
+?
+150.000.000,00
+1,00
+150.000.000,00
+Total:
+150.000.000,00
+150.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+O Banco de Desenvolvimento de Minas Gerais S.A. (BDMG) é o proponente único do Programa BDMG SUSTENTABILIDADE E MPE, a
+ser financiado com recursos de operação externa junto ao Banco Europeu de Investimento (BEI). O BDMG será responsável pelas
+tratativas, contratação de financiamento junto ao BEI e pela execução (desenvolvimento e monitoramento) das operações de crédito do
+BDMG SUSTENTABILIDADE E MPE, de forma direta ou atuando em segundo nível. Nesse sentido, o BDMG deve ser visto como
+executor indireto (intermediário) dos projetos dos beneficiários diretos (sub-mutuários), que deverão passar pelo crivo e monitoramento do
+BDMG. Aos sub-mutuários (municípios e empresas) caberão a efetiva execução do Programa, assim como o envio das informações por
+parte do BDMG e BEI.
+
+O BEI, banco multilateral para financiamento externo, será a instituição responsável a fornecer os recursos do Programa. Na
+operacionalização do BDMG SUSTENTABILIDADE E MPE, o BEI irá disponibilizar os recursos em forma de linha de crédito/empréstimo (
+loan agreement) para que o BDMG possa executar todas as etapas até que os valores sejam repassados (emprestados) ao sub-mutuário
+final, qual seja, empresas e municípios no estado de Minas Gerais. Desse modo, o BEI se responsabilizará pelo fornecimento das
+diretrizes de elegibilidade, pela gestão do esquema de pagamentos da linha de crédito em sua totalidade junto ao BDMG, assim como
+pela verificação do cumprimento das obrigações financeiras e não financeiras (covenants) assumidas no instrumento contratual por parte
+do BDMG.
+
+
+(ii) Matriz de Responsabilidades
+
+Em síntese, há a seguinte composição dos responsáveis pelas atividades principais do Programa, no caso do BDMG, atribuídas a
+diferentes equipes técnicas:
+
+i) Negociação: a Superintendência de Administração Financeira do BDMG negocia os termos do acordo de abertura da linha de crédito
+junto ao BEI;
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 27
+ii) Captação: a prospecção e projetos fica a cargo dos Gerentes de Negócios do BDMG, que buscam oportunidades comerciais junto ao
+setor público e setor privado do Estado de Minas Gerais;
+
+iii) Enquadramento do projeto: a Superintendência de Operações do BDMG analisa e vincula o projeto recebido à linha de crédito mais
+adequada, sendo posteriormente validada pela Superintendência de Análise de Crédito, por Comitê de Crédito e, em última análise, pelo
+BEI;
+
+iv) Análise de crédito do projeto: a Superintendência de Análise de Crédito do BDMG realiza esta etapa, que segue para o Comitê de
+Crédito para deliberação; 
+
+v) Gestão e acompanhamento de riscos de crédito, operacional e socioambiental: Superintendência de Riscos, Conformidade e Controles
+Internos do BDMG;
+
+vi) Verificação de conformidade e análise de garantias: a Superintendência de Operações do BDMG;
+
+vii) Contratação: em geral, os empréstimos aos sub-mutuários são formalizados por meio de cédulas de crédito bancário ou de contratos
+bancários, conduzidos pela Superintendência Jurídica e Superintendência de Operações do BDMG. 
+
+viii) Liberações e recebimentos: Superintendência de Administração Financeira do BDMG 
+
+ix) Monitoramento de obrigações contratuais: fiscalização dos recursos repassados, por meio de comprovação física e financeira do uso e
+do atendimento às normas socioambientais e climáticas pelos sub-mutuários, pela Superintendência de Operações, e verificação e envio
+do cumprimento das obrigações financeiras e não financeiras (covenants) pela Superintendência de Administração Financeira, do BDMG. 
+
+x) Acompanhamento após a liberação total de recursos e eventuais ações de recuperação de crédito: Superintendência de Gestão de
+Crédito do BDMG.
+
+xi) Execução e Supervisão dos Projetos Elegíveis: obrigação exclusiva dos sub-mutuários, que atuam sob fiscalização do BDMG. 
+
+xii) Prestação de informações sobre os projetos financiados: fornecimento de informações exigidas dos projetos pelos sub-mutuários ao
+BDMG, que repassa os dados e emite relatórios de acompanhamento ao BEI. 
+
+A matriz com o arranjo institucional encontra-se no Anexo 3, juntamente com informações mais detalhadas sobre os setores do BDMG
+envolvidos no Programa e suas respectivas responsabilidades, sobre o papel do BEI e observações adicionais. 
+
+
+(iii) Arranjo Operacional 
+
+No final de 2023, o BDMG contava com 358 empregados, sendo 291 empregados efetivos admitidos por concurso público e 62 nomeados
+para cargos de recrutamento amplo, vinculados ao mandato da Diretoria. Além disso, integram a equipe do BDMG 95 estagiárias e
+estagiários, 3 aprendizes do Programa de Aprendizagem e 186 colaboradores de equipes terceirizadas que prestam serviços não típicos
+das carreiras do BDMG: manutenção predial e serviços gerais, de TI, análise de projetos de engenharia, serviços administrativos (Anexo 3
+).
+4.2. Execução/Executores
+Executor: Banco de Desenvolvimento de Minas Gerais - BDMG
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+Fax:
+CNPJ:                
+UF:  
+4.3. Execução/Prazo
+Prazo de Desembolso:
+5
+Anos
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 28
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BEI
+BEI
+C - INVESTIMENTOS EM ENERGIA E INFRAESTRUTURA URBANA SUSTENTÁVEL
+85.000.000,00
+17.000.000,00
+      P - Projetos dos setores público e privado para energia renovável e eficiência energética
+60.000.000,00
+12.000.000,00
+      P - Projetos dos setores público e privado para infraestrutura urbana sustentável
+15.000.000,00
+3.000.000,00
+      P - Projetos dos setores público e privado para Hidrogênio Verde
+10.000.000,00
+2.000.000,00
+C - INVESTIMENTOS EM MINERAÇÃO VERDE E PARA AS TRANSIÇÕES ENERGÉTICA E DIGITAL
+45.000.000,00
+9.000.000,00
+      P - Projetos do setor privado em mineração verde
+22.500.000,00
+4.500.000,00
+      P - Projetos do setor privado em cadeias de fornecimento de minerais críticos que apoiem as transições energética e digital
+22.500.000,00
+4.500.000,00
+C - INVESTIMENTOS EM MICRO E PEQUENAS EMPRESAS
+20.000.000,00
+4.000.000,00
+      P - Projetos para Micro e Pequenas Empresas em municípios vulneráveis e de IDH abaixo da média brasileira
+10.000.000,00
+2.000.000,00
+      P - Projetos para Micro e Pequenas Empresas liderados por mulheres
+10.000.000,00
+2.000.000,00
+Total
+0,00
+30.000.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BEI
+BEI
+C - INVESTIMENTOS EM ENERGIA E INFRAESTRUTURA URBANA SUSTENTÁVEL
+17.000.000,00
+      P - Projetos dos setores público e privado para energia renovável e eficiência energética
+12.000.000,00
+      P - Projetos dos setores público e privado para infraestrutura urbana sustentável
+3.000.000,00
+      P - Projetos dos setores público e privado para Hidrogênio Verde
+2.000.000,00
+C - INVESTIMENTOS EM MINERAÇÃO VERDE E PARA AS TRANSIÇÕES ENERGÉTICA E DIGITAL
+9.000.000,00
+      P - Projetos do setor privado em mineração verde
+4.500.000,00
+      P - Projetos do setor privado em cadeias de fornecimento de minerais críticos que apoiem as transições energética e digital
+4.500.000,00
+C - INVESTIMENTOS EM MICRO E PEQUENAS EMPRESAS
+4.000.000,00
+      P - Projetos para Micro e Pequenas Empresas em municípios vulneráveis e de IDH abaixo da média brasileira
+2.000.000,00
+      P - Projetos para Micro e Pequenas Empresas liderados por mulheres
+2.000.000,00
+Total
+0,00
+30.000.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BEI
+BEI
+C - INVESTIMENTOS EM ENERGIA E INFRAESTRUTURA URBANA SUSTENTÁVEL
+17.000.000,00
+      P - Projetos dos setores público e privado para energia renovável e eficiência energética
+12.000.000,00
+      P - Projetos dos setores público e privado para infraestrutura urbana sustentável
+3.000.000,00
+      P - Projetos dos setores público e privado para Hidrogênio Verde
+2.000.000,00
+C - INVESTIMENTOS EM MINERAÇÃO VERDE E PARA AS TRANSIÇÕES ENERGÉTICA E DIGITAL
+9.000.000,00
+      P - Projetos do setor privado em mineração verde
+4.500.000,00
+      P - Projetos do setor privado em cadeias de fornecimento de minerais críticos que apoiem as transições energética e digital
+4.500.000,00
+C - INVESTIMENTOS EM MICRO E PEQUENAS EMPRESAS
+4.000.000,00
+      P - Projetos para Micro e Pequenas Empresas em municípios vulneráveis e de IDH abaixo da média brasileira
+2.000.000,00
+      P - Projetos para Micro e Pequenas Empresas liderados por mulheres
+2.000.000,00
+Total
+0,00
+30.000.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BEI
+BEI
+C - INVESTIMENTOS EM ENERGIA E INFRAESTRUTURA URBANA SUSTENTÁVEL
+17.000.000,00
+      P - Projetos dos setores público e privado para energia renovável e eficiência energética
+12.000.000,00
+      P - Projetos dos setores público e privado para infraestrutura urbana sustentável
+3.000.000,00
+      P - Projetos dos setores público e privado para Hidrogênio Verde
+2.000.000,00
+C - INVESTIMENTOS EM MINERAÇÃO VERDE E PARA AS TRANSIÇÕES ENERGÉTICA E DIGITAL
+9.000.000,00
+      P - Projetos do setor privado em mineração verde
+4.500.000,00
+      P - Projetos do setor privado em cadeias de fornecimento de minerais críticos que apoiem as transições energética e digital
+4.500.000,00
+C - INVESTIMENTOS EM MICRO E PEQUENAS EMPRESAS
+4.000.000,00
+      P - Projetos para Micro e Pequenas Empresas em municípios vulneráveis e de IDH abaixo da média brasileira
+2.000.000,00
+      P - Projetos para Micro e Pequenas Empresas liderados por mulheres
+2.000.000,00
+Total
+0,00
+30.000.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BEI
+BEI
+C - INVESTIMENTOS EM ENERGIA E INFRAESTRUTURA URBANA SUSTENTÁVEL
+17.000.000,00
+85.000.000,00
+      P - Projetos dos setores público e privado para energia renovável e eficiência energética
+12.000.000,00
+60.000.000,00
+      P - Projetos dos setores público e privado para infraestrutura urbana sustentável
+3.000.000,00
+15.000.000,00
+      P - Projetos dos setores público e privado para Hidrogênio Verde
+2.000.000,00
+10.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 29
+C - INVESTIMENTOS EM MINERAÇÃO VERDE E PARA AS TRANSIÇÕES ENERGÉTICA E DIGITAL
+9.000.000,00
+45.000.000,00
+      P - Projetos do setor privado em mineração verde
+4.500.000,00
+22.500.000,00
+      P - Projetos do setor privado em cadeias de fornecimento de minerais críticos que apoiem as transições energética e digital
+4.500.000,00
+22.500.000,00
+C - INVESTIMENTOS EM MICRO E PEQUENAS EMPRESAS
+4.000.000,00
+20.000.000,00
+      P - Projetos para Micro e Pequenas Empresas em municípios vulneráveis e de IDH abaixo da média brasileira
+2.000.000,00
+10.000.000,00
+      P - Projetos para Micro e Pequenas Empresas liderados por mulheres
+2.000.000,00
+10.000.000,00
+Total
+150.000.000,00
+30.000.000,00
+150.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+As operações externas que contam com aval da União possuem uma série de atos e formalidades legais previstas no rito para a efetiva
+contratação de financiamento externo com garantia soberana, que passam pela aprovação por diversas casas legislativas e órgãos
+administrativos das esferas estaduais e federais, no caso de uma empresa pública estadual não-dependente, como o BDMG, incluindo-se
+a aprovação da presente carta consulta junto a COFIEX-SEAID-MPO (que é o atual estágio do presente Programa). 
+Ademais, nas operações de empréstimos internacionais há riscos operacionais, nos quais se incluem os riscos legais associados à
+inadequação ou deficiência em contratos firmados pelo Banco. O BDMG tem realizado adaptações nas suas práticas operacionais para
+melhor gerenciamento e mitigação dos riscos vinculados às operações de empréstimos internacionais, incluindo-se a atualização da
+Política de Gerenciamento de Riscos Operacionais, no ano de 2020, e adoção de ferramenta de gestão de covenants financeiros e não
+financeiros.
+
+Vale salientar que a atuação do BDMG é regida por um conjunto de competências, definições e procedimentos a serem observados,
+conforme diretrizes internas (normativos) e de órgãos reguladores, de forma a identificar e avaliar os impactos da ocorrência de eventos
+relativos a falhas legais em procedimentos e em contratos, com o objetivo de reduzir, mitigar e eliminar a ocorrência de eventos de risco
+de atos legais.
+
+A abordagem dos riscos legais relativos aos contratos internacionais firmados pelo BDMG é atividade rotineira da Superintendência de
+Riscos, Conformidade e Controles Internos, área principal que compete atuar para a eliminação ou mitigação do risco. A avaliação e o
+controle da conformidade legal de atos e contratos do banco é, em última instância, exercida pela Superintendência Jurídica. A Gerência
+de Captação Internacional e Relação com o Mercado, vinculada à Superintendência de Administração Financeira, que atua em direto
+contato com os organismos multilaterais, contribui na identificação dos riscos e na sua mitigação, visto a característica transversal dos
+riscos legais.
+
+Além disso, o BDMG monitora os requerimentos mínimos de capital, os indicadores de solvência e os limites operacionais de acordo com
+as determinações e o conjunto normativo divulgados pelo Banco Central, alinhado às recomendações do Comitê de Supervisão Bancária
+de Basileia. Em 31/12/2023, o Índice de Basileia (PR/RWA) apurado pelo BDMG foi de 23,9% - valor muito acima do mínimo exigido pelo
+Banco Central do Brasil (BCB), a saber, 8%. De acordo com o último Relatório de Estabilidade Financeira emitido pelo BCB de maio de
+2024, a média do Índice de Basileia das instituições financeiras do Brasil em dezembro de 2023 foi de 18%.
+
+Desse modo, em termos de solvência e sustentabilidade financeira, o BDMG encontra-se em uma situação muito mais confortável do que
+a média nacional, o que lhe permite ter mais segurança frente a eventuais aumentos no grau de alavancagem, como o esperado por parte
+do Programa BDMG SUSTENTABILIDADE E MPE.
+
+Pode-se atribuir o risco de atraso na aprovação de lei autorizativa por parte do Estado de Minas Gerais, que se configurará como ente
+contragarantidor da operação de crédito externo. Em específico, como o BDMG é uma empresa não-dependente, com orçamento próprio
+e que não recebe recursos do Estado para seu custeio e pagamento dos colaboradores, entende-se que se trata de risco baixo. Frente a
+existência de duas aprovações de programas do BDMG na COFIEX em 2022 e 2023, o Estado possui experiência e ótimo relacionamento
+ com o BDMG e Assembleia Legislativa na proposição do projeto de lei para aprovação.
+
+O risco de demanda é mitigado já que o programa se destina a atender empresas e municípios do estado já contemplados em linhas de
+financiamento semelhantes e continuamente aplicadas pelo BDMG. Dessa forma, o Programa será essencial em assegurar crédito
+contínuo para os setores público e privado em projetos de infraestrutura social e urbana.
+
+Por fim, o BDMG também gerencia e monitora os riscos de crédito, mercado, liquidez, operacional e socioambiental, com vistas à
+mitigação destes riscos e à otimização da eficácia operacional e dos seus resultados. Assim, são adotadas práticas de gestão de riscos
+adequadas à natureza e às especificidades das operações praticadas pelo Banco.
+5.2. RISCOS/CONTRATAÇÕES
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 30
+O BDMG é instituição financeira que possui décadas de experiência na contratação de operações de repasse, inicialmente de repasses
+nacionais e, nos últimos 10 anos, também de captações externas. A Superintendência Jurídica elabora minutas de contrato, com base em
+modelos padrão de instrumentos contratuais e de acordo com a legislação vigente e com as exigências particulares definidas pela
+instituição fonte do recurso.
+
+No caso das operações externas a serem repassadas, o instrumento contratual com o tomador do crédito, em geral, uma cédula de crédito
+bancário (CCB), deve conter as obrigações que devem ser adotados por este sub-mutuário final (back-to-back basis) e monitoradas pelo
+BDMG, em especial, em relação a alocação dos recursos, fornecimento de informações e atendimento a critérios socioambientais. A
+inclusão de sanções, como vencimento antecipado e/ou multa, são mecanismos de incentivo a maior alinhamento entre as partes.
+
+A mitigação dos riscos de contratações é de responsabilidade principal da Superintendência de Gestão de Riscos, Compliance e Controles
+Internos, com base nas diretrizes expostas na Política de Gestão de Riscos Operacionais e na Política de Responsabilidade
+Socioambiental (PRSA), e da Superintendência Jurídica. A adoção de listas de exclusão e iniciativas de PLD/FT, conforme PRSA,
+Compliance e exigência de vários contratos internacionais vigentes, também é medida mitigadora de riscos de contratação. Em junho de
+2024, o BDMG atualizou a sua política por meio de novo Código de Ética, Conduta e Integridade do BDMG.
+
+A gestão dos riscos de contratação e as ações mitigadoras são transversais às áreas do BDMG, também estando presentes nas regras da
+Política de Crédito do BDMG, sendo o risco monitorado desde a entrada de um processo de sub-mutuário para análise de crédito. As
+revisões anuais de limite de crédito e o monitoramento de operações específicas pela Superintendência de Operações são outras ações
+mitigadoras de risco.
+
+Para a maior parte das concessões ao setor público, o BDMG adota Edital anual de cadastramento de propostas, o que aumenta a
+transparência do processo (atualmente, 100% digital) e eleva as exigências dos municípios para observarem as leis para licitações pelas
+administrações municipais, estando as contrapartes internacionais (BEI) cientes dos ritos procedimentais e exigências da legislação
+brasileira.
+
+No caso do risco cambial, inerente às operações de crédito externo, o BDMG adota como prática ações mitigadoras por meio do uso de
+instrumentos de hedge cambial. Na ocasião da internalização dos recursos em moeda estrangeira, a Superintendência de Administração
+Financeira procede à contratação de um swap cambial, de modo a eximir o BDMG do risco de variação cambial. Adicionalmente, como os
+financiamentos são concedidos em moeda nacional, os sub-mutuários também não são expostos a qualquer risco de choque de taxa de
+câmbio em seu fluxo de pagamento.
+
+Ao contrário das operações de crédito externo concedidos aos entes federativos da Administração Direta ou Indireta com garantias
+soberanas, os financiamentos destinados ao BDMG afastam o risco cambial, por meio da criteriosa contratação do swap cambial em todas
+as operações externas realizadas pelo banco. A contratação do swap cambial será também aplicada na modalidade de operação de
+crédito externo com garantia da União, ora proposto no Programa. Como a União será a garantidora da operação, a mitigação do risco
+cambial permite redução do risco de inadimplência, custo do crédito mais acessível e, por sua vez, o repasse dessas melhores condições
+para os empréstimos com os sub-mutuários.
+
+Assim, os bancos de desenvolvimento no Brasil, o que se inclui o BDMG, apresentam uma vantagem operacional superior à observada
+nas operações realizadas diretamente com a Administração Pública que, por razões de restrição institucional, não permitem atuar no
+mercado financeiro e mitigar o risco cambial.
+
+Ressalta-se que a mitigação do risco cambial não se trata somente de vantagem marginal. Pelo contrário, atende ao princípio da eficiência
+do gasto público e da ampliação de benefícios para o cliente final (empresas e municípios). Em síntese, trata-se de incorporação de
+instrumento financeiro permitido aos bancos de desenvolvimento para a concretização de política pública de promoção ao
+desenvolvimento socioeconômico.
+
+As operações de swap cambial têm por objetivo prover hedge cambial, proteção contra variações da moeda estrangeira em relação ao
+real.  Nesse sentido, o BDMG executa no mercado financeiro a contratação de swaps com as principais instituições financeiras privadas
+estabelecidas no Brasil. Essas contratações são regidas por contratos específicos (CGD) e registradas no mercado de balcão organizado -
+B3, em que o BDMG busca alcançar uma taxa de juros mais adequada.  Em operações de prazo longo como as operações típicas com
+multilaterais, o desafio é encontrar contraparte que ofereça SWAP nesses prazos.
+
+Os bancos que conseguem essa profundidade são em sua maioria bancos do seguimento S1 ou pertencentes a conglomerados
+financeiros globais. Em recente cotação indicativa, identificamos instituição Financeira com apetite para esse prazo, tendo apresentado
+preço conforme abaixo:
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 31
+Prazo de 10 anos e Custo de Hedge de 105%DI
+
+Prazo de 25 anos e Custo de Hedge de 112%DI
+
+Ainda que a estratégia preliminar em avaliação seja pelo prazo total da operação 25 anos (25Y), percebe-se que o custo ainda é
+significativamente competitivo (112%DI), uma vez que no mercado local via instrumentos típicos de captação não oferece prazo de 25
+anos. 
+
+A possibilidade de renovação (rolagem) das operações com derivativos destinados a hedge (exemplo, SWAP) tem previsão expressa na
+Circular nº 3082 de 2002, art. 5º, inciso III. Dessa forma a que se avaliar estrategicamente qual a hipótese mais adequada ao caso
+concreto, considerando as opções de hedge permitidas na legislação.
+
+Salienta-se que tais avaliações são extremamente preliminares, indicativas e que serão mais bem conduzidas e com maior assertividade
+em relação a custos, taxas e demais itens da negociação em momento oportuno, dentro do cenário econômico-financeiro da ocasião,
+sendo também consideradas outras variáveis de mercado. 
+
+Por fim, após a execução do Programa por parte do BDMG, as previsões de custo de manutenção do Programa, envolvem a renovação
+da linha com o BEI ou a previsão de novas linhas com outros multilaterais (renovação), com expectativa de custos financeiros em níveis
+similares. 
+
+Os riscos de baixa demanda pelos sub-mutuários são considerados baixos. Primeiro, tem-se a característica de o uso dos recursos ser
+livre, permitindo uma ampla elegibilidade multisetorial. A captação externa junto ao BEI financiará investimentos em projetos vinculados à
+descarbonização e resiliência climática, assim como projetos de redução de desigualdades associados, desenvolvidos pelos setores
+público e privado no Estado de Minas Gerais. Segundo, como ação prévia e mitigadora, considerando-se estudos e carteira/ pipeline
+indicativa, elaborados pela Superintendência de Planejamento e pela Superintendência de Administração Financeira, o BDMG estimou
+desembolsos em projetos de ação climática e redução das desigualdades em torno de R$ 4 bilhões, nos próximos 5 anos. Trata-se de
+volume significativamente superior ao montante ora discutido, sinalizando o menor risco de ocorrência do evento de baixa demanda.
+Terceiro, como outra ação mitigadora tem-se a previsão de intercambialidade entre os componentes e os produtos (valores indicativos),
+conforme apresentado no tópico 2.7 Projeto/ Componentes, de modo à melhor responder à futura real demanda de originação por parte
+dos sub-mutuários. Por fim, considerando-se apenas os últimos 42 meses (1T/2020-2T/2023) e os recursos oriundos de operações
+externas, foram solicitados pelo BDMG desembolsos para repasses a sub-mutuários similares aos potenciais do BDMG
+SUSTENTABILIDADE E MPE, em montante de aproximadamente R$ 1,6 bilhão (USD 190 milhões e EUR 129,5 milhões), cujo custo
+médio da operação era similar ou superior à da operação externa junto ao BEI aqui apresentada.
+5.3. RISCOS/DESAPROPRIAÇÕES
+De forma geral, o BDMG não financia projetos/ atividades que envolvem risco de desapropriação. Em casos em que há a necessidade de
+desapropriações, o BDMG não contrata operações que não estejam com todas as etapas formais resolvidas, e ainda sim após minuciosa
+análise dos riscos envolvidos. No caso de haver deslocamento involuntário de populações, o BDMG não apoiará quaisquer projetos
+relacionados.
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+O BDMG adota como referência para sua atuação o alinhamento com as melhores práticas internacionais, especialmente os Objetivos de
+Desenvolvimento Sustentável (ODS), os princípios do Pacto Global das Nações Unidas e as metas do Acordo de Paris. 
+Para assegurar o cumprimento dessas diretrizes, todos os processos de financiamento são analisados considerando as normas internas e
+externas relacionadas à proteção do meio ambiente e responsabilidade socioambiental.
+
+Dentre os aspectos analisados incluem-se:
+
+ - A comprovação do licenciamento ambiental do proponente e/ou do projeto, junto aos órgãos ambientais; 
+- O atendimento às exigências da Política de Responsabilidade Social, Ambiental e Climática (PRSAC) do BDMG; 
+- A inscrição no Cadastro Ambiental Rural (CAR), quando exigido pela legislação; 
+- A verificação dos indicadores sociais e ambientais alinhados aos ODS; 
+- O atendimento aos requisitos socioambientais das operações em conformidade com as exigências do fornecedor de recursos; 
+- A existência de certificações socioambientais dos clientes; 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 32
+- A verificação da atividade exercida pelo cliente perante a lista de exclusão socioambiental do Banco; e 
+- A consideração de aspectos socioambientais para avaliação de garantias de bens imóveis.
+
+O gerenciamento dos riscos socais e ambientais é feito por meio de sistemas, rotinas e procedimentos que abrangem a identificação,
+classificação, avaliação, monitoramento, mitigação e controle desses riscos nas atividades e nas operações do BDMG. 
+Dentre os eventos que o BDMG considera que caracterizam o risco ambiental citam-se as condutas ou atividades irregulares, ilegais ou
+criminosas contra a fauna e flora, poluição irregular do ar, águas ou solo, exploração irregular de recursos naturais, descumprimento de
+condicionantes do licenciamento ambiental, desastres ambientais causados por intervenção humana, alterações na legislação ou na
+atuação governamental em decorrência da degradação ambiental e atos ou atividades que, mesmo sendo regulares, legais e não
+criminosos, impactem negativamente a reputação do banco devido à degradação do meio ambiente.
+
+Em 2021, pela Resolução CMN 4.943, o Banco Central publicou novos normativos para a gestão desses riscos e para o estabelecimento
+da Política de Responsabilidade Social, Ambiental e Climática (PRSAC). Para atendimento a essas novas exigências, o BDMG
+estabeleceu um plano de ação, que objetivou o desenvolvimento de novas metodologias para a avaliação dos riscos sociais, ambientais e
+climáticos, entre outros aspectos. O BDMG também estabeleceu algumas cooperações técnicas junto a parceiros internacionais, como
+Banco Interamericano de Desenvolvimento e Agência Francesa de Desenvolvimento, para o aprimoramento de seus procedimentos. Em
+adição, no quesito governança e para melhor gestão do tema, o Banco reorganizou sua estrutura com a criação de uma Gerência de
+Riscos Socioambientais e Climáticos, ligada à Superintendência de Riscos, Conformidade e Controles Internos.  
+
+Em consonância a outros multilaterais, com contratos vigentes, considera-se a concordância do BEI com as políticas socioambientais
+praticadas pelo BDMG e que serão adotadas na operacionalização dos recursos do Programa, reconhecendo-se a possibilidade de
+adoção de novas práticas internacionais no decorrer das tratativas.
+
+Assim, o BDMG tem experiência e conhecimento das políticas ambientais do BEI, adquirida na execução de operações de crédito
+anteriormente financiadas com recursos dessa instituição. As políticas e diretrizes ambientais do BEI estão alinhadas com a legislação
+brasileira aplicável.
+5.5. RISCOS/IMPACTO SOCIAL
+O BDMG adota uma política rigorosa em relação às suas operações financeiras, assegurando que todas as transações atendam aos
+requisitos estabelecidos pelas regulamentações e leis em vigor, bem como às diretrizes internas. Nesse sentido, é importante ressaltar
+que o BDMG não realiza qualquer tipo de contrato com sub-mutuários finais, a não ser que todas as exigências sociais e ambientais
+tenham sido devidamente cumpridas.
+
+Dentre as condições observadas, destaca-se a consideração dos riscos e impactos sociais envolvidos. Nesse contexto, o BDMG se
+compromete a evitar interferências que afetem populações, em especial os povos indígenas e quilombolas.
+
+Para garantir o respeito aos direitos humanos e aos interesses coletivos, o BDMG considera uma série de eventos que podem configurar
+riscos sociais. Esses eventos abrangem atos de assédio, discriminação e preconceito; práticas relacionadas ao trabalho em condições
+análogas à escravidão; exploração ilegal do trabalho infantil; tráfico de pessoas, exploração sexual e prostituição; não conformidade com a
+legislação previdenciária e trabalhista, incluindo normas de saúde e segurança no trabalho; atos ilegais que prejudicam povos indígenas,
+comunidades tradicionais e patrimônio público, entre outros, que violem direitos fundamentais ou prejudiquem o interesse comum.
+
+Importante também mencionar que a resolução do BDMG que trata das vedações, impedimentos e itens/atividades não financiáveis,
+estabelece de forma clara que o Banco não irá financiar, aceitar ou fornecer garantia para empreendimentos que estejam localizados, total
+ou parcialmente, em terras indígenas ou em terras ocupadas e tituladas por remanescentes das comunidades de quilombos. Essa medida
+reflete o compromisso do banco em respeitar os direitos e interesses dessas comunidades tradicionais, reconhecendo a importância da
+preservação de suas terras e culturas.
+
+Também é considerado impedimento à concessão de crédito a existência de registro do proponente, de integrantes do seu grupo
+econômico ou de garantidores da operação na lista de empregadores que adotam o trabalho escravo, divulgada pelo Ministério do
+Trabalho e Emprego.
+
+Ao excluir esses empreendimentos de sua política de financiamento, o BDMG demonstra seu comprometimento com a responsabilidade
+socioambiental e com a promoção da equidade e justiça social.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:37
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61191
+Página: 33
+Assim, o BDMG tem experiência e conhecimento das políticas sociais do BEI, adquirida na execução de operações de crédito
+anteriormente financiadas com recursos da instituição. As políticas e diretrizes sociais do BEI estão alinhadas com a legislação brasileira
+aplicável.
+Em relação aos riscos elencados supra, é importante mencionar que o BDMG está comprometido em financiar apenas projetos que se
+alinham com sua política de responsabilidade social, ambiental e climática, e apresentam medidas para mitigar quaisquer riscos potenciais
+.
+
+O BDMG possui uma consistente Política de Responsabilidade Social, Ambiental e Climática (PRSAC), alinhada aos Objetivos de
+Desenvolvimento Sustentável das Nações Unidas. Esta política busca promover o desenvolvimento socioeconômico sustentável,
+mitigando riscos sociais, ambientais e climáticos. O Banco também possui um Plano de Ação detalhado para a execução da PRSAC, que
+destaca a adesão à Agenda 2030 da ONU e seus Objetivos de Desenvolvimento Sustentável, bem como a colaboração com o Governo de
+ Minas Gerais em desenvolvimento sustentável de baixo carbono.
+
+Com foco em financiamentos sustentáveis, o BDMG prioriza o financiamento de empreendimentos com impactos sociais, ambientais e
+climáticos positivos. Isto inclui uma variedade de setores, como agricultura sustentável, energia renovável, saneamento, mobilidade
+urbana sustentável, saúde e educação.
+
+Com o compromisso de evitar financiamentos de alto risco, o BDMG possui uma Lista de Exclusão Socioambiental, que define atividades
+específicas não financiáveis. Portanto, o Banco não financia empresas ou projetos que possam causar riscos significativos.
+Antes de conceder financiamento, o BDMG realiza uma avaliação rigorosa do risco social, ambiental e climático dos projetos. Este
+processo inclui a identificação de medidas de mitigação para quaisquer riscos potenciais. Cabe ressaltar que existe uma Política de
+gerenciamento de riscos sociais, ambientais e climáticos aprovadas pelo Conselho de Administração.
+
+Assim, o BDMG mantém um compromisso forte com a transparência e o engajamento com a comunidade. Isso inclui a divulgação pública
+de sua política e ações, além de promover práticas que beneficiem a sociedade e o meio ambiente.
+5.6. RISCOS/REASSENTAMENTOS
+O BDMG não contrata qualquer operação financeira com sub-mutuário final, a não ser que todas as negativas, declarações e condições
+prévias (como quanto aos riscos envolvidos com reassentamentos) tenham sido apresentadas em conformidade com a regulamentação e
+legislação vigente, e em observância aos normativos internos.
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+Informações relevantes
+- 30/09/2024: Retirada de pauta pela 176ª Cofiex, em 26/09/2024, tendo em vista que o contra garantidor não possui Plano de
+Recuperação Fiscal vigente.
+ 
+ 

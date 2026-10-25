@@ -1,0 +1,3615 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Programa de Desenvolvimento Sustentável da Agricultura Familiar de Santa Catarina:
+Resiliência Ambiental, Inovação e Inclusão Social no Espaço Rural
+Nº Carta Consulta: 61091
+Processo: 03101.000189/2024-76
+Mutuário: Estado de Santa Catarina
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  11 de Janeiro de 2024
+Fontes Internas:
+Contrapartida Financeira: US$ 30.000.000,00
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 120.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+03
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 04
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 04
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 04
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 04
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 07
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 17
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 19
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 19
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 21
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 21
+3. FINANCIAMENTO .......................................................................................................................................................................................... 21
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 21
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 21
+4. EXECUÇÃO ...................................................................................................................................................................................................
+21
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 22
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 22
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 22
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 22
+5. RISCOS .......................................................................................................................................................................................................... 30
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 30
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 30
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 30
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 30
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 30
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 31
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+31
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+A estrutura produtiva de Santa Catarina se caracteriza pela agricultura familiar e pelo predomínio de pequenas propriedades rurais.
+Existem 183 mil estabelecimentos agropecuários, sendo 78% de agricultores familiares (CENSO AGROPECUÁRIO, 2017). A
+agropecuária catarinense tem o 10º maior valor adicionado do Brasil e, embora composto por diversidade de produtos, é concentrado nas
+produções de suínos, frangos, leite e soja. Apesar do cenário favorável, os principais desafios englobam: agravamento e surgimento de
+demandas ambientais, econômicas e sociais; impacto da tecnologia no campo; aprimoramento da ação do Estado abrangendo visão
+territorial, capacitação, empreendedorismo, protagonismo das famílias, com ênfase em jovens e mulheres; inclusão de populações em
+situação de vulnerabilidade; gestão compartilhada, conectividade, competitividade e sustentabilidade. 
+As alterações nos padrões climáticos, caracterizadas pelo aumento da frequência de eventos extremos, que trazem ameaças à
+sustentabilidade da agropecuária com estiagens mais intensas, prolongadas e recorrentes, representam novos desafios. Os prejuízos
+decorrentes de tais eventos na agricultura, pecuária, indústria e serviços no Estado somaram quase R$ 18 bilhões entre 2000 e 2022 (
+Atlas Digital de Desastres no Brasil). O valor de perdas estimado pela Epagri em decorrência das chuvas em out/nov de 2023 foi de quase
+R$ 3 bi. A adaptação climática tornou-se estratégia essencial para a sustentabilidade das atividades e deve considerar: gestão eficiente
+da água, práticas conservacionistas do solo, preservação da biodiversidade, diversificação de culturas, redução da dependência de
+insumos sintéticos e mitigação da emissão de gases de efeito estufa. Outro desafio é o alcance de indicadores ambientais relacionados à
+capacitação de produtores e técnicos multiplicadores, recuperação de pastagens, aumento de produtividade e qualidade, implantação de
+sistemas integrados de produção, de florestas e sistemas agroflorestais, expansão de áreas cultivadas sob o sistema de plantio direto,
+recuperação de matas ciliares e destinação adequada de resíduos da produção animal. 
+Apesar de Santa Catarina ser destaque no cenário inovativo, o agro possui desafios de empreendedorismo e inovação, pois um produto
+agropecuário resulta de etapas que integram cadeia produtiva longa e diversa. Há dificuldades para ativar e conectar o ecossistema e, por
+isso, é necessária uma série de ações que fomentem a cultura da inovação aberta e novos modelos de negócios, sobretudo para gestão
+da agricultura familiar, e que apoiem a regularização e a criação de empreendimentos e startups. Além disso, qualificação continuada de
+técnicos, agricultores e pescadores na gestão do negócio e da inovação; fortalecimento de redes locais; apoio financeiro a novos negócios
+e empreendimentos existentes; uso dos signos distintivos; adequação legal das unidades de produção, beneficiamento e transformação;
+inovações nos processos de classificação, beneficiamento e transformação de produtos agropecuários. Além de manutenção da condição
+sanitária, ampliação do mercado através da concessão de selos, equivalência de inspeção, padronização de produtos não
+regulamentados e vigilância para impedir a entrada de doenças no território ou eliminá-las antes da disseminação.
+No espaço rural, a questão da pobreza está associada à dinâmica da agricultura e de suas cadeias produtivas, que têm privilegiado a
+concentração da produção e a exclusão dos pequenos agricultores. Embora o IDHM do Estado seja de 0,792 (IBGE, 2021), há 667.031
+famílias cadastradas no CadÚnico, com 216.705 na extrema pobreza e destas, 32.064 residem no meio rural. Do público beneficiário do
+Bolsa Família, 2.275 são famílias indígenas, 942 quilombolas, 1.289 pescadores artesanais, 818 assentadas de reforma agrária, 279
+acampadas e 184 extrativistas.
+A desigualdade na distribuição da renda e a pobreza trazem desafios de permanência de jovens e mulheres no campo, que envolvem:
+pouca autonomia, falta de perspectiva e acesso à renda, penosidade do trabalho, dificuldade no acesso à informação. Por isso, são
+necessárias políticas para inserção nos mercados de trabalho e renda, com alternativas para um espaço rural atrativo, especialmente
+agricultores com pouca terra, em situação de vulnerabilidade, pobres, indígenas, quilombolas, pescadores artesanais e extrativistas.
+Com base em consultas periódicas realizadas junto a representantes da sociedade e do poder público, muitos dos problemas enfrentados
+no meio rural giram em torno da falta de infraestrutura e de serviços públicos. Isso indica a necessidade de melhorar a disponibilidade de
+energia elétrica e internet, qualificar estradas vicinais, ampliar a capacidade de atendimento, de monitoramento e avaliação de resultados
+do impacto das políticas públicas e melhorar a comunicação e participação dos beneficiários, para uma gestão integrada e compartilhada
+dos projetos.
+Para detalhamento do Diagnóstico, vide Anexo I.
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+As soluções propostas estão divididas em 4 eixos:
+O eixo 1) Meio ambiente busca promover resiliência ambiental, reduzir a vulnerabilidade hídrica, apoiar a implantação de sistemas
+produtivos integrados com tecnologias de baixo impacto ambiental e incentivar a regularização ambiental de propriedades. Para isso, irá:
+fortalecer sistemas de produção agropecuária e aquícola; apoiar a proteção, conservação e recuperação de corredores ecológicos, bem
+como de mananciais e preservação de fauna/flora; fomentar P&D para resiliência e redução da vulnerabilidade da produção e emissão de
+GEE; capacitar em Boas Práticas Agropecuárias; preservar e reusar água e saneamento rural; implantar sistemas de produção
+sustentáveis; adotar sistemas conservacionistas do solo para água nos mananciais, agropecuários integrados, agroflorestais, agricultura
+de baixo carbono, regenerativa, sistemas sustentáveis de produção agropecuária e florestal e uso de energia de fontes renováveis;
+inventariar e monitorar GEE; ampliar o uso de bioinsumos; implantar banco de sementes de plantas de cobertura; difundir tecnologias para
+ práticas sustentáveis; validar o CAR, implementar o PRA e o Pagamento por Serviços Ambientais.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 3
+O 2) Empreendedorismo e à Inovação no Campo e no Mar objetiva ampliar a renda de agricultores e pescadores com melhoria de
+negócios, desenvolver e difundir novas tecnologias sustentáveis e criar oportunidades de mercados, valorizando produtos e saberes locais
+. Assim, espera-se: capacitar dirigentes de negócios e agroindústrias familiares para adotar BPA e tecnologias/processos inovadores;
+implantar planos de negócio para legalização e criação de empreendimentos; fomentar adesão aos sistemas de inspeção de produtos
+para ampliar mercados; apoiar criação e gestão de associações e cooperativas da agricultura familiar; apoiar instalação e inserção de
+agroindústrias familiares em mercados tradicionais; implantar sistema de inspeção sanitária em agroindústrias familiares para inclusão,
+educação, identificação e parceria com municípios; financiar projetos de P&D para BPA e resiliência à escassez hídrica, novos modelos de
+biosseguridade; desenvolver equipamentos para a agropecuária sustentável e agricultura 4.0; financiar adoção de tecnologias para
+ecoinovação; identificar produtos de origem animal genuinamente catarinenses e criar regulamentos de legalização; apoiar implantação de
+unidades participativas de experimentação/validação (living labs/espaços maker); fomentar cultura da inovação com capacitação e uso de
+ferramentas para identificar problemas e desenvolver soluções; apoiar criação de startups no setor; fortalecer inovação aberta no âmbito
+institucional por meio de parcerias com ambientes de inovação; criar e fortalecer centros vocacionados para cadeias produtivas; melhorar
+a segurança do alimento com ampliação e melhoria de monitoramento de agrotóxicos e da rastreabilidade de produtos, gerar e difundir
+alternativas aos agrotóxicos, capacitar em boas práticas de fabricação e manipulação de alimentos, financiar estudos de qualidade de
+fabricação e legalização de produtos; combater a produção irregular de alimentos e comércio clandestino com capacitação na área de
+alimentos e processos produtivos, adequação à legislação da agroindústria familiar, regularização e padronização de produtos tradicionais
+sem legislação própria e incentivo às agroindústrias para adesão aos selos; apoiar identificação e desenvolvimento de signos distintivos
+como proteção, valorização e diferenciação dos produtos para o acesso a nichos de mercado.
+A 3) Redução das desigualdades e inclusão social visa à inclusão socioeconômica, cultural e ambiental de povos tradicionais, indígenas,
+quilombolas e o incremento de renda de populações em situação de pobreza e extrema pobreza, por meio das ações: aprimorar Planos de
+Desenvolvimento de comunidades tradicionais; apoiar técnica e financeiramente famílias em situação de vulnerabilidade visando à
+Segurança Alimentar e Nutricional; apoiar financeiramente inclusão às cadeias periféricas; capacitar continuamente o público beneficiário (
+uso de tecnologias sociais de baixo custo); viabilizar apoio pedagógico/antropológico para valorizar identidades e diversidade das
+comunidades tradicionais.
+As ações de Infraestrutura para o Campo e Gestão Pública visam à inclusão digital e acesso à informação, melhoria da rede elétrica,
+estradas rurais e ferramentas de gestão pública e preveem: diagnóstico de cobertura/qualidade da internet; implementar plano de ação de
+financiamento e apoio a projetos de ampliação e melhoria do sinal de internet; desenvolver serviços digitais aos agricultores e pescadores;
+ampliar o alcance de ATER por meio digital; capacitar, sobretudo jovens e mulheres, para uso da internet e serviços digitais; incentivar
+projetos de geração de energia com fontes renováveis para oportunidade de renda; adequar redes de energia elétrica; diagnosticar
+gargalos em estradas vicinais e financiar projetos de adequação; capacitar operadores para trabalhos em estradas vicinais; ampliar o
+Sistema Integrado de Informações Agropecuárias - captação e gestão de dados do setor, ,indicadores e metodologias para monitoramento
+das políticas públicas e tomada de decisão; fortalecer o Observatório Agro Catarinense; implantar Sala de Situação da Defesa
+Agropecuária.
+Sustentabilidade
+Assim como nos programas anteriores, os resultados devem ocorrer no campo do fortalecimento institucional, com capacitação das
+equipes técnicas, que proporcionam aprimoramento de habilidades e conhecimentos, garantindo qualidade técnica das ações e troca de
+experiências entre equipes e especialistas, que fortalece o capital intelectual das instituições, promovendo inovação e busca por soluções
+mais eficazes. Uma plataforma tecnológica integrada será desenvolvida para centralizar e integrar informações, possibilitando
+acompanhamento de projetos, tomada de decisões e avaliação das políticas, bem como contribuirá para transparência e accountability,
+permitindo acesso público a dados e resultados das ações. Além disso, o programa provê suporte na revisão e atualização de marcos
+legais, estruturas organizacionais e processos internos, reforçando sua capacidade de gestão e governança. Por meio do Conselho de
+Desenvolvimento Rural, que estabelece as políticas da agricultura com a participação da sociedade civil, o estado pode instituir novos
+instrumentos e programas que dêem continuidade e expandam o que foi implementado. Além disso, o planejamento estratégico das
+entidades parceiras será revisado para alinhamento às novas políticas.
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+ORIENTAÇÕES ESTRATÉGICAS: 
+Plano Plurianual (PPA 2024-2027) da Secretaria de Estado da Agricultura prevê subações em conformidade com o direcionamento
+estratégico do Governo do Estado e alinhadas aos componentes da proposta. O PPA prevê orçamento para suporte aos produtores na
+melhoria de seus sistemas de produção, infraestrutura no espaço rural e na gestão pública.
+O Plano de Desenvolvimento de Santa Catarina auxilia a ação governamental frente às diversas áreas de atuação do Estado, a partir do
+estabelecimento de indicadores, metas, objetivos e estratégias para o período entre 2017 e 2030. Dentre as estratégias estão a produção
+sustentável por meio do desenvolvimento e aplicação de inovações tecnológicas e sociais; valorização da diversidade social, cultural e
+ambiental; agregação de  valor por meio do empreendedorismo, inovação e diferenciação de produtos e serviços na agricultura familiar;
+infraestrutura adequada ao desenvolvimento das potencialidades rurais e pesqueiras;ações de mitigação e adaptação às mudanças
+climáticas;  suprimento de água com qualidade; promoção e manutenção de serviços ecossistêmicos.
+O Roadmap Estratégico Integrado da Agricultura, coordenado pela Secretaria, em colaboração entre a SAR, Ceasa, Cidasc e Epagri e
+participação de 23 instituições do setor, traz uma visão para o setor produtivo do Estado. O material apresenta a análise das principais
+cadeias produtivas, identifica megatendências e define estratégias integradas e indicadores para avaliação de desempenho, relacionadas
+aos temas ambiental, associativismo, diversificação, agregação de valor, geração e gênero, infraestrutura, redução de desigualdade social
+ e regional, tecnologia e inovação, atendidos pelos componentes do projeto.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 4
+Crescendo Juntos: O Programa Estadual de Desenvolvimento e Redução das Desigualdades Regionais (Decreto 729/2016) objetiva
+articular, coordenar, orientar e estimular o processo de planejamento e organização de ações para a redução das desigualdades regionais,
+ um desenvolvimento inclusivo, equilibrado e sustentável no Estado.
+Os Objetivos de Desenvolvimento Sustentável (ODS): agenda de atuação mundial para concretizar os direitos humanos, a igualdade de
+gênero, a conservação do meio ambiente e uso consciente dos recursos naturais, são integrados, indivisíveis e equilibram as dimensões
+econômica, social e ambiental.
+Lei n° 8.676/1992: Conselho Estadual de Desenvolvimento Rural, recursos no espaço rural e pesqueiro.
+Lei n° 12.651/2012: Novo Código Florestal - proteção da vegetação nativa e criação do Cadastro Ambiental Rural (CAR) e Programa de
+Regularização Ambiental (PRA) nos Estados.
+Lei Estadual nº 14.829/2009: Política Estadual sobre Mudanças Climáticas e Desenvolvimento Sustentável de Santa Catarina.
+Lei Estadual nº 14.675/2009: Código Estadual do Meio Ambiente.
+CONTRAPARTIDA: O Governo do Estado de Santa Catarina disponibilizará recursos de contrapartida no total de US$ 30.000.000,00.
+TAXA DE CÂMBIO: 4,8619 (22/12/2023).
+2. Projeto
+2.1. Título
+Programa de Desenvolvimento Sustentável da Agricultura Familiar de Santa Catarina:
+Resiliência Ambiental, Inovação e Inclusão Social no Espaço Rural
+2.2. Título Abreviado
+SC Rural 2: Sustentabilidade e Inovação
+2.3. Mutuário
+Estado de Santa Catarina
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+OBJETIVO GERAL
+
+Promover a sustentabilidade do espaço rural catarinense por meio do incremento da resiliência ambiental e adaptação às mudanças
+climáticas, da competitividade dos sistemas de produção e pela ampliação do acesso à inovação tecnológica para os agricultores
+familiares, com inclusão social.
+
+OBJETIVOS ESPECÍFICOS
+
+1. Meio Ambiente: Promover a resiliência ambiental e adaptação às mudanças climáticas das atividades agropecuárias em Santa Catarina,
+por meio da proteção e recuperação da biodiversidade, do fortalecimento da gestão dos recursos hídricos, da adoção de sistemas de
+produção de baixo impacto ambiental e da regularização ambiental.
+
+2. Empreendedorismo e inovação: Fomentar a pesquisa agropecuária e a cultura da inovação para potencializar a criação, difusão e
+adoção de inovações; e desenvolver ações de estímulo à melhoria do ambiente de negócios visando a ampliação e viabilidade de
+empreendimentos no espaço rural. 
+
+3. Redução das desigualdades e inclusão social: Contribuir com a redução das desigualdades, o incremento de renda de populações em
+situação de pobreza e extrema pobreza, e a inclusão socioeconômica, cultural e ambiental de mulheres e jovens no escopo geral e,
+especificamente, povos tradicionais, indígenas, quilombolas e populações em situação de pobreza e extrema pobreza.
+
+4. Infraestrutura: Ampliar a cobertura de sinal de internet e a oferta de serviços digitais; recuperação e melhoria das estradas rurais;
+melhoria da qualidade da energia elétrica; incentivo à pesquisa e implantação de energias renováveis; e implantação de estrutura para
+monitoramento, avaliação e gestão de políticas públicas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 5
+2.6. Projeto/Indicadores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 6
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Número de beneficiários capacitados pelas
+ações do Programa
+Soma do número de
+pessoas que
+participaram de
+capacitações e
+treinamentos no
+âmbito das ações do
+Programa
+Beneficiários
+0,00
+30.000,00
+Número de projetos de resiliência ambiental
+Soma do número de
+projetos apoiados e
+implementados (
+pesquisa e extensão)
+que ajudem a
+promover resiliência
+ambiental.
+Projetos
+0,00
+1.000,00
+Número de projetos implementados voltados
+para comunidades tradicionais, que figuram
+entre os grupos vulneráveis (comunidades
+indígenas, quilombolas, ribeirinhas, extrativistas
+e de pescadores artesanais)
+Soma do número de
+projetos
+implementados
+voltados para
+comunidades
+tradicionais, que
+figuram entre os
+grupos vulneráveis (
+comunidades
+indígenas,
+quilombolas,
+ribeirinhas,
+extrativistas e de
+pescadores artesanais
+)
+Projetos
+0,00
+250,00
+Aumento percentual das propriedades rurais
+com acesso à internet
+Incremento percentual
+em relação à
+cobertura de Acesso à
+Internet Inicial e
+Acesso à Internet
+Final após o
+Programa, mensurado
+com base em
+diagnóstico antes e
+depois do Programa =
+ (AIF-AII)/AII*100%
+Percentual
+0,00
+50,00
+Número de projetos implementados de
+infraestrutura rural de apoio a cadeias produtivas
+Soma do número de
+projetos de
+infraestrutura
+implementados para
+melhoria de estradas
+e de energia elétrica
+Projetos
+0,00
+250,00
+Número de beneficiários que receberam
+recursos financeiros do Programa para
+implantação de projetos
+Soma do número de
+beneficiários que
+receberam recursos
+financeiros do
+Programa para
+implantação de
+projetos
+Beneficiários
+0,00
+50.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 7
+Incremento percentual da renda bruta de
+pessoas em situação de pobreza e extrema
+pobreza apoiados com fomento de projetos para
+inclusão às cadeias periféricas
+Incremento percentual
+da renda bruta de
+pessoas em situação
+de pobreza e extrema
+pobreza apoiados
+com fomento de
+projetos para inclusão
+às cadeias periféricas,
+mensurado por: Valor
+da Renda Bruta no
+Início do Programa (
+VRnI) subtraído do
+Valor da Renda Bruta
+ao final do Programa (
+VRnF) dividido pelo
+Valor da Renda Bruta
+no Início do Programa
+= (VRnF - VRnI)/VRnI
+*100%
+Percentual
+0,00
+20,00
+Número de beneficiários que adotaram novas
+práticas ou tecnologias que promovam o
+desenvolvimento rural sustentável
+Soma do número de
+beneficiários que
+adotaram novas
+práticas ou
+tecnologias que
+promovam o
+desenvolvimento rural
+sustentável
+Beneficiários
+0,00
+3.000,00
+Porcentagem de beneficiários satisfeitos com
+ações, atividades e serviços do Programa
+Valor auferido com
+base em pesquisas de
+avaliação realizadas
+após ou durante
+implementação das
+ações do Programa,
+em escala
+quantificável
+Porcentagem
+0,00
+70,00
+Implementação da plataforma de gestão,
+monitoramento e avaliação de políticas públicas
+voltadas para a Agricultura
+Implementação da
+plataforma de gestão,
+monitoramento e
+avaliação de políticas
+públicas voltadas para
+ a Agricultura
+Projeto
+0,00
+1,00
+Incremento percentual da receita dos atendidos
+pelo Programa (empreendimentos e sistemas
+produtivos apoiados diretamente com recursos
+financeiros do programa no Subcomponente ?
+Empreendedorismo e Gestão?)
+ncremento percentual
+da receita bruta após
+o Programa para
+projetos do
+subcomponente ?
+Empreendedorismo e
+Gestão?, mensurado
+por: Valor da Receita
+Bruta no Início do
+Programa subtraído
+do Valor da Receita
+Bruta ao final do
+Programa dividido
+pelo Valor da Receita
+Bruta no Início do
+Programa = (VRF -
+VRI)/VRI*100%
+Percentual
+0,00
+20,00
+2.7. Projeto/Componentes
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 8
+Componentes
+Valor(US$)
+C - MEIO AMBIENTE
+42.000.000,00
+   S - RESILIÊNCIA E REDUÇÃO DA VULNERABILIDADE DOS RECURSOS HÍDRICOS
+8.300.000,00
+P - Áreas de preservação permanente implementadas com melhoria da conectividade dos remanescentes
+florestais
+2.800.000,00
+P - Beneficiários capacitados e assistidos para adoção de práticas que possibilitam a adaptação climática e
+redução da vulnerabilidade hídrica
+1.000.000,00
+P - Projetos de pesquisa realizados e tecnologias desenvolvidas em ambiente de inovação para enfrentamento a
+ resiliência hídrica e promoção da adaptação climática
+300.000,00
+P - Base de dados de perdas agropecuárias ocasionadas por eventos climáticos extremos em Santa Catarina (
+análise de risco)
+200.000,00
+      P - Estudo com indicadores de acompanhamento da vulnerabilidade climática
+200.000,00
+      P - Propriedades rurais estruturadas para resiliência hídrica com reservação de água
+3.800.000,00
+S - SISTEMAS DE PRODUÇÃO DE BAIXO IMPACTO AMBIENTAL PARA ADOÇÃO DE TECNOLOGIAS DE
+TRANSIÇÃO PARA ECONOMIA VERDE
+25.800.000,00
+P - Projetos de pesquisa viabilizados e tecnologias promotoras da redução de GEE desenvolvidas em ambiente
+de inovação
+2.000.000,00
+      P - Áreas com sistemas agropecuários integrados
+22.000.000,00
+      P - Beneficiários capacitados e assistidos para a implantação e melhoria dos sistemas produtivos integrados.
+1.800.000,00
+   S - CADASTRO AMBIENTAL RURAL (CAR) E PROGRAMA DE REGULARIZAÇÃO AMBIENTAL (PRA)
+7.900.000,00
+      P - Propriedades apoiadas para regularização ambiental com validação do CAR
+100.000,00
+      P - Técnicos capacitados para elaboração e implantação de PRA
+200.000,00
+      P - Projetos elaborados para implantação do PRA
+7.300.000,00
+      P - Política de Pagamento por Serviços Ambientais (PSA) elaborada
+200.000,00
+      P - Parcerias Público-Privadas firmadas para projetos de preservação permanente através do FDR
+100.000,00
+C - EMPREENDEDORISMO E INOVAÇÃO NO CAMPO
+48.000.000,00
+   S - EMPREENDEDORISMO E GESTÃO
+14.100.000,00
+      P - Beneficiários capacitados e assistidos em empreendedorismo e inovação
+3.300.000,00
+      P - Diagnóstico e Planos de negócios elaborados
+240.000,00
+      P - Negócios apoiados financeiramente
+10.000.000,00
+      P - Negócios assessorados
+240.000,00
+      P - Estudos sobre organização e comercialização da produção entregues e aprovados
+320.000,00
+   S - INOVAÇÃO DE PRODUTOS E PROCESSOS
+26.900.000,00
+      P - Novas tecnologias agropecuárias geradas e difundidas
+3.000.000,00
+      P - Novas propriedades referência em novas tecnologias implantadas
+2.500.000,00
+      P - Startups do agro (Agtechs / Agrotechs) apoiadas
+2.200.000,00
+      P - Beneficiários capacitados em inovações tecnológicas
+1.200.000,00
+      P - Linhas de financiamento para adoção de novas tecnologias
+18.000.000,00
+   S - MELHORIA DO AMBIENTE DE NEGÓCIOS
+7.000.000,00
+      P - Rede de monitoramento de resíduos e agrotóxicos implantada e em funcionamento
+1.800.000,00
+      P - Propriedades com rastreabilidade de produção
+2.200.000,00
+      P - Propriedades com uso de boas práticas agropecuárias - BPA
+1.500.000,00
+      P - Propriedades que aderiram a Signos distintivos como estratégia de acesso ao mercado
+1.500.000,00
+C - REDUÇÃO DAS DESIGUALDADES E  E INCLUSÃO SOCIAL
+8.000.000,00
+   S - REDUÇÃO DE DESIGUALDADES REGIONAIS E PROMOÇÃO DA INCLUSÃO SOCIAL
+8.000.000,00
+      P - Planos de Desenvolvimento de Terras Indígenas e de Comunidades Quilombolas elaborados/aprimorados
+1.200.000,00
+      P - Beneficiários orientados e apoiados com projetos de Segurança Alimentar e Nutricional (SAN)
+3.000.000,00
+      P - Projetos implantados em cadeias periféricas
+1.500.000,00
+P - Beneficiários capacitados em sistemas de produção, boas práticas, saneamento, educação ambiental,
+melhorias em habitação
+600.000,00
+      P - Beneficiários orientados em saneamento ambiental e tecnologias sociais de baixo custo
+1.500.000,00
+      P - Publicações de materiais que valorizem a diversidade sociocultural de Santa Catarina
+100.000,00
+P - Contratação de consultoria para capacitação dos técnicos em valorização de identidades culturais (
+pedagogia/antropologia) e avaliação da metodologia utilizada e alcance de resultados
+100.000,00
+C - INFRAESTRUTURA PARA O CAMPO E GESTÃO PÚBLICA
+52.000.000,00
+   S - INCLUSÃO DIGITAL E ACESSO À INFORMAÇÃO
+12.700.000,00
+P - Diagnóstico de demanda de acesso à internet realizado e Plano de Ampliação da oferta de sinal de telefonia/
+internet
+100.000,00
+      P - Projetos apoiados para acesso à internet e ATER Digital
+10.000.000,00
+      P - Parcerias firmadas em serviços de internet e ferramentas digitais
+200.000,00
+      P - Eventos de capacitação em inclusão digital realizados
+200.000,00
+      P - Beneficiários assistidos para serviços de ATER Digital
+2.200.000,00
+   S - APOIO À MELHORIA DA DISPONIBILIDADE DE ENERGIA ELÉTRICA
+20.000.000,00
+      P - Propriedades atendidas para adequação da demanda de energia elétrica
+10.000.000,00
+      P - Novas propriedades rurais com fontes alternativas de energia
+10.000.000,00
+   S - MELHORIA DA QUALIDADE DAS ESTRADAS RURAIS
+12.200.000,00
+      P - Diagnóstico de pontos críticos para escoamento de produção e Plano de melhoria entregues e aprovados
+100.000,00
+      P - Vias de escoamento da produção e deslocamento melhoradas em quilômetros (km)
+12.000.000,00
+      P - Capacitações em práticas de manutenção e adequação de estradas vicinais realizadas.
+100.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 9
+   S - GESTÃO PÚBLICA - EFICÁCIA DOS SERVIÇOS PÚBLICOS
+7.100.000,00
+      P - Sistema Integrado de Informações Agropecuárias (SIIA) desenvolvido e em operação
+2.000.000,00
+      P - Ecossistema de big data estruturado com informações sobre o agro catarinense
+200.000,00
+P - Sistemas de gestão dos programas e projetos públicos executados pela Secretaria de Estado da Agricultura (
+SAR) e suas vinculadas desenvolvidos e em operação
+1.000.000,00
+      P - Plataforma web do Observatório Agro Catarinense ampliada e consolidada
+2.000.000,00
+      P - Plataforma digital InfoAgro desenvolvida e em operação
+450.000,00
+      P - Sala de situação do Observatório Agro Catarinense implantada e em operação
+100.000,00
+      P - Sala de situação da defesa agropecuária implantada e em operação
+100.000,00
+      P - Sistema integrado de gestão desenvolvido e em operação
+160.000,00
+      P - Sistemas informatizados desenvolvidos e em operação
+360.000,00
+      P - Estrutura física de ambiente de comunicação implantada
+450.000,00
+      P - Servidores da Secretaria capacitados em data driven para processos de gestão das instituições
+80.000,00
+      P - Pesquisa/estudo de monitoramento e avaliação de resultados dos projetos entregues e aprovados
+200.000,00
+Total dos Componentes
+150.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - MEIO AMBIENTE
+Os esforços estarão concentrados na provisão e manutenção dos serviços da biodiversidade, a promoção da resiliência ambiental,
+redução da vulnerabilidade climática, com o fortalecimento da gestão dos recursos hídricos, da adoção de sistemas de produção
+de baixo impacto ambiental e da regularização ambiental.
+   S - RESILIÊNCIA E REDUÇÃO DA VULNERABILIDADE DOS RECURSOS HÍDRICOS
+O subcomponente desenvolverá ações tendo como centro promover a melhoria da resiliência hídrica no abastecimento hídrico das
+famílias, dos estabelecimentos rurais e pesqueiros, de suas atividades agropecuárias e de transformação, a fim de mitigar os
+efeitos das crises hídricas e eventos extremos. A atuação em ações para a melhoria e proteção do capital ambiental serão
+apoiadas, dada sua interface e sinergia da vulnerabilidade hídrica com programas de governo e políticas públicas.
+      P - Áreas de preservação permanente implementadas com melhoria da conectividade dos remanescentes florestais
+Apoio financeiro para implantação de áreas de preservação permanente e para a melhoria da conectividade dos remanescentes
+florestais.
+P - Beneficiários capacitados e assistidos para adoção de práticas que possibilitam a adaptação climática e redução
+da vulnerabilidade hídrica
+Investimento de recursos para promover a assistência técnica e a capacitação de agricultores familiares para a adoção de práticas
+que possibilitam a adaptação climática e redução da vulnerabilidade hídrica.
+P - Projetos de pesquisa realizados e tecnologias desenvolvidas em ambiente de inovação para enfrentamento a
+resiliência hídrica e promoção da adaptação climática
+Alocação de recursos para financiamento de projetos de pesquisa e para o desenvolvimento de tecnologias, em ambiente de
+inovação, para enfrentamento à resiliência hídrica e promoção da adaptação climática.
+P - Base de dados de perdas agropecuárias ocasionadas por eventos climáticos extremos em Santa Catarina (análise
+de risco)
+Investimento de recursos no desenvolvimento de um sistema informatizado para levantamento de perdas na agropecuária
+catarinense ocasionadas por eventos climáticos extremos.
+      P - Estudo com indicadores de acompanhamento da vulnerabilidade climática
+Alocação de recursos para a governança das ações do componente e para o monitoramento de impactos das ações executadas.
+      P - Propriedades rurais estruturadas para resiliência hídrica com reservação de água
+Alocação de recursos para estruturação dos estabelecimentos rurais no quesito resiliência hídrica e reservação de água.
+S - SISTEMAS DE PRODUÇÃO DE BAIXO IMPACTO AMBIENTAL PARA ADOÇÃO DE TECNOLOGIAS DE TRANSIÇÃO
+PARA ECONOMIA VERDE
+Este subcomponente é dedicado a promover a sustentabilidade na produção agropecuária, pesca artesanal e empreendimentos
+dedicados à produção artesanal e serviços ecossistêmicos que tem a característica agregadora de renda, organização e inclusão
+social. As ações efetivas têm a centralidade de contemplar um novo modo de produção como estratégia de transição para a
+economia de baixo carbono e verde. O objetivo é implementar melhorias nos sistemas integrados de produção agropecuária, pesca
+artesanal e serviços ecossistêmicos baseados em fundamentos melhoradores do ambiente, inclusão social e viabilidade técnica/
+econômica. Neste sentido, apoiará iniciativas que corroboram com a missão de mitigar a emissão de gases de efeito estufa,
+adaptabilidade às mudanças climáticas já presentes na agropecuária e pesca catarinense, mas com eficiência e eficácia produtiva.
+Esta nova forma de produção integra eixos ambientais, econômicos e sociais com competência efetiva para sustentabilidade nos
+agroecossistemas. Na sua execução destaca-se a sinergia e interface com programas atuais como Agricultura de Baixo Carbono (
+ABC+SC), Alimento Sem Risco, Objetivos do Desenvolvimento Sustentável e demais Políticas Públicas de promoção sustentável
+da agropecuária e pesca artesanal. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 10
+P - Projetos de pesquisa viabilizados e tecnologias promotoras da redução de GEE desenvolvidas em ambiente de
+inovação
+Alocação de recursos para execução de projetos de pesquisa e para o desenvolvimento de tecnologias promotoras da redução de
+GEE desenvolvidas em ambiente de inovação.
+      P - Áreas com sistemas agropecuários integrados
+Investimento para implantação e difusão de práticas para a conservação, recuperação e melhoramento do solo e da água, que
+ampliem a capacidade de infiltração e armazenamento de água no solo, fixação de carbono e mitigação da emissão de GEE. Além
+disso, alocação de recursos para a implantação e difusão de tecnologias que melhorem a eficiência energética, adequem o uso de
+dejetos, ampliem e qualifiquem a biodiversidade ativa, aliado a melhoria dos serviços ecossistêmicos na agropecuária e pesca
+artesanal.
+      P - Beneficiários capacitados e assistidos para a implantação e melhoria dos sistemas produtivos integrados.
+Alocação de recursos para assistência técnica e extensão rural em ações para a difusão e apropriação do conhecimento na
+implantação e melhoria dos sistemas produtivos integrados, da pesca artesanal e na prestação de serviços ecossistêmicos.
+   S - CADASTRO AMBIENTAL RURAL (CAR) E PROGRAMA DE REGULARIZAÇÃO AMBIENTAL (PRA)
+Este subcomponente apoiará ações voltadas à adequação ambiental das propriedades de agricultores familiares à legislação
+ambiental. A adequação ambiental será realizada mediante ações de cooperação articuladas entre os setores governamentais e
+instituições representantes do setor produtivo, especialmente em ações voltadas à validação do Cadastro Ambiental Rural ? CAR.
+Esta ação visa dar celeridade no processo de implantação da política nacional, trazendo segurança aos agricultores no
+desenvolvimento de suas atividades. Para os imóveis de agricultores familiares que apresentarem passivos ambientais o
+subcomponente apoiará ações previstas nos Planos de Regularização Ambiental, em sintonia com os demais subcomponentes.
+Dessa forma estará alinhado estrategicamente os investimentos nos objetivos de proteção do capital ambiental já descritos. As
+ações de apoio à regularização darão prioridade aos estabelecimentos que tenham nascentes identificadas, promovendo a
+recuperação de áreas de modo a melhorar a conectividade dos maciços vegetais ampliando os corredores ecológicos, contribuindo
+com a proteção e conservação da biodiversidade. Além das ações mencionadas, o subcomponente apoiará aquelas voltadas ao
+estabelecimento de políticas para a consolidação do Pagamento por Serviços Ambientais por meio das Cotas Ambientais Rurais,
+previstas no Código Florestal.
+      P - Propriedades apoiadas para regularização ambiental com validação do CAR
+Investimento em assistência técnica para propriedades de agricultores familiares que aderiram ao PRA, promovendo ações de
+recuperação e  proteção de nascentes e APPs, contribuindo para a ampliação da conectividade dos remanescentes florestais em
+áreas de preservação implantadas e ou melhoradas.
+      P - Técnicos capacitados para elaboração e implantação de PRA
+Investimento para realização de atividades de capacitação para agentes multiplicadores envolvidos na validação do CAR,
+elaboração e implementação do PRA.
+      P - Projetos elaborados para implantação do PRA
+Apoio a estudos e métodos para implementação da ferramenta das Cotas Ambientais Rurais, como instrumento de pagamento por
+serviços ambientais e incentivo a implantação do PRA.
+      P - Política de Pagamento por Serviços Ambientais (PSA) elaborada
+Articulação e implementação de ferramentas que viabilizem a participação pública e privada em projetos financiadores para a
+implantação da Política de Pagamento por Serviço Ambiental (PSA). 
+      P - Parcerias Público-Privadas firmadas para projetos de preservação permanente através do FDR
+Articulação para formação de parcerias para uso de recursos públicos e privados para financiar projetos de implantação de áreas
+de preservação permanente através do FDR.
+C - EMPREENDEDORISMO E INOVAÇÃO NO CAMPO
+O estímulo ao empreendedorismo e à inovação será apoiado como forma de ampliar a renda das famílias, fomentando novos
+negócios, a melhoria e aprimoramento de negócios existentes, o desenvolvimento e difusão de novas tecnologias e também
+estimulando a criação de novas oportunidades de mercados e de acesso a eles, sempre buscando a valorização e preservação
+dos produtos e saberes do povo catarinenses. Este componente se baseia em três pilares, sendo: Empreendedorismo e gestão;
+Inovação de produtos e processos; Melhoria do ambiente de negócios.
+   S - EMPREENDEDORISMO E GESTÃO
+O subcomponente pretende atuar em um conjunto de atividades, buscando o empreendedorismo e gestão dos negócios (
+existentes e novos) no meio rural e pesqueiro. Oferecer apoio às ações de capacitação em empreendedorismo e gestão focados
+no aprimoramento e uso dos investimentos existentes e aprimoramento das habilidades e capacidades voltados aos negócios,
+buscando a introdução de boas práticas de gestão, inovações tecnológicas, especialmente aquelas voltadas incorporar boas
+práticas agropecuárias e mitigar/minimizar os efeitos das variações climáticas nos processos produtivos.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 11
+Além do fortalecimento de habilidades e capacidades de empreendedorismo e gestão, o subcomponente apoiará investimentos
+para estímulo/consolidação de negócios, para a sua legalização sanitária e implantação/melhoria de negócios com vistas a
+melhorar a apropriação de renda por parte das famílias. Prioritariamente os apoios se destinarão a organizações de agricultores
+familiares e pescadores artesanais que apresentem planos de negócio em áreas atividades estratégicas definidas pelo programa.
+A valorização e promoção dos produtos e serviços serão trabalhadas em feiras e eventos regionais/estaduais/nacionais e também
+pelo apoio a organização e fortalecimento das redes de comercialização/cooperação, as quais aumentam o potencial de entrada
+em mercados maiores. Ações de mais longo prazo serão executadas em parceria com instituições envolvidas visando o registro ou
+fortalecimento de marcas territoriais ou de Indicação Geográfica. Trabalhar com zonas de certificação animal e vegetal é mais um
+passo para promover ações de defesa sanitária animal e vegetal, orientadas para o aumento da sustentabilidade e da
+competitividade da agricultura nos sistemas de mercado, garantindo a qualidade e a excelência dos produtos agropecuários,
+produzidos pelos agricultores e processados nos pequenos empreendimentos familiares da região trabalhada. Para que
+continuemos a manter o status sanitário conquistado são fundamentais as ações do subcomponente, especialmente no que diz
+respeito à proteção de territórios de produção, quanto aos riscos de ataques de pragas, especialmente com a produção vegetal.
+Assim, se faz necessária a intensificação do trabalho já existente, em particular, com relação ao monitoramento da qualidade da
+produção agropecuária e aquícola por meio do monitoramento dos empreendimentos e também dos produtores individualmente.
+      P - Beneficiários capacitados e assistidos em empreendedorismo e inovação
+Apoio para a capacitação de agricultores nas diversas áreas de empreendedorismo, visando embasar e empoderar os agricultores
+na gestão de seus negócios.
+      P - Diagnóstico e Planos de negócios elaborados
+O Diagnóstico serve para prospectar novos negócios, analisar a cadeia de valor  e aptidões locais, para análise da viabilidade
+técnica e econômica. Apoiar  a criação e desenvolvimento de novos empreendimentos e estratégias comerciais, como os signos
+distintivos, como forma de "distinção" e agregação de valor a produtos e serviços envolvidos no processo. Apoio para criação e
+desenvolvimento de novos empreendimentos legalizados para atendimento a diferentes mercados com agregação de valor a
+produtos e serviços envolvidos no processo.
+      P - Negócios apoiados financeiramente
+Apoio financeiro a planos de negócio de organizações de agricultores e pescadores com vistas a geração de novos
+empreendimentos/arranjos produtivos/atividades e/ou regularização dos mesmos e/ou implementação de tecnologias.
+      P - Negócios assessorados
+Apoio ao assessoramento dos negócios apoiados, nas áreas de gestão, processos de produção e comercialização, buscando a
+consolidação dos mesmos.
+      P - Estudos sobre organização e comercialização da produção entregues e aprovados
+Identificar através de estudos, as formas de organização e comercialização da produção, especialmente de produtos diferenciados.
+   S - INOVAÇÃO DE PRODUTOS E PROCESSOS
+Apoiará o desenvolvimento de estudos e pesquisas para a inovação, adequação, geração de tecnologias sustentáveis. Serão
+realizadas ações de apoio ao desenvolvimento e implantação de tecnologias inovadoras aplicadas ao meio rural e pesqueiro, bem
+como de estímulo a parcerias sinérgicas e complementares com startups, instituições de ciência e tecnologia, ambientes de
+inovação e pequenas empresas de inovação privadas que atuam no desenvolvimento de inovações para a agricultura familiar,
+como forma de acelerar e potencializar a oferta de novas ou melhoradas soluções. Este processo será acompanhado da
+implantação de unidades de validação/observação como forma de aprimoramento das soluções bem como estimular a adoção de
+novos sistemas de produção, buscando assim a inovação nos processos produtivos desses sistemas. Esta ação é fundamental
+para permitir que o agricultor e pescador possam ter a oportunidade de acompanhar e participar da implantação e observação dos
+resultados dessas unidades, atuando para o ajuste e customização das soluções observadas, servindo assim para estimulá-lo a
+adotar essas práticas. Essas unidades também visam consolidar uma base de dados com resultados, a fim de que essas
+tecnologias possam ser incorporadas nos sistemas base utilizados pelo sistema financeiro como referência para as operações de
+crédito rural. Além das ações de desenvolvimento/aprimoramento de inovações, conceitualmente a inovação implica
+necessariamente na adoção das soluções/tecnologias ofertadas. Deste modo o subcomponente apoiará agricultores para a
+instalação de uma rede de Unidades de Referência que visam a disseminação das boas práticas preconizadas nas diversas
+regiões do estado, sendo um importante instrumento do serviço de ATER no processo de difusão dessas boas práticas/tecnologias
+. Ações de difusão dessas tecnologias inovadoras serão apoiadas mediante métodos de assistência técnica e extensão visando a
+disseminação e adoção de novas tecnologias sustentáveis. Além disso, será apoiada a criação e incubação de startups oriundas
+do meio rural e pesqueiro.
+      P - Novas tecnologias agropecuárias geradas e difundidas
+Apoio para a realização de projetos de pesquisa agropecuária que visem o desenvolvimento e difusão de tecnologias sustentáveis.
+      P - Novas propriedades referência em novas tecnologias implantadas
+Apoio para a implantação de unidades participativas de experimentação, validação e  de referência tecnológica junto a agricultores
+familiares selecionados, com vistas a aprimorar/consolidar na prática os modelos/soluções/inovações propostos com o
+envolvimento do público alvo.
+      P - Startups do agro (Agtechs / Agrotechs) apoiadas
+Apoio à criação e incubação de startups oriundas do meio rural e pesqueiro, através de ações de inovação como Startup
+Weekends.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 12
+      P - Beneficiários capacitados em inovações tecnológicas
+Agricultores que participaram de ações de ATER voltadas à disseminação dos modelos/soluções/tecnologias validadas.
+      P - Linhas de financiamento para adoção de novas tecnologias
+Apoio financeiro para a adoção de tecnologias inovadoras geradas e validadas pela pesquisa agropecuária.
+   S - MELHORIA DO AMBIENTE DE NEGÓCIOS
+Este subcomponente apoiará ações voltadas à segurança do alimento, estratégias visando a consolidação de signos distintivos,
+ampliação/manutenção de diferenciais zoofitosanitários e boas práticas agropecuárias. No que se refere a segurança do alimento,
+ações voltadas ao fortalecimento do sistema de monitoramento de resíduos em produtos serão realizadas, em associação ao
+fortalecimento e ampliação da rastreabilidade dos produtos produzidos/ofertados no estado serão utilizados como instrumento de
+diferenciação da produção no que se refere a segurança dos alimentos. A partir das não conformidades e da identificação dos elos
+da cadeia de produção em que as mesmas são identificadas, ações de orientação e assistência técnica serão oferecidas como
+forma educativa de modo a resolver os aspectos não conformes. Práticas voltadas à capacitação/orientação quanto ao uso (EPIs,
+métodos e equipamentos adequados, dosagens, prazos de carência, riscos à saúde e ao meio ambiente) racional de agrotóxicos
+serão fortalecidas. Ações voltadas à disseminação de práticas alternativas para o controle de pragas na produção, serão ampliadas
+e articuladas como estratégia de estado, ampliando o processo de difusão e adoção de boas práticas agropecuárias. O
+monitoramento de resíduos e rastreabilidade contribuirão para que o estado possa aprimorar a política relacionada ao uso de
+agrotóxicos, de modo a avançar na redução do uso dos produtos. Com as ações de segurança do alimento, tem-se um ambiente
+favorecido para que ações de desenvolvimento e fortalecimento de signos distintivos possam ser implementadas, fortalecendo a
+conexão entre produção e consumidor em relações que agreguem atributos de interesse por parte de nichos de mercado, aspectos
+estes que contribuem para o aumento de renda das famílias e empreendimentos produtores. Ações voltadas ao fortalecimento e
+aprimoramento do status sanitário do estado serão realizadas, buscando com isso consolidar posição de destaque e de
+diferenciação de produtos no mercado nacional e internacional.
+      P - Rede de monitoramento de resíduos e agrotóxicos implantada e em funcionamento
+Apoio a ampliação e modernização da rede de monitoramento de resíduos em alimentos.
+      P - Propriedades com rastreabilidade de produção
+Apoio a sistemas de rastreabilidade da produção.
+      P - Propriedades com uso de boas práticas agropecuárias - BPA
+Número de propriedades produtivas que utilizam cadernos e manuais de boas práticas agropecuárias recomendadas e
+acompanhadas, a partir da implantação do programa.
+      P - Propriedades que aderiram a Signos distintivos como estratégia de acesso ao mercado
+Apoio a propriedades para a adesão/implantação de signos distintivos como estratégia de melhoria de renda e inclusão social das
+famílias de agricultores e pescadores artesanais.
+C - REDUÇÃO DAS DESIGUALDADES E  E INCLUSÃO SOCIAL
+O Componente se orienta por uma visão de valorização das identidades culturais das comunidades que preconiza o respeito à
+diversidade sociocultural de Santa Catarina. O público beneficiário inclui pessoas e/ou famílias em situação de vulnerabilidade,
+pobreza e populações tradicionais, como cafuzos, indígenas e quilombolas. Trata-se de incluir territórios socioculturais que serão
+trabalhados à medida que suas áreas estiverem legalizadas e sem conflitos fundiários com o intuito de garantir a segurança de
+populações, técnicos e instituições. Uma característica a ser destacada é a transversalidade considerando que os demais
+componentes têm ações com este público. O Componente está estruturado em atividades cujo objetivo é contribuir com a redução
+das desigualdades no espaço rural, promovendo a inclusão socioeconômica, cultural e ambiental de povos tradicionais, indígenas,
+quilombolas e o incremento de renda de populações em situação de pobreza e extrema pobreza.
+   S - REDUÇÃO DE DESIGUALDADES REGIONAIS E PROMOÇÃO DA INCLUSÃO SOCIAL
+Reduzir as desigualdades no espaço rural promovendo a inclusão socioeconômica, cultural e ambiental de povos tradicionais,
+indígenas, quilombolas e populações em situação de pobreza e extrema pobreza, através de iniciativas de auto abastecimento e
+segurança alimentar e nutricional, fomento e inclusão às cadeias periféricas, capacitação continuada, implantação e uso de
+tecnologias sociais de baixo custo e valorização da diversidade sociocultural dos povos tradicionais.
+      P - Planos de Desenvolvimento de Terras Indígenas e de Comunidades Quilombolas elaborados/aprimorados
+Elaboração e aprimoramento de Planos de Desenvolvimento de Terras Indígenas e de Comunidades Quilombolas, considerando
+peculiaridades socioculturais e ambientais dessas populações.
+      P - Beneficiários orientados e apoiados com projetos de Segurança Alimentar e Nutricional (SAN)
+Incentivo à implantação de iniciativas voltadas ao auto abastecimento e a Segurança Alimentar e Nutricional (SAN) como forma de
+reduzir a vulnerabilidade do público beneficiário.
+      P - Projetos implantados em cadeias periféricas
+Redução das desigualdades em regiões deprimidas socioeconômica e ambientalmente com fomento de projetos para inclusão às
+cadeias periféricas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 13
+P - Beneficiários capacitados em sistemas de produção, boas práticas, saneamento, educação ambiental, melhorias
+em habitação
+Processo de capacitação voltado ao público beneficiário nos seguintes temas: sistemas de produção, boas práticas, saneamento,
+educação ambiental, melhorias em habitação.
+      P - Beneficiários orientados em saneamento ambiental e tecnologias sociais de baixo custo
+Apoio a pessoas e/ou famílias para adoção de tecnologias sociais voltadas à melhoria de sua condição de vida, como saneamento
+ambiental, reserva de água, humanização do trabalho, e outras demandas de acordo com a necessidade
+      P - Publicações de materiais que valorizem a diversidade sociocultural de Santa Catarina
+Viabilização de publicações de material impresso / audiovisual  (livro, folhetos, boletim didático, vídeos) que valorizem a
+diversidade sociocultural de Santa Catarina.
+P - Contratação de consultoria para capacitação dos técnicos em valorização de identidades culturais (pedagogia/
+antropologia) e avaliação da metodologia utilizada e alcance de resultados
+Contratação de consultoria especializada para apoio pedagógico e antropológico sobre estudos e avaliação com foco na
+valorização das identidades culturais das comunidades rurais e pesqueiras.
+C - INFRAESTRUTURA PARA O CAMPO E GESTÃO PÚBLICA
+A melhoria da infraestrutura é decisiva para a melhoria do potencial de competitividade e sustentabilidade de negócios no meio
+rural. O investimento em infraestrutura  proposto visa a  ampliação da conectividade no campo, a partir da ampliação e melhoria do
+acesso à internet e a oferta de serviços digitais. Também serão apoiados investimentos para a melhoria da logística de
+escoamento da produção agrícola e agroindustrial familiar, contribuindo com a resolução de gargalos e pontos de estrangulamento
+nas estradas vicinais. Ainda, será ampliado implementada a automação das ferramentas de gestão e avaliação de políticas
+públicas.
+   S - INCLUSÃO DIGITAL E ACESSO À INFORMAÇÃO
+Este subcomponente apoiará a implementação de ações voltadas à realização de investimentos para ampliação da conectividade
+no campo por meio de investimentos voltados à melhoria/ampliação da qualidade e do sinal de internet junto ao meio rural. Visa  a
+partir de um diagnóstico  da oferta ou demanda pelos serviços de internet, subsidiar aelaboração de plano de investimentos com
+soluções adequadas às respectivas realidades regionais/locais. Esses investimentos serão realizados, prioritariamente, junto às
+regiões/localidades dos beneficiários do projeto atuando como promotor e indutor de acesso a informações, tecnologias, mercado,
+acelerando o processo de desenvolvimento dessas localidades. Em outra frente o subcomponente ofertará apoio no
+aprimoramento do acesso e oferta de serviços aos agricultores familiares. Ações de melhoria e desenvolvimento de plataformas de
+serviço, interativas e amigáveis que permitam  ampliar a abrangência e o acesso de serviços públicos ofertados pela SAR, suas
+empresas vinculadas e órgãos com interação com o meio rural como, IMA e SDS. O arranjo deste subcomponente se completa
+com o apoio a ações de capacitação dos beneficiários uma vez que a oferta da infraestrutura e de plataformas de serviços, por si
+só, não asseguram a inclusão digital. Assim, serão apoiadas ações voltadas ao desenvolvimento de habilidades e competências
+para que agricultores familiares e dirigentes de organizações e agroindústrias familiares tenham condições de usufruir dessa
+infraestrutura para sua própria capacitação, acesso a serviços e tecnologias em tempo real, apoio e acesso às ferramentas para
+melhoria da gestão de seus negócios.
+P - Diagnóstico de demanda de acesso à internet realizado e Plano de Ampliação da oferta de sinal de telefonia/
+internet
+O que se espera é que o diagnóstico sistematize as demandas identificadas pelas equipes de ATER junto aos agricultores
+familiares e pescadores trabalhados pelo projeto. Para o diagnóstico será necessário ampliar parcerias locais e a contratação de
+consultoria especializada para identificar a situação da oferta de internet no meio rural e as demandas para o provimento de sinal
+e os meios necessários para inclusão social dos agricultores e pescadores beneficiados. O plano  é o passo seguinte ao
+diagnóstico e deverá prever as ações necessárias para o acesso dos beneficiários a rede de internet e serviços digitais de acordo
+com as especificidades de cada local.
+      P - Projetos apoiados para acesso à internet e ATER Digital
+A elaboração dos projetos de fomento ao acesso à internet, será realizada através dos planos/projetos de investimentos
+elaborados pelas equipes de ATER. Bem como,  ampliar o atendimento remoto às famílias rurais.
+      P - Parcerias firmadas em serviços de internet e ferramentas digitais
+Através de contratação de consultoria especializada, visa promover e dar o suporte para a identificação de parcerias a partir do
+diagnóstico, para melhorar e ampliar os serviços de internet e ferramentas digitais voltados ao meio rural e pesqueiro.
+      P - Eventos de capacitação em inclusão digital realizados
+Apoio a eventos de capacitação de agricultores/as, pescadores/as e técnicos, em especial jovens e mulheres rurais e pesqueiros
+com vistas ao uso da internet e de serviços disponíveis que passaram a acessar regularmente serviços públicos ofertados pelo
+programa por meio da internet.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 14
+      P - Beneficiários assistidos para serviços de ATER Digital
+Visa aprimorar a prestação de serviços de ATER, utilizando a modalidade de  ATER Digital, com objetivo de  atender a um perfil de
+público diferenciado e aprimorar a comunicação de conteúdos aos agricultores familiares com acesso digital ampliando sua escala
+. Através da instrumentalização da ATER com dispositivos móveis de comunicação e de captura remota de imagens no apoio à
+digitalização do acesso a serviços e informações.
+   S - APOIO À MELHORIA DA DISPONIBILIDADE DE ENERGIA ELÉTRICA
+O subcomponente desenvolverá ações voltadas a apoiar estudos e diagnósticos  da energia no meio rural com a finalidade de
+elaborar um plano de melhoria, priorizando as comunidades onde se localizam as famílias e os empreendimentos apoiados. Para
+tanto, o projeto buscará articulação com as Centrais Elétricas de Santa Catarina SA - Celesc e  das cooperativas de eletrificação
+para a realizar esta ação. Procura viabilizar os investimentos em comunidades em que predominam agricultores familiares,
+incluindo os em situação de vulnerabilidade, melhorando assim as condições para o desenvolvimento das atividades nos
+estabelecimentos rurais. Também prevê o apoio a projetos de geração de energia de fontes não convencionais como forma de
+complementar a matriz energética, buscando atender comunidades/localidades em que o sistema convencional se mostre inviável
+técnica economicamente. O meio rural de SC tem expressiva participação no consumo de energia elétrica no meio rural em relação
+ao Brasil. Em 2022 o consumo rural em SC representou 12,4% do total Brasileiro, atrás apenas de SP (13,2%) e MG (11,8%), que
+demonstra seu potencial para expansão. Entre 2013 e 2023 SC  a  demanda de energia no meio rural cresce em torno de  100
+MWh por ano. A potência instalada para Micro/Minigeração distribuída é de 129,5783 MW  em  3.874 Unidades Geradoras/
+Compensadoras. (EPE - Empresa de Pesquisa Energética - Ministério de Minas e Energia MME).
+O Estado  conta com o programa Celesc Rural desde 2019, (Centrais elétricas de SC - CELESC), para atender  os produtores
+rurais na substituição de redes monofásicas por redes trifásicas e instalação de cabos protegidos nas redes próximas a áreas de
+vegetação, reduzindo o risco de ocorrências causadas por árvores na rede. A SAR através do FDR dispõe do programa Fomento
+AGRO SC com objetivo de  Qualificação do Acesso à Energia Elétrica através do apoio a investimentos estruturantes na área
+digital e ao acesso à energia elétrica.
+      P - Propriedades atendidas para adequação da demanda de energia elétrica
+Propriedades beneficiadas pelo projeto atendidas por rede de energia elétrica e que requeiram melhoria na qualidade da energia e
+regularidade na oferta para suprir as necessidades de demanda requeridas.
+      P - Novas propriedades rurais com fontes alternativas de energia
+Propriedades apoiadas que implantaram sistemas de geração por meios não tradicionais como forma de melhorar a oferta e
+qualidade em locais não atendidos/ pelos sistemas tradicionais e aquelas que reúnam condições viáveis para produção de energia
+e autogeração.
+   S - MELHORIA DA QUALIDADE DAS ESTRADAS RURAIS
+O aumento da produtividade agropecuária e  a ampliação da rede de empreendimentos no meio rural demandam investimentos
+para melhorar as condições de acesso e escoamento da produção nas comunidades rurais. O subcomponente apoiará a
+contratação de consultoria e a elaboração de  diagnóstico dos pontos de estrangulamento e das externalidades das estradas rurais
+identificadas e priorizadas para apoio pelo projeto a realização de investimentos  em melhoria indicadas pelo diagnóstico. Será
+necessário apoiar  a capacitação e qualificação de operadores que atuam na manutenção e conservação de estradas rurais em
+práticas alinhadas aos objetivos do projeto.
+Em SC o Plano Diretor Rodoviário 2008 - 2023 (Secretaria da Infraestrutura e Mobilidade), é um estudo macro com predominância
+das rodovias  Federais, Estaduais e Municipais e traz o detalhamento da infraestrutura, demanda  e as intervenções  na malha
+para os  planos plurianuais de 2008 a 2011, 2012 a 2015 e, com alguma necessidade de atualização, para o período de 2016 a
+2023. 
+As rodovias municipais ou vicinais são de competência dos municípios e não foram analisadas no PDR.
+      P - Diagnóstico de pontos críticos para escoamento de produção e Plano de melhoria entregues e aprovados
+O que se espera é que o diagnóstico que sistematize as demandas identificadas pelas equipes de ATER junto aos agricultores
+familiares e pescadores trabalhados pelo projeto. Para o diagnóstico será necessário ampliar parcerias locais e a contratação de
+consultoria especializada para identificar a situação. O diagnóstico  deverá indicar a necessidade das melhorias necessárias para a
+ redução de custos de deslocamento  e externalidades ambientais.
+      P - Vias de escoamento da produção e deslocamento melhoradas em quilômetros (km)
+Contratar serviços para melhoria dos pontos críticos das vias de acesso, para redução de custos de deslocamento e das
+externalidades ambientais.
+      P - Capacitações em práticas de manutenção e adequação de estradas vicinais realizadas.
+A capacitação de operadores e responsáveis de obras em práticas de manutenção e adequação de estradas vicinais serão
+viabilizadas pela SIE e consultoria especializada.
+   S - GESTÃO PÚBLICA - EFICÁCIA DOS SERVIÇOS PÚBLICOS
+Serão alocados recursos os quais permitirão avançar na estruturação e melhoria do sistema de gestão dos programas e políticas
+públicas da SAR e empresas vinculadas, do sistema de informações do agro catarinense, do sistema de big data e dos front-ends
+que prestarão serviços à sociedade catarinense.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 15
+O subcomponente aportará recursos para a implantação do Ecossistema de Inovação do Agro catarinense em Gestão Pública que
+visa dotar a SAR e empresas vinculadas de uma estrutura para captação e gestão de dados e informações do setor agro
+catarinense (fontes internas e externas), monitoramento de políticas públicas e geração de conhecimento para apoio à tomada de
+decisão dos diferentes atores, incluindo entidades representativas da agricultura familiar, da indústria, da academia, da sociedade
+civil organizada e do próprio governo de Estado.
+      P - Sistema Integrado de Informações Agropecuárias (SIIA) desenvolvido e em operação
+Ampliação do SIIA, com foco na estruturação e consolidação de sistema integrado de informações agropecuárias, por meio do
+desenvolvimento e integração dos sistemas da SAR e empresas vinculadas.
+      P - Ecossistema de big data estruturado com informações sobre o agro catarinense
+Celebrar convênios de parcerias para estruturação do ambiente big data para extração, armazenagem, tratamento e limpeza de
+dados estruturados das fontes primárias e secundárias, internas e de parceiros estratégicos.
+P - Sistemas de gestão dos programas e projetos públicos executados pela Secretaria de Estado da Agricultura (SAR)
+e suas vinculadas desenvolvidos e em operação
+Desenvolvimento de um sistema informatizado para gestão dos programas e projetos da SAR, viabilizando a automação de
+monitoramento e avaliação das políticas de governo, visando a efetividade das entregas à sociedade.
+      P - Plataforma web do Observatório Agro Catarinense ampliada e consolidada
+Consolidar e ampliar o Observatório Agro Catarinense, com investimentos para contratação de bolsistas, software, hardware,
+ecossistema big data, consultorias e equipamentos de TI e comunicação visual.
+      P - Plataforma digital InfoAgro desenvolvida e em operação
+Desenvolver novo aplicativo com novas funcionalidades, requisitos e soluções de TI numa linguagem mais acessível a diversos
+clientes, inclusive os produtores rurais.
+      P - Sala de situação do Observatório Agro Catarinense implantada e em operação
+Investimentos em tecnologias de comunicação visual para atender com agilidade as demandas dos agentes públicos e privados,
+com informações e indicadores atualizados.
+      P - Sala de situação da defesa agropecuária implantada e em operação
+Implantação do InovaDefesa mediante sala de situação e monitoramento em tempo real.
+      P - Sistema integrado de gestão desenvolvido e em operação
+Apoiará o desenvolvimento de uma plataforma web voltada à integração da comunicação, divulgação e acesso à políticas,
+programas, projetos e ações desenvolvidas pela SAR.
+      P - Sistemas informatizados desenvolvidos e em operação
+Desenvolver cinco sistemas de TI para estimativa de Safras, levantamento de Preços Agrícolas e de Insumos, levantamento de
+Preços da Terra, Custos de produção e Monitoramento de perdas por eventos climáticos extremos.
+      P - Estrutura física de ambiente de comunicação implantada
+Estruturar ambientes de comunicação para divulgação das ações, programas, projetos e resultados institucionais.
+      P - Servidores da Secretaria capacitados em data driven para processos de gestão das instituições
+Capacitar servidores da SAR e vinculadas para incorporação da cultura data driven nos processos de gestão das Instituições.
+      P - Pesquisa/estudo de monitoramento e avaliação de resultados dos projetos entregues e aprovados
+Apoiará o desenvolvimento de metodologias e a realização de estudos voltados ao monitoramento e avaliação de impacto e
+resultados. A constituição de um sistema de monitoramento de avaliação permanente de programas, políticas e projetos será
+apoiado.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 16
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Obras
+-
+-
+12.000.000,00
+8,00
+P- Vias de escoamento da produção e
+deslocamento melhoradas em quilômetros (km)
+quilômetros (km)
+1.000,00
+12.000.000,00
+8,00
+Bens
+-
+-
+12.720.000,00
+8,48
+P- Base de dados de perdas agropecuárias
+ocasionadas por eventos climáticos extremos em
+Santa Catarina (análise de risco)
+Sistema
+informatizado
+1,00
+200.000,00
+0,13
+P- Propriedades atendidas para adequação da
+demanda de energia elétrica
+Propriedades
+900,00
+10.000.000,00
+6,67
+P- Sistema Integrado de Informações
+Agropecuárias (SIIA) desenvolvido e em operação
+Sistemas
+informatizados
+1,00
+2.000.000,00
+1,33
+P- Sistema integrado de gestão desenvolvido e
+em operação
+Sistemas
+informatizados
+1,00
+160.000,00
+0,11
+P- Sistemas informatizados desenvolvidos e em
+operação
+Sistemas
+informatizados
+5,00
+360.000,00
+0,24
+Consultoria
+-
+-
+100.000,00
+0,07
+P- Contratação de consultoria para capacitação
+dos técnicos em valorização de identidades
+culturais (pedagogia/antropologia) e avaliação da
+metodologia utilizada e alcance de resultados
+Planos e Estudos
+2,00
+100.000,00
+0,07
+Capacitação e Treinamento
+-
+-
+8.480.000,00
+5,65
+P- Beneficiários capacitados e assistidos para
+adoção de práticas que possibilitam a adaptação
+climática e redução da vulnerabilidade hídrica
+Beneficiários
+3.780,00
+1.000.000,00
+0,67
+P- Beneficiários capacitados e assistidos para a
+implantação e melhoria dos sistemas produtivos
+integrados.
+Beneficiários
+27.000,00
+1.800.000,00
+1,20
+P- Técnicos capacitados para elaboração e
+implantação de PRA
+Pessoas
+capacitadas
+5.900,00
+200.000,00
+0,13
+P- Beneficiários capacitados e assistidos em
+empreendedorismo e inovação
+Beneficiários
+40.000,00
+3.300.000,00
+2,20
+P- Beneficiários capacitados em inovações
+tecnológicas
+Beneficiários
+30.000,00
+1.200.000,00
+0,80
+P- Beneficiários capacitados em sistemas de
+produção, boas práticas, saneamento, educação
+ambiental, melhorias em habitação
+Beneficiários
+720,00
+600.000,00
+0,40
+P- Eventos de capacitação em inclusão digital
+realizados
+Eventos
+300,00
+200.000,00
+0,13
+P- Capacitações em práticas de manutenção e
+adequação de estradas vicinais realizadas.
+Capacitações
+22,00
+100.000,00
+0,07
+P- Servidores da Secretaria capacitados em data
+driven para processos de gestão das instituições
+Pessoas
+capacitadas
+200,00
+80.000,00
+0,05
+Outros
+-
+-
+116.700.000,00
+77,80
+P- Áreas de preservação permanente
+implementadas com melhoria da conectividade
+dos remanescentes florestais
+Hectares
+2.000,00
+2.800.000,00
+1,87
+P- Projetos de pesquisa realizados e tecnologias
+desenvolvidas em ambiente de inovação para
+enfrentamento a resiliência hídrica e promoção da
+ adaptação climática
+Projetos
+10,00
+300.000,00
+0,20
+P- Estudo com indicadores de acompanhamento
+da vulnerabilidade climática
+Planos e estudos
+1,00
+200.000,00
+0,13
+P- Propriedades rurais estruturadas para
+resiliência hídrica com reservação de água
+Propriedades
+600,00
+3.800.000,00
+2,53
+P- Projetos de pesquisa viabilizados e tecnologias
+promotoras da redução de GEE desenvolvidas
+em ambiente de inovação
+Projetos
+70,00
+2.000.000,00
+1,33
+P- Áreas com sistemas agropecuários integrados
+Hectares
+54.500,00
+22.000.000,00
+14,67
+P- Propriedades apoiadas para regularização
+ambiental com validação do CAR
+Propriedades
+379.532,00
+100.000,00
+0,07
+P- Projetos elaborados para implantação do PRA
+Projetos
+27.000,00
+7.300.000,00
+4,87
+P- Política de Pagamento por Serviços Ambientais
+ (PSA) elaborada
+Política
+1,00
+200.000,00
+0,13
+P- Parcerias Público-Privadas firmadas para
+projetos de preservação permanente através do
+FDR
+Parcerias
+1,00
+100.000,00
+0,07
+P- Diagnóstico e Planos de negócios elaborados
+Planos e estudos
+1.500,00
+240.000,00
+0,16
+P- Negócios apoiados financeiramente
+Negócios
+1.000,00
+10.000.000,00
+6,67
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 17
+P- Negócios assessorados
+Negócios
+2.000,00
+240.000,00
+0,16
+P- Estudos sobre organização e comercialização
+da produção entregues e aprovados
+Planos e Estudos
+5,00
+320.000,00
+0,21
+P- Novas tecnologias agropecuárias geradas e
+difundidas
+Novas tecnologias
+30,00
+3.000.000,00
+2,00
+P- Novas propriedades referência em novas
+tecnologias implantadas
+Propriedades
+120,00
+2.500.000,00
+1,67
+P- Startups do agro (Agtechs / Agrotechs)
+apoiadas
+Startups
+60,00
+2.200.000,00
+1,47
+P- Linhas de financiamento para adoção de novas
+ tecnologias
+Linhas de
+financiamento
+6,00
+18.000.000,00
+12,00
+P- Rede de monitoramento de resíduos e
+agrotóxicos implantada e em funcionamento
+Amostras
+6.000,00
+1.800.000,00
+1,20
+P- Propriedades com rastreabilidade de produção
+Propriedades
+600,00
+2.200.000,00
+1,47
+P- Propriedades com uso de boas práticas
+agropecuárias - BPA
+Propriedades
+600,00
+1.500.000,00
+1,00
+P- Propriedades que aderiram a Signos distintivos
+ como estratégia de acesso ao mercado
+Propriedades
+120,00
+1.500.000,00
+1,00
+P- Planos de Desenvolvimento de Terras
+Indígenas e de Comunidades Quilombolas
+elaborados/aprimorados
+Planos e estudos
+13,00
+1.200.000,00
+0,80
+P- Beneficiários orientados e apoiados com
+projetos de Segurança Alimentar e Nutricional (
+SAN)
+Beneficiários
+2.400,00
+3.000.000,00
+2,00
+P- Projetos implantados em cadeias periféricas
+Projetos
+2.400,00
+1.500.000,00
+1,00
+P- Beneficiários orientados em saneamento
+ambiental e tecnologias sociais de baixo custo
+Beneficiários
+120,00
+1.500.000,00
+1,00
+P- Publicações de materiais que valorizem a
+diversidade sociocultural de Santa Catarina
+Publicações
+5,00
+100.000,00
+0,07
+P- Diagnóstico de demanda de acesso à internet
+realizado e Plano de Ampliação da oferta de sinal
+de telefonia/internet
+Planos e Estudos
+1,00
+100.000,00
+0,07
+P- Projetos apoiados para acesso à internet e
+ATER Digital
+Projetos
+2.000,00
+10.000.000,00
+6,67
+P- Parcerias firmadas em serviços de internet e
+ferramentas digitais
+Parcerias
+1,00
+200.000,00
+0,13
+P- Beneficiários assistidos para serviços de ATER
+ Digital
+Beneficiários
+500,00
+2.200.000,00
+1,47
+P- Novas propriedades rurais com fontes
+alternativas de energia
+Propriedades
+1.200,00
+10.000.000,00
+6,67
+P- Diagnóstico de pontos críticos para
+escoamento de produção e Plano de melhoria
+entregues e aprovados
+Planos e estudos
+22,00
+100.000,00
+0,07
+P- Ecossistema de big data estruturado com
+informações sobre o agro catarinense
+Sistemas
+informatizados
+1,00
+200.000,00
+0,13
+P- Sistemas de gestão dos programas e projetos
+públicos executados pela Secretaria de Estado da
+Agricultura (SAR) e suas vinculadas
+desenvolvidos e em operação
+Sistemas
+informatizados
+1,00
+1.000.000,00
+0,67
+P- Plataforma web do Observatório Agro
+Catarinense ampliada e consolidada
+Plataforma web
+1,00
+2.000.000,00
+1,33
+P- Plataforma digital InfoAgro desenvolvida e em
+operação
+Plataforma web
+1,00
+450.000,00
+0,30
+P- Sala de situação do Observatório Agro
+Catarinense implantada e em operação
+Ambiente físico
+1,00
+100.000,00
+0,07
+P- Sala de situação da defesa agropecuária
+implantada e em operação
+Ambiente físico
+1,00
+100.000,00
+0,07
+P- Estrutura física de ambiente de comunicação
+implantada
+Ambiente físico
+1,00
+450.000,00
+0,30
+P- Pesquisa/estudo de monitoramento e avaliação
+de resultados dos projetos entregues e
+aprovados
+Planos e estudos
+1,00
+200.000,00
+0,13
+Total Geral
+-
+-
+150.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+O Estado de Santa Catarina acumula experiência há mais de 30 anos em ações de pesquisa e extensão rural. Essas ações consistem na
+promoção do manejo e conservação do meio ambiente, na melhoria da qualidade de vida e inclusão social e econômica das famílias rurais
+, agregação de valores e incentivo a agroindústrias de pequeno porte, ao longo desses trinta anos desenvolveu 3 projetos (Microbacias 1;
+2 e SC Rural) com foco nestas iniciativas, que contaram com financiamento do Banco Mundial.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 18
+O projeto Microbacias 1, desenvolvido na década de 1990, influenciou diretamente as organizações participantes, como exemplo a
+EPAGRI, cujo planejamento estratégico foi realizado naquela década e definiu a missão, objetivos e linhas de ação alinhados nas
+premissas do desenvolvimento sustentável. Como resultado, são diretrizes atuais: desenvolvimento e apoio às tecnologias sustentáveis, a
+produção limpa de alimentos e o enfoque de desenvolvimento territorial, respeitando as características sociais, ambientais e econômicas
+das regiões e comunidades trabalhadas, contemplando uma visão integrada do planejamento interno da propriedade rural, conforme suas
+características edafoclimáticas. O principal legado foi a popularização do uso de práticas conservacionistas, especialmente o plantio direto.
+O projeto Microbacias 2 - década de 2000 - incorporou esses princípios e orientou as atividades de ATER e pesquisa participativa para a
+inclusão social e econômica de agricultores de baixa renda e indígenas, que historicamente não  eram abrangidos por projetos de
+desenvolvimento. No campo ambiental o projeto apoiou a implantação de sistemas de tratamento adequado de dejetos animais e de
+efluentes domésticos no meio rural.  Os objetivos foram alcançados com base em criterioso processo de capacitação em desenvolvimento
+rural das equipes de campo (extensionistas) na aplicação de métodos participativos de diagnóstico, planejamento e ação. Cada uma das
+936 microbacias realizou de forma coletiva (associativismo) e participativa seu planejamento estratégico (PEP) e priorizou todas as ações
+ali desenvolvidas pelo projeto. A formação de novas lideranças,  trabalhadas pela extensão rural, foi fundamental para o êxito e o alcance
+do público preferencial do projeto.
+O projeto SC Rural, na década de 2010, consolidou o apoio às organizações e negócios que surgiram do projeto anterior, dando origem
+com foco no aumento da competitividade da agricultura familiar, milhares de novos empreendimentos de agregação de valor, pequenas
+agroindústrias, melhoria de sistemas produtivos, considerando os princípios do desenvolvimento sustentável. Dentre os indicadores de
+desempenho do projeto, destaca-se a título de exemplo, que os empreendimentos apoiados pelo projeto obtiveram incremento de 118,4%
+na renda bruta e o grupo de controle, que não teve apoio do projeto, apenas 44,0%.
+Ainda, no que tange a promoção do alívio à pobreza no meio rural, 19,3% dos beneficiários pesquisados ultrapassaram o limite de
+enquadramento nas categorias de renda mais baixas, passando para categorias de renda mais altas.
+Entre os mais importantes aprendizados incorporados em Santa Catarina, destaca-se o processo de formação de jovens e mulheres rurais
+, a implantação de unidades de referência tecnológicas e experimentais, pesquisas e inovação visando a capacitação de agricultores e o
+assessoramento dos empreendimentos da agricultura familiar, com vistas a uma melhoria na gestão e no processamento e qualidade dos
+produtos. O atendimento às populações indígenas e de pescadores artesanais também continua sendo realizado pelo Governo do Estado.
+A sustentabilidade dos programas Microbacias I e II e SC Rural é resultado de um conjunto de ações abrangentes que fortaleceram as
+instituições envolvidas, garantiram a qualidade técnica das ações, promoveram a participação social e a integração com políticas públicas
+existentes. A combinação de planejamento estratégico, capacitação de equipes, desenvolvimento de ferramentas tecnológicas e
+monitoramento e avaliação contribuiu para a criação de um modelo de gestão sustentável que pode ser replicado em outras iniciativas de
+desenvolvimento rural.
+Com o fim do primeiro Programa SC Rural, foi estabelecido um grupo técnico para elaboração da proposta de captação de recurso para
+continuidade e ampliação do escopo das ações. No entanto, o Estado de Santa Catarina estava impossibilitado de obter novos
+empréstimos internacionais dessa natureza por não atender a dois requisitos definidos pela União, a nota mínima da Capacidade de
+Pagamento (CAPAG) e o percentual mínimo de aplicação dos recursos em educação. Esta situação foi resolvida no final do ano de 2021.
+Por motivos estratégicos, o Governo do Estado optou por não apresentar a proposta em 2022, sendo um ano eleitoral, nem em 2023, pois
+foi priorizado um projeto de infraestrutura aprovado na Cofiex em dezembro. Contudo, ao final do ano de 2023 foi realizada a revisão e
+atualização da proposta elaborada anteriormente, para sua apresentação em 2024.
+Com isso, algumas ações foram descontinuadas ou reduzidas consideravelmente, como é o caso da infraestrutura de internet e a
+promoção da cultura da inovação no campo. Para outras ações a manutenção foi possível com a reestruturação de políticas e
+redirecionamento de recursos, como a capacitação de jovens e mulheres e as linhas de financiamento para projetos de jovens e mulheres
+e de resiliência hídrica. Estes, no entanto, com recursos limitados em relação às operações com o BIRD.
+Atualmente, a Secretaria de Estado da Agricultura (SAR) e suas filiadas coordenam o Plano Agricultura de Baixo Carbono - ABC+SC e
+outros programas estratégicos de governo como: Programa Terra Boa que traz incentivos para a correção do solo, aquisição de sementes
+com alto potencial produtivo, implantação de sistemas de produção de leite e de carne à base de pasto e de plantas de cobertura do solo,
+oferta de grãos para a produção de ração para alimentação animal e atividades apícolas; Programa Investe Agro SC que proporciona
+subvenção de juros em projetos de investimentos visando a melhoria e a competitividade dos sistemas produtivos das propriedades rurais
+e pesqueira; Programa Investe Agro SC Emergencial - subvenção aos juros de financiamentos em municípios atingidos por eventos
+climáticos extremos  Reconstrói SC com investimentos para recuperação de estruturas, máquinas ou equipamentos, que garantam a
+continuidade dos processos produtivos e as condições de moradia para as famílias rurais afetadas em municípios atingidos por eventos
+climáticos extremos; Conecta Agro SC que incentiva a instalação de rede cabeada para serviços de telecomunicações nas áreas rurais;
+Programa Estadual de Conservação, Recuperação e Manejo do Solo e Água - Prosolo e Água com foco na captação, armazenamento,
+tratamento, distribuição de água para utilização na propriedade rural e em práticas conservacionistas do solo; Terra Legal - programa de
+regularização e legalização fundiária; Terra Brasil - Programa nacional de crédito fundiário; Programa jovens e mulheres em ação para
+proporcionar mais autonomia ao jovem e/ou à mulher, iniciando um processo de sucessão no gerenciamento dos negócios e inclusão
+digital; Fundo estadual de sanidade animal - Indenização do abate sanitário de bovinos, equinos e aves, sob suspeita ou com doenças
+infecto-contagiosas; SC mais pesca para melhorar infraestruturas adequadas ao desenvolvimento da atividade pesqueira ou da
+maricultura nos municípios litorâneos de Santa Catarina; Fomento Agro SC - apoio a projetos com foco na melhoria de sistemas
+produtivos, no acesso à energia elétrica, serviços de internet e na inovação, na agregação de valor, no turismo rural e no apoio à
+legalidade produtiva. Todas essas iniciativas do Estado através de programas e políticas públicas visam o  desenvolvimento rural e as
+atividades de ATER, pesquisa e defesa sanitária.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 19
+As instituições ciclicamente fazem rodadas de atualização dos planos estratégicos e incorporam as tendências sinalizadas pela sociedade
+e suas organizações, movimento que aponta para uma agricultura mais limpa e produtiva, para responder às necessidades da sociedade
+e dos agricultores.
+A experiência vivenciada pelo staff técnico do Estado se mantém e permite que as lições aprendidas na execução desses projetos sejam
+incorporadas ao desenho da nova proposta e que a infraestrutura de gestão, monitoramento e avaliação sejam potencializados e
+consolidados.
+Para esta proposta, o novo Programa agregará o uso de metodologias participativas para o desenvolvimento das comunidades e famílias
+participantes, a formação continuada de novas lideranças no meio rural e a integração e cooperação entre as instituições envolvidas. Além
+disso, alguns desafios encontrados nas operações anteriores poderão ser superados nessa, como, por exemplo: a dificuldade de
+incorporação na totalidade das lições aprendidas na rotina das instituições, que normalmente tendem a se desmobilizar com o
+encerramento dos projetos; bem como dificuldades de manter ativas e mobilizadas as comunidades envolvidas; e a manutenção dos
+recursos (financeiro e operacionais) nas áreas trabalhadas entre outros fatores influenciados por demandas diversas. 
+Na medida em que as operações anteriores foram encerradas, observou-se a descontinuidade do planejamento de ações integradas entre
+as instituições envolvidas. Considerando isso, o novo programa deverá priorizar a capacitação das equipes para o planejamento,
+implementação e avaliação de ações interinstitucionais. Também serão realizadas ações de sensibilização junto às instituições que
+compõem o Conselho Estadual de Desenvolvimento Rural (CEDERural), responsável pela definição das políticas públicas no setor. Por
+fim, a plataforma de integração de dados proposta deve potencializar a manutenção dos serviços e ações integradas, pois traz sinergia à
+execução das políticas públicas com o monitoramento dos resultados, avaliação dos impactos e transparência.
+Para maior detalhamento dos resultados de projetos anteriores, verificar Anexo III - Relatório Final Programa Santa Catarina Rural (2017),
+Anexo IV - Relatório dos projetos de pesquisa apoiados pelo Programa Santa Catarina Rural ? SC Rural (2017) e Anexo V - Avaliação de
+impacto dos empreendimentos de agregação de valor - Programa Santa Catarina Rural (CEPA/EPAGRI, 2016).
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Estadual/Sem detalhes
+Estado de Santa Catarina ()
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+Prazo médio da operação: SOFR + taxa do banco + variação cambial; comissão inicial 0,25% e comissão de permanência 0,25% a.a.
+A taxa pode variar de 0,64% a 1,54%, a depender no prazo total da operação, que pode variar entre 8 a 20 anos.
+Taxa até 8 anos: 0,64%
+Taxa de 8 a 10 anos: 0,74%
+Taxa de 10 a 12: 0,94%
+Taxa de 12 a 15 anos: 1,14%
+Taxa de 15 a 18 anos: 1,34%
+Taxa de 18 a 20 anos: 1,54%
+No momento, para envio do pleito para análise da COFIEX, entendemos ser a melhor opção a linha de crédito BIRD- 12+ to 15 yrs, que
+possui taxa SOFR + 1,14% a.a.
+A opção se deve aos demais programas de operação de crédito que estão em análise, e que podem somados trazer um maior impacto no
+cronograma total de pagamentos da dívida consolidada. Somados às novas operações, temos o impacto crescente do plano de
+pagamento de precatórios do regime especial, que se encerra no exercício de 2029, e desta forma nos parece prudente a contratação de
+uma operação cujo impacto no caixa seja diluído pelo maior prazo e com a taxa de juros compatível ao mercado. Importante ainda
+destacar, que esta é uma análise inicial para cadastramento da operação na COFIEX, e que esta posição em relação a qual cenário aderir
+pode sofrer alteração até o momento da efetiva contratação da operação junto ao BIRD, pois até lá, teremos como analisar globalmente o
+ impacto para os cofres do Tesouro dessas novas contratações.
+Periodicidade das amortizações: serão 40 amortizações semestrais dentro da linha BIRD (12+ to 15 yrs) que possui taxa SOFR + 1,14%
+Prazo total do financiamento e de carência: carência de 5 anos, com prazo total de 25 anos ou 40 amortizações semestrais
+Prazo de desembolso: 6 (seis) anos.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 20
+Demais encargos e comissões: uma sobretaxa de exposição ao país (SBL surcharge), atualmente de 50 pontos básicos (0,5%), se aplica
+quando a exposição total do Banco Mundial ao Brasil (considerando todos os empréstimos em vigor) exceder o chamado "SBL surcharge
+threshold", fixado nesse ano fiscal em 18,7 bilhões de dólares para o Brasil. A comissão se aplica somente ao montante que exceda a
+exposição e é calculada de modo pro-rata. Esse conceito foi introduzido em 2014 e o Brasil tem por política nunca ultrapassar esse limite.
+
+NECESSIDADE DE FINANCIAMENTO EXTERNO E A OPÇÃO PELO AGENTE FINANCEIRO:
+Buscamos nas instituições financeiras as suas condições para operações de crédito com o ESC e projetamos o custo total da operação,
+conforme segue:
+1. BID: SOFR + 1,26% + variação cambial; comissão inicial 0,50% e comissão de permanência 0,75% a.a.  
+2. BANCO MUNDIAL: SOFR + 1,14%+ variação cambial; comissão inicial 0,25% e comissão de permanência 0,25% a.a.
+3. NDB: SOFR + 1,39% + variação cambial; comissão inicial não informada (0,5% para fins de comparativo) e comissão de permanência
+não informada (0,5% para fins de comparativo) 
+4. BB*: CDI + 1,92; comissão inicial 0,70% e comissão de permanência 0,20% a.a.  
+5. BNDES: TLP + 1,40 + INPC; comissão inicial 0,50%
+Comparativo:
+1. BID: Spread 1,26.% + SOFR 5,31% = 6,57%
+2. BANCO MUNDIAL: Spread 1,14% + SOFR 5,31% = 6,45%
+3. NDB: Spread 1,39% + SOFR 5,31% = 6,70%
+4. BB: Spread 1,92% + CDI 9,25% = 11,17%
+5. BNDES: Spread 1,40% + TLP 5,31 + IPCA 3,89% = 10,60%
+Observações:
+- IPCA - 4,84%a.a. em 2023, 3,89%a.a. em 2024, 3,5%a.a. a partir de 2025 (Relatório de Mercado Focus - BCB - 28/07/2023)
+- Taxa Selic - 12%a.a. em 2023, 9,25%a.a. em 2024, 8,75%a.a. em 2025 e 8,5%a.a. a partir de 2026 (Relatório de Mercado Focus - BCB -
+ 28/07/2023)
+- TLP-Pré - julho/2023 - 5,31%a.a.
+- SOFR - 28/07/2023 - 5,31%a.a.
+Pelas projeções podemos inferir que o Banco Mundial apresenta o menor custo da operação, todavia deve se observar que tal operação
+tem a variável "variação cambial" que não foi projetada. 
+Ademais, foi levada em conta a parceria histórica de 30 anos do Estado de Santa Catarina com o Banco Mundial para o desenvolvimento
+rural sustentável, que, em três operações de crédito, trouxe resultados altamente positivos para o espaço rural catarinense e serviu de
+modelo para operações em outras regiões do Brasil e do mundo.
+Em 1983, Santa Catarina foi afetada drasticamente por uma enchente. Estudos técnicos e ambientais desse evento culminaram com a
+implantação do Projeto de Recuperação, Conservação e Manejo dos Recursos Naturais em Microbacias Hidrográficas - Projeto
+Microbacias 1 - que teve início em julho de 1991 e término em junho de 1999. Foi este o primeiro projeto para o meio rural catarinense
+com apoio do Banco Mundial (BIRD). O conjunto das intervenções desse projeto foi importante para lançar as bases de uma agricultura
+sustentável no estado.
+Em sucessão ao Projeto Microbacias, houve a implantação do Programa de Recuperação Ambiental e de Apoio ao Pequeno Produtor
+Rural - Projeto Microbacias 2, que teve um contexto mais abrangente, atuando em 289 municípios, envolvendo 936 associações de
+microbacias, que alcançou 50% do território, executado de 2002 a 2009. As ações foram desenvolvidas, de forma prioritária, em
+municípios e microbacias com agricultores mais pobres e de maior grau de degradação ambiental. Os principais investimentos foram na
+melhoria da habitação (27,5%), na conservação dos recursos naturais e meio ambiente (32,4%) e na melhoria da renda (40%). Avaliações
+revelam que, resultado da estratégia de trabalho adotada, houve um aumento do protagonismo das famílias no processo de planejamento
+e desenvolvimento, além da melhoria da autoestima das pessoas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 21
+Por fim, houve o Programa de Competitividade da Agricultura Familiar de Santa Catarina - Programa SC Rural, iniciado em setembro de
+2010 e encerrado em junho de 2017, que abrangeu todos os municípios e teve como público prioritário os agricultores familiares com
+inclusão de jovens a partir de demanda identificada no Microbacias 2. Para o enfrentamento de novos desafios com vistas ao
+desenvolvimento rural, em particular a melhoria dos serviços e bens públicos em zonas rurais (infraestrutura de transporte, de
+telecomunicação, serviços de proteção ambiental, de promoção de turismo, de gestão de recursos hídricos, etc.), o SC Rural inovou com a
+inclusão de diversos atores, se tornando uma iniciativa matricial integrada de ação do estado para o enfrentamento de problemas comuns
+.
+Dentre os indicadores de desempenho do projeto, destaca-se a título de exemplo, que os empreendimentos apoiados pelo projeto
+obtiveram incremento de 118,4% na renda bruta e o grupo de controle, que não teve apoio do projeto, apenas 44,0%.
+Ainda, no que tange a promoção do alívio à pobreza no meio rural, 19,3% dos beneficiários pesquisados ultrapassaram o limite de
+enquadramento nas categorias de renda mais baixas, passando para categorias de renda mais altas.
+Na sua execução foram envolvidos: Secretaria da Agricultura - SAR; Secretaria de Estado da Infraestrutura - SIE; Secretaria de Estado de
+Turismo, Cultura e Esporte - SOL; Secretaria de Desenvolvimento Econômico e Sustentável - SDS; Companhia Integrada de
+Desenvolvimento Integrado de Santa Catarina - CIDASC; Empresa de Pesquisa Agropecuária e Extensão Rural de Santa Catarina -
+Epagri; Fundação de Meio Ambiente - FATMA; Polícia Militar Ambiental - BPMA e a Secretaria de Estado da Fazenda - SEF. 
+Por isso, a escolha pelo Banco Mundial deve-se a diversos fatores, cujos principais são: (i) todo o know-how desenvolvido junto ao Estado
+de Santa Catarina ao longo das 3 décadas de parceria; (ii) o empenho dos membros das missões realizadas pelo Banco que
+periodicamente prestam assessoria e acompanham a execução dos trabalhos, com extremo zelo  pelos princípios e fundamentos dos
+projetos e pelo reconhecimento e  valorização dos profissionais das instituições executoras envolvidas; (iii) por consequência, o profundo
+conhecimento da realidade e dinâmica rurais de Santa Catarina e da capacidade das instituições proponentes; (iv) a busca pelo
+aperfeiçoamento dos trabalhos, que buscaram a inclusão do Estado em seus novos programas de desenvolvimento, a exemplo da criação
+do Núcleo de Inovação Tecnológica para Agricultura Familiar - NITA; (v) e, por fim, um fator a ser destacado é o aprendizado das
+instituições executoras (empresas e secretarias) sobre a  modalidade de operação (SWAp). que proporciona maior segurança e
+entendimento das regras aplicáveis e incorpora a execução das salvaguardas sociais e ambientais exigidas pelo Banco Mundial.
+2.11. PROJETO/BENEFICIÁRIO
+O Projeto SC Rural 2 tem abrangência estadual e poderá atender em torno de 110 mil beneficiários diretos e indiretamente (ou cerca de
+71.000 famílias) dos 295 municípios e do Estado, prevendo ações e componentes específicos que incluem terras indígenas e
+comunidades quilombolas legalizadas, bem como regiões rurais e pesqueiras com maior grau de vulnerabilidade social, cuja área de
+concentração envolve 84 municípios conforme mapa na carta consulta.
+Ele deverá apoiar diretamente 50.000 pessoas (ou cerca de 31.000 famílias) como beneficiárias diretas de suas ações, destas em torno de
+ 6.000 jovens, 15.600 mulheres e 2.700 famílias de comunidades tradicionais.
+Deste total, o Projeto atenderá aproximadamente 27.000 beneficiários em sistemas de produção integrados, e práticas para adequação
+ambiental das propriedades, para a realização de negócios no meio rural, além de iniciativas de proteção e recuperação dos recursos
+naturais, recebendo apoio da ATER.
+Naquilo que se refere às Áreas Estratégicas e Impactos do Projeto (Ambientais, Econômicos e Sociais), temos que as iniciativas que
+constituem os quatro Componentes resultam na contemplação direta ou indireta de todos os 15 itens de áreas estratégicas e de impactos,
+conforme o anexo 4 da Resolução nº 17/2021 da COFIEX, de 7 de junho de 2021. 
+o Projeto e as áreas estratégicas estabelecidas pela COFIEX.
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Internas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Contrapartida Financeira
+CF
+US$
+30.000.000,00
+1,00
+30.000.000,00
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+BIRD
+US$
+120.000.000,00
+1,00
+120.000.000,00
+Total:
+150.000.000,00
+150.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 22
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+ARRANJO INSTITUCIONAL:
+Será estabelecida a Secretaria Executiva do SC Rural, órgão executor do projeto, a qual ficará responsável pelo planejamento geral do
+programa, gerenciamento técnico, operacional, financeiro e administrativo, assim como pela coordenação e articulação institucional,
+monitoramento e avaliação das ações.
+A Secretaria Executiva do SC Rural será vinculada à Secretaria de Estado da Agricultura - SAR, que terá como função a supervisão,
+coordenação, orientação e fiscalização da Secretaria Executiva, conforme modelo de gestão da Administração Pública Estadual, no
+âmbito do Poder Executivo, definido pela Lei 18.646 de 05 de junho de 2023.
+A SAR também atuará como co-executora do programa, uma vez que o órgão é responsável pela gestão do Fundo do Desenvolvimento
+Rural - FDR. Esse Fundo, conforme definido pela política estadual de desenvolvimento rural - Lei 8.676 de 17 de junho de 1992 - possui
+os mecanismos necessários às ações do programa que contam com repasses financeiros diretamente aos produtores.
+Dentre os coexecutores também se destacam a Empresa de Pesquisa e Extensão Rural de Santa Catarina - Epagri e a Companhia
+Integrada de Desenvolvimento Agrícola de Santa Catarina. A Epagri possui infraestrutura e pessoal qualificado tanto para pesquisa
+agropecuária aplicada quanto para a assistência técnica rural em quase todos os municípios do estado.
+A Cidasc, por sua vez, é o órgão responsável pela fiscalização e execução das políticas de defesa sanitária animal e vegetal, e pela
+fiscalização, padronização, certificação e classificação de produtos de origem vegetal previstos no programa.
+A Secretaria de Estado da Fazenda, de acordo com o Decreto 385, de 10 de dezembro de 2019, terá a atribuição de prover orçamento do
+Estado necessário, tanto da contrapartida como das dotações relacionadas com a entrada dos recursos do Contrato de Empréstimo, bem
+como coordenar as negociações de crédito junto ao BIRD.
+O Escritório de Projetos do Estado, também conforme o Decreto 358/2019, terá como atribuição o acompanhamento dos percentuais de
+execução, controle prévio das liberações financeiras e a supervisão do contrato.
+Outros órgãos parceiros e co-executores serão Secretaria de Estado da Infraestrutura (SIE), Secretaria de Estado de Ciência Tecnologia e
+ Inovação (SCTI), Instituto do Meio Ambiente de Santa Catarina (IMA).
+Além desses, serão estabelecidas parcerias com prefeituras, organizações da sociedade civil e organizações sociais de produtores.
+
+MATRIZ DE RESPONSABILIDADE E ESTRUTURA OPERACIONAL:
+Devido ao limite de caracteres, o Organograma, a Matriz de responsabilidade junto ao Quadro técnico com a qualificação das equipes
+responsáveis estão contidos no Anexo VI - Matriz de Responsabilidade, Quadro técnico e Organograma.
+4.2. Execução/Executores
+Executor: Secretaria da Agricultura e Desenvolvimento Rural do Estado de Santa Catarina
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+Fax:
+CNPJ:                
+UF:
+4.3. Execução/Prazo
+Prazo de Desembolso:
+6
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - MEIO AMBIENTE
+42.000.000,00
+840.000,00
+3.360.000,00
+   S - RESILIÊNCIA E REDUÇÃO DA VULNERABILIDADE DOS RECURSOS HÍDRICOS
+8.300.000,00
+166.000,00
+664.000,00
+P - Áreas de preservação permanente implementadas com melhoria da conectividade dos
+remanescentes florestais
+2.800.000,00
+56.000,00
+224.000,00
+P - Beneficiários capacitados e assistidos para adoção de práticas que possibilitam a adaptação
+climática e redução da vulnerabilidade hídrica
+1.000.000,00
+20.000,00
+80.000,00
+P - Projetos de pesquisa realizados e tecnologias desenvolvidas em ambiente de inovação para
+enfrentamento a resiliência hídrica e promoção da adaptação climática
+300.000,00
+6.000,00
+24.000,00
+P - Base de dados de perdas agropecuárias ocasionadas por eventos climáticos extremos em
+Santa Catarina (análise de risco)
+200.000,00
+4.000,00
+16.000,00
+      P - Estudo com indicadores de acompanhamento da vulnerabilidade climática
+200.000,00
+4.000,00
+16.000,00
+      P - Propriedades rurais estruturadas para resiliência hídrica com reservação de água
+3.800.000,00
+76.000,00
+304.000,00
+S - SISTEMAS DE PRODUÇÃO DE BAIXO IMPACTO AMBIENTAL PARA ADOÇÃO DE
+TECNOLOGIAS DE TRANSIÇÃO PARA ECONOMIA VERDE
+25.800.000,00
+516.000,00
+2.064.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 23
+P - Projetos de pesquisa viabilizados e tecnologias promotoras da redução de GEE desenvolvidas
+ em ambiente de inovação
+2.000.000,00
+40.000,00
+160.000,00
+      P - Áreas com sistemas agropecuários integrados
+22.000.000,00
+440.000,00
+1.760.000,00
+P - Beneficiários capacitados e assistidos para a implantação e melhoria dos sistemas produtivos
+integrados.
+1.800.000,00
+36.000,00
+144.000,00
+S - CADASTRO AMBIENTAL RURAL (CAR) E PROGRAMA DE REGULARIZAÇÃO AMBIENTAL (
+PRA)
+7.900.000,00
+158.000,00
+632.000,00
+      P - Propriedades apoiadas para regularização ambiental com validação do CAR
+100.000,00
+2.000,00
+8.000,00
+      P - Técnicos capacitados para elaboração e implantação de PRA
+200.000,00
+4.000,00
+16.000,00
+      P - Projetos elaborados para implantação do PRA
+7.300.000,00
+146.000,00
+584.000,00
+      P - Política de Pagamento por Serviços Ambientais (PSA) elaborada
+200.000,00
+4.000,00
+16.000,00
+P - Parcerias Público-Privadas firmadas para projetos de preservação permanente através do
+FDR
+100.000,00
+2.000,00
+8.000,00
+C - EMPREENDEDORISMO E INOVAÇÃO NO CAMPO
+48.000.000,00
+960.000,00
+3.840.000,00
+   S - EMPREENDEDORISMO E GESTÃO
+14.100.000,00
+282.000,00
+1.128.000,00
+      P - Beneficiários capacitados e assistidos em empreendedorismo e inovação
+3.300.000,00
+66.000,00
+264.000,00
+      P - Diagnóstico e Planos de negócios elaborados
+240.000,00
+4.800,00
+19.200,00
+      P - Negócios apoiados financeiramente
+10.000.000,00
+200.000,00
+800.000,00
+      P - Negócios assessorados
+240.000,00
+4.800,00
+19.200,00
+      P - Estudos sobre organização e comercialização da produção entregues e aprovados
+320.000,00
+6.400,00
+25.600,00
+   S - INOVAÇÃO DE PRODUTOS E PROCESSOS
+26.900.000,00
+538.000,00
+2.152.000,00
+      P - Novas tecnologias agropecuárias geradas e difundidas
+3.000.000,00
+60.000,00
+240.000,00
+      P - Novas propriedades referência em novas tecnologias implantadas
+2.500.000,00
+50.000,00
+200.000,00
+      P - Startups do agro (Agtechs / Agrotechs) apoiadas
+2.200.000,00
+44.000,00
+176.000,00
+      P - Beneficiários capacitados em inovações tecnológicas
+1.200.000,00
+24.000,00
+96.000,00
+      P - Linhas de financiamento para adoção de novas tecnologias
+18.000.000,00
+360.000,00
+1.440.000,00
+   S - MELHORIA DO AMBIENTE DE NEGÓCIOS
+7.000.000,00
+140.000,00
+560.000,00
+      P - Rede de monitoramento de resíduos e agrotóxicos implantada e em funcionamento
+1.800.000,00
+36.000,00
+144.000,00
+      P - Propriedades com rastreabilidade de produção
+2.200.000,00
+44.000,00
+176.000,00
+      P - Propriedades com uso de boas práticas agropecuárias - BPA
+1.500.000,00
+30.000,00
+120.000,00
+      P - Propriedades que aderiram a Signos distintivos como estratégia de acesso ao mercado
+1.500.000,00
+30.000,00
+120.000,00
+C - REDUÇÃO DAS DESIGUALDADES E  E INCLUSÃO SOCIAL
+8.000.000,00
+160.000,00
+640.000,00
+   S - REDUÇÃO DE DESIGUALDADES REGIONAIS E PROMOÇÃO DA INCLUSÃO SOCIAL
+8.000.000,00
+160.000,00
+640.000,00
+P - Planos de Desenvolvimento de Terras Indígenas e de Comunidades Quilombolas elaborados/
+aprimorados
+1.200.000,00
+24.000,00
+96.000,00
+      P - Beneficiários orientados e apoiados com projetos de Segurança Alimentar e Nutricional (SAN)
+3.000.000,00
+60.000,00
+240.000,00
+      P - Projetos implantados em cadeias periféricas
+1.500.000,00
+30.000,00
+120.000,00
+P - Beneficiários capacitados em sistemas de produção, boas práticas, saneamento, educação
+ambiental, melhorias em habitação
+600.000,00
+12.000,00
+48.000,00
+      P - Beneficiários orientados em saneamento ambiental e tecnologias sociais de baixo custo
+1.500.000,00
+30.000,00
+120.000,00
+      P - Publicações de materiais que valorizem a diversidade sociocultural de Santa Catarina
+100.000,00
+2.000,00
+8.000,00
+P - Contratação de consultoria para capacitação dos técnicos em valorização de identidades
+culturais (pedagogia/antropologia) e avaliação da metodologia utilizada e alcance de resultados
+100.000,00
+2.000,00
+8.000,00
+C - INFRAESTRUTURA PARA O CAMPO E GESTÃO PÚBLICA
+52.000.000,00
+1.040.000,00
+4.160.000,00
+   S - INCLUSÃO DIGITAL E ACESSO À INFORMAÇÃO
+12.700.000,00
+254.000,00
+1.016.000,00
+P - Diagnóstico de demanda de acesso à internet realizado e Plano de Ampliação da oferta de
+sinal de telefonia/internet
+100.000,00
+2.000,00
+8.000,00
+      P - Projetos apoiados para acesso à internet e ATER Digital
+10.000.000,00
+200.000,00
+800.000,00
+      P - Parcerias firmadas em serviços de internet e ferramentas digitais
+200.000,00
+4.000,00
+16.000,00
+      P - Eventos de capacitação em inclusão digital realizados
+200.000,00
+4.000,00
+16.000,00
+      P - Beneficiários assistidos para serviços de ATER Digital
+2.200.000,00
+44.000,00
+176.000,00
+   S - APOIO À MELHORIA DA DISPONIBILIDADE DE ENERGIA ELÉTRICA
+20.000.000,00
+400.000,00
+1.600.000,00
+      P - Propriedades atendidas para adequação da demanda de energia elétrica
+10.000.000,00
+200.000,00
+800.000,00
+      P - Novas propriedades rurais com fontes alternativas de energia
+10.000.000,00
+200.000,00
+800.000,00
+   S - MELHORIA DA QUALIDADE DAS ESTRADAS RURAIS
+12.200.000,00
+244.000,00
+976.000,00
+P - Diagnóstico de pontos críticos para escoamento de produção e Plano de melhoria entregues e
+ aprovados
+100.000,00
+2.000,00
+8.000,00
+      P - Vias de escoamento da produção e deslocamento melhoradas em quilômetros (km)
+12.000.000,00
+240.000,00
+960.000,00
+      P - Capacitações em práticas de manutenção e adequação de estradas vicinais realizadas.
+100.000,00
+2.000,00
+8.000,00
+   S - GESTÃO PÚBLICA - EFICÁCIA DOS SERVIÇOS PÚBLICOS
+7.100.000,00
+142.000,00
+568.000,00
+      P - Sistema Integrado de Informações Agropecuárias (SIIA) desenvolvido e em operação
+2.000.000,00
+40.000,00
+160.000,00
+      P - Ecossistema de big data estruturado com informações sobre o agro catarinense
+200.000,00
+4.000,00
+16.000,00
+P - Sistemas de gestão dos programas e projetos públicos executados pela Secretaria de Estado
+da Agricultura (SAR) e suas vinculadas desenvolvidos e em operação
+1.000.000,00
+20.000,00
+80.000,00
+      P - Plataforma web do Observatório Agro Catarinense ampliada e consolidada
+2.000.000,00
+40.000,00
+160.000,00
+      P - Plataforma digital InfoAgro desenvolvida e em operação
+450.000,00
+9.000,00
+36.000,00
+      P - Sala de situação do Observatório Agro Catarinense implantada e em operação
+100.000,00
+2.000,00
+8.000,00
+      P - Sala de situação da defesa agropecuária implantada e em operação
+100.000,00
+2.000,00
+8.000,00
+      P - Sistema integrado de gestão desenvolvido e em operação
+160.000,00
+3.200,00
+12.800,00
+      P - Sistemas informatizados desenvolvidos e em operação
+360.000,00
+7.200,00
+28.800,00
+      P - Estrutura física de ambiente de comunicação implantada
+450.000,00
+9.000,00
+36.000,00
+P - Servidores da Secretaria capacitados em data driven para processos de gestão das
+instituições
+80.000,00
+1.600,00
+6.400,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 24
+P - Pesquisa/estudo de monitoramento e avaliação de resultados dos projetos entregues e
+aprovados
+200.000,00
+4.000,00
+16.000,00
+Total
+0,00
+3.000.000,00
+12.000.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - MEIO AMBIENTE
+1.260.000,00
+5.040.000,00
+   S - RESILIÊNCIA E REDUÇÃO DA VULNERABILIDADE DOS RECURSOS HÍDRICOS
+249.000,00
+996.000,00
+P - Áreas de preservação permanente implementadas com melhoria da conectividade dos
+remanescentes florestais
+84.000,00
+336.000,00
+P - Beneficiários capacitados e assistidos para adoção de práticas que possibilitam a adaptação
+climática e redução da vulnerabilidade hídrica
+30.000,00
+120.000,00
+P - Projetos de pesquisa realizados e tecnologias desenvolvidas em ambiente de inovação para
+enfrentamento a resiliência hídrica e promoção da adaptação climática
+9.000,00
+36.000,00
+P - Base de dados de perdas agropecuárias ocasionadas por eventos climáticos extremos em
+Santa Catarina (análise de risco)
+6.000,00
+24.000,00
+      P - Estudo com indicadores de acompanhamento da vulnerabilidade climática
+6.000,00
+24.000,00
+      P - Propriedades rurais estruturadas para resiliência hídrica com reservação de água
+114.000,00
+456.000,00
+S - SISTEMAS DE PRODUÇÃO DE BAIXO IMPACTO AMBIENTAL PARA ADOÇÃO DE
+TECNOLOGIAS DE TRANSIÇÃO PARA ECONOMIA VERDE
+774.000,00
+3.096.000,00
+P - Projetos de pesquisa viabilizados e tecnologias promotoras da redução de GEE desenvolvidas
+ em ambiente de inovação
+60.000,00
+240.000,00
+      P - Áreas com sistemas agropecuários integrados
+660.000,00
+2.640.000,00
+P - Beneficiários capacitados e assistidos para a implantação e melhoria dos sistemas produtivos
+integrados.
+54.000,00
+216.000,00
+S - CADASTRO AMBIENTAL RURAL (CAR) E PROGRAMA DE REGULARIZAÇÃO AMBIENTAL (
+PRA)
+237.000,00
+948.000,00
+      P - Propriedades apoiadas para regularização ambiental com validação do CAR
+3.000,00
+12.000,00
+      P - Técnicos capacitados para elaboração e implantação de PRA
+6.000,00
+24.000,00
+      P - Projetos elaborados para implantação do PRA
+219.000,00
+876.000,00
+      P - Política de Pagamento por Serviços Ambientais (PSA) elaborada
+6.000,00
+24.000,00
+P - Parcerias Público-Privadas firmadas para projetos de preservação permanente através do
+FDR
+3.000,00
+12.000,00
+C - EMPREENDEDORISMO E INOVAÇÃO NO CAMPO
+1.440.000,00
+5.760.000,00
+   S - EMPREENDEDORISMO E GESTÃO
+423.000,00
+1.692.000,00
+      P - Beneficiários capacitados e assistidos em empreendedorismo e inovação
+99.000,00
+396.000,00
+      P - Diagnóstico e Planos de negócios elaborados
+7.200,00
+28.800,00
+      P - Negócios apoiados financeiramente
+300.000,00
+1.200.000,00
+      P - Negócios assessorados
+7.200,00
+28.800,00
+      P - Estudos sobre organização e comercialização da produção entregues e aprovados
+9.600,00
+38.400,00
+   S - INOVAÇÃO DE PRODUTOS E PROCESSOS
+807.000,00
+3.228.000,00
+      P - Novas tecnologias agropecuárias geradas e difundidas
+90.000,00
+360.000,00
+      P - Novas propriedades referência em novas tecnologias implantadas
+75.000,00
+300.000,00
+      P - Startups do agro (Agtechs / Agrotechs) apoiadas
+66.000,00
+264.000,00
+      P - Beneficiários capacitados em inovações tecnológicas
+36.000,00
+144.000,00
+      P - Linhas de financiamento para adoção de novas tecnologias
+540.000,00
+2.160.000,00
+   S - MELHORIA DO AMBIENTE DE NEGÓCIOS
+210.000,00
+840.000,00
+      P - Rede de monitoramento de resíduos e agrotóxicos implantada e em funcionamento
+54.000,00
+216.000,00
+      P - Propriedades com rastreabilidade de produção
+66.000,00
+264.000,00
+      P - Propriedades com uso de boas práticas agropecuárias - BPA
+45.000,00
+180.000,00
+      P - Propriedades que aderiram a Signos distintivos como estratégia de acesso ao mercado
+45.000,00
+180.000,00
+C - REDUÇÃO DAS DESIGUALDADES E  E INCLUSÃO SOCIAL
+240.000,00
+960.000,00
+   S - REDUÇÃO DE DESIGUALDADES REGIONAIS E PROMOÇÃO DA INCLUSÃO SOCIAL
+240.000,00
+960.000,00
+P - Planos de Desenvolvimento de Terras Indígenas e de Comunidades Quilombolas elaborados/
+aprimorados
+36.000,00
+144.000,00
+      P - Beneficiários orientados e apoiados com projetos de Segurança Alimentar e Nutricional (SAN)
+90.000,00
+360.000,00
+      P - Projetos implantados em cadeias periféricas
+45.000,00
+180.000,00
+P - Beneficiários capacitados em sistemas de produção, boas práticas, saneamento, educação
+ambiental, melhorias em habitação
+18.000,00
+72.000,00
+      P - Beneficiários orientados em saneamento ambiental e tecnologias sociais de baixo custo
+45.000,00
+180.000,00
+      P - Publicações de materiais que valorizem a diversidade sociocultural de Santa Catarina
+3.000,00
+12.000,00
+P - Contratação de consultoria para capacitação dos técnicos em valorização de identidades
+culturais (pedagogia/antropologia) e avaliação da metodologia utilizada e alcance de resultados
+3.000,00
+12.000,00
+C - INFRAESTRUTURA PARA O CAMPO E GESTÃO PÚBLICA
+1.560.000,00
+6.240.000,00
+   S - INCLUSÃO DIGITAL E ACESSO À INFORMAÇÃO
+381.000,00
+1.524.000,00
+P - Diagnóstico de demanda de acesso à internet realizado e Plano de Ampliação da oferta de
+sinal de telefonia/internet
+3.000,00
+12.000,00
+      P - Projetos apoiados para acesso à internet e ATER Digital
+300.000,00
+1.200.000,00
+      P - Parcerias firmadas em serviços de internet e ferramentas digitais
+6.000,00
+24.000,00
+      P - Eventos de capacitação em inclusão digital realizados
+6.000,00
+24.000,00
+      P - Beneficiários assistidos para serviços de ATER Digital
+66.000,00
+264.000,00
+   S - APOIO À MELHORIA DA DISPONIBILIDADE DE ENERGIA ELÉTRICA
+600.000,00
+2.400.000,00
+      P - Propriedades atendidas para adequação da demanda de energia elétrica
+300.000,00
+1.200.000,00
+      P - Novas propriedades rurais com fontes alternativas de energia
+300.000,00
+1.200.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 25
+   S - MELHORIA DA QUALIDADE DAS ESTRADAS RURAIS
+366.000,00
+1.464.000,00
+P - Diagnóstico de pontos críticos para escoamento de produção e Plano de melhoria entregues e
+ aprovados
+3.000,00
+12.000,00
+      P - Vias de escoamento da produção e deslocamento melhoradas em quilômetros (km)
+360.000,00
+1.440.000,00
+      P - Capacitações em práticas de manutenção e adequação de estradas vicinais realizadas.
+3.000,00
+12.000,00
+   S - GESTÃO PÚBLICA - EFICÁCIA DOS SERVIÇOS PÚBLICOS
+213.000,00
+852.000,00
+      P - Sistema Integrado de Informações Agropecuárias (SIIA) desenvolvido e em operação
+60.000,00
+240.000,00
+      P - Ecossistema de big data estruturado com informações sobre o agro catarinense
+6.000,00
+24.000,00
+P - Sistemas de gestão dos programas e projetos públicos executados pela Secretaria de Estado
+da Agricultura (SAR) e suas vinculadas desenvolvidos e em operação
+30.000,00
+120.000,00
+      P - Plataforma web do Observatório Agro Catarinense ampliada e consolidada
+60.000,00
+240.000,00
+      P - Plataforma digital InfoAgro desenvolvida e em operação
+13.500,00
+54.000,00
+      P - Sala de situação do Observatório Agro Catarinense implantada e em operação
+3.000,00
+12.000,00
+      P - Sala de situação da defesa agropecuária implantada e em operação
+3.000,00
+12.000,00
+      P - Sistema integrado de gestão desenvolvido e em operação
+4.800,00
+19.200,00
+      P - Sistemas informatizados desenvolvidos e em operação
+10.800,00
+43.200,00
+      P - Estrutura física de ambiente de comunicação implantada
+13.500,00
+54.000,00
+P - Servidores da Secretaria capacitados em data driven para processos de gestão das
+instituições
+2.400,00
+9.600,00
+P - Pesquisa/estudo de monitoramento e avaliação de resultados dos projetos entregues e
+aprovados
+6.000,00
+24.000,00
+Total
+0,00
+4.500.000,00
+18.000.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - MEIO AMBIENTE
+1.260.000,00
+5.040.000,00
+   S - RESILIÊNCIA E REDUÇÃO DA VULNERABILIDADE DOS RECURSOS HÍDRICOS
+249.000,00
+996.000,00
+P - Áreas de preservação permanente implementadas com melhoria da conectividade dos
+remanescentes florestais
+84.000,00
+336.000,00
+P - Beneficiários capacitados e assistidos para adoção de práticas que possibilitam a adaptação
+climática e redução da vulnerabilidade hídrica
+30.000,00
+120.000,00
+P - Projetos de pesquisa realizados e tecnologias desenvolvidas em ambiente de inovação para
+enfrentamento a resiliência hídrica e promoção da adaptação climática
+9.000,00
+36.000,00
+P - Base de dados de perdas agropecuárias ocasionadas por eventos climáticos extremos em
+Santa Catarina (análise de risco)
+6.000,00
+24.000,00
+      P - Estudo com indicadores de acompanhamento da vulnerabilidade climática
+6.000,00
+24.000,00
+      P - Propriedades rurais estruturadas para resiliência hídrica com reservação de água
+114.000,00
+456.000,00
+S - SISTEMAS DE PRODUÇÃO DE BAIXO IMPACTO AMBIENTAL PARA ADOÇÃO DE
+TECNOLOGIAS DE TRANSIÇÃO PARA ECONOMIA VERDE
+774.000,00
+3.096.000,00
+P - Projetos de pesquisa viabilizados e tecnologias promotoras da redução de GEE desenvolvidas
+ em ambiente de inovação
+60.000,00
+240.000,00
+      P - Áreas com sistemas agropecuários integrados
+660.000,00
+2.640.000,00
+P - Beneficiários capacitados e assistidos para a implantação e melhoria dos sistemas produtivos
+integrados.
+54.000,00
+216.000,00
+S - CADASTRO AMBIENTAL RURAL (CAR) E PROGRAMA DE REGULARIZAÇÃO AMBIENTAL (
+PRA)
+237.000,00
+948.000,00
+      P - Propriedades apoiadas para regularização ambiental com validação do CAR
+3.000,00
+12.000,00
+      P - Técnicos capacitados para elaboração e implantação de PRA
+6.000,00
+24.000,00
+      P - Projetos elaborados para implantação do PRA
+219.000,00
+876.000,00
+      P - Política de Pagamento por Serviços Ambientais (PSA) elaborada
+6.000,00
+24.000,00
+P - Parcerias Público-Privadas firmadas para projetos de preservação permanente através do
+FDR
+3.000,00
+12.000,00
+C - EMPREENDEDORISMO E INOVAÇÃO NO CAMPO
+1.440.000,00
+5.760.000,00
+   S - EMPREENDEDORISMO E GESTÃO
+423.000,00
+1.692.000,00
+      P - Beneficiários capacitados e assistidos em empreendedorismo e inovação
+99.000,00
+396.000,00
+      P - Diagnóstico e Planos de negócios elaborados
+7.200,00
+28.800,00
+      P - Negócios apoiados financeiramente
+300.000,00
+1.200.000,00
+      P - Negócios assessorados
+7.200,00
+28.800,00
+      P - Estudos sobre organização e comercialização da produção entregues e aprovados
+9.600,00
+38.400,00
+   S - INOVAÇÃO DE PRODUTOS E PROCESSOS
+807.000,00
+3.228.000,00
+      P - Novas tecnologias agropecuárias geradas e difundidas
+90.000,00
+360.000,00
+      P - Novas propriedades referência em novas tecnologias implantadas
+75.000,00
+300.000,00
+      P - Startups do agro (Agtechs / Agrotechs) apoiadas
+66.000,00
+264.000,00
+      P - Beneficiários capacitados em inovações tecnológicas
+36.000,00
+144.000,00
+      P - Linhas de financiamento para adoção de novas tecnologias
+540.000,00
+2.160.000,00
+   S - MELHORIA DO AMBIENTE DE NEGÓCIOS
+210.000,00
+840.000,00
+      P - Rede de monitoramento de resíduos e agrotóxicos implantada e em funcionamento
+54.000,00
+216.000,00
+      P - Propriedades com rastreabilidade de produção
+66.000,00
+264.000,00
+      P - Propriedades com uso de boas práticas agropecuárias - BPA
+45.000,00
+180.000,00
+      P - Propriedades que aderiram a Signos distintivos como estratégia de acesso ao mercado
+45.000,00
+180.000,00
+C - REDUÇÃO DAS DESIGUALDADES E  E INCLUSÃO SOCIAL
+240.000,00
+960.000,00
+   S - REDUÇÃO DE DESIGUALDADES REGIONAIS E PROMOÇÃO DA INCLUSÃO SOCIAL
+240.000,00
+960.000,00
+P - Planos de Desenvolvimento de Terras Indígenas e de Comunidades Quilombolas elaborados/
+aprimorados
+36.000,00
+144.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 26
+      P - Beneficiários orientados e apoiados com projetos de Segurança Alimentar e Nutricional (SAN)
+90.000,00
+360.000,00
+      P - Projetos implantados em cadeias periféricas
+45.000,00
+180.000,00
+P - Beneficiários capacitados em sistemas de produção, boas práticas, saneamento, educação
+ambiental, melhorias em habitação
+18.000,00
+72.000,00
+      P - Beneficiários orientados em saneamento ambiental e tecnologias sociais de baixo custo
+45.000,00
+180.000,00
+      P - Publicações de materiais que valorizem a diversidade sociocultural de Santa Catarina
+3.000,00
+12.000,00
+P - Contratação de consultoria para capacitação dos técnicos em valorização de identidades
+culturais (pedagogia/antropologia) e avaliação da metodologia utilizada e alcance de resultados
+3.000,00
+12.000,00
+C - INFRAESTRUTURA PARA O CAMPO E GESTÃO PÚBLICA
+1.560.000,00
+6.240.000,00
+   S - INCLUSÃO DIGITAL E ACESSO À INFORMAÇÃO
+381.000,00
+1.524.000,00
+P - Diagnóstico de demanda de acesso à internet realizado e Plano de Ampliação da oferta de
+sinal de telefonia/internet
+3.000,00
+12.000,00
+      P - Projetos apoiados para acesso à internet e ATER Digital
+300.000,00
+1.200.000,00
+      P - Parcerias firmadas em serviços de internet e ferramentas digitais
+6.000,00
+24.000,00
+      P - Eventos de capacitação em inclusão digital realizados
+6.000,00
+24.000,00
+      P - Beneficiários assistidos para serviços de ATER Digital
+66.000,00
+264.000,00
+   S - APOIO À MELHORIA DA DISPONIBILIDADE DE ENERGIA ELÉTRICA
+600.000,00
+2.400.000,00
+      P - Propriedades atendidas para adequação da demanda de energia elétrica
+300.000,00
+1.200.000,00
+      P - Novas propriedades rurais com fontes alternativas de energia
+300.000,00
+1.200.000,00
+   S - MELHORIA DA QUALIDADE DAS ESTRADAS RURAIS
+366.000,00
+1.464.000,00
+P - Diagnóstico de pontos críticos para escoamento de produção e Plano de melhoria entregues e
+ aprovados
+3.000,00
+12.000,00
+      P - Vias de escoamento da produção e deslocamento melhoradas em quilômetros (km)
+360.000,00
+1.440.000,00
+      P - Capacitações em práticas de manutenção e adequação de estradas vicinais realizadas.
+3.000,00
+12.000,00
+   S - GESTÃO PÚBLICA - EFICÁCIA DOS SERVIÇOS PÚBLICOS
+213.000,00
+852.000,00
+      P - Sistema Integrado de Informações Agropecuárias (SIIA) desenvolvido e em operação
+60.000,00
+240.000,00
+      P - Ecossistema de big data estruturado com informações sobre o agro catarinense
+6.000,00
+24.000,00
+P - Sistemas de gestão dos programas e projetos públicos executados pela Secretaria de Estado
+da Agricultura (SAR) e suas vinculadas desenvolvidos e em operação
+30.000,00
+120.000,00
+      P - Plataforma web do Observatório Agro Catarinense ampliada e consolidada
+60.000,00
+240.000,00
+      P - Plataforma digital InfoAgro desenvolvida e em operação
+13.500,00
+54.000,00
+      P - Sala de situação do Observatório Agro Catarinense implantada e em operação
+3.000,00
+12.000,00
+      P - Sala de situação da defesa agropecuária implantada e em operação
+3.000,00
+12.000,00
+      P - Sistema integrado de gestão desenvolvido e em operação
+4.800,00
+19.200,00
+      P - Sistemas informatizados desenvolvidos e em operação
+10.800,00
+43.200,00
+      P - Estrutura física de ambiente de comunicação implantada
+13.500,00
+54.000,00
+P - Servidores da Secretaria capacitados em data driven para processos de gestão das
+instituições
+2.400,00
+9.600,00
+P - Pesquisa/estudo de monitoramento e avaliação de resultados dos projetos entregues e
+aprovados
+6.000,00
+24.000,00
+Total
+0,00
+4.500.000,00
+18.000.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - MEIO AMBIENTE
+1.680.000,00
+6.720.000,00
+   S - RESILIÊNCIA E REDUÇÃO DA VULNERABILIDADE DOS RECURSOS HÍDRICOS
+332.000,00
+1.328.000,00
+P - Áreas de preservação permanente implementadas com melhoria da conectividade dos
+remanescentes florestais
+112.000,00
+448.000,00
+P - Beneficiários capacitados e assistidos para adoção de práticas que possibilitam a adaptação
+climática e redução da vulnerabilidade hídrica
+40.000,00
+160.000,00
+P - Projetos de pesquisa realizados e tecnologias desenvolvidas em ambiente de inovação para
+enfrentamento a resiliência hídrica e promoção da adaptação climática
+12.000,00
+48.000,00
+P - Base de dados de perdas agropecuárias ocasionadas por eventos climáticos extremos em
+Santa Catarina (análise de risco)
+8.000,00
+32.000,00
+      P - Estudo com indicadores de acompanhamento da vulnerabilidade climática
+8.000,00
+32.000,00
+      P - Propriedades rurais estruturadas para resiliência hídrica com reservação de água
+152.000,00
+608.000,00
+S - SISTEMAS DE PRODUÇÃO DE BAIXO IMPACTO AMBIENTAL PARA ADOÇÃO DE
+TECNOLOGIAS DE TRANSIÇÃO PARA ECONOMIA VERDE
+1.032.000,00
+4.128.000,00
+P - Projetos de pesquisa viabilizados e tecnologias promotoras da redução de GEE desenvolvidas
+ em ambiente de inovação
+80.000,00
+320.000,00
+      P - Áreas com sistemas agropecuários integrados
+880.000,00
+3.520.000,00
+P - Beneficiários capacitados e assistidos para a implantação e melhoria dos sistemas produtivos
+integrados.
+72.000,00
+288.000,00
+S - CADASTRO AMBIENTAL RURAL (CAR) E PROGRAMA DE REGULARIZAÇÃO AMBIENTAL (
+PRA)
+316.000,00
+1.264.000,00
+      P - Propriedades apoiadas para regularização ambiental com validação do CAR
+4.000,00
+16.000,00
+      P - Técnicos capacitados para elaboração e implantação de PRA
+8.000,00
+32.000,00
+      P - Projetos elaborados para implantação do PRA
+292.000,00
+1.168.000,00
+      P - Política de Pagamento por Serviços Ambientais (PSA) elaborada
+8.000,00
+32.000,00
+P - Parcerias Público-Privadas firmadas para projetos de preservação permanente através do
+FDR
+4.000,00
+16.000,00
+C - EMPREENDEDORISMO E INOVAÇÃO NO CAMPO
+1.920.000,00
+7.680.000,00
+   S - EMPREENDEDORISMO E GESTÃO
+564.000,00
+2.256.000,00
+      P - Beneficiários capacitados e assistidos em empreendedorismo e inovação
+132.000,00
+528.000,00
+      P - Diagnóstico e Planos de negócios elaborados
+9.600,00
+38.400,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 27
+      P - Negócios apoiados financeiramente
+400.000,00
+1.600.000,00
+      P - Negócios assessorados
+9.600,00
+38.400,00
+      P - Estudos sobre organização e comercialização da produção entregues e aprovados
+12.800,00
+51.200,00
+   S - INOVAÇÃO DE PRODUTOS E PROCESSOS
+1.076.000,00
+4.304.000,00
+      P - Novas tecnologias agropecuárias geradas e difundidas
+120.000,00
+480.000,00
+      P - Novas propriedades referência em novas tecnologias implantadas
+100.000,00
+400.000,00
+      P - Startups do agro (Agtechs / Agrotechs) apoiadas
+88.000,00
+352.000,00
+      P - Beneficiários capacitados em inovações tecnológicas
+48.000,00
+192.000,00
+      P - Linhas de financiamento para adoção de novas tecnologias
+720.000,00
+2.880.000,00
+   S - MELHORIA DO AMBIENTE DE NEGÓCIOS
+280.000,00
+1.120.000,00
+      P - Rede de monitoramento de resíduos e agrotóxicos implantada e em funcionamento
+72.000,00
+288.000,00
+      P - Propriedades com rastreabilidade de produção
+88.000,00
+352.000,00
+      P - Propriedades com uso de boas práticas agropecuárias - BPA
+60.000,00
+240.000,00
+      P - Propriedades que aderiram a Signos distintivos como estratégia de acesso ao mercado
+60.000,00
+240.000,00
+C - REDUÇÃO DAS DESIGUALDADES E  E INCLUSÃO SOCIAL
+320.000,00
+1.280.000,00
+   S - REDUÇÃO DE DESIGUALDADES REGIONAIS E PROMOÇÃO DA INCLUSÃO SOCIAL
+320.000,00
+1.280.000,00
+P - Planos de Desenvolvimento de Terras Indígenas e de Comunidades Quilombolas elaborados/
+aprimorados
+48.000,00
+192.000,00
+      P - Beneficiários orientados e apoiados com projetos de Segurança Alimentar e Nutricional (SAN)
+120.000,00
+480.000,00
+      P - Projetos implantados em cadeias periféricas
+60.000,00
+240.000,00
+P - Beneficiários capacitados em sistemas de produção, boas práticas, saneamento, educação
+ambiental, melhorias em habitação
+24.000,00
+96.000,00
+      P - Beneficiários orientados em saneamento ambiental e tecnologias sociais de baixo custo
+60.000,00
+240.000,00
+      P - Publicações de materiais que valorizem a diversidade sociocultural de Santa Catarina
+4.000,00
+16.000,00
+P - Contratação de consultoria para capacitação dos técnicos em valorização de identidades
+culturais (pedagogia/antropologia) e avaliação da metodologia utilizada e alcance de resultados
+4.000,00
+16.000,00
+C - INFRAESTRUTURA PARA O CAMPO E GESTÃO PÚBLICA
+2.080.000,00
+8.320.000,00
+   S - INCLUSÃO DIGITAL E ACESSO À INFORMAÇÃO
+508.000,00
+2.032.000,00
+P - Diagnóstico de demanda de acesso à internet realizado e Plano de Ampliação da oferta de
+sinal de telefonia/internet
+4.000,00
+16.000,00
+      P - Projetos apoiados para acesso à internet e ATER Digital
+400.000,00
+1.600.000,00
+      P - Parcerias firmadas em serviços de internet e ferramentas digitais
+8.000,00
+32.000,00
+      P - Eventos de capacitação em inclusão digital realizados
+8.000,00
+32.000,00
+      P - Beneficiários assistidos para serviços de ATER Digital
+88.000,00
+352.000,00
+   S - APOIO À MELHORIA DA DISPONIBILIDADE DE ENERGIA ELÉTRICA
+800.000,00
+3.200.000,00
+      P - Propriedades atendidas para adequação da demanda de energia elétrica
+400.000,00
+1.600.000,00
+      P - Novas propriedades rurais com fontes alternativas de energia
+400.000,00
+1.600.000,00
+   S - MELHORIA DA QUALIDADE DAS ESTRADAS RURAIS
+488.000,00
+1.952.000,00
+P - Diagnóstico de pontos críticos para escoamento de produção e Plano de melhoria entregues e
+ aprovados
+4.000,00
+16.000,00
+      P - Vias de escoamento da produção e deslocamento melhoradas em quilômetros (km)
+480.000,00
+1.920.000,00
+      P - Capacitações em práticas de manutenção e adequação de estradas vicinais realizadas.
+4.000,00
+16.000,00
+   S - GESTÃO PÚBLICA - EFICÁCIA DOS SERVIÇOS PÚBLICOS
+284.000,00
+1.136.000,00
+      P - Sistema Integrado de Informações Agropecuárias (SIIA) desenvolvido e em operação
+80.000,00
+320.000,00
+      P - Ecossistema de big data estruturado com informações sobre o agro catarinense
+8.000,00
+32.000,00
+P - Sistemas de gestão dos programas e projetos públicos executados pela Secretaria de Estado
+da Agricultura (SAR) e suas vinculadas desenvolvidos e em operação
+40.000,00
+160.000,00
+      P - Plataforma web do Observatório Agro Catarinense ampliada e consolidada
+80.000,00
+320.000,00
+      P - Plataforma digital InfoAgro desenvolvida e em operação
+18.000,00
+72.000,00
+      P - Sala de situação do Observatório Agro Catarinense implantada e em operação
+4.000,00
+16.000,00
+      P - Sala de situação da defesa agropecuária implantada e em operação
+4.000,00
+16.000,00
+      P - Sistema integrado de gestão desenvolvido e em operação
+6.400,00
+25.600,00
+      P - Sistemas informatizados desenvolvidos e em operação
+14.400,00
+57.600,00
+      P - Estrutura física de ambiente de comunicação implantada
+18.000,00
+72.000,00
+P - Servidores da Secretaria capacitados em data driven para processos de gestão das
+instituições
+3.200,00
+12.800,00
+P - Pesquisa/estudo de monitoramento e avaliação de resultados dos projetos entregues e
+aprovados
+8.000,00
+32.000,00
+Total
+0,00
+6.000.000,00
+24.000.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - MEIO AMBIENTE
+1.680.000,00
+6.720.000,00
+   S - RESILIÊNCIA E REDUÇÃO DA VULNERABILIDADE DOS RECURSOS HÍDRICOS
+332.000,00
+1.328.000,00
+P - Áreas de preservação permanente implementadas com melhoria da conectividade dos
+remanescentes florestais
+112.000,00
+448.000,00
+P - Beneficiários capacitados e assistidos para adoção de práticas que possibilitam a adaptação
+climática e redução da vulnerabilidade hídrica
+40.000,00
+160.000,00
+P - Projetos de pesquisa realizados e tecnologias desenvolvidas em ambiente de inovação para
+enfrentamento a resiliência hídrica e promoção da adaptação climática
+12.000,00
+48.000,00
+P - Base de dados de perdas agropecuárias ocasionadas por eventos climáticos extremos em
+Santa Catarina (análise de risco)
+8.000,00
+32.000,00
+      P - Estudo com indicadores de acompanhamento da vulnerabilidade climática
+8.000,00
+32.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 28
+      P - Propriedades rurais estruturadas para resiliência hídrica com reservação de água
+152.000,00
+608.000,00
+S - SISTEMAS DE PRODUÇÃO DE BAIXO IMPACTO AMBIENTAL PARA ADOÇÃO DE
+TECNOLOGIAS DE TRANSIÇÃO PARA ECONOMIA VERDE
+1.032.000,00
+4.128.000,00
+P - Projetos de pesquisa viabilizados e tecnologias promotoras da redução de GEE desenvolvidas
+ em ambiente de inovação
+80.000,00
+320.000,00
+      P - Áreas com sistemas agropecuários integrados
+880.000,00
+3.520.000,00
+P - Beneficiários capacitados e assistidos para a implantação e melhoria dos sistemas produtivos
+integrados.
+72.000,00
+288.000,00
+S - CADASTRO AMBIENTAL RURAL (CAR) E PROGRAMA DE REGULARIZAÇÃO AMBIENTAL (
+PRA)
+316.000,00
+1.264.000,00
+      P - Propriedades apoiadas para regularização ambiental com validação do CAR
+4.000,00
+16.000,00
+      P - Técnicos capacitados para elaboração e implantação de PRA
+8.000,00
+32.000,00
+      P - Projetos elaborados para implantação do PRA
+292.000,00
+1.168.000,00
+      P - Política de Pagamento por Serviços Ambientais (PSA) elaborada
+8.000,00
+32.000,00
+P - Parcerias Público-Privadas firmadas para projetos de preservação permanente através do
+FDR
+4.000,00
+16.000,00
+C - EMPREENDEDORISMO E INOVAÇÃO NO CAMPO
+1.920.000,00
+7.680.000,00
+   S - EMPREENDEDORISMO E GESTÃO
+564.000,00
+2.256.000,00
+      P - Beneficiários capacitados e assistidos em empreendedorismo e inovação
+132.000,00
+528.000,00
+      P - Diagnóstico e Planos de negócios elaborados
+9.600,00
+38.400,00
+      P - Negócios apoiados financeiramente
+400.000,00
+1.600.000,00
+      P - Negócios assessorados
+9.600,00
+38.400,00
+      P - Estudos sobre organização e comercialização da produção entregues e aprovados
+12.800,00
+51.200,00
+   S - INOVAÇÃO DE PRODUTOS E PROCESSOS
+1.076.000,00
+4.304.000,00
+      P - Novas tecnologias agropecuárias geradas e difundidas
+120.000,00
+480.000,00
+      P - Novas propriedades referência em novas tecnologias implantadas
+100.000,00
+400.000,00
+      P - Startups do agro (Agtechs / Agrotechs) apoiadas
+88.000,00
+352.000,00
+      P - Beneficiários capacitados em inovações tecnológicas
+48.000,00
+192.000,00
+      P - Linhas de financiamento para adoção de novas tecnologias
+720.000,00
+2.880.000,00
+   S - MELHORIA DO AMBIENTE DE NEGÓCIOS
+280.000,00
+1.120.000,00
+      P - Rede de monitoramento de resíduos e agrotóxicos implantada e em funcionamento
+72.000,00
+288.000,00
+      P - Propriedades com rastreabilidade de produção
+88.000,00
+352.000,00
+      P - Propriedades com uso de boas práticas agropecuárias - BPA
+60.000,00
+240.000,00
+      P - Propriedades que aderiram a Signos distintivos como estratégia de acesso ao mercado
+60.000,00
+240.000,00
+C - REDUÇÃO DAS DESIGUALDADES E  E INCLUSÃO SOCIAL
+320.000,00
+1.280.000,00
+   S - REDUÇÃO DE DESIGUALDADES REGIONAIS E PROMOÇÃO DA INCLUSÃO SOCIAL
+320.000,00
+1.280.000,00
+P - Planos de Desenvolvimento de Terras Indígenas e de Comunidades Quilombolas elaborados/
+aprimorados
+48.000,00
+192.000,00
+      P - Beneficiários orientados e apoiados com projetos de Segurança Alimentar e Nutricional (SAN)
+120.000,00
+480.000,00
+      P - Projetos implantados em cadeias periféricas
+60.000,00
+240.000,00
+P - Beneficiários capacitados em sistemas de produção, boas práticas, saneamento, educação
+ambiental, melhorias em habitação
+24.000,00
+96.000,00
+      P - Beneficiários orientados em saneamento ambiental e tecnologias sociais de baixo custo
+60.000,00
+240.000,00
+      P - Publicações de materiais que valorizem a diversidade sociocultural de Santa Catarina
+4.000,00
+16.000,00
+P - Contratação de consultoria para capacitação dos técnicos em valorização de identidades
+culturais (pedagogia/antropologia) e avaliação da metodologia utilizada e alcance de resultados
+4.000,00
+16.000,00
+C - INFRAESTRUTURA PARA O CAMPO E GESTÃO PÚBLICA
+2.080.000,00
+8.320.000,00
+   S - INCLUSÃO DIGITAL E ACESSO À INFORMAÇÃO
+508.000,00
+2.032.000,00
+P - Diagnóstico de demanda de acesso à internet realizado e Plano de Ampliação da oferta de
+sinal de telefonia/internet
+4.000,00
+16.000,00
+      P - Projetos apoiados para acesso à internet e ATER Digital
+400.000,00
+1.600.000,00
+      P - Parcerias firmadas em serviços de internet e ferramentas digitais
+8.000,00
+32.000,00
+      P - Eventos de capacitação em inclusão digital realizados
+8.000,00
+32.000,00
+      P - Beneficiários assistidos para serviços de ATER Digital
+88.000,00
+352.000,00
+   S - APOIO À MELHORIA DA DISPONIBILIDADE DE ENERGIA ELÉTRICA
+800.000,00
+3.200.000,00
+      P - Propriedades atendidas para adequação da demanda de energia elétrica
+400.000,00
+1.600.000,00
+      P - Novas propriedades rurais com fontes alternativas de energia
+400.000,00
+1.600.000,00
+   S - MELHORIA DA QUALIDADE DAS ESTRADAS RURAIS
+488.000,00
+1.952.000,00
+P - Diagnóstico de pontos críticos para escoamento de produção e Plano de melhoria entregues e
+ aprovados
+4.000,00
+16.000,00
+      P - Vias de escoamento da produção e deslocamento melhoradas em quilômetros (km)
+480.000,00
+1.920.000,00
+      P - Capacitações em práticas de manutenção e adequação de estradas vicinais realizadas.
+4.000,00
+16.000,00
+   S - GESTÃO PÚBLICA - EFICÁCIA DOS SERVIÇOS PÚBLICOS
+284.000,00
+1.136.000,00
+      P - Sistema Integrado de Informações Agropecuárias (SIIA) desenvolvido e em operação
+80.000,00
+320.000,00
+      P - Ecossistema de big data estruturado com informações sobre o agro catarinense
+8.000,00
+32.000,00
+P - Sistemas de gestão dos programas e projetos públicos executados pela Secretaria de Estado
+da Agricultura (SAR) e suas vinculadas desenvolvidos e em operação
+40.000,00
+160.000,00
+      P - Plataforma web do Observatório Agro Catarinense ampliada e consolidada
+80.000,00
+320.000,00
+      P - Plataforma digital InfoAgro desenvolvida e em operação
+18.000,00
+72.000,00
+      P - Sala de situação do Observatório Agro Catarinense implantada e em operação
+4.000,00
+16.000,00
+      P - Sala de situação da defesa agropecuária implantada e em operação
+4.000,00
+16.000,00
+      P - Sistema integrado de gestão desenvolvido e em operação
+6.400,00
+25.600,00
+      P - Sistemas informatizados desenvolvidos e em operação
+14.400,00
+57.600,00
+      P - Estrutura física de ambiente de comunicação implantada
+18.000,00
+72.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 29
+P - Servidores da Secretaria capacitados em data driven para processos de gestão das
+instituições
+3.200,00
+12.800,00
+P - Pesquisa/estudo de monitoramento e avaliação de resultados dos projetos entregues e
+aprovados
+8.000,00
+32.000,00
+Total
+0,00
+6.000.000,00
+24.000.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 6
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - MEIO AMBIENTE
+1.680.000,00
+6.720.000,00
+8.400.000,00
+33.600.000,00
+   S - RESILIÊNCIA E REDUÇÃO DA VULNERABILIDADE DOS RECURSOS HÍDRICOS
+332.000,00
+1.328.000,00
+1.660.000,00
+6.640.000,00
+P - Áreas de preservação permanente implementadas com melhoria da conectividade dos
+remanescentes florestais
+112.000,00
+448.000,00
+560.000,00
+2.240.000,00
+P - Beneficiários capacitados e assistidos para adoção de práticas que possibilitam a adaptação
+climática e redução da vulnerabilidade hídrica
+40.000,00
+160.000,00
+200.000,00
+800.000,00
+P - Projetos de pesquisa realizados e tecnologias desenvolvidas em ambiente de inovação para
+enfrentamento a resiliência hídrica e promoção da adaptação climática
+12.000,00
+48.000,00
+60.000,00
+240.000,00
+P - Base de dados de perdas agropecuárias ocasionadas por eventos climáticos extremos em
+Santa Catarina (análise de risco)
+8.000,00
+32.000,00
+40.000,00
+160.000,00
+      P - Estudo com indicadores de acompanhamento da vulnerabilidade climática
+8.000,00
+32.000,00
+40.000,00
+160.000,00
+      P - Propriedades rurais estruturadas para resiliência hídrica com reservação de água
+152.000,00
+608.000,00
+760.000,00
+3.040.000,00
+S - SISTEMAS DE PRODUÇÃO DE BAIXO IMPACTO AMBIENTAL PARA ADOÇÃO DE
+TECNOLOGIAS DE TRANSIÇÃO PARA ECONOMIA VERDE
+1.032.000,00
+4.128.000,00
+5.160.000,00
+20.640.000,00
+P - Projetos de pesquisa viabilizados e tecnologias promotoras da redução de GEE desenvolvidas
+ em ambiente de inovação
+80.000,00
+320.000,00
+400.000,00
+1.600.000,00
+      P - Áreas com sistemas agropecuários integrados
+880.000,00
+3.520.000,00
+4.400.000,00
+17.600.000,00
+P - Beneficiários capacitados e assistidos para a implantação e melhoria dos sistemas produtivos
+integrados.
+72.000,00
+288.000,00
+360.000,00
+1.440.000,00
+S - CADASTRO AMBIENTAL RURAL (CAR) E PROGRAMA DE REGULARIZAÇÃO AMBIENTAL (
+PRA)
+316.000,00
+1.264.000,00
+1.580.000,00
+6.320.000,00
+      P - Propriedades apoiadas para regularização ambiental com validação do CAR
+4.000,00
+16.000,00
+20.000,00
+80.000,00
+      P - Técnicos capacitados para elaboração e implantação de PRA
+8.000,00
+32.000,00
+40.000,00
+160.000,00
+      P - Projetos elaborados para implantação do PRA
+292.000,00
+1.168.000,00
+1.460.000,00
+5.840.000,00
+      P - Política de Pagamento por Serviços Ambientais (PSA) elaborada
+8.000,00
+32.000,00
+40.000,00
+160.000,00
+P - Parcerias Público-Privadas firmadas para projetos de preservação permanente através do
+FDR
+4.000,00
+16.000,00
+20.000,00
+80.000,00
+C - EMPREENDEDORISMO E INOVAÇÃO NO CAMPO
+1.920.000,00
+7.680.000,00
+9.600.000,00
+38.400.000,00
+   S - EMPREENDEDORISMO E GESTÃO
+564.000,00
+2.256.000,00
+2.820.000,00
+11.280.000,00
+      P - Beneficiários capacitados e assistidos em empreendedorismo e inovação
+132.000,00
+528.000,00
+660.000,00
+2.640.000,00
+      P - Diagnóstico e Planos de negócios elaborados
+9.600,00
+38.400,00
+48.000,00
+192.000,00
+      P - Negócios apoiados financeiramente
+400.000,00
+1.600.000,00
+2.000.000,00
+8.000.000,00
+      P - Negócios assessorados
+9.600,00
+38.400,00
+48.000,00
+192.000,00
+      P - Estudos sobre organização e comercialização da produção entregues e aprovados
+12.800,00
+51.200,00
+64.000,00
+256.000,00
+   S - INOVAÇÃO DE PRODUTOS E PROCESSOS
+1.076.000,00
+4.304.000,00
+5.380.000,00
+21.520.000,00
+      P - Novas tecnologias agropecuárias geradas e difundidas
+120.000,00
+480.000,00
+600.000,00
+2.400.000,00
+      P - Novas propriedades referência em novas tecnologias implantadas
+100.000,00
+400.000,00
+500.000,00
+2.000.000,00
+      P - Startups do agro (Agtechs / Agrotechs) apoiadas
+88.000,00
+352.000,00
+440.000,00
+1.760.000,00
+      P - Beneficiários capacitados em inovações tecnológicas
+48.000,00
+192.000,00
+240.000,00
+960.000,00
+      P - Linhas de financiamento para adoção de novas tecnologias
+720.000,00
+2.880.000,00
+3.600.000,00
+14.400.000,00
+   S - MELHORIA DO AMBIENTE DE NEGÓCIOS
+280.000,00
+1.120.000,00
+1.400.000,00
+5.600.000,00
+      P - Rede de monitoramento de resíduos e agrotóxicos implantada e em funcionamento
+72.000,00
+288.000,00
+360.000,00
+1.440.000,00
+      P - Propriedades com rastreabilidade de produção
+88.000,00
+352.000,00
+440.000,00
+1.760.000,00
+      P - Propriedades com uso de boas práticas agropecuárias - BPA
+60.000,00
+240.000,00
+300.000,00
+1.200.000,00
+      P - Propriedades que aderiram a Signos distintivos como estratégia de acesso ao mercado
+60.000,00
+240.000,00
+300.000,00
+1.200.000,00
+C - REDUÇÃO DAS DESIGUALDADES E  E INCLUSÃO SOCIAL
+320.000,00
+1.280.000,00
+1.600.000,00
+6.400.000,00
+   S - REDUÇÃO DE DESIGUALDADES REGIONAIS E PROMOÇÃO DA INCLUSÃO SOCIAL
+320.000,00
+1.280.000,00
+1.600.000,00
+6.400.000,00
+P - Planos de Desenvolvimento de Terras Indígenas e de Comunidades Quilombolas elaborados/
+aprimorados
+48.000,00
+192.000,00
+240.000,00
+960.000,00
+      P - Beneficiários orientados e apoiados com projetos de Segurança Alimentar e Nutricional (SAN)
+120.000,00
+480.000,00
+600.000,00
+2.400.000,00
+      P - Projetos implantados em cadeias periféricas
+60.000,00
+240.000,00
+300.000,00
+1.200.000,00
+P - Beneficiários capacitados em sistemas de produção, boas práticas, saneamento, educação
+ambiental, melhorias em habitação
+24.000,00
+96.000,00
+120.000,00
+480.000,00
+      P - Beneficiários orientados em saneamento ambiental e tecnologias sociais de baixo custo
+60.000,00
+240.000,00
+300.000,00
+1.200.000,00
+      P - Publicações de materiais que valorizem a diversidade sociocultural de Santa Catarina
+4.000,00
+16.000,00
+20.000,00
+80.000,00
+P - Contratação de consultoria para capacitação dos técnicos em valorização de identidades
+culturais (pedagogia/antropologia) e avaliação da metodologia utilizada e alcance de resultados
+4.000,00
+16.000,00
+20.000,00
+80.000,00
+C - INFRAESTRUTURA PARA O CAMPO E GESTÃO PÚBLICA
+2.080.000,00
+8.320.000,00
+10.400.000,00
+41.600.000,00
+   S - INCLUSÃO DIGITAL E ACESSO À INFORMAÇÃO
+508.000,00
+2.032.000,00
+2.540.000,00
+10.160.000,00
+P - Diagnóstico de demanda de acesso à internet realizado e Plano de Ampliação da oferta de
+sinal de telefonia/internet
+4.000,00
+16.000,00
+20.000,00
+80.000,00
+      P - Projetos apoiados para acesso à internet e ATER Digital
+400.000,00
+1.600.000,00
+2.000.000,00
+8.000.000,00
+      P - Parcerias firmadas em serviços de internet e ferramentas digitais
+8.000,00
+32.000,00
+40.000,00
+160.000,00
+      P - Eventos de capacitação em inclusão digital realizados
+8.000,00
+32.000,00
+40.000,00
+160.000,00
+      P - Beneficiários assistidos para serviços de ATER Digital
+88.000,00
+352.000,00
+440.000,00
+1.760.000,00
+   S - APOIO À MELHORIA DA DISPONIBILIDADE DE ENERGIA ELÉTRICA
+800.000,00
+3.200.000,00
+4.000.000,00
+16.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 30
+      P - Propriedades atendidas para adequação da demanda de energia elétrica
+400.000,00
+1.600.000,00
+2.000.000,00
+8.000.000,00
+      P - Novas propriedades rurais com fontes alternativas de energia
+400.000,00
+1.600.000,00
+2.000.000,00
+8.000.000,00
+   S - MELHORIA DA QUALIDADE DAS ESTRADAS RURAIS
+488.000,00
+1.952.000,00
+2.440.000,00
+9.760.000,00
+P - Diagnóstico de pontos críticos para escoamento de produção e Plano de melhoria entregues e
+ aprovados
+4.000,00
+16.000,00
+20.000,00
+80.000,00
+      P - Vias de escoamento da produção e deslocamento melhoradas em quilômetros (km)
+480.000,00
+1.920.000,00
+2.400.000,00
+9.600.000,00
+      P - Capacitações em práticas de manutenção e adequação de estradas vicinais realizadas.
+4.000,00
+16.000,00
+20.000,00
+80.000,00
+   S - GESTÃO PÚBLICA - EFICÁCIA DOS SERVIÇOS PÚBLICOS
+284.000,00
+1.136.000,00
+1.420.000,00
+5.680.000,00
+      P - Sistema Integrado de Informações Agropecuárias (SIIA) desenvolvido e em operação
+80.000,00
+320.000,00
+400.000,00
+1.600.000,00
+      P - Ecossistema de big data estruturado com informações sobre o agro catarinense
+8.000,00
+32.000,00
+40.000,00
+160.000,00
+P - Sistemas de gestão dos programas e projetos públicos executados pela Secretaria de Estado
+da Agricultura (SAR) e suas vinculadas desenvolvidos e em operação
+40.000,00
+160.000,00
+200.000,00
+800.000,00
+      P - Plataforma web do Observatório Agro Catarinense ampliada e consolidada
+80.000,00
+320.000,00
+400.000,00
+1.600.000,00
+      P - Plataforma digital InfoAgro desenvolvida e em operação
+18.000,00
+72.000,00
+90.000,00
+360.000,00
+      P - Sala de situação do Observatório Agro Catarinense implantada e em operação
+4.000,00
+16.000,00
+20.000,00
+80.000,00
+      P - Sala de situação da defesa agropecuária implantada e em operação
+4.000,00
+16.000,00
+20.000,00
+80.000,00
+      P - Sistema integrado de gestão desenvolvido e em operação
+6.400,00
+25.600,00
+32.000,00
+128.000,00
+      P - Sistemas informatizados desenvolvidos e em operação
+14.400,00
+57.600,00
+72.000,00
+288.000,00
+      P - Estrutura física de ambiente de comunicação implantada
+18.000,00
+72.000,00
+90.000,00
+360.000,00
+P - Servidores da Secretaria capacitados em data driven para processos de gestão das
+instituições
+3.200,00
+12.800,00
+16.000,00
+64.000,00
+P - Pesquisa/estudo de monitoramento e avaliação de resultados dos projetos entregues e
+aprovados
+8.000,00
+32.000,00
+40.000,00
+160.000,00
+Total
+150.000.000,00
+6.000.000,00
+24.000.000,00
+30.000.000,00
+120.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+Para viabilização do projeto deverão ser estabelecidas algumas normatizações e documentos jurídicos:
+
+-  De autoria do executivo, será enviada à Assembleia Legislativa de Santa Catarina o projeto de Lei estadual autorizativa da operação de
+crédito.
+- De autoria do executivo, será enviada à Assembleia Legislativa de Santa Catarina a proposta de adequação da Lei 18.646 de 05 de
+junho de 2023, que dispõe sobre a estrutura organizacional básica e o modelo de gestão da Administração Pública Estadual, para
+estabelecer a Secretaria Executiva do Programa SC Rural 02. A exemplo das últimas operações com o BIRD, essa Secretaria Executiva,
+vinculada à Secretaria de Estado da Agricultura, será criada para executar toda a gestão técnica, administrativa e financeira do projeto.
+-  Acordo de Cooperação Técnica e Financeira com órgãos co-executores do Projeto, tais como Epagri, Cidasc, Secretaria de Estado da
+Infraestrutura, Secretaria de Estado da Ciência, Tecnologia e Inovação, dentre outros.
+-  Termos de Colaboração ou outro instrumento equivalente, para operacionalização das ações definidas no Projeto junto à entidades que
+não fazem parte da estrutura do poder executivo estadual, tais como prefeituras, associações, federações, cooperativas, dentre outras.
+Esses instrumentos serão celebrados no início do projeto, porém, durante a execução do projeto poderão ser verificados novos parceiros.
+
+Ainda, para a execução do projeto deverá ser elaborado e implementado o Manual Operativo do Projeto, o qual deverá normatizar toda a
+operação do projeto, incluindo o arranjo de implementação, procedimentos para aquisições, procedimentos para movimentação financeira,
+ procedimentos contábeis, marcos legais, ambientais e sociais e os procedimentos de monitoramento e controle do projeto.
+
+5.2. RISCOS/CONTRATAÇÕES
+Os processos de seleção, contratação e aquisição serão realizados em estrita conformidade com as Diretrizes do BIRD. Ressalte-se que a
+SAR e os órgãos executores possuem profissionais com experiência em licitações conforme os métodos do BIRD. O suporte de
+assistência técnica, pesquisa, desenvolvimento, inovação, será responsabilidade da Epagri, diretamente ou por meio de parcerias. Assim
+como os serviços de suporte às boas práticas e segurança dos alimentos competem à Cidasc. Ambos são órgãos ligados à estrutura da
+SAR - Secretaria de Estado da Agricultura. 
+5.3. RISCOS/DESAPROPRIAÇÕES
+Não há desapropriações no decorrer do Programa, pois não haverá obras de utilidade pública sobre propriedade privada, somente
+financiamento público para beneficiários.
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+O Projeto está classificado na Categoria B, pois os possíveis impactos ambientais são limitados em abrangência, localizados e
+temporários e passíveis de mitigação pela adoção de medidas já existentes, ou que podem ser definidas. Todas as atividades passíveis de
+financiamento pelo projeto serão classificadas conforme a categoria de impacto ambiental. De acordo com o código ambiental, as
+atividades classificadas poderão necessitar de autorização ou de licença ambiental, cujos trâmites são de domínio das executoras do
+projeto. O plano de gestão ambiental do projeto deverá contemplar os possíveis impactos e medidas passíveis de mitigação.
+5.5. RISCOS/IMPACTO SOCIAL
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:25
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61091
+Página: 31
+A implementação do Projeto contará com um Plano de Gestão de Riscos Socioambientais, que incluirá questões relacionadas à população
+indígena, quilombolas e outros povos tradicionais, conforme diretrizes do BIRD, e dos governos estadual e federal. Também incluirá neste
+Plano os temas de promoção da equidade de gênero e de oportunidades para a juventude. Em linha com a Política de Salvaguardas
+Ambientais e Sociais do BIRD e a questão constitucional de proteção aos direitos dos Povos Indígenas, este projeto, assim como os
+anteriores apoiados pelo Banco em SC, adotará uma metodologia específica de acordo com as características  desses povos e
+comunidades. De acordo com esta Política, qualquer ação em territórios indígenas deverá obrigatoriamente ser precedida por um
+processo de consulta participativo para assegurar o consentimento livre, prévio e informado dos povos indígenas, quilombolas afetados e
+dos órgãos federais responsáveis. O Estado é parte componente dos conselhos estaduais dos povos indígenas e dos quilombolas. 
+A equipe do Projeto contará com pessoas com competências específicas relacionadas com as temáticas de gênero, juventude, raça e
+etnia que orientarão a abordagem metodológica com as comunidades tradicionais. Essa abordagem incluirá: i) um plano de capacitação
+das equipes de ATER para trabalhar em comunidades indígenas e outras comunidades tradicionais;  ii) a produção de material de suporte,
+com metodologias e linguagem apropriadas de cunho técnico e para a realização das capacitações; iii) uma revisão dos planos
+participativos de desenvolvimento das terras indígenas e  elaboração de plano para as comunidades tradicionais; e iv) realização de
+encontros e intercâmbios entre povos indígenas, quilombolas e outras comunidades tradicionais em temáticas de interesse comum, com
+foco na valorização das identidades culturais dessas comunidades.
+5.6. RISCOS/REASSENTAMENTOS
+Não haverá reassentamentos rurais no decorrer do Programa, pois os projetos serão realizados somente em propriedades rurais que
+possuem titularidade ou instrumento jurídico que garanta a posse do imóvel.
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 

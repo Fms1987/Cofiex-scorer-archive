@@ -1,0 +1,1898 @@
+# Carta-Consulta CC_61075 — Versao 3 (SIGS)
+
+
+CARTA CONSULTA
+
+Programa de Recuperação Ambiental de Belo Horizonte  2ª Etapa
+
+Nº Carta Consulta: 61075
+Processo: 03101.102986/2023-14
+Mutuário: Município de Belo Horizonte - MG
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  11 de Janeiro de 2024
+
+Fontes Internas:
+Contrapartida Financeira: US$ 51.000.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 204.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+O Programa de Recuperação Ambiental de Belo Horizonte ? DRENURBS foi criado pelo Município de Belo Horizonte com o intuito de
+implementar ações para o melhoramento ambiental, priorizando a recuperação e conservação de cerca de 200 km de cursos d?água
+ainda em leito natural, distribuídos em 47 bacias hidrográficas.
+
+Com recursos adquiridos junto ao BID, a 1ª Etapa do Programa proporcionou intervenções em 5 bacias/sub-bacias do Município: 1º de
+Maio, Nossa Sra. da Piedade, Baleares, Engenho Nogueira e Bonsucesso. As intervenções abrangeram soluções de esgotamento
+sanitário, drenagem urbana, tratamento de fundo de vale, implantação de parques lineares e áreas de uso social. O Programa
+Suplementar à 1ª Etapa complementou as intervenções na Bacia do Bonsucesso.
+
+Visando dar continuidade às ações já implementadas, propõe-se a execução do Programa DRENURBS - 2ª Etapa, prevendo intervenções
+estruturantes de saneamento socioambiental integrado em bacias hidrográficas do Município que possuem vulnerabilidade ambiental,
+sanitária e social, bem como ações para deixar o município mais resiliente através da implementação de ferramentas de planejamento,
+monitoramento e gestão, visando a mitigação antecipada do risco de inundações e do incentivo para adoção de soluções de drenagem
+sustentáveis.
+
+O processo de urbanização acelerado e nem sempre planejado da cidade de BH, acompanhado de uma taxa crescente de
+impermeabilização do solo, vem pressionando de forma importante os cursos d?água e as infraestruturas de drenagem. Assim, são
+percebidos reflexos na intensificação dos alagamentos e inundações urbanas, sendo esta a nova realidade que se apresenta como
+problemática prioritária.
+
+O Programa Drenurbs - 2ª Etapa propõe intervenções na bacia hidrográfica do Ribeirão Isidoro, mais especificamente nas sub-bacias dos
+córregos Macacos, Terra Vermelha, Embira, Várzea da Palma, Fazenda Velha, Capão, Joaquim Pereira e Brejo do Quaresma. Importante
+também a inclusão da sub-bacia do Córrego Olhos d?Água, tendo em vista tratar-se de afluente direto à Lagoa da Pampulha, com
+características compatíveis à aplicação das diretrizes do Programa Drenurbs, bem como a complementação de intervenções de
+urbanização e saneamento na Ocupação Dandara. Por fim, contemplou-se a bacia do Córrego Bonsucesso com a proposta de
+consolidação do Parque Ciliar, de forma a assegurar a sustentabilidade dos investimentos realizados por meio da 1ª Etapa e fase
+Suplementar do Programa.
+
+As intervenções propostas acima estão ilustradas no Anexo 01 - Proposta de Intervenções do Programa DRENURBS 2ª Etapa.
+
+O Sistema de Monitoramento e Alerta existente, que corresponde à rede telemétrica implantada no Município em 2011 com recursos do
+Programa DRENURBS, apesar de atenderem aos objetivos iniciais, necessitam ser aprimorados. Assim, será possível à Administração
+Municipal realizar previsões meteorológicas mais confiáveis e emitir alertas eficientes e eficazes, além de garantir às áreas técnicas,
+operacionais e de planejamento, melhores condições para gestão, otimização e ampliação das redes de macro e micro drenagem da
+capital. Tais ações refletirão no aumento da capacidade de resposta dos sistemas de drenagem a esses eventos e na melhoria da
+interface com a população hoje exposta ao risco.
+
+Assim, o Município de Belo Horizonte espera enfrentar, com eficiência e eficácia, desafios urbanos relevantes, destacando:
+
+1.Regiões com assentamentos com grandes carências do ponto de vista sanitário e ambiental, prioritárias segundo o Plano Municipal de
+Saneamento;
+
+2.Existência de áreas com altíssimo grau de precariedade social e urbanística, sujeitas a risco relevante de inundações;
+
+3.Existência de ocupações significativas das calhas dos córregos;
+
+4.Existência de lançamentos de esgotos nos cursos d?água, cuja solução depende de intervenções de urbanização e relocalização de
+famílias;
+
+5.Risco relevante de reocupações ao longo dos vales;
+
+6.Inexistência de áreas de lazer e equipamentos de uso social;
+
+7.Existência de estruturas hidráulicas insuficientes, implicando no mau desempenho do sistema de macrodrenagem;
+
+8.Necessidade urgente de aperfeiçoamento e atualização do Sistema Integrado de Gerenciamento de Drenagem e Alerta de Inundações
+de Belo Horizonte; e
+
+9.Necessidade de tornar a cidade mais inclusiva e mais resiliente às mudanças climáticas, através da implantação de medidas estruturais
+como drenagem, urbanização e adoção de soluções baseadas na natureza, mas também de ferramentas de planejamento e gestão, e a
+utilização dos conceitos inovadores de Smart Cities, de forma a subsidiar a atuação das unidades de defesa e proteção e a proposição de
+projetos estruturantes para a cidade, com dados, informações e modelos que representem a dinâmica hidrológica e hidráulica local.
+
+O Anexo 02 - Diagnóstico do Programa DRENURBS - 2ª Etapa apresenta o diagnóstico detalhado dos problemas a serem enfrentados em
+cada uma das sub-bacias elencadas pelo Programa DRENURBS - 2ª Etapa.
+
+(cid:10)
+
+
+Página: 3
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+O resultado esperado pelo Programa é a melhoria das condições ambientais e de salubridade, além de uma maior resiliência às
+mudanças climáticas através da otimização dos sistemas de macrodrenagem, com a consequente mitigação dos riscos de inundação e a
+qualificação do espaço urbano, inclusive por meio da ampliação da capacidade de armazenamento das vazões excedentes. Além disso,
+espera-se a universalização dos serviços de saneamento, requalificação de áreas de grande vulnerabilidade ambiental e social, gerando
+uma significativa melhoria nas condições de habitabilidade e na qualidade de vida da população. Por fim, espera-se o fortalecimento
+institucional da Administração com a modernização do sistema de monitoramento hidrológico e alerta de inundações. Neste contexto, o
+Programa incluirá medidas transversais para a promoção da inovação tecnológica, inclusão de gênero e de capacitação das comunidades
+beneficiadas.
+
+De uma forma mais detalhada, os resultados esperados, relacionados aos desafios enumerados anteriormente de 1 a 9, incluem:
+
+- Intervenções de tratamento de fundo de vale, com adoção de calhas e leitos fluviais renaturalizados e vegetados (soluções baseadas na
+natureza), que aumentem a permeabilidade do solo e promovam a revitalização e requalificação ambiental dos cursos d?água (desafio 7);
+
+- Implantação de bacias de detenção e reservatórios de controle de cheias, com a consequente mitigação dos riscos de inundações (
+desafio 7);
+
+- Implantação de parques lineares / ciliares, com a consequente proteção de áreas de preservação permanente ao longo dos fundos de
+vale e das planícies de inundação (desafios 3 e 5);
+
+- Implantação de espaços livres de uso público, inclusivos, com adoção de soluções sustentáveis baseadas na natureza (desafio 6);
+
+- Melhoria das condições habitacionais dos moradores de ocupações irregulares e áreas sujeitas a riscos de inundação (desafios 1, 2, 3 e
+4);
+
+- Ampliação dos serviços de saneamento básico para atendimento à população (abastecimento de água, esgotamento sanitário, drenagem
+pluvial e coleta de resíduos sólidos) (desafios 1, 2, 3 e 4);
+
+- Provisão de infraestrutura inovadora e sustentável de saneamento e energia, nas áreas consolidáveis, visando evitar a expansão
+territorial para áreas não consolidáveis (desafios 1, 2, 3 e 4);
+
+- Fortalecimento da capacidade institucional do Município no monitoramento hidrológico e na emissão de alertas de chuvas para fins de
+segurança da população (desafios 8 e 9).
+
+O Anexo 03 - Sustentabilidade traz um detalhamento das soluções de mitigação e/ou neutralização dos riscos e as respectivas soluções
+para garantir a sustentabilidade das melhorias sanitárias e ambientais previstas pelo Programa DRENURBS - 2ª Etapa.
+
+Apesar de não se tratar de um problema, a Administração Municipal vem buscando adotar inovações tecnológicas voltadas à temática
+eficiência energética. Nesse sentido, cabe destacar que o Programa viabilizará a implantação de sistemas de geração de energia
+renovável para consumo local nos conjuntos habitacionais a serem construídos para abrigar parte das famílias a serem relocalizadas, bem
+como, sempre que possível, nos parques lineares/ciliares previstos.
+
+O Programa tem como objetivo central a melhoria da qualidade de vida das populações moradoras e/ou trabalhadoras nos territórios a
+serem contemplados com as intervenções descritas. A execução destas intervenções e a consequente qualificação da prestação dos
+serviços públicos, notadamente de manejo de águas pluviais, esgotamento sanitário e coleta de resíduos sólidos, trará impactos positivos
+relevantes nas condições ambientais e na saúde destas comunidades, com a solução dos problemas decorrentes da insalubridade atual
+dos territórios a serem beneficiados. As sub-bacias eleitas abrigam populações com alto grau de vulnerabilidade social e se configuram
+como territórios de precariedade sanitária e ambiental.
+
+Um dos pressupostos do Programa corresponde à implementação de Projetos Técnicos de Trabalho Social - PTTS, os quais incluem em
+seu escopo, além do necessário apoio e acompanhamento social às populações afetadas, ações voltadas à geração de emprego e renda
+e educação sanitária e ambiental. A Administração Municipal vem incrementando programas de modernização administrativa e de gestão,
+inclusive com o objetivo de simplificar processos, agilizar acesso a serviços e de reduzir a burocracia para o estabelecimento de atividades
+empresariais, notadamente aquelas de pequeno porte. Apesar de o Programa não incluir ações especificamente voltadas para esse tema,
+entendemos que a valorização do espaço urbano decorrente das intervenções previstas, permitirá a criação de um ambiente favorável ao
+estabelecimento de empreendimentos privados e de pequenos negócios.
+
+A decisão pela valorização das ações dos PTTS vai ao encontro da necessidade de implementação de mecanismos de efetiva
+participação popular, inclusive no sentido de incorporar aos projetos, por exemplo dos parques e das unidades habitacionais, propostas
+que privilegiem a inclusão das visões das minorias sociais, tanto do ponto de vista das soluções de engenharia como dos arranjos de
+organização possíveis, os quais deverão ser acolhedores e inclusivos. Uma experiência exitosa da 1ª etapa do Programa DRENURBS, e
+que será replicada na 2ª etapa, corresponde à criação das ?Comissões DRENURBS? constituídas por representantes das comunidades
+locais. Estas Comissões acompanharão a implementação das ações do Programa, inclusive na perspectiva de participarem da futura
+gestão dos parques.
+
+(cid:10)
+
+
+Página: 4
+
+Do ponto de vista das políticas de gênero, cabe destacar o Projeto Mulheres na Obra, recentemente criado pela Administração Municipal,
+que tem como principal objetivo garantir para mulheres pelo menos 10% das vagas nos canteiros das obras contratadas pelo município.
+Inédita entre as capitais, a iniciativa visa também empoderar economicamente mulheres, em especial as que moram em áreas de risco, e
+dar a elas capacitação profissional para que possam buscar espaço no mercado de trabalho no setor privado. Este Programa tem grande
+importância para a geração de renda, o fortalecimento da economia local e a quebra de estereótipos no setor da construção civil.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+ORIENTAÇÕES ESTRATÉGICAS:
+
+- Plano Plurianual (PPAG) 2022-2025
+
+O Programa de Recuperação Ambiental de Belo Horizonte ? DRENURBS está alinhado com dois dos projetos estabelecidos pelo PPAG
+2022-2025, sendo eles:
+
+1.Projeto Estratégico e Transformador: Gestão de Águas Urbanas
+
+Este projeto consta no PPAG, no Programa de Saneamento e Tratamento de Fundo de Vale (066), Ação: Saneamento Integrado,
+Drenagem e Tratamento de Fundos de Vale (1203) e sub ação: Implantação do Programa DRENURBS (8) e Implantação do Programa
+DRENURBS - Reassentamentos e Indenizações (9), na revisão 2022/2025 - página 22/1372.
+
+https://prefeitura.pbh.gov.br/transparencia/contas-publicas/plano-plurianual-ppag/ppag-2022-2025
+
+2.Projeto Estratégico e Transformador: Regularização Fundiária e Urbanização em Áreas de Interesse Social (DANDARA)
+
+Este projeto consta no PPAG, no nome Programa de Intervenção em Assentamentos de Interesse Social (225), Ação: Urbanização e
+Regularização em Assentamentos de Interesse Social (1231), na revisão 2022/2025 - página 28/1372.
+
+https://prefeitura.pbh.gov.br/sites/default/files/estrutura-de-governo/planejamento/SUPLOR/Diretoria%20Central%20de%20Planejamento/
+PPAG%202022-2025/Livro%20completo%20PPAG%202023-2025%20V3.pdf
+
+- Novo Plano Diretor de Belo Horizonte (Lei N. 11.181/2019)
+
+As ações e intervenções propostas pelo projeto encontram forte aderência com as diretrizes e regras previstas pelo Novo Plano Diretor de
+Belo Horizonte, Lei 11.181/2019.
+
+O Novo Plano Diretor adotou políticas e instrumentos progressistas e inovadores para gerenciar o desenvolvimento urbano sustentável,
+incluindo o uso significativo de instrumentos especiais de zoneamento para áreas de interesse social e sensibilidade ambiental.
+
+O texto da Lei 11.181/2019 pode ser acessado através do link: https://prefeitura.pbh.gov.br/sites/default/files/estrutura-de-governo/meio-
+ambiente/lei11181-atual.pdf.
+
+O Programa proposto tem aderência ainda com uma gama de políticas, planos e projetos setoriais da cidade de Belo Horizonte, entre os
+quais se destacam:
+
+&#9679;Plano Diretor de Drenagem,
+
+&#9679;Plano Municipal de Saneamento (https://prefeitura.pbh.gov.br/obras-e-infraestrutura/informacoes/publicacoes/plano-de-
+saneamento ),
+
+&#9679;Política Municipal de Habitação e,
+
+&#9679;Programa de Recuperação Ambiental de Belo Horizonte ? DRENURBS (1ª Etapa e Suplementar à 1ª Etapa).
+
+O Anexo 04 - Prioridades PMS - Programa DRENURBS 2ª Etapa, traz a priorização das Bacias contempladas pelo Programa DRENURBS
+- 2ª Etapa, de acordo com o Plano Municipal de Saneamento - PMS.
+
+- CONTRAPARTIDA MUNICIPAL:
+
+A origem da contrapartida de 20% do total do investimento está em conformidade com o disposto na Resolução COFIEX nº 3, de 29 de
+maio de 2019.
+
+- TAXA DE CÂMBIO:
+
+A Prefeitura Municipal de Belo Horizonte apresenta Capacidade de Pagamento - CAPAG B, favorável à contratação do empréstimo.
+
+A taxa de câmbio considerada foi de  R$ 5,00 por U$ 1,00, em 24/10/2023, conforme site do Banco Central (https://www.bcb.gov.br/
+conversao).
+
+(cid:10)
+
+
+Página: 5
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa de Recuperação Ambiental de Belo Horizonte  2ª Etapa
+
+
+### 2.2. Título Abreviado
+
+
+Programa DRENURBS 2ª Etapa
+
+
+### 2.3. Mutuário
+
+
+Município de Belo Horizonte - MG
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+- OBJETIVO GERAL:
+
+Promover a melhoria da qualidade de vida da população, por meio da universalização dos serviços de saneamento, da recuperação e
+preservação dos recursos hídricos, da mitigação dos riscos de inundação e do aperfeiçoamento dos instrumentos de gestão.
+
+- OBJETIVOS ESPECÍFICOS:
+
+1.Recuperação e/ou preservação dos cursos d?água, através de intervenções estruturais que contribuam para a sua despoluição e
+mitigação dos riscos de inundações;
+
+2.Melhoria das condições sanitárias e de habitação, notadamente das populações mais vulneráveis, com enfoque de gênero e diversidade
+, nas sub-bacias objeto de intervenção do Programa; e
+
+3.Melhoria da capacidade de gestão do município por meio do fortalecimento institucional, do aperfeiçoamento dos instrumentos de gestão
+do risco de inundações, conferindo maior resiliência ao espaço urbano e maior segurança para a população.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Descrição
+ISA - Índice de Salubridade Ambiental
+
+ICE - Indicador de Atendimento por Coleta de
+Esgoto
+
+IIE - Indicador de Atendimento por Interceptação
+de Esgoto
+
+ITE - Índice de Tratamento de Esgotos
+
+Redução da População Inserida em Manchas de
+Inundação
+Número de famílias relocalizadas
+Extensão de fundo de vale tratado
+Extensão de parques lineares / ciliares
+implantados
+Projeto de Trabalho Técnico Social - PTTS por
+sub-bacia
+Porcentagem de mulheres empregadas em
+obras
+Número de estações fornecendo dados para o
+Sistema de Monitoramento Hidrológico
+
+
+### 2.7. Projeto/Componentes
+
+
+Índice
+
+Índice
+
+Fórmula de Cálculo Unidade de Medida
+ISA = [Iab] x 0,05 + [
+Ies] x 0,35 + [Irs] x 0,
+20 + [Idr] x 0,40 (Iab:
+Índice de
+Abastecimento de
+Água;  Ies: Índice de
+Esgotamento
+Sanitário;  Irs: Índice
+de Resíduos Sólidos;
+Idr: Índice de
+Drenagem Urbana)
+Ice = Pac / Pt; Pac:
+População, da área
+considerada, atendida
+com coleta de
+esgotos;  Pt:
+População total da
+área considerada
+IIe = Pai / Pt Pai:
+População, da área
+considerada, atendida
+com interceptação de
+esgotos; Pt:
+População total da
+área considerada
+Ite = Pat / Pt; Pat:
+População, da área
+considerada, atendida
+com tratamento de
+esgotos;  Pt:
+População total da
+área considerada
+Contagem
+
+Índice
+
+Índice
+
+Índice
+
+Contagem
+Contagem
+Contagem
+
+Famílias
+km
+km
+
+Contagem
+
+unidade
+
+Contagem
+
+%
+
+
+Página: 6
+
+Meta
+0,95
+
+Linha de Base
+0,79
+
+0,90
+
+0,99
+
+0,79
+
+0,99
+
+0,72
+
+0,99
+
+3.090,00
+
+0,00
+
+0,00
+0,00
+0,00
+
+0,00
+
+3,00
+
+1.500,00
+9,00
+6,00
+
+1,00
+
+10,00
+
+Contagem
+
+Estações
+
+42,00
+
+118,00
+
+Componentes
+C - SANEAMENTO AMBIENTAL INTEGRADO
+S - SOLUÇÕES ESTRUTURANTES EM BACIAS HIDROGRÁFICAS DO MUNICÍPIO DE BELO HORIZONTE
+P - Projetos e obras de tratamento de fundo de vale, incluindo implantação de sistemas de esgotamento sanitário
+, implantação de Parques Lineares e/ou Ciliares  Estruturação de Territórios e Urbanização de Assentamentos
+Precários
+P - Desapropriações, Indenizações e/ou Reassentamentos
+C - CIDADE MAIS RESILIENTE
+S - S2 - MODERNIZAÇÃO DO SISTEMA DE MONITORAMENTO HIDROLÓGICO E ALERTA CONTRA
+INUNDAÇÕES
+P - Dados Monitorados
+P - Sistema de Previsão de Inundações
+P - Cidade Adaptada
+S - CONSULTORIAS E AUDITORIA DO PROGRAMA
+P - Estudos, Consultorias e Auditoria do Programa
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Valor(US$)
+240.000.000,00
+240.000.000,00
+148.200.000,00
+
+91.800.000,00
+15.000.000,00
+10.000.000,00
+
+3.000.000,00
+5.000.000,00
+2.000.000,00
+5.000.000,00
+5.000.000,00
+255.000.000,00
+
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+
+Página: 7
+
+C - SANEAMENTO AMBIENTAL INTEGRADO
+O Componente 1 busca a universalização dos serviços de saneamento integrado nas bacias contempladas, através de
+intervenções que gerem melhorias ambientais e na qualidade de vida da população beneficiada. Os produtos deste Componente
+são os meios de alcançar os Objetivos Específicos (1), (2) e (3), descritos anteriormente.
+
+S - SOLUÇÕES ESTRUTURANTES EM BACIAS HIDROGRÁFICAS DO MUNICÍPIO DE BELO HORIZONTE
+O Município possui grandes desafios a serem enfrentados pela carência de investimentos em serviços de saneamento,
+necessidade de intervenções de tratamento de fundos de vale e condições impróprias de assentamentos humanos, resultando em
+uma demanda por melhorias habitacionais. Investir em intervenções estruturantes contribui, não apenas para a recuperação de
+áreas de preservação permanente e para a melhoria da qualidade de vida da população, como também para a recuperação
+ambiental.
+
+P - Projetos e obras de tratamento de fundo de vale, incluindo implantação de sistemas de esgotamento sanitário,
+implantação de Parques Lineares e/ou Ciliares  Estruturação de Territórios e Urbanização de Assentamentos Precários
+Este produto consiste na elaboração de projetos e execução de obras que tenham por escopo: urbanização, intervenções em
+áreas de preservação permanente, recuperação e proteção de nascentes, ações de desassoreamento e estabilização de calhas de
+cursos d?água, implantação de reservatórios de amortecimento de cheias, implantação de parque linear e/ou ciliar, implantação de
+serviços de saneamento básico (drenagem pluvial e esgotamento sanitário) e regularização fundiária.
+
+P - Desapropriações, Indenizações e/ou Reassentamentos
+Este produto abrange a remoção de construções irregulares, com possíveis ações de reassentamento, indenizações e
+desapropriações para implantação das obras de infraestrutura previstas.
+
+C - CIDADE MAIS RESILIENTE
+O Componente 2 busca a incorporação do conhecimento, otimização e ampliação da abrangência do Sistema de Monitoramento e
+de Alerta contra inundações existente e a elaboração de planos de adaptação para a cidade. Os produtos deste Componente
+correspondem aos instrumentos para se alcançar os objetivos propostos.
+
+S - S2 - MODERNIZAÇÃO DO SISTEMA DE MONITORAMENTO HIDROLÓGICO E ALERTA CONTRA INUNDAÇÕES
+Modernização do Sistema de Monitoramento Hidrológico e Alerta contra Inundações
+
+P - Dados Monitorados
+Este produto abrange a modernização do Sistema de Monitoramento Hidrológico com o aumento da disponibilidade de dados
+monitorados, através do adensamento do número de sensores hidrometeorológicos implantados no Município e da instalação de
+câmeras voltadas para os eixos principais de drenagem.
+
+P - Sistema de Previsão de Inundações
+Este produto abrange a contratação de consultoria para a sistematização dos dados hidrometeorológicos e proposição de Sistema
+Computacional de Previsão de Inundações, contendo:
+&#9679;Incorporação das informações de drenagem com as de risco e alerta, correlacionando-as, de forma a subsidiar as ações
+de planejamento e de resposta às inundações;
+&#9679;Aplicação dos recursos de modelagem meteorológica, hidrológica e hidráulica para fins de aperfeiçoamento das ações de
+prevenção, proteção e defesa;
+&#9679;Aplicação dos recursos de modelagem hidrológica e hidráulica para fins de aperfeiçoamento das ações de gestão de
+drenagem municipal; e
+&#9679;Integração e adequado tratamento das fontes de informação provenientes de monitoramento pluviométrico, fluviométrico,
+climatológico
+
+P - Cidade Adaptada
+Este produto abrange a contratação de consultoria para o estabelecimento de programa de incentivo à adoção de Soluções
+Baseadas na Natureza.
+
+S - CONSULTORIAS E AUDITORIA DO PROGRAMA
+Consultorias e Auditoria do Programa
+
+P - Estudos, Consultorias e Auditoria do Programa
+Este produto abrange a contratação de serviços de consultoria especializada para apoio à Unidade Executora do Programa - UEP,
+além da contratação de serviços de auditoria externa do Programa.
+
+
+Página: 8
+
+Categoria de Gasto
+
+Obras
+P- Projetos e obras de tratamento de fundo de
+vale, incluindo implantação de sistemas de
+esgotamento sanitário, implantação de Parques
+Lineares e/ou Ciliares  Estruturação de Territórios
+e Urbanização de Assentamentos Precários
+P- Desapropriações, Indenizações e/ou
+Reassentamentos
+Bens
+P- Dados Monitorados
+Consultoria
+P- Sistema de Previsão de Inundações
+P- Cidade Adaptada
+P- Estudos, Consultorias e Auditoria do Programa
+Total Geral
+
+Unidade de medida
+-
+km²
+
+Meta
+
+-
+100,00
+
+Valor
+
+% Financeiro
+
+240.000.000,00
+148.200.000,00
+
+94,12
+58,12
+
+Famílias
+
+1.500,00
+
+91.800.000,00
+
+-
+unidade
+-
+unidade
+unidade
+unidade
+-
+
+-
+1,00
+-
+1,00
+1,00
+1,00
+-
+
+3.000.000,00
+3.000.000,00
+12.000.000,00
+5.000.000,00
+2.000.000,00
+5.000.000,00
+255.000.000,00
+
+36,00
+
+1,18
+1,18
+4,71
+1,96
+0,78
+1,96
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+O Programa de Recuperação Ambiental de Belo Horizonte - DRENURBS, em sua 1ª etapa e fase suplementar, proporcionou intervenções
+em 05 bacias/sub-bacias do Município de Belo Horizonte.
+
+As ações do Programa Drenurbs e seu sucesso na revitalização ambiental dos cursos d?água consolidaram diretrizes no adequado
+manejo das bacias hidrográficas, através do tratamento integrado dos problemas sanitários e ambientais no nível da bacia hidrográfica;
+não transferência de prejuízos para jusante; limitação à ampliação da impermeabilização do solo; inserção dos cursos d?água na
+paisagem urbana, com a adoção de técnicas menos intervencionistas e implantação de Parques Lineares; adoção de técnicas alternativas
+de drenagem; opção pela estocagem de águas; e Inclusão das comunidades no processo. Estas diretrizes se consolidaram em premissas
+para as intervenções dos córregos do Município que ainda preservam características naturais.
+
+A experiência do programa DRENURBS foi primordial, ainda, para que o Município de Belo Horizonte consolidasse, ao longo dos anos,
+uma Política Municipal de Gestão de Águas Urbanas consistente. Esta Política vem norteando a atuação da Administração através da
+inclusão e valorização de instrumentos efetivos de planejamento, definição de diretrizes e de prioridades de execução de obras
+estruturantes, ações de sustentabilidade, de prevenção ao risco, de contingências, além de mecanismos de controle social e participação
+popular.
+
+O Programa Drenurbs foi concluído com sucesso, com o atingimento de suas metas, além do investimento da totalidade dos recursos do
+empréstimo contratado junto ao BID, tendo o Município honrado com a necessária contrapartida.
+
+Os anexos listados a seguir, trazem uma síntese das intervenções realizadas, dos resultados alcançados e das lições aprendidas durante
+a execução do Programa.
+
+&#9679;Anexo 21: Relatório de Avaliação Final do Programa DRENURBS - 1ª Etapa e fase Suplementar_parte1
+
+&#9679;Anexo 22: Relatório de Avaliação Final do Programa DRENURBS - 1ª Etapa e fase Suplementar_parte2
+
+&#9679;Anexo 23: Nota Técnica - Indicadores de Impacto e Resultados do Programa DRENURBS - 1ª Etapa e fase Suplementar
+
+&#9679;Anexo 24: Apresentação do Seminário de Encerramento do Programa DRENURBS_parte1
+
+&#9679;Anexo 25: Apresentação do Seminário de Encerramento do Programa DRENURBS_parte2
+
+&#9679;Anexo 26: Apresentação do Seminário de Encerramento do Programa DRENURBS - Estudos de Percepção e Mobilização
+
+&#9679;Anexo 27: Apresentação do Seminário de Encerramento do Programa DRENURBS - PTTS
+
+Diante da experiência positiva que se tornou o Programa DRENURBS, propõe-se a continuidade das ações, visando também a
+sustentabilidade dos resultados alcançados na 1ª etapa e fase suplementar, através de intervenções em 10 bacias/sub-bacias do
+Município: Córrego dos Macacos, Terra Vermelha, Embira, Várzea da Palma, Fazenda Velha, Capão, Joaquim Pereira, Brejo do
+Quaresma, Olhos d?Água e Bonsucesso.
+
+Para este conjunto de sub-bacias pré-selecionadas, a tabela a seguir apresenta o status do desenvolvimento de estudos já iniciados pelo
+Município.
+
+EMPREENDIMENTO                                        STATUS
+
+Bacia do Córrego Olhos d?Água                        Projeto a contratar
+
+Bacia do Córrego dos Macacos                        Anteprojeto concluído
+
+(cid:10)
+(cid:10)
+
+
+Página: 9
+
+Bacia do Córrego Terra Vermelha                        Anteprojeto concluído
+
+Bacia do Córrego Embira                                Projeto básico concluído
+
+Bacia do Córrego Várzea da Palma (Rua Chile)Anteprojeto em elaboração
+
+Bacia do Córrego Fazenda Velha                        Anteprojeto concluído
+
+Bacia do Córrego Capão                                Anteprojeto concluído
+
+Bacia do Córrego Joaquim Pereira                Anteprojeto em elaboração
+
+Bacia do Córrego Brejo do Quaresma                Anteprojeto concluído
+
+Bacia do Córrego Bonsucesso                        Projeto a contratar
+
+Fortalecimento Institucional                        A contratar
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Municipal
+MUNICIPIO DE  BELO HORIZONTE(MG)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+CONDIÇÕES FINANCEIRAS:
+
+a) Carência: 7 anos (84 meses)
+
+b) Prazo: 23.5 anos (282 meses)
+
+c) Prazo de amortização: 16.5 anos (198 meses)
+
+d) Taxa de juros (composição):
+
+d.1) Índice SOFR: reajustado diariamente
+
+d.2) Spread de captação: reajustado trimestralmente (Atualmente em 0.40%)
+
+d.3) Spread para empréstimos do Capital Ordinário: determinado periodicamente pela Diretoria do BID (Atualmente em 0.85%)
+
+d.4) Comissão de crédito sobre o saldo não desembolsado do financiamento: 0.5% a.a. (vigente), não podendo ultrapassar 0.75% a.a.
+Essa comissão é determinada periodicamente pela Diretoria do Banco.
+
+e) Prazo de desembolso: 6 anos (72 meses)
+
+f) Intervalos de desembolso: 6 Meses
+
+g) Modalidade de empréstimo: FFF (Flexible Financing Facility/Facilidade Flexível de Financiamento)
+
+NECESSIDADE DE FINANCIAMENTO EXTERNO E A OPÇÃO PELO AGENTE FINANCEIRO:
+
+A demanda por intervenções no Município de Belo Horizonte é alta e supera a disponibilidade de recursos financeiros municipais, o que
+torna imprescindível a captação de recursos externos.
+
+Visando justificar a escolha do agente financeiro, a Subsecretaria Municipal do Tesouro elaborou a Nota Técnica 06/2023, que segue em
+anexo.
+
+O Município possui uma parceria de longa data com o Banco Interamericano de Desenvolvimento - BID. Tal trajetória inclui, por exemplo,
+o engajamento anterior no financiamento da 1ª Etapa e fase Suplementar do Programa DRENURBS, que contemplava formas de atuação
+inovadoras em desenvolvimento e planejamento urbano, intervenções modelo em saneamento ambiental com práticas sustentáveis,
+inclusão social, participação e governança. A experiência vivenciada nos dois contratos firmados com o BID, permitiu um amadurecimento
+do município na gestão de contratos de financiamento externo e foi, à época, o maior Programa já contratado pelo Município com recursos
+externos e a execução do Programa permitiu o aperfeiçoamento de metodologias de trabalho, de processos internos dentro da Prefeitura
+em diversas áreas, tais como: gestão de projetos, gestão financeira, aspectos do trabalho técnico social, aspectos ligados à questão
+ambiental. Adicionalmente, o BID oferece permanentemente capacitações e formação em temas relevantes para o Programa e de
+interesse para as equipes do Programa.  Neste contexto, o BID oferece interfaces com parceiros tecnológicos com perspectivas para a
+melhoria da eficiência não somente na implementação do Programa, se não também na sua operação e manutenção.
+
+(cid:10)
+(cid:10)
+
+
+Página: 10
+
+Vale considerar, ainda, que a escolha da operação de crédito junto ao Banco Interamericano de Desenvolvimento - BID se deve ao fato
+deste agente financeiro oferecer um melhor custo de oportunidade, com taxas flexíveis que atendem às programações financeiras do
+Município, dispor de linhas de financiamento para as intervenções pretendidas, prazo de maturidade adequado à menor oneração do fluxo
+de caixa do Tesouro Municipal ao longo prazo, vantajoso prazo de carência para não oneração no curto prazo e confortável prazo para
+desembolso, gerando menor probabilidade de se solicitar a prorrogação de desembolsos de recursos contratados e evitando dilação dos
+prazos, com a devida execução do cronograma previsto.
+
+Considerando a expertise da multilateral obtida por meio do financiamento da 1ª fase e da fase suplementar do Programa DRENURBS,
+bem como a adoção por outras multilaterais (BIRD e CAF, por exemplo) da SORF semestral na composição da taxa de juros, optou-se
+pelo BID para o financiamento pretendido, conforme Nota Técnica e demais documentos listados a seguir.
+
+&#9679;Anexo 28 - Nota_Técnica_ 002_2024_ SUTEM.SMFA_BID
+
+&#9679;Anexo 29 - CT_601.938_FINISA_Pontalina
+
+&#9679;Anexo 30 - CT_0526.039_FINISA_Toritama
+
+&#9679;Anexo 31 - CT_521.759_FINISA_Jundiaí
+
+&#9679;Anexo 32 - CT 621.738_FINISA_Belo_Horizonte
+
+&#9679;Anexo 33 - CT 0613.140_FINISA_Belo_Horizonte
+
+2.11. PROJETO/BENEFICIÁRIO
+
+IMPACTOS DO PROGRAMA:
+
+Melhorias ambientais e aumento da resiliência às mudanças climáticas;
+
+Universalização dos serviços de saneamento;
+
+Mitigação dos riscos de inundação;
+
+Implantação de equipamentos públicos e de convívio social em áreas ocupadas por populações de baixa renda;
+
+Melhoria da qualidade de vida da população; e
+
+Gestão integrada dos recursos hídricos.
+
+BENEFICIÁRIOS:
+
+Componente 1 ? Saneamento Ambiental Integrado
+
+O quadro a seguir apresenta a população diretamente beneficiada para cada sub-bacia contemplada pelo Programa, bem como a
+população total beneficiada pela implementação das intervenções propostas.
+
+Empreendimento                      População a ser           População diretamente         População total
+
+relocalizada (hab.)         beneficiada (hab.)             beneficiada (hab.)
+
+Córrego dos Macacos                  597                          7.493                     7.639
+
+Córrego Terra Vermelha               715                          6.476                      21.145
+
+Córrego Embira                               622                          1.285                            25.490
+
+Av. Várzea da Palma - Rua Chile         846                          1.358                      30.999
+
+Córrego Fazenda Velha               578                          15.946                      28.006
+
+Córrego Capão                               507                        815                              63.137
+
+Córrego Joaquim Pereira               314                          653                              28.249
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 11
+
+Córrego Olhos d'Água                       376                          3.894                      15.438
+
+Córrego Brejo do Quaresma               59                           93                              13.070
+
+Parque Ciliar Bonsucesso               50                                26.929                       50.376
+
+TOTAL                                    4.664                          64.942                      283.549
+
+Através das intervenções estruturantes de saneamento integrado, prevê-se que sejam beneficiados cerca de 284.000 habitantes.
+
+Componente 2 ? Cidade mais Resiliente
+
+A implementação do Projeto Cidade mais Resiliente integra elementos relacionados à redução do risco de inundações e adaptação e
+resiliência da cidade, o que irá beneficiar toda a população do Município.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Interamericano de Desenvolvimento
+- BID
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BID
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+51.000.000,00
+Valor Proposto
+
+204.000.000,00
+
+255.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+51.000.000,00
+Valor de Referência US
+$
+204.000.000,00
+
+255.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+- ARRANJO INSTITUCIONAL:
+
+A gestão do Programa será feita pelas equipes da PBH que compõem a Unidade Gestora do Programa (UGP) e a Unidade Executora do
+Programa (UEP). Tanto a UGP como a UEP serão compostas por funcionários da Prefeitura e serão apoiadas por consultores contratados
+externamente, conforme necessário.
+
+O arranjo proposto, que conta com várias autoridades locais dentro da estrutura governamental, permitirá a necessária
+interdisciplinaridade, internalização e transferência de conhecimento e inovação em pautas-chave, como planejamento resiliente, ação
+climática, inclusão de gênero e engajamento dos cidadãos.
+
+A Secretaria Municipal de Obras e Infraestrutura (SMOBI) ocupará as funções deliberativas e gerenciais, incluindo a responsabilidade
+geral pelas tarefas de Coordenação de Projetos, Gestão Financeira, Licitações, Planejamento e Monitoramento e Avaliação. Estima-se
+que a UGP contará com uma equipe de cinco pessoas formada por servidores municipais nas etapas iniciais do Programa, podendo ser
+escalonada no decorrer de sua implementação.
+
+A SMOBI tem as responsabilidades fiduciárias para a execução do Programa, incluindo: (i) submissão de solicitações de desembolso e
+documentação das despesas ao ente financiador; (ii) preparação e submissão de relatórios financeiros ao ente financiador; e (iii)
+elaboração e fornecimento de toda documentação financeira e relatórios/informações do Programa solicitados por auditores externos e
+funcionários do ente financiador. A SMOBI terá apoio da Secretaria de Fazenda para a realização de pagamentos e acompanhamento da
+dívida.
+
+A execução financeira será concentrada na SMOBI e nenhum tipo de transferência de fundos está prevista no âmbito do Programa.
+
+A UEP será formada por equipes técnicas da Superintendência de Desenvolvimento da Capital (SUDECAP), Companhia Urbanizadora e
+de Habitação (URBEL), Diretoria de Gestão de Águas Urbanas (DGAU) e Subsecretaria de Proteção e Defesa Civil (SUPDEC). A
+Coordenação Geral da UEP participará do processo de tomada de decisões por parte da UGP, seguindo uma estrutura de governança
+compartilhada. Cada instituição membro da UEP será responsável pela implementação de tarefas setoriais específicas e técnicas em
+áreas relacionadas às suas aquisições, conforme descrito a seguir:
+
+(cid:10)
+(cid:10)
+
+
+Página: 12
+
+(a) Companhia Urbanizadora e de Habitação de Belo Horizonte (URBEL): responsável pela implementação da Política Municipal de
+Habitação, através da elaboração de planos e projetos, estudos ambientais para fins de licenciamento, execução de obras de urbanização,
+regularização fundiária, assistência técnica, produção de novas moradias e trabalho social para moradores de assentamentos de
+interesse social e população de baixa renda.
+
+(b) Superintendência de Desenvolvimento da Capital (SUDECAP): responsável pela elaboração de projetos, estudos ambientais para fins
+de licenciamento e implementação de obras públicas do Município.
+
+(c) Diretoria de Gestão de Águas Urbanas (DGAU): responsável por promover a articulação e a intersetorialidade de ações direcionadas à
+implementação das políticas públicas de saneamento; coordenar a elaboração do planejamento para implementação do Sistema de
+Gerenciamento de Drenagem e Alerta de Inundações de Belo Horizonte; atuar junto à Companhia de Saneamento de Minas Gerais -
+COPASA, concessionária dos serviços de abastecimento de água e esgotamento sanitário de Belo Horizonte, de forma a assegurar a
+atuação da mesma na implementação do Programa; formular diretrizes para a elaboração de projetos de manejo de águas pluviais e
+saneamento integrado no âmbito do Programa.
+
+(d) Subsecretaria de Proteção e Defesa Civil (SUPDEC): responsável por participar da elaboração do planejamento e da implementação
+do Sistema de Gerenciamento de Drenagem e Alerta de Inundações de Belo Horizonte.
+
+- MATRIZ DE RESPONSABILIDADES:
+
+O Anexo 34: Matriz de Responsabilidades apresenta um detalhamento de ações a serem executadas no âmbito do Programa e as
+entidades envolvidas em sua implementação.
+
+- ESTRUTURA OPERACIONAL:
+
+A Administração Municipal de Belo Horizonte dispõe de corpo técnico e experiência necessários à gestão das atividades previstas para o
+Programa ora proposto, bem como para acompanhamento e fiscalização dos profissionais a serem contratados para execução das
+atividades.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Secretaria Municipal de Obras e Infraestrutura de Belo Horizonte - MG
+
+Representante Oficial: Leandro Cesar Pereira
+Endereço da Sede: Rua Guajajaras 1107
+E-mail Institucional:
+
+Telefone: 31-3277-5010
+
+CNPJ: 18715383000140
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 6 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+C - SANEAMENTO AMBIENTAL INTEGRADO
+
+COMPONENTES
+
+S - SOLUÇÕES ESTRUTURANTES EM BACIAS HIDROGRÁFICAS DO MUNICÍPIO DE BELO
+HORIZONTE
+P - Projetos e obras de tratamento de fundo de vale, incluindo implantação de sistemas de
+esgotamento sanitário, implantação de Parques Lineares e/ou Ciliares  Estruturação de Territórios e
+Urbanização de Assentamentos Precários
+P - Desapropriações, Indenizações e/ou Reassentamentos
+
+C - CIDADE MAIS RESILIENTE
+
+S - S2 - MODERNIZAÇÃO DO SISTEMA DE MONITORAMENTO HIDROLÓGICO E ALERTA
+CONTRA INUNDAÇÕES
+P - Dados Monitorados
+
+P - Sistema de Previsão de Inundações
+
+P - Cidade Adaptada
+
+S - CONSULTORIAS E AUDITORIA DO PROGRAMA
+
+P - Estudos, Consultorias e Auditoria do Programa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - SANEAMENTO AMBIENTAL INTEGRADO
+
+COMPONENTES
+
+S - SOLUÇÕES ESTRUTURANTES EM BACIAS HIDROGRÁFICAS DO MUNICÍPIO DE BELO
+HORIZONTE
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+Fax:
+UF:
+
+VALOR
+
+CUSTO
+240.000.000,00
+
+Ano 1
+
+FONTES
+
+CF
+
+BID
+
+3.360.000,00
+
+13.440.000,00
+
+240.000.000,00
+
+3.360.000,00
+
+13.440.000,00
+
+148.200.000,00
+
+2.074.800,00
+
+8.299.200,00
+
+91.800.000,00
+
+1.285.200,00
+
+5.140.800,00
+
+15.000.000,00
+
+210.000,00
+
+840.000,00
+
+10.000.000,00
+
+140.000,00
+
+560.000,00
+
+3.000.000,00
+
+5.000.000,00
+
+2.000.000,00
+
+5.000.000,00
+
+5.000.000,00
+
+42.000,00
+
+70.000,00
+
+28.000,00
+
+70.000,00
+
+70.000,00
+
+168.000,00
+
+280.000,00
+
+112.000,00
+
+280.000,00
+
+280.000,00
+
+0,00
+
+3.570.000,00
+
+14.280.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+BID
+
+8.160.000,00
+
+32.640.000,00
+
+8.160.000,00
+
+32.640.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+(cid:10)
+
+
+Página: 13
+
+P - Projetos e obras de tratamento de fundo de vale, incluindo implantação de sistemas de
+esgotamento sanitário, implantação de Parques Lineares e/ou Ciliares  Estruturação de Territórios e
+Urbanização de Assentamentos Precários
+P - Desapropriações, Indenizações e/ou Reassentamentos
+
+C - CIDADE MAIS RESILIENTE
+
+S - S2 - MODERNIZAÇÃO DO SISTEMA DE MONITORAMENTO HIDROLÓGICO E ALERTA
+CONTRA INUNDAÇÕES
+P - Dados Monitorados
+
+P - Sistema de Previsão de Inundações
+
+P - Cidade Adaptada
+
+S - CONSULTORIAS E AUDITORIA DO PROGRAMA
+
+P - Estudos, Consultorias e Auditoria do Programa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - SANEAMENTO AMBIENTAL INTEGRADO
+
+COMPONENTES
+
+S - SOLUÇÕES ESTRUTURANTES EM BACIAS HIDROGRÁFICAS DO MUNICÍPIO DE BELO
+HORIZONTE
+P - Projetos e obras de tratamento de fundo de vale, incluindo implantação de sistemas de
+esgotamento sanitário, implantação de Parques Lineares e/ou Ciliares  Estruturação de Territórios e
+Urbanização de Assentamentos Precários
+P - Desapropriações, Indenizações e/ou Reassentamentos
+
+C - CIDADE MAIS RESILIENTE
+
+S - S2 - MODERNIZAÇÃO DO SISTEMA DE MONITORAMENTO HIDROLÓGICO E ALERTA
+CONTRA INUNDAÇÕES
+P - Dados Monitorados
+
+P - Sistema de Previsão de Inundações
+
+P - Cidade Adaptada
+
+S - CONSULTORIAS E AUDITORIA DO PROGRAMA
+
+P - Estudos, Consultorias e Auditoria do Programa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - SANEAMENTO AMBIENTAL INTEGRADO
+
+COMPONENTES
+
+S - SOLUÇÕES ESTRUTURANTES EM BACIAS HIDROGRÁFICAS DO MUNICÍPIO DE BELO
+HORIZONTE
+P - Projetos e obras de tratamento de fundo de vale, incluindo implantação de sistemas de
+esgotamento sanitário, implantação de Parques Lineares e/ou Ciliares  Estruturação de Territórios e
+Urbanização de Assentamentos Precários
+P - Desapropriações, Indenizações e/ou Reassentamentos
+
+C - CIDADE MAIS RESILIENTE
+
+S - S2 - MODERNIZAÇÃO DO SISTEMA DE MONITORAMENTO HIDROLÓGICO E ALERTA
+CONTRA INUNDAÇÕES
+P - Dados Monitorados
+
+P - Sistema de Previsão de Inundações
+
+P - Cidade Adaptada
+
+S - CONSULTORIAS E AUDITORIA DO PROGRAMA
+
+P - Estudos, Consultorias e Auditoria do Programa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - SANEAMENTO AMBIENTAL INTEGRADO
+
+COMPONENTES
+
+S - SOLUÇÕES ESTRUTURANTES EM BACIAS HIDROGRÁFICAS DO MUNICÍPIO DE BELO
+HORIZONTE
+P - Projetos e obras de tratamento de fundo de vale, incluindo implantação de sistemas de
+esgotamento sanitário, implantação de Parques Lineares e/ou Ciliares  Estruturação de Territórios e
+Urbanização de Assentamentos Precários
+P - Desapropriações, Indenizações e/ou Reassentamentos
+
+C - CIDADE MAIS RESILIENTE
+
+S - S2 - MODERNIZAÇÃO DO SISTEMA DE MONITORAMENTO HIDROLÓGICO E ALERTA
+CONTRA INUNDAÇÕES
+P - Dados Monitorados
+
+P - Sistema de Previsão de Inundações
+
+P - Cidade Adaptada
+
+S - CONSULTORIAS E AUDITORIA DO PROGRAMA
+
+5.038.800,00
+
+20.155.200,00
+
+3.121.200,00
+
+12.484.800,00
+
+510.000,00
+
+2.040.000,00
+
+340.000,00
+
+1.360.000,00
+
+102.000,00
+
+408.000,00
+
+170.000,00
+
+680.000,00
+
+68.000,00
+
+272.000,00
+
+170.000,00
+
+680.000,00
+
+170.000,00
+
+680.000,00
+
+VALOR
+
+CUSTO
+
+VALOR
+
+CUSTO
+
+VALOR
+
+CUSTO
+
+0,00
+
+8.670.000,00
+
+34.680.000,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+Ano 3
+
+FONTES
+
+CF
+
+BID
+
+11.040.000,00
+
+44.160.000,00
+
+11.040.000,00
+
+44.160.000,00
+
+6.817.200,00
+
+27.268.800,00
+
+4.222.800,00
+
+16.891.200,00
+
+690.000,00
+
+2.760.000,00
+
+460.000,00
+
+1.840.000,00
+
+138.000,00
+
+552.000,00
+
+230.000,00
+
+920.000,00
+
+92.000,00
+
+368.000,00
+
+230.000,00
+
+920.000,00
+
+230.000,00
+
+920.000,00
+
+0,00
+
+11.730.000,00
+
+46.920.000,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+Ano 4
+
+FONTES
+
+CF
+
+BID
+
+12.480.000,00
+
+49.920.000,00
+
+12.480.000,00
+
+49.920.000,00
+
+7.706.400,00
+
+30.825.600,00
+
+4.773.600,00
+
+19.094.400,00
+
+780.000,00
+
+3.120.000,00
+
+520.000,00
+
+2.080.000,00
+
+156.000,00
+
+624.000,00
+
+260.000,00
+
+1.040.000,00
+
+104.000,00
+
+416.000,00
+
+260.000,00
+
+1.040.000,00
+
+260.000,00
+
+1.040.000,00
+
+0,00
+
+13.260.000,00
+
+53.040.000,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+Ano 5
+
+FONTES
+
+CF
+
+BID
+
+10.080.000,00
+
+40.320.000,00
+
+10.080.000,00
+
+40.320.000,00
+
+6.224.400,00
+
+24.897.600,00
+
+3.855.600,00
+
+15.422.400,00
+
+630.000,00
+
+2.520.000,00
+
+420.000,00
+
+1.680.000,00
+
+126.000,00
+
+504.000,00
+
+210.000,00
+
+840.000,00
+
+84.000,00
+
+336.000,00
+
+210.000,00
+
+840.000,00
+
+
+Página: 14
+
+P - Estudos, Consultorias e Auditoria do Programa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - SANEAMENTO AMBIENTAL INTEGRADO
+
+COMPONENTES
+
+S - SOLUÇÕES ESTRUTURANTES EM BACIAS HIDROGRÁFICAS DO MUNICÍPIO DE BELO
+HORIZONTE
+P - Projetos e obras de tratamento de fundo de vale, incluindo implantação de sistemas de
+esgotamento sanitário, implantação de Parques Lineares e/ou Ciliares  Estruturação de Territórios e
+Urbanização de Assentamentos Precários
+P - Desapropriações, Indenizações e/ou Reassentamentos
+
+C - CIDADE MAIS RESILIENTE
+
+S - S2 - MODERNIZAÇÃO DO SISTEMA DE MONITORAMENTO HIDROLÓGICO E ALERTA
+CONTRA INUNDAÇÕES
+P - Dados Monitorados
+
+P - Sistema de Previsão de Inundações
+
+P - Cidade Adaptada
+
+S - CONSULTORIAS E AUDITORIA DO PROGRAMA
+
+P - Estudos, Consultorias e Auditoria do Programa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+ATOS LEGAIS
+
+210.000,00
+
+840.000,00
+
+0,00
+
+10.710.000,00
+
+42.840.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 6
+
+FONTES
+
+CF
+
+BID
+
+TOTAL
+
+CF
+
+2.880.000,00
+
+11.520.000,00
+
+48.000.000,00
+
+TOTAL
+
+BID
+192.000.000,00
+
+2.880.000,00
+
+11.520.000,00
+
+48.000.000,00
+
+192.000.000,00
+
+1.778.400,00
+
+7.113.600,00
+
+29.640.000,00
+
+118.560.000,00
+
+1.101.600,00
+
+4.406.400,00
+
+18.360.000,00
+
+73.440.000,00
+
+180.000,00
+
+720.000,00
+
+3.000.000,00
+
+12.000.000,00
+
+120.000,00
+
+480.000,00
+
+2.000.000,00
+
+8.000.000,00
+
+36.000,00
+
+60.000,00
+
+24.000,00
+
+60.000,00
+
+60.000,00
+
+144.000,00
+
+600.000,00
+
+2.400.000,00
+
+240.000,00
+
+1.000.000,00
+
+4.000.000,00
+
+96.000,00
+
+400.000,00
+
+1.600.000,00
+
+240.000,00
+
+1.000.000,00
+
+4.000.000,00
+
+240.000,00
+
+1.000.000,00
+
+4.000.000,00
+
+255.000.000,00
+
+3.060.000,00
+
+12.240.000,00
+
+51.000.000,00
+
+204.000.000,00
+
+Para viabilização do financiamento externo, tem-se os seguintes atos legais:
+
+(a) Aprovação da presente Carta-Consulta pela COFIEX, com a consequente incorporação das recomendações que esta comissão poderá
+emitir a propósito do Projeto;
+
+(b) Negociações relativas à garantia do Governo Federal para a operação de crédito;
+
+(c) Aprovação de Lei Municipal autorizativa para a realização da operação de crédito - Projeto de Lei a cargo do executivo em processo de
+elaboração para envio à Câmara Municipal de Belo Horizonte;
+
+(d) No que concerne aos trabalhos de preparação do projeto junto ao órgão financiador externo, os principais são: a formalização da
+Unidade Gestora do Programa (UGP) e da Unidade Executora do Programa (UEP), bem como as autorizações e obrigações no que se
+refere à operação e manutenção das estruturas implantadas por este;
+
+(e) Ato de criação da UGP e UEP por meio de Portaria Municipal;
+
+Licenças e demais instrumentos autorizativos são de responsabilidade da Prefeitura, não sendo necessários convênios e outros trâmites
+legais junto a outros órgãos. Todos os documentos adicionais relativos à formalização de atos legais serão dirimidos pela UGP, a
+depender de cada caso.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+As principais contratações necessárias para a execução do Programa, que se darão através de processos licitatórios, referem-se aos
+projetos executivos e obras do Componente ?Saneamento Ambiental Integrado? e às consultorias para a implementação do Componente
+?Cidade mais Resiliente?, além das consultorias de apoio à Unidade Executora do Programa.
+
+O Município possui conhecimento das políticas de aquisição e contratação do agente financeiro, por ter uma parceria de longa data com o
+Banco Interamericano de Desenvolvimento - BID, inclusive no financiamento da Primeira Etapa do Programa DRENURBS, facilitando o
+processo de prestação de contas e auditorias.
+
+O risco a ser considerado para tal modalidade é o prazo necessário para as contratações.
+
+Para mitigar este risco, deverão ser elaborados Termos de Referência claros, com informações precisas e detalhadas da execução dos
+serviços, evitando-se a morosidade no processo licitatório, decorrente de possíveis recursos e/ou impugnação do processo.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 15
+
+A aquisição de terrenos, com indenização de benfeitorias neles localizadas, faz parte das ações de viabilização das obras. As
+desapropriações visam adquirir o terreno para que no local sejam implantadas as obras de controle de cheias. Findado o projeto executivo
+, com definição final da área de afetação de obras, é iniciado o cadastro técnico de desapropriações. Posteriormente, há a fase de
+avaliação imobiliária e de negociação com o proprietário para que a titularidade da área seja transferida para o poder público. Os valores
+avaliados na fase de cadastro técnico buscam seguir regras existentes dentro das políticas públicas, de modo a se levantar o custo real do
+imóvel. Porém, em alguns casos, pode haver discordância entre o desejado pelo proprietário e o avaliado pelo poder público, ocorrendo a
+judicialização do processo de desapropriação.
+
+Deste modo, há o risco de tempo extra na equalização da liberação de áreas para obras, em função de eventuais processos judiciais.
+Destaca-se que a Superintendência de Desenvolvimento da Capital ? SUDECAP possui uma Diretoria Jurídica e um departamento
+específico para lidar com desapropriações e contencioso, com um quadro de advogados que atuam especificamente nestes casos. Assim,
+considerando a expertise existente e equipe de pessoal própria, vislumbra-se uma mitigação do eventual risco de um processo
+judicializado atrasar a viabilização da intervenção.
+
+Outra ação a ser realizada é a antecipação das negociações, de modo que se tenha a área liberada para execução de obras conforme
+cronograma planejado, mesmo com eventuais desapropriações judiciais.
+
+Para a execução do Programa, estima-se a necessidade de relocalização de 1.500 famílias. Considerando-se que cerca de 1/3 dessa
+população será indenizada, prevê-se a desapropriação de 500 famílias.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+O Programa tem como premissa a requalificação urbanística e ambiental dos territórios contemplados.
+
+Toda obra gera impactos ambientais, alguns negativos e outros positivos, e para cada impacto adverso são necessárias medidas
+mitigadoras. A implementação de obras de saneamento ambiental em áreas urbanas, em especial em regiões adensadas, em
+aglomerados e áreas informais, pode causar impactos locais e regionais, afetando a infraestrutura, a ocupação e cobertura do solo, a
+qualidade do ar, dos corpos hídricos, a fauna e flora presentes. Tais impactos devem ser avaliados nos estudos elaborados no âmbito do
+licenciamento ambiental, bem como propostas medidas que mitiguem os impactos negativos e/ou potencializem os impactos positivos.
+
+Com base na Resolução CONAMA 237/1997 do Conselho Nacional do Meio Ambiente o licenciamento ambiental é ato administrativo que,
+coloca sobre a responsabilidade do órgão ambiental competente de estabelecer condições, restrições e medidas de controle ambiental ao
+empreendedor, quando estes buscam instalar e operar atividades que necessitam de licenciamento, classificadas como de impacto.
+
+Em Belo Horizonte, o licenciamento ambiental ou urbanístico de empreendimentos de impacto se dá junto ao Conselho Municipal de Meio
+Ambiente - COMAM, ou ao Conselho Municipal de Políticas Urbanas - COMPUR, considerando as diretrizes preconizadas na Lei 11.181/
+2019.
+
+As intervenções previstas nos empreendimentos que compõem o Programa DRENURBS 2a Etapa são passíveis de licenciamento
+ambiental, conforme descrito no art. 344 - item XVI da Lei 11.181/2019: intervenções em corpos d?água, como barragens, canalizações e
+retificações de coleções de água, e em diques. Para empreendimentos classificados como de impacto fazem-se necessários estudos e
+planos que garantam que as intervenções sejam menos prejudiciais ao meio ambiente e promovam sua sustentabilidade, desde as fases
+prévias até a fase de operação.  Estes estudos e planos devem propor ações preventivas, quando evitam total ou parcialmente o dano
+adverso; corretivas, que resultam na reparação total ou parcial do dano adverso e ações potencializadoras, que melhoram continuamente
+os impactos positivos.
+
+Dentre os principais impactos negativos relacionados às intervenções propostas para as bacias hidrográficas objeto do Programa
+DRENURBS 2ª Etapa, podem-se destacar:
+
+&#9679;Alterações no solo: durante a execução das sobras, escavações e construções podem resultar na compactação, alteração da
+cobertura do solo, interferindo na permeabilidade e na capacidade do solo em resistir a erosões. Medidas Mitigadoras: Implementar
+técnicas de construção sustentáveis, para controlar e reduzir a compactação do solo, assim como priorizar o uso de revestimentos que
+permitam maior permeabilidade e conservação do terreno e cobertura vegetal.
+
+&#9679;Geração de resíduos de construção: as obras de saneamento podem gerar resíduos de construção civil, cujo manejo inadequado
+pode contribuir para a degradação ambiental dos cursos d?água, da vegetação bem como potencializar a proliferação de vetores de
+doenças. Medidas Mitigadoras: Adotar práticas de gestão de resíduos, incluindo a reciclagem de materiais, a deposição e destinação
+adequada para minimizar o impacto durante a execução das obras.
+
+&#9679;Alteração da qualidade do ar: as atividades de terraplenagem durante as escavações e execução de aterros podem aumentar a
+emissão de partículas do solo na forma de poeira. Além disso, a emissão de gases de efeito estufa, oriundos da operação de máquinas e
+equipamentos utilizados para execução dos serviços e transportes de materiais, impactando o clima local e regional. Medidas Mitigadoras:
+uso de aspersores de água para controle de poeiras, fiscalização contínua que garanta funcionamento adequado das máquinas e
+equipamentos quanto à poluição atmosférica.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 16
+
+&#9679;Alteração Sonora: o uso de fontes de poluição sonora, como máquinas e equipamentos, gera distúrbios que podem afetar a
+população e fauna local. Contudo, tratam-se de impactos temporários, limitados à duração das obras, mas que ainda assim devem ser
+mitigados. Medidas Mitigadoras: Além do uso de equipamentos individuais de proteção auditiva pelos funcionários, devem ser
+estabelecidos horários para execução dos serviços que reduzam os incômodos causados.
+
+&#9679;Alteração dos corpos hídricos: as intervenções de escavação e aterro do solo podem gerar material não coeso, com alta
+suscetibilidade à erosão e de fácil transporte por águas de chuva, potencializando o aterramento e assoreamento de corpos hídricos, bem
+como alteração da qualidade das águas. Além disso, esse tipo de intervenção demanda grandes volumes de água. Medidas Mitigadoras:
+proteção de nascentes e cursos d?água durante a execução das obras, conservação e recuperação da mata ciliar; promoção do reuso de
+água e implementar tecnologias de eficiência hídrica para reduzir a demanda.
+
+Apesar dos principais impactos negativos apresentados anteriormente,  é inegável que intervenções propostas no âmbito do Programa
+DRENURBS 2a Etapa trarão impactos positivos, com melhorias das condições sanitárias, com a promoção da saúde da população e
+prevenção de doenças, assim como na redução dos riscos de inundação e aumento da resiliência das populações às mudanças climáticas
+, e também na recuperação, conservação e preservação dos cursos d?água e do meio ambiente.
+
+Assim, é necessário que se estabeleça, tanto na fase da execução quanto após a implantação das intervenções, um equilíbrio entre os
+impactos ambientais, econômicos e sociais, de maneira que os objetivos almejados no Programa DRENURBS 2a Etapa sejam alcançados
+e sustentados ao longo do tempo.
+
+Vale ressaltar que o Município possui conhecimento das políticas e salvaguardas ambientais do agente financeiro, por ter uma parceria de
+longa data com o Banco Interamericano de Desenvolvimento - BID, facilitando a elaboração de documentos concisos e adequados às
+exigências do Banco.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+O Programa tem como premissa a melhoria da qualidade de vida da população beneficiada, através de intervenções de requalificação
+urbanística e melhoramentos na infraestrutura de saneamento básico, abrangendo impactos positivos do ponto de vista social, que não
+têm interferência com populações indígenas, quilombolas, dentre outras.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Os reassentamentos e as realocações representam uma interferência na vida cotidiana das pessoas, principalmente devido às
+características estruturantes das intervenções. A moradia é uma referência para a família, estreitamente ligada à sua estrutura econômica
+social. Assim, o reassentamento é um grande desafio para o poder público, é um processo complexo e oneroso, mas, mesmo
+considerando os custos financeiros e sociais envolvidos, a consolidação definitiva e a integração física e social ainda são uma perspectiva
+de atendimento às necessidades habitacionais e uma solução viável em termos de recursos investidos e benefícios alcançados. Essencial
+é garantir a permanente interlocução com a comunidade, um trabalho intenso de mobilização e de acompanhamento social.
+
+Estima-se a necessidade de relocalização de 1.500 famílias. Considerando-se que cerca de 2/3 dessa população será reassentada, prevê-
+se o reassentamento de 1.000 famílias.
+
+Poderão ser oferecidas diferentes alternativas de atendimento, previstas na Política Municipal de Habitação (Resolução LII ? Deliberação
+do Conselho Municipal de Habitação, Lei 10.887/2015 e seu Decreto de Regulamentação 17.219/2019):
+
+- Possibilidade de realocação das famílias em unidades habitacionais a serem construídas dentro das áreas de intervenção;
+
+- Possibilidade de reassentamento em outras moradias adquiridas na região e/ou indenização de benfeitorias; e
+
+- Locação temporária de imóveis habitacionais, para reassentamento provisório, até que sejam concluídas as unidades habitacionais para
+reassentamento definitivo.
+
+Será realizado trabalho técnico-social efetivo junto às famílias a serem reassentadas no pré e no pós-morar, ou seja, antes de efetuar a
+mudança da família para a nova moradia na etapa de produção da unidade habitacional e por um período após essa mudança.
+
+O risco previsto é que a divulgação das intervenções nos assentamentos possa gerar adensamento, considerando que as pessoas criam
+expectativas de algum tipo de atendimento. Assim, prevê-se um planejamento detalhado das ações, no âmbito do plano de remoção e
+reassentamento, inclusive com a selagem dos imóveis existentes, assim que os trabalhos forem iniciados.
+
+É importante frisar que a URBEL, Companhia Urbanizadora e de Habitação de Belo Horizonte, é o órgão gestor da Política Municipal de
+Habitação e tem uma experiência robusta em questões similares em diversos assentamentos distribuídos por toda a cidade, sendo
+amplamente reconhecida como uma agência governamental local de excelência em políticas de reassentamento involuntário e habitação
+social.
+
+Vale considerar que um resumo de toda a proposta aqui apresentada pode ser verificado no Anexo 35 - Apresentação do Programa
+DRENURBS 2ª Etapa - COFIEX
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 17
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)
+(cid:10)

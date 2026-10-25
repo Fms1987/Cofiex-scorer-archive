@@ -1,0 +1,3285 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Programa de Transformação Digital e Cidade Inteligente de Caxias do Sul - PRODIGITAL
+Caxias do Sul
+Nº Carta Consulta: 61171
+Processo: 03101.001107/2024-19
+Mutuário: Município de Caxias do Sul - RS
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  10 de Abril de 2024
+Fontes Internas:
+Contrapartida Financeira: US$ 10.000.000,00
+Fontes Externas:
+Banco de Desenvolvimento da América Latina e Caribe - CAF: US$ 40.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+04
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 05
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 05
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 05
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 05
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 05
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 07
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 23
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 24
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 25
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 27
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 34
+3. FINANCIAMENTO .......................................................................................................................................................................................... 34
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 34
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 35
+4. EXECUÇÃO ...................................................................................................................................................................................................
+35
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 35
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 36
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 36
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 36
+5. RISCOS .......................................................................................................................................................................................................... 39
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 39
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 40
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 41
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 41
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 41
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 42
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+42
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+Caxias do Sul, segundo maior município do Estado do Rio Grande do Sul, possui 463.338 habitantes (IBGE, 2022) e IDHM 0,782 (PNUD,
+2010), destaca-se no contexto econômico, especialmente em razão de seu dinamismo industrial, e vem se destacando no âmbito do
+empreendedorismo inovador, ocupando o 21º lugar no Índice de Cidades Empreendedoras de 2023 e figurando entre as 101 cidades mais
+ populosas do Brasil.
+Com o rápido crescimento, enfrenta problemas sociais, culturais, econômicos e ambientais. O aumento do fluxo migratório para a região
+da Serra Gaúcha em busca de melhores condições de trabalho e a concentração de pessoas no centro urbano criaram condições
+propícias para o surgimento de conflitos interpessoais, resultando no agravamento dos indicadores de violência e demandas sociais.
+Dentre os principais desafios são apontadas a segurança e a fiscalização de áreas públicas, sendo as Tecnologias da Informação e
+Comunicação (TICs) importantes aliadas aos esforços dos agentes de segurança, para a potencialização das ações de prevenção e
+mitigação da violência urbana, principalmente contra mulheres, crianças, imigrantes e a população LGBTQIA+, que atualmente se
+mostram insuficientes às demandas da cidade.
+Neste sentido, o município não dispõe de informações analíticas na quantidade e qualidade necessárias para auxiliar na tomada de
+decisão proativa em políticas públicas. O principal dificultador da tomada de decisão reside na falta de instrumentos para captar  as
+demandas da cidadania e de sensores que permitam monitorar o território. Esses insumos, uma vez conectados a um plano de ação
+voltados, por exemplo, ao monitoramento ambiental inteligente, podem mitigar efeitos da crise climática, como chuvas intensas, que
+provocam enchentes e deslizamentos, causando danos pessoais e materiais à população e principalmente ao setor agrícola.
+Além disso, entende-se que outras políticas públicas, como por exemplo a gestão de resíduos e de tráfego, podem ser otimizadas a partir
+do uso inteligente de tecnologias conectadas. Porém, apesar do município já ter trabalhado no arcabouço legal de inovação para aplicação
+de ambientes regulatórios que funcionam como laboratórios experimentais vivos na cidade (sandbox), ainda não há a efetiva utilização
+desses ambientes em prol de soluções eficazes para os problemas públicos de grande impacto na população.  
+Outro ponto crucial na transformação digital das cidades é o acesso à internet. Essa é uma ferramenta fundamental para mitigar
+desigualdades de acesso à informação, que geram exclusão ou isolamento digital. Ademais a provisão de conectividade com amplo
+alcance territorial pode oportunizar crescimento local ao promover a conectividade nos prédios e pontos de interesse municipais com
+adequada velocidade e estabilidade. No entanto, o município ainda possui uma rede própria com extensão insuficiente, principalmente nas
+ escolas, unidades de saúde e outros prédios de atendimento ao cidadão.
+Ainda com o objetivo de reduzir desigualdades e reconhecendo a educação como um dos principais motores para o desenvolvimento
+econômico local, o município inclui em suas metas do Plano de Ensino a conectividade e disponibilização das tecnologias digitais para
+mais de 1.600 professores e cerca de 40.000 alunos da rede. Porém, a realidade ainda é limitada, com poucos equipamentos disponíveis
+e formação insuficiente dos professores para o ensino digital, o que dificulta a continuidade desse método. Além disso, as escolas
+precisam realizar suas próprias contratações de internet de forma isolada, resultando em instabilidade rotineira e dificuldade para o uso no
+aprendizado dos alunos que fazem uso em momentos pontuais do ensino. Isso também perpetua uma desigualdade entre o acesso das
+escolas da região central em relação às mais afastadas.
+Para atendimento amplo à população verifica-se que houve pouco avanço na implementação de tecnologias que facilitem o acesso digital
+aos serviços municipais. Atualmente, a maioria das necessidades ainda é atendida por meio de protocolos físicos e atendimento telefônico
+. Os serviços do município em formato analógico ocasionam morosidade, ineficiência e insatisfação da população. Observa-se ainda a
+necessidade de um ambiente que favoreça a inovação e a transformação digital, proporcionando um espaço físico para que empresas e
+negócios inovadores possam fomentar o setor privado e alavancar a modernização do setor público.
+Potencializar as políticas públicas da cidade por meio de investimentos voltados à transformação digital dos serviços municipais,
+requalificação das infraestruturas de conectividade, fomento à inovação, e estabelecimento de diretrizes claras para a evolução da
+inteligência, resiliência e sustentabilidade, requer, por fim, que o município possua ferramentas que viabilizem a adequada gestão e
+condução dos projetos, através de planos municipais para gestão das tecnologias, e implantação de um Observatório da Cidade
+Inteligente.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+Os componentes desta operação contemplam as necessidades prioritárias de investimentos identificadas para aceleração da
+transformação digital, abrangendo:
+1. Monitoramento e fiscalização de áreas públicas, expandindo-se o número de equipamentos e aprimorando-se as tecnologias
+empregadas na geração de alertas de segurança, somado à implantação de uma malha planejada de sensores conectados;
+2. Implantação do Observatório da Cidade Inteligente, para gerenciamento e análise de dados que possam auxiliar na tomada de decisões
+ para benefício da população;
+3. Modelo experimental de gestão de políticas públicas, a ser executado no âmbito do Sandbox (ambiente regulatório experimental);
+4. Aumento da conectividade, com a expansão da rede lógica e dos pontos de acesso Wi-Fi, dos prédios públicos municipais,
+principalmente nas escolas;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 3
+5. Modernização das escolas municipais para o aprimoramento da educação digital, abrangendo um Plano de Gestão, o fornecimento de
+equipamentos eletrônicos e a formação continuada dos profissionais;
+6. Digitalização de serviços municipais, baseada num modelo de gestão, investimentos para a digitalização dos principais serviços e uma
+plataforma ao cidadão; 
+7. Impulso à inovação e aos negócios, por meio da implantação do Centro de Inovação em bem municipal a ser restaurado;
+8. Desenvolvimento do Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI), do Plano de Ação Climática, e do Plano de Gestão
+Inteligente de Resíduos, estabelecendo o planejamento de longo prazo.
+
+A execução dos investimentos do PRODIGITAL projeta RESULTADOS significativos, potencializando a transformação digital nos setores
+e serviços prioritários, destacando-se:
+(i) reduzir a violência urbana, principalmente contra mulheres, crianças e comunidade LGBTQIA+, inibindo o cometimento de crimes e atos
+ de vandalismo por meio de inteligência e inovação; 
+(ii) monitorar e reduzir a emissão de gases poluentes, implantar ações relacionadas às mudanças climáticas, e adotar estratégias que
+promovam a resiliência frente aos riscos ambientais; 
+(iii) proporcionar decisões públicas mais rápidas e precisas, impactando nos sistemas de mobilidade, segurança, saneamento, gestão de
+resíduos, prevenção de desastres naturais, e outros; 
+(iv) promover a utilização dos ambientes regulatórios experimentais (sandbox), para fomentar as soluções inovadoras em prol da eficiência
+ na gestão de recursos públicos, com tomadas de decisões mais assertivas;
+(v) reduzir a desigualdade digital, proporcionando aos cidadãos padrões adequados de conectividade e acesso às ferramentas e
+tecnologias nos prédios públicos;
+(vi) ampliar as oportunidades de ensino-aprendizagem através do planejamento adequado das atividades, formação continuada dos
+profissionais e fornecimento de equipamentos digitais para alunos e professores da rede pública municipal; 
+(vii) proporcionar acesso e a eficiência na entrega dos serviços à população, por meio de plataformas digitais intuitivas, agregando valor
+público; 
+(viii) contribuir à consolidação do setor de inovação e à aceleração de negócios inovadores na cidade, fomentando e retendo empresas e
+talentos locais;
+(ix) acelerar e contribuir para a inteligência, resiliência e sustentabilidade, por meio de instrumentos que fomentem o planejamento e a
+gestão das ações da cidade inteligente. 
+
+SUSTENTABILIDADE FINANCEIRA
+As Secretarias municipais são responsáveis pela sustentabilidade dos investimentos, conforme item 4.1 da Carta Consulta.
+A Secretaria de Segurança e Proteção Social, por meio da Guarda Municipal, implementou o Centro de Operações Integrado (CIOp),
+ampliando a cobertura da segurança urbana. A colaboração entre órgãos de inteligência resulta em eficiência operacional e redução de
+custos, promovendo a sustentabilidade, porém os softwares de análise de informações representam cerca de 5% do valor investido no
+componente anualmente. Esses custos serão cobertos pelo orçamento municipal, com a expectativa de redução de despesas
+relacionadas a manutenção do esquema de segurança desprovido de inteligência digital.
+A Secretaria de Desenvolvimento Econômico e Inovação gerenciará o modelo experimental inovador, aproveitando sua experiência em
+ambientes regulatórios. Os testes ocorrerão em espaços delimitados (Sandbox) em instituições de ensino superior, com investimentos
+limitados pelo Marco Legal das Startups. Além disso, apenas as iniciativas com potencial para resolver problemas públicos serão
+desenvolvidas, o que sugere que o projeto em si não acarretará necessidades futuras.
+À medida que o ecossistema de inovação se expande no Centro de Inovação, espera-se que instituições interessadas nas soluções
+contribuam para a sustentabilidade do modelo experimental e do espaço físico. O restauro do patrimônio cultural da Maesa também trará
+um valor agregado significativo para a cidade, tanto econômico quanto social.
+A viabilidade da infraestrutura de conectividade está ligada à forma como é instalada nas vias e espaços públicos. As manutenções
+geralmente decorrem de incidentes como corte e rompimento de cabos, bem como furto de equipamentos. No entanto, o método de
+contratação atualmente adotado e o monitoramento buscam mitigar esses custos futuros. Estima-se que a manutenção represente cerca
+de 4% do valor da implantação por ano, sendo realizada pelas empresas contratadas ou por servidores da Diretoria de Tecnologia e
+Sistemas de Informação. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 4
+No contexto do ensino, a sustentabilidade do programa pela Secretaria de Educação dependerá do Plano de Gestão projetado nessa
+operação. Permitirá uma análise aprofundada das metodologias empregadas no ensino digital e uma melhor utilização dos equipamentos
+adquiridos. Isso é essencial para o sucesso desta política pública devido à rápida obsolescência dos bens tecnológicos que poderá
+impactar na gestão de recursos futuros. 
+A digitalização dos serviços por meio de plataformas digitais visa ampliar o acesso e, ao mesmo tempo, minimizar o desperdício de
+recursos. Nesse sentido, os sistemas de informação inovadores fortalecem a eficiência da administração a um custo baixo de gestão,
+cerca de 6 milhões de reais por ano (0,31% do orçamento municipal).
+Por fim, com o PDTCI como guia para as políticas de cidade inteligente, integrando inteligência e eficiência nas soluções tecnológicas
+propostas, espera-se que os custos sejam totalmente suportados e, em alguns casos, até reduzidos. Além disso, existem benefícios
+intangíveis, como a transparência nas decisões e o uso das ferramentas disponíveis para proporcionar a entrega de serviços públicos de
+qualidade.
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+ORIENTAÇÕES ESTRATÉGICAS
+Tais iniciativas e investimentos, entre outros, são ancorados na Lei Municipal nº 8.752, de 16 de dezembro de 2021, que estabeleceu
+medidas de incentivo à inovação na Administração Pública e nos ambientes empresarial, acadêmico e social, e no Decreto nº 22.247, de
+10 de outubro de 2022, que estabeleceu medidas de modernização da Administração Pública e criou o Programa de Inovação para a
+Modernização da Administração Pública ? Gov.Lab.
+Além destes, foram considerados como referências/orientações estratégicas os seguintes documentos:
+- O Plano Plurianual 2022-2025 de Caxias do Sul, instituído pela Lei Municipal nº 8.664, de 30 de junho de 2021(Anexos I e II); 
+- O Plano Diretor de Desenvolvimento Integrado - PDDI do Município de Caxias do Sul, instituído pela Lei Complementar nº 589, de 19 de
+novembro de 2019 (Anexo III);
+- O Plano Municipal de Educação ? PME de Caxias do Sul, instituído pela Lei Municipal nº 7.947, de 19 de junho de 2015 (Anexo IV);
+- O Plano Municipal de Gestão Integrada de Resíduos Sólidos ? PMGIRS de Caxias do Sul, instituído pela Lei Municipal nº 8.183, de 21 de
+ dezembro de 2016 (Anexo V);
+- O Plano Municipal de Cultura ? PMC de Caxias do Sul, instituído pela Lei Municipal nº 8.746, de 16 de dezembro de 2021 (Anexo VI);
+- O Decreto nº 22.746, de 27 de setembro de 2023, que instituiu o Sandbox (ambiente regulatório experimental) do Município de Caxias do
+ Sul (Anexo VII);
+- O Decreto nº 21.772, de 21 de outubro de 2021, que instituiu o trabalho de indicadores associados às ISO 37120; 371222; 37123 no
+Escritório de Dados e Gerenciamento de Projetos no Município de Caxias do Sul (Anexo VIII);
+- O Plano Municipal de Turismo de Caxias do Sul, instituído pela Lei Municipal nº 8.736, de 1º de dezembro de 2021 (Anexo IX));
+- O Plano Diretor de Transportes e Mobilidade Urbana (Planmob) de Caxias do Sul, instituído pela Lei Municipal nº 9.076, de 26 de
+dezembro de 2023 (Anexo X).
+
+CONTRAPARTIDA
+Quanto aos recursos orçamentários e de contrapartida do financiamento, serão ajustados e incluídos por meio de lei específica, após
+recomendação da COFIEX. Dessa forma, o município formula a presente Carta Consulta prevendo investimentos de US$ 50.000.000,00 (
+cinquenta milhões dólares norte-americanos), a serem aplicados no âmbito do PRODIGITAL, sendo 80% (oitenta por cento) financiados e
+20% (vinte por cento) de contrapartida.
+Os recursos de contrapartida do município correspondem a 20% do total do Programa, no período proposto de 05 anos de execução. A
+contrapartida será aportada com recursos provenientes de receitas tributárias previstas nos artigos 156, 158 e 159, inciso I, (b), da
+Constituição Federal, conforme disposto na Resolução nº 3, de 29 de maio de 2019 ? COFIEX.
+
+TAXA DE CÂMBIO
+Considerado, na formulação desta carta consulta, o câmbio de 4,8407 reais por dólar, data-base 29/12/2023, conforme dados do Banco
+Central do Brasil.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 5
+2. Projeto
+2.1. Título
+Programa de Transformação Digital e Cidade Inteligente de Caxias do Sul - PRODIGITAL Caxias do Sul
+2.2. Título Abreviado
+PRODIGITAL CAXIAS DO SUL
+2.3. Mutuário
+Município de Caxias do Sul - RS
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+OBJETIVO GERAL
+As ações do PRODIGITAL CAXIAS DO SUL destinam-se a acelerar o processo de transformação digital no município, impulsionando o
+desenvolvimento sustentável por meio da inovação e das TICs, sob os preceitos de Cidade Inteligente, impactando na melhoria dos
+serviços públicos prestados aos cidadãos.
+
+OBJETIVOS ESPECÍFICOS
+(i) Expandir as capacidades de monitoramento do território por meio do uso de tecnologias; [Indicadores 01, 02, 03, 04]
+(ii) Aumentar a eficiência e eficácia do governo municipal na resolução de desafios da cidade mediante modelos inovadores de políticas
+públicas; [Indicador 05]
+(iii) Oferecer conectividade adequada para a prestação de serviços, gestão, monitoramento e sustentabilidade do território; [Indicadores 06
+, 07]
+(iv) Melhorar a qualidade do ensino municipal por meio do uso de tecnologias, inclusão digital e capacitação de professores; [Indicador 08]
+(v) Garantir um acesso inclusivo e eficiente a serviços municipais por meio de seu redesenho e digitalização; [Indicadores 08, 09]
+(vi) Fomentar a colaboração público-privada para o desenvolvimento econômico do município mediante a criação de um novo centro de
+inovação; [Indicador 10]
+(vii) Construir planos e diretrizes orientados à promoção de uma cidade sustentável, resiliente e inteligente.
+
+2.6. Projeto/Indicadores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 6
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Indicador 01: Porcentagem da área da cidade
+coberta por câmeras de vigilância digital (ABNT
+NBR ISO 37122:2020 ? 15.1). Linha de base
+2023. Meta 2029. Fonte: SMSPPS
+Área territorial da
+cidade coberta por
+câmeras de vigilância
+digital dividida pela
+área total da cidade.
+Resultado multiplicado
+por 100 e expresso
+em porcentagem.
+Considera-se o
+território da área
+urbana central.
+Porcentagem do
+território
+0,04
+3,50
+Indicador 02: Tempo de resposta dos serviços
+de emergência a partir do primeiro chamado (
+ABNT NBR ISO 37120:2021 ? 15.7). Linha de
+base 2023. Meta 2029. Fonte: SAMU/SMS
+Tempo decorrido do
+chamado inicial de
+socorro até o
+momento de chegada
+de equipe no local em
+minutos, somados no
+ano e dividido pelo
+número de
+atendimentos anual.
+Considera-se o
+serviço de
+atendimento SAMU.
+minutos
+15,11
+10,00
+Indicador 03: Tempo médio de resposta a
+chamados realizados por meio de sistema de
+chamados não emergenciais da cidade (dias) (
+ABNT NBR ISO 37122:2020 ? 10.3). Linha de
+base 2023. Meta 2029. Fonte: SMRHL
+Número total de dias
+da submissão do
+chamado de
+demandas, dividido
+pelo total de
+chamados recebidos
+pelo sistema não
+emergencial da cidade
+. Dividido por 24 horas
+e expresso em tempo
+médio em dias.
+Considera-se a média
+dos 6 serviços mais
+solicitados no sistema
+Alô Caxias.
+dias
+50,69
+40,00
+Indicador 04: Porcentagem da população da
+cidade com acesso a sistemas de alertas
+públicos em tempo real sobre condições de
+qualidade do ar e da água (ABNT NBR ISO
+37122:2020 - 11.3). Linha de base 2023. Meta
+2029. Fonte: SEMMA
+Número de pessoas
+com acesso a
+sistemas de alerta
+público em tempo real
+para avisos de
+qualidade do ar e
+água dividido pela
+população total da
+cidade. Multiplicado
+por 100 e expresso
+em porcentagem.
+porcentagem de
+habitantes
+0,00
+30,00
+Indicador 05: Número de soluções inovadoras
+testadas pelo município resultantes do modelo
+experimental (Indicador Interno). Linha de base
+2023. Meta 2029.  Fonte: SDEI
+Quantidade absoluta
+de soluções
+inovadoras
+cadastradas e
+testadas junto ao
+município para atuar
+nas áreas de Sandbox
+.
+soluções testadas
+1,00
+8,00
+Indicador 06: Porcentagem dos edifícios públicos
+cobertos por conectividade lógica (Indicador
+Interno). Linha de base 2023. Meta 2029.  Fonte:
+ SMRHL
+Número total de
+edifícios públicos com
+conectividade lógica,
+dividido pelo total de
+edifícios públicos do
+município. Resultado
+multiplicado por 100 e
+expresso em
+porcentagem.
+porcentagem de
+edifícios
+70,95
+92,85
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 7
+Indicador 07: Porcentagem de escolas cobertos
+por conectividade Wi-fi fornecida pelo município
+para os todos os segmentos (Indicador Interno).
+Linha de base 2023. Meta 2029.  Fonte: SMRHL/
+SMED
+Número total de
+escolas municipais
+com conectividade Wi-
+fi para todos os
+segmentos (alunos,
+professores,
+trabalhadores não
+docentes,
+responsáveis),
+dividido pelo total de
+escolas de ensino
+fundamental do
+município (83).
+Resultado multiplicado
+por 100 e expresso
+em porcentagem.
+porcentagem de
+escolas
+0,00
+100,00
+Indicador 08: Porcentagem de alunos da rede de
+ensino que dispõem de acesso à aprendizagem
+digital (Indicador Interno). Linha de base 2023.
+Meta 2029.  Fonte: SMED
+Número de alunos
+que dispõe de
+aprendizagem digital (
+dispositivos), dividido
+pelo total de alunos da
+rede pública de
+ensino. Resultado
+multiplicado por 100 e
+expresso em
+porcentagem.
+porcentagem de
+alunos
+6,48
+10,00
+Indicador 09: Porcentagem de serviços urbanos
+acessíveis e que podem ser solicitados online (
+ABNT NBR ISO 37122:2020 ? 10.2). Linha de
+base 2023. Meta 2029.  Fonte: SMRHL
+Número total de
+serviços urbanos
+oferecidos online,
+dividido pelo número
+total de serviços
+urbanos oferecidos.
+Resultado multiplicado
+por 100 e expresso
+em porcentagem.
+porcentagem de
+serviços
+18,07
+90,00
+Indicador 10: Ações realizadas com o intuito de
+desenvolver atividades voltadas à inovação.
+Linha de base 2023. Meta 2029.  Fonte: SDEI
+Quantidade absoluta
+de ações realizadas
+pelo município que
+estejam categorizadas
+como eventos, cursos
+ e parcerias.
+ações realizadas
+17,00
+50,00
+2.7. Projeto/Componentes
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 8
+Componentes
+Valor(US$)
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+47.810.000,00
+   S - MONITORAMENTO E FISCALIZAÇÃO DE ÁREAS PÚBLICAS
+18.800.000,00
+      P - Expansão do Monitoramento Municipal
+11.300.000,00
+      P - Implantação do Observatório da Cidade Inteligente
+4.100.000,00
+      P - Implantação da Malha de Sensores Conectados
+3.000.000,00
+      P - Plano da Malha de sensores e equipamentos conectados
+400.000,00
+   S - MODELO EXPERIMENTAL DE GESTÃO DE POLÍTICAS PÚBLICAS
+7.600.000,00
+      P - Modelo Experimental de Gestão de Políticas Públicas
+7.600.000,00
+   S - CONECTIVIDADE
+3.700.000,00
+      P - Expansão da Conexão por Rede Lógica Municipal
+2.200.000,00
+      P - Requalificação e Expansão da Conectividade Wi-Fi Municipal
+1.500.000,00
+   S - MODERNIZAÇÃO DAS ESCOLAS MUNICIPAIS
+7.400.000,00
+      P - Plano de Gestão da Digitalização do Ensino
+400.000,00
+P - Formação Continuada dos Profissionais com fornecimento de equipamentos eletrônicos à Rede Pública
+Municipal de Ensino
+7.000.000,00
+   S - DIGITALIZAÇÃO DE SERVIÇOS MUNICIPAIS
+4.510.000,00
+      P - Modelo de Gestão da Digitalização
+410.000,00
+      P - Desenvolvimento da Plataforma de Serviços
+1.000.000,00
+      P - Digitalização de Serviços ao Cidadão
+3.100.000,00
+   S - CENTRO DE INOVAÇÃO DE CAXIAS DO SUL
+5.800.000,00
+      P - Restauro e Requalificação do Complexo Maesa
+3.600.000,00
+      P - Implantação do Centro de Inovação de Caxias do Sul
+2.200.000,00
+C - ESTUDOS, PLANOS E PROJETOS
+1.500.000,00
+      P - Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI)
+600.000,00
+      P - Plano de Ação Climática
+490.000,00
+      P - Plano de Gestão Inteligente de Resíduos Sólidos
+410.000,00
+C - GESTÃO DO PROGRAMA
+300.000,00
+      P - Apoio a Gestão do Programa
+200.000,00
+      P - Auditoria Externa
+100.000,00
+C - OUTROS GASTOS
+390.000,00
+      P - Comissão de Financiamento
+340.000,00
+      P - Avaliação do Programa
+50.000,00
+Total dos Componentes
+50.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+O município realizou abrangente diagnóstico, a partir do qual foram vislumbrados os principais gargalos, desafios e oportunidades
+de transformação digital com vistas a melhorar a disponibilização dos serviços públicos, a segurança, a acessibilidade, a igualdade
+e a sustentabilidade da cidade.
+Conforme a norma ABNT NBR ISO 37122:2020, a Cidade Inteligente (Smart City) caracteriza-se pelo emprego de dados e TICs
+para incrementar qualidade nos serviços, potencializando, a partir da transformação digital, seus resultados de sustentabilidade
+social, econômica e ambiental, e respondendo a desafios relacionados a mudanças climáticas, rápido crescimento populacional e
+instabilidades de ordem política e econômica, agora e no futuro previsível, sem desvantagens injustas ou degradação do ambiente
+natural.
+Os subcomponentes a seguir apresentados contemplam, assim, as necessidades prioritárias de investimentos identificadas para a
+aceleração da transformação digital da Cidade Inteligente de Caxias do Sul. Projeta-se, a partir da execução dos investimentos,
+relevantes impactos nos indicadores de inteligência e sustentabilidade, potencializando a transformação digital nos setores e
+serviços prioritários que abrangem o programa.
+   S - MONITORAMENTO E FISCALIZAÇÃO DE ÁREAS PÚBLICAS
+Em outubro de 2023, foi inaugurado o CIOp do município, bem como o sistema de cercamento eletrônico e a ampliação e
+atualização do sistema de monitoramento urbano, realocando o atendimento do sistema 190 da Brigada Militar e seus despachos
+de viaturas e ampliando a central de atendimento 153 da Guarda Municipal, a central de monitoramento de alarmes do município e
+o espaço destinado ao despacho de viaturas da Fiscalização de Trânsito.
+Para tanto, houve a contratação de empresa especializada, com expertise na implementação de sistemas de monitoramento
+urbano e cercamento eletrônico com a utilização de câmeras e demais equipamentos. A partir disso, o município, em conjunto com
+as demais forças de segurança pública, vem proporcionando mais segurança e bem-estar social à população. Entretanto,
+incrementos de inteligência na análise de imagens e dados provenientes do sistema de segurança são necessários, com vistas a
+assegurar a eficácia e eficiência do serviço.
+O presente subcomponente de transformação digital, portanto, objetiva a requalificação e expansão do sistema de monitoramento
+e fiscalização de áreas públicas, ampliando-se o número de equipamentos e aprimorando-se as tecnologias e ferramentas
+empregadas na análise e geração de alertas aos órgãos de segurança pública e resiliência da cidade.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 9
+Diante dos desafios apresentados pela rápida expansão e complexidade socioeconômica de Caxias do Sul, a resiliência da cidade
+torna-se um pilar essencial na busca por uma transformação digital abrangente. A modernização do sistema de monitoramento e
+fiscalização de áreas públicas, integrada às TICs, não apenas fortalece a segurança urbana, mas também promove a resiliência da
+comunidade diante de potenciais crises. A ampliação do número de pontos de controle, aliada ao aprimoramento da análise de
+imagens e dados, reflete o compromisso em adaptar-se proativamente às demandas em constante evolução. 
+A resiliência da cidade não se limita apenas à segurança, mas também abrange a capacidade de se adaptar e se recuperar diante
+de desafios socioambientais, consolidando uma cidade preparada para enfrentar e superar as complexidades contemporâneas.
+Este subcomponente de transformação digital não só visa à segurança, mas também à construção de uma base resiliente, que
+considere o contexto atual de mudanças climáticas, e que sustente o bem-estar social e o desenvolvimento sustentável da
+comunidade.
+      P - Expansão do Monitoramento Municipal
+Para que o serviço de monitoramento e fiscalização proporcione respostas adequadas, faz-se necessária uma cobertura
+monitorada dos principais acessos e pontos críticos, definidos pelos órgãos de segurança pública, a fim de permitir o
+gerenciamento informatizado da movimentação de veículos e pessoas nestes locais, gerando-se as informações e os dados
+qualificados para melhor gestão dos serviços de segurança pública, guarda escolar, solução de crimes, entre outros.
+Além disto, todas as escolas e prédios públicos deverão contar com monitoramento de seu entorno de forma preventiva, o que se
+garantirá por meio da expansão e requalificação do sistema. São aproximadamente 250 (duzentos e cinquenta) prédios públicos,
+entre escolas, unidades de saúde, prédios administrativos, almoxarifados, entre outros, todos essenciais ao serviço público, com
+patrimônio de valor significativo na estrutura do município e que, portanto, necessitam de segurança preventiva sistemática, para
+evitar que atos criminosos resultem na interrupção de serviços essenciais. A implantação do monitoramento no entorno das
+escolas será uma complementação do monitoramento humanizado hoje desenvolvido pela guarda municipal, a qual participa
+preventivamente e de forma integrada à comunidade escolar. Assim, além da prevenção, o monitoramento agregará a resposta
+rápida para garantir a efetividade de suas ações na proteção dos estudantes do município.
+Já em parques e praças, além da importância do valor histórico e cultural que muitas dessas áreas possuem, por vezes,
+irrecuperável quando objeto de furtos ou danos,  a instalação de sistemas eletrônicos de segurança e monitoramento também é
+fundamental para encorajar o uso das áreas pela população. Tais ações trazem segurança para aumentar o uso das praças e
+parques já existentes e também diminuem a resistência de moradores quanto à implantação de novas áreas de lazer, muitas vezes
+ por medo de usos indevidos das mesmas.
+Assim, haverá uma ampliação dos pontos de monitoramento e equipamentos do atual Centro Integrado de Operações ? CIOp, que
+controla, atualmente, 275 (duzentos e setenta e cinco) pontos de videomonitoramento eletrônico nas ruas da cidade. São
+necessários novos 5.500 (cinco mil e quinhentos) pontos para que o sistema seja, efetivamente, capaz de produzir dados e
+respostas rápidas para segurança do cidadão.
+O escopo deste produto, assim, consiste na:
+1. Aquisição e operacionalização de 2.000 (duas mil) câmeras de videomonitoramento para pontos de interesse municipal;
+2. Aquisição e operacionalização de 3.500 (três mil e quinhentas) câmeras de videomonitoramento para escolas, creches e demais
+equipamentos públicos municipais;
+3. Ampliação da Plataforma de Gestão Integrada do Centro de Controle;
+4. Implantação de Sistemas de Vídeo Analítico e Reconhecimento Avançado Analítico;
+5. Implantação de Infraestrutura, Rede Lógica, Rede Elétrica e investimentos acessórios para operacionalização dos novos pontos;
+6. Serviços Profissionais de Instalação, Implantação, Consultoria de Processos, Treinamento, Garantia, Suporte Técnico e
+Manutenção Preventiva.
+Resultados Esperados
+1. Requalificar o sistema de videomonitoramento municipal, ampliando-se seu espectro de cobertura e aprimorando-se a
+inteligência, ferramentas e analíticos empregados pelo Centro Integrado de Operações ? CIOp;
+2. Capacitar os profissionais atuantes no Centro Integrado de Operações ? CIOp para operação de novas ferramentas
+implementadas.
+Impactos Ambientais e Sociais Esperados
+1. Reduzir a violência urbana, especialmente contra mulheres, crianças e comunidade LGBTQIA+, inibindo-se o cometimento de
+crimes e atos de vandalismo nas vias e espaços públicos;
+2. Reduzir o tempo de resposta dos órgãos de segurança a eventos que demandem atendimento, inclusive preventivo;
+3. Contribuir às autoridades policiais e judiciárias na solução de crimes e contravenções, por meio de inteligência, identificando-se
+a autoria e instruindo-se o respectivo processo com provas oriundas do Centro Integrado de Operações ? CIOp, consolidando-se o
+papel municipal de provedor de inteligência aos órgãos de investigação;
+4. Contribuir para a resiliência urbana, no âmbito do controle das mudanças climáticas, riscos ambientais e defesa civil. 
+Metas de Desempenho
+1. Adquirir e operacionalizar novas 5.500 (cinco mil e quinhentas) câmeras de videomonitoramento municipal, destinadas a pontos
+de interesse municipal, escolas e demais equipamentos públicos municipais;
+2. Ampliar a Plataforma de Gestão Integrada do Centro Integrado de Operações ? CIOp;
+3. Implementar novos Sistemas de Vídeo Analítico e Reconhecimento Avançado Analítico para detecção de eventos e geração de
+alertas automáticos;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 10
+      P - Implantação do Observatório da Cidade Inteligente
+A expansão do número de pontos de monitoramento, dispositivos de sensoriamento de equipamentos públicos, sensores
+conectados, monitoramento de riscos ambientais e novas aplicações digitais voltadas ao cidadão, a serem desenvolvidos nos
+próximos anos pela cidade - especialmente a partir dos recursos oriundos desta operação - exigirá o replanejamento e significativa
+expansão da capacidade de análise e tomada de decisões municipais, relativamente aos setores objeto da transformação digital
+buscada.
+Atualmente, como visto no subcomponente anterior, a infraestrutura de monitoramento e gestão de serviços municipais é focada
+unicamente no setor de segurança pública, o que representaria gargalos quando da operacionalização dos novos serviços
+inteligentes relacionados à gestão de resíduos, abastecimento de água, esgotamento sanitário, iluminação pública, mobilidade
+urbana, gerenciamento de riscos ambientais, etc. Assim, de modo a viabilizar a adequada gestão e condução dos projetos e
+iniciativas de transformação digital e cidade inteligente, será projetado e implantado o Observatório da Cidade Inteligente,
+equipamento que receberá múltiplas atribuições, todas inter-relacionadas e derivadas das demandas da cidade.
+O Observatório deverá ser estruturado fisicamente em prédio público municipal, preferencialmente na sede administrativa, e terá,
+como principais missões, entre outras:
+(i) Governança da Cidade Inteligente: o novo Observatório sediará as atividades dos Conselhos e Comitês consultivos e
+deliberativos da cidade inteligente, cujas atribuições serão detalhadas e definidas no âmbito do PDTCI, conforme detalhado mais
+adiante;
+(ii) Monitoramento de Indicadores ISO/ABNT vinculados aos Projetos da Cidade Inteligente: o novo Observatório receberá espaço
+dedicado exclusivamente ao acompanhamento sistemático, pelos servidores municipais, dos indicadores oficiais previstos nas
+normas ISO/ABNT aplicáveis e em outros documentos de referência setoriais, viabilizando a mensuração contínua da efetividade e
+ impacto dos projetos em execução;
+(iii) Cocriação de Iniciativas e Projetos: as Gerências Setoriais do Observatório atuarão na cocriação e modelagem de iniciativas
+definidas como prioritárias no plano de cidade inteligente. Estando em ambiente compartilhado, com pleno acesso a insights
+provenientes do DataLAB, as Gerências estarão cercadas das melhores condições para a elaboração de projetos disruptivos, e
+que promovam a abertura dos silos da Administração Municipal;
+(iv) Comando e Controle Centralizado de Serviços Urbanos: determinados órgãos e entidades da Prefeitura de Caxias do Sul que
+operam serviços urbanos críticos, a exemplo de segurança, mobilidade, iluminação, água, esgoto e coleta de resíduos sólidos,
+poderão migrar suas posições de comando e controle para o Observatório, se assim vislumbrarem conveniente e oportuno. Tais
+ajustes deverão ser formalizados entre as unidades e a estrutura de acompanhamento do PRODIGITAL, como descrito mais
+adiante;
+(v) DataLAB: O Observatório da Cidade Inteligente consistirá em um laboratório de dados (DataLAB) da Cidade Inteligente, onde
+dados são coletados, analisados e interpretados possibilitando a orientação para as tomadas de decisões baseadas em dados.
+Esse ambiente fortalecerá o governo orientado por dados  (data-driven government) a partir do grande volume de dados tratados e
+disponibilizados ao gestor.
+O município elaborará, em primeiro momento, o plano de necessidades do Observatório, e, no âmbito do programa, contratará, os
+projetos executivos, obras, intervenções e aquisições para operacionalização dos diversos ambientes planejados para o
+equipamento público.
+Resultados Esperados
+1. Implantar o Observatório da Cidade Inteligente de Caxias do Sul, destinado a múltiplas Secretarias e entidades da Administração
+ Municipal, expandindo-se a capacidade de monitoramento e tomada de decisões municipais;
+2. Unificar os centros de controle setoriais em única estrutura, contribuindo à integração de serviços, governança e qualidade da
+tomada de decisão pública.
+Impactos Ambientais e Sociais Esperados
+1. Melhorar a qualidade dos serviços públicos prestados à população caxiense, por meio de decisões mais rápidas e precisas,
+impactando nos sistemas de mobilidade, segurança, saneamento, gestão de resíduos e diversos outros;
+2. Contribuir para melhorar a qualidade dos serviços públicos, promover a sustentabilidade e impulsionar o progresso nas áreas de
+educação, saúde, inclusão social, entre outros.
+Metas de Desempenho
+1. Desenvolver o plano e os projetos executivos de arquitetura e complementares para implantação do novo Observatório da
+Cidade Inteligente de Caxias do Sul;
+2. Implantar o novo Observatório da Cidade Inteligente de Caxias do Sul, expandindo-se a capacidade de monitoramento e tomada
+ de decisões municipais.
+      P - Implantação da Malha de Sensores Conectados
+É notório que o adequado manejo, pelo Poder Público, dos dados gerados na prestação de serviços públicos, por meio de coleta
+eficiente, planejamento, monitoramento e emprego de inteligência em seu processamento, permite a tomada de decisões mais
+acertadas, orientada por evidências, seja na gestão dos eventos diários dos sistemas municipais (de mobilidade, saneamento,
+iluminação, entre outros), seja na concepção e permanente avaliação e revisão das políticas públicas postas à execução.
+Pesquisas recentes reconhecem os dados como um ativo para a geração de valor social e econômico, indicando que poderia haver
+uma redução de 15% (quinze por cento) no custo dos serviços de infraestrutura graças ao melhor uso de dados e tecnologias
+digitais, e que isso poderia elevar o PIB da América Latina e do Caribe em 6% (seis por cento) em 10 anos (BID, 2020).
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 11
+Em parceria com o City Living Lab ? instituição ligada à Universidade de Caxias do Sul (UCS) ?, a Municipalidade da cidade vem
+desenvolvendo o ?Sistema de Coleta de Dados por Dispositivos IoT para Cidades Inteligentes?, que busca ampliar a malha de
+sensores e identificar novos usos e aplicações urbanas para a Internet das Coisas (IoT). De modo a potencializar a política pública
+e acelerar seus resultados de sustentabilidade, pretende-se, a partir desta operação, requalificar e ampliar substancialmente a
+malha de sensores conectados empregados no serviço público e monitoramento do território, de modo que poderá abranger, entre
+outros:
+- os serviços de segurança e fiscalização de espaços públicos, detectando-se atividades suspeitas ou emergências e alertando as
+autoridades;
+- os serviços de monitoramento ambiental, monitorando-se a qualidade do ar e da água, e gerando dados essenciais à saúde
+pública e para a tomada de decisões acerca das políticas ambientais;
+- os serviços de monitoramento e resposta às mudanças climáticas, com sensores de movimentação de solo e nível da água em
+pontos estratégicos;
+- os serviços de gestão de resíduos, com sensores aplicados aos contêineres de lixo, otimizando-se as rotas de coleta e reduzindo
+a frequência desnecessária de coletas, o que pode levar a economias logísticas significativas;
+- os serviços de iluminação pública, por meio da telegestão das luminárias e controle remoto dos serviços associados à iluminação
+pública;
+- os serviços de gerenciamento de tráfego e transporte público, monitorando-se as condições de tráfego em tempo real, gerando-se
+os inputs para a orquestração dos semáforos e das rotas de transporte público, resultando em diminuição do congestionamento e
+em tempos de viagem mais curtos.
+Este produto do componente, assim, abrangerá a realização dos projetos e a aquisição, instalação e operacionalização da nova
+malha de sensores, concentradores e sensores conectados voltados à gestão de serviços e utilidades municipais, operados e
+monitorados pela Municipalidade, principalmente no CIOp e no Observatório, e em parceria com a academia, por meio do projeto
+em curso.
+Resultados Esperados
+1. Incrementar a capacidade de monitoramento de serviços e utilidades municipais, por meio da expansão da malha de sensores
+conectados do Município;
+2. Promover eficiência na prestação de serviços públicos e operação da cidade, monitorando-se em tempo real os eventos de
+interesse da gestão e permitindo-se a atuação remota;
+Impactos Ambientais e Sociais Esperados
+1. Majorar a qualidade dos serviços públicos, otimizando o uso de recursos, por meio de decisões públicas mais rápidas e precisas,
+impactando na infraestrutura, principalmente nos sistemas de mobilidade, segurança, saneamento, gestão de resíduos, desastres
+naturais, entre outros.
+2. Contribuir significativamente para redução dos efeitos da crise climática, auxiliar na gestão sustentável de recursos naturais, solo
+ e biodiversidade;
+3. Promover a sustentabilidade e impulsionar o progresso nas áreas de educação, saúde, inclusão social, entre outros, voltados à
+comunidade. 
+Metas de Desempenho
+1. Implementar, pelo menos, 10 (dez) projetos de sensores conectados (IoT) aplicada à gestão de serviços municipais e à
+resolução de problemas públicos relevantes;
+2. Ampliar a malha de sensores conectados (IoT) do município;
+3. Promover a avaliação sistemática de resultados dos projetos de sensores conectados implementados, aplicada à gestão de
+serviços municipais e à resolução de problemas públicos relevantes.
+      P - Plano da Malha de sensores e equipamentos conectados
+À medida que Caxias do Sul avança nos últimos anos na implementação de dispositivos e na promoção da conectividade e
+integração no ambiente urbano, surge a necessidade de um planejamento estratégico mais robusto para acelerar os resultados de
+sustentabilidade almejados. Previamente à implantação dos sensores conectados, é importante realizar um planejamento
+adequado da infraestrutura de conectividade e da própria malha de sensores. Isso garantirá que os projetos instalados atendam às
+necessidades estratégicas da cidade inteligente, refletindo assim a visão de um desenvolvimento urbano sustentável e eficiente.
+Resultados Esperados
+1. Elaborar o Plano da Malha de sensores e equipamentos conectados de Caxias do Sul;
+2. Estruturar os projetos de implantação de sensores de acordo com as principais necessidades da população.
+Impactos Ambientais e Sociais Esperados
+1. Otimizar o uso de recursos, possibilitando que o adequado planejamento da malha de sensores impacte positivamente na
+infraestrutura de segurança, saneamento, gestão de resíduos, desastres naturais, entre outros;
+2. Promover a sustentabilidade e impulsionar o progresso da inteligência e resiliência da cidade por meio de sistemas conectados. 
+3. Garantir a segurança da população no que tange a mudanças climáticas e resiliência urbana.
+Metas de Desempenho
+1. Implementar, 01 (um) Plano da Malha de Sensores conectados (IoT) aplicada à gestão de serviços municipais e à resolução de
+problemas públicos relevantes;
+2. Ampliar a malha de sensores conectados (IoT) do município de forma sistêmica e otimizada;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 12
+   S - MODELO EXPERIMENTAL DE GESTÃO DE POLÍTICAS PÚBLICAS
+A cidade de Caxias do Sul encontra-se hoje como um município estratégico para o desenvolvimento local e regional do Rio Grande
+do Sul. Temas como Smart Cities, Inovação, Sustentabilidade, Mobilidade e Desenvolvimentos de Ecossistemas estão na agenda
+das políticas públicas municipais, fomentando um ambiente que engloba dimensões sociais e tecnológicas simultaneamente. 
+Uma das grandes conquistas do Marco Legal das Startups e do Empreendedorismo Inovador (Lei Complementar Federal nº 182/21
+) consistiu na instituição do denominado ambiente regulatório experimental, ou ?Sandbox regulatório?. Trata-se, em síntese, da
+possibilidade de concessão de autorização temporária, por parte dos órgãos e entidades com capacidade de regulamentação
+setorial, para que startups e empresas de base tecnológica e inovadora experimentem e performem seus produtos e serviços,
+ainda que em estágio anterior à sua regulamentação, mediante o cumprimento de critérios e limites previamente estabelecidos e
+procedimento facilitado, com condições especiais simplificadas.
+Em Caxias do Sul, os ambientes regulatórios experimentais (Sandbox) foram regulamentados pelo recente Decreto nº 22.746, de
+27 de setembro de 2023, que estabeleceu as bases do programa e o regramento para desenvolvimento das experimentações de
+soluções urbanas inovadoras, com os objetivos de fomentar a inovação no município, através da realização e acompanhamento de
+testes inovadores, orientar sobre questões regulatórias durante o desenvolvimento das experimentações, aumentar a eficiência e
+diminuir os custos e tempo de validação dos negócios inovadores, promover a segurança jurídica necessária à maior atratividade
+de capital investidor para os projetos de inovação.
+      P - Modelo Experimental de Gestão de Políticas Públicas
+Considerando a recente implementação dos ambientes regulatórios experimentais (Sandbox) do Município, pretende-se colocar à
+experimentação da sociedade novos modelos de gestão de diversas políticas, como por exemplo a problemática relacionada à
+gestão dos resíduos sólidos, entre outras, incorporando-se novas TICs que eficientizem e agreguem qualidade ao serviço público,
+e cuja aplicabilidade à realidade da cidade seja testada antes de sua eventual expansão a todo território urbano.
+O modelo gestão experimental será desenvolvido e gerenciado pelo município juntamente com servidores, comunidade, startups e
+instituições de ensino superior construindo a política pública de forma criativa, viável e inovadora. Será projetado para desenvolver
+interações, processos e ferramentas que contribuam para trazer inovação na formulação das políticas públicas.
+É importante destacar que o objetivo é melhorar a eficácia, a eficiência e o impacto das políticas públicas, gerando lições aplicadas
+e abordagens inovadoras implementadas na prática. Além disso, desenvolverá e implementará soluções baseadas em evidências,
+por meio da colaboração com agências governamentais, organizações da sociedade civil e outras partes interessadas, reunindo
+especialistas de diversos campos, utilizando uma multiplicidade de métodos de pesquisa, como o design experimental, simulações
+e estudos de caso, para testar e refinar intervenções em desafios complexos.
+Assim, pretende-se adotar procedimento de chamamento público a ser proposto e divulgado por meio dos canais oficiais da gestão
+pública, para selecionar participantes ao Programa Sandbox Caxias. O procedimento de chamamento público está delineado no
+artigo 13 do Decreto nº 22.746/2023, no entanto, carece de aprofundamento e aperfeiçoamento para alcançar os objetivos
+desejados e engajar o público com conhecimento e capacidade tecnológica, disposto a contribuir nesse desafio de inovação aberta
+.
+Resultados Esperados
+1. Experimentar e extrair evidências da experimentação de soluções inovadoras destinadas a agregar eficiência a gestão de
+políticas públicas;
+2. Proporcionar, a partir dos resultados das experimentações, a rediscussão e o replanejamento das metas e iniciativas a gestão
+de cada temática no município, visando a sua transformação digital;
+3. Proporcionar a coleta de dados para tomada de decisão, subsidiando a coleta de informações quali e quantitativas, indicadores
+de melhorias, etc.
+4. Estabelecer a gestão do conhecimento na criação de políticas públicas por meio de inovação aberta;
+Impactos Ambientais e Sociais Esperados
+1. Estímulo à pesquisa e desenvolvimento de políticas que promovam práticas sustentáveis e tecnologias verdes, contribuindo para
+ a redução das emissões de poluentes, a mitigação das mudanças climáticas e dos desastres naturais;
+2. Experimentação de iniciativas que estimulem o emprego, o empreendedorismo e o desenvolvimento econômico sustentável,
+especialmente os voltados aos desafios enfrentados pela comunidades local;
+3. Estímulo à participação ativa dos cidadãos no processo de formulação de políticas públicas, promovendo a democracia
+participativa e a transparência governamental, através da demonstração de uma abordagem responsiva e baseada em evidências
+para a tomada de decisões.
+Metas de Desempenho
+1. Selecionar e contratar pelo menos 08 (oito) startups para teste de soluções inovadoras aplicáveis à gestão de resíduos no
+município;
+2. Proporcionar aos operadores e gestores relatórios de desempenho das experimentações conduzidas em Sandbox, subsidiando
+soluções para problemas públicos no município de Caxias do Sul.
+3. Capacitar servidores das diversas secretarias no método de criação de políticas públicas por meio de inovação aberta, a partir
+dos relatórios e lições aprendidas no projeto piloto.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 13
+   S - CONECTIVIDADE
+A implementação e expansão sustentável de serviços inteligentes depende, cada vez mais, da disponibilidade de infraestruturas de
+TICs robustas, capazes de dar suporte às diversas iniciativas multissetoriais conduzidas por cada órgão e entidade da
+Administração Municipal. Nesse sentido, a normalização ISO/ABNT para cidades inteligentes é expressa ao recomendar, como
+instrumento para o desenvolvimento de projetos mais eficientes e efetivos, o modelo de ?infraestruturas inteligentes da
+comunidade?, com base na integração de redes e dispositivos, promovendo-se a progressiva abertura dos silos da organização
+municipal.
+Nos termos das normas ABNT NBR ISO 37100:2017 e ABNT NBR ISO 37106:2020, a implementação de projetos multissetoriais
+para a Smart City deve, necessariamente, ancorar-se em infraestruturas planejadas e projetadas para o todo, e que permitam a
+formação de uma camada de comunicação e governança integrada de todas as áreas, baseada no gerenciamento de serviços
+centrado no cidadão, gestão estratégica da cidade e de recursos físicos e digitais.
+      P - Expansão da Conexão por Rede Lógica Municipal
+Considera-se a fibra óptica a tecnologia ideal para a promoção de conectividade aos prédios e pontos de interesse municipal,
+tendo em vista sua velocidade e estabilidade ofertada, atributos essenciais para o adequado funcionamento e usufruto das
+ferramentas pretendidas para a Cidade Inteligente. Contudo, Caxias do Sul dispõe de rede própria de fibra óptica em extensão
+ainda insuficiente (cerca de 250 km), em vista dos serviços e utilidades vislumbradas, além de uma vasta extensão territorial (1.652
+km²) e um relevo acidentado. Nesses casos específicos, a fibra óptica pode não ser a escolha mais adequada, mas a garantia de
+conectividade ainda é essencial e deve ser assegurada.  
+Em resposta a tal cenário, será estruturada e implementada a conexão de rede lógica, infraestrutura pervasiva de conectividade,
+distribuída em toda a cidade, cuja capilaridade deverá alcançar prioritariamente as áreas mais carentes ou desprovidas de
+infraestrutura de acesso, para fomento da inclusão sociodigital e evolução tecnológica. Deve possuir capacidade para suportar
+diversas aplicações e para fornecer melhores serviços aos cidadãos, uma vez que, além de ampliar e potencializar o seu raio de
+alcance para toda extensão municipal, possibilitará também a interconexão de todas as redes e sistemas municipais atualmente
+existentes, além de objetos e sensores destinados à captação de informações do espaço urbano.
+Como benefícios diretos da implementação da conexão de rede lógica e sua chegada a todos os prédios públicos e pontos de
+interesse, destaca-se a viabilização de novas ferramentas e soluções nas escolas da rede pública municipal de ensino (
+dependentes de conexão em velocidade adequada), a habilitação de novos pontos de monitoramento e novos serviços municipais,
+a possibilidade de instalação de novos núcleos de conectividade para sensores conectados (embarcados em bueiros, luminárias,
+contêineres de resíduos sólidos etc.), entre outros.
+As escolas da rede municipal receberão prioridade no âmbito do projeto e implementação de conectividade, considerando-se suas
+atuais demandas, e que a oferta de conectividade adequada consiste em uma das principais condicionantes da política pública de
+digitalização do ensino. É essencial, assim, que não somente a administração da escola, mas toda a comunidade, especialmente
+os estudantes, tenham pleno acesso à conexão estável e em velocidade compatível com as demandas das ferramentas e soluções
+ aplicadas no processo de ensino-aprendizagem proposto.
+Vislumbra-se a oferta da velocidade média mínima de 1 Mbps a cada usuário (estudantes, professores, colaboradores e toda a
+comunidade escolar) como essencial em toda a rede, o que corrobora a necessidade e urgência da requalificação da conectividade
+ em cada uma das 83 (oitenta e três) escolas que compõem a rede municipal de ensino.
+Destaca-se que, em alguns casos, já há o atendimento por fibra própria ou de terceiros (cerca 52 unidades), contratada pela
+própria unidade escolar, e em outros, ainda se mostra necessária a elaboração de projeto e lançamento das últimas milhas para a
+conexão. O mesmo cenário se verifica quanto às unidades de saúde municipais, prédios administrativos e equipamentos de
+interesse municipal, cujas condições atuais de conectividade deverão ser avaliadas em projeto e, eventualmente, incluídas no
+processo de requalificação da expansão da conectividade.
+O escopo deste produto, assim, abrangerá a contratação das obras, fornecimentos (inclusive equipamentos de segurança da rede)
+e serviços para lançamento e adequação da infraestrutura de conectividade que comporão a conexão de rede lógica, de modo a
+atender a todos os prédios e pontos de interesse da Municipalidade, com prioridade às escolas da rede pública municipal.
+Ressalta-se que, no âmbito do componente ?ESTUDOS, PLANOS E PROJETOS? desta operação, os projetos executivos para a
+implantação da conexão de rede lógica poderão ser desenvolvidos em paralelo ao PDTCI, absorvendo suas necessidades e
+demandas, a partir das metas e projetos definidos como prioritários em cada um dos eixos temáticos do Plano.
+Resultados Esperados
+1. Incrementar a velocidade, estabilidade e resiliência da conexão à internet nos prédios públicos municipais e equipamentos de
+interesse;
+2. Habilitar novos serviços e o uso de ferramentas e soluções que demandam conexão resiliente e em alta velocidade à internet,
+especialmente na educação, aprimorando-se o processo de ensino-aprendizagem na rede municipal de Caxias do Sul.
+Impactos Ambientais e Sociais Esperados
+1. Reduzir a desigualdade digital, proporcionando-se a melhoria da qualidade de acesso dos  cidadãos e acesso às ferramentas e
+novas TICs;
+2. Otimizar custos na operação dos serviços de conectividade nos prédios e equipamentos municipais, mediante a adoção de
+modelo integrado de gestão da rede lógica.
+Metas de Desempenho
+1. Assegurar conectividade em todas as 83 (oitenta e três) unidades da rede municipal de ensino;
+2. Garantir acesso à internet em velocidade mínima de 1 Mbps por aluno a toda a comunidade escolar da rede pública do
+Município;
+3. Assegurar conectividade nos prédios públicos municipais e pontos de interesse.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 14
+      P - Requalificação e Expansão da Conectividade Wi-Fi Municipal
+A conexão dos prédios públicos (escolas, unidades de saúde, centros de assistência social) à Rede Municipal, mostra-se
+necessária, de modo a assegurar o efetivo usufruto da conectividade pelo usuário-cidadão, a implementação de robusta estrutura
+de ?access points? Wi-Fi nos prédios e equipamentos municipais, com priorização às escolas da rede pública municipal de ensino.
+Compreende-se que a Cidade Inteligente de Caxias do Sul deve assegurar que, no campo educacional, todos os estudantes e
+professores tenham pleno acesso à conexão estável e em velocidade compatível com as ferramentas e soluções aplicadas ao
+processo ensino-aprendizagem pretendido, mostrando-se essencial, assim, a oferta de adequada estrutura interna de Wi-Fi nas
+salas de aula das escolas municipais.
+Atualmente, apenas 43 (quarenta e três) unidades da rede municipal de ensino possuem condições de oferecer conexão em
+velocidade mínima de 1 Mbps por aluno no turno de maior movimento, e mesmo nestas, mostra-se necessária a requalificação e
+expansão do Wi-Fi, a fim de que todos os ambientes de aprendizagem estejam adequadamente cobertos.
+Destaca-se que a universalização da conectividade Wi-Fi de alta velocidade nas escolas municipais já consiste, desde a edição do
+Plano Municipal de Educação ? PME (Lei Municipal nº 7.947, de 19 de junho de 2015), em diretriz expressa do planejamento
+setorial. Em seu item 7.24, estabeleceu-se a meta de assegurar plenitude do acesso dos estudantes da rede municipal de ensino à
+conectividade ?banda larga de alta velocidade, promovendo a utilização pedagógica das tecnologias da informação e da
+comunicação?.
+O escopo deste produto, assim, abrangerá:
+- Diagnóstico detalhado das condições de conectividade por Wi-Fi das 83 (oitenta e três) escolas da rede municipal, com
+elaboração de um plano de intervenções para cada unidade;
+- Elaboração dos projetos executivos de conectividade Wi-Fi para atendimento e às 83 (oitenta e três) escolas da rede municipal,
+em todas as salas de aula e ambientes de aprendizagem; e
+- Contratação dos fornecimentos e serviços para adequação e expansão da infraestrutura interna de Wi-Fi de cada unidade da
+rede municipal de ensino.
+Os serviços e fornecimentos priorizarão as escolas municipais que, atualmente, não dispõem das condições mínimas de acesso
+referidas acima, de modo a habilitá-las às políticas de digitalização do ensino e promoção de ferramentas inovadoras ao processo
+ensino-aprendizagem.
+Resultados Esperados
+1. Incrementar a velocidade, estabilidade e resiliência da conexão à internet nas unidades da rede municipal de ensino;
+2. Habilitar o uso de ferramentas e soluções educacionais que demandam conexão resiliente e em alta velocidade à internet,
+aprimorando-se o processo de ensino-aprendizagem na rede municipal.
+Impactos Ambientais e Sociais Esperados
+1. Reduzir a desigualdade digital, proporcionando-se a todas as crianças/estudantes da rede pública municipal padrões adequados
+ de conectividade e acesso às ferramentas e novas TICs, contribuindo à sua formação para o mercado de trabalho do futuro.
+Metas de Desempenho
+1. Requalificar a infraestrutura interna de conectividade Wi-Fi em todas as 83 (oitenta e três) unidades da rede municipal de ensino,
+ contemplando salas de aula e ambientes de aprendizagem;
+2. Garantir acesso à internet em velocidade mínima de 1 Mbps por aluno a toda a comunidade escolar de Caxias do Sul.
+   S - MODERNIZAÇÃO DAS ESCOLAS MUNICIPAIS
+Para além da garantia de adequada infraestrutura de conectividade, considera-se que possuir um plano de ensino voltado às
+tecnologias digitais, formar continuamente professores e gestores escolares, e fornecer equipamentos eletrônicos adequados ao
+ensino-aprendizagem, são elementos fundamentais no processo de introdução, implantação e evolução das TICs na educação.
+Nesse sentido, o Plano Municipal de Educação (PME) de Caxias do Sul, instituído pela Lei Municipal nº 7.947, de 19 de junho de
+2015, estabelece metas relacionadas a ações que promovam a formação continuada de professores para que promovam
+atividades que estimulem o uso de novas tecnologias.
+      P - Plano de Gestão da Digitalização do Ensino
+Em vista do desafio de transformar a sociedade da educação em sociedade do conhecimento, engajando estudantes, professores,
+gestores, bem como a família e a sociedade, que são parte da comunidade escolar e local para qualificação das oportunidades de
+ensino-aprendizagem, considera-se como primeiro passo a concepção de um plano de necessidades, elaborado a partir da escuta
+qualificada dos envolvidos diretamente no processo escolar, com vistas a elaborar um plano de formação que tenha aderência e
+gere os impactos esperados, decorrentes do objetivo maior, pensando em consolidar, com a colaboração da educação, uma
+Cidade Inteligente.
+O plano de necessidades, assim, pressupõe a oitiva dos usuários do projeto, pesquisa de referências para o programa de
+formação, seleção e pesquisa de bibliografia (livros, manuais, normas técnicas e legislações) sobre o tema, elaboração de um
+fluxograma e um organograma para o programa, bem como a sistematização dos dados para fundamentar a proposta de plano de
+formação continuada. Deve, ainda, contemplar formação para gestores escolares, coordenadores pedagógicos e professores
+referências de turma/componente curricular, mesmo que de forma escalonada, a fim de que haja multiplicadores em cada unidade
+escolar.
+O escopo deste produto, portanto, abrangerá o desenvolvimento, em primeiro momento, de um plano de necessidades, com a
+possível contratação de consultoria/fundação para apoio técnico especializado, e a execução (com acompanhamento) do plano de
+formação continuada aos profissionais da rede pública municipal de ensino, abrangendo cerca de 3.400 (três mil e quatrocentos)
+profissionais, sendo:
+A) PROFESSORES: 3.364
+i. Gestores escolares: 78 diretores e 05 coordenadores de escolas do campo; Vice-diretores: 154
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 15
+ii. Apoio pedagógico: 204
+iii. Coordenação pedagógica: 161
+iv. Regente de Educação Infantil: 170
+v. Regente de EJA: 14
+vi. Regente de TA: Em 2024, nenhuma turma de aceleração
+vii. Regência de Anos Iniciais: 783
+viii. Regência de Anos Finais: 1294
+ix. Professor Responsável pela Biblioteca Escolar: 139
+x. TDICS/Tecnomídias: 155
+xi. AEE: 191
+xii. Apoio Educacional: 16
+B) SECRETÁRIOS DE ESCOLA: 103
+Resultados Esperados
+1. Identificar as efetivas necessidades e oportunidades para a formação continuada dos profissionais da rede pública municipal de
+ensino em tecnologias e ferramentas digitais aplicáveis ao processo ensino-aprendizagem;
+2. Elaborar e executar, a partir do plano de necessidades, plano de formação continuada dos profissionais da rede pública
+municipal de ensino de Caxias do Sul, capacitando-os ao emprego eficiente de tecnologias e ferramentas digitais no processo
+ensino-aprendizagem;
+Impactos Ambientais e Sociais Esperados
+1. Ampliar o engajamento da comunidade escolar quanto à política pública de inserção de TICs no processo ensino-aprendizagem
+em Caxias do Sul;
+2. Incrementar a qualidade do ensino, aplicando-se métodos de ensino mais eficazes e interativos em sala de aula, aptos a
+enriquecer a experiência de aprendizagem das crianças/estudantes, tornando as aulas mais envolventes e adaptáveis às
+diferentes necessidades e estilos de aprendizagem.
+Metas de Desempenho
+1. Elaborar 01 (um) plano de necessidades quanto à digitalização do ensino, englobando a formação contínua dos profissionais da
+rede pública municipal de ensino;
+P - Formação Continuada dos Profissionais com fornecimento de equipamentos eletrônicos à Rede Pública Municipal
+de Ensino
+Para efetivação do uso das TICs na educação, como forma de ampliar as oportunidades de ensino-aprendizagem, mostra-se
+necessária a disponibilização de equipamentos/dispositivos aos usuários (estudantes, professores, servidores da educação), em
+especial nos momentos de maior necessidade, à luz do plano de trabalho dos professores e em consonância com o Projeto Político
+-Pedagógico da escola.
+Nesse sentido, o Plano Municipal de Educação (PME) de Caxias do Sul, instituído pela Lei Municipal nº 7.947, de 19 de junho de
+2015, estabelece expressamente, como meta (5.7), ?fomentar o desenvolvimento de tecnologias educacionais e de inovação das
+práticas pedagógicas nos sistemas de ensino que assegurem a alfabetização e favoreçam a melhoria do fluxo escolar e a
+aprendizagem dos estudantes, consideradas as diversas abordagens metodológicas e sua efetividade, por meio do suprimento de
+recursos tecnológicos adequados e recursos humanos com formação específica para as atividades das novas tecnologias, bem
+como com proporcionalidade do número de estudantes e computadores disponíveis por turma, estabelecendo como meta um
+computador para cada dois estudantes?.
+Compreende-se, assim, a distribuição de equipamentos/dispositivos, a exemplo de notebooks, tablets e chromebooks, como
+medida já sedimentada no planejamento setorial, sendo pressuposto indispensável à efetivação das políticas públicas pretendidas
+de digitalização do ensino. Põe-se o desafio de prover cada unidade escolar de um conjunto de equipamentos/dispositivos que
+permita a adequada execução dos planos de trabalho dos professores, consoantes ao Plano Político-Pedagógico da escola, de
+modo que se utilize, incentive e impulsione o uso de ferramentas digitais complementares ao ensino na sala de aula, ampliando
+não apenas a forma de acesso e de desenvolvimento das oportunidades de ensino-aprendizagem, mas também o tempo de
+interação com os objetos de conhecimento, além dos espaços.
+Alguns avanços já foram promovidos, porém os dispositivos ainda são de uso restrito ao ambiente escolar, não havendo,
+atualmente, quantidade suficiente para uma política de disponibilização, para além dos limites da escola, de forma compartilhada e
+que sirva de instrumento para as atividades complementares, desenvolvidas em casa, quando necessário.
+Trata-se de aspecto essencial para a plenitude da experiência de ensino-aprendizagem digital à comunidade da rede pública de
+ensino, e que contribui substancialmente à redução da desigualdade digital e à formação das crianças/estudantes para o mercado
+de trabalho do futuro.
+Assim, o presente produto compreende a contratação do fornecimento de quantitativo de equipamentos/dispositivos que viabilize
+sua distribuição para os estudantes da rede municipal de ensino, conforme estratégia da Secretaria Municipal de Educação, de
+modo que o dispositivo esteja disponível para acesso além do ambiente escolar, de forma compartilhada, para até, no máximo, 10
+% (dez por cento) dos estudantes da rede municipal de ensino, especialmente para os estudantes de 8º e 9º anos do ensino
+fundamental, como forma de ampliar essas oportunidades para além da carga horária obrigatória e dos espaços da escola,
+ultrapassando-se seus ?muros?.
+Além disso, pretende-se a contratação do fornecimento de novos dispositivos de aprendizagem digital para uso nas escolas da
+rede municipal, a exemplo das lousas interativas, mesas interativas e kits de robótica, universalizando-se seu acesso no ambiente
+educacional.
+Resultados Esperados
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 16
+1. Executar plano de formação continuada de, cerca de, 3.400 (três mil e quatrocentos)  profissionais da rede pública municipal de
+ensino, entre gestores, coordenadores e professores;
+2. Assegurar o acesso de ao menos 01 (um) dispositivo (notebook, tablet, chromebook) por aluno da rede pública municipal, de
+forma compartilhada, para até, no máximo, 10% (dez por cento) dos estudantes da rede municipal de ensino, especialmente para
+os estudantes de 8º e 9º anos do ensino fundamental;
+3. Ampliar o número de dispositivos de aprendizagem digital para uso nas escolas da rede municipal, a exemplo das lousas
+interativas, mesas interativas e kits de robótica, universalizando-se seu acesso no ambiente educacional de Caxias do Sul, em
+todas as unidades.
+Impactos Ambientais e Sociais Esperados
+1. Reduzir a desigualdade digital e impulsionar o desenvolvimento, pelas crianças/estudantes da rede pública municipal, das
+habilidades demandadas pelo mercado de trabalho do futuro;
+2. Fomentar a educação e a inclusão digital, promovendo ações contínuas que estimulem a formação cidadã e o aprimoramento
+digital, abrangendo todas as faixas etárias, gêneros, raças e classes sociais, principalmente o acesso aos estudantes portadores
+de deficiência;
+3. Promover o desenvolvimento, atualização e aprimoramento profissional dos educadores, fornecendo-lhes o conhecimento e a
+confiança que impulsione a adoção dos dispositivos e soluções digitais, na sala de aula e fora dela, com vistas ao nivelamento de
+conhecimento;
+Metas de Desempenho
+1. Disponibilizar ao menos 01 (um) dispositivo (notebook, tablet, chromebook), para 10% (dez por cento) dos estudantes da rede
+municipal de ensino, ou seja, cerca de 3.500 alunos, especialmente para os estudantes de 8º e 9º anos do ensino fundamental;
+2. Disponibilizar ao menos 01 (um) dispositivo (notebook, tablet, chromebook), para os professores da rede municipal de ensino, ou
+ seja, cerca de 1.700 profissionais; 
+3. Prover a todas as escolas da rede pública municipal de ensino (atualmente 83 escolas), dispositivos de aprendizagem digital,
+lousas interativas, mesas interativas e kits de robótica, universalizando-se seu acesso no ambiente educacional do município, em
+todas as unidades;
+4. Formar e aprimorar o conhecimento de, cerca de, 3.400 (três mil e quatrocentos)  profissionais da rede pública municipal de
+ensino, entre gestores, coordenadores e professores, quanto as ferramentas e métodos de ensino-aprendizagem digital.
+   S - DIGITALIZAÇÃO DE SERVIÇOS MUNICIPAIS
+A transformação digital da Cidade Inteligente passa, necessariamente, pela digitalização de serviços e utilidades municipais,
+tornando-os mais céleres, eficientes e aderentes às TICs disponíveis. A experiência do cidadão deve, definitivamente, estar no
+centro do planejamento público da Smart City, e sua eficiência requer remodelagem de fluxos, processos e ferramentas
+empregadas.
+Em Caxias do Sul, desde a edição da Lei Municipal nº 8.752, de 16 de dezembro de 2021, que estabeleceu medidas de incentivo à
+inovação na Administração Pública e nos ambientes empresarial, acadêmico e social, vêm sendo envidados esforços para a
+progressiva modernização de serviços e utilidades municipais. Em 10 de outubro de 2022, foi publicado o Decreto nº 22.247/22,
+que estabelece medidas de modernização da Administração Pública e criou o Programa de Inovação para a Modernização da
+Administração Pública ? Gov.Lab.
+Desde então, projetos específicos de digitalização de serviços foram concebidos e executados, em sprints que contaram com a
+participação de startups e da academia para o desenvolvimento de soluções aos problemas públicos relevantes do Município.
+      P - Modelo de Gestão da Digitalização
+De modo a propulsionar as iniciativas atuais de modernização de serviços ao cidadão, assegurando-se a digitalização total de
+utilidades municipais, bem como organizar e definir a priorização de serviços a serem inseridos na esteira de transformação,
+pretende-se, no âmbito desta operação, desenvolver e executar a denominada ?Modelo de Gestão da Digitalização?.
+Os órgãos e entidades da Administração Municipal passarão pelo ciclo de redesenho e reestruturação de fluxos e processos,
+iniciando-se por um diagnóstico e definição de planos de ação para a plena disponibilização dos serviços em canais online.
+Conforme lei nº 9.006, de 24 de novembro de 2023, o Escritório Temático de Gestão de Processos poderá auxiliar na estratégia
+que será conduzida pela organização municipal, e contará com a contratação e apoio de consultoria(s) e provedor(es) de soluções
+aplicáveis às demandas identificadas para cada eixo de atuação municipal.
+Resultados Esperados
+1. Prover o município de uma estratégia para digitalização dos serviços municipais exequíveis e que agreguem valor público aos
+cidadãos;
+2. Otimizar o processo de redesenho dos fluxos interno com foco nos principais serviços de impacto a gestão pública e a
+população;
+Impactos Ambientais e Sociais Esperados
+1. Engajar servidores públicos no redesenho das soluções públicas, para que proporcionem os serviços integrados de maior
+interesse e necessidade da população;
+2. Otimizar recursos públicos e agilizar o processo de digitalização através do planejamento prévio das ações;
+Metas de Desempenho
+1. Desenvolver e publicar 01 (um) Modelo de Gestão da Digitalização, abrangendo todos os órgãos e entidades da Administração,
+com metas claras e planos de ação para  os serviços e utilidades públicas oferecidas ao cidadão;
+2. Planejar as ações de digitalização de, no mínimo, 80% dos serviços municipais que podem ser disponibilizados digitalmente.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 17
+      P - Desenvolvimento da Plataforma de Serviços
+Após, a definição do modelo de digitalização dos serviços estratégicos ao município e a população, o desenvolvimento de uma
+plataforma de serviços públicos oferecerá amplo acesso centralizado e conveniente, garantindo personalização e agilidade,
+inclusive para públicos portadores de deficiências. Como resultado a população, pretende-se integrar as unidades administrativas e
+reduzir a burocracia na utilização das facilidades online, promovendo a participação cidadã com uma experiência mais satisfatória
+para os usuários.
+A disponibilização da plataforma digital, em diversos formatos, incluindo dispositivos móveis (celulares), reforça a eficiência e
+transparência do serviço público ao simplificar o acesso aos serviços, fornecer informações transparentes e oportunas, permitir o
+acompanhamento e feedback dos cidadãos. Isso resulta em uma gestão mais sustentável, responsiva e centrada no cidadão.
+Resultados Esperados
+1. Redução do tempo e dos recursos para acessar e fornecer serviços públicos, resultando em uma gestão mais eficiente;
+2. Oferecer uma experiência mais conveniente e personalizada aos cidadãos, aumentando a sua satisfação com os serviços
+públicos;
+3. Reduzir os custos associados à prestação de serviços públicos por meio da automação de processos e da otimização de
+recursos.
+Impactos Ambientais e Sociais Esperados
+1. Fortalecer a inclusão social, proporcionando acesso universal aos serviços e ampliando a participação cidadã;
+2. Integrar informações de diferentes unidades e órgãos da administração para uma prestação de serviços mais ágil e coordenada;
+3. Entregar valor público à comunidade, apresentando eficiência, eficácia e efetividade na gestão pública.
+Metas de Desempenho
+1. Desenvolver uma plataforma única de acesso e disponibilização de serviços públicos prioritários aos cidadãos;
+2. Fornecer ampla gama de serviços urbanos acessíveis que possam ser acessados pelos cidadãos de maneira online.
+      P - Digitalização de Serviços ao Cidadão
+Além do Plano de Digitalização e da disponibilização de serviços prioritários aos cidadãos por meio de plataformas digitais, a
+digitalização de serviços públicos refere-se ao processo de transformação dos serviços municipais tradicionais em formatos digitais
+acessíveis online. Consequentemente, essa implantação da modernização interna, culminará nas plataformas digitais, aplicativos
+móveis, portais da web e outros meios eletrônicos para fornecer serviços e informações aos cidadãos de forma mais eficiente,
+conveniente e acessível.
+Essa transformação visa simplificar e agilizar o acesso aos serviços públicos, eliminando a necessidade de comparecimentos
+presenciais e aos protocolos em meios físicos. 
+Dentre os principais serviços estratégicos ao Município no âmbito da digitalização, podemos citar: 
+- Abertura e acompanhamento de demandas de ouvidoria e de atendimento ao cidadão de acordo com os serviços prestados por
+cada unidade da administração (reparos, consertos, limpezas);
+- Abertura e acompanhamento de processos administrativos;
+-Requerimentos de documentos legais como certidões, licenças, alvarás, autorizações, viabilidades, dentre outros;
+- Trâmites de licenciamentos urbanísticos, ambientais, e outros;
+- A utilização de um ponto unificado de acesso para o cidadão, independente da secretaria ou órgão responsável pela solução do
+atendimento, transferida e atendida por todas as áreas envolvidas;
+Outros serviços poderão ser melhor identificados a partir do Modelo de Gestão da Digitalização, que detalhará o fluxo de ações
+para o sucesso da transformação.
+Resultados Esperados
+1. Promover agilidade e eficiência na prestação de serviços públicos e atendimento ao cidadão;
+2. Ampliar o número de serviços e utilidades disponíveis ao cidadão, a partir da disponibilidade de ações online em plataforma
+unificada;
+3. Revisar processos interno do município com vistas a eficiência, eficácia e efetividade do setor público.
+Impactos Ambientais e Sociais Esperados
+1. Reduzir a necessidade de deslocamentos físicos, otimizando o uso de recursos e diminuindo os impactos ambientais. 
+2. Reduzir a burocracia e agilizar os serviços públicos, associado à promoção de uma transformação positiva na sociedade. 
+Metas de Desempenho
+1. Digitalizar, no mínimo, 80% dos serviços municipais que podem ser disponibilizados em plataformas virtuais.
+2. Revisar, no mínimo, 80% dos processos internos do município a fim de mapear o caminho e otimizar recursos do serviço
+ofertado ao cidadão.
+   S - CENTRO DE INOVAÇÃO DE CAXIAS DO SUL
+Caxias do Sul vem se destacando no âmbito da inovação e do empreendedorismo inovador. O Índice de Cidades Empreendedoras
+(ICE) 2023 classificou o município em 21º lugar, entre 101 cidades mais populosas do Brasil, como um local propício para
+empreender. A cidade também ocupa o 1º lugar em âmbito estadual no quesito inovação e o 6º no país.
+Na plataforma nacional Connected Smart Cities, Caxias do Sul subiu 17 posições no ranking de cidades inteligentes, em 2023,
+atingindo a 74ª colocação. Além disso, subiu 20 posições no eixo Tecnologia e Inovação (atingindo a 66ª colocação) e estreou na
+80ª colocação no eixo de Empreendedorismo. Tais resultados se devem, principalmente, ao pioneirismo na criação da Lei de
+Inovação, que maximizou a segurança jurídica para as empresas de base tecnológica investirem no município.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 18
+A partir da Lei, a Municipalidade inaugurou dois programas para expansão da inovação aos empreendedores da cidade: o Startup
+Caxias e o Inova Caxias. O primeiro, inclusive, que já acelerou mais de 50 (cinquenta) projetos inovadores da cidade, por meio de
+capacitação e mentoria especializada, foi reconhecido internacionalmente no Startup Ecosystem Awards, em janeiro de 2024.
+De modo a alavancar o ecossistema de inovação e a transformação digital da cidade, proporcionando-se um espaço físico para
+que startups e negócios inovadores possam se desenvolver e compartilhar conhecimento e oportunidades, pretende-se
+implementar, com recursos oriundos da presente operação, o Centro de Inovação de Caxias do Sul, na antiga Metalúrgica Abramo
+Eberle S/A (MAESA), patrimônio histórico municipal, cujo restauro e requalificação se pretende executar também a partir dos
+recursos desta operação.
+      P - Restauro e Requalificação do Complexo Maesa
+O Complexo Industrial MAESA (antiga Metalúrgica Abramo Eberle S/A) localiza-se em Caxias do Sul, no quarteirão formado pelas
+ruas Plácido de Castro, Treze de Maio, Dom José Baréa e Pedro Tomasi, no Bairro Exposição, ocupando área de
+aproximadamente 53.125,30 m2 (área construída de aproximadamente 48.059,64 m2). Trata-se de patrimônio cultural, de perfil
+industrial, tombado no ano de 2015 pelo município de Caxias do Sul, contando com edifícios de grande valor histórico e memorial
+para cidade, que pode ser verificado pelos movimentos que buscaram o seu tombamento e todos os estudos e documentos
+existentes até o momento.
+A MAESA compõe-se, atualmente, de 19 (dezenove) blocos, construídos entre 1945 e 1988, influenciados pela tipologia fabril
+inglesa, no estilo britânico manchesteriano, caracterizado pelo tijolo vermelho aparente revestindo estruturas de concreto armado
+ou ferro com fachadas simétricas e sóbrias. Após o encerramento das atividades fabris, bem como a partir da doação do
+patrimônio pelo Estado ao município de Caxias do Sul, diversos usos passaram a ser cogitados para o Complexo.
+Entende-se que, devido a sua localização privilegiada, suas dimensões e relevância histórica, o Complexo Fabril da MAESA tem
+grande potencial para ser um propulsor de desenvolvimento econômico, cultural e de empreendedorismo inovador da cidade. Com
+estas diretrizes, foi elaborado o Plano de Ocupação do Complexo (anexo VIII), que traçou os potenciais usos dos diversos Blocos,
+conforme sua relevância histórica, características e vocações.
+Pretende-se, em consonância com o Plano de Ocupação aprovado pelas instâncias municipais, implantar o Centro de Inovação de
+Caxias do Sul na MAESA, promovendo-se o restauro da parcela do prédio que for ocupado e sua reabilitação para os usos
+pretendidos, precedida dos respectivos projetos.
+Para além de requalificar o espaço, habilitando-o ao recebimento do novo Centro, o projeto assegurará a preservação da
+identidade cultural da MAESA (valores materiais e imateriais), e a disponibilização, a seus usuários, de estrutura adequada,
+moderna, de qualidade e visualmente atraente, atributos necessários à fruição adequada de seus espaços pelo público com
+segurança, acessibilidade e conforto.
+Resultados Esperados
+1. Elaborar os projetos de restauro e requalificação das edificações necessárias a abrigar o Centro de Inovação de Caxias do Sul,
+no Complexo MAESA;
+2. Executar as obras e intervenções de restauro e requalificação das edificações que compõem o Complexo MAESA, preparando-
+as para recebimento do novo Centro de Inovação de Caxias do Sul.
+Impactos Ambientais e Sociais Esperados
+1. Resgatar a memória municipal, por meio da preservação cultural e histórica;
+2. Contribuir à dinamização das atividades e negócios desenvolvidos no interior da MAESA, conforme seu Plano de Ocupação.
+3. Reinventar e revitalizar o espaço, conferindo-lhe uma nova utilidade e significado.
+Metas de Desempenho
+1. Elaborar e aprovar, junto às instâncias de proteção ao patrimônio histórico, os projetos executivos de restauro do espaço
+necessário ao Centro de Inovação, no Complexo MAESA;
+2. Requalificar os espaços da MAESA para implantação do novo Centro de Inovação de Caxias do Sul.
+      P - Implantação do Centro de Inovação de Caxias do Sul
+A implementação do Centro de Inovação consiste em iniciativa já prevista na Lei de Inovação de Caxias do Sul (Lei Municipal nº 8.
+752, de 16 de dezembro de 2021), que, em seu art. 20, dispôs, dentre os incentivos municipais ao ecossistema, a ?locação de
+espaços em ambientes de inovação, para permitir a troca de experiências e o aperfeiçoamento da Administração Pública em
+projetos de inovação? (inc. IV).
+Para que esse espaço possa funcionar de maneira a abrigar entidades privadas e públicas, inclusive, poderá abrigar Secretarias
+Municipais cuja atuação seja direta ou indiretamente relacionada às áreas criativas, incentivando o intercâmbio e a troca de
+experiências entre os participantes do ambiente, será necessário um planejamento e sua implementação. Dentre as utilidades
+previstas, a serem detalhadas no âmbito dos projetos executivos, destacam-se arena/espaço para eventos, estações de trabalho
+tipo ?coworking?, estúdios para gravação de conteúdos em áudio e vídeo, salas de treinamento, laboratórios de criatividade, salas
+de reuniões, área para startups residentes, além de outras conveniências.
+Espera-se que, a partir da implementação do Centro de Inovação, sejam propulsionadas as iniciativas inovadoras nas esferas
+pública e privada do município, alavancando negócios de impacto à cidade, apoiando o desenvolvimento de novos modelos e
+incorporando o ?mindset? das startups no setor público municipal, principalmente as atividades relacionadas aos Arranjos
+Produtivos Locais (APLs) nas áreas de Metalmecânica, Moda, Alimentos e Tecnologia da Informação. 
+Resultados Esperados
+1. Estruturar e implantar o novo Centro de Inovação de Caxias do Sul, na antiga Metalúrgica Abramo Eberle S/A, destinado a
+startups e órgãos e entidades públicos do município de Caxias do Sul e região.
+Impactos Ambientais e Sociais Esperados
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 19
+1. Acelerar negócios inovadores de impacto à cidade;
+2. Contribuir ao desenvolvimento e sobrevivência de novos negócios, especialmente os de caráter inovador, na cidade de Caxias
+do Sul;
+3. Consolidar Caxias do Sul como a cidade mais atrativa a startups e negócios inovadores na região sul, e uma das mais atrativas
+do Brasil;
+4. Reter negócios e ?mentes? inovadoras.
+Metas de Desempenho
+1. Implantar o novo Centro de Inovação de Caxias do Sul, na Metalúrgica Abramo Eberle S/A;
+2. Selecionar e abrigar, no novo Centro, até 100 (cem) startups do município de Caxias do Sul e região.
+C - ESTUDOS, PLANOS E PROJETOS
+Neste componente da operação, será desenvolvido, de forma a estabelecer adequado planejamento e governança às iniciativas da
+Cidade Inteligente de Caxias do Sul, inclusive aquelas derivadas do componente anterior, o PDTCI, instrumento de gestão urbana
+essencial à coordenação e à sustentabilidade, em longo prazo, das ações, políticas e programas conduzidos pelo município, sob a
+perspectiva de Cidade Inteligente.
+Ademais, tendo em vista os avanços significativos propostos no presente projeto quanto ao monitoramento ambiental e
+implantação de ações de mitigação e adaptação às mudanças climáticas e considerando a urgência da crise climática global e a
+necessidade de sua inserção no planejamento local, especialmente para uma cidade inteligente e sustentável, será também
+incluída a elaboração do Plano de Ação Climática e da Gestão Inteligente de Resíduos do município.
+      P - Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI)
+Conforme disposto no Plano Nacional de Internet das Coisas (IoT), introduzido pelo Decreto Federal nº 9.854, de 25 de junho de
+2019, ?a utilização de diversas soluções desconexas pode levar à digitalização da cidade, mas uma cidade que não se preocupa
+em tirar o máximo resultado através da livre cooperação entre as aplicações não pode ser elevada ao patamar de Cidade
+Inteligente. Em suma, a digitalização é resultado da aplicação da tecnologia, mas a inteligência está em como utilizar a tecnologia
+através de um planejamento integrado. Assim, o primeiro passo para evitar os silos digitais e fomentar a interoperabilidade é a
+definição e estruturação de um PDTCI?.
+O PDTCI, assim, deve elencar, a partir de amplo diagnóstico, todos os desafios a serem endereçados para que, a partir de uma
+visão ampla da demanda, sejam definidas quais soluções serão adotadas para evolução da inteligência de cada eixo temático,
+além de definir sua priorização, previsão orçamentária, definição de objetivos, metas e iniciativas para cada componente da Cidade
+ Inteligente, além dos mecanismos de governança que assegurem o endereçamento das expectativas das partes interessadas.
+A Política Nacional de Cidades Inteligentes ? Projeto de Lei nº 976/2021, em tramitação no Congresso Nacional ?, no mesmo
+sentido, estabelece o Plano de Cidade Inteligente como o ?instrumento de gestão urbana essencial à coordenação e à
+sustentabilidade das ações, políticas e programas de cidades inteligentes, devendo ser aprovado por lei municipal e ser integrado
+ao plano diretor do município, quando houver? (art. 7º).
+Embora o município disponha de diversos instrumentos de planejamento que preveem objetivos, metas e projetos correlacionados
+às pautas da Cidade Inteligente (a exemplo do Plano Municipal de Educação, do Plano Municipal de Mobilidade, da Lei de
+Inovação, entre outros), o desenvolvimento de um Plano de Cidade Inteligente ainda não foi iniciado, sendo uma das prioridades
+para o curto prazo.
+Desta forma, com vistas a estabelecer adequado planejamento e governança às iniciativas da Cidade Inteligente de Caxias do Sul
+e contribuir à abertura dos silos digitais e promoção da interoperabilidade entre sistemas e projetos municipais, o presente
+componente objetiva a contratação de consultorias especializadas para construção do PDTCI de Caxias do Sul.
+Na primeira fase de construção do Plano, será conduzido amplo diagnóstico, de modo a identificar as principais fragilidades e
+potencialidades da cidade, relativamente às questões de interesse da Smart City. Em específico, deverão ser executados, pelo
+menos, os seguintes diagnósticos:
+- Diagnóstico de Qualidade de Serviços Públicos, por meio da aferição participativa (ou complementação e/ou atualização, caso os
+indicadores tenham sido aferidos no âmbito do programa ?ObservaCaxias?) dos indicadores estabelecidos pela norma ABNT NBR
+ISO 37120:2021, em oficinas dos Grupos de Trabalho que serão instituídos;
+- Diagnóstico de Inteligência da Cidade, por meio da aferição participativa (ou complementação e/ou atualização, caso os
+indicadores tenham sido aferidos no âmbito do programa ?ObservaCaxias?) dos indicadores estabelecidos pela norma ABNT NBR
+ISO 37122:2020, em oficinas dos Grupos de Trabalho que serão instituídos;
+- Diagnóstico de Resiliência da Cidade, por meio da aferição participativa (ou complementação e/ou atualização, caso os
+indicadores tenham sido auferidos no âmbito do programa ?ObservaCaxias?) dos indicadores estabelecidos pela norma ABNT
+NBR ISO 37123:2021, em oficinas dos Grupos de Trabalho que serão instituídos;
+- Diagnóstico da Situação Atual das Infraestruturas e Serviços de Telecomunicações do município;
+- Diagnóstico da Situação Atual das Infraestruturas e Serviços de Tecnologia da Informação do município;
+- Diagnóstico da Situação Atual de Segurança e Privacidade da Informação do município, com base nos preceitos fixados pelas
+normas ABNT NBR ISO/IEC 27001:2012, 27002:2013, 27701:2019 e pela Lei Geral de Proteção de Dados Brasileira ? LGPD;
+- Diagnóstico da Situação Atual de Segurança e Resiliência Cibernética do Município;
+- Diagnóstico da Situação Atual de Governança de TICs na Organização do Município (COBIT 2019).
+Os indicadores fixados pelas normas ABNT NBR ISO 37120:2021, ABNT NBR ISO 37122:2020 e ABNT NBR ISO 37123:2021
+deverão ser aferidos e organizados em plataforma, apta à eventual certificação por parte da Associação Brasileira de Normas
+Técnicas ? ABNT.
+Os diagnósticos conduzidos serão expostos e discutidos junto às equipes técnicas da Municipalidade, em processo que objetiva,
+também, a capacitação dos servidores públicos nos temas-chave da Cidade Inteligente. Superada a fase diagnóstica, serão
+iniciados os workshops e atividades para formulação dos objetivos da smart city, em que, para cada eixo temático, serão trazidos
+benchmarks e dados para discussão dos membros dos Grupos Técnicos. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 20
+O processo de concepção deverá ser participativo desde o diagnóstico até a aprovação do PDTCI, promovendo-se o engajamento
+das partes interessadas em cada eixo temático, ainda que externas à Administração Municipal (ex.: concessionárias de serviços
+públicos, órgãos e entidades federais ou estaduais, entidades do terceiro setor etc.). Deverão ser empregadas técnicas para
+modelagem dos arranjos participativos, sempre de modo a maximizar o grau de participação de entes externos à célula central de
+preparação do Plano.
+De forma a regular as competências, regras, responsabilidades e instrumentos relacionados à gestão e governança da Cidade
+Inteligente de Caxias do Sul, assegurando a contínua evolução dos projetos, metas e iniciativas que materializem os objetivos
+estipulados, o Plano deverá especificar as funções e a estrutura de gerenciamento, embasado nas diretrizes de planejamento e
+monitoramento previstas na norma ABNT NBR ISO 37101:2017, e adaptado às demandas e necessidades da cidade.
+Deverão ser preparadas as minutas do Projeto de Lei Municipal e do Plano de Metas para o primeiro biênio de vigência do Plano,
+expondo-se à Câmara de Vereadores seu teor e acompanhando sua tramitação até aprovação.
+Os projetos executivos de engenharia para implantação das infraestruturas inteligentes para atendimento ao programa
+estabelecido no PDTCI deverão compor o fluxo de entregáveis da preparação do Plano, considerando sua concepção ?by design?
+para atendimento aos programas, metas e iniciativas previstas no PDTCI.
+Resultados Esperados
+1. Elaborar e aprovar, por lei municipal, PDTCI para Caxias do Sul;
+2. Estruturar os projetos executivos de engenharia para implantação de infraestruturas inteligentes.
+Impactos Ambientais e Sociais Esperados
+1. Acelerar a transformação digital do município e a evolução dos níveis de inteligência, sustentabilidade e resiliência da cidade de
+Caxias do Sul;
+2. Mitigar a ocorrência de silos digitais na organização municipal;
+3. Otimizar custos, a partir de infraestruturas comuns, destinadas ao atendimento de multisserviços;
+4. Contribuir ao atingimento dos propósitos de sustentabilidade da Cidade Inteligente.
+Metas de Desempenho
+1. Elaborar e aprovar, por lei municipal, 01 (um) PDTCI para Caxias do Sul;
+2. Estruturar, pelo menos, 01 (um) projeto executivo de engenharia de infraestrutura inteligente.
+      P - Plano de Ação Climática
+O monitoramento ambiental inteligente previsto neste projeto está intrinsecamente ligado à elaboração do Plano de Ação Climática.
+Os efeitos da crise climática trazem, como consequência aos centros urbanos, chuvas intensas, que provocam enchentes e
+deslizamentos, aumento de doenças transmissíveis por vetores, impactando a demanda da saúde, e movimentos de terra que
+causam danos pessoais e materiais, sobretudo na infraestrutura urbana. Essas situações são, geralmente, administradas no nível
+local.
+Portanto, faz-se imprescindível que Cidades Inteligentes desenvolvam estudos climáticos para apoiar a elaboração de estratégias e
+políticas públicas de resiliência, mitigação e adaptação do território que aceleram a promoção do desenvolvimento urbano
+sustentável.
+A fim de contextualizar as ações do município neste quesito, convém citar que o Estado do Rio Grande do Sul, no âmbito da SEMA
+(Secretaria do Meio Ambiente e Infraestrutura), vem desenvolvendo ações para viabilizar o atingimento das metas de
+neutralização das emissões de Gases de Efeito Estufa (GEEs), em alinhamento com os compromissos globalmente assumidos na
+Convenção-Quadro das Nações Unidas sobre a Mudança do Clima e preconizados pelo Programa ProClima 2050. Nesse sentido,
+o governo estadual estabeleceu a obrigatoriedade dos municípios do RS instituírem uma Comissão sobre Mudanças Climáticas.
+Diante dessa demanda, e tendo em vista a urgência dos assuntos climáticos a nível global e local, enfatizado ainda mais com os
+eventos extremos que ocorreram recentemente no estado, o município de Caxias do Sul instituiu, por meio da Portaria n.º 171.201,
+a Comissão de Mudanças Climáticas.
+Durante o segundo semestre de 2023, a SEMMA elaborou o plano de trabalho da III Fase do Plano Municipal da Mata Atlântica (
+PMMA), o qual engloba três eixos: biodiversidade, clima e sustentabilidade. Dessa forma, é intencionado que o município
+impulsione ações de promoção da conservação dos recursos naturais e de incentivo às boas práticas ambientais, de mitigação das
+emissões de gases de efeito estufa e de adaptação às mudanças climáticas, fomentando simultaneamente o desenvolvimento
+sustentável. Trabalho, inclusive, apresentado recentemente na COP28 em Dubai.
+Uma das fases da construção do Plano é a realização de um diagnóstico mais detalhado das áreas de risco, com levantamento
+socioambiental da população atingida. Este passo é fundamental para estabelecer os locais de implantação do monitoramento
+ambiental para evitar desastres, como deslizamentos e enchentes. Convém ressaltar que as enchentes que podem ser detectadas
+na elevação do nível da água de cursos hídricos no território de do município trazem impactos a diversos outros municípios,
+situados a jusante de nossos maiores rios.Com a realização desses estudos e com a implantação de sistemas inteligentes de
+monitoramento a partir desses resultados, além dos sensores de qualidade do ar também previstos junto à malha de sensores que
+subsidiará o Observatório da Cidade Inteligente, pode-se dar os passos seguintes para a implantação de um planejamento efetivo
+de mitigação e adaptação às mudanças climáticas. O monitoramento somente fará sentido se vier seguido de ações para reduzir
+riscos, no entanto, a adaptação e a resiliência de um município frente às mudanças climáticas globais vai além destas ações.
+Assim, a partir dos resultados observados nos estudos para implantação do monitoramento ambiental inteligente, será estruturado
+o Plano de Ação Climática do município. Dentro da elaboração deste plano, convém também citar a possibilidade do uso de
+monitores da qualidade do ar, como uma das ferramentas para a realização do Inventário de Emissão de Gases de Efeito Estufa,
+que é outro passo importante para chegar-se a um resultado final efetivo.
+Considerando o perfil socioeconômico e também a situação geográfica do município, dentre os itens relevantes para planejamento
+da adaptação e resiliência frente à crise climática, pode-se citar:
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 21
+- a adoção de sistemas inteligentes de monitoramento da qualidade do ar e a realização de inventário de emissão de gases do
+efeito estufa, a fim de avaliar as formas de minimizar os impactos locais e contribuir para o atingimento das metas globais
+assumidas pelos governos estadual e federal;
+- a realização de estudos para definir os locais para implantação de monitoramento de riscos a desastres ambientais, como
+deslizamentos e enchentes, inclusive para municípios dos vales a jusante, fomentando a cooperação regional a partir de um
+município de magnitude como Caxias do Sul;
+- utilização dos dados obtidos nos estudos e monitoramentos descritos acima para a construção de um Plano de Ação Climática
+efetivo, que vise: a diminuição da emissão de gases do efeito estufa; a minimização dos riscos à população do município e de
+municípios vizinhos; e a adaptação e resiliência frente às mudanças climáticas, especialmente no que diz respeito à agricultura,
+que é uma das bases da economia do município.
+Resultados Esperados
+1. Elaborar o Inventário de Emissões de Gases de Efeito Estufa;
+2. Elaborar a Análise de Riscos e Vulnerabilidades Climáticas;
+3. Elaborar o Plano de Ação Climática do município, destinado a: conhecer e mitigar os impactos do município nas mudanças
+climáticas globais; adaptar-se e responder eficientemente aos riscos climáticos; e adotar estratégias que promovam a resiliência do
+ município frente às mudanças climáticas, visando a sustentabilidade e qualidade dos serviços públicos.
+Impactos Ambientais e Sociais Esperados
+1. Sensibilizar e educar a população quanto às questões de mudanças climáticas;
+2. Reduzir a emissão de gases do efeito estufa;
+3. Minimizar os impactos e perdas causados por desastres ambientais;
+4. Incentivar e orientar os produtores rurais quanto às adaptações necessárias frente às mudanças climáticas globais, evitando
+perdas econômicas deste importante setor.
+Metas de Desempenho
+1. Elaborar e publicar 01 (um) Plano de Ação Climática, com discussão e participação pública.
+      P - Plano de Gestão Inteligente de Resíduos Sólidos
+Os resíduos sólidos urbanos (RSU) coletados no município (orgânicos e rejeitos) totalizam, em média, 118.674 (cento e dezoito mil
+, seiscentos e setenta e quatro) toneladas/ano, conforme dados do Plano Municipal de Gestão Integrada de Resíduos Sólidos (
+PMGIRS). A coleta é realizada pela Companhia de Desenvolvimento de Caxias do Sul ? CODECA, sociedade de economia mista
+municipal criada em 1974, por meio de contrato sob gestão da Secretaria Municipal do Meio Ambiente.
+A coleta seletiva, iniciada em 1991, foi sendo ampliada gradativamente, até atingir 100% (cem por cento) da zona urbana e 85% da
+zona rural do município em 1997. A coleta mecanizada do lixo orgânico e seletivo (em contêineres) foi iniciada em 2007, tendo
+sido precursora no Brasil.
+Na região central, a coleta é realizada por sistema mecanizado, enquanto nas demais regiões é por sistema manual porta a porta.
+Desde 2012, a cidade conta com cerca de 2 mil pares de contêineres para lixo orgânico e seletivo. No total, são mais de 1.340
+quadras contempladas, alcançando uma população de 205 mil pessoas, representando 45% da população. Também em 2012, foi
+implantado o Ecoponto, para recebimento de móveis, eletrodomésticos e outros equipamentos e volumosos. Atualmente, a
+quantidade média mensal de resíduos coletados no Ecoponto é de 15,55 toneladas.
+Em 2016, Caxias do Sul foi considerada a 1ª cidade mais limpa do Rio Grande do Sul e a 5ª do Brasil, segundo a publicação do
+Índice de Sustentabilidade de Limpeza Urbana (ISLU) para os municípios brasileiros. Em 2017, foi considerada, novamente, a
+cidade mais limpa do Rio Grande do Sul e a quinta do Brasil.
+Conforme dados do Plano Municipal de Gestão Integrada de Resíduos Sólidos (PMGIRS) de Caxias do Sul, em 2022, com 463.
+338 habitantes, o município gerou cerca de 358 (trezentas e cinquenta e oito) toneladas de resíduos por dia. Destas, 303 (trezentas
+e três) toneladas são de resíduos orgânicos/rejeitos, coletados pelo município, que não se enquadram na coleta de recicláveis (84
+%), e 55 (cinquenta e cinco) toneladas são de resíduos recicláveis (16%).
+A geração total de resíduos no ano de 2022 foi de 97.306,06 toneladas a partir da coleta orgânica; 20.345,47 toneladas na coleta
+seletiva; e mais 13.307,34 de coleta de resíduos de limpeza urbana e especiais (incluindo aqui o ecoponto, coletas de móveis e
+equipamentos, recolhimento dos lixões e rejeito das recicladoras, após triagem do resíduo seletivo).
+Todos os resíduos seletivos coletados são encaminhados para as Associações de Recicladores conveniadas com o município.
+Conforme dados do PMGIRS, considerando os anos de 2021 e 2022, a média anual estimada do serviço de coleta foi de 19.719,34
+toneladas de resíduos seletivos que vão para as associações, das quais 9.665,03 toneladas são descartadas como rejeitos.
+Portanto, o percentual de aproveitamento dos resíduos seletivos é muito baixo, em torno de 51%, demonstrando falhas na
+educação da população quanto à separação do lixo e também falhas do sistema de coleta, salientando que questões de coleta
+mecanizada e compactação dos resíduos seletivos dificultam a separação e efetiva reciclagem dos mesmos.
+Atualmente, está em fase de testes o uso de contêineres de metal, para conter os atos de vandalismos que ocorrem nos plásticos.
+Em 2023, 133 contêineres amarelos (seletivo) foram queimados na cidade, resultando em um prejuízo para a população de mais
+de R$ 260 mil. Cabe citar, no entanto, que o contêiner de metal custa o dobro do de plástico (em média R$ 4 mil).
+Desta forma, pretende-se subsidiar a Administração com à elaboração do Plano de Gestão Inteligente de Resíduos instrumento de
+planejamento complementar ao Plano Municipal de Gestão Integrada de Resíduos Sólidos (PMGIRS), destinado a orientar e
+ordenar o processo de transformação digital da coleta de resíduos sólidos no município.
+Deverão ser pautados, no âmbito do  Plano, temas relevantes à transformação digital dos serviços, tais como:
+- a adoção de tecnologias para eficientização das rotas de coleta, contêineres e centros de coleta; 
+- as possibilidades e novas tecnologias aplicáveis à medição de geração de resíduos;
+- novas soluções para disposição final e geração de insumos e energia a partir do tratamento dos resíduos coletados.
+Cabe salientar que todas as tecnologias poderão ser previamente testadas no ambiente regulatório experimental (Sandbox),
+englobado no componente ?Modelo Experimental de Gestão de Políticas Públicas?.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 22
+Resultados Esperados
+1. Elaborar um plano estratégico destinado a agregar inteligência e eficiência na coleta dos resíduos sólidos no município.
+Impactos Ambientais e Sociais Esperados
+1. Combater e reduzir o descarte inadequado de resíduos e a poluição ambiental;
+2. Incrementar a eficiência da coleta e gestão de resíduos na Municipalidade;
+3. Incentivar e promover a educação ambiental;
+4. Minimizar a quantidade de rejeito produzida no município e diminuir os impactos ambientais da deposição e tratamento destes
+resíduos.
+Metas de Desempenho
+1. Elaborar e publicar 01 (um)  Plano de Gestão Inteligente de Resíduos, com discussão e participação pública.
+C - GESTÃO DO PROGRAMA
+Este componente prevê despesas que garantam a execução do programa através de suportes técnico e financeiros necessários à
+sua implantação.
+      P - Apoio a Gestão do Programa
+Este produto compreende as atividades destinadas a dotar o município de uma Unidade de Gerenciamento do Programa (UGP)
+com capacidade adequada para gerenciar, executar e acompanhar as ações e procedimentos estabelecidos no Contrato de
+Empréstimo a ser celebrado junto ao CAF. 
+A UGP está vinculada à Secretaria Municipal de Gestão e Finanças (SMGF), com apoio de equipe técnica multidisciplinar de
+diversas Secretarias Municipais. Poderá contar com um apoio operacional externo que terá por objetivo suprir a UGP de elementos
+administrativos e operacionais nas atividades de gestão e execução do contrato de empréstimo nas tomadas de decisão,
+principalmente quanto às ocorrências apresentadas no período, suas medidas de correção, nas ações preventivas contra
+potenciais riscos, e no acompanhamento do estado físico e financeiro do Programa. 
+Além disso, o município pretende se subsidiar na contratação de profissionais consultores especialistas em segurança de dados,
+observância de preceitos legais aplicáveis, entre outros inerentes à implementação da cidade inteligente, dando suporte a AGM
+para criação de base jurídica sobre direitos digitais, que garanta a transparência no uso e proteção a dados pessoais.
+      P - Auditoria Externa
+O Produto refere-se à contratação de empresa especializada para a elaboração dos relatórios anuais de auditoria financeira
+durante o prazo de desembolso do Programa, em conformidade com o disposto no contrato de empréstimo. Os serviços
+contemplarão a verificação do cumprimento das cláusulas contratuais, utilização dos recursos, legalidade das aquisições,
+execução dos desembolsos, qualidade das justificativas de gastos, sistemas de controle e o que mais for julgado necessário pelo
+agente financiador e órgãos de fiscalização.
+Além desta auditoria, o Município fica sujeito  às auditorias internas e do TCE/RS, para a total transparência das ações implantadas
+.
+C - OUTROS GASTOS
+Outros gastos relacionados a operação. 
+      P - Comissão de Financiamento
+Refere-se ao pagamento dos custos financeiros cobrados pelo CAF relativos ao montante financiado do Programa.
+      P - Avaliação do Programa
+Refere-se ao pagamento dos custos financeiros cobrados pelo CAF relativos à avaliação do Programa.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 23
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Obras
+-
+-
+3.600.000,00
+7,20
+P- Restauro e Requalificação do Complexo Maesa
+quantidade
+1,00
+3.600.000,00
+7,20
+Bens
+-
+-
+9.200.000,00
+18,40
+P- Formação Continuada dos Profissionais com
+fornecimento de equipamentos eletrônicos à Rede
+ Pública Municipal de Ensino
+quant. de
+dispositivos
+5.200,00
+7.000.000,00
+14,00
+P- Implantação do Centro de Inovação de Caxias
+do Sul
+quantidade
+1,00
+2.200.000,00
+4,40
+Serviços que Não de Consultoria
+-
+-
+36.810.000,00
+73,62
+P- Expansão do Monitoramento Municipal
+quantidade de
+câmeras
+5.500,00
+11.300.000,00
+22,60
+P- Implantação do Observatório da Cidade
+Inteligente
+quantidade
+1,00
+4.100.000,00
+8,20
+P- Implantação da Malha de Sensores
+Conectados
+quantidade de
+projetos
+10,00
+3.000.000,00
+6,00
+P- Plano da Malha de sensores e equipamentos
+conectados
+Quantidade
+1,00
+400.000,00
+0,80
+P- Modelo Experimental de Gestão de Políticas
+Públicas
+soluções testadas
+8,00
+7.600.000,00
+15,20
+P- Expansão da Conexão por Rede Lógica
+Municipal
+qunatidade de
+escolas
+83,00
+2.200.000,00
+4,40
+P- Requalificação e Expansão da Conectividade
+Wi-Fi Municipal
+quantidade de
+escolas
+83,00
+1.500.000,00
+3,00
+P- Plano de Gestão da Digitalização do Ensino
+quantidade
+1,00
+400.000,00
+0,80
+P- Modelo de Gestão da Digitalização
+quantidade
+1,00
+410.000,00
+0,82
+P- Desenvolvimento da Plataforma de Serviços
+quantidade
+1,00
+1.000.000,00
+2,00
+P- Digitalização de Serviços ao Cidadão
+porcentagem de
+serviços
+80,00
+3.100.000,00
+6,20
+P- Plano Diretor de Tecnologias da Cidade
+Inteligente (PDTCI)
+quantidade
+1,00
+600.000,00
+1,20
+P- Plano de Ação Climática
+quantidade
+1,00
+490.000,00
+0,98
+P- Plano de Gestão Inteligente de Resíduos
+Sólidos
+quantidade
+1,00
+410.000,00
+0,82
+P- Apoio a Gestão do Programa
+quantidade
+1,00
+200.000,00
+0,40
+P- Auditoria Externa
+quantidade
+1,00
+100.000,00
+0,20
+Outros
+-
+-
+390.000,00
+0,78
+P- Comissão de Financiamento
+quantidade
+1,00
+340.000,00
+0,68
+P- Avaliação do Programa
+quantidade
+1,00
+50.000,00
+0,10
+Total Geral
+-
+-
+50.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+Já foram realizadas as seguintes etapas relacionadas aos componentes constantes desta Carta Consulta:
+
+1. Expansão do Monitoramento Municipal
+- Estágio atual: Termos de referência para aquisição do monitoramento por câmeras nos prédios públicos, em estágio inicial de
+levantamento e elaboração.
+- Licenças: N/A
+
+2. Plano da Malha de sensores e equipamentos conectados
+- Estágio atual: Reuniões do grupo de trabalho para definição da abrangência e outras questões relacionadas ao termo de referência para
+contratação do Plano da Malha de Sensores Conectados;
+- Licenças: N/A
+
+3. Modelo Experimental de Gestão de Políticas Públicas
+- Estágio atual: Escopo dos principais desafios públicos do município que serão abordados no modelo experimental, em discussão;
+- Licenças: N/A
+
+4. Expansão da Conexão por Rede Lógica Municipal
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 24
+- Estágio atual: Termos de Referência em estudos prévios;
+- Licenças: N/A
+
+5. Requalificação e Expansão da Conectividade Wi-Fi Municipal
+- Estágio atual: Estudos da extensão dos perímetros, locais e quantitativos de equipamentos necessários, em elaboração;
+- Licenças: N/A
+
+6. Formação Continuada dos Profissionais com fornecimento de equipamentos eletrônicos a Rede Pública Municipal de Ensino
+- Estágio atual: Em elaboração da estratégia de nivelamento de conhecimento dos profissionais, para posteriormente delimitar o escopo
+dos termos de referência;
+- Licenças: N/A
+
+7. Digitalização dos Serviços Municipais
+- Estágio atual: Estudos preliminares para elaboração dos termos de referência do modelo de digitalização em elaboração;
+- Licenças: N/A
+
+8. Restauro e Requalificação do Complexo Maesa
+- Estágio atual: Plano Geral de Ocupação aprovado pelas instâncias competentes, para delimitação do espaço e elaboração dos termos
+de referência para contratação dos projetos de engenharia de restauro;
+- Licenças: Após elaboração dos projetos, serão solicitadas as respectivas licenças;
+
+9. Implantação do Centro de Inovação de Caxias do Sul
+- Estágio atual: Estudo técnico preliminar em estágio inicial para delimitação dos espaços necessários a implantação do Centro de
+Inovação;
+- Licenças: Após elaboração dos projetos, serão solicitadas as respectivas licenças; 
+
+10. Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI)
+- Estágio atual: Instituído grupo de trabalho para diagnóstico de maturidade de Cidade Inteligente e escopo dos principais desafios
+públicos do município em discussão;
+- Licenças: N/A
+
+11. Plano de Ação Climática
+- Estágio atual: Formada comissão de trabalho para discussão dos temas pertinentes e elaboração de estudos técnicos preliminares
+norteadores da contratação da primeira etapa do escopo;
+- Licenças: N/A
+
+12. Plano de Gestão Inteligente de Resíduos
+- Estágio atual: Iniciadas discussão interna entre as unidades administrativas e revisão de legislações correlatas.
+- Licenças: N/A
+
+2.9. Projeto/Abrangência Geográfica
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 25
+Abrangência Geográfica: Municipal
+MUNICIPIO DE  CAXIAS DO SUL(RS)
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+JUSTIFICATIVA DE OPÇÃO PELO FINANCIAMENTO EXTERNO EM DETRIMENTO DE OPÇÕES DE FINANCIAMENTO INTERNO
+A necessidade do município buscar financiamento externo está relacionada às restrições orçamentárias, à baixa capacidade de
+investimentos, às condições financeiras mais onerosas praticadas pelos agentes internos, além do volume expressivo de recursos
+demandado para uma operação de crédito destinada para esse projeto que visa a promover uma abordagem transversal de largo alcance.
+A opção pelo financiamento externo ao invés do interno decorre do fato que as linhas e opções de financiamento concedidas pelos
+organismos financeiros internacionais comumentemente apresentam taxas de juros e comissões mais atrativas do que as praticadas por
+instituições nacionais.
+Cabe destacar que o PRODIGITAL é um programa que constitui um planejamento e execução de longo prazo, portanto a vantajosidade
+em relação às operações de crédito internas, além das condições financeiras, ocorre principalmente devido aos prazos significativamente
+maiores de desembolso, carência e amortização. Os agentes financeiros externos também disponibilizam maior volume de recursos para
+projetos especificamente dessa área de abrangência, em consonância com a demanda desse Programa.
+Outro ponto que merece consideração é a expertise dos bancos externos, principalmente os multilaterais, devido a capacidade de permear
+e entender as dificuldades dos países que apoiam, promovendo a infraestrutura, sustentabilidade ambiental, inclusão social, economia
+local e governança, não somente financiando programas, mas também prestando apoio técnico e integrando diferentes aspectos em todas
+ as fases do projeto, desde o planejamento até a implementação e avaliação.
+
+
+JUSTIFICATIVA DE OPÇÃO PELO AGENTE FINANCEIRO EXTERNO ESCOLHIDO 
+O município de Caxias do Sul, após analisar o cenário atual de alternativas de agentes financeiros bilaterais e multilaterais, identificou o
+CAF como a melhor opção para financiar a execução do programa.
+Nessa escolha, o CAF se destacou pelos seguintes aspectos principais:
+i) A experiência do Banco e seu conhecimento sobre os problemas a serem resolvidos pelo PRODIGITAL, bem como a sua capacidade
+técnica e operacional;
+ii) As condições financeiras favoráveis do CAF, principalmente no que se refere aos prazos de desembolso, carência, amortização, e
+comissões praticadas;
+iii) Alinhamento do programa às diretrizes e políticas do Banco;  
+iv) A agilidade do Banco no atendimento e aprovação das demandas do Município, visto que usa procedimentos simplificados e eficientes
+em suas análises. Tal agilidade traz ganhos expressivos na execução do cronograma físico-financeiro do programa e redução de custos
+de preparação e implementação;
+v) A utilização pelo Banco de políticas e normas de aquisição, sociais e ambientais similares às nacionais produzem os seguintes
+benefícios importantes à operação de crédito:  a) reduzem significativamente o custo transacional da operação (baixo custo de preparação
+e execução); b) geram menor demanda de técnicos, consultorias e serviços adicionais; e c) propiciam maior segurança e menores risco
+na execução do programa.
+Além da expertise do Banco em projetos relacionados ao tema de cidades inteligentes, é importante ressaltar a escolha do CAF devido à
+parceria de longa data estabelecida entre a instituição e o município. Esta será a terceira operação de crédito externo que Caxias do Sul
+executará com o apoio do CAF, o que significa um pleno conhecimento das políticas do agente financeiro e de sua capacidade de apoiar o
+ Programa no âmbito municipal.
+É fundamental destacar que, devido à relação estabelecida com o CAF em projetos anteriores, o Banco demonstrou disposição para
+financiar os recursos necessários para atender às demandas municipais. Em contraste, outros organismos internacionais, como o BID e o
+Banco Mundial, geralmente apoiam projetos com maior volume de recursos, o que não atenderia completamente às necessidades do
+PRODIGITAL.
+
+COMPARATIVO DAS CONDIÇÕES FINANCEIRAS COM OUTROS AGENTES FINANCEIROS EXTERNOS E INTERNOS
+As condições financeiras oferecidas pelo CAF são atrativas, principalmente quando comparadas às taxas de juros e prazos praticados
+pelo mercado interno e por outros BMDs.
+
+Condições Financeiras do Banco escolhido - CAF 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 26
+- Prazo total: 216 meses
+- Prazo de desembolso: 60 meses
+- Prazo de carência: até 66 meses
+- Prazo de amortização: 150 meses
+- Juros e encargos: 
+Taxa de juros: SOFR + 2% a.a.
+Comissão de compromisso: 0,35% ao ano sobre saldos não desembolsados.
+Comissão de financiamento: 0,85% sobre o montante do empréstimo (US$ 340.000,00), pagos no primeiro desembolso.
+
+COMPARATIVO COM AGENTES FINANCEIROS INTERNOS: 
+Banco Regional de Brasília (BRB)
+- Prazo total: 120 meses;
+- Prazo de carência: 12 meses;
+- Prazo de amortização: 108 meses;
+- Taxa concedida: 115% de CDI a.a.; e
+- Demais Encargos: Tarifa de 1% sobre o valor do financiamento + Tarifa de 0,5% a.a sobre o saldo não desembolsado.
+Caixa Econômica Federal (CEF)
+- Prazo total: 120 meses;
+- Prazo de carência: 24 meses;
+- Prazo de amortização: 96 meses;
+- Taxa concedida: 131,13% de CDI a.a; e
+- Demais Encargos: Tarifa de Customização: 2%.
+
+COMPARATIVO COM AGENTES FINANCEIROS EXTERNOS: 
+Banco Mundial
+- Prazo total: 216 meses;
+- Prazo de carência: 60 meses;
+- Prazo de amortização: 156 meses; e
+- Taxa concedida: SOFR semestral + 1,37% a.a;
+- Demais Encargos: 
+- Comissão de Financiamento (front end fee) de 0,25% sobre valor do empréstimo: e
+- Comissão de Compromisso de 0,25% sobre saldo não desembolsado. A sobretaxa de 0,5% pode ser aplicada caso o país ultrapasse o ?
+single borrower limit?.
+
+NDB: 
+- Prazo total: 240 meses;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 27
+- Prazo de Desembolso:  48 meses;
+- Prazo de carência: até 60 meses a partir da data de assinatura do contrato;
+- Prazo de amortização: 180 meses (semestrais);
+- Taxa concedida: EURIBOR + spread a ser definido na assinatura do contrato (estimativa de  1,15% a.a); e
+- Demais Encargos: 
+Comissão de Financiamento: 0,25% sobre valor do empréstimo;
+Comissão de Compromisso: 0,25% sobre o saldo não desembolsado.
+
+FONPLATA: 
+- Prazo total: 180 meses
+- Prazo de Desembolso: 60 meses;
+- Prazo de Carência: até 60 meses;
+- Prazo de Amortização: 120 meses
+- Taxa concedida: SOFR semestral + 2,1% a 2,6% 
+- Demais Encargos: 
+Comissão de Compromisso: 0,35% sobre o saldo não desembolsado do empréstimo.
+Comissão de Administração: até 0,7% calculado sobre o montante total do empréstimo.
+
+COMPATIBILIDADE DO PRAZO DESEMBOLSO COM A COMPLEXIDADE DO PROGRAMA
+O Prazo de Desembolso de 5 anos é suficiente e compatível com o nível de complexidade das ações a serem implementadas pelo Projeto
+, com a capacidade técnica e institucional da cidade e com o cronograma físico-financeiro de execução. Cabe registrar que o município
+está preparado e trabalhando no planejamento e na realização das ações prévias para a implementação do programa, tais como projetos,
+estudos e editais de licitação, entre outros.  
+
+DISTRIBUIÇÃO ADEQUADA DOS RECURSOS NO CRONOGRAMA DE DESEMBOLSO
+A distribuição anual de recursos no cronograma de desembolsos por fonte foi realizada com base no planejamento do município e do CAF
+para a implementação do programa. A distribuição anual dos recursos considera as etapas realizadas e todo o planejamento detalhado no
+Capítulo 2.7 desta Carta Consulta.
+Assim sendo, a distribuição dos recursos está compatível com o cronograma de desembolsos do programa.
+
+COERÊNCIA ENTRE COMPONENTES E DISTRIBUIÇÃO DE RECURSOS
+A distribuição dos recursos por componentes/produtos foi realizada observando a coerência e a estimativa financeira, com base em
+parâmetros levantados pelo município em relação à estimativa de custos praticados no mercado para as atividades previstas no âmbito do
+ programa.
+
+2.11. PROJETO/BENEFICIÁRIO
+As ações do PRODIGITAL destinam-se a acelerar o processo de transformação digital impulsionando o desenvolvimento sustentável por
+meio da inovação e das tecnologias, sob os preceitos de Cidade Inteligente, impactando na qualidade dos serviços públicos prestados.
+Quanto aos principais beneficiários diretos deste Programa podemos destacar os mais de 35.000 (trinta e cinco mil) estudantes da rede
+pública municipal diretamente afetados no processo de digitalização do ensino, não somente pela introdução de equipamentos no
+ambiente escolar, mas por proporcionar a formação continuada de cerca de 3.400 (três mil e quatrocentos) profissionais dessa área. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 28
+Referente às medidas para reduzir a vulnerabilidade de comunidades e infraestruturas a eventos naturais, Caxias do Sul possui pelo
+menos 717 (setecentos e dezessete) moradias identificadas como áreas de risco, o que representa cerca de 2.800 (duas mil e oitocentas)
+pessoas impactadas diretamente com o monitoramento das águas e do solo. Indiretamente, devido ao Município encontrar-se em região
+de chuvas volumosas, esse controle preventivo afetará um percentual considerável da população.
+A ampliação do monitoramento das áreas públicas municipais, com destaque para as escolas, que visa proporcionar um ambiente escolar
+mais seguro, beneficiará alunos, professores, e toda a comunidade dos entornos, incluindo o bem-estar das famílias desses jovens,
+podendo impactar diretamente no dia a dia de mais de 150.000 (cento e cinquenta mil) pessoas, ou seja, mais de 30% da população.
+Ainda complementamos que, a solução de crimes, inibição de furtos e outros atos vinculados à expansão da rede de segurança pública,
+geram impactos positivos para toda a população, principalmente urbana, que soma cerca de 420.000 (quatrocentas e vinte mil) pessoas. 
+Especificamente quanto a implantação do Centro de Inovação, estima-se que, até 100 (cem) startups com ideias inovadoras possam ser
+favorecidas diretamente com o projeto, gerando empregos, atraindo investimentos e prospectando a cidade no cenário tecnológico.
+Entre o público impactado  diretamente pela digitalização dos serviços municipais, destacam-se os mais de 7.000 servidores municipais,
+que poderão oferecer serviços públicos de forma mais eficiente, ágil e transparente, contribuindo para a satisfação dos usuários.
+Paralelamente, com a implementação de uma ampla gama de serviços digitais, prevista pelo município, espera-se que cada cidadão, em
+algum momento, seja beneficiado, mesmo que indiretamente por meio da economia gerada e reinvestida em outros fins.
+Por fim, a transição para uma cidade inteligente aborda aspectos sociais, ambientais e econômicos que impactam toda a população, com
+destaque para o seguinte:
+No âmbito do desenvolvimento social, espera-se que os cidadãos tenham maior acesso a tecnologias que facilitem a sua vida cotidiana,
+como aplicativos de mobilidade, saúde, educação e cultura. Além disso, pretende-se reduzir a desigualdade digital, promovendo a inclusão
+e a capacitação de grupos vulneráveis, como idosos, pessoas com deficiência, mulheres e minorias étnicas. Também se busca
+desenvolver o conhecimento e a inovação, estimulando a participação cidadã, a transparência e a colaboração entre os diversos atores
+sociais.
+No âmbito do desenvolvimento econômico, visa-se fomentar o crescimento e a competitividade dos negócios locais, gerando emprego e
+renda para a população. Para isso, pretende-se apoiar o empreendedorismo, a digitalização, a diversificação e a internacionalização das
+empresas, bem como reter e atrair negócios e talentos para a cidade. Também se busca melhorar a infraestrutura e os serviços públicos,
+como energia, água, saneamento e telecomunicações, aumentando a eficiência e a qualidade dos mesmos.
+No âmbito do desenvolvimento ambiental, objetiva-se reduzir os riscos e os impactos dos desastres naturais, como enchentes,
+deslizamentos e incêndios, por meio de sistemas de monitoramento, alerta e resposta. Além disso, busca-se preservar e recuperar os
+recursos naturais, como o ar, a água, o solo e a biodiversidade, por meio de ações de monitoramento e fiscalização ambiental, elaboração
+do arcabouço de políticas públicas de mitigação e adaptação às mudanças climáticas e por meio de práticas de sustentabilidade, como o
+uso de energias renováveis e melhorias na gestão de resíduos, na mobilidade urbana e na eficiência energética.
+
+ÁREAS PRIORITÁRIAS - IMPACTOS DO PROJETO
+O projeto impacta diretamente em diversos itens das áreas estratégicas relacionadas na Resolução nº 17 COFIEX, conforme detalhado
+abaixo e associado aos seguintes componentes e /ou produtos do projeto:
+
+1.1 Promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação
+(S) Monitoramento e fiscalização de áreas públicas 
+A promoção da sustentabilidade está evidenciada pelas ações de monitoramento e fiscalização das áreas públicas, pois permitem a
+tomada de medidas mais rápidas e eficazes para evitar a degradação ambiental, como disposição inadequada de resíduos ou corte ilegal
+de vegetação. 
+A implantação da Malha de Sensores, somada à elaboração do Plano da Malha de Sensores e à implantação do Observatório trazem
+benefícios às ações de mitigação e adaptação, considerando o monitoramento do ar e da água, e todo subsídio que os dados trarão ao
+Plano de Ação Climática do Município, que é, de fato, o grande norteador para a sustentabilidade, regrando as ações de mitigação e
+adaptação em todo o território municipal.
+
+(S) Modelo Experimental de Gestão de Políticas Públicas
+Outro subcomponente diretamente relacionado a esta área é o Modelo Experimental de Gestão de Políticas Públicas, por fomentar
+melhorias inovadoras na gestão de setores como resíduos sólidos, tráfego e outros, mitigando o impacto ambiental e contribuindo para a
+sustentabilidade, através do incentivo econômico associado ao benefício ambiental e resultando em ganhos para toda a sociedade.
+
+(S) Digitalização de Serviços Municipais
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 29
+Convém destacar ainda o subcomponente de digitalização de serviços municipais, uma vez que, uma das justificativas para a realização
+das melhorias propostas é minimizar o uso de recursos e os impactos com deslocamentos no âmbito dos serviços prestados pelo
+município, promovendo, consequentemente, ganhos à sustentabilidade ambiental. 
+
+(P) Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI)
+No contexto atual de mudanças climáticas, e com os Objetivos do Desenvolvimento Sustentável como norteadores da tomada de decisão
+para políticas públicas, a sustentabilidade ambiental e as ações de adaptação e mitigação estão no centro do planejamento de gestão
+inteligente pensado nesse programa, sendo importante ponto durante a elaboração do PDTCI. 
+
+(P) Plano de Ação Climática
+Como citado anteriormente, todo o projeto de cidade inteligente está fundamentado nos ODS e no conceito de desenvolvimento
+sustentável, e é por isso que o Plano de Ação Climática não poderia ficar fora das ações previstas. O Plano de Ação Climática é, de fato, o
+grande norteador para a sustentabilidade, normatizando as ações de mitigação e adaptação em todo o território municipal, sendo o
+Produto mais diretamente relacionado a esta área estratégica. 
+
+(P) Plano de Gestão Inteligente de Resíduos
+Ademais, o Plano de Gestão Inteligente de Resíduos visa maximizar os benefícios das melhorias possibilitadas por ações de
+monitoramento inteligente, ou mesmo no âmbito do Sandbox, para aplicá-las continuamente no município, além de possibilitar a
+implantação de outras medidas relacionadas à mitigação e sustentabilidade. 
+
+1.3 Implantação e/ou ampliação de saneamento básico
+(P) Plano de Gestão Inteligente de Resíduos
+A elaboração de um plano de gestão inteligente de resíduos é fundamental para a ampliação do saneamento básico devido à melhoria na
+eficiência da coleta dos resíduos, o aumento nas taxas de reciclagem, e redução dos impactos ambientais gerados pela destinação final e
+tratamento destes resíduos. Espera-se que o plano de gestão inteligente impacte diretamente na qualidade da cadeia produtiva de
+reciclagem, trazendo uma série de benefícios tangíveis e intangíveis para a sociedade, o meio ambiente e a economia local. Essa
+abordagem integrada e tecnológica é essencial para enfrentar os desafios relacionados à gestão de resíduos em áreas urbanas de forma
+eficaz e sustentável. 
+
+1.4 Gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes
+(S) Monitoramento e fiscalização de áreas públicas
+O monitoramento e fiscalização das áreas públicas contribui com a conservação de solos e nascentes, por permitir melhorias e maior
+agilidade na fiscalização de ações que impactem diretamente em áreas de proteção ambiental, especialmente nascentes. 
+Ao permitir o monitoramento em tempo real de dados relacionados aos recursos hídricos, a implantação do Observatório da Cidade
+Inteligente facilita análises detalhadas para tomada de decisões na gestão hídrica. Ademais, com a implantação da Malha de Sensores
+Conectados, é possível monitorar áreas estratégicas para identificar problemas e adotar medidas preventivas, com sistemas de alerta
+precoce para eventos como cheias, secas ou contaminação da água. Com tais avanços, a elaboração do Plano da Malha de Sensores e
+Equipamentos Conectados se faz fundamental para o estabelecimento de um planejamento estratégico para o monitoramento e gestão
+dos recursos hídricos, a fim de promover a eficiência na gestão, aumentando a conservação de solos e nascentes e adotando práticas
+sustentáveis. 
+Essas ações combinadas contribuem para uma gestão integrada e eficiente dos recursos hídricos, visando a segurança hídrica e a
+conservação de solos e nascentes.
+
+1.5 Conservação e manejo da biodiversidade e/ou recursos florestais
+(S) Monitoramento e fiscalização de áreas públicas
+A conservação da biodiversidade é uma das preocupações do município, que muito cedo desenvolveu o Plano Municipal da Mata Atlântica
+, o qual foi atualizado (através da Fase III) no presente ano, com ações de clima, sustentabilidade e biodiversidade. E dentro do
+planejamento do município para a conservação da biodiversidade, foram incluídas algumas ações no presente projeto de Cidade
+Inteligente. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 30
+O Subcomponente de monitoramento e fiscalização de áreas públicas, além de ter um forte impulso pela necessidade de segurança para
+a população, também tem um enfoque, que já vinha sendo utilizado de maneira pontual, de inibir crimes ambientais, assim, ao facilitar e
+agilizar as ações de fiscalização da Secretaria do Meio Ambiente, há impacto direto na conservação da biodiversidade nas áreas públicas
+de preservação permanente e de preservação do Bioma. 
+A malha de sensores, através de um correto Plano elaborado com vistas à conservação da biodiversidade, dentre outros objetivos, e
+associada aos dados gerenciados através do Observatório da Cidade Inteligente, são um subsídio fundamental para implantar as Ações
+do Plano de Biodiversidade que será elaborado pelo município dentro do Escopo da Fase III do Plano da Mata Atlântica, trazendo dados
+de áreas prioritárias para ações de conservação da vegetação nativa, de maneira direta, e impactando também na conservação da fauna
+associada.
+
+(P) Plano de Ação Climática
+No que concerne ao manejo de recursos florestais, convém citar a elaboração do Plano de Mudanças Climáticas, que possui como um dos
+objetivos principais a elaboração de políticas públicas de incentivo ao produtor rural, já que as mudanças do clima impactam diretamente
+na aptidão do território municipal para cultivos agrícolas e florestais ao longo do tempo.
+
+1.6 Melhoria do ambiente de negócios e/ou oportunidades
+(P) Expansão da Conexão por Rede Lógica Municipal
+A expansão da conectividade em áreas públicas visa ampliar o acesso à população, promovendo um ambiente de oportunidades na
+medida em que proporciona acesso ao conhecimento e chances de acessar fontes de comunicação e de divulgação de oportunidades de
+negócio e até empregos, além de facilitar o acesso aos serviços e às políticas públicas disponíveis.
+
+(P) Modelo Experimental de Gestão de Políticas Públicas
+Os modelos experimentais visam recrutar ideias inovadoras de empresas emergentes em estágio inicial de desenvolvimento, promovendo
+novos negócios e oportunidades aos empreendedores como foco para soluções de problemáticas públicas. O município já possui o
+instrumento jurídico necessário, que posto em prática com este modelo experimental trará melhorias às oportunidades de negócio no
+nosso município, que é reconhecido pelo perfil  empreendedor e inovador de seu povo.
+
+(S) Digitalização de Serviços Municipais
+A digitalização dos serviços públicos melhora o ambiente de negócios ao tornar os processos mais eficientes, acessíveis e transparentes.
+As empresas podem acessar facilmente informações, registros e documentos necessários para iniciar ou expandir seus negócios. Isso
+reduz a necessidade de deslocamento físico e tempo gasto em filas ou espera. Isso reduz custos, estimula a inovação, facilita o comércio
+internacional e ajuda a combater a corrupção.
+
+(S) Centro de Inovação de Caxias do Sul
+O restauro do patrimônio público da Maesa está projetado para abrigar um Centro de Inovação, o qual será a principal incubadora de
+novos negócios que visam se desenvolver localmente. Esse ambiente promoverá uma forte cultura empresarial, com abordagem ágil e
+orientada para a inovação, mais uma vez ressaltando o espírito inovador e empreendedor dos caxienses.
+
+1.7 Benefícios para empreendedores individuais, micro e pequenas empresas
+(P) Modelo Experimental de Gestão de Políticas Públicas
+A gestão de políticas públicas desempenha um papel fundamental no apoio ao empreendedorismo e no desenvolvimento econômico local.
+Considerando benefícios como o acesso a recursos financeiros, educação e capacitação, e estímulo à inovação e pesquisa, os modelos
+experimentais visam recrutar ideias inovadoras de empresas emergentes em estágio inicial de desenvolvimento, promovendo novos
+negócios e oportunidades aos empreendedores. 
+
+(S) Digitalização dos Serviços Municipais
+A digitalização dos serviços municipais também trazem benefícios aos empreendedores individuais, micro e pequenas empresas, pois
+permitem facilitar a compreensão e acesso aos serviços oferecidos pelo município e, assim, acelerar o processo de criação e formalização
+desses empreendedores. A tecnologia trará maior celeridade a esses processos, fomentando o empreendedorismo local e
+consequentemente o desenvolvimento da cidade.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 31
+(P) Implantação do Centro de Inovação de Caxias do Sul
+Políticas que incentivam a inovação e a pesquisa são essenciais para impulsionar o empreendedorismo. Isso pode envolver o
+financiamento de programas de pesquisa e desenvolvimento, parcerias com o privado em áreas estratégicas,  parcerias com
+universidades e centros acadêmicos e também, com o município. O centro de inovação facilitará a colaboração entre empreendedores,
+acadêmicos e empresas, bem como com o Poder Público. 
+O empreendedorismo é uma força vital para o crescimento econômico e a inovação em qualquer sociedade. Assim, ao criar um ambiente
+favorável ao surgimento e crescimento de novos negócios, o centro de inovação irá estimular o empreendedorismo, criar empregos e
+promover o desenvolvimento de comunidades prósperas.
+
+1.9 Infraestrutura e/ou equipamentos sociais para populações de baixa renda e vulneráveis
+(S) Monitoramento e fiscalização de áreas públicas
+A implantação do monitoramento inteligente pode definitivamente ser considerada um equipamento social, especialmente quando utilizado
+para atender às necessidades sociais da população, como é o caso desse projeto, que visa monitorar áreas urbanas para atividades
+suspeitas, detectar incêndios, avaliar a qualidade do ar e da água, condições climáticas,  fornecendo alertas antecipados sobre
+tempestades, inundações ou outros eventos climáticos adversos, efetuando o gerenciamento e protegendo a comunidade, principalmente
+os mais vulneráveis. 
+
+(P) Expansão da Conexão por Rede Lógica Municipal
+A conectividade atua como um equipamento social ao melhorar o acesso à informação, promover a comunicação e interação social,
+facilitar o acesso a serviços essenciais, impulsionar o desenvolvimento econômico, promover a educação e capacitação, e fortalecer a
+participação e o engajamento comunitário.
+
+(P) Requalificação e Expansão da Conectividade Wi-Fi Municipal
+A expansão da conectividade em prédios e áreas públicas, especialmente, através da disponibilização de conexão via wi-fi, é fundamental
+para oferecer acesso a serviços essenciais, educação e interação social e econômica. A rede wi-fi nas escolas públicas, por sua vez,
+permite o uso de recursos educacionais online, promove a interação entre alunos e professores, facilita a implantação de soluções de
+educação à distância e suporte educacional remoto, estimula o desenvolvimento de habilidades digitais essenciais, e amplia as
+oportunidades de aprendizado e colaboração, contribuindo assim para a qualidade da educação e o desenvolvimento dos alunos de
+maneira igualitária.
+
+(P) Plano de Gestão da Digitalização do Ensino 
+(P) Formação Continuada dos Profissionais com fornecimento de equipamentos eletrônicos a Rede Pública Municipal de Ensino
+Formar os profissionais para atender as necessidades educacionais digitais do século XXI, e fornecer equipamentos adequados aos
+alunos e professores, garante acesso igualitário à educação, promove o desenvolvimento de habilidades digitais, reduz a disparidade
+digital, favorece a inclusão educacional, e estimula o aprendizado colaborativo, constituindo, portanto, um equipamento social. 
+
+1.10 Ações de inclusão de minorias sociais entre os beneficiários
+(P) Expansão do Monitoramento Municipal
+O monitoramento inteligente engloba os principais acessos e pontos críticos, gerando informações e dados qualificados para melhor
+gestão dos serviços de segurança pública, guarda escolar, solução de crimes, protegendo a comunidade local, principalmente os mais
+vulneráveis em regiões de maiores riscos, como mulheres, crianças, e a comunidade LGBTQIA+. Todas as 83 escolas municipais
+possuirão câmeras de monitoramento do entorno, promovendo inclusão social e fortalecendo  a segurança do ambiente escolar das
+crianças. 
+
+(P) Implantação de Malha de Sensores Conectados
+Os sensores conectados, principalmente os relacionados à prevenção de desastres naturais em áreas de riscos, como enchentes,
+deslizamento de encostas e outros, visam mitigar os riscos à população, com atuação preventiva através do monitoramento contínuo das
+áreas de risco.
+
+(S) Conectividade
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 32
+A conectividade proporciona inclusão de minorias sociais dando acesso a informações, serviços e oportunidades. Também facilita a
+comunicação entre elas, aumenta sua participação na sociedade e ajuda a conscientizar sobre suas necessidades e direitos. 
+
+(P) Plano de Gestão da Digitalização do Ensino 
+(P) Formação Continuada dos Profissionais com fornecimento de equipamentos eletrônicos a Rede Pública Municipal de Ensino
+O ambiente escolar já promove a inclusão das minorias sociais, criando um ambiente de aprendizado que valoriza a diversidade, respeita
+os direitos humanos e prepara os alunos para viverem em uma sociedade mais inclusiva. Mas o ensino digital, com conectividade,
+formação e equipamentos adequados, abre as portas para que os alunos possam explorar e vivenciar outros mundos através das telas.
+Essas tecnologias proporcionam acesso, permitindo que explorem diferentes culturas, realidades e perspectivas, expandindo assim seus
+horizontes para além das fronteiras físicas da sala de aula, promovendo e incentivando pluralidade.
+
+1.11 Políticas voltadas para a juventude, gênero e raça
+(P) Expansão do Monitoramento Municipal
+O monitoramento está voltado principalmente para a redução da violência urbana, especialmente contra mulheres, crianças e comunidade
+LGBTQIA+, inibindo o cometimento de crimes e atos hostis nas vias e espaços públicos.
+Além disso, o monitoramento humanizado de segurança nas escolas visa criar um ambiente seguro e acolhedor, onde os jovens se sintam
+ protegidos, apoiados e respeitados, enquanto também se mantém a integridade física e emocional de toda a comunidade escolar.
+
+(S) Conectividade
+A expansão da conectividade pode beneficiar os jovens, especialmente aqueles de comunidades vulneráveis. Eles podem acessar
+recursos educacionais online, como cursos e tutoriais, aprimorando suas habilidades e oportunidades de emprego. Além disso, a
+conectividade permite que se envolvam mais ativamente na vida política e social, fortalecendo sua voz e influência na formulação de
+políticas comunitárias. Também contribui para o empoderamento feminino, fornecendo acesso a recursos de educação e oportunidades de
+empreendedorismo, e promove a conscientização sobre questões de gênero e raciais. Ademais, estimula a inovação e o
+empreendedorismo, oferecendo acesso a recursos online e oportunidades, o que pode ajudar a reduzir disparidades socioeconômicas
+entre grupos raciais e de gênero.
+
+(P) Formação Continuada dos Profissionais com fornecimento de equipamentos eletrônicos a Rede Pública Municipal de Ensino
+O ensino digital e o acesso às ferramentas tecnológicas têm o potencial de proporcionar um acesso mais equitativo à educação, e essas
+ferramentas podem ajudar a reduzir disparidades no aprendizado, oferecendo oportunidades educacionais mais acessíveis. Além disso,
+elas podem promover o empoderamento feminino, fornecendo acesso a recursos de educação e emprego que incentivam a igualdade de
+gênero e o progresso das mulheres. Também, facilitam discussões e ações online para aumentar a conscientização sobre questões
+raciais, promovendo a diversidade, combatendo o racismo e trabalhando pela igualdade racial e de gênero. Essas ferramentas podem
+desempenhar um papel significativo na promoção da inclusão, igualdade e empoderamento entre jovens e grupos minoritários.
+
+1.12 Melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão e/ou participação cidadã
+(S) Monitoramento e Fiscalização de Áreas Públicas
+O monitoramento inteligente integrado inova na forma de atuação dos agentes de segurança, pois contribui com as autoridades
+responsáveis na solução de crimes e contravenções, por meio de inteligência artificial, identificando-se a autoria e instruindo-se o
+respectivo processo com provas oriundas do sistema. O observatório e a malha de sensores também atuarão na resiliência urbana, no
+controle das mudanças climáticas, riscos ambientais e defesa civil, sendo uma ferramenta de gestão preventiva e inovadora na para a
+tomada de decisões e destinação de recursos públicos baseada em dados. 
+
+(S) Modelo Experimental de Gestão de Políticas Públicas
+Os ambientes regulatórios experimentais (Sandbox) já representam uma abordagem inovadora mesmo no meio privado. No entanto,
+apenas algumas grandes cidades, incluindo Caxias do Sul, têm uma estrutura legal para implementar esses espaços, que são criados
+para permitir que empresas e empreendedores locais testem tecnologias inovadoras que desenvolveram. Este projeto busca promover
+esses ambientes como parceiros na busca por soluções para problemas públicos urbanos, como congestionamento e gestão de resíduos,
+incorporando as tecnologias inovadoras na prestação dos serviços públicos, tornando-os mais eficientes e ágeis. 
+
+(S) Conectividade
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 33
+A expansão da conectividade  alinhada com a digitalização dos serviços municipais, proporciona uma nova forma de interação entre o
+cidadão e o poder público, reduz deslocamentos, permite o acesso à informação de qualidade, evita desencontro de informações, agiliza
+as soluções e ainda propicia transparência no fluxo e gestão dos serviços, sendo um propulsor da participação do cidadão. 
+Ademais, a expansão da wi-fi nas escolas também representa uma inovação nos serviços públicos ao capacitar os alunos com acesso
+equitativo à educação digital, promovendo o desenvolvimento de habilidades relevantes e fomentando a inovação no processo de ensino-
+aprendizagem.
+
+(P) Formação Continuada dos Profissionais com fornecimento de equipamentos eletrônicos a Rede Pública Municipal de Ensino
+Além da conectividade, a melhoria na prestação de serviços públicos alinhada a esses itens está fomentada principalmente na formação
+dos profissionais de educação, para que disponham de ferramentas, não somente tecnológicas com a disponibilidade de equipamentos
+para alunos e professores, mas que também possam utilizar técnicas de ensino digital, plataforma de ensino digital, a fim de promover a
+inclusão digital dos alunos da rede.
+
+(S) Digitalização de Serviços Municipais
+O subcomponente de Digitalização de Serviços Municipais contempla tanto uma melhoria e inovação nos serviços ao cidadão quanto na
+gestão dos mesmos. Primeiramente, a estratégia de digitalização auxiliará a Administração a rever seus processos internos, o que
+representará o redesenho das ferramentas e dos fluxos até que o serviço esteja disponível à população. Esse procedimento  permite
+reduzir a burocracia e aumentar a transparência na prestação de serviços públicos. Sistemas online também permitirão que os cidadãos
+monitorem o status de suas solicitações, acompanhem gastos públicos e tenham acesso a informações relevantes de forma mais rápida e
+fácil, possibilitando maior participação cidadã nas decisões tomadas pelo Município. Além disso, as plataformas digitais abrem espaço
+para a inovação e personalização.
+A digitalização dos serviços públicos pode facilitar o acesso dos cidadãos a uma variedade de serviços, desde solicitar documentos oficiais
+até participar de programas de assistência social e saúde. Isso pode tornar os serviços públicos mais inclusivos e acessíveis a grupos
+marginalizados ou com dificuldades de acesso aos serviços tradicionais.
+
+(S) Centro de Inovação de Caxias do Sul
+O Centro de Inovação, além de estar localizado em um patrimônio público de grande valor para a comunidade, valorizando ainda mais
+este espaço, possibilitará que o uso de tecnologias impulsione a inovação na gestão pública, permitindo o desenvolvimento de novas
+ferramentas e abordagens para resolver problemas complexos, melhorar a qualidade dos serviços e promover a participação cidadã em
+processos decisórios.
+
+1.13 Melhoria das condições de educação e saúde
+(P) Expansão do Monitoramento Municipal
+O controle de áreas públicas através do monitoramento inteligente, evita, por exemplo, a disposição inadequada de resíduos, e contribui
+para detectar poluentes e contaminantes do ar e da água, e rastrear surtos de doenças como a dengue e outras, permitindo uma resposta
+rápida a potenciais ameaças à saúde pública.
+Além disso, o monitoramento preventivo de segurança nas escolas oferece um ambiente seguro que contribui para a melhoria da
+educação, criando um ambiente propício para o aprendizado ao reduzir preocupações com segurança, promover o bem-estar dos alunos e
+ permitir que professores e estudantes se concentrem no ensino e na aprendizagem.
+
+(P) Expansão da Conexão por Rede Lógica Municipal
+A expansão da conectividade nos prédios públicos, principalmente escolas e unidades de saúde, permite maior acesso igualitário da
+população a esses serviços. 
+Quanto à saúde, a conectividade melhora o acesso a serviços de saúde remotamente, através de telemedicina e consultas virtuais. Isso é
+especialmente benéfico para pessoas com dificuldade de acesso a hospitais ou clínicas. Além disso, a conectividade facilita o
+compartilhamento de informações médicas entre profissionais de saúde, o que pode levar a diagnósticos mais rápidos e precisos, além de
+permitir o acompanhamento de pacientes à distância. Também possibilita a disseminação de informações de saúde em larga escala,
+incluindo campanhas de conscientização e educação sobre prevenção de doenças.
+
+(P) Requalificação e Expansão da Conectividade Wi-Fi Municipal
+(P) Plano de Gestão da Digitalização do Ensino 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 34
+(P) Formação Continuada dos Profissionais com fornecimento de equipamentos eletrônicos a Rede Pública Municipal de Ensino
+A expansão da conectividade nas escolas, somada à digitalização do ensino e à formação dos professores, permite que o ensino digital
+seja equitativo e inclusivo, em que alunos e professores têm acesso a recursos educativos, materiais de estudo, vídeos, tutoriais e cursos
+online. A conectividade, alinhada com o fornecimento de equipamentos e a formação dos profissionais, também permite a implementação
+de plataformas de aprendizado personalizadas, adaptadas às necessidades individuais de cada aluno, oferecendo materiais e atividades
+adequados ao seu ritmo, para que possam desenvolver habilidades digitais essenciais, incluindo a capacidade de usar ferramentas digitais
+, comunicar-se online e buscar informações de forma eficaz. Assim, esse conjunto de ações trará uma melhoria imensurável na educação
+e no futuro dos jovens cidadãos, pois contribui para a inclusão e democratização da educação, permitindo que alunos de diferentes
+origens socioeconômicas e geográficas tenham acesso a recursos educativos de qualidade e oportunidades de aprendizado.
+
+(S) Digitalização de Serviços Municipais
+A digitalização dos serviços municipais, em especial a plataforma destinada ao acesso público da população, permitirá que o município
+efetue melhorias significativas na gestão de saúde, dando continuidade na implementação de recursos como a telemedicina, com
+consultas médicas remotas, facilitando acesso a cuidados médicos sem a necessidade de deslocamento físico e a possibilidade de
+agendar consultas médicas online de forma rápida e conveniente. Além disso, essas plataformas podem ajudar na gestão de prontuários
+médicos eletrônicos, facilitando o acompanhamento do histórico de saúde dos pacientes, inclusive gerando alertas e lembretes de
+atividades e ações necessárias, conforme as prescrições médicas.
+A digitalização também permite o acesso fácil a informações sobre saúde e bem-estar através de sites, aplicativos e redes sociais do
+Município, incluindo recursos educacionais, artigos, vídeos e ferramentas interativas que ajudam as pessoas a entenderem melhor suas
+condições de saúde e adotarem hábitos saudáveis.
+
+1.14 Desenvolvimento, inovação e modernização tecnológica
+(C) Transformação Digital da Cidade Inteligente
+(C) Estudos, Planos e Projetos
+O plano de transformação digital tem impacto significativo no desenvolvimento, inovação e modernização tecnológica da cidade, pois está
+focado na implementação de soluções digitais que otimizam processos internos do governo municipal, reduzindo a burocracia, eliminando
+papelada desnecessária e melhorando a eficiência na prestação de serviços públicos, proporcionando qualidade dos serviços oferecidos
+aos cidadãos, o que aumenta a satisfação dos cidadãos e fortalece a confiança e o engajamento na administração pública.
+A utilização de tecnologias inovadoras de monitoramento e sensores conectados, análise de dados e inteligência para melhorar a gestão
+de recursos municipais, como transporte e resíduos, resulta em uma administração mais eficiente e sustentável dos recursos naturais,
+reduzindo custos e impactos ambientais.
+Ao expandir o acesso à tecnologia e à internet, reduzimos a exclusão digital e garantimos acesso igualitário a informações e serviços
+online. Isso promove a inclusão social e econômica, capacitando os cidadãos a participarem mais ativamente na sociedade e na economia
+ digital.
+Além disso, proporcionar um ambiente tecnologicamente avançado estimula a inovação e o empreendedorismo local, criando
+oportunidades para o desenvolvimento de startups, incubadoras de tecnologia e parcerias. Isso atrai investimentos, talentos e
+conhecimentos especializados, impulsionando o crescimento econômico e a criação de empregos de setores econômicos locais, tornando-
+os mais competitivos globalmente. Isso contribui para o desenvolvimento econômico sustentável do município, diversificando sua base
+econômica e aumentando sua resiliência a choques externos.
+Em suma, todo o componente de Transformação Digital da Cidade Inteligente foi pensado para fomentar o desenvolvimento, a inovação e
+também a modernização tecnológica no município de Caxias do Sul, tanto no setor público como em incentivos ao setor privado. 
+E tendo em vista a importância desses avanços significativos propostos no presente projeto, o componente de Estudos, Planos e Projetos,
+através do PDTCI, irá consolidar as transformações na gestão da cidade a longo prazo, auxiliando na implementação das políticas
+públicas necessárias. Por fim, ainda nesse componente, os Planos de Ação Climática e de Gestão Inteligente de Resíduos Sólidos
+ratificam a necessidade e o compromisso do município com o desenvolvimento sustentável, visando mitigação e adaptação frente às
+mudanças climáticas globais, e alinhado aos Objetivos do Desenvolvimento Sustentável (ODS) da ONU.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 35
+Moeda de Referência: Dólar
+Fontes Internas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Contrapartida Financeira
+CF
+US$
+10.000.000,00
+1,00
+10.000.000,00
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Banco de Desenvolvimento da América
+Latina e Caribe - CAF
+CAF
+US$
+40.000.000,00
+1,00
+40.000.000,00
+Total:
+50.000.000,00
+50.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+O Mutuário será o município de Caxias do Sul, tendo como garantidor a República Federativa do Brasil. O executor do Programa é a
+Secretaria Municipal de Gestão e Finanças (SMGF), exercerá suas atividades através da Unidade de Gerenciamento do Programa (UGP)
+que coordenará e supervisionará a execução com base no contrato de empréstimo. 
+O município dispõe de ampla expertise na elaboração, preparação e implementação de projetos, com experiência na execução de
+Programas com financiamento internacional com o CAF para investimentos em diversos setores, como infraestrutura e saneamento.
+Para a gestão e execução, a UGP disporá de equipe técnica capacitada e experiente, constituída por 32 engenheiros civis e ambientais,
+10 arquitetos, 05 contadores, 01 economista, 02 administradores, 09 analistas de sistemas e 18 técnicos de informática, 04 biólogos, 04
+geólogos, mais 160 servidores na área de segurança pública, cerca de 14 servidores na área de desenvolvimento econômico e inovação,
+mais de 200 profissionais na gestão administrativa da educação municipal, 09 procuradores ligados a área de políticas públicas, licitações
+e contratos, 35 servidores lotados na Central de Licitações, dentre outros profissionais. Ressalta-se que parte da equipe técnica já possui
+experiência em outros contratos de financiamento internacional do município, como os Programas de Desenvolvimento da Infraestrutura e
+dos Serviços  Básicos de Caxias do Sul (PDI I e II), ambos realizados com o CAF.
+A capacidade técnica e operacional está distribuída nas unidades que compõem a UGP, conforme minuta do Decreto (Anexo XIV),
+estando habilitada para exercer as atividades inerentes ao Programa, como planejamento, gestão, administração financeira, licitação,
+execução, monitoramento, avaliação e preparação de auditorias.
+A Matriz de Responsabilidade Institucional RACI (Anexo XV) apresenta os órgãos envolvidos na execução e operacionalização do
+Programa, cada um deles desempenha funções específicas, conforme Lei Complementar nº 321, de 22 de dezembro de 2008. Destacam-
+se: 
+a) Secretaria Municipal de Gestão e Finanças (SMGF)
+Atuará na gestão contábil e financeira dos recursos do Programa, ficará diretamente a cargo da UGP que assegurará o cumprimento dos
+objetivos e resultados previstos.
+b) Gabinete do Prefeito Municipal - Escritório de Dados e Gerenciamento de Projetos
+Atuará no assessoramento ao cumprimento das metas, principalmente no processo de construção do PDTCI.
+c) Secretaria Municipal de Planejamento (SEPLAN)
+É responsável pelo acompanhamento da evolução territorial, monitoramento do desenvolvimento atual e por propor futuras ações. No
+Programa, atuará principalmente na implementação do PDTCI.
+d) Secretaria Municipal de Recursos Humanos e Logística (SMRHL)
+Por meio da Diretoria de Tecnologia e Sistemas de Informação, a SMRHL participará da execução de todas as ações voltadas a
+conectividade, Wi-Fi, malha de sensores conectados, digitalização de serviços, e monitoramento digital, ainda provendo apoio, na
+execução das ações vinculadas à digitalização do ensino, e na preparação do PDTCI.
+Além disso, a Diretoria Financeira, de Compras e Licitações (CENLIC), promoverá as licitações de acordo com as leis vigentes.
+e) Secretaria de Segurança Pública e Proteção Social (SMSPPS)
+Participará da execução do sistema de monitoramento, bem como da expansão da rede lógica.
+f) Secretaria Municipal da Educação (SMED)
+No programa, participará da modernização das escolas para abarcar o ensino digital, além de apoiar as ações de conectividade e wi-fi.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 36
+g) Secretaria Municipal do Meio Ambiente (SEMMA)
+Atuará na implantação dos sensores nos projetos experimentais, juntamente com os órgãos responsáveis pela gestão do programa
+Sandbox Caxias, além de liderar a construção do Plano de Gestão Inteligente de Resíduos e do Plano de Ações Climáticas.
+h) Secretaria Municipal do Desenvolvimento Econômico e Inovação (SDEI)
+Participará da execução da implementação do Centro de Inovação e liderará os modelos experimentais de políticas públicas inovadoras. 
+i) Secretaria Municipal de Obras e Serviços Públicos (SMOSP)
+Através da Diretoria de Projetos, atuará no projeto de restauro e requalificação do Complexo Maesa.
+j) Secretaria Municipal da Cultura (SMC)
+Por meio da Divisão de Proteção ao Patrimônio Histórico e Cultural ? DIPPAHC, estará envolvida no restauro e requalificação do
+Complexo Maesa, assegurando a apreciação e aprovação dos projetos de restauro, junto aos conselhos e comitês;
+k) Advocacia-Geral do Município (AGM)
+Oferecerá consultoria jurídica, acompanhará questões legais na contratação do financiamento e emitirá pareceres, conforme a
+necessidade.
+Destaca-se que esta é a terceira operação de crédito externo com o CAF e, portanto,  o município possui pleno conhecimento das políticas
+de salvaguarda do agente financeiro. O CAF utiliza sistemas nacionais na implementação de padrões de licitações, sociais e ambientais,
+área em que Caxias do Sul tem grande experiência.
+4.2. Execução/Executores
+Executor: Secretaria Municipal de Gestão e Finanças do Município de Caxias do Sul ? SMGF
+Representante Oficial: Milton Luiz Balbinot
+Endereço da Sede: Rua Alfredo Chaves, 1333 ? Centro Administrativo, Bairro Exposição
+E-mail Institucional:
+Telefone: (54) 3218.6081
+Fax:
+CNPJ: 88830609000139 
+UF:
+4.3. Execução/Prazo
+Prazo de Desembolso:
+5
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+CAF
+CF
+CAF
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+47.810.000,00
+705.000,00
+1.740.000,00
+   S - MONITORAMENTO E FISCALIZAÇÃO DE ÁREAS PÚBLICAS
+18.800.000,00
+0,00
+500.000,00
+      P - Expansão do Monitoramento Municipal
+11.300.000,00
+0,00
+300.000,00
+      P - Implantação do Observatório da Cidade Inteligente
+4.100.000,00
+0,00
+0,00
+      P - Implantação da Malha de Sensores Conectados
+3.000.000,00
+0,00
+0,00
+      P - Plano da Malha de sensores e equipamentos conectados
+400.000,00
+0,00
+200.000,00
+   S - MODELO EXPERIMENTAL DE GESTÃO DE POLÍTICAS PÚBLICAS
+7.600.000,00
+0,00
+600.000,00
+      P - Modelo Experimental de Gestão de Políticas Públicas
+7.600.000,00
+0,00
+600.000,00
+   S - CONECTIVIDADE
+3.700.000,00
+0,00
+440.000,00
+      P - Expansão da Conexão por Rede Lógica Municipal
+2.200.000,00
+0,00
+440.000,00
+      P - Requalificação e Expansão da Conectividade Wi-Fi Municipal
+1.500.000,00
+0,00
+0,00
+   S - MODERNIZAÇÃO DAS ESCOLAS MUNICIPAIS
+7.400.000,00
+0,00
+200.000,00
+      P - Plano de Gestão da Digitalização do Ensino
+400.000,00
+0,00
+200.000,00
+P - Formação Continuada dos Profissionais com fornecimento de equipamentos eletrônicos à
+Rede Pública Municipal de Ensino
+7.000.000,00
+0,00
+0,00
+   S - DIGITALIZAÇÃO DE SERVIÇOS MUNICIPAIS
+4.510.000,00
+205.000,00
+0,00
+      P - Modelo de Gestão da Digitalização
+410.000,00
+205.000,00
+0,00
+      P - Desenvolvimento da Plataforma de Serviços
+1.000.000,00
+0,00
+0,00
+      P - Digitalização de Serviços ao Cidadão
+3.100.000,00
+0,00
+0,00
+   S - CENTRO DE INOVAÇÃO DE CAXIAS DO SUL
+5.800.000,00
+500.000,00
+0,00
+      P - Restauro e Requalificação do Complexo Maesa
+3.600.000,00
+500.000,00
+0,00
+      P - Implantação do Centro de Inovação de Caxias do Sul
+2.200.000,00
+0,00
+0,00
+C - ESTUDOS, PLANOS E PROJETOS
+1.500.000,00
+430.000,00
+0,00
+      P - Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI)
+600.000,00
+300.000,00
+0,00
+      P - Plano de Ação Climática
+490.000,00
+130.000,00
+0,00
+      P - Plano de Gestão Inteligente de Resíduos Sólidos
+410.000,00
+0,00
+0,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 37
+C - GESTÃO DO PROGRAMA
+300.000,00
+40.000,00
+20.000,00
+      P - Apoio a Gestão do Programa
+200.000,00
+40.000,00
+0,00
+      P - Auditoria Externa
+100.000,00
+0,00
+20.000,00
+C - OUTROS GASTOS
+390.000,00
+0,00
+390.000,00
+      P - Comissão de Financiamento
+340.000,00
+0,00
+340.000,00
+      P - Avaliação do Programa
+50.000,00
+0,00
+50.000,00
+Total
+0,00
+1.175.000,00
+2.150.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+CAF
+CF
+CAF
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+1.505.000,00
+9.590.000,00
+   S - MONITORAMENTO E FISCALIZAÇÃO DE ÁREAS PÚBLICAS
+0,00
+3.950.000,00
+      P - Expansão do Monitoramento Municipal
+0,00
+3.000.000,00
+      P - Implantação do Observatório da Cidade Inteligente
+0,00
+0,00
+      P - Implantação da Malha de Sensores Conectados
+0,00
+750.000,00
+      P - Plano da Malha de sensores e equipamentos conectados
+0,00
+200.000,00
+   S - MODELO EXPERIMENTAL DE GESTÃO DE POLÍTICAS PÚBLICAS
+0,00
+2.000.000,00
+      P - Modelo Experimental de Gestão de Políticas Públicas
+0,00
+2.000.000,00
+   S - CONECTIVIDADE
+500.000,00
+440.000,00
+      P - Expansão da Conexão por Rede Lógica Municipal
+0,00
+440.000,00
+      P - Requalificação e Expansão da Conectividade Wi-Fi Municipal
+500.000,00
+0,00
+   S - MODERNIZAÇÃO DAS ESCOLAS MUNICIPAIS
+0,00
+2.200.000,00
+      P - Plano de Gestão da Digitalização do Ensino
+0,00
+200.000,00
+P - Formação Continuada dos Profissionais com fornecimento de equipamentos eletrônicos à
+Rede Pública Municipal de Ensino
+0,00
+2.000.000,00
+   S - DIGITALIZAÇÃO DE SERVIÇOS MUNICIPAIS
+205.000,00
+1.000.000,00
+      P - Modelo de Gestão da Digitalização
+205.000,00
+0,00
+      P - Desenvolvimento da Plataforma de Serviços
+0,00
+0,00
+      P - Digitalização de Serviços ao Cidadão
+0,00
+1.000.000,00
+   S - CENTRO DE INOVAÇÃO DE CAXIAS DO SUL
+800.000,00
+0,00
+      P - Restauro e Requalificação do Complexo Maesa
+800.000,00
+0,00
+      P - Implantação do Centro de Inovação de Caxias do Sul
+0,00
+0,00
+C - ESTUDOS, PLANOS E PROJETOS
+480.000,00
+0,00
+      P - Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI)
+300.000,00
+0,00
+      P - Plano de Ação Climática
+180.000,00
+0,00
+      P - Plano de Gestão Inteligente de Resíduos Sólidos
+0,00
+0,00
+C - GESTÃO DO PROGRAMA
+40.000,00
+20.000,00
+      P - Apoio a Gestão do Programa
+40.000,00
+0,00
+      P - Auditoria Externa
+0,00
+20.000,00
+C - OUTROS GASTOS
+0,00
+0,00
+      P - Comissão de Financiamento
+0,00
+0,00
+      P - Avaliação do Programa
+0,00
+0,00
+Total
+0,00
+2.025.000,00
+9.610.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+CAF
+CF
+CAF
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+2.300.000,00
+11.590.000,00
+   S - MONITORAMENTO E FISCALIZAÇÃO DE ÁREAS PÚBLICAS
+0,00
+5.050.000,00
+      P - Expansão do Monitoramento Municipal
+0,00
+3.000.000,00
+      P - Implantação do Observatório da Cidade Inteligente
+0,00
+1.300.000,00
+      P - Implantação da Malha de Sensores Conectados
+0,00
+750.000,00
+      P - Plano da Malha de sensores e equipamentos conectados
+0,00
+0,00
+   S - MODELO EXPERIMENTAL DE GESTÃO DE POLÍTICAS PÚBLICAS
+0,00
+2.000.000,00
+      P - Modelo Experimental de Gestão de Políticas Públicas
+0,00
+2.000.000,00
+   S - CONECTIVIDADE
+500.000,00
+440.000,00
+      P - Expansão da Conexão por Rede Lógica Municipal
+0,00
+440.000,00
+      P - Requalificação e Expansão da Conectividade Wi-Fi Municipal
+500.000,00
+0,00
+   S - MODERNIZAÇÃO DAS ESCOLAS MUNICIPAIS
+0,00
+3.000.000,00
+      P - Plano de Gestão da Digitalização do Ensino
+0,00
+0,00
+P - Formação Continuada dos Profissionais com fornecimento de equipamentos eletrônicos à
+Rede Pública Municipal de Ensino
+0,00
+3.000.000,00
+   S - DIGITALIZAÇÃO DE SERVIÇOS MUNICIPAIS
+500.000,00
+1.100.000,00
+      P - Modelo de Gestão da Digitalização
+0,00
+0,00
+      P - Desenvolvimento da Plataforma de Serviços
+500.000,00
+0,00
+      P - Digitalização de Serviços ao Cidadão
+0,00
+1.100.000,00
+   S - CENTRO DE INOVAÇÃO DE CAXIAS DO SUL
+1.300.000,00
+0,00
+      P - Restauro e Requalificação do Complexo Maesa
+1.300.000,00
+0,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 38
+      P - Implantação do Centro de Inovação de Caxias do Sul
+0,00
+0,00
+C - ESTUDOS, PLANOS E PROJETOS
+180.000,00
+0,00
+      P - Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI)
+0,00
+0,00
+      P - Plano de Ação Climática
+180.000,00
+0,00
+      P - Plano de Gestão Inteligente de Resíduos Sólidos
+0,00
+0,00
+C - GESTÃO DO PROGRAMA
+40.000,00
+20.000,00
+      P - Apoio a Gestão do Programa
+40.000,00
+0,00
+      P - Auditoria Externa
+0,00
+20.000,00
+C - OUTROS GASTOS
+0,00
+0,00
+      P - Comissão de Financiamento
+0,00
+0,00
+      P - Avaliação do Programa
+0,00
+0,00
+Total
+0,00
+2.520.000,00
+11.610.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+CAF
+CF
+CAF
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+3.100.000,00
+9.690.000,00
+   S - MONITORAMENTO E FISCALIZAÇÃO DE ÁREAS PÚBLICAS
+0,00
+5.250.000,00
+      P - Expansão do Monitoramento Municipal
+0,00
+3.000.000,00
+      P - Implantação do Observatório da Cidade Inteligente
+0,00
+1.500.000,00
+      P - Implantação da Malha de Sensores Conectados
+0,00
+750.000,00
+      P - Plano da Malha de sensores e equipamentos conectados
+0,00
+0,00
+   S - MODELO EXPERIMENTAL DE GESTÃO DE POLÍTICAS PÚBLICAS
+0,00
+2.000.000,00
+      P - Modelo Experimental de Gestão de Políticas Públicas
+0,00
+2.000.000,00
+   S - CONECTIVIDADE
+500.000,00
+440.000,00
+      P - Expansão da Conexão por Rede Lógica Municipal
+0,00
+440.000,00
+      P - Requalificação e Expansão da Conectividade Wi-Fi Municipal
+500.000,00
+0,00
+   S - MODERNIZAÇÃO DAS ESCOLAS MUNICIPAIS
+0,00
+1.000.000,00
+      P - Plano de Gestão da Digitalização do Ensino
+0,00
+0,00
+P - Formação Continuada dos Profissionais com fornecimento de equipamentos eletrônicos à
+Rede Pública Municipal de Ensino
+0,00
+1.000.000,00
+   S - DIGITALIZAÇÃO DE SERVIÇOS MUNICIPAIS
+500.000,00
+1.000.000,00
+      P - Modelo de Gestão da Digitalização
+0,00
+0,00
+      P - Desenvolvimento da Plataforma de Serviços
+500.000,00
+0,00
+      P - Digitalização de Serviços ao Cidadão
+0,00
+1.000.000,00
+   S - CENTRO DE INOVAÇÃO DE CAXIAS DO SUL
+2.100.000,00
+0,00
+      P - Restauro e Requalificação do Complexo Maesa
+1.000.000,00
+0,00
+      P - Implantação do Centro de Inovação de Caxias do Sul
+1.100.000,00
+0,00
+C - ESTUDOS, PLANOS E PROJETOS
+0,00
+205.000,00
+      P - Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI)
+0,00
+0,00
+      P - Plano de Ação Climática
+0,00
+0,00
+      P - Plano de Gestão Inteligente de Resíduos Sólidos
+0,00
+205.000,00
+C - GESTÃO DO PROGRAMA
+40.000,00
+20.000,00
+      P - Apoio a Gestão do Programa
+40.000,00
+0,00
+      P - Auditoria Externa
+0,00
+20.000,00
+C - OUTROS GASTOS
+0,00
+0,00
+      P - Comissão de Financiamento
+0,00
+0,00
+      P - Avaliação do Programa
+0,00
+0,00
+Total
+0,00
+3.140.000,00
+9.915.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+CAF
+CF
+CAF
+C - TRANSFORMAÇÃO DIGITAL DA CIDADE INTELIGENTE
+1.100.000,00
+6.490.000,00
+8.710.000,00
+39.100.000,00
+   S - MONITORAMENTO E FISCALIZAÇÃO DE ÁREAS PÚBLICAS
+0,00
+4.050.000,00
+0,00
+18.800.000,00
+      P - Expansão do Monitoramento Municipal
+0,00
+2.000.000,00
+0,00
+11.300.000,00
+      P - Implantação do Observatório da Cidade Inteligente
+0,00
+1.300.000,00
+0,00
+4.100.000,00
+      P - Implantação da Malha de Sensores Conectados
+0,00
+750.000,00
+0,00
+3.000.000,00
+      P - Plano da Malha de sensores e equipamentos conectados
+0,00
+0,00
+0,00
+400.000,00
+   S - MODELO EXPERIMENTAL DE GESTÃO DE POLÍTICAS PÚBLICAS
+0,00
+1.000.000,00
+0,00
+7.600.000,00
+      P - Modelo Experimental de Gestão de Políticas Públicas
+0,00
+1.000.000,00
+0,00
+7.600.000,00
+   S - CONECTIVIDADE
+0,00
+440.000,00
+1.500.000,00
+2.200.000,00
+      P - Expansão da Conexão por Rede Lógica Municipal
+0,00
+440.000,00
+0,00
+2.200.000,00
+      P - Requalificação e Expansão da Conectividade Wi-Fi Municipal
+0,00
+0,00
+1.500.000,00
+0,00
+   S - MODERNIZAÇÃO DAS ESCOLAS MUNICIPAIS
+0,00
+1.000.000,00
+0,00
+7.400.000,00
+      P - Plano de Gestão da Digitalização do Ensino
+0,00
+0,00
+0,00
+400.000,00
+P - Formação Continuada dos Profissionais com fornecimento de equipamentos eletrônicos à
+Rede Pública Municipal de Ensino
+0,00
+1.000.000,00
+0,00
+7.000.000,00
+   S - DIGITALIZAÇÃO DE SERVIÇOS MUNICIPAIS
+0,00
+0,00
+1.410.000,00
+3.100.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 39
+      P - Modelo de Gestão da Digitalização
+0,00
+0,00
+410.000,00
+0,00
+      P - Desenvolvimento da Plataforma de Serviços
+0,00
+0,00
+1.000.000,00
+0,00
+      P - Digitalização de Serviços ao Cidadão
+0,00
+0,00
+0,00
+3.100.000,00
+   S - CENTRO DE INOVAÇÃO DE CAXIAS DO SUL
+1.100.000,00
+0,00
+5.800.000,00
+0,00
+      P - Restauro e Requalificação do Complexo Maesa
+0,00
+0,00
+3.600.000,00
+0,00
+      P - Implantação do Centro de Inovação de Caxias do Sul
+1.100.000,00
+0,00
+2.200.000,00
+0,00
+C - ESTUDOS, PLANOS E PROJETOS
+0,00
+205.000,00
+1.090.000,00
+410.000,00
+      P - Plano Diretor de Tecnologias da Cidade Inteligente (PDTCI)
+0,00
+0,00
+600.000,00
+0,00
+      P - Plano de Ação Climática
+0,00
+0,00
+490.000,00
+0,00
+      P - Plano de Gestão Inteligente de Resíduos Sólidos
+0,00
+205.000,00
+0,00
+410.000,00
+C - GESTÃO DO PROGRAMA
+40.000,00
+20.000,00
+200.000,00
+100.000,00
+      P - Apoio a Gestão do Programa
+40.000,00
+0,00
+200.000,00
+0,00
+      P - Auditoria Externa
+0,00
+20.000,00
+0,00
+100.000,00
+C - OUTROS GASTOS
+0,00
+0,00
+0,00
+390.000,00
+      P - Comissão de Financiamento
+0,00
+0,00
+0,00
+340.000,00
+      P - Avaliação do Programa
+0,00
+0,00
+0,00
+50.000,00
+Total
+50.000.000,00
+1.140.000,00
+6.715.000,00
+10.000.000,00
+40.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+ATOS LEGAIS
+A implementação das ações contidas no PRODIGITAL não está, de uma forma geral, vinculada ou subordinada a atos legais necessários
+em fases anteriores à contratação do financiamento, à exceção das definições estruturais para criação da Unidade de Gerenciamento do
+Programa (UGP), bem como da autorização legislativa para contratação do empréstimo junto ao CAF, a serem realizados no momento
+oportuno, conforme minuta (Anexo XVI). 
+Em relação especificamente ao Complexo MAESA, por se tratar de patrimônio tombado em nível municipal, todas as ações deverão ser
+pautadas e em consonância com o "Plano Geral - Diagnóstico e Diretrizes", especificamente como consta aprovado pelo Conselho de
+Patrimônio Histórico e Cultural de Caxias do Sul - COMPAHC, por meio da Resolução n.º 36/2021, sendo outras medidas legais podem
+ser exigidas a fim de viabilizar a requalificação do empreendimento. 
+Também sabe-se que outros atos legais poderão ser requeridos pelo agente financiador ou pela União no processo de negociação do
+financiamento.
+
+RISCOS
+Entre os principais riscos do projeto estão problemas ocasionados pela segurança de dados, que são inerentes ao uso de tecnologias para
+ processamento, controle e monitoramento de pessoas, locais e políticas públicas da cidade inteligente. Isso inclui:
+Vazamento de informações pessoais;
+Ataques cibernéticos;
+Vigilância em massa;
+Falhas de segurança em sensores conectados;
+Falta de conformidade com regulamentações de privacidade;
+Desigualdades digitais, entre outros.
+Outro aspecto de risco em relação ao projeto está relacionado à rápida obsolescência dos ativos tecnológicos. Além disso, as
+necessidades de manutenção e/ou substituição dos equipamentos também devem ser considerados, bem como eventuais atualizações
+devido à evolução tecnológica dos sistemas.
+Especificamente quanto ao Complexo Maesa, entende que, entre os principais riscos do projeto estão a violação às normas do patrimônio
+cultural, ausência de autorizações municipais necessárias, à própria degradação do patrimônio por ausência de ativação do espaço e falta
+de manutenção. O local, com tombamento em nível municipal, deverá seguir as diretrizes estabelecidas no "Plano Geral - Diagnóstico e
+Diretrizes", especificamente no que consta aprovado pelo COMPAHC por meio da Resolução n.º 36/2021. Além disso, devido aos usos
+históricos do Complexo Maesa, o licenciamento ambiental exige a realização de investigação confirmatória de contaminação ambiental a
+ser elaborada conforme Diretriz Técnica n.º 003/2021 - DIRTEC/FEPAM e ABNT NBR 1551-2.
+
+AÇÕES MITIGADORAS
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 40
+Para mitigar o risco relacionado com a segurança de dados, o município já incorporou diversos procedimentos, inclusive provenientes da
+Lei Geral de Proteção de Dados (LGPD) e, adotará no âmbito desse projeto, juntamente com as aquisições de bens e serviços, a
+implementação de medidas robustas de segurança cibernética, incluindo criptografia de dados, autenticação de usuários, monitoramento
+contínuo de ameaças e conscientização sobre segurança digital para servidores e cidadãos. Além disso, através do apoio a gestão do
+Programa, o município pretende se subsidiar da contratação de profissionais consultores especialistas em segurança de dados,
+observância de preceitos legais aplicáveis, entre outros, dando suporte a AGM para criação de base jurídica sobre direitos digitais, que
+garanta a transparência no uso e proteção a dados pessoais.
+Em relação aos desafios relacionados à obsolescência dos ativos tecnológicos e aos custos associados aos reparos e substituição de
+equipamentos, o município pretende incluir cláusulas específicas nos processos licitatórios para aquisição de equipamentos, como a
+exigência de um período mínimo de garantia e manutenção. Além disso, provisões adequadas de quantidades de bens poderão cobrir
+eventuais problemas não providos pelas garantias dos fabricantes ou fornecedores. De todo modo, o município também possui pessoal
+técnico próprio para realizar manutenções e substituições de equipamentos dessa natureza e atuará para minimizar os impactos desse
+risco.
+Quanto às atualizações tecnológicas, é essencial reconhecer que estas ocorrem de forma contínua ao longo do tempo. Nesse sentido, o
+município deve estar atento às melhorias oferecidas pelo mercado, a fim de assegurar a evolução e o desenvolvimento da iniciativa de
+cidade inteligente.
+Relativamente ao Complexo Maesa, diante dos riscos identificados e minimamente caracterizados, a cidade está envidando esforços a fim
+de dirimi-los por meio de ações que visem estreitar uma conjunção de esforços com a Divisão de Proteção ao Patrimônio Histórico e
+Cultural - DIPPAHC, da Secretaria Municipal da Cultura, elaborando o documento "Diretrizes para Projeto de Restauro", que deverá ser
+anexo do edital de licitação, a fim de cumprir questões legais quanto a preservação do patrimônio. Em relação à possibilidade de
+contaminações ambientais, a Secretaria Municipal do Meio Ambiente - SEMMA, está diligenciando a contratação de um laudo de
+investigação confirmatória. A partir disso, se poderá entender com maior precisão o risco atrelado à obtenção do licenciamento ambiental
+da área e as medidas mitigadoras. 
+
+5.2. RISCOS/CONTRATAÇÕES
+De uma forma geral, a execução do programa irá requerer a contratação de consultorias especializadas, que darão suporte às equipes
+próprias do município, e serão contratadas por meio de licitações, no momento adequado, conforme determinação do contrato de
+financiamento do PRODIGITAL.
+A execução do Programa será realizada por uma Unidade de Gerenciamento (UGP), composta por profissionais qualificados, incluindo
+aqueles voltados à área de aquisições, que utilizarão as modalidades de licitação exigidas, fundamentalmente, pela Lei nº 14.133, de 1º de
+ abril de 2021.
+Ressalta-se que o município já possui em seu quadro de funcionários pessoas com experiência em gerenciamento de programas
+semelhantes ao PRODIGITAL, os quais poderão ser mobilizados à medida em que for requerido.
+
+CONTRATAÇÃO DE PESSOAL
+Não há previsão de contratações de pessoal fixo no decorrer do programa com o objetivo de atender a demandas específicas deste.
+
+RISCOS
+Podemos relacionar que as contratações em geral também são riscos possíveis desse programa, causados principalmente pela ausência
+de rigor durante a realização do procedimento licitatório, que pode ocasionar a escolha de empresa técnica e/ou financeiramente incapaz,
+podendo suscitar, entre outros aspectos, em:
+- Má qualidade na execução de projetos e serviços;
+- Má qualidade no acompanhamento dos serviços do Programa;
+- Incapacidade de aplicação do investimento;
+- Descumprimento do cronograma estipulado;
+- Acidentes de trabalho e paralisação da execução.
+
+AÇÕES MITIGADORAS
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 41
+Uma das formas de mitigar os riscos das contratações é o município impor rigor nos critérios de seleção técnica nos editais de licitação,
+valorizando tanto a experiência pretérita, quanto a capacidade financeira para projetos de magnitude compatível com aqueles propostos
+no âmbito do Programa. Deve-se considerar, ainda, que, a contratação de profissionais e/ou empresas especializadas para apoio a gestão
+do programa poderá atuar na consultoria técnica de elaboração dos processos licitatórios, principalmente quanto à observância de
+normas técnicas, requisitos de qualidade, controle do cronograma, dentre outros elementos. 
+Importante ressaltar que o município conta com uma Diretoria Financeira, de Compras e Licitações (CENLIC), que vem garantindo
+celeridade aos processos, mitigando riscos na execução das atividades, com experiência em licitações que envolvem financiamento
+externo e também na tipologia das ações previstas no âmbito do PRODIGITAL.
+5.3. RISCOS/DESAPROPRIAÇÕES
+Não estão previstas desapropriações para atender à execução dos projetos elencados neste programa, destacando-se que o imóvel que
+abrigava a antiga Metalúrgica Abramo Eberle S/A, patrimônio histórico municipal, foi doado pelo Estado do Rio Grande do Sul à
+Municipalidade de Caxias do Sul, por força das Leis Estaduais nº 14.617/14 e nº 15.742/21, não havendo óbices quanto ao início das
+atividades de projeto de restauro, previstas nesta operação.
+
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+A implementação dos projetos e iniciativas contidos nos componentes da presente operação, a princípio, não é passível de degradação
+ambiental, se consideradas as exigências e normas vigentes. A antiga Metalúrgica Abramo Eberle S/A sediava atividades administrativas
+e vestiários, quando das atividades fabris no local, razão pela qual são remotas as chances de existência de passivo ambiental a ser
+remediado no local. Contudo, serão cumpridas todas as possíveis exigências oriundas dos Estudos de Impacto Ambiental do
+empreendimento do Centro de Inovação de Caxias do Sul, conforme a legislação vigente.
+As políticas urbanas digitais visam reduzir significativamente os efeitos ambientais adversos e gerar impactos ambientais positivos,
+principalmente quanto à sustentabilidade, inteligência e resiliência da cidade. Além das iniciativas previstas no componente principal dessa
+operação, nesse quesito destacam-se os impactos ambientais decorrentes do Plano Diretor de Tecnologia da Cidade Inteligente (PDTCI),
+ do Plano de Ação Climática e do Plano de Gestão Inteligente de Resíduos.
+O Plano Diretor de Tecnologia da Cidade Inteligente (PDTCI) pode ter impactos ambientais tanto positivos quanto negativos. Entre os
+impactos positivos estão a redução do deslocamento físico, a eficiência energética e a facilitação da gestão ambiental. Por outro lado, os
+impactos negativos incluem o consumo de recursos, o aumento do consumo de energia e as emissões de carbono associadas, bem como
+o problema do descarte inadequado de equipamentos eletrônicos, o que deverá ser considerado como ação prevista no momento de sua
+concepção.
+O Plano de Ação Climática e de Gestão Inteligente de Resíduos, são fundamentais para consolidar as principais iniciativas que impactam
+o ambiente neste projeto. Eles abrangem a redução das emissões de gases de efeito estufa, a proteção da biodiversidade, a adaptação às
+mudanças climáticas, o estímulo à economia verde e circular, aprimoramento da disposição inadequada e gestão de resíduos, e a
+melhoria da qualidade do ar e da água. Essas medidas contribuem significativamente para mitigar as mudanças climáticas e seus efeitos
+prejudiciais, promovendo um ambiente mais saudável e sustentável.
+
+5.5. RISCOS/IMPACTO SOCIAL
+Por meio da transformação digital, o município busca melhorar a qualidade dos serviços prestados à população e promover a inclusão
+social, principalmente das minorias. Entre os principais impactos sociais se destacam: 
+maior segurança urbana através de sistemas de vigilância inteligente, análise de dados para prevenção de crimes e resposta mais rápida
+a emergências;
+melhorias nos serviços públicos essenciais, como mobilidade, segurança, saneamento e gestão de resíduos;
+redução da desigualdade digital por meio da conectividade, promovendo assim um desenvolvimento mais equitativo e sustentável;
+acesso a recursos educacionais online, aprendizagem remota e  desenvolvimento de habilidades digitais essenciais para o mercado de
+trabalho atual;
+serviços públicos online que facilitam o acesso da população a informações e recursos, melhorando a eficiência e a transparência da
+administração;
+incentivo a inovação em diversos setores, estimulando o surgimento de novas ideias, startups e soluções tecnológicas para desafios
+urbanos;
+qualidade das informações geradas para a tomada de decisões conscientes e alinhadas com as necessidades da população, constituindo
+os dados como um ativo para a geração de valor social.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:32
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61171
+Página: 42
+De outro ponto, o monitoramento municipal deverá observar, fielmente, as normas e melhores práticas de segurança, privacidade e
+proteção de dados, garantindo-se ainda que, do processo de expansão dos pontos de monitoramento e incrementos de inteligência
+aplicada ao processamento das imagens e analíticos, não emerjam práticas discriminatórias ou baseadas em viés racial, por meio dos
+algoritmos empregados, sendo que esse possível impacto negativo já foi elencado como risco do presente projeto, e será observado na
+respectiva implementação. 
+Por fim, a área das intervenções previstas no PRODIGITAL não possui populações tradicionais, indígenas ou quilombolas.
+
+5.6. RISCOS/REASSENTAMENTOS
+O programa não prevê reassentamentos ou deslocamento de famílias.
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 

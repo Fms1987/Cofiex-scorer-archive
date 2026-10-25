@@ -1,0 +1,1692 @@
+# Carta-Consulta CC_60930 — Versao 1 (SIGS)
+
+
+CARTA CONSULTA
+
+Programa de Qualificação das Centralidades de Belo Horizonte
+
+Nº Carta Consulta: 60930
+Mutuário: Município de Belo Horizonte - MG
+Tipo de Operação: Operação de crédito externo
+
+Fontes Internas:
+Contrapartida Financeira: US$ 10.200.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 40.800.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+O município de Belo Horizonte, capital do Estado de Minas Gerais, Brasil, abrange um território de 331 km², integralmente demarcado
+como perímetro urbano, e conta atualmente com uma população de aproximadamente 2,5 milhões de habitantes. Belo Horizonte é
+responsável por 3,8% do PIB brasileiro - quarto lugar, após São Paulo, Rio de Janeiro e Brasília. É o município pólo da região
+metropolitana que leva o seu nome, constituído por 34 municípios (IBGE, 2022). O IDH do município é de 0,810 (Censo, 2010).
+
+Belo Horizonte vem se destacando dentre as cidades inclusivas, seguras, resilientes e sustentáveis. Signatária da Nova Agenda Urbana -
+NAU. A cidade tem trabalhado para pôr em prática os pressupostos e os Objetivos de Desenvolvimento Sustentável - ODS, especialmente
+através do novo Plano Diretor, aprovado recentemente por meio da Lei Municipal nº 11.181 de 08 de agosto de 2019.  Os princípios,
+objetivos e diretrizes contidos no Plano Diretor fundamentam-se também na Função Social da Propriedade e da Cidade, nos termos do Art
+. 182 da Constituição Federal de 1988 e do Art. 2º da Lei Federal nº 10.257/2001 - Estatuto da Cidade.
+
+O Plano Diretor do Município de Belo Horizonte contempla a consideração de acordos e pactos vinculados à NAU, com destaque para os
+princípios orientados pelo ODS-11, e tem entre seus objetivos a concepção de estratégias de ordenamento do território que consideram a
+necessidade de orientar a expansão urbana, dando prioridade à renovação urbana por meio do planejamento para a oferta de
+infraestrutura e serviços acessíveis e bem conectados, densidades populacionais sustentáveis, desenho compacto e integração de novas
+centralidades ao tecido urbano, evitando a marginalização e a dispersão urbana.
+
+Uma das propostas centrais incorporada ao Plano Diretor para alcançar esse objetivo é o de formação e consolidação de uma rede de
+centralidades com densidade populacional, conectividade e variedade de atividades econômicas e de prestação de serviços, a partir da
+configuração de unidades de vizinhança qualificada, desenho urbano inclusivo e medidas de sustentabilidade e redução de carbono.
+
+Definidas no Plano Diretor como sendo ?porções do território municipal onde se pretende direcionar maior adensamento construtivo e
+populacional e promover a concentração de atividades econômicas?, as centralidades estão mapeadas e classificadas no Plano Diretor
+como Centralidades Regionais e Centralidades Locais, conforme área de influência.
+
+As centralidades podem alterar a dinâmica e a vitalidade das regiões onde se encontram por meio da provisão de infraestruturas
+qualificadas e serviços acessíveis e conectados, conformando Unidades de Vizinhança Qualificadas (UVQ). O Plano Diretor de Belo
+Horizonte define as UVQs como porções territoriais nas quais devem ser formadas redes de deslocamento a pé e cicloviárias que
+propiciem o acesso de residentes e usuários ao comércio, aos serviços, aos equipamentos comunitários e de lazer e às áreas verdes, bem
+como ao sistema de transporte coletivo, garantindo a expansão da urbanidade na escala local. A conformação de UVQs pulverizadas na
+cidade busca reduzir a necessidade de deslocamento da população no exercício de atividades cotidianas, associada à qualificação urbana
+e ambiental em áreas de grande importância para o convívio social.
+
+Nesse contexto, o município cria o Programa de Qualificação das Centralidades de Belo Horizonte (ou Programa Centralidades Urbanas),
+cujo objetivo é efetivar a formação da rede de centralidades qualificadas, através de produção de modelos de intervenção no território,
+promovendo ações de melhorias urbanísticas, ambientais, econômicas e sociais, integrando as centralidades e reestruturando a dinâmica
+urbana do município.
+
+A rede de centralidades abrange 2.075 logradouros no município (ver anexo I), dentre os quais se destacam as centralidades das regiões
+Centro-Lagoinha, Waldomiro Lobo, Angola, Itaité, Sinfrônio Brochado e Padre Eustáquio.
+
+Dessas, a região Centro-Lagoinha - um dos principais pólos de articulação da dinâmica urbana de Belo Horizonte e região metropolitana -
+é indicada como piloto de implementação do programa em razão do seu potencial de promoção e estruturação da rede de centralidades
+do município.
+
+Nota 1 -  Dados do Instituto Brasileiro de Geografia e Estatística (IBGE).
+
+Nota 2 - A Nova Agenda Urbana A Nova Agenda Urbana foi adotada na Conferência das Nações Unidas sobre Habitação e
+Desenvolvimento Urbano Sustentável (Habitat III), realizada em Quito (Equador), em 20 de de outubro de 2016. Foi aprovada pela
+Assembleia Geral das Nações Unidas (AGNU) no 68º encontro plenário para a sua 71ª sessão em 23 de Dezembro de 2016. Disponível
+no site: <https://habitat3.org/wp-content/ uploads/NUA-Portuguese-Brazil.pdf>. Acesso em: 28 de abril de 2022.
+
+Nota 3 - O Estatuto da Cidade está disponível no site <http://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm>. Acesso em: 28 de
+abril de 2022.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+O Programa de Qualificação das Centralidades de Belo Horizonte visa o fortalecimento da rede de centralidades do município a partir de
+um modelo metodológico de intervenção para áreas de centralidades, pautado nos princípios do Plano Diretor do Município de Belo
+Horizonte.
+
+O fomento às centralidades visa a promoção do desenvolvimento urbanístico, social e econômico dessas áreas de forma sustentável,
+incluindo possibilidades de incentivos, de colaborações, de encontros e de convivência. As centralidades devem oferecer oportunidades
+que busquem incorporar experiências sociais variadas e contemplar a diversificação de atividades econômicas que valorizem a cultura
+local.
+
+
+Página: 3
+
+A rede de centralidades deve romper com o urbanismo homogêneo que reproduz uma lógica de valorização apenas das atividades de
+produção, trabalho e consumo e de separação das atividades de cuidados familiares no contexto da cidade. Assim, ao aproximarmos
+moradia, trabalhos e serviços e lazer, priorizando condições que promovam com qualidade o uso misto e a mobilidade ativa, contribuímos
+para um espaço urbano mais equitativo, em alinhamento com o 11º Objetivo de Desenvolvimento Sustentável (ODS) das Nações Unidas,
+Cidades e Comunidades Sustentáveis.
+
+A implementação de um projeto piloto terá papel fundamental no processo de retomada econômica e qualificação urbanística e ambiental
+do município. Em sua fase de execução, espera-se que as intervenções tragam benefícios sociais e econômicos, sendo um dos principais
+a ativação da economia local, traduzida pela oferta de novos postos de trabalho no setor da construção civil, indústria de equipamentos e
+serviços, além dos seus efeitos multiplicadores e sinérgicos, em particular para os moradores e moradoras da região de intervenção.
+Dessa forma, pelo potencial de alocação de mão-de-obra em massa, aumentar o nível de renda e empregos no âmbito local constitui-se
+como um fator dinâmico de crescimento econômico.
+
+Os espaços públicos receberão usos comerciais diversos, contemplando atividades tradicionais e modernas, valorizando a cultura local e
+incluindo maiores possibilidades de incentivos, colaborações, encontros e convivência.
+
+A proposta também visa superar dificuldades de circulação e acesso por pedestres, desconexão com seu entorno e presença de áreas
+remanescentes desconectadas e sem uso, através da qualificação urbanística e ambiental por meio da promoção do uso e apropriação
+das áreas remanescentes do sistema viário. Ao aproximar moradia, trabalho, serviços e lazer, priorizando condições que promovam com
+qualidade o uso misto e a mobilidade ativa, espera-se a redução da necessidade de deslocamentos da população no exercício de
+atividades cotidianas, associada à qualificação urbana e ambiental em área de grande importância para o convívio social.
+
+A implantação de um circuito para pedestres e ciclistas promoverá a melhor inserção da região no tecido urbano da cidade através da
+conexão de áreas residuais, as estações de transporte coletivo, a partir da qualificação de percursos qualificados, contínuos e acessíveis.
+Articuladas ao circuito, serão implantados espaços públicos com atividades de lazer, comerciais, de serviços, sociais, culturais,
+educacionais, recreativas e esportivas. Os espaços irão oferecer oportunidades que buscam incorporar experiências sociais variadas,
+abrangendo crianças, idosos, diferentes faixas de renda e gênero. Espera-se que a reconfiguração de usos nesses espaços altere a
+dinâmica do lugar potencializando a identidade local como espaço cultural de lazer e encontro.
+
+Assim, em síntese, o projeto pode ser considerado como um importante instrumento catalisador da política de recuperação
+socioeconômica em Belo Horizonte, dando visibilidade e impulsionando a estruturação de uma rede de centralidades sustentável,
+qualificada, integrada e ativa.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+ORIENTAÇÕES ESTRATÉGICAS
+
+O Plano Diretor de Belo Horizonte, Lei Municipal nº 11.181/2019 (Anexo II) é o instrumento básico da política urbana do Município, que
+contém as normas fundamentais de ordenamento da cidade para o cumprimento da função social da propriedade urbana. O Plano
+apresenta os princípios da política de desenvolvimento urbano do Município, entre eles o estímulo à formação e à consolidação de centros
+e centralidades em todas as regiões do Município, de forma a reduzir a necessidade de deslocamentos da população para exercício de
+atividades cotidianas.
+
+O Plano Diretor de Mobilidade de Belo Horizonte - PlanMob-BH foi elaborado em conformidade com as diretrizes da Política Nacional de
+Mobilidade Urbana (Lei Federal nº 12.587/2012) e instituído pelo Decreto Municipal nº 15.137/2013. O PlanMob-BH está disponível no site:
+https://prefeitura.pbh.gov.br/bhtrans/informacoes/planmob-bh/apresentacao.
+
+O PlanMob explicita a necessidade de integração entre a política municipal de mobilidade urbana e a ocupação e o uso do solo, através
+do estímulo do adensamento das áreas de centralidades e entorno dos corredores de transporte coletivo e do tratamento dos espaços
+públicos de forma facilitar o acesso às estações de transporte coletivo, às centralidades e estimular o uso dos modos ativos de transporte (
+art. 296).
+
+A Política Municipal de Habitação - PMH teve suas diretrizes estabelecidas inicialmente na Resolução nº II/1994 do Conselho Municipal de
+Habitação (CMH), período em que foi instituído o Sistema Municipal de Habitação (SMH) de Belo Horizonte. Recentemente, as diretrizes
+foram atualizadas por meio da aprovação e publicação da Resolução nº LII/2018 do CMH. Neste contexto encontram-se definidos os
+princípios e os critérios que orientam a Política, bem como os projetos, os programas e as ações voltados para o conjunto de
+Assentamentos de Interesse Social existentes no município.
+
+O programa tem aderência com a Ação 2566 do PPAG (Anexo III).
+
+CONTRAPARTIDA
+
+Informamos que a origem da contrapartida está em conformidade com o disposto na Resolução COFIEX nº 3 de 29/5/2019.
+
+TAXA DE CAMBIO
+
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+A taxa de câmbio referencial considerada para esta Carta Consulta é de US$ 1,00 = R$ 5,3032, taxa de câmbio oficial de compra
+fornecida pelo Banco Central - Sistema SISBACEN, vigente no dia 05/07/2022.
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa de Qualificação das Centralidades de Belo Horizonte
+
+
+### 2.2. Título Abreviado
+
+
+Programa Centralidades Urbanas
+
+
+### 2.3. Mutuário
+
+
+Município de Belo Horizonte - MG
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Objetivo Geral
+
+O Programa Centralidades Urbanas consiste na implantação de um modelo estratégico de intervenção no território com objetivo de
+fomentar o desenvolvimento urbano sustentável por meio do fortalecimento da rede de centralidades de Belo Horizonte a partir de três
+eixos estruturantes: (1) qualificação do espaço público, das áreas verdes,  das infraestruturas e  dos equipamentos públicos de uso
+coletivo e valorização da cultura e patrimônio; (2) fomento da mobilidade e acessibilidade urbana, com vistas ao melhor aproveitamento da
+infraestrutura de transporte coletivo instalada, bem como à priorização da circulação de pedestres e ciclistas em detrimento do transporte
+individual motorizado; (3) promoção do adensamento construtivo e populacional, ampliação da diversidade de usos e diversidade
+econômica.
+
+São objetivos específicos do Programa Centralidades:
+
+Promover a renovação resiliente e sustentável do território estimulada pela qualificação urbana e pelos incentivos ao uso misto e à
+diversidade de atividades econômicas, com melhoria da infraestrutura, garantia do acesso a serviços, valorização e potencialização dos
+atributos locais, minimizando efeitos negativos às mudanças climáticas;
+
+Promover intervenções de baixo impacto ambiental, alinhadas com os objetivos da agenda de desenvolvimento sustentável e baseados
+em ecossistemas saudáveis para a adaptação e mitigação às mudanças do clima;
+
+Promover intervenções que reduzam especialmente a vulnerabilidade das pessoas, garantam equidade de gênero e acesso para
+mulheres, crianças, idosos, negros, indígenas, pessoas LGBTQIA+, pessoas com deficiência e outras minorias sociais;
+
+Estimular o uso de transporte coletivo e a mobilidade ativa nas centralidades por meio de qualificação, implantação de infraestrutura e
+soluções de melhoria de acessibilidade vinculadas aos conceitos de Desenvolvimento Orientado ao Transporte ? DOT;
+
+Estimular o desenvolvimento e fortalecimento do comércio local, com ampliação e diversificação das atividades econômicas, estímulo à
+geração de emprego e renda, estruturação de ciclos produtivos e distributivos das atividades comerciais, implementação de ações de
+economia criativa, economia circular  e carbono zero, investimento em capital humano e social, e a mobilização da participação de atores
+locais e a constituição de lideranças.
+
+
+### 2.6. Projeto/Indicadores
+
+
+Descrição
+Implantação e requalificação de praças e
+parques
+
+Requalificação de vias, implantação de
+infraestrutura viária e ciclovias
+
+Produção de unidades habitacionais
+
+Implantação e requalificação equipamento
+público
+
+
+### 2.7. Projeto/Componentes
+
+
+Metro Quadrado
+
+Metro Quadrado
+
+Fórmula de Cálculo Unidade de Medida
+Área com
+Urbanização,
+Parques e Praças
+Área de via,
+infraestrutura viária e
+ciclovia
+Unidade Habitacionais
+a serem construídas
+Área de Equipamento
+Público a ser
+construído ou
+requalificado
+
+Metro Quadrado
+
+Unidade
+
+Linha de Base
+0,00
+
+Meta
+90.000,00
+
+0,00
+
+30.000,00
+
+0,00
+
+0,00
+
+335,00
+
+5.000,00
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Componentes
+C - INTERVENÇÕES URBANÍSTICAS EM CENTRALIDADES
+S - MELHORIAS AMBIENTAIS E URBANÍSTICAS DO ESPAÇO PÚBLICO
+P - Implantação e requalificação de praças e parques
+P -  Requalificação de vias, implantação de infraestrutura viária e ciclovias
+S - PRODUÇÃO DE HABITAÇÃO DE INTERESSE SOCIAL
+P - Produção de unidades habitacionais
+S - CONSTRUÇÃO E REQUALIFICAÇÃO DE EQUIPAMENTO PÚBLICO
+P -  Implantação e requalificação equipamento público
+S - DESAPROPRIAÇÃO
+P - Desapropriação
+S - ARQUITETURA, URBANISMO E ENGENHARIA
+P - Estudos, Consultorias e Projetos
+C - GESTÃO DO PROGRAMA
+P - Supervisão de obras
+P - Gerenciamento e Apoio ao Programa
+P - Montagem de escritório e aquisição de equipamentos
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 5
+
+Valor(US$)
+48.000.000,00
+22.500.000,00
+21.500.000,00
+1.000.000,00
+14.000.000,00
+14.000.000,00
+1.500.000,00
+1.500.000,00
+6.000.000,00
+6.000.000,00
+4.000.000,00
+4.000.000,00
+3.000.000,00
+1.600.000,00
+1.350.000,00
+50.000,00
+51.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - INTERVENÇÕES URBANÍSTICAS EM CENTRALIDADES
+O componente Intervenções Urbanísticas em Centralidades envolve todas as etapas de desenvolvimento e execução de
+intervenções, englobando projetos e obras nas centralidades elegíveis. Os investimentos deste componente correspondem a US$
+48.000.000,00, equivalente a 94,12% do total do Programa. Este componente contém os Subcomponentes correspondentes: (i)
+Melhorias Ambientais e Urbanísticas do Espaço Público; (ii) Produção de Habitação de Interesse Social; (iii) Construção e
+Requalificação de Equipamento Público; e (iv) Arquitetura, Urbanismo e Engenharia.
+
+S - MELHORIAS AMBIENTAIS E URBANÍSTICAS DO ESPAÇO PÚBLICO
+O subcomponente Melhorias Ambientais e Urbanísticas consiste no conjunto de intervenções para requalificação, integração e
+promoção das centralidades. Os investimentos deste subcomponente correspondem a US$22.500.000,00, equivalente a 44,12%
+do total do Programa. Este subcomponente contém os produtos: (i) Implantação e requalificação de praças e parques; (ii)
+Requalificação de vias, implantação de infraestrutura viária e ciclovias.
+
+P - Implantação e requalificação de praças e parques
+Este produto prevê a implantação e requalificação de 90.000,00m² de praças e parques localizados em centralidades e suas
+adjacências. O valor para este produto está estimado em US$21.500.000,00, incluindo o acompanhamento das obras.
+
+P -  Requalificação de vias, implantação de infraestrutura viária e ciclovias
+Este produto prevê a requalificação de vias, a implantação de infraestrutura viária e de ciclovias em área equivalente a 30.000,
+00m², localizadas nas centralidades e suas adjacências. O valor para este produto está estimado em US$1.000.000,00, incluindo o
+acompanhamento das obras.
+
+S - PRODUÇÃO DE HABITAÇÃO DE INTERESSE SOCIAL
+O subcomponente Produção de Habitação de Interesse Social consiste na produção pública de edifícios com Habitação de
+Interesse Social (HIS), conjugados a equipamentos de uso comercial. Voltado para a população com salário inferior a 1,5 salários
+mínimos, o edifício visa promover a produção pública de habitação do município para atendimento da política habitacional. Os
+investimentos deste subcomponente correspondem a US$14.000.000,00, equivalente a 27,45% do total do Programa. Este
+subcomponente contém o produto: (i) Produção de unidades habitacionais.
+
+P - Produção de unidades habitacionais
+Este produto prevê a implantação de 335 unidades de habitações, com aproximadamente 45m² cada, destinadas às famílias mais
+vulneráveis. O produto prevê ainda a implantação de áreas de uso coletivo e uso comercial nos edifícios de HIS, com gestão a ser
+realizada por entidades da sociedade civil. O valor para este produto está estimado em US$14.000.000,00, incluindo o
+acompanhamento das obras.
+
+S - CONSTRUÇÃO E REQUALIFICAÇÃO DE EQUIPAMENTO PÚBLICO
+O subcomponente Construção e Requalificação de Equipamento Público consiste na construção de equipamento de uso público e
+requalificação de equipamento público existente. Os investimentos deste subcomponente correspondem a US$1.500.000,00,
+equivalente a 2,94% do total do Programa. Este subcomponente contém o produto: (i) Implantação e requalificação equipamento
+público.
+
+P -  Implantação e requalificação equipamento público
+Este produto prevê a implantação e requalificação de 5.000,00m² de equipamento público. O valor para este produto está estimado
+em US$1.500.000,00, incluindo o acompanhamento das obras.
+
+
+Página: 6
+
+S - DESAPROPRIAÇÃO
+O subcomponente Desapropriação consiste na compra de áreas para implantação de espaços e equipamentos públicos. Os
+investimentos deste subcomponente correspondem a US$6.000.000,00, equivalente a 11,77% do total do Programa. Este
+subcomponente contém o produto: (i) Desapropriação.
+
+P - Desapropriação
+Este produto prevê a desapropriação de área total de 11.000,00m². O valor para este produto está estimado em US$6.000.000,00.
+
+S - ARQUITETURA, URBANISMO E ENGENHARIA
+O subcomponente Arquitetura, Urbanismo e Engenharia consiste na contratação de empresas e responsáveis técnicos para
+elaboração e desenvolvimento de Estudos, Consultorias Técnicas e Projetos para dar suporte aos componentes do Programa. Os
+investimentos deste subcomponente correspondem a US$4.000.000,00, equivalente a 7,84% do total do Programa. Este
+subcomponente contém os produtos correspondentes: (i) Estudos, Consultorias e Projetos.
+
+P - Estudos, Consultorias e Projetos
+Este produto prevê a elaboração e desenvolvimento de estudos, consultorias e projetos para 150.000,00m² de intervenção. O valor
+para este produto está estimado em US$4.000.000,00.
+
+C - GESTÃO DO PROGRAMA
+O componente Gestão do Projeto consiste na criação de uma Unidade de Gerenciamento do Programa (UGP). A UGP atuará
+como interlocutora junto ao agente financiador e contará com o apoio da Unidade Executora do Programa (UEP) e ainda com o
+suporte de todos os órgãos do poder executivo municipal afetos ao Programa. Assim, para que a gestão ocorra de forma eficiente
+e proporcione o alcance das metas estabelecidas, são necessárias consultorias de apoio e aquisição de equipamentos, indicados,
+com atividades de auditoria externa e avaliação econômica, bem como para prestação de serviços de comunicação e de
+gerenciamento de empreendimentos. Os investimentos deste componente correspondem a US$3.000.000,00, equivalente a 5,88%
+do total do Programa. Este componente contém os produtos correspondentes: (i) Supervisão de obras; (ii) Gerenciamento e Apoio
+ao Programa; (iii) Montagem de escritório e aquisição de equipamentos.
+
+P - Supervisão de obras
+Este produto prevê a contratação de empresas e responsáveis técnicos para supervisão das obras. O valor para este produto está
+estimado em US$1.600.000,00.
+
+P - Gerenciamento e Apoio ao Programa
+Este produto prevê a contratação de consultorias para apoio ao Programa,  com a contratação de profissionais para apoio à
+fiscalização de projetos, planejamento executivo de obras, monitoramento e controle, aquisições, apoio administrativo, gestão
+financeira e comunicação, entre outros. O valor para este produto está estimado em US$1.350.000,00.
+
+P - Montagem de escritório e aquisição de equipamentos
+Este produto prevê a montagem de escritório da UGP e da UEP e aquisição de equipamentos para gerenciamento e
+monitoramento do projeto. O valor para este produto está estimado em US$50.000,00.
+
+Categoria de Gasto
+
+Obras
+P- Implantação e requalificação de praças e
+parques
+P-  Requalificação de vias, implantação de
+infraestrutura viária e ciclovias
+P- Produção de unidades habitacionais
+P-  Implantação e requalificação equipamento
+público
+Bens
+P- Montagem de escritório e aquisição de
+equipamentos
+Consultoria
+Capacitação e Treinamento
+Outros
+P- Desapropriação
+P- Estudos, Consultorias e Projetos
+Total Geral
+
+Unidade de medida
+-
+metro quadrado
+
+Meta
+
+-
+90.000,00
+
+Valor
+
+% Financeiro
+
+38.000.000,00
+21.500.000,00
+
+metro quadrado
+
+30.000,00
+
+1.000.000,00
+
+unidade
+metro quadrado
+
+335,00
+5.000,00
+
+-
+unidade
+
+-
+-
+-
+metro quadrado
+metro quadrado
+-
+
+-
+1,00
+
+-
+-
+-
+11.000,00
+150.000,00
+-
+
+14.000.000,00
+1.500.000,00
+
+50.000,00
+50.000,00
+
+0,00
+0,00
+10.000.000,00
+6.000.000,00
+4.000.000,00
+51.000.000,00
+
+74,51
+42,16
+
+1,96
+
+27,45
+2,94
+
+0,10
+0,10
+
+0,00
+0,00
+19,61
+11,76
+7,84
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Das ações e etapas já realizadas e em andamento no âmbito do Programa Centralidades, destacam-se:
+
+Definição e mapeamento das centralidades de compõem a rede de centralidades do município, conforme Lei 11.181/2019;
+
+Definição de critérios para hierarquização das centralidades prioritárias para intervenção;
+
+
+Página: 7
+
+Aprovação da Portaria que institui o Programa de Qualificação de Centralidades de Belo Horizonte.
+
+No âmbito da região Centro-Lagoinha, destacam-se:
+
+Pesquisa de percepção ambiental qualitativa e quantitativa, sendo a qualitativa feita através de pesquisa de campo usuários da região e a
+quantitativa através de formulário disponibilizado na internet e que contou com a participação de cerca de 700 pessoas.
+
+Aprovação dos órgãos envolvidos na pauta: BHTrans, Secretaria Municipal de Cultura, Secretaria Municipal de Meio Ambiente de Belo
+Horizonte.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Municipal
+MUNICIPIO DE  BELO HORIZONTE(MG)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+Pretende-se financiar US$51.000.000,00, com prazo de desembolso de 60 meses, prazo de carência de 60 meses, prazo de amortização
+linear semestral depois da carência, totalizando 300 meses, prazo total de 360 meses.
+
+Taxa de Juros BID:
+
+Linha FFF CO LIBOR3 - Produtos Vigentes Capital Ordinário
+
+- Taxa de referência: 1,04%
+
+- Margem de financiamento: 0,18%
+
+- Margem para empréstimo BID: 0,90%
+
+- Taxa de Juros: 2,12% a.a.
+
+Necessidade de financiamento externo e a opção pelo agente financeiro
+
+A demanda por intervenções no município de Belo Horizonte, por se tratar de uma metrópole, é grande. Os recursos municipais são,
+normalmente, insuficientes e, portanto, torna-se imprescindível a captação de recursos externos. Para isso, recentemente a Prefeitura
+manteve parcerias com instituições como o Banco Interamericano de Desenvolvimento (BID) e o Banco de Desenvolvimento da América
+Latina (CAF). O primeiro organismo citado financiou dois empréstimos com o Município em 2004 e 2013 na ordem de US$ 50 milhões
+cada para o Programa Recuperação Ambiental de Belo Horizonte (DRENURBS), que teve como objetivo assegurar a sustentabilidade das
+melhorias urbanas mediante a consolidação da gestão municipal em drenagem e meio ambiente, por meio de consultorias e obras em
+bacias estratégicas. O segundo organismo citado financiou o empréstimo de US$ 82,5 milhões para o Programa de Governo e do
+Orçamento Participativo, que contempla obras de mobilidade (recuperação de ruas e avenidas, e melhorias da sinalização, das calçadas e
+ciclovias em corredores de transporte urbano); reabilitação urbana por meio da regeneração de duas praças públicas emblemáticas;
+obras de saúde através de investimentos em unidades de atendimento primário, atendimento especializado e a remodelação e ampliação
+de um dos principais hospitais da cidade; além da modernização institucional com investimentos em sistemas tecnológicos que permitam
+uma maior eficiência na gestão dos serviços de saúde e na formulação e acompanhamento de projetos de investimento.
+
+Parcerias com o BID
+
+Quanto à escolha pelo Banco Interamericano de Desenvolvimento (BID), destaca-se a parceria exitosa e longeva desta instituição com o
+Município de Belo Horizonte que remonta, por exemplo, às parcerias na década de 1960 - como na Adutora do Rio das Velhas,
+inaugurada em 1973, que foi na época a maior obra de saneamento de Belo Horizonte.
+
+Recentemente, em 2012, o BID financiou o projeto piloto de Desenvolvimento Orientado ao Transporte no Eixo Leste e Vetor Norte de
+Belo Horizonte. O trabalho foi desenvolvido por meio de consultoria internacional coordenada pelo IBI GROUP. Esta empresa canadense
+foi contratada pelo Ministério de Desenvolvimento Regional (MDR), com financiamento do BID, como parte de um programa abrangente
+que visa promover o Desenvolvimento Sustentável Orientado para o Transporte (DOT) no Brasil. O estudo, produto ambicioso e feito com
+minucioso diálogo com outras iniciativas de DOT em todo o mundo, tem importância imensurável como referência para balizar projetos
+urbanísticos futuros em Belo Horizonte e contribuirá com o avanço do programa DOT em Minas Gerais. O trabalho financiado pelo BID
+traça diretrizes para ações futuras nas áreas estudadas que poderão trazer benefícios para toda Região Metropolitana de Belo Horizonte.
+
+(cid:10)
+
+
+Página: 8
+
+Outro exemplo recente da parceria BID-PBH é a Cooperação Técnica - CT BR-T1474 ?Apoio ao Desenho de Projetos de
+Desenvolvimento Urbano Integrado para Municípios Brasileiros?, firmada em 2022, em que o BID fornecerá assistência técnica, através da
+consultoria do IBI GROUP, no desenvolvimento de um modelo metodológico de intervenção para áreas de centralidades, pautado nos
+princípios do Plano Diretor do Município de Belo Horizonte (Lei 11.181/2019). O modelo a ser desenvolvido deverá trazer aspectos
+inovadores nas áreas de desenvolvimento urbano integrado, resiliência urbana, desenvolvimento econômico local e instrumentos de
+implementação. Tal modelo definirá as diretrizes para futuras intervenções e será aplicado, ainda dentro do escopo do presente estudo, no
+diagnóstico e elaboração de um projeto conceitual para Centralidade Waldomiro Lobo, como piloto de intervenção a ser replicada,
+compreendendo estratégias e intervenções urbanísticas, econômicas, sociais e sustentáveis. Neste projeto, serão estudadas ações para
+proporcionar a melhoria do cotidiano dos cidadãos, por meio da aplicação de instrumentos de política urbana, da qualificação urbanística
+da região, do incentivo ao uso do transporte coletivo e de modos ativos de circulação.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+Por meio das melhorias urbanísticas, promoção de usos públicos e retomada econômica promovida pela estruturação da rede de
+centralidades, o Programa Centralidades beneficiará toda a população do município de Belo Horizonte, estimada em 2.500.000 habitantes.
+
+O fomento às centralidades visa a promoção do desenvolvimento urbanístico, social e econômico dessas áreas de forma sustentável,
+incluindo possibilidades de incentivos, de colaborações, de encontros e de convivência e oferecem oportunidades que buscam incorporar
+experiências sociais variadas e contemplar a diversificação de atividades econômicas que valorizem a cultura local.
+
+As Unidades de Vizinhança Qualificada, atreladas à promoção de oportunidades e acessos consolidados na implementação das
+centralidades, vão ao encontro à concepção de cidades mais inclusivas na perspectiva de gênero, ao promover uma conformação urbana
+que reduz as distâncias entre habitação e atividades associadas aos cuidados das famílias.
+
+Os espaços irão oferecer oportunidades que buscam incorporar experiências sociais variadas, abrangendo crianças, idosos, diferentes
+faixas de renda e gênero.
+
+Centralidades: 2.075 logradouros em centralidades
+
+Extensão total de centralidades: 826.820,00m
+
+Área aproximada total de centralidades: 2.546.605,6m²
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Interamericano de Desenvolvimento
+- BID
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BID
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+10.200.000,00
+Valor Proposto
+
+40.800.000,00
+
+51.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+10.200.000,00
+Valor de Referência US
+$
+40.800.000,00
+
+51.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+O Poder Executivo Municipal, cuja personalidade jurídica se intitula Município de Belo Horizonte, representado pelo Prefeito Municipal, é
+constituído pelos Órgãos da Administração Direta e Indireta. A gestão e a execução do Programa será compartilhada por Órgãos da
+Administração Direta e Indireta da Prefeitura, sendo os principais setores:
+
+Secretaria Municipal de Política Urbana (SMPU) responsável por coordenar e articular as políticas de planejamento, elaborar planos,
+programas e projetos de desenvolvimento urbano e implementar ações que proporcionem qualidade do espaço público por meio de
+iniciativas de planejamento urbano e coordenação de projetos urbanos especiais.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 9
+
+Subsecretaria de Planejamento Urbano (SUPLAN) tem como competência planejar e coordenar a elaboração e a implementação da
+política de planejamento urbano, para o desenvolvimento sustentável e para o pleno cumprimento da função social da propriedade.
+
+Secretaria Municipal de Obras e Infraestrutura (SMOBI), como órgão da Administração Direta, é responsável por planejar, coordenar,
+controlar, regular e avaliar as ações setoriais a cargo do Município relativas a obras públicas, infraestrutura urbana e moradia.
+
+Superintendência de Desenvolvimento da Capital (Sudecap) responsável pela elaboração de projetos e execução de obras e
+gerenciamento de contratos de obras e serviços de engenharia firmados pelo Poder Executivo.
+
+Companhia Urbanizadora e de Habitação de Belo Horizonte (URBEL) responsável pela implementação da Política Municipal de Habitação,
+através da elaboração de planos e projetos, execução de obras de urbanização, regularização fundiária, assistência técnica, produção de
+novas moradias e Trabalho Social, para moradores de assentamentos de interesse social e população de baixa renda;
+
+A Unidade Gestora e a Unidade Executora do Projeto serão compostas principalmente por funcionários da Prefeitura e serão apoiadas por
+consultores contratados externamente, conforme necessário. O arranjo proposto conta com autoridades locais dentro da estrutura
+governamental.
+
+O Anexo III apresenta a estrutura organizacional do município.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Prefeitura Municipal de Belo Horizonte - MG
+
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+Fax:
+UF:
+
+C - INTERVENÇÕES URBANÍSTICAS EM CENTRALIDADES
+
+48.000.000,00
+
+3.379.080,00
+
+4.480.920,00
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+CF
+
+BID
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+S - MELHORIAS AMBIENTAIS E URBANÍSTICAS DO ESPAÇO PÚBLICO
+
+P - Implantação e requalificação de praças e parques
+
+P -  Requalificação de vias, implantação de infraestrutura viária e ciclovias
+
+S - PRODUÇÃO DE HABITAÇÃO DE INTERESSE SOCIAL
+
+P - Produção de unidades habitacionais
+
+S - CONSTRUÇÃO E REQUALIFICAÇÃO DE EQUIPAMENTO PÚBLICO
+
+P -  Implantação e requalificação equipamento público
+
+S - DESAPROPRIAÇÃO
+
+P - Desapropriação
+
+S - ARQUITETURA, URBANISMO E ENGENHARIA
+
+P - Estudos, Consultorias e Projetos
+
+C - GESTÃO DO PROGRAMA
+
+P - Supervisão de obras
+
+P - Gerenciamento e Apoio ao Programa
+
+P - Montagem de escritório e aquisição de equipamentos
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - INTERVENÇÕES URBANÍSTICAS EM CENTRALIDADES
+
+COMPONENTES
+
+S - MELHORIAS AMBIENTAIS E URBANÍSTICAS DO ESPAÇO PÚBLICO
+
+P - Implantação e requalificação de praças e parques
+
+P -  Requalificação de vias, implantação de infraestrutura viária e ciclovias
+
+S - PRODUÇÃO DE HABITAÇÃO DE INTERESSE SOCIAL
+
+P - Produção de unidades habitacionais
+
+S - CONSTRUÇÃO E REQUALIFICAÇÃO DE EQUIPAMENTO PÚBLICO
+
+P -  Implantação e requalificação equipamento público
+
+S - DESAPROPRIAÇÃO
+
+22.500.000,00
+
+21.500.000,00
+
+1.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+2.025.000,00
+
+1.935.000,00
+
+90.000,00
+
+14.000.000,00
+
+379.080,00
+
+880.920,00
+
+14.000.000,00
+
+379.080,00
+
+880.920,00
+
+1.500.000,00
+
+1.500.000,00
+
+0,00
+
+0,00
+
+135.000,00
+
+135.000,00
+
+6.000.000,00
+
+3.000.000,00
+
+6.000.000,00
+
+3.000.000,00
+
+4.000.000,00
+
+4.000.000,00
+
+3.000.000,00
+
+1.600.000,00
+
+1.350.000,00
+
+50.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.440.000,00
+
+1.440.000,00
+
+615.000,00
+
+320.000,00
+
+270.000,00
+
+25.000,00
+
+0,00
+
+3.379.080,00
+
+5.095.920,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+BID
+
+4.010.880,00
+
+9.169.120,00
+
+0,00
+
+0,00
+
+0,00
+
+5.400.000,00
+
+5.160.000,00
+
+240.000,00
+
+1.010.880,00
+
+2.349.120,00
+
+1.010.880,00
+
+2.349.120,00
+
+0,00
+
+0,00
+
+360.000,00
+
+360.000,00
+
+3.000.000,00
+
+0,00
+
+(cid:10)
+
+
+Página: 10
+
+P - Desapropriação
+
+S - ARQUITETURA, URBANISMO E ENGENHARIA
+
+P - Estudos, Consultorias e Projetos
+
+C - GESTÃO DO PROGRAMA
+
+P - Supervisão de obras
+
+P - Gerenciamento e Apoio ao Programa
+
+P - Montagem de escritório e aquisição de equipamentos
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - INTERVENÇÕES URBANÍSTICAS EM CENTRALIDADES
+
+COMPONENTES
+
+S - MELHORIAS AMBIENTAIS E URBANÍSTICAS DO ESPAÇO PÚBLICO
+
+P - Implantação e requalificação de praças e parques
+
+P -  Requalificação de vias, implantação de infraestrutura viária e ciclovias
+
+S - PRODUÇÃO DE HABITAÇÃO DE INTERESSE SOCIAL
+
+P - Produção de unidades habitacionais
+
+S - CONSTRUÇÃO E REQUALIFICAÇÃO DE EQUIPAMENTO PÚBLICO
+
+P -  Implantação e requalificação equipamento público
+
+S - DESAPROPRIAÇÃO
+
+P - Desapropriação
+
+S - ARQUITETURA, URBANISMO E ENGENHARIA
+
+P - Estudos, Consultorias e Projetos
+
+C - GESTÃO DO PROGRAMA
+
+P - Supervisão de obras
+
+P - Gerenciamento e Apoio ao Programa
+
+P - Montagem de escritório e aquisição de equipamentos
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - INTERVENÇÕES URBANÍSTICAS EM CENTRALIDADES
+
+COMPONENTES
+
+S - MELHORIAS AMBIENTAIS E URBANÍSTICAS DO ESPAÇO PÚBLICO
+
+P - Implantação e requalificação de praças e parques
+
+P -  Requalificação de vias, implantação de infraestrutura viária e ciclovias
+
+S - PRODUÇÃO DE HABITAÇÃO DE INTERESSE SOCIAL
+
+P - Produção de unidades habitacionais
+
+S - CONSTRUÇÃO E REQUALIFICAÇÃO DE EQUIPAMENTO PÚBLICO
+
+P -  Implantação e requalificação equipamento público
+
+S - DESAPROPRIAÇÃO
+
+P - Desapropriação
+
+S - ARQUITETURA, URBANISMO E ENGENHARIA
+
+P - Estudos, Consultorias e Projetos
+
+C - GESTÃO DO PROGRAMA
+
+P - Supervisão de obras
+
+P - Gerenciamento e Apoio ao Programa
+
+P - Montagem de escritório e aquisição de equipamentos
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - INTERVENÇÕES URBANÍSTICAS EM CENTRALIDADES
+
+COMPONENTES
+
+S - MELHORIAS AMBIENTAIS E URBANÍSTICAS DO ESPAÇO PÚBLICO
+
+P - Implantação e requalificação de praças e parques
+
+P -  Requalificação de vias, implantação de infraestrutura viária e ciclovias
+
+S - PRODUÇÃO DE HABITAÇÃO DE INTERESSE SOCIAL
+
+P - Produção de unidades habitacionais
+
+S - CONSTRUÇÃO E REQUALIFICAÇÃO DE EQUIPAMENTO PÚBLICO
+
+P -  Implantação e requalificação equipamento público
+
+S - DESAPROPRIAÇÃO
+
+P - Desapropriação
+
+S - ARQUITETURA, URBANISMO E ENGENHARIA
+
+P - Estudos, Consultorias e Projetos
+
+C - GESTÃO DO PROGRAMA
+
+P - Supervisão de obras
+
+3.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.060.000,00
+
+1.060.000,00
+
+615.000,00
+
+320.000,00
+
+270.000,00
+
+25.000,00
+
+0,00
+
+4.010.880,00
+
+9.784.120,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+VALOR
+
+CUSTO
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+Ano 3
+
+FONTES
+
+CF
+
+BID
+
+1.179.360,00
+
+10.580.640,00
+
+0,00
+
+0,00
+
+0,00
+
+6.300.000,00
+
+6.020.000,00
+
+280.000,00
+
+1.179.360,00
+
+2.740.640,00
+
+1.179.360,00
+
+2.740.640,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+420.000,00
+
+420.000,00
+
+0,00
+
+0,00
+
+1.120.000,00
+
+1.120.000,00
+
+590.000,00
+
+320.000,00
+
+270.000,00
+
+0,00
+
+0,00
+
+1.179.360,00
+
+11.170.640,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+Ano 4
+
+FONTES
+
+CF
+
+BID
+
+1.221.480,00
+
+10.038.520,00
+
+0,00
+
+0,00
+
+0,00
+
+6.525.000,00
+
+6.235.000,00
+
+290.000,00
+
+1.221.480,00
+
+2.838.520,00
+
+1.221.480,00
+
+2.838.520,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+435.000,00
+
+435.000,00
+
+0,00
+
+0,00
+
+240.000,00
+
+240.000,00
+
+590.000,00
+
+320.000,00
+
+270.000,00
+
+0,00
+
+0,00
+
+1.221.480,00
+
+10.628.520,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+BID
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+409.200,00
+
+3.530.800,00
+
+10.200.000,00
+
+37.800.000,00
+
+0,00
+
+0,00
+
+0,00
+
+2.250.000,00
+
+2.150.000,00
+
+100.000,00
+
+0,00
+
+0,00
+
+0,00
+
+22.500.000,00
+
+21.500.000,00
+
+1.000.000,00
+
+409.200,00
+
+990.800,00
+
+4.200.000,00
+
+9.800.000,00
+
+409.200,00
+
+990.800,00
+
+4.200.000,00
+
+9.800.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+150.000,00
+
+150.000,00
+
+0,00
+
+0,00
+
+1.500.000,00
+
+1.500.000,00
+
+0,00
+
+0,00
+
+6.000.000,00
+
+6.000.000,00
+
+140.000,00
+
+140.000,00
+
+590.000,00
+
+320.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+4.000.000,00
+
+4.000.000,00
+
+3.000.000,00
+
+1.600.000,00
+
+
+Página: 11
+
+P - Gerenciamento e Apoio ao Programa
+
+P - Montagem de escritório e aquisição de equipamentos
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+0,00
+
+0,00
+
+270.000,00
+
+0,00
+
+0,00
+
+0,00
+
+1.350.000,00
+
+50.000,00
+
+51.000.000,00
+
+409.200,00
+
+4.120.800,00
+
+10.200.000,00
+
+40.800.000,00
+
+O primeiro risco esperado diz respeito à aprovação do projeto de lei pela Câmara Municipal. Há consenso político de que a operação é
+desejada pela cidade em geral e pela região afetada em particular, o que significa que o conselho provavelmente aprovará o projeto.
+
+Um segundo risco está relacionado à efetiva adesão da operação por parte das incorporadoras. Também se espera que isso seja baixo,
+uma vez que o custo dos direitos de construção está vinculado aos preços atuais e baixos dos terrenos na área, e estão vinculados a isso.
+Isso significa que o custo dos direitos de construção deve diminuir (ou aumentar) dinamicamente de acordo com as taxas de juros
+atraentes para o desenvolvimento.
+
+Um terceiro risco identificado é a possível resistência da população local à operação. Processos participativos têm ocorrido e devem ser
+parte permanente da gestão da operação, garantindo uma soma positiva de impacto social em todas as fases.
+
+Por fim, quanto à aplicação de normas e procedimentos para aquisição, lastreadas nas metodologias determinadas por organismos
+financiadores internacionais, o conteúdo desse Projeto de Lei não traz inovações que comprometam o entendimento jurisprudencial até
+então consolidado.
+
+A Procuradoria-Geral do Município (PGM) é o órgão que representa o Município de Belo Horizonte judicialmente. Cabem à PGM as
+atividades de consultoria e assessoramento jurídicos e, privativamente, a execução de dívida ativa (art. 114 da Lei Orgânica do Município
+de Belo Horizonte).
+
+5.2. RISCOS/CONTRATAÇÕES
+
+As principais contratações previstas pelo Programa são: serviços de consultoria serviços de consultoria para detalhamento dos projetos e
+obras de urbanização; serviços de consultoria para detalhamento de projetos e obras de unidades habitacionais; serviços de consultoria
+para detalhamento dos projetos e obras de equipamentos comunitários; serviços de consultoria para elaboração de estudos-chave; e
+serviços de consultoria para apoio ao gerenciamento do Programa.
+
+Cabe destacar que a equipe da PBH, e notadamente a SUDECAP, agência que integra a UEP (tal qual detalhado no arranjo institucional
+proposto) tem ampla experiência e capacidade na gestão de contratos de desenvolvimento de projetos e execução de obras públicas de
+infraestrutura (pavimentação,  saneamento, habitação e mobilidade).
+
+Sabe-se que as citadas contratações seguirão os procedimentos de salvaguardas e de licitação do agente financiador, e que isto
+representa riscos de atrasos nos processos de contratação e execução, pela necessária curva de aprendizado que deve ser adquirida.
+Porém, destaca-se, também, a familiaridade das equipes da Prefeitura com tais procedimentos, aprofundada, mais recentemente, na
+preparação dos documentos técnicos e editais de programas de complexidade análoga junto ao Banco Mundial, em fase de contratação.
+O arranjo de licitações é atribuído à UEP / SMOBI, capacitada para conduzir as ações com a máxima celeridade possível.
+
+Ainda assim, e para mitigar potenciais riscos, as equipes irão desenvolver os Termos de Referência e Editais das principais atividades a
+serem contratadas com antecedência, antes do processo de contratação do empréstimo propriamente dito. Ademais, o programa prevê a
+contratação de profissionais para apoiar o gerenciamento do programa e empresas que auxiliem na fiscalização da prestação do serviço.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+As intervenções propostas pelo programa, tais como a implantação de equipamentos e HIS pontualmente demandam a desapropriação de
+terrenos privados. Em geral, são áreas que apresentam edificações subutilizadas, com elevado grau de degradação, e situações de
+irregularidades, cabendo, ainda, a utilização dos instrumentos do Estatuto da Cidade para garantir os princípios constitucionais da função
+social da propriedade. Parte das áreas são de domínio público e foram objeto de desapropriação em processos anteriores de intervenção
+viária.
+
+A garantia para a execução do Programa e a realização das desapropriações necessárias para a liberação integral das áreas requeridas
+será a Lei de Desapropriação por Utilidade Pública, que define as poligonais de intervenção e possibilita assim a utilização de
+procedimentos jurídicos nos casos em que, em não havendo comum acordo entre as partes para que se realize a desapropriação
+administrativa, seja necessária a desapropriação ou desocupação por via judicial.
+
+Na eventualidade da existência de alguns imóveis com título de propriedade, as desapropriações por utilidade pública ou social estão
+devidamente amparadas pela Constituição Federal e as avaliações disciplinadas por normas técnicas da ABNT.
+
+Para as áreas a serem desapropriadas, foi feita estimativa de custos de desapropriação, que integrou os montantes de contrapartida já
+previstos para o Programa.
+
+A SMOBI será responsável pela ação de desapropriação e indenizações.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 12
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+As intervenções do programa ocorrerão em áreas urbanas já consolidadas e seus impactos, tendem, portanto, a envolver principalmente
+transtornos na fase de obras (geração de poeira e ruído, limitação de acesso de pessoas e veículos em ruas e edificações, corte
+temporário de energia, interrupção temporária de água, alteração de trânsito, dentre outros, porém, a serem sanados/reduzidos nas ações
+ambientais e de controle durante a execução de serviços, para níveis/condições aceitáveis e legais).
+
+O processo de requerimento do licenciamento ambiental, ainda não iniciado, ocorrerá quando de posse dos projetos, sendo inicialmente
+pleiteadas Licenças Prévias (LPs), para posterior obtenção das Licenças de Instalação (LI), a serem solicitadas à época da execução das
+obras .
+
+As intervenções previstas pelo programa serão submetidas ao processo de Licenciamento Ambiental no âmbito da Secretaria Municipal de
+Meio Ambiente de Belo Horizonte (SMMA) e do Conselho Municipal do Meio Ambiente (COMAM).
+
+Será elaborado estudo ambiental em conformidade com as exigências do órgão licenciador, a ser contratado pelo poder público. Os
+estudos visam a identificação e análise dos potenciais impactos ambientais decorrentes das respectivas intervenções, tanto na área
+diretamente afetada quanto no seu entorno. Para tanto, os fatores ambientais caracterizados no estudo ? tais como recursos hídricos,
+condições geológicas e geotécnicas, formações vegetais, inter-relações fauna-flora, composição e percepção socioambiental da
+população direta ou indiretamente afetada, uso e ocupação do solo e infraestrutura urbana ? serão confrontados com as características
+geográficas, construtivas e operacionais do empreendimento. Analisados os possíveis impactos, na obtenção das licenças ambientais,
+serão propostas pelo órgão ambiental competente ações para mitigar os seus efeitos adversos nas distintas etapas de implantação e
+operação do empreendimento, bem como medidas de controle e monitoramento.
+
+Para mitigar eventuais impactos de prazo na obtenção das licenças e/ou de capacidade na gestão destes impactos, a UEP contará com
+especialistas em gestão de riscos e impactos ambientais, que estarão capacitados a adotar, de modo alinhado, às medidas preventivas e
+mitigadoras necessárias com base na legislação nacional e de acordo com os princípios, diretrizes e procedimentos do Arcabouço
+Ambiental e Social do organismo multilateral.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+O programa tem como premissa a melhoria da qualidade de vida por meio de ações de requalificação social, urbanística e ambiental em
+centralidades.
+
+Os principais impactos adversos do Programa seriam, portanto, relativos a eventual ineficiência (ou descumprimento), por parte da
+Prefeitura, em assegurar os direitos e/ou garantir, em prazos adequados, soluções de melhoria de vida da população habitante na área de
+intervenções. Outro aspecto que merece especial atenção são eventuais processos de gentrificação resultantes das intervenções a serem
+realizadas pelo Programa. Sobre isso, a legislação urbanística municipal conta com instrumentos de captura de mais valia fundiária que
+tem por objetivo mitigar esses processos. A Secretaria Municipal de Planejamento Urbano conta ainda com estrutura de gestão e
+monitoramento do valor da terra.
+
+Finalmente, a Prefeitura desenvolverá os instrumentos para a gestão dos riscos sociais de acordo com os princípios, diretrizes e
+procedimentos do Arcabouço Ambiental e Social do organismo multilateral. A UEP contará com especialistas em gestão de riscos e
+impactos sociais, que estarão capacitados para garantir as condições acima.
+
+Não há interferência sobre populações indígenas ou quilombolas.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+As intervenções ora propostas não demandam remoção e reassentamentos a princípio. Todavia, caso no decorrer do projeto algum
+reassentamento seja necessário Belo Horizonte conta com regulamentação estruturada na Política Municipal de Habitação e sólida
+experiência em ações desse tipo.
+
+No caso de remoção, serão oferecidas diferentes alternativas de atendimento, previstas na Política Municipal de Habitação (Resolução LII-
+Deliberação do Conselho Municipal de Habitação, Lei nº10.887/2015 e seu Decreto de Regulamentação 17.219/2019).
+
+Vale ressaltar que a Política Habitacional tem como diretriz o reassentamento em local mais próximo possível do de origem. Ao longo de
+todo o processo há acompanhamento / trabalho social que inclui identificação dos imóveis e das famílias atingidas, cadastro, definição de
+encaminhamento, apoio social, negociação com as famílias e monitoramento em processo de remoção e reassentamento, abrangendo
+ainda ações dos programas de pré e pós morar para famílias reassentadas em unidades habitacionais produzidas no âmbito do
+empreendimento.
+
+É importante frisar que a Urbel  é o órgão gestor da Política Municipal de Habitação e tem uma experiência robusta em questões similares
+em diversos assentamentos distribuídos por toda a cidade, sendo amplamente reconhecida como uma agência governamental local de
+excelência em políticas de reassentamento involuntário e habitação social.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 13
+
+Informações relevantes
+
+- 14/12/2022: Recebida, em 19/Jul/2022, a Carta-Consulta nº 60930, referente ao "Programa de Qualificação das Centralidades de Belo
+Horizonte",  pleiteando  empréstimo/BID  no  valor  de  US$  40.800.000,00,  com  contrapartida  municipal  de  US$  10.200.000,00,  totalizando
+US$ 51.000.000,00. 476ª GTEC/Apresentação da CC realizada em 9/Ago/2022 Solicitadas Informações Complementares em 11/Ago/2022
+Fase: Em revisão. (Em 14/Ago/2022)
+- 14/12/2022: O Programa de BH não devolveu a CC 60930 com as informações complementares solicitadas pela SAIN/ME em 11/Ago/
+2022, razão pela qual não foi submetida à apreciação da 161ª Cofiex de Out/2022. Fase: Em revisão. (Em 14/Dez/2022)
+- 20/09/2023: Retirada de pauta pela 168ª Cofiex (06/09/2023) por exceder o limite disponível para esta reunião.
+- 26/12/2023: Retirada de pauta pela 170ª Cofiex, em 07/12/2023, por exceder o limite disponível para esta reunião.

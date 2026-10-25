@@ -1,0 +1,2631 @@
+# Carta-Consulta CC_61065 — Versao 2 (SIGS)
+
+
+CARTA CONSULTA
+
+Sergipe Digital, Conectado e Sustentável
+
+Nº Carta Consulta: 61065
+Processo: 03101.102967/2023-80
+Mutuário: Estado de Sergipe
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  2 de Outubro de 2023
+
+Fontes Internas:
+Contrapartida Financeira: US$ 13.400.000,00
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 53.600.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+Sergipe é o menor dos Estados brasileiros em área e 21% de seus 2,2 milhões de habitantes encontram em regiões do semiárido. O
+Estado ocupa a quarta colocação no IDH da Região Nordeste. Serviços respondem por 82,6% da matriz econômica do Estado e na região
+do semiárido 61% das riquezas geradas decorrem da presença do Estado com administração, defesa, educação e saúde públicas e
+seguridade social.
+
+Sergipe possui 349 mil acessos à banda larga fixa em serviço e 1,9 milhões de acessos móveis em tecnologia 4G ou superior. Tal
+dimensão representa penetração de banda larga fixa de 24,4% das residências e cobertura móvel de 72,6% de usuários. Municípios com
+menor renda e mais distantes da capital possuem condição de conectividade precária e entre os mais baixos graus de penetração no
+Brasil. No quartil de menor IDH, a penetração da banda larga fixa é de apenas 19% das residências e a cobertura móvel abrange 58% da
+população.
+
+A exclusão digital tem reflexos imediatos na produtividade do trabalho e na empregabilidade das populações desses municípios, além da
+perda da competitividade dos municípios que precisam dessa infraestrutura para atração de negócios com maior valor agregado,
+considerando crescente adoção de ferramentas de TIC nas mais diversas atividades econômicas.
+
+As escolas públicas sergipanas possuem, em média, 17,7 Mbps de capacidade de download, o que é aproximadamente a metade da
+média registrada para escolas públicas brasileiras. As escolas rurais sergipanas possuem, em média, 10.6 Mbps de download, i.e., 1/5 dos
+valores encontrados em Santa Catarina, benchmark nacional. A velocidade é insuficiente para prestação de serviços educacionais
+básicos como ensino à distância e aulas síncronas, que exigem conexão mínima de 50 Mbps.
+
+Aproximadamente 96% dos municípios sergipanos apresentam baixa competição no provimento de serviço de banda larga, o que exerce
+pressão sobre preços e qualidade dos serviços prestados aos cidadãos.
+
+Quanto à prestação de serviços digitais pelo Estado, em 2022, Sergipe ocupava a 22ª posição no ranking brasileiro de governos digitais.
+Caiu para a 26ª posição em 2023. O conjunto de serviços e inovações oferecidos no Estado de Sergipe corresponde a aproximadamente
+1/3 do portfólio oferecido pelo Rio Grande do Sul, benchmark nacional.
+
+Questões de gênero, qualificação do quadro de pessoal e promoção da cultura digital são outros desafios no Estado. Tomando-se a
+questão do gênero como referência, dados oficiais disponíveis indicam que, do quadro total de profissionais de TI do Estado, apenas 15,2
+% são ocupados por mulheres. Em relação às habilidades digitais, por sua vez, a Pesquisa TIC Domicílios 2022 aponta desigualdade de
+gênero no desempenho das habilidades digitais em desfavor das mulheres, com consequências diretas na restrição de oportunidades de
+inserção na força de trabalho.
+
+No tocante ao consumo de energia, o Poder Público é responsável por 9,3% do consumo total do Estado. A ampliação da cobertura digital
+exige mais energia elétrica e, à medida que a digitalização aumente, haverá maior demanda por energia. A inclusão do componente
+energético no projeto se ampara em política compensatória com benefícios mútuos para digitalização e promoção de sistema elétrico mais
+eficiente e menos intensivo em carbono.
+
+Embora a jornada em prol da conectividade universal e significativa, e de matriz energética eficiente e sustentável tenham avançado em
+Sergipe, persistem desafios estruturantes a serem superados, entre eles, destacam-se:
+
+?Baixa disponibilidade de infraestrutura digital no interior do Estado;
+
+?Escassa conectividade das instituições públicas;
+
+?Parque tecnológico obsoleto e insuficiente;
+
+?Inexistência de Portal de Dados abertos e de fomento de práticas de transparência, participação, avaliação dos serviços públicos e
+controle social;;
+
+?Falta de integração do parque tecnológico de processamento, armazenamento e troca de tráfego de dados;
+
+?Pouca adesão aos programas federais de gestão de dados e serviços digitais;
+
+?Poucas iniciativas para transformação digital do Governo;
+
+?Inexistência de portal único de serviços e portfólio de serviços públicos digitais restrito;
+
+?vulnerabilidade dos órgãos estaduais quanto à LGPD e em temas de segurança cibernética e segurança/guarda de equipamentos;
+
+?Baixa qualificação dos servidores públicos para uso das ferramentas de TIC no fornecimento dos serviços públicos;
+
+?Carência de habilidades digitais dos cidadãos, especialmente entre mulheres e comunidades vulneráveis;
+
+?limitadas iniciativas de promoção da eficiência energética nos serviços públicos.
+
+
+Página: 3
+
+Este projeto endereça uma transformação ampla da infraestrutura digital do Estado e da forma como lida com seus cidadãos. Espera-se
+inclusão social e o reposicionamento de Sergipe como uma referência de desenvolvimento sustentável, digital e de baixo carbono na
+região Nordeste do Brasil.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+Solução proposta
+
+O "Programa Sergipe Digital, Conectado e Sustentável" tem como propósito estabelecer um novo paradigma para a digitalização no
+Estado de Sergipe. O programa prevê: (i) a construção de um cinturão digital no interior do Estado; (ii) a modernização do parque
+tecnológico do Estado; (iii) o desenvolvimento de soluções de serviços digitais; (iv) a habilitação da conectividade significativa para os
+servidores públicos e cidadãos; e (v) o desenvolvimento de um sistema compensatório de suprimento de energia de baixo carbono.
+
+São componentes e produtos do Programa:
+
+Componente 1: Cinturão Digital de Sergipe
+
+Desenho e implantação de anel digital de alta capacidade em todo o estado de Sergipe. O Cinturão Digital proverá capacidade de
+transporte de dados em municípios com baixa densidade de infraestrutura e habilitará a conectividade universal e significativa no Estado e
+o uso de tecnologias modernas de conectividade móvel e fixa. Produtos: (i) assistência técnica; (ii) construção de um sistema sustentável
+e escalável de cinturão digital integrados com sistemas de comunicação públicos e privados; (iii) modernização, regulamentação,
+coordenação e integração do sistema de data centers; e (iv) integração e instrumentalização do Estado com mecanismos digitais de
+monitoramento, fiscalização e garantia da arrecadação.
+
+Componente 2: Transformação Digital
+
+Revisão do portfólio de serviços digitais prestados aos cidadãos, incluindo a coordenação dos serviços, integração de sistemas e bases de
+dados. A transformação digital dotará o Estado de Sergipe com uma plataforma digital moderna e uma carta de serviços digitais ampla e
+compatível com as melhores práticas. Produtos: (i) assistência técnica; (ii) elaboração de Política Estadual de Governo Digital; (iii) Portal
+de Serviços Digitais; (iv) aquisição de equipamentos, sistemas e licenças; (v) observatório de dados públicos; e (vi) segurança cibernética
+e proteção de dados.
+
+Componente 3: Habilidades Digitais
+
+Habilitar os servidores públicos e os cidadãos para atuarem e usufruírem dos benefícios da digitalização do Estado. Contempla iniciativas
+de atuação ativa em planejamento, implementação e operacionalização da plataforma digital do Estado, no provimento de serviços aos
+cidadãos, e em geração e análise de dados para a tomada de decisão do Estado. Produtos: (i) assistência técnica; (ii) qualificação de
+servidores públicos e formação de mão de obra técnica local, preferencialmente feminina; (iii) habilitação digital da sociedade,
+especialmente das mulheres e dos grupos vulneráveis; e (iv) desenvolvimento de Política Estadual de Comunicação Pública Digital.
+
+Componente 4: Energia Elétrica Inteligente e Sustentável
+
+Programa compensatório em resposta ao aumento potencial de demanda por energia. Esse regime será provido com fontes adicionais de
+energia distribuída e com melhorias de eficiência e baixa emissão dos sistemas elétricos de prédios e equipamentos públicos. Produtos: (i)
+assistência técnica; (ii) desenvolvimento de políticas e fortalecimento institucional em matéria de eficiência energética; (iii) modernização
+dos sistemas de refrigeração e iluminação dos prédios públicos; e (iv) implementação de soluções de mini e microgeração distribuída.
+
+Resultados esperados
+
+O conjunto de soluções propostas contribuirá para alavancar a dimensão digital e sustentável no Estado de Sergipe e para levar os
+benefícios da conectividade universal e significativa para o interior do Estado, notadamente nas regiões do semiárido sergipano e Baixo
+São Francisco. O Programa contempla três dimensões fundamentais e complementares.
+
+A dimensão de infraestrutura combina meios digitais com soluções energéticas eficientes e de baixa emissão de carbono. A fusão entre
+digital e energia representa um valor adicionado do Programa, o que permitirá elevar sua sustentabilidade econômica e ambiental. A
+infraestrutura digital abrange uma solução de cinturão digital com potencial de interiorização da digitalização e do desenvolvimento
+socioeconômico do Estado. O Cinturão Digital de Sergipe é um projeto transformador e habilitador da conectividade significativa e do
+desenvolvimento inclusivo da sociedade sergipana.
+
+A dimensão da transformação digital do Estado diz respeito à mudança da cultura, dos processos e da forma como o Estado presta
+serviços e interage com a sociedade. Abrange o estabelecimento de um portal inteligente e capaz de fornecer serviços públicos por meios
+digitais e uma carta de serviços moderna, integrada, consistente e adequada às demandas da sociedade. Esta dimensão transformará a
+dinâmica de prestação de serviços pelo Estado e os padrões públicos de eficiência e de economia.
+
+A dimensão de habilitação digital desenvolverá os servidores públicos e os cidadãos para que possam obter máximo benefício da
+infraestrutura e da transformação digital. Contempla rotas de desenvolvimento que permitirão impulsionar a adesão dos servidores
+públicos ao mundo digital, melhorar atendimento aos cidadãos, ampliar benefícios do bônus da digitalização e agregar valor com soluções
+de segurança cibernética, proteção de dados e de integridade de sistemas e processos.
+
+
+Página: 4
+
+Sustentabilidade
+
+O Programa CONECTA-SE está amparado em fundamentos de economicidade, eficiência e transparência na atuação pública e seus
+efeitos incidem sobre a organização do Estado de Sergipe, o atendimento da população e a busca por sistemas mais resilientes e
+consistentes com as demandas e desafios públicos.
+
+Os investimentos propostos estão lastreados na capacidade orçamentária do Estado, bem como na expectativa de economia de gastos
+decorrente da otimização do parque tecnológico, da implementação de tecnologias mais eficientes, da racionalização dos gastos com
+atendimento ao usuário, entre outros.
+
+Com destaque, a dimensão da transformação digital do Estado e dos serviços públicos tem potencial de gerar economias suficientes para
+sustentar todo o custo do projeto. Trabalhos como o de Pizzolato (2022) indicam que a transformação digital permite a redução do custo
+de atendimento à sociedade da ordem de 73,9%.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+Orientações estratégicas
+
+O "Programa Sergipe Digital, Conectado e Sustentável - CONECTA-SE" está em consonância com Planejamento Estratégico do Estado
+de Sergipe e Plano de Governo elaborado em conjunto com os segmentos representativos da administração pública do Estado e da
+sociedade sergipana. O intuito é alavancar as potencialidades do Estado em promover a democratização digital e as oportunidades de
+crescimento individual e coletivo da sociedade sergipana, com base na digitalização e na promoção do acesso. Dentre os artefatos do
+Planejamento Estratégico em alusão ao Programa, destacam-se: (i) fomento à inovação nas principais cadeias produtivas sergipanas (
+item P.10); (ii) estruturação e fortalecimento do Sistema Estadual de Ciência, Tecnologia e Inovação (item P.13); (iii) implementação do
+Hub de Inovação (item P.14); (iv) Programa Sergipe Conectado (P.15); e (v) Implementação de sistema de governança de inovação e TI
+no Estado (item P.90).
+
+As ações planejadas coadunam com o escopo do PPA atualmente vigente e do PPA 2024-2027, em fase de deliberação, e nos programas
+relacionados à modernização e digitalização do Estado. A título de exemplo, com impacto direto sobre a dimensão das habilidades digitais
+, constam os programas de: (i) fortalecimento e modernização da gestão e da infraestrutura das escolas; (ii) modernização do parque
+tecnológico do sistema de educação; e (iii) implantação do Projeto Professor do Futuro.
+
+Outra orientação estratégica transposta ao Programa CONECTA-SE e que pretende adicionar valor ao conjunto de iniciativas proposto diz
+respeito ao desenvolvimento de camada digital para procedimentos e sistemas internos do Estado voltados à fiscalização, monitoramento
+e garantias da receita.
+
+Contrapartida
+
+A proposta apresentada cumpre o disposto na Resolução da COFIEX nº 3 de 29/5/2019, com previsão de 20% de participação com
+recursos do Tesouro Estadual no custo total do Programa.
+
+O Programa CONECTA-SE prevê contrapartida de US$ 13,4 milhões, conforme detalhado em seção específica. Tal contrapartida se
+refere a despesa de custeio e servirá para impulsionar os componentes do Programa. A contrapartida abrange o compromisso do Estado
+em temáticas de: (i) ampliação da infraestrutura digital; (ii) modernização do Estado e serviços públicos; e (iii) promoção de habilidades
+digitais dos servidores públicos e dos cidadãos para máximo benefício do Programa.
+
+O Estado de Sergipe dispõe de reservas financeiras e de capacidade fiscal, com indicadores de capacidade de pagamento de 92,9% para
+despesa corrente/receita corrente ajustada, posição no quartil superior do quadro nacional. O Programa fomentará ganhos de eficiência
+que permitirão escalar a patamares mais elevados de avaliação. Por fim, o Estado dispõe das prerrogativas para obter financiamento
+almejado em acordo com seu compromisso de manutenção do equilíbrio das contas públicas.
+
+Taxa de câmbio:
+
+1 Dólar dos Estados Unidos/USD(220) = 4,8893 Real/BRL(790), data de referência 29/08/2023.
+
+2. Projeto
+
+### 2.1. Título
+
+
+Sergipe Digital, Conectado e Sustentável
+
+
+### 2.2. Título Abreviado
+
+Conecta-SE
+
+
+### 2.3. Mutuário
+
+
+Estado de Sergipe
+
+
+### 2.4. Tipo Operacao
+
+
+(cid:10)
+
+
+Página: 5
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Objetivo geral
+
+O "Programa Sergipe Digital, Conectado e Sustentável - CONECTA-SE" tem como propósito estabelecer novo paradigma para o contexto
+da digitalização no Estado de Sergipe. Nesse sentido, as bases fundamentais do Programa CONECTA-SE consistem em promover a
+modernização e a ampliação da infraestrutura digital, oferecer uma Plataforma Digital única e integrada, e habilitar as capacidades digitais
+dos servidores públicos e cidadãos de Sergipe em ambiente energético sustentável.
+
+Objetivos específicos
+
+Em suma, as medidas contidas no "Programa Sergipe Digital, Conectado e Sustentável - CONECTA-SE" visam criar ambiente favorável
+para o desenvolvimento sustentável, tornando a região referência digital em área de grande vulnerabilidade social no país.
+
+São objetivos complementares:
+
+a) Ampliar a malha de infraestrutura pública digital para o interior do Estado e regiões desassistidas, inclusive as do semiárido e do Baixo
+São Francisco;
+
+b) Criar rota de desenvolvimento digital que permita conectar instituições públicas em todos os municípios do Estado e habilitar a
+integração de bases de dados e capacidade de resposta do Estado;
+
+c) Interconectar e convergir as plataformas de gestão de dados, administrativas e estratégicas do Estado de Sergipe para garantir melhor
+acesso à informação e otimizar a prestação de serviços aos cidadãos;
+
+d) Fortalecer a gestão pública mediante desenvolvimento digital do Governo do Estado para aumentar a satisfação do cidadão e gerar
+economia na utilização dos serviços públicos;
+
+e) Ampliar o acesso aos serviços públicos digitais, com portal único de consulta, requisição e acompanhamento;
+
+f) Melhorar a qualidade e a eficiência dos serviços públicos digitais, com a revisão e a melhoria do fluxo de processos, reduzindo etapas e
+identificando gargalos;
+
+g) Assegurar a governança do sistema de data centers do Estado de modo a otimizar sua operação, promover a integração dos dados,
+melhorar sua eficiência e reduzir os custos de gestão do parque tecnológico;
+
+h) Promover o desenvolvimento das habilidades digitais entre o funcionalismo público e a população sergipana, com enfoque especial
+para mulheres, minorias e grupos vulneráveis;
+
+i) Implantar medidas de eficiência energética e promover o aumento da capacidade de micro e minigeração de fontes renováveis de
+energia no âmbito do governo estadual;
+
+j) Reduzir custos financeiros, operacionais e de fiscalização, a partir da digitalização dos serviços públicos.
+
+Indicadores e Metas
+
+Para a construção dos indicadores, assumiu-se, como base, as últimas informações disponíveis do período de 2022/2023.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+
+
+Descrição
+Nº de Municípios do Semiárido atendidos por
+infraestrutura pública digital de alta capacidade
+
+Nº de Municípios do Baixo São Francisco
+atendidos por infraestrutura pública digital de alta
+capacidade
+
+Taxa de Servidoras capacitadas em
+Conhecimentos Digitais
+
+Nº de Serviços ofertados na carta de serviços
+digitais do Estado
+
+Indisponibilidade média do sistema de Data
+Center do Estado
+
+Capacidade de armazenamento disponível de
+tecnologia de nuvem híbrida nos Data centers do
+estado
+
+Eficácia energética média do sistema de Data
+centers
+
+Projetos de transformação digital
+
+Eficiência Energética nas edificações e
+equipamentos públicos
+
+Capacidade instalada em geração distribuída
+para atendimento da demanda do poder público
+
+
+### 2.7. Projeto/Componentes
+
+
+%
+
+Unidade
+
+Unidade
+
+Unidade
+
+Petabyte
+
+Horas/ano
+
+Fórmula de Cálculo Unidade de Medida
+Soma dos Municípios
+do Semiárido
+Sergipano atendidos
+por infraestrutura
+pública digital de alta
+capacidade
+Soma dos Municípios
+na margem sergipana
+do Rio São Francisco
+não pertencentes ao
+Semiárido atendidos
+por infraestrutura
+pública digital de alta
+capacidade
+Número de Servidoras
+capacitadas em
+Conhecimentos
+Digitais/Total de
+Servidoras do Estado
+*100
+Soma dos serviços
+implantados e
+disponíveis na carta
+de serviços
+Nº de horas de
+Indisponibilidade do
+Sistema registradas
+em um ano
+Número Total de
+Petabytes ativos na
+Nuvem Híbrida dos
+Datacenters
+Quantidade total de
+energia que entra no
+sistema de Data
+Centers dividido por
+Consumo utilizado
+para operar o
+equipamento de TI
+embarcado.
+Número de projetos
+de Transformação
+Digital implantados e
+monitorados em 5
+anos
+Soma do Consumo (
+kWh) dos Prédios
+Públicos/Área (m2)
+dos prédios públicos
+APÓS projetos de
+eficiência energética/
+Soma do Consumo (
+kWh)/Área (m2) dos
+Prédios Públicos
+ANTES dos projetos
+de eficiência
+energética
+Soma da capacidade
+máxima de geração
+distribuída instalada
+para atender a
+demanda do poder
+público
+
+entre 1 e 2
+
+Unidade
+
+MW
+
+%
+
+
+Página: 6
+
+Meta
+23,00
+
+Linha de Base
+0,00
+
+0,00
+
+14,00
+
+15,00
+
+50,00
+
+247,00
+
+350,00
+
+28,80
+
+1,60
+
+1,00
+
+5,00
+
+1,50
+
+1,20
+
+0,00
+
+20,00
+
+100,00
+
+90,00
+
+0,00
+
+10,00
+
+
+Componentes
+C - CINTURÃO DIGITAL DE SERGIPE
+P - Assistência técnica
+P - Construção de um sistema sustentável e escalável de cinturão digital e sua integração com sistemas de
+comunicação públicos e privados
+P - Modernização, regulamentação, coordenação e integração do sistema de data centers
+P - Integração e instrumentalização do Estado com mecanismos digitais de monitoramento, fiscalização e
+garantia da arrecadação
+C - TRANSFORMAÇÃO DIGITAL
+P - Assistência Técnica
+P - Desenvolvimento de Política Estadual de Governo Digital
+P - Desenvolvimento de Portal de Serviços Digitais, plataforma de interoperabilidade e de serviços
+P - Aquisição de equipamentos, sistemas e licenças
+P - Desenvolvimento de observatório de dados públicos e evidências
+C - HABILIDADES DIGITAIS
+P - Assistência técnica
+P - Qualificação de servidores públicos e formação de mão de obra técnica local
+P - Habilitação digital da sociedade, especialmente dos grupos vulneráveis
+P - Política Estadual de Comunicação Pública Digital
+P - Segurança cibernética e proteção de dados
+C - ENERGIA INTELIGENTE E SUSTENTÁVEL
+P - Assistência técnica
+P - Desenvolvimento de políticas e fortalecimento institucional em matéria de eficiência energética
+P - Investimento em modernização dos sistemas de refrigeração e iluminação dos prédios públicos
+P - Implementação de soluções de micro e minigeração distribuída (MMDG)
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 7
+
+Valor(US$)
+23.245.000,00
+1.420.000,00
+12.625.000,00
+
+5.000.000,00
+4.200.000,00
+
+12.855.000,00
+1.000.000,00
+2.000.000,00
+4.000.000,00
+4.950.000,00
+905.000,00
+6.900.000,00
+1.000.000,00
+1.950.000,00
+1.950.000,00
+1.000.000,00
+1.000.000,00
+24.000.000,00
+1.200.000,00
+300.000,00
+10.500.000,00
+12.000.000,00
+67.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - CINTURÃO DIGITAL DE SERGIPE
+Desenho e implementação de rede digital de fibra ótica de alta capacidade distribuída no interior do Estado de Sergipe. Sua
+implementação proverá capacidade de transporte de dados em municípios com baixa densidade de infraestrutura e habilitará a
+conectividade universal e significativa no Estado e o uso de tecnologias modernas de conectividade móvel e fixa.
+
+P - Assistência técnica
+Assistência técnica especializada em planejamento, integração e execução de sistemas de redes de telecomunicações com
+arquiteturas de anéis óticos de baixo custo, adequados às projeções de demanda da região e alto impacto socioeconômico.
+Meta de 10 Estudos e Relatórios Técnicos Especializados como unidade de medida.
+
+P - Construção de um sistema sustentável e escalável de cinturão digital e sua integração com sistemas de
+comunicação públicos e privados
+Construção de rede otimizada para disponibilização de cinturão digital no Estado de Sergipe que permita atender às comunidades
+da rota de desenvolvimento e modelada de forma a impulsionar seus efeitos multiplicadores em termos de renda, emprego e
+desenvolvimento, inclusive no fomento aos efeitos de vizinhança e participação da iniciativa privada.
+São dois indicadores envolvidos: Prover infraestrutura pública digital de alta capacidade para municípios da Região do
+Semiárido Sergipano (meta 36 unidades) e Prover infraestrutura pública digital de alta capacidade para municípios da Região do
+Baixo São Francisco Sergipano (meta 14 unidades).
+Meta de 1718 Km de Fibra Ótica implantados como unidade de medida.
+
+P - Modernização, regulamentação, coordenação e integração do sistema de data centers
+Constituição de plano de modernização, regulamentação em sistema de alta performance, coordenação e integração do sistema
+de data centers disponível no Estado de Sergipe de modo a criar condições de compatibilidade, compartilhamento de recursos,
+substituição de sistemas legados e atualização do parque tecnológico de processamento e armazenagem de dados. Além disso,
+assegurar condições de sustentabilidade, compatíveis com as exigências de emissões de gases efeito estufa (GEE), segurança e
+disponibilidade do sistema e habilitá-lo para suportar o processo de transformação digital do Estado.
+São 3 indicadores relacionados a data centers: Aumentar a disponibilidade média do sistema de data center do Estado (1,6 hora de
+indisponibilidade por ano), Promover tecnologia de nuvem híbrida nos data centers do Estado (5 unidades de petabyte ou 5000 TB
+) e Elevar grau de eficiência energética média do sistema de data centers (1,2 PUE, que representa a razão entre quantidade total
+de energia que entra no sistema de data centers e consumo utilizado para operar equipamento de TI embarcado).
+Meta de 5 data centers integrados como unidade de medida.
+
+P - Integração e instrumentalização do Estado com mecanismos digitais de monitoramento, fiscalização e garantia da
+arrecadação
+Adicionar valor aos serviços do Estado voltados à segurança, fiscalização, monitoramento e garantias de receitas, em setores de
+segurança pública, fazenda/finanças, planejamento, serviços de emergência, concessão de benefícios sociais, entre outros. A
+instrumentalização será viabilizada por infraestrutura digital pública que permita a utilização de instrumentos como vídeo
+monitoramento, dispositivos de internet das coisas, e soluções de inteligência artificial e de comunicação entre sistemas de
+monitoramento e de processamento à disposição do Estado.
+
+
+Página: 8
+
+Refere-se a um indicador: Projetos de transformação digital (meta 20 projetos de transformação digital implantados e monitorados).
+Meta de 10 Sistemas Estaduais Integrados e Instrumentalizados como unidade de medida.
+
+C - TRANSFORMAÇÃO DIGITAL
+Digitalização do Estado e de suas relações com cidadãos e empresas de Sergipe. Abrange a coordenação dos serviços,
+integração de sistemas e bases de dados e o desenvolvimento de cadeia lógica que permita o compartilhamento de informações
+com sistemas do Estado e das demais unidades da federação. Sua implantação dotará o Estado de Sergipe de plataforma digital
+moderna e uma carta de serviços digitais ampla e compatível com as melhores práticas de governo digital adotado no Brasil e no
+exterior.
+
+P - Assistência Técnica
+Assistência técnica especializada no planejamento e implementação de processo de transformação digital do Estado.
+Meta de 5 Estudos e Relatórios Técnicos Especializados como unidade de medida.
+
+P - Desenvolvimento de Política Estadual de Governo Digital
+Desenvolver uma política fundamentada e sustentável de gestão da transformação digital, escalável e progressiva.
+Meta de 1 Política Estadual como unidade de medida.
+
+P - Desenvolvimento de Portal de Serviços Digitais, plataforma de interoperabilidade e de serviços
+Desenvolver plataforma digital integrada com empreendimentos em curso, harmonizada com iniciativas dispostas no Gov.br e
+adequada às demandas da sociedade sergipana.
+Refere-se a um indicador: Ampliar e diversificar a carta de serviços digitais do Estado (meta 350 unidades de serviços digitais).
+Meta de 1 Portal Integrado de Serviços Digitais como unidade de medida.
+
+P - Aquisição de equipamentos, sistemas e licenças
+Revisão e modernização do parque tecnológico do Estado de Sergipe de modo a adequar a capacidade de tratamento e
+processamento dos dados e atendimento aos cidadãos em um contexto de transformação digital.
+Meta de 47 Órgãos Estaduais beneficiados com equipamentos, sistemas e licenças como unidade de medida.
+
+P - Desenvolvimento de observatório de dados públicos e evidências
+Desenvolver dimensão analítica associada ao processo de transformação digital e geração de dados visando prover o Estado de
+Sergipe com evidências para a tomada de decisão, melhoria das condições de transparência e suporte à elaboração de políticas
+públicas.
+Meta de 1 Plataforma de Dados Públicos e Informações como unidade de medida.
+
+C - HABILIDADES DIGITAIS
+Estabelecer amplo programa de habilitação digital para os servidores públicos do Estado de Sergipe e cidadãos para atuarem e
+usufruírem dos benefícios da digitalização do Estado. Contempla iniciativas de atuação ativa em planejamento, implementação e
+operacionalização da plataforma digital do Estado, no provimento de serviços aos cidadãos e na geração e na análise de dados
+para a tomada de decisão do Estado.
+
+P - Assistência técnica
+Assistência técnica especializada no planejamento e na implementação de habilidades digitais, na criação e na aplicação de
+conteúdos pedagógicos, técnicos e estratégicos relacionados à formação da mão de obra pública e dos usuários, e na adequação
+às demandas da transformação digital do Estado.
+Meta de 5 Estudos e Relatórios Técnicos Especializados como unidade de medida.
+
+P - Qualificação de servidores públicos e formação de mão de obra técnica local
+Revisão das competências dos servidores públicos, adequação da força de trabalho e formação de novos servidores para
+ampliarem os efeitos do processo de transformação digital do Estado.
+Meta de 100% de Servidores Públicos treinados como unidade de medida.
+
+P - Habilitação digital da sociedade, especialmente dos grupos vulneráveis
+Desenvolver dimensão cidadã para processo de transformação digital, adequada às condições e ao contexto da sociedade
+sergipana, com especial atenção para mulheres, minorias, população de baixa renda e aquelas localizadas em regiões de baixo
+desenvolvimento econômico e social relativo, notadamente as comunidades localizadas na rota de desenvolvimento do cinturão
+digital do Estado.
+Refere-se a um indicador: Habilitar em conhecimentos digitais a força de trabalho feminina do Governo do Estado (meta 50% do
+total de profissionais de TI do Estado ocupados por mulheres).
+Meta de 75 Municípios que receberam capacitação em habilidades digitais para seus cidadãos como unidade de medida.
+
+P - Política Estadual de Comunicação Pública Digital
+Desenvolver política de comunicação com demais órgãos do Estado e com a sociedade sergipana de modo a promover ambiente
+para efetiva transformação na cultura e na prática digital do Estado.
+Meta de 1 Política Estadual como unidade de medida.
+
+P - Segurança cibernética e proteção de dados
+Desenvolver dimensão de segurança digital e em temáticas de proteção de dados, prevenção de ataques cibernéticos, sabotagem
+e espionagem, e vazamento de dados pessoais, empresariais e de domínio do Estado.
+
+
+Página: 9
+
+Meta de 1 Protocolo integrado de Segurança Cibernética e Mitigação de Impacto como unidade de medida.
+
+C - ENERGIA INTELIGENTE E SUSTENTÁVEL
+Estabelecer sistema energético de alto desempenho, eficiência e baixa emissão. O componente foi concebido para elevar o grau
+de eficiência do consumo energético e gerar sistema de compensação que permita acomodar a necessidade de energia para a
+digitalização do Estado em condição de baixa emissão.
+
+P - Assistência técnica
+Financiar estudos, assistência técnica, auditorias e workshops e gerenciamento de projetos que exigem o apoio de consultorias
+técnicas especializadas.
+Meta de 6 Estudos e Relatórios Técnicos Especializados como unidade de medida.
+
+P - Desenvolvimento de políticas e fortalecimento institucional em matéria de eficiência energética
+Auxiliar o Estado de Sergipe na elaboração de política estadual de eficiência energética. Além disso, financiar estudos, assistência
+técnica e workshops que permitam adequar a política às necessidades e às projeções de demanda energética do Estado, o que
+inclui aquelas decorrentes da ampliação do parque tecnológico e do acesso a serviços digitais.
+Refere-se a um indicador: Projetos de transformação digital (meta 100% dos servidores públicos encarregados de manutenção
+patrimonial nos prédios alvo do Programa capacitados em eficiência energética).
+Meta de 47 Órgãos Estaduais fortalecidos em eficiência energética como unidade de medida.
+
+P - Investimento em modernização dos sistemas de refrigeração e iluminação dos prédios públicos
+Financiar a modernização de sistema energético moderno, integrado à rede de energia elétrica do Estado e dos edifícios e dos
+equipamentos públicos, com aplicações nos seguimentos de refrigeração e iluminação nos prédios e nos equipamentos públicos
+abrangidos pelo Programa.
+Refere-se a um indicador: Aumentar a eficiência energética nas edificações e equipamentos públicos (meta reduzir de 100% para
+90% da linha de base (calculada em kWh / m2).
+Meta de 700 Prédio Público com sistema eficiente de consumo de energia como unidade de medida.
+
+P - Implementação de soluções de micro e minigeração distribuída (MMDG)
+Financiar o planejamento e a instalação de unidades de MMDG fotovoltaica nas edificações públicas objeto do Programa (geração
+junto à carga), bem como a instalação de unidades de geração compartilhada, conforme marco regulatório vigente.
+Refere-se a um indicador: Capacidade instalada em geração distribuída para atendimento da demanda do poder público (meta 10
+MW).
+Meta de 700 Prédio Público com solução de micro e/ou minigeração distribuída como unidade de medida.
+
+
+Categoria de Gasto
+
+Obras
+P- Construção de um sistema sustentável e
+escalável de cinturão digital e sua integração com
+sistemas de comunicação públicos e privados
+Bens
+P- Modernização, regulamentação, coordenação e
+integração do sistema de data centers
+P- Integração e instrumentalização do Estado com
+mecanismos digitais de monitoramento,
+fiscalização e garantia da arrecadação
+P- Aquisição de equipamentos, sistemas e
+licenças
+P- Segurança cibernética e proteção de dados
+
+P- Investimento em modernização dos sistemas
+de refrigeração e iluminação dos prédios públicos
+P- Implementação de soluções de micro e
+minigeração distribuída (MMDG)
+Consultoria
+P- Assistência técnica
+P- Assistência Técnica
+P- Desenvolvimento de Política Estadual de
+Governo Digital
+P- Desenvolvimento de Portal de Serviços Digitais
+, plataforma de interoperabilidade e de serviços
+P- Desenvolvimento de observatório de dados
+públicos e evidências
+P- Assistência técnica
+P- Política Estadual de Comunicação Pública
+Digital
+P- Assistência técnica
+Capacitação e Treinamento
+P- Qualificação de servidores públicos e formação
+de mão de obra técnica local
+P- Habilitação digital da sociedade, especialmente
+dos grupos vulneráveis
+P- Desenvolvimento de políticas e fortalecimento
+institucional em matéria de eficiência energética
+Total Geral
+
+Unidade de medida
+-
+Km Fibra Ótica
+
+Meta
+
+-
+1.718,00
+
+-
+data centers
+integrados
+SistemaEstadualInte
+grado
+
+Órgãos Estaduais
+
+Protocolo de
+Segurança
+Prédio público
+
+-
+5,00
+
+10,00
+
+47,00
+
+1,00
+
+-
+Estudos Técnicos
+Estudos Técnicos
+Política Estadual
+
+PortalServiçosDigitai
+s
+PlataformaDadosPú
+blicos
+Estudos Técnicos
+Política Estadual
+
+Estudos Técnicos
+-
+% de Servidores
+Públicos
+Municípios
+
+Órgãos Estaduais
+
+-
+
+-
+10,00
+5,00
+1,00
+
+1,00
+
+1,00
+
+5,00
+1,00
+
+6,00
+-
+100,00
+
+75,00
+
+47,00
+
+-
+
+
+Página: 10
+
+Valor
+
+% Financeiro
+
+12.625.000,00
+12.625.000,00
+
+37.650.000,00
+5.000.000,00
+
+4.200.000,00
+
+4.950.000,00
+
+1.000.000,00
+
+12.525.000,00
+1.420.000,00
+1.000.000,00
+2.000.000,00
+
+4.000.000,00
+
+905.000,00
+
+1.000.000,00
+1.000.000,00
+
+1.200.000,00
+4.200.000,00
+1.950.000,00
+
+1.950.000,00
+
+300.000,00
+
+18,84
+18,84
+
+56,19
+7,46
+
+6,27
+
+7,39
+
+1,49
+
+15,67
+
+17,91
+
+18,69
+2,12
+1,49
+2,99
+
+5,97
+
+1,35
+
+1,49
+1,49
+
+1,79
+6,27
+2,91
+
+2,91
+
+0,45
+
+700,00
+
+10.500.000,00
+
+Prédios Públicos
+
+700,00
+
+12.000.000,00
+
+67.000.000,00
+
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Para se contratar a operação de crédito externo, são etapas a realizar: apreciação favorável da COFIEX, verificação de limites e condições
+de pedido de garantia da União, aprovação de lei específica na Assembleia Legislativa do Estado de Sergipe, aprovação de resolução no
+Senado Federal.
+
+A saber, a gestão estadual já adotou as ações abaixo relacionadas, que contribuem para a execução dos pilares fundamentais do
+"Programa Sergipe Digital, Conectado e Sustentável - CONECTA-SE" e que permitem a sustentabilidade de seus objetivos.
+
+1 - Estudo sobre potenciais e arquitetura do Cinturão Digital de Sergipe
+
+O Estado de Sergipe está comprometido em ampliar sua Infraestrutura Pública Digital para o interior do Estado. O Programa CONECTA-
+SE encontra-se em estágio amadurecido. Ao longo dos últimos 5 anos, já foram empreendidas iniciativas de elaboração de projeto de rede
+digital de fibra ótica de alta capacidade, conectividade universal e uso de tecnologias modernas de conectividade. Por isso, o Estado
+dispõe de mapeamento estratégico, tático e operacional dessa infraestrutura, elaborada pela Empresa Sergipana de Tecnologia da
+Informação (EMGETIS), com auxílio de consultoria técnica especializada. O Anexo 8 refere-se a estudo de consultoria Projeto Sergipe
+Conectado, cuja documentação final foi entregue em dez/2022.
+
+2 - Lei Federal nº 13.709, de 14 de agosto de 2018, denominada Lei Geral de Proteção de Dados Pessoais (LGPD)
+
+Alinhado às melhores práticas, o Estado tem como propósito adequar-se às diretrizes nacionais de proteção de dados pessoais (Lei 13.
+709/2018) e de segurança cibernética (Decreto 10.222, de 5 de fevereiro de 2020) para proteger a privacidade dos dados, a segurança e
+os direitos dos utilizadores mediante um quadro jurídico e regulamentar abrangente. Por isso, o Estado tem aplicado estruturas legais e de
+confiança por meio de supervisão independente, prevenção e mitigação de riscos e tratamento de reclamações.
+
+3 - PPA 2024-2027
+
+
+Página: 11
+
+Em termos orçamentários, o Programa é consistente com o Programa 0017, que trata do "Planejamento e Gestão Pública Gestão e
+Modernização Tecnológica" do Plano Plurianual do Estado para o período de 2020-2023 e com as diretrizes de digitalização empreendidas
+pelo Estado e de fortalecimento da infraestrutura digital pública do PPA para o período de 2024 a 2027, em fase de deliberação e no
+Anexo 11. O PPA 2024-2027 será aprovado até o final do exercício de 2023, como dispõe a legislação vigente.
+
+4 - Constituição da Agência Sergipe de Desenvolvimento S.A. (DESENVOLVE-SE)
+
+A DESENVOLVE-SE foi criada pela Lei Estadual nº 9.180, de 10 de abril de 2023 com o objetivo de impulsionar o desenvolvimento
+econômico do Estado de Sergipe, conforme planejamento estratégico do Governo. Trata-se de agência de desenvolvimento estadual,
+constituída como pessoa jurídica de direito privado, na forma de sociedade de economia mista, regida pelas disposições da Lei das
+sociedades por ações, por estatuto próprio e por legislação que lhe for aplicável, vinculada à Secretaria de Estado da Casa Civil. As
+atribuições e prerrogativas da DESENVOLVE-SE permitirão assegurar uma gestão integrada do Projeto, em linha com as expectativas da
+sociedade sergipana e de acordo com a agenda de desenvolvimento de infraestruturas do Estado.
+
+5 - Planejamento Estratégico
+
+Muitas das iniciativas que compõem esta Carta Consulta resultam de diretrizes subscritas ao Planejamento Estratégico estadual para o
+período de 2023-2026. São 106 iniciativas distribuídas em 4 eixos e 19 objetivos, cuja ficha técnica individual indica problemática,
+oportunidade ou ameaça, objetivos específicos, público-alvo, recursos que precisam ser alocados, identificação de contexto, envolvendo a
+gravidade, a urgência e a tendência para cada projeto estratégico. Os temas de densificação da infraestrutura pública digital,
+transformação digital do estado e de habilitação digital figuram entre as demandas urgentes para o Estado. Em particular, o Planejamento
+Estratégico do Governo de Sergipe envolveu todas as secretarias de Estado, inclusive educação, saúde e finanças, bem como a
+Secretaria de Estado da Casa Civil, por meio da Superintendência Especial de Planejamento, Monitoramento e Captação de Recursos (
+Superplan) e Assessoria de Gestão Estratégica.
+
+Referentemente à sugestão de apresentação de experiências com outros projetos custeados por meio de financiamentos externos,
+apresentamos 2 projetos anteriores com o próprio Banco Mundial e 1 projeto em andamento com o Banco Interamericano de
+Desenvolvimento (BID).
+
+Em 2012, o Banco Mundial apoiou o Projeto Sergipe State Integrated Project: Rural Poverty, no valor de US$ 20,8 milhões, que tinha
+como objetivo o desenvolvimento rural com inclusão de povos indígenas. Ainda que os resultados não tenham sido impressionantes, as
+lições aprendidas auxiliaram a aprimorar o presente projeto. Estabelecer metas exige capacidade analítica para a equação de
+componentes e produtos, considerando as características físicas e ambientais do local, bem como a disponibilidade de assistência técnica.
+Outra questão envolve as dificuldades em convencer comunidades mais carentes que os investimentos em meio ambiente têm valor e os
+esforços devem ser iniciados por medidas simples, como descarte do lixo local e uso adequado de agrotóxicos. Um terceiro aprendizado
+foi que a qualidade de assistência técnica contratada é tão importante quanto seu financiamento.
+
+Em 2013, o Projeto Águas de Sergipe, no valor de US$ 70,275 milhões, que tratou a gestão integrada de recursos hídricos, infraestrutura
+e serviços para promover o desenvolvimento econômico regional, melhorar a gestão sustentável dos recursos naturais e aumentar a
+resiliência climática. Frente ao desempenho positivo deste último projeto, o diálogo sobre políticas relacionadas à água continua com o
+Banco Mundial com a preparação de um novo projeto de água e saneamento no Estado de Sergipe para o exercício de 2024.
+
+Em 2022, o Estado de Sergipe e o BID assinaram financiamento do Programa de Modernização e Fortalecimento da Gestão Fiscal do
+Estado de Sergipe - PROFISCO II, que almeja a sustentabilidade fiscal por meio da modernização da gestão fiscal nas áreas fazendária e
+tributária, incluindo administração das receitas, gestão fiscal, financeira e patrimonial. Como este projeto encontra-se em andamento,
+identificou-se a necessidade do comprometimento da coordenação executiva (Unidade de Gerenciamento do Programa) conciliado ao
+acompanhamento diuturno da alta direção para resultados consistentes e de acordo com o calendário de atividades.
+
+O Governo acredita que a parceria com organismos internacionais traz ganhos notáveis para o Estado, principalmente quando há o
+intercâmbio de conhecimento e o aconselhamento da equipe de especialistas para identificação das melhores práticas nas diversas áreas
+de atuação e para fortalecimento das capacidades institucionais. A expertise técnica possibilita a coerência do desenho do financiamento
+e o acompanhamento robusto da execução dos projetos.
+
+Os objetivos do atual Projeto Sergipe Digital, Conectado e Sustentável estão alinhados às diretrizes do Banco Mundial, uma vez que seus
+bons resultados representarão impacto significativo na melhoria da vida das pessoas, com base na experiência do Ceará.
+
+O Ceará é o Estado mais conectado em banda larga do Brasil. O Cinturão Digital do Ceará (CDC), criado em 2007, é composto de uma
+estrutura (backbone) de fibra ótica contendo Anéis, Subanéis e Derivações (ramificações que saem do anel) com pontos que permitem
+sua interconexão. Ele viabiliza o acesso à internet de alta qualidade a todos os órgãos públicos do Estado e possibilita que a população
+tenha acesso a serviços digitais como internet, videoconferência, TV Digital, telefonia celular, aplicações de telemedicina, educação a
+distância, monitoramento de cargas nas fronteiras, câmeras de vigilância, entre outros. Trata-se de uma ferramenta indispensável ao
+desenvolvimento econômico do Ceará.
+
+
+Página: 12
+
+O Cinturão Digital do Ceará, desenvolvido pela Empresa de Tecnologia da Informação do Ceará (ETICE), consolidou-se nos últimos anos
+como indutor da economia a partir da geração de negócios no Estado, ao somar 14 mil Km de fibra ótica, conectar todos os 184
+municípios cearenses, gerar mais de 4 mil empregos por mais de 500 pequenas provedoras de internet, e movimentar, anualmente, R$ 1
+bilhão. O pay back ocorreu em 3 anos após sua finalização. Em 2019, dados da ETICE indicaram que o CDC incluiu 1,5 milhão de novos
+usuários e elevou em 50% a capacidade instalada de transmissão de dados na região. O efeito transbordamento do cinturão digital para
+municípios vizinhos é da ordem de 22,9%. A conectividade integra, por exemplo, 664 pontos para operação das mais de 3.400 câmeras de
+videomonitoramento da segurança pública, oferta de wifi gratuito em 94 pontos do estado, e está presente em outros serviços, como nas
+áreas de saúde e educação. Além de beneficiar diretamente os órgãos do Governo do Estado do Ceará na Capital e no interior, o CDC
+beneficia indiretamente a população do Estado do Ceará com acesso a serviços públicos, por meio dos equipamentos sociais instados
+pelas prefeituras e Governo federal, como Centros de Inclusão Digital e Telecentros e redução dos preços de Internet viabilizada pela
+competição entre as empresas provedoras. Como exemplo do seu protagonismo, a Amazon escolheu o Ceará para investir em sua área
+de dados.
+
+Para os próximos anos, o Ceará visa consolidar sua posição como porta de entrada brasileira para grandes cabos submarinos
+internacionais de fibra ótica, transmissores de dados, em virtude da localização geográfica da cidade de Fortaleza em relação à Europa,
+África e América do Norte. A passagem desses cabos pelo território cearense abre possibilidades de desenvolvimento de novas empresas
+, novos negócios e até mesmo de novos segmentos no setor de serviços. As áreas promissoras são as de telecomunicações, datacenters
+e provedores de serviços de computação em nuvem, graças às vantagens em termos de velocidade, tempos de latência e segurança,
+além de atividades em pesquisa e desenvolvimento (P&D).
+
+No Anexo 12, consta Relatório de Estudo de Caso: Telecomunicações, sobre avaliação de impacto ex post do programa Cinturão Digital
+do Ceará, produzido em 2022 no âmbito de parceria do Programa das Nações Unidas para o Desenvolvimento (PNUD) com a Secretaria
+de Desenvolvimento da Infraestrutura, da Secretaria Especial de Produtividade e Competitividade do Ministério da Economia.
+
+Para mais detalhes, segue o caminho https://www.etice.ce.gov.br/cinturao-digital/
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Sem detalhes
+
+Estado de Sergipe ()
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+São condições financeiras do "Programa Sergipe Digital, Conectado e Sustentável - CONECTA-SE":
+
+- Valor total: USD 67.000.000,00;
+
+- Moeda: Dólar dos Estados Unidos da América (USD);
+
+- Atualização monetária: variação cambial;
+
+- Juros/custo do financiamento com BIRD: SOFR + spread variável;
+
+- Aportes estimados de contrapartida: USD 13.400.000,00;
+
+- Prazo de vencimento: 360 meses;
+
+- Prazo de carência: 60 meses;
+
+- Prazo de desembolso: 60 meses;
+
+- Prazo de amortização: 300 meses;
+
+- Periodicidade de amortização: semestral;
+
+- Sistema de amortização: constante;
+
+- Comissão inicial ("front-end fee"): 0,25% paga uma única vez e apurada sobre valor total do empréstimo, podendo ser financiada com
+recursos do empréstimo ou paga com recursos próprios;
+
+- Taxa de compromisso: 0,25% a.a. incide sobre saldo não desembolsado do financiamento;
+
+- Taxa de exposição ao Brasil: 0,25% a.a. aplicada quando limite de risco estabelecido pelo BIRD é superado. A política do governo
+brasileiro é de não permitir que a exposição atinja tal limite, logo, na prática, essa sobretaxa não tem sido cobrada.
+
+Justificativa pela opção de financiamento externo
+
+(cid:10)
+
+
+Página: 13
+
+O empréstimo externo permitirá conciliar interesse estratégico do Estado de Sergipe com capacidade de planejamento permitido pelo
+prazo e condições de financiamento. Tal arranjo ocorre em um momento de justificada urgência para ampliação da infraestrutura digital
+pública para regiões carentes do Estado, notadamente aquelas localizadas no sertão sergipano e do Baixo São Francisco, para o
+desenvolvimento de soluções de serviços públicos digitais e de habilitação digital da força de trabalho e do cidadão. Ao optar por crédito
+externo em condições favoráveis, será possível antecipar os benefícios do Programa proposto sem impor ônus adicional ao orçamento
+estadual, preservando-se os objetivos de sustentabilidade fiscal de Sergipe.
+
+Por fim, o crédito externo pleiteado junto ao Banco Mundial é acompanhado, em todos os seus componentes, de assistência técnica e de
+apoio técnico em gestão e execução de projetos complexos, o que permitirá ao Estado de Sergipe mitigar riscos associados ao
+planejamento e execução do Programa, bem como acesso às melhores práticas internacionais e experiências semelhantes apoiadas pelo
+Banco Mundial.
+
+Escolha pelo Banco Mundial (BIRD)
+
+O Banco Internacional para Reconstrução e Desenvolvimento (BIRD), membro do Grupo Banco Mundial, é cooperativa global de
+desenvolvimento do qual fazem parte 189 países membros. Como o maior banco de desenvolvimento do mundo, o BIRD é o parceiro
+histórico preferencial do Brasil na realização de projetos de empréstimos, garantias, produtos de gestão de risco e serviços de consultoria
+e no apoio em temas estratégicos e fundamentais do Brasil.
+
+A parceria entre o Brasil e o Banco Mundial sempre se pautou em altos padrões de accountability e estrita observância a componentes de
+eficiência, melhoria do clima de investimento, redução de gargalos estruturais, na prestação de serviços e no fortalecimento de políticas e
+instituições por meio de gestão, inovação, redução de pobreza e da desigualdade social, respeito ao meio ambiente e na ampliação da
+prosperidade. O BIRD também dispõe de vasta experiência em projetos de infraestrutura digital pública e em sua integração com temas de
+transformação digital, com implementações avançadas em países dos BRIIC+, dentre outros, nas temáticas cobertas pelo presente
+Projeto.
+
+Especificamente no Estado de Sergipe, em 2012, o Banco Mundial apoiou o Projeto Sergipe State Integrated Project: Rural Poverty, no
+valor de US$ 20,8 milhões, que tinha como objetivo o desenvolvimento rural com inclusão de povos indígenas, e, em 2013, o Projeto
+Águas de Sergipe, no valor de US$ 70,275 milhões, que tratou a gestão integrada de recursos hídricos, infraestrutura e serviços para
+promover o desenvolvimento econômico regional, melhorar a gestão sustentável dos recursos naturais e aumentar a resiliência climática.
+Frente ao desempenho positivo deste último projeto, o Governo acredita que a parceria com o Banco Mundial traz ganhos notáveis para o
+Estado, principalmente com o intercâmbio de conhecimento e o aconselhamento da equipe de especialistas para identificação das
+melhores práticas nas diversas áreas de atuação e para fortalecimento das capacidades institucionais. Acredita-se que os objetivos do
+atual Projeto Sergipe Digital, Conectado e Sustentável estão alinhados às diretrizes do Banco Mundial, uma vez que seus bons resultados
+representarão impacto significativo na melhoria da vida das pessoas.
+
+Quanto às vantagens financeiras, o Banco Mundial dispõe de condições favoráveis de financiamento dadas as condições temporais e de
+escopo do presente Programa. A tabela a seguir, denominada Tabela 3 no Anexo 1 "Carta Consulta Complementar", resume comparativo
+da arquitetura de financiamento das principais fontes de financiamento internacional que atendem o Brasil.
+
+A tabela "Vantagens comparativas do Banco Mundial (BIRD) indica os benefícios desse organismo face aos demais bancos de
+desenvolvimento internacionais. Nas condições encaminhadas nesta Carta Consulta, para desenvolvimento em 240 meses, o BIRD é a
+instituição que apresenta modelo de financiamento com menores spreads às taxas de juros e com maior valor adicionado na forma de
+assistência técnica e suporte à gestão.
+
+Tabela - Vantagens comparativas do Banco Mundial (BIRD)
+
+==============================================================================
+
+
+==============================================================================
+
+
+Prazo de Amortização(meses)....     156            174          174          156          156
+
+Spread (% a.a.) à Taxa
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 14
+
+===============================================================================
+
+
+===============================================================================
+
+Fonte: Estado de Sergipe
+
+¹ BIRD1 significa "Opção 1" e BIRD2 significa "Opção 2".
+
+² Spread de 1,26% a.a. composto por 0,41% de margem de financiamento e 0,85% de margem de empréstimos.
+
+Na figura 1 do Anexo 1 "Carta Consulta Complementar", intitulada "Comparação entre a Taxa de Juros praticada pelo BIRD e outras
+Agências de Fomento", confronta-se, nas mesmas bases, a vantagem do BIRD frente à taxa média praticada por outras organizações que
+realizam operações de crédito no Brasil.
+
+No caso da operação em questão (BIRD1), que considera prazo de carência de 60 meses e prazo de vencimento de 360 meses (gerando
+prazo médio aproximado de 17,5 anos), a taxa de juros vigente é de SOFR + spread variável de 1,55% (consulta no caminho https://
+treasury.worldbank.org/en/about/unit/treasury/ibrd-financial-products/lending-rates-and-fees).
+
+Por fim, o "Programa Sergipe Digital, Conectado e Sustentável - CONECTA-SE" se constitui na principal agenda de desenvolvimento da
+infraestrutura pública digital e de transformação digital no Estado de Sergipe e conta com suporte de todas as Secretarias de Estado e
+com entidades do Governo Federal. Na avaliação do Governo do Estado, a obtenção da assistência técnica e do financiamento junto ao
+Banco Mundial permitirá:
+
+(a) aportar experiência internacional na implementação de projeto de infraestrutura pública digital;
+
+(b) adicionar valor às soluções de transformação digital do Estado;
+
+(c) assegurar condições preferenciais para o Estado de Sergipe em projetos de financiamento de longo prazo;
+
+(d) assegurar compliance e transparência com requisitos de proteção ambiental, igualdade de gênero e raça e inclusão social;
+
+(e) facilitar o intercâmbio técnico e institucional com outros países;
+
+(f) prestar assistência técnica, elaboração de estudos aplicados e desenvolvimento de programas de capacitação em habilidades digitais;
+e
+
+(g) apoiar o Estado de Sergipe na solução de problemas e mitigação de riscos pontuais e sistêmicos, entre outros.
+
+Em especial, o Banco Mundial apoiou a elaboração do esboço técnico e a implantação do sistema do Cinturão Digital do Ceará, projeto
+que se revelou de alto impacto socioeconômico e que alavancou o Estado do Ceará como potência regional nos seguimentos de alta
+tecnologia, alto desempenho escolar e no sistema de atendimento ao público.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+O "Programa Sergipe Digital, Conectado e Sustentável - CONECTA-SE" alavancará o Estado de Sergipe para um novo patamar de
+desenvolvimento e, aos seus cidadãos, assegurará soluções modernas, eficientes e transparentes de prestação de serviços. O Programa
+CONECTA-SE também pretende sensibilizar a matriz econômica estadual, fomentar investimentos em tecnologias e infraestrutura, e
+desenvolver habilidades digitais que permitam aos cidadãos fazerem uso efetivo dos serviços digitais e se engajarem em atividades
+econômicas de alto valor agregado, consistentes com as demandas da sociedade. Seus efeitos se aplicam a toda uma gama de iniciativas
+de economicidade, planejamento, promoção do bem-estar, transparência, segurança pública em transações físicas e digitais, e é
+habilitadora de soluções modernas e digitais de interesse público.
+
+(cid:10)
+(cid:10)
+
+
+Página: 15
+
+Nesse sentido, considerando item 4 do Anexo à Resolução Cofiex nº 17, de 7 de junho de 2021, as áreas estratégicas de potencial
+impacto do Programa encontram-se listadas abaixo:
+
+1 - Sustentabilidade ambiental
+
+O projeto abrange uma infraestrutura digital que permitirá instrumentalizar os órgãos de controle e gestão ambiental com ferramentas
+digitais e dispositivos de monitoramento modernos. Tais soluções permitirão adicionar valor às atividades de monitoramento, prevenção e
+fiscalização ambiental do Estado.
+
+2 - Conservação e manejo da biodiversidade e/ou de recursos florestais
+
+De aplicação indireta, com o novo padrão de digitalização, o Programa aumentará a capacidade estadual para monitorar, fiscalizar e
+mitigar eventos ambientais, e habilitará ações de conservação e manejo da biodiversidade e a racionalização dos recursos ambientais em
+ecossistemas de alta sensibilidade como a caatinga, o leito do Rio São Francisco e o sertão do Estado de Sergipe.
+
+A saber, o sertão sergipano e o baixo São Francisco, por exemplo, armazenam estoque de ativos ambientais e hídricos essenciais para a
+preservação ambiental do Estado, para a garantia dos ciclos de produção agrícola e abastecimento humano.
+
+Além disso, a inclusão do componente energético neste Programa se ampara em uma política compensatória com benefícios mútuos para
+digitalização e promoção de sistema elétrico mais eficiente e menos intensivo em carbono. Enfrentar a crise climática exige que tanto
+carbono quanto biodiversidade sejam protegidos em conjunto.
+
+3 - Saneamento básico
+
+O projeto abrange uma infraestrutura digital que permitirá instrumentalizar os órgãos e entidades de saneamento com ferramentas digitais
+e dispositivos de monitoramento modernos. Tais soluções permitirão adicionar valor às atividades de regulação e prestação de serviços de
+saneamento público, inclusive nas regiões onde tais serviços não estão disponíveis ou estão em fase de construção.
+
+4 - Recursos hídricos
+
+O projeto abrange uma infraestrutura digital que permitirá instrumentalizar os órgãos e entidades de monitoramento e distribuição de
+recursos hídricos do Estado. Tais soluções permitirão assegurar maior controle sobre os recursos e usos dos sistemas de abastecimento e
+reciclagem de água e de irrigação.
+
+5 - Melhoria do ambiente de negócios e/ou oportunidades
+
+O Programa CONECTA-SE possui grande impacto na melhoria do ambiente de negócios e criação de oportunidades no Estado. O
+conjunto que compõe os componentes e os produtos do Programa abrangem dimensões estruturais, de serviço e de pessoas. Uma vez
+disponibilizados, o Estado estará apto a alçar uma nova condição de conectividade universal e significativa, além de ampliar o escopo e o
+alcance de serviços digitais para a sociedade sergipana. Avanços na infraestrutura digital irão atrair investimentos e estimular o
+empreendedorismo, gerando novos empregos e negócios.
+
+O Programa abre novas oportunidades de negócios, melhora a qualidade de vida da população em geral e reduz a desigualdade social.
+Dentre os ganhos esperados, temos aumento da produtividade, resultado da maior eficiência na utilização dos insumos e recursos, e
+otimização do consumo de energia. É uma mudança de paradigma que acarreta oportunidades de inovação, surgimento de novos
+mercados e profissões, maior competitividade, fortalecimento da confiança dos investidores, fornecedores e consumidores, e maior
+estabilidade econômica.
+
+6 - Benefícios para empreendedores individuais, micro e pequenas empresas
+
+A ampliação da infraestrutura, a digitalização dos serviços e a promoção de habilidades digitais no serviço público resultará em ganhos de
+eficiência e produtividade do Estado com efeitos multiplicadores na simplificação e desoneração da atuação empresarial, notadamente dos
+micro e pequenos empresários do interior do Estado, cuja atuação se adequam às condições e margens da região.
+
+7 - Geração de emprego e renda para populações de baixa renda e vulneráveis
+
+O efeito catalizador do conjunto de componentes propostos promoverá crescimento da atividade econômica estadual com sustentabilidade
+ambiental e consequente geração de emprego e renda, em especial para populações de baixa renda e vulneráveis localizadas na rota de
+desenvolvimento do cinturão digital, predominantemente compostas por municípios do semiárido sergipano e a região do baixo São
+Francisco.
+
+O crescimento da pobreza e do desemprego reforça a necessidade de se criar uma rede de proteção para a população de mais baixa
+renda, que demanda mais serviços públicos, em especial, saúde e educação. Sergipe é o quinto Estado brasileiro com maior número de
+famílias pobres. De acordo com dados da Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD)/2022, possui 52,7% da
+população em situação de pobreza (rendimento domiciliar até ½ salário-mínimo per capita) e 13,6% da população na extrema pobreza (R$
+168 mensais per capita).
+
+
+Página: 16
+
+Em linha com os comentários sobre melhoria do ambiente de negócios, o Programa abrange ações de mudanças socioeconômicas e tem
+como característica a aplicação de políticas públicas inteligentes, aliadas diretamente à comunidade e com efetivas soluções de
+transformação social.
+
+8 - Infraestrutura e/ou equipamentos sociais para populações de baixa renda e vulneráveis
+
+Sistemas digitais e modernos de identificação se consolidam principalmente como soluções de software. Dispositivos móveis combinados
+com guarda de dados em servidores remotos permitem ao cidadão guardar e se apresentar sem a necessidade de um documento físico. A
+consulta da identidade em meios eletrônicos passa a ser uma prerrogativa sob o domínio das partes que exigem a identificação e não
+uma obrigação exclusiva do cidadão. Tal liberdade permitirá às populações de baixa renda exercer seus direitos e obrigações civis sem a
+necessidade de carregar um documento impresso, bastando identificar-se oralmente, com suas digitais ou outros meios.
+
+Além disso, a iniciativa lança as bases para vários outros projetos de educação à distância, atração de novas empresas de base
+tecnológica, fornecimento de laboratórios e recursos computacionais para uso da população e muitos outros.
+
+9 - Ações de inclusão de minorias sociais entre os beneficiários
+
+A inclusão digital pode ajudar a reduzir a desigualdade ao proporcionar acesso igualitário a informações e serviços. O Programa
+contempla, principalmente, municípios do sertão sergipano, as regiões de caatinga e do baixo São Francisco. Essa região concentra os
+menores IDHs do Estado e nela são percebidas maior vulnerabilidade socioeconômica e dolorosa fragilidade humana.
+
+A inclusão digital é a iniciativa de fazer com que a sociedade alcance conhecimento básico para utilizar os recursos da tecnologia da
+informação e de comunicação, bem como ter e utilizar as ferramentas, como computadores com acesso à internet, videoconferência, TV
+Digital, telefonia celular. O adensamento da infraestrutura nessas regiões permitirá conectar comunidades carentes e estabelecimentos, e
+sistemas públicos de suporte social, educacional e de emprego. O desenvolvimento de habilidades digitais terá ênfase nos indivíduos com
+baixa escolaridade, idosos e beneficiários de sistemas de apoio social, de renda mínima que ainda não fazem uso de serviços digitais
+oferecidos pelo setor público.
+
+10 - Políticas voltadas para juventude, gênero e raça
+
+Uma das dimensões do Programa CONECTA-SE refere-se à habilitação digital da população sergipana. O propósito é oferecer
+conhecimentos e habilidades básicas e intermediárias que permitam a emancipação de jovens, mulheres, minorias e grupos sociais
+carentes. Essa abordagem, combinada com a região focal do Programa, permitirá alcançar populações e grupos sociais sensíveis,
+inclusive aqueles de regiões do sertão e as comunidades ribeirinhas do Baixo Rio Francisco, com foco nas mulheres. Esta dimensão
+contribui para reduzir a exclusão social e promove benefícios como a democratização do conhecimento, a melhoria da qualificação da
+população para mercado de trabalho e o desenvolvimento socioeconômico da região.
+
+O Projeto inclui parceria com Secretaria da Educação e empresa terceira, que implantará, já no ano de 2024, um centro de capacitação
+para capacitar jovens de 16 e 17 anos para prepará-los para a entrada no mercado de trabalho. Além disso, haverá um módulo específico
+para mulheres com os seguintes conteúdos: Avaliação de Ameaças Cibernéticas GAP ANALYSIS; Campanha de PHISHING GOV SE;
+Sessões especiais sobre cibersegurança; Estratégia educacional; Plano de ação; Sala de Crise Ransomware; Workshop Geral sobre
+Cibersegurança; Cartilha Infantil com Dicas de uma cachorrinha para segurança na internet; Programa em Cibersegurança para Mulheres
+(Eventos de Cibersegurança para Mulheres; Painel de mulheres inspiradoras; Oferta de educação em cibersegurança).
+
+11 - Melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão e/ou de participação cidadã
+
+O Programa inclui assistência técnica em todos os seus componentes e um dos propósitos dessa composição é estabelecer uma política
+digital fundamentada nos potenciais e nas limitações do Estado de Sergipe. As dimensões de infraestrutura e transformação digital do
+Estado têm como foco prover conectividade universal e significativa para os cidadãos e com a participação ativa da sociedade. Isso se
+baseia na melhoria do perfil dos municípios sergipanos em estrutura tecnológica, inclusive nas regiões nas quais não há grande demanda,
+para beneficiar toda a comunidade local com conexão wi-fi (internet sem fio), principalmente os usuários do serviço público, como escolas
+, secretarias, centros.
+
+A saber, Sergipe ocupa a 22ª posição no ranking brasileiro de governos digitais. O conjunto de serviços e inovações oferecidos no Estado
+corresponde a aproximadamente 1/3 do portfólio oferecido pelo Rio Grande do Sul, referência nacional.
+
+Além disso, as medidas de eficiência energética em edificações públicas têm caráter de replicabilidade, capacitação de áreas técnicas,
+gestão da energia elétrica e compras eficientes. Dessa forma, pretende-se transformar o setor público sergipano em exemplo de
+sustentabilidade e eficiência para a sociedade, promovendo construções sustentáveis e redução de emissões, fomentando boas práticas
+de gestão e induzindo o mercado à produção e ao consumo sustentáveis.
+
+12 - Melhoria das condições de educação e saúde
+
+A conectividade ampliada facilita o acesso a recursos educacionais e oportunidades de aprendizado remoto. Na área da saúde, a
+telemedicina se torna mais acessível, permitindo diagnósticos e consultas remotas, o que é essencial em áreas rurais. O cinturão digital
+levará capacidade de banda larga para o interior do Estado e, nessa rota de desenvolvimento, habilitará escolas, hospitais e outros
+serviços públicos com capacidade de conectividade. Tal dinâmica complementa outros esforços conduzidos pelo Poder Público para os
+setores de educação, saúde, segurança pública, entre outros.
+
+
+Página: 17
+
+A título de ilustração, as escolas públicas sergipanas possuem, em média, 17,7 Mbps de capacidade de download, aproximadamente
+metade da média registrada para as escolas públicas brasileiras, enquanto as escolas rurais sergipanas possuem, em média, 10.6 Mbps
+de download (5 vezes menos que os valores médios das escolas públicas de Santa Catarina, benchmark nacional).
+
+13 - Desenvolvimento, inovação e modernização tecnológica
+
+A revolução digital transformou radicalmente a forma como as pessoas se comunicam, trabalham e acessam informações. A internet, os
+smartphones e as redes sociais conectaram o mundo, facilitando a disseminação de informações e a colaboração global. Toda economia
+mundial se baseia hoje na esfera digital para acompanhar o ritmo de crescimento nacional e o desenvolvimento tecnológico global. A
+população do Estado de Sergipe não irá ficar à margem da evolução tecnológica e digital. A infraestrutura robusta poderá fomentar a
+inovação tecnológica, colocando o Estado na vanguarda do desenvolvimento tecnológico.
+
+O adensamento tecnológico, proporcionado pelo cinturão digital, pelas soluções de transformação digital e pela promoção de habilidades
+digitais, repercutirá com efeito multiplicador na sociedade sergipana, mediante maior desenvolvimento, diversificação da matriz econômica
+e criação de inovações e modernização da economia do Estado. A experiência anterior de cinturão digital do Ceará confere o potencial
+transformador do presente Programa e seus efeitos para o desenvolvimento da sociedade local. O Ceará é pioneiro na criação de
+estrutura própria de distribuição de conexão de internet e disponibiliza à população e órgãos públicos uma conexão de internet de alta
+qualidade, principalmente nos municípios do interior do Estado, fortalecendo a democratização da tecnologia.
+
+14 - Arranjos de financiamento que incentivem/contribuam com a participação privada
+
+A exemplo do cinturão digital do Ceará, o modelo de anel ótico possui potencial efeito vizinhança e ampliação da competição na oferta de
+serviços de banda larga, especialmente por pequenos prestadores de banda larga locais. A inclusão da participação privada faz parte do
+escopo do Programa e será implementado na fase de contratações do cinturão digital a partir de melhores práticas levadas a cabo pelo
+Estado do Ceará, com apoio do Banco Mundial. Além disso, as políticas públicas implantadas sinalizam o firme propósito do Governo do
+Estado em mais investimento privado para a transformação energética.
+
+15 - IDH
+
+O Programa proverá os municípios do Estado de Sergipe com capacidade de banda larga em alta capacidade, suficiente para a ampliação
+da oferta de serviços de conectividade e o provimento de "backhauls" para transporte de dados de serviços fixos e móveis do interior do
+Estado. O objetivo é alterar a configuração do Estado, em especial dos municípios de menor IDH, notadamente as localidades do sertão,
+da caatinga e do baixo São Francisco, todos com enorme carência de serviços digitais, distantes e com baixo grau de desenvolvimento.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BIRD
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+13.400.000,00
+Valor Proposto
+
+53.600.000,00
+
+67.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+13.400.000,00
+Valor de Referência US
+$
+53.600.000,00
+
+67.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Opção selecionada: CONCORDO (sistema COFIEX não permitiu a seleção correta)
+
+Arranjo Institucional
+
+O mutuário é o Estado de Sergipe.
+
+(cid:10)
+
+
+Página: 18
+
+O órgão executor é a Agência Sergipe de Desenvolvimento S.A. (DESENVOLVE-SE), vinculada à Secretaria da Casa Civil, constituída
+nos termos da Lei Estadual nº 9.180/2023, e que tem dentre suas atribuições: (i) criar condições para a melhoria da competitividade dos
+setores econômicos do Estado, (ii) desenvolver e executar projetos, programas e ações destinadas à desburocratização e melhoria do
+ambiente de negócios no Estado de Sergipe, (iii) auxiliar o órgão central do Sistema de Planejamento e Monitoramento Estratégico do
+Poder Público Estadual no planejamento de longo prazo de Sergipe, (iv) desenvolver e executar projetos estruturantes e atrair
+investimentos para o Estado.
+
+Os recursos referentes às contrapartidas, que abrangem elementos de todos os componentes do Projeto, serão administrados pela
+DESENVOLVE-SE. A coordenação executiva do Projeto será realizada por uma Unidade de Gerenciamento do Programa (UGP)
+designada pelo Governo do Estado.
+
+Matriz de Responsabilidades (consta Anexo)
+
+As instituições estaduais responsáveis pela implantação do Programa são:
+
+1 - Governo do Estado de Sergipe: mutuário do contrato de empréstimo do Projeto.
+
+2 - Agência Sergipe de Desenvolvimento S.A. (DESENVOLVE-SE): responsável pela execução administrativa, financeira e contábil do
+Programa. A Agência será também responsável pela coordenação, planejamento, acompanhamento, monitoramento e avaliação do
+Programa, no âmbito do contrato de financiamento com o Banco Mundial e alocação e repasse de recursos oriundos do financiamento
+externo.
+
+3 - Empresa Sergipana de Tecnologia da Informação (EMGETIS): responsável pela assessoria técnica especializada do Estado.
+
+Demais órgãos e entidades estaduais que porventura sejam adicionados futuramente para melhor formulação das políticas públicas
+delineadas.
+
+A atuação estratégica da Secretaria de Estado da Casa Civil é fundamental para permitir maior alcance das ações relacionadas às
+dimensões (seção 1.2. desta Carta Consulta), por parte das instituições do Estado de Sergipe, assessorando e articulando os melhores
+parceiros institucionais para a consecução das atividades, além de intermediar as discussões entre todos os atores envolvidos para dar
+celeridade à execução do Programa e mitigar riscos.
+
+Estrutura Operacional
+
+O Projeto será coordenado pela DESENVOLVE-SE, com o apoio da UGP, cuja estrutura, composição e vinculação institucional serão
+definidas durante a preparação do Programa. A UGP contará com o suporte de todas as áreas relacionadas ao Programa. Constituirão
+responsabilidades da UGP:
+
+(i) Apresentação, ao organismo financiador, de pedido de desembolsos, comprovações de gastos e de prestações de conta do Programa;
+
+(ii) Manutenção de sistemas adequados à administração das contratações efetuadas e dos registros contábeis e financeiros das
+transações do Programa;
+
+(iii) Preparação e apresentação das informações de ordem financeira do Programa; e
+
+(iv) Obtenção de dados junto a outros órgãos do Poder Público e instituições públicas, privadas e da sociedade civil.
+
+Caberão ainda à UGP as seguintes atividades operacionais:
+
+(i) Supervisão da execução do Programa;
+
+(ii) Desenvolvimento e implantação dos instrumentos e procedimentos operacionais, incluindo aqueles relativos às solicitações de
+desembolso, comprovações de gastos e prestações de contas, acompanhamento físico e financeiro, avaliações de execução,
+contabilidade do Programa; e
+
+(iii) Elaboração de normas e procedimentos para catalogar e arquivar os documentos técnicos, administrativos e financeiros do Programa.
+
+Prazo
+
+A execução do Programa será feita em 5 anos, a partir da finalização da contratação da operação de crédito externo.
+
+A expectativa é de disponibilização de recursos de crédito externo para 2024 quando será iniciada a fase de execução do Programa. O
+prazo total do Programa reflete sua complexidade de gestão e operação e encontra-se de acordo com as previsões temporais
+estabelecidas pelo Governo do Estado de Sergipe. Cabe destacar que a operação de crédito externo é fundamental para a realização do
+Programa e visa garantir recursos para a viabilização de uma solução estruturante, transformadora e sustentável, voltada ao adensamento
+da infraestrutura pública digital do Estado, a transformação digital do Estado e dos serviços públicos e habilitação das habilidades digitais.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Governo do Estado de Sergipe
+
+Representante Oficial: FABIO CRUZ MITIDIERI
+
+
+Página: 19
+
+Endereço da Sede: Palácio Governador Augusto Franco, Av. Adélia Franco, 3305, Bairro Grageru, Aracaju-SE, 49040-020
+E-mail Institucional:
+
+Telefone: 7932341400
+
+CNPJ: 13128798000101
+
+Fax:
+UF:
+
+Executor: Agência Sergipe de Desenvolvimento S.A
+
+Representante Oficial: MILTON ARTHUR VASCONCELOS DE ANDRADE CRUZ
+
+Endereço da Sede: Av Adelia Franco, 3305, 2º andar, Bairro Inácio Barbosa, Aracaju-SE
+E-mail Institucional:
+
+Telefone: 7932341400
+
+CNPJ: 51813615000178
+
+Fax:
+UF:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+C - CINTURÃO DIGITAL DE SERGIPE
+
+P - Assistência técnica
+
+COMPONENTES
+
+P - Construção de um sistema sustentável e escalável de cinturão digital e sua integração com
+sistemas de comunicação públicos e privados
+P - Modernização, regulamentação, coordenação e integração do sistema de data centers
+
+P - Integração e instrumentalização do Estado com mecanismos digitais de monitoramento,
+fiscalização e garantia da arrecadação
+C - TRANSFORMAÇÃO DIGITAL
+
+P - Assistência Técnica
+
+P - Desenvolvimento de Política Estadual de Governo Digital
+
+P - Desenvolvimento de Portal de Serviços Digitais, plataforma de interoperabilidade e de
+serviços
+P - Aquisição de equipamentos, sistemas e licenças
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+CF
+
+BIRD
+
+23.245.000,00
+
+1.000.000,00
+
+6.925.000,00
+
+1.420.000,00
+
+50.000,00
+
+600.000,00
+
+12.625.000,00
+
+500.000,00
+
+3.625.000,00
+
+5.000.000,00
+
+250.000,00
+
+1.500.000,00
+
+4.200.000,00
+
+200.000,00
+
+1.200.000,00
+
+12.855.000,00
+
+1.000.000,00
+
+3.450.000,00
+
+1.000.000,00
+
+50.000,00
+
+250.000,00
+
+2.000.000,00
+
+200.000,00
+
+400.000,00
+
+4.000.000,00
+
+400.000,00
+
+800.000,00
+
+4.950.000,00
+
+250.000,00
+
+1.750.000,00
+
+P - Desenvolvimento de observatório de dados públicos e evidências
+
+905.000,00
+
+100.000,00
+
+250.000,00
+
+C - HABILIDADES DIGITAIS
+
+P - Assistência técnica
+
+6.900.000,00
+
+365.000,00
+
+1.885.000,00
+
+1.000.000,00
+
+50.000,00
+
+300.000,00
+
+P - Qualificação de servidores públicos e formação de mão de obra técnica local
+
+1.950.000,00
+
+115.000,00
+
+485.000,00
+
+P - Habilitação digital da sociedade, especialmente dos grupos vulneráveis
+
+1.950.000,00
+
+100.000,00
+
+500.000,00
+
+P - Política Estadual de Comunicação Pública Digital
+
+P - Segurança cibernética e proteção de dados
+
+C - ENERGIA INTELIGENTE E SUSTENTÁVEL
+
+P - Assistência técnica
+
+1.000.000,00
+
+1.000.000,00
+
+50.000,00
+
+50.000,00
+
+300.000,00
+
+300.000,00
+
+24.000.000,00
+
+1.000.000,00
+
+5.000.000,00
+
+1.200.000,00
+
+50.000,00
+
+12.500,00
+
+250.000,00
+
+62.500,00
+
+P - Desenvolvimento de políticas e fortalecimento institucional em matéria de eficiência energética
+
+300.000,00
+
+P - Investimento em modernização dos sistemas de refrigeração e iluminação dos prédios
+públicos
+P - Implementação de soluções de micro e minigeração distribuída (MMDG)
+
+10.500.000,00
+
+437.500,00
+
+2.187.500,00
+
+12.000.000,00
+
+500.000,00
+
+2.500.000,00
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+3.365.000,00
+
+17.260.000,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+C - CINTURÃO DIGITAL DE SERGIPE
+
+P - Assistência técnica
+
+COMPONENTES
+
+P - Construção de um sistema sustentável e escalável de cinturão digital e sua integração com
+sistemas de comunicação públicos e privados
+P - Modernização, regulamentação, coordenação e integração do sistema de data centers
+
+P - Integração e instrumentalização do Estado com mecanismos digitais de monitoramento,
+fiscalização e garantia da arrecadação
+C - TRANSFORMAÇÃO DIGITAL
+
+P - Assistência Técnica
+
+P - Desenvolvimento de Política Estadual de Governo Digital
+
+P - Desenvolvimento de Portal de Serviços Digitais, plataforma de interoperabilidade e de
+serviços
+P - Aquisição de equipamentos, sistemas e licenças
+
+P - Desenvolvimento de observatório de dados públicos e evidências
+
+C - HABILIDADES DIGITAIS
+
+P - Assistência técnica
+
+P - Qualificação de servidores públicos e formação de mão de obra técnica local
+
+P - Habilitação digital da sociedade, especialmente dos grupos vulneráveis
+
+P - Política Estadual de Comunicação Pública Digital
+
+P - Segurança cibernética e proteção de dados
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+BIRD
+
+1.100.000,00
+
+2.895.000,00
+
+100.000,00
+
+20.000,00
+
+500.000,00
+
+1.625.000,00
+
+200.000,00
+
+750.000,00
+
+300.000,00
+
+500.000,00
+
+650.000,00
+
+1.700.000,00
+
+50.000,00
+
+150.000,00
+
+100.000,00
+
+300.000,00
+
+200.000,00
+
+600.000,00
+
+250.000,00
+
+500.000,00
+
+50.000,00
+
+150.000,00
+
+350.000,00
+
+1.050.000,00
+
+50.000,00
+
+150.000,00
+
+100.000,00
+
+300.000,00
+
+100.000,00
+
+300.000,00
+
+50.000,00
+
+50.000,00
+
+150.000,00
+
+150.000,00
+
+
+Página: 20
+
+C - ENERGIA INTELIGENTE E SUSTENTÁVEL
+
+P - Assistência técnica
+
+P - Desenvolvimento de políticas e fortalecimento institucional em matéria de eficiência energética
+
+P - Investimento em modernização dos sistemas de refrigeração e iluminação dos prédios
+públicos
+P - Implementação de soluções de micro e minigeração distribuída (MMDG)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+1.200.000,00
+
+6.000.000,00
+
+60.000,00
+
+15.000,00
+
+300.000,00
+
+75.000,00
+
+525.000,00
+
+2.625.000,00
+
+600.000,00
+
+3.000.000,00
+
+0,00
+
+3.300.000,00
+
+11.645.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+VALOR
+
+CUSTO
+
+C - CINTURÃO DIGITAL DE SERGIPE
+
+P - Assistência técnica
+
+COMPONENTES
+
+P - Construção de um sistema sustentável e escalável de cinturão digital e sua integração com
+sistemas de comunicação públicos e privados
+P - Modernização, regulamentação, coordenação e integração do sistema de data centers
+
+P - Integração e instrumentalização do Estado com mecanismos digitais de monitoramento,
+fiscalização e garantia da arrecadação
+C - TRANSFORMAÇÃO DIGITAL
+
+P - Assistência Técnica
+
+P - Desenvolvimento de Política Estadual de Governo Digital
+
+P - Desenvolvimento de Portal de Serviços Digitais, plataforma de interoperabilidade e de
+serviços
+P - Aquisição de equipamentos, sistemas e licenças
+
+P - Desenvolvimento de observatório de dados públicos e evidências
+
+C - HABILIDADES DIGITAIS
+
+P - Assistência técnica
+
+P - Qualificação de servidores públicos e formação de mão de obra técnica local
+
+P - Habilitação digital da sociedade, especialmente dos grupos vulneráveis
+
+P - Política Estadual de Comunicação Pública Digital
+
+P - Segurança cibernética e proteção de dados
+
+C - ENERGIA INTELIGENTE E SUSTENTÁVEL
+
+P - Assistência técnica
+
+P - Desenvolvimento de políticas e fortalecimento institucional em matéria de eficiência energética
+
+P - Investimento em modernização dos sistemas de refrigeração e iluminação dos prédios
+públicos
+P - Implementação de soluções de micro e minigeração distribuída (MMDG)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - CINTURÃO DIGITAL DE SERGIPE
+
+P - Assistência técnica
+
+COMPONENTES
+
+P - Construção de um sistema sustentável e escalável de cinturão digital e sua integração com
+sistemas de comunicação públicos e privados
+P - Modernização, regulamentação, coordenação e integração do sistema de data centers
+
+P - Integração e instrumentalização do Estado com mecanismos digitais de monitoramento,
+fiscalização e garantia da arrecadação
+C - TRANSFORMAÇÃO DIGITAL
+
+P - Assistência Técnica
+
+P - Desenvolvimento de Política Estadual de Governo Digital
+
+P - Desenvolvimento de Portal de Serviços Digitais, plataforma de interoperabilidade e de
+serviços
+P - Aquisição de equipamentos, sistemas e licenças
+
+P - Desenvolvimento de observatório de dados públicos e evidências
+
+C - HABILIDADES DIGITAIS
+
+P - Assistência técnica
+
+P - Qualificação de servidores públicos e formação de mão de obra técnica local
+
+P - Habilitação digital da sociedade, especialmente dos grupos vulneráveis
+
+P - Política Estadual de Comunicação Pública Digital
+
+P - Segurança cibernética e proteção de dados
+
+C - ENERGIA INTELIGENTE E SUSTENTÁVEL
+
+P - Assistência técnica
+
+P - Desenvolvimento de políticas e fortalecimento institucional em matéria de eficiência energética
+
+P - Investimento em modernização dos sistemas de refrigeração e iluminação dos prédios
+públicos
+P - Implementação de soluções de micro e minigeração distribuída (MMDG)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+Ano 3
+
+FONTES
+
+CF
+
+BIRD
+
+1.050.000,00
+
+3.025.000,00
+
+50.000,00
+
+200.000,00
+
+500.000,00
+
+1.625.000,00
+
+200.000,00
+
+700.000,00
+
+300.000,00
+
+500.000,00
+
+750.000,00
+
+1.550.000,00
+
+50.000,00
+
+150.000,00
+
+200.000,00
+
+200.000,00
+
+200.000,00
+
+600.000,00
+
+250.000,00
+
+500.000,00
+
+50.000,00
+
+100.000,00
+
+250.000,00
+
+900.000,00
+
+50.000,00
+
+50.000,00
+
+50.000,00
+
+50.000,00
+
+50.000,00
+
+100.000,00
+
+300.000,00
+
+300.000,00
+
+100.000,00
+
+100.000,00
+
+1.000.000,00
+
+5.000.000,00
+
+50.000,00
+
+12.500,00
+
+250.000,00
+
+62.500,00
+
+437.500,00
+
+2.187.500,00
+
+500.000,00
+
+2.500.000,00
+
+0,00
+
+3.050.000,00
+
+10.475.000,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+Ano 4
+
+FONTES
+
+CF
+
+BIRD
+
+830.000,00
+
+3.025.000,00
+
+50.000,00
+
+200.000,00
+
+500.000,00
+
+1.625.000,00
+
+100.000,00
+
+700.000,00
+
+180.000,00
+
+500.000,00
+
+445.000,00
+
+1.800.000,00
+
+20.000,00
+
+150.000,00
+
+140.000,00
+
+200.000,00
+
+80.000,00
+
+600.000,00
+
+200.000,00
+
+750.000,00
+
+5.000,00
+
+100.000,00
+
+140.000,00
+
+1.050.000,00
+
+20.000,00
+
+40.000,00
+
+40.000,00
+
+20.000,00
+
+20.000,00
+
+150.000,00
+
+300.000,00
+
+300.000,00
+
+150.000,00
+
+150.000,00
+
+400.000,00
+
+2.000.000,00
+
+20.000,00
+
+100.000,00
+
+5.000,00
+
+25.000,00
+
+175.000,00
+
+875.000,00
+
+200.000,00
+
+1.000.000,00
+
+0,00
+
+1.815.000,00
+
+7.875.000,00
+
+0,00
+
+0,00
+
+
+Página: 21
+
+C - CINTURÃO DIGITAL DE SERGIPE
+
+P - Assistência técnica
+
+COMPONENTES
+
+P - Construção de um sistema sustentável e escalável de cinturão digital e sua integração com
+sistemas de comunicação públicos e privados
+P - Modernização, regulamentação, coordenação e integração do sistema de data centers
+
+P - Integração e instrumentalização do Estado com mecanismos digitais de monitoramento,
+fiscalização e garantia da arrecadação
+C - TRANSFORMAÇÃO DIGITAL
+
+P - Assistência Técnica
+
+P - Desenvolvimento de Política Estadual de Governo Digital
+
+P - Desenvolvimento de Portal de Serviços Digitais, plataforma de interoperabilidade e de
+serviços
+P - Aquisição de equipamentos, sistemas e licenças
+
+P - Desenvolvimento de observatório de dados públicos e evidências
+
+C - HABILIDADES DIGITAIS
+
+P - Assistência técnica
+
+P - Qualificação de servidores públicos e formação de mão de obra técnica local
+
+P - Habilitação digital da sociedade, especialmente dos grupos vulneráveis
+
+P - Política Estadual de Comunicação Pública Digital
+
+P - Segurança cibernética e proteção de dados
+
+C - ENERGIA INTELIGENTE E SUSTENTÁVEL
+
+P - Assistência técnica
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+BIRD
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+820.000,00
+
+2.575.000,00
+
+4.800.000,00
+
+18.445.000,00
+
+50.000,00
+
+100.000,00
+
+300.000,00
+
+1.120.000,00
+
+500.000,00
+
+1.625.000,00
+
+2.500.000,00
+
+10.125.000,00
+
+100.000,00
+
+500.000,00
+
+850.000,00
+
+4.150.000,00
+
+170.000,00
+
+350.000,00
+
+1.150.000,00
+
+3.050.000,00
+
+440.000,00
+
+1.070.000,00
+
+3.285.000,00
+
+9.570.000,00
+
+30.000,00
+
+100.000,00
+
+200.000,00
+
+800.000,00
+
+160.000,00
+
+100.000,00
+
+800.000,00
+
+1.200.000,00
+
+120.000,00
+
+400.000,00
+
+1.000.000,00
+
+3.000.000,00
+
+100.000,00
+
+400.000,00
+
+1.050.000,00
+
+3.900.000,00
+
+30.000,00
+
+70.000,00
+
+235.000,00
+
+670.000,00
+
+210.000,00
+
+700.000,00
+
+1.315.000,00
+
+5.585.000,00
+
+30.000,00
+
+60.000,00
+
+60.000,00
+
+30.000,00
+
+30.000,00
+
+100.000,00
+
+200.000,00
+
+800.000,00
+
+200.000,00
+
+365.000,00
+
+1.585.000,00
+
+200.000,00
+
+350.000,00
+
+1.600.000,00
+
+100.000,00
+
+200.000,00
+
+800.000,00
+
+100.000,00
+
+200.000,00
+
+800.000,00
+
+400.000,00
+
+2.000.000,00
+
+4.000.000,00
+
+20.000.000,00
+
+20.000,00
+
+100.000,00
+
+200.000,00
+
+1.000.000,00
+
+P - Desenvolvimento de políticas e fortalecimento institucional em matéria de eficiência energética
+
+5.000,00
+
+25.000,00
+
+50.000,00
+
+250.000,00
+
+P - Investimento em modernização dos sistemas de refrigeração e iluminação dos prédios
+públicos
+P - Implementação de soluções de micro e minigeração distribuída (MMDG)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+175.000,00
+
+875.000,00
+
+1.750.000,00
+
+8.750.000,00
+
+200.000,00
+
+1.000.000,00
+
+2.000.000,00
+
+10.000.000,00
+
+67.000.000,00
+
+1.870.000,00
+
+6.345.000,00
+
+13.400.000,00
+
+53.600.000,00
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+Atos legais necessários
+
+As etapas de análise, negociação e assinatura junto à COFIEX e ao Governo Federal são objeto de tratativas conduzidas de forma
+conjunta entre o Governo do Estado de Sergipe e o organismo multilateral.
+
+Os componentes e produtos desta Carta Consulta estão fundamentados em diretrizes de políticas públicas do Estado de Sergipe e as
+contrapartidas apresentadas estão contempladas no limite de financiamento do Estado de Sergipe.
+
+As contratações a serem realizadas com recursos do Programa obedecem a legislação afeta às contratações e licitações públicas, nos
+termos das Leis Federais nº 8.666 ¹, de 21 de junho de 1993, nº 13.303 ², de 30 de junho de 2016, e nº 14.133 ³, de 1º de abril de 2021, e
+outras orientações legais e infralegais aplicáveis, e as regras próprias de "compliance" e "procurement" do Banco Mundial (4).
+
+Atualmente, encontra-se em fase prévia de elaboração de atos legais e infralegais que definam e regulamentem o alcance, os requisitos e
+as especificidades de cada dimensão do Programa.
+
+Riscos
+
+Para a operação de crédito externo, faz-se necessária a elaboração e a aprovação de lei autorizativa para sua contratação, que depende
+de autorização da Assembleia Legislativa do Estado de Sergipe. Esse risco é mitigado, considerando a maioria parlamentar de apoio ao
+Governo.
+
+No caso em questão, inclui-se também a exigência legal federal de sua aprovação no Senado Federal. Esta demanda será realizada em
+tempo hábil e respeitando os preceitos legais e temporais para formalização da contratação.
+
+Outro risco a ser considerado é a desvalorização cambial da moeda estrangeira, em USD. A taxa de juros é contrapeso ao risco cambial
+por conta da conjuntura econômica.
+
+¹ https://www.planalto.gov.br/ccivil_03/leis/l8666cons.htm
+
+² https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm
+
+³ https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm
+
+4 https://projects.worldbank.org/en/projects-operations/products-and-services/brief/procurement-policies-and-guidance
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 22
+
+5.2. RISCOS/CONTRATAÇÕES
+
+A contratação de consultorias e estudos para fins de apoio técnico especializado obedecerá ao rito regular de contratação aplicado pelo
+Estado de Sergipe, com auxílio do Banco Mundial. Tal procedimento ocorre em conformidade com o arcabouço legal disponível e sob a
+supervisão de órgãos de controle e Tribunal de Contas do Estado.
+
+As contratações também observarão requisitos de não objeção do Banco Mundial e estarão em linha com as melhores práticas
+internacionais de contratação.
+
+O projeto possui baixo risco em termos contratuais e a legislação em vigor oferece condições de contorno para mitigar tais riscos e mitigar
+danos ao interesse público. Projetos dessa natureza exigem gestão rigorosa e, mais uma vez, a parceria com o BIRD, que aportará ao
+Programa extensivo aparato de instrumentos e práticas de gestão de projetos, será decisiva para ampliar seu impacto positivo e reduzir
+possíveis riscos contratuais.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Não se aplica. Toda a infraestrutura de cabeamento para constituição do Cinturão Digital de Sergipe será disponibilizada ao longo de
+rodovias estabelecidas conforme legislação e regulamentação em vigor, notadamente aquelas que tratam de meios de passagem de
+infraestruturas de telecomunicações.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+Parte relevante do "Programa Sergipe Digital, Conectado e Sustentável - CONECTA-SE" trata de construção civil para passagem do
+cinturão digital de fibra ótica. O cinturão estará disponibilizado às margens das estradas federais e estaduais que cruzam o Estado de
+Sergipe. Tal previsão encontra-se amparada pela política de "dig once policy" prevista nas regulações de estradas e infraestrutura de
+telecomunicações em vigor no Brasil. Esse arranjo é também referenciado em fóruns internacionais como uma melhor prática em projetos
+de expansão e democratização de infraestruturas digitais.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+O trabalho não possui externalidades negativas sobre questões sociais.
+
+O grande risco de não implantar as medidas sugeridas é prejudicar ainda mais a camada da população vulnerável excluída digitalmente,
+sejam as populações de baixa renda, vulneráveis, minorias sociais, jovens e grupos sociais sensíveis, inclusive aqueles de regiões do
+sertão e as comunidades ribeirinhas do Baixo Rio Francisco.
+
+A prioridade governamental é a retomada do crescimento - para gerar produto, emprego e renda - e, a partir do processo de
+transformação digital, pretende-se a geração de empregos, a redução do quadro de miséria, pobreza e desemprego do Estado de Sergipe.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+O trabalho não possui externalidades negativas sobre questões de reassentamento.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN

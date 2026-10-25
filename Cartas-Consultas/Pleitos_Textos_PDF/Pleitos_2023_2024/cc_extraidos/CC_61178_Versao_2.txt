@@ -1,0 +1,1021 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Reformas para a implementação do Programa de Mobilização de Capital Privado Externo e
+Proteção Cambial e apoio a melhorias estruturais no ambiente institucional e de negócios
+ do Brasil 
+Nº Carta Consulta: 61178
+Processo: 03101.001152/2024-65
+Mutuário: República Federativa do Brasil
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  12 de Abril de 2024
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 1.000.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:30
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61178
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+04
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 04
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 05
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 05
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 05
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 05
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 08
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 09
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 09
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 11
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 11
+3. FINANCIAMENTO .......................................................................................................................................................................................... 11
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 11
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 11
+4. EXECUÇÃO ...................................................................................................................................................................................................
+11
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 11
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 13
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 13
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 13
+5. RISCOS .......................................................................................................................................................................................................... 13
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 13
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 14
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 14
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 14
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 14
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 15
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+15
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:30
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61178
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+As mudanças climáticas já são uma realidade urgente e, caso sejam mantidos os atuais modelos de desenvolvimento econômico, padrões
+de produção e consumo, serão mais impactantes nos próximos anos, com o aumento da frequência e da intensidade dos eventos
+extremos, com escaláveis prejuízos às cidades e produções agrícolas.O Atlas Digital de Desastres no Brasil estimou que, de 2012 a 2021,
+houve 28 mil desastres, 1520 óbitos, com 3,64 milhões de desabrigados e prejuízo de R$ 270 bilhões.O Brasil emitiu 2,3 bilhões de
+toneladas brutas de gases de efeito estufa em 2022 (SEEG), provindas, sobretudo, de mudança de uso da terra e floresta, associada ao
+desmatamento na Amazônia.O Brasil é o sexto maior emissor de gases de efeito estufa (3% do total), com emissões per capita de 11,4
+toneladas, acima da média mundial de 6,1 (CAIT/WRI).
+
+Para responder a este cenário, a Contribuição Nacionalmente Determinada -NDC brasileira, 2023, estabelece que o país deve reduzir as
+suas emissões em 48% até 2025, 53% até 2030 e ter emissões líquidas zero em 2050.Na COP 28, foi lançado o Plano de Transformação
+Ecológica (PTE), Anexo VII, para lidar com a crise climática mediante estimulação dos investimentos para melhorar as condições
+ambientais e reduzir as desigualdades.O custo estimado do PTE é de até 160 bilhões por ano.
+
+Contudo, fortes desafios permanecem:i) ações propostas pelo governo, como o próprio PTE, ainda não estão institucionalizadas;ii) os
+objetivos e as diretrizes da Bioeconomia não estão especificados;iii) a governança do Fundo Nacional de Mudanças Climáticas (FNMC)
+deverá ser aprimorada;iv) as linhas reembolsáveis desse fundo requerem instrumentos robustos de transparência; e v)não há taxonomia
+brasileira de finanças sustentáveis para mobilizar capitais para o enfrentamento da crise climática.
+
+A implementação do PTE demandará a participação do setor público e privado. Segundo o Fundo Monetário Internacional (FMI), 80% do
+financiamento para o enfrentamento de mudanças climáticas deverá vir do setor privado. Para Persaud (2023),81% dos investimentos em
+transformação verde são financiados pelo setor privado nos países desenvolvidos e, no Brasil (OCDE, 2023), apenas 6% dos empréstimos
+ vêm de credores privados.
+
+Muitos países emergentes não têm poupança doméstica ou mercados financeiros desenvolvidos para atender a demanda de
+financiamento privado de longo prazo (LP).Segundo o IBGE, a taxa de poupança doméstica brasileira foi de 12,2% do PIB em 2019,
+abaixo de países latino- americanos e asiáticos.Dados da Conferência das Nações Unidas sobre Comércio e Desenvolvimento (UNCTAD)
+mostram que o Investimento Estrangeiro Direto (IED) no Brasil foi de US$ 97,5 bilhões (2011) e caiu para US$ 68 bilhões em 2023.
+
+Ademais, a percepção de risco impacta o fluxo de investimento externo na área climática.Pelo lado microeconômico, fatores institucionais
+e ineficiências regulatórias afetam a lucratividade privada.O Movimento Brasil Competitivo (MBC) mostrou que, em 2023, o Custo Brasil
+alcançou R$ 1,7 trilhão (19,5% do PIB).O sistema tributário brasileiro é de alto custo para o contribuinte.O tempo gasto para pagar
+impostos é de 1.501 horas, muito superior às 164 horas da OCDE (Doing Business 2020).Ademais, a insegurança jurídica gera litígios. O
+contencioso administrativo tributário no país é de 25,8% do PIB, ante 0,28% na OCDE (Contencioso tributário no Brasil: relatório 2020).
+
+A instabilidade macroeconômica é o principal componente do risco-país, ocasionando custos adicionais para o financiamento de LP.
+Persaud (2023) estimou o custo médio ponderado de capital em projeto de energia verde em 10,1% para países em desenvolvimento,
+ante 4% para a União Europeia. No caso do Brasil, onde o risco-país é responsável por 75% do custo de capital, esse custo é 12,2%.
+
+Nos últimos anos, o país apresentou déficits orçamentários e incerteza sobre as finanças públicas, percepção que reduz a confiança dos
+investidores na capacidade de pagamento e impacta indicadores como dívida, inflação e câmbio. Outro fator que afeta o apetite de
+investidores estrangeiros (G20) é a percepção de risco cambial. A volatilidade do Real (US$/R$) é 2,2 vezes maior que a do Euro (US$/
+Euro). Em períodos de estresse, como a pandemia de COVID-19, ela chegou a ser 4 vezes maior.
+
+A ausência de mercados de hedge de LP aumenta o risco da volatilidade cambial e o custo de swaps ou opções de LP. No Brasil, os
+derivativos cambiais de LP são raros ou caros. Em fev/2024, havia US$134 bilhões em contratos futuros até 12 meses; US$44 bilhões até
+2 anos; US$15 bilhões até 5 anos; US$7 bilhões até 10 anos e US$1 bilhão com 10 anos ou mais.
+
+O Brasil apresenta baixa participação do investimento privado e dificuldade de financiamento para projetos sustentáveis devido ao alto
+custo de capital, a riscos cambiais associados à ausência de um mercado eficiente de hedge a LP, ao custo brasil, entre outros. As
+referências bibliográficas constam no Anexo I.
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+1.2.1.SOLUÇÃO PROPOSTA
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:30
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61178
+Página: 3
+As soluções propostas visam contribuir para o crescimento sustentável do Brasil, por meio de sua transformação ecológica, mediante o
+fortalecimento das capacidades institucionais para gerir as políticas públicas do PTE, o fomento e a mobilização de capital para atrair
+investimentos verdes e sustentáveis alinhados a essa transformação, assim como a melhoria do ambiente de negócios e da
+sustentabilidade fiscal do país.
+Componente 1. Capacidade institucional para a promoção da transformação ecológica. A fim de estruturar as condições institucionais,
+regulatórias e de governança para atração de investimentos necessários ao enfrentamento da crise climática, serão implementadas as
+medidas de políticas:
+i) Institucionalização do PTE; ii) Alteração do FNMC para fortalecer sua governança e transparência; iii) Regulamentação das novas
+finalidades de uso das linhas reembolsáveis do FNMC e suas condições financeiras; iv) Inclusão de aporte orçamentário específico para
+as linhas de financiamento reembolsáveis, com respectiva fonte de recursos, na Lei Orçamentária Anual de 2024, para apoiar o Plano
+Anual de Aplicação de Recursos (PAAR) do FNMC; v) Aprovação do PAAR 2024 do FNMC com a definição de diretrizes e prioridades da
+utilização dos recursos das linhas reembolsáveis e não reembolsáveis; e vi) Elaboração de Proposta de metodologia da Taxonomia
+Sustentável Brasileira.
+Componente 2. Soluções financeiras para a mobilização de capital. Visando criar soluções financeiras que aumentem os incentivos e
+reduzam o risco para a mobilização de capital externo em projetos de transformação ecológica, assim como incrementem os investimentos
+ verdes e sustentáveis no país, serão implementadas as medidas de políticas:
+i) Instituição do Programa de Mobilização de Capital Privado Externo e Proteção Cambial (Eco Invest), no âmbito do FNMC (Anexo VIII); ii)
+Instituição dos critérios de elegibilidade, priorização, exclusão, salvaguardas e de alocação dos recursos do Eco Invest; iii)
+Estabelecimento das regras de governança do Eco Invest; iv) Estabelecimento das regras de habilitação das instituições financeiras e
+prestação de contas dos recursos do Eco Invest; v) Regulamentação do funcionamento dos leilões do Eco Invest; vi) Autorização para o
+Banco Central adquirir derivativos de MDBs e repassá-los às instituições financeiras autorizadas; vii) Instituição do Comitê de Finanças
+Soberanas Sustentáveis (CFSS); viii) Estabelecimento das regras para emissão de títulos soberanos sustentáveis alinhadas aos princípios
+e às diretrizes da International Capital Markets Association (ICMA); ix) Emissão do primeiro título soberano sustentável; e x) Criação de
+um mercado regulado de carbono.
+Componente 3. Melhora do marco fiscal e do ambiente de negócios do país. Para reduzir o risco país e melhorar o ambiente de negócios,
+serão implementadas as medidas de políticas:
+i) Alteração do Sistema Tributário Nacional dos impostos sobre consumo; ii) Instituição de regime fiscal sustentável para garantir a
+estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; iii) Estabelecimento de um novo
+modelo de gestão do risco da dívida pública; iv) Aperfeiçoamento da gestão de riscos fiscais, incluindo aspectos climáticos e de
+descarbonização.
+O detalhamento da estrutura lógica do Programa e das soluções propostas está disponível no Anexo II, valendo explicitar que as
+condições a serem cumpridas para o desembolso são todas as ações de políticas previstas para o período 2023-2024 na Matriz de
+Políticas.
+ 1.2.2.RESULTADOS ESPERADOS
+Componente 1.Capacidade institucional para a promoção da transformação ecológica.Estruturar as condições institucionais, regulatórias e
+de governança, por meio de princípios, diretrizes e instrumentos que habilitem a atração dos investimentos necessários à transformação
+ecológica.
+Componente 2. Soluções financeiras para a mobilização de capital. Implementar soluções financeiras que, além de aumentarem os
+incentivos e reduzirem o risco para a mobilização de capital externo em projetos de transição ecológica, também incrementem os
+investimentos verdes e sustentáveis no país.
+Componente 3. Melhora do marco fiscal e do ambiente de negócios do país.Apoiar o fortalecimento da sustentabilidade fiscal e do
+ambiente de negócios, por meio da reforma tributária sobre o consumo e das condições fiscais necessárias para melhorar a credibilidade
+da política macroeconômica e, assim, atrair investimentos privados para o enfrentamento da crise climática.
+1.2.3.SUSTENTABILIDADE
+A atração de capital externo para a transformação ecológica requer um olhar focado no médio e LP. Para assegurar o sucesso e a
+sustentabilidade do Programa, é essencial manter as ações propostas.Esse compromisso com a continuidade é crucial para solidificar o
+ambiente de negócios, reforçar as capacidades institucionais e aperfeiçoar os mecanismos de atração de capital. Por esse motivo, está
+prevista uma segunda operação de US$ 1 bilhão com o BID, condicionada ao cumprimento das medidas de política desta primeira
+operação, que tem como finalidade fortalecer as reformas iniciadas.
+As medidas de política associadas à transformação ecológica apoiadas por este Programa, como o próprio Eco Invest, estão ancoradas
+em compromissos assumidos pelo Governo com a comunidade internacional e contribuem para o alcance dos resultados almejados no
+Plano Plurianual (PPA) 2024-2027.São reformas estruturantes que estão sendo elaboradas por vários órgãos do governo federal, como
+Ministérios da Fazenda e do Meio Ambiente, Banco Central, Conselho Monetário Nacional, com o auxílio de instituições financeiras e da
+academia.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:30
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61178
+Página: 4
+Cumpre destacar que a ótica de gênero será incorporada no Programa Eco Invest, a partir dos critérios de alocação dos recursos que
+serão estabelecidos em Portaria do MF, atualmente em elaboração.
+Cabe destacar que, ao longo do Programa, o BID continuará apoiando tecnicamente o desenvolvimento de medidas relacionadas ao PTE,
+incluindo inovações financeiras e mudanças regulamentares, e assistirá a avaliação de resultados dessas ações.O Banco poderá, ainda,
+auxiliar em reformas microeconômicas e setoriais, como a tributação de derivativos, a ampliação dos incentivos ao investimento em P&D
+ligado a tecnologias de impacto, e a re-regulação do setor elétrico. 
+Vale ponderar, ainda, que o BID Invest esteve presente em reuniões preliminares para a construção da política e o Ministério da Fazenda
+está em comunicação direta com a equipe daquela instituição.
+Por fim, acerca da sustentabilidade, ver Anexo IX.
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+PPA 2024 - 2027 (https://www.gov.br/planejamento/pt-br/assuntos/plano-plurianual/paginas/lei-do-ppa)
+Mensagem Presidencial:  I) Ressalta a importância da vertente ecológica na transição para um crescimento sustentável e destaca o Plano
+de Transformação Ecológica, que deverá garantir menores impactos da produção no meio ambiente e no clima e fortalecer serviços
+ecossistêmicos (pág. 78); II) Enfatiza o Regime Fiscal Sustentável e inclui medidas para buscar o equilíbrio das contas públicas por
+intermédio do controle e monitoramento da despesa, bem como o acompanhamento e revisão da arrecadação dos tributos federais,
+tomando medidas tempestivas para a correção de desvios, buscando maior equidade quanto ao custeamento do Estado de bem-estar
+social e a prevenção da materialização de riscos fiscais (págs. 83-88); III) Destaca os benefícios da reforma tributária em andamento, que
+racionaliza a tributação sobre a comercialização de bens e serviços, resultando em simplificação para o contribuinte e ganho de eficiência
+na arrecadação (pág.77).
+Agendas Transversais (Anexo V - Agenda Ambiental) - Reflete a urgência e a complexidade dos problemas ambientais e climáticos,
+demonstrando que a pauta ambiental é prioritária. 
+PROGRAMAS: 
+1158 - Enfrentamento da Emergência Climática. Objetivo específico 0272 - Ampliar a adoção de medidas de mitigação e adaptação à
+mudança do clima (MMA). Apresenta iniciativas destinadas a garantir a coerência da atuação estatal por meio da articulação da
+formulação, da revisão e do monitoramento de políticas e planos setoriais de mitigação e adaptação à mudança do clima. 
+2315 - Política Econômica para o Crescimento e Desenvolvimento Socioeconômico Sustentável e Inclusivo. Objetivo específico 0380 -
+Viabilizar as iniciativas para a transformação ecológica da economia brasileira, visando o crescimento econômico sustentável, com
+crescimento de produtividade, aumento de renda, redução do impacto ambiental e distribuição de renda. Diretamente relacionado ao PTE.
+Acordo de Paris. O governo brasileiro se comprometeu, em sua Contribuição Nacionalmente Determinada, a reduzir as emissões de gases
+ de efeito estufa e alcançar a emissão líquida zero em 2050. 
+Lançamento do Eco Invest no G20. Como já mencionado, o Eco Invest Brasil é uma iniciativa do Governo Brasileiro com o objetivo de
+incentivar investimentos estrangeiros em projetos sustentáveis e oferecer soluções de proteção cambial, para que os riscos associados à
+volatilidade de câmbio sejam minorados. Este Plano foi anunciado em 26/2/2024 pelo Ministério da Fazenda, em parceria com o Ministério
+ do Meio Ambiente e entidades internacionais, como o BID e o Banco Mundial, e visa ser um instrumento do PTE.
+O Anexo III, detalha o Alinhamento estratégico do Programa. 
+1.3.2.CONTRAPARTIDA
+Este projeto de PBP não prevê contrapartida.
+1.3.3.TAXA DE CÂMBIO
+1 US$ = R$ 5,008
+Referência: Banco Central do Brasil, PTAX, compra (bcb.gov.br)
+Data de Referência: 09/04/2024
+2. Projeto
+2.1. Título
+Reformas para a implementação do Programa de Mobilização de Capital Privado Externo e Proteção Cambial e apoio a melhorias
+estruturais no ambiente institucional e de negócios do Brasil 
+2.2. Título Abreviado
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:30
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61178
+Página: 5
+Reformas Eco Invest Brasil
+2.3. Mutuário
+República Federativa do Brasil
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+*Objetivo Geral: 
+O objetivo geral é contribuir para o crescimento sustentável do país, por meio da transformação ecológica do Brasil.  
+*Objetivos Específicos:  
+Os objetivos específicos são: (i) fortalecer as capacidades institucionais para gerir as políticas públicas da transformação ecológica; (ii)
+fomentar a mobilização de capital para atrair investimentos verdes e sustentáveis alinhados à transformação ecológica; e (iii) melhorar o
+ambiente de negócios e fortalecer a sustentabilidade fiscal do país.  
+O BID oferece diferentes tipos de empréstimos aos membros mutuários do Banco, dependendo da finalidade para a qual os fundos são
+usados, incluindo Empréstimos Baseados em Políticas (PBL) e Empréstimos para Investimento (INV). Os PBL fornecem fundos para
+apoiar medidas de políticas e/ou mudanças institucionais. Especificamente, um PBL programático (PBP) apoia medidas de políticas ou
+mudanças institucionais a serem executadas em fases e compreende múltiplas operações individuais. Com os PBL, os fundos são
+desembolsados em uma única parcela por operação, e cada operação é desembolsada mediante o cumprimento de determinadas
+condições. Por outro lado, os INV financiam bens, obras públicas e serviços que promovam o desenvolvimento social, económico e
+institucional. 
+Neste caso, o Ministério da Fazenda solicitou fundos para criar e implementar medidas de políticas e mudanças institucionais, e não para
+capitalizar um fundo ou financiar uma carteira de projetos específicos (exemplo dos Globais de Crédito). Um PBP permite que os
+diferentes componentes do Programa, alinhados aos objetivos acima descritos (mais amplos que a implementação do Eco Invest), sejam
+desenvolvidos e estabelecidos em fases, para se retroalimentarem e terem um impacto mais sustentável e mais forte na economia
+brasileira e na sua transformação ecológica.   
+Para financiar produtos específicos do Eco Invest no âmbito de um INV, seria necessário um projeto totalmente desenvolvido com todas
+as suas características, como beneficiários e portfólio, integralmente identificados. Ainda que a destinação dos recursos do PBL
+pretendida pelo Ministério da Fazenda esteja orientada de forma ampla ao Eco Invest, os produtos do programa ainda estão em
+desenvolvimento e necessitam de regulamentação legal e infralegal, motivo pelo qual não poderiam ser totalmente identificados nesse
+momento. Esta é a razão pela qual se justifica a escolha pelo instrumento PBL, com destinação pré-identificada e específica dos recursos
+a serem captados.  
+
+2.6. Projeto/Indicadores
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Pontuação no componente de Política Climática
+(rating) do Climate Change Performace Index (
+CPPI)
+Ver Anexo X
+Rating
+5,00
+7,00
+Índice de Impacto
+capital privado externo
+mobilizado /capital
+catalítico público
+aplicado (Ver Anexo X
+)
+unidade
+0,00
+4,00
+Aumento Real da Arrecadação 
+Valor das Receitas
+Federais 2024 / Valor
+das Receitas Federais
+2023 corrigido pelo
+IPCA (Ver Anexo X) 
+Unidade
+1,00
+1,00
+2.7. Projeto/Componentes
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:30
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61178
+Página: 6
+Componentes
+Valor(US$)
+C - COMPONENTE I CAPACIDADE INSTITUCIONAL PARA A PROMOÇÃO DA TRANSFORMAÇÃO
+ECOLÓGICA 
+0,00
+S - P1.1 INSTITUIÇÃO DO PLANO DE TRANSFORMAÇÃO ECOLÓGICA NO ÂMBITO DO PLANO PLURIANUAL
+2024-2027 PARA VIABILIZAR O DESENVOLVIMENTO INCLUSIVO E SUSTENTÁVEL FRENTE À CRISE
+CLIMÁTICA 
+0,00
+S - P1.2 ALTERAÇÃO DO FUNDO NACIONAL DE MUDANÇAS CLIMÁTICAS (FNMC) PARA FORTALECER SUA
+ GOVERNANÇA E TRANSPARÊNCIA
+0,00
+S - P1.3 REGULAMENTAÇÃO DAS NOVAS FINALIDADES DE USO DAS LINHAS REEMBOLSÁVEIS DO FNMC
+E SUAS CONDIÇÕES FINANCEIRAS
+0,00
+S - P1.4 INCLUSÃO, NA LOA 2024, DE APORTE ORÇAMENTÁRIO ESPECÍFICO NA AÇÃO ORÇAMENTÁRIA
+DE FINANCIAMENTO REEMBOLSÁVEL, COM FONTE DE RECURSOS 144, PARA APOIAR O PAAR 2023 E 2024
+ DO FNMC
+0,00
+S - P1.5 APROVAÇÃO DO PAAR 2024 DO FNMC COM A DEFINIÇÃO DE DIRETRIZES E PRIORIDADES DA
+UTILIZAÇÃO DOS RECURSOS DAS LINHAS REEMBOLSÁVEIS E NÃO REEMBOLSÁVEIS
+0,00
+   S - P 1.6ELABORAÇÃO DE PROPOSTA DE METODOLOGIA DA TAXONOMIA SUSTENTÁVEL BRASILEIRA
+0,00
+C - COMPONENTE II SOLUÇÕES FINANCEIRAS PARA A MOBILIZAÇÃO DE CAPITAL
+0,00
+S - P2.1INSTITUIÇÃO DO PROGRAMA DE MOBILIZAÇÃO DE CAPITAL PRIVADO EXTERNO E PROTEÇÃO
+CAMBIAL (ECO INVEST BRASIL), NO ÂMBITO DO FNMC
+0,00
+S - P2.2INSTITUIÇÃO DOS CRITÉRIOS DE ELEGIBILIDADE, PRIORIZAÇÃO, EXCLUSÃO, SALVAGUARDAS E
+DE ALOCAÇÃO PARA DOS RECURSOS DO PROGRAMA ECO INVEST
+0,00
+S - P2.3ESTABELECIMENTO DAS REGRAS DE GOVERNANÇA DO PROGRAMA ECO INVEST, INCLUINDO
+COMPOSIÇÃO E RESPONSABILIDADES DO COMITÊ EXECUTIVO. 
+0,00
+S - P2.4ESTABELECIMENTO DAS REGRAS DE HABILITAÇÃO DAS INSTITUIÇÕES FINANCEIRAS E DE
+PRESTAÇÃO DE CONTAS DOS RECURSOS DO PROGRAMA ECO INVEST. 
+0,00
+   S - P2.5 REGULAMENTAÇÃO DO FUNCIONAMENTO DOS LEILÕES DO PROGRAMA ECO INVEST
+0,00
+S -  P2.6AUTORIZAÇÃO PARA O BANCO CENTRAL ADQUIRIR DERIVATIVOS DE MDBS E REPASSÁ-LOS ÀS
+ INSTITUIÇÕES FINANCEIRAS AUTORIZADAS
+0,00
+S - P 2.7INSTITUIÇÃO DO COMITÊ DE FINANÇAS SOBERANAS SUSTENTÁVEIS (CFSS) COM A
+RESPONSABILIDADE DE PLANEJAR, IMPLEMENTAR E MONITORAR O ARCABOUÇO BRASILEIRO PARA
+TÍTULOS SOBERANOS SUSTENTÁVEIS, BEM COMO A EMISSÃO DE TÍTULOS SOBERANOS SUSTENTÁVEIS 
+0,00
+S - P 2.8ESTABELECIMENTO DE REGRAS PARA EMISSÃO DE TÍTULOS SOBERANOS SUSTENTÁVEIS
+ALINHADAS AOS PRINCÍPIOS E DIRETRIZES DA INTERNATIONAL CAPITAL MARKETS ASSOCIATION (ICMA)
+0,00
+   S - P 2.9EMISSÃO DO PRIMEIRO TÍTULO SOBERANO SUSTENTÁVEL
+0,00
+   S - P 2.10CRIAÇÃO DE UM MERCADO REGULADO DE CARBONO. 
+0,00
+C - COMPONENTE III MELHORA DO MARCO FISCAL E DO AMBIENTE DE NEGÓCIOS DO PAÍS 
+0,00
+   S - P3.1ALTERAÇÃO DO SISTEMA TRIBUTÁRIO NACIONAL DOS IMPOSTOS SOBRE CONSUMO
+0,00
+S - P 3.2INSTITUIÇÃO DE REGIME FISCAL SUSTENTÁVEL PARA GARANTIR A ESTABILIDADE
+MACROECONÔMICA DO PAÍS E CRIAR AS CONDIÇÕES ADEQUADAS AO CRESCIMENTO
+SOCIOECONÔMICO 
+0,00
+   S - P3.3ESTABELECIMENTO DO NOVO MODELO DE GESTÃO DO RISCO DA DÍVIDA PÚBLICA. 
+0,00
+S - P3.4APERFEIÇOAMENTO DA GESTÃO DE RISCOS FISCAIS INCLUINDO ASPECTOS CLIMÁTICOS E
+DESCARBONIZAÇÃO. 
+0,00
+C - MATRIZ DE POLÍTICAS COM COMPONENTES SUBCOMPONENTES SUPRAMENCIONADOS
+1.000.000.000,00
+      P - MATRIZ DE POLÍTICAS COM COMPONENTES SUBCOMPONENTES SUPRAMENCIONADOS
+1.000.000.000,00
+Total dos Componentes
+1.000.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - COMPONENTE I CAPACIDADE INSTITUCIONAL PARA A PROMOÇÃO DA TRANSFORMAÇÃO ECOLÓGICA 
+As ações deste componente visam estruturar as condições institucionais, regulatórias e de governança, por meio da
+institucionalização de princípios, diretrizes e instrumentos habilitantes, para atração de investimentos necessários ao
+enfrentamento à crise climática. 
+ 
+S - P1.1 INSTITUIÇÃO DO PLANO DE TRANSFORMAÇÃO ECOLÓGICA NO ÂMBITO DO PLANO PLURIANUAL 2024-2027
+PARA VIABILIZAR O DESENVOLVIMENTO INCLUSIVO E SUSTENTÁVEL FRENTE À CRISE CLIMÁTICA 
+Esta medida tem como objetivo promover o desenvolvimento sustentável, estimulando investimentos que melhorem o meio
+ambiente e reduzam as desigualdades. 
+S - P1.2 ALTERAÇÃO DO FUNDO NACIONAL DE MUDANÇAS CLIMÁTICAS (FNMC) PARA FORTALECER SUA
+GOVERNANÇA E TRANSPARÊNCIA
+ A Reforma busca fortalecer a governança do Fundo Clima. 
+S - P1.3 REGULAMENTAÇÃO DAS NOVAS FINALIDADES DE USO DAS LINHAS REEMBOLSÁVEIS DO FNMC E SUAS
+CONDIÇÕES FINANCEIRAS
+Esta medida visa garantir recursos para apoio a projetos ou estudos e financiamento de empreendimentos que tenham como
+objetivo a mitigação das mudanças climáticas.  
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:30
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61178
+Página: 7
+S - P1.4 INCLUSÃO, NA LOA 2024, DE APORTE ORÇAMENTÁRIO ESPECÍFICO NA AÇÃO ORÇAMENTÁRIA DE
+FINANCIAMENTO REEMBOLSÁVEL, COM FONTE DE RECURSOS 144, PARA APOIAR O PAAR 2023 E 2024 DO FNMC
+Esta medida visa reforçar os recursos para apoio a projetos ou estudos e financiamento de empreendimentos que tenham como
+objetivo a mitigação das mudanças climáticas.  
+S - P1.5 APROVAÇÃO DO PAAR 2024 DO FNMC COM A DEFINIÇÃO DE DIRETRIZES E PRIORIDADES DA UTILIZAÇÃO
+DOS RECURSOS DAS LINHAS REEMBOLSÁVEIS E NÃO REEMBOLSÁVEIS
+Esta medida visa garantir recursos para apoio a projetos ou estudos e financiamento de empreendimentos que tenham como
+objetivo a mitigação das mudanças climáticas. 
+   S - P 1.6ELABORAÇÃO DE PROPOSTA DE METODOLOGIA DA TAXONOMIA SUSTENTÁVEL BRASILEIRA
+Esta medida visa definir e formalizar uma taxonomia das finanças sustentáveis, alinhada à padronização internacional, que deverá
+servir como instrumento central para mobilizar e redirecionar os fluxos de capitais para os investimentos necessários ao
+enfrentamento à crise climática. 
+C - COMPONENTE II SOLUÇÕES FINANCEIRAS PARA A MOBILIZAÇÃO DE CAPITAL
+As ações deste componente visam criar as soluções financeiras que aumentem os incentivos e reduzem o risco para a mobilização
+ de capital externo. 
+ 
+S - P2.1INSTITUIÇÃO DO PROGRAMA DE MOBILIZAÇÃO DE CAPITAL PRIVADO EXTERNO E PROTEÇÃO CAMBIAL (
+ECO INVEST BRASIL), NO ÂMBITO DO FNMC
+Esta medida visa incentivar investimentos estrangeiros em projetos sustentáveis no país e oferecer soluções de proteção cambial,
+para que os riscos associados à volatilidade de câmbio sejam minorados e assim fomentem a atração de investimentos
+necessários para a transformação ecológica brasileira.
+S - P2.2INSTITUIÇÃO DOS CRITÉRIOS DE ELEGIBILIDADE, PRIORIZAÇÃO, EXCLUSÃO, SALVAGUARDAS E DE
+ALOCAÇÃO PARA DOS RECURSOS DO PROGRAMA ECO INVEST
+Esta medida visa atrair capital privado externo, reduzir o custo de captação, mitigar o risco cambial e aumentar eficiência do
+mercado de proteção de hedge cambial de longo prazo e aumentar a oferta de projetos que contribuam para a transformação
+ecológica. 
+S - P2.3ESTABELECIMENTO DAS REGRAS DE GOVERNANÇA DO PROGRAMA ECO INVEST, INCLUINDO COMPOSIÇÃO
+E RESPONSABILIDADES DO COMITÊ EXECUTIVO. 
+Esta medida visa criar as condições institucionais para atrair capital externo, reduzir o custo de captação, mitigar o risco cambial,
+aumentar a eficiência do mercado de proteção de hedge cambial de longo prazo e aumentar a oferta de projetos que contribuam
+para a transformação ecológica.
+S - P2.4ESTABELECIMENTO DAS REGRAS DE HABILITAÇÃO DAS INSTITUIÇÕES FINANCEIRAS E DE PRESTAÇÃO DE
+CONTAS DOS RECURSOS DO PROGRAMA ECO INVEST. 
+Esta medida visa instituir critérios sólidos para a participação de Instituições Financeiras no Programa e estabelecer mecanismos
+que assegurem sua efetividade. 
+ 
+   S - P2.5 REGULAMENTAÇÃO DO FUNCIONAMENTO DOS LEILÕES DO PROGRAMA ECO INVEST
+Esta medida tem como objetivo estabelecer as normas para a realização dos leilões das linhas de crédito que alocarão os recursos
+do Programa às instituições financeiras qualificadas. Essas instituições terão, então, acesso aos fundos do Programa para
+alocação nos projetos elegíveis. 
+S -  P2.6AUTORIZAÇÃO PARA O BANCO CENTRAL ADQUIRIR DERIVATIVOS DE MDBS E REPASSÁ-LOS ÀS
+INSTITUIÇÕES FINANCEIRAS AUTORIZADAS
+Esta medida visa mitigar o risco cambial e aumentar eficiência do mercado de proteção de hedge cambial de longo prazo. 
+ 
+S - P 2.7INSTITUIÇÃO DO COMITÊ DE FINANÇAS SOBERANAS SUSTENTÁVEIS (CFSS) COM A RESPONSABILIDADE DE
+PLANEJAR, IMPLEMENTAR E MONITORAR O ARCABOUÇO BRASILEIRO PARA TÍTULOS SOBERANOS SUSTENTÁVEIS,
+BEM COMO A EMISSÃO DE TÍTULOS SOBERANOS SUSTENTÁVEIS 
+Esta medida visa planejar, implementar e monitorar o Arcabouço Brasileiro para Títulos Soberanos Sustentáveis.  
+S - P 2.8ESTABELECIMENTO DE REGRAS PARA EMISSÃO DE TÍTULOS SOBERANOS SUSTENTÁVEIS ALINHADAS AOS
+ PRINCÍPIOS E DIRETRIZES DA INTERNATIONAL CAPITAL MARKETS ASSOCIATION (ICMA)
+Esta medida visa estabelecer as obrigações que o Brasil deve cumprir como emissor de título soberano sustentável. 
+   S - P 2.9EMISSÃO DO PRIMEIRO TÍTULO SOBERANO SUSTENTÁVEL
+Esta medida visa mobilizar recursos internacionais para dar suporte à Transformação Ecológica e aos objetivos do Fundo Clima,
+assim como criar um benchmark internacional para futuras emissões sustentáveis do setor privado 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:30
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61178
+Página: 8
+   S - P 2.10CRIAÇÃO DE UM MERCADO REGULADO DE CARBONO. 
+Esta medida visa criar incentivos econômicos para a redução de gases de efeito estufa e para o fomento das inovações
+tecnológicas de baixo carbono. 
+C - COMPONENTE III MELHORA DO MARCO FISCAL E DO AMBIENTE DE NEGÓCIOS DO PAÍS 
+As ações deste componente visam estruturar as condições fiscais e do ambiente de negócios necessárias para a atração de
+investimentos para o enfrentamento à crise climática. 
+   S - P3.1ALTERAÇÃO DO SISTEMA TRIBUTÁRIO NACIONAL DOS IMPOSTOS SOBRE CONSUMO
+Esta medida visa simplificar a tributação sobre consumo, atendendo os princípios da transparência, da justiça tributária, da
+cooperação e da defesa do meio ambiente, contribuindo para a melhoria do ambiente de negócios e atração de capital externo. 
+S - P 3.2INSTITUIÇÃO DE REGIME FISCAL SUSTENTÁVEL PARA GARANTIR A ESTABILIDADE MACROECONÔMICA DO
+PAÍS E CRIAR AS CONDIÇÕES ADEQUADAS AO CRESCIMENTO SOCIOECONÔMICO 
+Esta medida visa contribuir para a sustentabilidade fiscal do país ao longo do tempo, impactando positivamente o ambiente de
+negócios a atração de capital externo.
+   S - P3.3ESTABELECIMENTO DO NOVO MODELO DE GESTÃO DO RISCO DA DÍVIDA PÚBLICA. 
+Esta medida visa aperfeiçoar a gestão dos riscos operacionais relacionados vinculados à dívida pública, otimizando seus
+processos e gerando maior credibilidade pelo mercado.  
+S - P3.4APERFEIÇOAMENTO DA GESTÃO DE RISCOS FISCAIS INCLUINDO ASPECTOS CLIMÁTICOS E
+DESCARBONIZAÇÃO. 
+Esta medida visa aperfeiçoar a gestão dos riscos fiscais para incluir os aspectos relacionados às mudanças climáticas e à
+descarbonização. 
+C - MATRIZ DE POLÍTICAS COM COMPONENTES SUBCOMPONENTES SUPRAMENCIONADOS
+Conjunto dos Componentes e Subcomponentes apresentados
+      P - MATRIZ DE POLÍTICAS COM COMPONENTES SUBCOMPONENTES SUPRAMENCIONADOS
+Conjunto de componentes e subcomponentes apresentados na matriz de política
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Outros
+-
+-
+1.000.000.000,00
+100,00
+P- MATRIZ DE POLÍTICAS COM
+COMPONENTES SUBCOMPONENTES
+SUPRAMENCIONADOS
+Dólar
+1.000.000.
+000,00
+1.000.000.000,00
+100,00
+Total Geral
+-
+-
+1.000.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+No Componente 1, o governo brasileiro anunciou, no dia 11/8/23, o Plano de Transformação Ecológica (Anexo VII), e, posteriormente, por
+ocasião da aprovação do PPA 2024-2027, definiu como objetivo específico para esse período viabilizar as iniciativas para a transformação
+ecológica da economia brasileira, visando o crescimento econômico sustentável, com crescimento de produtividade, aumento de renda,
+redução do impacto ambiental e distribuição de renda. Ademais, o governo avançou com algumas mudanças estruturais no FNMC, como: i
+) a edição do Decreto nº 11.549, de 5 de junho de 2023, que alterou o Decreto nº 9.578, de 22 de novembro de 2018, que trata sobre o
+FNMC e a Política Nacional sobre Mudança do Clima; ii) a revisão e regulamentação de novas linhas de financiamento reembolsáveis, por
+intermédio da Resolução do Conselho Monetário Nacional nº 5.095, de 24 de agosto de 2023; iii) disponibilização ao fundo de um
+adicional de R$ 10 bilhões no orçamento de 2024, montante proveniente da primeira emissão de títulos sustentáveis do Brasil; mais
+recentemente, iv) a aprovação, em 13/03/24 do Plano Anual de Aplicação de Recursos para 2024, que orienta estrategicamente a atuação
+do fundo; e v) a assinatura de um novo contrato com o Banco de Desenvolvimento Econômico e Social para repasse de R$ 10,4 bilhões
+ao fundo para serem aplicados em suas linhas de financiamento reembolsáveis.
+
+Já no componente 2, o governo brasileiro avançou com a criação do Comitê de Finanças Sustentáveis Soberanas, por meio do Decreto nº
+11. 532, de 16 de maio de 2023; o lançamento do Arcabouço Brasileiro de Finanças Soberanas Sustentáveis, em 05/09/23; e a emissão,
+em 13 de novembro de 2023, de seu primeiro título soberano sustentável no mercado internacional, que resultou na captação de U$ 2
+bilhões (montante que, como já mencionado, apoiou a capitalização do Fundo Clima). Consciente de que, com os incentivos necessários,
+o Brasil possui condições ambientais para liderar a agenda do combate à crise climática e da transformação ambiental e ecológica, o
+Ministério da Fazenda anunciou, em 26/02/24, o Programa Eco Invest, no contexto das reuniões do G-20. Em 22 de março de 2024, por
+intermédio do Decreto nº 11. 961, o governo instituiu o Comitê Interinstitucional da Taxonomia Sustentável Brasileira -CITSB, de natureza
+consultiva e deliberativa, com a finalidade de coordenar o desenvolvimento e a implementação da Taxonomia Sustentável Brasileira.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:30
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61178
+Página: 9
+Por fim, no componente 3, em abril de 2024, a Medida Provisória 1.213/2024 instituiu o Programa Eco Invest e uma de suas primeiras
+sublinhas foi regulamentada pela Resolução CMN nº 5.130/2024. Ademais, o Congresso Nacional aprovou, em dezembro de 2023, a
+Emenda Constitucional nº 132/2023, que altera o sistema tributário nacional, racionalizando a tributação sobre a comercialização de bens
+e serviços, e trazendo simplificação e ganho de eficiência na arrecadação. O Regime Fiscal Sustentável foi aprovado por intermédio da Lei
+Complementar nº 200, de 30 de agosto de 2023, e visa garantir a estabilidade macroeconômica do País e criar as condições adequadas
+ao crescimento socioeconômico. Com apoio do BID, foi realizado estudo que subsidiará a medida de política relacionada à gestão da
+dívida pública e está em elaboração estudo relacionado à metodologia para consideração dos riscos fiscais inerentes às mudanças
+climáticas e á descarbonização.
+
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Nacional/Sem detalhes
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+A.CONDIÇÕES FINANCEIRAS DA OPERAÇÃO 
+a) Prazo de desembolso de 12 meses (1 ano); 
+b) Prazo de carência 60 meses (5 anos); 
+c) Prazo máximo de amortização de 180 meses (15 anos); 
+d) Prazo total de 240 meses (20 anos);
+e) Vida Média Ponderada: 12,5 anos;
+f) Taxa de juros (composição):
+- Índice SOFR: reajustado diariamente e composto: Hoje em 5,31% a.a.; 
+- Spread de captação: reajustado trimestralmente: Hoje em 0,40%;
+- Spread de capital ordinário do BID: aprovado anualmente pelo Diretório: Hoje em 0.80%;
+- A partir de janeiro de 2022, os empréstimos do BID estarão baseados na taxa SOFR, que buscará refletir adequadamente o custo de
+captação agregado do Banco para operações com garantia soberana; 
+- Comissão de Crédito sobre o saldo não desembolsado do financiamento: 0,5% a.a. (Máximo não poderá exceder a 0,75%); 
+g) Taxa de câmbio: 1 US$ = R$ 5,008 - (Banco Central do Brasil, PTAX, venda) Data de Referência - 09 de abril de 2024.
+
+B.NECESSIDADE DE FINANCIAMENTO EXTERNO E OPÇÃO PELO AGENTE FINANCEIRO
+a)Justificar a necessidade e a opção por financiamento: 
+O Brasil precisa de um grande volume de investimento para o alcance das metas de desenvolvimento sustentável e a implementação do
+PTE, o que demanda a participação do setor público e privado. Sem o apoio de um programa como este, dificilmente seriam aportados os
+recursos necessários e definidas metas tão ousadas para a institucionalização das políticas e a implantação dos modelos de governança
+ora previstos.
+É improvável que o mercado interno de crédito atenda a esse volume de recursos, especialmente nas condições necessárias para
+alcançar o êxito esperado da operação, motivo pelo qual se torna imperativo a obtenção de financiamento para dar suporte ao orçamento
+federal.
+b)Justificar a opção pelo agente financeiro escolhido: 
+A escolha do BID advém do seu constante apoio no desenvolvimento de estudos, diagnósticos e recomendações, que são etapas
+fundamentais no desenho de várias políticas contempladas neste Programa. 
+Embora a referida instituição disponha de condições financeiras vantajosas para a modalidade escolhida, a adicionalidade do BID vai
+muito além da captação dos recursos: o conhecimento específico e o amplo suporte técnico proporcionado pela equipe do Banco,
+incluindo a possibilidade de intercâmbio técnico com outros países, são diferenciais de suma importância para auxiliar o desenvolvimento
+das ações previstas e a avaliação dos seus resultados.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:30
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61178
+Página: 10
+Particularmente com relação ao Eco Invest Brasil, destaca-se o apoio do BID na concepção, desenvolvimento e implementação do
+Programa, por meio de cooperação técnica financiada pelo Governo do Reino Unido. O Banco apoia o desenho do Programa, incluindo o
+suporte à regulamentação de seus quatro produtos financeiros conceitualizados, os mecanismos de governança, eligibilidade,
+salvaguardas e prestação de contas. Também serão levantadas as lições aprendidas, que serão publicadas e compartilhadas com a
+sociedade e comunidade internacional. Além disso, o BID fornecerá ao programa, por meio de seus serviços de tesouraria e valendo-se de
+seu rating AAA, sua alta credibilidade e reputação no mercado internacional, derivativos de longo prazo para coberturas de risco de taxa
+de câmbio de projetos beneficiários do Eco Invest.
+Em relação às emissões soberanas, vale reiterar que, como resultado de um trabalho iniciado em 2021, coordenado pela Secretaria do
+Tesouro Nacional, e com apoio técnico do BID e do Banco Mundial, o Governo Brasileiro emitiu, em novembro de 2023, seu primeiro
+Título Sustentável Soberano, no valor de 2 bilhões de dólares. O trabalho que culminou na emissão soberana, passou pelo
+estabelecimento de uma estrutura robusta de governança, por meio de um comitê técnico multisetorial - o Comitê Interministerial de
+Finanças Sustentáveis Soberanas (CFSS), e um Arcabouço Brasileiro Para Títulos Soberanos Sustentáveis, que apresenta categorias
+ambientais e sociais elegíveis para aplicação dos recursos provenientes da emissão. O sucesso e a credibilidade de todo esse árduo
+trabalho foi reconhecido internacionalmente, merecendo, inclusive, o prêmio de Título Soberano Sustentável do Ano, pela Environmental
+Finance (Sustainability bond of the year - sovereign: Republic of Brazil :: Environmental Finance (environmental-finance.com).
+Quanto às políticas climáticas, o BID vem apoiando o governo brasileiro na formulação do Plano Nacional de Mudanças Climáticas 2024-
+2035 (novo Plano Clima), que será apresentado em 2025. Esse instrumento é o principal orientador para o Brasil seguir uma trajetória de
+redução no desmatamento e de transição para uma economia de baixo carbono rumo à neutralidade climática, contando com metas
+nacionais, detalhados planos setoriais com base em dados técnico-científicos e ampla participação da sociedade. Em paralelo, o Brasil
+adotou uma abordagem integrada da Bioeconomia nos 12 Ministérios envolvidos em atividades relacionadas ao setor, sob a liderança da
+Secretaria Nacional de Bioeconomia. O BID está apoiando o Ministério do Meio Ambiente (MMA) no seu mandato de coordenar a ação
+interministerial no setor no âmbito do Plano de Transição Ecológica.
+O BID também tem uma larga tradição de contribuição à melhoria das políticas e da gestão fiscal no país, assim como na produção de
+conhecimento na área fiscal. Entre outras, podem-se destacar:
+
+- Apoio ao Regime Fiscal Sustentável, por meio de estudos sobre experiências internacionais para o desenho do novo arcabouço fiscal,
+incluindo modelo de regras fiscais.
+- Implantação de quadro Fiscal e Orçamentário de Médio Prazo (PMM). O BID tem apoiado esse processo com a elaboração de estudos,
+intercâmbios técnicos com outros países e seminários para o desenho de modelo de governança e proposta de plano de ação para a
+implementação do PMM no Brasil.
+- Fortalecimento da agenda para melhoria da qualidade do gasto público. O BID está apoiando o fortalecimento das avaliações de políticas
+públicas e sua divulgação, e também está desenhando um processo de revisão de gastos em nível federal. O apoio tem sido amplo e
+variado nessa área: desenvolvimento de avaliações de políticas públicas específicas; estudos de governança no processo de avaliação e
+orçamentação; publicação de boletins de avaliação para maior e melhor divulgação; organização e participação em seminários.
+Adicionalmente, o Banco está contribuindo para a construção de uma metodologia para classificar a efetividade das políticas públicas, a
+fim de subsidiar a revisão dos gastos.
+- A medição do avanço na execução da agenda climática pelo Governo Federal será apoiada pela inserção de marcadores climáticos no
+orçamento federal. O BID está apoiando a implementação da classificação climática do orçamento, usando a metodologia adaptada pelo
+BID para COFOG (Classificação de Funções Governamentais). O objetivo do governo é apresentar essa nova metodologia e seus
+resultados na COP 2025. 
+- Metodologia para análise de riscos fiscais climáticos no orçamento federal. O BID está apoiando o fortalecimento da análise dos riscos
+fiscais associados às mudanças climáticas e à descarbonização, que são publicados anualmente na lei orçamentária. A metodologia é
+baseada nas melhores práticas internacionais.
+- Plano Plurianual (PPA) 2024-2027. O BID apoiou a elaboração do PPA e atualmente está auxiliando sua divulgação por meio de
+seminários e publicações técnicas, especialmente nos temas da Agenda Transversal (meio ambiente, gênero, raça, povos indígenas e
+crianças e adolescentes). 
+- Apoio à Reforma Tributária por meio de estudos, intercâmbio de experiência e apoio técnico da equipe do BID. Ressalta-se o apoio no
+desenho do modelo de implementação do IBS, a visita técnica ao Chile para conhecer a experiência de declaração pré-preenchida do IVA,
+a ser aplicado no CBS e IBS, além das reuniões com equipes da Colômbia, Equador e Peru para avaliação dos programas de cashback
+para subsidiar o modelo brasileiro. Também é importante o apoio do BID na melhoria da eficiência da administração tributária que permitiu
+a implantação da Nota Fiscal Eletrônica, que gerou informações de qualidade para a construção dos cenários pós-reforma tributária. O
+diagnóstico do BID sobre contencioso administrativo tributário também tem sido fundamental para o desenho do novo contencioso
+federativo, que será criado para o IBS e CBS. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:30
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61178
+Página: 11
+- Apoio ao Programa do Regime de Recuperação Fiscal (RRF). O BID vem apoiando o programa do RRF, que representa uma alternativa
+de reestruturação fiscal dos estados com grave desequilíbrio fiscal, por meio de apoio técnico para revisão do processo e elaboração de
+metodologias para análise dos programas dos estados, elaboração de manuais de adesão ao Regime, desenvolvimento de metodologia
+para monitoramento e avaliação dos programas dos Estados no RRF, estudo sobre o cumprimento das metas de benefícios fiscais dos
+estados e desenvolvimento de metodologia para apuração do impacto dos benefícios fiscais.
+c)Comparar as condições financeiras do agente escolhido, em relação a outros financiadores externos/internos:
+BNDES Finem - Crédito Projetos Direto para União, Estados e Municípios
+Nas operações diretas, a Taxa de juros é composta pelo Custo Financeiro e pela Remuneração do BNDES. O custo das operações é o
+custo financeiro do BNDES, calculado pela Taxa de Longo Prazo, composta pelo IPCA + 5,48%a.a., (abril/24), acrescido da remuneração
+do BNDES estimada em, no mínimo, 1,5% a.a.. O valor mínimo da operação é de R$ 20 milhões e o prazo de 20 anos.
+
+CAF
+Incidem juros considerando taxa SOFR (Secured Overnight Funding Rate) acrescido de mais margem fixa a ser definida na data de
+assinatura do contrato de empréstimo; juros de mora de 2% a.a. acima dos juros a serem estabelecidos no contrato; comissão de
+compromisso / commitment charge de 0,35% a.a., aplicado sobre os saldos não desembolsados do empréstimo; comissão de
+financiamento de 0,85% do valor total do empréstimo e mais gastos de avaliação de US$ 50 mil.
+
+BIRD
+Incidem juros baseados na SOFR de seis meses, acrescido de spread variável definido periodicamente pelo BIRD; juros de mora de 0,5%
+(cinco décimos por cento); comissão de compromisso / commitment charge de 0,25% a.a. sobre os saldos não desembolsados do
+empréstimo; comissão de abertura de 0,25% sobre o valor do empréstimo; sobretaxa de exposição do BIRD ao País de 0,5% a.a. sobre o
+montante que exceder ao limite de exposição do país.
+
+BID
+Incidem juros baseados na SOFR acrescido de funding margin e spread definidos periodicamente pelo BID; comissão de compromisso /
+commitment charge de 0,75% a.a., aplicado sobre os saldos não desembolsados do empréstimo.
+
+
+2.11. PROJETO/BENEFICIÁRIO
+Este é um programa com benefícios para toda a população. Ao permitir um amplo conjunto institucional que incentive maior fluxo de
+investimentos em projetos que apoiarão a transformação ecológica brasileira constata-se que se trata de um programa que consiste em
+uma estratégia de desenvolvimento inclusivo e sustentável. Em relação ao aspecto social, ele tem potencial de melhorar a qualidade de
+vida da população devido ao acesso a uma maior qualidade de recursos ambientais (como ar e água), e dado que eventos climáticos
+extremos impactam de forma desigual a população, potencialmente o programa também reduz o impacto em indivíduos em situação de
+vulnerabilidade. Em termos econômicos, um novo conjunto de investimentos pode impactar positivamente o mercado de trabalho, o
+ambiente de negócios, a competitividade do país, bem como a inovação e diversificação da matriz tecnológica.
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Banco Interamericano de Desenvolvimento
+ - BID
+BID
+US$
+1.000.000.000,00
+1,00
+1.000.000.000,00
+Total:
+1.000.000.000,00
+1.000.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Não se aplica
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+O mutuário da operação será o Governo Federal, por meio da Secretaria Executiva do Ministério da Fazenda.  
+A estrutura decisória, a execução, monitoramento e a avaliação do Programa e dos seus resultados será:  
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:30
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61178
+Página: 12
+Núcleo de Coordenação: Formado por membros da Secretaria Executiva do Ministério da Fazenda e da Secretaria do Tesouro Nacional,
+formalizados em Portaria, responsável por:  
+- Articulação direta com o agente financiador;  
+- Coordenação com os demais órgãos do governo envolvidos na operação, os quais são responsáveis pela adoção das medidas e pela
+execução técnica das atividades da Matriz de Políticas; 
+- Apoio ao cumprimento das soluções propostas; e  
+- Monitoramento da execução das medidas de política que compõem o Programa.  
+O núcleo de coordenação é formado por: 
+- Secretário Executivo do Ministério da Fazenda; e 
+- Secretário do Tesouro Nacional. 
+- Cada Secretário terá um assessor técnico para apoiar no cumprimento de suas funções. 
+Núcleo de execução  
+Formado por membros da Secretaria Executiva do Ministério da Fazenda e dos órgãos envolvidos no cumprimento das políticas,
+formalizado em Portaria, responsável por:  
+- Elaboração dos Relatórios de Gerenciamento Financeiro; 
+- Preparação e apresentação de relatórios e evidências (meios de verificação) do cumprimento das condições de desembolso, bem como
+quaisquer outros relatórios que o Banco venha a exigir;  
+- Subsídio ao Núcleo de Coordenação com os dados técnicos necessários à implementação das medidas de políticas; e 
+- Implementação das medidas relacionadas às suas áreas de atuação.   
+O núcleo de execução é formado por: 
+- 1 Coordenador; 
+- 1 Assessor de Planejamento e Monitoramento; e 
+- 1 líder por órgão responsável pela implementação das medidas de políticas do Programa. 
+O detalhamento das funções dos núcleos de coordenação e de execução serão detalhados no Regulamento Operacional do Projeto.  
+Salienta-se que a equipe do núcleo de execução possui experiência na execução de projetos internacionais, como o PNAFM I, PNAFM II (
+BR-L1252), no valor de US$ 150 milhões e PNAFM III (BR-L1377), atualmente em execução, no valor de US$ 150 milhões.
+Adicionalmente, apoia a coordenação geral do Programa PROFISCO, sendo responsável pelo acompanhamento da execução dos
+projetos específicos dos estados. Destaca-se, ainda, a execução pela STN, em parceria com o BNDES, do projeto Fundo Garantidor para
+Investimentos do Programa Emergencial de Acesso a Crédito (BR-L1559, 5130/OC-BR), que tinha o objetivo de apoiar a sobrevivência
+das Pequenas e Médias Empresas (PME) diante da crise gerada pela Covid-19, como apoio ao emprego no Brasil. O Relatório de
+Conclusão do Projeto (PCR) foi validado pelo Escritório de Avaliação e Supervisão do BID quem atribuiu ao programa um resultado geral
+muito bem-sucedido (sua nota mais alta).   
+Para maiores informações sobre o arranjo institucional, ver Anexo IV. 
+MATRIZ DE RESPONSABILIDADE
+A Matriz de Responsabilidade do Projeto (ver Anexo V) descreve as principais competências de cada uma das áreas da Unidade de
+Coordenação do Projeto (UCP).
+ARRANJO OPERACIONAL
+O gerenciamento do projeto será realizado pelos Núcleos de Coordenação e de Execução, formados por membros da Secretaria
+Executiva do Ministério da Fazenda, da Secretaria do Tesouro Nacional e dos órgãos responsáveis pela execução das medidas de política
+, incluindo outros órgãos do governo e instituições financeiras públicas e privadas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:30
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61178
+Página: 13
+Em relação à execução, as ações propostas dos Componentes I e II do presente Programa serão executadas prioritariamente pelo
+Ministério da Fazenda, por meio de suas secretarias, respaldando-se nas institucionalidades desenvolvidas no âmbito do FNMC, do
+Comitê de Finanças Soberanas Sustentáveis, e Comitê Interinstitucional da Taxonomia Sustentável Brasileira para a coordenação dos
+temas específicos. O Componente III também estará sob responsabilidade do Ministério da Fazenda. 
+As equipes terão a responsabilidade de cumprir as ações estabelecidas na Matriz de Políticas (Anexo VI), que será consolidada durante a
+etapa de negociação do projeto junto ao Banco Interamericano de Desenvolvimento. 
+Cumpre salientar que todos os núcleos de coordenação e execução têm vasta experiência na realização das ações que se encontram sob
+sua alçada, contendo em seu quadro membros com a expertise necessária e suficiente à execução do projeto proposto com efetividade,
+buscando o atingimento dos resultados esperados advindos de sua implementação.
+QUESTÕES ORÇAMENTÁRIAS - aspectos orçamentários estão detalhados no Anexo XI da presente carta.
+4.2. Execução/Executores
+Executor: Ministério da Fazenda - MF
+Representante Oficial: Secretário Executivo do Ministério da Fazenda
+Endereço da Sede: Esplanada dos Ministérios, Bloco P, Brasília-DF
+E-mail Institucional:
+Telefone: (61) 3412-2400
+Fax:
+CNPJ: 00394460000141 
+UF:
+4.3. Execução/Prazo
+Prazo de Desembolso:
+1
+Ano
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BID
+BID
+C - COMPONENTE I CAPACIDADE INSTITUCIONAL PARA A PROMOÇÃO DA TRANSFORMAÇÃO ECOLÓGICA 
+0,00
+0,00
+0,00
+S - P1.1 INSTITUIÇÃO DO PLANO DE TRANSFORMAÇÃO ECOLÓGICA NO ÂMBITO DO PLANO PLURIANUAL 2024-2027 PARA
+VIABILIZAR O DESENVOLVIMENTO INCLUSIVO E SUSTENTÁVEL FRENTE À CRISE CLIMÁTICA 
+0,00
+0,00
+0,00
+S - P1.2 ALTERAÇÃO DO FUNDO NACIONAL DE MUDANÇAS CLIMÁTICAS (FNMC) PARA FORTALECER SUA GOVERNANÇA E
+TRANSPARÊNCIA
+0,00
+0,00
+0,00
+S - P1.3 REGULAMENTAÇÃO DAS NOVAS FINALIDADES DE USO DAS LINHAS REEMBOLSÁVEIS DO FNMC E SUAS CONDIÇÕES
+ FINANCEIRAS
+0,00
+0,00
+0,00
+S - P1.4 INCLUSÃO, NA LOA 2024, DE APORTE ORÇAMENTÁRIO ESPECÍFICO NA AÇÃO ORÇAMENTÁRIA DE FINANCIAMENTO
+REEMBOLSÁVEL, COM FONTE DE RECURSOS 144, PARA APOIAR O PAAR 2023 E 2024 DO FNMC
+0,00
+0,00
+0,00
+S - P1.5 APROVAÇÃO DO PAAR 2024 DO FNMC COM A DEFINIÇÃO DE DIRETRIZES E PRIORIDADES DA UTILIZAÇÃO DOS
+RECURSOS DAS LINHAS REEMBOLSÁVEIS E NÃO REEMBOLSÁVEIS
+0,00
+0,00
+0,00
+   S - P 1.6ELABORAÇÃO DE PROPOSTA DE METODOLOGIA DA TAXONOMIA SUSTENTÁVEL BRASILEIRA
+0,00
+0,00
+0,00
+C - COMPONENTE II SOLUÇÕES FINANCEIRAS PARA A MOBILIZAÇÃO DE CAPITAL
+0,00
+0,00
+0,00
+S - P2.1INSTITUIÇÃO DO PROGRAMA DE MOBILIZAÇÃO DE CAPITAL PRIVADO EXTERNO E PROTEÇÃO CAMBIAL (ECO INVEST
+ BRASIL), NO ÂMBITO DO FNMC
+0,00
+0,00
+0,00
+S - P2.2INSTITUIÇÃO DOS CRITÉRIOS DE ELEGIBILIDADE, PRIORIZAÇÃO, EXCLUSÃO, SALVAGUARDAS E DE ALOCAÇÃO
+PARA DOS RECURSOS DO PROGRAMA ECO INVEST
+0,00
+0,00
+0,00
+S - P2.3ESTABELECIMENTO DAS REGRAS DE GOVERNANÇA DO PROGRAMA ECO INVEST, INCLUINDO COMPOSIÇÃO E
+RESPONSABILIDADES DO COMITÊ EXECUTIVO. 
+0,00
+0,00
+0,00
+S - P2.4ESTABELECIMENTO DAS REGRAS DE HABILITAÇÃO DAS INSTITUIÇÕES FINANCEIRAS E DE PRESTAÇÃO DE CONTAS
+DOS RECURSOS DO PROGRAMA ECO INVEST. 
+0,00
+0,00
+0,00
+   S - P2.5 REGULAMENTAÇÃO DO FUNCIONAMENTO DOS LEILÕES DO PROGRAMA ECO INVEST
+0,00
+0,00
+0,00
+S -  P2.6AUTORIZAÇÃO PARA O BANCO CENTRAL ADQUIRIR DERIVATIVOS DE MDBS E REPASSÁ-LOS ÀS INSTITUIÇÕES
+FINANCEIRAS AUTORIZADAS
+0,00
+0,00
+0,00
+S - P 2.7INSTITUIÇÃO DO COMITÊ DE FINANÇAS SOBERANAS SUSTENTÁVEIS (CFSS) COM A RESPONSABILIDADE DE
+PLANEJAR, IMPLEMENTAR E MONITORAR O ARCABOUÇO BRASILEIRO PARA TÍTULOS SOBERANOS SUSTENTÁVEIS, BEM
+COMO A EMISSÃO DE TÍTULOS SOBERANOS SUSTENTÁVEIS 
+0,00
+0,00
+0,00
+S - P 2.8ESTABELECIMENTO DE REGRAS PARA EMISSÃO DE TÍTULOS SOBERANOS SUSTENTÁVEIS ALINHADAS AOS
+PRINCÍPIOS E DIRETRIZES DA INTERNATIONAL CAPITAL MARKETS ASSOCIATION (ICMA)
+0,00
+0,00
+0,00
+   S - P 2.9EMISSÃO DO PRIMEIRO TÍTULO SOBERANO SUSTENTÁVEL
+0,00
+0,00
+0,00
+   S - P 2.10CRIAÇÃO DE UM MERCADO REGULADO DE CARBONO. 
+0,00
+0,00
+0,00
+C - COMPONENTE III MELHORA DO MARCO FISCAL E DO AMBIENTE DE NEGÓCIOS DO PAÍS 
+0,00
+0,00
+0,00
+   S - P3.1ALTERAÇÃO DO SISTEMA TRIBUTÁRIO NACIONAL DOS IMPOSTOS SOBRE CONSUMO
+0,00
+0,00
+0,00
+S - P 3.2INSTITUIÇÃO DE REGIME FISCAL SUSTENTÁVEL PARA GARANTIR A ESTABILIDADE MACROECONÔMICA DO PAÍS E
+CRIAR AS CONDIÇÕES ADEQUADAS AO CRESCIMENTO SOCIOECONÔMICO 
+0,00
+0,00
+0,00
+   S - P3.3ESTABELECIMENTO DO NOVO MODELO DE GESTÃO DO RISCO DA DÍVIDA PÚBLICA. 
+0,00
+0,00
+0,00
+   S - P3.4APERFEIÇOAMENTO DA GESTÃO DE RISCOS FISCAIS INCLUINDO ASPECTOS CLIMÁTICOS E DESCARBONIZAÇÃO. 
+0,00
+0,00
+0,00
+C - MATRIZ DE POLÍTICAS COM COMPONENTES SUBCOMPONENTES SUPRAMENCIONADOS
+1.000.000.000,
+00
+1.000.000.000,
+00
+1.000.000.000,
+00
+      P - MATRIZ DE POLÍTICAS COM COMPONENTES SUBCOMPONENTES SUPRAMENCIONADOS
+1.000.000.000,
+00
+1.000.000.000,
+00
+1.000.000.000,
+00
+Total
+1.000.000.000,
+00
+1.000.000.000,
+00
+1.000.000.000,
+00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:30
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61178
+Página: 14
+A operação de crédito pleiteada exige a aprovação do Legislativo, permitindo ao Governo a contratação de financiamento externo. O
+processo observará o disposto no Manual de Instrução de Pleitos (MIP/STNS), uma vez aprovada a carta consulta pela COFIEX e será
+monitorado pela Unidade de Coordenação do Projeto sob a gestão da STN.
+
+Efetivamente, há riscos relacionados aos atos legais, em especial quanto à Medida Provisória nº 1.213/2024, que instituiu o Programa Eco
+ Invest. Embora essa MP já venha produzindo efeitos, ainda depende de aprovação pelo Congresso Nacional para sua conversão em lei. 
+ 
+Sobre os atos legais, identificam-se os seguintes riscos: 
+ 
+1) Risco de não aprovação da Medida Provisória, o qual, embora de baixa probabilidade, seria de alto impacto. Para esse risco, a ação de
+mitigação possível é a articulação do governo junto ao Congresso. Destaca-se que a MP em tela instituiu outros programas, além do Eco
+Invest, e que o governo federal está empenhado na sua aprovação; e
+ 
+2) Risco de alterações significativas na Medida Provisória, afetando a viabilidade do Programa. Consideramos esse segundo risco
+mitigado, pois a MP 1.213/2024 recebeu 84 emendas, das quais apenas 6 afetariam os artigos relacionados ao Eco Invest (arts. 31 a 39).
+Em análise preliminar, vimos que as emendas não possuem potencial significativo de afetar o Programa ou seu formato, e, ainda que
+aprovadas, há possibilidade de ajuste pelas normas complementares (portarias, resoluções do CMN etc.).
+ 
+
+5.2. RISCOS/CONTRATAÇÕES
+Deve-se esclarecer primeiro que esta captação junto ao BID é um empréstimo baseado em políticas. Assim, a captação vai aportar o
+orçamento da União, não cabendo mencionar risco de demanda para este ato. O risco cambial da captação, em dólar, com possibilidade
+de conversão a reais, será gerido no âmbito da política de gestão da dívida pública.
+
+Ademais, como dito, grande parte dos recursos do Projeto será destinada diretamente ao Programa Eco Invest Brasil. A MP nº 1.213/2024
+explicita, no art. 34, que, para terem acesso às linhas e aos recursos do Programa Eco Invest Brasil, instituições financeiras, públicas ou
+privadas, poderão ser habilitadas como agentes financeiros da Linha, desde que os riscos da atuação sejam suportados por esses
+agentes financeiros. 
+
+A Resolução CMN nº 5.130/2024, por seu turno, que regulamentou aspectos gerais da linha Eco Invest Brasil e detalhes da sublinha de
+financiamento parcial, reitera, em seu art. 2º, que as instituições financeiras habilitadas como agentes financeiros da Linha Eco Invest
+Brasil, assumirão todos os riscos das operações, incluído o risco de crédito, nos termos da Medida Provisória nº 1.213, de 2024.
+Entendemos que o eventual risco de demanda será devidamente tratado nos editais de leilões (a serem regulamentados por MP).
+
+Ainda, com relação à execução das políticas do Programa Eco Invest, tem-se trabalhado de forma que não seja transferido à União
+nenhum risco cambial. Ou seja, de fato, não há que se falar em riscos financeiros inerentes a essa operação.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+Como não se trata de um Projeto de investimentos, não há previsão de riscos de desapropriações.
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+Como não se trata de um Projeto de Investimentos, não há previsão de obras ou licenciamentos e, portanto, não há riscos ambientais.
+Ainda assim, se consideradas as atividades elegíveis para receber recursos no âmbito do Programa Eco Invest Brasil, é 
+relevante destacar que seu processo de gestão de riscos de sustentabilidade está previsto no Manual Operacional do Programa,
+elaborado pela Secretaria do Tesouro Nacional. O Manual contempla, de um lado, condições para a elegibilidade de atividades entendidas
+como de transição (entre elas, a elaboração de um plano de gestão de riscos climáticos, que será disponibilizado publicamente e
+identificará os principais riscos físicos e de transição aplicáveis ao contexto em todo seu ciclo de vida, e abrangerá as medidas específicas
+ para mitigá-los) e, por outro, salvaguardas socioambientais, além de critérios de exclusão.
+
+5.5. RISCOS/IMPACTO SOCIAL
+Como não se trata de um Projeto de investimentos, não há previsão de obras e, portanto, não há previsão de riscos e impactos sociais
+negativos. Pelo contrário, o projeto deverá ter impacto positivo nas questões sociais.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:30
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61178
+Página: 15
+5.6. RISCOS/REASSENTAMENTOS
+Como não se trata de um Projeto de investimentos, não há previsão de obras e, portanto, não há previsão de riscos de reassentamentos.
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 

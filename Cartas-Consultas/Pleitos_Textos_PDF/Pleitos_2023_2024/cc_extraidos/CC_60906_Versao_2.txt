@@ -1,0 +1,1691 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+PROJETO DE TRANSFORMAÇÃO DIGITAL DA JUSTIÇA DO ESTADO DE PERNAMBUCO 
+Nº Carta Consulta: 60906
+Processo: 12120.100357/2022-23
+Mutuário: Estado de Pernambuco
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  17 de Junho de 2022
+Fontes Internas:
+Contrapartida Financeira: US$ 8.200.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 32.800.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 03
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+04
+2. PROJETO ....................................................................................................................................................................................................... 05
+2.1. TÍTULO ............................................................................................................................................................................................ 05
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 05
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 05
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 05
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 05
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 06
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 08
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 11
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 12
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 13
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 14
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 16
+3. FINANCIAMENTO .......................................................................................................................................................................................... 16
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 16
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 16
+4. EXECUÇÃO ...................................................................................................................................................................................................
+16
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 16
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 17
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 17
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 17
+5. RISCOS .......................................................................................................................................................................................................... 19
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 19
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 19
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 20
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 20
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 20
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 21
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+21
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+ASPECTOS GERAIS DO ESTADO
+
+Situado na Região Nordeste, o Estado de Pernambuco contempla 185 municípios e ainda o arquipélago de Fernando de Noronha, nos
+quais habitam cerca de 9 milhões de pessoas e tem a cidade do Recife como sua capital.
+
+Em relação ao Produto Interno Bruto, o Estado se posiciona como a segunda maior economia da Região Nordeste e a décima economia
+entre os 27 estados da federação, conforme dados do IBGE.
+
+As principais atividades econômicas de Pernambuco são: produção de açúcar e álcool e de bens de consumo não duráveis (alimentos,
+bebidas) e semiduráveis (têxteis e vestuário), além do comércio atacadista e varejista em geral, em função da sua posição geográfica
+privilegiada na Região. 
+
+Pernambuco ocupa a 19º posição entre os 27 estados da federação, com um IDH-M igual a 0,673 (dados de 2010). Na tabela a seguir, é
+possível comparar o IDH e demais indicadores econômicos, sociais e demográficos por região do Estado.
+Anexo A - Fig 01
+
+O Governo de Pernambuco acompanha um conjunto de indicadores de educação através do Pacto pela Educação. O indicador de
+referência é o Índice de Desenvolvimento da Educação Básica (IDEB). Pernambuco é o único Estado do país que alcançou todas as
+metas estabelecidas no Ensino Fundamental (Anos Finais) e Ensino Médio durante toda a série histórica de avaliação do IDEB, quando
+selecionada a sua rede própria de escolas:
+Anexo A - Fig 02
+
+Com relação aos serviços públicos digitais, pesquisa do BID, que estudou a transformação digital dos governos brasileiros, com o objetivo
+de traçar um panorama sobre a satisfação dos cidadãos com os serviços públicos digitais, demonstra que Pernambuco alcançou
+resultados acima da média nacional e regional, mas ainda pode avançar no sentido de ofertar cada vez mais serviços digitais e de
+qualidade:
+Anexo A - Fig 03
+
+SITUAÇÃO ATUAL - PODER JUDICIÁRIO 
+
+O Judiciário Pernambucano investe na digitalização dos serviços prestados, tendo como premissa principal a implantação do Processo
+Judicial Eletrônico - PJe em 100% das comarcas do estado nas esferas cível e criminal, que ocorreu entre os anos de 2011 e 2021,
+atendendo à Resolução CNJ nº 185/2013.
+
+Muitos ainda são os desafios a enfrentar, objetivando atender às requisições do CNJ, no que tange à uniformização de práticas, à
+melhoria da governança e à gestão. O desafio mais recente lançado pelo CNJ, consiste na implementação da transformação digital da
+justiça brasileira em consonância com os recentes avanços tecnológicos, a saber a Plataforma Digital do Poder Judiciário Brasileiro
+instituída pela Resolução CNJ nº 335/2020.
+
+Listamos os principais problemas enfrentados no TJPE:
+
+O atual modelo da infraestrutura de datacenter do TJPE possui uma baixa flexibilidade de implementação e crescimento em escala da
+estrutura computacional, além do elevado custo para aquisição e licenciamento de equipamentos, softwares, soluções de segurança, de
+virtualização e de backup. 
+
+O PJe exige cada vez mais atenção da equipe de TIC e, ainda assim, nos últimos 12 meses foram computadas 634 horas de
+indisponibilidade do sistema e abertos 29.511 chamados técnicos. Como consequência, diversas demandas evolutivas e de integração
+que permitiriam uma tramitação processual mais ágil são represadas.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 3
+O TJPE produz um grande volume de dados estatísticos sobre a prestação jurisdicional (cerca de 500 variáveis e mais de 1400 relatórios).
+A despeito do alto volume de dados produzidos, as informações se encontram dispersas em várias ferramentas que nem sempre
+oferecem visões adequadas para tomada de decisão. Além disso, se observa uma baixa qualidade dos dados e alto custo computacional
+e operacional para geração dos dados. 
+
+A prática judicial é repleta de atividades manuais, repetitivas e de baixa complexidade. Além disso, existem atividades no judiciário que
+não são adequadas ao tratamento manual por exigirem análise e comparação massivas de milhares de documentos.
+
+Os canais tradicionais de comunicação concorrem com diversas ferramentas de comunicação digital resultando em uma sobrecarga de
+demanda de atendimento e prejudicando a qualidade do atendimento.
+
+Baixa capacidade em responder a incidentes de segurança cibernética de forma satisfatória, preventiva e reativa. 
+
+O parque de computadores do TJPE possui 60,5% de suas estações de trabalho com idade entre 7 a 10 anos e 25,5% com idade maior
+que 10 anos. 
+
+Sistema de governança com baixa institucionalização dos instrumentos de gestão e sem adoção das melhores práticas de gestão dos
+dados estatísticos, de projetos e  processos de trabalho.
+
+Sistema de recursos humanos obsoleto.
+
+Elevada evasão do quadro profissionais de TIC.
+
+O incremento dos casos de violência doméstica e familiar contra a mulher (mais de 40 mil casos em 2021), constitui um problema face à
+insuficiência de estrutura tecnológica e de pessoal do TJPE.
+
+Insuficiência de oportunidades para ampliação da inclusão social dos jovens após a prestação da medida socioeducativa. 
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+O Poder Judiciário de Pernambuco atravessa um cenário de aumento da demanda por serviços de TIC, ampliado pelos efeitos da
+pandemia, gerando desafios que demandam uma gestão ágil, uma maior eficiência na tramitação processual e um atendimento direto e
+eficaz ao jurisdicionado. Para tanto, a tecnologia é o caminho para viabilizar uma justiça célere, efetiva e transparente, uma vez que
+possibilita a agilização na prática de atos processuais através da automação de atividades repetitivas, a disponibilização de diversos
+canais de comunicação com o jurisdicionado e o compartilhamento de informações relevantes para a tomada de decisão nos diferentes
+níveis hierárquicos.
+
+Assim, a consolidação da transformação digital iniciada no Tribunal de Justiça de Pernambuco (TJPE) se configura como principal vetor
+para o atingimento de sua missão institucional, tendo como resultado a almejada justiça célere e o amplo acesso à justiça por parte dos
+jurisdicionados. Para o atingimento desses objetivos, faz-se necessário, a modernização tecnológica do parque de equipamentos,
+ampliação da infraestrutura computacional e de sistemas, para a disseminação de uma cultura digital que garanta uma experiência exitosa
+ ao cidadão, aos advogados, aos servidores, aos magistrados e demais colaboradores do sistema de justiça.
+Neste cenário é que se propõe o DIGITALJUS-PE (Projeto de Transformação Digital do Poder Judiciário Pernambucano) o qual foi
+estruturado nos componentes abaixo, relacionados com os resultados a serem alcançados e a sua sustentabilidade para o projeto.
+
+Componente 1 - Infraestrutura tecnológica e Conectividade
+Os resultados esperados para este componente podem ser sintetizados como segue:(i) Melhoria da segurança da informação e ampliação
+da capacidade de respostas aos incidentes de segurança com vistas à redução dos riscos de comprometimento dos serviços judiciais e
+aumento da proteção aos dados sensíveis; (ii) Modernização do parque de equipamentos e ferramentas individuais, permitindo adequação
+aos novos serviços tecnológicos, ganho de produtividade para os servidores e magistrados e redução de custo de manutenção dos
+equipamentos; (iii) Nova oferta de infraestrutura computacional em nuvem possibilitando maior flexibilidade e escalabilidade (possibilidade
+de crescimento) para os serviços ofertados, bem como reduzindo custos com equipamentos e licenciamentos para datacenter; e (iv)
+Disponibilização à população de infraestrutura para acesso aos serviços digitais oferecidos pelo TJPE através da disponibilização de
+espaço físico com computadores preparados e rede wifi nos fóruns em todo o estado.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 4
+As ações contempladas neste componente visam à modernização e sustentabilidade da infraestrutura de TIC, acarretando a redução de
+custos com a manutenção de equipamentos e de pessoal para suporte técnico. Além disso, a migração para nuvem possibilita redução de
+despesas com datacenter, uma vez que a contratação desses serviços se mostra mais vantajosa economicamente e os pagamentos são
+realizados em relação ao que foi efetivamente consumido, favorecendo uma gestão mais eficiente dos recursos orçamentários e
+financeiros.
+
+Componente 2 - Transformação Digital para aprimorar os serviços
+Para este componente esperamos obter os seguintes resultados: (i) Qualificação dos sistemas judiciais, oferecendo aos usuários sistemas
+com alta disponibilidade, desempenho adequado e boa usabilidade; (ii) Aperfeiçoamento da prestação jurisdicional por meio da
+disponibilização de soluções tecnológicas (chatbots, atendimento multicanais e envio de comunicações automáticas pelos sistemas
+judiciais) para agilização do atendimento ao jurisdicionado; (iii) Informações de qualidade sobre as atividades judiciais disponíveis para os
+níveis operacionais, táticos e estratégicos que permitam qualificar a gestão das unidades jurisdicionais, bem como a tomada de decisão e
+atendimento às metas nacionais do judiciário; (iv) Disponibilização de ferramentas tecnológicas que possibilitem a redução das atividades
+manuais e repetitivas realizadas por servidores, bem como o apoio aos magistrados na realização de atos judiciais (v) fortalecimento das
+políticas sociais promovidas pelo TJPE por meio da disponibilização de soluções tecnológicas.
+
+As ações contempladas neste componente visam à reestruturação dos serviços de TIC com impacto na redução do alto custo de
+manutenção das soluções, bem como possibilitará a reorganização de sua força de trabalho para atendimento das demandas que geram
+mais valor para a missão institucional do TJPE. Assim, após a conclusão destas ações, espera-se que o custo de manutenção desses
+serviços se adeque à disponibilidade orçamentária da instituição, estando, portanto, alinhado com a perspectiva de sustentabilidade
+almejada.
+
+Componente 3 - Transformação Digital para fortalecer a Governança e a Gestão
+Para este Componente esperamos obter os seguintes resultados: (i) Garantir que gestão dos produtos da transformação digital ocorram
+de forma mais assertiva, transparente e eficiente, garantindo a eficácia dos objetivos; (ii) Racionalização dos recursos e da força de
+trabalho disponível com foco na eficiência administrativa, mediante a definição de um direcionamento estratégico claro, e a utilização de
+práticas eficazes de gestão para potencializar os resultados da instituição; (iii) Modernização das soluções das ferramentas tecnológicas
+administrativas para gestão de pessoas, projetos, processos e indicadores estratégicos; (iv) Implantação de uma sistemática para melhoria
+da gestão do planejamento estratégico; gestão orçamentária e financeira e gestão de TI; e (v) Servidores capacitados para as
+ferramentas digitais.
+
+As novas rotinas/procedimentos de governança e de gestão estratégica serão criadas e implantadas por meio de consultorias onde as
+soluções serão construídas e aplicadas com a participação ativa dos magistrados e servidores, no intuito de garantir o repasse e a
+retenção do conhecimento na instituição. Serão contratadas empresas específicas para realizar as evoluções técnicas necessárias no
+sistema de gestão estratégica aprimorado no âmbito deste produto, sendo incorporado o custo de manutenção no orçamento do TJPE.
+
+Componente 4 - Gestão e Administração 
+Contempla investimentos em capacitação e treinamento, serviços de consultoria, aquisição de bens e serviços que não de consultoria
+destinados a instrumentalizar a equipe de gestão do projeto.
+
+ANEXO G - Sustentabilidade do Projeto (Nova Versão)
+ANEXO H - LEI ESTADUAL Nº 14.989 de 29.05.2013 - FERM TJPE
+ANEXO I - LEI Nº 17.124 DE 16.12.2020 - ALTERAÇÃO
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+O Poder Judiciário do Estado de Pernambuco (PJPE) publicou a sua estratégia para o período 2021-2026, por meio da aprovação pelo
+Tribunal Pleno, da Resolução 459/2021. A estruturação do Planejamento Estratégico estadual obedece às diretrizes definidas pelo CNJ
+para a concretização da Estratégia Nacional do Poder Judiciário 2021- 2026. Ainda, conforme disciplinado pela Resolução CNJ n. 325/
+2020 foram observadas as diretrizes constantes dos Objetivos do Desenvolvimento Sustentável (ODS) da Agenda 2030 da ONU. Ver
+ANEXO B - Plano Estratégico TJPE 2021-2026.
+
+O planejamento levou em consideração a ampla participação de magistrados e servidores do estado, através de oficinas que detalharam
+cada objetivo estratégico das áreas meio e finalísticas. Também contou com a participação da sociedade, Ministério Público e OAB,
+através de consulta pública realizada de forma online.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 5
+Neste contexto é que se insere o DIGITALJUS-PE, que visa contribuir com o alcance  dos seguintes objetivos estratégicos do PJPE: (i)
+Fortalecer as Relações Institucionais do Judiciário com a Sociedade; (ii) Promover Agilidade e produtividade na prestação jurisdicional; (iii)
+Adotar Soluções Consensuais para os Conflitos; (iv) Aperfeiçoar a gestão administrativa, de pessoas  e a Governança Judiciária; (v)
+Aperfeiçoar a Gestão Orçamentária e Financeira e (vi) Fortalecer a estratégia nacional de TIC e a proteção de dados.
+
+Também sobre as prioridades estratégicas do Governo do Estado de Pernambuco, ver-se alinhamento entre os objetivos desse Projeto
+com Plano Plurianual Estadual (PPA) 2020-2023 no tocante ao investimento na temática Celeridade e Produtividade na Prestação
+Jurisdicional do Poder Judiciário da qual faz parte o programa 577 Efetividade da Prestação Jurisdicional, onde encontra-se a atividade
+1959 - Implementação de Iniciativas de Celeridade Processual, bem como a temática Instituição da Governança Judiciária da qual faz
+parte o programa 422 Apoio Gerencial e Tecnológico às ações do Fundo Especial de Modernização e reaparelhamento do Poder
+Judiciário de Pernambuco, onde encontra-se a atividade 4241 - Melhoria da Infraestrutura e Governança da Tecnologia de Informação e
+Comunicação.
+
+É de relevante, ainda, destacar que os programas Celeridade e Produtividade na Prestação Jurisdicional do Poder Judiciário e Apoio
+Gerencial e Tecnológico às ações do Fundo Especial de Modernização e reaparelhamento do Poder Judiciário de Pernambuco, do atual
+PPA, concentra iniciativas que asseguram toda a manutenção do Judiciário Pernambucano e que o DIGITALJUS-PE significaria um aporte
+financeiro importantíssimo para os investimentos necessários para melhoria da modernização e aprimoramento dos serviços e
+desempenho institucional.
+
+A contrapartida será proveniente do Tesouro Estadual, em conformidade com o disposto no Art. 2º, §1º, da Resolução nº 03 de 29/05/2019
+:
+(I) Taxa de câmbio da moeda do financiamento em relação ao REAL: US$ 5,11 
+(II) Data de referência 15/06/2022
+2. Projeto
+2.1. Título
+PROJETO DE TRANSFORMAÇÃO DIGITAL DA JUSTIÇA DO ESTADO DE PERNAMBUCO 
+2.2. Título Abreviado
+DIGITALJUS-PE
+2.3. Mutuário
+Estado de Pernambuco
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+OBJETIVO GERAL 
+
+Garantir o processo de transformação digital do Poder Judiciário do Estado de Pernambuco adequando-o às necessidades do cidadão
+quanto a facilidade no acesso à justiça, a celeridade e efetividade dos serviços prestados pelo judiciário pernambucano.
+
+OBJETIVOS ESPECÍFICOS
+
+Componente 1: Infraestrutura tecnológica e conectividade
+
+Objetivo específico: Manter a infraestrutura tecnológica atualizada, para que não haja interrupção dos serviços prestados pelo Poder
+Judiciário Pernambucano.
+
+Componente 2: Transformação Digital para aprimorar os serviços
+
+Objetivo específico: Implementar novos serviços tecnológicos que serão desenvolvidos, de forma a ampliar o acesso à justiça, bem como
+a tornar a prestação dos serviços jurisdicionais mais célere e eficiente.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 6
+Componente 3:  Transformação Digital para fortalecer a Governança e a Gestão
+
+Objetivo específico: Aumentar a eficiência operacional interna, a humanização do serviço, a desburocratização, a simplificação de
+processos internos, bem como o fortalecimento da autonomia administrativa e financeira do Poder Judiciário. 
+
+Componente 4: Gestão e Administração
+
+Objetivo específico: Promover o adequado gerenciamento do projeto em relação ao cronograma de execução, aquisições, contratações,
+implantação e monitoramento dos produtos definidos.
+2.6. Projeto/Indicadores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 7
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Índice de Desempenho dos Órgãos no Prêmio
+CNJ de Qualidade nos Eixos Governança e
+Dados e Tecnologia (Ver Detalhamento no
+Anexo J)
+Prêmio Gov-Dados =
+Soma da pontuação
+alcançada nos eixos
+Governança e Dados
+e Tecnologia / Soma
+da pontuação máxima
+nos eixos
+Governança e Dados
+e Tecnologia *100
+%
+68,38
+85,00
+Índice de Governança em TIC - IGovTIC-JUD (
+Ver Detalhamento no Anexo J)
+IGOVTIC-JUD = (
+NFT1 + NFT2 + ... +
+NFT8) / 8  Conforme
+glossário da
+Resolução CNJ no
+370/2021. 
+Unidade
+76,99
+90,00
+Índice de Julgamento de Processos Antigos -
+Meta 2 do CNJ (Ver Detalhamento no Anexo J)
+Percentual de
+cumprimento da meta
+= ((&#8721;P2.10 + &
+#8721;P2.11+ &#8721
+;P2.12+ P2.13 + P2.
+14 + P2.15) / (P2.1 +
+P2.2 + P2.3 + P2.13 +
+P2.14+ P2.15 + &#
+8721;P2.4 + &#8721;
+P2.5 + &#8721;P2.6 -
+&#8721;P2.7 - &#
+8721;P2.8 - &#8721;
+P2.9)) X 1000/K
+Glossário e
+Esclarecimentos:
+Conselho Nacional de
+Justiça (cnj.jus.br)
+%
+96,80
+100,00
+Taxa de congestionamento líquida - TCL, exceto
+execuções fiscais (Ver Detalhamento no Anexo J
+)
+TCL = Cp -
+CpPExtFisc1 -
+SusNFisc/ TBaix -
+TBaixExtFisc1 + Cp-
+CpPExt Fisc1 -
+SusNFisc   Onde:  Cp
+? Total de casos
+pendentes;
+CpExtFisc1 ? Casos
+Pendentes de
+Execução Fiscal no 1o
+grau; SusNFisc ?
+Total de processos
+suspensos,
+sobrestados ou em
+arquivo provisório,
+exceto os processos
+de Execução Fiscal;
+TBaix ? Total de
+processos baixados; e
+TBaixExtFisc1 ? Total
+de Processos
+Baixados de
+Execução Fiscal no 1o
+ Grau.
+%
+71,80
+69,30
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 8
+Índice de Julgamento - META 1 do CNJ (Ver
+Detalhamento no Anexo J)
+Percentual de
+cumprimento  = ((&#
+8721;P1.3 + &#8721;
+P1.4) / (&#8721;P1.1
++ &#8721;P1.2 + 1 - &
+#8721;P1.5 - &#8721;
+P1.6 + &#8721;P1.7 +
+&#8721;P1.8 - &#
+8721;P1.9 - &#8721;
+P1.10)) x 100
+Glossário e
+Esclarecimentos:
+Conselho Nacional de
+Justiça (cnj.jus.br)
+%
+88,83
+100,00
+2.7. Projeto/Componentes
+Componentes
+Valor(US$)
+C - COMPONENTE 1: INFRAESTRUTURA TECNOLÓGICA E CONECTIVIDADE
+23.663.200,00
+      P - Produto 1 - Ambiente tecnológico em nuvem implantado
+6.903.200,00
+      P - Produto 2 - Implantação de protocolos de segurança da informação e adequação à LGPD
+3.740.000,00
+      P - Produto 3 - Parque tecnológico modernizado
+11.020.000,00
+      P - Produto 4 - Implantação de infraestrutura de wifi
+2.000.000,00
+C - COMPONENTE 2: TRANSFORMAÇÃO DIGITAL PARA APRIMORAR OS SERVIÇOS 
+14.776.800,00
+P - Produto 1 - Sistemática para atendimento das demandas corretivas, evolutivas e de integração dos sistemas
+judiciais
+11.817.000,00
+      P - Produto 2 - Sistemática de governança de dados judiciais implantada
+1.009.600,00
+      P - Produto 3 - Soluções de inovação, automação e inteligência artificial
+1.550.200,00
+      P - Produto 4 - Transformação digital no atendimento à mulher vítima de violência doméstica
+200.000,00
+P - Produto 5 - Tranformação digital nas Política de Prevenção e Enfrentamento do Assédio Moral, do Assédio
+Sexual e da Discriminação
+100.000,00
+      P - Produto 6 - Inclusão digital e profissional de jovens em cumprimento de medidas socioeducativas
+100.000,00
+C - COMPONENTE 3:  TRANSFORMAÇÃO DIGITAL PARA FORTALECER A GOVERNANÇA E A GESTÃO
+1.660.000,00
+      P - Produto 1 - Modelo de Governança Corporativa e Gestão Estratégica aprimorados
+600.000,00
+      P - Produto 2 - Modelo de Gestão de Pessoas para transformação digital (plataforma de software)
+1.000.000,00
+      P - Produto 3 - Fortalecimento da captação e retenção de talento digital
+60.000,00
+C - COMPONENTE 4 - GESTÃO E ADMINISTRAÇÃO 
+900.000,00
+      P - Produto 1 - Monitoramento e avaliação 
+700.000,00
+      P - Produto 2 - Auditoria 
+200.000,00
+Total dos Componentes
+41.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - COMPONENTE 1: INFRAESTRUTURA TECNOLÓGICA E CONECTIVIDADE
+Manter a infraestrutura tecnológica atualizada é condição essencial, para que não haja interrupção dos serviços prestados pelo
+Poder Judiciário Pernambucano. Desta forma, faz-se necessário estabelecer uma estratégia perene de renovação do parque
+tecnológico, a contratação de serviços de infraestrutura em nuvem, a implantação de rede Wifi em todas as comarcas do estado e
+a implantação de protocolos de segurança da informação e adequação à Lei Geral de Proteção de Dados - LGPD.
+Nos últimos anos, o Judiciário Pernambucano investiu na digitalização dos serviços prestados, tendo como premissa principal a
+implantação do Processo Judicial Eletrônico - PJe em 100% das comarcas do estado nas esferas cível e criminal, o que ocorreu
+entre os anos de 2011 e 2021. O PJe e todos os serviços acessórios demandam uma infraestrutura robusta e com flexibilidade
+para crescimento da capacidade de processamento e armazenamento de forma ágil, para garantia da alta disponibilidade destes
+serviços de TIC. 
+Por sua vez, para que os colaboradores do TJPE façam bom uso de todos os recursos e sistemas computacionais, é fundamental
+que suas estações de trabalho estejam atualizadas, em boas condições de uso e dotadas dos equipamentos necessários às novas
+necessidades de prestação de justiça digital. Além disso, faz-se necessário expandir para todas as comarcas a implantação de
+infraestrutura de rede Wifi, de forma a viabilizar a inclusão digital da população para garantia do acesso à justiça digital.
+Finalmente, em um cenário em que todos os dados dos processos judiciais estarão disponíveis de forma eletrônica, é
+imprescindível o investimento no aprimoramento dos protocolos de segurança da informação no âmbito do TJPE.
+      P - Produto 1 - Ambiente tecnológico em nuvem implantado
+Contempla a implantação de infraestrutura em nuvem, compreendendo a contratação de serviços de TIC em nuvem, a adaptação e
+migração dos sistemas para a nova arquitetura tecnológica, monitoramento do desempenho das aplicações através de
+ferramentas especializadas (APM) e estruturação de equipe de sustentação dessa infraestrutura.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 9
+      P - Produto 2 - Implantação de protocolos de segurança da informação e adequação à LGPD
+Destina-se a implantação dos protocolos de segurança da informação e adequação aos preceitos da LGPD, que passam pela
+contratação de um Centro de Operações de Segurança especializado 24x7, de uma ferramenta de gerenciamento de credenciais
+administrativas (PAM), de uma ferramenta de gestão de riscos e de um firewall de aplicação.
+      P - Produto 3 - Parque tecnológico modernizado
+Visa à modernização dos equipamentos de TIC utilizados nas unidades judiciais e administrativas do TJPE, bem como a
+disponibilização de equipamentos necessários para as novas demandas de atendimento remoto (webcams e headsets).
+      P - Produto 4 - Implantação de infraestrutura de wifi
+Este produto se destina a implantação de espaços devidamente equipados com acesso à rede Wifi em todo o estado visando
+garantir o acesso à Justiça pelos excluídos digitais, bem como aos demais usuários desses serviços.
+C - COMPONENTE 2: TRANSFORMAÇÃO DIGITAL PARA APRIMORAR OS SERVIÇOS 
+A transformação digital do Poder Judiciário Pernambucano impactará diretamente na melhoria dos serviços prestados ao cidadão.
+Novos serviços tecnológicos serão desenvolvidos, de forma a ampliar o acesso à justiça, bem como a tornar a prestação dos
+serviços jurisdicionais mais célere e eficiente.
+Além disso, a inteligência artificial e a adoção de plataformas de automação serão aplicadas no trâmite do processo judicial
+eletrônico, com objetivo de automatizar tarefas repetitivas, reduzir erros, subsidiar a atuação dos magistrados e servidores e
+agilizar o rito processual.
+O estabelecimento de uma sistemática de governança de dados se destina a promover a qualificação das informações que
+subsidiam a gestão das unidades jurisdicionais pelos magistrados e servidores, bem como apoiar os gestores do TJPE com
+informações acessíveis e qualificadas para a tomada de decisão em suas respectivas esferas de atuação. 
+E, visando alcançar um processo de transformação digital sustentável, serão estabelecidas novas sistemáticas de gestão,
+considerando implementação de novas metodologias de trabalho, adoção de ferramentas e infraestrutura tecnológicas adequadas
+e investimentos em capacitação das pessoas envolvidas da instituição.
+Além disso, este componente busca contribuir através da transformação digital no fortalecimento de políticas sociais no âmbito do
+Tribunal de Justiça de Pernambuco (TJPE) voltadas para enfrentamento da violência doméstica e familiar contra a mulher,
+igualdade de gênero e proteção da criança e do adolescente.
+A violência doméstica e familiar contra a mulher é um grave mal que assola o país. Em Pernambuco, apenas no ano de 2021,
+foram notificados mais de 40 mil casos de violência doméstica e familiar contra a mulher, conforme dados da Secretaria de Defesa
+Social do Estado de Pernambuco. No TJPE, a Coordenadoria da Mulher, órgão responsável pela coordenação das ações ligadas
+às políticas de gênero, vem atuando junto ao Laboratório de Inovações do TJPE (IDEIAS) na concepção de soluções que possam
+contribuir com tais iniciativas em curso. Os produtos previstos neste componente possibilitam a consolidação dessas soluções,
+contribuindo diretamente para o atendimento à mulher vítima de violência, bem como na promoção da igualdade de gênero.
+Em nosso estado, milhares de crianças e adolescentes vivem em territórios diretamente afetados pela violência, em especial a
+violência armada. Um significativo número de meninos e meninas cumprem medidas socioeducativas. Dentre estas medidas, a
+prestação de serviços à comunidade tem como principal objetivo a integração social do menor infrator com a prática da vida em
+sociedade. O TJPE desenvolve um programa de inclusão de jovens em cumprimento de medida de Prestação de Serviço à
+Comunidade na Comarca do Recife. 
+P - Produto 1 - Sistemática para atendimento das demandas corretivas, evolutivas e de integração dos sistemas
+judiciais
+Propõe a implantação de uma sistemática (metodologia, processos e tecnologia) que possibilite a consolidação de uma TI bimodal
+(equipe integrada de servidores com pessoal terceirizado) e a contratação de fábrica de software para ampliação da capacidade
+em atender às demandas do PJe e da PDPJ.
+      P - Produto 2 - Sistemática de governança de dados judiciais implantada
+Consiste na implantação de uma sistemática (metodologia, processo e tecnologia), aquisição de ferramentas especializadas,
+contratação de serviços técnicos especializados em ciências de dados e contratação de fábrica de software para implementação
+de uma plataforma unificada de informações do TJPE.
+      P - Produto 3 - Soluções de inovação, automação e inteligência artificial
+Implantação da sistemática (metodologia, processos e tecnologia) e capacitação especializada, visando à estruturação do corpo
+técnico perene para atendimento das iniciativas de inovação, automação e inteligência artificial, bem como à aquisição de
+ferramentas e contratação de fábrica de software para implementação das iniciativas.
+      P - Produto 4 - Transformação digital no atendimento à mulher vítima de violência doméstica
+Visa o desenvolvimento de uma plataforma multicanal para um atendimento humanizado, ágil e seguro às mulheres vítimas de
+violência, através de uma solução tecnológica para atendimento multicanal (WhatsApp e principais redes sociais) integrada ao
+aplicativo Nísia (solução desenvolvida no TJPE).
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 10
+P - Produto 5 - Tranformação digital nas Política de Prevenção e Enfrentamento do Assédio Moral, do Assédio Sexual e
+ da Discriminação
+Propõe a criação de uma canal seguro e eficaz, através de plataforma iterativa dotada de chatbot que possibilite o recebimento de
+denuncias, bemo como promova a orientação das vítimas de assédio e discriminação no âmbito do TJPE. 
+      P - Produto 6 - Inclusão digital e profissional de jovens em cumprimento de medidas socioeducativas
+Destina-se a aperfeiçoar o desenvolvimento de adolescentes em cumprimento de medida socioeducativas, compreendendo a
+criação de um Laboratório Digital e a criação de um banco de dados compartilhado com as instituições partícipes do sistema
+socioeducativo para o acompanhamento e inserção desses jovens no mercado de trabalho. 
+C - COMPONENTE 3:  TRANSFORMAÇÃO DIGITAL PARA FORTALECER A GOVERNANÇA E A GESTÃO
+O presente componente constitui um pilar importante do processo de modernização, haja vista que envolve mecanismos de
+soluções integradas de gestão administrativa e de governança de forma a melhorar a eficiência e dar mais efetividade aos setores
+relacionados à gestão estratégica do Poder Judiciário Pernambucano, bem como sustentar e dar continuidade ao processo de
+transformação digital.
+Assim, no âmbito deste componente, visando aumentar a eficiência operacional interna, a humanização do serviço, a
+desburocratização, a simplificação de processos internos, bem como o fortalecimento da autonomia administrativa e financeira do
+Poder Judiciário e a adoção das melhores práticas de gestão documental, gestão da informação, gestão de projetos e otimização
+de processos de trabalho com o intuito de melhorar o serviço prestado ao cidadão.
+      P - Produto 1 - Modelo de Governança Corporativa e Gestão Estratégica aprimorados
+Essa solução tem o intuito de melhorar  os mecanismos e instrumentos de gestão levando a eficiência operacional, a
+desburocratização, a segurança e a automação dos processos internos, por meio da implantação de uma sistemática para gestão
+dos projetos, processos, indicadores estratégicos e metas nacionais; gestão orçamentária e financeira através da aquisição de
+software específico para esta finalidade. 
+      P - Produto 2 - Modelo de Gestão de Pessoas para transformação digital (plataforma de software)
+Esse produto visa implantar uma sistemática de gestão de recursos humanos, que engloba modernização do ferramental
+tecnológico para gestão de pessoas, implantação de metodologia de gestão por competência e capacitações. Com destaque para
+aquisição de software para essa finalidade.
+      P - Produto 3 - Fortalecimento da captação e retenção de talento digital
+Esse produto prevê a realização de estudos para proporcionar a captação e a retenção dos talentos de TIC no TJPE para definição
+ de uma estratégia para pessoal de TIC adequada aos novos tempos.
+C - COMPONENTE 4 - GESTÃO E ADMINISTRAÇÃO 
+Promover o adequado gerenciamento do projeto em relação ao cronograma de execução, aquisições, contratações, implantação e
+monitoramento dos produtos definidos.
+      P - Produto 1 - Monitoramento e avaliação 
+Composto de investimentos em capacitação e treinamento, serviços de consultoria, aquisição de bens e serviços que não de
+consultoria destinados a instrumentalizar a equipe de gestão do projeto. 
+      P - Produto 2 - Auditoria 
+Contempla os serviços que não de consultoria na forma de auditorias externas do projeto.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 11
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Bens
+-
+-
+12.720.000,00
+31,02
+P- Produto 3 - Parque tecnológico modernizado
+US$
+26,88
+11.020.000,00
+26,88
+P- Produto 6 - Inclusão digital e profissional de
+jovens em cumprimento de medidas
+socioeducativas
+US$
+0,24
+100.000,00
+0,24
+P- Produto 1 - Modelo de Governança Corporativa
+ e Gestão Estratégica aprimorados
+US$
+1,46
+600.000,00
+1,46
+P- Produto 2 - Modelo de Gestão de Pessoas para
+ transformação digital (plataforma de software)
+US$
+2,44
+1.000.000,00
+2,44
+Consultoria
+-
+-
+260.000,00
+0,63
+P- Produto 3 - Fortalecimento da captação e
+retenção de talento digital
+US$
+0,15
+60.000,00
+0,15
+P- Produto 2 - Auditoria 
+US$
+0,49
+200.000,00
+0,49
+Serviços que Não de Consultoria
+-
+-
+26.469.800,00
+64,56
+P- Produto 1 - Ambiente tecnológico em nuvem
+implantado
+US$
+16,84
+6.903.200,00
+16,84
+P- Produto 2 - Implantação de protocolos de
+segurança da informação e adequação à LGPD
+US$
+9,12
+3.740.000,00
+9,12
+P- Produto 4 - Implantação de infraestrutura de
+wifi
+US$
+4,88
+2.000.000,00
+4,88
+P- Produto 1 - Sistemática para atendimento das
+demandas corretivas, evolutivas e de integração
+dos sistemas judiciais
+US$
+28,82
+11.817.000,00
+28,82
+P- Produto 2 - Sistemática de governança de
+dados judiciais implantada
+US$
+2,46
+1.009.600,00
+2,46
+P- Produto 4 - Transformação digital no
+atendimento à mulher vítima de violência
+doméstica
+US$
+0,49
+200.000,00
+0,49
+P- Produto 5 - Tranformação digital nas Política de
+Prevenção e Enfrentamento do Assédio Moral, do
+ Assédio Sexual e da Discriminação
+US$
+0,24
+100.000,00
+0,24
+P- Produto 1 - Monitoramento e avaliação 
+US$
+1,71
+700.000,00
+1,71
+Outros
+-
+-
+1.550.200,00
+3,78
+P- Produto 3 - Soluções de inovação, automação
+e inteligência artificial
+US$
+3,78
+1.550.200,00
+3,78
+Total Geral
+-
+-
+41.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+Nos últimos anos foram observados grandes avanços na modernização do Tribunal de Justiça de Pernambuco. Alguns dos expressivos
+resultados alcançados são destacados a seguir:
+
+Implantação do PJe: Em 2021, foi concluída a implantação em todas as comarcas do estado de Pernambuco e em todas as competências
+(cível, criminal e infracional);
+
+Digitalização do acervo processual físico de todas as comarcas do Estado: Iniciou em agosto de 2019. Desde então foram digitalizados
+mais de 228 mil processos, restando aproximadamente 334 mil processos físicos para digitalização, prevista para ser concluída até
+dezembro de 2024;
+
+Iniciadas as ações de implantação do programa Juizo 100% Digital: Esse programa criado pelo CNJ permite que, mediante anuência das
+partes processuais, todos os atos praticados no processo sejam digitais;
+
+Implantados novos canais de comunicação (TJPE Atende e Balcão Virtual): Em abril de 2020, foi lançado o TJPE Atende, aplicativo para
+celular que permite a comunicação da população com as unidades judiciais do TJPE, visando oferecer canal de acesso da população ao
+judiciário devido ao fechamento das instalações físicas em virtude da pandemia do Covid-19. Posteriormente, em fevereiro de 2021, o CNJ
+determinou através da Resolução CNJ nº 372/2021 a implantação de balcões virtuais em todas as unidades judiciais do país. Os balcões
+virtuais compreendem ambiente de videoconferência para atendimento remoto do jurisdicionado acessível durante o expediente regular da
+ unidade. Atualmente, 565 unidades judiciárias do TJPE contam com o balcão virtual implantado;
+
+Contribuição para a Plataforma Digital do Poder Judiciário - PDPJ: O TJPE participa atualmente do desenvolvimento colaborativo do
+Sistema de Gestão dos Depósitos Judiciais - SIDEJUD, bem como promoveu a integração do PJe com o Codex (repositório nacional de
+dados e documentos de processos judiciais para fins de extração de estatísticas e utilização de técnicas de inteligência artificial);
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 12
+Contratação de Plataforma em Nuvem Pública: Foi finalizado o processo de contratação de infraestrutura em nuvem para realização de
+projeto piloto que contempla a migração dos primeiros serviços para a nova arquitetura;
+
+Atualização do Parque Tecnológico: Em 2021 foram adquiridos 550 notebooks e este ano foi realizado processo licitatório, contemplando
+uma ata de registro de preço de 3.000 computadores desktop, contudo só há previsão orçamentária para pedido de 650 unidades.
+Também foram adquiridas 750 webcams em 2021 e 450 scanners este ano;
+
+Ferramentas de Colaboração e Videoconferência: Em 2022, foram contratadas mais de 11 mil licenças do Microsoft Office 365,
+contemplando todos os usuários internos do TJPE; 
+
+Ampliação de Infraestrutura de Conectividade: Concluído em 2022 o projeto de interligação (anel óptico metropolitano) entre os principais
+prédios da capital e os datacenters do TJPE (Recife e Camaragibe). Em 2020 e 2021, foi realizada a ampliação da capacidade dos links
+de internet das comarcas, garantindo um mínimo de 20MB. Além disso, encontra-se em fase final de elaboração de termo de referência
+projeto de contratação de links de internet, visando a ampliação da conectividade de todas as comarcas para disponibilizar um mínimo de
+100MB;
+
+Soluções de Automação e Inteligência Artificial: O TJPE foi pioneiro na adoção de inteligência artificial na tramitação processual. Em 2018
+foi criado o Comitê de Inteligência Artificial, contando com servidores e magistrados do TJPE, que conceberam e implementaram o
+sistema de inteligência artificial Elis. Atualmente, encontra-se em andamento de um projeto piloto junto a Escola Judicial do TJPE (
+ESMAPE) para implementação de soluções de RPA (Robotic Process Automation) para área criminal;
+
+Criação do Ideias TJPE: O Instituto de Desenvolvimento de Inovações Aplicadas (Ideias) foi concebido com o objetivo desenvolver a
+cultura da inovação e da gestão do conhecimento no âmbito do TJPE, a partir do estímulo à co-criação, ao uso de metodologias ágeis,
+ativas e inovadoras nos processos de ensino e aprendizagem, como também ao desenvolvimento de soluções criativas para os desafios
+da justiça estadual pernambucano;
+
+Planejamento Estratégico do Poder Judiciário de PE 2021-2026: publicado em 15 de setembro de 2021 por meio da Resolução nº459 de
+2021, contendo diversas iniciativas que visam e colaboram com a transformação digital do TJPE;
+
+Criação do Escritório de processos corporativos: criado em junho de 2021 por meio da Resolução nº452 com a finalidade de melhorar a
+eficiência da gestão com processos mais ágeis, eficientes, menos gargalos, menor burocratização;
+
+Criação do Escritório de Projetos Corporativo: criado através da LEI Nº 14.651, DE 4 DE MAIO DE 2012 possui mais de 10 anos de
+atuação estruturada na instituição;
+
+Escritório de Projetos e Processos de TI: Criado em 2010, pela resolução nº 302/2010, que promoveu uma reestruturação na área de
+tecnologia do TJPE. Os Escritórios são responsáveis pela condução de projetos estratégicos do Tribunal que envolvam a TI como solução;
+  
+
+Ferramenta para o produto Modelo de Governança Corporativa e Gestão Estratégica aprimorados:  foram realizados estudos preliminares;
+ levantamento de requisitos, prospecção de soluções e fornecedores; 
+
+Gestão por Competência para transformação digital: foi realizada em 2021 uma capacitação para que a equipe envolvida no projeto
+tivesse um nivelamento sobre o tema e as necessidades de se implantar uma gestão por competência numa organização como o TJPE;
+
+Política de Governança Institucional: estudo e elaboração de versão preliminar de que visa estruturar as instâncias de governança, os
+normativos, o fluxo de informações, os processos de trabalho e as atividades relacionadas à avaliação, direcionamento e monitoramento
+da gestão;
+
+Plano de Logística Sustentável - PLS: elaborado anualmente e publicado em abril de 2022, contendo os indicadores de desempenho,
+metas e iniciativas correlatas.
+2.9. Projeto/Abrangência Geográfica
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 13
+Abrangência Geográfica: Estadual/Sem detalhes
+Estado de Pernambuco ()
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+Condições Financeiras da Operação:
+
+Prazo de Desembolso: 60 meses
+
+Prazo de Carência: 66 meses
+
+Prazo de Amortização: 240 meses
+
+Prazo Total: 300 meses
+
+Taxa de Juros: SOFR trimestral + 0,29 % (margem de financiamento) + 0,90% (margem de empréstimo BID)
+Demais encargos e comissões: Comissão de 0,50% sobre saldo não desembolsado.
+
+Necessidade de Financiamento Externo
+
+Em 2015, a estratégia nacional de crescimento sustentado no consumo e estímulo aos investimentos mediante financiamento subsidiado
+pelos bancos públicos foi interrompida pela crise de liquidez da Economia e dos problemas de caixa do Governo Federal. A situação fiscal
+da União se agravou de tal maneira que foi necessário promover cortes para além dos investimentos em infraestrutura, não só no nível
+federal, mas também com repercussão nas esferas estaduais e municipais. O desequilíbrio nas contas públicas, em sentido lato, também
+contribuiu para essa conjuntura negativa. A recessão atingiu de sobremaneira as contas dos estados brasileiros, que não por acaso
+apresentam dificuldades em manter a máquina pública.
+
+Desde então a situação econômica vem se recuperando de forma lenta e gradual, tendo reflexo direto nas finanças públicas dos Estados.
+
+Para manter o equilíbrio das contas, além das iniciativas de aumento de receita, temos um espectro de iniciativas de controle de despesas
+. Primeiramente temos o conjunto de ações de controle das despesas de Pessoal e Custeio para prestação de serviços básicos à
+população (limitação dos reajustes de folha, controle dos contratos continuados, redução racionalizada de quantitativos, entre outros), cuja
+efetividade sempre foi limitada pelo nível de amarração dessas despesas no orçamento, como ocorre em todo o país (os resultados
+obtidos se limitam a crescimento menor que a inflação ou não crescimento). Por outro lado, a proteção das amarrações legais e dos
+direitos adquiridos é muito menor nos investimentos, cujo patamar acabou por ser o mais sacrificado. 
+Dessa forma, especificamente em Pernambuco, os investimentos e inversões anuais, que no período 2009-2014 representaram em média
+ 12,0% das despesas totais anuais, no período 2015-2020 apenas significaram 4,1% das despesas do Estado por ano.
+
+Em 2020, diversas medidas adicionais de contingenciamento no Orçamento e controle dos gastos nas diversas camadas da despesa (
+orçamento, licitação, empenho, contratação), não só dos Investimentos, mas também de Custeio, foram necessárias para a garantia do
+fluxo de recursos ao enfrentamento da crise sanitária, ficando sobrestados diversos projetos da pauta do desenvolvimento econômico e
+social de Pernambuco.
+
+Esse conjunto de medidas não permitiu que a pandemia, em conjunto com seus efeitos econômicos, tirasse o Estado de sua trajetória de
+equilíbrio fiscal, tendo Pernambuco hoje possibilidade, por seus indicadores de fechamento de 2020, de obter a classificação CAPAG B
+necessária à Garantia da União em seus financiamentos. Esse êxito, portanto, é decorrente de anos de evolução gradual nos indicadores,
+com obtenção e resultados primários e orçamentários positivos, redução de Restos a Pagar e geração de poupança corrente, possíveis
+pelo controle do patamar de investimentos; pela racionalização e contingenciamento das despesas correntes; e ainda por iniciativas de
+aumento de receita sem ampliação da carga tributária.
+
+Dessa forma, a obtenção do CAPAG B, obtida em abril de 2021 conforme disponibilizado no painel de consulta da Capacidade de
+Pagamento dos Estados e do Distrito Federal da Secretaria do Tesouro Nacional, é um marco para a gestão fiscal estadual, que agora
+tem como meta a recolocação de seu patamar de investimentos. 
+
+Opção pelo Agente Financiador
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 14
+
+As condições financeiras detalhadas acima indicam que a operação em tela terá um custo efetivo inferior à taxa máxima informada na
+Tabela de Custo Máximo por prazos, para operações de crédito de Estados e Municípios com garantia da União, válida a partir de 04/04/
+2022, conforme aprovado pelo Comitê de Garantias da STN. Dessa forma, torna-se elegível para recebimento de garantia da União, em
+conformidade com o disposto na Portaria do Ministério da Fazenda nº 501, de 24/11/2017.
+
+Além disso, conforme quadros comparativos constante em anexo, o custo do Banco Interamericano de Desenvolvimento - BID tende a ser
+bastante competitivo em comparação a outros agentes financeiros multilaterais, conforme no ANEXO A - Fig 04, que compara as
+condições da operação em tela com operações em tramitação na Secretaria do Tesouro Nacional.
+
+Com base nisso, considerando: (a) as taxas praticadas por outros agentes financiadores externos, conforme apresentado no quadro
+comparativo acima; (b) a experiência do BID com operações envolvendo Judiciários estaduais, como o PROMOJUD Ceará; (c) a
+experiência do BID com o Estado de Pernambuco na realização de projetos em diversas áreas de conhecimento, em especial na área
+tributária e financeira; optou-se pelo BID para contratação do financiamento em tela.
+
+Em relação ao Projeto, o BID é o maior parceiro em projetos de governo digital na América Latina, tendo desenvolvido projetos com
+produtos similares em países como Argentina, Chile, Colômbia, Panamá, Peru e, especialmente, Uruguai, com quem o BID trabalhou
+durante mais de 12 anos em 8 projetos, compreendendo toda a agenda digital (incluindo três programas para saúde digital). Atualmente, o
+ Uruguai está entre os 10 países mais digitais do mundo (Digital Nations).
+
+Os projetos financiados pelo BID buscam contribuir, de forma eficaz, para o desenvolvimento econômico e social dos países latino-
+americanos e do Caribe, com foco em resultados econômicos e ambientalmente sustentáveis, promovendo a inclusão social, a
+produtividade, inovação e integração econômica. Fornecendo assistência técnica desde a identificação e desenvolvimento de projetos até
+a sua implementação, disponibilizando aos mutuários e executores um arcabouço de ferramentas de planejamento e gestão, apoiadas em
+metodologias de avaliação técnica, econômica, social e ambiental.
+
+Por fim, não é demais ressaltar que o Estado de Pernambuco já demonstrou diversas vezes ser exitoso em suas operações de crédito
+junto ao Banco Interamericano de Desenvolvimento - BID, com a correta aplicação dos recursos obtidos por meio de tais financiamentos,
+buscando sempre atender o interesse público, agindo de maneira eficiente e trazendo melhorias reais à vida da população. Ademais, os
+compromissos assumidos no âmbito das operações sempre foram cumpridos, o que atesta empenho em atingir os objetivos traçados e
+responsabilidade com os recursos destinados às políticas de investimentos.
+
+
+
+2.11. PROJETO/BENEFICIÁRIO
+(i) Relacionamos as ações contidas no projeto com base na previsão do item 4 do anexo da Resolução Cofiex nº 17/2021.
+
+
+Itens de Avaliação -> Pontuação
+
+1. Verificar se o programa/projeto contém iniciativas que podem resultar em: até 2,000
+
+1.1. promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação -> Sim
+Atendido pelo Produto 1 - Ambiente tecnológico de nuvem implantado constante no Componente 1 - Infraestrutura tecnológica e
+conectividade, tendo em vista que a adoção de contratação em nuvem diminui a necessidade de descarte de equipamentos (lixo eletrônico
+).
+
+1.2. eficiência energética, geração e/ou uso de energia de fontes renováveis -> Sim
+Atendido pelo Produto 1 - Ambiente tecnológico de nuvem implantado constante no Componente 1 - Infraestrutura tecnológica e
+conectividade, considerando que o projeto irá promover a diminuição do consumo de energia atual desprendida pelo DataCenter próprio
+do TJPE.   
+
+1.3. implantação e/ou ampliação de ações de saneamento básico -> Não
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 15
+1.4. gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes -> Não
+
+1.5. conservação e manejo da biodiversidade e/ou de recursos florestais -> Não
+
+1.6. melhoria do ambiente de negócios e/ou oportunidades -> Não
+
+1.7. benefícios para empreendedores individuais, micro e pequenas empresas -> Não
+
+1.8. geração de emprego e renda para populações de baixa renda e vulneráveis -> Não
+
+1.9. infraestrutura e/ou equipamentos sociais para populações de baixa renda e vulneráveis -> Sim
+De acordo com o Produto 6 - Inclusão digital e profissional de jovens em cumprimento de medidas socioeducativas constante no
+Componente 2 - Transformação Digital para aprimorar os serviços
+Destina-se a aperfeiçoar o desenvolvimento de adolescentes em cumprimento de medida socioeducativas, compreendendo a criação de
+um Laboratório Digital e a criação de um banco de dados compartilhado com as instituições partícipes do sistema socioeducativo para o
+acompanhamento e inserção desses jovens no mercado de trabalho. 
+
+1.10. ações de inclusão de minorias sociais entre os beneficiários -> Sim
+De acordo com o Produto 6 - Inclusão digital e profissional de jovens em cumprimento de medidas socioeducativas constante no
+Componente 2 - Transformação Digital para aprimorar os serviços
+Destina-se a aperfeiçoar o desenvolvimento de adolescentes em cumprimento de medida socioeducativas, compreendendo a criação de
+um Laboratório Digital e a criação de um banco de dados compartilhado com as instituições partícipes do sistema socioeducativo para o
+acompanhamento e inserção desses jovens no mercado de trabalho. 
+
+1.11. políticas voltadas para juventude, gênero e raça -> Sim
+Atendido pelos Produto 6 - Inclusão digital e profissional de jovens em cumprimento de medidas socioeducativas, Produtos 4 -
+Transformação digital no atendimento à mulher vítima de violência doméstica, Produto 5 - Transformação digital nas Política de Prevenção
+e Enfrentamento do Assédio Moral, do Assédio Sexual e da Discriminação,  constantes no Componente 2 - Transformação Digital para
+aprimorar os serviços
+
+1.12. melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão e/ou de participação cidadã -> Sim
+A título exemplificativo, este item é atendido por vários produtos constantes no Componente 2 - Transformação Digital para aprimorar os
+serviços, tais como:
+
+Produto 1 - Sistemática para atendimento das demandas corretivas, evolutivas e de integração dos sistemas judiciais
+Produto 2 - Sistemática de governança de dados judiciais implantada
+Produto 3 - Soluções de inovação, automação e inteligência artificial
+
+1.13. melhoria das condições de educação e saúde -> Não
+
+1.14. desenvolvimento, inovação e modernização tecnológica -> Sim
+
+Este item é atendido por vários produtos constantes nos Componentes 1 e 2, tais como:
+C1 - Produto 1 - Ambiente tecnológico em nuvem implantado;
+C1 - Produto 3 - Parque tecnológico modernizado;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 16
+C1 - Produto 4 - Implantação de infraestrutura de wifi;
+C2 - Produto 3 - Soluções de inovação, automação e inteligência artificial
+
+1.15. arranjos de financiamento que incentivem/contribuam com a participação privada -> Não
+
+
+(ii) As ações aqui previstas deverão repercutir em todos os usuários da Justiça em geral, como advogados (+/- 95.000) na medida em que
+impactam de forma significativa na qualidade dos serviços prestados pelo Tribunal de Justiça do Estado de Pernambuco com a
+implantação de iniciativas de racionalização e a automação dos processos de trabalho, a disponibilização de serviços digitais e o uso da
+inteligência artificial para agilizar o trâmite processual. Os colaboradores do TJPE, quais sejam, magistrados (+/-600), servidores (+/- 7.500
+), terceirizados e estagiários, pelas ações de desenvolvimento de pessoas e de melhoria das condições de trabalho, por meio da
+desburocratização das atividades e do ganho de eficiência.
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Internas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Contrapartida Financeira
+CF
+US$
+8.200.000,00
+1,00
+8.200.000,00
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Banco Interamericano de Desenvolvimento
+ - BID
+BID
+US$
+32.800.000,00
+1,00
+32.800.000,00
+Total:
+41.000.000,00
+41.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+Arranjo Institucional
+ 
+O mutuário da operação será o Governo do Estado de Pernambuco.
+ 
+A coordenação geral do projeto será conduzida por uma unidade de gestão própria do Tribunal de Justiça do Estado de Pernambuco (
+TJPE).
+
+A Unidade de Coordenação será estruturada por meio de uma Unidade de Gestão do Projeto, vinculada diretamente à Presidência,
+composta 01 (um) Coordenador Geral da Unidade, 01 (um) Coordenador Contábil e Financeiro, 01 (um) Coordenador de Aquisições. 01
+Coordenador de Monitoramento e Avaliação, 05 (cinco) Líderes de Produto do TJ com perfil de Gestor de Projeto, 01 (um) Assessor
+Jurídico.
+
+A execução do Projeto dar-se-á pelas equipes dos projetos que terá um líder formalmente instituído. A integração entre as ações no
+âmbito do Projeto será realizada pela unidade de gestão em atuação conjunta com as equipes dos produtos.
+
+A Unidade de Coordenação do Projeto atuará em parceria com órgãos de cooperação internos ou externos, dentre os quais, Assessoria
+Jurídica da Presidência, Diretoria Geral, Secretaria de Tecnologia da Informação e Comunicação, Comissão Permanente de Licitação,
+Diretoria Financeira e Coordenadoria de Planejamento Estratégico, equipes que serão eventualmente fortalecidas para as contratações
+específicas do financiamento.
+
+Caberá à unidade de coordenação, além da prestação de contas exigida pela instituição financeira e pelos órgãos de Controle, a produção
+de relatório semestral ao Tribunal Pleno do TJPE sobre o desenvolvimento do projeto, indicando a evolução dos trabalhos, bem como
+medidas a serem adotadas para o fiel cumprimento do cronograma.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 17
+
+A Matriz de Responsabilidade do Projeto descreve as principais competências/atribuições de cada um dos atores envolvidos na sua
+execução, por área de intervenção, da seguinte forma:
+
+ I: Coordenador Geral: interlocuções do TJPE com o BID;
+
+II: Coordenador Contábil e Financeiro: planejamento, requerimento, gerenciamento, aprovação dos recursos e efetuação da prestação de
+contas;
+
+III: Coordenador de Aquisições: atua nos processos de aquisições, no monitoramento e intervenções, verificando a conformidade com as
+políticas do BID;
+
+IV: Coordenador de Monitoramento e Avaliação: emissão de relatório semestral de progresso dos indicadores;
+
+V: Líderes de Produto do TJ, com perfil de Gestor de Projeto: responsáveis pela elaboração dos Termos de Referência TDRs, podendo
+contar com apoio de especialistas/consultoria, a depender da complexidade;
+
+VI: Assessor Jurídico: prestar assessoria, mediante pareceres, em matéria jurídica, à vista das normas e princípios do Direito aplicáveis
+aos casos concretos apresentados.
+
+Ver detalhamento anexo D. 
+4.2. Execução/Executores
+Executor: Tribunal de Justiça de Pernambuco
+Representante Oficial: Luiz Carlos de Barros Figueirêdo
+Endereço da Sede: Praça da República, s/n - Santo Antônio
+E-mail Institucional:
+Telefone: (81) 3182-0355
+Fax:
+CNPJ: 11431327000134 
+UF:
+4.3. Execução/Prazo
+Prazo de Desembolso:
+5
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - COMPONENTE 1: INFRAESTRUTURA TECNOLÓGICA E CONECTIVIDADE
+23.663.200,00
+378.611,20
+1.514.444,80
+      P - Produto 1 - Ambiente tecnológico em nuvem implantado
+6.903.200,00
+110.451,20
+441.804,80
+      P - Produto 2 - Implantação de protocolos de segurança da informação e adequação à LGPD
+3.740.000,00
+59.840,00
+239.360,00
+      P - Produto 3 - Parque tecnológico modernizado
+11.020.000,00
+176.320,00
+705.280,00
+      P - Produto 4 - Implantação de infraestrutura de wifi
+2.000.000,00
+32.000,00
+128.000,00
+C - COMPONENTE 2: TRANSFORMAÇÃO DIGITAL PARA APRIMORAR OS SERVIÇOS 
+14.776.800,00
+236.428,80
+945.715,20
+P - Produto 1 - Sistemática para atendimento das demandas corretivas, evolutivas e de
+integração dos sistemas judiciais
+11.817.000,00
+189.072,00
+756.288,00
+      P - Produto 2 - Sistemática de governança de dados judiciais implantada
+1.009.600,00
+16.153,60
+64.614,40
+      P - Produto 3 - Soluções de inovação, automação e inteligência artificial
+1.550.200,00
+24.803,20
+99.212,80
+      P - Produto 4 - Transformação digital no atendimento à mulher vítima de violência doméstica
+200.000,00
+3.200,00
+12.800,00
+P - Produto 5 - Tranformação digital nas Política de Prevenção e Enfrentamento do Assédio Moral
+, do Assédio Sexual e da Discriminação
+100.000,00
+1.600,00
+6.400,00
+P - Produto 6 - Inclusão digital e profissional de jovens em cumprimento de medidas
+socioeducativas
+100.000,00
+1.600,00
+6.400,00
+C - COMPONENTE 3:  TRANSFORMAÇÃO DIGITAL PARA FORTALECER A GOVERNANÇA E A
+GESTÃO
+1.660.000,00
+33.600,00
+134.400,00
+      P - Produto 1 - Modelo de Governança Corporativa e Gestão Estratégica aprimorados
+600.000,00
+9.600,00
+38.400,00
+      P - Produto 2 - Modelo de Gestão de Pessoas para transformação digital (plataforma de software)
+1.000.000,00
+16.000,00
+64.000,00
+      P - Produto 3 - Fortalecimento da captação e retenção de talento digital
+60.000,00
+8.000,00
+32.000,00
+C - COMPONENTE 4 - GESTÃO E ADMINISTRAÇÃO 
+900.000,00
+14.400,00
+57.600,00
+      P - Produto 1 - Monitoramento e avaliação 
+700.000,00
+11.200,00
+44.800,00
+      P - Produto 2 - Auditoria 
+200.000,00
+3.200,00
+12.800,00
+Total
+0,00
+663.040,00
+2.652.160,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 18
+Ano 2
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - COMPONENTE 1: INFRAESTRUTURA TECNOLÓGICA E CONECTIVIDADE
+946.528,00
+3.786.112,00
+      P - Produto 1 - Ambiente tecnológico em nuvem implantado
+276.128,00
+1.104.512,00
+      P - Produto 2 - Implantação de protocolos de segurança da informação e adequação à LGPD
+149.600,00
+598.400,00
+      P - Produto 3 - Parque tecnológico modernizado
+440.800,00
+1.763.200,00
+      P - Produto 4 - Implantação de infraestrutura de wifi
+80.000,00
+320.000,00
+C - COMPONENTE 2: TRANSFORMAÇÃO DIGITAL PARA APRIMORAR OS SERVIÇOS 
+591.072,00
+2.364.288,00
+P - Produto 1 - Sistemática para atendimento das demandas corretivas, evolutivas e de
+integração dos sistemas judiciais
+472.680,00
+1.890.720,00
+      P - Produto 2 - Sistemática de governança de dados judiciais implantada
+40.384,00
+161.536,00
+      P - Produto 3 - Soluções de inovação, automação e inteligência artificial
+62.008,00
+248.032,00
+      P - Produto 4 - Transformação digital no atendimento à mulher vítima de violência doméstica
+8.000,00
+32.000,00
+P - Produto 5 - Tranformação digital nas Política de Prevenção e Enfrentamento do Assédio Moral
+, do Assédio Sexual e da Discriminação
+4.000,00
+16.000,00
+P - Produto 6 - Inclusão digital e profissional de jovens em cumprimento de medidas
+socioeducativas
+4.000,00
+16.000,00
+C - COMPONENTE 3:  TRANSFORMAÇÃO DIGITAL PARA FORTALECER A GOVERNANÇA E A
+GESTÃO
+64.000,00
+256.000,00
+      P - Produto 1 - Modelo de Governança Corporativa e Gestão Estratégica aprimorados
+24.000,00
+96.000,00
+      P - Produto 2 - Modelo de Gestão de Pessoas para transformação digital (plataforma de software)
+40.000,00
+160.000,00
+      P - Produto 3 - Fortalecimento da captação e retenção de talento digital
+0,00
+0,00
+C - COMPONENTE 4 - GESTÃO E ADMINISTRAÇÃO 
+36.000,00
+144.000,00
+      P - Produto 1 - Monitoramento e avaliação 
+28.000,00
+112.000,00
+      P - Produto 2 - Auditoria 
+8.000,00
+32.000,00
+Total
+0,00
+1.637.600,00
+6.550.400,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - COMPONENTE 1: INFRAESTRUTURA TECNOLÓGICA E CONECTIVIDADE
+1.514.444,80
+6.057.779,20
+      P - Produto 1 - Ambiente tecnológico em nuvem implantado
+441.804,80
+1.767.219,20
+      P - Produto 2 - Implantação de protocolos de segurança da informação e adequação à LGPD
+239.360,00
+957.440,00
+      P - Produto 3 - Parque tecnológico modernizado
+705.280,00
+2.821.120,00
+      P - Produto 4 - Implantação de infraestrutura de wifi
+128.000,00
+512.000,00
+C - COMPONENTE 2: TRANSFORMAÇÃO DIGITAL PARA APRIMORAR OS SERVIÇOS 
+945.715,20
+3.782.860,80
+P - Produto 1 - Sistemática para atendimento das demandas corretivas, evolutivas e de
+integração dos sistemas judiciais
+756.288,00
+3.025.152,00
+      P - Produto 2 - Sistemática de governança de dados judiciais implantada
+64.614,40
+258.457,60
+      P - Produto 3 - Soluções de inovação, automação e inteligência artificial
+99.212,80
+396.851,20
+      P - Produto 4 - Transformação digital no atendimento à mulher vítima de violência doméstica
+12.800,00
+51.200,00
+P - Produto 5 - Tranformação digital nas Política de Prevenção e Enfrentamento do Assédio Moral
+, do Assédio Sexual e da Discriminação
+6.400,00
+25.600,00
+P - Produto 6 - Inclusão digital e profissional de jovens em cumprimento de medidas
+socioeducativas
+6.400,00
+25.600,00
+C - COMPONENTE 3:  TRANSFORMAÇÃO DIGITAL PARA FORTALECER A GOVERNANÇA E A
+GESTÃO
+102.400,00
+409.600,00
+      P - Produto 1 - Modelo de Governança Corporativa e Gestão Estratégica aprimorados
+38.400,00
+153.600,00
+      P - Produto 2 - Modelo de Gestão de Pessoas para transformação digital (plataforma de software)
+64.000,00
+256.000,00
+      P - Produto 3 - Fortalecimento da captação e retenção de talento digital
+0,00
+0,00
+C - COMPONENTE 4 - GESTÃO E ADMINISTRAÇÃO 
+57.600,00
+230.400,00
+      P - Produto 1 - Monitoramento e avaliação 
+44.800,00
+179.200,00
+      P - Produto 2 - Auditoria 
+12.800,00
+51.200,00
+Total
+0,00
+2.620.160,00
+10.480.640,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - COMPONENTE 1: INFRAESTRUTURA TECNOLÓGICA E CONECTIVIDADE
+1.514.444,80
+6.057.779,20
+      P - Produto 1 - Ambiente tecnológico em nuvem implantado
+441.804,80
+1.767.219,20
+      P - Produto 2 - Implantação de protocolos de segurança da informação e adequação à LGPD
+239.360,00
+957.440,00
+      P - Produto 3 - Parque tecnológico modernizado
+705.280,00
+2.821.120,00
+      P - Produto 4 - Implantação de infraestrutura de wifi
+128.000,00
+512.000,00
+C - COMPONENTE 2: TRANSFORMAÇÃO DIGITAL PARA APRIMORAR OS SERVIÇOS 
+945.715,20
+3.782.860,80
+P - Produto 1 - Sistemática para atendimento das demandas corretivas, evolutivas e de
+integração dos sistemas judiciais
+756.288,00
+3.025.152,00
+      P - Produto 2 - Sistemática de governança de dados judiciais implantada
+64.614,40
+258.457,60
+      P - Produto 3 - Soluções de inovação, automação e inteligência artificial
+99.212,80
+396.851,20
+      P - Produto 4 - Transformação digital no atendimento à mulher vítima de violência doméstica
+12.800,00
+51.200,00
+P - Produto 5 - Tranformação digital nas Política de Prevenção e Enfrentamento do Assédio Moral
+, do Assédio Sexual e da Discriminação
+6.400,00
+25.600,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 19
+P - Produto 6 - Inclusão digital e profissional de jovens em cumprimento de medidas
+socioeducativas
+6.400,00
+25.600,00
+C - COMPONENTE 3:  TRANSFORMAÇÃO DIGITAL PARA FORTALECER A GOVERNANÇA E A
+GESTÃO
+102.400,00
+409.600,00
+      P - Produto 1 - Modelo de Governança Corporativa e Gestão Estratégica aprimorados
+38.400,00
+153.600,00
+      P - Produto 2 - Modelo de Gestão de Pessoas para transformação digital (plataforma de software)
+64.000,00
+256.000,00
+      P - Produto 3 - Fortalecimento da captação e retenção de talento digital
+0,00
+0,00
+C - COMPONENTE 4 - GESTÃO E ADMINISTRAÇÃO 
+57.600,00
+230.400,00
+      P - Produto 1 - Monitoramento e avaliação 
+44.800,00
+179.200,00
+      P - Produto 2 - Auditoria 
+12.800,00
+51.200,00
+Total
+0,00
+2.620.160,00
+10.480.640,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - COMPONENTE 1: INFRAESTRUTURA TECNOLÓGICA E CONECTIVIDADE
+378.611,20
+1.514.444,80
+4.732.640,00
+18.930.560,00
+      P - Produto 1 - Ambiente tecnológico em nuvem implantado
+110.451,20
+441.804,80
+1.380.640,00
+5.522.560,00
+      P - Produto 2 - Implantação de protocolos de segurança da informação e adequação à LGPD
+59.840,00
+239.360,00
+748.000,00
+2.992.000,00
+      P - Produto 3 - Parque tecnológico modernizado
+176.320,00
+705.280,00
+2.204.000,00
+8.816.000,00
+      P - Produto 4 - Implantação de infraestrutura de wifi
+32.000,00
+128.000,00
+400.000,00
+1.600.000,00
+C - COMPONENTE 2: TRANSFORMAÇÃO DIGITAL PARA APRIMORAR OS SERVIÇOS 
+236.428,80
+945.715,20
+2.955.360,00
+11.821.440,00
+P - Produto 1 - Sistemática para atendimento das demandas corretivas, evolutivas e de
+integração dos sistemas judiciais
+189.072,00
+756.288,00
+2.363.400,00
+9.453.600,00
+      P - Produto 2 - Sistemática de governança de dados judiciais implantada
+16.153,60
+64.614,40
+201.920,00
+807.680,00
+      P - Produto 3 - Soluções de inovação, automação e inteligência artificial
+24.803,20
+99.212,80
+310.040,00
+1.240.160,00
+      P - Produto 4 - Transformação digital no atendimento à mulher vítima de violência doméstica
+3.200,00
+12.800,00
+40.000,00
+160.000,00
+P - Produto 5 - Tranformação digital nas Política de Prevenção e Enfrentamento do Assédio Moral
+, do Assédio Sexual e da Discriminação
+1.600,00
+6.400,00
+20.000,00
+80.000,00
+P - Produto 6 - Inclusão digital e profissional de jovens em cumprimento de medidas
+socioeducativas
+1.600,00
+6.400,00
+20.000,00
+80.000,00
+C - COMPONENTE 3:  TRANSFORMAÇÃO DIGITAL PARA FORTALECER A GOVERNANÇA E A
+GESTÃO
+29.600,00
+118.400,00
+332.000,00
+1.328.000,00
+      P - Produto 1 - Modelo de Governança Corporativa e Gestão Estratégica aprimorados
+9.600,00
+38.400,00
+120.000,00
+480.000,00
+      P - Produto 2 - Modelo de Gestão de Pessoas para transformação digital (plataforma de software)
+16.000,00
+64.000,00
+200.000,00
+800.000,00
+      P - Produto 3 - Fortalecimento da captação e retenção de talento digital
+4.000,00
+16.000,00
+12.000,00
+48.000,00
+C - COMPONENTE 4 - GESTÃO E ADMINISTRAÇÃO 
+14.400,00
+57.600,00
+180.000,00
+720.000,00
+      P - Produto 1 - Monitoramento e avaliação 
+11.200,00
+44.800,00
+140.000,00
+560.000,00
+      P - Produto 2 - Auditoria 
+3.200,00
+12.800,00
+40.000,00
+160.000,00
+Total
+41.000.000,00
+659.040,00
+2.636.160,00
+8.200.000,00
+32.800.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+Para contratação da operação pleiteada, será enviada para apreciação da Assembleia Legislativa do Estado de Pernambuco, pedido de
+modificação  à Lei n º 17.166 de 5 de março de 2021, modificada pela Lei nº 17.475, de 5 de novembro de 2021, que autoriza o Poder
+Executivo a realizar operação de crédito, a fim de que a autorização legislativa alcance o pleito em questão.
+Anexo C - Minuta da Lei Autorizativa do TJPE
+
+
+
+
+5.2. RISCOS/CONTRATAÇÕES
+As principais contratações previstas estão resumidas no Anexo E - Quadro resumo de categoria dos gastos.
+
+A seguir os principais riscos relacionados às contratações que foram identificados, e as correspondentes ações mitigatórias.
+
+Risco: Atraso no processo licitatório
+Mitigação: Revisão criteriosa dos documentos da contratação e negociação prévia dos prazos com a Comissão de Licitação.
+
+Risco: Processo de aquisição resultar em licitação deserta
+Mitigação: Realização de pesquisa de mercado e levantamento do máximo de referências sobre os possíveis fornecedores.
+
+Risco: Projeto básico incompleto ou inadequado
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 20
+Mitigação: Revisão criteriosa dos documentos da contratação e capacitação prévia das equipes responsáveis pela elaboração das
+documentações. 
+
+Risco: Limitação indevida da competição
+Mitigação: Revisão criteriosa dos requisitos elencados no Termo de Referência.
+
+Risco: Descumprimento de cláusulas contratuais devido à situação financeira da empresa contratada
+Mitigação: Adoção de critérios de seleção adequados. 
+
+Risco: Gestão contratual conduzida sem estabelecimento de processo de trabalho padronizado
+Mitigação: Padronizar processo de trabalho para contratação em toda a organização, visando aprimorar a etapa de gestão contratual.
+
+Risco:Descontinuidade da solução contratada
+Mitigação: Adoção de critérios que inviabilizem a adoção de solução obsoleta ou próximo da obsolescência.
+
+Risco: Não gestão do contrato segundo as regras nele contidas
+Mitigação: Revisão criteriosa do Edital e das atas de registro de preço de outras instituições.
+
+Risco: Impossibilidade de aplicação de penalidades necessárias durante a execução do contrato
+Mitigação: Melhor especificação das cláusulas de penalidades no edital para comportamentos inadequados dos licitantes.
+
+Risco: Dependência excessiva em relação à contratada
+Mitigação: Revisão dos artefatos do processo de contratação para inclusão de procedimentos relativos à transferência de conhecimentos,
+como reuniões mensais, oficinas e treinamentos, bem como os produtos esperados desses procedimentos.
+
+Risco: Fiscalização inadequada dos contratos
+Mitigação: Realização de capacitação e formação continuada de servidores para as funções de gestor e fiscal de contratos.
+
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+Não se aplica.
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+Não se aplica.
+5.5. RISCOS/IMPACTO SOCIAL
+Impacto Social Positivo
+
+O processo de transformação digital e de aperfeiçoamento da governança institucional pelo qual passará o TJPE impactará diretamente
+no aumento da eficiência da prestação jurisdicional, sobretudo no que tange à celeridade dos atos processuais e à acessibilidade do
+cidadão aos serviços da Justiça Estadual.
+
+Um sistema de justiça modernizado pela tecnologia e pela adoção das melhores práticas de gestão garantirá a simplificação e
+desburocratização do acesso dos jurisdicionados, cidadãos e pessoas jurídicas ao Poder Judiciário, ao tempo em que permitirá uma
+solução mais ágil dos processos.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:03
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60906
+Página: 21
+Com isso, espera-se que o incremento na acessibilidade proporcionado pela transformação digital, por um lado, aperfeiçoe a garantia do
+princípio da inafastabilidade da Justiça a todos que dela necessitar e, por outro, que a pronta entrega da Justiça - seja na concretização de
+direitos humanos ou na solução de conflitos de forma mais rápida e eficiente - seja instrumento de promoção de maior segurança jurídica,
+ de pacificação e desenvolvimento social sustentável do Estado de Pernambuco. 
+
+Importante, registrar que o DIGITALJUS-PE alinha-se com os Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030 da ONU,
+particularmente com o objetivo número 16, ao buscar contribuir na construção de uma sociedade mais pacífica e inclusiva por meio do
+acesso à justiça para todos.
+5.6. RISCOS/REASSENTAMENTOS
+Não se aplica.
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 

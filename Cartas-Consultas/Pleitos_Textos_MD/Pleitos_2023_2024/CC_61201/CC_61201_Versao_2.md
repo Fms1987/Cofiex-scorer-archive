@@ -1,0 +1,2601 @@
+# Carta-Consulta CC_61201 — Versao 2 (SIGS)
+
+
+CARTA CONSULTA
+
+Programa para a Transformação Digital do Governo do Estado do Piauí - PIAUÍ MAIS
+DIGITAL
+
+Nº Carta Consulta: 61201
+Processo: 03101.002117/2024-63
+Mutuário: Estado do Piauí
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  12 de Julho de 2024
+
+Fontes Internas:
+Contrapartida Financeira: US$ 12.500.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 50.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+1.1.1 Aspectos Gerais do Estado
+
+O Estado do Piauí possui uma área de 251.755,481 km², composto por 224 municípios e um total de 3.271.199 de habitantes.
+
+No ano de 2021, o PIB foi equivalente a R$64,028 bi, 0,7% do PIB Nacional e 4,3% do Nordeste. Em 2021, o PIB per capita estadual
+apresentou um incremento nominal de 13,27% em comparação com 2020, alcançando cerca de R$19.465,60, o que equivale a 46,1% do
+PIB per capita nacional, sendo que em 2010, o PIB per capita do Piauí equivalia a 35% do PIB per capita nacional.
+
+Em 2021 o IDH foi de 0,690, o que o posiciona o Estado na 7ª posição entre os estados nordestinos e na 23ª posição em relação ao Brasil
+.
+
+Com relação à CAPAG "B" atribuída ao Estado, decorreu da avaliação do último exercício fiscal (2023) avaliado pela STN. A evolução do
+endividamento nos três últimos exercícios, definida como a Relação Dívida Consolidada (DC) / Receita Corrente Líquida (RCL) se
+apresentou em 2021: 79,07%; em 2022: 67,13% e em 2023: 68,30%. As aplicações mínimas em saúde (12%) e educação (25%) têm sido
+cumpridas. Conforme Balanço publicado em 2024, o Estado deve permanecer na CAPAG "B".
+
+1.1.2 DIAGNÓSTICO DO GOVERNO DIGITAL
+
+O Estado do Piauí ocupa a 22ª posição (de 27) no Índice de Oferta de Serviços Digitais da ABEP-TIC 2023 (Anexo 01), com 73,75 de 150
+pontos, indicando um nível médio-baixo de desenvolvimento em governo digital. Há oportunidades significativas de melhoria nas
+capacidades para oferta de serviços digitais. Ademais, o Piauí está em 4º lugar na normatização de temas de governo digital entre os
+estados brasileiros.
+
+Pesquisa realizada pelo BID, em dezembro de 2020, com uma amostra de 300 entrevistados residentes no Estado, maiores de 16 anos ,
+apurou que 88,3% declararam estar adaptados ao mundo digital. Sobre conectividade, 89% declararam ter acesso a internet pelo celular e
+71,7% ter acesso a WiFi em casa. Desafios como conectividade deficiente, acesso limitado a serviços digitais e exclusão digital afetam
+progresso e crescimento econômico, considerando os avanços da economia digital e das novas formas de se fazerem negócios, com
+criptomoedas e ativos intangíveis,  que afetam tanto o setor privado quanto o setor público.
+
+A pesquisa do BID mostrou que, entre os usuários de serviços públicos digitais ou telefônicos, 48% estão satisfeitos, abaixo da média
+nacional e do Nordeste 53%. Além disso, 50% enfrentaram dificuldades, comparado a 44,8% no Brasil e 43,1% no Nordeste. As principais
+dificuldades foram: serviço fora do ar 28,8%, falta de informações 23,1%, aplicativo inadequado 21,2%, conexão lenta 11,5%, necessidade
+de ajuda 9,6% e perda de informação 5,8%. Quanto à conclusão dos serviços, 59,6% dos respondentes realizaram o procedimento 100%
+digital, 25% completaram uma etapa presencial e 13,5% de forma totalmente presencial.
+
+Apesar do investimento de R$16 milhões na plataforma Gov.Pi Cidadão, o atendimento ao cidadão ainda enfrenta desafios. Existem 86
+portais web e 147 sistemas, resultando em tempo excessivo para buscar informações em diferentes fontes, aumentando o risco de
+vazamento de dados. Em 2023, os 47 "Espaços da Cidadania" realizaram 497.414 atendimentos presenciais. No entanto, apenas 2,6%
+dos cidadãos que avaliaram os serviços pelos aplicativos Google estão satisfeitos com seu uso.
+
+Um outro desafio é a baixa eficiência da Governança Digital do Estado, causado pela inexistência de um modelo de aprendizagem
+baseado em análise de dados. Atualmente os dados fragmentados e isolados consomem 635 TB de armazenamento,  aumentando em 33
+% o consumo em relação a 2023.
+
+Na educação o Piauí enfrenta desafios que comprometem a preparação dos estudantes para o futuro digital: Segundo a SEDUC, muitas
+escolas não possuem laboratórios adequados, e a conectividade é insuficiente, limitando o acesso a recursos tecnológicos para a
+educação moderna. Muitos professores não estão preparados para utilizar ferramentas digitais em suas práticas.
+
+Com relação à economia digital, o Piauí tem 859 empresas de serviços de tecnologia e informação, ocupando a 23ª posição em inovação
+no Brasil. Este número subestima a economia digital devido à dificuldade em mensurar sua participação nas cadeias produtivas.
+
+Apenas 0,58% da força de trabalho no Piauí está em atividades de tecnologia e informação, abaixo da média nacional e do Nordeste. A
+desigualdade de gênero é alta, com desocupação de mulheres pretas ou pardas atingindo 13%, acima da taxa geral de 10%.
+
+A falta de integração tecnológica dificulta políticas de combate à violência contra mulheres no Piauí. A taxa de feminicídios aumentou
+quase 80% em 2023, evidenciando a urgência de soluções tecnológicas integradas.
+
+Informações complementares: AnexoUm e AnexoDois.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+1.2.1 SOLUÇÃO PROPOSTA
+
+Estruturar o Estado do Piauí de capacidades tecnológicas em áreas estratégicas através da transformação digital, da educação
+tecnológica, empreendedora e da aplicação de tecnologias de ponta como soluções eficientes e inclusivas para combater os problemas
+apontados.
+
+(cid:10)
+
+
+Página: 3
+
+Na área da Gestão Pública, será implantado um amplo programa de transformação digital dos Serviços públicos visando maximizar a
+capacidade de atendimento, melhorar a eficiência, indicadores nacionais e ampliar o uso dos serviços pelo cidadão. O processo passa
+pelo aprimoramento da gestão pública para utilização das novas tecnologias no apoio a decisões baseada em dados. Recursos
+inovadores como plataforma de governança para a alta gestão, estratégias de transformação digital e I.A, gestão processual, governança
+de dados com data lake e machine learning serão utilizados para prever, alinhar estrategicamente e aprimorar processos administrativos
+do governo.
+
+A área tecnológica é um fator essencial para que todos os serviços tecnológicos advindos da Transformação Digital sejam executados e
+mantidos com eficiência, disponibilidade e segurança. A capacitação do corpo técnico, a modernização e integração de dados e sistemas
+legados, o desenvolvimento integrado de novos sistemas corporativos e a consolidação dos canais de informação para o cidadão,
+melhorarão os índices de avaliação dos serviços. Na parte de Cibersegurança, infraestrutura de TI, serão realizadas a reestruturação,
+redundância e ampliação do Datacenter Principal, modernização do parque de servidores, storages e implantação de soluções de
+segurança cibernética, atualização do parque de computadores corporativos e a reestruturação do cabeamento elétrico e lógico da rede
+local dos órgãos, visando robustez, escalabilidade, eficiência energética e elevação dos níveis de segurança das aplicações tecnológicas
+demandadas pelo Governo.
+
+Na área tecnológica de Conectividade e Inclusão Digital, será complementado o Backbone óptico da Rede Governo para o centro-sul do
+Piauí para contemplar comunidades isoladas e vulneráveis, ampliando a capacidade de transmissão de dados dos órgãos públicos,
+aliadas a execução de políticas de inclusão digital e de estímulo ao mercado local de provedores em troca de acesso gratuito ou
+subsidiado à população carente, alunos da rede pública ou a projetos com prefeituras, garantindo, assim, inclusão social e um acesso de
+qualidade à internet e aos sistemas do Governo do Estado.
+
+Na área educacional, estão previstas ações para preparar professores, alunos, comunidades vulneráveis e servidores públicos para
+atuarem com as novas tecnologias emergentes, bem como, a implantação de laboratórios de informática para educação tecnológica,
+capacitação em empreendedorismo digital, I.A, inovação e acesso a serviços governamentais online, promovendo inclusão e participação
+democrática.
+
+Na área social e segurança pública, além de campanhas de combate aos casos de feminicídio e violência contra a mulher, a proteção de
+pessoas em situação de vulnerabilidade será reforçada com ampliação do "App Salve Maria" ( botão do pânico digital desenvolvido pelo
+Estado do Piauí e premiado nacionalmente em 2018), para a utilização de I.A de análise de cenas acústicas, integração com tornozeleiras
+eletrônicas e emissão de medidas protetivas provisórias.
+
+Na área de Recursos hídricos e meio ambiente será implantada infraestrutura tecnológica de dados espaciais (IDE) e I.A que permitirá ao
+Estado mapear, armazenar e analisar dados espaciais, melhorando o monitoramento hídrico, ambiental e saneamento básico,
+promovendo políticas de sustentabilidade, energias renováveis e aproveitamento econômico responsável.
+
+Na área econômica, estão previstos o fortalecimento da economia digital, empreendedorismo e inovação tecnológica, com um modelo
+sustentável, criativo e inclusivo para dinamizar a economia e aumentar a competitividade do Estado. Aproveitando os avanços digitais e
+novas formas de negócios com criptomoedas e ativos intangíveis, serão promovidos cursos de habilidades digitais, mentoria e acesso a
+redes de emprego para comunidades vulneráveis e mulheres, fomentando inclusão digital, igualdade de gênero no mercado de trabalho e
+crescimento econômico, além de reduzir a vulnerabilidade desses grupos.
+
+Serão previstas ações junto a pequenos e médios produtores rurais do Piauí para promover a transformação digital no campo. Isso inclui
+cursos online e presenciais, assistência técnica, inovação em tecnologias de rastreabilidade digital, gestão e aumento de valor agregado
+dos produtos agrícolas em parcerias com cooperativas. Além disso, o fomento em P & D para inovação tecnológica, o incentivo à
+formação de startups e a facilitação das contratações públicas nesse segmento integrarão mercado, governo e academia, aumentando a
+competitividade, o trabalho e a renda.
+
+1.2.2.Resultados Esperados
+
+Os resultados esperados incluem uma governança mais eficiente e transparente; aumento do índice de transformação digital do estado e
+da participação cidadã, através da modernização e ampliação da infraestrutura; redução da exclusão social por meio da economia digital;
+fortalecimento da economia digital com novas tecnologias, empresas e competitividade; redução do desmatamento, controle efetivo dos
+recursos hídricos e diminuição das queimadas. Em relação à diversidade de gênero, o programa buscará aliar a inteligência artificial - I.A e
+formação de capacidades digitais, reduzir a violência doméstica e promover a inclusão social e econômica de populações vulneráveis,
+como comunidades quilombolas.
+
+1.2.3.Sustentabilidade
+
+O Estado elaborou um plano de sustentabilidade dos investimentos tecnológicos, Anexo XVII, financiado pelo Tesouro Estadual com R$
+891,04 milhões na LOA 2024 e R$4,3 bilhões no PPA para programas de gestão e transformação digital. O fortalecimento da SIA e do
+Conselho de Transformação Digital do Estado do Piauí assegurará a continuidade das ações do programa. Destaca-se a expertise da
+equipe executora em projetos do BID e a parceria com ETIPI e SIA.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+1.3.1.Orientações Estratégicas
+
+(cid:10)
+
+
+Página: 4
+
+O Programa Piauí Mais Digital, alinha-se com o PPA do governo federal (Anexo 02) nos objetivos: 3.2 - Promover a ampliação e o
+contínuo aperfeiçoamento das capacidades estatais com o fim de prestar serviços públicos de qualidade para a população, com o
+fortalecimento da cooperação federativa, para maior coesão nacional e 3.3 - Intensificar a transformação digital nos três níveis de governo
+para ampliar a agilidade e a capacidade de entrega de resultados à população, conforme produtos dos componentes 1, 2 e 3.
+
+No âmbito federal, a Estratégia Nacional de Governo Digital (Anexo 03), serve como referencial técnico para o Piauí Mais Digital. Seus
+principais objetivos incluem qualificar a gestão e a governança das políticas de governo digital, aprimorar a qualidade dos serviços
+públicos, ampliar a resiliência e a maturidade das estruturas tecnológicas, e otimizar a eficiência dos processos organizacionais.
+
+No âmbito estadual, são três os referenciais técnicos e estratégicos:
+
+Plano Piauí 2030 - Eixo 2 - Trabalho, Emprego e Renda, cujo objetivo é fomentar o desenvolvimento das atividades de inovação e o uso
+das tecnologias digitais no setor produtivo - Programa Fomento à Inovação e ao Acesso Digital (Anexo 04)
+
+O Governo do Piauí, ao elaborar o Plano Piauí 2030, inova ao trazer uma Visão de Futuro mais clara e objetiva que norteará os próximos
+dois ciclos de Plano Plurianual - PPA. É também um dos primeiros alinhados com metas estabelecidas em nível global a partir dos
+Objetivos do Desenvolvimento Sustentável.
+
+O Plano Plurianual (PPA) 2024-2027 (Anexo 05), instituído pela Lei N°8.253 de 20 de dezembro de 2023. O PPA está estruturado em oito
+eixos alinhados ao Plano Piauí 2030 e aos ODS/ONU. O Programa Piauí Mais Digital, alinha-se ao Eixo 8 do PPA - "Gestão por
+Resultados", que visa ampliar o portfólio de serviços públicos digitais para os cidadãos.
+
+A Lei Orçamentária Nº 8.107/2023 (Anexo 06) prevê desembolsos de R$ 891,04 milhões para 2024 e no PPA prever-se-á desembolsos da
+ordem de R$ 4.3 bilhões nos programas 0109 - GESTÃO, INOVAÇÃO E TRANSFORMAÇÃO DIGITAL, destinados à modernização da
+infraestrutura de TIC, interoperabilidade de sistemas, suporte corporativo e o programa Gov.Pi. As ações incluem modernização
+tecnológica, desenvolvimento digital, e melhorias na educação, saúde e atendimento ao cidadão.
+
+CONTRAPARTIDA
+
+Está previsto o montante de US$12,5 Milhões em contrapartidas provenientes do Tesouro Estadual, correspondendo a 20% do valor total
+do Projeto a ser financiado. A origem da contrapartida está em conformidade com o disposto na Resolução COFIEX nº 03 de 29/05/2019,
+conforme art. 2; § 1º. A contrapartida será proveniente de receitas tributárias previstas nos artigos 155, 157 e 159, inciso I, (a), da
+Constituição Federal.
+
+1.3.2.TAXA DE CÂMBIO
+
+A taxa de câmbio adotada na presente carta-consulta é de US$1,00 = R$5,0727 - Fonte: Banco Central do Brasil (Ptax - venda) 06/05/
+2024.
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa para a Transformação Digital do Governo do Estado do Piauí - PIAUÍ MAIS DIGITAL
+
+
+### 2.2. Título Abreviado
+
+
+Programa Piauí Mais Digital
+
+
+### 2.3. Mutuário
+
+
+Estado do Piauí
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Objetivo Geral
+
+O objetivo geral do Programa Piauí Mais Digital é avançar na transformação digital do Estado do Piauí, para aumentar a oferta e o acesso
+aos serviços públicos digitais e o nível de satisfação dos seus cidadãos, melhorar a relação de confiança da sociedade com o Governo,
+promover a transparência, participação e controle social.
+
+Objetivos Específicos
+
+Componente 1: Transformação digital dos serviços públicos
+
+Objetivo Específico 1:  Aumentar a eficiência, transparência e controle social  dos serviços públicos, através da governança digital.
+
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+Objetivo Específico 2: Aumentar percentualmente a oferta de serviços digitais disponibilizados em relação ao ano anterior e a velocidade
+de resolutividade dos serviços digitais disponibilizados aos cidadãos.
+
+Componente 2: Conectividade e Inclusão Digital
+
+Objetivo Específico 3: Disponibilizar conexão de internet promovendo o acesso às tecnologias digitais nos Territórios de Desenvolvimento
+do Centro Sul do Estado.
+
+Componente 3: Cibersegurança, Infraestrutura de TI e Infraestrutura Pública
+
+Objetivo Específico 4: Aumentar a eficiência operacional e a segurança dos Serviços Digitais do Governo do Estado.
+
+Componente 4: Economia Digital
+
+Objetivo Específico 5: Definir e ampliar a cadeia econômica digital do Piauí
+
+Objetivo Específico 6: Ampliar o acesso e a utilização de ferramentas digitais pelas empresas e cidadãos do Piauí, para aumentar o
+desenvolvimento econômico e a empregabilidade da mão de obra no setor de economia digital.
+
+Objetivo Específico 7: Fortalecer as capacidades e promover a inclusão digital de jovens, mulheres e pessoas em comunidades
+vulneráveis no Estado do Piauí.
+
+Objetivo Específico 8: Aumentar investimentos públicos e fortalecer o mercado de economia digital
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Descrição
+R1.1 - Índice de Transformação Digital dos
+Estados
+
+R1.2 - Índice de aumento do número de usuários
+da plataforma "gov.pi"
+
+R2.1- Aumento do número de Serviços públicos
+Digitais
+
+R2.2 - Satisfação do cidadão com a prestação
+dos serviços públicos digitais
+
+R3.1 - Quantidade de cidades do sul piauiense
+atendidas pelo backbone óptico pretendido.
+
+R4.1 - Índice de conformidade anual com a
+política de segurança do Estado
+
+R4.2 - Aumento da velocidade média de acesso
+à internet nos órgãos públicos do Estado do
+Piauí.
+R4.3 - Redução do tempo médio Mensal de
+indisponibilidade de Sistemas Críticos do Estado
+
+R5.1- Pessoal ocupado total nas atividades de
+economia digital
+
+R6.1 - Número de empresas digitais
+
+R7.1- Taxa de desocupação anual das mulheres
+de cor preta ou parda
+
+
+### 2.7. Projeto/Componentes
+
+
+ordinal
+
+serviço
+
+usuários
+
+percentual
+
+Fórmula de Cálculo Unidade de Medida
+Posicionamento do
+Estado no ranking dos
+Estados ABEP - TIC
+(número de usuários
+dos serviços públicos
+digitais) / (População
+Piauiense)
+Quantidade anual de
+serviços públicos
+disponibilizados portal
+Único de Serviços
+Gov.pi
+(quantidade de
+pessoas que
+escolheram a nota
+máxima = 5) / (
+Quantidade total de
+pessoas que
+responderam a
+avaliação) x 100;
+Escala de satisfação
+do cidadão com a
+nota de 1 a 5 na
+prestação dos
+serviços digitais
+Quantidade Anual de
+cidades atendidas
+pelo backbone óptico
+no Centro Sul do
+Estado.
+Índice Anual de
+Conformidade=
+SOMATORIO:(
+Pontuação por
+Componente da
+Política de Segurança
+)/ Total de Pontuação
+Máxima × 100%.
+Velocidade de acesso
+a internet
+
+Gigabytes (GB)
+
+Percentual
+
+cidades
+
+Quantidades de horas
+de indisponibilidade
+mensal
+Número de pessoas
+ocupadas nas
+atividades referentes
+à economia digital/
+total de pessoal
+ocupado no Piauí x
+número de empresas
+digitais instaladas
+pessoas desocupadas
+/ PEA x 100
+
+horas
+
+percentual
+
+empresas
+
+percentual
+
+
+Página: 6
+
+Meta
+3,00
+
+Linha de Base
+22,00
+
+141.000,00
+
+2.000.000,00
+
+480,00
+
+2.000,00
+
+55,20
+
+80,00
+
+0,00
+
+87,00
+
+0,00
+
+90,00
+
+0,03
+
+1,60
+
+0,58
+
+5,00
+
+0,10
+
+0,80
+
+859,00
+
+13,00
+
+1.231,00
+
+10,00
+
+
+Componentes
+C - C1 - TRANSFORMAÇÃO DIGITAL DOS SERVIÇOS PÚBLICOS
+P - P1 - Aprimoramento da Gestão Governamental por Previsibilidade e Aperfeiçoamento de Processos
+Administrativos
+P - P2 - Desenvolvimento de competência
+P - P3 - Modernização e Desenvolvimento de Sistemas Corporativos
+P - P4 - Infraestrutura de Dados Espaciais (IDE)
+P - P5 - Fortalecimento da segurança e proteção de pessoas em situação de vulnerabilidade e risco
+C - C2 - CONECTIVIDADE E INCLUSÃO DIGITAL
+P - P6 - Proporcionar Conectividade por meio de Rede Óptica para a Região Sul do Piauí
+P - P7: Projetos de Inclusão Digital em Comunidades Isoladas e vulneráveis
+C - C3 - CIBERSEGURANÇA, INFRAESTRUTURA DE TI E INFRAESTRUTURA PÚBLICA
+P - P8 - Fortalecimento da infraestrutura e dos serviços de segurança cibernética do Estado
+P - P9 - Modernização da Infraestrutura de DataCenter do Estado
+P - P10 - Modernização de Parque Tecnológico
+C - C4 - ECONOMIA DIGITAL
+P - P11 - Modelo de Economia Digital do Piauí
+P -  P12 - Programa de Capacitação e Assistência Técnica para Rastreabilidade Digital
+P - P13 - Plataforma de Fortalecimento da Economia Digital
+P - P14 - Fortalecimento de capacidades para a Economia Digital para Mulheres e Comunidades Vulneráveis
+C - C5 - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+P - PA1 - Gestão do Programa
+P - PA2 - Avaliação intermediária, final e de impacto
+P - PA3 - Auditoria
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 7
+
+Valor(US$)
+17.443.772,01
+5.929.044,84
+
+2.000.000,00
+7.209.727,17
+1.155.000,00
+1.150.000,00
+10.306.042,88
+8.746.588,69
+1.559.454,19
+26.052.436,65
+4.678.362,56
+12.500.000,00
+8.874.074,09
+7.197.748,46
+275.987,15
+1.010.058,00
+5.079.686,85
+832.016,46
+1.500.000,00
+1.000.000,00
+250.000,00
+250.000,00
+62.500.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - C1 - TRANSFORMAÇÃO DIGITAL DOS SERVIÇOS PÚBLICOS
+A transformação digital dos serviços públicos visa fortalecer a plataforma de comunicação multicanal, denominada Plataforma Gov.
+Pi Cidadão, para melhorar a eficiência e eficácia dos serviços governamentais, otimizando o fluxo de atendimento com maior
+previsibilidade e assertividade. Além disso, o projeto promove a agilidade no desenvolvimento de sistemas de gestão pública e na
+integração de diversas bases de dados através de aprendizado de máquina.
+
+P - P1 - Aprimoramento da Gestão Governamental por Previsibilidade e Aperfeiçoamento de Processos
+Administrativos
+O produto abrange o diagnóstico e implantação de plataforma de gestão estratégica da governança com consultoria e
+desenvolvimento da estratégia transformação digital e Inteligência Artificial, além do aprimoramento de processos administrativos e
+governança de dados.
+A plataforma de governança estratégica engloba desde a concepção do plano de governo até a gestão estratégica, oferecendo
+uma visão holística dos indicadores de desempenho e paineis visuais em tempo real para promover transparência e supervisão.
+As estratégias de transformação digital e IA são aplicadas em todo o executivo estadual, visando a digitalização dos serviços
+públicos e a revisão do arcabouço jurídico-institucional. Isso inclui a capacitação de servidores para lidar com novas tecnologias e
+processos, melhorando a eficiência operacional e garantindo uma implementação eficaz em todas as instâncias governamentais.
+A plataforma de modernização gestão de processos otimiza e coordena processos internos, enquanto a Plataforma de Dados
+utiliza IA e data lake para uma governança de dados baseada em evidências. Consultorias avaliarão a maturidade dos sistemas,
+apoiando a criação de uma sala de situação para monitoramento contínuo e a aplicação de algoritmos de IA para automação e
+insights, visando maior transparência e eficiência dos serviços públicos.
+Para tanto, serão implementadas as seguintes soluções:
+- Plataforma de Gestão e Governança Estadual com foco em planejamento, execução e monitoramento centralizado de plano de
+governo, planejamentos estratégicos e planos diretores, incluindo políticas ambientais, de gênero e diversidade.
+- Consultoria para diagnóstico e melhoria de práticas e gestão governamental
+- Consultoria para Diagnóstico, construção e monitoramento da execução da Estratégica de Transformação Digital e Estratégia de
+IA do Governo do Estado do Piauí
+- Plataforma de Análise e Integração de Dados
+- Consultoria em Aprendizagem de Máquina e Análise de Dados
+- Aquisição de Plataforma de IA e Machine Learning
+- Desenvolvimento de ferramenta para automação de processos com IA e diagnóstico
+- Aquisição de Plataforma Multicanal de atendimento para o Gov Pi Cidadão
+
+P - P2 - Desenvolvimento de competência
+Este produto visa capacitar colaboradores do governo e alunos da rede estadual de ensino em inteligência artificial (IA) e
+tecnologias emergentes. Através de consultoria especializada, tanto profissionais do governo quanto alunos receberão uma
+formação prática e sólida em IA.
+O programa impactará mais de 120 mil professores e estudantes, promovendo uma nova geração de cidadãos digitalmente
+alfabetizados e socialmente conscientes, com professores continuamente atualizados para integrar ferramentas digitais no ensino,
+tornando-o mais interativo e eficiente.
+
+
+Página: 8
+
+Além disso, investimentos significativos serão feitos na infraestrutura tecnológica das escolas, incluindo a criação de laboratórios
+de IA equipados com computadores de alta performance e softwares específicos. Esses laboratórios permitirão que os alunos
+apliquem conhecimentos em IA de forma prática.
+Diante do exposto, serão desenvolvidas as seguintes ações:
+- Aquisição de equipamentos para ambientes de aprendizagem
+- Capacitação em inteligência artificial e aprendizagem de máquinas para docentes do ensino público estadual
+- Capacitação para a equipe de governo em tecnologias emergentes: Inteligência Artificial, Machine Learning, Ciência de Dados e
+Blockchain
+- Capacitação em Economia Digital e suas plataformas
+
+P - P3 - Modernização e Desenvolvimento de Sistemas Corporativos
+Este produto abrange o desenvolvimento de sistemas corporativos e a modernização de sistemas legados para aprimorar a
+arquitetura existente e criar soluções que atendam às demandas tecnológicas. O projeto inclui a atualização de tecnologias e
+frameworks, tornando os sistemas mais robustos, escaláveis e seguros, alinhados com as melhores práticas do mercado. Novas
+soluções visam aumentar a produtividade e a eficiência operacional, com o desenvolvimento de APIs para integração fluida e
+segura entre sistemas e a disponibilização de serviços na plataforma Gov PI Cidadão, melhorando a experiência do usuário e
+promovendo uma governança digital mais centrada no cidadão.
+Além disso, o produto prevê a implementação de uma Plataforma Low Code para o desenvolvimento rápido de novas aplicações,
+facilitando a resposta do governo às demandas dos cidadãos. A aquisição de ferramentas que apoiará o processo de
+desenvolvimento de software e a gestão de projetos tecnológicos. Melhorias na interface da plataforma Gov PI Cidadão tornarão o
+acesso aos serviços públicos mais intuitivo e eficiente, enquanto novos canais de atendimento digital, como comandos de voz,
+proporcionarão maior acessibilidade. O produto também inclui um Modelo de Participação do Cidadão, promovendo maior
+interação e engajamento na melhoria contínua dos serviços públicos.
+Para a concepção deste produto, serão implementadas as seguintes soluções:
+- Aquisição de plataforma de gestão administrativa, contratual e pessoal da empresa pública
+- Aquisição de Plataforma Low Code
+- Serviço de modernização de sistemas legados e desenvolvimento de novos sistemas corporativas
+- Aquisição Licenças de Softwares proprietários como: GitLab Premium, Jira, Slack, Figma, Pacote Office, Ferramentas de Gestão
+de Requisitos e Testes: ReQTest, HelixRM, Visure Requirements
+
+P - P4 - Infraestrutura de Dados Espaciais (IDE)
+A Infraestrutura de Dados Espaciais (IDE) do Piauí visa capturar, armazenar, analisar e disponibilizar dados espaciais,
+estabelecendo diretrizes para garantir qualidade, segurança e interoperabilidade dos dados geoespaciais.
+Como repositório oficial de dados espaciais, a IDE permitirá monitorar mudanças no uso do solo, identificar oportunidades para
+energias renováveis, melhorar a gestão de saneamento básico e conservar biodiversidade e recursos florestais.
+Desta forma, para que o estado possa disponibilizar deste mecanismo será realizado a seguinte contratação:
+- Aquisição de Plataforma de Infraestrutura de Dados Espaciais e Capacitação
+
+P - P5 - Fortalecimento da segurança e proteção de pessoas em situação de vulnerabilidade e risco
+Visa ampliar e melhorar os serviços do Projeto Salve Maria (sobre prevenção e luta contra a violência contra a mulher), incluindo a
+implementação de tecnologias de Inteligência Artificial para análise de cenas acústicas e integração com sistemas de
+monitoramento de tornozeleira eletrônica. Além disso, prevê a emissão de medidas protetivas de caráter provisório, visando
+fortalecer a segurança e proteção das pessoas em situação de vulnerabilidade e risco.
+Com vistas ao atendimento dessas necessidades serão desenvolvidas as seguintes soluções:
+- Aquisição ou Desenvolvimento de Inteligência Artificial para análise de cenas acústicas e integração com o Salve Maria
+- Serviços de desenvolvimento de novas funcionalidades como emissão de medida protetiva provisória, integração com a
+secretaria de Justiça e secretaria de Segurança para monitoramento de tornozeleira eletrônicas para pessoas em medidas
+protetivas
+
+C - C2 - CONECTIVIDADE E INCLUSÃO DIGITAL
+Este componente é essencial para transformar o Piauí em uma sociedade digitalmente capacitada, garantindo acesso confiável à
+internet em todas as regiões, especialmente as remotas e mais carentes, através do projeto de ampliação da Infraestrutura de
+conectividade.
+Além do acesso à internet, o projeto foca na inclusão digital e capacitação tecnológica, oferecendo treinamento e suporte para que
+os cidadãos desenvolvam habilidades digitais essenciais, promovendo a participação plena na economia digital e um maior acesso
+aos serviços públicos digitais
+
+P - P6 - Proporcionar Conectividade por meio de Rede Óptica para a Região Sul do Piauí
+Este produto visa ampliar a infraestrutura de comunicação do Estado do Piauí, especificamente na região sul do Estado, através da
+construção do Cinturão Óptico Sul. Este empreendimento visa expandir a rede de fibra óptica, proporcionando uma infraestrutura
+de comunicação robusta e confiável para áreas que historicamente enfrentam desafios de conectividade. Com a implementação
+deste projeto, não apenas a região sul do estado se beneficiará de uma conectividade aprimorada, mas também será possível
+promover o desenvolvimento econômico, a educação e o acesso a serviços digitais essenciais em todo o Estado.
+Para tanto, será necessário executar a seguinte contratação:
+- Fornecimento de um anel de fibra óptica na região sul do Piauí
+
+
+Página: 9
+
+P - P7: Projetos de Inclusão Digital em Comunidades Isoladas e vulneráveis
+Este produto visa atender às necessidades das comunidades isoladas e vulneráveis do Estado do Piauí, proporcionando-lhes
+conectividade digital e promovendo a inclusão digital, por meio de implantação de laboratórios de informática em locais específicos
+da comunidade,  cedidos pelos municípios. Ao disponibilizar acesso à internet nessas áreas remotas, o projeto não apenas quebra
+barreiras geográficas, mas também abre portas para oportunidades de educação, capacitação e empreendedorismo digital. Além
+disso, ao fornecer acesso aos serviços governamentais online, as comunidades isoladas terão uma participação mais ativa na vida
+cívica, econômica e política do Estado, ampliando o exercício dos seus direitos de cidadania e contribuindo para uma sociedade
+mais inclusiva e democrática, no qual se planeja:
+- Disponibilização de conectividade em comunidades quilombolas, com capacitação de membros da comunidade
+- Aquisição de estrutura visando proporcionar acesso aos serviços digitais do governo e o ensino do empreendedorismo digital
+
+C - C3 - CIBERSEGURANÇA, INFRAESTRUTURA DE TI E INFRAESTRUTURA PÚBLICA
+Este componente busca reforçar a infraestrutura de TI e a segurança cibernética, incluindo a modernização do Data Center e do
+parque tecnológico, além de aprimorar os serviços de segurança cibernética do Estado. A segurança cibernética é crucial para
+proteger dados sensíveis e garantir a continuidade dos serviços públicos. Investir em uma infraestrutura de TI moderna e segura
+promove a inovação, o desenvolvimento e a eficiência governamental, contribuindo para o crescimento sustentável da sociedade.
+
+P - P8 - Fortalecimento da infraestrutura e dos serviços de segurança cibernética do Estado
+O produto de Fortalecimento da infraestrutura e dos serviços de segurança cibernética do Estado está focado na proteção e
+aprimoramento dos sistemas digitais do Estado do Piauí. Por meio deste projeto, busca-se realizar aquisição de equipamentos,
+consultorias em segurança e serviços de cibersegurança, com o objetivo de promover a melhoria da proteção contra ameaças
+cibernéticas, aumentar a eficiência dos sistemas de Tecnologia da Informação e Comunicação (TIC) e cultivar uma cultura de
+segurança digital e análise de riscos. Além disso, o projeto visa garantir a integridade e disponibilidade dos serviços públicos
+digitais, assegurando a proteção dos dados sensíveis e garantindo a continuidade dos serviços públicos essenciais. Em essência,
+busca-se criar um ambiente seguro e resiliente, protegendo os ativos digitais do Estado e garantindo a prestação eficaz de serviços
+públicos digitais à população.
+Diante do exposto, será necessário executar as seguintes contratações:
+- Serviços de reforma predial Data Center ETIPI
+- Implementação de SOC (Centro de Operações de Segurança): SIEM (Security Information and Event Management),  (Intrusion
+Detection/Prevention System), Vulnerability Management, Threat Intelligence
+- Aquisição de firewall de borda
+- Aquisição de Web Aplication Firewall
+- Aquisição de Solução Antivírus e Anti Spam
+- Consultoria em segurança de TI
+
+P - P9 - Modernização da Infraestrutura de DataCenter do Estado
+O projeto visa modernizar o Data Center principal do Piauí e construir um novo centro redundante, melhorando a disponibilidade e
+desempenho dos serviços governamentais. Essa modernização garante resiliência e continuidade operacional, mantendo os
+sistemas críticos acessíveis e eficientes.
+Para garantir eficiência energética, o novo Data Center adotará tecnologias avançadas e energia solar. Um layout otimizado e hiper
+convergência aumentarão a eficiência e a disponibilidade dos serviços.
+Certificações de eficiência energética como, por exemplo, o LEED (Leadership in Energy and Environmental Design) ou a
+certificação da Uptime Institute para garantir práticas de construção e operação eficientes. Dessa forma, o produto do Data Center
+estará alinhado com as diretrizes do Acordo de Paris.
+Para atingirmos todos os objetivos deste produto será necessário realizar as seguintes contratações:
+- Aquisição de solução de hiperconvergência.
+- Aquisição de Exadata e Licenciamento.
+- Aquisição de sistema de placas solares para sustentação energética do Data Center.
+- Serviço de Manutenção de Sala Cofre.
+- Aquisição de subscrição da plataforma de sustentabilidade Openshift.
+- Aquisição de subscrição de plataforma de monitoramento, performance e observabilidade com IA.
+- Modernização e atualização de equipamentos de redes (Switchs Core e de Acesso).
+- Aquisição de Equipamentos de Armazenamento Storage.
+- Construção de Data Center de Redundância Tier 3 com os seguintes equipamentos: Switchs Cores; Firewall; Nó de
+Hiperconvergência; Storage; WAF; ExaData; e, Openshift.
+
+P - P10 - Modernização de Parque Tecnológico
+Este projeto visa modernizar o parque tecnológico do estado do Piauí, que tem mais de 8 anos de uso e equipamentos obsoletos.
+O objetivo é aumentar a disponibilidade computacional para os servidores públicos e reduzir o consumo energético. Isso envolve a
+expansão da capacidade, estabilidade e continuidade operacional dos sistemas de TI governamentais. Ao atualizar e otimizar o
+parque tecnológico, o Estado promoverá uma infraestrutura de TI mais robusta, adaptável e eficiente em termos de energia, capaz
+de atender às crescentes demandas por serviços digitais. Esta modernização melhora a experiência dos usuários finais e fortalece
+a capacidade do governo de responder de forma eficaz e ágil às necessidades da população.
+A presente iniciativa irá realizar:
+- Aquisição de Computadores e Dispositivos Móveis
+- Aquisição de MacBooks e dispositivos móveis iPhone, considerando que, para desenvolver soluções para a plataforma Apple, é
+obrigatória a utilização dos equipamentos descritos.
+- Aquisição de Cabeamento Estruturado e Solução Wi-fi Corporativa
+
+
+Página: 10
+
+C - C4 - ECONOMIA DIGITAL
+O Componente IV é um pilar estratégico para o desenvolvimento do Piauí, visando impulsionar a economia digital em três frentes:
+demanda (qualificação da mão de obra), oferta (modernização produtiva) e governo (regulação e acompanhamento do setor).
+Busca-se, assim, promover o crescimento econômico sustentável e inclusivo no estado.
+
+P - P11 - Modelo de Economia Digital do Piauí
+Este produto visa diagnosticar e definir as atividades econômicas relacionadas à economia digital no estado do Piauí, bem como
+mensurar sua cadeia de valor e indústrias associadas, sanando o problema da falta de uma definição clara das atividades
+relacionadas à Economia Digital. O objetivo é analisar a participação desse setor na economia piauiense, fornecendo insights
+valiosos para o desenvolvimento de políticas públicas eficazes. Ao compreender melhor o panorama da economia digital local, o
+Estado pode direcionar recursos e esforços para áreas que oferecem o maior potencial de crescimento e inovação. Além disso,
+essa iniciativa proporcionará um acompanhamento contínuo do progresso do setor, permitindo ajustes e adaptações conforme
+necessário para promover um ambiente econômico dinâmico e resiliente, contemplando ações voltadas à redução das
+desigualdades sociais, de raça e gênero.
+Em suma, o "Modelo da Economia Digital do Piauí" será um instrumento fundamental para a construção de um futuro próspero e
+inovador, alinhando-se às metas de desenvolvimento sustentável e crescimento econômico inclusivo. Desta forma, serão
+desenvolvidas as ações:
+- Consultoria para o desenvolvimento de um modelo abrangente da economia digital do Piauí, incluindo a definição das atividades
+econômicas, a mensuração da cadeia de valor e das atividades empresariais associadas.
+
+P -  P12 - Programa de Capacitação e Assistência Técnica para Rastreabilidade Digital
+A Capacitação e Assistência Técnica para Rastreabilidade Digital visa treinar pequenos e médios produtores do Piauí em
+tecnologias de rastreabilidade, oferecendo cursos online e presenciais e assistência técnica.
+O programa estabelecerá parcerias com cooperativas, oferecerá capacitações para obtenção de crédito e promoverá práticas ESG,
+aumentando a eficiência produtiva e sustentabilidade no setor agropecuário. Desta forma, será necessário realizar a seguinte ação
+:
+- Consultoria especializada para capacitar e prestar assistência técnica a pequenos e médios produtores rurais na implementação
+de tecnologias de rastreabilidade digital no Estado do Piauí
+
+P - P13 - Plataforma de Fortalecimento da Economia Digital
+A Plataforma de Economia Digital integrará um ecossistema de inovação, startups, um marketplace governamental para
+microempreendedores e um ambiente de rastreabilidade digital para a cadeia produtiva rural. Ela promoverá a inovação aberta e a
+gestão eficiente.
+Facilitará a colaboração entre servidores públicos e startups, impulsionando a inovação e simplificando a contratação pública de
+soluções inovadoras. O marketplace governamental conectará microempreendedores à administração pública, otimizando
+processos de aquisição e reduzindo custos.
+A educação financeira será incrementada com o uso de práticas de economia digital em um mercado virtual de produtos artesanais
+. A rastreabilidade digital usará blockchain, IoT e big data na produção agrícola, aumentando a transparência e competitividade.
+Essas iniciativas tornarão a gestão pública mais inovadora e adaptável, fortalecendo a economia local. Assim, serão realizadas as
+seguintes contratações:
+- Consultoria para desenvolvimento e implementação de uma plataforma que vise propiciar a economia criativa
+- Consultoria para desenvolvimento e implementação de uma solução tecnológica completa para rastreabilidade na cadeia de
+alimentos no Estado do Piauí
+- Desenvolvimento de Plataforma de Marketplace Governamental
+- Desenvolvimento de Plataforma de Ecossistema de Inovação Digital
+
+P - P14 - Fortalecimento de capacidades para a Economia Digital para Mulheres e Comunidades Vulneráveis
+A iniciativa de Fortalecimento de Capacidades para a Economia Digital para Mulheres e Comunidades Vulneráveis no Piauí
+combate a desigualdade de gênero, socioeconômica e exclusão digital no mercado de trabalho. Ela identifica e seleciona
+participantes com maior necessidade de capacitação, oferecendo cursos de alfabetização digital e habilidades intermediárias e
+avançadas, como programação, marketing digital, UX design e gestão de negócios online. Com orientação e suporte contínuo,
+incluindo mentoria e acesso a redes de emprego, a iniciativa promove inclusão econômica e social, reduz desigualdades e
+impulsiona o crescimento econômico sustentável na região.
+Com vistas ao atendimento dessas necessidades será desenvolvida a seguinte ação:
+- Contratação de Consultoria para o estabelecimento de um programa educacional voltado para a capacitação profissional de
+mulheres e pessoas residentes em comunidades vulneráveis
+O Anexo 08 apresenta um quadro síntese do projeto, contendo: Uma tabela com os componentes, objetivos específicos, produtos,
+contratações e áreas estratégicas; Uma tabela relacionando os componentes do projeto com os problemas a serem resolvidos;
+Uma tabela associando as áreas estratégicas com futuras contratações; e, A distribuição dos produtos do projeto por território de
+desenvolvimento.
+
+C - C5 - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+O componente Administração, Avaliação e Auditoria visa capacitar a equipe de supervisão do projeto com conhecimentos,
+habilidades e técnicas essenciais para garantir o gerenciamento adequado do escopo, tempo, custos e integração na execução de
+seus diferentes produtos. Inclui o fortalecimento da equipe de gestão na UCP e aquisição de ferramentas de gestão de projetos, a
+realização de avaliações intermediárias, finais e de impacto para monitoramento contínuo, e auditorias externas periódicas para
+revisão financeira e operacional, assegurando a aplicação correta dos recursos.
+
+
+Página: 11
+
+P - PA1 - Gestão do Programa
+Consiste no fortalecimento da equipe de gestão de projeto alocada na UCP, assim como na aquisição de equipamentos de
+ferramentas de gestão de projetos. Considera-se ainda a capacitação nas políticas de aquisição e gestão financeira do BID.
+
+P - PA2 - Avaliação intermediária, final e de impacto
+Durante a execução do projeto serão realizadas reuniões mensais de monitoramento, relatórios semestrais de progresso e três
+avaliações (intermediária, final e de impacto).
+
+P - PA3 - Auditoria
+Serão realizadas cinco auditorias para avaliação do cumprimento do cronograma do projeto e das atividades e revisão das
+demonstrações financeiras, registros, transações e operações do projeto, avaliando a correta aplicação dos recursos.
+
+Meta
+
+Valor
+
+% Financeiro
+
+Categoria de Gasto
+
+Bens
+P- P9 - Modernização da Infraestrutura de
+DataCenter do Estado
+P- P10 - Modernização de Parque Tecnológico
+Consultoria
+P- P3 - Modernização e Desenvolvimento de
+Sistemas Corporativos
+P- P11 - Modelo de Economia Digital do Piauí
+P-  P12 - Programa de Capacitação e Assistência
+Técnica para Rastreabilidade Digital
+P- P13 - Plataforma de Fortalecimento da
+Economia Digital
+P- P14 - Fortalecimento de capacidades para a
+Economia Digital para Mulheres e Comunidades
+Vulneráveis
+P- PA1 - Gestão do Programa
+P- PA2 - Avaliação intermediária, final e de
+impacto
+P- PA3 - Auditoria
+Serviços que Não de Consultoria
+P- P4 - Infraestrutura de Dados Espaciais (IDE)
+P- P5 - Fortalecimento da segurança e proteção
+de pessoas em situação de vulnerabilidade e risco
+P- P6 - Proporcionar Conectividade por meio de
+Rede Óptica para a Região Sul do Piauí
+P- P7: Projetos de Inclusão Digital em
+Comunidades Isoladas e vulneráveis
+P- P8 - Fortalecimento da infraestrutura e dos
+serviços de segurança cibernética do Estado
+Capacitação e Treinamento
+P- P1 - Aprimoramento da Gestão Governamental
+por Previsibilidade e Aperfeiçoamento de
+Processos Administrativos
+P- P2 - Desenvolvimento de competência
+Total Geral
+
+Unidade de medida
+-
+Data Center
+
+Parque Tecnológico
+-
+Sistema
+
+Modelo
+Programa de
+Capacitação
+Plataforma
+
+Programa de
+Capacitação
+
+Modelo
+Avaliação
+
+Auditoria
+-
+Plataforma
+Sistema
+
+Cinturão Digital
+
+-
+1,00
+
+1,00
+-
+250,00
+
+1,00
+1,00
+
+1,00
+
+1,00
+
+1,00
+3,00
+
+5,00
+-
+1,00
+1,00
+
+1,00
+
+21.374.074,09
+12.500.000,00
+
+8.874.074,09
+15.907.475,63
+7.209.727,17
+
+275.987,15
+1.010.058,00
+
+5.079.686,85
+
+832.016,46
+
+1.000.000,00
+250.000,00
+
+250.000,00
+17.289.405,44
+1.155.000,00
+1.150.000,00
+
+8.746.588,69
+
+Comunidades
+
+14,00
+
+1.559.454,19
+
+Sistema de
+Segurança
+-
+Plano
+
+Plano
+-
+
+1,00
+
+-
+1,00
+
+1,00
+-
+
+4.678.362,56
+
+7.929.044,84
+5.929.044,84
+
+2.000.000,00
+62.500.000,00
+
+3,20
+100,00
+
+34,20
+20,00
+
+14,20
+25,45
+11,54
+
+0,44
+1,62
+
+8,13
+
+1,33
+
+1,60
+0,40
+
+0,40
+27,66
+1,85
+1,84
+
+13,99
+
+2,50
+
+7,49
+
+12,69
+9,49
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+2.4.1.MEDIDAS PRÉVIAS À EXECUÇÃO DO PROGRAMA
+
+Nos últimos anos, do ponto de vista normativo e institucional, O Governo do Piauí elaborou medidas estruturantes para a Governança da
+Transformação Digital do Estado: (i) criação do Conselho de Transformação Digital do Estado do Piauí , através da lei Nº 7.990 de março
+de 2023 (Anexo 09); (ii) institucionalização da Política Estadual de Transformação Digital, através do decreto nº 21.979, de abril de 2023 (
+Anexo 10); e (iii) criação da Secretaria de Inteligência Artificial, Economia Digital, Ciência, Tecnologia e Inovação (SIA) (Anexo 11) em
+maio de 2024, tornando-se o primeiro estado brasileiro a estabelecer uma secretaria dedicada à inteligência artificial e economia digital. A
+SIA tem como objetivo promover o desenvolvimento e o uso ético da inteligência artificial, colaborando com instituições de pesquisa,
+empresas locais e órgãos governamentais. A secretaria visa estimular a inovação e o empreendedorismo, incentivando a criação de
+startups e projetos voltados para resolver desafios locais.
+
+2.4.2.AÇÕES JÁ REALIZADAS.
+
+
+Página: 12
+
+O Estado do Piauí tem se destacado pela implementação de diversas iniciativas de transformação digital que visam melhorar os serviços
+públicos, aumentar a transparência e fomentar a inovação. Entre as principais ações, destaca-se a Plataforma Gov.Pi Cidadão, lançada
+em setembro de 2023. Inicialmente, a plataforma oferecia 50 serviços de 13 secretarias estaduais e, com o tempo, expandiu para mais de
+100 serviços, incluindo 15 voltados para servidores públicos. A plataforma proporciona uma identidade digital única para os cidadãos,
+permitindo acesso a serviços do governo por meio de diversos dispositivos, como celular, computador e tablet. Essa solução promove a
+transparência, segurança e eficiência, reduzindo a necessidade de presença física em órgãos públicos e garantindo o manuseio seguro
+dos dados.
+
+Desde o lançamento da plataforma, em setembro de 2023, até abril de 2024, houve um crescimento de 133,96% nos serviços oferecidos.
+Além disso, 406 renovações de CNH foram realizadas, 891 Carteiras de Identificação do Autista foram emitidas e mais de 110.253
+documentos financeiros foram emitidos para servidores públicos.
+
+Outra importante iniciativa é o Piauí Saúde Digital, que começou em 2023 na cidade de Piripiri-PI e foi expandido para todo o Estado. O
+projeto oferece pronto-atendimento virtual, consultas com especialistas, triagem de emergências com eletrocardiogramas (ECG) baseados
+em inteligência artificial e telediagnóstico. Desde sua implantação, o programa reduziu significativamente o tempo de espera para
+consultas especializadas. Por exemplo, em Piripiri, a fila para consultas dermatológicas caiu de 660 para zero, e para cardiologia de 25
+para zero, demonstrando uma melhoria substancial no acesso à saúde.
+
+A SEFAZ também inovou com o Portal Corporativo, introduzido em fevereiro de 2024 para centralizar serviços e conteúdos destinados ao
+setor fazendário. O portal inclui um catálogo de serviços, documentos corporativos e notícias, além de um chatbot integrado ao ChatGPT
+para consultas em linguagem natural. Desde seu lançamento, o portal atendeu 142 conversas pelo chatbot e realizou 4.542 pesquisas
+internas, automatizando processos como justificativas de faltas e criação de escalas de trabalho.
+
+No combate ao desmatamento ilegal, o estado executou um plano de ação em 2023 que incluiu o aumento do uso de imagens de satélite
+e drones para monitoramento e a implementação de autuações remotas. Esses esforços resultaram em uma redução de 15,3% nas áreas
+de desmatamento ilegal e uma redução de 4% no desmatamento total em 2023. Além disso, houve um aumento significativo nas multas e
+áreas embargadas, destacando a eficácia das ações de fiscalização.
+
+Por fim, o Programa de Orçamento Participativo do Estado do Piauí (OPA), lançado em 2023, permite que os cidadãos participem
+diretamente das decisões de alocação orçamentária através de plataformas digitais. Essa iniciativa tem como objetivo melhorar a
+transparência e o engajamento comunitário no planejamento orçamentário do Estado, permitindo uma maior participação da população
+nas decisões governamentais.
+
+Essas iniciativas demonstram o compromisso do Piauí em utilizar tecnologias digitais para transformar a administração pública,
+oferecendo serviços mais eficientes e acessíveis à população, ao mesmo tempo em que promove a sustentabilidade e a inovação.
+
+2.4.3.AÇÕES EM ANDAMENTO
+
+Algumas dessas ações executadas requerem continuidade, como a expansão da Plataforma Gov.PI (Cidadão e Empresas), que envolve a
+melhoria contínua dos processos e tecnologia, incluindo a automação do atendimento ao cidadão, comunicação mais efetiva e assertiva,
+e a melhoria na disponibilidade e escalabilidade dos serviços. Esse esforço está em andamento para disponibilizar mais serviços digitais e
+aumentar a eficiência da plataforma.
+
+2.4.4.INICIATIVAS DE GOVERNO DIGITAL
+
+São ações que visam não apenas modernizar a administração pública do Piauí, mas também promover uma maior inclusão digital,
+eficiência e transparência nos serviços prestados aos cidadãos. Constam também iniciativas com o objetivo de fomentar o ambiente de
+negócios e a inovação no Estado.
+
+Desenvolvido pelo setor de inteligência da Secretaria da Segurança Pública e lançado em setembro de 2023, o aplicativo ?Cellguard? é
+utilizado para rastrear, recuperar e devolver aparelhos celulares roubados. Em 2024, a utilização do Cellguard resultou em 1.195
+intimações, a recuperação de 442 celulares, a interdição de 14 lojas e a prisão de 17 pessoas. A estratégia do Piauí se tornou referência
+nacional, com outras polícias do país buscando implantar modelos semelhantes.
+
+Inaugurado em maio de 2024, o Hub de Inovação da Investe Piauí é um espaço dedicado ao desenvolvimento de empresas e soluções
+para serviços públicos. Localizado no centro da capital, o Hub conecta o poder público com empresas e startups, promovendo um
+ecossistema de inovação. O Hub inclui núcleos de inovação, incubação de empresas, cursos de tecnologia, coworking e programas
+empresariais. Ele também abriga o Laboratório de Inovação do Piauí (Lipi), que transforma desafios da administração pública em
+problemas mensuráveis para soluções de startups e empreendedores. Iniciativas como o Clube do Investidor e o programa Made in Piauí
+são parte do Hub, facilitando a conexão entre investidores e startups e promovendo a venda de produtos locais.
+
+A criação de uma Plataforma Única de Serviços Digitais (Gov.pi Cidadão) unifica o acesso a todos os serviços públicos digitais do Estado,
+com autenticação centralizada e certificação digital. A interoperabilidade entre sistemas é implementada para integrar diferentes
+plataformas e sistemas governamentais, facilitando a troca de informações e a eficiência administrativa. O fortalecimento das políticas de
+segurança digital garante a proteção dos dados dos cidadãos e a integridade dos sistemas governamentais.
+
+Além disso, o estado está promovendo o estabelecimento de polos tecnológicos e incubadoras para startups, fomentando a inovação e o
+desenvolvimento de novas soluções tecnológicas para o setor público.
+
+
+Página: 13
+
+O Programa Salve Maria, implementado no Piauí, é uma iniciativa fundamental para a proteção das mulheres e combate à violência de
+gênero no Estado. Criado para oferecer suporte e acolhimento às vítimas, o programa disponibiliza um aplicativo de fácil acesso,
+permitindo que mulheres em situação de risco denunciem abusos e solicitem ajuda de maneira discreta e rápida. Além disso, o Salve
+Maria promove campanhas de conscientização e educação, trabalhando para mudar a cultura de violência e garantir que os direitos das
+mulheres sejam respeitados e protegidos. A parceria com órgãos de segurança pública, do sistema de saúde e instituições sociais
+fortalece a rede de apoio, assegurando uma resposta eficiente e integrada às denúncias.
+
+O programa também se destaca por suas ações preventivas, como a capacitação de profissionais de saúde, educação e segurança para
+identificar e tratar casos de violência doméstica com sensibilidade e eficácia. O Salve Maria tem sido crucial na redução de índices de
+violência contra a mulher no Piauí, proporcionando um ambiente mais seguro e solidário. Através do engajamento comunitário e do
+fortalecimento de políticas públicas, o programa não apenas apoia as vítimas, mas também busca erradicar as raízes da violência de
+gênero, promovendo igualdade e respeito na sociedade piauiense.
+
+O Cinturão Digital Norte do Piauí é um projeto estratégico que visa expandir a infraestrutura de telecomunicações e promover a inclusão
+digital na região. Este empreendimento interligou municípios por meio de uma rede de fibra óptica de alta capacidade, garantindo acesso
+rápido e estável à internet. Com essa iniciativa, o governo estadual pretende não apenas melhorar a conectividade, mas também estimular
+o desenvolvimento socioeconômico, criando novas oportunidades para a educação, saúde, e negócios locais. O Cinturão Digital é
+essencial para reduzir as desigualdades digitais, permitindo que mais cidadãos e empresas se beneficiem das vantagens da economia
+digital.
+
+Além disso, o Cinturão Digital Norte do Piauí facilita a implementação de políticas públicas mais eficazes, como a telemedicina, o ensino a
+distância e a gestão inteligente de cidades. Com a melhoria da infraestrutura de TI, os serviços públicos podem ser modernizados,
+tornando-se mais acessíveis e eficientes para a população. Este projeto também atrai investimentos e incentiva a inovação tecnológica,
+fortalecendo o ecossistema local e impulsionando o crescimento econômico. A conectividade aprimorada através do Cinturão Digital é um
+passo crucial para integrar o Piauí ao cenário digital global, promovendo um desenvolvimento sustentável e inclusivo na região.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+(cid:10)
+
+
+Página: 14
+
+Abrangência Geográfica: Estadual/Municipios
+
+Estado do Piauí (MUNICIPIO DE  ACAUA, MUNICIPIO DE  ALVORADA DO GURGUEIA, MUNICIPIO DE  ASSUNCAO DO PIAUI,
+MUNICIPIO DE  BARRA D'ALCANTARA, MUNICIPIO DE  BELA VISTA DO PIAUI, MUNICIPIO DE  BELEM DO PIAUI, MUNICIPIO DE
+BETANIA DO PIAUI, MUNICIPIO DE  BOA HORA, MUNICIPIO DE  BOQUEIRAO DO PIAUI, MUNICIPIO DE  BREJO DO PIAUI,
+MUNICIPIO DE  CAJAZEIRAS DO PIAUI, MUNICIPIO DE  CAJUEIRO DA PRAIA, MUNICIPIO DE  CAMPO ALEGRE DO FIDALGO,
+MUNICIPIO DE  CAMPO GRANDE DO PIAUI, MUNICIPIO DE  CAMPO LARGO DO PIAUI, MUNICIPIO DE  CAPITAO GERVASIO
+OLIVEIRA, MUNICIPIO DE  CARAUBAS DO PIAUI, MUNICIPIO DE  CARIDADE DO PIAUI, MUNICIPIO DE  CAXINGO, MUNICIPIO DE
+COCAL DE TELHA, MUNICIPIO DE  COCAL DOS ALVES, MUNICIPIO DE  CURRAIS, MUNICIPIO DE  CURRALINHOS, MUNICIPIO DE
+CURRAL NOVO DO PIAUI, MUNICIPIO DE  FLORESTA DO PIAUI, MUNICIPIO DE  FRANCISCO MACEDO, MUNICIPIO DE
+GEMINIANO, MUNICIPIO DE  GUARIBAS, MUNICIPIO DE  ILHA GRANDE, MUNICIPIO DE  JATOBA DO PIAUI, MUNICIPIO DE  JOAO
+COSTA, MUNICIPIO DE  JOCA MARQUES, MUNICIPIO DE  JUAZEIRO DO PIAUI, MUNICIPIO DE  JULIO BORGES, MUNICIPIO DE
+JUREMA, MUNICIPIO DE  LAGOINHA DO PIAUI, MUNICIPIO DE  LAGOA DE SAO FRANCISCO, MUNICIPIO DE  LAGOA DO PIAUI,
+MUNICIPIO DE  LAGOA DO SITIO, MUNICIPIO DE  MADEIRO, MUNICIPIO DE  MASSAPE DO PIAUI, MUNICIPIO DE  MILTON
+BRANDAO, MUNICIPIO DE  MORRO CABECA NO TEMPO, MUNICIPIO DE  MORRO DO CHAPEU DO PIAUI, MUNICIPIO DE  MURICI
+DOS PORTELAS, MUNICIPIO DE  NOSSA SENHORA DE NAZARE, MUNICIPIO DE  NOVO SANTO ANTONIO, MUNICIPIO DE  OLHO
+D'AGUA DO PIAUI, MUNICIPIO DE  PAJEU DO PIAUI, MUNICIPIO DE  PAQUETA, MUNICIPIO DE  PAVUSSU, MUNICIPIO DE  PEDRO
+LAURENTINO, MUNICIPIO DE  PORTO ALEGRE DO PIAUI, MUNICIPIO DE  RIACHO FRIO, MUNICIPIO DE  RIBEIRA DO PIAUI,
+MUNICIPIO DE  SANTO ANTONIO DOS MILAGRES, MUNICIPIO DE  SAO GONCALO DO GURGUEIA, MUNICIPIO DE  SAO JOAO DA
+FRONTEIRA, MUNICIPIO DE  SAO JOAO DA VARJOTA, MUNICIPIO DE  SAO JOAO DO ARRAIAL, MUNICIPIO DE  SAO LUIS DO
+PIAUI, MUNICIPIO DE  SAO MIGUEL DA BAIXA GRANDE, MUNICIPIO DE  SAO MIGUEL DO FIDALGO, MUNICIPIO DE  SEBASTIAO
+BARROS, MUNICIPIO DE  SEBASTIAO LEAL, MUNICIPIO DE  SUSSUAPARA, MUNICIPIO DE  TAMBORIL DO PIAUI, MUNICIPIO DE
+TANQUE DO PIAUI, MUNICIPIO DE  VERA MENDES, MUNICIPIO DE  VILA NOVA DO PIAUI, MUNICIPIO DE  WALL FERRAZ,
+MUNICIPIO DE  COIVARAS, MUNICIPIO DE  JARDIM DO MULATO, MUNICIPIO DE  LAGOA ALEGRE, MUNICIPIO DE
+AGRICOLANDIA, MUNICIPIO DE  AGUA BRANCA, MUNICIPIO DE  ALTO LONGA, MUNICIPIO DE  ALTOS, MUNICIPIO DE
+AMARANTE, MUNICIPIO DE  ANGICAL DO PIAUI, MUNICIPIO DE  ANISIO DE ABREU, MUNICIPIO DE  ANTONIO ALMEIDA,
+MUNICIPIO DE  AROAZES, MUNICIPIO DE  ARRAIAL, MUNICIPIO DE  AVELINO LOPES, MUNICIPIO DE  BARRAS, MUNICIPIO DE
+BARREIRAS DO PIAUI, MUNICIPIO DE  BARRO DURO, MUNICIPIO DE  BATALHA, MUNICIPIO DE  BENEDITINOS, MUNICIPIO DE
+BERTOLINIA, MUNICIPIO DE  BOCAINA, MUNICIPIO DE  BOM JESUS, MUNICIPIO DE  BURITI DOS LOPES, MUNICIPIO DE
+CAMPINAS DO PIAUI, MUNICIPIO DE  CAMPO MAIOR, MUNICIPIO DE  CANTO DO BURITI, MUNICIPIO DE  CAPITAO DE CAMPOS,
+MUNICIPIO DE  CARACOL, MUNICIPIO DE  CASTELO DO PIAUI, MUNICIPIO DE  COCAL, MUNICIPIO DE  CONCEICAO DO
+CANINDE, MUNICIPIO DE  CORRENTE, MUNICIPIO DE  CRISTALANDIA DO PIAUI, MUNICIPIO DE  CRISTINO CASTRO, MUNICIPIO
+DE  CURIMATA, MUNICIPIO DE  DEMERVAL LOBAO, MUNICIPIO DE  DOM EXPEDITO LOPES, MUNICIPIO DE  ELESBAO VELOSO,
+MUNICIPIO DE  ELISEU MARTINS, MUNICIPIO DE  ESPERANTINA, MUNICIPIO DE  FLORES DO PIAUI, MUNICIPIO DE  FLORIANO,
+MUNICIPIO DE  FRANCINOPOLIS, MUNICIPIO DE  FRANCISCO AYRES, MUNICIPIO DE  FRANCISCO SANTOS, MUNICIPIO DE
+FRONTEIRAS, MUNICIPIO DE  GILBUES, MUNICIPIO DE  GUADALUPE, MUNICIPIO DE  HUGO NAPOLEAO, MUNICIPIO DE
+INHUMA, MUNICIPIO DE  IPIRANGA DO PIAUI, MUNICIPIO DE  ISAIAS COELHO, MUNICIPIO DE  ITAINOPOLIS, MUNICIPIO DE
+ITAUEIRA, MUNICIPIO DE  JAICOS, MUNICIPIO DE  PAU D'ARCO DO PIAUI, MUNICIPIO DE  JERUMENHA, MUNICIPIO DE
+JOAQUIM PIRES, MUNICIPIO DE  JOSE DE FREITAS, MUNICIPIO DE  LANDRI SALES, MUNICIPIO DE  LUIS CORREIA, MUNICIPIO
+DE  LUZILANDIA, MUNICIPIO DE  MANOEL EMIDIO, MUNICIPIO DE  MARCOS PARENTE, MUNICIPIO DE  MATIAS OLIMPIO,
+MUNICIPIO DE  MIGUEL ALVES, MUNICIPIO DE  MIGUEL LEAO, MUNICIPIO DE  MONSENHOR GIL, MUNICIPIO DE  MONSENHOR
+HIPOLITO, MUNICIPIO DE  MONTE ALEGRE DO PIAUI, MUNICIPIO DE  NAZARE DO PIAUI, MUNICIPIO DE  NOSSA SENHORA DOS
+REMEDIOS, MUNICIPIO DE  NOVO ORIENTE DO PIAUI, MUNICIPIO DE  OEIRAS, MUNICIPIO DE  DOMINGOS MOURAO,
+MUNICIPIO DE  PADRE MARCOS, MUNICIPIO DE  PAES LANDIM, MUNICIPIO DE  PALMEIRA DO PIAUI, MUNICIPIO DE
+PALMEIRAIS, MUNICIPIO DE  PARNAGUA, MUNICIPIO DE  PARNAIBA, MUNICIPIO DE  PAULISTANA, MUNICIPIO DE  PEDRO II,
+MUNICIPIO DE  PICOS, MUNICIPIO DE  PIMENTEIRAS, MUNICIPIO DE  PIO IX, MUNICIPIO DE  PIRACURUCA, MUNICIPIO DE
+PIRIPIRI, MUNICIPIO DE  PORTO, MUNICIPIO DE  PRATA DO PIAUI, MUNICIPIO DE  REDENCAO DO GURGUEIA, MUNICIPIO DE
+REGENERACAO, MUNICIPIO DE  RIBEIRO GONCALVES, MUNICIPIO DE  RIO GRANDE DO PIAUI, MUNICIPIO DE  SANTA CRUZ
+DO PIAUI, MUNICIPIO DE  SANTA FILOMENA, MUNICIPIO DE  SANTA LUZ, MUNICIPIO DE  SANTO ANTONIO DE LISBOA,
+MUNICIPIO DE  SANTO INACIO DO PIAUI, MUNICIPIO DE  SAO FELIX DO PIAUI, MUNICIPIO DE  SAO FRANCISCO DO PIAUI,
+MUNICIPIO DE  SAO GONCALO DO PIAUI, MUNICIPIO DE  SAO JOAO DA SERRA, MUNICIPIO DE  SAO JOAO DO PIAUI,
+MUNICIPIO DE  SAO JOSE DO PEIXE, MUNICIPIO DE  SAO JOSE DO PIAUI, MUNICIPIO DE  SAO JULIAO, MUNICIPIO DE  SAO
+MIGUEL DO TAPUIO, MUNICIPIO DE  SAO PEDRO DO PIAUI, MUNICIPIO DE  SAO RAIMUNDO NONATO, MUNICIPIO DE  SIMOES,
+MUNICIPIO DE  SIMPLICIO MENDES, MUNICIPIO DE  SOCORRO DO PIAUI, MUNICIPIO DE  TERESINA, MUNICIPIO DE  UNIAO,
+MUNICIPIO DE  URUCUI, MUNICIPIO DE  VALENCA DO PIAUI, MUNICIPIO DE  VARZEA GRANDE, MUNICIPIO DE  DIRCEU
+ARCOVERDE, MUNICIPIO DE  DOM INOCENCIO, MUNICIPIO DE  SAO JOAO DA CANABRAVA, MUNICIPIO DE  PASSAGEM
+FRANCA DO PIAUI, MUNICIPIO DE  SANTA CRUZ DOS MILAGRES, MUNICIPIO DE  BURITI DOS MONTES, MUNICIPIO DE
+CABECEIRAS DO PIAUI, MUNICIPIO DE  SIGEFREDO PACHECO, MUNICIPIO DE  BAIXA GRANDE DO RIBEIRO, MUNICIPIO DE
+CANAVIEIRA, MUNICIPIO DE  COLONIA DO GURGUEIA, MUNICIPIO DE  BONFIM DO PIAUI, MUNICIPIO DE  COLONIA DO PIAUI,
+MUNICIPIO DE  CORONEL JOSE DIAS, MUNICIPIO DE  FARTURA DO PIAUI, MUNICIPIO DE  LAGOA DO BARRO DO PIAUI,
+MUNICIPIO DE  SANTA ROSA DO PIAUI, MUNICIPIO DE  SAO BRAZ DO PIAUI, MUNICIPIO DE  SAO LOURENCO DO PIAUI,
+MUNICIPIO DE  VARZEA BRANCA, MUNICIPIO DE  ALEGRETE DO PIAUI, MUNICIPIO DE  CALDEIRAO GRANDE DO PIAUI,
+MUNICIPIO DE  JACOBINA DO PIAUI, MUNICIPIO DE  MARCOLANDIA, MUNICIPIO DE  PATOS DO PIAUI, MUNICIPIO DE
+QUEIMADA NOVA, MUNICIPIO DE  SANTANA DO PIAUI, MUNICIPIO DE  BRASILEIRA, MUNICIPIO DE  SAO JOSE DO DIVINO,
+MUNICIPIO DE  BOM PRINCIPIO DO PIAUI, MUNICIPIO DE  ALAGOINHA DO PIAUI)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+2.5.1.CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+a) Prazo de desembolso: 60 meses (5 anos);
+
+
+Página: 15
+
+b) Prazo de carência: 60 meses (de 5 anos);
+
+c) Prazo máximo de amortização: 300 meses (25 anos);
+
+d) Prazo total: 360 meses (30 anos);
+
+e) Periodicidade de Amortização: Semestral;
+
+f) Taxa de juros (composição):
+
+- Índice SOFR: reajustado diariamente e composto - média dos últimos 180 dias: 5,38% a.a.
+
+- Taxa de originação (funding margin): 0,40% a. a.
+
+- Spread de captação: reajustado mensalmente / trimestralmente: 0,80% (1º trim. 2024);
+
+- A partir de janeiro de 2022, os empréstimos do BID estão [LD1] baseados na taxa SOFR, que buscará refletir adequadamente o custo de
+captação agregado do Banco para operações com garantia soberana;
+
+- Comissão de Crédito sobre o saldo não desembolsado do financiamento: 0,5% a.a. (2º sem 2023);
+
+g) Demais encargos e comissões: Comissão de Crédito sobre o saldo não desembolsado do financiamento: 0,5% a.a.
+
+f) Taxa de câmbio: US$ = R$ 5,0727 (Banco Central do Brasil, PTAX - venda), Data de Referência: 06/05/2024
+
+2.5.2.NECESSIDADE DE FINANCIAMENTO EXTERNO E OPÇÃO PELO AGENTE FINANCEIRO
+
+a) Justificar a necessidade e a opção por financiamento:
+
+Desde 2023, o governo do estado do Piauí tem implementado iniciativas para estabelecer um governo digital centrado no cidadão. Essas
+iniciativas incluem a modernização da infraestrutura, a aquisição de subscrições Red Hat para sustentação e a implementação de uma
+plataforma de governo digital, totalizando um investimento de R$16.0 Milhões.
+
+Todavia, apesar da existência de uma plataforma e da instrumentalização jurídica, como o Decreto Estadual nº 21.979, de 13 de abril de
+2023, que institui a política de transformação digital no âmbito do Poder Executivo do Estado, o alcance ainda é incipiente. Por exemplo,
+existem apenas 188.310 usuários que utilizam a plataforma, o que corresponde a aproximadamente 10% da população economicamente
+ativa do estado do Piauí, segundo o Novo CAGED 2023.
+
+Além disso, a baixa maturidade em governo digital é evidenciada pelo Índice de Transformação Digital do Estado do Piauí (Anexo 12), que
+em 2023 ficou em 23º lugar entre os 26 estados brasileiros (https://abep-tic.org.br/indice-abep-2023/).
+
+Diante disso, apesar do grande esforço e da existência de uma plataforma com mais de 380 serviços digitais (sendo 125 para cidadãos e
+255 para empresas), o governo do estado do Piauí ainda apresenta baixa adoção e maturidade digital. Assim, ratifica-se a necessidade de
+novos financiamentos para consolidar e ampliar as ações de transformação digital, colocando o cidadão como protagonista do governo
+digital.
+
+A continuidade do processo de transformação do Estado é uma justificativa importante, considerando as diversas soluções já implantadas
+que necessitam ser ampliadas devido aos bons resultados já verificados. Além disso, o estado precisa implantar novas soluções e buscar
+cada vez mais inovações para melhorar a vida dos cidadãos piauienses.
+
+Os desafios são muitos, e o Programa Piauí Mais Digital será de grande importância para:
+
+- Melhorar a eficiência administrativa: por meio da transformação digital, o estado otimizará processos internos do governo, reduzindo
+burocracias, simplificando procedimentos e aumentando a eficiência na prestação de serviços públicos.
+
+- Aumentar a transparência e o controle social: utilizando tecnologias digitais, o governo poderá melhorar a transparência e o controle
+social de suas ações, tornando as informações públicas mais acessíveis e facilitando o acompanhamento por parte dos cidadãos e órgãos
+de controle.
+
+- Facilitar o acesso aos serviços públicos: a digitalização dos serviços públicos permitirá ao governo oferecer atendimento mais rápido e
+acessível aos cidadãos, eliminando a necessidade de deslocamentos físicos e reduzindo custos operacionais.
+
+- Reduzir a exclusão digital: promover a transformação digital ajudará a reduzir a exclusão digital ao oferecer acesso equitativo às
+tecnologias e serviços digitais para todos os cidadãos, independentemente de sua localização ou condição socioeconômica.
+
+- Estimular a economia digital: o estímulo à economia digital poderá impulsionar o ecossistema de inovação local, fomentando o
+empreendedorismo digital, a criação de startups tecnológicas e o desenvolvimento de novas habilidades digitais na população.
+
+
+Página: 16
+
+- Reduzir custos operacionais: automatizar os processos e digitalizar documentos reduzirá significativamente os custos operacionais do
+governo, além de minimizar desperdícios de recursos e impactos ambientais negativos.
+
+- Atrair investimentos privados: adotando iniciativas de transformação digital, o estado passa a ser visto como mais atraente para
+investimentos privados, especialmente no setor de tecnologia, inovação e agricultura.
+
+- Implementar práticas sustentáveis: reduzir o uso de papel e implementar práticas sustentáveis através da digitalização contribui para a
+preservação ambiental e para o cumprimento de metas de sustentabilidade, principalmente no consumo de energia.
+
+Portanto, a implementação de um programa de transformação digital no estado do Piauí não apenas moderniza a administração pública,
+mas também promove inclusão, eficiência, transparência e desenvolvimento econômico, beneficiando diretamente a população e
+preparando o estado para os desafios e oportunidades da era digital.
+
+b) Justificar a opção pelo agente financeiro escolhido:
+
+A contratação desta operação de crédito com o Banco Interamericano de Desenvolvimento (BID) é justificada por este já ter desenvolvido
+relevantes projetos no âmbito do estado do Piauí, apresentar condições de prazo, carência e encargos atrativos se comparadas às
+condições vigentes em outras instituições financeiras e disponibilizar, durante a preparação e início da implementação do projeto,
+acompanhamento e assistência técnica com fundos de doação. No tema específico da operação proposta, o BID é o maior parceiro em
+projetos de governo digital no Brasil, através de linha de crédito Brasil Mais Digital, e na América Latina e agrega um amplo e aprofundado
+conhecimento da transformação digital na região, além de possuir larga experiência na realização de projetos de transformação digital. A
+Rede de Executores da linha de crédito Brasil Mais Digital, criada em 2023 e que conta com a participação de 5 estados com operações
+digitais com BID (Alagoas, Bahia, Ceará, Pernambuco e São Paulo), representa um valor agregado adicional para a troca de experiências
+concretas na gestão de programas de transformação digital.
+
+b) Comparar as condições financeiras do agente escolhido, em relação a outros financiadores externos/internos:
+
+i) BNDES Finem - Desenvolvimento integrado dos estados: Incidem juros de IPCA + 5,15% + comissão de financiamento de 2,3% a.a
+
+ii) CAF: Incidem juros considerando taxa SOFR (Secured Overnight Funding Rate), acrescido de mais margem fixa a ser definida na data
+de assinatura do contrato de empréstimo; juros de mora de 2% a.a. acima dos juros a serem estabelecidos no contrato; comissão de
+compromisso / commitment charge de 0,35% a.a., aplicado sobre os saldos não desembolsados do empréstimo; comissão de
+financiamento de 0,85% do valor total do empréstimo e mais gastos de avaliação de US$ 50 mil.
+
+iii) BIRD: Incidem juros baseados na SOFR de seis meses, acrescido de spread variável definido periodicamente pelo BIRD; juros de mora
+de 0,5% (cinco décimos por cento); comissão de compromisso / commitment charge de 0,25% a.a. sobre os saldos não desembolsados
+do empréstimo; comissão de abertura de 0,25% sobre o valor do empréstimo; sobretaxa de exposição do BIRD ao País de 0,5% a.a.
+sobre o montante que exceder ao limite de exposição do país.
+
+iv) BID: Incidem juros baseados na SOFR (Secured Overnight Funding Rate) acrescido de funding margin e spread definidos
+periodicamente pelo BID; comissão de compromisso/commitment charge de 0,50% a.a., aplicado sobre os saldos não desembolsados do
+empréstimo.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+As ações aqui previstas deverão repercutir no conjunto da sociedade do estado do Piauí, beneficiando direta ou indiretamente toda a
+população do estado, com foco na população mais vulnerável. No curto prazo, possibilita a melhoria da qualidade na prestação dos
+serviços públicos digitais ao cidadão por meio da ampliação da oferta desses serviços, facilidade e velocidade de acesso, requalificação
+das conexões, transparência e redução das despesas de deslocamento dos usuários, gerando impactos sensíveis na qualidade de vida da
+população em geral.
+
+Vislumbra-se que os benefícios serão inúmeros e estarão ligados à melhoria do atendimento eficaz aos cidadãos e empresas, tanto
+presencialmente quanto por meio digital, reduzindo a burocracia e agilizando os processos. Para a população piauiense, os resultados
+positivos estão relacionados com economias através da redução da burocracia e a transparência administrativa, contribuindo para uma
+melhoria na qualidade de vida tanto dos contribuintes quanto da sociedade em geral.
+
+Destacamos, também, que o projeto beneficiará ações que são executadas em conjunto com outros órgãos da administração pública
+estadual como: Secretaria de Inteligência Artificial, relativamente ao processo de transformação digital do Estado e implantação de um
+modelo de economia digital do estado do Piauí; Empresa de Tecnologia da Informação do Piauí (ETIPI), no tocante ao desenvolvimento
+de soluções tecnológicas para prover o Estado de melhores serviços.
+
+Sob o aspecto do desenvolvimento, inovação tecnológica pode-se identificar que todo conjunto de produtos apresenta essa característica,
+todavia como iniciativa emblemática pode-se citar a implementação de um plano de transformação digital, que visa a implantação de uma
+cultura organizacional onde o dado é considerado um ativo estratégico e saber utilizá-lo adequadamente gera valor relevante ao negócio,
+fortalecendo o processo de decisão e aumento de produtividade, baseada no conceito de gestão orientada a dados e governo em
+plataforma.
+
+(cid:10)
+
+
+Página: 17
+
+Impactos positivos são também esperados sobre a educação da população do estado, através dos produtos que serão desenvolvidos no
+componente de Economia Digital.
+
+No âmbito da administração pública estadual, de forma mais ampla, o Programa, mediante a melhoria da qualidade da produção e gestão
+de dados e informações, irá contribuir para o fortalecimento da capacidade de formulação, implementação, monitoramento e avaliação de
+políticas públicas, inclusive aquelas de natureza ambiental, bem como, para se alcançar os resultados de melhor governança, controle
+social, maior participação, maior exercício da cidadania.
+
+Permite, ainda, o fortalecimento do ambiente de negócios gerando oportunidades, empregos e rendas, e o desenvolvimento de micro e
+pequenas empresas, a inclusão social, a acessibilidade da população de baixa renda, mulheres, vulneráveis e minorias. Fomenta a cadeia
+de conhecimento, pois requer a formação de especialidades que farão frente às tecnologias que serão empregadas na jornada da
+transformação digital. Solidifica o ambiente de pesquisa acadêmica, posto que, o processo de aperfeiçoamento é contínuo e exigirá novas
+ferramentas ainda mais modernas.
+
+Por fim, a inclusão social, acessibilidade a população de baixa renda, vulneráveis e minorias proporcionará a inclusão digital por meio da
+disponibilização de acesso à internet como política de inclusão.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Interamericano de Desenvolvimento
+- BID
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BID
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+12.500.000,00
+Valor Proposto
+
+50.000.000,00
+
+62.500.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+12.500.000,00
+Valor de Referência US
+$
+50.000.000,00
+
+62.500.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Não se aplica
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+4.EXECUÇÃO
+
+
+### 4.1.  ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+
+4.1.1. Arranjo Institucional
+
+O mutuário da operação será o Governo do Estado do Piauí, e o órgão executor será Secretaria da Fazenda do Estado do Piauí (SEFAZ-
+PI), em razão de sua experiência na execução de projetos financiados com recursos do BID, a exemplo do PNAFE, PROFISCO I e II. A
+Unidade de Coordenação do Programa (UCP), estará situada institucionalmente no âmbito da SEFAZ-PI e será responsável pela
+implementação, monitoramento e avaliação das ações do Programa e dos seus resultados. A participação dos demais órgãos estaduais
+no projeto, como a Secretaria de Inteligência Artificial (SIA) e a Empresa de Tecnologia da Informação do Piauí (ETIPI), será de natureza
+técnica, na condição de beneficiários diretos das ações do Programa, conforme o Arranjo Institucional no Anexo 13.
+
+As avaliações realizadas dos projetos encerrados demonstram que ações de fortalecimento da capacidade institucional da equipe estadual
+na preparação, execução, monitoramento e avaliação de projetos desenvolvidas no âmbito do PROFISCO é de fundamental importância
+para a melhoria do desempenho na execução do PIAUÍ MAIS DIGITALI, conforme segue: (i) capacitação continuada nas políticas de
+aquisições de organismos internacionais e na formulação de termos de referência e elaboração de especificações técnicas, segundo um
+conjunto de documentos padronizados, dos membros das unidades de coordenação, líderes de projetos, técnicos das áreas de compras,
+procuradores e técnicos dos órgãos de controle interno e externo; (ii) adequação do sistema estadual SIAFE-PI para pagamentos e
+prestação de contas, a exemplo do que ocorreu em outros projeto financiados pelo BID; (iii) instituição da Comissão Especial de Licitações
+? CEL, exclusiva para a realização de todos os procedimentos de licitações utilizando as políticas do BID, inclusive por meio eletrônico,
+através do sistema Licitações-e, do Banco do Brasil, credenciado pelo BID; (iv) realização de procedimentos de auditoria externa por meio
+de empresa contratada para essa finalidade, já que o TCE-PI não é credenciado; e, (v) instalação de escritório de projeto estadual para
+gestão de portfólios e monitoramento de metas e indicadores do plano estratégico e dos projetos estaduais.
+
+Ressalta-se novamente que a experiência da SEFAZ/PI, na execução do PNAFE e do PROFISCO I e II, financiados pelo BID, demonstra
+conhecimento sobre políticas de aquisição e salvaguardas do agente financeiro externo escolhido.
+
+(cid:10)
+
+
+Página: 18
+
+A equipe de coordenação do projeto e os líderes de projetos foram formalmente designados para o Programa PIAUÍ MAIS DIGITAL, sendo
+todos servidores públicos concursados.
+
+A recém-criada Secretaria de Inteligência Artificial participou da execução de produtos nos Componentes 1 e 4. Atuará de forma
+significativa na definição dos termos de referência, especificações técnicas e na implantação dos produtos de sua competência.
+
+4.1.2. Matriz de Responsabilidade
+
+A Matriz de Responsabilidade do Projeto descreve (Anexo 14) as principais competências de cada um dos atores envolvidos na execução
+do Projeto, por área de intervenção.
+
+4.1.3. Arranjo Operacional
+
+A partir da experiência na execução de outros projetos financiados com recursos do BID, em que a SEFAZ/PI foi a unidade executora, o
+mesmo arranjo se aplicará na execução do Programa PIAUÍ MAIS DIGITALI, constituindo a equipe técnica da Unidade de Coordenação
+de Programa - UCP com a seguinte composição: (i) 1 Coordenador Geral; (ii) 1 Coordenador Técnico; (iii) 1 Coordenador Administrativo
+Financeiro; (iv) 1 Assessor de Planejamento e Monitoramento; (v) 1 Assessor de Aquisições; e (vi)  Líderes de produtos. O Anexo 15
+detalha as competências e responsabilidade da estrutura da UCP.
+
+Considerando a realização de investimentos em soluções para a Transformação Digital do Estado que serão implantadas pela Secretaria
+de Inteligência Artificial e pela ETIPI, a SEFAZ/PI celebrará Termo de Convênio para execução das ações previstas.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Secretaria da Fazenda do Estado do Piauí
+
+Representante Oficial: Emílio Joaquim de Oliveira Júnior
+
+Endereço da Sede: Av. Pedro Freitas, s/nº, Bloco C, Centro Administrativo, Bairro São Pedro
+E-mail Institucional:
+
+Telefone: (86) 3216-9600
+
+CNPJ: 06553556000191
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+C - C1 - TRANSFORMAÇÃO DIGITAL DOS SERVIÇOS PÚBLICOS
+
+COMPONENTES
+
+P - P1 - Aprimoramento da Gestão Governamental por Previsibilidade e Aperfeiçoamento de
+Processos Administrativos
+P - P2 - Desenvolvimento de competência
+
+P - P3 - Modernização e Desenvolvimento de Sistemas Corporativos
+
+P - P4 - Infraestrutura de Dados Espaciais (IDE)
+
+P - P5 - Fortalecimento da segurança e proteção de pessoas em situação de vulnerabilidade e
+risco
+C - C2 - CONECTIVIDADE E INCLUSÃO DIGITAL
+
+P - P6 - Proporcionar Conectividade por meio de Rede Óptica para a Região Sul do Piauí
+
+P - P7: Projetos de Inclusão Digital em Comunidades Isoladas e vulneráveis
+
+VALOR
+
+CUSTO
+
+17.443.772,01
+
+5.929.044,84
+
+2.000.000,00
+
+7.209.727,17
+
+1.155.000,00
+
+1.150.000,00
+
+10.306.042,88
+
+8.746.588,69
+
+1.559.454,19
+
+Fax:
+UF:
+
+Ano 1
+
+FONTES
+
+CF
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+C - C3 - CIBERSEGURANÇA, INFRAESTRUTURA DE TI E INFRAESTRUTURA PÚBLICA
+
+26.052.436,65
+
+2.000.000,00
+
+P - P8 - Fortalecimento da infraestrutura e dos serviços de segurança cibernética do Estado
+
+4.678.362,56
+
+0,00
+
+P - P9 - Modernização da Infraestrutura de DataCenter do Estado
+
+12.500.000,00
+
+2.000.000,00
+
+P - P10 - Modernização de Parque Tecnológico
+
+C - C4 - ECONOMIA DIGITAL
+
+P - P11 - Modelo de Economia Digital do Piauí
+
+P -  P12 - Programa de Capacitação e Assistência Técnica para Rastreabilidade Digital
+
+P - P13 - Plataforma de Fortalecimento da Economia Digital
+
+P - P14 - Fortalecimento de capacidades para a Economia Digital para Mulheres e Comunidades
+Vulneráveis
+C - C5 - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+
+P - PA1 - Gestão do Programa
+
+P - PA2 - Avaliação intermediária, final e de impacto
+
+P - PA3 - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - C1 - TRANSFORMAÇÃO DIGITAL DOS SERVIÇOS PÚBLICOS
+
+COMPONENTES
+
+8.874.074,09
+
+7.197.748,46
+
+275.987,15
+
+1.010.058,00
+
+5.079.686,85
+
+832.016,46
+
+1.500.000,00
+
+1.000.000,00
+
+250.000,00
+
+250.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+BID
+
+1.511.501,76
+
+634.323,59
+
+0,00
+
+684.778,17
+
+92.400,00
+
+100.000,00
+
+799.727,10
+
+799.727,10
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+368.574,95
+
+0,00
+
+0,00
+
+368.574,95
+
+0,00
+
+130.000,00
+
+80.000,00
+
+0,00
+
+50.000,00
+
+0,00
+
+2.000.000,00
+
+2.809.803,81
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+BID
+
+0,00
+
+3.234.003,52
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+(cid:10)
+
+
+Página: 19
+
+P - P1 - Aprimoramento da Gestão Governamental por Previsibilidade e Aperfeiçoamento de
+Processos Administrativos
+P - P2 - Desenvolvimento de competência
+
+P - P3 - Modernização e Desenvolvimento de Sistemas Corporativos
+
+P - P4 - Infraestrutura de Dados Espaciais (IDE)
+
+P - P5 - Fortalecimento da segurança e proteção de pessoas em situação de vulnerabilidade e
+risco
+C - C2 - CONECTIVIDADE E INCLUSÃO DIGITAL
+
+P - P6 - Proporcionar Conectividade por meio de Rede Óptica para a Região Sul do Piauí
+
+P - P7: Projetos de Inclusão Digital em Comunidades Isoladas e vulneráveis
+
+C - C3 - CIBERSEGURANÇA, INFRAESTRUTURA DE TI E INFRAESTRUTURA PÚBLICA
+
+P - P8 - Fortalecimento da infraestrutura e dos serviços de segurança cibernética do Estado
+
+P - P9 - Modernização da Infraestrutura de DataCenter do Estado
+
+P - P10 - Modernização de Parque Tecnológico
+
+C - C4 - ECONOMIA DIGITAL
+
+P - P11 - Modelo de Economia Digital do Piauí
+
+P -  P12 - Programa de Capacitação e Assistência Técnica para Rastreabilidade Digital
+
+P - P13 - Plataforma de Fortalecimento da Economia Digital
+
+P - P14 - Fortalecimento de capacidades para a Economia Digital para Mulheres e Comunidades
+Vulneráveis
+C - C5 - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+
+P - PA1 - Gestão do Programa
+
+P - PA2 - Avaliação intermediária, final e de impacto
+
+P - PA3 - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - C1 - TRANSFORMAÇÃO DIGITAL DOS SERVIÇOS PÚBLICOS
+
+COMPONENTES
+
+P - P1 - Aprimoramento da Gestão Governamental por Previsibilidade e Aperfeiçoamento de
+Processos Administrativos
+P - P2 - Desenvolvimento de competência
+
+P - P3 - Modernização e Desenvolvimento de Sistemas Corporativos
+
+P - P4 - Infraestrutura de Dados Espaciais (IDE)
+
+P - P5 - Fortalecimento da segurança e proteção de pessoas em situação de vulnerabilidade e
+risco
+C - C2 - CONECTIVIDADE E INCLUSÃO DIGITAL
+
+P - P6 - Proporcionar Conectividade por meio de Rede Óptica para a Região Sul do Piauí
+
+P - P7: Projetos de Inclusão Digital em Comunidades Isoladas e vulneráveis
+
+C - C3 - CIBERSEGURANÇA, INFRAESTRUTURA DE TI E INFRAESTRUTURA PÚBLICA
+
+P - P8 - Fortalecimento da infraestrutura e dos serviços de segurança cibernética do Estado
+
+P - P9 - Modernização da Infraestrutura de DataCenter do Estado
+
+P - P10 - Modernização de Parque Tecnológico
+
+C - C4 - ECONOMIA DIGITAL
+
+P - P11 - Modelo de Economia Digital do Piauí
+
+P -  P12 - Programa de Capacitação e Assistência Técnica para Rastreabilidade Digital
+
+P - P13 - Plataforma de Fortalecimento da Economia Digital
+
+P - P14 - Fortalecimento de capacidades para a Economia Digital para Mulheres e Comunidades
+Vulneráveis
+C - C5 - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+
+P - PA1 - Gestão do Programa
+
+P - PA2 - Avaliação intermediária, final e de impacto
+
+P - PA3 - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - C1 - TRANSFORMAÇÃO DIGITAL DOS SERVIÇOS PÚBLICOS
+
+COMPONENTES
+
+P - P1 - Aprimoramento da Gestão Governamental por Previsibilidade e Aperfeiçoamento de
+Processos Administrativos
+P - P2 - Desenvolvimento de competência
+
+P - P3 - Modernização e Desenvolvimento de Sistemas Corporativos
+
+P - P4 - Infraestrutura de Dados Espaciais (IDE)
+
+P - P5 - Fortalecimento da segurança e proteção de pessoas em situação de vulnerabilidade e
+risco
+C - C2 - CONECTIVIDADE E INCLUSÃO DIGITAL
+
+P - P6 - Proporcionar Conectividade por meio de Rede Óptica para a Região Sul do Piauí
+
+P - P7: Projetos de Inclusão Digital em Comunidades Isoladas e vulneráveis
+
+C - C3 - CIBERSEGURANÇA, INFRAESTRUTURA DE TI E INFRAESTRUTURA PÚBLICA
+
+P - P8 - Fortalecimento da infraestrutura e dos serviços de segurança cibernética do Estado
+
+0,00
+
+1.018.647,17
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+440.000,00
+
+1.369.556,35
+
+184.800,00
+
+221.000,00
+
+1.452.534,11
+
+1.109.454,19
+
+343.079,92
+
+3.000.000,00
+
+3.195.196,90
+
+0,00
+
+1.029.239,77
+
+3.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.165.957,13
+
+744.803,05
+
+22.078,97
+
+222.212,76
+
+433.950,00
+
+66.561,32
+
+250.000,00
+
+200.000,00
+
+0,00
+
+50.000,00
+
+0,00
+
+3.000.000,00
+
+8.876.537,58
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+BID
+
+6.577.508,81
+
+2.171.617,94
+
+800.000,00
+
+2.623.890,87
+
+462.000,00
+
+520.000,00
+
+3.782.417,16
+
+3.148.635,48
+
+633.781,68
+
+2.500.000,00
+
+5.429.263,15
+
+0,00
+
+1.901.345,02
+
+2.500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.527.918,13
+
+3.153.099,38
+
+154.394,86
+
+404.023,20
+
+2.261.874,74
+
+332.806,58
+
+480.000,00
+
+380.000,00
+
+50.000,00
+
+50.000,00
+
+0,00
+
+2.500.000,00
+
+19.422.288,50
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+BID
+
+5.048.569,32
+
+1.708.003,90
+
+660.000,00
+
+2.041.015,42
+
+358.050,00
+
+281.500,00
+
+3.724.873,29
+
+3.221.442,49
+
+503.430,80
+
+3.000.000,00
+
+4.011.231,96
+
+0,00
+
+1.510.292,39
+
+
+Página: 20
+
+P - P9 - Modernização da Infraestrutura de DataCenter do Estado
+
+3.000.000,00
+
+0,00
+
+P - P10 - Modernização de Parque Tecnológico
+
+C - C4 - ECONOMIA DIGITAL
+
+P - P11 - Modelo de Economia Digital do Piauí
+
+P -  P12 - Programa de Capacitação e Assistência Técnica para Rastreabilidade Digital
+
+P - P13 - Plataforma de Fortalecimento da Economia Digital
+
+P - P14 - Fortalecimento de capacidades para a Economia Digital para Mulheres e Comunidades
+Vulneráveis
+C - C5 - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+
+P - PA1 - Gestão do Programa
+
+P - PA2 - Avaliação intermediária, final e de impacto
+
+P - PA3 - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - C1 - TRANSFORMAÇÃO DIGITAL DOS SERVIÇOS PÚBLICOS
+
+COMPONENTES
+
+P - P1 - Aprimoramento da Gestão Governamental por Previsibilidade e Aperfeiçoamento de
+Processos Administrativos
+P - P2 - Desenvolvimento de competência
+
+P - P3 - Modernização e Desenvolvimento de Sistemas Corporativos
+
+P - P4 - Infraestrutura de Dados Espaciais (IDE)
+
+P - P5 - Fortalecimento da segurança e proteção de pessoas em situação de vulnerabilidade e
+risco
+C - C2 - CONECTIVIDADE E INCLUSÃO DIGITAL
+
+P - P6 - Proporcionar Conectividade por meio de Rede Óptica para a Região Sul do Piauí
+
+P - P7: Projetos de Inclusão Digital em Comunidades Isoladas e vulneráveis
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.500.939,57
+
+2.411.531,19
+
+85.556,02
+
+313.319,14
+
+1.641.608,29
+
+371.047,74
+
+440.000,00
+
+290.000,00
+
+100.000,00
+
+50.000,00
+
+0,00
+
+3.000.000,00
+
+15.636.205,76
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+BID
+
+1.072.188,60
+
+396.452,24
+
+100.000,00
+
+490.486,36
+
+57.750,00
+
+27.500,00
+
+546.491,22
+
+467.329,43
+
+79.161,79
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+17.443.772,01
+
+5.929.044,84
+
+2.000.000,00
+
+7.209.727,17
+
+1.155.000,00
+
+1.150.000,00
+
+10.306.042,88
+
+8.746.588,69
+
+1.559.454,19
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+C - C3 - CIBERSEGURANÇA, INFRAESTRUTURA DE TI E INFRAESTRUTURA PÚBLICA
+
+2.000.000,00
+
+916.744,64
+
+12.500.000,00
+
+13.552.436,65
+
+P - P8 - Fortalecimento da infraestrutura e dos serviços de segurança cibernética do Estado
+
+0,00
+
+237.485,38
+
+0,00
+
+4.678.362,56
+
+P - P9 - Modernização da Infraestrutura de DataCenter do Estado
+
+2.000.000,00
+
+0,00
+
+12.500.000,00
+
+0,00
+
+P - P10 - Modernização de Parque Tecnológico
+
+C - C4 - ECONOMIA DIGITAL
+
+P - P11 - Modelo de Economia Digital do Piauí
+
+P -  P12 - Programa de Capacitação e Assistência Técnica para Rastreabilidade Digital
+
+P - P13 - Plataforma de Fortalecimento da Economia Digital
+
+P - P14 - Fortalecimento de capacidades para a Economia Digital para Mulheres e Comunidades
+Vulneráveis
+C - C5 - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+
+P - PA1 - Gestão do Programa
+
+P - PA2 - Avaliação intermediária, final e de impacto
+
+P - PA3 - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+5.RISCOS
+
+5.1.RISCOS/ATOS LEGAIS
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+679.259,26
+
+519.739,89
+
+13.957,30
+
+70.502,90
+
+373.678,87
+
+61.600,82
+
+200.000,00
+
+50.000,00
+
+100.000,00
+
+50.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+8.874.074,09
+
+7.197.748,46
+
+275.987,15
+
+1.010.058,00
+
+5.079.686,85
+
+832.016,46
+
+1.500.000,00
+
+1.000.000,00
+
+250.000,00
+
+250.000,00
+
+62.500.000,00
+
+2.000.000,00
+
+3.255.164,35
+
+12.500.000,00
+
+50.000.000,00
+
+A operação de crédito pleiteada exige a aprovação de lei autorizativa pela Assembleia Estadual que permita ao Estado a contratação de
+financiamento externo. O projeto de Lei observará o disposto no Manual de Instrução de Pleitos (MIP/STNS) e será levado à apreciação e
+aprovação da Assembleia Estadual, uma vez aprovada a carta consulta pela COFIEX.
+
+Quanto aos Decretos, Portarias e Instruções de Serviço, o Executivo Estadual tem plena governabilidade sobre o processo necessário à
+sua edição, contando, ainda, com equipes suficientemente capacitadas para proceder à sua concepção e redação e tramitação nas
+instâncias governamentais competentes.
+
+No que se refere à Lei autorizativa, a equipe de governo, responsável pelo relacionamento com a Assembleia Legislativa, tem mostrado o
+real estado das finanças estaduais e sensibilizado os membros daquele Poder, sobre a importância do financiamento para a melhoria da
+prestação dos serviços para a sociedade com a boa aplicação dos recursos públicos.
+
+Quanto à Lei de Responsabilidade Fiscal (LRF), a administração deve apresentar evidências de conformidade no cumprimento da Lei de
+regularidade dos requisitos fiscais obrigatórios para fins de celebração de instrumentos contratuais.
+
+Quanto à garantia da União, o Estado deverá apresentar as condições de contragarantia ao Governo Federal, conforme legislação vigente
+.
+
+Quanto à criação da UCP, o estado irá criar por Decreto a Unidade de Coordenação do Programa.
+
+
+Página: 21
+
+5.2. RISCOS/CONTRATAÇÕES
+
+5.2.RISCOS/CONTRATAÇÕES
+
+São identificados dois riscos relevantes quanto ao prazo de execução, tomando como base a experiência dos estados ao executarem
+outros programas com recursos de financiamento externo, quais sejam:
+
+a) Possíveis atrasos na elaboração dos termos de referência, relacionados com a dificuldade na preparação dos TDR
+
+b) Possíveis atrasos na tramitação interna dos projetos, em especial na realização das licitações.
+
+Ações mitigadoras:
+
+_Constituição de comissões internas para elaboração dos Termos de Referência dos produtos mais complexos ou prioritários;
+
+_Contratação de consultores para apoiar a elaboração dos Termos de Referência mais complexos e para auxiliar a formulação de
+metodologias e desenho de processos que serão aperfeiçoados ou implantados, além de conferir a qualidade das entregas;
+
+_Realizar atividades de capacitação e reciclagem sobre as normas e procedimentos de aquisições do BID;
+
+_Estabelecer formalmente, por portaria interna, o Líder responsável pela execução do Produto, bem como designar a sua equipe técnica;
+
+_Compor a Comissão Especial de Licitações com técnicos que já dispõem de conhecimento e experiência nas normas e procedimentos de
+aquisição do BID;
+
+_Estreitar o relacionamento com a equipe da unidade responsável pela fase externa das licitações no âmbito da central de licitações da
+Procuradoria Geral do Estado do Piauí.
+
+_Capacitar a equipe da Unidade de Coordenação do Programa - UCP  e os líderes técnicos em gestão de contratos, incluindo a
+verificação da qualidade e tempestividades das entregas.
+
+Os riscos quanto à execução do Projeto estão no âmbito da governabilidade do Governo do Estado do Piauí, o que minimiza possíveis
+externalidades que poderiam gerar impactos negativos sobre a execução do Projeto. As atividades previstas encontram-se harmonizadas
+com o Plano Estratégico e Plano Plurianual do governo e em consequência com os objetivos, diretrizes, metas e prioridades traçadas.
+
+A identificação de outros riscos à execução do Projeto e sua mitigação estão descritas no Anexo 16.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+O Projeto não envolverá a construção de novos prédios ou a desapropriação de imóveis. As reformas de infraestrutura e a instalação do
+backbone óptico serão realizadas apenas em propriedades do Estado ou áreas previstas conforme regulamentação. Em casos extremos
+que exijam desapropriações, o Estado terá uma equipe capacitada para resolver conflitos através de parcerias com órgãos de gestão
+rodoviária (DER-PI, DNIT) e ocupantes, conforme as regras de compartilhamento de faixas de domínio ou infraestrutura existentes.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+A fim de reduzir o risco de impacto ambiental, todos os equipamentos envolvidos no programa terão que possuir selo de eficiência
+energética. A exigência do selo ou certificações de eficiência energética constará nos Termos de Referência e nas especificações técnicas
+das aquisições de equipamentos financiados com recursos do Programa.
+
+Com relação à aquisição do Data Center, por se tratar de um equipamento de alto consumo de energia, o Programa prevê recursos,
+também, para prover energia de fontes renováveis para a alimentação destes equipamentos, além da aquisição de equipamentos com o
+selo de eficiência energética.
+
+Com relação aos licenciamentos ambientais, estes não serão necessários, pois as obras previstas para a construção do Cinturão Digital
+Sul não causam impactos ambientais.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+O impacto social de maior relevância se dá na inclusão digital dos cidadãos, possibilitando novas perspectivas de vida e o maior e melhor
+acesso aos serviços públicos em multiplataforma, associados ao desenvolvimento das suas capacidades digitais.
+
+Destaca-se também como impacto social positivo o desenvolvimento de soluções para a inclusão de comunidades vulneráveis, que terão
+acesso à internet de qualidade não só para usufruir dos serviços oferecidos pelo Governo, principalmente nas áreas de educação e saúde,
+mas também para oportunidades na geração de emprego e renda.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 22
+
+A ampliação do Programa Salve Maria no estado do Piauí será ainda mais significativo, promovendo a segurança e o bem-estar das
+mulheres ao fornecer uma plataforma eficaz para denunciar casos de violência doméstica e de gênero em todo Estado. As mulheres
+podem relatar abusos de forma anônima e imediata, facilitando uma resposta rápida das autoridades competentes. Este acesso fácil e
+seguro à denúncia não só encoraja mais mulheres a buscarem ajuda, como também aumenta a confiança da comunidade nos
+mecanismos de proteção oferecidos pelo Estado. Além disso, a presença de campanhas educativas e de conscientização contribui para a
+mudança cultural, reduzindo a aceitação da violência como uma norma social.
+
+Outro impacto significativo é o fortalecimento da rede de apoio às vítimas. O programa trabalha em estreita colaboração com órgãos de
+segurança pública, serviços de saúde, e instituições de apoio social, garantindo que as mulheres recebam o suporte necessário em todas
+as fases, desde a denúncia até a recuperação.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+O risco não se aplica, pois não haverá reassentamentos em decorrência da implementação do programa de obras e instalações. Contudo,
+em casos extremos que exijam Reassentamentos, o Estado terá uma equipe capacitada para resolver conflitos através de parcerias com
+órgãos de gestão rodoviária (DER-PI, DNIT), comunidades locais, prefeitura e eventuais ocupantes, conforme as regras de
+compartilhamento de faixas de domínio ou infraestrutura existentes e eventual uso de verbas de contingência dos projetos.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+-  04/10/2024:  Retirada  de  pauta  pela  176ª  Reunião  da  Cofiex,  em  26  de  setembro  de  2024,  por  exceder  o  limite  disponível  para  esta
+reunião.
+
+Informações relevantes
+
+(cid:10)

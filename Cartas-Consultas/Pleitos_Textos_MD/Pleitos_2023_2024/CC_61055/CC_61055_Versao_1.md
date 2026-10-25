@@ -1,0 +1,1041 @@
+# Carta-Consulta CC_61055 — Versao 1 (SIGS)
+
+
+Programa de Sustentabilidade Fiscal, Econômica e Ambiental do Estado de Pernambuco
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 61055
+Mutuário: Estado de Pernambuco
+Tipo de Operação: Operação de crédito externo
+
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 275.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+Pernambuco é formado por 184 municípios e Fernando de Noronha. Com uma população de 9.058.155 habitantes, tem Recife como
+capital. Possui a 2ª maior economia do Nordeste, sendo a 10ª entre os 27 estados da federação. Seu PIB, em 2022, foi de R$ 254,9
+bilhões. Com um IDH igual a 0,719, Pernambuco ocupa a 15ª posição entre as unidades federativas.
+
+Diagnóstico Fiscal
+
+O Estado apresenta uma retomada do equilíbrio fiscal. A trajetória de resultados primários, partindo de 853 milhões de reais em 2018,
+culminando em mais de 3 bilhões de reais em 2021, assim como a progressiva evolução do indicador de liquidez, de iniciais negativos 2,5
+bilhões de reais em 2018 até atingir 576 milhões de reais, em 2021 demonstram a recuperação.
+
+Com as Leis Complementares 192 e 194 de 2022, a principal receita do estado ? arrecadação do ICMS - foi severamente afetada,
+provocando um déficit ao erário da ordem de 3,5 bilhões de reais entre julho de 2022 e junho de 2023. Com a redução da receita do
+estado, é perceptível em 2022 a deterioração dos resultados fiscais: o Resultado Primário regride e a disponibilidade líquida resta negativa
+em 370 milhões de reais.
+
+O resultado orçamentário no segundo bimestre de 2023 teve uma redução de 3,66% quando comparado com o segundo bimestre de 2022
+. Já a receita corrente líquida (RCL) que tinha crescido 16,34% em 2022, comparada com o mesmo período de 2021, teve um crescimento
+menor no 2º bimestre de 2023, frente ao 2º bimestre de 2022 ? 13,48%. No mesmo período, a despesa de pessoal do Executivo saiu de
+40,15% no 1º quadrimestre de 2022 para 44,82% no 1º quadrimestre de 2023. Apesar desses números, a dívida consolidada do Estado
+correspondeu a 24,99% da receita corrente líquida ajustada (RCLA) no primeiro quadrimestre de 2023.
+
+Diante deste cenário, o estado busca retomar o equilíbrio fiscal e vem implementando ações que visam aumentar a qualidade dos gastos.
+
+Em relação ao melhor aproveitamento dos recursos disponíveis, cabe mencionar que o Estado não possui um banco de projetos unificado
+e estruturado em termos de custos, indicadores, análise de viabilidade técnica, econômica, social e ambiental que possa ser utilizado para
+nortear a tomada de decisão em termos de investimento público. Dessa forma, tornou-se necessário buscar uma ferramenta que auxilie no
+planejamento eficiente dos recursos previstos, considerando sua escassez.
+
+Diagnóstico Economia Verde
+
+Pernambuco é uma das regiões mais vulneráveis aos efeitos da mudança do clima. 135 municípios encontram-se ameaçados pela
+desertificação. O litoral é extremamente vulnerável: com a concentração de chuvas e o aumento do nível do mar, estudos apontam que 40
+a 50% do território das principais cidades litorâneas ficarão submersos.
+
+Visando reduzir a vulnerabilidade climática e alcançar a neutralidade das emissões de gases de efeito estufa, o Plano de Descarbonização
+de Pernambuco (PDPE) prevê a implementação de mudanças em setores socioeconômicos, incluindo a ampliação da energia solar e
+eólica onshore. Porém, a ausência de regulamentação para o licenciamento de empreendimentos eólicos gera desafios, especialmente
+relacionados à supressão da vegetação nativa e aos impactos sociais nas comunidades locais.
+
+No que diz respeito ao ambiente de negócios, a política de atração de investimentos privados é um importante aspecto do
+desenvolvimento econômico, uma das bases dessa política é a racionalização dos procedimentos necessários à instalação de atividades
+empresariais. Tais procedimentos por vezes são impeditivos à implantação de novos negócios, atingindo os grandes grupos empresariais
+e, principalmente, os pequenos empreendedores.
+
+Pernambuco deu um passo significativo em prol do desenvolvimento e da competitividade. Dentre as principais medidas recentes,
+destacam-se simplificações trazidas pela legislação para atividades econômicas classificadas como baixo risco. Com a publicação de um
+conjunto de decretos que visam melhorar o ambiente de negócios para empreendedores e empresas, dentre eles, o Decreto nº 52.005, de
+14 de dezembro de 2021, o Estado classificou 490 (quatrocentas e noventa) atividades econômicas como de baixo nível de risco.
+
+Apesar dos avanços, ainda é necessário promover mais ações de desburocratização para Registro e Legalização de empresas, pois
+Pernambuco não está bem avaliado no Ranking de Competitividade dos Estados e Municípios de 2023.
+
+Por fim, com o intuito de garantir a sustentabilidade no ambiente dos negócios, o Selo Empresa Verde foi instituído pelo governo do
+Estado através da Lei nº 16.112, de 5 de julho de 2017. Este selo reconhece a excelência empresarial das operações, atuação de forma
+correta e proteção do ecossistema por um empreendimento.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+Essa lei, todavia, não apresenta decreto regulamentador com parâmetros específicos que garantam sua fiel execução. Além disso, desde
+sua instituição, apenas uma empresa concorreu e foi contemplada pelo Selo Empresa Verde.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+Pilar Fiscal
+
+Pernambuco propõe medidas que trarão sustentabilidade fiscal para os próximos anos. Elas consubstanciam-se em Projetos de Lei sobre
+o Reequilíbrio da Base Tributária, Conformidade Tributária e Renegociação de Débitos Fiscais, no âmbito da recomposição das divisas
+arrecadatórias.
+
+Em atenção à implantação do conceito de qualidade de gasto, instaurado com o Decreto Nº 54.395, de 5 de janeiro de 2023, fez-se
+necessária a atualização do Decreto Nº 44.279/2017, que instituiu procedimentos de autorização da despesa pública no âmbito do Poder
+Executivo Estadual.
+
+Em relação à eficientização da aplicação dos recursos públicos, o projeto em tela prevê a introdução de um novo framework de
+Gerenciamento de Investimentos Públicos (GIP) para melhorar a governança do ciclo dos projetos, visando integrar as ações desde o
+planejamento até a implementação e, por fim, a avaliação dos mesmos.
+
+A metodologia GIP garante que as novas propostas de investimentos públicos estejam em conformidade com as diretrizes estabelecidas
+no manual que será desenvolvido para apoiar sua implementação. O novo framework introduzirá uma estrutura de governança aprimorada
+que auxiliará a tomada de decisão e a aplicação dos recursos públicos.
+
+Medidas:
+
+Racionalizar o gasto público, com atualização do Decreto de Despesa Pública ? trazendo inovações para o monitoramento da execução
+das despesas. Com essa medida, busca-se fortalecer o teto de gastos.
+
+Reestruturar a dívida estadual com instituições financeiras nacionais junto ao BIRD, no qual o foco é a redução das prestações, de modo a
+melhorar o perfil da dívida e o fluxo de caixa.
+
+Fortalecer o órgão de gestão da dívida no Tesouro Estadual, fazendo-o incorporar à Diretoria Geral de Sustentabilidade Fiscal, que está
+por ser criada dentro da estrutura da SEFAZ-PE.
+
+Implantar, através da publicação de um decreto, a ferramenta de Gerenciamento de Investimentos Públicos (GIP), garantindo que o
+Estado irá focar seus recursos (humanos, financeiros, institucionais) nas entregas com maior viabilidade técnica e impacto social e
+econômico para os pernambucanos.
+
+Instituir a Conformidade Tributária, que visa diminuir o gap de arrecadação, estimulando o cumprimento das obrigações fiscais por parte
+do conjunto de contribuintes de ICMS do estado.
+
+Recompor as perdas de arrecadação com realinhamento da alíquota modal do ICMS  e do IPVA, reorganizando a base de receita mínima
+necessária para contrabalançar o nível de despesa mínimo recomendável.
+
+Pilar Economia Verde
+
+Para que os empreendedores possam acompanhar a velocidade das mudanças atuais, é necessário dar as condições para que as
+empresas sigam no mesmo ritmo do mercado. A existência de regulamentações mais eficientes em relação à abertura de empresas
+melhora a produtividade das empresas e o desempenho macroeconômico.
+
+Especificamente sobre a questão ambiental, ampliar a matriz energética limpa e renovável faz parte da estratégia de descarbonização do
+estado, a solução proposta é garantir a expansão dos empreendimentos eólicos em Pernambuco de modo sustentável e justo. Para tanto,
+medidas a serem aplicadas são aquelas relacionadas à construção de um Programa de transição energética, ágil, responsável e justo.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+Medidas:
+
+Ampliação da classificação de atividades econômicas como de baixo risco, mediante publicação de um novo Decreto.
+
+Ampliação de municípios atendidos pelo Balcão Único online, comprovado através da assinatura de Convênios de Adesão pelos
+Municípios.
+
+Criação do Decreto que regulamenta a Lei nº 16.112, de 5 de julho de 2017, estabelecendo parâmetros para a execução da Lei e critérios
+de boas práticas sociais e de governança para somar aos critérios ambientais propostos.
+
+Publicar decreto com regulamentação para a implantação de empreendimentos de energia solar e eólica.
+
+RESULTADOS ESPERADOS
+
+Pilar Fiscal
+
+Melhora da situação fiscal do Estado a partir da suavização dos fluxos de caixa e maior controle de gastos públicos, melhoria de
+indicadores fiscais e criação de espaço fiscal para investimentos.
+
+Em termos de gestão de investimentos, o resultado esperado é a adoção de mecanismos de verificações e procedimentos rigorosos para
+priorização e seleção de projetos de investimentos, levando a maiores retornos econômicos e sociais.
+
+Pilar Economia Verde
+
+Ao reduzir a burocracia para abrir uma empresa, mais indivíduos são incentivados a empreender, gerando crescimento econômico, visto
+que mais empresas abrindo significa mais empregos sendo criados.
+
+Aumentar o quantitativo de empresas sustentáveis no Estado de Pernambuco.
+
+Disseminar boas práticas ambientais, sociais e de governança no setor de negócios do Estado de Pernambuco.
+
+Ampliar a adesão das empresas pernambucanas ao Selo Empresa Verde.
+
+Fortalecimento da legislação estadual sobre a implantação de empreendimentos de energia solar e eólica;
+
+SUSTENTABILIDADE
+
+No que tange a sustentabilidade das ações previstas no longo prazo, destaca-se que as medidas a serem implementadas estão atreladas
+à previsão legal, dando legitimidade às iniciativas do programa. Ademais, as ações também preveem um fortalecimento institucional das
+secretarias envolvidas na implementação do Pernambuco Mais Sustentável, ou seja, as novas rotinas e políticas serão incorporadas pelas
+instituições na implementação das suas atividades cotidianas, tornando-se, após o período de implantação, uma atribuição natural e
+orgânica a ser executada na rotina de trabalho. Por fim, as ações visadas tendem a não comprometer a entrega de serviços públicos à
+população, mas contribuir para a sustentabilidade fiscal do estado e incentivar as boas práticas futuras nos setores fiscal, de gestão
+pública, proteção ambiental e fomento ao crescimento econômico.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+A reestruturação e recomposição das dívidas do Estado de Pernambuco contraídas junto ao Banco do Brasil, à Caixa Econômica Federal,
+ao Banco de Brasília e aos Bancos ABC, Itaú e Santander atende ao artigo 7º, § 7º da Resolução do Senado Federal nº 43/2001 para fins
+de tratamento de excepcionalidade nos limites de endividamento. Nessa medida, em operações de reestruturação o Estado fica
+desobrigado de atender aos limites e condições para contratação de operação de crédito e não se faz necessário a inclusão da
+reestruturação e recomposição dessa dívida no Plano Plurianual - PPA, por caracterizar-se em duplicidade, considerando que já constam
+da Lei Orçamentária Anual - LOA, da Lei de Diretrizes Orçamentárias - LDO e PPA os serviços da dívida em dólares. Tendo em vista
+ainda que a proposta de refinanciamento cumpre o sentido de mitigar os atuais custos dessas dívidas, os ajustes necessários serão
+realizados em momento legal oportuno.
+
+contrapartida: De acordo com o Art. 3º da Resolução COFIEX n° 3 de 29 de maio de 2019: Não será exigido o requisito de contrapartida a
+que se referem os artigos anteriores, nas seguintes operações: [...] II - de reestruturação e recomposição do principal de dívidas.
+
+taxa de câmbio: US$ 1,00 = R$ 5,0673Data: 02/10/2023
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa de Sustentabilidade Fiscal, Econômica e Ambiental do Estado de Pernambuco
+
+
+### 2.2. Título Abreviado
+
+
+Programa Pernambuco Mais Sustentável
+
+
+### 2.3. Mutuário
+
+
+Estado de Pernambuco
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Objetivo Geral
+
+O objetivo geral do projeto está estruturado em dois pilares: o fiscal e o de economia verde.
+
+No pilar fiscal, tem-se como objetivo geral promover ações estratégicas visando a construção de um marco institucional e regulatório que
+contribua para a sustentabilidade fiscal do Estado de Pernambuco, assim como para a melhoria da gestão dos investimentos públicos
+prioritários. Dessa forma, as medidas visam a redução de obrigações imediatas, em especial a partir de limitação ao aumento de despesas
+e especialmente em relação à melhoria do perfil da dívida estadual por meio da sua reestruturação.
+
+No pilar Economia Verde, tem-se como objetivo geral incentivar as empresas pernambucanas a adotarem boas práticas ambientais,
+sociais e de governança; e aprimorar os processos de abertura de empresas, desburocratizando e agilizando etapas de registro, com o
+intuito de promover o crescimento econômico sustentável.
+
+Objetivos Específicos
+
+- Promover a sustentabilidade fiscal a partir da aprovação de projetos legislativos voltados à recomposição da matriz de arrecadação do
+estado e instauração da cultura da conformidade fiscal, para com o conjunto de contribuintes do ICMS;
+
+- Compatibilizar o decreto de despesas do estado com o instituto de qualidade de gasto público, fundado no presente exercício fiscal;
+
+- Melhorar o perfil de endividamento do Estado;
+
+- Possibilitar a escolha racional e eficiente da alocação de recursos públicos através da realização de  investimentos bem planejados e
+avaliados tecnicamente em termos de viabilidade, relevância e impactos sociais, ambiental e econômico;
+
+- Desenvolver aparato legal e institucionalização das políticas voltadas à geração de energia renovável;
+
+- Reduzir os impactos sociais dos empreendimentos solares e eólicos de modo a garantir a justiça climática;
+
+- Criar Decreto que regulamenta a Lei nº 16.112 e estabelece critérios ambientais, sociais e de governança para os empreendimentos
+pernambucanos;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 6
+
+- Formar uma rede de apoio para divulgação e promoção do Selo Empresa Verde e de boas práticas ambientais, sociais e de governança
+para os empreendimentos pernambucanos;
+
+- Articular com a SAD/SEFAZ para o estabelecimento de formas de beneficiar as empresas portadoras do Selo Empresa Verde;
+
+- Aumentar o número de atividades econômicas classificadas como de baixo risco para fins de abertura de empresas;
+
+- Ampliar o número de municípios beneficiados pela ferramenta Balcão Único.
+
+Fórmula de Cálculo Unidade de Medida
+Despesa Corrente/
+Receita Corrente
+
+% da RCL
+
+Linha de Base
+96,00
+
+CAPAG,onde
+CAPAG B=2; C=3
+
+3,00
+
+Meta
+95,00
+
+2,00
+
+
+### 2.6. Projeto/Indicadores
+
+
+Descrição
+Poupança Corrente. O indicador de poupança
+corrente (PC) corresponde à relação entre
+despesas correntes e receitas correntes
+Capacidade de Pagamento- CAPAG
+
+Projetos de investimento público preparados, pré
+-avaliados tecnicamente e selecionados de
+acordo com nova metodologia
+
+Número de empresas com o Selo Empresa
+Verde
+
+Número de atividades econômicas classificadas
+como baixo risco
+Número de municípios atendidos pelo Balcão
+Único
+
+
+### 2.7. Projeto/Componentes
+
+
+O índice CAPAG é
+composto por três
+indicadores:
+endividamento,
+poupança corrente e
+índice de liquidez. A
+cada indicador
+econômico-financeiro
+estabelecido no art. 2º
+, da portaria ME Nº 5.
+623, DE 22 DE
+JUNHO DE 2022 será
+atribuída uma letra (A
+, B ou C) que
+representará a
+classificação parcial
+do ente naquele
+indicador, conforme o
+enquadramento
+apresentado nas
+faixas de valores da
+tabela contida na
+referida portaria.
+Número de projetos
+selecionados através
+da metodologia GIP/
+Número de projetos
+total
+Quantidade de
+empresas inscritas -
+Quantidade de
+empresas que não
+atendem aos critérios
+= Quantidade de
+empresas que
+receberão o Selo
+n/a
+
+n/a
+
+%
+
+0,00
+
+30,00
+
+Número de
+Empresas
+
+1,00
+
+5,00
+
+N. atividades
+econômicas
+Número de
+municípios
+
+490,00
+
+1,00
+
+550,00
+
+7,00
+
+(cid:10)
+
+
+Componentes
+C - REESTRUTURAÇÃO DA DÍVIDA PÚBLICA ESTADUAL
+P - Reestruturação da composição da carteira da Dívida com agentes financeiros
+P - Fortalecimento institucional da equipe de acompanhamento da Dívida SEFAZ
+C - SUSTENTABILIDADE FISCAL
+P - Recomposição da matriz de arrecadação do estado e instauração da cultura da conformidade fiscal
+P - Reforma no Teto de Gastos do Poder Executivo
+P - Framework de Gerenciamento de Investimentos Públicos (GIP)
+C - ECONOMIA VERDE
+P - Política de Selo Empresas Verdes (beneficiamento em compras públicas)
+P - Desburocratização para abertura de novas empresas
+P - Programa de transição energética, ágil, responsável e justa
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 7
+
+Valor(US$)
+275.000.000,00
+275.000.000,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+275.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - REESTRUTURAÇÃO DA DÍVIDA PÚBLICA ESTADUAL
+Contratação de empréstimo para melhora do perfil da dívida estadual
+
+P - Reestruturação da composição da carteira da Dívida com agentes financeiros
+Realizar operação com o Banco Mundial para reestruturação das dívidas das operações de crédito com o Banco do Brasil S.A,
+Caixa Econômica Federal, Banco de Brasília S.A e o consórcio de bancos ABC + Itaú + Santander.
+
+P - Fortalecimento institucional da equipe de acompanhamento da Dívida SEFAZ
+Criar a Diretoria Geral de Sustentabilidade Fiscal, no âmbito da estrutura do Tesouro Estadual, que congregará a mitigação de
+riscos fiscais, as tratativas com respeito ao PAF e a gerência da Dívida Pública do Estado.
+
+C - SUSTENTABILIDADE FISCAL
+Medidas necessárias para aumentar a sustentabilidade fiscal
+
+P - Recomposição da matriz de arrecadação do estado e instauração da cultura da conformidade fiscal
+Melhoria da relação Fisco-Contribuinte, instaurando nova cultura de tratamento responsável recíproco. Visando o cumprimento das
+obrigações tributárias e redução do gap de arrecadação. Em meio a esta transição, tornou-se oportuno firmar programa de
+recuperação de créditos fiscais, compelindo o contribuinte à regularidade tributária.
+De ambos os movimentos pretende-se um imediato ingresso de recursos, melhorando a disponibilidade presente e um mediato
+incremento de arrecadação espontânea do contribuinte, sob a égide desta forma de atuação do fisco
+
+P - Reforma no Teto de Gastos do Poder Executivo
+Compatibilização do Decreto de qualidade do gasto público com o da Despesa Pública do estado.
+
+P - Framework de Gerenciamento de Investimentos Públicos (GIP)
+Melhorar a governança do ciclo dos projetos para integrar ações desde o planejamento até a implementação e avaliação dos
+mesmos, através da estruturação de um ?banco de projetos? eficientes do Estado.
+
+C - ECONOMIA VERDE
+Fomento da atração de negócios para fortalecimento da competitividade econômica do Estado de modo sustentável e justo
+
+P - Política de Selo Empresas Verdes (beneficiamento em compras públicas)
+Criação de decreto que regulamenta a Lei nº 16.112, de 5 de julho de 2017. Através do decreto, serão estabelecidos parâmetros
+específicos para a execução da lei e incluídos critérios de boas práticas sociais e de governança para somar aos critérios
+ambientais propostos. Além disso, será articulado com outras Secretarias de Estado formas de beneficiar as empresas portadoras
+do Selo Empresa Verde.
+
+P - Desburocratização para abertura de novas empresas
+Simplificação dos procedimentos para abertura de empresas através da ampliação do rol de atividades econômicas consideradas
+de baixo risco e da ampliação dos municípios atendidos pela plataforma Balcão Único
+
+P - Programa de transição energética, ágil, responsável e justa
+Ampliação da energia solar e eólica onshore no eixo de energia. Para isso, deverá ser elaborado um decreto regulamentando a
+implantação de empreendimentos energéticos no Estado de Pernambuco, de modo sustentável, garantindo que a produção de
+energia seja limpa, que esses empreendimentos não degradem o ambiente e que tragam benefícios reais às comunidades locais.
+
+
+Página: 8
+
+Categoria de Gasto
+
+Outros
+P- Reestruturação da composição da carteira da
+Dívida com agentes financeiros
+P- Fortalecimento institucional da equipe de
+acompanhamento da Dívida SEFAZ
+P- Recomposição da matriz de arrecadação do
+estado e instauração da cultura da conformidade
+fiscal
+P- Reforma no Teto de Gastos do Poder
+Executivo
+P- Framework de Gerenciamento de
+Investimentos Públicos (GIP)
+P- Política de Selo Empresas Verdes (
+beneficiamento em compras públicas)
+P- Desburocratização para abertura de novas
+empresas
+P- Programa de transição energética, ágil,
+responsável e justa
+Total Geral
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Pilar Fiscal
+
+Unidade de medida
+-
+Dolar
+
+unidade
+
+unidade
+
+unidade
+
+unidade
+
+unidade
+
+Unidade
+
+Unidade
+
+-
+
+Meta
+
+Valor
+
+% Financeiro
+
+-
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+-
+
+275.000.000,00
+275.000.000,00
+
+100,00
+100,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+275.000.000,00
+
+100,00
+
+Reestruturar a dívida estadual com o sistema financeiro e instituições multilaterais, no qual o foco é a redução extraordinária das
+prestações, de modo a melhorar o fluxo de caixa do Estado. Tendo em vista as altas taxas de juros de 2023, o Estado de Pernambuco
+está buscando melhorar ainda mais o perfil de sua dívida. A razão desta carta consulta é justamente realizar operação com o Banco
+Mundial para reestruturação das dívidas das operações de crédito com o Banco do Brasil S.A , Caixa Econômica Federal, Banco de
+Brasília S.A e o consórcio de bancos ABC + Itaú + Santander.
+
+As tratativas já se iniciaram e as propostas foram analisadas. Inicialmente, foram analisadas as dívidas do Estado a fim de eleger aquelas
+com maior viabilidade de uma reestruturação bem-sucedida. De acordo com o Banco Mundial, o valor atual da taxa CDI está próximo do
+pico histórico, tornando os contratos de empréstimos atrelados ao CDI muito caros para Pernambuco. Os empréstimos elencados podem
+ser refinanciados por serem atreladas ao CDI e por pagarem prêmios elevados (entre 100% CDI + 1,95% e 120% do CDI) e são
+demasiadamente onerosos para o Estado, especialmente em um contexto de redução não tão rápida do CDI.
+
+Assim, o Banco Mundial concluiu que as operações atreladas ao CDI se beneficiam com a operação de refinanciamento, mesmo
+considerando a multa a ser imposta pela liquidação antecipada dos empréstimos (R$ 100,1 milhões). Além disso, ela traz ganhos de
+alongamento do perfil da dívida e um menor custo ao longo do tempo. Assim, poderá ser reestruturado até cerca de R$ 1,38 bilhões.
+Importante mencionar que esses valores dependem da taxa de câmbio e das taxas de juros brasileira e americana, que impactam
+diretamente no CDI e na SOFR, respectivamente.
+
+Outra vantagem da reestruturação seria a redução do serviço da dívida nos anos iniciais. Em cálculos realizados pela Secretaria de
+Estado da Fazenda, nos quatro primeiros anos, essa redução proporciona uma folga orçamentária de cerca de R$ 133 milhões, R$ 114
+milhões, R$ 100 milhões e R$ 82 milhões por ano. Quando consideramos os sete primeiros anos, o total economizado com pagamento do
+serviço da dívida superaria R$ 500 milhões no período. A diferença é parcialmente compensada com os valores maiores a pagar a partir
+do 8º ano, decorrente do alongamento e do efeito da capitalização dos juros no decorrer do tempo.
+
+Além disso, por se tratar de operações com duration de médio prazo (entre 5 e 9 anos), haveria uma potencial redução da pressão fiscal
+decorrente do alongamento do prazo de pagamento do serviço da dívida, após a operação de reestruturação.
+
+Em relação à iniciativa do framework do Gerenciamento de Investimentos Públicos (GIP), o Governo do Estado de Pernambuco é
+integrante e coordena o Grupo de Trabalho dos Investimentos Públicos (GTIP) do Conselho Nacional de Secretários de Estado de
+Planejamento (Conseplan) que conta com o apoio do Banco Mundial. Durante o LXXXVI Fórum Nacional do Conseplan foi iniciado o
+debate acerca do tema e definidas a coordenadora e a suplente do referido grupo. Ademais, uma consultoria foi contratada para realizar a
+avaliação da estrutura institucional existente e levantamento dos pontos críticos para construção do banco de projetos.
+
+Pilar Economia Verde
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 9
+
+As ações já implementadas compreendem a publicação da Lei nº 16.112, de 5 de julho de 2017, que institui o Selo Empresa Verde do
+Estado de Pernambuco e sua conferência às empresas do Estado de Pernambuco que adotem práticas sustentáveis em sua cadeia
+produtiva ou na prestação de serviço e dá outras providências. Ademais, foram realizados estudo de Leis nacionais e internacionais para
+análise dos critérios ambientais, sociais e de governança implementados em diferentes localidades do mundo.
+
+Atualmente está em andamento a criação do Decreto que regulamenta a  Lei nº 16.112 e inclusão de critérios sociais e de governança,
+assim como a formação de rede de apoio, em parceria com outros órgãos de interesse comum às empresas, que facilita a migração
+sustentável de empresas não-sustentáveis e promovam as boas práticas ambientais, sociais e de governança entre os empreendimentos
+pernambucanos.
+
+A Secretaria de Meio Ambiente está preparando a contratação de consultoria para mapeamento estratégico dos setores do Estado e
+proposição de critérios ambientais, sociais e de governança para o Selo Empresa Verde que beneficiem todos os setores econômicos de
+Pernambuco.
+
+Em relação à simplificação dos procedimentos para abertura e formalização de novas empresas, cabe mencionar que a Junta Comercial
+do Estado de Pernambuco, visando uma melhoria no ambiente de negócios no estado, vem intensificando sua atuação junto aos
+municípios para que haja a implementação das diretrizes necessárias à ampliação do sistema Balcão Único com a maior brevidade
+possível. Além disso, também está em andamento o levantamento das novas atividades econômicas que poderão se enquadrar como de
+baixo risco, de acordo com os parâmetros existentes.
+
+Com relação à energia limpa, deverá ser elaborado um decreto que estabeleça os requisitos, procedimentos e diretrizes para a
+implantação de empreendimentos de energia solar e eólica em conformidade com as leis ambientais. Posteriormente esse instrumento
+legal deverá ser publicado e divulgado de forma ampla para que os proponentes, órgãos reguladores e o público em geral estejam cientes
+das regulamentações e requisitos a serem seguidos.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Sem detalhes
+
+Estado de Pernambuco ()
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+(i) condições financeiras:
+
+Moeda: USD
+
+Valor: USD 275 milhões
+
+Taxas de Juros: SOFR + 0,85% a.a.
+
+Demais encargos e comissões: Taxa inicial de 0,25% do valor da operação, que é cobrada uma única vez, antes do desembolso. Além
+disso, há uma comissão de compromisso de 0,25% ao ano, cobrada sobre os valores não desembolsados e cujo período de cobrança se
+inicia 60 dias após a assinatura do acordo de empréstimo.
+
+Período de amortização: Mensalmente
+
+Prazo de carência: não há
+
+Prazo total: 228 meses (19 anos)
+
+Prazo desembolso: 12 meses (1 ano)
+
+É relevante destacar que tais informações são preliminares e que as condições financeiras efetivas do empréstimo serão definidas nas
+negociações dos acordos.
+
+ii) Necessidade de financiamento externo e a opção pelo agente financeiro:
+
+O financiamento externo se justifica tendo em vista que este irá reestruturar operações de crédito que geram um custo maior e num prazo
+mais curto, pressionando o fluxo de caixa do Estado. Tem-se ainda que o tipo de operação e seu valor total não constam nos portfólios
+disponibilizados nas instituições financeiras nacionais. As condições financeiras oferecidas pelo Banco Mundial são competitivas e tendem
+a ser menores que as dos demais parceiros multilaterais.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 10
+
+2.11. PROJETO/BENEFICIÁRIO
+
+(i) Áreas Estratégicas e Impactos do Projeto (Ambientais, Econômicos e Sociais)
+
+De acordo com a Resolução COFIEX nº 17 de 7 de junho de 2021, em seu Art. 6º: As operações de crédito que se destinem à
+reestruturação e recomposição do principal de dívidas de Estados, Distrito Federal e Municípios, da sua administração direta, de suas
+autarquias, fundações e empresas estatais dependentes, não concorrerão com os demais pleitos e não consumirão o limite para
+operações com financiamento externo disposto no art. 4º desta Resolução, desde que destinadas à reestruturação e recomposição de
+dívidas que já contavam, em sua totalidade, com garantia da União.
+
+Ressalta-se que todas as dívidas a serem reestruturadas pela operação pleiteada já contam com garantia da União em sua totalidade (
+contratos de financiamento nº40/00012-5 com o Banco do Brasil, contrato nº 0495.607 - DV n 99 com a Caixa Econômica Federal,
+Contrato firmado com o BRB e Contrato firmado com TMF Brasil Administração e Gestão de Ativos LTDA - Consórcio Itaú, ABC e
+Santander).
+
+Considerando ainda a presente resolução, tem-se que o programa atende os seguintes tópicos do item 4 - Áreas Estratégicas e impactos
+do
+
+projeto do anexo da resolução em tela:
+
+1.1 promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação
+
+1.2. eficiência energética, geração e/ou uso de energia de fontes renováveis
+
+1.5. conservação e manejo da biodiversidade e/ou de recursos florestais
+
+1.6. melhoria do ambiente de negócios e/ou oportunidades
+
+1.7. benefícios para empreendedores individuais, micro e pequenas empresas
+
+1.8. geração de emprego e renda para populações de baixa renda e vulneráveis
+
+1.12. melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão e/ou de participação cidadã
+
+1.14. desenvolvimento, inovação e modernização tecnológica
+
+1.15. arranjos de financiamento que incentivem/contribuam com a participação privada
+
+(ii) População beneficiada direta e/ou indiretamente pelas ações do programa/projeto
+
+Toda a população pernambucana, aproximadamente 9 milhões de pessoas, será beneficiada pelas ações do projeto em tela, tendo em
+vista que os resultados positivos estão relacionados com melhorias fiscais visando a redução de gastos, um quadro fiscal equilibrado e
+melhorias ambientais e no ambiente de negócios, contribuindo para o aumento da qualidade de vida tanto dos contribuintes, quanto da
+sociedade em geral, em especial, as futuras gerações.
+
+(iii) especificar se haverá benefício a populações de baixa renda, vulneráveis, minorias sociais, jovens, com foco em gênero e/ou raça,
+entre outros.
+
+Haverá benefícios indiretos às populações vulneráveis em virtude de um Estado mais equilibrado e com condições de oferecer mais
+políticas públicas para os que precisam.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 11
+
+Moeda de Referência: Dólar
+
+Fontes Externas
+
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+Total:
+
+Sigla
+
+BIRD
+
+Moeda
+
+Valor Proposto
+
+US$
+
+275.000.000,00
+
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+275.000.000,00
+
+275.000.000,00
+
+275.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Não se aplica
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+Pilar Fiscal: Secretaria da Fazenda do Estado de Pernambuco - SEFAZ e Secretaria de Planejamento, Gestão e Desenvolvimento
+Regional - SEPLAG
+
+Pilar Economia Verde: Secretaria de Meio Ambiente, Sustentabilidade e de Fernando de Noronha - SEMAS e Junta Comercial de
+Pernambuco - JUCEPE
+
+Indiretamente participarão dos arranjos operacionais para implementação das medidas a CPRH, Órgãos de Interesse comum às
+empresas, a Procuradoria Geral do Estado e a Assembleia Legislativa de Pernambuco - ALEPE
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Secretaria da Fazenda do Estado de Pernambuco
+
+Representante Oficial: Wilson José de Paula
+
+Endereço da Sede: Rua do Imperador Dom Pedro II S/N, Recife/PE, CEP 50010-240
+E-mail Institucional:
+
+Telefone: 3183-6401
+
+CNPJ: 10572014000133
+
+Fax:
+UF:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 1 Ano
+
+
+### 4.4. Execução/Cronograma
+
+
+COMPONENTES
+
+C - REESTRUTURAÇÃO DA DÍVIDA PÚBLICA ESTADUAL
+P - Reestruturação da composição da carteira da Dívida com agentes financeiros
+P - Fortalecimento institucional da equipe de acompanhamento da Dívida SEFAZ
+C - SUSTENTABILIDADE FISCAL
+P - Recomposição da matriz de arrecadação do estado e instauração da cultura da conformidade fiscal
+P - Reforma no Teto de Gastos do Poder Executivo
+P - Framework de Gerenciamento de Investimentos Públicos (GIP)
+C - ECONOMIA VERDE
+P - Política de Selo Empresas Verdes (beneficiamento em compras públicas)
+P - Desburocratização para abertura de novas empresas
+P - Programa de transição energética, ágil, responsável e justa
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+VALOR
+
+CUSTO
+275.000.000,00
+275.000.000,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+275.000.000,00
+
+Ano 1
+
+FONTES
+
+BIRD
+275.000.000,00
+275.000.000,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+275.000.000,00
+
+TOTAL
+
+BIRD
+275.000.000,00
+275.000.000,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+275.000.000,00
+
+A implementação do projeto demanda lei estadual autorizativa para o Executivo Estadual contrair o empréstimo e da aprovação de leis
+estaduais para cumprir as contrapartidas acordadas. No que se refere à Lei autorizativa, a equipe de governo responsável pelo
+relacionamento com a Assembleia Legislativa tem mostrado o real estado das finanças estaduais e sensibilizado seus membros da
+importância da reestruturação para melhorar a sustentabilidade fiscal de Pernambuco, a não aprovação de lei autorizativa é avaliada com
+um risco extremamente baixo.
+
+Quanto às leis relativas às contrapartidas mencionadas nesta carta consulta, a maior parte delas já conta com minutas elaboradas e o
+Executivo Estadual tem governança quase plena sobre o processo necessário à sua edição, contando ainda com equipes suficientemente
+capacitadas para proceder a sua concepção e redação, além de manter boa governabilidade com o legislativo local para as aprovações
+necessárias.
+
+Os riscos
+
+A não publicação dos atos normativos necessários implicam na desconformidade do financiamento em relação às contrapartidas
+acordadas.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 12
+
+As ações mitigadoras
+
+Envolvimento de todos atores governamentais afetados na preparação das minutas dos atos administrativos e normativos, bem como
+submissão à procuradoria do Estado para avaliação quanto à constitucionalidade e conformidade legal das medidas e contratações
+necessárias.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+Impacto ambiental positivo ao estabelecer critérios que assegurem preservação ambiental por parte das empresas pernambucanas e
+órgãos investidores.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+Impacto social positivo ao estabelecer critérios que assegurem responsabilidade social por parte das empresas pernambucanas e órgãos
+investidores.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)
+(cid:10)
+(cid:10)

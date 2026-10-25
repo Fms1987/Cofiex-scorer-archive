@@ -1,0 +1,2446 @@
+# Carta-Consulta CC_61104 — Versao 3 (SIGS)
+
+
+CARTA CONSULTA
+
+PROGRAMA BAHIA MAIS SEGURA
+
+Nº Carta Consulta: 61104
+Processo: 03101.001148/2024-05
+Mutuário: Estado da Bahia
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  13 de Maio de 2024
+
+Fontes Internas:
+Contrapartida Financeira: US$ 25.000.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 100.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+A Bahia tem 14 milhões de habitantes, com 80% de pessoas negras e pardas (IBGE, 2023). Ocupa o 7º lugar no tamanho do PIB entre os
+estados brasileiros (IBGE, 2020), com R$ 401 bilhões de reais em 2022. Porém, tem a 23ª renda per capita e o 22º IDH do país (0,660),
+fortes indicativos de pobreza, desigualdade e exclusão social. A Bahia tem o maior nível de violência letal do País, com 6.659 Mortes
+Violentas Intencionais (MVI), o que representa 14% do total e a segunda maior taxa por 100 mil habitantes (FBSP, 2023). Concentra 15%
+das vítimas de homicídios entre 15 e 29 anos (Cerqueira, 2021), e responde por 16% do total nacional de vítimas negras, sendo estas 92
+% das vítimas do estado. No tocante ao sexo feminino, a Bahia tem 11% das vítimas do país, sendo que 90% dos homicídios são contra
+mulheres negras. Registra-se 32 mortes violentas de pessoas LGBTQIA+ em 2019 (10% das vítimas do país), segundo maior número
+dentre os estados (Oliveira; Mott, 2020). Bahía só esclareceu 17,2% dos inquéritos de homicídios em 2022, o segundo menor índice do
+país (ADEPOL, 2023) , demonstrando fragilidade institucional frente à violência letal, e teve 1.464 mortes por intervenção policial em 2022,
+o equivalente a 22% do total de MVI do estado e 22,7% das mortes por ação policial no Brasil.
+
+O principal problema a ser enfrentado são os Altos índices de criminalidade e violência, principalmente contra grupos vulneráveis.
+
+Os problemas específicos e suas evidências, que ratificam o problema principal, são:
+
+Problema 1: Altos Índices de Violência Letal e contra o patrimônio. Baha é o Estado com mais MVI no ano de 2022, valor 48,5% maior que
+o segundo colocado (Rio de Janeiro). 11 cidades baianas estão entre as 20 com maiores taxas de MVI com população acima de 100 mil
+habitantes (FBSP, 2023). Entre 1999 e 2021, 87.799 homens negros foram vítimas de homicídio, representando 93,4% do total de vítimas
+do estado ao longo dos últimos 22 anos, sendo que 80,4% da população estadual são pessoas negras e pardas (IPEA, 2023).  Ainda, alta
+concentração de vítimas em grupos vulneráveis, em especial da população negra de jovens e mulheres, e pessoas da população
+LGBTQIAPN+, de acordo com os dados já citados . Nos crimes patrimoniais, apresenta o terceiro maior número absoluto de Roubo de
+Veículos, totalizando 13.296 registros no ano de 2022 (FBSP, 2023) e dos registros de Roubo geral, 22 municípios concentram  46,8% das
+ocorrências (66.120 de um total de 141.330). Em 2022, 51% das vítimas de crimes violentos letais intencionais (CVLI) tiveram óbitos
+registrados em apenas 16 dos 417 municípios da Bahia. Esses municípios são Salvador, Feira de Santana, Camaçari, Juazeiro, Jequié,
+Teixeira de Freitas, Ilhéus, Simões Filho, Santo Antônio de Jesus, Lauro de Freitas, Dias D'Ávila, Porto Seguro, Valença, Barreiras, Vitória
+da Conquista e Eunápolis.
+
+Problema 2: Altos níveis de reincidência em atos criminais ou infracionais. A reincidência criminal, que contribui direitamente aos
+problemas de criminalidade e violência no Estado, foi de 20,3% (SENAPPEN, 2022). A proporção de 49,4% dos presos aguardando o
+julgamento encarcerados  (a maior do pais) dificulta a gestão adequada de serviços sociais, de educação e emprego para a prevenção da
+reincidência. A reincidência no sistema socioeducativo é de 25% (CNJ, 2020). Dos 184 adolescentes em privação de liberdade em 2023,
+96,2% são homens, 90,8% são negros/pardos e 95,1% sem matrícula escolar (SINASE, 2023).  Dos estados com superlotação em 2020 a
+Bahia registrou 146%, segunda maior do País.
+
+Problema 3: Baixa capacidade do Estado para garantir acesso a justiça dos grupos mais vulneráveis da população. Limitações na
+capacidade institucional para garantir acesso à justiça incentivam o uso de métodos não institucionais para resolver conflitos, incluindo o
+uso da violência. De acordo com informações documentadas na Pesquisa Nacional de Saúde, o Estado da Bahía é um dos três que
+apresentam maior frequência de vitimização por violência interpessoal, incluindo fatos de violência física e psicológica . Com frequência,
+situações que iniciam como conflitos de vizinhança mudam a dinâmicas de violência que podem terminar em homicídio. Além disso, a
+vulnerabilidade social expõe adolescentes e jovens ao recrutamento pelo crime organizado, o que reflete em que mais de 80% das vítimas
+de homicídios são jovens; Bahia apresenta uma taxa de confiança de 37,3% no Sistema de Justiça (CNJ, 2022); Bahía está entre os
+estados brasileiros com maior número de registros de violação de direitos no Disque 100 (MDHC, 2019). Embora o Estado tenha
+desenvolvido o programa "Corra pro abraço" para prevenção social da violência, ainda precisa avançar para serviços especializados que
+estejam informados por evidências científicas de impacto social.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+Este Programa de Investimento Específico (ESP) propõe como soluções:
+
+Componente 1. FORTALECIMENTO DAS CAPACIDADES DAS FORÇAS DE SEGURANÇA PARA REDUÇÃO DA CRIMINALIDADE:
+
+Pesquisas científicas sobre gestão policial baseada em resultados apontam redução de 24% no crime patrimonial e 13% nos crimes contra
+pessoa , e aumento de 30% no esclarecimento de homicídios . O policiamento orientado por inteligência e resolução de problemas aponta
+redução de 33,8% no crime . Considerando tal cenário, a Componente 1 busca desenvolver a capacidade de gestão preventiva e preditiva
+através de estratégias de policiamento orientado por inteligência, policiamento em áreas de alta concentração de crimes e policiamento
+orientado por problemas, bem ainda fortalecer a capacidade de resolução de investigações de homicídios. Outrossim, busca ainda
+promover o respeito aos Direitos Humanos, fortalecendo o modelo de controle interno das polícias para reduzir sua letalidade. Finalmente,
+considera-se modernizar as infraestruturas físicas e tecnológicas, assim como veículos, para dar suporte ao gerenciamento policial
+baseado em resultados. Em síntese, as soluções para este componente são (i) fortalecer a Gestão e a análise criminal; (ii) fortalecer o
+modelo de controle interno; (iii) desenvolver policiamento orientado por inteligência e solução de problemas; e, (iv) modernizar unidades de
+segurança pública. No nivel de impacto social, espera-se contribuir para redução das taxas de MVI e roubos de veículos; ao respeito de
+resultados especificos, espera-se aumentar o percentual de inquéritos policiais de homicídios dolosos remetidos com autoria determinada
+e reduzir a taxa de mortes decorrentes de intervenções policiais.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+Com relação as atividades os produtos voltados para incrementar a capacidade analítica das forças de segurança no âmbito do Programa
+Bahia Mais Segura terão abrangência estadual, beneficiando todo o território baiano. Porém, as atividades para melhorar a capacidade
+operativa das forças de segurança terão uma abrangência limitada aos 16 municípios que concentram os maiores níveis de MVI. Esta
+focalização territorial foi definida por causa da limitação nos recursos que serão investidos pelo programa, e pela ampla evidência
+científica sobre a efetividade e eficiência de focar recursos nas áreas de alta concentração de atividade criminal
+
+Componente 2. PREVENÇÃO DA REINCIDÊNCIA DELITIVA: O modelo risks needs  responsivity (RNR) é referência para sistemas
+penitenciários, devido a capacidade de gerenciar o risco de reincidência . Intervenções cognitivo comportamentais associadas a esse
+modelo atingem reduções de 25% da reincidência . As ações tem foco em fatores de risco como: associação a grupos criminais, baixa
+educação e empregabilidade, consumo de substâncias; qualificar o tratamento penal com ações de saúde, esporte e cultura. O
+componente prevê: (i) modernização do modelo de gestão penitenciária; (ii) serviços de tratamento penal; (iii) fortalecimento das
+alternativas à prisão; e, (iv) apoio ao egresso. Espera-se: reduzir taxa de reincidência no sistema penitenciário (impacto social); reduzir
+risco de reincidência, aumentar escolaridade e empregabilidade dos egressos (resultados específicos). serão desenvolvidas em todas as
+unidades do Sistema Penitenciário da Bahia, bem como do Sistema Socioeducativo, de forma que terão uma abrangência Estadual.
+
+Componente 3. ACESSO À JUSTIÇA, GARANTIA DE DIREITOS E PREVENÇÃO DA VIOLÊNCIA: A efetividade de técnicas cientificas de
+intervenção social na dinâmica de conflito com redução dos tiroteios em 15,7% e homicídios em 26% . Práticas de justiça restaurativa
+reduzem a violência e aumentam a percepção de justiça em adolescentes . Existe ampla evidência da efetividade na prevenção , como
+promoção da competência socioemocional , prevenção da evasão escolar  e funcionalidade familiar  em grupos vulneráveis. O
+componente procura reduzir a vulnerabilidade à violência nas crianças, jovens e famílias com implementação de metodologias
+psicossociais. As ações previstas são: (i) fortalecimento de mecanismos de mediação para a resolução de conflitos; (ii) implementação do
+projeto Bahia Nosso Direito; (iii) estruturação de sistema de prevenção com foco em crianças, adolescentes e familias através dos
+Coletivos Bahia pela Paz; (iv) aprimoramento da gestão e formação continuada dos profissionais do sistema socioeducativo; e, (v)
+desenvolvimento de ações integradas de apoio e inclusão social de adolescentes e jovens em cumprimento e egressos do sistema
+socioeducativo. Espera-se: reduzir homicídios de grupos vulneráveis (negros, mulheres, LGBTQIA+) nos territórios priorizados (impacto
+social); reduzir evasão escolar e risco de violência nos beneficiários, aumentar o acesso a intervenções de prevenção especializadas (
+resultados especificos).
+
+A sustentabilidade do programa tem base na modernização de modelos de gestão para prevenção da violência, os quais serão política
+institucional nos casos efetivos. O financiamento está alinhado com o planejamento dos recursos do estado, como: i) alocação de recursos
+do Tesouro estadual após a finalização da execução, para manter o valor dos ativos adquiridos por meio do programa de empréstimo; ii)
+alocação de recursos do Tesouro estadual para manter em funcionamento as atividades do programa que demonstrem sua efetividade. O
+PPA 2024-2027 já alocou recursos para alguns programas finalísticos previstos.
+
+Anexo 5.1 Versão Final Completa da Carta Consulta AJUSTADA
+
+Anexo 8 Sustentabilidade
+
+Anexo 9 Estimativa de Custos
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+No âmbito federal, o programa se encontra alinhado com os objetivos do Programa Nacional de Enfrentamento às Organizações
+Criminosas (ENFOC), na medida que procura incrementar a capacidade analítica e operativa do setor público Bahiano para o
+enfrentamento do crime organizado. As iniciativas de prevenção social da violência são consistentes com as orientações do Programa
+Nacional de Segurança Pública com Cidadania (PRONASCI).
+
+O Programa está inserido nas Orientações Estratégicas do Governo Estadual da Bahia e corresponde às prioridades  pelo Governo para o
+quadriênio. O plano estratégico é orientado  na revisão das ações que já estão em prática pelo Governo Estadual e que possuem  focos
+preventivos ou controle para o enfrentamento aos crimes prioritários. As ações previstas tem como objetivo atingir as metas estabelecidas
+no  Plano e na Política Nacional de Segurança Pública e correspondem ao Plano Plurianual (PPA) para o período 2024-2027, conforme
+Programas Finalísticos propostos pelo Governo do Estado da Bahia e, ainda, ao Plano Estadual de Segurança Pública e Defesa Social.
+
+Os três componentes, por meio de suas ações, estão diretamente vinculados aos programas estratégicos previstos no PPA para o
+próximo quadriênio. Destacamos entre os Programas previstos e que estão relacionados aos componentes: Bahia Mais Segura;
+Ressocializar é o Caminho: Transformando Vidas; Cuidado em Liberdade: Reduzindo Danos; e, Acesso à Justiça e aos Direitos Humanos;
+Esporte por Toda Parte; Bahia Antirracista; Povos e Comunidades Tradicionais.
+
+Anexo 10 LOA 2022-2025
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+1.3.2 CONTRAPARTIDA
+
+A Contrapartida do Financiamento provirá dos recursos alocados pelas três Secretarias Estaduais envolvidas: Secretaria de Justiça e
+Direitos Humanos (SJDH), Secretaria da Segurança Pública (SSP); e, Secretaria de Administração Penitenciária e Ressocialização (SEAP
+), com um valor total de USD$ 25 milhoes.
+
+1.3.3 TAXA DE CÂMBIO
+
+(I) Taxa de câmbio da moeda do financiamento em relação ao REAL: US$ 5,05;
+
+(II) Data de referência: 02/04/2024.
+
+2. Projeto
+
+### 2.1. Título
+
+
+PROGRAMA BAHIA MAIS SEGURA
+
+
+### 2.2. Título Abreviado
+
+
+PBMS
+
+
+### 2.3. Mutuário
+
+
+Estado da Bahia
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Objetivo Geral: Redução da violência letal e o crime contra as pessoas e contra o patrimonio no Estado da Bahia.
+
+Objetivos Específicos:
+
+(I) Aumentar a capacidade institucional para o enfrentamento da violência e o crime em municípios prioritários do Estado da Bahia, 16 ao
+todo: Salvador, Feira de Santana, Camaçari, Juazeiro, Jequié, Teixeira de Freitas, Ilhéus, Simões Filho, Santo Antônio de Jesus, Lauro de
+Freitas, Dias D'Ávila, Porto Seguro, Valença, Barreiras, Vitória da Conquista e Eunápolis, que foram escolhidos com base na concentração
+espacial do número de vítimas de crimes violentos letais intencionais na Bahia em 2022, quando juntos foram local de 51% dos óbitos do
+período.
+
+(II) Aumentar a capacidade institucional para o gerenciamento da probabilidade de reincidencia na população do sistema penitenciario.
+
+(III) Aumentar a capacidade dos serviços de garantia de direitos, acesso à justiça e prevenção social da violência no Estado da Bahia.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Descrição
+Taxa de Mortes Violentas Intencionais (MVI) -
+Indicador de Impacto
+
+Taxa de roubos de veículos - Indicador de
+Impacto
+
+Reincidência sistema penitenciário - Indicador de
+Impacto
+
+Promover a garantia de direitos e a prevenção
+de homicídios de grupos em risco em
+comunidades vulneráveis - Indicador de Impacto
+
+Percentual de inquéritos policiais de homicídios
+dolosos remetidos com autoria determinada -
+Indicador de Resultado
+
+Taxa de mortes decorrentes de intervenções
+policiais - Indicador de Resultado
+
+Redução do nível de risco de pessoas privadas
+de liberdade - Indicador de Resultado
+
+Melhoramento da capacidade de formação
+profissionalizante no sistema penitenciario -
+Indicador de Resultado
+
+Taxa
+
+Taxa
+
+Taxa
+
+Percentual
+
+Percentual
+
+Fórmula de Cálculo Unidade de Medida
+Quantidade de vítimas
+de MVI ano T, nos
+munícípios priorizados
+/ 100.000 habitantes
+Quantidade de
+ocorrências de roubos
+de veículos no ano T,
+nos munícípios
+priorizados / 100.000
+habitantes
+Quantidade de
+pessoas egressas do
+sistema penitenciário
+no ano T que voltan a
+ingressar ao sistema
+em até 12 meses
+após a data de
+egresso / Quantidade
+de pessoas egressas
+do saistema no ano T
+Redução dos
+homicídios de grupos
+em risco  (negros,
+mulheres e LGBTQIA
++) nas comunidades
+prioritárias (por 100
+mil)
+(Número de inquéritos
+policiais de
+homicídios dolosos,
+no ano T, remetidos
+com autoria
+determinada, nos
+munícípios priorizados
+/ Número de
+inquéritos policiais de
+homicídios dolosos
+instaurados no ano T)
+*100
+Quantidade de mortes
+decorrentes de
+intervenções policiais
+no ano T, nos
+munícípios priorizados
+/ 100.000 habitantes
+Quantidade de
+pessoas privadas de
+liberdade que
+conseguem reduzir
+seu nivel geral de
+risco de reincidencia
+avaliado por
+ferramentas
+estruturadas / Total de
+pessoas privadas de
+liberdade X 100
+Capacidade de
+módulos de oficinas
+profissionalizantes do
+sistema penitenciário
+informadas ao
+SISDEPEN
+
+Percentual
+
+Unidade
+
+Taxa
+
+
+Página: 5
+
+Meta
+46,60
+
+Linha de Base
+63,10
+
+397,70
+
+307,70
+
+21,00
+
+18,00
+
+0,23
+
+0,18
+
+17,20
+
+27,70
+
+16,30
+
+12,00
+
+0,00
+
+20,00
+
+959,00
+
+3.000,00
+
+
+Página: 6
+
+Unidade
+
+3.324,00
+
+6.000,00
+
+Unidade
+
+0,00
+
+10.000,00
+
+Melhoramento da capacidade de ensino formal
+do sistema penitenciário - Indicador de
+Resultado
+
+Melhoramento da capacidade para fornecer
+intervençoes especializadas de prevençao social
+da violencia nos territórios priorizados; -
+Indicador de Resultado
+
+Pessoas privadas de
+liberdade com acesso
+ao ensino formal em
+niveis de
+alfabetização,
+fundamental, medio,
+superior ou em curso
+técnico acima de 800
+horas.
+Número total de
+jovens que recebem
+intervenções
+especializadas de
+prevençao social da
+violencia, com
+evidencia comparada
+de efetividade, nos
+territórios priorizados
+por ano.
+
+
+### 2.7. Projeto/Componentes
+
+
+Componentes
+C - FORTALECIMENTO DAS CAPACIDADES DO GOVERNO ESTADUAL PARA REDUÇÃO DA
+CRIMINALIDADE
+P - Fortalecimento da Gestão e da análise criminal
+P - Modelo de controle interno fortalecido
+P - Policiamento Orientado por Inteligência e Solução de Problemas
+P - Modernização de unidades de segurança pública
+C - PREVENÇÃO DA REINCIDÊNCIA DELITIVA
+S - REDUÇÃO DA REINCIDÊNCIA NO SISTEMA PENITENCIÁRIO
+P - Modernização do modelo de gestão do Sistema Penitenciário
+P - Fortalecimentos de serviços de tratamento penal
+P - Fortalecimento das Alternativas à prisão
+P - Fortalecimento do Apoio ao Egresso
+C - ACESSO À JUSTIÇA, GARANTIA DE DIREITOS E PREVENÇÃO DA VIOLÊNCIA
+S - ACESSO A JUSTIÇA, RESOLUÇÃO PACÍFICA DE CONFLITOS E PROMOÇÃO DOS DIREITOS HUMANOS
+P - Fortalecimento de mecanismos de Mediação para a resolução de conflitos
+P - Implementação do Projeto Bahia - Nosso Direito
+P - Estruturação de um Sistema de prevenção a violência com foco em crianças, adolescentes e familias
+S - PREVENÇÃO DA REINCIDÊNCIA DE ATOS INFRACIONAIS (EM MEIO ABERTO E FECHADO) DE JOVENS
+E ADOLESCENTES DO SISTEMA SOCIOEDUCATIVO
+P - Aprimoramento da gestão no sistema socioeducativo
+P - Desenvolvimento de ações integradas de apoio e inclusão social de adolescentes e jovens em cumprimento
+de medida e egressos do sistema socioeducativo
+C - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+P - Gestão do Programa
+P - Avaliação Intermediária, Final e de Impacto
+P - Auditor
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Valor(US$)
+35.125.000,00
+
+594.059,00
+7.018.162,00
+9.554.713,00
+17.958.066,00
+42.000.000,00
+42.000.000,00
+21.995.358,00
+11.190.273,00
+4.327.276,00
+4.487.093,00
+42.044.419,00
+35.731.919,00
+3.640.000,00
+3.010.000,00
+29.081.919,00
+6.312.500,00
+
+462.500,00
+5.850.000,00
+
+5.830.581,00
+2.796.541,00
+2.734.040,00
+300.000,00
+125.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - FORTALECIMENTO DAS CAPACIDADES DO GOVERNO ESTADUAL PARA REDUÇÃO DA CRIMINALIDADE
+FORTALECIMENTO DAS CAPACIDADES DAS FORÇAS DE SEGURANÇA PARA REDUÇÃO DA CRIMINALIDADE:
+Pesquisas científicas sobre gestão policial baseada em resultados apontam redução de 24% no crime patrimonial e 13% nos
+crimes contra pessoa , e aumento de 30% no esclarecimento de homicídios . O policiamento orientado por inteligência e resolução
+de problemas aponta redução de 33,8% no crime . Considerando tal cenário, a Componente 1 busca desenvolver a capacidade de
+gestão preventiva e preditiva através de estratégias de policiamento orientado por inteligência, policiamento em áreas de alta
+concentração de crimes e policiamento orientado por problemas, bem ainda fortalecer a capacidade de resolução de investigações
+de homicídios. Outrossim, busca ainda promover o respeito aos Direitos Humanos, fortalecendo o modelo de controle interno das
+polícias para reduzir sua letalidade. Finalmente, considera-se modernizar as infraestruturas físicas e tecnológicas, assim como
+veículos, para dar suporte ao gerenciamento policial baseado em resultados. Em síntese, as soluções para este componente são (i
+) fortalecer a Gestão e a análise criminal; (ii) fortalecer o modelo de controle interno; (iii) desenvolver policiamento orientado por
+inteligência e solução de problemas; e, (iv) modernizar unidades de segurança pública. No nivel de impacto social, espera-se
+contribuir para redução das taxas de MVI e roubos de veículos; ao respeito de resultados especificos, espera-se aumentar o
+percentual de inquéritos policiais de homicídios dolosos remetidos com autoria determinada e reduzir a taxa de mortes decorrentes
+de intervenções policiais.
+
+
+Página: 7
+
+P - Fortalecimento da Gestão e da análise criminal
+Este produto considera a execução das seguintes atividades: (i) Elaboração de planos municipais de segurança pública e
+implantação de conselhos municipais de segurança pública, (ii) Modernização do processo de produção de informações de análise
+criminal da SSP para desenvolver e implementar um modelo de gestão policial orientado a resultados (bens, serviços de
+consultoria e serviços de não consultoria, na área de tecnologia da informação).
+
+Metas: 01 modelo de gestão por resultados e análise criminal fortalecido. Para atender a meta, vai se obter: 01 Apoio Técnico à
+elaboração de planos municipais de segurança pública e implantação de conselhos municipais de segurança pública; 01 processo
+de produção de informações de análise criminal da SSP modernizado.
+
+P - Modelo de controle interno fortalecido
+Este produto é composto das seguintes ações: (i) fortalecimento de corregedorias (bens); e, (ii) desenvolvimento do sistema
+integrado para operacionalização de câmeras corporais (bens e serviços de não consultoria, na área de tecnologia da informação).
+
+Metas: 01 modelo de controle interno do uso da força fortalecido. Para atender a meta, será feito investimento para obter 05
+Corregedorias fortalecidas; 01 Sistema de câmeras corporais em funcionamento e 01 avaliação experimental sobre a efetividade
+das câmeras de corpo realizada.
+
+P - Policiamento Orientado por Inteligência e Solução de Problemas
+Este produto é composto das seguintes ações: (i) Fortalecimento da Agencia Central e Unidades de Inteligência (Nis) no interior e
+na Capital (bens e serviços de não consultoria, na área de tecnologia da informação); (ii) Implantação de Núcleos de Inteligência (
+bens e serviços de não consultoria, na área de tecnologia da informação); (iii) Coordenação de Tecnologia do Departamento de
+Inteligência Policial e seus núcleos: LAB-LD, Laboratório de Extração de Dados de Dispositivos Móveis, Ciber-Lab e de Análise de
+Sinais reequipados (bens e serviços de não consultoria); iv) Implantação de sistema de policiamento preditivo e de sistema
+integrado de inteligência policial (bens, serviços de consultoria e serviços de não consultoria, na área de tecnologia da informação);
+e, (v) Capacitação em policiamento orientado por inteligência e solução de problemas.
+
+Metas: 01 Agencia Central de Inteligência e 03 Núcleos de Inteligência fortalecidos; 02 novos Núcleos de Inteligência implantados;
+01 Coordenação de Tecnologia do DIP e seus núcleos (LAB-LD, Laboratório de Extração de Dados de Dispositivos Móveis, Ciber-
+Lab e de Análise de Sinais) reequipados; 01 Sistema de Policiamento Preditivo implantado; e 01 Sistema Integrado de Inteligência
+Policial, 01 Programa de policiamento orientado por inteligência e solução de problemas implementado.
+
+P - Modernização de unidades de segurança pública
+Este produto é composto das seguintes ações: (i) Implantação de central de custódia de provas periciais (obras, bens e serviços de
+consultoria); (ii) Melhoria de laboratório pericial ligado a Perícia de Crimes Contra a Vida (bens e serviços na área de manutenção
+de equipamentos); e, (iii) Fortalecer o Departamento de Homicídios e Proteção da Pessoa (bens, serviços na área de capacitação
+e de tecnologia da informação); (iv) Modernização da frota da PMBA (bens); e (v) Fortalecer a Rede de Atendimento à Mulher e
+Pessoas Vulneráveis da PCBA (bens e serviços de não consultoria).
+
+Metas: 01 Centro de Custódia de prova pericial implementado; 02 Laboratórios de Perícia de crimes contra a vida modernizados;
+01 Departamento de Homicídios e Proteção da Pessoa fortalecido; Frota da PMBA modernizada; e 01 Rede de atendimento à
+mulher e pessoas vulneráveis fortalecida.
+
+C - PREVENÇÃO DA REINCIDÊNCIA DELITIVA
+PREVENÇÃO DA REINCIDÊNCIA DELITIVA: O modelo risks ? needs ? responsivity (RNR) é referência para sistemas
+penitenciários, devido a capacidade de gerenciar o risco de reincidência . Intervenções cognitivo comportamentais associadas a
+esse modelo atingem reduções de 25% da reincidência . As ações tem foco em fatores de risco como: associação a grupos
+criminais, baixa educação e empregabilidade, consumo de substâncias; qualificar o tratamento penal com ações de saúde, esporte
+e cultura. O componente prevê: (i) modernização do modelo de gestão penitenciária; (ii) serviços de tratamento penal; (iii)
+fortalecimento das alternativas à prisão; e, (iv) apoio ao egresso. Espera-se: reduzir taxa de reincidência no sistema penitenciário (
+impacto social); reduzir risco de reincidência, aumentar escolaridade e empregabilidade dos egressos (resultados específicos).
+
+S - REDUÇÃO DA REINCIDÊNCIA NO SISTEMA PENITENCIÁRIO
+REDUÇÃO DA REINCIDÊNCIA NO SISTEMA PENITENCIÁRIO
+
+P - Modernização do modelo de gestão do Sistema Penitenciário
+Este produto é composto das seguintes ações: (i) Implantação de Sistema de Gestão de informações e Barramento Único de
+dados da SEAP; (ii) Implantação de Gestão Eletrônica de Documentos - GED e Gerenciamento de Conteúdo - ECM; (iii)
+Renovação da frota das viaturas das Unidades Penitenciárias; (iv) Aprimorar as capacidades de gestão dos presos através do
+Modelo RNR; (v) Implantação de Sistema de Gestão de informações e monitoramento da inteligência da Polícia Penal; (vi)
+Implantação de circuito CFTV com reconhecimento facial nas unidades prisionais; e, (vii) Contratação de consultoria externa para
+Análise e Modernização da SEAP
+
+
+Página: 8
+
+Metas: 01 Implantação de Sistema de Gestão de informações e Barramento Único de dados da SEAP; 01 Implantação de Gestão
+Eletrônica de Documentos - GED e Gerenciamento de Conteúdo - ECM; 20 viaturas das Unidades Penitenciárias adquiridas; 01
+instrumento (formulário) de avaliação Modelo RNR adquirido; 01 consultoria para capacitação de agentes penais para aplicação de
+formulário; 01 formulário próprio desenvolvido; digitalização dos formulários da população prisional; 01 metodologia de terapia
+cognitivo comportamental implantada; 29 mentores contratados para apoio e aplicação de intervenção cognitivo comportamental;
+01 Implantação de Sistema de Gestão de informações e monitoramento da inteligência da Polícia Penal; 08 unidades prisionais
+com circuito de CFTV com reconhecimento facial implantados; 01 consultoria de análise e modernização da SEAP.
+
+P - Fortalecimentos de serviços de tratamento penal
+Este produto é composto das seguintes ações: (i) Desenvolvimento de atividades educacionais nas unidades penitenciárias; (ii)
+Desenvolvimento de cursos de formação profissional e atividades de emprego para pessoas em cumprimento de pena; (iii)
+Implantação e desenvolvimento de intervenções cognitivo-comportamentais para prevenção da reincidência delitiva de pessoas
+cumprindo penas em regime fechado no âmbito dos sistema penitenciário; (iv) Implantação de consultórios para Telemedicima e
+Telepsicologia; e, (v) Desenvolvimento de atividades laborais nas unidades penitenciárias.
+
+Metas: 01 projeto educacional de adequação para o Sistema Penitenciário do Estado da Bahia; 25 salas de aula nas unidades
+prisionais;  09 espaços específicos de bibliotecas implantados; 09 bibliotecas reequipadas incluindo aquisição de livros didáticos e
+paradidáticos; 20 Penitenciárias do Estado atendidas com Implantação de oficinas laborais; 04 consultórios para Telemedicima e
+Telepsicologia implantados; 05 pólos de atividade laboral implantados.
+
+P - Fortalecimento das Alternativas à prisão
+Este produto é composto das seguintes ações: (i) Núcleos de alternativas penais implantados e modernizados (Implantação e
+modernização de NEAPAS ? Núcleos Estaduais de Alternativas Penais); (ii) Programa de qualificação de serviços com elaboração
+de manual de procedimentos; (iii) Ampliação de política das alternativas penais na Bahia; (iv) Implantação de Sistema de
+acompanhamento de alternativas penais; (v) Aquisição de veículos para atender às demandas da CEAPA; e, (vi) Desenvolvimento
+de intervenções cognitivo-comportamentais para prevenção da reincidência delitiva de pessoas cumprindo pena em meio aberto.
+
+Metas: 14 núcleos de alternativas penais implantados e modernizados; 07 centrais de monitoramento eletrônico implantadas e
+modernizadas; 01 programa de qualificação de serviço com a elaboração de manual de procedimentos; 01 consultoria jurídica para
+a ampliação da política das alternativas penais na Bahia; 01 sistema de acompanhamento de alternativas penais implantado; 20
+veículos para CEAPAS adquiridos; 01 intervenção cognitivo-comportamental para prevenção da reincidência delitiva de pessoas
+cumprindo pena em meio aberto para alternativas penais desenvolvida.
+
+P - Fortalecimento do Apoio ao Egresso
+Este produto é composto das seguintes ações: (i) Implantação de escritórios sociais para egressos e seus familiares; (ii)
+Implantação de programa cognitivo comportamental para egressos do sistema prisional; (iii) Implantação de cursos de capacitação
+com foco no mercado de trabalho e empreendedorismo; (iv) Implantação de Site com foco em vagas no mercado de trabalho; (v)
+Capacitação e empoderamento de mulheres e contra LGBTfobia; (vi) Aquisição de unidades móveis para capacitação dos
+egressos; e, (vii) contratação de consultoria para desenvolvimento de metodologia, aplicação e capacitação de equipe
+especializada para estabelecer as parcerias comunitárias, formular o plano individualizado, fazer a implantação das metodologias
+psicossociais com as famílias e os egressos.
+
+Metas: 12 escritórios sociais implantados; 01 programa cognitivo comportamental para egressos do sistema prisional implantado e
+desenvolvido; 01 projeto para implantação de cursos de capacitação com foco no mercado de trabalho e empreendedorismo; 01
+Site com foco em vagas no mercado de trabalho e viabilidade de fortalecimento de parcerias junto a SEAP implantado; 01 projeto
+para capacitação e empoderamento de mulheres e LGBTfobia implantado; 01 curso de capacitação para mulheres e contra
+LGBTfobia desenvolvido; 02 unidades móveis para capacitação dos egressos adquiridas; 01 consultoria para desenvolvimento de
+metodologia, aplicação e capacitação profissional sobre o Programa de reentrada contratada.
+
+C - ACESSO À JUSTIÇA, GARANTIA DE DIREITOS E PREVENÇÃO DA VIOLÊNCIA
+ACESSO À JUSTIÇA, GARANTIA DE DIREITOS E PREVENÇÃO DA VIOLÊNCIA: A efetividade de técnicas cientificas de
+intervenção social na dinâmica de conflito com redução dos tiroteios em 15,7% e homicídios em 26% . Práticas de justiça
+restaurativa reduzem a violência e aumentam a percepção de justiça em adolescentes . Existe ampla evidência da efetividade na
+prevenção , como promoção da competência socioemocional , prevenção da evasão escolar  e funcionalidade familiar  em grupos
+vulneráveis. O componente procura reduzir a vulnerabilidade à violência nas crianças, jovens e famílias com implementação de
+metodologias psicossociais. As ações previstas são: (i) fortalecimento de mecanismos de mediação para a resolução de conflitos; (
+ii) implementação do projeto Bahia Nosso Direito; (iii) estruturação de sistema de prevenção com foco em crianças, adolescentes e
+familias através dos Coletivos Bahia pela Paz; (iv) aprimoramento da gestão e formação continuada dos profissionais do sistema
+socioeducativo; e, (v) desenvolvimento de ações integradas de apoio e inclusão social de adolescentes e jovens em cumprimento e
+egressos do sistema socioeducativo. Espera-se: reduzir homicídios de grupos vulneráveis (negros, mulheres, LGBTQIA+) nos
+territórios priorizados (impacto social); reduzir evasão escolar e risco de violência nos beneficiários, aumentar o acesso a
+intervenções de prevenção especializadas (resultados especificos).
+
+S - ACESSO A JUSTIÇA, RESOLUÇÃO PACÍFICA DE CONFLITOS E PROMOÇÃO DOS DIREITOS HUMANOS
+ACESSO A JUSTIÇA, RESOLUÇÃO PACÍFICA DE CONFLITOS E PROMOÇÃO DOS DIREITOS HUMANOS
+
+
+Página: 9
+
+P - Fortalecimento de mecanismos de Mediação para a resolução de conflitos
+Este produto é composto das seguintes ações: (i) Implantação de Centro Integrado de Mediação de Conflitos Fundiários Rurais e
+Urbanos, atuando no enfrentamento a conflitos rurais e urbanos, além de conflitos relativos a povos e comunidades tradicionais; (ii)
+Implantação de núcleos de justiça comunitária; e, (iii) Programa de formação em justiça restaurativa.
+
+Metas: 01 Centro Integrado de Mediação de Conflitos Fundiários Rurais e Urbanos implantado; 02 núcleos de justiça comunitária
+implantados; 01 Programa de formação em justiça restaurativa realizado.
+
+P - Implementação do Projeto Bahia - Nosso Direito
+Este produto é composto das seguintes ações: (i) Campanha estadual em defesa dos direitos humanos; (ii) Programa de formação
+em direitos humanos para profissionais da segurança e do sistema de justiça; e, (iii) Núcleo de Combate ao tráfico de pessoas e
+trabalho escravo.
+
+Metas: 01 Campanha estadual sobre direitos humanos realizadas; 01 Programa de formação para profissionais da segurança e
+sistema de justiça realizado; 01 Núcleo de Combate ao tráfico de pessoas e trabalho escravo implantados.
+
+P - Estruturação de um Sistema de prevenção a violência com foco em crianças, adolescentes e familias
+Este produto é composto das seguintes ações: (i) Política Estadual de Acesso à Justiça e Segurança Cidadã elaborada, publicada
+e em execução; e, (ii) implantação e fortalecimento dos serviços de promoção da cidadania e garantia de direitos ? Coletivos Bahia
+Pela Paz, com realização de busca ativa, atendimentos psicossociais, encaminhamentos e acompanhamentos intensivos de
+jovens de cada território, atendimentos psicossociais com familiares dos jovens acompanhados e fortalecimento de vínculos
+familiares e sociocomunitários.
+
+Metas: 01 Política Estadual de Acesso à Justiça e Segurança Cidadã elaborada, publicada e em execução; 01 Programa Coletivos
+Bahia pela Paz implantado e Fortalecido em 24 territórios com altos índices de violência letal. 01 Programa de treinamento parental
+implantando pelos Coletivos Bahia Pela Paz, 01 programa de terapia cognitivo comportamental para jovens em situação de risco
+implantando pelos Coletivos Bahia Pela Paz.
+
+S - PREVENÇÃO DA REINCIDÊNCIA DE ATOS INFRACIONAIS (EM MEIO ABERTO E FECHADO) DE JOVENS E
+ADOLESCENTES DO SISTEMA SOCIOEDUCATIVO
+PREVENÇÃO DA REINCIDÊNCIA DE ATOS INFRACIONAIS (EM MEIO ABERTO E FECHADO) DE JOVENS E
+ADOLESCENTES DO SISTEMA SOCIOEDUCATIVO
+
+P - Aprimoramento da gestão no sistema socioeducativo
+Este produto é composto das seguintes ações: (i) Supervisão técnica para os profissionais que atuam no sistema socioeducativo.
+
+Metas: 01 Programa de Supervisão Técnica para os profissionais que atuam no sistema socioeducativo implementado.
+
+P - Desenvolvimento de ações integradas de apoio e inclusão social de adolescentes e jovens em cumprimento de
+medida e egressos do sistema socioeducativo
+Este produto é composto das seguintes ações: (i) implantação de Núcleos de Atendimento Integrado ? NAI, no âmbito do sistema
+socioeducativo; (ii) implantação de programa de saúde mental baseado em evidências para redução da reincidência de jovens em
+situação de alto risco; e, (iii) Programa de prevenção da reincidência de atos infracionais de jovens e adolescentes no âmbito do
+sistema socioeducativo (em meio aberto e fechado) de baixo risco.
+
+Metas: 04 Núcleos de Atendimento Integrado ? NAI implantados; 01 Programa de Saúde Mental para redução da reincidência
+delitiva para jovens, em situação de alto risco, implantado no âmbito do Sistema Socioeducativo; 01 programa de prevenção da
+reincidência de atos infracionais de jovens e adolescentes do sistema socioeducativo (em meio aberto e fechado) de baixo risco
+implantado.
+
+C - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+Este componente corresponde à realização de ações voltadas à gestão do Programa, monitoramento, avaliações e auditoria com
+acompanhamento do órgão executor do Programa/Unidade Gestora do Programa (UGP) conforme especificado no item 4.2.
+
+Gestão do Programa; Avaliação Intermediária, Final e de Impacto; Auditoria
+
+P - Gestão do Programa
+Este produto é composto da seguinte ação: (i) realização da gestão do programa.
+
+Meta: 01 gerenciamento do programa realizado.
+
+P - Avaliação Intermediária, Final e de Impacto
+Este produto é composto das seguintes ações: (i) realização de avaliação intermediária do programa; (ii) realização de avaliação
+final do programa; e, (iii) realização de avaliação de impacto do programa.
+
+Metas: 01 avaliação intermediária do programa realizada; 01 avaliação final do programa realizada; 01 avaliação de impacto do
+programa realizada.
+
+
+Página: 10
+
+P - Auditor
+Este produto é composto da seguinte ação: (i) Realizar auditoria na execução do programa.
+
+Meta: 01 auditoria de execução do programa realizada.
+
+Categoria de Gasto
+
+Outros
+P- Fortalecimento da Gestão e da análise criminal
+P- Modelo de controle interno fortalecido
+P- Policiamento Orientado por Inteligência e
+Solução de Problemas
+P- Modernização de unidades de segurança
+pública
+P- Modernização do modelo de gestão do Sistema
+Penitenciário
+P- Fortalecimentos de serviços de tratamento
+penal
+P- Fortalecimento das Alternativas à prisão
+P- Fortalecimento do Apoio ao Egresso
+P- Fortalecimento de mecanismos de Mediação
+para a resolução de conflitos
+P- Implementação do Projeto Bahia - Nosso
+Direito
+P- Estruturação de um Sistema de prevenção a
+violência com foco em crianças, adolescentes e
+familias
+P- Aprimoramento da gestão no sistema
+socioeducativo
+P- Desenvolvimento de ações integradas de apoio
+e inclusão social de adolescentes e jovens em
+cumprimento de medida e egressos do sistema
+socioeducativo
+P- Gestão do Programa
+P- Avaliação Intermediária, Final e de Impacto
+P- Auditor
+Total Geral
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+PROJETO/ETAPAS REALIZADAS
+
+Unidade de medida
+-
+Unidade
+Unidade
+Unidade
+
+Unidade
+
+Unidade
+
+Unidade
+
+Unidade
+Unidade
+Unidade
+
+Unidade
+
+Unidade
+
+Unidade
+
+Unidade
+
+Unidade
+Unidade
+Unidade
+-
+
+Meta
+
+Valor
+
+% Financeiro
+
+-
+1,00
+1,00
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+1,00
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+1,00
+1,00
+-
+
+125.000.000,00
+594.059,00
+7.018.162,00
+9.554.713,00
+
+17.958.066,00
+
+21.995.358,00
+
+11.190.273,00
+
+4.327.276,00
+4.487.093,00
+3.640.000,00
+
+3.010.000,00
+
+100,00
+0,48
+5,61
+7,64
+
+14,37
+
+17,60
+
+8,95
+
+3,46
+3,59
+2,91
+
+2,41
+
+29.081.919,00
+
+23,27
+
+462.500,00
+
+5.850.000,00
+
+2.796.541,00
+2.734.040,00
+300.000,00
+125.000.000,00
+
+0,37
+
+4,68
+
+2,24
+2,19
+0,24
+100,00
+
+Dentre as inúmeras iniciativas recentes sobre o tema da Segurança Pública e dos Direitos Humanos, o Governo do Estado da Bahia vem
+desenvolvendo importantes Programas e Projetos, sendo os mais relevantes: Pacto pela Vida, Programa Bahia pela Paz, entre outros.
+
+O Programa Pacto pela Vida, instituído pela Lei nº 12.357/2011, é um programa estadual de segurança pública que consistiu em um
+conjunto de projetos e atividades desenvolvidos por diversos órgãos do Poder Público da Bahia (Gabinete do Governador, SSP, SPM,
+SJDH, SECULT, SEAP, entre outros) e em interação com a sociedade civil, que teve como principal objetivo promover a redução da
+criminalidade e violência no Estado da Bahia, com ênfase na prevenção e combate aos Crimes Violentos Letais Intencionais - CVLI. Os
+eixos estratégicos do Programa aboradaram temas como drogas e violência; cidadania e direitos humanos; grupos sociais vulneráveis;
+qualificação dos serviços de segurança pública; juventude; inteligência policial; espaço público e segurança comunitária; mulheres, gênero
+e diversidade; igualdade racial; gestão de riscos; comunicação; proteção ao patrimônio; planejamento e regionalização de unidade de
+segurança pública.
+
+O Programa Bahia pela Paz está concebido no Plano Plurianual - PPA 2024-2027  como um Programa Especial, concebido como um
+programa de combate à violência que substituirá o Pacto pela Vida, e reunirá um conjunto de projetos e atividades desenvolvidos por
+diversos órgãos do poder público estadual e da sociedade civil, e vinculado aos seguintes programas temáticos:
+
+PROGRAMA - Acesso à Justiça e aos Direitos Humanos;
+
+PROGRAMA - Cuidado em Liberdade: Reduzindo Danos;
+
+PROGRAMA - Esporte por Toda Parte;
+
+PROGRAMA - Bahia Antirracista;
+
+PROGRAMA - Povos e Comunidades Tradicionais;
+
+(cid:10)
+(cid:10)
+
+
+Página: 11
+
+PROGRAMA - Direitos e Inclusão Socioprodutiva das Mulheres;
+
+PROGRAMA - Bahia Mais Segura;
+
+PROGRAMA - Ressocializar é o Caminho: Transformando Vidas.
+
+O programa BAHIA PELA PAZ visa promover ações para construir uma sociedade mais segura, justa e inclusiva por meio de uma
+abordagem integral das áreas de segurança pública e dos direitos humanos. Entre as principais metas previstas estão a redução da
+violência letal através de prevenção qualificada, modernização do sistema de segurança e transparência; prevenção da violência,
+priorizando áreas críticas e segmentos vulneráveis; fortalecimento da polícia judiciária e redução da letalidade policial; garantia dos direitos
+das pessoas afetadas pelo uso abusivo de drogas, ampliando as redes de atenção psicossocial; modernização da execução penal para
+alternativas à prisão e inclusão de egressos; e articulação entre os poderes para um sistema de justiça transparente, ágil e acessível. Tem
+o envolvimento de diversas Secretarias: Secretaria da Segurança Pública - SSP, Secretaria de Administração Penitenciária e
+Ressocialização - SEAP, Secretaria de Assistência e Desenvolvimento Social - SEADES, Secretaria de Justiça e Direitos Humanos -
+SJDH, Secretaria de Políticas para as Mulheres - SPM, Secretaria de Promoção da Igualdade Racial e dos Povos e Comunidades
+Tradicionais - SEPROMI, Secretaria do Trabalho, Emprego, Renda e Esporte - SETRE.
+
+Na sua estrutura de mapeamento da transversalidade com outros programas estratégicos destacamos os seguintes compromissos:
+Acesso à Justiça e aos Direitos Humanos (SJDH): articular a oferta de serviços de promoção da cidadania com agenda integrada de
+acesso à justiça e direitos humanos; e, Fortalecer a gestão democrática e participativa da política pública de acesso à justiça e direitos
+humanos; Cuidado em Liberdade: Reduzindo Danos (SEADES): Promover ações de redução de riscos e danos com enfoque no cuidado
+em liberdade para populações que fazem uso problemático de álcool e outras drogas ou afetadas por problemas relacionados à
+criminalização das drogas em contextos de vulnerabilidade; Esporte por Toda Parte (SETRE): Promover a prática de atividades físicas, do
+esporte de participação, educacional e o lazer comunitário, considerando as vocações territoriais; Bahia Antirracista (SEPROMI):
+Promover a autonomia econômica de pessoas negras; Povos e Comunidades Tradicionais (SEPROMI): Promover estratégias de apoio
+aos povos e comunidades tradicionais em situação conflito; Direitos e Inclusão Socioprodutiva das Mulheres (SPM): Promover a inclusão
+socioprodutiva e a autonomia social, econômica e de tomadas de decisões das mulheres, Fomentar a governança estratégica das políticas
+para as mulheres, nos organismos municipais, o controle social e a participação das mulheres na política; Bahia Mais Segura (SSP):
+Fortalecer a polícia comunitária visando à prevenção social à violência e aprimorar a qualidade de atendimento e dos serviços prestados
+ao cidadão, notadamente aos grupos vulnerabilizados, fortalecer as ações das corregedorias visando à redução da criminalidade e
+letalidade policial, ampliar a incorporação de tecnologias da informação e comunicação; Ressocializar é o Caminho: Transformando Vidas
+(SEAP): Promover ações para reinserção social das pessoas privadas de liberdade e egressos do sistema penitenciário.
+
+Já o programa BAHIA MAIS SEGURA tem como prioridade a proteção da vida, bem como a do patrimônio, a fim de fomentar a paz social.
+Na perspectiva da segurança pública, destaca-se as ações de polícia comunitária visando à prevenção social à violência. O Programa
+também busca aperfeiçoar o uso da tecnologia da informação e da comunicação (TIC) e da inteligência policial para enfrentamento do
+crime organizado; aprimorar as corregedorias e promover a valorização dos servidores do Sistema Estadual de Segurança Pública (SESP)
+. Conta com o envolvimento da Casa Civil, Gabinete do Governador e SSP.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Sem detalhes
+
+Estado da Bahia ()
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+A - CONDIÇÕES FINANCEIRAS DA OPERAÇÃO BID
+
+a) Prazo de desembolso: 60 meses (5 anos).
+
+b) Prazo de carência: 60 meses (5 anos)
+
+c) Prazo máximo de amortização: 300 meses (25 anos); e
+
+d) Prazo total de 360 meses (30 anos);
+
+e)Taxa de juros (composição):
+
+- Índice SOFR: reajustado diariamente e composto - média dos últimos 180 dias: 5,12030% a.a.;
+
+- Taxa de originação (funding margin): 0,41% a. a.)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 12
+
+- Spread de captação: reajustado mensalmente / trimestralmente: 0,85% (3º trim. 2023);
+
+- A partir de janeiro de 2022, os empréstimos do BID estarão baseados na taxa SOFR, que buscará refletir adequadamente o custo de
+captação agregado do Banco para operações com garantia soberana;
+
+- Comissão de Crédito sobre o saldo não desembolsado do financiamento: 0,75% a.a.
+
+f) Taxa de câmbio: 1 US$ = R$ 5,05 - (Banco Central do Brasil, PTAX, venda) Data de Referência 02/04/2024.
+
+"Recursos para inspeção e supervisão de até 1% do valor do empréstimo, cobrado semestralmente durante o prazo original de
+desembolsos, dividido pelo número de semestres compreendidos no prazo original de desembolsos".
+
+Periodicidade dos pagamentos de juros e de amortização: semestral
+
+ANÁLISE COMPARATIVA COM OUTRO AGENTE:
+
+Condições financeiras de operações com o BIRD
+
+Modalidade de empréstimo: IBRD Flexible Loan
+
+Prazo: até um máximo de 35,0 anos (420 meses), incluído o período de carência, definidos conforme o esquema de amortização desejado
+e prazo de vencimento médio de no máximo 20,0 anos.(240 meses)
+
+Prazo de Desembolso: 5 anos (60 meses)
+
+Carência: 5 anos (60 meses)
+
+Taxa de juros: taxa de referência variável SOFR (Secured Overnight Financing Rate), acrescida de margem variável.
+
+Comissão inicial: de 0,25% do valor do empréstimo (pagamento único)
+
+Comissão de compromisso: de 0,25% ao ano, calculada sobre o saldo do empréstimo a desembolsar.
+
+Periodicidade dos vencimentos de principal e de juros: semestral.
+
+Amortização: até 30 anos (360 meses)
+
+As Taxas praticadas pelos agentes financeiros externos, são equivalentes. A exemplo do BIRD
+
+Agente financeiro AFD
+
+Prazo total:  20 anos
+
+Prazo de carência:5 anos
+
+Prazo de amortização de capital:  15 anos
+
+Taxa de juros: Taxa Euribor 6 meses +  pb (Valor a ser definido pela agência)
+
+Comissão de Financiamento: 0,5% a.a. (a ser paga uma única vez)
+
+Comissão de Compromisso: 0,5% a.a.
+
+No caso de agente financeiro interno, encontramos disponibilização de programa  compatível com o pleito do Estado da Bahia, no BNDES.
+Apesar de ter a taxa numa margem praticada pelos externos ( TLP+2,5% o que equivale nesta data a 5,14% a.a), e comissão de 0,50% ,
+tem prazo de carência (4 anos)  e amortização (5 anos) , em patamares bem inferiores aos agentes externos.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 13
+
+NECESSIDADE DE FINANCIAMENTO EXTERNO E OPÇÃO PELO AGENTE FINANCIADOR
+
+A contratação desta operação de crédito com o Banco Interamericano de Desenvolvimento (BID) é justificada por este já ter 20 anos de
+experiência em projetos exitosos voltados à justiça e segurança pública na América Latina e no Caribe, incluindo o Brasil com
+investimentos setoriais acima de USD$ 300 milhoes; ter desenvolvido relevantes projetos no âmbito do Governo Federal e outros entes
+federativos, além de apresentar condições de prazo, carência e encargos atrativos se comparadas às condições vigentes em outros
+bancos multilaterais de desenvolvimento e disponibilizar, durante a preparação e início da implementação do projeto, acompanhamento e
+assistência técnica.
+
+O apoio técnico do BID tem foco em objetivos e resultados de desenvolvimento, procurando fortalecer as capacidades das Secretarias
+envolvidas em matéria de atenção integral (intervenções e metodologias baseadas em evidências), administração e gestão (incluindo o
+fomento ao uso de novas tecnologias), melhoramento de mecanismos de controle e prestação de contas que irão aumentar a efetividade e
+eficiência dos programas estratégicos do estado. Em termos financeiros, faz-se importante mencionar que as condições orçamentárias do
+estado estão voltadas majoritariamente para ações de segurança pública, dado o atual cenário de alta letalidade violenta enfrentado,
+sendo necessária a captação de recursos adicionais para ampliar as capacidades do poder executivo, desenhados e previstos através do
+Programa Bahia pela Paz, buscando atingir um salto nas capacidades de prevenção da violencia, prevenção da reincidencia no crime, e
+acesso a justiça e promoção dos direitos humanos.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+As ações aqui previstas deverão repercutir no conjunto da sociedade baiana como um todo, reduzindo sua vitimização e elevando seu
+nível de confiança no sistema de Justiça e Segurança Pública no estado.
+
+Ainda, os grupos populacionais destacados nas ações do Programa incluem: População vulnerável das cidades urbanas com alta
+concentração de crimes violentos, em especial jovens e negros; Mulheres vítimas de violência e população LGBTQIAPN+; População
+carcerária e Egressos do sistema penitenciário e socioeducativo. Importante destacar que o projeto beneficiará de maneira específica
+esses grupos, identificados altamente vulneráveis em termos sociais.
+
+O Programa também atuará na melhoria de qualidade de vida e formação profissional dos servidores que atuam nas três Secretarias
+envolvidas no projeto.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Interamericano de Desenvolvimento
+- BID
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BID
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+25.000.000,00
+Valor Proposto
+
+100.000.000,00
+
+125.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+25.000.000,00
+Valor de Referência US
+$
+100.000.000,00
+
+125.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+O Governo do Estado da Bahia será o órgão executor do Programa, por meio da uma Unidade Gestora do Programa (UGP/SJDH), criada
+por Portaria ou outro instrumento jurídico adequado, vinculada à Secretaria de Justiça e Direitos Humanos. A execução do Programa
+contará, ainda, com um Comitê Gestor, que atuará como instância decisória, responsável pelo direcionamento final das ações, seu
+monitoramento e avaliação sistemática do Programa:
+
+A UGP se reportará ao Comitê Gestor, cuja composição será a seguinte: (i) Secretários de Justiça e Direitos Humanos; Secretário de
+Administração Prisional; Secretário de Segurança Pública.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 14
+
+A execução do Programa dar-se-á pelas equipes dos Produtos que terá um representante formalmente instituído e sua equipe de
+execução e articulação das ações. A integração entre os projetos no âmbito do Programa será realizada pela unidade de coordenação (
+UGP), em atuação conjunta com as equipes responsáveis.
+
+A Matriz de Responsabilidade do Projeto descreve as principais competências de cada um dos atores envolvidos na execução do Projeto,
+por área de intervenção, e compõe o anexo 4.
+
+A Matriz de Responsabilidade, utilizará a metodologia RACI (Responsável-Aprovador-Consultado-Informado), compreenderá diversos
+órgãos da administração direta do Estado da Bahia (abaixo elencados como Executor e Co-Executores) e prevê a contratação de
+consultorias externas bem como uma relação de accountability com a instituição financeira, nomeada como instituição iInformada. Todas
+as secretarias envolvidas serão devidamente consultadas sobre as etapas em curso do Projeto.
+
+O gerenciamento da execução será exercido pela Unidade de Gerenciamento do Programa (UGP), subordinada diretamente à Secretaria
+de Justiça e Direitos Humanos, e contará com o apoio de outras secretarias que atuação como co-executoras, com responsabilidades
+especificadas a seguir.
+
+A criação da UGP resulta da circunstância de que as ações do PROGRAMA BAHIA MAIS SEGURA requerem um sistema de gestão
+próprio, com uma equipe técnica qualificada e exclusiva, que atue de forma operativa, com celeridade e eficiência no desempenho das
+atividades necessárias. Funções que fazem parte da rotina do Estado, dentro dos processos organizados no PROGRAMA, serão
+desenvolvidas pelos demais setores da administração estadual. A instalação de uma UGP tem sido uma orientação para eficácia da
+gestão.
+
+A estrutura prevista na minuta se dará por Portaria ou outro meio necessário para criação da UGP prevendo uma Secretaria Executiva,
+dotada de equipe técnica adequada, com  formação superior e experiência em gestão.
+
+(I)UNIDADES GESTORAS ENVOLVIDAS NA IMPLEMENTAÇÃO DO PROGRAMA:
+
+MUTUÁRIO: Governo do Estado da Bahia (Brasil)
+
+1.ÓRGÃO EXECUTOR: Secretaria de Justiça e Direitos Humanos do Estado da Bahia (SJDH)
+
+2.ÓRGÃO VINCULADO AO ÓRGÃO EXECUTOR: Unidade Gestora do Programa (UGP/SJDH)
+
+3.ÓRGÃOS CO-EXECUTORES: Secretaria da Segurança Pública (SSP); e, Secretaria de Administração Penitenciária e Ressocialização (
+SEAP).
+
+4.ÓRGÃOS INTERVENIENTES: Secretaria do Planejamento do Estado da Bahia (SEPLAN)
+
+5.EMPRESAS PRESTADORAS DE SERVIÇOS: serão contratadas conforme a legislação vigente.
+
+6.AUDITORIA EXTERNA: TCE Bahia.
+
+7.ÓRGÃO FINANCIADOR: Banco Interamericano de Desenvolvimento (BID).
+
+(II)RESPONSABILIDADES NA EXECUÇÃO:
+
+ÓRGÃO EXECUTOR: Secretaria de Justiça e Direitos Humanos do Estado da Bahia (SJDH)
+
+ÓRGÃO VINCULADO AO ÓRGÃO EXECUTOR: Unidade Gestora do Programa (UGP/SJDH)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 15
+
+ÓRGÃOS CO-EXECUTORES e ÓRGÃOS INTERVENIENTES: participam na matriz de responsabilidades, sendo vinculadas entre si
+conforme exposto anteriormente, podendo ver um melhor detalhamento no Anexo 7 . Declaração de Capacidade Gerencial
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Governo do Estado da Bahia
+
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+C - FORTALECIMENTO DAS CAPACIDADES DO GOVERNO ESTADUAL PARA REDUÇÃO DA
+CRIMINALIDADE
+P - Fortalecimento da Gestão e da análise criminal
+
+COMPONENTES
+
+P - Modelo de controle interno fortalecido
+
+P - Policiamento Orientado por Inteligência e Solução de Problemas
+
+P - Modernização de unidades de segurança pública
+
+C - PREVENÇÃO DA REINCIDÊNCIA DELITIVA
+
+S - REDUÇÃO DA REINCIDÊNCIA NO SISTEMA PENITENCIÁRIO
+
+P - Modernização do modelo de gestão do Sistema Penitenciário
+
+P - Fortalecimentos de serviços de tratamento penal
+
+P - Fortalecimento das Alternativas à prisão
+
+P - Fortalecimento do Apoio ao Egresso
+
+C - ACESSO À JUSTIÇA, GARANTIA DE DIREITOS E PREVENÇÃO DA VIOLÊNCIA
+
+S - ACESSO A JUSTIÇA, RESOLUÇÃO PACÍFICA DE CONFLITOS E PROMOÇÃO DOS
+DIREITOS HUMANOS
+P - Fortalecimento de mecanismos de Mediação para a resolução de conflitos
+
+P - Implementação do Projeto Bahia - Nosso Direito
+
+P - Estruturação de um Sistema de prevenção a violência com foco em crianças, adolescentes e
+familias
+S - PREVENÇÃO DA REINCIDÊNCIA DE ATOS INFRACIONAIS (EM MEIO ABERTO E
+FECHADO) DE JOVENS E ADOLESCENTES DO SISTEMA SOCIOEDUCATIVO
+P - Aprimoramento da gestão no sistema socioeducativo
+
+P - Desenvolvimento de ações integradas de apoio e inclusão social de adolescentes e jovens em
+cumprimento de medida e egressos do sistema socioeducativo
+C - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+
+P - Gestão do Programa
+
+P - Avaliação Intermediária, Final e de Impacto
+
+P - Auditor
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - FORTALECIMENTO DAS CAPACIDADES DO GOVERNO ESTADUAL PARA REDUÇÃO DA
+CRIMINALIDADE
+P - Fortalecimento da Gestão e da análise criminal
+
+COMPONENTES
+
+P - Modelo de controle interno fortalecido
+
+P - Policiamento Orientado por Inteligência e Solução de Problemas
+
+P - Modernização de unidades de segurança pública
+
+C - PREVENÇÃO DA REINCIDÊNCIA DELITIVA
+
+S - REDUÇÃO DA REINCIDÊNCIA NO SISTEMA PENITENCIÁRIO
+
+P - Modernização do modelo de gestão do Sistema Penitenciário
+
+P - Fortalecimentos de serviços de tratamento penal
+
+P - Fortalecimento das Alternativas à prisão
+
+P - Fortalecimento do Apoio ao Egresso
+
+C - ACESSO À JUSTIÇA, GARANTIA DE DIREITOS E PREVENÇÃO DA VIOLÊNCIA
+
+S - ACESSO A JUSTIÇA, RESOLUÇÃO PACÍFICA DE CONFLITOS E PROMOÇÃO DOS
+DIREITOS HUMANOS
+P - Fortalecimento de mecanismos de Mediação para a resolução de conflitos
+
+P - Implementação do Projeto Bahia - Nosso Direito
+
+Fax:
+UF:
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+CF
+
+BID
+
+35.125.000,00
+
+0,00
+
+7.203.217,70
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+594.059,00
+
+7.018.162,00
+
+9.554.713,00
+
+17.958.066,00
+
+42.000.000,00
+
+42.000.000,00
+
+21.995.358,00
+
+11.190.273,00
+
+4.327.276,00
+
+4.487.093,00
+
+42.044.419,00
+
+35.731.919,00
+
+3.640.000,00
+
+3.010.000,00
+
+29.081.919,00
+
+6.312.500,00
+
+462.500,00
+
+5.850.000,00
+
+5.830.581,00
+
+2.796.541,00
+
+2.734.040,00
+
+300.000,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+297.029,50
+
+1.403.632,40
+
+1.910.942,60
+
+3.591.613,20
+
+6.720.000,00
+
+6.720.000,00
+
+3.519.257,28
+
+1.790.443,68
+
+692.364,16
+
+717.934,88
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+80.000,00
+
+0,00
+
+0,00
+
+80.000,00
+
+14.003.217,70
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+Ano 2
+
+FONTES
+
+CF
+
+BID
+
+1.405.000,00
+
+9.251.311,80
+
+0,00
+
+0,00
+
+0,00
+
+297.029,50
+
+2.105.448,60
+
+2.866.413,90
+
+1.405.000,00
+
+3.982.419,80
+
+2.100.000,00
+
+6.720.000,00
+
+2.100.000,00
+
+6.720.000,00
+
+1.099.767,90
+
+3.519.257,28
+
+559.513,65
+
+1.790.443,68
+
+216.363,80
+
+692.364,16
+
+224.354,65
+
+717.934,88
+
+2.818.377,94
+
+11.758.845,07
+
+2.382.127,94
+
+10.013.845,07
+
+242.666,67
+
+1.456.000,00
+
+200.666,67
+
+802.666,67
+
+(cid:10)
+(cid:10)
+
+
+Página: 16
+
+P - Estruturação de um Sistema de prevenção a violência com foco em crianças, adolescentes e
+familias
+S - PREVENÇÃO DA REINCIDÊNCIA DE ATOS INFRACIONAIS (EM MEIO ABERTO E
+FECHADO) DE JOVENS E ADOLESCENTES DO SISTEMA SOCIOEDUCATIVO
+P - Aprimoramento da gestão no sistema socioeducativo
+
+P - Desenvolvimento de ações integradas de apoio e inclusão social de adolescentes e jovens em
+cumprimento de medida e egressos do sistema socioeducativo
+C - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+
+P - Gestão do Programa
+
+P - Avaliação Intermediária, Final e de Impacto
+
+P - Auditor
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - FORTALECIMENTO DAS CAPACIDADES DO GOVERNO ESTADUAL PARA REDUÇÃO DA
+CRIMINALIDADE
+P - Fortalecimento da Gestão e da análise criminal
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+P - Modelo de controle interno fortalecido
+
+P - Policiamento Orientado por Inteligência e Solução de Problemas
+
+P - Modernização de unidades de segurança pública
+
+C - PREVENÇÃO DA REINCIDÊNCIA DELITIVA
+
+S - REDUÇÃO DA REINCIDÊNCIA NO SISTEMA PENITENCIÁRIO
+
+P - Modernização do modelo de gestão do Sistema Penitenciário
+
+P - Fortalecimentos de serviços de tratamento penal
+
+P - Fortalecimento das Alternativas à prisão
+
+P - Fortalecimento do Apoio ao Egresso
+
+C - ACESSO À JUSTIÇA, GARANTIA DE DIREITOS E PREVENÇÃO DA VIOLÊNCIA
+
+S - ACESSO A JUSTIÇA, RESOLUÇÃO PACÍFICA DE CONFLITOS E PROMOÇÃO DOS
+DIREITOS HUMANOS
+P - Fortalecimento de mecanismos de Mediação para a resolução de conflitos
+
+P - Implementação do Projeto Bahia - Nosso Direito
+
+P - Estruturação de um Sistema de prevenção a violência com foco em crianças, adolescentes e
+familias
+S - PREVENÇÃO DA REINCIDÊNCIA DE ATOS INFRACIONAIS (EM MEIO ABERTO E
+FECHADO) DE JOVENS E ADOLESCENTES DO SISTEMA SOCIOEDUCATIVO
+P - Aprimoramento da gestão no sistema socioeducativo
+
+P - Desenvolvimento de ações integradas de apoio e inclusão social de adolescentes e jovens em
+cumprimento de medida e egressos do sistema socioeducativo
+C - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+
+P - Gestão do Programa
+
+P - Avaliação Intermediária, Final e de Impacto
+
+P - Auditor
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+1.938.794,60
+
+7.755.178,40
+
+436.250,00
+
+1.745.000,00
+
+46.250,00
+
+185.000,00
+
+390.000,00
+
+1.560.000,00
+
+553.058,10
+
+2.212.232,40
+
+279.654,10
+
+1.118.616,40
+
+273.404,00
+
+1.093.616,00
+
+0,00
+
+0,00
+
+0,00
+
+6.876.436,04
+
+29.942.389,27
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+Ano 3
+
+FONTES
+
+CF
+
+BID
+
+2.107.500,00
+
+8.251.782,30
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.105.448,60
+
+2.866.413,90
+
+2.107.500,00
+
+3.279.919,80
+
+2.100.000,00
+
+6.720.000,00
+
+2.100.000,00
+
+6.720.000,00
+
+1.099.767,90
+
+3.519.257,28
+
+559.513,65
+
+1.790.443,68
+
+216.363,80
+
+692.364,16
+
+224.354,65
+
+717.934,88
+
+2.818.377,94
+
+11.758.845,07
+
+2.382.127,94
+
+10.013.845,07
+
+242.666,67
+
+1.456.000,00
+
+200.666,67
+
+802.666,67
+
+1.938.794,60
+
+7.755.178,40
+
+436.250,00
+
+1.745.000,00
+
+46.250,00
+
+185.000,00
+
+390.000,00
+
+1.560.000,00
+
+309.654,10
+
+1.198.616,40
+
+279.654,10
+
+1.118.616,40
+
+0,00
+
+0,00
+
+30.000,00
+
+80.000,00
+
+0,00
+
+7.335.532,04
+
+27.929.243,77
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+C - FORTALECIMENTO DAS CAPACIDADES DO GOVERNO ESTADUAL PARA REDUÇÃO DA
+CRIMINALIDADE
+P - Fortalecimento da Gestão e da análise criminal
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+P - Modelo de controle interno fortalecido
+
+P - Policiamento Orientado por Inteligência e Solução de Problemas
+
+P - Modernização de unidades de segurança pública
+
+C - PREVENÇÃO DA REINCIDÊNCIA DELITIVA
+
+S - REDUÇÃO DA REINCIDÊNCIA NO SISTEMA PENITENCIÁRIO
+
+P - Modernização do modelo de gestão do Sistema Penitenciário
+
+P - Fortalecimentos de serviços de tratamento penal
+
+P - Fortalecimento das Alternativas à prisão
+
+P - Fortalecimento do Apoio ao Egresso
+
+C - ACESSO À JUSTIÇA, GARANTIA DE DIREITOS E PREVENÇÃO DA VIOLÊNCIA
+
+S - ACESSO A JUSTIÇA, RESOLUÇÃO PACÍFICA DE CONFLITOS E PROMOÇÃO DOS
+DIREITOS HUMANOS
+P - Fortalecimento de mecanismos de Mediação para a resolução de conflitos
+
+P - Implementação do Projeto Bahia - Nosso Direito
+
+P - Estruturação de um Sistema de prevenção a violência com foco em crianças, adolescentes e
+familias
+S - PREVENÇÃO DA REINCIDÊNCIA DE ATOS INFRACIONAIS (EM MEIO ABERTO E
+FECHADO) DE JOVENS E ADOLESCENTES DO SISTEMA SOCIOEDUCATIVO
+P - Aprimoramento da gestão no sistema socioeducativo
+
+P - Desenvolvimento de ações integradas de apoio e inclusão social de adolescentes e jovens em
+cumprimento de medida e egressos do sistema socioeducativo
+C - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+
+Ano 4
+
+FONTES
+
+CF
+
+BID
+
+2.107.500,00
+
+1.736.400,70
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+701.816,20
+
+955.471,30
+
+2.107.500,00
+
+79.113,20
+
+2.100.000,00
+
+6.720.000,00
+
+2.100.000,00
+
+6.720.000,00
+
+1.099.767,90
+
+3.519.257,28
+
+559.513,65
+
+1.790.443,68
+
+216.363,80
+
+692.364,16
+
+224.354,65
+
+717.934,88
+
+2.772.127,92
+
+10.117.845,06
+
+2.382.127,92
+
+8.557.845,06
+
+242.666,66
+
+0,00
+
+200.666,66
+
+802.666,66
+
+1.938.794,60
+
+7.755.178,40
+
+390.000,00
+
+1.560.000,00
+
+0,00
+
+0,00
+
+390.000,00
+
+1.560.000,00
+
+273.404,00
+
+1.093.616,00
+
+
+Página: 17
+
+P - Gestão do Programa
+
+P - Avaliação Intermediária, Final e de Impacto
+
+P - Auditor
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - FORTALECIMENTO DAS CAPACIDADES DO GOVERNO ESTADUAL PARA REDUÇÃO DA
+CRIMINALIDADE
+P - Fortalecimento da Gestão e da análise criminal
+
+COMPONENTES
+
+P - Modelo de controle interno fortalecido
+
+P - Policiamento Orientado por Inteligência e Solução de Problemas
+
+P - Modernização de unidades de segurança pública
+
+C - PREVENÇÃO DA REINCIDÊNCIA DELITIVA
+
+S - REDUÇÃO DA REINCIDÊNCIA NO SISTEMA PENITENCIÁRIO
+
+P - Modernização do modelo de gestão do Sistema Penitenciário
+
+P - Fortalecimentos de serviços de tratamento penal
+
+P - Fortalecimento das Alternativas à prisão
+
+P - Fortalecimento do Apoio ao Egresso
+
+C - ACESSO À JUSTIÇA, GARANTIA DE DIREITOS E PREVENÇÃO DA VIOLÊNCIA
+
+S - ACESSO A JUSTIÇA, RESOLUÇÃO PACÍFICA DE CONFLITOS E PROMOÇÃO DOS
+DIREITOS HUMANOS
+P - Fortalecimento de mecanismos de Mediação para a resolução de conflitos
+
+P - Implementação do Projeto Bahia - Nosso Direito
+
+P - Estruturação de um Sistema de prevenção a violência com foco em crianças, adolescentes e
+familias
+S - PREVENÇÃO DA REINCIDÊNCIA DE ATOS INFRACIONAIS (EM MEIO ABERTO E
+FECHADO) DE JOVENS E ADOLESCENTES DO SISTEMA SOCIOEDUCATIVO
+P - Aprimoramento da gestão no sistema socioeducativo
+
+P - Desenvolvimento de ações integradas de apoio e inclusão social de adolescentes e jovens em
+cumprimento de medida e egressos do sistema socioeducativo
+C - ADMINISTRAÇÃO, AVALIAÇÃO E AUDITORIA
+
+P - Gestão do Programa
+
+P - Avaliação Intermediária, Final e de Impacto
+
+P - Auditor
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+0,00
+
+0,00
+
+273.404,00
+
+1.093.616,00
+
+0,00
+
+0,00
+
+0,00
+
+7.253.031,92
+
+19.667.861,76
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+BID
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+1.405.000,00
+
+1.657.287,50
+
+7.025.000,00
+
+28.100.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+701.816,20
+
+955.471,30
+
+0,00
+
+0,00
+
+0,00
+
+594.059,00
+
+7.018.162,00
+
+9.554.713,00
+
+1.405.000,00
+
+0,00
+
+7.025.000,00
+
+10.933.066,00
+
+2.100.000,00
+
+6.720.000,00
+
+8.400.000,00
+
+33.600.000,00
+
+2.100.000,00
+
+6.720.000,00
+
+8.400.000,00
+
+33.600.000,00
+
+1.099.767,90
+
+3.519.257,28
+
+4.399.071,60
+
+17.596.286,40
+
+559.513,65
+
+1.790.443,68
+
+2.238.054,60
+
+8.952.218,40
+
+216.363,80
+
+692.364,16
+
+865.455,20
+
+3.461.820,80
+
+224.354,65
+
+717.934,88
+
+897.418,60
+
+3.589.674,40
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+8.408.883,80
+
+33.635.535,20
+
+7.146.383,80
+
+28.585.535,20
+
+728.000,00
+
+2.912.000,00
+
+602.000,00
+
+2.408.000,00
+
+5.816.383,80
+
+23.265.535,20
+
+0,00
+
+1.262.500,00
+
+5.050.000,00
+
+0,00
+
+0,00
+
+92.500,00
+
+370.000,00
+
+1.170.000,00
+
+4.680.000,00
+
+30.000,00
+
+80.000,00
+
+1.166.116,20
+
+4.664.464,80
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+559.308,20
+
+2.237.232,80
+
+546.808,00
+
+2.187.232,00
+
+30.000,00
+
+80.000,00
+
+60.000,00
+
+240.000,00
+
+125.000.000,00
+
+3.535.000,00
+
+8.457.287,50
+
+25.000.000,00
+
+100.000.000,00
+
+A operação de crédito proposta exige a aprovação de lei autorizativa pela Assembleia Estadual que permita ao Estado da Bahia a
+contratação de financiamento externo. O projeto de Lei observará o disposto no Manual de Instrução de Pleitos (MIP/STNS) e será levado
+à apreciação e aprovação da Assembleia Estadual, uma vez aprovada a carta consulta pela COFIEX.
+
+Quanto aos Decretos, Portarias e Instruções de Serviço, o Poder Executivo Estadual tem plena governabilidade sobre o processo
+necessário à sua edição, contando, ainda, com equipes com notória capacidade para proceder à sua concepção e redação.
+
+No que se refere à Lei autorizativa, a equipe de governo, responsável pelo relacionamento com a Assembleia Legislativa, tem mostrado o
+real
+
+estado das finanças estaduais e sensibilizado os membros daquele Poder, sobre a importância do financiamento para a melhoria da
+aplicação e dos recursos públicos.
+
+Quanto à Lei de Responsabilidade Fiscal (LRF), a administração prevê apresentar evidências de conformidade no cumprimento da Lei e
+regularidade dos requisitos fiscais obrigatórios para fins de celebração de instrumentos contratuais.
+
+Quanto à garantia da União, o estado prevê apresentar as condições de contragarantia ao Governo Federal, conforme legislação vigente.
+
+Quanto à criação da Unidade Gestora do Programa (UGP), prevista para ser criada por Portaria ou outro instrumento jurídico adequado.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+A seguir os principais riscos relacionados às contratações, que foram identificados, e as correspondentes ações mitigatórias.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 18
+
+(RISCO/ AÇÃO MITIGATÓRIA) - RESPECTIVAMENTE
+
+Atraso no processo licitatório/ Revisão criteriosa dos documentos da contratação e negociação prévia dos prazos com a Comissão de
+Licitação.
+
+Processo de aquisição resultar em licitação deserta/ Realização de pesquisa de mercado e levantamento do máximo de referências sobre
+os possíveis fornecedores.
+
+Projeto básico incompleto ou inadequado/ Revisão criteriosa dos documentos da contratação e capacitação prévia das equipes
+responsáveis pela elaboração das documentações.
+
+Limitação indevida da competição/ Revisão criteriosa dos requisitos elencados no Termo de Referência.
+
+Descumprimento de cláusulas contratuais devido à situação financeira da empresa contratada/ Adoção de critérios de seleção adequados.
+
+Gestão contratual conduzida sem estabelecimento de processo de trabalho padronizado/ Padronizar processo de trabalho para
+contratação em toda a organização, visando aprimorar a etapa de gestão contratual.
+
+Descontinuidade da solução contratada/ Adoção de critérios que inviabilizem a adoção de solução obsoleta ou próximo da obsolescência.
+
+Não gestão do contrato segundo as regras nele contidas/ Revisão criteriosa do Edital e das atas de registro de preço de outras instituições
+.
+
+Impossibilidade de aplicação de penalidades necessárias durante a execução do contrato/ Melhor especificação das cláusulas de
+penalidades no edital para comportamentos inadequados dos licitantes.
+
+Dependência excessiva em relação à contratada/ Revisão dos artefatos do processo de contratação para inclusão de procedimentos
+relativos à transferência de conhecimentos, como reuniões mensais, oficinas e treinamentos, bem como os produtos esperados desses
+procedimentos.
+
+Fiscalização inadequada dos contratos/ Realização de capacitação e formação continuada de servidores para as funções de gestor e
+fiscal de contratos.
+
+Caracterização da implantação das câmaras nas fardas dos policiais como algo prejudicial aos servidores, por terceiros (imprensa,
+associações de servidores policiais, etc)/Definição prévia de protocolo de utilização do equipamento e uso das imagens e realização de
+estudo de avaliação do impacto da medida, previsto no projeto.
+
+Especificação inadequada do Sistema Integrado de Inteligência e do Sistema de Policiamento Preditivo que não garanta a preservação
+dos direitos constitucional e legalmente atribuídos aos cidadãos/Realização de processos de especificação que considerem a preservação
+de todos os direitos do cidadão e elaboração de rígidos protocolos de utilização, que também garantam tais direitos.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Não há previsão no Projeto de impactos ambientais.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 19
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+Não há previsão no Projeto de impactos ambientais.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+Impacto Social Positivo
+
+O processo de fortalecimento da capacidade e aperfeiçoamento da governança institucional pelo qual passarão as Secretarias de
+Segurança, Justiça e Direitos Humanos e de Administração Prisional impactará diretamente no aumento da eficiência e eficácia da
+prestação dos serviços de justiça e segurança pública, sobretudo no que tange à elaboração de políticas públicas de prevenção a
+criminalidade violenta. Espera-secom isso uma redução nas taxas de homicídios e roubos, e redução da incidência criminal. Em relação a
+este último, impactará diretamente no aumento da eficiência e eficácia do tratamento penal, provocando queda na reincidência criminal e
+aumento da inclusão social, trazendo benefícios altamente relevantes para as pessoas privadas de liberdade, egressos do sistema
+prisional, suas famílias e suas comunidades, que em geral se caracterizam por serem de comunidades de alta vulnerabilidade social (5,1%
+são analfabetos, 52% não tem o ensino fundamental completo e outros 13,4% não completaram o ensino médio) e também com alta
+concentração de jovens (na população prisional em 2023, 40,7% jovens faixa-etária de 18 a 29 anos), e e recorte racial de homicídios da
+população negra com taxa de 55 mortes por 100 mil habitantes, sendo 21% maior que a taxa da região nordeste e 43% superior a taxa
+brasileira.
+
+Importante, registrar que o Programa se alinha com os Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030 da ONU,
+particularmente com o objetivo número 16 - Paz, Justiça e Instituições eficazes, ao buscar contribuir na construção de uma sociedade
+mais pacífica e inclusiva.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Não há previsão no Projeto de reassentamentos.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)

@@ -1,0 +1,3201 @@
+# Carta-Consulta CC_61187 — Versao 2 (SIGS)
+
+
+Programa de Modernização da Gestão Fiscal do Estado do Acre - PROFISCO III AC
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 61187
+Processo: 03101.002047/2024-43
+Mutuário: Estado do Acre
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  5 de Julho de 2024
+
+Fontes Internas:
+Contrapartida Financeira: US$ 3.640.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 36.400.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+(i) O Estado do Acre enfrentará desafios complexos na sua gestão fiscal para a próxima década, dentre eles:
+
+- Harmonização da Administração Tributária à Reforma Tributária;
+
+- Adaptação dos modelos de gestão da Administração Tributária;
+
+- Fortalecimento do planejamento, orçamento e investimento públicos;
+
+- Fortalecimento da gestão quanto a transformação digital e do desempenho institucional;
+
+- Eficiência tributária por meio da conformidade, da redução da litigância fiscal, enfrentamento do alto contencioso e melhoria do ambiente
+de negócios;
+
+- Relacionamento com o contribuinte pautado pela transformação digital e fomento à participação cidadã;
+
+- Incorporação nos instrumentos da gestão fiscal, de forma transversal, às dimensões ambiental e social.
+
+Para enfrentamento destes desafios, o Estado do Acre pleiteia operação para a linha de crédito Profisco III. Detalhes sobre os desafios da
+gestão fiscal subnacional e diretrizes do Programa vide Anexo I Profisco III - Marco de Referência.
+
+Aspectos Gerais do Estado
+
+O Estado do Acre possui 22 municípios, em 152.581 km², o 16º estado em extensão, uma população de 830.000 habitantes (2022), sendo
+o 3º menos populoso.
+
+A evolução do PIB em 2019 foi de crescimento real de 0,2%; em 2020, a variação foi -4,2%, decréscimo motivado pela pandemia; em
+2021, crescimento real de 6,7%.
+
+No ano de 2021, o PIB foi equivalente a R$ 21,4 bi, 0,24% do PIB Nacional e 3,8% do Norte, o PIB per capita foi de R$ 23.569, 17º no
+ranking dos estados e o 5º no ranking da região Norte.
+
+O IDH 2021 foi de 0,710 sendo o 16º do país.
+
+Participação dos setores econômicos sobre PIB do Estado (2021): Agropecuária - 18,9%, Indústria - 7,1% e Serviços - 74%.
+
+A CAPAG C atribuída ao Estado, decorreu da avaliação do último exercício fiscal (2023) avaliado pela STN.
+
+A evolução do endividamento nos três últimos exercícios, definida como a Relação Dívida Consolidada (DC) / Receita Corrente Líquida (
+RCL), se apresentou em 2021: 42,63%; em 2022: 31,36% e em 2023: 24,10%.
+
+Informações complementares quanto aos aspectos fiscais e situacionais do Estado estão detalhadas no Anexo II - Diagnóstico e
+Indicadores Fiscais - Acre.
+
+Diagnóstico da Gestão Fiscal
+
+Conforme a Metodologia de Avaliação da Maturidade da Gestão Fiscal - (Anexo III - Relatório da MD-GEFIS); no plano de longo prazo (
+Anexo IV - Agenda Acre 10 anos), no Plano Estratégico do Governo 4 anos, (Anexo V - Plano Estratégico de Governo) e no Plano
+Estratégico da SEFAZ (Anexo XV) foram produzidas as 17 notas técnicas de produtos que suportam esta Carta Consulta (Anexo VI -
+Notas Técnicas Profisco III AC). Os principais problemas identificados e priorizados são:
+
+Gestão Fazendária e Transparência Fiscal - (I) planejamento estratégico SEFAZ não considera diretrizes de sustentabilidade nos temas
+ambiental, igualdade de gênero e participação cidadã, baixa maturidade em transformação digital e utilização de dados; (II) fragilidade na
+gestão de riscos estratégicos fiscais; (III) baixo aproveitamento das competências dos recursos humanos; (IV) fragilidades na governança
+de TI, infraestrutura e segurança da informação; (V) insuficiência de informações sobre transparência e de ações de fomento à cidadania
+fiscal.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+Na Administração Tributária e Contencioso Fiscal - (I) Ineficiência na formulação da política tributária, sem a utilização de dados
+econômicos, climáticos e ambientais; (II) elevado custo para o contribuinte no cumprimento das obrigações tributárias acessórias; (III) uso
+incipiente da gestão de riscos nas ações de fiscalização e lentidão no processamento do ICMS no desembaraço aduaneiro; (IV) lentidão
+no contencioso tributário e dificuldade em disponibilizar acesso à legislação tributária de forma amigável; (V) fragilidade do modelo de
+atendimento ao contribuinte com a predominância de serviços presenciais; (VI) modelo de cobrança administrativa demorado e pouco
+eficaz; (VII) necessidade de harmonizar os processos da AT com as diretrizes da Reforma Tributária.
+
+Administração Financeira e Gasto Público - (I) Gestão financeira incipiente, com necessidade de sistematização e padronização de rotinas
+compreendendo os processos de: planejamento e orçamento do estado, programação financeira e fluxo de caixa, gestão de ativos e
+passivos, a contabilidade pública, gestão da dívida pública e a gestão de custos; (II) política orçamentária não fomenta ações de redução
+de desigualdade de gênero e raça (III) baixa eficiência na gestão de ativos ambientais do Estado, falta de tratamento de efluentes
+sanitários e ações incipientes em programas de PPPs; (IV) fragilidade na integração de questões de sustentabilidade e desenvolvimento
+regional na política de compras públicas.
+
+Gestão jurídica para a Sustentabilidade Fiscal - (I) Desenvolvimento de sistemática de gestão para precatórios e RPV; (II) novo modelo de
+gestão da cobrança da dívida ativa, incluindo redesenho de processos, metodologia de gestão de riscos, rating dos créditos e portal de
+gestão da dívida ativa.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+(ii) Solução Proposta
+
+Recursos Estratégicos da Gestão Fiscal - (I) Aperfeiçoamento da governança fiscal pela implantação de um planejamento estratégico
+sustentável, pela melhoria da execução da estratégia e implementação de um plano de transformação digital; (II) implantação de programa
+de gestão de riscos e integridade; (III) aperfeiçoamento do modelo de gestão de pessoas, com a implantação de modelo de gestão de
+competências e desenvolvimento de ações inclusivas; (IV) implantação de melhorias na Gestão de TI com avanço da governança,
+infraestrutura tecnológica e segurança da informação; (V) Modernização do Portal de Transparência, da sistemática de Ouvidoria e da
+plataforma estadual do Balanço Cidadão.
+
+Administração Tributária e Contencioso Fiscal - (I) Implantação de modelo de gestão de política tributária estadual que considera e avalia
+os impactos econômicos, climáticos e ambientais; (II) integração do sistema de cadastro com a REDESIM e consolidação das declarações
+mensais na EFD ICMS IPI; (III) incorporação de novos processos de fiscalização fortalecendo a gestão de riscos, a percepção do risco
+subjetivo pelo contribuinte e a integração com o PUCOMEX - Portal Único do Comércio Exterior; (IV) implantação do processo
+administrativo tributário eletrônico que integrará desde a fiscalização até o julgamento em última instância administrativa e solução de
+consulta inteligente à legislação tributária, mediante o uso de inteligência artificial; (V) expansão dos serviços de atendimento eletrônico
+aos contribuintes e a implantação de um programa de conformidade cooperativa tributária; (VI) evolução do modelo de gestão da cobrança
+considerando metodologias de avaliação de riscos; (VII) harmonização dos processos, sistemas e normas da Administração Tributária às
+diretrizes da Reforma Tributária;
+
+Planejamento, Orçamento, Gestão Financeira e do Gasto Público - (I) Redesenho de processos e implantação de um novo SIAFIC -
+Sistema Único e Integrado de Execução Orçamentária, Administração Financeira e Controle, software a ser utilizado pelos Poderes
+Executivo, Legislativo e Judiciário. O novo SIAFIC compreenderá os processos de planejamento e orçamento do estado, programação
+financeira e fluxo de caixa, gestão de ativos e passivos, contabilidade pública, gestão da dívida e custos; (II) implementação de uma
+política orçamentária sensível às questões de gênero e raça na tentativa de melhorar índices socioeconômicos da população; (III)
+melhorias na governança dos ativos ambientais e redução das emissões de carbono na infraestrutura de prédios da gestão fiscal
+estruturação de processos para a gestão de PPPs e portal web para relacionamento com investidores; (IV) desenvolvimento de modelo e
+implantação de sistema de compras públicas sustentáveis.
+
+Para um maior detalhamento sobre o diagnóstico, solução proposta e resultados esperados, bem como estimativa detalhada de valores
+por iniciativa, veja Anexo VI Notas Técnicas do Profisco III Acre
+
+(iii)Resultados Esperados
+
+a. Governança fiscal melhorada e orientada a resultados, que aproveita as oportunidades da transformação digital para implementar uma
+cultura de gestão orientada a dados e de gestão de riscos para direcionar estrategicamente seu corpo técnico e seus recursos
+tecnológicos numa gestão transparente que promove a sustentabilidade fiscal observando as questões ambientais, de igualdade de
+gênero e da participação cidadã.
+
+b. Administração tributária aperfeiçoada e adaptada à realidade da Reforma Tributária, orientada à simplificação do cumprimento tributário
+reduzindo custos e a melhoria do ambiente de negócios, orientada também à redução da litigância fiscal, com uso de dados, contribuindo
+para aumentar a arrecadação tributária e ainda fomentando uma gestão fiscal que considera seus impactos sobre o meio-ambiente, o
+clima e que contribui objetivamente para a redução do desmatamento da Floresta Amazônica.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+c. Planejamento e gestão dos recursos públicos modernizada, baseado em processos e sistemas integrados, orientados para uma maior
+eficiência dos gastos públicos, com políticas orçamentárias efetivas para a melhoria de indicadores socioeconômicos da população e
+sensível às questões de gênero e raça, melhorias na governança dos ativos ambientais, redução das emissões de carbono na gestão
+fiscal, redução do consumo de energia não renovável, tratamento de efluentes e reaproveitamento de águas e maior eficiência no
+processo de compras públicas fomentando a economia regional.
+
+d. Gestão jurídica aperfeiçoada, baseada no uso de dados, orientada à recuperação do crédito tributário e à otimização da defesa judicial,
+reduzindo riscos fiscais e promovendo a liquidez do crédito tributário.
+
+Vale destacar que projetos de modernização da gestão fiscal resultam em alto retorno dos investimentos. Estudo de avaliação de impacto
+do PROFISCO I, realizado pelo BID, no Anexo VII Avaliação de Impacto Programa Profisco, estimou que o programa contribuiu para que
+os estados participantes do programa incrementassem em 11,7% sua arrecadação tributária e 1,7% o número de unidades locais de
+empresas formais, em relação àqueles sem projeto.
+
+(iv) Sustentabilidade das soluções
+
+O Estado do Acre elaborará um plano de sustentabilidade dos investimentos a serem realizados. Os custos relacionados à manutenção da
+infraestrutura tecnológica e à sustentação dos novos sistemas retratam os principais gastos para sustentabilidade. Estudo realizado por
+esta equipe avaliou que será necessário o aporte anual de 2,4% do valor do projeto ou cerca de USD 980 mil, veja Anexo VIII - Estimativa
+da necessidade de sustentabilidade financeira após projeto.
+
+Ao longo da execução do projeto, os custos associados à manutenção dos produtos referenciados serão financiados com recursos da
+operação, por meio da sua especificação nos termos de referência, onde constará previsão de transferência de conhecimento técnico para
+o uso de manutenção dos novos processos e soluções tecnológicas implantadas, o que contribuirá para melhorar a produtividade e
+reduzir o custeio.
+
+Após o encerramento do projeto, a manutenção será financiada com recursos do orçamento público, para isso a Alta Administração fará
+articulações visando assegurar recursos necessários nos instrumento de planejamento.
+
+Cerca de 60% dos valores do projeto estão associados ao hardware, software e serviços técnicos de desenvolvimento de software, os
+equipamentos serão adquiridos com garantia estendida por 5 anos (vida útil) e os contratos de sustentação de sistemas já vigentes
+suportarão as aplicações futuras.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+(ii) ORIENTAÇÕES ESTRATÉGICAS:
+
+O Profisco III AC possui alinhamento com as diretrizes estratégicas do governo, que podem ser identificadas nos 5 principais instrumentos
+do planejamento estratégico estadual vigente, quais sejam:  (i) o PRV - Plano de Recuperação verde, um projeto de desenvolvimento
+regional para a Amazônia Legal, por intermédio de uma estratégia de transição para uma economia verde; (ii) Agenda Acre 10 anos (2023)
+- o instrumento de planejamento de longo prazo, que se dedica a construir um caminho de desenvolvimento socioeconômico e ambiental;
+(iii) o Plano Estratégico de Governo de 4 anos (2024), que busca dar transparência e apresentar à sociedade as prioridades e
+compromissos assumidos pelo governo; (iv) o Planejamento Estratégico da SEFAZ e (v) o PPA - Plano Plurianual 2024-2027 que possui a
+previsão de objetivo específico do Programa de Reestruturação e Desenvolvimento do Fisco Estadual (PROFISCO), o que coaduna com
+elemento previsto nos instrumentos de planejamento e garantirá recursos nas leis orçamentárias para suporte e manutenção das ações,
+após investimento do Projeto.
+
+Os produtos aqui propostos se enquadram nos seguintes programas estratégicos presentes no PPA, são eles:
+
+Programa 1458 - Gestão, Transparência e Serviços Públicos - página 66
+
+Governo Digital
+
+Implementação de Política de Transparência Pública, Ouvidoria, Integridade e Controle na Administração Pública
+
+Programa 1433 - Valorização, Capacitação e cuidados dos servidores públicos - página 72
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+Capacitação e Qualificação do Servidor Público
+
+Programa 1456 - Advocacia Pública, Diálogo e Cidadania - página 94
+
+Melhoria, modernização e Inovação dos Serviços da PGE
+
+Programa 1467 - Governança e Gestão da Administração Tributária - página 93
+
+Programa 1466 - Modernização da Gestão tributária, fiscal, financeira - página 92
+
+Melhoria, Modernização e Inovação dos Serviços da SEFAZ
+
+Programa 1475 - Planejamento e Governança para resultado - página 99
+
+Fortalecimento da Cultura de Planejamento e Avaliação
+
+Programa 1460 - Ecossistema de inovação ambiental e adaptação climática - página 178
+
+Incentivo e Regulação dos Serviços Ambientais _IMC
+
+1447 - Programa - desenvolvimento dos Negócios Acreanos - página 199
+
+Promover o Processo de Legalização de Empresas, Simplificando, Integrando e Desburocratizando (Simplifica Mais)
+
+O Anexo IX Avaliação de Aderência aos Instrumentos do Planejamento apresenta um detalhamento da integração do Projeto tanto com os
+instrumentos do planejamento estratégico do Estado do Acre.
+
+(II) A contrapartida será proveniente de receitas tributárias previstas nos artigos 156, 158 e 159, inciso I, (b), da Constituição Federal, bem
+como está conforme a Resolução n.º 3 de 28/09/2018 da Comissão de Financiamentos Externos (COFIEX)/Secretaria de Assuntos
+Internacionais.
+
+Na elaboração do programa foi considerado como moeda de referência o dólar norte-americano, com a taxa de câmbio US$ 1 = R$ 5,39 (
+taxa do dia 12/06/2024).
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa de Modernização da Gestão Fiscal do Estado do Acre - PROFISCO III AC
+
+
+### 2.2. Título Abreviado
+
+
+PROFISCO III - AC
+
+
+### 2.3. Mutuário
+
+
+Estado do Acre
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+(i) Objetivo Geral
+
+O objetivo do projeto é contribuir para a sustentabilidade fiscal do Estado. Para alcançar este objetivo deve-se fortalecer uma gestão
+baseada em dados, fomento a inovação e alinhar a gestão fiscal às diretrizes estaduais para o alcance das metas de descarbonização e
+contribuir para a implantação das reformas estruturais como a tributária.
+
+(ii) Objetivos Específicos
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 6
+
+Em específico, o projeto deve contribuir para:
+
+Melhorar a governança da gestão fiscal, por meio da transformação digital e da promoção da sustentabilidade ambiental, igualdade de
+gênero e participação cidadã, potencializando o desempenho institucional.
+
+Aumentar a eficiência da administração tributária por meio da simplificação do cumprimento tributário e da redução da litigância fiscal,
+contribuindo para aumentar a arrecadação tributária e melhorar o ambiente de negócios.
+
+Aumentar a eficiência no uso dos recursos públicos, por meio do aperfeiçoamento dos processos de planejamento, execução e avaliação
+do gasto público, contribuindo para a melhoria dos serviços aos cidadãos e aumento dos investimentos.
+
+Aumentar a eficiência da gestão jurídica fiscal, por meio da melhoria do modelo de gestão, baseado no uso de dados, contribuindo para a
+redução dos riscos fiscais e promovendo a liquidez do crédito tributário.
+
+O Profisco III AC busca contribuir para a sustentabilidade fiscal do Estado do Acre, mediante o uso intensivo de dados para subsidiar o
+processo de gestão. Para tanto, busca fomentar o redesenho e simplificação dos processos, a transformação digital, pelo fomento às
+inovações, pelo trabalho colaborativo e integrado.
+
+Além disto, visando mostrar a coerência lógica aos objetivos propostos e buscando trazer detalhes sobres os indicadores, elaboramos o
+Anexo X - Descrição dos Indicadores Profisco III AC para um detalhamento da memória de cálculo, o vínculo com os resultados esperados
+, fórmula de cálculo, base de cálculo, meta e fonte de apuração.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Descrição
+Custo para arrecadar
+
+Cumprimento das metas estabelecidas no
+planejamento estratégico da SEFAZ
+
+Incremento de servidoras da SEFAZ/AC
+capacitadas para função de liderança
+
+Melhoria da maturidade dos processos de
+Tecnologia da Informação
+
+Percentual de Processos Julgados em 1ª
+Instância no sistema PAT-e a partir do 4º ano do
+projeto
+
+Aumento da Quantidade de Serviços ao
+Contribuinte integralmente on-line
+
+%
+
+%
+
+%
+
+Fórmula de Cálculo Unidade de Medida
+Execução
+orçamentária da
+SEFAZ (pessoal +
+custeio e
+investimentos) /
+arrecadação bruta de
+impostos (sem as
+deduções)) * 100  -
+Linha de base: ano
+2022 /  Meta
+intermediária  ano 4
+do projeto / Meta final
+ano 5 do projeto
+(Metas cumpridas /
+Total de metas
+planejadas) * 100 -
+Linha de Base: Ano
+2023 / Meta
+Intermediária: 2028 -
+Ano 4 do projeto/
+Meta Final: 2029 -
+Ano 5 do Projeto
+Servidoras líderes
+capacitadas / Total de
+servidores líderes
+capacitados *100 -
+Linha de Base: ano de
+2023 / Meta
+Intermediária: 2028 -
+ano 4 do projeto/ Meta
+Final: 2029 - ano 5 do
+projeto.
+Nota atribuída a TI na
+avaliação da MD-
+GEFIS-  Linha Base:
+Ano de 2020 / Meta
+intermediária:  N/A /
+Meta Final: 2029 - ano
+5 do projeto.
+(Total de processos
+julgados em 1ª
+Instância utilizando
+PAT-e / Número de
+processos julgados  -
+Linha de base:  Ano
+de 2023 / Meta
+Intermediária: 2023 -
+ano 3 do projeto /
+Meta Final:  2028 -
+ano 4 do projeto
+Quantidade de
+serviços eletrônicos
+disponibilizados no
+portal do contribuinte
+- Linha de Base: Ano
+de 2024 / Meta
+Intermediária:  2027 -
+ano 3/ Meta Final:
+2029 - ano 5 do
+projeto
+
+Quantidade
+
+nota
+
+%
+
+
+Página: 7
+
+Meta
+6,95
+
+Linha de Base
+7,12
+
+0,00
+
+80,00
+
+25,00
+
+50,00
+
+2,00
+
+3,00
+
+0,00
+
+100,00
+
+10,00
+
+49,00
+
+
+Página: 8
+
+Crédito de carbono de alta integridade certificado Volume de crédito de
+
+tonelada Carbono
+
+10.000.000,00
+
+30.000.000,00
+
+carbono de alta
+integridade
+certificados - Linha
+Base: Ano de 2024 /
+Meta Intermediária:
+2027 - ano 3 do
+projeto / Meta Final:
+2029 - ano 5 do
+projeto
+Volume anual de
+autogeração de
+energia ao final do
+projeto - Linha de
+base: Ano de 2023 /
+Meta Intermediário:
+2028 - ano 4 do
+projeto / Meta Final:
+2029 - ano 5 do
+projeto
+Média do crescimento
+real dos 3 últimos
+anos da arrecadação
+tributária - Linha de
+Base: Ano de 2023 /
+Meta intermediário:
+2027 - ano 4 do
+projeto / Meta Final:
+2029 - ano 5 de
+projeto.
+100 - (Orçamento total
+executado /
+Orçamento total
+planejado
+demonstrado na LOA)
+*100 - Linha de Base:
+2023 / Meta
+Intermediária: 2027-
+ano do projeto / Meta
+Final: 2029 - ano 5 do
+projeto
+Incremento real de
+valores recuperados  -
+Linha de Base: 2023 /
+Meta Intermediária:
+2028- ano 4 do projeto
+/ Meta Final: 2029 -
+ano 5 de projeto.
+
+Aumento da geração própria de energia
+
+Incremento da arrecadação anual tributária a
+partir do 4º ano
+
+Discrepância Orçamentária
+
+Recuperação da dívida ativa
+
+
+### 2.7. Projeto/Componentes
+
+
+Kwh
+
+0,00
+
+580.000,00
+
+%
+
+%
+
+1,52
+
+2,36
+
+9,80
+
+5,00
+
+R$
+
+20.000.000,00
+
+23.000.000,00
+
+
+Componentes
+C - GESTÃO FAZENDÁRIA E TRANSPARÊNCIA FISCAL
+P - Gestão Estratégica Fortalecida
+P - Modelo de Riscos da Gestão Fiscal Fortalecido
+P - Gestão de Pessoas Aprimorada
+P - Gestão de Tecnologia da Informação Fortalecida
+P - Modelo de Transparência e Comunicação com a Sociedade Fortalecido
+C - ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL
+P - Políticas e Gasto Tributário Aperfeiçoados
+P - Cadastro e Obrigações Acessórias Aperfeiçoados
+P - Fiscalização e Inteligência Fiscal Aperfeiçoados
+P - Contencioso Fiscal Aperfeiçoado
+P - Atendimento ao Contribuinte Fortalecido
+P - Cobrança e Arrecadação Modernizados
+P - Harmonização com a Reforma Tributária
+C - ADMINISTRAÇÃO FINANCEIRA E GASTO PÚBLICO
+P - Sistemática de Administração Financeira Modernizada
+P - Gestão de Políticas Orçamentárias Sensíveis à Igualdade Social
+P -  Políticas de Incentivo à Sustentabilidade Ambiental e Participação Privada no contexto da Gestão Fiscal
+Implantada
+P - Compras Sustentáveis Implantada
+C - GESTÃO JURÍDICA PARA SUSTENTABILIDADE FISCAL
+P - Gestão dos Precatórios e RPVs Aperfeiçoada
+P - Modelo de Gestão e Cobrança da Dívida Ativa Aprimorado
+C - GESTÃO DO PROGRAMA
+P - Monitoramento e Avaliação
+P - Auditoria
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 9
+
+Valor(US$)
+14.811.930,00
+1.084.616,00
+774.846,00
+1.010.000,00
+10.967.083,00
+975.385,00
+13.042.147,00
+962.693,00
+307.108,00
+4.028.654,00
+1.211.923,00
+1.461.000,00
+1.070.769,00
+4.000.000,00
+9.418.077,00
+6.025.769,00
+205.000,00
+1.682.693,00
+
+1.504.615,00
+1.544.423,00
+655.000,00
+889.423,00
+1.223.423,00
+928.846,00
+294.577,00
+40.040.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - GESTÃO FAZENDÁRIA E TRANSPARÊNCIA FISCAL
+As ações deste componente visam melhorar o desempenho da governança pública contribuindo para o aumento da eficiência no
+planejamento, monitoramento e avaliação dos resultados, evolução tecnológica, a mitigação dos riscos fiscais, o fortalecimento dos
+mecanismos de transparência e controle e a melhoria da prestação de serviços, considerando a sustentabilidade ambiental e a
+promoção da igualdade de gênero e diversidade. Portanto, um sólido modelo de governança promove a inovação, aproveita as
+oportunidades da transformação digital e direciona estrategicamente seu corpo técnico.
+
+P - Gestão Estratégica Fortalecida
+Este produto tem como objetivo promover o direcionamento e alinhamento estratégico da organização focado na efetividade de
+suas iniciativas, alinhando-a às diretrizes e iniciativas definidas no planejamento estadual, em especial no que se refere à Agenda
+Acre 10 Anos, à matriz produtiva do Estado e, também, proporcionar capacidade de adaptação a transformações de cenários,
+garantindo efetiva alocação de recursos e esforços, promovendo a necessária mudança na cultura organizacional, em especial nos
+aspectos ligados à liderança, controle e avaliação de resultados. Para tanto, serão implementadas as seguintes soluções:
+
+a) Desenvolver e implantar o Plano Estratégico da Gestão Fiscal Sustentável (PEGFS), que deverá observar as diretrizes
+estabelecidas no PRV - Plano de Recuperação Verde da Amazônia Legal, (https://consorcioamazonialegal.portal.ap.gov.br/
+planejamento-estrategico/plano-de-recuperacao-verde), na Agenda Acre 10 anos (Anexo IV deste instrumento) e no Plano
+Estratégico do Governo (Anexo V deste instrumento). O PEGFS deverá incorporar as diretrizes ambientais para a transição
+energética, redução do consumo de energia e de bens naturais, implantação de critérios ambientais para priorização de créditos e/
+ou benefícios fiscais para empresas em transição energética, descarbonização, reciclagem, uso de tecnologias sustentáveis,
+desenvolver indicadores de performance relacionados a aspectos socioambientais;
+b) implantar sistemática de monitoramento e avaliação de execução da estratégia e avaliação do desempenho organizacional da
+gestão fiscal;
+c) Implantar escritório de projetos para apoiar a implementação do plano estratégico da SEFAZ;
+d) Implementar um plano de transformação digital, que deve mapear e redesenhar os processos priorizados no planejamento
+estratégico da SEFAZ e automatizá-los, observando uma arquitetura de processos e tecnologia consistente;
+d) Implantação de um modelo de comunicação institucional e de gestão da mudança que suportará a implementação do plano
+estratégico da SEFAZ e do plano de transformação digital.
+
+P - Modelo de Riscos da Gestão Fiscal Fortalecido
+O presente produto busca fortalecer e aprimorar a gestão de riscos na SEFAZ, através da implantação de uma sistemática de
+planejamento e acompanhamento de riscos estratégicos, reestruturar e modernizar o modelo de atuação do Controle Interno e
+Corregedoria.
+
+Para tanto, serão executadas as seguintes iniciativas:
+(I) Avaliação de maturidade dos processos de auditoria interna visando certificação IA-CM, cujo relatório será utilizado como
+referência para a um plano de aprimoramento e fortalecimento do sistema de controle interno e da função de auditoria interna
+
+
+Página: 10
+
+(II) Elaboração de política de gestão de riscos e integridade e sua disseminação nos órgãos da gestão fiscal - SEFAZ, CGE, SEAD,
+PGE e SEPLAN.
+(III) Aprimoramento e fortalecimento do sistema de controle interno e da função de auditoria interna, contemplando o uso de
+tecnologias, comunicação e sensibilização sobre a auditoria interna junto aos interessados e melhoria da gestão de operações de
+auditoria interna;
+(IV) Aquisição de hardware e software para suporte às ações de auditoria e controle interno;
+(v) Aperfeiçoamento da gestão correcional na SEFAZ.
+
+P - Gestão de Pessoas Aprimorada
+O desenvolvimento deste produto contribuirá para prover a SEFAZ de uma equipe coesa, com competências técnicas e
+comportamentais alinhadas com a estratégia e com os resultados organizacionais planejados.
+
+Dessa forma, serão implementadas as seguintes soluções:
+(I) Implantação de modelo de gestão por competência na SEFAZ-AC, com a definição de uma metodologia. A partir da missão e
+dos objetivos institucionais estabelecidos no Planejamento Estratégico, serão elencadas as competências necessárias, com
+respectivas descrição e conhecimento, habilidades e atitudes a serem requeridas dos servidores. Em seguida deverá ser realizado
+mapeamento das competências dominadas pelos servidores, identificação de gaps ou lacunas a serem trabalhadas e desenho de
+trilhas de capacitação para suprir os gaps identificados;
+(II) Implementação de plano das trilhas de capacitação para toda a SEFAZ com foco na redução dos gaps de competências
+mapeados;
+(IV) Implementação de um plano de qualidade de vida com foco em gênero, raça e diversidade;
+(V) Capacitação dos servidores da SEFAZ/AC em formação de lideranças com foco em gênero, raça e diversidade;
+(VI) Implantação de ferramenta tecnológica para suportar os processos de gestão de pessoas relacionados com os temas de perfil
+de competências do servidor, histórico de capacitações, pesquisas salariais, banco de talentos, de forma integrada ao SIGRH -
+Sistema Integrado de gestão de pessoas;
+(VII) Implantação de um modelo de gestão do conhecimento compreendendo plataforma tecnológica, tipo Sharepoint, para registro
+e documentação de conhecimento tácito, realização de ciclo de palestras, debates, seminários visando preservar e disseminar o
+conhecimento de interesse da organização.
+
+P - Gestão de Tecnologia da Informação Fortalecida
+O propósito deste produto é oferecer à SEFAZ, ao contribuinte e à sociedade, serviços e dados consistentes e seguros a fim de
+prover um ambiente computacional seguro e eficiente para tratar das interações do fisco e contribuinte provendo informações ágeis
+e precisas, com foco na simplificação, confiança e transparência. Adicionalmente, os serviços de tecnologia da informação
+deverão observar um alinhamento adequado com plano estratégico e o modelo organizacional da SEFAZ Acre e deverá prever a
+atualização do parque tecnológico garantindo rápido acesso às informações em sua integralidade de maneira descomplicada,
+simples e moderna, com inovação e colaboração.
+
+(I) No que se refere à sistemática de governança de TI são propostas:
+-Atualização e implantação do Plano Diretor de TI com o monitoramento e avaliação sistemático dos avanços;
+-Revisão dos principais processos internos, visando adequação às melhores práticas do mercado e ampliação da utilização de
+ferramenta para gerenciamento de serviços de TI baseada no modelo ITIL.
+-Adequação dos processos interno à luz da Lei Geral de Proteção de Dados LGPD
+-Implantação de políticas de governança de TI;
+-Implantação de ferramenta de gerenciamento de serviços de TI (GSTI);
+
+(II) No que se refere à sistemática de Segurança da Informação são propostas:
+-Implantação de aplicações com IA para identificar ameaças;
+-Plano de continuidade de Negócio (PCN);
+-Implantação um site de contingência e recuperação de desastres;
+-Implantação de SOC (Security Operation Center), incluindo mecanismos para combate a ataques cibernéticos;
+-Implantação de solução de gerenciamento de eventos (SIEM).
+
+(III) No que se refere à atualização da Infraestrutura computacional são propostas:
+
+-Ampliação e aquisição de equipamentos de baixo consumo de energia (selo verde) para armazenamento e processamento e
+softwares necessários ao funcionamento dos novos serviços e sistemas corporativos da SEFAZ/AC.
+-Adoção de novas tecnologias como implantação de Nuvem Privada e ferramentas para mineração de dados e soluções de Big
+Data.
+-A aquisição de equipamentos com selo verde, que são energeticamente mais eficientes, reduzirá significativamente o consumo de
+energia e, consequentemente, as emissões de carbono.
+
+(IV) No que se refere à atualização da infraestrutura física do Data Center são propostas:
+-Requalificação de estrutura física de Data Center para ambiente de site de contingência que prevê sala segura, equipamentos,
+obras civis, elétrica e mecânicas.
+
+
+Página: 11
+
+P - Modelo de Transparência e Comunicação com a Sociedade Fortalecido
+Este produto visa aperfeiçoar o processo de comunicação institucional com foco no aperfeiçoamento dos processos de Ouvidoria,
+nas ações de transparência ativa e no programa de educação fiscal. O propósito final é o de otimizar o relacionamento com a
+sociedade por meio de iniciativas de transparência e de desenvolvimento da cidadania fiscal, oferecendo informação tempestiva,
+inteligível e simplificada.
+
+(I) No que se refere à modernização do portal da transparência são propostas:
+-Documentação com propostas de layout, funcionalidades, fluxos de navegação e responsabilidades
+-Atualização do Portal com melhorias na acessibilidade, usabilidade e funcionalidades, buscando a integração em tempo real com
+os diversos sistemas corporativos, visando o provimento da informação correta e rápida.
+
+(II) No que se refere à modernização do Sistema de Ouvidoria Geral do Estado são propostas:
+-Disponibilização de solução tecnológica para o atendimento das manifestações de ouvidoria e pedidos de acesso à informação no
+Estado do Acre;
+-Implantação de programas e campanhas que trabalhem a questão do assédio e discriminação a sexo, raça, orientação sexual,
+identidade ou expressão de gênero
+
+(III) No que se refere à educação fiscal são propostas:
+-Desenvolvimento de uma Plataforma Estadual do Balanço Cidadão, com produção de conteúdo da prestação de contas da gestão
+do Estado do Acre em linguagem cidadã, reunindo o Balanço Cidadão, jogos interativos e vídeos educativos sobre finanças
+públicas.
+
+C - ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL
+As ações deste componente visam melhorar o desempenho da administração tributária e do contencioso fiscal, considerando as
+diretrizes da reforma tributária, contribuindo para o aumento da arrecadação das receitas próprias, a redução de tempos para
+cumprimento das obrigações tributárias, a celeridade na tramitação do processo administrativo fiscal e a recuperação do crédito
+tributário. Assim, a nova administração tributária maximiza o cumprimento voluntário das obrigações e facilita a conformidade
+tributária para a redução da litigiosidade, com suporte no uso intensivo de dados.
+
+A Reforma Tributária trará relevantes impactos sobre o modo de operação das administrações tributárias e para o contencioso
+fiscal dos entes subnacionais. Considerando a definição das regras de transição e implantação no IBS - Imposto sobre Bens e
+Serviços, que deve se iniciar em 2026 e prosseguir em leve transição até 2032, faz-se necessário alocar recursos deste projeto em
+um produto específico para tratar dos impactos sobre os processos, tecnologias e pessoas, vide produto 2.7 -Harmonização com a
+Reforma Tributária. Todavia, deve-se também destacar que o ICMS prosseguirá como sendo a maior fonte de receita tributária do
+Estado até o ano 2032. Restando ainda que a constituição do crédito tributário do ICMS poderá ocorrer até o ano de 2037,
+justificando dessa forma os investimentos aqui planejados para a melhoria dos processos operacionais deste tributo.
+
+P - Políticas e Gasto Tributário Aperfeiçoados
+Este produto gera informação para a definição e avaliação de políticas fiscais e da receita tributária, incluindo a apuração da
+brecha tributária, do gasto tributário, da projeção e avaliação do comportamento da arrecadação.
+
+(I) Com relação ao modelo de gestão da política tributária estadual, que considera e avalia os impactos econômicos, climáticos e
+ambientais, por meio dos instrumentos fiscais, serão desenvolvidos:
+-Metodologia de gestão de política tributária estadual que considera e avalia os impactos econômicos, climáticos e ambientais por
+meio dos instrumentos fiscais;
+-Sistema para a gestão de controle dos incentivos fiscais concedidos, seus tipos e requisitos, os contribuintes incentivados,
+possibilitando aferir, a qualquer tempo, o montante da renúncia fiscal, o controle do saldo de crédito fiscal acumulado por cada
+contribuinte, relação custo-benefício e simulação de mudança nas normas tributárias;
+-Desenvolver metodologia e ferramenta de software que permita a mensuração da brecha ou gap tributário mensurando o potencial
+de arrecadação por setor/tributo.
+
+(II) Com relação à sistemática de gestão estratégica da arrecadação serão desenvolvidos:
+-Implantação de sistemática que contempla o planejamento, o estabelecimento de metas anuais, trimestrais ou mensais para
+tributos que compõem a arrecadação tributária, bem como as previsões de arrecadação e as ações de acompanhamento,
+permitindo a análise do comportamento verificado (previsto x realizado), suas causas, estabelecimento de ações corretivas e
+ajustes de metas.
+
+
+Página: 12
+
+P - Cadastro e Obrigações Acessórias Aperfeiçoados
+Este produto contribuirá para o aprimoramento do processo de cadastro, incluindo-se novas informações que possibilitem melhor
+análise do comportamento do contribuinte, mediante a sua integração plena com a REDESIM - Rede Nacional para a Simplificação
+do Registro e da Legalização de Empresas e Negócios e a consolidação das declarações mensais em uma única - EFD ICMS IPI,
+com a dispensa das demais declarações, isso permitirá a redução do custo de cumprimento pelo contribuinte.  Estes dois
+subprodutos contribuem para a simplificação e redução de custos para o cumprimento da obrigação tributária pelos contribuintes,
+auxiliando assim para a melhoria do ambiente de negócios. Ações de gestão da mudança e comunicação institucional serão
+realizadas como forma de suporte aos novos processos e sensibilização da sociedade - contribuintes e cidadãos como forma de
+mitigar riscos sociais.
+
+P - Fiscalização e Inteligência Fiscal Aperfeiçoados
+Este produto contribuirá para o aprimoramento do processo de fiscalização e inteligência fiscal, serão introduzidos conceitos de
+gestão de riscos, ampliando-se o escopo de atuação e a tempestividade de suas ações.
+
+(I) com relação à incorporação de novos processos e o uso da tecnologia para a gestão da fiscalização tributária serão
+desenvolvidos:
+-Sistemática de planejamento e execução da ação fiscal aperfeiçoado com modelo e solução tecnológica que suporte o
+planejamento de fiscalização, pesquisa, seleção, execução e gestão da ação fiscal;
+-Manuais de procedimentos, roteiros de auditoria, de fiscalização e monitoramento
+
+(II) integração do sistema de administração tributária com o PCCE - Portal de Pagamentos do Comércio Exterior, módulo do
+PUCOMEX - Portal Único do Comércio Exterior, visando simplificar os procedimentos e acelerar o processo de desembaraço
+aduaneiro e pagamento do ICMS importação. Essa ação contribui diretamente para a melhoria do ambiente de negócios no país;
+
+(III) com relação à maior efetividade das ações da inteligência fiscal serão desenvolvidos:
+-Implantação de ferramentas tecnológicas aptas à investigação de fraudes fiscais estruturadas implantadas (análise de vínculo e
+mineração de dados);
+-Acompanhamento fiscal com cruzamento de dados de diferentes origens;
+-Modelo automatizado, baseado em algoritmos preditivos, para acompanhar o comportamento dos contribuintes, desde o pedido
+de inscrição estadual, perfil de risco do contribuinte, histórico de sócios e partes envolvidas e documentos fiscais emitidos como
+forma de tratar inscrições fraudulentas.
+
+(IV) com relação à fiscalização de mercadorias em trânsito serão desenvolvidos:
+-Implantação do Centro de Comando Operacional do trânsito baseado em dados e em riscos;
+-Sistema que abrangerá a fiscalização, já durante o transporte da carga, o canal verde, a seleção de alvos de fiscalização pelo viés
+de risco e o controle da retenção de mercadorias nas transportadoras;
+-Instalação de câmeras em rodovias, sistema de câmeras tipo OCR e LPR e antenas do tipo as empregadas no projeto Brasil ID,
+interligadas online com a Centro de Comando Operacional;
+-Realização de malhas fiscais que permitam o cruzamento de dados dos documentos fiscais eletrônicos (MDFe, NFe e CTe) com o
+DOF - Documento de Origem Florestal, que deve acompanhar o produto ou subproduto florestal nativo por meio de transporte
+rodoviário ou fluvial. Isso permitirá fortalecer uma atuação integrada com o IBAMA para a fiscalização de comercialização de
+madeira legal no ambiente do trânsito de mercadorias - postos fiscais fixos e volantes - contribuindo desta forma nos esforços para
+a redução do desmatamento ilegal.
+
+(V) com relação ao uso técnicas de análise de dados avançada (Data Analytics) no ambiente do monitoramento e fiscalização
+serão desenvolvidos:
+-Implantação de estratégia da estruturação e gestão da informação para viabilizar uma Fiscalização Orientada a Dados;
+-Realizar capacitação em ciência de dados (mineração de dados, Machine Learning e inteligência artificial), para incorporar esta
+competência à Fiscalização e posterior disseminação em toda a AT;
+-Estruturação do laboratório de mineração de dados, que consistirá em um ambiente computacional web para a elaboração e
+execução de scripts em linguagens como Python com acesso à íntegra da base de dados tributários com suporte a Big Data. Esse
+ambiente permitirá o desenvolvimento de soluções inovadoras, tanto para os processos de fiscalização como para os demais
+processos da administração tributária, permitindo dessa forma a prestação de serviços de forma mais eficiente e produtiva para o
+fisco e para a sociedade.
+
+P - Contencioso Fiscal Aperfeiçoado
+Este produto busca duas relevantes entregas:
+(I) contribuir para otimizar a atuação do processo do Contencioso Administrativo Tributário, simplificando procedimentos,
+conferindo-lhe agilidade e segurança jurídica em sua atuação, tempestividade nos julgamentos e rapidez no encaminhamento de
+processos para a dívida ativa e
+(II) disponibilizar consulta à legislação tributária, mediante software de inteligência artificial.
+
+(I) Com relação à solução para processo administrativo tributário eletrônico serão desenvolvidos:
+-Redesenho dos processos, compreendendo todo o fluxo do contencioso - desde o planejamento, execução da fiscalização,
+lavratura de auto de infração e constituição do crédito até o julgamento na última instância administrativa;
+-Aquisição customização de ferramenta que trate de Processo Administrativo Tributário integrado a fiscalização
+
+(II) Com relação à nova sistemática de consulta a legislação tributária serão desenvolvidos:
+
+
+Página: 13
+
+-Sistematização da legislação disponibilizada por software de inteligência artificial e chatbot.
+
+P - Atendimento ao Contribuinte Fortalecido
+Este produto contempla duas relevantes entregas:
+(I) aprimorar o atendimento e a interação entre fisco e contribuinte, mediante um novo modelo de atendimento mais eficiente, que
+permita ao contribuinte obter serviços de forma eletrônica, dispensando seu deslocamento físico a uma unidade da SEFAZ. Isso
+deverá resultar em simplificação dos processos, redução de custos de cumprimento, melhoria do ambiente de negócios e redução
+da emissão de gases de efeito estufa, mediante a redução da necessidade de deslocamentos com contribuintes a unidades da
+SEFAZ, beneficiando assim o meio ambiente;
+(II) implantar um programa que estimule a conformidade cooperativa tributária, que permita tratamento diferente para diferentes
+perfis de contribuintes, estimulando o cumprimento voluntário da obrigação tributária, reduzindo a litigiosidade e melhorando a
+liquidez do crédito tributário.
+
+(I) Com relação ao modelo de atendimento eletrônico integral ao contribuinte serão desenvolvidos:
+-Redesenho e implantação de novos serviços on-line nas plataformas eletrônicas de atendimento - internet e móvel;
+-Desenvolvimento de ferramenta interativa com software de inteligência artificial para facilitar o atendimento e permitir uma maior
+interação com os contribuintes e cidadãos;
+-Realização de programa de capacitação continuado para atendentes;
+-Implantação de software para avaliação da qualidade dos serviços e o nível de satisfação dos contribuintes
+
+(II) Com relação ao programa de conformidade cooperativo serão desenvolvidos:
+-Mapear o ambiente tributário do Estado do Acre, desenhar o programa de conformidade e apoiar a sua implantação;
+-Desenvolver rotinas que estimulem a autor regularização do contribuinte, sem a penalidades administrativas;
+-Desenvolvimento de sistema que suporte as ações do programa de conformidade tributária do Estado do Acre
+
+P - Cobrança e Arrecadação Modernizados
+Este produto tem como objetivo otimizar os procedimentos de cobrança e arrecadação visando garantir maior efetividade e
+tempestividade na recuperação do crédito na esfera administrativa, considerando modelo de gestão de riscos e maior nível de
+contato do fisco com os contribuintes. As seguintes ações serão desenvolvidas:
+-Implantar uma metodologia de gestão da cobrança, considerando modelo de riscos e avaliação dos resultados;
+-Realizar diagnóstico contemplando principais falhas nos processos de cobrança;
+-Definição do processo de cobrança, estabelecendo rotinas padronizadas e/ou automatizadas de responsabilidade das diversas
+áreas;
+-Implantação de sistema de cobrança com os módulos de avaliação de risco de descumprimento, monitoramento e avaliação de
+resultados, restituição;
+-Implantação de mecanismos de cobrança massiva focada em pequenos devedores;
+-Definição de modelo operacional, contratação e Implantação de call center profissionalizado para cobrança;
+-Aprimorar o sistema de conta corrente;
+-Integração de base de dados e unificação de registro e cadastro da frota de veículos, como instrumento para potencializar a
+cobrança do IPVA
+
+P - Harmonização com a Reforma Tributária
+A Reforma Tributária (RT) implicará na redistribuição de competências tributárias entre União, estados e municípios, bem como a
+implementação de novos modelos que afetarão os processos de gestão de cadastro, arrecadação, cobrança, contencioso,
+atendimento ao contribuinte e fiscalização. Dessa forma este produto procura consolidar os investimentos em processos,
+tecnologia e capacitação de pessoas com foco na preparação de uma Secretaria de Fazenda para operar eficientemente no novo
+ambiente projetado pela Reforma Tributária e que afetará os atuais tributos ICMS e ITCMD e o futuro IBS - Imposto sobre Bens e
+Serviços. Ao nível macro preveem-se ações que integrem pessoas, normas, processos e sistemas da SEFAZ AC às demandas
+decorrentes da reforma tributária, como proceder à definição de estratégia de alinhamento organizacional nas diversas áreas de
+negócio de modo a preparar a SEFAZ para atuar de forma tempestiva e com eficiência perante os cenários definidos pela reforma
+tributária.
+
+Dentre os benefícios que a RT deve produzir pode-se citar: a redução da complexidade da tributação, assegurando transparência e
+provendo maior cidadania fiscal, as empresas gastarão menos tempo e dinheiro para apurar tributos e enfrentar litígios
+administrativos e judiciais.
+
+A implantação da RT no Estado do Acre trará algumas inovações importantes que melhorarão a eficiência da arrecadação e
+contribuirão para a redistribuição da renda, como: (i) split payment - que divide o pagamento de uma transação comercial em duas
+partes: o valor destinado ao vendedor e o valor correspondente ao imposto, que será automaticamente transferido para o Comitê
+Gestor do IBS e daí distribuído para os estados e municípios; (ii) cashback que prevê a possibilidade de devolução parcial ou total
+do valor imposto a pessoas físicas com o objetivo de reduzir as desigualdades de renda. Este último requisito se constituirá num
+eficiente mecanismo de distribuição de renda para populações de baixa renda e vulneráveis.
+
+Importante destacar os impactos que serão produzidos pela implantação do IBS na rotina dos contribuintes e cidadãos, isso vai
+demandar um conjunto de ações estruturadas de gestão da mudança que visará o entendimento, a percepção de melhoria e a
+incorporação da nova cultura por parte da sociedade. Ações de gestão da mudança e comunicação institucional serão realizadas
+como forma de suporte aos novos processos e sensibilização dos contribuintes e cidadãos como forma de mitigar riscos sociais.
+
+
+Página: 14
+
+C - ADMINISTRAÇÃO FINANCEIRA E GASTO PÚBLICO
+As ações deste componente visam o fortalecimento da administração financeira estadual que demanda a revisão dos modelos e
+instrumentos para a gestão de áreas críticas, tais como: o planejamento e execução orçamentária, execução financeira,
+contabilidade e gestão da dívida, pois o sistema integrado de administração financeira em produção encontra-se bastante defasado
+, tanto no ponto de vista técnico, com uma linguagem de desenvolvimento e banco de dados obsoletos, que repercutem em
+dificuldades de manutenções e evoluções, como também no conjunto dos seus módulos em produção. Outros aspectos
+considerados no projeto incluem a relevância de tratar o orçamento público como um instrumento que contribua para o
+desenvolvimento de políticas inclusivas, os esforços para aproveitar os potenciais ambientais de um estado amazônico para a
+geração de receita mantendo a floresta em pé e o potencial fomento à economia local, mediante uma política de compras
+sustentáveis e regionais.
+
+P - Sistemática de Administração Financeira Modernizada
+Este produto busca melhorar os instrumentos da gestão financeira dos recursos públicos, mediante a revisão dos processos,
+desenho de uma arquitetura de solução e implantação de sistema integrado compreendendo:
+
+-Mapeamento e redesenho dos processos visando a implantação de uma nova solução informatizada;
+-Aquisição, customização e implantação um novo SIAFIC - Sistema Único e Integrado de Execução Orçamentária, Administração
+Financeira e Controle, software a ser utilizado pelos Poderes Executivo, Legislativo e Judiciário e órgãos de cada ente, com base
+de dados compartilhada, integrado aos sistemas estruturantes da gestão pública e que deverão conter, pelo menos, os seguintes
+módulos: contabilidade, finanças, fluxo de caixa, orçamento, auditoria, portal de transparência, dívida pública, contratos e
+convênios, painel de indicadores;
+-Ações de capacitação e gestão da mudança para os novos processos e solução tecnológica do novo SIAFIC nos Poderes
+Executivo, Legislativo e Judiciário e órgãos de cada ente;
+
+P - Gestão de Políticas Orçamentárias Sensíveis à Igualdade Social
+Este produto visa a elaboração, implementação, monitoramento e avaliação de políticas orçamentárias sensíveis às questões
+sociais relativas a gênero, raça, jovens e minorias na tentativa de melhorar índices socioeconômicos da população e avaliar se
+recursos aplicados em políticas públicas para esses grupos têm reduzido desigualdade.  As seguintes ações serão desenvolvidas:
+
+-Desenvolvimento de metodologia para avaliação de políticas públicas sensíveis às questões de gênero, raça, jovem idade e
+minorias, para permitir a avaliação o que está sendo efetivamente entregue e o que não está entregue à população, direcionado a
+reduzir lacunas;
+-Promover avaliações nas modalidades ex-ante e ex-post sobre a aplicação das políticas sensíveis às questões sociais relativas a
+gênero, raça, jovens e minorias;
+-Customizar módulo de monitoramento e avaliação de PPA para permitir a avaliação e monitoramento das políticas sensíveis às
+questões de gênero e raça;
+-Produção e divulgação anual de relatório evidenciando os resultados das ações.
+
+P -  Políticas de Incentivo à Sustentabilidade Ambiental e Participação Privada no contexto da Gestão Fiscal
+Implantada
+Este produto visa a atuação em quatro frentes complementares:
+
+(I) elaboração e implementação de políticas e ações integradas de monitoramento e gestão dos ativos ambientais, permitindo uma
+melhoria no processo de certificação de carbono e no desenvolvimento de um plano de redução de emissão de carbono na
+infraestrutura pública. Isso demonstrará um compromisso sério com a redução das emissões de gases de efeito estufa e a
+mitigação das mudanças climáticas, compreendendo:
+-Aperfeiçoamento do processo de certificação de crédito de carbono para projetos voltados a projetos voltados para a redução de
+emissões por desmatamento e degradação florestal. A contabilização do carbono é feita por um sistema com base em laudos do
+Instituto de Mudanças Climáticas e em relatórios oficiais do Brasil, como os do INPE (Instituto Nacional de Pesquisas Espaciais). A
+negociação de contratos de compra e venda de créditos de carbono gera receitas ao estado e servem para fomentar projetos e
+iniciativas que apoiam os produtores rurais, ribeirinhos, extrativistas e indígenas a desenvolverem sua produção sem desmatar
+novas áreas de floresta e recuperar as áreas já degradadas.
+-Desenvolvimento e implementação de sistema integrado de monitoramento e gestão dos ativos ambientais;
+-Elaboração e implantação de plano de redução de gases de efeito estufa na infraestrutura dos órgãos da gestão fiscal.
+
+(II) uso de energia renovável nas instalações dos órgãos da gestão fiscal a SEFAZ compreendendo:
+-Instalação de usina fotovoltaica na cobertura e estacionamento do prédio sede, promovendo o aumento do consumo de energias
+renováveis que deve produzir 580.000 kWh / ano;
+
+(III) implantação de uma ETE- estação de tratamento de esgoto compacta no prédio sede da SEFAZ AC com a geração de
+benefícios ambientais, sanitário e de saúde pública. O tratamento do esgoto elimina a poluição de rios e demais cursos d'água,
+permite a substituição da água potável por água não-potável em fins conhecidos como menos nobres significando redução de
+consumo de água da concessionária, com consequente diminuição de consumo.
+
+(IV) Fortalecimento das estruturas de gestão de PPP no estado como estratégia de atração da iniciativa privada no provimento de
+serviços públicos priorizados compreendendo:
+-Modelagem de processos, desenvolvimento de manuais e de software de suporte para fortalecer um escritório de gestão de PPPs
+para o Estado do Acre;
+
+
+Página: 15
+
+-Desenvolvimento e implantação de portal na internet para a divulgação de projetos e relacionamento com potenciais investidores
+para o fomento na atração de investimentos.
+
+Vide o Anexo XVII- Sistema de Ativos Ambientais Acre
+
+P - Compras Sustentáveis Implantada
+Conforme destacado na tabela do item Economia, do Anexo II - Diagnóstico e Indicadores Fiscais do Estado do Acre, o tamanho
+do setor público no estado corresponde a 34,4% do valor adicionado bruto, mais do que o dobro da média brasileira (15,8%). O
+volume de compras totalizou R$ 2,5 bilhões em 2023 ou cerca de 10% do PIB do estado, fonte: Secretaria Adjunta de Compras.
+Isso potencializa a efetividade das políticas públicas que sejam adotadas na área de compras públicas sobre a inclusão
+socioeconômica de uma ampla gama da população acreana. Destarte, as seguintes ações serão desenvolvidas
+-Desenvolvimento de uma metodologia e sistemática de uma política de compras públicas sustentáveis e inclusivas voltada ao
+desenvolvimento regional, mediante o fomento à geração de emprego e distribuição de renda no estado, com o estímulo de
+participação de micro e pequenas empresas locais, de fornecedores que adotem critérios de sustentabilidade ambiental, equidade
+e diversidade de gênero e raça, que promovam a geração do primeiro emprego para os jovens e a agricultura familiar, como
+instrumentos de inclusão econômica e social;
+-implantação de novo Sistema Integrado de Compras Públicas no Poder Executivo Estadual;
+-desenvolvimento de programa de capacitação tanto para os servidores como aos empreendedores regionais como forma
+estimular a sua inclusão no programa de compras sustentáveis.
+
+C - GESTÃO JURÍDICA PARA SUSTENTABILIDADE FISCAL
+Este componente visa aumentar a efetividade da gestão jurídica para a redução dos riscos fiscais e aumento da liquidez do crédito
+tributário. Baseia-se, em especial, no uso de novas tecnologias e capacitações, visando o aprimoramento da gestão para
+recuperação de ativos financeiros, redução do impacto econômico das demandas face ao Estado e melhor controle da legalidade
+dos atos da
+administração pública estadual.
+
+P - Gestão dos Precatórios e RPVs Aperfeiçoada
+Este produto visa o aperfeiçoamento da gestão dos precatórios e RPVs, pois o Estado de Acre dispende anualmente valores
+consideráveis para pagamento de Precatórios e Requisições de Pequeno Valor, em virtude de sentenças judiciais desfavoráveis
+transitadas em julgado. Muitas vezes, a conduta que ensejou a sentença condenatória continua a se repetir ao longo do tempo,
+gerando novas condenações e novos pagamentos, consumindo recursos que poderiam ser destinados a relevantes políticas
+públicas. Esta iniciativa será feita através de:
+
+-Desenvolvimento de solução informatizada, capaz de ler o Precatório/RPV e os dados da ação judicial em que foram expedidos e
+pagos em cada exercício, emitindo relatórios de análise individuais das causas da condenação, bem como relatórios consolidados
+periódicos com as temáticas jurídicas das respectivas condenações.
+-Aquisição e implantação de infraestrutura de hardware e equipamentos com selo verde, e software para suportar as soluções
+tecnológicas planejadas para o componente IV.
+
+P - Modelo de Gestão e Cobrança da Dívida Ativa Aprimorado
+Este produto tem como objetivo otimizar os procedimentos de cobrança e arrecadação visando garantir eficiência e tempestividade
+ao processo. Tendo em vista esta necessidade planeja-se:
+-Redesenho do processo de gestão da dívida;
+-Implantação de metodologia e software para a gestão de risco e rating da dívida ativa;
+-Melhoria e desenvolvimento do Sistema de Administração de Dívida Ativa;
+-Desenvolvimento e implantação de módulo de gestão da dívida no Portal do Contribuinte.
+
+C - GESTÃO DO PROGRAMA
+Visa garantir o correto gerenciamento do Projeto considerando gestão de escopo, tempo e custos, apoio técnico para as
+contratações e gestão financeira na execução dos diferentes produtos e serviços de auditoria externa.
+
+P - Monitoramento e Avaliação
+Consiste nas seguintes atividades:
+-Participação nos eventos de intercâmbio de experiências nacionais - reuniões da COGEF;
+-Monitoramento e avaliação da execução do projeto - gerenciamento do escopo, do tempo, dos custos e integração na execução
+dos produtos;
+-Apoio especializado para os processos de contratação;
+-Apoio especializado para suporte financeiro e administrativo, prestação de contas, demonstrações financeiras, apoio às ações de
+auditoria.
+
+P - Auditoria
+Revisão externa das demonstrações financeiras, registros, transações e operações do projeto.
+
+Uma análise detalhada das atividades ou subprodutos, estabelecidos nos 18 produtos e 4 componentes do projeto demonstram
+que em termos financeiros o Profisco III possui 28% dos seus recursos diretamente associados à sustentabilidade ambiental e ao
+alcance das metas de descarbonização, vide Anexo XI Aderência do Profisco III AC com a Sustentabilidade Ambiental.
+
+
+Página: 16
+
+Para uma visão mais detalhada sobre as estimativas de custos envolvidos para cada atividade prevista vide Anexo VI Notas
+Técnicas do Profisco III Acre.
+
+Para uma visão consolidada da lógica horizontal do projeto que considera o produto, diagnóstico, solução proposta e resultados
+vide Anexo XII Lógica Horizontal dos Resultados.
+
+Categoria de Gasto
+
+Bens
+P- Gestão de Tecnologia da Informação
+Fortalecida
+Consultoria
+P- Gestão Estratégica Fortalecida
+P- Políticas e Gasto Tributário Aperfeiçoados
+P- Gestão de Políticas Orçamentárias Sensíveis à
+Igualdade Social
+Serviços que Não de Consultoria
+P- Modelo de Riscos da Gestão Fiscal Fortalecido
+P- Modelo de Transparência e Comunicação com
+a Sociedade Fortalecido
+P- Cadastro e Obrigações Acessórias
+Aperfeiçoados
+P- Fiscalização e Inteligência Fiscal
+Aperfeiçoados
+P- Contencioso Fiscal Aperfeiçoado
+P- Atendimento ao Contribuinte Fortalecido
+P- Cobrança e Arrecadação Modernizados
+P- Harmonização com a Reforma Tributária
+P- Sistemática de Administração Financeira
+Modernizada
+P-  Políticas de Incentivo à Sustentabilidade
+Ambiental e Participação Privada no contexto da
+Gestão Fiscal Implantada
+P- Compras Sustentáveis Implantada
+P- Gestão dos Precatórios e RPVs Aperfeiçoada
+P- Modelo de Gestão e Cobrança da Dívida Ativa
+Aprimorado
+P- Monitoramento e Avaliação
+P- Auditoria
+Capacitação e Treinamento
+P- Gestão de Pessoas Aprimorada
+Total Geral
+
+Unidade de medida
+-
+unidade
+
+-
+%
+%
+
+-
+uniddade
+unidade
+
+%
+
+%
+
+%
+quantidade
+unidade
+
+
+-
+%
+-
+
+Meta
+
+Valor
+
+% Financeiro
+
+-
+3,00
+
+-
+80,00
+2,40
+1,00
+
+-
+1,00
+1,00
+
+2,40
+
+2,40
+
+100,00
+49,00
+1,00
+1,00
+0,00
+
+1,00
+
+1,00
+1,00
+1,00
+
+1,00
+1,00
+-
+50,00
+-
+
+10.967.083,00
+10.967.083,00
+
+2.252.309,00
+1.084.616,00
+962.693,00
+205.000,00
+
+25.810.608,00
+774.846,00
+975.385,00
+
+307.108,00
+
+4.028.654,00
+
+1.211.923,00
+1.461.000,00
+1.070.769,00
+4.000.000,00
+6.025.769,00
+
+1.682.693,00
+
+1.504.615,00
+655.000,00
+889.423,00
+
+928.846,00
+294.577,00
+1.010.000,00
+1.010.000,00
+40.040.000,00
+
+27,39
+27,39
+
+5,63
+2,71
+2,40
+0,51
+
+64,46
+1,94
+2,44
+
+0,77
+
+10,06
+
+3,03
+3,65
+2,67
+9,99
+15,05
+
+4,20
+
+3,76
+1,64
+2,22
+
+2,32
+0,74
+2,52
+2,52
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Devido à natureza do Projeto Profisco III para a modernização da gestão fiscal, este prescinde de ações de desapropriação ou
+reassentamento.
+
+Como ações estruturantes ou preparatórias já realizadas para o projeto deve-se destacar:
+
+-Foi elaborado o planejamento estratégico de governo (2024) que surge a partir do desdobramento da Agenda Acre 10 Anos para o âmbito
+da administração pública estadual. Enquanto a Agenda se dedica a construir um caminho de desenvolvimento que envolva ações de
+todos os stakeholders que atuam no território acreano, o plano estratégico de governo busca dar transparência e apresentar à sociedade
+as prioridades e compromissos assumidos pelo governo do estado. Esse documento sumariza os principais compromissos, metas e
+projetos priorizados pelo Governo do Estado para os próximos 4 anos.
+
+-O Estado do Acre, signatário do Consórcio da Amazônia Legal, participou da elaboração do Plano de Recuperação Verde, cujas diretrizes
+foram incorporadas ao Plano de longo prazo, Agenda Acre 10 anos e Plano Estratégico de Governo.
+
+-No âmbito da gestão fiscal, em 2023, foi realizado o planejamento estratégico da SEFAZ que abrangeu as dimensões da administração
+tributária, financeira e gestão fazendária.
+
+-Ao longo do primeiro semestre de 2024 foi realizada uma ampla mobilização da gestão fiscal, cujo objetivo foi o de revisar o diagnóstico
+de maturidade da gestão fiscal - MD-GEFIS (revisado), e do planejamento estratégico da SEFAZ foram: identificar os problemas, suas
+causas, evidências a soluções indicadas, os produtos e subprodutos entregáveis. Esse amplo trabalho resultou na produção de 17 notas
+técnicas, que embasam tecnicamente esta carta consulta. Vide Anexo VI? Notas Técnicas Profisco III Acre;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 17
+
+-Adicionalmente há uma constante troca de experiências com os demais Estados da federação, através dos grupos técnicos ENCAT -
+Encontro Nacional dos Administradores Tributários, COGEF - Comissão de Gestão Fazendária, GEFIN - Grupo de Gestão de Finanças e
+GDFAZ -Grupo de Desenvolvimento do Servidor, todos vinculados ao CONFAZ / COMSEFAZ. Dessa forma os servidores da SEFAZ que
+participam ativamente desses grupos de trabalhos nacionais podem obter informações relevantes que darão subsídios tanto a elaboração
+de termos de referência e editais de licitação pública como a realização de visitas técnicas para aprender com os sucessos e erros de
+outros estados que possam estar em estágio de maturidade mais avançado em dado processo ou projeto.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Municipios
+
+Estado do Acre (MUNICIPIO DE  BRASILEIA, MUNICIPIO DE  CRUZEIRO DO SUL, MUNICIPIO DE  MANCIO LIMA, MUNICIPIO DE
+FEIJO, MUNICIPIO DE  RIO BRANCO, MUNICIPIO DE  SENA MADUREIRA, MUNICIPIO DE  TARAUACA, MUNICIPIO DE  PLACIDO
+DE CASTRO, MUNICIPIO DE  SENADOR GUIOMARD, MUNICIPIO DE  ASSIS BRASIL, MUNICIPIO DE  ACRELANDIA, MUNICIPIO DE
+BUJARI, MUNICIPIO DE  CAPIXABA, MUNICIPIO DE  PORTO ACRE, MUNICIPIO DE  EPITACIOLANDIA, MUNICIPIO DE  PORTO
+WALTER, MUNICIPIO DE  RODRIGUES ALVES)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+(i) CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+a) Prazo de desembolso de 60 meses (5 anos);
+
+b) Prazo de carência: 60 meses (de 5 anos);
+
+c) Prazo máximo de amortização de 300 meses (25 anos); e
+
+d) Prazo total de 360 meses (30 anos)
+
+e) Taxa de juros (composição):
+
+-Índice SOFR: reajustado diariamente e composto - média dos últimos 180 dias: 5,38% a.a.
+
+-Taxa de originação (funding margin): 0,40% a. a.
+
+-Spread de captação: reajustado mensalmente / trimestralmente: 0,80% (1º trim. 2024);
+
+-A partir de janeiro de 2022, os empréstimos do BID estarão baseados na taxa SOFR, que buscará refletir adequadamente o custo de
+captação agregado do Banco para operações com garantia soberana;
+
+-Comissão de Crédito sobre o saldo não desembolsado do financiamento: 0,5% a.a. (2º sem 2023);
+
+f) Taxa de câmbio: US$ = R$ 5,4248 (Banco Central do Brasil, PTAX, compra), data de referência - 20/06/2024.
+
+(ii) necessidade do financiamento e opção pelo agente financeiro
+
+a) Justificativa da necessidade e da opção por financiamento:
+
+O atual cenário econômico de baixo crescimento nacional tem acarretado consequências adversas no desempenho fiscal das unidades
+federativas, requerendo medidas destinadas a fortalecer a arrecadação e a modernizar a gestão fiscal. Nesse contexto, o financiamento
+emerge como uma alternativa viável para atender às exigências de modernização fiscal e para enfrentar os desafios econômicos relatados
+.
+
+Com a elaboração de uma política de longo prazo de Estado - Agenda Acre 10 anos, visando o desenvolvimento socioeconômico, a alta
+gestão tem mudado o foco de investimentos. Agora busca-se prioritariamente o fortalecimento da gestão fiscal e dos órgãos centrais de
+administração.
+
+Em um estado que representa uma das menores economias do país, a busca por recursos é premente. Sobretudo a isto, o Estado teve
+como lição apreendida, a necessidade de fortalecimento da governança e gestão, como eixo central para melhoria da gestão dos gastos e
+melhor eficiência na aplicação dos recursos captados.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 18
+
+A linha de crédito condicional para projetos de investimento (CCLIP - PROFISCO I - BR-X1005), aprovada em 2008 por um montante de
+US$ 500 milhões e ampliada em 2013 para US$ 700 milhões, teve como objetivo promover a integração dos fiscos brasileiros e
+modernizar a gestão fiscal, financeira e patrimonial dos estados. O PROFISCO I apoiou a implantação da Nota Fiscal eletrônica no país A
+fim de aprofundar e garantir os ganhos obtidos e continuar o processo de modernização fiscal, os estados brasileiros, apoiados pelo
+Ministério da Fazenda, solicitaram ao BID uma nova CCLIP.
+
+A linha de crédito, BR-X1039 (CCLIP-PROFISCO II), de US$ 900 milhões, apoiou a modernização da gestão fazendária e o
+aperfeiçoamento da administração tributária e da gestão do gasto público nos estados brasileiros. Adicionalmente, fortaleceu a
+arrecadação dos estados num contexto em que o baixo crescimento econômico enfrentado pelo país gera efeitos negativos no
+desempenho fiscal dos estados.
+
+A linha de crédito PROFISCO III, de US$ 2 bilhões, continuará apoiando os estados no enfrentamento dos grandes desafios que as
+gestões fiscais subnacionais deverão enfrentar nos próximos 10 anos, que incluem a implantação da Reforma Tributária, a transformação
+digital, a implantação de programas de conformidade, a redução da litigiosidade tributária, a modernização dos SIAFICs, dentre outros
+temas relevantes, que devem ser conduzidos estrategicamente e de forma conjunta entre os estados como forma de propiciar ganhos de
+sinergias na execução dos projetos e, ao mesmo tempo, poder contar com recursos financeiros direcionados e exclusivos para a
+modernização da gestão fiscal ao longo da sua execução.
+
+b) Justificativa da opção pelo agente financeiro escolhido:
+
+Em face da perda da condição propícia para contrair empréstimos via contratação de operação de crédito com aval da União - em função
+da atribuição da CAPAG "C", resultante da análise sobre o exercício fiscal de 2023, com reflexos no presente ano - tornou injustificável,
+por antieconômico, ao estado ir ao mercado doméstico captar operações de crédito junto a qualquer instituição financeira nacional, sem ter
+por garantidor o Tesouro Nacional. Estaríamos sob o olhar atento de, por exemplo, o Tribunal de Contas do Estado, instância sob cujo
+mister está inclusive este acompanhamento e que, para consecução de qualquer empréstimo, precisa ser instado a fornecer a certidão de
+regularidade específica, quanto aos cumprimentos das metas de conformidade com a LRF.
+
+Dadas as condições de financiamento das diferentes instituições financeiras e realizando uma comparação de custos incidentes sobre a
+operação observam-se competitivas oferecidas pelo BID, o que, aliado às condições diferenciadas de assistência técnica provida
+continuamente tornam a opção pela linha de crédito do Profisco III como a decisão mais adequada.
+
+Adicionalmente, o conhecimento específico e o amplo suporte técnico proporcionado pela equipe do Banco Interamericano de
+Desenvolvimento (BID) na área fiscal, são diferenciais de suma importância desde a fase do diagnóstico (aplicação de ferramentas de
+avaliação da maturidade da gestão fiscal MD-GEFIS), passando pelo desenho da operação até o acompanhamento da execução do
+projeto e avaliação de resultados alcançados, a exemplo do apoio provido ao longo dos programas PROFISCO I e II para outros entes da
+federação.
+
+Pode-se destacar que o BID também proporciona intercâmbio técnico com outras unidades da federação e outros países, contribuindo
+para o conhecimento das melhores práticas e benchmarking das diferentes áreas da gestão fiscal.
+
+c) Comparação de condições financeiras entre financiadores externos/internos:
+
+BNDES Finem - Desenvolvimento integrado dos estados
+
+Incidem juros de IPCA + 5,15% + comissão de financiamento de 2,3% a.a.
+
+CAF
+
+Incidem juros considerando taxa SOFR (Secured Overnight Funding Rate), acrescido de mais margem fixa a ser definida na data de
+assinatura do contrato de empréstimo; juros de mora de 2% a.a. acima dos juros a serem estabelecidos no contrato; comissão de
+compromisso / commitment charge de 0,35% a.a., aplicado sobre os saldos não desembolsados do empréstimo; comissão de
+financiamento de 0,85% do valor total do empréstimo e mais gastos de avaliação de US$ 50 mil.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 19
+
+BIRD
+
+Incidem juros baseados na SOFR de seis meses, acrescido de spread variável definido periodicamente pelo BIRD; juros de mora de 0,5%
+(cinco décimos por cento); comissão de compromisso / commitment charge de 0,25% a.a. sobre os saldos não desembolsados do
+empréstimo; comissão de abertura de 0,25% sobre o valor do empréstimo; sobretaxa de exposição do BIRD ao País de 0,5% a.a. sobre o
+montante que exceder ao limite de exposição do país.
+
+BID
+
+Incidem juros baseados na SOFR (Secured Overnight Funding Rate) acrescido de funding margin e spread definidos periodicamente pelo
+BID; comissão de compromisso /commitment charge de 0,75% a.a., aplicado sobre os saldos não desembolsados do empréstimo.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+(i)  Áreas Estratégicas e Impactos do Projeto
+
+Para a população do Estado do Acre, os resultados positivos estarão relacionados às melhorias na arrecadação, redução dos gastos e
+transparência fiscal, contribuindo para a melhoria da qualidade de vida da sociedade em geral, mediante melhoria dos serviços públicos
+prestados e do ambiente de negócios, possibilitando gerar mais empregos, ações de sustentabilidade ambiental, contribuindo para
+mitigação dos impactos das mudanças climáticas.
+
+O projeto beneficiará, além da Secretaria de Estado da Fazenda, distintos órgãos da administração pública estadual, tais como as
+Secretarias de Estado do Planejamento e da Administração, Procuradoria-Geral do Estado, Controladoria Geral do Estado, SEMA -
+Secretaria de Estado do Meio Ambiente, através do IMC - Instituto de Mudanças Climáticas, bem como os demais órgãos da
+administração estadual, relativamente ao controle dos gastos públicos mais eficiente.
+
+A sustentabilidade ambiental e a conservação da biodiversidade serão fortalecidas através da implantação de políticas orçamentárias de
+incentivo à sustentabilidade ambiental; implantação de metodologia para a valoração econômica dos serviços ecossistêmicos prestados
+por ativos ambientais - créditos de carbono; sistema integrado de monitoramento e gestão dos ativos ambientais; elaboração de plano
+piloto para alcance da neutralidade de carbono em infraestrutura dos órgãos públicos do Estado do Acre; e pela ação da fiscalização
+tributária ao poder atuar com resultados de cruzamento de dados envolvendo documentos fiscais eletrônicos (DFe) e o documento de
+origem florestal (DOF), contribuindo dessa forma para a redução do desmatamento ilegal.
+
+A eficiência energética será fortalecida pela implantação de uma usina fotovoltaica para a autogeração de energia, que permitirá a
+substituição de fonte de energia fóssil e poluente, por uma energia limpa e renovável.
+
+A racionalização do uso das águas será fortalecida pela implantação de uma ETE- estação de tratamento de esgoto - do prédio sede da
+SEFAZ AC com a geração de benefícios ambientais, sanitário e de saúde pública.
+
+Sob o aspecto da contribuição para a melhoria do ambiente de negócios são identificados vários produtos que contribuem diretamente,
+pode- se aqui destacar: (i) melhorias no Cadastro e Obrigações Tributárias Aperfeiçoados - com o novo sistema de cadastro integrado à
+REDESIM, simplificação das obrigações acessórias com o uso da declaração EFD ICMS-IPI como única declaração mensal, (ii) -
+Fiscalização e Inteligência Fiscal Aperfeiçoados com a integração dos sistemas de administração tributária e financeira do estado ao
+ambiente do PCCE- Pagamento Centralizado do Comércio Exterior, um dos módulos do PUCOMEX - Portal Único do Comércio Exterior; (
+iii) Serviços ao Contribuinte Aperfeiçoados com a implantação de ferramenta de inteligência artificial para o atendimento virtual reduzindo o
+tempo de atendimento e ampliando os serviços digitais; (iv) implantação do programa de conformidade que propiciará o tratamento
+diferenciado dos contribuintes em função de seu histórico de comportamento no cumprimento das suas obrigações tributárias.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 20
+
+Sob o aspecto da contribuição para a melhoria do ambiente de negócios são identificados vários produtos que contribuem diretamente,
+pode- se aqui destacar: (i) melhorias no Cadastro e Obrigações Tributárias Aperfeiçoados - com o novo sistema de cadastro integrado à
+REDESIM, simplificação das obrigações acessórias com o uso da declaração EFD ICMS-IPI como única declaração mensal, (ii) -
+Fiscalização e Inteligência Fiscal Aperfeiçoados com a integração dos sistemas de administração tributária e financeira do estado ao
+ambiente do PCCE- Pagamento Centralizado do Comércio Exterior, um dos módulos do PUCOMEX - Portal Único do Comércio Exterior; (
+iii) Serviços ao Contribuinte Aperfeiçoados com a implantação de ferramenta de inteligência artificial para o atendimento virtual reduzindo o
+tempo de atendimento e ampliando os serviços digitais; (iv) implantação do programa de conformidade que propiciará o tratamento
+diferenciado dos contribuintes em função de seu histórico de comportamento no cumprimento das suas obrigações tributárias.
+
+Sob o aspecto do desenvolvimento, inovação e modernização tecnológica pode-se identificar que todo conjunto de produtos apresenta
+essa característica, todavia como iniciativa emblemática pode-se citar a implementação de um plano de transformação digital, que visa a
+implantação de uma cultura organizacional onde o dado é considerado um ativo estratégico e saber utilizá-lo adequadamente gera valor
+relevante ao negócio. Pode-se citar também o desenvolvimento de soluções baseadas em inteligência artificial na administração tributária
+e uso de mecanismos de cashback e split payment na harmonização com a Reforma Tributária.
+
+Acerca o tema de inclusão social na economia regional pode-se citar: políticas orçamentárias sensíveis às questões da juventude, gênero
+e raça que visam melhoria de índices socioeconômicos da população; o desenvolvimento de uma metodologia e sistemática de uma
+política de compras públicas sustentáveis, que deve fomentar a geração de emprego e distribuição de renda no estado, o estímulo de
+participação de micro e pequenas empresas locais. A vinculação legal das receitas geradas com a negociação de créditos de carbono
+financia projetos e iniciativas que apoiam produtores rurais, ribeirinhas, extrativistas e indígenas a desenvolverem sua produção sem
+desmatar novas áreas de floresta e recuperar as áreas já degradadas. Constituindo-se dessa forma com geração de negócios e renda
+para população de baixa renda e vulneráveis e para conservação e manejo da biodiversidade /ou recursos florestais.
+
+Considerando o aspecto da produção de benefícios aos empreendedores individuais, micro e pequenas empresas, pode-se destacar: a
+implantação de programa de conformidade tributária; o modelo de atendimento ao contribuinte e o modelo de compras sustentáveis.
+
+A negociação de contratos de compra e venda de créditos de carbono gera receitas ao estado e servem para fomentar projetos e
+iniciativas que apoiam os produtores rurais, ribeirinhos, extrativistas e indígenas a desenvolverem sua produção sem desmatar novas
+áreas de floresta e recuperar as áreas já degradadas
+
+Sobre os aspectos de distribuição de renda para populações de baixa renda e vulneráveis pode-se destacar os efeitos redistributivos do
+cashback previstos com a implantação da Reforma Tributária, que visa compensar impostos pagos na cesta básica.
+
+A vinculação legal das receitas geradas com a negociação de créditos de carbono financia projetos e iniciativas que apoiam produtores
+rurais, ribeirinhas, extrativistas e indígenas a desenvolverem sua produção sem desmatar novas áreas de floresta e recuperar as áreas já
+degradadas. Constituindo-se dessa forma com geração de negócios e renda para população de baixa renda e vulneráveis e para
+conservação e manejo da biodiversidade /ou recursos florestais.
+
+Impactos positivos são também esperados sobre a educação da população do estado, através da expansão e modernização do programa
+de educação fiscal.
+
+Finalmente, o aprimoramento dos instrumentos de gestão dos investimentos em PPPs potencializará o desenvolvimento de investimentos
+do interesse da sociedade, mediante uma parceria entre governo e a iniciativa privada.
+
+A descrição acima não é exaustiva. A partir do Anexo XVIII - Alinhamento do Profisco III AC às Áreas Estratégicas, é possível identificar o
+enquadramento dos produtos relacionados às áreas estratégicas e impactos sobre o projeto, considerando o item 4, do Anexo à
+Resolução Cofiex n.º 17, de junho de 2021. A planilha do referido anexo é exaustiva no enquadramento aos temas de sustentabilidade,
+melhoria do ambiente de negócios, benefícios aos empreendedores, diversidade de gênero e raça, etc.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 21
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Interamericano de Desenvolvimento
+- BID
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BID
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+Valor Proposto
+
+3.640.000,00
+Valor Proposto
+
+36.400.000,00
+
+40.040.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+3.640.000,00
+Valor de Referência US
+$
+36.400.000,00
+
+40.040.000,00
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+(ii) Arranjo Institucional:
+
+O monitoramento e a avaliação do Projeto e dos seus resultados serão realizados pela Unidade de Coordenação, no âmbito da Secretaria
+de Estado da Fazenda, que terá a Unidade de Coordenação do Projeto vinculada ao Gabinete da Secretário.
+
+O Estado do Acre há 20 anos executa projetos com organismos multilaterais, tendo conhecimentos sobre as políticas de aquisição de
+bens, obras e serviços de não consultoria, conforme o instrumento GN-2349; sobre a seleção de consultores, conforme o instrumento GN-
+2350; a equipe está informada da necessidade de observação das políticas de salvaguardas ambientais e sociais para apoiar a
+sustentabilidade nos projetos e programas que financiam e que atualmente são em seis: Política de Meio Ambiente e Conformidade de
+Salvaguardas; Política de Gestão de Risco de Desastres; Princípios do reassentamento involuntário em projetos do BID; Política
+Operacional sobre Povos Indígenas e Estratégia para o Desenvolvimento Indígena; Política Operacional sobre Igualdade de Género no
+Desenvolvimento; e Política de acesso à informação.
+
+A equipe também tem ciência da necessidade de buscar apoio de consultorias especializadas para apoiá-la na condução do projeto
+observando as políticas de aquisições e salvaguardas e, para tal, fará constar no seu plano de aquisições a contratação de consultor
+individual com esse objetivo.
+
+A experiência e o conhecimento acumulados, as ações de fortalecimento da capacidade institucional da equipe estadual na preparação,
+execução, monitoramento e avaliação de projetos desenvolvidas no âmbito de outros programas e parcerias, serão de fundamental
+importância para a melhoria do desempenho na execução do PROFISCO III AC, conforme segue:
+
+(i) capacitação continuada nas políticas de aquisições de organismos internacionais e na formulação de termos de referência e elaboração
+de especificações técnicas, segundo um conjunto de documentos padronizados, voltada para os membros da Unidade de Coordenação,
+líderes de projetos, técnicos das áreas de compras, procuradores e técnicos dos órgãos de controle interno e externo;
+
+(ii) adequação e credenciamento de sistemas nacionais para prestação de contas (SCG - Sistema de Contabilidade Geral do Estado),
+aquisições (comprasnet.go.gov.br);
+
+(iii) implantação de comissão especial de licitação no órgão executor, para atendimento ao PROFISCO e,
+
+(iv) implantação do escritório de projeto para gestão de portfólios e monitoramento de metas e indicadores do planejamento estratégico.
+
+Ademais, a troca de experiências com outros estados, por meio dos grupos técnicos vinculados ao Conselho Nacional de Política
+Fazendária (CONFAZ) e ao Comitê dos Secretários de Estado da Fazenda (COMSEFAZ), em especial a Comissão de Gestão Fazendária
+(COGEF), deverá permitir a realização de visitas técnicas para transferência de tecnologias, o compartilhamento e cessão de soluções e o
+amadurecimento operacional das áreas gerencial e técnica dos órgãos fazendários.
+
+A equipe de coordenação do projeto e os líderes de projetos serão formalmente designados para essa nova etapa de modernização,
+sendo todos servidores públicos concursados do quadro da Secretaria.
+
+Face ao número de beneficiários do PROFISCO III AC, no momento da preparação da operação com o Mutuário, o BID aplicará a PACI -
+Plataforma de Avaliação da Capacidade Institucional, tanto na UCP da Secretaria da Fazenda - quanto nos demais órgãos beneficiários do
+Projeto, visando avaliar a capacidade das instituições beneficiárias e seus papéis na execução do Projeto, amadurecendo de forma
+conjunta, o arranjo institucional mais apropriado à gestão mais eficiente.
+
+MATRIZ DE RESPONSABILIDADE
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 22
+
+A Matriz de Responsabilidade do Projeto descreve as principais competências de cada um dos atores envolvidos na execução do Projeto,
+por área de intervenção, veja Anexo XIII Matriz de Responsabilidades Institucionais.
+
+(ii)Estrutura Operacional
+
+A equipe técnica da Unidade de Coordenação de Programa - UCP, deverá apresentar a seguinte composição:
+
+- 1 Coordenador Geral
+
+- 1 Coordenador Administrativo Financeiro
+
+- 1 Coordenador Técnico
+
+- 1 Assessor de Planejamento e Monitoramento
+
+- 1 Assessor de Aquisições
+
+- 1 Assessor de TI
+
+- Líderes de componentes
+
+- Líderes de produtos
+
+Ações de gestão de riscos relacionadas à execução do projeto, como: desligamento ou transferência de servidores especialistas, indicam
+a necessidade de promover capacitação para os membros da UCP nas competências associadas a cada perfil e a importância de formar
+substitutos que possam assumir na ausência do titular. Treinamentos necessários incluem: (i) gestão de projetos, programas e portifólios; (
+ii) políticas de aquisições do banco; (iii) instrumentos de gestão administrativo e financeiro; (iv) relacionamento interpessoal, negociação e
+liderança.
+
+O Anexo XIV - Modelo de Execução do Profisco III AC detalha as competências e responsabilidades da UCP.
+
+Verificar o Anexo XVI - Descrição da Execução Financeira do Profisco III AC
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Governo do Estado do Acre
+
+Representante Oficial: Gladson de Lima Cameli
+
+Endereço da Sede: Avenida Brasil, 307-447, Centro
+E-mail Institucional:
+
+Telefone: (68) 3215-2812
+
+CNPJ: 63606479000124
+
+Executor: Secretaria de Estado da Fazenda do Acre
+
+Representante Oficial: José Amarísio Freitas de Souza
+
+Endereço da Sede: R. Vinte e Quatro de Janeiro - 6 de Agosto
+E-mail Institucional:
+
+Telefone: (68) 3212-7602
+
+CNPJ: 04034484000140
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+COMPONENTES
+C - GESTÃO FAZENDÁRIA E TRANSPARÊNCIA FISCAL
+
+P - Gestão Estratégica Fortalecida
+
+P - Modelo de Riscos da Gestão Fiscal Fortalecido
+
+P - Gestão de Pessoas Aprimorada
+
+Fax:
+UF:
+
+Fax:
+UF:
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+CF
+
+14.811.930,00
+
+300.000,00
+
+1.084.616,00
+
+774.846,00
+
+1.010.000,00
+
+0,00
+
+0,00
+
+0,00
+
+BID
+737.135,00
+
+75.923,00
+
+54.239,00
+
+71.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+P - Gestão de Tecnologia da Informação Fortalecida
+
+10.967.083,00
+
+300.000,00
+
+467.696,00
+
+P - Modelo de Transparência e Comunicação com a Sociedade Fortalecido
+
+C - ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL
+
+P - Políticas e Gasto Tributário Aperfeiçoados
+
+P - Cadastro e Obrigações Acessórias Aperfeiçoados
+
+975.385,00
+
+13.042.147,00
+
+962.693,00
+
+307.108,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+68.277,00
+
+955.051,00
+
+67.388,00
+
+21.498,00
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 23
+
+P - Fiscalização e Inteligência Fiscal Aperfeiçoados
+
+P - Contencioso Fiscal Aperfeiçoado
+
+P - Atendimento ao Contribuinte Fortalecido
+
+P - Cobrança e Arrecadação Modernizados
+
+P - Harmonização com a Reforma Tributária
+
+C - ADMINISTRAÇÃO FINANCEIRA E GASTO PÚBLICO
+
+P - Sistemática de Administração Financeira Modernizada
+
+P - Gestão de Políticas Orçamentárias Sensíveis à Igualdade Social
+
+P -  Políticas de Incentivo à Sustentabilidade Ambiental e Participação Privada no contexto da
+Gestão Fiscal Implantada
+P - Compras Sustentáveis Implantada
+
+C - GESTÃO JURÍDICA PARA SUSTENTABILIDADE FISCAL
+
+P - Gestão dos Precatórios e RPVs Aperfeiçoada
+
+P - Modelo de Gestão e Cobrança da Dívida Ativa Aprimorado
+
+C - GESTÃO DO PROGRAMA
+
+P - Monitoramento e Avaliação
+
+P - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+C - GESTÃO FAZENDÁRIA E TRANSPARÊNCIA FISCAL
+
+P - Gestão Estratégica Fortalecida
+
+P - Modelo de Riscos da Gestão Fiscal Fortalecido
+
+P - Gestão de Pessoas Aprimorada
+
+P - Gestão de Tecnologia da Informação Fortalecida
+
+P - Modelo de Transparência e Comunicação com a Sociedade Fortalecido
+
+C - ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL
+
+P - Políticas e Gasto Tributário Aperfeiçoados
+
+P - Cadastro e Obrigações Acessórias Aperfeiçoados
+
+P - Fiscalização e Inteligência Fiscal Aperfeiçoados
+
+P - Contencioso Fiscal Aperfeiçoado
+
+P - Atendimento ao Contribuinte Fortalecido
+
+P - Cobrança e Arrecadação Modernizados
+
+P - Harmonização com a Reforma Tributária
+
+C - ADMINISTRAÇÃO FINANCEIRA E GASTO PÚBLICO
+
+P - Sistemática de Administração Financeira Modernizada
+
+P - Gestão de Políticas Orçamentárias Sensíveis à Igualdade Social
+
+P -  Políticas de Incentivo à Sustentabilidade Ambiental e Participação Privada no contexto da
+Gestão Fiscal Implantada
+P - Compras Sustentáveis Implantada
+
+C - GESTÃO JURÍDICA PARA SUSTENTABILIDADE FISCAL
+
+P - Gestão dos Precatórios e RPVs Aperfeiçoada
+
+P - Modelo de Gestão e Cobrança da Dívida Ativa Aprimorado
+
+C - GESTÃO DO PROGRAMA
+
+P - Monitoramento e Avaliação
+
+P - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+C - GESTÃO FAZENDÁRIA E TRANSPARÊNCIA FISCAL
+
+P - Gestão Estratégica Fortalecida
+
+P - Modelo de Riscos da Gestão Fiscal Fortalecido
+
+P - Gestão de Pessoas Aprimorada
+
+P - Gestão de Tecnologia da Informação Fortalecida
+
+P - Modelo de Transparência e Comunicação com a Sociedade Fortalecido
+
+C - ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL
+
+P - Políticas e Gasto Tributário Aperfeiçoados
+
+P - Cadastro e Obrigações Acessórias Aperfeiçoados
+
+P - Fiscalização e Inteligência Fiscal Aperfeiçoados
+
+P - Contencioso Fiscal Aperfeiçoado
+
+P - Atendimento ao Contribuinte Fortalecido
+
+P - Cobrança e Arrecadação Modernizados
+
+P - Harmonização com a Reforma Tributária
+
+C - ADMINISTRAÇÃO FINANCEIRA E GASTO PÚBLICO
+
+P - Sistemática de Administração Financeira Modernizada
+
+4.028.654,00
+
+1.211.923,00
+
+1.461.000,00
+
+1.070.769,00
+
+4.000.000,00
+
+9.418.077,00
+
+6.025.769,00
+
+205.000,00
+
+1.682.693,00
+
+1.504.615,00
+
+1.544.423,00
+
+655.000,00
+
+889.423,00
+
+1.223.423,00
+
+928.846,00
+
+294.577,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+282.006,00
+
+84.835,00
+
+102.270,00
+
+74.954,00
+
+322.100,00
+
+614.477,00
+
+379.815,00
+
+14.350,00
+
+117.789,00
+
+102.523,00
+
+108.110,00
+
+45.850,00
+
+62.260,00
+
+85.639,00
+
+65.019,00
+
+20.620,00
+
+0,00
+
+300.000,00
+
+2.500.412,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+VALOR
+
+CUSTO
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+Ano 2
+
+FONTES
+
+CF
+
+BID
+
+500.000,00
+
+2.462.386,00
+
+0,00
+
+0,00
+
+0,00
+
+216.923,00
+
+154.969,00
+
+202.000,00
+
+500.000,00
+
+1.693.417,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+195.077,00
+
+2.628.768,00
+
+192.538,00
+
+61.422,00
+
+805.731,00
+
+242.385,00
+
+292.200,00
+
+214.154,00
+
+820.338,00
+
+40.000,00
+
+1.857.177,00
+
+0,00
+
+0,00
+
+0,00
+
+1.186.715,00
+
+41.000,00
+
+336.539,00
+
+40.000,00
+
+292.923,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+308.885,00
+
+131.000,00
+
+177.885,00
+
+244.684,00
+
+185.769,00
+
+58.915,00
+
+0,00
+
+540.000,00
+
+7.501.900,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+Ano 3
+
+FONTES
+
+CF
+
+BID
+
+500.000,00
+
+3.647.040,00
+
+0,00
+
+0,00
+
+0,00
+
+303.692,00
+
+216.957,00
+
+282.500,00
+
+500.000,00
+
+2.570.783,00
+
+0,00
+
+273.108,00
+
+300.000,00
+
+3.232.554,00
+
+0,00
+
+0,00
+
+269.554,00
+
+85.990,00
+
+300.000,00
+
+828.023,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+339.338,00
+
+409.080,00
+
+299.815,00
+
+1.000.754,00
+
+200.000,00
+
+2.457.308,00
+
+0,00
+
+1.718.662,00
+
+
+Página: 24
+
+P - Gestão de Políticas Orçamentárias Sensíveis à Igualdade Social
+
+P -  Políticas de Incentivo à Sustentabilidade Ambiental e Participação Privada no contexto da
+Gestão Fiscal Implantada
+P - Compras Sustentáveis Implantada
+
+C - GESTÃO JURÍDICA PARA SUSTENTABILIDADE FISCAL
+
+P - Gestão dos Precatórios e RPVs Aperfeiçoada
+
+P - Modelo de Gestão e Cobrança da Dívida Ativa Aprimorado
+
+C - GESTÃO DO PROGRAMA
+
+P - Monitoramento e Avaliação
+
+P - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+C - GESTÃO FAZENDÁRIA E TRANSPARÊNCIA FISCAL
+
+P - Gestão Estratégica Fortalecida
+
+P - Modelo de Riscos da Gestão Fiscal Fortalecido
+
+P - Gestão de Pessoas Aprimorada
+
+P - Gestão de Tecnologia da Informação Fortalecida
+
+P - Modelo de Transparência e Comunicação com a Sociedade Fortalecido
+
+C - ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL
+
+P - Políticas e Gasto Tributário Aperfeiçoados
+
+P - Cadastro e Obrigações Acessórias Aperfeiçoados
+
+P - Fiscalização e Inteligência Fiscal Aperfeiçoados
+
+P - Contencioso Fiscal Aperfeiçoado
+
+P - Atendimento ao Contribuinte Fortalecido
+
+P - Cobrança e Arrecadação Modernizados
+
+P - Harmonização com a Reforma Tributária
+
+C - ADMINISTRAÇÃO FINANCEIRA E GASTO PÚBLICO
+
+P - Sistemática de Administração Financeira Modernizada
+
+P - Gestão de Políticas Orçamentárias Sensíveis à Igualdade Social
+
+P -  Políticas de Incentivo à Sustentabilidade Ambiental e Participação Privada no contexto da
+Gestão Fiscal Implantada
+P - Compras Sustentáveis Implantada
+
+C - GESTÃO JURÍDICA PARA SUSTENTABILIDADE FISCAL
+
+P - Gestão dos Precatórios e RPVs Aperfeiçoada
+
+P - Modelo de Gestão e Cobrança da Dívida Ativa Aprimorado
+
+C - GESTÃO DO PROGRAMA
+
+P - Monitoramento e Avaliação
+
+P - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+C - GESTÃO FAZENDÁRIA E TRANSPARÊNCIA FISCAL
+
+P - Gestão Estratégica Fortalecida
+
+P - Modelo de Riscos da Gestão Fiscal Fortalecido
+
+P - Gestão de Pessoas Aprimorada
+
+P - Gestão de Tecnologia da Informação Fortalecida
+
+P - Modelo de Transparência e Comunicação com a Sociedade Fortalecido
+
+C - ADMINISTRAÇÃO TRIBUTÁRIA E CONTENCIOSO FISCAL
+
+P - Políticas e Gasto Tributário Aperfeiçoados
+
+P - Cadastro e Obrigações Acessórias Aperfeiçoados
+
+P - Fiscalização e Inteligência Fiscal Aperfeiçoados
+
+P - Contencioso Fiscal Aperfeiçoado
+
+P - Atendimento ao Contribuinte Fortalecido
+
+P - Cobrança e Arrecadação Modernizados
+
+P - Harmonização com a Reforma Tributária
+
+C - ADMINISTRAÇÃO FINANCEIRA E GASTO PÚBLICO
+
+P - Sistemática de Administração Financeira Modernizada
+
+P - Gestão de Políticas Orçamentárias Sensíveis à Igualdade Social
+
+P -  Políticas de Incentivo à Sustentabilidade Ambiental e Participação Privada no contexto da
+Gestão Fiscal Implantada
+P - Compras Sustentáveis Implantada
+
+C - GESTÃO JURÍDICA PARA SUSTENTABILIDADE FISCAL
+
+P - Gestão dos Precatórios e RPVs Aperfeiçoada
+
+P - Modelo de Gestão e Cobrança da Dívida Ativa Aprimorado
+
+0,00
+
+57.400,00
+
+200.000,00
+
+271.154,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+410.092,00
+
+432.438,00
+
+183.400,00
+
+249.038,00
+
+342.559,00
+
+260.077,00
+
+82.482,00
+
+0,00
+
+1.000.000,00
+
+10.111.899,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+BID
+
+600.000,00
+
+3.843.580,00
+
+0,00
+
+0,00
+
+0,00
+
+325.385,00
+
+232.454,00
+
+303.000,00
+
+600.000,00
+
+2.690.125,00
+
+0,00
+
+292.616,00
+
+300.000,00
+
+3.593.452,00
+
+0,00
+
+0,00
+
+288.808,00
+
+92.132,00
+
+300.000,00
+
+908.596,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+363.577,00
+
+438.300,00
+
+321.231,00
+
+1.180.808,00
+
+200.000,00
+
+2.632.615,00
+
+0,00
+
+0,00
+
+1.826.923,00
+
+61.500,00
+
+200.000,00
+
+304.807,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+439.385,00
+
+463.327,00
+
+196.500,00
+
+266.827,00
+
+367.027,00
+
+278.654,00
+
+88.373,00
+
+0,00
+
+1.100.000,00
+
+10.900.001,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+BID
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+700.000,00
+
+1.521.789,00
+
+2.600.000,00
+
+12.211.930,00
+
+0,00
+
+0,00
+
+0,00
+
+162.693,00
+
+116.227,00
+
+151.500,00
+
+0,00
+
+0,00
+
+0,00
+
+1.084.616,00
+
+774.846,00
+
+1.010.000,00
+
+700.000,00
+
+945.062,00
+
+2.600.000,00
+
+8.367.083,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+146.307,00
+
+0,00
+
+975.385,00
+
+2.032.322,00
+
+600.000,00
+
+12.442.147,00
+
+144.405,00
+
+46.066,00
+
+0,00
+
+0,00
+
+962.693,00
+
+307.108,00
+
+604.298,00
+
+600.000,00
+
+3.428.654,00
+
+181.788,00
+
+219.150,00
+
+160.615,00
+
+676.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.211.923,00
+
+1.461.000,00
+
+1.070.769,00
+
+4.000.000,00
+
+1.416.500,00
+
+440.000,00
+
+8.978.077,00
+
+913.654,00
+
+30.750,00
+
+0,00
+
+0,00
+
+6.025.769,00
+
+205.000,00
+
+252.404,00
+
+400.000,00
+
+1.282.693,00
+
+219.692,00
+
+231.663,00
+
+98.250,00
+
+133.413,00
+
+40.000,00
+
+1.464.615,00
+
+0,00
+
+0,00
+
+0,00
+
+1.544.423,00
+
+655.000,00
+
+889.423,00
+
+
+Página: 25
+
+0,00
+
+0,00
+
+0,00
+
+1.223.423,00
+
+928.846,00
+
+294.577,00
+
+0,00
+
+0,00
+
+0,00
+
+183.514,00
+
+139.327,00
+
+44.187,00
+
+40.040.000,00
+
+700.000,00
+
+5.385.788,00
+
+3.640.000,00
+
+36.400.000,00
+
+C - GESTÃO DO PROGRAMA
+
+P - Monitoramento e Avaliação
+
+P - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+(i) Atos Legais
+
+A operação de crédito pleiteada exige a aprovação de lei autorizativa pela Assembleia Estadual que permita ao estado a contratação de
+financiamento externo. O Projeto de Lei observará o disposto no Manual de Instrução de Pleitos (MIP/STNS) e será levado à apreciação e
+aprovação da Assembleia Estadual, uma vez aprovada a carta consulta pela COFIEX.
+
+Quanto aos Decretos, Portarias e Instruções de Serviço, o Executivo Distrital tem plena governabilidade sobre o processo necessário à
+sua edição, contando, ainda, com equipes suficientemente capacitadas para proceder à sua concepção e redação.
+
+No que se refere à Lei autorizativa, a equipe de governo, responsável pelo relacionamento com a Assembleia Legislativa, tem mostrado o
+real estado das finanças estaduais e sensibilizado os membros daquele Poder sobre a importância do financiamento para a melhoria da
+arrecadação e aplicação dos recursos públicos.
+
+Quanto à Lei de Responsabilidade Fiscal (LRF), a administração deve apresentar evidências de conformidade no cumprimento da Lei e
+regularidade dos requisitos fiscais obrigatórios para fins de celebração de instrumentos contratuais.
+
+Quanto à garantia da União, o estado deverá apresentar as condições de contragarantia ao Governo Federal, conforme legislação vigente.
+
+Com relação à criação da UCP, o estado irá criar por Decreto a Unidade de Coordenação do Programa.
+
+(ii) Riscos
+
+Os principais riscos mapeados referem-se a obstáculos legais ou institucionais, especialmente com relação à Lei estadual autorizativa,
+foram mapeados pela alta administração do Poder Executivo
+
+(iii) Ações mitigadoras
+
+Para mitigar o risco de não aprovação ou demora na aprovação da lei autorizativa na Assembleia Estadual o Poder Executivo trabalhará
+em quatro frentes: negociações - dialogando com líderes partidários e deputados para alinhamento; emendas- incorporando sugestões
+dos deputados no projeto; mobilização - articulando apoio popular e de grupos de interesse; e comunicação - esclarecendo os benefícios
+da Profisco III para a sociedade. Essas ações visam construir consenso e garantir apoio necessário para a aprovação da lei.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+(i) As principais contratações previstas para a execução do programa/projeto (consultorias, obras, bens e serviços, outros);
+
+- Datacenter para suporte aos sistemas da gestão fiscal;
+
+- Desenvolvimento de SIAFIC -  Sistema Único e Integrado de Execução Orçamentária, Administração Financeira e Controle.
+
+- Harmonização com a reforma tributária
+
+- Implantação de centro de Comando Operacional do trânsito (instação de câmeras, ampliação de malhas fiscais e cruzamento de dados;
+
+- Implantação de cultura de Data Analytcis (laboratório de mineração de dados, estruturação de gestão da informação, capacitações)
+
+- Sistema Integrado de Compras Públicas no Poder Executivo;
+
+(ii) se há previsão de contratação de pessoal (via concurso ou por outra via) para implementação e sustentabilidade do programa/projeto;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 26
+
+A SEFAZ acabou de realizar o concurso para preenchimento de quadros vazios da instituição, totalizando 154 vagas ao total. Este será
+um grande incremento que contribuirá a sustentabilidade do projeto.
+
+(iii) a experiência do órgão executor com as políticas de aquisição/contratação do agente financeiro;
+
+O Estado do Acre já executa operações de crédito há mais de 20 anos, com diversos órgãos multilaterais. Com isto, foi possível obter
+grande aprendizado das regras de contratação deste organismo. Atualmente, o Estado encontra-se com 2 operações em execução, tendo
+uma Comissão Especial de Licitação que dá suporte as aquisições provenientes as operações de crédito.
+
+Além disto, a SEFAZ possui na sua equipe servidores que tem vasta atuação em compras de organismos internacionais e, já realizou e
+está realizando compras em projetos financiados por organismos multilaterais no momento.
+
+Por último, visando mitigar qualquer risco existente a formação da UCP com equipe com satisfatória capacidade e para suporte às ações e
+, pontualmente, com Consultores que incrementaram as capacidades pre-existentes.
+
+(iv) os riscos
+
+São identificados dois riscos relevantes quanto ao prazo de execução, tomando como base a experiência dos estados ao executarem os
+Programas Profisco I e II, quais sejam:
+
+a) Possíveis atrasos na elaboração dos termos de referência, relacionados com a dificuldade na preparação dos TDR ? termos de
+referência;
+
+b) Possíveis atrasos na tramitação interna dos projetos, em especial na realização das licitações;
+
+c) Os custos de aquisição / contratações podem exceder o orçamento devido a estimativas imprecisas, alterações no escopo do projeto ou
+aumento dos preços dos equipamentos.
+
+(v) Ações mitigadoras:
+
+a)Com relação a atrasos em termos de referência são sugeridas as seguintes ações:
+
+- Constituição de comissões internas para elaboração dos Termos de Referência dos produtos mais complexos ou prioritários;
+
+- Estabelecer formalmente, por portaria interna, o Líder responsável pela execução do Produto, bem como designar a sua equipe técnica;
+
+- Contratação de consultores para apoiar a elaboração dos Termos de Referência mais complexos e para auxiliar a formulação de
+metodologias e desenho de processos que serão aperfeiçoados ou implantados;
+
+- Realizar atividades de capacitação e reciclagem nas normas e procedimentos de aquisições do BID;
+
+b)Com relação a possíveis atrasos na tramitação interna dos projetos, em especial na realização das licitações, serão sugeridas as
+seguintes ações:
+
+- Mapear o fluxo das aquisições;
+
+- Compor a Comissão Especial de Licitações com técnicos que já dispõem de conhecimento e experiência nas normas e procedimentos
+de aquisição do BID;
+
+- Estreitar o relacionamento com a equipe da unidade responsável pela fase externa das licitações no âmbito da central de licitações da
+Procuradoria Geral do Estado do Acre.
+
+- Realizar atividades de capacitação e reciclagem nas normas e procedimentos de aquisições do BID;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 27
+
+c)Com relação aos custos de aquisição / contratações que podem exceder o orçamento devido a estimativas imprecisas, alterações no
+escopo do projeto ou aumento dos preços dos equipamentos, serão sugeridas as seguintes ações:
+
+- Utilizar metodologias de gestão de projetos para monitorar e controlar os custos ao longo do projeto.
+
+- Incorporar boas práticas para elaboração de orçamento em aquisições e seleções de consultores;
+
+- Realizar atividades de capacitação e reciclagem nas normas e procedimentos de aquisições do BID e de gestão de projetos;
+
+- Estreitar o relacionamento com a equipe da unidade responsável pela fase externa das licitações no âmbito da central de licitações da
+Procuradoria Geral do Estado do Acre.
+
+- Aplicação ferramental da "PACI - Plataforma de Avaliação da Capacidade Institucional" tanto na UCP da Secretaria da Fazenda e nos
+demais órgãos beneficiários do Projeto, tendo por objetivo avaliar a capacidade das instituições beneficiárias e seus papeis e
+relacionamentos na execução do Projeto, amadurecendo o arranjo institucional mais apropriado à gestão mais eficiente do Projeto.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+O Projeto não executará obras que se utilizem de novos prédios alvo de ações de desapropriação. As atividades de requalificação de
+infraestrutura como implantação de Data Center para ambiente de site de contingência, de UFV - Unidade Fotovoltaica e ETE - Estação de
+Tratamento de Esgoto compacta, contidas no projeto, serão realizadas apenas em imóveis de propriedade do Estado, já edificados,
+ocupados e em operação.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+(i) Riscos
+
+O projeto Profisco III AC não desencadeará maiores riscos ambientais decorrentes de sua implementação, entretanto deve-se tratar com
+maior atenção os subprodutos 1.4.4 que prevê a requalificação de estrutura física de data center para um ambiente de site de contingência
+, 3.3.2 - Instalação de usina fotovoltaica nas coberturas e estacionamentos dos prédios da gestão fiscal e 3.3.3 Implantação de uma ETE-
+estação de tratamento de esgoto compacta no prédio sede da SEFAZ AC.
+
+A equipe tem ciência da necessidade dos licenciamentos e estes serão solicitados quando da elaboração dos respectivos estudos
+técnicos preliminares e a preparação dos projetos executivos, cujos inícios estão previstos após a aprovação do pleito da operação de
+crédito.
+
+Os principais riscos ambientais identificados compreendem:
+
+-Para o data center o principal risco seria o consumo adicional de energia e a consequente emissão de gases de efeito estufa, este último
+em função de uma matriz energética regional que pode utilizar um percentual relevante de fontes fósseis. Como risco complementar pode-
+se citar o risco de desastres naturais derivados de inundações do Rio Acre que corta a cidade de Rio Branco;
+
+-Para a implantação da usina fotovoltaica UFV - a literatura técnica indica que os principais riscos estariam relacionados a: vegetações,
+que ficariam comprometidas com a possível terraplanagem a ser realizada; o sombreamento gerado pelos módulos solares; animais que
+estariam no local poderiam estar em risco, já que acidentes podem acontecer ao abrir espaço para a construção da usina; e pelos reflexos
+de luz nos painéis que poderiam eventualmente ofuscar pilotos de avião, caso a rota de aproximação de pouso ou de decolagem de
+aeronaves cobrisse a área da UFV;
+
+-Para a ETE - estação de tratamento de esgoto - os impactos ambientais desinentes da operação inadequada destes sistemas refletem
+diretamente em problemas de poluição e contaminação das águas superficiais e subterrâneas - riscos químicos, físicos e biológicos.
+Podendo poluir, degradar e assim prejudicar a qualidade dos corpos d?água ou solos onde são dispostos;
+
+-Descarte de materiais e equipamentos de TI quando entrarem em desuso.
+
+(v) as ações mitigadoras
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 28
+
+-Para o data center - O esperado consumo adicional de energia elétrica deverá ser mitigado pela implantação de uma UFV, cuja geração
+anual estimada será da ordem de 580 mil kWh. Adicionalmente, deve-se considerar que o local de implantação do site de contingência
+será numa cota de altura superior ao do site principal, com relação à cota do Rio Acre, que atravessa a cidade de Rio Branco.  Isso servirá
+como ação mitigadora contra desastres naturais de possíveis inundações;
+
+-Para a UFV - deve-se considerar que os equipamentos - conjunto de placas fotovoltaicas, inversores de frequência e transformadores -
+estarão dentro da infraestrutura de prédios da gestão fiscal -  cobertura e estacionamentos. Isso significa que tanto a vegetação como
+animais não seriam afetados. Sobre os possíveis reflexos ofuscantes para pilotos de aeronaves, já foi verificado pela equipe que os
+prédios, onde serão instalados os painéis, não estão na rota de pouso ou decolagem das aeronaves comerciais em aproximação do
+aeroporto.
+
+-Para a ETE - Providenciar e aplicar os planos de contingências e emergências para situações de vazamento de produtos tóxicos,
+treinamento aos funcionários da manutenção para cuidados com o manuseio de produtos durante a jornada de trabalho, isolamento dos
+locais onde ficam os produtos químicos, instalação de chuveiros e lava-olhos em locais com possibilidade de exposição a produtos
+químicos, utilização de EPI (óculos de proteção, uniformes especiais, máscaras respiratórias com filtro, cremes de proteção contra
+agentes agressivos) em qualquer situação de trabalho. Importante destacar que há a previsão de que tanto a operação como a
+manutenção da ETE ficarão sob a gestão do Serviço de Água e Esgoto do Estado do Acre (SANEACRE).
+
+-Com relação ao descarte de equipamentos de TI - deverá ser adotado um plano de descarte cooperado entre a SEFAZ e demais órgãos
+das administrações direta e indireta do Governo, sob a coordenação da Secretaria de Administração, que envolva a participação de ONGs
+que trabalham com o descarte ambientalmente responsável de eletrônicos. Essa ação deverá estar contida num plano de sensibilização
+de toda a Administração Pública que visará a implantação de cultura de gestão ambiental mais sustentável
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+(i) Em relação aos riscos sociais, quando usuários ou clientes dos novos serviços podem reagir à mudança trazida pelos novos produtos,
+deve-se registrar que a implantação do Profisco III AC trará alterações de processos, tecnologias ou formas de comunicação com os
+usuários finais, contribuintes e cidadãos em geral.
+
+(ii) Experiência do órgão executor com as políticas/salvaguardas sociais do agente financeiro;
+
+O Estado já executou projetos com organismos multilaterais, inclusive com o BID. No qual obteve conhecimento das regras de
+salvaguardas dos agentes financeiros, inclusive o Estado do Acre elaborou regras de salvaguardas similares.
+
+Durante a execução do projeto serão observadas estas regras, dado a sua importância e, visando garantir impactos positivos com o
+Projeto.
+
+(iii) os Riscos
+
+A implementação da reforma tributária pode gerar impactos sociais devido ao desconhecimento dos empresários, contadores e população
+sobre as novas regras e operações. A falta de compreensão das mudanças pode resultar em dificuldades na adaptação às novas
+obrigações fiscais, gerando insegurança jurídica e aumentando os custos operacionais das empresas. Pequenos empresários, em
+especial, podem enfrentar desafios adicionais, pois frequentemente possuem menos recursos para investir em treinamento e consultoria
+especializada. Além disso, a desinformação pode levar ao aumento da informalidade, à sonegação fiscal e à perda de arrecadação,
+afetando negativamente os serviços públicos. A população, sem entender as novas alíquotas e regras de cobrança, pode reagir com
+descontentamento, afetando a percepção de justiça social e confiança nas instituições governamentais.
+
+Possíveis interferências em populações decorrentes da implementação do Programa. Especificar se há interferência em populações
+indígenas, considerando que quilombolas não existem na região
+
+Sobre os impactos da RT sobre as populações indígenas, ribeirinhos e os pequenos produtores que vivem no entorno da floresta (
+comunidades extrativistas) pode-se mencionar que mudanças na tributação podem resultar em aumento de custos para produtos
+essenciais, afetando a subsistência dessas comunidades. A falta de consulta e participação dessas populações no processo de reforma
+poderá agravar desigualdades e marginalização.
+
+(iii) Ações mitigadoras gerais
+
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 29
+
+É fundamental oferecer treinamentos e workshops gratuitos para empresários e contadores, facilitando a compreensão das novas regras e
+procedimentos. Parcerias com associações comerciais, sindicatos e instituições de ensino podem ampliar o alcance dessas iniciativas.
+
+A criação de uma central de atendimento e suporte, com canais de comunicação direta, como chatbots, e-mails e telefones, pode fornecer
+esclarecimentos em tempo real e auxiliar na resolução de dúvidas específicas. A disponibilização de materiais explicativos, como guias
+práticos, vídeos tutoriais e FAQs, em linguagem simples e acessível, ajudará a disseminar o conhecimento de maneira mais eficaz. Além
+disso, a implementação de um período de transição gradual, com prazos flexíveis e ajustes progressivos, permitirá que todos os
+envolvidos se adaptem ao novo sistema tributário sem grandes sobressaltos.
+
+Para mitigar os riscos de impacto social decorrentes do desconhecimento da população de forma geral sobre a reforma tributária, deve-se
+considerar a promoção de campanhas de educação e conscientização amplas e acessíveis, utilizando diversos meios de comunicação,
+incluindo mídias digitais, rádio e televisão, para atingir todos os segmentos da população.
+
+Para as populações indígenas, ribeirinhos e os pequenos produtores que vivem no entorno da floresta deve-se fortalecer os programas de
+educação fiscal e capacitação, adaptados às suas realidades culturais e linguísticas. Considerar que o mecanismo previsto de cashback
+para produtos da cesta básica, produtos essenciais e de subsistência dessas comunidades deverá minimizar parcialmente os impactos
+financeiros.
+
+Assegurar a manutenção e ampliação de recursos destinados a programas sociais e de desenvolvimento sustentável. Fortalecer a
+participação dessas populações em fóruns de decisão e monitorar continuamente os impactos, ajustando políticas conforme necessário.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Pela natureza do projeto não foram identificados riscos relacionados a reassentamentos, uma vez que os produtos e componentes
+propostos não implicam em construções urbanas ou rurais, ou ainda que venham a gerar alguma externalidade negativa à população do
+estado.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)
+(cid:10)
+
+(cid:10)
+(cid:10)

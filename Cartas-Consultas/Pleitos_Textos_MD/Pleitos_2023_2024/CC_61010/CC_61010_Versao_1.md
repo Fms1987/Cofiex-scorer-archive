@@ -1,0 +1,854 @@
+# Carta-Consulta CC_61010 — Versao 1 (SIGS)
+
+
+PRODIGITAL PROGRAMA FEDERATIVO PARA GOVERNO E INFRAESTRUTURA DIGITAL
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 61010
+Mutuário: Banco Nacional de Desenvolvimento Econômico e Social - BNDES
+Tipo de Operação: Operação de crédito externo
+
+Fontes Internas:
+Contrapartida Financeira: US$ 30.000.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 150.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+Os desafios e oportunidades gerados pelos processos de desenvolvimento urbano e regional são distribuídos espacialmente de forma
+desigual no Brasil. Há 49 municípios com população superior a 500 mil habitantes, que concentram 36% da população. As cidades médias
+, formando um grupo de cerca de 300 municípios com populações entre 100 mil e 500 mil habitantes, constituem-se como referências e
+fontes de oportunidades, bens e serviços para cidades menos estruturadas ao redor. Na esfera regional, os estados do Norte e do
+Nordeste responderam por apenas 20% do PIB brasileiro nos últimos dez anos, enquanto o Sudeste, sozinho, concentrou
+consistentemente mais da metade do produto. Tanto no recorte por estados quanto por municípios, há grande diversidade no Brasil
+quanto ao nível de urbanização, renda, IDH, acesso a infraestruturas e a serviços públicos básicos, como saneamento, saúde e
+conectividade.
+
+Um novo salto no desenvolvimento local e regional e para a redução dessas desigualdades não pode prescindir do uso da tecnologia, que
+deve se aliar ao planejamento e à gestão das cidades e estados. No entanto, o potencial para a transformação digital é limitado tanto pelo
+contexto de desigualdades quanto por fatores como custos, infraestrutura de acesso e falta de capacitação da população, incluindo
+servidores e gestores públicos. A conectividade digital é a porta de entrada para esta transformação, mas um em cada cinco brasileiros
+acima de dez anos ainda não usa a Internet, segundo a pesquisa TIC Domicílios.
+
+Pesquisa do BID (2021) identificou que 86% da população brasileira declarava que estava adaptada ao mundo digital, mas destacou que
+maiores de 60 anos, de menor escolarização formal e de menor renda com adaptação ainda próxima aos 61%. A mesma pesquisa indicou
+que mais de 60% preferiam serviços prestados por meio de canais digitais, e que a satisfação com estes serviços era de 55%. Ainda que
+tenha sido notório o avanço do acesso à internet, permanecem evidentes os desafios de aprimorar a qualidade da conexão e prestar
+melhores serviços digitais públicos e privados, com atenção especial aos grupos menos adaptados à nova realidade digital, sobretudo os
+menos escolarizados, os de menor renda e idosos.
+
+O Governo Federal do Brasil consta entre os vinte melhores do mundo na implementação de ações para Governo Digital, com 90% dos
+serviços digitalizados até junho de 2023. Nos estados, por outro lado, em 2019 somente 4% dos serviços eram digitais e apenas 31% dos
+estados tinham disponível em formato digital os serviços mais demandados. Em 2023, estados como Rio Grande do Sul, Goiás ou Minas
+Gerais ofereciam a grande maioria dos seus serviços em formato digital. Porém, outros estados ainda apresentavam níveis baixos de
+digitalização, o que mostra um desenvolvimento digital muito variado .
+
+Em uma avaliação recente do Governo Federal junto com BNDES e BID para uma amostra de 30 municípios, 66% apresentavam níveis
+inicial ou intermediário, e só 34% estavam nos níveis aprimorado ou avançado . Por exemplo, apenas 21% das Prefeituras brasileiras
+possuem algum tipo de Centro de Controle e Operações (CCO) para monitoramento de trânsito, segurança ou emergência. O percentual
+de capitais que possuem um CCO é de 74%, mas esse percentual cai para 20% nas Prefeituras do interior . Além disso, a maioria dos
+centros de operação existentes não são integrados, focando em um serviço específico, como iluminação ou trânsito. Assim, não são
+aproveitadas oportunidades que o monitoramento da cidade e telegestão das equipes de campo podem oferecer em questões como
+segurança pública, trânsito, gestão de desastres e outros serviços públicos.
+
+Ainda que quase todos os estados e municípios disponham de internet por fibra ótica, o contexto é de dificuldades de gestão no setor
+público. Problemas estruturais e processuais, como baixa interação entre setores e sistemas obsoletos e não integrados limitam a
+resposta dos governos, gerando recorrência dos problemas urbanos. Além disso, existe carência crônica nos governos estaduais e nas
+prefeituras de pessoal qualificado e dedicado à estruturação e gestão de projetos para iniciativas de transformação digital e Tecnologia da
+Informação, em geral. Diante desse quadro, justifica-se a adoção de um programa de investimentos que vise acelerar a transformação
+digital nos estados e municípios, particularmente para a ampliação da infraestrutura digital e conectividade, para o aprimoramento dos
+processos e sistemas de gestão e prestação de serviços públicos, inclusive com desburocratização e melhoria do ambiente de negócios,
+assim como para a construção de capacidades digitais no governo. Estas iniciativas serão alinhadas a benchmarks nacionais e
+internacionais, contribuirão para a melhoria dos mecanismos de planejamento, governança e gestão, com ganho de eficiência do gasto
+público, e terão como intuito aplicar a tecnologia para dar acesso às pessoas e às empresas, aos benefícios do desenvolvimento.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+Financiamento a projetos de investimento em transformação digital por municípios, estados e o Distrito Federal, nos seguintes eixos:
+
+.i. Infraestrutura Digital
+
+Serão apoiados projetos que busquem reduzir as lacunas de cobertura e qualidade da conectividade digital no Brasil, tais como
+construção de infraestrutura de telecomunicações e infovias, redes de acesso e transporte de dados, centrais de controle e centros de
+dados, conexão de escolas, hospitais e outros serviços públicos, além de iniciativas de inclusão digital e reformas do ambiente regulatório
+e legal.
+
+ii. Economia Digital
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+Neste eixo serão apoiadas ações que busquem usar o ecossistema de inovação em favor da relação entre usuário e setor público,
+inclusive programas de colaboração entre setor privado, governos e universidades, P&D+i de novas tecnologias digitais para
+modernização do setor público, iniciativas que fomentem o compartilhamento de soluções de software livre e código aberto entre os
+beneficiários e demais entes federados (a exemplo da iniciativa Code4Dev do BID code.iadb.org), além de espaços de aprendizagem,
+assim como projetos de aceleradoras, incubadoras, parques tecnológicos e hubs de inovação.
+
+iii. Governo Digital
+
+No eixo Governo Digital serão financiados projetos de modernização e simplificação de processos e serviços, ferramentas e plataformas
+tecnológicas, elaboração e implementação de políticas e planos de transformação digital, governança e proteção de dados e seguranca
+cibernética, serviços administrativos compartilhados e modernização do back office, além de ações para construção de capacidades
+digitais no governo, desburocratização e reforma regulatória para melhoria do ambiente de negócios. Também poderão ser apoiados
+projetos de transformação digital em planejamento, gestão, saúde, educação, mobilidade urbana, RH, administração tributária,  entre
+outros setores de atuação do poder público.
+
+iv. Fatores Habilitadores
+
+O quarto eixo se refere à base necessária de capacitação para impulsionar a transformação digital, seja na educação digital da população
+para inclusão socioeconômica, seja no desenvolvimento e implementação de estratégias integradas de transformação digital no setor
+público, inclusive com capacitação e treinamento, além da melhoria do marco regulatório em temas transversais, como cibersegurança,
+por exemplo.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+(ii) Orientações estratégicas:
+
+O tema da modernização do setor público é recorrente na estratégia do BNDES. Na nova estratégia para o período 2023-2026, consta no
+Tema Estratégico - Social e Inclusão Produtiva, e a diretriz - Apoiar projetos de modernização da administração pública municipal e
+estadual.
+
+(ii) Contrapartida:
+
+A contrapartida local, no valor de até US$ 30 milhões, será apresentada ao BID considerando operações financiadas com recursos
+ordinários do BNDES que atendam aos critérios de elegibilidade do Programa definidos conjuntamente entre BNDES e BID.
+
+(iii) Taxa de câmbio:
+
+Via de regra, o BID define no regulamento operacional do Programa que os valores equivalentes a dólares dos EUA serão convertidos
+pela taxa de compra disponibilizada pelo Banco Central do Brasil na data do desembolso do BNDES à Instituição Financeira Credenciada
+para financiamento da operação elegível.
+
+Considerando que a taxa de câmbio efetiva só será conhecida após a definição da carteira de operações elegíveis, a ser apresentada ao
+BID previamente ao desembolso dos recursos, propõe-se a utilização da estimativa apresentada pelo Boletim Focus de 09 de junho de
+2023, publicado pelo Banco Central, que prevê, um câmbio de 5,10 BRL / USD para o final de 2023 (https://www.bcb.gov.br/
+controleinflacao/relatoriofocus).
+
+2. Projeto
+
+### 2.1. Título
+
+
+PRODIGITAL PROGRAMA FEDERATIVO PARA GOVERNO E INFRAESTRUTURA DIGITAL
+
+
+### 2.2. Título Abreviado
+
+PRODIGITAL
+
+
+### 2.3. Mutuário
+
+
+Banco Nacional de Desenvolvimento Econômico e Social - BNDES
+
+
+### 2.4. Tipo Operacao
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+(i) Objetivo Geral:
+
+O programa tem como objetivo impulsionar investimentos em transformação digital no Brasil, por meio do financiamento a projetos que
+promovam a modernização e melhoria dos serviços públicos nos municípios, estados e Distrito Federal.
+
+(ii) Objetivos Específicos:
+
+a. Reduzir as lacunas de cobertura e qualidade da conectividade digital no Brasil;
+
+b. Fomentar ecossistema de inovação em Governo Digital;
+
+c. Implementar políticas e planos de transformação digital para melhoria dos processos e serviços do setor público.
+
+
+### 2.6. Projeto/Indicadores
+
+
+Descrição
+Ampliação da conectividade nos entes públicos
+apoiados pelo PRODIGITAL
+Ampliação dos serviços públicos prestados em
+meio digital nos entes públicos apoiados pelo
+PRODIGITAL
+Ampliação do acesso digital em educação nos
+entes públicos apoiados pelo PRODIGITAL
+Economia gerada pela digitalização nos entes
+públicos apoiados pelo PRODIGITAL
+
+
+### 2.7. Projeto/Componentes
+
+
+Fórmula de Cálculo Unidade de Medida
+Planejado / Realizado %
+
+Linha de Base
+0,00
+
+Planejado / Realizado %
+
+Planejado / Realizado %
+
+Planejado / Realizado %
+
+0,00
+
+0,00
+
+0,00
+
+Meta
+100,00
+
+100,00
+
+100,00
+
+100,00
+
+Componentes
+C - FINANCIAMENTO A PROJETOS DE INVESTIMENTO EM TRANSFORMAÇÃO DIGITAL POR MUNICÍPIOS,
+ESTADOS E O DISTRITO FEDERAL.
+P - FINANCIAMENTO A PROJETOS DE INVESTIMENTO EM TRANSFORMAÇÃO DIGITAL POR MUNICÍPIOS,
+ESTADOS E O DISTRITO FEDERAL.
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Valor(US$)
+180.000.000,00
+
+180.000.000,00
+
+180.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - FINANCIAMENTO A PROJETOS DE INVESTIMENTO EM TRANSFORMAÇÃO DIGITAL POR MUNICÍPIOS, ESTADOS E O
+DISTRITO FEDERAL.
+O componente tem quatro eixos, alinhados ao Programa Brasil Mais Digital:
+
+i. Infraestrutura Digital
+
+Serão apoiados projetos que busquem reduzir as lacunas de cobertura e qualidade da conectividade digital no Brasil, tais como
+construção de infraestrutura de telecomunicações e infovias, redes de acesso e transporte de dados, centrais de controle e centros
+de dados, conexão de escolas, hospitais e outros serviços públicos, além de iniciativas de inclusão digital e reformas do ambiente
+regulatório e legal.
+
+ii. Economia Digital
+
+Neste eixo serão apoiadas ações que busquem usar o ecossistema de inovação em favor da relação entre usuário e setor público,
+inclusive programas de colaboração entre setor privado, governos e universidades, P&D+i de novas tecnologias digitais para
+modernização do setor público, iniciativas que fomentem o compartilhamento de soluções de software livre e código aberto entre
+os beneficiários e demais entes federados (a exemplo da iniciativa Code4Dev do BID code.iadb.org), além de espaços de
+aprendizagem, assim como projetos de aceleradoras, incubadoras, parques tecnológicos e hubs de inovação.
+
+iii. Governo Digital
+
+No eixo Governo Digital serão financiados projetos de modernização e simplificação de processos e serviços, ferramentas e
+plataformas tecnológicas, elaboração e implementação de políticas e planos de transformação digital, governança e proteção de
+dados e seguranca cibernética, serviços administrativos compartilhados e modernização do back office, além de ações para
+construção de capacidades digitais no governo, desburocratização e reforma regulatória para melhoria do ambiente de negócios.
+Também poderão ser apoiados projetos de transformação digital em planejamento, gestão, saúde, educação, mobilidade urbana,
+RH, administração tributária,  entre outros setores de atuação do poder público.
+
+(cid:10)
+(cid:10)
+
+
+iv. Fatores Habilitadores
+
+
+Página: 5
+
+O quarto eixo se refere à base necessária de capacitação para impulsionar a transformação digital, seja na educação digital da
+população para inclusão socioeconômica, seja no desenvolvimento e implementação de estratégias integradas de transformação
+digital no setor público, inclusive com capacitação e treinamento, além da melhoria do marco regulatório em temas transversais,
+como cibersegurança, por exemplo.
+
+Esses eixos apoiam, direta ou indiretamente, as seguintes áreas estratégicas priorizadas pela COFIEX:  (1) melhoria do ambiente
+de negócios, através da adoção de novas tecnologias pelo setor privado e pelo aprimoramento dos serviços públicos digitais para
+empresas; (2) geração de emprego e renda, com o desenvolvimento de habilidades digitais na população; (3) proteção de
+vulneráveis, com sua inclusão no mundo digital; (4) inovação e melhoria na prestação de serviços; (5) desenvolvimento e
+modernização tecnológica, através dos eixos de infraestrutura digital e governo digital; e (6) impacto ambiental, pela redução
+massiva de deslocamentos, do uso de papel e de equipamentos tecnológicos energeticamente mais eficientes.
+
+Além disso, a dimensão federativa do Programa contribuirá a uma melhor integração e cooperação federativa para a política
+pública de transformação digital, com uma redução das disparidades institucionais entre estados e municípios.
+
+Estima-se que sejam apoiadas operações de financiamento a entes subnacionais no montante equivalente a 100% do valor total
+do programa, que é de US$ 180 milhões. Esse valor inclui a parcela do BID e as parcelas da contrapartida do BNDES e
+submutuários. Os projetos a serem apoiados poderão contemplar um ou mais eixos, que serão detalhados oportunamente por
+BNDES e BID, em conjunto.
+
+P - FINANCIAMENTO A PROJETOS DE INVESTIMENTO EM TRANSFORMAÇÃO DIGITAL POR MUNICÍPIOS, ESTADOS E
+O DISTRITO FEDERAL.
+Produto: financiamento a projetos de investimento em transformação digital por municípios, estados e o Distrito Federal, nos eixos
+Infraestrutura Digital, Economia Digital, Governo Digital e Fatores Habilitadores.
+
+Categoria de Gasto
+
+Outros
+P- FINANCIAMENTO A PROJETOS DE
+INVESTIMENTO EM TRANSFORMAÇÃO
+DIGITAL POR MUNICÍPIOS, ESTADOS E O
+DISTRITO FEDERAL.
+Total Geral
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Unidade de medida
+-
+Dólar
+
+Meta
+
+-
+180.000.000,
+
+Valor
+
+% Financeiro
+
+180.000.000,00
+180.000.000,00
+
+100,00
+100,00
+
+-
+
+-
+
+180.000.000,00
+
+100,00
+
+Em 2020, o então Ministério da Economia apresentou ao BNDES demanda para que fossem combinados esforços na atuação relacionada
+às políticas federais de transformação digital de entes subnacionais. Em paralelo, BNDES e BID já vinham estreitando sua cooperação
+em temas considerados estratégicos para as instituições. Dessas interações surgiu proposta de parceria para atuação conjunta em
+Governo Digital, visando articular iniciativas, fomentar e qualificar o desenvolvimento de projetos financiáveis de estados e municípios que
+gerassem melhoria de serviços ao cidadão e aumento na transparência e eficácia de ações governamentais.
+
+Em 10/01/2022, BNDES, BID e Secretaria de Governo Digital do Ministério da Economia assinaram Memorando de Entendimentos (MoU)
+de parceria no tema de Governo Digital. Dentro do escopo da cooperação aprovada foram contemplados os seguintes pontos:
+
+&#61607;Desenvolvimento de ferramenta de autodiagnóstico, em governo digital, para entes públicos;
+
+&#61607;Monitoramento e avaliação projetos e políticas na área;
+
+&#61607;Assessoria técnica para estruturação de carteira qualificada de projetos alinhados à Estratégia de Governo Digital;
+
+&#61607;Atuação para maximizar efeito demonstração, com compartilhamento de documentação e de casos de sucesso.
+
+Nesse sentido, ao longo de 2021 e 2022 as partes desenvolveram e aplicaram uma metodologia para autodiagnóstico e construção de
+plano de ação em Governo Digital para os entes federados, organizada em oito dimensões:
+
+1. Governança e Estratégia para Transformação Digital
+
+2. Capacidades Técnicas e Capital Humano
+
+3. Relação com o Cidadão
+
+4. Monitoramento e Segurança dos Dados
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 6
+
+5. Infraestrutura e Soluções Digitais
+
+6. Adoção de Tecnologias
+
+7. Modernização da Gestão
+
+8. Digitalização e Modernização em Secretarias Finalísticas.
+
+A metodologia desenvolvida foi aplicada em piloto com 15 municípios, que receberam, ao final da cooperação, o diagnóstico detalhado de
+sua situação e um plano de ação com propostas de investimentos e orçamento indicativo.
+
+Após a validação, a metodologia foi integrada a uma plataforma digital vinculada ao portal da RedeGov.br onde os municípios poderiam
+utilizá-la de forma semiautônoma para realizar seus diagnósticos e gerar planos de investimentos financiáveis, além de troca de
+experiências e de soluções de governo digital entre os municípios. Até maio de 2023, a plataforma tinha 180 munícipios cadastrados, dos
+quais 30 já tinham completado o autodiagnóstico.
+
+Em continuidade às atividades desenvolvidas, nos dias 21 e 22 de novembro de 2022 BNDES e BID realizaram um workshop com
+representantes de sete prefeituras para apresentação de iniciativas de sucesso e mapeamento das principais demandas para
+investimentos estratégicos em governo digital.
+
+Por fim, essas iniciativas já geraram frutos. Como resultado do piloto e do workshop, o BNDES já construiu um pipeline relevante de
+potenciais operações de crédito. Além disso, a equipe técnica mantém relacionamento e fomento ativos, prestando apoio à construção de
+projetos financiáveis dos demais participantes. Esta parceria entre BID e BNDES, no apoio à elaboração de projetos, agrega à presente
+proposta novo valor estratégico. A exemplo do PROSEG Federativo, as equipes técnicas de ambos os bancos trabalham em conjunto
+continuamente, compartilhando conhecimento e experiência em diagnósticos e soluções baseadas em evidências, atualizando e
+aprimorando a plataforma da Rede.gov e a própria metodologia do PROMPMEs, contribuindo para a implementação de projetos cada vez
+mais efetivos em estados e municípios.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Nacional/Sem detalhes
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+(i)Prazo de Desembolso: em até 48 (quarenta e oito) meses da data de assinatura do Contrato de Empréstimo Individual;
+
+(ii)Prazo de Carência: até 66 meses, a contar da data de assinatura do Contrato de Empréstimo Individual;
+
+(iii)Amortização: até 240 meses. O esquema de amortização é flexível, desde que preservada a Vida Média Ponderada (VMP), podendo o
+principal ser amortizado em: (i) parcelas iguais e semestrais; (ii) uma única parcela (bullet); (iii) parcelas crescentes ao longo do tempo; ou
+(iv) parcelas irregulares,com prazo de carência estendido. Para este empréstimo, entende-se pertinente adotar a opção de parcelas iguais
+e semestrais, sem prejuízo de posterior alteração;
+
+(iv)Prazo total em meses: até 300 meses;
+
+(v)Juros: A taxa de juros é definida pelo Mecanismo de Financiamento Flexível do BID. A taxa de empréstimos é composta por: (i) taxa
+variável com base na SOFR denominada em dólares norte-americanos, mais (ii) margem de captação do BID em relação a SOFR
+denominada em dólares norte-americanos, acrescida de (iii) spread de crédito variável de capital ordinário do BID.
+
+(vi)Comissão de crédito: percentual a ser cobrado sobre o saldo não desembolsado a partir de 60 dias após a contratação, podendo ser
+revista periodicamente, até o máximo de 0,75% ao ano.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+Os clientes do programa são entes subnacionais (municípios e estados) de diferentes regiões do país que demandem crédito para apoiar
+investimentos em transformação digital. Tendo em vista o impacto em qualidade de vida dos cidadãos e na melhoria do ambiente de
+negócios, estima-se que o projeto beneficiará diretamente a população dos estados e municípios financiados pelo Programa.
+
+Os eixos do Programa, direta ou indiretamente, as seguintes áreas estratégicas priorizadas pela COFIEX:  (1) melhoria do ambiente de
+negócios, através da adoção de novas tecnologias pelo setor privado e pelo aprimoramento dos serviços públicos digitais para empresas; (
+2) geração de emprego e renda, com o desenvolvimento de habilidades digitais na população; (3) proteção de vulneráveis, com sua
+inclusão no mundo digital; (4) inovação e melhoria na prestação de serviços; (5) desenvolvimento e modernização tecnológica, através dos
+eixos de infraestrutura digital e governo digital; e (6) impacto ambiental, pela redução massiva de deslocamentos, do uso de papel e de
+equipamentos tecnológicos energeticamente mais eficientes.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 7
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Interamericano de Desenvolvimento
+- BID
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BID
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+30.000.000,00
+Valor Proposto
+
+150.000.000,00
+
+180.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+30.000.000,00
+Valor de Referência US
+$
+150.000.000,00
+
+180.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+Execução/Arranjo Institucional
+
+O custo total do Programa é de até US$ 180 milhões, sendo até US$ 150 milhões financiados pelo BID e até US$ 30 milhões em
+contrapartida do BNDES e dos submutuários. A contrapartida de recursos do BNDES se dará mediante a utilização de suas fontes
+tradicionais de recursos.
+
+A formalização do contrato entre BNDES e BID ocorrerá após a conclusão do processo de negociação entre as partes, incluindo todos os
+trâmites necessários de aprovação nos órgãos governamentais competentes.
+
+O programa será executado mediante solicitações de desembolso a serem apresentadas pelo BNDES. As propostas serão elaboradas
+pelo BNDES e avaliadas pelo BID tomando como base os critérios de elegibilidade constantes do contrato de empréstimo e do
+regulamento operacional do Programa. O BID avaliará o mérito dos projetos apresentados conforme as regras contratuais a serem
+acordadas entre as partes.
+
+Dessa forma, a carteira de projetos a serem financiados e os critérios a serem utilizados no âmbito deste Programa serão definidos
+conjuntamente com o BID.
+
+Todas as operações serão submetidas ao rito de análise do BNDES e estarão sujeitas ao cumprimento das condições estipuladas em
+suas normas e regras internas.
+
+Os critérios de elegibilidade para composição da carteira de projetos a serem financiados no âmbito deste Programa será definida
+conjuntamente com o BID, podendo contemplar projetos que já fazem parte da carteira do BNDES, bem como novos projetos que venham
+a pleitear o apoio do BNDES.
+
+Em relação ao fluxo de aprovação nas diversas instâncias do BNDES, a estruturação da operação de captação em tela é de
+responsabilidade da Área de Mercado de Capitais, Captação, Reestruturação de Empresas e Relação com Investidores (AMC2). Após a
+conclusão das negociações formais com o BID e com os demais órgãos governamentais responsáveis, a aprovação deste Programa será
+submetida à apreciação da Diretoria do BNDES e, em seguida, cumprirá o rito de concessão de garantia soberana.
+
+Os processos de fomento, análise, contratação e acompanhamento dos projetos financiados no âmbito do Programa (subempréstimos)
+serão conduzidos pelo Departamento de Gestão Pública da Área Social (AS) do BNDES, que será responsável pela interlocução com os
+clientes finais (submutuários) e com as equipes setoriais do BID responsáveis pela operacionalização do programa.
+
+
+### 4.2. Execução/Executores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 8
+
+Executor: Banco Nacional de Desenvolvimento Econômico e Social - BNDES
+
+Fax:
+UF:
+
+VALOR
+
+CUSTO
+180.000.000,00
+
+Ano 1
+
+FONTES
+
+CF
+
+BID
+
+5.000.000,00
+
+25.000.000,00
+
+180.000.000,00
+
+5.000.000,00
+
+25.000.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+0,00
+
+5.000.000,00
+
+25.000.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+BID
+
+10.000.000,00
+
+50.000.000,00
+
+10.000.000,00
+
+50.000.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+0,00
+
+10.000.000,00
+
+50.000.000,00
+
+0,00
+
+0,00
+
+Ano 3
+
+FONTES
+
+CF
+
+BID
+
+10.000.000,00
+
+50.000.000,00
+
+10.000.000,00
+
+50.000.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+0,00
+
+10.000.000,00
+
+50.000.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+BID
+
+TOTAL
+
+CF
+
+5.000.000,00
+
+25.000.000,00
+
+30.000.000,00
+
+TOTAL
+
+BID
+150.000.000,00
+
+5.000.000,00
+
+25.000.000,00
+
+30.000.000,00
+
+150.000.000,00
+
+180.000.000,00
+
+5.000.000,00
+
+25.000.000,00
+
+30.000.000,00
+
+150.000.000,00
+
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 4 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+COMPONENTES
+
+C - FINANCIAMENTO A PROJETOS DE INVESTIMENTO EM TRANSFORMAÇÃO DIGITAL POR
+MUNICÍPIOS, ESTADOS E O DISTRITO FEDERAL.
+P - FINANCIAMENTO A PROJETOS DE INVESTIMENTO EM TRANSFORMAÇÃO DIGITAL
+POR MUNICÍPIOS, ESTADOS E O DISTRITO FEDERAL.
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - FINANCIAMENTO A PROJETOS DE INVESTIMENTO EM TRANSFORMAÇÃO DIGITAL POR
+MUNICÍPIOS, ESTADOS E O DISTRITO FEDERAL.
+P - FINANCIAMENTO A PROJETOS DE INVESTIMENTO EM TRANSFORMAÇÃO DIGITAL
+POR MUNICÍPIOS, ESTADOS E O DISTRITO FEDERAL.
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - FINANCIAMENTO A PROJETOS DE INVESTIMENTO EM TRANSFORMAÇÃO DIGITAL POR
+MUNICÍPIOS, ESTADOS E O DISTRITO FEDERAL.
+P - FINANCIAMENTO A PROJETOS DE INVESTIMENTO EM TRANSFORMAÇÃO DIGITAL
+POR MUNICÍPIOS, ESTADOS E O DISTRITO FEDERAL.
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - FINANCIAMENTO A PROJETOS DE INVESTIMENTO EM TRANSFORMAÇÃO DIGITAL POR
+MUNICÍPIOS, ESTADOS E O DISTRITO FEDERAL.
+P - FINANCIAMENTO A PROJETOS DE INVESTIMENTO EM TRANSFORMAÇÃO DIGITAL
+POR MUNICÍPIOS, ESTADOS E O DISTRITO FEDERAL.
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+Não se aplica.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+Não se aplica.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Não se aplica.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+O programa apoiará projetos de investimento sujeitos a baixos riscos socioambientais. O BNDES está estruturado e em permanente
+aperfeiçoamento para gerenciar adequadamente estes riscos.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+Não se aplica.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Não se aplica.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+
+Página: 9
+
+- 13/09/2023: Aprovada pela 168ª Cofiex (06/09/2023).
+
+Informações relevantes

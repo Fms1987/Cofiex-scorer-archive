@@ -1,0 +1,1816 @@
+# Carta-Consulta CC_60942 — Versao 2 (SIGS)
+
+
+CARTA CONSULTA
+
+Melhoria do sistema de macrodrenagem visando a diminuição dos eventos de enchentes,
+alagamentos e inundações e implantação de Parques Lineares no Município de Campinas,
+SP
+
+Nº Carta Consulta: 60942
+Processo: 12120.100499/2022-91
+Mutuário: Município de Campinas - SP
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  25 de Julho de 2022
+
+Fontes Internas:
+Contrapartida Financeira: US$ 14.000.000,00
+Fontes Externas:
+Corporação Andina de Fomento - CAF: US$ 56.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+O município de Campinas/SP possui uma área de 794,571 km2 abriga uma população de 1.223.237 habitantes (IBGE 2021), possui IDH
+de 0,805 (IBGE 2010), situado na região noroeste do Estado de São Paulo, dista 99 km da capital. É o terceiro município mais populoso
+do estado (ficando atrás de Guarulhos e da cidade de São Paulo) e décimo quarto em relação ao País.
+
+A bacia hidrográfica do Ribeirão Anhumas, localizada no município de Campinas/SP no estado de São Paulo, possui 152 km² de área de
+drenagem e, seu talvegue principal, o Ribeirão Anhumas, tem aproximadamente 25 km de extensão, desde o centro do município de
+Campinas até o seu exutório, no Rio Atibaia, no limite com o município de Paulínia.
+
+A bacia apresenta adensamento urbano elevado em sua região montante, que corresponde ao centro do município de Campinas/SP.
+Nesta área escoam os cursos formadores do Ribeirão Anhumas, os Córregos Serafim e Proença.
+
+Os registros históricos de inundações demonstram que na bacia do Ribeirão Anhumas estão concentrados na parte a montante da bacia,
+ao longo dos seus córregos formadores, Serafim e Proença.
+
+No Córrego Serafim, os principais relatos de inundação estão concentrados no cruzamento da Av. Orosimbo Maia com a Av. Anchieta,
+onde as águas atingem as lojas e pontes impedindo a circulação na via.
+
+Quanto ao Córrego Proença, o mesmo escoa ao longo da Av. Princesa d´Oeste e ao longo da Av. José de Sousa Campos. Neste trecho
+as inundações são recorrentes sendo os mais críticos na bacia.
+
+Devido às fortes declividades, a velocidade da enxurrada durante eventos de cheia nestas bacia são elevadas, constituindo risco para a
+população transeunte, ainda que com baixas lâminas d´água.
+
+Observa-se que desde a década de 1970 o município de Campinas sofre eventos nos períodos mais chuvosos com alagamentos
+enchentes e inundações, trazendo grandes prejuízos atingindo comércios, edifícios, residências e impedem a circulação em vias.
+
+O último eventos com vítimas fatais foi registrado em 31/12/2021.
+
+Muitas dessas áreas necessitam de recuperação florestal das margens dos cursos d'água que quando associadas à implantação de
+estruturas de lazer e esportes podem propiciar à população melhor qualidade de vida. Campinas possui 87m² de área verde por habitante,
+no entanto, ao observarmos as áreas verdes com função social, ou seja, àquelas que possibilitam um contato da população com esses
+espaços, agregando o contato com a natureza com a prática de esportes ou lazer, esse índice é de apenas 6,2m² área verde social por
+habitante. Ademais, cerca de 70% das áreas de preservação permanente do município estão em desconforme com a legislação ambiental,
+ou seja, desprovidas de vegetação natural nas margens dos cursos d'água. Sendo assim, há um problema iminente de degradação
+ambiental destes espaços especialmente protegidos, bem como da ausência de infraestrutura verde acessível à população. Nas regiões
+mais carentes e afastadas do município, essa situação é ainda mais evidente.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+(ii) Solução Proposta: O projeto visa atender às vazões verificadas após os estudos efetuados, considerando como solução viável a
+implantação de reservatórios na bacia e reforço de capacidade hidráulica em travessias na Avenida Orosimbo Maia e implantação de
+Parques Lineares indicados no Plano Municipal do Verde.
+
+COMPONENTE 1: RESERVATÓRIO RP4 - PRAÇA RALPH STETTINGER
+
+OBJETO
+
+O projeto proposto consiste na construção reservatório na Praça Ralph Stettinger, no cruzamento da Av. José de Souza Campos com a
+Rua Engenheiro Carlos Stevenson, ocupando uma área de 45.600 m². possuindo tipologia on-line, aberto, aproveitando o desnível natural
+da praça.
+
+RESULTADOS ESPERADOS:
+
+Essa obra assegurará a reservação de 100.000 m³ das águas pluviais e referente à uma área de drenagem de 8,1km².
+
+COMPONENTE 2: RESERVATÓRIO RS1 - PRAÇA ÓPERA
+
+OBJETO
+
+O projeto proposto consiste na construção reservatório na Praça da Ópera, localizada entre a Av. João Penido Burnier e a Av. Senador
+Saraiva, ocupando uma área de 3.800 m². possuindo tipologia off-line, tamponado.
+
+RESULTADOS ESPERADOS:
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+Essa obra assegurará a reservação de 80.000 m³ das águas pluviais e referente à uma área de drenagem de 2,5 km².
+
+COMPONENTE 3: TRAVESSIAS AO LONGO DA AVENIDA OROSIMBO MAIA
+
+OBJETO
+
+Execução de obras de ampliação da seção de 03 (três) travessias localizadas na Avenida Orosimbo Maia, quais sejam:
+
+- No cruzamento das Avenidas Orosimbo Maia e Anchieta.
+
+- No cruzamento da Avenida Orosimbo Maia com a Rua Dr. José de Campos Novaes.
+
+- Na passarela próxima ao cruzamento da Avenida Orosimbo Maia com a Rua Sampaio Peixoto.
+
+RESULTADOS ESPERADOS:
+
+Incremento da capacidade hidráulica adequando-as ao trecho tipo do canal.
+
+COMPONENTE 4: RESERVATÓRIO RP2 - PRAÇA RENÊ PENA
+
+OBJETO
+
+O projeto proposto consiste na construção reservatório na Praça Renê Pena, no início da Av. Princesa D´Oeste, ocupando uma área de 3.
+300 m². possuindo tipologia off-line, tamponado.
+
+RESULTADOS ESPERADOS:
+
+Essa obra assegurará a reservação de 40.000 m³ das águas pluviais e referente à uma área de drenagem de 0,8km².
+
+COMPONENTE 5: RESERVATÓRIO RS2 - ANCHIETA
+
+OBJETO
+
+O projeto proposto consiste na construção reservatório onde é hoje a Praça Alfredo Aquino de Oliveira, localizada entre as Avenidas
+Orosimbo Maia e Anchieta, ocupando uma área de 3.200 m². possuindo tipologia off-line, tamponado.
+
+RESULTADOS ESPERADOS:
+
+Essa obra assegurará a reservação de 60.000 m³ das águas pluviais e referente à uma área de drenagem de 5,11 km².
+
+COMPONENTE 6: RESERVATÓRIO RNS - PISCINÃO DA NORTE-SUL
+
+OBJETO
+
+O projeto proposto consiste na construção reservatório de amortecimento de cheias onde hoje é o popularmente conhecido Piscinão da
+Norte-Sul, localizada entre a Avenida José de Souza Campos e a Rua Rosa Belloto Grande, ocupando uma área de 19.400 m². possuindo
+tipologia on-line, aberto, inclusive com adaptação de estruturas hidráulicas.
+
+RESULTADOS ESPERADOS:
+
+Essa obra assegurará a reservação de 100.000 m³ das águas pluviais e referente à uma área de drenagem de 5,11 km².
+
+COMPONENTE 7: REFORÇO DE GALERIA AO LONGO DA AV. JOSÉ DE SOUZA CAMPOS
+
+OBJETO
+
+O projeto proposto consiste na construção de galeria para comportar as vazões de projeto, reforçando a galeria do Córrego Proença, na
+Av. José de Souza Campos, entre as Ruas Coronel Silva Telles e Rua Oriente, com extensão de 720m e seção retangular de 4,00 x 2,40
+m.
+
+RESULTADOS ESPERADOS:
+
+Essa obra assegurará uma vazão adicional de 18 m³/s no trecho do curso d´água.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+COMPONENTE 8: RECUPERAÇÃO AMBIENTAL DE ÁREAS PÚBLICAS
+
+A Implantação de Parques Lineares indicados no Plano Municipal do Verde minimizará o déficit de áreas verdes sociais da cidade,
+trazendo benefícios à qualidade ambiental e à população residente no município. Isso porque, os Parques Lineares possibilitam tanto a
+promoção de atividades de lazer e esporte, circulação não-motorizada, promoção de educação ambiental e cidadania melhorando a
+qualidade de vida da população, bem como a manutenção, regeneração, recuperação de aspectos físicos e bióticos (fauna, flora, recursos
+hídricos) por meio da recomposição das APPs, medidas de manejo de água pluviais, aumento da zona de inundação (amortecimento de
+enchentes), controle de erosão, com a possibilidade de integração de ecossistemas, atuando também como corredores ecológicos.
+
+OBJETO: Implantação de 9 Parques Lineares da lista de 49 indicados no Plano Municipal do Verde (2016):
+
+Parque Linear do Córrego Proença;
+
+Parque Linear do Córrego Oriente;
+
+Parque Linear do Afluente do Mato Dentro;
+
+Parque Linear do Ribeirão das Pedras 3;
+
+Parque Linear do São Francisco;
+
+Parque Linear do Córrego Areia Branca;
+
+Parque Linear do Córrego Ipaussurama 1;
+
+Parque Linear do Córrego Boa Vista 2;
+
+Parque Linear do Córrego Samambaia.
+
+A concepção dos parques considerou as necessidades e singularidades dos contextos urbanos, sociais e ambientais onde serão
+implantados:
+
+Limites; Condições Existentes; Intervenções Urbanísticas; Ambiental; Zoneamento Funcional e Conectividade Urbana; Mobilidade e
+Acessibilidade.
+
+(iii) RESULTADOS ESPERADOS:
+
+Considerando toda a problemática apresentada, foram estabelecidos componentes que têm as seguintes metas:
+
+&#10625; Diminuição dos eventos de alagamento, enchentes e inundações na Bacia do Ribeirão Anhumas, em especial na região das
+Avenidas Orosimbo Maia e Princesa D´Oeste;
+
+&#10625; Melhorar no sistema de captação e condução das águas pluviais da região central do Município de Campinas.
+
+&#10625; Diminuição do déficit de áreas verdes sociais
+
+Por se tratar de projeto a ser implantado totalmente em áreas de propriedade do município, áreas estas, livres e desimpedidas sem a
+necessidade da promoção de remoções e/ou desapropriações, não há que se falar em custos adicionais para a implantação do sistema de
+macrodrenagem proposto.
+
+Por oportuno informamos que o custo da manutenção e operação do projeto ficará a cargo do Município através das Secretarias de
+Serviços Públicos, Infraestrutura e Verde, Meio Ambiente e Desenvolvimento Sustentável.
+
+(iv)SUSTENTABILIDADE:
+
+Após a implantação do sistema e dos parques lineares, ficará a cargo da administração municipal que dispõem de pessoal próprio em seu
+quadro de funcionários para a limpeza, manutenção e operação dos equipamentos.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+O Programa/Projeto de macrodrenagem foi inserido no PPA 2022/2025 (Ação: 119/P Ampliar e Melhorar o Controle e o Combate de
+Enchentes Fun:015 S Fun:451), conforme demonstrado na aba anexo, consta também na Lei Orçamentária Anual de 2022 através do
+programa 15.451.3012.1119 - Ampliar e Melhorar o Controle e o Combate de Enchentes, conforme documento anexo.
+
+Informamos que a contrapartida está em conformidade com o disposto na Resolução COFIEX nº 3 de 29/5/2019.
+
+A referência cambial do Dólar utilizado foi de R$ 5,42 (BRL), na data de 14/07/2022 (Banco Central).
+
+O Programa/Projeto de implantação de Parques Lineares foi inserido no PPA 2022/2025 (Ação: 132/P Elaboração e Implementação dos
+Planos Ambientais Municipais Fun:018 S Fun:541 e Ação: 144/P Expansão das Áreas Verdes, Parque Lineares e Corredores Ecológicos
+Fun:018 S Fun:541), conforme demonstrado na aba anexo, consta também na Lei Orçamentária Anual de 2022 através do programa 18.
+541.3014.1132 - Elaboração e Implementação dos Planos Ambientais Municipais e programa 18.541.3014.1144 Expansão das Áreas
+Verdes, Parque Lineares e Corredores Ecológicos, conforme documento anexo.
+
+Informamos que a contrapartida está em conformidade com o disposto na Resolução COFIEX nº 3 de 29/5/2019.
+
+A referência cambial do Dólar utilizado foi de R$ 5,42 (BRL), na data de 14/07/2022 (Banco Central).
+
+Salientamos que o objeto está incluso no Plano Municipal do Verde (Decreto Municipal nº 19.167/2016) e Plano de Mobilidade Urbana de
+Campinas (Decreto Municipal nº 20.571/2019) e eventualmente estará no Plano Municipal de Drenagem Urbana.
+
+2. Projeto
+
+### 2.1. Título
+
+
+Melhoria do sistema de macrodrenagem visando a diminuição dos eventos de enchentes, alagamentos e inundações e implantação de
+Parques Lineares no Município de Campinas, SP
+
+
+### 2.2. Título Abreviado
+
+
+Melhoria na macrodrenagem no município de Campinas
+
+
+### 2.3. Mutuário
+
+
+Município de Campinas - SP
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+(i) Objetivo Geral: O projeto visa atender às vazões verificadas após os estudos efetuados, considerando como solução viável a
+implantação de reservatórios na bacia e reforço de capacidade hidráulica em travessias na Avenida Orosimbo Maia e implantação de
+parques lineares indicados no Plano Municipal do Verde.
+
+(ii) Objetivos Específicos:
+
+COMPONENTE 1: RESERVATÓRIO RP4 - PRAÇA RALPH STETTINGER
+
+Produto 1: Implantação de reservatório de amortecimento de cheias, assegurando a reservação de um volume de 100.000 m³ das águas
+pluviais.
+
+COMPONENTE 2: RESERVATÓRIO RS1 - PRAÇA RALPH ÓPERA
+
+Produto 2: Implantação de reservatório de amortecimento de cheias, assegurando a reservação de um volume de 80.000 m³ das águas
+pluviais.
+
+COMPONENTE 3: TRAVESSIAS AO LONGO DA AVENIDA OROSIMBO MAIA
+
+Produto 3: Adequação de 03 (três) travessias na Av. Orosimbo Maia, aumentando a capacidade hidráulica das mesmas.
+
+COMPONENTE 4: RESERVATÓRIO RP2 - PRAÇA RENÊ PENA
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+
+
+Página: 6
+
+Produto 4: Implantação de reservatório de amortecimento de cheias, assegurando a reservação de um volume de 40.000 m³ das águas
+pluviais.
+
+COMPONENTE 5: RESERVATÓRIO RS2 - ANCHIETA
+
+Produto 5: Implantação de reservatório de amortecimento de cheias, assegurando a reservação de um volume de 60.000 m³ das águas
+pluviais.
+
+COMPONENTE 6: RESERVATÓRIO RNS - PISCINÃO DA NORTE-SUL
+
+Produto 6: Implantação de reservatório de amortecimento de cheias, assegurando a reservação de um volume de 100.000 m³ das águas
+pluviais.
+
+COMPONENTE 7: REFORÇO DE GALERIA AO LONGO DA AV. JOSÉ DE SOUZA CAMPOS
+
+Produto 7: Implantação de 720m de galeria com seção retangular de 4,00 x 2,40 m, incrementando a vazão no trecho.
+
+COMPONENTE 8: RECUPERAÇÃO AMBIENTAL DE ÁREAS PÚBLICAS
+
+Produto 8: Implantação de 9 Parques Lineares indicados no Plano Municipal do Verde, que totalizam 1.286.658,16m²
+
+
+### 2.6. Projeto/Indicadores
+
+
+Descrição
+Eliminação de trechos sujeitos a alagamentos,
+enchentes e inundações
+
+Aumento da disponibilidade das áreas verdes
+sociais
+
+Diminuição do Tempo de Bloqueio de Vias
+
+
+### 2.7. Projeto/Componentes
+
+
+Un.
+
+Fórmula de Cálculo Unidade de Medida
+(total de trechos
+sujeitos a enchentes e
+inundações
+existentes na bacia -
+total de trechos
+sujeitos a enchentes e
+inundações
+regularizados na bacia
+)
+Índice de áreas
+verdes com função
+social por habitante /
+Unidade Territorial
+Básica (UTB)
+(Tempo médio de
+Interdição atual -
+Tempo médio de
+Interdição Pretendido)
+
+m²/hab
+
+Min.
+
+Linha de Base
+6,00
+
+Meta
+3,00
+
+6,20
+
+7,60
+
+40,00
+
+0,00
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Componentes
+C - RESERVATÓRIO RP4 - PRAÇA RALPH STETTINGER
+S - RESERVATÓRIO DE AMORTECIMENTO
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+C - RESERVATÓRIO RS1 - PRAÇA RALPH ÓPERA
+S - RESERVATRIO DE AMORTECIMENTO
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+C - TRAVESSIAS AO LONGO DA AVENIDA OROSIMBO MAIA
+S - ADEQUAÇÃO DE TRAVESSIAS
+P - AUMENTO DE CAPACIDADE HIDRÁULICA
+C - RESERVATÓRIO RP2 PRAÇA RENE PENA
+S - RESERVATÓRIO DE AMORTECIMENTO
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+C - RESERVATÓRIO RS2  ANCHIETA
+S - RESERVATÓRIO DE AMORTECIMENTO
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+C - RESERVATÓRIO RNS  PISCINÃO DA NORTE/SUL
+S - RESERVATÓRIO DE AMORTECIMENTO
+P - RESERVAÇÃO DE ÁGUAS PLUVIAIS
+C - REFORÇO DE GALERIA AO LONGO DA AV JOSÉ DE SOUZA CAMPOS
+S - REDE DE DRENAGEM
+P - INCREMENTO DE VAZÃO NA CONDUÇÃO DAS ÁGUAS PLUVIAIS
+C - RECUPERAÇÃO AMBIENTAL DE ÁREAS PÚBLICAS
+P - Implantação de 9 parques lineares indicados no Plano Municipal do Verde
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 7
+
+Valor(US$)
+4.617.356,09
+4.617.356,09
+4.617.356,09
+19.147.269,56
+19.147.269,56
+19.147.269,56
+1.164.213,47
+1.164.213,47
+1.164.213,47
+10.378.604,61
+10.378.604,61
+10.378.604,61
+3.023.414,40
+3.023.414,40
+3.023.414,40
+15.963.799,82
+15.963.799,82
+15.963.799,82
+4.945.812,18
+4.945.812,18
+4.945.812,18
+10.759.529,87
+10.759.529,87
+70.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - RESERVATÓRIO RP4 - PRAÇA RALPH STETTINGER
+Produto 1: Implantação de reservatório de amortecimento de cheias, assegurarando a reservação de um volume de 100.000 m³
+das águas pluviais.
+
+S - RESERVATÓRIO DE AMORTECIMENTO
+Implantação de reservatório de amortecimento de cheias, assegurarando a reservação de um volume de 100.000 m³ das águas
+pluviais.
+
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+Reservação de um volume de 100.000 m³ das águas pluviais
+
+C - RESERVATÓRIO RS1 - PRAÇA RALPH ÓPERA
+Produto 2: Implantação de reservatório de amortecimento de cheias, assegurando a reservação de um volume de 80.000 m³ das
+águas pluviais.
+
+S - RESERVATRIO DE AMORTECIMENTO
+Implantação de reservatório de amortecimento de cheias, assegurando a reservação de um volume de 80.000 m³ das águas
+pluviais.
+
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+Implantação de reservatório de amortecimento de cheias, assegurando a reservação de um volume de 80.000 m³ das águas
+pluviais.
+
+C - TRAVESSIAS AO LONGO DA AVENIDA OROSIMBO MAIA
+Adequação de 03 (três) travessias na Av. Orosimbo Maia, aumentando a capacidade hidráulica das mesmas
+
+S - ADEQUAÇÃO DE TRAVESSIAS
+Adequação de 03 (três) travessias na Av. Orosimbo Maia
+
+P - AUMENTO DE CAPACIDADE HIDRÁULICA
+Adequação de 03 (três) travessias na Av. Orosimbo Maia
+
+C - RESERVATÓRIO RP2 PRAÇA RENE PENA
+Implantação de reservatório de amortecimento de cheias, assegurando a reservação de um volume de 40.000 m³ das águas
+pluviais.
+
+S - RESERVATÓRIO DE AMORTECIMENTO
+Implantação de reservatório de amortecimento de cheias, assegurando a reservação de um volume de 40.000 m³ das águas
+pluviais.
+
+
+Página: 8
+
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+Implantação de reservatório de amortecimento de cheias, assegurando a reservação de um volume de 40.000 m³ das águas
+pluviais.
+
+C - RESERVATÓRIO RS2  ANCHIETA
+Implantação de reservatório de amortecimento de cheias, assegurando a reservação de um volume de 60.000 m³ das águas
+pluviais.
+
+S - RESERVATÓRIO DE AMORTECIMENTO
+Implantação de reservatório de amortecimento de cheias, assegurando a reservação de um volume de 60.000 m³ das águas
+pluviais.
+
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+Implantação de reservatório de amortecimento de cheias, assegurando a reservação de um volume de 60.000 m³ das águas
+pluviais.
+
+C - RESERVATÓRIO RNS  PISCINÃO DA NORTE/SUL
+Implantação de reservatório de amortecimento de cheias, assegurando a reservação de um volume de 100.000 m³ das águas
+pluviais.
+
+S - RESERVATÓRIO DE AMORTECIMENTO
+Implantação de reservatório de amortecimento de cheias, assegurando a reservação de um volume de 100.000 m³ das águas
+pluviais.
+
+P - RESERVAÇÃO DE ÁGUAS PLUVIAIS
+Implantação de reservatório de amortecimento de cheias, assegurando a reservação de um volume de 100.000 m³ das águas
+pluviais.
+
+C - REFORÇO DE GALERIA AO LONGO DA AV JOSÉ DE SOUZA CAMPOS
+Implantação de 720m de galeria com seção retangular de 4,00 x 2,40 m, incrementando a vazão no trecho
+
+S - REDE DE DRENAGEM
+Implantação de 720m de galeria com seção retangular de 4,00 x 2,40 m, incrementando a vazão no trecho
+
+P - INCREMENTO DE VAZÃO NA CONDUÇÃO DAS ÁGUAS PLUVIAIS
+Implantação de 720m de galeria com seção retangular de 4,00 x 2,40 m, incrementando a vazão no trecho.
+
+C - RECUPERAÇÃO AMBIENTAL DE ÁREAS PÚBLICAS
+Implantação de Parques Lineares indicados no Plano Municipal do Verde
+
+P - Implantação de 9 parques lineares indicados no Plano Municipal do Verde
+Implantação de parques lineares indicados no Plano Municipal do Verde (Decreto Municipal 19167/2016)
+
+Parque Linear do Córrego Proença, com 53.318,76m² localizado na bacia do Ribeirão Anhumas, contemplando equipamentos de
+lazer e esporte, circulação não-motorizada, recuperação das áreas de preservação permanente, medidas de manejo de água
+pluviais, aumento da zona de inundação (amortecimento de enchentes) e controle de erosão (valor R$ 3.900.089,54).
+Parque Linear do Córrego Oriente, com 167.239,17m² localizado na bacia do Ribeirão Anhumas, contemplando equipamentos de
+lazer e esporte, circulação não-motorizada, recuperação das áreas de preservação permanente, medidas de manejo de água
+pluviais, aumento da zona de inundação (amortecimento de enchentes) e controle de erosão (valor R$ 14.569.553,45).
+Parque Linear do Afluente do Mato Dentro com 101.793,01m² localizado na bacia do Ribeirão Anhumas, contemplando
+equipamentos de lazer e esporte, circulação não-motorizada, recuperação das áreas de preservação permanente, medidas de
+manejo de água pluviais, aumento da zona de inundação (amortecimento de enchentes) e controle de erosão (valor R$ 1.556.488,
+57).
+Parque Linear do Ribeirão das Pedras 3, com 166.628,60m² localizado na bacia do Ribeirão Anhumas, contemplando
+equipamentos de lazer e esporte, circulação não-motorizada, recuperação das áreas de preservação permanente, medidas de
+manejo de água pluviais, aumento da zona de inundação (amortecimento de enchentes) e controle de erosão (valor R$ 3.165.657,
+96).
+Parque Linear do São Francisco, com 160.648,91m² localizado na bacia do Ribeirão Anhumas, contemplando equipamentos de
+lazer e esporte, circulação não-motorizada, recuperação das áreas de preservação permanente, medidas de manejo de água
+pluviais, aumento da zona de inundação (amortecimento de enchentes) e controle de erosão (valor R$ 1.000.000,00).
+Parque Linear do Córrego Areia Branca com 116.883,53m² localizado na bacia do Rio Capivari, contemplando equipamentos de
+lazer e esporte, circulação não-motorizada, recuperação das áreas de preservação permanente, medidas de manejo de água
+pluviais, aumento da zona de inundação (amortecimento de enchentes) e controle de erosão (valor R$ 8.348.857,01).
+Parque Linear do Córrego Ipaussurama 1, com 147.489,49m² localizado na bacia do Rio Capivari, contemplando equipamentos de
+lazer e esporte, circulação não-motorizada, recuperação das áreas de preservação permanente, medidas de manejo de água
+pluviais, aumento da zona de inundação (amortecimento de enchentes) e controle de erosão (valor R$ 4.263.969,77).
+
+
+Página: 9
+
+Parque Linear do Córrego Boa Vista 2 com 95.425,42m² localizado na bacia do Ribeirão Quilombo, contemplando equipamentos
+de lazer e esporte, circulação não-motorizada, recuperação das áreas de preservação permanente, medidas de manejo de água
+pluviais, aumento da zona de inundação (amortecimento de enchentes) e controle de erosão (valor R$ 4.122.329,90).
+Parque Linear do Córrego Samambaia com 277.231,27m² localizado na bacia do Rio Atibaia, contemplando equipamentos de lazer
+e esporte, circulação não-motorizada, recuperação das áreas de preservação permanente, medidas de manejo de água pluviais,
+aumento da zona de inundação (amortecimento de enchentes) e controle de erosão (valor R$ 13.797.649,12).
+
+Categoria de Gasto
+
+Obras
+P- RESERVAÇÃO DE ÁGUAS PLUVAIS
+P- RESERVAÇÃO DE ÁGUAS PLUVAIS
+P- AUMENTO DE CAPACIDADE HIDRÁULICA
+P- RESERVAÇÃO DE ÁGUAS PLUVAIS
+P- RESERVAÇÃO DE ÁGUAS PLUVAIS
+P- RESERVAÇÃO DE ÁGUAS PLUVIAIS
+P- INCREMENTO DE VAZÃO NA CONDUÇÃO
+DAS ÁGUAS PLUVIAIS
+P- Implantação de 9 parques lineares indicados
+no Plano Municipal do Verde
+Total Geral
+
+Unidade de medida
+-
+U$
+U$
+U$
+U$
+U$
+U$
+U$
+
+U$
+
+-
+
+Meta
+
+Valor
+
+% Financeiro
+
+-
+100,00
+100,00
+100,00
+100,00
+100,00
+100,00
+100,00
+
+100,00
+
+70.000.000,00
+4.617.356,09
+19.147.269,56
+1.164.213,47
+10.378.604,61
+3.023.414,40
+15.963.799,82
+4.945.812,18
+
+10.759.529,87
+
+-
+
+70.000.000,00
+
+100,00
+6,60
+27,35
+1,66
+14,83
+4,32
+22,81
+7,07
+
+15,37
+
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Existem estudos de concepção e projeto básico, os quais foram inseridos como anexos a esta documentação. Para a implantação dos
+reservatório de contenção para amortecimento de cheias, foram escolhidas áreas públicas evitando assim a necessidade de se proceder
+com a efetivação de desapropriações.
+
+Com relação aos licenciamentos ambientais será necessário outorga junto ao DAEE (Departamento de Águas e Energia Elétrica do
+Estado de São Paulo) para as intervenções nos cursos d´água e travessias, obtenção para intervenção em área de APP e autorização
+para cortes de árvores junto à secretaria Municipal do Verde e Meio Ambiente do município de Campinas e CETESB (Companhia
+Ambiental do Estado de São Paulo). Estão em fase de preparação da documentação para início das etapas de licenciamento Prévio e de
+Instalação.
+
+Quanto à contratação da obra estão em desenvolvimento os termos de referência e viabilização dos recursos para dar início aos
+processos licitatórios.
+
+Com relação à recuperação ambiental de áreas públicas, por meio da Implantação de Parques Lineares indicados no Plano Municipal do
+Verde, temos à informar: os Parques Lineares fazem parte de uma lista de 49 trechos de Parques lineares do Plano Municipal do Verde (
+PMV), instituído por meio de Decreto Municipal em 2016 e internalizado no Plano Diretor Municipal em 2018.
+
+Também foi escopo da contratação de Estudos Técnicos de Viabilidade de 43 Parques Lineares dos listados no PMV que visou realizar o
+diagnóstico e uma proposta de implantação de cada um dos parques de acordo com as informações socioeconômicas e ambientais dos
+territórios.
+
+Ademais, encontra-se em processo de abertura de licitação a contratação de projeto executivo de 6 trechos de parques lineares.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Municipal
+
+MUNICIPIO DE  CAMPINAS(SP)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+i) Condições Financeiras:
+
+a) Prazo total: até 18 anos;
+
+Prazo de carência: até 5 anos;
+
+Prazo de amortização: até 13 anos;
+
+Periodicidade dos desembolsos: 6 meses
+
+b) Taxa de juros: SOFR + 2,00 a.a.
+
+Com desconto para os oito primeiros anos de 0,10 no sorteado ficando 1,90 a.a
+
+Comissão de Compromisso: 0,35% a.a do saldo não desembolsado;
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 10
+
+Comissão de Financiamento: 0,85% do valor do financiamento;
+
+Taxa de Avaliação: U$ 50.000,00
+
+ii) As condições financeiras do CAF são melhores perante as opções de financiamento nacionais principalmente no que diz respeito às
+taxas praticadas pelo banco, conforme documento em anexo contendo tabela comparativa. Enquanto a taxa de juros do CAF é formada
+pela SOFR mais uma taxa fixa de 2% a.a., com desconto de 0,1% a.a. nos oito anos iniciais do financiamento, as taxas praticadas pelos
+bancos nacionais são consideravelmente maiores: a taxa da Caixa Econômica Federal (CEF), conforme cotações atuais, é de 108,02% do
+CDI , a do Banco do Brasil (BB) de CDI + 1,48% e a do BNDES (linha Finem: Modernização da Administração Tributária e da Gestão dos
+Setores Sociais Básicos - PMAT) formada pela soma do IPCA e de uma taxa fixa de 4,99% a.a. Além disso, a comissão de financiamento
+do CAF é menor que a comissão da CEF. Mas, é maior do que a comissão do BNDES. Ressalta-se apenas que, dentre os bancos
+mencionados, o CAF é o único banco que trabalha com uma taxa de juros sobre o valor não desembolsado.
+
+Em relação aos Bancos Internacionais, observa-se que as taxas do CAF estão um pouco maiores que a do NDB, sendo o primeiro 6,64%
+e o segundo 5,96%. As Comissões de compromisso e financiamento do NDB também são menores, respectivamente 0,35% e 0,85% do
+CAF contra 0,25% e 0,25% do NDB.
+
+Com relação aos prazos praticados, o CAF trabalha com um prazo total de 18 anos, sendo 5 deles de carência e outros 13 para
+amortização do empréstimo. Se por um lado o prazo total do CAF é um prazo intermediário com relação aos dos bancos NDB (20 anos) e
+BNDES (20 anos), por outro lado o período de carência oferecido pelo CAF é bastante superior aos períodos oferecidos pelos demais
+bancos, empatando apenas com o NDB).
+
+Além das vantagens em termos financeiros, há também uma significativa vantagem operacional na opção pela CAF, visto que possuem
+maior agilidade e facilidade no processo de preparação, formalização e execução da Operação.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+(i) O projeto irá promover sustentabilidade ambiental, ampliará as ações relativas a Saneamento Básico promovendo a gestão integrada
+dos recursos hídricos, além de melhoras as condições da população e comerciantes e micro e pequenas empresas localizadas na área de
+abrangência do Projeto.
+
+Além da integração e requalificação de áreas verdes municipais existentes ao longo dos parques lineares, proporcionando à população
+acesso a espaços de lazer e maior qualidade de vida.
+
+(ii) O projeto visa garantir a segurança da população do Município de Campinas/SP, em especial os habitantes que residem e transitam
+pelas regiões no entorno das Avenidas Orosimbo Maia, Princesa D´Oeste e José de Souza Campos.
+
+População beneficiada: aproximadamente 1,21 milhões de pessoas.
+
+(iii) Todos os habitantes do município de Campinas/SP incluindo as populações de Baixa Renda e minorias sociais serão beneficiadas
+sem qualquer distinção.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Corporação Andina de Fomento - CAF
+Total:
+
+Sigla
+
+CF
+Sigla
+
+CAF
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+14.000.000,00
+Valor Proposto
+
+56.000.000,00
+70.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+14.000.000,00
+Valor de Referência US
+$
+56.000.000,00
+70.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 11
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+(ii) Arranjo institucional:
+
+A Prefeitura Municipal de Campinas, através da Secretaria Municipal de Infraestrutura, conta com estrutura capacitada para o
+desenvolvimento e acompanhamento dos serviços e obras a serem contratadas, além de possuir vasta experiência no acompanhamento e
+fiscalização de obras desta natureza, como a recém finalizada obras do PAC Quilombo onde, além de todas as obras de infraestrutura
+dos bairros abrangidos, foi executada obra de construção de barramento para a contenção de cheias. A formatação do projeto conta ainda
+com a participação da Secretaria Municipal de Finanças e das demais pasta da administração municipal que darão o suporte necessário
+em função da implantação do projeto.
+
+Por meio da Secretaria Municipal do Verde, Meio Ambiente e Desenvolvimento Sustentável, a Prefeitura vêm planejando de forma
+sustentável e integrada o território, visando assegurar a qualidade, quantidade e distribuição das Áreas Verdes, garantindo suas funções
+sociais e ecológicas, bem como assegurar a quantidade e a qualidade das águas, valorizando as potencialidades e reduzindo a
+vulnerabilidade hídrica no Município de Campinas.
+
+(iii) Matriz de Responsabilidade:
+
+Após contratado o financiamento, outras áreas da Administração Municipal serão envolvidas para a implantação do projeto:
+
+- Secretaria Municipal de Infraestrutura que ficará responsável pelo desenvolvimento de todos os projetos e demais elementos técnicos
+necessários à implantação do projeto, bem como pelo administração das obras, atuando de forma direta na fiscalização dos serviços;
+
+- Secretaria Municipal de Finanças que ficará responsável por toda a administração e prestação de contas junto ao órgão financiador;
+
+- Secretaria Municipal de Administração, Pasta que será a responsável pela condução do certame licitatório;
+
+- Secretaria Municipal de Justiça que atuará nas questões jurídicas para a contratação das obras;
+
+- Secretaria Municipal do Verde, Meio Ambiente e Desenvolvimento Sustentável que dará suporte às questões ambientais envolvidas,
+como por exemplo desenvolvendo possíveis estudos ambientais e ainda efetuando a emissão de licenças e autorização ambientais
+necessárias no âmbito municipal, auxiliando tecnicamente quanto à obtenção de licenças e autorizações ambientais no âmbito estadual,
+bem como o acompanhamento da implantação dos Parques Lineares;
+
+- EMDEC - Empresa Municipal de Desenvolvimento de Campinas que auxiliará quanto aos aspectos de gestão do tráfego e circulação em
+função da execução das obras, bem como no que se refere aos aspectos envolvendo as questões de acessibilidade e de sinalização
+horizontal e vertical.
+
+- Demais órgãos municipais poderão ser eventualmente consultados em relação a algum aspecto pertinente à suas atribuições;
+
+(iv) Estrutura operacional:
+
+A Prefeitura Municipal de Campinas, através da Secretaria Municipal de Infraestrutura, vem buscando a eliminação de diversos pontos
+sujeitos a enchentes e alagamentos com a implantação de Quilômetros de rede de micro e macrodrenagem distribuídos pelo município.
+
+A Secretaria Municipal de Infraestrutura (SEINFRA) conta com 46 Engenheiros Civis, 02 Engenheiros Elétricos e 03 Arquitetos, corpo
+técnico este, habituado no desenvolvimento de projetos e na fiscalização das obras. Além de possuir duas equipes de topografia,
+contando com 02 Engenheiros Agrimensores e equipamentos próprios de aferição.
+
+A Secretaria Municipal de Infraestrutura ainda executou no período de 2013 a 2020 o total de R$ 181.860.172,75 em obras de drenagem e
+pavimentação perfazendo 76,90km. Já no período de 2021 até a presente data, a SEINFRA, contratou e está executando R$ 93.877,645,
+57, perfazendo 27,30km de vias com sistema de drenagem e pavimentação.
+
+Secretaria Municipal do Verde
+
+Equipe Técnica: Engenheiros Ambientais, Engenheiros Agrônomos, Biólogos, Geólogos e Arquiteto
+
+Objetos Finalizados:
+
+Contrato 164/2019, do Estudo de Viabilidade para elaboração dos Estudos Técnicos Preliminares que subsidiarão os Projetos Básicos de
+43 trechos de Parques Lineares no valor de R$ 531.618,13.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 12
+
+Contrato 010/2022 do estudo de "Delimitação da planície de inundação do rio Capivari e afluentes, no trecho percorrido pelo curso d'água
+no município de Campinas, desenvolvidos pelo Instituto de Pesquisa Tecnológica - IPT, no valor de R$ 700.000,00.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Prefeitura Municipal de Campinas - SP
+
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 3 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+COMPONENTES
+C - RESERVATÓRIO RP4 - PRAÇA RALPH STETTINGER
+
+S - RESERVATÓRIO DE AMORTECIMENTO
+
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+
+C - RESERVATÓRIO RS1 - PRAÇA RALPH ÓPERA
+
+S - RESERVATRIO DE AMORTECIMENTO
+
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+
+C - TRAVESSIAS AO LONGO DA AVENIDA OROSIMBO MAIA
+
+S - ADEQUAÇÃO DE TRAVESSIAS
+
+P - AUMENTO DE CAPACIDADE HIDRÁULICA
+
+C - RESERVATÓRIO RP2 PRAÇA RENE PENA
+
+S - RESERVATÓRIO DE AMORTECIMENTO
+
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+
+C - RESERVATÓRIO RS2  ANCHIETA
+
+S - RESERVATÓRIO DE AMORTECIMENTO
+
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+
+C - RESERVATÓRIO RNS  PISCINÃO DA NORTE/SUL
+
+S - RESERVATÓRIO DE AMORTECIMENTO
+
+P - RESERVAÇÃO DE ÁGUAS PLUVIAIS
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+Fax:
+UF:
+
+VALOR
+
+CUSTO
+4.617.356,09
+
+Ano 1
+
+FONTES
+
+CF
+
+184.694,24
+
+CAF
+738.776,97
+
+4.617.356,09
+
+184.694,24
+
+738.776,97
+
+4.617.356,09
+
+184.694,24
+
+738.776,97
+
+19.147.269,56
+
+765.890,78
+
+3.063.563,13
+
+19.147.269,56
+
+765.890,78
+
+3.063.563,13
+
+19.147.269,56
+
+765.890,78
+
+3.063.563,13
+
+1.164.213,47
+
+1.164.213,47
+
+1.164.213,47
+
+46.568,54
+
+46.568,54
+
+46.568,54
+
+186.274,15
+
+186.274,15
+
+186.274,15
+
+10.378.604,61
+
+415.144,18
+
+1.660.576,74
+
+10.378.604,61
+
+415.144,18
+
+1.660.576,74
+
+10.378.604,61
+
+415.144,18
+
+1.660.576,74
+
+3.023.414,40
+
+120.936,58
+
+483.746,30
+
+3.023.414,40
+
+120.936,58
+
+483.746,30
+
+3.023.414,40
+
+120.936,58
+
+483.746,30
+
+15.963.799,82
+
+638.551,99
+
+2.554.207,97
+
+15.963.799,82
+
+638.551,99
+
+2.554.207,97
+
+15.963.799,82
+
+638.551,99
+
+2.554.207,97
+
+C - REFORÇO DE GALERIA AO LONGO DA AV JOSÉ DE SOUZA CAMPOS
+
+4.945.812,18
+
+197.832,49
+
+791.329,95
+
+S - REDE DE DRENAGEM
+
+4.945.812,18
+
+197.832,49
+
+791.329,95
+
+P - INCREMENTO DE VAZÃO NA CONDUÇÃO DAS ÁGUAS PLUVIAIS
+
+4.945.812,18
+
+197.832,49
+
+791.329,95
+
+C - RECUPERAÇÃO AMBIENTAL DE ÁREAS PÚBLICAS
+
+10.759.529,87
+
+860.762,39
+
+3.443.049,56
+
+P - Implantação de 9 parques lineares indicados no Plano Municipal do Verde
+
+10.759.529,87
+
+860.762,39
+
+3.443.049,56
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+3.230.381,19
+
+12.921.524,77
+
+0,00
+
+0,00
+
+COMPONENTES
+C - RESERVATÓRIO RP4 - PRAÇA RALPH STETTINGER
+
+S - RESERVATÓRIO DE AMORTECIMENTO
+
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+
+C - RESERVATÓRIO RS1 - PRAÇA RALPH ÓPERA
+
+S - RESERVATRIO DE AMORTECIMENTO
+
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+
+C - TRAVESSIAS AO LONGO DA AVENIDA OROSIMBO MAIA
+
+S - ADEQUAÇÃO DE TRAVESSIAS
+
+P - AUMENTO DE CAPACIDADE HIDRÁULICA
+
+C - RESERVATÓRIO RP2 PRAÇA RENE PENA
+
+S - RESERVATÓRIO DE AMORTECIMENTO
+
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+
+C - RESERVATÓRIO RS2  ANCHIETA
+
+S - RESERVATÓRIO DE AMORTECIMENTO
+
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+
+C - RESERVATÓRIO RNS  PISCINÃO DA NORTE/SUL
+
+S - RESERVATÓRIO DE AMORTECIMENTO
+
+P - RESERVAÇÃO DE ÁGUAS PLUVIAIS
+
+C - REFORÇO DE GALERIA AO LONGO DA AV JOSÉ DE SOUZA CAMPOS
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+CAF
+
+461.735,61
+
+1.846.942,44
+
+461.735,61
+
+1.846.942,44
+
+461.735,61
+
+1.846.942,44
+
+1.914.726,96
+
+7.658.907,82
+
+1.914.726,96
+
+7.658.907,82
+
+1.914.726,96
+
+7.658.907,82
+
+116.421,35
+
+465.685,39
+
+116.421,35
+
+465.685,39
+
+116.421,35
+
+465.685,39
+
+1.037.860,46
+
+4.151.441,85
+
+1.037.860,46
+
+4.151.441,85
+
+1.037.860,46
+
+4.151.441,85
+
+302.341,44
+
+1.209.365,76
+
+302.341,44
+
+1.209.365,76
+
+302.341,44
+
+1.209.365,76
+
+1.596.379,98
+
+6.385.519,93
+
+1.596.379,98
+
+6.385.519,93
+
+1.596.379,98
+
+6.385.519,93
+
+494.581,22
+
+1.978.324,87
+
+(cid:10)
+(cid:10)
+
+
+Página: 13
+
+S - REDE DE DRENAGEM
+
+P - INCREMENTO DE VAZÃO NA CONDUÇÃO DAS ÁGUAS PLUVIAIS
+
+C - RECUPERAÇÃO AMBIENTAL DE ÁREAS PÚBLICAS
+
+P - Implantação de 9 parques lineares indicados no Plano Municipal do Verde
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+C - RESERVATÓRIO RP4 - PRAÇA RALPH STETTINGER
+
+S - RESERVATÓRIO DE AMORTECIMENTO
+
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+
+C - RESERVATÓRIO RS1 - PRAÇA RALPH ÓPERA
+
+S - RESERVATRIO DE AMORTECIMENTO
+
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+
+C - TRAVESSIAS AO LONGO DA AVENIDA OROSIMBO MAIA
+
+S - ADEQUAÇÃO DE TRAVESSIAS
+
+P - AUMENTO DE CAPACIDADE HIDRÁULICA
+
+C - RESERVATÓRIO RP2 PRAÇA RENE PENA
+
+S - RESERVATÓRIO DE AMORTECIMENTO
+
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+
+C - RESERVATÓRIO RS2  ANCHIETA
+
+S - RESERVATÓRIO DE AMORTECIMENTO
+
+P - RESERVAÇÃO DE ÁGUAS PLUVAIS
+
+C - RESERVATÓRIO RNS  PISCINÃO DA NORTE/SUL
+
+S - RESERVATÓRIO DE AMORTECIMENTO
+
+P - RESERVAÇÃO DE ÁGUAS PLUVIAIS
+
+C - REFORÇO DE GALERIA AO LONGO DA AV JOSÉ DE SOUZA CAMPOS
+
+S - REDE DE DRENAGEM
+
+P - INCREMENTO DE VAZÃO NA CONDUÇÃO DAS ÁGUAS PLUVIAIS
+
+C - RECUPERAÇÃO AMBIENTAL DE ÁREAS PÚBLICAS
+
+494.581,22
+
+1.978.324,87
+
+494.581,22
+
+1.978.324,87
+
+645.571,79
+
+2.582.287,17
+
+645.571,79
+
+2.582.287,17
+
+0,00
+
+6.569.618,81
+
+26.278.475,23
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+CAF
+
+TOTAL
+
+CF
+
+TOTAL
+
+CAF
+
+277.041,37
+
+1.108.165,46
+
+923.471,22
+
+3.693.884,87
+
+277.041,37
+
+1.108.165,46
+
+923.471,22
+
+3.693.884,87
+
+277.041,37
+
+1.108.165,46
+
+923.471,22
+
+3.693.884,87
+
+1.148.836,17
+
+4.595.344,70
+
+3.829.453,91
+
+15.317.815,65
+
+1.148.836,17
+
+4.595.344,70
+
+3.829.453,91
+
+15.317.815,65
+
+1.148.836,17
+
+4.595.344,70
+
+3.829.453,91
+
+15.317.815,65
+
+69.852,81
+
+69.852,81
+
+69.852,81
+
+279.411,23
+
+232.842,70
+
+931.370,77
+
+279.411,23
+
+232.842,70
+
+931.370,77
+
+279.411,23
+
+232.842,70
+
+931.370,77
+
+622.716,28
+
+2.490.865,10
+
+2.075.720,92
+
+8.302.883,69
+
+622.716,28
+
+2.490.865,10
+
+2.075.720,92
+
+8.302.883,69
+
+622.716,28
+
+2.490.865,10
+
+2.075.720,92
+
+8.302.883,69
+
+181.404,86
+
+725.619,46
+
+604.682,88
+
+2.418.731,52
+
+181.404,86
+
+725.619,46
+
+604.682,88
+
+2.418.731,52
+
+181.404,86
+
+725.619,46
+
+604.682,88
+
+2.418.731,52
+
+957.827,99
+
+3.831.311,96
+
+3.192.759,96
+
+12.771.039,86
+
+957.827,99
+
+3.831.311,96
+
+3.192.759,96
+
+12.771.039,86
+
+957.827,99
+
+3.831.311,96
+
+3.192.759,96
+
+12.771.039,86
+
+296.748,73
+
+1.186.994,92
+
+989.162,44
+
+3.956.649,74
+
+296.748,73
+
+1.186.994,92
+
+989.162,44
+
+3.956.649,74
+
+296.748,73
+
+1.186.994,92
+
+989.162,44
+
+3.956.649,74
+
+645.571,79
+
+2.582.287,17
+
+2.151.905,97
+
+8.607.623,90
+
+P - Implantação de 9 parques lineares indicados no Plano Municipal do Verde
+
+645.571,79
+
+2.582.287,17
+
+2.151.905,97
+
+8.607.623,90
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+70.000.000,00
+
+4.200.000,00
+
+16.800.000,00
+
+14.000.000,00
+
+56.000.000,00
+
+(i) Para a contratação e execução das obras não será necessário a aprovação de decretos e convênios.
+
+O projeto de Lei Autorizativa encontra-se em análise jurídica para posterior envio ao Parlamento Municipal deliberar a aprovação.
+
+(ii) e (iii) RISCOS/CONTRATAÇÕES E AÇÕES MITIGADORAS
+
+CORPO JURÍDICO E FINANCEIRO
+
+A Prefeitura Municipal de Campinas conta com a Secretaria de Justiça, Procuradoria Geral do Município e a Secretaria Municipal de
+Administração, órgãos estes munidos de corpo jurídico responsável por todo o suporte legal ao projeto, sendo responsáveis pela análise
+legal das contratações e por todo o arcabouço legal necessário à consecução do objeto.
+
+Conta ainda, com a Secretaria Municipal de Finanças que ficará responsável pela gestão financeira do projeto.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+(i) Em relação às obras de Macrodrenagem a Prefeitura Municipal de Campinas dispõe dos projetos básicos, sendo que os executivos
+estarão contemplados conjuntamente com a execução das obras. Em relação aos projetos de Parques Lineares está sendo elaborado o
+Termo de Referência para contratação do Projeto Básico.
+
+(ii) Não se aplica
+
+(iii) Experiência com a contratação de Recursos do OGU (Orçamento geral da União) junto ao Governo Federal e outras instituições
+financeiras.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 14
+
+A Experiência que o órgão executor obteve junto ao agente financeiro foi a aprovação preliminar de demandas em infraestrutura urbana
+entre os anos de 2017 a 2018, não logrando êxito na contratação em virtude do CAPAG que à época impossibilitou o Município de
+celebrar novas operações.
+
+(iv) e (v) Riscos e Ações Mitigadoras
+
+Todos os processos licitatórios da Prefeitura Municipal de Campinas são geridos pela Secretaria Municipal de Administração, órgãos este
+com vasta experiência na condução de certames licitatórios, inclusive com a contratação de obras de grande porte com a implantação de
+corredores BRT no valor de R$ 500 milhões.
+
+Conta ainda com os técnicos da Secretaria de Infraestrutura com larga experiência na elaboração de todas as peças técnicas necessárias
+à abertura do processo licitatório, obedecendo ainda, todas as normas técnicas e aspectos legais que envolvem um processo de licitação
+pública minimizando a possibilidade da ocorrência de questionamentos técnicos que por ventura possam invalidar o processo.
+
+IMPACTOS NO TRÂNSITO
+
+Em que pese as obras serem executadas em áreas isoladas do município, poderão ocorrer intervenções pontuais em vias do entorno em
+virtude das obras, sendo que a Prefeitura Municipal de Campinas, através da EMDEC ? empresa municipal responsável pela gestão das
+questões de trânsito no município ? será responsável pela implementação de ações que minimizarão tais impactos à população.
+
+Salientamos que a EMDEC participa ativamente de todas as ações que envolvem impacto no trânsito nas imediações das diversas obras
+em andamento no município, auxiliando os demais órgãos da municipalidade, além de promover ações constantes de conscientização dos
+condutores e pedestres no tocante aos aspectos de segurança e circulação viária.
+
+COMBATER A CORRUPÇÃO EM TODAS AS SUAS FORMAS INCLUSIVE EXTORSÃO E PROPINA
+
+- Instituição de setores de controle interno em todas as Secretarias da Administração Pública, soba a supervisão da Secretaria Municipal
+de Gestão e Controle
+
+- Estatuto do Funcionário Público Municipal, com as regras de condutas a serem seguidas pelos servidores.
+
+- Canal de denúncias com possibilidade de denúncia anônima
+
+- Transparência: Portal da Transparência.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Para a implantação dos reservatório de contenção para amortecimento de cheias, foram escolhidas áreas públicas evitando assim a
+necessidade de se proceder com a efetivação de desapropriações.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+(i) Com relação aos licenciamentos ambientais será necessário outorga junto ao DAEE (Departamento de Águas e Energia Elétrica do
+Estado de São Paulo) para as intervenções nos cursos d´água e travessias, obtenção para intervenção em área de APP e autorização
+para cortes de árvores junto à secretaria Municipal do Verde e Meio Ambiente do município de Campinas e CETESB (Companhia
+Ambiental do Estado de São Paulo). Estão em fase de preparação da documentação para início das etapas de licenciamento Prévio e de
+Instalação.
+
+Ainda como impactos positivos, a implantação dos parques lineares proporcionarão benefícios à qualidade ambiental e à população
+residente no município. Isso porque, os Parques Lineares possibilitam tanto a promoção de atividades de lazer e esporte, circulação não-
+motorizada, promoção de educação ambiental e cidadania melhorando a qualidade de vida da população, bem como a manutenção,
+regeneração, recuperação de aspectos físicos e bióticos (fauna, flora, recursos hídricos) por meio da recomposição das APPs, medidas de
+manejo de água pluviais, aumento da zona de inundação (amortecimento de enchentes), controle de erosão, com a possibilidade de
+integração de ecossistemas, atuando também como corredores ecológicos.
+
+(ii) Não se aplica
+
+(iii) Considerando que a Prefeitura Municipal de Campinas já contraiu diversos financiamentos para a execução de outros projetos, como
+por exemplo obras com recursos do OGU (Orçamento geral da União) e tais projetos demandaram a elaboração de procedimentos junto
+aos órgão ambientais em esfera municipal, estadual e federal, demonstra desta forma experiência com as políticas ambientais.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 15
+
+(iv) E (v) RISCOS E AÇÕES MITIGADORAS
+
+O Projeto de melhoria da macrodrenagem do Município de Campinas prevê a elaboração de todos os estudos ambientais necessários à
+obtenção das devidas licenças e autorizações ambientais, levantando para tal todas as possíveis interferências e prevendo a mitigação
+dos impactos por ele gerados ao meio ambiente.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+(i), (ii), (iii) e (iv)
+
+RESPEITAR E PROTEGER OS DIREITOS HUMANOS:
+
+-Universalização de infraestrutura básica: estratégia de levar a infraestrutura básica de drenagem e consequentemente o saneamento
+básico para toda a população de Campinas, de forma justa igualitária, com foco na prestação de serviços essenciais para o bem-estar e a
+saúde da população.
+
+-Programa de Proteção Social Básica (PSB): tem como objetivo a prevenção de situações de risco por meio do desenvolvimento de
+potencialidades e aquisições e o fortalecimento de vínculos familiares e comunitários. Destina-se à população que vive em situação de
+vulnerabilidade decorrente da pobreza, ausência de renda, acesso precário ou nulo aos serviços públicos ou fragilização de vínculos
+afetivos (discriminações etárias, étnicas, de gênero ou por deficiências, dentre outras)
+
+IMPEDIR VIOLAÇÕES DE DIREITOS HUMANOS
+
+- Cláusulas de direitos humanos nos editais de licitação e contratos.
+
+- Para contratação de suas obras, a Prefeitura Municipal de Campinas efetua consulta nos órgãos oficiais - Instituto Nacional do Seguro
+Social e Caixa Econômica Federal, com o objetivo de verificar provas de regularidade relativa à seguridade social e ao Fundo de Garantia
+por Tempo de Serviço. As obrigações da empresa vencedora da licitação estão claras desde o edital: deve-se observar as prescrições das
+leis trabalhista, previdenciária, fiscal e securitária, bem como o pagamento de todos os tributos que incidem sobre os trabalhos.
+
+- Fiscalização própria através da Secretaria Municipal de Infraestrutura, que conta em seu quadro com fiscais concursados, visando
+garantir o efetivo cumprimento dos contratos e técnico de segurança do trabalho que garante o cumprimento de todas as legislações
+trabalhistas vigentes.
+
+- Canal de denúncias com possibilidade de denúncia anônima.
+
+APOIAR A LIBERDADE DE ASSOCIAÇÃO E O DIREITO À NEGOCIAÇÃO COLETIVA NO TRABALHO
+
+-Todos os funcionários da Prefeitura Municipal de Campinas têm liberdade de associação ao sindicato.
+
+-Os acordos coletivos firmados com o sindicato beneficiam a todos os servidores públicos.
+
+ABOLIR O TRABALHO FORÇADO OU COMPULSÓRIO
+
+- Para garantir a integridade dos trabalhadores terceirizados e impedir o trabalho degradante, todos os contratos para obras têm cláusulas
+que exigem dos fornecedores certificados de treinamento dos empregados para o uso correto de Equipamentos de proteção, treinamentos
+em trabalhos com eletricidade, em espaço confinado e em altura, além da presença de profissional legalmente habilitado, responsável
+para os trabalhos com eletricidade e/ou em segurança do trabalho.
+
+- Estatuto do Funcionário Público Municipal, com as regras de condutas a serem seguidas pelos servidores.
+
+- Canal e denúncias com possibilidade de denúncia anônima
+
+ERRADICAR O TRABALHO INFANTIL
+
+- Os contratos também preveem que não ocorra o trabalho infantil, pois exigem que cada empregado dos fornecedores tenha contrato de
+trabalho com registros realizados conforme CLT
+
+- Canal de denúncias com possibilidade de denúncia anônima
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 16
+
+ELIMINAR A DISCRIMINAÇÃO NO AMBIENTE DE TRABALHO
+
+- No Município de Campinas, mulheres têm salários iguais aos dos homens quando exercem as mesmas funções e Igualdade de
+oportunidade
+
+- Estatuto do Funcionário Público Municipal, com as regras de condutas a serem seguidas pelos servidores.
+
+- Canal de denúncias com possibilidade de denúncia anônima
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Informamos que atualmente não identificou-se a necessidade de reassentamento de famílias, pois as obras serão realizadas em áreas
+públicas sem ocupações.
+
+Não obstante, caso seja verificado no detalhamento do projeto executivo a existência de ocupações irregulares caberá à Secretaria
+Municipal de Habitação as providências quanto a remoção e realocação das famílias.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+- 20/09/2023: Retirada de pauta pela 166ª Cofiex (01/06/2023) por exceder o limite disponível para esta reunião.
+
+Informações relevantes
+
+(cid:10)

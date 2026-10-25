@@ -1,0 +1,2501 @@
+# Carta-Consulta CC_60995 — Versao 3 (SIGS)
+
+
+PROGRAMA DE EXPANSÃO DO ACESSO E ELEVAÇÃO DA QUALIDADE DA EDUCAÇÃO
+PROFISSIONAL E TECNOLÓGICA NO ESTADO DO PARÁ
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 60995
+Processo: 03101.101951/2023-50
+Mutuário: Estado do Pará
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  20 de Julho de 2023
+
+Fontes Internas:
+Contrapartida Financeira: US$ 30.400.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 121.600.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+(I)Contexto e desafios da rede pública de Ensino Profissional e Tecnológico (EPT) do Estado do Pará.
+
+O Estado do Pará possui uma população estimada em 8.116.132 pessoas, de acordo com o Censo do IBGE (2022), sendo assim o 9º com
+maior população no Brasil. É o segundo maior Estado do país em extensão territorial, porém apenas o 21º em densidade demográfica.
+Em relação aos indicadores de renda e desenvolvimento humano, possui renda nominal per capita de R$1.061 (IBGE, 2022), obtendo a
+20ª posição no país. Seu IDH (Índice de Desenvolvimento Humano) é de 0,646, o que corresponde à vigésima quarta posição dentre os
+estados brasileiros (IBGE, 2022).
+
+Atualmente são ofertadas pelo Estado do Pará cerca de 14.000 vagas de EPT, distribuídas entre os modelos de Educação Profissional
+Técnica Integrada ao Ensino Médio, Educação Profissional Técnica Concomitante ao Ensino Médio e Educação Profissional Técnica
+Subsequente ao Ensino Médio. A Secretaria de Estado de Ciência, Tecnologia e Educação Superior, Profissional e Tecnológica (Sectet/
+PA) é responsável por gerir as 33 escolas do EPT (EETEPAS) do Estado.
+
+O estado enfrenta o desafio de atender a extensão de seu território, resultando em disparidades no acesso ao EPT entre suas regiões.
+Para superar tal desafio, o estado está empenhado em ampliar o atendimento, com prioridade para públicos vulneráveis, como as
+populações indígenas, ribeirinhas e quilombolas. Busca também oferecer cursos e programas educacionais que atendam às necessidades
+específicas das mulheres, visando à promoção da igualdade de oportunidades. Além disso, o estado enfrenta outros desafios específicos
+em termos de abandono e inserção no mercado de trabalho
+
+(II)Desafios sobre abandono, motivação e adequação aos interesses dos estudantes.
+
+No Pará, apenas 54% dos jovens concluem o Ensino Médio até os 19 anos (Anuário Brasileiro da Educação Básica 2021). O estado conta
+com a segunda maior taxa de abandono do Ensino Médio entre as Unidades Federativas do país, 10,8% (INEP, 2022). A pesquisa
+Educação Já 2022, realizada pelo Datafolha, identificou que os estudantes paraenses desejam se preparar para as suas futuras profissões
+. 96% dos alunos respondentes no estado afirmaram que deveriam existir formações voltadas para o mercado de trabalho, enquanto 90%
+concordam com a indicação de que deveriam poder escolher áreas para aprofundar seus estudos e 91% concordam que utilizar a
+tecnologia poderia ajudar a melhorar a qualidade das escolas.
+
+Entre os jovens matriculados no Ensino Médio no Pará, 19% afirmaram terem pensado sobre abandonar a escola durante o último ano.
+Por outro lado, 46% dos jovens entrevistados não conhecem o EPT, enquanto 12% se consideram mal-informados sobre o tema.
+
+(III)Desafios sobre a inserção de jovens no mercado de trabalho.
+
+Já em relação às percepções do mercado de trabalho sobre o Ensino Técnico, a Pesquisa Inclusão Produtiva de Jovens com ensino
+médio e técnico: experiências de quem contrata (Fundação Roberto Marinho) traz entre seus resultados informações diretamente ligadas
+com o próprio Ensino Técnico.
+
+Em comparação com os jovens com ensino médio completo, aqueles formados no técnico têm mais chance de estarem ocupados em
+empregos formais. Além disso, conseguem acessar mais vagas de nível técnico em serviços de maior valor agregado (como comunicação
+, tecnologia, saúde etc.). Entre as empresas participantes do levantamento, 38% consideram a contratação para cargos médios/técnicos
+difícil ou muito difícil. Em termos de conhecimentos técnicos, essas empresas destacam a desatualização das formações. Há uma
+percepção de que o conhecimento oferecido nos cursos técnicos tem tempo de validade cada vez mais curto, incompatível com o longo
+tempo de conclusão dos cursos. Ademais, cerca de metade das empresas declara que poderia contribuir com ensino técnico pela prática
+de trabalho, por meio de formações ou vagas de estágio ou aprendizagem.
+
+Por fim, uma análise econométrica do efeito da educação profissional na renda, baseada na Pesquisa Nacional por Amostra de Domicílios
+(PNAD), do Instituto Brasileiro de Geografia e Estatística (IBGE), mostra efeitos positivos: Ter realizado um curso técnico de nível médio
+proporciona uma vantagem salarial de 9,7%, comparado a um aumento salarial, em média, de 2,2% com curso curto de formação inicial.
+
+Anexos relevantes para apoiar a sessão acima: A0 (Guia de Anexos), A2 (Pará em Números), A6 (Mapa da Exclusão Social 2022).
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+(I)Solução Proposta
+
+O Governo do Estado do Pará, por meio da Sectet/PA, busca apoio financeiro do Banco Interamericano de Desenvolvimento (BID) para
+implementar o Programa de Expansão do Acesso e da Qualidade da Educação Profissional e Tecnológica (PROETEC/PA). Esse
+programa tem como objetivo investir na infraestrutura das escolas técnicas, na formação dos professores e na atualização dos currículos,
+alinhando-os às necessidades e vocações da cadeia produtiva nas diferentes regiões de integração do Pará. Além disso, busca garantir o
+acesso ao EPT para todas as camadas da população, especialmente as mais vulneráveis, visando promover a igualdade de
+oportunidades e o desenvolvimento socioeconômico do estado.
+
+O financiamento do BID permitirá a construção de escolas de referência e o investimento em tecnologia, materiais e laboratórios
+necessários para o pleno funcionamento dos cursos. Isso contribuirá para ampliar o acesso e melhorar a qualidade da oferta da educação
+profissional no Pará, especialmente nas regiões com menor cobertura, que atualmente apresentam uma distribuição desigual, concentrada
+principalmente na região metropolitana.
+
+(cid:10)
+
+
+Página: 3
+
+Dentre as principais ações do programa, destaca-se a adaptação da oferta do EPT às necessidades e demandas dos arranjos produtivos
+locais, levando em consideração as novas profissões decorrentes do avanço tecnológico. Busca-se evitar cursos com conteúdo limitados e
+suscetíveis à obsolescência, promovendo uma reorganização da oferta de educação profissional de forma a torná-la mais competitiva e
+atrativa para os estudantes. Será também implementado um sistema de acompanhamento e avaliação dos estudantes formados na rede
+pública, integrado com o próprio sistema de monitoramento da qualidade do EPT.
+
+A expansão do EPT de nível médio contemplará regiões de vulnerabilidade socioeconômica, periferias urbanas, localidades com demanda
+reprimida e disponibilidade de terreno para construção. Serão construídas escolas equipadas com laboratórios específicos para práticas
+profissionais, com o objetivo de ampliar a inserção dos jovens no mercado de trabalho. Parcerias com empresas serão estabelecidas para
+proporcionar experiências profissionais iniciais aos estudantes. Além disso, será criado um sistema de ensino a distância do EPT, visando
+atender cursos mais específicos e comunidades isoladas, conforme o modelo do Sistema de Ensino Interativo (SEI) da Secretaria de
+Educação do Estado.
+
+A priorização de cursos do EPT voltados para os temas de Bioeconomia/Biotecnologia visa beneficiar tanto as pessoas quanto o arranjo
+produtivo local e o meio ambiente. Busca-se valorizar a biodiversidade da região, formando estudantes e impulsionando a cadeia produtiva
+para promover a Bioeconomia/Biotecnologia como a principal atividade econômica do Pará.
+
+(II)Resultados esperados
+
+Os resultados esperados para Programa de Expansão do Acesso e Elevação da Qualidade do EPT do Pará são:
+
+-Aumento da empregabilidade dos jovens do estado do Pará;
+
+-Aumento da quantidade de matrículas do EPT da Rede Estadual do Pará, tanto na modalidade presencial, quanto por métodos online;
+
+-Aumento da quantidade de matrículas no Ensino Médio articulado com o EPT (Concomitante/Integrado) da Rede Estadual do Pará, tanto
+na modalidade presencial, quanto por métodos online;
+
+-Aumento da quantidade de matrículas no EPT da Rede Estadual do Pará para públicos em situação de vulnerabilidade social, tais como
+indígenas, quilombolas e ribeirinhos, tanto na modalidade presencial, quanto por métodos online;
+
+-Expansão do acesso ao EPT em todas as regiões de integração do estado;
+
+-Melhoria da percepção da qualidade da infraestrutura do EPT de ensino médio, medido através do SAEB/INEP;
+
+-Diminuição da evasão no Ensino Médio;
+
+-Currículos do EPT adaptados para a necessidade dos arranjos produtivos locais;
+
+-Professores do EPT formados, com base nos currículos adaptados, com foco especial nas áreas de Bioeconomia/Biotecnologia;
+
+(III)Sustentabilidade
+
+O aumento da oferta de cursos do EPT resultará em um maior repasse do governo federal por meio do FUNDEB, que possui um valor
+mais elevado para cursos em tempo integral e cursos do EPT. Neste contexto, o valor anual por aluno pago no âmbito do FUNDEB (R$ 6.
+772,90) serve como uma referência relevante para avaliar e acompanhar o impacto financeiro dessa ampliação. Também resultará na
+utilização de recursos do PRONATEC, que tem um valor proporcional de repasse para cursos do EPT, em especial os do tipo FIIC e
+subsequentes, que não podem ser financiados via FUNDEB. Desta forma, os repasses da união financiarão a operacionalização da
+expansão, enquanto o financiamento garantirá o investimento necessário. Além disso, as obras serão feitas visando otimizar o custo
+unitário de cada estudante, com escolas maiores, sempre que possível, e com materiais/equipamentos resilientes e sustentáveis, que
+diminuem o custo operacional das escolas e diminuem o consumo de água e energia. O sistema do EPT a distância deverá diminuir o
+deslocamento de alunos e professores, o que diminuirá o custo de transporte dos alunos. Operacionalmente, o empréstimo também prevê
+um investimento para melhoria dos processos e sistemas da Sectet, melhorando a qualidade de tomada de decisão e aumentando a
+eficiência do investimento público. Também cabe destacar que o Estado do Pará utiliza royalties da mineração para investir no EPT,
+viabilizando tanto a execução como a manutenção do projeto.
+
+A viabilidade econômica do investimento resultará na geração de empregabilidade e no desenvolvimento econômico da região,
+impulsionando o crescimento do estado e gerando um efeito cascata positivo na cadeia produtiva. A infraestrutura sustentável e resiliente
+proporcionará uma operação com custos reduzidos, além de promover boas práticas para futuras operações, garantindo a eficiência e o
+uso responsável dos recursos disponíveis. Além disso, é importante ressaltar que os custos futuros de manutenção do projeto estão
+diretamente relacionados à oferta regular de cursos, que envolvem despesas com pagamento de pessoal e outros gastos relacionados à
+manutenção e ao desenvolvimento do ensino.
+
+Anexos relevantes para apoiar a sessão acima: A0 (Guia de Anexos), A1.1 (Resultados esperados_Objetivos).
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+(I)Orientações Estratégicas
+
+(cid:10)
+
+
+Página: 4
+
+O PROETEC/PA está alinhado com a Meta 11 do PNE, relacionada com a educação profissional, bem como o próprio PRONATEC, que
+visa ampliar a oferta de cursos do EPT, além de iniciativas como o Programa Mulheres Mil (formação de mulheres em situação de
+vulnerabilidade), e a linha Bioeconomia para a Amazônia Legal, (que permite aos setores produtivos a redução de seu impacto ambiental).
+Considerando o EPT Concomitante, também tem relação direta com o Programa Escola em Tempo Integral, aprovado por ambas as
+casas legislativas.
+
+Também guarda relação com o Plano Estadual de Bioeconomia do Pará, que busca proteger e valorizar práticas tradicionais, integrando o
+desenvolvimento com a preservação do patrimônio genético. O EPT desempenha um papel na difusão de conhecimentos e sua aplicação
+prática. Na área de Cadeias Produtivas e Negócios Sustentáveis, o programa visa valorizar produtos da biodiversidade, agregando
+características regionais. Busca também promover investimentos e fortalecer negócios relacionados à sociobiodiversidade, gerando
+desenvolvimento local, emprego, renda e distribuição equitativa. Em âmbito nacional o Plano de Transição Ecológica, que tem como um
+de seus eixos o incentivo de ações de fomento à bioeconomia, também tem relação com o programa, por meio do desenvolvimento de
+condições para a criação de produtos e serviços relacionados à biodiversidade brasileira e o aumento da demanda por produtos e serviços
+da bioeconomia nacional.
+
+O projeto também converge com o PPA 2024-2027 do Estado do Pará (Anexo A3 1). O plano fomenta pesquisas científicas e tecnológicas
+, promoção do empreendedorismo e fortalecimento de polos tecnológicos, alinhados ao desenvolvimento do EPT. Contempla a reforma,
+ampliação e construção de unidades escolares, bem como a modernização desses espaços, possibilitando a qualificação profissional. A
+formação continuada para profissionais da rede de ensino também é essencial para o aprimoramento do EPT, objetivo compartilhado pelo
+PPA e pelo PROETEC.
+
+(II)Contrapartida
+
+A proposta apresentada pelo Estado cumpre o disposto na Resolução nº 17, de 7 de junho de 2019, que dispõe sobre os critérios
+considerados com relação aos pleitos de operação de crédito externo, pela COFIEX. Assim, a contrapartida acompanha o piso mínimo de
+20% do valor total do Programa a ser financiado.
+
+Desde 2020 (Lei n° 9.104, de 14 de julho de 2020), o EPT é responsabilidade da Sectet/PA, que se compromete por toda a execução dos
+programas, inclusive o ensino médio quando integrado ao EPT e ao PRONATEC, nas formas demandante e ofertante.
+
+(III)Taxa de Câmbio
+
+US$ 1.00 = R$ 4,89, conforme cotação do Banco Central em 09/01/2023.
+
+Anexos relevantes para apoiar a sessão acima: A0 (Guia de Anexos), A3 (PPA 2020-2023), A4 (Plano Estadual de Bioeconomia), A5 (
+Plano Estadual de Educação), A12, A13, A14 (Validação SECTET PPA), A15 (Plano BIO).
+
+2. Projeto
+
+### 2.1. Título
+
+
+PROGRAMA DE EXPANSÃO DO ACESSO E ELEVAÇÃO DA QUALIDADE DA EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA NO
+ESTADO DO PARÁ
+
+
+### 2.2. Título Abreviado
+
+PROETEC-PA
+
+
+### 2.3. Mutuário
+
+
+Estado do Pará
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Objetivo Geral
+
+O Programa tem como objetivo geral aumentar a empregabilidade do jovem no Estado do Pará, em especial dos mais vulneráveis.
+
+Objetivos Específicos
+
+Os objetivos específicos do programa são:
+
+- Expandir e melhorar a cobertura, física e virtual, do EPT no Estado do Pará, através da construção/expansão de escolas e da
+implementação do sistema do EPT a distância, sobretudo em regiões com baixa cobertura;
+
+- Aumentar a Taxa de Conclusão dos Jovens no Ensino Médio, através da adequação dos currículos e da formação e/ou certificação de
+professores;
+
+(cid:10)
+
+
+Página: 5
+
+- Preparar jovens para o desenvolvimento da bioeconomia e da biotecnologia do Estado do Pará, através da criação de cursos avançados/
+especializados na temática;
+
+Anexos relevantes para apoiar a sessão acima: A0 (Guia de Anexos), A1.1 (Resultados esperados_Objetivos).
+
+
+### 2.6. Projeto/Indicadores
+
+
+Descrição
+Taxa de jovens de 18 a 24 anos que não
+trabalham e nem estudam no Estado Pará
+Número de matrículas de EPT (Articulada) ao
+Ensino Médio no Pará
+
+Número de matriculas de EPT (Subsequente) no
+Estado do Pará
+
+Taxa de estudantes concluintes do EPT (
+Subsequente)
+
+Proporção de alunos cursando o  Ensino Médio
+articulado com a EPT
+
+Taxa de estudantes concluintes do EPT (
+Articulado)
+
+Número de estudantes provenientes de
+comunidades vulneráveis (indígenas,
+quilombolas e ribeirinhos) que concluem o EPT (
+Articulado)
+
+Número de estudantes provenientes de
+comunidades vulneráveis (indígenas,
+quilombolas e ribeirinhos) que concluem o EPT (
+Subsequente)
+
+Número de regiões de integração que possuam
+pelo menos 15% dos alunos do Ensino Médio
+matriculados no Ensino Profissional e
+Tecnológico
+
+Taxa de professores de EPT Integrado que
+consideram a infraestrutura escolar adequada ou
+parcialmente adequada
+Taxa de abandono do Ensino Médio no Pará
+
+Taxa de reprovação no Ensino Médio no Pará
+
+Percentual de currículos de EPT adaptados para
+os arranjos produtivos locais
+
+Absoluto
+
+Absoluto
+
+Absoluto
+
+Percentual
+
+Percentual
+
+Percentual
+
+Percentual
+
+Fórmula de Cálculo Unidade de Medida
+PNAD (Dados
+referentes ao Pará)
+Número de matrículas
+de EPT (Articulada)
+ao Ensino Médio no
+Pará
+Número de matriculas
+de EPT (Subsequente
+) no Estado do Pará
+[nº de estudantes que
+concluiram o EPT
+subsequente/nº de
+estudantes que se
+matricularam no EPT
+subsequente]
+[nº de estudantes
+matriculados no EPT
+Articulado/nº de
+estudantes
+matriculados no
+Ensino Médio]
+[nº de estudantes que
+concluíram o EPT
+articulado/nº de
+estudantes que se
+matricularam no EPT
+articulado]
+Número de
+estudantes
+provenientes de
+comunidades
+vulneráveis (indígenas
+, quilombolas e
+ribeirinhos) que
+concluem o EPT (
+Articulado)
+Número de
+estudantes
+provenientes de
+comunidades
+vulneráveis (indígenas
+, quilombolas e
+ribeirinhos) que
+concluem o EPT (
+Subsequente)
+[nº de regiões de
+integração que
+possuam  pelo menos
+15% dos alunos do
+Ensino Médio
+matriculados no
+Ensino Profissional e
+Tecnológico/nº de
+regiões do Pará]
+SAEB (Sistema
+Nacional de Avaliação
+da Educação Básica)
+FAPESPA. Adaptado
+de MEC-INEP/SEDUC
+, 2022.
+FAPESPA. Adaptado
+de MEC-INEP/SEDUC
+, 2022.
+[currículos de EPT
+adaptados para os
+arranjos produtivos
+locais/currículos de
+EPT existentes]
+
+Percentual
+
+Percentual
+
+Percentual
+
+Percentual
+
+Absoluto
+
+Absoluto
+
+
+Página: 6
+
+Meta
+24,40
+
+Linha de Base
+30,50
+
+13.210,00
+
+25.099,00
+
+10.230,00
+
+19.437,00
+
+0,00
+
+80,00
+
+6,74
+
+15,00
+
+0,00
+
+95,00
+
+0,00
+
+1.255,00
+
+0,00
+
+972,00
+
+0,00
+
+12,00
+
+41,00
+
+15,60
+
+11,10
+
+70,00
+
+8,20
+
+5,50
+
+0,00
+
+100,00
+
+
+Página: 7
+
+Absoluto
+
+0,00
+
+1.800,00
+
+Número de professores de EPT formados, com
+base nos currículos adaptados, com foco
+especial nas áreas de Bioeconomia/
+Biotecnologia;
+
+Número de
+professores de EPT
+formados, com base
+nos currículos
+adaptados, com foco
+especial nas áreas de
+Bioeconomia/
+Biotecnologia;
+
+
+### 2.7. Projeto/Componentes
+
+
+Componentes
+C - COBERTURA E QUALIDADE DE INFRAESTRUTURA
+P - Escolas reformadas e ampliadas habilitadas para operação da EPT
+P - Novas escolas construídas em regiões do Pará com cobertura inadequada
+P - Equipamentos de informática e de laboratórios
+P - Sistema de cursos técnicos online em funcionamento
+C - OFERTA DE CURSOS
+S - AJUSTES NA OFERTA DE CURSOS
+P - Currículos adaptados e aprovados pelo conselho estadual de educação para os cursos técnicos conectados
+com os arranjos produtivos locais e com os pilares da Bioeconomia/Biotecnologia
+P - Formações de professores e coordenadores para a EPT para os temas de maior relevância local
+P - Campanhas informacionais sobre a EPT, com foco nos cursos com baixa demanda e alta relevância local
+P - Relatórios aprovados sobre a implementação de ações para melhorar a transição entre a Educação Básica e
+o Mercado de Trabalho
+S - ADEQUAÇÃO PARA A BIOECONOMIA/BIOTECNOLOGIA
+P - Professores formados nos programas de formação continuada sobre os temas de Bioeconomia/Biotecnologia
+P - Identificação das vocações específicas das cidades atingidas pelo programa em relação à Bioeconomia/
+Biotecnologia
+P - Caminho facilitado para os estudantes de temas de Bioeconomia/Biotecnologia para o Ensino Superior
+P - Laboratórios de Bioeconomia/Biotecnologia equipados e prontos para a operação
+C - PRÁTICAS DE GESTÃO
+P - Estruturação da área de planejamento da SECTET
+P - Processos e sistemas de gestão redesenhados e implementados
+P - Sistema de monitoramento da qualidade de EPT
+C - ADMINISTRAÇÃO DO PROGRAMA
+P - Unidade de Gestão do Programa
+P - Auditoria
+P - Consultoria de Gestão e Monitoramento do Projeto
+P - Supervisão de Obras
+P - Avaliação de Impacto
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Valor(US$)
+126.575.000,00
+10.500.000,00
+95.000.000,00
+11.075.000,00
+10.000.000,00
+13.200.000,00
+2.800.000,00
+1.000.000,00
+
+1.000.000,00
+400.000,00
+400.000,00
+
+10.400.000,00
+2.000.000,00
+400.000,00
+
+500.000,00
+7.500.000,00
+5.800.000,00
+1.000.000,00
+2.000.000,00
+2.800.000,00
+6.425.000,00
+1.000.000,00
+425.000,00
+2.000.000,00
+2.000.000,00
+1.000.000,00
+152.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - COBERTURA E QUALIDADE DE INFRAESTRUTURA
+Disponibilidade e condições adequadas dos recursos físicos e tecnológicos, essenciais para proporcionar um ambiente propício à
+aprendizagem e garantir a qualidade da educação oferecida aos estudantes.
+
+P - Escolas reformadas e ampliadas habilitadas para operação da EPT
+Atualização das escolas, tanto as já são utilizadas para a EPT no Pará, quanto outras unidades, realizando reformas e ampliações
+para habilitar a sua operação de forma condizente com às necessidades pedagógicas da EPT, com ambientes projetados para
+atividades práticas e experimentais.
+Unidade de Medida: Unidade
+Meta: 3
+Categoria de Gasto: Obras
+
+P - Novas escolas construídas em regiões do Pará com cobertura inadequada
+Identificação das regiões do Estado que necessitam de novas vagas e novas escolas de EPT, analisando o tamanho de sua
+população, sua importância econômica, a vulnerabilidade de suas populações, as cidades que as compõe e outros aspectos
+relevantes.
+Unidade de Medida: Unidade
+Meta: 19
+Categoria de Gasto: Obras
+
+
+Página: 8
+
+P - Equipamentos de informática e de laboratórios
+Adaptação de laboratórios já existentes e construção de novos espaços, projetados para oferecer atividades práticas e
+experimentais de EPT e em tecnologias da informação e comunicação, com recursos e equipamentos atualizados, permitindo o
+desenvolvimento de habilidades e competências necessárias para atuar em áreas que exigem o uso dessas tecnologias. Além
+disso, será analisada a possibilidade da disponibilização de equipamentos para os estudantes.
+Unidade de Medida: Unidade
+Meta: 55
+Categoria de Gasto: Bens
+
+P - Sistema de cursos técnicos online em funcionamento
+Implementação de um ambiente virtual de aprendizagem que permite o acesso a conteúdos educacionais e recursos pedagógicos,
+com metodologias ativas de ensino e interação entre professores e alunos de EPT do Pará, pela internet.
+Unidade de Medida: Mês
+Meta: 24
+Categoria de Gasto: Contratação de serviço que não de consultoria
+
+C - OFERTA DE CURSOS
+Disponibilidade de programas de formação profissional que abordem habilidades práticas e teóricas necessárias para o exercício
+de profissões específicas, contribuindo para sua inserção e progressão profissional.
+
+S - AJUSTES NA OFERTA DE CURSOS
+Modificações nos programas, visando atender demandas específicas. Isso pode envolver a criação de novos cursos, atualização
+de currículos, adaptação à infraestrutura e carga horária.
+
+P - Currículos adaptados e aprovados pelo conselho estadual de educação para os cursos técnicos conectados com
+os arranjos produtivos locais e com os pilares da Bioeconomia/Biotecnologia
+Aprovação de programas de estudo desenvolvidos para atender às necessidades das regiões do Pará, visando a formação de
+profissionais capacitados e alinhados às demandas locais. Esses currículos buscam uma abordagem mais prática, envolvendo
+projetos e atividades voltadas para capacitar os alunos para atuarem nas áreas da Bioeconomia/Biotecnologia, como Cadeias
+Produtivas e Negócios Sustentáveis, Patrimônio Cultural e Genético.
+Unidade de Medida: Mês
+Meta: 12
+Categoria de Gasto: Consultoria
+
+P - Formações de professores e coordenadores para a EPT para os temas de maior relevância local
+Realização de programas de capacitação e treinamento para educadores da EPT no Pará, focados em temas prioritários para a
+região. O objetivo é aprimorar o conhecimento técnico e pedagógico dos docentes e coordenadores, capacitando-os para atender
+às demandas do mercado de trabalho e contribuir para o desenvolvimento socioeconômico local.
+Unidade de Medida: Unidade
+Meta: 600
+Categoria de Gasto: Capacitação e Treinamento
+
+P - Campanhas informacionais sobre a EPT, com foco nos cursos com baixa demanda e alta relevância local
+Realização de campanhas para aumentar a conscientização da população sobre a importância da EPT e incentivar a procura pelos
+cursos mais pertinentes para cada região, contribuindo assim para o desenvolvimento da região em questão.
+Unidade de Medida: Unidade
+Meta: 5
+Categoria de Gasto: Contratação de serviço que não de consultoria
+
+P - Relatórios aprovados sobre a implementação de ações para melhorar a transição entre a Educação Básica e o
+Mercado de Trabalho
+Elaboração de documentos que descrevem e analisam as medidas adotadas para preparar os estudantes da EPT para o mercado
+de trabalho. Esses relatórios avaliam os resultados alcançados, identificam novas estratégias e fornecem subsídios para a tomada
+de decisão dos gestores educacionais, com o objetivo de formar profissionais qualificados e competitivos. O foco estará na análise
+dos resultados e no impacto das ações implementadas, visando identificar boas práticas e direcionar políticas educacionais e
+trabalhistas futuras que melhorem a experiência de transição dos jovens, promovendo acessibilidade, oportunidade e qualificação
+profissional.
+Servem também como subsídio para planejar e executar parcerias com empresas, inclusive as micro e pequenas, que compõe
+parte significativa do arranjo produtivo local.
+Unidade de Medida: Unidade
+Meta: 3
+Categoria de Gasto: Consultoria
+
+S - ADEQUAÇÃO PARA A BIOECONOMIA/BIOTECNOLOGIA
+Ajustes nos currículos educacionais, estabelecimento de parcerias e estímulo à pesquisa e inovação nos temas de bioeconomia e
+biotecnologia. O objetivo é capacitar os estudantes com habilidades necessárias para atuar de forma sustentável e competitiva em
+tais áreas.
+
+
+Página: 9
+
+P - Professores formados nos programas de formação continuada sobre os temas de Bioeconomia/Biotecnologia
+Formação de professores, capacitando-os para transmitir conhecimentos atualizados e relevantes, formando profissionais nos
+temas de Bioeconomia/Biotecnologia e promovendo a integração da EPT com o setor produtivo. Este componente também
+abrangerá a formação de professores da Secretaria de Educação (SEDUC/PA).
+Unidade de Medida: Unidade
+Meta: 1.200
+Categoria de Gasto: Capacitação e Treinamento
+
+P - Identificação das vocações específicas das cidades atingidas pelo programa em relação à Bioeconomia/
+Biotecnologia
+Análise e mapeamento das potencialidades e recursos naturais de cada região do Estado, com o objetivo de identificar as
+atividades econômicas mais viáveis e sustentáveis em cada localidade. Com base nessas informações, é possível direcionar os
+investimentos e as ações do programa para as atividades mais adequadas e com maior potencial de desenvolvimento
+socioeconômico e sustentabilidade ambiental.
+Unidade de Medida: Mês
+Meta: 12
+Categoria de Gasto: Consultoria
+
+P - Caminho facilitado para os estudantes de temas de Bioeconomia/Biotecnologia para o Ensino Superior
+Implementação de medidas estratégicas para promoção de uma transição bem-sucedida dos alunos de cursos de EPT na área de
+Bioeconomia/Biotecnologia para o Ensino Superior. Isso inclui a articulação de parcerias institucionais, orientação acadêmica com
+informações sobre cursos superiores relacionados, adaptação curricular alinhando conteúdos e competências, valorização das
+competências adquiridas para ingresso em cursos específicos (evitando duplicação de disciplinas) e suporte contínuo para garantir
+a permanência e sucesso dos estudantes no Ensino Superior. Essas ações buscam promover acessibilidade, oportunidades e
+qualificação profissional, contribuindo para o êxito dos alunos na trajetória educacional na área de Bioeconomia/Biotecnologia.
+Unidade de Medida: Mês
+Meta: 72
+Categoria de Gasto: Outros
+
+P - Laboratórios de Bioeconomia/Biotecnologia equipados e prontos para a operação
+Implementação de laboratórios com equipamentos e tecnologias adequados para realizar experimentos e análises práticas
+relacionadas à Bioeconomia/Biotecnologia. Esses laboratórios são importantes para o desenvolvimento de estudos e pesquisas,
+bem como para a formação de profissionais capacitados para atuar na área, gerando emprego e renda.
+Unidade de Medida: Unidade
+Meta: 22
+Categoria de Gasto: Bens
+
+C - PRÁTICAS DE GESTÃO
+Estratégias e técnicas utilizadas para administrar projetos de forma eficiente. Isso envolve planejamento, organização, liderança e
+controle das atividades.
+
+P - Estruturação da área de planejamento da SECTET
+Desenho dos processos, dos papéis e responsabilidades, das rotinas de acompanhamento e dos indicadores de monitoramento
+para a área de planejamento da SECTET, de forma a otimizar a tomada de decisão de quais cursos, onde e quantas matrículas
+abrir ou fechar no estado do Pará.
+Unidade de Medida: Mês
+Meta: 24
+Categoria de Gasto: Consultoria
+
+P - Processos e sistemas de gestão redesenhados e implementados
+Revisar e redesenhar os principais processos e sistemas da SECTET, aumentando a eficiência da Secretaria. Implementar os
+processos redesenhados.
+Unidade de Medida: Mês
+Meta: 36
+Categoria de Gasto: Consultoria
+
+P - Sistema de monitoramento da qualidade de EPT
+Desenhar e implementar um sistema de monitoramento da qualidade de EPT, que deve contar com o monitoramento dos dados
+administrativos, além de pesquisas a serem realizadas com os estudantes, professores e o setor produtivo. Instrumentos de
+avaliação, piloto, sistema para monitoramento frequente. Também realizará o acompanhamento posterior dos estudantes
+concluírem a formação profissional técnica na rede pública.
+Unidade de Medida: Mês
+Meta: 48
+Categoria de Gasto: Contratação de serviço que não de consultoria
+
+C - ADMINISTRAÇÃO DO PROGRAMA
+Coordenação e monitoramento das atividades e recursos. Inclui a definição de metas, alocação de recursos, acompanhamento do
+progresso e garantia da conformidade, visando alcançar os resultados desejados.
+
+
+Página: 10
+
+P - Unidade de Gestão do Programa
+Consultores individuais e outros serviços necessários para a execução do programa. Durante esse período, é esperado um maior
+aumento da quantidade de processos de contratação, requerendo uma maior quantidade de pessoas para executar e supervisionar
+esses processos.
+Unidade de Medida: Mês
+Meta: 72
+Categoria de Gasto: Contratação de serviço que não de consultoria
+
+P - Auditoria
+Serviço de auditoria para revisar os processos realizados e apontar eventuais ajustes. É possível que o TCE-PA, assim como em
+outros projetos do BID, faça essa auditoria. No entanto, esse acordo normalmente ocorre apenas após a assinatura do contrato.
+Unidade de Medida: Ano
+Meta: 6
+Categoria de Gasto: Contratação de serviço que não de consultoria
+
+P - Consultoria de Gestão e Monitoramento do Projeto
+Serviço especializado para orientação e supervisão na condução do projeto, garantindo o acompanhamento eficiente das
+atividades, o cumprimento dos prazos e o alcance dos objetivos estabelecidos, com foco no fortalecimento da equipe de gestão do
+programa.
+Unidade de Medida: Mês
+Meta: 72
+Categoria de Gasto: Consultoria
+
+P - Supervisão de Obras
+Processo de acompanhamento e controle das atividades realizadas durante a construção de um empreendimento. Envolve a
+verificação do cumprimento das especificações técnicas, o controle de qualidade, o monitoramento do cronograma e o
+gerenciamento dos recursos utilizados. O objetivo é garantir a execução adequada e o êxito do projeto.
+Unidade de Medida: Mês
+Meta: 72
+Categoria de Gasto: Contratação de serviço que não de consultoria
+
+P - Avaliação de Impacto
+Análise objetiva dos efeitos gerados pelo programa. Visa identificar as mudanças causadas, avaliando a eficácia e a
+sustentabilidade do programa. Seu objetivo é analisar os resultados e os benefícios alcançados pelos beneficiários.
+Unidade de Medida: Ano
+Meta: 6
+Categoria de Gasto: Contratação de serviço que não de consultoria
+
+
+Página: 11
+
+Meta
+
+Valor
+
+% Financeiro
+
+Unidade de medida
+-
+Unidade
+
+Unidade
+
+-
+Unidade
+Unidade
+
+-
+Mês
+
+-
+3,00
+
+19,00
+
+-
+55,00
+22,00
+
+-
+12,00
+
+105.500.000,00
+10.500.000,00
+
+95.000.000,00
+
+18.575.000,00
+11.075.000,00
+7.500.000,00
+
+6.800.000,00
+1.000.000,00
+
+Categoria de Gasto
+
+Obras
+P- Escolas reformadas e ampliadas habilitadas
+para operação da EPT
+P- Novas escolas construídas em regiões do Pará
+com cobertura inadequada
+Bens
+P- Equipamentos de informática e de laboratórios
+P- Laboratórios de Bioeconomia/Biotecnologia
+equipados e prontos para a operação
+Consultoria
+P- Currículos adaptados e aprovados pelo
+conselho estadual de educação para os cursos
+técnicos conectados com os arranjos produtivos
+locais e com os pilares da Bioeconomia/
+Biotecnologia
+P- Relatórios aprovados sobre a implementação
+de ações para melhorar a transição entre a
+Educação Básica e o Mercado de Trabalho
+P- Identificação das vocações específicas das
+cidades atingidas pelo programa em relação à
+Bioeconomia/Biotecnologia
+P- Estruturação da área de planejamento da
+SECTET
+P- Processos e sistemas de gestão redesenhados
+e implementados
+P- Consultoria de Gestão e Monitoramento do
+Projeto
+Serviços que Não de Consultoria
+P- Sistema de cursos técnicos online em
+funcionamento
+P- Campanhas informacionais sobre a EPT, com
+foco nos cursos com baixa demanda e alta
+relevância local
+P- Sistema de monitoramento da qualidade de
+EPT
+P- Unidade de Gestão do Programa
+P- Auditoria
+P- Supervisão de Obras
+P- Avaliação de Impacto
+Capacitação e Treinamento
+P- Formações de professores e coordenadores
+para a EPT para os temas de maior relevância
+local
+P- Professores formados nos programas de
+formação continuada sobre os temas de
+Bioeconomia/Biotecnologia
+Outros
+P- Caminho facilitado para os estudantes de
+temas de Bioeconomia/Biotecnologia para o
+Ensino Superior
+Total Geral
+
+Unidade
+
+3,00
+
+400.000,00
+
+Mês
+
+Mês
+
+Mês
+
+Mês
+
+-
+Mês
+
+Unidade
+
+Mês
+
+Mês
+Ano
+Mês
+Ano
+-
+Unidade
+
+12,00
+
+24,00
+
+36,00
+
+72,00
+
+-
+24,00
+
+5,00
+
+48,00
+
+72,00
+6,00
+72,00
+6,00
+-
+600,00
+
+400.000,00
+
+1.000.000,00
+
+2.000.000,00
+
+2.000.000,00
+
+17.625.000,00
+10.000.000,00
+
+400.000,00
+
+2.800.000,00
+
+1.000.000,00
+425.000,00
+2.000.000,00
+1.000.000,00
+3.000.000,00
+1.000.000,00
+
+Unidade
+
+1.200,00
+
+2.000.000,00
+
+-
+Mês
+
+-
+
+-
+72,00
+
+500.000,00
+500.000,00
+
+-
+
+152.000.000,00
+
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Em relação ao escopo do projeto, já foram realizadas diversas ações visando a expansão do atendimento do EPT no estado do Pará, por
+meio de modalidades online e matrículas presenciais. Essa expansão é considerada uma prioridade e está inclusa no PPA estadual.
+Destacam-se ações como o edital de credenciamento de pessoas físicas para oferta de cursos presenciais nas regiões do interior do
+estado, em conformidade com a legislação do Pará Profissional. Além disso, foram desenvolvidas iniciativas para atender demandas
+específicas, como o atendimento das populações indígenas, em andamento pela Secretaria de Estado dos Povos Indígenas. Foi firmada
+também uma parceria com a Fundação Itaú para mapear as vocações profissionais nas diferentes regiões, e o desenvolvimento de
+currículos voltados para a área de Bioeconomia. O programa busca ampliar o atendimento, priorizando públicos vulneráveis, como as
+comunidades indígenas e quilombolas, e oferecendo cursos direcionados para mulheres, por meio da adesão à linha Mulheres Mil do
+PRONATEC. Todas essas medidas contribuem para a execução do programa, ampliando o acesso ao EPT e atendendo às demandas de
+diferentes grupos e regiões de forma inclusiva.
+
+69,41
+6,91
+
+62,50
+
+12,22
+7,29
+4,93
+
+4,47
+0,66
+
+0,26
+
+0,26
+
+0,66
+
+1,32
+
+1,32
+
+11,60
+6,58
+
+0,26
+
+1,84
+
+0,66
+0,28
+1,32
+0,66
+1,97
+0,66
+
+1,32
+
+0,33
+0,33
+
+
+Página: 12
+
+Desde julho de 2020, a gestão do EPT no Estado do Pará foi transferida oficialmente da Seduc para a Sectet. Atualmente, 33 unidades
+estão sob a gestão da Secretaria, sendo quatro inauguradas durante esse período: Barcarena, Xinguara, Parauapebas e Breves. De 2021
+a 2023, a oferta de vagas na rede aumentou de 10 mil para mais de 14 mil vagas, atendendo um público total de aproximadamente 28.000
+alunos, abrangendo modalidades como Ensino Médio Integrado, Proeja (Programa para Jovens e Adultos) e Ensino Técnico Subsequente
+e Concomitante. Durante esses quase três anos, também foram realizadas reformas para melhorar a infraestrutura das escolas, além da
+visita da Caravana da Ciência e Tecnologia, projeto voltado para a disseminação do conhecimento científico nas escolas.
+
+Além disso, o Plano Estadual de Bioeconomia/Biotecnologia do Pará busca conciliar as vocações econômicas atuais do estado, como
+mineração, agronegócio e pecuária, com práticas sustentáveis de utilização do solo, da terra e redução de emissão de gases, visando a
+geração de empregos e a atração de investimentos internacionais. O plano identifica os arranjos produtivos locais das diferentes regiões
+paraenses, explorando o potencial do Pará em atividades extrativas de base florestal e biodiversidade, bem como a transformação e
+beneficiamento de bioprodutos. Também valoriza o patrimônio cultural e genético do estado, buscando fortalecer suas cadeias produtivas.
+
+Anexos relevantes para apoiar a sessão acima: A0 (Guia de Anexos), A7 (ENEM por Todo o Pará SECTET), A8 (Plataforma Educa Pará
+SECTET), A9 (Projeto SECTET Quinto Itinerário Formativo), A10 (Lei Pará Profissional), A11 (Plano Trabalho - Cursos Técnicos
+População Indígena), A16 (Credenciamento PARÁ PROFISIONAL), A18 (Curso de Educação Técnica (TVET) de Açaí).
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Sem detalhes
+
+Estado do Pará ()
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+Condições financeiras do BID:
+
+-Valor total da operação de crédito: USD 152.000.000,00
+
+-Prazo de Desembolso: 60 meses
+
+-Prazo de Carência: 72 meses
+
+-Prazo de Amortização: 222 meses, em parcelas semestrais
+
+-Prazo Total: 294 meses
+
+-Periodicidade da Amortização: semestral
+
+-Taxa de juros atual: SOFR + 1.20% a.a.
+
+-Demais encargos e comissões:  até 0.75% sobre o saldo não desembolsado. Recursos para inspeção e supervisão de até 1% do valor do
+empréstimo, cobrado semestralmente durante o prazo original de desembolsos, dividido pelo número de semestres compreendidos no
+prazo original de desembolsos
+
+(ii) Necessidade de financiamento externo e a opção pelo agente financeiro:
+
+Em face do expressivo aumento da taxa de juros internos, considerando uma taxa referencial utilizada pelos agentes financeiros nacionais
+, com base no CDI, persistente na ordem de 13.65% a.a., o financiamento oriundo de fonte externa se constitui um instrumento de custo
+bem menor que os de origem de fontes internas, o qual, ademais, viabiliza apoio mais célere à aplicação em investimentos e políticas
+públicas pelos entes da Federação, necessários à melhoria do acesso, garantia e expansão de serviços públicos de qualidade,
+indispensáveis ao pleno desenvolvimento sustentável do Estado do Pará. Ademais, o Estado sozinho, fundamentalmente, não tem
+capacidade financeira de arcar com o investimento, considerando que as necessidades de recursos extrapolam em muito os recursos
+ordinários previstos no orçamento geral do estado para os exercícios.
+
+O Estado considerou as condições financeiras vigentes de fontes de financiamento de 4 (quatro) organismos internacionais e de 2 (duas)
+instituições financeiras nacionais, com base nas atuais taxas de juros e demais encargos praticadas no mercado, conforme comparativo
+entre elas constante do Anexo 20 (A20_condições financeiras), resultando na deliberação de o Estado contratar a fonte de recursos do
+BID por apresentar condições mais favoráveis, tanto em termos de taxa de juros e demais comissões quanto do ponto de vista da
+estruturação da operação em termos de prazo de carência, prazo de amortização e de prazo total do empréstimo.
+
+(cid:10)
+(cid:10)
+
+
+Página: 13
+
+Do ponto de vista qualitativo, a escolha do Banco Interamericano de Desenvolvimento (BID) justifica-se por quatro razões. Em primeiro
+lugar, tratar-se do principal organismo multilateral de apoio ao desenvolvimento da América Latina, com conhecimento profundo dos
+desafios da região na implementação de políticas públicas, podendo, assim, sugerir soluções mais inovadoras e que funcionaram em
+contextos similares. Em segundo lugar, o BID acumula vasta experiência no financiamento de projetos de ensino profissional e de
+inovação, que necessitam de ampliação da capacidade técnica e de referências internacionais. Em terceiro lugar, o BID possui vasta
+experiência com contexto do sistema educacional do Pará e da região Amazônica, o que facilitar a proposta de ações específicas para
+nossa região. Finalmente, o programa alinha- se à estratégia país do BID para o Brasil (2019-2022), especialmente no que diz respeito à
+sinergia entre a oferta educacional e as demandas do mercado de trabalho, facilitação da entrada de jovens no mercado de trabalho e
+aumento da eficiência do gasto educacional.
+
+O BID é um dos grandes parceiros do Estado do Pará no sistema financeiro multilateral, com uma estrutura capaz de fornecer uma ampla
+gama de serviços de assessoria técnica e apoio financeiro relacionado à implantação de políticas públicas que vêm demonstrando
+resultados diferenciados junto à população brasileira.
+
+Há diversas experiências bem sucedidas entre o Estado do Pará e o BID, dentre as quais se destacam, entre anteriores e atuais: o
+Programa da Melhoria da Qualidade e Expansão da Cobertura da Educação Básica do Estado do Pará e a 2ª fase do Projeto de
+Modernização da Gestão Fiscal do Estado do Pará (PROFISCO II), ambos em execução, além do Projeto de Desenvolvimento de
+Saneamento do Pará ( PRODESAN PARÁ), com operação de crédito em execução, mais os Projetos de Modernização da Gestão, da
+Infraestrutura e da oferta educacional para garantia do direito de aprender no Pará e de PBL Descarboniza Pará, ambos aprovados os
+financiamentos pela COFIEX, com preparação dos projetos concluída em fase tramitação no Board do banco. Conclui-se, portanto, que o
+BID oferece expertise e condições mais vantajosas que justificam sua escolha pelo Estado, atendendo às necessidades e o critério de
+maior adequação para o Estado do Pará.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+Os principais beneficiados pelo programa serão os jovens (a partir dos 15 anos de idade) e adultos interessados em ingressar no EPT (
+Cursos de Qualificação e de Ensino Técnico nas modalidades integrado, concomitante ou subsequente) no Estado do Pará.
+
+No entanto, o projeto também trará benefícios indiretos significativos para a população do Pará como um todo. A melhoria do ambiente de
+negócios impulsionará o crescimento econômico, criando mais oportunidades de emprego e renda, com enfoque especial nas populações
+vulneráveis. As empresas locais de todos os portes se beneficiarão, impulsionando o desenvolvimento, a inovação e a modernização
+tecnológica. A sustentabilidade e a bioeconomia/biotecnologia serão promovidas, com a conscientização sobre a utilização responsável
+dos recursos naturais e o estímulo à exploração sustentável da biodiversidade. Essa abordagem abrirá caminho para produtos e
+processos inovadores.
+
+O projeto também causará um investimento crucial na educação dos jovens, fornecendo cursos e programas de formação profissional
+técnica. Isso equipará os jovens com habilidades e conhecimentos relevantes para o mercado de trabalho, contribuindo para o
+crescimento econômico e social.
+
+Ao abranger todas essas áreas, o projeto visa promover um desenvolvimento inclusivo e sustentável, impulsionando a economia, gerando
+empregos, incentivando a inovação e a preservação ambiental, além de investir no futuro por meio da educação dos jovens.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Interamericano de Desenvolvimento
+- BID
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BID
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+30.400.000,00
+Valor Proposto
+
+121.600.000,00
+
+152.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+30.400.000,00
+Valor de Referência US
+$
+121.600.000,00
+
+152.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+(cid:10)
+(cid:10)
+
+
+Página: 14
+
+A Sectet assumirá a responsabilidade integral do Programa de Expansão do Acesso e da Qualidade da Educação Profissional e
+Tecnológica (PROETEC/PA) no estado. A implementação desse programa será conduzida pela Unidade de Gerenciamento do Projeto (
+UGP), vinculada à Sectet e estabelecida após a aprovação do projeto. A UGP será composta principalmente por servidores públicos
+altamente capacitados, com o apoio de consultores técnicos e empresas especializadas, contratados conforme necessário e em
+conformidade com as diretrizes do Banco Interamericano de Desenvolvimento (BID). Esse suporte incluirá especialistas em licitações,
+medidas de proteção ambiental e social.
+
+Para fortalecer os recursos humanos e operacionais do projeto, a Sectet está passando por uma reestruturação técnico-operacional em
+parceria com a Secretaria de Estado de Planejamento e Administração (SEPLAD). Os detalhes dessa reestruturação estão descritos no
+anexo A17 (Reestruturação da Sectet). Essa nova estrutura permitirá que a UGP receba o suporte necessário e contrate consultores
+técnicos e empresas especializadas para auxiliar nas atividades específicas do programa PROETEC/PA, utilizando os recursos do
+empréstimo disponibilizados pelo BID, em conformidade com suas diretrizes. Além disso, o programa Pará Profissional será usado como
+subsídio para a força de trabalho, e será considerada a contratação de professores temporários para apoiar a implementação das ações
+propostas.
+
+A condução e planejamento desse projeto estão sendo liderados pela Prof. Maria Beatriz Mandelert Padovani, da Sectet, que possui vasta
+experiência na Educação Profissional e Tecnológica, incluindo seu papel como Secretária Adjunta de Gestão na Secretaria de Estado de
+Educação do Pará (SEDUC), onde trabalhou com processos de empréstimo com agências financeiras externas, como o BID. Atualmente,
+além de coordenar a Educação Técnica e Tecnológica na Sectet e o PRONATEC/PA, a Prof. Maria Beatriz também é membro do
+Conselho Estadual de Educação (CEE/PA), trazendo segurança e conhecimento para a proposta em termos práticos e educacionais.
+
+Em relação ao arranjo institucional com as demais entidades do Governo do Estado, a Procuradoria-Geral do Estado (PGE) será
+responsável pela análise dos processos de contratação e pela elaboração de pareceres e orientações jurídicas. A Secretaria de Estado da
+Fazenda (SEFA) assumirá a responsabilidade pela autorização de gastos superiores a 3 milhões de reais. Além disso, a SEPLAD
+desempenhará um papel fundamental, tanto na gestão do programa como na geração de sinergia com o setor produtivo e o fomento ao
+desenvolvimento regional. O Tribunal de Contas do Estado do Pará (TCE-PA) pode ser responsável pela auditoria externa do programa,
+garantindo sua confiabilidade. Com a reestruturação organizacional em andamento, será possível disponibilizar técnicos do serviço público
+para adquirir conhecimento específico sobre as políticas do BID e estabelecer medidas de cooperação com outros órgãos do governo
+estadual, como a PGE, a SEFA e a SEPLAD.
+
+Anexos relevantes para apoiar a sessão acima: A0 (Guia de Anexos), Anexo 1 (Matriz de responsabilidades), A17 (Reestruturação
+SECTET).
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Secretaria de Estado de Ciência e Tecnologia, Educação Superior, Profissional e Tecnológica - PARÁ
+
+Representante Oficial: Victor Orengel Dias
+
+Endereço da Sede: Av. Conselheiro Furtado, 2520 ? Cremação
+E-mail Institucional:
+
+Telefone: (91) 4009-2500
+
+CNPJ:
+
+Fax: (91) 4009-2500
+UF:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+COMPONENTES
+C - COBERTURA E QUALIDADE DE INFRAESTRUTURA
+
+VALOR
+
+CUSTO
+126.575.000,00
+
+Ano 1
+
+FONTES
+
+CF
+
+BID
+
+2.100.000,00
+
+41.666.667,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+P - Escolas reformadas e ampliadas habilitadas para operação da EPT
+
+10.500.000,00
+
+2.100.000,00
+
+0,00
+
+P - Novas escolas construídas em regiões do Pará com cobertura inadequada
+
+P - Equipamentos de informática e de laboratórios
+
+P - Sistema de cursos técnicos online em funcionamento
+
+C - OFERTA DE CURSOS
+
+S - AJUSTES NA OFERTA DE CURSOS
+
+P - Currículos adaptados e aprovados pelo conselho estadual de educação para os cursos
+técnicos conectados com os arranjos produtivos locais e com os pilares da Bioeconomia/
+Biotecnologia
+P - Formações de professores e coordenadores para a EPT para os temas de maior relevância
+local
+P - Campanhas informacionais sobre a EPT, com foco nos cursos com baixa demanda e alta
+relevância local
+P - Relatórios aprovados sobre a implementação de ações para melhorar a transição entre a
+Educação Básica e o Mercado de Trabalho
+S - ADEQUAÇÃO PARA A BIOECONOMIA/BIOTECNOLOGIA
+
+P - Professores formados nos programas de formação continuada sobre os temas de
+Bioeconomia/Biotecnologia
+P - Identificação das vocações específicas das cidades atingidas pelo programa em relação à
+Bioeconomia/Biotecnologia
+P - Caminho facilitado para os estudantes de temas de Bioeconomia/Biotecnologia para o Ensino
+Superior
+
+95.000.000,00
+
+11.075.000,00
+
+10.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+31.666.667,00
+
+0,00
+
+10.000.000,00
+
+13.200.000,00
+
+250.000,00
+
+2.600.000,00
+
+2.800.000,00
+
+1.000.000,00
+
+1.000.000,00
+
+400.000,00
+
+400.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.200.000,00
+
+1.000.000,00
+
+200.000,00
+
+0,00
+
+0,00
+
+10.400.000,00
+
+250.000,00
+
+1.400.000,00
+
+2.000.000,00
+
+0,00
+
+1.000.000,00
+
+400.000,00
+
+0,00
+
+400.000,00
+
+500.000,00
+
+250.000,00
+
+0,00
+
+(cid:10)
+
+
+Página: 15
+
+P - Laboratórios de Bioeconomia/Biotecnologia equipados e prontos para a operação
+
+C - PRÁTICAS DE GESTÃO
+
+P - Estruturação da área de planejamento da SECTET
+
+P - Processos e sistemas de gestão redesenhados e implementados
+
+P - Sistema de monitoramento da qualidade de EPT
+
+C - ADMINISTRAÇÃO DO PROGRAMA
+
+P - Unidade de Gestão do Programa
+
+P - Auditoria
+
+P - Consultoria de Gestão e Monitoramento do Projeto
+
+P - Supervisão de Obras
+
+P - Avaliação de Impacto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+C - COBERTURA E QUALIDADE DE INFRAESTRUTURA
+
+P - Escolas reformadas e ampliadas habilitadas para operação da EPT
+
+P - Novas escolas construídas em regiões do Pará com cobertura inadequada
+
+P - Equipamentos de informática e de laboratórios
+
+P - Sistema de cursos técnicos online em funcionamento
+
+C - OFERTA DE CURSOS
+
+S - AJUSTES NA OFERTA DE CURSOS
+
+P - Currículos adaptados e aprovados pelo conselho estadual de educação para os cursos
+técnicos conectados com os arranjos produtivos locais e com os pilares da Bioeconomia/
+Biotecnologia
+P - Formações de professores e coordenadores para a EPT para os temas de maior relevância
+local
+P - Campanhas informacionais sobre a EPT, com foco nos cursos com baixa demanda e alta
+relevância local
+P - Relatórios aprovados sobre a implementação de ações para melhorar a transição entre a
+Educação Básica e o Mercado de Trabalho
+S - ADEQUAÇÃO PARA A BIOECONOMIA/BIOTECNOLOGIA
+
+P - Professores formados nos programas de formação continuada sobre os temas de
+Bioeconomia/Biotecnologia
+P - Identificação das vocações específicas das cidades atingidas pelo programa em relação à
+Bioeconomia/Biotecnologia
+P - Caminho facilitado para os estudantes de temas de Bioeconomia/Biotecnologia para o Ensino
+Superior
+P - Laboratórios de Bioeconomia/Biotecnologia equipados e prontos para a operação
+
+C - PRÁTICAS DE GESTÃO
+
+P - Estruturação da área de planejamento da SECTET
+
+P - Processos e sistemas de gestão redesenhados e implementados
+
+P - Sistema de monitoramento da qualidade de EPT
+
+C - ADMINISTRAÇÃO DO PROGRAMA
+
+P - Unidade de Gestão do Programa
+
+P - Auditoria
+
+P - Consultoria de Gestão e Monitoramento do Projeto
+
+P - Supervisão de Obras
+
+P - Avaliação de Impacto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+C - COBERTURA E QUALIDADE DE INFRAESTRUTURA
+
+P - Escolas reformadas e ampliadas habilitadas para operação da EPT
+
+P - Novas escolas construídas em regiões do Pará com cobertura inadequada
+
+P - Equipamentos de informática e de laboratórios
+
+P - Sistema de cursos técnicos online em funcionamento
+
+C - OFERTA DE CURSOS
+
+S - AJUSTES NA OFERTA DE CURSOS
+
+P - Currículos adaptados e aprovados pelo conselho estadual de educação para os cursos
+técnicos conectados com os arranjos produtivos locais e com os pilares da Bioeconomia/
+Biotecnologia
+P - Formações de professores e coordenadores para a EPT para os temas de maior relevância
+local
+P - Campanhas informacionais sobre a EPT, com foco nos cursos com baixa demanda e alta
+relevância local
+P - Relatórios aprovados sobre a implementação de ações para melhorar a transição entre a
+Educação Básica e o Mercado de Trabalho
+S - ADEQUAÇÃO PARA A BIOECONOMIA/BIOTECNOLOGIA
+
+P - Professores formados nos programas de formação continuada sobre os temas de
+Bioeconomia/Biotecnologia
+
+7.500.000,00
+
+5.800.000,00
+
+1.000.000,00
+
+2.000.000,00
+
+2.800.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.700.000,00
+
+1.000.000,00
+
+700.000,00
+
+0,00
+
+6.425.000,00
+
+85.000,00
+
+1.266.667,00
+
+1.000.000,00
+
+0,00
+
+200.000,00
+
+425.000,00
+
+85.000,00
+
+0,00
+
+2.000.000,00
+
+2.000.000,00
+
+1.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+400.000,00
+
+666.667,00
+
+0,00
+
+0,00
+
+2.435.000,00
+
+47.233.334,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+VALOR
+
+CUSTO
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+Ano 2
+
+FONTES
+
+CF
+
+BID
+
+4.200.000,00
+
+31.666.667,00
+
+4.200.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+31.666.667,00
+
+0,00
+
+0,00
+
+450.000,00
+
+1.900.000,00
+
+200.000,00
+
+900.000,00
+
+0,00
+
+0,00
+
+0,00
+
+800.000,00
+
+200.000,00
+
+0,00
+
+0,00
+
+100.000,00
+
+250.000,00
+
+1.000.000,00
+
+0,00
+
+1.000.000,00
+
+0,00
+
+250.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.000.000,00
+
+0,00
+
+1.300.000,00
+
+700.000,00
+
+85.000,00
+
+1.266.667,00
+
+0,00
+
+200.000,00
+
+85.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+400.000,00
+
+666.667,00
+
+0,00
+
+0,00
+
+4.735.000,00
+
+36.833.334,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+Ano 3
+
+FONTES
+
+CF
+
+BID
+
+15.275.000,00
+
+31.666.666,00
+
+4.200.000,00
+
+0,00
+
+0,00
+
+31.666.666,00
+
+11.075.000,00
+
+0,00
+
+0,00
+
+0,00
+
+5.450.000,00
+
+100.000,00
+
+200.000,00
+
+100.000,00
+
+0,00
+
+0,00
+
+200.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+100.000,00
+
+5.250.000,00
+
+0,00
+
+0,00
+
+0,00
+
+
+Página: 16
+
+P - Identificação das vocações específicas das cidades atingidas pelo programa em relação à
+Bioeconomia/Biotecnologia
+P - Caminho facilitado para os estudantes de temas de Bioeconomia/Biotecnologia para o Ensino
+Superior
+P - Laboratórios de Bioeconomia/Biotecnologia equipados e prontos para a operação
+
+C - PRÁTICAS DE GESTÃO
+
+P - Estruturação da área de planejamento da SECTET
+
+P - Processos e sistemas de gestão redesenhados e implementados
+
+P - Sistema de monitoramento da qualidade de EPT
+
+C - ADMINISTRAÇÃO DO PROGRAMA
+
+P - Unidade de Gestão do Programa
+
+P - Auditoria
+
+P - Consultoria de Gestão e Monitoramento do Projeto
+
+P - Supervisão de Obras
+
+P - Avaliação de Impacto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+C - COBERTURA E QUALIDADE DE INFRAESTRUTURA
+
+P - Escolas reformadas e ampliadas habilitadas para operação da EPT
+
+P - Novas escolas construídas em regiões do Pará com cobertura inadequada
+
+P - Equipamentos de informática e de laboratórios
+
+P - Sistema de cursos técnicos online em funcionamento
+
+C - OFERTA DE CURSOS
+
+S - AJUSTES NA OFERTA DE CURSOS
+
+P - Currículos adaptados e aprovados pelo conselho estadual de educação para os cursos
+técnicos conectados com os arranjos produtivos locais e com os pilares da Bioeconomia/
+Biotecnologia
+P - Formações de professores e coordenadores para a EPT para os temas de maior relevância
+local
+P - Campanhas informacionais sobre a EPT, com foco nos cursos com baixa demanda e alta
+relevância local
+P - Relatórios aprovados sobre a implementação de ações para melhorar a transição entre a
+Educação Básica e o Mercado de Trabalho
+S - ADEQUAÇÃO PARA A BIOECONOMIA/BIOTECNOLOGIA
+
+P - Professores formados nos programas de formação continuada sobre os temas de
+Bioeconomia/Biotecnologia
+P - Identificação das vocações específicas das cidades atingidas pelo programa em relação à
+Bioeconomia/Biotecnologia
+P - Caminho facilitado para os estudantes de temas de Bioeconomia/Biotecnologia para o Ensino
+Superior
+P - Laboratórios de Bioeconomia/Biotecnologia equipados e prontos para a operação
+
+C - PRÁTICAS DE GESTÃO
+
+P - Estruturação da área de planejamento da SECTET
+
+P - Processos e sistemas de gestão redesenhados e implementados
+
+P - Sistema de monitoramento da qualidade de EPT
+
+C - ADMINISTRAÇÃO DO PROGRAMA
+
+P - Unidade de Gestão do Programa
+
+P - Auditoria
+
+P - Consultoria de Gestão e Monitoramento do Projeto
+
+P - Supervisão de Obras
+
+P - Avaliação de Impacto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+C - COBERTURA E QUALIDADE DE INFRAESTRUTURA
+
+P - Escolas reformadas e ampliadas habilitadas para operação da EPT
+
+P - Novas escolas construídas em regiões do Pará com cobertura inadequada
+
+P - Equipamentos de informática e de laboratórios
+
+P - Sistema de cursos técnicos online em funcionamento
+
+C - OFERTA DE CURSOS
+
+S - AJUSTES NA OFERTA DE CURSOS
+
+P - Currículos adaptados e aprovados pelo conselho estadual de educação para os cursos
+técnicos conectados com os arranjos produtivos locais e com os pilares da Bioeconomia/
+Biotecnologia
+P - Formações de professores e coordenadores para a EPT para os temas de maior relevância
+local
+P - Campanhas informacionais sobre a EPT, com foco nos cursos com baixa demanda e alta
+relevância local
+
+0,00
+
+0,00
+
+5.250.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+700.000,00
+
+0,00
+
+0,00
+
+700.000,00
+
+85.000,00
+
+1.266.666,00
+
+0,00
+
+200.000,00
+
+85.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+400.000,00
+
+666.666,00
+
+0,00
+
+0,00
+
+20.810.000,00
+
+33.733.332,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+BID
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.250.000,00
+
+100.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+100.000,00
+
+0,00
+
+0,00
+
+0,00
+
+100.000,00
+
+2.250.000,00
+
+0,00
+
+0,00
+
+0,00
+
+2.250.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+700.000,00
+
+0,00
+
+0,00
+
+700.000,00
+
+85.000,00
+
+1.100.000,00
+
+0,00
+
+200.000,00
+
+85.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+400.000,00
+
+0,00
+
+500.000,00
+
+0,00
+
+2.335.000,00
+
+1.900.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+BID
+
+TOTAL
+
+CF
+
+21.575.000,00
+
+10.500.000,00
+
+TOTAL
+
+BID
+105.000.000,00
+
+0,00
+
+0,00
+
+95.000.000,00
+
+11.075.000,00
+
+0,00
+
+0,00
+
+10.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+100.000,00
+
+8.400.000,00
+
+4.800.000,00
+
+100.000,00
+
+400.000,00
+
+2.400.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.000.000,00
+
+0,00
+
+1.000.000,00
+
+400.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+
+P - Relatórios aprovados sobre a implementação de ações para melhorar a transição entre a
+Educação Básica e o Mercado de Trabalho
+S - ADEQUAÇÃO PARA A BIOECONOMIA/BIOTECNOLOGIA
+
+P - Professores formados nos programas de formação continuada sobre os temas de
+Bioeconomia/Biotecnologia
+P - Identificação das vocações específicas das cidades atingidas pelo programa em relação à
+Bioeconomia/Biotecnologia
+P - Caminho facilitado para os estudantes de temas de Bioeconomia/Biotecnologia para o Ensino
+Superior
+P - Laboratórios de Bioeconomia/Biotecnologia equipados e prontos para a operação
+
+C - PRÁTICAS DE GESTÃO
+
+P - Estruturação da área de planejamento da SECTET
+
+P - Processos e sistemas de gestão redesenhados e implementados
+
+P - Sistema de monitoramento da qualidade de EPT
+
+C - ADMINISTRAÇÃO DO PROGRAMA
+
+P - Unidade de Gestão do Programa
+
+P - Auditoria
+
+P - Consultoria de Gestão e Monitoramento do Projeto
+
+P - Supervisão de Obras
+
+P - Avaliação de Impacto
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+Página: 17
+
+100.000,00
+
+0,00
+
+400.000,00
+
+8.000.000,00
+
+2.400.000,00
+
+0,00
+
+2.000.000,00
+
+0,00
+
+400.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+500.000,00
+
+0,00
+
+7.500.000,00
+
+0,00
+
+0,00
+
+700.000,00
+
+0,00
+
+0,00
+
+700.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+5.800.000,00
+
+1.000.000,00
+
+2.000.000,00
+
+2.800.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+85.000,00
+
+1.100.000,00
+
+425.000,00
+
+6.000.000,00
+
+0,00
+
+200.000,00
+
+0,00
+
+1.000.000,00
+
+85.000,00
+
+0,00
+
+425.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+400.000,00
+
+0,00
+
+500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+2.000.000,00
+
+2.000.000,00
+
+1.000.000,00
+
+152.000.000,00
+
+85.000,00
+
+1.900.000,00
+
+30.400.000,00
+
+121.600.000,00
+
+Para viabilizar a execução do programa, será necessário obter uma Lei Autorizativa do Estado e um Decreto Regulamentador, cujos
+trâmites serão iniciados após a aprovação da carta consulta. Os desafios residem nos processos burocráticos para aprovar novas normas
+ou revisar as existentes que regulamentam o EPT no estado. A fim de mitigar atrasos e garantir a conformidade legal do projeto, a Sectet
+busca ampliar seu apoio junto à casa legislativa estadual.
+
+Serão atendidos todos os requisitos legais, incluindo o cumprimento do Plano Plurianual (PPA), Lei de Diretrizes Orçamentárias (LDO), Lei
+Orçamentária Anual (LOA), Lei de Responsabilidade Fiscal (LRF) e demais legislações administrativas, financeiras e fiscais.
+
+Além disso, serão formalizados instrumentos específicos, como contratos administrativos e convênios, de acordo com a legislação vigente,
+para cada ação a ser desenvolvida, garantindo a execução efetiva do programa.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+Como mencionado anteriormente, a Sectet está planejando uma reestruturação operacional para fortalecer sua equipe e garantir a
+execução de ações importantes no Estado do Pará, especialmente na área de educação, sem comprometer o interesse público e o bem-
+estar da população. Isso envolverá a criação de novos cargos comissionados e a realização de concursos públicos para contratar novos
+servidores efetivos. No entanto, é importante destacar que essa ação também apresenta riscos, como a possibilidade de os novos
+membros da equipe não se adaptarem ou não estarem familiarizados com os processos necessários para a gestão e implementação bem-
+sucedida do projeto.
+
+Com o objetivo de garantir o suporte técnico necessário para o PROETEC/PA, será possível contratar consultores técnicos e empresas
+especializadas, utilizando os recursos do empréstimo, conforme a demanda. Esses profissionais poderão incluir especialistas em licitações
+e em questões de salvaguardas ambientais e sociais, alinhados às diretrizes estabelecidas pelo Banco Interamericano de
+Desenvolvimento (BID). Essa medida visa acelerar o processo de nivelamento e capacitação dos envolvidos, a fim de garantir um apoio
+técnico efetivo ao programa o mais rápido possível.
+
+Por se tratar de órgão integrante da administração pública estadual, o Estado da Pará firmará contratos com seus fornecedores para
+aquisição de bens e prestação de serviços, por meio de procedimento licitatório regular, de acordo com as normas do ordenamento
+jurídico brasileiro, bem como os regulamentos que determinam as especificidades para contratação com recursos do BID, mitigando,
+assim, os riscos oriundos de procedimentos de contratação.
+
+As contratações serão antecedidas da elaboração de termos de referências específicos, pormenorizando as características e
+especificações técnicas dos produtos a serem adquiridos, evitando, assim, riscos de licitações fracassadas ou desertas, bem como
+contratações de itens que não atendam às necessidades do Projeto.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Para viabilizar a construção de novas escolas em áreas não atendidas pela atual gestão do EPT e a criação do Instituto Estadual de
+Excelência em Biotecnologia e Bioeconomia (IEEBIO), será necessário obter áreas e terrenos, sem a previsão inicial de desapropriação.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 18
+
+Nesse sentido, o Estado do Pará adotará, como medida inicial, a celebração de acordos e termos com os governos municipais, a fim de
+buscar áreas de propriedade municipal que possam ser doadas para a gestão estadual. Essa parceria é uma das formas atuais de
+contrapartida mais eficazes em acordos desse tipo, reduzindo os riscos de não implementação ou construção nas regiões do Estado com
+maior demanda identificada para a oferta do EPT. Dessa forma, busca-se minimizar possíveis obstáculos e garantir o desenvolvimento
+dessas estruturas educacionais nas áreas mais necessitadas.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+Devido às características das ações do Projeto, que envolvem intervenções territoriais e construção de novos equipamentos, é importante
+considerar e mitigar os riscos ambientais. Em caso de qualquer indício relacionado a esses riscos, o Estado do Pará, por meio da Sectet,
+compromete-se a seguir rigorosamente a legislação brasileira aplicável ao licenciamento ambiental, bem como as políticas ambientais
+estabelecidas pelo Banco Interamericano de Desenvolvimento (BID).
+
+Além disso, há um compromisso mútuo de buscar apoio e colaboração entre a Sectet e a Secretaria de Estado de Meio Ambiente e
+Sustentabilidade (SEMAS), conforme necessário, para abordar adequadamente essas questões ambientais.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+As comunidades afetadas em todo o Estado do Pará são diversas e apresentam características multifacetadas, com necessidades,
+expectativas, valores e potencialidades distintas, próprias de suas regiões e circunstâncias. Não é viável simplesmente replicar um mesmo
+modelo em regiões tão diferentes e extensas como o estado do Pará. As relações sociais ocorrem de maneiras diversas e, portanto, as
+respostas às necessidades também devem ser adaptadas a cada contexto. O Programa de Expansão do Acesso e da Qualidade do EPT
+no Estado do Pará considerará os diversos impactos e especificidades para superar possíveis desigualdades.
+
+Dentre as ações positivamente planejadas, destacam-se a construção de novas escolas em regiões atualmente não atendidas de forma
+direta, a conclusão das obras em escolas já iniciadas, a construção e adequação de laboratórios, o investimento em unidades móveis de
+ensino, que proporcionarão um ensino itinerante, a oferta de bolsas para a criação de startups e a criação de um Instituto Estadual de
+Excelência em Biotecnologia.
+
+Além dos investimentos citados para a expansão da cobertura e para a melhoria da infraestrutura do EPT, também podem ser citados os
+impactos sociais da atualização da oferta de cursos, com adequação para o arranjo produtivo do Estado e foco nos temas de Bioeconomia
+/Biotecnologia, a revisão do currículo dos cursos existentes, a formação de professores e os avanços na gestão do EPT, especialmente a
+estruturação da área de planejamento, por meio de consultoria para redesenho de processos, e a implementação de sistemas, para
+alocação de professores e para gestão pedagógica.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Décadas de pesquisa têm demonstrado que o reassentamento relacionado a projetos tanto do setor público quanto privado
+frequentemente resulta no empobrecimento das comunidades locais afetadas. Os impactos mais significativos associados ao
+deslocamento incluem escassez de terras, desemprego, falta de moradia, marginalização, insegurança alimentar, aumento da morbidade
+e mortalidade, perda de acesso a serviços e recursos comuns, e desarticulação social.
+
+Portanto, conforme mencionado anteriormente, no que diz respeito principalmente à expansão da infraestrutura do EPT por meio da
+construção de novas unidades escolares, o Estado do Pará, por meio da Sectet, não tem planos de realizar desapropriações e
+reassentamentos de áreas territoriais para a construção desses equipamentos. Em vez disso, prioriza e busca viabilizar a cessão e
+doação de territórios já desocupados, seja sob posse do governo estadual ou por meio de acordos com governos municipais.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+- 03/10/2024: Carta-consulta arquivada, nos termos do Art, 8º da Resolução Cofiex Nº 17/2021 (Pleito não autorizado pela Cofiex em três
+reuniões subsequentes).
+
+Informações relevantes
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)

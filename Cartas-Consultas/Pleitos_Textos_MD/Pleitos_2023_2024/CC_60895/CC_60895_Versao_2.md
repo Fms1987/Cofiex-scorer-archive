@@ -1,0 +1,3913 @@
+# Carta-Consulta CC_60895 — Versao 2 (SIGS)
+
+
+PROGRAMA DE ACELERAÇÃO DA INFRAESTRUTURA DE LUZIÂNIA - AVANÇA LUZIÂNIA
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 60895
+Processo: 12120.100293/2022-61
+Mutuário: Município de Luziania - GO
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  25 de Maio de 2022
+
+Fontes Internas:
+Contrapartida Financeira: US$ 6.750.000,00
+Fontes Externas:
+Fundo Financeiro para o Desenvolvimento da Bacia do Prata - FONPLATA: US$ 27.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+Luziânia é um município do Goiás e insere-se na porção sul da Área Metropolitana de Brasília. Possui dois aglomerados urbanos: a
+própria cidade com seus setores e bairros periféricos e o distrito do Jardim Ingá. Ao todo, Luziânia possui 92 bairros, sendo que 26 deles
+estão no Jardim Ingá.
+
+A população estimada é de 214.645 pessoas, possui área de 3.962,107 km² e densidade demográfica de 44,06 hab/km². O PIB do
+município é de R$ 4,11 bilhões, o PIB per capita de R$19.729,76, e o IDH-M, considerado alto, de 0,701.
+
+Apesar do alto IDH-M e de ser 9ª maior economia do Goiás, Luziânia apresenta problemas de infraestrutura e serviços urbanos. Segundo
+o Índice de Bem-Estar Urbano (IPPUR/UFRJ,2016), classifica-se como em condição ruim (0,653), cujo resultado é impactado pelo baixo
+índice da Mobilidade Urbana (0,651), da Infraestrutura (0,561) e dos Serviços Coletivos Urbanos (0,392), o que coloca o município com os
+piores índices do país na 5043º colocação. A problemática é agravada pela baixa capacidade do município em investir na infraestrutura
+com recursos próprios, conforme pontuado a seguir.
+
+I.Mobilidade
+
+O município possui indústrias no setor de alimentos, frigoríficos e higiene e limpeza. Possui empreendimentos agroindustriais e lidera as
+exportações de soja em Goiás. As UHE Corumbá III e IV também movimentam a economia da região; os lagos formados no curso do rio
+Corumbá são utilizados para fins turísticos e de lazer e impulsionaram a instalação de condomínios residenciais - 80 condomínios
+formados, além de marinas, clubes e parques aquáticos. (Ver Anexo 1, figuras 1 e 2)
+
+Hoje, as vias que dão acesso ao escoamento da produção agroindustrial e aos lagos são parcialmente asfaltadas, exigindo manutenção,
+principalmente, em épocas de chuva, causando transtornos aos usuários. A malha viária de Luziânia prioriza os automóveis, com baixa
+acessibilidade para pedestres e ciclistas. (Ver Anexo 1, figura 3)
+
+A cidade é uma das pontas do eixo rodoviário de conurbação, formado na BR-040, que possui características de avenida urbana em
+função da sua utilização e também da ocupação de solo adjacente. O deslocamento é intenso pela quantidade de pessoas que ali residem
+, mas trabalham em Brasília, causando tráfego acentuado na rodovia que possui baixa capacidade. O fluxo de automóveis entre Luziânia e
+o Distrito do Jardim Ingá também é realizado via BR-040, já que hoje não há outras alternativas. (Ver Anexo 1, figuras 4)
+
+II.Drenagem Pluvial e Manejo de Águas Pluviais
+
+Com a ocupação urbana desordenada, aumentaram as áreas impermeáveis que impedem que haja infiltração e interceptação das águas
+sobre o solo, acarretando na ampliação do volume de escoamento superficial.
+
+Há anos são registrados problemas de drenagem no município, cujas consequências são recorrentes situações de alagamentos,
+enchentes e enxurradas em períodos chuvosos, e que provocam impactos negativos à saúde e segurança da população, e ao meio
+ambiente, com a formação de voçorocas e presença de materiais sólidos no escoamento pluvial. (Ver Anexo 1, figuras 5 a 12)
+
+Aliando a ausência de um sistema de drenagem eficiente, a situação das inundações durante eventos naturais se potencializa,
+comprometendo, inclusive, os outros sistemas de infraestrutura. A não pavimentação em regiões de ocupação desordenada agrava os
+problemas de erosão e assoreamento dos corpos hídricos em períodos chuvosos, pelo carreamento de material do próprio solo.
+
+O programa prioriza os bairros mais afetados pela falta de drenagem e pavimentação, de acordo com a Defesa Civil de Luziânia, que são:
+Jardim Flamboyant, Mansões Campinas, Jardim Planalto, Jardim Zuleika/Jockei Clube, Pró Lote, Parque Cruzeiro do Sul/Parque Nova
+Iguaçu, Parque São Sebastião, Centro do Jardim Ingá, Jardim Marília, Parque Mingone I e II, Parque Estrela Dalva IV e V, Parque Sol
+Nascente, Cidade Esperança, Francaroli, Jardim Europa, Parque Três Poderes, Parque Alvorada, Parque São Judas, Parque Santa Fé,
+Jardim Luzilia, Setor Norte Maravilha, Vila Juracy, São Caetano e Setor Sul.
+
+A PMAD (Codeplan, 2017) realizada em Luziânia apresenta dados sobre sobre a situação dos serviços básicos e infraestrutura urbana:
+ruas esburacadas (57,42%), entulho (37,61%), erosão (17,25%), área em declive (10,72%), esgoto a céu aberto (9,31%) e áreas alagadas
+(20,73%); todos estes como consequência direta ou indireta da drenagem precária.
+
+III.Qualidade dos Equipamentos Públicos
+
+Ainda de acordo com o PMAD, Luziânia encontra-se carente de diversas infraestruturas e equipamentos urbanos, sendo as principais
+demandas as áreas de lazer e convivência e equipamentos para prática de esportes. Além disso, há necessidade de intervenções em
+equipamentos já existentes como praças e complexos esportivos e de lazer, a sede da guarda municipal do Jardim Ingá; a requalificação
+de feiras; além da requalificação da rodoviária, do terminal rodoviário e de paradas de ônibus. (Ver Anexo 1, figuras 13 e 14)
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+I.Solução Proposta e Resultados Esperados
+
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+A fim de melhorar os problemas de mobilidade apresentados, o Programa Avança Luziânia propõe a implantação de quatro vias, além de
+pontilhões (pontes de pequenas extensões/vãos) de acesso. A primeira via dará acesso aos condomínios e ao Bali Park, um complexo
+turístico em construção às margens do Lago Corumbá IV, com área total superior a 120.000 m², e expectativa de receber até 10 mil
+visitantes por dia e mais de 1 milhão ao ano; a conclusão da 1ª etapa está prevista para junho de 2022. A segunda via dá acesso ao
+Povoado dos Americanos, criado em 1975 e que hoje abriga por volta de 7 mil pessoas. A terceira via é a complementação do acesso ao
+Povoado do Surucucu, portão de entrada para os condomínios do Lago Corumbá III; esta via também é utilizada para escoamento de
+grãos do município, já que dá acesso a áreas de plantio. A quarta e última via a ser implementada, será uma segunda opção de ligação
+entre o centro de Luziânia e o Distrito do Jardim Ingá, que contribuirá para a diminuição do tráfego da BR-040, hoje a única alternativa de
+deslocamento entre as duas sedes. Estão previstas ainda a implementação de pontilhões de ligação em estruturas de concreto armado e/
+ou metálica, que hoje ainda são de madeira e exigem manutenções frequentes durante o ano.
+
+A melhoria da mobilidade depende, ainda, da implantação de calçamentos e ciclovias, de forma a prover o município de Luziânia de
+espaços adequados à caminhada e a utilização de bicicletas como meio de transporte não motorizado, garantindo caminhos seguros para
+os pedestres e ciclistas.
+
+Estas intervenções deverão ter como resultados a maior conexão e integração entre áreas da cidade, redução das distâncias percorridas e
+geração de segurança aos usuários, atendendo tanto a demanda do fluxo de mercadorias como de passagem de pedestres e ciclistas.
+
+Como solução aos alagamentos e enxurradas, o Programa visa implantar as redes de drenagem em bairros precários, direcionando o
+montante de água proveniente das chuvas, de forma segura, através de redes de drenagem/galerias, dissipadores, bacias de detenção e
+jardins de chuva. Serão realizadas obras de canalização por meio de redes/galerias de águas pluviais de concreto, dimensionadas
+adequadamente. A execução de jardins de chuva em canteiros adequados, aumentará a área de infiltração e diminuirá o fluxo de água
+corrente. Estas intervenções terão como resultados a diminuição da ocorrência de alagamentos e enxurradas no município durante
+períodos de chuva e, consequentemente, a diminuição dos impactos negativos ao meio ambiente, como assoreamento e erosões. A
+ampliação do sistema de drenagem junto com a pavimentação e urbanização desses bairros, também contribuirá diretamente para a
+melhoria da mobilidade no município, já que garante maior fluidez de tráfego e segurança aos usuários das vias, independente das
+condições climáticas.
+
+O programa inclui, também, a criação de novos equipamentos urbanos em áreas onde há escassez e modernização de equipamentos já
+existentes, buscando atender às necessidades da comunidade quanto a estruturas de esporte, lazer, bem estar e convivência, transporte
+e segurança, e como forma de qualificação do espaço urbano, humanização da cidade e inserção de áreas verdes e permeáveis.
+
+Os espaços públicos com a inserção de equipamentos públicos possibilitam o fomento de atividades econômicas que promovem geração
+de emprego, renda e inclusão social. A ocupação de vazios urbanos por parques, praças e complexos esportivos, mais que o
+embelezamento e complementação urbanística da cidade, tem alcance social, pois são espaços públicos que proporcionam a integração
+da família na comunidade. Dessa forma, essas intervenções resultarão na humanização dos espaços públicos proporcionando pontos de
+encontro e convivência, de lazer e de pratica esportiva, com consequente diminuição dos índices de estresse, melhoria na qualidade de
+saúde e redução dos níveis de violência, principalmente em áreas vulneráveis.
+
+O Anexo 4 apresenta a Matriz de Alinhamento do Programa Avança Luziânia.
+
+II.Sustentabilidade
+
+Os projetos de drenagem terão atenção especial, devido as características físicoambientais da área e o próprio caráter da ocupação sem
+planejamento, que propiciam inundações constantes e riscos de desmoronamento. Além disso, no estabelecimento das diretrizes de
+caminhamento das redes, galerias e canais, será observado o espaço necessário para execução das valas, em função dos diâmetros e
+profundidades, sem o perigo de afetar as edificações e outras obras de rede de infraestrutura já existentes. O sistema de drenagem pluvial
+é importante para reduzir os impactos ambientais negativos provenientes da urbanização da área, com sua consequente elevação do
+escoamento superficial, formação de voçorocas, aumento da presença de materiais sólidos no escoamento pluvial. Sendo assim, entende-
+se que um sistema de drenagem bem projetado, construído e conservado garante tanto a segurança dos usuários da rodovia, reduzindo o
+número de acidentes, quanto o aumento da durabilidade do pavimento, de elementos estruturais e da integridade dos taludes de corte e
+aterro.
+
+Para garantir a durabilidade e sustentabilidade das obras realizadas, tanto as de drenagem e pavimentação quanto às referentes aos
+equipamentos públicos, será realizada manutenção constante nas áreas de intervenção previstas pelo Programa, de forma a garantir o
+bom uso, a confiabilidade e segurança das estruturas.
+
+A manutenção da infraestrutura pública está a cargo da Secretaria Municipal de Desenvolvimento Urbano, que é provida de equipamentos
+e equipe do quadro permanente da prefeitura. Esta equipe realiza periodicamente a manutenção de toda a infraestrutura existente no
+município cujos custos de manutenção são incorporados à previsão orçamentária da Prefeitura Municipal de Luziânia. Ressalta-se que a
+Prefeitura espera ter um aumento da arrecadação com os investimentos a serem realizados, principalmente na valorização imobiliária e
+consequentemente a arrecadação de tributos.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+i)Orientações estratégicas
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+O Programa Avança Luziânia está em consonância com as diretrizes definidas pelo Plano Diretor do Município de Luziânia/GO, instituído
+pela Lei nº 2.987, de 03 de outubro de 2006, que tem como foco o desenvolvimento sustentável da cidade, cujos pilares devem atender às
+dimensões sociocultural, econômica, geoambiental e político institucional.
+
+Os investimentos previstos para o Programa Avança Luziânia, também estão inseridos no Plano Plurianual - PPA 2022-2025, instituído
+pela Lei nº 4.409/2021, nos programas: 089 Luziânia Restaurada e 097 Mobilidade Urbana Eficiente. Destaca-se os seguintes objetivos
+estratégicos do PPA, dispostos em seu Art. 7º, e que estão em concordância com o Programa proposto:
+
+(...)
+
+III - desenvolvimento social e cidadania: garantir acesso e oferta de serviços sociais de qualidade;
+
+IV - Desenvolvimento econômico e do agronegócio: fomentar o desenvolvimento econômico e o agornegócio local com sustentabilidade e
+inclusão social;
+
+V - infraestrutura, habitação, mobilidade e meio ambiente: promover melhorias para o desenvolvimento urbano e rural sustentável.
+
+Os programas do PPA 2022-2025 encontram-se no ANEXO 2.
+
+ii)Contrapartidas
+
+Os recursos de contrapartida estão em conformidade com a Resolução Nº 3, de 29 de maio de 2019 da COFIEX, conforme disposto no
+parágrafo primeiro do Artigo 1º: A contrapartida será proveniente de receitas tributárias previstas nos artigos 156, 158 e 159, inciso I, (b),
+da Constituição Federal.
+
+iii)Taxa de câmbio
+
+O financiamento deverá ser contratado em Dólar Americano (US$) e a taxa de cambio utilizada é de US$1,00 = 5,01 R$ (um dólar é igual
+a cinco reais e um centavo) *Cotação de  28/04/22, em: https://www.bcb.gov.br/estabilidadefinanceira/historicocotacoes.
+
+2. Projeto
+
+### 2.1. Título
+
+
+PROGRAMA DE ACELERAÇÃO DA INFRAESTRUTURA DE LUZIÂNIA - AVANÇA LUZIÂNIA
+
+
+### 2.2. Título Abreviado
+
+
+PROGRAMA AVANÇA LUZIÂNIA
+
+
+### 2.3. Mutuário
+
+
+Município de Luziania - GO
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+(i) - Objetivo Geral
+
+Promover a requalificação da infraestrutura urbana e a implantação e modernização de equipamentos públicos de Luziânia, buscando a
+melhoria da qualidade de vida da população local e o desenvolvimento sustentável do município.
+
+(ii) - Objetivos Específicos
+
+-Estruturar eixos viários de ligação, de forma a promover conexão e integração entre áreas da cidade;
+
+-Estimular o uso de meios de transporte não motorizados e não poluentes a partir da oferta de ciclovias e calçadas;
+
+-Urbanizar bairros precários a partir da implantação de sistema de drenagem e pavimentação, proporcionando à população melhor
+qualidade de vida e melhorando a trafegabilidade no município, independente das condições climáticas;
+
+-Implantar e modernizar equipamentos urbanos e espaços públicos.
+
+-Oferecer novas áreas de esporte, lazer, convívio e contemplação à população a partir da construção e reestruturação de complexos
+esportivos e praças e outros equipamentos urbanos.
+
+O Anexo 4 apresenta a Matriz de Alinhamento do Programa Avança Luziânia.
+
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+
+### 2.6. Projeto/Indicadores
+
+
+Descrição
+Diminuição do tempo de viagem com a
+pavimentação da via de acesso ao Lago
+Corumbá IV (Bali Park) - a partir da rotatória da
+GO-425
+
+Diminuição do tempo de viagem com a
+pavimentação da via de acesso ao Povoado dos
+Americanos - a partir do Cond. Residencial
+Ecoville
+
+Diminuição do tempo de viagem com a
+pavimentação da via de acesso ao Povoado do
+Surucucu - a partir do Pq de Exposições
+
+Diminuição do tempo de viagem com a
+implantação da via Jd Ingá/Luziânia
+
+Relação entre extensão de ciclovias implantadas
+ao final do Programa pela população (a cada mil
+habitantes)
+
+Ampliação do atendimento de domicílios com
+vias pavimentadas
+
+Diminuição na quantidade de áreas de risco,
+conforme Relatório do Corpo de Bombeiros
+
+Relação entre quantidade de equipamentos de
+esporte, lazer e bem estar pela população (a
+cada mil habitantes)
+
+
+### 2.7. Projeto/Componentes
+
+
+minutos
+
+minutos
+
+minutos
+
+Fórmula de Cálculo Unidade de Medida
+Razão entre a
+distância percorrida (
+antes e após Projeto)
+dividida pela
+velocidade média do
+percurso.  Tempo =
+Distância/Vel.Média
+Razão entre a
+distância percorrida (
+antes e após Projeto)
+dividida pela
+velocidade média do
+percurso.  Tempo =
+Distância/Vel.Média
+Razão entre a
+distância percorrida (
+antes e após Projeto)
+dividida pela
+velocidade média do
+percurso.  Tempo =
+Distância/Vel.Média
+Razão entre a
+distância percorrida (
+antes e após Projeto)
+dividida pela
+velocidade média do
+percurso.  Tempo =
+Distância/Vel.Média
+Extensão de eixo de
+ciclovias implantadas
+em km / 1000
+habitantes
+Nº total de domicílios /
+Nº total de extensão
+de vias pavimentas
+Quantidade de pontos
+de alagamentos
+segundo Relatório do
+Corpo de Bombeiros
+Quantidade de
+equipamentos
+urbanos / (população
+atual /1000)
+
+Un/ (população atual
+/100
+
+km/ (população atual
+/100
+
+unidade
+
+minutos
+
+%
+
+Linha de Base
+24,00
+
+Meta
+15,00
+
+14,00
+
+10,00
+
+40,00
+
+30,00
+
+26,00
+
+10,00
+
+0,00
+
+0,08
+
+60,00
+
+10,00
+
+80,00
+
+5,00
+
+0,11
+
+0,14
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Componentes
+C - INFRAESTRUTURA
+S - VIAS ESTRUTURANTES
+P - Via de Acesso ao Bali Park
+P - Via de Acesso ao Povoado dos Americanos
+P - Via de Acesso ao Povoado do Surucucu
+P - Via de Ligação Luziânia - Jardim Ingá
+P - Pontes em eixos de ligação
+S - URBANIZAÇÃO
+P - Calçada na Av. das Laranjeiras - Dalva V
+P - Ciclovia - Parque de Exposições - Bar do Manelão
+P - Calçada - Margem da BR-040 ao Complexo Dial
+P - Calçada - Margem da BR-040 - Jardim Ipê ao Parque Mingone I
+P - Calçada - Margem da BR-040 - Parque Mingone I ao Posto Machado
+P - Calçada - Av. das Ameixas - Parque Estrela Dalva IX e X
+P - Calçada e Ciclovia - Av. Alameda Santa Maria - Aeroporto - Alameda Paiva
+S - REQUALIFICAÇÃO DE BAIRROS
+P - Recapeamento - ruas do Centro e rota de ônibus do Jardim Ingá
+P - Sistema de drenagem e pavimentação - Distrito do Jardim Ingá
+P - Sistema de drenagem e pavimentação - Expansão 01
+P - Sistema de drenagem e pavimentação - Expansão 02
+P - Sistema de drenagem e pavimentação - Centro
+C - EQUIPAMENTOS URBANOS
+S - IMPLANTAÇÃO E REQUALIFICAÇÃO DE PRAÇAS E ENTORNO
+P - Requalificação da Praça do Divino Espírito Santo
+P - Construção de Praça na Avenida Pianco
+P - Construção de Praça na Avenida Lucena Roriz X - Parque Estrela Dalva IX e X
+P - Construção de Praça no Residencial Parque Faro
+P - Construção de Praça no Bairro Parque Mingone I
+P - Construção de Praça no Pro Lote
+P - Requalificação da Praça do Banco do Brasil
+S - IMPLANTAÇÃO E REESTRUTURAÇÃO DE EQUIPAMENTOS DE ESPORTE E LAZER
+P - Construção de Campo Amador no Jardim Ingá
+P - Construção do Complexo de Esporte e Lazer no Campo da Ampa
+P - Construção do Complexo de Esporte e Lazer no Parque Industrial
+P - Reforma do Complexo de Esporte do Jardim Ingá
+S - MODERNIZAÇÃO DE EQUIPAMENTOS PÚBLICOS
+P - Parque Ecológico
+P - Pórtico de Entrada do Jardim Ingá
+P - Construção da Estrutura da Feira no Distrito do Jardim Ingá
+P - Reforma do Terminal Rodoviário
+P - Reforma da Rodoviária
+P - Reforma da Guarda Municipal do Distrito do Jardim Ingá
+P - Reforma e Recuperação de Pontos de Ônibus
+P - Reforma da Estrutura da Feira Centro
+C - GESTÃO DO PROGRAMA
+P - Gerenciamento
+P - Relatório de Auditoria
+P - Comissão de Administração (0,70% ou 0,60% da operação de crédito)
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 6
+
+Valor(US$)
+29.875.000,00
+4.750.000,00
+700.000,00
+750.000,00
+1.500.000,00
+1.350.000,00
+450.000,00
+1.865.000,00
+40.000,00
+750.000,00
+300.000,00
+250.000,00
+100.000,00
+275.000,00
+150.000,00
+23.260.000,00
+5.100.000,00
+7.290.000,00
+1.950.000,00
+6.770.000,00
+2.150.000,00
+2.680.000,00
+795.000,00
+20.000,00
+65.000,00
+65.000,00
+60.000,00
+40.000,00
+45.000,00
+500.000,00
+1.020.000,00
+120.000,00
+420.000,00
+390.000,00
+90.000,00
+865.000,00
+30.000,00
+70.000,00
+250.000,00
+130.000,00
+90.000,00
+35.000,00
+40.000,00
+220.000,00
+1.195.000,00
+925.000,00
+80.000,00
+190.000,00
+33.750.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - INFRAESTRUTURA
+O conjunto de ações a serem implementadas pelo Componente Infraestrutura são resultantes do levantamento de obras
+consideradas prioritárias para o município de Luziânia e que, em sua maioria, estão previstas no PPA nos Programas "Luziânia
+Restaurada" e "Mobilidade Urbana Eficiente". Estas intervenções beneficiarão diretamente toda a população de Luziânia e os
+benefícios indiretos podem ser estendidos para a população flutuante não contabilizada que acessa os lagos do Corumbá para fins
+de descanso e lazer.
+Este componente divide-se em quatro subcomponentes: 1.1 Vias Estruturantes; 1.2 Urbanização; e 1.4 Requalificação de Bairros.
+(Ver Matriz de Alinhamento no Anexo 4)
+
+S - VIAS ESTRUTURANTES
+Estas ações buscam a reestruturação das vias de ligação, a fim de promover conexão e integração entre áreas importantes da
+cidade, tanto do ponto de vista econômico, como de deslocamentos da população local. Além disso, prevê a estruturação de
+pontes de ligação que recebem consideráveis fluxos de automóveis, mas que ainda são de madeira, exigindo manutenções
+frequentes durante o ano. Ver Anexo1, figura 15 - Mapa de localização das Vias Estruturantes.
+
+
+Página: 7
+
+P - Via de Acesso ao Bali Park
+A proposta da nova via será proporcionar acesso a loteamentos residenciais, fazendas e ao novo empreendimento Bali Park,
+localizado próximo à Rodovia Lucena Roriz. Este acesso também pode ser chamado de "Futuro Distrito Turístico de Luziânia" GO,
+com o intuito de consolidar o novo eixo viário aos parcelamentos futuros. Esta intervenção apresenta todos os Projetos Executivos
+finalizados. Ressalta-se que a terraplenagem destas intervenções serão realizadas com equipamentos e equipe da própria
+Prefeitura Municipal. Portanto, os valores destas intervenções referem-se a implantação da capa asfáltica. Ver Anexo1, figura 15 -
+Mapa de localização das Vias Estruturantes.
+Meta total da Intervenção:
+- 8,5 Km de pavimentação asfáltica, sendo uma faixa de rolamento de 3,50m por sentido, e faixa de acostamento de 2,5m. A caixa
+da via será no total de 12,0m.
+- 8,5Km de sinalização viária horizontal e vertical.
+
+P - Via de Acesso ao Povoado dos Americanos
+A proposta configura-se na ligação do bairro Centro e anel rodoviário com o Bairro Povoado dos Americanos, localizado ao sul do
+município de Luziânia. A divisão dos lotes e abertura de terraplenagem do Povoado dos Americanos ocorreu por volta de 2017 e
+desde lá o acesso principal do bairro é feito por via não pavimentada, ocasionando transtornos aos moradores locais,
+principalmente em épocas de chuvas. Esta intervenção apresenta todos os Projetos Executivos finalizados. Ver Anexo1, figura 15 -
+Mapa de localização das Vias Estruturantes.
+Meta total da Intervenção:
+- 7,00 Km de pavimentação asfáltica, sendo uma faixa de rolamento de 3,50m por sentido.
+- 7,00Km de sinalização viária horizontal e vertical.
+
+P - Via de Acesso ao Povoado do Surucucu
+A Via de Acesso ao Povoado do Sucururu é um importante eixo de escoamento de grãos do município de Luziânia, já que dá
+ingresso a grandes fazendas, tais como a Fazenda Pamplona e Gransafra. A proposta desta intervenção complementa a
+pavimentação asfáltica que foi interrompida próximo ao Rodeio Caixeta. Esta via também dá caminho aos condomínios e
+loteamentos localizados no Lago Corumbá III. Esta intervenção apresenta todos os Projetos Executivos finalizados. Ver Anexo1,
+figura 15 - Mapa de localização das Vias Estruturantes.
+Meta total da Intervenção:
+- 14,00 Km de pavimentação asfáltica, sendo uma faixa de rolamento de 3,50m por sentido, e faixa de acostamento de 2,5m. A
+caixa da via será no total de 12,0m.
+- 14,00Km de sinalização viária horizontal e vertical.
+
+P - Via de Ligação Luziânia - Jardim Ingá
+A ligação do Distrito do Jardim Ingá ao Bairro Centro de Luziânia é feita pela BR-040. Este produto propõe acesso direto de um
+bairro ao outro, sem que seja necessário adentrar em rodovia e marginais. Atualmente, esta ligação é feita por estrada de terra, e
+além de não estar pavimentada, não apresenta dimensões corretas de caixa de via. Também não possui sinalização viária
+horizontal e vertical. A intervenção inicia na Av. das Ameixas, próximo da Av. 03 (Jardim Ingá) e segue sentido Enel até a R. 15 de
+novembro (Luziânia). Este produto necessita da elaboração de Projeto Executivo. Ver Anexo1, figura 15 - Mapa de localização das
+Vias Estruturantes.
+Meta total de intervenção:
+- 10,5 Km de pavimentação asfáltica, sendo uma faixa de rolamento de 3,50m por sentido, e faixa de acostamento de 2,5m. A
+caixa da via será no total de 12,0m.
+- 10,5 Km de sinalização viária horizontal e vertical.
+
+P - Pontes em eixos de ligação
+A proposta da construção destas pontes é promover ligação entre bairros do município qualificando a mobilidade urbana e gerando
+novos eixos de deslocamento entre a área central e seus arredores. Este produto propõe a implantação de 04 (quatro) pontes. Ver
+Anexo1, figura 15 - Mapa de localização das Vias Estruturantes.
+Metas da intervenção:
+- Ponte sobre o Rio Palmital - execução de uma nova ponte sobre o Rio Palmital localizado no Distrito do Jardim Ingá, na R.
+Quinze, entre a R.91 com a Av. Segunda. Intervenção dom extensão aproximadamente de 15 metros, com duas faixas de
+rolamento de 3,50 m por sentido, calçada lateral de 1,20 m. Será necessário a elaboração de Projeto de Obra de Arte - OAE,
+Projeto de Pavimentação, Projeto de Sinalização Viária.
+- Ponte sobre o Ribeirão das Éguas (Mato Grande) - execução de uma nova ponte sobre o Ribeirão das Éguas, localizado em Mato
+Grande, próximo a GO - 010. Intervenção dom extensão aproximadamente de 15 metros, com duas faixas de rolamento de 3,50 m
+por sentido, calçada lateral de 1,20 m. Será necessário a elaboração de Projeto de Obra de Arte - OAE, Projeto de Pavimentação,
+Projeto de Sinalização Viária.
+- Ponte sobre o Rio Vermelho (Piteirinha) - execução de uma nova ponte sobre o Rio Vermelho localizado em Piteirinha, Tv. Dos
+Mineiros, entre a R. Araguatins com Av. Carlos Gomes. Intervenção com extensão aproximadamente 12,5 metros, com duas faixas
+de rolamento de 3,50 m por sentido, calçada lateral de 1,20 m. Será necessário a elaboração de Projeto de Obra de Arte - OAE,
+Projeto de Pavimentação, Projeto de Sinalização Viária.
+- Ponte sobre o Rio Vermelho (Americanos) - esta intervenção complementa o  - Produto - Via de Acesso ao Povoado dos
+Americanos - com execução de uma nova ponte sobre o Rio Vermelho, extensão aproximada de 15 metros, com duas faixas de
+rolamento de 3,50 m por sentido, calçada lateral de 1,20 m. Será necessário a elaboração de Projeto de Obra de Arte - OAE,
+Projeto de Pavimentação, Projeto de Sinalização Viária.
+
+
+Página: 8
+
+S - URBANIZAÇÃO
+Estas ações tem como objetivo a implantação de calçamentos e ciclovia, de forma a prover o município de Luziânia de espaços
+adequados à caminhada e a utilização de bicicletas como meio de transporte não motorizado. Ver Anexo1, figura 16 - Mapa de
+localização das intervenções de Urbanização.
+
+P - Calçada na Av. das Laranjeiras - Dalva V
+Esta intervenção propõe a criação de passeios públicos na Av. das Laranjeiras, via de ligação no Bairro Parque Estrela Dalva V. O
+objetivo desta intervenção é qualificar o espaço público, garantindo acessibilidade e caminhabilidade. Este produto apresenta todos
+os Projetos Executivos finalizados. Ver Anexo1, figura 16 - Mapa de localização das intervenções de Urbanização.
+Meta total de intervenção:
+- 3.000m² de área de calçadas, observando os usos de faixas de serviços e faixas livre de pedestre (mínimo de 1,20m).
+- arborização urbana, acessibilidade.
+
+P - Ciclovia - Parque de Exposições - Bar do Manelão
+Esta intervenção propõe a integração do Parque de Exposições de Luziânia ao Bar do Manelão (Rodovia Municipal Galdino Borges
+) por meio do transporte não motorizado cicloviário. Esta rota já é utilizada atualmente como ciclovia, no entanto, não possui
+estrutura para as necessidades dos ciclistas.
+Esta ciclovia possui extensão aproximada de 6,5 km, com largura de 2,5 m (bidirecional). Os Projetos Executivos já se encontram
+finalizados. Ver Anexo1, figura 16 - Mapa de localização das intervenções de Urbanização e figura 17 - Localização das ciclovias.
+Meta total de intervenção:
+- 16.400m² de área de pavimentação de ciclovia - aproximadamente 6,5 km de extensão.
+- Aprox. 6,5 km de sinalização viária horizontal e vertical.
+
+P - Calçada - Margem da BR-040 ao Complexo Dial
+Esta intervenção propõe a criação de passeios públicos na Av. Sérgio Buarque de Holanda, via de ligação até o Complexo Dial. O
+objetivo é qualificar o espaço público, garantindo acessibilidade e caminhabilidade. Este produto não apresenta Projeto Executivo,
+sendo necessária sua contratação. Ver Anexo1, figura 16 - Mapa de localização das intervenções de Urbanização.
+Meta total de intervenção:
+- 5.800m² de área de calçadas, observando os usos de faixas de serviços e faixas livre de pedestre (mínimo de 1,20m).
+- arborização urbana, acessibilidade.
+
+P - Calçada - Margem da BR-040 - Jardim Ipê ao Parque Mingone I
+Proposta de calçada na via marginal oeste da BR-040, sentido Brasília/DF. Esta via não apresenta acessibilidade, tão pouco
+calçada em sua extensão, sendo uma via de conexão entre bairros. O trecho inicia-se no Posto Ipê com a Av. Minas Gerais no
+Bairro Jardim Ipê, margens da BR-040 até a R. Pernambuco com a R.1, no Parque Mingone I, também às margens da BR-040.
+Este produto não apresenta Projeto Executivo, sendo necessária sua contratação. Ver Anexo1, figura 16 - Mapa de localização das
+intervenções de Urbanização.
+Meta total de intervenção:
+- 4,8 km de extensão de calçada, com largura mínima de 1,20 m de faixa livre e 0,50 m de faixa de serviço
+- Projeto de Urbanismo e Acessibilidade;
+
+P - Calçada - Margem da BR-040 - Parque Mingone I ao Posto Machado
+Esta intervenção propõe a criação de passeios públicos na marginal leste da BR-040 sentido Brasília/DF, próximo ao Posto
+Machado do Bairro Jardim Ingá até ao Bairro Parque Mingone I na R. 32. O objetivo desta intervenção é qualificar o espaço público
+, garantindo acessibilidade e caminhabilidade, principalmente nos pontos de travessias de pedestres aéreas (passarelas). Este
+produto não apresenta Projeto Executivo, sendo necessário sua contratação. Ver Anexo1, figura 16 - Mapa de localização das
+intervenções de Urbanização.
+Meta total de intervenção:
+- 1.300m² de área de calçadas, observando os usos de faixas de serviços e faixas livre de pedestre (mínimo de 1,20m).
+- Acessibilidade urbana.
+
+P - Calçada - Av. das Ameixas - Parque Estrela Dalva IX e X
+Esta intervenção propõe a criação de passeios públicos na Av. das Ameixas, via de ligação importante entre os Bairros Jardim Ingá
+e Parque Estrela Dalva IX e X. O objetivo desta intervenção é qualificar o espaço público, garantindo acessibilidade e
+caminhabilidade. Este produto não apresenta Projeto Executivo, sendo necessária sua contratação. Ver Anexo1, figura 16 - Mapa
+de localização das intervenções de Urbanização.
+Meta total de intervenção:
+- 6.000m² de área de calçadas, observando os usos de faixas de serviços e faixas livre de pedestre (mínimo de 1,20m).
+- Acessibilidade urbana.
+
+P - Calçada e Ciclovia - Av. Alameda Santa Maria - Aeroporto - Alameda Paiva
+Esta intervenção propõe a criação de calçadas e ciclovia nas Avenidas Alameda Santa Maria, Aeroporto, Alameda Paiva e Central,
+no Bairro Setor Fumal. Estas vias possuem largura adequada e canteiro central amplo, possibilitando a implantação da ciclovia.
+O objetivo desta intervenção é qualificar o espaço público, garantindo acessibilidade e caminhabilidade. Este produto não possui
+Projetos Executivos, sendo necessário sua contratação. Ver Anexo1, figura 16 - Mapa de localização das intervenções de
+Urbanização e figura 17 - Localização das ciclovias.
+Meta total de intervenção:
+- 2.730,00m² de área de calçadas compartilhadas, observando a largura mínima de 3,00 m para o compartilhamento.
+
+
+Página: 9
+
+- Acessibilidade urbana e Sinalização Viária para o compartilhamento dos usuários.
+
+S - REQUALIFICAÇÃO DE BAIRROS
+Estas ações preveem a implantação de sistema de drenagem e pavimentação em bairros precários, de forma a diminuir os eventos
+de enchentes, inundações e alagamentos em áreas de risco. Ao todo serão contemplados 28 bairros, 11 deles no Distrito do
+Jardim Ingá.
+Ressalta-se que nas áreas onde ainda não há rede de água esgoto será previsto um canteiro ao longo das intervenções para
+futura instalação desses sistemas. O cadastro geral da rede de esgoto encontra-se no Anexo 7.
+Ver Anexo1, figura 18 - Mapa geral de localização das intervenções - Requalificação de Bairros.
+
+P - Recapeamento - ruas do Centro e rota de ônibus do Jardim Ingá
+Serão realizadas obras de recapeamento das ruas centrais do Bairro Jardim Ingá e das rotas de ônibus, visto a necessidade de
+melhoramento asfáltico por conta das chuvas, alagamentos, aparecimento de buracos e entulhos. A camada de rolamento
+consistirá na aplicação de Concreto Betuminoso Usinado a Quente (CBUQ) com CAP 50/70, com uma espessura constante
+mínima compactada de 3,0 cm, por meio de vibro-acabadora, sobre o pavimento existente regular em toda a pista de rolamento
+dos veículos. A execução deverá obedecer rigorosamente o Projeto Executivo elaborado, assim como as especificações do
+Memorial Descritivo. Ver Anexo1, figura 18 - Mapa geral de localização das intervenções - Requalificação de Bairros.
+Meta total da intervenção:
+- 48 km de recapemento asfáltico de vias;
+- 48 km de sinalização viária horizontal e vertical;
+
+P - Sistema de drenagem e pavimentação - Distrito do Jardim Ingá
+O Produto abrange os seguintes bairros do Distrito do Jardim Ingá:
+- Jardim Flamboyant: em complementação às obras já iniciadas, próximo as unidades habitacionais populares Residencial Ville,
+Conquista Ville e Residencial Gran Acrópolis I e II, serão implantadas galerias de drenagem pluvial, pavimentação asfáltica e
+sinalização viária horizontal em 11 trechos. Já possui Projeto Executivo.
+- Mansão Campinas: obras para a implantação de galerias de drenagem pluvial, pavimentação asfáltica nas ruas e sinalização
+viária horizontal e vertical: - R. 2, que margeia a unidade habitacional popular Residencial Riviera Paraiso II e que está dentro da
+Faixa de Domínio da Ferrovia FCA, concessionada pela VLI; - R. 1, entre R. 2 e Av. 2; - Av. 2, entre R. 1 e R. 2; - Av. 3, entre R. 1
+e R. 2; e - R. 2, entre Av. 2 e Av. 3. Esses trechos encontram-se por acessos de terra, e mesmo que apresentem saneamento
+básico implantado, estas vias não possuem pavimentação, drenagem pluvial e sinalização viária horizontal e vertical. Já possui
+Projeto Executivo.
+- Jardim Planalto: em complementação às obras já iniciadas serão implantadas galerias de drenagem pluvial, pavimentação
+asfáltica nas ruas e sinalização viária horizontal e vertical: - R. 3, entre a R.12 e R. 29; - Av. Central, entre a R. 5 e R. 4; - R. Santo
+Antônio, que vira R. 21 (início na Av. de Penetração III até R. 21); - R. 14, entre R. 21 e R. 22; - Av. 03, entre R. 7 e R. Vinte e Dois;
+- R. 22, entre R. 14 e Av. 3. Já possui Projeto Executivo.
+- Jardim Zuleika/Jockei Clube: em complementação às obras já iniciadas, próximo as unidades habitacionais populares, serão
+implantadas galerias de drenagem pluvial, pavimentação asfáltica em 17 trechos que ainda se encontram por passagem de terra, e
+mesmo que apresentem saneamento básico implantado, não possuem pavimentação, drenagem pluvial e sinalização viária
+horizontal e vertical. NÃO possui Projeto Executivo.
+- Pró-Lote: obras para a implantação de galerias de drenagem pluvial, pavimentação asfáltica e sinalização viária horizontal e
+vertical na Av. Jorge Lago Moura, entre o trecho do Marangoni RT Pneus e o Ponto Infiniti, às margens da BR-040. Já possui
+Projeto Executivo elaborado.
+- Parque Cruzeiro do Sul/Parque Nova Iguaçu: obras para a implantação de galerias de drenagem pluvial, pavimentação asfáltica e
+sinalização viária horizontal e vertical em aproximadamente 27 ruas. Já possui Projeto Executivo elaborado.
+- Distrito do Jardim Ingá: implantação de galerias de drenagem pluvial, pavimentação asfáltica e sinalização viária horizontal e
+vertical em 15 trechos com a inserção de sinalização viária horizontal e vertical. NÃO possui Projeto Executivo.
+- Parque São Sebastião: em complementação às obras já iniciadas próximo ao Jardim Marília e Parque Mingone II, serão
+implantadas galerias de drenagem pluvial, pavimentação asfáltica e sinalização viária horizontal e vertical em três trechos. Possui
+Projeto Executivo elaborado.
+- Jardim Marília: em complementação as obras já iniciadas próximo ao Parque Mingone II, e que tem por acessos principais a R.
+Santo Antônio e Av. Brasília, serão implantadas galerias de drenagem pluvial, pavimentação asfáltica e sinalização viária horizontal
+e vertical em 33 trechos. Possui Projeto Executivo elaborado.
+- Parque Mingone I: em complementação às obras já iniciadas próximo ao SEST/SENAT Luziânia e com acesso às margens da BR
+-040, serão implantadas galerias de drenagem pluvial, pavimentação asfáltica e sinalização viária horizontal e vertical em 13
+trechos. Alguns destes trechos ficam próximo à Praça Mingone I que também será revitalizada. Possui Projeto Executivo elaborado
+.
+- Parque Mingone II: em complementação as obras já iniciadas na margem direita da BR-040 sentido Brasília/DF, serão
+implantadas galerias de drenagem pluvial, pavimentação asfáltica e sinalização viária horizontal e vertical em 24 trechos. Alguns
+destes trechos ficam próximo à Praça Mingone II que aloca serviços públicos (UBSF, Escola, Creche Municipal, Igreja). Possui
+Projeto Executivo elaborado.
+
+A execução destas obras deverão obedecer rigorosamente os Projetos Executivos, assim com as especificações dos Memoriais
+Descritivos.
+Meta total de intervenção:
+- 43 Km de drenagem pluvial, rede, boca de lobo, bueiro, etc.
+- 43 Km de pavimentação asfáltica, sendo uma faixa de rolamento de 3,50m por sentido.
+- 43 Km de sinalização viária horizontal e vertical.
+
+
+Página: 10
+
+Ver Anexo1, figura 18 - Mapa geral de localização das intervenções - Requalificação de Bairros e figura 19 - Mapa de localização
+das intervenções - Jardim Ingá.
+
+P - Sistema de drenagem e pavimentação - Expansão 01
+Mansão Recreio/Parque Estrela Dalva IV:  obras para a implantação de galerias de drenagem pluvial, pavimentação asfáltica e
+sinalização viária horizontal em 13 ruas. Este bairro é acessado tanto pelas margens da BR-040, como também pela Av. das
+Palmeiras, via duplicada que dá acesso à Fábrica Flora (Minuano). As intervenções localizam-se nas vias locais perpendiculares a
+Av. das Palmeiras. NÃO possui Projeto Executivo.
+- Parque Sol Nascente: Em complementação às obras já iniciadas, serão implantadas galerias de drenagem pluvial, pavimentação
+asfáltica nas seguintes ruas e sinalização viária horizontal e vertical: - R. 20 até R.Três; - R. 21 - R. Vinte e Dois até R. 3 - R. Vinte
+e Três; - Av. das Acácias até R. 2; - R. Três, entre Av. das Acácias e R. 23; - R. 3, entre R. 23 e R. Vinte e Dois; - R. 5, entre R. 3 e
+R .2. NAÕ possui Projeto Executivo.
+- Jardim Cidade Esperança: obras para a implantação de galerias de drenagem pluvial, pavimentação asfáltica e sinalização viária
+horizontal e vertical em 18 ruas. Este bairro é ligado ao Bairro Jardim Europa e fica às margens da BR-040. NÃO possui Projeto
+Executivo.
+- Cidade Industrial Francaroli: obras para a implantação de galerias de drenagem pluvial, pavimentação asfáltica e sinalização
+viária horizontal e vertical em 8 ruas. Este bairro é acessado pelas marginais da BR-040. NÃO possui Projeto Executivo.
+- Jardim Europa: obras para a implantação de galerias de drenagem pluvial, pavimentação asfáltica e sinalização viária horizontal e
+vertical em 17 ruas. A via de acesso principal ao bairro que vai em direção a praça com equipamentos públicos encontra-se
+pavimentada, no entanto, as vias locais e que dão acesso aos lotes, em sua maioria residenciais, ainda não estão pavimentadas.
+NÃO possui Projeto Executivo.
+
+A execução destas obras deverão obedecer rigorosamente os Projetos Executivos, assim com as especificações dos Memoriais
+Descritivos.
+Meta total de intervenção:
+- 8,44 Km de drenagem pluvial, rede, boca de lobo, bueiro, etc.
+- 8,44 Km de pavimentação asfáltica, sendo uma faixa de rolamento de 3,50m por sentido.
+- 8,44 Km de sinalização viária horizontal e vertical.
+Ver Anexo1, figura 18 - Mapa geral de localização das intervenções - Requalificação de Bairros e figura 20 - Mapa de localização
+das intervenções - Expansão 01.
+
+P - Sistema de drenagem e pavimentação - Expansão 02
+- Parque Três Poderes: obras para implantação de galerias de drenagem pluvial, pavimentação asfáltica e sinalização viária
+horizontal e vertical nas ruas 8, 15 a 25. NÃO possui Projeto Executivo.
+- Parque Santa Fé: obras para implantação de galerias de drenagem pluvial, pavimentação asfáltica e sinalização viária horizontal
+e vertical em 34 ruas. NÃO possui Projeto Executivo.
+- Parque São Judas Tadeu: obras para a implantação de galerias de drenagem pluvial, pavimentação asfáltica e sinalização viária
+horizontal e vertical em 14 ruas. Possui Projeto Executivo desenvolvido.
+- Parque Alvorada (parte de baixo): obras para a implantação de galerias de drenagem pluvial, pavimentação asfáltica e sinalização
+viária horizontal e vertical em 17 ruas. O Parque Alvorada é dividido pela Av. Dr. Nélio Rolim em parte baixa e parte alta (de cima).
+Percebe-se que a parte baixa é mais ocupada e adensada, principalmente por residências unifamiliares. NÃO possui Projeto
+Executivo.
+- Parque Alvorada (parte de cima): obras para a implantação de galerias de drenagem pluvial, pavimentação asfáltica e sinalização
+viária horizontal e vertical em 26 ruas. O Parque Alvorada é dividido pela Av. Dr. Nélio Rolim em parte baixa e parte alta (de cima).
+Ao contrário da parte baixa, a parte de cima é bem menos ocupada, e essa área dá acesso a outras áreas loteadas em expansão.
+NÃO possui Projeto Executivo.
+
+A execução destas obras deverão obedecer rigorosamente os Projetos Executivos, assim com as especificações dos Memoriais
+Descritivos.
+Meta total de intervenção:
+- 26,5 Km de drenagem pluvial, rede, boca de lobo, bueiro, etc.
+- 26,5 Km de pavimentação asfáltica, sendo uma faixa de rolamento de 3,50m por sentido.
+- 26,5 Km de sinalização viária horizontal e vertical.
+Ver Anexo1, figura 18 - Mapa geral de localização das intervenções - Requalificação de Bairros e figura 21 - Mapa de localização
+das intervenções - Expansão 02.
+
+P - Sistema de drenagem e pavimentação - Centro
+- Jardim Luzilia: obras para a implantação de galerias de drenagem pluvial, pavimentação asfáltica e sinalização viária horizontal e
+vertical em 23 ruas. Próximo aos trechos de intervenção localizam-se a Catedral Diocesana de Luziânia, o Fórum de Luziânia -
+TJGO e a Igreja Recanto Mel de Deus, além das vias Av. Sara Kubitscheck e Av. sete. NÃO possui Projeto Executivo.
+- Setor Norte Maravilha: obras para implantação de galerias de drenagem pluvial, pavimentação asfáltica e sinalização viária
+horizontal e vertical nas ruas: - R. Dr. Simão C. de Mendonça, entre o Residencial Alto Maravilha X e o Condomínio Le Parc
+Luziânia; - R. Sebastião Carnei com R. R. Dr. Simão C. de Mendonça; - R. 11, entre R. Cinco e R. Sebastião Carneiro de
+Mendonça. NÃO possui Projeto Executivo.
+- Vila Juracy: obras para implantação de drenagem pluvial, pavimentação asfáltica e sinalização viária horizontal e vertical nas
+Ruas 16,17, 18, 22 e 22A, localizadas no Bairro Vila Juracy, próximo ao Parque Ecológico. NÃO possui Projeto Executivo.
+- Setor Sul: obras para implantação de galerias de drenagem pluvial, pavimentação asfáltica e sinalização viária horizontal e
+vertical.na R. Gonçalves Soares, com início na R. Braz Queiroz até Primeira Avenida, R. Braz Queiroz. NÃO possui Projeto
+Executivo.
+
+
+Página: 11
+
+- São Caetano: obras para implantação de drenagem pluvial, pavimentação asfáltica e sinalização viária horizontal e vertical nas
+seguintes ruas: - R. Araguatins, entre Av. Carlos Gomes e R. Natividade; - R. Natividade, entre R. Araguatins e R. Rialma; - R.
+Rialma, entre Av. Carlos Gomes e R. Ceres; - R. Ceres, entre R. Ipameri e R. Porongatu; - R. Porongatu, entre R. Ceres e Av.
+Juscelino Kubitscheck. NÃO possui Projeto Executivo.
+- Parque Estrela Dalva IV: obras para implantação de galerias de drenagem pluvial, pavimentação asfáltica e sinalização viária
+horizontal e vertical em 9 ruas. NÃO possui Projeto Executivo.
+- Parque Estrela Dalva V: obras para a implantação de galerias de drenagem pluvial, pavimentação asfáltica e sinalização viária
+horizontal e vertical em 17 ruas. Possui Projeto Executivo elaborado.
+
+A execução destas obras deverão obedecer rigorosamente os Projetos Executivos, assim com as especificações dos Memoriais
+Descritivos.
+Meta total de intervenção:
+- 18 Km de drenagem pluvial, rede, boca de lobo, bueiro, etc.
+- 18 Km de pavimentação asfáltica, sendo uma faixa de rolamento de 3,50m por sentido.
+- 18 Km de sinalização viária horizontal e vertical.
+Ver Anexo1, figura 18 - Mapa geral de localização das intervenções - Requalificação de Bairros e figura 22 - Mapa de localização
+das intervenções - Centro.
+
+C - EQUIPAMENTOS URBANOS
+O conjunto de ações a serem implementadas pelo Componente Equipamentos Urbanos, tem como objetivos a implantação de
+novos equipamentos urbanos em áreas onde há escassez e requalificação de equipamentos urbanos já existentes, buscando
+atender às necessidades da comunidade quanto às estruturas de esporte, lazer, bem estar e convivência, transporte e segurança,
+e como forma de qualificação do espaço urbano, humanização da cidade e inserção de áreas verdes e permeáveis.
+Este componente divide-se em três subcomponentes: 2.1 Implantação e Requalificação de Praças e Entorno; 2.2 Implantação e
+Restruturação de Equipamentos de Esporte e Lazer; e 2.3 Modernização de Equipamentos Públicos.
+(Ver Matriz de Alinhamento no Anexo 4)
+
+S - IMPLANTAÇÃO E REQUALIFICAÇÃO DE PRAÇAS E ENTORNO
+Estas ações buscam proporcionar à população de Luziânia novas áreas de lazer e convivência, a partir da ocupação de vazios
+urbanos com a implantação de praças. Além do lazer, espaços públicos como as praças proporcionam a integração da família na
+comunidade, mas também contribuem para melhor qualidade de vida. Ao todo serão construídas cinco novas praças e duas serão
+requalificadas.
+
+P - Requalificação da Praça do Divino Espírito Santo
+Esta intervenção, conforme previsto em Projeto Executivo, consiste na requalificação da praça do Divino Espírito Santo, e busca
+promover a segurança dos usuários do espaço, através da adequação das calçadas e escadas existentes, construção de muros de
+arrimo e taludes devido ao desnível, construção de rampas de acesso, implantação de bancos em concreto e plantio grama e de
+árvores nativas da região. Ver Anexo1, figura 23.
+Meta:
+Reurbanização de 400 m², sendo 215 m² de piso e 185 m² de plantio de grama.
+
+P - Construção de Praça na Avenida Pianco
+A intervenção da Praça na Avenida Pianco, pretende disponibilizar uma nova área de lazer, socialização e convívio para os
+moradores da cidade. A praça contará com a urbanização de sua área com a inclusão de Playground e Equipamentos de Ginástica
+ao ar livre, além de áreas com paisagismo. Não existe Projeto Executivo.
+Meta:
+2.000 m² de área construída
+
+P - Construção de Praça na Avenida Lucena Roriz X - Parque Estrela Dalva IX e X
+A Construção da Praça na Av. Lucena Roriz, possui projeto executivo e prevê a urbanização da área com a implantação de
+playground, academia ao ar livre, um palco e arquibancadas, além de canteiros com paisagismo. Ver Anexo1, figura 24.
+Meta:
+2.260 m² de área total, sendo o Quiosque: 50 m², Palco 35 m², PlayGround:100 m², Academia ao ar livre: 125 m².
+
+P - Construção de Praça no Residencial Parque Faro
+A intervenção da Praça no Residencial Parque Faro, pretende disponibilizar uma nova área de lazer, socialização e convívio para
+os moradores da cidade. A praça contará com a urbanização de sua área com a inclusão de Playground e Equipamentos de
+Ginástica ao ar livre, além de áreas com paisagismo. Não existe Projeto Executivo.
+Meta:
+1.875 m² de área construída
+
+P - Construção de Praça no Bairro Parque Mingone I
+A intervenção da Praça no Bairro Parque Mingone I, pretende disponibilizar uma nova área de lazer, socialização e convívio para
+os moradores da cidade. A praça contará com a urbanização de sua área com a inclusão de Playground e Equipamentos de
+Ginástica ao ar livre, além de áreas com paisagismo. Não existe Projeto Executivo.
+Meta:
+1.200 m² de área construída
+
+
+Página: 12
+
+P - Construção de Praça no Pro Lote
+Esta intervenção, pretende disponibilizar uma nova área de lazer, socialização e convívio para os moradores da cidade. A praça
+contará com a urbanização de sua área com a inclusão de Playground e Equipamentos de Ginástica ao ar livre, além de promover
+áreas de paisagismo. Não existe Projeto Executivo.
+Meta:
+1.350 m² de área construída
+
+P - Requalificação da Praça do Banco do Brasil
+Esta intervenção, pretende requalificar a antiga Praça Evangelino Meireles e busca promover a segurança dos usuários do espaço,
+através da adequação das calçadas existentes, construção de rampas de acesso, com paisagismo, e implantação de mobiliários
+urbanos, Playgrounds, quiosque e estacionamento. Não existe Projeto Executivo.
+Meta:
+2.700 m²
+
+S - IMPLANTAÇÃO E REESTRUTURAÇÃO DE EQUIPAMENTOS DE ESPORTE E LAZER
+Estas ações buscam proporcionar à população de Luziânia novas áreas de lazer, esporte e convivência, através da implantação e
+requalificação de equipamentos esportivos. Serão construídos três novos complexos esportivos e será realizada a requalificação
+de um complexo já existente. Estas ações propiciam não só a prática esportiva mas também a melhora na qualidade de vida, bem
+estar social e resgate da auto estima da população.
+
+P - Construção de Campo Amador no Jardim Ingá
+Esta intervenção busca a construção do Complexo com campo de futebol amador no Distrito do Jardim Ingá onde o Projeto
+Executivo comtempla o campo de futebol, 2 arquibancadas cobertas, seis postes de iluminação, Rede de Proteção, alambrados e
+vestiários. Ver Anexo1, figuras 25 e 26.
+Meta:
+Campo de Futebol:1925 m², 2 Arquibancadas de 40m², Vestiários: 95 m²
+
+P - Construção do Complexo de Esporte e Lazer no Campo da Ampa
+A construção do Complexo de Esporte e Lazer no Campo da Ampa, pretende disponibilizar uma nova área de lazer, prática
+esportiva e convívio para os moradores da cidade, com a implantação de quadra poliesportiva, academia ao ar livre, playground
+além de pista de cooper, e toda a parte de urbanismo e paisagismo. Não existe Projeto Executivo. Ver Anexo1, figura 27.
+Meta:
+3.500 m² de área construída.
+
+P - Construção do Complexo de Esporte e Lazer no Parque Industrial
+A construção Complexo de Esporte e Lazer no Parque Industrial, pretende disponibilizar uma nova área de lazer, pratica esportiva
+e convívio para os moradores da cidade, com a implantação de quadra poliesportiva, academia ao ar livre, playground além de
+pista de cooper e de toda parte de urbanismo e paisagismo. Não existe Projeto Executivo.
+Meta:
+3.130 m² de área construída.
+
+P - Reforma do Complexo de Esporte do Jardim Ingá
+A reforma do Complexo do Jardim de Ingá contempla a requalificação do piso de grama sintética, dos alambrados em torno do
+complexo e das quadras, restauração da estrutura de cobertura do ginásio, reforma dos banheiros e vestiários e pintura de uma
+forma geral. Não existe Projeto Executivo.
+Meta:
+3.200,00 m²
+
+S - MODERNIZAÇÃO DE EQUIPAMENTOS PÚBLICOS
+São previstas ações de requalificação/restruturação/modernização das estruturas de diversos equipamentos públicos na cidade.
+
+P - Parque Ecológico
+Nesta intervenção, conforme projeto executivo, está prevista a construção da passarela de madeira ligando a calçada do Parque
+Ecológico já existente à ilha com letreiro. Esta ação visa promover o marketing através de criação de identidade visual para a
+cidade, dando mais visibilidade para o Parque. Ver Anexo1, figuras 28 e 29.
+Meta:
+1 passarela construída com 135 m² e 1 Letreiro escrito Luziânia.
+
+P - Pórtico de Entrada do Jardim Ingá
+Esta intervenção busca a implantação de pórtico de entrada do Jardim Ingá conforme previsto em projeto executivo, criando uma
+identidade visual para o município. O Pórtico terá 32,80 m de Largura, com altura total de 10,50 metros. Estão previstos 3 pilares
+de sustentação com vãos de 12,20 metros entre eles, permitindo assim a passagem de 2 faixas de veículos entre os pilares. Ver
+Anexo1, figuras 30 e 31.
+Meta:
+1 pórtico de Entrada
+
+
+Página: 13
+
+P - Construção da Estrutura da Feira no Distrito do Jardim Ingá
+A construção da estrutura da feira no Distrito do Jardim Ingá permitirá o desenvolvimento econômico, social e cultural da cidade, a
+partir da integração dos pequenos agricultores, artesãos e comerciantes com a comunidade, através da implantação de estrutura
+Física da Feira Livre, contemplando áreas para banheiros, segurança, espaços de carga e descarga. Não existe projeto executivo.
+Meta:
+3.570 m² construídos
+
+P - Reforma do Terminal Rodoviário
+A intervenção no terminal rodoviário contempla a requalificação da plataforma de embarque com a manutenção dos banheiros,
+depósitos, guichês, lanchonetes, restruturação das calçadas e pisos do terminal e do entorno, além da implantação de mobiliários
+urbanos, passagens em nível para Pés estacionamento e melhoria na sinalização viária. As melhorias vão garantir maior
+segurança, conforto e mobilidade para seus usuários. Possui Projeto Executivo. Ver Anexo1, figura 32.
+Meta:
+1.600,00m²
+
+P - Reforma da Rodoviária
+A intervenção na Rodoviária contempla a requalificação da plataforma de embarque com a manutenção dos banheiros, depósitos,
+guichês, lanchonetes e cobertura. Restruturação das calçadas e pisos do terminal e do entorno, além da implantação de
+mobiliários urbanos, passagens em nível para PNE´s, inclusão de estacionamento e melhoria na sinalização viária. As melhorias
+vão garantir maior segurança, conforto e mobilidade para seus usuários. Possui Projeto Executivo. Ver Anexo1, figura 33.
+Meta:
+1.100,00 m²
+
+P - Reforma da Guarda Municipal do Distrito do Jardim Ingá
+A requalificação da Guarda Municipal do Jardim de Ingá visa promover a segurança dos funcionários através da construção do
+muro de proteção em torno da edificação, implantação do piso externo, construção de rampa de acesso para veículo e pedestre e
+troca do portão de acesso. Possui Projeto Executivo. Ver Anexo1, figura 34.
+Meta:
+420,00m² de área reformada
+
+P - Reforma e Recuperação de Pontos de Ônibus
+As obras de reforma e recuperação de pontos de ônibus contemplam a requalificação das paradas de ônibus (em concreto e
+metálicas) do município através da remoção e aplicação de pintura e anticorrosivo, restruturação do piso e da calçada do entorno,
+restauração da estrutura metálica e de concreto, inclusive a de cobertura, manutenção do sistema elétrico e iluminação. Existe
+Projeto Executivo. Ver Anexo1, figura 35.
+Meta:
+87 unidades de Pontos de ônibus.
+
+P - Reforma da Estrutura da Feira Centro
+A reforma da estrutura da feira do Centro visa promover maior segurança e conforto para os trabalhadores e usuários, através da
+restruturação física e requalificação das áreas de banheiros, área técnica, de segurança, espaços de carga e descarga, boxes e
+entorno. Não existe projeto Executivo.
+Meta:
+1.000,00 m² de área reformada
+
+C - GESTÃO DO PROGRAMA
+Ações específicas para gerenciamento do Programa Avança Luziânia e apoio a UGP.
+
+P - Gerenciamento
+Compreende o gerenciamento e controle dos processos inerentes ao programa incluindo a análise preliminar dos projetos. O
+gerenciamento engloba ações que contribuirão para que os órgãos da Prefeitura de Luziânia, envolvidos no campo de ação do
+Programa, exerçam, com maior eficiência e eficácia, as funções pertinentes à execução, acompanhamento e avaliação.
+O gerenciamento do Programa será realizado por meio de uma equipe técnica de nível superior multidisciplinar que deverá ser
+contratada para desenvolver as seguintes atividade :
+- Auxiliar na elaboração do planejamento geral de implantação do Programa;
+- Auxiliar a Secretaria de Governo na elaboração dos documentos a serem utilizados para processos de contratação e repasse de
+recursos no âmbito do Programa, incluindo termos de referência, editais de licitação e minutas de contrato;
+- Assessorar a UGP nos processos licitatórios e de seleção e analisar a sua documentação, verificando a compatibilidade aos
+procedimentos estabelecidos pelo FONPLATA, bem como suficiência de documentos;
+- Analisar e consolidar a prestação de contas dos órgãos participantes da execução do Programa;
+- Assessorar a UGP no gerenciamento dos estudos e ações de assistência técnica do Programa;
+- Auxiliar na preparação de solicitações de desembolso ao FONPLATA, bem como de todos os relatórios requeridos pelo
+FONPLATA e descritos nas normas e políticas do FONPLATA;
+- Apoiar na contabilização dos recursos movimentados;
+- Disponibilizar informações que se façam necessárias para fins de auditoria externa;
+- Mobilizar, sempre que necessário e alinhado com as diretrizes iniciais do Programa, um corpo de especialistas para gerenciar e
+propor soluções para os impactos de fatos imprevistos sobre o andamento do Programa, ou para apoiar a concepção de
+Subprogramas Especiais que a UGP solicitar.
+
+
+Página: 14
+
+Meta:
+Gerenciamento do Programa Avança Luziânia.
+
+P - Relatório de Auditoria
+A Auditoria fará um exame cuidadoso, sistemático e independente, que terá por finalidade realizar o acompanhamento
+físicofinanceiro, averiguando se as atividades desenvolvidas pelas contratadas e pelo município estão de acordo com as
+disposições estabelecidas pela FONPLATA, se foram implementadas com eficácia e se estão em conformidade com os objetivos
+do Programa.
+Meta:
+Auditoria das Obras.
+
+P - Comissão de Administração (0,70% ou 0,60% da operação de crédito)
+Refere-se a taxa consignada nos Termos de Acordo de Empréstimo relativo a comissão de administração calculada sobre o valor
+da operação de crédito cobrada pelo FONPLATA.
+
+
+Categoria de Gasto
+
+Obras
+P- Via de Acesso ao Bali Park
+P- Via de Acesso ao Povoado dos Americanos
+P- Via de Acesso ao Povoado do Surucucu
+P- Via de Ligação Luziânia - Jardim Ingá
+P- Pontes em eixos de ligação
+P- Calçada na Av. das Laranjeiras - Dalva V
+P- Ciclovia - Parque de Exposições - Bar do
+Manelão
+P- Calçada - Margem da BR-040 ao Complexo
+Dial
+P- Calçada - Margem da BR-040 - Jardim Ipê ao
+Parque Mingone I
+P- Calçada - Margem da BR-040 - Parque
+Mingone I ao Posto Machado
+P- Calçada - Av. das Ameixas - Parque Estrela
+Dalva IX e X
+P- Calçada e Ciclovia - Av. Alameda Santa Maria -
+Aeroporto - Alameda Paiva
+P- Recapeamento - ruas do Centro e rota de
+ônibus do Jardim Ingá
+P- Sistema de drenagem e pavimentação - Distrito
+do Jardim Ingá
+P- Sistema de drenagem e pavimentação -
+Expansão 01
+P- Sistema de drenagem e pavimentação -
+Expansão 02
+P- Sistema de drenagem e pavimentação - Centro
+P- Requalificação da Praça do Divino Espírito
+Santo
+P- Construção de Praça na Avenida Pianco
+P- Construção de Praça na Avenida Lucena Roriz
+X - Parque Estrela Dalva IX e X
+P- Construção de Praça no Residencial Parque
+Faro
+P- Construção de Praça no Bairro Parque
+Mingone I
+P- Construção de Praça no Pro Lote
+P- Requalificação da Praça do Banco do Brasil
+P- Construção de Campo Amador no Jardim Ingá
+P- Construção do Complexo de Esporte e Lazer
+no Campo da Ampa
+P- Construção do Complexo de Esporte e Lazer
+no Parque Industrial
+P- Reforma do Complexo de Esporte do Jardim
+Ingá
+P- Parque Ecológico
+P- Pórtico de Entrada do Jardim Ingá
+P- Construção da Estrutura da Feira no Distrito do
+Jardim Ingá
+P- Reforma do Terminal Rodoviário
+P- Reforma da Rodoviária
+P- Reforma da Guarda Municipal do Distrito do
+Jardim Ingá
+P- Reforma e Recuperação de Pontos de Ônibus
+P- Reforma da Estrutura da Feira Centro
+P- Relatório de Auditoria
+Consultoria
+P- Gerenciamento
+Outros
+P- Comissão de Administração (0,70% ou 0,60%
+da operação de crédito)
+Total Geral
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+Subcomponente Vias Estruturantes
+
+Unidade de medida
+-
+Km
+Km
+Km
+Km
+unidade
+M²
+M²
+
+M²
+
+M²
+
+M²
+
+M²
+
+M²
+
+Km
+
+Km
+
+km
+
+km
+
+km
+M²
+
+M²
+M²
+
+M²
+
+M²
+
+M²
+M²
+M²
+M²
+
+M²
+
+M²
+
+unidade
+unidade
+M²
+
+M²
+M²
+M²
+
+unidade
+M²
+unidade
+-
+unidade
+-
+unidade
+
+-
+
+
+Página: 15
+
+Valor
+
+% Financeiro
+
+32.635.000,00
+700.000,00
+750.000,00
+1.500.000,00
+1.350.000,00
+450.000,00
+40.000,00
+750.000,00
+
+300.000,00
+
+250.000,00
+
+100.000,00
+
+275.000,00
+
+150.000,00
+
+5.100.000,00
+
+7.290.000,00
+
+1.950.000,00
+
+6.770.000,00
+
+2.150.000,00
+20.000,00
+
+65.000,00
+65.000,00
+
+60.000,00
+
+40.000,00
+
+45.000,00
+500.000,00
+120.000,00
+420.000,00
+
+390.000,00
+
+90.000,00
+
+30.000,00
+70.000,00
+250.000,00
+
+130.000,00
+90.000,00
+35.000,00
+
+40.000,00
+220.000,00
+80.000,00
+925.000,00
+925.000,00
+190.000,00
+190.000,00
+
+96,70
+2,07
+2,22
+4,44
+4,00
+1,33
+0,12
+2,22
+
+0,89
+
+0,74
+
+0,30
+
+0,81
+
+0,44
+
+15,11
+
+21,60
+
+5,78
+
+20,06
+
+6,37
+0,06
+
+0,19
+0,19
+
+0,18
+
+0,12
+
+0,13
+1,48
+0,36
+1,24
+
+1,16
+
+0,27
+
+0,09
+0,21
+0,74
+
+0,39
+0,27
+0,10
+
+0,12
+0,65
+0,24
+2,74
+2,74
+0,56
+0,56
+
+Meta
+
+-
+8,54
+7,00
+14,00
+10,50
+4,00
+3.000,00
+16.400,00
+
+5.800,00
+
+4.700,00
+
+1.300,00
+
+6.000,00
+
+2.730,00
+
+48,00
+
+43,00
+
+8,44
+
+26,50
+
+18,00
+400,00
+
+2.000,00
+2.260,00
+
+1.875,00
+
+1.200,00
+
+1.350,00
+2.700,00
+1.925,00
+3.500,00
+
+3.130,00
+
+3.200,00
+
+1,00
+1,00
+3.570,00
+
+1.600,00
+1.100,00
+420,00
+
+87,00
+1.000,00
+1,00
+-
+1,00
+-
+1,00
+
+-
+
+33.750.000,00
+
+100,00
+
+
+Página: 16
+
+a) Via de Acesso ao Bali Park - Projetos: projeto executivo concluído. / - Licença ambiental: concluída. / - Termo de referência: concluído./
+- Licitação: em andamento. A Ordem de Serviço só será efetuada após COFIEX.
+
+b) Via de Acesso ao Povoado dos Americanos: - Projetos: projeto executivo concluído./ - Licença ambiental: em andamento./ - Termo de
+referência: não elaborado./ - Licitação: não iniciada.
+
+c) Via de Acesso ao Povoado do Surucucu: - Projetos: projeto executivo concluído./ - Licença ambiental: em andamento./ - Termo de
+referência: não elaborado./ - Licitação: não iniciada.
+
+Subcomponente Urbanização
+
+a) Calçada na Av. das Laranjeiras - Dalva V: - Projetos: projeto executivo concluído./ - Licença ambiental: concluída./ - Termo de
+referência: concluído./ - Licitação: em andamento.
+
+b) Ciclovia - Pq Exposições - Bar Manelão: - Projetos: projeto executivo concluído./ - Licença ambiental: em andamento./ - Termo de
+referência: não elaborado./- Licitação: não iniciada.
+
+Subcomponente Requalificação de bairros
+
+a) Sistema de drenagem e pavimentação - Parque Estrela Dalva V: - Projetos: projeto executivo concluído./ - Licença ambiental: em
+andamento./ - Termo de referência: não elaborado./ - Licitação: não iniciada.
+
+b) Sistema de drenagem e pavimentação - Parque São Judas Tadeu: - Projetos: projeto executivo concluído./ - Licença ambiental: em
+andamento./ - Termo de referência: não elaborado./ - Licitação: não iniciada.
+
+c) Sistema de drenagem e pavimentação - Parque Mingone I: - Projetos: projeto executivo concluído./ - Licença ambiental: em andamento.
+/ - Termo de referência: não elaborado./ - Licitação: não iniciada.
+
+d) Sistema de drenagem e pavimentação - Parque Mingone II: - Projetos: projeto executivo concluído./ - Licença ambiental: em andamento
+./ - Termo de referência: não elaborado./ - Licitação: não iniciada.
+
+e) Sistema de drenagem e pavimentação - Jardim Marília: - Projetos: projeto executivo concluído./ - Licença ambiental: em andamento./ -
+Termo de referência: não elaborado./ - Licitação: não iniciada.
+
+f) Sistema de drenagem e pavimentação - Parque São Sebastião: - Projetos: projeto executivo concluído./ - Licença ambiental: em
+andamento./ - Termo de referência: não elaborado./ - Licitação: não iniciada.
+
+g) Sistema de drenagem e pavimentação - Parque Cruzeiro do Sul e Parque Nova Iguaçu: - Projetos: projeto executivo concluído.
+
+- Licença ambiental: em andamento./ - Termo de referência: não elaborado./ - Licitação: não iniciada.
+
+h) Sistema de drenagem e pavimentação - Jardim Planalto: - Projetos: projeto executivo concluído./ - Licença ambiental: em andamento./ -
+Termo de referência: não elaborado./ - Licitação: não iniciada.
+
+i) Sistema de drenagem e pavimentação - Mansão Campinas: - Projetos: projeto executivo concluído./ - Licença ambiental: em andamento.
+/ - Termo de referência: não elaborado./ - Licitação: não iniciada.
+
+j) Sistema de drenagem e pavimentação - Jardim Flamboyant:- Licença ambiental: em andamento./ - Termo de referência: não elaborado./
+- Licitação: não iniciada.
+
+k) Sistema de drenagem e pavimentação - Pró Lote: - Projetos: projeto executivo concluído./ - Licença ambiental: em andamento.
+
+- Termo de referência: não elaborado./ - Licitação: não iniciada.
+
+Subcomponente Implantação e Requalificação de Praças e Entorno
+
+a) Requalificação da Praça do Divino Espirito Santo: - Projetos: projeto executivo concluído./ - Licença ambiental: concluída.
+
+- Termo de referência: concluído./ - Licitação: em andamento. A Ordem de   Serviço só será efetuada após COFIEX.
+
+b) Construção de Praça na Avenida Lucena Roriz X - Parque Estrela Dalva IX e X: - Projetos: projeto executivo concluído.
+
+- Licença ambiental: em andamento./ - Termo de referência: não elaborado./ - Licitação: não iniciada.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 17
+
+Subcomponente Implantação e Restruturação de Equipamentos de Esporte e Lazer
+
+a) Construção do Complexo de Esporte e Lazer no campo da AMPA: - Projetos: não possui./ - Licença ambiental: não iniciado.
+
+- Termo de referência: não elaborado./ - Licitação: não iniciada./ - Desapropriação: em andamento.
+
+b) Construção de Campo Amador no Jardim Ingá: - Projetos: projeto executivo concluído./ - Licença ambiental: em andamento.
+
+- Termo de referência: não elaborado./ - Licitação: não iniciada.
+
+Subcomponente Modernização de Equipamentos Públicos
+
+a) Construção de deck no Parque Ecológico: - Projetos: projeto executivo concluído./ - Licença ambiental: concluída./ - Termo de
+referência: concluído./ - Licitação: em andamento. A Ordem de Serviço só será efetuada após COFIEX.
+
+b) Pórtico de Entrada do Jardim Ingá: - Projetos: projeto executivo concluído./ - Licença ambiental: concluída./ - Termo de referência:
+concluído./ - Licitação: em andamento. A OS só será efetuada após COFIEX.
+
+c) Reforma do Terminal Rodoviário: - Projetos: projeto executivo concluído./ - Licença ambiental: concluída./ - Termo de referência:
+concluído./ - Licitação: em andamento. A OS só será efetuada após COFIEX.
+
+d) Reforma da Rodoviária: - Projetos: projeto executivo concluído./ - Licença ambiental: em andamento./ - Termo de referência: não
+elaborado./ - Licitação: não iniciada.
+
+e) Reforma da Guarda Municipal do Distrito do Jardim Ingá: - Projetos: projeto executivo concluído./ - Licença ambiental: concluída.
+
+- Termo de referência: concluído./ - Licitação: em andamento. A OS só será efetuada após COFIEX.
+
+f) Reforma e Recuperação de Pontos de Ônibus: - Projetos: projeto executivo concluído./ - Licença ambiental: concluída.
+
+- Termo de referência: concluído./ - Licitação: em andamento. A OS só será efetuada após COFIEX.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Municipal
+
+MUNICIPIO DE  LUZIANIA(GO)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+(i) - Condições Financeiras
+
+O Fundo Financeiro para Desenvolvimento da Bacia do Prata (FONPLATA) informou que atualmente vem trabalhando com Taxas de
+Juros na ordem de 2,10% a 2,60% a.a. que devem ser acrescidos da taxa de juros SOFR semestral em dólar americano. Essas taxas são
+disponíveis para operações com 15 anos de prazo e 4 anos de carência. O prazo de amortização é de 132 meses, sendo que o
+empréstimo será amortizado pelo município mediante o pagamento de até 22 (vinte e duas) parcelas semestrais consecutivas e
+preferencialmente iguais, acrescidas dos juros no vencimento de cada uma das parcelas.
+
+A taxa de juros SOFR é a taxa de juros construída a partir de transações realizadas no mercado e livre de risco. A taxa mede o custo de
+pedir empréstimos em dólares a um dia com garantia dos bônus do Tesouro dos Estados Unidos.
+
+Outros encargos: Comissão de Compromisso - 035%a.a. sobre o saldo não desembolsado do empréstimo, aplicado seis meses após a
+assinatura do contrato; Comissão de Administração - depende do tempo requerido para a assinatura do contrato de empréstimo após a
+aprovação do FONPLATA - 0,55% (até 360 dias) e 070% (entre 361 e 720 dias), calculado sobre o montante total do empréstimo a ser
+pago até a data do primeiro desembolso.
+
+(ii) - Necessidade de financiamento externo e opção pelo agente financeiro
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 18
+
+O Programa Avança Luziânia configura-se como uma política de intervenção urbana de grande importância e urgência que ultrapassa a
+capacidade de investimento anual da Prefeitura, observando-se a necessidade de financiamento para a sua implantação. Como algumas
+linhas de financiamento são difíceis de ser contratadas, em razão das altas taxas de juros e do investimento insuficiente em políticas
+públicas no âmbito federal, estadual e municipal, o financiamento externo apresenta-se como uma alternativa viável.
+
+As Agências Multilaterais de Crédito realizam cada vez mais investimentos em políticas públicas de desenvolvimento econômico e social.
+
+Esses tipos de programas asseguram uma continuidade dos investimentos independente de mudanças na gestão do executivo municipal,
+garantindo as transformações necessárias para a melhoria na qualidade de vida da população. Além disso, o apoio técnico e experiência
+diversificada de um organismo internacional enriquecem a experiência municipal.
+
+De acordo com a pesquisa empreendida junto a agentes financeitos, tem-se os seguintes resultados:
+
+- Caixa Econômica Federal - CEF (FINISA) empréstimos para Programas de Infraestrutura a Juros totais de 15.30% a.a. (CDi + 3,65% a.a.
+) fonte: https://www.caixa.gov.br/Downloads/portfolio_produtos_servicos_governo/CAIXA_Produtos_e_Servicos_para_Governo.pdf e https:
+//www.bb.com.br (cotação do CDi em 24/03/2022).
+
+- CAF (Banco de Desenvolvimento da América Latina): Desembolso - 60 meses; Carência - 60 meses; Amortização - 156 meses; Prazo
+total - 216 meses; Taxa de juros: SOFR (6 meses) +1,75% a.a.; Outros: 0,40% de comissão de compromisso e comissão de administração
+a ser negociada. A CAF não se interessou pelo valor do financiamento.
+
+- NDB (Novo Banco de Desenvolvimento): Desembolso - 60 meses; Carência - 60 meses; Amortização - 156 meses; Prazo total - 216
+meses; Taxa de juros: LIBOR (6 meses) +1,1% a.a.; Outros: 0,25% de comissão de compromisso sobre o saldo não desembolsado e 0,25
+% do montante do empréstimo de comissão de de financiamento, a ser pago até a data do primeiro desembolso. Não contactamos este
+Banco pelo pouco conhecimento do município das operações de crédtio do NDB no Brasil.
+
+- BID (Banco Interamericano de Desenvolvimento): Desembolso - 180 meses; Carência - 60 meses; Taxa de juros: LIBOR (3 meses) +1,23
+% a.a. + 1,06%; Outros: 0,25% de comissão de compromisso sobre o saldo não desembolsado e 0,50% a.a..
+
+- BNDES (Banco Nacional de Desenvolvimento Econômico e Social) trabalha com Juros baseados na TLP (Taxa de Juros de Longo Prazo
+) adicionados a juros de 1,3% a.a., com taxa de risco de crédito de 0,1% a.a. Somados a TJLP apresenta uma Taxa de Juros total de 7,39
+% a.a. acrescidas de taxas bancárias. Fonte: Banco Central Taxa projetada para o período de 1º de janeiro a 31 de março de 2022.
+
+Fazendo uma comparação destas taxas de juros, para o valor da Operação de Crédito de 27,50 milhões de dólares americanos, para um
+prazo de Carência de 3 anos, e de 12 anos para o pagamento do Principal da dívida, podemos afirmar, utilizando-se da tabela Price, que o
+valor a ser pago pelos empréstimos concedidos no Brasil (BNDES, CEF) é muito superior (aproximadamente 5,50 vezes) o que se paga
+com o empréstimo com o FONPLATA.
+
+Desta forma, desonerando significativamente o erário do município no pagamento da dívida, o município de Luziânia/GO resolveu por
+escolher o FONPLATA como agente financeiro, pois apesar do BID ser mais atrativo sob os aspectos das Taxas de Juros, este Banco
+necessita de muitos estudos adicionais à Preparação do Programa, onerando o município em contratações de consultores especializados,
+e também, por ter metodologia própria para as Aquisições de Obras, Serviços e Bens, que diferem das preconizadas nas leis nacionais (
+Lei 8.666/93 e Lei 14.133/21), acabam dificultando sobremaneira o desembolso do Programa, tornando necessário o treinamento de toda
+a equipe da Prefeitura envolvida para o conhecimento dos Manuais Operativos e Planos de Aquisição, razão das quais muitas das vezes
+os municípios têm que retardar as Obras e consequentemente pagar pela Comissão de Permanência, gerando acréscimos financeiros ao
+município.
+
+Além disso, os motivos que levaram o Município de Luziânia/GO a escolher o FONPLATA foram:
+
+-Expertise do Agente em projetos de infraestrutura - O FONPLATA atua em projetos de integração, de recuperação de áreas degradadas
+e de melhorias da infraestrutura;
+
+-Interesse do Programa e suas estratégias pelo Agente - Em contato com o Agente Financeiro FONPLATA, este demostrou-se bastante
+interessado no objeto do Programa Avança Luziânia e seus demais projetos e intervenções que beneficiarão o município de Luziânia/GO;
+
+-Programa em conformidade com o Agente Financeiro - O Agente Financeiro FONPLATA está de acordo com os termos e valores
+estipulados pelo Mutuário, o que traz grande interesse pelo financiamento do Agente pelo Programa.
+
+(iii) - Taxa de Dólar Utilizado
+
+O financiamento deverá ser contratado em dólares dos Estados Unidos da América (US$) e a taxa utilizada é de US$1,00 = 5,01 R$ (um
+dólar é igual a cinco reais e um centavo) *Cotação de  28/04/22, em: https://www.bcb.gov.br/estabilidadefinanceira/historicocotacoes.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+(cid:10)
+(cid:10)
+
+
+Página: 19
+
+As intervenções do Programa Avança Luziânia beneficiarão diretamente toda população de Luziânia que abrange 214.645 pessoas. Os
+benefícios indiretos podem ser estendidos para a população flutuante não contabilizada que acessa os lagos do Corumbá para fins de
+descanso e lazer.
+
+Pretende-se, portanto, que os resultados do Programa Avança Luziânia impactem direta e indiretamente as seguintes áreas estratégicas,
+de acordo com o disposto no item 4 do anexo da Resolução Cofiex nº 17/2021:
+
+- Promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação: entende-se que a implantação do sistema de
+drenagem em áreas precárias e de risco minimizará o problema de alagamentos, enchentes e enxurradas em períodos chuvosos, com a
+consequente diminuição dos impactos negativos ao meio ambiente que incluem o carreamento de materiais sólidos e o assoreamento dos
+cursos d´água, além da formação de voçorocas. Pretende-se, ainda, promover a sustentabilidade ambiental com a implantação de áreas
+verdes (praças) que além das funções estética e social, proporcionará benefícios para a qualidade ambiental urbana, tais como conforto
+térmico por meio da absorção dos radiação solar, estabilização de superfícies através da fixação do solo pelas raízes das plantas,
+atenuação da poluição do ar, sonora e visual, abrigo para fauna, redução do impacto da água de chuva e escoamento superficial, entre
+outros.
+
+- Implantação e/ou ampliação de ações de saneamento básico: a drenagem e manejo de águas pluviais urbanas é um componente do
+saneamento básico, de acordo com a Lei nº 11.445/2007, a Lei Nacional de Saneamento Básico (LNSB). As ações de implantação de
+sistema de drenagem e manejo de águas pluviais impacta diretamente na saúde, segurança e qualidade de vida da população local.
+
+- Ações de inclusão de minorias sociais entre os beneficiários: a implantação de equipamentos de esporte e lazer atenderá bairros que
+abrigam população de baixa renda e que demandam espaços adequados à convivência, ao lazer e à pratica esportiva. Este tipo de
+investimento fortalece a cidadania com consequente diminuição dos índices de estresse, melhoria na qualidade de saúde e redução dos
+níveis de violência, principalmente em áreas de alta vulnerabilidade social. Os novos espaços estarão abertos para o uso da comunidade
+e para o desenvolvimento de programas e projetos sociais.
+
+- Melhoria das condições de educação e saúde: a prática do esporte e do lazer são fundamentais no cotidiano da população, porque
+auxiliam na manutenção de uma vida saudável e impactam diretamente o bem-estar individual e coletivo em todos os níveis sociais. A
+existência de praças e de equipamentos esportivos atuam como um indicador de qualidade de vida, por estarem intimamente ligadas ao
+lazer e recreação da população e por se constituírem em locais de convívio social e de manifestação da vida comunitária.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Fundo Financeiro para o Desenvolvimento
+da Bacia do Prata - FONPLATA
+Total:
+
+Sigla
+
+CF
+Sigla
+
+Moeda
+
+US$
+Moeda
+
+Valor Proposto
+
+6.750.000,00
+Valor Proposto
+
+FONPLATA US$
+
+27.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+6.750.000,00
+Valor de Referência US
+$
+27.000.000,00
+
+33.750.000,00
+
+33.750.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+O arranjo institucional definido para a implementação do Programa apoia-se na estrutura e organização administrativa da Prefeitura de
+Luziânia enquanto mutuário, de acordo com a Lei Municipal nº 3.559/2013 (ANEXO 3).
+
+As instituições diretamente envolvidas na execução do Programa são: Secretaria Municipal de Desenvolvimento Urbano (SMDU); Unidade
+de Planejamento do Programa (UPP) e Unidade de Gerenciamento de Programa (UGP); Secretaria Municipal de Planejamento (SEPLAN)
+; Secretaria Municipal de Finanças (SMF); Secretaria Municipal de Administração (SMA); e a Secretaria Municipal de Meio Ambiente e
+Recursos Hídricos (SMARH). (ver ANEXO 5).
+
+A Matriz de Responsabilidade Institucional (ANEXO 6), relaciona as principais ações a serem executadas no âmbito do Programa e as
+entidades envolvidas em sua implementação com as respectivas atribuições.
+
+A execução do Programa estará a cargo da SMDU, por meio de uma Unidade de Gerenciamento do Projeto (UGP), cuja estrutura,
+composição e vinculação institucional serão definidas com base no estabelecido para a Unidade de Preparação do Projeto (UPP) a ser
+criada no âmbito dessa secretaria.
+
+(cid:10)
+
+
+Página: 20
+
+A SMDU tem a missão de implantar programas de obras municipais de engenharia nas áreas de edificação, pavimentação, saneamento e
+iluminação pública. Sua escolha como executora se pautou na convergência de suas competências com a estrutura do Programa proposto
+que tem como pressuposto a execução de obras de infraestrutura. Sua estrutura técnica e administrativa é composta por servidores
+efetivos e comissionados, cujas competências estão de acordo com as necessidades de cada função executada. O quadro técnico é
+composto por profissionais de nível superior com formação em engenharia, arquitetura e administração, além de laboratoristas e equipes
+de topografia.
+
+A estrutura física da SMDU conta com laboratórios e equipamentos apropriados para realizar as atividades de supervisão e fiscalização
+das obras, porém dada a complexidade do Programa, visto a interdisciplinaridade de aspectos envolvidos, é necessário um corpo técnico
+para as atividades de gerenciamento com dedicação exclusiva.
+
+As demais secretarias serão coexecutoras, que atuarão nas atividades específicas de suas competências: a principal função SEPLAN
+será realizar o acompanhamento, o controle e avaliação das ações previstas, auxiliando a UGP nestas funções; a SMARH terá como
+principais atribuições a fiscalização e monitoramento ambiental das obras a serem realizadas, além da emissão de licenciamento
+ambiental; a contratação das obras e consultorias necessárias para a implantação do Programa terão seus termos de referências,
+especificações técnicas e processos licitatórios preparados no âmbito da SMDU-UGP que deverá encaminha à SMF e à SMA,
+responsáveis pela continuidade dos processos. A licitações serão realizadas de acordo com o tipo de contratação e conforme as
+disposições da Lei 8.666/93 e a Lei 14.133/21 e os procedimentos exigidos pelo FONPLATA.
+
+Além das secretarias envolvidas, o Programa Avança Luziânia prevê a contratação de uma empresa gerenciadora, capaz de assegurar o
+bom desempenho do Programa, tendo em vista que vários setores internos devem atuar de forma coordenada e sincronizada nas
+atividades de execução. O Gerenciamento inclui ações que auxiliam os órgãos da Prefeitura de Luziânia na UGP a exercer as funções
+pertinentes à execução, acompanhamento e avaliação das ações pretendidas.
+
+Desta forma, justifica-se a necessidade de contratação de serviços especializados para suporte gerencial ao Programa Avança Luziânia,
+que se desenvolve em diversas áreas e compreende um trabalho integrado entre todas as secretarias coexecutoras do Programa. O
+macroplanejamento torna-se necessário como forma de minimizar os futuros impactos quando da sua execução e assegurar eficácia no
+gerenciamento e fiscalização das ações.
+
+O organograma proposto com todas as instituições para a execução do Programa Avança Luziânia, encontra-se em ANEXO 6.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Secretaria Municipal de Desenvolvimento Urbano de Luziânia-GO
+
+Representante Oficial: Elias Cavalcante da Rocha Júnior
+
+Endereço da Sede: PRAÇA NIRSON CARNEIRO LOBO, N° 34, CENTRO - LUZIÂNIA-GO
+E-mail Institucional:
+
+Telefone: 61992911053
+
+CNPJ: 01169416000109
+
+Fax:
+UF:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+COMPONENTES
+
+C - INFRAESTRUTURA
+
+S - VIAS ESTRUTURANTES
+
+P - Via de Acesso ao Bali Park
+
+P - Via de Acesso ao Povoado dos Americanos
+
+P - Via de Acesso ao Povoado do Surucucu
+
+P - Via de Ligação Luziânia - Jardim Ingá
+
+P - Pontes em eixos de ligação
+
+S - URBANIZAÇÃO
+
+P - Calçada na Av. das Laranjeiras - Dalva V
+
+P - Ciclovia - Parque de Exposições - Bar do Manelão
+
+P - Calçada - Margem da BR-040 ao Complexo Dial
+
+P - Calçada - Margem da BR-040 - Jardim Ipê ao Parque Mingone I
+
+P - Calçada - Margem da BR-040 - Parque Mingone I ao Posto Machado
+
+P - Calçada - Av. das Ameixas - Parque Estrela Dalva IX e X
+
+P - Calçada e Ciclovia - Av. Alameda Santa Maria - Aeroporto - Alameda Paiva
+
+TOTAL
+
+CF
+
+TOTAL
+
+FONPLATA
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+CF
+
+FONPLATA
+
+29.875.000,00
+
+2.265.000,00
+
+1.850.000,00
+
+4.750.000,00
+
+1.300.000,00
+
+750.000,00
+
+700.000,00
+
+700.000,00
+
+0,00
+
+750.000,00
+
+0,00
+
+750.000,00
+
+1.500.000,00
+
+600.000,00
+
+1.350.000,00
+
+450.000,00
+
+1.865.000,00
+
+40.000,00
+
+750.000,00
+
+300.000,00
+
+250.000,00
+
+100.000,00
+
+275.000,00
+
+150.000,00
+
+0,00
+
+0,00
+
+40.000,00
+
+40.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+750.000,00
+
+0,00
+
+750.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+S - REQUALIFICAÇÃO DE BAIRROS
+
+23.260.000,00
+
+925.000,00
+
+350.000,00
+
+P - Recapeamento - ruas do Centro e rota de ônibus do Jardim Ingá
+
+5.100.000,00
+
+925.000,00
+
+350.000,00
+
+P - Sistema de drenagem e pavimentação - Distrito do Jardim Ingá
+
+P - Sistema de drenagem e pavimentação - Expansão 01
+
+P - Sistema de drenagem e pavimentação - Expansão 02
+
+7.290.000,00
+
+1.950.000,00
+
+6.770.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+(cid:10)
+(cid:10)
+
+
+Página: 21
+
+P - Sistema de drenagem e pavimentação - Centro
+
+C - EQUIPAMENTOS URBANOS
+
+S - IMPLANTAÇÃO E REQUALIFICAÇÃO DE PRAÇAS E ENTORNO
+
+P - Requalificação da Praça do Divino Espírito Santo
+
+P - Construção de Praça na Avenida Pianco
+
+P - Construção de Praça na Avenida Lucena Roriz X - Parque Estrela Dalva IX e X
+
+P - Construção de Praça no Residencial Parque Faro
+
+P - Construção de Praça no Bairro Parque Mingone I
+
+P - Construção de Praça no Pro Lote
+
+P - Requalificação da Praça do Banco do Brasil
+
+2.150.000,00
+
+0,00
+
+2.680.000,00
+
+525.000,00
+
+795.000,00
+
+20.000,00
+
+65.000,00
+
+65.000,00
+
+60.000,00
+
+40.000,00
+
+45.000,00
+
+500.000,00
+
+85.000,00
+
+20.000,00
+
+0,00
+
+65.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+S - IMPLANTAÇÃO E REESTRUTURAÇÃO DE EQUIPAMENTOS DE ESPORTE E LAZER
+
+1.020.000,00
+
+120.000,00
+
+P - Construção de Campo Amador no Jardim Ingá
+
+120.000,00
+
+120.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+391.000,00
+
+185.000,00
+
+16.000,00
+
+190.000,00
+
+420.000,00
+
+390.000,00
+
+90.000,00
+
+0,00
+
+0,00
+
+0,00
+
+865.000,00
+
+320.000,00
+
+30.000,00
+
+70.000,00
+
+250.000,00
+
+30.000,00
+
+70.000,00
+
+0,00
+
+130.000,00
+
+130.000,00
+
+90.000,00
+
+35.000,00
+
+40.000,00
+
+220.000,00
+
+1.195.000,00
+
+925.000,00
+
+80.000,00
+
+190.000,00
+
+90.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.790.000,00
+
+2.241.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+FONPLATA
+
+925.000,00
+
+7.303.333,34
+
+TOTAL
+
+CF
+
+TOTAL
+
+FONPLATA
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+900.000,00
+
+0,00
+
+0,00
+
+900.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+925.000,00
+
+6.403.333,34
+
+925.000,00
+
+350.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.430.000,00
+
+650.000,00
+
+2.256.666,67
+
+716.666,67
+
+230.000,00
+
+65.000,00
+
+0,00
+
+65.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+90.000,00
+
+0,00
+
+0,00
+
+0,00
+
+90.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+P - Construção do Complexo de Esporte e Lazer no Campo da Ampa
+
+P - Construção do Complexo de Esporte e Lazer no Parque Industrial
+
+P - Reforma do Complexo de Esporte do Jardim Ingá
+
+S - MODERNIZAÇÃO DE EQUIPAMENTOS PÚBLICOS
+
+P - Parque Ecológico
+
+P - Pórtico de Entrada do Jardim Ingá
+
+P - Construção da Estrutura da Feira no Distrito do Jardim Ingá
+
+P - Reforma do Terminal Rodoviário
+
+P - Reforma da Rodoviária
+
+P - Reforma da Guarda Municipal do Distrito do Jardim Ingá
+
+P - Reforma e Recuperação de Pontos de Ônibus
+
+P - Reforma da Estrutura da Feira Centro
+
+C - GESTÃO DO PROGRAMA
+
+P - Gerenciamento
+
+P - Relatório de Auditoria
+
+P - Comissão de Administração (0,70% ou 0,60% da operação de crédito)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - INFRAESTRUTURA
+
+S - VIAS ESTRUTURANTES
+
+P - Via de Acesso ao Bali Park
+
+P - Via de Acesso ao Povoado dos Americanos
+
+P - Via de Acesso ao Povoado do Surucucu
+
+P - Via de Ligação Luziânia - Jardim Ingá
+
+P - Pontes em eixos de ligação
+
+S - URBANIZAÇÃO
+
+P - Calçada na Av. das Laranjeiras - Dalva V
+
+P - Ciclovia - Parque de Exposições - Bar do Manelão
+
+P - Calçada - Margem da BR-040 ao Complexo Dial
+
+P - Calçada - Margem da BR-040 - Jardim Ipê ao Parque Mingone I
+
+P - Calçada - Margem da BR-040 - Parque Mingone I ao Posto Machado
+
+P - Calçada - Av. das Ameixas - Parque Estrela Dalva IX e X
+
+P - Calçada e Ciclovia - Av. Alameda Santa Maria - Aeroporto - Alameda Paiva
+
+S - REQUALIFICAÇÃO DE BAIRROS
+
+P - Recapeamento - ruas do Centro e rota de ônibus do Jardim Ingá
+
+P - Sistema de drenagem e pavimentação - Distrito do Jardim Ingá
+
+P - Sistema de drenagem e pavimentação - Expansão 01
+
+P - Sistema de drenagem e pavimentação - Expansão 02
+
+P - Sistema de drenagem e pavimentação - Centro
+
+C - EQUIPAMENTOS URBANOS
+
+S - IMPLANTAÇÃO E REQUALIFICAÇÃO DE PRAÇAS E ENTORNO
+
+P - Requalificação da Praça do Divino Espírito Santo
+
+P - Construção de Praça na Avenida Pianco
+
+P - Construção de Praça na Avenida Lucena Roriz X - Parque Estrela Dalva IX e X
+
+P - Construção de Praça no Residencial Parque Faro
+
+P - Construção de Praça no Bairro Parque Mingone I
+
+P - Construção de Praça no Pro Lote
+
+P - Requalificação da Praça do Banco do Brasil
+
+S - IMPLANTAÇÃO E REESTRUTURAÇÃO DE EQUIPAMENTOS DE ESPORTE E LAZER
+
+P - Construção de Campo Amador no Jardim Ingá
+
+P - Construção do Complexo de Esporte e Lazer no Campo da Ampa
+
+P - Construção do Complexo de Esporte e Lazer no Parque Industrial
+
+P - Reforma do Complexo de Esporte do Jardim Ingá
+
+
+Página: 22
+
+S - MODERNIZAÇÃO DE EQUIPAMENTOS PÚBLICOS
+
+P - Parque Ecológico
+
+P - Pórtico de Entrada do Jardim Ingá
+
+P - Construção da Estrutura da Feira no Distrito do Jardim Ingá
+
+P - Reforma do Terminal Rodoviário
+
+P - Reforma da Rodoviária
+
+P - Reforma da Guarda Municipal do Distrito do Jardim Ingá
+
+P - Reforma e Recuperação de Pontos de Ônibus
+
+P - Reforma da Estrutura da Feira Centro
+
+C - GESTÃO DO PROGRAMA
+
+P - Gerenciamento
+
+P - Relatório de Auditoria
+
+P - Comissão de Administração (0,70% ou 0,60% da operação de crédito)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - INFRAESTRUTURA
+
+S - VIAS ESTRUTURANTES
+
+P - Via de Acesso ao Bali Park
+
+P - Via de Acesso ao Povoado dos Americanos
+
+P - Via de Acesso ao Povoado do Surucucu
+
+P - Via de Ligação Luziânia - Jardim Ingá
+
+P - Pontes em eixos de ligação
+
+S - URBANIZAÇÃO
+
+P - Calçada na Av. das Laranjeiras - Dalva V
+
+P - Ciclovia - Parque de Exposições - Bar do Manelão
+
+P - Calçada - Margem da BR-040 ao Complexo Dial
+
+P - Calçada - Margem da BR-040 - Jardim Ipê ao Parque Mingone I
+
+P - Calçada - Margem da BR-040 - Parque Mingone I ao Posto Machado
+
+P - Calçada - Av. das Ameixas - Parque Estrela Dalva IX e X
+
+P - Calçada e Ciclovia - Av. Alameda Santa Maria - Aeroporto - Alameda Paiva
+
+S - REQUALIFICAÇÃO DE BAIRROS
+
+P - Recapeamento - ruas do Centro e rota de ônibus do Jardim Ingá
+
+P - Sistema de drenagem e pavimentação - Distrito do Jardim Ingá
+
+P - Sistema de drenagem e pavimentação - Expansão 01
+
+P - Sistema de drenagem e pavimentação - Expansão 02
+
+P - Sistema de drenagem e pavimentação - Centro
+
+C - EQUIPAMENTOS URBANOS
+
+S - IMPLANTAÇÃO E REQUALIFICAÇÃO DE PRAÇAS E ENTORNO
+
+P - Requalificação da Praça do Divino Espírito Santo
+
+P - Construção de Praça na Avenida Pianco
+
+P - Construção de Praça na Avenida Lucena Roriz X - Parque Estrela Dalva IX e X
+
+P - Construção de Praça no Residencial Parque Faro
+
+P - Construção de Praça no Bairro Parque Mingone I
+
+P - Construção de Praça no Pro Lote
+
+P - Requalificação da Praça do Banco do Brasil
+
+S - IMPLANTAÇÃO E REESTRUTURAÇÃO DE EQUIPAMENTOS DE ESPORTE E LAZER
+
+P - Construção de Campo Amador no Jardim Ingá
+
+P - Construção do Complexo de Esporte e Lazer no Campo da Ampa
+
+P - Construção do Complexo de Esporte e Lazer no Parque Industrial
+
+P - Reforma do Complexo de Esporte do Jardim Ingá
+
+S - MODERNIZAÇÃO DE EQUIPAMENTOS PÚBLICOS
+
+P - Parque Ecológico
+
+P - Pórtico de Entrada do Jardim Ingá
+
+P - Construção da Estrutura da Feira no Distrito do Jardim Ingá
+
+P - Reforma do Terminal Rodoviário
+
+P - Reforma da Rodoviária
+
+P - Reforma da Guarda Municipal do Distrito do Jardim Ingá
+
+P - Reforma e Recuperação de Pontos de Ônibus
+
+P - Reforma da Estrutura da Feira Centro
+
+C - GESTÃO DO PROGRAMA
+
+P - Gerenciamento
+
+P - Relatório de Auditoria
+
+P - Comissão de Administração (0,70% ou 0,60% da operação de crédito)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+75.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+35.000,00
+
+40.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+201.000,00
+
+185.000,00
+
+16.000,00
+
+0,00
+
+0,00
+
+1.155.000,00
+
+7.504.333,34
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+FONPLATA
+
+925.000,00
+
+8.628.333,34
+
+TOTAL
+
+CF
+
+TOTAL
+
+FONPLATA
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.800.000,00
+
+0,00
+
+0,00
+
+0,00
+
+1.350.000,00
+
+450.000,00
+
+425.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+275.000,00
+
+150.000,00
+
+925.000,00
+
+6.403.333,34
+
+925.000,00
+
+350.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.430.000,00
+
+650.000,00
+
+2.256.666,67
+
+716.666,67
+
+410.000,00
+
+500.000,00
+
+100.000,00
+
+0,00
+
+0,00
+
+0,00
+
+60.000,00
+
+40.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+310.000,00
+
+500.000,00
+
+0,00
+
+0,00
+
+160.000,00
+
+260.000,00
+
+150.000,00
+
+240.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+201.000,00
+
+185.000,00
+
+16.000,00
+
+0,00
+
+0,00
+
+1.335.000,00
+
+9.329.333,34
+
+0,00
+
+0,00
+
+
+Página: 23
+
+COMPONENTES
+
+C - INFRAESTRUTURA
+
+S - VIAS ESTRUTURANTES
+
+P - Via de Acesso ao Bali Park
+
+P - Via de Acesso ao Povoado dos Americanos
+
+P - Via de Acesso ao Povoado do Surucucu
+
+P - Via de Ligação Luziânia - Jardim Ingá
+
+P - Pontes em eixos de ligação
+
+S - URBANIZAÇÃO
+
+P - Calçada na Av. das Laranjeiras - Dalva V
+
+P - Ciclovia - Parque de Exposições - Bar do Manelão
+
+P - Calçada - Margem da BR-040 ao Complexo Dial
+
+P - Calçada - Margem da BR-040 - Jardim Ipê ao Parque Mingone I
+
+P - Calçada - Margem da BR-040 - Parque Mingone I ao Posto Machado
+
+P - Calçada - Av. das Ameixas - Parque Estrela Dalva IX e X
+
+P - Calçada e Ciclovia - Av. Alameda Santa Maria - Aeroporto - Alameda Paiva
+
+S - REQUALIFICAÇÃO DE BAIRROS
+
+P - Recapeamento - ruas do Centro e rota de ônibus do Jardim Ingá
+
+P - Sistema de drenagem e pavimentação - Distrito do Jardim Ingá
+
+P - Sistema de drenagem e pavimentação - Expansão 01
+
+P - Sistema de drenagem e pavimentação - Expansão 02
+
+P - Sistema de drenagem e pavimentação - Centro
+
+C - EQUIPAMENTOS URBANOS
+
+S - IMPLANTAÇÃO E REQUALIFICAÇÃO DE PRAÇAS E ENTORNO
+
+P - Requalificação da Praça do Divino Espírito Santo
+
+P - Construção de Praça na Avenida Pianco
+
+P - Construção de Praça na Avenida Lucena Roriz X - Parque Estrela Dalva IX e X
+
+P - Construção de Praça no Residencial Parque Faro
+
+P - Construção de Praça no Bairro Parque Mingone I
+
+P - Construção de Praça no Pro Lote
+
+P - Requalificação da Praça do Banco do Brasil
+
+S - IMPLANTAÇÃO E REESTRUTURAÇÃO DE EQUIPAMENTOS DE ESPORTE E LAZER
+
+P - Construção de Campo Amador no Jardim Ingá
+
+P - Construção do Complexo de Esporte e Lazer no Campo da Ampa
+
+P - Construção do Complexo de Esporte e Lazer no Parque Industrial
+
+P - Reforma do Complexo de Esporte do Jardim Ingá
+
+S - MODERNIZAÇÃO DE EQUIPAMENTOS PÚBLICOS
+
+P - Parque Ecológico
+
+P - Pórtico de Entrada do Jardim Ingá
+
+P - Construção da Estrutura da Feira no Distrito do Jardim Ingá
+
+P - Reforma do Terminal Rodoviário
+
+P - Reforma da Rodoviária
+
+P - Reforma da Guarda Municipal do Distrito do Jardim Ingá
+
+P - Reforma e Recuperação de Pontos de Ônibus
+
+P - Reforma da Estrutura da Feira Centro
+
+C - GESTÃO DO PROGRAMA
+
+P - Gerenciamento
+
+P - Relatório de Auditoria
+
+P - Comissão de Administração (0,70% ou 0,60% da operação de crédito)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - INFRAESTRUTURA
+
+S - VIAS ESTRUTURANTES
+
+P - Via de Acesso ao Bali Park
+
+P - Via de Acesso ao Povoado dos Americanos
+
+P - Via de Acesso ao Povoado do Surucucu
+
+P - Via de Ligação Luziânia - Jardim Ingá
+
+P - Pontes em eixos de ligação
+
+S - URBANIZAÇÃO
+
+P - Calçada na Av. das Laranjeiras - Dalva V
+
+P - Ciclovia - Parque de Exposições - Bar do Manelão
+
+P - Calçada - Margem da BR-040 ao Complexo Dial
+
+P - Calçada - Margem da BR-040 - Jardim Ipê ao Parque Mingone I
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+FONPLATA
+
+925.000,00
+
+7.053.333,32
+
+TOTAL
+
+CF
+
+TOTAL
+
+FONPLATA
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+650.000,00
+
+0,00
+
+0,00
+
+300.000,00
+
+250.000,00
+
+100.000,00
+
+0,00
+
+0,00
+
+925.000,00
+
+6.403.333,32
+
+925.000,00
+
+350.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+45.000,00
+
+45.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+45.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.430.000,00
+
+650.000,00
+
+2.256.666,66
+
+716.666,66
+
+470.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+470.000,00
+
+0,00
+
+0,00
+
+250.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+220.000,00
+
+201.000,00
+
+185.000,00
+
+16.000,00
+
+0,00
+
+0,00
+
+970.000,00
+
+7.724.333,32
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+FONPLATA
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+5.040.000,00
+
+TOTAL
+
+FONPLATA
+24.835.000,00
+
+1.300.000,00
+
+3.450.000,00
+
+700.000,00
+
+0,00
+
+0,00
+
+750.000,00
+
+600.000,00
+
+900.000,00
+
+0,00
+
+0,00
+
+1.350.000,00
+
+450.000,00
+
+40.000,00
+
+1.825.000,00
+
+40.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+750.000,00
+
+300.000,00
+
+250.000,00
+
+
+P - Calçada - Margem da BR-040 - Parque Mingone I ao Posto Machado
+
+P - Calçada - Av. das Ameixas - Parque Estrela Dalva IX e X
+
+P - Calçada e Ciclovia - Av. Alameda Santa Maria - Aeroporto - Alameda Paiva
+
+S - REQUALIFICAÇÃO DE BAIRROS
+
+P - Recapeamento - ruas do Centro e rota de ônibus do Jardim Ingá
+
+P - Sistema de drenagem e pavimentação - Distrito do Jardim Ingá
+
+P - Sistema de drenagem e pavimentação - Expansão 01
+
+P - Sistema de drenagem e pavimentação - Expansão 02
+
+P - Sistema de drenagem e pavimentação - Centro
+
+C - EQUIPAMENTOS URBANOS
+
+S - IMPLANTAÇÃO E REQUALIFICAÇÃO DE PRAÇAS E ENTORNO
+
+P - Requalificação da Praça do Divino Espírito Santo
+
+P - Construção de Praça na Avenida Pianco
+
+P - Construção de Praça na Avenida Lucena Roriz X - Parque Estrela Dalva IX e X
+
+P - Construção de Praça no Residencial Parque Faro
+
+P - Construção de Praça no Bairro Parque Mingone I
+
+P - Construção de Praça no Pro Lote
+
+P - Requalificação da Praça do Banco do Brasil
+
+S - IMPLANTAÇÃO E REESTRUTURAÇÃO DE EQUIPAMENTOS DE ESPORTE E LAZER
+
+P - Construção de Campo Amador no Jardim Ingá
+
+P - Construção do Complexo de Esporte e Lazer no Campo da Ampa
+
+P - Construção do Complexo de Esporte e Lazer no Parque Industrial
+
+P - Reforma do Complexo de Esporte do Jardim Ingá
+
+S - MODERNIZAÇÃO DE EQUIPAMENTOS PÚBLICOS
+
+P - Parque Ecológico
+
+P - Pórtico de Entrada do Jardim Ingá
+
+P - Construção da Estrutura da Feira no Distrito do Jardim Ingá
+
+P - Reforma do Terminal Rodoviário
+
+P - Reforma da Rodoviária
+
+P - Reforma da Guarda Municipal do Distrito do Jardim Ingá
+
+P - Reforma e Recuperação de Pontos de Ônibus
+
+P - Reforma da Estrutura da Feira Centro
+
+C - GESTÃO DO PROGRAMA
+
+P - Gerenciamento
+
+P - Relatório de Auditoria
+
+P - Comissão de Administração (0,70% ou 0,60% da operação de crédito)
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+Página: 24
+
+0,00
+
+0,00
+
+0,00
+
+100.000,00
+
+275.000,00
+
+150.000,00
+
+3.700.000,00
+
+19.560.000,00
+
+3.700.000,00
+
+1.400.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+7.290.000,00
+
+1.950.000,00
+
+6.770.000,00
+
+2.150.000,00
+
+1.710.000,00
+
+970.000,00
+
+795.000,00
+
+20.000,00
+
+65.000,00
+
+65.000,00
+
+60.000,00
+
+40.000,00
+
+45.000,00
+
+500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+520.000,00
+
+500.000,00
+
+120.000,00
+
+0,00
+
+160.000,00
+
+260.000,00
+
+150.000,00
+
+240.000,00
+
+90.000,00
+
+0,00
+
+395.000,00
+
+470.000,00
+
+30.000,00
+
+70.000,00
+
+0,00
+
+0,00
+
+0,00
+
+250.000,00
+
+130.000,00
+
+90.000,00
+
+35.000,00
+
+40.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+220.000,00
+
+1.195.000,00
+
+925.000,00
+
+80.000,00
+
+190.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+201.000,00
+
+185.000,00
+
+16.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+500.000,00
+
+500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+33.750.000,00
+
+500.000,00
+
+201.000,00
+
+6.750.000,00
+
+27.000.000,00
+
+O Programa Avança Luziânia será submetido à aprovação junto ao Poder Legislativo de Luziânia por meio de Lei Autorizativa, liberando o
+Executivo local a contrair empréstimo de longo prazo. Para evitar o risco de não aprovação, o projeto de lei já está em discussão junto à
+Câmara Municipal.
+
+Serão criadas por meio de decretos a Unidade de Preparação do Programa - UPP que após a assinatura do contrato junto a FONPLATA
+se tornará a Unidade de Gestão do Programa - UGP.
+
+Com relação à Lei de Responsabilidade Fiscal, serão apresentadas evidências de conformidade dos requisitos fiscais obrigatórios para
+fins de celebração de contrato.
+
+O município de Luziânia possui capacidade de pagamento e endividamento - CAPAG B.
+
+As condições de contragarantia serão apresentadas ao Governo Federal, conforme legislação vigente.
+
+As intervenções do Programa Avança Luziânia não necessitam de convênios com a União ou Estados pois todas as obras encontram-se
+no próprio município e, portanto, sob a jurisdição municipal.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+O Programa será executado pela Prefeitura Municipal de Luziânia, por meio da Secretaria Municipal de Desenvolvimento Urbano. Para a
+execução dos componentes será utilizada a Lei 8.666/93 e a Lei 14.133/21, com a anuência do FONPLATA, para a realização do
+processo licitatório e demais tramites contratuais, onde a despesa com pessoal para a execução está incluída no orçamento dos
+componentes.
+
+Durante o processo licitatório poderá ocorrer impugnação quanto às peças do edital, ajuizamento do processo licitatório, entre outras
+ações que podem causar atrasos no cronograma de início das obras previstas. Para evitar tais riscos, serão elaborados editais claros e
+precisos, conforme legislação atual, e apresentados os projetos executivos e complementares.
+
+(cid:10)
+
+
+Página: 25
+
+Serão contratadas as obras de infraestrutura e urbanização, entre outras ações previstas no quadro de investimentos. Grande parte dos
+projetos executivos já estão concluídos. Os projetos faltantes serão contratados pela própria Prefeitura Municipal de Luziânia e as obras
+relacionadas a estes projetos estão previstas para iniciar nos anos 2º, 3º, 4º e 5º ano do Programa.
+
+As aquisições terão seus termos de referências, especificações técnicas e processos licitatórios preparados no âmbito de cada setor, e
+serão analisados e revisados pela UGP, em caso de necessidade submetidos ao FONPLATA para análise e não objeção. Após, a UGP os
+encaminhará para a Secretaria Municipal de Administração e Secretaria Municipal de Finanças responsáveis pela continuidade dos
+processos para execução. Serão seguidas as normas legais vigentes para o setor público e os procedimentos exigidos pelo FONPLATA.
+
+A Prefeitura fará a contratação de serviços especializados para suporte gerencial ao Programa Avança Luziânia, que se desenvolve em
+diversas áreas e compreende um trabalho integrado entre todas as secretarias coexecutoras do Programa. O macroplanejamento torna-se
+necessário como forma de minimizar os futuros impactos quando da sua execução e assegurar eficácia no gerenciamento e fiscalização
+das ações.
+
+O FONPLATA possui manual próprio onde descreve as políticas para aquisição de bens com os passos a serem seguidos e os processos
+para contratação de serviços financiados pelo banco. Esse processo estabelece a relação custo-benefício, economia, eficiência,
+transparência e livre concorrência entre os potenciais licitantes, geridos pelas normas e procedimentos estabelecidos nos sistemas
+nacionais de compras do governo. Além de regulamentar a elegibilidade dos potenciais adjudicatários e as condições necessárias para o
+reconhecimento das despesas no âmbito da operação. As políticas do agente financeiro estão disponíveis no documento "Política para a
+aquisição de bens, obras e serviços em operações financiadas pelo FONPLATA", no Anexo 8.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Apenas uma intervenção prevista necessitará da desapropriação, a implantação do Complexo de Esporte e Lazer Campo da Ampa, que
+integra o Subcomponente 2.2 - Implantação e Reestruturação de Equipamentos de Esporte e Lazer.
+
+A área para construção do Complexo já é utilizada pelo município para fins esportivos e possui dezenove lotes, dos quais quinze
+pertencem à própria Prefeitura Municipal. O processo para desapropriação dos três lotes restantes já foi iniciado e encontra-se em
+andamento. Os recursos para desapropriação já estão previstos no orçamento da Prefeitura Municipal. (Ver Anexo 9)
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+Os possíveis riscos identificados referem-se a impactos ambientais na implantação e na execução das intervenções físicas (ações de
+infraestrutura e urbanização), cujo licenciamento ambiental em consonância com a Lei Federal nº 6.938, Decreto nº 99.274 e com a
+legislação ambiental do estado e município, será solicitado às instituições de fiscalização ambiental responsáveis pela área de intervenção
+do Programa.
+
+A maioria das obras do programa são passíveis de dispensa de licenciamento, e as que necessitam, o licenciamento será exigido
+anteriormente à etapa de licitação.
+
+Ressalta-se que Secretaria Municipal de Meio Ambiente e Recursos Hídricos, como coexecutora do Programa Avança Luziânia, estará
+responsável pelas ações de licenciamento, fiscalização e monitoramento ambiental das obras a serem realizadas.
+
+A seguir são apontados, em caráter preliminar, os possíveis impactos ambientais do Programa Avança Luziânia.
+
+Impactos Negativos
+
+As ações do programa quanto aos seus atributos relativos à impactos a natureza, ordem, espaço, temporalidade e reversibilidade serão
+realizadas em áreas já antropizadas.
+
+Destacam-se, de modo geral, dentro dos impactos catalogados no "Manual de Pavimentação do DNIT (2006)", a possível contaminação
+da água superficial ou subterrânea, a emissão de material particulado, ruído e vibrações, a degradação dos solos e possível alteração do
+microclima.
+
+As obras de pavimentação e drenagem deverão ocasionar transtornos aos usuários de vias e acessos diretamente afetados, bem como
+aos moradores do entorno, pois irão envolver escavação e abertura e fechamento de galerias, em área urbana consolidada.
+
+A realização das intervenções envolverá: interrupção parcial ou total do tráfego das vias, movimentação de máquinas e veículos pesados,
+abertura de vala, geração de material excedente (solo e asfalto/paralelepípedos), retificação de canal, urbanização de praças,
+recomposição do pavimento asfáltico, guias, calçadas e acessos.
+
+Essas ações deverão gerar incômodo à população residente nas áreas vizinhas às obras e eventualmente, nas ruas vizinhas devido à
+necessidade de se promover desvios do tráfego nos locais onde serão realizadas as obras. Outros transtornos à população residente do
+entorno estão associados à geração de poeira, lama, ruído, material excedente e necessidade de sua disposição adequada.
+
+(cid:10)
+(cid:10)
+
+
+Página: 26
+
+Esses impactos são de natureza negativa, diretos, temporários, de alta significância e magnitude média, no entanto, poderão ter grande
+magnitude a depender do cronograma de implantação das obras, pois a concomitância destas, mesmo que em pontos diferentes da
+cidade, poderá induzir impactos no sistema viário e na qualidade de vida da população. Deste modo, o planejamento da execução das
+obras em diversos pontos deverá considerar o eventual efeito cumulativo dos impactos individuais de cada intervenção e seus efeitos.
+
+Impactos Positivos
+
+Depois de concluídas, essas obras trarão grandes benefícios à população de Luziânia devido à melhoria da mobilidade urbana, das
+condições do pavimento do sistema viário da cidade, melhoria das áreas de lazer e melhoria da saúde e segurança da população por meio
+da minimização das enchentes e alagamentos. Os principais efeitos indiretos decorrentes da realização dessas obras são:
+
+-Redução do tempo de viagem dos passageiros;
+
+-Melhoria dos níveis de poluição sonora e do ar;
+
+-Redução dos riscos sobre o patrimônio familiar, particularmente sobre perdas de moveis, utensílios e danos às edificações no momento
+da ocorrência de enchentes e alagamentos;
+
+-Minimização do clima de insegurança social que costuma ser instaurado nos períodos que antecede a ocorrência de enchentes,
+considerando que o fenômeno é, hoje, passível de ser previsto e anunciado;
+
+-Melhoria da saúde da população;
+
+-Bem-estar;
+
+-Melhoria da qualidade de vida;
+
+-Melhoria da qualidade ambiental da área urbana da cidade, com diminuição de assoreamento de corpos hídricos e erosões.
+
+Visando maximizar os benefícios decorrentes da implantação das obras de drenagem e pavimentação, recomenda-se que os requisitos
+para o licenciamento, bem como a fiscalização da implantação de edificações nas áreas urbanas sejam incrementados, evitando que
+obras malconduzidas deixem o solo exposto a fenômenos de erosão, com carreamento de sedimentos para os corpos d´água e canais
+artificiais, o que reduziria a vida útil das obras realizadas.
+
+Medidas de Mitigação
+
+A contratada para a execução das obras deve adotar medidas preventivas no sentido de evitar ou reduzir quaisquer problemas e garantir
+que os níveis de qualidade de vida sejam próximos ao do encontrado no local, além de utilizar mão de obra qualificada para as várias
+tarefas a serem executadas. Recomenda-se constar no edital de licitações de obras métodos e procedimentos construtivos adequados.
+
+Na instalação do canteiro/alojamento a executora das obras deverá ter o controle da drenagem, efluentes e resíduos sólidos. Com relação
+ao impacto gerado pela possível retirada da cobertura vegetal para a implantação das obras deve-se: limitar o desmatamento e limpeza ao
+mínimo necessário às operações de construção e segurança do tráfego; efetuar a remoção ou uso controlado dos restos vegetais da
+operação de desmatamento; estabelecer caminhos de serviço em áreas já alteradas; estocar o solo orgânico removido na operação de
+desmatamento e limpeza, para sua posterior utilização na recuperação da área; e realizar a reposição florestal obrigatória.
+
+Quanto à operação de material excedente das escavações e demolições, cabe ressaltar que pode ocorrer de os moradores solicitarem às
+empreiteiras que disponham este material em seus terrenos para promover aterros, corrigir situações locais. Deverá ser previsto a
+Otimização da compensação de cortes e de aterros, controle de erosão e reabilitação das áreas degradadas; em nenhuma hipótese deve-
+se dispor, em terrenos particulares, material contaminado por esgoto ou outros, nem material de demolição ou restos de pavimento.
+Mesmo recomendando que este procedimento seja evitado, quando possível, somente será autorizada disposição de material de solo,
+quando for inerte e isento de contaminação por esgotos e outras fontes. O transporte e disposição desse material deverá ser feito sob
+responsabilidade da empreiteira que deverá, ainda, garantir sua estabilidade no local de disposição. Já para obras de drenagem as redes
+deverão ter dimensionamento adequado; prever dissipação de energia no deságue e ter controle de erosão.
+
+O FONPLATA considera necessário caracterizar o projeto e a área onde vai ser desenvolvido as intervenções de forma a identificar
+possíveis riscos de impacto ambiental, estabelecendo o procedimento, o grau e o tipo de natureza da ação. Tal ação será realizada
+quando da contratação do empréstimo junto à instituição.
+
+As políticas do agente financeiro estão disponíveis no documento "Diretrizes operacionais para a gestão socioambiental no ciclo de
+projetos do FONPLATA", no Anexo 10.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+(cid:10)
+(cid:10)
+
+
+Página: 27
+
+O Programa Avança Luziânia trará impactos sociais positivos à população de Luziânia, visto que as ações previstas visam requalificar e
+reurbanizar os bairros em situação precária e que hoje sofrem com os efeitos das chuvas, além disso promoverá a ampliação de áreas
+para pedestres e ciclistas, e fomentará atividades econômicas que promovem geração de emprego, renda e inclusão social, com
+sustentabilidade ambiental, por meio dos eixos de ligação a serem criados.
+
+A criação e requalificação de equipamentos públicos visa a universalização e democratização do uso desses equipamentos para fins de
+esporte, lazer, bem estar e convivência. As praças e complexos esportivos são espaços públicos onde o lazer, a diversão e o esporte não
+apenas proporcionam a integração da família na comunidade, mas também contribuem para melhor qualidade de vida e a redução dos
+níveis de violência. O esporte é uma ferramenta de interação social.
+
+No entanto, durante a execução das obras, conforme informado anteriormente, haverá transtornos aos usuários das vias e aos moradores
+e comerciantes do entorno das intervenções. Dessa forma, deverão ser adotadas medidas preventivas que garantam a minimização de
+contratempos à população. Além disso, a população deverá ser comunicada com antecedência a respeito das intervenções, suas
+possíveis implicações temporárias e também sobre os aspectos positivos dos resultados.
+
+Não haverá interferência em populações indígenas, quilombolas ou outras populações tradicionais.
+
+O sistema de Avaliação e Gestão de Riscos Ambientais e Sociais (SERAS), estabelece as políticas sociais do FONPLATA e está voltado
+para identificar e minimizar os impactos sociais, bem como conflitos com a população da área de intervenção, resguardando a qualidade e
+integridade da operação, além de zelar pelo cumprimento das normas/leis do país. Essas políticas do agente financeiro podem ser
+acessadas no documento "Diretrizes operacionais para a gestão socioambiental no ciclo de projetos do FONPLATA, no Anexo 10".
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Não haverá necessidade de reassentamentos para execução do Programa Avança Luziânia, portanto, não há riscos previstos neste
+quesito.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+- 17/10/2022: Carta Consulta, versão 2, apresentada em 11 de julho de 2022. Aguardando COFIEX 161.
+
+Informações relevantes
+
+(cid:10)

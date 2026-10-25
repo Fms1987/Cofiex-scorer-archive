@@ -1,0 +1,3459 @@
+# Carta-Consulta CC_60989 — Versao 1 (SIGS)
+
+
+CARTA CONSULTA
+
+Programa de Mobilidade e Desenvolvimento Urbano Integrado de Belo Horizonte -
+Mobilidade sustentável e Requalificação do Centro de Belo Horizonte.
+
+Nº Carta Consulta: 60989
+Mutuário: Município de Belo Horizonte - MG
+Tipo de Operação: Operação de crédito externo
+
+Fontes Internas:
+Contrapartida Financeira: US$ 13.592.500,00
+Fontes Externas:
+Agência Francesa de Desenvolvimento - AFD: US$ 54.370.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+Assim como ocorre em outras grandes e médias cidades, Belo Horizonte (BH) tem enfrentado desafios como o espraiamento urbano,
+mudanças no padrão de compras, problemas de mobilidade urbana e preocupações com a segurança, o que tem levado a população a
+perder o interesse em utilizar a região central como local de compras, serviços e lazer. A pandemia da COVID-19 agravou ainda mais essa
+situação, com o fechamento de lojas e serviços, deixando espaços ociosos e impactando significativamente a utilização do centro da
+cidade.
+
+Em linha com a desigualdade de renda e reforçada pela expansão urbana e distribuição geográfica dos assentamentos informais, BH é
+uma das três cidades do Brasil com a maior desigualdade de mobilidade entre os ricos e os pobres. BH apresenta um importante padrão
+monocêntrico, com a maior parte dos empregos formais e comodidades concentrada no centro da cidade. A acessibilidade ao trabalho em
+BH é muito menor para as famílias de renda mais baixa, e o deslocamento para o trabalho é 40% mais longo entre os mais pobres quando
+comparado ao decil mais rico.
+
+Neste sentido, o plano diretor de BH apresenta ações e diretrizes específicas para a região do hipercentro, de maneira a resgatar o
+interesse da população na utilização desses espaços. Dentre as quais destaca-se o estímulo à convivência entre atividades econômicas
+tradicionais e modernas, promoção de espaço urbano sustentável acessível aos mais diversos grupos sociais, qualificação e apropriação
+de espaços vazios ou subutilizados e a qualificação dos espaços públicos a partir dos princípios de acessibilidade universal.
+
+A promoção de pólos de atratividade no hipercentro de BH é  importante para dinamizar a região e atrair mais pessoas para frequentar e
+desfrutar dos espaços públicos da cidade. A requalificação urbana é uma estratégia eficaz para melhorar o uso dos espaços públicos,
+tornando-os mais agradáveis e seguros para os moradores e visitantes. Além disso, é importante que sejam realizadas intervenções para
+revitalizar o comércio local e incentivar a criação de novos negócios na região, gerando empregos e fortalecendo a economia local. Com
+essas medidas, é possível transformar o hipercentro de BH em um espaço atraente, seguro e dinâmico, valorizando o patrimônio histórico
+e cultural da cidade e oferecendo novas opções de lazer e entretenimento para os moradores e visitantes.
+
+O transporte público em BH apresenta vários desafios para a população, especialmente para mulheres de baixa renda, que têm menos
+acesso a veículos motorizados e dependem do transporte público para se deslocar. Além disso, o crescimento econômico e populacional
+levou a um aumento no uso de carros e motocicletas, o que resultou em congestionamento e poluição. Se as tendências atuais persistirem
+, os modos de transporte motorizados individuais podem representar 45% de todos os deslocamentos em 2030, com transporte público
+respondendo por apenas 18%. A cidade também enfrenta desafios em relação à acessibilidade para pessoas com deficiência, com muitos
+espaços públicos não estando em conformidade com as normas técnicas adequadas.
+
+A prefeitura de BH, por meio de um financiamento do Banco Mundial, irá construir o BRT (Bus Rapid Transport) na Avenida Amazonas.
+Para que esse sistema possa funcionar de forma adequada, é preciso construir um terminal adequado, com capacidade para atender a
+demanda de passageiros, além de oferecer uma infraestrutura de qualidade, como pontos de embarque e desembarque confortáveis,
+seguros e bem sinalizados. A construção de um terminal intermodal para o BRT da Av. Amazonas é fundamental para garantir a qualidade
+e eficiência do transporte intermunicipal na região metropolitana de BH.
+
+A necessidade de melhoria do desempenho operacional do transporte coletivo na Área Hospitalar da cidade é outra necessidade. A região
+é de grande importância para Belo Horizonte, pois concentra hospitais, universidades e instituições de ensino, além de ser um importante
+corredor de passagem para quem se desloca entre diferentes bairros da cidade. No entanto, a rede de transporte público atual ainda
+apresenta deficiências, como longos tempos de espera e congestionamentos, o que prejudica a qualidade do serviço prestado aos
+usuários. É necessário que sejam realizados investimentos para melhorar as condições de conforto, segurança e tempo de embarque dos
+usuários da rede MOVE na região, além de reduzir o tráfego de passagem pela Área Hospitalar, o que contribuirá para melhorar a
+mobilidade urbana e a qualidade de vida dos moradores da região
+
+A mobilidade ativa é essencial para a saúde da população e para a mobilidade urbana como um todo. No entanto, em BH, a infraestrutura
+inadequada para ciclistas e pedestres e a falta de sinalização desestimulam a população a adotar a mobilidade ativa como uma alternativa
+viável para se deslocar pela cidade.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+A partir dos desafios apresentados no item 'Diagnóstico', o Plano Plurianual de Belo Horizonte prevê ações para garantir melhor
+acessibilidade, mobilidade, segurança e a requalificação/promoção de espaços públicos, em conformidade com a preservação do
+patrimônio cultural e do meio ambiente no município de Belo Horizonte. A prefeitura tem concentrado seus esforços na integração de suas
+políticas de planejamento territorial, incluindo iniciativas como o Plano de Mobilidade, Plano Diretor, Plano de Ação Climática.
+
+O Programa de Mobilidade e Desenvolvimento Urbano Integrado de Belo Horizonte prevê ações levando em consideração três
+componentes: (i) Polos de Atratividade, (ii) Requalificação Urbana,  (iii) Mobilidade Ativa e Coletiva, de maneira a pensar o
+desenvolvimento urbano de forma integrada
+
+O componente 1 - Polos de Atratividade visa desempenhar um papel importante para o desenvolvimento urbano de Belo Horizonte
+promovendo centros de negócios, cultura e lazer, criando oportunidades de emprego, melhorando a infraestrutura e valorizando o
+patrimônio histórico e cultural da cidade, a partir das ações citadas abaixo:
+
+Construir a estação Terminal de ônibus metropolitano do BRT Amazonas;
+
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+Requalificar o bairro comercial do Barro Preto (Pólo da Moda).
+
+Dentre os resultados esperados do componente 1 do projeto, destacam-se o estímulo ao desenvolvimento econômico, atração de novos
+investimentos e empreendimentos, bem como a melhoria da infraestrutura urbana e a criação de um pólo econômico mais dinâmico,
+moderno e competitivo.  Além disso, espera-se melhorar o deslocamento de passageiros em ônibus metropolitanos e reduzir a
+necessidade da população a veículos particulares.
+
+A Requalificação Urbana (componente 2) visa proporcionar espaços públicos com maior conforto térmico promovendo a presença de mais
+áreas verdes na região central de Belo Horizonte. Além disso, busca-se melhorar as condições de caminhabilidade e a mobilidade a partir
+do transporte público e da mobilidade ativa, criando um ambiente mais agradável e seguro para a população. Com base nas ações
+mencionadas abaixo:
+
+Paisagismo com recuperação de mobiliários, passeios e revegetação
+
+Remodelagem dos canteiros centrais com melhoria do paisagismo e melhoria na acessibilidade nas travessias de pedestres
+
+Entre os resultados esperados para o componente 2, destacam-se a promoção da mobilidade ativa, o aumento das áreas verdes urbanas
+e a melhoria da segurança  e da acessibilidade dos espaços públicos.
+
+Os projetos previstos pelo componente 3, Mobilidade Ativa e Coletiva, propõe investimentos  na melhoria da qualidade do transporte
+público e na promoção da mobilidade ativa.  A partir das ações mencionadas abaixos:
+
+Implantação de faixas exclusivas de ônibus no hipercentro;
+
+Rebaixamento asfáltico, pavimentação e microdrenagem no hiper centro;
+
+Requalificação de calçadas, incluindo acessibilidade universal, calçadas portuguesas e mobiliário urbano;
+
+Implantação de ruas de pedestres;
+
+Estações de transferência do BRT MOVE Municipal e do Sistema Viário do Entorno da Área Hospitalar;
+
+Implantação de novas ciclovias e conservação das atuais.
+
+Além de reduzir o tráfego de veículos motorizados particulares, o projeto, ao estimular a mobilidade ativa, visa melhorar a saúde e
+qualidade de vida dos usuários, e diminuir os acidentes de trânsito, eles também podem trazer mais eficiência no deslocamento, fomentar
+a economia local, melhorar a acessibilidade urbana e contribuir para a redução das emissões de gases de efeito estufa. Para as ações
+relacionadas diretamente ao transporte público, espera-se resultados como maior conforto e segurança nos abrigos de ônibus, redução no
+tempo de viagem do transporte público, redução no tempo de embarque, integração multimodal, melhoria na satisfação e confiança na
+utilização do transporte público.
+
+Os estudos complementares que compõem o componente 4, buscam garantir a viabilidade, segurança, eficiência e integração entre os
+componentes do projeto. Este componente, também, prevê a compra de equipamentos de controle da qualidade do ar, que irão permitir à
+prefeitura monitorar se a qualidade do ar está em conformidade com as normas e legislações ambientais, identificar fontes de poluição,
+promover saúde pública e sustentabilidade. Por ser transversal, está incluído nesse componente a qualificação de mão de obra feminina
+para atuar nas obras contratadas pela prefeitura para este programa e para outras obras futuras.
+
+A sustentabilidade do projeto é fundamental para garantir que os objetivos propostos sejam alcançados a longo prazo. Para isso, a
+responsabilidade pelo gerenciamento e manutenção do programa ficará com a Prefeitura Municipal, por meio da Secretaria Municipal de
+Obras e Infraestrutura.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+Alinhados ao ODS11 - Cidades e Comunidades Sustentáveis, os instrumentos de planejamento estão detalhados abaixo:
+
+Plano Plurianual Estado de Minas Gerais 2020-2023:
+
+PROGRAMA 071 - DESENVOLVIMENTO DA INFRAESTRUTURA ESTADUAL, MUNICIPAL E REGIONAL
+
+- AÇÃO: 1063 - INTERVENÇÕES NA INFRAESTRUTURA ESTADUAL, MUNICIPAL E REGIONAL
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+- AÇÃO: 4154 - FOMENTO  À INFRAESTRUTURA PÚBLICA MUNICIPAL
+
+PROGRAMA 073 - MOBILIDADE EM MINAS GERAIS
+
+- AÇÃO: 1065 - MELHORIA DA MOBILIDADE URBANA NO ESTADO DE MINAS GERAIS
+
+- AÇÃO: 4160 - GESTÃO DO TRANSPORTE COLETIVO RODOVIÁRIO DE PASSAGEIROS
+
+Plano Plurianual do Município de Belo Horizonte 2022-2025:
+
+Programa: 0233 - MANUTENÇÃO DA CIDADE:
+
+- Ação: 1202 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRAÇAS E CANTEIROS;
+
+- Ação: 1396 - INFRAESTRUTURA URBANA
+
+Programa: 0059 - COORDENAÇÃO DA POLÍTICA URBANA:
+
+- Ação: 2566 - PLANEJAMENTO E DESENVOLVIMENTO URBANO
+
+Programa: 0237 - QUALIFICAÇÃO, PROFISSIONALIZAÇÃO E EMPREGO:
+
+- Ação: 2404 - AÇÕES DE QUALIFICAÇÃO, PROFISSIONALIZAÇÃO E EMPREGO
+
+Programa: 0062 - GESTÃO DO SISTEMA VIÁRIO MUNICIPAL:
+
+- Ação: 1230 - IMPLANTAÇÃO E RECONSTRUÇÃO DE VIAS PÚBLICAS;
+
+- Ação: 1330 - OBRAS ESTRUTURANTES DO SISTEMA VIÁRIO
+
+Programa: 0127 - PROMOÇÃO E DEFESA DE DIREITOS HUMANOS E CIDADANIA
+
+- Ação: 2840 - PROMOÇÃO, PROTEÇÃO E DEFESA DE DIREITOS DAS MULHERES
+
+Programa: 0059 - COORDENAÇÃO DA POLÍTICA URBANA
+
+- Ação: 2890 - FISCALIZAÇÃO URBANO-AMBIENTAL
+
+-Plano Diretor de Belo Horizonte - Lei nº 11.181/19 - Diretrizes que englobam o Plano de Requalificação do Hipercentro e  Programa Belo
+Horizonte Mais Feliz ;
+
+-Plano Diretor de Mobilidade Urbana de Belo Horizonte (PLANMOB-BH 2030) Decreto Nº 15.317 - atende aos princípios da Política
+Nacional de Mobilidade Urbana (PNMU), com foco na mobilidade urbana sustentável em todos seus aspectos;
+
+-Decretos Programa de Requalificação do Centro de Belo Horizonte - Centro de Todo Mundo
+
+- Projeto Mobilidade Urbana e Inclusão Urbana: Parceria entre Prefeitura e Banco Mundial com o objetivo de desenvolver o Vetor-Oeste do
+Município e trazer melhorias para comunidades estratégicas da cidade;
+
+2. Projeto
+
+### 2.1. Título
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+Programa de Mobilidade e Desenvolvimento Urbano Integrado de Belo Horizonte - Mobilidade sustentável e Requalificação do Centro de
+Belo Horizonte.
+
+
+### 2.2. Título Abreviado
+
+
+Mobilidade e Desenvolvimento Urbano Integrado - BH
+
+
+### 2.3. Mutuário
+
+
+Município de Belo Horizonte - MG
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Objetivo geral:
+
+O programa tem como objetivo estimular o desenvolvimento da região central, através de polos de atratividade,  e promover a mobilidade
+urbana e a apropriação dos espaços públicos do hipercentro de Belo Horizonte, através da revitalização de áreas verdes, implantação de
+acessibilidade universal e de infraestrutura para o transporte coletivo.
+
+Objetivos específicos:
+
+Componente 1 - Polos de Atratividade
+
+O componente "Polos de Atratividade" tem como objetivo principal o desenvolvimento de áreas específicas da cidade de Belo Horizonte
+que apresentem potencial para se tornarem pólos de atividades econômicas com interligação com a região central. Nesse contexto, dois
+produtos específicos foram planejados: a construção do terminal de ônibus metropolitano para o BRT Amazonas e a requalificação do
+bairro comercial do bairro Barro Preto.
+
+Subcomponente 1.1 - Terminal de ônibus metropolitano do BRT Amazonas
+
+A construção do terminal de ônibus tem como objetivo garantir a macroacessibilidade da região central, integrando diferentes modos de
+transporte e facilitando o deslocamento dos moradores da região metropolitana e Regional Oeste-Barreiro ao hipercentro de Belo
+Horizonte.
+
+Subcomponente 1.2 - Requalificação urbana do bairro Barro Preto
+
+A requalificação do bairro comercial do Barro Preto tem como objetivo estimular a economia local e diversificar as atividades econômicas,
+consolidando a região como polo da moda na cidade e atraindo novos investimentos para a região.
+
+Componente 2 - Requalificação de Espaços Públicos
+
+O objetivo do componente Requalificação Urbana é proporcionar espaços públicos com maior conforto térmico e promover mais
+atratividade na região central de Belo Horizonte. Além disso, busca-se melhorar as condições de caminhabilidade, criando um ambiente
+mais agradável e seguro para a população.
+
+Subcomponente 2.1: Paisagismo com recuperação de mobiliários, passeios e revegetação
+
+As intervenções de paisagismo e recuperação de mobiliários, passeios e revegetação em áreas públicas contribuem para melhorar a
+qualidade de vida da população, promovendo a revitalização desses espaços e incentivando o uso por parte da comunidade. A beleza e
+funcionalidade desses locais públicos atraem investimentos e fortalecem a economia local.
+
+Subcomponente 2.2: Remodelagem dos canteiros centrais com melhoria do paisagismo e melhoria na acessibilidade nas travessias de
+pedestres
+
+As intervenções visam melhorar o paisagismo dos canteiros centrais das avenidas do hipercentro, implementando acessibilidade universal
+nas travessias de pedestres, para garantir que essas áreas sejam seguras e adequadas para o trânsito de pessoas com mobilidade
+reduzida.
+
+Componente 3-  Mobilidade Ativa e Coletiva
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 6
+
+O componente de Mobilidade Ativa e Coletiva tem como objetivo principal promover a melhoria da mobilidade urbana na região central de
+Belo Horizonte. É previsto um conjunto de ações que incentivem o uso de meios de transporte mais sustentáveis e eficientes, descrito nos
+subcomponentes abaixo:
+
+Subcomponente 3.1 - Faixas Exclusivas de Ônibus no Hipercentro
+
+Este subcomponente tem como objetivo a redução dos tempos de viagem de ônibus que se destinam à região central e  aumento da
+velocidade operacional dos ônibus, por meio da implantação de faixas exclusivas para ônibus em importantes vias da cidade. As faixas
+exclusivas permitirão que a população que se destina ao hipercentro se desloque com maior conforto e acesse um maior número de
+serviços e comércio.
+
+Subcomponente 3.2 -  Rebaixamento asfáltico, pavimentação e microdrenagem no Hipercentro
+
+Este subcomponente tem como objetivo a melhoria da infraestrutura urbana na região central de Belo Horizonte, por meio de obras de
+pavimentação, rebaixamento asfáltico e microdrenagem em até 18 km de vias no hipercentro. As intervenções visam melhorar a
+infraestrutura viária da região, aumentando a segurança e o conforto dos pedestres e ciclistas, além de reduzir os impactos das chuvas e
+alagamentos.
+
+Subcomponente 3.3 - Requalificação de calçadas
+
+O objetivo deste subcomponente é a melhoria das condições de acessibilidade e caminhabilidade para os pedestres, especialmente para
+mulheres, crianças e pessoas com mobilidade reduzida. Com a realização das intervenções de requalificação das calçadas, pretende-se
+garantir a qualidade dos trajetos, incluindo a eliminação de obstáculos e desníveis nas calçadas, o rebaixamento de guias para acesso de
+cadeirantes, a instalação de rampas de acessibilidade, além da manutenção e construção de novos mobiliários urbanos. Também será
+realizada manutenção das pedras das calçadas portuguesas, tombadas pelo município, que sofrem com desgaste e depredação.
+
+Subcomponente 3.4 - Obras de implantação de Ruas de Pedestres
+
+O presente subcomponente tem como objetivo principal a criação de espaços públicos seguros, confortáveis e atrativos para os pedestres.
+Dentre as obras planejadas, destacam-se a implantação de ruas exclusivas para pedestres em locais estratégicos da cidade, como na Av.
+Álvares Cabral, na R. dos Tupis,  e na Av. Olegário Maciel, promovendo a mobilidade ativa no centro da cidade.
+
+Subcomponente 3.5 - Estações de Transferência do BRT MOVE Municipal e do Sistema Viário do Entorno da Área Hospitalar
+
+Este subcomponente tem como objetivo principal a melhoria do sistema de transporte público na região hospitalar da cidade, localizada na
+região central de Belo Horizonte. Isso será alcançado por meio da construção de novas estações de transferência do BRT MOVE
+Municipal, visando proporcionar maior conforto e agilidade aos usuários do sistema.
+
+Subcomponente 3.6 - Novas ciclovias e conservação das atuais
+
+Este subcomponente tem como objetivo principal fomentar o uso da bicicleta como meio de transporte na cidade, visando uma mobilidade
+sustentável e saudável. Para isso, estão previstas a construção de novas ciclovias em pontos estratégicos da cidade e a conservação das
+já existentes, com a realização de reparos e manutenções. Além disso, o componente busca promover a integração da rede cicloviária
+com outros modos de transporte, para proporcionar opções de deslocamento mais eficientes e seguras para os ciclistas.
+
+Componente 4-  Estudos e Equipamentos Complementares
+
+Subcomponente 4.1 - Programa Mulheres na Construção
+
+Este subcomponente tem como objetivo principal a qualificação de mão-de-obra feminina para atuar nas obras contratadas pela Prefeitura
+de Belo Horizonte. Busca-se com essa iniciativa fomentar a igualdade de gênero no mercado de trabalho e contribuir para o
+empoderamento das mulheres, oferecendo capacitação técnica para atuarem em diferentes áreas da construção civil.
+
+Subcomponente 4.2 - Auditoria externa
+
+Este subcomponente  tem como objetivo garantir a transparência e a efetividade do uso dos recursos públicos destinados ao projeto. Para
+isso, serão contratados serviços de auditoria externa independente para avaliar o desempenho financeiro e a efetividade do projeto, bem
+como a conformidade com as normas e procedimentos estabelecidos pela AFD. A auditoria externa irá fornecer informações valiosas para
+aprimorar a gestão do projeto e garantir que os recursos públicos sejam utilizados de maneira adequada e eficiente.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 7
+
+Subcomponente 4.3 - Contratação de equipe de apoio à Unidade Gestora do Programa
+
+Este subcomponente  tem como objetivo garantir a adequada gestão do programa, por meio da contratação de equipe especializada em
+diversas áreas, tais como planejamento, finanças, gestão de projetos, entre outras. A equipe de apoio irá auxiliar a Unidade Gestora do
+Programa na execução das atividades, monitoramento e avaliação dos projetos, bem como na elaboração de relatórios e prestação de
+contas.
+
+Subcomponente 4.4 - Estudos de microssimulação para o Hipercentro
+
+Este subcomponente  tem como objetivo analisar e simular o comportamento do tráfego na região central de Belo Horizonte, a fim de
+identificar os gargalos e as oportunidades de melhoria na mobilidade urbana. Por meio de dados coletados e modelagem computacional, é
+possível entender como o fluxo de veículos, pedestres e ciclistas interage nas vias do Hipercentro, avaliar a eficácia de intervenções
+previstas no programa e propor soluções mais adequadas para a circulação urbana.
+
+Subcomponente 4.5 - Equipamentos para monitoramento da qualidade de ar
+
+O objetivo do subcomponente de equipamentos para monitoramento da qualidade do ar é promover o controle e a gestão da poluição
+atmosférica na cidade, por meio da instalação de equipamentos eficientes para monitoramento da qualidade do ar em áreas estratégicas e
+de maior vulnerabilidade, a fim de coletar dados precisos e atualizados e subsidiar a elaboração de políticas públicas e ações de
+prevenção e mitigação dos impactos ambientais e na saúde da população.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+
+
+Página: 8
+
+Meta
+2,70
+
+Linha de Base
+0,00
+
+0,00
+
+4,00
+
+0,00
+
+8,80
+
+
+Descrição
+Extensão de vias requalificadas no bairro Barro
+Preto
+
+Nível de satisfação da população com os
+espaços públicos requalificados
+
+Extensão de faixas exclusivas de ônibus
+implantadas
+
+km
+
+Escala de 1 a 5
+
+Fórmula de Cálculo Unidade de Medida
+Realizar levantamento
+de todas as vias
+urbanas que serão
+contempladas pelo
+projeto de
+requalificação de
+espaços públicos.
+Medir a extensão de
+cada via e somá-las
+para obter a linha de
+base.  Durante a
+execução do projeto,
+monitorar
+constantemente a
+extensão de vias já
+requalificadas,
+atualizando o
+indicador a cada
+etapa concluída.
+Realizar pesquisa de
+opinião com
+moradores e usuários
+dos espaços públicos
+requalificados,
+utilizando escala de 1
+a 5 para avaliar o
+nível de satisfação.
+Para medir, a
+SUDECAP/SUZURB
+avaliará a quantidade
+de quilômetros de
+todas as vias
+reabilitadas ou
+melhoradas por
+operações apoiadas
+pela AFD.   Para
+medir, a SUDECAP/
+SUZURB avaliará o
+avanço físico das
+obras civis usando
+uma metodologia de
+avanço ponderado,
+incluindo obras
+preliminares, retirada
+de interferências,
+reconstrução/
+reabilitação de vias,
+instalação de
+equipamentos e
+paisagismo.  A PBH
+fornecerá os números
+nos relatórios de
+implementação e a
+supervisão do projeto
+os medirá no local
+
+Km
+
+
+Página: 9
+
+Km
+
+0,00
+
+18,00
+
+Km
+
+0,00
+
+36,00
+
+Extensão de pavimentos recuperados
+
+Extensão de calçadas requalificadas
+
+Para medir, a
+SUDECAP/SUZURB
+avaliará a quantidade
+de quilômetros de
+todas as vias
+reabilitadas ou
+melhoradas por
+operações apoiadas
+pela AFD.   Para
+medir, a SUDECAP/
+SUZURB avaliará o
+avanço físico das
+obras civis usando
+uma metodologia de
+avanço ponderado,
+incluindo obras
+preliminares, retirada
+de interferências,
+reconstrução/
+reabilitação de vias,
+instalação de
+equipamentos e
+paisagismo.  A PBH
+fornecerá os números
+nos relatórios de
+implementação e a
+supervisão do projeto
+os medirá no local
+Para medir, a
+SUDECAP/SUZURB
+avaliará a quantidade
+de quilômetros de
+todas as vias
+reabilitadas ou
+melhoradas por
+operações apoiadas
+pela AFD.   Para
+medir, a SUDECAP/
+SUZURB avaliará o
+avanço físico das
+obras civis usando
+uma metodologia de
+avanço ponderado,
+incluindo obras
+preliminares, retirada
+de interferências,
+reconstrução/
+reabilitação de vias,
+instalação de
+equipamentos e
+paisagismo.  A PBH
+fornecerá os números
+nos relatórios de
+implementação e a
+supervisão do projeto
+os medirá no local
+
+
+Página: 10
+
+m
+
+0,00
+
+420,00
+
+Extensão de vias de pedestres implantadas
+
+Para medir, a
+SUDECAP/SUZURB
+avaliará a quantidade
+de metros de todas as
+vias reabilitadas ou
+melhoradas por
+operações apoiadas
+pela AFD.   Para
+medir, a SUDECAP/
+SUZURB avaliará o
+avanço físico das
+obras civis usando
+uma metodologia de
+avanço ponderado,
+incluindo obras
+preliminares, retirada
+de interferências,
+reconstrução/
+reabilitação de vias,
+instalação de
+equipamentos e
+paisagismo.  A PBH
+fornecerá os números
+nos relatórios de
+implementação e a
+supervisão do projeto
+os medirá no local
+
+Estações de Transferência do BRT implantadas Para medir, a
+
+und
+
+0,00
+
+2,00
+
+SUDECAP/SUZURB
+avaliará a quantidade
+de estações de BRT
+implantadas e
+financiadas por
+operações apoiadas
+pela AFD.   Para
+medir, a SUDECAP/
+SUZURB avaliará o
+avanço físico das
+obras civis usando
+uma metodologia de
+avanço ponderado,
+incluindo obras
+preliminares, retirada
+de interferências,
+instalação de
+equipamentos e
+paisagismo.  A PBH
+fornecerá os números
+nos relatórios de
+implementação e a
+supervisão do projeto
+os medirá no local
+
+
+Página: 11
+
+Km
+
+0,00
+
+12,00
+
+Km/h
+
+9,10
+
+13,40
+
+Km/h
+
+14,30
+
+15,80
+
+Ciclovias / ciclovias implantadas / recuperadas
+
+Velocidade comercial média do serviço de
+ônibus no sentido bairro-centro na Avenida
+Afonso Pena no horário de pico
+
+Velocidade comercial média do serviço de
+ônibus no sentido centro-bairro na Avenida
+Afonso Pena no horário de pico
+
+Para medir, a
+SUDECAP/SUZURB
+avaliará a quantidade
+de quilômetros de
+todas as vias
+reabilitadas ou
+melhoradas por
+operações apoiadas
+pela AFD.   Para
+medir, a SUDECAP/
+SUZURB avaliará o
+avanço físico das
+obras civis usando
+uma metodologia de
+avanço ponderado,
+incluindo obras
+preliminares, retirada
+de interferências,
+reconstrução/
+reabilitação de vias,
+instalação de
+equipamentos e
+paisagismo.  A PBH
+fornecerá os números
+nos relatórios de
+implementação e a
+supervisão do projeto
+os medirá no local
+Medidas de
+velocidade de
+deslocamento
+ocorrerão durante os
+horários de pico da
+manhã e os horários
+de pico da tarde .
+Estas medidas
+levarão em conta os
+dados de GPS de
+todos os ônibus que
+usaram o trecho da
+Avenida Afonso Pena
+. As medidas
+ocorrerão em dias
+úteis típicos. O
+resultado final será a
+média das medidas
+obtidas de todos os
+ônibus.
+Medidas de
+velocidade de
+deslocamento
+ocorrerão durante os
+horários de pico da
+manhã e os horários
+de pico da tarde .
+Estas medidas
+levarão em conta os
+dados de GPS de
+todos os ônibus que
+usaram o trecho da
+Avenida Afonso Pena
+. As medidas
+ocorrerão em dias
+úteis típicos. O
+resultado final será a
+média das medidas
+obtidas de todos os
+ônibus.
+
+
+Página: 12
+
+Km/h
+
+8,70
+
+10,00
+
+%
+
+3,00
+
+20,00
+
+Velocidade comercial média do serviço de
+ônibus da rede de simulação na Avenida Afonso
+Pena no horário de pico
+
+Porcentagem de mulheres empregadas em
+obras
+
+
+### 2.7. Projeto/Componentes
+
+
+Medidas de
+velocidade de
+deslocamento
+ocorrerão durante os
+horários de pico da
+manhã e os horários
+de pico da tarde .
+Estas medidas
+levarão em conta os
+dados de GPS de
+todos os ônibus que
+usaram o trecho da
+Avenida Afonso Pena
+. As medidas
+ocorrerão em dias
+úteis típicos. O
+resultado final será a
+média das medidas
+obtidas de todos os
+ônibus.
+A Base de Referência
+é a quantidade total
+de mulheres que
+trabalham na
+construção em BH.
+Para medir, a
+SUDECAP / SUZURB
+avaliará os contratos
+de funcionários
+contratados pelas
+empresas
+responsáveis pelas
+com as obras. A PBH
+fornecerá os números
+em seus relatórios de
+implementação.
+
+
+Componentes
+C - POLOS DE ATRATIVIDADE
+S - TERMINAL DE ÔNIBUS METROPOLITANO DO BRT AMAZONAS
+P - Execução das obras e fiscalização para implantação do Terminal de ônibus metropolitano do BRT Amazonas
+P - Programa de Trabalho Técnico Social (PTTS) Categoria: Assistencia Social
+P - Desapropriações, Bolsa Moradia e Indenizações
+S - REQUALIFICAÇÃO URBANA DO BAIRRO BARRO PRETO
+P - Execução das obras de requalificação urbana do bairro Barro Preto
+C - REQUALIFICAÇÃO DE ESPAÇOS PÚBLICOS
+S - PAISAGISMO COM RECUPERAÇÃO DE MOBILIÁRIOS, PASSEIOS E REVEGETAÇÃO
+P - Obras e Fiscalização de paisagismo com recuperação de mobiliários, passeios e revegetação
+S - REMODELAGEM DOS CANTEIROS CENTRAIS COM MELHORIA DO PAISAGISMO E MELHORIA NA
+ACESSIBILIDADE NAS TRAVESSIAS DE PEDESTRES
+P - Execução das obras de requalificação dos canteiros centrais e fiscalização
+C - MOBILIDADE ATIVA E COLETIVA
+S - FAIXAS EXCLUSIVAS DE ÔNIBUS NO HIPERCENTRO
+P - Execução das obras de faixas exclusivas de ônibus no Hipercentro e fiscalização
+S - REBAIXAMENTO ASFÁLTICO, PAVIMENTAÇÃO E MICRODRENAGEM NO HIPERCENTRO
+P - Rebaixamento asfáltico, pavimentação e microdrenagem no Hipercentro
+S - REQUALIFICAÇÃO DE CALÇADAS
+P - Execução das obras de requalificação de calçadas
+S - RUA DE PEDESTRES
+P - Execução das Obras de implantação de Ruas de Pedestres
+S - ESTAÇÕES DE TRANSFERÊNCIA DO BRT MOVE MUNICIPAL E DO SISTEMA VIÁRIO DO ENTORNO DA
+ÁREA HOSPITALAR
+P - Elaboração dos Projetos executivos das Estações de Transferência do BRT MOVE Municipal e do Sistema
+Viário do Entorno da Área Hospitalar
+P - Execução das obras e fiscalização de implantação das Estações de Transferência do BRT MOVE Municipal e
+do Sistema Viário do Entorno da Área Hospitalar
+S - EXECUÇÃO DAS OBRAS DE IMPLANTAÇÃO DE NOVAS CICLOVIAS E CONSERVAÇÃO DAS ATUAIS
+P - Execução das obras e fiscalização da implantação de novas ciclovias e conservação das atuais
+C - ESTUDOS E EQUIPAMENTOS COMPLEMENTARES
+S - PROGRAMA MULHERES NA CONSTRUÇÃO
+P - Qualificação de mão-de-obra feminina para atuar nas obras contratadas pela PBH
+S - AUDITORIA EXTERNA
+P - Execução da Auditoria externa
+S - EQUIPE DE APOIO À UNIDADE GESTORA DO PROGRAMA
+P - Contratação de equipe de apoio à Unidade Gestora do Programa
+S - ESTUDOS DE MICROSSIMULAÇÃO PARA O HIPERCENTRO
+P - Elaboração dos estudos de microssimulação para o Hipercentro
+S - MONITORAMENTO DA QUALIDADE DE AR
+P - Compra de equipamentos de monitoramento da qualidade do ar
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 13
+
+Valor(US$)
+49.248.091,00
+45.311.393,00
+32.477.758,00
+1.023.541,00
+11.810.094,00
+3.936.698,00
+3.936.698,00
+2.381.702,00
+1.190.851,00
+1.190.851,00
+1.190.851,00
+
+1.190.851,00
+15.185.811,00
+5.905.047,00
+5.905.047,00
+6.889.221,00
+6.889.221,00
+688.922,00
+688.922,00
+177.151,00
+177.151,00
+1.249.901,00
+
+59.050,00
+
+1.190.851,00
+
+275.569,00
+275.569,00
+1.146.561,52
+295.252,00
+295.252,00
+63.424,00
+63.424,00
+400.121,83
+400.121,83
+196.835,00
+196.835,00
+190.928,69
+190.928,69
+67.962.165,52
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - POLOS DE ATRATIVIDADE
+Dividido em dois subcomponentes:
+(1)Terminal de ônibus metropolitano do BRT Amazonas e
+(2) Requalificação urbana do bairro Barro Preto com o intuito de promover pólos de atividades econômicas, culturais e de lazer.
+
+S - TERMINAL DE ÔNIBUS METROPOLITANO DO BRT AMAZONAS
+A Avenida Amazonas é o principal corredor de transporte de Belo Horizonte que permite o acesso da região metropolitana e da
+Regional Barreiro ao Hipercentro. Ela concentra os maiores volumes de ônibus e passageiros da cidade, contando, atualmente,
+com 31 linhas municipais e 70 linhas metropolitanas.
+A Prefeitura de Belo Horizonte implementará até 2028 o BRT Amazonas, por meio de projetos e obras financiados pelo acordo de
+empréstimo BR 9069, financiado pelo Banco Internacional para Reconstrução e Desenvolvimento (BIRD). São previstos,
+aproximadamente, 9 km de sistema BRT e 19 estações de transferência, entre a Área Central e divisa com Município de Contagem
+, além de 15 km de faixas exclusivas à direita ligando o corredor à Regional Barreiro.
+Para garantir o funcionamento do sistema BRT com desempenho operacional compatível com os objetivos do projeto, a Prefeitura
+deve prover terminais e pontos de conexão que racionalizem a rede de linhas dos sistemas de transporte público coletivo municipal
+e metropolitano, considerando também a conexão com o sistema metroferroviário implantado e planejado.
+Desta maneira, o subcomponente Terminal de ônibus metropolitano do BRT Amazonas é um complemento essencial para o
+projeto de implantação do BRT Amazonas em Belo Horizonte. A construção do terminal e pontos de conexão que integrem os
+sistemas de transporte público municipal e metropolitano, bem como a conexão com o sistema metroferroviário existente e
+planejado, é de suma importância. O Terminal de ônibus metropolitano do BRT Amazonas será um importante ponto de conexão
+entre as linhas metropolitanas e municipais, proporcionando maior eficiência operacional e melhorando a experiência dos usuários
+do transporte público na região.
+
+
+Página: 14
+
+P - Execução das obras e fiscalização para implantação do Terminal de ônibus metropolitano do BRT Amazonas
+O Terminal de ônibus metropolitano do BRT Amazonas é uma edificação de grande porte destinada à integração física e tarifária
+entre as linhas troncais e alimentadoras do sistema do BRT Amazonas, que dará acesso à região central da cidade. Esse terminal
+será um importante ponto de transferência de passageiros entre as linhas municipais e metropolitanas, com pontos de controle das
+linhas troncais e uma localização estratégica capaz de otimizar o seccionamento das linhas de ônibus. Além disso, o Terminal
+poderá atender a integração intermodal com modos individuais.
+
+P - Programa de Trabalho Técnico Social (PTTS) Categoria: Assistencia Social
+O Programa de Trabalho Técnico Social (PTTS) será implementado como parte do projeto para implantação do Terminal de ônibus
+metropolitano do BRT Amazonas. O objetivo do PTTS é promover a participação e o engajamento da comunidade local durante o
+processo de implementação do projeto, por meio de ações que visem à melhoria da qualidade de vida e ao fortalecimento dos
+laços comunitários. As ações do PTTS incluirão atividades como reuniões com a comunidade para discussão do projeto,
+capacitações profissionais e geração de empregos, campanhas de conscientização sobre a importância do transporte público e sua
+integração com outros modais, entre outras. O PTTS será uma importante ferramenta para garantir a integração entre a
+comunidade e o projeto, contribuindo para a sua efetividade e sucesso.
+
+P - Desapropriações, Bolsa Moradia e Indenizações
+O produto Desapropriações, Bolsa Moradia e Indenizações refere-se às ações necessárias para viabilizar a implantação do
+Terminal de ônibus metropolitano do BRT Amazonas, que irá envolver a desapropriação de famílias que vivem no terreno. Além
+disso, em casos de desapropriação de imóveis residenciais, a prefeitura de Belo Horizonte prevê uma Bolsa Moradia temporária
+para as famílias a serem reassentada. Serão realizadas ainda indenizações financeiras aos proprietários dos imóveis
+desapropriados, de acordo com os valores de mercado e as avaliações técnicas realizadas. Essas ações serão conduzidas de
+forma transparente e em conformidade com a legislação vigente, garantindo os direitos dos proprietários e a realização do projeto
+com segurança jurídica e social.
+
+S - REQUALIFICAÇÃO URBANA DO BAIRRO BARRO PRETO
+O projeto de Revitalização do Barro Preto, conhecido como Polo da Moda de Belo Horizonte, enfatiza a apropriação das ruas pelos
+pedestres, sem, no entanto, desconsiderar os fluxos viários necessários para garantir a manutenção das atividades comerciais
+locais. O projeto executivo foi aprovado em janeiro de 2011 e atualmente está sendo revisado para que suas obras sejam
+financiadas pela operação de crédito com a Agência Francesa de Desenvolvimento.
+
+P - Execução das obras de requalificação urbana do bairro Barro Preto
+O projeto de execução e fiscalização das obras de requalificação urbana Polo da Moda Barro Preto visa a revitalização dessa
+importante região comercial da cidade. Com intervenções em 20 trechos, que totalizam 2,70 km, o projeto contempla a
+recuperação de canteiros centrais, a instalação de travessias elevadas de pedestres, o alargamento de calçadas, a troca de
+mobiliário urbano e a extinção de vagas de estacionamento rotativo.
+
+Sob a perspectiva de uso e ocupação do solo, o produto visa ampliar e fortalecer a vocação do bairro, além de criar uma imagem
+diferenciada para o polo da moda ao longo da Avenida Augusto de Lima e da Rua Mato Grosso. Já a proposta para o sistema
+viário prevê a manutenção das entradas e saídas de grande parte da circulação, o aumento de vagas de táxi e de carga e
+descarga, e a redução de estacionamento rotativo para possibilitar a criação de mais espaço para a convivência e circulação de
+pedestres.
+
+A intervenção contempla, ainda, o tratamento de calçada, arborização, mobiliário e iluminação. Também está previsto o tratamento
+nos principais cruzamentos da Avenida Augusto de Lima e Rua Mato Grosso com piso elevado e travessia de pedestres, e um
+tratamento diferenciado na rua Mato Grosso, com alargamento de calçada e mobiliário especial.
+
+C - REQUALIFICAÇÃO DE ESPAÇOS PÚBLICOS
+Dividido em dois subcomponentes:
+(1) Paisagismo com recuperação de mobiliários, passeios e revegetação
+(2)  Remodelagem dos canteiros centrais com melhoria do paisagismo e melhoria na acessibilidade nas travessias de pedestres
+
+S - PAISAGISMO COM RECUPERAÇÃO DE MOBILIÁRIOS, PASSEIOS E REVEGETAÇÃO
+O projeto de obras de paisagismo visa recuperar áreas verdes e espaços públicos importantes na cidade. As intervenções incluem
+a recuperação de mobiliários urbanos, passeios e áreas verdes, além da revegetação de espaços degradados. Com a revitalização
+desses locais, espera-se promover uma melhoria na qualidade de vida dos moradores e visitantes da cidade, além de estimular o
+uso desses espaços para atividades de lazer e convivência.
+
+P - Obras e Fiscalização de paisagismo com recuperação de mobiliários, passeios e revegetação
+O produto em questão consiste na execução de obras de paisagismo, recuperação de mobiliário, passeios e revegetação em
+quatro localidades distintas, totalizando 4 km: Boulevard Arrudas, Praça Rui Barbosa, Praça Engenheiro José Nogueira de Sá e
+Praça Antônio Scalzo Neto. Essas intervenções visam melhorar o conforto térmico e revitalizar esses espaços públicos, tornando-
+os mais agradáveis e convidativos para o uso da população, estimulando a mobilidade ativa.  Essas intervenções de paisagismo e
+recuperação de mobiliários, passeios e revegetação em áreas públicas contribuem para melhorar a qualidade de vida da
+população, promovendo a apropriação desses espaços e incentivando o uso por parte da comunidade.
+
+
+Página: 15
+
+S - REMODELAGEM DOS CANTEIROS CENTRAIS COM MELHORIA DO PAISAGISMO E MELHORIA NA ACESSIBILIDADE
+NAS TRAVESSIAS DE PEDESTRES
+O subcomponente em questão consiste na remodelagem dos canteiros centrais, com o objetivo de melhorar o paisagismo e da
+melhoria na acessibilidade nas travessias de pedestres.
+
+P - Execução das obras de requalificação dos canteiros centrais e fiscalização
+Este produto consiste na realização de obras e fiscalização para remodelagem dos canteiros centrais com melhoria do paisagismo
+e melhoria na acessibilidade nas travessias de pedestres, potencialmente nas avenidas: Av. Bias Fortes, Av. Olegário Maciel, Av.
+João Pinheiro, Av. Augusto de Lima e Av. Álvares Cabral. As intervenções visam melhorar o conforto térmico, a atratividade das
+vias e torná-las mais acessíveis e seguras para pedestres.
+
+C - MOBILIDADE ATIVA E COLETIVA
+O objetivo do componente Mobilidade Ativa e Coletiva é incentivar o uso de meios de transporte mais sustentáveis e eficientes.
+Para alcançá-lo, o componente está dividido em seis subcomponentes:
+(1) Faixas exclusivas de ônibus no Hipercentro,
+(2) Rebaixamento asfáltico, pavimentação e microdrenagem no Hipercentro,
+(3) Requalificação de calçadas,
+(4) Ruas de pedestres,
+(5) Estações de transferência do BRT MOVE Municipal e do sistema viário do entorno da área hospitalar,
+(6) Novas ciclovias e conservação das existentes.
+
+S - FAIXAS EXCLUSIVAS DE ÔNIBUS NO HIPERCENTRO
+Este subcomponente consiste na realização de obras para a implantação de faixas exclusivas de ônibus no Hipercentro, em Belo
+Horizonte. Entre as vias contempladas estão a Avenida Afonso Pena , a Avenida Álvares Cabral e as Ruas Curitiba e São Paulo.
+
+P - Execução das obras de faixas exclusivas de ônibus no Hipercentro e fiscalização
+O produto é composto pela execução das obras para implantação de faixas exclusivas de ônibus no Hipercentro, abrangendo
+potencialmente as vias: Av. Afonso Pena (4,4 km), a Av. Álvares Cabral, entre a Av. Olegário Maciel e a R. dos Guajajaras (1 km) e
+as Ruas Curitiba e São Paulo, entre a Av. Afonso Pena e a Av. Álvares Cabral (3 km). O objetivo é melhorar o transporte público,
+melhorando o acesso à região central e reduzindo os tempos de viagens.
+
+S - REBAIXAMENTO ASFÁLTICO, PAVIMENTAÇÃO E MICRODRENAGEM NO HIPERCENTRO
+Este subcomponente consiste na realização de obras para o rebaixamento asfáltico, pavimentação e microdrenagem de 18 km de
+vias no Hipercentro de Belo Horizonte. O objetivo é melhorar a infraestrutura das ruas para tornar o transporte urbano mais seguro
+e confortável, além de melhorar a atratividade da região.
+
+P - Rebaixamento asfáltico, pavimentação e microdrenagem no Hipercentro
+Este produto se refere às obras de rebaixamento do asfalto, pavimentação e instalação de sistemas de microdrenagem em um
+trecho de 18 km no Hipercentro da cidade.
+
+Essas obras visam melhorar a infraestrutura viária da região, aumentando a segurança e o conforto dos pedestres e ciclistas, além
+de reduzir os impactos das chuvas e alagamentos.
+
+S - REQUALIFICAÇÃO DE CALÇADAS
+Este subcomponente tem como objetivo a requalificação das calçadas no Hipercentro de Belo Horizonte. A proposta é melhorar a
+acessibilidade, a segurança e a mobilidade urbana dos pedestres, promovendo um espaço mais confortável e inclusivo para todos.
+Composto pelo produto de execução das obras de requalificação das calçadas e fiscalização.
+
+P - Execução das obras de requalificação de calçadas
+Este produto consiste na realização de obras para requalificação de calçadas em um trecho de até 36 km, incluindo a implantação
+de acessibilidade universal, calçadas portuguesas e mobiliário urbano adequado.
+
+S - RUA DE PEDESTRES
+Este subcomponente consiste na criação de ruas exclusivas para pedestre na região central da cidade. Estimulando a mobilidade
+ativa e proporcionando espaços seguros para o comércio e socialização da população. Composto pelo produto de execução das
+obras das ruas de pedestres e fiscalização.
+
+P - Execução das Obras de implantação de Ruas de Pedestres
+O produto consiste na execução das obras de implantação de ruas de pedestres em Belo Horizonte, em três vias potenciais:
+a Avenida Álvares Cabral - entre a Avenida Augusto de Lima e a Rua da Bahia, com extensão de 150 metros;
+a Rua dos Tupis - entre a Rua Rio de Janeiro e a Rua São Paulo, com extensão de 135 metros;
+e a Avenida Olegário Maciel, ao lado do Mercado Novo, com extensão de 135 metros.
+Essa intervenção urbana tem como objetivo proporcionar estimular a mobilidade ativa, além de promover a revitalização das áreas
+centrais da cidade. As obras incluem a implantação de calçadas acessíveis, mobiliários urbanos e outros elementos que estimulem
+o uso dessas ruas para a circulação de pessoas.
+
+
+Página: 16
+
+S - ESTAÇÕES DE TRANSFERÊNCIA DO BRT MOVE MUNICIPAL E DO SISTEMA VIÁRIO DO ENTORNO DA ÁREA
+HOSPITALAR
+Este subcomponente consiste na elaboração do projeto executivo e construção de novas estações de transferência do BRT MOVE
+e da requalificação do sistema viário no entorno da Área Hospitalar, proporcionando maior conforto e agilidade aos usuários do
+transporte público. Composto pelos produtos Elaboração do projeto executivo, execução das obras das estações de transferência e
+a fiscalização das obras.
+
+P - Elaboração dos Projetos executivos das Estações de Transferência do BRT MOVE Municipal e do Sistema Viário do
+Entorno da Área Hospitalar
+Este produto consiste na elaboração dos projetos executivos das Estações de Transferência do BRT MOVE Municipal e do
+Sistema Viário do Entorno da Área Hospitalar. Essas estações serão pontos de conexão entre diferentes linhas de ônibus,
+proporcionando maior agilidade e eficiência aos usuários. Além disso, o sistema viário do entorno da área hospitalar também será
+requalificado, visando melhorar o fluxo de veículos e garantir maior segurança no trânsito.
+
+P - Execução das obras e fiscalização de implantação das Estações de Transferência do BRT MOVE Municipal e do
+Sistema Viário do Entorno da Área Hospitalar
+Este produto consiste na execução das obras e fiscalização da implantação das Estações de Transferência do BRT MOVE
+Municipal e do Sistema Viário do Entorno da Área Hospitalar em Belo Horizonte. As obras incluem a construção de estações de
+transferência e a requalificação de vias no entorno da área hospitalar. O objetivo é melhorar a mobilidade urbana na região,
+proporcionando maior conforto e segurança aos usuários do transporte público, bem como facilitar o acesso aos hospitais e
+unidades de saúde. A fiscalização garantirá que as obras sejam realizadas de acordo com as especificações técnicas e dentro do
+prazo e orçamento estabelecidos.
+
+S - EXECUÇÃO DAS OBRAS DE IMPLANTAÇÃO DE NOVAS CICLOVIAS E CONSERVAÇÃO DAS ATUAIS
+Este subcomponente consiste na execução das obras de novas ciclovias e da conservação das atuais. Composto pelo produto
+Execução e fiscalização das obras de implantação de novas ciclovias e conservação das atuais.
+
+P - Execução das obras e fiscalização da implantação de novas ciclovias e conservação das atuais
+Este produto consiste em obras de implantação de novas ciclovias e conservação das atuais em vias selecionadas de Belo
+Horizonte. As vias potencialmente contempladas incluem a Rua São Paulo, a Rua Pe. Belchior e a Rua Rio de Janeiro, totalizando
+2,51 km de extensão, além da Rua Tamoios e as Avenidas Paraná, Santos Dumont e Olegário Maciel, somando 5,29 km de
+extensão. O objetivo é promover a mobilidade ativa, incentivando o uso de bicicletas como meio de transporte e contribuindo para
+a redução da emissão de gases de efeito estufa.
+
+C - ESTUDOS E EQUIPAMENTOS COMPLEMENTARES
+O componente de Estudos e Equipamentos Complementares é composto por cinco subcomponentes que visam garantir a
+qualidade e efetividade do Programa. O primeiro subcomponente é o Programa Mulheres na Construção, que busca promover a
+inclusão de mulheres em atividades relacionadas à construção civil, incentivando a igualdade de gênero e a capacitação
+profissional. Já o subcomponente de Auditoria Externa tem como objetivo garantir a transparência e o cumprimento das normas
+legais e regulamentares durante a execução do programa. O terceiro subcomponente é a Equipe de Apoio à Unidade Gestora do
+Programa, que oferece suporte técnico e administrativo para a execução das atividades do programa.
+
+O quarto subcomponente consiste em Estudos de Microssimulação para o Hipercentro, que buscam avaliar a capacidade de
+tráfego das vias e a efetividade das intervenções propostas, permitindo aprimorar o planejamento e a execução do programa. Por
+fim, o subcomponente de Monitoramento da Qualidade do Ar tem como objetivo avaliar o impacto do programa na qualidade do ar
+da região e garantir a redução das emissões de poluentes.
+
+S - PROGRAMA MULHERES NA CONSTRUÇÃO
+O subcomponente Programa Mulheres na Construção tem como produto a execução de um programa de qualificação de mão-de-
+obra feminina para atuar nas obras contratadas pela Prefeitura de Belo Horizonte. O programa visa promover a igualdade de
+gênero e a inclusão social, oferecendo capacitação técnica e profissional para mulheres que desejam trabalhar no setor da
+construção civil.
+
+P - Qualificação de mão-de-obra feminina para atuar nas obras contratadas pela PBH
+O produto "Execução do Programa Mulheres na Construção" tem como objetivo principal empoderar economicamente as mulheres
+, especialmente aquelas que vivem em áreas vulneráveis de Belo Horizonte, por meio da capacitação profissional na área da
+construção civil e facilitação do acesso a vagas de emprego. Para isso, o programa conta com ações estratégicas como a
+divulgação de cursos de capacitação profissional em comunidades vulneráveis, a construção de pontes entre empresas do setor da
+construção civil e mulheres capacitadas, o monitoramento e avaliação do desempenho das mulheres capacitadas, a difusão de
+boas práticas para a criação de ambientes inclusivos e respeitosos nas empresas do setor, a oficialização de códigos de conduta e
+protocolos de denúncia de discriminação, a facilitação da criação de redes para mulheres que trabalham no setor e o registro das
+melhores práticas e lições aprendidas para ampliação do programa.
+
+S - AUDITORIA EXTERNA
+Este subcomponente tem como objetivo garantir a transparência e eficiência na utilização dos recursos do programa por meio da
+execução da Auditoria Externa. O produto do subcomponente consiste na execução da auditoria externa, que tem como objetivo
+avaliar a execução dos projetos e atividades do programa, verificando a conformidade com as normas e legislações aplicáveis,
+além de verificar a adequação dos processos adotados.
+
+
+Página: 17
+
+P - Execução da Auditoria externa
+O produto do subcomponente Auditoria Externa consiste na realização de uma avaliação criteriosa da execução dos projetos e
+atividades do programa, com o objetivo de verificar a adequação dos processos e a conformidade com as normas e legislações
+aplicáveis. Por meio da execução da Auditoria Externa, será possível identificar e corrigir eventuais falhas, garantindo a eficiência e
+eficácia do programa e a correta aplicação dos recursos públicos.
+
+S - EQUIPE DE APOIO À UNIDADE GESTORA DO PROGRAMA
+Este subcomponente visa assegurar a efetividade da gestão do programa por meio da contratação de uma equipe de apoio à
+Unidade Gestora. Composto pelo produto Contratação da equipe de apoio à Unidade Gestora do Programa.
+
+P - Contratação de equipe de apoio à Unidade Gestora do Programa
+O produto do subcomponente consiste na contratação dessa equipe, que irá auxiliar a Unidade Gestora na implementação,
+monitoramento e avaliação do programa. A equipe será responsável por garantir a transparência e eficiência na utilização dos
+recursos, bem como pela coordenação das atividades do programa e pela comunicação com os demais envolvidos, tais como
+empresas contratadas, órgãos fiscalizadores e comunidade local. O objetivo final é garantir o sucesso do programa e o alcance dos
+resultados esperados.
+
+S - ESTUDOS DE MICROSSIMULAÇÃO PARA O HIPERCENTRO
+Este subcomponente tem como objetivo aprimorar a mobilidade urbana no Hipercentro por meio da realização de estudos de
+microssimulação. O produto do subcomponente consiste na elaboração dos estudos de microssimulação.
+
+P - Elaboração dos estudos de microssimulação para o Hipercentro
+O produto deste subcomponente consiste na elaboração de estudos de microssimulação para o hipercentro, com o objetivo de
+avaliar os impactos da ampliação de zonas 30 na região e apresentar soluções para redução do tráfego de passagem pela área
+central, melhoria da velocidade do transporte coletivo, aumento da caminhabilidade, redução de acidentes e emissões em áreas
+sensíveis.
+
+S - MONITORAMENTO DA QUALIDADE DE AR
+Este subcomponente tem como objetivo monitorar a qualidade do ar no Hipercentro, a fim de garantir a saúde e bem-estar da
+população e o cumprimento das normas ambientais. Composto pelo produto de compra de equipamentos de monitoramento da
+qualidade do ar.
+
+P - Compra de equipamentos de monitoramento da qualidade do ar
+O produto do subcomponente "Compra de equipamentos de monitoramento da qualidade do ar" consiste na aquisição de
+equipamentos necessários para monitorar a qualidade do ar no Hipercentro. Isso inclui, por exemplo, sensores de monitoramento
+de gases poluentes, analisadores de partículas em suspensão, e outros dispositivos necessários para medir os índices de
+qualidade do ar em tempo real. A compra desses equipamentos é fundamental para garantir a efetividade do programa, permitindo
+que a equipe de monitoramento possa coletar dados precisos sobre a qualidade do ar na região e tomar as medidas necessárias
+para melhorá-la.
+
+
+Página: 18
+
+Categoria de Gasto
+
+Obras
+P- Execução das obras e fiscalização para
+implantação do Terminal de ônibus metropolitano
+do BRT Amazonas
+P- Execução das obras de requalificação urbana
+do bairro Barro Preto
+P- Obras e Fiscalização de paisagismo com
+recuperação de mobiliários, passeios e
+revegetação
+P- Execução das obras de requalificação dos
+canteiros centrais e fiscalização
+P- Execução das obras de faixas exclusivas de
+ônibus no Hipercentro e fiscalização
+P- Rebaixamento asfáltico, pavimentação e
+microdrenagem no Hipercentro
+P- Execução das obras de requalificação de
+calçadas
+P- Execução das Obras de implantação de Ruas
+de Pedestres
+P- Execução das obras e fiscalização de
+implantação das Estações de Transferência do
+BRT MOVE Municipal e do Sistema Viário do
+Entorno da Área Hospitalar
+P- Execução das obras e fiscalização da
+implantação de novas ciclovias e conservação das
+atuais
+Bens
+P- Compra de equipamentos de monitoramento
+da qualidade do ar
+Consultoria
+P- Elaboração dos Projetos executivos das
+Estações de Transferência do BRT MOVE
+Municipal e do Sistema Viário do Entorno da Área
+Hospitalar
+P- Execução da Auditoria externa
+P- Contratação de equipe de apoio à Unidade
+Gestora do Programa
+P- Elaboração dos estudos de microssimulação
+para o Hipercentro
+Serviços que Não de Consultoria
+P- Programa de Trabalho Técnico Social (PTTS)
+Categoria: Assistencia Social
+Capacitação e Treinamento
+P- Qualificação de mão-de-obra feminina para
+atuar nas obras contratadas pela PBH
+Outros
+P- Desapropriações, Bolsa Moradia e
+Indenizações
+Total Geral
+
+Unidade de medida
+-
+Global
+
+Global
+
+Global
+
+Global
+
+Global
+
+Global
+
+Global
+
+Global
+
+Global
+
+Global
+
+-
+Global
+
+-
+Global
+
+Global
+Global
+
+Global
+
+-
+Global
+
+-
+Global
+
+-
+Global
+
+-
+
+Meta
+
+Valor
+
+% Financeiro
+
+-
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+-
+1,00
+
+-
+1,00
+
+1,00
+1,00
+
+1,00
+
+-
+1,00
+
+-
+1,00
+
+-
+1,00
+
+-
+
+53.922.919,00
+32.477.758,00
+
+3.936.698,00
+
+1.190.851,00
+
+1.190.851,00
+
+5.905.047,00
+
+79,34
+47,79
+
+5,79
+
+1,75
+
+1,75
+
+8,69
+
+6.889.221,00
+
+10,14
+
+688.922,00
+
+177.151,00
+
+1.190.851,00
+
+275.569,00
+
+190.928,69
+190.928,69
+
+719.430,83
+59.050,00
+
+63.424,00
+400.121,83
+
+196.835,00
+
+1.023.541,00
+1.023.541,00
+
+295.252,00
+295.252,00
+
+11.810.094,00
+11.810.094,00
+
+67.962.165,52
+
+1,01
+
+0,26
+
+1,75
+
+0,41
+
+0,28
+0,28
+
+1,06
+0,09
+
+0,09
+0,59
+
+0,29
+
+1,51
+1,51
+
+0,43
+0,43
+
+17,38
+17,38
+
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+- Diagnóstico Plano Diretor de Mobilidade Urbana 2015 ? produziu estudo para auxiliar na melhoria da mobilidade urbana do município e
+seus resultados foram fundamentais para o planejamento da concepção do projeto do BRT e do PLANMOB;
+
+- Estudos que embasaram os projetos da Av. Afonso Pena, Estações de Transferência, Área Hospitalar e Bairro do Barro Preto;
+
+- Contrato DJ 062/2020 - elaboração e desenvolvimento de Estudos Técnicos e Leiautes Funcionais de Estações de Transferência do BRT
+MOVE Municipal e do Sistema Viário do Entorno da Área Hospitalar no Município de Belo Horizonte ? Processo Administrativo no 01-063.
+500/20-32, Pregão Eletrônico no 12/2020. Concluído em 2021.
+
+- Projeto Executivo Avenida Afonso Pena com alteração de ciclovia - BHTRANS e Prefeitura - DSV - Diretoria de Sistema Viário/ GECIP -
+Gerência de Estudos de Circulação e Projetos;
+
+- Termo de referência para contratação de consultoria referente à elaboração dos projetos do BRT e Estações de Transferência;
+
+- Revisão em andamento sobre o estudo de definição da área do terreno do Terminal (GPO) adequado para funcionalidade do projeto;
+
+- Tratativas com Secretaria de Cultura sobre as calçadas portuguesas;
+
+
+Página: 19
+
+- Projeto Básico e Arquitetônico e Planta Geral para as intervenções no Bairro Barro Preto e intervenções no hipercentro, como calçadas,
+ciclovias, paisagismo;
+
+- Programa Municipal Centro de Todo Mundo, com intervenções diversas no hipercentro de Belo Horizonte
+
+- Plano Diretor de Belo Horizonte 2022: contém diretrizes relativas ao Programa;
+
+-  Plano Diretor de Mobilidade Urbana de Belo Horizonte  ? 2017: estrutura os dados e diagnóstico e prognóstico da mobilidade urbana,
+fornecendo informações de base para o desenvolvimento do projeto e como linha de base para comparação com os resultados dos
+indicadores dos próximos anos;
+
+- Relatório de Análise de Vulnerabilidades Climáticas de Belo Horizonte 2016: a análise auxilia no mapeamento de riscos na implantação
+do projeto, evitando que as intervenções sejam realizadas nestas áreas e mitigando os problemas advindos dessas ocorrências;
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Municipal
+MUNICIPIO DE  BELO HORIZONTE(MG)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+Agente Financiador: Agência Francesa de Desenvolvimento - AFD
+
+- Moeda do Financiamento: Euros.
+
+- Empréstimo com garantia da União
+
+- Prazo de desembolso: 60 meses (5 anos)
+
+- Prazo de Carência: 60 meses (5 anos)
+
+- Prazo de amortização: 180 meses (15 anos)
+
+- Prazo total: 240 meses (20 anos)
+
+- Taxa Variável: EURIBOR 6 meses + 151 pb
+
+(1) A taxa fixa definitiva será definida no momento do desembolso
+
+- Comissão de crédito (sobre o saldo não desembolsado): 0,5%
+
+- Comissão de abertura: 0,5%
+
+- Periodicidade das amortizações: Semestrais
+
+* Essas informações foram comunicadas em vistas à negociação dos termos e condições que seriam aplicados ao empréstimo a ser
+concedido pela AFD, em caso de outorga de tal financiamento, no primeiro semestre de 2023. A AFD salientou que essas informações
+não constituem uma oferta ou um compromisso de sua parte, de qualquer natureza, por um financiamento parcial ou total. A decisão de
+outorgar um financiamento será sujeita, entre outros, à negociação e assinatura, de maneira satisfatória para a AFD, de todos os
+documentos contratuais.
+
+** Para um empréstimo em Euros: a negociação é realizada com base em taxa variável + margem. A Taxa Fixa de Referência é verificada
+na data da assinatura e definida no contrato. A taxa do desembolso é calculada com base na Taxa Fixa de Referência, acrescida ou
+reduzida da variação do índice de referência TEC 10 entre a data de assinatura do contrato e o desembolso. O TEC 10 é a taxa de juros
+da parcela constante de uma debênture do Estado francês de 10 anos. É publicado diariamente em todos os sistemas de informação
+financeira: https://www.aft.gouv.fr/en/tec-10-oat.
+
+A Agência Francesa de Desenvolvimento (AFD) é uma instituição financeira com experiência em operações de crédito, tendo realizado
+vários empréstimos com Estados e municípios do Brasil, oferecendo taxas de juros módicas, prazos, carência e demais condições
+adequadas.
+
+Além da possibilidade de financiamento, a AFD viabiliza apoio técnico qualificado ao proponente nas análises e elaboração dos
+documentos técnicos necessários à formalização da proposta nas instâncias de análises e aprovações, podendo disponibilizar, também,
+apoio técnico e financeiro não reembolsável para ações complementares ao projeto objeto do financiamento.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 20
+
+O empréstimo pretendido destina-se à implantação do Programa e dos componentes descritos nesta carta consulta e nos respectivos
+projetos, com garantia da União, pelo prazo de 20 anos, com 5 de carência, a uma taxa de juros flutuante vinculada ao EURIBOR e
+demais encargos e condições, a serem aplicados pela AFD.
+
+Além do alinhamento estratégico entre a Prefeitura Municipal de Belo Horizonte e a AFD, as taxas apresentadas, bem como os prazos de
+carência e amortização são atrativas e reforçam a nossa opção pela AFD, como agente financiador.
+
+Foi também realizada uma prospecção de taxas de linhas de financiamento para alguns projetos de interesse do Município, e pode-se
+constatar a vantajosidade das condições gerais oferecidas pela AFD para a operação pretendida, inclusive apoio técnico e financeiro não
+reembolsável para ações complementares ao projeto objeto do financiamento, além de não ser interesse único de maior prazo de
+amortização, nesse momento, para a Prefeitura Municipal de Belo Horizonte, pelo impacto de Juros.
+
+O município não dispõe de capacidade de investimento para implementação das intervenções necessárias na escala desejada, portanto é
+imprescindível a captação de recursos externos.
+
+As condições financeiras apresentadas para o empréstimo de operação de crédito do Programa através da Agência Francesa de
+Desenvolvimento (AFD) oferece uma opção com condições financeiras atrativas, com bons prazos de carência e amortização da dívida,
+comparados às operações que a PBH possui, atualmente, de financiamento externo com as instituições financeiras Corporação Andina de
+Fomento (CAF), Banco Interamericano de Desenvolvimento (BID) e Banco Internacional para Reconstrução e Desenvolvimento (BIRD-
+Banco Mundial).
+
+No que tange à assistência técnica da AFD, o ente financiador está bem posicionado para apoiar a implementação de um projeto de
+renovação urbana muito complexo, especialmente no contexto de gerar integração significativa dos aspectos de desenvolvimento urbano
+e transporte, incluindo resiliência e gênero, e utilizando fortes abordagens orientadas ao cidadão para embasar a concepção e a
+implementação do projeto.
+
+Ademais, a AFD proporciona importante valor agregado para prefeitura e parceiros do projeto, devido à sua experiência na coordenação
+institucional e na convocação de diversos parceiros e partes interessadas, incluindo agências, organizações da sociedade civil, instituições
+governamentais, níveis de governo (estadual e municipal).
+
+2.11. PROJETO/BENEFICIÁRIO
+
+- Promoção da Sustentabilidade ambiental, incluindo ações de adaptação e mitigação: por meio dos produtos de projeto executivo e
+execução das obras das Estações de Transferência do BRT, terminais de ônibus, requalificação de canteiros, construção e adequação de
+ciclovias, monitoramento da qualidade do ar, entre outros. O projeto trará como principais benefícios a melhoria nas condições ambientais
+com a redução de emissão de gases de efeito estufa, poluição atmosférica, visual e sonora, a otimização do uso do transporte público e a
+melhoria do conforto ambiental. Além disso, o projeto estimula o uso de transporte coletivo e mobilidade ativa, criando alternativas para a
+redução do uso do transporte individual motorizado.
+
+- Implantação e/ou ampliação de ações de saneamento: por meio adequações no calçamento e meio fio, onde serão feitas intervenções
+na melhoria da rede de microdrenagem urbana destas vias e nas áreas verdes e impermeabilizadas dos terminais.
+
+- Melhoria da ambiência urbana e arborização: por meio dos produtos de execução de ações de paisagismo, requalificação de canteiros e
+a construção e adequação de ciclovias e vias de pedestres. Os projetos prevêem arborização em áreas no terminal de ônibus e canteiros
+centrais, assim como nas vias a serem revitalizadas.
+
+- Melhoria no ambiente de negócios e oportunidades: por meio dos produtos de requalificação urbana do bairro Barro Preto, Estações de
+Transferência, terminal de ônibus, requalificação de canteiros. Melhorando o deslocamento na área central do município, trazendo maior
+segurança, organização a mobilidade, integração entre modais, dentre outros benefícios, irá gerar atratividade para novos negócios na
+região de implantação.
+
+- Benefícios para microempreendedores individuais, micro e pequenas empresas, favorecendo o estabelecimento de novos negócios. Por
+meio dos produtos Estações de Transferência, terminais de ônibus, requalificação de canteiros e a construção e adequação de ciclovias.
+Valorização das áreas comerciais, o projeto de requalificação do bairro Barro Preto, reconhecido como um polo da moda na cidade. Essas
+medidas trarão benefícios significativos para os microempreendedores individuais, bem como para as micro e pequenas empresas.
+
+- Geração de emprego e renda para populações de baixa renda e vulneráveis: por meio dos produtos de execução de obras das Estações
+de Transferência, terminal de ônibus, requalificação de canteiros e construção e adequação de ciclovias entre outros. O projeto irá gerar
+empregos diretos no momento de sua implantação, e durante a operação. Ainda, no Programa Mulheres na Construção, serão realizadas
+ações para qualificar a mão-de-obra feminina para atuar nas obras contratadas pela Prefeitura. Indiretamente, o projeto irá facilitar o
+deslocamento da população, e consequentemente, aumentar a possibilidade de acesso para que a população de baixa renda possa
+buscar por oportunidades dentro do hipercentro da cidade. Na área central, a melhoria na acessibilidade de áreas que atualmente estão
+distantes do transporte público, pode favorecer o aumento da oferta de empregos para a população.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 21
+
+- Ações de inclusão de minorias sociais entre os beneficiários: serão realizadas ações para qualificar a mão-de-obra feminina no Programa
+Mulheres na Construção para atuar nas obras contratadas pela Prefeitura e também com o  Programa de Trabalho Técnico Social (PTTS)
+.
+
+- Melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão e/ou de participação cidadã: os produtos do
+Programa de Trabalho Técnico Social (PTTS) para as obras para implantação do terminal de ônibus metropolitano do BRT Amazonas,
+bem como a contratação de equipe de apoio à gestão da UGP, auditoria externa, estudos de microssimulação, e equipamentos para
+monitoramento da qualidade do ar, são contratações que auxiliarão na gestão e monitoramento da eficácia das intervenções e políticas
+públicas em andamento.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Agência Francesa de Desenvolvimento -
+AFD
+Total:
+
+Sigla
+
+CF
+Sigla
+
+AFD
+
+Moeda
+
+?
+Moeda
+
+?
+
+Valor Proposto
+
+12.500.000,00
+Valor Proposto
+
+50.000.000,00
+
+62.500.000,00
+
+Taxa de
+Câmbio
+1,09
+Taxa de
+Câmbio
+1,09
+
+Valor de Referência US
+$
+13.592.500,00
+Valor de Referência US
+$
+54.370.000,00
+
+67.962.500,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+A gestão do Programa será feita pelas equipes da PBH que compõem a Unidade Gestora do Programa (UGP) e Unidades Executoras dos
+Projetos (UEP). A Secretaria Municipal de Obras e Infraestrutura (SMOBI) ocupará as principais funções deliberativas e gerenciais da
+UGP, incluindo a responsabilidade geral pelas tarefas de Coordenação de Projetos, Gestão Financeira (FM), Licitações, Planejamento e
+Monitoramento e Avaliação. Estima-se que ela contará com uma equipe de cinco pessoas formada por servidores municipais nas etapas
+iniciais do Programa, podendo ser escalonada no decorrer de sua implementação.
+
+Cada UEP é formada por equipes técnicas da Superintendência de Desenvolvimento da Capital (SUDECAP), Companhia Urbanista e de
+Habitação (URBEL), Subsecretaria de Zeladoria Urbana (SUZURB), Superintendência de Mobilidade do Município (SUMOB) e Empresa
+de Transportes e Trânsito (BHTRANS). Os líderes de cada UEP participarão das principais decisões tomadas pela UGP, seguindo uma
+estrutura de governança compartilhada.
+
+Cada UEP será responsável pela implementação de tarefas setoriais específicas e técnicas em áreas relacionadas às suas aquisições.
+Cada UEP contará com equipe de servidores públicos, contando com coordenadores do Projeto e equipe específica de para aspectos
+técnicos e funções operacionais.
+
+A SMOBI tem as principais responsabilidades fiduciárias para o Projeto (como UGP) incluindo: (i) coordenação e supervisão da
+implementação do Projeto; (ii) submissão de solicitações de desembolso e documentação das despesas ao ente financiador; (iii)
+preparação e submissão de relatórios financeiros ao ente financiador; e (iv) elaboração e fornecimento de toda documentação financeira e
+relatórios/informações do Projeto solicitados por auditores externos e funcionários do ente financiador. A SMOBI terá apoio da Secretaria
+de Fazenda para a realização de pagamentos e acompanhamento da dívida.
+
+A UGP e as UEPs serão compostas principalmente por funcionários da Prefeitura e serão apoiadas por consultores contratados
+externamente, conforme necessário. O arranjo proposto, que conta várias autoridades locais dentro da estrutura governamental, permitirá
+a necessária interdisciplinaridade, internalização e transferência de conhecimento e inovação em pautas-chave, como planejamento
+resiliente, ação climática, inclusão de gênero e engajamento dos cidadãos.
+
+Atribuições segundo a estrutura institucional da SMOBI para o Programa, prevêm uma atuação centrada nos seguintes órgãos e diretorias:
+
+- SUZURB: coordenar a implementação dos processos de execução e fiscalização de serviços de manutenção dos espaços públicos
+urbanos, em especial de manutenção de microdrenagem, de restauração de vias urbanas, calçadas e de bens imóveis públicos;
+
+- Subsecretaria de Planejamento, Gestão e Finanças (SUPGF-OBI), através da Diretoria de Financiamentos, Convênios e Captações (
+DFCC), responsável pela prestação de contas;
+
+- URBEL: implementação da Política Municipal de Habitação, através da elaboração de planos e projetos, execução de obras de
+urbanização, regularização fundiária, assistência técnica, produção de novas moradias e Trabalho Social, para moradores de
+assentamentos de interesse social e população de baixa renda;
+
+
+Página: 22
+
+- SUDECAP: elaboração de projetos e implementação de obras públicas do Município;
+
+- BHTRANS: planejamento e organização da prestação de serviços públicos relacionados ao transporte público e ao tráfego rodoviário
+urbano, bem como participar do planejamento urbano.
+
+- SUMOB: planejar e gerenciar o sistema de mobilidade urbana no Município, além de administrar os serviços de transporte público
+coletivo, de transporte público individual de táxi, de transporte escolar e o fretado. A SUMOB irá contribuir com as atividades de
+planejamento do trânsito e sistemas viários municipal e metropolitano.
+
+A execução financeira será concentrada no SMOBI e nenhum tipo de transferência de fundos está prevista no âmbito do Projeto. Haverá
+uma descentralização de ações e políticas públicas por agências implementadoras. Este arranjo contribui para a maior especialização
+técnica das agências.
+
+No que tange os aspectos sociais, de responsabilidade da URBEL, a DVRS (Divisão de Reassentamentos), setor responsável pelas
+atividades sociais dentro da estrutura da PBH, possui cerca de 70 técnicos de Assist. Técnica Social.
+
+Na Divisão, o eixo Remoção e Reassentamento consiste no acompanhamento de todo o processo de identificação dos imóveis e das
+famílias atingidas, cadastro, definição de encaminhamento, apoio social, negociação com as famílias e monitoramento do processo de
+remoção e reassentamento em função das intervenções. Inclui ainda ações de pré e pós morar com as famílias reassentadas em
+unidades habitacionais produzidas no âmbito do empreendimento.
+
+Ressalta-se que as ações relativas ao Trabalho Social estão atreladas às obras de urbanização e perpassam todas as fases da
+intervenção (pré-obras, período de obras e pós-ocupação).
+
+Ver tabela no anexo 2.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Secretaria Municipal de Obras e Infraestrutura de Belo Horizonte - MG
+
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+C - POLOS DE ATRATIVIDADE
+
+COMPONENTES
+
+S - TERMINAL DE ÔNIBUS METROPOLITANO DO BRT AMAZONAS
+
+P - Execução das obras e fiscalização para implantação do Terminal de ônibus metropolitano do
+BRT Amazonas
+P - Programa de Trabalho Técnico Social (PTTS) Categoria: Assistencia Social
+
+P - Desapropriações, Bolsa Moradia e Indenizações
+
+S - REQUALIFICAÇÃO URBANA DO BAIRRO BARRO PRETO
+
+P - Execução das obras de requalificação urbana do bairro Barro Preto
+
+C - REQUALIFICAÇÃO DE ESPAÇOS PÚBLICOS
+
+S - PAISAGISMO COM RECUPERAÇÃO DE MOBILIÁRIOS, PASSEIOS E REVEGETAÇÃO
+
+Fax:
+UF:
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+CF
+
+49.248.091,00
+
+1.727.604,00
+
+45.311.393,00
+
+1.727.604,00
+
+32.477.758,00
+
+0,00
+
+1.023.541,00
+
+137.784,00
+
+11.810.094,00
+
+1.589.820,00
+
+AFD
+262.447,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+AFD
+
+3.936.698,00
+
+3.936.698,00
+
+2.381.702,00
+
+1.190.851,00
+
+P - Obras e Fiscalização de paisagismo com recuperação de mobiliários, passeios e revegetação
+
+1.190.851,00
+
+S - REMODELAGEM DOS CANTEIROS CENTRAIS COM MELHORIA DO PAISAGISMO E
+MELHORIA NA ACESSIBILIDADE NAS TRAVESSIAS DE PEDESTRES
+P - Execução das obras de requalificação dos canteiros centrais e fiscalização
+
+C - MOBILIDADE ATIVA E COLETIVA
+
+S - FAIXAS EXCLUSIVAS DE ÔNIBUS NO HIPERCENTRO
+
+P - Execução das obras de faixas exclusivas de ônibus no Hipercentro e fiscalização
+
+1.190.851,00
+
+1.190.851,00
+
+15.185.811,00
+
+5.905.047,00
+
+5.905.047,00
+
+S - REBAIXAMENTO ASFÁLTICO, PAVIMENTAÇÃO E MICRODRENAGEM NO HIPERCENTRO
+
+6.889.221,00
+
+P - Rebaixamento asfáltico, pavimentação e microdrenagem no Hipercentro
+
+S - REQUALIFICAÇÃO DE CALÇADAS
+
+P - Execução das obras de requalificação de calçadas
+
+S - RUA DE PEDESTRES
+
+P - Execução das Obras de implantação de Ruas de Pedestres
+
+S - ESTAÇÕES DE TRANSFERÊNCIA DO BRT MOVE MUNICIPAL E DO SISTEMA VIÁRIO DO
+ENTORNO DA ÁREA HOSPITALAR
+P - Elaboração dos Projetos executivos das Estações de Transferência do BRT MOVE Municipal
+e do Sistema Viário do Entorno da Área Hospitalar
+P - Execução das obras e fiscalização de implantação das Estações de Transferência do BRT
+MOVE Municipal e do Sistema Viário do Entorno da Área Hospitalar
+
+6.889.221,00
+
+688.922,00
+
+688.922,00
+
+177.151,00
+
+177.151,00
+
+1.249.901,00
+
+59.050,00
+
+1.190.851,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+262.447,00
+
+262.447,00
+
+2.381.702,00
+
+1.190.851,00
+
+1.190.851,00
+
+1.190.851,00
+
+1.190.851,00
+
+13.783.362,50
+
+5.905.047,00
+
+5.905.047,00
+
+6.889.221,00
+
+6.889.221,00
+
+688.922,00
+
+688.922,00
+
+132.863,00
+
+132.863,00
+
+29.525,00
+
+29.525,00
+
+0,00
+
+
+Página: 23
+
+S - EXECUÇÃO DAS OBRAS DE IMPLANTAÇÃO DE NOVAS CICLOVIAS E CONSERVAÇÃO
+DAS ATUAIS
+P - Execução das obras e fiscalização da implantação de novas ciclovias e conservação das
+atuais
+C - ESTUDOS E EQUIPAMENTOS COMPLEMENTARES
+
+275.569,00
+
+275.569,00
+
+0,00
+
+0,00
+
+137.784,50
+
+137.784,50
+
+1.146.561,52
+
+339.341,35
+
+240.137,69
+
+S - PROGRAMA MULHERES NA CONSTRUÇÃO
+
+295.252,00
+
+295.252,00
+
+P - Qualificação de mão-de-obra feminina para atuar nas obras contratadas pela PBH
+
+295.252,00
+
+295.252,00
+
+S - AUDITORIA EXTERNA
+
+P - Execução da Auditoria externa
+
+S - EQUIPE DE APOIO À UNIDADE GESTORA DO PROGRAMA
+
+P - Contratação de equipe de apoio à Unidade Gestora do Programa
+
+S - ESTUDOS DE MICROSSIMULAÇÃO PARA O HIPERCENTRO
+
+P - Elaboração dos estudos de microssimulação para o Hipercentro
+
+S - MONITORAMENTO DA QUALIDADE DE AR
+
+P - Compra de equipamentos de monitoramento da qualidade do ar
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - POLOS DE ATRATIVIDADE
+
+COMPONENTES
+
+S - TERMINAL DE ÔNIBUS METROPOLITANO DO BRT AMAZONAS
+
+P - Execução das obras e fiscalização para implantação do Terminal de ônibus metropolitano do
+BRT Amazonas
+P - Programa de Trabalho Técnico Social (PTTS) Categoria: Assistencia Social
+
+P - Desapropriações, Bolsa Moradia e Indenizações
+
+S - REQUALIFICAÇÃO URBANA DO BAIRRO BARRO PRETO
+
+P - Execução das obras de requalificação urbana do bairro Barro Preto
+
+C - REQUALIFICAÇÃO DE ESPAÇOS PÚBLICOS
+
+S - PAISAGISMO COM RECUPERAÇÃO DE MOBILIÁRIOS, PASSEIOS E REVEGETAÇÃO
+
+P - Obras e Fiscalização de paisagismo com recuperação de mobiliários, passeios e revegetação
+
+S - REMODELAGEM DOS CANTEIROS CENTRAIS COM MELHORIA DO PAISAGISMO E
+MELHORIA NA ACESSIBILIDADE NAS TRAVESSIAS DE PEDESTRES
+P - Execução das obras de requalificação dos canteiros centrais e fiscalização
+
+C - MOBILIDADE ATIVA E COLETIVA
+
+S - FAIXAS EXCLUSIVAS DE ÔNIBUS NO HIPERCENTRO
+
+P - Execução das obras de faixas exclusivas de ônibus no Hipercentro e fiscalização
+
+S - REBAIXAMENTO ASFÁLTICO, PAVIMENTAÇÃO E MICRODRENAGEM NO HIPERCENTRO
+
+P - Rebaixamento asfáltico, pavimentação e microdrenagem no Hipercentro
+
+S - REQUALIFICAÇÃO DE CALÇADAS
+
+P - Execução das obras de requalificação de calçadas
+
+S - RUA DE PEDESTRES
+
+P - Execução das Obras de implantação de Ruas de Pedestres
+
+S - ESTAÇÕES DE TRANSFERÊNCIA DO BRT MOVE MUNICIPAL E DO SISTEMA VIÁRIO DO
+ENTORNO DA ÁREA HOSPITALAR
+P - Elaboração dos Projetos executivos das Estações de Transferência do BRT MOVE Municipal
+e do Sistema Viário do Entorno da Área Hospitalar
+P - Execução das obras e fiscalização de implantação das Estações de Transferência do BRT
+MOVE Municipal e do Sistema Viário do Entorno da Área Hospitalar
+S - EXECUÇÃO DAS OBRAS DE IMPLANTAÇÃO DE NOVAS CICLOVIAS E CONSERVAÇÃO
+DAS ATUAIS
+P - Execução das obras e fiscalização da implantação de novas ciclovias e conservação das
+atuais
+C - ESTUDOS E EQUIPAMENTOS COMPLEMENTARES
+
+S - PROGRAMA MULHERES NA CONSTRUÇÃO
+
+P - Qualificação de mão-de-obra feminina para atuar nas obras contratadas pela PBH
+
+S - AUDITORIA EXTERNA
+
+P - Execução da Auditoria externa
+
+S - EQUIPE DE APOIO À UNIDADE GESTORA DO PROGRAMA
+
+P - Contratação de equipe de apoio à Unidade Gestora do Programa
+
+S - ESTUDOS DE MICROSSIMULAÇÃO PARA O HIPERCENTRO
+
+P - Elaboração dos estudos de microssimulação para o Hipercentro
+
+S - MONITORAMENTO DA QUALIDADE DE AR
+
+P - Compra de equipamentos de monitoramento da qualidade do ar
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - POLOS DE ATRATIVIDADE
+
+COMPONENTES
+
+S - TERMINAL DE ÔNIBUS METROPOLITANO DO BRT AMAZONAS
+
+P - Execução das obras e fiscalização para implantação do Terminal de ônibus metropolitano do
+BRT Amazonas
+
+63.424,00
+
+63.424,00
+
+400.121,83
+
+400.121,83
+
+196.835,00
+
+196.835,00
+
+190.928,69
+
+190.928,69
+
+6.342,00
+
+6.342,00
+
+37.747,35
+
+37.747,35
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+49.209,00
+
+49.209,00
+
+190.928,69
+
+190.928,69
+
+0,00
+
+2.066.945,35
+
+16.667.649,19
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+AFD
+
+2.961.608,00
+
+13.834.681,00
+
+2.961.608,00
+
+10.685.323,00
+
+0,00
+
+10.685.323,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+AFD
+
+236.202,00
+
+2.725.406,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.149.358,00
+
+3.149.358,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+384.296,50
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+44.288,00
+
+44.288,00
+
+202.224,00
+
+29.525,00
+
+172.699,00
+
+137.784,50
+
+137.784,50
+
+103.278,62
+
+147.626,00
+
+0,00
+
+0,00
+
+12.685,00
+
+12.685,00
+
+90.593,62
+
+90.593,62
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+147.626,00
+
+147.626,00
+
+0,00
+
+0,00
+
+0,00
+
+3.064.886,62
+
+14.366.603,50
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+AFD
+
+2.961.608,00
+
+11.210.216,00
+
+2.961.608,00
+
+10.685.323,00
+
+0,00
+
+10.685.323,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+AFD
+
+
+Página: 24
+
+P - Programa de Trabalho Técnico Social (PTTS) Categoria: Assistencia Social
+
+P - Desapropriações, Bolsa Moradia e Indenizações
+
+S - REQUALIFICAÇÃO URBANA DO BAIRRO BARRO PRETO
+
+P - Execução das obras de requalificação urbana do bairro Barro Preto
+
+C - REQUALIFICAÇÃO DE ESPAÇOS PÚBLICOS
+
+S - PAISAGISMO COM RECUPERAÇÃO DE MOBILIÁRIOS, PASSEIOS E REVEGETAÇÃO
+
+P - Obras e Fiscalização de paisagismo com recuperação de mobiliários, passeios e revegetação
+
+S - REMODELAGEM DOS CANTEIROS CENTRAIS COM MELHORIA DO PAISAGISMO E
+MELHORIA NA ACESSIBILIDADE NAS TRAVESSIAS DE PEDESTRES
+P - Execução das obras de requalificação dos canteiros centrais e fiscalização
+
+C - MOBILIDADE ATIVA E COLETIVA
+
+S - FAIXAS EXCLUSIVAS DE ÔNIBUS NO HIPERCENTRO
+
+P - Execução das obras de faixas exclusivas de ônibus no Hipercentro e fiscalização
+
+S - REBAIXAMENTO ASFÁLTICO, PAVIMENTAÇÃO E MICRODRENAGEM NO HIPERCENTRO
+
+P - Rebaixamento asfáltico, pavimentação e microdrenagem no Hipercentro
+
+S - REQUALIFICAÇÃO DE CALÇADAS
+
+P - Execução das obras de requalificação de calçadas
+
+S - RUA DE PEDESTRES
+
+P - Execução das Obras de implantação de Ruas de Pedestres
+
+S - ESTAÇÕES DE TRANSFERÊNCIA DO BRT MOVE MUNICIPAL E DO SISTEMA VIÁRIO DO
+ENTORNO DA ÁREA HOSPITALAR
+P - Elaboração dos Projetos executivos das Estações de Transferência do BRT MOVE Municipal
+e do Sistema Viário do Entorno da Área Hospitalar
+P - Execução das obras e fiscalização de implantação das Estações de Transferência do BRT
+MOVE Municipal e do Sistema Viário do Entorno da Área Hospitalar
+S - EXECUÇÃO DAS OBRAS DE IMPLANTAÇÃO DE NOVAS CICLOVIAS E CONSERVAÇÃO
+DAS ATUAIS
+P - Execução das obras e fiscalização da implantação de novas ciclovias e conservação das
+atuais
+C - ESTUDOS E EQUIPAMENTOS COMPLEMENTARES
+
+S - PROGRAMA MULHERES NA CONSTRUÇÃO
+
+P - Qualificação de mão-de-obra feminina para atuar nas obras contratadas pela PBH
+
+S - AUDITORIA EXTERNA
+
+P - Execução da Auditoria externa
+
+S - EQUIPE DE APOIO À UNIDADE GESTORA DO PROGRAMA
+
+P - Contratação de equipe de apoio à Unidade Gestora do Programa
+
+S - ESTUDOS DE MICROSSIMULAÇÃO PARA O HIPERCENTRO
+
+P - Elaboração dos estudos de microssimulação para o Hipercentro
+
+S - MONITORAMENTO DA QUALIDADE DE AR
+
+P - Compra de equipamentos de monitoramento da qualidade do ar
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - POLOS DE ATRATIVIDADE
+
+COMPONENTES
+
+S - TERMINAL DE ÔNIBUS METROPOLITANO DO BRT AMAZONAS
+
+P - Execução das obras e fiscalização para implantação do Terminal de ônibus metropolitano do
+BRT Amazonas
+P - Programa de Trabalho Técnico Social (PTTS) Categoria: Assistencia Social
+
+P - Desapropriações, Bolsa Moradia e Indenizações
+
+S - REQUALIFICAÇÃO URBANA DO BAIRRO BARRO PRETO
+
+P - Execução das obras de requalificação urbana do bairro Barro Preto
+
+C - REQUALIFICAÇÃO DE ESPAÇOS PÚBLICOS
+
+S - PAISAGISMO COM RECUPERAÇÃO DE MOBILIÁRIOS, PASSEIOS E REVEGETAÇÃO
+
+P - Obras e Fiscalização de paisagismo com recuperação de mobiliários, passeios e revegetação
+
+S - REMODELAGEM DOS CANTEIROS CENTRAIS COM MELHORIA DO PAISAGISMO E
+MELHORIA NA ACESSIBILIDADE NAS TRAVESSIAS DE PEDESTRES
+P - Execução das obras de requalificação dos canteiros centrais e fiscalização
+
+C - MOBILIDADE ATIVA E COLETIVA
+
+S - FAIXAS EXCLUSIVAS DE ÔNIBUS NO HIPERCENTRO
+
+P - Execução das obras de faixas exclusivas de ônibus no Hipercentro e fiscalização
+
+S - REBAIXAMENTO ASFÁLTICO, PAVIMENTAÇÃO E MICRODRENAGEM NO HIPERCENTRO
+
+P - Rebaixamento asfáltico, pavimentação e microdrenagem no Hipercentro
+
+S - REQUALIFICAÇÃO DE CALÇADAS
+
+P - Execução das obras de requalificação de calçadas
+
+S - RUA DE PEDESTRES
+
+P - Execução das Obras de implantação de Ruas de Pedestres
+
+S - ESTAÇÕES DE TRANSFERÊNCIA DO BRT MOVE MUNICIPAL E DO SISTEMA VIÁRIO DO
+ENTORNO DA ÁREA HOSPITALAR
+P - Elaboração dos Projetos executivos das Estações de Transferência do BRT MOVE Municipal
+e do Sistema Viário do Entorno da Área Hospitalar
+
+236.202,00
+
+2.725.406,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+524.893,00
+
+524.893,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.000.109,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.000.109,00
+
+0,00
+
+0,00
+
+1.000.109,00
+
+0,00
+
+0,00
+
+103.278,62
+
+0,00
+
+0,00
+
+12.685,00
+
+12.685,00
+
+90.593,62
+
+90.593,62
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.064.886,62
+
+12.210.325,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+AFD
+
+2.961.608,00
+
+10.685.323,00
+
+2.961.608,00
+
+10.685.323,00
+
+0,00
+
+10.685.323,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+AFD
+
+236.202,00
+
+2.725.406,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+18.043,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+18.043,00
+
+0,00
+
+
+Página: 25
+
+P - Execução das obras e fiscalização de implantação das Estações de Transferência do BRT
+MOVE Municipal e do Sistema Viário do Entorno da Área Hospitalar
+S - EXECUÇÃO DAS OBRAS DE IMPLANTAÇÃO DE NOVAS CICLOVIAS E CONSERVAÇÃO
+DAS ATUAIS
+P - Execução das obras e fiscalização da implantação de novas ciclovias e conservação das
+atuais
+C - ESTUDOS E EQUIPAMENTOS COMPLEMENTARES
+
+S - PROGRAMA MULHERES NA CONSTRUÇÃO
+
+P - Qualificação de mão-de-obra feminina para atuar nas obras contratadas pela PBH
+
+S - AUDITORIA EXTERNA
+
+P - Execução da Auditoria externa
+
+S - EQUIPE DE APOIO À UNIDADE GESTORA DO PROGRAMA
+
+P - Contratação de equipe de apoio à Unidade Gestora do Programa
+
+S - ESTUDOS DE MICROSSIMULAÇÃO PARA O HIPERCENTRO
+
+P - Elaboração dos estudos de microssimulação para o Hipercentro
+
+S - MONITORAMENTO DA QUALIDADE DE AR
+
+P - Compra de equipamentos de monitoramento da qualidade do ar
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - POLOS DE ATRATIVIDADE
+
+COMPONENTES
+
+0,00
+
+0,00
+
+0,00
+
+103.278,62
+
+0,00
+
+0,00
+
+12.685,00
+
+12.685,00
+
+90.593,62
+
+90.593,62
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+18.043,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.064.886,62
+
+10.703.366,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+2.221.207,00
+
+AFD
+421.789,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+AFD
+
+12.833.635,00
+
+36.414.456,00
+
+S - TERMINAL DE ÔNIBUS METROPOLITANO DO BRT AMAZONAS
+
+2.221.207,00
+
+421.789,00
+
+12.833.635,00
+
+32.477.758,00
+
+P - Execução das obras e fiscalização para implantação do Terminal de ônibus metropolitano do
+BRT Amazonas
+P - Programa de Trabalho Técnico Social (PTTS) Categoria: Assistencia Social
+
+P - Desapropriações, Bolsa Moradia e Indenizações
+
+S - REQUALIFICAÇÃO URBANA DO BAIRRO BARRO PRETO
+
+P - Execução das obras de requalificação urbana do bairro Barro Preto
+
+C - REQUALIFICAÇÃO DE ESPAÇOS PÚBLICOS
+
+S - PAISAGISMO COM RECUPERAÇÃO DE MOBILIÁRIOS, PASSEIOS E REVEGETAÇÃO
+
+P - Obras e Fiscalização de paisagismo com recuperação de mobiliários, passeios e revegetação
+
+S - REMODELAGEM DOS CANTEIROS CENTRAIS COM MELHORIA DO PAISAGISMO E
+MELHORIA NA ACESSIBILIDADE NAS TRAVESSIAS DE PEDESTRES
+P - Execução das obras de requalificação dos canteiros centrais e fiscalização
+
+C - MOBILIDADE ATIVA E COLETIVA
+
+S - FAIXAS EXCLUSIVAS DE ÔNIBUS NO HIPERCENTRO
+
+P - Execução das obras de faixas exclusivas de ônibus no Hipercentro e fiscalização
+
+S - REBAIXAMENTO ASFÁLTICO, PAVIMENTAÇÃO E MICRODRENAGEM NO HIPERCENTRO
+
+P - Rebaixamento asfáltico, pavimentação e microdrenagem no Hipercentro
+
+S - REQUALIFICAÇÃO DE CALÇADAS
+
+P - Execução das obras de requalificação de calçadas
+
+S - RUA DE PEDESTRES
+
+P - Execução das Obras de implantação de Ruas de Pedestres
+
+S - ESTAÇÕES DE TRANSFERÊNCIA DO BRT MOVE MUNICIPAL E DO SISTEMA VIÁRIO DO
+ENTORNO DA ÁREA HOSPITALAR
+P - Elaboração dos Projetos executivos das Estações de Transferência do BRT MOVE Municipal
+e do Sistema Viário do Entorno da Área Hospitalar
+P - Execução das obras e fiscalização de implantação das Estações de Transferência do BRT
+MOVE Municipal e do Sistema Viário do Entorno da Área Hospitalar
+S - EXECUÇÃO DAS OBRAS DE IMPLANTAÇÃO DE NOVAS CICLOVIAS E CONSERVAÇÃO
+DAS ATUAIS
+P - Execução das obras e fiscalização da implantação de novas ciclovias e conservação das
+atuais
+C - ESTUDOS E EQUIPAMENTOS COMPLEMENTARES
+
+S - PROGRAMA MULHERES NA CONSTRUÇÃO
+
+P - Qualificação de mão-de-obra feminina para atuar nas obras contratadas pela PBH
+
+S - AUDITORIA EXTERNA
+
+P - Execução da Auditoria externa
+
+S - EQUIPE DE APOIO À UNIDADE GESTORA DO PROGRAMA
+
+P - Contratação de equipe de apoio à Unidade Gestora do Programa
+
+S - ESTUDOS DE MICROSSIMULAÇÃO PARA O HIPERCENTRO
+
+P - Elaboração dos estudos de microssimulação para o Hipercentro
+
+S - MONITORAMENTO DA QUALIDADE DE AR
+
+P - Compra de equipamentos de monitoramento da qualidade do ar
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+0,00
+
+421.789,00
+
+0,00
+
+32.477.758,00
+
+177.151,00
+
+2.044.056,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+109.620,62
+
+0,00
+
+0,00
+
+19.027,00
+
+19.027,00
+
+90.593,62
+
+90.593,62
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.023.541,00
+
+11.810.094,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.936.698,00
+
+3.936.698,00
+
+2.381.702,00
+
+1.190.851,00
+
+1.190.851,00
+
+1.190.851,00
+
+1.190.851,00
+
+15.185.811,00
+
+5.905.047,00
+
+5.905.047,00
+
+6.889.221,00
+
+6.889.221,00
+
+688.922,00
+
+688.922,00
+
+177.151,00
+
+177.151,00
+
+1.249.901,00
+
+59.050,00
+
+0,00
+
+1.190.851,00
+
+0,00
+
+0,00
+
+275.569,00
+
+275.569,00
+
+758.797,83
+
+387.763,69
+
+295.252,00
+
+295.252,00
+
+63.424,00
+
+63.424,00
+
+400.121,83
+
+400.121,83
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+196.835,00
+
+196.835,00
+
+190.928,69
+
+190.928,69
+
+67.962.165,52
+
+2.330.827,62
+
+421.789,00
+
+13.592.432,83
+
+54.369.732,69
+
+Impacto avaliado em Risco Baixo. Para viabilização do financiamento externo, tem-se os seguintes atos legais:
+
+
+Página: 26
+
+Aprovação da presente Carta-Consulta pela COFIEX, com a consequente incorporação das recomendações que esta comissão poderá
+emitir a propósito do Projeto;
+
+Negociações relativas à garantia do Governo Federal para a operação de crédito;
+
+Aprovação de Lei Municipal autorizativa para a realização da operação de crédito - Projeto de Lei a cargo do executivo em processo de
+elaboração para envio à Câmara Municipal de Belo Horizonte;
+
+No que concerne aos trabalhos de preparação do projeto junto ao órgão financiador externo, os principais são: a formalização da Unidade
+de Gerenciamento do Projeto (UGP) e das Unidades de Execução de Projeto (UEP), bem como as autorizações e obrigações no que se
+refere à operação e manutenção das estruturas implantadas por este;
+
+Ato de criação da Unidade Gestora de Projetos (UGP)  por meio de Decreto;
+
+Autorização junto à Fundação Municipal de Cultura sobre os projetos de intervenção em calçadas portuguesas tombadas;
+
+Aprovação da execução dos projetos dos terminais de integração e espaços logísticos pelo Corpo de Bombeiros Militar de Minas Gerais;
+
+Estudo de Viabilidade para ligação com rede de abastecimento de água e esgotamento sanitário no Terminal e Estações de Transferência;
+
+Licenças e demais instrumentos autorizativos são de responsabilidade da Prefeitura Municipal, não sendo necessários convênios e outros
+trâmites legais junto a outros órgãos. Todos os documentos adicionais relativos à formalização de atos legais serão dirimidos pela Unidade
+Gestora de Projetos (UGP) da SMOBI , da Prefeitura Municipal, a depender de cada caso.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+Risco Baixo. As contratações dos projetos básicos e executivos e obras, referentes aos produtos do Programa, seguirão os procedimentos
+de licitação e contratação conforme executados pelo setor competente dentro da estrutura da UGP a ser criada, com servidores com
+experiência na realização das contratações. A AFD informou aceitar os procedimentos de contratação adotados pela Lei nº 8.666/93 e
+demais normas aplicáveis. Deverá ser inserido nos documentos de licitação os requisitos conforme a política de aquisição e contratação
+da AFD, bem como compromisso de integridade, sinalizando que não poderão ser utilizados recursos de AFD para pagamento à licitante
+ou prestador de serviços, que figure na lista de sanções financeiras e comerciais da França, da União Europeia ou das Nações Unidas.
+
+A PMBH também está ciente das condições de salvaguardas ambientais e sociais da AFD, que são similares às do Banco Mundial, tendo
+em vista que já possui operação de crédito com a instituição.
+
+Haverá necessidade de contratação adicional de pessoal, para a composição da . Será necessário, posteriormente, o treinamento de
+pessoal ou profissionais especializados para a gestão de ITS, caso haja dificuldades com o treinamento do pessoal da Prefeitura. Este
+aspecto está sendo verificado junto à Assistência Técnica prevista pela AFD.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Impacto avaliado em Baixo Risco. O projeto prevê atender áreas que, majoritariamente, já são atendidas pelo transporte público
+atualmente. Assim, as vias por onde passarão os corredores troncais são as mesmas por onde hoje passam as linhas de ônibus
+convencionais, e que já possuem faixa exclusiva em alguns trechos .  As estruturas, em geral, são previstas em terrenos que já são de
+propriedade do município, de uso do solo já definido e que permite esse tipo de equipamento.
+
+Nos espaços de implementação não há a presença de obras de arte que necessitem de desapropriação, áreas de preservação ambiental
+a serem afetadas, ou qualquer elemento novo que possa impedir sua implantação, interromper ou retardar o andamento das obras.
+
+Entretanto, para a instalação do Terminal de Integração de ônibus para troncalização de linhas do futuro BRT Amazonas, haverá a
+necessidade de reassentamento de famílias que residem em áreas irregulares na cidade de Belo Horizonte. As famílias passarão a
+integrar o Programa de Remoção e Reassentamento, orientado pela Política Municipal de Habitação (PMH), revisada e aprovada pela
+Resolução LII de 2018 do Conselho Municipal de Habitação. Com o processo, serão alocadas em imóveis em áreas regularizadas.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+Impacto ambiental
+
+Risco Baixo. Todas as intervenções do projeto deverão obter licenças ambientais prévias de acordo com a legislação aplicável. Neste
+processo, medidas mitigadoras serão tratadas conforme direcionamento do licenciamento ambiental e órgão estadual ou municipal
+responsável, reduzindo ou eliminando possíveis danos ambientais.
+
+Para a área de intervenção programada das faixas exclusivas de ônibus não existem pendências de natureza ambiental, as vias já são
+utilizadas para o tráfego de veículos. O terminal de integração do BRT da Amazonas terá seu licenciamento ambiental e urbanístico (e
+suas eventuais medidas compensatórias ou mitigadoras) a cargo da Prefeitura de Belo Horizonte.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 27
+
+Além disso, o projeto trará impactos ambientais positivos, a  redução da poluição atmosférica, sonora e visual e de gases de efeito estufa,
+com o incentivo ao uso de transportes coletivos. A região ao longo dos corredores será arborizada e os terminais terão áreas verdes,
+favorecendo o equilíbrio do microclima e criando espaços de convivência para a população.
+
+A elaboração dos projetos de engenharia, os Estudos de Impacto de Vizinhança ? EIV, o Relatório de Impacto de Trânsito ? RIT e demais
+estudos necessários ao licenciamento serão elaborados em conformidade com a legislação ambiental e urbanística aplicáveis. A
+Prefeitura de Belo Horizonte é responsável por operacionalizar as intervenções realizadas pelo projeto e a SUDECAP pela contratação de
+empresas e execução das obras, tendo em vista a política de salvaguarda ambiental da AFD. Todas as regularizações e licenciamentos
+que venham a ser necessárias para o projeto serão de responsabilidade da Prefeitura.
+
+Climático
+
+Impacto positivo. A consolidação de uma mobilidade urbana de qualidade voltada ao transporte coletivo gera a redução da circulação de
+veículos particulares. Esse movimento é um dos pilares para a redução das emissões urbanas de gases de efeito estufa. O projeto
+também prevê a expansão das áreas verdes da cidade, aliando a implementação das novas estruturas com a arborização.
+
+Além disso, ao final de 2022 a Prefeitura de Belo Horizonte lançou o Plano Local de Ação Climática (PLAC-BH), utilizando a metodologia
+Green Climate Cities (GCC), desenvolvida pelo ICLEI. O plano engloba estudos técnicos e ações a serem tomadas para enfrentar o
+aquecimento global. Desde 2021, a cidade também aderiu à agenda global pela neutralização de carbono até 2050. No período, a
+Secretaria Municipal de Desenvolvimento Econômico, por meio de sua Diretoria de Relações Internacionais, estabeleceu uma plataforma
+consolidada de agendas, eventos e ações pelo combate às mudanças climáticas.
+
+Os estudos a serem realizados com compra dos equipamentos para o monitoramento da qualidade do ar irão contribuir para análise e
+adequação das políticas relacionadas às emissões no município.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+Risco baixo. As faixas exclusivas de ônibus e estações de transferência serão implementados nas vias onde passam as linhas
+convencionais e em algumas faixas de ônibus que já são preferenciais. Não haverá danos a obras de arte e os reassentamentos serão
+realizados respeitando a Política Municipal de Habitação (PMH).
+
+Impacto social positivo. O crescente adensamento da área urbana traz em si a necessidade por melhorias na mobilidade urbana, elemento
+fundamental para a saúde e qualidade de vida da população. Alguns dos impactos específicos são listados abaixo:
+
+1. Redução no tempo de viagem de ônibus;
+
+2. Estações de Transferências eficientes e acessíveis;
+
+3.     Melhoria da caminhabilidade e da micro-acessibilidade;
+
+4.     Maior acesso aos serviços e comércios da região central;
+
+Durante a execução das obras serão adotadas vias alternativas e soluções para mitigar transtornos na mobilidade da região. A população
+será avisada previamente das obras e serão implementadas sinalizações nas áreas de intervenção conforme o Estudo de Impacto de
+Vizinhança ? EIV.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Baixo Risco. Para a implementação do Terminal de Integração de Ônibus metropolitano e municipal será necessário o reassentamento da
+população que reside no terreno. As  famílias serão inseridas no Programa de Remoção e Reassentamento, orientado pela Política
+Municipal de Habitação (PMH), revisada e aprovada pela Resolução LII de 2018 do Conselho Municipal de Habitação. Com o processo,
+serão alocadas em imóveis em áreas regularizadas e fora de zonas de risco geológico.
+
+A Resolução nº II do CMH determina a priorização do reassentamento em habitações nos próprios territórios que as famílias antes
+residiam. Para isso ser possível, são propostas alternativas, dentre elas a construção de unidades habitacionais, a transferência para
+outras edificações adquiridas ou o pagamento de indenizações. Até o reassentamento definitivo estar pronto para receber as famílias, elas
+terão locação temporária de imóveis e receberão auxílio financeiro através do Programa Bolsa Moradia.
+
+O detalhamento e a implementação do processo cometirá ao URBEL, órgão gestor da Política Municipal de Habitação, de forma integrada
+com a SUDECAP. Ambos acompanharão o planejamento e a execução das obras.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 28
+
+- 20/09/2023: Retirada de pauta pela 166ª Cofiex (01/06/2023) por exceder o limite disponível para esta reunião.
+
+Informações relevantes

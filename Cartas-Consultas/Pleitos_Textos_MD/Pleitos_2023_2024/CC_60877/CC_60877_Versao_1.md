@@ -1,0 +1,2368 @@
+# Carta-Consulta CC_60877 — Versao 1 (SIGS)
+
+
+CARTA CONSULTA
+
+PROGRAMA DE MODERNIZAÇÃO DO PODER JUDICIÁRIO DO ESTADO DO ESPÍRITO
+SANTO
+
+Nº Carta Consulta: 60877
+Mutuário: Estado do Espírito Santo
+Tipo de Operação: Operação de crédito externo
+
+Fontes Internas:
+Contrapartida Financeira: US$ 11.409.091,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 32.086.509,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+2.1 MARCO DE REFERÊNCIA
+
+2.1.1.   DIAGNÓSTICO
+
+A.ASPECTOS GERAIS DO ESTADO
+
+O Estado do Espírito Santo está situado na Região Sudeste, é o quarto menor Estado do Brasil com uma área de 46.095,583 km². O
+Estado possui 78 municípios, distribuídos em 10 microrregiões administrativas que estão agrupadas de acordo com peculiaridades
+relacionadas aos aspectos naturais, econômicos, sociais, históricos e políticos, de forma a facilitar as intervenções necessárias em termos
+de políticas públicas.
+
+As estimativas do Instituto Brasileiro de Geografia e Estatística - IBGE para 2021 mostram que o ES possui uma população de 4.108.508
+habitantes. Em 2010, os dados do IBGE indicavam que a população era de 3.514.952 habitantes, e ocupava a 14a posição no país.
+
+Ainda conforme o censo de 2010, divulgado pelo IBGE, o Estado do Espírito Santo possui a maior concentração populacional na Região
+Metropolitana da Grande Vitória ? RMGV, aglomerando em torno de 48% da população total. A população do Estado reside, em sua
+maioria (83,4%), nos centros urbanos, sendo que a população rural está concentrada precipuamente nas regiões Central Serrana e
+Sudoeste Serrana.
+
+O Índice de Desenvolvimento Humano ? IDH do Estado do Espírito Santo, conforme apurado pelo PNUD (2010) é de 0,740, ocupando a
+sétima posição entre os estados brasileiros.
+
+Com relação aos aspectos econômicos, o PIB do Estado do Espírito Santo totalizou R$ 137,3 bilhões, a preços de mercado corrente, em
+2019, conforme dados divulgados em dezembro de 2021 pelo Instituto Jones dos Santos Neves (IJSN), calculados em parceria com o
+IBGE. Em 2017 e 2018 o PIB estadual cresceu acima dos percentuais registrados pelo PIB nacional e pelo PIB da região Sudeste. Ainda
+de acordo com análise do IJSN, no ano de 2019, o crescimento estadual apresentou uma discreta alteração, variando apenas 0,24% em
+relação ao ano anterior. O acréscimo do valor nominal do PIB estadual é explicado pelo aumento do nível geral dos preços dos bens e
+serviços finais produzidos na economia capixaba, uma vez que o volume do produto agregado recuou -3,8%.
+
+Em 2021, o IJSN relata que atividade econômica do Estado apresentou expansão superior à do País, em todas as bases de comparação
+temporal. Já no acumulado do ano, o crescimento de +7,9% foi influenciado pela expansão de +23,3% do Comércio Varejista ampliado, de
++7,1% dos Serviços e de +11,3% da Indústria geral. Desta forma, o PIB registrou a marca de 148,1 bilhões nos quatro trimestres de 2021.
+
+Nos últimos anos, o Estado do Espírito Santo vem apresentando excelente situação fiscal e, pelo décimo ano consecutivo recebeu a Nota
+A da Secretaria do Tesouro Nacional (STN), no que diz respeito a sua Capacidade de Pagamento do Estado (Capag). Os resultados
+constantes da publicação intitulada Resultado do Tesouro Estadual 2021, disponibilizada no link https://sefaz.es.gov.br/resultado-do-
+tesouro-estadual, revelam o esforço do Estado em manter em dia sua situação fiscal e financeira.
+
+Preocupado com o desenvolvimento futuro, foram criados em 2019, o Fundo Soberano do Estado do Espírito Santo (Funses), iniciativa
+que objetiva a atração de investimentos no Estado e o Fundo Estadual para o Financiamento de Obras e Infraestrutura Estratégica para o
+Desenvolvimento do Estado do Espírito Santo tem natureza financeira e contábil, com a finalidade de promover, em caráter complementar,
+recursos financeiros para apoiar as ações de melhorias nas obras desenvolvidas no âmbito estadual. Esse cenário promissor tem como
+principais fatores o ambiente republicano, a segurança jurídica e institucional, bem como a transparência das ações públicas.
+
+B.SITUAÇÃO ATUAL
+
+Os avanços do Poder Judiciário do Estado do Espírito Santo, em relação ao acesso à justiça, à eficiência na entrega da prestação
+jurisdicional e aos resultados estatísticos não têm acompanhado a dinâmica econômica do Estado e nem às expectativas do Conselho
+Nacional de Justiça, a quem compete o controle da atuação administrativa e financeira do Poder Judiciário, conforme estabelecido no
+artigo 103-B da Constituição Federal.
+
+Segundo o Relatório de Inspeção realizado em setembro de 2021, o CNJ diagnosticou problemas que vão desde a inadequação do
+parque tecnológico à absoluta falta de segurança dos sistemas utilizados pelo Tribunal. Registrou, ainda, que o Tribunal de Justiça,
+avaliado nos temas excelência em gestão e transparência, ficou em último lugar perante os tribunais estaduais brasileiros.
+
+Muitos ainda são os desafios a enfrentar, objetivando atender às requisições do CNJ, no que tange à uniformização de práticas, à
+melhoria da governança e à gestão. O desafio mais recente lançado pelo CNJ, consiste na implementação da transformação digital da
+justiça brasileira em consonância com os recentes avanços tecnológicos.
+
+Com efeito, a instituição da justiça digital pelo Poder Judiciário brasileiro configura uma guinada da administração pública, proporcionando
+a oferta de serviços mais eficientes, céleres, responsivos e humanizados. Especialmente com o advento da pandemia da Covid 19, foram
+protagonizadas algumas iniciativas de amplo e duradouro impacto.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+A edição e aplicação da Lei do Processo Eletrônico (Lei n. 11.419/06) bem como a instituição do Processo Judicial Eletrônico (Resolução
+CNJ n. 185/2013) estabeleceram uma nova ordem na qual os processos judiciais são instaurados, atualizados e acompanhados no Brasil,
+apresentando alternativa inovadora e padronizada frente aos processos físicos.
+
+Destaca-se a recente parceria inaugurada entre Conselho Nacional de Justiça (CNJ) e o Programa das Nações Unidas para o
+Desenvolvimento (PNUD) para a implementação do Programa Justiça 4.0 cujo objetivo é a promoção do acesso à Justiça, por meio de
+ações e projetos desenvolvidos para o uso colaborativo de produtos que empregam novas tecnologias e inteligência artificial.
+
+Constituindo um dos cinco eixos da gestão do Ministro Luiz Fux (2020-2022) à frente do Conselho Nacional de Justiça, o programa adota
+a concepção de que a justiça deve ser compreendida como um serviço, e não somente como um local físico de alcance da justiça. O
+Programa é composto por projetos de transformação digital e de implantação de políticas judiciárias nacionais, de forma a promover a
+inovação, a instituição dos princípios de governança, efetividade, responsividade e transparência, possibilitando o acesso à Justiça Digital
+e a redução das desigualdades e exclusão ocasionadas nesse contexto.
+
+O Conselho Nacional de Justiça também desenvolveu a Base Nacional de Dados do Poder Judiciário (DataJud) de forma que a mesma se
+constitui como responsável pelo armazenamento centralizado dos dados e metadados processuais relativos a todos os processos físicos
+ou eletrônicos, públicos ou sigilosos de todo o Poder Judiciário Nacional. Esta base nacional possibilitou a criação de soluções de
+inteligência artificial e outros artefatos tecnológicos com vistas a uma abordagem multidimensional para fomentar a inovação,
+desenvolvendo novas formas de melhoria da atuação judicial.
+
+Neste contexto, insta destacar que o Poder Judiciário do Estado do Espírito Santo precisa se atualizar. Atualmente ainda conta com um
+acervo de aproximadamente 75% (setenta e cinco por cento) do seu total em formato físico de processos, embora estejam em curso
+atividades para implantação do Processo Judicial Eletrônico ? PJe ? em todo o Estado. As dificuldades enfrentadas pelo Poder Judiciário
+do Estado do Espírito Santo dizem respeito à falta de condições administrativas, financeiras, tecnológicas e estruturais para acompanhar
+as transformações inerentes à justiça digital e às exigências do CNJ.
+
+Nesse diapasão, o Tribunal de Justiça do Espírito Santo, muito embora possua  Planejamento Estratégico construído e boa estrutura
+organizacional responsável, tanto pela gestão administrativa quanto pela jurisdicional, enfrenta dificuldades de integração entre os
+diversos setores e entre as duas dimensões da gestão (atividades meio e jurisdicional), ressentindo-se de definição clara acerca da gestão
+de processos de trabalho e de projetos, bem como da adoção das melhores práticas de comunicação e informação e de mecanismos de
+monitoramento e accountability.
+
+Sobre este aspecto, importa registrar que a atual arquitetura institucional foi desenhada para a tramitação de processos físicos. Esta
+realidade deixará de existir no futuro muito próximo ante o processo de virtualização. Será necessário, portanto, adequar a estrutura
+organizacional e os processos de trabalho ao novo tempo e à nova forma de funcionamento da justiça a partir da transformação digital.
+
+A defasagem tecnológica em que se encontra o Poder Judiciário do Estado do Espírito Santo se percebe por meio da necessidade
+premente de adequação à nova lógica instalada pelo CNJ, pois cada vez mais são exigidas respostas rápidas, flexibilidade dos processos
+de trabalho e ainda melhoria contínua da prestação jurisdicional.
+
+O Tribunal de Justiça do Estado do Espírito Santo precisa se inserir no contexto da apropriação efetiva de novas tecnologias aplicadas aos
+processos de trabalho. Tal descolamento da transformação digital exigida, vem impondo ao Tribunal resultados pífios e em especial,
+relacionados com o Índice de Governança de Tecnologia da Informação - IGovTIC. Neste sentido, o Espírito Santo ocupa o último lugar no
+ranking dos tribunais estaduais.
+
+Outro aspecto relevante relacionado com a situação atual do Tribunal de Justiça do Estado do Espírito Santo diz respeito à Gestão dos
+seus Recursos Estratégicos. O Conselho Nacional de Justiça, em sede de inspeção, atestou essa fragilidade diante de três pilares: i)
+estrutura deficitária do quadro de pessoal vinculado à área de Tecnologia da Informação. O número de servidores representa 36% daquele
+recomendado pelo Conselho Nacional de Justiça restando esclarecido o comprometimento da prestação jurisdicional por magistrados e
+servidores; ii) diversidade de sistemas judiciais e administrativos operando simultaneamente, o que agregado ao quadro insuficiente de
+servidores, dificulta a evolução do Processo Judicial Eletrônico, bem como a manutenção dos demais sistemas já rotulados como legados,
+mas que ainda são essenciais ao exercício das atividades meio e fim. Isso gera morosidade, retrabalho e ineficiência na autogestão, além
+de impor aos usuários internos e externos habilidades para lidar com ferramentas com características diversas, dificultando
+substancialmente o direito ao acesso à justiça, bem como à eficiente prestação da tutela jurisdicional e por fim, iii) infraestrutura
+tecnológica extremamente defasada com suprimentos adquiridos há mais de 10 (dez) anos, o que impõe ao Poder Judiciário alto custo
+para a manutenção dos equipamentos; insegurança no armazenamento dos dados, em especial com a expansão do Processo Judicial
+Eletrônico; dificuldade de conectividade e no processamento de dados, haja vista a ausência de definição da arquitetura da infraestrutura
+tecnológica.
+
+Essa tríade, formada por pessoal, equipamentos e sistemas que, de per si, já constituem grandes entraves para a prestação de um serviço
+de excelência aos jurisdicionados, soma-se à necessidade de promoção da acessibilidade no âmbito do Poder Judiciário capixaba.
+
+Apesar de a Política de Acessibilidade e Inclusão já estar instituída no âmbito do Poder Judiciário do Estado do Espírito Santo, há a
+necessidade de seu fortalecimento mediante ações positivas para concretizá-la, no que tange especialmente aos aspectos da
+acessibilidade física, tecnológica e comunicacional.
+
+
+Página: 4
+
+Tal assertiva se comprova por meio da necessidade de adequação dos prédios da justiça estadual, além da constatação de que os
+sistemas eletrônicos utilizados por usuários internos e externos não contemplam ferramentas que permitem e/ou facilitem o acesso de
+pessoas com deficiência ou mobilidade reduzida, o que caracteriza comprometimento do acesso à justiça, afastando o cidadão do Poder
+Judiciário capixaba.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+2.1.2SOLUÇÕES PROPOSTAS/RESULTADOS/SUSTENTABILIDADE
+
+A reversão do quadro atual e a modernização dos processos de trabalho no âmbito do Poder Judiciário do Estado do Espírito Santo
+deflagram a necessidade de instituir mecanismos de melhoria contínua e procedimentos mais ágeis e eficientes na prestação jurisdicional.
+
+Para enfrentamento dos problemas acima descritos, é que se propõe o Programa de Modernização do Poder Judiciário do Estado do
+Espírito Santo ? PROMOJUES.
+
+Embora a transformação digital seja o suporte do Programa, importante destacar que esta é apenas um vetor para a modernização de
+processos e a criação de uma governança judiciária forte e robusta, sob o aspecto da consolidação da missão institucional.
+
+Com destaque para a modernização tecnológica, o Programa estabelece as premissas de construção de um judiciário mais célere e
+efetivo para ampliar o acesso à justiça, por meio de ações estruturadas nos Componentes e Produtos, conforme segue:
+
+Componente 1 ? Governança e Fortalecimento Institucional
+
+O presente componente constitui um pilar importante do processo de modernização, haja vista que envolve mecanismos de soluções
+integradas de gestão administrativa e de governança de forma a melhorar a eficiência e dar mais efetividade aos setores relacionados à
+gestão estratégica do Poder Judiciário do Espírito Santo.
+
+Assim, no âmbito deste componente, com vistas a aumentar a eficiência interna e a transparência, desburocratizar os procedimentos,
+humanizar e melhorar os serviços prestados ao cidadão, estão propostas as seguintes soluções de aperfeiçoamento da Governança
+institucional e de adequação da gestão administrativa, com foco na transformação digital em curso.
+
+Produto 1 - Modelo de Fortalecimento da Governança do TJES implantado
+
+Este produto busca o fortalecimento da governança e da gestão do Poder Judiciário do Estado do Espírito Santo, com a revisão do
+direcionamento estratégico e monitoramento de sua instituição, a implementação de estratégias, mecanismos e instrumentos de gestão
+que visem à eficiência operacional, à humanização dos serviços ofertados, à desburocratização e à simplificação e automação de
+processos internos, por meio das seguintes iniciativas:
+
+(i) Revisão da Arquitetura de Governança Institucional que implantará um modelo de Governança e a sistemática de monitoramento da
+sua execução no TJES, a fim de integrar e harmonizar os diferentes interesses, particularidades e prioridades setoriais em torno dos
+princípios comuns, da missão institucional e das metas globalmente estabelecidas.
+
+(ii) Monitoramento da Gestão Estratégica que contemplará a implantação de um sistema informatizado para acompanhamento do
+planejamento estratégico desde as etapas de desdobramento das iniciativas estratégicas, definição de indicadores e metas, com revisão
+periódica, monitoramento e avaliação.
+
+(iii) Gestão das Contratações, com a: (a) definição dos procedimentos para elaboração e implantação do Plano Anual de Compras e
+Contratações do TJES, alinhado com as estratégias e objetivos institucionais; (b) elaboração do plano de logística sustentável, com o
+planejamento e práticas de sustentabilidade e racionalização dos gastos do TJES; (c) implantação de sistema automatizado de gestão
+administrativa integrada que permita o monitoramento dos contratos desde a licitação até sua completa execução.
+
+(iv) Gestão de Serviços de Tecnologia da Informação (TI), com a implantação de boas práticas de Governança e Gestão de Serviços de TI
+, baseados em modelos de maturidade reconhecidos como o COBIT e ITIL, e o monitoramento e aprimoramento dos serviços de TI.
+
+(v) Sistemática de Controle interno, por meio da implantação de procedimentos, metodologia e instrumentos de gestão de risco apoiados
+por sistema informatizado capaz de registrar as ações necessárias para a orientação e fiscalização da gestão, possibilitando o melhor
+controle de todas as situações verificadas nos processos de auditoria interna.
+
+Produto 2 ?Plano de Gestão da Mudança implantado
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+O processo de transformação digital pelo qual passará o TJES exigirá adaptar a estrutura e cultura organizacionais para um ambiente
+digital e prover os servidores e magistrados do Judiciário capixaba dos conhecimentos, habilidades e atitudes necessários para o trabalho
+com novas tecnologias, assim como preparar o usuário do sistema de justiça para a nova realidade da instituição. No âmbito deste produto
+, serão implantados:
+
+(i) Modelo de Gestão de Pessoas por competências, com a revisão dos processos de gestão de pessoas e a implantação de uma política
+de gestão por competência, incluindo o mapeamento das competências institucionais, técnicas e comportamentais, a definição de
+procedimentos para a lotação de servidores, resguardando as competências mínimas para cada cargo e a elaboração de um novo Plano
+de Cargos para o TJES. Ademais, se prevê a implantação do Sistema informatizado de Gestão de Pessoas, que contemplará, dentre
+outros, os módulos de recursos humanos, alocação, competência e capacitação.
+
+(ii) Plano de gestão da mudança que consistirá em um conjunto de ações estruturadas de conscientização, liderança e treinamento dos
+Gestores, Magistrados e Servidores para implantação bem-sucedida das transformações planejadas no âmbito do TJES. As ações de
+conscientização e de apropriação institucional estarão respaldadas pelo Plano de Comunicação Interna.
+
+(iii) Plano de capacitação de Magistrados e Servidores elaborado com base nas competências individuais e nas trilhas de capacitação e
+que contemple não apenas a formação inicial de novos servidores e magistrados, mas também um programa de formação continuada,
+além da formação de um banco interno de formadores e a sensibilização e conscientização em processos de gestão de mudança voltada
+para transformação digital .
+
+(iv) Plano de valorização e retenção dos servidores de TI, que incluirá um plano de carreira da área de Tecnologia da Informação, a
+revisão e adequação da estrutura organizacional de acordo com as boas práticas internacionais de Governança e a definição de novos
+papéis e atribuições e um plano de capacitação para formação dos servidores em novas tecnologias e boas práticas de TI.
+
+(v) Gestão dos Macroprocessos do TJES para a transformação digital, contemplará, essencialmente a: (i) revisão da arquitetura de
+processos; (ii) definição de metodologia de gestão de processos; (iii) modelagem dos processos de trabalho; (iv) identificação e otimização
+dos processos críticos para que a instituição realize suas principais entregas; e (v) automação dos processos de trabalho, com uso de
+ferramenta própria de BPMS (Business Process Management System). Adicionalmente, para atender as alterações advindas com a
+redefinição dos macroprocessos e o advento da transformação digital, propõe-se o ajuste e adequação da estrutura organizacional ao
+novo cenário.
+
+(vi) Comunicação institucional interna e externa aperfeiçoada e acessível, por meio da definição de diretrizes e política da comunicação
+institucional, implantação de Plano de Comunicação interna para Magistrados e Servidores e de ações estruturadas para conscientização
+e liderança para a gestão da mudança organizacional e externa, para a população. Contemplará, ainda, aquisição de equipamentos para
+produção de materiais audiovisuais e ações para a disseminação de boas práticas, com o desenvolvimento de ambiente virtual para o
+registro e divulgação de iniciativas e projetos inovadores. Adicionalmente, serão desenvolvidas ações sistemáticas voltadas para auxílio
+aos excluídos digitais para utilização dos sistemas da justiça.
+
+Produto 3 ? Atendimento à população modernizado e aperfeiçoado
+
+Atualmente, o TJES atende ao público nas modalidades presencial nas unidades jurisdicionais e por e-mail através do ?Balcão Virtual?.
+Além disso, o Poder Judiciário disponibiliza alguns serviços em seu portal web, tais como a consulta processual unificada e a emissão de
+certidões negativas on-line. O bom atendimento é primordial para manter os usuários da Justiça satisfeitos e desenvolver, com eles, uma
+relação de confiança. Para tanto, a começar pela realização de um diagnóstico de satisfação para com o usuário, é urgente aperfeiçoar e
+modernizar o atendimento ao jurisdicionado por meio de investimentos em transformação digital. Assim, estão previstas as seguintes
+ações:
+
+(i) Pesquisa de satisfação do usuário que será aplicada sistematicamente para identificar o nível de satisfação do usuário do Poder
+Judiciário do Estado do Espírito Santo e identificar os principais problemas e soluções, sob o ponto de vista do jurisdicionado.
+
+(ii) Aplicativo do TJES que disponibilizará uma ampla carta de serviços aos usuários com acesso por meio de dispositivos móveis.
+
+(iii) Totens interativos ? implantação de totens interativos nas sedes dos Fóruns para ampliar e simplificar o acesso da população aos
+serviços prestados.
+
+(iv) Ferramentas de Inteligência Artificial para atendimento aos usuários? implantação de ferramenta de inteligência artificial, como o uso
+de Chatbot para atender virtualmente os usuários, e esclarecer dúvidas sobre a tramitação processual, primando pelo uso de linguagem
+clara e descomplicada.
+
+Componente 2 ? Transformação Digital
+
+Neste componente, os impactos da transformação digital do TJES serão experimentados de modo direto pelos usuários da justiça, pois
+serão desenvolvidos ou ampliados serviços digitais para tornar o atendimento à população mais célere e mais acessível.
+
+(cid:10)
+(cid:10)
+
+
+Página: 6
+
+Deve ser ressaltado que a Transformação Digital extrapola os limites da área de tecnologia de qualquer instituição, pois impõe a
+integração de todos os segmentos, de forma a reproduzir os anseios impostos pela nova era, tais como a utilização da tecnologia como
+suporte maior e auxílio à tomada de decisões institucionais, inteligência artificial e segurança de dados.
+
+No âmbito da Segurança da Informação, tendo em vista a relevância do tema, serão criadas e implantadas as políticas necessárias
+visando garantir a disponibilidade, integridade, confidencialidade e autenticidade.
+
+Produto 1: Soluções tecnológicas para aperfeiçoamento da prestação jurisdicional implantadas
+
+É imperativo que o TJES seja reconhecido pela população por sua celeridade na promoção da Justiça, considerando que esta é a razão
+de ser da instituição. Diante disso, para tornar o trâmite processual mais célere e mais inteligente, no sentido de que o processo julgado
+seja resultado de um fluxo de atividades racionais, iniciativas de alto impacto serão empreendidas e implantadas pelo Programa, como:
+
+(i) Digitalização dos processos físicos, que contará com apoio de empresa especializada para digitalização do acervo de processos físicos
+do TJES, que atualmente, está em torno de 800 mil processos, que representam, aproximadamente, 75% do acervo de processos do
+Tribunal.
+
+(ii) Suporte ao desenvolvimento e à manutenção de sistemas por meio da contratação de fábrica de software especializada em soluções
+tecnológicas aplicadas à expansão do PJE, bem como à implantação de sistemas automatizados de controle de precatórios, de mediação
+e conciliação de conflitos, de gestão e monitoramento de serventias extrajudiciais, de banco de dados de demandas repetitivas e
+precedentes obrigatórios, de cadastro de peritos, de painel de gestão das unidades judiciárias, dentre outros.
+
+(iii) Implantação de soluções de IA na tramitação dos processos judiciais (classificação processual, similaridade, automação de
+expedientes identificação de precedentes) e para automatizar atos e expedientes processuais, reduzindo a necessidade de intervenção
+humana em atividades rotineiras, previsíveis ou de menor complexidade; bem como identificar e tratar de forma otimizada, demandas em
+massa e de processos de grandes litigantes.
+
+(iv) Estruturação de dados dos processos judiciais que deverá contemplar, dentre outras ações, a higienização de cadastros de pessoa
+física e pessoa jurídica; o cruzamento de bases de dados dos sistemas internos e externos (outros órgãos públicos); e a indexação dos
+conteúdos digitais dos processos (páginas, textos, imagens, ofícios entre outros.).
+
+Produto 2: Política de Cibersegurança da informação implantada
+
+Considerando um cenário em que todos os dados dos processos estarão disponíveis de forma eletrônica e suscetíveis a ataques por meio
+da internet, é imprescindível a realização de investimentos para modernização e aprimoramento da segurança da informação no âmbito
+do TJES. Nesse sentido, o Programa propõe-se a implementar políticas e tecnologias mais efetivas no que tange à segurança da
+informação, por meio de:
+
+(i) Estrutura normativa da Segurança da Informação com revisão da política e procedimentos de segurança da informação e o
+desenvolvimento dos artefatos necessários para sua implantação. Como exemplo podemos citar: Política de Segurança da Informação,
+Plano de Continuidade de Negócio, protocolo de prevenção e mitigação de incidentes cibernéticos e Políticas de controle de acesso.
+
+(ii) Proteção de dados pessoais implantada, a partir do levantamento dos processos de trabalho, do fluxo de dados (pessoais e sensíveis),
+de acordo com os regulamentos e normas vigentes na Lei Geral de Proteção de Dados - LGPD. Ademais, serão implementadas as
+ferramentas informatizadas para monitoramento e controle.
+
+(iii) Soluções tecnológicas em Cibersegurança instaladas, como SIEM para gerenciamento de eventos de segurança e de informações de
+segurança, Threat intelligence, para preparar, prevenir e identificar ameaças cibernéticas, Antivírus e Firewall, entre outras.
+
+(iv) Centro de Operações em Segurança (SOC), visando estabelecer os processos de detecção, análise e resposta a incidentes de
+segurança cibernética usando uma combinação de soluções tecnológicas e processos.
+
+(v) Programa de educação e cultura em Cibersegurança para Servidores e Magistrados implantado.
+
+Componente 3 ? Gestão de Recursos Estratégicos
+
+Como elemento próprio, assim como reflexo do necessário fortalecimento da governança institucional, bem como da transformação digital
+a ser operada no Poder Judiciário do Estado do Espírito Santo, o aperfeiçoamento da Gestão dos Recursos Estratégicos possui status de
+alicerce para uma inafastável e indispensável modernização do sistema de justiça.
+
+Isso porque, o processo de modernização almejado perpassa pela necessidade de consolidação de requisitos básicos que levarão o
+Poder Judiciário capixaba à excelência no cumprimento de sua missão institucional de prestação da tutela jurisdicional com amplo acesso
+à justiça ao cidadão que busca socorro às suas demandas.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 7
+
+Produto 1: Unificação e integração dos sistemas judiciais à PDPJ-Br
+
+Criada pelo Conselho Nacional de Justiça, a Plataforma Digital do Poder Judiciário Brasileiro ? PDPJ-B é uma ferramenta que visa a
+atuação colaborativa entre os tribunais do país, com o fim de consolidar a política para a gestão e expansão do Processo Judicial
+Eletrônico ? PJe.
+
+Em observância aos problemas identificados, resta como solução essencial a Unificação e Integração dos sistemas judiciais à PDPJ-Br
+para promover a integração e acelerar o processo de desenvolvimento do PJe, ao disponibilizar soluções operacionais e de negócios,
+dentro de um tempo razoável para atender as demandas do Tribunal de Justiça capixaba, com mão-de-obra especializada e tecnologia
+atualizada.
+
+Produto 2: Sistemas administrativos integrados
+
+A integração dos sistemas administrativos de Folha de Pagamento, Gestão de Recursos Humanos, Gestão de Almoxarifado, Gestão de
+Patrimônio, Gestão de Contratos, entre outros, será realizada por meio da solução de Planejamento de Recursos Empresariais (ERP) que
+será contratada e customizada para a gestão pública. Essa integração possibilitará a automação de atividades e a centralização das
+informações, conferindo mais eficiência no gerenciamento do Tribunal de Justiça, redução dos custos internos, agilidade e otimização no
+processo decisório e redução do retrabalho. Serão ainda realizados treinamentos para as diversas áreas/setores usuárias.
+
+Produto 3: Monitoramento dos dados judiciais e administrativos implantado
+
+As políticas a serem adotadas pelo Tribunal de Justiça do Estado do Espírito Santo precisam se nortear por dados fidedignos para que as
+soluções propostas tenham efetiva aplicação nas metas e compromissos firmados, fazendo necessária a adoção de um modelo de
+monitoramento dos dados judiciais e administrativos implantados. Para isto, este produto propõe a aquisição e implantação de ferramentas
+e licenças de Business Intelligence ? BI para a integração e monitoramento dos dados relacionados com as atividades judiciais e
+administrativas, o desenvolvimento de painéis de monitoramento e a capacitação das diversas áreas/setores usuárias no ferramental de BI
+adquirido.
+
+Produto 4: Infraestrutura tecnológica modernizada
+
+A modernização da infraestrutura tecnológica do TJES no âmbito do PROMOJUES se dará, em grande parte, pela aquisição de
+equipamentos de Tecnologia da Informação adequados às estratégias definidas no Plano Diretor de Tecnologia da Informação e ao perfil
+dos usuários, além da contratação do monitoramento dos serviços críticos de TI. Também estão previstas contratações e aquisições de
+soluções de impressão, de rede Wifi Corporativa, de controle automatizado de inventário dos bens patrimoniais, de serviço de Voz para
+redução dos custos com os contratos de telefonia e de videoconferência para as salas de reuniões, permitindo a realização de eventos no
+formato híbrido (presencial e remoto), além da aquisição de outros equipamentos de TI, como impressoras térmicas, switches, nobreaks,
+webcams e headsets. Para implantação das soluções adquiridas, serão realizadas capacitação de todos os usuários.
+
+Produto 5: Arquitetura da infraestrutura tecnológica definida
+
+Para definição da arquitetura da infraestrutura tecnológica (workstation; aplicações e serviços tecnológicos; processamento;
+armazenamento; comunicações e conectividade) estão previstas as seguintes ações: (i) levantamento das necessidades da infraestrutura
+de rede do TJES e apoio nas especificações técnicas dos ativos de rede; (ii) elaboração e implantação de projeto de redundância de links
+de dados das unidades do PJES; e (iii) desenvolvimento e implantação do Plano de Arquitetura de soluções de TI e de metodologia de
+Desenvolvimento de Software.
+
+Produto 6: Serviços em nuvem implantado
+
+Elaboração do projeto de migração e dimensionamento de solução dos serviços para provedor em nuvem, bem como levantamento e
+implantação das tecnologias/soluções utilizadas pelo PJES que podem ser aprimoradas ou substituídas.
+
+Produto 7: Sistema de segurança institucional modernizado
+
+Este produto será consolidado com a atualização e ampliação da central de videomonitoramento mediante a atualização do software e a
+instalação de câmeras na totalidade das unidades próprias do Poder Judiciário do Estado.
+
+Produto 8: Programa de acessibilidade aos serviços de justiça ampliado
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 8
+
+A necessidade de acessibilidade aos serviços da justiça perpassa por edificações que contemplem a acessibilidade para a pessoa com
+deficiência e que necessita da prestação da tutela jurisdicional. Contudo, a acessibilidade não se refere apenas a instalações físicas, mas
+também a acessibilidade comunicacional conforme já mencionado no plano de gestão de mudança e de sistemas que permitam a ampla
+acessibilidade da pessoa com deficiência, por meio da oferta de ferramentas que promovam sua plena autonomia e garantam o princípio
+da dignidade humana. Assim, no âmbito deste produto serão desenvolvidas as seguintes ações:
+
+(i) Plano de adequação das instalações físicas atualizado. Com a finalidade de promover melhorias das instalações físicas para garantir a
+acessibilidade de pessoas com deficiência, o Tribunal de Justiça já dispõe de um Plano de adequação das instalações físicas que deverá
+ser revisto e ajustado às atuais necessidades de adequação dos imóveis.
+
+(ii) Plano de acesso das pessoas com deficiência ou mobilidade reduzida aos dispositivos, sistemas e meios de comunicação e informação
+, para eliminar barreiras tecnológicas e de comunicação. A contratação de ferramentas de acessibilidade e a adequação dos sistemas
+judiciais e administrativos permitirá aos usuários internos e externos que possuam alguma deficiência ou mobilidade reduzida, tenham
+condições de exercer suas atividades laborativas, bem como se socorrer ao Tribunal de Justiça capixaba, com o intuito de requerer
+prestação de tutela jurisdicional, sem enfrentar entraves e obstáculos.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+O Poder Judiciário do Estado do Espírito Santo instituiu a sua estratégia para o período 2021-2026, por meio da aprovação, pelo Egrégio
+Tribunal Pleno, da Resolução 12 de 01 de julho de 2021.
+
+A estruturação do Planejamento Estratégico estadual obedece às diretrizes estabelecidas em Resoluções, Recomendações e políticas
+judiciárias nacionais instituídas pelo Conselho Nacional de Justiça - CNJ para a concretização da Estratégia Nacional do Poder Judiciário
+2021-2026. Ainda, conforme disciplinado pela Resolução CNJ n. 325/2020 devem ser observadas as diretrizes constantes dos Objetivos
+do Desenvolvimento Sustentável da Agenda 2030 da ONU.
+
+O Planejamento Estratégico consolida-se como instrumental para viabilizar o cumprimento da missão institucional do Poder Judiciário do
+Estado do Espírito Santo: ?assegurar a todos, indistintamente, a solução adequada dos conflitos apresentados à justiça capixaba de forma
+acessível, célere e efetiva, contribuindo para a promoção da paz social e fortalecimento do estado democrático de direito?.
+
+A formulação do Planejamento Estratégico levou em consideração a ampla participação de magistrados e servidores, oportunidade em
+que foram escolhidos os Objetivos e as Iniciativas estratégicas que melhor orientam para uma atuação uniforme no âmbito do Poder
+Judiciário e o fortalecimento da sua capacidade de enfrentamento dos Macrodesafios propostos até o ano de 2026. Dessa forma é que
+foram constituídas as bases para a formulação das ações que levarão a termo a execução da Estratégia.
+
+A Estratégia Nacional, conforme disciplinada pelo Conselho Nacional de Justiça, revela a necessidade de que cada órgão do Poder
+Judiciário atue na direção de estabelecer convergência de suas ações de forma a potencializar todos os esforços no enfrentamento dos
+desafios estabelecidos para a conquista de excelência de atenção ao jurisdicionado.
+
+Conforme diretriz do CNJ e com base na metodologia do Balanced Scorecard ? BSC, o Mapa Estratégico do Poder Judiciário do Estado
+do Espírito Santo (Anexo I) contempla 23 objetivos estratégicos distribuídos em 03 perspectivas: Sociedade, Processos Internos,
+Aprendizado e Crescimento.
+
+Neste contexto é que se insere o Programa de Modernização do Poder Judiciário do Estado do Espírito Santo (PROMOJUES). Alinhado
+com os principais eixos de atuação da justiça capixaba, os objetivos do programa estabelecem as condições para atender uma demanda
+plenamente identificada com a necessidade de modernização de processos de trabalho (governança), virtualização de processos físicos,
+uso da inteligência artificial, segurança da informação, acessibilidade, dentre outros anseios da sociedade para de fato caracterizar a
+oferta de melhor acesso à justiça.
+
+Com efeito, é possível atribuir ao Programa de Modernização do Poder Judiciário do Estado do Espírito Santo (PROMOJUES) a
+capacidade de alavancar resultados positivos, especialmente relacionados com os seguintes objetivos estratégicos: i) Aperfeiçoar e
+incrementar as possibilidades de acesso à justiça; ii) Promover a Acessibilidade; iii) Garantir efetividade na prestação Jurisdicional; iv)
+Fortalecer a Governança Institucional; v)Consolidar a valorização de magistrados e servidores; vi) Aperfeiçoar a Governança e Gestão de
+TIC; vii) Aprimorar a Segurança da Informação e a Gestão de Dados viii) Aprimorar as aquisições e contratações de TIC. Este rol não é
+exaustivo. Ademais, os resultados esperados com a implementação do Programa de Modernização do Poder Judiciário do Estado do
+Espírito Santo ? PROMOJUES estão diretamente relacionados com o monitoramento da Estratégia Nacional do Poder Judiciário 2021-
+2026.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 9
+
+No âmbito estadual, o Plano Plurianual de Aplicações ? 2021-2023, atualmente em vigor, contempla o Programa 0023 ? Justiça Acessível
+com Solução de Demanda Efetiva, Adequada e em Tempo Razoável, oportunidade em que revela a plena identificação das ações do PPA
+com a proposta do Programa de Modernização do Poder Judiciário do Estado do Espírito Santo ? PROMOJUES.
+
+Em especial para justificar tal assertiva são identificadas as seguintes ações no PPA: i) Efetividade na Prestação Jurisdicional que tem
+como finalidade proporcionar recursos essenciais ao cumprimento da atividade jurisdicional com efetividade, buscando celeridade e
+acessibilidade; ii) Valorização e Desenvolvimento de pessoas, cujo objetivo é oferecer aos magistrados e servidores condições para
+atuação no âmbito do TJES, mediante justa remuneração e condições de trabalho.
+
+Contrapartida: A contrapartida será proveniente do Tesouro Estadual, em conformidade com o disposto no Art. 2º, §1º, da Resolução nº 03
+de 29/05/2019
+
+Taxa de câmbio
+
+(I) Taxa de câmbio da moeda do financiamento em relação ao REAL: US$5,5
+
+(II) Data de referência: 25/01/2022
+
+2. Projeto
+
+### 2.1. Título
+
+
+PROGRAMA DE MODERNIZAÇÃO DO PODER JUDICIÁRIO DO ESTADO DO ESPÍRITO SANTO
+
+
+### 2.2. Título Abreviado
+
+PROMOJUES
+
+
+### 2.3. Mutuário
+
+
+Estado do Espírito Santo
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+2.2.2.OBJETIVO GERAL
+
+O objetivo geral do Programa é garantir o processo de modernização do Poder Judiciário do Estado do Espírito Santo adequando-o às
+exigências da contemporaneidade, por meio de ações planejadas e coordenadas de aperfeiçoamento dos instrumentos de governança
+institucional, de transformação digital e de gestão estratégica visando, assim, elevar a eficiência Poder Judiciário capixaba e ampliar o
+acesso à justiça de sua população.
+
+São objetivos específicos do Programa:
+
+Componente 1 ? Governança e Fortalecimento Institucional
+
+Aperfeiçoar as diretrizes institucionais e as estruturas organizacionais, por meio da adoção das melhores práticas de gestão, da revisão de
+processos de trabalho e do estabelecimento de mecanismos de controle a fim de assegurar que as decisões e ações de gestão do Poder
+Judiciário mantenham-se harmoniosas às necessidades institucionais e garantam o cumprimento das metas estabelecidas.
+
+Componente 2 - Transformação Digital
+
+Garantir, por meio da Tecnologia da Informação e Comunicação, a transformação digital de forma direta e segura de serviços, processos,
+procedimentos e análises com vistas à maximização de resultados e otimização de recursos, propiciando, assim, a eficiência e
+economicidade do Poder Judiciário do Espírito Santo.
+
+Componente 3 ? Gestão de Recursos Estratégicos
+
+Preparar a infraestrutura tecnológica e física do Poder Judiciário do Espírito Santo por meio da consolidação da arquitetura tecnológica
+necessária e da implementação do plano de acessibilidade de modo a permitir que o processo de modernização garanta a melhora da
+prestação jurisdicional e amplie significativamente o acesso à justiça do cidadão.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 10
+
+
+### 2.6. Projeto/Indicadores
+
+
+Descrição
+IAJ - Índice do Poder Judiciário de Acesso à
+Justiça: trata-se de indicador que busca medir o
+acesso à justiça, pensado a partir de três tipos
+de capitais (Cidadania, População e Judiciário),
+desmembrados em dimensões (Direitos e
+deveres, Vulnerabilidade e acesso a serviços
+públicos; Perfil e dinâmica demográfica; e
+Padrão de resolução de conflitos, Distribuição e
+acesso a serviços públicos e Inovação
+tecnológica)
+TCL - Taxa de Congestionamento Líquida,
+exceto execução fiscal: indica o percentual de
+processos que, no período de 12 meses,
+permaneceu em tramitação sem solução
+definitiva. São desconsiderados os processos
+suspensos, sobrestados ou em arquivo
+provisório e as execuções fiscais. Computar os
+processos de 2º grau, de 1º grau, das turmas
+recursais e dos juizados especiais (quando
+aplicável), somando-se os casos de
+conhecimento e de execução judicial e
+extrajudicial não fiscal.
+
+Índice de Governança de TI
+
+Índice de Produtividade de Magistrados:
+indicador que computa a média de processos
+baixados por magistrado(a) em atuação.
+
+Incremento do alcance do índice de
+Produtividade de Servidores
+
+Incremento no alcance de Pontuação no Selo
+CNJ de Qualidade
+
+Aumento do índice de Virtualização de
+Processos
+
+Acessibilidade física implantada
+
+
+### 2.7. Projeto/Componentes
+
+
+%
+
+%
+
+Fórmula de Cálculo Unidade de Medida
+Conforme constante
+do GLOSSÁRIO DOS
+INDICADORES DE
+DESEMPENHO,
+Estratégia Nacional do
+Poder Judiciário 2021
+-2026 em publicação
+editada pelo Conselho
+Nacional de Justiça,
+2021, página 8
+TCL =   Cp  - CpPExt
+Fisc1 - SusNFisc
+TBaix - TBaixExtFisc
++ Cp-CpPExt Fisc1 -
+SusNFisc  Cp ? Total
+de casos pendentes;
+CpExtFisc1 ? Casos
+Pendentes de
+Execução Fiscal no 1º
+grau;    SusNFisc ?
+Total de processos
+suspensos,
+sobrestados ou em
+arquivo provisório,
+exceto os processos
+de Execução Fiscal;
+TBaix ? Total de
+processos baixados; e
+TBaixExtFisc1 ?
+Total de Processos
+Baixados de
+Execução Fiscal no 1º
+Grau.
+https://www.cnj.jus.br/
+wp-content/uploads/
+2021/11/guia-da-entic-
+jud-res370-2021-10-
+07-rev2.pdf Item 7.4
+Metodologia de
+cálculo do novo
+iGovTI-JUD, página
+25.
+IPM = Processos
+Baixados Números de
+Magistrados em
+atuação
+IPM = Processos
+Baixados Números de
+Servidores em
+atuação
+Conforme requisitos
+fixados por meio de
+Portaria do Conselho
+Nacional de Justiça,
+anualmente.
+Quantidade de
+processos eletrônicos
+Total de processos
+físicos
+Número de unidades
+com acessibilidade
+física implantada
+
+Quantidade
+
+Quantidade
+
+Número
+
+%
+
+%
+
+%
+
+Linha de Base
+65,20
+
+Meta
+75,00
+
+74,21
+
+70,00
+
+35,42
+
+60,00
+
+911,00
+
+1.280,00
+
+109,00
+
+149,00
+
+42,46
+
+58,00
+
+25,00
+
+100,00
+
+0,00
+
+5,00
+
+(cid:10)
+
+
+Componentes
+C - C - GOVERNANÇA E FORTALECIMENTO INSTITUCIONAL
+P - Produto 1. Modelo de Fortalecimento da Governança do TJES implantado
+P - Produto 2. Plano de Gestão de Mudança implantado
+P - P P3 - Atendimento à população modernizado e aperfeiçoado
+C - TRANSFORMAÇÃO DIGITAL
+P - P P1 - Soluções tecnológicas para aperfeiçoamento da prestação jurisdicional implantadas
+P - P P2 - Política de Cibersegurança implantado
+C - C ? GESTÃO DOS RECURSOS ESTRATÉGICOS
+P - P P1 - Unificação e integração dos sistemas judiciais à PDPJ-Br
+P - P P2: Sistemas administrativos integrados
+P - P P3 Modelo de monitoramento dos dados judiciais e administrativos implantado
+P - P P4-Infraestrutura tecnológica modernizada
+P - P P5 -Definição da arquitetura da infraestrutura tecnológica
+P - P P6 - Serviços em nuvem implantado
+P - P P7- Sistema de segurança institucional modernizado
+P - P P8 - Programa de acessibilidade aos serviços de justiça ampliado
+C - C -GESTÃO DO PROJETO
+P - P - A1 - Monitoramento e avaliação
+P - P - A2 - Auditoria
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - C - GOVERNANÇA E FORTALECIMENTO INSTITUCIONAL
+GOVERNANÇA E FORTALECIMENTO INSTITUCIONAL
+
+
+Página: 11
+
+Valor(US$)
+3.199.091,00
+223.636,00
+2.058.182,00
+917.273,00
+20.641.818,00
+16.454.545,00
+4.187.273,00
+18.738.182,00
+363.636,00
+2.818.182,00
+1.580.000,00
+10.363.636,00
+1.507.273,00
+196.364,00
+181.818,00
+1.727.273,00
+916.509,00
+774.781,00
+141.728,00
+43.495.600,00
+
+P - Produto 1. Modelo de Fortalecimento da Governança do TJES implantado
+P P1 - Modelo de Fortalecimento da Governança do TJES implantado
+Revisão da Arquitetura de Governança Institucional (USD 49.091); Monitoramento da Gestão Estratégica implantado (USD 36.364)
+; Modelos de Gestão das Contratações (USD 69.691), Gestão de Serviços de TI (USD 32.727) e Controle interno (USD 36.364)
+implantados.
+
+P - Produto 2. Plano de Gestão de Mudança implantado
+P P2 - Plano de Gestão da Mudança implantado
+Gestão de Pessoas por competências implantada (USD 65.455); Plano de Gestão da Mudança implantada (USD 545.455), Plano
+de capacitação de Magistrados e Servidores elaborado e implantado (USD 669.091), Plano de valorização e retenção dos
+servidores de TI implantado (USD 32.727), Gestão dos Macroprocessos do TJES para a transformação digital implantada (USD
+621.818), Comunicação institucional interna e externa aperfeiçoada (USD 123.636),
+Metas: Política de gestão de Competências instituída; Cinco Ações estruturadas de gestão de mudanças implantadas; 80% dos
+Magistrados e Servidores capacitados; Um Plano de capacitação em novas tecnologias e boas práticas de TI implementado;
+Arquitetura de processos implantada; Procedimentos de Comunicação institucional interna e externa implantados.
+
+P - P P3 - Atendimento à população modernizado e aperfeiçoado
+P P3 - Atendimento à população modernizado e aperfeiçoado
+Pesquisa de satisfação e das necessidades dos usuários (USD 136.364); Aplicativo para facilitar o acesso ao TJES desenvolvido (
+USD 49;091); Totens interativos instalados (USD 186.364); Ferramentas de IA no atendimento ao usuário implantadas (USD 545.
+455).
+Metas: Três Pesquisas de satisfação do usuário realizadas; Um Aplicativo para facilitar o acesso ao TJES implantado; 50 totens
+interativos implantados; Uma ferramenta de Chatboot para atendimento virtual implantada.
+
+C - TRANSFORMAÇÃO DIGITAL
+TRANSFORMAÇÃO DIGITAL
+
+P - P P1 - Soluções tecnológicas para aperfeiçoamento da prestação jurisdicional implantadas
+P P1 - Soluções tecnológicas para aperfeiçoamento da prestação jurisdicional implantadas
+Digitalização dos processos físicos (USD 6.363.636); Suporte ao desenvolvimento e à manutenção de sistemas (USD 9,090.909);
+Soluções de IA na tramitação dos processos judiciais implantadas (USD 727.273); e Dados dos processos judiciais estruturados (
+USD 272.727).
+Metas: 100% dos processos físicos digitalizados; Pelo menos 5 sistemas informatizados implantados; 2 serviços de IA voltados
+para a atividade jurisdicional implantados; 100% dos dados dos processos judiciais estruturados.
+
+P - P P2 - Política de Cibersegurança implantado
+P P2 - Política de Cibersegurança implantado
+Estrutura normativa da Segurança da Informação revisada (USD 245.455), a Proteção de dados pessoais implantada (USD 196.
+364), Soluções de tecnologia em Cyber Segurança instaladas (USD 2.472.727), o Centro de Operações em Segurança instalado (
+USD 1.090.709) e Programa de educação e cultura em Cibersegurança para Servidores Magistrados implantado (USD 181.818).
+
+
+Página: 12
+
+Metas: Política de segurança da informação revisada e implantada; 1 Ferramenta para monitoramento e controle da
+implementação da LGPD; Pelo menos 3 Soluções tecnológicas em Cibersegurança instaladas; 1 Centro de Operações em
+Segurança instalado; 1 Programa de educação e cultura em Cibersegurança para Servidores Magistrados implantado.
+
+C - C ? GESTÃO DOS RECURSOS ESTRATÉGICOS
+GESTÃO DOS RECURSOS ESTRATÉGICOS
+
+P - P P1 - Unificação e integração dos sistemas judiciais à PDPJ-Br
+P P1 - Unificação e integração dos sistemas judiciais à PDPJ-Br
+Unificação e integração dos sistemas judiciais à PDPJ-Br (USD 363.636).
+Meta: 100% dos sistemas judiciais integrados à PDPJ-BR
+
+P - P P2: Sistemas administrativos integrados
+P P2: Sistemas administrativos integrados
+Sistemas administrativos integrados (USD 2.818.182).
+Meta: Pelo menos 5 sistemas administrativos integrados.
+
+P - P P3 Modelo de monitoramento dos dados judiciais e administrativos implantado
+P P3 Modelo de monitoramento dos dados judiciais e administrativos implantado
+Implantação de ferramentas e licenças de Business Intelligence ? BI, com a aquisição das respectivas licenças, o desenvolvimento
+de painéis de monitoramento e a capacitação dos usuários. (USD 1.580.000).
+Meta: Ferramenta de monitoramento dos dados judiciais e administrativos implantada.
+
+P - P P4-Infraestrutura tecnológica modernizada
+P P4-Infraestrutura tecnológica modernizada
+Infraestrutura tecnológica modernizada e adequada às estratégias do Plano Diretor de Tecnologia da Informação (USD 5.772.728);
+Monitoramento dos serviços críticos de TI (USD 909.091); Solução de rede Wifi Corporativa (USD 363.636), Solução de controle
+automatizado de inventário dos bens patrimoniais (USD 272.723), Solução de serviço de Voz (USD 727.273), Solução de
+Videoconferência para as salas de reuniões implantadas (USD 136.364) e aquisição de outros equipamentos de TI, como
+impressoras térmicas, switches, nobreaks, webcams e headsets (USD 2.181.818).
+Metas: 80% da infraestrutura tecnológica modernizada; 1 Solução de rede Wifi Corporativa; Controle automatizado de inventário
+dos bens patrimoniais; Solução de videoconferência em 20 salas de reuniões implantado.
+
+P - P P5 -Definição da arquitetura da infraestrutura tecnológica
+P P5 -Definição da arquitetura da infraestrutura tecnológica
+Levantamento das necessidades da Infraestrutura de rede do PJES (USD 490.909); Elaboração de projeto de redundância de links
+de dados das unidades do PJES (USD 967.273); e Plano de Arquitetura de soluções de TIC e metodologia de Desenvolvimento de
+Software (USD 49.091).
+Metas: Redundância de links de dados de 80% das unidades do PJES; 1 Plano de Arquitetura de soluções de TI.
+
+P - P P6 - Serviços em nuvem implantado
+P P6 - Serviços em nuvem implantado
+Projeto de migração de serviço em nuvem dimensionado e implantado (USD 98.192); e Levantamento das tecnologias/soluções
+utilizadas pelo PJES que podem ser aprimoradas ou substituídas (USD 98.192).
+Meta: Serviço de nuvem implantado.
+
+P - P P7- Sistema de segurança institucional modernizado
+P P7- Sistema de segurança institucional modernizado
+Central de videomonitoramento atualizada (USD 181.818).
+Metas: Câmeras de segurança instaladas em 100% dos Fóruns.
+
+P - P P8 - Programa de acessibilidade aos serviços de justiça ampliado
+P P8 - Programa de acessibilidade aos serviços de justiça ampliado
+Plano de adequação das instalações físicas implantado (USD 1.545.455;) e Plano de acesso das pessoas com deficiência ou
+mobilidade reduzida aos dispositivos, sistemas e meios de comunicação e informação (USD 181.818).
+Metas: Pelo menos 05 unidades com instalações físicas adequadas e acessíveis com o nível 5; Portal do TJES adequado aos
+padrões de acessibilidade digital do Governo Federal (eMAG).
+
+C - C -GESTÃO DO PROJETO
+GESTÃO DO PROJETO
+
+P - P - A1 - Monitoramento e avaliação
+P - A1 - Monitoramento e avaliação
+Composto de investimentos em capacitação e treinamento, serviços de consultoria, aquisição de bens e serviços que não de
+consultoria destinados a instrumentalizar a equipe de gestão do projeto.
+
+P - P - A2 - Auditoria
+P - A2 - Auditoria
+Contempla os serviços que são de consultoria, na forma de auditorias externas do projeto
+
+
+Página: 13
+
+Categoria de Gasto
+
+Bens
+P- P P1 - Soluções tecnológicas para
+aperfeiçoamento da prestação jurisdicional
+implantadas
+P- P P1 - Unificação e integração dos sistemas
+judiciais à PDPJ-Br
+P- P P2: Sistemas administrativos integrados
+P- P P3 Modelo de monitoramento dos dados
+judiciais e administrativos implantado
+P- P P4-Infraestrutura tecnológica modernizada
+P- P P5 -Definição da arquitetura da infraestrutura
+tecnológica
+P- P P6 - Serviços em nuvem implantado
+P- P P7- Sistema de segurança institucional
+modernizado
+P- P P8 - Programa de acessibilidade aos
+serviços de justiça ampliado
+Consultoria
+P- Produto 2. Plano de Gestão de Mudança
+implantado
+P- P - A1 - Monitoramento e avaliação
+P- P - A2 - Auditoria
+Capacitação e Treinamento
+P- Produto 1. Modelo de Fortalecimento da
+Governança do TJES implantado
+Outros
+P- P P3 - Atendimento à população modernizado
+e aperfeiçoado
+P- P P2 - Política de Cibersegurança implantado
+Total Geral
+
+Unidade de medida
+-
+Un
+
+Un
+
+Un
+Un
+
+Un
+Un
+
+Un
+Un
+
+Un
+
+-
+Un
+
+Un
+Un
+-
+Un
+
+-
+Un
+
+Un
+-
+
+Meta
+
+Valor
+
+% Financeiro
+
+-
+1,00
+
+1,00
+
+5,00
+1,00
+
+1,00
+1,00
+
+1,00
+1,00
+
+1,00
+
+-
+1,00
+
+1,00
+1,00
+-
+1,00
+
+-
+1,00
+
+1,00
+-
+
+35.192.727,00
+16.454.545,00
+
+363.636,00
+
+2.818.182,00
+1.580.000,00
+
+10.363.636,00
+1.507.273,00
+
+196.364,00
+181.818,00
+
+1.727.273,00
+
+2.974.691,00
+2.058.182,00
+
+774.781,00
+141.728,00
+223.636,00
+223.636,00
+
+5.104.546,00
+917.273,00
+
+4.187.273,00
+43.495.600,00
+
+80,91
+37,83
+
+0,84
+
+6,48
+3,63
+
+23,83
+3,47
+
+0,45
+0,42
+
+3,97
+
+6,84
+4,73
+
+1,78
+0,33
+0,51
+0,51
+
+11,74
+2,11
+
+9,63
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Tendo em vista a perene necessidade de alinhamento à Estratégia Nacional do Poder Judiciário instituída pelo Conselho Nacional de
+Justiça, diversas ações estão sendo implementadas pelo Tribunal de Justiça do Espírito Santo, em especial naquilo que toca aos eixos
+centrais ora propostos pelo PROMOJUES e que buscam o aumento da produtividade e agilidade de prestação jurisdicional, o
+aperfeiçoamento da gestão administrativa e o fortalecimento da estratégica de tecnologia da Informação e comunicação.
+
+Tais ações, ainda que limitadas pelas condições orçamentárias e de pessoal, são aqui tratadas como etapa preliminar do processo de
+modernização se almeja garantir plenamente por meio do presente projeto de investimento.
+
+Destacam-se abaixo as principais ações já realizadas ou em andamento que guardam relação com os componentes do Programa:
+
+(i) Aquisição, no ano de 2021, de 2294 computadores desktop, 400 notebooks e 470 celulares smartphones;
+
+(ii) Implantação, em 2020, do PJe no primeiro grau de jurisdição para competência cível em 70% das Comarcas e para início da
+implantação no Tribunal de Justiça para a mesma competência;
+
+(iii) Expansão, a partir de 2021, do PJe no segundo grau para todas as competências;
+
+(iv) Início, em dezembro de 2021, da digitalização dos processos que chegam em grau recursal ao TJES. Até Fevereiro de 2022 já foram
+digitalizados 1300 processos;
+
+(v) Parcerias com OAB, Ministério Público, Defensoria Pública e Procuradoria do Estado para digitalização de processos nos quais tenham
+interesse;
+
+(vi) Adoção de diversas medidas para garantir a segurança da informação:  a) aplicação de atualizações de segurança nos servidores que
+hospedam os principais serviços do Tribunal e nas principais falhas conhecidas de infraestrutura; b) alterações na solução de proteção de
+estações de trabalho para prevenção contra malware; c) criação de restrição para acesso interno para aplicações que se encontram
+impossibilitadas de serem atualizadas; d) implementação de políticas de troca de senhas;  desativação de contas por inatividade; e)
+aumento das restrições de acesso à internet por parte dos computadores servidores do PJES; f) atualização da versão dos sistemas com
+maior risco de ataques;
+
+(vii) Definição da especificação técnica do sistema a ser implantado de acompanhamento do Planejamento Estratégico de acordo com as
+diretrizes do CNJ;
+
+(ix) Realização de capacitação para servidores e magistrados, tendo alcançado 172 magistrados e 1248 magistrados em 2021.
+
+
+Página: 14
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Municipios
+
+Estado do Espírito Santo (MUNICIPIO DE  BREJETUBA, MUNICIPIO DE  MARATAIZES, MUNICIPIO DE  PONTO BELO, MUNICIPIO DE
+SOORETAMA, MUNICIPIO DE  VILA VALERIO, MUNICIPIO DE  MARECHAL FLORIANO, MUNICIPIO DE  IRUPI, MUNICIPIO DE  SAO
+DOMINGOS DO NORTE, MUNICIPIO DE  VILA PAVAO, MUNICIPIO DE  AFONSO CLAUDIO, MUNICIPIO DE  ALEGRE, MUNICIPIO
+DE  ALFREDO CHAVES, MUNICIPIO DE  ANCHIETA, MUNICIPIO DE  APIACA, MUNICIPIO DE  ARACRUZ, MUNICIPIO DE  ATILIO
+VIVACQUA, MUNICIPIO DE  BAIXO GUANDU, MUNICIPIO DE  BARRA DE SAO FRANCISCO, MUNICIPIO DE  BOA ESPERANCA,
+MUNICIPIO DE  BOM JESUS DO NORTE, MUNICIPIO DE  CACHOEIRO DE ITAPEMIRIM, MUNICIPIO DE  CARIACICA, MUNICIPIO DE
+CASTELO, MUNICIPIO DE  COLATINA, MUNICIPIO DE  CONCEICAO DA BARRA, MUNICIPIO DE  CONCEICAO DO CASTELO,
+MUNICIPIO DE  DIVINO DE SAO LOURENCO, MUNICIPIO DE  DOMINGOS MARTINS, MUNICIPIO DE  DORES DO RIO PRETO,
+MUNICIPIO DE  ECOPORANGA, MUNICIPIO DE  FUNDAO, MUNICIPIO DE  GUACUI, MUNICIPIO DE  GUARAPARI, MUNICIPIO DE
+IBIRACU, MUNICIPIO DE  ICONHA, MUNICIPIO DE  ITAGUACU, MUNICIPIO DE  ITAPEMIRIM, MUNICIPIO DE  ITARANA, MUNICIPIO
+DE  IUNA, MUNICIPIO DE  JERONIMO MONTEIRO, MUNICIPIO DE  LINHARES, MUNICIPIO DE  MANTENOPOLIS, MUNICIPIO DE
+MIMOSO DO SUL, MUNICIPIO DE  MONTANHA, MUNICIPIO DE  MUCURICI, MUNICIPIO DE  MUNIZ FREIRE, MUNICIPIO DE  MUQUI
+, MUNICIPIO DE  NOVA VENECIA, MUNICIPIO DE  PANCAS, MUNICIPIO DE  PINHEIROS, MUNICIPIO DE  PIUMA, MUNICIPIO DE
+PRESIDENTE KENNEDY, MUNICIPIO DE  RIO NOVO DO SUL, MUNICIPIO DE  SANTA LEOPOLDINA, MUNICIPIO DE  SANTA
+TERESA, MUNICIPIO DE  SAO GABRIEL DA PALHA, MUNICIPIO DE  SAO JOSE DO CALCADO, MUNICIPIO DE  SAO MATEUS,
+MUNICIPIO DE  SERRA, MUNICIPIO DE  VIANA, MUNICIPIO DE  VILA VELHA, MUNICIPIO DE  VITORIA, MUNICIPIO DE
+MARILANDIA, MUNICIPIO DE  IBATIBA, MUNICIPIO DE  RIO BANANAL, MUNICIPIO DE  JAGUARE, MUNICIPIO DE  PEDRO
+CANARIO, MUNICIPIO DE  AGUA DOCE DO NORTE, MUNICIPIO DE  ALTO RIO NOVO, MUNICIPIO DE  JOAO NEIVA, MUNICIPIO DE
+LARANJA DA TERRA, MUNICIPIO DE  SANTA MARIA DE JETIBA, MUNICIPIO DE  VARGEM ALTA, MUNICIPIO DE  VENDA NOVA
+DO IMIGRANTE, MUNICIPIO DE  AGUIA BRANCA, MUNICIPIO DE  IBITIRAMA)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+Condições Financeiras da Operação
+
+Prazo de desembolso: 60 meses
+
+Prazo de carência: até 66 meses (60 + 6 de periodicidade)
+
+Prazo de amortização: no mínimo, 234 meses (limite de 240 meses)
+
+Prazo total: 300 meses
+
+Taxa de juros: 2,93% a.a. (libor trimestral 2,00 + margem do fundo 0,13 + margem do empréstimo 0,80)
+
+Comissões sobre o saldo não desembolsado: até 0,75% a.a.
+
+Necessidade de Financiamento Externo e Opção pelo Agente Financiador
+
+A contratação desta operação de crédito com o Banco Interamericano de Desenvolvimento (BID) é justificada por este já ter desenvolvido
+relevantes projetos no âmbito do estado de Espírito Santo e apresentar condições de prazo, carência e encargos atrativos se comparadas
+às condições vigentes em outras empresas. Aliada às condições financeiras, durante a preparação e início da implementação do projeto
+também disponibiliza acompanhamento e assistência técnica com fundos de doação.
+
+O BID é o maior parceiro em projetos de governo digital na América Latina e agrega um amplo e aprofundado conhecimento da
+transformação digital na região, além de possuir larga experiência na realização de projetos de transformação digital, tais como: "Apoio à
+transformação digital das Agências de Promoção de Investimento da América Latina e Caribe" (RG-T3380), "Apoio ao planejamento do
+Programa de Transformação Digital dos Serviços Públicos e promoção de uma economia digital nos setores produtivos" em Honduras (HO
+-T1330); "Programa para fortalecimento da Agenda Digital: Conectividade, Governo Eletrônico e Transformação Produtiva Digital" na
+Argentina (AR- L1304); ?Automação do processo judicial Penal? no Equador (EC-T1368); e ?Apoio ao sistema de Justiça Criminal? da
+Guiana (GY-L1044) e Programa de Modernização do Poder Judiciário do Estado do Ceará ? PROMOJUD.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+BENEFICIÁRIOS
+
+As ações aqui previstas deverão repercutir em todos os usuários da Justiça em geral, na medida em que impactam de forma significativa
+na qualidade dos serviços prestados pelo Tribunal de Justiça do Estado do Espírito Santo com a implantação de iniciativas de
+racionalização e a automação dos processos de trabalho, a disponibilização de serviços digitais e o uso da inteligência artificial para
+agilizar o trâmite processual.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 15
+
+Além disso, outros atores do sistema de Justiça serão impactados pelo PROMOJUES, como os Cartórios com a implantação de sistemas
+relativos às serventias extrajudiciais, ação prevista no produto "soluções tecnológicas para o aperfeiçoamento da prestação jurisdicional".
+
+Os colaboradores do PJES, quais sejam, magistrados, servidores, terceirizados e estagiários, pelas ações de desenvolvimento de
+pessoas e de melhoria das condições de trabalho, por meio da desburocratização das atividades e do ganho de eficiência.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Interamericano de Desenvolvimento
+- BID
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BID
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+11.409.091,00
+Valor Proposto
+
+32.086.509,00
+
+43.495.600,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+11.409.091,00
+Valor de Referência US
+$
+32.086.509,00
+
+43.495.600,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Não se aplica
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+2.4.1. ARRANJO INSTITUCIONAL
+
+O mutuário da operação será o Governo do Estado do Espírito Santo.
+
+A coordenação geral do Programa será conduzida por uma unidade de coordenação própria do Tribunal de Justiça do Estado do Espírito
+Santo (TJES).
+
+A Unidade de Coordenação será estruturada por meio de uma Unidade de Gestão do Programa vinculada diretamente à Presidência,
+composta 01 (um) Coordenador Geral da Unidade, 01 (um) Coordenador Contábil e Financeiro e 03 (três) Coordenadores de
+monitoramento e avaliação, sendo 01 (um) para cada componente do Programa.
+
+A execução do Programa dar-se-á pelas equipes dos projetos que terá um líder formalmente instituído. A integração entre os projetos no
+âmbito do Programa será realizada pela unidade de coordenação em atuação conjunta com as equipes dos projetos.
+
+A Unidade de Coordenação do Programa atuará em parceria com órgãos de cooperação internos ou externos, dentre os quais, Assessoria
+Jurídica da Presidência, Assessoria de Planejamento e Comissão de Licitação do TJES que será fortalecida para as contratações
+específicas do financiamento.
+
+Caberá à unidade de coordenação, além da prestação de contas exigida pela instituição financeira e pelos órgãos de Controle, a produção
+de relatório bimestral ao Tribunal Pleno do TJES sobre o desenvolvimento do programa, indicando eventuais atrasos bem como medidas
+a serem adotadas para o fiel cumprimento do cronograma.
+
+A Matriz de Responsabilidade do Programa descreve as principais competências de cada um dos atores envolvidos na sua execução, por
+área de intervenção, e está detalhada no ANEXO TÉCNICO 2 no SIGS.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Tribunal de Justiça do Estado do Espírito Santo
+
+Representante Oficial: Fabio Clem de Oliveira
+
+Endereço da Sede: Rua Desembargador Homero Mafra, 60 CEP: 29.050-906
+E-mail Institucional:
+
+Telefone: 27-3334-2006
+
+CNPJ: 27476100000145
+
+Fax:
+UF:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+(cid:10)
+(cid:10)
+
+
+C - C - GOVERNANÇA E FORTALECIMENTO INSTITUCIONAL
+
+COMPONENTES
+
+P - Produto 1. Modelo de Fortalecimento da Governança do TJES implantado
+
+P - Produto 2. Plano de Gestão de Mudança implantado
+
+P - P P3 - Atendimento à população modernizado e aperfeiçoado
+
+C - TRANSFORMAÇÃO DIGITAL
+
+VALOR
+
+CUSTO
+3.199.091,00
+
+223.636,00
+
+2.058.182,00
+
+917.273,00
+
+20.641.818,00
+
+P - P P1 - Soluções tecnológicas para aperfeiçoamento da prestação jurisdicional implantadas
+
+16.454.545,00
+
+
+Página: 16
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+Ano 1
+
+FONTES
+
+CF
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+BID
+636.000,00
+
+72.909,09
+
+522.181,82
+
+40.909,09
+
+1.053.000,00
+
+281.818,18
+
+771.181,82
+
+P - P P2 - Política de Cibersegurança implantado
+
+C - C ? GESTÃO DOS RECURSOS ESTRATÉGICOS
+
+P - P P1 - Unificação e integração dos sistemas judiciais à PDPJ-Br
+
+P - P P2: Sistemas administrativos integrados
+
+P - P P3 Modelo de monitoramento dos dados judiciais e administrativos implantado
+
+4.187.273,00
+
+18.738.182,00
+
+5.045.454,18
+
+994.181,82
+
+363.636,00
+
+2.818.182,00
+
+1.580.000,00
+
+0,00
+
+0,00
+
+0,00
+
+72.727,27
+
+140.909,09
+
+316.000,00
+
+P - P P4-Infraestrutura tecnológica modernizada
+
+10.363.636,00
+
+5.045.454,18
+
+145.454,55
+
+P - P P5 -Definição da arquitetura da infraestrutura tecnológica
+
+P - P P6 - Serviços em nuvem implantado
+
+P - P P7- Sistema de segurança institucional modernizado
+
+P - P P8 - Programa de acessibilidade aos serviços de justiça ampliado
+
+C - C -GESTÃO DO PROJETO
+
+P - P - A1 - Monitoramento e avaliação
+
+P - P - A2 - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - C - GOVERNANÇA E FORTALECIMENTO INSTITUCIONAL
+
+COMPONENTES
+
+P - Produto 1. Modelo de Fortalecimento da Governança do TJES implantado
+
+P - Produto 2. Plano de Gestão de Mudança implantado
+
+P - P P3 - Atendimento à população modernizado e aperfeiçoado
+
+C - TRANSFORMAÇÃO DIGITAL
+
+P - P P1 - Soluções tecnológicas para aperfeiçoamento da prestação jurisdicional implantadas
+
+P - P P2 - Política de Cibersegurança implantado
+
+C - C ? GESTÃO DOS RECURSOS ESTRATÉGICOS
+
+P - P P1 - Unificação e integração dos sistemas judiciais à PDPJ-Br
+
+P - P P2: Sistemas administrativos integrados
+
+P - P P3 Modelo de monitoramento dos dados judiciais e administrativos implantado
+
+P - P P4-Infraestrutura tecnológica modernizada
+
+P - P P5 -Definição da arquitetura da infraestrutura tecnológica
+
+P - P P6 - Serviços em nuvem implantado
+
+P - P P7- Sistema de segurança institucional modernizado
+
+P - P P8 - Programa de acessibilidade aos serviços de justiça ampliado
+
+C - C -GESTÃO DO PROJETO
+
+P - P - A1 - Monitoramento e avaliação
+
+P - P - A2 - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - C - GOVERNANÇA E FORTALECIMENTO INSTITUCIONAL
+
+COMPONENTES
+
+P - Produto 1. Modelo de Fortalecimento da Governança do TJES implantado
+
+P - Produto 2. Plano de Gestão de Mudança implantado
+
+P - P P3 - Atendimento à população modernizado e aperfeiçoado
+
+C - TRANSFORMAÇÃO DIGITAL
+
+P - P P1 - Soluções tecnológicas para aperfeiçoamento da prestação jurisdicional implantadas
+
+P - P P2 - Política de Cibersegurança implantado
+
+C - C ? GESTÃO DOS RECURSOS ESTRATÉGICOS
+
+P - P P1 - Unificação e integração dos sistemas judiciais à PDPJ-Br
+
+P - P P2: Sistemas administrativos integrados
+
+P - P P3 Modelo de monitoramento dos dados judiciais e administrativos implantado
+
+P - P P4-Infraestrutura tecnológica modernizada
+
+P - P P5 -Definição da arquitetura da infraestrutura tecnológica
+
+P - P P6 - Serviços em nuvem implantado
+
+P - P P7- Sistema de segurança institucional modernizado
+
+P - P P8 - Programa de acessibilidade aos serviços de justiça ampliado
+
+C - C -GESTÃO DO PROJETO
+
+1.507.273,00
+
+196.364,00
+
+181.818,00
+
+1.727.273,00
+
+916.509,00
+
+774.781,00
+
+141.728,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+270.000,00
+
+49.090,91
+
+0,00
+
+0,00
+
+143.787,97
+
+115.442,33
+
+28.345,64
+
+0,00
+
+5.045.454,18
+
+2.826.969,79
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+BID
+674.109,10
+
+79.454,55
+
+438.472,73
+
+156.181,82
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+636.363,64
+
+2.937.454,55
+
+636.363,64
+
+2.100.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+837.454,55
+
+2.898.181,82
+
+72.727,27
+
+563.636,36
+
+316.000,00
+
+936.363,64
+
+463.454,55
+
+68.727,27
+
+45.454,55
+
+431.818,18
+
+162.382,71
+
+134.037,07
+
+28.345,64
+
+0,00
+
+636.363,64
+
+6.672.128,18
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+BID
+690.381,82
+
+38.545,45
+
+376.654,55
+
+275.181,82
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+1.909.090,91
+
+3.953.181,82
+
+1.909.090,91
+
+2.872.727,27
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.080.454,55
+
+3.779.090,91
+
+72.727,27
+
+845.454,55
+
+316.000,00
+
+1.854.545,45
+
+193.454,55
+
+19.636,36
+
+45.454,55
+
+431.818,18
+
+208.869,55
+
+
+Página: 17
+
+P - P - A1 - Monitoramento e avaliação
+
+P - P - A2 - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - C - GOVERNANÇA E FORTALECIMENTO INSTITUCIONAL
+
+COMPONENTES
+
+P - Produto 1. Modelo de Fortalecimento da Governança do TJES implantado
+
+P - Produto 2. Plano de Gestão de Mudança implantado
+
+P - P P3 - Atendimento à população modernizado e aperfeiçoado
+
+C - TRANSFORMAÇÃO DIGITAL
+
+P - P P1 - Soluções tecnológicas para aperfeiçoamento da prestação jurisdicional implantadas
+
+P - P P2 - Política de Cibersegurança implantado
+
+C - C ? GESTÃO DOS RECURSOS ESTRATÉGICOS
+
+P - P P1 - Unificação e integração dos sistemas judiciais à PDPJ-Br
+
+P - P P2: Sistemas administrativos integrados
+
+P - P P3 Modelo de monitoramento dos dados judiciais e administrativos implantado
+
+P - P P4-Infraestrutura tecnológica modernizada
+
+P - P P5 -Definição da arquitetura da infraestrutura tecnológica
+
+P - P P6 - Serviços em nuvem implantado
+
+P - P P7- Sistema de segurança institucional modernizado
+
+P - P P8 - Programa de acessibilidade aos serviços de justiça ampliado
+
+C - C -GESTÃO DO PROJETO
+
+P - P - A1 - Monitoramento e avaliação
+
+P - P - A2 - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - C - GOVERNANÇA E FORTALECIMENTO INSTITUCIONAL
+
+COMPONENTES
+
+P - Produto 1. Modelo de Fortalecimento da Governança do TJES implantado
+
+P - Produto 2. Plano de Gestão de Mudança implantado
+
+P - P P3 - Atendimento à população modernizado e aperfeiçoado
+
+C - TRANSFORMAÇÃO DIGITAL
+
+0,00
+
+0,00
+
+180.523,91
+
+28.345,64
+
+0,00
+
+1.909.090,91
+
+8.631.524,10
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+BID
+620.018,19
+
+25.454,55
+
+360.290,91
+
+234.272,73
+
+1.909.090,91
+
+3.621.818,18
+
+1.909.090,91
+
+2.872.727,27
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+749.090,91
+
+3.538.182,00
+
+72.727,27
+
+1.268.182,00
+
+316.000,00
+
+1.190.909,09
+
+193.454,55
+
+19.636,36
+
+45.454,55
+
+431.818,18
+
+162.382,71
+
+134.037,07
+
+28.345,64
+
+0,00
+
+1.909.090,91
+
+7.942.401,08
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+BID
+578.581,89
+
+7.272,36
+
+360.581,99
+
+210.727,54
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+3.199.091,00
+
+223.636,00
+
+2.058.182,00
+
+917.273,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.909.091,36
+
+2.712.726,63
+
+6.363.636,82
+
+14.278.181,18
+
+P - P P1 - Soluções tecnológicas para aperfeiçoamento da prestação jurisdicional implantadas
+
+1.909.091,36
+
+1.963.635,46
+
+6.363.636,82
+
+10.090.908,18
+
+P - P P2 - Política de Cibersegurança implantado
+
+C - C ? GESTÃO DOS RECURSOS ESTRATÉGICOS
+
+P - P P1 - Unificação e integração dos sistemas judiciais à PDPJ-Br
+
+P - P P2: Sistemas administrativos integrados
+
+P - P P3 Modelo de monitoramento dos dados judiciais e administrativos implantado
+
+P - P P4-Infraestrutura tecnológica modernizada
+
+P - P P5 -Definição da arquitetura da infraestrutura tecnológica
+
+P - P P6 - Serviços em nuvem implantado
+
+P - P P7- Sistema de segurança institucional modernizado
+
+P - P P8 - Programa de acessibilidade aos serviços de justiça ampliado
+
+C - C -GESTÃO DO PROJETO
+
+P - P - A1 - Monitoramento e avaliação
+
+P - P - A2 - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+749.091,17
+
+0,00
+
+4.187.273,00
+
+2.483.091,27
+
+5.045.454,18
+
+13.692.727,82
+
+72.726,92
+
+0,00
+
+316.000,00
+
+0,00
+
+0,00
+
+0,00
+
+363.636,00
+
+2.818.182,00
+
+1.580.000,00
+
+1.190.909,09
+
+5.045.454,18
+
+5.318.181,82
+
+386.909,35
+
+39.273,10
+
+45.454,35
+
+431.818,46
+
+239.086,06
+
+210.740,62
+
+28.345,44
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.507.273,00
+
+196.364,00
+
+181.818,00
+
+1.727.273,00
+
+916.509,00
+
+774.781,00
+
+141.728,00
+
+43.495.600,00
+
+1.909.091,36
+
+6.013.485,85
+
+11.409.091,00
+
+32.086.509,00
+
+Lei autorizativa da operação de crédito, a ser apreciada pela Assembleia Legislativa do Estado do Espírito Santo (minuta da Lei em
+elaboração).
+
+5.2. RISCOS/CONTRATAÇÕES
+
+CONTRATAÇÕES
+
+As principais contratações previstas estão resumidas no ANEXO TÉCNICO4 ? Quadro Resumo de Categoria dos Gastos.
+
+A seguir os principais riscos relacionados às contratações que foram identificados, e as correspondentes ações mitigatórias.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 18
+
+Risco:
+
+Atraso nas contratações devido ao baixo conhecimento da equipe do TJES das políticas de aquisições do BID.
+
+Mitigação:
+
+Capacitar todos os servidores envolvidos nas aquisições e contrataçõesnas políticas de aquisições praticadas pelo agente financeiro.
+
+Risco
+
+Atraso nas contratações devido ao baixo alinhamento entre os conhecimentos técnicos e jurídicos na gestão de contratos e na execução
+do Programa
+
+Mitigação:
+
+Contratar profissionais com expertise na temática; para apoiar na definição das especificações técnicas elaboração de Termos de
+Referência Contratação de consultores especializados na política do Banco para auxílio nos processos de contratação
+
+Integrar as unidades técnicas e jurídicas do Programa na execução do Programa
+
+Risco:
+
+Atraso no processo licitatório em função da insuficiente estrutura da CPL.
+
+Mitigação:
+
+Fortalecimento da equipe da CPL e Revisão criteriosa dos documentos da contratação e negociação prévia dos prazos com a Comissão
+de Licitação.
+
+Risco:
+
+Descumprimento de cláusulas contratuais devido à situação financeira da empresa contratada
+
+Mitigação:
+
+Adoção de critérios de seleção adequados.
+
+Risco:
+
+Gestão contratual conduzida sem estabelecimento de processo de trabalho padronizado
+
+Mitigação:
+
+Padronizar processo de trabalho para contratação em toda a organização, visando aprimorar a etapa de gestão contratual.
+
+Risco:
+
+Descontinuidade da solução contratada
+
+Mitigação:
+
+Descontinuidade da solução contratada
+
+Risco:
+
+Impossibilidade de aplicação de penalidades necessárias durante a execução do contrato
+
+Mitigação:
+
+Melhor especificação das cláusulas de penalidades no edital para comportamentos inadequados dos licitantes.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 19
+
+Risco:
+
+Dependência excessiva em relação à contratada
+
+Mitigação:
+
+Revisão dos artefatos do processo de contratação para inclusão de procedimentos relativos à transferência de conhecimentos, como
+reuniões mensais, oficinas e treinamentos, bem como os produtos esperados desses procedimentos.
+
+Risco:
+
+Fiscalização inadequada dos contratos
+
+Mitigação:
+
+Realização de capacitação e formação continuada de servidores para as funções de gestor e fiscal de contratos.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)

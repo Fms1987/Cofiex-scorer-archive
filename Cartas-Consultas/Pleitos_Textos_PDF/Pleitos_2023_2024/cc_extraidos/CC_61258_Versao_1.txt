@@ -1,0 +1,1504 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Projeto de Fortalecimento do SUS do Estado do Piauí
+Nº Carta Consulta: 61258
+Mutuário: Estado do Piauí
+Tipo de Operação: Operação de crédito externo
+Fontes Internas:
+Contrapartida Financeira: US$ 28.000.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 132.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:45
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61258
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+03
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 04
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 04
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 04
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 04
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 04
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 06
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 08
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 09
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 09
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 09
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 10
+3. FINANCIAMENTO .......................................................................................................................................................................................... 10
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 10
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 10
+4. EXECUÇÃO ...................................................................................................................................................................................................
+10
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 10
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 10
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 10
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 10
+5. RISCOS .......................................................................................................................................................................................................... 13
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 13
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 13
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 14
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 14
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 14
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 15
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+15
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:45
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61258
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+MARCO DE REFERÊNCIA -DIAGNÓSTICO
+Aspectos socioeconômicos- Apesar dos avanços nos últimos anos, o Índice de Desenvolvimento Humano (IDH) do Piauí (de 0,69, em
+2021) está classificado em 23º lugar entre as 27 unidades Federativas do Brasil (IBGE, 2024), e abaixo do IDH nacional, de 0,760 (PNUD,
+2024). Grande parte da população do estado, de 3,27 milhões de pessoas (IBGE, 2024), vive em situação de vulnerabilidade. Segundo
+dados do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS), 1,8 milhão de pessoas (55% dos
+piauienses) inscritos no Cadastro Único pertencem a famílias em situação de pobreza ou de baixa renda. A redução da pobreza está no
+Plano Plurianual (PPA) do Piauí para 2024-2027, estando entre os 8 eixos estratégicos, em linha com o Objetivo de Desenvolvimento
+Sustentável  ODS 1, Erradicação da pobreza. (797)
+Transição Demográfica- A população do estado, distribuída em 224 municípios, está passando por aceleradas mudanças demográficas. A
+proporção de idosos na população passou de 8,6% em 2000 para 15,3% em 2022, o que contribui para o aumento da carga de Doenças
+Crônicas Não Transmissíveis (DCNTs, diabetes, hipertensão, neoplasias são alguns exemplos) e, portanto, uma maior pressão sobre o
+sistema de saúde. (404)
+Perfil de morbidade e morbimortalidade. Piauí apresenta um clássico quadro de tripla carga de doenças, típico de sociedades que estão
+enfrentando a transição demográfica  com o aumento das DCNTs coexistindo com a alta incidência das doenças infectocontagiosas e uma
+ agenda materno-infantil inconclusa. (302)
+
+No Piauí, entre 2018 e 2022, as doenças do aparelho circulatório foram a principal causa de mortes (29%), seguido de neoplasias/tumores
+(13%) e causas externas (11%). As DCNTs representam, na atualidade, uma das prioridades da saúde pública. No Piauí, no período
+analisado, as DCNT corresponderam a 42% das causas de morte. As causas externas também requerem atenção das autoridades, já que
+estão entre as três primeiras causas de morte, sendo que os acidentes de trânsito representam cerca de 30% do total. (508)
+
+Quanto à saúde materna infantil, apesar dos avanços nas últimas décadas, o estado ainda enfrenta desafios importantes. Houve um
+aumento de 20% da cobertura pré-natal entre 2013 e 2022, passando de 59% para 70% , mas no mesmo período foi observado um
+aumento da taxa de mortalidade infantil (TMI) em oito das 12 regiões de saúde, com números alarmantes nas regiões do Vale do Sambito,
+Carnaubais e Chapada das Mangabeiras. A TMI de todo o estado alcançou ligeira melhora no período, passando de 19 (2013) para 18,6 (
+2022). Ainda assim, o indicador está bem acima da média nacional (de 13,31) e da região nordeste (de 14,09). (647)
+A mortalidade materna no Piauí também representa um tema de grande relevância. Entre 2013 e 2022, houve ligeira melhora no indicador
+de Razão da Mortalidade Materna -RMM, passando de 94,8 para 87,7. Contudo, o quadro encontra-se ainda muito acima da média
+nacional (de 53,5, em 2022), da média do Nordeste (de 60,7) e distante da meta do ODS 3 (de no máximo 30 óbitos por 100 mil nascidos
+vivos). (397)
+O SUS no Estado do Piauí- O SUS é a única fonte de serviços de saúde para 87,5% da população do Piauí, 2,8 milhões de pessoas. Os
+serviços estão organizados a partir de 4 Macrorregiões e 12 Regiões de saúde (Ver Anexo 1). (221)
+
+Planejamento Regional Integrado (PRI) - Regionalização e Redes de Atenção à Saúde Oficinas participativas realizadas para a elaboração
+de diagnósticos para o PRI identificaram os macroproblemas e foram priorizados para este projeto: (I) Vazios assistenciais e necessidade
+de consolidação da regionalização. Piauí tem um alto nível de cobertura da Atenção Primária (cerca de 95%), no entanto, há desafios para
+continuidade do cuidado nos níveis mais complexos do sistema. Há escasso acesso em todas as macrorregiões, para consultas, exames
+e terapias especializadas, demonstrado pelas longas filas de espera. Também foram identificadas necessidades de expansão e da
+melhora da rede hospitalar, que conta atualmente com menos leitos que os recomendados pelo Ministério da Saúde e com infraestrutura
+precária, fora das normas sanitárias vigentes. II) Necessidade de expandir serviços de telemedicina, cuja experiencia do Estado
+demonstrou êxito e resolutividade para o contexto das RAS; iii) Rede de Urgência e Emergência deficitária, com escasso acesso em
+certas regiões, considerando a alta demanda do Estado; iv) necessidade de promover o cuidado de populações vulneráveis, com
+necessidades especiais. O aumento da população idosa requer serviços dedicados a este grupo, assim como a outros, como as crianças
+pequenas, portadores de deficiência e pessoas com Transtorno do Expecto Autista; v) margens de melhora na qualidade e desempenho
+dos serviços de saúde; v) necessidade de modernização e melhora nos processos de gestão internos da SESAPI, visando a eficiência do
+gasto público, agilidade e melhores serviços aos cidadãos(1629).
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+Solução Proposta, Resultados Esperados e Sustentabilidade
+
+O Programa de Fortalecimento do SUS no Estado do Piauí (PROSUS PI) apoiará a reestruturação do SUS no Estado, orientado pela
+regionalização da saúde, consolidando as RAS nas regiões. O programa prevê a melhoria do acesso e da qualidade dos serviços públicos
+de saúde, impulsionando a inovação e aprimorando a gestão e a eficiência do gasto público. O programa atuará principalmente nas
+regiões que hoje apresentam déficits de acesso a serviços essenciais, assegurando o cuidado integral e resolutivo em todas as regiões de
+saúde e garantindo o direito à saúde especialmente para as populações mais pobres, que contam exclusivamente com o SUS (87,5 % da
+população). 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:45
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61258
+Página: 3
+Para enfrentar os desafios descritos no Diagnóstico, respaldado no PDR e PRI, o PROSUS PI será estruturado em quatro pilares, com
+foco na consolidação das RAS, em todo o Estado, priorizando o atendimento às doenças crônicas, saúde materno-infantil e causas
+externas: (i) Melhoria do acesso e qualidade dos serviços de atenção ambulatorial especializada e hospitalar, por meio da expansão,
+ampliação e reforma de unidades da rede de saúde do estado, adotando medidas de sustentabilidade ambiental (eficiência energética e
+de água) e resiliência contra eventos de câmbio climático (todos os edifícios contarão com Certificação LEED-Leadership in Energy and
+Environmental Design). Estão incluídos: a reforma, ampliação e equipagem de 10 hospitais, certificação, por qualidade, dos 4 hospitais
+regionais, ampliação do complexo materno-infantil (3 maternidades), a ampliação de serviços de emergências (com 3 novas Unidades de
+Pronto Atendimento) e a expansão da rede de policlínicas (4 novas unidades, uma para cada macrorregião de saúde, que incluem
+ambulatórios especializados para população LGBTQI+); que ofertarão consultas, exames e terapias especializadas. Todos estes
+investimentos garantirão uma atenção integral e de qualidade nas regiões, (ii) Saúde Digital, Inovação e modernização da gestão: Para
+expandir os serviços de saúde digital, tendo em conta a agenda já avançada do Estado, no tema (ver anexo 1), o PROSUS apoiará a
+expansão e o aprimoramento das soluções de saúde digital, para ampliar o acesso a serviços e melhorar a gestão da saúde, consolidando
+as RAS também por meio digital. Também promoverá o fortalecimento da capacidade institucional da SESAPI por meio de soluções
+voltadas para a melhoria da gestão dos serviços de saúde, sobretudo na área de regulação, gestão da clínica e logística. Inclui-se a
+implantação de sistemas inteligentes para gestão da cadeia de suprimentos (com a construção e equipagem de nova central de
+armazenamento), e para a gestão de convênios e contratos, de custos, e de instrumentos de planejamento no SUS (com a estruturação
+de nova central de regulação, bem como a integração de sistemas existentes). Este pilar tem um importante componente de capacitação
+dos servidores, fortalecendo competências e habilidades clínicas e preparo dos profissionais para o atendimento humanizado e sem baias,
+sobretudo quanto às minorias historicamente excluídas, como LGBTQ+, mulheres negras, moradores de rua, entre outros);  iii) Serviços
+de Cuidado. Para atender a demanda crescente e para fortalecer o direito à saúde e vida digna a grupos populacionais que demandam
+cuidados especiais, o PROSUS I apoiará a criação e implementação de serviços de cuidado específicos para estas populações
+vulneráveis, baseado nas melhores práticas nacionais e internacionais. Serão criados 4 Centros de Referência do Idoso, 4 Centros para
+Pessoa com Deficiência (incluindo deficiência intelectual, TEA) e 4 Centros de Referência para Saúde Mental (1 por macrorregião). Estes
+centros apoiarão estas populações com consultas e terapias especializadas em estreita coordenação com a APS e outros serviços da
+RAS. 
+Resultados esperados: Maior acesso a serviços especializados de saúde em todas as regiões, favorecendo uma atenção integral e
+oportuna, evitando complicações de quadros e diagnósticos tardios. Com isso, estima-se, como resultados de médio prazo da ampliação
+do acesso e da qualidade dos serviços, somado à modernização da gestão, entre outros investimentos (alguns exemplos): (i) aumento dos
+pacientes crônicos controlados, (ii) redução das hospitalizações de pacientes crônicos, (iii) redução das consultas de emergência, (iv)
+gestantes de alto risco acompanhadas segundo os protocolos; (iii) menor porcentagem de partos prematuros.
+Sustentabilidade: O Programa está alinhado com os principais instrumentos de Planejamento Governamental, especialmente com o PPA (
+Objetivos 2,3 e 4) e o Plano Estadual de Saúde 2024-2027 (Diretrizes 2,3 e 4). O Plano Regional de Investimentos-PRI e o Plano Estadual
+de Regionalização (PDR) (ver anexo 10) são os eixos orientadores dos investimentos do PROSUS PI, que foram construídos a partir das
+necessidades específicas das regiões e contaram com oficinas de ampla participação de gestores, usuários e sociedade civil, garantindo
+um planejamento com alto grau de apropriação por todos os atores. Do ponto de vista da sustentabilidade financeira, o Estado mantém
+uma austera gestão fiscal e todos os gastos correntes decorrentes de novos serviços estão afiançados pelos instrumentos de
+planejamento e orçamento, coordenados pelas Secretarias Estaduais de Fazenda e de Planejamento, como o PPA e Lei Orçamentária
+Anual. Como parte importante dos investimentos do programa visa melhorar a performance e a eficiência de serviços já existentes, estes
+já constam na programação orçamentária da SESAPI  (ver anexo 7). Os novos serviços serão incorporados, paulatinamente, nas futuras
+LOAs, tendo em conta que estão presentes no PPA e portanto, com custeio já programado pelo Estado.
+Ademais, todas as ações financiadas pelo projeto serão informadas e pactuadas em CIB (Comissão Intergestores Bipartite do Piauí) e
+validadas pelo Conselho Estadual de Saúde. Destaca-se ainda que o fortalecimento das capacidades da gestão da SESAPI se tornarão
+um ativo permanente para o Estado, mesmo após a conclusão do projeto. 
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+Como orientação estratégica prioritária, o PPA 2024-2027, o Plano Estadual de Saúde (PES) 2024-2027, o Plano Setorial Piauí Saudável
+PIS (2024-2027) e os Compromissos do Governo do Estado para o setor saúde (2023-2026). 
+No PPA (Anexo 6) e no PIS (Anexo 5), contido no PPA (Anexo 5), destacam-se o Objetivo 2 (´Garantir acesso da população, de forma
+regionalizada atenção especializada de média e alta complexidade ambulatorial e hospitalar´); o Objetivo 3 (Potencializar, modernizar e
+qualificar a gestão da saúde com disseminação dos novos modelos de gestão, inovação tecnológica e otimização de processos
+administrativos, gerenciais, financeiros, jurídicos e de fiscalização´) e o Objetivo 4 (Reduzir morbimortalidade materna, fetal e infantil,
+garantindo a equidade no acesso e a resolutividade da atenção à saúde em todos os níveis de cuidados) (ver Anexo 7). 
+O PES (Anexo 4) compreende o Plano de expansão da Média e Alta Complexidade (item 5.4 do PES, p.92) e o Plano Estadual de Gestão
+do Trabalho e da Educação em Saúde (item 5.1, p. 90). O PROSUS PI contribuirá para alcance dos compromissos do Governo Estadual
+para a setorial saúde 2023-2026, sobretudo o GC031 (modernizar hospitais regionais e de referência); GC108 (implementar políticas de
+redução da morte materna, por meio da implantação de maternidades em áreas prioritárias) e GC111 (fortalecer a assistência de média e
+alta complexidade ambulatorial e hospitalar). O Quadro 1 do PES (p.21) apresenta esse detalhamento (Anexo 9).  
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:45
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61258
+Página: 4
+Ainda, dentre as diretrizes do PES relacionadas, destacam-se a Garantia do acesso da população aos serviços da Atenção Especializada
+de Média e Alta Complexidade, Ambulatorial e Hospitalar, considerando a qualidade e segurança do paciente em todos os níveis de
+atenção e cuidado em consonância com a RAS, incorporando inovações tecnológicas? (Diretriz 2); Fortalecimento, Modernização e
+Qualificação da Gestão Estadual do SUS, a Governança Pública e a Participação e controle social? (Diretriz 3); e a Redução da
+morbimortalidade materna, fetal e infantil, garantindo a equidade no acesso e a resolutividade da atenção a saúde em todos os níveis de
+cuidados (Diretriz 4).  
+Considerando a Agenda 2030, para o Desenvolvimento Sustentável da Organização das Nações Unidas, essa ação está vinculada ao
+Objetivo 3/Meta 3.8: Atingir a cobertura universal de saúde, o acesso a serviços de saúde essenciais de qualidade e o acesso a
+medicamentos e vacinas essenciais seguros, eficazes e de qualidade. 318
+O PPA prevê recursos para implantação de novos equipamentos e para reforma, conforme sinalizado no recurso de contrapartida previsto
+no projeto. O quadro 6 do PES (p.96) apresenta a compatibilização objetivos do PPA com as diretrizes e objetivos do PES. 
+Contrapartida: A contrapartida do SESAPI é constituída do custeio do Programa Piauí Saúde Digital durante a execução do PROSUS PI,
+com a alocação de US$ 28 milhões.  
+Cotação do dólar (venda)=R$5,46, dia 7 de outubro de 2024,Banco Central
+2. Projeto
+2.1. Título
+Projeto de Fortalecimento do SUS do Estado do Piauí
+2.2. Título Abreviado
+ProSUS Piauí
+2.3. Mutuário
+Estado do Piauí
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+Objetivo Geral: O objetivo do Programa é contribuir para a melhorar as condições de saúde da população do Estado do Piauí, por meio da
+ampliação do acesso e da qualidade dos serviços, da garantia de segurança do paciente e da melhoria do desempenho da rede estadual
+de serviços do Estado.
+
+
+Objetivos Específicos:
+
+(i) Melhorar o acesso aos serviços de saúde pública do Piauí, seguindo um plano de priorização proposto pela SESAPI em alinhamento
+com os objetivos estratégicos identificados no Plano de Saúde do Estado (2024-2027) e o Plano de Regionalização da Saúde;
+
+(ii) Criar e implementar serviços para atender necessidades específicas da primeira infância e idosos;
+
+(ii) Ampliar a qualidade dos serviços prestados no Estado, incluindo a APS;
+
+(iii) Fortalecer a integração da Rede  de Atenção à Saúde do Estado;
+
+(iv) Expandir o uso de ferramentas tecnológicas para a gestão da saúde e área assistencial;
+
+(ii) Fortalecer a capacidade institucional da SESAPI e promover a melhoria da gestão geral dos serviços de saúde.
+
+2.6. Projeto/Indicadores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:45
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61258
+Página: 5
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Policlínicas Implantadas
+Número de
+Policlínicas
+implantadas
+Nº Absoluto
+0,00
+16,00
+Núcleo de Gestão de Custos implantado
+Número de núcleo de
+gestão de custos
+implantado
+Nº absoluto
+0,00
+1,00
+Núcleo de Políticas Públicas Informadas por
+Evidências para Tomada de Decisão Estratégica
+ Implantado
+Número de Núcleo de
+Políticas Públicas
+Informadas por
+Evidências implantado
+Nº absoluto
+0,00
+1,00
+Sistema de Informação de Gestão Hospitalar
+Implantado
+Número de Sistema
+de Gestão Hospitalar
+implantado
+Nº absoluto
+0,00
+1,00
+Razão de Morte Materna
+Numerador: Número
+de óbitos de mulheres
+residentes, por
+causas e condições
+consideradas de
+morte materna
+Denominador:
+Número de nascidos
+vivos de mães
+residentes Fator
+multiplicador: x 100
+Razão ( 100.000 NV)
+88,25
+74,05
+Proporção de gestantes com 6 ou mais
+consultas de pré-natal
+Numerador: Número
+de nascidos vivos de
+mulheres residentes,
+com 6 ou mais
+consultas de pré-natal
+Denominador:
+Número total de
+nascidos vivos de
+mulheres residentes
+Fator multiplicador: x
+100 
+Proporção  (100 NV)
+26,90
+45,00
+Taxa de mortalidade infantil reduzida por mil
+nascidos vivos
+Numerador: Número
+de óbitos de
+residentes com menos
+de um ano de idade
+Denominador:
+Número de nascidos
+vivos de mães
+residentes  Fator
+multiplicador: x 1000 
+Casos por 1.000 NV 
+15,78
+13,90
+Taxa de mortalidade neonatal reduzida por mil
+nascidos vivos
+Numerador: número
+de óbitos de
+residentes de 0 a 27
+dias de idade.
+Denominador: número
+de nascidos vivos de
+mães residentes.
+Fator Multiplicador: x
+1000
+Casos por 1.000 NV
+9,86
+9,74
+Número de cirurgias eletivas na Macrorregião no
+ano em relação ao anterior aprovadas no
+SIHSUS
+Total do ano atual
+menos o total do ano
+anterior dividido pelo
+total do ano anterior
+Nº absoluto
+24.538,00
+43.576,00
+Taxa de Mortalidade Geral dos leitos clínicos -
+Censo Hospitalar DUDOH/SUGMAC/SESAPI
+Relação percentual
+entre o número de
+óbitos ocorridos  em
+pacientes internados e
+o número de
+pacientes que tiveram
+saída em determinado
+ período
+Percentual
+5,00
+1,00
+Ferramenta para Gestão de Leitos Padronizada
+em todos os Hospitais de Gerenc. Estadual (
+Regionais e Capital)
+Número de
+Ferramenta
+implantada
+Nº Absoluto
+0,00
+17,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:45
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61258
+Página: 6
+Percentual de Estabelecimento Assistencial de
+Saúde-EAS com protocolo implantado
+Número de EAS  com
+protocolo implantado
+no ano
+Percentual
+0,00
+60,00
+Percentual de EAS exceto os que possuem
+leitos de UTI com no mínimo, 2 protocolos
+efetivamente implantados
+Número de EAS com
+protolo implantado no
+ano
+Percentual
+0,00
+30,00
+Acompanhar, monitorar e avaliar 100% das
+ações e indicadores de saúde no Centro de
+Inteligência Estratégica de Gestão Estadual
+CIEGESP
+Nº de CIEGES
+implementado
+Nº Absoluto
+0,00
+1,00
+2.7. Projeto/Componentes
+Componentes
+Valor(US$)
+C - C.1 CONSOLIDAÇÃO DO ACESSO E DOS SERVIÇOS NAS REDES DE ATENÇÃO À SAÚDE -
+FORTALECIMENTO
+82.609.000,00
+      P - P.1.1 Reforma e requalificação da infraestrutura de 10 hospitais de regiões de saúde
+27.207.000,00
+      P - P.1.2 10 Hospitais Equipados e Mobiliados
+10.483.000,00
+      P - P.1.3 Ampliação do complexo materno-infantil 
+27.574.000,00
+      P - P.1.4 Ampliação de serviços de emergência (UPA/pronto socorro)
+4.845.000,00
+      P - P.1.5 Ampliação da rede de central de exames/policlínicas
+12.500.000,00
+C - C.2 APRIMORAMENTO DOS PROCESSOS DE GESTÃO E INOVAÇÃO
+60.358.000,00
+      P - P.2.1 Custeio dos programas de saúde digital implementados pela SESAPI 
+50.713.000,00
+      P - P.2.2 Construção de central de armazenamento e centro de controle de insumos e medicamentos
+5.055.000,00
+      P - P.2.3 Construção e equipagem de nova central de regulação 
+1.048.000,00
+P - P.2.4. Integração de sistemas - compra de computadores e desenvolvimento de aplicativos de integração de
+sistemas existentes
+1.048.000,00
+      P - P.2.5 Construção e equipagem de nova escola de saúde pública 
+1.654.000,00
+P - P.2.6 Implantação de protocolos de classificação de riscos em urgência e emergência (como dispositivo da
+Política Nacional de Humanização) 
+202.000,00
+      P - P.2.7 Capacitação e educação permanente em gestão da saúde
+202.000,00
+      P - P.2.8 Certificação por qualidade de 4 hospitais regionais (sede de macrorregionais)
+106.000,00
+      P - P.2.9 Apoio à certificação de qualidade hospitalar
+80.000,00
+P - P.2.10. Implementação de linhas de cuidado para Doenças Crônicas Não Transmissíveis (DCNT) e materno
+infantil
+250.000,00
+C - C.3 FORTALECER MODELOS DE ATENÇÃO E CUIDADOS 
+10.433.000,00
+P - P.3.1. Construção de centros de reabilitação e centros de referência para pessoas idosas, para pessoas com
+deficiência intelectual e para apoio à saúde mental
+10.433.000,00
+C - C.4 ADMINISTRAÇÃO E AVALIAÇÃO DO PROGRAMA
+6.600.000,00
+      P - 4.1 Estruturação da gestão - Apoio ao gerenciamenteo (contratação de  Unidade de Gestão do Projeto)
+6.000.000,00
+      P - 4.2 Contratação de estudos de avaliação de Impacto e Monitoramento
+600.000,00
+Total dos Componentes
+160.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - C.1 CONSOLIDAÇÃO DO ACESSO E DOS SERVIÇOS NAS REDES DE ATENÇÃO À SAÚDE - FORTALECIMENTO
+Melhoria do acesso e qualidade dos serviços de atenção ambulatorial especializada e hospitalar, com o objetivo de expandir,
+ampliar e reformar  unidades de saúde pública do Piauí, incluindo sua modernização, equipamentos e otimização do uso de
+energia e água , além de comunicação e informação em saúde.
+      P - P.1.1 Reforma e requalificação da infraestrutura de 10 hospitais de regiões de saúde
+Modernização da rede hospitalar do estado garantindo maior acesso às ações e serviços de média e alta complexidade
+por região de saúde.
+      P - P.1.2 10 Hospitais Equipados e Mobiliados
+Melhoria nos serviços prestados pelos Hospitais com modernização de equipamentos, inovação tecnológica e implementação de
+ferramentas de gestão e do cuidado. 
+      P - P.1.3 Ampliação do complexo materno-infantil 
+Descentralizar as ações e serviços da Rede de Atenção Materna e Infantil nas 4 Macrorregiões, melhorando o acesso ao
+cuidado  em saúde.
+      P - P.1.4 Ampliação de serviços de emergência (UPA/pronto socorro)
+Implementação da Rede de Atenção às Urgências e Emergências com ampliação de Portas de urgências e Emergências (Pronto
+Socorro) e componente pré-hospitalar através de Unidades de pronto Atendimento para melhor cobertura no estado e
+regiões de saúde.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:45
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61258
+Página: 7
+      P - P.1.5 Ampliação da rede de central de exames/policlínicas
+O PRI identificou as prioridades sanitárias nas 12 regiões de saúde com a falta de acesso a consultas e exames especializados,
+que não garantem o seguimento do diagnóstico identificado na APS.
+C - C.2 APRIMORAMENTO DOS PROCESSOS DE GESTÃO E INOVAÇÃO
+Fortalecimento da capacidade institucional através de soluções voltadas para a melhoria da gestão dos serviços de saúde, como
+sistemas inteligentes para gestão da cadeia de suprimentos, gestão de convênios e contratos, gestão de custos, entre outros.
+Desenvolver soluções de TI e Saúde Digital capazes de aumentar a integração de diferentes níveis dentro do sistema de saúde, e
+entre os prestadores de serviços de saúde pública e seus usuários.
+      P - P.2.1 Custeio dos programas de saúde digital implementados pela SESAPI 
+Manter e qualificar o acesso a saúde digital através do Programa Piauí Saúde Digital em todas as regiões de saúde do estado e
+seus respectivos Municípios.
+      P - P.2.2 Construção de central de armazenamento e centro de controle de insumos e medicamentos
+Aperfeiçoar o sistema de logística e armazenamento de insumos e medicamentos da SES-PI para toda a rede estadual.
+      P - P.2.3 Construção e equipagem de nova central de regulação 
+Construir e modernizar a Central Estadual de regulação proporcionando um ambiente de trabalho satisfatório e com resultados
+mais efetivos do sistema de regulação ampliando acesso e facilitando o atendimento ao usuário do SUS, ambulatorial e hospitalar.
+P - P.2.4. Integração de sistemas - compra de computadores e desenvolvimento de aplicativos de integração de
+sistemas existentes
+Modernizar o parque tecnológico da SES-PI com mais acessibilidade, interoperabilidade e inovação de ferramentas de gestão de
+dados e desenvolvimento de aplicativos de integração de sistemas existentes. 
+      P - P.2.5 Construção e equipagem de nova escola de saúde pública 
+Construção e equipagem de nova escola de saúde pública - funcionamento e execução das capacitações teórico-práticas em
+instalações próprias, torna-se imperativo a construção de prédio arquitetônico com área equivalente a 2000m² cujas instalações
+compreendam espaço físico adequado com acessibilidade e mobilidade e inclusão, que garantam o desenvolvimento de
+metodologias vinculadas a cada área de ensino.
+P - P.2.6 Implantação de protocolos de classificação de riscos em urgência e emergência (como dispositivo da Política
+Nacional de Humanização) 
+Implementar o Protocolo de Classificação de Risco em Urgências e Emergências da Rede Estadual como dispositivo da Política
+Nacional de Humanização.
+      P - P.2.7 Capacitação e educação permanente em gestão da saúde
+Desenvolver processos de formação e aperfeiçoamento de trabalhadoras e trabalhadores em saúde como parte integrante do
+Plano Estadual de Gestão do Trabalho e Educação Permanente em Saúde; Plano Estadual de Saúde(PES)  e Planejamento
+Regional Integrado (PRI).
+      P - P.2.8 Certificação por qualidade de 4 hospitais regionais (sede de macrorregionais)
+Certificação dos hospitais sede das macrorregionais.
+      P - P.2.9 Apoio à certificação de qualidade hospitalar
+Implantar o processo de certificação de qualidade hospitalar em estabelecimentos de saúde  das macrorregiões do
+saúde do estado.
+      P - P.2.10. Implementação de linhas de cuidado para Doenças Crônicas Não Transmissíveis (DCNT) e materno infantil
+Elaborar e implantar linhas de cuidados prioritárias em conformidade com as Redes Temáticas implantadas no estado. Por
+exemplo: LC da Hipertensão e Diabetes.
+C - C.3 FORTALECER MODELOS DE ATENÇÃO E CUIDADOS 
+Fortalecimento de ações e serviços de cuidado à primeira infância e à pessoa idosa com o desenvolvimento de Políticas Públicas
+Estaduais prioritárias para esses ciclos de vida e com Equidade. Ampliar o atendimento em atenção especializada para Pessoas
+com Deficiência e em Saúde Mental. Contribuir para a consolidação do modelo assistencial em redes integradas, nas quais os
+hospitais desempenham um papel estratégico na longitudinalidade do cuidado.
+P - P.3.1. Construção de centros de reabilitação e centros de referência para pessoas idosas, para pessoas com
+deficiência intelectual e para apoio à saúde mental
+Implantar centro de referência em atendimento integral a pessoa idosa, pessoa com deficiência e saúde mental, agregando valor
+às redes temáticas da Pessoa com Deficiência, Atenção Psicossocial e Doenças Crônicas por Macrorregião de Saúde.
+C - C.4 ADMINISTRAÇÃO E AVALIAÇÃO DO PROGRAMA
+Desenvolver competências de gestão do PROSUS PI com etapas de planejamento, desenvolvimento, controle e avaliação  do
+Programa na SES-PI. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:45
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61258
+Página: 8
+      P - 4.1 Estruturação da gestão - Apoio ao gerenciamenteo (contratação de  Unidade de Gestão do Projeto)
+Apoio ao gerenciamento (contratação de  Unidade de Gestão do Projeto) - contratar e desenvolver equipes para o gerenciamento
+do PROSUS visando sua viabilidade, sustentabilidade e transparência de gestão.
+      P - 4.2 Contratação de estudos de avaliação de Impacto e Monitoramento
+Contratar e desenvolver equipes para realização de estudos como foco no monitoramento e avaliação do PROSUS/PI.
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Obras
+-
+-
+59.836.000,00
+37,40
+P- P.1.1 Reforma e requalificação da
+infraestrutura de 10 hospitais de regiões de saúde
+Valor
+27.207.000,
+00
+27.207.000,00
+17,00
+P- P.1.3 Ampliação do complexo materno-infantil 
+Valor
+27.574.000,
+00
+27.574.000,00
+17,23
+P- P.2.2 Construção de central de
+armazenamento e centro de controle de insumos
+e medicamentos
+Valor
+5.055.000,00
+5.055.000,00
+3,16
+Outros
+-
+-
+100.164.000,00
+62,60
+P- P.1.2 10 Hospitais Equipados e Mobiliados
+Valor
+10.483.000,
+00
+10.483.000,00
+6,55
+P- P.1.4 Ampliação de serviços de emergência (
+UPA/pronto socorro)
+Valor
+4.845.000,00
+4.845.000,00
+3,03
+P- P.1.5 Ampliação da rede de central de exames/
+policlínicas
+Valor
+12.500.000,
+00
+12.500.000,00
+7,81
+P- P.2.1 Custeio dos programas de saúde digital
+implementados pela SESAPI 
+Valor
+50.713.000,
+00
+50.713.000,00
+31,70
+P- P.2.3 Construção e equipagem de nova central
+de regulação 
+Valor
+1.048.000,00
+1.048.000,00
+0,66
+P- P.2.4. Integração de sistemas - compra de
+computadores e desenvolvimento de aplicativos
+de integração de sistemas existentes
+Valor
+1.048.000,00
+1.048.000,00
+0,66
+P- P.2.5 Construção e equipagem de nova escola
+de saúde pública 
+Valor
+1.654.000,00
+1.654.000,00
+1,03
+P- P.2.6 Implantação de protocolos de
+classificação de riscos em urgência e emergência
+(como dispositivo da Política Nacional de
+Humanização) 
+Valor
+202.000,00
+202.000,00
+0,13
+P- P.2.7 Capacitação e educação permanente em
+gestão da saúde
+Valor
+202.000,00
+202.000,00
+0,13
+P- P.2.8 Certificação por qualidade de 4 hospitais
+regionais (sede de macrorregionais)
+Valor
+106.000,00
+106.000,00
+0,07
+P- P.2.9 Apoio à certificação de qualidade
+hospitalar
+Valor
+80.000,00
+80.000,00
+0,05
+P- P.2.10. Implementação de linhas de cuidado
+para Doenças Crônicas Não Transmissíveis (
+DCNT) e materno infantil
+Valor
+250.000,00
+250.000,00
+0,16
+P- P.3.1. Construção de centros de reabilitação e
+centros de referência para pessoas idosas, para
+pessoas com deficiência intelectual e para apoio à
+ saúde mental
+Valor
+10.433.000,
+00
+10.433.000,00
+6,52
+P- 4.1 Estruturação da gestão - Apoio ao
+gerenciamenteo (contratação de  Unidade de
+Gestão do Projeto)
+Valor
+6.000.000,00
+6.000.000,00
+3,75
+P- 4.2 Contratação de estudos de avaliação de
+Impacto e Monitoramento
+Valor
+600.000,00
+600.000,00
+0,38
+Total Geral
+-
+-
+160.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+ETAPAS REALIZADAS
+
+O processo de Planejamento Regional Integrado (PRI) vem sendo desenvolvido desde 2021 com coordenação da SESAPI, apoio do
+Ministério da Saúde e participação Inter setorial integrando Conselho Estadual de Saúde, Conselho de Secretários Municipais de Saúde (
+COSEMS) e Universidade Federal do Piauí(UFPI/NESP) e  o Ministério da Saúde.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:45
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61258
+Página: 9
+Foi identificado e pactuado em CIB os Macroproblemas e Prioridades Sanitárias nas 4 Macrorregião de Saúde e 12 Regiões de Saúde.
+Dentre os produtos do PRI já identificamos as prioridades sanitárias e vazios assistenciais que necessitam de novos investimentos por
+parte do estado e que subsidiaram a elaboração dos instrumentos de planejamento na SES-PI (PPA 2024-2027 e PES 2024-2027).
+
+Nos esforços de consolidação das RAS, de forma a complementar os investimentos do PROSUS PI, o Estado conseguiu captar recursos
+do Governo Federal, através do Programa de Aceleração do Crescimento ? PAC, para construção de 3 policlínicas,  1 Centro de
+Especialidades e Reabilitação-CER IV, 2 maternidades de baixo risco, 1 Centro de Atenção Psicossocial e 3 Centros de Parto Normal.
+
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Estadual/Sem detalhes
+Estado do Piauí ()
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+Valor: US$ 160.000.000,00
+Periodicidade de Desembolso: Anual
+Prazo de Carência: 72 meses
+Prazo de Amortização: 228 meses
+Prazo Total: 300 meses
+Taxa de Juros: SOFR; Spread de captação; Spread de capital ordinário do BID
+Informações complementares:
+Taxa de juros (composição):
+?Índice SOFR: reajustado diariamente e composto: Hoje em 4.85%; 
+?Spread de captação: reajustado trimestralmente: Hoje em 0.40%
+?Spread de capital ordinário do BID: aprovado anualmente pelo diretório: Hoje em 0.80%
+ 
+Comissão de Crédito sobre saldo não desembolsado: 0,5% a.a. (Máximo não poderá exceder 0.75%);
+
+Necessidade de financiamento e opção pelo agente financeiro: 
+O BID tem um papel de liderança no apoio aos estados do Nordeste brasileiro para aprimorar seus sistemas de saúde e proteção social,
+com operações ativas nos estados de Sergipe, Paraíba, Ceará e Bahia. A abordagem regional está alinhada com a nova Estratégia de
+País do BID ? que visa priorizar operações nos estados do Norte e Nordeste, promovendo maiores investimentos nas regiões menos
+desenvolvidas do Brasil.
+A equipe de especialistas do BID possui um profundo conhecimento sobre as características normativas e operacionais do Sistema Único
+de Saúde (SUS) do Brasil, redes integradas de atenção à saúde (RIAS), bem como uma compreensão abrangente das especificidades
+regionais do país.
+Considerando o extenso portfólio de saúde do BID em todo o país, os valores agregados ao projeto incluem: a capacidade de adaptar
+operações considerando as especificidades regionais; um conjunto robusto de evidências baseadas nos resultados de operações
+anteriores (por exemplo, em Fortaleza, investimentos em redes de saúde e aumento da cobertura de saúde contribuíram para reduzir pela
+metade o número de AVCs); forte conhecimento em inovações, gestão aprimorada e saúde digital, com destaque para experiências bem-
+sucedidas de transformação digital em saúde no município de São Paulo. Além disso, o apoio do BID para o desenvolvimento de um
+sistema de gestão de casos no estado da Bahia (Rede Estadual de Dados em Saúde, REDS) já contribuiu para a coordenação de mais de
+ 3 milhões de consultas para 2 milhões de cidadãos.
+
+
+2.11. PROJETO/BENEFICIÁRIO
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:45
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61258
+Página: 10
+O Programa terá como beneficiários diretos todos os residentes no Estado do Piauí, já que o SUS é de acesso universal a todo cidadão
+brasileiro, ou seja, 3, 271 mil pessoas. Especialmente os piauienses que têm como SUS a sua única fonte de serviços de saúde, ou seja,
+cerca de 2, 845 mil pessoas (87% da população), que representam a população mais pobre e vulnerável do Estado.
+
+São beneficiários indiretos os trabalhadores da área da saúde, já que o programa, por um lado, aumentará empregos para estes
+profissionais e por outro, promoverá melhores condições de trabalho aos trabalhadores do SUS no Piauí.
+
+Também se espera, a exemplo de outros programas similares, benefícios econômicos indiretos, já que o aumento do fluxo de pessoas nas
+ cidades onde os serviços serão implementados ou expandidos, dinamizará a economia local. 
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Internas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Contrapartida Financeira
+CF
+US$
+28.000.000,00
+1,00
+28.000.000,00
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Banco Interamericano de Desenvolvimento
+ - BID
+BID
+US$
+132.000.000,00
+1,00
+132.000.000,00
+Total:
+160.000.000,00
+160.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+Arranjo institucional. O Projeto será executado e coordenado exclusivamente pelo Gabinete do Secretário de Saúde, por meio da Unidade
+de Coordenação do Programa- UCP, com a finalidade de gerenciar e acompanhar o andamento das atividades e monitoramento dos
+resultados, não sendo prevista a participação de nenhum outro órgão ou instituição no arranjo de execução do projeto. Adicionalmente, o
+projeto envolverá: COSEMS Piauí- Conselho de Secretários Municipais de Saúde;  Secretarias municipais de saúde; Conselho Estadual
+de Saúde. 
+Estrutura operativa: A UCP estará vinculada diretamente ao Gabinete da SESAPI e será composta por profissionais de nível superior com
+experiência de atuação em programas financiados por agências multilaterais. Esta equipe será responsável pela interface com o Banco,
+aquisições, gestão financeira e monitoramento. Terá ainda responsabilidade pela articulação com as áreas técnicas, em especial a
+Assessoria de Planejamento Estratégico, bem como com as demais instituições com participação no Programa. O suporte administrativo,
+operacionalização financeira, assessoria jurídica e assessoria de comunicação social serão prestados pelos respectivos núcleos setoriais
+e assessorias da SESAPI.
+
+A matriz de responsabilidade encontra-se no anexo 2.
+
+4.2. Execução/Executores
+Executor: Secretaria de Saúde do Estado do Piauí
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+Fax:
+CNPJ:                
+UF:  
+4.3. Execução/Prazo
+Prazo de Desembolso:
+5
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - C.1 CONSOLIDAÇÃO DO ACESSO E DOS SERVIÇOS NAS REDES DE ATENÇÃO À SAÚDE -
+ FORTALECIMENTO
+82.609.000,00
+1.038.000,00
+7.224.000,00
+      P - P.1.1 Reforma e requalificação da infraestrutura de 10 hospitais de regiões de saúde
+27.207.000,00
+100.000,00
+2.621.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:45
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61258
+Página: 11
+      P - P.1.2 10 Hospitais Equipados e Mobiliados
+10.483.000,00
+0,00
+1.048.000,00
+      P - P.1.3 Ampliação do complexo materno-infantil 
+27.574.000,00
+0,00
+2.757.000,00
+      P - P.1.4 Ampliação de serviços de emergência (UPA/pronto socorro)
+4.845.000,00
+0,00
+485.000,00
+      P - P.1.5 Ampliação da rede de central de exames/policlínicas
+12.500.000,00
+938.000,00
+313.000,00
+C - C.2 APRIMORAMENTO DOS PROCESSOS DE GESTÃO E INOVAÇÃO
+60.358.000,00
+1.763.000,00
+4.274.000,00
+      P - P.2.1 Custeio dos programas de saúde digital implementados pela SESAPI 
+50.713.000,00
+1.763.000,00
+3.309.000,00
+P - P.2.2 Construção de central de armazenamento e centro de controle de insumos e
+medicamentos
+5.055.000,00
+0,00
+506.000,00
+      P - P.2.3 Construção e equipagem de nova central de regulação 
+1.048.000,00
+0,00
+105.000,00
+P - P.2.4. Integração de sistemas - compra de computadores e desenvolvimento de aplicativos de
+ integração de sistemas existentes
+1.048.000,00
+0,00
+105.000,00
+      P - P.2.5 Construção e equipagem de nova escola de saúde pública 
+1.654.000,00
+0,00
+165.000,00
+P - P.2.6 Implantação de protocolos de classificação de riscos em urgência e emergência (como
+dispositivo da Política Nacional de Humanização) 
+202.000,00
+0,00
+20.000,00
+      P - P.2.7 Capacitação e educação permanente em gestão da saúde
+202.000,00
+0,00
+20.000,00
+      P - P.2.8 Certificação por qualidade de 4 hospitais regionais (sede de macrorregionais)
+106.000,00
+0,00
+11.000,00
+      P - P.2.9 Apoio à certificação de qualidade hospitalar
+80.000,00
+0,00
+8.000,00
+P - P.2.10. Implementação de linhas de cuidado para Doenças Crônicas Não Transmissíveis (
+DCNT) e materno infantil
+250.000,00
+0,00
+25.000,00
+C - C.3 FORTALECER MODELOS DE ATENÇÃO E CUIDADOS 
+10.433.000,00
+0,00
+1.043.000,00
+P - P.3.1. Construção de centros de reabilitação e centros de referência para pessoas idosas,
+para pessoas com deficiência intelectual e para apoio à saúde mental
+10.433.000,00
+0,00
+1.043.000,00
+C - C.4 ADMINISTRAÇÃO E AVALIAÇÃO DO PROGRAMA
+6.600.000,00
+0,00
+660.000,00
+P - 4.1 Estruturação da gestão - Apoio ao gerenciamenteo (contratação de  Unidade de Gestão
+do Projeto)
+6.000.000,00
+0,00
+600.000,00
+      P - 4.2 Contratação de estudos de avaliação de Impacto e Monitoramento
+600.000,00
+0,00
+60.000,00
+Total
+0,00
+2.801.000,00
+13.201.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - C.1 CONSOLIDAÇÃO DO ACESSO E DOS SERVIÇOS NAS REDES DE ATENÇÃO À SAÚDE -
+ FORTALECIMENTO
+2.594.000,00
+18.059.000,00
+      P - P.1.1 Reforma e requalificação da infraestrutura de 10 hospitais de regiões de saúde
+250.000,00
+6.552.000,00
+      P - P.1.2 10 Hospitais Equipados e Mobiliados
+0,00
+2.621.000,00
+      P - P.1.3 Ampliação do complexo materno-infantil 
+0,00
+6.894.000,00
+      P - P.1.4 Ampliação de serviços de emergência (UPA/pronto socorro)
+0,00
+1.211.000,00
+      P - P.1.5 Ampliação da rede de central de exames/policlínicas
+2.344.000,00
+781.000,00
+C - C.2 APRIMORAMENTO DOS PROCESSOS DE GESTÃO E INOVAÇÃO
+4.406.000,00
+10.686.000,00
+      P - P.2.1 Custeio dos programas de saúde digital implementados pela SESAPI 
+4.406.000,00
+8.272.000,00
+P - P.2.2 Construção de central de armazenamento e centro de controle de insumos e
+medicamentos
+0,00
+1.264.000,00
+      P - P.2.3 Construção e equipagem de nova central de regulação 
+0,00
+262.000,00
+P - P.2.4. Integração de sistemas - compra de computadores e desenvolvimento de aplicativos de
+ integração de sistemas existentes
+0,00
+262.000,00
+      P - P.2.5 Construção e equipagem de nova escola de saúde pública 
+0,00
+414.000,00
+P - P.2.6 Implantação de protocolos de classificação de riscos em urgência e emergência (como
+dispositivo da Política Nacional de Humanização) 
+0,00
+51.000,00
+      P - P.2.7 Capacitação e educação permanente em gestão da saúde
+0,00
+51.000,00
+      P - P.2.8 Certificação por qualidade de 4 hospitais regionais (sede de macrorregionais)
+0,00
+27.000,00
+      P - P.2.9 Apoio à certificação de qualidade hospitalar
+0,00
+20.000,00
+P - P.2.10. Implementação de linhas de cuidado para Doenças Crônicas Não Transmissíveis (
+DCNT) e materno infantil
+0,00
+63.000,00
+C - C.3 FORTALECER MODELOS DE ATENÇÃO E CUIDADOS 
+0,00
+2.608.000,00
+P - P.3.1. Construção de centros de reabilitação e centros de referência para pessoas idosas,
+para pessoas com deficiência intelectual e para apoio à saúde mental
+0,00
+2.608.000,00
+C - C.4 ADMINISTRAÇÃO E AVALIAÇÃO DO PROGRAMA
+0,00
+1.650.000,00
+P - 4.1 Estruturação da gestão - Apoio ao gerenciamenteo (contratação de  Unidade de Gestão
+do Projeto)
+0,00
+1.500.000,00
+      P - 4.2 Contratação de estudos de avaliação de Impacto e Monitoramento
+0,00
+150.000,00
+Total
+0,00
+7.000.000,00
+33.003.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - C.1 CONSOLIDAÇÃO DO ACESSO E DOS SERVIÇOS NAS REDES DE ATENÇÃO À SAÚDE -
+ FORTALECIMENTO
+3.113.000,00
+21.671.000,00
+      P - P.1.1 Reforma e requalificação da infraestrutura de 10 hospitais de regiões de saúde
+300.000,00
+7.862.000,00
+      P - P.1.2 10 Hospitais Equipados e Mobiliados
+0,00
+3.145.000,00
+      P - P.1.3 Ampliação do complexo materno-infantil 
+0,00
+8.272.000,00
+      P - P.1.4 Ampliação de serviços de emergência (UPA/pronto socorro)
+0,00
+1.454.000,00
+      P - P.1.5 Ampliação da rede de central de exames/policlínicas
+2.813.000,00
+938.000,00
+C - C.2 APRIMORAMENTO DOS PROCESSOS DE GESTÃO E INOVAÇÃO
+5.288.000,00
+12.820.000,00
+      P - P.2.1 Custeio dos programas de saúde digital implementados pela SESAPI 
+5.288.000,00
+9.926.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:45
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61258
+Página: 12
+P - P.2.2 Construção de central de armazenamento e centro de controle de insumos e
+medicamentos
+0,00
+1.517.000,00
+      P - P.2.3 Construção e equipagem de nova central de regulação 
+0,00
+314.000,00
+P - P.2.4. Integração de sistemas - compra de computadores e desenvolvimento de aplicativos de
+ integração de sistemas existentes
+0,00
+314.000,00
+      P - P.2.5 Construção e equipagem de nova escola de saúde pública 
+0,00
+496.000,00
+P - P.2.6 Implantação de protocolos de classificação de riscos em urgência e emergência (como
+dispositivo da Política Nacional de Humanização) 
+0,00
+61.000,00
+      P - P.2.7 Capacitação e educação permanente em gestão da saúde
+0,00
+61.000,00
+      P - P.2.8 Certificação por qualidade de 4 hospitais regionais (sede de macrorregionais)
+0,00
+32.000,00
+      P - P.2.9 Apoio à certificação de qualidade hospitalar
+0,00
+24.000,00
+P - P.2.10. Implementação de linhas de cuidado para Doenças Crônicas Não Transmissíveis (
+DCNT) e materno infantil
+0,00
+75.000,00
+C - C.3 FORTALECER MODELOS DE ATENÇÃO E CUIDADOS 
+0,00
+3.130.000,00
+P - P.3.1. Construção de centros de reabilitação e centros de referência para pessoas idosas,
+para pessoas com deficiência intelectual e para apoio à saúde mental
+0,00
+3.130.000,00
+C - C.4 ADMINISTRAÇÃO E AVALIAÇÃO DO PROGRAMA
+0,00
+1.980.000,00
+P - 4.1 Estruturação da gestão - Apoio ao gerenciamenteo (contratação de  Unidade de Gestão
+do Projeto)
+0,00
+1.800.000,00
+      P - 4.2 Contratação de estudos de avaliação de Impacto e Monitoramento
+0,00
+180.000,00
+Total
+0,00
+8.401.000,00
+39.601.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - C.1 CONSOLIDAÇÃO DO ACESSO E DOS SERVIÇOS NAS REDES DE ATENÇÃO À SAÚDE -
+ FORTALECIMENTO
+2.594.000,00
+18.059.000,00
+      P - P.1.1 Reforma e requalificação da infraestrutura de 10 hospitais de regiões de saúde
+250.000,00
+6.552.000,00
+      P - P.1.2 10 Hospitais Equipados e Mobiliados
+0,00
+2.621.000,00
+      P - P.1.3 Ampliação do complexo materno-infantil 
+0,00
+6.894.000,00
+      P - P.1.4 Ampliação de serviços de emergência (UPA/pronto socorro)
+0,00
+1.211.000,00
+      P - P.1.5 Ampliação da rede de central de exames/policlínicas
+2.344.000,00
+781.000,00
+C - C.2 APRIMORAMENTO DOS PROCESSOS DE GESTÃO E INOVAÇÃO
+4.406.000,00
+10.686.000,00
+      P - P.2.1 Custeio dos programas de saúde digital implementados pela SESAPI 
+4.406.000,00
+8.272.000,00
+P - P.2.2 Construção de central de armazenamento e centro de controle de insumos e
+medicamentos
+0,00
+1.264.000,00
+      P - P.2.3 Construção e equipagem de nova central de regulação 
+0,00
+262.000,00
+P - P.2.4. Integração de sistemas - compra de computadores e desenvolvimento de aplicativos de
+ integração de sistemas existentes
+0,00
+262.000,00
+      P - P.2.5 Construção e equipagem de nova escola de saúde pública 
+0,00
+414.000,00
+P - P.2.6 Implantação de protocolos de classificação de riscos em urgência e emergência (como
+dispositivo da Política Nacional de Humanização) 
+0,00
+51.000,00
+      P - P.2.7 Capacitação e educação permanente em gestão da saúde
+0,00
+51.000,00
+      P - P.2.8 Certificação por qualidade de 4 hospitais regionais (sede de macrorregionais)
+0,00
+27.000,00
+      P - P.2.9 Apoio à certificação de qualidade hospitalar
+0,00
+20.000,00
+P - P.2.10. Implementação de linhas de cuidado para Doenças Crônicas Não Transmissíveis (
+DCNT) e materno infantil
+0,00
+63.000,00
+C - C.3 FORTALECER MODELOS DE ATENÇÃO E CUIDADOS 
+0,00
+2.608.000,00
+P - P.3.1. Construção de centros de reabilitação e centros de referência para pessoas idosas,
+para pessoas com deficiência intelectual e para apoio à saúde mental
+0,00
+2.608.000,00
+C - C.4 ADMINISTRAÇÃO E AVALIAÇÃO DO PROGRAMA
+0,00
+1.650.000,00
+P - 4.1 Estruturação da gestão - Apoio ao gerenciamenteo (contratação de  Unidade de Gestão
+do Projeto)
+0,00
+1.500.000,00
+      P - 4.2 Contratação de estudos de avaliação de Impacto e Monitoramento
+0,00
+150.000,00
+Total
+0,00
+7.000.000,00
+33.003.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BID
+CF
+BID
+C - C.1 CONSOLIDAÇÃO DO ACESSO E DOS SERVIÇOS NAS REDES DE ATENÇÃO À SAÚDE -
+ FORTALECIMENTO
+1.036.000,00
+7.221.000,00
+10.375.000,00
+72.234.000,00
+      P - P.1.1 Reforma e requalificação da infraestrutura de 10 hospitais de regiões de saúde
+100.000,00
+2.620.000,00
+1.000.000,00
+26.207.000,00
+      P - P.1.2 10 Hospitais Equipados e Mobiliados
+0,00
+1.048.000,00
+0,00
+10.483.000,00
+      P - P.1.3 Ampliação do complexo materno-infantil 
+0,00
+2.757.000,00
+0,00
+27.574.000,00
+      P - P.1.4 Ampliação de serviços de emergência (UPA/pronto socorro)
+0,00
+484.000,00
+0,00
+4.845.000,00
+      P - P.1.5 Ampliação da rede de central de exames/policlínicas
+936.000,00
+312.000,00
+9.375.000,00
+3.125.000,00
+C - C.2 APRIMORAMENTO DOS PROCESSOS DE GESTÃO E INOVAÇÃO
+1.762.000,00
+4.267.000,00
+17.625.000,00
+42.733.000,00
+      P - P.2.1 Custeio dos programas de saúde digital implementados pela SESAPI 
+1.762.000,00
+3.309.000,00
+17.625.000,00
+33.088.000,00
+P - P.2.2 Construção de central de armazenamento e centro de controle de insumos e
+medicamentos
+0,00
+504.000,00
+0,00
+5.055.000,00
+      P - P.2.3 Construção e equipagem de nova central de regulação 
+0,00
+105.000,00
+0,00
+1.048.000,00
+P - P.2.4. Integração de sistemas - compra de computadores e desenvolvimento de aplicativos de
+ integração de sistemas existentes
+0,00
+105.000,00
+0,00
+1.048.000,00
+      P - P.2.5 Construção e equipagem de nova escola de saúde pública 
+0,00
+165.000,00
+0,00
+1.654.000,00
+P - P.2.6 Implantação de protocolos de classificação de riscos em urgência e emergência (como
+dispositivo da Política Nacional de Humanização) 
+0,00
+19.000,00
+0,00
+202.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:45
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61258
+Página: 13
+      P - P.2.7 Capacitação e educação permanente em gestão da saúde
+0,00
+19.000,00
+0,00
+202.000,00
+      P - P.2.8 Certificação por qualidade de 4 hospitais regionais (sede de macrorregionais)
+0,00
+9.000,00
+0,00
+106.000,00
+      P - P.2.9 Apoio à certificação de qualidade hospitalar
+0,00
+8.000,00
+0,00
+80.000,00
+P - P.2.10. Implementação de linhas de cuidado para Doenças Crônicas Não Transmissíveis (
+DCNT) e materno infantil
+0,00
+24.000,00
+0,00
+250.000,00
+C - C.3 FORTALECER MODELOS DE ATENÇÃO E CUIDADOS 
+0,00
+1.044.000,00
+0,00
+10.433.000,00
+P - P.3.1. Construção de centros de reabilitação e centros de referência para pessoas idosas,
+para pessoas com deficiência intelectual e para apoio à saúde mental
+0,00
+1.044.000,00
+0,00
+10.433.000,00
+C - C.4 ADMINISTRAÇÃO E AVALIAÇÃO DO PROGRAMA
+0,00
+660.000,00
+0,00
+6.600.000,00
+P - 4.1 Estruturação da gestão - Apoio ao gerenciamenteo (contratação de  Unidade de Gestão
+do Projeto)
+0,00
+600.000,00
+0,00
+6.000.000,00
+      P - 4.2 Contratação de estudos de avaliação de Impacto e Monitoramento
+0,00
+60.000,00
+0,00
+600.000,00
+Total
+160.000.000,00
+2.798.000,00
+13.192.000,00
+28.000.000,00
+132.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+O arcabouço legal que respalda a execução das atividades do PROSUS já está implementado. Entre os principais ato legais necessários
+para a implementação das atividades estão a aprovação do Plano Plurianual de Ação Governamental (PPA) 2024-2027 do estado do Piauí
+ (Lei nº 5.388 de 09/01/2024) e leis orçamentárias que prevê os investimentos do PROSUS, no seu escopo.
+
+A Resolução Nº 001/2024, do Conselho Estadual de Saúde do Piauí que aprova e reconhece o Plano Estadual de Saúde PES 2024-2027
+como instrumento norteador das políticas de saúde no estado do Piauí, refletindo o compromisso com a qualidade e efetividade dos
+serviços prestados à população.
+
+A RESOLUÇÃO CIB-PI Nº 004/2024 que aprovou a implantação da região da Chapada Vale do Rio Itaim como a 12ª Região de Saúde,
+tendo Paulistana como município-sede. 
+
+Também é importante destacar que, caso o pleito deste financiamento seja aprovado pelas autoridades federais competentes, será
+tramitada a lei autorizativa a este empréstimo, junto à Assembleia Estadual, cuja tramitação será gerida pela Secretaria de Saúde,
+Secretaria de Planejamento e Gabinete do Governador do Estado do Piauí. 
+
+Os principais riscos estariam associados ao atraso na elaboração dos documentos preparatórios de licitação, tais como: editais, termos de
+referências, projetos executivos e complementares. Tais riscos serão mitigados por meio da capacitação da Unidade de Coordenação do
+Programa- UCP, pelo Banco, nas políticas de aquisição do BID, gestão financeira e gestão de projetos.  Além do mais, se prevê um
+monitoramento contínuo as atividades, através de reuniões periódicas e pelo uso de ferramentas de gestão de projetos, para que haja
+uma gestão proativa de problemas de execução. 
+Também foi identificado um risco baixo de falta de recursos para custeio dos novos serviços. Como explicado na sessão de
+sustentabilidade, o Estado do Piauí conta com uma gestão fiscal austera e somente autoriza abertura de novos serviços mediante
+compatibilização do seu custeio nas contas do Estado, expressas nos orçamentos anuais.
+Um risco médio foi identificado quanto à transição de governo, por conta das eleições estaduais em 2026. Para mitigar este risco, será
+realizado um monitoramento intensificado no período de transição, garantindo estreita coordenação com as equipes de transição para
+assegurar que tenham todas as informações acerca do projeto, para que haja uma gestão tranquila, sem descontinuidade das atividades.
+Quanto aos riscos legais, que são baixos também, já que as atividades do programa estão no escopo do cotidiano da SESAPI, sendo
+documentos e legislações dominadas pelas equipes e de uso rotineiro.
+
+
+5.2. RISCOS/CONTRATAÇÕES
+As principais contratações estão vinculadas aos produtos listados nos componentes do projeto. Será necessária a contratação de obras,
+bens, consultorias e serviços. Está prevista, ainda, a contratação de profissionais para a viabilização da execução das ações,
+especialmente no interior, em interface com os municípios.
+
+Para os novos serviços que serão implementados, serão contratados profissionais de saúde por meio de Organizações Sociais, que serão
+licitadas em coordenação com o cronograma das obras, para garantir o início imediato das atividades, uma vez que a obra seja concluída.
+O Estado do PI tem experiencia nesta modalidade de contratação, que tem se mostrado eficaz e eficiente para a gestão de alguns
+serviços da sua rede. Os recursos financeiros referentes ao custeio destes recursos humanos estarão previstos nas correspondentes
+LOAs, como explicado na seção de sustentabilidade.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:45
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61258
+Página: 14
+A atual equipe da SESAPI tem experiência em contratações por meio de empréstimos internacionais. Atualmente se encontram finalizando
+um projeto com o Banco Mundial, Projeto de Investimento em saúde e proteção social para recuperação do desenvolvimento humano Pós
+COVID 19. O Banco Mundial tem políticas de aquisição e de gestão financeira similares ao do BID. No entanto, destaca-se que o BID
+apoiará a equipe da SESAPI, por meio de capacitações em suas políticas, para reforçar e alinhar estas competências com as
+necessidades do PROSUS PI.
+
+Os principais riscos estariam associados ao atraso na elaboração dos documentos preparatórios de licitação, tais como: editais, termos de
+referências, projetos executivos e complementares. Tais riscos serão mitigados por meio da capacitação da Unidade de Coordenação do
+Programa- UCP, pelo Banco, nas políticas de aquisição do BID, gestão financeira e gestão de projetos.  Além do mais, se prevê um
+monitoramento contínuo as atividades, através de reuniões periódicas e pelo uso de ferramentas de gestão de projetos, para que haja
+uma gestão proativa de problemas de execução. 
+
+Também foi identificado um risco baixo de falta de recursos para custeio dos novos serviços. Como explicado na sessão de
+sustentabilidade, o Estado do Piauí conta com uma gestão fiscal austera e somente autoriza abertura de novos serviços mediante
+compatibilização do seu custeio nas contas do Estado, expressas nos orçamentos anuais.
+
+Um risco médio foi identificado quanto à transição de governo, por conta das eleições estaduais em 2026. Para mitigar este risco, será
+realizado um monitoramento intensificado no período de transição, garantindo estreita coordenação com as equipes de transição para
+assegurar que tenham todas as informações acerca do projeto, para que haja uma gestão tranquila, sem descontinuidade das atividades.
+
+Quanto aos riscos legais, que são baixos também, já que as atividades do programa estão no escopo do cotidiano da SESAPI, sendo
+documentos e legislações dominadas pelas equipes e de uso rotineiro.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+RISCOS AMBIENTAIS:
+
+Empreendimentos de infraestrutura, pela própria natureza e caráter sistêmico, podem provocar impactos no meio ambiente. No caso do
+PROSUS Piauí, isto se aplica notadamente nos territórios onde acontecerão as construções das novas unidades saúde (policlínicas e
+centros de referência). Estes impactos serão pontuais durante o período das obras.
+
+O projeto inclui sustentabilidade e medidas de preservação ambiental. Será usado um sistema alinhado com os padrões do Marco de
+Política Ambiental e Social (MPAS) do BID para mitigar riscos e melhorar os resultados ambientais e sociais ao longo do projeto. As
+diretrizes importantes incluem a avaliação e gestão de riscos e impactos sociais e ambientais, além da conservação da biodiversidade e
+gestão sustentável dos recursos naturais.
+
+As melhores práticas internacionais do BID serão aplicadas, respeitando as leis nacionais e estaduais, como a Política Nacional do Meio
+Ambiente: Definida pela Lei Complementar nº 140/2011, As empresas contratadas serão orientadas e fiscalizadas para cumprir a
+legislação brasileira e do Estado do Piauí, além das salvaguardas ambientais do BID.
+
+Durante a operação dos serviços haverá ganhos substantivos de sustentabilidade ambiental, já que todos terão certificação LEED (
+Leadership in Energy and Enviromental Design), garantindo a eficiência do uso de água e energia, assim como gestão de resíduos sólidos
+ de saúde de alto nível de segurança ambiental,
+
+
+5.5. RISCOS/IMPACTO SOCIAL
+O Programa PROSUS PI não estima riscos sociais. Como seus investimentos proporcionarão melhores serviços de saúde à população,
+especialmente a mais pobre e vulnerável, se estimam benefícios sociais.
+
+Como não estão previstos reassentamentos ou movimentação de pessoas e de comércio nas localidades, também não são estimados
+riscos sociais por conta destes aspectos. Ao contrário, se estimam impactos sociais positivos, ao dinamizar as regiões com fluxo de
+pessoas para serem atendidas nos serviços, beneficiando a economia local.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:45
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61258
+Página: 15
+5.6. RISCOS/REASSENTAMENTOS
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 

@@ -1,0 +1,2425 @@
+# Carta-Consulta CC_61076 — Versao 2 (SIGS)
+
+
+Programa de Sustentabilidade Fiscal, Eficiência e Eficácia dos Gastos Públicos do Estado
+do Amazonas
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 61076
+Processo: 03101.000194/2024-89
+Mutuário: Estado do Amazonas
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  12 de Janeiro de 2024
+
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 60.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+A sustentabilidade fiscal é o desafio macroeconômico mais urgente para o Brasil. O governo federal adotou uma nova âncora fiscal e
+teceu outros ajustes para alargar o espaço fiscal e cobrir o custo da resposta governamental aos choques financeiros ocasionados pela
+pandemia entre 2020 e 2021. Anteriormente, foram adotadas medidas que apoiaram o limite máximo de despesas, como a reforma na
+previdência adotada em 2019, um congelamento dos salários do serviço público e um controle rigoroso das despesas discricionárias,
+inclusive a nível subnacional. Os governos estaduais do Brasil geralmente espelham as suas reformas nas ações realizadas a nível federal
+, e com uma situação fiscal grave, dependem de medidas significativas na contenção de despesas. Antes da pandemia, 7 dos 26 estados
+brasileiros e o Distrito Federal haviam declarado estado de calamidade fiscal limitada relacionada com preocupações de liquidez e
+solvência. Além disso, 17 dos 27 governos estaduais não eram elegíveis para contrair empréstimos em consonância com as regras
+federais devido às preocupações de liquidez e solvência. Nesse contexto, 20 governos estaduais atrasaram pagamentos a servidores e/ou
+prestadores públicos em algum momento. Em 2020 e 2021, os governos estaduais registraram melhores resultados fiscais devido às
+grandes transferências federais para enfrentar a pandemia da COVID-19 (em valores próximos a 1.4% do PIB), por meio do programa do
+Auxílio Emergencial. Estas transferências ajudaram a manter um nível razoável de atividade econômica e contribuíram para o aumento
+das receitas fiscais. Entretanto, a temporalidade destas medidas deteriorou a posição fiscal dos Estados, quando a dependência da
+retomada do crescimento econômico requer a implementação de medidas estruturantes para a manutenção em patamares positivos. O
+cenário fiscal dos Estados consolidado ao final de 2022 é mais positivo, já com sete estados classificados de acordo com os parâmetros
+da Secretaria do Tesouro Nacional com a capacidade de pagamento (Capag) do tipo A, e apenas seis estados classificados nos tipos C
+ou D. Dentre estes, destaca-se o Estado do Amazonas, que diante de um combinado de medidas de racionalização do gasto público
+implementadas, permanece com a avaliação ?B?, sendo já avaliado como ?A? nos indicadores de endividamento (DCL/RCL) e liquidez.
+
+No Amazonas, assim como no país, o cenário é de baixa capacidade de investimento, despesas obrigatórias crescentes e despesas
+discricionárias decrescentes, a despeito do aumento do volume de investimentos pelo Tesouro Direto nos últimos dois anos. Uma das
+principais fragilidades do Estado continua sendo a tendência estrutural de aumento da despesa corrente obrigatória, com elevado grau de
+rigidez orçamentária. A margem de recursos públicos disponíveis para os gastos necessários à realização das políticas públicas é
+continuamente menor, destinando-se grande parte dos recursos arrecadados para despesas vinculadas e obrigatórias, que não estão
+associadas a melhor desempenho ou efetividade das políticas públicas. Nesse sentido, o Estado emitiu um decreto referente a contenção
+de despesas.
+
+Em momentos pretéritos, apenas o aumento da receita seria suficiente para viabilizar o crescimento da despesa, sendo, em alguns casos,
+substituído ou complementado por inflação e por aumento da dívida pública. A impossibilidade de reduzir substancialmente o quadro de
+pessoal no curto prazo exigirá medidas de contenção de gastos não apenas na folha de pagamento, mas nas compras públicas, gestão
+patrimonial e gestão dos recursos alocados nas áreas responsáveis pela entrega de serviços públicos como a Secretaria de Estado da
+Saúde (SES), Secretaria de Estado de Assistência Social (SEAS), e Secretaria de Estado de Desenvolvimento Econômico, Ciência,
+Tecnologia e Inovação juntamente com a Secretaria de Estado de Infraestrutura (SEINFRA).
+
+O Estado de Amazonas reconhece os benefícios providos pelo Programa Progestão e solicita a assistência do Banco Mundial para
+consolidar reformas recentes e melhorar a eficiência dos sistemas de gestão corporativos e de gestão fiscal, financeira e patrimonial nas
+áreas abrangidas pelo Programa Progestão, nos limites do escopo estabelecido pelo inciso I do § 3º, do art. 7º da Resolução 43/2001 do
+Senado Federal (RSF 43/2001). Assim sendo, o Progestão Amazonas apoiará a gestão na redução das ineficiências do gasto público por
+meio de investimentos em reformas de gestão e sistemas de informação especificamente relacionados a: gestão de recursos humanos,
+previdência, compras públicas, gestão de investimentos públicos e orçamento, estatais, e gestão de ativos. O Programa também apoiará
+investimentos em reformas de gestão e sistemas financeiros em três setores estratégicos: saúde, educação e assistência social, a fim de
+melhorar a eficiência fiscal e financeira. Ainda, as medidas são essenciais para o cumprimento das metas do Programa de Reestruturação
+e de Ajuste Fiscal (PAF).
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+Gestão Financeira, Fiscal e Patrimonial para Setores Transversais do Governo
+
+Este conjunto de soluções visa otimizar a administração pública em diversas áreas, abrangendo cinco subcomponentes: (i) racionalização
+do gasto com pessoal ativo; (ii) racionalização do gasto com pessoal inativo; (iii) modernização de compras públicas; (iv) racionalização
+dos investimentos públicos; e (v) racionalização de gastos com patrimônio.
+
+Racionalização do Gasto com Pessoal Ativo
+
+Um Novo Sistema Integrado de Gestão de Pessoas é proposto, incorporando subprodutos como levantamento de normativas,
+implementação de sistema de gestão de recursos humanos, modernização das funções, impacto fiscal, consignação da folha de
+pagamento, reestruturação da escola de servidores públicos e hardware operacional. Adicionalmente, um Sistema de Auditoria
+Automatizada da Folha de Pagamento é apresentado, incluindo diagnóstico de processos, trilhas de auditoria, identificação de melhorias,
+painel gerencial e hardware.
+
+Racionalização do Gasto com Pessoal Inativo
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+Para o gasto com pessoal inativo, propõe-se um Sistema de Análise e Projeções Previdenciárias, incorporando ferramenta de análise de
+dados, modelos preditivos, capacitação operacional e hardware. Além disso, um Sistema de Revisão de Investimentos Previdenciários é
+sugerido, envolvendo diagnóstico de gestão de riscos, avaliação de limitações, modelagem de revisão de investimentos e hardware.
+
+Modernização de Compras Públicas
+
+No âmbito de compras públicas, é proposto um Sistema de Gestão de Compras e Contratos Públicos Estadual, com melhoramentos no
+sistema, metodologia de strategic sourcing, automação de processos, estruturação de e-marketplace, certificação de gestores e aquisição
+de hardware. Além disso, um Sistema de Gestão e Monitoramento de Obras é apresentado, incorporando melhoramentos, metodologia de
+acompanhamento, funcionalidades de registro, painéis de monitoramento, ferramenta de gestão de riscos e hardware.
+
+Redução do Custo da Dívida e Racionalização dos Investimentos Públicos
+
+A redução do custo da dívida e a racionalização dos investimentos públicos são abordadas por meio da Modernização do Sistema de
+Gestão de Investimentos Públicos, que inclui o desenvolvimento e implementação de sistema de gestão de projetos, preparação de
+portfólio, metodologia de governança, sistematização de indicadores e aquisição de hardware. Adicionalmente, propõe-se um Sistema de
+Gestão de Planejamento, Governança e Gestão, envolvendo revisão e implementação de metodologia integrada de planejamento,
+modernização do sistema de gestão de incentivos fiscais e aquisição de equipamentos. Um Sistema de Controle e Integridade no Uso dos
+Recursos Públicos é sugerido, compreendendo desenvolvimento e implantação de sistema, modelo de governança e aquisição de
+equipamentos.
+
+Racionalização de Gastos com Patrimônio
+
+A gestão patrimonial propõe uma Auditoria para a Aderência de Contabilidade (requisito STN), incluindo auditoria para evidenciação
+correta do patrimônio público, identificação de boas práticas, plano de implementação e estrutura de governança. Um Inventário,
+Regularização e Sistema de Gestão de Bens Móveis e Imóveis é apresentado, abrangendo levantamento de bens, caracterização
+detalhada, diagnóstico e atualização normativa, gestão de riscos e aquisição de hardware. Já o Sistema de Gestão de Patrimônio de TIC
+envolve desenho de processos, mapeamento de sistemas existentes, implementação de integrações, tecnologias de segurança e
+aquisição de equipamentos.
+
+Gestão Financeira, Fiscal e Patrimonial em Setores Estratégicos do Governo
+
+Nos setores estratégicos, as soluções incluem a racionalização do gasto na saúde e no social.
+
+Racionalização do Gasto na Saúde
+
+Um Sistema de Gestão de Serviços de Saúde é proposto, englobando melhorias no sistema, implementação de prontuário eletrônico,
+monitoramento de indicadores e aquisição de hardware. Além disso, um Sistema de Auditoria de Contas Hospitalares é sugerido,
+envolvendo diagnóstico de processos, implementação de sistema de auditoria, monitoramento e aquisição de hardware.
+
+Racionalização do Gasto no Social
+
+Nesse sentido, a continuidade do investimento na assistência social é necessária por meio da modernização do processo de preparação
+dos planos de serviços para execução de recursos e prestação de contas. A prestação de contas dos recursos  epassados aos municípios
+deve estar sob a gestão do governo local, aprovada por uma instância de controle social e reportada à SEAS. Um sistema
+computadorizado é extremamente importante para melhorar a eficiência e a eficácia da proteção social do Estado, bem como suprir as
+prefeituras com dados consolidados sobre os atendimentos realizados, a fim de qualificar a gestão orçamentária, administrativa e
+financeira da área.
+
+Aquisição de Hardware
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+Finalmente, a Aquisição de Hardware inclui levantamento de necessidades, especificações técnicas, procedimentos licitatórios e
+implementação de soluções tecnológicas para equipamentos de TI, infraestrutura e modernização dos órgãos públicos.
+
+Em resumo, a implementação eficaz destas soluções promete benefícios como a redução de custos, melhor governança e maior
+capacidade de atendimento às demandas da sociedade.
+
+SUSTENTABILIDADE
+
+A quantificação pormenorizada de custo-benefício das soluções dependerá de cálculos desenvolvidos na preparação da operação, mas se
+estimam ganhos financeiros de escala em todos os subcomponentes do projeto. De forma conservadora, a taxa interna de retorno é
+prevista em ao menos 50%. Após o período de implementação do projeto, os recursos para garantir a sustentabilidade de longo prazo dos
+sistemas financiados conterá os custos de manutenção (custeio) e reposição. Estudos de impacto financeiro serão integrados ao processo
+decisório nos casos das atividades em que ainda não há uma certeza sobre a implementação de uma nova solução tecnológica, sua
+atualização, ou uma via alternativa, em consonância com o planejamento de longo prazo do Estado de Amazonas. Para os sistemas que
+já possuem um arranjo de implementação definido, serão considerados o percentual para manutenção em custos de licenças,
+desenvolvimento evolutivo e manutenção. Estes custos partirão de estudos de mercado e de outros contratos gerenciados pelo Estado,
+com uma estimativa possível de até 25% do custo total da implementação para a manutenção atual destes sistemas.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+O projeto Progestão e sua Articulação Estratégica
+
+O Progestão está alinhado ao Plano Plurianual e aos planos estratégicos setoriais do Poder Executivo. Os programas específicos
+envolvidos são Gestão Administrativa, Fiscal, Financeira, Contábil e Orçamentária; Gestão e Serviços ao Estado; Programa de Apoio à
+Gestão da Fundação AmazonPrev; Programa de Apoio Administrativo; e Simplifica Amazonas.
+
+Fonte: https://www.sedecti.am.gov.br/plano-plurianual-ppa-2024-2027/
+
+Alinhamento com a AmazonPrev e Planejamento Estratégico
+
+O Progestão se harmoniza com o Planejamento Estratégico da AmazonPrev, enfocando eficácia operacional, conhecimento aprimorado
+em processos previdenciários, atendimento contínuo e seguro, infraestrutura adequada para alta performance e minimização de riscos.
+Esta convergência visa fortalecer a gestão previdenciária no estado.
+
+Integração ao Mapa Estratégico do Estado
+
+O Progestão dialoga com o Mapa Estratégico do Estado, notadamente na área "Desburocratização e Governo Digital", buscando
+descomplicar, simplificar e modernizar a administração pública e serviços através da inovação e colaboração. A área de "Sustentabilidade
+e Qualidade do Gasto Público" também se alinha ao projeto.
+
+Contribuição para a Gestão Fiscal e Financeira Responsável
+
+O projeto atende aos interesses do Tesouro Nacional, promovendo gestão fiscal, financeira e patrimonial responsável. Essa
+responsabilidade é vital para o desenvolvimento econômico do país, reduzindo despesas e aprimorando a eficácia e eficiência do gasto
+público.
+
+Integração Nacional e Internacional
+
+O Progestão busca harmonizar as soluções federais com os desafios estaduais, colaborando com o arranjo institucional estratégico. A
+parceria com o Banco Mundial exemplifica essa busca, visando evitar gastos desnecessários e criar sinergias entre os entes federativos.
+
+Relevância e Necessidade de Recursos Externos
+
+Dada a complexidade do projeto e sua demanda por recursos substanciais, a busca de fontes externas, como a parceria com o Banco
+Mundial, é essencial. A expertise do Banco em projetos complexos e a possibilidade de contratação de consultorias especializadas
+justificam essa escolha.
+
+Contrapartida e Valor em Dólares
+
+A contrapartida virá dos recursos do tesouro estadual. A elaboração do programa considerou o dólar norte-americano como moeda de
+referência, com a taxa de câmbio de US$ 1 = R$ 4,96 (taxa do dia 25/09/2023). Estabelecida em 10% de cordo com a Resolução n. 18,
+2021.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+A realização do Progestão é crucial para o avanço na gestão fiscal, financeira e patrimonial do estado. A parceria estratégica com o Banco
+Mundial, além de fornecer suporte técnico qualificado, permitirá a utilização de recursos de maneira eficiente, contribuindo para o alcance
+dos resultados desejados.
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa de Sustentabilidade Fiscal, Eficiência e Eficácia dos Gastos Públicos do Estado do Amazonas
+
+
+### 2.2. Título Abreviado
+
+
+Progestão Amazonas
+
+
+### 2.3. Mutuário
+
+
+Estado do Amazonas
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+(i) O objetivo geral do projeto é promover a melhoria contínua da gestão fiscal, orçamentária e patrimonial da administração pública do
+governo do Estado de Amazonas, por intermédio de ações que visem a racionalização do gasto público com resultados perenes,
+aumentando a eficiência da gestão fiscal, financeira e patrimonial da administração pública.
+
+(ii) Em específico, o projeto deve contribuir para:
+
+Gestão Financeira, Fiscal e Patrimonial para as áreas transversais do governo
+
+a.Racionalização do gasto com pessoal ativo
+
+b.Racionalização do gasto com pessoal inativo
+
+c.Modernização de compras públicas
+
+d.Redução do custo da dívida e racionalização dos investimentos públicos
+
+e.Racionalização dos gastos com patrimônio
+
+Gestão Financeira, Fiscal e Patrimonial em setores estratégicos do governo
+
+a.Racionalização do gasto na saúde
+
+b.Racionalização do gasto na assistência social
+
+Gestão do Projeto
+
+a.Aquisição de bens
+
+b.Serviço de consultoria e não consultoria
+
+c.Treinamento e custos operacionais
+
+Os objetivos específicos do projeto, como a racionalização dos gastos, serão alcançados a partir de melhorias incrementais na eficiência
+dos sistemas de gestão de recursos humanos, previdenciária, compras públicas, gestão patrimonial, entre outros. A escolha dos
+indicadores observa aspectos que garantem essa eficiência de gestão de recursos, e, em alguns dos casos, com atividades cruciais para
+que maiores receitas, ou menores despesas possam ser almejadas com a gestão daquela função governamental (como é o caso da
+regularização dos imóveis, ou redução do tempo para a análise e concessão dos benefícios previdenciários). Não obstante os indicadores
+elencados, outros surgirão naturalmente em função da transversalidade dos resultados esperados. Ainda que selecionados para a
+apresentação da carta consulta, a equipe do Estado trabalhará em conjunto com os técnicos do BIRD para propor melhorias destes
+indicadores ao longo da preparação do projeto.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Descrição
+Percentual do gasto de compras públicas com
+materiais de consumo
+
+Projetos de investimento público preparados, pré
+-avaliados tecnicamente e selecionados de
+acordo com nova metodologia
+
+Imóveis inventariados e aptos para a
+regularização
+
+Percentual de redução das despesas da saúde
+não reembolsadas pelo Governo Federal
+
+Percentagem de municípios utilizando o sistema
+estadual para a prestação de contas do
+cofinanciamento do SUAS
+
+Taxa de crescimento médio real da folha de
+pagamento de servidores ativos a.a
+
+Tempo médio para a concessão de benefícios
+da previdência
+
+
+### 2.7. Projeto/Componentes
+
+
+%
+
+%
+
+%
+
+%
+
+Fórmula de Cálculo Unidade de Medida
+(Despesas com
+materiais de consumo
+) / (Total das
+despesas com
+compras públicas do
+Estado)
+(Número de projetos
+de investimento
+selecionados que
+estão de acordo com
+a nova metodologia
+de gestão de
+investimentos/total de
+projetos de
+investimento
+selecionados)*100
+(Quantidade de
+imóveis inventariados
+e aptos para a
+regularização) / (
+Quantidade total de
+imóveis)
+[(Total das despesas
+SUS apresentadas e
+reembolsadas pelo
+Governo Federal em
+2029) / (Total da
+despesa do SUS
+apresentada para
+reembolsos em 2029)]
+/ [(Total das
+despesas SUS
+apresentadas e
+reembolsadas pelo
+Governo Federal em
+2022) / (Total da
+despesa do SUS
+apresentada para
+reembolsos em 2022)]
+*100
+Quantidade de
+municípios usando o
+novo sistema de
+prestação de contas /
+total dos municípios
+do estado*100
+(Gasto da folha de
+pagamento do ano
+analisado ? Gasto de
+folha de pagamento
+folha ano de
+referência) / Gasto de
+folha de pagamento
+folha ano de
+referência
+data da finalização do
+processo de análise
+do benefício - data do
+inicio do processo de
+análise do benefício
+
+Dias
+
+%
+
+%
+
+
+Página: 6
+
+Meta
+17,00
+
+Linha de Base
+20,50
+
+0,00
+
+80,00
+
+0,00
+
+75,00
+
+0,00
+
+12,00
+
+0,00
+
+60,00
+
+4,40
+
+1,90
+
+190,00
+
+90,00
+
+
+Componentes
+C - GESTÃO FINANCEIRA, FISCAL E PATRIMONIAL PARA AS ÁREAS TRANSVERSAIS DO GOVERNO
+S - RACIONALIZAÇÃO DO GASTO COM PESSOAL ATIVO
+P - Novo Sistema Integrado de Gestão de Recursos Humanos
+P - Sistema de Auditoria Automatizada da Folha de Pagamento
+S - RACIONALIZAÇÃO DO GASTO COM PESSOAL INATIVO
+P - Sistema de Análise e Projeções Previdenciárias
+P - Sistema de Revisão de Investimentos Previdenciários
+S - MODERNIZAÇÃO DAS COMPRAS PÚBLICAS
+P - Sistema de Gestão de Compras e Contratos Públicos Estadual
+S - REDUÇÃO DO CUSTO DA DÍVIDA E RACIONALIZAÇÃO DOS INVESTIMENTOS PÚBLICOS
+P - Modernização do Sistema de Gestão de Investimentos Públicos
+P - Sistema de Planejamento, Governança e Gestão
+P - Sistema de Controle e Integridade no uso dos Recursos Públicos
+S - RACIONALIZAÇÃO DE GASTOS COM PATRIMÔNIO
+P - Auditoria para a Aderência de Contabilidade
+P - Inventário, Regularização e Sistema de Gestão de Bens Móveis e Imóveis
+P - Sistema de Gestão de Patrimônio de TIC
+C - GESTÃO FINANCEIRA, FISCAL E PATRIMONIAL EM SETORES ESTRATÉGICOS DO GOVERNO
+S - RACIONALIZAÇÃO DO GASTO NA SAÚDE
+P - Sistema de gestão financeira para a saúde
+S - RACIONALIZAÇÃO DO GASTO NA ASSISTÊNCIA SOCIAL
+P - Sistema de financiamento integrada para a assistência social
+C - GESTÃO DO PROJETO
+P - Aquisição de Bens
+P - Serviço de consultoria e Não consultoria
+P - Treinamento e Custos Operacionais
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 7
+
+Valor(US$)
+48.100.000,00
+12.150.000,00
+11.150.000,00
+1.000.000,00
+2.800.000,00
+2.000.000,00
+800.000,00
+3.300.000,00
+3.300.000,00
+6.100.000,00
+3.300.000,00
+2.000.000,00
+800.000,00
+23.750.000,00
+200.000,00
+12.450.000,00
+11.100.000,00
+8.900.000,00
+6.700.000,00
+6.700.000,00
+2.200.000,00
+2.200.000,00
+3.000.000,00
+200.000,00
+2.100.000,00
+700.000,00
+60.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - GESTÃO FINANCEIRA, FISCAL E PATRIMONIAL PARA AS ÁREAS TRANSVERSAIS DO GOVERNO
+Os componentes representam os principais elementos de despesa na distribuição do gasto público do Estado e são informadas a
+partir da modelagem fiscal realizada pelo Banco Mundial, pelos insumos providos pela equipe técnica da Secretaria de
+Administração do Estado de Amazonas, e análises setoriais das equipes técnicas do estado em parcerias com os especialistas do
+BIRD.
+
+S - RACIONALIZAÇÃO DO GASTO COM PESSOAL ATIVO
+As despesas com pessoal compõem a principal parcela dos gastos públicos para o Estado de Amazonas. A taxa de despesa de
+pessoal tem se mantido abaixo do limite prudencial da Lei de Responsabilidade Fiscal (LRF) nos últimos anos, embora ainda acima
+do limite de alerta. Em 2015, no auge da crise dos governos subnacionais, o Estado apresentou as despesas de pessoal em 56.3
+% da receita corrente líquida, e com algumas flutuações devido aos fluxos de contratações e aumentos de pessoal, atingindo 52.6
+% em 2021.
+
+No período compreendido entre os anos de 2010 e 2019, observou-se contínuo aumento dos gastos anuais com pessoal e
+encargos sociais, passando de R$ 3.71 bilhões para R$ 9.05 bilhões em valores nominais (despesa bruta). Tal aumento foi
+impulsionado e agravado pelos recorrentes reajustes escalonados, principalmente nas áreas de segurança pública, educação, e
+Saúde, incluindo as contratações de empresas de saúde (técnicos de enfermagem, enfermeiros, médicos e outros). Juntas, estas
+áreas representavam cerca de 88% do valor total das despesas de pessoal do Estado. Isto está em consonância com os
+resultados de estudo do Banco Mundial - Análise de microdados da Folha de Pagamentos de Ativos do Estado de Amazonas - (
+Banco Mundial, 2020) sobre todos os estados para o mesmo período, o qual identificou que 21 estados tiveram aumento real
+médio do gasto com pessoal acima de 2%, sendo 11 dos quais com percentual igual ou superior a 4%, o que é o caso de
+Amazonas, com um crescimento real de 4.4% para o período, decorrente especialmente de aumentos salariais, uma vez que o
+número de vínculos se manteve constante. Agrega aos custos o aumento da folha de ativos em 13.5%, impulsionada pelo aumento
+real de salários em 12.8% no período compreendido entre 2018 e 2019, mesmo após constantes quedas no período 2016-2018.
+As projeções do Banco Mundial estimam um crescimento real da folha de pagamento de 5.2% ao ano, atingindo valores mensais
+de R$649 milhões para os servidores públicos ativos em 2030, caso medidas de reforma não sejam tomadas rapidamente.
+
+Neste sentido, cabe destacar o esforço do governo estadual que aprovou a Lei Complementar 198/19, que previu o congelamento
+de salários e progressões por dois anos, uma vez que naquele momento a despesa com pessoal estava no limite estabelecido
+legalmente. Mesmo com estas medidas restritivas ao crescimento da folha de pessoal, o ano de 2020 apresentou um crescimento
+das despesas de pessoal decorrente da contratação de temporários durante a pandemia do COVID-19. Para a área da saúde, a
+mais impactante, foram contratados pouco mais de 2.000 profissionais que atuam em hospitais e unidades de pronto atendimento,
+com impacto de mais de R$176 milhões na folha de pagamento. Também houve aumento nas áreas de assistência social, justiça e
+cidadania (aproximadamente R$ 33 milhões no mesmo ano). Ainda assim, as medidas de ajuste e sustentabilidade fiscal
+implementadas estão surtindo o efeito esperado, como pôde ser visto na melhora dos índices de despesa de pessoal.
+
+
+Página: 8
+
+Entre outros aspectos, o prêmio salarial pago por Amazonas é igual a 23%, abaixo da média nacional de 30%. No que diz respeito
+aos vínculos, a análise do Banco Mundial demonstra que 84% da força de trabalho do estado é composta por servidores efetivos,
+10.7% por servidores temporários em saúde e educação, 4.7% por comissionados e 0.7% por temporários em outras áreas. Em
+relação à distribuição da folha de pagamento por vínculo, os servidores efetivos representam 88% da despesa mensal
+empreendida pelo estado, com destaque para a área de segurança pública, que representa 18% do total de vínculos e 35% do total
+de pagamentos aos servidores ativos. O mesmo estudo aponta que gratificações permanentes, que são incorporadas à
+aposentadoria, representam 46% das rubricas relativas à folha de ativos. Nota-se que, no entanto, há relativa desigualdade
+remuneratória entre as carreiras, com 50% dos servidores ganhando até 2 salários-mínimos, e 1% ganhando o teto do
+funcionalismo público.
+
+O número de servidores ativos do Estado tem se mantido próximo a 75.000 pessoas nos últimos anos e os desafios de gestão em
+um cenário de vasta capilaridade de serviços devido à extensão territorial são imensos. O atual sistema de gestão de pessoas é
+um sistema próprio, desenvolvido pela Processamento de Dados Amazonas (PRODAM)  e datado de mais de 25 anos, está em
+tecnologia defasada e requer uma série de planilhas de controle manuais para a complementação de suas funcionalidades,
+acarretando em informações no sistema muitas vezes desatualizadas e, por conseguinte, inconformidades nos pagamentos,
+advindas de acúmulos de cargos, funções, diferentes regras de progressão e contagem de tempo de serviço, avaliações de
+desempenho e promoção funcional não verificadas. No modelo atual, o sistema opera apenas para a rodagem da folha de
+pagamentos do Estado, sem uma gestão do dia a dia dos servidores, progressões, férias, banco de talentos para movimentações
+internas, ou qualquer gerenciamento sobre as áreas responsáveis pela gestão de recursos humanos nas setoriais. O Estado,
+assim, lida com dados imprecisos ou desatualizados sobre os funcionários, o que pode levar a erros na folha de pagamento,
+pagamentos a mais e a menos, resultando em perdas financeiras significativas. Ineficiências nos processos de recursos humanos,
+como recrutamento e integração, podem levar a atrasos no preenchimento de vagas e problemas de sub-representação que
+afetam a prestação de serviços, especialmente em áreas remotas do Estado. Caso as inconformidades atinjam um patamar de 1%
+da folha anual, estima-se uma economia de aproximadamente R$50 milhões ao ano.
+
+A substituição do sistema é eminente, bem como a revisão dos fluxos processuais e regras de negócio para a concessão da
+variada gama de benefícios. Ademais, o Estado pretende utilizar o apoio do Progestão para implementar um efetivo
+dimensionamento e planejamento da força de trabalho nos equipamentos públicos e na área meio, de forma a otimizar os perfis e
+quantitativos de pessoas da administração pública estadual, bem como capacitar o servidor para as novas funcionalidades do
+sistema, mas já orientado as novas diretrizes de transformação de gestão da administração pública. Também está prevista a
+auditoria automatizada da folha de pagamentos, fortalecendo os mecanismos de controle e a implementação adaptativa de
+mecanismos de governança para a folha.
+
+P - Novo Sistema Integrado de Gestão de Recursos Humanos
+O sistema tem como subprodutos:
+a) levantamento das normativas e regras de pagamento gerais do Estado e as especificidades de cada plano, carreira e cargo;
+b) desenho e implementação de sistema de gestão de recursos humanos, contendo a folha de pagamento, eventos da vida
+funcional do servidor, banco de talentos e ações voltadas às capacitações dos servidores;
+c) modernização das funções para a sua devida integração com os sistemas da previdência e financeiro estadual;
+d) inserção de parâmetros para modelagem de impacto fiscal de novas contratações;
+e) modernização das funções de consignação da folha de pagamento;
+f) modernização do processo e registro de informações de perícias médicas;
+g) reestruturação da escola de servidores públicos do Estado para estruturação de trilhas de conhecimento, inclusive com foco em
+competências digitais; e
+h) hardware necessário para a operacionalização dos sistemas hardware necessário para a operacionalização dos sistemas (
+estrutura de hardware e software, desktops, notebooks, impressoras, etc.).
+
+P - Sistema de Auditoria Automatizada da Folha de Pagamento
+O sistema tem como subprodutos:
+a) diagnóstico dos processos de lançamento manuais e automáticos na folha de pagamentos, possibilitando a formulação de
+hipóteses de inconsistências nas rubricas de pagamentos e descontos;
+b) criação de trilhas de auditoria baseadas em algoritmos de inteligência artificial;
+c) identificação de melhorias em fluxos e procedimentos e na posterior automação dos processos relacionados à gestão e
+monitoramento da folha da folha e auditoria;
+d) elaboração de painel gerencial para acompanhamento de resultados, e) elaboração de painel integrado para estoque regulatório
+da folha de pagamento;
+f) hardware necessário para a operacionalização dos sistemas (estrutura de hardware e software, desktops, notebooks,
+impressoras, etc.);
+g) dimensionamento da Força de Trabalho de todos os órgãos da administração pública direta e indireta, com exceção de
+sociedades de economia mista e empresas públicas;
+h) reorganização da estrutura funcional da administração e do modelo de governança dos setores dimensionados identificando
+duplicidade de tarefas e redução de custos;
+i) reorganização do sistema de carreiras, de desempenho e de competências do estado, de acordo com as competências
+funcionais e complexidades das atividades levantadas no dimensionamento;
+j) criação de sistema para gestão de processos de gerenciamento da força de trabalho; e
+k) projeções e definição de parâmetros para construção de modelos preditivos da necessidade de reposição de servidores
+mediante a demanda futura.
+
+
+Página: 9
+
+S - RACIONALIZAÇÃO DO GASTO COM PESSOAL INATIVO
+A Fundação Amazonprev é a única gestora da previdência do Estado e tem como objetivos assegurar aos servidores públicos do
+Estado e seus dependentes os benefícios que lhes sejam devidos após completado o seu período laboral ou nas eventuais
+adversidades, gerindo os recursos de forma a observar o caráter contributivo e o equilíbrio financeiro e atuarial indispensáveis à
+sustentabilidade e perenidade do Fundo. O órgão é responsável pela gestão do RPPS do Estado, de que são destinatários os
+agentes públicos estaduais ativos, os servidores inativos, segurados do regime e seus respectivos dependentes e pensionistas.
+
+Para a gestão dos colaboradores inativos, o Estado do Amazonas realizou a segregação de massas em 2004, logo após a Emenda
+Constitucional 41/2003, criando o Fundo Previdenciário (FPREV), de caráter contributivo e com regime de capitalização. Mantida a
+segregação desde então, o Fundo evoluiu em situação atuarial confortável devido ao baixo número de aposentadorias, porém com
+o déficit naturalmente crescente no curto prazo (aumento de aproximadamente R$800 bilhões entre 2013 e 2018 ? absorvendo 9.5
+% das receitas correntes do Estado), há se reduzir sobremaneira a capacidade de investimentos, embora com tendência de
+estabilidade e decréscimo no médio prazo. Em 2019, cerca de 60% dos servidores ativos do Estado ainda faziam parte do sistema
+anterior a 2003, que com sua aposentadoria, a expectativa é de que os gastos com esse sistema continuem crescendo até 2032.
+Estudo atuarial realizado pelo estado em 2019 estimou um déficit atuarial total de R$91 bilhões.
+
+Entre 2010 e 2019 a folha de inativos teve um crescimento real de 6.1% ao ano, influenciada pelo aumento de aposentadorias e
+sucessivos reajustes salariais do período. Apenas entre 2017 e 2019 o Estado teve um acréscimo de 5.000 servidores aos inativos
+(um aumento de 17% para o período), o que implicou em um crescimento anual da folha em 12.8% em termos reais. Em 2019, a
+representatividade da folha de inativos foi de R$156.3 milhões mensais, alcançando o quantitativo de aproximadamente 35.200
+servidores. Apenas para o período de 2023 e 2024 são estimadas mais 5.200 aposentadorias, sendo outras 1.400 em 2025, e 4.
+100 em 2026. As áreas de educação, segurança e saúde são as que apresentam os maiores números de efetivos com expectativa
+de aposentadoria. São estimadas 2 mil aposentadorias na educação e 2,6 mil aposentadorias na saúde e segurança entre 2023 e
+2024.
+
+Algumas medidas foram tomadas, como o aumento da alíquota de contribuição do servidor de 11% para 14%, a idade de
+aposentadoria, a expansão da base de contribuição, a introdução de progressividade nas taxas de contribuição e uma redução dos
+novos benefícios de sobrevivência pagos às famílias pequenas com rendas mais altas (em dezembro/2019) e a criação do Fundo
+de Proteção Previdenciária dos Militares ? FPPM (em abril de 2020). Em 2021, por meio da Lei Complementar 5.633 de setembro
+de 2021, foi instituído o Regime de Previdência Complementar, assim como fixados os limites máximos para a concessão de
+aposentadorias e pensões de acordo com o Regime Geral de Previdência. Outras reformas no estado poderiam reduzir o déficit do
+sistema previdenciário em 0.4% da receita corrente em 2023, chegando a 3.7% da receita corrente na primeira década.
+
+Essas medidas fizeram com que o Estado fosse reconhecido em 2019 e 2020 como o único estado a obter o conceito A no
+Indicador de Situação Previdenciária (ISP), da Secretaria Especial de Previdência e Trabalho, do extinto Ministério da Economia. O
+indicador evidencia o desempenho contábil, orçamentário e fiscal dos governos subnacionais. No entanto, para manter esta
+posição de vanguarda, ainda são necessários avanços para proteger os recursos do FPREV e assegurar a estabilidade e
+sustentabilidade fiscal do regime previdenciário dos funcionários mais jovens. A começar pela sua efetiva integração com os
+modelos preditivos e atuarias da admissão de novos colaboradores e pela gestão dos fundos de investimentos previdenciários. O
+atual sistema de gestão previdenciária carece de instrumentos de monitoramento da necessidade de aporte do Tesouro Estadual
+ao déficit da previdência, uma vez que esse aporte anual utiliza a receita líquida do Estado, restringindo o espaço fiscal e
+capacidade de investimentos. Algumas receitas não são acompanhadas, como por exemplo a taxa de contribuição de servidores
+cedidos a outros órgãos e entidades. Como resultado, toda a projeção atuarial do déficit é realizada por uma consultoria
+terceirizada, reduzindo a capacidade de execução orçamentária do Estado e, possivelmente, vindo a utilizar recursos do fundo
+previdenciário para cobrir o déficit.
+
+Por meio do Progestão o Estado pretende complementar as medidas já realizadas e com a qualificação do cálculo de impacto
+atuarial de novas contratações ainda na contratação de novos servidores, melhorias no monitoramento dos gastos junto ao sistema
+de gestão da previdência, implementando métodos atuariais de projeções contínuas, e estruturar metodologias e ferramentas de
+automação para a rentabilidade dos fundos de pensão. Ademais, o Estado já teve o apoio do Banco Mundial em reformas recentes
+para a gestão previdenciária e estas novas atividades complementariam as anteriores, garantindo uma gestão fiscal mais
+sustentável, maior espaço fiscal e capacidade de investimentos, e evoluções na gestão atuarial para a maior confiança nos
+retornos financeiros ao Estado no longo prazo.
+
+P - Sistema de Análise e Projeções Previdenciárias
+O sistema tem como subprodutos:
+a) desenvolvimento de ferramenta de análise de dados para produção de projeções, impactos e resultados estimados, que apoie a
+governança do sistema previdenciário e a tomada de decisões;
+b) desenho de modelos preditivos de impacto atuarial, projeções, análise dos resultados de investimentos e produção de
+demonstrativos atualizados a partir de alterações nos dados originários;
+c) capacitação operacional dos profissionais usuários; e
+d) hardware necessário para a operacionalização dos sistemas (estrutura de hardware e software, desktops, notebooks,
+impressoras, etc.).
+
+P - Sistema de Revisão de Investimentos Previdenciários
+O sistema tem como subprodutos:
+a) diagnóstico da atual gestão de riscos (mercado, atuarial, operacional e financeira) relacionados à gestão dos ativos financeiros
+destinados aos investimentos;
+
+
+Página: 10
+
+b) avaliação das limitações e restrições encontradas e projetadas mediante crescimento da carteira de investimentos;
+c) elaboração da estratégia e gestão eficiente de Application Lifecycle Management ? ALM, a fim de otimizar o retorno obtido com a
+aplicação de recursos existentes nos fundos previdenciários;
+d) modelagem de sistema de revisão de investimentos previdenciário;
+e) transferência de conhecimento para equipes técnicas designadas e;
+f) hardware necessário para a operacionalização dos sistemas (estrutura de hardware e software, desktops, notebooks,
+impressoras, etc.).
+
+S - MODERNIZAÇÃO DAS COMPRAS PÚBLICAS
+A modernização e qualificação da gestão das compras públicas é um dos principais pilares da racionalização do gasto, uma vez
+que estas após as despesas com pessoal ativo e inativo são a terceira principal despesa do Estado. Em relação ao PIB, os
+elementos de despesa do orçamento de Amazonas em 2020 representam 1.4%. Não menos importante é a verificação dos grupos
+de despesas (e aqui incluindo os gastos com infraestrutura), que representam 12.44% de todo os gastos públicos do Estado em
+2022. Ademais, no ano passado o montante total atingiu R$3.51 bilhões de reais, em números que tem crescido constantemente e
+bastante acima das variações de preços do mercado.
+
+O detalhamento das despesas do estado entre 2017 e 2022 aponta um crescimento destacado de alguns dos elementos de
+despesa referentes às compras públicas. Em 2017, as despesas somaram R$1.28 bilhão, aumentando em 173% até o último ano.
+No período analisado, os gastos com material de consumo cresceram 97% (atualmente representando 20.5% das compras
+públicas do Estado - R$720 milhões) e os gastos com equipamentos e material permanente foram incrementados em 237% (hoje
+em R$191 milhões ? 5.4% do total). Outras aquisições que tiveram aumentos significativos e compõem boa parte da distribuição de
+gastos com compras públicas são a locação de mão de obra (R$548 milhões ? 15.6%), e os serviços de tecnologia de pessoa
+jurídica (R$412 milhões ? 11.7%), acarretando, inclusive, em uma complexidade maior na gestão destes contratos.
+
+A otimização da alocação de recursos na aquisição de bens, serviços, obras e outros itens, deve sempre observar o potencial de
+economia nas compras e a estratégia do Estado. Ainda, a implementação da nova lei de licitações e contratos administrativos (Lei
+14.133/2021), com previsão de entrada em vigor para dezembro de 2023, estabelece uma série de princípios e procedimentos
+voltados à racionalização do gasto que devem ser incorporados pelo Estado. Há um desequilíbrio em relação a como os processos
+licitatórios têm sido realizados no Estado, com diferenças na seleção de modalidades, requisitos de análise e preços médios para
+itens de descrição semelhante. A pandemia da COVID-19 reforçou a necessidade de aprimorar os processos de aquisições,
+evidenciando desafios estruturais, principalmente nas compras na área de saúde, assistência social e infraestrutura. Ainda, a
+distribuição territorial do Estado de Amazonas oferece desafios para a eficiência na logística, competitividade de fornecedores e
+regionalização de processos de aquisições. É preciso um amplo trabalho de replanejamento, a fim de identificar conectar
+fornecedores e compradores por região, por tipo de produto, fortalecendo os catálogos de materiais com especificações mais
+incompletas e padronizadas, bem como entendendo a complexidade para compras centralizadas e aos equipamentos públicos
+distribuídos pelo Estado.
+
+O atual sistema de gestão de compras públicas é de desenvolvimento próprio, não estando integrado com os demais sistemas
+informacionais do Estado, como o financeiro, contábil, orçamentário, e de planejamento e gestão de projetos. Não tem aprendizado
+de máquina, camada de inteligência artificial para a construção, e enfrente desafios para incorporar uma análise crítica de
+oportunidade e conveniência de cada licitação, jurídico-formal, e de gestão dos contratos. Como resultado, em 2023, o tempo
+médio para os processos aquisitivos do Estado foi mapeado em 90 dias.
+
+A fim de aprimorar a gestão da área, o Estado solicitou apoio técnico para o Banco Mundial por meio do Progestão para a
+realização de um diagnóstico de entendimento sobre a validade de incrementar o sistema atual ou definir um novo sistema de
+gestão de compras públicas no Estado, incorporando uma série de melhorias, como banco de preços referenciais eletrônicos, CRC
+eletrônico, o saneamento do catálogo de materiais e serviços, um sistema integrado de suprimentos para controle de itens de
+almoxarifado, uma camada de inteligência artificial para pesquisa de preços, consultas e planejamento de compras. Também estão
+previstas integrações com o gerenciador eletrônico de documentos e com o sistema de gestão financeira do Estado. Pretende-se,
+também, incorporar ferramentas inovadoras de governança do gasto, como o desenvolvimento e implementação de uma
+metodologia de strategic sourcing, objetivando a racionalização de fornecedores, consolidação de demanda, segmentação de
+gastos, contratos plurianuais, contratos de ciclo de vida, negociações por melhores preços, entre outros, bem como a estruturação
+de programa de apoio à formação dos gestores em compras públicas do Estado, de modo a garantir melhores práticas
+orçamentárias e de eficiência para o Estado, observados os desafios da nova lei e da complexidade de compras estadual
+adequadas às novas ferramentas de planejamento, contratualização e monitoramento.
+
+P - Sistema de Gestão de Compras e Contratos Públicos Estadual
+O sistema tem como subprodutos:
+a) melhoramentos ou desenvolvimento do sistema de compras e contratos públicos estadual, integrado com os sistemas financeiro,
+patrimonial e de tramitação de documentos;
+b) elaboração e implementação de metodologia de strategic sourcing para as famílias de itens de aquisições;
+c) construção e adaptação de algoritmos com base no volume de dados de compras, como o alinhamento de itens de compras às
+modalidades recomendadas;
+d) automação de processos de compras e gestão de contratos;
+e) melhorias de fluxos de governança e planejamento de contratações e gestão de contratos;
+f) estruturação de e-marketplace para compra direta de pequenos produtores locais cadastrados;
+g) estruturação de sistema de certificação de gestores de compras e de contratos públicas públicos do Estado nas novas práticas;
+h) aquisição de hardware necessário para a operacionalização dos sistemas (estrutura de hardware e software, desktops,
+notebooks, impressoras, etc.).
+
+
+Página: 11
+
+i) melhoramentos ou desenvolvimento do sistema de gestão e monitoramento de obras do Estado, integrado com os sistemas
+financeiro, patrimonial e de tramitação de documentos;
+j) elaboração e implementação de metodologia para acompanhamento, vistoria e fiscalização das obras públicas, utilizando não só
+relatórios de medição técnica, mas também tecnologias para registro e comunicação;
+k) desenvolvimento de funcionalidade de registro e controle do cronograma de execução físico-financeiro da obra;
+l) elaboração de painéis de monitoramento das obras do Estado;
+m) estruturação de ferramenta de gestão de riscos para identificação, avaliação e mitigação dos possíveis riscos relacionados a
+obra; e
+n) desenvolvimento e implementação de ferramenta de avaliação e gestão pós-obra, contemplando controle de garantia e
+manutenção adequada após sua entrega.
+
+S - REDUÇÃO DO CUSTO DA DÍVIDA E RACIONALIZAÇÃO DOS INVESTIMENTOS PÚBLICOS
+Antes dos anos atuais, apenas em 2013 o Estado do Amazonas havia atingido um montante de investimento superior a casa dos
+bilhões (aproximadamente R$1.1 bilhão). Com o crescimento das despesas correntes, em específico com o gasto com pessoal
+ativo e inativo, e a queda da arrecadação, também agravada pela crise econômica, o Estado enfrentou um período de redução do
+volume de investimentos. Entre os anos de 2015 e 2020, a taxa de investimentos foi de 5.90% (investimentos/RCL), impulsionada
+pelo índice de 2018 (8.57%). Em 2022, a taxa voltou a alcançar 8.35% em 2022, porém ainda inferior à média brasileira para o
+último ano, de 10%. Apesar do número atual ser elevado, este é impulsionado em razão do volume de transferências
+governamentais aos municípios e fundo a fundo, entre outras. Mesmo com a futura diminuição dos recursos transferidos, o Estado
+tem mantido investimentos do Tesouro Estadual bastantes significativos, alcançando R$822 milhões em 2021, e R$ 1.38 bilhão em
+2022.
+
+O cenário amazônico demanda ao gestor público uma série de desafios para investimentos de infraestrutura, os quais o Estado
+tem promovido esforços para a melhoria da governança e sistematização das informações e processos decisórios. Em 2018, foram
+investidos R$770 milhões em obras e instalações (novas e em andamento), montante que teve uma diminuição nos três anos
+subsequentes (R$395 milhões, R$398 milhões, e R$443 milhões, respectivamente), mas retomou aos elevados patamares em
+2022, atingindo R$844 milhões durante o ano. Proporcionalmente, Amazonas tem uma taxa de investimentos superior à média dos
+Estados brasileiros em infraestrutura, seja pela capacidade de gestão, como pela complexidade dos projetos, principalmente
+quanto aos desafios de impacto econômico e social.
+
+São quatro as secretarias estaduais que merecem destaque na implementação da gestão eficiente de investimentos no Estado,
+são elas: a Secretaria de Estado da Fazenda (SEFAZ), a Secretaria de Estado de Desenvolvimento Econômico, Ciência,
+Tecnologia e Inovação (SEDECTI), a Secretaria de Estado de Infraestrutura e Região Metropolitana de Manaus (SEINFRA) e a
+Secretaria de Estado do Meio Ambiente (SEMA). Em conjunto, as secretarias dominam grande parte das etapas de planejamento e
+execução das obras e serviços de infraestrutura no Estado. No âmbito da SEINFRA, a equipe técnica utiliza uma matriz de
+priorização de projetos a partir da aplicação do Decreto nº 42.959, de 4 de outubro de 2020. Na estruturação de projetos na
+Secretaria, o procedimento inclui visitas prévias a campo para reconhecimento do terreno e mapeamento das sensibilidades
+ambientais. As feições a serem analisadas dependem do tipo de empreendimento ou atividade a ser desenvolvido e a forma como
+interagem com o meio ambiente. No arranjo institucional, não há um procedimento sistemático para a estruturação de um plano de
+longo prazo para a infraestrutura no Estado, que permita uma análise mais estratégica do tema em todo o território. Grande parte
+dos projetos que compõem a carteira tem origem em demandas da sociedade, do poder público municipal, ou das secretarias
+setoriais. A SEDECTI tem as equipes responsáveis pelo planejamento e atração de investimentos para a sustentabilidade da
+economia industrial, extrativa mineral e de óleo e gás, com informação e o controle do uso e consumo dos recursos naturais. A
+SEMA participa ativamente de uma análise de riscos ambientais, bem como a internalização de variáveis de mitigação e adaptação
+climática, ao passo que a SEFAZ estrutura a orçamentação, análise de espaço fiscal para investimentos em andamento e novos.
+
+Embora as Secretarias e o sistema de governança do estado incorporem uma série de atos legais e responsabilidades, ainda não
+há uma análise dos projetos de investimento como um ciclo, desde a concepção até a sua avaliação após concluídos. O banco de
+projetos segue padrões de oportunidade e não de análise de viabilidade em todas as variáveis, inclusive técnica. Apesar do
+aprimoramento do processo decisório relacionado a obras de infraestrutura com a implementação da plataforma de gestão de
+obras públicas (e-Obras), a ênfase está na execução e não nos elementos predecessores que garantam um projeto implementado
+no prazo certo e no custo estimado, com riscos cuidadosamente previstos e orçados, bem como o devido espaço fiscal para
+garantir a implementação das obras na sazonalidade da região e com recursos disponíveis em caixa.
+
+Reconhecendo as incertezas que cercam a temática de avaliação técnica de projetos de investimento, especialistas do Banco
+Mundial desenvolveram uma metodologia de avaliação para verificar se os riscos climáticos foram de fato incorporados à
+modelagem econômica e financeira dos projetos e se os riscos residuais, após a adoção de medidas mitigadoras e de adaptação,
+não tornam o projeto econômica ou financeiramente inviável (ou pelo menos pelo menos deve divulgar a existência de qualquer
+risco residual). Além de aprimorar a avaliação técnica de investimentos sob a lente econômica e social, o Estado também tem o
+desafio de melhorar seu processo de contratação de obras no que se refere à matriz de riscos do contrato, na forma exigida pela
+Lei nº 14.133, de 1º de abril de 2021, que trata das licitações e contratos administrativos. A correta alocação de responsabilidades
+nos contratos administrativos se mostra essencial para garantir que seu objeto seja executado na forma e no tempo adequados,
+com previsibilidade e segurança jurídica diante da ocorrência de fatos supervenientes à contratação e que demandem reequilíbrio
+econômico-financeiro.
+
+
+Página: 12
+
+Por fim, a reforma tributária exigirá esforços de modernização do Estado para a atração de investimentos privados nos próximos
+anos. Apesar de ter uma grande parcela do PIB estadual derivada da indústria, o Amazonas tem um setor privado pequeno e altos
+níveis de informalidade, com apenas 36.5% dos trabalhadores do estado empregados no setor privado, a segunda menor
+participação no país (apenas menor do que o Amapá). A ausência de um planejamento abrangente para o desenvolvimento do
+setor privado no Amazonas limitou a diversificação econômica e o desenvolvimento econômico, o que reforçou ainda mais a
+dependência do estado em relação aos incentivos fiscais. A mobilização do capital privado é essencial para oferecer respostas aos
+principais desafios de infraestrutura do Estado, não apenas pelos impactos da reforma. Atualmente o Estado conta com o Sistema
+de Gestão de Informações Técnicas e Econômicas de Empresas Incentivadas (INCENTIVE), o qual é responsável pela
+sistematização de todo o ciclo de planejamento e execução dos incentivos fiscais. Este sistema já está datado de mais de 15 anos
+e carece de arquitetura tecnológica moderna para melhorias da gestão do alto volume de recursos.
+
+Diante disso, o Estado pretende ter apoio técnico para expandir o alcance do Decreto nº 42.959 de 28 de Janeiro de 2022,
+contemplando todo o ciclo de investimento a partir da inclusão das etapas de pré-investimento, investimento e operação, a se
+somarem aos critérios de triagem de projetos já estipulados pelo Decreto; estruturar planos de desenvolvimento e planos setoriais;
+incluir na matriz de risco contratual dispositivos expressos sobre a distribuição de responsabilidades em decorrência de prejuízos
+decorrentes de eventos associados às mudanças do clima; incrementar melhorias tecnológicas ao sistema estadual de
+investimentos devidamente integradas com o e-Obras; modernizar os sistemas de planejamento relacionados a mobilização de
+capital privado no Estado; e capacitar os profissionais do Governo do Estado do Amazonas para a temática de gestão de projetos
+de investimento, seus riscos e análise de viabilidade adaptada ao contexto de cada projeto.
+
+Ademais, o Estado pretende fortalecer o sistema de gestão e controle do Estado, com ações  junto a Controladoria-Geral do
+Estado (CGE), garantindo avaliações de conformidade e de desempenho para minimizar os problemas de ineficiência, desvios e
+gestão inadequada dos recursos públicos, em específico dos projetos de investimento. Para estes avanços, serão fortalecidos os
+mecanismos do framework que indica os fundamentos para a eficiência da auditoria interna para o setor público (Modelo de
+Capacidade de Auditoria Interna ? IA CM), uma vez que o Estado ainda é classificado no nível 1 (o mais baixo), e com as ações
+implementadas com o projeto pretende alcançar o nível 3 (nível intermediário). O fortalecimento do sistema estadual de gestão de
+controle interno aumentará a capacidade e escopo de auditorias do poder público na atuação preventiva e corretiva, provendo
+recomendações e melhorias no planejamento e execução do gasto público, nas áreas corporativas e setoriais do Estado. Em
+síntese, caso fortalecida a capacidade institucional e incorporados os elementos mínimos para auditoria na concepção dos projetos
+de investimento, há uma grande chance de mitigar riscos de projetos e consequentemente os riscos contratuais, tornando a
+execução de investimentos mais ágil e eficaz.
+
+P - Modernização do Sistema de Gestão de Investimentos Públicos
+O sistema tem como subprodutos:
+a) desenvolvimento e implementação de sistema de gestão de projetos para os investimentos públicos, integrando a preparação,
+priorização, seleção, e monitoramento;
+b) preparação de um portfólio de projetos pré-avaliados tecnicamente e prontos para implementação;
+c) desenho e implementação de uma metodologia de governança estratégica para os projetos de investimento, considerando a
+possível participação da iniciativa privada desde a sua concepção;
+d) estruturação de um arcabouço para tratar de questões orçamentárias, ambientais e sociais nos projetos de investimento;
+e) sistematização de indicadores e marcos de monitoramento da implementação físico-financeira;
+f) implementação de matriz de risco contratual adaptada para os diferentes tipos de contratos;
+g) apoio e integração destas ações com o sistema de desenvolvimento econômico do Estado atualmente gerenciado pela
+SEDECTI;
+h) capacitação das equipes para apoiar a implementação do novo modelo de gestão;
+i) pesquisas periódicas para avaliar a implementação da reforma e gestão da mudança; e
+j) aquisição de hardware para a operacionalização do sistema (estrutura de hardware e software, desktops, notebooks,
+impressoras, etc.).
+
+P - Sistema de Planejamento, Governança e Gestão
+O sistema tem como subprodutos:
+a) revisão e implementação da metodologia integrada de planejamento e definição de iniciativas estratégicas do Estado;
+b) revisão de fluxos processuais, estruturas, regulamentos e insumos tecnológicos para a gestão e planejamento dos projetos de
+desenvolvimento econômico, e seu alinhamento com a estratégia e orçamento de médio prazo do Estado;
+c) melhoramentos ou desenvolvimento do sistema de gestão de iniciativas estratégicas, garantindo transparência com o progresso
+das iniciativas e potenciais ajustes de rota ao longo de sua execução;
+d) modernização do sistema de gestão de incentivos fiscais;
+e) estruturação de painéis de monitoramento de indicadores;
+f) capacitação das equipes para a operacionalização dos novos processos e sistemas; e
+g) aquisição de equipamentos necessários para operacionalização do sistema (estrutura de hardware e software, desktops,
+notebooks, impressoras, etc.).
+
+P - Sistema de Controle e Integridade no uso dos Recursos Públicos
+O sistema tem como subprodutos:
+a) desenvolvimento e implantação de um sistema de controle e integridade no uso dos recursos públicos do estado de Amazonas;
+b) estruturação de um modelo de governança, contendo a definição de atores e instâncias de decisão, além de ritos de
+monitoramento, incentivos a denúncias de irregularidades e aplicação efetiva de códigos de ética e de conduta no serviço público;
+c) capacitação das equipes para apoiar a implementação do novo sistemas e modelo de governança, contendo auditorias
+contínuas e de desempenho;
+
+
+Página: 13
+
+d) pesquisas periódicas para avaliar a implementação da reforma e gestão da mudança; e
+e) aquisição de equipamentos necessários para operacionalização do sistema (estrutura de hardware e software, desktops,
+notebooks, impressoras, etc.).
+
+S - RACIONALIZAÇÃO DE GASTOS COM PATRIMÔNIO
+A gestão patrimonial compreende facetas referentes a gestão de bens móveis, imóveis, frota, tecnologias informacionais, dados,
+entre outros. Desafios se apresentam ao estado em todas as áreas, mas em termos estratégicos e capacidade institucional o
+Estado pretende alavancar com o auxílio técnico do Banco Mundial a gestão de bens móveis, imóveis e do patrimônio tecnológico,
+prioritariamente.
+
+Em maio de 2017, foi publicado o decreto 40.645/17, que dispõe sobre a qualidade do gasto público e estabelece providências
+para a contenção do custeio. No que diz respeito à gestão patrimonial foram definidas diretrizes relacionadas, por exemplo, à
+gestão da frota, com a instituição da política de locação de veículos no Executivo Estadual e a definição de parâmetros de redução
+da frota e do gasto com combustível. Em relação aos gastos com manutenção de bens imóveis, ficou definido que no mínimo 25%
+do orçamento estimado para reforma e manutenção deve ser destinado para ações de eficiência energética das propriedades. Em
+dezembro de 2019, foi constituída a Companhia Amazonense de Desenvolvimento e Mobilização de Ativos (CADA), uma empresa
+pública responsável por auxiliar a governança de projetos prioritários, emitir e distribuir, publicamente, quaisquer títulos e/ou
+valores mobiliários, observadas as normas emanadas da Comissão de Valores Mobiliários (CVM); administrar e explorar
+economicamente ativos estaduais, e trabalhar com concessões públicas.
+
+A gestão imobiliária no Estado utiliza as regras da lei federal, como a alienação simples e a migração de recursos para o RPPS  .
+No entanto, carece de instrumentos para alavancar a arrecadação, por exemplo, por meio de permutas, concessões de uso
+onerosas, processos de alienações estruturados e facilitados ou outras formas que possam agregar as receitas estaduais.
+Referente aos gastos, há o custeio de manutenção dos imóveis de domínio do Estado, os quais muitas vezes estão parados, bem
+como despesas com aluguéis, regularização de imóveis e desapropriações. Atualmente, Amazonas tem identificados
+aproximadamente 1.100 imóveis de propriedade estadual, porém poucos destes estão georreferenciado, e boa parte ainda não
+está regularizada. Os cartórios da capital têm algumas bases de dados constituídas informatizadas, mas muitos ainda dependem
+da identificação dos documentos físicos para a validação de procedimentos de regularização. O Poder Executivo do Estado firmou
+convênios com o Tribunal de Justiça de Amazonas para ter apoio na regularização destes imóveis, mas ainda não tem recursos
+financeiros nem para aprimorar o processo de identificação de bens, nem para documentos e registros necessários para a
+conformidade destes. Há o interesse de constituir um Fundo de Investimento Imobiliário (FII) após a realização deste árduo
+trabalho, assim como identificar as melhores estratégias para fazê-lo e mobilizar o mercado. Muitos dos imóveis de propriedade do
+Estado também estão ocupados por órgãos federais e municipais, os quais estão cedidos de forma não onerosa, sem adicional de
+receitas para o Amazonas.
+
+Nos últimos seis anos, o Estado desembolsou R$353 milhões com a aquisição de imóveis, a uma média de R$58.8 milhões por
+ano (apenas inferior ao Estado do Rio Grande do Sul), com picos de R$145 milhões e R$166 milhões nos anos de 2021 e 2022,
+respectivamente. Os dados de indenizações para o mesmo período, que incorporam em grande os gastos com desapropriações,
+somam R$362.8 milhões (o quinto maior entre os Estados ? apenas menor do que São Paulo, Bahia, Alagoas e Mato Grosso do
+Sul). Os dados elevados se explicam pela dificuldade na governança das informações sobre o patrimônio imobiliário, com poucos
+bens identificados, outros ocupados irregularmente e, ainda, aqueles em uso por órgãos e entidades de outras esferas de poder.
+Despesas com aluguéis e manutenção de imóveis são descentralizadas entre os órgãos e entidades do Estado, e não são
+confiáveis para um acompanhamento efetivo da execução destes gastos  , o que requer um sistema de gestão de bens imóveis
+efetivos e com informações abrangentes para a tomada de decisão e destinação de bens.
+
+Pela perspectiva da receita os valores são bastantes baixos, uma vez que a parcela representativa da exploração do patrimônio
+imobiliário frente ao total da receita patrimonial entre 2005 e 2021 é de aproximadamente 0.55%. A média anual desta receita é de
+R$1.5 milhão, sendo majoritariamente de arrendamentos, frente a uma parcela minoritária de aluguéis. Nos últimos 7 anos também
+não foram realizadas alienações de bens imóveis, e as receitas referentes a cessão de uso somam R$16.8 milhões no período.
+
+Os dados financeiros sobre o patrimônio imobiliário do Estado evidenciam não apenas a necessidade de um mapeamento,
+catalogação, padronização de informações de todos os imóveis. O levantamento de informações relacionadas aos imóveis do
+estado e a sua regularização sob a perspectiva cartorial, bem como a atualização das avaliações são aspectos que permitem a
+qualificação de decisões relacionadas à sua destinação, seja para fins de ocupação, alienação, cessão, compartilhamento, entre
+outros. A preparação de um arcabouço jurídico que facilite a regularização dos bens e otimize as regras de negócios para a
+realização de transações imobiliárias e de um estudo diagnóstico que embase as decisões processuais e tecnológicas tomadas
+pela gestão é essencial. Outro aspecto importante é a necessidade de estruturar o desenvolvimento de um sistema informacional
+para a gestão patrimonial, utilizando tecnologias GIS e BIM. O sistema deverá se integrar com as ferramentas de gestão da
+contabilidade e de compras públicas do Estado, a fim de adequar as informações patrimoniais para comparabilidade fiscal e
+patrimonial, conforme o Plano de Implantação dos Procedimentos Contábeis Patrimoniais (PIPCP).  O Progestão apoiará na
+regularização do registro dos imóveis, incorporando a atualização do marco regulatório com foco na obtenção de receitas pontuais
+e contínuas, e fluxos de trabalho definidos. A realização de estudos preparatórios e de uma metodologia para um sistema de
+determinação da vocação imobiliária, bem como a constituição de um Fundo de Investimentos Imobiliário (FII) também podem ser
+incorporadas após diagnóstico inicial em realização pela CADA.
+
+
+Página: 14
+
+Apoio similar é necessário para a gestão do patrimônio mobiliário do Estado, uma vez que os cadastros de informações são
+inconsistentes e não possuem a confiabilidade necessária para a conciliação contábil. O Estado de Amazonas já foi, inclusive,
+notificado por não prover demonstrativos de movimentações financeiras claros, gerando um peso no balanço financeiro das contas
+do Estado. Neste sentido, são necessários processos modernos e um trabalho de apoio para o mapeamento e catalogação de
+todos os bens móveis, contendo o seu registro assertivo no sistema de informação estadual.
+
+O patrimônio de Tecnologia da Informação e Comunicação (TIC) do Estado possui uma arquitetura extremamente complexa. Até
+há pouco tempo, os sistemas de informação eram criados estritamente para atender demandas setoriais, desconsiderando as
+sinergias com outras áreas de atuação do governo, sem observar o potencial de inteligência informacional que os dados
+armazenados poderiam gerar por meio de práticas de análise e ciência de dados. Como resultado dessa estrutura de TIC
+complexa, há enorme quantidade de sistemas independentes que, muitas vezes, não são integrados entre si, construídos por
+fabricantes distintos e com tecnologias de programação diferentes, ocasionado dificuldades como: retrabalho, inconsistências de
+dados, manutenções custosas, e lenta estruturação de painéis relatórios gerenciais.
+
+Nesse aspecto, o estado pretende não apenas mapear os seus ativos de tecnologia, seus sombreamentos, custos e informações
+geridas, mas também atuar na otimização de um repositório de informações. Melhoramentos da arquitetura de sistemas
+governamentais contribuem para inserção dos dados dos sistemas financeiros e patrimoniais no DataLake estadual, apoiando
+decisões baseadas em dados e mais processos automatizados. Também, fazem-se necessárias capacitações as equipes
+responsáveis pela análise e cruzamento de variáveis no Estado, reduzindo a dependência de fornecedores de TIC no longo prazo,
+bem como sejam estruturando procedimentos para tratamento, extração, disponibilização e utilização dos dados, e a governança e
+segurança destas rotinas.
+
+P - Auditoria para a Aderência de Contabilidade
+A auditoria sobre a aderência da contabilidade assegura a correta evidenciação do patrimônio público e suas variações,
+identificando e padronizando boas práticas no setor público. Inclui-se plano de implementação destas práticas, com a
+implementação de uma estrutura de governança e gestão responsável pelo seu acompanhamento.
+
+P - Inventário, Regularização e Sistema de Gestão de Bens Móveis e Imóveis
+O sistema tem como subprodutos:
+a) levantamento todos os bens móveis com a finalidade de se adequar aos Procedimentos Contábeis Patrimoniais estabelecido
+pela Portaria STN n° 634/2013 e seus prazos;
+b) caracterização detalhada dos imóveis de propriedade do Estado, contendo levantamento topográfico, georreferenciamento,
+planta do imóvel, endereço de matrícula atualizado, latitude e longitude; índice cadastral do imóvel nos municípios; detalhamento
+de terrenos, edificações e benfeitorias; situação do imóvel; levantamento fotográfico; vocação do imóvel; e identificação de
+problemas de regularização;
+c) diagnóstico, levantamento de lacunas e atualização normativa e processual da gestão de bens imóveis;
+d) metodologia de determinação de vocação imobiliária;
+e) melhorias no sistema de gestão de imóveis;
+f) desenvolvimento de sistema de monitoramento de ativos patrimoniais por meio de tecnologias de georreferenciamento;  g)
+capacitação das equipes responsáveis pela utilização dos sistemas e detalhamento em campo; e
+h) aquisição de equipamentos necessários para operacionalização do sistema (estrutura de hardware e software, desktops,
+notebooks, impressoras, etc.).
+
+P - Sistema de Gestão de Patrimônio de TIC
+O sistema tem como subprodutos:
+a) desenho de processos, governança e estrutura para a implementação de processos de tomada de decisão orientados a dados;
+b) mapeamento dos sistemas existentes, com a identificação dos dados armazenados por sistema, sobreposições de informação,
+serviços e processos suportados por sistema;
+c) implementação de integrações de forma a otimizar o desempenho dos sistemas e a produtividade na obtenção de informações;
+d) implementar tecnologias para a melhoria da segurança das informações no setor público (nuvem, backups de segurança,
+criptografia de dados, entre outros);
+e) capacitações necessárias com as equipes nas novas ferramentas; e
+f) aquisição de equipamentos necessários para operacionalização do sistema (estrutura de hardware e software, desktops,
+notebooks, impressoras, etc.).
+
+C - GESTÃO FINANCEIRA, FISCAL E PATRIMONIAL EM SETORES ESTRATÉGICOS DO GOVERNO
+As áreas do componente representam os principais elementos de despesa na distribuição do gasto público do Estado e são
+informadas a partir da modelagem fiscal realizada pelo Banco Mundial, pelos insumos providos pela equipe técnica da Secretaria
+de Administração do Estado de Amazonas, e análises setoriais das equipes técnicas do estado em parcerias com os especialistas
+do BIRD.
+
+
+Página: 15
+
+S - RACIONALIZAÇÃO DO GASTO NA SAÚDE
+O estado de Amazonas vivencia diversas mudanças demográficas que afetam diretamente a gestão da saúde, com a redução do
+número de nascidos vivos em 14.87% no período entre 2018 e 2022 (de 77.870 para 68.068 crianças). No mesmo período, a
+expectativa de vida aumentou de 74.2 para 74.6 anos de vida. À medida que a população de Amazonas envelhece, o Estado
+enfrenta uma transição epidemiológica, com um aumento significativo da incidência de doenças crônico-degenerativas, como:
+doenças infecciosas e parasitárias (com 28% do total de óbitos), doenças do aparelho circulatório (14.5%), neoplasias (11%),
+doenças do aparelho respiratório (7%) e doenças de Alzheimer, as quais exigem em termos financeiros e de logística patrimonial a
+gestão da rede. Essas mudanças exigem esforços do sistema de saúde para adequação de sua gestão financeira e do
+planejamento em saúde.&#8239;
+&#8239;
+Em 2022, o total das despesas com saúde, totalizando todas as subfunções do orçamento, foi de aproximadamente R$ 4.4 bilhões,
+sendo R$ 3.6 bilhões executadas com recursos próprios do Estado, representando o maior percentual de execução com 83%. Os
+recursos provenientes das transferências do Governo Federal alcançaram um percentual de 15.57%. Entre 2013 e 2022 houve um
+aumento de 113% das despesas com a saúde pública estadual, em um reflexo direto da transição epidemiológica e dos entraves
+logísticos-assistenciais da gestão central. No Amazonas, 87% da população e 34 dos 62 municípios do estado dependem
+exclusivamente do Sistema Único de Saúde (SUS). Boa parte dos hospitais de referência e regionais estão sob controle do estado,
+respondendo por parcela considerável da prestação de serviços de saúde de média e alta complexidade, o que absorve uma
+parcela significativa e crescente do orçamento estadual de saúde.
+
+A maioria dos hospitais estaduais é de grande porte, embora variem consideravelmente em termos de tamanho, infraestrutura, uso
+de tecnologias, recursos humanos, qualificação das equipes e gerenciamento de insumos financeiros e patrimoniais. A despeito do
+SUS reembolsar os estados pelos serviços de saúde realizados nas unidades hospitalares desde que documentalmente
+comprovados, o estado de Amazonas não consegue comprovar parte considerável destes procedimentos, tendo que cobrir estas
+despesas com recursos do Tesouro estadual. Esse déficit está diretamente relacionado à ineficiência no processamento das
+despesas com saúde. A maioria das unidades hospitalares possui registros manuais para monitorar a prestação dos serviços e há
+poucos dados nos sistemas para apoiar o controle sistemático da cadeia de suprimentos, dos custos, e da conformidade da
+alocação dos recursos.
+
+O Estado pretende, por meio do Progestão, implementar um sistema de gerenciamento de despesas hospitalares, para todas as
+instalações de alta complexidade sob sua administração, melhorando o planejamento, orçamento, e a recuperação de despesas
+realizadas com os recursos federais. Além disso, o Estado quer viabilizar, com o apoio do BIRD, um programa de revisão do gasto
+público em saúde, apoiando-se nas melhores práticas orçamentárias e financeiras em seu planejamento estratégico e operacional.
+Espera-se que o sistema aumente a eficiência e a recuperação de despesas pelo SUS, a conformidade destes processos e, ao
+mesmo tempo, aprimore a transparência das demonstrações fiscais e financeiras.
+
+P - Sistema de gestão financeira para a saúde
+O sistema tem como subprodutos:
+a) desenvolvimento e implementação de uma ferramenta para revisão do gasto público que identifique as estruturas de custos e
+orçamentárias da administração e unidades de assistência da saúde;
+b) arquitetura corporativa de sistemas de tecnologia da informação para identificação de redundâncias e melhorias na gestão
+financeira da saúde estadual;
+c) atualização e implementação do sistema de gestão de custos hospitalares e farmacêuticos, de modo a otimizar os processo
+fiduciários;
+d) desenvolvimento e implantação de sistema para aumento da eficiência e gestão da alocação de recursos da saúde;
+e) implementação de atividades de capacitação e treinamento para apoiar as atividades e sistemas; e
+f) aquisição de equipamentos necessários para operacionalização do sistema (estrutura de hardware e software, desktops,
+notebooks, impressoras, etc.).
+
+S - RACIONALIZAÇÃO DO GASTO NA ASSISTÊNCIA SOCIAL
+São 2.596.023 amazonenses cadastrados no Cadastro Único, ou 65.8% da população (de acordo com dados de julho de 2023),
+compondo 1.051.825 famílias e, destas, 640.106 (60.85%) beneficiárias do Programa Bolsa Família (PBF). Além disso, 712.450 (
+67.73%) das famílias cadastradas no Cadastro Único se encontram em situação de pobreza, com renda per capita familiar mensal
+de até R$ 218,00, além de 131,896 (12.54%) famílias de baixa renda, com renda per capita entre R$218,01 e ½ salário-mínimo. No
+perfil das famílias cadastradas ainda se destacam pescadores e agricultores artesanais (14%) e indígenas (6.5%).
+
+Para a proteção social básica, o Estado do Amazonas possui 93 Centros de Referência de Assistência Social - CRAS presentes
+em todos os 62 municípios. Ainda, são 157 Centros de Convivência, 50 Postos de Cadastramento do Cadastro Único. No que
+tange à proteção social especial, são 58 Centros de Referência Especializados de Assistência Social - CREAS de gestão municipal
+. Tem-se também 3 Centros de Referência Especializados para População em Situação de Rua e 4 Centros Dia e similares.
+Quanto à proteção social especial de alta complexidade, o estado possui 42 unidades de acolhimento institucional, sendo
+executados por entidades não governamentais e governamentais. Por fim, 5.081 entidades ou organizações de assistência social
+distribuídas em 617 municípios compõem a rede social e assistencial.
+
+Para avanço e implementação de melhorias no Sistema Único de Assistência Social (SUAS), O Estado do Amazonas investe
+recursos destinados à execução de serviços e programas sob gestão estadual e para o fortalecimento das gestões municipais com
+o apoio técnico e financeiro para a execução dos serviços, projetos e benefícios. O cofinanciamento aos municípios pelos Fundo
+Estadual de Assistência Social (FEAS), principal fonte de financiamento no Estado, é de R$ 104.74 milhões  em 2022. incluindo os
+repasses do Governo Federal de R$3.34 milhões.
+
+
+Página: 16
+
+A política de Assistência Social do Estado tem atuado no fortalecimento das gestões municipais por meio de apoio técnico e
+financeiro para a execução das atividades. O Estado apresenta índice de 0,789 (variável até 1.00) em maio de 2023 no Índice de
+Gestão Descentralizada do Programa Bolsa Família e do Cadastro Único (IGDPBF), que compõe o cálculo do repasse de incentivo
+financeiro para o Estado; de 0,76 no Índice de Gestão Descentralizada do SUAS (IGD SUAS) que avaliam as dimensões de
+estrutura e gestão dos serviços prestados.
+
+A gestão estadual carece de sistemas robustos de preparação, monitoramento e prestação de contas das ações realizadas,
+ocorrendo de forma manual ou com o uso de ferramentas segmentadas que envolvem custos com pessoal, muitas viagens e
+suprimentos. A ineficiência da gestão das informações leva a sobreposições de ações, lacunas na prestação de serviços e a uma
+capacidade limitada de planejar as atividades. Ainda, o Estado ampliou suas atividades de cofinanciamento, aumentando os
+repasses aos 62 municípios de R$5 milhões em 2020 para R$12 milhões em 2022 e também  por meio de capacitações e
+treinamentos nos municípios nos últimos anos, demonstrando o intuito de investir na formação permanente, que poderia ser
+otimizada por meio do uso de ferramentas sistematizadas. A Secretaria de Assistência Social do Estado de Amazonas (SEAS)
+pretende implementar um novo sistema de informação gerencial que incluirá funcionalidades para garantir maior confiabilidade dos
+registros financeiros, prestação de contas digital, e fluidez para a execução dos recursos da área.
+
+Nesse sentido, a continuidade do investimento na assistência social é necessária por meio da modernização do processo de
+preparação dos planos de serviços para execução de recursos e prestação de contas. A prestação de contas dos recursos
+repassados aos municípios deve estar sob a gestão do governo local, aprovada por uma instância de controle social e reportada à
+SEAS. Um sistema computadorizado é extremamente importante para melhorar a eficiência e a eficácia da proteção social do
+Estado, bem como suprir as prefeituras com dados consolidados sobre os atendimentos realizados, a fim de qualificar a gestão
+orçamentária, administrativa e financeira da área.
+
+P - Sistema de financiamento integrada para a assistência social
+O sistema tem como subprodutos:
+a) desenvolvimento e implementação de um sistema de gestão físico-financeiro para os recursos do Sistema Único de Assistência
+Social, incluindo o cofinanciamento estadual, apoiando a gestão dos fundos transferidos para as municipalidades;
+b) revisão processual no nível da gestão para aumentar eficiência e possibilitar análises operacionais e financeiras, integração de
+dados, redução de redundâncias, e melhorias no monitoramento dos repasses;
+c) implementação de atividades de capacitação e treinamento para apoiar as atividades e sistemas; e
+d) aquisição de equipamentos necessários para operacionalização do sistema (estrutura de hardware e software, desktops,
+notebooks, impressoras, etc.).
+
+C - GESTÃO DO PROJETO
+As atividades de implementação e monitoramento do projeto incluindo bens, capacitação, equipes e auditorias.
+
+P - Aquisição de Bens
+Aquisição de bens para a Unidade Gestora do projeto.
+
+P - Serviço de consultoria e Não consultoria
+Serviços diversos durante a execução do projeto.
+
+P - Treinamento e Custos Operacionais
+Capacitação e treinamento para a execução do projeto.
+
+
+Página: 17
+
+Categoria de Gasto
+
+Bens
+P- Aquisição de Bens
+Consultoria
+P- Novo Sistema Integrado de Gestão de
+Recursos Humanos
+P- Sistema de Auditoria Automatizada da Folha de
+Pagamento
+P- Sistema de Análise e Projeções
+Previdenciárias
+P- Sistema de Revisão de Investimentos
+Previdenciários
+P- Sistema de Gestão de Compras e Contratos
+Públicos Estadual
+P- Modernização do Sistema de Gestão de
+Investimentos Públicos
+P- Sistema de Planejamento, Governança e
+Gestão
+P- Sistema de Controle e Integridade no uso dos
+Recursos Públicos
+P- Auditoria para a Aderência de Contabilidade
+P- Inventário, Regularização e Sistema de Gestão
+de Bens Móveis e Imóveis
+P- Sistema de Gestão de Patrimônio de TIC
+P- Sistema de gestão financeira para a saúde
+P- Sistema de financiamento integrada para a
+assistência social
+P- Serviço de consultoria e Não consultoria
+Capacitação e Treinamento
+P- Treinamento e Custos Operacionais
+Total Geral
+
+Unidade de medida
+-
+Unidade
+-
+Unidade
+
+Unidade
+
+Qtde Servidores
+Inativos
+Unidade
+
+Unidade
+
+Unidade
+
+Unidade
+
+Unidade
+
+Unidade
+Unidade
+
+Unidade
+Unidade
+Unidade
+
+Unidade
+-
+Unidade
+-
+
+Meta
+
+Valor
+
+% Financeiro
+
+-
+10,00
+-
+10,00
+
+10,00
+
+10,00
+
+10,00
+
+10,00
+
+10,00
+
+10,00
+
+10,00
+
+10,00
+10,00
+
+10,00
+10,00
+10,00
+
+10,00
+-
+10,00
+-
+
+200.000,00
+200.000,00
+59.100.000,00
+11.150.000,00
+
+1.000.000,00
+
+2.000.000,00
+
+800.000,00
+
+3.300.000,00
+
+3.300.000,00
+
+2.000.000,00
+
+800.000,00
+
+200.000,00
+12.450.000,00
+
+11.100.000,00
+6.700.000,00
+2.200.000,00
+
+2.100.000,00
+700.000,00
+700.000,00
+60.000.000,00
+
+0,33
+0,33
+98,50
+18,58
+
+1,67
+
+3,33
+
+1,33
+
+5,50
+
+5,50
+
+3,33
+
+1,33
+
+0,33
+20,75
+
+18,50
+11,17
+3,67
+
+3,50
+1,17
+1,17
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+O estado do Amazonas obteve da STN o melhor conceito estabelecido pelo Ranking de Qualidade da Informação Contábil e Fiscal no
+Siconfi de 2023, indicando uma boa gestão e transparência das finanças públicas. De acordo com o relatório, disponível no site do
+Tesouro Nacional, Amazonas se destacou, principalmente, no Indicador da Dimensão II - Informações Contábeis com 98% e na Dimensão
+III - Informações Fiscais, com 100% de precisão na metodologia adotada. No balanço geral, que inclui quatros indicadores, o Amazonas
+ficou com mais de 95%, obtendo o selo A no ranking do Tesouro Nacional.
+
+O Decreto n. 47.925/2023 estabelece, entre outros pontos, redução de 25% em contratos e despesas como locação, material de consumo
+e permanentes, aluguel de carros e combustível. Também estão previstas a redução em 25% no pagamento de diárias e horas extras e
+qualquer ato que resulte em aumento da despesa com pessoal e suspensão de contratos de serviços não essenciais.
+
+No âmbito da SEINFRA, a equipe técnica utiliza uma matriz de priorização de projetos a partir da aplicação do Decreto nº 42.959, de 4 de
+outubro de 2020.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Municipios
+
+Estado do Amazonas (MUNICIPIO DE  NOVO AIRAO, MUNICIPIO DE  ANORI, MUNICIPIO DE  ATALAIA DO NORTE, MUNICIPIO DE
+AUTAZES, MUNICIPIO DE  BARCELOS, MUNICIPIO DE  BARREIRINHA, MUNICIPIO DE  BENJAMIN CONSTANT, MUNICIPIO DE
+BOCA DO ACRE, MUNICIPIO DE  BORBA, MUNICIPIO DE  CANUTAMA, MUNICIPIO DE  CARAUARI, MUNICIPIO DE  CAREIRO,
+MUNICIPIO DE  COARI, MUNICIPIO DE  CODAJAS, MUNICIPIO DE  EIRUNEPE, MUNICIPIO DE  ENVIRA, MUNICIPIO DE  FONTE
+BOA, MUNICIPIO DE  HUMAITA, MUNICIPIO DE  SANTA ISABEL DO RIO NEGRO, MUNICIPIO DE  IPIXUNA, MUNICIPIO DE
+ITACOATIARA, MUNICIPIO DE  ITAPIRANGA, MUNICIPIO DE  JAPURA, MUNICIPIO DE  JURUA, MUNICIPIO DE  JUTAI, MUNICIPIO
+DE  LABREA, MUNICIPIO DE  MANACAPURU, MUNICIPIO DE  MANAUS, MUNICIPIO DE  MANICORE, MUNICIPIO DE  MARAA,
+MUNICIPIO DE  MAUES, MUNICIPIO DE  NHAMUNDA, MUNICIPIO DE  NOVA OLINDA DO NORTE, MUNICIPIO DE  NOVO ARIPUANA
+, MUNICIPIO DE  PARINTINS, MUNICIPIO DE  PAUINI, MUNICIPIO DE  SANTO ANTONIO DO ICA, MUNICIPIO DE  SAO PAULO DE
+OLIVENCA, MUNICIPIO DE  SILVES, MUNICIPIO DE  TAPAUA, MUNICIPIO DE  TEFE, MUNICIPIO DE  SAO GABRIEL DA
+CACHOEIRA, MUNICIPIO DE  URUCARA, MUNICIPIO DE  URUCURITUBA, MUNICIPIO DE  ALVARAES, MUNICIPIO DE  AMATURA,
+MUNICIPIO DE  ANAMA, MUNICIPIO DE  BERURI, MUNICIPIO DE  BOA VISTA DO RAMOS, MUNICIPIO DE  CAAPIRANGA,
+MUNICIPIO DE  CAREIRO DA VARZEA, MUNICIPIO DE  GUAJARA, MUNICIPIO DE  APUI, MUNICIPIO DE  IRANDUBA, MUNICIPIO
+DE  ITAMARATI, MUNICIPIO DE  MANAQUIRI, MUNICIPIO DE  PRESIDENTE FIGUEIREDO, MUNICIPIO DE  RIO PRETO DA EVA,
+MUNICIPIO DE  SAO SEBASTIAO DO UATUMA, MUNICIPIO DE  TABATINGA, MUNICIPIO DE  UARINI, MUNICIPIO DE  TONANTINS)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 18
+
+(i) O projeto fará uso do instrumento de financiamento do Banco Mundial chamado Empréstimo de Investimentos (Investment Project
+Financing - IPF). O valor total do empréstimo é de USD 60,000,000. Os valores de cada produto foram estimados pelos especialistas
+técnicos de cada secretaria do Estado em parceria com especialistas do Banco Mundial. É importante notar que os produtos que dispõem
+de consultorias para desenvolvimento de sistemas e modelos também incluem capacitação técnica das equipes que operarão os sistemas
+e/ou liderarão a implementação dos mesmos.
+
+Por ser uma operação de âmbito federal, estas condições serão discutidas e definidas pelo Tesouro Nacional. Abaixo destacam-se os
+parâmetros das possíveis condições financeiras da operação. Nota-se que as condições financeiras serão estabelecidas pela Secretaria
+do Tesouro Nacional, conforme seu julgamento técnico, logo as informações abaixo são apenas indicativas dos parâmetros de tal escolha:
+
+a) Prazo de Desembolso: 60 meses
+
+b) Prazo de Carência: até 60 meses
+
+c) Prazo de Amortização: até 168 meses
+
+d) Prazo Total: até 228 meses
+
+e) Periodicidade da Amortização: semestral
+
+f) Taxa de juros: SOFR semestral acrescida de margem variável
+
+g) Demais encargos e comissões: 0,25% de abertura, 0,25% sobre saldo não desembolsado
+
+h) Sobretaxa de exposição (exposure surcharge): 0.5% ao ano, sobre o montante que exceder ao limite de exposição do país (BL
+surcharge threshold), calculada diariamente nos termos do contrato.
+
+(ii) Como outras linhas de financiamento também não contemplam programas da natureza desejada e adotam altas taxas de juros,
+superiores aos cobrados pelos agentes multilaterais de crédito, o financiamento externo apresenta-se como uma alternativa viável, além
+de contar com o apoio técnico envolvido em um projeto financiado por uma instituição desse tipo.
+
+A parceria com o BIRD se mostra estratégica e vantajosa para o Estado do Amazonas pela vasta experiência internacional que o Banco
+tem em apoiar reformas estruturantes em vários níveis de governo na área de recursos humanos e folha de pagamento, gestão financeira
+nas setoriais, gestão de ativos e de orçamento, demonstrada por várias colaborações entre o Banco e os governos do mundo todo. Além
+da experiência internacional, o Banco teve um papel importante na produção dos insumos analíticos, em parceria com a SEFAZ, que
+resultaram no diagnóstico fiscal, financeiro e patrimonial apresentado neste documento. O Banco ainda conta com uma iniciativa
+específica (entre outras) que vai ao encontro direto das necessidades da melhoria da gestão pública proposta neste projeto.
+
+Anexo, exibimos quadro comparativo entre financiamendo BIRD e outras fontes.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+(i)
+
+Para atender a Gestão Financeira, Fiscal e Patrimonial nas áreas transversais do governo, as soluções incluem produtos relacionados aos
+seguintes subcomponentes: (i) racionalização do gasto com pessoal ativo; (ii) racionalização do gasto com pessoal inativo; (iii)
+modernização de compras públicas; (iv) racionalização dos investimentos públicos; e (v) racionalização de gastos com patrimônio.
+
+Para atender a Gestão Financeira, Fiscal e Patrimonial em setores estratégicos do governo as soluções incluem produtos relacionados
+aos seguintes subcomponentes: (i) racionalização do gasto na saúde; e (ii) racionalização do gasto na assistência social.
+
+Para atender a Gestão do Projeto as atividades de implementação e monitoramento do projeto incluindo bens, capacitação, equipes e
+auditorias. Para a aquisição bens, serviço de consultoria, não consultoria, treinamento e custos operacionais.
+
+(ii) Para a população do Amazonas, os resultados positivos estão vinculados à melhoria da qualidade de vida advinda da modernização
+dos serviços prestados ao usuário final, o cidadão. O desenvolvimento de sistemas, inovação e modernização tecnológica melhora a
+gestão fiscal, financeira e patrimonial, reduzindo o gasto público, ampliando a transparência do serviço e permitindo maior engajamento da
+sociedade nesses processos.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 19
+
+É o maior Estado do país em extensão territorial (1.559.168,117 km2). Ocupa mais de 18% de todo o território nacional, 31% da Amazônia
+Brasileira e 40.7% da Região Norte. Detém um dos mais baixos índices de densidade demográfica do país (2.53 hab/km2), com
+população estimada em 3.941.175 habitantes, dos quais 52.35% (2.063.547) vivem na capital Manaus e 47.65% (1.877.628) no interior (
+IBGE 2022).
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Externas
+
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+Total:
+
+Sigla
+
+BIRD
+
+Moeda
+
+Valor Proposto
+
+US$
+
+60.000.000,00
+
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+60.000.000,00
+
+60.000.000,00
+
+60.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+Os arranjos institucionais/operacionais para a execução do Projeto serão finalizados com base nas avaliações das capacidades técnicas,
+operacionais e fiduciárias a serem realizadas pelo Banco Mundial com o apoio do Estado (por meio da Secretaria de Estado de
+Administração e Gestão) durante a preparação do Projeto. As avaliações irão subsidiar também o desenvolvimento de um Plano de Apoio
+à Implementação do Projeto, a ser incluído no Manual Operacional do Projeto. A Matriz de Responsabilidades elenca as ações esperadas
+e o papel de cada uma das instituições a serem envolvidas na execução. Serão firmados instrumentos de cooperação com os demais
+órgãos beneficiários ou diretamente envolvidos com a execução do projeto, nos quais serão estabelecidas as obrigações/
+responsabilidades, conforme previsto no Regulamento Operativo do Progestão. Para os beneficiários da administração indireta também
+serão firmados instrumentos de cooperação, porém diferentes dos demais, a fim de adequar as necessidades do Estado e às exigências
+do Banco Mundial. Não haverá repasse de recursos entre a SEAD e as coexecutoras por três motivos: (i) a UGP ficará localizada na
+SEAD e encarregada de toda execução do projeto, cabendo às coexecutoras as ações de caráter técnico, (ii) a execução orçamentária
+financeira se dará por meio de uma conta única do Estado; e (iii) não haverá repasses do empréstimo aos municípios.
+
+COMPONENTE 1. GESTÃO FINANCEIRA, FISCAL E PATRIMONIAL PARA A GESTÃO TRANSVERSAL DO GOVERNO
+
+Subcomponente 1. Racionalização do gasto com pessoal ativo; Área: SEAD; Líder: SEAD
+
+Subcomponente 2. Racionalização do gasto com pessoal inativo; Área: AMAZONPREV; Líder: AMAZONPREV
+
+Subcomponente 3. Modernização de Compras Públicas; Área: CSC; Líder: SEAD
+
+Subcomponente 4. Redução do custo da dívida e racionalização dos investimentos públicos; Área: SEDECTI/CGE; Líder: SEDECTI/CGE
+
+Subcomponente 5. Racionalização de gastos com patrimônio; Área: SEAD; Líder: SEAD
+
+COMPONENTE 2. GESTÃO FINANCEIRA, FISCAL E PATRIMONIAL PARA SETORIAIS ESTRATÉGICAS
+
+Subcomponente 1. Racionalização de gasto na saúde; Área: SES; Líder: SES
+
+Subcomponente 2. Racionalização de gasto na assistência social; Área: SEAS; Líder: SEAS
+
+COMPONENTE 3. GESTÃO DO PROJETO
+
+Subcomponente 1. Instalação e Manutenção da Unidade de Gestão do Projeto (UGP); Área: SEAD; Líder: SEAD
+
+Em anexo, consta quadro de Matriz de Responsabilidade com as respectivas indicações.
+
+
+### 4.2. Execução/Executores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Executor: Secretaria de Administração e Gestão - SEAD
+
+Representante Oficial: Fabrício Rogério Cyrino Barbosa
+
+Endereço da Sede: Av. Constelação, 30 ? Conj. Morada do Sol, Aleixo
+E-mail Institucional:
+
+Telefone: (92)3182-2808
+
+CNPJ: 02287757000133
+
+Fax: (92)3182-2869
+UF:
+
+
+Página: 20
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+C - GESTÃO FINANCEIRA, FISCAL E PATRIMONIAL PARA AS ÁREAS TRANSVERSAIS DO GOVERNO
+
+COMPONENTES
+
+S - RACIONALIZAÇÃO DO GASTO COM PESSOAL ATIVO
+
+P - Novo Sistema Integrado de Gestão de Recursos Humanos
+
+P - Sistema de Auditoria Automatizada da Folha de Pagamento
+
+S - RACIONALIZAÇÃO DO GASTO COM PESSOAL INATIVO
+
+P - Sistema de Análise e Projeções Previdenciárias
+
+P - Sistema de Revisão de Investimentos Previdenciários
+
+S - MODERNIZAÇÃO DAS COMPRAS PÚBLICAS
+
+P - Sistema de Gestão de Compras e Contratos Públicos Estadual
+
+S - REDUÇÃO DO CUSTO DA DÍVIDA E RACIONALIZAÇÃO DOS INVESTIMENTOS PÚBLICOS
+
+P - Modernização do Sistema de Gestão de Investimentos Públicos
+
+P - Sistema de Planejamento, Governança e Gestão
+
+P - Sistema de Controle e Integridade no uso dos Recursos Públicos
+
+S - RACIONALIZAÇÃO DE GASTOS COM PATRIMÔNIO
+
+P - Auditoria para a Aderência de Contabilidade
+
+P - Inventário, Regularização e Sistema de Gestão de Bens Móveis e Imóveis
+
+P - Sistema de Gestão de Patrimônio de TIC
+
+C - GESTÃO FINANCEIRA, FISCAL E PATRIMONIAL EM SETORES ESTRATÉGICOS DO GOVERNO
+
+S - RACIONALIZAÇÃO DO GASTO NA SAÚDE
+
+P - Sistema de gestão financeira para a saúde
+
+S - RACIONALIZAÇÃO DO GASTO NA ASSISTÊNCIA SOCIAL
+
+P - Sistema de financiamento integrada para a assistência social
+
+C - GESTÃO DO PROJETO
+
+P - Aquisição de Bens
+
+P - Serviço de consultoria e Não consultoria
+
+P - Treinamento e Custos Operacionais
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+TOTAL
+
+BIRD
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+BIRD
+
+48.100.000,00
+
+6.150.000,00
+
+12.150.000,00
+
+1.400.000,00
+
+11.150.000,00
+
+1.300.000,00
+
+1.000.000,00
+
+100.000,00
+
+2.800.000,00
+
+300.000,00
+
+2.000.000,00
+
+200.000,00
+
+800.000,00
+
+100.000,00
+
+3.300.000,00
+
+400.000,00
+
+3.300.000,00
+
+400.000,00
+
+6.100.000,00
+
+850.000,00
+
+3.300.000,00
+
+500.000,00
+
+2.000.000,00
+
+200.000,00
+
+800.000,00
+
+150.000,00
+
+23.750.000,00
+
+3.200.000,00
+
+200.000,00
+
+200.000,00
+
+12.450.000,00
+
+1.500.000,00
+
+11.100.000,00
+
+1.500.000,00
+
+8.900.000,00
+
+600.000,00
+
+6.700.000,00
+
+500.000,00
+
+6.700.000,00
+
+500.000,00
+
+2.200.000,00
+
+100.000,00
+
+2.200.000,00
+
+100.000,00
+
+3.000.000,00
+
+420.000,00
+
+200.000,00
+
+20.000,00
+
+2.100.000,00
+
+300.000,00
+
+700.000,00
+
+100.000,00
+
+0,00
+
+7.170.000,00
+
+0,00
+
+C - GESTÃO FINANCEIRA, FISCAL E PATRIMONIAL PARA AS ÁREAS TRANSVERSAIS DO GOVERNO
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+S - RACIONALIZAÇÃO DO GASTO COM PESSOAL ATIVO
+
+P - Novo Sistema Integrado de Gestão de Recursos Humanos
+
+P - Sistema de Auditoria Automatizada da Folha de Pagamento
+
+S - RACIONALIZAÇÃO DO GASTO COM PESSOAL INATIVO
+
+P - Sistema de Análise e Projeções Previdenciárias
+
+P - Sistema de Revisão de Investimentos Previdenciários
+
+S - MODERNIZAÇÃO DAS COMPRAS PÚBLICAS
+
+P - Sistema de Gestão de Compras e Contratos Públicos Estadual
+
+S - REDUÇÃO DO CUSTO DA DÍVIDA E RACIONALIZAÇÃO DOS INVESTIMENTOS PÚBLICOS
+
+P - Modernização do Sistema de Gestão de Investimentos Públicos
+
+P - Sistema de Planejamento, Governança e Gestão
+
+P - Sistema de Controle e Integridade no uso dos Recursos Públicos
+
+S - RACIONALIZAÇÃO DE GASTOS COM PATRIMÔNIO
+
+P - Auditoria para a Aderência de Contabilidade
+
+P - Inventário, Regularização e Sistema de Gestão de Bens Móveis e Imóveis
+
+P - Sistema de Gestão de Patrimônio de TIC
+
+C - GESTÃO FINANCEIRA, FISCAL E PATRIMONIAL EM SETORES ESTRATÉGICOS DO GOVERNO
+
+S - RACIONALIZAÇÃO DO GASTO NA SAÚDE
+
+P - Sistema de gestão financeira para a saúde
+
+S - RACIONALIZAÇÃO DO GASTO NA ASSISTÊNCIA SOCIAL
+
+P - Sistema de financiamento integrada para a assistência social
+
+C - GESTÃO DO PROJETO
+
+TOTAL
+
+BIRD
+
+Ano 2
+
+FONTES
+
+BIRD
+
+10.400.000,00
+
+2.900.000,00
+
+2.700.000,00
+
+200.000,00
+
+550.000,00
+
+400.000,00
+
+150.000,00
+
+800.000,00
+
+800.000,00
+
+1.350.000,00
+
+800.000,00
+
+400.000,00
+
+150.000,00
+
+4.800.000,00
+
+0,00
+
+2.300.000,00
+
+2.500.000,00
+
+1.300.000,00
+
+1.000.000,00
+
+1.000.000,00
+
+300.000,00
+
+300.000,00
+
+750.000,00
+
+
+P - Aquisição de Bens
+
+P - Serviço de consultoria e Não consultoria
+
+P - Treinamento e Custos Operacionais
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - GESTÃO FINANCEIRA, FISCAL E PATRIMONIAL PARA AS ÁREAS TRANSVERSAIS DO GOVERNO
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+S - RACIONALIZAÇÃO DO GASTO COM PESSOAL ATIVO
+
+P - Novo Sistema Integrado de Gestão de Recursos Humanos
+
+P - Sistema de Auditoria Automatizada da Folha de Pagamento
+
+S - RACIONALIZAÇÃO DO GASTO COM PESSOAL INATIVO
+
+P - Sistema de Análise e Projeções Previdenciárias
+
+P - Sistema de Revisão de Investimentos Previdenciários
+
+S - MODERNIZAÇÃO DAS COMPRAS PÚBLICAS
+
+P - Sistema de Gestão de Compras e Contratos Públicos Estadual
+
+S - REDUÇÃO DO CUSTO DA DÍVIDA E RACIONALIZAÇÃO DOS INVESTIMENTOS PÚBLICOS
+
+P - Modernização do Sistema de Gestão de Investimentos Públicos
+
+P - Sistema de Planejamento, Governança e Gestão
+
+P - Sistema de Controle e Integridade no uso dos Recursos Públicos
+
+S - RACIONALIZAÇÃO DE GASTOS COM PATRIMÔNIO
+
+P - Auditoria para a Aderência de Contabilidade
+
+P - Inventário, Regularização e Sistema de Gestão de Bens Móveis e Imóveis
+
+P - Sistema de Gestão de Patrimônio de TIC
+
+C - GESTÃO FINANCEIRA, FISCAL E PATRIMONIAL EM SETORES ESTRATÉGICOS DO GOVERNO
+
+S - RACIONALIZAÇÃO DO GASTO NA SAÚDE
+
+P - Sistema de gestão financeira para a saúde
+
+S - RACIONALIZAÇÃO DO GASTO NA ASSISTÊNCIA SOCIAL
+
+P - Sistema de financiamento integrada para a assistência social
+
+C - GESTÃO DO PROJETO
+
+P - Aquisição de Bens
+
+P - Serviço de consultoria e Não consultoria
+
+P - Treinamento e Custos Operacionais
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - GESTÃO FINANCEIRA, FISCAL E PATRIMONIAL PARA AS ÁREAS TRANSVERSAIS DO GOVERNO
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+S - RACIONALIZAÇÃO DO GASTO COM PESSOAL ATIVO
+
+P - Novo Sistema Integrado de Gestão de Recursos Humanos
+
+P - Sistema de Auditoria Automatizada da Folha de Pagamento
+
+S - RACIONALIZAÇÃO DO GASTO COM PESSOAL INATIVO
+
+P - Sistema de Análise e Projeções Previdenciárias
+
+P - Sistema de Revisão de Investimentos Previdenciários
+
+S - MODERNIZAÇÃO DAS COMPRAS PÚBLICAS
+
+P - Sistema de Gestão de Compras e Contratos Públicos Estadual
+
+S - REDUÇÃO DO CUSTO DA DÍVIDA E RACIONALIZAÇÃO DOS INVESTIMENTOS PÚBLICOS
+
+P - Modernização do Sistema de Gestão de Investimentos Públicos
+
+P - Sistema de Planejamento, Governança e Gestão
+
+P - Sistema de Controle e Integridade no uso dos Recursos Públicos
+
+S - RACIONALIZAÇÃO DE GASTOS COM PATRIMÔNIO
+
+P - Auditoria para a Aderência de Contabilidade
+
+P - Inventário, Regularização e Sistema de Gestão de Bens Móveis e Imóveis
+
+P - Sistema de Gestão de Patrimônio de TIC
+
+C - GESTÃO FINANCEIRA, FISCAL E PATRIMONIAL EM SETORES ESTRATÉGICOS DO GOVERNO
+
+S - RACIONALIZAÇÃO DO GASTO NA SAÚDE
+
+P - Sistema de gestão financeira para a saúde
+
+S - RACIONALIZAÇÃO DO GASTO NA ASSISTÊNCIA SOCIAL
+
+P - Sistema de financiamento integrada para a assistência social
+
+C - GESTÃO DO PROJETO
+
+P - Aquisição de Bens
+
+P - Serviço de consultoria e Não consultoria
+
+P - Treinamento e Custos Operacionais
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 21
+
+50.000,00
+
+500.000,00
+
+200.000,00
+
+0,00
+
+12.450.000,00
+
+0,00
+
+TOTAL
+
+BIRD
+
+Ano 3
+
+FONTES
+
+BIRD
+
+11.900.000,00
+
+3.100.000,00
+
+2.800.000,00
+
+300.000,00
+
+600.000,00
+
+400.000,00
+
+200.000,00
+
+850.000,00
+
+850.000,00
+
+1.650.000,00
+
+900.000,00
+
+600.000,00
+
+150.000,00
+
+5.700.000,00
+
+0,00
+
+3.000.000,00
+
+2.700.000,00
+
+2.500.000,00
+
+2.000.000,00
+
+2.000.000,00
+
+500.000,00
+
+500.000,00
+
+750.000,00
+
+50.000,00
+
+500.000,00
+
+200.000,00
+
+0,00
+
+15.150.000,00
+
+0,00
+
+TOTAL
+
+BIRD
+
+Ano 4
+
+FONTES
+
+BIRD
+
+12.250.000,00
+
+3.300.000,00
+
+3.000.000,00
+
+300.000,00
+
+750.000,00
+
+500.000,00
+
+250.000,00
+
+700.000,00
+
+700.000,00
+
+1.500.000,00
+
+900.000,00
+
+400.000,00
+
+200.000,00
+
+6.000.000,00
+
+0,00
+
+3.500.000,00
+
+2.500.000,00
+
+1.800.000,00
+
+1.000.000,00
+
+1.000.000,00
+
+800.000,00
+
+800.000,00
+
+650.000,00
+
+50.000,00
+
+500.000,00
+
+100.000,00
+
+0,00
+
+14.700.000,00
+
+0,00
+
+
+C - GESTÃO FINANCEIRA, FISCAL E PATRIMONIAL PARA AS ÁREAS TRANSVERSAIS DO GOVERNO
+
+COMPONENTES
+
+S - RACIONALIZAÇÃO DO GASTO COM PESSOAL ATIVO
+
+P - Novo Sistema Integrado de Gestão de Recursos Humanos
+
+P - Sistema de Auditoria Automatizada da Folha de Pagamento
+
+S - RACIONALIZAÇÃO DO GASTO COM PESSOAL INATIVO
+
+P - Sistema de Análise e Projeções Previdenciárias
+
+P - Sistema de Revisão de Investimentos Previdenciários
+
+S - MODERNIZAÇÃO DAS COMPRAS PÚBLICAS
+
+P - Sistema de Gestão de Compras e Contratos Públicos Estadual
+
+S - REDUÇÃO DO CUSTO DA DÍVIDA E RACIONALIZAÇÃO DOS INVESTIMENTOS PÚBLICOS
+
+P - Modernização do Sistema de Gestão de Investimentos Públicos
+
+P - Sistema de Planejamento, Governança e Gestão
+
+P - Sistema de Controle e Integridade no uso dos Recursos Públicos
+
+S - RACIONALIZAÇÃO DE GASTOS COM PATRIMÔNIO
+
+P - Auditoria para a Aderência de Contabilidade
+
+P - Inventário, Regularização e Sistema de Gestão de Bens Móveis e Imóveis
+
+P - Sistema de Gestão de Patrimônio de TIC
+
+C - GESTÃO FINANCEIRA, FISCAL E PATRIMONIAL EM SETORES ESTRATÉGICOS DO GOVERNO
+
+S - RACIONALIZAÇÃO DO GASTO NA SAÚDE
+
+P - Sistema de gestão financeira para a saúde
+
+S - RACIONALIZAÇÃO DO GASTO NA ASSISTÊNCIA SOCIAL
+
+P - Sistema de financiamento integrada para a assistência social
+
+C - GESTÃO DO PROJETO
+
+P - Aquisição de Bens
+
+P - Serviço de consultoria e Não consultoria
+
+P - Treinamento e Custos Operacionais
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+Página: 22
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+BIRD
+
+TOTAL
+
+BIRD
+
+7.400.000,00
+
+48.100.000,00
+
+1.450.000,00
+
+12.150.000,00
+
+1.350.000,00
+
+11.150.000,00
+
+100.000,00
+
+1.000.000,00
+
+600.000,00
+
+2.800.000,00
+
+500.000,00
+
+2.000.000,00
+
+100.000,00
+
+800.000,00
+
+550.000,00
+
+3.300.000,00
+
+550.000,00
+
+3.300.000,00
+
+750.000,00
+
+6.100.000,00
+
+200.000,00
+
+3.300.000,00
+
+400.000,00
+
+2.000.000,00
+
+150.000,00
+
+800.000,00
+
+4.050.000,00
+
+23.750.000,00
+
+0,00
+
+200.000,00
+
+2.150.000,00
+
+12.450.000,00
+
+1.900.000,00
+
+11.100.000,00
+
+2.700.000,00
+
+8.900.000,00
+
+2.200.000,00
+
+6.700.000,00
+
+2.200.000,00
+
+6.700.000,00
+
+500.000,00
+
+2.200.000,00
+
+500.000,00
+
+2.200.000,00
+
+430.000,00
+
+3.000.000,00
+
+30.000,00
+
+200.000,00
+
+300.000,00
+
+2.100.000,00
+
+100.000,00
+
+700.000,00
+
+60.000.000,00
+
+10.530.000,00
+
+60.000.000,00
+
+A implementação do projeto demanda Lei estadual autorizativa para o Executivo Estadual contrair o empréstimo e de Decretos, Portarias e
+Instruções de Serviços para disciplinar a execução dos processos aperfeiçoados ou implantados quando da conclusão dos produtos.
+Quanto aos Decretos e às Portarias e Instruções de Serviço, o Executivo estadual tem plena governabilidade sobre o processo necessário
+à sua edição, contando ainda com equipes suficientemente capacitadas para proceder a sua concepção e redação.
+
+No que se refere à Lei autorizativa, a equipe de governo responsável pelo relacionamento com a Assembleia Legislativa tem mostrado o
+real estado das finanças estaduais e sensibilizado os membros daquele Poder da importância do financiamento para melhorar a
+arrecadação e aplicação dos recursos públicos. O Poder Executivo do Estado já providenciou mensagem ao Poder Legislativo Estadual
+solicitando autorização legislativa para contrair o empréstimo junto ao Banco Mundial. Nos moldes propostos neste programa, os recursos
+a serem disponibilizados pela instituição financeira serão aplicados diretamente pelo Estado, após os devidos processos licitatórios, que
+seguirão as diretrizes do agente financeiro, conforme preconiza a legislação brasileira.
+
+Também de antemão estão de sobreaviso o Poder Legislativo para as alterações legais futuras advindas da estruturação de novos
+sistemas e processos na gestão fiscal, financeira e patrimonial do Estado, subsidiados pelos produtos referenciados nesta carta.
+
+Em outro giro, no que concerne a esfera Estadual, foi estabelecido o Decreto Nº 47.925, de 16 de agosto de  2023 que normatiza medidas
+obrigatórias de redução de despesas no âmbito do Poder Executivo Estadual, e também o Decreto N° 48.878, de 29 de Dezembro de
+2023, o qual prorroga o Decreto anterior mencionado.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+As principais contratações estão vinculadas aos produtos listados nos componentes do projeto. Será necessária a contratação de bens,
+serviços de consultorias, de não consultoria e treinamentos. O governo do estado montará uma equipe robusta para coordenar e monitorar
+a execução do projeto, com especialistas técnicos, de aquisições e desembolsos nas regras do agente financiador.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 23
+
+Os principais riscos estariam associados ao atraso na elaboração dos documentos preparatórios de licitação, tais como: plano de
+aquisição, termos de referências, projetos executivos, estimativas de custos, editais. Tais riscos serão mitigados com o apoio
+especializado em aquisições para auxiliar os órgãos participantes, monitoramento e controle em todas as etapas de planejamento,
+licitação, contratação e conclusão, reuniões periódicas sobre o desempenho dos contratos, com sinalização de probabilidade de
+cumprimento e com elaboração de plano de ação para o cumprimento dos mesmos. Além disso, espera-se boa articulação junto às
+setoriais participantes e a central de licitações na etapa inicial da implementação do Projeto. A equipe do Estado estruturará o Manual de
+Operações do Projeto, com a anuência do Banco, para indicar perfis e backups para as funções aqui mencionadas, bem como uma
+estrutura de governança que facilite a execução junto de todos os órgãos e entidades beneficiados pelo projeto. Ademais, as equipes
+gestoras do Estado já conhecem o arranjo de aquisições do Banco Mundial e passarão por treinamentos contínuos envolvendo os
+diferentes processos e categorias de desembolso.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Não se aplica pois o projeto compreende entre as categorias de desembolso apenas serviços de consultoria,
+
+de não consultoria e bens. Obras não são elegíveis ao projeto.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+Não se aplica. A despeito do mandato do Progestão conforme à exceção prevista no art. 7 da Resolução do
+
+Senado Federal 43/2001, os impactos ambientais são insignificantes, uma vez que o escopo abrange
+
+melhorias nos processos e sistemas de gestão. Posteriormente o Plano de Compromissos Ambientais e
+
+Sociais do Projeto detalhará estes pontos, elencando as ações que o Estado adotará para justificar a não
+
+aplicação.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+Não se aplica.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Não se aplica.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)

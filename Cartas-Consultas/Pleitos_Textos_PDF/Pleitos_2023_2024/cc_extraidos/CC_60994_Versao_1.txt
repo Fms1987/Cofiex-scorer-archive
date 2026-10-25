@@ -1,0 +1,655 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Mais Saneamento Bahia
+Nº Carta Consulta: 60994
+Mutuário: Empresa Baiana de Águas e Saneamento S.A. - EMBASA
+Tipo de Operação: Operação de crédito externo
+Fontes Externas:
+New Development Bank - NDB: US$ 300.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+04
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 04
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 04
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 04
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 04
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 05
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 05
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 05
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 05
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 06
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 06
+3. FINANCIAMENTO .......................................................................................................................................................................................... 07
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 07
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 07
+4. EXECUÇÃO ...................................................................................................................................................................................................
+07
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 07
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 08
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 08
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 08
+5. RISCOS .......................................................................................................................................................................................................... 08
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 08
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 09
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 09
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 09
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 09
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 09
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+09
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+(i)A Bahia, maior estado da região Nordeste do Brasil (em termos de extensão territorial e população) possui diversas áreas vulneráveis do
+ponto de vista socioeconômico e ambiental. Tal circunstância deve-se a fatores diversos, destacando-se dentre eles as reverberações das
+mudanças climáticas e o intenso processo de urbanização que vem ocorrendo em diversos municípios baianos (a exemplo de Feira de
+Santana, Vitória da Conquista, Jequié e Barreiras). 
+
+O crescimento/expansão dessas áreas impõe grande pressão nos serviços de infraestrutura urbana, e notadamente os maiores impactos
+são percebidos na esfera do Saneamento Básico. 
+
+Neste diapasão, ao longo das últimas décadas a Bahia vem enfrentando crises hídricas graves, com características cíclicas prolongadas,
+que tem comprometido a disponibilidade de água em mananciais superficiais e subterrâneos. Por consequência, isso tem reduzida a
+vazão de atendimento das demandas de abastecimento de água da população e a dessedentação de animais, constituindo-se também é
+um gargalo ao desenvolvimento do estado. 
+
+Na área de atuação da Embasa (367 dos 417 municípios do Estado da Bahia) medidas emergenciais têm sido adotadas, sobretudo para
+mitigar os impactos decorrentes de tais limitações ambientais. Tais medidas incluem o abastecimento de comunidades por meio de carros-
+pipas, a construção de sistemas provisórios para transposição de cursos d?água, e a alteração no regime de operação de barragens,
+captações, estações de tratamento de água (ETA) e reservatórios.
+
+Com a visão do ecodesenvolvimento estabelecida, apresenta-se um relato da problemática existente no Estado da Bahia na área de
+abrangência da presente carta-consulta, com relação às questões afetas ao saneamento e suas consequências no meio ambiente e na
+saúde pública.
+
+À medida que os problemas com a oferta de água são solucionados, agrava-se a questão do esgotamento sanitário em diversos
+municípios baianos. O lançamento de esgotos domésticos, industriais e hospitalares em redes de drenagem que permeia as cidades e
+deságuam diretamente nos rios, canais ou nas praias, causam a poluição da água e comprometem a balneabilidade dos corpos hídricos.
+A Poluição compromete também os reservatórios de água que abastecem a população, bem como servem de fonte de irrigação.
+
+Esta situação traz impactos diretos à população não atendida, com elevados riscos à saúde pública, e também à população atendida, de
+modo indireto, em função da poluição dos recursos hídricos, que recebem a carga poluidora dos esgotos não tratados.
+
+Mesmo com todos os investimentos aportados ao longo dos últimos anos, na implantação de sistemas de esgotamento sanitário na RMS e
+no interior do Estado, ainda são baixos os índices de universalização do serviço no Estado. É premente e oportuno, à medida que os
+problemas com a oferta de água são solucionados, ampliar os investimentos na requalificação e na expansão dos serviços de coleta,
+afastamento e tratamento de esgotos sanitários, de forma que seja possível cumprir as ousadas metas de universalização, em todo o
+Estado da Bahia.
+
+A Embasa atende 27,34% com serviços de esgotamento sanitário (114 municípios), sendo 1.551.982 com ligações de esgoto.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+(ii)A proposta para o financiamento é que os recursos apoiem a EMBASA na execução do seu Plano Investimentos para atender ao Novo
+Marco Legal do Saneamento, que foi criado com o objetivo de universalizar o acesso aos serviços de distribuição de água e esgoto, sendo
+ estipulada a meta de atingimento de 99% e 90% de cobertura, respectivamente.
+Dessa forma, o objetivo é atuar em 2 componentes: 
+- Eficiência operacional e obras de ampliação de sistemas de abastecimento de água; e 
+- Universalização dos serviços de esgotamento sanitário.
+
+COMPONENTE 1 ? EFICIÊNCIA OPERACIONAL E OBRAS DE AMPLIAÇÃO DE SISTEMAS DE ABASTECIMENTO DE ÁGUA
+SOLUÇÃO PROPOSTA
+Para o Componente 1, a Embasa mapeou ações estruturantes prioritárias, que possuem potencial de melhoria do abastecimento de água
+das cidades, e estão alinhadas com a promoção da sustentabilidade, em suas 03 dimensões (social, econômica e ambiental). 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 3
+Tais ações contemplam eixos estruturados, com destaque para: 
+a)Requalificação/Ampliação de Sistemas de Abastecimento de Água, com vistas ao atendimento das metas de universalização/cobertura
+do serviço e garantia de abastecimento contínuo (24/7), sem intermitências rotineiras (manobras). 
+b)Melhoria da eficiência operacional dos sistemas de abastecimento de água, com vistas ao combate e à redução de perdas de água (
+reais e aparentes). Dentre as ações deste eixo tem-se: 
+- Implantação de novas tecnologias para (a) controle ativo de vazamentos e, (b) qualidade e velocidade de reparos em redes e ramais de
+distribuição. No mapeamento feito está a mobilização para pesquisa de vazamento por satélite (tecnologia israelense), a melhoria no
+cadastro de redes subterrâneas, por meio do uso de equipamento tipo georadar e a disponibilidade novos sistemas para controle e
+monitoramento dos sistemas de distribuição de água. 
+- Remodelagem de contratos de performance voltados à manutenção de redes e ramais de água. Com o objetivo de torná-los ferramentas
+eficientes aos alcances das metas de indicadores de redução de perdas de água. 
+- Implantação de Distritos de Medição e Controle (DMC) em diversos setores hidráulicos. 
+c)Melhoria da eficiência operacional dos sistemas de abastecimento de água, com vistas à garantia da produção/distribuição de água com
+alto padrão de potabilidade. 
+
+RESULTADOS ESPERADOS
+Com a execução das ações supramencionadas, projeta-se melhoria significativa na qualidade da prestação dos serviços de abastecimento
+ de água, e sendo possível realizar a medição dos resultados alcançados em termos do seguinte parâmetro/indicador: 
+?Aumento da cobertura do serviço de abastecimento de água (medido em termos de número de novas ligações executadas em campo e
+incorporadas ao sistema), para este temos o indicador Acréscimo de Ligações de Água (ALA), que revela todo o esforço da Embasa para
+atender cada vez mais a população baiana rumo a universalização do acesso à água tratada.
+
+COMPONENTE 2 ? UNIVERSALIZAÇÃO DOS SERVIÇOS DE ESGOTAMENTO SANITÁRIO
+SOLUÇÃO PROPOSTA
+Para o Componente 2, apesar de todos os esforços empreendidos pela EMBASA e pelo Governo do Estado, é necessário ampliar as
+inversões externas no setor, para complementar e potencializar os investimentos já assegurados, e assim permitir o cumprimento das
+metas ambientais estabelecidas. Ao mesmo tempo, é também necessário que os recursos sejam aplicados em ações estruturantes como
+as aqui propostas, de modo a garantir sua sustentabilidade de longo prazo.
+A contratação do presente financiamento é decisiva para a interiorização das ações de sustentabilidade hídrica, ao contemplar
+Implantação e Ampliação do Sistema de Esgotamento Sanitário em diversos municípios do Estado da Bahia.
+
+RESULTADOS ESPERADOS
+Desta forma, as ações propostas nesta carta-consulta visam promover a requalificação e ampliação dos sistemas de esgotamento
+sanitário das áreas urbanas dos municípios da Bahia, garantindo o atendimento das metas de universalização estabelecidasnos acordos
+firmados com os agentes ambientais. 
+Atualmente, o índice de atendimento urbano de esgoto da EMBASA é de 50,42%, com o Novo Marco do Saneamento teremos que atingir
+o índice de 90% até o ano de 2033. Dessa forma, esse investimento é essencial nesse caminho para o atingimento da meta estabelecida.
+
+(iii) SUSTENTABILIDADE
+Em 2022, a Embasa investiu R$ 5,78 milhões em estudos, inspeções, manutenção e recuperação estrutural das barragens sob sua
+responsabilidade. Foram registrados avanços na elaboração dos Planos de Segurança de Barragens (PSB) e a previsão é que, até o final
+do primeiro semestre de 2023, todos os PSBs estejam concluídos. Para os anos 2023 e 2024, estão previstos investimentos de mais R$
+12,20 milhões na continuidade das obras de recuperação de barragens, implantação de sistemas de alerta, elaboração de planos de
+segurança, além da implantação do monitoramento telemétrico dos níveis das barragens e de alguns afluentes.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 4
+Programa de Energias Renováveis: A Embasa garantiu uma economia de R$ 50,4 milhões no ano de 2022 no âmbito de diversas ações.
+Dentre os destaques, constam a economia obtida através da migração de cargas pelo mercado livre de energia (R$ 45,4 milhões) e a
+economia de R$ 2,77 milhões referente ao processo de auditoria de faturas. Além dos valores citados, em 2022, a empresa foi ressarcida
+em cerca de R$ 820 mil a partir de sua contribuição no Programa de Incentivo a Redução Voluntária de Consumo, através de diversas
+ações de otimização no uso da energia elétrica conforme as diretrizes estabelecidas pelo Governo Federal através da Resolução n° 02/
+2021/CREG.
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+(i)1.ORIENTAÇÕES ESTRATÉGICAS
+No que diz respeito à disponibilização de água à população, nota-se uma melhora operacional, já que houve redução nas intermitências (
+interrupções da distribuição de água), tanto em quantidade de economias afetadas quanto ao tempo em que o serviço ficou interrompido.
+A disponibilização de água à população apresentou patamar similar a 2021, ficando em torno de 16,27 m³/mensais por economia. Na
+busca pela excelência, a Embasa vem aumentando o monitoramento da qualidade da água disponibilizada à população, considerando as
+exigências previstas nas resoluções do Conselho Nacional do Meio Ambiente (Conama) para operação dos sistemas da empresa e as
+diretrizes previstas no anexo XX da Portaria de Consolidação Nº 05/2017do Ministério da Saúde (MS) alterado pelas Portarias 888/2021 e
+2.472/2021. Em 2022, a Embasa executou uma série de ações estratégicas, com destaque para os investimentos na ordem de R$ 4,8
+milhões em tecnologia analítica de ponta para os laboratórios de controle da qualidade e a implantação de sistemas informatizados para
+melhorar o processo de controle da qualidade da água da empresa, visando à qualificação do escopo e descentralização das análises.
+No que tange esgotamento sanitário, em 2022, a Superintendência de Operação Norte- IN destinou 22,57% dos investimentos (
+aproximadamente R$36,7milhões) para ampliar a cobertura dos sistemas de esgotamento sanitário, 
+modernizar/manter ativos e melhorar processos visando a satisfação dos clientes e preservaçãodomeio ambiente. Para o ano de 2023,
+estão previstos aproximadamente R$22,1 milhões para este fim. Importantes projetos estão em andamento. 
+Assim, para fazer frente a novas ações estruturadoras estratégicas para a melhoria e a expansão dos serviços de abastecimento de água
+e esgotamento sanitário no Estado, a Companhia decidiu dar um passo diferente na gestão financeira, buscando captar diretamente
+recursos junto aos bancos internacionais, que oferecem linhas de crédito mais longas e taxas atrativas. A Companhia entende que esta
+captação com o NDB permitirá: reduzir o custo de captação e alongar o perfil da dívida; investir de forma sustentável; se beneficiar da
+experiência do NDB em projetos similares e em seus países membros.
+
+(ii) CONTRAPARTIDA: Sem contrapartida financeira.
+
+(iii) TAXA DE CÂMBIO: Com relação ao cronograma de desembolsos do programa em questão, foi utilizada como moeda do contrato o
+dólar americano, adotando como cotação: 1US$ = 5,03R$. (em 01/06/2023).
+
+2. Projeto
+2.1. Título
+Mais Saneamento Bahia
+2.2. Título Abreviado
+MSB
+2.3. Mutuário
+Empresa Baiana de Águas e Saneamento S.A. - EMBASA
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+(i)OBJETIVO GERAL
+O objetivo geral do Programa é ampliar, de forma eficiente e sustentável, a oferta de serviços de abastecimento de água e de
+esgotamento sanitário, otimizando a operação dos sistemas e contribuindo para o desenvolvimento econômico e social do Estado da
+Bahia.
+
+(ii)OBJETIVOS ESPECÍFICOS
+-Requalificar e ampliar os sistemas de abastecimento de água do Estado da Bahia, garantindo a ampliação da oferta de água, a
+eliminação do rodízio e a redução das perdas na operação;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 5
+-Requalificar e ampliar os sistemas de esgotamento sanitário do Estado da Bahia, garantido a universalização do serviço e o cumprimento
+dos Termos de Compromisso para o atendimento às metas do novo marco do saneamento;
+-Promover a otimização dos processos de tratamento de água;
+-Melhorar a qualidade de vida em comunidades beneficiadas com a implantação das redes de abastecimento de água, coleta e tratamento
+ de esgotos.
+
+2.6. Projeto/Indicadores
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+ALA - Acréscimo de ligação de água
+Somatório da
+quantidade de novas
+ligações de água no
+período
+unidade
+99.429,00
+74.936,00
+ALE - Acréscimo de Ligações de Esgoto
+Somatório da
+quantidade de novas
+ligações de esgoto no
+período 
+unidade
+55.199,00
+244.379,00
+2.7. Projeto/Componentes
+Componentes
+Valor(US$)
+C - OBRAS DE AMPLIAÇÃO DE SISTEMAS DE ABASTECIMENTO DE ÁGUA E ESGOTAMENTO SANITARIO
+300.000.000,00
+   S - OBRAS DE AMPLIAÇÃO SISTEMA ABASTECIMENTO DE AGUA E ESGOTAMENTO SANITÁRIO
+300.000.000,00
+      P - OBRAS DE AMPLIAÇÃO SISTEMA ABASTECIMENTO DE AGUA E ESGOTAMENTO SANITÁRIO
+300.000.000,00
+Total dos Componentes
+300.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - OBRAS DE AMPLIAÇÃO DE SISTEMAS DE ABASTECIMENTO DE ÁGUA E ESGOTAMENTO SANITARIO
+Requalificação/Ampliação de Sistemas de Abastecimento de Água e esgotamento sanitário no Estado da Bahia. com vistas ao
+atendimento das metas de universalização/cobertura dos serviços.
+   S - OBRAS DE AMPLIAÇÃO SISTEMA ABASTECIMENTO DE AGUA E ESGOTAMENTO SANITÁRIO
+Requalificação/Ampliação de Sistemas de Abastecimento de Água, com vistas ao atendimento das metas de universalização/
+cobertura do serviço e garantia de abastecimento contínuo (24/7), sem intermitências rotineiras (manobras). 
+Com a realização das ações aqui relacionadas se espera uma melhoria significativa na qualidade da prestação de serviços de
+esgotamento sanitário, cujos efeitos poderão ser aferidos através dos parâmetros relacionados a seguir:
+-Implantação de estações de tratamento de esgotos para receber os efluentes das áreas que serão contempladas com ampliações
+da rede coletora;
+-Adequação/ enquadramento de estações de tratamento de esgotos existentes, de forma a propiciar o atendimento à legislação
+ambiental vigente e/ ou órgãos de controle ambiental;
+-Ampliação dos índices de cobertura e atendimento dos sistemas de esgotamento sanitário.
+      P - OBRAS DE AMPLIAÇÃO SISTEMA ABASTECIMENTO DE AGUA E ESGOTAMENTO SANITÁRIO
+Serão realizadas obras para ampliação/implantação do sistema de abastecimento de água e esgotamento sanitário.
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Obras
+-
+-
+300.000.000,00
+100,00
+P- OBRAS DE AMPLIAÇÃO SISTEMA
+ABASTECIMENTO DE AGUA E ESGOTAMENTO
+ SANITÁRIO
+1
+52.077,00
+300.000.000,00
+100,00
+Outros
+-
+-
+0,00
+0,00
+Total Geral
+-
+-
+300.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+Diversas iniciativas do MSB estão com os projetos básicos de engenharia concluídos, inclusive com suas respectivas especificações
+técnicas, restando, oportunamente, as atualizações dos orçamentos e a elaboração/atualização de termos de referência, para posterior
+Licitação. As ações que ainda não dispõem de projetos prontos para licitação serão inseridas no rol de contratações integrada ou semi-
+integrada, conforme prevê a Lei Federal nº 13.303/2016, a qual está submetida a EMBASA.
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Estadual/Sem detalhes
+Estado da Bahia ()
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 6
+(i) As condições indicativas de financiamento apresentadas pelo agente financeiro (o NDB) são:
+
+Valor do Financiamento: até US$300 milhões
+&#10003; Prazo: até 20 anos
+&#10003; Carência: até 5 anos
+&#10003; Moeda: Dólares Norte-americanos
+&#10003; Amortização: Semestral
+&#10003; Taxa de Referência: SOFR + spread variável 
+&#10003; Spread: 1,36928% (variável, válido entre 1 de janeiro e 30 de junho de 2023)
+&#10003; Comissão inicial: 0,25% do valor do empréstimo (capitalizável)
+&#10003; Comissão de Compromisso: 0,25% do saldo não desembolsado (não aplicável se
+os desembolsos acumulados corresponderem a 15%, 45%, 85% e 100%,
+respectivamente, nos anos 1, 2, 3 e 4 da implementação do programa)
+&#10003; Desembolso: por antecipação e/ou reembolso
+&#10003; Financiamento retroativo para despesas elegíveis: limitado a até 20% do
+montante do empréstimo, e a um ano antes da data de assinatura do acordo de
+empréstimo;
+&#10003; Prazo do Desembolso: até 5 anos
+Para a elaboração do cronograma de desembolsos do programa em questão foi utilizado como moeda do contrato o dólar americano,
+adotando como cotação: 1US$ = 5,03R$ (de 01/06/2023).
+
+
+(ii) - Da justificativa para a escolha do NDB
+O NDB (New Development Bank) possui dentre as modalidades de empréstimo disponíveis, a modalidade SDL (Sustainable Development
+Loan), que é interessante para a EMBASA e o projeto pretendido.
+Uma das características apresentadas pela modalidade SDL é a possibilidade de se atrelar o avanço dos projetos financiados ao aumento
+da eficiência operacional pretendida, comprovando tal eficiência por intermédio de indicadores que representam o progresso apresentados
+pelo mutuário no decorrer projeto. Nesta modalidade, em vez de o financiamento ser destinado a ações específicas, ele é direcionado
+para financiar parte do plano de investimento da empresa durante um período específico. Isso permite maior flexibilidade no uso do
+empréstimo em momentos oportunos do plano de investimentos. Essa modalidade também reduz significativamente os custos de
+transação, trazendo agilidade na prestação de contas e desembolsos. Esse tipo de empréstimo é oferecido a empresas com alta
+capacidade e disciplina na implementação de projetos e no monitoramento de resultados.
+Considerando a necessidade de recursos da EMBASA projetada para os próximos anos e a disponibilidade apresentada pelos agentes
+financeiros, considerando as regras envolvidas, a EMBASA optou por buscar esta captação com este agente.
+É importante salientar que o NDB trabalha com o padrão de licitações nacionais, seguindo a legislação vigente do Brasil, não havendo
+guidelines específicos como ocorre com outros agentes multilaterais.
+
+
+2.11. PROJETO/BENEFICIÁRIO
+O programa auxiliará na ampliação da rede atendida pela EMBASA, sendo assim, ela beneficiará não apenas o novo público que passará
+a ser abastecido com água e coleta de esgoto, como também favorecerá toda a população dos municípios atendidos pela companhia, uma
+vez que a ampliação da cobertura de coleta de esgoto contribui para a melhoria ambiental destas regiões. Desta forma será atendida
+indiretamente toda a população da região atendida pela EMBASA, bem como a população de seu entorno. 
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 7
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+New Development Bank - NDB
+NDB
+US$
+300.000.000,00
+1,00
+300.000.000,00
+Total:
+300.000.000,00
+300.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+(ii)ARRANJO INSTITUCIONAL
+a)GARANTIDOR - República Federativa do Brasil Responsável, como devedor solidário, por todas as obrigações financeiras, tais como
+pagamento do principal, juros e demais encargos relativos ao financiamento, contraídas pelo Mutuário no contrato de empréstimo. Essas
+obrigações financeiras não incluem compromisso do Fiador de contribuir com recursos adicionais para a execução do Projeto.
+b)MUTUÁRIO ? Empresa Baiana de Águas e Saneamento - Responsável pelas ações necessárias, isoladas ou conjuntas, relativas a
+transferência e alocações de recursos e execução dos projetos definidos, bem como o cumprimento dos termos e das obrigações
+derivadas do contrato de empréstimo a ser celebrado com os Agentes Financeiros.
+c)AGENTE FINANCIADOR - New Development Bank - NDB Responsável pelo financiamento de 80% dos custos orçados;
+d)EXECUTOR - Empresa Baiana de Águas e Saneamento - EMBASA;
+oResponsável pela administração, coordenação e supervisão do Projeto. A responsabilidade direta pela administração do Projeto caberá a
+Unidade de Administração Financeira (FAF), vinculada à Gerência de Programas Especiais - GPS. Essa gerência é diretamente vinculada
+à Diretoria de Negócios e Eficiência - DNE e possui 4 coordenações, sendo uma jurídica, uma administrativo-financeira, uma
+socioambiental e uma técnica.
+e)UGP - Empresa Baiana de Águas e Saneamento - EMBASA, por meio da Unidade de Administração Financeira (FAF).
+oResponsável pela coordenação geral do Projeto, assim como todos os aspectos relacionados com a execução e administração do
+mesmo, como controle de cronograma de execução junto às gerências de obras que executarão às ações, monitoramento do
+desempenho do projeto, processamento junto às áreas financeiras da EMBASA a dos pagamentos e recebimentos relacionados e demais
+atividades necessárias.
+
+(iii) MATRIZ DE RESPONSABILIDADE
+A EMBASA será responsável pela execução das ações descritas nos componentes. Na fase de negociação do empréstimo, os trabalhos
+serão coordenados pela Unidade de Administração Financeira (FAF) vinculada à Diretoria Financeira e Comercial ? DF.
+Os resultados do Projeto serão acompanhados estrategicamente dentro do Planejamento da Companhia, assim como os demais
+Programas hoje em execução pela EMBASA.
+Conforme discussões iniciais com o banco, pode ser necessária a constituição de UGP - Unidade Gestora de Projeto específica; em sendo
+ este o caso, ficará vinculada à Unidade de Administração Financeira (FAF).
+Para facilitar esse processo de definição de papéis e responsabilidades, de forma sintética, podemos elencar os atores abaixo a serem
+envolvidos na execução do Programa Mais Saneamento para Bahia ? MSB:
+a)Agente Financiador - NDB;
+b)Órgão Executor - EMBASA;
+c)Unidade de Gerenciamento do Programa - UGP - vinculada à Unidade de Administração Financeira (FAF).
+
+(iv)ESTRUTURA OPERACIONAL
+O Modelo Operacional proposto na implantação do MSB, fundamenta-se na atuação complementar de duas unidades: a UGP, como
+entidade principal, e uma empresa contratada para o apoio ao Gerenciamento e Fiscalização.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 8
+A UGP representa o Órgão Executor, assumindo as funções de Decisão e de Execução relacionadas à Gestão da implantação do Projeto.
+A atuação da empresa contratada estará focada no apoio às funções da UGP, nos tópicos por ela indicados, estando limitada às suas
+funções de realização das atividades executivas, de gestão e fiscalização do Projeto.
+A EMBASA possui experiências positivas em projetos estratégicos com a contratação de Gerenciadoras, entende-se que o projeto é um
+esforço temporário com grande abrangência territorial, que implica na mobilização de recursos humanos, financeiros, técnicos e materiais,
+dedicados para a consecução de um resultado, em função disso a opção por utilizar a contratação de uma Gerenciadora, que ficará
+exclusivamente responsável para esta finalidade.
+
+4.2. Execução/Executores
+Executor: Empresa Baiana de Águas e Saneamento S.A. - EMBASA
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+Fax:
+CNPJ:                
+UF:  
+4.3. Execução/Prazo
+Prazo de Desembolso:
+5
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+NDB
+NDB
+C - OBRAS DE AMPLIAÇÃO DE SISTEMAS DE ABASTECIMENTO DE ÁGUA E ESGOTAMENTO SANITARIO
+300.000.000,00
+50.580.000,00
+   S - OBRAS DE AMPLIAÇÃO SISTEMA ABASTECIMENTO DE AGUA E ESGOTAMENTO SANITÁRIO
+300.000.000,00
+50.580.000,00
+      P - OBRAS DE AMPLIAÇÃO SISTEMA ABASTECIMENTO DE AGUA E ESGOTAMENTO SANITÁRIO
+300.000.000,00
+50.580.000,00
+Total
+0,00
+50.580.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+NDB
+NDB
+C - OBRAS DE AMPLIAÇÃO DE SISTEMAS DE ABASTECIMENTO DE ÁGUA E ESGOTAMENTO SANITARIO
+77.830.000,00
+   S - OBRAS DE AMPLIAÇÃO SISTEMA ABASTECIMENTO DE AGUA E ESGOTAMENTO SANITÁRIO
+77.830.000,00
+      P - OBRAS DE AMPLIAÇÃO SISTEMA ABASTECIMENTO DE AGUA E ESGOTAMENTO SANITÁRIO
+77.830.000,00
+Total
+0,00
+77.830.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+NDB
+NDB
+C - OBRAS DE AMPLIAÇÃO DE SISTEMAS DE ABASTECIMENTO DE ÁGUA E ESGOTAMENTO SANITARIO
+70.920.000,00
+   S - OBRAS DE AMPLIAÇÃO SISTEMA ABASTECIMENTO DE AGUA E ESGOTAMENTO SANITÁRIO
+70.920.000,00
+      P - OBRAS DE AMPLIAÇÃO SISTEMA ABASTECIMENTO DE AGUA E ESGOTAMENTO SANITÁRIO
+70.920.000,00
+Total
+0,00
+70.920.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+NDB
+NDB
+C - OBRAS DE AMPLIAÇÃO DE SISTEMAS DE ABASTECIMENTO DE ÁGUA E ESGOTAMENTO SANITARIO
+100.670.000,00
+   S - OBRAS DE AMPLIAÇÃO SISTEMA ABASTECIMENTO DE AGUA E ESGOTAMENTO SANITÁRIO
+100.670.000,00
+      P - OBRAS DE AMPLIAÇÃO SISTEMA ABASTECIMENTO DE AGUA E ESGOTAMENTO SANITÁRIO
+100.670.000,00
+Total
+0,00
+100.670.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+NDB
+NDB
+C - OBRAS DE AMPLIAÇÃO DE SISTEMAS DE ABASTECIMENTO DE ÁGUA E ESGOTAMENTO SANITARIO
+0,00
+300.000.000,00
+   S - OBRAS DE AMPLIAÇÃO SISTEMA ABASTECIMENTO DE AGUA E ESGOTAMENTO SANITÁRIO
+0,00
+300.000.000,00
+      P - OBRAS DE AMPLIAÇÃO SISTEMA ABASTECIMENTO DE AGUA E ESGOTAMENTO SANITÁRIO
+0,00
+300.000.000,00
+Total
+300.000.000,00
+0,00
+300.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 9
+As ações previstas no MSB serão executadas ao abrigo da legislação e regulamentação vigentes no País e no Estado, não necessitando
+ou dependendo de outros atos legais, exceto aqueles específicos relacionados às aprovações e autorizações legais requeridas para a
+celebração de empréstimos com agentes financiadores externos.
+5.2. RISCOS/CONTRATAÇÕES
+Não há previsão de contratação de pessoal ou concurso público pela EMBASA, para este Programa específico. O Projeto será conduzido
+pela Unidade de Administração Financeira - FAF, e será estruturada a partir do efetivo contratado pela Gerenciadora, contratada através
+de processo licitatório. As contratações previstas para a execução das ações serão de responsabilidade da EMBASA, por meio de
+processos licitatórios, cujas ordens de serviço poderão ser assinadas após resolução da COFIEX.
+5.3. RISCOS/DESAPROPRIAÇÕES
+O Programa não apresenta problemas significativos no que diz respeito à aquisição de áreas. A maior parte das obras, como redes
+coletoras, coletores-tronco, redes de distribuição de água e suas respectivas ligações e substituições de redes de água serão construídas
+em vias públicas. No entanto, casos específicos serão avaliados oportunamente. A EMBASA conta com um departamento específico para
+tratar de desapropriações, caso necessárias. Os custos relacionados a eventuais desapropriações devem ser viabilizados através de
+recursos provenientes do Programa.
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+Com relação aos impactos ambientais, um programa com as características do presente tem a particularidade de não apresentar, em
+primeira análise, impactos efetivamente negativos. Tal fato decorre da coerência intrínseca conceitual dos empreendimentos em questão,
+já que os planos contemplam ações na área ambiental, além de projetos e obras de saneamento básico que visam, justamente, a
+minimização dos impactos negativos causados ao meio ambiente pela sua ausência, e a melhoria das condições de salubridade dos
+ambientes residenciais.
+
+O projeto inclui um conjunto expressivo de ações de esgotamento sanitário em áreas prioritárias para proteção de mananciais estratégicos
+  para abastecimento público. Os impactos ambientais destas ações devem ser, portanto, extremamente positivos.
+
+Na ausência de medidas preventivas adequadas, alguns impactos potenciais podem ocorrer. Por exemplo, erosão do solo nas fases de
+construção e implantação das obras de infraestrutura hídrica.
+
+A prevenção da erosão do solo, descaracterizando a existência do impacto negativo, é perfeitamente factível através do simples, mas
+eficiente, controle da movimentação de terra, caso seja necessário. Quanto à poluição do solo, apenas na fase de implantação das redes
+coletoras e emissários é que existe esta possibilidade de ocorrência de impactos negativos.
+
+Vale ressaltar ainda, o forte impacto causado na população beneficiária quanto aos aspectos de educação sanitária e ambiental. A
+experiência tem comprovado que o efeito demonstrativo de uma obra de abastecimento e/ou de implantação de melhorias sanitárias,
+associado aos programas de educação e gestão ambiental, produz efeitos significativos no comportamento dos cidadãos, quer no que
+tange à higiene pessoal e do espaço privado, quer no que se refere ao ambiente público e ao meio ambiente. Se além dos aspectos
+sanitários e de saúde se agregam componentes relativos à conscientização ambiental e à motivação para uma atitude consciente quanto
+aos recursos naturais estar-se-ão dando passos efetivos no sentido de tornar muito mais efetivo qualquer trabalho com as gerações que
+estão se formando.
+
+Como impactos negativos, inerentes às obras em vias públicas, destacam-se os riscos de acidentes nas frentes de obra, risco de poluição
+do solo e água por resíduos sólidos, líquidos e produtos oleosos oriundos do canteiro de obras, áreas de apoio e frentes de trabalho,
+poluição do ar com material particulado e emissões de máquinas e veículos, além de possível supressão vegetal e interferências em áreas
+ de preservação permanente para implantação das unidades prevista na obra.
+
+Cabe destacar que os impactos negativos em sua maioria são reversíveis, atuando pontualmente durante a execução da obra e que
+podem  ser minimizados através dos Plano de Controle Ambiental de Obras e outros de Planos e Programas de monitoramento de
+emissão de particulados, fumaça preta e ruídos, gestão de resíduos gerados, sinalização de obras, atendimento às emergências entre
+outros.
+
+5.5. RISCOS/IMPACTO SOCIAL
+Pela natureza do programa em questão, os impactos sociais esperados são positivos. Os diversos empreendimentos contemplados
+seguem a legislação e normas vigentes com relação às questões sociais.
+5.6. RISCOS/REASSENTAMENTOS
+Em princípio, não há previsão de necessidade de reassentamento. No entanto, casos específicos serão avaliados oportunamente. A
+EMBASA conta com um departamento específico para tratar de reassentamentos, caso necessários.
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:16
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60994
+Página: 10
+Informações relevantes
+- 25/09/2023: Retirada de pauta pela 168ª Cofiex (06/09/2023) devido à impossibilidade de conclusão da análise técnica por falta de
+informações.
+ 
+ 

@@ -1,0 +1,2292 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+PROGRAMA DE DESENVOLVIMENTO RURAL SUSTENTÁVEL DO ESTADO DO ESPÍRITO
+SANTO
+Nº Carta Consulta: 61101
+Mutuário: Estado do Espírito Santo
+Tipo de Operação: Operação de crédito externo
+Fontes Internas:
+Contrapartida Financeira: US$ 29.700.000,00
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 118.800.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+03
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 04
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 04
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 04
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 04
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 06
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 11
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 12
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 12
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 15
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 18
+3. FINANCIAMENTO .......................................................................................................................................................................................... 18
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 18
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 18
+4. EXECUÇÃO ...................................................................................................................................................................................................
+18
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 18
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 19
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 19
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 19
+5. RISCOS .......................................................................................................................................................................................................... 22
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 23
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 23
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 24
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 25
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 27
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 27
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+27
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+O Espírito Santo está situado na Região Sudeste e é o quarto menor Estado do Brasil com uma área de 46.095,583 km². Possui 78
+municípios e uma população estimada de 3.833.486 habitantes, conforme dados do Censo 2022 (IBGE 2023). O Estado apresenta IDH (
+PNUD -2017) de 0,772, com um PIB (IJSN 2022) de R$ 178,4 bilhões. A situação fiscal do Estado é considerada excelente e, pelo décimo
+-primeiro ano consecutivo, recebeu a Nota A da Secretaria do Tesouro Nacional (STN), no que diz respeito à Capacidade de Pagamento
+do Estado (Capag). 
+O setor agropecuário é um dos principais geradores de emprego e de renda para grande parte dos municípios capixabas, seguindo
+tendência nacional que aponta o agronegócio como responsável por aproximadamente 24,8% do PIB brasileiro. De acordo com o Censo
+Agropecuário de 2017, o Espírito Santo possui 108.014 estabelecimentos rurais, dos quais 75% (81.010) são enquadrados como de
+agricultura familiar, que responde por 33% da área e 60% das pessoas ocupadas.
+Apesar dessa grande importância do ponto de vista econômico e social, ainda se fazem necessários investimentos para melhorar a
+qualidade de vida da população rural e garantir melhores oportunidades de desenvolvimento sustentável. Com base nos dados de 2010,
+ao se fazer a desagregação do IDHM entre rural e urbano (IPEA, 2018), percebe-se, seguindo a tendência nacional, uma queda
+significativa no estado do ES, caindo o valor do índice de 0,760 (urbano) para 0,628 (rural). Embora diversas políticas públicas sejam
+desenvolvidas para mudar essa realidade, a população do meio rural ainda apresenta acesso limitado às linhas de crédito, às tecnologias
+e à assistência técnica. Enfrenta, ainda, dificuldades no acesso ao mercado e limitações de infraestrutura. O acesso às tecnologias
+também tem correlação com a carência de recursos para investimentos em pesquisa aplicada, desenvolvimento e inovação na área
+agropecuária. O último relatório do Ministério da Ciência, Tecnologia e Inovação sobre Indicadores Nacionais de Ciência, Tecnologia e
+Inovação, de 2022, evidencia a tendência de queda no volume de recursos disponíveis, o que referenda a importância da presente
+proposta.
+Ainda assim, o agronegócio capixaba tem se destacado em várias cadeias produtivas, embora haja, ainda, enorme potencial para
+agregação de valor aos produtos. No Brasil, o estado é o maior produtor e exportador de café conilon, pimenta-do-reino e gengibre, além
+de ser maior exportador de mamão e maior produtor de ovos de codorna. 
+A baixa complexidade e sofisticação econômica do agronegócio capixaba deixa o estado muito vulnerável a oscilações de grandes
+cadeias globais, pois concentra em quatro blocos de produtos 90% de suas exportações. Nesse contexto, entende-se a necessidade da
+diversificação e a criação de vantagem competitiva, por meio da agregação de conhecimento, inovação, tecnologia e, sobretudo,
+sustentabilidade.
+Para além dos desafios no desenvolvimento rural capixaba relacionados aos arranjos produtivos e à sustentabilidade, a infraestrutura rural
+tem um papel fundamental, principalmente no que se refere ao modal rodoviário. Há sinais claros de saturação nas estradas rurais,
+comprometendo a qualidade dos serviços, em especial, na segurança ao usuário e nos custos de transporte decorrentes da má qualidade
+dos pavimentos, afetando a competitividade dos produtos da agricultura familiar. Contribuições enviadas por meio do endereço eletrônico
+das audiências públicas para elaboração do PPA 2024-2027 evidenciam a percepção da população rural. Das 148 participações, 63 foram
+ sobre trafegabilidade de vias rurais (42,5%, tópico com mais participações).
+Pode-se ressaltar como fatores mais relevantes no processo de degradação dos pavimentos, o envelhecimento da malha, o aumento do
+tráfego pesado e a descontinuidade nos investimentos em manutenção, sendo que, muitas vezes, a alocação insuficiente de recursos para
+a manutenção rodoviária está relacionada à dificuldade de dimensionar o volume mínimo de recursos a serem aplicados na conservação
+da malha. Dos 1.125 quilômetros de estradas rurais atualmente sob responsabilidade da Secretaria de Estado da Agricultura, 29% estão
+classificados como prioridade 1 de necessidade de intervenção, demonstrando a urgência de investimentos de recuperação e o nível de
+criticidade atual da malha. 
+Diante deste cenário, o Estado do Espírito Santo, por meio do Programa apresentado, propõe-se a enfrentar os seguintes problemas:  a)
+baixa produtividade e baixa competitividade das organizações econômicas da agricultura familiar; b) sistemas de produção agrícola com
+baixa adoção de práticas produtivas sustentáveis e altamente vulneráveis aos efeitos das intempéries e das mudanças climáticas; c)
+carência de investimentos em pesquisa aplicada, extensão rural e inovação; d) infraestrutura viária rural produtiva precária e de baixa
+qualidade; e) baixo nível de articulação entre os programas de apoio para aumentar a produção e produtividade agropecuária.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+(ii) SOLUÇÃO PROPOSTA:
+As soluções propostas contemplam as seguintes medidas para mitigação dos problemas identificados:
+a)Para aumentar a produtividade e a competitividade das organizações econômicas da agricultura familiar, são previstas a implementação
+e a complementação de iniciativas promovidas pela SEAG em parceria com diversas instituições. Com a priorização de iniciativas contidas
+no Pedeag 4, que contou com a participação de atores-chave das cadeias produtivas, serão implementadas ações que visem
+potencializar as forças existentes, sanar as fraquezas, afastar as ameaças e estruturar o arranjo para aproveitar as oportunidades.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 3
+b)Para ampliar as iniciativas de sustentabilidade e de resiliência climática no meio rural, o programa fomentará a adoção de sistemas,
+práticas, produtos e processos de produção sustentáveis, a melhoria da gestão e a recuperação de áreas degradadas e passivos
+ambientais relacionados aos sistemas produtivos priorizados. No sistema agropecuário, boa parte do investimento será direcionado para
+cumprir as metas estabelecidas no Plano Estadual de Agricultura de Baixo Carbono, como o uso consciente de sistemas de irrigação,
+utilização de bioinsumos, sistemas de integração, recuperação de pastagens degradadas, entre outros aspectos que envolvem pesquisa
+aplicada e extensão rural para a agropecuária.
+c)Para fazer frente à carência de recursos para investimento em pesquisa aplicada, extensão e inovação, o programa irá promover o
+fomento por meio de editais e chamadas públicas. O intuito é conectar as demandas da agropecuária com as entidades públicas e
+privadas e direcionar recursos para subprojetos que possam alavancar iniciativas que aumentem o nível de conhecimento e a tecnologia à
+ disposição dos agricultores e agricultoras do Estado.
+Considerando também que ao longo dos anos o serviço de assistência técnica e extensão rural público ficou basicamente a cargo dos
+estados, com a redução expressiva de investimentos do governo federal, o programa investirá recursos para melhoria das estruturas de
+acesso de agricultores ao Instituto Capixaba de Pesquisa, Assistência Técnica e Extensão Rural - Incaper e do Instituto de Defesa
+Agropecuária e Florestal do Espírito Santo - Idaf. São as principais, e mais próximas, unidades de atendimento aos agricultores e
+pecuaristas. Em paralelo, serão revitalizados os Centros de Pesquisa, Desenvolvimento e Inovação, que abrangem fazendas
+experimentais, onde são conduzidos diversos trabalhos de pesquisa aplicada.
+d)A precariedade e a baixa qualidade da infraestrutura rural decorre principalmente da crescente deterioração do patrimônio rodoviário
+estadual e municipal, da deficiência de recursos para a manutenção das estradas rurais e da deterioração da malha rodoviária em função
+da ocorrência de eventos climáticos extremos. Para reduzir os gargalos de infraestrutura para a produção agropecuária e manter e ampliar
+ o turismo rural, é fundamental o investimento na melhoria das condições das estradas rurais sob responsabilidade da SEAG. 
+
+(iii) RESULTADOS ESPERADOS:
+
+- Para conter essa deterioração, serão realizadas obras múltiplas de recuperação e/ou manutenção da vida útil do pavimento, mantendo o
+traçado original, com recuperação e implantação de sinalização viária, manutenção e/ou substituição de dispositivos de drenagem e
+serviços de limpeza. Após a etapa inicial de recuperação, as rodovias objeto do Programa permanecem atendidas com ações de
+conservação rodoviária remuneradas com base no desempenho da contratada, modelagem inovadora que estimula o contratado a
+implementar soluções de melhor qualidade, uma vez que a necessidade de refazer itens mal executados não ensejará novo pagamento.
+Também serão realizadas obras e serviços em estruturas complementares às vias rurais, como pontes, galerias, bueiros entre outras para
+garantir acesso a oportunidades e a serviços para a população do campo. 
+- Para eliminar a deficiência de recursos para a manutenção de estradas rurais objeto do Programa, os serviços de recuperação e
+manutenção serão realizados por meio de contratos do tipo DBM, que combinarão as diferentes atividades de Design/Projeto (D),
+Reabilitação / Construção (B) e Manutenção (M) sob um único contrato e reduzirão os riscos dos contratos para administração pública,
+transferindo-os da execução para a iniciativa privada. Os contratos terão prazo de duração incluindo 3 anos de serviços de conserva,
+impondo ao tesouro público um compromisso de financiamento plurianual para a manutenção das estradas. Esta modalidade é uma
+solução importante para o investimento na manutenção e conservação de estradas rurais que, historicamente, sofreram demasiadamente
+com cortes de recursos, levando a deteriorações que aumentam os custos de produção e causam reduções na qualidade de vida da
+população do campo. Atualmente, os gastos com manutenção são "discricionários" e os mais suscetíveis a cortes quando as finanças
+estaduais apresentam comportamento aquém do esperado. 
+- Estas ações resultarão em estradas melhor preparadas para resistir a ocorrências de eventos climáticos adversos, evitando ou reduzindo
+sua deterioração. Além disso, o aporte constante de recursos permitirá que tais serviços de manutenção sejam executados
+preventivamente e corretivamente, evitando custos maiores para reparos caso os problemas ocorridos nas rodovias se agravem com o
+tempo. 
+- Outro importante resultado esperado do Programa é o fortalecimento da governança, da gestão territorial, do desenvolvimento
+interinstitucional, da participação e do controle social no estado do Espírito Santo. Para tanto, o projeto investirá recursos para permitir
+avanços nessas áreas, mobilizando, engajando e comprometendo atores-chave de todas as representações - governamentais, da
+sociedade civil e do setor privado. Ressalta-se que a SEAG já conta com diversas políticas, programas e projetos endereçados à
+promoção do desenvolvimento econômico, sustentável e inclusivo que serão objeto de intensa articulação, coordenação e busca de
+sinergias. Esse arranjo que o Programa Campo do Amanhã proporcionará, com a capacidade da sua estrutura de gestão a partir de um
+desenho com o apoio de uma instituição de grande expertise na execução de projetos dessa magnitude, é um legado paradigmático para
+o futuro das políticas públicas da área da agricultura no Estado. 
+
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+O Programa Campo do Amanhã está inserido nas orientações estratégicas do Governo do Estado do Espírito Santo, e, em conformidade
+com:
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 4
+(i) O PPA 2024-2027 elaborado com inserção dos recursos necessários à execução do Programa. As ações do programa também se
+inserem no Plano Estratégico de Desenvolvimento da Agricultura Capixaba, o PEDEAG 4, que estabelece estratégias e iniciativas que
+possam ser planejadas, geridas e implementadas com foco na geração de melhores resultados para o agronegócio capixaba até o ano de
+2032. 
+
+(ii) O Programa se insere na Agenda 2030 para o Desenvolvimento Sustentável da ONU. As ações propostas visam contribuir para o
+alcance dos Objetivos de Desenvolvimento Sustentável no Brasil, principalmente quanto aos Objetivos: 2) Fome Zero e Agricultura
+Sustentável, 9) Indústria, Inovação e Infraestrutura e 13) Ação contra a mudança global do clima. O Programa se insere no planejamento
+estratégico estadual, em consonância com o Plano de Desenvolvimento ES 2030, um planejamento de longo prazo para o Espírito Santo,
+que definiu prioridades, estratégias, metas e caminhos a serem percorridos pelos setores público, privado e sociedade civil em ambiente
+macro (disponível em https://planejamento.es.gov.br/). 
+
+Resultados estratégicos a serem proporcionados: (i) aumento da produtividade e da competitividade das organizações econômicas da
+agricultura familiar; (ii) ampliação da adoção de práticas produtivas sustentáveis e resilientes às mudanças climáticas; (iii) ampliação dos
+investimentos em pesquisa aplicada, extensão rural e inovação no setor agropecuário (iv) melhoria das condições de manutenção em
+cerca de 33% da rede pavimentada sob responsabilidade da Secretaria de Estado da Agricultura, com consequente mitigação de
+potenciais impactos de eventos climáticos extremos na deterioração da malha rodoviária, melhoria das condições logística para a
+competitividade dos produtos das organizações econômicas da agricultura familiar e para qualidade de vida da população rural. Todas as
+estradas objeto do programa recebem manutenção em contratos existentes, mas pretende-se, com o Programa, aprimorar o modelo de
+contratação e de gestão. O investimento a ser realizado impedirá que as rodovias atendidas atinjam um grau severo deterioração,
+evitando-se custos maiores para sua recuperação no futuro. Além disso, a melhoria na segurança viária evitará maiores custos
+relacionados a acidentes.
+2. Projeto
+2.1. Título
+PROGRAMA DE DESENVOLVIMENTO RURAL SUSTENTÁVEL DO ESTADO DO ESPÍRITO SANTO
+2.2. Título Abreviado
+Campo do Amanhã
+2.3. Mutuário
+Estado do Espírito Santo
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+(i) Objetivo Geral:
+O objetivo geral do Programa é promover para a agricultura familiar o aumento no acesso a mercados e a adoção de tecnologias
+modernas e climaticamente inteligentes, por meio da dinamização econômica dos territórios, da promoção de sistemas de produção
+sustentáveis e resilientes, do investimento em pesquisa, desenvolvimento, extensão e inovação e da melhoria da infraestrutura produtiva
+rural complementar, contribuindo para o desenvolvimento econômico e social dos territórios rurais do Estado do Espírito Santo. 
+
+(ii) Objetivos Específicos:
+-Apoiar projetos que incrementem os processos de produção, agroindustrialização, beneficiamento e comercialização das associações e
+cooperativas de agricultores familiares do Estado do Espírito Santo;
+-Potencializar os processos produtivos e gerenciais dos empreendimentos econômicos da agricultura familiar;
+-Apoiar o desenvolvimento e a execução de projetos que aliem a sustentabilidade, à inovação, à preservação e a restauração de áreas
+degradadas;
+-Contribuir para diversificação produtiva, melhoria da qualidade da produção, geração de emprego e renda, agregação de valor e
+qualificação da mão de obra;
+-Incentivar e apoiar financeiramente a Pesquisa, o Desenvolvimento, a Extensão e a Inovação;
+-Promover a profissionalização da gestão dos empreendimentos econômicos da agricultura familiar a partir da implementação de soluções
+ técnicas e gerenciais, com foco na competitividade dos negócios e nos resultados econômicos e financeiros;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 5
+-Ampliar a participação das organizações produtivas beneficiárias em diferentes mercados, privados e institucionais, incentivando
+parcerias estratégicas para atuação mais competitiva e profissional, com vistas ao aumento das receitas dos negócios e das famílias
+associadas/cooperadas;
+-Desenvolver estratégias para os serviços de Assistência Técnica e Extensão Rural (ATER) que incorporem a adoção de serviços,
+tecnologias e mecanismos mais eficientes, sustentáveis e que contemplem os diferentes perfis e tipologias dos beneficiários;
+-Promover a inclusão social e econômica de mulheres, jovens, quilombolas e outros grupos com maiores dificuldades no acesso às
+políticas públicas, garantindo o acesso prioritário desse público às ações do Projeto;
+-Promover a adoção de tecnologias e de boas práticas de manejo de recursos naturais nas áreas de produção agropecuária dos
+agricultores familiares;
+-Promover a melhoria da resiliência climática das atividades agropecuárias, 
+-Melhorar as condições de fluidez, segurança viária e resiliência climática das estradas rurais do estado do Espírito Santo;
+-Melhorar e ampliar as condições de atendimento aos agricultores e agricultoras nas unidades do Incaper e do Idaf;
+-Revitalizar os Centros de Pesquisa, Desenvolvimento e Inovação e Fazendas Experimentais do Incaper;
+-Melhorar a logística e a integração regional das estradas rurais do Estado do Espírito Santo;
+-Recuperar e manter em condições adequadas a malha rodoviária objeto do Programa, por meio de contratações de recuperação e
+manutenção de rodovias para períodos de 03 anos, remunerando os contratados de maneira "uniforme", "regular" e "contínua", em
+contratos do tipo Desenho, Construção e Manutenção (DBM) por preço global;
+-Promover a efetividade na utilização dos recursos relacionados ao projeto, com foco na qualidade e na melhoria contínua. 
+
+2.6. Projeto/Indicadores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 6
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Número de Planos de Negócio e de
+investimentos implementados
+Número total de
+planos de negócios e
+de investimento
+implementados pelas
+organizações
+apoiadas pelo Projeto
+Unidade
+0,00
+125,00
+Número de Organizações Produtivas da
+Agricultura Familiar beneficiárias
+Somatório do número
+de organizações da
+agricultura familiar
+beneficiárias do
+Programa
+Unidade
+0,00
+125,00
+Número de beneficiários diretos
+Somatório do número
+de beneficiários
+diretos do Programa
+Unidade
+0,00
+16.700,00
+Produtores que adotam tecnologias agrícolas
+mais adequadas 
+Somatório do número
+de produtores que
+adotaram tecnologias
+agrícolas mais
+adequadas
+Unidade
+0,00
+8.300,00
+Projetos de pesquisa e extensão contratados 
+Equivalência de 1
+unidade = 1 projeto
+contratado
+Projeto
+0,00
+135,00
+Propriedades assistidas / beneficiadas
+diretamente por projetos de pesquisa e extensão
+Número total de
+propriedades
+assistidas /
+beneficiadas
+diretamente por
+projetos de pesquisa e
+ extensão
+Unidade
+0,00
+500,00
+Melhoria na Condição de Manutenção/
+Conservação das Estradas Rurais
+Levantamento visual
+das condições das
+estradas, levando em
+consideração
+condição pavimento,
+acostamentos,
+sinalização, drenagem
+e limpeza (roçada,
+capina), conforme
+metodologia já
+implantada na SEAG
+Quilômetro
+0,00
+300,00
+Centros de Pesquisa e Fazendas Experimentais
+revitalizadas
+Número de centros de
+pesquisa e fazendas
+experimentais
+revitalizadas
+Unidade
+0,00
+8,00
+2.7. Projeto/Componentes
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 7
+Componentes
+Valor(US$)
+C - DINAMIZAÇÃO ECONÔMICA E PROMOÇÃO DE SISTEMAS DE PRODUÇÃO SUSTENTÁVEIS E
+RESILIENTES NA AGRICULTURA FAMILIAR 
+26.000.000,00
+   S - FORTALECIMENTO DA ESTRUTURA PRODUTIVA DA AGRICULTURA FAMILIAR
+10.900.000,00
+P - Financiamento de subprojetos de organizações econômicas da agricultura familiar e agroindústrias para
+melhoria da gestão, incremento produtivo e acesso a mercados de maior complexidade
+8.800.000,00
+P - Financiamento de subprojetos de agricultores familiares, assentamentos, comunidades quilombolas e grupos
+com maiores dificuldades no acesso às políticas públicas, por meio de organizações sociais e produtivas
+2.100.000,00
+   S - FOMENTO À IMPLEMENTAÇÃO DE SISTEMAS DE PRODUÇÃO SUSTENTÁVEIS E RESILIENTES
+5.800.000,00
+P - - Financiamento de subprojetos que beneficiem agricultores e pecuaristas e suas respectivas organizações,
+incluindo agroindústrias, para adoção de práticas produtivas sustentáveis e resilientes
+4.200.000,00
+P - Financiamento de subprojetos que beneficiem mulheres, jovens, assentamentos, comunidades quilombolas e
+grupos com maiores dificuldades no acesso às políticas públicas para adoção de práticas produtivas sustentáveis e
+resilientes.
+1.600.000,00
+   S - FOMENTO À PESQUISA APLICADA, AO DESENVOLVIMENTO E À INOVAÇÃO RURAL 
+9.300.000,00
+      P - Financiamento de subprojetos de pesquisa, extensão e inovação
+9.300.000,00
+C - MODERNIZAÇÃO DA INFRAESTRUTURA PRODUTIVA RURAL COMPLEMENTAR
+82.000.000,00
+   S - RECUPERAÇÃO E MANUTENÇÃO DE INFRAESTRUTURA RODOVIÁRIA RURAL
+76.800.000,00
+      P - Elaboração de Anteprojeto de Recuperação e Manutenção Rodoviária Rural por Desempenho
+2.000.000,00
+      P - Contratação de Projeto e Obras de Recuperação e Manutenção Rodoviária Rural por Desempenho 
+71.300.000,00
+      P - Supervisão Técnica e Socioambiental de Obras e Serviços
+3.500.000,00
+   S - MELHORAMENTO EM ESTRUTURAS COMPLEMENTARES DE INFRAESTRUTURA RURAL
+5.200.000,00
+P - Elaboração de Cadastros, Estudos, Avaliações, Inspeções e/ou Diagnósticos em Estruturas Complementares
+ 
+500.000,00
+P - Contratação de Serviços de Manutenção ou Projetos e Obras de Recuperação e/ou Reconstrução de
+Estruturas Complementares
+4.500.000,00
+      P - Contratação de Supervisão Técnica e Socioambiental de Obras e Serviços
+200.000,00
+C - INOVAÇÃO RURAL, CIÊNCIA, TECNOLOGIA E SOCIALIZAÇÃO DO CONHECIMENTO
+30.000.000,00
+S - ADEQUAÇÃO E MODERNIZAÇÃO DA INFRAESTRUTURA RURAL E DA TECNOLOGIA PARA PESQUISA,
+ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL
+30.000.000,00
+P - Recuperação e modernização dos centros de pesquisa, desenvolvimento e inovação rurais, das fazendas
+experimentais e dos centros de referência do INCAPER
+17.000.000,00
+P - Adequação e Modernização da Infraestrutura Rural e da Tecnologia para pesquisa, assistência técnica e
+extensão rural
+13.000.000,00
+C - GESTÃO DO PROJETO, DESENVOLVIMENTO INSTITUCIONAL E GOVERNANÇA
+10.500.000,00
+      P - Estruturação da Unidade de Gestão do Projeto
+7.500.000,00
+      P - Gerenciamento de Obras e Projetos de Infraestrutura Rodoviária
+3.000.000,00
+Total dos Componentes
+148.500.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - DINAMIZAÇÃO ECONÔMICA E PROMOÇÃO DE SISTEMAS DE PRODUÇÃO SUSTENTÁVEIS E RESILIENTES NA
+AGRICULTURA FAMILIAR 
+Este componente deverá proporcionar aumento da competitividade das organizações econômicas da agricultura familiar por meio
+da execução de planos de investimento e planos de negócios nas entidades. Assim, poderão ser feitos investimentos em novas
+tecnologias, equipamentos, promovendo sistemas produtivos que possibilitem aumento de competitividade e agregação de valor
+para os produtos, além de profissionalização de gestão. Também serão feitos investimentos para aumentar o alcance e difusão das
+políticas públicas voltadas para a adoção de práticas produtivas climaticamente inteligentes, além de melhorar  as ferramentas
+para prestação de serviços de assistência técnica e extensão rural para os produtores agrícolas familiares capixabas.
+   S - FORTALECIMENTO DA ESTRUTURA PRODUTIVA DA AGRICULTURA FAMILIAR
+Este subcomponente promoverá a melhoria do processo produtivo, o aumento da produtividade e a ampliação da competitividade
+da agricultura familiar com vistas a alcançar maior participação nos mercados e ampliar a renda de forma sustentável e inclusiva.
+Poderão ser objeto de financiamento: adequações em agroindústrias, aquisição de veículos, de máquinas, de equipamentos,
+certificações e congêneres, assessoria e assistência técnica, desenvolvimento e promoção de mercadorias, implementação de
+sistemas, aquisição de insumos de produção agropecuária, entre outros itens de bens e serviços. Na lógica de uma cadeia de valor
+, este subcomponente está inserido na etapa ?antes da porteira?, composta por fatores primordiais para que haja produção no
+meio rural.
+P - Financiamento de subprojetos de organizações econômicas da agricultura familiar e agroindústrias para melhoria
+da gestão, incremento produtivo e acesso a mercados de maior complexidade
+Financiamento de subprojetos de organizações econômicas da agricultura familiar e agroindústrias para melhoria da gestão,
+incremento produtivo e acesso a mercados de maior complexidade;
+P - Financiamento de subprojetos de agricultores familiares, assentamentos, comunidades quilombolas e grupos com
+maiores dificuldades no acesso às políticas públicas, por meio de organizações sociais e produtivas
+Financiamento de subprojetos de agricultores familiares, assentamentos, comunidades quilombolas e grupos com maiores
+dificuldades no acesso às políticas públicas, por meio de organizações sociais e produtivas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 8
+   S - FOMENTO À IMPLEMENTAÇÃO DE SISTEMAS DE PRODUÇÃO SUSTENTÁVEIS E RESILIENTES
+Este subcomponente apoiará projetos de extensão com foco na adoção de sistemas de produção sustentáveis e resilientes (
+agricultura de baixo carbono, regenerativa ou orgânica, agroecologia, bioinsumos, uso eficiente da água e de fertilizantes, entre
+outros), fortalecimento das indicações geográficas e desenvolvimento de estratégias de promoção de produtos com qualidade
+vinculada à origem entre outros. Também poderão ser objeto de financiamento projetos voltados ao desenvolvimento da
+infraestrutura das propriedades, permitindo a implementação de tecnologias mais sustentáveis como sistemas de produção de
+energia renováveis, ampliação da conectividade, adequação de rede elétrica, entre outras.  Este subcomponente está inserido ?
+dentro da porteira?, onde de fato a produção acontece. Nesse ponto, poderão ser realizadas formações de produtores com um
+currículo mínimo de sustentabilidade para atender às demandas dos consumidores.
+P - - Financiamento de subprojetos que beneficiem agricultores e pecuaristas e suas respectivas organizações,
+incluindo agroindústrias, para adoção de práticas produtivas sustentáveis e resilientes
+Financiamento de subprojetos que beneficiem agricultores e pecuaristas e suas respectivas organizações, incluindo agroindústrias,
+ para adoção de práticas produtivas sustentáveis e resilientes
+P - Financiamento de subprojetos que beneficiem mulheres, jovens, assentamentos, comunidades quilombolas e
+grupos com maiores dificuldades no acesso às políticas públicas para adoção de práticas produtivas sustentáveis e
+resilientes.
+Financiamento de subprojetos que beneficiem mulheres, jovens, assentamentos, comunidades quilombolas, e grupos com maiores
+ dificuldades no acesso às políticas públicas para adoção de práticas produtivas sustentáveis e resilientes.
+   S - FOMENTO À PESQUISA APLICADA, AO DESENVOLVIMENTO E À INOVAÇÃO RURAL 
+Este subcomponente, através do fomento da pesquisa aplicada e da inovação, ampliará o desenvolvimento e a disponibilização
+aos produtores rurais de ferramentas e tecnologias que possibilitem a melhoria da agropecuária e da pesca, com adoção de
+práticas mais sustentáveis que permitam a agregação de valor com o menor impacto possível ao meio ambiente, aos produtores
+rurais e à sociedade como um todo. Ele contará com projetos estratégicos desenvolvidos pelas instituições ligadas à Secretaria de
+Estado da Agricultura em parceria com instituições de ensino, pesquisa e extensão diversas e também lançará editais abertos a
+toda a comunidade técnica e científica do Espírito Santo.
+      P - Financiamento de subprojetos de pesquisa, extensão e inovação
+Financiamento de subprojetos de pesquisa, extensão e inovação
+C - MODERNIZAÇÃO DA INFRAESTRUTURA PRODUTIVA RURAL COMPLEMENTAR
+Este componente proporcionará melhoria em vias rurais municipais e estaduais sob responsabilidade da SEAG. Essa malha viária
+proporciona o acesso a oportunidades e serviços para boa parte da população rural capixaba, sendo fundamental para a produção
+da agricultura familiar no estado. A adequação do pavimento de áreas com maior densidade da agricultura familiar possibilita
+melhor trafegabilidade para veículos que realizam o escoamento da produção, proporcionando redução de custos e desperdícios,
+além de facilitar a mobilidade da comunidade, especialmente a rural, e desenvolver tanto o agroturismo como a agroindústria. O
+componente também visa tornar as vias mais resilientes a eventos climáticos extremos, assegurando recursos financeiros para
+constante manutenção e prevenindo efeitos negativos como alagamentos e erosões. Também serão empreendidos esforços para
+melhoria da segurança rodoviária e da sinalização da infraestrutura. Além das melhorias relacionadas às condições do pavimento
+das vias, serão realizadas intervenções em estruturas complementares como pontes, passagens molhadas, bueiros e outras
+pequenas infraestruturas que melhorem a acessibilidade e a trafegabilidade das estradas rurais
+Serão feitos alinhamentos para padronização de documentos e trocas de experiências com o Programa de Manutenção Proativa
+do Estado do Espírito Santo ? PROATIVA-ES do Departamento de Edificações e Rodovias (DER) para buscar um melhor
+desempenho de ambos os projetos.
+   S - RECUPERAÇÃO E MANUTENÇÃO DE INFRAESTRUTURA RODOVIÁRIA RURAL
+- Este Subcomponente ampliará os investimentos para melhoria das condições de logística, segurança e operação, de parte
+considerável, da malha viária rural do estado do Espírito Santo. A infraestrutura produtiva rural complementar aumentaria a
+eficiência logística para as organizações da agricultura familiar e a agroindústria, pois permite melhor trafegabilidade e escoamento
+da produção contribuindo ainda mais para o objetivo estratégico do Governo de aumentar a segurança alimentar e promover a
+adaptação aos impactos das mudanças climáticas por meio de infraestrutura resiliente. O conjunto de intervenções previstas visa
+priorizar a manutenção de estradas com alta utilidade social/econômica, para que não atinjam um nível perigoso de degradação,
+através da promoção de melhoria na infraestrutura viária, ao mesmo tempo em que mitiga potenciais impactos de eventos
+climáticos extremos. Os segmentos selecionados como objeto de intervenção atravessam regiões importantes para o escoamento
+de produção agrícola regional, o desenvolvimento agroindustrial e para o fluxo turístico do Estado.
+- Este projeto irá complementar o aperfeiçoamento do nível de qualidade da malha alimentadora básica já implantada, por meio de
+melhoramentos capazes de ampliar os níveis de segurança e economia de operação do transporte rodoviário nas áreas de
+influência. Além do mais, os objetivos deste componente se inserem integralmente dentro dos objetivos da ação do Governo e
+visam, sobretudo, atender a demanda do crescimento econômico sustentável do Estado e consequentemente melhorar a qualidade
+ de vida da população capixaba.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 9
+-  O Programa resultará em uma melhoria substantiva das condições de manutenção em cerca de 30% do total da rede viária sob
+responsabilidade da SEAG, que hoje abrange 1.125 km. Serão priorizados os trechos classificados com prioridade 1 e 2, que
+apresentam necessidade mais urgente de intervenção para a manutenção das condições de trafegabilidade, considerando também
+a sua correlação com o desenvolvimento agroindustrial. Além das obras de recuperação, o contrato conjunto de manutenção
+garante a continuidade da qualidade das vias, evitando a descontinuidade nos investimentos em manutenção em função de
+alocação insuficiente de recursos. O modelo convencional de manutenção de infraestrutura no Brasil, em geral, e no Espírito Santo
+em particular, envolve ciclos de degradação acelerada da malha, sem a adequada cobertura de manutenção, seguida pela
+necessária recuperação estrutural em épocas de abundância de recursos públicos. No entanto, uma abordagem alternativa de
+manutenção mais perene e proativa não apenas evita o abandono de trechos e a posterior necessidade de reabilitação integral,
+mais cara, como também atenua a curva de degradação das vias, de forma que, no longo prazo, a despesa total é inferior.
+      P - Elaboração de Anteprojeto de Recuperação e Manutenção Rodoviária Rural por Desempenho
+Elaboração de Anteprojeto de Recuperação e Manutenção Rodoviária Rural por Desempenho
+      P - Contratação de Projeto e Obras de Recuperação e Manutenção Rodoviária Rural por Desempenho 
+Contratação de Projeto e Obras de Recuperação e Manutenção Rodoviária Rural por Desempenho 
+      P - Supervisão Técnica e Socioambiental de Obras e Serviços
+Supervisão Técnica e Socioambiental de Obras e Serviços
+   S - MELHORAMENTO EM ESTRUTURAS COMPLEMENTARES DE INFRAESTRUTURA RURAL
+Para garantir o acesso e a trafegabilidade em localidades rurais, além da via em si, também é importante a intervenção em
+estruturas complementares, como pontes, galerias, pontilhões, passagens molhadas, bueiros, entre outras. Esse subcomponente
+promoverá intervenções em Obras de Arte Correntes (OAC) e Obras de Arte Especiais (OAE) presentes em estradas rurais em
+que há densidade de atividades da agricultura familiar no estado. Serão realizados cadastros, inspeções, descrições de patologias,
+diagnósticos, quantificações de serviços entre outras ações para embasar e qualificar eventuais intervenções necessárias nas
+infraestruturas. Além disso, serão também executadas obras e serviços de intervenção nas estruturas necessárias para garantir
+condições seguras de trafego para a população rural e instalações resilientes a ocorrências de eventos climáticos extremos.
+      P - Elaboração de Cadastros, Estudos, Avaliações, Inspeções e/ou Diagnósticos em Estruturas Complementares 
+Elaboração de Cadastros, Estudos, Avaliações, Inspeções e/ou Diagnósticos em Estruturas Complementares
+P - Contratação de Serviços de Manutenção ou Projetos e Obras de Recuperação e/ou Reconstrução de Estruturas
+Complementares
+Contratação de Serviços de Manutenção ou Projetos e Obras de Recuperação e/ou Reconstrução de Estruturas Complementares
+      P - Contratação de Supervisão Técnica e Socioambiental de Obras e Serviços
+Contratação de Supervisão Técnica e Socioambiental de Obras e Serviços
+C - INOVAÇÃO RURAL, CIÊNCIA, TECNOLOGIA E SOCIALIZAÇÃO DO CONHECIMENTO
+Este componente ampliará os investimentos nas instalações e nas tecnologias do sistema público agrícola capixaba, ampliando o
+acesso dos agricultores familiares a sistemas e métodos de produção mais modernos, sustentáveis e climaticamente inteligentes e
+desenvolvendo ciência e tecnologia voltadas às necessidades das atividades agropecuárias do estado.
+S - ADEQUAÇÃO E MODERNIZAÇÃO DA INFRAESTRUTURA RURAL E DA TECNOLOGIA PARA PESQUISA,
+ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL
+- Este Subcomponente promoverá o fortalecimento da infraestrutura e das tecnologias para a pesquisa aplicada, assistência
+técnica e extensão rural voltadas para a agricultura familiar. O foco dos investimentos será, prioritariamente, o Instituto Capixaba
+de Pesquisa, Assistência Técnica e Extensão Rural, que está presente em todos os municípios do estado e tem um papel de
+destaque na execução de políticas públicas agropecuárias voltadas para a agricultura familiar. Por meio da promoção de soluções
+tecnológicas e sociais, através de iniciativas integradas de pesquisa, assistência técnica e extensão rural, serão realizadas ações
+em prol do desenvolvimento sustentável do Espírito Santo.
+- Parte dos esforços nesse componente serão concentrados na recuperação e modernização das Fazendas Experimentais e dos
+Centros de Pesquisa, Desenvolvimento e Inovação do INCAPER. Nessas fazendas, são realizados experimentos de pesquisas das
+mais diversas áreas do conhecimento e cadeias produtivas relacionadas às atividades agropecuárias desenvolvidas no estado.
+Também são realizadas ações de capacitação e conscientização voltadas à conservação dos recursos naturais para o público em
+geral, para alunos das escolas da rede pública estadual e municipal e para agricultores em especial. Elas também disseminam
+mudas e sementes de qualidade para os produtores, fertilizantes naturais e orientações técnicas para boas práticas de manejo
+produtivo aos agricultores. 
+- Um outro eixo de atuação trata da readequação e modernização dos laboratórios e dos centros de pesquisa e de referência.
+Essas instalações propiciam maior qualidade aos trabalhos técnico-científicos realizados com análises laboratoriais e execução de
+experimentos. Essas ações são fundamentais para o desenvolvimento científico de pesquisa aplicada focada na realidade da
+produção local, buscando soluções no aprimoramento genético para produção animal e vegetal, tratamento de pragas e doenças,
+desenvolvimento de técnicas de produção climaticamente mais inteligentes, entre outras. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 10
+- Este subcomponente também apoiará iniciativas de inovação no campo através do estímulo à implementação de hubs de
+inovação, congregando empreendedorismo, setor público e ciência e tecnologia em espaço colaborativo com gestão ágil. O
+objetivo é criar ambientes catalisadores do empreendedorismo aliados ao conhecimento científico, fomentando um ecossistema de
+inovação com startups, inovação aberta, agricultura digital, conectividade e sustentabilidade. 
+- Serão realizados também investimentos nos escritórios do sistema público agrícola capixaba, melhorando a infraestrutura física
+de trabalho dos servidores e de atendimento aos produtores rurais. Além disso, poderão ser realizados investimentos necessários
+em novas tecnologias de comunicação e informação, sistemas, entre outras melhorias tecnológicas para modernizar a assistência
+técnica e extensão rural do estado. 
+P - Recuperação e modernização dos centros de pesquisa, desenvolvimento e inovação rurais, das fazendas
+experimentais e dos centros de referência do INCAPER
+Recuperação e modernização dos centros de pesquisa, desenvolvimento e inovação rurais, das fazendas experimentais e dos
+centros de referência do INCAPER
+P - Adequação e Modernização da Infraestrutura Rural e da Tecnologia para pesquisa, assistência técnica e extensão
+rural
+Adequação e Modernização da Infraestrutura Rural e da Tecnologia para pesquisa, assistência técnica e extensão rural
+C - GESTÃO DO PROJETO, DESENVOLVIMENTO INSTITUCIONAL E GOVERNANÇA
+Este componente auxiliará na gestão, organização, execução e comunicação institucional do Programa, fortalecendo a capacidade
+organizacional, gerencial, de conhecimento e operacional do Estado e das principais instituições implementadoras do Programa.
+O Componente também irá colaborar com a melhoria da governança e desenvolvimento institucional das políticas e projetos
+estratégicos para o Programa no nível estadual e nos territórios.
+O Componente apoiará a gestão/coordenação geral do Projeto e a implementação de todos os três componentes, incluindo os
+seguintes aspectos: 
+a) Coordenação interinstitucional; 
+b) Monitoramento de atividades e avaliações; 
+c) Gestão fiduciária, controles internos e auditorias; 
+d) Gestão e supervisão da implementação de salvaguardas ambientais e sociais; 
+e) Estudos e projetos pilotos relacionados ao Projeto; 
+f) Estratégia de comunicação e divulgação. 
+A estruturação da Unidade de Gestão do Projeto (UGP), que estará vinculada a&#768; SEAG, será responsável pela coordenação,
+supervisão, aprovação de serviços, monitoramento e avaliação das atividades do Projeto. Ela fará a execução técnica para
+realização de procedimentos específicos: licitações e contratos; pedidos de desembolsos e prestações de contas dos recursos
+aportados, executados e/ou comprometidos; supervisão da implementação dos subprojetos financiados, assegurando o
+cumprimento dos requerimentos de salvaguardas ambientais e sociais, de aquisições e de gestão financeira, incluindo prestações
+de contas dos beneficiários. 
+Para apoiar a execução desses procedimentos, poderá ser realizada a contratação de instituição de apoio à gestão para assistir à
+UGP e assegurar a implementação dos componentes do Programa. Além disso, também serão contratados serviços de consultoria
+especializada para execução de atividades de implementação dos subcomponentes e para análise, monitoramento e avaliação da
+gestão social e ambiental do projeto, em conformidade com a legislação vigente e com as políticas definidas pelo BIRD.
+O Componente proverá à Unidade de Gestão do Projeto (UGP) as condições prévias, estudos e informações necessárias para a
+instalação do Projeto, para sua gestão, implementação, acompanhamento e avaliação, assim como para a realização das
+articulações interinstitucionais e parcerias, fortalecimento da governança e do controle social voltadas para a boa execução do
+Projeto.
+Além do comprometimento com o atendimento à legislação e normas ambientais nacionais aplicáveis, a atividades previstas no
+Programa de Desenvolvimento Rural Sustentável do Estado do Espírito Santo irão respeitar o Quadro de Gestão Ambiental e
+Social do Banco Mundial (QAS). O QAS estabelece o compromisso do Banco com o desenvolvimento sustentável por meio de uma
+política própria e um conjunto de Normas Ambientais e Sociais (NAS) destinadas a apoiar os projetos de seus mutuários. Essas
+normas têm a premissa de: (a) apoiar o seguimento de boas práticas internacionais relativas à sustentabilidade ambiental e social;
+(b) ajudar a cumprir as suas obrigações ambientais e sociais, tanto nacionais como internacionais; (c) reforçar a não discriminação,
+a transparência, a participação, a responsabilização e a boa governança; e (d) melhorar os resultados dos projetos em termos de
+desenvolvimento sustentável por meio do envolvimento contínuo das partes interessadas.
+      P - Estruturação da Unidade de Gestão do Projeto
+Estruturação da Unidade de Gestão do Projeto
+      P - Gerenciamento de Obras e Projetos de Infraestrutura Rodoviária
+Gerenciamento de Obras e Projetos de Infraestrutura Rodoviária
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 11
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Obras
+-
+-
+75.800.000,00
+51,04
+P- Contratação de Projeto e Obras de
+Recuperação e Manutenção Rodoviária Rural por
+Desempenho 
+Km
+300,00
+71.300.000,00
+48,01
+P- Contratação de Serviços de Manutenção ou
+Projetos e Obras de Recuperação e/ou
+Reconstrução de Estruturas Complementares
+Unidade
+30,00
+4.500.000,00
+3,03
+Consultoria
+-
+-
+9.200.000,00
+6,20
+P- Elaboração de Anteprojeto de Recuperação e
+Manutenção Rodoviária Rural por Desempenho
+Km
+300,00
+2.000.000,00
+1,35
+P- Supervisão Técnica e Socioambiental de Obras
+ e Serviços
+km
+300,00
+3.500.000,00
+2,36
+P- Elaboração de Cadastros, Estudos, Avaliações,
+Inspeções e/ou Diagnósticos em Estruturas
+Complementares 
+Unidade
+30,00
+500.000,00
+0,34
+P- Contratação de Supervisão Técnica e
+Socioambiental de Obras e Serviços
+Unidade
+1,00
+200.000,00
+0,13
+P- Gerenciamento de Obras e Projetos de
+Infraestrutura Rodoviária
+Unidade
+1,00
+3.000.000,00
+2,02
+Outros
+-
+-
+63.500.000,00
+42,76
+P- Financiamento de subprojetos de organizações
+econômicas da agricultura familiar e
+agroindústrias para melhoria da gestão,
+incremento produtivo e acesso a mercados de
+maior complexidade
+Unidade
+100,00
+8.800.000,00
+5,93
+P- Financiamento de subprojetos de agricultores
+familiares, assentamentos, comunidades
+quilombolas e grupos com maiores dificuldades no
+acesso às políticas públicas, por meio de
+organizações sociais e produtivas
+Unidade
+25,00
+2.100.000,00
+1,41
+P- - Financiamento de subprojetos que beneficiem
+agricultores e pecuaristas e suas respectivas
+organizações, incluindo agroindústrias, para
+adoção de práticas produtivas sustentáveis e
+resilientes
+Unidade
+6.800,00
+4.200.000,00
+2,83
+P- Financiamento de subprojetos que beneficiem
+mulheres, jovens, assentamentos, comunidades
+quilombolas e grupos com maiores dificuldades no
+acesso às políticas públicas para adoção de
+práticas produtivas sustentáveis e resilientes.
+Unidade
+1.500,00
+1.600.000,00
+1,08
+P- Financiamento de subprojetos de pesquisa,
+extensão e inovação
+Unidade
+135,00
+9.300.000,00
+6,26
+P- Recuperação e modernização dos centros de
+pesquisa, desenvolvimento e inovação rurais, das
+fazendas experimentais e dos centros de
+referência do INCAPER
+Unidade
+8,00
+17.000.000,00
+11,45
+P- Adequação e Modernização da Infraestrutura
+Rural e da Tecnologia para pesquisa, assistência
+técnica e extensão rural
+Unidade
+5.000,00
+13.000.000,00
+8,75
+P- Estruturação da Unidade de Gestão do Projeto
+Unidade
+1,00
+7.500.000,00
+5,05
+Total Geral
+-
+-
+148.500.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+As ações propostas para o Campo do Amanhã estarão no âmbito do Plano Plurianual Estadual (PPA), alinhadas com o Plano de
+Desenvolvimento Espírito Santo 2030 e com o Plano Estratégico de Desenvolvimento da Agricultura Capixaba (PEDEAG).
+
+O Espírito Santo está conduzindo atualmente o 4º ciclo de elaboração do Plano Estratégico de Desenvolvimento da Agricultura Familiar -
+PEDEAG 4 (os ciclos anteriores foram em 2003, 2008 e 2015), que tem como tema central o conceito de Inovabilidade. Trata-se de um
+robusto documento que tem como foco discutir todas as cadeias produtivas e alguns temas transversais, como agricultura familiar,
+mudanças climáticas, logística etc. Foram 42 oficinas e reuniões temáticas realizadas em todo o ES e o plano funciona como ?mapa de
+navegação? para o estabelecimento não só de políticas públicas, mas também de ações das organizações da sociedade civil e da
+iniciativa privada voltadas ao desenvolvimento do agronegócio.
+
+O sistema público agrícola capixaba atuou em diversas políticas públicas, seja com sua estrutura própria, seja com parcerias institucionais
+com outras entidades, executando ações em consonância com o propósito desse programa. Esse trabalho gerou um acúmulo de
+experiências na implementação de iniciativas que dão expertise à SEAG na execução de grandes projetos.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 12
+
+Neste sentido, e&#769; importante ressaltar o ambiente favorável para execução do Campo do Amanhã, em virtude das condições
+técnicas, operacionais e de infraestrutura disponíveis, além da existência de programas e projetos tais como: 
+
+- Escritórios do INCAPER em todos os 78 municípios do Espírito Santo;
+- Fazendas Experimentais e Centros de Pesquisa, Desenvolvimento e Inovação do INCAPER;
+- Plano Estratégico de Desenvolvimento da Agricultura Capixaba - PEDEAG 4 (em elaboração, com conclusão prevista para outubro/23);
+- Política Estadual de Produção Agroecológica e Orgânica ? Lei Estadual n° 10.951/2018;
+- Projeto Agroindústria e Empreendedorismo Rural ? Agrolegal ? Decreto Estadual n° 4.808-R/2021 - Parceria com o SEBRAE/ES;
+- Banco de Projetos de Pesquisa ? PPE-AGRO ? Parceria com a FAPES (Fundação de Amparo à Pesquisa e Inovação do Espírito Santo);
+- Plano de Crédito Rural para o Espírito Santo - Parceria entre o Governo do Estado, por meio da SEAG e as principais instituições
+financeiras que aplicam crédito rural no Espírito Santo: Banestes, Bandes, Caixa Econômica Federal, Banco do Brasil, Sicoob, Banco do
+Nordeste e Sicredi.
+- Fundo Social de Apoio à Agricultura Familiar ? FUNSAF ? Lei Estadual n° 10.297/2014  Parceria com BANDES (Banco de
+Desenvolvimento do Espírito Santo) e Incaper;
+- Programa de Incentivo à Pesquisa, à Extensão, ao Desenvolvimento Social e à Inovação Agropecuária do Governo do Estado do Espírito
+ Santo ? INOVAGRO ? Parceria com a FAPES
+- Programa Caminhos do Campo ? Programa de adequação e pavimentação de estradas rurais;
+- Programa Elas no Campo e na Pesca ? Empreendedorismo, Liderança e Autonomia para mulheres;
+- Jovens no Campo e na Pesca ? Juventude Rural e Sucessão Familiar;
+- Plano ABC+ES ? Plano Estadual para Adaptação à Mudança do Clima e Baixa Emissão de Carbono na Agropecuária do Espírito Santo;
+- Plano de Descarbonização e Neutralização das Emissões de Gases do Efeito Estufa;
+- Regularização e Revitalização dos Assentamentos Rurais.
+
+Para a seleção dos trechos rodoviários objeto de intervenção, foi considerado diagnóstico técnico elaborado sobre a malha viária da SEAG
+. Foram definidos e calculados critérios técnicos e funcionais para aferir o nível de intervenção necessário para toda a malha. 
+
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Estadual/Sem detalhes
+Estado do Espírito Santo ()
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+(i) Condições financeiras
+
+- Moeda do empréstimo: USD
+
+- Financiamento: 80% do empreendimento;
+
+(a) Prazos:
+
+- Prazo de desembolso: 72 meses;
+
+- Prazo de carência: 60 meses;
+
+- Prazo de amortização: 240 meses;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 13
+
+- Prazo total: 300 meses.
+
+(b) Taxas de juros e encargos da dívida:
+
+- Juros de amortização: Taxa SOFR + 1,35%a.a.;
+
+- Comissão de compromisso: 0,25%a.a. sobre o saldo não desembolsado;
+
+- Comissão de financiamento: 0,25% do valor do financiamento;
+
+(ii) Necessidade e opção pelo financiamento externo em detrimento de financiamento interno:
+
+(a) Justificativa da necessidade e opção pelo financiamento externo
+
+O Espírito Santo vem buscando alternativas de financiamento que melhor atendam a sua carteira de crédito, sempre associada à
+avaliação das características dos projetos e programas de investimentos com as linhas disponíveis e agregação de valor dos agentes
+financiadores. As fontes de financiamento para projetos de desenvolvimento no Brasil apresentam um leque de oportunidades, com
+suporte de agências nacionais como o BNDES e Caixa Econômica Federal (CAIXA) e de agências internacionais de crédito, como Banco
+Mundial, BID, CAF, FONPLATA e outros. 
+O custo de oportunidade do financiamento externo e prazos disponibilizados para o serviço da dívida, comparado ao nacional, e ainda a
+associação à possibilidade do apoio financeiro possibilitam um leque de ações integradas e abrangentes para a sustentabilidade do
+investimento.
+Apesar do prazo maior para concretizar a assinatura do contrato de empréstimo, as operações de crédito externo apresentam um custo de
+dívida menor que as operações de crédito interno disponíveis no mercado. Geralmente as operações externas estão atreladas à variação
+da taxa SOFR com índice próximo a 5%a.a., em condições que, incluindo os complementos remuneratórios operacionais, atingem um
+montante de custo em torno de 6,7% a.a. num patamar abaixo do custo das operações de crédito interno que oscilam em parâmetros na
+faixa de 11,95 no BNDES a 14,61%a.a. na CAIXA/FINISA.
+Outra vantagem comparativa positiva para a contratação de empréstimos externos está baseada na incorporação ao conhecimento local
+de um legado institucional e técnico construído junto com a agência multilateral de crédito (Banco Mundial), durante os processos para
+elaboração do projeto, análise, aprovação e execução do empreendimento.
+.
+(b) Justificativa da opção pelo agente financeiro BIRD:
+
+A definição do BIRD/Banco Mundial pelo Estado para agente financeiro do Programa de Desenvolvimento Rural Sustentável do Estado do
+Espírito Santo levou em consideração a parceria histórica e construtiva que o Espírito Santo tem com a Instituição no desenvolvimento e
+implementação de programas de investimentos, com execução eficiente e resultados exitosos. 
+A escolha deste Banco como agente financeiro para este Projeto fundamenta-se primordialmente no valor adicionado pela instituição, que
+em muito extrapola a disponibilização de recursos financeiros para obras e aquisições. Trabalhar com o Banco Mundial permite ao Estado
+do Espírito Santo e à SEAG em particular beneficiar-se de sua expertise global para maximizar a efetividade das soluções propostas, além
+de elevar a probabilidade de cumprimento dos objetivos de desenvolvimento pretendidos, devido à intensa atuação do Banco em termos
+de supervisão e apoio técnico durante a fase de implementação do projeto. 
+Os projetos financiados pelo Banco Mundial buscam contribuir, de forma eficaz, para o desenvolvimento econômico e social dos países,
+com foco em resultados econômicos e ambientalmente sustentáveis, promovendo a inclusão social, a produtividade, a inovação e a
+integração econômica. Além disso, é fornecida assistência técnica desde a identificação e desenvolvimento de projetos até a sua
+implementação, disponibilizando aos mutuários e executores um arcabouço de ferramentas de planejamento e gestão, apoiadas em
+metodologias de avaliação técnica, econômica, social e ambiental.
+
+(c) Comparativo das condições financeiras dos agentes financeiros externos e internos: 
+
+Taxa parâmetro para juros:
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 14
+BIRD, BID e CAF = Taxa SOFR (5,38% em 29/12/2023); BNDES = 10,28%a.a. (IPCA+5,6 em dez2023); CAIXA/FINISA = 13,30%a.a (CDI
+).
+
+Taxa Spread: 
+BIRD = 1,35%a.a.; BID = 1,26%a.a.; CAF = 1,80%a.a.; BNDES = 1,67%a.a.; CAIXA/FINISA = 1,31%a.a. (10% CDI)
+
+Prazo de carência:
+BIRD, BID e CAF = 60 meses; BNDES = 36 meses e CAIXA/FINISA = 12 meses
+
+Prazo de amortização:
+BIRD e BID = 240 meses; CAF = 156 meses; BNDES = 256 meses; CAIXA/FINISA = 108 meses
+
+Comissão de financiamento:
+BIRD e BID = 0,25%; CAF = 0,85%; BNDES = 0,50%; CAIXA/FINISA = 0,00%
+
+Taxa de compromisso:
+BIRD = 0,25%; BID = 0,50%; CAF = 0,35%; BNDES e CAIXA/FINISA = 0,00%
+
+Desta forma:
+- As instituições de crédito externo (citadas nesta análise) estruturam suas taxas de juros com base na SOFR, acrescido de um spread (
+fixo ou variável). Além dos juros diretos sobre cada parcela amortizada utilizam as comissões de compromisso e financiamento. Estas
+condições integram as práticas contratuais de importantes empreendimentos viabilizados pelo Governo do Estado;
+
+- Quanto a atratividade dos prazos de carência e amortização da dívida, as instituições internacionais têm trabalhado com similaridade no
+período de carência em 60 meses, mantendo um horizonte alongado para pagamento total das parcelas  (entre 216 e 300 meses), um
+cenário, que confirma esta condição atrativa para as operações de crédito contratadas junto ao Banco Mundial, nesta operação
+estruturada em 300 meses;
+
+- No tocante aos valores das comissões de financiamento e compromisso, os portfólios de exigências que integram as condições
+apresentadas para esta operação estão nos patamares mínimos praticados pelas melhores condições do Banco Mundial e BID;
+
+- Desta forma merece destaque o valor do spread praticado pelo Banco Mundial, evidenciando a representatividade positiva desta
+condição, somado ao legado técnico operacional para o segmento de práticas e infraestrutura rural sustentável, demonstra uma avaliação
+favorável na opção pelas prestações do período alongado para a amortização da dívida a ser contratada com o Banco;
+
+- Em referência ao prazo de desembolso (72 meses) superior em 12 meses ao prazo de carência (60 meses) tem fundamento estratégico
+executivo com reflexo na viabilidade econômica do empreendimento, uma vantagem comparativa positiva relacionada a atratividade dos
+juros reduzidos para o período de amortização, que representam inversões financeiras com benefícios no horizonte de projeto e serviço da
+ dívida;
+
+-  Quanto a oportunidade para captação de recursos internos foi demonstrado a análise comparativa de oportunidades frente às opções do
+BNDES e Caixa Econômica Federal - FINISA, com custos de juros referenciais a: (i) operações em TLP e Spread do BNDES = 11,95%aa.
+ e; (ii) operações com custos do FINISA/CAIXA (CDI + spread) = 14,61% aa. (atualizações praticadas em dez/2023); 
+
+- Concluindo, as análises comparativas demostram um padrão de similaridade na estruturação dos índices praticados por fontes externas (
+Banco Mundial, BID e CAF) em patamares inferiores aos custos das fontes de recursos internos, e, assim validando as vantagens
+comparativas positivas deste demonstrativo, para optarmos pelas operações de crédito externo disponibilizadas pelo Banco Mundial.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 15
+Além das considerações acima, o financiamento de qualquer projeto envolve um intenso diálogo entre o Banco Mundial e os governos
+sobre questões de desenvolvimento, e todos os projetos financiados oferecem soluções globais para desafios locais. Além de
+empréstimos, o Banco Mundial também oferece: Estudos Econômicos e Setoriais (ESW), Assessoria Técnica (TA), Serviço de Consultoria
+Reembolsável (RAS), treinamentos, conferências, seminários e intercâmbios de experiências e tecnologias com outros projetos no Brasil e
+em outros países. Nesse contexto, o Banco apoia o fortalecimento da capacidade institucional e técnica do sistema de assistência
+governamental, apoia o fortalecimento e a capacitação do órgão estadual que irá implementar a política pública e apoia ativamente no
+desenho e na implementação do projeto. Ainda, o envolvimento do Banco de maneira consistente visa identificar e tratar os desafios
+encontrados pelo mutuário, por meio de projetos de investimento que não só oferecem apoio financeiro, mas também ampliam as
+competências locais ao compartilhar experiências e conhecimentos globais.
+
+Logo, de forma conclusiva, o relacionamento construído ao longo dos últimos anos com o BIRD na implementação de diversos projetos
+em múltiplas áreas; as condições financeiras mais competitivas de mercado apresentadas; o avançado entendimento técnico na
+elaboração de um novo projeto; a orientação assertiva baseada nas lições aprendidas de projetos anteriores e em outras experiências que
+foram bem sucedidas; além das considerações relatadas ao longo do presente documento, contribuíram de forma significativa para que o
+Governo do Espírito Santo decidisse estabelecer esta parceria com o Banco Mundial, como a melhor opção entre os agentes financeiros
+do mercado, para financiar o Programa Campo do Amanhã. 
+
+
+2.11. PROJETO/BENEFICIÁRIO
+(i)  Áreas Estratégicas e Impactos do Projeto (Ambientais, Econômicos e Sociais)
+
+a) Promoção da sustentabilidade ambiental: 
+A promoção da sustentabilidade é uma das tônicas do Programa. A adoção de práticas de produção climaticamente inteligentes
+incentivam uma maior agregação de valor aliada a uma redução do impacto ao meio ambiente, aos produtores rurais e à sociedade como
+um todo. 
+
+b) Eficiência energética, geração e/ou uso de energia de fontes renováveis 
+O projeto irá incentivar a adoção de energia fotovoltaica por organizações produtivas da agricultura familiar. Outras formas de geração de
+energia por fontes alternativas sustentáveis também poderão ser contempladas em propostas de projetos de financiamento. 
+
+c) Implantação e/ou ampliação de ações de saneamento básico
+Projetos de prevenção e melhorias para o saneamento ambiental em comunidades rurais de organizações econômicas da agricultura
+familiar poderão ser submetidos como propostas de financiamento nas ações do Componente 1. Além disso, as obras de recuperação e
+manutenção de rodovias, estradas e vicinais estaduais contarão com projetos que visem a contenção de taludes, levando a redução de
+movimento de massa como rastejos, deslizamentos de encostas, bloco rolados e outros para preservação do pavimento e do meio. E
+também no combate do assoreamento dos canais próximo as pistas e aos taludes e evitando impactos maiores a bacia hidrográfica e aos
+que nela habitam. A instalação de dispositivos de drenagem, escada hidráulica e a realização de limpeza dessas instalações evitará ou
+reduzirá os alagamentos, enchentes e inundações, que podem resultar em degradação do meio, contaminação dos corpos hídricos,
+potencializando a transmissão de doenças por meio da água e outros.
+
+d) Gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes
+Projetos sustentáveis voltados à segurança hídrica, como sistemas de irrigação, reservação de água, capacitação de produtores para uso
+racional da água poderão ser objeto de financiamento do Componente 1. Durante a execução do Programa, serão observadas as
+legislações ambientais estaduais e nacionais, bem como as Salvaguardas Ambientais do organismo financiador, adotando-se todas as
+medidas de prevenção e mitigação de impactos negativos relacionados a segurança de recursos hídricos e conservação de solos e
+nascentes.
+
+e) Conservação e manejo de biodiversidade e/ou de recursos florestais: 
+As normas socioambientais do Banco, a serem seguidas durante a execução do Programa, são rigorosas quanto à necessidade de
+preservar os recursos florestais e a biodiversidade.
+
+f) Melhoria de ambiente de negócios e/ou oportunidades
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 16
+Entre as iniciativas do Componente 1 do Programa, um dos pilares é proporcionar o acesso a mercados para as organizações produtivas
+da agricultura familiar. Esse tipo de iniciativa tem potencial fundamental para melhoria do ambiente de negócios e para a geração de
+oportunidades para essas organizações, podendo ampliar seu faturamento com novos produtos e agregação de valor. Isso pode
+proporcionar uma nova fonte de renda para as organizações de maneira contínua, além do período do projeto, trazendo uma elevação das
+ potencialidades econômicas para as comunidades rurais. 
+A melhoria da infraestrutura rural também é um fator fundamental para melhoria do ambiente de negócios e das oportunidades, facilitando
+o escoamento da produção e proporcionando uma redução de custos de logística que pode catalisar novas oportunidades de investimento
+ para as comunidades rurais. 
+para as comunidades rurais. 
+
+g) Benefícios para empreendedores individuais, micro e pequenas empresas:
+As organizações produtivas da agricultura familiar são compostas em grande parte por empreendedores individuais, micro e pequenas
+empresas, especialmente nas agroindústrias e no turismo rural.
+Os investimentos na melhoria da trafegabilidade e segurança viária resultarão em melhoria nas condições de escoamento da produção
+agrícola local e estimularão o turismo regional, com a atração de novos visitantes, favorecendo o desenvolvimento de micro, pequenas e
+médias empresas.
+
+h) geração de emprego e renda para populações de baixa renda e vulneráveis
+Os investimentos em novas oportunidades para as organizações produtivas da agricultura familiar visam aumentar seu faturamento,
+garantindo novas oportunidades de renda e geração de empregos. As iniciativas direcionadas para os públicos de mulheres, jovens,
+quilombolas, assentados e grupos com maiores dificuldades no acesso às políticas públicas também apresentam esse objetivo. 
+Além disso, os investimentos que serão realizados pelo Programa reduzirão os custos de transporte e proporcionarão melhorias na
+acessibilidade de áreas rurais, favorecendo o acesso a empregos das populações das regiões beneficiadas. As empresas locais
+selecionadas deverão priorizar o emprego de mão de obra local.
+
+j) Ações de inclusão de minorias sociais entre os beneficiados:
+Estão previstas ações de inclusão produtiva direcionadas para quilombolas, mulheres, jovens, quilombolas, assentados e grupos com
+maiores dificuldades no acesso às políticas públicas.
+A infraestrutura criada ou melhorada no Programa será utilizada por toda a população das regiões atendidas, para acesso aos serviços
+básicos de saúde, educação e segurança.
+
+k) Políticas voltadas para juventude, gênero, raça:
+Estão previstas ações de inclusão produtiva direcionadas para quilombolas, mulheres, jovens, quilombolas, assentados e grupos com
+maiores dificuldades no acesso às políticas públicas como produtos do Componente 1.
+
+l) Melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão, de participação cidadã:
+O Programa propõe a melhoria no acompanhamento das organizações produtivas da agricultura familiar na execução dos recursos
+recebidos no financiamento dos projetos. Proporcionar melhoria na gestão das organizações possibilita uma melhor utilização dos
+recursos e a maior autonomia para o aproveitamento de oportunidades de mercado futuramente.  Além disso, a melhoria das instalações
+do sistema público agrícola capixaba proporcionará um ambiente mais moderno para o atendimento à população rural em seus territórios,
+ampliando a qualidade e a tecnologia da prestação de serviços públicos à população. 
+O Componente de Infraestrutura Rural Produtiva Complementar propõe uma abordagem de contratação integrada e de maior duração,
+gerando uma maior eficiência para o Estado e redução de custos, além de transferir maiores riscos ao setor privado. 
+
+m) Melhoria das condições de educação e saúde:
+Com a realização das obras de recuperação viária, a população terá maior acesso aos serviços básicos como educação e saúde, além
+dessas intervenções contribuírem para uma redução da taxa de mortalidade e de feridos em acidentes viários no Estado. Além disso,
+estão previstos grandes investimentos em instituições de ensino e pesquisa. 
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 17
+n) desenvolvimento, inovação e modernização tecnológica
+O subcomponente 1.3 trata justamente de propor incentivos a iniciativas inovadoras, de modernização tecnológica e indutoras ao
+desenvolvimento da agropecuária capixaba e brasileira. O componente 3 também prevê recursos para instalações dedicadas a iniciativas
+de desenvolvimento, inovação e modernização tecnológica.
+
+o) arranjos de financiamento que incentivem/contribuam com a participação privada
+O apoio na estruturação da gestão das organizações produtivas da agricultura familiar tem o potencial de auxiliá-las a buscar novas
+alternativas de financiamento para projetos futuros, inclusive na iniciativa privada. Nos financiamentos oferecidos pelo Programa, poderão
+ser exigidas contrapartidas. 
+
+
+(ii) População beneficiada
+
+O projeto beneficiará todos os residentes do Estado do Espírito Santo, estimados em 3,9 milhões, especialmente aqueles que vivem no
+interior do Estado. Em menor grau beneficiará também os residentes de Estados vizinhos que, direta ou indiretamente, participam do
+intercâmbio de mercadorias, insumos e serviços.
+
+Serão públicos beneficiários do Programa as organizações sociais ou produtivas (associações e cooperativas) da agricultura familiar,
+comunidades tradicionais, assentados da reforma agrária, quilombolas e grupos com maiores dificuldades no acesso às políticas públicas,
+legalmente constituídas, dirigidas e integradas por estes segmentos sociais, conforme estabelecido na Lei Federal n°11.326/2006.
+
+Dada a heterogeneidade das famílias e das organizações sociais e produtivas elegíveis sob estes critérios, para cada componente/
+subcomponente (e para cada tipo de intervenção) serão identificados critérios de elegibilidade e de seleção adicionais específicos, em
+linha com o que compõe a estratégia do Programa.
+
+
+(iii) Benefícios identificados para populações 
+
+- benefícios a populações de baixa renda:
+
+Os subcomponentes 1.1 e 1.2 apresentam ações específicas para grupos com maiores dificuldades no acesso às políticas públicas, entre
+eles a população de baixa renda. Serão definidos critérios e formas de acesso aos recursos do projeto adequados para esse público. Além
+disso, o subcomponente 1.3 irá potencializar com mais recursos projetos de instituições de ensino e pesquisa que já adotam medidas de
+inclusão para a população de baixa renda.
+
+No Componente 2, a infraestrutura criada ou melhorada no Programa será utilizada por toda a população das regiões atendidas, para
+acesso aos serviços básicos de saúde, educação e segurança.
+
+No Componente 3, o legado institucional da melhoria das instalações e tecnologias do sistema agrícola público capixaba irá permitir uma
+melhora no atendimento dos agricultores familiares do estado, ampliando o acesso da população de baixa renda à assistência técnica e
+extensão rural. 
+
+
+- benefícios a populações vulneráveis:
+
+Os subcomponentes 1.1 e 1.2 apresentam ações específicas para grupos com maiores dificuldades no acesso às políticas públicas, entre
+eles as populações vulneráveis. Serão definidos critérios e formas de acesso aos recursos do projeto adequados para esse público. Além
+disso, o subcomponente 1.3 irá potencializar com mais recursos projetos de instituições de ensino e pesquisa que já adotam medidas de
+inclusão para a população de baixa renda. 
+
+No Componente 2, a infraestrutura criada ou melhorada no Programa será utilizada por toda a população das regiões atendidas, para
+acesso aos serviços básicos de saúde, educação e segurança.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 18
+
+- benefícios a minorias sociais, jovens, com foco em gênero e/ou raça, entre outros 
+
+Os subcomponentes 1.1 e 1.2 apresentam ações específicas para grupos com maiores dificuldades no acesso às políticas públicas, entre
+eles mulheres, jovens, assentados, comunidades quilombolas e outros grupos com maiores dificuldades no acesso às políticas públicas.
+Serão definidos critérios e formas de acesso aos recursos do projeto adequados para esse público. Além disso, o subcomponente 1.3 irá
+potencializar com mais recursos projetos de instituições de ensino e pesquisa que já adotam medidas de inclusão nessa linha de atuação. 
+
+No Componente 2, a infraestrutura criada ou melhorada no Programa será utilizada por toda a população das regiões atendidas, para
+acesso aos serviços básicos de saúde, educação e segurança.
+
+No Componente 3, o legado institucional da melhoria das instalações e tecnologias do sistema agrícola público capixaba irá permitir uma
+melhora no atendimento dos agricultores familiares do estado, ampliando o acesso de mulheres, jovens, assentados, comunidades
+quilombolas e outros grupos com maiores dificuldades no acesso as políticas públicas à assistência técnica e extensão rural. 
+
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Internas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Contrapartida Financeira
+CF
+US$
+29.700.000,00
+1,00
+29.700.000,00
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+BIRD
+US$
+118.800.000,00
+1,00
+118.800.000,00
+Total:
+148.500.000,00
+148.500.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+ARRANJO INSTITUCIONAL:
+
+MUTUÁRIO: GOVERNO DO ESTADO DO ESPÍRITO SANTO
+Atribuições: Responsável pelas ações necessárias à transferência e alocações de recursos e execução dos projetos definidos, bem como
+o cumprimento dos termos e das obrigações derivadas do Contrato de Empréstimo a ser celebrado com o Banco Mundial. 
+
+EXECUTOR: SECRETARIA DE ESTADO DA AGRICULTURA. ABASTECIMENTO, AQUICULTURA E PESCA - SEAG
+A gestão, monitoramento, avaliação e comunicação do Projeto serão realizadas pela Unidade de Gestão do Projeto (UGP), a ser
+formalizada no âmbito da SEAG, que disporá de pessoal administrativo e técnico específico, de carreira e também contratados com
+recursos do empréstimo. A organização institucional para a execução do Programa terá o apoio de secretarias, autarquias e outras
+entidades da administração pública estadual e de entidades não governamentais que desenvolvem ações concernentes à agricultura
+familiar e convergentes ao Programa, especialmente as que compõem o sistema público agrícola capixaba. Poderão ser criadas equipes
+regionais para auxiliar no desenvolvimento de ações do projeto nos territórios do interior que serão alvo das ações dos subcomponentes,
+facilitando o alcance do Programa e auxiliando principalmente às organizações produtivas da agricultura familiar a cumprir requisitos e
+implementar ações. 
+Inclui-se como atividades do Projeto a análise e aprovação técnica de subprojetos, planejamento de aquisições, monitoramento financeiro
+e elaboração de relatórios, desembolsos e controles internos, manutenção das contas do projeto e preparação de relatórios de gestão,
+bem como pela gestão financeira do projeto, aquisições, desembolso e contabilidade. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 19
+A Fundação de Amparo à Pesquisa e Inovação do Espírito Santo (FAPES) atuará como parceira operacional para os projetos de pesquisa,
+desenvolvimento, extensão ou inovação que contemplem o Programa. O Banco de Desenvolvimento do Espírito Santo (BANDES) atuará
+como parceiro operacional para execução de financiamentos para execução das ações voltadas às organizações produtivas da agricultura
+ familiar e aos agricultores familiares. 
+
+MATRIZ DE RESPONSABILIDADE
+A Matriz de Responsabilidade está apresentada em arquivo Anexo.
+
+ARRANJO OPERACIONAL
+O Programa será executado observando a estrutura organizacional da SEAG, com a coordenação da UGP e contratação de apoios
+específicos para reforçar a capacidade operacional. O quadro da SEAG possui capacidade técnica na execução do segmento Rural e, de
+obras de infraestrutura rodoviária.
+Os recursos oriundos do empréstimo externo serão recebidos diretamente pelo Mutuário, por meio de sua Secretaria de Estado da
+Fazenda (SEFAZ), a qual efetuará o repasse dos mesmos a SEAG, por meio de conta vinculada.
+Os recursos de contrapartida local serão recursos do Estado do Espírito Santo, previstos em orçamento, em conformidade com Resolução
+ Cofiex N 3, liberados pela SEFAZ a SEAG ao longo do Programa. Não há previsão de repasses para outras esferas do Governo.
+
+
+4.2. Execução/Executores
+Executor: Secretaria de Estado da Agricultura, Abastecimento, Aquicultura e Pesca ? SEAG
+Representante Oficial: Enio Bergoli da Costa
+Endereço da Sede: Rua Raimundo Nonato, 116, Forte São João, Vitória-ES, Brasil
+E-mail Institucional:
+Telefone: 2736363703
+Fax: 2736363703
+CNPJ: 27080555000147 
+UF:
+4.3. Execução/Prazo
+Prazo de Desembolso:
+6
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - DINAMIZAÇÃO ECONÔMICA E PROMOÇÃO DE SISTEMAS DE PRODUÇÃO SUSTENTÁVEIS
+ E RESILIENTES NA AGRICULTURA FAMILIAR 
+26.000.000,00
+1.075.000,00
+2.870.000,00
+   S - FORTALECIMENTO DA ESTRUTURA PRODUTIVA DA AGRICULTURA FAMILIAR
+10.900.000,00
+435.000,00
+780.000,00
+P - Financiamento de subprojetos de organizações econômicas da agricultura familiar e
+agroindústrias para melhoria da gestão, incremento produtivo e acesso a mercados de maior
+complexidade
+8.800.000,00
+350.000,00
+650.000,00
+P - Financiamento de subprojetos de agricultores familiares, assentamentos, comunidades
+quilombolas e grupos com maiores dificuldades no acesso às políticas públicas, por meio de
+organizações sociais e produtivas
+2.100.000,00
+85.000,00
+130.000,00
+S - FOMENTO À IMPLEMENTAÇÃO DE SISTEMAS DE PRODUÇÃO SUSTENTÁVEIS E
+RESILIENTES
+5.800.000,00
+240.000,00
+370.000,00
+P - - Financiamento de subprojetos que beneficiem agricultores e pecuaristas e suas respectivas
+organizações, incluindo agroindústrias, para adoção de práticas produtivas sustentáveis e resilientes
+4.200.000,00
+170.000,00
+250.000,00
+P - Financiamento de subprojetos que beneficiem mulheres, jovens, assentamentos,
+comunidades quilombolas e grupos com maiores dificuldades no acesso às políticas públicas para
+adoção de práticas produtivas sustentáveis e resilientes.
+1.600.000,00
+70.000,00
+120.000,00
+   S - FOMENTO À PESQUISA APLICADA, AO DESENVOLVIMENTO E À INOVAÇÃO RURAL 
+9.300.000,00
+400.000,00
+1.720.000,00
+      P - Financiamento de subprojetos de pesquisa, extensão e inovação
+9.300.000,00
+400.000,00
+1.720.000,00
+C - MODERNIZAÇÃO DA INFRAESTRUTURA PRODUTIVA RURAL COMPLEMENTAR
+82.000.000,00
+2.000.000,00
+6.230.000,00
+   S - RECUPERAÇÃO E MANUTENÇÃO DE INFRAESTRUTURA RODOVIÁRIA RURAL
+76.800.000,00
+1.500.000,00
+5.450.000,00
+      P - Elaboração de Anteprojeto de Recuperação e Manutenção Rodoviária Rural por Desempenho
+2.000.000,00
+300.000,00
+1.700.000,00
+P - Contratação de Projeto e Obras de Recuperação e Manutenção Rodoviária Rural por
+Desempenho 
+71.300.000,00
+1.000.000,00
+3.000.000,00
+      P - Supervisão Técnica e Socioambiental de Obras e Serviços
+3.500.000,00
+200.000,00
+750.000,00
+   S - MELHORAMENTO EM ESTRUTURAS COMPLEMENTARES DE INFRAESTRUTURA RURAL
+5.200.000,00
+500.000,00
+780.000,00
+P - Elaboração de Cadastros, Estudos, Avaliações, Inspeções e/ou Diagnósticos em Estruturas
+Complementares 
+500.000,00
+500.000,00
+0,00
+P - Contratação de Serviços de Manutenção ou Projetos e Obras de Recuperação e/ou
+Reconstrução de Estruturas Complementares
+4.500.000,00
+0,00
+750.000,00
+      P - Contratação de Supervisão Técnica e Socioambiental de Obras e Serviços
+200.000,00
+0,00
+30.000,00
+C - INOVAÇÃO RURAL, CIÊNCIA, TECNOLOGIA E SOCIALIZAÇÃO DO CONHECIMENTO
+30.000.000,00
+1.750.000,00
+9.570.000,00
+S - ADEQUAÇÃO E MODERNIZAÇÃO DA INFRAESTRUTURA RURAL E DA TECNOLOGIA
+PARA PESQUISA, ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL
+30.000.000,00
+1.750.000,00
+9.570.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 20
+P - Recuperação e modernização dos centros de pesquisa, desenvolvimento e inovação rurais,
+das fazendas experimentais e dos centros de referência do INCAPER
+17.000.000,00
+1.000.000,00
+5.450.000,00
+P - Adequação e Modernização da Infraestrutura Rural e da Tecnologia para pesquisa,
+assistência técnica e extensão rural
+13.000.000,00
+750.000,00
+4.120.000,00
+C - GESTÃO DO PROJETO, DESENVOLVIMENTO INSTITUCIONAL E GOVERNANÇA
+10.500.000,00
+180.000,00
+2.180.000,00
+      P - Estruturação da Unidade de Gestão do Projeto
+7.500.000,00
+180.000,00
+1.700.000,00
+      P - Gerenciamento de Obras e Projetos de Infraestrutura Rodoviária
+3.000.000,00
+0,00
+480.000,00
+Total
+0,00
+5.005.000,00
+20.850.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - DINAMIZAÇÃO ECONÔMICA E PROMOÇÃO DE SISTEMAS DE PRODUÇÃO SUSTENTÁVEIS
+ E RESILIENTES NA AGRICULTURA FAMILIAR 
+1.445.000,00
+4.245.000,00
+   S - FORTALECIMENTO DA ESTRUTURA PRODUTIVA DA AGRICULTURA FAMILIAR
+625.000,00
+1.450.000,00
+P - Financiamento de subprojetos de organizações econômicas da agricultura familiar e
+agroindústrias para melhoria da gestão, incremento produtivo e acesso a mercados de maior
+complexidade
+500.000,00
+1.200.000,00
+P - Financiamento de subprojetos de agricultores familiares, assentamentos, comunidades
+quilombolas e grupos com maiores dificuldades no acesso às políticas públicas, por meio de
+organizações sociais e produtivas
+125.000,00
+250.000,00
+S - FOMENTO À IMPLEMENTAÇÃO DE SISTEMAS DE PRODUÇÃO SUSTENTÁVEIS E
+RESILIENTES
+420.000,00
+675.000,00
+P - - Financiamento de subprojetos que beneficiem agricultores e pecuaristas e suas respectivas
+organizações, incluindo agroindústrias, para adoção de práticas produtivas sustentáveis e resilientes
+300.000,00
+475.000,00
+P - Financiamento de subprojetos que beneficiem mulheres, jovens, assentamentos,
+comunidades quilombolas e grupos com maiores dificuldades no acesso às políticas públicas para
+adoção de práticas produtivas sustentáveis e resilientes.
+120.000,00
+200.000,00
+   S - FOMENTO À PESQUISA APLICADA, AO DESENVOLVIMENTO E À INOVAÇÃO RURAL 
+400.000,00
+2.120.000,00
+      P - Financiamento de subprojetos de pesquisa, extensão e inovação
+400.000,00
+2.120.000,00
+C - MODERNIZAÇÃO DA INFRAESTRUTURA PRODUTIVA RURAL COMPLEMENTAR
+1.760.000,00
+30.225.000,00
+   S - RECUPERAÇÃO E MANUTENÇÃO DE INFRAESTRUTURA RODOVIÁRIA RURAL
+1.760.000,00
+29.190.000,00
+      P - Elaboração de Anteprojeto de Recuperação e Manutenção Rodoviária Rural por Desempenho
+0,00
+0,00
+P - Contratação de Projeto e Obras de Recuperação e Manutenção Rodoviária Rural por
+Desempenho 
+1.510.000,00
+28.190.000,00
+      P - Supervisão Técnica e Socioambiental de Obras e Serviços
+250.000,00
+1.000.000,00
+   S - MELHORAMENTO EM ESTRUTURAS COMPLEMENTARES DE INFRAESTRUTURA RURAL
+0,00
+1.035.000,00
+P - Elaboração de Cadastros, Estudos, Avaliações, Inspeções e/ou Diagnósticos em Estruturas
+Complementares 
+0,00
+0,00
+P - Contratação de Serviços de Manutenção ou Projetos e Obras de Recuperação e/ou
+Reconstrução de Estruturas Complementares
+0,00
+1.000.000,00
+      P - Contratação de Supervisão Técnica e Socioambiental de Obras e Serviços
+0,00
+35.000,00
+C - INOVAÇÃO RURAL, CIÊNCIA, TECNOLOGIA E SOCIALIZAÇÃO DO CONHECIMENTO
+1.200.000,00
+7.250.000,00
+S - ADEQUAÇÃO E MODERNIZAÇÃO DA INFRAESTRUTURA RURAL E DA TECNOLOGIA
+PARA PESQUISA, ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL
+1.200.000,00
+7.250.000,00
+P - Recuperação e modernização dos centros de pesquisa, desenvolvimento e inovação rurais,
+das fazendas experimentais e dos centros de referência do INCAPER
+700.000,00
+4.100.000,00
+P - Adequação e Modernização da Infraestrutura Rural e da Tecnologia para pesquisa,
+assistência técnica e extensão rural
+500.000,00
+3.150.000,00
+C - GESTÃO DO PROJETO, DESENVOLVIMENTO INSTITUCIONAL E GOVERNANÇA
+180.000,00
+2.060.000,00
+      P - Estruturação da Unidade de Gestão do Projeto
+180.000,00
+1.700.000,00
+      P - Gerenciamento de Obras e Projetos de Infraestrutura Rodoviária
+0,00
+360.000,00
+Total
+0,00
+4.585.000,00
+43.780.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - DINAMIZAÇÃO ECONÔMICA E PROMOÇÃO DE SISTEMAS DE PRODUÇÃO SUSTENTÁVEIS
+ E RESILIENTES NA AGRICULTURA FAMILIAR 
+1.730.000,00
+4.850.000,00
+   S - FORTALECIMENTO DA ESTRUTURA PRODUTIVA DA AGRICULTURA FAMILIAR
+670.000,00
+2.050.000,00
+P - Financiamento de subprojetos de organizações econômicas da agricultura familiar e
+agroindústrias para melhoria da gestão, incremento produtivo e acesso a mercados de maior
+complexidade
+500.000,00
+1.700.000,00
+P - Financiamento de subprojetos de agricultores familiares, assentamentos, comunidades
+quilombolas e grupos com maiores dificuldades no acesso às políticas públicas, por meio de
+organizações sociais e produtivas
+170.000,00
+350.000,00
+S - FOMENTO À IMPLEMENTAÇÃO DE SISTEMAS DE PRODUÇÃO SUSTENTÁVEIS E
+RESILIENTES
+660.000,00
+1.000.000,00
+P - - Financiamento de subprojetos que beneficiem agricultores e pecuaristas e suas respectivas
+organizações, incluindo agroindústrias, para adoção de práticas produtivas sustentáveis e resilientes
+500.000,00
+750.000,00
+P - Financiamento de subprojetos que beneficiem mulheres, jovens, assentamentos,
+comunidades quilombolas e grupos com maiores dificuldades no acesso às políticas públicas para
+adoção de práticas produtivas sustentáveis e resilientes.
+160.000,00
+250.000,00
+   S - FOMENTO À PESQUISA APLICADA, AO DESENVOLVIMENTO E À INOVAÇÃO RURAL 
+400.000,00
+1.800.000,00
+      P - Financiamento de subprojetos de pesquisa, extensão e inovação
+400.000,00
+1.800.000,00
+C - MODERNIZAÇÃO DA INFRAESTRUTURA PRODUTIVA RURAL COMPLEMENTAR
+1.000.000,00
+22.685.000,00
+   S - RECUPERAÇÃO E MANUTENÇÃO DE INFRAESTRUTURA RODOVIÁRIA RURAL
+1.000.000,00
+21.150.000,00
+      P - Elaboração de Anteprojeto de Recuperação e Manutenção Rodoviária Rural por Desempenho
+0,00
+0,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 21
+P - Contratação de Projeto e Obras de Recuperação e Manutenção Rodoviária Rural por
+Desempenho 
+1.000.000,00
+20.600.000,00
+      P - Supervisão Técnica e Socioambiental de Obras e Serviços
+0,00
+550.000,00
+   S - MELHORAMENTO EM ESTRUTURAS COMPLEMENTARES DE INFRAESTRUTURA RURAL
+0,00
+1.535.000,00
+P - Elaboração de Cadastros, Estudos, Avaliações, Inspeções e/ou Diagnósticos em Estruturas
+Complementares 
+0,00
+0,00
+P - Contratação de Serviços de Manutenção ou Projetos e Obras de Recuperação e/ou
+Reconstrução de Estruturas Complementares
+0,00
+1.500.000,00
+      P - Contratação de Supervisão Técnica e Socioambiental de Obras e Serviços
+0,00
+35.000,00
+C - INOVAÇÃO RURAL, CIÊNCIA, TECNOLOGIA E SOCIALIZAÇÃO DO CONHECIMENTO
+760.000,00
+3.500.000,00
+S - ADEQUAÇÃO E MODERNIZAÇÃO DA INFRAESTRUTURA RURAL E DA TECNOLOGIA
+PARA PESQUISA, ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL
+760.000,00
+3.500.000,00
+P - Recuperação e modernização dos centros de pesquisa, desenvolvimento e inovação rurais,
+das fazendas experimentais e dos centros de referência do INCAPER
+400.000,00
+2.000.000,00
+P - Adequação e Modernização da Infraestrutura Rural e da Tecnologia para pesquisa,
+assistência técnica e extensão rural
+360.000,00
+1.500.000,00
+C - GESTÃO DO PROJETO, DESENVOLVIMENTO INSTITUCIONAL E GOVERNANÇA
+60.000,00
+1.910.000,00
+      P - Estruturação da Unidade de Gestão do Projeto
+60.000,00
+1.550.000,00
+      P - Gerenciamento de Obras e Projetos de Infraestrutura Rodoviária
+0,00
+360.000,00
+Total
+0,00
+3.550.000,00
+32.945.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - DINAMIZAÇÃO ECONÔMICA E PROMOÇÃO DE SISTEMAS DE PRODUÇÃO SUSTENTÁVEIS
+ E RESILIENTES NA AGRICULTURA FAMILIAR 
+1.810.000,00
+3.790.000,00
+   S - FORTALECIMENTO DA ESTRUTURA PRODUTIVA DA AGRICULTURA FAMILIAR
+750.000,00
+2.000.000,00
+P - Financiamento de subprojetos de organizações econômicas da agricultura familiar e
+agroindústrias para melhoria da gestão, incremento produtivo e acesso a mercados de maior
+complexidade
+500.000,00
+1.650.000,00
+P - Financiamento de subprojetos de agricultores familiares, assentamentos, comunidades
+quilombolas e grupos com maiores dificuldades no acesso às políticas públicas, por meio de
+organizações sociais e produtivas
+250.000,00
+350.000,00
+S - FOMENTO À IMPLEMENTAÇÃO DE SISTEMAS DE PRODUÇÃO SUSTENTÁVEIS E
+RESILIENTES
+660.000,00
+920.000,00
+P - - Financiamento de subprojetos que beneficiem agricultores e pecuaristas e suas respectivas
+organizações, incluindo agroindústrias, para adoção de práticas produtivas sustentáveis e resilientes
+500.000,00
+675.000,00
+P - Financiamento de subprojetos que beneficiem mulheres, jovens, assentamentos,
+comunidades quilombolas e grupos com maiores dificuldades no acesso às políticas públicas para
+adoção de práticas produtivas sustentáveis e resilientes.
+160.000,00
+245.000,00
+   S - FOMENTO À PESQUISA APLICADA, AO DESENVOLVIMENTO E À INOVAÇÃO RURAL 
+400.000,00
+870.000,00
+      P - Financiamento de subprojetos de pesquisa, extensão e inovação
+400.000,00
+870.000,00
+C - MODERNIZAÇÃO DA INFRAESTRUTURA PRODUTIVA RURAL COMPLEMENTAR
+2.000.000,00
+2.285.000,00
+   S - RECUPERAÇÃO E MANUTENÇÃO DE INFRAESTRUTURA RODOVIÁRIA RURAL
+2.000.000,00
+1.750.000,00
+      P - Elaboração de Anteprojeto de Recuperação e Manutenção Rodoviária Rural por Desempenho
+0,00
+0,00
+P - Contratação de Projeto e Obras de Recuperação e Manutenção Rodoviária Rural por
+Desempenho 
+2.000.000,00
+1.500.000,00
+      P - Supervisão Técnica e Socioambiental de Obras e Serviços
+0,00
+250.000,00
+   S - MELHORAMENTO EM ESTRUTURAS COMPLEMENTARES DE INFRAESTRUTURA RURAL
+0,00
+535.000,00
+P - Elaboração de Cadastros, Estudos, Avaliações, Inspeções e/ou Diagnósticos em Estruturas
+Complementares 
+0,00
+0,00
+P - Contratação de Serviços de Manutenção ou Projetos e Obras de Recuperação e/ou
+Reconstrução de Estruturas Complementares
+0,00
+500.000,00
+      P - Contratação de Supervisão Técnica e Socioambiental de Obras e Serviços
+0,00
+35.000,00
+C - INOVAÇÃO RURAL, CIÊNCIA, TECNOLOGIA E SOCIALIZAÇÃO DO CONHECIMENTO
+450.000,00
+1.730.000,00
+S - ADEQUAÇÃO E MODERNIZAÇÃO DA INFRAESTRUTURA RURAL E DA TECNOLOGIA
+PARA PESQUISA, ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL
+450.000,00
+1.730.000,00
+P - Recuperação e modernização dos centros de pesquisa, desenvolvimento e inovação rurais,
+das fazendas experimentais e dos centros de referência do INCAPER
+250.000,00
+980.000,00
+P - Adequação e Modernização da Infraestrutura Rural e da Tecnologia para pesquisa,
+assistência técnica e extensão rural
+200.000,00
+750.000,00
+C - GESTÃO DO PROJETO, DESENVOLVIMENTO INSTITUCIONAL E GOVERNANÇA
+65.000,00
+1.910.000,00
+      P - Estruturação da Unidade de Gestão do Projeto
+65.000,00
+1.550.000,00
+      P - Gerenciamento de Obras e Projetos de Infraestrutura Rodoviária
+0,00
+360.000,00
+Total
+0,00
+4.325.000,00
+9.715.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - DINAMIZAÇÃO ECONÔMICA E PROMOÇÃO DE SISTEMAS DE PRODUÇÃO SUSTENTÁVEIS
+ E RESILIENTES NA AGRICULTURA FAMILIAR 
+660.000,00
+1.470.000,00
+   S - FORTALECIMENTO DA ESTRUTURA PRODUTIVA DA AGRICULTURA FAMILIAR
+335.000,00
+760.000,00
+P - Financiamento de subprojetos de organizações econômicas da agricultura familiar e
+agroindústrias para melhoria da gestão, incremento produtivo e acesso a mercados de maior
+complexidade
+250.000,00
+650.000,00
+P - Financiamento de subprojetos de agricultores familiares, assentamentos, comunidades
+quilombolas e grupos com maiores dificuldades no acesso às políticas públicas, por meio de
+organizações sociais e produtivas
+85.000,00
+110.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 22
+S - FOMENTO À IMPLEMENTAÇÃO DE SISTEMAS DE PRODUÇÃO SUSTENTÁVEIS E
+RESILIENTES
+145.000,00
+290.000,00
+P - - Financiamento de subprojetos que beneficiem agricultores e pecuaristas e suas respectivas
+organizações, incluindo agroindústrias, para adoção de práticas produtivas sustentáveis e resilientes
+90.000,00
+200.000,00
+P - Financiamento de subprojetos que beneficiem mulheres, jovens, assentamentos,
+comunidades quilombolas e grupos com maiores dificuldades no acesso às políticas públicas para
+adoção de práticas produtivas sustentáveis e resilientes.
+55.000,00
+90.000,00
+   S - FOMENTO À PESQUISA APLICADA, AO DESENVOLVIMENTO E À INOVAÇÃO RURAL 
+180.000,00
+420.000,00
+      P - Financiamento de subprojetos de pesquisa, extensão e inovação
+180.000,00
+420.000,00
+C - MODERNIZAÇÃO DA INFRAESTRUTURA PRODUTIVA RURAL COMPLEMENTAR
+8.000.000,00
+2.285.000,00
+   S - RECUPERAÇÃO E MANUTENÇÃO DE INFRAESTRUTURA RODOVIÁRIA RURAL
+8.000.000,00
+1.750.000,00
+      P - Elaboração de Anteprojeto de Recuperação e Manutenção Rodoviária Rural por Desempenho
+0,00
+0,00
+P - Contratação de Projeto e Obras de Recuperação e Manutenção Rodoviária Rural por
+Desempenho 
+8.000.000,00
+1.500.000,00
+      P - Supervisão Técnica e Socioambiental de Obras e Serviços
+0,00
+250.000,00
+   S - MELHORAMENTO EM ESTRUTURAS COMPLEMENTARES DE INFRAESTRUTURA RURAL
+0,00
+535.000,00
+P - Elaboração de Cadastros, Estudos, Avaliações, Inspeções e/ou Diagnósticos em Estruturas
+Complementares 
+0,00
+0,00
+P - Contratação de Serviços de Manutenção ou Projetos e Obras de Recuperação e/ou
+Reconstrução de Estruturas Complementares
+0,00
+500.000,00
+      P - Contratação de Supervisão Técnica e Socioambiental de Obras e Serviços
+0,00
+35.000,00
+C - INOVAÇÃO RURAL, CIÊNCIA, TECNOLOGIA E SOCIALIZAÇÃO DO CONHECIMENTO
+430.000,00
+1.710.000,00
+S - ADEQUAÇÃO E MODERNIZAÇÃO DA INFRAESTRUTURA RURAL E DA TECNOLOGIA
+PARA PESQUISA, ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL
+430.000,00
+1.710.000,00
+P - Recuperação e modernização dos centros de pesquisa, desenvolvimento e inovação rurais,
+das fazendas experimentais e dos centros de referência do INCAPER
+250.000,00
+970.000,00
+P - Adequação e Modernização da Infraestrutura Rural e da Tecnologia para pesquisa,
+assistência técnica e extensão rural
+180.000,00
+740.000,00
+C - GESTÃO DO PROJETO, DESENVOLVIMENTO INSTITUCIONAL E GOVERNANÇA
+70.000,00
+1.525.000,00
+      P - Estruturação da Unidade de Gestão do Projeto
+70.000,00
+445.000,00
+      P - Gerenciamento de Obras e Projetos de Infraestrutura Rodoviária
+0,00
+1.080.000,00
+Total
+0,00
+9.160.000,00
+6.990.000,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 6
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - DINAMIZAÇÃO ECONÔMICA E PROMOÇÃO DE SISTEMAS DE PRODUÇÃO SUSTENTÁVEIS
+ E RESILIENTES NA AGRICULTURA FAMILIAR 
+645.000,00
+1.410.000,00
+7.365.000,00
+18.635.000,00
+   S - FORTALECIMENTO DA ESTRUTURA PRODUTIVA DA AGRICULTURA FAMILIAR
+335.000,00
+710.000,00
+3.150.000,00
+7.750.000,00
+P - Financiamento de subprojetos de organizações econômicas da agricultura familiar e
+agroindústrias para melhoria da gestão, incremento produtivo e acesso a mercados de maior
+complexidade
+250.000,00
+600.000,00
+2.350.000,00
+6.450.000,00
+P - Financiamento de subprojetos de agricultores familiares, assentamentos, comunidades
+quilombolas e grupos com maiores dificuldades no acesso às políticas públicas, por meio de
+organizações sociais e produtivas
+85.000,00
+110.000,00
+800.000,00
+1.300.000,00
+S - FOMENTO À IMPLEMENTAÇÃO DE SISTEMAS DE PRODUÇÃO SUSTENTÁVEIS E
+RESILIENTES
+140.000,00
+280.000,00
+2.265.000,00
+3.535.000,00
+P - - Financiamento de subprojetos que beneficiem agricultores e pecuaristas e suas respectivas
+organizações, incluindo agroindústrias, para adoção de práticas produtivas sustentáveis e resilientes
+90.000,00
+200.000,00
+1.650.000,00
+2.550.000,00
+P - Financiamento de subprojetos que beneficiem mulheres, jovens, assentamentos,
+comunidades quilombolas e grupos com maiores dificuldades no acesso às políticas públicas para
+adoção de práticas produtivas sustentáveis e resilientes.
+50.000,00
+80.000,00
+615.000,00
+985.000,00
+   S - FOMENTO À PESQUISA APLICADA, AO DESENVOLVIMENTO E À INOVAÇÃO RURAL 
+170.000,00
+420.000,00
+1.950.000,00
+7.350.000,00
+      P - Financiamento de subprojetos de pesquisa, extensão e inovação
+170.000,00
+420.000,00
+1.950.000,00
+7.350.000,00
+C - MODERNIZAÇÃO DA INFRAESTRUTURA PRODUTIVA RURAL COMPLEMENTAR
+2.000.000,00
+1.530.000,00
+16.760.000,00
+65.240.000,00
+   S - RECUPERAÇÃO E MANUTENÇÃO DE INFRAESTRUTURA RODOVIÁRIA RURAL
+2.000.000,00
+1.250.000,00
+16.260.000,00
+60.540.000,00
+      P - Elaboração de Anteprojeto de Recuperação e Manutenção Rodoviária Rural por Desempenho
+0,00
+0,00
+300.000,00
+1.700.000,00
+P - Contratação de Projeto e Obras de Recuperação e Manutenção Rodoviária Rural por
+Desempenho 
+2.000.000,00
+1.000.000,00
+15.510.000,00
+55.790.000,00
+      P - Supervisão Técnica e Socioambiental de Obras e Serviços
+0,00
+250.000,00
+450.000,00
+3.050.000,00
+   S - MELHORAMENTO EM ESTRUTURAS COMPLEMENTARES DE INFRAESTRUTURA RURAL
+0,00
+280.000,00
+500.000,00
+4.700.000,00
+P - Elaboração de Cadastros, Estudos, Avaliações, Inspeções e/ou Diagnósticos em Estruturas
+Complementares 
+0,00
+0,00
+500.000,00
+0,00
+P - Contratação de Serviços de Manutenção ou Projetos e Obras de Recuperação e/ou
+Reconstrução de Estruturas Complementares
+0,00
+250.000,00
+0,00
+4.500.000,00
+      P - Contratação de Supervisão Técnica e Socioambiental de Obras e Serviços
+0,00
+30.000,00
+0,00
+200.000,00
+C - INOVAÇÃO RURAL, CIÊNCIA, TECNOLOGIA E SOCIALIZAÇÃO DO CONHECIMENTO
+350.000,00
+1.300.000,00
+4.940.000,00
+25.060.000,00
+S - ADEQUAÇÃO E MODERNIZAÇÃO DA INFRAESTRUTURA RURAL E DA TECNOLOGIA
+PARA PESQUISA, ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL
+350.000,00
+1.300.000,00
+4.940.000,00
+25.060.000,00
+P - Recuperação e modernização dos centros de pesquisa, desenvolvimento e inovação rurais,
+das fazendas experimentais e dos centros de referência do INCAPER
+200.000,00
+700.000,00
+2.800.000,00
+14.200.000,00
+P - Adequação e Modernização da Infraestrutura Rural e da Tecnologia para pesquisa,
+assistência técnica e extensão rural
+150.000,00
+600.000,00
+2.140.000,00
+10.860.000,00
+C - GESTÃO DO PROJETO, DESENVOLVIMENTO INSTITUCIONAL E GOVERNANÇA
+80.000,00
+280.000,00
+635.000,00
+9.865.000,00
+      P - Estruturação da Unidade de Gestão do Projeto
+0,00
+0,00
+555.000,00
+6.945.000,00
+      P - Gerenciamento de Obras e Projetos de Infraestrutura Rodoviária
+80.000,00
+280.000,00
+80.000,00
+2.920.000,00
+Total
+148.500.000,00
+3.075.000,00
+4.520.000,00
+29.700.000,00
+118.800.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 23
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+RISCOS/ATOS LEGAIS
+
+(i) Atos legais:
+
+As ações previstas no Programa serão executadas ao abrigo da legislação e regulamentação vigentes no país e no Estado, não
+necessitando ou dependendo de outros atos legais, exceto aqueles específicos relacionados às aprovações e autorizações legais
+requeridos para a celebração dos empréstimos externos com o BIRD por parte do Estado. 
+
+(ii) Riscos
+
+Quanto ao risco de pagamento por parte do Estado, importante registrar que o Espírito Santo reúne condições favoráveis e reconhecidas
+pela Secretaria do Tesouro Nacional, para cumprir com os compromissos com a operação de crédito pretendida.
+
+(iii) Ações mitigadoras:
+
+O Programa, com exceção dos atos legais que não demandam de providências especiais ou específicas para a implementação das
+atividades planejadas, a não ser a autorização legislativa para o Poder Executivo Estadual contrair o financiamento pleiteado, encontrará
+um ambiente com respaldo pelo bom relacionamento parlamentar e aceitação para o desenvolvimento socioeconômico do Estado. Os
+riscos e as ações mitigadoras compõem o planejamento executivo de estruturação e implementação do Programa com o BIRD, levando
+em consideração o aprendizado em projetos desenvolvidos e/ou em desenvolvimento pelo Estado. 
+
+
+5.2. RISCOS/CONTRATAÇÕES
+RISCOS/CONTRATAÇÕES:
+
+(i) As contratações previstas dentro do Programa poderão ser:
+
+- Contratação de consultorias, bens, serviços e obras;
+- Contratação de consultoria (pessoas física e jurídica) para a realização de diagnósticos e estudos diversos; 
+- Contratação de assessoria técnica (pessoas física e jurídica); 
+- Contratação de recursos humanos; 
+- Contratação de serviços para realização de oficinas, capacitações, cursos, seminários e demais eventos técnicos; 
+- Contratação de serviço especializado de comunicação, divulgação e marketing; 
+- Contratação de serviço especializado de geoprocessamento; 
+- Contratação de serviço especializado de gestão e organização documental; 
+- Contratação de projetos de pesquisa, desenvolvimento, extensão e inovação;
+- Contratação de serviço especializado de construção, desenvolvimento, manutenção, hospedagem e licença de softwares, sistemas e
+aplicativos; 
+- Contratação de serviço especializado de gestão da informação; 
+- Contratação de serviços de hospedagem; 
+- Contratação de serviços de alimentação; 
+- Contratação de serviços gráficos; 
+- Locação de veículos; 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 24
+- Locação de auditórios e demais espaços para eventos; 
+- Aquisição de veículos; 
+- Aquisição de combustível; 
+- Aquisição de material de informática, multimídia, de geoprocessamento/topografia, de escritório, de consumo, mobiliário; 
+- Concessão de diárias; 
+- Aquisição de passagens aéreas e terrestres; 
+- Aquisição de máquinas, implementos, equipamentos e ferramentas agrícolas e agroindústrias (material permanente); 
+- Aquisição de insumos agropecuários diversos (material de consumo).
+- Contratação de Anteprojeto de Recuperação e Manutenção por Desempenho de rodovias; 
+- Contratação de Obras Viárias de Recuperação e Manutenção por Desempenho;
+- Contratação de Gerenciadora e de Supervisora de Obras e Projetos de Infraestrutura Rodoviária.
+
+(ii) Riscos:
+
+- Risco de decisão arbitral, judicial ou administrativa que impeça ou impossibilite o andamento da licitação. 
+Ação Mitigadora: Definição de critérios claros de análise de propostas; 
+- Risco de que não esteja disponível financiamento, nos montantes e nas condições previstas, quando a dívida e / ou o capital é exigido da
+ entidade privada. 
+Ação Mitigadora - Exigência de que todas as propostas contenham garantias quanto aos compromissos financeiros com condições
+mínimas e facilmente realizáveis; 
+- Risco de licitação deserta, nenhum proponente ou nenhum proponente classificado. 
+Ação Mitigadora: Definição de parâmetros de aceitabilidade das propostas factíveis com o mercado e o serviço, além de ampla divulgação
+dos avisos de licitação; 
+- Risco de que o projeto seja alterado pela administração após a assinatura do contrato, se alteração no projeto aumentar em demasia os
+custos da parte privada impossibilitando a continuidade do contrato. 
+
+(iii) Ações mitigadoras:
+
+A administração deve minimizar a chance de mudar as especificações do projeto e, para o caso de mudança, deve incluir cláusulas claras
+no contrato que garantam a recomposição do equilíbrio econômico-financeiro inicial.
+Para reduzir os riscos do processo licitatório, a equipe do Programa será capacitada no tocante às diretrizes de aquisições e contratações
+do Banco Mundial. Ressalta-se que o Governo do Espírito Santo tem experiência em operações de crédito com organismos internacionais,
+ inclusive com o Banco Mundial.
+
+
+
+
+
+
+
+
+
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+RISCOS DESAPROPRIAÇÕES - INDENIZAÇÕES:
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 25
+Na execução do Projeto, por seus diferentes componentes, não estão previstas desapropriações. As obras de infraestrutura rodoviária
+concentram-se em trechos com traçado já delimitado sem necessidade de desapropriações para as intervenções. 
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+RISCOS/AMBIENTAIS:
+
+(i) Situação e responsáveis pelo licenciamento ambiental:
+
+Os estudos ambientais serão desenvolvidos na fase de elaboração de Anteprojeto de Engenharia, de acordo com as disposições
+normativas estaduais, nacionais e com as salvaguardas ambientais e sociais do organismo financiador.
+O licenciamento ambiental do Instituto Estadual de Meio Ambiente e Recursos Hídricos - IEMA está previsto em leis, decretos, resoluções
+e portarias federais e estaduais, e existe para assegurar o desenvolvimento dessas atividades sem danos ao meio ambiente. 
+Quando se tratam de trechos de estradas inseridos dentro de um mesmo município, mesmo se tratando de rodovia estadual, podem ser
+licenciadas por municípios devidamente habilitados conforme RESOLUÇÃO CONSEMA Nº 001, DE 14 DE MARÇO DE 2022.
+As atividades florestais e a supressão vegetal têm seu licenciamento realizado pelo Instituto de Defesa Agropecuária e Florestal do
+Espírito Santo - IDAF. 
+
+(ii)  Os principais riscos ambientais decorrentes da implementação do programa/projeto:
+
+Apesar da previsão de impactos positivos, alguns investimentos de pequena e média escala poderão gerar impactos ambientais negativos.
+Excepcionalmente, os riscos que podem decorrer do desenvolvimento de atividades produtivas são, principalmente, a degradação dos
+solos; perda de cobertura florestal, contaminação do solo e da água devido ao uso de agroquímicos e a geração de resíduos sólidos e
+líquidos. Em todos os casos, espera-se que os impactos ambientais sejam localizados e evitáveis por meio de medidas de mitigação
+responsivas e através do trabalho prestado de assistência técnica a partir do uso de práticas sustentáveis de produção. Os procedimentos
+de triagem e avaliação ambiental, bem como as medidas de mitigação a serem propostas, serão incorporados à gestão dos mecanismos
+financeiros a serem adotados para implementar subprojetos e na aplicação dos recursos.
+As atividades de Recuperação Funcional com Conserva por Desempenho são enquadradas como de baixo impacto ambiental e o
+licenciamento é por Dispensa, conforme INSTRUÇÃO NORMATIVA IEMA Nº. 13-N, DE 30 DE DEZEMBRO DE 2021. 
+Art. 2º Para fins de interpretação desta Instrução, entende-se por: 
+(...) 
+XXIII - manutenção de rodovia, estradas e afins: processo sistemático e contínuo de correção para oferecer permanentemente ao usuário
+tráfego econômico, confortável e seguro, compreendendo as ações de conservação, recuperação funcional e restauração da via, com ou
+sem movimentação de areia e argila, incluindo a utilização de área de empréstimo, realizadas nos limites da sua faixa de domínio; (...) 
+§ 1° No conceito de manutenção, estão incluídos serviços como:
+I - Limpeza, capina, poda e roçada da faixa de domínio;
+II - Remoção de barreiras de corte;
+III - Recomposição de aterros;
+IV - Estabilização de taludes de cortes e aterros;
+V - Limpeza, reparos, recuperação e substituição de estruturas e muros de contenção;
+VI - Tapa-buracos;
+VII - Remendos superficiais e profundos;
+VIII - Reparos, recomposição e substituição de camadas granulares do pavimento, incluindo o revestimento da pista e dos acostamentos;
+IX - Reparos, substituição e implantação de dispositivos de sinalização horizontal e vertical;
+X - Reparos, recuperação, substituição e implantação de dispositivos de segurança;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 26
+XI - Limpeza, reparos, recuperação, substituição e implantação de dispositivos de drenagem, tais como bueiros, sarjetas, canaletas, meio-
+fio, descidas d?água, entradas d?água, bocas de lobo, bocas e caixas de bueiros, dissipadores de energia, caixas de passagem, poços de
+ visita e drenos;
+XII - Limpeza, reparos, recuperação e reabilitação de obras de arte especiais, tais como pontes, viadutos, passarelas, túneis e cortinas de
+concreto;
+XIII - Limpeza, reparos, recuperação ou substituição de estruturas e muros de contenção;
+XIV - Retificações do traçado de curvas restritas à faixa de domínio.
+§ 2° No conceito de melhoramento, estão incluídos serviços como:
+I - Alargamento da plataforma da rodovia para implantação de acostamento, terceira faixa de rolamento, ciclovia, ciclofaixa ou faixa
+multiuso (pedestre e ciclista), englobando a execução da estrutura do pavimento e, se necessário, da infraestrutura para esses serviços;
+II - Implantação de vias marginais em travessias urbanas;
+III - Implantação, substituição ou alargamento de obras de arte especiais;
+IV - Implantação de estruturas e muros de contenção;
+V - Implantação de unidades de apoio definitivas ou outras edificações necessárias à operação da via;
+VI - Implantação, modificação ou remanejamento de interseções e acessos;
+VII - Implantação de estruturas de fibra óptica a serem utilizadas para a operação rodoviária.
+(...)
+Art. 3º Estão dispensadas do licenciamento ambiental, desde que em conformidade com a presente Instrução, e que não demandem
+supressão de vegetação nativa, independente do estágio de regeneração, exceto árvores isoladas, nativas e/ou exóticas, as seguintes
+atividades:
+I - Manutenção, conforme descrição no inciso XXIII e no §1º do art. 2º;
+II - Melhoramento, conforme descrição no inciso XXIV e no §2º do art. 2º, quando em vias urbanas consolidadas;
+
+(iii) Experiência do órgão executor com as políticas/salvaguardas ambientais do agente financeiro:
+
+O Governo do Estado do Espírito Santo nos últimos vinte anos vem executando de forma exitosa programas/projetos financiados com o
+BIRD. Atualmente o Programa Águas e Paisagem, com destaque para o Projeto Mangaraí representa um ícone na transversalidade de
+ações de reflorestamento, proteção de nascente, práticas agrícolas, estradas rurais e empoderamento feminino. Este empreendimento
+comprova a expertise do Governo do Estado em trabalhos com procedimentos adequados ao atendimento das Normas Ambientais e
+Sociais do BIRD.
+A supervisão ambiental deverá ser realizada por meio de vistorias técnicas sistemáticas e periódicas dos trechos rodoviários em obras
+para se obter informações relativas às práticas de controle ambiental na realização dos serviços necessários à execução das obras de
+engenharia, de forma a permitir a identificação de ocorrências de impactos ambientais positivos e negativos e as conformidades e não
+conformidades ambientais. Permitirá ainda acompanhar os resultados das ações implementadas (medidas corretivas e preventivas), bem
+como verificar a necessidade de correção dos eventuais desvios detectados.
+
+(iv) Riscos ambientais:
+
+Dentre os principais riscos ambientais normalmente presentes em obras rodoviárias estão: aumento de material particulado no entorno
+das obras, aumento da emissão de ruído, riscos de acidentes, risco de contaminação de solos e corpos hídricos, afugentamento de fauna,
+aumento de carreamento de materiais para rios, ocorrência de processos erosivos, aumento no tempo de viagem devido a interdições e
+desvios de tráfego, dentre outros. 
+
+(v) Ações mitigadoras:
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:26
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61101
+Página: 27
+Todos os riscos e impactos a serem identificados durante a elaboração dos estudos e projetos serão mitigados com a elaboração e
+adoção dos instrumentos ambientais como Marcos e Planos Ambientais Sociais a serem desenvolvidos, que contarão com subprogramas
+específicos para tratamento dos riscos identificados sempre de acordo com as Salvaguardas Ambientais e sociais do Banco. 
+Não obstante, são previstos impactos positivos, como: melhoria das condições de acesso e mobilidade; melhoria na condição da pista de
+rolamento e sinalização com a manutenção contínua; redução de custos de transporte; aumento da renda regional e geração de empregos
+.
+
+
+
+
+5.5. RISCOS/IMPACTO SOCIAL
+RISCOS/ IMPACTO SOCIAL
+
+(i)Riscos sociais decorrentes da implementação do programa/projeto sobre a população; minorias sociais, vulneráveis, baixa renda e
+populações tradicionais como: indígenas, quilombolas, extrativistas e outras:
+
+O impacto social das intervenções contempladas no Programa é altamente positivo. As obras e intervenções propostas estão dentro das
+expectativas de maior prioridade da população.
+
+(ii)A experiência do órgão executor com as políticas/salvaguardas sociais do agente financeiro:
+
+O Governo do Estado do Espírito Santo nos últimos vinte anos vem executando de forma exitosa programas/projetos financiados com o
+BIRD. Atualmente o Programa Águas e Paisagem, com destaque para o Projeto Mangaraí representa um ícone na transversalidade de
+ações de reflorestamento, proteção de nascente, práticas agrícolas, estradas rurais e empoderamento feminino. Este empreendimento
+comprova a expertise do Governo do Estado em trabalhos com procedimentos adequados ao atendimento das Normas Ambientais e
+Sociais do BIRD, acrescido com um alto ganho para a sociedade, quer seja na melhoria de renda com capacitação e extensão rural,
+resultados ambientais, como também na valorização das pessoas como integrantes das comunidades a que pertencem, com resultados
+de satisfação da população, comprovados pela sua melhoria da qualidade de vida.
+
+(iii)Riscos sociais:
+
+A proposta tem por finalidade o atendimento a reivindicações históricas das comunidades, com melhorias na mobilidade e transporte da
+produção agrícola, extensão rural, comunicação, empoderamento e integração social, em cenários benéficos ao aspecto social.
+
+(iv)Ações mitigadoras:
+
+Os transtornos provenientes da execução das obras serão mitigados com uso de boas práticas na condução e no planejamento de obras
+públicas, além de comunicação e presença na equipe de obras de profissionais da área social para o acompanhamento e solução de
+problemas. Destaca-se como instrumento importante para as questões sociais o conhecimento e práticas exitosas do Governo do Estado
+no atendimento às Normas Ambientais e Sociais do BIRD.
+
+Os resultados do Programa beneficiarão diretamente agricultores familiares, bem como os consumidores que terão acesso a alimentos de
+qualidade. As potencialidades do Projeto de gerar impactos sociais positivos estão refletidas na promoção da integração dos diversos
+segmentos em prol de estratégias para fortalecer a agricultura familiar na saída de uma lógica de produção de matéria-prima para o
+processamento, comercialização e logística, e na inserção econômica dos jovens, mulheres, assentados e grupos com maiores
+dificuldades no acesso às políticas públicas, melhorando a qualidade de vida da população rural. 
+
+5.6. RISCOS/REASSENTAMENTOS
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 

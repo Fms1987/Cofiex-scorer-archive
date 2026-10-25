@@ -1,0 +1,987 @@
+# Carta-Consulta CC_61189 — Versao 1 (SIGS)
+
+
+CARTA CONSULTA
+
+Programa Maracanaú Desenvolvimento Sustentável
+
+Nº Carta Consulta: 61189
+Mutuário: Município de Maracanaú - CE
+Tipo de Operação: Operação de crédito externo
+
+Fontes Internas:
+Contrapartida Financeira: US$ 15.000.000,00
+Fontes Externas:
+Corporação Andina de Fomento - CAF: US$ 60.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+Maracanaú é um município localizado no Estado do Ceará, com uma população de 234.509 habitantes conforme o último censo do IBGE
+de 2022. Seu Índice de Desenvolvimento Humano Municipal (IDHM), conforme o Programa das Nações Unidas para o Desenvolvimento (
+PNUD), é de 0,686. Maracanaú integra a Região Metropolitana de Fortaleza (RMF) e por sua localização estratégica, juntamente com os
+incentivos fiscais introduzidos pelo Distrito Industrial, se torna atrativa para a instalação de grandes indústrias, com potencial para a
+geração de empregos e renda. Maracanaú, sendo um município que se apresenta com essa vocação industrial tende a apresentar
+problemas socioambientais inerentes a essa característica.
+
+A instalação dessas indústrias resultou em um rápido processo de expansão urbana devido ao crescimento populacional, impulsionado
+pelo fluxo migratório em busca de oportunidades de trabalho. Esse aumento populacional gerou uma demanda crescente por serviços
+públicos e infraestrutura urbana.
+
+Resumidamente, a rápida expansão urbana, decorrente do crescimento populacional e migratório, intensificou a demanda por serviços
+públicos e infraestrutura, resultando em diversos desafios:
+
+A. Área Socioambiental
+
+Falta de Drenagem Urbana
+
+O Plano de Descarbonização e Adaptação às Mudanças Climáticas (PDAMC-2019) do município identificou riscos de alagamentos,
+inundações, ilhas de calor e doenças transmitidas pela água. Corroborando com esses dados, o Sistema Nacional de Informações sobre
+Saneamento (SNIS) registrou 41 incidentes de enxurradas, inundações ou alagamentos nos últimos cinco anos.
+
+Degradação de Parques Urbanos, Córregos e Lagoas
+
+O intenso processo de urbanização em Maracanaú gerou pressões sobre os recursos naturais. Comum em ambientes urbanos
+consolidados, os parques urbanos, córregos e corpos d?água da cidade passam por um processo de degradação, incluindo a falta de
+infraestrutura e o alto nível de eutrofização, como é o caso da lagoa do Maracanaú e Kubanacan, localizadas no perímetro urbano da
+cidade.
+
+Fragilidade na Gestão Ambiental
+
+O órgão ambiental municipal carece de estrutura adequada e de qualificação técnica para seus funcionários, além de necessitar de uma
+política eficaz de educação ambiental que fomente mudanças comportamentais.
+
+Alto Índice de Violência
+
+Maracanaú é a 18ª cidade mais violenta do Brasil, com uma taxa de 58,4/100 mil habitantes (ATLAS DA VIOLÊNCIA, 2024). A violência
+afeta principalmente mulheres, meninas e a comunidade LGBTQIA+. De acordo com dados do governo do estado, Maracanaú é o 5º
+município em número de ocorrências envolvendo violência contra a mulher (CEARÁ, 2017).O município elaborou o Plano Mara, que faz
+parte da política de combate à violência de gênero, mas precisa de implementação mais efetiva.
+
+Falta de Capacitação e Geração de Renda
+
+O diagnóstico que compõe o Plano Mara também identifica que a distribuição de renda no município é desigual, e a população de baixa
+renda necessita de ações específicas para promover autonomia e geração de renda.
+
+B. Área de Mobilidade Urbana
+
+Entraves na Mobilidade
+
+O Plano de Mobilidade Urbana, Cicloviário e de Logística de Maracanaú (PLANMOB) indica que, a malha viária de Maracanaú é
+descontínua, gerando problemas de acessibilidade pelas más condições de pavimentação e sinalização. Os caminhos tortuosos
+aumentam a distância percorrida, sendo mais agravada para usuários de modos não motorizados. O PLANMOB também identificou baixa
+qualidade das calçadas das vias inventariadas, com inexistência, baixas larguras, obstáculos e baixa qualidade. A ausência de ciclovias e
+ciclofaixas e a insegurança inibem a utilização da bicicleta como meio de transporte alternativo. O Plano indica a necessidade de
+investimentos para melhoria nas condições viárias.
+
+C. Infraestrutura Social
+
+Pressão sobre Serviços Públicos
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+Com o aumento de 77.358 habitantes em 30 anos (IBGE), a zona urbana de Maracanaú (mais de 99% da população) necessita de
+investimento na ampliação e requalificação de equipamentos de saúde, educação e lazer, atendendo as novas demandas geradas pelo
+aumento populacional.
+
+D. Gestão
+
+Deficiência Tecnológica e Falta de Controle e Transparência
+
+Maracanaú precisa de renovação tecnológica e investimentos em tecnologia da informação para melhorar a gestão dos serviços públicos
+e democratizar o acesso às políticas públicas.
+
+EM RESUMO, OS PROBLEMAS IDENTIFICADOS SÃO:
+
+Falta de drenagem urbana; Degradação de parques, córregos e lagoas; Fragilidade do órgão ambiental e falta de programa de educação
+ambiental; Fragilidade na política de combate à violência de gênero e geração de emprego e renda; Problemas de mobilidade urbana;
+Falta de equipamentos públicos de educação, saúde e lazer; Deficiência tecnológica e falta de controle e transparência na gestão.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+COMPONENTE-DESENVOLVIMENTO SOCIOAMBIENTAL E INFRAESTRUTURA URBANA
+
+SUBCOMPONENTE-DESENVOLVIMENTO SOCIOAMBIENTAL
+
+a. Requalificação e ampliação do sistema de drenagem da cidade
+
+SOLUÇÃO PROPOSTA
+
+Construção de 16 km de drenagem urbana em trechos estratégicos de riachos e córregos nas regiões de Alto Alegre I e II, Pajuçara e
+Piratininga.
+
+RESULTADOS ESPERADOS
+
+Redução dos pontos de alagamento em cerca de 50%; Diminuição de doenças de veiculação hídrica; Redução dos custos de manutenção
+e recuperação de áreas; Melhoria nas condições de habitabilidade da população.
+
+SUSTENTABILIDADE
+
+A manutenção será feita pela SEINFRA, com orçamento próprio. Haverá um aumento nos custos com manutenção das drenagens que
+será mitigado pela redução nos custos de recuperação de vias, considerando a redução dos alagamentos.
+
+b. Recuperação de Parques Urbanos e Lagoas
+
+SOLUÇÃO PROPOSTA
+
+Requalificação do Parque Urbano Complexo Rei Pelé e revitalização das lagoas de Maracanaú e do Kubanacan.
+
+RESULTADOS ESPERADOS
+
+Redução de inundações e alagamentos; recuperação da vegetação ciliar em lagoas; aumento da capacidade de percolação da água nos
+solos de áreas verdes; conservação de nascentes e áreas de preservação permanente; mitigação e adaptação aos efeitos climáticos
+locais por meio de infraestruturas verdes.
+
+SUSTENTABILIDADE
+
+A manutenção será feita pela SEINFRA/SEMAM, órgãos que têm recursos orçamentários próprios destinados para estes serviços.
+
+c. Fortalecimento das Políticas Públicas Ambientais
+
+SOLUÇÃO PROPOSTA
+
+Estruturar o Fórum de Mudanças Climáticas do município, de acordo com o Plano de Descarbonização e Adaptação às Mudanças
+Climáticas (PDAMC); Implementar o Plano de Capacitação da SEMAM; Implementar ações de Educação Ambiental, incluindo a população
+indígena do município.
+
+RESULTADOS ESPERADOS
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+Maior efetividade nas ações de monitoramento, fiscalização e gestão ambiental; Aumento do engajamento da sociedade civil; Inclusão da
+população indígena.
+
+SUSTENTABILIDADE
+
+A SEINFRA e SEMAM delegarão setores para continuar as operações do Fórum e as ações de Educação Ambiental.
+
+d. Fortalecimento da Política de Prevenção contra Violência de Gênero
+
+SOLUÇÃO PROPOSTA
+
+Implementação do PLANO MARA (Anexo), com a realização de 20 capacitações para agentes públicos; 50 palestras, com ênfase nas
+relações de gênero, orientação sexual, identidade de gênero e direitos humanos para a educação, segurança pública e previdência social;
+12 cursos de formação de mão de obra para mulheres e pessoas LGBTQIA+ em situação de risco.
+
+RESULTADOS ESPERADOS
+
+Atendimento a 2800 pessoas com ações de conscientização e formação profissional; Redução da discriminação e da violência de gênero,
+através do reconhecimento das pessoas LGBTQIA+ como cidadãos e sujeitos de direitos; Geração de ocupação e renda.
+
+SUSTENTABILIDADE
+
+As ações serão integradas aos protocolos contínuos das Secretarias de Assistência Social e Cidadania; Segurança Urbana; e de
+Educação.
+
+e. Ampliação das Políticas de Capacitação e Geração de Renda e Apoio aos Microempreendedores
+
+SOLUÇÃO PROPOSTA
+
+Realização de 200 ações (oficinas, cursos, treinamentos e palestras) na área de gastronomia, artesanato, ferramentas digitais e marketing
+para microempreendedores, jovens infratores e povos originários; Oferta de 2000 horas de assessoria jurídica para microempreendedores
+; Oferta de equipamento para iniciar o próprio negócio.
+
+RESULTADOS ESPERADOS
+
+Aprimoramento da gestão de negócios; Atendimento a jovens infratores, comunidades de baixa renda e povos originários; Maior geração e
+distribuição de renda; Fortalecimento da inclusão digital; e Aumento da empregabilidade e geração de renda local.
+
+SUSTENTABILIDADE
+
+Manutenção das ações pelos programas e projetos das Secretarias de Assistência Social e Cidadania; de Trabalho, Emprego e
+Empreendedorismo; e de Juventude e Lazer.
+
+SUBCOMPONENTE-MOBILIDADE URBANA
+
+a. Requalificação e ampliação de vias e passeios, implantação de ciclovias e acessibilidade
+
+SOLUÇÃO PROPOSTA
+
+Pavimentar, drenar e sinalizar 40 km de vias; requalificar 80 km de calçadas; ampliar 20 km de ciclo faixas; e requalificar 30 pontos de
+paradas.
+
+RESULTADOS ESPERADOS
+
+Redução do tempo de viagem e acidentes; Redução da emissão de Gases de Efeito Estufa (GEE); Economia nos custos de manutenção;
+Melhoria na acessibilidade e iluminação pública.
+
+SUSTENTABILIDADE
+
+Manutenção e operação pela Secretaria de Infraestrutura, Mobilidade e Desenvolvimento Urbano, com orçamento anual de R$ 210
+milhões.
+
+SUBCOMPONENTE-INFRAESTRUTURA URBANA E SOCIAL
+
+a. Ampliação e requalificação de espaços e equipamentos públicos
+
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+SOLUÇÃO PROPOSTA
+
+Ampliar e requalificar 5 equipamentos públicos, sendo: 2 praças de lazer, 2 equipamentos poliesportivos e o Estádio Público Municipal.
+
+RESULTADOS ESPERADOS
+
+Aumento da segurança; Acesso ao lazer, esporte e convívio social; Melhoria na qualidade de vida.
+
+SUSTENTABILIDADE
+
+A manutenção e operação das obras são realizadas pela SEINFRA. Para a manutenção das praças, serão implementados trabalhos de
+educação ambiental envolvendo a comunidade, integrando a Política Municipal de Educação Ambiental.
+
+b. Ampliação e requalificação da infraestrutura escolar
+
+SOLUÇÃO PROPOSTA
+
+Construção de 2 unidades educacionais no bairro Pajuçara.
+
+RESULTADOS ESPERADOS:
+
+Ampliação da infraestrutura escolar; Fortalecimento da educação municipal; Melhores condições para alunos e professores.
+
+SUSTENTABILIDADE
+
+Operação e manutenção realizada pela Secretaria de Educação, utilizando recursos do FUNDEB e, em casos específicos, do Fundo
+Municipal de Educação.
+
+c. Ampliação e requalificação da infraestrutura de saúde pública
+
+SOLUÇÃO PROPOSTA
+
+Construção de 1 Unidade de Pronto Atendimento ? UPA e 2 Unidades Básicas de saúde-UBS, além da requalificação de 2 UBS existentes
+.
+
+RESULTADOS ESPERADOS
+
+Ampliação da rede municipal de saúde; Melhoria nos atendimentos médicos; Redução do tempo de espera.
+
+SUSTENTABILIDADE
+
+Manutenção dos equipamentos realizada pela Secretaria de Saúde, com recursos do Fundo Municipal de Saúde previstos na LOA.
+
+COMPONENTE-GERENCIAMENTO DO PROGRAMA
+
+a. Melhoria e modernização dos processos de prestação de serviços públicos através da transformação digital
+
+SOLUÇÃO PROPOSTA
+
+Melhoria e modernização dos processos de prestação de serviços públicos através da transformação digital, com aquisição de hardwares,
+softwares e mobiliário.
+
+RESULTADOS ESPERADOS
+
+Atendimento eficiente e eficaz ao cidadão; Integração de processos da administração pública; e Desburocratização dos procedimentos.
+
+SUSTENTABILIDADE
+
+A manutenção dos serviços será realizada pela Secretaria de Gestão, Orçamento e Finanças, utilizando recurso.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+Todas as ações constantes no Programa Maracanaú Desenvolvimento Sustentável ? MDS são itens financiáveis pelo Banco de
+Desenvolvimento da América Latina (CAF). Portanto, são elegíveis para financiamento, dentro das linhas de financiamento do banco.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 6
+
+O Programa Maracanaú Desenvolvimento Sustentável possui suas linhas de atuação previstas no Plano Plurianual ? PPA do Município (
+2022 ? 2025) e deverão ser incluídas na Lei Orçamentária Anual de 2025.
+
+(ii) ORIENTAÇÕES ESTRATÉGICAS:
+
+(i)O MDS tem suas ações pautadas no PPA 2022-2025 (as páginas do PPA que comprovem a sua inclusão estão na aba ANEXOS).
+
+O Programa tem seus projetos e intervenções contemplados no Plano Plurianual - PPA do Município (2022 - 2025) Leinº 3.094, de 10 de
+dezembro de 2021 eserá incluído na Lei Orçamentária Anual - LOA de 2025.
+
+(ii) Relação dos planos setoriais relacionados ao Programa (os Planos Diretores estão na aba ANEXOS).
+
+a)PLANO DIRETOR PARTICIPATIVO
+
+b)PLANO DE MOBILIDADE URBANA, CICLOVIÁRIO E DE LOGISTICA ? PLAMOB
+
+c)PLANO DE DESCARBONIZAÇÃO E ADAPTAÇÃO ÀS MUDANÇAS CLIMÁTICAS-PDAMC
+
+d)PLANO MUNICIPAL DE ENFRENTAMENTO À VIOLÊNCIA CONTRA MULHERES E MENINAS EM TRANSPORTES E ESPAÇOS
+PÚBLICOS DE MARACANAÚ
+
+(iii) CONTRAPARTIDA
+
+O município de Maracanaú declara que usará como contrapartida as receitas tributárias previstas nos artigos 155, 157 e 159, inciso I, (a),
+da Constituição Federal e terrenos que estão vinculados à execução do Programa. Tudo nos termos da Resolução N. 3 da COFIEX, de 29
+de maio de 2019.
+
+(iv) TAXA DE CÂMBIO: informar a taxa de câmbio da moeda do financiamento em relação ao REAL, com a fonte (Banco Central) e a data
+de referência.
+
+Valor Dólar: 5.42    SITE: BANCO CENTRAL - BC   DATA: 11/07/2024.
+
+JUSTIFICATIVA DOS CUSTOS DO PROGRAMA
+
+Todos os custos e planilhas do MDS utilizam as tabelas oficiais para definir os valores, especialmente (SICRO-SINAPI). No que concerne
+às consultorias, foi utilizado como referência as tabelas do DNIT.
+
+Os valores referentes aos Gastos de Avaliação e à Comissão de Financiamento são definidos pelo próprio banco. Desta forma,
+consideramos o que a CAF vem utilizando atualmente.
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa Maracanaú Desenvolvimento Sustentável
+
+
+### 2.2. Título Abreviado
+
+
+MDS
+
+
+### 2.3. Mutuário
+
+
+Município de Maracanaú - CE
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+OBJETIVO GERAL
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 7
+
+O PROGRAMA MARACANAÚ DESENVOLVIMENTO SUSTENTÁVEL ? MDS objetiva aprimorar a qualidade de vida dos munícipes por
+meio de projetos socioambientais e de infraestrutura urbana, alinhados à conservação de recursos naturais, mitigação das mudanças
+climáticas, desenvolvimento econômico e promoção da justiça social.
+
+OBJETIVOS ESPECÍFICOS:
+
+- Reduzir a vulnerabilidade de áreas sujeitas a alagamentos e à proliferação de doenças de veiculação hídrica;
+
+- Minimizar os custos de manutenção e recuperação de áreas afetadas por riscos ambientais;
+
+- Restaurar lagoas e riachos;
+
+- Mitigar os efeitos climáticos adversos em escala local;
+
+- Otimizar as ações de monitoramento, fiscalização e gestão ambiental no município;
+
+- Fomentar o engajamento da sociedade civil em questões ambientais e de mudanças climáticas;
+
+- Sensibilizar e conscientizar a população sobre a prevenção contra violência de gênero;
+
+- Aperfeiçoar a capacidade de gestão de negócios dos microempreendedores locais;
+
+- Expandir a qualificação profissional e gerar renda para jovens, populações vulneráveis e povos originários;
+
+- Diminuir o tempo de deslocamento e a incidência de acidentes de trânsito;
+
+- Reduzir a emissão de Gases de Efeito Estufa (GEE);
+
+- Melhorar a segurança e o acesso ao lazer, esporte e convívio social;
+
+- Expandir a infraestrutura escolar e de saúde pública municipal;
+
+- Modernizar os processos administrativos e desburocratizar os procedimentos e trâmites processuais.
+
+
+### 2.6. Projeto/Indicadores
+
+
+Descrição
+Redução na quantidade de ocorrências de
+alagamento no município por ano
+
+Percepção de Segurança das mulheres em
+paradas de ónibus e veículos públicos
+
+Aumento da renda dos indigenas
+empreendedores
+
+Redução do tempo de viagem do Bairro
+Pajuçara ao Distrito Industrial
+Redução do tempo de viagem do Bairro
+Pajuçara ao Bairro Centro
+Redução nas emissões de gases efeito estufa -
+setor de transporte
+
+
+### 2.7. Projeto/Componentes
+
+
+Unidade
+
+Percentual
+
+Fórmula de Cálculo Unidade de Medida
+Percentual antes das
+ações do Programa  x
+o percentual após as
+implementação das
+ações
+Reducao do
+Percentual de
+mulheres que se
+sentem inseguras
+antes das ações do
+Programa  x o
+percentual após as
+implementação das
+ações
+Faturamento médio
+antes do Programa x
+faturamento médio
+apos as ações de
+capacitacao do
+programa
+Levantamento de
+Campo
+Levantamento de
+Campo
+Qtde tCO2e antes das
+ações do Programa (
+Medição/2019) x
+Toneladas após ações
+do Programa (2029)
+
+Minuto
+
+Minuto
+
+tCO2e
+
+valor
+
+Linha de Base
+8,20
+
+Meta
+4,00
+
+54,00
+
+40,00
+
+1.200,00
+
+2.100,00
+
+6,00
+
+12,00
+
+4,00
+
+8,00
+
+207.608,00
+
+176.467,00
+
+(cid:10)
+
+
+Componentes
+C - DESENVOLVIMENTO SOCIOAMBIENTAL E INFRAESTRUTURA URBANA
+S - DESENVOLVIMENTO SOCIOAMBIENTAL
+P - REQUALIFICAÇÃO E AMPLIAÇÃO DO SISTEMA DE DRENAGEM DA CIDADE
+P - RECUPERAÇÃO DE PARQUES URBANOS E LAGOAS
+P - FORTALECIMENTO DAS POLÍTICAS PÚBLICAS AMBIENTAIS
+P - FORTALECIMENTO DA POLÍTICA DE PREVENÇÃO CONTRA VIOLÊNCIA DE GÊNERO
+P - AMPLIAÇÃO DAS POLÍTICAS DE CAPACITAÇÃO E GERAÇÃO DE RENDA E APOIO AOS
+MICROEMPREENDEDORES
+S - MOBILIDADE URBANA
+P - REQUALIFICAÇÃO E AMPLIAÇÃO DE VIAS E PASSEIOS, IMPLANTAÇÃO DE CICLOVIAS E
+ACESSIBILIDADE
+S - INFRAESTRUTURA URBANA E SOCIAL
+P - AMPLIAÇÃO E REQUALIFICAÇÃO DE ESPAÇOS E EQUIPAMENTOS PÚBLICOS
+P - AMPLIAÇÃO E REQUALIFICAÇÃO DA INFRAESTRUTURA ESCOLAR
+P - AMPLIAÇÃO E REQUALIFICAÇÃO DA INFRAESTRUTURA DE SAÚDE PÚBLICA
+P - TERRENOS PARA IMPLANTAÇÃO DOS EMPREENDIMENTOS
+C - GERENCIAMENTO DO PROGRAMA
+P - MELHORIA E MODERNIZAÇÃO DOS PROCESSOS DE PRESTAÇÃO DE SERVIÇOS PÚBLICOS
+ATRAVÉS DA TRANSFORMAÇÃO DIGITAL
+P - SUPERVISÃO TÉCNICA DAS OBRAS
+P - APOIO A UNIDADE DE GERENCIAMENTO DO PROGRAMA
+P - ELABORAÇÃO DE PROJETOS DE ENGENHARIA
+P - AUDITORIA EXTERNA
+C - OUTRAS DESPESAS
+P - GASTOS DE AVALIAÇÃO
+P - COMISSÃO DE FINANCIAMENTO
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 8
+
+Valor(US$)
+68.755.000,00
+15.400.000,00
+8.000.000,00
+4.450.000,00
+2.000.000,00
+400.000,00
+550.000,00
+
+39.000.000,00
+39.000.000,00
+
+14.355.000,00
+3.605.000,00
+5.100.000,00
+1.650.000,00
+4.000.000,00
+5.725.000,00
+500.000,00
+
+3.000.000,00
+1.600.000,00
+515.000,00
+110.000,00
+520.000,00
+10.000,00
+510.000,00
+75.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - DESENVOLVIMENTO SOCIOAMBIENTAL E INFRAESTRUTURA URBANA
+Este componente tem um custo total de $68.755.000,00. Sendo $54.255.000,00 referentes ao valor a ser financiado pela CAF e $
+14.500.000,00 referentes à contrapartida do município.
+
+S - DESENVOLVIMENTO SOCIOAMBIENTAL
+Este subcomponente tem um custo total de $15.400.000,00. Sendo $14.950.000,00 referentes ao valor a ser financiado pela CAF e
+$450.000,00 referentes à contrapartida do município.
+O subcomponente é composto pelos seguintes projetos:
+1. Requalificação e ampliação do sistema de drenagem da cidade; 2. Recuperação de Parques Urbanos e Lagoas; 3.
+Fortalecimento das Políticas Públicas Ambientais; 4. Fortalecimento da Política de Prevenção contra Violência de Gênero; 5.
+Ampliação das Políticas de Capacitação e Geração de Renda e Apoio aos Microempreendedores.
+
+P - REQUALIFICAÇÃO E AMPLIAÇÃO DO SISTEMA DE DRENAGEM DA CIDADE
+As obras de macrodrenagem desempenham um papel crucial na mitigação e adaptação às mudanças climáticas, além de
+contribuírem significativamente para o saneamento ambiental da cidade. O projeto visa proteger a saúde da população, melhorar a
+qualidade ambiental e promover o bem-estar social envolvendo a preservação das margens dos rios, áreas de várzea e matas
+ciliares.
+As intervenções visam minimizar a erosão e o assoreamento dos leitos dos cursos d'água receptores das drenagens, reduzir
+interferências no escoamento das cheias, prevenir danos causados por inundações a terceiros e evitar prejuízos ao erário devido a
+danos em infraestruturas viárias. Além disso, essas medidas visam reduzir doenças de veiculação hídrica, mitigar impactos
+ambientais e controlar problemas de erosão e sedimentação.
+A requalificação do sistema de drenagem será realizada em um trecho de 16 km de drenagem urbana em trechos estratégicos de
+riachos e córregos nas regiões dos bairros Alto Alegre I e II, Pajuçara e Piratininga.
+O projeto propõe a correção, ajuste de tamanho, limpeza e direcionamento em áreas específicas de riachos e córregos, após
+estudos detalhados e cálculos precisos. Isso inclui:
+?Remoção de sedimentos e detritos acumulados em leitos de córregos e rios para restaurar a capacidade de escoamento e
+prevenir inundações;
+?Integração de práticas e infraestruturas que promovam a absorção natural de água, como jardins de chuva e pavimentos
+permeáveis;
+?Restaurar as capacidades de fluxo, áreas alagadas e áreas adjacentes;
+?Implementar áreas verdes com sistemas vegetativos, ajudando a reduzir erosão e o escoamento superficial, promovendo
+evaporação, transpiração e infiltração natural;
+O sistema de macrodrenagem desempenha um papel crucial ao garantir que o sistema urbano de canalização seja capaz de
+manejar o volume total de águas pluviais durante períodos de chuva. Essa disciplina envolve a infraestrutura de redes de coleta
+nas cidades, que não apenas previne inundações, mas também minimiza os impactos adversos desses eventos na população.
+
+
+Página: 9
+
+P - RECUPERAÇÃO DE PARQUES URBANOS E LAGOAS
+Este projeto está em concordância com o Plano de Descarbonização e Adaptação às Mudanças Climáticas (PDAMC), que trata a
+expansão de áreas verdes e recuperação de ambientes naturais como prioridade de ações em todos os setores da Cidade. O MDS
+traz como uma das soluções para os problemas identificados no diagnóstico, a requalificação do Parque Urbano Complexo Rei
+Pelé e a revitalização da Lagoa de Maracanaú e da Lagoa do Kubanacan.
+A proposta é estabelecer conexões diretas dos parques com a cidade, criando espaços contínuos que conectem os parques à vida
+urbana por meio de áreas verdes integradas. Os calçadões serão projetados com pisos apropriados, dispositivos de acessibilidade,
+mobiliário urbano, ciclovias, sistemas de drenagem, equipamentos para prática de esportes ao ar livre, academias ao ar livre,
+playgrounds, áreas arborizadas com espécies nativas e iluminação adequada. Os contornos dos parques serão redesenhados para
+claramente delimitar as áreas urbanas das áreas de preservação, mantendo uma integração contínua entre elas.
+A revitalização das lagoas urbanas será realizada com soluções baseadas na natureza, envolvendo a aplicação de métodos
+sustentáveis para restaurar e melhorar a função ecológica desses corpos d'água dentro do ambiente citadino. Essas abordagens
+visam não apenas melhorar a qualidade da água e a biodiversidade local, mas também oferecer benefícios socioeconômicos à
+comunidade.
+Serão avaliadas as seguintes estratégias de revitalização com base em soluções baseadas na natureza:
+?Restauração de Ecossistemas Ciliares: Implementação de zonas vegetadas ao redor das margens das lagoas para filtrar
+poluentes, reduzir a erosão do solo e fornecer habitat para fauna e flora nativas.
+?Criação de Zonas Úmidas: Restauração das áreas úmidas naturais adjacentes às lagoas para melhorar a qualidade da água,
+promover a infiltração natural e proporcionar habitats para espécies aquáticas e aves.
+?Melhoria da Infraestrutura Verde: Expansão das áreas verdes urbanas próximas às lagoas, incentivando o uso de práticas de
+manejo que mimetizem processos naturais de infiltração e armazenamento de água.
+As ações previstas nesse projeto visam, através de soluções baseadas na natureza, desenvolver ambientes adequados para os
+ecossistemas degradados. É necessário mitigar a pressão que a urbanização causa sobre os diferentes sistemas ambientais. Os
+Parque Urbanos e Áreas Verdes funcionam como Ilhas de Frescor (Cool Island) para os aglomerados urbanos, onde pode chegar
+ao gradiente térmico de até 9°C mais ameno que ambientes fortemente urbanizados (de acordo com estudos realizados em
+Fortaleza pelo Laboratório de Climatologia Geográfica e Recursos Hídricos da UFC).
+As intervenções relacionadas à permeabilização do solo e implantação de infraestruturas verdes tendem a diminuir o impacto das
+precipitações extremas, reduzindo os riscos relacionados a esses eventos hidrometeorológicos, prevenindo alagamentos e
+inundações urbanas. Espera-se, com a efetivação das intervenções, que o município de Maracanaú se apresente mais resiliente e
+preparado para o enfrentamento das mudanças climáticas.
+
+P - FORTALECIMENTO DAS POLÍTICAS PÚBLICAS AMBIENTAIS
+- Estruturar o Fórum de Mudanças Climáticas do município, de acordo com o Plano de Descarbonização e Adaptação às
+Mudanças Climáticas (PDAMC)
+Esta ação visa promover o fortalecimento institucional para favorecer a ampliação de ações por meio de políticas e estratégias
+públicas específicas. O Fórum de Mudanças Climáticas tem como objetivo promover a divulgação e o monitoramento das ações
+previstas no PDAMC, além de acompanhar os resultados e atualização dele e de outros instrumentos legais que possam direcionar
+as ações municipais alinhadas à agenda global de mitigação das mudanças climáticas.
+- Implementar o Plano de Capacitação da SEMAM
+Esta ação visa implementar o Plano de Capacitação da SEMAM, que tem como objetivo qualificar os técnicos da secretaria,
+conferindo maior efetividade nas ações de monitoramento, fiscalização e gestão ambiental no município. Os cursos nas áreas de:
+monitoramento, fiscalização e gestão ambiental serão implementados de forma contínua na secretaria.
+- Implementar ações de Educação Ambiental, incluindo a população indígena do município
+Este projeto/produto visa a implementação de ações em educação ambiental, incluindo a população indígena do município de
+Maracanaú, com o objetivo de promover a conscientização sobre a importância da preservação do meio ambiente e o
+desenvolvimento sustentável. Para isso, serão adotadas as seguintes estratégias:
+1. Desenvolvimento de Material Educativo
+Elaboração de material educativo: Produção de materiais educativos específicos para diferentes públicos, incluindo conteúdo
+voltado para as particularidades culturais da população indígena.
+2. Capacitação de Multiplicadores
+Formação de Educadores Ambientais: Treinamentos para líderes comunitários e professores, tanto das escolas municipais quanto
+das comunidades indígenas, para que possam atuar como multiplicadores das práticas de educação ambiental.
+3. Atividades Práticas e Participativas
+Projetos de Reflorestamento: Desenvolvimento de projetos de reflorestamento e recuperação de áreas degradadas com a
+participação ativa da comunidade, incluindo as populações indígenas.
+4. Incorporação da Educação Ambiental no Currículo Escolar
+Projetos Interdisciplinares: Desenvolvimento de projetos interdisciplinares que envolvam diferentes áreas do conhecimento,
+incentivando os estudantes a aplicarem conceitos de sustentabilidade em suas práticas diárias.
+5. Campanhas de Sensibilização e Comunicação
+Campanhas de Conscientização: Realização de campanhas de comunicação utilizando mídias tradicionais e digitais para
+sensibilizar a população sobre a importância da preservação ambiental.
+Eventos Comunitários: Organização de eventos como feiras ambientais, dias de limpeza comunitária e palestras abertas ao público
+para fortalecer o engajamento da comunidade.
+Estas ações visam engajar toda a comunidade de Maracanaú, promovendo uma cultura de respeito ao meio ambiente e
+incentivando práticas sustentáveis que contribuam para a qualidade de vida e a preservação dos recursos naturais.
+
+
+Página: 10
+
+P - FORTALECIMENTO DA POLÍTICA DE PREVENÇÃO CONTRA VIOLÊNCIA DE GÊNERO
+As ações do MDS se somam as ações do Programa Integrado de Prevenção e Redução da Violência Prévia, do Governo do
+Estado do Ceará, no fortalecimento da política de prevenção contra a violência no município de Maracanaú.
+O programa do governo do estado visa qualificar a atuação governamental na realização de ações de prevenção social e
+segurança pública, na perspectiva de redução de vulnerabilidades e de violências, para públicos específicos, tais como: crianças,
+jovens, adolescentes gestantes, egressos do sistema socioeducativo, população LGBT e mulheres em situação de violência. O
+programa contempla um orçamento aproximado de 65 milhões de Dólares Americanos.
+A violência de gênero é uma grave violação dos direitos humanos, manifestando-se de diversas formas, como física, sexual,
+psicológica e econômica, afetando desproporcionalmente mulheres e meninas, além de grupos LGBTQIA+. Esse problema é
+recorrente e sistemático, independente de idade, cor/raça, etnia ou local de residência, sendo especialmente prevalente em
+comunidades vulneráveis. O impacto da violência de gênero é profundo, comprometendo a saúde física e mental das vítimas, além
+de perpetuar ciclos de desigualdade e exclusão social.
+Em Maracanaú, a situação da violência tem se agravado, evidenciando a necessidade urgente de implementação de políticas
+públicas abrangentes e eficazes para prevenir, combater e oferecer suporte às vítimas, promovendo um ambiente seguro e
+igualitário para todos.
+Diante dessa realidade, o município criou o Plano Municipal de Enfrentamento à Violência contra Mulheres e Meninas em
+Maracanaú (MARA) em 2023. O Plano Mara é uma iniciativa abrangente para combater a violência de gênero nos transportes e
+espaços públicos, visando uma mobilidade segura e inclusiva. Desenvolvido de forma colaborativa, engaja a comunidade na
+criação de um ambiente livre de violência. Com quatro estratégias, aborda os desafios identificados e promove uma mudança
+sistêmica. O plano prevê diversas ações distribuídas em quatro eixos estratégicos (1. Mudanças Culturais: Engajamento e
+Mobilização; 2. Mudanças Institucionais: Governança e Acolhimento; 3. Mudanças Físico-espaciais: Espaços Públicos e Rede de
+Mobilidade; 4. Mudanças Operacionais: Serviços de Transporte), com implementação em curto (2024-2027), médio (2028-2031) e
+longo prazo (2032-2035).
+Nesse contexto, o Programa Maracanaú Desenvolvimento Sustentável (MDS) pretende implementar algumas ações de combate e
+prevenção à violência de gênero, previstas e em consonância com seus Planos e Programas estratégicos para a temática.
+- Realização de 20 capacitações no âmbito do Plano MARA:
+Capacitação de agentes públicos para prevenção, atenção e acolhimento
+Esta capacitação visa fortalecer os conhecimentos e ferramentas dos agentes públicos da rede de assistência social, saúde e
+segurança urbana para o enfrentamento a violência de gênero nos transportes e espaços públicos. As capacitações consideram a
+contratação dos profissionais especializados para realizar as capacitações e a produção de material gráfico de apoio.
+Capacitação do corpo docente e técnicos das escolas municipais
+Esta ação visa capacitar corpo docente e técnicos escolares para acolhimento e encaminhamentos em casos de violência sexual e
+de gênero nos transportes e espaços públicos que cheguem às escolas com base em um protocolo de atuação.
+- Realização de 50 palestras para prevenção da violência de gênero, no âmbito do Plano MARA
+10 palestras para prevenção da violência de gênero em escolas de ensino fundamental
+Esta ação visa implementar ações de escuta e educação sobre violência de gênero nas escolas de ensino fundamental,
+preferencialmente para alunos do 5º ao 9º ano.
+40 palestras para prevenção da violência de gênero para a população em geral
+Esta ação visa implementar ações de escuta e educação sobre violência de gênero nos diversos bairros do município de
+Maracanaú, proporcionando maior sensibilização e conscientização da população.
+- Realização de 12 cursos de formação de mão de obra para mulheres e pessoas LGBTQIA+ em situação de risco
+Esta ação visa capacitar profissionalmente mulheres e pessoas LGBTQIA+ em situação de risco, proporcionando habilidades e
+conhecimentos que aumentem suas oportunidades de emprego e geração de renda nas áreas de artesanato, gastronomia,
+tecnologia e ferramentas digitais, empreendedorismo e gestão de negócios. Isso visa promover sua autonomia financeira, reduzir
+sua vulnerabilidade socioeconômica e oferecer uma alternativa segura e digna de sustento, contribuindo para a melhoria de suas
+condições de vida e para a prevenção de situações de violência e dependência.
+
+P - AMPLIAÇÃO DAS POLÍTICAS DE CAPACITAÇÃO E GERAÇÃO DE RENDA E APOIO AOS
+MICROEMPREENDEDORES
+As ações deste projeto/produto visam a ampliação das políticas de capacitação e geração de renda e apoio aos
+microempreendedores, incluindo jovens infratores e povos originários do município de Maracanaú.
+Dentre as ações previstas no projeto, temos:
+- A realização de 200 ações, entre oficinas, cursos, treinamentos e palestras na área de gastronomia, artesanato, ferramentas
+digitais e marketing para microempreendedores, jovens infratores e povos originários
+As ações deste projeto/produto visam a realização de oficinas, cursos, treinamentos e palestras na área de gastronomia,
+artesanato, ferramentas digitais e marketing para a capacitação de microempreendedores, jovens infratores e povos originários do
+município de Maracanaú. Com essas ações, a gestão pública pretende:
+Fortalecer a inclusão social e econômica dos participantes, promovendo a qualificação profissional e a geração de renda, além de
+reduzir a reincidência entre jovens infratores, proporcionando-lhes novas perspectivas e oportunidades de reintegração na
+sociedade, e valorizar e preservar as tradições culturais dos povos originários, ao mesmo tempo em que os capacita para o
+mercado de trabalho moderno.
+- Oferta de 2000 horas de assessoria jurídica para microempreendedores
+As ações deste projeto/produto objetivam oferecer assessoria jurídica para microempreendedores locais para orientá-los em
+relação a:
+Formalização e regularização de negócios, garantindo conformidade com as normas legais e fiscais;
+Elaboração e revisão de contratos comerciais, protegendo os interesses dos empreendedores e estabelecendo relações
+comerciais seguras;
+Navegação por questões tributárias, ajudando-os a entender e cumprir suas obrigações fiscais de maneira eficiente;
+
+
+Página: 11
+
+Proteção de propriedade intelectual, orientando sobre registro de marcas, patentes e direitos autorais;
+Acesso a linhas de crédito e financiamento, auxiliando na compreensão dos termos e condições legais.
+- Oferta de equipamentos para iniciar o próprio negócio.
+Esta ação visa a disponibilização de equipamentos necessários para que o beneficiário possa iniciar seu próprio negócio. O projeto
+também visa melhorar as condições de trabalho e tornar os negócios mais atraentes e sustentáveis para os microempreendedores
+que já atuam em algum setor.
+
+S - MOBILIDADE URBANA
+Este subcomponente tem um custo total de $39.000.000,00. Sendo $33.300.000,00 referentes ao valor a ser financiado pela CAF e
+$5.700.000,00 referentes à contrapartida do município.
+O subcomponente é composto por um único projeto:
+1. Requalificação e ampliação de vias e passeios, implantação de ciclovias e acessibilidade
+
+P - REQUALIFICAÇÃO E AMPLIAÇÃO DE VIAS E PASSEIOS, IMPLANTAÇÃO DE CICLOVIAS E ACESSIBILIDADE
+O MDS prevê a implantação de ações que visam resolver as questões de mobilidade urbana do município de Maracanaú. Os
+projetos de mobilidade urbana têm uma influência significativa no desenvolvimento das cidades, afetando diretamente a qualidade
+de vida dos seus habitantes e o funcionamento econômico e social dos centros urbanos. O projeto de requalificação e ampliação
+de vias, passeios, ciclovias e acessibilidade tem por objetivos: pavimentar, drenar e sinalizar 40 km de vias; requalificar 80 km de
+calçadas; ampliar 20 km de ciclo faixas; e requalificar 30 pontos de paradas.
+O projeto seguirá a seguinte descrição de ações:
+?Utilizar pavimentação de alta qualidade, com materiais adequados e capacidade de suportar cargas calculadas, integrando a
+malha viária ao sistema principal, proporcionando condições ideais e seguras para o tráfego de veículos e pedestres, otimizando a
+mobilidade ao reduzir tempos de viagem, congestionamentos e acidentes.
+?Implementar um sistema de drenagem eficiente para águas pluviais nas vias, garantindo rápida e segura captação das águas
+superficiais para preservar o pavimento.
+?Requalificação de calçadas (larguras, alturas, acessibilidade e continuidade) utilizando materiais adequados, instalando
+dispositivos de acessibilidade.
+?Implantar e ampliar ciclo faixas integradas ligando as principais centralidades da cidade.
+Projetos de mobilidade urbana buscam melhorar o acesso das pessoas a diferentes áreas da cidade, facilitando o deslocamento de
+residentes e visitantes. Isso inclui a criação de redes de transporte público eficientes, vias para pedestres e ciclovias. Projetos que
+incentivam o uso de transporte público, caminhadas e ciclismo ajudam a reduzir a poluição do ar e as emissões de gases de efeito
+estufa associadas ao uso excessivo de veículos particulares. Isso promove a sustentabilidade climática das cidades.
+As ações estão pautadas nos indicativos relacionados no Plano de Mobilidade Urbana, Cicloviário e Logística (PLANMOB), a partir
+do diagnóstico e proposições para o cenário específico do município de Maracanaú.
+
+S - INFRAESTRUTURA URBANA E SOCIAL
+Este subcomponente tem um custo total de $14.355.000,00. Sendo $5.805.000,00 referentes ao valor a ser financiado pela CAF e
+$8.550.000,00 referentes à contrapartida do município.
+O subcomponente é composto pelos seguintes projetos/produtos:
+1. Ampliação e requalificação de espaços e equipamentos públicos; 2. Ampliação e requalificação da infraestrutura Escolar; 3.
+Ampliação e requalificação da infraestrutura de Saúde Pública; 4. Terrenos para implantação dos empreendimentos.
+
+P - AMPLIAÇÃO E REQUALIFICAÇÃO DE ESPAÇOS E EQUIPAMENTOS PÚBLICOS
+Este projeto visa ampliar, requalificar e implantar equipamentos públicos para benefício social da população. Serão contempladas
+praças, equipamentos poliesportivos, e o Estádio Público Municipal. Serão ampliados e requalificados 5 equipamentos públicos, no
+total. Serão duas praças de lazer, dois equipamentos poliesportivos e o Estádio Público Municipal Prefeito Almir Dutra.
+O projeto do Estádio Público Municipal está localizado no Centro de Maracanaú, próximo à Estação do Metrofor, da Câmara
+Municipal de Vereadores, do Fórum e do Centro Cultural Dorian Sampaio. O equipamento possui atualmente um lance de
+arquibancadas com oito mil assentos, vestiários e banheiros. O município propõe a construção de outro lance de arquibancadas
+com 10 mil assentos e novos banheiros com acessibilidade para portadores de deficiência motora e visual, atendendo ao padrão
+FIFA.
+Desta forma serão implantadas as seguintes ações:
+?Construção e requalificação de 2 praças e 2 centros poliesportivos com urbanização, passeios em piso de concreto inter travado,
+mobiliários urbanos, playground, academias ao ar livre, skate park, arborismo, iluminação e jardins.
+?Construção e ampliação do Estádio Público Municipal Prefeito Almir Dutra, atendendo aos padrões da FIFA;
+Na revitalização das praças, está planejada o plantio de árvores nativas para aumentar o bem-estar da população local. A
+arborização urbana traz vários benefícios para as cidades, incluindo vantagens ambientais, estéticas, sociais e econômicas. Em
+termos ambientais, as árvores desempenham um papel crucial na melhoria das condições climáticas locais, oferecendo um maior
+conforto ambiental.
+Todos os projetos de infraestrutura urbana e social serão desenvolvidos com anteprojetos e projetos básicos, abrangendo
+arquitetura, arborização, pavimentação, drenagem, iluminação, interferências, mobiliários, além de projetos estruturais, hidráulicos,
+elétricos e sanitários. Estes serão precedidos por estudos de viabilidade técnica e seus respectivos levantamentos, com
+pressupostos e critérios para avaliações e indicadores de qualidade. Todas as referências seguem as normas da Associação
+Brasileira de Normas Técnicas (ABNT), os Planos Municipais, especialmente o Plano Diretor e o Plano de Mobilidade Urbana.
+
+
+Página: 12
+
+P - AMPLIAÇÃO E REQUALIFICAÇÃO DA INFRAESTRUTURA ESCOLAR
+O Projeto de Requalificação das Escolas envolve a construção de duas unidades educacionais no bairro Pajuçara, projetadas de
+forma tecnicamente racionalizada e sustentável, seguindo os critérios necessários para as atividades de ensino e aprendizagem. O
+dimensionamento dos espaços está em conformidade com as recomendações do Fundo Nacional de Desenvolvimento da
+Educação (FNDE), as Normas Técnicas Brasileiras (ABNT) e as diretrizes do Instituto Brasileiro de Auditoria de Obras Públicas (
+IBRAOP).
+As escolas contarão com 12 salas de aula, com capacidade para 450 alunos, em uma área construída de 3.906,08 m². As
+instalações incluirão:
+?Biblioteca;
+?Cozinha equipada com despensas e áreas para lavagem de panelas e utensílios;
+?Refeitório;
+?Área descoberta com bancos e jardineiras;
+?Pátios cobertos;
+?Sanitários;
+?Área administrativa com Secretaria, almoxarifado e reprografia;
+?Coordenação pedagógica;
+?Coordenação de estágios;
+?Diretoria;
+?Sala de professores;
+?Conjunto de sanitários e copa para professores e funcionários.
+A construção das escolas se dará através de métodos e materiais sustentáveis, implementando um sistema com autonomia de
+energia solar, ecologicamente responsável que traz inúmeros benefícios ambientais, econômicos e educacionais. Espera-se com a
+construção das novas escolas, o aumento da disponibilidade de vagas para atender a população mais vulnerável.
+
+P - AMPLIAÇÃO E REQUALIFICAÇÃO DA INFRAESTRUTURA DE SAÚDE PÚBLICA
+Este projeto prevê a construção de uma Unidade de Pronto Atendimento ? UPA e duas Unidades Básicas de saúde ? UBS, além
+da requalificação de duas UBS existentes. A ampliação e requalificação da infraestrutura de saúde pública são fundamentais para
+assegurar um atendimento de qualidade e abrangente à população. Esse investimento tem um impacto direto na qualidade de vida,
+na eficiência dos serviços de saúde e na capacidade de resposta a emergências sanitárias.
+Serão executados pisos, revestimentos, cobertas, esquadrias, instalações hidráulicas, sanitárias, elétricas, adequados as Normas
+técnicas e as legislações para as edificações de saúde pública. Também serão utilizadas placas fotovoltaicas, implementando um
+sistema energético limpo às unidades contempladas, contribuindo para a modernização e expansão da infraestrutura de saúde do
+município de Maracanaú.
+A expansão da infraestrutura de saúde pública garante que mais pessoas, especialmente aquelas em áreas vulneráveis, tenham
+acesso a serviços de saúde essenciais. Com mais unidades de saúde e melhor equipadas, o atendimento pode ser mais rápido e
+eficiente, reduzindo o tempo de espera e as filas nas unidades de saúde.
+A ampliação e requalificação da infraestrutura de saúde pública são pilares essenciais para garantir um sistema de saúde eficiente,
+equitativo e capaz de atender às necessidades da população. Esse investimento não apenas melhora a qualidade dos serviços de
+saúde, mas também fortalece a capacidade de resposta a emergências sanitárias, promove a inclusão social e contribui para o
+desenvolvimento econômico sustentável.
+
+P - TERRENOS PARA IMPLANTAÇÃO DOS EMPREENDIMENTOS
+São terrenos de propriedade do município cuja a titularidade está estruturada.
+
+C - GERENCIAMENTO DO PROGRAMA
+Este componente tem um custo total de $5.725.000,00. Sendo $5.425.000,00 referentes ao valor a ser financiado pela CAF e $300.
+000,00 referentes à contrapartida do município.
+Compõe este item os seguintes projetos/produtos:
+1. Melhoria e modernização dos processos de prestação de serviços públicos através da transformação digital; 2. Supervisão
+Técnica das Obras; 3. Apoio a Unidade de Gerenciamento do Programa; 4. Elaboração de Projetos de Engenharia; 5. Auditoria
+Externa.
+
+P - MELHORIA E MODERNIZAÇÃO DOS PROCESSOS DE PRESTAÇÃO DE SERVIÇOS PÚBLICOS ATRAVÉS DA
+TRANSFORMAÇÃO DIGITAL
+Este projeto tem como objetivo principal a digitalização e modernização dos processos administrativos e operacionais dos serviços
+públicos prestados pela Prefeitura de Maracanaú. Isso será alcançado por meio da aquisição e implementação de hardwares,
+softwares e mobiliários adequados, promovendo um ambiente mais eficiente e acessível tanto para os servidores públicos quanto
+para os munícipes.
+Essa intervenção tem como metas:
+Eficiência Operacional: Redução do tempo de espera para a realização de serviços públicos, aumentando a produtividade e
+eficiência dos processos administrativos.
+Transparência: Melhoria na transparência dos processos públicos, permitindo maior controle social e participação cidadã.
+Acessibilidade: Facilitação do acesso aos serviços públicos para todos os cidadãos, incluindo aqueles com mobilidade reduzida e
+moradores de áreas remotas.
+Qualidade no Atendimento: Melhoria na qualidade do atendimento ao cidadão, proporcionando um serviço mais ágil e satisfatório.
+
+
+Página: 13
+
+P - SUPERVISÃO TÉCNICA DAS OBRAS
+A Supervisão das Obras inclui a prestação de serviços de apoio a UGP para supervisão operacional e fiscalização das atividades
+técnicas, ambientais e sociais incluídas no programa.
+A fiscalização das obras será realizada com ênfase em três dimensões: técnica, ambiental e social. A fiscalização de obras
+compreende o acompanhamento e controlo de qualidade dos serviços prestados, abrangendo desde a análise preliminar dos
+projetos, a fiscalização técnica da execução a assistência técnica e a qualidade dos equipamentos aplicados, bem como
+indicações sobre a situações locais de evolução e/ou modificações necessários, de acordo com a conveniência técnica e
+conceitual da intervenção. Por meio da fiscalização, é realizado o controle de qualidade da execução das obras, respeitando as
+condições contratuais, tais como: normas, legislação, cronogramas físico e financeiro, entre outros. Além de apoiar medidas para
+reduzir os impactos ambientais e sociais das intervenções.
+
+P - APOIO A UNIDADE DE GERENCIAMENTO DO PROGRAMA
+Prevê-se a contratação de empresa de consultoria especializada para apoiar a Unidade de Coordenação do Programa, nas
+inúmeras atribuições e responsabilidades que estão listadas no item de Arranjo Institucional do Programa.
+O apoio da empresa de consultoria terá o objetivo de prover a UCP de apoio técnico e gerencial e terá as funções de proporcionar
+suporte técnico, gerencial, do planejamento, acompanhamento físico e financeiro e avaliação dos resultados do Programa.
+As responsabilidades do Apoio a UGP incluem:
+- Facilitar o planejamento de todas as etapas do projeto, elaborando-o nas normas dos principais modelos de plano, como o Plano
+de Aquisições, a Estrutura Analítica do Projeto e a Matriz de Resultados;
+- Gerenciar o projeto de ponta a ponta, acompanhando os aspectos técnicos, físicos e financeiros estabelecidos na Estrutura
+Analítica do Projeto (EAP);
+- Alinhar a execução financeira do programa à disponibilidade orçamentária dos órgãos executores;
+- Garantir que os processos de aquisição, licitação e contratação sejam feitos com transparência, agilidade e segurança, seguindo
+as normas do banco financiador;
+- Acompanhar a aplicação de recursos do projeto, registrando os gastos e gerando os lançamentos para a contabilidade com base
+no Método de Partidas Dobradas. Também realiza a gestão da taxa cambial, buscando os valores diretamente do site do Banco
+Central;
+- Gerar toda a documentação necessária à solicitação de recursos e à prestação de contas aos agentes financiadores, além de
+controlar as internalizações de recursos;
+- Apresentar informações estratégicas com ferramentas de análise, dashboards e relatórios específicos e personalizáveis para os
+gestores do projeto, o banco financiador e os auditores;
+- Monitorar o progresso da execução do projeto por meio de indicadores estabelecidos no planejamento e define, acompanha e
+trata os riscos;
+- Garantir a segurança dos dados gerenciando os usuários e as diferentes permissões para uso do sistema e possibilitando a
+auditoria das informações;
+- Notificar os técnicos do processador e secretarias envolvidas sobre os documentos necessários à sua contratação e preparação;
+- Medidas para implementação do programa e sistematização dos dados e resultados obtidos;
+- Criação de uma matriz de resultados contendo a documentação dos dados monitorados para que possa ser útil nas fases do
+programa;
+
+P - ELABORAÇÃO DE PROJETOS DE ENGENHARIA
+Inclui a criação de estudos técnicos e projetos executivos para as intervenções planejadas no Programa. Os Projetos devem ser
+realizados com precisão, repetidos e verificados frequentemente para evitar falhas que possam comprometer o desenvolvimento
+das intervenções. Os projetos executivos, por sua vez, devem incluir: Especificações Técnicas; Desenhos, Plantas e Peças
+Gráficas com detalhes construtivos; Memória de Cálculo; Planilha Orçamentária de Custos; Planilha de Composição dos Preços
+Unitários; Cronograma Físico-financeiro; e Memorial Descritivo.
+
+P - AUDITORIA EXTERNA
+A contratação de Auditoria Externa objetiva realizar o exame, sistemático e independente, do Programa, com a finalidade de
+realizar o acompanhamento físico financeiro, averiguando se as atividades desenvolvidas pelas contratadas e pelo Município estão
+de acordo com as disposições estabelecidas, se foram implantadas com eficácia e se estão em conformidade com os objetivos do
+Programa.
+Os auditores deverão comunicar falhas, equívocos ou erros de processo e também evidências de que as demonstrações
+financeiras estão livres de distorção relevante.
+Como resultado das operações da auditoria externa, serão fornecidos pareceres para a devida constatação formal dos fatos
+observados, através da apresentação de evidências documentais, que servirão de base para a definição de ações de gestão para
+o controle do Programa.
+
+C - OUTRAS DESPESAS
+Este Componente tem um custo total de US$ 520,000,00 a ser financiado totalmente pela CAF, não havendo contrapartida local.
+Este item é composto por dois subcomponentes:
+- Gastos de Avaliação;
+- Comissão de Financiamento.
+
+P - GASTOS DE AVALIAÇÃO
+Durante a execução das obras e serviços prestados concernentes ao contrato, serão realizadas avaliações técnicas referentes à
+inserção de obras, prestação de serviços, bem como em relação ao desempenho de implantação referente à execução física e de
+desembolsos do Programa, de forma a garantir a boa realização e empregabilidade dos recursos.
+
+
+Página: 14
+
+Este item engloba os custos relacionados à realização das avaliações técnicas e outras ações semelhantes na execução do
+Programa.
+
+P - COMISSÃO DE FINANCIAMENTO
+A Comissão de Financiamento é caracterizada como uma comissão devida do mutuário junto ao financiador. Compreende os
+desembolsos necessários para a realização do pagamento da Comissão de Financiamento junto à agência de fomento que, no
+caso desse Programa, trata-se do Banco de Desenvolvimento da América Latina - CAF. Essa comissão, de 0,85% do montante do
+empréstimo, é referente aos montantes não desembolsados.

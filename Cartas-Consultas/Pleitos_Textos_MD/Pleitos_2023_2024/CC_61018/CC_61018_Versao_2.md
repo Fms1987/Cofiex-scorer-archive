@@ -1,0 +1,2742 @@
+# Carta-Consulta CC_61018 — Versao 2 (SIGS)
+
+
+CARTA CONSULTA
+
+Projeto de Desenvolvimento de Saneamento do Pará - Etapa Lagos - PRODESAN PARÁ-
+LAGOS
+
+Nº Carta Consulta: 61018
+Processo: 03101.102080/2023-91
+Mutuário: Estado do Pará
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  3 de Julho de 2023
+
+Fontes Internas:
+Contrapartida Financeira: US$ 25.000.000,00
+Fontes Externas:
+Fundo Financeiro para o Desenvolvimento da Bacia do Prata - FONPLATA: US$ 50.000.000,00
+New Development Bank - NDB: US$ 50.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+A Região Metropolitana de Belém (RMB), composta por sete municípios adjacentes à capital, concentra aproximadamente 30% da riqueza
+e 29% da população de todo o estado do Pará, em pouco mais de 0,3% de território. Formada pelos municípios de Belém, Ananindeua,
+Marituba, Benevides, Santa Bárbara do Pará, Santa Izabel do Pará e Castanhal, desponta como uma das 16 regiões brasileiras com o
+Índice de Desenvolvimento Humano Municipal (IDHM) de 0,748 sendo considerada de médio desenvolvimento humano (Fonte: PNUD,
+2017).
+
+Em Belém, parte da população tem como principal fonte de abastecimento de água, os mananciais Água Preta e Bolonha, localizados
+estrategicamente para fins de preservação dentro do Parque Estadual do Utinga (PEUt), esses lagos são abastecidos pelas águas
+drenadas da sua bacia hidrográfica (Rio Aurá e parte do Igarapé Tucunduba e Uriboquinha, sub-bacias do igarapé Murucutu), bem como
+por um sistema de bombeamento das águas do Rio Guamá, executado e operado pela Companhia de Saneamento do Pará - COSANPA
+para suprir a maior parte da demanda hídrica de abastecimento de Belém.
+
+A qualidade da água bruta que chega as Estações de Tratamento do Sistema Integrado de Distribuição, provenientes dos mananciais,
+vem chamando a atenção nos últimos anos. Estudos recentes solicitados pela COSANPA, publicados na Revista Brasileira de Geografia
+Física v.10, n.01 (2017) 521-534, revelam que as alterações dos parâmetros pH, cor, turbidez, nitrogênio amoniacal, nitratos, nitritos,
+cloretos, dureza total, alcalinidade e matéria orgânica, de amostras de água coletadas estão diretamente ligados ao antropismo no seu
+entorno (ANEXO-I). A ocupação do entorno dos lagos envolvendo os bairros do Marco, Curió-Utinga, Souza, Castanheira, Guanabara,
+Águas Lindas e Aurá, no limite do PEUt, não foi acompanhada pela expansão dos serviços de infraestrutura, em especial o esgotamento
+sanitário. A grande maioria do esgoto é coletada em fossas sépticas, colocando em risco de contaminação o lençol freático que abastece
+poços escavados, outra parte, o esgoto a céu aberto, verte em direção aos mananciais contaminando-os, elevando o custo de produção
+da água tratada (mais insumos para tratamento) e colocando em risco a eficiência das Estações de Tratamento que recebem água bruta
+dos lagos e são responsáveis por cerca de 70% da produção da água tratada do Município de Belém. O Ranking do Saneamento de 2023
+realizado entre as 100 maiores cidades do Brasil divulgado pelo Instituto Trata Brasil reflete essa realidade, onde o município de Belém
+ocupa 95ª posição, com Indicador de Atendimento Total de Esgoto de 17,12% e Indicador de Tratamento Total de Esgoto de 3,63%.
+
+Estudos que caracterizaram a qualidade das águas do manancial Água Preta mediante dois índices: Índice de Estado Trófico (IET) e
+Índice de Qualidade da Água (IQA), apresentou resultados conclusivos de que suas águas apresentam sinais claros de contaminação por
+resíduos e efluentes urbanos. Os corpos hídricos apresentaram IQA de classificação RUIM a BOA. Os resultados do IET variaram de
+Eutrófico a Hipereutrófico para o corpo hídrico Água Preta, essa variação, está diretamente relacionada ao desenvolvimento de macrófitas
+nos lagos e seus impactos com a redução na quantidade de oxigênio presente na água, a obstrução das grades de proteção do sistema
+de captação, entre outros (ANEXO-II). Além das situações relacionadas quanto a qualidade das águas do manancial Água Preta,
+monitoramentos batimétricos constatam a formação de um "banco de areia" na região central do lago explicado pela captação das águas
+provenientes do rio Guamá, as quais são ricas em sedimentos. A taxa máxima de assoreamento calculada para o período de estudo
+referente a região assoreada próxima a chegada de água do rio Guamá é de 6 cm/ano, em função disso, estima-se que atualmente uma
+área de 250.000m² na região central do lago Água Preta já tenha perdido cerca de 3 metros de lâmina d'água, apontando para uma
+condição de subdivisão do lago (ANEXO-III).
+
+O Governo do Estado do Pará por meio do PRODESAN PA - Programa de Desenvolvimento do Saneamento do Estado do Pará, investe
+recursos na ordem de US$ 35 milhões financiados pelo Banco Interamericano de Desenvolvimento - BID para a implementação da
+Primeira Etapa (ANEXO-IV) do projeto que visa melhorar a qualidade da água bruta dos mananciais, envolvendo a implantação de cerca
+de 35 quilômetros de rede coletora de esgoto no seu entorno, 6.500 novas ligações domiciliares de esgoto, 4 estações elevatórias e a
+construção de 1 Estação de Tratamento de Esgoto, beneficiando cerca de 48.000 pessoas dos bairros do Marco, Curió-Utinga, Souza e
+Castanheira (referentes as Sub-bacias hidrográficas 5.1-1 e 5.1-2), no entanto apesar dos esforços, cerca de 70.000 pessoas dos bairros
+da Guanabara, Águas Lindas e Aurá (inseridas nas Sub-bacias hidrográficas 5.1-3 e 5.1-4) ainda encontram-se desassistidas perdurando
+com os problemas de contaminação dos mananciais.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+- SOLUÇÃO PROPOSTA:
+
+a. Implantar 120km de redes coletoras de esgoto, 31.000 ligações prediais e intradomiciliares nos bairros Curió-Utinga (2.000 ligações),
+Guanabara (9.500 ligações), Águas Lindas e Aurá (20.000 ligações) (ANEXO V), adjacentes ao PEUt e não contemplados no PRODESAN
+-PA, contemplando uma população estimada de 70.000 pessoas;
+
+b. Ampliar 2 módulos de tratamento da ETE Mártir, considerando a ampliação do sistema coletor, proposto nessa nova etapa;
+
+c. Implantar uma Usina de Reaproveitamento Energético do Lodo da Estação de Tratamento de Esgoto (ANEXO VI), utilizando novas
+práticas de reaproveitamento energético por meio da biodigestão anaeróbia do lodo combinada com Resíduos Sólidos Urbanos (RSU) e
+material orgânico proveniente da limpeza dos lagos (macrófitas). A usina deverá ser implantada em área de uso da COSANPA, no interior
+do Parque Estadual do Utinga, com aproximadamente 8.000m², anexa a subestação elétrica da ETA Bolonha;
+
+d. Dragar área central do lago Água Preta e área próxima à bacia de descarga da captação do Rio Guamá, onde conforme estudos, estão
+registrados maiores volumes de materiais sedimentados provenientes da captação;
+
+e. Remover massa vegetal de plantas aquáticas flutuantes do Lago Bolonha;
+
+
+Página: 3
+
+f. Requalificar o Laboratório de Análise de Águas da COSANPA, instrumentando e capacitando servidores a realizar ensaios de
+caracterização físico-química e biológicas conforme Portaria nº 2914/11 do Ministério da Saúde, que regulamenta o controle da qualidade
+da água;
+
+g. Implementar o Programa de Gestão e Monitoramento da Qualidade das Águas, que criará pontos de controles dos parâmetros da água
+bruta dos mananciais e ao longo da rede de distribuição (ANEXO X);
+
+h. Implementar o Programa de Educação Ambiental na população beneficiária do projeto;
+
+i. Implementar um Programa em Controle de Perdas em 2 setores piloto do Sistema de Distribuição de Água tratada da COSANPA
+utilizando tecnologia de "Saneamento 4.0";
+
+j. Implementar o Programa de Educação em temas de Gênero e Sexualidade, mobilizando a comunidade beneficiária do projeto;
+
+RESULTADOS ESPERADOS:
+
+a. Promover melhoria da infraestrutura nos bairros Curió-Utinga (parte), Guanabara, Águas Lindas e Aurá e a valorização dos seus
+espaços urbanos, áreas de baixa renda e de assentamentos informais onde as minorias sociais são mais prevalentes;
+
+b. Diminuir o impacto visual e incidências de maus odores em áreas antropizadas desses bairros desprovidas de rede de coleta de esgoto.
+
+c. Atender aos padrões de lançamento de efluentes estabelecidos na legislação, reduzindo impactos sobre o meio receptor a fim de
+preservar recursos hídricos.
+
+d. Reduzir o aparecimento de vetores causadores de doenças, aumentando a qualidade geral de vida e de saúde pública e a qualidade
+ambiental urbana da população beneficiária;
+
+e. Proporcionar melhor qualidade de água bruta nos mananciais, reduzindo o custo de produção de água tratada e garantindo a segurança
+hídrica da área de intervenção;
+
+f. Reduzir custos operacionais no processo de tratamento de efluentes;
+
+g. Reduzir impactos ambientais causados pelo descarte do lodo gerado no processo de tratamento de efluentes;
+
+h. Conservação e manejo da biodiversidade e de recursos florestais a partir de ações de saneamento que trarão benefícios diretos a essas
+áreas;
+
+i. Redução do teor de oxigênio dissolvido pela decomposição bioquímica do material orgânico (macrófitas).
+
+j. Restabelecer a condição inicial do lago Água Preta, evitando a subdivisão do lago e futuramente riscos de racionamentos e
+desabastecimento de água a população.
+
+k. Permitir com que a COSANPA adote um plano de contingência, a partir do monitoramento proposto, caso seja identificado algum desvio
+em relação aos padrões de referência para a qualidade da água;
+
+l. Auxiliar a população beneficiária dos bairros Guanabara, Águas Lindas, Aurá e Curió-Utinga no conhecimento da importância social,
+econômica e ambiental do sistema de esgotamento sanitário implantado, certificando-se de que essas campanhas sejam adaptadas para
+atingir diferentes grupos sociais, com especial atenção às minorias sociais.
+
+m. Atingir uma taxa de adesão de no mínimo 70% (22.000 ligações) da população beneficiária do Programa.
+
+n. Combinar os dados já em monitoramento pela Companhia com os novos dados obtidos em sensores a serem implantados através da
+tecnologia Internet das Coisas (IoT), realizando análises contínuas das variáveis coletadas através de análises estatísticas e inteligência
+artificial (IA).
+
+o. Desenvolver a temática em temas de Gênero e Sexualidade nos bairros de abrangência do Programa, buscando um ambiente
+comunitário democrático e livre de discriminação. Através de oficinas comunitárias pretende-se promover reflexões, desenvolvendo o
+entendimento da população a diversidade, acerca da importância de respeitar, aceitar e somar para ajudar a combater o machismo,
+sexismo, misoginia e a homofobia.
+
+- SUSTENTABILIDADE:
+
+(cid:10)
+
+(cid:10)
+
+
+Página: 4
+
+As soluções propostas pelo PRODESAN PA-LAGOS, ganham sustentabilidade combinados com as boas práticas previstas em sua
+Primeira Etapa, que prevê um incremento de receita em cerca de 23% (R$ 9 milhões/mês), com aproximadamente 1.500.000 usuários
+atendidos, de forma a suportar o custo de manutenção preventiva e corretiva dos novos investimentos no Sistema de Abastecimento de
+Água de Belém e Ananindeua. As receitas registradas no ano de 2022, considerando esses municípios, contabilizam uma arrecadação de
+R$ 39 milhões/mês, mesmo com uma taxa de inadimplência que chega próximo a 30%, face a despesas de operacionais registradas em R
+$ 18 milhões/mês.
+
+Estima-se que com a ampliação de 120 km da rede coletora de esgoto e 22.000 novas ligações proposta pelo Programa, haja um
+incremento na arrecadação de R$ 2,2 milhões/mês. Considerando que a COSANPA já aplica a terceirização da operação de Estações de
+Tratamento de Esgoto nos municípios onde tem a concessão da prestação dos serviços, e que essa prática deverá ser assumida para a
+operacionalização do novo sistema entregue, projeta-se despesas na ordem de R$ 0,8 milhões/mês para a manutenção deste novo
+contrato. Esse conceito corrobora com as novas diretrizes da COSANPA em reduzir gastos incrementais de pessoal, de operacionalização
+e de manutenção de obras e bens.
+
+Economicamente falando, outras ações do PRODESAN PA-LAGOS como a implementação do Programa de Gestão e Monitoramento da
+Qualidade das Águas, dão força à imagem da COSANPA, estimulando a ampliação do mercado e a diminuição da inadimplência.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+ORIENTAÇÕES ESTRATÉGICAS:
+
+O Programa está inserido em ações do Programa Plurianual - PPA 2020-2023 do Estado do Pará (ANEXO VII), aprovado junto à
+Assembleia Legislativa do Estado, e alinhado com as diretrizes estratégicas adotadas pelo Estado, sobretudo a do Crescimento Inteligente
+, que visa dotar o Pará de infraestrutura contribuindo para o desenvolvimento econômico e social com elevação nas condições de vida da
+população e da sociedade de direitos.
+
+Na estrutura programática do PPA, o PRODESAN PARÁ-LAGOS está previsto na área de atuação de infraestrutura, no Programa de
+Desenvolvimento Urbano - Habitação, Saneamento e Mobilidade e nas ações orçamentárias Realização de Obras de Abastecimento de
+Água e Realização de Obras de Esgotamento Sanitário nas Regiões de Integração. O Governo do Estado assumiu o compromisso
+regional - que são os investimentos estruturantes prioritários - que irão agregar valor ao conjunto de serviços já colocado à sociedade.
+
+O PRODESAN PARÁ-LAGOS está em plena concordância com a lei 14.026 promulgada neste ano de 2020, e que definiu o novo marco
+legal do saneamento básico no Brasil e que entrou em vigor em 16/07/2020, contribuindo para o atingimento de metas de até em 2033
+alcançar em 90% a disponibilidade dos serviços de coleta e tratamento de esgoto.
+
+CONTRAPARTIDA:
+
+Informa-se que a contrapartida financeira (CF) indicada para o Projeto Prodesan está em plena conformidade com a Resolução COFIEX
+no 3, de 29 de maio de 2019, quanto:
+
+- Ao disposto no Art. 2o da Resolução, ao prever valores de aporte do Tesouro Estadual, a título de contrapartida financeira, de 20,00% do
+valor global do projeto a ser financiado.
+
+- Ao disposto no Parágrafo 1o da Resolução, relativo à origem da contrapartida, informando que a mesma será proveniente de receitas
+tributárias do Estado do Pará previstas nos artigos 155, 157 e 159, inciso I, (a), da Constituição Federal.
+
+Ratifica-se que a contrapartida será financeira e não será apresentado, como item de contrapartida ou produto, terreno de propriedade do
+proponente, dentro dos componentes do Projeto.
+
+Registre-se que o Estado pretende assegurar o aporte de sua contrapartida para o projeto de investimento, inicialmente, por meio de
+inclusão de fonte de recursos orçamentários adequada, prevista no Orçamento de Investimento das Empresas que deverá constar no
+Projeto de Lei Orçamentária (PLOA), para o ano de 2024.
+
+TAXA DE CÂMBIO:
+
+Foi considerada a moeda do financiamento o DÓLAR DOS EUA e a taxa de câmbio de R$ 5,0593, em relação ao REAL, com a data de
+cotação de 30/05/2023, para fins de cômputo dos valores do financiamento e da contrapartida financeira do Estado para o Projeto. Informa
+-se que a referência utilizada para a taxa de câmbio sugerida foi a Cotação de Fechamento Ptax do DOLAR DOS EUA em Real para
+Venda, divulgada pelo Banco Central do Brasil para o referido dia.
+
+2. Projeto
+
+### 2.1. Título
+
+
+Projeto de Desenvolvimento de Saneamento do Pará - Etapa Lagos - PRODESAN PARÁ-LAGOS
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+
+### 2.2. Título Abreviado
+
+
+PRODESAN PARÁ-LAGOS
+
+
+### 2.3. Mutuário
+
+
+Estado do Pará
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Objetivo Geral:
+
+O objetivo geral do PRODESAN PARÁ-LAGOS é salvaguardar as microbacias urbanas e áreas de recarga dos mananciais responsáveis
+pelo abastecimento de água do Sistema Integrado de abastecimento público da Região Metropolitana de Belém operados pela COSANPA,
+por meio de ações que visem a melhoria da gestão, monitoramento, qualidade e quantidade das águas, favorecendo a disponibilidade dos
+recursos hídricos e sua sustentabilidade ambiental, econômica e social.
+
+Objetivos Específicos:
+
+-  Aumentar a abrangência do sistema de esgotamento sanitário na área de atuação do Programa;
+
+- Alcançar uma taxa de adesão de no mínimo 50.000 pessoas moradoras dos bairros da Guanabara, Águas Lindas, Aurá e Curió-Utinga
+interligadas a nova rede coletora de esgoto.
+
+- Aumento de pontos de monitoramento e coleta para a análise de água nos sistemas de distribuição na Zona Central e Lagos Bolonha e
+Água Preta.
+
+- Reduzir em, no mínimo, 30% o índice de perdas de água tratada em 2 setores piloto de abastecimento pertencentes as Unidade de
+Negócio da Zona Central do município de Belém, UN-Sul (2º Setor) e UN-Norte (5° Setor).
+
+- Reduzir o volume médio de macrófitas retirado em operações mensais de limpeza dos lagos em 40%, reduzindo custos de manutenção.
+
+- Reutilizar 95% o volume de lodo produzido na ETE Mártir, cujo destino seria o descarte em aterros sanitários.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+
+
+Descrição
+Índice da População das Sub-bacias 5.1-1, 5.1-2
+, 5.1-3 e 5.1-4 atendida com Infraestrutura
+Sanitária.   Linha de Base: 2023   Meta: Ano
+
+Índice de Adesão ao Sistema de Esgotamento
+Sanitário Sub-bacia 5.1-3 e 5.1-4.   Linha de
+Base: 2024   Meta: Ano 2026
+
+Pontos de Monitoramento da Qualidade da Água
+(Zona Central).  Linha de Base: 2024   Meta:
+Ano 2028
+
+Índice de Perdas do 2º Setor de Distribuição.
+Linha de Base: 2024   Meta: Ano 2028
+
+Índice de Perdas do 5º Setor de Distribuição.
+Linha de Base: 2024   Meta: Ano 2028
+
+Redução Volume médio de macrófitas retiradas
+em Operações de Limpeza dos Lagos.   Linha de
+Base: 2024   Meta: Ano 2027
+
+Redução de Lodo Descartado em Aterro
+Sanitário - ETE Mártir.   Linha de Base: 2024
+Meta: Ano 2027
+
+Percentual
+
+Percentual
+
+Percentual
+
+Fórmula de Cálculo Unidade de Medida
+Somatório da
+População com
+Esgoto Ligado à Rede
+Coletora Sub-bacias
+5.1-1, 5.1-2, 5.1-3 e 5.
+1-4 / População Sub-
+bacias 5.1-1, 5.1-2, 5.
+1-3 e 5.1-4) x100
+Somatório da
+População com
+Esgoto Ligado à Rede
+Coletora Sub-bacias
+5.1-3, 5.1-4 /
+População Sub-bacias
+5.1-3 e 5.1-4) x100
+Somatório de Pontos
+de Coleta de Análise
+na Zona Central/Meta
+de 60 pontos de
+Coleta na Zona
+Central) x100
+(Vazão de Perda do
+2º Setor/Vazão Total
+Distribuída do 2º Setor
+) x100
+(Vazão de Perda do
+5º Setor/Vazão Total
+Distribuída do 5º Setor
+) x100
+Volume médio de
+macrófitas retiradas
+por mês x (1-
+Percentual de
+Redução)
+Volume Total Lodo
+Gerado ETE Mártir x (
+1- Percentual de
+Redução)
+
+Percentual
+
+Percentual
+
+m³/mês
+
+m³
+
+
+Página: 6
+
+Meta
+65,90
+
+Linha de Base
+24,41
+
+0,00
+
+70,00
+
+5,00
+
+85,00
+
+40,00
+
+28,00
+
+40,00
+
+28,00
+
+18.000,00
+
+10.800,00
+
+600,00
+
+30,00
+
+
+### 2.7. Projeto/Componentes
+
+
+Componentes
+C - INFRAESTRUTURA URBANA - SANEAMENTO
+P - Redes Coletoras de Esgoto
+P - Ligações Domiciliares e Intradomiciliares
+P - Coletor Tronco
+P - Estações Elevatórias
+P - Linhas de Recalque
+P - Ampliação ETE Mártir
+C - REQUALIFICAÇÃO AMBIENTAL
+P - Estudos e Planos Ambientais
+P - Intervenções nos Lagos Água Preta e Bolonha
+P - Programa de Gestão e Monitoramento da Qualidade das Águas
+P - Programa de Educação Ambiental
+C - FORTALECIMENTO INSTITUCIONAL INOVAÇÃO E GÊNERO
+P - Requalificação Laboratório Análise de Águas
+P - Programa de Reaproveitamento Energético do Lodo da ETE Mártir
+P - Programa de Controle de Perdas em Sistemas de Abastecimento de Água utilizando tecnologia de
+"Saneamento 4.0"
+P - Programa de Educação em temas de Gênero e Sexualidade
+C - ADMINISTRAÇÃO, AUDITORIA E AVALIAÇÃO DO PROGRAMA
+P - Gestão do Contrato
+P - Monitoramento e Avaliação do Programa
+P - Auditorias Externas
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Valor(US$)
+97.400.000,00
+25.000.000,00
+30.000.000,00
+4.000.000,00
+5.800.000,00
+1.600.000,00
+31.000.000,00
+6.500.000,00
+500.000,00
+5.000.000,00
+550.000,00
+450.000,00
+16.600.000,00
+1.500.000,00
+4.000.000,00
+11.000.000,00
+
+100.000,00
+4.500.000,00
+4.000.000,00
+200.000,00
+300.000,00
+125.000.000,00
+
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+
+Página: 7
+
+C - INFRAESTRUTURA URBANA - SANEAMENTO
+Compreende todas as ações necessárias para implantar as redes de coleta e tratamento de esgoto nos bairros da Guanabara,
+Águas Lindas e Aurá, inseridas nas Sub-bacias hidrográficas 5.1-3 e 5.1-4 da Bacia do Murucutu, cuja importância está vinculada a
+relevância dos mananciais presentes na bacia, pois os Lagos Bolonha com 1.954.000 metros cúbicos e Água Preta com 9.905.000
+metros cúbicos, são responsáveis por cerca de 70% abastecimento de água da Região Metropolitana de Belém.
+
+P - Redes Coletoras de Esgoto
+Este componente financiará a implantação de um total aproximado de 120 quilômetros de rede coletora de esgoto distribuídas nos
+bairros da Guanabara (36 quilômetros), Águas Lindas/Aurá (78 quilômetros), e parte do Curió-Utinga (10 quilômetros). A rede
+coletora possuirá DN variável de 150mm a 400mm em PVC, PVC DeFoFo e concreto e foi concebida implantada numa
+profundidade mínima de 0,90 metros.
+
+P - Ligações Domiciliares e Intradomiciliares
+Este componente financiará a conexão dos esgotos de 31.000 imóveis cadastrados a rede coletora. Compõe um conjunto de tubos
+, peças, conexões e dispositivos dispostos entre o alinhamento predial e o interior da edificação, que serão financiados pelo
+programa, garantindo o benefício da infraestrutura sanitária a famílias de baixa renda que não possuem recursos para adquirir o
+material necessário para sua execução, inclusive a remuneração da mão-de-obra. Estima-se cerca de 9.500 ligações no bairro da
+Guanabara, 20.000 ligações no bairro das Águas Lindas/Aurá e 2.000 ligações no bairro do Curió-Utinga.
+
+P - Coletor Tronco
+Este componente financiará a implantação de um total de 4.500 quilômetros de tubulação com DN variável de 500mm a 600mm
+em concreto, que farão a condução do esgoto coletado das redes, ora para elevatórias ora para os interceptores.
+
+P - Estações Elevatórias
+Este componente financiará a implantação de um total 10 estações elevatórias ao longo do caminhamento do sistema de
+transporte de esgoto até o ponto de conexão com a primeira etapa do Programa. 3 estações elevatórias na Sub-bacia hidrográficas
+5.1-3 (bairros da Guanabara e Águas Lindas) e 7 estações elevatórias na Sub-bacia hidrográfica 5.1-4 (bairros Águas Lindas e
+Aurá). Duas elevatórias de esgoto bruto serão de grande porte, com vazão média de 89,46 l/s e 101,10 l/s, equipadas bombas
+submersíveis de 60CV e 12CV cada, com sistema de gradeamento para retenção sólidos em suspensão e/ou cesto inox.
+
+P - Linhas de Recalque
+Este componente financiará a implantação de 2,5 quilômetros de extensão de tubulação em FoFo com DN variável 200mm a 500
+mm, que fará a conexão das 10 estações elevatórias de esgoto das Sub-bacia hidrográficas 5.1-3 (bairros da Guanabara e Águas
+Lindas) e 5.1-4 (bairros Águas Lindas e Aurá) a ETE Mártir, implantada na primeira etapa do Programa.
+
+P - Ampliação ETE Mártir
+Este componente financiará a implantação de 02 unidades de tratamento a ETE Mártir com capacidade de igual a 135,00 L/s cada.
+Cada unidade refere-se tanto a estrutura civil como os equipamentos para compor as seguintes etapas de tratamento: Reator
+UASB e Tanque de Stripping, Tanque de Aeração, Decantador Secundário, Elevatória de Recirculação de Lodo, Tanque e Casa de
+Dosadores, Queimador de Gás, Soprador do Tanque de Aeração e Grupo Gerador e Subestação da Casa de Soprador do Tanque
+de Aeração.
+
+C - REQUALIFICAÇÃO AMBIENTAL
+Compreende todas as ações preventivas e corretivas necessárias para reduzir o estado de eutrofização dos lagos Água Preta e
+Bolonha, que ocupam respectivamente áreas de 3.116.860 metros quadrados e 577.127 metros quadrados, inseridas no Parque
+Estadual do Utinga, e que são responsáveis pelo abastecimento de aproximadamente 70% da população do Município de Belém.
+
+P - Estudos e Planos Ambientais
+Este componente financiará a preparação dos Estudos de Impactos Ambientais (EIA) e do Relatório de Impacto Ambiental (RIMA),
+um diagnóstico socioeconômico e ambiental (meios físico e biótico) de toda a área que será afetada com os serviços de dragagem
+e desassoreamento dos lagos, realizará um prognóstico das consequências do empreendimento e sugerir medidas, na forma de
+pré-projetos, com o objetivo de minimizar os impactos considerados negativos e maximizar aqueles considerados positivos,
+definindo os mecanismos de compensação e mitigação dos danos previstos em decorrência da execução dos serviços.
+
+P - Intervenções nos Lagos Água Preta e Bolonha
+No Lago Água Preta financiará os serviços de dragagem para o desassoreamento do material de fundo, em uma área aproximada
+de 250.000 metros quadrados da região central do lago, onde estudos batimétricos prévios apontam zonas que chegam a 3 metros
+de material sedimentado. Estima-se um volume de material a ser retirado na ordem de 350.000 metros cúbicos. Para os serviços
+de desassoreamento serão utilizadas dragas de sucção e descarga, sendo o material dragado transportado por meio de linha de
+descarga e disposto em locais pré-determinados e autorizados, próximos as margens do lago. Antes de receber os materiais de
+desassoreamento, as áreas designadas serão preparadas com sistemas de drenagem adequados e contidas em estruturas de
+paliçada com manta de geotêxtil, até que estejam secos para serem transferidos para local de despejo autorizado por órgãos
+competentes.
+
+
+Página: 8
+
+No Lago Bolonha, financiará os serviços de remoção das macrófitas aquáticas do corpo hídrico, em uma área próxima de 580.000
+metros quadrados, a ser realizada por meio de um barco removedor e de uma escavadeira hidráulica de braço longo com concha
+vazada. Um barco será utilizado para a instalação de boias e cordas para confinar as populações de macrófitas aquáticas próximas
+a margem, impedindo a dispersão dos agrupamentos de plantas em ocasiões de mudança de vento. A massa vegetal retirada do
+lago deverá ser carregada em caminhões de 11 metros cúbicos e transferidos para local de despejo autorizado por órgãos
+competentes.
+As intervenções propostas, necessariamente, deverão ser realizadas após a conclusão dos serviços de implementação da rede
+coletora de esgoto e ampliação dos módulos de tratamento da ETE Mártir.
+
+P - Programa de Gestão e Monitoramento da Qualidade das Águas
+Este componente financiará o Programa que deverá instrumentar e capacitar técnicos da COSANPA a coletar avaliar
+trimestralmente os parâmetros físico-químicos e microbiológicos em amostras de água a serem coletadas em pontos fixos
+posicionados nas proximidades de áreas problemáticas no que tange à ocorrência de poluição hídrica nos Lagos Bolonha e Água
+Preta. Após as coletas e as análises das amostras, todos os resultados obtidos deverão ser tabulados em planilhas eletrônicas
+editáveis e arquivados em formulários próprios, criando séries históricas que futuramente possam ser analisadas a fim de
+estabelecerem-se padrões de distribuição sazonais e espaciais para indicadores bióticos e abióticos. O conhecimento destas
+variações poderá ser manipulado e utilizado para a previsão da qualidade da água durante o ano hidrológico, além de subsidiar
+parâmetros de operação dos reservatórios. Além de pontos a serem monitorados nos mananciais, a COSANPA pretende ampliar
+os pontos de monitoramento da água tratada em sua rede de distribuição, criando inicialmente 50 pontos de coleta na Zona Central
+a fim de verificar se a água está de acordo com os padrões estabelecidos e se houve variação significativa no decorrer da rede de
+distribuição.
+Atualmente a COSANPA realiza coleta e monitoramento da água bruta em apenas 3 pontos: na captação da água no Rio Guamá (
+Estação Elevatória de Água Bruta - EEAB Guamá), no Canal de Interligação entre os Lagos Água Preta e Bolonha e a montante da
+Estação de Tratamento Bolonha (EEAB Bolonha). A partir desse monitoramento, são reportados mensalmente laudos a Secretaria
+de Estado de Meio Ambiente e Sustentabilidade (SEMAS), Secretaria de Estado de Saúde do Pará (SESPA) e a Secretaria
+Municipal de Saúde (SESMA). A proposta desse Programa é de ampliar para um total de 29 pontos de monitoramento da água
+bruta nos Lagos, 19 pontos de monitoramento no Lago Água Preta e 10 pontos de monitoramento no Lago Bolonha (hoje somente
+2: Canal de Interligação e EEAB Bolonha), além de ampliar para no mínimo 50 os pontos de monitoramento da água tratada da
+rede de distribuição da Zona Central (hoje somente 3).
+
+P - Programa de Educação Ambiental
+Este componente financiará oficinas comunitárias com a população dos bairros Guanabara, Águas Lindas, Aurá e Curió-Utinga,
+cerca de 70.000 pessoas residentes nas áreas de intervenção do Programa, no sentido de proporcionar uma maior aceitação e
+adesão aos sistemas de esgotamento sanitário ou mesmo evitar possíveis problemas relacionados ao uso incorreto destes. A
+proposta da temática ambiental abordada poderá tratar de vários temas, como: problemas ambientais causados pelas intervenções
+humanas, saúde pública e ambiental, impactos ambientais causados por obras de saneamento, impactos causados pela
+integração das ações em saneamento como abastecimento de água, esgotamento sanitário, gestão e gerenciamento de resíduos
+sólidos e drenagem de águas pluviais.
+
+C - FORTALECIMENTO INSTITUCIONAL INOVAÇÃO E GÊNERO
+Compreende todas as ações necessárias financiadas pelo PRODESAN PARÁ-LAGOS para estabelecer programas, projetos e
+atividades nas áreas destinadas à promoção da aplicação de tecnologias inovadoras que contribuam para a resolução de
+problemas estratégicos do Estado e da COSANPA, além disso, financiará práticas inclusivas com vistas à promoção da igualdade
+de gênero e do respeito à diversidade.
+
+P - Requalificação Laboratório Análise de Águas
+Este componente financiará a requalificação do Laboratório de Análise de Águas da COSANPA, instrumentando e capacitando
+técnicos da COSANPA a realizar análises físico-químicas, microbiológicas e hidrobiológicas para água; análises físico-químicas e
+microbiológicas para efluentes; além de análises de alta complexidade de água e efluentes como: espectrofotometria de absorção
+atômica da água, cromatografia gasosa da água, cromatografia líquida da água, espectrofotometria de absorção atômica de
+efluentes, cromatografia gasosa de efluentes e cromatografia líquida de efluentes. A requalificação do laboratório é fundamental
+para a Implementação do Programa de Gestão e Monitoramento da Qualidade das Águas proposto pela COSANPA, nele será
+processada toda a demanda Programa. O custeio reúne as despesas com obras civis ($450.000,00), instrumentação ($825.000,00)
+e contingência ($225.000,00) ao longo de um período de implantação de dois anos.
+
+
+Página: 9
+
+P - Programa de Reaproveitamento Energético do Lodo da ETE Mártir
+Este componente financiará a implantação de uma Usina de Reaproveitamento Energético do Lodo gerado pela ETE Mártir assim
+como por outras estações de tratamentos da COSANPA, que atualmente encaminham esse material a aterros sanitários. A
+proposta da usina é ter capacidade de tratar diariamente cerca de 80 toneladas de resíduos orgânicos coletados nos bairros de
+abrangência do Programa e na Central de Abastecimento do Pará (CEASA), numa parceria com a Associação de Catadores local
+e com a Secretaria de Saneamento do Município, que misturados a um volume aproximado de 600 metros cúbicos o lodo gerado
+na ETE Mártir e de outras estações de tratamento da COSANPA, passarão por um processo de separação e homogeneização
+condicionando o substrato a serem bombeados para os biodigestores. A biodigestão anaeróbia ocorrerá em meio úmido no interior
+de dois reatores CSTR mesofílicos, e o biogás produzido encaminhado a um gasômetro de membrana dupla. Estima-se que a
+capacidade de produção da planta seja de 15.000 metros cúbicos de gás por dia, que depois de tratado pode gerar até 1,5MW de
+potência elétrica em dois grupos moto-geradores cabinados de 40 pés. O líquido pós-digerido não transformado em biogás é
+desaguado e seco, resultando em um biofertilizante orgânico de qualidade que deverá ser distribuído entre os pequenos
+produtores rurais cadastrados na Central de Abastecimento. Basicamente, o custeio reúne as despesas com obras civis ($800.000,
+00), mecânica ($1.200.000,00), elétrica e instrumentação ($600.000,00), tubulações ($200.000,00), controle ($400.000,00) e
+contingência ($800.000,00) ao longo de um período de implantação de três anos.
+Este programa não é um programa para requalificação de profissionais, trata-se de uma iniciativa do Governo do Estado em
+parceria com a COSANPA que prioriza investimentos em projetos que valorizam a economia de baixo carbono e a sustentabilidade
+. A disposição do lodo gerado pelas Estações de Tratamento de Esgoto em aterros sanitários leva à redução do tempo de vida útil
+dos aterros, demandam grandes áreas para a instalação destes espaços, além de aumentar as emissões de metano e favorecer a
+contaminação do solo e de águas subterrâneas pelo incremento na produção de chorume e, consequentemente, de sua lixiviação.
+Essa problemática serviu de incentivo aos patrocinadores a implementar novas tecnologias que tornem possível não somente o
+tratamento destes resíduos, como também seu reaproveitamento como matéria prima (biomassa) para a produção de
+biocombustíveis e energia.
+Este produto refere-se a um Programa de Inovação Tecnológica relacionado ao reaproveitamento energético do lodo gerado pela
+ETE. O Programa Gestão e Monitoramento da Qualidade das Águas refere-se a um monitoramento hídrico quali-quantitativo que
+visa fornecer subsídios para a avaliação das condições dos mananciais e da rede de distribuição para a tomada de decisões
+associada ao gerenciamento dos recursos hídricos.
+
+P - Programa de Controle de Perdas em Sistemas de Abastecimento de Água utilizando tecnologia de "Saneamento 4.
+0"
+Este componente financiará as ações necessárias para a aquisição de tecnologia e implantação de um sistema centralizado de
+monitoramento e controle de telemetria e telemedição. A proposta é de combinar os dados já em monitoramento pela COSANPA
+com os novos dados obtidos em sensores a serem implantados através da tecnologia IoT (hidrômetros com telemedição, loggers
+de ruído), para realizar análises contínuas das variáveis coletadas através de análises estatísticas e inteligência artificial (IA),
+ampliando a capacidade de pontos a serem monitorados, resultando em tempos menores para tomadas de decisões e geração
+automática de ordens de serviço, aumentando a eficiência na operação, identificação de fraudes, além de reduzir os tempos de
+reparo e consequentemente as perdas de água e custos de produção. As ações direcionadas a redução de perdas envolvem:
+reestruturação operacional, hidrometração, substituição de tubulações antigas, substituição de ramais, atualização cadastral,
+controle ativo de vazamentos e fraudes. Propõem-se qualificar tecnicamente 03 equipes internas da COSANPA (Equipe 1 atuará
+no 2º Setor com 3 DMC's, Equipe 2 atuará em 4 DMC's do 5º Setor e Equipe 3 atuará em 3 DMC's do 5º Setor), que realizarão
+atividades de identificação de fraudes e vazamentos, além da aquisição de toda a instrumentação necessária e treinamentos para
+sua atividade: 01 Georadar, 03 Geofones Eletrônicos, 02 Correlacionadores de Ruídos com unidades remotas, 290 Loggers de
+Ruído com coletores remotos, 06 Hastes de Escuta, 01 Bancada de Testes de Hidrômetros, 02 Conjuntos de Vídeo Inspeção para
+filmagem interna de tubulações de água e esgoto, 03 Detectores anti-fraude com infravermelho 8mm/5m e 03 Válvulas Pulsadoras
+digitais.
+
+P - Programa de Educação em temas de Gênero e Sexualidade
+Este componente financiará oficinas comunitárias visando à formação de uma educação para diversidade, prioritariamente
+direcionado a população afetada pelas intervenções do PRODESAN PARÁ-LAGOS em temas relacionados a gênero e
+sexualidade. A proposta da temática abordada poderá tratar de vários temas, com objetivos diversos como: desnaturalizar
+concepções de papeis entre homens e mulheres; reconhecimento de conquistas de direitos que o movimento feminista vem
+protagonizando ao longo da história; identificar mecanismos que fazem a interiorização de determinadas identidades de gênero,
+bem como, evidenciar os pilares culturais que constroem as identidades masculinas e femininas; analisar a construção da cultura
+homofóbica histórica e socialmente, identificar as atitudes hostis no ambiente comunitário numa perspectiva de fortalecer uma
+cultura não homofóbica e sexista, criar formas de reflexão sobre sexualidade e gênero, entre outros.
+Além de oficinas temáticas comunitárias, que poderão ocorrer em consonância com a mobilização do Programa de Educação
+Ambiental, o Programa poderá estender-se a escolas públicas localizadas nos bairros de abrangência do PRODESAN PARÁ-
+LAGOS e também para os funcionários da COSANPA. Os temas deverão ser trabalhados em encontros semanais, com
+aproximadamente 2 horas de duração. Poderão ser utilizadas técnicas variadas como: dinâmicas de grupo, mitos e verdades, além
+da exibição de filmes (curtas e longas). Os encontros deverão ser coordenados por uma Psicóloga, do quadro funcional da
+COSANPA, para facilitar as discussões e debates.
+
+C - ADMINISTRAÇÃO, AUDITORIA E AVALIAÇÃO DO PROGRAMA
+Compreende a contratação de empresas especializadas, com o objetivo de prover à UGP (Unidade de Gestão do Programa) na
+execução do PRODESAN PARÁ-LAGOS o apoio devido e necessário, gerencial e técnico quando couber, de acordo com a
+natureza das ações previstas em cada componente.
+
+
+Página: 10
+
+P - Gestão do Contrato
+Financiará a contratação de 01 Empresa Especializada pelo período de 60 (sessenta) meses, para dar apoio a estrutura da UGP,
+desempenhando as funções de Gerenciadora e Supervisora do Programa. Quanto Gerenciadora, compreenderá a administração
+das ações e atividades relacionadas ao planejamento e à execução do PRODESAN PARÁ-LAGOS. Realizará o alinhamento
+contínuo da estratégia do Programa, o que inclui a determinação da melhor abordagem para atingir os objetivos propostos e não
+afetar as metas, a busca de soluções para os problemas, e a gestão de mudanças, entre outros aspectos. Quanto Supervisora,
+acompanhará o controle da qualidade dos serviços executados, incluindo a análise preliminar dos projetos, a supervisão técnica da
+execução, suporte técnico e de qualidade do material utilizado, além das indicações de mudanças nas situações locais e eventuais
+alterações necessárias, conforme a conveniência técnica e conceitual da intervenção.
+
+P - Monitoramento e Avaliação do Programa
+Financiará a contratação de 01 Equipe Técnica Especializada para detectar os fatores que facilitam ou impedem o alcance dos
+resultados esperados, de acordo com a projeção de atividades e metas pré-estabelecidos. A consultoria preparará em 2 momentos
+do Programa, no seu prazo intermediário e ao seu final, uma avaliação dos avanços e resultados do programa tendo em conta os
+principais aspectos técnicos, econômicos e financeiros antes e após sua implementação, para determinar como se desenvolveu a
+execução do mesmo até a presente data. Adicionalmente, a consultoria deverá analisar o progresso de cada um dos componentes
+do programa e, quando necessário, realizará visitas às obras físicas já terminadas para verificar seu uso adequado e
+funcionamento.
+
+P - Auditorias Externas
+Financiará a contratação de 01 Empresa Especializada em auditoria externa, que realizará 05 avaliações, compreendendo 01
+avaliação para cada ano de Programa, realizada por auditores homologados e contratados com a finalidade de realizar o
+acompanhamento físico-financeiro, atestando se as atividades desenvolvidas pelas contratadas e pelo Estado estão de acordo
+com as disposições legais estabelecidas.
+
+Categoria de Gasto
+
+Obras
+P- Redes Coletoras de Esgoto
+P- Ligações Domiciliares e Intradomiciliares
+P- Coletor Tronco
+P- Estações Elevatórias
+P- Linhas de Recalque
+P- Ampliação ETE Mártir
+P- Intervenções nos Lagos Água Preta e Bolonha
+P- Requalificação Laboratório Análise de Águas
+P- Programa de Reaproveitamento Energético do
+Lodo da ETE Mártir
+Bens
+P- Programa de Controle de Perdas em Sistemas
+de Abastecimento de Água utilizando tecnologia
+de "Saneamento 4.0"
+Consultoria
+P- Estudos e Planos Ambientais
+P- Gestão do Contrato
+P- Monitoramento e Avaliação do Programa
+P- Auditorias Externas
+Serviços que Não de Consultoria
+P- Programa de Gestão e Monitoramento da
+Qualidade das Águas
+Capacitação e Treinamento
+P- Programa de Educação Ambiental
+P- Programa de Educação em temas de Gênero e
+Sexualidade
+Total Geral
+
+Unidade de medida
+-
+km
+ligações
+km
+Estações
+km
+und. de tratamento
+m2
+unidade
+unidade
+
+Meta
+
+-
+120,00
+31.000,00
+4.500,00
+10,00
+2,50
+2,00
+2.500,00
+1,00
+1,00
+
+-
+unidade
+
+-
+unidade
+unidade
+unidade
+unidade
+-
+unidade
+
+-
+unidade
+unidade
+
+-
+
+-
+1,00
+
+-
+3,00
+1,00
+1,00
+1,00
+-
+1,00
+
+-
+1,00
+1,00
+
+-
+
+Valor
+
+% Financeiro
+
+107.900.000,00
+25.000.000,00
+30.000.000,00
+4.000.000,00
+5.800.000,00
+1.600.000,00
+31.000.000,00
+5.000.000,00
+1.500.000,00
+4.000.000,00
+
+11.000.000,00
+11.000.000,00
+
+5.000.000,00
+500.000,00
+4.000.000,00
+200.000,00
+300.000,00
+550.000,00
+550.000,00
+
+550.000,00
+450.000,00
+100.000,00
+
+86,32
+20,00
+24,00
+3,20
+4,64
+1,28
+24,80
+4,00
+1,20
+3,20
+
+8,80
+8,80
+
+4,00
+0,40
+3,20
+0,16
+0,24
+0,44
+0,44
+
+0,44
+0,36
+0,08
+
+125.000.000,00
+
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+O Programa que implementa a rede de coleta e Tratamento de Esgoto nos bairros inseridos dentro das Sub-bacias hidrográficas 5.1-1 e 5.
+1-2, denominado PRODESAN-PA já possui recursos garantidos por meio de uma Operação de Crédito do Governo do Estado do Pará
+junto ao BID (BR-L 1574), efetivamente iniciada em janeiro de 2023.
+
+A segunda etapa, que fecha o cinturão sanitário no entorno dos mananciais e que contempla os bairros inseridos nas Sub-bacias
+hidrográficas 5.1-3 e 5.1-4, denominada PRODESAN PARÁ-LAGOS atualmente encontra-se:
+
+- Projetos Básicos para a implantação do Sistema de Coleta de Tratamento de Esgoto e ampliação da ETE Mártir concluídos.
+
+(cid:10)
+
+
+Página: 11
+
+- Licença Prévia N. 817/2014 que aprova sua localização e concepção, atestando a viabilidade ambiental e estabelecendo os requisitos
+básicos e condicionantes a serem atendidos nas fases seguintes de sua implantação, emitida pela Secretaria Estadual de Meio Ambiente
+do Pará (SEMAS PA).
+
+- A Unidade de Gestão do Programa encontra-se constituída, é formada por 07 servidores da COSANPA e atua na implementação do
+PRODESAN-PA.
+
+Etapas em preparação, deverão ser concretizadas após a garantia dos recursos para execução do Programa: Lei Autorizativa para
+captação de recursos externos com garantia soberana da União; Termo de Transferência de Recursos entre Governo do Estado (Mutuário
+) e COSANPA (Órgão Executor); Termo de Anuência do Municípios da RMB onde as ações do Programa estão inseridas.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Sem detalhes
+
+Estado do Pará ()
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+NECESSIDADE DE FINANCIAMENTO EXTERNO E A OPÇÃO PELO AGENTE FINANCEIRO
+
+Ao iniciar o estudo da situação de diagnóstico estratégico do Estado do Pará, com o levantamento de dados, tais como os indicadores
+sociais, econômicos, de infraestrutura e de saneamento básico do Estado como um todo e de cada uma das 12 Regiões de Integração
+que o compõem , identificou-se a necessidade de recursos superiores aos projetados na fonte do Tesouro Estadual, para aporte nos
+investimentos que estão programados no Plano Plurianual do Estado - PPA, para o quadriênio 2020-2023, aprovado pela Assembleia
+Legislativa do Estado do Pará e sancionado pelo atual Governo.
+
+Não obstante a significativa taxa de juros praticada pelos agentes financeiros nacionais, o financiamento oriundo de fonte externa ainda
+consiste em um instrumento de custo bem menor que os de origem de fontes de recursos internas, o qual, ademais, viabiliza apoio mais
+célere à realização de investimentos dos entes subnacionais para aplicação em políticas públicas, necessários à melhoria do acesso a
+serviços públicos de qualidade, indispensáveis para garantir o atendimento universal em saneamento básico, mormente em termos de
+universalização dos serviços de abastecimento de água e de coleta e tratamento de esgoto, considerando principalmente a situação atual
+diagnosticada neste eixo no Pará, razão porque o Estado sozinho, fundamentalmente, não tem capacidade financeira de arcar,
+considerando que os investimentos necessários extrapolam em muito os recursos ordinários previstos para a área no orçamento geral do
+estado para este exercício.
+
+Ademais, em consequência da situação atual totalmente atípica vivenciada no país, trazida pela pandemia do Covid-19, com
+consequências diretas e profundas na saúde pública e com reflexo indireto na necessidade de implementação de maiores medidas no
+Saneamento Básico, e ato consequente impactando na economia de todos os entes, é esperado um aprofundamento na crise fiscal do
+país e de todos os estados, de tal maneira que um financiamento externo pode não só fortalecer os sistemas e políticas de saneamento do
+Estado e oferecer uma resposta de retomada do desenvolvimento à fase pós-pandemia, bem como se constituir em um instrumento
+mitigador para esse desequilíbrio econômico e fiscal que se vislumbra.
+
+Desta forma, objetivando a viabilização do projeto, o Estado identificou quatro opções de fontes de recursos externas, tendo como base as
+propostas identificadas no item abaixo, de condições financeiras de organismos financeiros no âmbito externo, considerando ser o Pará
+um dos poucos entes subnacionais que possui nota de capacidade de pagamento, classificada como rating "A", que permite que o Estado
+esteja elegível a receber a garantia da União para novos empréstimos, bem como, paralelamente, possui saldo de espaço fiscal para
+pleitear a aprovação de empréstimo perante o Governo Federal.
+
+O valor proposto do financiamento é de USD 100 milhões, com contrapartida financeira do Estado de USD 25 milhões, totalizando o custo
+total do projeto em USD 125 milhões.
+
+Após a análise financeira, com base nas condições financeiras elencadas no subitem a seguir, o Estado deliberou por escolher a
+modalidade de cofinanciamento entre os bancos FONPLATA e NDB para custear o Programa.
+
+O Fundo Financeiro para Desenvolvimento da Bacia do Prata - FONPLATA, mesmo com taxas levemente acima, não considera-se a
+diferença suficiente como único critério para optar por outras possíveis fontes que, eventualmente, ainda tendo condições financeiras
+levemente mais favoráveis, apresentam e exigem requerimentos que poderiam estender exageradamente aos tempos de preparação e
+execução do Programa, pois demandariam gastos de recursos e tempos adicionais para o cumprimento de suas normas de aquisições,
+sociais e ambientais, bem mais complexas. Cabe ressaltar que o FONPLATA oferece aos mutuários uma taxa preferencial denominada
+Linha de Apoio à Reativação Econômica (para mitigação dos efeitos da pandemia), aplicada automaticamente à metade do valor do
+empréstimo, bem como adicionalmente oferece a modalidade Linha de Financiamento Verde para intervenções do Programa declaradas
+elegíveis pelo Banco, que reduzem a taxa de juros aplicável de 2,6% para 2,1%. Esta redução traz um impacto muito positivo, levando a
+taxa do FONPLATA a ficar muito próxima às dos demais organismos financiadores externos. O FONPLATA adota como política de
+aquisições/ contratações, normativas estabelecidas no seu Caderno de "Política para Aquisição de Bens, Obras e Serviços em Operações
+Financiadas pelo FONPLATA - Resolução RD nº 1394/2017.
+
+Quanto às políticas de salvaguarda, o NDB adota como política de aquisições/contratações os sistemas nacionais, isto é, a legislação
+brasileira aplicável (Lei nº 8.666/93 e Lei nº 14.133/21), na qual o Estado do Pará tem grande experiência adquirida com outras operações
+de crédito em fase de execução pelo Banco.
+
+(cid:10)
+
+
+Página: 12
+
+O Banco promove também o uso dos sistemas nacionais na implementação de padrões sociais e ambientais; exceção feita a questões
+relacionadas a reassentamento em que há distinção quanto à reconstituição dos meios de vida, dentre outros (que não se aplica ao
+Programa). O Banco informou ao Governo do Estado de que durante a preparação e avaliação do Programa, a equipe de especialistas do
+NDB avaliará a capacidade de implementação do mutuário e da entidade executora, além dos impactos socioambientais do mesmo e
+proporá um Plano de Gestão de Impactos Sociais e Ambientais e eventuais medidas de mitigação adequadas, portanto, cumpre-se
+destacar Estado tem pleno conhecimento das políticas de aquisição e socioambientais do NDB.
+
+As condições apresentadas foram decisivas para o Estado optar pela modalidade de cofinanciamento.
+
+CONDIÇÕES FINANCEIRAS:
+
+Quatro bancos multilaterais consultados apresentaram as seguintes propostas de condições financeiras, resultando na opção do Estado
+utilizar no apoio financeiro à execução do projeto a fonte de recursos do cofinanciamento FONPLATA e NDB, por apresentar taxas
+atrativas de juros e de demais encargos, bem como oferecer custo efetivo total (CET) equivalente aos demais proponentes ao Estado para
+a amortização do empréstimo:
+
+Agente Financiador: FONPLATA
+
+Prazo de Carência: 48 meses
+
+Prazo de Desembolso: 60 meses
+
+Prazo de Amortização: 132 meses (o empréstimo é amortizado mediante o pagamento de até 22 (vinte) parcelas semestrais, consecutivas
+e preferencialmente iguais, acrescidas dos juros no vencimento de cada uma das parcelas);
+
+Prazo Total do Financiamento: 180 meses
+
+Taxa de Juros: para os financiamentos com prazos de 15 anos a taxa é de aproximadamente 2,1% a 2,6% somados a SOFR 180 dias.
+
+Demais Encargos e Comissões: Comissão de compromisso de 0,35% a.a. sobre o saldo não desembolsado do empréstimo, aplicado seis
+meses após a assinatura do contrato; comissão de Administração (depende do tempo requerido para a assinatura do Contrato de
+Empréstimo após da aprovação da Diretoria do FONPLATA): 0,55% (até 360 dias) e 0,70% (entre 361 a 720 dias), calculado sobre o
+montante total do empréstimo, a ser pago até a data do primeiro desembolso.
+
+Cabe ressaltar que o FONPLATA oferece aos mutuários uma taxa preferencial denominada Linha de Apoio à Reativação Econômica (para
+mitigação dos efeitos da pandemia), aplicada automaticamente à metade do valor do empréstimo, bem como adicionalmente oferece a
+modalidade Linha de Financiamento Verde para intervenções do Programa declaradas elegíveis pelo Banco, que reduzem a taxa de juros
+aplicável de 2,6% para 2,1%. Esta redução traz um impacto muito positivo, levando a taxa do FONPLATA a ficar muito próxima às dos
+demais organismos financiadores externos.
+
+Agente Financiador: NDB
+
+Prazo de Carência: 60 meses
+
+Prazo de Desembolso: 72 meses
+
+Prazo de Amortização: 156 meses (semestrais)
+
+Prazo Total do Financiamento: 216 meses
+
+Taxa de Juros: SOFR + spread a ser definido na assinatura do contrato
+
+Demais Encargos e Comissões: Comissão Inicial de 0,25% sobre valor do empréstimo;
+
+Comissão de compromisso sobre saldo não desembolsado, no caso do Estado do Pará, considerando-se o Prazo de Desembolso de 6
+anos, se estabelece os seguintes marcos de aplicação da política:
+
+(a) 12 (doze) meses após a assinatura do contrato de empréstimo, 15% (quinze por cento) do valor do empréstimo - a taxa de
+compromisso será aplicada sobre a diferença entre 15% do valor do empréstimo e o saldo desembolsado se a diferença for maior que 0 (
+zero); caso contrário, a taxa de compromisso será nula.
+
+(b) 24 (vinte e quatro) meses após a assinatura do contrato de empréstimo, 45% (quarenta e cinco por cento) do valor do empréstimo - a
+taxa de compromisso será aplicada sobre a diferença entre 45% do valor do empréstimo e o saldo desembolsado se a diferença for maior
+que 0 (zero); caso contrário, a taxa de compromisso será nula;
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 13
+
+(c) 36 (trinta e seis) meses após a assinatura do contrato de empréstimo, sobre 85% (oitenta e cinco por cento) do valor do empréstimo - a
+taxa de compromisso será aplicada sobre a diferença entre 85% do valor do empréstimo e o saldo desembolsado se a diferença for maior
+que 0 (zero); caso contrário, a taxa de compromisso será nula;
+
+(d) 48 (quarenta e oito) meses após a assinatura do contrato de empréstimo, sobre 100% (cem por cento) do valor do empréstimo - a taxa
+de compromisso será aplicada sobre a diferença entre 100% do valor do empréstimo e o saldo desembolsado se a diferença for maior que
+0 (zero); caso contrário, a taxa de compromisso será nula; e
+
+(e) 60 (sessenta) meses e depois disso, a taxa de compromisso será aplicada sobre o valor total não desembolsado do contrato de
+empréstimo.
+
+Agente Financiador: CAF
+
+Prazo de Carência: 60 meses
+
+Prazo de Desembolso: 72 meses
+
+Prazo de Amortização: 156 meses
+
+Prazo Total do Financiamento: 216 meses
+
+Taxa de Juros: SOFR semestral + 2,00% a.a
+
+Demais Encargos e Comissões: Comissão de compromisso de 0,35% e Comissão de financiamento de 0,85%
+
+Agente Financiador: Banco Mundial
+
+Prazo de Carência: 60 meses
+
+Prazo de Desembolso: 72 meses
+
+Prazo de Amortização: 156 meses
+
+Prazo Total do Financiamento: 216 meses
+
+Taxa de Juros: SOFR semestral + 1,37%
+
+Demais Encargos e Comissões: Comissão Inicial de 0,25% sobre valor do empréstimo, Comissão de compromisso de 0,25% sobre saldo
+não desembolsado; Sobretaxa de 0,5% pode ser aplicada caso o país ultrapasse o "single borrower limit".
+
+2.11. PROJETO/BENEFICIÁRIO
+
+Diretamente o PRODESAN PARÁ-LAGOS beneficia uma população de 70.000 pessoas dos bairros da Guanabara, Águas Lindas, Aurá e
+parte do Curió-Utinga. Indiretamente, com as ações preventivas nos mananciais, 900.000 usuários do Sistema Integrado de Produção e
+Distribuição serão beneficiados.
+
+Áreas Estratégicas e Impactos do Projeto
+
+As intervenções previstas abrangem os seguintes itens de avaliação dispostos na Resolução nª 17, de 07 de junho de 2021 da COFIEX:
+
+Item "1.1 promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação":
+
+- Implantar redes coletoras de esgotamento sanitário, diminui o uso de fossas sépticas e valas a céu aberto onde usualmente os resíduos
+produzidos são direcionados. Conectar-se ao sistema público de esgotamento sanitário reduz o risco de contaminação dos solos, das
+águas superficiais e subterrâneas, corroborando com o conceito de sustentabilidade hídrico-ambiental relacionado a oferta de água de
+qualidade, livre de poluição e suficiente para o atendimento das necessidades humanas, sociais e produtivas. A solução de
+reaproveitamento energético do lodo gerado pela ETE, mitiga a discussão quanto a emissão de gás metano (CH4) e outros gases gerados
+no processo de tratamento dos efluentes que ocorre na ETE, que podem acelerar as alterações do clima localmente, uma vez que o
+metano tem um impacto 20 vezes maior que o CO2 na atmosfera, contribuindo com a elevação dos riscos de aumento na temperatura.
+
+Item "1.2 eficiência energética, geração e/ou uso de energia de fontes renováveis":
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 14
+
+- Implantar uma Usina de Reaproveitamento Energético do Lodo da Estação de Tratamento de Esgoto, suprindo a demanda energética
+necessária para a operação da ETE.
+
+Item "1.3 implantação e/ou ampliação de ações de saneamento básico":
+
+- Implantar cerca de 120 quilômetros de rede de coleta para o tratamento do esgoto nos bairros da Guanabara, Águas Lindas, Aurá e parte
+do Curió-Utinga.
+
+Item "1.4 gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes":
+
+- A Requalificação do Laboratório de Análise de Águas em conjunto com a implementação do Programa de Gestão e Monitoramento da
+Qualidade das Águas combinam estratégias da COSANPA relacionadas a Gestão de Recursos Hídricos. Ações de limpeza nos lagos (
+retirada de macrófitas), reduzem o volume da biomassa vegetal, que provoca a redução do oxigênio dissolvido na água (DBO). A presença
+de um alto teor de matéria orgânica pode induzir ao completo esgotamento do oxigênio na água, provocando o desaparecimento de
+peixes e outras formas de vida aquática.
+
+Item "1.5 conservação e manejo da biodiversidade e/ou de recursos florestais":
+
+- A proposta de Intervenções nos Lagos Água Preta e Bolonha restabelece suas condições naturais contribuindo com a conservação do
+meio, e propicia a sua utilização de forma inteligente.
+
+Item "1.6 melhoria do ambiente de negócios e/ou oportunidades":
+
+- A melhoria da infraestrutura urbana provocada pela implementação das redes coletoras de esgoto, contribui para o aumento da dinâmica
+econômica nos bairros induzindo principalmente o crescimento dos setores de serviços e comércio.
+
+Item "1.7 benefícios para empreendedores individuais, micro e pequenas empresas":
+
+- Biofertilizantes gerados a partir do processamento do lodo da ETE serão distribuídos a micro produtores rurais cadastrados na Central de
+Abastecimento do Pará (CEASA), reduzindo seus custos de produção consequentemente melhorando sua margem de lucro.
+
+Item "1.8 geração de emprego e renda para populações de baixa renda e vulneráveis":
+
+- Investimentos em infraestrutura têm um colossal impacto na geração de empregos diretos e indiretos. Estima-se que as obras de
+saneamento propostas pelo programa gerem cerca de 1.500 empregos diretos, relacionados a implementação das obras. Indiretamente a
+melhoria da infraestrutura urbana fortalece crescimento dos setores de serviços e comércio alavancando geração de emprego e renda nos
+bairros periféricos contemplados pelo Programa.
+
+Item "1.9 infraestrutura e/ou equipamentos sociais para populações de baixa renda e vulneráveis":
+
+- Os bairros da Guanabara, Águas Lindas, Aurá e parte do Curió-Utinga caracterizam-se em possuírem uma infraestrutura menos
+desenvolvida, bairros periféricos com comunidades muitos adensadas com a existência de aglomerados subnormais, que a partir do
+Programa receberão infraestrutura sanitária adequada.
+
+Item "1.10 ações de inclusão de minorias sociais entre os beneficiários":
+
+- As minorias sociais são compostas por diversos grupos que incluem a população LGBTQIA+, indígenas, mulheres, negros, pessoas com
+deficiência (PCDs), pessoas de baixa renda e idosos. Ações educativas do Programa envolvem temas de gênero e sexualidade. Ao final
+das oficinas psicólogas estarão disponíveis em espaços de acolhimento estruturados para receber pessoas que se reconheçam como
+parte dessa minoria social, promovendo condições sociais e afetivas, acolhendo denúncias de violência, assédio e discriminação, visando
+o desenvolvimento dos sujeitos envolvidos nestes contextos.
+
+Item "1.11 políticas voltadas para juventude, gênero e raça":
+
+O Programa financiará oficinas comunitárias visando à formação de uma educação para diversidade, prioritariamente direcionado a
+população afetada pelas intervenções do Programa em temas relacionados a gênero e sexualidade.
+
+Item "1.12 melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão e/ou de participação cidadã":
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 15
+
+- O Programa de Gestão e Monitoramento da Qualidade das Águas acompanhará o padrão da qualidade de água oferecida pela
+COSANPA, proporcionando ações preventivas na detecção de mudanças de parâmetros de potabilidade mantendo o fornecimento de
+água com segurança sanitária adequada.
+
+Item "1.13 melhoria das condições de educação e saúde":
+
+- A melhoria da infraestrutura urbana provocada pela implementação das redes coletoras de esgoto retira a população da exposição a um
+ambiente poluído, evitando doenças como diarreias, desidratação e infecções intestinais decorrente do consumo de água sem tratamento
+adequado. Ao adoecer as pessoas costumam afastar-se de suas atividades diárias, os estudantes por exemplo, apresentam baixo
+rendimento escolar em razão das faltas, o que interfere em seu desempenho.
+
+Item "1.14 desenvolvimento, inovação e modernização tecnológica":
+
+- O Programa financiará a primeira Usina de Reaproveitamento Energético de Lodo, uma alternativa inovadora e sustentável a produção
+de lodo gerada no processo de tratamento de efluentes.
+
+Financiará também um piloto de digitalização industrial por meio de tecnologia IoT, direcionado a redução de perdas. Ações desse
+programa envolvem: substituição de hidrômetros convencionais de grandes consumidores para hidrômetros inteligentes (com telemedição)
+, instalação de loggers de ruído ao longo da rede de distribuição com transmissão de dados via rádio ou GSM, ampliação das ações de
+hidrometração de consumidores, atualização cadastral, substituição de tubulações antigas, e formação e instrumentação de equipes para
+ações de controle ativo de vazamento e fraudes.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Fundo Financeiro para o Desenvolvimento
+da Bacia do Prata - FONPLATA
+New Development Bank - NDB
+Total:
+
+Sigla
+
+CF
+Sigla
+
+Moeda
+
+US$
+Moeda
+
+Valor Proposto
+
+25.000.000,00
+Valor Proposto
+
+FONPLATA US$
+
+50.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+25.000.000,00
+Valor de Referência US
+$
+50.000.000,00
+
+NDB
+
+US$
+
+50.000.000,00
+125.000.000,00
+
+1,00
+
+50.000.000,00
+125.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+Arranjo institucional:
+
+MUTUÁRIO - Governo do Estado do Pará
+
+Responsável pelas ações necessárias, isoladas ou conjuntas, relativas à transferência e alocações de recursos e execução dos projetos
+definidos, bem como o cumprimento dos termos e das obrigações derivadas do contrato de empréstimo a ser celebrado com os Agentes
+Financeiros.
+
+ÓRGÃO EXECUTOR - Companhia de Saneamento do Pará (COSANPA)
+
+Responsável pela administração, coordenação e supervisão do Programa. A responsabilidade direta pela administração do Programa
+caberá a Unidade de Gerenciamento do Programa (UGP), que encontra-se constituída e está vinculada ao Órgão Executor.
+
+APOIO AO PROGRAMA
+
+SEPLAD (Secretaria de Estado de Planejamento e Administração): responsável pela gestão orçamentária da Operação de Crédito;
+
+SEFA (Secretaria de Estado da Fazenda): responsável pela gestão financeira da Operação de Crédito;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 16
+
+SEMAS (Secretaria de Estado de Meio Ambiente e Sustentabilidade): responsável pelo licenciamento de atividades e projetos que
+impliquem em impactos ambientais.
+
+MATRIZ DE RESPONSABILIDADE:
+
+Para facilitar esse processo de definição de papéis e responsabilidades, descreve-se uma matriz, que cria um mapa de responsabilidades
+para as atividades de implementação do PRODESAN PARÁ-LAGOS, conforme o ANEXO VIII.
+
+ARRANJO OPERACIONAL:
+
+O modelo operacional proposto na implantação do PRODESAN PARÁ-LAGOS é de uma execução centralizada, com a COSANPA
+operando como Órgão Executor do Programa, que por intermédio de sua UGP (Unidade de Gestão do Programa), será responsável por
+planejar e realizar a gestão técnica, administrativa, e fiduciária, bem como o monitoramento e avaliação do Programa. A UGP representará
+o Órgão Executor, assumindo as funções de decisão e execução relacionadas a gestão da implantação do Programa, e poderá ser
+composta por servidores públicos e/ou ocupantes de cargos comissionados do Governo do Estado e/ou, ainda, por profissionais
+contratados para o Programa. Integrarão a equipe chave da UGP os seguintes especialistas, em dedicação exclusiva: 01 Coordenador
+Geral, 01 Subcoordenador de Obras e Projetos, 01 Subcoordenador de Planejamento e Monitoramento, 01 Subcoordenador de Gestão
+Ambiental e Social, 01 Subcoordenador Institucional, Gênero e Comunicação, 01 Subcoordenador de Aquisições e Contratos e 01
+Subcoordenador Administrativo e Financeiro. O suporte técnico a UGP dar-se-á com contratação de uma (01) empresa, com recursos do
+empréstimo que disponibilizará o efetivo técnico responsável pela Gestão do Programa e pela Fiscalização das Obras e Serviços.
+Especificamente no que tange a licitações relacionadas ao Programa, será criada em caráter temporário uma Comissão Especial de
+Licitação (CEL), vinculada a UGP, onde será alocado em regime de dedicação exclusiva um membro da Comissão Permanente de
+Licitação da COSANPA para apoio ao Projeto. As secretarias estaduais que darão suporte a ações do Programa: Secretaria de Estado de
+Planejamento e Administração (SEPLAD), Secretaria de Estado da Fazenda (SEFA) e Secretaria de Estado do Meio Ambiente e
+Sustentabilidade (SEMAS), apresentadas conforme Organograma Operacional contido no ANEXO IX.
+
+Os recursos financeiros da Operação de Crédito para pagamento de despesas elegíveis, deverão ser solicitados ao Agente Financiador
+mediante apresentação de um Plano Financeiro emitido pela COSANPA/UGP, com anuência da SEPLAD/SEFA, de periodicidade
+semestral (mínimo), e posteriormente depositados para a SEFA em conta bancária específica do Programa. Caberá a SEFA transferir os
+recursos a COSANPA/UGP para o cumprimento das obrigações pactuadas nos contratos firmados para a execução do Programa, bem
+como os recursos de contrapartida local, conforme estabelecido inicialmente no Plano Financeiro.
+
+A Governo do Estado do Pará entende que o PRODESAN PARÁ-LAGOS é um esforço temporário que implicará na mobilização de
+recursos humanos, financeiros, técnicos e materiais dedicados para a consecução de um resultado, em função disso a opção pela
+contratação de empresas que ficarão exclusivamente responsáveis para esta finalidade.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Companhia de Saneamento do Pará - COSAMPA
+
+Representante Oficial: José Fernando de Mendonça Gomes Junior
+
+Endereço da Sede: Av. Magalhães Barata nº 1201
+E-mail Institucional:
+
+Telefone: 32028400
+
+CNPJ: 04945341000190
+
+Fax:
+UF:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+CF
+
+FONPLATA
+
+NDB
+
+TOTAL
+
+CF
+
+TOTAL
+
+FONPLATA
+
+TOTAL
+
+NDB
+
+C - INFRAESTRUTURA URBANA - SANEAMENTO
+
+97.400.000,00
+
+4.000.000,00
+
+8.740.000,00
+
+6.200.000,00
+
+P - Redes Coletoras de Esgoto
+
+25.000.000,00
+
+0,00
+
+5.000.000,00
+
+P - Ligações Domiciliares e Intradomiciliares
+
+30.000.000,00
+
+4.000.000,00
+
+2.000.000,00
+
+P - Coletor Tronco
+
+P - Estações Elevatórias
+
+P - Linhas de Recalque
+
+P - Ampliação ETE Mártir
+
+C - REQUALIFICAÇÃO AMBIENTAL
+
+P - Estudos e Planos Ambientais
+
+P - Intervenções nos Lagos Água Preta e Bolonha
+
+P - Programa de Gestão e Monitoramento da Qualidade das
+Águas
+P - Programa de Educação Ambiental
+
+C - FORTALECIMENTO INSTITUCIONAL INOVAÇÃO E
+GÊNERO
+P - Requalificação Laboratório Análise de Águas
+
+4.000.000,00
+
+5.800.000,00
+
+1.600.000,00
+
+31.000.000,00
+
+6.500.000,00
+
+500.000,00
+
+5.000.000,00
+
+550.000,00
+
+450.000,00
+
+16.600.000,00
+
+1.500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+6.200.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.740.000,00
+
+0,00
+
+0,00
+
+45.000,00
+
+0,00
+
+0,00
+
+0,00
+
+45.000,00
+
+0,00
+
+2.220.000,00
+
+0,00
+
+0,00
+
+(cid:10)
+(cid:10)
+
+
+Página: 17
+
+4.000.000,00
+
+11.000.000,00
+
+100.000,00
+
+4.500.000,00
+
+4.000.000,00
+
+200.000,00
+
+300.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.200.000,00
+
+0,00
+
+20.000,00
+
+420.000,00
+
+440.000,00
+
+400.000,00
+
+400.000,00
+
+0,00
+
+0,00
+
+20.000,00
+
+40.000,00
+
+0,00
+
+4.000.000,00
+
+9.205.000,00
+
+8.860.000,00
+
+0,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+10.500.000,00
+
+FONPLATA
+15.930.000,00
+
+NDB
+
+12.400.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+FONPLATA
+
+TOTAL
+
+NDB
+
+0,00
+
+10.000.000,00
+
+10.500.000,00
+
+1.500.000,00
+
+1.600.000,00
+
+2.030.000,00
+
+800.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+12.400.000,00
+
+180.000,00
+
+0,00
+
+0,00
+
+0,00
+
+180.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.970.000,00
+
+0,00
+
+0,00
+
+0,00
+
+1.200.000,00
+
+0,00
+
+2.750.000,00
+
+0,00
+
+20.000,00
+
+420.000,00
+
+440.000,00
+
+400.000,00
+
+400.000,00
+
+0,00
+
+0,00
+
+20.000,00
+
+40.000,00
+
+0,00
+
+12.400.000,00
+
+590.000,00
+
+500.000,00
+
+0,00
+
+0,00
+
+90.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+5.220.000,00
+
+0,00
+
+0,00
+
+300.000,00
+
+1.600.000,00
+
+0,00
+
+3.300.000,00
+
+0,00
+
+20.000,00
+
+420.000,00
+
+520.000,00
+
+400.000,00
+
+400.000,00
+
+0,00
+
+10.500.000,00
+
+16.530.000,00
+
+16.810.000,00
+
+0,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+10.500.000,00
+
+FONPLATA
+16.730.000,00
+
+NDB
+
+12.400.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+FONPLATA
+
+TOTAL
+
+NDB
+
+0,00
+
+10.000.000,00
+
+10.500.000,00
+
+1.500.000,00
+
+2.400.000,00
+
+2.030.000,00
+
+800.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+P - Programa de Reaproveitamento Energético do Lodo da
+ETE Mártir
+P - Programa de Controle de Perdas em Sistemas de
+Abastecimento de Água utilizando tecnologia de "Saneamento 4
+.0"
+P - Programa de Educação em temas de Gênero e
+Sexualidade
+C - ADMINISTRAÇÃO, AUDITORIA E AVALIAÇÃO DO
+PROGRAMA
+P - Gestão do Contrato
+
+P - Monitoramento e Avaliação do Programa
+
+P - Auditorias Externas
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - INFRAESTRUTURA URBANA - SANEAMENTO
+
+P - Redes Coletoras de Esgoto
+
+P - Ligações Domiciliares e Intradomiciliares
+
+P - Coletor Tronco
+
+P - Estações Elevatórias
+
+P - Linhas de Recalque
+
+P - Ampliação ETE Mártir
+
+C - REQUALIFICAÇÃO AMBIENTAL
+
+P - Estudos e Planos Ambientais
+
+P - Intervenções nos Lagos Água Preta e Bolonha
+
+P - Programa de Gestão e Monitoramento da Qualidade das
+Águas
+P - Programa de Educação Ambiental
+
+C - FORTALECIMENTO INSTITUCIONAL INOVAÇÃO E
+GÊNERO
+P - Requalificação Laboratório Análise de Águas
+
+P - Programa de Reaproveitamento Energético do Lodo da
+ETE Mártir
+P - Programa de Controle de Perdas em Sistemas de
+Abastecimento de Água utilizando tecnologia de "Saneamento 4
+.0"
+P - Programa de Educação em temas de Gênero e
+Sexualidade
+C - ADMINISTRAÇÃO, AUDITORIA E AVALIAÇÃO DO
+PROGRAMA
+P - Gestão do Contrato
+
+P - Monitoramento e Avaliação do Programa
+
+P - Auditorias Externas
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - INFRAESTRUTURA URBANA - SANEAMENTO
+
+P - Redes Coletoras de Esgoto
+
+P - Ligações Domiciliares e Intradomiciliares
+
+P - Coletor Tronco
+
+P - Estações Elevatórias
+
+P - Linhas de Recalque
+
+P - Ampliação ETE Mártir
+
+C - REQUALIFICAÇÃO AMBIENTAL
+
+P - Estudos e Planos Ambientais
+
+P - Intervenções nos Lagos Água Preta e Bolonha
+
+P - Programa de Gestão e Monitoramento da Qualidade das
+Águas
+P - Programa de Educação Ambiental
+
+C - FORTALECIMENTO INSTITUCIONAL INOVAÇÃO E
+GÊNERO
+P - Requalificação Laboratório Análise de Águas
+
+P - Programa de Reaproveitamento Energético do Lodo da
+ETE Mártir
+P - Programa de Controle de Perdas em Sistemas de
+Abastecimento de Água utilizando tecnologia de "Saneamento 4
+.0"
+P - Programa de Educação em temas de Gênero e
+Sexualidade
+C - ADMINISTRAÇÃO, AUDITORIA E AVALIAÇÃO DO
+PROGRAMA
+P - Gestão do Contrato
+
+
+Página: 18
+
+P - Monitoramento e Avaliação do Programa
+
+P - Auditorias Externas
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+0,00
+
+0,00
+
+20.000,00
+
+80.000,00
+
+40.000,00
+
+0,00
+
+10.500.000,00
+
+17.740.000,00
+
+18.140.000,00
+
+0,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+FONPLATA
+
+NDB
+
+TOTAL
+
+CF
+
+TOTAL
+
+FONPLATA
+
+TOTAL
+
+NDB
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+FONPLATA
+
+NDB
+
+COMPONENTES
+
+C - INFRAESTRUTURA URBANA - SANEAMENTO
+
+P - Redes Coletoras de Esgoto
+
+P - Ligações Domiciliares e Intradomiciliares
+
+P - Coletor Tronco
+
+P - Estações Elevatórias
+
+P - Linhas de Recalque
+
+P - Ampliação ETE Mártir
+
+C - REQUALIFICAÇÃO AMBIENTAL
+
+P - Estudos e Planos Ambientais
+
+P - Intervenções nos Lagos Água Preta e Bolonha
+
+P - Programa de Gestão e Monitoramento da Qualidade das
+Águas
+P - Programa de Educação Ambiental
+
+C - FORTALECIMENTO INSTITUCIONAL INOVAÇÃO E
+GÊNERO
+P - Requalificação Laboratório Análise de Águas
+
+P - Programa de Reaproveitamento Energético do Lodo da
+ETE Mártir
+P - Programa de Controle de Perdas em Sistemas de
+Abastecimento de Água utilizando tecnologia de "Saneamento 4
+.0"
+P - Programa de Educação em temas de Gênero e
+Sexualidade
+C - ADMINISTRAÇÃO, AUDITORIA E AVALIAÇÃO DO
+PROGRAMA
+P - Gestão do Contrato
+
+P - Monitoramento e Avaliação do Programa
+
+P - Auditorias Externas
+
+COMPONENTES
+
+C - INFRAESTRUTURA URBANA - SANEAMENTO
+
+P - Redes Coletoras de Esgoto
+
+P - Ligações Domiciliares e Intradomiciliares
+
+P - Coletor Tronco
+
+P - Estações Elevatórias
+
+P - Linhas de Recalque
+
+P - Ampliação ETE Mártir
+
+C - REQUALIFICAÇÃO AMBIENTAL
+
+P - Estudos e Planos Ambientais
+
+P - Intervenções nos Lagos Água Preta e Bolonha
+
+P - Programa de Gestão e Monitoramento da Qualidade das
+Águas
+P - Programa de Educação Ambiental
+
+C - FORTALECIMENTO INSTITUCIONAL INOVAÇÃO E
+GÊNERO
+P - Requalificação Laboratório Análise de Águas
+
+P - Programa de Reaproveitamento Energético do Lodo da
+ETE Mártir
+P - Programa de Controle de Perdas em Sistemas de
+Abastecimento de Água utilizando tecnologia de "Saneamento 4
+.0"
+P - Programa de Educação em temas de Gênero e
+Sexualidade
+C - ADMINISTRAÇÃO, AUDITORIA E AVALIAÇÃO DO
+PROGRAMA
+P - Gestão do Contrato
+
+P - Monitoramento e Avaliação do Programa
+
+P - Auditorias Externas
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+125.000.000,00
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.200.000,00
+
+0,00
+
+3.000.000,00
+
+110.000,00
+
+90.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.770.000,00
+
+0,00
+
+0,00
+
+900.000,00
+
+1.200.000,00
+
+0,00
+
+1.650.000,00
+
+0,00
+
+20.000,00
+
+420.000,00
+
+440.000,00
+
+400.000,00
+
+400.000,00
+
+0,00
+
+0,00
+
+20.000,00
+
+40.000,00
+
+3.620.000,00
+
+4.210.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.485.000,00
+
+0,00
+
+2.000.000,00
+
+440.000,00
+
+45.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.420.000,00
+
+0,00
+
+0,00
+
+300.000,00
+
+0,00
+
+0,00
+
+1.100.000,00
+
+0,00
+
+20.000,00
+
+TOTAL
+
+CF
+
+25.000.000,00
+
+TOTAL
+
+FONPLATA
+41.400.000,00
+
+TOTAL
+
+NDB
+
+31.000.000,00
+
+0,00
+
+25.000.000,00
+
+25.000.000,00
+
+5.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+4.000.000,00
+
+5.800.000,00
+
+1.600.000,00
+
+0,00
+
+31.000.000,00
+
+6.500.000,00
+
+500.000,00
+
+5.000.000,00
+
+550.000,00
+
+450.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+16.600.000,00
+
+0,00
+
+0,00
+
+1.500.000,00
+
+4.000.000,00
+
+0,00
+
+11.000.000,00
+
+0,00
+
+100.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+420.000,00
+
+560.000,00
+
+0,00
+
+2.100.000,00
+
+2.400.000,00
+
+400.000,00
+
+400.000,00
+
+0,00
+
+120.000,00
+
+20.000,00
+
+40.000,00
+
+0,00
+
+0,00
+
+0,00
+
+2.000.000,00
+
+2.000.000,00
+
+0,00
+
+200.000,00
+
+100.000,00
+
+200.000,00
+
+2.905.000,00
+
+1.980.000,00
+
+25.000.000,00
+
+50.000.000,00
+
+50.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+
+Página: 19
+
+Sob o Aspecto Legal identificam-se abaixo, os principais instrumentos legais utilizados pelo Governo do Estado e COSANPA necessários
+para a implementação do Programa:
+
+1. Lei que autoriza o Poder Executivo a contratar operação de crédito externo junto ao Agente Financiador, com a garantia da União:
+estrategicamente, o Governo do Estado pretende formalizar o pedido de autorização para contratar a Operação de Crédito junto a
+Assembleia Legislativa do Estado do Pará (ALEPA), somente após aprovação da COFIEX para a preparação do Programa.
+Antecipadamente, como ações mitigatórias a riscos de aprovação, uma minuta da pauta referente ao PRODESAN PARA-LAGOS, já foi
+encaminhada ao líder do Governo na ALEPA para apreciação.
+
+2. Termo de Transferência de Recursos celebrado entre Governo do Estado e COSANPA: o Governo do Estado como Mutuário e a
+COSANPA como Órgão Executor, estabelecerão por meio de um instrumento jurídico as atribuições e condições da transferência para a
+utilização dos recursos oriundos da Operação de Crédito. Para este Programa, considera-se existir segurança jurídica nessa operação,
+visto que, tal instrumento deverá obedecer às mesmas diretrizes estabelecidas no PRODESAN-PA. Este instrumento será necessário,
+somente após a assinatura do Contrato de Empréstimo.
+
+3. Portaria de Nomeação da Unidade de Gestão do Programa (UGP): a COSANPA como Órgão Executor, dentro das atribuições
+imputadas pelo seu Estatuto Social, cabe ao Diretor Presidente realizar qualquer nomeação para cargos e funções no âmbito da
+Companhia, por meio de ato administrativo de portaria. Para este Programa, considera-se constituída essa Unidade de Gestão do
+Programa, atuando desde dezembro de 2022, na implantação do Programa PRODESAN-PA.
+
+4. Portaria de Nomeação da Comissão Especial de Licitação (CEL): é de responsabilidade da COSANPA como Órgão Executor, constituir
+uma Comissão Especial de Licitação para executar as aquisições referentes ao Programa. No que diz respeito a nomeação dos seus
+membros, também é atribuição estatutária do Diretor Presidente por meio de portaria. Para o Programa, considera-se constituída essa
+CEL, atuando nas aquisições de contratos referentes ao Programa PRODESAN-PA.
+
+5. Quanto a CAPAG, avaliação que serve para definir quais entes federativos são elegíveis para contraírem empréstimos com garantia do
+Tesouro Nacional em operações de crédito, o Estado do Pará como Mutuário, apresenta nota A nos três indicadores (endividamento,
+poupança corrente e índice de liquidez) que definem a metodologia de cálculo para a nota geral, indicativo de boa situação fiscal e de
+baixo risco de inadimplência.
+
+6. Quanto ao atendimento as exigências previstas no Novo Marco Legal do Saneamento: em dezembro de 2022, o Estado do Pará firmou
+contrato com o Banco Nacional de Desenvolvimento Econômico e Social - BNDES para a prestação de serviços técnicos especializados
+para a estruturação de projeto de concessão comum dos serviços públicos de abastecimento de água e de esgotamento sanitário
+prestados em todos os municípios localizados no Estado do Pará. O modelo de manutenção da produção de água com a estatal de
+saneamento, como ocorreu com a CEDAE do Rio de Janeiro, deve ser seguido no Estado do Pará, com foco na produção para a Região
+Metropolitana de Belém (PA).
+
+5.2. RISCOS/CONTRATAÇÕES
+
+As principais contratações estão relacionadas ao Componente "C- INFRAESTRUTURA URBANA - SANEAMENTO", que representam 78
+% dos recursos destinados para a implementação do Programa, destacadas abaixo:
+
+1. Contratação de empresa para realização de Obras e Serviços de ligações domiciliares e intradomiciliares.
+
+2. Contratação de empresa para realização de Obras e Serviços para a implantação da infraestrutura sanitária das Sub-bacias
+hidrográficas 5.1-3 e 5.1-4 (implantação de coletor tronco, linhas de recalque e estações elevatórias).
+
+3. Contratação de empresa para a realização de Obras e Serviços de ampliação dos módulos de tratamento da ETE Mártir.
+
+Como apoio a Unidade de Gestão do Programa (UGP) deverá ser contratada uma empresa de consultoria especializada, desempenhando
+as funções de Gerenciadora e Supervisora do Programa.
+
+Riscos e Ações Mitigatórias adotadas:
+
+a) Ausência de Empresas interessadas em participar dos processos de aquisição, motivado por subpreços dos serviços: o Órgão Executor
+, elaborará orçamentos estimativos que reflitam a realidade dos preços praticados no mercado para o objeto a ser contratado, utilizando
+base DNIT e SINAPI como prioridade; na ausência dos serviços nessas bases de referência, captará orçamentos no mercado, atentando
+para a uniformidade e especificidade das propostas.
+
+b) Ausência de Empresas interessadas em participar dos processos de aquisição, motivado por divulgação insuficiente do instrumento
+convocatório: o Órgão Executor publicará instrumentos convocatórios em jornais de circulação regional, nacional, DOE, DOU ou em
+Sistemas de Publicações Internacionais, obedecendo as Políticas de Aquisições dos Agentes Financiadores.
+
+c) Seleção de Empresas incapazes de executar o Contrato: os Termos de Referência deverão conter redigidos de forma explícita a
+obrigatoriedade de apresentação de Atestados Técnicos que comprovem a qualificação específica do proponente, a ser definida pelo
+Órgão Executor, conforme a especificidade dos serviços que serão contratados.
+
+(cid:10)
+(cid:10)
+
+
+Página: 20
+
+d) Contratações de empresas produzem resultados incapazes de atender as necessidades do Programa: a elaboração do Termo de
+Referência e/ou Projeto Básico é obrigatória para toda contratação, deverão ser emitidos pelo órgão Executor, e definirão elementos
+necessários e suficientes, com nível de precisão adequado, para caracterizar o objeto da licitação.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Os serviços relacionados a implantação de coletores tronco, linhas de recalque e ligações domiciliares possuem seu caminhamento de
+rede previstos em vias e passeios públicos, não havendo necessidade de desapropriações.
+
+As áreas destinadas para a implantação das estações elevatórias de esgoto (10 áreas necessárias), já foram identificadas previamente,
+durante a fase de preparação do Projeto Básico, todas em áreas sem ocupação. Atualmente, estão sendo levantadas suas situações
+fundiárias, que indicarão os instrumentos legais previsos para sua aquisição. Caso sejam de domínio público, a COSANPA formalizará
+interesse junto a administração competente, solicitando sua cessão/ concessão de uso. Caso contrário, a COSANPA instruirá processo
+administrativo junto Procuradoria Geral do Estado (PGE) para preparação e publicação de Decreto que declara a área como de Utilidade
+Pública. Caso o expropriado aceite o valor apurado pela avaliação da área, a COSANPA procederá o pagamento dos valores da
+indenização via cheque administrativo, caso contrário, persistindo o interesse na aquisição, o processo seguirá o rito de desapropriação
+judicial.
+
+Ações Mitigatórias adotadas:
+
+a) Equipe técnica busca alternativas locacionais para as áreas das estações elevatórias, priorizando a utilização de espaços públicos que
+não impliquem em modificações representativas no Projeto Básico.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+Os impactos ambientais que poderão ocorrer dentro do PEUt (Parque Estadual do Utinga) decorrentes dos serviços de dragagem do Lago
+Água Preta e dos serviços de retirada das macrófitas do Lago Bolonha, serão avaliados e mitigados mediante a contratação dos Estudos
+de Impactos Ambientais e do Relatório de Impacto Ambiental, financiados pelo Programa através do Componente "Estudos e Planos
+Ambientais".
+
+Em relação às intervenções físicas previstas na implantação das redes coletoras de esgoto, em virtude das características e diretrizes do
+Programa, não se estima riscos relacionados a degradação da fauna e flora local, visto que, sua abrangência limita-se a vias e passeios
+públicos.
+
+Em relação a população beneficiada com resistência a interligação, mesmo após a disponibilidade da rede coletora de esgoto, e que
+continuará com o lançamento inadequado de esgoto no meio ambiente, o PRODESAN PARÁ-LAGOS traz como medida mitigadora a
+implementação de um Programa de Educação Ambiental, onde através de oficinas comunitárias, a COSANPA pretende ministrar
+campanhas educativas acerca da importância do serviço disponibilizado para promoção e proteção da saúde e do meio ambiente. Esta
+ação será financiada pelo Programa através do Componente "Programa de Educação Ambiental".
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+Impactos sociais gerados pela execução das obras deverão ser mitigados pela empresa responsável pelo Trabalho Técnico Social (TTS),
+que deverá ser disponibilizada a partir da contratação da empresa de Gestão e Fiscalização, e promoverá ao longo da implantação do
+PRODESAN PARÁ-LAGOS: a criação e/ou consolidação de canais de comunicação entre a COSANPA e a população afetada; o
+estabelecimento de estratégias e prioridades para a divulgação das intervenções do Programa; a divulgação das informações sobre as
+diversas etapas da obra; a sensibilização da população afetada quanto a necessidade de preservação das intervenções propostas pelo
+programa.
+
+O TTS ficará responsável pela identificação e cadastramento de famílias de baixa renda e/ou em situação de vulnerabilidade
+impossibilitadas e/ou resistentes ao pagamento da tarifa de esgoto. Para esse tipo de situação a COSANPA e Governo do Estado
+implementarão ações do Programa Social "Água Pará". Esse programa social, instituído por meio da Lei Estadual Nº 9.317 de 22 de
+setembro de 2021, subsidia através de recursos do Estado o pagamento mensal do consumo de até 20 m³ (vinte metros cúbicos) de água
+e 60% deste volume em esgoto num período de até 2 anos, para famílias de baixa renda. Para usufruir do benefício, as famílias, por meio
+de um representante, precisam estar inscritas no Cadastro Único (CadÚnico) e o registro da conta de água com a mesma titularidade de
+CPF. A COSANPA entende a expansão do programa social "Águas Pará" como uma importante estratégia para mitigar impactos sociais
+na população mais carente estimulando-a a interligação na rede de coleta e tratamento de esgoto (ANEXO XII).
+
+A abrangência do projeto não atinge populações indígenas, quilombolas e outras consideradas tradicionais.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Não foram identificados potenciais riscos de reassentamento, visto que, a abrangência do projeto limita-se a utilizar áreas da COSANPA
+além de vias e passeios públicos.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)

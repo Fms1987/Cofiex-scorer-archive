@@ -1,0 +1,3012 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Programa de Resiliência Climática do Espírito Santo - ES CLIMA
+Nº Carta Consulta: 61253
+Processo: 03101.003104/2024-10
+Mutuário: Estado do Espírito Santo
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  11 de Outubro de 2024
+Fontes Internas:
+Contrapartida Financeira: US$ 26.800.000,00
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 107.200.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 03
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+04
+2. PROJETO ....................................................................................................................................................................................................... 05
+2.1. TÍTULO ............................................................................................................................................................................................ 05
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 05
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 05
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 05
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 05
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 06
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 06
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 18
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 21
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 21
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 24
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 27
+3. FINANCIAMENTO .......................................................................................................................................................................................... 27
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 27
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 27
+4. EXECUÇÃO ...................................................................................................................................................................................................
+27
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 27
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 29
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 29
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 29
+5. RISCOS .......................................................................................................................................................................................................... 32
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 32
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 33
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 34
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 34
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 35
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 36
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+36
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+    
+      Proposta elaborada conforme  PORTARIA MPO-SEAID /MPO Nº 220, de 05/07/2024
+
+      PROGRAMA DE RESILIÊNCIA CLIMÁTICA DO ESPÍRITO SANTO - ES CLIMA
+
+      Objetivos ambientais e climáticos 
+
+     (Adendo Classificatório - ANEXO 1 - A)
+     
+     (juntado uma SÍNTESE DESCRITIVA DO ATENDIMENTO ÀS RECOMENDAÇÕES PARA REVISÃO - Anexo 23)
+
+
+1.1. DIAGNÓSTICO 
+
+O Espírito Santo tem extensão territorial de 46.089,39 km², localizado na região sudeste do Brasil e está completamente inserido no Bioma
+Mata Atlântica. O Estado possui 78 municípios com uma população estimada em 3.833.486 pessoas Censo (IBGE, 2023). O Estado
+apresenta IDH de 0,772.
+
+As mudanças climáticas têm intensificado desastres naturais, como enxurradas e secas, com impactos significativos no Brasil e no Espírito
+Santo. O histórico de ocupação inadequada em áreas vulneráveis e práticas agrícolas ultrapassadas tornam o estado especialmente
+suscetível a riscos hidrológicos extremos. O Espírito Santo não está devidamente preparado para lidar com secas, enchentes e
+deslizamentos, o que agrava os problemas sociais e econômicos. A estiagem severa entre 2014 e 2017 trouxe grandes desafios à gestão
+de recursos hídricos, afetando a agricultura e o abastecimento de água, enquanto muitos municípios ainda carecem de planejamento e
+políticas para adaptação climática. De acordo com o Plano de Descarbonização do Espírito Santo, em 2021, o Estado Santo emitiu 41,09
+MtCO&#8322;e/ano de forma bruta. No entanto, foram removidos 5,93 MtCO&#8322;e/ano, principalmente por atividades no setor de
+Agricultura, Florestas e Outros Usos do Solo (AFOLU), que incluem a preservação de florestas primárias e secundárias, o manejo
+sustentável de pastagens e os Sistemas Integrados de Agricultura, Pecuária e Floresta (ILPF). Após contabilizar as remoções, as
+emissões líquidas do estado totalizaram 35,16 MtCO&#8322;e/ano.
+
+Associado à questões climáticas precisa o Estado ter uma atitude para garantir disponibilidade em quantidade e qualidade de água para a
+população capixaba, e realizar ações que possam mitigar os efeitos das chuvas extremas e inundações na Bacia do Itabapoana ? porção
+capixaba. Nota-se também que a biodiversidade do estado vem sendo ameaçada pelas ações humanas, com a diminuição das áreas dos
+manguezais da costa do estado e o aumento das espécies na chamada lista vermelha de animais com vulnerabilidade à extinção. Apesar
+da importância econômica, para o sequestro de carbono, para a biodiversidade e para a evitar o assoreamento das praias os manguezais
+sofrem com o desmatamento e a ameaça constante de desastres ambientais.
+
+A falta de integração estado e município pode comprometer ações de adaptação e mitigação, observando que a atuação municipal é
+essencial na implantação da agenda ambiental e ações do licenciamento, controle e fiscalização ambiental, em conformidade com a Lei
+Complementar n 140/2011 (cooperação entre a União, os Estados, e os Municípios nas ações relativas à proteção das paisagens naturais
+notáveis, à proteção do meio ambiente, ao combate à poluição em qualquer de suas formas e à preservação das florestas, da fauna e da
+flora). 
+
+No Espírito Santo, existe uma ampla rede de catadores, com 74 Organizações de Catadores de Materiais Recicláveis (OCMRs) em 68
+municípios. No entanto, apesar da presença significativa dessas associações, o índice de reciclagem permanece baixo. Na capital, por
+exemplo, apenas 2,3% do lixo é reciclado. Isso contrasta com a realidade de que materiais continuam a ser descartados em aterros
+sanitários, resultando em altos dispêndios das prefeituras para o manejo ainda inadequado desses resíduos. Os principais motivos são a
+falta de pessoal e de uma estrutura física adequada para o desenvolvimento das atividades e divergências internas relacionadas aos
+próprios associados/cooperados.
+
+Também registra-se que o estado avançou na eliminação dos lixões a céu aberto, porém, mesmo com o encerramento destes, fica o
+passivo das áreas supostamente contaminadas por disposição de RSU, sem os devidos controles ambientais. Assim, torna-se necessário
+a adequação e recuperação dessas áreas que possuem resíduos dispostos de forma inadequada.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 3
+
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+(i) SOLUÇÃO PROPOSTA
+
+É necessária a implementação de ações e programas que promovam tanto a mitigação dos impactos ambientais quanto a adaptação às
+mudanças climáticas, conservação e proteção qualiquantitativa dos recursos naturais sendo essencial ações de saneamento rural capilar
+de montante, proteção do solo e subsolo por meio da execução de ações no manejo de resíduos sólidos, economia circular, redução das
+emissões de gases de efeito estufa entre outros.
+
+O Programa Águas Capixabas, com iniciativas técnicas de conservação e revitalização de microbacias e corpos hídricos,  práticas
+mecânicas de conservação de água e solo, construção de cisternas para reserva de águas pluviais e condições de saneamento em
+propriedades rurais, promovendo a segurança hídrica, com água de qualidade e a manutenção da vida, bem-estar humano e
+desenvolvimento socioeconômico, com a proteção aos desastres hídricos (secas e enchentes), a preservação dos ecossistemas, e a
+regularização das vazões.
+
+No PROESAM, tem-se uma ferramenta de dinamização para fortalecer os entes municipais com estrutura física, técnica e lógica
+compatível com o desempenho desejado, permitindo o redimensionamento de energia do Poder Público Estadual para os problemas de
+complexidade e abrangência territorial ampliada para mais de um município. É um programa Inovador por integrar gestão ambiental local e
+estadual, com transparência e cooperação. Implantado por ciclos, no qual os municípios que solicitam adesão se comprometem a
+perseguir a execução de um conjunto de metas divididas em eixos da agenda ambiental, previamente estabelecidas, mediante pagamento
+pela execução. Os pagamentos podem ser por apoio ou investimento descentralizado. Os critérios gerais para adesão e cálculo dos
+valores se encontram fixados na Lei nº 11.255/2021 (Anexo 2) e no Decreto nº 4897-R/2021 (Anexo 3).
+
+Os Planos de Adaptação Climática (PACs) para os municípios, objetivando apoiar os governos locais na criação de estratégias eficazes
+para enfrentar os impactos das mudanças climáticas. 
+
+O Programa Capixaba de Carbono e Soluções Baseadas na Natureza (PCSBN): elaboração de metodologias, procedimentos e requisitos
+para a implantação de um portfólio de projetos de carbono de alta integridade e pagamento por serviços ambientais no ES, a fim de
+implementar um Programa Jurisdicional de Carbono, tendo como pressuposto a regularização de áreas de RL e APP inscritas no CAR,
+financiamento para outras políticas públicas estaduais que atuem na preservação ou recuperação de florestas, incluindo áreas de
+manguezais.
+
+Programa Selo Descarboniza-ES promoverá iniciativas que reduzam emissões de gases de efeito estufa, com a participação ativa do setor
+privado, sociedade civil e entidades estaduais. O Selo certifica empresas que comprovem a redução de emissões, impulsionando o
+desenvolvimento sustentável e a competitividade econômica do estado.
+
+Ações setoriais em resíduos sólidos urbanos, contemplam a coleta seletiva com o fortalecimento das organizações de catadores de
+materiais recicláveis, além da avaliação preliminar e investigação confirmatória das áreas supostamente contaminadas por disposição
+inadequada de resíduos sólidos. A revisão do Plano Estadual de Resíduos Sólidos atualiza o contexto, com a necessidade da integração
+da cadeia da logística reversa no território capixaba e a uma proposta inovadora de PSA do mar, também gerando renda para pescadores
+e catadores de caranguejo. (Anexo 4-PERS, 2019).
+
+(ii) RESULTADOS ESPERADOS
+
+Tornar o Estado do Espírito Santo mais resiliente aos eventos extremos através de ações que podem preparar o estado para esta agenda.
+
+Contribuir na recuperação da capacidade hídrica e fortalecer o ciclo hidrológico local por meio de ações de contenção e de reservação de
+águas de chuva, aumentando a infiltração de água no solo e a melhoria da qualidade das águas com a utilização de biodigestores e
+intervenções para minimizar os impactos de enchentes e escassez hídrica.
+
+Aperfeiçoar a capacidade da gestão ambiental dos municípios, com eficiência das equipes locais, para ações de licenciamento, controle e
+fiscalização.
+
+Dotar o estado e municípios de instrumentos de planejamento para a gestão de governo frente à agenda da mudança do clima com
+capacidade de adaptação e mitigação a riscos, além da integração das ações entre estado e municípios.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 4
+Aumentar a biodiversidade favorecendo os fatores ecossistêmicos, com a ampliação da poligonal dos manguezais do litoral capixaba.
+
+Ampliar a cobertura da coleta seletiva estadual com ações locais, gerando empregos e renda para os catadores e consequentemente,
+reduzindo a destinação final de rejeito para aterros ambientalmente adequados.
+
+Identificar e mitigar as áreas degradas por disposição inadequada de resíduos sólidos urbanos.
+
+(iii) SUSTENTABILIDADE (para horizonte projetos em 10 anos)
+
+Considerando os resultados a serem obtidos com a execução proposta, a sustentabilidade financeira para a continuidade das ações dos
+respectivos Componentes implantados no horizonte de projeto, após a conclusão do Programa, serão absorvidos pelos municípios,
+sociedade e associações de reciclagem RSU.
+
+Assim, a conservação do solo e retenção da água proposta pelo Estado no Programa Águas Capixabas vai demandar (USD200 x 3939 x
+10anos) = USD7,9 milhões como despesas de manutenção/reinvestimentos para os Biodigestores; (ii) Os projetos de restauração florestal,
+capacitam as comunidades, gerando negócios, trabalho e renda; (iii) O PROESAM proporcionará aos municípios melhores condições
+gestão ambiental, com o planejamento de USD 4milhões/ano e USD40 milhões no horizonte total, com investimentos do Estado/
+municípios; (iv) Os estudos para a bacia hidrográfica do rio Itabapoana oferecem uma ferramenta condicional na linha do tempo de
+projetos e obras, estimado em USD 100milhões para projetos e obras,; (v) As ações RSU têm custos relativos às suas gestões acordados
+com Associações e prefeituras. O Estado, garantirá o custo de USD103 mil/ano para ADERES/Assessoria Técnica, e; quanto a
+manutenção das instalações no valor de USD135 mil/ano será atribuído para Associações, e, os municípios arcarão com manutenção dos
+caminhões USD323 mil/ano e combustível USD1,5 milhão/ano. Para as demais intervenções decorrentes de estudos, como (vi) PSA do
+mar gerará renda aos pescadores e catadores de caranguejos nos períodos de defeso, e o próprio contexto institucional retroalimenta a
+sustentabilidade financeira das ações.  
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+      1.3. ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+O Programa se insere no planejamento estratégico do Governo do Estado, em consonância com o Plano de Desenvolvimento do Espírito
+Santo - Anexo 22. Elaborado em conjunto com os segmentos representativos da sociedade capixaba para a formulação e implantação de
+políticas públicas de desenvolvimento sustentável, tendo como pilar a construção de uma economia verde contemplando metas de
+fortalecer a gestão dos recursos hídricos e cobertura florestal.
+
+O Programa ES CLIMA está inserido nas orientações estratégicas do Governo do Estado, em conformidade com: (i) O PPA 2024-2027 -
+ação 2352-SEAMA (Anexo 5). As orientações estabelecem estratégias e iniciativas que possam ser planejadas, geridas e implementadas
+com foco na resiliência e adaptação dos capixabas frente aos reflexos das mudanças climáticas. O Estado criou de forma inédita um
+orçamento específico denominado Orçamento Climático que está na LOA 2025, para ações referentes à pauta mudanças climáticas -
+Anexo 25.
+
+Para a execução dos produtos previstos no PROESAM, as ações integram o Plano Plurianual de Investimentos 2024-2027, coordenado
+pela a SEAMA, através da Assessoria de Apoio aos Municípios e Gestão Regional -- AMGR, e as metas, bem como o acompanhamento,
+é feito por uma Comissão de Acompanhamento do PROESAM, composta por servidores dos órgãos: Secretaria de Meio Ambiente e
+Recursos Hídricos - SEAMA, Instituto de Meio Ambiente - IEMA, Agência de Recursos Hídricos -  AGERH, Instituto de Pesquisa Jones dos
+ Santos Neves - IJSN, Secretaria de Desenvolvimento - SEDES, Instituto de Defesa Agropecuária e Florestal - IDAF. 
+
+O programa Descarboniza ES, está alinhado às orientações estratégicas do Plano Estadual de Descarbonização e às metas definidas no
+Plano Plurianual (PPA). 
+
+Quanto a aquisição de equipamentos e intervenções na infraestrutura para reciclagem de Resíduos Sólidos fazem parte do projeto
+prioritário do Governo - Inova Mercado - (PPA 2024-2027 - ação 2062 - Aderes - Anexo 6), que tem como objetivo aumentar as vendas
+dos empreendedores, ampliando a geração de trabalho e renda, por meio de capacitações e consultorias a micro e pequenos
+empreendedores, a economia solidária, ao artesanato, a agricultura familiar e aos catadores de materiais recicláveis.
+
+ii) Contrapartida
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 5
+A proposta apresentada cumpre o disposto na Resolução da COFIEX nº 3 de 29/5/2019, com previsão de 20% de participação com
+recursos do Tesouro Estadual no custo total do Programa.
+
+iii) Taxa de Câmbio
+
+A cotação do Dólar Americano (Compra), expedida pelo boletim do BACEN, na data do registro da Carta Consulta deste Programa, 08/10/
+2024 = R$5,57 será a referência cambial para a determinação do montante de recursos a serem contratados.
+
+2. Projeto
+2.1. Título
+Programa de Resiliência Climática do Espírito Santo - ES CLIMA
+2.2. Título Abreviado
+ES CLIMA
+2.3. Mutuário
+Estado do Espírito Santo
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+(i) Objetivo geral
+
+Fortalecer a resiliência climática do território do Espírito Santo com a implementação de medidas que minimizem o impacto dos eventos
+extremos sobre o ambiente e a população capixaba. 
+
+(ii) Objetivos Específicos: 
+
+1.Garantir disponibilidade em quantidade e qualidade de água, com a utilização de práticas de conservação do solo e água (barraginhas e
+cochinhos).
+
+2.Implantar biodigestores e cisternas, com o acesso de saneamento rural a famílias em áreas rurais.
+
+3.Apoiar os municípios na implantação da agenda ambiental e ações do licenciamento, controle e fiscalização ambiental (LC 140/2011),
+pela compra de resultados na gestão ambiental municipal e doação de equipamentos.
+
+4.Dotar o estado e municípios de instrumentos de planejamento para adaptação à mudança do clima reforçando a resiliência e a
+capacidade de adaptação a riscos relacionados ao clima e às mudanças climáticas, através de planos e estudos. 
+
+5.Reduzir os impactos negativos de chuvas extremas e inundações na Bacia do Itabapoana ? porção capixaba - elaborando estudos e
+projetos que permitam intervenções em Soluções Baseadas na Natureza.
+
+6.Recuperar e restaurar o ecossistema dos Manguezais da zona costeira capixaba
+
+7.Recuperar áreas degradas por disposição inadequada de resíduos sólidos urbanos.
+
+8.Aumentar a capacidade de gestão de resíduos sólidos urbanos, com a melhoria da coleta seletiva e logística reversa.
+
+
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 6
+2.6. Projeto/Indicadores
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+População rural atendida com tratamento de
+esgoto doméstico com uso de biodigestores
+Número de
+Propriedades Rurais
+Atendidas X
+habitantes/
+propriedade
+Unidade
+700,00
+15.756,00
+Volume de espera de água das barraginhas e
+cochinhos
+Volume médio das
+estruturas X número
+de estruturas
+construídas
+m³
+95.000,00
+5.537.100,00
+Implementação de ações do PROESAM
+Municípios atendidos Unidade
+70,00
+95,00
+Elaboração de Planos de Adaptação Climática
+para municípios
+Municípios com PACs
+elaborados e
+aprovados
+Unidade
+0,00
+90,00
+Ampliação da proteção de áreas de manguezais Acréscimo de área
+protegida de bosque
+de mangue nos
+manguezais
+Km²
+81,20
+91,20
+Aumento da coleta seletiva de resíduos sólidos
+Incremento de
+tonelada/ano de
+resíduos sólidos
+Ton/ano
+18.000,00
+23.400,00
+Geração de postos de trabalho de catadores de
+material reciclável
+número de catadores
+Unidade
+700,00
+770,00
+Incremento da renda dos catadores
+Renda per capita/ano
+R$
+18.000,00
+21.272,76
+Recuperação de áreas de disposição de RSU
+Área
+Hectares
+4,00
+100,00
+População beneficiada com os estudos e
+intervenções Bacia Hidrográfica Itabapoana
+Número de habitantes
+beneficiados
+residentes na região 
+habitantes
+0,00
+118.000,00
+Resíduos Sólidos Urbanos destinados a créditos
+de logística reversa
+Acréscimo em
+toneladas a serem
+recuperadas para a
+Logística Reversa
+ton/ano
+8.400,00
+10.920,00
+Redução em 50% do Balanço de carbono anual
+no Estado
+Resultado Balanço ref
+. ano 2021 apurado
+em (35,16 MtCO2e/
+ano) x 50%
+MtCO2e/ano
+35,16
+17,58
+2.7. Projeto/Componentes
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 7
+Componentes
+Valor(US$)
+C - C- 1 AÇÕES DE MITIGAÇÃO E ADAPTAÇÃO CLIMÁTICA
+89.491.400,00
+   S - SUBCOMPONENTE 1.1 PROGRAMA ÁGUAS CAPIXABAS
+36.955.700,00
+      P - P1 - Mobilização/Sensibilização, Credenciamento e Seleção de interessados e interessadas
+2.758.000,00
+      P - P2- Elaboração de Projetos Executivos
+6.626.000,00
+      P - P3 - Implantação de unidades de soluções individuais de tratamento de efluentes domésticos (biodigestores);
+4.645.000,00
+      P -      P4 -Construção de estruturas de reservação hídrica (cisternas)
+4.136.000,00
+      P - P5 - Implantação de práticas mecânicas para conservação de água e solo (barraginhas e, ou, coxinhos).
+15.906.000,00
+      P - P6 ? Promoção de boas práticas e educação ambiental em áreas urbanas e rurais
+81.000,00
+      P - P7- Supervisão das obras
+2.803.700,00
+   S - SUBCOMPONENTE 1.2 - PROESAM
+26.428.600,00
+      P - P1 - MODALIDADE DE APOIO - desembolso ?ex-ante? ? Cumprimento de metas obrigatórias
+7.500.000,00
+P - P2 - MODALIDADE DE INVESTIMENTO DESCENTRALIZADO - desembolso - ex-post - Cumprimento de
+metas graduais
+10.000.000,00
+      P - P3- Aquisição de equipamentos e veículos
+8.000.000,00
+      P - P4 - Capacitação em gestão ambiental para servidores municipais 
+928.600,00
+S - SUBCOMPONENTE 1.3 - APOIO AO PROGRAMA CAPIXABA DE MUDANÇAS CLIMÁTICAS - ESTUDOS E
+PROJETOS
+15.392.900,00
+      P - P1- Elaboração de Plano Estadual de Biodiversidade
+892.900,00
+P - P2 - Estudos e apoio ao programa Capixaba de Mudanças Climáticas que engloba, - Selo Descarboniza ES?,
+ o GERAR hidrogênio e o PCSBN
+4.821.400,00
+P - P3- Estudos e projetos de aplicação de soluções para energia renovável (combustível marítimo e aviação,
+diesel verde, fertilizante verde). 
+2.678.600,00
+P - P4 - Estudos e Apoio aos Municípios Capixabas para a Elaboração de Planos de Adaptação Climática e
+Fortalecimento Técnico dos Agentes Municipais
+7.000.000,00
+S - SUBCOMPONENTE 1.4 - OBRAS DE INFRAESTRUTURA VERDE (SOLUÇÕES BASEADAS NA NATUREZA
+)
+10.714.200,00
+      P - P1- Intervenções na Bacia do Itabapoana com SBN
+5.614.200,00
+      P - P2- Restauração ecológica de manguezais
+5.100.000,00
+C - COMPONENTE 2 - PROJETO INTEGRADO DE RESÍDUOS SÓLIDOS DO ES
+35.714.300,00
+   S - SUBCOMPONENTE 2.1 - ESTUDOS, PROJETOS E INTERVENÇÕES
+19.642.900,00
+      P - P1 - Atualização do Plano Estadual de Resíduos Sólidos
+178.600,00
+P - P2 - Estudo de Avaliação Preliminar e Investigação Confirmatória e projetos de mitigação/remediação/
+intervenções corretivas das áreas dos extintos lixões do território capixaba 
+17.767.900,00
+P - P3- Estudo para implementação de Pagamento por Serviços Ambientais para coleta de resíduos de mares e
+manguezais
+1.339.300,00
+P - P4- Estudo para identificação de estratégia e projetos para integração da cadeia da logística reversa às
+potencialidades econômicas das regiões capixabas
+357.100,00
+   S - SUBCOMPONENTES 2.2 - INFRAESTRUTURA PARA FORTALECIMENTOS DAS OCMRS
+16.071.400,00
+      P - P1- Estrutura para coleta seletiva: equipamentos, veículos, galpões e Infraestrutura
+16.071.400,00
+C - COMPONENTE 3 - FORTALECIMENTO INSTITUCIONAL
+4.383.500,00
+      P - P1- Melhoria do parque tecnológico da SEAMA e Aderes
+1.383.500,00
+P - P2 ? Centro de Integração e Monitoramento das Ações de Adaptação e Mitigação às Mudanças Climáticas
+do Espírito Santo (ES CLIMA)
+3.000.000,00
+C - COMPONENTE 4 - GESTÃO DO PROGRAMA
+4.410.800,00
+      P - P1 - Gerenciamento do Programa
+3.310.800,00
+      P - P 2 - Consultores 
+800.000,00
+      P - P 3 - Auditoria
+300.000,00
+Total dos Componentes
+134.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - C- 1 AÇÕES DE MITIGAÇÃO E ADAPTAÇÃO CLIMÁTICA
+Este componente tem como objetivo apoiar as estratégias de mitigação e adaptação às mudanças climáticas, visando fortalecer a
+capacidade do Estado do Espírito Santo para enfrentar esses desafios por meio de intervenções físicas, estudos e projetos
+estratégicos.
+Está dividido em três subcomponentes, apresentados a seguir:
+   S - SUBCOMPONENTE 1.1 PROGRAMA ÁGUAS CAPIXABAS
+Baseia-se na consolidação de iniciativas exitosas de conservação e revitalização de microbacias e corpos hídricos no estado
+utilizando-se para isso de alternativas técnicas como: práticas mecânicas de retenção de águas de chuva no solo; construção de
+cisternas para reservação de águas pluviais, além de melhoria das condições de saneamento ambiental em ocupações nas áreas
+rurais. Será implantado em sucessivas etapas, executadas em seis macroáreas de atuação em todo estado. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 8
+Em cada macroárea, áreas prioritárias são pré-selecionadas por meio de modelagem hidrogeológica, levando em consideração
+critérios técnicos de decisão, determinando um conjunto de áreas potencialmente relevantes para receberem infraestrutura de
+conservação de água e solo em propriedades rurais em cada microbacia hidrográfica. A seleção final de áreas ocorre a partir da
+seleção in loco, que define quais áreas dentro das propriedades rurais da agricultura familiar efetivamente devem ser alvo de
+intervenções. Os imóveis rurais selecionados serão atendidos com a elaboração de projetos e a implantação de obras mecânicas
+para retenção de escoamento superficial de águas pluviais e de estruturas para saneamento rural. Além disso, para localidades
+comprovadamente susceptíveis à escassez hídrica estão previstos também dimensionamento e implantação de cisternas para
+reservação de água de chuva.
+Este subcomponente está alinhado ao enquadramento  com o alcance dos objetivos ambientais ou climáticos, previstos no Inciso
+III do Art. 1º do Anexo I da Portaria SEAID-MPO Nº 220/2024, em conformidade com a Resolução COFIEX Nº 80/2023 (Inciso III,
+Art. 2)
+      P - P1 - Mobilização/Sensibilização, Credenciamento e Seleção de interessados e interessadas
+Proprietários rurais ou possuidores rurais ou responsáveis diretos pelo imóvel rural nas Macroáreas serão chamados a aderirem ao
+ Programa por meio de Edital de Convocação.
+Sabendo-se que uma das condições básicas para a participação é o conhecimento claro e consistente do objeto de interesse,
+durante as fases de credenciamento e de seleção do Edital de Convocação, serão realizadas as reuniões de mobilização e
+sensibilização para apresentar o programa, fornecendo informações e esclarecimentos necessários aos potenciais beneficiários. 
+As Reuniões de Mobilização e Sensibilização dos proprietários rurais serão programadas, por grupos de semelhanças, a partir do
+Mapa de Propriedades Prioritárias, para cada uma das seis macroáreas de atuação do programa.
+Como estratégia de alcance do público-alvo, a partir do mapeamento de propriedades prioritárias, está prevista articulação com
+atores locais relevantes (Comitês de Bacias Hidrográficas, Prefeituras Municipais, Conselhos Municipais de Meio Ambiente,
+Associações ou Sindicatos Rurais, Escritórios locais do Incaper, dentre outros), relacionados à macroárea, a fim de definir o
+número necessário de reuniões e os locais de realização.
+O Edital de Convocação contempla as fases de credenciamento e de seleção de proprietários rurais ou possuidores rurais ou
+responsáveis diretos por imóvel rural.
+Após tratativas e aceite dos proprietários, a validação definitiva da participação dos pretensos beneficiários ao Programa Águas
+Capixabas dar-se-á pela celebração de Termo de Adesão e Compromisso com a SEAMA.
+Os Termos de Adesão e Compromisso devem regular o quantitativo de estruturas a serem instaladas pelo estado na propriedade
+rural do beneficiário do programa, definir a área de implantação das estruturas, estabelecer as contrapartidas a serem fornecidas
+pelo beneficiário, determinar penalidades e demais condições.
+Neste produto está sendo financiado o pagamento de transportes para visitas, capacitação, aluguel de salas de reuniões.
+      P - P2- Elaboração de Projetos Executivos
+Para cada macroárea, com o Termo de Adesão e Compromisso devidamente assinado, avança-se para a etapa de
+dimensionamento das estruturas, onde os projetos executivos serão elaborados para cada propriedade, seguindo as normas da
+ABNT.
+A empresa contratada deverá indicar e elaborar projetos executivos das obras mecânicas e, ou, das estruturas voltadas à
+conservação de água e solo (barraginha e, ou, cochinho), ao saneamento ambiental rural (biodigestor) e à reservação hídrica (
+cisterna) a serem implementadas na propriedade rural do beneficiário, conforme condições técnicas existentes na propriedade.
+Os projetos executivos deverão considerar a realidade atual da propriedade à data da elaboração e propor medidas de retenção de
+ águas pluviais (barraginha, cochinho e, ou, cisterna) e saneamento rural (biodigestor) quando inexistentes ou subdimensionados.
+Os projetos que necessitarem do crivo dos órgãos de fiscalização e controle (municipais, estaduais e federais), inclusive ambiental,
+ deverão ser entregues à SEAMA devidamente aprovados nos órgãos competentes, incluindo o pagamento das taxas deles.
+Os projetos executivos das obras e estruturas deverão ser precedidos e estar acompanhados de levantamento topográfico.
+Os projetos executivos deverão conter plantas e desenhos detalhados das estruturas, que devem ter suas localizações
+georreferenciadas.
+Devem integrar os projetos executivos, os seguintes documentos técnicos: Planta de situação; Planta geral de implantação, com
+informações planialtimétricas e de locação; Planta e cortes de terraplenagem, com as cotas de nível projetadas e existentes;
+Cortes longitudinais e transversais; Detalhes (plantas, cortes, elevações e perspectivas) de elementos das estruturas e de seus
+componentes construtivos.
+Também integram os projetos executivos: memoriais descritivos, memórias de cálculo, especificações técnicas (especificações de
+execução, especificação técnica de instalação, especificação quantitativa e qualitativa dos materiais e equipamentos a serem
+usados), planilha de quantitativos, planilha de orçamento, composição de preços unitários e cronograma físico-financeiro,
+recomendações gerais.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 9
+A memória de cálculo deve contemplar todos os materiais previstos nos projetos para a execução das obras e, ou, estruturas. A
+planilha de quantitativos deve contemplar todos os elementos, dados, métodos e resultados, utilizados no dimensionamento das
+obras e, ou, estruturas e na especificação de materiais e equipamentos. O memorial descritivo deve atender aos projetos
+integralmente e orientar-se pelas normas técnicas vigentes.
+Serão dimensionadas 3.939 unidades de biodigestores, 1.576 cisternas e 36.914 barraginhas e, ou, cochinhos para propriedades
+rurais distribuídas nas seis macroáreas do programa.
+Neste Produto serão financiados somente os projetos.
+      P - P3 - Implantação de unidades de soluções individuais de tratamento de efluentes domésticos (biodigestores);
+Implantação dos biodigestores  precedida de elaboração de seus respectivos projetos executivos, os quais devem fornecer
+informações essenciais para a efetiva implantação das estruturas, garantindo sua eficácia e sustentabilidade.
+De posse dos projetos executivos, pode-se executar a estrutura definida para cada propriedade.
+Cumpre destacar que os biodigestores não serão instalados em todas as propriedades abrangidas pelo projeto, mas apenas
+naquelas com necessidades específicas de saneamento rural.
+A linha de ação de saneamento rural, com ênfase no esgotamento sanitário,  visa reduzir o fluxo de carga orgânica para corpos
+hídricos superficiais por meio da ampliação da taxa de captação e tratamento adequado dos dejetos domésticos das propriedades
+nas microbacias.
+Serão implantadas 3.939 unidades de biodigestores em propriedades rurais distribuídas nas macroáreas do programa.
+      P -      P4 -Construção de estruturas de reservação hídrica (cisternas)
+A implantação das cisternas deve ser precedida de elaboração de seus projetos executivos, os quais devem fornecer informações
+essenciais para a efetiva implantação das estruturas.
+De posse dos projetos executivos das estruturas, pode-se executar a estrutura definida para cada propriedade.
+As cisternas não serão instaladas em todas as propriedades abrangidas pelo projeto, apenas naquelas com necessidades
+específicas que apresentam problemas de escassez hídrica. 
+Desta forma, este produto implantará infraestrutura para disponibilização de água(cisternas) para usos mais nobres e prioritários
+em microbacias periodicamente afetadas por estiagens de severidade mais elevada, ou com potencial de agravamento em face às
+mudanças climáticas.
+Está prevista a implantação de 1.576 cisternas em propriedades rurais nas macroáreas de atuação do Programa Águas Capixabas.
+      P - P5 - Implantação de práticas mecânicas para conservação de água e solo (barraginhas e, ou, coxinhos).
+Esta linha de ação deve promover o aumento da oferta hídrica por meio da implantação obras mecânicas de retenção de água de
+chuva, tanto diretamente no solo, contribuindo assim para um incremento do teor de umidade nas camadas superficiais do solo e
+um aumento da taxa de recarga nas camadas mais profundas, bem como, por meio de estruturas de reservação propriamente
+ditas das águas de chuva.
+Está prevista a implantação de 36.914 barraginhas e, ou, cochinhos em áreas de recarga degradadas de propriedades rurais nas
+macroáreas de atuação do Programa Águas Capixabas.
+      P - P6 ? Promoção de boas práticas e educação ambiental em áreas urbanas e rurais
+A ação de Educação ambiental e difusão de práticas tem como objetivo prover informações aos beneficiários e comunidades do
+entorno sobre os benefícios potenciais e reais em decorrência da implantação das intervenções para armazenamento e captação
+de águas de chuvas e implantação de biodigestores para coleta do esgoto e melhoria da qualidade da água nas microbacias.
+A ação deve também promover a formação dos beneficiários quanto ao prolongamento da vida útil e otimização da operação das
+estruturas implantadas.
+Ademais, deve capacitar multiplicadores de conhecimento nas temáticas relativas ao programa.
+Estão contempladas no produto: produção de material de divulgação e difusão de conhecimento; organização de eventos e
+atividades de consolidação do conhecimento; promoção de oficinas de capacitação e de multiplicação de conhecimento.
+      P - P7- Supervisão das obras
+Contratação de uma empresa especializada em supervisão de obras para fiscalizar e acompanhar a implantação de todas as obras
+previstas no subcomponente 1.1. As principais atribuições são:  acompanhar as obras em todo o território do Estado, observar se
+as obras estão sendo executados seguindo rigorosamente as especificações técnicas, incluindo o respectivo controle da qualidade
+técnica; a observância do cumprimento, no âmbito dos contratos de obras, da legislação trabalhista e de segurança do trabalho,
+salvaguardas socioambientais; o acompanhamento da evolução física e financeira dos contratos, mediante registros em relatórios
+mensais.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 10
+   S - SUBCOMPONENTE 1.2 - PROESAM
+Com a compra de resultados na gestão ambiental municipal, pretende-se promover a sustentabilidade nos municípios do Estado
+do Espírito Santo, além de apoiar a estruturação da pasta ambiental municipal, implementação de práticas sustentáveis, visando a
+preservação dos recursos naturais e ao desenvolvimento sustentável, fortalecendo a agenda ambiental em escala municipal, como
+o controle ambiental, a articulação com recursos hídricos, compras sustentáveis, mudanças climáticas, unidades de conservação,
+educação ambiental e outras, contribuindo para a melhoria da eficiência e eficácia da gestão ambiental municipal.
+Por se tratar de compra de resultados, será feito contratos de doação condicionada da SEAMA com os municípios que aderirem ao
+ PROESAM
+Ressaltamos que a subcomponente está alinhada ao enquadramento  no alcance dos objetivos ambientais ou climáticos, previstos
+no Anexo I da Portaria SEAID-MPO Nº 220/2024, podendo se estender em todas os objetivos, dependendo do conjunto de metas a
+ serem compradas.
+      P - P1 - MODALIDADE DE APOIO - desembolso ?ex-ante? ? Cumprimento de metas obrigatórias
+A modalidade de apoio é um desembolso ex-ante, ou seja, o município o recebe como transferência voluntária, condicionada ao
+cumprimento dos requisitos prévios, sendo eles a adesão ao programa, evoluindo para o cumprimento integral das metas
+demarcadas como obrigatórias no quadro geral de metas. Este recurso deverá ser utilizado como contribuição no custeio para a
+consecução das demais metas graduais que condicionam o recebimento da modalidade de investimento descentralizado. O quadro
+de metas obrigatórias é proposto no momento do edital e contempla no mínimo uma meta por eixo, por interstício. São metas mais
+ alinhadas à gestão, podendo ser também alinhadas a resultados.
+O programa não tem como premissa o custeio integral das despesas que o município venha a incorrer, sendo este um incentivo
+temporário ao alcance das metas contratadas. Desta forma a despesa total com a modalidade de apoio, referente a contribuição no
+acréscimo temporário do custeio seria de US$ 1.786,00/MÊS x 60 meses, sendo considerada a adesão de 70 municípios. A
+proposta seriam dois editais, o primeiro com três anos (36 meses ? três interstícios de 12 meses cada) e o segundo com dois anos
+(24 meses ? dois interstícios de 12 meses cada).  As metas são propostas por uma Comissão de Acompanhamento do PROESAM,
+nomeada para cada ciclo, com a homologação da proposta pelo secretário da SEAMA. Esta Comissão é formada por servidores
+da SEAMA, IEMA, AGERH, IDAF, IJSN e SEDES. As metas estão de acordo com o objetivo estabelecido do ciclo com as
+respectivas formas de apuração e comprovação por parte dos municípios aderentes. No primeiro ciclo as metas obrigatórias foram:
+&#9679;Eixo Agenda Azul
+&#10004;realizar levantamento do quantitativo  destes ativas, inativas/desativadas e em construção no município e sua situação
+quanto ao licenciamento ambiental de acordo com a nota orientativa da comissão de acompanhamento do PROESAM
+&#10004;apresentar uma ação executada pelo município que tenha diretamente contribuído com a conservação de água e solo,
+diferente da ação apresentada na meta da agenda verde
+&#9679;eixo agenda marrom
+&#10004;implantar no site da prefeitura municipal publicação das licenças ambientais emitidas com atualizações periódicas
+&#10004;apresentar normas de procedimento de atividades finalísticas de controle e fiscalização ambiental; incluindo a
+regulamentação/normatização da fiscalização ambiental municipal e como é calculado a dosimetria
+&#9679;eixo agenda verde
+&#10004;implementar grupo de trabalho para elaborar o plano municipal de mata atlântica, incluindo mudanças climáticas e
+apresentar relatório de execução do cronograma
+&#10004;apresentar estudo de áreas prioritárias para conservação ambiental no município de acordo com nota orientativa da
+comissão de acompanhamento do PROESAM
+&#9679;eixo institucional
+&#10004;implantar no site da prefeitura municipal portal de acompanhamento dos: 1) documentos expedidos pelo conselho
+municipal de meio ambiente como convocações, atas, deliberações e outros; 2) relatórios de audiências públicas. 3) legislação
+ambiental municipal atualizada
+&#10004;adequar administrativamente o fundo municipal de meio ambiente criando unidade gestora e/ou unidade orçamentária
+própria e apresentar no site da prefeitura municipal de meio ambiente, demonstrativo atualizado da evolução dos recursos
+disponíveis no fundo municipal de meio ambiente
+&#9679;eixo temas transversais
+&#10004;realizar estudo da gravimetria dos resíduos coletados seletivamente (estimativa para papelão, vidro, metal, plástico) e
+demonstrar o percentual da população atendida pela coleta seletiva domiciliar, seja porta a porta ou pev
+&#10004;encaminhar à câmara de vereadores projeto de lei sobre a política municipal do bem-estar animal
+&#10004;elaborar e publicar decreto municipal de fomento a geração de energia a partir de fontes renováveis conforme nota
+técnica orientativa a ser emitida pela comissão de acompanhamento do PROESAM
+&#10004;apresentar uma prática de educação ambiental associada à política municipal de educação ambiental, conforme nota
+técnica orientativa a ser emitida pela comissão de acompanhamento do PROESAM
+Essas metas podem ter continuidade nos próximos ciclos e ainda serem complementadas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 11
+P - P2 - MODALIDADE DE INVESTIMENTO DESCENTRALIZADO - desembolso - ex-post - Cumprimento de metas
+graduais
+A modalidade de investimento descentralizado é um desembolso ex-post, ou seja, o município o recebe como transferência
+voluntária, condicionada ao cumprimento dos requisitos previamente fixados, sendo eles, o cumprimento das metas graduais. Este
+pagamento será proporcional ao alcance da meta e ficará condicionado ao alcance mínimo de 50% do quantitativo fixado para
+meta, conforme previsto no quadro geral de metas. O quadro de metas graduais é proposto no momento do edital e contempla no
+mínimo uma meta por eixo, por interstício. São metas mais alinhadas a resultados.
+Nesta modalidade possui dois aspectos importantes a serem observados, sendo eles a vinculação ao desempenho individual do
+município contratado e a sua aplicação em investimentos pelo município. Desta forma percebe-se que a segunda parcela atua
+como um prêmio a ser pago ao término do interstício, pela entrega dos resultados contratados. Resultados estes que para sua
+consecução, lhes foram adiantados recursos na modalidade apoio. A despesa total com a modalidade de investimento
+descentralizado, como premiação seria de US$ 28.571,00/ano (interstício) x 5 anos, sendo considerada a adesão de 70 municípios
+.
+Deve-se observar a fixação na Lei que o montante disponibilizado para investimento não poderá ser menor que aquele
+disponibilizado na modalidade apoio. O objetivo é contribuir significativamente para o envolvimento das Administrações Municipais
+nesse atendimento, estimulando os municípios a realizarem a gestão ambiental seja individualmente ou compartilhada e atuando
+de forma articulada com o Estado, no alcance integral das metas.
+Como na modalidade Apoio, as metas são propostas por uma Comissão de Acompanhamento do PROESAM, nomeada para cada
+ciclo, com a homologação da proposta pelo secretário da SEAMA. As metas estão de acordo com o objetivo do ciclo com as
+respectivas formas de apuração e comprovação por parte dos municípios aderentes. Assim, o município receberá a premiação de
+no mínimo 50% e no máximo 100% pelo alcance das metas nesta modalidade. 
+      P - P3- Aquisição de equipamentos e veículos
+Em prol da coletividade dos sistemas municipais de gestão ambiental e de recursos hídricos, a SEAMA fará aquisições cuja
+aplicação se justifica pelo ganho de escala significativa na implantação coletiva, assumindo assim a SEAMA o papel de
+coordenação executiva do investimento.
+A gestão ambiental tem como objetivo minimizar os impactos negativos causados pelo desenvolvimento das atividades causadoras
+de degradação, garantindo uma utilização mais eficiente dos recursos naturais e reduzindo o desperdício. As ferramentas de
+gestão ambiental são fundamentais para garantir a sustentabilidade e o equilíbrio, pois auxiliam os no monitoramento, controle,
+fiscalização e prevenção de impactos negativos ao meio ambiente.
+Assim, os processos de aquisição e contratação ocorrerão dentro do prazo de cinco anos. Entre os equipamentos tem-se:
+&#9679;AQUISIÇÃO DE VEÍCULO 4X4 PARA FISCALIZAÇÃO AMBIENTAL
+Esse produto engloba a estruturação e instrumentação da pasta ambiental municipal com a aquisição de veículo exclusivo para a
+fiscalização ambiental municipal. Este equipamento será utilizado para locomoção eficiente em terrenos mais debilitados, onde
+carros com suspensão baixa e motorização menor não conseguem ir. Também podem ser utilizados nas vistorias de controle e no
+resgate de animais.
+Os veículos são essenciais para o trabalho na proteção ambiental, permitindo o acesso a áreas remotas e sem estradas,
+desempenhando um papel importante na conservação ambiental.
+&#9679;AQUISIÇÃO DE VEÍCULO ADAPTADO PARA TRANSPORTE ANIMAL
+A aquisição de veículos especialmente adaptado para o transporte de animais silvestres, se faz necessário para atender aos
+parques estaduais e à fiscalização, sendo usada para levar os animais recolhidos ou resgatados para avaliação e tratamento por
+parte de instituições parceiras; com a segurança que os animais precisam, facilitando o dia a dia na questão do transporte dos
+animais.
+&#9679;AQUISIÇÃO DE MOTOCICLETA PARA FISCALIZAÇÃO AMBIENTAL
+Esse produto engloba a estruturação da pasta ambiental municipal com a aquisição de motocicleta equipada exclusiva para o
+atendimento a emergências ambientais e para a fiscalização ambiental municipal. Em 2024 foram doadas 51 motocicletas
+equipadas o que tem dado um bom resultado aos municípios beneficiados, pois oferece locomoção rápida e eficiente em terrenos
+hostis e no trânsito urbano em casos de acidentes ambientais e resgate de animais. Também podem ser utilizados nas ações de
+fiscalização ambiental.
+&#9679;AQUISIÇÃO DE EQUIPAMENTOS DE INFORMÁTICA
+Esse produto engloba a estruturação e instrumentação da pasta ambiental municipal. Muitos municípios ainda trabalham com
+processos impressos e não têm suporte tecnológico atualizado, moderno. Sugere-se aqui, para a modernização do parque
+tecnológico da gestão ambiental municipal, um kit incluindo workstation, computadores de mesa, tablets, impressora multifuncional
+colorida e, datashow; pois com a municipalização do licenciamento, os municípios têm entre suas competências a análises de
+projetos, dados e imagens, que normalmente necessitam de computadores de uma performance mais adequada à demanda de
+processamento de imagens. Para trabalhos administrativos, acompanhamento e emissão de documentos/licenças, além de acesso
+ao Geobases e até mesmo vídeo conferências. Percebe-se também a necessidade da impressão e captura de documentos
+oriundos da atividade fim de controle e fiscalização ambiental. Além de equipamento para projeção de projetos e imagens,
+trazendo mais facilidade e agilidade na análise de dados.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 12
+&#9679;AQUISIÇÃO DE EQUIPAMENTOS DE FISCALIZAÇÃO (GPS, DECEBILÌMETRO, MÁQUINA FOTOGRÁFICA, DRONE)
+Esse produto engloba a estruturação e instrumentação da pasta ambiental municipal com a aquisição de equipamento necessários
+ao controle e fiscalização ambiental, entre eles GPS, DECIBELÍMETRO, DRONE E MÁQUINA FOTOGRÁFICA DIGITAL,
+possibilitando o georreferenciamento, implantação da lei do silêncio, registro de vistorias e acidentes, além de vistorias mais
+precisas em lugares de difícil acesso, sendo estes equipamentos ferramentas fundamentais e essenciais para fiscalização
+ambiental municipal.
+&#9679;AQUISIÇÃO DE EQUIPAMENTOS DE BEM-ESTAR ANIMAL (CAPTURA, CONTENÇÃO, TRANSPORTE)
+Esse produto engloba a estruturação e instrumentação da pasta ambiental municipal com a aquisição de equipamentos de captura,
+contenção e transporte de animais (domésticos ou silvestres). Entre os equipamentos citamos o cambão, puçá, pinça, gancho,
+caixa de transporte pet, caixa metálica de contenção, perneiras e luvas (EPI). Ressalta-se que os municípios têm em suas metas a
+implantação de políticas de bem-estar animal e esses instrumentos contribuem para a estruturação da equipe ambiental
+responsável pela captura e encaminhamento de animais. Além disso, constantemente temos visto nos noticiários animais silvestres
+que por falta de território, vêm para as áreas urbanizadas, causando transtorno a população. Lembramos que estes animais não
+vivem sem a devida cobertura florestal e os cuidados necessários para sua existência, podendo ser vítimas de maus tratos, por
+desconhecimento da sociedade.
+      P - P4 - Capacitação em gestão ambiental para servidores municipais 
+O PROESAM é um programa que busca fomentar e fortalecer a gestão ambiental municipal e, um dos instrumentos para alcançar
+esse objetivo é a capacitação dos técnicos municipais nas diversas áreas ambientais, para o fortalecimento das políticas
+ambientais. A capacitação de servidores públicos municipais é fundamental para garantir a eficiência, eficácia e qualidade dos
+serviços oferecidos aos cidadãos. A atualização contínua contribui para o aprimoramento individual, mas também promove um
+serviço público de qualidade e alinhado às demandas da população.
+Para capacitação dos técnicos envolvidos diretamente no controle e fiscalização ambiental municipal, a SEAMA criou uma carteira
+de cursos/treinamentos, que atualmente conta com 27 opções. Em 2024 já foram ofertadas para servidores públicos municipais
+mais de 60 turmas distribuídas em 15 cursos diferentes, com mais de 1.200 horas aplicadas, atendendo mais de 1.000 inscritos. 
+   S - SUBCOMPONENTE 1.3 - APOIO AO PROGRAMA CAPIXABA DE MUDANÇAS CLIMÁTICAS - ESTUDOS E PROJETOS
+Este componente tem como objetivo apoiar o Programa Capixaba de Mudanças Climáticas nas estratégias de mitigação e
+adaptação às mudanças climáticas, integrando soluções baseadas na sustentabilidade e no desenvolvimento resiliente,
+promovendo a segurança ambiental e o bem-estar das comunidades capixabas.
+Ressaltamos que a subcomponente está alinhadas ao enquadramento  no alcance dos objetivos ambientais ou climáticos,
+previstos no Inciso VI e VII do Art. 1º do Anexo I da Portaria SEAID-MPO Nº 220/2024, e está estritamente em conformidade com a
+ Resolução COFIEX Nº 80/2023 (Inciso VI e VII, Art. 2)
+      P - P1- Elaboração de Plano Estadual de Biodiversidade
+Elaboração da Estratégia e Plano de Ação Estadual de Biodiversidade (EPAEB) do Espírito Santo, instrumento estratégico que
+alinhará o estado às metas de conservação, uso sustentável e repartição de benefícios da biodiversidade, em consonância com as
+diretrizes nacionais e globais. O Plano de ação conterá:
+1.Definição do marco zero da biodiversidade estadual,
+2.Identificação de ações prioritárias,
+3.Criação de indicadores de monitoramento e métodos para acompanhamento contínuo do progresso.
+O projeto de lei que institui Política Estadual da Biodiversidade Institui a Política Estadual da Biodiversidade e o Programa Estadual
+ da Biodiversidade no Estado do Espírito Santo está em processo de revisão para envio à Assembleia Legislativa.
+P - P2 - Estudos e apoio ao programa Capixaba de Mudanças Climáticas que engloba, - Selo Descarboniza ES?, o
+GERAR hidrogênio e o PCSBN
+O objetivo do "Estudos e apoio ao Programa Capixaba de Mudanças Climáticas" é apoiar a implementação e o fortalecimento de
+iniciativas estratégicas que promovam a descarbonização e a sustentabilidade no Espírito Santo, por meio de três frentes principais
+: o Selo Descarboniza ES, o Programa GERAR Hidrogênio e o Programa Capixaba de Carbono e Soluções Baseadas na Natureza
+(PCSBN). O projeto visa:
+1.Selo Descarboniza ES:
+O programa busca alinhar-se às diretrizes estratégicas do Programa  Capixaba de Mudanças Climáticas e do Plano Estadual de
+Descarbonização, promovendo a integração da dimensão climática em políticas setoriais, com ênfase na descarbonização e
+sustentabilidade. Seu objetivo é incentivar a adoção de práticas e tecnologias que mitiguem as emissões de gases de efeito estufa,
+impulsionar a competitividade sustentável e reconhecer as instituições comprometidas com a descarbonização. Para isso, o
+programa envolve:
+-Inventário de Emissões de Gases de Efeito Estufa: mensuração anual das emissões de cada organização participante.
+-      Plano de Descarbonização: um plano técnico que estabelece metas e define estratégias para atingir a descarbonização.
+-      Certificação e Selo: validação e certificação das empresas que atendem aos critérios do programa.
+2.Programa GERAR Hidrogênio
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 13
+Elaboração de um estudo estratégico para identificar mercados e oportunidades de ampliação e diversificação da cadeia de
+geração de energia renovável no Espírito Santo. O estudo fornecerá as bases para incentivar a produção, armazenamento e uso
+de hidrogênio sustentável, com foco em tecnologias de emissão neutra ou negativa de carbono. O estudo deverá abarcar:
+-Mapeamento de oportunidades de mercado e potencial de atração de investimento
+-Viabilidade econômica dos empreendimentos
+-Políticas públicas e incentivos necessários para potencializar o mercado
+3.Programa Capixaba de Carbono e Soluções Baseadas na Natureza (PCSBN)
+Elaboração de metodologias, procedimentos, requisitos e definição de modelo de governança para a implantação de um portfólio
+de projetos de carbono de alta integridade no ES, a fim de estruturar um Programa Jurisdicional de Carbono, tendo como
+pressuposto a regularização de áreas de RL- Reservas Legal e APP ? Área de Proteção Ambiental inscritas no CAR- Cadastro
+Ambietnal Rural, . A solução proposta visa integrar uma abordagem inovadora e sustentável para a recuperação e conservação
+dos ecossistemas do Estado. O escopo inclui:
+1.Definição de metodologia para estimação de linha de base, considerando as especificidades regulatórias nacional e estadual;
+2.Avaliação e recomendação de Plataformas de Registro existentes frente às necessidades de viabilidade do programa
+3.Apresentação de proposta de Distribuição de Benefícios para o projeto;
+4.Desenvolver proposta de modelo de governança para os projetos de carbono no Espírito Santo
+P - P3- Estudos e projetos de aplicação de soluções para energia renovável (combustível marítimo e aviação, diesel
+verde, fertilizante verde). 
+Tem por objetivo a implementação do Programa Gerar (Lei 11.253/2021) a partir da identificação, diversificação, desenvolvimento
+e apoio a projetos que promovam a aplicação de soluções energéticas renováveis em setores estratégicos. Serão priorizadas
+iniciativas que ofereçam inovações tecnológicas e promovam benefícios socioeconômicos, como geração de empregos,
+desenvolvimento regional e redução de impactos ambientais. São entregas do projeto:
+1.Identificação de projetos piloto com foco em combustíveis marítimos, aviação e diesel verde.
+2.Mapeamento de áreas de potencial para a implementação de tecnologias renováveis, especialmente eólica offshore e biomassa.
+3.Proposição de incentivos fiscais e tributários específicos para empresas e indústrias que desenvolvem soluções energéticas
+sustentáveis.
+4.Capacitação técnica de profissionais para atuar na cadeia produtiva das energias renováveis, garantindo a formação de mão-de-
+obra especializada.
+P - P4 - Estudos e Apoio aos Municípios Capixabas para a Elaboração de Planos de Adaptação Climática e
+Fortalecimento Técnico dos Agentes Municipais
+A proposta é apoiar os municípios capixabas na criação de Planos de Adaptação Climática (PACs), fornecendo capacitação
+técnica e consultoria especializada. O projeto também visa integrar os PACs às políticas públicas locais, promovendo uma
+abordagem sustentável e de longo prazo para o enfrentamento das mudanças climáticas. O escopo inclui:
+1.Realizar um diagnóstico climático dos municípios participantes, identificando vulnerabilidades e potenciais de adaptação.
+2.Oferecer capacitação técnica para agentes municipais em temas relacionados à adaptação climática.
+3.Apoiar a elaboração de Planos de Adaptação Climática personalizados para cada município.
+4.Promover a integração de políticas públicas municipais com estratégias estaduais e nacionais de enfrentamento às mudanças
+climáticas.
+5.Incentivar a participação de diferentes setores da sociedade na formulação e execução dos PACs.
+   S - SUBCOMPONENTE 1.4 - OBRAS DE INFRAESTRUTURA VERDE (SOLUÇÕES BASEADAS NA NATUREZA)
+Intervenções que desempenham funções infraestruturais ao mesmo tempo em que fornecem Serviços Ecossistêmicos. Os projetos
+devem ser propostos a partir das potencialidades e limitações biogeofísicas das paisagens e a gestão das águas, que adaptam as
+infraestruturas existentes ao ciclo hidrológico e, aos outros processos da natureza.
+Ressaltamos que a subcomponente está alinhadas ao enquadramento  no alcance dos objetivos ambientais ou climáticos,
+previstos no Inciso I e III do Art. 1º do Anexo I da Portaria SEAID-MPO Nº 220/2024, e, estritamente em conformidade com a
+Resolução COFIEX Nº 80/2023 (Inciso I e III, Art. 2)
+      P - P1- Intervenções na Bacia do Itabapoana com SBN
+Elaboração de Estudos e Projetos para a bacia hidrográfica do rio Itabapoana - porção capixaba - tem por finalidade a implantação
+de intervenções visando a redução dos reflexos das inundações na área de drenagem - apenas 2.696 km² situado no Estado - com
+abrangência total nos municípios de Divino de São Lourenço, Guaçuí, São José do Calçado, Bom Jesus do Norte, Apiacá e
+Mimoso do Sul, e, parcialmente os municípios de Dores do Rio Preto, Muqui e Presidente Kennedy. As intervenções serão
+baseadas na natureza e poderá beneficiar uma população estimada de 118.382 habitantes. 
+Neste contexto a engenharia disponibiliza opções técnicas compensatórias e as estruturas de baixo impacto, que podem atuar na
+linha dos Projetos LID (Low Impact Development), alternativas baseadas na natureza, com finalidade na retomada das condições
+de montante das poligonais das microbacias, visando o equilíbrio das vazões máximas a jusante, e, recuperação natural do tempo
+de concentração com retenção das precipitações pluviométricas, refletindo na redução da vazão excedente nos pontos de controle
+das respectivas microbacias.
+A elaboração de estudos e projetos para intervenções na bacia hidrográfica do rio Itabapoana - porção capixaba - está em
+conformidade com as diretrizes estabelecidas no Plano Estadual de Recursos Hídricos.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 14
+Neste Produto serão financiados estudos, projetos e intervenções na bacia.
+      P - P2- Restauração ecológica de manguezais
+De acordo com o mapeamento e a análise espaço-temporal dos manguezais do Espírito Santo, publicado pelo Instituto Estadual de
+Meio Ambiente e Recursos Hídricos, entre 1970 e 2015 houve uma redução da cobertura total de 136 km² para aproximadamente
+114 km². Em termos nacionais, em 1970 as áreas de manguezais do Estado correspondiam a 0,98% do total das áreas desses
+ecossistemas no Brasil, valor reduzido para 0,82% em 2015. Essa supressão de áreas decorre de atividades humanas
+insustentáveis em terra e ao longo das bacias hidrográficas, que estão impondo uma pressão intensa aos ecossistemas costeiros.
+O projeto visa integrar uma abordagem inovadora e sustentável para a recuperação e conservação dos ecossistemas de
+manguezal no estado do Espírito Santo, com financiamento a partir de Pagamento por Serviços Ambientais (PSA). Tem foco em
+desenvolver modelos para manutenção, recuperação e ampliação de áreas de manguezais, reconhecendo seu papel fundamental
+tanto para a biodiversidade quanto para a economia azul.
+1.Recuperação de mangues
+2.Desenvolvimento e identificação de metodologias para recuperação de áreas de manguezais
+3.Identificação de mecanismos de PSA para financiamento de ações de recuperação de manguezais
+4.Participação direta das comunidades locais no desenvolvimento dos projetos.
+C - COMPONENTE 2 - PROJETO INTEGRADO DE RESÍDUOS SÓLIDOS DO ES
+Para que o Estado possa avançar nas diretrizes e metas do Plano Estadual de Resíduos Sólidos, torna-se necessário ações que
+permitam a melhoria do cenário sobre a temática no território capixaba, com a recuperação das áreas supostamente contaminadas
+pela disposição inadequado de resíduos, da implantação da logística reversa e melhoria no sistema de coleta seletiva ampliado a
+cadeia produtiva da reciclagem e por consequência redução da utilização de aterros para a disposição de rejeitos.
+   S - SUBCOMPONENTE 2.1 - ESTUDOS, PROJETOS E INTERVENÇÕES
+Este subcomponente engloba as atividades de estudos e elaboração de planos que têm o objetivo de dotar o Estado e os
+municípios de informações, dados, estratégias, arcabouço legal, entre outras ações, visando integrar e apoiar as iniciativas em
+relação aos resíduos sólidos, pretendendo assim buscar a atualização Plano Estadual de Resíduos Sólidos (PERS-ES). Além de
+intervenções em áreas contaminadas.
+Ressaltamos que o subcomponente está alinhado ao enquadramento  no alcance dos objetivos ambientais ou climáticos, previstos
+no Inciso III e IV do Art. 1º do Anexo I da Portaria SEAID-MPO Nº 220/2024, e está estritamente em conformidade com a
+Resolução COFIEX Nº 80/2023 (Inciso III e IV, Art. 2)
+      P - P1 - Atualização do Plano Estadual de Resíduos Sólidos
+O projeto visa avaliar a execução das ações e atualizar o Plano Estadual de Resíduos Sólidos (PERS-ES), identificando
+precedências entre os projetos e seus impactos ambientais, sociais e econômicos. Além disso, busca-se analisar as
+potencialidades para a implementação da Economia Circular no Espírito Santo, com base em atos normativos e nas ações do
+PERS-ES. Após a hierarquização das ações e projetos, será elaborado um painel de monitoramento e um Plano de Trabalho para
+execução do plano. 
+Este avanço permitirá atrair novas empresas e novos negócios com corresponsabilidade ambiental, determinando os parâmetros
+de todas as etapas do tratamento de resíduos, desde a sua coleta, transporte, tratamento e descarte final. Assim, cuidamos dos
+nossos recursos ambientais com ações para melhoria da qualidade ambiental e soluções relacionadas ao tema resíduo sólidos. 
+Uma contribuição relevante também é que o PERS-ES traz um novo estudo sobre a evolução demográfica do Estado do Espírito
+Santo, que deverá ser utilizado pelas diversas instituições governamentais, acadêmicas entre outras, inclusive norteando ações do
+Governo e por suas secretarias. 
+O Plano é abrangente e alcança todos os 78 municípios do Estado do Espírito Santo, contribuindo para a promoção da
+participação efetiva da sociedade capixaba, princípio fundamental de gestão social, com o que possibilitará o estabelecimento de
+políticas públicas mais objetivas e decisivas para o tema, adequadas à realidade do nosso território.
+Principais entregas:
+1.Avaliação da execução das ações do PERS-ES e seus impactos.
+2.Análise das potencialidades para a Economia Circular.
+3.Hierarquização das ações e projetos do PERS-ES.
+4.Elaboração de um painel de monitoramento das ações e da Economia Circular.
+5.Desenvolvimento de um Plano de Trabalho e Mobilização Social, incluindo a revisão do PERS-ES.
+P - P2 - Estudo de Avaliação Preliminar e Investigação Confirmatória e projetos de mitigação/remediação/intervenções
+corretivas das áreas dos extintos lixões do território capixaba 
+Em 2019, na entrega do PERS, havia 11 lixões ativos no Estado. Atualmente, tem-se o registro de dois municípios com lixões
+ativos no Estado. Porém, mesmo com o encerramento dos lixões a céu aberto, fica o passivo das áreas supostamente
+contaminadas por disposição inadequada de RSU ? Resíduos Sólidos Urbanos, sem os devidos controles ambientais.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 15
+Assim, torna-se necessário a adequação e recuperação dessas áreas que possuem resíduos dispostos de forma inadequada.
+Porém, o Estudo de Avaliação Preliminar e Investigação Confirmatória dessas áreas é muito oneroso para os municípios arcarem
+exclusivamente, sendo necessário a intervenção do Estado para que os lixões não apenas sejam extintos do território capixaba,
+mas como também suas áreas sejam recuperadas de forma adequada. Assim, espera-se que os estudos de Avaliação Preliminar e
+Investigação Confirmatória realizados, possa ser construído o projeto indicando as medidas mitigadoras e de remediação mais
+adequadas a serem adotadas em cada área.
+Este produto contempla estudos e intervenções.
+P - P3- Estudo para implementação de Pagamento por Serviços Ambientais para coleta de resíduos de mares e
+manguezais
+Este estudo visa avaliar a viabilidade e desenvolver a modelagem operacional do Programa de Pagamento por Serviços
+Ambientais (PSA) "Mar Limpo, Pesca Sustentável - PSA-ES", voltado para pescadores artesanais no Espírito Santo. O objetivo é
+criar uma estrutura eficiente para compensar financeiramente os pescadores que realizam serviços ecossistêmicos, como a coleta
+de lixo em áreas marinhas e manguezais, contribuindo para a preservação dos ecossistemas costeiros.
+O estudo também investigará formas de valoração dos serviços ecossistêmicos prestados pelos pescadores, além de definir
+modelos de pagamento, áreas prioritárias de atuação, mecanismos de financiamento, e integrar o PSA com sistemas logísticos de
+resíduos e pesquisas acadêmicas. O estudo conterá:
+1.Definição de modelo de governança e operação dos eventos de coleta de lixo, incluindo a participação dos municípios
+2.Definição de metodologias para valoração dos serviços ecossistêmicos prestados, buscando financiamentos privados
+3.Mapeamento e definição de áreas costeiras de manguezais prioritárias para atuação do projeto
+4.Proposta de capacitação em práticas sustentáveis, monitoramento e manejo de resíduos para os participantes.
+Este produto contempla apenas os estudos.
+P - P4- Estudo para identificação de estratégia e projetos para integração da cadeia da logística reversa às
+potencialidades econômicas das regiões capixabas
+O estudo visa identificar estratégias e projetos que promovam a integração da cadeia de logística reversa com as potencialidades
+econômicas regionais do Espírito Santo, com o objetivo de impulsionar o desenvolvimento sustentável. A partir da análise do Plano
+Estadual de Resíduos Sólidos (PERS-ES), o estudo abordará governança, precedência entre ações, avaliação de impactos
+econômicos, sociais e ambientais, e o fomento à Economia Circular.
+   S - SUBCOMPONENTES 2.2 - INFRAESTRUTURA PARA FORTALECIMENTOS DAS OCMRS
+Esse subcomponente visa melhorar a infraestrutura das Organizações de Catadores de Materiais Recicláveis do estado,
+aumentando suas capacidades para processamento de resíduos sólidos.
+Ressaltamos que o subcomponente está alinhado ao enquadramento  no alcance dos objetivos ambientais ou climáticos, previstos
+no Inciso IV do Art. 1º do Anexo I da Portaria SEAID-MPO Nº 220/2024, e está estritamente em conformidade com a Resolução
+COFIEX Nº 80/2023 (Inciso IV, Art. 2)
+      P - P1- Estrutura para coleta seletiva: equipamentos, veículos, galpões e Infraestrutura
+A solução proposta envolve a aquisição de 100 caminhões com carroceria, obedecendo as especificações técnicas e requisitos de
+qualidade estabelecidos, bem como a construção de 50 galpões para armazenamento e manejo dos resíduos sólidos. 
+Através da aquisição dos caminhões, será possível ampliar a abrangência da coleta seletiva nos municípios, além de aumentar a
+eficiência na reciclagem. A construção dos galpões, por outro lado, é necessária para permitir maior segurança estrutural às
+organizações, bem como facilitar a execução de suas atividades. Essa solução contribuirá significativamente para melhorar a
+operação das associações, aumentando sua capacidade de processamento e, consequentemente, sua eficiência na reciclagem de
+materiais.
+C - COMPONENTE 3 - FORTALECIMENTO INSTITUCIONAL
+Apoiar a SEAMA e a Aderes em relação ao desenvolvimento de tecnologia da informação, equipando e modernizando as
+instituições, atualizando os parques tecnológicos e promovendo o fortalecimento institucional para aumentar a sustentabilidade dos
+ serviços, promovendo marcos que permitam o uso racional dos recursos e a salvaguarda de direitos.
+      P - P1- Melhoria do parque tecnológico da SEAMA e Aderes
+Um parque tecnológico atualizado e moderno é a melhor forma de analisar continuamente os dados de monitoramento; minimizar
+os riscos de segurança na área de TI e fazer o melhor uso dos recursos atuais.
+Essa modernização garante a segurança, o bom desempenho, a estabilidade e a agilidade para evoluir na transformação digital,
+para cumprir os objetivos e as metas das instituições.
+A infraestrutura inclui computadores, virtualização, redes e bancos de dados, evitando assim lentidão, manutenções excessivas e
+problemas em série.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 16
+P - P2 ? Centro de Integração e Monitoramento das Ações de Adaptação e Mitigação às Mudanças Climáticas do
+Espírito Santo (ES CLIMA)
+Centro de integração  para monitorar, analisar e recomendar ações de adaptação e mitigação às mudanças climáticas no Espírito
+Santo, integrando dados de diferentes setores e gerando conhecimento para orientar políticas públicas sustentáveis. Tendo os
+seguintes objetivos:
+1.Criar um sistema de coleta, análise e compartilhamento de dados climáticos e socioambientais.
+2.Monitorar indicadores ambientais, econômicos e sociais para avaliar os impactos das mudanças climáticas.
+3.Fomentar a integração de políticas setoriais em áreas como saúde, segurança hídrica, segurança alimentar e infraestrutura
+resiliente.
+4.Desenvolver relatórios periódicos e mapas de risco climático para o Espírito Santo.
+5.Promover a cooperação entre instituições de pesquisa, governo, sociedade civil e setor privado para ações conjuntas de
+adaptação e mitigação.
+6.Capacitar gestores e agentes locais sobre as melhores práticas de resiliência climática.
+C - COMPONENTE 4 - GESTÃO DO PROGRAMA
+Apoiar a SEAMA na gestão, monitoramento e avaliação do Programa, além de acompanhar o cumprimento de todos os requisitos
+socioambientais exigidos pelas normas do Banco Mundial e da legislação nacional. 
+      P - P1 - Gerenciamento do Programa
+A SEAMA/UGP contará com o suporte técnico, administrativo e financeiro de uma empresa gerenciadora a ser contratada para a
+execução dos demais componentes. Esta contratação tem a finalidade de assegurar o êxito da implementação do Programa,
+através da descentralização da gestão de rotina da SEAMA, com controles e registros em separado das informações relativas à
+execução físico-financeira, em conformidade com os normativos do Banco Mundial, com a devida observância dos normativos
+internos e legislação fiscal praticada, para a movimentação financeira, com registros e demonstrativos contábeis específicos, de
+acordo com os princípios de contabilidade aplicável. Assim, apoiará de forma transparente e eficiente, a auditoria independente dos
+ resultados anuais e finais do Programa.
+      P - P 2 - Consultores 
+Profissionais para desempenhar algumas atividades atribuídas a UGP ou desenvolver estudos específicos necessários ao longo da
+implementação do Projeto, estão previstas contratações de especialistas/consultores para complementar o quadro técnico da UGP
+.
+      P - P 3 - Auditoria
+Por exigência do organismo financiador do Programa será necessária a contratação de uma empresa de externas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 17
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Obras
+-
+-
+24.687.000,00
+18,42
+P- P3 - Implantação de unidades de soluções
+individuais de tratamento de efluentes domésticos
+(biodigestores);
+un
+3.939,00
+4.645.000,00
+3,47
+P-      P4 -Construção de estruturas de reservação
+ hídrica (cisternas)
+Unid
+1.576,00
+4.136.000,00
+3,09
+P- P5 - Implantação de práticas mecânicas para
+conservação de água e solo (barraginhas e, ou,
+coxinhos).
+Unid
+36.914,00
+15.906.000,00
+11,87
+Bens
+-
+-
+27.071.400,00
+20,20
+P- P3- Aquisição de equipamentos e veículos
+Lote
+1,00
+8.000.000,00
+5,97
+P- P1- Estrutura para coleta seletiva:
+equipamentos, veículos, galpões e Infraestrutura
+Lote
+1,00
+16.071.400,00
+11,99
+P- P2 ? Centro de Integração e Monitoramento
+das Ações de Adaptação e Mitigação às
+Mudanças Climáticas do Espírito Santo (ES
+CLIMA)
+Unid
+1,00
+3.000.000,00
+2,24
+Consultoria
+-
+-
+63.358.100,00
+47,28
+P- P1 - Mobilização/Sensibilização,
+Credenciamento e Seleção de interessados e
+interessadas
+Un
+2.188,00
+2.758.000,00
+2,06
+P- P2- Elaboração de Projetos Executivos
+Un
+1,00
+6.626.000,00
+4,94
+P- P6 ? Promoção de boas práticas e educação
+ambiental em áreas urbanas e rurais
+Unid
+1,00
+81.000,00
+0,06
+P- P7- Supervisão das obras
+Unid
+1,00
+2.803.700,00
+2,09
+P- P4 - Capacitação em gestão ambiental para
+servidores municipais 
+Unid
+78,00
+928.600,00
+0,69
+P- P1- Elaboração de Plano Estadual de
+Biodiversidade
+Unid
+1,00
+892.900,00
+0,67
+P- P2 - Estudos e apoio ao programa Capixaba de
+Mudanças Climáticas que engloba, - Selo
+Descarboniza ES?, o GERAR hidrogênio e o
+PCSBN
+Lote
+1,00
+4.821.400,00
+3,60
+P- P3- Estudos e projetos de aplicação de
+soluções para energia renovável (combustível
+marítimo e aviação, diesel verde, fertilizante verde
+). 
+Lote
+1,00
+2.678.600,00
+2,00
+P- P4 - Estudos e Apoio aos Municípios
+Capixabas para a Elaboração de Planos de
+Adaptação Climática e Fortalecimento Técnico
+dos Agentes Municipais
+unid
+78,00
+7.000.000,00
+5,22
+P- P1- Intervenções na Bacia do Itabapoana com
+SBN
+Unid
+1,00
+5.614.200,00
+4,19
+P- P2- Restauração ecológica de manguezais
+Lote
+1,00
+5.100.000,00
+3,81
+P- P1 - Atualização do Plano Estadual de
+Resíduos Sólidos
+Unid
+1,00
+178.600,00
+0,13
+P- P2 - Estudo de Avaliação Preliminar e
+Investigação Confirmatória e projetos de
+mitigação/remediação/intervenções corretivas das
+ áreas dos extintos lixões do território capixaba 
+unid
+1,00
+17.767.900,00
+13,26
+P- P3- Estudo para implementação de Pagamento
+por Serviços Ambientais para coleta de resíduos
+de mares e manguezais
+Unid
+1,00
+1.339.300,00
+1,00
+P- P4- Estudo para identificação de estratégia e
+projetos para integração da cadeia da logística
+reversa às potencialidades econômicas das
+regiões capixabas
+Unid
+1,00
+357.100,00
+0,27
+P- P1 - Gerenciamento do Programa
+Unid
+1,00
+3.310.800,00
+2,47
+P- P 2 - Consultores 
+Unid
+1,00
+800.000,00
+0,60
+P- P 3 - Auditoria
+Unid
+1,00
+300.000,00
+0,22
+Serviços que Não de Consultoria
+-
+-
+18.883.500,00
+14,09
+P- P1 - MODALIDADE DE APOIO - desembolso ?
+ex-ante? ? Cumprimento de metas obrigatórias
+Unid
+1,00
+7.500.000,00
+5,60
+P- P2 - MODALIDADE DE INVESTIMENTO
+DESCENTRALIZADO - desembolso - ex-post -
+Cumprimento de metas graduais
+Unid
+1,00
+10.000.000,00
+7,46
+P- P1- Melhoria do parque tecnológico da SEAMA
+ e Aderes
+Unid
+1,00
+1.383.500,00
+1,03
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 18
+Total Geral
+-
+-
+134.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+2.4 - ETAPAS REALIZADAS
+
+As atividades previstas no Componente 1 apresentam as seguintes etapas realizadas:
+
+Programa Águas capixabas - 
+
+A proposição do Programa Águas Capixabas tem como contexto histórico a existência de iniciativas em execução na Secretaria Estadual
+do Meio Ambiente e Recursos Hídricos (SEAMA) e na Agência Estadual de Recursos Hídricos (AGERH), destinadas a promover práticas
+conservacionistas e implantação de infraestruturas de conservação de água e solo.
+
+Decorrente do cenário de crise hídrica, tendo em vista a necessidade de aumentar a resiliência das bacias hidrográficas, principalmente
+associadas a eventos hidrológicos extremos e de promover sinergias entre a gestão de recursos hídricos e ações relacionadas ao
+reflorestamento e a conservação e proteção do solo, o Decreto Estadual nº 4.843-R, de 22 de março de 2021, institui o Programa para a
+Conservação e a Revitalização de Bacias Hidrográficas no Estado do Espírito Santo (PROBACIAS) - Anexo 10.
+
+O PROBACIAS, financiado pelo Fundágua e executado pela AGERH, tem como objetivo geral a implementação de três Unidades
+Demonstrativas de bacias hidrográficas localizadas na Região Sul do Estado do Espírito Santo por meio de ações de conservação e
+revitalização de áreas degradadas e como objetivos específicos: promover ações de conservação e revitalização em microbacias
+localizadas nas bacias hidrográficas dos rios Itapemirim e Novo; promover ações de saneamento rural em microbacias localizadas nas
+bacias hidrográficas dos rios Itapemirim e Novo; implementar o monitoramento da qualidade e da quantidade de água em microbacias
+localizadas nas bacias hidrográficas dos rios Itapemirim e Novo; promover a capacitação e aperfeiçoamento da mão de obra de servidores
+municipais, produtores rurais e seus familiares envolvidos na execução das intervenções propostas para as microbacias localizadas nas
+bacias hidrográficas dos rios Itapemirim e Novo; subsidiar ações futuras, afins à implementação do PROBACIAS em outras microbacias do
+ Estado.
+O PROBACIAS possui um conjunto de metas dentre as quais estão alcançar a implantação de estruturas de controle de atividades
+geradoras de sedimentos em até 700 propriedades rurais abrangendo as bacias hidrográficas contempladas.
+
+O Projeto Barraginha fomentou pesquisas visando a adaptação metodológica da patente social desenvolvida pela EMBRAPA, cuja
+aplicação prática no Estado do Espírito Santo ainda carecia de rigor acadêmico para sua validação. Esta etapa foi conduzida pelo Instituto
+Capixaba de Pesquisa, Assistência Técnica e Extensão Rural - INCAPER. E o projeto, com o objetivo empregar um caráter prático ao
+estudo anterior, apoiou os municípios interessados na implantação/difusão tecnológica em seu território, tornando o município de Atílio
+Vivacqua referência nacional na implantação da tecnologia das barraginhas.
+
+Estas iniciativas têm importante papel enquanto tecnologias relevantes para a melhoria das condições hidrológicas em microbacias
+estaduais, trazendo benefícios ambientais, sociais e econômicos para as populações nas localidades em que foram implantadas, à medida
+que ajudam a regularizar o aproveitamento da água das chuvas, amenizam problemas de estiagens, de enxurradas e de enchentes,
+contudo, o Águas Capixabas deve lograr êxito quanto ao ganho de escala e ao avanço das iniciativas no território capixaba.
+
+PROESAM  
+
+Em 2021 foi lançado o edital do Primeiro Ciclo do PROESAM, com recursos captaneados junto ao FUNDÁGUA. Este ciclo envolveu dois
+intertícios.
+
+Assim, realizamos a captação de recursos necessários à implementação do 1º Ciclo PROESAM, sendo posteriormente publicada a
+Portaria de instituição do 1º Ciclo PROESAM. Posteriormente à divulgação dos municípios habilitados a participarem do 1º Ciclo
+PROESAM, observando-se o disposto em Portaria SEAMA, foi celebrado o contrato com os municípios habilitados a participarem do 1º
+Ciclo PROESAM, observando-se o disposto na Portaria.
+Foi realizado o acompanhamento da execução de metas e monitoramento dos resultados dos interstícios  do 1º Ciclo PROESAM, além da
+publicação do primeiro RANQUE PROESAM e aplicação dos recursos na modalidade INVESTIMENTO DIRETO (compra de
+equipamentos para doação aos municípios para apoio à estruturação da pasta ambiental e contratação de capacitações na área de gestão
+ ambiental via ESESP).
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 19
+Todas as 38 metas (sendo 12 obrigatórias)  elencadas no primeiro ciclo (contrato de compra de resultados) abrangem algumas das ações
+descritas, seja no desenvolvimento social, conservação ambiental, diversidade, inclusão e redução das desigualdades, através de atos
+normativos construídos pelos municípios que visam a conservação ambiental local, o fomento a práticas sustentáveis pelo poder público e
+munícipes, o desenvolvimento de práticas ambientais que favorecem à melhoria da qualidade ambiental; ações de transparência
+institucional, além da construção de políticas públicas ambientais, formalizando o compromisso pela gestão ambiental responsável.
+Atualmente estamos em fase de término de auditoria do segundo interstício e execução do investimento direto (aplicação de cursos e
+compra de equipamentos para doação). Também está sendo construído a proposta do edital para o segundo ciclo da PROESAM, porém,
+com a escassez dos recursos próprios o mesmo atenderá somente 18 meses, sendo de extrema importância os recursos pleiteados para
+o fortalecimento da gestão ambiental municipal para o terceiro e quarto ciclo - Anexo 11 e 12.
+
+Programa Selo Descarboniza - ES: 
+
+O decreto que regulamenta a criação do programa e as normas de adesão e certificação. Instituições que aderirem ao programa
+voluntariamente deverão submeter inventários de emissões e planos de descarbonização para análise e verificação. O Estado,
+comprometido em zerar suas emissões líquidas de CO&#8322; até 2050, conforme o decreto estadual nº 4938-R de 02/08/2021, aderiu às
+campanhas "Race to Zero" e "Race to Resilience", no âmbito da Convenção-Quadro das Nações Unidas sobre Mudança do Clima -
+Anexo 13 e 14.
+
+Restauração Ecológica de Manguezais
+
+No ano de 2024 a SEAMA aprovou no Fundo Estadual de Meio Ambiente e Recursos Hídricos um programa para financiamento de
+negócios de impacto socioambiental e iniciativas para restauração de manguezais no valor de R$12,5 milhões. Compõe o escopo deste
+programa um edital para execução de um projeto piloto de pesquisa e extensão para teste de metodologias de restauração de manguezais
+, com busca ativa de oportunidades de financiamento via pagamento por serviços ambientais. 
+
+Este edital, no valor de R$3 milhões, foi elaborado e visa apoiar três projetos de pesquisa e extensão para restauração de áreas de
+manguezais em áreas de grande pressão urbana, na Grande Vitória. Com este edital pretende-se testar a melhor metodologia para
+restauração de manguezais para a realidade do Espírito Santo, bem como gerar informações sobre o custo de tais iniciativas para balizar
+a elaboração de um programa mais amplo, que contemple as 17 áreas de manguezais do Estado - Anexos 15 e 16.
+
+Estudo para implementação do Programa GERAR Hidrogênio
+
+Em junho de 2023, o Governo do Espírito Santo publicou o Decreto Nº 5416-R, que instituiu o Programa GERAR Hidrogênio. A SEAMA
+tem realizado conversas com atores chaves e articulando ações para viabilizar o programa, juntamente com a Secretaria de
+Desenvolvimento. Em 2024 foi lançado o novo programa ES Mais+Gás, com o objetivo de articular juntamente ao setor privado a
+ampliação do fornecimento e consumo de gás natural e biometano - Anexo 17.
+
+Estudo e consultoria para implementação e execução do Programa Capixaba de Carbono e Soluções Baseadas na Natureza (PCSBN) -
+Anexo 18.
+
+Em dezembro de 2023 o Governo do Estado publicou o Decreto Nº 5.558 que cria o Programa Capixaba de Carbono e Soluções
+Baseadas na Natureza - PCSBN no âmbito do Poder Executivo Estadual, com objetivo de coordenar e integrar as ações voltadas para a
+emissão, validação, verificação, comercialização e registro dos créditos de carbono, prioritariamente os de alta integridade social e
+ambiental, e dos demais ativos resultantes da utilização de Soluções Baseadas na Natureza - SBN visando a redução, remoção e captura
+de Gases de Efeito Estufa - GEE, o aumento da resiliência climática e a promoção do desenvolvimento sustentável no estado do Espírito
+Santo. Deste decreto também deriva a criação de três comitês diretivos setoriais, AFOLU, Carbono Azul e Biodiversidade, com
+participação de órgãos estaduais, do setor privado, academia e sociedade civil.
+
+Entre dezembro de 2023 e fevereiro deste ano foi realizada uma ampla conversa com o mercado florestal, de carbono e pagamento por
+serviços ambientais a partir de uma Sondagem de Mercado voltada para mapear soluções destinadas ao mercado de carbono e outros
+ativos resultantes da implementação de Soluções Baseadas na Natureza (SbN). Foram ouvidas 28 empresas e organizações.
+
+Também foram realizadas duas reuniões dos comitês diretivos, com o objetivo de alinhar as temáticas tratadas no edital.
+
+A partir das informações coletadas a equipe da SEAMA elaborou a primeira versão do termo de referência para contratação do estudo,
+que está em fase de revisão. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 20
+
+Vale enfatizar a criação do Programa Capixaba de Mudanças Climáticas no âmbito do Poder Executivo Estadual, com o objetivo de
+coordenar e integrar ações e políticas públicas voltadas à mitigação e adaptação as mudanças climáticas - Anexo 19.
+
+As atividades previstas no Componente 2 - RESÍDUOS SÓLIDOS URBANOS, apresentam as seguintes etapas realizadas - Anexos 20 e
+21:
+
+O Plano Estadual de Resíduos Sólidos (PERS-ES) é um instrumento exigido pela Lei Federal nº 12.305/2010 (regulamentada pelo Decreto
+Federal nº 10.936, de 12 de janeiro de 2022     ) e pela Lei Estadual n     º 9.264/2009 que instituíram as Políticas Nacional e Estadual de
+Resíduos Sólidos.
+
+O PERS-ES foi contratado pela Secretaria de Estado de Meio Ambiente e Recursos Hídricos (Seama), e construído com apoio do Grupo
+Técnico de Acompanhamento (GTA), composto por instituições do Governo que se inserem na temática de resíduos.
+
+Os Conselheiros do Conselho Estadual de Meio Ambiente (Consema) aprovaram a Versão Final do Plano Estadual de Resíduos Sólidos
+por meio      da Resolução CONSEMA n     º 004, de 16 de julho de 2019.
+
+O PERS-ES abrange todo o território capixaba para um horizonte de 20 (vinte) anos, de modo a atender ao conteúdo mínimo definido pelo
+art. 17º da Lei Federal n.º 12.305/2010 e pelo art. 29º da Lei 9.264/2009. Além disso, foi elaborado em consonância com os objetivos e as
+diretrizes das Políticas, Nacional e Estadual, de Saneamento Básico, de Recursos Hídricos e de Educação Ambiental, dentre outros,
+visando:
+
+&#9679;Proteção da saúde pública e da qualidade ambiental;
+&#9679;Redução, reutilização, reciclagem, tratamento e não geração de resíduos sólidos;
+&#9679;Disposição final ambientalmente adequada dos rejeitos;
+&#9679;Estímulo à adoção de padrões sustentáveis de produção e consumo de bens e serviços;
+&#9679;Incentivo à indústria da reciclagem;
+&#9679;Gestão integrada de resíduos sólidos;
+&#9679;Capacitação técnica continuada em gestão de resíduos sólidos; e
+&#9679;Integração de catadores de materiais recicláveis nas ações que envolvam a responsabilidade compartilhada pelo ciclo de vida dos
+ produtos.
+
+O documento foi fruto de uma ampla discussão com todos os setores envolvidos na gestão e gerenciamento de resíduos sólidos no
+Estado do Espírito Santo.
+
+Em cumprimento ao Plano Nacional de Resíduos Sólidos (PNRS), os municípios do Espírito Santo estão extinguindo seus lixões. Em 2006
+, 102 lixões a céu aberto ainda estavam ativos. Havia 52 deles quando a Política Nacional de Resíduos Sólidos foi instituída, em 2010.
+
+O PERS traz as poligonais de todas as áreas mapeadas do estado, bem como o órgão ambiental tem diretriz específica (Termo de
+Referência) para os estudos de diagnóstico e indicativos para o Gerenciamento das Áreas Contaminadas por Disposição Irregular de
+Resíduos Sólidos Urbanos (RSU), através do Estudo de Avaliação Preliminar e Investigação Confirmatória das áreas mapeadas. 
+
+Quanto ao incremento da coleta seletiva e à organização dos catadores, o Estado, através da Agência de Desenvolvimento de Micro e
+Pequenas Empresas e do Empreendedorismo ? Aderes, vem trabalhando o projeto de fortalecimento dos catadores de materiais
+recicláveis do Espírito Santo desde 2013. Em 2024, no Encontro Estadual de Catadores, promovido pela Aderes, foi apresentado o
+Diagnóstico Socioeconômico das associações de catadores de materiais recicláveis, com ênfase na evolução do Projeto Catadores 2013/
+2018 até 2023. O suporte é principalmente oferecido com foco na gestão do empreendimento e novas tecnologias para atuação em rede,
+além de assessoria técnica-administrativa para qualificar e ampliar as atividades de comercialização e dos processos das associações. 
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 21
+Entre 2022 e 2023, o Governo do Estado, por meio da Aderes, entregou às associações de catadores de materiais recicláveis 41 kits de
+escritório (notebook, impressora e mesa); dois caminhões com carroceria; um veículo tipo pick-up; um conjunto de prensa e balança; e
+uma empilhadeira a diesel. Também contratou, por meio de edital, serviço de assessoria em gestão administrativa e operacional para
+associações de catadores no Espírito Santo, para o período 2022-2024. O Espírito Santo conta com cerca de 700 catadores de materiais
+recicláveis organizados, distribuídos em 74 associações. A categoria movimenta a economia do Estado, recolhendo, principalmente,
+papelão, plásticos diversos, ferro e alumínio. Por mês, os catadores retiram do meio ambiente cerca de 1.500 toneladas de rejeitos. Com
+esses recursos, pretende-se aumentar em 30% esses números, injetando material reciclável para a indústria, fazendo a economia circular
+e melhorando a qualidade ambiental com a correta destinação de resíduos. 
+
+
+
+
+
+
+
+
+
+
+
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Estadual/Sem detalhes
+Estado do Espírito Santo ()
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+2.7 - CONDIÇÕES FINANCEIRAS DA OPERAÇÃO ? NECESSIDADE DE FINANCIAMENTO EXTERNO E OPÇÃO PELO AGENTE
+FINANCEIRO
+
+(i)Condições financeiras
+- Moeda do empréstimo: USD
+- Financiamento: 80% do empreendimento;
+(a)Prazos:
+- Prazo de desembolso: 60 meses;
+- Prazo de carência: 60 meses;
+- Prazo de amortização: 240 meses;
+- Prazo total: 300 meses.
+
+- Juros de amortização: - Juros de amortização: SOFR semestral acrescida de margem variável divulgada pelo Banco Mundial, próxima da
+ cotação em 1,24%a.a.;
+- Comissão de compromisso: 0,25%a.a. sobre o saldo não desembolsado;
+- Comissão de financiamento: 0,25% do valor do financiamento;
+
+ii) Necessidade de financiamento externo 
+
+O Espírito Santo vem buscando alternativas de financiamento que melhor atendam a sua carteira de crédito, sempre associada à
+avaliação das características dos projetos e programas de investimentos com as linhas disponíveis e agregação de valor dos agentes
+financiadores. As fontes de financiamento para projetos de desenvolvimento no Brasil apresentam um leque de oportunidades, com
+suporte de agências nacionais como o BNDES e Caixa Econômica Federal (CAIXA) e de agências internacionais de crédito, como Banco
+Mundial, BID, CAF, FONPLATA e outros.
+
+O custo de oportunidade do financiamento externo e prazos disponibilizados para o serviço da dívida, comparado ao nacional, e ainda a
+associação à possibilidade do apoio financeiro proporciona um leque de ações integradas e abrangentes para a sustentabilidade do
+investimento.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 22
+Apesar do prazo maior para concretizar a assinatura do contrato de empréstimo, as operações de crédito externo apresentam um custo de
+dívida menor que as operações de crédito interno disponíveis no mercado. Geralmente as operações externas estão atreladas à variação
+da taxa SOFR com índice próximo a 5%a.a., em condições que, incluindo os complementos remuneratórios operacionais, atingem um
+montante de custo em torno de 6,8% a.a. num patamar abaixo do custo das operações de crédito interno que oscilam em parâmetros na
+faixa de 12,86%
+a.a. no BNDES e 12,29%a.a. na CAIXA/FINISA.
+
+Outra vantagem comparativa positiva para a contratação de empréstimos externos está baseada na incorporação ao conhecimento local
+de um legado institucional e técnico construído junto com a agência multilateral de crédito (Banco Mundial), durante os processos para
+elaboração do projeto, análise, aprovação e execução do empreendimento.
+
+iii)Opção pelo agente financeiro
+
+A definição do Banco Mundial, pelo Governo do Estado, para agente financeiro do empréstimo considerou diversos aspectos. O primeiro
+deles, a vantajosidade financeira a ser obtida quando se compara a operação mencionada com o Banco Mundial em relação a outros
+organismos de crédito.
+
+Comparativo das condições financeiras dos agentes financeiros externos e internos:
+(conforme anexo 08)
+
+Taxa parâmetro para juros:
+
+BIRD, BID e CAF = Taxa SOFR (4,92% em 02/10/2024); BNDES = 11,10%a.a. (IPCA+6,31 em out2024); CAIXA/FINISA = 11,06%a.a (
+CDI).
+
+Taxa Spread:
+BIRD = 1,24%a.a.; BID = 1,26%a.a.; CAF = 1,80%a.a.; BNDES = 1,67%a.a.; CAIXA/FINISA = 1,11%a.a. (10% CDI)
+
+Prazo de carência:
+BIRD, BID e CAF = 60 meses; BNDES = 36 meses e CAIXA/FINISA = 12 meses
+
+Prazo Amortização
+BIRD e BID = 240 meses; CAF = 156 meses; BNDES = 256 meses; CAIXA/FINISA = 108 meses
+
+Comissão de financiamento:
+BIRD e BID = 0,25%; CAF = 0,85%; BNDES = 0,50%; CAIXA/FINISA = 0,00%
+
+Taxa de compromisso:
+BIRD = 0,25%; BID = 0,50%; CAF = 0,35%; BNDES e CAIXA/FINISA = 0,00%
+
+Desta forma:
+
+As instituições de crédito externo (citadas nesta análise) estruturam suas taxas de juros com base na SOFR, acrescido de um spread (fixo
+ou variável). Além dos juros diretos sobre cada parcela amortizada utilizam as comissões de compromisso e financiamento. Estas
+condições integram as práticas contratuais de importantes empreendimentos viabilizados pelo Governo do Estado;
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 23
+Quanto a atratividade dos prazos de carência e amortização da dívida, as instituições internacionais têm trabalhado com similaridade no
+período de carência em 60 meses, mantendo um horizonte alongado para pagamento total das parcelas (entre 216 e 300 meses), um
+cenário, que confirma esta condição atrativa para as operações de crédito contratadas junto ao Banco Mundial, nesta operação
+estruturada em 300 meses;
+
+No tocante aos valores das comissões de financiamento e compromisso, os portfólios de exigências que integram as condições
+apresentadas para esta operação estão nos patamares mínimos praticados pelas melhores condições do Banco Mundial e BID;
+
+Desta forma merece destaque o valor do spread praticado pelo Banco Mundial, evidenciando a representatividade positiva desta condição,
+somado ao legado técnico operacional para o segmento de práticas e infraestrutura rural sustentável, demonstra uma avaliação favorável
+na opção pelas prestações do período alongado para a amortização da dívida a ser contratada com o Banco;
+
+Em referência ao prazo de desembolso (60 meses) compatível ao prazo de carência (60 meses), que podem atingir 66 meses, quando
+somado ao período da semestralidade para o primeiro pagamento da semestralidade de amortização, tem fundamento estratégico
+executivo com reflexo na viabilidade econômica do empreendimento, uma vantagem comparativa positiva relacionada a atratividade dos
+juros reduzidos para o período de amortização, que representam inversões financeiras com benefícios no horizonte de projeto e serviço da
+ dívida; 
+
+- Quanto a oportunidade para captação de recursos internos foi demonstrado a análise comparativa de oportunidades frente às opções do
+BNDES e Caixa Econômica Federal - FINISA, com custos de juros referenciais a: (i) operações em TLP e Spread do BNDES = 12,86%aa.
+e; (ii) operações com custos do FINISA/CAIXA (CDI + spread) = 12,29% aa. (atualizações praticadas em out/2024);
+
+- Concluindo, as análises comparativas demostram um padrão de similaridade na estruturação dos índices praticados por fontes externas (
+Banco Mundial, BID e CAF) em patamares inferiores aos custos das fontes de recursos internos, e, assim validando as vantagens
+comparativas positivas deste demonstrativo, para optarmos pelas operações de crédito externo disponibilizadas pelo Banco Mundial.
+
+Além das considerações acima, o financiamento de qualquer projeto envolve um intenso diálogo entre o Banco Mundial e os governos
+sobre questões de desenvolvimento, e todos os projetos financiados oferecem soluções globais para desafios locais. Além de
+empréstimos, o Banco Mundial também oferece: Estudos Econômicos e Setoriais (ESW), Assessoria Técnica (TA), Serviço de Consultoria
+Reembolsável (RAS), treinamentos, conferências, seminários e intercâmbios de experiências e tecnologias com outros projetos no Brasil e
+em outros países. Nesse contexto, o Banco apoia o fortalecimento da capacidade institucional e técnica do sistema de assistência
+governamental, apoia o fortalecimento e a capacitação do órgão estadual que irá implementar a política pública e apoia ativamente no
+desenho e na implementação do projeto.
+
+Ainda, o envolvimento do Banco de maneira consistente visa identificar e tratar os desafios encontrados pelo mutuário, por meio de
+projetos de investimento que não só oferecem apoio financeiro, mas também ampliam as competências locais ao compartilhar
+experiências e conhecimentos globais.
+
+Logo, de forma conclusiva, o relacionamento construído ao longo dos últimos anos com o BIRD na implementação de diversos projetos
+em múltiplas áreas; as condições financeiras mais competitivas de mercado apresentadas; o avançado entendimento técnico na
+elaboração de um novo projeto; a orientação assertiva baseada nas lições aprendidas de projetos anteriores e em outras experiências que
+foram bem sucedidas; além das considerações relatadas ao longo do presente documento, contribuíram de forma significativa para que o
+Governo do Espírito Santo decidisse estabelecer esta parceria com o Banco Mundial, como a melhor opção entre os agentes financeiros
+do mercado, para financiar o ES CLIMA.
+
+Outro aspecto, pela escolha deste Banco como agente financeiro para este Programa fundamenta-se primordialmente no valor adicionado
+pela instituição, que em muito extrapola a disponibilização de recursos financeiros para obras e aquisições. Trabalhar com o Banco
+Mundial permite ao Estado do Espírito Santo e à SEAMA em particular beneficiar-se de sua expertise global para maximizar a efetividade
+das soluções propostas, além de elevar a probabilidade de cumprimento dos objetivos de desenvolvimento pretendidos, devido à intensa
+atuação do Banco em termos de supervisão e apoio técnico durante a fase de implementação do programa
+
+Os programas financiados pelo Banco Mundial buscam contribuir, de forma eficaz, para o desenvolvimento econômico e social dos países,
+com foco em resultados econômicos e ambientalmente sustentáveis, promovendo a inclusão social, a produtividade, a inovação e a
+integração econômica. Além disso, é fornecida assistência técnica desde a identificação e desenvolvimento de programas até a sua
+implementação, disponibilizando aos mutuários e executores um arcabouço de ferramentas de planejamento e gestão, apoiadas em
+metodologias de avaliação técnica, econômica, social e ambiental
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 24
+2.11. PROJETO/BENEFICIÁRIO
+2.6 BENEFICIÁRIOS
+A maioria das ações propostas no Programa atingem diretamente todo o território do Espírito Santo, principalmente por meio da
+participação dos municípios na implementação das diversas ações, refletindo em todos os 3.833.486 habitantes do Estado (IBGE 2023). 
+As ações propostas pelo Programa têm impactos positivos em várias áreas estratégicas, refletindo na melhoria do meio ambiente, na
+economia do Estado e bem-estar social.
+
+1.Promoção da Sustentabilidade Ambiental, incluindo ações de adaptação e mitigação
+
+A maioria das ações previstas no Programa estão alinhadas com esta área estratégica conforme descrito no objetivo geral como também
+em ações do objetivo específico. A seguir destacamos as principais ações que têm impacto direto nesta área estratégica:
+
+Componente 1: educação ambiental em áreas urbana e rurais, estudos e apoio ao programa Capixaba de Mudanças Climáticas que
+engloba, ?Selo Descarboniza ES?, o GERAR hidrogênio e o PCSBN, estudos e apoio aos Municípios para a Elaboração de Planos de
+Adaptação Climática, restauração ecológica de manguezais da zona costeira, A elaboração de estudos e projetos para intervenções na
+bacia hidrográfica do rio Itabapoana ? porção capixaba - está em conformidade com as diretrizes estabelecidas no Plano Estadual de
+Recursos Hídricos, visa a redução dos reflexos de inundações da porção capixaba na bacia hidrográfica do rio Itabapoana.
+O Programa Águas Capixabas é alternativa viável para promover práticas (implantação de biodigestores) que contribuem para a mitigação
+dos efeitos das mudanças climáticas decorrentes do aumento da concentração de gases de efeito estufa, como carbono e metano. Além
+disso, as cisternas vêm sendo utilizadas como sistemas alternativos de coleta da água de chuva para períodos de estiagem severas cada
+vez mais frequentes devido às mudanças climáticas.
+Componente 2: A indicação dos projetos de recuperação/mitigação das antigas áreas com disposição de resíduos sólidos urbanos é uma
+ação de sustentabilidade para garantir a qualidade das águas subterrâneas e do solo. E o aumento da reciclagem promove a economia
+circular, diminuindo a dependência dos recursos naturais e gerando.
+Componente 3: implementação do centro integrado e monitoramento das ações de adaptação climáticas do Estado
+
+2.Eficiência Energética, geração e/ou uso de energia de fontes renováveis
+
+No componente 1 estão previstas ações relacionadas a esta área estratégica: implantação de biodigestores em propriedades individuais,
+estudo para implementação do Programa GERAR Hidrogênio e apoio a projetos de aplicação de soluções para energia renovável (
+combustível marítimo e aviação, diesel verde, fertilizante verde).
+Essas ações pretendem fomentar a diversificação e o desenvolvimento de soluções energéticas renováveis em setores estratégicos.
+Assim, além dos benefícios socioeconômicos, e desenvolvimento regional, tem-se a redução de impactos ambientais e a implementação
+de tecnologias renováveis.
+
+3. implantação e/ou ampliação de ações de saneamento básico
+
+Algumas ações do Programa atendem a mais de uma área estratégica, a exemplo da implantação de unidades de soluções individuais de
+tratamento de efluentes domésticos (biodigestores), prevista no componente 1, que atenderão as residências localizadas nas áreas rurais
+de todo o Estado. No mesmo componente estão previstas construções de cisternas que visam prover estas residências isoladas de uma
+estrutura para armazenar água para o consumo dos moradores. 
+O biodigestor é uma das soluções individuais para o tratamento do esgoto doméstico em áreas não urbanas, principalmente em
+localidades de adensamento reduzido, onde os investimentos em uma solução coletiva não são prioridade. Garante às famílias o acesso
+mais seguro à água, evitando a proliferação de doenças de veiculação hídrica e os malefícios da falta de saneamento. Além disso,
+protegem rios e mananciais do despejo de dejetos domésticos, reduzindo a poluição dos corpos hídricos e do solo.
+A atualização do Plano Estadual de Resíduos Sólidos gerará impactos significativos na implantação e melhoria das ações de saneamento
+ao promover uma abordagem mais integrada e eficiente na gestão de resíduos sólidos, alinhada aos princípios da Economia Circular. Ao
+hierarquizar e avaliar as ações propostas, identificando precedências e causalidades, o plano poderá otimizar o uso de recursos, melhorar
+a eficácia das políticas públicas e envolver de forma mais ativa municípios e setores estratégicos, bem como as associações de catadores.
+Assim, o Programa abrange três áreas do saneamento básico:  esgotamento sanitário rural, resíduos sólidos e drenagem.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 25
+4. Gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes
+
+O Programa contempla um conjunto de ações aderentes a estas áreas estratégicas:
+Componente 1: construção de cisternas, Construção de estruturas de retenção de águas de chuva (barraginhas e cochinhos), e metas do
+PROESAM que promovam a melhoria da disponibilidade e qualidade hídrica.
+De acordo com a Política Estadual de Recursos Hídricos, instituída pela Lei nº 10.179, de 07 de março de 2014, o planejamento e a
+gestão dos recursos hídricos devem articular-se, dentre outros, com o planejamento do uso e ocupação do solo dos municípios e com as
+Políticas de Saneamento Básico e de Resíduos Sólidos, sem perder de vista as diversidades físicas, bióticas, ecológicas, demográficas,
+econômicas, sociais e culturais das diversas regiões do Estado. 
+Ademais, devem também assegurar a prevenção e a defesa contra eventos hidrológicos críticos adversos, de origem natural, ou
+decorrentes do uso inadequado dos recursos naturais.
+As ações de segurança hídrica do Programa Águas Capixabas contemplam ações de infraestrutura hídrica e ações de revitalização de
+bacias hidrográficas, sendo estas ações baseadas na utilização de alternativas técnicas localizadas e tecnologias sociais sustentáveis.
+O Programa Águas Capixabas é alternativa viável para promover práticas conservacionistas e implantação de infraestruturas de
+conservação de água e solo, incluindo ainda estruturas específicas (cisternas) para enfrentamento de problemas de escassez hídrica.
+Componente 2: Estudo de Avaliação Preliminar e Investigação Confirmatória e projetos de mitigação/remediação/intervenções corretivas
+das áreas dos extintos lixões do território capixaba. Com a avaliação e confirmação das áreas supostamente contaminadas por disposição
+irregular de resíduos sólidos, poder-se-á tomar medidas mitigadoras e remediadores para que essa contaminação seja controlada ou
+extinta, contribuindo para a conservação de solos e de recursos hídricos.
+ 
+
+5.Conservação e manejo da biodiversidade e/ou de recursos florestais.
+No componente 1 são previstas duas ações que têm repercussão tanto no manejo da biodiversidade e dos recursos florestais: a
+elaboração de Plano Estadual de Biodiversidade e a recuperação Ecológica de Manguezais. Com essas ações será possível realizar um
+diagnostico da biodiversidade do Estado e estabelecer metas para conservação e manejo.  Enquanto que com a recuperação do
+ecossistema dos manguezais que contempla a elaboração de projetos e intervenções diretas, poder-se-á incluir a valoração dos serviços
+ecossistêmicos prestados pelos manguezais, além dos benefícios econômicos e sociais, com protagonismo das comunidades locais.
+
+6.Melhoria do ambiente de negócios e/ou oportunidades
+Além das ações que impactam diretamente no meio ambiente e mudanças climáticas, o Programa apresenta algumas iniciativas que
+tencionam o desenvolvimento da economia do Estado de forma sustentável. Nos componentes 1 e 2 estão previstos:
+·         Estudo para identificação de estratégia e projetos para integração da cadeia da logística reversa às potencialidades econômicas das
+ regiões capixabas, visando o desenvolvimento regional sustentável;
+·    Os estudos de PSA para retirada de lixo do mar e restauração de manguezais promovem a sustentabilidade, a geração de renda e cria
+oportunidades de emprego a partir do fortalecimento da cadeia de restauração. Essas medidas valorizam os serviços ecossistêmicos,
+incentivam a conservação ambiental e abrem novas oportunidades de renda para comunidades pesqueiras. Ao restaurar manguezais,
+fortalecem a resiliência costeira, impulsionam setores como turismo e aquicultura sustentável, favorecendo um ciclo de desenvolvimento
+econômico alinhado à preservação ambiental.
+·         Estudos e apoio ao Programa Capixaba de Mudanças Climáticas apoiando a implementação e o fortalecimento de iniciativas
+estratégicas que promovam a descarbonização e a sustentabilidade no Espírito Santo, por meio de três frentes principais: o Selo
+Descarboniza ES, o Programa GERAR Hidrogênio e o Programa Capixaba de Carbono
+
+
+7.Benefício para empreendedores individuais, micro e pequenas empresas
+        Não se aplica.
+
+
+8.Geração de emprego e renda para a população de baixa renda e vulneráveis
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 26
+No componente 2, subcomponente 2.2 - Infraestrutura e fortalecimento das OCMRs, estão previstos investimentos para estruturar as
+unidades de reciclagem de resíduos sólidos por meio de construções de galpões, fornecimento de veículos e equipamentos necessários
+para o desenvolvimento das atividades de coleta seletiva e outras intrínsecas.  O perfil demográfico mais comum dos catadores capixabas
+é do gênero masculino (60%), entre 40 e 50 anos (51%), com escolaridade de fundamental incompleto (49%). Cerca de 29% dos
+indivíduos já atuam na profissão há mais de 10 anos. A faixa salarial mais representativa é de cerca de 1.500 reais, sendo que 46%
+dependem exclusivamente da atividade para suas finanças e 86% sustentam outra (s) pessoa (s) com seu salário. A solução proposta
+aumentará em 30% a renda dos cerca de 700 catadores de materiais recicláveis em atividade no estado, bem como favorecerá a
+implementação de, no mínimo, 70 novos postos de trabalho, através da melhoria da estrutura para coleta seletiva.
+Na componente 1, os estudos podem apontar que as ações de PSA, ao remunerar os pescadores pela retirada de lixo de áreas marinhas
+e manguezais, complementam a renda de comunidades que dependem da pesca, garantindo uma fonte alternativa de sustento. A
+restauração dos manguezais, por sua vez, cria novas oportunidades de trabalho, beneficiando tanto o meio ambiente quanto a economia
+local.
+
+
+9.Infraestrutura e/ou equipamentos sociais para populações de baixa renda e vulneráveis
+A aquisição de equipamentos para a gestão ambiental municipal permite uma maior qualidade e eficiência no desenvolvimento e oferta do
+serviço público, e por consequência tem uma melhoria na qualidade de vida para as famílias vulneráveis. As intervenções da bacia do
+Itabapoana permitirão um benefício direto às famílias mais suscetíveis às inundações constantes.  Ambos na componente 1.
+
+10.Ações de inclusão de minorias sociais entre os beneficiários
+Mais de 70% dos catadores de materiais recicláveis no Espírito Santo se autodeclaram como pretos ou pardos. O projeto da melhoria da
+infraestrutura das organizações permitirá maior inclusão produtiva da classe, através de novos postos de trabalho e aumento da renda dos
+catadores em atividade.  Há também o favorecimento a comunidade tradicional como os pescadores artesanais que poderão realizar o
+serviço ecossistêmico de coleta de lixo em mares e manguezais e operacionalização do PSA, e inclusive serem também beneficiados
+como colaboradores na Restauração Ecológica de Manguezais.
+
+11.Políticas voltadas para juventude, gênero e raça.
+Não se aplica
+
+12.Melhoria e/ou inovação em processo de prestação de serviços públicos, de gestão e/ou participação cidadã
+Como o PROESAM trata de compra de resultados da gestão municipal, podemos citar as metas de gestão e as metas de resultados a
+serem pactuadas, que permitem uma melhor prestação do serviço público, como a transparência dos atos deliberados pelos conselhos
+municipais, a transparência na aplicação dos recursos do Fundo Municipal de Meio Ambiente. Na subcomponente Águas Capixabas a
+promoção de boas práticas e educação ambiental poderá levar a uma efetiva participação dos beneficiários pela transferência de
+conhecimento nas temáticas relativas ao Programa Águas Capixabas.
+
+
+13.Melhoria das condições de educação e saúde
+Não se aplica
+
+14.Desenvolvimento, inovação e modernização tecnológica
+Entendendo que somente as intervenções diretas não são suficientes para melhorar o meio ambiente, o Estado propõe a instalação de um
+Centro de Integração e Monitoramento das Ações de Adaptação e Mitigação às Mudanças Climáticas do Espírito Santo (ES CLIMA). O
+centro estará habilitado para:
+1.Criar um sistema de coleta, análise e compartilhamento de dados climáticos e socioambientais.
+2.Monitorar indicadores ambientais, econômicos e sociais para avaliar os impactos das mudanças climáticas.
+3.Fomentar a integração de políticas setoriais em áreas como saúde, segurança hídrica, segurança alimentar e infraestrutura resiliente.
+4.Desenvolver relatórios periódicos e mapas de risco climático para o Espírito Santo.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 27
+O sistema denominado ?Barraginha? é uma tecnologia social desenvolvida e registrada pela Empresa Brasileira de Pesquisa
+Agropecuária (Embrapa) junto ao Instituto Nacional da Propriedade Industrial (INPI), constituindo-se em alternativa simples, de baixo custo
+e adaptável, que traz resultados efetivos para o aumento da disponibilidade hídrica em microbacias. O registro da tecnologia teve por
+objetivo garantir que a divulgação e a implantação de barraginhas em todo o país seguissem um mínimo de padronização, no que se
+refere a critérios de qualidade. A tecnologia é dita social pois sua implantação pressupõe o envolvimento dos produtores rurais, que
+participam de reuniões mobilizadoras e ficam aptos a indicar os locais das enxurradas onde devem ser construídas as barraginhas nas
+propriedades.
+Além desta atividade, que está inserida no componente 3 ? Fortalecimento Institucional, o Programa financiará a modernização do parque
+tecnológico da SEAMA e da Aderes, órgãos ligados às questões ambientais no Estado.
+
+15.Arranjos de financiamento que incentivem/contribuam com a participação privada
+Não se aplica
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Internas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Contrapartida Financeira
+CF
+US$
+26.800.000,00
+1,00
+26.800.000,00
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+BIRD
+US$
+107.200.000,00
+1,00
+107.200.000,00
+Total:
+134.000.000,00
+134.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+4.1 ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE - ARRANJO OPERACIONAL
+
+i- Arranjo Institucional
+
+a) GARANTIDOR - República Federativa do Brasil - Responsável, como devedor solidário, por todas as obrigações financeiras, tais como
+pagamento do principal, juros e demais encargos relativos ao financiamento.
+b) MUTUÁRIO - Governo do Estado do Espírito Santo
+c) AGENTE FINANCIADOR ? Banco Mundial ? Banco internacional de Reconstrução e Desenvolvimento 
+d) EXECUTOR - SEAMA - Secretaria de Estado da Infraestrutura e dos Recursos Hídricos
+Para coordenar o projeto de ES CLIMA do Estado do Espírito Santo será instituída pelo Governo do Estado uma Unidade de Gerência
+Geral do Projeto - UGP, subordinada diretamente à SEAMA. 
+
+ii- Matriz de Responsabilidade
+
+A distribuição das responsabilidades para operação do Programa por componente e por subcomponente, estão apresentados em um
+quadro no Anexo 8 - A.
+
+Responsabilidades das instituições envolvidas
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 28
+SEAMA - Secretaria de Estado de Meio Ambiente e Recursos Hídricos: Executora do Programa, responsável pelas  contratações de todos
+ os projetos, estudos, obras e aquisições, além da supervisão e controle Geral do Programa. 
+
+Aderes - Agência de Desenvolvimento das Micro e Pequenas Empresas e do Empreendedorismo: autarquia da administração pública
+indireta, vinculada à Secretaria de Estado de Desenvolvimento ? SEDES, apoiará  a implementação da ação relativa ao subcomponente 2.
+2 (Infraestrutura, veículos e equipamentos necessários para as atividades de coleta e reciclagem do lixo)
+
+SEP - Secretaria de Estado de Economia e Planejamento: participa da fase de captação da operação de crédito externo quanto às
+providências dos demais órgãos do estado nessa fase da operação, ações no SIGS e as articulações com o Banco Mundial e a SEAID ME
+ e da alocação de recursos da contrapartida;
+
+PGE - Procuradoria Geral do Estado: exercerá as atividades de assessoramento jurídico destacadamente no tocante às análises de
+editais, contratos e aditivos, além dos aspectos incidentes relacionados.
+
+SECONT - Secretaria de Estado de Controle e Transparência: órgão da administração direta do Estado. Exercer a supervisão técnica dos
+órgãos que compõem o Sistema de Controle Interno, prestando, como órgão central, a orientação normativa que julgar necessária;
+
+UGP (Unidade de Gerenciamento do Programa): será responsável pela coordenação geral do ES CLIMA, assim como todos os aspectos
+relacionados com a execução e administração, como: controle de cronograma de execução junto às gerências de obras que executarão às
+ações, monitoramento do desempenho do programa, processamento dos pagamentos, prestações de contas para solicitação de
+desembolsos e demais atividades necessárias para o desenvolvimento do Programa.
+
+iii- Arranjo Operacional
+
+Para coordenar a implementação do o ES CLIMA será instituída uma Unidade de Gerenciamento exclusiva para o Programa, subordinada
+diretamente à SEAMA. A execução operacional dos componentes será realizada pela SEAMA, com exceção do subcomponente 2.2 que
+será executado com apoio da Aderes.
+
+A UGP contará com equipe técnica e gerencial, composta, prioritariamente, por servidores públicos dos órgãos participantes do Programa
+para as funções-chave: (i) coordenação geral; (ii) coordenação de salvaguardas ambientais e sociais; (iii) coordenação de licitação; (iv)
+coordenação financeira e (v) coordenação de monitoramento e avaliação. Durante a implementação do Programa, caso necessário, serão
+contratados consultores individuais para complementar o quadro de pessoal da UGP, destacado a seguir:
+
+Quadro do Pessoal
+FunçãoQuantidade
+Coordenador da UGP01
+Coordenador adjunto da UGP01
+Assessoria técnica ? Engenheiros/biólogos02
+Assessoria jurídica para contratos - Advogados01
+Assessoria jurídica para Licitações - Advogados01
+Assessoria Social ?assistente social01
+Assessoria Ambiental ? Superior 01
+Assessoria administrativa / financeira02
+Coordenador técnico ? Engenheiro01
+Coordenador técnico ?Biólogo01
+Assessoria de Comunicação01
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 29
+TOTAL 
+
+Não está prevista a transferência de recursos entre as Instituições.
+
+4.2. Execução/Executores
+Executor: Secretaria de Estado de Meio Ambiente e Recursos Hídricos
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+Fax:
+CNPJ:                
+UF:  
+4.3. Execução/Prazo
+Prazo de Desembolso:
+5
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - C- 1 AÇÕES DE MITIGAÇÃO E ADAPTAÇÃO CLIMÁTICA
+89.491.400,00
+2.361.874,00
+9.447.496,00
+   S - SUBCOMPONENTE 1.1 PROGRAMA ÁGUAS CAPIXABAS
+36.955.700,00
+1.346.720,00
+5.386.880,00
+      P - P1 - Mobilização/Sensibilização, Credenciamento e Seleção de interessados e interessadas
+2.758.000,00
+551.600,00
+2.206.400,00
+      P - P2- Elaboração de Projetos Executivos
+6.626.000,00
+795.120,00
+3.180.480,00
+P - P3 - Implantação de unidades de soluções individuais de tratamento de efluentes domésticos (
+biodigestores);
+4.645.000,00
+0,00
+0,00
+      P -      P4 -Construção de estruturas de reservação hídrica (cisternas)
+4.136.000,00
+0,00
+0,00
+P - P5 - Implantação de práticas mecânicas para conservação de água e solo (barraginhas e, ou,
+coxinhos).
+15.906.000,00
+0,00
+0,00
+      P - P6 ? Promoção de boas práticas e educação ambiental em áreas urbanas e rurais
+81.000,00
+0,00
+0,00
+      P - P7- Supervisão das obras
+2.803.700,00
+0,00
+0,00
+   S - SUBCOMPONENTE 1.2 - PROESAM
+26.428.600,00
+337.144,00
+1.348.576,00
+      P - P1 - MODALIDADE DE APOIO - desembolso ?ex-ante? ? Cumprimento de metas obrigatórias
+7.500.000,00
+300.000,00
+1.200.000,00
+P - P2 - MODALIDADE DE INVESTIMENTO DESCENTRALIZADO - desembolso - ex-post -
+Cumprimento de metas graduais
+10.000.000,00
+0,00
+0,00
+      P - P3- Aquisição de equipamentos e veículos
+8.000.000,00
+0,00
+0,00
+      P - P4 - Capacitação em gestão ambiental para servidores municipais 
+928.600,00
+37.144,00
+148.576,00
+S - SUBCOMPONENTE 1.3 - APOIO AO PROGRAMA CAPIXABA DE MUDANÇAS CLIMÁTICAS -
+ ESTUDOS E PROJETOS
+15.392.900,00
+570.010,00
+2.280.040,00
+      P - P1- Elaboração de Plano Estadual de Biodiversidade
+892.900,00
+178.580,00
+714.320,00
+P - P2 - Estudos e apoio ao programa Capixaba de Mudanças Climáticas que engloba, - Selo
+Descarboniza ES?, o GERAR hidrogênio e o PCSBN
+4.821.400,00
+71.430,00
+285.720,00
+P - P3- Estudos e projetos de aplicação de soluções para energia renovável (combustível
+marítimo e aviação, diesel verde, fertilizante verde). 
+2.678.600,00
+100.000,00
+400.000,00
+P - P4 - Estudos e Apoio aos Municípios Capixabas para a Elaboração de Planos de Adaptação
+Climática e Fortalecimento Técnico dos Agentes Municipais
+7.000.000,00
+220.000,00
+880.000,00
+S - SUBCOMPONENTE 1.4 - OBRAS DE INFRAESTRUTURA VERDE (SOLUÇÕES BASEADAS
+NA NATUREZA)
+10.714.200,00
+108.000,00
+432.000,00
+      P - P1- Intervenções na Bacia do Itabapoana com SBN
+5.614.200,00
+108.000,00
+432.000,00
+      P - P2- Restauração ecológica de manguezais
+5.100.000,00
+0,00
+0,00
+C - COMPONENTE 2 - PROJETO INTEGRADO DE RESÍDUOS SÓLIDOS DO ES
+35.714.300,00
+1.168.978,00
+4.675.912,00
+   S - SUBCOMPONENTE 2.1 - ESTUDOS, PROJETOS E INTERVENÇÕES
+19.642.900,00
+526.078,00
+2.104.312,00
+      P - P1 - Atualização do Plano Estadual de Resíduos Sólidos
+178.600,00
+35.720,00
+142.880,00
+P - P2 - Estudo de Avaliação Preliminar e Investigação Confirmatória e projetos de mitigação/
+remediação/intervenções corretivas das áreas dos extintos lixões do território capixaba 
+17.767.900,00
+380.000,00
+1.520.000,00
+P - P3- Estudo para implementação de Pagamento por Serviços Ambientais para coleta de
+resíduos de mares e manguezais
+1.339.300,00
+80.358,00
+321.432,00
+P - P4- Estudo para identificação de estratégia e projetos para integração da cadeia da logística
+reversa às potencialidades econômicas das regiões capixabas
+357.100,00
+30.000,00
+120.000,00
+   S - SUBCOMPONENTES 2.2 - INFRAESTRUTURA PARA FORTALECIMENTOS DAS OCMRS
+16.071.400,00
+642.900,00
+2.571.600,00
+      P - P1- Estrutura para coleta seletiva: equipamentos, veículos, galpões e Infraestrutura
+16.071.400,00
+642.900,00
+2.571.600,00
+C - COMPONENTE 3 - FORTALECIMENTO INSTITUCIONAL
+4.383.500,00
+676.700,00
+2.706.800,00
+      P - P1- Melhoria do parque tecnológico da SEAMA e Aderes
+1.383.500,00
+276.700,00
+1.106.800,00
+P - P2 ? Centro de Integração e Monitoramento das Ações de Adaptação e Mitigação às
+Mudanças Climáticas do Espírito Santo (ES CLIMA)
+3.000.000,00
+400.000,00
+1.600.000,00
+C - COMPONENTE 4 - GESTÃO DO PROGRAMA
+4.410.800,00
+214.160,00
+856.640,00
+      P - P1 - Gerenciamento do Programa
+3.310.800,00
+122.160,00
+488.640,00
+      P - P 2 - Consultores 
+800.000,00
+80.000,00
+320.000,00
+      P - P 3 - Auditoria
+300.000,00
+12.000,00
+48.000,00
+Total
+0,00
+4.421.712,00
+17.686.848,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 30
+Ano 2
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - C- 1 AÇÕES DE MITIGAÇÃO E ADAPTAÇÃO CLIMÁTICA
+5.389.905,00
+21.559.620,00
+   S - SUBCOMPONENTE 1.1 PROGRAMA ÁGUAS CAPIXABAS
+2.458.479,00
+9.833.916,00
+      P - P1 - Mobilização/Sensibilização, Credenciamento e Seleção de interessados e interessadas
+0,00
+0,00
+      P - P2- Elaboração de Projetos Executivos
+530.080,00
+2.120.320,00
+P - P3 - Implantação de unidades de soluções individuais de tratamento de efluentes domésticos (
+biodigestores);
+325.150,00
+1.300.600,00
+      P -      P4 -Construção de estruturas de reservação hídrica (cisternas)
+289.520,00
+1.158.080,00
+P - P5 - Implantação de práticas mecânicas para conservação de água e solo (barraginhas e, ou,
+coxinhos).
+1.113.420,00
+4.453.680,00
+      P - P6 ? Promoção de boas práticas e educação ambiental em áreas urbanas e rurais
+4.050,00
+16.200,00
+      P - P7- Supervisão das obras
+196.259,00
+785.036,00
+   S - SUBCOMPONENTE 1.2 - PROESAM
+1.537.144,00
+6.148.576,00
+      P - P1 - MODALIDADE DE APOIO - desembolso ?ex-ante? ? Cumprimento de metas obrigatórias
+300.000,00
+1.200.000,00
+P - P2 - MODALIDADE DE INVESTIMENTO DESCENTRALIZADO - desembolso - ex-post -
+Cumprimento de metas graduais
+600.000,00
+2.400.000,00
+      P - P3- Aquisição de equipamentos e veículos
+600.000,00
+2.400.000,00
+      P - P4 - Capacitação em gestão ambiental para servidores municipais 
+37.144,00
+148.576,00
+S - SUBCOMPONENTE 1.3 - APOIO AO PROGRAMA CAPIXABA DE MUDANÇAS CLIMÁTICAS -
+ ESTUDOS E PROJETOS
+531.430,00
+2.125.720,00
+      P - P1- Elaboração de Plano Estadual de Biodiversidade
+0,00
+0,00
+P - P2 - Estudos e apoio ao programa Capixaba de Mudanças Climáticas que engloba, - Selo
+Descarboniza ES?, o GERAR hidrogênio e o PCSBN
+71.430,00
+285.720,00
+P - P3- Estudos e projetos de aplicação de soluções para energia renovável (combustível
+marítimo e aviação, diesel verde, fertilizante verde). 
+100.000,00
+400.000,00
+P - P4 - Estudos e Apoio aos Municípios Capixabas para a Elaboração de Planos de Adaptação
+Climática e Fortalecimento Técnico dos Agentes Municipais
+360.000,00
+1.440.000,00
+S - SUBCOMPONENTE 1.4 - OBRAS DE INFRAESTRUTURA VERDE (SOLUÇÕES BASEADAS
+NA NATUREZA)
+862.852,00
+3.451.408,00
+      P - P1- Intervenções na Bacia do Itabapoana com SBN
+220.000,00
+880.000,00
+      P - P2- Restauração ecológica de manguezais
+642.852,00
+2.571.408,00
+C - COMPONENTE 2 - PROJETO INTEGRADO DE RESÍDUOS SÓLIDOS DO ES
+1.845.402,00
+7.381.608,00
+   S - SUBCOMPONENTE 2.1 - ESTUDOS, PROJETOS E INTERVENÇÕES
+1.202.502,00
+4.810.008,00
+      P - P1 - Atualização do Plano Estadual de Resíduos Sólidos
+0,00
+0,00
+P - P2 - Estudo de Avaliação Preliminar e Investigação Confirmatória e projetos de mitigação/
+remediação/intervenções corretivas das áreas dos extintos lixões do território capixaba 
+973.580,00
+3.894.320,00
+P - P3- Estudo para implementação de Pagamento por Serviços Ambientais para coleta de
+resíduos de mares e manguezais
+187.502,00
+750.008,00
+P - P4- Estudo para identificação de estratégia e projetos para integração da cadeia da logística
+reversa às potencialidades econômicas das regiões capixabas
+41.420,00
+165.680,00
+   S - SUBCOMPONENTES 2.2 - INFRAESTRUTURA PARA FORTALECIMENTOS DAS OCMRS
+642.900,00
+2.571.600,00
+      P - P1- Estrutura para coleta seletiva: equipamentos, veículos, galpões e Infraestrutura
+642.900,00
+2.571.600,00
+C - COMPONENTE 3 - FORTALECIMENTO INSTITUCIONAL
+50.000,00
+200.000,00
+      P - P1- Melhoria do parque tecnológico da SEAMA e Aderes
+0,00
+0,00
+P - P2 ? Centro de Integração e Monitoramento das Ações de Adaptação e Mitigação às
+Mudanças Climáticas do Espírito Santo (ES CLIMA)
+50.000,00
+200.000,00
+C - COMPONENTE 4 - GESTÃO DO PROGRAMA
+172.000,00
+688.000,00
+      P - P1 - Gerenciamento do Programa
+140.000,00
+560.000,00
+      P - P 2 - Consultores 
+20.000,00
+80.000,00
+      P - P 3 - Auditoria
+12.000,00
+48.000,00
+Total
+0,00
+7.457.307,00
+29.829.228,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - C- 1 AÇÕES DE MITIGAÇÃO E ADAPTAÇÃO CLIMÁTICA
+4.998.411,00
+19.993.644,00
+   S - SUBCOMPONENTE 1.1 PROGRAMA ÁGUAS CAPIXABAS
+1.928.399,00
+7.713.596,00
+      P - P1 - Mobilização/Sensibilização, Credenciamento e Seleção de interessados e interessadas
+0,00
+0,00
+      P - P2- Elaboração de Projetos Executivos
+0,00
+0,00
+P - P3 - Implantação de unidades de soluções individuais de tratamento de efluentes domésticos (
+biodigestores);
+325.150,00
+1.300.600,00
+      P -      P4 -Construção de estruturas de reservação hídrica (cisternas)
+289.520,00
+1.158.080,00
+P - P5 - Implantação de práticas mecânicas para conservação de água e solo (barraginhas e, ou,
+coxinhos).
+1.113.420,00
+4.453.680,00
+      P - P6 ? Promoção de boas práticas e educação ambiental em áreas urbanas e rurais
+4.050,00
+16.200,00
+      P - P7- Supervisão das obras
+196.259,00
+785.036,00
+   S - SUBCOMPONENTE 1.2 - PROESAM
+1.537.144,00
+6.148.576,00
+      P - P1 - MODALIDADE DE APOIO - desembolso ?ex-ante? ? Cumprimento de metas obrigatórias
+300.000,00
+1.200.000,00
+P - P2 - MODALIDADE DE INVESTIMENTO DESCENTRALIZADO - desembolso - ex-post -
+Cumprimento de metas graduais
+600.000,00
+2.400.000,00
+      P - P3- Aquisição de equipamentos e veículos
+600.000,00
+2.400.000,00
+      P - P4 - Capacitação em gestão ambiental para servidores municipais 
+37.144,00
+148.576,00
+S - SUBCOMPONENTE 1.3 - APOIO AO PROGRAMA CAPIXABA DE MUDANÇAS CLIMÁTICAS -
+ ESTUDOS E PROJETOS
+895.720,00
+3.582.880,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 31
+      P - P1- Elaboração de Plano Estadual de Biodiversidade
+0,00
+0,00
+P - P2 - Estudos e apoio ao programa Capixaba de Mudanças Climáticas que engloba, - Selo
+Descarboniza ES?, o GERAR hidrogênio e o PCSBN
+240.000,00
+960.000,00
+P - P3- Estudos e projetos de aplicação de soluções para energia renovável (combustível
+marítimo e aviação, diesel verde, fertilizante verde). 
+135.720,00
+542.880,00
+P - P4 - Estudos e Apoio aos Municípios Capixabas para a Elaboração de Planos de Adaptação
+Climática e Fortalecimento Técnico dos Agentes Municipais
+520.000,00
+2.080.000,00
+S - SUBCOMPONENTE 1.4 - OBRAS DE INFRAESTRUTURA VERDE (SOLUÇÕES BASEADAS
+NA NATUREZA)
+637.148,00
+2.548.592,00
+      P - P1- Intervenções na Bacia do Itabapoana com SBN
+260.000,00
+1.040.000,00
+      P - P2- Restauração ecológica de manguezais
+377.148,00
+1.508.592,00
+C - COMPONENTE 2 - PROJETO INTEGRADO DE RESÍDUOS SÓLIDOS DO ES
+2.242.900,00
+8.971.600,00
+   S - SUBCOMPONENTE 2.1 - ESTUDOS, PROJETOS E INTERVENÇÕES
+1.600.000,00
+6.400.000,00
+      P - P1 - Atualização do Plano Estadual de Resíduos Sólidos
+0,00
+0,00
+P - P2 - Estudo de Avaliação Preliminar e Investigação Confirmatória e projetos de mitigação/
+remediação/intervenções corretivas das áreas dos extintos lixões do território capixaba 
+1.600.000,00
+6.400.000,00
+P - P3- Estudo para implementação de Pagamento por Serviços Ambientais para coleta de
+resíduos de mares e manguezais
+0,00
+0,00
+P - P4- Estudo para identificação de estratégia e projetos para integração da cadeia da logística
+reversa às potencialidades econômicas das regiões capixabas
+0,00
+0,00
+   S - SUBCOMPONENTES 2.2 - INFRAESTRUTURA PARA FORTALECIMENTOS DAS OCMRS
+642.900,00
+2.571.600,00
+      P - P1- Estrutura para coleta seletiva: equipamentos, veículos, galpões e Infraestrutura
+642.900,00
+2.571.600,00
+C - COMPONENTE 3 - FORTALECIMENTO INSTITUCIONAL
+50.000,00
+200.000,00
+      P - P1- Melhoria do parque tecnológico da SEAMA e Aderes
+0,00
+0,00
+P - P2 ? Centro de Integração e Monitoramento das Ações de Adaptação e Mitigação às
+Mudanças Climáticas do Espírito Santo (ES CLIMA)
+50.000,00
+200.000,00
+C - COMPONENTE 4 - GESTÃO DO PROGRAMA
+172.000,00
+688.000,00
+      P - P1 - Gerenciamento do Programa
+140.000,00
+560.000,00
+      P - P 2 - Consultores 
+20.000,00
+80.000,00
+      P - P 3 - Auditoria
+12.000,00
+48.000,00
+Total
+0,00
+7.463.311,00
+29.853.244,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - C- 1 AÇÕES DE MITIGAÇÃO E ADAPTAÇÃO CLIMÁTICA
+3.722.599,00
+14.890.396,00
+   S - SUBCOMPONENTE 1.1 PROGRAMA ÁGUAS CAPIXABAS
+1.625.455,00
+6.501.820,00
+      P - P1 - Mobilização/Sensibilização, Credenciamento e Seleção de interessados e interessadas
+0,00
+0,00
+      P - P2- Elaboração de Projetos Executivos
+0,00
+0,00
+P - P3 - Implantação de unidades de soluções individuais de tratamento de efluentes domésticos (
+biodigestores);
+278.700,00
+1.114.800,00
+      P -      P4 -Construção de estruturas de reservação hídrica (cisternas)
+248.160,00
+992.640,00
+P - P5 - Implantação de práticas mecânicas para conservação de água e solo (barraginhas e, ou,
+coxinhos).
+954.360,00
+3.817.440,00
+      P - P6 ? Promoção de boas práticas e educação ambiental em áreas urbanas e rurais
+4.050,00
+16.200,00
+      P - P7- Supervisão das obras
+140.185,00
+560.740,00
+   S - SUBCOMPONENTE 1.2 - PROESAM
+1.137.144,00
+4.548.576,00
+      P - P1 - MODALIDADE DE APOIO - desembolso ?ex-ante? ? Cumprimento de metas obrigatórias
+300.000,00
+1.200.000,00
+P - P2 - MODALIDADE DE INVESTIMENTO DESCENTRALIZADO - desembolso - ex-post -
+Cumprimento de metas graduais
+400.000,00
+1.600.000,00
+      P - P3- Aquisição de equipamentos e veículos
+400.000,00
+1.600.000,00
+      P - P4 - Capacitação em gestão ambiental para servidores municipais 
+37.144,00
+148.576,00
+S - SUBCOMPONENTE 1.3 - APOIO AO PROGRAMA CAPIXABA DE MUDANÇAS CLIMÁTICAS -
+ ESTUDOS E PROJETOS
+660.000,00
+2.640.000,00
+      P - P1- Elaboração de Plano Estadual de Biodiversidade
+0,00
+0,00
+P - P2 - Estudos e apoio ao programa Capixaba de Mudanças Climáticas que engloba, - Selo
+Descarboniza ES?, o GERAR hidrogênio e o PCSBN
+380.000,00
+1.520.000,00
+P - P3- Estudos e projetos de aplicação de soluções para energia renovável (combustível
+marítimo e aviação, diesel verde, fertilizante verde). 
+100.000,00
+400.000,00
+P - P4 - Estudos e Apoio aos Municípios Capixabas para a Elaboração de Planos de Adaptação
+Climática e Fortalecimento Técnico dos Agentes Municipais
+180.000,00
+720.000,00
+S - SUBCOMPONENTE 1.4 - OBRAS DE INFRAESTRUTURA VERDE (SOLUÇÕES BASEADAS
+NA NATUREZA)
+300.000,00
+1.200.000,00
+      P - P1- Intervenções na Bacia do Itabapoana com SBN
+300.000,00
+1.200.000,00
+      P - P2- Restauração ecológica de manguezais
+0,00
+0,00
+C - COMPONENTE 2 - PROJETO INTEGRADO DE RESÍDUOS SÓLIDOS DO ES
+1.042.900,00
+4.171.600,00
+   S - SUBCOMPONENTE 2.1 - ESTUDOS, PROJETOS E INTERVENÇÕES
+400.000,00
+1.600.000,00
+      P - P1 - Atualização do Plano Estadual de Resíduos Sólidos
+0,00
+0,00
+P - P2 - Estudo de Avaliação Preliminar e Investigação Confirmatória e projetos de mitigação/
+remediação/intervenções corretivas das áreas dos extintos lixões do território capixaba 
+400.000,00
+1.600.000,00
+P - P3- Estudo para implementação de Pagamento por Serviços Ambientais para coleta de
+resíduos de mares e manguezais
+0,00
+0,00
+P - P4- Estudo para identificação de estratégia e projetos para integração da cadeia da logística
+reversa às potencialidades econômicas das regiões capixabas
+0,00
+0,00
+   S - SUBCOMPONENTES 2.2 - INFRAESTRUTURA PARA FORTALECIMENTOS DAS OCMRS
+642.900,00
+2.571.600,00
+      P - P1- Estrutura para coleta seletiva: equipamentos, veículos, galpões e Infraestrutura
+642.900,00
+2.571.600,00
+C - COMPONENTE 3 - FORTALECIMENTO INSTITUCIONAL
+50.000,00
+200.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 32
+      P - P1- Melhoria do parque tecnológico da SEAMA e Aderes
+0,00
+0,00
+P - P2 ? Centro de Integração e Monitoramento das Ações de Adaptação e Mitigação às
+Mudanças Climáticas do Espírito Santo (ES CLIMA)
+50.000,00
+200.000,00
+C - COMPONENTE 4 - GESTÃO DO PROGRAMA
+172.000,00
+688.000,00
+      P - P1 - Gerenciamento do Programa
+140.000,00
+560.000,00
+      P - P 2 - Consultores 
+20.000,00
+80.000,00
+      P - P 3 - Auditoria
+12.000,00
+48.000,00
+Total
+0,00
+4.987.499,00
+19.949.996,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+TOTAL
+COMPONENTES
+CUSTO
+CF
+BIRD
+CF
+BIRD
+C - C- 1 AÇÕES DE MITIGAÇÃO E ADAPTAÇÃO CLIMÁTICA
+1.425.491,00
+5.701.964,00
+17.898.280,00
+71.593.120,00
+   S - SUBCOMPONENTE 1.1 PROGRAMA ÁGUAS CAPIXABAS
+32.087,00
+128.348,00
+7.391.140,00
+29.564.560,00
+      P - P1 - Mobilização/Sensibilização, Credenciamento e Seleção de interessados e interessadas
+0,00
+0,00
+551.600,00
+2.206.400,00
+      P - P2- Elaboração de Projetos Executivos
+0,00
+0,00
+1.325.200,00
+5.300.800,00
+P - P3 - Implantação de unidades de soluções individuais de tratamento de efluentes domésticos (
+biodigestores);
+0,00
+0,00
+929.000,00
+3.716.000,00
+      P -      P4 -Construção de estruturas de reservação hídrica (cisternas)
+0,00
+0,00
+827.200,00
+3.308.800,00
+P - P5 - Implantação de práticas mecânicas para conservação de água e solo (barraginhas e, ou,
+coxinhos).
+0,00
+0,00
+3.181.200,00
+12.724.800,00
+      P - P6 ? Promoção de boas práticas e educação ambiental em áreas urbanas e rurais
+4.050,00
+16.200,00
+16.200,00
+64.800,00
+      P - P7- Supervisão das obras
+28.037,00
+112.148,00
+560.740,00
+2.242.960,00
+   S - SUBCOMPONENTE 1.2 - PROESAM
+737.144,00
+2.948.576,00
+5.285.720,00
+21.142.880,00
+      P - P1 - MODALIDADE DE APOIO - desembolso ?ex-ante? ? Cumprimento de metas obrigatórias
+300.000,00
+1.200.000,00
+1.500.000,00
+6.000.000,00
+P - P2 - MODALIDADE DE INVESTIMENTO DESCENTRALIZADO - desembolso - ex-post -
+Cumprimento de metas graduais
+400.000,00
+1.600.000,00
+2.000.000,00
+8.000.000,00
+      P - P3- Aquisição de equipamentos e veículos
+0,00
+0,00
+1.600.000,00
+6.400.000,00
+      P - P4 - Capacitação em gestão ambiental para servidores municipais 
+37.144,00
+148.576,00
+185.720,00
+742.880,00
+S - SUBCOMPONENTE 1.3 - APOIO AO PROGRAMA CAPIXABA DE MUDANÇAS CLIMÁTICAS -
+ ESTUDOS E PROJETOS
+421.420,00
+1.685.680,00
+3.078.580,00
+12.314.320,00
+      P - P1- Elaboração de Plano Estadual de Biodiversidade
+0,00
+0,00
+178.580,00
+714.320,00
+P - P2 - Estudos e apoio ao programa Capixaba de Mudanças Climáticas que engloba, - Selo
+Descarboniza ES?, o GERAR hidrogênio e o PCSBN
+201.420,00
+805.680,00
+964.280,00
+3.857.120,00
+P - P3- Estudos e projetos de aplicação de soluções para energia renovável (combustível
+marítimo e aviação, diesel verde, fertilizante verde). 
+100.000,00
+400.000,00
+535.720,00
+2.142.880,00
+P - P4 - Estudos e Apoio aos Municípios Capixabas para a Elaboração de Planos de Adaptação
+Climática e Fortalecimento Técnico dos Agentes Municipais
+120.000,00
+480.000,00
+1.400.000,00
+5.600.000,00
+S - SUBCOMPONENTE 1.4 - OBRAS DE INFRAESTRUTURA VERDE (SOLUÇÕES BASEADAS
+NA NATUREZA)
+234.840,00
+939.360,00
+2.142.840,00
+8.571.360,00
+      P - P1- Intervenções na Bacia do Itabapoana com SBN
+234.840,00
+939.360,00
+1.122.840,00
+4.491.360,00
+      P - P2- Restauração ecológica de manguezais
+0,00
+0,00
+1.020.000,00
+4.080.000,00
+C - COMPONENTE 2 - PROJETO INTEGRADO DE RESÍDUOS SÓLIDOS DO ES
+842.680,00
+3.370.720,00
+7.142.860,00
+28.571.440,00
+   S - SUBCOMPONENTE 2.1 - ESTUDOS, PROJETOS E INTERVENÇÕES
+200.000,00
+800.000,00
+3.928.580,00
+15.714.320,00
+      P - P1 - Atualização do Plano Estadual de Resíduos Sólidos
+0,00
+0,00
+35.720,00
+142.880,00
+P - P2 - Estudo de Avaliação Preliminar e Investigação Confirmatória e projetos de mitigação/
+remediação/intervenções corretivas das áreas dos extintos lixões do território capixaba 
+200.000,00
+800.000,00
+3.553.580,00
+14.214.320,00
+P - P3- Estudo para implementação de Pagamento por Serviços Ambientais para coleta de
+resíduos de mares e manguezais
+0,00
+0,00
+267.860,00
+1.071.440,00
+P - P4- Estudo para identificação de estratégia e projetos para integração da cadeia da logística
+reversa às potencialidades econômicas das regiões capixabas
+0,00
+0,00
+71.420,00
+285.680,00
+   S - SUBCOMPONENTES 2.2 - INFRAESTRUTURA PARA FORTALECIMENTOS DAS OCMRS
+642.680,00
+2.570.720,00
+3.214.280,00
+12.857.120,00
+      P - P1- Estrutura para coleta seletiva: equipamentos, veículos, galpões e Infraestrutura
+642.680,00
+2.570.720,00
+3.214.280,00
+12.857.120,00
+C - COMPONENTE 3 - FORTALECIMENTO INSTITUCIONAL
+50.000,00
+200.000,00
+876.700,00
+3.506.800,00
+      P - P1- Melhoria do parque tecnológico da SEAMA e Aderes
+0,00
+0,00
+276.700,00
+1.106.800,00
+P - P2 ? Centro de Integração e Monitoramento das Ações de Adaptação e Mitigação às
+Mudanças Climáticas do Espírito Santo (ES CLIMA)
+50.000,00
+200.000,00
+600.000,00
+2.400.000,00
+C - COMPONENTE 4 - GESTÃO DO PROGRAMA
+152.000,00
+608.000,00
+882.160,00
+3.528.640,00
+      P - P1 - Gerenciamento do Programa
+120.000,00
+480.000,00
+662.160,00
+2.648.640,00
+      P - P 2 - Consultores 
+20.000,00
+80.000,00
+160.000,00
+640.000,00
+      P - P 3 - Auditoria
+12.000,00
+48.000,00
+60.000,00
+240.000,00
+Total
+134.000.000,00
+2.470.171,00
+9.880.684,00
+26.800.000,00
+107.200.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+(i) Atos:
+
+Após a aprovação da carta-consulta o Governo do Estado enviará para a Assembleia Legislativa do Espírito Santo um projeto de lei que
+autoriza o Estado a realizar a operação de crédito. 
+O Estado possui um arcabouço legal para a área ambiental e recursos hídricos que abrange todos os temas tratados pelo Programa.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 33
+(ii) Riscos:
+
+- Mudanças na legislação e 
+- Sobreposição ou incompatibilidade de regras entre o mercado estadual de carbono, promovido a partir do PCSBN e o mercado regulado
+nacional, apresentado no PL 412/2022. 
+- Poder Legislativo.
+
+(iii) Ações mitigadoras:
+
+O risco de mudanças na legislação é reduzido, porém, medidas preventivas serão adotadas para não impactar em atrasos ou inviabilizar
+implementação de ações: monitorar as mudanças da legislação, manter uma equipe jurídica para orientar os procedimentos legais em
+caso de mudanças e assegurar que todas as atividades propostas pelo Programa estão em conformidade com as leis e regulamentações
+vigentes.
+Em referência a Lei Autorizativa do Legislativo, o Poder Executivo mantêm um ótimo relacionamento e articulação de governo com o
+Poder Legislativo.
+5.2. RISCOS/CONTRATAÇÕES
+(i) Principais contratações previstas para a execução do programa/projeto (consultorias, obras, bens e serviços, outros); 
+
+-    Contratações previstas para a implementação do Programa Águas Capixabas:
+
+a)   Mobilização de interessados, credenciamento e seleção de propriedades rurais, nas UGRHs no estado do Espírito Santo, para
+implantação de práticas mecânicas e, ou, de estruturas voltadas à conservação de água e solo, ao saneamento rural e à reservação
+hídrica.
+b) Elaboração de projetos executivos de obras mecânicas (barraginhas e, ou, cochinhos) voltadas à conservação do solo e à recuperação
+hídrica para as propriedades rurais selecionadas; de estruturas (cisternas) para reservação de águas pluviais para as propriedades rurais
+selecionadas; para dimensionamento e instalação de equipamentos (biodigestores) voltados à melhoria das condições de saneamento
+ambiental para as propriedades rurais selecionadas.
+c) Construções de estruturas de conservação de água de chuva no solo e de reservação hídrica, no âmbito do Projeto Águas Capixabas (
+subcomponente 1.1: são estruturas simples, a exemplo de cisternas, barraginhas e cochinhos.
+d) Instalação de equipamentos (biodigestores) voltados à melhoria das condições de saneamento ambiental para as propriedades rurais
+selecionadas
+
+-    Contratações dos serviços constantes no PROESAM: 
+
+O PROESAM é um Programa baseado no pagamento por alcance de metas preestabelecidas, as contratações são feitas de acordo com
+as atividades que compõem o quadro de metas. Este Programa já se encontra em desenvolvimento pela SEAMA, com a conclusão de
+alguns ciclos históricos.
+
+-     Contratações de Estudos, Planos e Projetos:
+
+No escopo do Programa está prevista uma quantidade significativa de contratações de serviços de consultoria, principalmente no
+subcomponente 1.3- Apoio ao Programa Capixaba de Mudanças Climáticas. Para a contratação destes serviços, como as demais
+aquisições, será adotado o Regulamento de aquisições para mutuários do Banco Mundial. A SEAMA e outros órgão do Estado tem uma
+longa experiência na implantação de projetos/programas com o Banco Mundial, constando nos quadros destes órgãos técnicos treinados
+para a aplicação do regulamento.
+
+(ii) Previsão de contratação de pessoal 
+
+Para a execução das atividades da elaboração de estudos e projetos, além das ações de pesquisa e mobilização de campo junto aos
+produtores rurais, serão contratadas empresas de consultoria. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 34
+Em referência às associações de catadores de reciclagem, o incremento na geração de empregos está condicionado ao aumento no
+volume propiciado pela ampliação do número de galpões a serem instalados e aumento da frota de caminhões disponíveis para o setor.
+
+(iii)  Experiência do órgão executor com as políticas de aquisição/contratação do agente financeiro  
+
+As experiências com a execução do plano de aquisição de outros Programa/Projetos implementados ou em implementação pelo Estado,
+mostraram que entre as medidas que contribuíram para reverter às dificuldades de implementação ocorridas em alguns Programas, foi a
+de ampliar o contingente de profissionais capacitados, envolvendo não só os membros da comissão de licitação, mas gestores com
+participação direta ou indiretamente, como executores, auditores e procuradores do Estado, que detém o conhecimento do Regulamento
+de aquisição do Banco Mundial. São experiências que serão levadas a efeito na preparação e na implementação do Programa proposto.
+
+(iv)  Os riscos
+
+-    Decisão arbitral, judicial ou administrativa que impeça ou impossibilite o andamento da licitação;
+-    Possibilidade de certames sem oferta de licitantes (ausência de concorrentes)
+
+
+(v)  Ações mitigadoras
+
+-   definição de critérios claros de requisitos alinhados aos termos de referência e especificações técnicas, que propiciem transparência e
+segurança para as análises de propostas;
+-   ampla divulgação do edital, incluindo os sindicatos de classes, para que o processo seja atrativo às empresas que possuam expertises
+na área específica;
+
+
+
+
+
+
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+(i) Área estimada e  situação fundiária
+
+Em regra, as intervenções programadas no contexto do ES CLIMA estão situadas em áreas já caracterizadas como áreas de bens
+públicos. Como resultado de estudos e projetos de detalhamento, determinadas intervenções principalmente associadas às soluções
+baseadas na natureza (SBN) na bacia do Itabapoana poderão eventualmente demandar a necessidade de desapropriação de áreas,
+atualmente não identificadas.
+
+(ii) os instrumentos legais previstos;   (iii) as formas de compensação utilizadas; (iv) os órgãos responsáveis pela ação de desapropriação
+indenização:
+
+(v)   Ação Mitigadora: 
+
+-    Em possível necessidade, o Governo do Estado tem experiência em processos de desapropriação e, inclusive, possui suas próprias
+diretrizes para condução destes processos, estabelecidos na Norma de Procedimento SPA Nº 009 da SECONT de 31/07/2020, que
+fundamenta-se na Constituição Federal de 1988, Decreto-Lei 3.365 de 1941, e, Decreto Estadual Nº 3.126-R de 2012, com a observação
+das competências definidas para a SEGER - Secretaria de Estado de Gestão e Recursos Humanos e do órgão gestor do patrimônio do
+Estado e, dos órgãos interessados na desapropriação. Ademais, cumpre ressaltar que o Estado possui experiências prévias exitosas
+quanto ao cumprimento dos requisitos previstos nas Normas Ambientais e Sociais (NAS) do Banco Mundial, em especial àquelas relativas
+à observância da NAS 5, que disciplina a gestão de processos de aquisição de terras, restrições ao uso de terras e reassentamento
+involuntário.
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+(i) Situação; (ii) Principais riscos
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 35
+-      Por se tratar de um Programa que tem como objetivo principal a implementação de práticas sustentáveis, preservação dos recursos
+naturais e enfrentamento de eventos extremos, as ações propostas visam tão somente a proteção ambiental. As obras de pequeno porte
+que estão previstas serão implantadas na zona rural de municípios do Estado, com exceção dos galpões que abrigam as instalações para
+processar e armazenar os resíduos coletados.
+
+As obras serão executadas em consonância com a legislação ambiental vigente e a norma NAS 1 - Avaliação e Gestão de Riscos e
+Impactos Ambientais e Sociais do Banco Mundial. Importante ressaltar que a Nas1, inclui anexos que estabelecem determinados
+requisitos mais detalhadamente: 
+(a) anexo 1: Avaliação Ambiental e Social; (b) anexo 2: Plano de Compromissos Ambientais e Sociais; (c) anexo 3: Gestão de Empresas
+Contratadas.
+
+(iii) Expertise da SEAMA 
+
+- A SEAMA está capacitada como gestora da política nacional de meio ambiente e, também capacitada nas diretrizes ambientais do Banco
+, quando considerado a sua participação há mais de 30 anos na gestão ambiental exigida pelo Banco.
+
+
+(v) Ações mitigadoras:
+
+-    Em caso de necessitar de identificação e quantificação dos impactos ambientais e respectivas ações de mitigação e compensação de
+caráter preventivo e corretivo, decorrente do ES CLIMA a SEAMA procederá com o desenvolvimento de estudos ambientais em
+conformidade com os termos de referência definidos pelo órgão responsável pelo licenciamento ambiental, e com base na Resolução 01/
+86 do Conselho Nacional do Meio Ambiente - CONAMA.
+
+Outro importante instrumento que será obrigatório em todas as obras financiadas pelo Banco Mundial é o Manual Ambiental de
+Construções que define as diretrizes ambientais gerais que as empresas construtoras devem seguir no planejamento e execução das
+obras no âmbito do projeto. No manual estão previstas todas as medidas preventivas que deverão ser tomadas antes de iniciar as obras
+para minimizar os riscos inerentes às obras.
+
+5.5. RISCOS/IMPACTO SOCIAL
+(i) Riscos Sociais
+
+As intervenções propostas não estão localizadas em áreas de proximidades de comunidades quilombolas ou indígenas. O impacto social
+das intervenções propostas são positivas para toda a população do Estado.
+
+(ii) Experiência do Órgão Executor
+
+A SEAMA detêm um vasto conhecimento das NAS do Banco Mundial, em decorrência da expertise adquirida ao longo dos últimos 20 anos
+ pela participação em vários empreendimentos financiados pelo Banco ao Estado.
+
+(iii) Principais Riscos: 
+
+-Durante a construção de galpões nas áreas urbanas poderão ser gerados ruídos, poeira e outros desconfortos ocasionados por uma obra
+ de edificação.
+- O Programa Capixaba de Soluções Baseadas na Natureza (PCSBN) não gera impactos sociais amplos em suas áreas de atuação,
+beneficiando principalmente os proprietários rurais por meio de ganhos econômicos, enquanto comunidades locais, especialmente as mais
+ vulneráveis, podem não se beneficiar diretamente das iniciativas de conservação e restauração.
+
+- Ações propostas pelo Plano Estadual de Biodiversidade não sejam condizentes com a realidade socioeconômica e ambiental do estado
+e de seus territórios, resultando em baixa adesão dos stakeholders e comunidades locais.
+Ações mitigadoras:
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:43
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61253
+Página: 36
+(v) Ações mitigadoras:
+
+Os riscos de transtornos com a execução das obras serão mitigados com uso de boas práticas na condução e no planejamento de obras
+públicas, comunicação permanente com as comunidades e a presença na equipe de obras de profissionais da área social, para o
+acompanhamento, soluções imediatas de problemas que possam ocorrer nas comunidades.
+
+PCSBN: Garantir que o PCSBN inclua, desde o planejamento, projetos que envolvam as comunidades locais em atividades de
+restauração ecológica, manejo sustentável e geração de emprego verde, criando oportunidades de trabalho e renda para essas
+populações;  Implementar programas de capacitação técnica para as comunidades em áreas como manejo sustentável, agroflorestas e
+monitoramento ambiental; Estabelecer mecanismos de repartição de benefícios financeiros e ecológicos, direcionando parte dos recursos
+obtidos com os créditos de carbono para programas sociais e de infraestrutura nas comunidades do entorno; Desenvolver um sistema de
+monitoramento contínuo que avalie os impactos sociais das iniciativas do PCSBN.
+
+Plano Estadual de Biodiversidade: Realizar um mapeamento detalhado e participativo das ações, incluindo a realização de oficinas com os
+ principais stakeholders (comunidades locais, sociedade civil, setores produtivos, governo e especialistas).
+5.6. RISCOS/REASSENTAMENTOS
+Não estão previstos reassentamentos no âmbito do programa.
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 

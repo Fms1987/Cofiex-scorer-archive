@@ -1,0 +1,1544 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Programa de Saneamento Brasil - PROSAB
+Nº Carta Consulta: 60940
+Processo: 12120.100479/2022-10
+Mutuário: República Federativa do Brasil
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  22 de Julho de 2022
+Fontes Externas:
+Corporação Andina de Fomento - CAF: US$ 300.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+04
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 05
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 05
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 05
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 05
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 06
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 12
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 12
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 12
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 14
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 15
+3. FINANCIAMENTO .......................................................................................................................................................................................... 15
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 15
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 15
+4. EXECUÇÃO ...................................................................................................................................................................................................
+15
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 15
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 17
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 17
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 17
+5. RISCOS .......................................................................................................................................................................................................... 19
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 19
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 19
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 19
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 19
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 20
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 21
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+21
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+O Ministério da Saúde-MS através da Fundação Nacional de Saúde- Funasa, fundação pública, tem por finalidade promover e executar
+ações e serviços de saúde pública, especialmente implementar atividades para o controle de doenças e de outros agravos à saúde e
+desenvolver ações e serviços de saneamento básico em áreas rurais e em cidades com menos de 50 mil habitantes. 
+De acordo com o Sistema Nacional de Informações sobre Saneamento- SNIS, cerca 16% da população brasileira não é atendida por
+sistema de abastecimento de água, ou seja, cerca de 33,28 milhões de pessoas não tem acesso à água potável de forma adequada.
+Destacando que de forma paliativa e muito onerosa o Governo Federal através da Operação Carro-Pipa (OCP), há mais de 20 anos, vem
+tentando atender com distribuição de água a população mais atingida do Semiárido, abrangendo os estados do Nordeste e norte de Minas
+Gerais e parte do Espírito Santo. Vale destacar que somente no ano de 2020, a média mensal de atendimento foi de cerca de 2 milhões
+de pessoas em 600 municípios, o que equivale a uma média de 4,2 mil carros-pipa contratados por mês. No total, foram investidos cerca
+de R$ 603 milhões de reais para manter o serviço.
+Ainda segundo informações do SNIS, cerca 45% da população não tem sistema de esgotamento sanitário adequado. Isso significa que
+cerca de 93,6 milhões de pessoas não tem acesso à sistema de esgoto, cerca de 32,28 milhões de domicílios não tem esgotamento
+sanitário no Brasil. 
+Outro dado agravante é que de acordo com o Sistema de Informação de Agravos de Notificação (Sinan Net) do Ministério da Saúde foram
+notificados no período 2008 a 2019 cerca de 11,88 milhões de casos de Doenças Relacionadas com o Saneamento Ambiental
+Inadequados - DRSAI, com cerca de 4,88 milhões de internações no Sistema Único de Saúde (SUS), gerando um alto custo para a saúde
+pública e para a economia. É oportuno destacar que existe subnotificação destes dados, resultantes da vulnerabilidade social em que
+vivem os mesmos.
+Vale ressaltar ainda que existe uma enorme fragilidade na gestão dos sistemas simplificados de água e esgoto nas comunidades rurais.
+Falta qualificação dos gestores, falta governança e conhecimento técnico necessário para operar estes sistemas e falta gerenciamento
+financeiro e planejamento das entidades.
+Com base no SNIS-RS 2020, cerca de 90,5% da população total é atendida com coleta direta e indireta de resíduos domiciliares na zona
+urbana. Contudo, o mais grave problema é o destino destes resíduos. O SNIS-RS 2020 mostra que existem cerca de 1.545 lixões,
+causando um enorme prejuízo ao meio ambiente, à saúde das pessoas e um enorme prejuízo ao erário. Cerca de 63,4% dos municípios
+não possuem coleta seletiva e cerca de 96% dos resíduos vão para aterro/lixões no Brasil, sem qualquer tipo de reciclagem. Esses locais
+tornam-se cenários da marginalização, com milhares de catadores que transitam, alimentam-se do que é retirado do lixo e dividem os
+espaços com animais, sem utilizarem nenhuma proteção.
+Outra questão a destacar é a falta de conhecimento da população sobre a importância do meio ambiente e a ausência de uma política
+efetiva de educação ambiental no âmbito da saúde. Necessita-se da criação de uma nova visão, em torno das diversas realidades
+ambientais: educação e práticas de conservação e proteção ambiental.
+A FUNASA detém a mais antiga e contínua experiência em ações de saneamento no País e trabalha para reduzir estes números,
+executando as ações de saneamento básico em todo o Brasil, mas precisa também se reorganizar e se fortalecer para executar cada vez
+melhor sua missão de levar saúde à população.
+
+ii) Justificar qual o critério adotado para a seleção das intervenções propostas, bem como para a seleção dos municípios.
+O Instituto de Pesquisa Econômico Aplicado - IPEA, vinculado ao Ministério da Economia, realizou um trabalho cujo resultado foi uma
+classificação dos municípios brasileiros a partir de critérios que consideram o déficit nos serviços de saneamento básico, vulnerabilidade
+social e capacidade de gestão do município sobre os serviços públicos. Com aplicação dessa metodológica, os municípios foram
+classificados em quatro faixas prioritária como: Prioridade máxima, Prioritários, Prioridade ? abastecimento de água e Prioridade ?
+esgotamento sanitário. As quatro faixas prioritárias concentram os municípios que deveriam ser priorizados para receber investimentos em
+saneamento básico. Como os recursos não são suficientes para atender todos os municípios das quatro faixas prioritária em um único
+Programa, se aplicou os critérios do IPEA com o critério dos municípios atendidos pela Operação Carro-Pipa no Seminário Brasileiro
+foram selecionados 557 municípios com mais vulnerabilidade social nos 09 Estados do Nordeste e no semiárido de Minas Gerais. 
+O IDH do Brasil é 0,765, contudo nos municípios selecionados (relação anexa) no Programa este índice apresenta uma média de 0,580. 
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+SOLUÇÃO PROPOSTA
+S - ESGOTAMENTO SANITÁRIO / S - ABASTECIMENTO DE ÁGUA
+i. Implantação de 540 Sistemas de Esgotamento Sanitário em áreas rurais e urbanas dos municípios selecionados, conforme lista em
+anexo, com previsão de alcance de cerca de 95 mil famílias (ligações);
+ii. Implantação de 344 Sistemas de Abastecimento de Água em áreas rurais e urbanas dos municípios selecionados, conforme lista em
+anexo, contemplando as etapas de captação, adução, tratamento, reservação e distribuição de água, com previsão de alcance de cerca
+de 60 mil famílias (ligações).
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 3
+S - RESÍDUOS SÓLIDOS
+i. Implantação de 10 (dez) Sistemas de Resíduos Sólidos Sustentáveis, envolvendo implantação de coleta seletiva e implantação de
+Aterros Sanitários com Usinas Termoquímicas de Geração de Energia (UTGE).
+S - FORTALECIMENTO SOCIOAMBIENTAL
+i. Promover a formação e a qualificação em saneamento rural de gestores e técnicos das esferas municipais, estaduais, regionais, federal
+e das comunidades;
+ii. Promover e articular ações de educação em saúde coletiva e saneamento ambiental e alinhar as ações de educação em saneamento
+aos princípios da educação permanente, educação popular e educação do campo;
+iii. Assegurar a participação, a diversidade e o controle social nos processos decisórios, no planejamento, na execução e na gestão das
+ações de saneamento rural, nas esferas municipais, estaduais, regionais e nacional;
+iv. Apoiar e fomentar a construção de redes para o desenvolvimento de capacidades, habilidades, conhecimentos e boas práticas de
+saneamento rural, de forma territorializada e contemplando os povos do campo, da floresta e águas;
+v. Promover e fortalecer a gestão integrada dos serviços de saneamento nas áreas rurais, nos níveis local, municipal, estadual, regional e
+nacional, envolvendo o planejamento, diretrizes para gestão dos serviços, regulação e fiscalização na prestação de serviços.
+RESULTADOS ESPERADOS
+i.Aumento da qualidade de vida das pessoas. 
+ii.Melhoria na saúde da população atendida, principalmente de crianças, com a diminuição da mortalidade infantil;
+iii.Contenção de doenças, especialmente as de veiculação hídrica com redução das internações;
+iv.Diminuição do ciclo da pobreza causado pela falta de saneamento ambiental.
+v.Redução na contaminação dos recursos hídricos;
+vi.Preservação do Meio Ambiente.
+vii.Diminuição de pragas vinculadas ao acúmulo de lixo.
+viii.Fortalecimento das políticas de saúde ambiental;
+ix.População mais consciente da importância da saúde ambiental;
+x.Melhor utilização do sistema a partir do conhecimento dos usuários;
+xi.Usuários conscientes e responsáveis;
+xii.Serviços melhores e menos onerosos;
+xiii.Redução dos custos de operação dos serviços a partir de uma maior qualificação dos operadores dos sistemas simplificados de água e
+ esgoto.
+xiv.Redução significativa dos custos com a Operação Carro Pipa.
+SUSTENTABILIDADE
+O investimento de 300 milhões de dólares, cerca de 1,5 bilhões de reais, dividido em 557 municípios, resulta em uma média de R$ 2,7
+milhões de reais para uma população total de cerca de 9.4 milhões habitantes, destacando que desses cerca 5,1 milhões não tem
+abastecimento de água ou esgoto. O valor investido no Programa alocado em 5 anos, somados aos investimentos com recursos do OGU
+no mesmo período, resultará em um atendimento de 66% da demanda atual por saneamento básico nas áreas de responsabilidade no MS
+/Funasa nos próximos 5 anos. Será uma redução significativa nos custos com a Operação Carro Pipa, que resolve paliativamente a um
+custo muito alto e sem qualquer sustentabilidade. 
+Além disso, vale destacar que no âmbito da priorização dos municípios escolhidos, além dos critérios do IPEA, se considerou ainda,:
+Projetos que promovessem a universalização dos serviços de abastecimento de água e de coleta e tratamento de esgotos sanitários;
+Municípios com elevado risco de transmissão de doenças relacionadas à falta ou inadequação das condições de saneamento; Municípios
+com os menores Índices de Desenvolvimento Humano (IDH); Municípios com os menores índices de cobertura dos serviços de
+abastecimento de água e esgotamento sanitário; Municípios com maiores taxas de mortalidade infantil (TMI), segundo dados do Ministério
+da Saúde; e, municípios inseridos nos Bolsões de Pobreza, identificados pelo Ministério do Desenvolvimento Social.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 4
+As ações de sustentabilidade dependerão de onde será a implantação dos sistemas. Sabe-se que havendo uma gestão eficiente e com o
+tratamento específico de acordo com a necessidade de cada processo pode-se alcançar redução do valor do metro cúbico tratado, bem
+como a redução de perdas.
+Na área urbana as ações de sustentabilidade ficarão a cargo dos municípios, diretamente através dos Sistemas Autônomos de Água e
+Esgoto ou de Concessionárias responsáveis pela gestão. Neste caso, os serviços serão pagos pela população beneficiada.
+A FUNASA, primando pela sustentabilidade dos sistemas a serem implantados, verificará requisitos institucionais mínimos relativos à
+prestação dos serviços dos municípios contemplados.
+Nos casos em que os sistemas serão implantados em áreas rurais a Gestão dos Serviços se dará por meio de associações ou núcleos
+comunitários e os custos operacionais via rateio a ser realizado entre os usuários. 
+Visando a sustentabilidade dos sistemas, a FUNASA propõe trabalhar estratégicas por meio do incentivo à inclusão social, à promoção e à
+proteção da saúde das comunidades e grupos populacionais, orientadas para o desenvolvimento da consciência crítica da coletividade
+sobre os determinantes e condicionantes socioambientais e sanitários.
+Nessa perspectiva, as ações estruturais devem ser acompanhadas de ações que deem suporte político e gerencial para a sustentabilidade
+ e efetividade das tecnologias implantadas. 
+A educação em saúde ambiental é um caminho e instrumento para que essas populações compreendam o propósito do saneamento e se
+impliquem nesse processo como sujeitos de direito e deveres.
+Quanto à etapa de Resíduos Sólidos, a Administração Pública na grande maioria dos casos arca com os custos destes serviços que, em
+geral, são ofertados apenas nas áreas urbanas. Todavia, cerca de 40% das cidades já conseguiram implementar a Taxa do Lixo. Mas, a
+grande maioria das Prefeituras assumem os custos de operação e gestão, sem repassá-los aos usuários do sistema, tendo em vista as
+condições socioeconômicas da população.
+No que se refere as ações de capacitação e formação, não estão previstos custos permanentes com estas atividades, pois as mesmas
+objetivam a geração, formação e capacitação de multiplicado
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+Todas as ações constantes no PROSAB são itens financiáveis pela Corporação Andina de Fomento (CAF). Portanto, são elegíveis para
+financiamento, dentro das linhas de financiamento do banco. 
+
+O PROSAB já tem suas linhas de atuação previstas nos instrumentos de Planejamento do Ministério da Saúde e da FUNASA. 
+
+O Planejamento Estratégico da FUNASA já prevê estas ações de saneamento ambiental. A FUNASA já tem o Programa Nacional de
+Saneamento Rural, que atua na área rural e meio ambiente. 
+
+(ii) CONTRAPARTIDA
+Não haverá contrapartida neste financiamento.
+
+(iii) TAXA DE CÂMBIO
+Na elaboração desta Carta utilizou-se o dólar de U$$ 5,47 do dia 21/07/2022 - Câmbio do Banco Central do Brasil.
+
+(iv) JUSTIFICATIVA DOS CUSTOS DO PROGRAMA
+Todos os custos e planilhas do PROSAB utilizam as tabelas oficiais para definir os valores, especialmente (SICRO-SINAPI). No que
+concerne às consultorias foi usado como referência as Tabelas DNIT.  
+
+Os valores referentes à Comissão de Financiamento e Gastos de Avaliação são definidos pelo próprio banco. Dessa maneira,
+consideramos o que a CAF vem utilizando atualmente.
+
+2. Projeto
+2.1. Título
+Programa de Saneamento Brasil - PROSAB
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 5
+2.2. Título Abreviado
+PROSAB
+2.3. Mutuário
+República Federativa do Brasil
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+Objetivo Geral: 
+O PROSAB objetiva implementar ações de saneamento ambiental, nos setores de abastecimento de água, esgotamento sanitário e
+gestão e disposição adequada dos resíduos sólidos, somadas às ações de educação ambiental, capacitação e inclusão social, como
+forma de garantia de sustentabilidade dos sistemas. 
+
+Objetivos Específicos: 
+i.Implantação de 540 Sistemas de Esgotamento Sanitário em áreas rurais e urbanas dos municípios selecionados, beneficiando cerca de
+95 mil famílias;
+ii.Implantação de 344 Sistemas de Abastecimento de Água em áreas rurais e urbanas dos municípios selecionados, beneficiando cerca de
+ 60 mil famílias;
+iii.Implantação de 10 Sistemas de Resíduos Sólidos Sustentáveis, envolvendo implantação de usinas de triagem e coleta seletiva e
+implantação de Aterros  Sanitários com Usinas Termoquímicas de Geração de Energia (UTGE); 
+iv.Desenvolvimento de oficinas de sensibilização e conscientização em saúde e educação ambiental em 557 dos municípios selecionados;
+v.Capacitação de equipe operacional de 344 localidades (sedes municipais ou não) no setor de abastecimento de água;
+vi.Capacitação de equipe operacional de 540 localidades (sedes municipais ou não) no setor de esgotamento sanitário;
+vii.Promover a formação e a qualificação em saneamento rural de gestores e técnicos das esferas municipal, estadual, regional, federal e
+das comunidades.
+viii.Promover e articular ações de educação em saúde coletiva e saneamento ambiental e alinhar as ações de educação em saneamento
+aos princípios da educação permanente, educação popular e educação do campo.
+ix.Assegurar a participação, a diversidade e o controle social nos processos decisórios, no planejamento, na execução e na gestão das
+ações de saneamento rural, nas esferas municipal, estadual, regional e nacional.
+x.Apoiar e fomentar a construção de redes para o desenvolvimento de capacidades, habilidades, conhecimentos e boas práticas de
+saneamento rural, de forma territorializada e contemplando os povos do campo, da floresta e das águas.
+xi.Promover e fortalecer a gestão integrada dos serviços de saneamento nas áreas rurais, nos níveis local, municipal, estadual, regional e
+nacional, envolvendo o planejamento, diretrizes para gestão dos serviços, regulação e fiscalização na prestação de serviços.
+
+2.6. Projeto/Indicadores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 6
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Ampliação do Percentual de municípios
+atendidos por Sistema de Abastecimento de
+Água
+N° de municípios
+atendidos por SAA /
+N° total de municípios
+Percentual (%)
+92,00
+96,00
+Ampliação do Percentual de municípios
+atendidos por Sistema de Esgotamento Sanitário
+N° de municípios
+atendidos por SES /
+N° total de municípios
+Percentual (%)
+45,00
+52,00
+Ampliação do Número de consórcios
+intermunicipais atendidos por Aterro Sanitário
+com Usina Termoquímica de Geração de
+Energia
+Quantidade de
+consórcios
+intermunicipais
+atendidos com Aterro
+Sanitário com UTGE
+Unidade
+0,00
+10,00
+Aumento do Volume de Resíduos Sólidos
+tratados nas Usinas Termoquímicas (até 2º ano
+de funcionamento)
+Toneladas de
+resíduos processados
+por dia em uma usina
+x  número usinas x
+dias
+Toneladas/ano
+0,00
+2.190.000,00
+Aumento do Volume de Resíduos Sólidos
+tratados nas Usinas Termoquímicas (do 3º ao 5º
+ano de funcionamento )
+Toneladas de
+resíduos processados
+por dia em uma usina
+x  número usinas x
+dias
+Tonelada/ano
+2.190.000,00
+5.475.000,00
+Aumento do Percentual de municípios atendidos
+com ações de Educação em Saúde Ambiental
+pela Funasa
+N° de municípios
+atendidos com ações
+de Educação em
+Saúde Ambiental / N°
+total de municípios/N°
+total de municípios
+Percentual (%)
+3,00
+10,00
+2.7. Projeto/Componentes
+Componentes
+Valor(US$)
+C - SANEAMENTO AMBIENTAL INTEGRADO
+266.900.000,00
+   S - ESGOTAMENTO SANITÁRIO
+137.000.000,00
+      P - Implantação de Sistemas Simplificados de Esgotamento Sanitário
+137.000.000,00
+   S - ABASTECIMENTO DE ÁGUA
+80.100.000,00
+      P - Implantação de Sistemas Simplificados de Abastecimento de Água
+80.100.000,00
+   S - RESÍDUOS SÓLIDOS
+42.000.000,00
+      P - Implantação de Sistemas de Resíduos Sólidos
+42.000.000,00
+   S - FORTALECIMENTO SOCIOAMBIENTAL 
+7.800.000,00
+      P - Educação Ambiental e Participação Social: Capacitação em Saúde e Gestão Ambiental 
+3.400.000,00
+      P - Fortalecimento da Gestão e Operação dos Sistemas de Saneamento
+4.400.000,00
+C - GESTÃO DO PROGRAMA
+30.500.000,00
+      P - Fortalecimento Institucional da Funasa
+3.500.000,00
+      P - Supervisão Técnica, Ambiental e Social das Obras
+14.000.000,00
+      P - Apoio a Unidade de Gerenciamento do Programa 
+7.000.000,00
+      P - Projetos Executivos e Estudos Técnicos
+6.000.000,00
+C - OUTROS GASTOS 
+2.600.000,00
+      P - Projeto - Gastos de Avaliação 
+50.000,00
+      P - Projeto - Comissão de Financiamento (0,85%)
+2.550.000,00
+Total dos Componentes
+300.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - SANEAMENTO AMBIENTAL INTEGRADO
+Este componente é formado por quatro Subcomponente, sendo eles:
+i.S - ESGOTAMENTO SANITÁRIO
+ii.S - ABASTECIMENTO DE ÁGUA
+iii.S - RESÍDUOS SÓLIDOS
+iv.S - FORTALECIMENTO SOCIOAMBIENTAL 
+O total de recursos envolvido no Componente é de U$  266.900.000,00.
+São ações e intervenções na área de saneamento ambiental, envolvendo a implantação de sistemas de agua e esgoto, resíduos
+sólidos e educação ambiental e gestão. 
+   S - ESGOTAMENTO SANITÁRIO
+Este Subcomponente irá implementar 540 sistemas de esgotamento sanitário com 95 mil ligações domiciliares em diversas
+localidades no Nordeste e norte de Minas Gerais. O total de recursos envolvidos no Subcomponente é de U$ 137.000.000,00. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 7
+      P - Implantação de Sistemas Simplificados de Esgotamento Sanitário
+Implantação de 540 Sistemas de Esgotamento Sanitário em áreas urbanas e rurais (sedes municipais ou não), do Nordeste
+Brasileiro e Norte de Minas Gerais, contemplando as etapas de coleta, tratamento e destino final de esgotamento sanitário e a
+instalação de cerca de 95 mil ligações domiciliares de esgotamento sanitário.
+Soluções coletivas:
+Os sistemas convencionais de esgotos sanitários geralmente são compostos pelas seguintes unidades: ligação predial, rede
+coletora e órgãos acessórios, coletor principal, coletor tronco, interceptor, emissário, estação elevatória de esgoto (EEE), estação
+de tratamento de esgoto (ETE) e dispositivo de lançamento final.
+Estação de Tratamento de Esgoto (ETE)
+São muitos os processos conhecidos e com domínio pleno na tecnologia do tratamento de esgoto. A seleção do melhor tratamento
+em cada situação deve considerar as condições locais, os objetivos, a eficiência desejada e a relação custo/benefício, incluindo-se
+as despesas operacionais.
+Considerando que a FUNASA tem como foco localidades pequenas, as unidades de tratamento, ordenadas das mais simples, e de
+ maior uso em municípios menores, para as mais complexas, são:
+- Tratamento preliminar
+- Tratamento primário
+- Tratamento secundário
+Alternativas individuais:
+Para moradias desprovidas de instalações hidráulicas de abastecimento de água, nas quais os dejetos humanos não são
+afastados por veiculação hídrica, a solução recomendada são as privadas higiênicas.
+Para as soluções individuais, ou descentralizadas, em domicílios e estabelecimentos providos de instalações prediais de água, a
+alternativa tecnológica de tratamento dos esgotos domésticos, estabelecida em norma brasileira, é um conjunto composto por uma
+unidade chamada de tanque séptico seguido de unidades complementares de tratamento e/ou disposição final de efluentes. Pode-
+se utilizar como unidades complementares: sumidouro, vala de infiltração. Nos casos mais desfavoráveis, a opção recomendada
+passa a ser a vala de filtração, ou o filtro de areia. Em terreno bem favoráveis, admite-se o uso de uma fossa absorvente,
+recebendo diretamente o esgoto doméstico, sem que este tenha passado por um tanque séptico.
+Outras soluções individuais de esgotamento:
+Para o caso dos domicílios que possuem abastecimento de água, o desenvolvimento de pesquisas voltadas a encontrar soluções
+de esgotamento sanitário adequadas à realidade da população dispersa, que contemplem a particularidade local e que tenham
+como valor fundamental a relação homem-natureza, preservando o ambiente, tem resultado em algumas experiências bem-
+sucedidas, entre as quais a tecnologia alternativa denominada de biorremediação vegetal (fossa verde), o círculo de bananeira, a
+permacultura e outros.
+   S - ABASTECIMENTO DE ÁGUA
+Este Subcomponente irá implementar 344 sistemas de abastecimento de água com 60 mil ligações domiciliares em diversas
+localidades no Nordeste e norte de Minas Gerais. O total de recursos envolvidos no Subcomponente é de U$ 80.100.000,00.  
+      P - Implantação de Sistemas Simplificados de Abastecimento de Água
+Implantação de 344 Sistemas de Abastecimento de Água em áreas urbanas e rurais (sedes municipais ou não), do Nordeste
+Brasileiro e Norte de Minas Gerais contemplando as etapas de captação, adução, tratamento, reservação e distribuição de água e
+60 mil ligações domiciliares.
+O sistema de abastecimento de água para consumo humano é um dos componentes do saneamento básico e consiste em um
+conjunto de infraestruturas, obras civis, materiais e equipamentos, desde a zona de captação até as ligações prediais, destinado à
+produção e ao fornecimento coletivo de água potável, por meio de rede de distribuição. No geral, é composto das seguintes
+unidades: captações, adutoras, reservatórios, estações elevatórias, estações de tratamento, redes de distribuição, ligações
+domiciliares, entre outras intervenções.
+Para os Sistemas Simplificados de Abastecimento de Água em áreas rurais existe algumas particularidades que deverão ser
+levadas em consideração na execução, pois as etapas a serem contempladas dependem intimamente da fonte de captação a ser
+adotada, bem como, da forma que a população rural se distribui espacialmente, e até mesmo, do atendimento aos anseios da
+população local.
+Por isso, a importância do desenvolvimento das ações de educação e saúde desde a fase de planejamento até a conclusão efetiva
+ das obras.
+A captação é o conjunto de estruturas e dispositivos, construídos ou montados junto ao manancial, para a retirada de água
+destinada ao abastecimento coletivo ou individual. De acordo com o tipo do manancial a ser aproveitado, adota-se a formas de
+captação mais adequada.
+Com relação às possíveis fontes da água, podem ser citadas:
+i.Nascente de encosta
+ii.Fundo de vales
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 8
+iii.Lençol freático
+iv.Lençol subterrâneo
+v.Rios, lagos e açudes
+Já acerca de formas de captação podem ser exemplificadas:
+i.Caixa de tomada
+ii.Galeria filtrante
+iii.Poço escavado
+iv.Poço tubular profundo
+v.Tomada direta (fixa ou móvel)
+A Adução consiste em um conjunto de tubulações, peças especiais e obras de arte, destinado a conduzir a água entre as unidades
+ que antecedem a rede de distribuição. 
+A adutora pode apresentar-se disposta entre: a captação e a Estação de Tratamento de Água (ETA); a captação e o reservatório
+de distribuição; a captação e a rede de distribuição; a ETA e o reservatório de distribuição; e, a ETA e a rede de distribuição. As
+adutoras podem ser classificadas de acordo com a natureza da água transportada e de acordo com a energia utilizada para o
+escoamento da água.
+As tecnologias de tratamento de água podem ser enquadradas em dois macro grupos, sem coagulação química e com coagulação
+química. 
+Todavia, podem contemplar etapas diversificadas a serem definidas em função da qualidade da água bruta a ser potabilizada,
+como, por exemplo:
+i.Tratamento em sistemas de abastecimento de água sem coagulante:
+ii.Tratamento em sistemas de abastecimento de água com coagulante: filtração descendente.
+iii.Filtração direta descendente: coagulação, floculação e filtração descendente.
+iv.Filtração direta ascendente: coagulação, filtração ascendente.
+v.Dupla filtração: coagulação, filtração ascendente e descendente.
+vi.Flotofiltração: coagulação, floculação, flotação e filtração descendente na mesma unidade.
+Todas essas tecnologias podem ser completadas com fluoretação e correção de pH, sendo obrigatória a desinfecção. 
+Tratamentos específicos
+Os tratamentos específicos são tecnologias que podem ser empregadas para complementar e/ou auxiliar os tratamentos que
+utilizem ou dispensem o uso de coagulantes químicos, tais como:
+i.Aeração
+ii.Correção da dureza
+iii.Remoção de ferro
+iv.Correção de acidez excessiva
+v.Remoção de odor e gosto desagradáveis
+vi.Remoção de cloretos: dessalinizadores de água
+vii.Estações compactas: específicas
+viii.Desinfecção
+   S - RESÍDUOS SÓLIDOS
+Este Subcomponente custará cerca de U$ 42.000.000,00 (quarenta e dois milhões de dólares).
+      P - Implantação de Sistemas de Resíduos Sólidos
+Neste item será feita a implantação de cerca de 10 Sistemas de Resíduos Sólidos Sustentáveis, envolvendo implantação de coleta
+seletiva, implantação de Aterro Sanitário com Usina Termoquímica de Geração de Energia (UTGE).
+Esses Sistemas, pilotos, serão implementados 01 em cada estado do Nordeste e 01 no norte de Minas Gerais, respeitando os
+estudos e parâmetros utilizados pela Politica Nacional de Resíduos Sólidos do Brasil.
+Coleta Seletiva
+Será implantada Coleta Seletiva de Resíduos Sólidos, no âmbito dos municípios beneficiados com a implantação do aterro com a
+Usina. 
+Projeto de Aterro Sanitário 
+O método construtivo do aterro será adequado às características da área para otimizar o espaço e propiciar a melhor arrumação da
+ massa de resíduos a ser disposta. 
+As tecnologias adotadas para o aterro sanitário estão baseadas nos estudos de análise de estabilidade do aterro) e na experiência
+técnica brasileira de implantação, operação e monitoramento de aterros.
+Sistema de drenagem superficial:
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 9
+O sistema de drenagem superficial será composto por drenagens provisórias e definitivas. A drenagem provisória englobará todos
+os serviços de controle de escoamento superficial para evitar a infiltração e/ou erosões nas praças e/ou taludes, em decorrência do
+fluxo de águas oriundas de precipitações pluviométricas, nas células em execução; abrangerá, também, as drenagens necessárias
+ nas estradas de acesso provisórias. 
+A drenagem definitiva compreenderá os serviços relacionados à implantação dos sistemas de drenagem que funcionarão após a
+conclusão de cada célula e/ou após a conclusão do aterro e das estradas de acesso definitivas
+Sistema de drenagem de lixiviados:
+A remoção do chorume formados nas células do aterro sanitário devem ser coletados nos sistemas de drenagem em espinha de
+peixe constituídos por drenos principais de chorume fundação, drenos horizontais de chorume e drenos verticais de chorume e gás
+Impermeabilização de fundo e de laterais:
+Durante a implantação desses dispositivos, deverá ser acompanhada a execução dos detalhes de emendas das geomembranas,
+testes de estanqueidade, aplicação de eventuais ?manchões ?nos trechos, execução das camadas de proteção das
+geomembranas com materiais apropriados, execução das interligações dos drenos de fundação, com os sistemas de drenagem de
+ gás .
+Sistema de drenagem de gases:
+A dissipação dos gases deverá ser efetuada por meio de poços de drenagem de gás que devem ser construídos segundo as
+dimensões e características.
+Estes dispositivos devem ser instalados conforme o alteamento do aterro.
+Durante os trabalhos, devem ser tomados todos os cuidados necessários para proteger a operação e promover a extinção de fogo
+nas tubulações.
+Monitoramento de Aterros Sustentáveis para Municípios de Pequeno Porte
+- Gerenciamento de um aterro sanitário:
+Elaboração e execução de um plano de monitoramento
+Avaliação os impactos e riscos ambientais que podem ser causados por um aterro sanitário
+- Monitoramento de águas superficiais:
+Justifica-se o monitoramento, quando há na área de influência direta do aterro afloramentos de águas do subsolo ou mananciais
+hídricos superficiais;
+Caso os efluentes do tratamento de lixiviados sejam lançados em coleções hídricas, a qualidade dessas deverá ser monitorada;
+- Monitoramento das águas do subsolo e superficiais:
+Implantação de um conjunto de poços de monitoramento.
+Os poços de monitoramento são distribuídos estrategicamente pela área do aterro, , todos no sentido preferencial do fluxo de
+escoamento do lençol freático;
+- Monitoramento de lixiviados:
+Lixiviados em aterros de resíduos é consequência do teor de umidade dos resíduos e do contato entre os resíduos e a água de
+precipitações
+- Monitoramento de biogás:
+Gás metano (CH4) e dióxido de carbono (CO2).e outros componentes como ácido sulfídrico (H2S ) e derivados de enxofre têm
+características tóxicas e odores desagradáveis;
+O biogás é fonte de energia em decorrência do poder calorífico do metano.
+- Monitoramento dos resíduos aterrados:
+O acompanhamento do processo de degradação biológica dos resíduos é realizado por monitoramento de lixiviados e biogás.
+- Recomposição paisagística 
+O Programa de Recomposição Paisagística ajudará a controlar a estabilidade dos taludes e das áreas adjacentes para evitar ou
+minimizar os riscos de ocorrência de eventuais erosões e também para melhorar o efeito paisagístico do Aterro Sanitário.
+Vale ressaltar, que a implantação de aterros sanitários  traz reflexos positivos no âmbito social, ambiental e econômico, pois não só
+tende a diminuir o consumo dos recursos naturais, como proporciona a abertura de novos mercados, gera trabalho, emprego e
+renda, conduz à inclusão social e diminui os impactos ambientais provocados pela disposição inadequada dos resíduos, pois este
+empreendimento via de regra insere o desenvolvimento sustentável no manejo de resíduos sólidos do país por meio das
+associações de catadores de recicláveis em suas estruturas propiciando a inclusão e o controle social, bem como norteando
+Estados e Municípios para a adequada gestão de resíduos sólidos.
+Usina Termoquímica de Geração de Energia (UTGE).
+Cada Aterro terá uma Usina Termoquímica que poderá atender até 88 mil pessoas, podendo atender mais de um município, desde
+que circunvizinhos e com população dentro do previsto. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 10
+Além da produção de energia elétrica suficiente para iluminação dos prédios públicos, poderá se proporcionar a geração de novos
+empregos, agregação de renda local aos munícipes e em relação a saúde pública, uma disposição final de resíduos em
+concordância com a política nacional de resíduos sólidos (PNRS 12.305/10).            
+A tecnologia empregada nesses projetos é a gaseificação em leito fluidizado circulante, ou seja, um reator que utiliza grelha com
+bicos injetores com ar atmosférico (agente gaseificante) e sílica. O ar atmosférico ao passar pelos bicos injetores, promove um
+movimento hidrodinâmico do leito de sílica, tornando-o em um pseudo fluido turbulento.
+No balanço de massa e energia de uma planta de 150 toneladas por dia de resíduo, ele converte essa geração em gás de síntese
+que adentrará numa caldeira que vai converter a energia química do gás em vapor a 42 bar de pressão e vai adentrar com esse
+vapor numa turbina para gerar 3,6 MWh de energia elétrica. Uma planta dessa ocupa uma área total de aproximadamente 7.800
+m², onde a maior área que deve ser reservada para o empreendimento é a de processamento do CDR, na sequência a área de
+produção do gás, a planta termoquímica, e a área de produção de energia elétrica. 
+Há também uma Estação de Tratamento de Efluentes dedicada no empreendimento onde a água que é removida do resíduo sólido
+urbano durante seu processamento, é convertida em água de reuso para a própria usina. Dessa forma um empreendimento desse
+ vai consumir menos recursos hídricos do que uma térmica convencional. 
+Uma usina para até 300 toneladas por dia vai ter uma área de cerca de 10.000 m² e uma usina para até 600 toneladas por dia vai
+ter uma área de 14.700 m². 
+   S - FORTALECIMENTO SOCIOAMBIENTAL 
+Esse Subcomponente será formado por dois Produtos e custará cerca de U$ 7.800.000,00, sendo eles:
+P - Educação Ambiental e Participação Social: Capacitação em Saúde e Gestão Ambiental. 
+P - Fortalecimento da Gestão e Operação dos Sistemas de Saneamento. 
+      P - Educação Ambiental e Participação Social: Capacitação em Saúde e Gestão Ambiental 
+Neste Produto serão feitas oficinas de sensibilização e conscientização em saúde e educação ambiental em 557 municípios do
+país.
+As ações deverão contribuir para o fortalecimento da Saúde Ambiental para a redução dos riscos à saúde humana e para o
+desenvolvimento sustentável do município, por meio da qualificação das políticas públicas municipais de resíduos sólidos,
+educação ambiental e saúde ambiental.
+Será feita a Promoção e a articulação de ações de educação em saúde coletiva e saneamento ambiental, alinhando as ações de
+educação em saneamento aos princípios da educação permanente, educação popular e educação do campo.
+Em cada localidade atendida pelo Programa serão realizadas palestras, visitas, oficinas, de modo a assegurar a participação, a
+diversidade e o controle social nos processos decisórios, no planejamento, na execução e na gestão das ações de saneamento
+rural, nas esferas locais e municipais.
+Serão realizadas ações buscando a construção de redes para o desenvolvimento de capacidades, habilidades, conhecimentos e
+boas práticas de saneamento rural, de forma territorializada e contemplando os povos do campo, da floresta e águas.
+      P - Fortalecimento da Gestão e Operação dos Sistemas de Saneamento
+Ação 01 - Programa de Capacitação de equipe operacional de 344 localidades (sedes municipais ou não) nas áreas: 
+- Operação de sistemas de abastecimento de água; 
+- Controle e qualidade da água para consumo humano; e, 
+- Alternativas de gestão de sistemas de abastecimento de água.
+Ação 02 - Programa de Capacitação de equipe operacional de 540 localidades (sedes municipais ou não) nas áreas: 
+- Operação de sistemas de esgotamento sanitário; 
+- Controle de poluentes e alternativas de reuso de efluentes; e, 
+- Alternativas de gestão de sistemas de esgotamento sanitário.
+Ação 03 - Programa de Capacitação de equipe operacional de 10 (dez) consórcios intermunicipais ou interfederativos nas áreas: 
+- Saúde e educação ambiental; 
+- Operação de usinas de triagem e coleta seletiva; 
+- Operação de aterros sanitários com Usinas Termoquímicas de Geração de Energia (UTGE); 
+- Alternativas de gestão de sistemas de resíduos sólidos sustentáveis.
+Neste item, será realizado o fortalecimento da gestão integrada dos serviços de saneamento nas áreas rurais, nos níveis local,
+municipal, estadual, regional e nacional, envolvendo o planejamento, diretrizes para a gestão dos serviços, regulação e fiscalização
+ na prestação de serviços.
+No que concerne à operação, serão realizadas capacitações nos temas pertinentes: saneamento e saúde, procedimentos
+operacionais de sistemas de abastecimento e monitoramento e controle da qualidade da água, visando formar embasamento aos
+operadores das associações e/ou núcleos formados, ou mesmo, envolvendo a própria comunidade para garantir o empoderamento
+ do sistema e, por consequência, o efetivo controle social.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 11
+No que diz respeito à gestão dos serviços, pretende-se capacitar a comunidade rural como um todo de forma a fomentar a criação
+e formação de núcleos ou associações comunitárias, ou fortalecer as já existentes, elucidando as formas de gestão, explicitando
+possibilidade de políticas tarifárias num âmbito associativista, mostrando exemplos e casos de sucesso já aplicados em diversas
+regiões do Brasil.
+C - GESTÃO DO PROGRAMA
+Este componente é formado por cinco produtos eles:
+i.P- Fortalecimento Institucional da Funasa
+ii.P- Supervisão Técnica, Ambiental e Social das Obras 
+iii.P - Apoio a Unidade de Gerenciamento do Programa 
+iv.P - Projetos Executivos e Estudos Ambientais 
+v.P - Auditoria ExternaAuditoria Externa 
+O total de recursos envolvido no Componente é de U$ 31.300.000,00 (trinta e um milhões e trezentos mil dólares).
+      P - Fortalecimento Institucional da Funasa
+Será feita a Elaboração de proposta de fortalecimento institucional, consubstanciada num Plano de Ação, o qual deverá ser
+realizado considerando termos de referência especificamente preparados. 
+Será feito um diagnóstico do órgão, um plano de ação e a implementação deste plano.
+Na elaboração do Plano deverá ser considerado, no mínimo:
+i)Contexto e diagnóstico da situação existente (identificação e caracterização dos problemas a resolver); 
+ii)Estratégia geral de ação e objetivos e metas em cada área de atuação do órgão;
+iii)Programa de Valorização do Servidor
+      P - Supervisão Técnica, Ambiental e Social das Obras
+A supervisão das obras compreendem o acompanhamento e o controle da qualidade dos serviços executados, incluindo a análise
+preliminar dos projetos, a supervisão técnica da execução, suporte técnico e de qualidade do material utilizado, além das
+indicações de mudanças nas situações locais e eventuais alterações necessárias, conforme a conveniência técnica e conceitual da
+ intervenção. 
+A supervisão deverá garantir que a qualidade de execução das obras seja plenamente alcançada, atendendo às disposições
+definidas nos projetos executivos, em normas, procedimentos e especificações, legislações, cronogramas físico e financeiro das
+obras e outras condições contratuais. Deverá ainda dar o suporte necessário à diminuição dos impactos ambientais das obras e
+dos serviços a cargo das empresas contratadas para execução dos projetos, incluindo os de sinalização, medidas de segurança de
+ execução, proteção do património e outros pontos relevantes. 
+A supervisão destas obras deverá ser feita com foco em três dimensões: técnica, ambiental e social. 
+      P - Apoio a Unidade de Gerenciamento do Programa 
+Este Produto objetiva o suporte de uma Consultoria especializada à Unidade de Gerenciamento do Programa (UGP), atuando e
+contribuindo de forma integrada para a organização das informações de acompanhamento do programa visando o êxito dos seus
+objetivos. 
+      P - Projetos Executivos e Estudos Técnicos
+Este item prevê a contratação de consultoria para elaboração de estudos e projetos executivos para as intervenções propostas no
+Programa, bem como a elaboração de estudos e levantamentos técnicos e a elaboração dos projetos executivos de engenharia.
+Os Projetos executivos devem conter no mínimo: Memorial Descritivo, Especificações Técnicas, Desenhos, Plantas e Peças
+Gráficas com detalhes construtivos, memória de Cálculo, planilha Orçamentaria de Custos, planilha de composição dos Preços
+unitários e Cronograma FÍSICO-FINANCEIRO.
+Neste item também serão desenvolvidos os estudos técnicos necessários ao desenvolvimento dos projetos e execução do
+Programa. Estes estudos devem ser desenvolvidos de forma criteriosa, repetidos e conferidos, pois a informação não precisa
+ocasionará falhas, que poderá comprometer o projeto e a sua execução.
+C - OUTROS GASTOS 
+Este item é formado por dois Produtos, sendo eles:
+P - Gastos de Avaliação 
+P - Projeto - Comissão de Financiamento (0,85%)
+      P - Projeto - Gastos de Avaliação 
+O Mutuário pagará diretamente à CAF a soma de USD 50.000,00 (cinquenta mil Dólares) a título de gastos de avaliação. O
+pagamento dos gastos de avaliação deverá ser efetuado em Dólares quando ocorrer o primeiro desembolso do empréstimo.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 12
+      P - Projeto - Comissão de Financiamento (0,85%)
+A comissão denominada ?Comissão de Financiamento? é um valor pago pelo Mutuário pela concessão do empréstimo. Essa
+comissão será equivalente a 0,85% (zero vírgula oitenta e cinco por cento) do valor do empréstimo, e será devida a partir do início
+da vigência deste Contrato de Empréstimo. O pagamento dessa comissão será efetuado, em Dólares, no mais tardar, quando se
+realize o primeiro desembolso do empréstimo.
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Obras
+-
+-
+259.100.000,00
+86,37
+P- Implantação de Sistemas Simplificados de
+Esgotamento Sanitário
+Unidade
+95.000,00
+137.000.000,00
+45,67
+P- Implantação de Sistemas Simplificados de
+Abastecimento de Água
+Unidade
+60.000,00
+80.100.000,00
+26,70
+P- Implantação de Sistemas de Resíduos Sólidos
+Unidade
+10,00
+42.000.000,00
+14,00
+Consultoria
+-
+-
+38.300.000,00
+12,77
+P- Educação Ambiental e Participação Social:
+Capacitação em Saúde e Gestão Ambiental 
+Unidade
+1,00
+3.400.000,00
+1,13
+P- Fortalecimento da Gestão e Operação dos
+Sistemas de Saneamento
+Unidade
+1,00
+4.400.000,00
+1,47
+P- Fortalecimento Institucional da Funasa
+Unidade
+1,00
+3.500.000,00
+1,17
+P- Supervisão Técnica, Ambiental e Social das
+Obras
+Unidade
+1,00
+14.000.000,00
+4,67
+P- Apoio a Unidade de Gerenciamento do
+Programa 
+Unidade
+1,00
+7.000.000,00
+2,33
+P- Projetos Executivos e Estudos Técnicos
+Unidade
+1,00
+6.000.000,00
+2,00
+Outros
+-
+-
+2.600.000,00
+0,87
+P- Projeto - Gastos de Avaliação 
+Unidade
+1,00
+50.000,00
+0,02
+P- Projeto - Comissão de Financiamento (0,85%)
+Unidade
+1,00
+2.550.000,00
+0,85
+Total Geral
+-
+-
+300.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+Inicialmente vale ressaltar que este Programa tem abrangência nacional e será executado em diversos Estados da federação. 
+As Etapas que já foram realizadas são:
+
+1. Foi feita a identificação dos Estados, cidades e localidades em situação de maiores riscos: vulnerabilidade social, falta de agua potável
+e esgotamento sanitário, atendimento a Operação Carro Pipa e conferencia do IDH.
+2. Já foram elaborados cerca de 490 projetos, nível básico, cadastrados na Departamento de Engenharia de Saúde Pública- DENS. Os
+projetos selecionados para este Programa passarão por uma revisão e atualização, bem como serão elaborados os projetos executivos. 
+3. As licenças ambientais serão solicitadas de acordo com o Estado e Cidade onde serão realizadas as obras. Essa questão será objeto
+de proposta de Cooperação técnica com Estados e Municípios beneficiários.  
+4. Os Termos de Referência para contratação das consultorias estão sendo elaborados pelas áreas envolvidas, de acordo com o objeto a
+ser contratado. 
+5.  Já foram realizadas reuniões com as Superintendências Estaduais para nivelar as ações e prepará-las para as atividades inerentes ao
+Programa.
+
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Nacional/Sem detalhes
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+(i)CONDIÇÕES FINANCEIRAS CAF
+Prazo de financiamento:216 meses incluindo a carência de 66 meses.
+Prazo de Desembolso: 60 Meses 
+Prazo Amortização: 150 meses.
+Juros: SOFR (seis meses) + 2,00% a.a  
+Juros de Mora: 2,0% (dois por cento) anuais.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 13
+Comissão de Compromisso: Equivalente a 0,35% (zero vírgula trinta e cinco por cento) anual, aplicado sobre os saldos não
+desembolsados do empréstimo. 
+Comissão de Financiamento: 0,85% sobre o montante financiado em pagamento único, no mais tardar, até a realização do primeiro
+desembolso.
+Periodicidade da Amortizações: semestrais.
+Gastos de avaliação: valor de US$ 50.000,00 em pagamento único no momento da realização do primeiro desembolso. 
+
+(ii)NECESSIDADE DE FINANCIAMENTO EXTERNO  
+
+O Brasil precisa urgentemente envidar todos os esforços e estratégias para reduzir os graves problemas nas áreas de saúde e meio
+ambiente. Um dos mais graves deles é a falta de saneamento básico. 
+
+O Ministério da Saúde, através da Funasa tem como prioridade aumentar a disponibilidade de saneamento básico nos municípios com até
+50 mil habitantes. Porém o valor destinado no Orçamento Geral da União para as ações de saneamento básico está muito aquém da
+demanda atual por esse tipo de serviço. É necessário fazer uma complementação de recursos financeiros para que se possa atingir níveis
+de atendimentos aceitáveis para essas populações que vivem em condições de extrema vulnerabilidade social. 
+Sendo assim, o Ministério da Saúde está propondo um Programa mais arrojado de redução do déficit com esgotamento sanitário,
+abastecimento de agua e tratamento de resíduos sólidos no Brasil. 
+
+Para dar celeridade e impulsionar a redução da demanda por esses serviços de saneamento básico, e sem comprometer outras áreas,
+surge como alternativa de solução a obtenção de um empréstimo externo para custear o PROSAB, programa que objetiva implementar
+ações nos setores de abastecimento de água, esgotamento sanitário e gestão e disposição adequada dos resíduos sólidos, somadas às
+ações de educação ambiental, capacitação e inclusão social, como forma de garantia de sustentabilidade dos sistemas.
+
+Os investimentos previstos neste Programa em 5 anos, somados aos investimentos com recursos do OGU no mesmo período, resultará
+em um atendimento de 66% da demanda atual por saneamento básico nas áreas de atuação do Ministério da Saúde. 
+Também haverá uma redução significativa nos custos com a Operação Carro Pipa, operação essa aplicada nos municípios a serem
+beneficiados pelo Programa, que tem como média anual um custo de aproximadamente 600 milhões de reais, e que serve apenas como
+um paliativo para postergar a solução do problema da falta de água, tendo um custo muito alto e sem qualquer sustentabilidade.
+Importante observar que esse valor é o dobro do investimento anual previsto no PROSAB, que apesar de não eliminar totalmente o uso do
+carro pipa, irá reduzir o significativamente o seu uso, pois implantará soluções definitivas e sustentáveis não somente para a questão de
+abastecimento de água, mas também para o esgotamento sanitário e o tratamento de resíduos sólidos.
+
+O Valor do Empréstimo será desembolsado pelo CAF no prazo de 05 anos. Devendo o primeiro ano (2023) ficar em 15% do valor
+contratado. O Ministério da Saúde terá tempo hábil para solicitar ao Ministério da Economia a adequação da LOA de 2023 para atender ao
+ PROSAB. 
+
+OPÇÃO PELO ÓRGÃO FINANCIADOR
+O Mutuário optou pela CAF considerando algumas questões que são importantes quando existe uma urgência maior na obtenção dos
+recursos: 
+i.A CAF não tem as fases de ?OBJEÇÃO? e ?NÃO OBJEÇÃO? de editais e termos de referências, o que reduz muito os prazos de
+execução. 
+ii.As contratações são feitas com fundamento na legislação brasileira de contratações públicas o que simplifica o processo, pois a equipe
+técnica do órgão tem conhecimento e expertise na legislação brasileira, contudo nada entende de normas de contratações de outros
+órgãos;
+iii.Mais rapidez nas negociações de aditivos e mudanças de contrato.  
+iv.A instituição apresenta condições financeiras adequadas as condições financeiras do município (taxas de juros e comissões, prazos de
+financiamento e carências) e tem muita agilidade no processamento do projeto e na tomada de decisão junto aos municípios. 
+v.A instituição defende os ODS da Agenda 2030 da ONU e tem compromisso com a sustentabilidade do Programa no médio e longo prazo
+. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 14
+
+2.11. PROJETO/BENEFICIÁRIO
+PROJETO/ÁREAS ESTRATÉGICAS E IMPACTOS DO PROJETO ? BENEFICIÁRIOS
+
+(i) Áreas Estratégicas e Impactos do Projeto (Ambientais, Econômicos e Sociais):descrever, de forma explícita, as ações relacionadas às
+áreas estratégicas e impactos do programa/projeto, considerando o item 4, do Anexo à Resolução Cofiex nº 17, de 7de junho de 2021;
+
+Considerando as Áreas estratégicas da Resolução da COFIEX, o PROSAB alcança as seguintes áreas:
+
+- PROMOÇÃO DA SUSTENTABILIDADE AMBIENTAL, INCLUINDO AÇÕES DE ADAPTAÇÃO E MITIGAÇÃO;
+
+Como sendo um Programa voltado para a Saúde Ambienta é inerente o alcance de ambientes e comunidade mais sustentáveis, com a
+diminuição direta dos impactos socioambientais, sendo os Subcomponentes do Programa as Ações de Mitigação dos Impactos Ambientais
+ causados pela falta de saneamento básico que afetam milhões de brasileiros. 
+
+
+EFICIÊNCIA ENERGÉTICA, GERAÇÃO E/OU USO DE ENERGIA DE FONTES RENOVÁVEIS 
+Com a FUNASA atende populações mais longínquas ou de difícil acessos, foi pensada a solução de placas de energia solar para
+funcionamento das Motobombas para poços fornecedores de águas nas áreas comtempladas.
+ IMPLANTAÇÃO E/OU AMPLIAÇÃO DE AÇÕES DE SANEAMENTO BÁSICO 
+O PROSAD tem como objetivo levar o saneamento básico a população brasileiro vulnerável, com 95.000 ligação de água potável, 60.000
+domicílios atendidos com rede de esgoto, mais 10 usinas termoquímicas para uma destinação correta dos resíduos sólidos. 
+GESTÃO INTEGRADA DE RECURSOS HÍDRICOS, INCLUINDO SEGURANÇA HÍDRICA E/OU CONSERVAÇÃO DE SOLOS E
+NASCENTES 
+Com a instalação dos sistemas de saneamento básico nas localidades brasileira mais vulnerais, o Programa tem expectativa de que haja
+um aumento na segurança hídrica, pois diminuirá a poluição nos recursos hídricos e no solo, tanto com o atendimento das ligações
+domésticas, como com a educação de saúde ambiental com a população comtemplada com o PROSAB.
+MELHORIA DO AMBIENTE DE NEGÓCIOS E/OU OPORTUNIDADES 
+Nas comunidades mais remotas espera-se que o saneamento básico melhore as condições físicas e de salubridades de mercadinho,
+restaurante, bares e alguns seguintes de artesanato, alavancando pequenos negócios.
+BENEFÍCIOS PARA EMPREENDEDORES INDIVIDUAIS, MICRO E PEQUENAS EMPRESAS 
+Com a implantação de sistema de saneamento básico espera-se a melhoria das condições de trabalho para os empreendedores nos
+setores de comercio e serviço, além de encorajar novos empreendedores e alavancando pequenos negócios.
+GERAÇÃO DE EMPREGO E RENDA PARA POPULAÇÕES DE BAIXA RENDA E VULNERÁVEIS 
+A falta de saneamento básico é um catalizador da pobreza extrema mundial, e como o PROSAB vem atender de populações vulneráveis e
+ de baixa renda, espera-se como resultado uma mudança na qualidade de vida ? saúde, aprendizado ? para uma mobilidade social.
+INFRAESTRUTURA E/OU EQUIPAMENTOS SOCIAIS PARA POPULAÇÕES DE BAIXA RENDA E VULNERÁVEIS 
+O foco da FUNASA é o atendimento das populações rurais e áreas urbanas, com os maiores índices de baixa renda e vulnerável, com até
+50.000 hab, o PORSAB é direcionado a construção de infraestrutura de saneamento básico para a população mais longínquas e menos
+assistida pelos programas sociais, hoje identificadas sem atendimento mínimo de abastecimento de água e esgoto.
+AÇÕES DE INCLUSÃO DE MINORIAS SOCIAIS ENTRE OS BENEFICIÁRIOS 
+O foco da FUNASA é o atendimento das populações rurais e cidades urbanas com até 50.000 hab, o PORSAB é direcionado a construção
+de infraestrutura de saneamento básico para a população mais longínquas e menos assistida pelos programas sociais, hoje identificadas
+sem atendimento mínimo de abastecimento de água e esgoto.
+Além disso, o Subitem S - FORTALECIMENTO SOCIOAMBIENTAL, através do Produto Gestão Ambiental - Educação Ambiental e
+Participação Social contempla atender, através de cursos, minicurso, palestras, seminários, oficinas e outras interações, a população
+beneficiada levando em consideração de cada realidade.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 15
+MELHORIA E/OU INOVAÇÃO EM PROCESSOS DE PRESTAÇÃO DE SERVIÇOS PÚBLICOS, DE GESTÃO E/OU DE PARTICIPAÇÃO
+CIDADÃ 
+O PROSAD tem como objetivo levar o saneamento básico a população brasileiro vulnerável, com 95.000 ligação de água potável, 60.000
+domicílios atendidos com rede de esgoto, mais 10 usinas termoquímicas para uma destinação correta dos resíduos sólidos. 
+Além disso, o Subitem S - FORTALECIMENTO SOCIOAMBIENTAL, através do Produto Gestão Ambiental - Educação Ambiental e
+Participação Social contempla atender, através de cursos, minicurso, palestras, seminários, oficinas e outras interações, a população
+beneficiada levando em consideração de cada realidade para conscientizar na importância no uso do sistema de saneamento.
+MELHORIA DAS CONDIÇÕES DE EDUCAÇÃO E SAÚDE
+Com a implementação das ações do PROSAD espera-se a melhoria no panorama local e geral nas condições de saúde e educação na
+população beneficiada, como, por exemplo, acabar com o problema de evasão escolar por questões de higiene e Doenças Relacionadas
+ao Saneamento Ambiental Inadequado ? DRSA
+DESENVOLVIMENTO, INOVAÇÃO E MODERNIZAÇÃO TECNOLÓGICA 
+Consideram as características locais, acesso a educação, energia e outras questões, o projeto prevê algumas soluções de inovação de
+acordo com o que for possível aplicar, como por exemplo o uso de energia solar funcionamento das Motobombas para poços de água.
+
+
+(ii) informar e quantificar a população beneficiada direta e/ou indiretamente pelas ações do programa/projeto; e
+
+Como os recursos não são suficientes para atender todos os municípios das quatro faixas prioritária em um único Programa, se aplicou os
+critérios do IPEA com o critério dos municípios atendidos pela Operação Carro-Pipa no Seminário Brasileiro foram selecionados 557
+municípios com mais vulnerabilidade social nos 09 Estados do Nordeste e no semiárido de Minas Gerais. 
+A população beneficiada pelo PROSAB está comtemplada no universo já atendido pela FUNASA, que são populações rurais e cidades
+urbanas com até 50.000 hab de todos os Estados do Nordeste brasileiro e do norte do estado de Minas Gerais . 
+
+Serão beneficiados 60.000 domicílios com abastecimento de água potável e 95.000 domicílios atendidos com rede de esgoto. 
+
+(iii) especificar se haverá benefício a populações de baixa renda, vulneráveis, minorias sociais, jovens, com foco em gênero e/ou raça,
+entre outros.
+
+Todas as ações do PROSAB atendem primordialmente populações de baixa renda. É critério do Programa. Sendo o IDH um dos
+requisitos obrigatórios para seleção dos municípios contemplados pelo Programa.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Corporação Andina de Fomento - CAF
+CAF
+US$
+300.000.000,00
+1,00
+300.000.000,00
+Total:
+300.000.000,00
+300.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Não se aplica
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE - ESTRUTURA OPERACIONAL
+
+MUTUÁRIO  
+O Mutuário desta operação de empréstimo é o Ministério da Saúde -MS.  
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 16
+
+MINISTÉRIO DA SAÚDE - MS
+O Ministério da Saúde, órgão da administração pública federal direta, tem como competência os seguintes assuntos:
+I - política nacional de saúde;
+II - coordenação e fiscalização do Sistema Único de Saúde - SUS;
+III - saúde ambiental e ações de promoção, proteção e recuperação da saúde individual e coletiva, inclusive a dos trabalhadores e a dos
+índios;
+IV - informações de saúde;
+V - insumos críticos para a saúde;
+VI - ação preventiva em geral, vigilância e controle sanitário de fronteiras e de portos marítimos, fluviais, lacustres e aéreos;
+VII - vigilância de saúde, especialmente quanto a drogas, medicamentos e alimentos; e
+VIII - pesquisa científica e tecnológica na área de saúde.
+No âmbito do Programa o MS será o mutuário do empréstimo e executará o Programa através da Funasa. 
+
+ÓRGÃO EXECUTOR
+O Órgão Executor do Programa será a Fundação Nacional de Saúde-FUNASA. 
+Será responsável pela coordenação e gestão do Programa através do Departamento de Engenharia de Saúde Pública- DENSP, estando
+todas as obras e intervenções físicas do programa sob sua responsabilidade. Terá o apoio de uma Supervisora de Obras e de uma
+consultoria de apoio a Unidade de Gerenciamento.
+
+UNIDADE DE GERENCIAMENTO DO PROGRAMA- UGP
+A Unidade de Gerenciamento do Programa- UGP será vinculada ao Departamento de Engenharia de Saúde Pública- DENSP da Funasa e
+será responsável pela coordenação das atividades gerais do Programa, as interfaces com os órgãos envolvidos, banco financiador e
+demais entes públicos.
+A Unidade de Gerenciamento do Programa tem responsabilidade de Coordenar, Administrar e Supervisionar, oferecendo suporte a
+execução do Programa, com base no contrato de empréstimo a ser firmado entre o MS e a Corporação Andina de Fomento- CAF.
+A UGP contará com uma estrutura organizacional composta por: Gerência Geral, Gerência de Infraestrutura e Obras, Gerência de Gestão
+Socioambiental e Gerência Administrativa Financeira.
+
+COMISSÃO ESPECIAL DE LICITAÇÃO- CPL
+As contratações e obras, consultorias e demais ações do Programa serão realizadas através de processos de licitações que serão
+executados pela Comissão Especial de Licitação e atenderão ao disposto nas normas contidas no contrato de empréstimo.
+
+A Matriz Institucional do Programa encontra-se anexada à Carta Consulta, para que os analistas possam verificar com mais informações
+as atribuições de cada órgão na condução e execução do Programa.
+
+CONSULTORIA- SUPERVISÃO DE OBRAS
+A Empresa Consultora que fará a supervisão das obras deverá viabilizar todo o suporte técnico à UGP no âmbito da supervisão das obras,
+garantindo as condições necessárias para que o setor de fiscalização da FUNASA possa fiscalizar as obras do Programa com toda a
+capacidade técnica necessária, respeitando as normas, procedimentos e especificações, legislações e outras condições contratuais.
+
+CONSTRUTORAS- EXECUÇÃO DE OBRAS
+Para a execução das obras a FUNASA contratará por meio de licitação pública, empresas do ramo da construção civil com experiência e
+idoneidade comprovadas.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 17
+
+CONSULTORIAS DIVERSAS
+Será necessária a contratação de outras consultorias para a elaboração de estudos diversos na área ambiental, planejamento, projetos e
+auditoria externa, dentre outras previstas no Programa.
+
+ORGÃOS ENVOLVIDOS
+
+MINISTERIO DA ECONOMIA
+Órgão incumbido de orientar o Ministério da Saúde com informações e documentos necessários durante todo o processo de financiamento
+, seja através da Secretaria do Tesouro Nacional, seja através da Procuradoria Geral da Fazenda Nacional.  Responsável também por
+efetuar os pagamentos dos juros e do financiamento.
+
+4.2. Execução/Executores
+Executor: Fundação Nacional de Saúde
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+Fax:
+CNPJ:                
+UF:
+4.3. Execução/Prazo
+Prazo de Desembolso:
+5
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+CAF
+CAF
+C - SANEAMENTO AMBIENTAL INTEGRADO
+266.900.000,00
+40.035.000,00
+   S - ESGOTAMENTO SANITÁRIO
+137.000.000,00
+20.550.000,00
+      P - Implantação de Sistemas Simplificados de Esgotamento Sanitário
+137.000.000,00
+20.550.000,00
+   S - ABASTECIMENTO DE ÁGUA
+80.100.000,00
+12.015.000,00
+      P - Implantação de Sistemas Simplificados de Abastecimento de Água
+80.100.000,00
+12.015.000,00
+   S - RESÍDUOS SÓLIDOS
+42.000.000,00
+6.300.000,00
+      P - Implantação de Sistemas de Resíduos Sólidos
+42.000.000,00
+6.300.000,00
+   S - FORTALECIMENTO SOCIOAMBIENTAL 
+7.800.000,00
+1.170.000,00
+      P - Educação Ambiental e Participação Social: Capacitação em Saúde e Gestão Ambiental 
+3.400.000,00
+510.000,00
+      P - Fortalecimento da Gestão e Operação dos Sistemas de Saneamento
+4.400.000,00
+660.000,00
+C - GESTÃO DO PROGRAMA
+30.500.000,00
+6.675.000,00
+      P - Fortalecimento Institucional da Funasa
+3.500.000,00
+525.000,00
+      P - Supervisão Técnica, Ambiental e Social das Obras
+14.000.000,00
+2.100.000,00
+      P - Apoio a Unidade de Gerenciamento do Programa 
+7.000.000,00
+1.050.000,00
+      P - Projetos Executivos e Estudos Técnicos
+6.000.000,00
+3.000.000,00
+C - OUTROS GASTOS 
+2.600.000,00
+2.600.000,00
+      P - Projeto - Gastos de Avaliação 
+50.000,00
+50.000,00
+      P - Projeto - Comissão de Financiamento (0,85%)
+2.550.000,00
+2.550.000,00
+Total
+0,00
+49.310.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+CAF
+CAF
+C - SANEAMENTO AMBIENTAL INTEGRADO
+66.725.000,00
+   S - ESGOTAMENTO SANITÁRIO
+34.250.000,00
+      P - Implantação de Sistemas Simplificados de Esgotamento Sanitário
+34.250.000,00
+   S - ABASTECIMENTO DE ÁGUA
+20.025.000,00
+      P - Implantação de Sistemas Simplificados de Abastecimento de Água
+20.025.000,00
+   S - RESÍDUOS SÓLIDOS
+10.500.000,00
+      P - Implantação de Sistemas de Resíduos Sólidos
+10.500.000,00
+   S - FORTALECIMENTO SOCIOAMBIENTAL 
+1.950.000,00
+      P - Educação Ambiental e Participação Social: Capacitação em Saúde e Gestão Ambiental 
+850.000,00
+      P - Fortalecimento da Gestão e Operação dos Sistemas de Saneamento
+1.100.000,00
+C - GESTÃO DO PROGRAMA
+9.125.000,00
+      P - Fortalecimento Institucional da Funasa
+875.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 18
+      P - Supervisão Técnica, Ambiental e Social das Obras
+3.500.000,00
+      P - Apoio a Unidade de Gerenciamento do Programa 
+1.750.000,00
+      P - Projetos Executivos e Estudos Técnicos
+3.000.000,00
+C - OUTROS GASTOS 
+0,00
+      P - Projeto - Gastos de Avaliação 
+0,00
+      P - Projeto - Comissão de Financiamento (0,85%)
+0,00
+Total
+0,00
+75.850.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+CAF
+CAF
+C - SANEAMENTO AMBIENTAL INTEGRADO
+66.725.000,00
+   S - ESGOTAMENTO SANITÁRIO
+34.250.000,00
+      P - Implantação de Sistemas Simplificados de Esgotamento Sanitário
+34.250.000,00
+   S - ABASTECIMENTO DE ÁGUA
+20.025.000,00
+      P - Implantação de Sistemas Simplificados de Abastecimento de Água
+20.025.000,00
+   S - RESÍDUOS SÓLIDOS
+10.500.000,00
+      P - Implantação de Sistemas de Resíduos Sólidos
+10.500.000,00
+   S - FORTALECIMENTO SOCIOAMBIENTAL 
+1.950.000,00
+      P - Educação Ambiental e Participação Social: Capacitação em Saúde e Gestão Ambiental 
+850.000,00
+      P - Fortalecimento da Gestão e Operação dos Sistemas de Saneamento
+1.100.000,00
+C - GESTÃO DO PROGRAMA
+6.125.000,00
+      P - Fortalecimento Institucional da Funasa
+875.000,00
+      P - Supervisão Técnica, Ambiental e Social das Obras
+3.500.000,00
+      P - Apoio a Unidade de Gerenciamento do Programa 
+1.750.000,00
+      P - Projetos Executivos e Estudos Técnicos
+0,00
+C - OUTROS GASTOS 
+0,00
+      P - Projeto - Gastos de Avaliação 
+0,00
+      P - Projeto - Comissão de Financiamento (0,85%)
+0,00
+Total
+0,00
+72.850.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+CAF
+CAF
+C - SANEAMENTO AMBIENTAL INTEGRADO
+53.380.000,00
+   S - ESGOTAMENTO SANITÁRIO
+27.400.000,00
+      P - Implantação de Sistemas Simplificados de Esgotamento Sanitário
+27.400.000,00
+   S - ABASTECIMENTO DE ÁGUA
+16.020.000,00
+      P - Implantação de Sistemas Simplificados de Abastecimento de Água
+16.020.000,00
+   S - RESÍDUOS SÓLIDOS
+8.400.000,00
+      P - Implantação de Sistemas de Resíduos Sólidos
+8.400.000,00
+   S - FORTALECIMENTO SOCIOAMBIENTAL 
+1.560.000,00
+      P - Educação Ambiental e Participação Social: Capacitação em Saúde e Gestão Ambiental 
+680.000,00
+      P - Fortalecimento da Gestão e Operação dos Sistemas de Saneamento
+880.000,00
+C - GESTÃO DO PROGRAMA
+4.900.000,00
+      P - Fortalecimento Institucional da Funasa
+700.000,00
+      P - Supervisão Técnica, Ambiental e Social das Obras
+2.800.000,00
+      P - Apoio a Unidade de Gerenciamento do Programa 
+1.400.000,00
+      P - Projetos Executivos e Estudos Técnicos
+0,00
+C - OUTROS GASTOS 
+0,00
+      P - Projeto - Gastos de Avaliação 
+0,00
+      P - Projeto - Comissão de Financiamento (0,85%)
+0,00
+Total
+0,00
+58.280.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+CAF
+CAF
+C - SANEAMENTO AMBIENTAL INTEGRADO
+40.035.000,00
+266.900.000,00
+   S - ESGOTAMENTO SANITÁRIO
+20.550.000,00
+137.000.000,00
+      P - Implantação de Sistemas Simplificados de Esgotamento Sanitário
+20.550.000,00
+137.000.000,00
+   S - ABASTECIMENTO DE ÁGUA
+12.015.000,00
+80.100.000,00
+      P - Implantação de Sistemas Simplificados de Abastecimento de Água
+12.015.000,00
+80.100.000,00
+   S - RESÍDUOS SÓLIDOS
+6.300.000,00
+42.000.000,00
+      P - Implantação de Sistemas de Resíduos Sólidos
+6.300.000,00
+42.000.000,00
+   S - FORTALECIMENTO SOCIOAMBIENTAL 
+1.170.000,00
+7.800.000,00
+      P - Educação Ambiental e Participação Social: Capacitação em Saúde e Gestão Ambiental 
+510.000,00
+3.400.000,00
+      P - Fortalecimento da Gestão e Operação dos Sistemas de Saneamento
+660.000,00
+4.400.000,00
+C - GESTÃO DO PROGRAMA
+3.675.000,00
+30.500.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 19
+      P - Fortalecimento Institucional da Funasa
+525.000,00
+3.500.000,00
+      P - Supervisão Técnica, Ambiental e Social das Obras
+2.100.000,00
+14.000.000,00
+      P - Apoio a Unidade de Gerenciamento do Programa 
+1.050.000,00
+7.000.000,00
+      P - Projetos Executivos e Estudos Técnicos
+0,00
+6.000.000,00
+C - OUTROS GASTOS 
+0,00
+2.600.000,00
+      P - Projeto - Gastos de Avaliação 
+0,00
+50.000,00
+      P - Projeto - Comissão de Financiamento (0,85%)
+0,00
+2.550.000,00
+Total
+300.000.000,00
+43.710.000,00
+300.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+Ministério da Saúde deverá baixar decreto criando a Unidade de Gerenciamento do Programa-UGP, vinculada à Fundação Nacional de
+Saúde e Portaria nomeando os membros da UGP. 
+
+Deverá fazer Termo de Cooperação Técnica com Estados e Municípios que participarão das intervenções para agilizar as etapas de
+licenciamento ambiental. 
+
+Deverá fazer Termo de Cooperação Técnica com Estados e Municípios que participarão das intervenções para agilizar as ações juntos
+aos gestores dos sistemas de agua e esgotos das localidades rurais.  
+
+5.2. RISCOS/CONTRATAÇÕES
+Os principais problemas com as contratações são:
+Demora na execução por recursos e ações judiciais oriundas de editais e projetos mal elaborados.
+
+MEDIDAS MITIGADORAS
+- Garantir uma equipe competente e capacitada no setor de licitação e contratação.
+- Editais, Termos de Referencia e projetos bem elaborados. 
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+Não está prevista nenhuma desapropriação, contudo somente os estudos técnicos poderão confirmar esta questão. 
+Caso existam serão conduzidas e de responsabilidade dos municípios, conforme termo de cooperação entre os entes federativos
+envolvidos. 
+
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+Por ser um projeto de larga escala, tendo todo o território brasileiro para beneficiado, o processo de licenciamento será realizado em
+etapas, por munícipios, sendo realizado de acordo com a realidade local de cada município contemplado, podendo as licenças serem
+emitidas tanto pelo município contemplo, como pela Estado.  Há várias formas de Funasa implementar esse tipo de projeto em conjunto
+com o Estado ou município, sendo diretamente construídos pela fundação ou com convênios com as entidades federativas.
+
+Sabendo que a FUNASA é um órgão da Esfera Federal e tem larga experiência com projetos com Produtos iguais ou semelhantes, serão
+criados termos de cooperação para licenciamento entre as Esferas Públicas considerando a Lei Complementar Nº 140/2011, para uma
+prioridade de licenciamento ambiental.
+
+O Ministério da Saúde é o proponente, tendo expertise com as Políticas de Meio Ambiente e salvaguardas da Corporação Andina de
+Fomento ? CAF e outros bancos de fomentos, além de ter em seu corpo técnico profissionais capacitados para executar diretrizes
+necessárias para o funcionamento completo do programa.
+ 
+O CONAMA, na Resolução No 001/86, considera impacto ambiental como: ?qualquer alteração das propriedades físicas, químicas e
+biológicas do meio ambiente, causada por qualquer forma de matéria ou energia resultante das atividades humanas que, direta ou
+indiretamente, afetam:  
+I - a saúde, a segurança e o bem-estar da população;  
+II - as atividades sociais e econômicas;  
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 20
+III - a biota;  
+IV - as condições estéticas e sanitárias do meio ambiente;  
+V - a qualidade dos recursos ambientais.?
+
+Analisando os impactos durante a Fase de Implantação, pode-se identificar que tais impactos poderão ocorrer, tendo um risco de impacto
+ambiental nos Meios Físicos e Biótico significantes, mas temporários e de baixa magnitude analisando os impactos positivos do PROSAB:
+- Risco de contaminação do solo;
+- Risco de contaminação dos recursos hídricos;
+- Risco de diminuição da biodiversidade local por supressão de vegetal e afugentamento da fauna;
+- Risco de poluição do ar;
+
+Em contrapartidas os Impactos Positivos para o meio ambiente após a entrega das obras serão permanentes, significativas e de grande
+magnitude, tendo em vista que será feito um trabalho de Educação de Saúde Ambiental com os usuários dos serviços, alcançando:
+- Redução na contaminação dos recursos hídricos;
+- Preservação dos recursos naturais e biodiversidade;
+- Fortalecimento das políticas de saúde ambiental;
+- Menor risco de contaminação do solo;
+
+Para prevenir e mitigar qual risco de impactos ambiental será implementada, de forma complementar, a legislação brasileira e a política
+ambiental da CAF dentro do Programa Básico Ambiental ? PBA e plano de monitoramento e acompanhamento do PROSAB, atendendo
+todas as condicionantes das licenças ambientais.
+
+Com o foco no Saneamento Ambiental Integral, O PROSAB reúne ações socioeconômicas que objetiva alavancar os níveis de saúde
+ambiental por meio do abastecimento de água potável, esgotamento sanitário e disposição correta resíduos sólidos, promovendo a
+disciplina sanitária, controle de vetores doenças e pragas, com a finalidade de proteger e melhorar as condições de vida da população
+contemplada, tanto nas áreas urbanas e rurais. Assim, o RISCO de implantação do programa é baixo, sendo interpretado como existente
+apenas na Fase Implementação das Obras, onde há muitos impactos negativos, mas temporário.
+
+5.5. RISCOS/IMPACTO SOCIAL
+O processo de planejamento, elaboração dos projetos e tecnologias aplicadas estão levando em consideração a função social e sanitária
+de cada localidade, além de pensar sobre questões culturais e econômicas, pois o modo como a população ocupa o território tem forte
+relação com a adoção de soluções coletivas ou individuais. Assim, a distribuição das residências nos espaços geográficos pode ou não
+favorecer a adoção de algumas tecnologias.
+
+O Ministério da Saúde é o proponente, tendo expertise com as Políticas Sociais e salvaguardas da Corporação Andina de Fomento ? CAF
+e outros bancos de fomentos, além de ter em seu corpo técnico profissionais capacitados para executar diretrizes necessárias para o
+funcionamento completo do programa. 
+
+Considerando a vulnerabilidade socioambientais de alguns municípios brasileiros e que falta de saneamento básico é sintoma grave da
+pobreza extrema, o RISCO considerado da implantação do programa é quase NULO, pois foi pensando para aumento da qualidade de
+vida social e finalizar o ciclo da pobreza de algumas comunidades, que se inicia, por exemplo,  com o abandono escolar nas periferias
+urbanas e áreas rurais por falta de higiene pessoal, além de alto índice de número de Doenças Relacionadas ao Saneamento Ambiental
+Inadequado ? DRSAI, por consumo de água imprópria ou esgotamento inadequado, como consequência há uma ausência de sala de aula
+, que somando muitas vezes a uma desnutrição, causam um atraso potencial de aprendizagem de crianças, assim diminuem as
+perspectivas de mobilidade social, perpetuando o quadro de pobreza da população.
+
+Analisando o processo de construção das obras e intervenções há riscos de impactos ambientais que são inerentes a essa fase do
+programa, que são:
+- Risco de tensões sociais;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:01
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 60940
+Página: 21
+- Risco de alteração na dinâmica local;
+- Risco de alteração na infraestrutura de serviços de utilidade pública existente;
+- Aumento do tráfego de veículos pesados para obra;
+- Alteração positiva na dinâmica do comercio local, com mais vendas;
+
+Para prevenir e mitigar qual risco de impactos sociais será implementada, de forma complementar, a legislação brasileira e a política
+sociais da CAF dentro do Programa Básico Ambiental ? PBA e plano acompanhamento junto a população afeitada pelo PROSAB,
+atendendo todas as condicionantes das licenças ambientais e quais quer necessidades identificadas. 
+
+Após a entrega das obras será realizado um trabalho de Educação de Saúde Ambiental e Práticas Sociais com a população comtemplada
+com o PROSAB, e os Impactos Positivos serão sentidos e contemplando, como:
+- Aumento da qualidade de vida das pessoas;
+- Melhoria na saúde da população atendida, principalmente de crianças, com diminuição da mortalidade infantil;
+- Diminuição de pragas vinculadas ao acúmulo de lixo.
+- Contenção de doenças, especialmente as de veiculação hídrica com redução das internações;
+- Diminuição do ciclo da pobreza causado pela falta de saneamento ambiental.
+- População mais consciente da importância da saúde ambiental;
+- Melhor utilização do sistema a partir do conhecimento dos usuários;
+- Melhores serviços com redução dos custos de operação dos serviços a partir de uma maior qualificação dos operadores dos sistemas.
+
+Mas existe uma Risco que precisa ser considerando que é ligado diretamente a gestão, manutenção e abastecimento regular dos
+sistemas contemplados no PROSAB, que é a cobrança pelo serviço, pois nas áreas urbanas ficará a cargo dos municípios, diretamente
+através dos Sistema Autônomo de Água e Esgoto ou de Concessionárias Públicas responsáveis pela gestão, neste caso os serviços serão
+pagos pela população beneficiada, já nas áreas rurais segue com um sistema de rateio dos custos operacionais com os usuários. Será
+realizado um trabalho direcionado a conscientização da população para esse custo.
+
+Ao longo dos anos as políticas públicas de saneamento sofreram alterações, mas  o Ministério da Saúde continua responsáveis pela
+implantação de Saneamento Básico no Brasil, com foco principal em área rurais, assim tendo uma larga experiência em implantação de
+Programas de Saneamento Ambiental em áreas remotas e difícil acesso, minorias sociais de grande vulnerabilidade social, baixa renda e
+populações tradicionais (quilombola e indígenas), como, por exemplo, o intenso trabalho realizado nos anos 2004-2011, e o PROSAB não
+será diferente, mapeando e selecionado cada município para entender a necessidades e implantar soluções de acordo com a realidade
+local. 
+
+5.6. RISCOS/REASSENTAMENTOS
+Não está previsto nenhum reassentamento no âmbito dos projetos já existentes. 
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+Informações relevantes
+- 17/10/2022: A Carta Consulta, versão 2, foi apresentada em 09 de agosto de 2022 e foi pautada na COFIEX 163, tendo sido reprovada
+por inadequação orçamentária, destacando que a operação proposta impõe dificuldade adicional ao cumprimento do teto de gastos, da ?
+regra de ouro? e da aplicação mínima constitucional em saúde.
+ 
+ 

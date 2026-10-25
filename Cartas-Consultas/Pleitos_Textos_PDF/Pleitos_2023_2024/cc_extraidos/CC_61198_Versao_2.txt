@@ -1,0 +1,1493 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Garantias de Pagamento da Parceria Público Privada para Prestação do Serviço Público
+de Transporte de Passageiros sobre Trilhos do TIC EIXO NORTE do Estado de São Paulo
+Nº Carta Consulta: 61198
+Processo: 03101.002105/2024-39
+Mutuário: Estado de São Paulo
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  11 de Julho de 2024
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 100.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+03
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 04
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 04
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 04
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 04
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 05
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 06
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 07
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 07
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 10
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 15
+3. FINANCIAMENTO .......................................................................................................................................................................................... 15
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 15
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 15
+4. EXECUÇÃO ...................................................................................................................................................................................................
+15
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 15
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 16
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 17
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 17
+5. RISCOS .......................................................................................................................................................................................................... 18
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 18
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 18
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 19
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 19
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 20
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 21
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+22
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+A ligação entre São Paulo, Campinas e Jundiaí, que formam as regiões metropolitanas mais dinâmicas do estado, que com a sua rápida
+urbanização, enfrenta um desafio crítico de saturação no transporte rodoviário. A dependência desse sistema acarreta externalidades
+negativas significativas, como longos tempos de deslocamento, altos níveis de emissões poluentes e frequentes acidentes, prejudicando o
+meio ambiente, a produtividade, a qualidade de vida e a segurança. A ausência de uma alternativa ferroviária eficiente entre essas
+regiões estratégicas agrava o problema, limitando a mobilidade e dificultando o crescimento sustentável e a conectividade necessária para
+ impulsionar o desenvolvimento econômico e social da região. 
+O Sistema Anhanguera-Bandeirantes é o principal meio de ligação entre Campinas e São Paulo, sendo utilizado tanto pelo transporte
+individual quanto pelo transporte coletivo. Essas rodovias desempenham um papel fundamental no transporte de pessoas e mercadorias
+entre as regiões metropolitanas, porém, enfrentam problemas como alto tráfego, congestionamentos e variações nos tempos de viagem. O
+transporte individual representa cerca de 89% dos deslocamentos, enquanto o transporte coletivo utiliza a mesma infraestrutura e sofre
+com os mesmos desafios. Apesar da existência da Linha 7-Rubi da CPTM, que opera entre São Paulo e Jundiaí, não há uma alternativa
+ferroviária para passageiros entre Jundiaí e Campinas.  
+Cerca de 15 milhões de pessoas habitam a região diretamente atendida pelos Serviços do TIC Eixo Norte, representando 33% da
+população do estado e gerando cerca de 18% do PIB do Brasil, equivalente a R$ 1,14 trilhão. O problema e os custos do
+congestionamento do tráfego na Região Metropolitana de São Paulo (RMSP) afetam tanto a logística de passageiros quanto a de carga e
+contribuem negativamente para o desenvolvimento econômico e as perspectivas de competitividade da região.
+A Linha 7 da CPTM é única por possuir estações fora da RMSP, com municípios da Região Metropolitana de Jundiaí. Embora seja a única
+ligação ferroviária no eixo norte, sua extensão se limita a Jundiaí, não chegando a Campinas. Atualmente, a Linha 7 atende em média por
+dia útil 404 mil passageiros e sofre com a falta de investimentos e superlotação. Investimentos significativos em modernização de
+sistemas elétricos, sinalização e via permanente, além da segregação da circulação dos trens de carga, que hoje compartilham as
+mesmas vias utilizadas pelos trens de passageiros, são necessários para reduzir o intervalo entre trens, aumentar a capacidade de
+transporte e a regularidade do serviço prestado à população. Além disso, as estações necessitam de reformas para melhor atender os
+passageiros, proporcionando mais conforto, segurança e acessibilidade universal. Essa limitação dos modais metroferroviários acarreta
+dependência excessiva de modais mais ineficientes e poluentes, como automóveis e motocicletas e, em menor grau, os ônibus,
+contribuindo para o congestionamento severo na RMSP. 
+Tão importante quanto a conexão com Campinas é o atendimento às cidades intermediárias, como Louveira, Vinhedo e Valinhos, que
+atualmente são desatendidas pelo sistema ferroviário. Há uma dinâmica significativa de deslocamentos entre estas cidades intermediárias,
+que também é afetada pela falta de alternativas eficientes de transporte público. A inclusão dessas cidades na rede ferroviária não
+apenas melhoraria a mobilidade regional, mas também atenderia a uma demanda crescente por transporte público de qualidade, aliviando
+a pressão sobre as rodovias e promovendo um desenvolvimento mais sustentável na região. 
+Para solucionar esse problema, o Governo do Estado de São Paulo leiloou, em 29/02/24, a PPP para o TIC Eixo Norte. Essa parceria
+inclui a criação de uma ligação ferroviária expressa entre São Paulo e Campinas, além de investimentos em modernização para a Linha 7.
+A PPP também prevê a criação do serviço intermetropolitano, atendendo as cidades de Louveira, Vinhedo e Valinhos, melhorando a
+mobilidade na região. Um projeto desse porte exige altos financiamentos do parceiro privado, que requer contragarantias do Governo do
+Estado de São Paulo para assegurar o pagamento das contraprestações e viabilizar o projeto. Prover garantias para esses investimentos
+é um desafio crescente para o governo, dado o vasto portfólio de projetos de PPP. Portanto, encontrar soluções eficientes de garantia que
+otimizem o espaço fiscal do estado é essencial. 
+
+IDH 
+Com uma população aproximada de 20,7 milhões de habitantes na RMSP, IDH-M de 0,842 composta por 39 municípios sendo cerca de
+pouco mais de 11,4 milhões de habitantes apenas na cidade de São Paulo, segundo o Censo IBGE 2022, o Estado enfrenta desafios
+importantes que o obrigam a preparar-se com instrumentos de planejamento para encarar as mudanças em mobilidade ante às exigências
+ de um alto nível de urbanização e dos milhões de deslocamentos e longas distâncias percorridas diariamente.
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+A PPP do TIC Eixo Norte surge como resposta à necessidade de um novo modal de transporte para regiões metropolitanas de São Paulo,
+Campinas e Jundiaí.  
+O Projeto engloba três serviços públicos de transporte de passageiros sobre trilhos:  
+Linha 7-Rubi: atualmente operada pela CPTM, conecta a estação Barra Funda em São Paulo a Jundiaí, passando por Caieiras, Franco da
+Rocha, Francisco Morato, Campo Limpo Paulista e Várzea Paulista. 
+Trem Intermetropolitano (TIM): novo serviço que ligará Campinas a Jundiaí, passando por Valinhos, Vinhedo, Louveira; 
+Trem Intercidades (TIC): novo serviço expresso, que ligará São Paulo a Campinas com uma parada intermediária em Jundiaí em pouco
+mais de uma hora. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 3
+A PPP inclui a operação dos três serviços, modernizações necessárias, aquisição de novos trens e manutenção de todos os ativos
+envolvidos na prestação do serviço, incluindo investimentos para a modernização da Linha 7-Rubi, e no trecho Jundiaí a Campinas em
+nova infraestrutura dedicada ao transporte de cargas, e atualmente concedido pelo governo federal ao Rumo Logística S.A e operado pela
+ e MRS Logística S.A. 
+Os serviços no Eixo Norte devem atender às demandas de serviços expressos e paradores metropolitanos e intermetropolitanos com vias
+e sistemas adequados. O serviço Expresso deve ter trens com capacidade e intervalos ajustados à demanda, atendendo apenas
+passageiros sentados. É essencial que os trens percorram o trajeto em pouco mais de 1 hora e, nos horários de pico, o intervalo entre
+trens não deve exceder 15 minutos. Durante os 30 anos de concessão, o contrato regula a demanda projetada, exigindo a adequação do
+plano de vias, sistemas e serviços para as fases do projeto.
+O edital para licitação deste projeto, na modalidade concessão patrocinada, foi originalmente publicado em 31/03/23, republicado em 29/
+09/23, com sessão pública realizada em 29/02/24 e assinatura do contrato de concessão decorrente em 03/06/24. 
+O uso de Garantias 
+Garantias em projetos de PPP de infraestrutura são cruciais para viabilizar o financiamento privado, assegurando aos investidores a
+confiabilidade dos pagamentos públicos e atraindo o capital necessário. Essas garantias tornam o financiamento mais acessível e
+diminuem o custo total dos projetos, resultando em tarifas mais baixas, melhores serviços e maior eficiência, impulsionando o
+desenvolvimento econômico e melhorando a qualidade de vida. O Estado de São Paulo, através da Companhia Paulista de Parcerias (
+CPP), tem utilizado essas garantias, mas os recursos atuais estão majoritariamente alocados, exigindo novas alternativas. As garantias do
+Banco Mundial são especialmente valiosas em mercados emergentes, mitigando riscos financeiros e aumentando a confiança dos
+investidores com sua classificação Triplo A. Isso facilita condições de crédito mais favoráveis, reduz os custos de financiamento e promove
+a estabilidade econômica, atraindo investimento privado e incentivando o desenvolvimento sustentável. No projeto TIC Eixo Norte, essas
+garantias permitirão a implementação de um novo modal de transporte sobre trilhos, sustentável e eficiente, necessário ao país. Portanto,
+a garantia (operação de crédito contingente) pleiteada na COFIEX, nos limites previstos para subnacionais na categoria PPP, é essencial
+dado o cenário geral de esgotamento de garantias no Estado. Neste projeto, em específico, a garantia poderá estabelecer um novo arranjo
+ para afiançar as obrigações pecuniárias do Poder Concedente ao longo da concessão.
+RESULTADOS ESPERADOS 
+No âmbito dos serviços de consultoria contratados para o Projeto, foi elaborado um Relatório de Análise Custo-Benefício (ACB) referente
+ao TIC Eixo Norte. Neste documento, foram analisados os custos e benefícios econômicos do Projeto em comparação com um cenário
+hipotético, sem a sua existência, com a finalidade de verificar se os benefícios para a sociedade justificam os custos a serem assumidos,
+equilibrando assim os eventuais impactos negativos do Projeto. 
+A Análise de Custo-Benefício foi além da análise econômica tradicional, considerando os impactos sociais do projeto. Isso permitiu
+categorizar as obras pelo seu valor presente líquido social, facilitando decisões racionais e priorização de projetos que maximizem o bem-
+estar do usuário e reduzam a incerteza sobre a viabilidade. Conclui-se, que o Projeto irá gerar: a) benefícios socioeconômicos por meio da
+nova conexão das cidades e bairros entre Jundiaí, Campinas e São Paulo, interligando-as de forma mais eficiente e reduzindo o tráfego
+rodoviário; e b) melhorias na Linha 7- Rubi, proporcionando melhor qualidade para seus passageiros; obtendo como resultado final, no ano
+2058: benefício acumulado de R$ 27.853.916; custo acumulado de R$ 12.494.402; com a diferença entre o benefício e o custo de R$ 15.
+359.514 e a relação Benefício/Custo = 2,23 (valores na data base 01/12/22). 
+As Análises demonstraram que o projeto produzirá impacto econômico líquido positivo para a sociedade, gerando mais de R$ 15,4 bilhões
+em valor presente de benefícios líquidos dos custos econômicos, representados pelos investimentos e incremento dos custos
+operacionais decorrentes dos novos serviços. A composição do valor presente líquido dos benefícios se distribui conforme o Gráfico 4, do
+item 8 do Relatório Analítico do Custo Benefício (ACB), Anexo II. 
+SUSTENTABILIDADE 
+A remuneração da concessão PPP para os serviços de transporte ocorrerá através de diferentes receitas: a) Pagamento Por
+Disponibilidade (PPD): Serviço Linha 7 e TIM -Incluiu  uma parcela fixa e uma  variável, baseada na quilometragem percorrida pelos trens,
+paga conforme a disponibilidade dos serviços à população; b) Receita Tarifária do Serviço Expresso: Obtida pela venda de bilhetes, com
+tarifas reguladas (teto tarifário de R$ 64,00 para o trecho Campinas-Barra Funda e uma tarifa média de R$ 50,00 para o mesmo trecho; c)
+Aporte Público: no valor total de R$ 8,5 bilhões (data base 01/12/22), baseado na execução de empreendimentos e marcos atingidos; 
+d) Contraprestação Pecuniária: receita auferida a partir do início da operação comercial; e e) Receitas Acessórias: de atividades não
+operacionais ou fontes alternativas.  
+O modelo de pagamento por disponibilidade, em vez do pagamento por demanda reduz risco de demanda flutuante e garante receita
+estável, incentivando a alta qualidade do Serviço. Isso resulta em maior eficiência operacional, manutenção e gestão dos sistemas de
+transporte, garantindo um serviço mais confiável e satisfatório.  
+Este modelo busca a sustentabilidade e a eficiência no uso dos recursos públicos. 
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 4
+O Projeto se alinha ao planejamento estratégico e desenvolvimento do Governo do Estado de São Paulo por meio do Plano Plurianual
+PPA 2024-2027 (Lei nº 17.898, de 09 de abril de 2024); Objetivo Estratégico 5: "Infraestrutura e Mobilidade Urbana Expandidas, para
+Melhoria da Vida dos Cidadãos e para um Ambiente de Negócios Favorável à Atração de Investimentos"; Programa 3935:
+"Desenvolvimento de Parcerias em Investimentos (PPI-SP)", Produto 2255 - Trem Intercidades  -  TIC Eixo Norte, bem como na Lei de
+Diretrizes Orçamentárias-LDO de 2024 (Lei nº 17.725/2023 e na Lei Orçamentária Anual-LOA de 2024 (Lei nº 17.863/2023 - Ação
+Orçamentária 26.453.3935.2621). 
+O TIC Eixo Norte é um projeto de concessão patrocinada qualificado no Programa de Parcerias Público-Privadas PPP, instituído pela Lei
+Estadual nº 11.688/2004, e destinado a fomentar, coordenar, regular e fiscalizar a atividade de agentes do setor privado que, na condição
+de colaboradores, atuem na implementação das políticas públicas voltadas ao desenvolvimento do Estado e ao bem-estar coletivo. O
+Projeto ainda integra o Programa de Parcerias em Investimentos do Estado de São Paulo PPI-SP, instituído pelo Decreto Estadual nº 67.
+443/2023, com o objetivo de ampliar e fortalecer os mecanismos de colaboração entre o Estado e o setor privado, voltados ao
+desenvolvimento estadual sustentável. Anexo III - PPA 2024 2027 Anexo VI - PITU 2040
+
+CONTRAPARTIDA 
+Como trata-se de um pleito de garantia nos termos do inciso II do artigo 2º da Resolução COFIEX nº 81 de 7 de dezembro de 2023, e
+conforme Resolução COFIEX nº 25, de 6 de junho de 2024, nesta modalidade de pleito ao COFIEX submetidos ao sublimite de PPP, a
+exigência de contrapartida não se aplica. 
+
+TAXA DE CÂMBIO ADOTADA NO PROJETO 
+R$ 5,2935/USD conforme cotação de 30/11/2022, em razão da data base do projeto (01/12/2022). 
+2. Projeto
+2.1. Título
+Garantias de Pagamento da Parceria Público Privada para Prestação do Serviço Público de Transporte de Passageiros sobre Trilhos do
+TIC EIXO NORTE do Estado de São Paulo
+2.2. Título Abreviado
+Garantias para PPP TIC Eixo Norte
+2.3. Mutuário
+Estado de São Paulo
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+Objetivo Geral
+O objetivo geral do projeto do Trem Intercidades Eixo Norte é aprimorar a acessibilidade entre as regiões metropolitanas de São Paulo,
+Jundiaí e Campinas, por meio de um sistema de transporte sobre trilhos eficiente e sustentável, visando facilitar o deslocamento das
+pessoas e promover o desenvolvimento regional, com a expectativa de reduzir congestionamentos, acidentes e emissões de poluentes,
+além de proporcionar maior agilidade, segurança e conforto aos passageiros. 
+
+Objetivos Específicos
+Os objetivos específicos a serem atingidos são: 
+
+Aumentar o número de passageiros que utilizam o transporte de passageiros sobre trilhos diariamente, especialmente na Linha 7 (
+existente - 2024) de 404.000 para 422.000 até 2032; 
+
+Introduzir um serviço totalmente novo para os municípios de Campinas, Jundiaí, Valinhos, Louveira e Vinhedo, denominado TIM,
+transportando 87 mil passageiros por dia útil até 2032; 
+
+Lançar o serviço expresso de média velocidade, denominado TIC, atendendo 45 mil passageiros por dia útil em seu primeiro ano de
+operação (2031); 
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 5
+Oferecer um serviço de transporte com tempo de viagem reduzido com os utilizados atualmente, proporcionando uma redução de 100
+para 64 minutos no trecho entre São Paulo e Campinas; 
+
+Aumentar o número de municípios atendidos pelo serviço de transporte de passageiros sobre trilhos, de 7 (2024) para 11 até 2029; 
+
+Aumentar o número de estações modernizadas e acessíveis na Linha 7, de 5 (2024) para 17 até 2031; 
+
+Implementar 4 novas estações operacionais até 2031; 
+
+Reduzir o intervalo entre trens na Linha 7 durante o horário de pico de 7 para 3,5 minutos no trecho Barra Funda para Francisco Morato e
+de 14 para 7 minutos no trecho de Francisco Morato para Jundiaí. 
+2.6. Projeto/Indicadores
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Acréscimo de Passageiros Transportados por
+dia útil - Linha 7 
+Diferença entre
+demanda atual e a ser
+atendida com início
+em 2026 e término em
+ 2032 pela Linha 7 
+mil passageiros/dia
+útil
+404,00
+422,00
+Passageiros Transportados por dia útil -TIM (
+Intermetropolitano) 
+Diferença entre a
+demanda inicial em
+2029 e a ser atendida
+em 2032 pelo TIM 
+mil passageiros/dia
+útil 
+0,00
+87,00
+Passageiros Transportados por dia útil -TIC (
+Expresso) 
+Diferença entre a
+demanda inicial em
+2026 e a ser atendida
+em 2031 pelo TIC 
+mil passageiros/dia
+útil 
+0,00
+45,00
+Tempo de viagem entre São Paulo e Campinas 
+Diferença entre o
+tempo de viagem
+realizado atualmente
+em modo rodoviário
+em 2024 e o tempo
+futuro a ser realizado
+pelo TIC em 2031
+Minutos
+100,00
+64,00
+Municípios atendidos 
+Diferença entre o
+número de cidades
+atendidas atual (2024)
+ e em 2029.
+Unitário
+7,00
+11,00
+Estações plenamente acessíveis na Linha 7 
+Diferença entre o
+número de estações
+com acessibilidade
+operacionais atuais (
+2024) e em 2031 
+unitário
+5,00
+17,00
+Novas estações operacionais 
+Número de estações
+novas entregues até
+2031 (referência de
+início - ano de 2024)
+unitário
+0,00
+4,00
+Intervalo entre trens na Linha 7 Rubi (trecho
+Francisco Morato para Jundiaí)
+dikinuição do atual (
+2024) intervalo médio
+entre trens no horário
+de pico no trecho mais
+ carregado em 2031
+minutos
+14,00
+7,00
+Intervalo entre trens na Linha 7 Rubi  (trecho
+Barra Funda para Francisco Morato)
+diminuição do atual (
+2024) Intervalo médio
+entre trens no horário
+de pico no trecho mais
+ carregado em 2031
+minutos
+7,00
+3,50
+2.7. Projeto/Componentes
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 6
+Componentes
+Valor(US$)
+C - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+100.000.000,00
+      P - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+100.000.000,00
+Total dos Componentes
+100.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+O instrumento de crédito contingente desta Carta Consulta fornecerá cobertura de garantia ao (i) Aporte Público e, à (ii)
+Contraprestação Pecuniária, meios destinados a cobrir as obrigações de pagamento pelos investimentos no Projeto, viabilizando a
+manutenção do Contrato de Concessão, num eventual descumprimento de obrigações de pagamento pelo Governo (Poder
+Concedente). Anexo IV - Estrutura de Garantias COFIEX e Anexo VIII - Garantias Banco Mundial
+Os recursos da operação de crédito serão integralmente destinados às despesas de que tratam os incisos I ou II do caput do art. 2º
+ da resolução cofiex nº 81.
+      P - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+As garantias de pagamento (operação de crédito contingente), por sua vez, são instrumentos destinados a cobrir o
+descumprimento de obrigações de pagamento pelo governo (poder concedente), não vinculadas a empréstimos. Isso inclui
+pagamentos periódicos de contraprestações públicas ou compensações por rescisão em contratos de concessão, quando tais
+obrigações exigem melhoria de crédito. Essas obrigações abarcam o pagamento de compensações acordadas a entidades
+privadas por perdas resultantes do não cumprimento de compromissos assumidos pelo governo ou entidades públicas no âmbito
+de contratos de parceria e concessões. 
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Outros
+-
+-
+100.000.000,00
+100,00
+P- GARANTIA AO APORTE PÚBLICO,
+CONTRAPRESTAÇÕES PECUNIÁRIAS
+USD
+100.000.000,
+00
+100.000.000,00
+100,00
+Total Geral
+-
+-
+100.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+Os primeiros estudos de viabilidade da ligação São Paulo-Campinas foram realizados em 2003 pela CPTM, com recursos do FEV (Línea
+de Financiación de Estudios de Viabilidad, com recursos provenientes do Fondo de Ayuda al Desarrolo) e colaboração da INECO. Já em
+2011, a CPTM atualizou os estudos da ligação, tendo, inclusive, oferecido projetos funcionais.  
+
+Em outubro de 2012, houve a entrega de uma Manifestação de Interesse Privada (MIP) sobre uma rede de trens expressos intercidades,
+elaborada pelas empresas Estação da Luz Participações Ltda. EDLP e BTG Pactual Gestora de Recursos Ltda. A partir dessa MIP, no
+âmbito da 8ª Reunião Extraordinária do Conselho Gestor do Programa de Parcerias Público-Privadas - CGPPP, realizada em 27 de
+novembro de 2012, um projeto de trens inter-regionais foi adicionado à carteira do PPP. No entanto, com escopo distinto do Projeto. A
+manifestação de interesse propunha-se a estudar uma rede de, aproximadamente, 431 km de linhas de trens inter-regionais com os
+seguintes trechos propostos: São Paulo-Sorocaba, São Paulo-ABC, ABC-Santos, São Paulo-Jundiaí-Campinas e São Paulo-São José dos
+ Campos. 
+
+Em janeiro de 2013, foi publicado o Chamamento Público 01/13 (DOE SP 24/01/13), para a apresentação, por eventuais interessados, de
+MIP para desenvolvimento de estudos e modelagem para a implantação de trens intercidades. A entrega dos estudos de modelagem
+objeto da MIP se deu em agosto daquele ano e culminou num esboço de projeto que contemplava 6 vias entre São Paulo e Jundiaí, a ser
+desenvolvido pela equipe técnica do Governo do Estado com apoio técnico do Banco Mundial. Na 65ª Reunião Ordinária do CGPPP,
+realizada em 14 de maio de 2014, o Conselho tomou ciência dos avanços na estruturação da modelagem pela equipe técnica do Governo
+e da escolha do trecho São Paulo a Americana, considerado prioritário. Em 3 de julho de 2015, durante a 68ª Reunião Ordinária (DOE SP
+22/08/15), em que a carteira de projetos foi revista em face do cenário de restrição orçamentária vigente à época, foi deliberado pelo
+aprofundamento, readequação e atualização do Projeto. Em abril de 2017, na 75ª Reunião Ordinária (DOE SP 07/06/17), os conselheiros
+decidiram, por unanimidade, pela autorização da constituição de um Grupo de Trabalho (GT) responsável por atualizar os estudos de
+modelagem técnica, econômico-financeira e jurídica.  
+
+No início da gestão seguinte, em fevereiro de 2019, no âmbito da 1ª Reunião Conjunta Ordinária do Conselho Diretor do Programa
+Estadual de Desestatização  Conselho Diretor do PED e o Conselho Gestor do PPP (237ª Reunião do CDPED e 84ª Reunião do CGPPP),
+os conselheiros acolheram a proposta do Secretário dos Transportes Metropolitanos, autorizando a constituição de novo GT para apoiar a
+estruturação dos empreendimentos. Dando prosseguimento aos trabalhos, em setembro de 2019, o Estado, por intermédio da STM,
+contratou os serviços de consultoria do Banco Interamericano de Desenvolvimento (BID) para auxílio na realização dos estudos técnicos
+de modelagem do Projeto. 
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 7
+Portanto, em conjunto com o BID, e com o apoio da Global Infrastructure Facility GIF, a STM, a CPTM e Secretaria de Projetos e Ações
+Estratégicas por meio da antiga Subsecretaria de Parcerias, desenvolveram, ao longo dos meses subsequentes, os estudos de viabilidade
+do Projeto, estruturando-o como uma parceria público-privada, com o objetivo de ampliar o universo de potenciais licitantes para o Projeto
+. Os estudos foram atualizados e desenvolvidos nas seguintes disciplinas: 
+
+Estudos de Demanda diferentes cenários para o período da concessão; 
+
+Estudos de Custos Operacionais (Opex);  
+
+Estudos de Valor dos Investimentos (Capex); 
+
+Desenvolvimento e avaliação de alternativas de modelagem, considerando as melhores práticas internacionais; 
+
+Aprofundamento do modelo de remuneração e modelagem econômico&#8208;financeira e cálculo dos parâmetros econômico&#8208;
+financeiros da PPP; 
+
+Estudos Socioambientais; e 
+
+Análise de riscos. 
+
+O ano de 2021 foi bastante importante para o TIC Eixo Norte. O Projeto esteve em Consulta Pública entre 19 de agosto e 15 de outubro
+daquele ano. Houve uma sessão virtual de Audiência Pública 16 de agosto, e, de 14 a 17 de setembro, o Projeto passou por uma fase de
+Sondagens de Mercado (DOESP 01/09/2021). 
+
+O Decreto Estadual nº 67.435/2023 reorganizou as denominações e transferências de responsabilidades das secretarias do Estado de
+São Paulo, estabelecendo como competência do Secretário de Parcerias em Investimentos representar o Estado na condição de Poder
+Concedente em projetos de concessão que envolvam serviços públicos de transporte coletivo metroferroviário. Além disso, colocou a
+Comissão de Acompanhamento dos Contratos de Parcerias Público-Privadas (CAC-PPP) e a Comissão de Monitoramento das
+Concessões e Permissões (CMCP) sob responsabilidade da Secretaria de Parcerias em Investimentos (SPI). 
+
+Ademais, o Decreto Estadual 67.443/2023 de 11 de janeiro de 2023, atribui ao Secretário de Parcerias em Investimentos um dos cargos
+de conselheiro do Conselho Diretor do PED, que, juntamente com o Conselho Gestor do PPP, detém a responsabilidade pelas principais
+decisões no que se refere à carteira de projetos de concessão e parceria público-privadas no Estado de São Paulo (artigo 5º, Lei nº 9.361/
+1996). Pelo mesmo Decreto Estadual nº 67.443/2023, ambos foram consolidados no novo Programa de Parcerias em Investimentos do
+Estado de São Paulo (PPI-SP). 
+
+Mais recentemente, em 28 fevereiro de 2023, no âmbito da 1ª Reunião do PPI-SP, referente à 37ª Reunião Conjunta Ordinária do
+Conselho Diretor do PED e Conselho Gestor do PPP (DOESP 11/03/2023), os conselheiros decidiram pela aprovação da modelagem final
+do Projeto conforme apresentação da Secretaria de Parcerias em Investimentos, autorizando a publicação dos documentos licitatórios,
+nos termos do artigo 3º, § 5º, inciso 1, da Lei Estadual nº 11.688/2004, que encontram-se publicados desde 31 de março de 2023,
+republicado em 29/09/23. Na sequência, houve a sessão pública de leilão em 29 de fevereiro de 2024, tendo se sagrado vencedor o
+Consórcio C2 Mobilidade Sobre Trilhos. O Contrato de Concessão com a concessionária TIC Trens S.A. foi celebrado em 03 de junho de
+2024.
+2.9. Projeto/Abrangência Geográfica
+Abrangência Geográfica: Estadual/Municipios
+Estado de São Paulo (MUNICIPIO DE  CAIEIRAS, MUNICIPIO DE  CAMPINAS, MUNICIPIO DE  CAMPO LIMPO PAULISTA, MUNICIPIO
+DE  FRANCISCO MORATO, MUNICIPIO DE  FRANCO DA ROCHA, MUNICIPIO DE  JUNDIAI, MUNICIPIO DE  LOUVEIRA, MUNICIPIO
+ DE  SAO PAULO, MUNICIPIO DE  VALINHOS, MUNICIPIO DE  VARZEA PAULISTA, MUNICIPIO DE  VINHEDO)
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+Inicialmente, cabe lembrar que o Governo Federal criou em 2024 um sublimite COFIEX específico para cartas consultas de projetos de
+PPP, no valor de US$ 500 milhões para 2024. Esta modalidade de financiamento vem sendo discutida desde 2023, quando constou no
+Manual de Instrução de Pleitos - MIP, versão 20/4/2023, publicado pela Secretaria de Tesouro Nacional - STN. Com esta inovação, o
+Governo Federal busca impulsionar os projetos de PPP no país, ao reduzir a percepção de riscos por investidores privados. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 8
+Segundo o referido manual (seção 11.11), são elegíveis à garantia da União, nessa modalidade: (i) operações de crédito, internas ou
+externas, para financiamento de aportes públicos em projetos de Parceria Públicas-Privadas (PPP); e (ii) garantia da União para operação
+de crédito contingente que venha resultar da honra de garantia contratada pelo Ente Federado com a mesma Instituição Financeira, com a
+finalidade de garantir o pagamento do aporte e/ou da contraprestação continuada. Os projetos que optam pelo financiamento externo
+precisam passar pela aprovação da Carta Consulta na COFIEX. Demais procedimentos de contratação de concessão da garantia da
+União seguem os mesmos trâmites de um financiamento, conforme consta no MIP, atualmente consumindo o espaço fiscal do ente no
+mesmo montante do aval da União. 
+O pleito atual, garantias para a Parceria Público Privada da Prestação do Serviço Público de Transporte de Passageiros sobre trilhos do
+TIC EIXO NORTE do Estado de São Paulo, está adotando a segunda modalidade, segundo a qual o Estado contrata garantia do Banco
+Mundial para o pagamento de Aporte Público, das contraprestações continuadas de uma PPP, com a garantia da União. Caso a garantia
+do Banco Mundial seja executada esta se converte em uma operação de crédito. Trata-se, assim, de uma operação de crédito contingente
+. 
+Projetos de PPPs no Brasil requerem estruturas de garantia sólidas, previsíveis e confiáveis, devido, dentre outros motivos, à instabilidade
+orçamentária, ao risco de não pagamento pelo poder concedente das contraprestações e compensações decorrentes dos riscos
+assumidos. Diante da imprevisibilidade financeira do Estado, as garantias fornecem segurança aos investidores contra possíveis atrasos
+ou frustração de pagamento, assegurando o retorno dos investimentos realizados. A existência de garantias reduz, ainda, o temor dos
+investidores e financiadores em relação ao risco de serem relegados à fila de precatórios em caso de inadimplência do poder concedente,
+promovendo um ambiente mais favorável ao investimento privado em infraestrutura pública. A estruturação de mecanismos de garantia
+eficazes deve, portanto, envolver mecanismos independentes e líquidos, preferencialmente desatrelados do orçamento público e de
+interferência política. 
+Os projetos de PPP do Governo do Estado de São Paulo são, em sua maioria, garantidos pela Companhia Paulista de Parcerias - CPP,
+que subscreve títulos de renda fixa em favor dos concessionários como garantia ao inadimplemento do poder concedente, em contratos
+de Penhor. Além de não representar uma alocação ótima do ponto de vista econômico, o estoque de capital disponível na CPP encontra-
+se, quase que em sua totalidade, subscrito a projetos existentes. Assim, o Governo do Estado de São Paulo avaliou alternativas e concluiu
+que as Garantias de Pagamento do Banco Mundial são os instrumentos mais aderentes às necessidades, por proporcionarem uma
+melhoria na avaliação de risco do projeto e atraírem investidores internacionais dada a reputação da instituição Banco Mundial,
+possibilitando sinergias operacionais significativas na elaboração e implementação do projeto.  
+A operação de garantia (operação de crédito contingente) será realizada no valor de US$ 100 milhões, para as obrigações pecuniárias
+continuadas do projeto. O valor pretendido (US$ 100 milhões), representa uma cobertura parcial do montante sob responsabilidade do
+Governo do Estado de São Paulo, portanto contingente, sendo suficiente para assegurar conforto a crédito necessário ao parceiro privado
+na obtenção de financiamentos. Maiores detalhes são apresentados no Anexo IV. 
+
+Além do aporte público e da contraprestação pecuniária, mencionados acima, a garantia objeto deste pleito se destina também a cobrir
+riscos contratuais assumidos pelo Governo no contrato, notadamente, riscos de frustração de receitas para o serviço Expresso, riscos
+geológicos/geotécnicos, riscos de desapropriação/reassentamentos, entre outros. Deste modo, a garantia de US$ 100 milhões fará frente
+a contingências derivadas de riscos contratuais sob responsabilidade do Poder Concedente.
+ 
+Tratando-se de pleito de crédito contingente, não há definição prévia de prazos de desembolso, carência ou de amortização, em razão
+desta garantia ser convertida automaticamente em operação de crédito somente em caso de inadimplência do mutuário no pagamento de
+contraprestação ao Concessionário. Além disso, na parceria com o Banco Mundial, este atuará de forma a trabalhar em conjunto com a
+CPP para que o instrumento não seja acionado, atuando sobre governança e capacidade de pagamento do Estado.  
+
+CONDIÇÕES FINANCEIRAS 
+
+
+A garantia (crédito contingente) do Banco Mundial tem prazo total de 20 anos.  
+
+Prazo de desembolso: não se aplica à garantia. Em caso de concretização do empréstimo contingente, o desembolso ocorrerá antes da
+formalização do financiamento.
+
+Prazo de Carência: não se aplica à garantia. Prazo típico em caso de financiamento: 5 anos.
+
+Prazo de amortização: não se aplica à garantia. Prazo típico em caso de financiamento: 25 anos
+
+Prazo total (duração do instrumento de garantia): 20 anos Prazo total em caso de financiamento: 30 anos.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 9
+
+OBSERVAÇÃO: o sistema SIGS aceita, no máximo, 10 anos como prazo de execução do projeto. Assim, o prazo de execução e
+cronograma, referentes ao item 4.3 e 4.4  foram preenchidos, no sistema, com 10 anos. O valor total da garantia, embora seja constante,
+foi atribuído ao primeiro ano do projeto. 
+ 
+
+Periodicidade de amortização: não se aplica à garantia. Prazo típico em caso de financiamento: Semestral.
+
+Taxa de juros: não se aplica. Há o pagamento anual de taxa pela garantia concedida, no valor de 1,4% ao ano. Taxa de juros vigente para
+financiamentos: SOFR+1,45% a.a.
+ 
+Demais encargos da garantia: 
+Taxa de iniciação, no valor de US$ 150 mil; 
+Comissão inicial (front-end fee) de 0,25% (US$ 250 mil), paga uma vez e apurada sobre total da garantia; 
+Taxa de processamento: 0,5% (US$ 500 mil), paga uma vez e apurada sobre total da garantia; 
+Taxa de compromisso (stand by fee), de 0,25% a.a.; 
+Taxa de exposição ao Brasil, de 0,25% a.a., aplicada quando o limite de risco estabelecido pelo BIRD é superado. A política do governo
+brasileiro é de não permitir que a exposição atinja tal limite, logo na prática, essa sobretaxa não tem sido cobrada. 
+
+Demais encargos em caso de financiamento: 
+Comissão inicial ("front-end fee") de 0,25%, paga uma vez e apurada sobre o valor total do empréstimo; taxa de compromisso de 0,25% a.
+a, sobre o saldo não desembolsado do financiamento e, finalmente, taxa de exposição ao Brasil, de 0,25% a.a.. 
+
+
+Em caso de inadimplência do Poder Concedente, a obrigação inadimplida será convertida em operação de crédito entre o Banco Mundial
+e o Estado de São Paulo, com garantia da União. As condições financeiras de tal operação de crédito serão as vigentes se e quando
+houver inadimplemento por parte do Estado. Apenas a título de exemplo, as condições atualmente vigentes para um financiamento típico
+do Banco são:  
+
+
+NECESSIDADE DE FINANCIAMENTO EXTERNO E A OPÇÃO PELO AGENTE FINANCEIRO  
+
+Para projeto de grande complexidade como o da PPP do TIC Eixo Norte, com prazo de concessão de 30 anos, cujo Capex está previsto
+em US$ 2,7 bilhões, aporte público de cerca de US$ 1,7 bilhão e contraprestação média estimada em aproximadamente US$ 50 milhões
+por ano, a escolha por um garantidor externo funciona como um selo de garantia ao projeto. Os principais agentes financeiros multilaterais
+fornecem, adicionalmente, apoio técnico para estruturação e acompanhamento da execução do projeto, proporcionando melhor
+governança e capacitação técnica para a equipe envolvida com o projeto. Adicionalmente, neste pleito estamos adotando uma inovação
+no modelo de garantia a ser utilizada, autorizada pela União, para as garantias das contraprestações.  
+
+Cabe ressaltar que não existem produtos similares atualmente oferecidos no mercado financeiro nacional. 
+
+Justificar a opção pelo agente financeiro escolhido: 
+
+A opção pelo uso de garantias do Banco Mundial se justifica por sua reputação global, solidez financeira e vasta experiência em projetos
+de infraestrutura em todo o mundo, além de classificação de crédito AAA, que transmite confiança aos investidores. Considerando que o
+parceiro privado será responsável por financiar um CAPEX de cerca de US$1 bilhão, a garantia do Banco Mundial apoiará a atração de
+investidores globais, cujo custo de capital é substancialmente inferior, gerando uma competição saudável no mercado e diversificando
+players em um setor ainda muito concentrado no Brasil. Ao incentivar a participação de uma ampla gama de investidores que, devido a
+diversas barreiras, ainda não acessam o mercado brasileiro, não só é fortalecida a estrutura financeira do projeto, mas também se
+contribui para a diversificação e o crescimento do mercado de investimentos nacional.  
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 10
+A escolha do Banco Mundial como agente financeiro para o projeto de PPP do TIC Eixo Norte é respaldada também pelo conhecimento
+acumulado pelo Banco. Projetos de mobilidade sobre trilhos são inerentemente complexos, abrangendo diversas disciplinas, múltiplos
+stakeholders e apresentando impactos significativos. Nesse contexto, a expertise do Banco Mundial em projetos metroferroviários, tanto
+em São Paulo quanto globalmente, destaca-se como um diferencial valioso. Com presença consolidada de longo prazo no setor, o Banco
+Mundial, desde 1992, tem sido um parceiro estratégico no apoio a programas de investimentos em transporte de massa na Região
+Metropolitana de São Paulo (RMSP), acumulando uma notável experiência em projetos relacionados ao sistema metroferroviário,
+abrangendo obras civis, aquisição de material rodante e sistemas. Exemplificando esse compromisso, o Banco Mundial contribuiu
+ativamente em fases anteriores do Trem Intercidades, para a implementação da Linha-4 Amarela (PPP) e para as concessões das linhas 5
+- Lilás do Metrô e 8 e 9 da CPTM, sendo este o certame com maior competição no setor de mobilidade até então. O Banco Mundial
+congrega, não somente a expertise técnica no tema, como também experiência em projetos de PPP globais, com casos de sucesso na
+utilização de garantias de pagamento.  
+
+O Banco Mundial, por fim, encontra-se mais adiantado nas tratativas sobre operações de garantias em PPPs com entes subnacionais e o
+Governo Federal, que concederá a garantia soberana. Em vista do potencial de pipeline em projetos de PPP em segmentos como de
+mobilidade urbana e saneamento, este pleito poderá ser um referencial para ajustes no processo ou modelos para outros Estados e
+municípios seguirem.  
+ 
+
+Comparar as condições financeiras do agente financeiro escolhido em relação a outros financiadores externos/internos, utilizando os
+mesmos parâmetros do item (i) acima:  
+
+Como se trata de um projeto pioneiro na utilização desta modalidade, embora tenham sido realizados contatos com outros organismos
+multilaterais, não há comparativo de custos, de operações internas ou externas, em casos concretos no Brasil. Há, contudo, um estudo
+realizado pelo Banco Mundial, em um financiamento BNDES, sem garantia da União, para implantação do PPP do Rodoanel Trecho Norte
+, no valor de R$ 1,4 bilhão, em que foi comparado o custo de manter uma escrow account e de adotar uma garantia como proposta neste
+pleito, que indicou uma economia significativa, conforme Anexo I - Simulação Rodoanel. 
+2.11. PROJETO/BENEFICIÁRIO
+- PROMOÇÃO DA SUSTENTABILIDADE AMBIENTAL
+A implementação da Parceria Público-Privada (PPP) para  Prestação do Serviço Público de Transporte de Passageiros sobre trilhos do
+TIC EIXO NORTE do Estado de São Paulo contribuirá significativamente para a promoção da sustentabilidade ambiental. Ao oferecer um
+novo serviço de transporte para a população, haverá uma melhoria na conectividade e uma redução na dependência de veículos
+individuais movidos a combustíveis fósseis. Além disso, o acréscimo de capacidade para acomodar a demanda e os investimentos em
+melhorias e conforto tornarão o transporte ferroviário mais atraente, atraindo ainda mais pessoas, que terão a opção de transporte para
+estudos, trabalho, turismo e lazer. Isso resultará em uma significativa redução das emissões de poluentes, especialmente CO2, uma vez
+que o transporte sobre trilhos é estimado pelo Banco Mundial como capaz de reduzir entre 60% a 80% das emissões em comparação com
+veículos movidos a combustão. Assim, a PPP do TIC Eixo Norte não apenas promoverá uma mudança modal para um meio de transporte
+mais sustentável, mas também contribuirá para mitigar os impactos ambientais negativos associados ao uso excessivo de veículos
+individuais. Considerando que em torno de 554.000 passageiros por dia passarão a utilizar o transporte ferroviário em detrimento do
+rodoviário e assumindo que um veículos de passageiros emite, em média, 200 gramas de CO2 por quilômetro e que a distância média
+percorrida no trajeto São Paulo a Campinas é de aproximadamente 100 km (ida e volta). Para simplificação, consideraremos apenas as
+emissões de CO2. A quantidade de poluentes que deixarão de ser emitidos diariamente ao transportar 554.000 passageiros por trilhos, ao
+invés de veículos movidos a combustão, estará entre 4.430.892 kg e 5.907.856 kg de CO2. Portanto, a quantidade anual de poluentes que
+deixarão de ser emitidos ao transportar 554.000 passageiros por trilhos, em vez de veículos movidos a combustão, estará entre
+aproximadamente 1.617.278.580 kg e 2.155.367.440 kg de CO2.
+
+- EFICIÊNCIA ENERGÉTICA 
+O projeto contribuirá significativamente para a eficiência energética, adotando uma série de medidas inovadoras. A modernização dos
+sistemas de sinalização ferroviária resultará em uma redução de até 10% no consumo de energia devido ao controle mais sofisticado.
+Além disso, a aquisição de  novos trens modernos, equipados com frenagem regenerativa, permitirá que a energia seja devolvida à rede
+de distribuição durante as frenagens. A substituição e modernização da rede aérea de distribuição também reduzirá as perdas na
+transmissão do sistema. A revitalização da via permanente, eliminando irregularidades geométricas e reduzindo o atrito excessivo,
+também resultará em economia de energia. Por fim, a modernização das estações, com a implementação de lâmpadas LED e escadas
+rolantes inteligentes, contribuirá ainda mais para a redução do consumo de energia. Essas medidas combinadas garantem um uso mais
+eficiente dos recursos energéticos, promovendo assim a sustentabilidade ambiental do projeto.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 11
+Ademais, os novos serviços trarão benefícios expressivos em termos de eficiência energética. Comparativamente, o transporte individual,
+em média, consome cerca de 3 a 4 vezes mais energia por passageiro por quilômetro percorrido do que o transporte sobre trilhos. A
+ferrovia, ao transportar grandes volumes de passageiros simultaneamente é mais eficiente por passageiro transportado e os motores
+elétricos que alimentam os trens são mais eficientes do que os sistemas de combustão, que equipam a grande maioria dos veículos
+particulares em São Paulo. Isso se explica pela dissipação de energia em calor, característica dos motores a combustão, bem como das
+perdas associadas ao atrito, devido ao maior número de componentes presente neste tipo de tecnologia. 
+Assim, a maior oferta de transporte proporcionada pelo TIC Eixo Norte não só oferecerá novas alternativas de transporte eficiente como
+também contribuirá significativamente para a redução do consumo de energia, promovendo uma gestão mais eficaz dos recursos e
+alinhando-se aos princípios da eficiência energética e sustentabilidade. 
+
+- IMPLANTAÇÃO E/OU AMPLIAÇÃO DE AÇÕES DE SANEAMENTO BÁSICO 
+As ações e obras necessárias para a consecução dos objetivos deste projeto serão conduzidas em estrito cumprimento aos requisitos do
+licenciamento ambiental estabelecidos pela CETESB, assegurando a conformidade com as normas rigorosas de proteção ambiental
+aplicadas pelo Estado de São Paulo. O projeto contemplará a adequação e reconstrução dos sistemas de saneamento sempre que
+necessário e devem garantir a preservação e, quando possível, a melhoria do ambiente natural. A atenção integral a essas premissas
+reforça o compromisso com a sustentabilidade e a responsabilidade socioambiental, promovendo a melhoria do transporte público que
+respeita e preserva o ecossistema local. 
+
+- GESTÃO INTEGRADA DE RECURSOS HÍDRICOS, INCLUINDO SEGURANÇA HÍDRICA E/OU CONSERVAÇÃO DE SOLOS E
+NASCENTES
+
+O projeto irá contribuir significativamente para a gestão integrada de recursos hídricos, incluindo segurança hídrica, conservação de solos
+e nascentes, por meio de uma série de ações e medidas específicas: 
+Caracterização Hidrográfica e Hidrológica: Será realizado um amplo levantamento das características dos cursos d'água, tanto perenes
+quanto intermitentes, abrangendo todos os tipos e dimensões, desde rios até pequenos córregos, e incluindo a localização de nascentes e
+áreas de recarga, bem como os principais mananciais de abastecimento público. Esse mapeamento permitirá uma compreensão
+abrangente da distribuição e do fluxo de água na área de estudo. 
+Mapeamento de Nascentes e Áreas Sensíveis: Além da caracterização dos cursos d'água, serão identificadas e mapeadas as nascentes e
+áreas hidrologicamente sensíveis, como áreas úmidas e alagáveis. Esse mapeamento contribuirá para a proteção dessas áreas cruciais
+para a conservação dos recursos hídricos e a manutenção do equilíbrio ambiental.
+Controle de Cheias e Drenagem: Serão consideradas as infraestruturas de macrodrenagem existentes ou planejadas para o controle de
+cheias, visando a mitigação de eventuais impactos sobre os recursos hídricos e a segurança das comunidades locais. 
+Monitoramento da Qualidade da Água: Será estabelecida uma rede amostral para coleta de dados primários sobre a qualidade física,
+química e biológica das águas superficiais, priorizando os cursos d'água afetados pelo projeto. Essas análises serão realizadas de acordo
+com métodos internacionalmente aceitos e comparadas com os padrões estabelecidos pela legislação ambiental, garantindo a
+conformidade com os requisitos regulatórios. 
+Por meio dessas medidas, o projeto demonstra um compromisso sólido com a gestão sustentável dos recursos hídricos, buscando não
+apenas atender às exigências legais, mas também contribuir para a conservação dos ecossistemas aquáticos, a proteção das nascentes e
+ a segurança hídrica das comunidades envolvidas.  
+
+- CONSERVAÇÃO E MANEJO DA BIODIVERSIDADE 
+O projeto seguiu rigorosamente a diretriz socioambiental do Banco Interamericano de Desenvolvimento (BID) que representam padrões
+internacionais mais exigentes do que a legislação brasileira, garantindo assim um compromisso sólido com a conservação e manejo da
+biodiversidade. Um exemplo claro desse compromisso é a comprovação, em até um mês após a emissão da Licença Ambiental de
+Operação (LO), do depósito no Fundo de Despesa para Preservação da Biodiversidade e dos Recursos Naturais (FPBRN) do valor
+complementar relativo à compensação ambiental pela  implantação do empreendimento. 
+Um Programa de Ação e Gestão de Biodiversidade será desenvolvido, incluindo medidas de mitigação e manejo recomendadas com base
+na hierarquia de mitigação. Esse programa abordará os riscos e impactos identificados para os valores de biodiversidade afetados,
+garantindo a conservação dos valores prioritários, a manutenção ou melhoria da qualidade dos habitats e a conectividade da paisagem.
+Durante a fase de construção, serão implementados programas de afugentamento e resgate de fauna, controle de supressão vegetal e
+restauração da vegetação, entre outras medidas, visando minimizar os impactos sobre a biodiversidade. 
+
+- MELHORIA DO AMBIENTE DE NEGÓCIOS E/OU OPORTUNIDADES 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 12
+O Governo do Estado de São Paulo mantém-se na vanguarda do desenvolvimento dos melhores contratos de Parceria Público-Privada (
+PPP) do Brasil, firmando parcerias que trouxeram melhorias contínuas ao ambiente de negócios do país. O estabelecimento de bem-
+sucedidas parcerias entre o setor público e o privado é muito favorável para novas oportunidades de investimento privado em
+infraestrutura, estimulando a confiança do mercado no governo brasileiro e contribuindo assim para o crescimento econômico sustentável
+do país. 
+Este item vincula-se diretamente às obras das novas estações, locais de integração da vida nas cidades com oportunidades de negócios e
+geração de benefícios diretos. A concessionária deterá o direito, previsto em contrato, de explorar receitas acessórias e não operacionais.
+Essas receitas acessórias desempenharão um papel importante na sustentabilidade financeira da concessão, fornecendo incentivos à
+concessionária para otimizar receitas acessórias por meio de parcerias, eventos e oportunidades de marketing. 
+Ademais, os terrenos de posse da ferrovia não operacionais que demonstram viabilidade comercial  serão explorados pela concessionária
+para promover a melhoria da saúde financeira da concessão e incrementar o comércio local com oportunidades de exploração de pontos
+de venda em localidade com alto fluxo de usuários, gerando bons negócios aos comerciantes que se instalarão nas novas estações além
+de trazer comodidade aos usuários do sistema. 
+ 
+- BENEFÍCIOS PARA EMPREENDEDORES INDIVIDUAIS, MICRO E PEQUENAS EMPRESAS 
+A PPP do TIC EIXO NORTE representa uma oportunidade significativa para a melhoria do ambiente de negócios e o surgimento de novas
+oportunidades comerciais ao longo do sistema ferroviário. A exploração de empreendimentos associados, seja em terrenos adjacentes ou
+nas próprias estações, proporcionará um impulso ao desenvolvimento econômico local. Exemplos concretos incluem a exploração do
+varejo e comércio nas novas estações entre Jundiaí e Campinas, bem como ao longo da própria Linha 7 - Rubi.
+Além disso, não se pode desprezar o efeito no entorno da estação. Com base em benchmark internacional, estima-se que a expansão de
+linhas metroferroviárias tem o potencial de impulsionar significativamente o dinamismo econômico e aquecer a atividade comercial nas
+proximidades das estações em até 36%, como indicado em um estudo realizado com base na extensão da Linha 1 do metrô de Madri (
+Roberto Ghidini, 2011). O estudo revela que o número de atividades econômicas nas proximidades de uma das estações saltou de 176
+para 239, acompanhado por uma diversificação das atividades, que passou de 43 para 84 ramos distintos, praticamente o dobro. 
+Esse efeito positivo deriva do aumento no tráfego de pedestres nas imediações das estações, criando um ambiente propício para o
+surgimento de novos empreendimentos e estimulando o comércio local de diversas maneiras. A proximidade com as estações de torna as
+áreas comerciais mais visíveis e acessíveis, atraindo um público diversificado em busca de conveniência e opções variadas. Esse influxo
+de visitantes, por sua vez, fomenta a abertura de novas lojas, restaurantes, cafeterias e serviços, gerando oportunidades para o
+empreendedorismo e fortalecendo a economia local. Em resumo, a expansão do sistema não apenas aprimora a mobilidade, mas também
+ exerce um impacto positivo e duradouro no desenvolvimento econômico das áreas circundantes. 
+
+- GERAÇÃO DE EMPREGO E RENDA PARA POPULAÇÕES DE BAIXA RENDA E VULNERÁVEIS 
+As estimativas de geração de empregos para as obras de expansão e modernização do TIC EIXO NORTE se dará através da implantação
+de obras civis uma vez que a maior parte dos empregos diretos advém destas atividades. Na fase de obras são estimados a geração de
+10.552 empregos diretos (gerado diretamente pelas tarefas da fase de construção do Projeto), indiretos (gerados indiretamente na
+fabricação de materiais e equipamentos fornecidos na construção) e induzidos (consequência do gasto dos salários gerados pelo emprego
+ direto e indireto) considerando que as obras terão duração de 7 anos. 
+Além dos empregos gerados pelo pacote de investimento, estima-se que a concessionária criará mais de 1000 postos de trabalho para
+operação, manutenção e administração. Diante dessa demanda, a concessionária promoverá treinamentos específicos para garantir a
+qualificação adequada da mão de obra. Esse aumento na demanda por profissionais qualificados no setor metroferroviário tem um efeito
+positivo adicional, gerando oportunidades de capacitação em uma área de atuação relativamente nova, que requer um amadurecimento
+constante. Essa capacitação não apenas atende às necessidades da concessionária, mas também fortalece o mercado de trabalho e
+contribui para o desenvolvimento sustentável do setor como um todo. 
+Há de se ressaltar também os ganhos de acessibilidade proporcionados pela melhoria na prestação dos serviços ferroviários e na
+integração modal, permitindo o acesso aos polos regionais metropolitanos atendidos, impactando diretamente na produtividade, sobretudo
+de populações vulneráveis e de baixa renda que vivem nestas regiões. Todos os investimentos a serem realizados resultarão em menor
+tempo de viagem, facilitando o acesso a emprego, educação e serviços sociais. 
+
+- INFRAESTRUTURA E/OU EQUIPAMENTOS SOCIAIS PARA POPULAÇÕES DE BAIXA RENDA E VULNERÁVEIS 
+Um sistema ferroviário, composto por infraestrutura de circulação, estações, sistemas e trens, é considerado uma infraestrutura social
+devido à sua função essencial de proporcionar acesso e mobilidade a diferentes camadas da sociedade. Ele desempenha um papel
+crucial na promoção da inclusão social, ao possibilitar que populações de baixa renda e vulneráveis tenham acesso a oportunidades de
+trabalho, educação, saúde e lazer, além de facilitar o deslocamento seguro e eficiente dentro das áreas urbanas e suburbanas. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 13
+O projeto TIC Eixo Norte tem em seu escopo a reativação com modernização de infraestruturas ferroviárias e a implantação de dois novos
+serviços ferroviários de alta capacidade entre Campinas e São Paulo, mediante a implementação do serviço TIM (serviço parador, entre
+Jundiaí e Campinas, com 44 km de extensão) e do serviço Expresso (entre Campinas e Barra Funda, com uma parada intermediária em
+Jundiaí, em 101 km de extensão), criará nova alternativa de transporte para o atendimento da população dessas Regiões Metropolitanas,
+melhorando a mobilidade urbana do Estado de São Paulo e diminuindo a emissão de poluentes, já que o transporte ferroviário sobre
+trilhos elétrico, da forma como será implementado, é exemplo de transporte limpo e sustentável. que beneficiarão diretamente populações
+de baixa renda e vulneráveis das cidades atendidas. A revitalização dos serviços da Linha 7, que passará a oferecer maior oferta de trens
+e estações acessíveis, segurança e confiabilidades é um exemplo da utilidade do projeto para a população da região atendida.  Essas
+novas infraestruturas não só melhorarão o acesso ao transporte público para as populações de baixa renda e vulneráveis, mas também
+proporcionarão oportunidades de desenvolvimento econômico e social em áreas antes carentes de serviços de mobilidade adequados. 
+De acordo com pesquisa realizada pela CPTM, o sistema atende majoritariamente os extratos sociais de 1 a 3 salários mínimos, que
+somados representam 58% dos passageiros transportados. No total, 81% dos passageiros utilizam o sistema para ir ao trabalho, o que
+ressalta o papel social do transporte sobre trilhos. No âmbito da mobilidade sustentável, as intervenções nas estações preveem a
+disponibilização de bicicletários, paraciclos e suportes, complementando a infraestrutura já existente em algumas estações. Essa iniciativa
+fomenta o uso de meios de transporte alternativos, assim como promove a inclusão social ao oferecer opções acessíveis de deslocamento
+ para toda a comunidade. 
+
+- AÇÕES DE INCLUSÃO DE MINORIAS SOCIAIS ENTRE OS BENEFICIÁRIOS 
+A PPP do TIC EIXO NORTE possui como obrigação da concessionária a promoção e inclusão de minorias sociais e o comprometimento
+com a diversidade e a luta contra o preconceito, mediante ações como palestras educativas para futuros agentes de atendimento e
+segurança (AAS) e capacitação técnica de seus profissionais. Ao proporcionar acesso a uma infraestrutura de transporte inclusiva,
+comprometida e respeitosa é possível contribuir para uma sociedade mais igualitária e justa. 
+
+- POLÍTICAS VOLTADAS PARA JUVENTUDE, GÊNERO E RAÇA 
+A concessionária o TIC EIXO NORTE deverá levar em consideração, no desempenho de suas atividades, a possibilidade de instituir ações
+voltadas ao fomento da juventude e da equidade de gênero e raça. Como exemplo, podem-se aventar iniciativas para a formação
+exclusiva de turmas de Agentes de Atendimento de Segurança composta apenas por mulheres, com o objetivo precípuo de que o corpo
+de funcionários seja um reflexo da diversidade da sociedade brasileira. 
+Ademais, práticas devem ser adotadas pela concessionária para a promoção da segurança e conforto das mulheres em seus
+deslocamentos diários, oferecendo ambiente controlado, com plataformas e trens monitorados, o que reduz significativamente o risco de
+assédio e comportamentos inadequados. Isso contribui para a autonomia e bem-estar das mulheres, incentivando-as a utilizar o transporte
+público de forma mais segura e eficiente. Igualmente, os ambientes das estações devem ser acolhedores e contar com funcionários
+treinados para lidar com situações relacionadas à discriminação racial, de gênero, social ou de qualquer tipo, tornando-se ponto de
+referência de segurança para a comunidade. 
+
+- MELHORIA EM PROCESSOS DE PRESTAÇÃO DE SERVIÇOS PÚBLICOS 
+O transporte ferroviário suburbano é, por sua própria natureza, um serviço público vital para a mobilidade urbana e o acesso a
+oportunidades. Independentemente de ser prestado por uma empresa pública ou privada, sua essência permanece como serviço público,
+devendo atender às necessidades e demandas da população. Nesse contexto, a transferência da atual Linha 7-Rubi, hoje operadas pela
+CPTM (empresa pública), para uma Parceria Público-Privada (PPP), promoverá melhorias significativas nos processos de prestação de
+serviços públicos. A PPP trará consigo os investimentos e melhorias necessárias para garantir a segurança operacional, aumentar a
+capacidade de transporte através da redução do intervalo entre trens, expandir a abrangência territorial e proporcionar melhorias em
+conforto e regularidade que o Governo do Estado não possui fôlego orçamentário para realizar sozinho. Além disso, um operador privado
+tem maior flexibilidade para implantar inovações que podem beneficiar os usuários, como tecnologias de informação e comunicação e
+outros. Ademais, a concessionária deverá atender a padrões elevados de desempenho na prestação do serviço, superando inclusive os
+indicadores de desempenho atualmente alcançados pela CPTM, operadora pública. Isso só será possível por meio dos investimentos em
+modernização e inovação trazidos pela PPP, como por exemplo a implementação de novo sistema de sinalização e vedação da faixa de
+domínio. Assim, a PPP do TIC EIXO NORTE contribuirá de forma significativa para a melhoria dos processos de prestação de serviços
+públicos, garantindo que os usuários sejam mais bem atendidos e tenham uma experiência de transporte mais eficiente e confortável. 
+
+-MELHORIA DAS CONDIÇÕES DE EDUCAÇÃO E SAÚDE 
+O eixo de transporte que atenderá e conectará as Regiões Metropolitanas de São Paulo, Jundiaí e Campinas terá papel relevante no
+atendimento de demandas que procuram serviços especializados, como o atendimento de saúde e a busca por instituições de ensino.
+Campinas se destaca como centro universitário de primeira linha, contem diversas instituições de ensino renomadas (Unicamp e
+PUCCamp) e certamente a acessibilidade a estas e outras atividades serão amplamente facilitadas pelo TIC Eixo Norte. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 14
+Essa conexão favorecerá também os deslocamentos diários de quem busca trabalho, e a melhoria da qualidade, da oferta, a integração e
+a expansão dos serviços conectando Jundiaí, Louveira, Vinhedo, Valinhos e Campinas será também fator de ampliação da cobertura e
+acessibilidade da população aos serviços de saúde regionais, contribuindo para a promoção da qualidade de vida e bem-estar da
+população local. 
+
+-DESENVOLVIMENTO, INOVAÇÃO E MODERNIZAÇÃO TECNOLÓGICA 
+A PPP do TIC Eixo Norte contribui de forma significativa para o desenvolvimento, inovação e modernização tecnológica por meio da
+adoção do padrão europeu ERTMS Nível 2 para a modernização do sistema de sinalização. Essa solução representa um avanço
+considerável, uma vez que o ERTMS (European Rail Traffic Management System) é reconhecido mundialmente por sua eficiência e
+segurança na gestão do tráfego ferroviário. Além disso, a implementação desse sistema será associada a um sistema de telecomunicação
+baseado na tecnologia Tetra, o que representa uma combinação absolutamente inovadora no mundo ferroviário. O Tetra (Terrestrial
+Trunked Radio) é uma tecnologia de comunicação móvel digital projetada para atender às necessidades específicas de serviços críticos,
+como o transporte público. Ao adotar essa solução tecnológica avançada, o TIC Eixo Norte promoverá o desenvolvimento e a inovação no
+setor, colocando o sistema ferroviário da  de São Paulo em um patamar globalmente competitivo. 
+Além de um novo sistema de sinalização, deve-se destacar que a Linha 7-Rubi será totalmente modernizada e terá o intervalo entre trens
+reduzido, com a implantação e modernização da via permanente, melhoria da acessibilidade e segurança das estações, substituição e
+reforma de sistema elétrico e rede aérea, além de pátios de manutenção de trens. 
+
+-ARRANJOS DE FINANCIAMENTO QUE INCENTIVEM/CONTRIBUAM COM A PARTICIPAÇÃO PRIVADA 
+A Parceria Público-Privada (PPP) TIC Eixo Norte já representa, por sua própria natureza, uma modalidade de atração de participação e
+financiamento privado. Ao envolver o setor privado na prestação de serviços públicos, a PPP proporciona uma fonte adicional de recursos
+e expertise, reduzindo a carga sobre os cofres públicos e promovendo a eficiência na entrega dos serviços. Neste caso específico, a
+adoção das Garantias de Pagamento do Banco Mundial adiciona um atrativo adicional para investidores privados. O Banco Mundial, uma
+instituição global com classificação máxima de crédito triplo A, oferece uma garantia de pagamento confiável e segura, o que ajuda a atrair
+ainda mais investidores globais, fundos de pensão e outras modalidades de financiamento. Essa estrutura de garantias inovadora, nunca
+antes utilizada no Brasil, não apenas fortalece a credibilidade do projeto, mas também pavimenta uma nova avenida de oportunidades
+para futuros projetos de infraestrutura no país. Ao contornar as restrições orçamentárias para estruturação de garantias baseadas em
+fluxos de recebimentos públicos, essa abordagem cria um ambiente mais favorável para o desenvolvimento de projetos que beneficiem e
+empreguem estratégias semelhantes, impulsionando assim a participação privada em iniciativas de infraestrutura essenciais para o
+desenvolvimento econômico e social do país. 
+
+POPULAÇÃO BENEFICIADA 
+A Área de Influência do projeto (direta e indireta) compreende 11 municípios Paulistas, que somam cerca de 15 milhões de moradores,
+conforme pode ser visto na  lista a seguir, com os dados do Censo IBGE 2022:  
+
+São Paulo  11.451.245 
+
+Caieiras        95.030 
+
+Franco da Rocha      144.849 
+
+Francisco Morato65.139 
+
+Campo Limpo Paulista77.632 
+
+Várzea Paulista      115.771 
+
+Jundiaí      443.116 
+
+Louveira        51.833 
+
+Vinhedo        76.663 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 15
+
+Valinhos      126.325 
+
+Campinas   1.138.309 
+
+ 
+Ao todo, o território das três Regiões Metropolitanas somam mais de 25 milhões de pessoas, com um nível de atividade de destaque,
+sendo o mais dinâmico do Brasil, oferecendo serviços especializados de alto nível e cadeias de produção e de consumo que excedem o
+centro de São Paulo e levam negócios e investimentos de grande monta para as regiões de Jundiaí e Campinas. Contudo, as viagens
+entre Campinas e São Paulo são absolutamente dependentes dos modos rodoviários e de rodovias já muito congestionadas e
+sobrecarregadas o que torna os tempos de viagem imprevisíveis. 
+
+O TIC Eixo Norte significará uma nova forma de pensar os deslocamentos regionais e o atendimento d demanda de transporte com
+alternativa limpa, segura e com capacidade inquestionável de reduzir tempos de viagem e assim melhor o acesso a empregos, educação
+e serviços essenciais. Desse modo, o projeto irá contribuir para o desenvolvimento econômico e social da região por meio de
+investimentos em obras de mobilidade, ampliando a malha ferroviária, qualificando e conectando mais pessoas ao transporte de
+passageiros sobre trilhos metropolitano, melhorando a integração regional e social e aumentando a segurança na locomoção dos cidadãos
+. 
+
+Do ponto de vista da renda, os municípios atendidos pela Linha 7-Rubi contam com mais de 1/3 de sua população empregada renda
+média menor que 1/2 salário-mínimo per capita. Um terço das viagens realizadas na região são destinadas a empregos no Comércio e em
+Serviços, com predominância de faixa salarial entre 2,5 salários mínimos. Esses dados evidenciam a importância de políticas públicas
+direcionadas para promover a ascensão socioeconômica desses segmentos e atenuar as disparidades existentes, multiplicar as
+externalidades positivas do transporte, como redução do trânsito, diminuição de acidentes e emissões de poluentes, bem como
+dinamização da atividade econômica.
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+BIRD
+US$
+100.000.000,00
+1,00
+100.000.000,00
+Total:
+100.000.000,00
+100.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+ARRANJO INSTITUCIONAL  
+
+Governo do Estado de São Paulo / Companhia Paulista de Parcerias (Mutuário), representado pela 
+Secretaria da Fazenda e Planejamento
+O GESP delegou à SEFAZ todos os atos indispensáveis à contratação de financiamentos para projetos de investimento. Suas
+responsabilidades são: 
+Tramitação dos processos de financiamento junto ao Governo Federal e interlocução com as demais partes interessadas;  
+Propor a lei autorizativa e alterações;  
+Viabilizar o projeto em termos orçamentários a cada exercício;  
+Assinar contrato de financiamento em nome do mutuário; 
+Acompanhar a execução dos projetos financiados; 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 16
+Orientar pastas responsáveis pelo projeto elegível para financiamento na providência de documentos necessários para instrução do pleito
+de financiamento.  
+Secretaria de Parcerias em Investimentos (Órgão Setorial) responsabilidades no âmbito do projeto:  
+Acompanhar e controlar a utilização dos recursos do financiamento; 
+Apontar as fontes dos recursos orçamentários e de crédito; 
+Formalização de aditivos para execução do empreendimento  
+Gerenciar, administrar e prestar contas ao Mutuário, ao banco financiador, ao TCE e outros organismos de controle sobre o financiamento
+e a execução do projeto, sob o ponto de vista técnico, ambiental, financeiro, administrativo e demais áreas; 
+Efetuar os pagamentos às contratadas e consultores, conforme progresso dos trabalhos, devidamente respaldadas pelas inspeções de
+execução e nas condições contratuais. 
+Companhia Paulista de Parcerias:  
+Custodiar as garantias, monitorar adimplemento e gatilhamento de riscos no contrato de PPP  
+Responder pelos custos administrativos da garantia, bem como do repasse por parte do parceiro privado.  
+Prestar apoio técnico à SPI na sua função de gerenciar, administrar, e prestar contas sobre o financiamento e a execução do projeto-
+Prestar informações técnicas sobre a estruturação e execução do projeto para a SPI e a SEFAZ  
+Procuradoria-Geral do Estado- exerce as atividades de consultoria e assessoramento jurídico do Poder Concedente. Anexo VII - Matriz
+RACI (TIC Garantia). 
+
+ESTRUTURA OPERACIONAL  
+As garantias serão custodiadas pela CPP, sociedade por ações de capital fechado, controlada pelo GESP e autorizada celebrar contratos
+de PPP, prestar garantias reais ou fidejussórias, emitir títulos, participar do capital de outras empresas, bem como gerenciar bens e ativos
+que lhes sejam destinados pela Administração. Além disso, a CPP tem a missão apoiar o Governo do Estado de São Paulo na prospecção
+, concepção, estruturação, modelagem, implementação e monitoramento de arranjos negociais, e atualmente presta garantias para outras
+PPPs de mobilidade urbana, como a L 4 Amarela e a L 6 Laranja. 
+A SPI foi criada em 2023 com foco na atração de mais investimentos e oportunidades de geração de emprego e renda. Considerando tal
+foco conferido às parcerias com a iniciativa privada, o monitoramento e a fiscalização dos contratos de concessão e PPP do sistema
+metroferroviário foi incorporada à SPI. Tal atividade é realizada pela Comissão de Monitoramento de Concessões e Permissões (CMCP),
+órgão que tem como missão executar a fiscalização e controle e subsidiar as decisões relativas aos contratos sob seu monitoramento.
+Além disso, à CMCP foram delegadas prerrogativas decisórias no que tange a aspectos técnicos dos contratos e do serviço.  
+A responsabilidade pela prestação dos serviços públicos, inclusive a operação e execução de obras civis previstas, será a SPI, com
+fiscalização e monitoramento da CMCP, órgão a ela vinculado. A prestação dos serviços públicos ocorrerá através de PPP, pelo Contrato
+firmado com a concessionária.  
+Assim, a CMCP acompanhará, monitorará e fiscalizará os serviços concedidos e as obras a serem realizadas pela futura concessionária,
+tal como já faz nos contratos existentes: L 4 (desde 2010, há 18 anos), 5 e 17 *(desde 2018), 8 e 9 (desde 2021) e especialmente a L 6 -
+? Laranja (desde 2013), em fase intensiva de implantação metroviária. 
+Tal Comissão é composta por quadros especializados e experientes no setor metroferroviário e em regulação. Com quadros compostos
+por engenheiros, arquitetos, economistas, contabilistas 
+Tal Comissão é composta por quadros especializados e experientes no setor metroferroviário e em regulação. Com quadros compostos
+por engenheiros, arquitetos, economistas, contabilistas, advogados e técnicos diversos, totalizando 49 colaboradores trabalhando em 5
+áreas, a saber: (i) Coordenação-Geral; (ii) Divisão de Assuntos Regulatórios; (iii) Divisão de Controle Econômico-Financeiro; (iv) Divisão
+de Investimentos; e (v) Divisão de Operação. Cada uma das divisões possui um colaborador líder, os quais, em conjunto com o Coord.
+Geral, compõem o colegiado da CMCP. 
+Por fim, ainda temos como parte interessada no projeto, por ocupar a mesma faixa de domínio da Linha 7, as empresas  MRS e Rumo
+Logística que detém concessão federal do sistema ferroviário da região. versão 2 de Anexo VII
+4.2. Execução/Executores
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 17
+Executor: Secretaria de Parcerias em Investimentos - SPI
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+Fax:
+CNPJ:                
+UF:  
+4.3. Execução/Prazo
+Prazo de Desembolso: 10
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BIRD
+BIRD
+C - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+100.000.000,00
+100.000.000,00
+      P - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+100.000.000,00
+100.000.000,00
+Total
+0,00
+100.000.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BIRD
+BIRD
+C - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+0,00
+      P - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+0,00
+Total
+0,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 3
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BIRD
+BIRD
+C - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+0,00
+      P - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+0,00
+Total
+0,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BIRD
+BIRD
+C - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+0,00
+      P - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+0,00
+Total
+0,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BIRD
+BIRD
+C - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+0,00
+      P - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+0,00
+Total
+0,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 6
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BIRD
+BIRD
+C - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+0,00
+      P - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+0,00
+Total
+0,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 7
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BIRD
+BIRD
+C - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+0,00
+      P - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+0,00
+Total
+0,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 8
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BIRD
+BIRD
+C - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+0,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 18
+      P - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+0,00
+Total
+0,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 9
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BIRD
+BIRD
+C - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+0,00
+      P - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+0,00
+Total
+0,00
+0,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 10
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+BIRD
+BIRD
+C - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+0,00
+100.000.000,00
+      P - GARANTIA AO APORTE PÚBLICO, CONTRAPRESTAÇÕES PECUNIÁRIAS
+0,00
+100.000.000,00
+Total
+100.000.000,00
+0,00
+100.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+ATOS LEGAIS NECESSÁRIOS  
+
+Em relação à execução, deve-se observar o disposto no Contrato de Concessão SPI nº 02/2024, assinado em 3/6/2024.  
+
+Quanto ao arcabouço do planejamento setorial orçamentário, o projeto integra o Plano Integrado de Transporte Urbano, PITU 2040, que
+tem como objetivo desenvolver, para um horizonte de 20 anos, a política de mobilidade do Estado de São Paulo para a RMSP. O PITU é o
+Plano Setorial adotado para o planejamento de mobilidade metropolitana no PPA paulista (Lei Estadual 17.262/2020). Adicionalmente,
+informamos que o projeto consta no PPA 2024-2027, Lei Estadual nº 17.898/2024 (Anexo III), Objetivo Estratégico 5: Infraestrutura e
+Mobilidade Urbana Expandidas, para Melhoria da Vida dos Cidadãos e para um Ambiente de Negócios Favorável à Atração de
+Investimentos; Programa 3935: Desenvolvimento de Parcerias em Investimentos (PPI-SP), Produto 2255 Trem Intercidades TIC Eixo
+Norte. 
+
+Destaca-se que a lei autorizadora para contratação da concessão de garantia ora pleiteada encontra-se em tramitação administrativa junto
+ à área competente para fins de submissão à Assembleia Legislativa. 
+
+Por fim, cabe lembrar que o Estado cumpre com o disposto no art. 28 da lei 11.079, de 30 de dezembro de 2004, ou seja, as despesas de
+caráter continuado do conjunto de parcerias já contratados no ano anterior, nem nos próximos 10 anos manteve-se menor que 1%  da
+Receita Corrente Líquida, cujo limite legal é de 5%, conforme demonstra RREO de 2º bimestre de 2024.
+
+RISCOS E AÇÕES MITIGADORAS 
+
+Há riscos relacionados à própria emissão dos atos legais indicados, notadamente em relação à aprovação dos decisores, e riscos
+relacionados à execução do próprio projeto, a serem endereçados nos atos a serem emanados. 
+
+Considerando haver posição majoritariamente favorável no legislativo estadual à expansão do sistema metroferroviário e à realização de
+parcerias público-privadas, e à natureza comum de autorização legislativa para financiamento de investimentos, não se vislumbra riscos
+elevados de não aprovação de tal projeto de lei. Contudo, como ação mitigadora, tal projeto já está em discussão avançada no âmbito do
+executivo estadual a fim de que possa ser discutido com antecedência na assembleia legislativa. 
+
+
+
+
+5.2. RISCOS/CONTRATAÇÕES
+CONTRATAÇÕES, RISCOS E AÇÕES MITIGADORAS  
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 19
+Como o Contrato de Concessão já foi celebrado em 3/6/2024. Entende-se que o principal risco de contratação já foi superado pelo Estado.
+Desta forma, a concessionária será responsável, de acordo com os critérios, conceitos e definições realizadas pelo Poder Público, pela
+contratação dos fornecedores para a realização dos projetos, obras, serviços e contingências. Não há previsão de aumento do quadro de
+pessoal do Estado para a implementação do projeto, ainda que este haja previsão de geração de empregos pela concessionária e suas
+fornecedoras tanto na fase de implementação quanto na posterior operação da linha estendida. 
+ 
+O Estado de São Paulo já conta com ampla experiência na contratação, gestão, fiscalização, controle de concessões de transportes,
+inclusive no acompanhamento de obras de grande vulto. Além das implementações e construções ocorridas diretamente pelo estado ou
+suas empresas públicas, ressaltamos que, no momento, a CMCP, comissão pertencente à estrutura da Secretaria de Parcerias em
+Investimentos, já acompanha e fiscaliza a implementação da nova linha 6 do metrô de São Paulo (desde 2013), obra de grande vulto com
+15,3 quilômetros de extensão que já tem completude acima de 55%. Anexo XV - Diretrizes para elaboração do plano de gerenciamento de
+ riscos
+5.3. RISCOS/DESAPROPRIAÇÕES
+O traçado do TIC EIXO NORTE se manteve, sempre que possível, dentro da faixa de domínio existente desde a implantação da ferrovia
+no século XIX, com aproveitamento da infraestrutura, de modo que as desapropriações previstas foram minimizadas, na sua maioria em
+decorrência da construção de vias laterais adicionais, incluindo ainda retificações de traçado, afetando uma área total estimada de 354.
+000 m², equivalente a aproximadamente 160 bens imóveis, conforme levantamentos preliminares. A consultoria especializada contratada
+para o desenvolvimento dos estudos elaborou levantamento preliminar resultando num custo total estimado para as desapropriações de R
+$ 385.809.514,98 de reais, data base 01/12/2022. Para as desocupações dentro da faixa de domínio estima-se um número de 231
+edificações (21.000 m²), afetando aproximadamente 281 famílias, cujo reassentamento e indenizações estão avaliados em R$ 35 milhões
+(data base 01/12/2022). A implementação das desocupações contará com um plano de ação de reassentamento, atendendo requisitos da
+legislação brasileira e diretrizes do Padrão de Desempenho Social e Ambiental 5 do BID e dos requisitos estabelecidos no Padrão de
+Desempenho Social e Ambiental (Performance Standard) nº 5 do IFC, que estabelecem os procedimentos aplicáveis às ações de
+reassentamento involuntário, inclusive no caso de situações de deslocamento físico e econômico, garantindo, assim, que o processo de
+reassentamento seja conduzido de forma justa e transparente, oferecendo compensações adequadas e oportunidades de melhoria de vida
+ para as comunidades afetadas.  
+
+Destaca-se que o risco de desapropriação é compartilhado entre a Concessionária e o Poder Concedente, onde este último assume o
+risco de atraso a partir de 7 meses de eventual, atraso para o qual a Concessionária não concorreu, e que, por sua vez,  esta será a
+responsável por conduzir o processo. Sob a perspectiva de custo, o Poder Concedente compartilha os custos de desapropriação através
+de bandas: até 120% é risco da concessionária, entre 120 e 200% as partes compartilham e acima de 200% o Poder Concedente assume
+integralmente a diferença. Esse tipo de contingência é comum em projetos dessa magnitude e complexidade, e é considerado no
+planejamento e na elaboração dos contratos de concessão. Anexo IX - Relatório de Desapropriação
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+Os riscos e impactos ambientais do projeto foram avaliados segundo os padrões socioambientais do Banco Interamericano de
+Desenvolvimento (BID), que são um conjunto de diretrizes e critérios amplamente reconhecidos e adotados globalmente para avaliar e
+gerenciar os riscos e impactos socioambientais de projetos. Esses padrões visam garantir que as atividades de desenvolvimento privado
+sejam realizadas de maneira responsável, minimizando os danos ao meio ambiente e à sociedade.  
+
+Após uma avaliação detalhada, foram identificados os riscos e impactos associados ao projeto, a saber: 
+
+Exclusivos da concessionária: (i) Custos socioambientais relacionados às Licenças Ambientais; 
+(ii) Custos decorrentes da recuperação de passivos ambientais e/ou irregularidades ambientais, constantes dos  Anexo XVI - Estudo de
+Impacto Ambienta EIA e Anexo X - Mapeamento de Passivos Ambientais (Mapeamento de Passivos Ambientais, Medidas de
+Recuperação e Remediação);  
+
+Exclusivo do Poder Concedente: 
+
+(iii) Atrasos decorrentes de eventuais descobertas de artefatos históricos, arqueológicos e paleontológicos, inclusive em decorrência de
+condicionantes, recomendações, determinações ou procedimentos dos órgãos de proteção de patrimônio histórico para as adequações,
+reformas, reparos ou manutenções nas estações, instalações, edifícios ou bens tombados 
+ 
+
+Compartilhado entre o Poder Concedente e Concessionária: 
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 20
+(iv) Custos relacionados a descobertas históricas, arqueológicas ou paleontológicas que impliquem a necessidade de resgate, ou
+condicionantes, recomendações, determinações ou procedimentos dos órgãos de proteção de patrimônio histórico para as adequações,
+reformas, reparos ou manutenções nas estações, instalações, edifícios ou bens tombados. 
+
+ 
+
+Todo o inventário detalhado de potenciais passivos ambientais consta do Anexo XVI - Estudo de Impacto Ambienta EIA acima citado,
+evidenciando o compromisso com a transparência e a gestão responsável dos riscos e impactos identificados. Essas análises são
+fundamentais para garantir que o projeto seja implementado de forma sustentável, minimizando seus efeitos adversos sobre o meio
+ambiente e a comunidade local. Assim, os elevados Padrões do BID que ensejam em minuciosa identificação de sensibilidades e riscos
+ambientais, tem como objetivo final a mitigação de riscos e o estabelecimento de medidas de prevenção em conformidade com a
+legislação vigente ou em alguns casos até mais exigentes. Tais informações contemplam a definição de cláusulas contratuais na
+concessão, além auxiliar na elaboração de seus anexos.  
+ 
+
+O Poder Concedente, por meio da CPTM, providenciou, com consultoria especializada, a elaboração do EIA-RIMA para o licenciamento
+ambiental visando obtenção da Licença Prévia do projeto do TIC Eixo Norte e do projeto de segregação do transporte de Carga da MRS
+denominado Segregação Noroeste, tendo vista que os projetos ocupam a mesma faixa territorial entre Barra Funda e Campinas, o que
+ensejou a unificação do processo de licenciamento junto a CETESB, com anuência do IBAMA. Anexo XIII - Diretrizes para o
+gerenciamento de áreas contaminadas em obras lineares
+ 
+
+Atualmente o EIA-RIMA encontra-se concluído, tendo sido protocolado na CETESB, e em fase final de atendimento a requisições de
+informações complementares com previsão de emissão da licença prévia para o mês de setembro de 2024. Anexo XII - Conteúdo do
+RIMA. Desde a elaboração dos estudos técnicos, o GESP avançou na elaboração de EIA/RIMA específico para obtenção de LP para todo
+o empreendimento, cuja expedição está prevista para o 2º semestre deste ano de 2024. Por obrigação contratual, a concessionária deverá
+ obter a Licença de Instalação em até 25 meses da assinatura do contrato, pois a LI é condicionante para o início das obras.
+ 
+
+A Concessionária será responsável por realizar as medidas necessárias para cumprimento das condicionantes constantes da Licença
+Prévia, tais como: plantio compensatório, instalação de vedação de faixa de domínio, barreiras acústicas ou sistemas de amortecimento
+de vibração e ruido, exclusivamente quanto ao transporte de passageiro, custeando as medidas necessárias até o limite de R$ 36.775.115
+,34 (data base 01/12/2022), cabendo ao Poder Concedente ressarcir eventuais valores excedentes que superem o referido limite. 
+ 
+
+É obrigação da Concessionária a obtenção da licença de instalação para execução das obras e da licença de operação para o Serviço do
+TIM e do TIC, bem como eventual regularização da licença de operação da linha 7. Hoje a licença de operação da Linha 7 tem vigência
+até 29/07/2027 e será transferida à concessionária no final da Fase Pré-operacional. 
+ 
+
+Nos termos do EIA/RIMA elaborado, as avaliações dos impactos ambientais potenciais constam Capítulo 9 e a análise geral consolidada
+destes impactos consta do Capítulo 12.0 (Prognóstico Ambiental) por meio do qual demonstram que o arcabouço de programas e medidas
+proposto terá o efeito de neutralizar parte significativa dos aspectos potencialmente negativos do projeto, de maneira que, a médio ou
+longo prazo, os impactos globais resultantes sobre todos os componentes ambientais afetados sejam muito reduzidos. Esses dois
+Capítulos constam do Anexo XVII - Prognóstico da Qualidade Ambiental Futura 
+5.5. RISCOS/IMPACTO SOCIAL
+Foram identificados impactos potenciais sobre as atividades socioeconomica na avalição de custo benefício do Projeto que demonstrou
+significativa atratividade econômica, notadamente no aspecto quantitativo com (i) geração de empregos diretos e indiretos durante a fase
+de construção com mais de 10.500 empregos diretos (sem prescindir de considerar os gerados indiretamente na fabricação de materiais e
+equipamentos fornecidos na construção e induzidos por consequência do gasto dos salários gerados pelo emprego direto e indireto); (ii)
+Redução de tempo de viagem / deslocamento, (iii) 12% de redução de acidentes; (iv) 20% de aumento de excedente do consumidor e no
+aspecto qualitativo, ficou demonstrado (v) Satisfação da população usuária do transporte e (vi) Maior qualidade de vida em função da
+redução do tempo de deslocamento.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 21
+No que se refere aos riscos a avaliação de custo e benefício registou como principais: (i) Risco de projeto e construção; (ii) Risco de
+construção de obras subterrâneas; (iii) Risco de construção de obras de passagem; (iv) Risco de interface em obras; (v) Risco de
+interferência da construção na operação de serviços existentes; (vi) Risco da entrega material rodante operacional; (vii) Risco partida
+inicial do material rodante; (viii) Risco de obtenção de licencias ambientais no prazo previsto; (ix) Risco de desapropriações e
+reassentamentos; e (x) Risco de operação e manutenção 
+
+O Capítulo 9 do EIA-RIMA (Anexo XVII) discorre sobre os impactos positivos e negativos decorrentes da implantação do projeto, dentre os
+ quais, no âmbito social, destacam-se: 
+
+Melhoria da acessibilidade e ampliação da oferta do modal ferroviário; 
+
+Redução dos tempos de viagem de passageiro; 
+
+Necessidade de baldeação para passageiros da Linha 7 e Linha 10; 
+
+Redução dos riscos de acidentes ferroviários; 
+
+Ordenamento dos fluxos transversais de pedestres e veículos; 
+
+Geração de empregos diretos e indiretos durante as obras; 
+
+Geração de empregos diretos e indiretos na fase de operação; 
+
+Aumento da massa de salários; 
+
+Descentralização da oferta de empregos; 
+
+Melhoria das condições para movimentos pendulares de trabalhadores; 
+
+Geração de expectativas na população; 
+
+Aumento dos tempos de viagens ferroviárias durante a construção; 
+
+Alteração de locais de moradia da população socialmente vulnerável e não vulnerável; 
+
+Alterações nas relações sociais nas áreas afetadas.
+5.6. RISCOS/REASSENTAMENTOS
+No contexto do reassentamento, foram identificados impactos associados à aquisição de terra e reassentamento. Esses impactos estão
+relacionados ao Deslocamento Físico e Econômico de residências, comércios, equipamentos sociais, atividades de subsistência e
+população vulnerável, incluindo ocupações irregulares e aglomerados subnormais.  
+O projeto de expansão requer a aquisição de terras ao longo das fases de planejamento, construção e operação, devido à instalação de
+estruturas em linha. Isso pode resultar no deslocamento involuntário, tanto físico quanto econômico, de residências, comércios e
+equipamentos sociais.  
+Para atender aos requisitos da legislação brasileira e dos padrões do BID, a concessionária implementará uma série de medidas. Isso
+inclui a realização de estudos de alternativas locacionais para evitar ou minimizar os riscos e impactos associados ao deslocamento físico
+e econômico. 
+Nos casos em que a intervenção for indispensável, serão adaptadas soluções de engenharia e design de projeto para mitigar os
+deslocamentos, considerando as áreas e edificações circundantes. 
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:40
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61198
+Página: 22
+Além disso, serão desenvolvidos e implementados Planos de Ação de Reassentamento (PAR) e/ou Programas de Restauração de Meios
+de Subsistência (PRMS) para compensar os impactos causados pela aquisição de terras. Programas de comunicação social e
+engajamento com as partes interessadas serão estabelecidos, juntamente com a monitorização dos registros do Mecanismo de Queixas e
+Reclamações (MQR) e a auditoria periódica dos PAR/PRMS. Essas medidas visam garantir que o reassentamento seja conduzido de
+forma justa e transparente, minimizando os impactos negativos sobre as comunidades afetadas. Anexo XIV - Diretrizes para elaboração
+de plano de ação de reassentamento. Vale reforçar que a estruturação do projeto é de 2023 e portanto devidamente atualizadas. Além
+disso, a execução do contrato de concessão começou agora em jun/24. Os cadastros das famílias é uma das obrigações da
+concessionária e será realizado conforme os prazos dispostos no contrato de concessão. 
+Quanto as áreas, importante mencionar que foi celebrado um Acordo de Cooperação Técnica entre o GESP e MINFRA para disciplinar,
+entre outras coisas, as áreas pleiteadas para viabilizar a implantação dos empreendimentos, dado que envolve concessão federal (TIC
+Eixo Norte e Segregação de cargas MRS). Anexo XIX - ACT GESP MINFRA
+
+ 
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 

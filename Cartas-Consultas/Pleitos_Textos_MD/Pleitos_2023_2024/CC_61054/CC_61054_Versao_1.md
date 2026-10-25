@@ -1,0 +1,2662 @@
+# Carta-Consulta CC_61054 — Versao 1 (SIGS)
+
+
+CARTA CONSULTA
+
+PROGRAMA DE DRENAGEM URBANA RESILIENTE ÀS MUDANAS CLIMÁTICAS DE
+PORTO ALEGRE
+
+Nº Carta Consulta: 61054
+Mutuário: Município de Porto Alegre - RS
+Tipo de Operação: Operação de crédito externo
+
+Fontes Internas:
+Contrapartida Financeira: US$ 26.440.000,00
+Fontes Externas:
+KfW Entwicklungsbank: US$ 105.760.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+Porto Alegre, capital do estado do Rio Grande do Sul, tem a população estimada em 1.332.000 habitantes em 2022 (IBGE). O território de
+Porto Alegre com área de 495 km² é dividido em oito Regiões Político Administrativas sendo formado por 94 bairros. A Região
+Metropolitana de Porto Alegre é formada por 34 municípios que, juntos, somam uma população de mais de 4.1 milhões de habitantes. A
+geografia do município é composta por planícies estuarinas permeadas por corpos d'água, destacando o Lago Guaíba que margeia todo o
+limite oeste do município. O Índice de Desenvolvimento Humano (IDH) do município é de 0,805, estando na 7ª posição no Brasil. Apesar
+do alto IDH, o Município sofre com a falta de resiliência hídrica que frequentemente assola a cidade, principalmente as áreas mais
+vulneráveis com eventos de alagamento, inundação e enxurradas, considerando a urbanização desordenada e a carência de infraestrutura
+básica.
+
+O número de pessoas situadas em áreas de risco muito alto no município aumentou 525% entre 2012 e 2022 (Serviço Geológico do Brasil
+-SGB) (Anexo 1.1). Dentre os riscos verificados, os principais estão atrelados aos processos hídricos, como inundações e enxurradas e
+destaca-se que 101 áreas com esse tipo de risco no município foram mapeadas, sendo 46 com risco muito alto, e 55 com risco alto (
+Anexo 1.2).
+
+Nessa linha, os três arroios: Cavalhada, Guabiroba e Moinho, recebem destaque quanto a vulnerabilidade a eventos extremos com riscos
+de enxurradas e inundações afetando a população que reside ao redor de suas calhas. Os três arroios apresentam em comum
+característica de bacias densamente urbanizadas e calhas de larguras insuficientes para receber o grande volume de escoamento
+superficial gerado pela impermeabilização.
+
+Sistema de drenagem: Porto Alegre conta com uma extensão total de 2.820 km de redes coletoras, 40 reservatórios de amortecimento e
+as 23 EBAP do Sistema de Proteção Contra Cheias. Uma grande parte dessas redes funciona como sistema misto de drenagem,
+atendendo um total de 146.176 economias com esgoto misto. Considerando uma extensão de 3.331 km de ruas (Plano Municipal de
+Saneamento Básico-PMSB) representaria uma cobertura com drenagem de 85%.
+
+Isso apresenta uma característica única em relação às demais capitais do Brasil tendo em vista que o Decreto Municipal n°12.471/99, até
+a revogação em março 2023 (DM nº21.917/2023), autorizava o lançamento de efluentes sanitários à rede pública de esgoto pluvial, em
+zonas de inexistência de coletor público de esgoto ou em loteamento sem tratamento coletivo, desde que o efluente fosse pré-tratado em
+tanques sépticos. Isso explica a existência do sistema misto de drenagem.
+
+Sistema de coleta de esgoto: Porto Alegre possui 2.152 km de redes coletoras de esgoto cloacal distribuídos nos dez sistemas de
+esgotamento sanitários (Anexo 1.4).
+
+Do total de 755.604 economias ativas nos Sistemas de Abastecimento de Água, 546.415 (72,3%) possuem redes coletora de esgoto à
+disposição e para mais 155.316 economias (20,5%) há coleta de esgotos em sistema unitário (redes mistas com águas pluviais). Além
+disso há parte das redes coletoras de esgoto que não possuem destino completo até as Estações de Tratamento, e, em razão disso, Porto
+Alegre tem alcançado pouco mais de 50% de esgotos tratados em relação ao volume total gerado de esgotos. A falta de saneamento, em
+2022, impactou 80 milhões de mulheres no Brasil que sofreram afastamento de suas atividades por doenças de veiculação hídrica e
+doenças respiratórias. Além disso, a renda de mulheres que vivem em moradias sem banheiro é 66,7% menor que as mulheres que vivem
+numa moradia com banheiro [2].
+
+Em 2023, foi identificado o total de 159.468 pessoas e 62.022 moradias ao redor dos Arroios Cavalhada, Guabiroba e Moinho (Anexo 1.5),
+que inicialmente foram selecionadas como áreas de abrangência do Programa, com alta vulnerabilidade socioambiental. Os padrões das
+residencias construídas nas áreas de risco alto e muito alto de inundação e enxurrada, que também fazem parte do contexto do perímetro
+dos arroios, são de pequeno porte e precárias (SGB). Estudos revelam que uma moradia com piso adequado reduz 78% das infecções
+parasitárias, 49% dos casos de diarreia, 81 % dos casos de anemia e o aumento de 36% a 96% do desenvolvimento cognitivo [1].
+
+Em 2018, 47.292 dos domicílios foram caracterizados com déficit habitacional (habitação precária, ônus excessivo com aluguel etc.), 23.
+431 com inadequações (acabamento rústico, cortiço e/ou presença de banheiro etc.) e 33.487 sem acesso completo à infraestrutura (
+energia, água, e/ou coleta de esgoto e lixo) (Anexo 3).
+
+Diante o exposto, fica evidente a necessidade de solucionar tais desafios com uma resposta robusta, eficiente e sustentável em longo
+prazo priorizando a melhoria da qualidade de vida da população, principalmente, a população mais vulnerável.
+
+Fontes:[1] Housing, Health and Hapiness, 2007 ? Banco Mundial[2] O saneamento e a vida da mulher brasileira, 2022 ? BRK Ambient
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+Buscando contribuir com a transformação dessa realidade, estão sendo propostas soluções por meio do Programa POA Drenagem
+Resiliente que foram estruturadas com apoio de uma lógica vertical (Anexo 4), para dirimir as determinantes verificadas no diagnóstico por
+meio de ações integradas, resilientes e sustentáveis a longo prazo. Dentre os resultados esperados destaca-se a construção da
+resiliência hídrica do Município e a redução das vulnerabilidades do habitat, focadas na ampliação e melhoria da infraestrutura urbana e no
+atendimento habitacional.
+
+RESILIÊNCIA HÍDRICA DA CIDADE
+
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+O Programa propõe soluções para macrodrenagem considerando os impactos das mudanças climáticas que, como apresentados no
+diagnóstico, as calhas dos arroios Cavalhada, Guabiroba e Moinho, são insuficientes para o escoamento das águas pluviais,
+principalmente, em eventos extremos agravados pelas mudanças climáticas. Nesse sentido, busca-se a melhoria da capacidade de
+escoamento desses três arroios com a reconformação da sua calha e implantação de reservatórios de amortecimento ao longo dos seus
+traçados. Também se prevê a implantação da microdrenagem nas três bacias de tal forma que conduza a água da chuva para
+reservatórios ou a própria calha dos arroios.
+
+Além disso, recentemente foi formado um Grupo de Trabalho denominado Grupo de Atuação em Áreas de Risco de Porto Alegre, formado
+por DEMHAB/ SMHARF, Defesa Civil, SMPAE, SMGOV e GP, com o objetivo de planejar e executar ações para prevenir, mitigar e excluir
+, conforme a viabilidade, os riscos das áreas mapeadas e classificadas de acordo com a potencialidade de gerar danos à população. (
+Portaria 205 de 3 de abril de 2023 - Lei Municipal 13.581 e 13.582 de 25 de julho de 2023). De outra parte, o Centro Integrado de
+Comando do Município CEIC, implantado Há cerca de dez anos tem recebido incremento de atuação com ampliação da quantidade de
+câmeras de monitoramento, que não se limitam ao acompanhamento de tráfego e segurança, mas também emissão de relatórios com
+pontos de alagamento e inundação. Recentemente ainda a Prefeitura passou a integrar a Sala de Situação do Governo do Estado, a qual
+detém o monitoramento climático e hidrológico dos rios afluentes ao Lago Guaíba e de toda geográfica imediata de Porto Alegre. Além
+disso, parceria com os gestores descentralizados em subprefeituras facilitam o acesso aos eventos climáticos e à construção coletiva de
+soluções e ações pedagógicas com as lideranças nas comunidades.
+
+A sustentabilidade desta solução proposta será garantida com a realização de estudos que considerem os impactos das mudanças
+climáticas que embasarão os projetos de engenharia da macrodrenagem que também terão como premissa soluções baseadas na
+natureza. Também são propostas ações de fortalecimento das capacidades das instituições para prevenção, gestão e monitoramento dos
+riscos vinculados a alagamentos, enxurradas e inundações em longo prazo.
+
+REDUÇÃO DAS VULNERABILIDADES DO HABITAT
+
+a.Ampliação e melhoria da infraestrutura urbana
+
+As ações de urbanização do Programa pretendem reduzir a precariedade das áreas de risco, que também possuem alto grau de
+vulnerabilidade social, para ofertar melhor qualidade de vida e oportunidades socioeconômicas à população marginalizada pelas atuais
+condições do ambiente que a cerca.  A urbanização pretende entregar a população infraestrutura com soluções baseadas na natureza,
+considerando às necessidades específicas indicadas pela comunidade atendida, também priorizando projetos inclusivos, acessíveis e
+seguro principalmente para os grupos sociais culturalmente desfavorecidos, como mulheres, idosos, crianças, pessoas com deficiência e
+outros.
+
+A sustentabilidade deste eixo será garantida com a participação da população nas definições das soluções que atenderão as suas
+necessidades, e por meio do processo participativo a população será estimulada a auxiliar na manutenção, conservação e preservação
+dos espaços de convivência e moradias.
+
+b.Atendimento habitacional
+
+O Programa visa ofertar soluções de moradia adequadas às necessidades de cada família a ser reassentada nas áreas de riscos de
+inundação e enxurradas de modo a ofertar maior dignidade e acesso a serviços de qualidade, além de retirá-las de uma situação de perigo
+iminente de vida.
+
+Destaca-se que as diretrizes e salvaguardas sociais do Banco Mundial serão aplicadas ao Projeto.
+
+A sustentabilidade, adesão aos processos de execução das obras e serviços e a necessidade de reassentamentos proposto neste eixo
+será realizada por meio da contratação de Trabalho Técnico Social (TTS), que participará da aproximação com as comunidades,
+desenvolvendo diagnósticos, cadastros, oficinas e outras atividades que conectarão a população a ser reassentada com as ações do
+Programa de modo transparente, permitindo o franco diálogo sobre as reais necessidades habitacionais a população para dirimir o risco
+da não adesão à saída da área de risco. Durante o TTS, a população atendida será agraciada com acesso a intervenções sociais de
+mobilização e organização comunitária, desenvolvimento socioeconômico (cursos, oficinas e incentivo ao mercado de trabalho), educação
+ambiental e patrimonial, gestão sociocondominial e desenvolvimento de estratégias de resiliência, que promoverão fomento à inclusão
+social, maior preservação da moradia e do meio ambiente, fortalecendo a população atendida no intuito da permanência definitiva e digna.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+(cid:10)
+
+
+Página: 4
+
+Por fim, o Programa visa garantir sua sustentabilidade de execução por meio de um Arranjo Institucional adequado com uma gestão
+integrada e articulada com as diferentes instituições identificadas como essenciais para a execução das atividades elencadas.
+
+Portanto, por meio dos eixos apontados, o Programa busca obter os seguintes resultados:
+
+Fortalecimento das infraestruturas de macrodrenagem existentes, elaborar novos estudos, projetos para execução de novas obras de
+macrodrenagem, correlacionando os efeitos das mudanças climáticas dos Arroios Cavalhada, Guabiroba e Moinho.
+
+Reassentamento de 1.359 famílias que atualmente vivem nas áreas de riscos alto e muito alto de inundação e enxurrada nos arroios.
+
+Implantação 45 km de redes de esgotamento sanitário.
+
+Implantação de 63 km de redes pluviais.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+i. As ações do Programa constam no Plano Plurianual (PPA 2022-2025), Lei 12.865/21, estando alinhadas com o Eixo de
+Desenvolvimento Social visando proporcionar melhor qualidade de vida e desenvolvimento humano à sociedade de Porto Alegre, por meio
+de acesso aos direitos sociais, de habitação digna formal e regularizada; de prevenção e proteção à recuperação da saúde humana,
+garantindo o atendimento às necessidades da população de forma qualificada, integral, equânime, entre outras ações previstas no
+Programa Compromisso com as Pessoas (pg. 25-92);
+
+ii. E ao Eixo de Serviços Públicos, a partir do Programa Gestão da Cidade (pg.131-157) visando o bem-estar dos cidadãos, garantindo a
+prestação de serviço público de abastecimento de água, esgotamento sanitário e drenagem urbana com qualidade, sendo social e
+ambientalmente responsável; preservando a vida das pessoas; as ações estão previstas também na Lei de Diretrizes Orçamentárias 2023
+e na Lei Orçamentária Anual 2023, Lei 13.340/22.
+
+ii. As ações previstas no Programa, também estão relacionadas com os planos abaixo listados:
+
+1. Plano Diretor de Desenvolvimento Ambiental Urbano (PDDUA)-2010, em revisão em 2023. Destacam-se: a gestão democrática, por
+meio da participação da população e das associações; promoção da qualidade de vida e do ambiente, reduzindo as desigualdades e a
+exclusão social; e fortalecimento do papel do Poder Público.
+
+2. Plano Municipal de Saneamento Básico de Porto Alegre (PMSB), no que condiz ao manejo de águas pluviais urbanas, e estão em
+conformidade com as diretrizes apontadas na Lei Federal nº 11.445/2007 e em seus decretos regulamentadores (Decretos Federais nº 7.
+217/2010 e nº 8.211/2014).
+
+3. Setorização de Áreas de Risco Geológico de Porto Alegre, 2023, desenvolvido pelo SGB-CPRM.
+
+4. Outros Planos:
+
+Plano Diretor de Drenagem Urbana-Manual de Drenagem Urbana (PDDU-MDU)-2005 - O Programa através do planejamento e
+intervenções busca evitar as perdas econômicas, melhorar as condições de saneamento e qualidade do meio ambiente da cidade, dentro
+de princípios econômicos, sociais e ambientais definidos pelo Plano Diretor de Desenvolvimento Urbano e Ambiental.
+
+O Programa também busca atingir as metas dos Objetivos de Desenvolvimento Sustentável (ODS) fortalecendo indicadores do Município
+que se relacionam com as atividades do POA DRENA RESILIENTE, como: ODS 07, 09,11,10, 13.
+
+(iii) CONTRAPARTIDA
+
+Os recursos de contrapartida do município correspondem a 20% do total do Programa, no período proposto de 05 anos de execução. A
+contrapartida será aportada com recursos provenientes de receitas tributárias previstas nos artigos 156, 158 e 159, inciso I, (b), da
+Constituição Federal, conforme estabelecido na resolução nº 3, de 29 de maio de 2019, COFIEX.
+
+(iv) Taxa de Câmbio (R$/?):
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+Banco Central do Brasil para a cotação ? Euro em relação ao Real na data de 28/09/2023. Para a conversão Euro-Real, a taxa é 1 ?$ = R
+$ 5,3163
+
+2. Projeto
+
+### 2.1. Título
+
+
+PROGRAMA DE DRENAGEM URBANA RESILIENTE ÀS MUDANAS CLIMÁTICAS DE PORTO ALEGRE
+
+
+### 2.2. Título Abreviado
+
+
+POA+DRENARESILIENTE
+
+
+### 2.3. Mutuário
+
+
+Município de Porto Alegre - RS
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+(i) Objetivo Geral:
+
+Prover a resiliência às alterações climáticas, melhorar o esgotamento sanitário e as condições de vida das populações afetadas pelas
+inundações, enxurradas e alagamentos, em especial as populações vulneráveis, em determinadas bacias hidrográficas do Município de
+Porto Alegre.
+
+(ii) Objetivos Específicos:
+
+a- Reduzir os riscos de desastres de inundação e enxurradas que sobrecarregam os córregos do Município por meio da reabilitação dos
+arroios: Cavalhada, Guabiroba e Moinho.
+
+b- Urbanizar áreas no entorno das bacias hidrográficas selecionadas considerando a preservação de Área Non Aedificandi garantindo
+soluções de infraestrutura urbana integrada e moradia digna.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Descrição
+Planos de operação e manutenção elaborados e
+implementados para assegurar a operação
+sustentável das infraestruturas do programa (
+Linha de Base: 2023 / Meta: 2028)
+
+Aumento do número de famílias retiradas das
+áreas vulneráveis em situação de risco não
+mitigável conforme as normas do Banco Mundial
+(Linha de Base: 2023 / Meta: 2028)
+
+Aumento do Percentual de retorno de famílias à
+área mitigada ou recuperada, após a intervenção
+finalizada (Linha de Base: 2023 / Meta: 2028)
+
+Aumento da taxa de famílias que utilizaram o
+aluguel social e foram efetivamente
+reassentadas (Linha de Base: 2023 / Meta: 2028
+)
+
+Número de pessoas afetadas pelo
+reassentamento que acessaram o Trabalho
+Técnico Social (TTS) - Prevê Participação de
+ações de  educação, treinamento e formação
+para geração de renda, gestão sociocondominial
+, sustentabilidade socioambiental e outros (Linha
+de Base: 2023 / Meta: 2028)
+Aumento do número de mulheres ( capacitadas
+em ações de educação, treinamento e formação
+para geração de renda, gestão sociocondominial
+, sustentabilidade socioambiental e outros (Linha
+de Base: 2023 / Meta: 2028)
+Ampliação da rede pluvial (Linha de Base: 2023 /
+Meta: 2028)
+
+Aumento da cobertura da rede de esgoto (Linha
+de Base: 2023 / Meta: 2028)
+
+
+### 2.7. Projeto/Componentes
+
+
+Página: 6
+
+Meta
+2,00
+
+Linha de Base
+0,00
+
+0,00
+
+1.359,00
+
+0,00
+
+75,00
+
+0,00
+
+80,00
+
+0,00
+
+5.436,00
+
+Planos
+
+Famílias
+
+Fórmula de Cálculo Unidade de Medida
+Somatório do número
+de Planos de
+Operação e
+Manutenção
+elaborados e
+implementados
+Somatório do número
+de famílias retiradas
+das áreas de risco
+não mitigável, ao final
+da execução do
+Programa
+[(Quantidade de
+famílias assentadas
+na área mitigada/
+Quantidade de
+famílias removidas
+dos territórios)x100]
+[(Quantidade de
+famílias que utilizaram
+o aluguel social/
+quantidade de famílias
+mobilizadas na
+intervenção)x100]
+Somatório do número
+de pessoas afetadas
+que acessaram o TTS
+
+Percentual
+
+Percentual
+
+Pessoas
+
+Somatório do número
+de mulheres
+capacitadas
+
+Mulheres
+
+0,00
+
+250,00
+
+Km
+
+Km
+
+Somatório do número
+de km de rede pluvial
+implantados com a
+execução do
+Programa
+Somatório do número
+de km implantados
+com a execução do
+Programa
+
+0,00
+
+63,00
+
+0,00
+
+45,00
+
+
+Componentes
+C - EFICIENTIZAÇÃO DAS SOLUÇÕES DE DRENAGEM URBANA
+S - INTERVENÇÕES DE MACRODRENAGEM
+P - Estudos de impacto das mudanças climáticas na hidrologia de POA
+P - Estudos de macrodrenagem para fortalecer a infraestrutura existente frente o impacto das mudanças
+climáticas
+P - Elaboração dos projetos de restauração das calhas dos Arroios
+P - Execução de obras de macrodrenagem
+S - INTERVENÇÕES DE MICRODRENAGEM
+P - Execução de obras de microdrenagem
+S - FORTALECIMENTO INSTITUCIONAL PARA RISCOS
+P - Elaboração de planos e protocolos de prevenção, gestão e monitoramento de riscos de inundação, enxurrada
+e alagamento.
+P - Capacitação do corpo técnico
+C - INOVAÇÃO E MODERNIZAÇÃO DA GESTÃO
+S - INFRAESTRUTURA URBANA
+P - Esgotamento sanitário
+P - Pavimentação
+S - REASSENTAMENTO
+P - Atendimento habitacional
+P - Aluguel social
+P - Trabalho técnico-social (TTS)
+C - ADMINISTRAÇÃO DO PROGRAMA
+P - Unidade Gestora do Programa - UGP
+P - Supervisão das Obras do Programa
+P - Avaliação de Impacto
+P - Auditoria
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 7
+
+Valor(US$)
+66.264.985,60
+50.719.323,20
+158.640,00
+264.400,00
+
+2.651.403,20
+47.644.880,00
+14.653.048,00
+14.653.048,00
+892.614,40
+786.854,40
+
+105.760,00
+57.860.238,40
+7.276.288,00
+1.988.288,00
+5.288.000,00
+50.583.950,40
+48.628.448,00
+178.734,40
+1.776.768,00
+8.074.776,00
+1.322.000,00
+6.610.000,00
+89.896,00
+52.880,00
+132.200.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - EFICIENTIZAÇÃO DAS SOLUÇÕES DE DRENAGEM URBANA
+O desafio da promoção de soluções de drenagem resilientes é intensificado pela geografia de Porto Alegre. Porto Alegre situa-se
+na cota média de 10m em relação ao nível médio do mar. O corpo receptor final das 27 bacias hidrográficas urbanas (Anexo 1.3) é
+o Lago Guaíba, cujo nível apresenta grande variação em função do afluxo dos Rios Gravataí e Jacuí, do nível do mar e dos ventos
+intensos do Sul, dificultando o escoamento da água pluvial precipitada sobre o território do Município que pode chegar a
+permanecer de 15 a 20 dias nas áreas alagadas, como ruas e casas (SGB) (Anexo 2). Eventos históricos de alagamentos,
+inundações e enxurradas confirmam a vulnerabilidade hídrica do Município frente aos eventos intensos de chuvas que
+sobrecarregam o sistema de drenagem da cidade devido aos efeitos das mudanças climáticas.
+Um trágico exemplo foi a inundação de 2015 que superou o nível da cota de inundação do pior episódio já sofrido pelo Município
+ocorrido em 1941 e que, de acordo com estudos da Prefeitura, afetou cerca de 9.500 pessoas, principalmente a parcela mais
+vulnerável da população. Já nos anos de 2017 e 2022, eventos extremos provocaram óbitos no Arroio Moinho.
+Dados apontam que 6.101 domicílios ainda estão sujeitos a risco de inundação, enxurradas e alagamentos no Município, o que
+representa 1,1% dos domicílios existentes em Porto Alegre (Sistema Integrado de Informações sobre Desastres -S2ID).
+Outro fator que deve ser levado em consideração são os ciclones extratropicais que estão ocorrendo em maior frequência como
+em junho de 2023, provocando  chuvas com volumes extremos de 200 mm a 350 mm que caíram em poucas horas. O desastre
+afetou 2 milhões de pessoas, deixou 3,2 mil desabrigadas e ainda fez com que 4,3 mil pessoas ficassem desalojadas. Três meses
+depois, outro ciclone provocou maiores destruições e óbitos pelo Estado do que o observado no anterior. Um terceiro ciclone,
+culminou, no dia 27 de setembro de 2023, na cheia do Lago Guaíba causando o avanço das águas pela orla de Porto Alegre .
+Com os intensos e frequentes episódios de inundação, o Município ainda carece de maior estruturação  de instrumentos e
+planejamento para o gerenciamento dos riscos hidrológicos (MUNIC, 2020)decorrentes de eventos extremos.
+
+S - INTERVENÇÕES DE MACRODRENAGEM
+O objetivo deste subcomponente é dar continuidade na implementação das ações propostas pelo Plano Diretor de Drenagem
+Urbana (PDDU) de Porto Alegre com a implantação de obras de macrodrenagem resilientes às mudanças climáticas. As
+intervenções de macrodrenagem contemplarão a recuperação da capacidade de escoamento dos arroios Moinho, Cavalhada e
+Guabiroba por meio de soluções integradas de alargamento das seções, revestimento da calha para melhoria da velocidade de
+escoamento e amortecimento em reservatórios.
+
+P - Estudos de impacto das mudanças climáticas na hidrologia de POA
+Contratação de empresa para elaborar estudos de revisão do regime de chuvas da cidade de POA frente ao impacto das
+mudanças climáticas. O principal produto desta consultoria será redefinir a equação de intensidade de chuva - IDF a ser adotada
+para todos os novos projetos de drenagem no município.
+
+P - Estudos de macrodrenagem para fortalecer a infraestrutura existente frente o impacto das mudanças climáticas
+Contratação de empresa para elaborar estudos dos impactos das mudanças climáticas na macrodrenagem da cidade. Baseada na
+nova equação IDF, a consultora deverá elaborar a modelagem hidrodinâmica dos arroios urbanos calculando as vazões e cotas de
+nível d?água máximo e apresentando os mapas com as manchas de inundação para os diferentes tempos de recorrência.
+
+
+Página: 8
+
+P - Elaboração dos projetos de restauração das calhas dos Arroios
+Elaboração dos projetos de restauração das calhas dos Arroios Moinho, Cavalhada e Guabiroba. Contratação de empresa para
+elaborar os projetos de restauração das calhas dos arroios Moinho, Cavalhada e Guabiroba no âmbito do, considerando os
+resultados obtidos nos estudos de macrodrenagem como diretriz projetual.
+
+P - Execução de obras de macrodrenagem
+As intervenções propostas para o Arroio Moinho contemplam treze obras lineares e seis obras localizadas Anexo 1.6.
+As obras lineares, que incluem a canalização do arroio e a implantação de galerias e outros canais têm uma extensão total de 9.5
+km enquanto os seis reservatórios de amortecimento previstos têm um volume de 74 mil m³ tendo sido divididos em três conjuntos
+de obras.
+O primeiro conjunto tem o objetivo de conduzir as águas pluviais da sub-bacia B2 ao reservatório de amortecimento de águas
+pluviais proposto na Praça da Amizade.
+O segundo conjunto de intervenções consiste na solução de interceptar e desviar uma área de 26 hectares da bacia do Arroio
+Moinho direto para o Arroio Dilúvio. As demais intervenções desse conjunto conduzirão as águas pluviais da sub-bacia B5 até o
+reservatório fechado de 14 mil m³ sob a Praça Francisco Alves , para amortecimento, que posteriormente, serão destinadas até o
+curso principal do arroio Moinho.
+Por fim, o terceiro conjunto de intervenções é focada no próprio curso do Arroio Moinho e consistem no seu alargamento com
+revestimento do seu leito com colchão reno e gabião nas paredes além da implantação de quatro reservatórios de amortecimento.
+
+As intervenções para o Arroio Cavalhada situam-se no trecho entre Avenida Icaraí e foz do Arroio Passo Fundo, no Bairro Cristal,
+Anexo 1.7.
+É proposto para o Arroio Cavalhada uma combinação de cinco intervenções, sendo quatro obras lineares com uma extensão total
+de 1.360 m e uma obra localizada.
+A intervenção 1 do mapa, consiste na obra linear de Canalização e Diques do Arroio Cavalhada entre Av. Icaraí e foz do arroio
+Passo Fundo, trecho 02, no bairro Cristal, em Porto Alegre/RS, numa extensão de, aproximadamente, 620metros. Trata-se de
+canalização constituída de seção principal retangular de 15,00m de largura por 2,00m de altura do tipo aberto. Após, seguem
+bermas de 5,00m de largura até início do talude dos diques de proteção que possui cota de coroamento igual a 5,20m
+A intervenção 2 do mapa corresponde a uma obra linear de canal reservatório/coletor geral da margem esquerda do trecho 02.
+Constitui-se na implantação de galeria de concreto armado de seção retangular enterrada de dimensões aproximadas de 2,50x2,
+50m numa extensão de, aproximadamente, 450m, a ser executada na margem direita do arroio Cavalhada, à montante da Av.
+Icaraí, que operará como coletor geral e reservatório para o sistema de proteção da casa de bombas 11
+A intervenção 3 é uma obra linear para implantação de um conduto forçado na R. Cel. Timóteo para desviar a contribuição da bacia
+de montante diretamente ao arroio Cavalhada, isolando a área do pôlder através de galeria retangular de dimensões 1,50x1,50m,
+numa extensão de, aproximadamente 260m.
+A intervenção 4 corresponde a uma obra linear de implantação de coletor de macrodrenagem da R. Tamandaré em galeria de
+concreto armado enterrada de seção retangular de dimensões aproximadas de 1,50x1,50m numa extensão de, aproximadamente,
+300m.
+E por fim a intervenção 5 é uma obra localizada de demolição da ?pontes dos cavalos? já que a mesma é um ponto que gera
+restrição no escoamento do arroio aumentando a sua linha d´água.
+
+A intervenção para o Arroio Guabiroba se limitam a implantação de um canal de seção aproximada de 5.20 de largura por 1.30 m
+de profundidade com o objetivo de conduzir as águas pluviais precipitadas sobre a bacia do arroio.
+
+S - INTERVENÇÕES DE MICRODRENAGEM
+O objetivo deste subcomponente é integrar a solução de microdrenagem nas obras de macrodrenagem por meio da execução de
+redes de microdrenagem para a condução das águas pluviais até a calha dos arroios. Desta forma é completado o ciclo da gestão
+das águas urbanas.
+
+P - Execução de obras de microdrenagem
+Contratação de empresa para executar as obras de microdrenagem integradas às soluções de macrodrenagem. Ao longo dos três
+arroios deverão ser implantadas redes de microdrenagem com o objetivo de drenar as ruas e conduzir as águas pluviais de forma
+segura até os reservatórios previstos, galerias de macrodrenagem ou diretamente para a calha dos arroios.
+
+S - FORTALECIMENTO INSTITUCIONAL PARA RISCOS
+O objetivo deste subcomponente é integrar a gestão de riscos de desastres e resiliência à agenda de planejamento e execução
+das políticas urbanas do Município.
+As ações de integração se darão por meio da promoção da cooperação institucional bem como da elaboração de estudos para o
+mapeamento e identificação de áreas de riscos quanto a eventos hidrológicos, hídricos e geológicos todos compilados em uma
+mesma base de dados e manipulada por todos os agentes responsáveis pela implantação das políticas de infraestrutura,
+urbanismo, meio ambiente, segurança e saúde.
+
+P - Elaboração de planos e protocolos de prevenção, gestão e monitoramento de riscos de inundação, enxurrada e
+alagamento.
+Prevê a contratação de empresa para a elaboração de planos e protocolos junto aos órgãos responsáveis pelos temas de
+prevenção, gestão e monitoramento de riscos do Município.
+
+
+Página: 9
+
+P - Capacitação do corpo técnico
+Implementação de capacitação específica ao corpo técnico responsável pelos temas de prevenção, gestão e monitoramento de
+riscos do Município.
+
+C - INOVAÇÃO E MODERNIZAÇÃO DA GESTÃO
+Esse componente tem um custo estimado em EUR 49,710,725,00,00, cerca de 40% do valor do Projeto e tem como objetivo
+proporcionar moradia digna e dotada de infraestrutura a famílias que residem hoje às margens dos arroios.
+
+S - INFRAESTRUTURA URBANA
+O objetivo desse subcomponente é urbanizar as áreas onde as famílias serão reassentadas com implantação de rede de esgoto,
+pavimentação e equipamentos públicos.
+
+P - Esgotamento sanitário
+Execução das obras necessárias para a coleta de esgoto e encaminhamento para o tratamento atendendo também moradias que
+ainda carecem dessa infraestrutura ampliando a rede de cobertura da rede municipal existente. O objetivo deste produto é integrar
+as soluções de saneamento com esgotamento sanitário nas bacias dos arroios.
+
+P - Pavimentação
+xxxx
+
+S - REASSENTAMENTO
+Seu objetivo é o reassentamento de 1.359 famílias que se encontram em risco pois moram à margem de arroios. O
+reassentamento dessas famílias permitirá também a execução das intervenções em macrodrenagem.
+
+P - Atendimento habitacional
+Provisão de moradia digna e aumento da qualidade de vidas das famílias que serão reassentadas das áreas de vulnerabilidade
+que vivem próximas aos arroios de intervenção.
+
+P - Aluguel social
+O Aluguel Social é um benefício assistencial visando à transferência de recursos para famílias de baixa renda (i.e., renda mensal
+de zero a 3 salários-mínimos), regulamentado pelo Decreto n° 18.576/2014, que será pago mensalmente as famílias durante o
+tempo entre a saída da área a desocupar e o acesso a solução habitacional.
+
+P - Trabalho técnico-social (TTS)
+Realização do TTS, antes, durante e após a execução das intervenções, priorizando a participação social e a promoção da
+cidadania da população que vive nas áreas vulneráveis que serão atendidas pelo Programa.
+
+C - ADMINISTRAÇÃO DO PROGRAMA
+Este componente tem como objetivo fazer a gestão do programa com a criação da UGP, auditoria e avaliação das atividades
+executadas no âmbito do Programa.
+
+P - Unidade Gestora do Programa - UGP
+Este produto busca apoiar a estruturação da UGP com a provisão de elementos administrativos e operativos necessários para dar
+suporte ao desenvolvimento dos trabalhos. Este produto poderá contar com a contratação de consultorias de apoio operacional
+externa, que será definida junto ao organismo financiador.
+
+P - Supervisão das Obras do Programa
+Contratação de empresa de supervisão das obras a serem executadas no Programa.
+
+P - Avaliação de Impacto
+Contratação de empresa de consultoria e / ou consultoria individual especializados em realizar o monitoramento e avaliação do
+Programa durante a sua execução e avaliação ex-post, buscando avaliar a efetividade do Programa e o grau de atendimento das
+metas esperadas.
+
+P - Auditoria
+Execução das auditorias do Programa além do monitoramento e avaliação durante a execução e após a implementação das
+intervenções, buscando verificar a efetividade do Programa e o atendimento aos indicadores e metas propostas.
+
+
+Página: 10
+
+Categoria de Gasto
+
+Obras
+P- Execução de obras de macrodrenagem
+P- Execução de obras de microdrenagem
+P- Esgotamento sanitário
+P- Pavimentação
+Bens
+Consultoria
+P- Estudos de impacto das mudanças climáticas
+na hidrologia de POA
+P- Estudos de macrodrenagem para fortalecer a
+infraestrutura existente frente o impacto das
+mudanças climáticas
+P- Elaboração dos projetos de restauração das
+calhas dos Arroios
+P- Elaboração de planos e protocolos de
+prevenção, gestão e monitoramento de riscos de
+inundação, enxurrada e alagamento.
+Serviços que Não de Consultoria
+P- Atendimento habitacional
+Capacitação e Treinamento
+P- Capacitação do corpo técnico
+Outros
+P- Aluguel social
+P- Trabalho técnico-social (TTS)
+P- Unidade Gestora do Programa - UGP
+P- Supervisão das Obras do Programa
+P- Avaliação de Impacto
+P- Auditoria
+Total Geral
+
+Unidade de medida
+-
+Percentual
+Percentual
+Percentual
+Percentual
+-
+-
+Percentual
+
+Percentual
+
+Percentual
+
+Percentual
+
+-
+Percentual
+-
+Percentual
+-
+Percentual
+Percentual
+Percentual
+Percentual
+Percentual
+Percentual
+-
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Os projetos e etapas já realizadas são:
+
+a.Definição dos arroios a serem intervindos pelo Programa.
+
+Meta
+
+Valor
+
+% Financeiro
+
+-
+100,00
+100,00
+100,00
+100,00
+-
+-
+100,00
+
+100,00
+
+100,00
+
+100,00
+
+-
+100,00
+-
+100,00
+-
+100,00
+100,00
+100,00
+100,00
+100,00
+100,00
+-
+
+69.574.216,00
+47.644.880,00
+14.653.048,00
+1.988.288,00
+5.288.000,00
+0,00
+3.861.297,60
+158.640,00
+
+264.400,00
+
+2.651.403,20
+
+786.854,40
+
+48.628.448,00
+48.628.448,00
+105.760,00
+105.760,00
+10.030.278,40
+178.734,40
+1.776.768,00
+1.322.000,00
+6.610.000,00
+89.896,00
+52.880,00
+132.200.000,00
+
+52,63
+36,04
+11,08
+1,50
+4,00
+0,00
+2,92
+0,12
+
+0,20
+
+2,01
+
+0,60
+
+36,78
+36,78
+0,08
+0,08
+7,59
+0,14
+1,34
+1,00
+5,00
+0,07
+0,04
+100,00
+
+Foram definidos e avaliados onze critérios de seleção para facilitar a priorização das bacias hidrológicas a serem incluídos no Programa.
+Sendo eles: i. riscos de enxurradas; ii. riscos de inundação; iii. viabilidade de soluções baseadas na natureza; iv. menor necessidade de
+reassentamento; v. cobertura de sistemas separadores já implantados; vi. disponibilidade de infraestrutura básica (inclui macrodrenagem);
+vii. N° de domicílios ligados a rede de esgoto; viii. Disponibilidade de interceptores e elevatórias de esgoto; ix. Capacidade de tratamento
+de esgoto implantado; x. população beneficiada; xii. Maior impacto na redução de custos de O&M. A análise detalhada dos arroios
+analisados e os resultados da análise estão no Anexo.
+
+b.Elaboração dos projetos para as obras de engenharia
+
+Tratam-se de projetos com diferentes estágios de desenvolvimento.
+
+Para o Arroio Moinho dispõe-se de anteprojetos elaborados em 2002. A atualização dos anteprojetos e a elaboração de projetos em nível
+básico já se encontram em processo de contratação pelo DMAE, com prazo de conclusão ao final de 2024.
+
+Referentemente ao Arroio Cavalhada o DMAE possui projetos básicos elaborados em 2003 e complementados em 2014 que necessitam
+levantamento atualizado de quantitativos e atualização dos orçamentos dentro dos padrões e regras atuais de contratação de obras. O
+DMAE prevê cumprimento dessa etapa com equipe técnica própria até 30/06/24.
+
+Com relação ao Arroio Guabiroba, há projeto de engenharia em nível básico datado de 2017 mas que carece de revisão de quantitativos e
+atualização dos orçamentos dentro dos padrões e regras atuais de contratação de obras. O DMAE prevê cumprimento dessa etapa com
+equipe técnica própria até final de 2024.
+
+De forma geral, busca-se garantir a qualidade dos projetos e obras com concepções baseadas na natureza, para que melhor se adaptem
+ao meio ambiente, com especificação de materiais de construção conformes, duráveis e sustentáveis ambientalmente
+
+Caso os orçamentos das intervenções extrapolem os recursos contratados pelo Programa já há estratégias por parte da Prefeitura, quer
+seja de aumento da parcela de contrapartidas através de compromisso de execução de alguma parte das intervenções pelo DMAE, quer
+seja pela priorização entre os Arroios objetivando atender aqueles que alcancem maior população beneficiada.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 11
+
+A primeira fase de obras de macrodrenagem no Arroio Cavalhada foi realizada no Programa PISA, e para a segunda fase serão licitados
+os projetos executivos que estimam ser finalizados no início de 2024.
+
+c.Sistema de Proteção Contra Cheias de Porto Alegre (SPCC-POA).
+
+O SPCC-POA foi projetado para a cota de 6,0m em relação ao nível médio do mar, que representa 1,25m acima da cota da cheia de 1941,
+e consiste em diques, do Muro da Avenida Mauá, de Estações de Bombeamento de Águas Pluviais (EBAPs) e de condutos forçados.
+Atualmente contempla a área compreendida entre as bacias do arroio Santo Agostinho, ao nordeste do município, e do arroio Cavalhada,
+ao sudoeste. E estudos foram realizados para a contratação de tecnologia para automatização do SPCC ? POA que será contratado. A
+automação desse sistema permitirá maior eficiência na prevenção, gestão e monitoramento dos riscos atrelados aos processos
+hidrológicos.
+
+d.Plano Diretor de Macrodrenagem
+
+A atualização e complementação do PDDRU-POA serão iniciadas durante a fase de preparação do Programa e nortearão a definição das
+soluções de macrodrenagem nos arroios. Atualmente a contratação da revisão do PDDRU está em processo de licitação.
+
+e.Reassentamentos em programas anteriores
+
+Programa Integrado Socioambiental - PISA: Foram reassentadas 1.314 famílias que viviam em situação de risco à margem do Arroio
+Cavalhada no bairro Cristal e realizadas as seguintes obras: construção de creche para 120 crianças; coletores terrestres e fluviais de
+esgoto cloacal, e uma estação de tratamento terciário; obras de macrodrenagem e duas novas estações de bombeamento de águas
+pluviais; infraestrutura viária; e a implantação de uma nova unidade ambiental de conservação na Zona Sul da capital gaúcha. As obras
+iniciaram em 2007 e finalizaram em 2015, pelo sistema de esgotamento sanitário do bairro Restinga, e se espalharam por inúmeras
+frentes de trabalho nas regiões central e sul da cidade.
+
+f.Projeto Nazaré: Realizou o reassentamento de 1.297 famílias da Vila Nazaré, finalizado em 2022.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Municipal
+MUNICIPIO DE  PORTO ALEGRE(RS)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+A Operação de crédito externo a ser contratada com o Banco Alemão Kreditanstalt Für Wiederaufbau ? KFW, contempla as seguintes
+condições:
+
+a.Prazo de desembolso : 60 meses
+
+b.Prazo de carência: 60 meses
+
+c.Prazo de amortização: 120 meses
+
+d.Prazo total: 180 meses
+
+e.Periodicidade da amortização: semestral
+
+f.Taxa de juros:
+
+Taxa de juros variável
+
+i.A taxa variável de juros do empréstimo será baseada no EURIBOR de 6 meses mais uma margem. A margem será determinada na
+ocasião da assinatura do contrato do empréstimo. A taxa de juros variável, no entanto, será sempre de pelo menos 0% ao ano.
+
+ii.Conversão: após o desembolso total, o Mutuário tem o direito único de conversão para uma taxa de juros fixa para o valor total do
+empréstimo, enquanto a reconversão de uma taxa de juros fixa para variável está excluída.
+
+iii.A taxa variável de juros dessa oferta indicativa para um empréstimo em EUR monta em 6M EURIBOR + 0,42 % por ano.Comissão de
+Compromisso: 0,25% anual (a ser paga sobre o montante ainda não desembolsado, semestralmente os dias 15 de maio e 15 de
+novembro de cada ano a partir do terceiro mês após assinatura do contrato, com pagamentos semestrais)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 12
+
+h.Comissão de Financiamento: 0,5% flat (taxa única, sobre o montante emprestado, a ser paga dentro de três meses após assinatura do
+contrato ou, no mais tardar, antes do primeiro pagamento)
+
+i.Tipo de Operação: Empréstimo com juros subsidiados no âmbito da Cooperação Financeira Oficial entre a Alemanha e o Brasil de até
+100 milhões de EUR (ou valor equivalente em USD) para o financiamento do projeto de ?drenagem urbana e proteção contra inundações
+para aumentar a resiliência as mudanças climáticas de Porto Alegre?.
+
+(ii) Necessidade de Financiamento Externo:
+
+a)A opção pelo financiamento externo em detrimento ao financiamento interno se verifica por apresentar um custo financeiro menor
+
+e condições de financiamentos melhores que os financiamentos nacionais, tais como, período de carência e amortização.
+
+b) Em relação a outros agentes internacionais as condições de financiamento são similares, todavia o kfw apresentou ao município prazos
+e flexibilidade nas negociações do objeto do financiamento, tornando-se uma
+
+operação atrativa para a Prefeitura de Porto Alegre.
+
+c) COMPARATIVO COM AGENTES FINANCEIROS INTERNOS:
+
+Caixa Econômica
+
+-Prazo total: 120 meses;
+
+-Prazo de carência: 24 meses;
+
+-Prazo de amortização: 96 meses;
+
+-Taxa concedida: 131,13% de CDI a.a;
+
+-Demais Encargos: Tarifa de Customização: 2%;
+
+BRB
+
+-Prazo total: 120 meses;
+
+-Prazo de carência: 12 meses;
+
+-Prazo de amortização: 108 meses;
+
+-Taxa concedida: 115% de CDI a.a.;
+
+-Demais Encargos: Tarifa de 1% sobre o valor do financiamento + Tarifa de 0,5% a.a sobre o saldo não desembolsado;
+
+Caixa Econômica
+
+-Prazo total: 120 meses;
+
+-Prazo de carência: 24 meses;
+
+Ministério da Economia 22/08/2023 - 12:03
+
+Secretaria de Assuntos Econômicos Internacionais - SAIN
+
+Resumo Carta Consulta Nº 61005 Página: 20
+
+-Prazo de amortização: 96 meses;
+
+-Taxa concedida: 131,13% de CDI a.a;
+
+-Demais Encargos: Tarifa de Customização: 2%;
+
+COMPARATIVO COM AGENTES FINANCEIROS EXTERNOS:
+
+NDB
+
+(cid:10)
+
+
+Página: 13
+
+a) Prazo de desembolso: 60 meses
+
+b) Prazo de carência: 60 meses
+
+c) Prazo de amortização: 180 meses
+
+d) Prazo total: 240 meses
+
+e) Periodicidade da amortização: semestral
+
+f) Taxa de juros: 1,19847% a.a. + taxa SOFR (semestral)
+
+g) Demais encargos e comissões: 0,25% do saldo não desembolsado.
+
+h) Tipo de Operação: Empréstimo para Projeto/ Project Loan
+
+f)Taxa de juros: taxa SOFR (semestral) + spread de 1,1984736928% a.a. + taxa SOFR (semestral), spread variável e informado a cada
+
+semestre.
+
+Banco Mundial
+
+-Prazo total: 216 meses;
+
+-Prazo de carência: 60 meses;
+
+-Prazo de amortização: 156 meses;
+
+-Taxa concedida: SOFR semestral + 1,37%
+
+-Demais Encargos: Comissão Inicial de 0,25% sobre valor do empréstimo, Comissão de compromisso de 0,25% sobre saldo não
+
+desembolsado; Sobretaxa de 0,5% pode ser aplicada.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+Os beneficiários diretos das ações do Programa são a população da área de abrangência das bacias de drenagem dos arroios.
+
+Para além dos beneficiários diretos mencionados, foram identificadas abaixo os benefícios diretos ao projeto que se espera alcançar que
+são compatíveis com os temas elencados no item 4, do Anexo à Resolução COFIEX 17/2021, de 07 de junho de 2021, como indicado:
+
+(i) A redução dos eventos de inundação e enxurradas no Município, bem como os alagamentos nas áreas mais vulneráveis da cidade,
+atreladas às soluções adequadas de macrodrenagem e ao fortalecimento da instituição com relação a prevenção, gestão e monitoramento
+dos riscos e desastres estão alinhadas com as áreas estratégias de promoção da sustentabilidade ambiental, incluindo ações de
+adaptação e mitigação (1.1), gestão integrada de recursos hídricos (1.4), melhoria e/ou inovação em processos de prestação de serviços
+públicos, de gestão e/ou de participação cidadã (1.12).
+
+(ii) A melhoria das condições de infraestrutura urbana e a consequente ampliação dos serviços trarão benefícios à população vulnerável,
+portanto, essa ação se alinha com as áreas estratégicas de implantação e ampliação de ações de saneamento básico (1.3), que neste
+caso por seguir a premissa de soluções baseadas na natureza, também se alinha com a promoção da sustentabilidade ambiental (1.1), a
+provisão de infraestrutura para populações de baixa renda e vulneráveis (1.9), melhoria e/ou inovação em processos de participação
+cidadã (1.12) tendo em vista que a participação da população nas etapas de projeto.
+
+(iii) O atendimento habitacional proporcionará a redução das desigualdades sociais presentes nas áreas de risco onde o Programa atuará,
+principalmente pela oferta de moradia digna, de qualidade, sustentável ambientalmente (adaptada ao clima local, com equipamentos de
+menor consumo de energia e água) para reduzir os custos de moradia e buscando aproximar a população beneficiada aos serviços
+essenciais, como educação, saúde, trabalho e lazer. Portanto as áreas estratégias destacadas neste eixo são promoção da
+sustentabilidade ambiental, incluindo ações de adaptação e mitigação (1.1), eficiência energética, geração e/ou uso de energia de fontes
+renováveis (1.2), a provisão de infraestrutura e equipamentos sociais para populações de baixa renda e vulneráveis (1.9), ações de
+inclusão de minorias sociais entre os beneficiários (1.10), com a capacitação da população atendida pelo TTS e melhoria e/ou inovação
+em processos de participação cidadã (1.12).
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 14
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+KfW Entwicklungsbank
+Total:
+
+Sigla
+
+CF
+Sigla
+
+KfW
+
+Moeda
+
+?
+Moeda
+
+?
+
+Valor Proposto
+
+25.000.000,00
+Valor Proposto
+
+100.000.000,00
+125.000.000,00
+
+Taxa de
+Câmbio
+1,06
+Taxa de
+Câmbio
+1,06
+
+Valor de Referência US
+$
+26.440.000,00
+Valor de Referência US
+$
+105.760.000,00
+132.200.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+A Matriz de Responsabilidade Institucional (Matriz RACI) está no Anexo 6.
+
+O mutuário para esta operação será a Prefeitura Municipal de Porto Alegre (PMPA), cabendo à Secretaria Municipal de Planejamento e
+Assuntos Estratégicos (SMPAE) a supervisão e a coordenação do Programa por meio da Unidade Gestora do Programa ? UGP.
+
+No Desenho Institucional da PMPA cabe, a SMPAE a coordenação do Planejamento Estratégico, a Gestão do Governo, - formular,
+integrar, coordenar e acompanhar projetos estratégicos, considerando a transversalidade, a relevância e a prioridade dos assuntos
+tratados, e a sistemática de monitoramento dos resultados das políticas municipais.
+
+Arranjo Institucional para a Etapa da Preparação do Programa:
+
+Consoante as atribuições da SMPAE, o arranjo de preparação proposto contará com uma Unidade de Preparação do Programa (UPP)
+formada por servidores públicos que executarão as principais atividades para a implementação do projeto, considerando-se a (i)
+coordenação geral da DCRPF da SMPAE, (ii) a participação de todas as secretarias envolvidas. A UPP contará, ainda com a alocação de
+consultorias especializadas e com expertises nos temas de que tratam os subcomponentes do projeto, Esta UPP contará, também, com o
+apoio de técnicos e consultores da KfW, responsáveis pela Preparação do Programa junto ao Banco, nos temas de que tratam os
+subcomponentes do projeto.
+
+Arranjo Institucional para a Execução do Programa:
+
+O arranjo de execução proposto contará com uma Unidade Gestora do Programa, situada na Diretoria da Captação de Recursos e
+Programa de Financiamento (DCRPF-SMPAE), com atribuição de gerenciamento do contrato de financiamento. Esta Unidade Gestora
+Central será formada por servidores públicos que executarão as principais atividades de gerenciamento do Programa considerando-se: (i)
+coordenação geral; (ii) coordenação técnico-administrativa. (iii) coordenação de licitações; (iV) coordenação fiduciária/financeira. A UGP
+contará, ainda, com a alocação de consultorias especializadas de gerenciamento do projeto e com expertise nas diferentes fases/etapas
+de gerenciamento do programa, com atenção especial para aquisições/licitações internacionais, gerenciamento fiduciário e auditorias,
+monitoramento, avaliações ex-ante e ex-post, licenciamento, e demais temas afetos aos subprogramas.
+
+No nível operacional o projeto contará com atividades dos diversos órgãos municipais, de acordo com a organização administrativa-
+institucional desenhada pela atual administração municipal, estruturada por eixo de gestão, conforme segue:
+
+- Eixo Gestão dos Serviços Públicos conta com o envolvimento do Departamento Municipal de Água e Esgotos- DMAE, Secretaria
+Municipal de Obras e Infraestrutura - SMOI, Secretaria Municipal de Meio Ambiente e Urbanismo ? SMAMUS; Secretaria Municipal de
+Mobilidade Urbana - SMMU, que estarão vinculadas com as obras dos subcomponentes ?S?: - Intervenções de macrodrenagem;
+Intervenções de microdrenagem; Fortalecimento institucional para riscos; e Infraestrutura urbana.
+
+- Eixo de Desenvolvimento Social conta com o envolvimento da Secretaria Municipal de Habitação e Regularização Fundiária e o
+Departamento Municipal de Habitação responsável pelo subcomponente ?S? de Reassentamento.
+
+- Eixo de Gestão Eficiência da Máquina Pública conta com as Secretaria Municipal da Fazenda - SMF, Secretaria Municipal da
+Administração e Patrimônio - SMAP e Procuradoria Geraldo Município - PGM, que terão responsabilidades sobre os processos licitatórios
+e fiduciários do Programa. Importa destacar que a Secretaria Municipal de Planejamento e Assuntos Estratégicos ? SMPAE.
+
+O DMAE, dentro de sua atual estrutura operacional e de funcionários, providenciará todos os projetos de engenharia, licenças ambientais
+e alvarás necessários para as licitações das obras. Também será de responsabilidade do DMAE, com o suporte da contratação de uma
+empresa de consultoria para a supervisão das obras, o acompanhamento, fiscalização e pagamentos das faturas mensais das obras. O
+DMAE reportará mensalmente à UGP o andamento das obras bem como quaisquer dificuldades encontradas para a consecução das
+mesmas.
+
+
+Página: 15
+
+Por sua vez o DEMHAB estruturará uma Unidade de Gerenciamento Local (UGL) dentro da sua composição atual com a mobilização de
+profissionais com o objetivo de executar e acompanhar todas as atividades relacionadas ao rereassentamento do Programa. Também
+competirá ao DEMHAB, por meio dessa UGL, reportar mensalmente a UGP o andamento das obras do seu componente bem como
+quaisquer dificuldades encontradas para a consecução das mesmas.
+
+Durante a execução do Programa a UCP contará com a presença de gestores de projetos ocupando a função de pontos focais em cada
+um dos órgãos de suas respectivas competências para execução dos produtos, conforme descrito na Matriz de Responsabilidade
+Institucional.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Prefeitura Municipal de Porto Alegre - RS
+
+Representante Oficial: Sebastião Melo
+
+Endereço da Sede: Rua General João Manoel, 157 - 17º andar
+E-mail Institucional:
+
+Telefone: 51 32893555
+
+CNPJ: 92963560000160
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+C - EFICIENTIZAÇÃO DAS SOLUÇÕES DE DRENAGEM URBANA
+
+S - INTERVENÇÕES DE MACRODRENAGEM
+
+P - Estudos de impacto das mudanças climáticas na hidrologia de POA
+
+COMPONENTES
+
+P - Estudos de macrodrenagem para fortalecer a infraestrutura existente frente o impacto das
+mudanças climáticas
+P - Elaboração dos projetos de restauração das calhas dos Arroios
+
+P - Execução de obras de macrodrenagem
+
+S - INTERVENÇÕES DE MICRODRENAGEM
+
+P - Execução de obras de microdrenagem
+
+S - FORTALECIMENTO INSTITUCIONAL PARA RISCOS
+
+P - Elaboração de planos e protocolos de prevenção, gestão e monitoramento de riscos de
+inundação, enxurrada e alagamento.
+P - Capacitação do corpo técnico
+
+VALOR
+
+CUSTO
+
+66.264.985,60
+
+50.719.323,20
+
+158.640,00
+
+264.400,00
+
+2.651.403,20
+
+47.644.880,00
+
+14.653.048,00
+
+14.653.048,00
+
+892.614,40
+
+786.854,40
+
+105.760,00
+
+Fax:
+UF:
+
+Ano 1
+
+FONTES
+
+CF
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+KfW
+
+1.585.078,00
+
+1.085.890,80
+
+158.640,00
+
+264.400,00
+
+662.850,80
+
+0,00
+
+0,00
+
+0,00
+
+499.187,20
+
+393.427,20
+
+105.760,00
+
+C - INOVAÇÃO E MODERNIZAÇÃO DA GESTÃO
+
+57.860.238,40
+
+3.682.880,48
+
+7.855.324,00
+
+S - INFRAESTRUTURA URBANA
+
+P - Esgotamento sanitário
+
+P - Pavimentação
+
+S - REASSENTAMENTO
+
+P - Atendimento habitacional
+
+P - Aluguel social
+
+P - Trabalho técnico-social (TTS)
+
+C - ADMINISTRAÇÃO DO PROGRAMA
+
+P - Unidade Gestora do Programa - UGP
+
+P - Supervisão das Obras do Programa
+
+P - Avaliação de Impacto
+
+P - Auditoria
+
+7.276.288,00
+
+1.988.288,00
+
+5.288.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+50.583.950,40
+
+3.682.880,48
+
+7.855.324,00
+
+48.628.448,00
+
+3.647.133,60
+
+6.078.556,00
+
+178.734,40
+
+35.746,88
+
+0,00
+
+1.776.768,00
+
+0,00
+
+1.776.768,00
+
+8.074.776,00
+
+1.586.400,00
+
+1.322.000,00
+
+264.400,00
+
+6.610.000,00
+
+1.322.000,00
+
+89.896,00
+
+52.880,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+KfW
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+5.269.280,48
+
+9.440.402,00
+
+0,00
+
+0,00
+
+C - EFICIENTIZAÇÃO DAS SOLUÇÕES DE DRENAGEM URBANA
+
+S - INTERVENÇÕES DE MACRODRENAGEM
+
+P - Estudos de impacto das mudanças climáticas na hidrologia de POA
+
+COMPONENTES
+
+P - Estudos de macrodrenagem para fortalecer a infraestrutura existente frente o impacto das
+mudanças climáticas
+P - Elaboração dos projetos de restauração das calhas dos Arroios
+
+P - Execução de obras de macrodrenagem
+
+S - INTERVENÇÕES DE MICRODRENAGEM
+
+P - Execução de obras de microdrenagem
+
+S - FORTALECIMENTO INSTITUCIONAL PARA RISCOS
+
+P - Elaboração de planos e protocolos de prevenção, gestão e monitoramento de riscos de
+inundação, enxurrada e alagamento.
+P - Capacitação do corpo técnico
+
+VALOR
+
+CUSTO
+
+CF
+
+Ano 2
+
+FONTES
+
+KfW
+
+10.077.077,20
+
+6.753.040,40
+
+0,00
+
+0,00
+
+1.988.552,40
+
+4.764.488,00
+
+2.930.609,60
+
+2.930.609,60
+
+393.427,20
+
+393.427,20
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+C - INOVAÇÃO E MODERNIZAÇÃO DA GESTÃO
+
+5.524.320,72
+
+10.573.091,60
+
+TOTAL
+
+CF
+
+TOTAL
+
+KfW
+
+
+Página: 16
+
+S - INFRAESTRUTURA URBANA
+
+P - Esgotamento sanitário
+
+P - Pavimentação
+
+S - REASSENTAMENTO
+
+P - Atendimento habitacional
+
+P - Aluguel social
+
+P - Trabalho técnico-social (TTS)
+
+C - ADMINISTRAÇÃO DO PROGRAMA
+
+P - Unidade Gestora do Programa - UGP
+
+P - Supervisão das Obras do Programa
+
+P - Avaliação de Impacto
+
+P - Auditoria
+
+0,00
+
+0,00
+
+0,00
+
+1.455.257,60
+
+397.657,60
+
+1.057.600,00
+
+5.524.320,72
+
+9.117.834,00
+
+5.470.700,40
+
+9.117.834,00
+
+53.620,32
+
+0,00
+
+1.599.620,00
+
+264.400,00
+
+1.322.000,00
+
+0,00
+
+13.220,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+7.123.940,72
+
+20.650.168,80
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+KfW
+
+C - EFICIENTIZAÇÃO DAS SOLUÇÕES DE DRENAGEM URBANA
+
+S - INTERVENÇÕES DE MACRODRENAGEM
+
+P - Estudos de impacto das mudanças climáticas na hidrologia de POA
+
+COMPONENTES
+
+P - Estudos de macrodrenagem para fortalecer a infraestrutura existente frente o impacto das
+mudanças climáticas
+P - Elaboração dos projetos de restauração das calhas dos Arroios
+
+P - Execução de obras de macrodrenagem
+
+S - INTERVENÇÕES DE MICRODRENAGEM
+
+P - Execução de obras de microdrenagem
+
+S - FORTALECIMENTO INSTITUCIONAL PARA RISCOS
+
+P - Elaboração de planos e protocolos de prevenção, gestão e monitoramento de riscos de
+inundação, enxurrada e alagamento.
+P - Capacitação do corpo técnico
+
+C - INOVAÇÃO E MODERNIZAÇÃO DA GESTÃO
+
+S - INFRAESTRUTURA URBANA
+
+P - Esgotamento sanitário
+
+P - Pavimentação
+
+S - REASSENTAMENTO
+
+P - Atendimento habitacional
+
+P - Aluguel social
+
+P - Trabalho técnico-social (TTS)
+
+C - ADMINISTRAÇÃO DO PROGRAMA
+
+P - Unidade Gestora do Programa - UGP
+
+P - Supervisão das Obras do Programa
+
+P - Avaliação de Impacto
+
+P - Auditoria
+
+VALOR
+
+CUSTO
+
+CF
+
+Ano 3
+
+FONTES
+
+KfW
+
+20.154.683,20
+
+14.293.464,00
+
+0,00
+
+0,00
+
+0,00
+
+14.293.464,00
+
+5.861.219,20
+
+5.861.219,20
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+5.457.268,88
+
+11.878.698,80
+
+0,00
+
+0,00
+
+0,00
+
+2.711.686,40
+
+596.486,40
+
+2.115.200,00
+
+5.457.268,88
+
+9.167.012,40
+
+5.421.522,00
+
+9.167.012,40
+
+35.746,88
+
+0,00
+
+1.599.620,00
+
+264.400,00
+
+1.322.000,00
+
+0,00
+
+13.220,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+7.056.888,88
+
+32.033.382,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+KfW
+
+C - EFICIENTIZAÇÃO DAS SOLUÇÕES DE DRENAGEM URBANA
+
+S - INTERVENÇÕES DE MACRODRENAGEM
+
+P - Estudos de impacto das mudanças climáticas na hidrologia de POA
+
+COMPONENTES
+
+P - Estudos de macrodrenagem para fortalecer a infraestrutura existente frente o impacto das
+mudanças climáticas
+P - Elaboração dos projetos de restauração das calhas dos Arroios
+
+P - Execução de obras de macrodrenagem
+
+S - INTERVENÇÕES DE MICRODRENAGEM
+
+P - Execução de obras de microdrenagem
+
+S - FORTALECIMENTO INSTITUCIONAL PARA RISCOS
+
+P - Elaboração de planos e protocolos de prevenção, gestão e monitoramento de riscos de
+inundação, enxurrada e alagamento.
+P - Capacitação do corpo técnico
+
+C - INOVAÇÃO E MODERNIZAÇÃO DA GESTÃO
+
+S - INFRAESTRUTURA URBANA
+
+P - Esgotamento sanitário
+
+P - Pavimentação
+
+S - REASSENTAMENTO
+
+P - Atendimento habitacional
+
+P - Aluguel social
+
+P - Trabalho técnico-social (TTS)
+
+C - ADMINISTRAÇÃO DO PROGRAMA
+
+VALOR
+
+CUSTO
+
+CF
+
+Ano 4
+
+FONTES
+
+KfW
+
+24.919.171,20
+
+19.057.952,00
+
+0,00
+
+0,00
+
+0,00
+
+19.057.952,00
+
+5.861.219,20
+
+5.861.219,20
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.859.313,68
+
+5.750.964,40
+
+0,00
+
+0,00
+
+0,00
+
+2.711.686,40
+
+596.486,40
+
+2.115.200,00
+
+1.859.313,68
+
+3.039.278,00
+
+1.823.566,80
+
+3.039.278,00
+
+35.746,88
+
+0,00
+
+1.599.620,00
+
+0,00
+
+0,00
+
+0,00
+
+
+Página: 17
+
+P - Unidade Gestora do Programa - UGP
+
+P - Supervisão das Obras do Programa
+
+P - Avaliação de Impacto
+
+P - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+264.400,00
+
+1.322.000,00
+
+0,00
+
+13.220,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.458.933,68
+
+30.670.135,60
+
+0,00
+
+0,00
+
+C - EFICIENTIZAÇÃO DAS SOLUÇÕES DE DRENAGEM URBANA
+
+S - INTERVENÇÕES DE MACRODRENAGEM
+
+P - Estudos de impacto das mudanças climáticas na hidrologia de POA
+
+COMPONENTES
+
+P - Estudos de macrodrenagem para fortalecer a infraestrutura existente frente o impacto das
+mudanças climáticas
+P - Elaboração dos projetos de restauração das calhas dos Arroios
+
+P - Execução de obras de macrodrenagem
+
+S - INTERVENÇÕES DE MICRODRENAGEM
+
+P - Execução de obras de microdrenagem
+
+S - FORTALECIMENTO INSTITUCIONAL PARA RISCOS
+
+P - Elaboração de planos e protocolos de prevenção, gestão e monitoramento de riscos de
+inundação, enxurrada e alagamento.
+P - Capacitação do corpo técnico
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+KfW
+
+9.528.976,00
+
+9.528.976,00
+
+0,00
+
+0,00
+
+0,00
+
+9.528.976,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+KfW
+
+66.264.985,60
+
+50.719.323,20
+
+158.640,00
+
+264.400,00
+
+2.651.403,20
+
+47.644.880,00
+
+14.653.048,00
+
+14.653.048,00
+
+892.614,40
+
+786.854,40
+
+105.760,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+C - INOVAÇÃO E MODERNIZAÇÃO DA GESTÃO
+
+1.841.440,24
+
+3.436.935,60
+
+18.365.224,00
+
+39.495.014,40
+
+S - INFRAESTRUTURA URBANA
+
+P - Esgotamento sanitário
+
+P - Pavimentação
+
+S - REASSENTAMENTO
+
+P - Atendimento habitacional
+
+P - Aluguel social
+
+P - Trabalho técnico-social (TTS)
+
+C - ADMINISTRAÇÃO DO PROGRAMA
+
+P - Unidade Gestora do Programa - UGP
+
+P - Supervisão das Obras do Programa
+
+P - Avaliação de Impacto
+
+P - Auditoria
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+0,00
+
+0,00
+
+0,00
+
+397.657,60
+
+397.657,60
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+7.276.288,00
+
+1.988.288,00
+
+5.288.000,00
+
+1.841.440,24
+
+3.039.278,00
+
+18.365.224,00
+
+32.218.726,40
+
+1.823.566,80
+
+3.039.278,00
+
+18.186.489,60
+
+30.441.958,40
+
+17.873,44
+
+0,00
+
+1.689.516,00
+
+264.400,00
+
+1.322.000,00
+
+89.896,00
+
+13.220,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+178.734,40
+
+0,00
+
+0,00
+
+1.776.768,00
+
+8.074.776,00
+
+1.322.000,00
+
+6.610.000,00
+
+89.896,00
+
+52.880,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+132.200.000,00
+
+3.530.956,24
+
+12.965.911,60
+
+26.440.000,00
+
+105.760.000,00
+
+(ii e iii) Os riscos de ordem legal e institucional ocorrem ao longo do tempo de execução do Programa e, na maioria dos casos, são
+mitigáveis.
+
+Riscos: Não elegibilidade da proposta de Porto Alegre pela COFIEX devido à grande concorrência com outros municípios e estados na
+busca de operações de crédito e à limitada disponibilidade de recursos garantidos pela União.
+
+Mitigação: Qualificação na elaboração da Carta Consulta buscando o alinhamento com os critérios de elegibilidade da COFIEX e
+garantindo atendimento da necessidade de investimentos no município.
+
+Após a aprovação da Carta Consulta pela COFIEX será submetida ao legislativo municipal a lei autorizativa para a contratação da
+operação de crédito com aval da União.
+
+O Programa demandará um amplo processo de articulação institucional tendo em vista a necessidade de realizar desapropriações e
+reassentamentos involuntários. Portanto, uma série de medidas mitigadoras precisarão ser implementadas que necessitarão o
+envolvimento de Instituições ou Órgãos como:
+
+- Secretaria Municipal de Habitação e Regularização Fundiária (SMHARF);
+
+- Departamento Municipal de Habitação de Porto Alegre (DEMHAB);
+
+- Secretaria Municipal de Serviços Urbanos (SMSUrb);
+
+- Secretaria Municipal de Obras e Infraestrutura (SMOI);
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 18
+
+- Secretaria Municipal de Desenvolvimento Econômico e Turismo (SMDET);
+
+- Secretaria Municipal de Mobilidade Urbana (SMMU)
+
+- Secretaria Municipal de Meio Ambiente, Urbanismo e Sustentabilidade (SMAMUS);
+
+- Secretaria Municipal de Desenvolvimento Social (SMDS); e
+
+- Fundação de Assistência Social e Cidadania (FASC).
+
+Além disso, outros atores podem se tornar relevantes durante a execução do Programa, principalmente em casos de conflitos que não
+sejam devidamente resolvidos entre o empreendedor e a população afetada pelos potenciais impactos das desapropriações e
+reassentamentos, neste sentido destacam-se:
+
+- Ministério Público do Rio Grande do Sul (MPRS). Instituição que defende os interesses sociais e individuais indisponíveis, além de zelar
+pela correta aplicação das leis e pela garantia do Estado Democrático de Direito. Tem ainda a atribuição de defender os interesses da
+coletividade, como o direito à saúde, à educação e ao meio ambiente preservado, por exemplo. Também é função do MPRS, a defesa da
+vida, dos direitos das crianças, adolescentes, idosos e incapazes;
+
+- Defensoria Pública do Estado do Rio Grande do Sul. Instituição que tem como atribuição oferecer orientação jurídica, promover os
+direitos humanos e a defesa, em todos os graus, judicial e extrajudicial, dos direitos individuais e coletivos, de forma integral e gratuita, às
+pessoas em situação de vulnerabilidade econômica, social ou jurídica, de conformidade com o artigo 134 da Constituição Federal.
+
+De modo a formalizar a articulação institucional comentada será realizado um Plano de Gerenciamento das Partes Interessadas, com a
+elaboração de uma Matriz das Partes Interessadas, mapeando os agentes que podem afetar ser afetados ou perceber que serão afetados
+positivamente ou negativamente por uma atividade ou projeto. Portanto, é necessário identificar os agentes, analisar as expectativas das
+partes interessadas e seu impacto sobre o projeto e desenvolver estratégias de gerenciamento para engajar os agentes nas decisões e na
+execução do projeto. Por meio dessa articulação bem mapeada e comunicada, busca-se reduzir riscos gerais relacionados à falta de
+articulação que impossibilitarão ou atrasarão as atividades do Programa.
+
+O Programa também está alinhado com o ao Plano Diretor de Desenvolvimento Urbano Ambiental(PDDUA), Plano Plurianual 2022 - 2025
+do Município e Plano Diretor de Drenagem Urbana, também respeitando as bases legais e orçamentárias para sua execução.
+
+Com relação aos possíveis riscos vinculados aos atos legais, destaca-se abaixo alguns temas e a proposta de mitigação do risco:
+
+- Risco: Falta de articulação com autarquias.
+
+- Mitigação: Compreende-se a relevância de uma boa articulação, em particular para o Programa, com as autarquias que trabalham com a
+gestão hídrica e saneamento e reassentamento, que no caso do Município de Porto Alegre, são o DMAE e DEMHAB, respectivamente.
+Logo, o risco da falta de articulação com ambas, será totalmente reduzido pelo fato delas estar vinculada a estrutura da UGP, fazendo
+parte da estrutura do Programa.
+
+- Riscos: Considera-se um risco efetivo no cumprimento dos prazos estabelecidos nos cronogramas de execução dos financiamentos o
+atraso na obtenção da Titularidade de bens e das Licenças de Instalação e Operação que constituem condições prévias para a execução
+de obras e reformas.
+
+- Mitigação: Elaborar o planejamento prévio a partir do mapeamento de todas as intervenções previstas no Programa, identificando a
+titularidade dos bens, as necessidades e a situação dos licenciamentos e de outros atos administrativos e jurídicos. Constituir uma equipe
+técnica especifica para esta ação no âmbito da UGP. Buscando mitigar o risco de entraves futuros aos licenciamentos, será feita uma
+aproximação às equipes do FEPAM, SISEPRA, CONSEMA e SMAMUS apresentando as propostas de intervenção do Programa, além de
+serem realizadas consultas prévias a solicitação das licenças necessárias sobre os projetos e obras para sanar qualquer ponto incoerente
+com as normas e diretrizes ambientais vigentes, como as apresentadas abaixo, entre outras:
+
+- Lei n° 10.330/2010, dispõe sobre a organização do Sistema Estadual de Proteção Ambiental, a elaboração, implementação e controle da
+política ambiental do Estado e dá outras providências
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 19
+
+- Decreto n° 19.566/206, estabelece procedimentos e documentos necessários à aprovação e ao licenciamento de projetos urbanísticos de
+regularização fundiária em AEIS I e II.
+
+- Decreto n° 19.863/2017, institui e disciplina a Comissão Técnica de Análise de Regularização Fundiária (CTARF).
+
+- Outras legislações pertinentes: NBR 10004/2004. Resoluções CONAMA 237/1997 e 357/2005. Resolução CONSEMA 355/2017 e 372/
+2018. IN SEMA 01/2018. Portaria FEPAM 087/2018, 058/2019, 136/2019, 206/2022 e 207/2022.Resoluções CONAMA 454/2012.
+Resolução CONSEMA 372/2018. Lei Municipal 757/2015.
+
+No âmbito do licenciamento ambiental destacam-se alguns órgãos estaduais e municipais, como: a Fundação Estadual de Proteção
+Ambiental Henrique Luís Roessler (FEPAM), que se configura como o órgão técnico do Sistema Estadual de Proteção Ambiental (
+SISEPRA), fiscalizando, licenciando, desenvolvendo estudos e pesquisas e executando programas e projetos, com vistas a assegurar a
+proteção e preservação do meio ambiente no Estado no Rio Grande do Sul;  o Conselho Estadual do Meio Ambiente (CONSEMA), órgão
+superior do Sistema, de caráter deliberativo e normativo, responsável pela aprovação e acompanhamento da implementação da Política
+Estadual do Meio Ambiente, bem como dos demais planos afetos à área; e a Secretaria de Meio Ambiente Urbanismo e Sustentabilidade (
+SMAMUS) sendo o órgão Municipal responsável pelos licenciamentos ambientais, como licença prévia e de instalação.
+
+- Riscos: Condições prévias para o primeiro desembolso. Devido à complexidade dos contratos e de suas intervenções, existe risco,
+mesmo que baixo, de não atendimento de maneira satisfatória de algumas condições contratuais para o primeiro desembolso.
+
+- Mitigação: Após a assinatura dos Contratos, garantir o atendimento total e satisfatório das condições estabelecidas em contrato para o
+primeiro desembolso e aporte de recursos do empréstimo ao programa. AT (3.2)
+
+5.2. RISCOS/CONTRATAÇÕES
+
+A experiência do órgão executor com as políticas de aquisição/contratação do agente financeiro:
+
+As licitações ficarão sob responsabilidade da DLC ? Diretoria de Licitações e Contratações que conta com uma equipe especializada e um
+quadro de engenheiros com expertise em licitações de obras de engenharia.
+
+A Prefeitura de Porto Alegre possui uma experiência em captação de recursos nacionais e internacionais para financiamentos de projetos
+públicos e estratégicos para o Município, bem como no gerenciamento de Programas de Financiamentos por meio de Unidades Gestoras.
+
+Dentre os financiamentos externos mais relevantes nas últimas décadas, citamos as seguintes operações de crédito:
+
+- 1997: Preservação do Ambiente Natural e Recuperação de Área Degradada da B. do Arroio Dilúvio (FONPLATA), valor de US$ 1.143.
+000,00;
+
+- 1997: Ampliação do Pronto Socorro do Hospital Municipal de Porto Alegre (FONPLATA), valor de US$ 2.600.000,00;
+
+- 1998: Programa de Desenvolvimento Municipal de Porto Alegre - III Perimetral (BID), valor de US$ 76.500.000,00;
+
+- 2003: Fundo Financeiro para o Desenvolvimento da Bacia do Prata (FONPLATA), Programa Integrado Entrada da Cidade (PIEC), valor
+USS 55.000.000,00;
+
+2008: Banco Interamericano de Desenvolvimento (BID), Programa Integrado Socioambiental (PISA), valor US$ 83.270.000,00;
+
+- 2016: Corporação Andina de Fomento (CAF), hoje Banco da América Latina, Programa ORLA POA - Organicidade e Requalificação do
+Espaço Urbano, do Lazer, do Acesso e Mobilidade de Porto Alegre, valor US$ 92.000.000,00, atualmente em execução;
+
+- 2023: Programa de Desenvolvimento e Sustentabilidade Fiscal do Município de Porto Alegre (PORTOALEGRE+), Financiamento BID
+valor de USD 150.000.000,00 assinatura prevista para o 2 ° semestre; e
+
+- 2023 Programa de Revitalização da Área Central de Porto Alegre (CENTRO+4D), Financiamento Banco Mundial e AFD- Agência
+Francesa
+
+de Desenvolvimento, valor de USD130.000.000,00 assinatura prevista para o 2° semestre
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 20
+
+Riscos: Licitações e Contratações de Estudos, Serviços, Projetos e Obras. Licitações e Contratações de Estudos, Serviços, Projetos e
+Obras. Considerando as particularidades e exigências legais que envolvem os prazos e processos de contratação na Administração
+Pública, existem riscos de atrasos nos processos de contratações e consequentemente atraso na execução. Durante a preparação dos
+projetos serão necessárias contratações de consultorias técnicas, especializadas e a aquisição de softwares e equipamentos. Na etapa de
+execução do financiamento, serão necessárias contratações de serviços de capacitações, consultorias e de projetos e obras.
+
+Mitigação: A nova lei de licitações que confere mais opções de contratações ao Município, entre elas a contratação Integrada, é outro
+elemento facilitador e de agilização dos procedimentos de aquisições.
+
+Buscando dar maior celeridade aos contratos o Programa terá uma Coordenação específica para o tema de Aquisições compondo a UGP.
+A equipe desta coordenação será formada por profissionais com vasta experiência nas políticas de aquisições de organismos
+internacionais financiadores. Além disso, as atividades a serem implementadas pelo Programa já fazem parte dos serviços comumente
+prestados pelos profissionais e servidores públicos dos órgãos da Prefeitura de Porto Alegre, assim possuindo a experiência necessária
+para o bom andamento dos contratos. Portanto serão alocados os servidores que já trabalharam com os contratos em programas com
+organismos internacionais financiadores passados na coordenação de aquisições.
+
+Por fim, reforça-se que as contratações de obras e serviços também terão como diretrizes o estímulo a seleção de parte da mão de obra
+local, buscando capacitar os profissionais locais, incluindo mulheres na construção civil, para que ao final das obras a manutenção dos
+bens construídos possam ser realizadas pela mão de obra local visando a sustentabilidade econômica da população de Porto Alegre.
+Outra diretriz, será a adoção de soluções baseadas na natureza, quando possível, buscando reduzir os impactos causados pela obra
+como por exemplo a geração de resíduos da construção.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+As ações do Programa promoverão impactos ambientais positivos ao recuperar áreas urbanas vulneráveis e degradadas para
+proporcionar maior qualidade de vida a população e resiliência urbana frente aos impactos das inundações e enxurradas que o Município
+vem sofrendo ao longo dos anos. Portanto é imprescindível ao Programa a utilização de mecanismos de mitigação, controle, recuperação
+e compensação dos impactos socioambientais que promovam uma melhor qualidade de vida à população das áreas de atuação do POA
+DRENA RESILIENTE. As tecnologias leves de práticas pedagógicas para compreensão da necessidade de cuidados ambientais e
+patrimoniais são grandes aliadas destes processos de enlevamento da resiliência, garantindo aos usuários melhor desfrute das
+intervenções.
+
+Considerando (i) a situação dos licenciamentos/autorizações (estudos, tipo de licenciamento, entidades responsáveis pela solicitação e
+pela emissão das licenças etc.); (ii) os principais riscos ambientais decorrentes da implementação do programa/projeto; e (iii) a experiência
+do Órgão executor com as políticas/salvaguardas ambientais do agente financeiro; destaca-se que tais itens não vêm se constituindo em
+problemas mais sérios para o Município. No caso de intervenções específicas em arborização, é emitida pela secretaria do meio ambiente
+uma licença especial, a ser solicitada quando da execução da obra. A partir da análise, é emitido um termo de compensação vegetal, que
+prevê ou o pagamento em pecúnia ou o plantio compensatório. Todas estas etapas estarão previstas nos projetos e nas licitações de obra.
+
+Os projetos quando em elaboração, serão objeto de análise de todas as secretarias do município que emitem diretrizes, acompanham o
+desenvolvimento e aprovam os projetos. Concomitantemente, serão encaminhados aos órgãos externos à prefeitura para aprovações e
+licenciamento. Existem ainda momentos de aprovação junto aos conselhos representativos da sociedade. Todas estas etapas são praxe
+dentro das aprovações da prefeitura e, em geral, não apresentam grau de complexidade significativo.
+
+Riscos: (a) Os possíveis entraves contratuais decorrentes das exigências regulatórias (legislação)
+
+Mitigação: (a) A descentralização do licenciamento ambiental no Estado do RS, teve na Secretaria de Meio Ambiente do Município, um
+dos mais fortes esteios e fatores de sucesso; (b) A SMAMUS está bastante aparelhada e acostumada com as tratativas ambientais de
+praxe.
+
+Atualmente, a secretaria analisa os empreendimentos públicos, e, conforme o caso, isenta de licenciamento. Conforme o porte da
+intervenção será necessário a elaboração de Relatório de Impacto. Como mencionado, o processo é conhecido da prefeitura e bem
+conduzido pela SMAMUS. AT (3.2)
+
+Para dirimir qualquer risco vinculado a impactos ambientais negativos, o Programa busca seguir todas as políticas de salvaguardas
+ambientais e elaborar e/ou fortalecer todos os instrumentos de mitigação de riscos indicados pelo organismo financiador.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 21
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+O Programa gerará impacto contundente à vida das pessoas que vivem próximas aos arroios que serão foco das intervenções.  Este
+processo, apesar dos transtornos provisórios que qualquer ação pública de grande porte possui, tem impacto positivo por se tratar da
+recuperação da qualidade urbana e ambiental de áreas vulneráveis onde famílias vivem hoje em condições precárias, sem acesso a
+serviços básicos e expostas a riscos sanitários e, principalmente, a riscos de inundações e enxurradas, com histórico de perdas materiais
+severas e até vidas.
+
+Considerando os aspectos negativos do processo de reassentamento decorrente da execução dos projetos, há o compromisso já previsto
+de buscar medidas compensatórias e remediadoras, que mitiguemos impactos sociais, por meio de ferramentas definidas juntamente com
+o organismo financiador, para traçar estratégias e diretrizes, como detalhado no item 5.6.
+
+Abaixo se destacam alguns impactos sociais negativos, como riscos, e a descrição de medidas compensatórias e mitigadoras.
+
+- Aumento dos custos familiares e impacto no rendimento familiar:
+
+O reassentamento involuntário pode gerar aumento de gastos com deslocamento para o trabalho e, em modalidades de mobilização para
+nova produção habitacional, com as taxas condominiais e outros tributos venais ? luz e água, que podem agravar a inadimplência de
+prestações da nova moradia e a impossibilidade de arcar com os novos custos, culminando em precarização dos espaços coletivos do
+condomínio. Além disso, as pessoas realocadas que possuem algum tipo de comércio ou prestam algum tipo de serviço na comunidade
+ou nas proximidades, são impactadas pela perda de clientes e consequentemente de renda.
+
+Para diminuir o risco do aumento dos custos de vida e perda da renda da população deslocada, uma das propostas está vinculada à
+qualidade do projeto arquitetônico dos conjuntos habitacionais, que priorizarão aspectos de eficiência energética reduzindo os encargos
+com a climatização e iluminação artificial dos ambientes, que consideram, além da própria disposição estrutural, a geração de energia
+renovável local e soluções de baixo consumo de água. Os conjuntos habitacionais preverão espaços de uso misto que viabilizarão
+composições destes para uso comunitário, mas também, para a promoção de ações comerciais ou institucionais, podendo viabilizar uma
+renda extra ao condomínio e moradores envolvidos por meio da comercialização de bens e serviços, aquecendo a economia e mercado
+de trabalho local. Tarefa essencial do TTS deverá é a de levantamento das necessidades das famílias, que indicarão quais serviços
+melhor apoiarão suas rotinas, como, por exemplo, aquelas chefiadas por mulheres com creches, ou famílias com idosos que necessitam
+de serviços de cuidadores, entre outros.
+
+Com relação ao rendimento familiar, outro ponto a ser trabalhado pelo TTS é a busca por parcerias para o desenvolvimento de projetos
+sociais, ações socioeducativas, na qualificação profissional e empreendedorismo das famílias. E em paralelo a isso, acionar os órgãos
+responsáveis para viabilizar o acesso aos postos de trabalho existentes, com buscas ativas dos moradores que demonstraram interesse
+durante os processos de capacitação.
+
+- Rompimento das conexões sociais da vizinhança devido à realocação para áreas fora da bacia hidrográfica de origem:
+
+O reassentamento involuntário afeta as relações sociais e estilo de vida (relações de vizinhança e redes de apoio social), impacto que
+afeta, principalmente, as mulheres que perdem sua rede de apoio social. Com isso, aumentam as dificuldades nos cuidados dos filhos
+pequenos e pessoas idosas, não podendo com isso trabalhar ou estudar. Além disso, as bacias hidrográficas alvo do projeto são áreas
+adensadas que não dispõem, originalmente e antes das estratégias de mitigação e remediação, de áreas para remanejamento da
+população que precisará ser remanejada para áreas fora da bacia originária.
+
+Para dirimir este risco, durante a atuação do TTS, seguindo as normas e procedimentos estabelecidos e consolidados pelo Município e
+legislação própria das execuções de trabalhos sociais, serão levantados antecipadamente os aspectos socioeconômicos, ambientais e
+culturais de cada família afetada, para oferecer soluções compensatórias adequadas para as famílias. Ademais, com intuito de possibilitar
+a manutenção da rede de apoio social e adaptação sociocultural territorial e comunitária, serão despendidos esforços no sentido de
+preservação da identidade comunitária, com intuito de conduzir o maior quantitativo para os mesmos espaços socioterritoriais, além da
+promoção de ações e estratégias de promoção de conexões comunitárias e de desenvolvimento de novas redes de apoio. Para tanto,
+serão promovidas ações de remobilização dos beneficiários, após aluguel social, para a escolha por moradias em condomínios verticais
+ou outros processos compensatórios previstos na legislação, como o bônus moradia, com todo o suporte e orientação aos moradores,
+ofertada pelo TTS, que inclusive informará sobre a nova condição da moradia e sobre organização e gestão condominial, buscando
+esclarecer as obrigações legais de cada pessoa e do coletivo
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 22
+
+As desapropriações do programa serão realizadas em todos os arroios de intervenção do Programa, considerando as medidas
+compensatórias indicadas na Lei Federal N°3.365/41 como realocação de famílias para outra unidade habitacional, indenização de
+benfeitorias ou a compensação financeira. As indenizações serão realizadas com recurso de contrapartida.
+
+Novos conjuntos habitacionais, que farão parte das opções de atendimento habitacional do reassentamento, estão sendo custeada com
+recurso do Pró-Moradia próximo as poligonais de intervenção do Programa. E para este caso em particular as famílias do Programa que
+terão acesso a essas UH receberão auxílio pecuniário transitório para aluguel até que suas habitações sejam entregues.
+
+Em relação à restauração e reabilitação das comunidades afetadas pelas desapropriações, o DEMHAB com vasta experiência no tema,
+preza pela garantia plena à moradia digna, conceito desenvolvido pela ONU, garantindo o acesso à cidade formal, possibilitando que os
+beneficiários possam estar em condições melhores às existentes antes da execução dos projetos.
+
+Para isto, estes projetos terão acesso a ações conjuntas de mobilização e organização comunitária que viabilizarão o desenvolvimento de
+autogestão das famílias inseridas em seus territórios, com acesso à infraestrutura básica de saneamento, iluminação, acessibilidade,
+equipamentos e serviços sociais diversos e inclusivos, bem como acesso facilitado aos equipamentos públicos.
+
+Considerando a necessidade de desenvolvimento socioeconômico dos moradores, dimensão já atribulada anteriormente às intervenções,
+é do escopo das ações sociais a restauração e melhoria do acesso a novas tecnologias sociais e laborais, com o desenvolvimento de
+capacitações e incursões que culminem em práticas focadas no mercado de empreendedorismo ou de trabalho formal, promovendo
+melhorias na renda e nos padrões de vida das pessoas afetadas, com previsão de compensações que visam garantir que as pessoas que
+tenham suas atividades econômicas interrompidas ou reduzidas sejam compensadas pelas perdas decorrentes da realocação, permitindo-
+lhes assim, reconstituir suas vidas em menor tempo possível.
+
+Para dirimir os riscos vinculados à desapropriação serão priorizados a redução dos impactos sociais e econômico, que estão detalhados
+no item 5.5, e o fortalecimento do trabalho intersecretarias, que será reforçado para garantir o acesso das famílias às políticas sociais
+públicas existentes no Município, e para este último ponto reitera-se que será realizado o Plano de Gerenciamento das Partes
+Interessadas para mapear as relações das instituições e seus impactos.
+
+Além disso, o Programa seguirá as legislações que facilitam os casos de desapropriação, reassentamento e realocação no município
+sendo elas que regem os atendimentos viam compra assistida e aluguel social (detalhadas no item 5.6); e as normativas que regem os
+processos de promoção de atenção aos processos de cuidados das cidades, como o Plano Nacional de Pedestres, Plano Nacional de
+Urbanismo, para PCDs etc., na figura normativa do Estatuto das Cidades, da Lei Federal Nº 10.257/200.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+- 28/12/2023: Retirada de pauta pela 170ª Cofiex, em 07/12/2023, por exceder o limite disponível para esta reunião.
+
+Informações relevantes
+
+(cid:10)
+(cid:10)
+(cid:10)

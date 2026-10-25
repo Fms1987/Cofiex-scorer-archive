@@ -1,0 +1,2892 @@
+# Carta-Consulta CC_60997 — Versao 2 (SIGS)
+
+
+Programa de Implantação da Avenida Beira Mar de São José/SC - Av. Beira Mar São José
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 60997
+Processo: 03101.101715/2023-33
+Mutuário: Município de São José - SC
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  1 de Junho de 2023
+
+Fontes Internas:
+Contrapartida Financeira: US$ 10.800.000,00
+Fontes Externas:
+Fundo Financeiro para o Desenvolvimento da Bacia do Prata - FONPLATA: US$ 43.200.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+O município de São José, no Estado de Santa Catarina, situa-se na região Sul do Brasil e integra a região da Grande Florianópolis (Anexo
+1). Segundo dados do IBGE Cidades, o município possui uma área de 150,499 km2, com uma população estimada em 2023 de 287 mil
+habitantes.
+
+Os limites geográficos do Município são os seguintes: a norte com o município de Biguaçu, a sul com o município de Palhoça, a leste com
+Florianópolis e o Oceano Atlântico e a  oeste com São Pedro de Alcântara, Santo Amaro da Imperatriz e Antônio Carlos.
+
+São José notabiliza-se pela alta qualidade de vida de sua população, com destaque na geração de empregos. Segundo o Atlas do
+Desenvolvimento Humano no Brasil (PNUD - 2010), o Índice de Desenvolvimento Humano Municipal (IDH-M) do município é de 0,809,
+colocado em 4º entre as cidades do Estado de Santa Catarina e 21º lugar no Brasil.
+
+A economia de São José está baseada no comércio, indústria, prestação de serviços, pesca artesanal, maricultura, cerâmica utilitária e
+agropecuária. Possui mais de 1.200 indústrias, 6.300 estabelecimentos comerciais, 4.800 empresas prestadoras de serviços e 5.300
+autônomos. São José apresenta um enorme potencial turístico, histórico, cultural e arquitetônico, reunindo casarios de origem luso-
+açoriano com destaque para o Centro Histórico, que inclui o Teatro Adolpho Mello, Biblioteca Municipal, Museu Histórico, Casa da Cultura,
+Largo da Carioca e Igreja Matriz.
+
+Nos últimos vinte e nove anos, a população da área conurbada de Florianópolis cresceu 117%. (Anexo 2 - Tabela 1) e o município de São
+José teve um crescimento populacional de 95%.
+
+Por outro lado, o número de veículos (frota registrada no Município) de todo tipo evoluiu de forma extraordinária: passou de 56,9 mil, em
+2002, para 171,1 mil, em 2020, ou seja, 200% em apenas dezoito anos. (Anexo 3 - Tabela 2)
+
+Abaixo são descritos os principais PROBLEMAS a serem solucionados com as ações do Programa:
+
+MOBILIDADE URBANA
+
+O maior PROBLEMA para a mobilidade urbana de São José está relacionado aos pontos de grandes congestionamentos localizados no
+trecho urbano de 9,5 km da Via Expressa (que integra a rodovia federal BR-282, ligando o Estado de Santa Catarina à Argentina). A Via
+Expressa tem seu quilômetro zero na Ponte Colombo Sales, em Florianópolis, fazendo a conexão com a BR-101. Este trecho constitui-se
+em  parte importante da infraestrutura viária de São José, atrelada à de Florianópolis. Está completamente saturado, não suportando o
+volume de tráfego que ali transita diariamente (150 mil veículos), tendendo a piorar significativamente se o Município não buscar
+alternativas para solucionar o problema.
+
+Os grandes congestionamentos na Via Expressa, além de comprometer a mobilidade de pessoas e cargas, afetam negativamente a
+dinâmica do comércio e o desenvolvimento da região.
+
+Os Estudos de Tráfego elaborados no escopo do Contrato 0960/2010 - DNIT preveem, para o ano de 2027, um total de 169.478 veículos/
+dia na Via Expressa, o que irá agravar substancialmente a situação já crítica de engarrafamentos e transtornos do tráfego existente na Via
+Expressa.
+
+O maior volume de tráfego que afeta o município é proveniente da BR-101, através da Via Expressa (BR-282), e que se destina à ilha de
+Florianópolis assim como em sentido inverso - ilha-continente.
+
+Os Estudos de Tráfego citados, projetam ainda um Tráfego Médio Diário Anual (TMDA) de 50.877 veículos na alça de saída da Via
+Expressa para a BR-101, sentido norte, e de 46.105 veículos na alça de sentido BR-101 (norte) - Via Expressa, em direção à ilha de
+Florianópolis para o ano de 2027, dificultando cada vez mais o já complicado tráfego por esta Via. A soma do TMDA (50.877 + 46.105 = 96
+.982 veículos)  demonstra o volume de tráfego da Via Expressa que provém e/ou se desloca no sentido norte na BR-101. (Anexo 4). Parte
+deste tráfego será desviado para a Av. Beira Mar de São José.
+
+Importante aqui destacar que São José e Florianópolis se constituem em dois municípios separados tão somente por uma linha imaginária
+. Portanto, os problemas existentes de um lado desta linha propagam-se igualmente para o outro lado. Assim, os problemas de tráfego
+existentes nesta região em Florianópolis são os mesmos de São José.
+
+EQUIPAMENTOS COMUNITÁRIOS
+
+Outro PROBLEMA importante a destacar é a carência de espaços e equipamentos públicos disponíveis para a população nas adjacências
+da futura Av. Beira Mar de São José,cuja área de influência está urbanizada. Os bairros da região de Barreiros não tem equipamentos
+comunitários e de lazer voltados para  os moradores da região. Constituía-se em atrativo a praia que, ao longo do tempo foi se
+degradando, impossibilitando seu uso e, por consequência, uma série de atividades de comércio de pequeno porte e lazer também se
+esvaíram. Os moradores se ressentem da falta destes equipamentos e a construção da Av. Beira Mar com sinalização, iluminação e
+acessos irá gerar uma demanda por atividades de lazer, comunitárias e comerciais.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+SOLUÇÕES PROPOSTAS
+
+MOBILIDADE URBANA
+
+A SOLUÇÃO PROPOSTA para o problema identificado da mobilidade urbana corresponde à implantação da Av. Beira Mar de São José,
+incluindo macrodrenagem, pontes e acessos,  que irá absorver parcela considerável do tráfego que tem hoje, como única opção, o trecho
+inicial da BR-282 (Via Expressa). Esta parcela de tráfego será desviado para a nova Via, se conectando diretamente com a BR-101 e daí
+com o resto do Brasil e países vizinhos (Anexo 5).
+
+A Av. Beira Mar no Continente, que ligará Florianópolis e São José até a BR-101, com extensão total de 9 km, é composta de 3
+segmentos complementares, a ser executada em etapas e por municípios distintos, a saber:
+
+i) Via Marginal da Principal Coletora I - PC1 - já implantada, com uma extensão de 1,5 km (Contrato de Empréstimo BR 8/2004 assinado
+entre o FONPLATA e Florianópolis).
+
+ii) Av. Beira Mar Norte Continental - Etapa II, em Florianópolis, com 4 km de extensão. Início na Ponta do Leal (final da PC1) até o Rio
+Büchler (carta consulta autorizada pela COFIEX pela Resolução Nº 48 de 13/12/2021 - financiamento do FONPLATA).
+
+iii) Av. Beira Mar de São José - do Rio Büchler (divisa de Florianópolis - São José) até a interseção com a BR-101, nas adjacências do Rio
+Três Henriques, com uma extensão de 3,5 km, objeto desta carta consulta.
+
+Ressalta-se que as soluções e características técnicas dadas na Via Marginal Coletora - PC-1 e na Av. Beira Mar Continental - Etapa II de
+Florianópolis - são similares às propostas da obra da Av. Beira Mar de São José. Os objetivos, as demandas, as condições de implantação
+(área acrescida de marinha) e as soluções técnicas são similares.
+
+EQUIPAMENTOS COMUNITÁRIOS
+
+A SOLUÇÃO PROPOSTA para o Problema acima mencionado corresponde à implantação de Equipamentos Comunitários, tais como: i)
+áreas de lazer com estacionamentos; ii) quadras esportivas; iii) academia para terceira idade; iv) salas multiuso para: educação ambiental,
+capacitação em informática, comercialização de artesanato local, atividades culturais e comunitárias; v) desenvolvimento do projeto
+mulheres empreendedoras; e vi) concha acústica; e instalações para pequenos comércios. Estes equipamentos atenderão à demanda da
+população local e a circulação de pessoas na área para atividades, como caminhadas, práticas esportivas, ciclísticas, jogos, etc.
+
+Complementarmente, será implantada a iluminação pública com lâmpadas LED em toda a intervenção, para a segurança dos usuários e
+atratividade para utilização dos equipamentos comunitários. Esta iluminação com uso inteligente, será gerida pela central de Tele-Gestão
+municipal. Utilizará dimerizadores e sensores de presença, resultando em uma eficiência energética significativa e redução de custos.
+
+São José será o segundo município catarinense a instalar luminárias inteligentes, com antenas 5G integradas (wifi), tendo assinado um
+Termo de Entendimento com a ABDI, para implantar um projeto piloto de tecnologia 5G no Município. As luminárias serão instaladas em
+toda extensão da Av. Beira-Mar de São José.
+
+RESULTADOS ESPERADOS
+
+MOBILIDADE URBANA
+
+- Criação de volume de tráfego para 2028 (conclusão da obra da Avenida) de 34.939 veículos/dia (VMDA),  correspondente tráfego
+desviado da Via Expressa mais o tráfego gerado pelas atratividades decorrentes da implantação da obra.
+
+- Volume de tráfego na Av. Beira Mar São José previsto para o ano de 2045: 46.918 veículos/dia;
+
+- Redução do percurso desde as pontes Pedro Ivo Campos e Colombo Salles até a interseção com a BR-101 (englobando - Via Marginal
+da Principal Coletora I - PC1 e a Beira Mar Norte Continental situadas em Florianópolis), passando de 9,5 Km para 8,5 Km;
+
+- Redução dos diários e intermináveis congestionamentos na Via Expressa desde a BR-101 até as pontes Pedro Ivo Campos e Colombo
+Salles, tanto no sentido ilha - BR-101 quanto no sentido BR-101 - ilha;
+
+- Redução no tempo de deslocamento, maior fluidez do tráfego e redução da distância percorrida resultando na otimização de itinerários;
+
+- Redução do número de acidentes de trânsito;
+
+- Incremento da utilização de ciclovias;
+
+- Redução dos custos de manutenção e operação de veículos em razão da redução da extensão de deslocamento, fluidez esperada e
+otimização de itinerários;
+
+- Valorização dos imóveis situados na área de influência direta; e
+
+
+Página: 4
+
+- Reativação do desenvolvimento econômico da região.
+
+EQUIPAMENTOS COMUNITÁRIOS
+
+- Acesso da população a áreas de lazer e esportivas;
+
+- Promoção de atividades educativas, sociais e culturais; e
+
+- Oportunidades de implantação de pequenos negócios com a geração de emprego e renda.
+
+- Acesso de pessoas com baixa renda a serviços de internet wifi 5G e conectividade gratuitos.
+
+- Iniciativas para potencializar o empreendedorismo de mulheres.
+
+SUSTENTABILIDADE
+
+A previsão de custo anual média para manutenção de toda a Avenida, iluminação pública e equipamentos comunitários é de R$ 7,0
+milhões, alocados no orçamento anual do Município. Demais informações sobre os custos de manutenção e operação das intervenções
+estão no Plano de Sustentabilidade (Anexo 18).
+
+A responsabilidade pela manutenção das obras do Programa será a Secretaria de Infraestrutura, que hoje possui 5 contratos em execução
+para manutenção e recuperação de pavimento em vias públicas, somando mais de R$ 21,0 milhões (Anexo 6). Atualmente, estima-se que
+trabalham cerca de 60 técnicos e 10 servidores com experiência para fiscalizar e gerir tais contratos. Além disso, também está em
+vigência nesta Secretaria o Contrato 22/2023 para manutenção e limpeza de vias públicas e praças, no valor de R$ 3,3 milhões e  com
+cerca de 200 funcionários trabalhando em sua execução, que também atuarão nas ações de sustentabilidade das obras do Programa.
+Não está prevista a contratação de pessoal adicional para a sustentabilidade das obras do Programa, visto que o município já dispõe de
+pessoal capacitado e instrumentos para tal finalidade.
+
+Esses contratos fazem parte do Plano de Manutenção do programa Prefeitura em Ação que permitirão a manutenção do pavimento
+asfáltico, dos dispositivos de drenagem, calçadas, praças, equipamentos comunitários e da iluminação pública da Avenida.
+
+Os custos dos contratos citados não envolvem os recursos do financiamento da obra. Provém de fontes próprias de recursos do município,
+através da arrecadação tributária e da COSIP, garantindo a manutenção e operação das obras financiadas pelo Programa.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+ORIENTAÇÕES ESTRATÉGICAS
+
+O objeto deste Programa está previsto nas seguintes orientações estratégicas do município:
+
+- Plano Diretor Municipal (Lei 1.604/85)
+
+- Plano de Mobilidade Urbana Sustentável da Grande Florianópolis - PLAMUS (Anexo 7)
+
+- Lei de Zoneamento de uso e ocupação do solo de São José - SC (Mapa - Anexo 16)
+
+- PPA - Plano Plurianual 2022-2025, Lei nº 6.105 de 22 de dezembro 2021 ( página do Programa 0112 de Mobilidade Urbana, Meta 1.135
+- Anexo 8) e na Meta 34 do Plano  de Metas 2021-2024 (Anexo 9) diretrizes de médio e longo prazo que orientam o plano de
+investimentos do município.
+
+As ações do Programa estão em consonância com as Metas 11.2, 11.4, 11.6  e 12.5 dos Objetivos de Desenvolvimento Sustentável (ODS
+) propostas na Agenda 2030 da ONU.
+
+A presente Carta Consulta prevê investimentos totais de US$ 54.000.000,00 (cinquenta e quatro milhões de  dólares norte-americanos),
+sendo 80% financiados pelo FONPLATA e 20% de contrapartida do Município.
+
+TAXA DE C MBIO
+
+A taxa de câmbio utilizada nesta carta consulta  é de R$ 4,9668, considerando a relação Dólar x Real em 23/05/2023, segundo dados do
+Banco Central do Brasil.
+
+CONTRAPARTIDA
+
+Os recursos orçamentários e de contrapartida do financiamento serão incluídos na Lei Orçamentária Anual do Município, após a emissão
+da recomendação da COFIEX.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+Os recursos de contrapartida do município correspondem  a 20% do total do Programa, no período proposto de 05 anos de execução. A
+contrapartida   será aportada com recursos provenientes de receitas tributárias previstas nos artigos 156, 158 e 159, inciso I, (b), da
+Constituição Federal, conforme estabelecido na Resolução nº 3, de 29 de maio de 2019 - COFIEX.
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa de Implantação da Avenida Beira Mar de São José/SC - Av. Beira Mar São José
+
+
+### 2.2. Título Abreviado
+
+
+Av. Beira Mar São José
+
+
+### 2.3. Mutuário
+
+
+Município de São José - SC
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+O Programa tem como objetivo a implantação da Av. Beira Mar de São José e de equipamentos comunitários no município de São José/
+SC, a fim de  promover a melhoria da  qualidade de vida da população, por meio de ações estruturantes em mobilidade urbana e
+desenvolvimento econômico e social.
+
+OBJETIVOS ESPECÍFICOS:
+
+a) Tornar mais eficiente a integração física e econômica da Grande Florianópolis, em particular do município de São José com as outras
+cidades brasileiras e os demais países vizinhos, mediante ampliação e adequação da sua malha viária;
+
+b) Melhorar as condições de circulação viária no município com a implantação de via alternativa;
+
+c) Reduzir os tempos de viagem e ocorrências de acidentes de trânsito como consequência da redução do volume de tráfego e
+congestionamento da Avenida Expressa e BR-101;
+
+d) Priorizar e garantir a circulação de pedestres e modais não motorizados através da implantação e requalificação de calçadas e ciclovias
+com acessibilidade universal;
+
+e) Implantar equipamentos comunitários em espaços públicos acessíveis, garantindo maior qualidade de vida, lazer, entretenimento e
+incentivo à práticas educativas e esportivas;
+
+f) Criar espaços para comercialização/divulgação de produtos artesanais e gastronômicos, para reuniões comunitárias, para
+apresentações e espaço atividades culturais; e
+
+g) Implantação de iluminação pública eficiente e sustentável.
+
+A memória de cálculo para os valores de linha de base e meta da tabela de Indicadores é apresentada no Anexo 10.
+
+Para os indicadores listados no item 2.6 a seguir, temos como marcos temporais os seguintes anos:
+
+Linhas de Base e Metas:
+
+Indicador 1: ano 2023; Meta: ano 2028 do Programa;
+
+Indicador 2: ano 2023; Meta: ano 2028 do Programa;
+
+Indicador 3: ano 2023; Meta: ano 2028 do Programa;
+
+Indicador 4: ano 2023; Meta: ano 2028 do Programa;
+
+Ressalta-se que tais informações estão dispostas também na descrição de cada indicador na Tabela do Capítulo 2.6.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 6
+
+Meta
+8,30
+
+Linha de Base
+19,27
+
+0,00
+
+35.000,00
+
+3.795,00
+
+5.060,00
+
+101.200,00
+
+177.100,00
+
+45,00
+
+9,00
+
+
+Descrição
+Redução de tempo de viagem da ligação
+Florianópolis a BR-101, percorrendo a nova rota
+pela Av. Beira Mar Continental e São José.
+LINHA DE BASE: ANO 2023 META: ANO 2028
+
+Fluxo de veículos desviados da Via Expressa
+para a Avenida Beira Mar de São José com
+destino a BR-101 LINHA DE BASE: ANO 2023
+META: ANO 2028
+
+Aumento de usuários na malha cicloviária de
+São José. LINHA DE BASE: ANO 2023 META:
+ANO 2028
+
+Pessoas que utilizam os espaços públicos e
+áreas de lazer em São José. LINHA DE BASE:
+ANO 2023 META: ANO 2028
+
+Tempo de percurso da ligação Florianópolis a
+BR-101 pela Via Expressa em horário pico (18h)
+LINHA DE OBRA: ANO 2023 META: ANO 2028
+
+
+### 2.7. Projeto/Componentes
+
+
+veículos
+
+min, seg
+
+Fórmula de Cálculo Unidade de Medida
+razão entre a
+distância percorrida
+dividida pela
+velocidade média.  A
+linha de base é
+referente ao tempo de
+viagem feito
+atualmente, desde a
+cabeceira das pontes
+pela BR-282 (Via
+Expressa) até o
+entroncamento com a
+BR-101. A meta é
+referente ao novo
+percurso pela Av.
+Beira Mar Continental
+e São José
+Tráfego desviado da
+Via Expressa para a
+Av. Beira Mar de São
+José após
+implantação. Tráfego
+hoje não existente na
+Av. Beira Mar de São
+José
+Quantidade média
+diária de usuários que
+transitam em São
+José/SC de bicicleta
+atualmente em
+relação ao previsto
+com a implantação da
+malha cicloviária
+Quantidade média
+diária de pessoas que
+utilizam os espaços
+públicos de lazer na
+cidade atualmente em
+relação com o
+previsto após a
+implantação do
+Programa
+Tempo gasto
+atualmente no horário
+de pico em relação ao
+tempo estimado com
+a redução dos
+congestionamentos,
+devido ao desvio de
+veículos para a nova
+alternativa com a
+implantação da Av.
+Beira Mar de São
+José.
+
+usuários
+
+pessoas
+
+minutos
+
+
+Componentes
+C - ESTUDOS E OBRAS
+S - ESTUDOS E PROJETOS
+P - Estudos de Viabilidade, Sociais e Projetos de Engenharia
+P - Ações Ambientais
+S - AVENIDA BEIRA MAR DE SÃO JOSÉ
+P - Terraplenagem
+P - Obras de Geotecnia / Contenções
+P - Pavimentação
+P - Drenagem/Obra de arte corrente - Macrodrenagem
+P - Obras de Arte Especiais
+P - Sinalização
+P - Iluminação
+P - Urbanização
+P -  Equipamentos Comunitários
+C - DESAPROPRIAÇÕES
+P - Desapropriações
+C - GESTÃO DO PROGRAMA
+P - Supervisão Técnica, Ambiental e Social
+P - Unidade de Gerenciamento do Programa (UGP)
+P - Auditoria Externa
+P - Comissão de Financiamento
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 7
+
+Valor(US$)
+47.276.191,72
+2.319.720,00
+1.743.605,70
+576.114,30
+44.956.471,72
+13.851.678,72
+7.160.270,66
+8.599.104,91
+5.771.134,76
+4.287.807,46
+625.774,89
+2.131.651,60
+960.190,50
+1.568.858,22
+2.206.713,61
+2.206.713,61
+4.517.094,67
+3.627.455,23
+602.039,44
+50.000,00
+237.600,00
+54.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - ESTUDOS E OBRAS
+O Componente "Estudos e Obras" contempla os estudos necessários para execução das intervenções previstas e as obras a
+serem implantadas.
+
+S - ESTUDOS E PROJETOS
+Este subcomponente contempla os Estudos e Projetos previstos no Programa.
+
+P - Estudos de Viabilidade, Sociais e Projetos de Engenharia
+Este Produto contempla a elaboração de :
+i) estudos de viabilidade técnica, econômica, financeira, ambiental, social;
+ii) projetos de engenharia a nível executivo;
+iii) projetos arquitetônicos; e
+iv) dos estudos ambientais necessários para o licenciamento das obras.
+
+P - Ações Ambientais
+Contempla o tratamento ambiental composto de enleivamento, hidrossemeadura, plantação de árvores e mudas na área
+remanescente do aterro hidráulico, isto é, aquela não ocupada por superfícies pavimentadas..
+Prevê também a execução de barreiras de siltagem durante a execução da obra da Av. Beira Mar de São José.
+Como medidas de mitigação dos riscos ambientais, se prevê o desenvolvimento dos seguintes Programas Ambientais: i) plano de
+gerenciamento de resíduos sólidos (PGRS); ii) programa de supervisão ambiental; iii) programa ambiental de construção (PAC); iv)
+programa de monitoramento de ruídos ambientais; v) programa de recuperação das áreas degradadas (PRAD); vi) programa de
+comunicação social (PCS);vii) programa de controle ambiental da atividade de dragagem;(viii) programa de monitoramento da biota
+aquática; (ix), programa de saúde e segurança dos trabalhadores. (x) programa de monitoramento das águas superficiais; e (xi)
+programa de monitoramento do perfil praial e da linha de costa, a serem definidos na etapa de licenciamento da obra.
+
+Este produto abrange as seguintes áreas estratégicas e impactos da Resolução nª 17, de 07 de junho de 2021 da COFIEX:
+- "Item 1.1. promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação", uma vez que contempla  os
+estudos ambientais, em fase de elaboração,  objetivando a obtenção do licenciamento ambiental em consonância com as
+legislações a que estão submetidos. Estes estudos deverão prever: i) a qualidade ambiental futura em decorrência da implantação
+do empreendimento; ii) identificar as alternativas locacionais e tecnológicas mais viáveis, sempre em conformidade com a
+legislação ambiental vigente, visando respeitar a capacidade de suporte do meio; iii) a identificação e avaliação dos impactos
+ambientais; e iv)  as respectivas medidas mitigadoras, potencializadoras e compensatórias.
+Cabe ressaltar que os Programas Ambientais a serem executados no âmbito deste Produto contribuirão de forma efetiva e eficiente
+para a sustentabilidade ambiental da área e da biota oceânica, visto que contemplam ações importantes para tal finalidade, bem
+como de mitigação e adaptação. Destacam-se os seguintes Programas Ambientais: i) supervisão ambiental;  ii) recuperação das
+áreas degradadas (PRAD); iii)  monitoramento da biota aquática; e iv) monitoramento do perfil praial e da linha de costa
+- "Item 1.4. Gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes",
+considerando que os estudos e projetos relacionados com o empreendimento atendem aos preceitos da legislação municipal,
+estadual e federal, cujos aspectos ambientais, sociais e econômicos serão e estão sendo tratados no âmbito do estudo de impacto
+ambiental, com a indicação dos programas e projetos que contemplam as medidas mitigadoras, potencializadoras e
+compensatórias do projeto.
+
+
+Página: 8
+
+No atingimento dos impactos previstos destacam-se, ainda, as seguintes ações contidas nos Programas Ambientais: i)
+monitoramento das águas superficiais com vistas à gestão dos recursos hídricos; e ii) gerenciamento de resíduos sólidos (PGRS)
+para assegurar a qualidade da água e dos solos.
+- "Item 1.5 conservação e manejo da biodiversidade e/ou recursos florestais", uma vez que o empreendimento tem maior impacto
+principalmente em relação à biota aquática ao se desenvolver na maior parte no mar, bem como a implantação de arborização em
+áreas remanescentes. Dentro do estudo de impacto ambiental são previstos programas e medidas mitigadoras e de
+monitoramentos, como forma de conservação à biodiversidade.
+Dessa forma, a ação voltada a esta área estratégica terá o custo do produto em si, US$ 576.114,30.
+
+S - AVENIDA BEIRA MAR DE SÃO JOSÉ
+Este Subcomponente contempla a implantação da Avenida Beira Mar de São José que será executada com as seguintes
+características técnicas:
+Construção de duas pistas asfaltadas de duplo sentido com 3 faixas por sentido tendo cada uma 3,5 metros de largura, numa
+extensão de 4.000m ligando a Avenida Beira Mar Continental de Florianópolis através da Beira Mar de São José até a interseção
+com a BR-101;
+- Construção de via marginal com 3 faixas de 3,3 metros de largura e uma extensão de 4.400 metros;
+- Melhorias de 2.800 metros de vias de acesso;
+- Construção de ciclovia com 4,0 metros de largura e 5.800 metros de extensão;
+- Construção de aterro hidráulico com aproximadamente 380.000 m²;
+- Construção de cerca de 300 vagas de estacionamento de automóveis,  300 de motos além de 9 de ônibus;
+- Construção de calçada para pedestres com 6.300 metros de extensão (sendo 3.500m com 6,0 metros de largura e 2.800m com 2,
+5m de largura).
+- Implantação de área de lazer com cerca de 30.000 m².
+- Construção de 4 Obras de Arte Especiais (pontes).
+
+Este produto abrange as seguintes áreas estratégicas e impactos da Resolução nª 17, de 07 de junho de 2021 da COFIEX:
+- Item "1.6 melhoria no ambiente de negócios e/ou oportunidades" considerando que a implantação da Av. Beira Mar de São José
+trará melhorias significativas na mobilidade da cidade e na região da Grande Florianópolis. Essas melhorias contribuirão com o
+desenvolvimento de negócios e/ou oportunidades, pois atrairão empreendedores que irão investir na cidade e região.
+- Item "1.7 benefícios para empreendedores individuais, micro e pequenas empresas" e Item "1.8. geração de emprego e renda
+para populações de baixa renda e vulneráveis" considerando que a implantação da Via Beira Mar de São José e de equipamentos
+comunitários resultará em um desenvolvimento imobiliário e socioeconômico na região, gerando uma grande necessidade de
+incrementar a oferta de bens, serviços e pequenos negócios para atender à demanda prevista com o aumento expressivo da
+circulação de pessoas e veículos, situação similar à que ocorreu com a implantação da Av. Beira Mar em Florianópolis,
+Dessa forma, a ação voltada a esta área estratégica terá o custo do próprio subcomponente em si, US$ 44.956.471,72.
+
+P - Terraplenagem
+As obras de terraplenagem abrangem uma área aproximada de 380.000 m2 de aterro em área acrescida da marinha, salvo
+algumas pequenas áreas em terra principalmente na região da interseção com a BR-101, ao final da via.
+Para execução deste aterro está prevista utilização de jazida de areia localizada na Ponta Três Henriques, em área marítima,
+próxima à foz do Rio Três Henriques, ao final da Avenida Beira Mar de São José. Para as camadas finais de aterro de menor
+volume, áreas de lazer e áreas de urbanização, serão pesquisados e utilizados solos provenientes de jazidas de empréstimo.
+
+Este produto abrange as seguintes áreas estratégicas e impactos da Resolução nª 17, de 07 de junho de 2021 da COFIEX:
+-  Item "1.1. promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação", uma vez que a  implantação do
+aterro hidráulico será executada em local de ambiente degradado, razão pela qual não se constitui em ambiente de balneabilidade.
+O aterro hidráulico propiciará um espaço importante, propiciando à natureza a recuperação de suas características ambientais
+primárias.
+Cabe registrar a implantação na área de Programas Ambientais com ações que concorrerão diretamente para a sustentabilidade
+ambiental, mitigação e adaptação.
+Dessa forma, a ação voltada a esta área estratégica terá o custo do próprio produto em si, US$ 11.568.858,22.
+
+P - Obras de Geotecnia / Contenções
+Basicamente três alternativas de soluções geotécnicas foram projetadas:
+1 - presença de solos moles em que a solução geotécnica foi somente com compensação do recalque previsto;
+2 - presença de solos moles em que a solução adotada foi a de cravação de geodrenos + construção do aterro em etapas +
+instalação de geogrelhas;
+3 - contenção de aterro através do uso de Terra Armada.
+
+P - Pavimentação
+As obras de pavimentação previstas no Programa correspondem à implantação da Av. Beira Mar de São José, marginais e
+acessos. Abrangem uma área total de 175.000 m2 e terão sua estrutura composta por uma sub-base em macadame seco com
+espessura de 20,0 cm, base de brita graduada de 15,0 cm de espessura e revestimento em concreto betuminoso usinado a quente
+faixa B de 4,0 cm e CBUQ com borracha Faixa C de 4,0 cm.
+Está prevista a construção de duas pistas asfaltadas de duplo sentido com 3 faixas por sentido tendo cada uma 3,50 metros de
+largura, numa extensão de 4.000m interligando a Beira Mar Norte Continental Florianópolis, desde a divisa de São José com
+Florianópolis, até a interseção com a BR-101, em Barreiros, junto ao Rio Três Henriques.
+
+
+Página: 9
+
+A obra também propõe a construção de via marginal com 3 faixas de 3,3 metros de largura e uma extensão de 4.400 metros, além
+de melhorias de 2.800 metros de vias de acesso.
+
+P - Drenagem/Obra de arte corrente - Macrodrenagem
+Macrodrenagem
+A macrodrenagem tem como objetivo canalizar e transpor as águas provenientes de córregos, dos sistemas de drenagem
+existentes à montante da área aterrada da Avenida. Esse sistema será composto de galerias, bueiros celulares - simples, duplos.
+Com o desenvolver do projeto executivo, definiu-se a macrodrenagem como composta de bueiros simples celulares de 1,50x1,50m
+, bueiros simples celulares de 2,00x2,00m, 2,00x1,50m, bueiros duplos celulares de 2,00x1,50m e 2,00x2,00m, totalizando 3.650
+metros.
+
+Microdrenagem
+A microdrenagem tem como finalidade a captação e condução das águas provenientes de chuvas por sobre a superfície aterrada.
+Esse sistema é composto pelos meios-fios de concreto, sarjetas triangulares, galerias de águas pluviais, caixas coletoras, caixas
+de ligação e passagem, tampas para caixas coletoras, etc.
+Este produto abrange as seguintes áreas estratégicas e impactos da Resolução nª 17, de 07 de junho de 2021 da COFIEX:
+-  "Item "1.3. implantação e/ou ampliação de ações de saneamento básico" uma vez que toda a obra da Via Beira Mar de São José
+contará com a implementação do sistema de drenagem de águas pluviais. Esta ação que contempla a Macrodrenagem se
+enquadra como saneamento básico, face ao manejo dos efluentes das vias públicas, de acordo com a Lei Federal nº 14.026/2020,
+que estabelece o Novo Marco Legal do Saneamento Básico, e com o Plano Municipal de Saneamento Básico (aprovado a partir do
+Decreto nº 14096/2020).
+- Item "1.4. Gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes",
+considerando que todos os aspectos relacionados com a parte hídrica estão sendo considerados com a implementação de
+dispositivos de drenagem, OAC e OAE, voltados à manutenção do sistema hídrico associado ao empreendimento, além da
+definição de planos e projetos voltados à recuperação do solo e preservação das nascentes.
+Dessa forma, a ação voltada a esta área estratégica terá o custo do produto em si, US$  5.771.134,76.
+
+P - Obras de Arte Especiais
+É prevista a implantação de 4 Obras de Arte Especiais para travessia do Rio Bucheler para todos os eixos do projeto, sendo cada
+uma com 23 m de comprimento e as seguintes larguras: 27,55m, 11,90m, 11,30m e 16,45m.
+
+P - Sinalização
+A sinalização das vias será composta por pinturas de faixa horizontal com tinta acrílica branca, pintura de faixa horizontal com tinta
+acrílica amarela, pinturas de setas e/ou dizeres na pista, placas de sinalização, placas orientativas, pórticos, tachões mono-
+refletivos, tachinhas mono-refletivas, além de sistema de semaforização e demais dispositivos de sinalização para o trânsito.
+
+P - Iluminação
+Será implantada a iluminação pública eficiente com LED de 757 luminárias e 298 postes ao longo da Avenida Beira Mar de São
+José, em 100% de sua extensão (3,5 km), para atender à forte circulação de pessoas na área com atividades noturnas, como
+caminhadas, práticas ciclísticas, jogos, entre outros, decorrente da implantação prevista de calçadas, ciclovias e equipamentos
+públicos, além de propiciar maior segurança pública e à circulação de veículos.
+A iluminação será implantada toda em LED, gerida pela central de Tele-Gestão municipal, onde todas as luminárias e espaços
+terão o uso inteligente de energia através da utilização de dimerizadores e sensores de presença resultando em uma eficiência
+energética significativa.
+São José será o segundo município catarinense a instalar luminárias inteligentes, com antenas 5G integradas (Anexo 19). As
+luminárias utilizarão um sistema inédito desenvolvido pelas empresas NOKIA e JUGANU, integrando às luminárias uma antena 5G
+que utiliza tecnologia mmwave (milimeter wave, ou ondas milimétricas) da Qualcomm, que permite ampliar a capacidade de
+disseminação do sinal de Internet da antena central até outros pontos, "desviando" de obstáculos que poderiam interferir na
+velocidade e funcionando como uma rede wireless, que permite o aumento da cobertura da internet móvel das operadoras.
+As luminárias inteligentes também possibilitarão funcionalidade de câmeras de videomonitoramento, reconhecimento facial, WI-FI,
+gestão semafórica e sensor de ruído, com impactos positivos na segurança pública, no controle de tráfego e no acesso da
+população ao sinal de wi-fi.
+Este produto abrange a seguinte área estratégica e impactos da Resolução nº 17, de 07 de junho de 2021 da COFIEX:
+- Item "1.2 eficiência energética, geração e/ou uso de energia de fontes renováveis" uma vez que a iluminação será toda em LED
+nas áreas de lazer, comunitárias e ao longo da Avenida Beira Mar objetivando a segurança dos usuários a redução de custos, e
+consequente, atratividade para utilização dos equipamentos públicos.
+As ações previstas neste Produto contemplam a implantação de tecnologias de tecnologias voltadas para segurança pública,
+controle de tráfego e acesso a wi-fi.
+Dessa forma, a ação voltada a esta área estratégica terá o custo do próprio produto em si,  US$ 2.131.651,60.
+
+P - Urbanização
+Considerando tratar-se de uma área totalmente urbanizada, a Avenida Beira Mar de São José contará com ações de adequação
+de acessibilidade, calçadas e ciclovias existentes, assim como implantação de novos elementos urbanísticos de modo a atender os
+transeuntes.
+Está prevista a implantação de ciclovia ao longo da via interna coletora, assim como junto ao mar, totalizando mais de 6 km de
+ciclovia, assim como 6,8 km de passeios.com acessibilidade.
+
+Este produto abrange as seguintes áreas estratégicas e impactos da Resolução nº 17, de 07 de junho de 2021 da COFIEX:
+
+
+Página: 10
+
+- Item "1.1. promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação", uma vez que a implantação de
+áreas de lazer de 30.000 m2 são constituídas de sobremaneira por áreas verdes (Programa contempla a arborização da área).
+Dessa forma, a ação voltada a esta área estratégica teria o custo do próprio produto em si, US$960.190,50.
+
+P -  Equipamentos Comunitários
+a)Principais objetivos
+- Fortalecimento e qualificação de um espaço público em local criado para a  população, capaz de abrigar atividades variadas para
+o beneficiamento da população do entorno da Via Beira Mar de São José, e  de se tornar um centro de referência socioambiental.
+- Criar espaços para o comércio de produtos locais como alimentação e artesanato, impulsionando a economia e o turismo
+ecológico da região e gerando emprego e renda.
+- Criar espaços para o lazer da população, porquanto os ambientes adjacentes à área de implantação da Avenida Beira Mar de
+São José são extremamente restritos, sem estrutura e sem atratividade.
+- Criar espaços   para atividades: culturais,  físicas, dança, capoeira, oficina, teatro, manifestações religiosas, cantina, salas de
+cursos, etc.
+- Promover educação ambiental e oficinas de capacitação visando a valorização e respeito à natureza por parte dos alunos da rede
+municipal de educação, dos moradores do entorno que utilizam a área, incentivando uma apropriação daquele espaço por parte
+da população josefense;
+- Criar espaço para o desenvolvimento de sementes de ostras e mariscos para a implantação de maricultura em espaços
+adequados ao longo das adjacências da Av. Beira Mar viabilizando a criação de novos empregos na região, tanto no seu
+desenvolvimento quanto na sua comercialização;
+- Criar espaço para o desenvolvimento de atividades educacionais voltadas para a juventude considerando a importância do
+incentivo, e criação de condições, à formação de atividades que oportunizem os jovens em novos afazeres, conhecimentos que
+resultem em viabilidades de trabalho, de inovação e desenvolvimento de conhecimento nas áreas tecnológicas mais afeitas
+principalmente aos jovens,  pequenos negócios, micro e pequenas empresas dadas as condições de baixa renda de número
+significativo de pessoas das proximidades e, por que não, mesmo de moradores mais afastados. Há que se oportunizar e otimizar
+espaços preciosos previstos no aterro da Avenida Beira Mar de São José para objetivos nobres, necessários e de muita demanda.
+O Programa prevê a implantação das seguintes ações específicas no Produto Equipamentos Comunitários:
+- Implantação de área de lazer de 400 m por 70 m (28.000 m2), com estacionamento de  300 vagas para automóveis, 300 vagas
+para motos e 9 vagas para ônibus;
+- Implantação de pequenas áreas de lazer com 100 m de comprimento e 30m de largura;
+- Construção de 5 salas multiuso, de 40 m² cada, destinadas ao ensino de informática, educação ambiental, capacitação de
+mulheres empreendedoras, culinária tradicional josefense, artesanato típico de São José, espaços para ensino de ballet, dança, etc
+.
+- Construção de 1 sala de 200 m² para realização de reuniões, festividades e comemorações.
+- Construção de uma concha acústica com 150 m² para apresentações, espaço cultural, área de lazer e academia para terceira
+idade.
+Ademais, previu-se a construção de diferentes espaços tais como pista de skate, quiosques, equipamentos, ilustrados na Planta
+Anexo 13.
+Este produto abrange as seguintes áreas estratégicas e impactos da Resolução nº 17, de 07 de junho de 2021 da COFIEX:
+- Item "1.1. promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação", uma vez que a obra contará com
+espaços para promover educação ambiental e oficinas de capacitação visando a valorização e respeito à natureza por parte dos
+alunos da rede municipal de educação, dos moradores do entorno que utilizam a área, incentivando uma apropriação daquele
+espaço por parte da população josefense.
+Estima-se que a ação específica voltada a esta área estratégica terá um custo de aproximadamente 5% do custo do produto em si,
+isto é, US$78.442,91.
+- Item "1.6 melhoria no ambiente de negócios e/ou oportunidades", uma vez que a implantação de espaços voltados para o
+desenvolvimento de capacitação em informática, instalações para pequenos negócios, produção e venda de artesanato, culinária,
+desenvolvimento da maricultura, gerando conhecimento sobre gestão de negócios e novas oportunidades de negócios  na região.
+A ação voltada a esta área estratégica terá o custo do próprio produto em si, US$1.568.858,22
+- Item "1.9. infraestrutura e/ou equipamentos sociais para populações de baixa renda e vulneráveis" considerando que a
+implantação dos Equipamentos Comunitários tem como um dos objetivos prioritários o atendimento às populações de baixa renda
+e vulneráveis dando-lhes oportunidades de formação de atividades profissionalizantes, assim como o acesso aos recursos de
+informática, à prática de atividades esportivas, à academia para terceira idade e às áreas de lazer disponibilizadas pelo poder
+público, a estas populações.
+A ação voltada a esta área estratégica terá o custo do próprio produto em si, US$1.568.858,22.
+- Item "1.11. políticas voltadas para juventude, gênero e raça", considerando que serão implantados espaços públicos: i) ações
+voltadas para a inserção no mercado de trabalho das Mulheres Empreendedoras; ii) quadras de esportes e áreas de recreação ao
+longo da Avenida. Tais ações irão estimular o desenvolvimento de políticas voltadas para mulheres e para a população jovem de
+São José, apoiadas por capacitação e disponibilização de espaços para atividades, principalmente de inclusão social,
+empreendedorismo, esporte, recreação e lazer. A implantação dos equipamentos públicos está sobremaneira voltada para as
+mulheres e jovens com as suas áreas de desenvolvimento das áreas educacionais e culturais, tais como informática, artesanato,
+culinária, empreendedorismo, etc.
+A ação voltada a esta área estratégica terá o custo do próprio produto em si, US$1.568.858,22.
+Item "1.12 Melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão e/ou participação cidadã",
+considerando que a  implantação do Centro Multiuso no projeto de Urbanização da via possibilitará a melhoria no processo de
+prestação de serviços públicos, incluído o acesso a wi-fi, porquanto serão criadas áreas destinadas a diversas classes sociais, com
+cursos de aperfeiçoamento profissional, com atividades relacionadas ao bem estar físico das pessoas, que hoje não dispõem
+deste espaço nem a prestação dos serviços públicos correlacionados.
+
+
+Página: 11
+
+A ação voltada a esta área estratégica terá o custo de aproximadamente 20% do produto (estimativa para o Centro Multiuso), US$
+313.771,64.
+Item "1.13. melhoria das condições de educação e saúde", considerando que dentre as atividades previstas na área dos
+Equipamentos Comunitários, será realizada capacitação em educação ambiental, maricultura, informática e oficinas visando a
+valorização e respeito à natureza por parte dos alunos da rede municipal de educação, dos moradores do entorno que utilizam a
+área, incentivando uma apropriação daquele espaço por parte da população josefense.
+Além disso, a implantação de espaços públicos, quadras de esportes e áreas de recreação na execução do Programa promoverá
+melhores condições de saúde da população do município de São José, pois permitirá o acesso da população a equipamentos
+públicos para práticas de exercícios físicos, caminhadas e também na prática de esportes.
+A ação voltada a esta área estratégica teria o custo de aproximadamente 50% do produto (estimativa para o Centro Multiuso), US$
+784.429,11.
+Item "1.14. Desenvolvimento, inovação e modernização tecnológica", considerando a disponibilização de espaço e o fomento de
+atividades voltadas para implantação de ensino de informática (previsto no Produto Equipamentos Comunitários), destinado
+principalmente para as pessoas de mais baixa renda, com o objetivo de formação de mão de obra qualificada nesta área e
+melhores oportunidades de emprego. Além disso, neste Produto "Equipamentos Comunitários" serão disponibilizados aplicativos
+para agendamento dos espaços multiusos e equipamentos esportivos, bem como acesso a wifi e totens para carregamento de
+celular em toda a área.
+
+A ação voltada a esta área estratégica terá o custo de aproximadamente 7% do produto (estimativa para o Centro Multiuso), US$
+109.820,08.
+
+C - DESAPROPRIAÇÕES
+Este componente contempla as desapropriações previstas no Programa.
+
+P - Desapropriações
+As áreas a serem desapropriadas possuem, aproximadamente, 4.743,21 m²,  correspondente a 46 imóveis privados com os
+respectivos registros.  Estão localizadas no trecho final da Av. Beira Mar de São José, junto ao Rio Três Henriques (interseção com
+a BR-101) e  vias de acesso à Via Beira Mar.
+Ressalta-se que nos Projetos executivos, já concluidos, (https://drive.google.com/file/d/1d5o9r5eMinQm3I7BSAYCc-QkbbmX71q0/
+view?usp=drive_link) constam cada um desses quantitativos. Ademais, os desenhos técnicos específicos de desapropriação (https:
+//drive.google.com/drive/folders/1SvHztXydGSRuqpXXHZOy-Vrkx1a7-rSF) detalham ainda mais o levantamento já realizado.
+
+As áreas atingidas são parciais ou na totalidade do lote. Os custos estimados são oriundos de pesquisas de valores locais e de
+comercialização recentes, bem como de sindicatos e de índices da construção civil da região de Santa Catarina. Sobre os imóveis
+que serão desapropriados não há edificação que caracterize a necessidade de um trabalho social ou de reassentamento.
+
+É importante salientar que a Prefeitura Municipal de São José elaborou um Plano de Desapropriações (Anexo 20) detalhado. Este
+documento apresenta um cronograma de atividades para se chegar ao seu objetivo final, um fluxograma do processo
+administrativo interno do município para tramitação das desapropriações; roteiro geral dos procedimentos e ações necessárias
+para aquisição dos imóveis e áreas; cronograma de execução e por fim, a identificação das áreas a serem desapropriadas.
+O município já está em fase de execução de tal Plano, tendo já concluído a etapa de elaboração de peças técnicas (Memorial
+Descritivo e Planta de Desapropriação).
+
+C - GESTÃO DO PROGRAMA
+Este componente integra ações destinadas ao gerenciamento do Programa  pelo município de São José, fortalecendo as ações de
+administração, controle e acompanhamento a serem realizadas  pela UGP. Estão previstos os seguintes produtos: a supervisão
+técnica, ambiental e social, a unidade de gerenciamento do programa, a auditoria externa e a comissão de financiamento.
+
+P - Supervisão Técnica, Ambiental e Social
+Devido à grande complexidade na execução da obra principal que compõe este Programa, torna-se necessária a contratação de 1
+(uma) empresa especializada  para a supervisão das obras a serem executadas.
+Os serviços de supervisão das obras serão  financiados com recursos do FONPLATA. A  empresa contará com  o apoio da
+Secretaria Municipal de Infraestrutura. Compreenderão trabalhos de apoio ao acompanhamento da qualidade dos serviços,
+fidelidade no seguimento das soluções de projeto, aplicação de materiais e uso dos métodos construtivos, perfazendo assim um
+perfil altamente técnico aos trabalhos. Também deverão ser acompanhadas a acuidade dos trabalhos de sondagem, a escavação
+e o uso compatível com os materiais e equipamentos, além do monitoramento dos impactos ambientais e suas respectivas
+medidas mitigadoras, de controle e redução dos riscos ambientais decorrentes da implantação e operação das obras do Programa.
+Os  serviços de supervisão, fiscalização e acompanhamento de obras  contemplam  as seguintes atividades básicas de campo:
+a) Controle da qualidade técnica dos serviços contratados;
+b) Acompanhamento do atendimento dos serviços contratados às especificações dos projetos;
+c) Verificações técnicas, ambientais e administrativas, relacionadas às atividades do canteiro de obras e das frentes de serviços;
+d) Verificação do cumprimento, no âmbito dos contratos dos requisitos de funcionalidade técnica requeridos em projeto;
+e) Verificação do cumprimento, no âmbito dos contratos de obras, da legislação trabalhista, de segurança do trabalho e meio
+ambiente;
+f) Controle dos faturamentos da obra, verificando os quantitativos efetivamente medidos;
+g) Acompanhamento da evolução física e financeira dos contratos;
+h) Acompanhamento por meio de relatórios mensais que reflitam indicadores de custo, desempenho e avanço físico dos
+empreendimentos, apontando os caminhos críticos e as alternativas de solução para os problemas decorrentes da execução
+contratual;
+
+
+Página: 12
+
+i) Acompanhamento e monitoramento das condicionantes ambientais indicadas na licença ambiental de instalação;
+j) Elaboração e apresentação, após a conclusão de cada etapa de obra, o projeto "como construído", de maneira que representem
+a última versão emitida do projeto e que sejam condizentes com a real implantação da obra.
+
+P - Unidade de Gerenciamento do Programa (UGP)
+Este produto compreende as atividades destinadas a dotar o município de uma Unidade de Gerenciamento do Programa (UGP)
+com capacidade adequada para  gerenciar, executar e acompanhar as ações e procedimentos estabelecidos no Contrato de
+Empréstimo a ser celebrado junto ao FONPLATA. A UGP está vinculada à Secretaria Municipal de Infraestrutura, com apoio de
+equipe técnica multidisciplinar das diversas Secretarias Municipais. Poderá contar com um apoio operacional externo que terá por
+objetivo suprir a UGP de elementos administrativos e operacionais nas atividades de gestão e execução do contrato de empréstimo
+nas tomadas de decisão, principalmente quanto às ocorrências apresentadas no período, suas medidas de correção, nas ações
+preventivas contra potenciais riscos, e no acompanhamento do estado físico e financeiro do Programa. Possui a função de
+cadastramento e atualizações de todas as informações contempladas nas plataformas da Matriz de Usos e Fontes, do Plano
+Operacional Anual, do Plano de Aquisições e Contratações, do Status de execução física e financeira das obras e serviço, da
+Justificativa de Gastos do financiamento e  da Contrapartida e, por fim, do acompanhamento das Cláusulas Contratuais do
+Contrato de Empréstimo celebrado entre o município de São José e o Organismo Financiador, atentando para seus prazos e
+obrigações previstos.
+
+P - Auditoria Externa
+O Produto refere-se  à contratação de empresa especializada para a elaboração dos relatórios anuais de auditoria financeira
+durante o prazo de desembolso do Programa, em conformidade com o disposto no contrato de empréstimo. Os serviços
+contemplarão a verificação do cumprimento das cláusulas contratuais, a utilização dos recursos, as aquisições, os desembolsos,
+as justificativas de gastos, entre outros.
+Além da auditoria externa, o Programa estará sujeito às verificações da Controladoria do Município e do Tribunal de Contas do
+Estado de Santa Catarina (TCE/SC).
+
+P - Comissão de Financiamento
+Comissão de financiamento cobrada pelo FONPLATA referente ao montante do empréstimo do Programa.
+Cabe destacar que o Programa dispõe de Projeto Executivo da obra da Av. Beira Mar de São José em fase final de revisão, que
+estão identificadas as desapropriações previstas e está em execução o respectivo Plano de Desapropriação, bem como tem
+conhecimento das lições aprendidas e compartilhadas pelo Município de Florianópolis na execução de obra com características
+similaridades às da obra da Via Beira Mar de São José e com o mesmo agente financeiro (Fonplata).
+Assim sendo, com esse importantes avanços, o Município de São José está seguro que este Programa será executado dentro do
+PRAZO DE DESEMBOLSO de 5 ANOS previsto para a operação de crédito, bem como elaborou o respectivo CRONOGRAMA
+FÍSICO-FINANCEIRO com a distribuição dos recursos em conformidade com os avanços anteriormente mencionados e o
+cronograma das obras/atividades previstas, tendo em conta que com as ações já realizadas/em realização e aquelas a serem
+desenvolvidas na preparação do Programa, estará apto para dar início à sua plena execução, imediatamente após a assinatura do
+contrato de empréstimo com o Fonplata.
+Estas informações estão incluídas neste campo, visto que não há como inseri-las nos itens 4.3 Execução/Prazo (Prazo de
+Desembolso) e 4.4 Execução/Cronograma.
+
+Categoria de Gasto
+
+Obras
+P- Terraplenagem
+P- Obras de Geotecnia / Contenções
+P- Pavimentação
+P- Drenagem/Obra de arte corrente -
+Macrodrenagem
+P- Obras de Arte Especiais
+P- Sinalização
+P- Iluminação
+P- Urbanização
+P-  Equipamentos Comunitários
+Consultoria
+P- Estudos de Viabilidade, Sociais e Projetos de
+Engenharia
+P- Ações Ambientais
+P- Supervisão Técnica, Ambiental e Social
+P- Unidade de Gerenciamento do Programa (UGP
+)
+P- Auditoria Externa
+Outros
+P- Desapropriações
+P- Comissão de Financiamento
+Total Geral
+
+Unidade de medida
+-
+m2
+m2
+km
+m
+
+Meta
+
+-
+380.000,00
+380.000,00
+3,50
+3.650,00
+
+unidades
+km
+luminárias
+km
+m2
+-
+unidade
+
+unidade
+unidade
+unidade
+
+unidade
+-
+m2
+unidade
+-
+
+3,50
+4,00
+757,00
+6,80
+28.000,00
+-
+1,00
+
+1,00
+1,00
+1,00
+
+1,00
+-
+4.743,21
+1,00
+-
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Valor
+
+% Financeiro
+
+44.956.471,72
+13.851.678,72
+7.160.270,66
+8.599.104,91
+5.771.134,76
+
+4.287.807,46
+625.774,89
+2.131.651,60
+960.190,50
+1.568.858,22
+6.599.214,67
+1.743.605,70
+
+576.114,30
+3.627.455,23
+602.039,44
+
+50.000,00
+2.444.313,61
+2.206.713,61
+237.600,00
+54.000.000,00
+
+83,25
+25,65
+13,26
+15,92
+10,69
+
+7,94
+1,16
+3,95
+1,78
+2,91
+12,22
+3,23
+
+1,07
+6,72
+1,11
+
+0,09
+4,53
+4,09
+0,44
+100,00
+
+
+Página: 13
+
+Para elaboração do Projeto Executivo de Engenharia e Estudos Ambientais relativos à obra da Avenida Beira Mar de São José, a
+Prefeitura Municipal de São José publicou o Edital de Concorrência nº 11/2022,  e o Contrato de nº 113/2022 foi assinado no dia 24/05/
+2022, com prazo de 12 meses para a elaboração do Projeto Executivo de Engenharia e mais 3 meses para a conclusão dos Estudos
+Ambientais.
+
+A minuta do Projeto encontra-se em fase de análise por parte da Prefeitura Municipal de São José, inclusive na parte orçamentária,
+podendo sofrer pequenos ajustes. A previsão de conclusão da análise e entrega definitiva do Projeto Executivo é de 30 de julho/2023.
+
+Até a assinatura do contrato de empréstimo, já estarão concluídos todos os Projetos e Estudos necessários para a licitação das obras.
+Portanto, ao assinar o Contrato de Empréstimo serão efetuadas as licitações para execução das obras, com o qual se assegura a
+execução do Programa dentro do prazo de 5 anos previsto para desembolso.
+
+A seguir são apresentados alguns aspectos relevantes deste projeto dadas as características peculiares desta obra::
+
+1) Estudo de Tráfego
+
+Foram realizadas contagens volumétricas e pesquisas de Origem/Destino por placas em 6 locais, visando identificar a rota utilizada
+atualmente pelos usuários, e determinar o tráfego a ser desviado.
+
+Sobre o volume de tráfego desviado foi acrescido o volume gerado por conta das atratividades devidas à implantação da obra.
+
+2) Estudo Topobatimétrico
+
+Para o Projeto executivo de engenharia da Beira Mar Continental, no segmento compreendido entre o Rio Büchler (divisa com o município
+de Florianópolis) e interseção com a Rodovia BR-101/SC, junto ao Rio Três Marias, com extensão de 3,75km, foi executado um
+levantamento topobatimétrico de campo, planialtimétrico e cadastral georreferenciado, para a obtenção da restituição topográfica
+convencional, compatível com a escala 1:1000 (classe I PAC da NBR13.133/94).
+
+3) Estudo Geotécnico
+
+Da análise do primeiro projeto da Beira Mar Continental de São José, verificou-se que foram realizadas diversas campanhas de
+investigações geotécnicas, sendo elas: (i) Sondagens penetrométrica DPL (Prosul) - 21 furos de sondagem; (ii) Sondagens SPT (EPT
+Engenharia) - 08 furos de sondagem; (iii)  Sondagens SPT (SPT Engenharia) - 07 furos de sondagem.
+
+4) Jazida
+
+As melhores jazidas próximas ao empreendimento estão localizadas próximas da região Norte da foz do Rio Três Henriques e também
+próximo da Ponta do Leal, as quais podem ser vistas na imagem do Anexo 14.
+
+Os refletores sísmicos representam o limite superior e inferior, respectivamente, de uma camada de sedimentos arenosos. A partir da
+determinação desta camada, foi calculada sua espessura e com uma interpretação conjunta entre os dados sísmicos e amostragem direta
+foram determinadas as áreas de potenciais jazidas de material arenoso na região de estudo. Foram determinadas 4 áreas que
+contemplam um volume total de material arenoso de 3.244.991,2 m3. Considerando o uso de material mais fino e/ou argiloso o volume
+que pode ser obtido alcança aproximadamente 5.000.000 m3.
+
+5) Estudo Conceitual e Projeto Geométrico
+
+Estudo Conceitual (Plano Funcional) aprovado e Projeto Geométrico finalizado (Anexo 11), na qual são previstos os seguintes
+equipamentos viários:(i)  via marginal a porção continental com objetivo de coletar os diversos acesso diretos e tráfego de mais curta
+distância; (ii)  bolsões de estacionamento junto à porção continental, com objetivo de permitir a integração da via com a população
+residente no entorno; (iii) duas pistas com 3 faixas de tráfego por sentido cada; (iv)  ciclovia junto ao marginal; e, (v) Passeio junto à
+porção continental e junto à marginal.
+
+Cumpre destacar que em 2006 a Prefeitura de São José desenvolveu um projeto com características similares para o local, porém com
+área acrescida de marinha significativamente maior, oportunidade em que foram também desenvolvidos os estudos ambientais, obtida a
+Licença Ambiental Prévia, tanto da obra quanto da jazida.
+
+A jazida de areia para utilização no aterro hidráulico, situada em área marinha próxima à foz do Rio Três Henriques, teve sua Licença
+Ambiental Prévia (LAP) emitida quando da elaboração do Projeto da Avenida Beira Mar de São José em 2007.
+
+O Estudo de Impacto Ambiental (EIA) da Avenida Beira Mar Continental de São José, fez parte de um pacote de serviços contratados pela
+Prefeitura Municipal de São José, que incluiu, além do EIA e seu Relatório de Impacto ao Meio Ambiente (RIMA), o Projeto Final de
+Engenharia e o Plano Básico Ambiental (PBA) do empreendimento.
+
+6) Minuta do Projeto Executivo
+
+Em 10 de maio foi entregue à Prefeitura Municipal de São José a Minuta do Projeto Executivo da Avenida Beira Mar de São José,
+composto dos seguintes volumes:
+
+
+Página: 14
+
+- Volume 1 - Relatório de Projeto,
+
+- Volume 2 - Projeto de Execução - Tomo I e II,
+
+- Volume 3 - Projeto de Dragagem
+
+- Volume 4 - Orçamento
+
+- Anexo 1.1 - Estudo Geotécnico
+
+- Anexo 1.2 - Elementos, Notas de Serviço e Cálculo de Volumes
+
+- Anexo 1.3 - Seções Transversais.
+
+Tais arquivos podem ser acessados para consulta via hiperlink a seguir: https://drive.google.com/file/d/1d5o9r5eMinQm3I7BSAYCc-
+QkbbmX71q0/view?usp=drive_link
+
+A minuta do Projeto encontra-se em fase de análise por parte da Prefeitura Municipal de São José, inclusive na parte orçamentária,
+podendo sofrer pequenos ajustes. A previsão de conclusão da análise e entrega definitiva do Projeto Executivo é de 30 de julho/2023.
+
+Com a conclusão do Projeto de Engenharia, os estudos ambientais permitem concluir o EIA/RIMA que estará entregue até 30 de julho/
+
+Os projetos dos Equipamentos Comunitários referentes à:
+
+- Construção de 5 salas multiuso, de 40 m² cada, destinadas ao ensino de informática, culinária tradicional josefense, artesanato típico de
+São José, espaços para ensino de ballet, dança, etc.
+
+- Construção de 1 sala de 200 m² para realização de reuniões, festividades e comemorações.
+
+- Construção de uma concha acústica com 150 m² para apresentações, espaço cultural, área de lazer e academia para terceira idade.
+
+- pista de skate, quiosques,
+
+7) Desapropriações
+
+As desapropriações previstas no Programa estão relacionadas às obras no trecho final da Avenida e em vias de acesso. O Município
+adotou as seguintes medidas prévias para realizar as desapropriações necessárias para a execução das referidas obras:
+
+- Foi  elaborado o Plano de Desapropriação estruturado e detalhado (Anexo 19), incluindo:
+
+os levantamentos imobiliários; e
+
+os orçamentos de mercado dos imóveis a desapropriar.
+
+- Concluídos os desenhos técnicos com o levantamento das áreas a serem desapropriadas, disponíveis para consulta no hiperlink: https://
+drive.google.com/drive/folders/1SvHztXydGSRuqpXXHZOy-Vrkx1a7-rSF
+
+Seguindo o Plano de desapropriação e concluídos os projetos, as tratativas com os proprietários serão realizadas imediatamente após a
+aprovação da Carta Consulta pela COFIEX.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Municipal
+
+MUNICIPIO DE  SAO JOSE(SC)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+O município de São José optou por buscar um financiamento externo em detrimento de financiamento interno, considerando que as taxas
+de juros e encargos de financiamentos internos são maiores e os prazos de amortização, e de carência são menores, o que gera uma
+pressão muito forte sobre o fluxo de caixa do município, limitando fortemente as possibilidades de captação de recursos para projetos
+estruturantes que demandam valores expressivos, como o da Avenida Beira Mar de São José.
+
+Foram analisadas as seguintes condições financeiras dos agentes financeiros internos:
+
+BRB
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 15
+
+- Prazo total: 120 meses
+
+- Prazo de carência: 12 meses;
+
+- Prazo de amortização: 108 meses;
+
+- Taxa concedida: 115% de CDI a.a.;
+
+- Demais Encargos: Tarifa de 1% sobre o valor do financiamento + Tarifa de 0,5% a.a sobre o saldo não desembolsado;
+
+Caixa Econômica Federal - CEF
+
+- Prazo total: 120 meses;
+
+- Prazo de carência: 24 meses;
+
+- Prazo de amortização: 96 meses;
+
+- Taxa concedida: 131,13% de CDI a.a;
+
+- Demais Encargos: Tarifa de Customização: 2%;
+
+Além disso, sabe-se que o Brasil tem uma longa experiência com financiamentos externos como alternativa fundamental para
+complementar os esforços de investimentos necessários para o desenvolvimento do país. Pode-se destacar as seguintes características
+positivas dos financiamentos externos:
+
+1. Os organismos multilaterais de financiamento externo, entre eles se destaca o FONPLATA, acumularam um grande conhecimento e
+experiência de décadas em investimentos em projetos de desenvolvimento e mobilidade urbana. Isto gera uma expertise importante,
+mitigando riscos e disponibilizando estratégias que garantem atingir com eficiência e eficácia os objetivos dos projetos;
+
+2.Segundo estudos, ainda tendo o risco cambial e flutuações de moedas estrangeiras, no longo prazo, tem-se demonstrado que os
+serviços da dívida junto a organismos multilaterais têm sido mais baixos, especialmente porque esses organismos oferecem prazos de
+empréstimos mais longos.
+
+3.Os prazos de carência e amortização dos empréstimos oferecidos pelos organismos multilaterais, comparados com a oferta nacional, na
+maioria dos casos são mais longos, o que gera um requerimento de fluxo de Caixa para o mutuário muito mais confortável, inclusive
+permitindo tomar outros empréstimos para investimentos sem esgotar a sua capacidade de pagamento, nem endividamento.
+
+O segundo aspecto analisado foram as condições financeiras de outros organismos financiadores externos, como é o caso do Banco de
+Desenvolvimento da América Latina (CAF) e do New Development Bank (NDB), conforme indicado abaixo:
+
+Na CAF:
+
+-          Desembolso: 60 meses
+
+-          Carência: 60 meses
+
+-          Amortização: 156 meses
+
+-          Prazo Total: 216 meses
+
+-          Taxa de juros: aproximadamente SOFR (6 meses) +- 2% a.a
+
+- Demais encargos: Comissão de financiamento = 0,85%.
+
+-   Comissão de Avaliação US$ 50.000
+
+No NDB:
+
+-          Desembolso: 60 meses
+
+-          Carência: 60 meses
+
+-          Amortização: 156 meses
+
+-          Prazo Total: 216 meses
+
+(cid:10)
+(cid:10)
+
+
+Página: 16
+
+-          Taxa de juros: aproximadamente SOFR (6 meses) + 1,35% a.a.
+
+-          Demais encargos: Comissão de compromisso de 0,25% a.a. sobre o saldo não desembolsado do empréstimo, aplicado seis meses
+após a assinatura do contrato;
+
+-  Comissão de financiamento de 0,25% do montante do empréstimo, a ser pago até a data do primeiro desembolso.
+
+No FONPLATA:
+
+As condições financeiras são parecidas com os organismos acima mencionados, conforme demonstrado abaixo:
+
+-          Desembolso: 60 meses;
+
+-          Carência: 48 meses;
+
+-          Amortização: 132 meses (o empréstimo será amortizado pelo município mediante o pagamento de até 22 (vinte) parcelas
+semestrais, consecutivas e preferencialmente iguais, acrescidas dos juros no vencimento de cada uma das parcelas);
+
+-          Prazo Total: 180 meses
+
+-          Taxa de juros: para os financiamentos com prazos de 15 anos a taxa é de aproximadamente 2,1% a 2,6% somados a SOFR 180
+dias.
+
+Cabe ressaltar que o FONPLATA oferece aos mutuários uma taxa preferencial denominada Linha de Apoio à Reativação Econômica (para
+mitigação dos efeitos da pandemia), aplicada automaticamente à metade do valor do empréstimo, bem como adicionalmente oferece a
+modalidade Linha de Financiamento Verde para intervenções do Programa declaradas elegíveis pelo Banco, que reduzem a taxa de juros
+aplicável de 2,6% para 2,1%. Esta redução traz um impacto muito positivo, levando a taxa do FONPLATA a ficar muito próxima às dos
+demais organismos financiadores externos.
+
+Com isto, mesmo com as taxas do FONPLATA ficando levemente acima, não se considera a diferença suficiente como único critério para
+optar por outras possíveis fontes que, eventualmente, ainda tendo condições financeiras levemente mais favoráveis, apresentam e exigem
+requerimentos que poderiam estender exageradamente aos tempos de preparação e execução do Programa, pois demandariam  gastos
+de recursos e tempos adicionais para o cumprimento de suas normas de aquisições, sociais e ambientais, bem mais complexas.
+
+Demais encargos: Comissão de compromisso de 0,35% a.a. sobre o saldo não desembolsado do empréstimo, aplicado seis meses após a
+assinatura do contrato; comissão de Administração (depende do tempo requerido para a assinatura do Contrato de Empréstimo após da
+aprovação da Diretoria do FONPLATA): 0,55% (até 360 dias) e 0,70% (entre 361 a 720 dias), calculado sobre o montante total do
+empréstimo, a ser pago até a data do primeiro desembolso.
+
+JUSTIFICATIVA PELO AGENTE FINANCEIRO EXTERNO ESCOLHIDO - FONPLATA
+
+A escolha do FONPLATA como o melhor agente financeiro para a operação de crédito foi realizada pelo município após a análise de
+vários fatores além dos aspectos financeiros, tais como econômicos, técnicos, operacionais, expertise e experiência em Programas desta
+natureza, bem como a disposição do Banco em apoiar o Município em todas as etapas da operação de crédito.
+
+Nessa escolha, destacaram-se os seguintes aspectos principais:
+
+i) a experiência do Banco em financiamentos de projetos similares e contíguos ao Programa de São José, visto que o FONPLATA é o
+agente financeiro das operações de crédito relativa à 1ª etapa da Beira Mar Continental de Florianópolis, concluída com sucesso, e a 2ª
+etapa de Florianópolis, que são obras complementares à da Av. Beira Mar de São José;
+
+ii) o apoio do FONPLATA ao Município nas etapas de pré-identificação do Programa e na elaboração da respectiva carta-consulta. Esse
+apoio, por meio de sua equipe técnica e consultorias, é de grande importância, pois além de trazer um ganho significativo de
+conhecimento e de qualidade à carta-consulta e, consequentemente ao Programa, agiliza sobremaneira a finalização e encaminhamento
+do documento para a apreciação da COFIEX.
+
+iii) a grande experiência e o foco do Banco no financiamento a Municípios, refletida na sua carteira de projetos no Brasil;
+
+iv) alinhamento do Programa às diretrizes e políticas do Banco;
+
+v) a agilidade e a eficiência do FONPLATA no atendimento às demandas do Município;
+
+vi) a agilidade do Banco nas aprovações de demandas do Mutuário, tais como projetos, licitações, desembolsos, visto que usa
+procedimentos simplificados e eficientes em suas análises. Tal agilidade traz ganhos expressivos no cronograma físico-financeiro de
+execução do Programa e redução de custos; e
+
+
+Página: 17
+
+vii) a utilização pelo Banco de políticas e normas de aquisição, sociais e ambientais similares às nacionais produzem os seguintes
+benefícios à operação de crédito:  a) reduzem significativamente o custo transacional da operação de crédito (baixo custo de preparação e
+execução); b) geram menor demanda de técnicos, consultorias e serviços adicionais; e c) propiciam maior segurança e menores risco na
+execução do Programa.
+
+Outra importante vantagem se relaciona aos custos transnacionais decorrentes da parceria com o NDB. O uso dos sistemas nacionais
+tanto para os aspectos socioambientais quanto para os procedimentos de licitações e gestão de contratos traz duas vantagens
+importantes: não impõe custos  adicionais de preparação e implementação de projeto, evitando-se equipes e treinamentos adicionais e
+reduzindo os tempos requeridos; ademais, tal medida reforça a implementação das regras nacionais, o que aumenta a capacidade de
+implementação não apenas no projeto específico, mas que se pode disseminar para outros projetos do mutuário; a redução dos
+requerimentos de revisões prévias pelo financiador também impacta positivamente a execução do projeto; Finalmente, essa política de
+sistemas nacionais resulta ainda em tempo significativamente menor de preparação e implementação do projeto, menos demanda de
+pessoas e consultorias e serviços adicionais.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+O Programa beneficiará a população do Município de São José estimada em 287.000 habitantes (IBGE 2023), além de habitantes de
+outros municípios que utilizarão a Via Beira Mar de São José como alternativa de tráfego à Via Expressa.
+
+As intervenções previstas abrangem os seguintes itens de avaliação dispostos no item 4 do Anexo da Resolução nª 17, de 07 de junho de
+2021 da COFIEX:
+
+Item "1.1. promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação, se relaciona as seguintes ações do
+Programa:
+
+implantação do próprio aterro hidráulico em local degradado, razão pela qual não se constitui em ambiente com balneabilidade,
+recuperando um espaço ambiental importante, devolvendo à natureza suas características primárias;
+
+implantação de áreas de lazer de 30.000 m²  a ser constituído sobremaneira de áreas verdes (Programa contempla a arborização da área)
+;
+
+implantação de ambientes destinados ao ensino, além das outras atividades correlatas.
+
+implantação de espaço para promover educação ambiental e oficinas de capacitação visando a valorização e respeito à natureza por parte
+dos alunos da rede municipal de educação, dos moradores do entorno que utilizam a área, incentivando uma apropriação sustentável
+daquele espaço por parte da população josefense;
+
+- as ações ambientais previstas no Programa promovem a sustentabilidade ambiental, pois diminuem significativamente a erosão do solo,
+a contaminação da praia e possuem como medidas de mitigação a execução de barreiras de siltagem e de macrodrenagem, contribuindo
+para a proteção do meio ambiente.
+
+- os estudos ambientais, em execução,  objetivando a obtenção do licenciamento ambiental serão elaborados em consonância com as
+legislações a que estão submetidos e deverão prever a qualidade ambiental futura em decorrência da implantação do empreendimento,
+identificar as alternativas locacionais e tecnológicas mais viáveis, sempre em conformidade com a legislação ambiental vigente, visando
+respeitar a capacidade de suporte do meio, e ainda identificação e avaliação dos impactos ambientais e as respectivas medidas
+mitigadoras, potencializadoras e compensatórias. Além disso, está prevista a elaboração e implementação das medidas mitigadoras
+previstas nos programas ambientais descritos no Produto - 1.1.2  Ações Ambientais
+
+Item "1.2 eficiência energética, geração e/ou uso de energia de fontes renováveis"  se relaciona as seguintes ações do Programa:
+
+- A iluminação será toda em LED nas áreas de lazer, comunitárias e ao longo da Avenida Beira Mar objetivando a segurança dos usuários
+e, consequente, atratividade para utilização destes equipamentos. O sistema de iluminação será gerido pela central de Tele-Gestão
+municipal onde todas as luminárias e espaços terão o uso inteligente de energia através da utilização de dimerizadores e sensores de
+presença resultando em uma eficiência energética significativa e redução de custos para o município.
+
+Item "1.3. implantação e/ou ampliação de ações de saneamento básico", se relaciona às seguintes ações do Programa:
+
+Toda a obra da Via Beira Mar de São José contará também com a implementação do sistema de drenagem de águas pluviais. Esta ação
+que contempla a Macrodrenagem, é considerada de promoção de saneamento básico, face ao manejo dos efluentes das vias públicas, de
+acordo com a Lei Federal nº 14.026/2020, que estabelece o Novo Marco Legal do Saneamento Básico, e com o Plano Municipal de
+Saneamento Básico (aprovado a partir do Decreto nº 14096/2020).
+
+Item "1.4. Gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes" se relaciona às
+seguintes ações do Programa:
+
+(cid:10)
+(cid:10)
+
+(cid:10)
+
+
+Página: 18
+
+Considerando que os estudos e projetos relacionados com o empreendimento atendem aos preceitos da legislação municipal, estadual e
+federal, onde todos os aspectos ambientais, sociais e econômicos serão e estão sendo tratados no âmbito do estudo de impacto ambiental
+, com a indicação dos programas e projetos que contemplam as medidas mitigadoras, potencializadoras e compensatórias do projeto
+Contemplando obras que trarão melhoria da qualidade de vida da população e usuários do complexo viário associado ao empreendimento
+.
+
+Todos os aspectos relacionados com a parte hídrica foram e estão sendo considerados com a implementação de dispositivos de
+drenagem, OAC e OAE, voltados à manutenção do sistema hídrico associado ao empreendimento, além da definição de planos e projetos
+voltados à recuperação do solo e preservação das nascentes.
+
+Item "1.5 conservação e manejo da biodiversidade e/ou recursos florestais" se relaciona às seguintes ações do Programa.
+
+Neste quesito, o empreendimento tem maior impacto principalmente em relação à biota aquática, uma vez que se desenvolve ações que
+contribuirão para a melhoria da qualidade das águas da praia, tal como a macrodrenagem e barreiras de siltagem,  bem como a
+implantação de arborização a ser realizada nas áreas remanescentes. Dentro do estudo de impacto ambiental são previstos programas e
+medidas mitigadoras e de monitoramentos, como forma de conservação à biodiversidade.
+
+Item "1.6 melhoria no ambiente de negócios e/ou oportunidades", se relaciona as seguintes ações do Programa:
+
+implantação de espaços voltados para o desenvolvimento do artesanato, culinária, informática, desenvolvimento da maricultura, gerando
+conhecimento sobre gestão de negócios e capacitação para novas oportunidades de negócios  na região.
+
+- A implantação da Av. Beira Mar de São José trará melhorias significativas na mobilidade da cidade e na região da Grande Florianópolis.
+Essas melhorias contribuirão com o desenvolvimento de negócios e/ou oportunidades, pois atrairão grande parcela de empreendedores
+que irão investir na cidade e região e uma substancial demanda por produtos e serviços.
+
+Item "1.7 benefícios para empreendedores individuais, micro e pequenas empresas", se relaciona as seguintes ações do Programa:
+
+com a  implantação da  Av. Beira Mar de São José muitos empregos serão gerados com as novas oportunidades de negócios.
+
+a implantação da Via resultará em um desenvolvimento imobiliário na região, transformando o espaço em uma nova Beira Mar à
+semelhança da Beira Mar Norte em Florianópolis, o que trará as oportunidades de implantações de negócios na área de serviços (bares,
+restaurantes, comércios, prestação de serviços) e comercialização de produtos.
+
+- A implantação da Av. Beira Mar de São José impulsionará a circulação de pedestres e veículos no bairro Barreiros, trazendo benefícios
+para os empreendedores individuais, micro e pequenas empresas que possuem ou implantarão seus estabelecimentos de comércio e de
+prestação de serviços.
+
+Item "1.8. geração de emprego e renda para populações de baixa renda e vulneráveis",  se relaciona as seguintes ações do Programa:
+
+- A Implantação da Beira Mar gerará emprego ao longo de toda sua implantação. Concluída a Via estará oportunizado o desenvolvimento
+imobiliário da região que se estenderá por muitos anos absorvendo muita mão de obra de menor qualificação, de menor renda. Em
+paralelo, a manutenção, a conservação de todo este sistema viário, de todos os  equipamentos  implantados, demandarão mão de obra de
+forma contínua e significativa.
+
+Item "1.9. infraestrutura e/ou equipamentos sociais para populações de baixa renda e vulneráveis", se relaciona as seguintes ações do
+Programa:
+
+A Implantação da infraestrutura na região e  dos Equipamentos Comunitários têm como um dos objetivos prioritários o atendimento às
+populações de baixa renda e vulneráveis dando-lhes oportunidades de formação de atividades profissionalizantes, de empregos, assim
+como a prática de atividades esportivas, áreas de lazer e atendimento social fornecidos pelo poder público acessível, portanto, a estas
+populações.
+
+- A implantação da Av. da Beira Mar de São José permitirá o fornecimento de infraestrutura e equipamentos sociais para as populações de
+baixa renda e vulneráveis, como os moradores que residem na região de Barreiros. Além disso, a infraestrutura viária a ser implantada
+permitirá o aumento do número das linhas de transporte coletivo neste bairro (Barreiros), ampliando a cobertura nesta região, sendo que
+grande parcela dos usuários são de baixa renda e vulneráveis que dependem do transporte para locomoção até escolas, pontos de
+emprego e serviços públicos e privados.
+
+Item "1.10 Ações de inclusão de minorias sociais entre os beneficiários", se relaciona às seguintes ações do Programa:
+
+O Programa prevê ações de inclusão de minorias sociais a partir das capacitações que serão realizadas no Centro Multiuso para mulheres
+empreendedoras que são excluídas, sem acesso a empregos formais; além disso, se prevê a construção de academia para terceira idade
+(idoso); e por fim, a instalação de luminárias inteligentes, com antenas 5G integradas (wifi), irá beneficiar principalmente a população de
+baixa renda que tem acesso restrito a internet.
+
+Item "1.11. políticas voltadas para juventude, gênero e raça", se relaciona as seguintes ações do Programa:
+
+(cid:10)
+
+
+Página: 19
+
+- A implantação de espaços públicos, áreas de cursos e capacitação, quadras de esportes e áreas de recreação permitirá o
+desenvolvimento de políticas voltadas para a população jovem de São José, pois permitirá o acesso de jovens e crianças aos benefícios
+propiciados pelo Programa com a implantação destas obras e atividades.
+
+- A implantação dos equipamentos públicos está sobremaneira voltada para a juventude com as suas áreas de desenvolvimento em ações
+educacionais educacionais, tais como, informática, artesanato, culinária, etc.
+
+- A implantação do Centro multiuso com
+
+Item "1.12 Melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão e/ou participação cidadã" se relaciona às
+seguintes ações do Programa:
+
+A implantação do Centro Multiuso no projeto de Urbanização da Via possibilitará a melhoria no processo de prestação de serviços públicos
+porquanto serão criadas áreas destinadas a diversas classes sociais, com cursos de aperfeiçoamento profissional, com atividades
+relacionadas ao bem físico das pessoas que hoje não dispõem deste espaço nem a prestação dos serviços públicos correlacionados.
+
+Item "1.13. melhoria das condições de educação e saúde", se relaciona as seguintes ações do Programa:
+
+O Programa promoverá educação ambiental e oficinas de capacitação, inclusive de informática, visando a valorização e respeito à
+natureza por parte dos alunos da rede municipal de educação, dos moradores do entorno que utilizam a área, incentivando uma
+apropriação daquele espaço por parte da população josefense.
+
+Dentre as atividades previstas na área dos Equipamentos Comunitários, destacam-se a capacitação em maricultura, que é uma atividade
+bastante desenvolvida na região de Florianópolis, e que se pretende desenvolver/ampliar no município de São José, principalmente na
+região atingida pela Via Beira Mar de São José. Para tanto, há a necessidade de se formar profissionais que permitam a orientação, o
+apoio aos futuros maricultores.
+
+Pela formação orientada por profissionais da prefeitura nestas atividades, ter-se-á como resultados produtos, principalmente da culinária,
+com visão de qualidade e cuidados higiênicos, tendo como benefícios também produtos mais saudáveis aos consumidores.
+
+- A implantação da Av. Beira Mar de São José permitirá melhores condições de mobilidade, tanto na cidade como na região da Grande
+Florianópolis, trazendo melhorias na locomoção dos estudantes e acadêmicos que necessitam ir às instituições de ensino.
+
+- A implantação de espaços públicos, quadras de esportes e áreas de recreação na execução do Programa promoverá melhores
+condições de saúde da população do município de São José, pois permitirá o acesso da população a equipamentos públicos para práticas
+de exercícios físicos, caminhadas e também na prática de esportes.
+
+Item "1.14. Desenvolvimento, inovação e modernização tecnológica", se relaciona as seguintes ações do Programa:
+
+O espaço de 40 m² previsto para implantação de ensino de informática (previsto no Produto Equipamentos Comunitários) voltado
+principalmente para as pessoas de mais baixa renda e para jovens, tem como objetivo a formação de mão de obra qualificada nesta área
+e, como consequência também, a inovação tecnológica, a atualização de conhecimentos por parte da mão de obra que será gerada em
+diversos setores da economia da região como resultado da implantação da Via.
+
+Serão disponibilizados o acesso a wifi e totens para carregamento de celular em toda a área, bem como aplicativos para agendamento
+dos espaços multiusos e equipamentos esportivos.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Fundo Financeiro para o Desenvolvimento
+da Bacia do Prata - FONPLATA
+Total:
+
+Sigla
+
+CF
+Sigla
+
+Moeda
+
+US$
+Moeda
+
+Valor Proposto
+
+10.800.000,00
+Valor Proposto
+
+FONPLATA US$
+
+43.200.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+10.800.000,00
+Valor de Referência US
+$
+43.200.000,00
+
+54.000.000,00
+
+54.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+(cid:10)
+(cid:10)
+
+
+Página: 20
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+A Secretaria Municipal de Infraestrutura da Prefeitura Municipal de São José será o Órgão Executor do Programa.
+
+A Secretaria, como órgão executor, terá a responsabilidade do planejamento, gestão administrativa, acompanhamento técnico e avaliação
+do Programa. Contará com o apoio da Secretaria de Urbanismo e Serviços Públicos, da Secretaria Municipal da Finanças, Fundação
+Municipal do Meio Ambiente e Desenvolvimento Sustentável (FMADS),  Procuradoria Geral do Município de São José (PGM) e Secretaria
+Municipal de Administração (SEMAD) da Prefeitura Municipal de São José na execução e controle das contratações.
+
+A Secretaria Municipal de Infraestrutura, por intermédio da UGP, servirá como organismo de ligação entre a Prefeitura Municipal de São
+José, o FONPLATA, o  Governo Federal e outras organizações públicas e privadas participantes.
+
+A finalidade da UGP (Organograma Anexo 21) é de assegurar que as ações do Programa estejam de acordo com o contrato de
+empréstimo e seu objetivo contempla: planejar, programar e acompanhar a execução física e financeira, bem como avaliar os resultados
+intermediários e finais do Programa, de modo a assegurar o cumprimento das ações planejadas e dos cronogramas estabelecidos para
+cumprimento das ações programadas. A UGP, na execução de suas atividades, poderá contar com o apoio operacional externo.
+
+Cabe ressaltar que a Prefeitura dispõe de uma estrutura operacional e experiência para execução do Programa, dispondo além dos
+profissionais da UGP de uma equipe técnica composta de 04 procuradores para acompanhamento das, licitações, desapropriações e
+elaboração de atos normativos; 10 engenheiros para fiscalização das obras; 05 servidores para gestão de convênios e técnicos da área
+ambiental e social para acompanhamento das atividades correlatas, os quais darão suporte ao longo da execução do Programa.
+
+O Programa também contará com apoio das Secretarias Municipais conforme demonstrado na Matriz de Responsabilidade Institucional
+RACI (Anexo 22). As secretarias e demais órgãos municipais envolvidos com o Programa são apresentados a seguir, com destaque para
+as funções relacionadas a sua execução. São órgãos que possuem papéis específicos na execução do programa, contribuindo com o
+organismo executor e proporcionando suporte técnico, alocação e gestão de recursos financeiros, acompanhamento das intervenções e
+realização das licitações:
+
+a) Secretaria Municipal de Infraestrutura: a UGP atuará na coordenação das ações necessárias para viabilizar a execução dos
+empreendimentos listados nesta Carta Consulta, sendo de responsabilidade da Secretaria de Infraestrutura, sob a coordenação de seu
+Secretário, demandar às demais secretarias envolvidas no Programa a execução de ações/tarefas relativas à sua execução, de acordo
+com o escopo de atuação de cada área envolvida. Para tal, determinará juntamente com o Secretário da área, quais servidores do quadro
+de cada secretaria deverão ser designados para atuar no Programa.
+
+b) Secretaria de Urbanismo e Serviços Públicos: Cumprir e fazer cumprir o Plano Diretor do Município, código de obras, código de postura
+e demais legislações que tratam da fiscalização e do licenciamento no âmbito do território municipal.
+
+c) Secretaria Municipal de Finanças: terá como responsabilidade realizar os registros financeiros necessários à contabilidade pública,
+efetuar os pagamentos aos fornecedores contratados através dos processos licitatórios instaurados e, posteriormente, efetuar a quitação
+das parcelas vincendas do financiamento.
+
+d) Fundação Municipal do Meio Ambiente e Desenvolvimento Sustentável (FMADS): será responsável por analisar e intermediar a análise
+relativa aos impactos e licenças ambientais que porventura sejam necessários para a execução dos empreendimentos do escopo desta
+Carta Consulta.
+
+e) Procuradoria Geral do Município de São José (PGM): respaldará juridicamente todos os atos praticados durante a execução do contrato
+de financiamento externo.
+
+f) Secretaria Municipal de Administração (SEMAD): atuará nos processos licitatórios, na elaboração dos editais, publicação, abertura de
+sessão de licitação, dentre outras ações que envolvam diretamente os certames de contratação das empresas para execução dos
+empreendimentos listados nesta carta consulta.
+
+Quanto às políticas de aquisição do agente financiador, o Programa utilizará o caderno de "Política para aquisição de bens, obras e
+serviços em operações financiadas pelo FONPLATA - Resolução RD N° 1394/2017 - como diretriz para aquisições na execução do
+Programa.
+
+Quanto às políticas sociais e ambientais, o Programa utilizará o caderno de "Estratégia Socioambiental do FONPLATA" além das
+"Diretrizes Operacionais para a Gestão Socioambiental no Ciclo de Projetos do FONPLATA" como diretrizes socioambientais na execução
+do Programa
+
+Portanto, cabe registrar que as políticas de aquisição e salvaguardas do FONPLATA são de conhecimento do Órgão Executor e são
+similares às normas nacionais para tal finalidade.
+
+
+### 4.2. Execução/Executores
+
+
+(cid:10)
+(cid:10)
+
+
+Página: 21
+
+Executor: Secretaria Municipal de Infraestrutura do Município de São José/SC
+
+Representante Oficial: Nardi Arruda
+
+Endereço da Sede: R. Nossa Sra. de Guadalupe, 1-55 - Serraria, São José
+E-mail Institucional:
+
+Telefone: (48) 3281-6700
+
+CNPJ: 82892274000105
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+C - ESTUDOS E OBRAS
+
+S - ESTUDOS E PROJETOS
+
+P - Estudos de Viabilidade, Sociais e Projetos de Engenharia
+
+COMPONENTES
+
+P - Ações Ambientais
+
+S - AVENIDA BEIRA MAR DE SÃO JOSÉ
+
+P - Terraplenagem
+
+P - Obras de Geotecnia / Contenções
+
+P - Pavimentação
+
+P - Drenagem/Obra de arte corrente - Macrodrenagem
+
+P - Obras de Arte Especiais
+
+P - Sinalização
+
+P - Iluminação
+
+P - Urbanização
+
+P -  Equipamentos Comunitários
+
+C - DESAPROPRIAÇÕES
+
+P - Desapropriações
+
+C - GESTÃO DO PROGRAMA
+
+P - Supervisão Técnica, Ambiental e Social
+
+P - Unidade de Gerenciamento do Programa (UGP)
+
+P - Auditoria Externa
+
+P - Comissão de Financiamento
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - ESTUDOS E OBRAS
+
+S - ESTUDOS E PROJETOS
+
+P - Estudos de Viabilidade, Sociais e Projetos de Engenharia
+
+COMPONENTES
+
+P - Ações Ambientais
+
+S - AVENIDA BEIRA MAR DE SÃO JOSÉ
+
+P - Terraplenagem
+
+P - Obras de Geotecnia / Contenções
+
+P - Pavimentação
+
+P - Drenagem/Obra de arte corrente - Macrodrenagem
+
+P - Obras de Arte Especiais
+
+P - Sinalização
+
+P - Iluminação
+
+P - Urbanização
+
+P -  Equipamentos Comunitários
+
+C - DESAPROPRIAÇÕES
+
+P - Desapropriações
+
+C - GESTÃO DO PROGRAMA
+
+P - Supervisão Técnica, Ambiental e Social
+
+P - Unidade de Gerenciamento do Programa (UGP)
+
+P - Auditoria Externa
+
+P - Comissão de Financiamento
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - ESTUDOS E OBRAS
+
+S - ESTUDOS E PROJETOS
+
+COMPONENTES
+
+Fax:
+UF:
+
+Ano 1
+
+FONTES
+
+VALOR
+
+CUSTO
+
+CF
+
+47.276.191,72
+
+2.059.884,49
+
+FONPLATA
+10.278.423,05
+
+TOTAL
+
+CF
+
+TOTAL
+
+FONPLATA
+
+2.319.720,00
+
+1.487.062,84
+
+368.713,15
+
+1.743.605,70
+
+1.394.884,56
+
+0,00
+
+576.114,30
+
+92.178,28
+
+368.713,15
+
+44.956.471,72
+
+572.821,65
+
+9.909.709,90
+
+13.851.678,72
+
+0,00
+
+7.618.423,29
+
+7.160.270,66
+
+572.821,65
+
+2.291.286,61
+
+8.599.104,91
+
+5.771.134,76
+
+4.287.807,46
+
+625.774,89
+
+2.131.651,60
+
+960.190,50
+
+1.568.858,22
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.206.713,61
+
+2.206.713,61
+
+2.206.713,61
+
+2.206.713,61
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+4.517.094,67
+
+120.407,88
+
+963.091,04
+
+3.627.455,23
+
+0,00
+
+725.491,04
+
+602.039,44
+
+120.407,88
+
+50.000,00
+
+237.600,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+237.600,00
+
+0,00
+
+4.387.005,98
+
+11.241.514,09
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+FONPLATA
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+2.419.336,02
+
+FONPLATA
+14.616.438,13
+
+371.765,72
+
+348.721,14
+
+92.178,29
+
+0,00
+
+23.044,58
+
+92.178,29
+
+2.047.570,30
+
+14.524.259,84
+
+0,00
+
+6.233.255,43
+
+859.232,48
+
+3.436.929,92
+
+515.946,29
+
+2.063.785,17
+
+672.391,53
+
+2.790.289,32
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+120.407,89
+
+737.991,04
+
+0,00
+
+725.491,04
+
+120.407,89
+
+0,00
+
+0,00
+
+0,00
+
+12.500,00
+
+0,00
+
+0,00
+
+2.539.743,91
+
+15.354.429,17
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+FONPLATA
+
+1.747.927,82
+
+7.138.263,04
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+FONPLATA
+
+
+Página: 22
+
+P - Estudos de Viabilidade, Sociais e Projetos de Engenharia
+
+P - Ações Ambientais
+
+S - AVENIDA BEIRA MAR DE SÃO JOSÉ
+
+P - Terraplenagem
+
+P - Obras de Geotecnia / Contenções
+
+P - Pavimentação
+
+P - Drenagem/Obra de arte corrente - Macrodrenagem
+
+P - Obras de Arte Especiais
+
+P - Sinalização
+
+P - Iluminação
+
+P - Urbanização
+
+P -  Equipamentos Comunitários
+
+C - DESAPROPRIAÇÕES
+
+P - Desapropriações
+
+C - GESTÃO DO PROGRAMA
+
+P - Supervisão Técnica, Ambiental e Social
+
+P - Unidade de Gerenciamento do Programa (UGP)
+
+P - Auditoria Externa
+
+P - Comissão de Financiamento
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - ESTUDOS E OBRAS
+
+S - ESTUDOS E PROJETOS
+
+P - Estudos de Viabilidade, Sociais e Projetos de Engenharia
+
+COMPONENTES
+
+P - Ações Ambientais
+
+S - AVENIDA BEIRA MAR DE SÃO JOSÉ
+
+P - Terraplenagem
+
+P - Obras de Geotecnia / Contenções
+
+P - Pavimentação
+
+P - Drenagem/Obra de arte corrente - Macrodrenagem
+
+P - Obras de Arte Especiais
+
+P - Sinalização
+
+P - Iluminação
+
+P - Urbanização
+
+P -  Equipamentos Comunitários
+
+C - DESAPROPRIAÇÕES
+
+P - Desapropriações
+
+C - GESTÃO DO PROGRAMA
+
+P - Supervisão Técnica, Ambiental e Social
+
+P - Unidade de Gerenciamento do Programa (UGP)
+
+P - Auditoria Externa
+
+P - Comissão de Financiamento
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - ESTUDOS E OBRAS
+
+S - ESTUDOS E PROJETOS
+
+P - Estudos de Viabilidade, Sociais e Projetos de Engenharia
+
+COMPONENTES
+
+P - Ações Ambientais
+
+S - AVENIDA BEIRA MAR DE SÃO JOSÉ
+
+P - Terraplenagem
+
+P - Obras de Geotecnia / Contenções
+
+P - Pavimentação
+
+P - Drenagem/Obra de arte corrente - Macrodrenagem
+
+P - Obras de Arte Especiais
+
+P - Sinalização
+
+P - Iluminação
+
+P - Urbanização
+
+P -  Equipamentos Comunitários
+
+C - DESAPROPRIAÇÕES
+
+P - Desapropriações
+
+C - GESTÃO DO PROGRAMA
+
+P - Supervisão Técnica, Ambiental e Social
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.747.927,82
+
+7.138.263,04
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.203.874,70
+
+4.815.498,75
+
+336.195,76
+
+1.395.144,66
+
+0,00
+
+0,00
+
+50.061,99
+
+200.247,96
+
+0,00
+
+67.213,33
+
+90.582,04
+
+0,00
+
+0,00
+
+0,00
+
+268.853,34
+
+458.518,33
+
+0,00
+
+0,00
+
+120.407,89
+
+737.991,04
+
+0,00
+
+725.491,04
+
+120.407,89
+
+0,00
+
+0,00
+
+0,00
+
+12.500,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+VALOR
+
+CUSTO
+
+0,00
+
+1.868.335,71
+
+7.876.254,08
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+FONPLATA
+
+Ano 4
+
+FONTES
+
+CF
+
+FONPLATA
+
+1.167.948,43
+
+4.798.512,56
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.167.948,43
+
+4.798.512,56
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+112.065,26
+
+465.048,23
+
+514.536,89
+
+2.058.147,58
+
+62.577,49
+
+250.309,95
+
+298.431,22
+
+1.193.724,89
+
+76.815,24
+
+307.260,96
+
+103.522,33
+
+524.020,95
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+120.407,89
+
+737.991,04
+
+0,00
+
+725.491,04
+
+120.407,89
+
+0,00
+
+0,00
+
+0,00
+
+12.500,00
+
+0,00
+
+0,00
+
+1.288.356,32
+
+5.536.503,60
+
+0,00
+
+0,00
+
+Ano 5
+
+FONTES
+
+CF
+
+FONPLATA
+
+TOTAL
+
+CF
+
+596.150,19
+
+2.453.307,99
+
+7.991.246,95
+
+TOTAL
+
+FONPLATA
+39.284.944,77
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.858.828,56
+
+460.891,44
+
+1.743.605,70
+
+0,00
+
+115.222,86
+
+460.891,44
+
+596.150,19
+
+2.453.307,99
+
+6.132.418,39
+
+38.824.053,33
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+13.851.678,72
+
+1.432.054,13
+
+5.728.216,53
+
+1.719.820,99
+
+6.879.283,92
+
+1.120.652,55
+
+4.650.482,21
+
+343.024,60
+
+1.372.098,39
+
+857.561,49
+
+3.430.245,97
+
+12.515,50
+
+50.062,00
+
+125.154,98
+
+500.619,91
+
+127.899,10
+
+511.596,39
+
+426.330,32
+
+1.705.321,28
+
+48.009,53
+
+64.701,46
+
+0,00
+
+0,00
+
+192.038,10
+
+192.038,10
+
+768.152,40
+
+327.513,11
+
+258.805,83
+
+1.310.052,39
+
+0,00
+
+0,00
+
+2.206.713,61
+
+2.206.713,61
+
+0,00
+
+0,00
+
+120.407,89
+
+737.991,07
+
+602.039,44
+
+3.915.055,23
+
+0,00
+
+725.491,07
+
+0,00
+
+3.627.455,23
+
+
+Página: 23
+
+P - Unidade de Gerenciamento do Programa (UGP)
+
+P - Auditoria Externa
+
+P - Comissão de Financiamento
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+120.407,89
+
+0,00
+
+602.039,44
+
+0,00
+
+0,00
+
+0,00
+
+12.500,00
+
+0,00
+
+0,00
+
+0,00
+
+50.000,00
+
+237.600,00
+
+54.000.000,00
+
+716.558,08
+
+3.191.299,06
+
+10.800.000,00
+
+43.200.000,00
+
+A operação de crédito pleiteada exige a aprovação de lei autorizativa pela Câmara Municipal que permita ao município a contratação de
+financiamento externo. A minuta do projeto de Lei foi elaborada seguindo o disposto no Manual de Instrução de Pleitos (MIP/STNS) e será
+levado à apreciação e aprovação da Câmara Municipal, uma vez aprovada a carta consulta pela COFIEX.
+
+Quanto à Lei de Responsabilidade Fiscal (LRF), a administração deve apresentar evidências de conformidade no cumprimento da Lei e
+regularidade dos requisitos fiscais obrigatórios para fins de celebração de instrumentos contratuais.
+
+Quanto à garantia da União, o município deverá apresentar as condições de contragarantia ao Governo Federal, conforme legislação
+vigente.
+
+Quanto à criação da UGP, o município irá criar por Decreto a Unidade de Gerenciamento do Programa,
+
+Os principais dispositivos legais que respaldam a implementação dos produtos do Programa são a Lei nº 1.605/85 - Lei de Zoneamento de
+uso e ocupação do solo de São José - SC (Mapa - Anexo 16) e a Lei nº 6.105 de 22 de dezembro 2021, Plano Plurianual 2022-2025 (
+página do Programa 0112  de Mobilidade Urbana, Meta 1.135 - Anexo 8)
+
+O município está enquadrado dentro dos limites exigidos pelo Governo Federal, possuindo capacidade de pagamento e endividamento -
+CAPAG, sendo seu "rating A".
+
+Quando necessário, as obras integrantes deste Programa deverão passar por processos administrativos de análise e aprovação em
+órgãos como o Instituto do Meio Ambiente (IMA/SC), Capitania dos Portos de Santa Catarina e Superintendência do Patrimônio da União
+em Santa Catarina (SPU/SC).
+
+MEDIDAS MITIGADORAS
+
+O Executivo Municipal tem um excelente relacionamento com os representantes da Câmara Municipal, aprovando suas demandas
+legislativas, pelo qual não se vislumbra óbice na aprovação da lei autorizativa.
+
+Em relação à conexão da BR-101 com a Av, Beira Mar de São José, cabe destacar que a concepção final da interseção com a BR-101 foi
+de tal maneira efetuada que se utilizou de estrutura já existente, não havendo alteração que impacte sobre a rodovia federal e que, por
+conseguinte, implique na necessidade de aprovação de uma nova interseção pelo DNIT.
+
+Cabe registrar que o Município dispõe de experiência, com sucesso, em tratativas com a Capitania dos Portos e SPU/SC e irá solicitar a
+respectiva autorização a estes órgãos, tão logo disponha da licença ambiental prévia (LAP).
+
+Por fim, destaca-se que a Avenida Beira Mar de São José é parte de uma concepção maior de uma Avenida Beira Mar em que a primeira
+parte - Beira Mar Continental - PC-1 - já foi executada em Florianópolis, com as mesmas características - área acrescida de marinha,
+características técnicas iguais à Av. Beira Mar de São José - e que não teve problema de licenciamento  junto ao SPU,  Capitania de
+Portos e DNIT.
+
+Importante ressaltar que a obra será implantada em área acrescida de marinha, não tendo interferência com redes de energia elétrica
+assim como de redes de distribuição de água, redes coletoras de esgoto.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+As principais contratações previstas são de obra, serviços de consultoria para supervisão técnica e ambiental das obras, auditoria, assim
+como serviço de apoio operacional  à UGP.
+
+Os riscos de contratações estão principalmente relacionados à ausência de rigor durante a realização do procedimento licitatório o que
+pode resultar na escolha de empresa técnica ou financeiramente incapaz, podendo acarretar em: má qualidade na execução de obras e
+projetos;  má qualidade no acompanhamento das obras e do Programa; incapacidade de investimento e atrasos no cronograma físico-
+financeiro.
+
+Como medida de mitigação dos riscos apontados acima, será dado ênfase na análise e aprovação do projeto executivo por equipe
+multidisciplinar, composta por técnicos da Secretaria Municipal de Infraestrutura e da Fundação Municipal de Meio Ambiente, o que
+permitirá obter um projeto com nível maior de detalhamento e menos riscos de aditivos, bem como a instalação de equipe de licitação com
+experiência, com vistas a elaboração de edital e realização de licitações com menor risco.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 24
+
+Além disso, serão adotados critérios técnicos compatíveis com o grau de complexidade da obra na qualificação técnica do Termo de
+Referência. Isso permitirá a seleção de empresas com capacidade operacional e técnica condizentes com a natureza da obra.
+
+Em relação à qualidade na execução e acompanhamento das obras, a Secretaria Municipal de Infraestrutura atuará com sua equipe de
+técnicos, que serão assistidos por empresa especializada em consultoria (Supervisora de obras), diminuindo com isso os riscos na etapa
+de execução, assim como também trará maior agilidade nos procedimentos de desembolsos junto a instituição financeira.
+
+Com relação à incapacidade de investimentos da empresa, contamos com a atuação da Diretoria de Transparência, Auditoria e Controle
+da Secretaria Municipal de Finanças, que promoverá ações que inibirão a participação de empresas financeiramente incapazes na etapa
+de licitação.
+
+Cumpre-se informar que não está prevista a contratação de pessoal por concurso ou outras vias para compor a equipe da Prefeitura na
+execução ou sustentabilidade do Programa.
+
+O município integra a Grande Florianópolis, tendo uma relação de irmandade com a sua capital vizinha, o que minimiza os riscos
+associados à continuidade das obras da Av. Beira Mar Continental de Florianópolis, em fase de preparação pelo organismo financeiro.
+Cabe informar que a Prefeitura de São José juntamente com a Prefeitura de Florianópolis vem articulando e planejando a execução de
+ambos os Programas para as Avenidas Beira Mar que se interligam, de forma a trabalharem de forma conjunta e sinérgica.
+
+Quanto às políticas de aquisição do agente financiador, o Programa utilizará o caderno de "Política para aquisição de bens, obras e
+serviços em operações financiadas pelo FONPLATA - Resolução RD N° 1394/2017"  como diretriz para aquisições na execução do
+Programa.
+
+Cabe registrar que as políticas de aquisição do FONPLATA são de conhecimento do Município e são similares às normas nacionais para
+tal finalidade, o que contribui para minimizar riscos.
+
+MEDIDAS MITIGADORAS
+
+O projeto executivo da obra da Av. Beira Mar Sâo José  foi  concluído, o que disponibiliza informações seguras para a elaboração do edital
+de licitação, bem como com o nível elevado de informações do documento minimiza riscos de aditivos motivados por razões técnicas e/ou
+orçamentárias.
+
+A equipe de profissionais do Município responsável pelo projeto executivo da obra da Av. Beira Sâo José e pelo edital de licitação está
+diretamente envolvida no Programa, tendo qualificação e conhecimento pleno da legislação brasileira, das normas técnicas e da Política
+do FONPLATA, com capacidade para preparação de edital estruturado e consistente, bem como pela boa execução da obra.
+
+Os requisitos técnicos e financeiros e as especificações a serem incorporadas aos editais minimizarão os riscos de contratação de
+empresa inadequada para a construção da obra ou prestação de serviços.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+As áreas a serem desapropriadas já foram identificadas pelo órgão executor do Programa, e estão sendo providenciados pelo Município  a
+realização dos os procedimentos legais, totalizando aproximadamente 4.743,21 m², com 46 imóveis. No projeto executivo consta cada um
+desses quantitativos. As áreas atingidas são parciais ou na totalidade do lote. Os custos estimados são oriundos de pesquisas de valores
+locais e de comercialização recentes, bem como de sindicatos e de índices da construção civil da região de Santa Catarina. Sobre os
+imóveis que serão desapropriados não há edificação que caracterize a necessidade de um trabalho social ou de reassentamento.
+
+As Secretarias Municipais envolvidas nos processos de desapropriações serão: Secretaria de Planejamento e Assuntos Estratégicos;
+Secretaria da Casa Civil; Secretaria de Finanças; Fundação Municipal do Meio Ambiente e Desenvolvimento Sustentável (FMADS);
+Procuradoria Geral do Município (PGM); Secretaria de Urbanismo e Serviços Públicos.
+
+AÇÕES MITIGADORAS
+
+Como forma de mitigação do risco associado às desapropriações necessárias, a Prefeitura Municipal de São José elaborou um Plano de
+Desapropriações (Anexo 20) detalhado. Este documento apresenta um cronograma de atividades para se chegar ao seu objetivo final, um
+fluxograma do processo administrativo interno do município para tramitação das desapropriações; roteiro geral dos procedimentos e ações
+necessárias para aquisição dos imóveis e áreas; cronograma de execução e por fim, a identificação das áreas a serem desapropriadas.
+
+O roteiro geral dos procedimentos e ações para desapropriação elencados são: (i) Identificação da Necessidade de Desapropriação; (ii)
+Croqui de Incidência; (iii) Coleta da Documentação do Imóvel (iv) Elaboração das Peças Técnicas (Memorial Descritivo e Planta de
+Desapropriação); (v) Abertura de Processo Digital (vi) Análise e Validação da Documentação; (vii) Ajustes e Correções nas Peças
+Técnicas; (viii) Redação e Publicação do Decreto de Publicidade Pública; (ix) Laudos de Avaliação; (x) Notificações dos Expropriandos; (xi
+) Acordo de Desapropriação Extrajudicial ou Judicialização do Processo; (xii) Acordo de Desapropriação Extrajudicial ou Judicialização do
+Processo; (xiii) Escritura e Registro das Desapropriações; (xiv) Desapropriação Judicial.
+
+Cabe informar que a Prefeitura já está em fase de execução de tal Plano, com atividades concluídas até o item (iv) "Elaboração das Peças
+Técnicas (Memorial Descritivo e Planta de Desapropriação)" supracitado.
+
+(cid:10)
+(cid:10)
+
+
+Página: 25
+
+Cabe registrar que o município dispõe de equipe especializada e grande experiência na realização de desapropriações, bem como proverá
+em seu orçamento os recursos necessários para tal finalidade.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+As implementações das ações de infraestrutura apresentadas não concorrerão para degradação ambiental, visto que na execução das
+obras serão consideradas as exigências contidas nas licenças ambientais e nas normas vigentes.
+
+Entretanto, ocorrerão impactos ambientais negativos e temporários, considerados de curto prazo, durante a implantação do projeto.
+
+Entre os impactos negativos tem-se, por exemplo, a supressão pontual de vegetação nativa para a instalação das obras de infraestrutura,
+que deve ser MITIGADA com a arborização do projeto paisagístico da urbanização; a geração de resíduos provenientes principalmente da
+demolição e da dragagem, que deve ser destinada aos bota-foras competentes. .
+
+A implantação da Avenida Beira Mar de São José terá os impactos ambientais seguintes por ocasião da execução da obra e como
+consequência de sua implantação: (i) Alteração da qualidade das águas superficiais e do solo; (ii) Geração de resíduos da construção civil;
+(iii) Redução dos descritores ecológicos (riqueza, abundância e diversidade) e alteração da composição da biota aquática;
+
+Importante ressaltar que a implantação da Av. Beira Mar Continental no segmento já executado em Florianópolis - Etapa I teve impactos
+negativos similares aos acima relacionados, os quais não causaram problemas significativos  por ocasião da execução e
+operacionalização da obra, e foram devidamente mitigados.
+
+Em relação ao licenciamento ambiental, sabe-se que durante a construção da 1ª etapa da Beira Mar Continental de Florianópolis existia
+um conflito de responsabilidade no licenciamento deste tipo de obra entre o Instituto Brasileiro do Meio Ambiente (IBAMA) e a Fundação
+do Meio Ambiente (FATMA), atual Instituto do Meio Ambiente de Santa Catarina (IMA/SC). A matéria foi pacificada pela Resolução do
+CONSEMA 98/2017, considerando o rol previsto na LC 140/2011, onde estabelece que o IBAMA é responsável pelos licenciamentos
+exclusivamente localizados em mar territorial (Decreto nº 8400/2015), o que não é o caso. Desta forma, o licenciamento ambiental será
+feito pelo IMA/SC.
+
+Com o EIA/RIMA concluído, será dado entrada no pedido de licença ambiental prévia (LAP) no IMA/SC. Ressalta-se que com a aprovação
+dos estudos será necessário a Audiência Pública, a ser definida pelo órgão licenciador. Após este processo a expectativa da obtenção
+desta licença será de até 3 meses.
+
+Por fim, com a emissão da LAP, será protocolado o pedido de licença ambiental de instalação (LAI) no mesmo órgão licenciador, sendo
+que a previsão para emissão da licença é de até 3 meses.
+
+Cumpre destacar também que com a emissão da LAI já será possível deflagrar o processo licitatório da obra.
+
+Quanto à situação dos estudos socioambientais, considerando o escopo definido no termo de referência emitido pelo IMA/SC, informa-se
+que já houve avanços em relação aos trabalhos de diagnóstico. Sendo realizadas campanhas de campo para coleta de dados dos meios
+físico, biótico e socioeconômico. Com a execução de coleta e análises da qualidade das águas, medições de ruídos e vibração, coleta de
+material biológico, além de levantamento de dados secundários e atividades de geoprocessamento (cartografia digital).
+
+Os estudos ambientais seguem em pleno desenvolvimento, além de tratativas com o demais órgão intervenientes como IPHAN, SPU,
+Capitania dos Portos. Destaca-se que já foi gerado processo junto ao IPHAN, na qual se espera a emissão do Termo de Referência
+Específico - TRE - vide Processo IPHAN SEI n° 01510.000773/2022-12.
+
+MEDIDAS MITIGADORAS
+
+Como medidas de mitigação dos riscos ambientais apresentados, se  prevê o desenvolvimento dos seguintes programas ambientais: i)
+plano de gerenciamento de resíduos sólidos (PGRS); ii) programa de supervisão ambiental; iii) programa ambiental de construção (PAC);
+iv) programa de monitoramento de ruídos ambientais; v) programa de recuperação das áreas degradadas (PRAD); vi) programa de
+comunicação social (PCS);vii) programa de controle ambiental da atividade de dragagem;(viii) programa de monitoramento da biota
+aquática; (ix), programa de monitoramento da avifauna praial;(x) programa de monitoramento das águas superficiais;(xi) programa de
+monitoramento do perfil praial e da linha de costa, a serem definidos na etapa de licenciamento da obra.
+
+Os riscos e impactos são comuns em qualquer projeto que envolva obras da construção civil e o Município tem a experiência e os
+instrumentos para a sua mitigação, que serão aplicados de acordo com o previsto no projeto executivo, estudos de impactos ambientais e
+nas licenças, em conformidade com o disposto na legislação vigente.
+
+O Anexo 17 apresenta um cronograma físico relativo à elaboração de estudos, licenciamentos, elaboração de projetos de engenharia e
+contratação da obra de Implantação da Av. Beira Mar de São José.
+
+Como medida de minimizar riscos e dar conhecimento prévio e elucidar dúvidas sobre o Programa serão realizadas oitivas iniciais com a(s
+) comunidade(s) afetada(s), que contarão, também, com a participação dos representantes das Associações Comunitárias e de
+Pescadores. Haverá a oportunidade para debate e discussão do Programa na audiência pública do EIA-RIMA.
+
+(cid:10)
+(cid:10)
+
+
+Página: 26
+
+Não se vislumbra risco na obtenção de licenciamento ambiental, porquanto já existe o segmento da Beira Mar Continental - Etapa II
+licenciado e implantado, com características similares ao da Av. Beira Mar de São José. Ademais, cabe ressaltar que toda a etapa de
+licenciamento da obra competirá ao IMA/SC e não ao IBAMA, conforme já descrito no item 5.1.
+
+O FONPLATA utiliza o Sistema de Avaliação e de Gestão de Riscos Ambientais e Sociais (SERAS), o qual está voltado para identificar e
+minimizar impactos ambientais e sociais, bem como conflitos com a população da área de intervenção dos projetos, resguardando, assim,
+a qualidade das operações e zelando pelo cumprimento das normas dos países-membros.
+
+Quanto às políticas ambientais do agente financiador, o Programa utilizará o caderno de "Estratégia Socioambiental do FONPLATA" além
+das "Diretrizes Operacionais para a Gestão Socioambiental no Ciclo de Projetos do FONPLATA" como diretrizes socioambientais na
+execução do Programa.
+
+Cabe registrar que as políticas ambientais do FONPLATA são de conhecimento do Município e são similares às normas nacionais para tal
+finalidade, o que contribui para minimizar riscos.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+A implantação do Programa trará importantes impactos sociais positivos para a população do Município.
+
+A implantação da Avenida Beira Mar de São José gerará uma valorização imobiliária, desenvolvimento econômico e qualidade de vida à
+população josefense, atraindo o turismo, porquanto reduzindo o desconforto e o inconveniente dos constantes congestionamentos do
+trânsito na Via Expressa.
+
+A oferta de equipamentos comunitários na região contribuirá para a melhoria da qualidade de vida, possibilitando aos habitantes o acesso
+a espaços públicos adequados, áreas verdes, atividades educacionais, capacitação, de lazer, dentre outros.
+
+A implantação da Avenida também promoverá a geração de emprego e renda da população, através da abertura de novos
+estabelecimentos comerciais, restaurantes, bares no entorno, espaços, hoje, impróprios para este fim.
+
+Assim, os benefícios das ações propostas têm grande impacto nas comunidades beneficiárias do Programa proposto, pois contribuem
+para o bem estar da população, com melhores condições de deslocamento e convívio social.
+
+Cabe ressaltar que as desapropriações não englobam residências, portanto não terá impacto negativo sobre as famílias da região.
+
+Destaca-se que a pesquisa de percepção do empreendimento junto às comunidades da área de estudo foi iniciada. Ao todo serão 400
+entrevistas de campo, sendo que os primeiros resultados estão sendo compilados para entendimento dos resultados. Estão incluídas as
+associações de pescadores/maricultores.
+
+Não há impactos sociais negativos resultantes das "melhorias" nas vias de acesso, porquanto serem todas já implantadas e que serão
+objeto de ajustes uma vez que se conectarão com as vias (marginais) da Avenida Beira Mar de São José. Atualmente conectam-se com
+as principais vias dos bairros.
+
+Na área de intervenção do Programa não foram identificadas populações de indígenas ou de quilombolas.
+
+Quanto às políticas sociais do agente financiador, o Programa utilizará o caderno de "Estratégia Socioambiental do FONPLATA" além das
+"Diretrizes Operacionais para a Gestão Socioambiental no Ciclo de Projetos do FONPLATA" como diretrizes socioambientais na execução
+do Programa.
+
+Cabe registrar que as políticas sociais do FONPLATA são de conhecimento do Município e são similares às normas nacionais para tal
+finalidade.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Não será necessária a realização de reassentamentos, visto que a implantação das obras  do Programa não requer a remoção de famílias
+.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 27
+
+- 27/12/2023: Autorizado na 168ª Cofiex, em 06/09/2023, conforme Resolução Cofiex nº 48, de 06 de setembro de 2023 (SEI 37165871).
+
+Informações relevantes

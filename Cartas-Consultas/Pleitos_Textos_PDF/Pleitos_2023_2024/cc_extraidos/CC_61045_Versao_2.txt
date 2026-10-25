@@ -1,0 +1,899 @@
+Ministério do Planejamento e Orçamento
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Secretaria Executiva da COFIEX
+Esplanada dos Ministérios – Bloco “K” – 8º Andar
+CARTA CONSULTA
+Programa de Financiamento à Infraestrutura Sustentável no Estado do Espírito Santo
+Nº Carta Consulta: 61045
+Processo: 03101.102814/2023-32
+Mutuário: Banco de Desenvolvimento do Espirito Santo SA - BANDES
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  18 de Setembro de 2023
+Fontes Externas:
+New Development Bank - NDB: US$ 50.000.000,00
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:20
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61045
+Sumário
+1. MARCO DE REFERÊNCIA ............................................................................................................................................................................ 02
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO ................................................................................................................................... 02
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE .......................... 02
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO ...............................
+03
+2. PROJETO ....................................................................................................................................................................................................... 04
+2.1. TÍTULO ............................................................................................................................................................................................ 04
+2.2. TÍTULO ABREVIADO ...................................................................................................................................................................... 04
+2.3. MUTUÁRIO ...................................................................................................................................................................................... 04
+2.4. TIPO OPERACAO ........................................................................................................................................................................... 04
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS ....................................................................................................... 04
+2.6. PROJETO/INDICADORES .............................................................................................................................................................. 05
+2.7. PROJETO/COMPONENTES ........................................................................................................................................................... 05
+2.8. PROJETO/ETAPAS REALIZADAS ................................................................................................................................................ 06
+2.9. PROJETO/ABRANGÊNCIA GEOGRÁFICA ................................................................................................................................... 06
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO .......................................................................................................... 07
+2.11. PROJETO/BENEFICIÁRIO ........................................................................................................................................................... 08
+2.12. PROJETO/GARANTIA DA UNIÃO ............................................................................................................................................... 09
+3. FINANCIAMENTO .......................................................................................................................................................................................... 09
+3.1. FINANCIAMENTO/FONTE .............................................................................................................................................................. 09
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS .......................................................................................................... 09
+4. EXECUÇÃO ...................................................................................................................................................................................................
+09
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL .......................... 09
+4.2. EXECUÇÃO/EXECUTORES ........................................................................................................................................................... 10
+4.3. EXECUÇÃO/PRAZO ....................................................................................................................................................................... 10
+4.4. EXECUÇÃO/CRONOGRAMA ......................................................................................................................................................... 10
+5. RISCOS .......................................................................................................................................................................................................... 11
+5.1. RISCOS/ATOS LEGAIS .................................................................................................................................................................. 11
+5.2. RISCOS/CONTRATAÇÕES ............................................................................................................................................................ 11
+5.3. RISCOS/DESAPROPRIAÇÕES ...................................................................................................................................................... 12
+5.4. RISCOS/IMPACTOS AMBIENTAIS ................................................................................................................................................ 12
+5.5. RISCOS/IMPACTO SOCIAL ........................................................................................................................................................... 13
+5.6. RISCOS/REASSENTAMENTOS ..................................................................................................................................................... 13
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN ..........
+13
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:20
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61045
+Página: 2
+1. Marco de Referência
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+As condições de infraestrutura no Espírito Santo são bastante heterogêneas, tanto no que diz respeito aos seus componentes quanto às
+condições de acesso das várias regiões e estratos da população. 
+
+Dentre os principais tipos de infraestrutura, o Projeto Desenvolvimento Regional Sustentável (DRS) do IJSN aponta tópicos de mobilidade
+urbana, transporte, saneamento e energia como os principais gargalos ao desenvolvimento capixaba. São esses tópicos que o BANDES
+pretende endereçar em seu Programa de Financiamento à Infraestrutura Sustentável no Estado do Espírito Santo com recursos do NDB.
+
+No diagnóstico do DRS (em anexo), a informação disponível sobre o estado das rodovias do Espírito Santo indicava que ainda havia um
+alto percentual de vias sem pavimentação. O exemplo mais drástico está na microrregião Noroeste que apresentava mais de 60% de suas
+rodovias não pavimentadas, ou 597,45 km. Por outro lado, a microrregião Rio Doce apresentava a maior quilometragem de vias
+pavimentadas, 611,06 km, embora em termos percentuais a Metropolitana e a Litoral Sul apresentassem melhores resultados.
+
+De maneira geral, os índices de saneamento para as microrregiões ainda são bem inferiores às metas estabelecidas pelo novo marco
+regulatório. De acordo com o diagnóstico do DRS, 81,2% da população total do estado era atendida pela rede de distribuição de água,
+valor que está abaixo da média nacional (83,6%). Para as áreas urbanas o indicador sobe para 92,2%, próximo ao índice para o Brasil (92,
+8%). Essa diferença se dá, pois no atendimento total são contabilizadas áreas rurais e periféricas que em muitos casos não possuem
+acesso à água por rede, e devido a isso há um decréscimo no atendimento total. No que diz respeito às redes de esgoto, 54,9% da
+população total do estado e 62,6% da população urbana são atendidas pelas redes de coleta, cobertura superior às médias nacionais (53,
+1% e 60,9%). 
+
+Com relação à infraestrutura energética, a indústria do Espírito Santo possui a quinta tarifa de energia elétrica mais cara do Brasil de
+acordo com o site da Confederação Nacional da Indústria (https://perfildaindustria.portaldaindustria.com.br/estado/es), o que pode
+representar mais um gargalo para a produtividade da economia do estado: R$ 872,90 é o preço médio do MWH para consumidores
+industriais cativos em 2021. A indústria do estado paga 14,3% a mais na energia elétrica que a média nacional. A estratégia para a
+expansão da geração, transmissão e distribuição deve ser pautada na diversificação da matriz energética, na melhoria da infraestrutura e
+na potencialização de projetos de mitigação de impactos climáticos.
+
+Segundo o Balanço Energético Nacional (EPE) de 2023 (https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/balanco-
+energetico-nacional-2023), com dados de 2022, a energia solar representa 1,2% da oferta interna de energia do Brasil e 24.453 MW de
+potência instalada. O Espírito Santo tem uma potência instalada de 138,5 MW de energia solar, segundo dados de 2021 do Balanço
+Energético do Espírito Santo (https://arsp.es.gov.br/balancoenergetico2022). No conjunto de sua geração de energia elétrica, a energia
+solar tem participação irrisória do potencial instalado do estado.   
+
+Em 2020, a função transporte de carga é a mais expressiva, perfazendo um total de 51,5% das emissões (tonCO2e) do setor de
+Transportes, de acordo com o Plano de Descarbonização e Neutralização das Emissões de Gases de Efeito Estufa (GEE) do Espírito
+Santo (em anexo), em que os modos rodoviário, ferroviário e hidroviário participam, respectivamente, com cerca de 45,5%, 5,4% e 0,6%
+do total das emissões do setor. 
+
+De forma resumida, os problemas identificados pelo BANDES e que serão tratados no Programa de Financiamento à Infraestrutura
+Sustentável no Estado do Espírito Santo por meio de financiamento a projetos de investimento com recursos do NDB são:
+- mobilidade urbana: municípios capixabas têm rodovias e outras vias terrestres (ruas, avenidas, etc) com baixo índice de pavimentação e
+carente de melhorias de sinalização, dentre outras demandas;
+- saneamento: municípios capixabas têm necessidade de estruturar e executar projetos para atender as metas do marco do saneamento;
+- energia: a setor produtivo capixaba tem custo comparativamente elevado de eletricidade e uma matriz energética em que 60% da fonte é
+ não-renovável;
+- transporte: setor de transporte capixaba precisa reduzir emissões para atender o Plano de Descarbonização e Neutralização das
+Emissões de GEE do Espírito Santo.
+
+Por fim, o Espírito Santo ocupa a 5ª posição no ranking de Índice de Desenvolvimento Humano (IDH) dos estados brasileiros, com 0,771
+perante média nacional de 0,754, segundo último levantamento de 2021 (http://www.atlasbrasil.org.br/ranking). 
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:20
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61045
+Página: 3
+A discussão sobre as relações entre infraestrutura e desenvolvimento tem ganhado crescente importância. Tais aspectos são amplamente
+ressaltados nos Objetivos de Desenvolvimento Sustentável (ODS). Em acompanhamento à agenda global de desenvolvimento, muitas
+ações dentro desse contexto estão ao alcance da atuação do Bandes, principalmente se vinculadas às potencialidades regionais do
+Espírito Santo. Assim, o compromisso de encorajar investimentos e priorizar frentes capazes de promover caminhos sustentáveis no longo
+ prazo, o Bandes tem buscado ampliar o alinhamento da sua estratégia de negócio com os ODS. 
+
+O Bandes tem como missão apoiar e promover o desenvolvimento sustentável do Espírito Santo, e é provedor de recursos e fomentador
+de ações e projetos que contribuem para o alcance dos ODS (em anexo). Dentro desta missão, diversas são as ações e iniciativas
+tomadas pelo Bandes para contribuição com a agenda social, ambiental e climática no Estado do Espírito Santo. 
+
+O Bandes está trabalhando na elaboração de Framework de Finanças Sustentáveis, cujo Plano de Ação está previsto para ser concluído
+em 2024, a fim de ampliar sua contribuição positiva nessas agendas. O Framework estabelece os critérios e processos para identificar e
+apoiar operações de crédito, buscando fomentar impactos socioambientais positivos, de forma consistente com as boas práticas de
+mercado para Finanças Sustentáveis. A elaboração do Framework se dá com base nas principais diretrizes globais e locais sobre
+melhores práticas para a captação e concessão temática de recursos. 
+
+A provisão de incentivos adequados, particularmente a oferta de crédito com condições favoráveis, em especial em termos de prazos mais
+aderentes a economia real, pode atenuar as ineficiências geradas por essa falha de mercado e aumentar o bem-estar social.  Assim, a
+abertura de uma linha de crédito entre o NDB e o Bandes, além de atender o propósito das duas instituições, possibilitaria aumentar
+significativamente os investimentos em infraestrutura sustentável no estado do Espírito Santo. 
+
+O Bandes propõe estruturar, a partir dos recursos captados junto ao NDB, e observados os critérios de elegibilidade da linha, um
+programa de financiamento voltado a empresas do setor privado e aos municípios do estado do Espírito Santo para projetos de
+investimento de setores ligados à infraestrutura sustentável no estado do Espírito Santo, em consonância aos ODS.
+
+Além disso, um trabalho estruturado de auxílio à gestão municipal na captação de recursos orientada, por meio de assessoramento e
+elaboração do projeto de investimento para operações de financiamento, é importante para diminuir os entraves na tomada de crédito por
+parte dos municípios capixabas, sobretudo do interior do estado, que dispõem de recursos humanos e técnicos insuficientes para tal
+finalidade. Desse modo, um dos componentes do empréstimo junto ao NDB destina-se ao financiamento de estudos de viabilidade técnica
+, econômica, financeira e de assessoria para elaboração de projetos de investimento.
+
+De forma resumida, as ações que serão adotadas pelo BANDES no âmbito do Programa de Financiamento à Infraestrutura Sustentável no
+Estado do Espírito Santo, em linha com o DRS e o Plano de Descarbonização do ES, por meio de financiamento a projetos de
+investimento com recursos do NDB são:
+- mobilidade urbana e saneamento: financiar até 10 projetos de melhorias de rodovias e de saneamento de municípios capixabas;
+- energia: financiar até 74 projetos do setor produtivo capixaba para ampliação e diversificação da matriz energética renovável;
+- transporte: financiar até 14 projetos do setor produtivo capixaba para descarbonização de frotas.
+
+Além disso, segue a indicação de informações relacionadas às medidas operacionais, à manutenção e à sustentabilidade financeira após
+a conclusão do Programa: 
+A. Indicação de medidas para operacionalização e manutenção das ações resultantes do Programa: o Bandes possui em sua estrutura
+uma unidade de acompanhamento de projetos que verifica se os mesmos estão sendo executados tecnicamente conforme estabelecido
+em contrato com os sub-mutuários;  
+
+B. Informação sobre a previsão de instrumentos e/ou medidas que garantam a sustentabilidade financeira das ações resultantes do
+Programa: o Bandes possui unidade de cobrança e recuperação de crédito que monitora a adimplência financeira dos contratos de crédito
+com os sub-mutuários; e  
+
+C. Previsão de custos de manutenção (custeio e reposição) após a execução do Programa: o papel do Bandes no Programa de
+Infraestrutura Sustentável do ES é ofertar crédito para projetos de investimento de sub-mutuários. Nesse formato não prevemos custos de
+manutenção do Programa para o Bandes.  
+
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:20
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61045
+Página: 4
+A estratégia atual do Bandes (em anexo) contempla captação de recursos junto ao mercado financeiro e bancos multilaterais, como
+alternativa para viabilizar o apoio financeiro por meio de crédito. 
+
+Em 2022 o Bandes assinou seu primeiro contrato com uma organização multilateral, o BID, no valor de US$ 30 milhões para
+financiamento de capital de giro para micro, pequenas e médias (MPMEs) afetadas pela pandemia do COVID-19. 
+
+Vale destacar também a lei estadual nª 11.867 (em anexo), de 2023, que dispõe sobre as diretrizes orçamentárias do governo do Espírito
+Santo. Em seu art. 55 essa lei detalha a política de aplicação de recursos do Bandes, a agência financeira oficial de fomento do estado.
+No item 12 de tal artigo lê-se: ?XII - estruturação de captações de recursos no mercado financeiro, doméstico e internacional, visando
+composição de funding com a finalidade de realizar operações de crédito para MPMEs capixabas e para municípios do Espírito Santo.?
+
+O fato de acessar linhas de mais longo prazo dos bancos multilaterais permite também ao Bandes fazer empréstimos de mais longo prazo
+que os atualmente oferecidos. Estes empréstimos são mais compatíveis com perfil de projetos realizados pelos seus clientes nos setores
+selecionados, que são de longo prazo de investimento e retorno.
+
+O Bandes tem por prática trabalhar com um spread médio de 3% em suas operações de crédito, o que pode variar para mais ou para
+menos em função do programa de crédito, do tipo de cliente, do porte do cliente, do setor produtivo, dentre outras. 
+
+Nesse contexto, uma possível parceria com o NDB está em sintonia com a estratégia do Bandes de seguir diversificando sua fonte de
+recursos. Ademais, o interesse do Bandes em contratar uma operação de crédito junto ao NDB guarda relação com uma série de
+vantagens operacionais deste, dentre as quais: custos de captação mais acessíveis entre organismos multilaterais, flexibilidade no
+desenho da operação, elegibilidade multisetorial, agilidade na preparação do projeto, uso de sistemas nacionais para aspectos fiduciários
+e de gestão de riscos sociais e ambientais e larga experiência com financiamento a bancos de desenvolvimento. Há também uma
+convergência de diretrizes de investimento deste banco com o Bandes, além do compromisso comum das duas instituições quanto à
+implementação dos Objetivos para o Desenvolvimento Sustentável da Agenda 2030 da ONU.
+
+A contrapartida para a União da garantia soberana para a operação de financiamento ora discutida poderá ser de recebíveis do Estado do
+Espírito Santo e/ou de títulos de dívida de alta liquidez (aplicações financeiras do Bandes), preferencialmente títulos públicos federais ou
+cotas de fundos de renda fixa.
+
+A moeda do financiamento pleiteado é o Dólar Americano (USD). Na data de 12 de setembro de 2023, uma unidade deste estava cotado a
+ R$ 4,9171 (PTAX-BCB/venda).
+2. Projeto
+2.1. Título
+Programa de Financiamento à Infraestrutura Sustentável no Estado do Espírito Santo
+2.2. Título Abreviado
+BANDES INFRA SUSTENTÁVEL
+2.3. Mutuário
+Banco de Desenvolvimento do Espirito Santo SA - BANDES
+2.4. Tipo Operacao
+Operação de crédito externo
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+O objetivo geral do Programa de Financiamento à Infraestrutura Sustentável no Estado do Espírito Santo é financiar propostas
+transformadoras que garantam um futuro econômico, social e ambientalmente mais sustentável, alinhando as diretrizes mapeadas pela
+Agenda 2030 da ONU às demandas locais, por meio de financiamento a projetos de infraestrutura e de projetos de desenvolvimento
+sustentável, para os setores público e privado.
+
+De maneira específica, o supracitado programa objetiva mobilizar recursos para viabilizar investimentos direcionados a projetos ligados à
+infraestrutura sustentável no ES com recursos do NDB: 
+- Mobilidade urbana: financiar projetos para municípios;
+- Saneamento: financiar projetos de desenvolvimento urbano e cidades inclusivas e sustentáveis para municípios;
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:20
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61045
+Página: 5
+- Energia: financiar projetos de energia limpa para municípios e setor produtivo;
+- Transporte: financiar projetos de descarbonização de frotas de empresas capixabas, ambos no modo rodoviário. 
+
+O Plano de Desenvolvimento Espírito Santo 2030 (https://planejamento.es.gov.br/plano-es-2030) reconhece a importância dos
+investimentos em infraestrutura: ?o desenvolvimento da infraestrutura é fator decisivo na construção de condições objetivas que levem o
+Espírito Santo a acelerar o crescimento econômico, inserir-se competitivamente nos mercados nacional e internacional e integrar suas
+regiões de forma equilibrada e sustentável?. O alargamento e aperfeiçoamento da infraestrutura em geral proporcionam não apenas um
+impacto direto sobre a economia ao possibilitar a instalação de novas atividades produtivas, mas também diversos impactos indiretos, que
+variam desde maior durabilidade do capital privado e ganhos de produtividade do trabalho, até o aumento no grau de diversificação
+produtiva, impulsionando o crescimento da renda e do emprego de forma sustentável. Investimentos em infraestrutura, especialmente os
+alinhados aos ODS, também contribuem de forma significativa para a redução da desigualdade de renda e da pobreza através das
+melhores perspectivas de emprego e salário oriundas do seu efeito positivo sobre a produtividade do trabalho em todos os setores da
+economia.
+
+
+2.6. Projeto/Indicadores
+Descrição
+Fórmula de Cálculo
+Unidade de Medida
+Linha de Base
+Meta
+Municípios apoiados com financiamento do
+Bandes para projetos de infraestrutura de
+mobilidade urbana, saneamento
+Número de municípios
+ apoiados 
+Número de
+municípios
+2,00
+10,00
+Empresas apoiados com financiamento do
+Bandes para projetos de geração de energia
+renovável
+número de empresas
+apoiadas
+número de
+empresas
+4,00
+74,00
+Empresas apoiados com financiamento do
+Bandes para projetos de transportes 
+número de empresas
+apoiadas
+empresas apoiadas
+0,00
+14,00
+2.7. Projeto/Componentes
+Componentes
+Valor(US$)
+C - INVESTIMENTOS EM INFRAESTRUTURA
+50.000.000,00
+   S - INVESTIMENTOS EM INFRAESTRUTURA DO SETOR PÚBLICO E SETOR PRIVADO
+48.000.000,00
+P - INVESTIMENTOS DE INFRAESTRUTURA EM PROJETOS SELECIONADOS PELOS SETORES PÚBLICO
+E PRIVADO DO ESPÍRITO SANTO
+48.000.000,00
+   S - ESTRUTURAÇÃO DE PROJETOS PARA MUNICÍPIOS
+2.000.000,00
+      P - ESTRUTURAÇÃO DE PROJETOS PARA MUNICÍPIOS
+2.000.000,00
+Total dos Componentes
+50.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Descrição detalhada dos componentes/subcomponentes e produtos:
+C - INVESTIMENTOS EM INFRAESTRUTURA
+INVESTIMENTOS DE INFRAESTRUTURA EM PROJETOS SELECIONADOS PELOS SETORES PÚBLICO E PRIVADO DO
+ESPÍRITO SANTO
+   S - INVESTIMENTOS EM INFRAESTRUTURA DO SETOR PÚBLICO E SETOR PRIVADO
+INVESTIMENTOS DE INFRAESTRUTURA EM PROJETOS SELECIONADOS PELOS SETORES PÚBLICO E PRIVADO DO
+ESPÍRITO SANTO
+P - INVESTIMENTOS DE INFRAESTRUTURA EM PROJETOS SELECIONADOS PELOS SETORES PÚBLICO E PRIVADO
+DO ESPÍRITO SANTO
+Projetos de investimento financiados pelo Bandes para municípios e empresas do ES no valor de até US$ 48 milhões:
+- meta de até 10 municípios financiados para projetos de infraestrutura em mobilidade urbana e saneamento;
+- meta de até 74 empresas financiadas para projetos de energia renovável;
+- meta de até 14 empresas financiadas para projetos de descarbonização de transportes. 
+   S - ESTRUTURAÇÃO DE PROJETOS PARA MUNICÍPIOS
+ESTRUTURAÇÃO DE PROJETOS PARA MUNICÍPIOS
+      P - ESTRUTURAÇÃO DE PROJETOS PARA MUNICÍPIOS
+Financiamento de serviços de consultoria para os municípios estruturarem seus projetos de saneamento e mobilidade urbana que
+serão apoiados pelo Bandes.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:20
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61045
+Página: 6
+Categoria de Gasto
+Unidade de medida
+Meta
+Valor
+% Financeiro
+Consultoria
+-
+-
+2.000.000,00
+4,00
+P- ESTRUTURAÇÃO DE PROJETOS PARA
+MUNICÍPIOS
+municípios apoiados
+10,00
+2.000.000,00
+4,00
+Outros
+-
+-
+48.000.000,00
+96,00
+P- INVESTIMENTOS DE INFRAESTRUTURA EM
+PROJETOS SELECIONADOS PELOS
+SETORES PÚBLICO E PRIVADO DO ESPÍRITO
+SANTO
+UNIDADE
+98,00
+48.000.000,00
+96,00
+Total Geral
+-
+-
+50.000.000,00
+100,00
+2.8. PROJETO/ETAPAS REALIZADAS
+Primeiramente, estão em curso ações estruturantes de natureza estratégica e legal, que reforçam a melhoria da capacidade técnica de
+operacionalização e gestão de contrato internacional pelo Banco. Dentre outras iniciativas, destacamos a melhoria na gestão de ativos e
+passivos, da gestão de fluxo de caixa e precificação de produtos, a partir da implantação do ALM, alinhada ao modelo de negócio do
+Bando e às melhores práticas de sustentabilidade, a implantação da Política de Responsabilidade Socioambiental e Climática,
+operacionalizada pela Gerência de Análise de Crédito, juntamente com a implementação da metodologia de risco socioambiental e
+climática em adequação à legislação pertinente, a mudança na estrutura organizacional ocorrida em 2023, bem como a revisão de todo
+processo de concessão de crédito. Além disso, para um maior alinhamento estratégico com os ODS, o banco trabalha na elaboração de
+Framework de Finanças Sustentáveis em cooperação com o BID (em andamento e previsto para ser concluído em 2024), e no tagging da
+carteira de crédito.
+
+Além disso, após operação com o BID assinada em 2021, o Bandes vem adquirindo experiência e know-how em captação externa. Uma
+característica do Bandes é que as tranches das captações externas são acompanhadas de instrumentos de hedge, em especial o swap
+cambial. Desse modo, na ocasião da internalização dos recursos em moeda estrangeira, um swap cambial é simultaneamente contratado
+pelo Bandes junto à outra instituição financeira, de modo que o banco não incorre no risco de variação cambial. Adicionalmente, como os
+financiamentos são concedidos em moeda nacional, os sub-mutuários também não são expostos a qualquer risco de choque de taxa de
+câmbio em seu fluxo de pagamento, o que consideramos um diferencial por parte do Bandes.
+
+No que se refere ao projeto em discussão, foram realizadas reuniões entre Bandes e NDB para alinhamento das potenciais condições
+operacionais da linha de crédito. Reforçou-se o interesse em uma operação de financiamento para infraestrutura e para projetos
+relacionados aos ODS (desenvolvimento sustentável), plenamente aderente ao mandato e prioridades das duas instituições, Bandes e
+NDB. Neste sentido, reconhece-se o alinhamento de estratégias e a adicionalidade de uma parceria do NDB com um banco local de
+desenvolvimento com foco na maximização de impactos, como o Bandes. Internamente, estudos preliminares que envolvem a análise e a
+projeção potencial de crescimento de carteira de crédito do Bandes nos próximos anos, em especial para linhas voltadas a investimentos,
+estão em andamento, com a identificação inicial de demanda para projetos voltados à infraestrutura e aos associados aos ODS tanto por
+parte de municípios (setor público) quanto de empresas (setor privado).
+
+Dado todo o contexto anterior, o Bandes e a Secretaria de Estado de Desenvolvimento (SEDES) vêm dialogando com representantes dos
+municípios e do setor produtivo com potencial para serem atendidos pelo banco capixaba no Programa Bandes Infra Sustentável. Portanto
+, há clientes potenciais identificados com demanda para estes setores de mobilidade urbana, saneamento, produção de energia renovável
+e transporte que são atendidos de forma insuficiente por limitação de funding de longo prazo.
+
+2.9. Projeto/Abrangência Geográfica
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:20
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61045
+Página: 7
+Abrangência Geográfica: Estadual/Municipios
+Estado do Espírito Santo (MUNICIPIO DE  BREJETUBA, MUNICIPIO DE  MARATAIZES, MUNICIPIO DE  PONTO BELO, MUNICIPIO DE
+SOORETAMA, MUNICIPIO DE  VILA VALERIO, MUNICIPIO DE  MARECHAL FLORIANO, MUNICIPIO DE  IRUPI, MUNICIPIO DE  SAO
+DOMINGOS DO NORTE, MUNICIPIO DE  VILA PAVAO, MUNICIPIO DE  AFONSO CLAUDIO, MUNICIPIO DE  ALEGRE, MUNICIPIO
+DE  ALFREDO CHAVES, MUNICIPIO DE  ANCHIETA, MUNICIPIO DE  APIACA, MUNICIPIO DE  ARACRUZ, MUNICIPIO DE  ATILIO
+VIVACQUA, MUNICIPIO DE  BAIXO GUANDU, MUNICIPIO DE  BARRA DE SAO FRANCISCO, MUNICIPIO DE  BOA ESPERANCA,
+MUNICIPIO DE  BOM JESUS DO NORTE, MUNICIPIO DE  CACHOEIRO DE ITAPEMIRIM, MUNICIPIO DE  CARIACICA, MUNICIPIO DE
+CASTELO, MUNICIPIO DE  COLATINA, MUNICIPIO DE  CONCEICAO DA BARRA, MUNICIPIO DE  CONCEICAO DO CASTELO,
+MUNICIPIO DE  DIVINO DE SAO LOURENCO, MUNICIPIO DE  DOMINGOS MARTINS, MUNICIPIO DE  DORES DO RIO PRETO,
+MUNICIPIO DE  ECOPORANGA, MUNICIPIO DE  FUNDAO, MUNICIPIO DE  GUACUI, MUNICIPIO DE  GUARAPARI, MUNICIPIO DE
+IBIRACU, MUNICIPIO DE  ICONHA, MUNICIPIO DE  ITAGUACU, MUNICIPIO DE  ITAPEMIRIM, MUNICIPIO DE  ITARANA, MUNICIPIO
+DE  IUNA, MUNICIPIO DE  JERONIMO MONTEIRO, MUNICIPIO DE  LINHARES, MUNICIPIO DE  MANTENOPOLIS, MUNICIPIO DE
+MIMOSO DO SUL, MUNICIPIO DE  MONTANHA, MUNICIPIO DE  MUCURICI, MUNICIPIO DE  MUNIZ FREIRE, MUNICIPIO DE  MUQUI
+, MUNICIPIO DE  NOVA VENECIA, MUNICIPIO DE  PANCAS, MUNICIPIO DE  PINHEIROS, MUNICIPIO DE  PIUMA, MUNICIPIO DE
+PRESIDENTE KENNEDY, MUNICIPIO DE  RIO NOVO DO SUL, MUNICIPIO DE  SANTA LEOPOLDINA, MUNICIPIO DE  SANTA
+TERESA, MUNICIPIO DE  SAO GABRIEL DA PALHA, MUNICIPIO DE  SAO JOSE DO CALCADO, MUNICIPIO DE  SAO MATEUS,
+MUNICIPIO DE  SERRA, MUNICIPIO DE  VIANA, MUNICIPIO DE  VILA VELHA, MUNICIPIO DE  VITORIA, MUNICIPIO DE
+MARILANDIA, MUNICIPIO DE  IBATIBA, MUNICIPIO DE  RIO BANANAL, MUNICIPIO DE  JAGUARE, MUNICIPIO DE  PEDRO
+CANARIO, MUNICIPIO DE  AGUA DOCE DO NORTE, MUNICIPIO DE  ALTO RIO NOVO, MUNICIPIO DE  JOAO NEIVA, MUNICIPIO DE
+LARANJA DA TERRA, MUNICIPIO DE  SANTA MARIA DE JETIBA, MUNICIPIO DE  VARGEM ALTA, MUNICIPIO DE  VENDA NOVA
+DO IMIGRANTE, MUNICIPIO DE  AGUIA BRANCA, MUNICIPIO DE  IBITIRAMA)
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+(i)Condições financeiras:
+Valor do contrato
+US$ 50.000.000,00 (cinquenta milhões de dólares)
+
+Taxa
+1,55338% a.a. + SOFR (em US$)
+
+Prazos
+Prazo total: 240 meses (20 anos)
+Prazo de carência: 60 meses (5 anos)
+Prazo de amortização: 180 meses (15 anos)
+* Dessa forma, a operação terá uma maturidade média de 12,75 anos.
+Periodicidade dos pagamentos: Semestral
+
+Prazo de Desembolso (Período de Disponibilidade): 60 meses (5 anos)
+
+Valor do Desembolso mínimo (tranche): US$ 10.000.000,00
+
+Demais encargos e comissões
+- A comissão de compromisso (commitment fee) de 0,25% sobre saldo não desembolsado, inclui um incentivo caso os desembolsos
+acumulados alcancem 20%, 40%, 60%, 80% e 100% nos anos 1, 2, 3, 4 e 5, situação em que ela será dispensada.
+- Comissão inicial (front-end-fee) de 0,25% sobre o valor aprovado.
+
+(ii)Necessidade de financiamento externo e a opção pelo agente financeiro:
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:20
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61045
+Página: 8
+Como banco de desenvolvimento local com foco em impacto, o Bandes atua com uma diversidade de fontes de funding (captações
+internas, captações externas, repasses nacionais e gestão de fundos) de modo a fazer frente às necessidades de recursos para
+financiamento às empresas e aos municípios, primordialmente no estado do Espírito Santo. São três as razões principais para a
+necessidade de financiamento externo. Primeiro, trata-se de forma de diversificação de risco de fontes de funding, gerando uma melhoria
+do perfil de risco de crédito do próprio Banco e mitigação de risco de carência de recursos para financiar as atividades produtivas dos sub-
+mutuários. No 1º semestre de 2023, captação externa representava 15% das fontes de funding do Bandes. 
+
+Segundo, a Resolução n. 5.047/2020, do Conselho Monetário Nacional limita a captação interna de recursos, visto que 'o saldo dos
+depósitos a prazo captados, somado ao saldo das letras financeiras emitidas, não deve ser superior a 50% do valor do Patrimônio Líquido
+da instituição'. Dessa forma, para fazer frente à estratégia do Banco e projeções de desembolso, papel relevante possuem as captações
+internacionais. Terceiro, o perfil dos financiamentos externos é de operações de prazo mais longo, e muitas vezes, de custo financeiro
+menor, melhor alinhando-se a parte da demanda de sub-mutuários, e permitindo uma melhor gestão de ativos e passivos e de liquidez.
+
+O interesse do Bandes em contratar uma operação de crédito junto ao NDB decorre de uma série de vantagens operacionais deste, dentre
+as quais: (1) prazos e custos que se mostram adequados frente à demanda prevista para o escopo de sub-projetos; (2) custos de
+captação mais acessíveis entre organismos multilaterais; (3) flexibilidade no desenho da operação e elegibilidade multissetorial; (4)
+agilidade na preparação do projeto; (5) uso de sistemas nacionais para aspectos fiduciários e de gestão de riscos sociais e ambientais; (6)
+larga experiência com financiamento a bancos de desenvolvimento subnacionais; (7) convergência de diretrizes de investimento do NDB e
+do Bandes, como compromisso comum das duas instituições quanto à implementação dos Objetivos para o Desenvolvimento Sustentável
+ da Agenda 2030 da ONU.
+
+Desse modo, cabe destacar que uma vez acessando o funding do NDB o Bandes poderá, por exemplo, ofertar financiamentos em
+condições de taxa e prazo adequados às necessidades dos investimentos e setores selecionados (infraestrutura e sustentabilidade).
+Em relação às condições favoráveis em termos de prazos, custos e critérios de elegibilidade, a título de comparação, segue abaixo o custo
+ associado captação externa do Bandes vigente, com garantia soberana: 
+- BID: tranche de US$ 7,5 milhões. SOFR + 0,89% a.a. Prazo: 25 anos (sendo 5,5 anos de carência). Finalidade: Financiamento de capital
+ de giro para micro, pequenas e médias empresas atingidas pela pandemia de COVID-19. Data: 06/09/2023.
+- Fonplata: até US$ 52 milhões. SOFR + 3,01% a.a. Prazo: até 8 anos (sendo até 2 anos de carência. Finalidade: capital de giro e projetos
+ de investimento. Data: 06/09/2023.
+- CAF: até US$ 30 milhões. SOFR + 3,05% a.a. Prazo: até 10 anos (incluindo até 3 anos de carência). Finalidade: projetos de investimento
+ para setor privado e setor público. Data: 02/10/2023.
+
+Além disso, considerando-se operações externas com garantia soberana, a operação com o NDB apresentou custos e prazos
+competitivos com os disponibilizados nos sites de outros potenciais multilaterais, porém com significativa vantagem em termos de
+agilidade na preparação do projeto, flexibilidade no desenho da operação e amplitude da elegibilidade multisetorial para uso dos recursos
+e uso dos sistemas nacionais.
+
+Vale ressaltar que a opção pelo NDB se deve bastante em função do seu propósito, qual seja, financiar projetos de infraestrutura
+sustentável. É esse propósito que o diferencia perante os demais bancos multilaterais pesquisados e é por isso que o BANDES o escolheu
+ como parceiro no programa BANDES INFRA Sustentável.
+
+- Custo estimado da internalização dos recursos
+Como já destacado, um diferencial do Bandes é uso dos recursos captados externamente por meio de financiamentos concedidos em
+moeda nacional aos sub-mutuários. A prática no Bandes é de que as captações externas sejam acompanhadas de instrumentos de hedge
+cambial. Na ocasião da internalização dos recursos em moeda estrangeira, um swap cambial é simultaneamente contratado pelo Bandes
+junto a outra instituição financeira, de modo que o banco não incorre no risco de variação cambial. Esta mitigação do risco é indiretamente
+repassada aos sub-mutuários que também não são expostos a qualquer risco de choque de taxa de câmbio em seu fluxo de pagamento
+em moeda local.
+
+O custo estimado da internalização dos recursos da operação junto ao NDB, conforme estimativa de 12/09/2023, é um valor all-in em torno
+ de CDI + 0,77% (com a característica de um longo prazo para pagamento; vida média de 12 anos).
+
+2.11. PROJETO/BENEFICIÁRIO
+O público-alvo (beneficiários diretos) são os municípios e as empresas localizadas no Estado do Espírito Santo, que sejam elegíveis para
+uso dos recursos captados e se enquadrem nos critérios de normativos internos do Bandes.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:20
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61045
+Página: 9
+
+A população dos municípios capixabas e os consumidores dos produtos e serviços oferecidos pelos tomadores privados são os
+beneficiários indiretos e finais dos projetos contemplados com os recursos potenciais da operação aqui proposta. Pela natureza dos
+projetos (infraestrutura e desenvolvimento sustentável), parcela da população com acesso restrito ao crédito de longo prazo, assim como,
+as populações, sobretudo a faixa mais carente, vivendo em áreas desprovidas de serviços básicos, tendem a ser os principais
+beneficiários finais. 
+
+Conforme Censo 2022 do IBGE a população do Espírito Santo é de aproximadamente 3,9 milhões de habitantes, e conta com vários
+municípios localizados em regiões de menor IDH no estado, como o noroeste capixaba.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+Sim
+3. Financiamento
+3.1. Financiamento/Fonte
+Moeda de Referência: Dólar
+Fontes Externas
+Sigla
+Moeda
+Valor Proposto
+Taxa de
+Câmbio
+Valor de Referência US
+$
+New Development Bank - NDB
+NDB
+US$
+50.000.000,00
+1,00
+50.000.000,00
+Total:
+50.000.000,00
+50.000.000,00
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+Concordo
+4. Execução
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+(i) Arranjo Institucional
+O Bandes é o proponente único do Programa de Financiamento à Infraestrutura Sustentável no Estado do Espírito Santo, a ser financiado
+com recursos de operação externa junto ao NDB. O Bandes será responsável pelas tratativas e pela contratação de financiamento junto
+ao NDB e responsável pela execução (originação e monitoramento) das operações de crédito do Programa Bandes INFRA Sustentável.
+Neste sentido, o Bandes deve ser visto como executor indireto (intermediário) dos projetos dos beneficiários diretos (sub-mutuários), que
+deverão passar pelo crivo e monitoramento do banco.
+
+O Bandes foi criado pela Lei Estadual nº 2.279, de 1 de fevereiro de 1967. Constituído como pessoa jurídica de direito privado, de capital
+fechado, é considerado empresa pública não dependente, com autorização do Banco Central para seu funcionamento. Com sede no
+município de Vitória, o Bandes é controlado pelo estado do Espírito Santo. A atividade econômica do Bandes é exercida em conformidade
+com o artigo 173 da Constituição Federal sendo consideradas, também, as determinações da Lei nº 13.303/2016. 
+
+(ii) Matriz de Responsabilidade
+O Bandes será responsável pela interlocução, de forma direta, com os tomadores finais dos financiamentos (sub-mutuários). A partir das
+diretivas acordadas sobre os projetos elegíveis e as linhas de financiamento existentes, o Bandes analisa os pleitos formulados por
+empresas privadas e municípios, que compõem o público-alvo, seguindo as regras e normativos internos do Banco, para identificar o
+enquadramento à linha aqui discutida.  
+
+O Bandes, portanto, financia os projetos de infraestrutura sustentável aprovados, cabendo ao Banco o monitoramento do uso dos recursos
+e projetos, ficando a cargos das próprias empresas e munícipios a responsabilidade direta pela execução. O monitoramento permite a
+coleta de dados de forma a atender exigência de comprovação, informação e desenvolvimento de base interna de dados. 
+
+De forma sintética, a estrutura organizacional (descrição completa em anexo) do Bandes está descrita a seguir:
+- Presidência (PRESI);
+- Diretoria de Riscos, Administração e Finanças (DIRAF);
+- Diretoria de Negócios (DIREN);
+- Diretoria de Operações (DIROP).
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:20
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61045
+Página: 10
+Dentre as responsabilidades do Bandes, estão a observância de obrigações financeiras e não financeiras, a serem assumidas no contato
+internacional de financiamento com o NDB, previstos no Programa Bandes INFRA Sustentável. Em tratativas com o NDB sobre suas
+políticas de aquisição e de salvaguardas a equipe do multilateral nos informou que adota as políticas e legislação do país do mutuário.
+Vale frisar que o Bandes não fará aquisição de bens e/ou serviços com recursos do NDB, mas usará tais recursos com funding para
+empréstimo a sub-mutuários. Além disso, a Bandes segue leis e normas sobre Responsabilidade Social, Ambiental e Climática e suas
+políticas podem ser consultas no seu site (https://www.bandes.com.br/Site/Dinamico/Show/713).
+
+(iii) Arranjo Operacional
+No final do 1º semestre de 2023, o Banco contava com uma equipe de 161 empregados e empregados (inclusive diretores e cargos em
+comissão). Além disso, integram a equipe do Bandes 60 estagiárias e estagiários e aprendizes do Programa de Aprendizagem e
+colaboradores de equipes terceirizadas que prestam serviços não típicos das carreiras do Bandes, tais como: manutenção predial e
+serviços gerais, serviços de TI, análise de projetos de engenharia, serviços administrativos.
+
+O banco possui: equipe comercial com a finalidade de originação de negócios; equipe de análise com a finalidade de análise cadastral,
+viabilidade técnica e financeira das operações de crédito e eleição das garantias; equipe de acompanhamento de projetos para verificar se
+os projetos foram executados conforme previsto em contrato e se condicionantes foram cumpridos; equipe de cobrança para monitorar se
+os pagamentos de sub-mutuários estão em dia; equipe financeira para monitorar e mitigar risco cambial com o NDB, além de gestão de
+ativos e passivos; equipe contábil para apropriação de eventos contábeis, além de monitorar desempenho operacional e financeiro do
+banco; equipe de produtos para desenhar produtos para sub-mutuários; equipe de risco que, dentre outras atividades, monitora a
+qualidade da carteira de crédito. 
+
+A equipe de colaboradores do Bandes conta com profissionais formados em Economia, Contabilidade, Administração, Direito e
+Engenharia. Mais de 90% possui pós-graduação. A equipe do banco possui experiência em análise de crédito PJ e de crédito para
+municípios em projetos de investimento para infraestrutura sustentável. 
+
+Toda essa estrutura organizacional serve de esteio para a sustentabilidade financeira e operacional do Programa BANDES INFRA
+Sustentável em parceria com o NDB. Como essa estrutura já existe não se prevê custos operacionais e administrativos adicionais para
+que o BANDES implemente tal programa.
+4.2. Execução/Executores
+Executor: Banco de Desenvolvimento do Espirito Santo SA - BANDES
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+Fax:
+CNPJ:                
+UF:  
+4.3. Execução/Prazo
+Prazo de Desembolso:
+5
+Anos
+4.4. Execução/Cronograma
+Ano 1
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+NDB
+NDB
+C - INVESTIMENTOS EM INFRAESTRUTURA
+50.000.000,00
+8.000.000,00
+   S - INVESTIMENTOS EM INFRAESTRUTURA DO SETOR PÚBLICO E SETOR PRIVADO
+48.000.000,00
+7.680.000,00
+P - INVESTIMENTOS DE INFRAESTRUTURA EM PROJETOS SELECIONADOS PELOS SETORES PÚBLICO E PRIVADO DO
+ESPÍRITO SANTO
+48.000.000,00
+7.680.000,00
+   S - ESTRUTURAÇÃO DE PROJETOS PARA MUNICÍPIOS
+2.000.000,00
+320.000,00
+      P - ESTRUTURAÇÃO DE PROJETOS PARA MUNICÍPIOS
+2.000.000,00
+320.000,00
+Total
+0,00
+8.000.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 2
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+NDB
+NDB
+C - INVESTIMENTOS EM INFRAESTRUTURA
+10.000.000,00
+   S - INVESTIMENTOS EM INFRAESTRUTURA DO SETOR PÚBLICO E SETOR PRIVADO
+9.600.000,00
+P - INVESTIMENTOS DE INFRAESTRUTURA EM PROJETOS SELECIONADOS PELOS SETORES PÚBLICO E PRIVADO DO
+ESPÍRITO SANTO
+9.600.000,00
+   S - ESTRUTURAÇÃO DE PROJETOS PARA MUNICÍPIOS
+400.000,00
+      P - ESTRUTURAÇÃO DE PROJETOS PARA MUNICÍPIOS
+400.000,00
+Total
+0,00
+10.000.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:20
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61045
+Página: 11
+Ano 3
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+NDB
+NDB
+C - INVESTIMENTOS EM INFRAESTRUTURA
+14.000.000,00
+   S - INVESTIMENTOS EM INFRAESTRUTURA DO SETOR PÚBLICO E SETOR PRIVADO
+13.440.000,00
+P - INVESTIMENTOS DE INFRAESTRUTURA EM PROJETOS SELECIONADOS PELOS SETORES PÚBLICO E PRIVADO DO
+ESPÍRITO SANTO
+13.440.000,00
+   S - ESTRUTURAÇÃO DE PROJETOS PARA MUNICÍPIOS
+560.000,00
+      P - ESTRUTURAÇÃO DE PROJETOS PARA MUNICÍPIOS
+560.000,00
+Total
+0,00
+14.000.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 4
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+NDB
+NDB
+C - INVESTIMENTOS EM INFRAESTRUTURA
+10.000.000,00
+   S - INVESTIMENTOS EM INFRAESTRUTURA DO SETOR PÚBLICO E SETOR PRIVADO
+9.600.000,00
+P - INVESTIMENTOS DE INFRAESTRUTURA EM PROJETOS SELECIONADOS PELOS SETORES PÚBLICO E PRIVADO DO
+ESPÍRITO SANTO
+9.600.000,00
+   S - ESTRUTURAÇÃO DE PROJETOS PARA MUNICÍPIOS
+400.000,00
+      P - ESTRUTURAÇÃO DE PROJETOS PARA MUNICÍPIOS
+400.000,00
+Total
+0,00
+10.000.000,00
+0,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+Ano 5
+VALOR
+FONTES
+TOTAL
+COMPONENTES
+CUSTO
+NDB
+NDB
+C - INVESTIMENTOS EM INFRAESTRUTURA
+8.000.000,00
+50.000.000,00
+   S - INVESTIMENTOS EM INFRAESTRUTURA DO SETOR PÚBLICO E SETOR PRIVADO
+7.680.000,00
+48.000.000,00
+P - INVESTIMENTOS DE INFRAESTRUTURA EM PROJETOS SELECIONADOS PELOS SETORES PÚBLICO E PRIVADO DO
+ESPÍRITO SANTO
+7.680.000,00
+48.000.000,00
+   S - ESTRUTURAÇÃO DE PROJETOS PARA MUNICÍPIOS
+320.000,00
+2.000.000,00
+      P - ESTRUTURAÇÃO DE PROJETOS PARA MUNICÍPIOS
+320.000,00
+2.000.000,00
+Total
+50.000.000,00
+8.000.000,00
+50.000.000,00
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+5. Riscos
+5.1. RISCOS/ATOS LEGAIS
+As operações externas que contam com aval da União possuem uma série de atos e formalidades legais previstas no rito para a efetiva
+contratação de financiamento externo com garantia soberana, que passam pela aprovação por diversas casas legislativas e órgãos
+administrativos das esferas estaduais e federais, no caso de uma empresa pública estadual não dependente, como o Bandes, incluindo-se
+ a aprovação da presente carta consulta junto a COFIEX-SAIN-ME (que é o atual estágio do Programa Bandes INFRA Sustentável). 
+
+Ademais, nas operações de empréstimos internacionais há riscos operacionais, nos quais se incluem os riscos legais associados à
+inadequação ou deficiência em contratos firmados pelo Banco. O Bandes tem realizado adaptações nas suas práticas operacionais para
+melhor gerenciamento e mitigação dos riscos vinculados às operações de empréstimos internacionais, incluindo-se a contratação de
+consultoria para aperfeiçoar seu modelo de ALM, hedge na conversão das tranches e benchmarking com outros bancos de
+desenvolvimento que já realizaram empréstimos internacionais para aprimorar procedimentos operacionais. 
+
+Vale salientar que a atuação do Bandes é regida por um conjunto de competências, definições e procedimentos a serem observados,
+conforme diretrizes internas (normativos) e de órgãos reguladores, de forma a identificar e avaliar os impactos da ocorrência de eventos
+relativos a falhas legais em procedimentos e em contratos, com o objetivo de reduzir, mitigar e eliminar a ocorrência de eventos de risco
+de atos legais.
+
+A abordagem dos riscos legais relativos aos contratos internacionais firmados pelo Bandes é atividade da Gerência Jurídica, área principal
+que compete atuar para a mitigação desse tipo de risco. A avaliação e o controle da conformidade legal de atos e contratos do banco é,
+em última instância, exercida pela Gerência Jurídica. A Gerência Financeira atua em direto contato com os organismos multilaterais,
+contribui na identificação dos riscos financeiros e cambiais e na sua mitigação.
+
+
+5.2. RISCOS/CONTRATAÇÕES
+O Bandes é instituição financeira que possui décadas de experiência na contratação de operações de repasse, inicialmente de repasses
+nacionais e, nos últimos 2 anos, também de captação externa. A Gerência Jurídica elabora minutas de contrato, com base em modelos
+padrão de instrumentos contratuais e de acordo com a legislação vigente e com as exigências particulares definidas pela instituição fonte
+do recurso.
+
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:20
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61045
+Página: 12
+No caso das operações externas a serem repassadas, o instrumento contratual com o tomador do crédito, em geral, uma cédula de crédito
+bancário (CCB), deve conter as obrigações que devem ser adotados por este sub-mutuário final (back-to-back basis) e monitoradas pelo
+Bandes, em especial, em relação a alocação dos recursos, fornecimento de informações e atendimento a critérios socioambientais. A
+inclusão de sanções, como vencimento antecipado e/ou multa, são mecanismos de incentivo a maior alinhamento entre as partes. 
+
+A mitigação dos riscos de contratações de crédito com sub-mutuários é de responsabilidade principal da Gerência de Análise de Crédito,
+com base nas diretrizes expostas na Política de Crédito e na Política de Responsabilidade Socioambiental e Climática (PRSA). A adoção
+de listas de exclusão e iniciativas de PLD/FT, conforme PRSA, Compliance e exigência de vários contratos internacionais vigentes,
+também é medida mitigadora de riscos de contratação com sub-mutuários.
+
+A gestão dos riscos de contratação e as ações mitigadoras são transversais às áreas do Bandes, também estando presentes nas regras
+da Política de Crédito do Bandes, sendo o risco monitorado desde a entrada de um processo de sub-mutuário para análise de crédito. As
+revisões de limite de crédito e o monitoramento de operações específicas pela Diretoria Operacional são outras ações mitigadoras de risco
+.
+
+Para as concessões ao setor público, o Bandes adota linha de crédito publicamente divulgada em seu site, o que aumenta a transparência
+do processo e eleva as exigências dos municípios para observarem as leis para licitações pelas administrações municipais, estando as
+contrapartes internacionais (NDB) cientes dos ritos procedimentais e exigências da legislação brasileira.
+Com relação ao risco cambial da operação de empréstimo com o NDB vale destacar as ações que serão tomadas pelo BANDES. O risco
+cambial surge quando uma empresa se expõe a fatores que podem gerar perdas financeiras, decorrentes das variações no câmbio.
+Existem basicamente 4 tipos de riscos cambiais possíveis: risco de exposição, risco de previsão, risco de sistema e risco de mercado e de
+transação. Esse último (risco de transação: ele trata dos riscos que envolvem cada setor do mercado, que se expõe às oscilações naturais
+quando se trata de negociações e finanças. Ainda, deve considerar as chances de que a operação não saia como desejado, devido aos
+impactos de flutuações inesperadas na taxa de câmbio) é o que o BANDES considera mais desafiador, dado a volatilidade no mercado
+cambial brasileiro.
+
+Para mitigar esse risco cambial a Gerência Financeira do BANDES está em tratativas com alguns players (Safra, Santander, Itaú, Citibank,
+JP Morgan, MUFG) visando estruturar operações de swap cambial de longo prazo para as diversas tranches que se pretende realizar
+com os recursos do NDB. Além disso, monitorar o mercado de câmbio e estar ciente das tendências e variações cambiais é rotina da
+Gerência Financeira, o que possibilita uma estratégia adequada de rolagem desses swaps. Outro ponto importante é que o BANDES está
+migrando seu broadcast para o Bloomberg, permitindo cotações indicativas de swaps cambiais e melhor precificação dos mesmos, além
+da aquisição de software de hedge account que permita melhor controle interno e, consequente, contabilização desse instrumento
+financeiro.     
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+5.4. RISCOS/IMPACTOS AMBIENTAIS
+O Bandes adota como referência para sua atuação o alinhamento com as melhores práticas internacionais, especialmente os Objetivos de
+ Desenvolvimento Sustentável (ODS) da ONU. 
+
+Todos os processos de financiamento são analisados considerando-se as normas internas e externas pertinentes à proteção do meio
+ambiente e responsabilidade socioambiental, incluindo entre outros aspectos:
+- A comprovação da regularidade, quanto ao licenciamento ambiental, do proponente e/ou do projeto junto aos órgãos ambientais;
+- Avaliação do atendimento às exigências da Política de Responsabilidade Socioambiental e Climática do Bandes;
+- Comprovação de inscrição no Cadastro Ambiental Rural (CAR), quando exigido pela legislação;
+- Verificação de requisitos socioambientais das operações em conformidade com as exigências do fornecedor de recursos;
+- Verificação de certificações socioambientais pré-existentes dos clientes;
+- Verificação da atividade exercida pelo cliente perante a lista de exclusão socioambiental do Banco;
+- Verificação de aspectos socioambientais para aceitação de garantias de bens imóveis.
+
+O gerenciamento dos riscos socais e ambientais se baseia em sistemas, rotinas e procedimentos para identificação, classificação,
+avaliação, monitoramento, mitigação e controle desses riscos nas atividades e nas operações do Bandes.
+ 
+ 
+
+Ministério do Planejamento e Orçamento
+12/06/2026 - 13:20
+Secretaria de Assuntos Internacionais e Desenvolvimento - SEAID
+Carta Consulta Nº 61045
+Página: 13
+
+Destaca-se a publicação em 2021, pelo Banco Central, de novos normativos para a gestão desses riscos e para o estabelecimento da
+Política de Responsabilidade Social, Ambiental e Climática. Para atendimento a essas novas exigências, o Bandes estabeleceu um plano
+de ação que objetiva o desenvolvimento de novas metodologias para a avaliação dos riscos sociais, ambientais e climáticos, entre outros
+aspectos. O Bandes também estabeleceu cooperação técnica junto ao Banco Interamericano de Desenvolvimento para o aprimoramento
+de seus procedimentos. Em adição, no quesito governança e para melhor gestão do tema, cabe ressaltar que o Banco está reorganizando
+ sua estrutura com novas atribuições para a Gerência de Acompanhamento, ligada à Diretoria Operacional.
+
+Em consonância a outros multilaterais, com contratos vigentes, considera-se a concordância do NDB com as políticas socioambientais
+praticadas pelo Bandes e que serão adotadas na operacionalização dos recursos do Programa Bandes INFRA Sustentável, reconhecendo
+-se a possibilidade de adoção de novas práticas internacionais no decorrer das tratativas.
+
+5.5. RISCOS/IMPACTO SOCIAL
+O Bandes não contrata qualquer operação financeira com sub-mutuário final, a não ser que todas as negativas, declarações e condições
+prévias (como quanto aos riscos/impactos sociais) tenham sido apresentadas em conformidade com a regulamentação e legislação
+vigente, e em observância aos normativos internos. No caso, interferências em populações, em especial indígenas, não podem ser
+contratadas.
+5.6. RISCOS/REASSENTAMENTOS
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+ 
+ 

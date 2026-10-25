@@ -1,0 +1,52 @@
+{
+  "ambiente/clima": {
+    "n_ccs": 33,
+    "total_chars": 420365,
+    "file": "ambiente_clima.md"
+  },
+  "conectividade": {
+    "n_ccs": 3,
+    "total_chars": 34714,
+    "file": "conectividade.md"
+  },
+  "educação": {
+    "n_ccs": 12,
+    "total_chars": 181578,
+    "file": "educação.md"
+  },
+  "fiscal": {
+    "n_ccs": 17,
+    "total_chars": 200087,
+    "file": "fiscal.md"
+  },
+  "governo digital": {
+    "n_ccs": 5,
+    "total_chars": 50788,
+    "file": "governo_digital.md"
+  },
+  "infraestrutura": {
+    "n_ccs": 78,
+    "total_chars": 1111132,
+    "file": "infraestrutura.md"
+  },
+  "justiça": {
+    "n_ccs": 2,
+    "total_chars": 28862,
+    "file": "justiça.md"
+  },
+  "rural/agricultura": {
+    "n_ccs": 13,
+    "total_chars": 164387,
+    "file": "rural_agricultura.md"
+  },
+  "saúde": {
+    "n_ccs": 21,
+    "total_chars": 258397,
+    "file": "saúde.md"
+  },
+  "água/saneamento": {
+    "n_ccs": 20,
+    "total_chars": 334875,
+    "file": "água_saneamento.md"
+  }
+}

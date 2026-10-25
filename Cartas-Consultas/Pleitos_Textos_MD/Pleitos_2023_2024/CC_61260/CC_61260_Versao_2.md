@@ -1,0 +1,5836 @@
+# Carta-Consulta CC_61260 — Versao 2 (SIGS)
+
+
+CARTA CONSULTA
+
+Programa de Desenvolvimento Econômico Sustentável do Tocantins
+
+Nº Carta Consulta: 61260
+Processo: 03101.003110/2024-69
+Mutuário: Estado do Tocantins
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  11 de Outubro de 2024
+
+Fontes Internas:
+Contrapartida Financeira: US$ 25.000.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 100.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+O Tocantins, com uma população de quase 1,6 milhão de habitantes distribuída em 139 municípios, destaca-se pelo crescimento
+populacional superior à média nacional e pela predominância urbana. Sua diversidade étnica e cultural é um diferencial, com 60% da
+população se identificando como parda ou preta. O estado também se beneficia de uma geografia marcada por biomas ricos como
+Amazônia e Cerrado, oferecendo grande potencial hídrico e turístico.
+
+Nos últimos anos, o Tocantins registrou bom desempenho socioeconômico, com um PIB de R$ 51,8 bilhões em 2021 e projeção de
+crescimento de 11,4% para 2023. A taxa de desocupação caiu para 5,8%, e o IDH aumentou para 0,731. A pobreza extrema reduziu-se
+para 4,9%, a menor das regiões Norte e Nordeste. Entretanto, ainda há desafios como renda domiciliar inferior à média nacional, alta
+informalidade e níveis de pobreza que atingem 34% da população (IBGE, 2022).
+
+Para alcançar desenvolvimento sustentável, o Tocantins deve diversificar sua economia, aproveitando os potenciais do turismo,
+agropecuária e atração de investimentos. É fundamental integrar o estado aos fluxos de comércio nacional e internacional, preservando
+biomas frágeis e incluindo as comunidades no processo econômico. O programa proposto busca promover crescimento equilibrado e
+inclusivo, explorando de maneira sustentável as potencialidades turísticas e agropecuárias.
+
+Baixa Competitividade na Atração de Investimentos
+
+O Tocantins ocupa a 15ª posição no Ranking geral de Competitividade dos Estados, com avanços recentes que apontam potencial de
+mercado (1º) e qualificação do capital humano (11º). Entretanto, o ecossistema de inovação ainda está em estágio inicial (23º no Índice
+FIEC de Inovação), e faltam estratégias para atrair investimentos privados e internacionalizar o estado. Esse cenário resulta de carências
+na formulação de políticas específicas e na integração do ecossistema local de inovação.
+
+Planejamento e Gestão Sustentável do Turismo Incipiente
+
+O Estado do Tocantins não possui um Plano Estratégico de Turismo Sustentável. Faltam ferramentas de gestão como mapeamento de
+riscos, sistemas de monitoramento, estudos de capacidade de carga e de impactos ambientais, sociais e econômicos, o que compromete
+a sustentabilidade dos destinos turísticos e a capacidade setorial de gerar receitas e impactos sociais e ambientais positivos. A Secretaria
+Estadual de Turismo enfrenta limitações em sua estrutura, equipamentos e capacidade de gestão, o que também afeta órgãos municipais
+e regionais.
+
+Nano e pequenos empreendedores, embora capacitados, carecem de acesso a recursos financeiros e ferramentas de gestão sustentável
+e segura. Comunidades quilombolas e povos indígenas buscam no turismo uma forma de desenvolvimento sustentável e valorização de
+suas culturas, mas enfrentam desafios como a falta de infraestrutura adequada, capacitação, visibilidade e acesso a políticas públicas
+específicas, ameaçando suas tradições e o uso sustentável de seus territórios.
+
+Desafios no Combate ao Desmatamento e Preservação Ambiental no setor Agricultura
+
+O Tocantins foi o terceiro estado com maior área desmatada no Brasil em 2022-2023, com 230.253 hectares desmatados, um aumento de
+177, 9%. Esse desmatamento agrava as emissões de gases de efeito estufa (GEE) e afeta a capacidade do estado de adaptar-se às
+mudanças climáticas. Nos últimos 20 anos, as emissões da agropecuária aumentaram 70%, e a perda de um terço da cobertura florestal
+entre 1985 e 2023 comprometeu a biodiversidade e a sustentabilidade agrícola. A expansão agropecuária é o principal fator, com 80% das
+áreas ocupadas por pastagens e crescimento de 334,97% na produção de soja.
+
+Apesar de políticas como Plano de Prevenção e Combate aos Desmatamentos e Incêndios Florestais do Tocantins (PCDIF) e a Política
+Estadual de Pagamento por Serviços Ambientais, há limitações na execução por falta de recursos técnicos e financeiros. O estado carece
+de um Plano Estadual de Restauração Florestal, o que dificulta diagnósticos eficientes de áreas degradadas e a definição de estratégias
+de restauração
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+Baixa Qualidade da Infraestrutura Rodoviária
+
+A malha rodoviária do Tocantins desempenha papel fundamental na conectividade do estado, ligando regiões produtivas aos grandes
+eixos logísticos Norte-Sul que conectam o estado com o país. No entanto, problemas estruturais e funcionais persistem. Segundo a CNT
+Rodovias 2022, 31% das rodovias avaliadas no estado apresentavam condições ruins ou péssimas.
+
+O tráfego intenso nos corredores trecho Colinas/Palmeirante, Taquaralto/Taquaruçu, devido ao escoamento da produção agrícola e ao
+tráfego dos polos de turismo na região, agrava os níveis de serviço das rodovias, e limita o desenvolvimento tanto para diversas cadeias
+produtivas relacionadas com a agricultura empresarial e familiar do Estado, quanto para o turismo ; a localização desses corredores é
+muito relevante para o estado pelas suas ligações com os eixos logísticos norte-sul.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+O Programa aborda os problemas por meio de três eixos principais, visando o desenvolvimento econômico sustentável do Tocantins:
+
+Fortalecimento do marco institucional e regulatório para atração de investimentos, inovação e desenvolvimento de negócios. O Programa
+visa estruturar uma Agência de Atração de Investimentos e Promoção do Comércio Exterior (Investe TO), com um plano estratégico de
+marketing e comércio exterior para o Estado. Também propõe gerar capilaridade nos municípios capacitando funcionários locais para
+atração de investimentos. Também fortalecerá o ecossistema de inovação, promovendo a colaboração entre setor acadêmico e privado, e
+o desenvolvimento do Parque Tecnológico, além de cofinanciamento de projetos de inovação e atividades de bioeconomia via sistema de
+inovação.
+
+Resultados esperados: Os resultados esperados incluem a criação de um ambiente mais favorável à atração de investimentos e promoção
+do comércio exterior, gerando empregos e crescimento sustentável. A estruturação da Agência de Investimentos, junto com um
+planejamento estratégico robusto, deve aumentar a competitividade estadual. A capacitação de funcionários e o fortalecimento do
+ecossistema de inovação impulsionarão a diversificação econômica, com foco na bioeconomia e práticas sustentáveis.
+
+Sustentabilidade: Um marco institucional robusto atrairá investimentos contínuos e promoverá um ambiente de negócios dinâmico. A
+capacitação de funcionários criará uma base técnica preparada para novas oportunidades de investimento, garantindo a longevidade das
+ações implementadas. O fortalecimento da inovação, por meio da colaboração acadêmico-privada, gerará novos projetos e soluções
+tecnológicas, alimentando o desenvolvimento do Parque Tecnológico. A bioeconomia fomentará o crescimento sustentável e o uso
+eficiente dos recursos naturais. Os mecanismos de financiamento e manutenção da Investe TO  serão definidos durante a preparação do
+Programa.
+
+Investimentos para desenvolver os setores econômicos prioritários do Tocantins de forma resiliente e sustentável:
+
+i.Fortalecimento do planejamento e gestão do turismo sustentável: Os investimentos fortalecerão a capacidade do Estado em planejar e
+gerir o turismo sustentável, com a criação de Planos Estratégico e de Marketing Turístico, fortalecimento do Observatório do Turismo e
+capacitação de gestores, e melhorias nas instalações da Secretaria de Turismo. Nano e pequenos empreendedores dos Polos Jalapão e
+Serra Gerais receberão apoio para pequenas obras, aquisição de equipamentos e implementação de gestão de segurança. O programa
+promoverá turismo sustentável em comunidades quilombolas e indígenas, e fortalecerá a conservação de áreas ecológicas como a Ilha do
+Bananal, a Estação Ecológica Federal Serra Geral do Tocantins, o Parque Estadual do Jalapão, o Parque Estadual do Cantão e o Parque
+Nacional do Araguaia.
+
+Resultados esperados: Espera-se o fortalecimento institucional na gestão do turismo sustentável no Tocantins, com maior eficiência nas
+operações da Secretaria de Turismo. O Plano Estratégico e de Marketing Turístico proporcionará uma visão de longo prazo e uma
+promoção eficaz dos destinos, enquanto o fortalecimento do Observatório do Turismo permitirá um monitoramento contínuo dos impactos.
+A gestão compartilhada dos atrativos melhorará a governança, enquanto comunidades quilombolas e indígenas terão suas culturas
+valorizadas, promovendo turismo sustentável e inclusão socioeconômica.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+Sustentabilidade: O estabelecimento de instrumentos sólidos de planejamento e políticas públicas estaduais, bem como o fortalecimento
+das capacidades de gestão dos órgãos públicos e da sociedade civil responsáveis pela governança turística, são peças fundamentais para
+garantir a sustentabilidade das intervenções previstas. O programa contemplará ainda a estruturação de modelos de gestão público-
+privados de atrativos e apoio a empreendimentos, favorecendo a competitividade dos destinos no longo prazo. A inclusão de práticas de
+turismo sustentável em comunidades quilombolas e indígenas criará um modelo que valoriza as culturas locais e integra as comunidades
+de forma ativa ao setor turístico.
+
+ii.Melhorar a produtividade, resiliência e sustentabilidade do setor agropecuário: O Programa promoverá tecnologias que aumentem a
+produtividade agrícola e pecuária, reduzindo o desmatamento e as emissões de gases de efeito estufa, por meio de assistência técnica e
+investimentos.
+
+Resultados esperados:  10.000 famílias serão apoiadas na recuperação de pastagens degradadas e adoção de tecnologias de adaptação
+e mitigação climática, como irrigação e sistemas agroflorestaiscom8.000 famílias apliquem essas práticas;  8.000 produtores a resolver
+passivos do Cadastro Ambiental Rural (CAR), cumprindo o Código Florestal e fortalecendo a produção sustentável, aumentando a
+competitividade e o acesso a mercados; implementação de políticas de valorização e restauração de serviços ecossistêmicos e da floresta
+em pé, a adoção de práticas de baixo carbono e agroecológicas, e o fomento das cadeias produtivas da bioeconomia.; a rastreabilidade
+dos produtos agropecuários.
+
+Sustentabilidade: A adoção de práticas sustentáveis no setor agropecuário será acompanhada de um fortalecimento institucional que
+garantirá a continuidade das práticas de produção sustentável. A assistência técnica e a capacitação dos produtores assegurarão a
+aplicação dessas tecnologias de maneira permanente, gerando impactos ambientais e econômicos de longo prazo.
+
+Infraestrutura logística: Os investimentos se concentram na melhoria de três corredores estratégicos: Colinas - Palmeirante (TO 335),
+Taquaralto - Taquaruçu (TO 030) e Araguaína - Novo Horizonte (TO 222). A TO 222 conecta Tocantins ao Pará, facilitando o escoamento
+de grãos e o turismo. A TO 335 conecta-se à Ferrovia Norte-Sul e à BR-153, fortalecendo o escoamento de grãos. A TO 030 é uma rota
+importante para o turismo no Jalapão e o escoamento da agricultura familiar.
+
+Resultados esperados: Espera-se melhorar os níveis de serviço, reduzindo os custos operacionais e tempos de deslocamento,
+melhorando a segurança e a resiliência das rodovias. Isso aumentará a competitividade das empresas agrícolas e melhorará o acesso aos
+destinos turísticos.
+
+Sustentabilidade: Custos de manutenção serão de R$ 203.000 ao ano, e serão incluídos no Plano de Manutenção da AGETO. Será
+requerido a assinatura de um contrato de manutenção por desempenho (CREMA) por oito anos.
+
+O ANEXO I estabelece a lógica vertical do Programa.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+O Programa está alinhado ao Plano Plurianual do governo do Estado do Tocantins (2024-2027), nos objetivos de: (i) expandir e integrar a
+logística para inserção nacional e global; (ii) incentivar o agronegócio e a agroindústria à exportação; (iii) desenvolver cadeias produtivas; e
+(iv) promover o equilíbrio entre atividades produtivas e o meio ambiente.
+
+O Programa apoiará os eixos do PPA 2024-2027 (ANEXO 4), abordando os seguintes temas prioritários:
+
+Eixo de Desenvolvimento Produtivo, Economia Criativa, Emprego e Renda: foco no desenvolvimento dos polos de produção, pesquisa e
+inovação tecnológica, agricultura de baixo carbono, assistência técnica e agricultura familiar, agregação de valor à produção agropecuária
+e comercialização, regularização fundiária, desenvolvimento sustentável e mudanças climáticas.
+
+Desenvolvimento de Indústria, Comércio e Serviços: atração de investimentos, estímulo à inovação tecnológica, ampliação das
+exportações, produção agropecuária, agronegócio, agroindústria, indústria e logística, além de turismo.
+
+Infraestrutura Econômica e Urbana: melhorias na logística.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+Meio Ambiente e Mudanças Climáticas: adoção de instrumentos para mitigação e adaptação às mudanças climáticas.
+
+Além disso, a Secretaria da Indústria, Comércio e Serviços atua em consonância com a política pública de desenvolvimento econômico do
+Tocantins por meio do Programa de Impulsionamento da Indústria, Comércio e Serviços (PICS). Lançado em janeiro de 2022, o PICS visa
+estimular o desenvolvimento socioeconômico sustentável, criando um ambiente favorável aos negócios.
+
+Os subprogramas, projetos e ações do PICS estão estruturados em oito pilares estratégicos:
+
+1.Infraestrutura Empresarial e Logística: Desenvolvimento de infraestrutura para o setor empresarial, facilitando a logística.
+
+2.Desenvolvimento Empresarial e de Sistemas Produtivos: Apoio ao crescimento das empresas e à eficiência produtiva.
+
+3.Segurança Jurídica e Política: Garantia de um ambiente seguro para os negócios.
+
+4.Inovação e Tecnologia: Incentivo ao uso de tecnologias avançadas nas empresas.
+
+5.Matéria-Prima: Acesso a matérias-primas de qualidade.
+
+6.Mão de Obra Qualificada: Capacitação da força de trabalho.
+
+7.Oferta de Crédito: Facilitação do acesso ao crédito para empresas.
+
+8.Planejamento Estratégico: Ações estratégicas focadas em resultados a longo prazo.
+
+O programa também se alinha aos Objetivos de Desenvolvimento Sustentável (ODS): 9. Infraestrutura resiliente, melhorando os
+corredores estratégicos para turismo e agricultura; 2. Fome Zero, ao melhorar a integração dos agricultores familiares ao mercado; 12.
+Produção e Consumo Sustentável, promovendo turismo e produção sustentável; e 13. Ação pelo Clima, ao fortalecer a resiliência no setor
+agrícola e turístico.
+
+O Anexo 6 contempla os Documentos de Política Setorial.
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa de Desenvolvimento Econômico Sustentável do Tocantins
+
+
+### 2.2. Título Abreviado
+
+
+Tocantins Mais Sustentável
+
+
+### 2.3. Mutuário
+
+
+Estado do Tocantins
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Objetivo Geral
+
+O objetivo geral do Programa é melhorar a competitividade do estado do Tocantins em seus setores estratégicos e novos setores da
+economia
+
+, impulsionando o processo de integração aos fluxos nacionais, regionais e globais de investimento e comércio, com enfoque sustentável.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 6
+
+Objetivos Específicos
+
+Os objetivos específicos são:
+
+1)Impulsionar a atração de investimentos privados e a promoção do comércio exterior de bens e serviços do estado do Tocantins;
+
+2)Fortalecer a gestão e promoção do turismo sustentável no Estado, integrando comunidades locais e contribuindo para esforços de
+conservação de áreas ecológicas e culturais de destaque;
+
+3)Melhorar a produtividade, a adaptação às mudanças climáticas e o acesso a mercado dos pequenos e médios agricultores; e
+
+4)Reduzir os custos e tempos de viagem em corredores logísticos, turísticos e agropecuários estratégicos.
+
+O ANEXO 2 contempla a Matriz de Resultados do Programa.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 7
+
+Meta
+1,00
+
+Linha de Base
+0,88
+
+0,60
+
+0,66
+
+22.500,00
+
+25.000,00
+
+12,00
+
+10,00
+
+49,00
+
+120,00
+
+1.246,41
+
+1.495,70
+
+50,70
+
+60,00
+
+15,00
+
+10,00
+
+0,00
+
+0,00
+
+0,00
+
+10.000,00
+
+10.000,00
+
+8.000,00
+
+0,00
+
+8.000,00
+
+0,00
+
+6.000,00
+
+
+Descrição
+Porcentagem de participação das exportações
+do Tocantins no total das exportações brasileiras
+
+Porcentagem de participação do PIB do
+Tocantins no PIB Nacional
+Áreas protegidas no estado para o turismo
+sustentável
+
+Ranking IBID 2024 na vertical instituições
+
+Número de Empresas Exportadoras do Estado
+do Tocantins
+Gasto turístico per capita de turistas a lazer nos
+Polos focalizados pelo Programa
+
+Índice de satisfação dos turistas com os Polos
+turísticos focalizados pelo Programa
+
+Diversificação de mercados turísticos atendidos
+pelos destinos dos Polos focalizados pelo
+Programa
+
+Áreas degradadas recuperadas
+
+Área de vegetação nativa recuperada
+
+Número de propriedades com regularização
+ambiental
+
+Número de propriedades de que adotam
+tecnologias de produção climaticamente
+inteligentes
+
+Número de propriedades rurais com maior
+infiltração de água e menor escoamento
+superficial
+
+Custo médio da operação para veículo de
+passeio nos 3 corredores melhorados
+
+Custo médio da operação para caminhões nos 3
+corredores melhorados
+
+%
+
+%
+
+Fórmula de Cálculo Unidade de Medida
+Exportações do
+Tocantins/
+Exportações Totais do
+Brasil
+PIB Tocantins/PIB
+Nacional
+Cálculo por tamanho
+de áreas protegidas
+no Estado (tanto
+federais, Estaduais e
+APAs) (aumento)
+Cálculo por 3
+indicadores (ambiente
+institucional, de
+negócio e regulatório)
+Número absoluto
+
+Índice
+
+Km2
+
+Número de
+empresas
+R$
+
+%
+
+%
+
+Hectares (ha)
+
+Hectares (ha)
+
+Número de
+propriedades
+
+Número de
+propriedades
+
+Número de
+propriedades
+
+Aumento do gasto
+diário por pessoa
+apurado em pesquisa
+de demanda direta
+Aumento percentual
+do índice de avaliação
+ótima medido em
+pesquisa direta com
+os turistas
+Diminuição na
+concentração da cota
+de mercado
+proveniente do próprio
+estado do Tocantins
+Soma dos hectares
+recuperados
+Soma total da área de
+vegetação nativa
+restaurada
+Quantidade total de
+propriedades que
+concluíram o processo
+de regularização
+ambiental
+Contagem de
+propriedades de
+agricultura familiar
+que implementaram
+Contagem de
+propriedades que
+implementaram
+práticas de
+conservação do solo e
+da água, com base
+em análises de
+infiltração e
+escoamento
+Valores ex-ante e ex-
+post da avaliação
+HDM4 na avaliação
+econômica dos
+corredores
+Valores ex-ante e ex-
+post da avaliação
+HDM4 na avaliação
+econômica dos
+corredores
+
+Indice
+
+100,00
+
+90,00
+
+Indice
+
+100,00
+
+90,00
+
+
+Página: 8
+
+Tempo meio da viagem para veículo de passeio
+nos 3 corredores melhorados
+
+Tempo meio da viagem para caminhões nos 3
+corredores melhorados
+
+Porcentagem dos 3 corredores logísticos
+melhorados com 3 estrelas de segurança
+rodoviária para veículos de passeio de acordo
+com a metodologia IRAP
+
+
+### 2.7. Projeto/Componentes
+
+
+Valores ex-ante e ex-
+post da avaliação
+HDM4 na avaliação
+econômica dos
+corredores
+Valores ex-ante e ex-
+post da avaliação
+HDM4 na avaliação
+econômica dos
+corredores
+Avaliação metodologia
+IRAP
+
+Indice
+
+100,00
+
+85,00
+
+Indice
+
+100,00
+
+85,00
+
+%
+
+0,00
+
+80,00
+
+
+Componentes
+C - ATRAÇÃO DE INVESTIMENTOS E PROMOÇÃO DE COMÉRCIO EXTERIOR PARA O DESENVOLVIMENTO
+ECONÔMICO SUSTENTÁVEL DO TOCANTINS
+S - ATRAÇÃO DE INVESTIMENTOS E PROMOÇÃO DO COMÉRCIO EXTERIOR PARA OS SETORES
+ESTRATÉGICOS DA ECONOMIA DO TOCANTINS
+P - P1. Desenho e estruturação organizacional da Agência de Atração de Investimentos e Promoção de
+Comércio Exterior do Estado de Tocantins (Investe TO)
+P - P2. Desenvolvimento de Planejamento Estratégico e de Estratégia de marketing e vendas para a atração de
+investimentos e promoção do comércio exterior do Estado de Tocantins
+P - P3. Implementação da Janela única de Investimentos do Tocantins
+P - P4. Desenvolvimento, Implementação e Fortalecimento da Marca Tocantins
+P - P5. Estruturação de apoio da Investe TO para os principais municípios e regiões econômicas do Tocantins
+
+P - P6. Serviços de desenvolvimento empresarial para expansão comercial, nacional e internacional
+implementados
+P - P7. Estruturação de plataforma para promoção de bens e serviços do Tocantins, feiras e rodadas de
+negócios
+P - P8. Programa de apoio para as cadeias estratégicas estruturado e implementado
+P - P11. Quadro técnico e profissionais de pequenos negócios, negócios de impacto e agroindústrias das
+cadeias selecionadas qualificados
+P - P12. Parque Tecnológico apoiado
+P - P13. Laboratórios de prova e infraestrutura de qualidade melhorados
+P - P14. Fundo de co-financiamento de projetos/modelos inovadores estruturado
+P - P15. Cultura de inovação e novos empreendimentos apoiado
+S - S1.2. FORTALECIMENTO DAS CADEIAS PRODUTIVAS ESTRATÉGICAS
+P -        P9.  Empreendimentos e inovação das cadeias prioritárias financiadas
+P - P10.  Fundo garantidor para inovações nas cadeias prioritárias estruturado
+C - C2. FORTALECIMENTO DO TURISMO SUSTENTÁVEL E INCLUSIVO
+S - S2.1. INSTRUMENTOS DE GESTÃO SUSTENTÁVEL E RESILIENTE DO TURISMO
+P - P16. Plano Estratégico de Turismo Sustentável
+P - P17. Implantação de Instrumentos e ferramentas de apoio à implantação do Plano Estratégico de Turismo
+P - P18. Plano de gestão de riscos inerentes e vulnerabilidades do turismo às mudanças climáticas
+P - P19. Implementação de ações de gestão de riscos e de resiliência climática
+P - P20. Modelagem de gestão de áreas e atrativos turísticos de titularidade pública
+P - P21. Implantação de sistema de monitoramento da visitação nos atrativos turísticos de titularidade pública
+P - P22. Certificação de destinos e atrativos turísticos sustentáveis
+S - S2.2 APOIO À CADEIA PRODUTIVA DO TURISMO SUSTENTÁVEL E INCLUSIVO
+P - P23. Fundo de financiamento para nano e pequenos empreendimentos geridos pela comunidade local
+P - P24. Plano de Marketing Turístico Estadual
+P - P25. Implantação de Estratégias de apoio à comercialização e promoção
+S - S2.3 MODERNIZAÇÃO DA GOVERNANÇA TURÍSTICA
+P - P26. Aquisição de equipamentos para eficiência e sustentabilidade da Setur TO
+P - P27. Reforma da sede da Setur TO
+P - P28. Qualificação de Gestores públicos estaduais de turismo e áreas correlatas para a gestão do turismo
+sustentável e resiliência
+P - P29. Qualificação de Gestores públicos municipais de turismo e áreas correlatas para a gestão do turismo
+sustentável e resiliência
+P - P30. Sistema Inteligência e Monitoramento de Dados para a Gestão Sustentável do Turismo Estadual
+P - P31. Laboratório de Inovação da Gestão Pública em Turismo
+P - P32. Assessoria contínua das instâncias de governança turística estaduais, regionais e municipais
+C - C3: FORTALECER A SUSTENTABILIDADE DA AGRICULTURA DO TOCANTINS
+S - S.3.1: FORTALECIMENTO INSTITUCIONAL PARA IMPLEMENTAÇÃO DO CADASTRO AMBIENTAL RURAL
+E PROGRAMA DE REGULARIZAÇÃO AMBIENTAL
+P - P33. Diagnóstico dos sistemas de informação ambiental
+P - P34. Plataforma integrada de análise do CAR
+P - P 35.  Análise do Cadastro Ambiental Rural (CAR)
+P - P36. Renovação tecnológica para otimização do Centro de Inteligência Geográfica em Gestão do Meio
+Ambiente - CIGMA (incluindo sistemas de predição)
+S - S.3.2 RECUPERAÇÃO DE PASSIVOS AMBIENTAIS E RESTAURAÇÃO FLORESTAL
+P - P.37. Mapeamento de áreas degradadas e passivos ambientais
+P - P. 38. Elaboração do Plano Estadual de Restauração Florestal
+P - P.39. Programa Estadual de Restauração Florestal
+P - P. 40. Operacionalização do Programa Estadual de Pagamentos de Serviços Ambientais
+P - P. 41. Estruturação dos mecanismos de financiamento do FunClima
+S - S.3.3 DESENVOLVIMENTO DE PROJETO PILOTO DE RASTREABILIDADE DE PRODUTOS LIVRES DE
+DESMATAMENTO E DEGRADAÇÃO AMBIENTAL
+P - P.42. Diagnóstico das principais cadeias produtivas agropecuárias
+P - P.43. Apoio a certificação de integridade da produção
+P - P.44. Projetos pilotos de rastreabilidade implementados
+
+
+Página: 9
+
+Valor(US$)
+35.000.000,00
+
+31.500.000,00
+
+5.000.000,00
+
+3.000.000,00
+
+5.000.000,00
+2.000.000,00
+1.500.000,00
+
+3.500.000,00
+
+5.000.000,00
+
+1.500.000,00
+1.000.000,00
+
+1.000.000,00
+1.000.000,00
+1.500.000,00
+500.000,00
+3.500.000,00
+1.000.000,00
+2.500.000,00
+10.000.000,00
+2.950.000,00
+400.000,00
+400.000,00
+400.000,00
+600.000,00
+350.000,00
+400.000,00
+400.000,00
+4.200.000,00
+3.000.000,00
+400.000,00
+800.000,00
+2.850.000,00
+400.000,00
+550.000,00
+300.000,00
+
+300.000,00
+
+600.000,00
+400.000,00
+300.000,00
+35.000.000,00
+1.000.000,00
+
+50.000,00
+200.000,00
+250.000,00
+500.000,00
+
+5.000.000,00
+300.000,00
+500.000,00
+2.000.000,00
+2.000.000,00
+200.000,00
+2.000.000,00
+
+100.000,00
+200.000,00
+1.700.000,00
+
+
+S - S.3.4 DESENVOLVIMENTO DE NEGÓCIOS SUSTENTÁVEIS
+P - P45 Elaboração e implementacão de PPR
+P - P.46 Assistência Técnica: Capacitação para implementação das atividades
+S - S.3.5 INSERÇÃO DE MERCADO DOS PRODUTOS DA AGRICULTURA SUSTENTÁVEL
+P - P.47 Estudo de potenciais mercados locais, nacionais e globais para os produtos da agricultura sustentável
+P - P.48 Criação e/ou fortalecimento de redes produtivas e de mercado
+P - P49.  Implementação de iniciativas de produtores para obtenção de selos verdes ou de produção sustentável.
+S - S.3.6 DESENVOLVIMENTO DA PLATAFORMA DE BIOECONOMIA DO ESTADO DO TOCANTINS
+P - P.50 Diagnóstico das cadeias da bioeconomia do Estado do Tocantins
+P - P51.  Plano de Bioeconomia do Estado do Tocantins
+P - P52. Plataforma de negócios sustentáveis da bioeconomia
+P - P53. Mecanismos de financiamento da bioeconomia estruturados
+C - C4. INVESTIMENTOS PARA A INFRAESTRUTURA LOGÍSTICA HABILITANTE
+P - P54. Estudos de Engenharia e outros estudos realizados
+P - P55 Rodovia TO-335 reabilitada (30,68 km)
+P - P56. Rodovia TO-030 reabilitada (14,07 km)
+P - P57. Rodovia TO-222 reabilitada (13,38 km)
+C - C5. GESTÃO DO PROGRAMA
+P - P58. Unidade Executora do Programa
+P - P59. Monitoramento e Avaliação
+P - P60. Auditoria do Programa
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 10
+
+23.000.000,00
+13.000.000,00
+10.000.000,00
+1.500.000,00
+500.000,00
+500.000,00
+500.000,00
+2.500.000,00
+100.000,00
+200.000,00
+200.000,00
+2.000.000,00
+40.000.000,00
+2.000.000,00
+20.000.000,00
+10.000.000,00
+8.000.000,00
+5.000.000,00
+4.000.000,00
+500.000,00
+500.000,00
+125.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - ATRAÇÃO DE INVESTIMENTOS E PROMOÇÃO DE COMÉRCIO EXTERIOR PARA O DESENVOLVIMENTO ECONÔMICO
+SUSTENTÁVEL DO TOCANTINS
+C1. Atração de Investimentos e Promoção de Comércio Exterior para o Desenvolvimento Econômico Sustentável do Tocantins
+
+Consiste no desenvolvimento do planejamento estratégico e de marketing, e o plano de vendas nacional e internacional, e a
+criação da organização necessária, para atingir os objetivos de atração de investimentos, quantitativos e qualitativos, definidos
+para o Estado de Tocantins.  Os objetivos serão definidos em volume total de investimentos a atrair, número de projetos de
+investimento gerados, e lugares de trabalho criados, junto com o incremento no Indice de Desenvolvimento Humano (IDH), e o
+aumento do nível de qualidade de vida, com foco em desenvolvimento econômico sustentável.
+
+S - ATRAÇÃO DE INVESTIMENTOS E PROMOÇÃO DO COMÉRCIO EXTERIOR PARA OS SETORES ESTRATÉGICOS DA
+ECONOMIA DO TOCANTINS
+S.1.1.  Atração de Investimentos e promoção do comércio exterior para os setores estratégicas da economia do Tocantins
+
+Consiste no desenvolvimento e a implementação de um plano de marketing e vendas nacional e internacional para atrair empresas
+nos setores estratégicos para o Estado do Tocantins identificados no planejamento estratégico. A atração efetiva de investimentos,
+será realizada efetivamente por uma equipe multilíngue especializada, desde a promoção até o estabelecimento do investidor no
+Estado. Também se contemplarão a geração de reinvestimento, e ampliação de investimentos, no Estado das atuais empresas
+investidoras em estratégias de After-Care.
+
+P - P1. Desenho e estruturação organizacional da Agência de Atração de Investimentos e Promoção de Comércio
+Exterior do Estado de Tocantins (Investe TO)
+P1. Desenho e estruturação organizacional da Agência de Atração de Investimentos e Promoção de Comércio Exterior do Estado
+de Tocantins (Investe TO)
+
+Criação legal e formal, incluindo os desenhos organizacional e financeiro detalhados, da Agência de Atração de Investimentos e
+Promoção do Comércio Exterior do Estado de Tocantins.
+
+P - P2. Desenvolvimento de Planejamento Estratégico e de Estratégia de marketing e vendas para a atração de
+investimentos e promoção do comércio exterior do Estado de Tocantins
+P2. Desenvolvimento de Planejamento Estratégico e de Estratégia de marketing e vendas para a atração de investimentos e
+promoção do comércio exterior do Estado de Tocantins
+
+Desenvolvimento de plano estratégico e uma nova estratégia de marketing e vendas para promoção do Estado do Tocantins para
+atingir os objetivos de atração de investimento definidos e o desenvolvimento econômico sustentável do Estado.
+
+P - P3. Implementação da Janela única de Investimentos do Tocantins
+P3. Implementação da Janela única de Investimentos do Tocantins
+
+Criação da janela única de investimentos para interação entre os diferentes órgãos e entidades de governo e o setor privado,
+facilitando e reduzindo trâmites burocráticos e aumentando a transparência  e a previsibilidade dos processos a partir do
+mapeamento e redesenho dos processos dos diferentes órgãos e entidades da Administração.
+
+
+Página: 11
+
+P - P4. Desenvolvimento, Implementação e Fortalecimento da Marca Tocantins
+P4. Desenvolvimento, Implementação e Fortalecimento da Marca Tocantins
+
+Formulação e consolidação da estratégia de posicionamento de uma Marca do Estado de Tocantins, que impacte na imagem
+nacional e internacional e nos resultados de atração de investimentos.
+
+P - P5. Estruturação de apoio da Investe TO para os principais municípios e regiões econômicas do Tocantins
+P5. Estruturação de apoio da Investe TO para os principais municípios e regiões econômicas do Tocantins
+
+Extensão da capilaridade da Invest TO aos principais municípios do Estado para direcionar investimentos nacionais e
+internacionais às cadeias produtivas estratégicas, homogeneizando o discurso de vendas e a capacidade de atendimento a
+investidores a nível municipal.
+
+P - P6. Serviços de desenvolvimento empresarial para expansão comercial, nacional e internacional implementados
+P6. Serviços de desenvolvimento empresarial para expansão comercial, nacional e internacional implementados
+
+Criação e implementação de serviços de desenvolvimento empresarial para expansão comercial, nacional e internacional, com
+foco nas micro, pequenas e médias empresas instaladas no Estado do Tocantins.
+
+P - P7. Estruturação de plataforma para promoção de bens e serviços do Tocantins, feiras e rodadas de negócios
+P7. Estruturação de plataforma para promoção de bens e serviços do Tocantins, feiras e rodadas de negócios
+
+Estruturação de plataforma para promoção de bens e serviços do Tocantins, no âmbito do ConnectAmericas, de plataforma para
+promoção de bens e serviços do Tocantins, bem como organização de feiras e rodadas de negócios para promoção dos bens e
+serviços do Estado, e financiamento à participação de micro, pequenas e médias empresas do Tocantins em feiras e rodadas de
+negócio no Brasil e no Exterior.
+
+P - P8. Programa de apoio para as cadeias estratégicas estruturado e implementado
+P8. Programa de apoio para as cadeias estratégicas estruturado e implementado
+
+Consiste no desenvolvimento de mesas de trabalho público-privadas para a identificação dos gargalos no desenvolvimento das
+cadeias produtivas estratégicas, a definição de planos de ação, e na implementação desses planos de ação.
+
+P - P11. Quadro técnico e profissionais de pequenos negócios, negócios de impacto e agroindústrias das cadeias
+selecionadas qualificados
+P11. Quadro técnico e profissionais de pequenos negócios, negócios de impacto e agroindústrias das cadeias selecionadas
+qualificados
+
+Consiste no financiamento de capacitações, workshops, serviços de extensão, e outras atividades para fortalecer as capacidades
+dos professionais nas cadeias selecionadas.
+
+P - P12. Parque Tecnológico apoiado
+P12. Parque Tecnológico apoiado
+
+Consiste no financiamento de obras menores em apoio ao parque tecnológico para o estado de Tocantins.
+
+P - P13. Laboratórios de prova e infraestrutura de qualidade melhorados
+P13. Laboratórios de prova e infraestrutura de qualidade melhorados
+
+Consiste no financiamento de equipamentos, obras menores, serviços de manutenção, e assistência técnica para estabelecer e/ou
+fortalecer laboratórios de prova e outra infraestrutura de natureza de bem comum para fortalecer a competitividade das cadeias
+selecionadas.
+
+P - P14. Fundo de co-financiamento de projetos/modelos inovadores estruturado
+P14. Fundo de co-financiamento de projetos/modelos inovadores estruturado
+
+Consiste no estabelecimento e implementação de um fundo de co-financiamento (matching grant) de projetos e modelos
+inovadores.
+
+P - P15. Cultura de inovação e novos empreendimentos apoiado
+P15. Cultura de inovação e novos empreendimentos apoiado
+
+Consiste no apoio a incubadoras, aceleradoras, escritórios de transferência tecnológica, hubs de inovação e empreendedorismo,
+centros universitários de empreendedorismo e inovação, e outras instituições importantes ao desenvolvimento do ecossistema de
+inovação e empreendedorismo em Tocantins.
+
+S - S1.2. FORTALECIMENTO DAS CADEIAS PRODUTIVAS ESTRATÉGICAS
+S1.2. Fortalecimento das Cadeias Produtivas Estratégicas
+
+
+Página: 12
+
+P -        P9.  Empreendimentos e inovação das cadeias prioritárias financiadas
+P9.  Empreendimentos e inovação das cadeias prioritárias financiadas
+
+Consiste no financiamento de projetos inovadores nas cadeias prioritárias através de fundo de crédito com condições diferenciados
+para estes projetos.
+
+P - P10.  Fundo garantidor para inovações nas cadeias prioritárias estruturado
+P10.  Fundo garantidor para inovações nas cadeias prioritárias estruturado
+
+Consiste na constituição e implementação de um fundo garantidor para apoiar o financiamento de projetos inovadores nas cadeias
+prioritárias.
+
+C - C2. FORTALECIMENTO DO TURISMO SUSTENTÁVEL E INCLUSIVO
+C2. Fortalecimento do Turismo Sustentável e Inclusivo
+
+Inclui subcomponentes e produtos focalizados na provisão de instrumentos adequados e atualizados para o planejamento e gestão
+do turismo sustentável e inclusivo no Estado, bem como ações dirigidas à dinamização da cadeia produtiva setorial, em especial
+aquela relacionada a comunidades tradicionais.
+
+S - S2.1. INSTRUMENTOS DE GESTÃO SUSTENTÁVEL E RESILIENTE DO TURISMO
+S2.1. Instrumentos de Gestão Sustentável e Resiliente do Turismo
+
+Abarca a elaboração, atualização e/ou implementação de instrumentos que permitam o adequado planejamento e gestão do
+turismo sustentável no Estado, incluindo ferramentas específicas para a ação climática  e a modernização da gestão do uso público
+de áreas protegidas.
+
+P - P16. Plano Estratégico de Turismo Sustentável
+P16. Plano Estratégico de Turismo Sustentável
+
+Este plano servirá como um guia para o desenvolvimento do turismo no Tocantins, definindo estratégias de curto, médio e longo
+prazo para a sustentabilidade do setor, com horizonte de 10 anos. Será criado com base em diagnósticos participativos e estudos
+técnicos, considerando diferenças regionais e temas estratégicos, assegurando que o crescimento turístico esteja alinhado às
+melhores práticas de conservação ambiental e responsabilidade social.
+
+P - P17. Implantação de Instrumentos e ferramentas de apoio à implantação do Plano Estratégico de Turismo
+P17. Implantação de Instrumentos e ferramentas de apoio à implantação do Plano Estratégico de Turismo
+
+Inclui o desenvolvimento e a disponibilização de ferramentas tecnológicas, metodológicas e operacionais, como sistemas de
+monitoramento e avaliação de metas, softwares de gestão, capacitação de equipes, e a criação de protocolos e diretrizes para
+facilitar a execução das ações planejadas. O projeto visa otimizar o processo de gestão turística, garantir o cumprimento dos
+objetivos estratégicos, promover o desenvolvimento sustentável do turismo e aprimorar a coordenação entre as diferentes áreas
+envolvidas no setor turístico.
+
+P - P18. Plano de gestão de riscos inerentes e vulnerabilidades do turismo às mudanças climáticas
+P18. Plano de gestão de riscos inerentes e vulnerabilidades do turismo às mudanças climáticas
+
+Prevê a identificação dos riscos específicos enfrentados pelos destinos turísticos do Estado e a proposição de medidas para
+diminuir a vulnerabilidade do setor, tornando-o mais resiliente a eventos climáticos extremos. Seu conteúdo deve embasar o Plano
+Estratégico de Turismo Sustentável, que envolve outros componentes em sua análise.
+
+P - P19. Implementação de ações de gestão de riscos e de resiliência climática
+P19. Implementação de ações de gestão de riscos e de resiliência climática
+
+Visa a implementação de obras de ordenamento e resiliência climática em áreas turísticas e ambientais frágeis, com o objetivo de
+promover a sustentabilidade e a proteção desses territórios contra os impactos das mudanças climáticas e do turismo desordenado
+. As intervenções serão focadas em melhorar a infraestrutura, reduzir os riscos ambientais e garantir o uso consciente e seguro dos
+recursos naturais, sem comprometer a biodiversidade local. Exemplos são a construção de infraestruturas de proteção como
+sistemas de drenagem e canais para controle de enchentes em áreas vulneráveis à erosão e inundações; aprimoramento de trilhas
+ecológicas e infraestrutura de visitação em áreas naturais, garantindo acessos seguros e controlados para minimizar o impacto
+ambiental; instalação de sensores e ferramentas tecnológicas para monitoramento das condições climáticas e dos impactos
+ambientais, facilitando respostas rápidas a eventos extremos; reflorestamento e recuperação de ecossistemas que foram
+impactados por ações antrópicas ou condições climáticas adversas.
+
+P - P20. Modelagem de gestão de áreas e atrativos turísticos de titularidade pública
+P20. Modelagem de gestão de áreas e atrativos turísticos de titularidade pública
+
+
+Página: 13
+
+Objetiva desenvolver modelos eficientes de gestão para áreas e atrativos turísticos localizados em zonas de proteção ambiental,
+visando equilibrar a conservação do meio ambiente com a atividade turística. Através de estudos detalhados, serão identificadas
+práticas sustentáveis de manejo e uso público, com foco em minimizar o impacto ambiental, aumentar a segurança dos visitantes e
+promover a sustentabilidade econômica. Exemplos incluem a criação de planos de visitação controlada, definição de capacidade
+de carga, implementação de sistemas de gestão de segurança (SGS) e propostas de parcerias público-privadas para a
+manutenção e operação dos atrativos.
+
+P - P21. Implantação de sistema de monitoramento da visitação nos atrativos turísticos de titularidade pública
+P21. Implantação de sistema de monitoramento da visitação nos atrativos turísticos de titularidade pública
+
+Implantar processo de acompanhamento sistemático e regular dos efeitos que a atividade turística causa. Envolve a coleta de
+dados sobre variáveis como fluxo de visitantes, capacidade de carga dos atrativos turísticos, uso de recursos naturais, qualidade
+ambiental, economia local, satisfação da população local e satisfação dos turistas. O objetivo é avaliar o desempenho das práticas
+sustentáveis implementadas, identificar problemas emergentes e ajustar estratégias de gestão para garantir um turismo
+responsável e sustentável ao longo do tempo, especialmente em atrativos localizados no entorno de áreas protegidas ou áreas
+frágeis do ponto de vista ambiental, cultural e social
+
+P - P22. Certificação de destinos e atrativos turísticos sustentáveis
+P22. Certificação de destinos e atrativos turísticos sustentáveis
+
+Para incentivar a adoção de práticas sustentáveis, este projeto busca certificar destinos e atrativos turísticos que se destacam por
+sua responsabilidade ambiental, social e cultural. A certificação garantirá que os atrativos sigam padrões elevados de
+sustentabilidade, o que também servirá como um diferencial competitivo no mercado turístico.
+
+S - S2.2 APOIO À CADEIA PRODUTIVA DO TURISMO SUSTENTÁVEL E INCLUSIVO
+
+S2.2 Apoio à Cadeia Produtiva do Turismo Sustentável e Inclusivo
+
+Inclui ações dirigidas ao aumento da competitividade turística dos destinos nos Polos focalizados, abarcando tanto o desenho
+como a implementação de ações de apoio a empreendedores do setor, bem como  promoção e comercialização turística.
+
+P - P23. Fundo de financiamento para nano e pequenos empreendimentos geridos pela comunidade local
+P23. Fundo de financiamento para nano e pequenos empreendimentos geridos pela comunidade local
+
+Apoiar pequenos negócios turísticos, prioritariamente aqueles que envolvam comunidades quilombolas e povos indígenas, com a
+modernização de suas infraestruturas e a aquisição de equipamentos essenciais para melhorar a qualidade dos serviços
+oferecidos, aumentar a eficiência operacional e promover a sustentabilidade econômica. Isso inclui reformas em instalações,
+compra de ferramentas e tecnologia, implantação de sistemas de gestão de segurança, sistemas de monitoramento da visitação, e
+planos de visitação permitindo que esses negócios ampliem sua capacidade de atendimento e aprimorem a experiência do turista,
+ao mesmo tempo que fortalecem a participação econômica das comunidades locais no turismo, garantam mais segurança,
+comodidade e gestão de impactos.
+
+P - P24. Plano de Marketing Turístico Estadual
+P24. Plano de Marketing Turístico Estadual
+
+Instrumento com o objetivo de estabelecer estratégias de marketing e promoção turística focadas em mercados geográficos
+prioritários, com projetos focados em fortalecer mídias digitais, campanhas e produção de conteúdo e materiais que reflitam as
+vocações do Estado, focando em produtos e experiências responsáveis e sustentáveis e que convidem os turistas a adotarem
+práticas responsáveis.
+
+P - P25. Implantação de Estratégias de apoio à comercialização e promoção
+P25. Implantação de Estratégias de apoio à comercialização e promoção
+
+Objetiva implantar os projetos e ações prioritárias definidas no plano de marketing como ações de marketing digital, parcerias com
+operadores de turismo, participação em feiras e eventos, a criação de plataformas digitais para comercialização, campanhas
+promocionais direcionadas, capacitação para os empresários em vendas e marketing, e a criação de redes de cooperação entre
+destinos e empresas do setor.
+
+S - S2.3 MODERNIZAÇÃO DA GOVERNANÇA TURÍSTICA
+
+S2.3 Modernização da Governança Turística
+
+Consiste em investimentos dirigidos a prover a Secretaria Estadual de Turismo de estrutura adequada para o desenvolvimento de
+suas atividades, incluindo a aquisição de equipamentos e obras, e a capacitação e qualificação de equipes técnicas.
+
+P - P26. Aquisição de equipamentos para eficiência e sustentabilidade da Setur TO
+P26. Aquisição de equipamentos para eficiência e sustentabilidade da Setur TO
+
+
+Página: 14
+
+Objetiva modernizar e aprimorar a infraestrutura da Secretaria Estadual de Turismo do Tocantins, através da aquisição de
+equipamentos que aumentem a eficiência operacional e promovam práticas sustentáveis, como computadores, sistemas de gestão
+, veículos 4x4 para operações em campo, equipamentos audiovisuais e ferramentas tecnológicas para análise de dados,
+permitindo a realização de atividades de forma mais eficiente.
+
+P - P27. Reforma da sede da Setur TO
+P27. Reforma da sede da Setur TO
+
+Objetiva revitalizar e modernizar a infraestrutura física da Secretaria Estadual de Turismo do Tocantins, garantindo um ambiente de
+trabalho seguro, funcional e adequado às necessidades atuais da equipe, de modo que possam executar suas funções de forma
+mais eficiente, alinhada às exigências do turismo moderno e sustentável. Incluem melhorias na rede elétrica, que atualmente
+representa um risco para o funcionamento e segurança do prédio, além de reparos estruturais, como renovação de pintura,
+manutenção de banheiros e reorganização dos espaços para otimizar a acomodação da equipe e as atividades internas.
+
+P - P28. Qualificação de Gestores públicos estaduais de turismo e áreas correlatas para a gestão do turismo
+sustentável e resiliência
+P28. Qualificação de Gestores públicos estaduais de turismo e áreas correlatas para a gestão do turismo sustentável e resiliência
+
+Objetiva qualificar e aprimorar as habilidades de gestores públicos que atuam no turismo e em áreas relacionadas em nível
+estadual, para garantir uma gestão mais eficiente e alinhada com as melhores práticas do setor, através de programas de
+capacitação, treinamentos e workshops, como foco em temáticas como planejamento estratégico, gestão sustentável e agenda
+2030, gestão regionalizada, marketing turístico, inovação, captação de recursos e gestão de crises.
+
+P - P29. Qualificação de Gestores públicos municipais de turismo e áreas correlatas para a gestão do turismo
+sustentável e resiliência
+P29. Qualificação de Gestores públicos municipais de turismo e áreas correlatas para a gestão do turismo sustentável e resiliência
+
+Objetiva qualificar e aprimorar as habilidades de gestores públicos que atuam no turismo e em áreas relacionadas em nível
+municipal, para garantir uma gestão mais eficiente e alinhada com as melhores práticas do setor, através de programas de
+capacitação, treinamentos e workshops, como foco em temáticas como como planejamento estratégico, gestão sustentável e
+agenda 2030, conselho municipal de turismo, captação de recursos, gestão de dados, gestão de crises, entre outros.
+
+P - P30. Sistema Inteligência e Monitoramento de Dados para a Gestão Sustentável do Turismo Estadual
+P30. Sistema Inteligência e Monitoramento de Dados para a Gestão Sustentável do Turismo Estadual
+
+Visa implementar um sistema de inteligência e monitoramento de dados, a partir do Observatório de Turismo do Estado ? o
+ampliando e o modernizando - para apoiar a tomada de decisões estratégicas no turismo. O sistema fornecerá informações em
+tempo real sobre o fluxo de visitantes, perfil e percepções, distribuições da oferta turística e zonas turísticas no estado, impactos
+econômicos e ambientais, e ajudará na gestão sustentável dos destinos.
+
+P - P31. Laboratório de Inovação da Gestão Pública em Turismo
+P31. Laboratório de Inovação da Gestão Pública em Turismo
+
+O laboratório de inovação tem como objetivo desenvolver soluções criativas para os desafios da gestão pública do turismo. Ele
+funcionará como espaços colaborativos onde agentes públicos, privados e comunidade local poderão trabalhar juntos para
+encontrar novas abordagens e práticas inovadoras para o desenvolvimento turístico.
+
+P - P32. Assessoria contínua das instâncias de governança turística estaduais, regionais e municipais
+P32. Assessoria contínua das instâncias de governança turística estaduais, regionais e municipais
+
+Este produto fornecerá assessoria técnica contínua para as instâncias de governança em todos os níveis, garantindo que as
+políticas e estratégias de turismo sejam implementadas de forma eficaz e em consonância com os princípios da sustentabilidade e
+da inovação.
+
+C - C3: FORTALECER A SUSTENTABILIDADE DA AGRICULTURA DO TOCANTINS
+C3: Fortalecer a sustentabilidade da agricultura do Tocantins
+
+Este componente tem por objetivo fortalecer a sustentabilidade da agricultura do Tocantins, aumentando a produtividade e a
+resiliência das pequenas e médias propriedades rurais. Para tanto, enfocará i) no fortalecimento institucional para melhorias no
+Cadastro Ambiental Rural (CAR) e do Programa de Regularização Ambiental (PRA); ii) implementacão de Planos de Producão
+Resiliente com foco na recuperação de pastagens degradadas, no apoio à adocão de tecnologias de baixas emissões de carbono
+e de adaptacão às mudancas climáticas, a restauração florestal; iii) na criação de projetos piloto para rastreabilidade de produtos
+livres de desmatamento;  iv) em novos modelos de negócios sustentáveis conectados a mercados locais e globais; e v) em
+estruturação e financiamento do ecossistema de negócios em bioeconomia.
+
+S - S.3.1: FORTALECIMENTO INSTITUCIONAL PARA IMPLEMENTAÇÃO DO CADASTRO AMBIENTAL RURAL E
+PROGRAMA DE REGULARIZAÇÃO AMBIENTAL
+S.3.1: Fortalecimento institucional para implementação do Cadastro Ambiental Rural e Programa de Regularização Ambiental
+
+
+Página: 15
+
+Este subcomponente visa fortalecer a capacidade institucional para analisar o Cadastro Ambiental Rural (CAR) e o Programa de
+Regularização Ambiental (PRA). O objetivo é fortalecer a tomada de decisão integrada para promover a restauração ambiental e o
+fortalecimento da agricultura familiar simultaneamente. O subcomponente também inclui a melhoria da capacidade de análise e
+planejamento para os impactos das mudanças climática a partir de sistemas de predição.
+
+P - P33. Diagnóstico dos sistemas de informação ambiental
+P33. Diagnóstico dos sistemas de informação ambiental
+
+O diagnóstico dos sistemas de informação ambiental oferecerá uma melhoria nos processos de coleta, análise e gestão de dados
+ambientais melhorando a tomada de decisão integrada. Objetiva aumentar a eficiência na gestão dos recursos naturais e apoiar a
+implementação de práticas sustentáveis, como as tecnologias da agricultura ABC+, além de promover a integração entre os
+sistemas da SEMARH e da SEAGRO.
+
+P - P34. Plataforma integrada de análise do CAR
+P34. Plataforma integrada de análise do CAR
+
+A criação de uma plataforma integrada de análise do Cadastro Ambiental Rural (CAR) permitirá o processamento e a visualização
+de dados de forma eficiente, facilitando a regularização ambiental das propriedades rurais. A plataforma integrará informações
+relevantes para o monitoramento das práticas agrícolas e ambientais, atuando sobre inconsistências e sobreposições. Isso
+proporcionará uma gestão mais ágil e estratégica das áreas rurais, promovendo a sustentabilidade e a conformidade com as
+exigências ambientais.
+
+P - P 35.  Análise do Cadastro Ambiental Rural (CAR)
+P 35.  Análise do Cadastro Ambiental Rural (CAR)
+
+Envolve a análise dos CARs, inclusive por meio de ferramentas de inteligência artificial, com o objetivo de identificar e corrigir
+inconsistências e sobreposições, garantindo maior precisão nas informações sobre as propriedades rurais. Isso permitirá ações
+para promover a regularização ambiental, contribuindo para uma gestão ambiental mais eficiente e sustentável no Tocantins.
+
+P - P36. Renovação tecnológica para otimização do Centro de Inteligência Geográfica em Gestão do Meio Ambiente -
+CIGMA (incluindo sistemas de predição)
+P36. Renovação tecnológica para otimização do Centro de Inteligência Geográfica em Gestão do Meio Ambiente - CIGMA (
+incluindo sistemas de predição)
+
+Este produto trata da modernização do CIGMA, incorporando novas tecnologias e sistemas preditivos para aprimorar a capacidade
+de monitoramento e gestão ambiental. A renovação tecnológica também permitirá prever riscos ambientais e climáticos, tomar
+ações proativas de proteção, resposta e recuperação.
+
+S - S.3.2 RECUPERAÇÃO DE PASSIVOS AMBIENTAIS E RESTAURAÇÃO FLORESTAL
+S.3.2 Recuperação de passivos ambientais e restauração florestal
+
+Este subcomponente prevê o mapeamento de áreas degradadas e passivos ambientais, visando identificar as regiões prioritárias
+para intervenção. Com base nesse diagnóstico, será elaborado o Plano Estadual de Restauração Florestal, que guiará a execução
+do Programa Estadual de Restauração Florestal. Paralelamente, o Programa Estadual de Pagamentos por Serviços Ambientais
+será implementado para incentivar práticas sustentáveis, enquanto os mecanismos de financiamento, estruturados pelo FunClima,
+assegurarão a viabilidade econômica das iniciativas de restauração.
+
+P - P.37. Mapeamento de áreas degradadas e passivos ambientais
+P.37. Mapeamento de áreas degradadas e passivos ambientais
+
+Este produto fará um levantamento detalhado de áreas degradadas e de passivos ambientais em todo o estado. Com base nas
+informações coletadas, serão identificadas as regiões prioritárias para intervenção, facilitando o planejamento e a implementação
+de ações de restauração ambiental.
+
+P - P. 38. Elaboração do Plano Estadual de Restauração Florestal
+P. 38. Elaboração do Plano Estadual de Restauração Florestal
+
+Este produto visa desenvolver o Plano Estadual de Restauração Florestal, que fornecerá diretrizes para a recuperação de
+ecossistemas degradados, promovendo a restauração de florestas nativas e outras áreas prioritárias.
+
+P - P.39. Programa Estadual de Restauração Florestal
+P.39. Programa Estadual de Restauração Florestal
+
+O Programa Estadual de Restauração Florestal será a principal ferramenta de execução das atividades de recuperação das áreas
+identificadas no plano de restauração. O programa incluirá medidas para restauração da vegetação nativa de Áreas de Reserva
+Legal ou Áreas de Preservação Permanente (APP) nas propriedades que tenham passivos identificados no CAR. O programa
+também incluirá a mobilização de recursos e parcerias para garantir sua viabilidade e impacto
+
+
+Página: 16
+
+P - P. 40. Operacionalização do Programa Estadual de Pagamentos de Serviços Ambientais
+P. 40. Operacionalização do Programa Estadual de Pagamentos de Serviços Ambientais
+
+Este produto conduzirá a elaboração de estudos metodológicos para valoração dos serviços ambientais e definição de critérios de
+elegibilidade, além do mapeamento e registro de beneficiários via CAR e auditorias de certificação. O programa define mecanismos
+de pagamento, e poderá usar o FunClima como fonte de financiamento. O monitoramento contínuo dos impactos e relatórios
+periódicos garantem o cumprimento das metas ambientais.
+
+P - P. 41. Estruturação dos mecanismos de financiamento do FunClima
+P. 41. Estruturação dos mecanismos de financiamento do FunClima
+
+Envolve a criação de estratégias e instrumentos financeiros sustentáveis para garantir o financiamento de longo prazo dos projetos
+de conservação e restauração ambiental no Tocantins, através da captação de recursos públicos e privados, além de estabelecer
+parcerias com instituições financeiras e ambientais para viabilizar os projetos.
+
+S - S.3.3 DESENVOLVIMENTO DE PROJETO PILOTO DE RASTREABILIDADE DE PRODUTOS LIVRES DE
+DESMATAMENTO E DEGRADAÇÃO AMBIENTAL
+S.3.3 Desenvolvimento de Projeto Piloto de Rastreabilidade de produtos livres de desmatamento e degradação ambiental
+
+Este subcomponente desenvolverá um projeto piloto para sistemas de rastreabilidade de produtos agropecuários garantindo que
+sejam livres de desmatamento e degradação ambiental. Ele visa alinhar a produção rural a práticas sustentáveis, apoiando a
+recuperação de áreas degradadas e facilitando o acesso a mercados como o europeu, que exige conformidade com o
+Regulamento da União Europeia para Produtos Livres de Desmatamento (EUDR).
+
+P - P.42. Diagnóstico das principais cadeias produtivas agropecuárias
+P.42. Diagnóstico das principais cadeias produtivas agropecuárias
+
+Este produto realizará uma análise das principais cadeias produtivas agropecuárias no estado, com o objetivo de identificar
+gargalos e oportunidades em relação à sustentabilidade, eficiência produtiva e rastreabilidade. A avaliação abrangerá aspectos
+ambientais, econômicos e sociais, proporcionando uma base sólida para o desenvolvimento de práticas mais sustentáveis nas
+cadeias de valor selecionadas.
+
+P - P.43. Apoio a certificação de integridade da produção
+P.43. Apoio a certificação de integridade da produção
+
+Esse produto apoiará produtores a obter um sistema de certificação para garantir a integridade da produção agropecuária,
+assegurando a sustentabilidade da produção e que os produtos sejam livres de desmatamento. A certificação reforçará a
+conformidade com padrões ambientais e sociais exigidos por mercados internacionais, fortalecendo a competitividade e a
+sustentabilidade das cadeias produtivas.
+
+P - P.44. Projetos pilotos de rastreabilidade implementados
+P.44. Projetos pilotos de rastreabilidade implementados
+
+Este produto implementará projetos pilotos, em propriedades já certificadas, para monitorar e rastrear produtos agropecuários ao
+longo de toda a cadeia produtiva, garantindo a transparência sobre a origem dos produtos e o cumprimento de padrões ambientais.
+
+S - S.3.4 DESENVOLVIMENTO DE NEGÓCIOS SUSTENTÁVEIS
+S.3.4 Desenvolvimento de Negócios Sustentáveis
+
+Este subcomponente financiará a preparação e implementação de Planos de Producão Resiliente (PPR) para pequenos e médios
+produtores rurais e comunidades tradicionais, com foco na geracão de renda, o aumento da produtividade, da resiliencia e da
+sustentabilidade da producão. Além disso, o subcomponente financiará a contratacão de servicos de assistência técnica e
+extensão rural (ATER) para apoiar aos beneficiários na preparacão e execucão dos PPR.  Os PPR também apoiarão o
+fortalecimento das capacidades das organizacões em aspectos de gestão e comercializacão, e poderão financiar pequenos
+investimentos (principalmente equipamentos) necessários para agregar valor e melhorar a comercializacão de produtos.
+
+P - P45 Elaboração e implementacão de PPR
+P45 Elaboração e implementacão de PPR
+
+Para cada organização selecionada, será desenvolvido um diagnóstico participativo em nível organizacional e de produtor e
+elaborado um PPR. O foco dos PPR será em: (i) recuperacão de pastagens degradadas, de acordo com sua situacão específica; (ii
+) adocão de práticas de baixo carbono, tais como a implantacão de sistemas agroflorestais (SAF) e de integracão lavoura-pecuária-
+floresta (ILPF), assim como tecnologias de adaptacão às mudancas climáticas, tais como pequenos sistemas de irrigacão e de
+conservacão de forragens; e (iii) implantacão ou melhoria na producão de produtos da bioeconomia.
+
+
+Página: 17
+
+O projeto cofinanciará em forma não reembolsável os investimentos incluidos nos PPR, os quais serão implementados com
+acompanhamento dos servicos de ATER.  Os beneficiários contribuirão com um minimo percentual do custo dos planos a ser
+definido no momento da preparação do projeto, para que seja garantido o seu compromisso com as metas/resultados propostos.
+
+P - P.46 Assistência Técnica: Capacitação para implementação das atividades
+P.46 Assistência Técnica: Capacitação para implementação das atividades
+
+Este produto consistirá na contratacão de servicos de ATER, que participarão na selecão das comunidades e serão responsáveis
+por apoiar aos beneficiários na elaboracão de diagnósticos participativos, na preparacão dos PPR e em sua implementacão.  Os
+servicos de ATER terão foco tanto na producão resiliente, como nos aspectos de organizacão, gestão e comercializacão.  Assim
+mesmo, promoverão a a participacão de mulheres e jovens, procurando identificar iniciativas de PPR que sejam de seu interesse e
+promovendo sua participacão em todas as etapas da preparacão e implementacão dos PPR.
+
+S - S.3.5 INSERÇÃO DE MERCADO DOS PRODUTOS DA AGRICULTURA SUSTENTÁVEL
+S.3.5 Inserção de mercado dos produtos da agricultura sustentável
+
+Este subcomponente promoverá a demanda e o acesso ao mercado para os produtos das cadeias de valor priorizadas, incluindo
+as identificadas pelo componente de bioeconomia. Financiamentos serão direcionados para estudos que melhorem a compreensão
+dos mercados atuais e potenciais, tanto a nível nacional quanto internacional, campanhas para aumentar a conscientização dos
+consumidores e a demanda por produtos sustentáveis e da bioeconomia, estudos para identificar potenciais incentivos financeiros
+e fiscais, comercialização de produtos de agricultura pelo governo, e conexões entre organizações para aumentar o poder de
+negociação. Além disso, poderão ser financiados os estudos necessários e a implementacão de propostas para certificacão
+orgânica, agroecológica ou outras, que contribuam a valorizar os produtos e acessar mercados. O projeto buscará oportunidades
+de coordenação com outras iniciativas a nível local.
+
+P - P.47 Estudo de potenciais mercados locais, nacionais e globais para os produtos da agricultura sustentável
+P.47 Estudo de potenciais mercados locais, nacionais e globais para os produtos da agricultura sustentável
+
+Este estudo considerará dados sobre preços, produtos, fluxos, mercados atuais, oportunidades e gargalos. Também incluirá a
+identificação de novos produtos e mercados, processos de certificação, qualificação, questões legais e sanitárias, agregação de
+valor e manufatura de produtos e processos. Isso contribuirá para o estabelecimento de estratégias fortes de acesso ao mercado
+para cada cadeia de valor priorizada no projeto e apoiará o desenvolvimento dos Planos de Negócios  Produtivos (PNPs) para
+definir investimentos e assistência técnica adequados.
+
+P - P.48 Criação e/ou fortalecimento de redes produtivas e de mercado
+P.48 Criação e/ou fortalecimento de redes produtivas e de mercado
+
+Serão promovidas conexões colaborativas entre os atores das cadeias produtivas, com intercâmbio de conhecimento, parcerias e
+acordos comerciais. Campanhas de marketing e certificação com foco na bioeconomia e na produção sustentável, incluindo
+produtos de grupos tradicionais. Serão desenvolvidos mecanismos de certificação para práticas sustentáveis, além da identificação
+de incentivos financeiros e fiscais, visando fortalecer o poder de negociação das organizações.
+
+P - P49.  Implementação de iniciativas de produtores para obtenção de selos verdes ou de produção sustentável.
+P49.  Implementação de iniciativas de produtores para obtenção de selos verdes ou de produção sustentável.
+
+Financiará iniciativas de produtores para acessar certificações da produção, tais como produção orgânica, agroecológica, ou carne
+carbono zero, que ajudem a agregar valor e facilitar o acesso a mercados. Incluirá a contratação de consultorias especializadas
+que sejam necessárias para definir os ajustes na tecnologia de produção, assim como a organização dos sistemas de informação e
+outros requerimentos das certificações e o custo da certificação.
+
+S - S.3.6 DESENVOLVIMENTO DA PLATAFORMA DE BIOECONOMIA DO ESTADO DO TOCANTINS
+S.3.6 Desenvolvimento da plataforma de Bioeconomia do Estado do Tocantins
+
+O objetivo a longo prazo do subcomponente é fortalecer as atividades e negócios ligados a bioeconomia no Estado do Tocantins.
+Para isso, financiará diagnósticos, planos estudos e pesquisas para construir os instrumentos e conhecimento básicos para o
+desenvolvimento da bioeconomia.
+
+P - P.50 Diagnóstico das cadeias da bioeconomia do Estado do Tocantins
+P.50 Diagnóstico das cadeias da bioeconomia do Estado do Tocantins
+
+O produto identificará os principais produtos da bioeconomia dos biomas Cerrado e Amazônia e os desafios e oportunidades em
+seus processos produtivos, de transformação e inserção em mercados. O diagnóstico também identificará os modelos e práticas
+de produção sustentáveis para cada um dos biomas do Estado.
+
+P - P51.  Plano de Bioeconomia do Estado do Tocantins
+P51.  Plano de Bioeconomia do Estado do Tocantins
+
+O plano de bioeconomia apontará os objetivos, diretrizes e ações concretas para expansão das modelos produtivos sustentáveis,
+que valorizem os recursos naturais, a floresta em pé e a sociobiodiversidade do Estado do Tocantins.
+
+
+Página: 18
+
+P - P52. Plataforma de negócios sustentáveis da bioeconomia
+P52. Plataforma de negócios sustentáveis da bioeconomia
+
+A plataforma será um ambiente de pesquisa, desenvolvimento e inovação sediada no Parque Tecnológico. buscará conectar
+produtores, empreendedores e pesquisadores para fomentar a inovação, criação de novos produtos e modelos de negócio para os
+produtos da bioeconomia. A plataforma também funcionará como uma incubadora de novos negócios.
+
+P - P53. Mecanismos de financiamento da bioeconomia estruturados
+P53. Mecanismos de financiamento da bioeconomia estruturados
+
+Desenvolvimento de mecanismos de financiamento que incentivem e fomentem a bioeconomia e promovam parcerias público-
+privadas. Esses mecanismos poderão incluir linhas de crédito e estruturação de fundos para apoiar o crescimento de negócios
+sustentáveis e a inovação nas cadeias produtivas da bioeconomia.
+
+C - C4. INVESTIMENTOS PARA A INFRAESTRUTURA LOGÍSTICA HABILITANTE
+C4. Investimentos para a infraestrutura logística habilitante
+
+O Componente financiará a reabilitação e a duplicação de trechos rodoviários (corredores logísticos), tais como TO-335, TO-030 e
+TO-222. Também financiará os estudos de engenharia e outros estudos necessários para a adequada execução das iniciativas.
+
+P - P54. Estudos de Engenharia e outros estudos realizados
+P54. Estudos de Engenharia e outros estudos realizados
+
+(i) Atualização de estudos técnicos, geotécnicos, projetos de engenharia e segurança rodoviária das obras do Programa, incluindo
+estudos econômicos e socioambientais, e considerando estudos e análises de vulnerabilidade e especificações técnicas para
+mitigação de riscos climáticos e fortalecimento da resiliência das obras, e invenário das famílias classificadas pela SEAGRO na
+categoria de agricultura familiar na área de influência das rodovias melhoradas; (ii) Campanhas de segurança rodoviária para
+usuários e beneficiários das rodovias, e controle de acidentes (Saúde e segurança no trabalho SST) nas obras do programa; e (iii)
+implementação de soluções da metodologia International Road Assessment Programme (iRAP) nos corredores logísticos
+estratégicos do Estado, e treinamento iRAP aos funcionários técnicos da AGETO,
+
+P - P55 Rodovia TO-335 reabilitada (30,68 km)
+P55 Rodovia TO-335 reabilitada (30,68 km)
+
+Melhorar aproximadamente 30,68 km da rodovia TO-335, no trecho Colinas ? Acesso Pátio Ferrovia, chave de ligação da rodovia
+federal BR-153 com o Terminal Ferroviário. Na TO-335 transitam as cargas que seguem para o Pará ou que vão para a ferrovia em
+Palmeirante.
+
+P - P56. Rodovia TO-030 reabilitada (14,07 km)
+P56. Rodovia TO-030 reabilitada (14,07 km)
+
+Reabilitar, e duplicar caso necessário,  aproximadamente 30,68 km da rodovia TO-335, no trecho Colinas/ Acesso Pátio Ferrovia,
+chave de ligação da rodovia federal BR-153 com o Terminal Ferroviário. Na TO-335 transitam as cargas que seguem para o Pará
+ou que vão para a ferrovia em Palmeirante.
+
+P - P57. Rodovia TO-222 reabilitada (13,38 km)
+P57. Rodovia TO-222 reabilitada (13,38 km)
+
+Reabilitar, e duplicar caso necessário, aproximadamente 13,38 km da rodovia TO-222 no trecho Araguaína / Novo Horizonte,
+região muito ativa pela presença de diversas universidades e polos de educação e cultura, e forte na produção de grãos e criação
+de gado de corte.
+
+C - C5. GESTÃO DO PROGRAMA
+C5. Gestão do Programa
+
+P - P58. Unidade Executora do Programa
+P58. Unidade Executora do Programa
+
+Financiamento da estrutura de suporte à implementação do projeto com o BID na unidade gestora; estão incluídas as despesas
+com: Consultorias Individuais à UGP; treinamentos; aquisição de materiais, equipamentos, veículos e mobiliário; diárias e
+passagens aéreas; inscrição em cursos, palestras e seminários; contratação de tradução juramentada e auditoria externa;
+realização de seminários e palestras com fornecimento de coffee break, serviços de organização e ornamentação, locações,
+alimentação, criação de layouts, serviços de buffet, contratação de palestrantes; realização de vistorias técnicas; publicações
+oficiais em imprensa de circulação nacional.
+
+P - P59. Monitoramento e Avaliação
+P59. Monitoramento e Avaliação
+
+
+Página: 19
+
+Custos para realização da avaliação de meio-termo e avaliação final do programa, e melhoramento de sistemas para
+monitoramento e avaliação do Programa.
+
+P - P60. Auditoria do Programa
+P60. Auditoria do Programa
+
+Custos relacionados com a auditoria do Programa.
+
+
+Página: 20
+
+Categoria de Gasto
+
+Outros
+P- P1. Desenho e estruturação organizacional da
+Agência de Atração de Investimentos e Promoção
+de Comércio Exterior do Estado de Tocantins (
+Investe TO)
+P- P2. Desenvolvimento de Planejamento
+Estratégico e de Estratégia de marketing e vendas
+para a atração de investimentos e promoção do
+comércio exterior do Estado de Tocantins
+P- P3. Implementação da Janela única de
+Investimentos do Tocantins
+P- P4. Desenvolvimento, Implementação e
+Fortalecimento da Marca Tocantins
+P- P5. Estruturação de apoio da Investe TO para
+os principais municípios e regiões econômicas do
+Tocantins
+P- P6. Serviços de desenvolvimento empresarial
+para expansão comercial, nacional e internacional
+implementados
+P- P7. Estruturação de plataforma para promoção
+de bens e serviços do Tocantins, feiras e rodadas
+de negócios
+P- P8. Programa de apoio para as cadeias
+estratégicas estruturado e implementado
+P- P11. Quadro técnico e profissionais de
+pequenos negócios, negócios de impacto e
+agroindústrias das cadeias selecionadas
+qualificados
+P- P12. Parque Tecnológico apoiado
+P- P13. Laboratórios de prova e infraestrutura de
+qualidade melhorados
+P- P14. Fundo de co-financiamento de projetos/
+modelos inovadores estruturado
+P- P15. Cultura de inovação e novos
+empreendimentos apoiado
+P-        P9.  Empreendimentos e inovação das
+cadeias prioritárias financiadas
+P- P10.  Fundo garantidor para inovações nas
+cadeias prioritárias estruturado
+P- P16. Plano Estratégico de Turismo Sustentável
+
+P- P17. Implantação de Instrumentos e
+ferramentas de apoio à implantação do Plano
+Estratégico de Turismo
+P- P18. Plano de gestão de riscos inerentes e
+vulnerabilidades do turismo às mudanças
+climáticas
+P- P19. Implementação de ações de gestão de
+riscos e de resiliência climática
+P- P20. Modelagem de gestão de áreas e
+atrativos turísticos de titularidade pública
+P- P21. Implantação de sistema de
+monitoramento da visitação nos atrativos turísticos
+de titularidade pública
+P- P22. Certificação de destinos e atrativos
+turísticos sustentáveis
+P- P23. Fundo de financiamento para nano e
+pequenos empreendimentos geridos pela
+comunidade local
+P- P24. Plano de Marketing Turístico Estadual
+P- P25. Implantação de Estratégias de apoio à
+comercialização e promoção
+P- P26. Aquisição de equipamentos para
+eficiência e sustentabilidade da Setur TO
+P- P27. Reforma da sede da Setur TO
+P- P28. Qualificação de Gestores públicos
+estaduais de turismo e áreas correlatas para a
+gestão do turismo sustentável e resiliência
+
+Unidade de medida
+-
+US$
+
+Meta
+
+Valor
+
+% Financeiro
+
+-
+0,00
+
+125.000.000,00
+5.000.000,00
+
+100,00
+4,00
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+US$
+
+US$
+
+US$
+US$
+
+0,00
+
+3.000.000,00
+
+2,40
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+0,00
+
+5.000.000,00
+
+2.000.000,00
+
+1.500.000,00
+
+3.500.000,00
+
+5.000.000,00
+
+1.500.000,00
+
+1.000.000,00
+
+1.000.000,00
+1.000.000,00
+
+1.500.000,00
+
+500.000,00
+
+1.000.000,00
+
+2.500.000,00
+
+400.000,00
+
+400.000,00
+
+400.000,00
+
+600.000,00
+
+350.000,00
+
+400.000,00
+
+400.000,00
+
+3.000.000,00
+
+400.000,00
+800.000,00
+
+400.000,00
+
+550.000,00
+300.000,00
+
+4,00
+
+1,60
+
+1,20
+
+2,80
+
+4,00
+
+1,20
+
+0,80
+
+0,80
+0,80
+
+1,20
+
+0,40
+
+0,80
+
+2,00
+
+0,32
+
+0,32
+
+0,32
+
+0,48
+
+0,28
+
+0,32
+
+0,32
+
+2,40
+
+0,32
+0,64
+
+0,32
+
+0,44
+0,24
+
+
+Página: 21
+
+P- P29. Qualificação de Gestores públicos
+municipais de turismo e áreas correlatas para a
+gestão do turismo sustentável e resiliência
+P- P30. Sistema Inteligência e Monitoramento de
+Dados para a Gestão Sustentável do Turismo
+Estadual
+P- P31. Laboratório de Inovação da Gestão
+Pública em Turismo
+P- P32. Assessoria contínua das instâncias de
+governança turística estaduais, regionais e
+municipais
+P- P33. Diagnóstico dos sistemas de informação
+ambiental
+P- P34. Plataforma integrada de análise do CAR
+P- P 35.  Análise do Cadastro Ambiental Rural (
+CAR)
+P- P36. Renovação tecnológica para otimização
+do Centro de Inteligência Geográfica em Gestão
+do Meio Ambiente - CIGMA (incluindo sistemas de
+predição)
+P- P.37. Mapeamento de áreas degradadas e
+passivos ambientais
+P- P. 38. Elaboração do Plano Estadual de
+Restauração Florestal
+P- P.39. Programa Estadual de Restauração
+Florestal
+P- P. 40. Operacionalização do Programa
+Estadual de Pagamentos de Serviços Ambientais
+P- P. 41. Estruturação dos mecanismos de
+financiamento do FunClima
+P- P.42. Diagnóstico das principais cadeias
+produtivas agropecuárias
+P- P.43. Apoio a certificação de integridade da
+produção
+P- P.44. Projetos pilotos de rastreabilidade
+implementados
+P- P45 Elaboração e implementacão de PPR
+P- P.46 Assistência Técnica: Capacitação para
+implementação das atividades
+P- P.47 Estudo de potenciais mercados locais,
+nacionais e globais para os produtos da
+agricultura sustentável
+P- P.48 Criação e/ou fortalecimento de redes
+produtivas e de mercado
+P- P49.  Implementação de iniciativas de
+produtores para obtenção de selos verdes ou de
+produção sustentável.
+P- P.50 Diagnóstico das cadeias da bioeconomia
+do Estado do Tocantins
+P- P51.  Plano de Bioeconomia do Estado do
+Tocantins
+P- P52. Plataforma de negócios sustentáveis da
+bioeconomia
+P- P53. Mecanismos de financiamento da
+bioeconomia estruturados
+P- P54. Estudos de Engenharia e outros estudos
+realizados
+P- P55 Rodovia TO-335 reabilitada (30,68 km)
+P- P56. Rodovia TO-030 reabilitada (14,07 km)
+P- P57. Rodovia TO-222 reabilitada (13,38 km)
+P- P58. Unidade Executora do Programa
+P- P59. Monitoramento e Avaliação
+P- P60. Auditoria do Programa
+Total Geral
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+
+US$
+US$
+US$
+US$
+US$
+US$
+-
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+-
+
+300.000,00
+
+600.000,00
+
+400.000,00
+
+300.000,00
+
+50.000,00
+
+200.000,00
+250.000,00
+
+500.000,00
+
+300.000,00
+
+500.000,00
+
+2.000.000,00
+
+2.000.000,00
+
+200.000,00
+
+100.000,00
+
+200.000,00
+
+1.700.000,00
+
+13.000.000,00
+10.000.000,00
+
+500.000,00
+
+500.000,00
+
+500.000,00
+
+100.000,00
+
+200.000,00
+
+200.000,00
+
+2.000.000,00
+
+2.000.000,00
+
+20.000.000,00
+10.000.000,00
+8.000.000,00
+4.000.000,00
+500.000,00
+500.000,00
+125.000.000,00
+
+0,24
+
+0,48
+
+0,32
+
+0,24
+
+0,04
+
+0,16
+0,20
+
+0,40
+
+0,24
+
+0,40
+
+1,60
+
+1,60
+
+0,16
+
+0,08
+
+0,16
+
+1,36
+
+10,40
+8,00
+
+0,40
+
+0,40
+
+0,40
+
+0,08
+
+0,16
+
+0,16
+
+1,60
+
+1,60
+
+16,00
+8,00
+6,40
+3,20
+0,40
+0,40
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+O Estado do Tocantins concluiu alguns estudos, mesas de trabalho e missões que foram essenciais para a construção desse programa.
+Dentre os principais, estão:
+
+(cid:10)
+
+
+Página: 22
+
+a.Mesas de trabalho para identificação das oportunidades de atração de investimento e melhora da competitividade do estado do
+Tocantins
+
+O Governo do Tocantins, com o apoio do BID, organizou, em Palmas, reuniões com altos representantes do setor público e privado para
+conhecer os principais desafios, e as expectativas das lideranças, e conhecer em primeira mão o histórico do Estado, especialmente em
+questão de relacionamento com outras instituições multilaterais, e experiências em apoios externos em forma de financiamentos. Foram
+identificadas os seguintes desafios e oportunidades: (i) O Estado de Tocantins se encontra num momento perfeito para estabelecer
+parcerias estratégicas que apoiem as suas oportunidades de crescimento econômico do Estado com um foco especial em agronegócio, e
+muito especificamente, agricultura familiar. Também se apresentaram como grandes potenciais focos para o crescimento econômico, o
+setor turismo e a piscicultura; (ii) Alguns dos principais desafios do Estado hoje são, em primeiro lugar, a falta de capacidades técnicas
+que façam possível o desenvolvimento de um planejamento estratégico, e sua implementação. Por outro lado, também foi enfatizada a
+necessidade de melhores infraestruturas básicas, como saneamento, tratamento de resíduos, e conectividade terrestre, principalmente
+estradas e ferrovias. Esses desafios têm causado um crescimento assimétrico do Estado com um crescimento positivo só em 30 das 139
+cidades do Estado; (iii) Crescimento deve ter total foco em sustentabilidade, aproveitando grandes tendências nacionais e internacionais
+como o mercado de créditos de carbono, a agricultura de baixo carbono, para fazer do agronegócio, e os recursos naturais do Tocantins,
+uma fonte de crescimento e riqueza com potencial internacional. Uma segunda expectativa é que nesse processo, o Setor do Turismo, e a
+agricultura familiar, sejam desenvolvidos e possam ser vetores de sustentabilidade social, contribuindo ao crescimento da qualidade de
+vida do Estado. Uma terceira grande expectativa e conseguir que esse desenvolvimento seja realizado, idealmente, através de projetos
+municipais previamente mapeados para beneficiar as cadeias estratégicas do Estado representadas nas APLs com presença nos
+municípios.
+
+b.Fortalecimento da Atração de Investimentos e Promoção do Comércio Exterior do Tocantins
+
+Em 2024 foi realizado em Palmas, com coordenação do BID, o workshop "Fortalecimento da Atração de Investimentos e Promoção do
+Comércio Exterior no Tocantins". O workshop teve como objetivo principal discutir estratégias para a criação de uma agência estadual
+dedicada à atração de investimentos e promoção de exportações. A proposta central foi a criação da Investe Tocantins, uma agência
+especializada para coordenar ações que transformem o estado em um destino atrativo para investidores nacionais e internacionais. O
+evento destacou a meta de atrair R$ 1 bilhão em investimentos e gerar 25.000 empregos nos próximos quatro anos, aproveitando os
+recursos naturais e a localização estratégica do estado. Setores como agronegócio, turismo, mineração, piscicultura e energias renováveis
+foram identificados como prioritários.
+
+Além disso, o workshop abordou a desburocratização e a melhoria do ambiente de negócios, com ênfase na análise de incentivos fiscais,
+estabilidade legal e maior acesso a crédito. Também foi sugerida a criação de uma janela única de investimentos para agilizar processos e
+proporcionar segurança aos investidores. A proposta de governança da nova agência inclui a participação de órgãos públicos e entidades
+privadas, integrando esforços para o desenvolvimento econômico do estado. A estratégia de marketing destacou a promoção digital do
+estado e a diversificação dos investimentos, com especial foco no Parque Tecnológico para fomentar a inovação. A criação da Investe
+Tocantins, em alinhamento com as recomendações do BID, visa consolidar o crescimento sustentável e a competitividade do estado.
+
+c.Plano Estratégico para as Cadeias Produtivas do Agronegócio no estado do Tocantins
+
+O projeto ?Plano Estratégico para as Cadeias Produtivas do Agronegócio do Estado do Tocantins? foi uma iniciativa da Federação das
+Indústrias do Estado do Tocantins - FIETO em parceria com a Secretaria de Desenvolvimento Econômico, Ciência, Tecnologia, Turismo e
+Cultura do Estado do Tocantins -SEDEN. Foram destacados alguns pilares ou temas fundamentais, que pautam todo o estudo na busca
+da identificação de estratégias concisas e aderentes à realidade do estado. São eles: Marco Tecnológico, Associativismo e
+Cooperativismo, Uso da Terra, Desenvolvimento da Indústria Local e Instrumentos de Apoio Estaduais. Para a segunda fase do projeto,
+foram selecionadas algumas cadeias produtivas a serem estudadas. A seleção considerou cadeias que já possuem papel de destaque no
+estado do Tocantins, mas que ainda têm muitas potencialidades a serem exploradas, sempre visando impulsionar o cenário econômico e
+social do estado. As cadeias selecionadas foram: suinocultura, lácteos, Avicultura, Soja e Milho, Silvicultura, Piscicultura, Carne Bovina, e
+Arroz.
+
+d.Subprograma Produtos da Terra
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 23
+
+O Subprograma Produtos Da Terra,idealizado pela Secretaria da Indústria, Comércio e Serviços -SICS, integra a política pública de
+desenvolvimento econômico do governo do Estado consolidada no Programa de Impulsionamento da Indústria, Comercio e Serviços -
+PICS. O subprograma foi anunciado em dezembro de 2023 e tem como objetivos fomentar e fortalecer empreendimentos coletivos, por
+meio do fortalecimento dos arranjos produtivos locais, visando estimular o desenvolvimento socioeconômico sustentável dos municípios
+tocantinenses. O subprograma será executado em convergência e transversalidade com órgãos do governo e instituições representativas
+dos setores produtivos.
+
+e.Plano Setorial para Adaptação à Mudança do Clima e Baixa Emissão de Carbono na Agropecuária Tocantinense (ABC+TO)
+
+É um Plano de Estado que dá continuidade à política setorial nacional e estadual para enfrentamento à mudança do clima no setor
+agropecuário, no período de 2020 a 2030. O Plano ABC-TO tem por finalidade promover ações tecnológicas que contribuam para redução
+de emissão de gases de efeito estufa (GEE) no sistema produtivo agropecuário, aumentando a produção e a renda, preservando os
+recursos naturais e viabilizando a qualidade de vida para as próximas gerações, visando promover a adaptação à mudança do clima e o
+controle das emissões de gases de efeito estufa (GEE) na agropecuária brasileira, com aumento da eficiência e resiliência dos sistemas
+produtivos, a partir de uma gestão integrada da paisagem. As atividades são direcionadas para ações de gestão, articulação institucional,
+capacitação e divulgação de tecnologias de produção sustentáveis e linha de crédito do Programa ABC aprovada pelo Governo Federal,
+visando o desenvolvimento sustentável do setor agropecuário. Cada programa propõe a adoção de uma série de ações, como:
+fortalecimento da assistência técnica, capacitação, estratégias de transferência de tecnologia (TT), dias de campo, palestras, seminários,
+workshops, implantação de unidades de referência tecnológica (URT) e instalação de unidades de aprendizagem tecnológica (UAT).
+
+f.Leis e Planos Ambientais: Lei Estadual 4111/2023; Lei Estadual 4.131/2023 ? Institui o Fundo Clima do Estado do Tocantins ? FunClima
+e adota outras providências; PPCDIF 2021-2025 ? Plano de Prevenção e Combate aos Desmatamentos e Incêndios Florestais do
+Tocantins; Módulo de análise do CAR
+
+O ANEXO 7 contempla  estudos e iniciativas realizados e que subsidiarão a estruturação do Programa, Os estudos necessários para a
+implementação do Tocantins Mais Sustentável receberão apoio do BID, por meio de cooperação técnica não reembolsável a partir do
+início da preparação do Programa.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Sem detalhes
+
+Estado do Tocantins ()
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+Os termos financeiros da operação estão estruturados dentro dos parâmetros definidos pelo BID, sendo eles:
+
+1.Prazo total de 300 meses (25 anos);
+
+2.Prazo de desembolso de 60 meses (5 anos);
+
+3.Prazo de carência 72 meses (6 anos);
+
+4.Prazo máximo de amortização de 228 meses (19 anos);
+
+5.Vida Média Ponderada: 15.25 anos;
+
+6.Taxa de juros (composição):
+
+-Índice SOFR: reajustado diariamente e composto: Hoje em 4.85%;
+
+- Spread de captação: reajustado trimestralmente: Hoje em 0.40%
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 24
+
+-Spread de capital ordinário do BID: aprovado anualmente pelo diretório: Hoje em 0.80%
+
+-Comissão de Crédito sobre o saldo não desembolsado do financiamento: 0,5% a.a. (Maximo não poderá exceder 0.75%);
+
+Conforme Portaria MEFP nº 497/1990, especificamente o art. 3º, item V, no que tange à análise das fontes alternativas da operação, as
+iniciativas foram sendo desenvolvidas e consolidadas, com a responsabilidade de mantermos o equilíbrio fiscal, potencializar os resultados
+da iniciativa privada e proporcionar emprego e renda para a sociedade tocantinense. O Estado do Tocantins realizou ao longo dos últimos
+anos várias iniciativas para equilíbrio nas contas públicas, um dos resultados foi a conquista da nota de classificação B na Capacidade de
+Pagamento - CAPAG em 2022.
+
+Considerando as condições, como taxas e prazos, aplicados pelas instituições financeiras nacionais como Banco do Brasil e Caixa
+Econômica Federal, estas inviabilizam a operação por suas altas taxas de juros e curto prazo para amortização, ou mesmo pelo limite
+disponível destas instituições, o Estado buscou melhores condições em organismos multilaterais. Como outras linhas de financiamento
+também não contemplam programas dessa natureza e adotam taxas de juros superiores aos cobrados pelos agentes multilaterais de
+crédito, o financiamento externo apresenta-se como uma alternativa viável, além de contar com o apoio técnico envolvido em um projeto
+financiado por uma instituição desse tipo.
+
+Escolheu-se o BID pelo apoio recente que o organismo tem dado na organização das mesas de trabalho para identificar as oportunidades
+de desenvolvimento econômico sustentável do estado do Tocantins, com entidades públicas e privadas. Nessas conversas e em reuniões
+posteriores, o BID tem demonstrado experiência em apoiar a implementação de projetos no Brasil de atração de investimento (BR-T1443,
+BR- T1511 e BR-T1584), de agricultura sustentável (entre outros, BR-T1378 - Rural Sustentável Caatinga, BR-T1409 - Rural Sustentável
+Cerrado, BR-L1289 - Programa de Desenvolvimento Sustentável do Acre fase II, BR-T1562 - Rural Sustentável Amazônia, BR-L1542 -
+Projeto Piauí Sustentável e Inclusivo), turismo (BR-L1212 Prodetur Pernambuco, BR-L1300 Prodetur Bahia, BR-L1412 Prodetur Salvador,
+entre outros), e melhora de corredores logísticos em vários estados brasileiros (Ceará, Santa Catarina, Espírito Santo, Paraná, São Paulo)
+. O apoio técnico que se dará durante a preparação e a execução do programa, a partir de experiências de outros estados e outros
+contextos, será essencial para o sucesso desse primeiro programa com o estado do Tocantins.
+
+O ANEXO 8 detalha as razões para a escolha do BID para a estruturação do Programa Tocantins Mais Sustentável.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+2.11.Áreas Estratégicas e Impactos (Ambientais, Econômicos e Sociais) do Projeto
+
+O projeto se alinha às seguintes áreas estratégicas:
+
+(a)promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação: as atividades destinadas ao setor agropecuário,
+turismo e infraestrutura rodoviária levam em consideração medidas de adaptação e mitigação. Em resiliência, serão implementados
+estudos e medidas de vulnerabilidade climática em áreas turísticas; também no setor agricultura, as medidas de resiliência serão
+consideradas. Por fim, a infraestrutura rodoviária será resiliente aos eventos climáticos, após mapeamento detalhado das vulnerabilidades.
+Em mitigação, o desenvolvimento de produtos da bioeconomia conterá medidas para reduzir as emissões no setor agrícola.
+
+(b)conservação e manejo da biodiversidade e/ou de recursos florestais: os Subcomponentes 3.1 e 3.2 estão orientados à recuperação de
+passivos ambientais e restauração florestal.
+
+(c)melhoria do ambiente de negócios e/ou oportunidades: O Componente 1 do Projeto está orientado em melhorar o ambiente de negócios
+por meio do fortalecimento da agência de investimento, implementação da janela única, fortalecimento da marca, promoção de comércio
+exterior, entre outros.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 25
+
+(d)benefícios para empreendedores individuais, micro e pequenas empresas. Em todos os componentes, o foco será em empreendedores
+individuais, micro e pequenas empresas no setor de turismo, agropecuário (agricultura familiar com a bioeconomia) e desenvolvimento
+produtivo.
+
+(e)geração de emprego e renda para populações de baixa renda e vulneráveis. O projeto busca gerar mais oportunidades de trabalho a
+populações de baixa renda e vulneráveis, como agricultores familiares, e localizados nas regiões turísticas do país.
+
+(f)ações de inclusão de minorias sociais entre os beneficiários. No componente agropecuário, o objetivo é envolver comunidades
+originárias e quilombolas na restauração florestal e no apoio da bioeconomia.
+
+(g)políticas voltadas para juventude, gênero e raça. O projeto apoiará atividades específicas voltadas à diversidade em cada um dos
+setores, como eixo transversal.
+
+(h)desenvolvimento, inovação e modernização tecnológica. No C1, há atividades relacionadas à inovação, com o fortalecimento do
+ecossistema de inovação e empreendedorismo, parque tecnológico e financiamento de laboratórios de prova e infraestrutura de qualidade
+das cadeias selecionadas.
+
+(i)arranjos de financiamento que incentivem/contribuam com a participação privada. Com o estabelecimento do fundo de co-financiamento
+de projetos (modelos inovadores), e com atividades de fomento do empreendedorismo local e das atividades produtivas do pequeno e
+médio empresário voltado ao comércio exterior.
+
+2.12.Projeto/Beneficiário
+
+O componente 1 beneficiará a população do Estado do Tocantins por meio do desenvolvimento de políticas públicas que tenham o condão
+de fomentar o desenvolvimento econômico sustentável, melhorar o ambiente de negócios, e impulsionar a eficiência da atuação de
+diferentes órgãos/entidades da administração pública estadual. Além disso, o componente 1 beneficiará:
+
+-Pequenos e médias empresas que objetivem acessar o mercado externo;
+
+-Investidores nacionais e internacionais que pretendam investir e realizar negócios no Tocantins;
+
+-A estrutura institucional do Estado para atração de investimentos e promoção do comércio exterior
+
+-o ecossistema de inovação, incluindo as universidades, os centros de pesquisa e inovação, e as empresas do setor privado,
+especialmente as startups e micro, pequena e medias empresas. Especificamente, o programa beneficiará aproximadamente 100 startups
+inovadoras, mais de 500 micros, pequenas e médias empresas em cadeias de valor estratégicas, e mais de 50 empresas na
+implementação de projetos de inovação, além dos trabalhadores nessas empresas, e os consumidores dos produtos e serviços das
+mesmas
+
+Em relação ao componente 2, os beneficiários 2 incluem:
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 26
+
+-952 empresas que atuam nas Atividades Características do Turismo (ACTs): Beneficiam-se de capacitação, assistência técnica,
+melhorias estruturais e equipamentos, além de oportunidades de promoção e comercialização oferecidas pelas estratégias de marketing
+implementadas.
+
+-6.537 trabalhadores formais empregados nas ACTs e aproximadamente 1.000 trabalhadores informais que atuam nas ACTs: Beneficiam-
+se de capacitação, assistência técnica, participação em programas de capacitação.
+
+-225.000 turistas domésticos e internacionais que visitam os Polos Serras Gerais, Jalapão e Serras e Lago: Se beneficiam de uma melhor
+infraestrutura (sinalização, acessos, wi-fi), trilhas e centros de interpretação, o que enriquece suas experiências de visitação. Além disso,
+têm acesso a destinos mais sustentáveis e seguros, com atrativos organizados de forma resiliente às mudanças climáticas.
+
+-Gestores públicos estaduais e municipais: Recebem capacitação e assistência para o planejamento, monitoramento e governança do
+turismo, permitindo que melhorem suas habilidades de gestão e aumentem a eficiência na implementação de políticas turísticas
+sustentáveis.
+
+-Secretaria de Turismo (Setur TO): Beneficiada com a reforma da sede, aquisição de equipamentos e melhoria na infraestrutura de
+telecomunicações, aumentando sua capacidade de operar de forma eficiente e sustentável.
+
+-Instituições de governança turística: Conselhos e redes de governança estadual e municipal permitem uma gestão mais coordenada e
+eficaz do turismo, beneficiando não apenas os gestores públicos, mas todos os envolvidos no setor.
+
+Os beneficiários do componente 3, por sua vez, abrangem:
+
+-Pequenos e médios negócios da bioeconomia do Estado do Tocantins.
+
+-10.000 famílias de pequenos e médios produtores rurais, inclusive assentamentos da reforma agrária e comunidades tradicionais,
+beneficiários de Planos de Producão Resiliente e de assistência técnica e extensão rural.
+
+-8.000 famílias beneficiárias da regularizacão ambiental.
+
+-70 organizacões de produtores rurais beneficiárias de assistência técnica e capacitacão para fortalecer seus aspectos de gestão e
+comercializacão.
+
+-10 organizacões beneficiárias de selos de producão sustentável.
+
+-Servicos de assistência técnica públicos e privados fortalecidos em temas de agricultura de baixo carbono.
+
+Por fim, é possível destacar os seguintes beneficiários do produto 4:
+
+-513,018 beneficiários da população diretamente beneficiada na área de influência dos corredores logísticos TO-335 trecho Colinas/
+Ferrovia (30,68 km), TO-030 trecho Palmas /Taquaruçu (14,07 km) e, TO-222 trecho Araguaina /Novo Horizonte
+
+-Aproximadamente 15,000 usuários/dia das rodovias nos três (3) trechos rodoviários priorizados, incluindo caminhões, ônibus, veículos de
+passeio e motocicletas.
+
+-Investidores nacionais e internacionais que pretendam investir e realizar negócios no Tocantins;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 27
+
+-A estrutura institucional do Estado para atração de investimentos e promoção do comércio exterior
+
+-o ecossistema de inovação, incluindo as universidades, os centros de pesquisa e inovação, e as empresas do setor privado,
+especialmente as startups e micro, pequena e medias empresas. Especificamente, o programa beneficiará aproximadamente 100 startups
+inovadoras, mais de 500 micros, pequenas e médias empresas em cadeias de valor estratégicas, e mais de 50 empresas na
+implementação de projetos de inovação, além dos trabalhadores nessas empresas, e os consumidores dos produtos e serviços das
+mesmas
+
+Em relação ao componente 2, os beneficiários 2 incluem:
+
+-952 empresas que atuam nas Atividades Características do Turismo (ACTs): Beneficiam-se de capacitação, assistência técnica,
+melhorias estruturais e equipamentos, além de oportunidades de promoção e comercialização oferecidas pelas estratégias de marketing
+implementadas.
+
+-6.537 trabalhadores formais empregados nas ACTs e aproximadamente 1.000 trabalhadores informais que atuam nas ACTs: Beneficiam-
+se de capacitação, assistência técnica, participação em programas de capacitação.
+
+-225.000 turistas domésticos e internacionais que visitam os Polos Serras Gerais, Jalapão e Serras e Lago: Se beneficiam de uma melhor
+infraestrutura (sinalização, acessos, wi-fi), trilhas e centros de interpretação, o que enriquece suas experiências de visitação. Além disso,
+têm acesso a destinos mais sustentáveis e seguros, com atrativos organizados de forma resiliente às mudanças climáticas.
+
+-Gestores públicos estaduais e municipais: Recebem capacitação e assistência para o planejamento, monitoramento e governança do
+turismo, permitindo que melhorem suas habilidades de gestão e aumentem a eficiência na implementação de políticas turísticas
+sustentáveis.
+
+-Secretaria de Turismo (Setur TO): Beneficiada com a reforma da sede, aquisição de equipamentos e melhoria na infraestrutura de
+telecomunicações, aumentando sua capacidade de operar de forma eficiente e sustentável.
+
+-Instituições de governança turística: Conselhos e redes de governança estadual e municipal permitem uma gestão mais coordenada e
+eficaz do turismo, beneficiando não apenas os gestores públicos, mas todos os envolvidos no setor.
+
+Os beneficiários do componente 3, por sua vez, abrangem:
+
+-Pequenos e médios negócios da bioeconomia do Estado do Tocantins.
+
+-10.000 famílias de pequenos e médios produtores rurais, inclusive assentamentos da reforma agrária e comunidades tradicionais,
+beneficiários de Planos de Producão Resiliente e de assistência técnica e extensão rural.
+
+-8.000 famílias beneficiárias da regularizacão ambiental.
+
+-70 organizacões de produtores rurais beneficiárias de assistência técnica e capacitacão para fortalecer seus aspectos de gestão e
+comercializacão.
+
+-10 organizacões beneficiárias de selos de producão sustentável.
+
+-Servicos de assistência técnica públicos e privados fortalecidos em temas de agricultura de baixo carbono.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 28
+
+Por fim, é possível destacar os seguintes beneficiários do produto 4:
+
+-513,018 beneficiários da população diretamente beneficiada na área de influência dos corredores logísticos TO-335 trecho Colinas/
+Ferrovia (30,68 km), TO-030 trecho Palmas /Taquaruçu (14,07 km) e, TO-222 trecho Araguaina /Novo Horizonte
+
+-Aproximadamente 15,000 usuários/dia das rodovias nos três (3) trechos rodoviários priorizados, incluindo caminhões, ônibus, veículos de
+passeio e motocicletas.
+
+-Produtores do setor da agricultura empresarial e a agricultura doméstica na área de influência direta das rodovias priorizadas,
+relacionados com as cadeias de soja, milho, arroz, hortaliças, piscicultura, gado corte, e atores chave das cadeias logísticas relacionadas,
+incluindo o Terminal Integrador de Palmeirante (TIPA) denominado pátio multimodal, empresas transportadoras, centros de
+armazenamento, e empresas fornecedoras de insumos agrícolas, serviços logísticos, combustíveis e manutenção.
+
+-Pontos turísticos e educativos na área de influência direta das rodovias melhoradas, incluindo as universidades do município de
+Araguaína, o Portal do Jalapão, e os atrativos turísticos como cachoeiras e gastronomia regional do distrito de Taquaruçu
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Interamericano de Desenvolvimento
+- BID
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BID
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+25.000.000,00
+Valor Proposto
+
+100.000.000,00
+
+125.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+25.000.000,00
+Valor de Referência US
+$
+100.000.000,00
+
+125.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+Arranjo Institucional
+
+O Estado do Tocantins será o mutuário do financiamento. A Secretaria de Planejamento e Orçamento será a principal responsável pela
+execução do Projeto, conforme condições a serem estabelecidas no Acordo de Empréstimo, no desenho do projeto e nas diretrizes e
+indicadores de monitoramento a serem incluídas no Documento de Projeto durante a preparação com o BID.
+
+A Secretaria de Planejamento e Orçamento atuará em coordenação com as demais Secretarias e Autarquias do Estado responsáveis por
+executar os componentes de sua competência, o relacionamento deverá ser formalizado através de um Acordo de Execução. Um
+Conselho Estratégico do Programa será criado para coordenação inter-institucional do ponto de vista estratégico, avaliação e prestação de
+contas da evolução do Programa Os órgãos executores do Projeto serão:
+
+1.SECRETARIA DE PLANEJAMENTO E ORÇAMENTO
+
+-Coordenação geral do Projeto (Unidade Gestão do Programa);
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 29
+
+-Apoio na implementação do componente 1, relativo à atração de investimentos, promoção do comércio exterior e inovação.
+
+-Apoio na preparação e supervisão dos instrumentos de planejamento setorial, em consonância com o planejamento do estado.
+
+2.SECRETARIA DE TURISMO
+
+-Implementação do Componente 2, relativo às atividades de turismo.
+
+3.AGÊNCIA DE OBRAS, TRANSPORTE E INFRAESTRUTURA (AGETO)
+
+-Implementação do componente 4: infraestrutura habilitadora para o desenvolvimento econômico sustentável
+
+4.SECRETARIA DA AGRICULTURA E PECUÁRIA
+
+-Implementação do componente 3, das atividades de fortalecimento da agricultura, com enfoque na bioeconomia.
+
+-Articulação com o INSTITUTO DE DESENVOLVIMENTO RURAL DO TOCANTINS, e com a SECRETARIA DE PESCA E
+AQUICULTURA para subsídios técnicos na formulação do programa de fomento ao pequeno produtor rural.
+
+5.SECRETARIA DE INDÚSTRIA, COMÉRCIO E SERVICOS
+
+-Co-implementação do componente 1, relativo à atração de investimentos, promoção do comércio exterior e inovação, bem como das
+atividades do componente 3 relativas aos estudos sobre cadeias estratégicas e estratégias de acesso a mercados.
+
+6.SECRETARIA DO MEIO AMBIENTE E RECURSOS HIDRICOS
+
+-Apoio no desenho e supervisão  de atividades de mitigação e adaptação em todos os componentes.
+
+-Implementação das atividades relativas à restauração e conservação ambiental.
+
+-Articulação com as demais secretarias para a implementação do fortalecimento da bioeconomia.
+
+-Articulação com NATURATINS para os produtos relativos à conservação e recuperação ambiental.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 30
+
+Os ANEXOS 3 (Matriz de Responsabilidade) e 5 (Quadro de Governança) detalham a execução do Programa. A UPG contará com
+pessoal dedicado  para a execução o Programa, que serão indicados das Secretarias implementadoras. A capacidade institucional do
+governo do Estado e suas instituições para implementação do Programa será avaliada por meio da PACI, metodologia utilizada pelo BID,
+durante sua preparação. Se necessário, será contratada consultoria de apoio à gestão do Programa. Adicionalmente, o BID proverá toda a
+capacitação técnica necessária sobre suas políticas de aquisição e de salvaguardas aos funcionários envolvidos.
+
+5.SECRETARIA DE INDÚSTRIA, COMÉRCIO E SERVICOS
+
+-Co-implementação do componente 1, relativo à atração de investimentos, promoção do comércio exterior e inovação, bem como das
+atividades do componente 3 relativas aos estudos sobre cadeias estratégicas e estratégias de acesso a mercados.
+
+6.SECRETARIA DO MEIO AMBIENTE E RECURSOS HIDRICOS
+
+-Apoio no desenho e supervisão  de atividades de mitigação e adaptação em todos os componentes.
+
+-Implementação das atividades relativas à restauração e conservação ambiental.
+
+-Articulação com as demais secretarias para a implementação do fortalecimento da bioeconomia.
+
+-Articulação com NATURATINS para os produtos relativos à conservação e recuperação ambiental.
+
+Os ANEXOS 3 (Matriz de Responsabilidade) e 5 (Quadro de Governança) detalham a execução do Programa. A UPG contará com
+pessoal dedicado  para a execução o Programa, que serão indicados das Secretarias implementadoras. A capacidade institucional do
+governo do Estado e suas instituições para implementação do Programa será avaliada por meio da PACI, metodologia utilizada pelo BID,
+durante sua preparação. Se necessário, será contratada consultoria de apoio à gestão do Programa. Adicionalmente, o BID proverá toda a
+capacitação técnica necessária sobre suas políticas de aquisição e de salvaguardas aos funcionários envolvidos.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Secretaria do Planejamento e Orçamento do Estado do Tocantins - Seplan
+
+Representante Oficial: Sergislei Silva de Moura
+
+Endereço da Sede: Praça dos Girassóis, Explanada das Secretarias S/N
+E-mail Institucional:
+
+Telefone: 63 3212 4406/4403
+CNPJ: 13380336000179
+
+Fax:
+UF:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+COMPONENTES
+
+C - ATRAÇÃO DE INVESTIMENTOS E PROMOÇÃO DE COMÉRCIO EXTERIOR PARA O
+DESENVOLVIMENTO ECONÔMICO SUSTENTÁVEL DO TOCANTINS
+S - ATRAÇÃO DE INVESTIMENTOS E PROMOÇÃO DO COMÉRCIO EXTERIOR PARA OS
+SETORES ESTRATÉGICOS DA ECONOMIA DO TOCANTINS
+P - P1. Desenho e estruturação organizacional da Agência de Atração de Investimentos e
+Promoção de Comércio Exterior do Estado de Tocantins (Investe TO)
+P - P2. Desenvolvimento de Planejamento Estratégico e de Estratégia de marketing e vendas
+para a atração de investimentos e promoção do comércio exterior do Estado de Tocantins
+P - P3. Implementação da Janela única de Investimentos do Tocantins
+
+P - P4. Desenvolvimento, Implementação e Fortalecimento da Marca Tocantins
+
+P - P5. Estruturação de apoio da Investe TO para os principais municípios e regiões econômicas
+do Tocantins
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+CF
+
+BID
+
+35.000.000,00
+
+350.000,00
+
+1.400.000,00
+
+31.500.000,00
+
+315.000,00
+
+1.260.000,00
+
+5.000.000,00
+
+50.000,00
+
+200.000,00
+
+3.000.000,00
+
+30.000,00
+
+120.000,00
+
+5.000.000,00
+
+2.000.000,00
+
+1.500.000,00
+
+50.000,00
+
+20.000,00
+
+15.000,00
+
+200.000,00
+
+80.000,00
+
+60.000,00
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 31
+
+P - P6. Serviços de desenvolvimento empresarial para expansão comercial, nacional e
+internacional implementados
+P - P7. Estruturação de plataforma para promoção de bens e serviços do Tocantins, feiras e
+rodadas de negócios
+P - P8. Programa de apoio para as cadeias estratégicas estruturado e implementado
+
+P - P11. Quadro técnico e profissionais de pequenos negócios, negócios de impacto e
+agroindústrias das cadeias selecionadas qualificados
+P - P12. Parque Tecnológico apoiado
+
+P - P13. Laboratórios de prova e infraestrutura de qualidade melhorados
+
+P - P14. Fundo de co-financiamento de projetos/modelos inovadores estruturado
+
+P - P15. Cultura de inovação e novos empreendimentos apoiado
+
+S - S1.2. FORTALECIMENTO DAS CADEIAS PRODUTIVAS ESTRATÉGICAS
+
+P -        P9.  Empreendimentos e inovação das cadeias prioritárias financiadas
+
+P - P10.  Fundo garantidor para inovações nas cadeias prioritárias estruturado
+
+3.500.000,00
+
+35.000,00
+
+140.000,00
+
+5.000.000,00
+
+50.000,00
+
+200.000,00
+
+1.500.000,00
+
+1.000.000,00
+
+1.000.000,00
+
+1.000.000,00
+
+1.500.000,00
+
+500.000,00
+
+3.500.000,00
+
+1.000.000,00
+
+2.500.000,00
+
+15.000,00
+
+10.000,00
+
+10.000,00
+
+10.000,00
+
+15.000,00
+
+5.000,00
+
+35.000,00
+
+10.000,00
+
+25.000,00
+
+60.000,00
+
+40.000,00
+
+40.000,00
+
+40.000,00
+
+60.000,00
+
+20.000,00
+
+140.000,00
+
+40.000,00
+
+100.000,00
+
+C - C2. FORTALECIMENTO DO TURISMO SUSTENTÁVEL E INCLUSIVO
+
+10.000.000,00
+
+100.000,00
+
+400.000,00
+
+S - S2.1. INSTRUMENTOS DE GESTÃO SUSTENTÁVEL E RESILIENTE DO TURISMO
+
+2.950.000,00
+
+29.500,00
+
+118.000,00
+
+P - P16. Plano Estratégico de Turismo Sustentável
+
+P - P17. Implantação de Instrumentos e ferramentas de apoio à implantação do Plano Estratégico
+de Turismo
+P - P18. Plano de gestão de riscos inerentes e vulnerabilidades do turismo às mudanças
+climáticas
+P - P19. Implementação de ações de gestão de riscos e de resiliência climática
+
+P - P20. Modelagem de gestão de áreas e atrativos turísticos de titularidade pública
+
+P - P21. Implantação de sistema de monitoramento da visitação nos atrativos turísticos de
+titularidade pública
+P - P22. Certificação de destinos e atrativos turísticos sustentáveis
+
+S - S2.2 APOIO À CADEIA PRODUTIVA DO TURISMO SUSTENTÁVEL E INCLUSIVO
+
+P - P23. Fundo de financiamento para nano e pequenos empreendimentos geridos pela
+comunidade local
+P - P24. Plano de Marketing Turístico Estadual
+
+P - P25. Implantação de Estratégias de apoio à comercialização e promoção
+
+S - S2.3 MODERNIZAÇÃO DA GOVERNANÇA TURÍSTICA
+
+P - P26. Aquisição de equipamentos para eficiência e sustentabilidade da Setur TO
+
+P - P27. Reforma da sede da Setur TO
+
+P - P28. Qualificação de Gestores públicos estaduais de turismo e áreas correlatas para a gestão
+do turismo sustentável e resiliência
+P - P29. Qualificação de Gestores públicos municipais de turismo e áreas correlatas para a
+gestão do turismo sustentável e resiliência
+P - P30. Sistema Inteligência e Monitoramento de Dados para a Gestão Sustentável do Turismo
+Estadual
+P - P31. Laboratório de Inovação da Gestão Pública em Turismo
+
+P - P32. Assessoria contínua das instâncias de governança turística estaduais, regionais e
+municipais
+C - C3: FORTALECER A SUSTENTABILIDADE DA AGRICULTURA DO TOCANTINS
+
+S - S.3.1: FORTALECIMENTO INSTITUCIONAL PARA IMPLEMENTAÇÃO DO CADASTRO
+AMBIENTAL RURAL E PROGRAMA DE REGULARIZAÇÃO AMBIENTAL
+P - P33. Diagnóstico dos sistemas de informação ambiental
+
+P - P34. Plataforma integrada de análise do CAR
+
+P - P 35.  Análise do Cadastro Ambiental Rural (CAR)
+
+P - P36. Renovação tecnológica para otimização do Centro de Inteligência Geográfica em Gestão
+do Meio Ambiente - CIGMA (incluindo sistemas de predição)
+S - S.3.2 RECUPERAÇÃO DE PASSIVOS AMBIENTAIS E RESTAURAÇÃO FLORESTAL
+
+P - P.37. Mapeamento de áreas degradadas e passivos ambientais
+
+P - P. 38. Elaboração do Plano Estadual de Restauração Florestal
+
+P - P.39. Programa Estadual de Restauração Florestal
+
+P - P. 40. Operacionalização do Programa Estadual de Pagamentos de Serviços Ambientais
+
+P - P. 41. Estruturação dos mecanismos de financiamento do FunClima
+
+S - S.3.3 DESENVOLVIMENTO DE PROJETO PILOTO DE RASTREABILIDADE DE PRODUTOS
+LIVRES DE DESMATAMENTO E DEGRADAÇÃO AMBIENTAL
+P - P.42. Diagnóstico das principais cadeias produtivas agropecuárias
+
+P - P.43. Apoio a certificação de integridade da produção
+
+P - P.44. Projetos pilotos de rastreabilidade implementados
+
+S - S.3.4 DESENVOLVIMENTO DE NEGÓCIOS SUSTENTÁVEIS
+
+P - P45 Elaboração e implementacão de PPR
+
+400.000,00
+
+400.000,00
+
+4.000,00
+
+4.000,00
+
+16.000,00
+
+16.000,00
+
+400.000,00
+
+4.000,00
+
+16.000,00
+
+600.000,00
+
+350.000,00
+
+400.000,00
+
+400.000,00
+
+4.200.000,00
+
+3.000.000,00
+
+400.000,00
+
+800.000,00
+
+6.000,00
+
+3.500,00
+
+4.000,00
+
+4.000,00
+
+42.000,00
+
+30.000,00
+
+4.000,00
+
+8.000,00
+
+24.000,00
+
+14.000,00
+
+16.000,00
+
+16.000,00
+
+168.000,00
+
+120.000,00
+
+16.000,00
+
+32.000,00
+
+2.850.000,00
+
+28.500,00
+
+114.000,00
+
+400.000,00
+
+550.000,00
+
+300.000,00
+
+4.000,00
+
+5.500,00
+
+3.000,00
+
+16.000,00
+
+22.000,00
+
+12.000,00
+
+300.000,00
+
+3.000,00
+
+12.000,00
+
+600.000,00
+
+6.000,00
+
+24.000,00
+
+400.000,00
+
+300.000,00
+
+4.000,00
+
+3.000,00
+
+16.000,00
+
+12.000,00
+
+35.000.000,00
+
+350.000,00
+
+1.400.000,00
+
+1.000.000,00
+
+10.000,00
+
+40.000,00
+
+50.000,00
+
+200.000,00
+
+250.000,00
+
+500.000,00
+
+500,00
+
+2.000,00
+
+2.500,00
+
+5.000,00
+
+2.000,00
+
+8.000,00
+
+10.000,00
+
+20.000,00
+
+5.000.000,00
+
+50.000,00
+
+200.000,00
+
+300.000,00
+
+500.000,00
+
+2.000.000,00
+
+2.000.000,00
+
+200.000,00
+
+2.000.000,00
+
+100.000,00
+
+200.000,00
+
+3.000,00
+
+5.000,00
+
+20.000,00
+
+20.000,00
+
+2.000,00
+
+20.000,00
+
+1.000,00
+
+2.000,00
+
+12.000,00
+
+20.000,00
+
+80.000,00
+
+80.000,00
+
+8.000,00
+
+80.000,00
+
+4.000,00
+
+8.000,00
+
+1.700.000,00
+
+17.000,00
+
+68.000,00
+
+23.000.000,00
+
+230.000,00
+
+920.000,00
+
+13.000.000,00
+
+130.000,00
+
+520.000,00
+
+P - P.46 Assistência Técnica: Capacitação para implementação das atividades
+
+10.000.000,00
+
+100.000,00
+
+400.000,00
+
+S - S.3.5 INSERÇÃO DE MERCADO DOS PRODUTOS DA AGRICULTURA SUSTENTÁVEL
+
+P - P.47 Estudo de potenciais mercados locais, nacionais e globais para os produtos da
+agricultura sustentável
+P - P.48 Criação e/ou fortalecimento de redes produtivas e de mercado
+
+P - P49.  Implementação de iniciativas de produtores para obtenção de selos verdes ou de
+produção sustentável.
+S - S.3.6 DESENVOLVIMENTO DA PLATAFORMA DE BIOECONOMIA DO ESTADO DO
+TOCANTINS
+P - P.50 Diagnóstico das cadeias da bioeconomia do Estado do Tocantins
+
+P - P51.  Plano de Bioeconomia do Estado do Tocantins
+
+P - P52. Plataforma de negócios sustentáveis da bioeconomia
+
+1.500.000,00
+
+500.000,00
+
+500.000,00
+
+500.000,00
+
+15.000,00
+
+5.000,00
+
+5.000,00
+
+5.000,00
+
+60.000,00
+
+20.000,00
+
+20.000,00
+
+20.000,00
+
+2.500.000,00
+
+25.000,00
+
+100.000,00
+
+100.000,00
+
+200.000,00
+
+200.000,00
+
+1.000,00
+
+2.000,00
+
+2.000,00
+
+4.000,00
+
+8.000,00
+
+8.000,00
+
+
+Página: 32
+
+P - P53. Mecanismos de financiamento da bioeconomia estruturados
+
+2.000.000,00
+
+20.000,00
+
+80.000,00
+
+C - C4. INVESTIMENTOS PARA A INFRAESTRUTURA LOGÍSTICA HABILITANTE
+
+40.000.000,00
+
+400.000,00
+
+1.600.000,00
+
+P - P54. Estudos de Engenharia e outros estudos realizados
+
+P - P55 Rodovia TO-335 reabilitada (30,68 km)
+
+P - P56. Rodovia TO-030 reabilitada (14,07 km)
+
+P - P57. Rodovia TO-222 reabilitada (13,38 km)
+
+C - C5. GESTÃO DO PROGRAMA
+
+P - P58. Unidade Executora do Programa
+
+P - P59. Monitoramento e Avaliação
+
+P - P60. Auditoria do Programa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - ATRAÇÃO DE INVESTIMENTOS E PROMOÇÃO DE COMÉRCIO EXTERIOR PARA O
+DESENVOLVIMENTO ECONÔMICO SUSTENTÁVEL DO TOCANTINS
+S - ATRAÇÃO DE INVESTIMENTOS E PROMOÇÃO DO COMÉRCIO EXTERIOR PARA OS
+SETORES ESTRATÉGICOS DA ECONOMIA DO TOCANTINS
+P - P1. Desenho e estruturação organizacional da Agência de Atração de Investimentos e
+Promoção de Comércio Exterior do Estado de Tocantins (Investe TO)
+P - P2. Desenvolvimento de Planejamento Estratégico e de Estratégia de marketing e vendas
+para a atração de investimentos e promoção do comércio exterior do Estado de Tocantins
+P - P3. Implementação da Janela única de Investimentos do Tocantins
+
+P - P4. Desenvolvimento, Implementação e Fortalecimento da Marca Tocantins
+
+P - P5. Estruturação de apoio da Investe TO para os principais municípios e regiões econômicas
+do Tocantins
+P - P6. Serviços de desenvolvimento empresarial para expansão comercial, nacional e
+internacional implementados
+P - P7. Estruturação de plataforma para promoção de bens e serviços do Tocantins, feiras e
+rodadas de negócios
+P - P8. Programa de apoio para as cadeias estratégicas estruturado e implementado
+
+P - P11. Quadro técnico e profissionais de pequenos negócios, negócios de impacto e
+agroindústrias das cadeias selecionadas qualificados
+P - P12. Parque Tecnológico apoiado
+
+P - P13. Laboratórios de prova e infraestrutura de qualidade melhorados
+
+P - P14. Fundo de co-financiamento de projetos/modelos inovadores estruturado
+
+P - P15. Cultura de inovação e novos empreendimentos apoiado
+
+S - S1.2. FORTALECIMENTO DAS CADEIAS PRODUTIVAS ESTRATÉGICAS
+
+P -        P9.  Empreendimentos e inovação das cadeias prioritárias financiadas
+
+P - P10.  Fundo garantidor para inovações nas cadeias prioritárias estruturado
+
+C - C2. FORTALECIMENTO DO TURISMO SUSTENTÁVEL E INCLUSIVO
+
+S - S2.1. INSTRUMENTOS DE GESTÃO SUSTENTÁVEL E RESILIENTE DO TURISMO
+
+P - P16. Plano Estratégico de Turismo Sustentável
+
+P - P17. Implantação de Instrumentos e ferramentas de apoio à implantação do Plano Estratégico
+de Turismo
+P - P18. Plano de gestão de riscos inerentes e vulnerabilidades do turismo às mudanças
+climáticas
+P - P19. Implementação de ações de gestão de riscos e de resiliência climática
+
+P - P20. Modelagem de gestão de áreas e atrativos turísticos de titularidade pública
+
+P - P21. Implantação de sistema de monitoramento da visitação nos atrativos turísticos de
+titularidade pública
+P - P22. Certificação de destinos e atrativos turísticos sustentáveis
+
+S - S2.2 APOIO À CADEIA PRODUTIVA DO TURISMO SUSTENTÁVEL E INCLUSIVO
+
+P - P23. Fundo de financiamento para nano e pequenos empreendimentos geridos pela
+comunidade local
+P - P24. Plano de Marketing Turístico Estadual
+
+P - P25. Implantação de Estratégias de apoio à comercialização e promoção
+
+S - S2.3 MODERNIZAÇÃO DA GOVERNANÇA TURÍSTICA
+
+P - P26. Aquisição de equipamentos para eficiência e sustentabilidade da Setur TO
+
+P - P27. Reforma da sede da Setur TO
+
+P - P28. Qualificação de Gestores públicos estaduais de turismo e áreas correlatas para a gestão
+do turismo sustentável e resiliência
+P - P29. Qualificação de Gestores públicos municipais de turismo e áreas correlatas para a
+gestão do turismo sustentável e resiliência
+P - P30. Sistema Inteligência e Monitoramento de Dados para a Gestão Sustentável do Turismo
+Estadual
+P - P31. Laboratório de Inovação da Gestão Pública em Turismo
+
+P - P32. Assessoria contínua das instâncias de governança turística estaduais, regionais e
+municipais
+C - C3: FORTALECER A SUSTENTABILIDADE DA AGRICULTURA DO TOCANTINS
+
+S - S.3.1: FORTALECIMENTO INSTITUCIONAL PARA IMPLEMENTAÇÃO DO CADASTRO
+AMBIENTAL RURAL E PROGRAMA DE REGULARIZAÇÃO AMBIENTAL
+P - P33. Diagnóstico dos sistemas de informação ambiental
+
+P - P34. Plataforma integrada de análise do CAR
+
+P - P 35.  Análise do Cadastro Ambiental Rural (CAR)
+
+2.000.000,00
+
+20.000,00
+
+80.000,00
+
+20.000.000,00
+
+200.000,00
+
+800.000,00
+
+10.000.000,00
+
+100.000,00
+
+400.000,00
+
+8.000.000,00
+
+5.000.000,00
+
+4.000.000,00
+
+500.000,00
+
+500.000,00
+
+80.000,00
+
+50.000,00
+
+40.000,00
+
+5.000,00
+
+5.000,00
+
+320.000,00
+
+200.000,00
+
+160.000,00
+
+20.000,00
+
+20.000,00
+
+0,00
+
+1.250.000,00
+
+5.000.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+BID
+
+1.050.000,00
+
+4.200.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+945.000,00
+
+3.780.000,00
+
+150.000,00
+
+600.000,00
+
+90.000,00
+
+360.000,00
+
+150.000,00
+
+600.000,00
+
+60.000,00
+
+45.000,00
+
+240.000,00
+
+180.000,00
+
+105.000,00
+
+420.000,00
+
+150.000,00
+
+600.000,00
+
+45.000,00
+
+30.000,00
+
+30.000,00
+
+30.000,00
+
+45.000,00
+
+15.000,00
+
+180.000,00
+
+120.000,00
+
+120.000,00
+
+120.000,00
+
+180.000,00
+
+60.000,00
+
+105.000,00
+
+420.000,00
+
+30.000,00
+
+75.000,00
+
+120.000,00
+
+300.000,00
+
+300.000,00
+
+1.200.000,00
+
+88.500,00
+
+12.000,00
+
+12.000,00
+
+354.000,00
+
+48.000,00
+
+48.000,00
+
+12.000,00
+
+48.000,00
+
+18.000,00
+
+10.500,00
+
+12.000,00
+
+72.000,00
+
+42.000,00
+
+48.000,00
+
+12.000,00
+
+48.000,00
+
+126.000,00
+
+504.000,00
+
+90.000,00
+
+360.000,00
+
+12.000,00
+
+24.000,00
+
+85.500,00
+
+12.000,00
+
+16.500,00
+
+9.000,00
+
+48.000,00
+
+96.000,00
+
+342.000,00
+
+48.000,00
+
+66.000,00
+
+36.000,00
+
+9.000,00
+
+36.000,00
+
+18.000,00
+
+72.000,00
+
+12.000,00
+
+9.000,00
+
+48.000,00
+
+36.000,00
+
+1.050.000,00
+
+4.200.000,00
+
+30.000,00
+
+120.000,00
+
+1.500,00
+
+6.000,00
+
+7.500,00
+
+6.000,00
+
+24.000,00
+
+30.000,00
+
+
+Página: 33
+
+P - P36. Renovação tecnológica para otimização do Centro de Inteligência Geográfica em Gestão
+do Meio Ambiente - CIGMA (incluindo sistemas de predição)
+S - S.3.2 RECUPERAÇÃO DE PASSIVOS AMBIENTAIS E RESTAURAÇÃO FLORESTAL
+
+P - P.37. Mapeamento de áreas degradadas e passivos ambientais
+
+P - P. 38. Elaboração do Plano Estadual de Restauração Florestal
+
+P - P.39. Programa Estadual de Restauração Florestal
+
+P - P. 40. Operacionalização do Programa Estadual de Pagamentos de Serviços Ambientais
+
+P - P. 41. Estruturação dos mecanismos de financiamento do FunClima
+
+S - S.3.3 DESENVOLVIMENTO DE PROJETO PILOTO DE RASTREABILIDADE DE PRODUTOS
+LIVRES DE DESMATAMENTO E DEGRADAÇÃO AMBIENTAL
+P - P.42. Diagnóstico das principais cadeias produtivas agropecuárias
+
+P - P.43. Apoio a certificação de integridade da produção
+
+P - P.44. Projetos pilotos de rastreabilidade implementados
+
+S - S.3.4 DESENVOLVIMENTO DE NEGÓCIOS SUSTENTÁVEIS
+
+P - P45 Elaboração e implementacão de PPR
+
+P - P.46 Assistência Técnica: Capacitação para implementação das atividades
+
+S - S.3.5 INSERÇÃO DE MERCADO DOS PRODUTOS DA AGRICULTURA SUSTENTÁVEL
+
+P - P.47 Estudo de potenciais mercados locais, nacionais e globais para os produtos da
+agricultura sustentável
+P - P.48 Criação e/ou fortalecimento de redes produtivas e de mercado
+
+P - P49.  Implementação de iniciativas de produtores para obtenção de selos verdes ou de
+produção sustentável.
+S - S.3.6 DESENVOLVIMENTO DA PLATAFORMA DE BIOECONOMIA DO ESTADO DO
+TOCANTINS
+P - P.50 Diagnóstico das cadeias da bioeconomia do Estado do Tocantins
+
+P - P51.  Plano de Bioeconomia do Estado do Tocantins
+
+P - P52. Plataforma de negócios sustentáveis da bioeconomia
+
+P - P53. Mecanismos de financiamento da bioeconomia estruturados
+
+C - C4. INVESTIMENTOS PARA A INFRAESTRUTURA LOGÍSTICA HABILITANTE
+
+P - P54. Estudos de Engenharia e outros estudos realizados
+
+P - P55 Rodovia TO-335 reabilitada (30,68 km)
+
+P - P56. Rodovia TO-030 reabilitada (14,07 km)
+
+P - P57. Rodovia TO-222 reabilitada (13,38 km)
+
+C - C5. GESTÃO DO PROGRAMA
+
+P - P58. Unidade Executora do Programa
+
+P - P59. Monitoramento e Avaliação
+
+P - P60. Auditoria do Programa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - ATRAÇÃO DE INVESTIMENTOS E PROMOÇÃO DE COMÉRCIO EXTERIOR PARA O
+DESENVOLVIMENTO ECONÔMICO SUSTENTÁVEL DO TOCANTINS
+S - ATRAÇÃO DE INVESTIMENTOS E PROMOÇÃO DO COMÉRCIO EXTERIOR PARA OS
+SETORES ESTRATÉGICOS DA ECONOMIA DO TOCANTINS
+P - P1. Desenho e estruturação organizacional da Agência de Atração de Investimentos e
+Promoção de Comércio Exterior do Estado de Tocantins (Investe TO)
+P - P2. Desenvolvimento de Planejamento Estratégico e de Estratégia de marketing e vendas
+para a atração de investimentos e promoção do comércio exterior do Estado de Tocantins
+P - P3. Implementação da Janela única de Investimentos do Tocantins
+
+P - P4. Desenvolvimento, Implementação e Fortalecimento da Marca Tocantins
+
+P - P5. Estruturação de apoio da Investe TO para os principais municípios e regiões econômicas
+do Tocantins
+P - P6. Serviços de desenvolvimento empresarial para expansão comercial, nacional e
+internacional implementados
+P - P7. Estruturação de plataforma para promoção de bens e serviços do Tocantins, feiras e
+rodadas de negócios
+P - P8. Programa de apoio para as cadeias estratégicas estruturado e implementado
+
+P - P11. Quadro técnico e profissionais de pequenos negócios, negócios de impacto e
+agroindústrias das cadeias selecionadas qualificados
+P - P12. Parque Tecnológico apoiado
+
+P - P13. Laboratórios de prova e infraestrutura de qualidade melhorados
+
+P - P14. Fundo de co-financiamento de projetos/modelos inovadores estruturado
+
+P - P15. Cultura de inovação e novos empreendimentos apoiado
+
+S - S1.2. FORTALECIMENTO DAS CADEIAS PRODUTIVAS ESTRATÉGICAS
+
+P -        P9.  Empreendimentos e inovação das cadeias prioritárias financiadas
+
+P - P10.  Fundo garantidor para inovações nas cadeias prioritárias estruturado
+
+C - C2. FORTALECIMENTO DO TURISMO SUSTENTÁVEL E INCLUSIVO
+
+S - S2.1. INSTRUMENTOS DE GESTÃO SUSTENTÁVEL E RESILIENTE DO TURISMO
+
+P - P16. Plano Estratégico de Turismo Sustentável
+
+P - P17. Implantação de Instrumentos e ferramentas de apoio à implantação do Plano Estratégico
+de Turismo
+P - P18. Plano de gestão de riscos inerentes e vulnerabilidades do turismo às mudanças
+climáticas
+
+15.000,00
+
+60.000,00
+
+150.000,00
+
+600.000,00
+
+9.000,00
+
+15.000,00
+
+60.000,00
+
+60.000,00
+
+6.000,00
+
+36.000,00
+
+60.000,00
+
+240.000,00
+
+240.000,00
+
+24.000,00
+
+60.000,00
+
+240.000,00
+
+3.000,00
+
+6.000,00
+
+12.000,00
+
+24.000,00
+
+51.000,00
+
+204.000,00
+
+690.000,00
+
+2.760.000,00
+
+390.000,00
+
+1.560.000,00
+
+300.000,00
+
+1.200.000,00
+
+45.000,00
+
+15.000,00
+
+15.000,00
+
+15.000,00
+
+180.000,00
+
+60.000,00
+
+60.000,00
+
+60.000,00
+
+75.000,00
+
+300.000,00
+
+3.000,00
+
+6.000,00
+
+6.000,00
+
+12.000,00
+
+24.000,00
+
+24.000,00
+
+60.000,00
+
+240.000,00
+
+1.200.000,00
+
+4.800.000,00
+
+60.000,00
+
+240.000,00
+
+600.000,00
+
+2.400.000,00
+
+300.000,00
+
+1.200.000,00
+
+240.000,00
+
+960.000,00
+
+150.000,00
+
+600.000,00
+
+120.000,00
+
+480.000,00
+
+15.000,00
+
+15.000,00
+
+60.000,00
+
+60.000,00
+
+0,00
+
+3.750.000,00
+
+15.000.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+BID
+
+2.800.000,00
+
+11.200.000,00
+
+2.520.000,00
+
+10.080.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+400.000,00
+
+1.600.000,00
+
+240.000,00
+
+960.000,00
+
+400.000,00
+
+1.600.000,00
+
+160.000,00
+
+640.000,00
+
+120.000,00
+
+480.000,00
+
+280.000,00
+
+1.120.000,00
+
+400.000,00
+
+1.600.000,00
+
+120.000,00
+
+480.000,00
+
+80.000,00
+
+320.000,00
+
+80.000,00
+
+80.000,00
+
+320.000,00
+
+320.000,00
+
+120.000,00
+
+480.000,00
+
+40.000,00
+
+160.000,00
+
+280.000,00
+
+1.120.000,00
+
+80.000,00
+
+320.000,00
+
+200.000,00
+
+800.000,00
+
+800.000,00
+
+3.200.000,00
+
+236.000,00
+
+944.000,00
+
+32.000,00
+
+32.000,00
+
+128.000,00
+
+128.000,00
+
+32.000,00
+
+128.000,00
+
+
+Página: 34
+
+P - P19. Implementação de ações de gestão de riscos e de resiliência climática
+
+P - P20. Modelagem de gestão de áreas e atrativos turísticos de titularidade pública
+
+P - P21. Implantação de sistema de monitoramento da visitação nos atrativos turísticos de
+titularidade pública
+P - P22. Certificação de destinos e atrativos turísticos sustentáveis
+
+S - S2.2 APOIO À CADEIA PRODUTIVA DO TURISMO SUSTENTÁVEL E INCLUSIVO
+
+P - P23. Fundo de financiamento para nano e pequenos empreendimentos geridos pela
+comunidade local
+P - P24. Plano de Marketing Turístico Estadual
+
+P - P25. Implantação de Estratégias de apoio à comercialização e promoção
+
+S - S2.3 MODERNIZAÇÃO DA GOVERNANÇA TURÍSTICA
+
+P - P26. Aquisição de equipamentos para eficiência e sustentabilidade da Setur TO
+
+P - P27. Reforma da sede da Setur TO
+
+P - P28. Qualificação de Gestores públicos estaduais de turismo e áreas correlatas para a gestão
+do turismo sustentável e resiliência
+P - P29. Qualificação de Gestores públicos municipais de turismo e áreas correlatas para a
+gestão do turismo sustentável e resiliência
+P - P30. Sistema Inteligência e Monitoramento de Dados para a Gestão Sustentável do Turismo
+Estadual
+P - P31. Laboratório de Inovação da Gestão Pública em Turismo
+
+P - P32. Assessoria contínua das instâncias de governança turística estaduais, regionais e
+municipais
+C - C3: FORTALECER A SUSTENTABILIDADE DA AGRICULTURA DO TOCANTINS
+
+S - S.3.1: FORTALECIMENTO INSTITUCIONAL PARA IMPLEMENTAÇÃO DO CADASTRO
+AMBIENTAL RURAL E PROGRAMA DE REGULARIZAÇÃO AMBIENTAL
+P - P33. Diagnóstico dos sistemas de informação ambiental
+
+P - P34. Plataforma integrada de análise do CAR
+
+P - P 35.  Análise do Cadastro Ambiental Rural (CAR)
+
+P - P36. Renovação tecnológica para otimização do Centro de Inteligência Geográfica em Gestão
+do Meio Ambiente - CIGMA (incluindo sistemas de predição)
+S - S.3.2 RECUPERAÇÃO DE PASSIVOS AMBIENTAIS E RESTAURAÇÃO FLORESTAL
+
+P - P.37. Mapeamento de áreas degradadas e passivos ambientais
+
+P - P. 38. Elaboração do Plano Estadual de Restauração Florestal
+
+P - P.39. Programa Estadual de Restauração Florestal
+
+P - P. 40. Operacionalização do Programa Estadual de Pagamentos de Serviços Ambientais
+
+P - P. 41. Estruturação dos mecanismos de financiamento do FunClima
+
+S - S.3.3 DESENVOLVIMENTO DE PROJETO PILOTO DE RASTREABILIDADE DE PRODUTOS
+LIVRES DE DESMATAMENTO E DEGRADAÇÃO AMBIENTAL
+P - P.42. Diagnóstico das principais cadeias produtivas agropecuárias
+
+P - P.43. Apoio a certificação de integridade da produção
+
+P - P.44. Projetos pilotos de rastreabilidade implementados
+
+S - S.3.4 DESENVOLVIMENTO DE NEGÓCIOS SUSTENTÁVEIS
+
+P - P45 Elaboração e implementacão de PPR
+
+P - P.46 Assistência Técnica: Capacitação para implementação das atividades
+
+S - S.3.5 INSERÇÃO DE MERCADO DOS PRODUTOS DA AGRICULTURA SUSTENTÁVEL
+
+P - P.47 Estudo de potenciais mercados locais, nacionais e globais para os produtos da
+agricultura sustentável
+P - P.48 Criação e/ou fortalecimento de redes produtivas e de mercado
+
+P - P49.  Implementação de iniciativas de produtores para obtenção de selos verdes ou de
+produção sustentável.
+S - S.3.6 DESENVOLVIMENTO DA PLATAFORMA DE BIOECONOMIA DO ESTADO DO
+TOCANTINS
+P - P.50 Diagnóstico das cadeias da bioeconomia do Estado do Tocantins
+
+P - P51.  Plano de Bioeconomia do Estado do Tocantins
+
+P - P52. Plataforma de negócios sustentáveis da bioeconomia
+
+P - P53. Mecanismos de financiamento da bioeconomia estruturados
+
+C - C4. INVESTIMENTOS PARA A INFRAESTRUTURA LOGÍSTICA HABILITANTE
+
+P - P54. Estudos de Engenharia e outros estudos realizados
+
+P - P55 Rodovia TO-335 reabilitada (30,68 km)
+
+P - P56. Rodovia TO-030 reabilitada (14,07 km)
+
+P - P57. Rodovia TO-222 reabilitada (13,38 km)
+
+C - C5. GESTÃO DO PROGRAMA
+
+P - P58. Unidade Executora do Programa
+
+P - P59. Monitoramento e Avaliação
+
+P - P60. Auditoria do Programa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - ATRAÇÃO DE INVESTIMENTOS E PROMOÇÃO DE COMÉRCIO EXTERIOR PARA O
+DESENVOLVIMENTO ECONÔMICO SUSTENTÁVEL DO TOCANTINS
+S - ATRAÇÃO DE INVESTIMENTOS E PROMOÇÃO DO COMÉRCIO EXTERIOR PARA OS
+SETORES ESTRATÉGICOS DA ECONOMIA DO TOCANTINS
+
+48.000,00
+
+28.000,00
+
+32.000,00
+
+192.000,00
+
+112.000,00
+
+128.000,00
+
+32.000,00
+
+128.000,00
+
+336.000,00
+
+1.344.000,00
+
+240.000,00
+
+960.000,00
+
+32.000,00
+
+64.000,00
+
+128.000,00
+
+256.000,00
+
+228.000,00
+
+912.000,00
+
+32.000,00
+
+44.000,00
+
+24.000,00
+
+128.000,00
+
+176.000,00
+
+96.000,00
+
+24.000,00
+
+96.000,00
+
+48.000,00
+
+192.000,00
+
+32.000,00
+
+24.000,00
+
+128.000,00
+
+96.000,00
+
+2.800.000,00
+
+11.200.000,00
+
+80.000,00
+
+320.000,00
+
+4.000,00
+
+16.000,00
+
+20.000,00
+
+40.000,00
+
+16.000,00
+
+64.000,00
+
+80.000,00
+
+160.000,00
+
+400.000,00
+
+1.600.000,00
+
+24.000,00
+
+40.000,00
+
+96.000,00
+
+160.000,00
+
+160.000,00
+
+640.000,00
+
+160.000,00
+
+640.000,00
+
+16.000,00
+
+64.000,00
+
+160.000,00
+
+640.000,00
+
+8.000,00
+
+16.000,00
+
+32.000,00
+
+64.000,00
+
+136.000,00
+
+544.000,00
+
+1.840.000,00
+
+7.360.000,00
+
+1.040.000,00
+
+4.160.000,00
+
+800.000,00
+
+3.200.000,00
+
+120.000,00
+
+480.000,00
+
+40.000,00
+
+160.000,00
+
+40.000,00
+
+40.000,00
+
+160.000,00
+
+160.000,00
+
+200.000,00
+
+800.000,00
+
+8.000,00
+
+16.000,00
+
+16.000,00
+
+32.000,00
+
+64.000,00
+
+64.000,00
+
+160.000,00
+
+640.000,00
+
+3.200.000,00
+
+12.800.000,00
+
+160.000,00
+
+640.000,00
+
+1.600.000,00
+
+6.400.000,00
+
+800.000,00
+
+3.200.000,00
+
+640.000,00
+
+2.560.000,00
+
+400.000,00
+
+1.600.000,00
+
+320.000,00
+
+1.280.000,00
+
+40.000,00
+
+40.000,00
+
+160.000,00
+
+160.000,00
+
+0,00
+
+10.000.000,00
+
+40.000.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+BID
+
+2.100.000,00
+
+8.400.000,00
+
+1.890.000,00
+
+7.560.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+
+Página: 35
+
+P - P1. Desenho e estruturação organizacional da Agência de Atração de Investimentos e
+Promoção de Comércio Exterior do Estado de Tocantins (Investe TO)
+P - P2. Desenvolvimento de Planejamento Estratégico e de Estratégia de marketing e vendas
+para a atração de investimentos e promoção do comércio exterior do Estado de Tocantins
+P - P3. Implementação da Janela única de Investimentos do Tocantins
+
+P - P4. Desenvolvimento, Implementação e Fortalecimento da Marca Tocantins
+
+P - P5. Estruturação de apoio da Investe TO para os principais municípios e regiões econômicas
+do Tocantins
+P - P6. Serviços de desenvolvimento empresarial para expansão comercial, nacional e
+internacional implementados
+P - P7. Estruturação de plataforma para promoção de bens e serviços do Tocantins, feiras e
+rodadas de negócios
+P - P8. Programa de apoio para as cadeias estratégicas estruturado e implementado
+
+P - P11. Quadro técnico e profissionais de pequenos negócios, negócios de impacto e
+agroindústrias das cadeias selecionadas qualificados
+P - P12. Parque Tecnológico apoiado
+
+P - P13. Laboratórios de prova e infraestrutura de qualidade melhorados
+
+P - P14. Fundo de co-financiamento de projetos/modelos inovadores estruturado
+
+P - P15. Cultura de inovação e novos empreendimentos apoiado
+
+S - S1.2. FORTALECIMENTO DAS CADEIAS PRODUTIVAS ESTRATÉGICAS
+
+P -        P9.  Empreendimentos e inovação das cadeias prioritárias financiadas
+
+P - P10.  Fundo garantidor para inovações nas cadeias prioritárias estruturado
+
+C - C2. FORTALECIMENTO DO TURISMO SUSTENTÁVEL E INCLUSIVO
+
+S - S2.1. INSTRUMENTOS DE GESTÃO SUSTENTÁVEL E RESILIENTE DO TURISMO
+
+P - P16. Plano Estratégico de Turismo Sustentável
+
+P - P17. Implantação de Instrumentos e ferramentas de apoio à implantação do Plano Estratégico
+de Turismo
+P - P18. Plano de gestão de riscos inerentes e vulnerabilidades do turismo às mudanças
+climáticas
+P - P19. Implementação de ações de gestão de riscos e de resiliência climática
+
+P - P20. Modelagem de gestão de áreas e atrativos turísticos de titularidade pública
+
+P - P21. Implantação de sistema de monitoramento da visitação nos atrativos turísticos de
+titularidade pública
+P - P22. Certificação de destinos e atrativos turísticos sustentáveis
+
+S - S2.2 APOIO À CADEIA PRODUTIVA DO TURISMO SUSTENTÁVEL E INCLUSIVO
+
+P - P23. Fundo de financiamento para nano e pequenos empreendimentos geridos pela
+comunidade local
+P - P24. Plano de Marketing Turístico Estadual
+
+P - P25. Implantação de Estratégias de apoio à comercialização e promoção
+
+S - S2.3 MODERNIZAÇÃO DA GOVERNANÇA TURÍSTICA
+
+P - P26. Aquisição de equipamentos para eficiência e sustentabilidade da Setur TO
+
+P - P27. Reforma da sede da Setur TO
+
+P - P28. Qualificação de Gestores públicos estaduais de turismo e áreas correlatas para a gestão
+do turismo sustentável e resiliência
+P - P29. Qualificação de Gestores públicos municipais de turismo e áreas correlatas para a
+gestão do turismo sustentável e resiliência
+P - P30. Sistema Inteligência e Monitoramento de Dados para a Gestão Sustentável do Turismo
+Estadual
+P - P31. Laboratório de Inovação da Gestão Pública em Turismo
+
+P - P32. Assessoria contínua das instâncias de governança turística estaduais, regionais e
+municipais
+C - C3: FORTALECER A SUSTENTABILIDADE DA AGRICULTURA DO TOCANTINS
+
+S - S.3.1: FORTALECIMENTO INSTITUCIONAL PARA IMPLEMENTAÇÃO DO CADASTRO
+AMBIENTAL RURAL E PROGRAMA DE REGULARIZAÇÃO AMBIENTAL
+P - P33. Diagnóstico dos sistemas de informação ambiental
+
+P - P34. Plataforma integrada de análise do CAR
+
+P - P 35.  Análise do Cadastro Ambiental Rural (CAR)
+
+P - P36. Renovação tecnológica para otimização do Centro de Inteligência Geográfica em Gestão
+do Meio Ambiente - CIGMA (incluindo sistemas de predição)
+S - S.3.2 RECUPERAÇÃO DE PASSIVOS AMBIENTAIS E RESTAURAÇÃO FLORESTAL
+
+P - P.37. Mapeamento de áreas degradadas e passivos ambientais
+
+P - P. 38. Elaboração do Plano Estadual de Restauração Florestal
+
+P - P.39. Programa Estadual de Restauração Florestal
+
+P - P. 40. Operacionalização do Programa Estadual de Pagamentos de Serviços Ambientais
+
+P - P. 41. Estruturação dos mecanismos de financiamento do FunClima
+
+S - S.3.3 DESENVOLVIMENTO DE PROJETO PILOTO DE RASTREABILIDADE DE PRODUTOS
+LIVRES DE DESMATAMENTO E DEGRADAÇÃO AMBIENTAL
+P - P.42. Diagnóstico das principais cadeias produtivas agropecuárias
+
+P - P.43. Apoio a certificação de integridade da produção
+
+P - P.44. Projetos pilotos de rastreabilidade implementados
+
+S - S.3.4 DESENVOLVIMENTO DE NEGÓCIOS SUSTENTÁVEIS
+
+P - P45 Elaboração e implementacão de PPR
+
+P - P.46 Assistência Técnica: Capacitação para implementação das atividades
+
+S - S.3.5 INSERÇÃO DE MERCADO DOS PRODUTOS DA AGRICULTURA SUSTENTÁVEL
+
+P - P.47 Estudo de potenciais mercados locais, nacionais e globais para os produtos da
+agricultura sustentável
+P - P.48 Criação e/ou fortalecimento de redes produtivas e de mercado
+
+300.000,00
+
+1.200.000,00
+
+180.000,00
+
+720.000,00
+
+300.000,00
+
+1.200.000,00
+
+120.000,00
+
+480.000,00
+
+90.000,00
+
+360.000,00
+
+210.000,00
+
+840.000,00
+
+300.000,00
+
+1.200.000,00
+
+90.000,00
+
+60.000,00
+
+60.000,00
+
+60.000,00
+
+90.000,00
+
+30.000,00
+
+360.000,00
+
+240.000,00
+
+240.000,00
+
+240.000,00
+
+360.000,00
+
+120.000,00
+
+210.000,00
+
+840.000,00
+
+60.000,00
+
+240.000,00
+
+150.000,00
+
+600.000,00
+
+600.000,00
+
+2.400.000,00
+
+177.000,00
+
+708.000,00
+
+24.000,00
+
+24.000,00
+
+96.000,00
+
+96.000,00
+
+24.000,00
+
+96.000,00
+
+36.000,00
+
+21.000,00
+
+24.000,00
+
+144.000,00
+
+84.000,00
+
+96.000,00
+
+24.000,00
+
+96.000,00
+
+252.000,00
+
+1.008.000,00
+
+180.000,00
+
+720.000,00
+
+24.000,00
+
+48.000,00
+
+96.000,00
+
+192.000,00
+
+171.000,00
+
+684.000,00
+
+24.000,00
+
+33.000,00
+
+18.000,00
+
+96.000,00
+
+132.000,00
+
+72.000,00
+
+18.000,00
+
+72.000,00
+
+36.000,00
+
+144.000,00
+
+24.000,00
+
+18.000,00
+
+96.000,00
+
+72.000,00
+
+2.100.000,00
+
+8.400.000,00
+
+60.000,00
+
+240.000,00
+
+3.000,00
+
+12.000,00
+
+15.000,00
+
+30.000,00
+
+12.000,00
+
+48.000,00
+
+60.000,00
+
+120.000,00
+
+300.000,00
+
+1.200.000,00
+
+18.000,00
+
+30.000,00
+
+72.000,00
+
+120.000,00
+
+120.000,00
+
+480.000,00
+
+120.000,00
+
+480.000,00
+
+12.000,00
+
+48.000,00
+
+120.000,00
+
+480.000,00
+
+6.000,00
+
+12.000,00
+
+24.000,00
+
+48.000,00
+
+102.000,00
+
+408.000,00
+
+1.380.000,00
+
+5.520.000,00
+
+780.000,00
+
+3.120.000,00
+
+600.000,00
+
+2.400.000,00
+
+90.000,00
+
+30.000,00
+
+360.000,00
+
+120.000,00
+
+30.000,00
+
+120.000,00
+
+
+Página: 36
+
+P - P49.  Implementação de iniciativas de produtores para obtenção de selos verdes ou de
+produção sustentável.
+S - S.3.6 DESENVOLVIMENTO DA PLATAFORMA DE BIOECONOMIA DO ESTADO DO
+TOCANTINS
+P - P.50 Diagnóstico das cadeias da bioeconomia do Estado do Tocantins
+
+P - P51.  Plano de Bioeconomia do Estado do Tocantins
+
+P - P52. Plataforma de negócios sustentáveis da bioeconomia
+
+P - P53. Mecanismos de financiamento da bioeconomia estruturados
+
+C - C4. INVESTIMENTOS PARA A INFRAESTRUTURA LOGÍSTICA HABILITANTE
+
+P - P54. Estudos de Engenharia e outros estudos realizados
+
+P - P55 Rodovia TO-335 reabilitada (30,68 km)
+
+P - P56. Rodovia TO-030 reabilitada (14,07 km)
+
+P - P57. Rodovia TO-222 reabilitada (13,38 km)
+
+C - C5. GESTÃO DO PROGRAMA
+
+P - P58. Unidade Executora do Programa
+
+P - P59. Monitoramento e Avaliação
+
+P - P60. Auditoria do Programa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - ATRAÇÃO DE INVESTIMENTOS E PROMOÇÃO DE COMÉRCIO EXTERIOR PARA O
+DESENVOLVIMENTO ECONÔMICO SUSTENTÁVEL DO TOCANTINS
+S - ATRAÇÃO DE INVESTIMENTOS E PROMOÇÃO DO COMÉRCIO EXTERIOR PARA OS
+SETORES ESTRATÉGICOS DA ECONOMIA DO TOCANTINS
+P - P1. Desenho e estruturação organizacional da Agência de Atração de Investimentos e
+Promoção de Comércio Exterior do Estado de Tocantins (Investe TO)
+P - P2. Desenvolvimento de Planejamento Estratégico e de Estratégia de marketing e vendas
+para a atração de investimentos e promoção do comércio exterior do Estado de Tocantins
+P - P3. Implementação da Janela única de Investimentos do Tocantins
+
+P - P4. Desenvolvimento, Implementação e Fortalecimento da Marca Tocantins
+
+P - P5. Estruturação de apoio da Investe TO para os principais municípios e regiões econômicas
+do Tocantins
+P - P6. Serviços de desenvolvimento empresarial para expansão comercial, nacional e
+internacional implementados
+P - P7. Estruturação de plataforma para promoção de bens e serviços do Tocantins, feiras e
+rodadas de negócios
+P - P8. Programa de apoio para as cadeias estratégicas estruturado e implementado
+
+P - P11. Quadro técnico e profissionais de pequenos negócios, negócios de impacto e
+agroindústrias das cadeias selecionadas qualificados
+P - P12. Parque Tecnológico apoiado
+
+P - P13. Laboratórios de prova e infraestrutura de qualidade melhorados
+
+P - P14. Fundo de co-financiamento de projetos/modelos inovadores estruturado
+
+P - P15. Cultura de inovação e novos empreendimentos apoiado
+
+S - S1.2. FORTALECIMENTO DAS CADEIAS PRODUTIVAS ESTRATÉGICAS
+
+P -        P9.  Empreendimentos e inovação das cadeias prioritárias financiadas
+
+P - P10.  Fundo garantidor para inovações nas cadeias prioritárias estruturado
+
+30.000,00
+
+120.000,00
+
+150.000,00
+
+600.000,00
+
+6.000,00
+
+12.000,00
+
+12.000,00
+
+24.000,00
+
+48.000,00
+
+48.000,00
+
+120.000,00
+
+480.000,00
+
+2.400.000,00
+
+9.600.000,00
+
+120.000,00
+
+480.000,00
+
+1.200.000,00
+
+4.800.000,00
+
+600.000,00
+
+2.400.000,00
+
+480.000,00
+
+1.920.000,00
+
+300.000,00
+
+1.200.000,00
+
+240.000,00
+
+960.000,00
+
+30.000,00
+
+30.000,00
+
+120.000,00
+
+120.000,00
+
+0,00
+
+7.500.000,00
+
+30.000.000,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+BID
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+700.000,00
+
+2.800.000,00
+
+7.000.000,00
+
+28.000.000,00
+
+630.000,00
+
+2.520.000,00
+
+6.300.000,00
+
+25.200.000,00
+
+100.000,00
+
+400.000,00
+
+1.000.000,00
+
+4.000.000,00
+
+60.000,00
+
+240.000,00
+
+600.000,00
+
+2.400.000,00
+
+100.000,00
+
+400.000,00
+
+1.000.000,00
+
+4.000.000,00
+
+40.000,00
+
+30.000,00
+
+160.000,00
+
+400.000,00
+
+1.600.000,00
+
+120.000,00
+
+300.000,00
+
+1.200.000,00
+
+70.000,00
+
+280.000,00
+
+700.000,00
+
+2.800.000,00
+
+100.000,00
+
+400.000,00
+
+1.000.000,00
+
+4.000.000,00
+
+30.000,00
+
+20.000,00
+
+20.000,00
+
+20.000,00
+
+30.000,00
+
+10.000,00
+
+70.000,00
+
+20.000,00
+
+50.000,00
+
+120.000,00
+
+300.000,00
+
+1.200.000,00
+
+80.000,00
+
+200.000,00
+
+800.000,00
+
+80.000,00
+
+80.000,00
+
+200.000,00
+
+800.000,00
+
+200.000,00
+
+800.000,00
+
+120.000,00
+
+300.000,00
+
+1.200.000,00
+
+40.000,00
+
+100.000,00
+
+400.000,00
+
+280.000,00
+
+700.000,00
+
+2.800.000,00
+
+80.000,00
+
+200.000,00
+
+800.000,00
+
+200.000,00
+
+500.000,00
+
+2.000.000,00
+
+C - C2. FORTALECIMENTO DO TURISMO SUSTENTÁVEL E INCLUSIVO
+
+200.000,00
+
+800.000,00
+
+2.000.000,00
+
+8.000.000,00
+
+S - S2.1. INSTRUMENTOS DE GESTÃO SUSTENTÁVEL E RESILIENTE DO TURISMO
+
+59.000,00
+
+236.000,00
+
+590.000,00
+
+2.360.000,00
+
+P - P16. Plano Estratégico de Turismo Sustentável
+
+P - P17. Implantação de Instrumentos e ferramentas de apoio à implantação do Plano Estratégico
+de Turismo
+P - P18. Plano de gestão de riscos inerentes e vulnerabilidades do turismo às mudanças
+climáticas
+P - P19. Implementação de ações de gestão de riscos e de resiliência climática
+
+P - P20. Modelagem de gestão de áreas e atrativos turísticos de titularidade pública
+
+P - P21. Implantação de sistema de monitoramento da visitação nos atrativos turísticos de
+titularidade pública
+P - P22. Certificação de destinos e atrativos turísticos sustentáveis
+
+S - S2.2 APOIO À CADEIA PRODUTIVA DO TURISMO SUSTENTÁVEL E INCLUSIVO
+
+P - P23. Fundo de financiamento para nano e pequenos empreendimentos geridos pela
+comunidade local
+P - P24. Plano de Marketing Turístico Estadual
+
+P - P25. Implantação de Estratégias de apoio à comercialização e promoção
+
+S - S2.3 MODERNIZAÇÃO DA GOVERNANÇA TURÍSTICA
+
+P - P26. Aquisição de equipamentos para eficiência e sustentabilidade da Setur TO
+
+P - P27. Reforma da sede da Setur TO
+
+P - P28. Qualificação de Gestores públicos estaduais de turismo e áreas correlatas para a gestão
+do turismo sustentável e resiliência
+P - P29. Qualificação de Gestores públicos municipais de turismo e áreas correlatas para a
+gestão do turismo sustentável e resiliência
+P - P30. Sistema Inteligência e Monitoramento de Dados para a Gestão Sustentável do Turismo
+Estadual
+P - P31. Laboratório de Inovação da Gestão Pública em Turismo
+
+P - P32. Assessoria contínua das instâncias de governança turística estaduais, regionais e
+municipais
+
+8.000,00
+
+8.000,00
+
+32.000,00
+
+32.000,00
+
+80.000,00
+
+80.000,00
+
+320.000,00
+
+320.000,00
+
+8.000,00
+
+32.000,00
+
+80.000,00
+
+320.000,00
+
+12.000,00
+
+7.000,00
+
+8.000,00
+
+8.000,00
+
+84.000,00
+
+60.000,00
+
+8.000,00
+
+16.000,00
+
+57.000,00
+
+8.000,00
+
+11.000,00
+
+6.000,00
+
+48.000,00
+
+28.000,00
+
+32.000,00
+
+120.000,00
+
+480.000,00
+
+70.000,00
+
+80.000,00
+
+280.000,00
+
+320.000,00
+
+32.000,00
+
+80.000,00
+
+320.000,00
+
+336.000,00
+
+840.000,00
+
+3.360.000,00
+
+240.000,00
+
+600.000,00
+
+2.400.000,00
+
+32.000,00
+
+64.000,00
+
+80.000,00
+
+320.000,00
+
+160.000,00
+
+640.000,00
+
+228.000,00
+
+570.000,00
+
+2.280.000,00
+
+32.000,00
+
+44.000,00
+
+24.000,00
+
+80.000,00
+
+320.000,00
+
+110.000,00
+
+440.000,00
+
+60.000,00
+
+240.000,00
+
+6.000,00
+
+24.000,00
+
+60.000,00
+
+240.000,00
+
+12.000,00
+
+48.000,00
+
+120.000,00
+
+480.000,00
+
+8.000,00
+
+6.000,00
+
+32.000,00
+
+24.000,00
+
+80.000,00
+
+60.000,00
+
+320.000,00
+
+240.000,00
+
+
+Página: 37
+
+C - C3: FORTALECER A SUSTENTABILIDADE DA AGRICULTURA DO TOCANTINS
+
+700.000,00
+
+2.800.000,00
+
+7.000.000,00
+
+28.000.000,00
+
+S - S.3.1: FORTALECIMENTO INSTITUCIONAL PARA IMPLEMENTAÇÃO DO CADASTRO
+AMBIENTAL RURAL E PROGRAMA DE REGULARIZAÇÃO AMBIENTAL
+P - P33. Diagnóstico dos sistemas de informação ambiental
+
+P - P34. Plataforma integrada de análise do CAR
+
+P - P 35.  Análise do Cadastro Ambiental Rural (CAR)
+
+P - P36. Renovação tecnológica para otimização do Centro de Inteligência Geográfica em Gestão
+do Meio Ambiente - CIGMA (incluindo sistemas de predição)
+S - S.3.2 RECUPERAÇÃO DE PASSIVOS AMBIENTAIS E RESTAURAÇÃO FLORESTAL
+
+P - P.37. Mapeamento de áreas degradadas e passivos ambientais
+
+P - P. 38. Elaboração do Plano Estadual de Restauração Florestal
+
+P - P.39. Programa Estadual de Restauração Florestal
+
+P - P. 40. Operacionalização do Programa Estadual de Pagamentos de Serviços Ambientais
+
+P - P. 41. Estruturação dos mecanismos de financiamento do FunClima
+
+S - S.3.3 DESENVOLVIMENTO DE PROJETO PILOTO DE RASTREABILIDADE DE PRODUTOS
+LIVRES DE DESMATAMENTO E DEGRADAÇÃO AMBIENTAL
+P - P.42. Diagnóstico das principais cadeias produtivas agropecuárias
+
+P - P.43. Apoio a certificação de integridade da produção
+
+P - P.44. Projetos pilotos de rastreabilidade implementados
+
+S - S.3.4 DESENVOLVIMENTO DE NEGÓCIOS SUSTENTÁVEIS
+
+P - P45 Elaboração e implementacão de PPR
+
+20.000,00
+
+80.000,00
+
+200.000,00
+
+800.000,00
+
+1.000,00
+
+4.000,00
+
+5.000,00
+
+10.000,00
+
+4.000,00
+
+16.000,00
+
+20.000,00
+
+40.000,00
+
+10.000,00
+
+40.000,00
+
+50.000,00
+
+40.000,00
+
+160.000,00
+
+200.000,00
+
+100.000,00
+
+400.000,00
+
+100.000,00
+
+400.000,00
+
+1.000.000,00
+
+4.000.000,00
+
+6.000,00
+
+10.000,00
+
+40.000,00
+
+40.000,00
+
+4.000,00
+
+24.000,00
+
+40.000,00
+
+60.000,00
+
+240.000,00
+
+100.000,00
+
+400.000,00
+
+160.000,00
+
+400.000,00
+
+1.600.000,00
+
+160.000,00
+
+400.000,00
+
+1.600.000,00
+
+16.000,00
+
+40.000,00
+
+160.000,00
+
+40.000,00
+
+160.000,00
+
+400.000,00
+
+1.600.000,00
+
+2.000,00
+
+4.000,00
+
+8.000,00
+
+16.000,00
+
+20.000,00
+
+40.000,00
+
+80.000,00
+
+160.000,00
+
+34.000,00
+
+136.000,00
+
+340.000,00
+
+1.360.000,00
+
+460.000,00
+
+1.840.000,00
+
+4.600.000,00
+
+18.400.000,00
+
+260.000,00
+
+1.040.000,00
+
+2.600.000,00
+
+10.400.000,00
+
+P - P.46 Assistência Técnica: Capacitação para implementação das atividades
+
+200.000,00
+
+800.000,00
+
+2.000.000,00
+
+8.000.000,00
+
+S - S.3.5 INSERÇÃO DE MERCADO DOS PRODUTOS DA AGRICULTURA SUSTENTÁVEL
+
+P - P.47 Estudo de potenciais mercados locais, nacionais e globais para os produtos da
+agricultura sustentável
+P - P.48 Criação e/ou fortalecimento de redes produtivas e de mercado
+
+P - P49.  Implementação de iniciativas de produtores para obtenção de selos verdes ou de
+produção sustentável.
+S - S.3.6 DESENVOLVIMENTO DA PLATAFORMA DE BIOECONOMIA DO ESTADO DO
+TOCANTINS
+P - P.50 Diagnóstico das cadeias da bioeconomia do Estado do Tocantins
+
+P - P51.  Plano de Bioeconomia do Estado do Tocantins
+
+P - P52. Plataforma de negócios sustentáveis da bioeconomia
+
+P - P53. Mecanismos de financiamento da bioeconomia estruturados
+
+30.000,00
+
+10.000,00
+
+10.000,00
+
+10.000,00
+
+120.000,00
+
+300.000,00
+
+1.200.000,00
+
+40.000,00
+
+100.000,00
+
+400.000,00
+
+40.000,00
+
+40.000,00
+
+100.000,00
+
+400.000,00
+
+100.000,00
+
+400.000,00
+
+50.000,00
+
+200.000,00
+
+500.000,00
+
+2.000.000,00
+
+2.000,00
+
+4.000,00
+
+4.000,00
+
+8.000,00
+
+16.000,00
+
+16.000,00
+
+20.000,00
+
+40.000,00
+
+40.000,00
+
+80.000,00
+
+160.000,00
+
+160.000,00
+
+40.000,00
+
+160.000,00
+
+400.000,00
+
+1.600.000,00
+
+C - C4. INVESTIMENTOS PARA A INFRAESTRUTURA LOGÍSTICA HABILITANTE
+
+800.000,00
+
+3.200.000,00
+
+8.000.000,00
+
+32.000.000,00
+
+P - P54. Estudos de Engenharia e outros estudos realizados
+
+P - P55 Rodovia TO-335 reabilitada (30,68 km)
+
+P - P56. Rodovia TO-030 reabilitada (14,07 km)
+
+P - P57. Rodovia TO-222 reabilitada (13,38 km)
+
+C - C5. GESTÃO DO PROGRAMA
+
+P - P58. Unidade Executora do Programa
+
+P - P59. Monitoramento e Avaliação
+
+P - P60. Auditoria do Programa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+5.1.Riscos/Atos Legais
+
+40.000,00
+
+160.000,00
+
+400.000,00
+
+1.600.000,00
+
+400.000,00
+
+1.600.000,00
+
+4.000.000,00
+
+16.000.000,00
+
+200.000,00
+
+800.000,00
+
+2.000.000,00
+
+8.000.000,00
+
+160.000,00
+
+640.000,00
+
+1.600.000,00
+
+6.400.000,00
+
+100.000,00
+
+400.000,00
+
+1.000.000,00
+
+4.000.000,00
+
+80.000,00
+
+10.000,00
+
+10.000,00
+
+320.000,00
+
+800.000,00
+
+3.200.000,00
+
+40.000,00
+
+40.000,00
+
+100.000,00
+
+400.000,00
+
+100.000,00
+
+400.000,00
+
+125.000.000,00
+
+2.500.000,00
+
+10.000.000,00
+
+25.000.000,00
+
+100.000.000,00
+
+O principal risco reside nos atos legais necessários para a instalação do mecanismo de governança do projeto. Por ser um projeto
+multidisciplinar, as distintas secretarias devem assinar convênios com as agências executoras, que detalham especificamente as
+responsabilidades e tarefas de cada uma das instituições. A criação da Agência de Atração de Investimentos e Promoção do Comércio
+Exterior também dependerá de ato legal próprio. Adicionalmente, lei autorizativa precisará tramitar na Assembleia Legislativa do Tocantins
+para aprovação da operação em nível local.
+
+Mitigação
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 38
+
+Para mitigar o risco de falta de governança para execução do Programa, estabelecer-se-á formação da Unidade de Gestão do Programa
+como uma das condições necessários para o contrato a ser firmado entre o Estado do Tocantins e o BID, além da celebração de
+instrumentos interinstitucionais entre os órgãos e entidades do Estado e a aprovação do Manual Operacional do Programa. Em relação
+aos atos legais relacionados à autorização do Programa na Assembleia Legislativa do Tocantins e à criação da Agência de Atração de
+Investimentos e Promoção do Comércio Exterior, o Estado trabalhará, desde o início da preparação do Programa, junto às lideranças
+políticas locais para a explicação sobre os objetivos da operação e os resultados esperados. Adicionalmente, o setor privado local será
+envolvido no processo de preparação do Programa, a fim de garantir seu apoio à execução e implementação do Tocantins Mais
+Sustentável.  Por fim, durante o período de preparação, haverá reuniões com os principais órgãos de consutoria, controle e fiscalização do
+Tocantins: Tribunal de Contas do Estado (TCE/TO), Controladoria Geral do Estado (CGE/TO), e Procuradoria-Geral do Estado (PGE/TO).
+O TCE/TO fiscalizará a execução do Programa.
+
+5.2. RISCOS/CONTRATAÇÕES
+5.2.Riscos/Contratações
+
+As atividades do Programa de Desenvolvimento Econômico Sustentável do Tocantins independem de contratação prévia de pessoal para
+serem iniciadas. Para auxiliar a UGP na interlocução entre o Mutuário e Agente Financiador, assim como nas atividades de monitoramento
+, avaliação e prestação de contas do Programa, consultores individuais especialistas poderão ser contratados nas áreas de comércio e
+investimento, inovação, meio ambiente, logística e transportes, agricultura, turismo, e gestão de projetos.
+
+O reduzido efetivo pessoal especializado para gerenciamento técnico das atividades do projeto, incluindo a supervisão de serviços e
+suporte a gestão do contrato, são riscos potenciais identificados. Para a mitigação dos riscos, a contratação de consultores individuais,
+com experiência demonstrada nas áreas e especialidades necessárias para as ações de execução e gerenciamento do Projeto será
+avaliada. Não apenas como forma de mitigação, mas associado ao projeto, já está dimensionado: (i) gastos para contratação de pessoal
+de suporte para a execução do projeto; (ii) consultores técnicos e estudos. Além disso, pretende-se mitigar o risco com a criação e o
+fortalecimento da UGP e treinamentos sucessivos em políticas de aquisição de bens e consultorias do BID para o pessoal alocado.. Vale
+lembrar que o BID aplica a metodologia PACI como instrumento de preparação do projeto, que definirá a capacidade institucional do
+estado e um plano de implementação de medidas necessárias para mitigar os riscos de execução, em todas suas dimensões.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+5.3.Riscos/Desapropriações
+
+Não há riscos de desapropriações
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+5.4.Riscos/Impactos Ambientais
+
+Os principais riscos de impactos negativos estão relacionados com a pavimentação asfáltica em suas diferentes fases construtivas, e
+ligadas ao armazenamento, transporte de produtos derivados de petróleo, como o cimento asfáltico pétreo (CAP), lubrificantes e
+combustíveis, que são utilizados nos veículos e maquinários durante o processo de usinagem e aplicação do concreto asfáltico. Quando
+não gerenciados corretamente, podem levar à contaminação do solo, corpos hídricos, lençol freático, emissão e exportação de partículas
+sólidas e gases para a atmosfera, produção de ruídos e níveis sonoros elevados, resíduos e efluentes, com impactos ao meio ambiente e
+populações locais. A presença e o comportamento dos trabalhadores também representam riscos ao meio ambiente, em especial para a
+fauna, flora, recursos hídricos, que podem sofrer impactos negativos com atividades de caça, pesca, supressão vegetal, incêndios
+florestais, contaminação de solo, cursos d'água e nascentes. Cabe ressaltar que o Projeto também proporcionará impactos positivos:
+podemos destacar as melhorias na gestão da infraestrutura rodoviária, em especial dos dispositivos de drenagem, que reduzem a
+formação de processos erosivos, assoreamentos de cursos d?água e nascentes, sinalização ambiental educativa, que contribui para a
+redução de acidentes com usuários e os atropelamentos da fauna nativa, e fomento para melhor gestão e conservação dos recursos
+naturais, com a aquisição de equipamentos e capacitação de servidores estaduais.
+
+Durante a execução, pode haver lentidão no processo de licenças ambientais para as obras de infraestrutura, porém esses riscos são
+baixos. a Lei Estadual n. 3.804, de 29 de julho de 2021, estabelece normas, procedimentos e descreve as atividades sujeitas ao
+licenciamento ambiental, determina as modalidades de licença, estudos necessários e documentação complementar, considerando a
+categoria e magnitude dos impactos gerados, relacionados a atividade a ser licenciada. O licenciamento ambiental no Estado é gerenciado
+pelo Instituto da Natureza de Tocantins (Naturatins), autarquia vinculada à Secretaria de Meio Ambiente e Recursos Hídricos (SEMARH),
+e deverá ser tramitado pelo Estado, através de suas autarquias responsáveis ao tema.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 39
+
+Ações Mitigadoras:
+
+Para as obras na malha rodoviária previstas na presente iniciativa, a Agência de Transportes, Obras e Infraestrutura elaborará o Estudo de
+Impacto Ambiental (EIA) e o Plano de Gerenciamento Ambiental, os quais são condição para a obtenção de licenciamento ambiental junto
+ao Instituto Natureza do Tocantins (Naturatins). No entanto, os empreendimentos identificados preliminarmente são de baixo impacto e o
+controle de qualidade de execução da obra conseguirá mitigar esses impactos.
+
+A regulamentação do Código Florestal e avanços na regularização ambiental aumentarão a capacidade do Estado de monitorar e fiscalizar
+o desmatamento ilegal. Ademais, avanços na regularização e a implantação de incentivos para restauração, incluindo o pagamento por
+serviços ambientais, devem fomentar a restauração de passivos existentes e possibilitar, portanto, a criação de paisagens que combinam,
+de forma sustentável, a produção e a conservação da vegetação nativa e da biodiversidade.
+
+Sobre o licenciamento ambiental, o Programa terá um esquema institucional de coordenação entre as distintas secretarias, incluindo a
+SEMARH. No Manual operativo, será mencionado claramente as funções de cada instituição, os documentos e os trâmites necessários. A
+preparação do projeto contará com  apoio de assistência técnica do BID para adiantar os planos de gestão socioambiental do Programa, e
+os estudos de engenharia necessários para cumprir as etapas de pré-construção.
+
+O Programa deverá aderir às Políticas Socioambientais do BID, de 31 de outubro de 2021.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+5.5.Riscos/Impactos Sociais
+
+Espera-se da presente iniciativa impactos sociais e socioeconômicos positivos, de maneira direta e indireta, principalmente por meio do
+apoio para a inclusão de pequenos produtores rurais no mercado formal de alimentos e produtos agrícolas, para a criação e o
+fortalecimento da bioeconomia , das cadeias prioritárias e do turismo em regiões de comunidades tradicionais, bem como a criação de
+empregos qualificados a partir da atração de investimentos privados em setores estratégicos da economia tocantinense. . Espera-se que o
+Programa gere impactos ambientais positivos, valorize e conserve culturas tradicionais, e amplie oportunidades de consumo e lazer. Não
+há previsão de riscos sociais na reabilitação da infraestrutura rodoviária.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+5.6.Riscos/Assentamentos
+
+O Programa não prevê reassentamentos.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)

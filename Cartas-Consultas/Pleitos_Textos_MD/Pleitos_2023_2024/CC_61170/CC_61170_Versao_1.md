@@ -1,0 +1,1709 @@
+# Carta-Consulta CC_61170 — Versao 1 (SIGS)
+
+
+CARTA CONSULTA
+
+Programa de Financiamento à Descarbonização da Indústria
+
+Nº Carta Consulta: 61170
+Mutuário: Banco do Nordeste do Brasil - BNB
+Tipo de Operação: Operação de crédito externo
+
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 500.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+Em adição aos significativos danos socioeconômicos causados atualmente pelos impactos das mudanças climáticas, estima-se que este
+fenômeno pode gerar perdas de até 18% do PIB global no futuro se medidas para sua mitigação não forem tomadas(1).  Segundo o Banco
+Mundial, 132 milhões de pessoas podem ser colocadas em situação de extrema pobreza já em 2030 (2) e até 216 milhões poderiam ser
+desalojadas por eventos climáticos extremos até 2050 no mundo(3).
+
+De modo a enfrentar tal realidade, o mundo definiu metas para a mitigação de emissões de gases de efeito estufa (GEE), bem como
+medidas para se adaptar às novas condições do clima global. No Acordo de Paris (AP), definiu-se o desafio de limitar o aumento da
+temperatura média global a 1,5°C acima dos níveis pré-industriais. Especialistas indicam que alcançar tal objetivo será extremamente
+desafiador, sendo necessárias ações profundas de descarbonização em todos os setores econômicos em nível mundial.
+
+No âmbito do AP, o Brasil definiu sua Contribuição Nacionalmente Determinada (NDC), que envolve metas para a redução de suas
+emissões de GEE. Tais metas incluem a redução de 53,1% nas emissões em 2030 (em comparação à 2005) e a neutralidade climática em
+2050.
+
+O desafiador cenário para cumprimento de tais compromissos no Brasil e no mundo demandará grandes volumes de investimentos em
+práticas, infraestruturas e tecnologias de baixo carbono. Segundo a Agência de Energia Internacional (IEA), apenas a descarbonização do
+setor energético global demandará investimentos anuais de US$ 4 trilhões em energias limpas a partir de 2030. Ampliando as estimativas
+para outros setores, a McKinsey estima um custo anual de cerca de US$ 9 trilhões até 2050. No Brasil, a CNI estima que serão
+necessários R$ 40 bilhões até 2050 para viabilizar a descarbonização da indústria nacional.
+
+Apesar do cenário desafiador, o Brasil é visto como um dos países que pode liderar a transição global rumo a uma economia de baixo
+carbono. Isso se deve não apenas ao seu vasto potencial florestal e em produtos da bioeconomia, como também às suas vantagens
+comparativas trazidas por uma matriz elétrica de base renovável com potencial de expansão. O Nordeste do país, em particular, apresenta
+enorme potencial de expansão de fontes renováveis, como eólica e solar, o que pode trazer efeitos sinérgicos com a instalação de outros
+segmentos na região, como combustíveis de baixo carbono a exemplo do hidrogênio verde, o desenvolvimento de indústrias verdes, que
+incluem segmentos como fertilizantes e aço de baixo carbono e até mesmo o powershoring. Essas iniciativas de investimento têm grande
+potencial de geração de emprego e renda na região, contribuindo para o desenvolvimento socioeconômico de uma das regiões mais
+carentes do país.
+
+Para atender à grande necessidade de investimentos estimada e aproveitar as oportunidades que se colocam, grandes volumes de
+financiamento serão necessários para apoiar a implantação de práticas, infraestruturas e tecnologias de baixo carbono.
+
+O Banco do Nordeste do Brasil (BNB) vem atuando como protagonista da transição energética da região desde 2008, tendo financiado a
+implantação das primeiras usinas eólicas no Nordeste, projetos de transmissão e distribuição de energia, além de produtores
+independentes de energia elétrica, especialmente de fontes renováveis solar e eólica (geração centralizada e distribuída) e usinas
+geradoras que reaproveitam gases de aterros sanitários. De 2018 a 2023, o BNB financiou mais de R$ 40 bilhões em projetos de energias
+renováveis em sua área de atuação.
+
+Com fins de diversificar seu funding e lograr uma composição de orçamento apropriada para as necessidades de captação do banco para
+as suas operações de crédito, o BNB tem se engajado junto a organismos internacionais em busca de oportunidades de captação externa.
+Em tais oportunidades o BNB preza pela manutenção de um endividamento externo balanceado, avaliando os benefícios de tal captação
+em termos de moedas, prazos, carências e taxas de juros, que por vezes são mais benéficos do que as praticadas no mercado interno. O
+atual engajamento com o Banco Mundial (Banco Internacional para Reconstrução e Desenvolvimento - BIRD), objeto da presente Carta
+Consulta, ocorre neste contexto.
+
+Considerando a carteira de projetos de energias renováveis e de financiamento a projetos sustentáveis do BNB, bem como recentes
+novas parcerias em fase de contratação, com o Banco Interamericano de Desenvolvimento (BID) (US$ 333,5 milhões), com os Fundos de
+Investimento Climático (CIF) (US$ 33,5 milhões) e com o Novo Banco de Desenvolvimento (NDB) (US$ 300 milhões), para financiar
+infraestrutura sustentável, o BNB tem avançado em novas frentes, cada vez mais alinhado com as políticas de desenvolvimento
+sustentável do Governo Federal. Em junho de 2023, o BNB e o BIRD assinaram um memorando de entendimento para avançar nessa
+linha.
+
+(1) Swiss Re, 2021
+
+(2) Jafino, Walsh, Rozenberg, & Hallegatte, 2020
+
+(3) Clement, et a
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+SOLUÇÃO PROPOSTA
+
+(cid:10)
+
+
+Página: 3
+
+Para atender à grande necessidade de investimentos estimada para a descarbonização e aproveitar as oportunidades que se colocam,
+grandes volumes de financiamento serão necessários para apoiar a implantação de práticas, infraestruturas e tecnologias de baixo
+carbono. Adicionalmente, em se tratando de investimentos em um cenário de incertezas e que, muitas vezes, se darão em indústrias
+nascentes e tecnologias de fronteira onde existe maior risco -, tais financiamentos devem apresentar condições favoráveis para atrair a
+iniciativa privada. O Programa proposto busca justamente atuar sobre esses desafios mencionados, provendo financiamento competitivo
+para destravar projetos em práticas, infraestruturas e tecnologias de baixo carbono nos segmentos industriais e energéticos, e
+alavancando outros investimentos e iniciativas nessa agenda, estando em linha com as diretrizes do Governo Federal, como o Plano de
+Transformação Ecológica e o Programa Nova Indústria Brasil (NIB).
+
+A seguir, destacam-se algumas ações de quatro dos seis eixos do Plano de Transformação Ecológica do Governo Federal:
+
+- Finanças Sustentáveis: Crédito competitivo para inovação e transição ecológica por meio da utilização do Fundo Clima (Fundo Nacional
+sobre Mudança do Clima) e outras fontes como ferramenta para financiar setores estratégicos;
+
+- Adensamento Tecnológico: Nova política industrial para fabricação de veículos elétricos no Brasil, iniciando com retomada de medidas
+tarifárias;
+
+- Transição Energética: Aumento da mistura obrigatória de biodiesel em diesel chegando a 15% em 2026; Aumento da mistura obrigatória
+de etanol na gasolina; Regras claras para Captura e Estocagem de Dióxido de Carbono-CCUS; Legislação para eólica offshore; Política
+Nacional de Hidrogênio Verde; Incentivo a eletrificação do transporte coletivo.
+
+- Economia Circular: Desenvolvimento tecnológico para a reutilização de resíduos sólidos urbanos por meio de biodigestores, de modo a
+produzir biometano e fertilizantes.
+
+De forma complementar, o Programa NIB, apresenta em sua Missão 5 o foco em bioeconomia, descarbonização e transição e segurança
+energéticas e tem como Meta aspiracional para 2033, promover a indústria verde, reduzindo em 30% a emissão de CO2 por valor
+adicionado da Indústria, ampliando em 50% a participação dos biocombustíveis na matriz energética de transportes e aumentando o uso
+tecnológico e sustentável da biodiversidade pela indústria em 1% ao ano. Alguns dos principais instrumentos para implantação dessa
+política industrial são empréstimos, investimentos públicos e infraestrutura de qualidade.
+
+Com relação aos objetivos específicos da Missão 5 do NIB, enfatizamos os objetivos I, III e IV:
+
+I. Expandir a capacidade produtiva da indústria brasileira por meio da produção e da adoção de insumos, inclusive materiais e minerais
+críticos, tecnologias e processos de baixo carbono, com eficiência energética;
+
+III. Adensar cadeias industriais para a transição energética, com vistas à autonomia, à eficiência energética e à diversificação da matriz
+brasileira;
+
+IV. Desenvolver tecnologias estratégicas para a descarbonização, a transição energética e a bioeconomia, catalisando vantagens
+intrínsecas do país com vistas ao protagonismo de empresas brasileiras no mercado doméstico e internacional.
+
+Assim, considerando  o papel do BNB como principal agente executor de políticas públicas federais na região Nordeste e Norte dos
+estados de MG e ES, alinhando-se aos propósitos de acelerar a transição energética para matrizes de baixo carbono e estimular a
+modernização da estrutura industrial da Região, bem como de contribuir para o alcance dos compromissos climáticos nacionais
+relacionados ao Acordo de Paris, propõe-se a criação de um programa de financiamento para fomentar a descarbonização industrial, com
+ênfase na transição para matrizes energéticas de baixo carbono e ainda contemplando investimentos em infraestruturas de apoio
+necessárias.
+
+Os recursos captados junto ao BIRD no Programa ora proposto contribuirão para viabilizar o apoio aos projetos de baixo carbono nas
+cadeias energéticas e industriais da carteira atual e prospectiva do BNB, diversificando o funding da instituição. Desse modo, a ajudarão a
+destravar e também alavancar investimentos em projetos de baixo carbono, gerando empregos e renda na região, bem como contribuindo
+para a redução de emissões de GEE.
+
+RESULTADOS ESPERADOS
+
+Com o Programa de financiamento à Descarbonização da Indústria espera-se contribuir positivamente para o alcance dos seguintes
+objetivos:
+
+-Dispor de linha de crédito de longo prazo competitiva para financiar setores estratégicos para a transição energética industrial, incluindo o
+fomento às cadeias de produção de veículos elétricos e híbridos, do hidrogênio de baixo carbono, bem como para substituição de
+máquinas e equipamentos que utilizem combustíveis de origem fóssil;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+-Ampliar o apoio financeiro para integração das fontes de energia renovável variável do Nordeste no Sistema Elétrico Brasileiro, incluindo
+a modernização e maior eficiência de sistemas de transmissão/distribuição, como também tecnologias de armazenamento de energia,
+como  baterias e outros;
+
+-Complementar o funding do BNB, notadamente o Fundo Constitucional de Financiamento do Nordeste (FNE), para apoio aos setores
+industrial, energético e de infraestrutura na Região, inclusive por meio de blended finance;
+
+-Alavancar investimentos em práticas, infraestruturas e tecnologias de baixo carbono;
+
+-Contribuir para a descarbonização da matriz energética da Região e, consequentemente, para as metas de redução de emissões de GEE
+no Brasil;
+
+SUSTENTABILIDADE
+
+A implementação do programa envolverá recursos humanos, financeiros e tecnológicos do BNB, não sendo necessários recursos
+suplementares (consultorias, sistemas etc.). O BNB possui equipes específicas, de seus próprios quadros, que serão responsáveis pela
+gestão, operacionalização e monitoramento do programa, de forma que não deve implicar em custos adicionais a sua estrutura.
+
+Cabe destacar, ainda, que o BNB, por meio de cooperações técnicas não reembolsáveis com o BID e com a Agência Francesa de
+Desenvolvimento (AFD), tem contado com o apoio de consultorias para ampliar suas práticas de financiamento sustentável e equiparar-se
+aos padrões internacionais, a saber:
+
+-Metodologia de risco físico climático e de transição para avaliar o portfólio atual e futuro de financiamento;
+
+-Aprimoramento de critérios ambientais e sociais em projetos de alto risco;
+
+-Quadro de monitoração de indicadores de impacto.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+São destacadas abaixo as principais Orientações Estratégicas (OE) das Diretrizes Estratégicas (DE) definidas pelo BNB para o quinquênio
+2023-2027, onde se enquadra o Programa:
+
+DE1 - Promover o desenvolvimento regional sustentável
+
+OE 2. Contribuir com o desenvolvimento regional, territorial e local por meio da organização, fortalecimento e elevação da competitividade
+das atividades econômicas priorizadas, considerando os elos da cadeia produtiva e as atividades de suporte (infraestrutura,
+sustentabilidade ambiental, sustentabilidade social, governança e capital social e financiamento reembolsável e não reembolsável).
+
+OE 6. Contribuir para a ampliação e melhoria da qualidade da infraestrutura de saneamento, transporte, energia e comunicação,
+especialmente no Semiárido, por intermédio de estruturação de projetos e financiamento com mix de recursos.
+
+OE 7. Melhorar a infraestrutura produtiva, de beneficiamento e de comercialização contribuindo para o aumento da competitividade das
+atividades econômicas.
+
+DE2 - Avançar nas práticas ambientais, sociais e de governança (ASG)
+
+OE 3. Fomentar atividades e setores da economia que contribuam para a sustentabilidade, adaptação às mudanças climáticas, transição
+para economia de baixo carbono, geração de emprego e renda, o desenvolvimento social e a diminuição das desigualdades;
+
+OE 4. Apoiar a agricultura familiar, o agronegócio sustentável e a agricultura de baixo carbono, o reflorestamento e a recuperação
+ambiental de áreas degradadas, a geração de energia por fontes renováveis e a eficiência energética.
+
+DE7 - Diversificar as fontes de recursos financeiros
+
+OE 1. Atuar como parceiro de organismos multilaterais e de instituições de desenvolvimento, buscando fontes alternativas de recursos e
+cooperação técnica.
+
+OE 6. Fortalecer o papel do BNB nos segmentos de governo, agronegócio, prioritários e infraestrutura atuando como agente financeiro e
+como estruturador de projetos.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+O Programa está alinhado às seguintes diretrizes estratégicas do Governo Federal: (i) Programa NIB (eixo 5-Bioeconomia,
+descarbonização, e transição e segurança energéticas); (ii) Plano Plurianual (PPA) 2024-2027, que destaca a importância e
+transversalidade da agenda de meio ambiente e clima; (iii) NDC brasileira, na medida em que fomenta a mitigação de emissões de GEE; (
+iv) Plano de Transformação Ecológica do Ministério da Fazenda (eixos 1- financiamento sustentável, 2- adensamento tecnológico, e 4-
+transição energética); e (v) Programa Nacional do Hidrogênio (eixo 5-abertura e crescimento do mercado).
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa de Financiamento à Descarbonização da Indústria
+
+
+### 2.2. Título Abreviado
+
+
+Prodecarb
+
+
+### 2.3. Mutuário
+
+
+Banco do Nordeste do Brasil - BNB
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Objetivo Geral
+
+Fomentar a descarbonização e o desenvolvimento sustentável da Região Nordeste e do norte de Minas Gerais e do Espírito Santo, por
+meio do financiamento de tecnologias de transição para matrizes energéticas e cadeias industriais de baixo carbono, ampliação da
+capacidade de geração e transmissão de energia de fontes renováveis e investimentos em infraestruturas de suporte necessárias.
+
+Objetivos Específicos
+
+I. Fomentar e alavancar investimentos em cadeias industriais de baixo carbono estratégicas e na transição energética na Região, por meio
+de insumos, materiais, tecnologias e processos de baixo carbono, com eficiência energética;
+
+II. Expandir a capacidade de geração de energias renováveis, sua maior integração no sistema elétrico brasileiro, e investir em tecnologias
+que propiciem maior eficiência e estabilidade e autossuficiência energética para as cadeias de baixo carbono;
+
+III. Proporcionar a infraestrutura de apoio necessária para o desenvolvimento das cadeias industriais de baixo carbono na Região;
+
+IV. Contribuir para a redução das emissões de GEE no país.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Descrição
+Aumento de capacidade instalada de geração de
+fontes renováveis na Região Nordeste (GW)
+
+Redução nas emissões de gases de efeito estufa
+(GEE) dos projetos financiados (MtCO2eq)
+
+Valor de co-financiamento alavancado pelo BNB
+para projetos de baixo carbono
+
+%
+
+MtCO2e
+
+Fórmula de Cálculo Unidade de Medida
+(Soma da capacidade
+de geração renovável
+instalada dos projetos
+financiados (em GW) /
+Capacidade instalada
+de geração renovável
+no Nordeste em 2024
+(em GW) ) X 100 (
+Dados obtidos pelo
+sistema SIGA -
+ANEEL)
+Soma das estimativas
+de redução de
+emissões de GEE
+pelos projetos
+financiados do
+programa, em
+MtCO2eq (dados
+estimados por meio
+de ferramenta AFD
+Carbon Balance Tool)
+Somatório do valor de
+co-financiamento (
+crédito e/ou equity)
+para projetos de baixo
+carbono apoiados
+pelo Programa
+
+US$
+
+
+Página: 6
+
+Meta
+0,70
+
+Linha de Base
+31,50
+
+0,00
+
+1,20
+
+0,00
+
+400.000.000,00
+
+
+### 2.7. Projeto/Componentes
+
+
+Componentes
+C - DESCARBONIZAÇÃO INDUSTRIAL
+S - TECNOLOGIAS E EMPREENDIMENTOS PRÓ-DESCARBONIZAÇÃO
+P - Aquisição de máquinas e equipamentos necessários à utilização de combustíveis de baixo carbono por
+empresas
+P - Implantação de unidades de produção de combustíveis de baixo carbono
+P - Implantação, ampliação ou modernização de empreendimentos de cadeias de suprimento para produção de
+veículos elétricos ou híbridos
+P - Implantação de tecnologias de redução de emissões e ecoeficiência na Indústria
+C - TRANSIÇÃO ENERGÉTICA
+S - ENERGIA RENOVÁVEL
+P - Geração de energia de fontes renováveis
+S - INTEGRAÇÃO E EFICIÊNCIA ENERGÉTICA
+P - Linhas de Transmissão e Distribuição
+P - Modernização de Iluminação Pública
+P - Eficiência energética
+C - INFRAESTRUTURA DE SUPORTE
+S - INFRAESTRUTURA DE SUPORTE RELACIONADA À TRANSIÇÃO ENERGÉTICA E À DESCARBONIZAÇÃO
+INDUSTRIAL
+P - Infraestrutura logística e de transporte
+P - Fornecimento de água, tratamento de esgoto e reuso de águas residuais
+P - Conectividade
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Valor(US$)
+150.000.000,00
+150.000.000,00
+60.000.000,00
+
+40.000.000,00
+30.000.000,00
+
+20.000.000,00
+200.000.000,00
+80.000.000,00
+80.000.000,00
+120.000.000,00
+70.000.000,00
+20.000.000,00
+30.000.000,00
+150.000.000,00
+150.000.000,00
+
+80.000.000,00
+50.000.000,00
+20.000.000,00
+500.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - DESCARBONIZAÇÃO INDUSTRIAL
+Este componente tem como foco fomentar investimentos para descarbonização da indústria e mudança da matriz energética da
+região.
+
+S - TECNOLOGIAS E EMPREENDIMENTOS PRÓ-DESCARBONIZAÇÃO
+Este Subcomponente visa contribuir para a descarbonização na indústria por meio do financiamento da produção e da utilização de
+combustíveis de baixo carbono, do desenvolvimento da indústria de veículos de baixo carbono e da implantação de tecnologias e
+processos de redução da emissão de GEE e ecoeficiência na Indústria.
+
+
+Página: 7
+
+P - Aquisição de máquinas e equipamentos necessários à utilização de combustíveis de baixo carbono por empresas
+Financiamento para aquisição e substituição de máquinas e equipamentos industriais necessários para a substituição de
+combustíveis de origem fóssil nas empresas por combustíveis de baixo carbono (biocombustíveis - etanol de 2ª geração, biodiesel,
+biometano, hidrogênio, etc.).
+
+P - Implantação de unidades de produção de combustíveis de baixo carbono
+Financiamento para investimentos para plantas de produção de combustíveis de baixo carbono, tais como hidrogênio verde,
+sustainable aviation fuels (SAF), etanol de 2ª geração, biodiesel, biogás e outros, incluindo a aquisição de máquinas e
+equipamentos, como eletrolisadores etc.
+
+P - Implantação, ampliação ou modernização de empreendimentos de cadeias de suprimento para produção de
+veículos elétricos ou híbridos
+Financiamento para investimentos (implantação, modernização ou ampliação) em unidades produtivas das cadeias de produção de
+veículos elétricos e híbridos.
+
+P - Implantação de tecnologias de redução de emissões e ecoeficiência na Indústria
+Financiamento para implantação de projetos de melhoria e modernização de processos industriais que reduzam as emissões de
+GEE e/ou que favoreçam ao uso ecoeficiente de insumos (Ex.: água, energia, reciclagem de resíduos).
+
+C - TRANSIÇÃO ENERGÉTICA
+Este Componente visa fomentar a transição energética, por meio do apoio à ampliação da participação de fontes renováveis na
+descarbonização da matriz elétrica brasileira, e os investimentos na integração e eficiência energética, visando maior segurança e
+estabilidade energética para o desenvolvimento industrial da Região, bem como para o sistema elétrico brasileiro.
+
+S - ENERGIA RENOVÁVEL
+Este Subcomponente financiará investimentos para geração de energia elétrica de fontes renováveis, centralizada ou distribuída.
+
+P - Geração de energia de fontes renováveis
+Unidades de geração de energia renovável centralizada ou de geração distribuída podendo incluir, por exemplo, fonte eólica,
+fotovoltaica, biomassa, geotérmica, ondas, marés e combustíveis não-fósseis renováveis de baixo carbono.
+
+S - INTEGRAÇÃO E EFICIÊNCIA ENERGÉTICA
+Neste Subcomponente estão previstos financiamentos a projetos que contribuam para a integração energética, apoiando projetos
+de linhas de transmissão e de distribuição de energia, inclusive subestações, viabilizando a absorção pelo Sistema Elétrico
+Brasileiro (SEB) de maiores volumes de energia provenientes de fontes renováveis da Região; bem como o apoio a projetos de
+modernização e eficiência energética, promovendo redução de custos com ganho ambiental.
+
+P - Linhas de Transmissão e Distribuição
+Projetos de implantação, expansão, modernização ou digitalização de linhas de transmissão e distribuição de energia, inclusive
+subestações.
+
+P - Modernização de Iluminação Pública
+Projetos de iluminação pública que gerem redução do consumo de energia elétrica, aumento da eficiência luminosa e do tempo de
+vida útil de luminárias e redução de impacto ambiental no descarte.
+
+P - Eficiência energética
+Projetos de soluções para maior eficiência na utilização de fontes energéticas e consequente redução do impacto ambiental e
+climático, a exemplo de diagnóstico energético e mapeamento e reformulação de processos para redução de consumo e de perdas
+, modernização de sistemas de geração, transmissão, distribuição e de utilização em atividades produtivas de alto consumo
+energético, máquinas e equipamentos com maior rendimento e menor consumo energético, implementação de sistemas de gestão
+de energia e de tecnologias de armazenamento energético (em baterias e outras tecnologias) que aumentem a flexibilidade e
+estabilidade do sistema elétrico.
+
+C - INFRAESTRUTURA DE SUPORTE
+O Componente trata do financiamento de obras de infraestrutura necessárias ao pleno funcionamento de projetos de transição
+energética e descarbonização industrial.
+
+S - INFRAESTRUTURA DE SUPORTE RELACIONADA À TRANSIÇÃO ENERGÉTICA E À DESCARBONIZAÇÃO
+INDUSTRIAL
+O Subcomponente especifica os tipos de infraestrutura de suporte financiáveis, necessários a projetos de transição energética e
+descarbonização industrial.
+
+P - Infraestrutura logística e de transporte
+Obras de rodovias, ramais ferroviários, terminais intermodais e de carga, inclusive em portos e aeroportos, condomínios e
+plataformas logísticas, pátios de contêineres, estruturas de armazenagem, dutos, etc. que sejam necessárias para a implantação
+de unidades produtivas relacionadas à indústria de baixo carbono.
+
+
+Página: 8
+
+P - Fornecimento de água, tratamento de esgoto e reuso de águas residuais
+Obras de abastecimento de água e de coleta e tratamento de esgotos necessárias para unidades produtivas relacionadas à
+indústria de baixo carbono; iniciativas de uso sustentável da água, como reuso de efluentes tratados, redução de perdas etc.;
+dessalinização; recuperação de mananciais e corpos receptores impactados por atividades produtivas; preservação e conservação
+de nascentes, mananciais e matas ciliares em áreas produtivas.
+
+P - Conectividade
+Obras de infraestrutura de telecomunicações e de redes de dados para otimizar a comunicação e a digitalização de unidades
+produtivas relacionadas à indústria de baixo carbono, incluindo estações transmissoras e receptoras, rede de fibra óptica,
+infraestrutura de rede wi-fi, dentre outras.
+
+Categoria de Gasto
+
+Obras
+P- Implantação de unidades de produção de
+combustíveis de baixo carbono
+P- Implantação, ampliação ou modernização de
+empreendimentos de cadeias de suprimento para
+produção de veículos elétricos ou híbridos
+P- Implantação de tecnologias de redução de
+emissões e ecoeficiência na Indústria
+P- Geração de energia de fontes renováveis
+P- Linhas de Transmissão e Distribuição
+P- Modernização de Iluminação Pública
+P- Infraestrutura logística e de transporte
+P- Fornecimento de água, tratamento de esgoto e
+reuso de águas residuais
+P- Conectividade
+Bens
+P- Aquisição de máquinas e equipamentos
+necessários à utilização de combustíveis de baixo
+carbono por empresas
+Outros
+P- Eficiência energética
+Total Geral
+
+Unidade de medida
+-
+Unidade
+
+Unidades
+
+Unidades
+
+Unidades
+Unidades
+Unidades
+Unidades
+Unidades
+
+Unidades
+-
+Unidades
+
+-
+Unidades
+-
+
+Meta
+
+Valor
+
+% Financeiro
+
+-
+2,00
+
+5,00
+
+10,00
+
+2,00
+3,00
+7,00
+10,00
+5,00
+
+10,00
+-
+20,00
+
+-
+30,00
+-
+
+410.000.000,00
+40.000.000,00
+
+30.000.000,00
+
+20.000.000,00
+
+80.000.000,00
+70.000.000,00
+20.000.000,00
+80.000.000,00
+50.000.000,00
+
+20.000.000,00
+60.000.000,00
+60.000.000,00
+
+30.000.000,00
+30.000.000,00
+500.000.000,00
+
+82,00
+8,00
+
+6,00
+
+4,00
+
+16,00
+14,00
+4,00
+16,00
+10,00
+
+4,00
+12,00
+12,00
+
+6,00
+6,00
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+As articulações para concepção do Programa de financiamento à Descarbonização da Indústria têm início em junho de 2023, quando foi
+assinado Memorando de Entendimento (MoU) entre BNB e Banco Mundial, a partir do qual foram iniciadas discussões sobre a
+possibilidade de parcerias entre as duas instituições para financiar projetos de estímulo à indústria de baixo carbono e à transição
+energética, inclusive com possibilidade de apoio a projetos de plantas de Hidrogênio Verde e infraestrutura associada. Desde então,
+diversas reuniões de alinhamento entre as equipes das instituições foram realizadas para estruturar a operação ora proposta.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Nacional/Estados
+
+Estado de Alagoas, Estado da Bahia, Estado do Ceará, Estado do Espírito Santo, Estado do Maranhão, Estado de Minas Gerais, Estado
+da Paraíba, Estado de Pernambuco, Estado do Piauí, Estado do Rio Grande do Norte, Estado de Sergipe
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+A operação de crédito externo entre o BNB e o BIRD deverá ser do tipo empréstimo flexível do BIRD, onde o Banco do Nordeste figura
+como órgão proponente e executor, no valor total de US$ 500 milhões, com as seguintes condições:
+
+Valor: US$ 500,0 milhões (quinhentos milhões de dólares norte-americanos)
+
+Prazo de Desembolso: 05 (cinco) anos
+
+Prazo de Carência: 05 (cinco) anos
+
+Prazo de Amortização: 19 (dezenove) anos Prazo Total: 24 (vinte e quatro) anos
+
+Taxa de Juros: SOFR + 1,44% a.a.
+
+Comissão inicial: 0,25% sobre o valor do empréstimo
+
+Comissão de compromisso sobre o saldo não desembolsado, a partir de sessenta dias da assinatura do contrato BNB/BIRD: 0,25% a.a.
+
+Custo estimado da internalização dos recursos
+
+(cid:10)
+
+
+Página: 9
+
+O Banco do Nordeste adota a prática de esterilizar o risco cambial de captações externas para financiamento ao setor privado por meio de
+instrumento financeiro de hedge. No momento da internalização dos recursos em moeda estrangeira um swap cambial é simultaneamente
+contratado, de modo que o BNB não incorre no risco de variação cambial. Esse procedimento de mitigação do risco cambial que, em
+geral, é repassado ao beneficiário final na forma de composição do custo total da operação de crédito, significa também num modelo de
+redução da exposição do cliente a um possível choque de taxa de câmbio em seu fluxo de pagamento em moeda local.
+
+Já para financiamento aos clientes do setor público, o Banco do Nordeste capta os recursos e empresta em moeda estrangeira,
+transferindo o risco da variação cambial ao beneficiário final (governo estadual ou municipal). Nesses casos, as taxas adotadas mantêm-
+se compatíveis com os valores de mercado para este tipo de cliente, obedecidos os limites de taxas de financiamento estabelecidos pela
+Secretaria do Tesouro Nacional, para o caso de operações de repasse que contem com garantia soberana.
+
+Necessidade de financiamento externo e opção pelo agente financeiro
+
+Como agente do Governo Federal para a execução de sua política de desenvolvimento para o Nordeste, o Banco do Nordeste tem
+múltiplas e amplas atribuições, que demandam expressiva disponibilidade de recursos financeiros:
+
+. Financia projetos rurais, industriais, comerciais, de serviços e de infraestrutura;
+
+. Fornece crédito para empreendimentos de pequeno e médio portes, notadamente agricultores familiares, empreendedores informais,
+mini e pequenos produtores rurais, microempreendedores individuais, micro e pequenas empresas;
+
+. Financia com condições diferenciadas projetos voltados à sustentabilidade ambiental e à inovação;
+
+. Promove, com recursos não reembolsáveis, pesquisa, desenvolvimento, inovação e difusão de tecnologias produtivas e sociais;
+
+. Realiza e disponibiliza pesquisas econômicas ampliando conhecimentos sobre a realidade do Nordeste;
+
+. Estimula a expansão dos investimentos na Região;
+
+. Desenvolve um leque de parcerias institucionais formalizadas com entidades públicas e privadas, em cooperações de diferentes
+temáticas voltadas ao cumprimento de sua missão, notadamente quanto à orientação e ampliação do acesso ao crédito.
+
+A razão para opção pelo BIRD como agente financiador deste programa se deve a uma gama de motivos, dentre os quais se destacam a
+expertise técnica e experiência global da instituição com o financiamento e acompanhamento de projetos focados em práticas,
+infraestruturas e tecnologias de baixo carbono, como energias renováveis, hidrogênio de baixo carbono e combustíveis verdes, medidas
+industriais sustentáveis para a descarbonização, e a eletrificação. O suporte técnico de experts do Banco Mundial ao longo da consecução
+do Programa é algo que o distingue de outras alternativas de financiamento e será de grande valia para a execução bem-sucedida de um
+Programa que envolve tecnologias de fronteira. Neste tópico, inclusive, o BIRD já está desenvolvendo projetos em parceria com o
+Governo Federal e Estados e instituições no Nordeste brasileiro, em temas como hidrogênio de baixo carbono e a modernização e
+expansão de energias renováveis.
+
+Não menos importantes são as condições financeiras competitivas apresentadas pelo BIRD. Tais condições são favoráveis em termos de
+prazos de carência e maturidade, custos e critérios de elegibilidade. A título de comparação, seguem abaixo as condições financeiras para
+operações com garantia soberana de outras instituições multilaterais com  as quais o BNB tem relacionamento, que demonstra que estão
+compatíveis com o mercado.
+
+New Development Bank (NDB):
+
+Valor: US$ 300 milhões
+
+Finalidade: crédito de longo prazo para infraestrutura
+
+Taxas: SOFR + 136 bps a.a. ou Euribor + 99 bps a.a.
+
+Prazo: 20 anos (incluídos 5 anos de carência)
+
+BID:
+
+Valor: US$ 300 milhões
+
+Finalidade: crédito de longo prazo para infraestrutura
+
+Taxas: SOFR + 120 bps a.a.
+
+Prazo: 25 anos (incluídos 5 anos de carência)
+
+(cid:10)
+(cid:10)
+
+
+Página: 10
+
+Comissão de Crédito sobre saldo não desembolsado: até 0,75% a.a.
+
+Além disso, o BIRD proporciona a alternativa de financiar este programa por meio de instrumento altamente flexível, denominado
+Investment Project Financing (IPF), cujos desembolsos acontecem fracionados, com montantes para viabilizar a execução das ações à
+medida que as ações forem sendo cumpridas e verificadas. Tais ações e montantes serão refinados e ajustados durante a preparação.
+
+A isso se soma a possibilidade de acessar recursos concessionais e não-reembolsáveis de fundos internacionais para complementar o
+atual Programa, como os Fundos de Investimento Climático (CIF, da sigla em inglês), reduzindo ainda mais o custo de captação do BNB.
+Tais recursos só são acessíveis via Bancos de Desenvolvimento Multilaterais, tendo o BIRD adotado de maneira bem sucedida essa
+estratégia recentemente, quando complementou um IPF com recursos concessionais do CIF em um projeto de hidrogênio verde no estado
+do Ceará, no âmbito do programa de Integração de energias renováveis (CIF-REI) do Governo do Brasil. Na operação atualmente
+proposta, o BIRD se compromete a buscar oportunidades de acessar recursos concessionais para complementar o presente Programa,
+com foco na Descarbonização Industrial.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+Os investimentos do Programa ora proposto terão como beneficiários finais entes públicos e empresas privadas que apresentem projetos
+de baixo carbono nas cadeias energéticas e industriais  localizados nos municípios da área básica de atuação do Banco do Nordeste,
+beneficiando direta e indiretamente 59,3 milhões de habitantes, conforme detalhamento populacional abaixo:
+
+Nordeste: 54.657.621
+
+Maranhão: 6.775.805
+
+Piauí: 3.271.199
+
+Ceará: 8.794.957
+
+Rio Grande do Norte: 3.302.729
+
+Paraíba: 3.974.687
+
+Pernambuco: 9.058.931
+
+Alagoas: 3.127.683
+
+Sergipe: 2.210.004
+
+Bahia: 14.141.626
+
+Minas gerais*: 3.645.833
+
+Espírito Santo*: 1.013.321
+
+Total BNB 2022: 59.303.736
+
+(*) Apenas municípios de MG e ES da área básica de atuação do BNB.
+
+Estima-se que o impacto do financiamento dos projetos de apoiados gere externalidades positivas proporcionando ganhos indiretos,
+produzindo um resultado benéfico para a economia da Região e para a melhoria da qualidade de vida da população.
+
+Nesse sentido, cabe reforçar, ainda, que os investimentos em infraestrutura e tecnologias de baixo carbono favorecem o aumento da
+produtividade regional, contribuindo para a redução das desigualdades regionais e para a recuperação da economia da Região, bem como
+a melhoria da qualidade ambiental, pelo estímulo à redução no consumo de combustíveis fósseis e a decorrente redução de poluentes
+locais, com impactos positivos sobre a saúde pública, e de emissões de GEE. Neste quesito, pode-se então considerar como beneficiária
+indireta do programa a população brasileira e mundial como um todo, já que ele contribui para a mitigação da mudança do clima global.
+
+Considerando as áreas estratégicas e impactos de interesse do Programa, apontam-se as seguintes iniciativas deste Programa,
+enumerados conforme tabela da resolução Cofiex nº 17/2021:
+
+1.1 Promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação: atendido nos componentes Descarbonização
+Industrial e Transição Energética.
+
+1.2 Eficiência energética, geração e/ou uso de energia de fontes renováveis:  atendido nos componentes Descarbonização Industrial e
+Transição Energética.
+
+1.3 Implantação e/ou ampliação de ações de saneamento básico: atendido no componente Infraestrutura de Suporte, especificamente no
+Produto Fornecimento de água, tratamento de esgoto e reuso de águas residuais.
+
+
+Página: 11
+
+1.4 Gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes:  atendido no componente
+Infraestrutura de Suporte, especificamente no Produto Fornecimento de água, tratamento de esgoto e reuso de águas residuais.
+
+1.5 Conservação e manejo da biodiversidade e/ou de recursos florestais: atendido no componente Infraestrutura de Suporte,
+especificamente no Produto Fornecimento de água, tratamento de esgoto e reuso de águas residuais.
+
+1.6 Melhoria do ambiente de negócios e/ou oportunidades: atendido pelos investimentos do Programa como um todo: (i) no componente
+Infraestrutura de Suporte, à medida que traz investimentos em infraestrutura, contribuindo de forma multissetorial para a melhoria do
+ambiente de negócios;
+
+(ii) nos componentes Descarbonização Industrial e Transição Energética, na medida em que promove a redução/eliminação de gargalos
+de financiamento existentes em tecnologias de fronteira e indústrias nascentes, como o hidrogênio verde, fomentando a maior participação
+da iniciativa privada.
+
+1.7 Benefícios para empreendedores individuais, micro e pequenas empresas e
+
+1.8 Geração de emprego e renda para populações de baixa renda e vulneráveis: atendidos indiretamente pelo Programa como um todo,
+em particular pelo componente Infraestrutura de Suporte, com obras de infraestrutura que vão beneficiar MPMEs, que concentram a
+maioria absoluta dos postos de trabalho no país, assim como os demais componentes, que beneficiarão cadeias produtivas completas,
+tendo como impacto positivo a geração de emprego e renda na Região.
+
+1.9 Infraestrutura e/ou equipamentos sociais para populações de baixa renda e vulneráveis: atendido pelo componente Infraestrutura de
+Suporte, no produto Fornecimento de água, tratamento de esgoto e reuso de águas residuais, considerando-se ser as populações de
+baixa renda e vulneráveis as mais afetadas pela falta de cobertura de rede de distribuição de água potável e de coleta de esgoto.
+
+1.13 Melhoria das condições de educação e saúde: o Programa contribuirá para melhoria das condições de saúde por meio do
+componente Infraestrutura de Suporte, no produto Fornecimento de água, tratamento de esgoto e reuso de águas residuais, considerando-
+se o financiamento de obras voltadas para saneamento, bem como nos componentes Descarbonização Industrial e Transição Energética,
+pela decorrente redução nas emissões de gases poluentes nocivos à saúde humana e geração de energia de fontes renováveis (não
+poluentes).
+
+1.14 Desenvolvimento, inovação e modernização tecnológica: atendido pelo componente Descarbonização Industrial, em todos os seus
+Produtos.
+
+1.15 Arranjos de financiamento que incentivem/contribuam com a participação privada: atendido por todos os componentes do Programa,
+que buscam viabilizar e destravar investimentos em tecnologias e infraestruturas de baixo carbono das cadeias energéticas e industriais,
+alavancando investimentos privados.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Externas
+
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+Total:
+
+Sigla
+
+BIRD
+
+Moeda
+
+Valor Proposto
+
+US$
+
+500.000.000,00
+
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+500.000.000,00
+
+500.000.000,00
+
+500.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+ARRANJO INSTITUCIONAL
+
+O Mutuário/Executor do programa é o Banco do Nordeste do Brasil S.A., tendo como Submutuários os beneficiários titulares de projetos
+dos segmentos previstos. O BIRD liberará recursos ao BNB para a consecução dos investimentos do Programa apresentado nesta carta
+consulta. A UNIÃO, por meio da Secretaria do Tesouro Nacional-STN, passará a ser garantidora da nova operação. Além disso, o BNB
+será responsável por cumprir todos os termos e obrigações derivadas do Contrato de Empréstimo a ser celebrado com o BIRD. Dessa
+forma, para a implementação do Programa é idealizado um arranjo institucional executivo em três instâncias, a serem instituídas:
+
+i. BIRD: Fornecedor dos recursos de financiamento e definidor das condições de aplicação dos recursos, bem como da  prestação de
+contas, em conjunto com o Mutuário;
+
+(cid:10)
+
+
+Página: 12
+
+ii. BNB: Mutuário e executor do programa;
+
+iii. Clientes/Submutuários: Executores diretos dos projetos financiados, de acordo com as regras do programa.
+
+MATRIZ INSTITUCIONAL
+
+A matriz de responsabilidade encontra-se em anexo a esta carta-consulta.
+
+O BNB será responsável pela interlocução, de forma direta, com os tomadores finais dos recursos ora captados. A seleção dos projetos
+seguirá os critérios técnicos e as regras de análise de viabilidade técnico-financeira de cada projeto em conformidade com os critérios
+adotados pelo BIRD e os normativos internos do BNB, assim como a legislação ambiental e trabalhista prevista e exigida pela legislação
+brasileira.
+
+O BNB, portanto, financia os projetos aprovados, cabendo-lhe o monitoramento do uso dos recursos e projetos. Fica a cargo dos
+Submutuários, empresas, estatais não dependentes e governos estaduais e municipais, a responsabilidade direta pela execução. O
+monitoramento permite a coleta de dados de forma a atender exigência de comprovação, informação e desenvolvimento de base interna
+de dados.
+
+Dentre as responsabilidades do BNB estão a observância de obrigações financeiras e não financeiras a serem assumidas no contrato de
+empréstimo.
+
+Os recursos do empréstimo serão recebidos diretamente pelo BNB, que os repassará por meio de operações de financiamento a agentes
+econômicos privados e entes de governos estaduais e municipais da região. Os recursos serão repassados pelo BIRD ao BNB conforme
+cronograma a ser elaborado durante a preparação do Programa, e os desembolsos do BNB aos beneficiários finais dos recursos
+ocorrerão mediante apresentação de cartas-consulta e projetos de financiamento ao Banco, para análise e eventual aprovação. Eventuais
+ajustes nas regras e procedimentos de concessão de crédito aos segmentos a serem atendidos serão efetuados em comum acordo entre
+BNB e BIRD durante a etapa de preparação do Programa.
+
+ESTRUTURA OPERACIONAL
+
+A gestão estratégica do Programa será estabelecida na sede do BNB, em Fortaleza/CE, com equipe com qualificação técnica e
+experiência em análise, gerenciamento, monitoramento e acompanhamento de programas de financiamento com recursos internacionais.
+
+A gestão operacional contará com técnicos especializados do BNB, incluindo o apoio da equipe do Banco lotada nas superintendências
+estaduais e centrais de análise.
+
+A experiência do BNB como mutuário de financiamentos internacionais pode ser evidenciada na operacionalização bem sucedida de
+outras captações recentes efetuadas com organismos multilaterais, a exemplo da Agência Francesa de Desenvolvimento (AFD), Banco
+Europeu de Investimento (BEI) e Corporação Andina de Fomento (CAF), além de várias experiências anteriores, a exemplo do Banco
+Interamericano de Desenvolvimento (BID) no Prodetur/NE e com o Banco Mundial para o programa de microcrédito Crediamigo.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Banco do Nordeste do Brasil - BNB
+
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 5 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+C - DESCARBONIZAÇÃO INDUSTRIAL
+
+S - TECNOLOGIAS E EMPREENDIMENTOS PRÓ-DESCARBONIZAÇÃO
+
+COMPONENTES
+
+Fax:
+UF:
+
+VALOR
+
+CUSTO
+150.000.000,00
+
+Ano 1
+
+FONTES
+
+BIRD
+
+7.500.000,00
+
+150.000.000,00
+
+7.500.000,00
+
+TOTAL
+
+BIRD
+
+P - Aquisição de máquinas e equipamentos necessários à utilização de combustíveis de baixo carbono por empresas
+
+60.000.000,00
+
+3.000.000,00
+
+P - Implantação de unidades de produção de combustíveis de baixo carbono
+
+40.000.000,00
+
+2.000.000,00
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 13
+
+P - Implantação, ampliação ou modernização de empreendimentos de cadeias de suprimento para produção de veículos elétricos ou
+híbridos
+P - Implantação de tecnologias de redução de emissões e ecoeficiência na Indústria
+
+C - TRANSIÇÃO ENERGÉTICA
+
+S - ENERGIA RENOVÁVEL
+
+P - Geração de energia de fontes renováveis
+
+S - INTEGRAÇÃO E EFICIÊNCIA ENERGÉTICA
+
+P - Linhas de Transmissão e Distribuição
+
+P - Modernização de Iluminação Pública
+
+P - Eficiência energética
+
+C - INFRAESTRUTURA DE SUPORTE
+
+30.000.000,00
+
+1.500.000,00
+
+20.000.000,00
+
+1.000.000,00
+
+200.000.000,00
+
+10.000.000,00
+
+80.000.000,00
+
+4.000.000,00
+
+80.000.000,00
+
+4.000.000,00
+
+120.000.000,00
+
+6.000.000,00
+
+70.000.000,00
+
+3.500.000,00
+
+20.000.000,00
+
+1.000.000,00
+
+30.000.000,00
+
+1.500.000,00
+
+150.000.000,00
+
+7.500.000,00
+
+S - INFRAESTRUTURA DE SUPORTE RELACIONADA À TRANSIÇÃO ENERGÉTICA E À DESCARBONIZAÇÃO INDUSTRIAL
+
+150.000.000,00
+
+7.500.000,00
+
+P - Infraestrutura logística e de transporte
+
+P - Fornecimento de água, tratamento de esgoto e reuso de águas residuais
+
+P - Conectividade
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+80.000.000,00
+
+4.000.000,00
+
+50.000.000,00
+
+2.500.000,00
+
+20.000.000,00
+
+1.000.000,00
+
+0,00
+
+25.000.000,00
+
+0,00
+
+C - DESCARBONIZAÇÃO INDUSTRIAL
+
+S - TECNOLOGIAS E EMPREENDIMENTOS PRÓ-DESCARBONIZAÇÃO
+
+COMPONENTES
+
+P - Aquisição de máquinas e equipamentos necessários à utilização de combustíveis de baixo carbono por empresas
+
+P - Implantação de unidades de produção de combustíveis de baixo carbono
+
+P - Implantação, ampliação ou modernização de empreendimentos de cadeias de suprimento para produção de veículos elétricos ou
+híbridos
+P - Implantação de tecnologias de redução de emissões e ecoeficiência na Indústria
+
+C - TRANSIÇÃO ENERGÉTICA
+
+S - ENERGIA RENOVÁVEL
+
+P - Geração de energia de fontes renováveis
+
+S - INTEGRAÇÃO E EFICIÊNCIA ENERGÉTICA
+
+P - Linhas de Transmissão e Distribuição
+
+P - Modernização de Iluminação Pública
+
+P - Eficiência energética
+
+C - INFRAESTRUTURA DE SUPORTE
+
+S - INFRAESTRUTURA DE SUPORTE RELACIONADA À TRANSIÇÃO ENERGÉTICA E À DESCARBONIZAÇÃO INDUSTRIAL
+
+P - Infraestrutura logística e de transporte
+
+P - Fornecimento de água, tratamento de esgoto e reuso de águas residuais
+
+P - Conectividade
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - DESCARBONIZAÇÃO INDUSTRIAL
+
+S - TECNOLOGIAS E EMPREENDIMENTOS PRÓ-DESCARBONIZAÇÃO
+
+COMPONENTES
+
+P - Aquisição de máquinas e equipamentos necessários à utilização de combustíveis de baixo carbono por empresas
+
+P - Implantação de unidades de produção de combustíveis de baixo carbono
+
+P - Implantação, ampliação ou modernização de empreendimentos de cadeias de suprimento para produção de veículos elétricos ou
+híbridos
+P - Implantação de tecnologias de redução de emissões e ecoeficiência na Indústria
+
+C - TRANSIÇÃO ENERGÉTICA
+
+S - ENERGIA RENOVÁVEL
+
+P - Geração de energia de fontes renováveis
+
+S - INTEGRAÇÃO E EFICIÊNCIA ENERGÉTICA
+
+P - Linhas de Transmissão e Distribuição
+
+P - Modernização de Iluminação Pública
+
+P - Eficiência energética
+
+C - INFRAESTRUTURA DE SUPORTE
+
+S - INFRAESTRUTURA DE SUPORTE RELACIONADA À TRANSIÇÃO ENERGÉTICA E À DESCARBONIZAÇÃO INDUSTRIAL
+
+P - Infraestrutura logística e de transporte
+
+P - Fornecimento de água, tratamento de esgoto e reuso de águas residuais
+
+P - Conectividade
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - DESCARBONIZAÇÃO INDUSTRIAL
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+VALOR
+
+CUSTO
+
+TOTAL
+
+BIRD
+
+Ano 2
+
+FONTES
+
+BIRD
+
+22.500.000,00
+
+22.500.000,00
+
+9.000.000,00
+
+6.000.000,00
+
+4.500.000,00
+
+3.000.000,00
+
+30.000.000,00
+
+12.000.000,00
+
+12.000.000,00
+
+18.000.000,00
+
+10.500.000,00
+
+3.000.000,00
+
+4.500.000,00
+
+22.500.000,00
+
+22.500.000,00
+
+12.000.000,00
+
+7.500.000,00
+
+3.000.000,00
+
+0,00
+
+75.000.000,00
+
+0,00
+
+TOTAL
+
+BIRD
+
+Ano 3
+
+FONTES
+
+BIRD
+
+45.000.000,00
+
+45.000.000,00
+
+18.000.000,00
+
+12.000.000,00
+
+9.000.000,00
+
+6.000.000,00
+
+60.000.000,00
+
+24.000.000,00
+
+24.000.000,00
+
+36.000.000,00
+
+21.000.000,00
+
+6.000.000,00
+
+9.000.000,00
+
+45.000.000,00
+
+45.000.000,00
+
+24.000.000,00
+
+15.000.000,00
+
+6.000.000,00
+
+0,00
+
+150.000.000,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+BIRD
+
+45.000.000,00
+
+TOTAL
+
+BIRD
+
+
+Página: 14
+
+S - TECNOLOGIAS E EMPREENDIMENTOS PRÓ-DESCARBONIZAÇÃO
+
+P - Aquisição de máquinas e equipamentos necessários à utilização de combustíveis de baixo carbono por empresas
+
+P - Implantação de unidades de produção de combustíveis de baixo carbono
+
+P - Implantação, ampliação ou modernização de empreendimentos de cadeias de suprimento para produção de veículos elétricos ou
+híbridos
+P - Implantação de tecnologias de redução de emissões e ecoeficiência na Indústria
+
+C - TRANSIÇÃO ENERGÉTICA
+
+S - ENERGIA RENOVÁVEL
+
+P - Geração de energia de fontes renováveis
+
+S - INTEGRAÇÃO E EFICIÊNCIA ENERGÉTICA
+
+P - Linhas de Transmissão e Distribuição
+
+P - Modernização de Iluminação Pública
+
+P - Eficiência energética
+
+C - INFRAESTRUTURA DE SUPORTE
+
+S - INFRAESTRUTURA DE SUPORTE RELACIONADA À TRANSIÇÃO ENERGÉTICA E À DESCARBONIZAÇÃO INDUSTRIAL
+
+P - Infraestrutura logística e de transporte
+
+P - Fornecimento de água, tratamento de esgoto e reuso de águas residuais
+
+P - Conectividade
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - DESCARBONIZAÇÃO INDUSTRIAL
+
+S - TECNOLOGIAS E EMPREENDIMENTOS PRÓ-DESCARBONIZAÇÃO
+
+COMPONENTES
+
+P - Aquisição de máquinas e equipamentos necessários à utilização de combustíveis de baixo carbono por empresas
+
+P - Implantação de unidades de produção de combustíveis de baixo carbono
+
+P - Implantação, ampliação ou modernização de empreendimentos de cadeias de suprimento para produção de veículos elétricos ou
+híbridos
+P - Implantação de tecnologias de redução de emissões e ecoeficiência na Indústria
+
+C - TRANSIÇÃO ENERGÉTICA
+
+S - ENERGIA RENOVÁVEL
+
+P - Geração de energia de fontes renováveis
+
+S - INTEGRAÇÃO E EFICIÊNCIA ENERGÉTICA
+
+P - Linhas de Transmissão e Distribuição
+
+P - Modernização de Iluminação Pública
+
+P - Eficiência energética
+
+C - INFRAESTRUTURA DE SUPORTE
+
+S - INFRAESTRUTURA DE SUPORTE RELACIONADA À TRANSIÇÃO ENERGÉTICA E À DESCARBONIZAÇÃO INDUSTRIAL
+
+P - Infraestrutura logística e de transporte
+
+P - Fornecimento de água, tratamento de esgoto e reuso de águas residuais
+
+P - Conectividade
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+45.000.000,00
+
+18.000.000,00
+
+12.000.000,00
+
+9.000.000,00
+
+6.000.000,00
+
+60.000.000,00
+
+24.000.000,00
+
+24.000.000,00
+
+36.000.000,00
+
+21.000.000,00
+
+6.000.000,00
+
+9.000.000,00
+
+45.000.000,00
+
+45.000.000,00
+
+24.000.000,00
+
+15.000.000,00
+
+6.000.000,00
+
+VALOR
+
+CUSTO
+
+0,00
+
+150.000.000,00
+
+0,00
+
+Ano 5
+
+FONTES
+
+BIRD
+
+30.000.000,00
+
+TOTAL
+
+BIRD
+150.000.000,00
+
+30.000.000,00
+
+150.000.000,00
+
+12.000.000,00
+
+60.000.000,00
+
+8.000.000,00
+
+40.000.000,00
+
+6.000.000,00
+
+30.000.000,00
+
+4.000.000,00
+
+20.000.000,00
+
+40.000.000,00
+
+200.000.000,00
+
+16.000.000,00
+
+80.000.000,00
+
+16.000.000,00
+
+80.000.000,00
+
+24.000.000,00
+
+120.000.000,00
+
+14.000.000,00
+
+70.000.000,00
+
+4.000.000,00
+
+20.000.000,00
+
+6.000.000,00
+
+30.000.000,00
+
+30.000.000,00
+
+150.000.000,00
+
+30.000.000,00
+
+150.000.000,00
+
+16.000.000,00
+
+80.000.000,00
+
+10.000.000,00
+
+50.000.000,00
+
+4.000.000,00
+
+20.000.000,00
+
+500.000.000,00
+
+100.000.000,00
+
+500.000.000,00
+
+O principal ato legal necessário à execução do Programa é a assinatura do contrato referente ao IPF entre o BNB e o BIRD, com
+participação da União enquanto garantidor soberano. A contratação do empréstimo externo, assim como as ações previstas no Programa,
+serão executadas ao abrigo da legislação e regulamentação vigentes no País, a exemplo de: Resoluções Bacen 2.827/2001 e 3.844/2010,
+Resolução CMN, Resolução CMN 4.857/2020, Resoluções Cofiex 03/2019, 01/2021, 02/2021, 17/2021, Resoluções do Senado Federal
+40/2001, 43/2001, 88/2007, 49/2007, Lei Federal 13.303/2016 (Lei das Estatais), Lei Complementar 101/2000 (LRF), Lei Complementar
+148/2014, Lei Complementar 159/2017, Lei Federal 10.552/2002 e alterações, Manual para Instrução de Pleitos e Portarias da STN,
+Portarias do Ministério da Fazenda e a Constituição Federal.
+
+Além da legislação nacional vigente, para contratação e execução do programa, deverão ser obedecidas as normas vigentes do BIRD,
+adequadas e compatibilizadas às exigências e requisitos já existentes na legislação nacional e à realidade operacional do Banco do
+Nordeste.
+
+Não se verifica a necessidade ou dependência de outros atos legais, além daqueles específicos (citados acima) relacionados ao processo
+de aprovações e autorizações legais requeridos para a celebração do empréstimo externo.
+
+Para mitigar riscos de incumprimento do marco legal e regulatório, o BNB contará com o apoio de sua área jurídica, além de eventual
+assessoria jurídica terceirizada. Ademais, foram e seguirão sendo realizadas reuniões periódicas de alinhamento entre as equipes do BNB
+e do BIRD para mitigar riscos associados ao processo de negociação e assinatura do contrato entre as partes.
+
+Contratações
+
+(cid:10)
+
+
+Página: 15
+
+Não há previsão de contratação de consultorias para a execução do Programa, tampouco de contratação de pessoal diretamente pelo
+BNB para a operacionalização da linha de financiamento.
+
+Para minimizar riscos, o BNB contará com especialistas de sua equipe técnica e de sua área jurídica.
+
+A contratação do empréstimo externo obedecerá à legislação nacional vigente, normas do Banco Central e às políticas e diretrizes do
+BIRD, de forma que as minutas do contrato de empréstimo serão trabalhadas durante a negociação e preparação do Programa pelas
+equipes das duas instituições.
+
+Para mitigar o risco de crédito dos projetos a serem financiados, a esteira tradicional de análise de projetos e concessão de crédito do
+Banco do Nordeste será obedecida, aplicando-se o mesmo grau de exigência que tradicionalmente resulta num baixo índice de não
+cumprimento de operações.
+
+Não se verifica risco de ausência de demanda para os recursos levantados no âmbito do conjunto dos componentes do programa.
+
+Desapropriações e Indenizações
+
+De forma geral, a experiência de crédito do BNB não tem registrado incidências de desapropriações/reassentamentos involuntários,
+contudo caso se façam necessárias ações compensatórias, essas questões deverão ser tratadas à luz da legislação federal, estadual e,
+se for o caso, municipal, buscando-se evitar ou minimizar a desapropriação de pessoas de suas propriedades e, na hipótese de inevitável,
+será buscado que as pessoas recebam tratamento equitativo e medidas compensatórias adequadas a cada situação.
+
+Dessa forma, para a implementação das ações previstas no Projeto, ao longo de todo o período compreendido pelo Programa, as
+desapropriações, se identificadas, deverão ocorrer na forma exigida pela legislação federal, estadual e, se for o caso, municipal, que rege
+a matéria, pelas diretrizes e normativos ASG do Banco do Nordeste e do BIRD.
+
+Impactos Ambientais
+
+A concepção do Programa está consentânea com o conceito de sustentabilidade, na qual busca-se viabilizar aquisições e obras
+concernentes aos objetivos definidos, que assegure a efetiva contribuição à transição energética e descarbonização industrial, mitigando
+emissões de GEE, com o objetivo maior de melhoria da qualidade de vida das pessoas.
+
+Há que se considerar, contudo, que empreendimentos de infraestrutura, que também são financiáveis no Programa, pela sua própria
+natureza e caráter sistêmico provocam uma série de impactos no meio ambiente. Entretanto, será adotado o Sistema de Gestão Ambiental
+e Social (SGAS) do BNB, alinhado com os padrões de desempenho previstos na Política Ambiental e Social do BIRD como alavanca para
+mitigação de riscos, melhor desempenho na execução dos projetos e melhores resultados ambientais e sociais, ao longo do ciclo de vida
+do projeto.
+
+Nesse sentido, são especialmente relevantes as diretrizes do SGAS relativas à avaliação e gestão de riscos e impactos sociais e
+ambientais e a conservação de biodiversidade e gestão sustentável dos recursos naturais, de modo apropriado à natureza, objetivos,
+necessidades, escala, prazo e recursos do programa.
+
+Desse modo, serão incorporadas as práticas internacionais trazidas pelo BIRD às especificidades relacionadas às infraestruturas e
+atividades produtivas abrangidas pelo Programa, observando os elementos do marco legal e regulatório nacional aplicáveis à variável
+ambiental, tais como:
+
+a)Política Nacional do Meio Ambiente: com objetivos e forma de aplicação definidos na Lei Complementar nº 140/2011, Lei nº 6.938/1981,
+Decreto nº 99.274/1990, Resolução nº 237/1997 do Conselho Nacional do Meio Ambiente (CONAMA) e, no que respeita às penalidades
+aplicáveis às infrações ambientais, a Lei nº 9.605, de 12/02/1998;
+
+b)No âmbito estadual, as Políticas Estaduais do Meio Ambiente, definidas na legislação e atos administrativos de cada Estado;
+
+c)Resolução do Conselho Monetário Nacional - CMN nº 4.945/2021: Dispõe sobre a Política de Responsabilidade Social, Ambiental e
+Climática (PRSAC) e sobre as ações com vistas à sua efetividade para as instituições financeiras e demais instituições autorizadas a
+funcionar pelo Banco Central do Brasil;
+
+d)Normativo SARB nº 14/2014: Normativo de criação e implementação de política de responsabilidade socioambiental do Sistema de
+Autorregulação Bancária da Federação Brasileira de Bancos -FEBRABAN;
+
+e)Política de Responsabilidade Socioambiental do Banco do Nordeste.
+
+2.11Impacto Social
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 16
+
+Possíveis impactos sociais negativos e riscos sociais potenciais se referem especialmente à execução dos projetos de obras de
+infraestrutura financiáveis no Programa, sendo esperado que gerem reduzida interferência negativa em populações, considerando o
+escopo total do Programa.
+
+Pela natureza dos projetos de infraestrutura envolvidos, a operação deverá envolver, ainda que baixo, algum risco de ocorrência de
+reassentamento físico involuntário de pessoas ou de utilização de parte de propriedades privadas, especialmente rurais, para implantação
+das obras de infraestrutura previstas - esses os principais impactos sociais negativos identificados, ambos de caráter local. Nesse escopo,
+não são identificados impactos diretos negativos significativos para populações socialmente vulneráveis, como povos indígenas ou
+comunidades afrodescendentes.
+
+Os possíveis impactos sociais negativos são avaliados preliminarmente como de menor intensidade e terão reduzida sua probabilidade de
+ocorrência, uma vez que serão mitigados pela utilização de um sistema de gestão de risco socioambiental, a ser detalhado nos
+documentos posteriores do programa. O monitoramento socioambiental do desenvolvimento dos projetos será realizado pelo Banco do
+Nordeste.
+
+Na eventualidade de vir a ser identificado projeto que gere interferência negativa em populações, em especial indígenas, quilombolas e
+outros segmentos socialmente vulneráveis, serão adotadas as medidas mitigadoras apropriadas, com observância da legislação pertinente
+, das diretrizes e normativos ASG do Banco do Nordeste e do BIRD.
+
+Ademais, ainda que o impacto específico do Programa dependa dos subprojetos apoiados, de maneira geral é esperado impacto social
+positivo, com a criação de empregos e geração de renda em virtude dos investimentos realizados, bem como a redução da poluição do ar
+e os consequentes ganhos de saúde pela redução na queima de combustíveis fósseis.
+
+2.12Reassentamentos
+
+Eventuais reassentamentos populacionais que se fizerem necessários, em decorrência da execução do Programa, serão de
+responsabilidade dos submutuários e ocorrerão na forma exigida pela legislação federal, estadual e, se for o caso, municipal, que rege a
+matéria, pelas diretrizes e normativos ASG do Banco do Nordeste e do BIRD, com as indenizações respectivas financiadas com os
+recursos dos submutuários aos quais esteja a obra vinculada e por meio dos órgãos apropriados de sua estrutura de gestão.
+
+Para tanto, será exigido no processo de análise e contratação dos subempréstimos a comprovação quanto à previsão de recursos e à
+estrutura executiva adequada a ser utilizada, caso a execução de seus projetos impliquem em reassentamentos populacionais, bem como
+o compromisso de observância da legislação e diretrizes do BNB e do BIRD, buscando evitar ou minimizar o deslocamento de pessoas do
+seu meio e, na hipótese de inevitável, que as pessoas recebam tratamento equitativo e compensação adequada.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+- 05/08/2024: Autorizado na 174ª Cofiex, em 13/06/2024, conforme Resolução Cofiex nº 28, de 13 de junho de 2024.
+
+Informações relevantes
+
+(cid:10)
+(cid:10)
+(cid:10)

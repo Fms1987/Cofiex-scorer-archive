@@ -1,0 +1,1182 @@
+# Carta-Consulta CC_61118 — Versao 3 (SIGS)
+
+
+Projeto Paraná Empreendedor - Promoção do Desenvolvimento Sustentável do Paraná por
+meio da ampliação do crédito produtivo às MPMEs no contexto pós pandêmico
+
+CARTA CONSULTA
+
+Nº Carta Consulta: 61118
+Processo: 03101.000489/2024-55
+Mutuário: Estado do Paraná
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  13 de Maio de 2024
+
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 50.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+Com 399 municípios (IDHM Estadual Médio de 0,749 ref. PNUD/2010) o Paraná conta atualmente com 1.558.622 (ref. Jan/24, fonte RFB)
+empresas ativas, e deste total 92,4% são de micro ou pequeno portes, sendo 49,9% Microempreendedores Individuais (MEIs), 38,2%
+Microempresas (MEs) e 4,7% Empresas de Pequeno Porte (EPPs). Tais empreendimentos são vitais para geração e manutenção do
+emprego no Estado, e são responsáveis por 54,1% dos postos ocupados em 2021 (ref. RAIS/ME). Além de gerarem empregos e renda,
+suas atividades impulsionam a inovação e a diversificação econômica, fortalecendo a resiliência do Estado.
+
+Em que pese sua importância, os microempreendedores são especialmente suscetíveis a crises devido a fatores como falta de reservas
+financeiras e acesso limitado ao crédito. Muitos operam em setores voláteis, como serviços e varejo, tornando-os suscetíveis a quedas na
+demanda. A falta de diversificação em suas atividades, bem como dificuldades em lidar com a carga regulatória e burocrática,
+representam obstáculos adicionais, especialmente em momentos de incerteza econômica.
+
+O segmento foi um dos maiores impactados durante a pandemia de Covid-19. Segundo estudo do SEBRAE, em parceria com a FGV,
+mais de metade dos micro e pequenos negócios no país tiveram que alterar suas operações em decorrência da crise, e quase 10%
+chegaram a interromper seu funcionamento. A maioria (68%) relatou queda de faturamento em relação ao período anterior à pandemia,
+com movimento de recuperação iniciando-se ao final de 2021.
+
+Desde então, observa-se um aumento na abertura de novos empreendimentos, tendência impulsionada por maior autonomia no mercado
+de trabalho e vivência de crises econômicas que estimulam a busca por fontes alternativas de renda. Segundo dados da JUCEPAR (Dez/
+23), 2023 encerrou como o ano de maior número de abertura de empresas dos últimos cinco anos, contabilizando 277.636 empresas,
+sendo que 7 em cada 10 foram registradas como Microempreendedores Individuais (MEIs).
+
+Fundamental para apoiar esse processo de expansão é promover o acesso ao crédito a esse público, que encontra dificuldades ao
+solicitar empréstimos e financiamentos junto a instituições tradicionais, dentre outros motivos, pela indisponibilidade de informações
+contábeis padronizadas, falta de histórico de crédito e barreiras ao oferecimento de garantias. Como consequência, observa-se uma
+participação desse segmento no mercado de crédito que não condiz com sua importância para a economia nacional.
+
+Tal contexto revela-se particularmente agudo ao observarmos o subgrupo das empreendedoras mulheres. Segundo o levantamento
+Empreendedoras e Seus Negócios 2018, que contou com apoio da Avon e do Instituto Rede Mulher Empreendedora (RME), apenas 3%
+das empreendedoras brasileiras contaram com empréstimos bancários para começar seus negócios. A maior parte iniciou sem nenhum
+recurso (37%), recorreu a poupanças (17%) ou salário próprio (13%).
+
+Esse cenário desafiador inspira a atuação das instituições financeiras públicas. Monitoramento do SEBRAE que acompanhou as ações de
+financiamento das micro, pequenas empresas ao longo de 8 anos, até 2020, revelou que a categoria de instituições financeiras públicas foi
+a única que apresentou expansão no período, sendo que especificamente entre os anos de 2019 e 2020, a demanda por novos
+empréstimos dobrou e mais de metade (55%) foram atendidos por instituições públicas.
+
+A importância de programas oficiais de crédito para a sobrevivência dos micro e pequenos negócios, já evidenciada durante a pandemia, é
+reforçada diante do cenário de recorrentes crises ligadas a eventos climáticos extremos (incluindo chuvas excessivas e enchentes que
+assolam dezenas de cidades paranaenses todos os anos) e emergências sanitárias (como a atual epidemia de dengue no estado). Diante
+de tais desafios, a Fomento Paraná atua intensivamente para apoiar os empreendedores atingidos e contribuir com a retomada de suas
+atividades o mais rapidamente possível. Dentre as ações de destaque, encontra-se a disponibilização de linhas de crédito emergencial
+com taxas de juros subsidiadas no âmbito do Programa Paraná Recupera, criado pela lei estadual nº 20.164/20.
+
+Desenha-se, portanto, um cenário de necessidade expansão de apoio financeiro junto ao público de MPMEs, que tem junto às instituições
+financeiras públicas uma ferramenta de apoio, e é neste contexto que a Fomento Paraná destaca-se como uma das principais alternativas
+disponíveis ao Governo do Estado do Paraná. Tendo sua atuação junto ao Setor Privado orientada particularmente ao apoio desse público
+, a Fomento Paraná guarda em sua expansão operacional amplo potencial de apoio a trajetória do desenvolvimento sustentável desses
+empreendimentos fundamentais para a economia do Paraná.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+Evidenciadas as necessidades do público das MPMEs no Estado do Paraná e a importância do papel da Fomento Paraná em apoiá-las,
+propõe-se a instituição do Projeto Paraná Empreendedor, que consiste em ação de apoio ao desenvolvimento sustentável do segmento
+por meio da ampliação do crédito produtivo ofertado pela Fomento Paraná, a partir de aporte no montante de USD$ 50 milhões a serem
+captados pelo Governo do Estado do Paraná junto ao Banco Interamericano de Desenvolvimento - BID.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+Visando ampliar o impacto dos recursos a trajetória do Desenvolvimento Sustentável do Paraná, o Projeto Paraná Empreendedor
+concentrará seus esforços de oferta de crédito em três áreas-chave: expansão das microfinanças, promoção do empreendedorismo
+feminino e apoio a iniciativas sustentáveis, de eficiência energética e uso de energias alternativas. Além disso, parte dos recursos será
+direcionada para fortalecer as capacidades tecnológicas e digitais da Fomento Paraná, agilizando o processo de concessão de crédito e
+melhorando sua eficiência operacional.
+
+Estima-se que o Projeto Paraná Empreendedor tenha o potencial de atender a aproximadamente 20 mil empreendimentos apenas no
+primeiro ciclo de desembolsos. Além do amplo alcance, a implementação do projeto terá como impacto concreto a viabilização de oferta
+de crédito a taxas atrativas para MPMEs. A redução do custos a partir do aporte de recursos pelo Governo do Estado na instituição
+permitirá a operacionalização de crédito com taxas de juros mais baixas de forma sustentável, atendendo a uma das principais demandas
+dos micro e pequenos empreendedores.
+
+Os juros elevados são uma das principais barreiras enfrentadas por esse público, sendo que a solicitação de novos empréstimos e
+financiamentos caiu, entre 2020 e 2023, a patamar semelhante à antes da pandemia. Essa é uma tendência que deve ser revertida, pois o
+acesso ao crédito é um dos fatores relacionados à sobrevivência das empresas no país. Empreendedores acessando recursos mais
+baratos têm maiores possibilidades de retorno para seus negócios, e menores probabilidades de inadimplência.
+
+Este montante de crédito produtivo destinado ao segmento desencadeará uma série de externalidades positivas, incluindo a geração de
+empregos, aumento da massa salarial, ampliação da arrecadação e crescimento do Produto Interno Bruto do Estado. Esses benefícios
+perdurarão para além do período de execução do projeto, uma vez que os recursos retornarão à Fomento Paraná com o pagamento dos
+beneficiários, reforçando sua capacidade financeira a longo prazo.
+
+Além disso, parte dos recursos será direcionada para fortalecer as capacidades tecnológicas e digitais da Fomento Paraná. Os
+investimentos em tecnologia terão impacto na automação dos processos da instituição, agilizando procedimentos, acelerando o processo
+de concessão de crédito e reduzindo possíveis erros. Pretende-se assim atingir expressiva melhoria da experiência dos clientes, com
+maior eficiência operacional. Trata-se, portanto, de um Projeto de alto impacto para o futuro da Fomento Paraná e sua capacidade de
+atender com excelência e segurança o empreendedor paranaense.
+
+No que se refere a sustentabilidade financeira do Projeto no longo prazo, desataca-se que a captação virá a aumentar o capital próprio da
+Fomento Paraná, gerando impacto positivo sobre o Índice de Basileia da instituição (índice bancário relacionado a solidez financeira).
+Esse reforço do capital próprio também irá expandir as opções de captação de recursos da Fomento Paraná junto a outras fontes (tais
+como BNDES, CEF e instituições internacionais), permitindo maior flexibilidade na composição do mix de funding da instituição, sempre
+com vistas a oferecer as melhores condições possíveis ao tomador do crédito, de forma sustentável. Ainda, por se tratar de um capital
+destinado exclusivamente a operações de crédito, sua disponibilização no mercado gera ativos e receitas para a instituição, sendo que,
+conforme são recebidas as amortizações, os recursos que retornam podem ser reaplicados na economia, em um ciclo positivo de
+crescimento.
+
+Além de fornecer um apoio eficaz por meio do crédito produtivo às MPMEs no contexto pós pandemia, as concessões de crédito também
+contribuirão para o avanço da agenda dos Objetivos de Desenvolvimento Sustentável (ODS), incluindo igualdade de gênero, energia limpa
+, trabalho decente, inovação e infraestrutura, redução das desigualdades, desenvolvimento de comunidades inteligentes e ação contra a
+mudança climática global.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+As diretivas de apoio as MPMEs do Estado do Paraná constam como ação prevista em Plano de Governo 2023-2026 (conferir extrato do
+documento nos Anexos), bem como as iniciativas de fomento ao empreendedorismo feminino (Programa Banco da Mulher Paranaense) e
+fomento a adoção em escala de energias alternativas e a promoção de empreendimentos sustentáveis. Também constou no referido
+documento a previsão de fortalecimento das instituições que compõe o Sistema Paranaense de Fomento, do qual a Fomento Paraná é
+integrante, estando o aporte do Governo do Estado na instituição incluído dentre as ações desse fortalecimento.
+
+Também no instrumento do Plano Plurianual do Estado da Paraná 2024-2027 os principais subcomponentes de oferta de crédito
+constantes do Projeto figuraram como entregas específicas do PPA, para o qual os recursos oriundos da captação serão utilizados (
+conferir extrato do documento nos Anexos).
+
+A execução da captação em tela também restou refletida nos documento do Planejamento Estratégico Fomento Paraná: Ciclo 2023-2026 (
+conferir extrato do documento nos Anexos) na forma de projeto a ser concretizado no período de referência.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 4
+
+Quanto a Taxa de Câmbio, apesar dos componentes estarem previstos em Dólares, as simulações que levaram a estimativa do Valor
+Total do Projeto no montante de USD$ 50.000.000,00 tiveram com base uma Taxa de Câmbio de R$5,00 por cada USD$1,00,
+correspondendo a aproximados R$250.000.000,00 (referência Relatório Focus 03/05/2024 do Banco Central do Brasil, que reúne as
+expectativas do mercado para Dez/2024).
+
+2. Projeto
+
+### 2.1. Título
+
+
+Projeto Paraná Empreendedor - Promoção do Desenvolvimento Sustentável do Paraná por meio da ampliação do crédito produtivo às
+MPMEs no contexto pós pandêmico
+
+
+### 2.2. Título Abreviado
+
+
+Paraná Empreendedor
+
+
+### 2.3. Mutuário
+
+
+Estado do Paraná
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+O Projeto Paraná Empreendedor, tem por Objetivo Geral, promover o Desenvolvimento Sustentável do Estado do Paraná no contexto pós
+pandêmico, por meio da ampliação da oferta de crédito produtivo aos micro, pequenos e médios empreendimentos atendidos pela
+Fomento Paraná. Para tanto, o Governo do Estado do Paraná irá promover captação junto ao Banco Interamericano de Desenvolvimento -
+BID, visando a ampliação do capital social da Fomento Paraná para essa finalidade.
+
+Como Objetivos Específicos, o Projeto Paraná Empreendedor, por meio da concessão de crédito produtivo ofertado pela Fomento Paraná,
+visa apoiar:
+
+1) a expansão sustentável da atuação dos micros (incluídos MEIs e informais), pequenos e médios empreendimentos - MPMEs;
+
+2) o avanço do empreendedorismo feminino (Programa Banco da Mulher Paranaense);
+
+3) a adoção de iniciativas sustentáveis, de eficiência energética e de uso de energias renováveis.
+
+Ainda, visando a melhoria das capacidades de atendimento junto a seu público alvo, o Projeto busca contribuir:
+
+4) com a ampliação das capacidades tecnológicas e digitais da Fomento Paraná, por meio da realização de investimentos internos em
+tecnologia.
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+
+
+Descrição
+Concessão de crédito a micro, pequenos e
+médios empreendimentos - MPMEs
+
+Concessão de crédito a empreendimentos sob
+gestão feminina
+
+Concessão de crédito à iniciativas sustentáveis,
+de eficiência energética e uso de energias
+renováveis
+
+Investimentos em tecnologia da informação (TI)
+na Fomento Paraná
+
+Micro (incluindo MEIs e informais), pequenos e
+médios empreendimentos apoiados com
+operações de crédito
+Empreendimentos com participação societária
+feminina apoiados com operações de crédito
+
+Empreendimentos apoiados com operações de
+crédito orientadas à iniciativas sustentáveis, de
+eficiência energética e energias renováveis
+Índice de investimentos institucionais em
+Tecnologia
+
+USD$
+
+USD$
+
+USD$
+
+Fórmula de Cálculo Unidade de Medida
+Somatório dos
+recursos direcionados,
+por meio de
+operações de crédito,
+aos micro (incluindo
+MEIs e informais),
+pequenos e médios
+empreendimentos
+Somatório dos
+recursos direcionados,
+por meio de
+operações de crédito,
+a empreendimentos
+com gestão feminina
+Somatório dos
+recursos direcionados,
+por meio de
+operações de crédito,
+a empreendimentos
+promotores de
+iniciativas
+sustentáveis, de
+eficiência energética e
+uso de energias
+renováveis
+Somatório dos valores
+alocados em
+investimentos de
+Tecnologia da
+Informação (TI)
+realizados pela
+Fomento Paraná
+Somatório de
+empreendimentos
+apoiados
+Somatório de
+empreendimentos
+apoiados
+Somatório de
+empreendimentos
+apoiados
+Somatório do gasto e
+do investimento total
+em TIC da Fomento
+Paraná, em relação
+ao seu faturamento
+líquido
+
+Empreendimentos
+apoiados
+
+Empreendimentos
+apoiados
+
+Valor Monetário (
+USD)
+
+Empreendimento
+apoiado
+
+Percentual
+
+
+Página: 5
+
+Linha de Base
+0,00
+
+Meta
+30.000.000,00
+
+0,00
+
+10.000.000,00
+
+0,00
+
+9.000.000,00
+
+0,00
+
+1.000.000,00
+
+0,00
+
+15.000,00
+
+0,00
+
+0,00
+
+1,36
+
+5.000,00
+
+150,00
+
+1,80
+
+
+### 2.7. Projeto/Componentes
+
+
+Componentes
+C - APOIO AO DESENVOLVIMENTO SUSTENTÁVEL DAS MPMES DO PARANÁ NO CONTEXTO PÓS
+PANDÊMICO
+S - APOIO AOS MICRO (INCLUINDO MEIS E INFORMAIS), PEQUENOS E MÉDIOS EMPREENDIMENTOS -
+MPMES
+P - Concessão de crédito a micro (incluindo MEIs e informais), pequenos e médios empreendimentos - MPMEs
+S - APOIO AO EMPREENDEDORISMO FEMININO (PROGRAMA BANCO DA MULHER PARANAENSE)
+P - Concessão de crédito à empreendimentos com gestão feminina (Programa Banco da Mulher Paranaense)
+S - APOIO A INICIATIVAS SUSTENTÁVEIS, DE EFICIÊNCIA ENERGÉTICA E USO DE ENERGIAS
+RENOVÁVEIS
+P - Concessão de crédito a iniciativas sustentáveis, de eficiência energética e uso de energias renováveis
+C - APRIMORAR AS CAPACIDADES TECNOLÓGICAS E DIGITAIS DA FOMENTO PARANÁ
+S - INVESTIMENTOS EM TECNOLOGIA DA INFORMAÇÃO (TI) NA FOMENTO PARANÁ
+P - Contratações de serviços de desenvolvimento e soluções tecnológicas de mercado
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Valor(US$)
+49.000.000,00
+
+30.000.000,00
+
+30.000.000,00
+10.000.000,00
+10.000.000,00
+9.000.000,00
+
+9.000.000,00
+1.000.000,00
+1.000.000,00
+1.000.000,00
+50.000.000,00
+
+
+Página: 6
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - APOIO AO DESENVOLVIMENTO SUSTENTÁVEL DAS MPMES DO PARANÁ NO CONTEXTO PÓS PANDÊMICO
+Promover ações de apoio ao desenvolvimento sustentável dos micro, pequenos e médios empreendimentos Paranaenses no
+contexto pós pandêmico, por meio do crédito produtivo ofertado pela Fomento Paraná.
+
+S - APOIO AOS MICRO (INCLUINDO MEIS E INFORMAIS), PEQUENOS E MÉDIOS EMPREENDIMENTOS - MPMES
+Prestar apoio ao público da MPMEs através da oferta de crédito produtivo por meio da Fomento Paraná. Os recursos serão
+orientados as diferentes linhas operacionalizadas pela instituição junto a esse público, dentre elas as de Microcrédito,
+operacionalizado no âmbito do Programa Nacional de Microcrédito Produtivo Orientado - PNMPO.
+
+P - Concessão de crédito a micro (incluindo MEIs e informais), pequenos e médios empreendimentos - MPMEs
+Concessão de crédito produtivo orientado ao público das MPMEs, por meio da Fomento Paraná.
+
+S - APOIO AO EMPREENDEDORISMO FEMININO (PROGRAMA BANCO DA MULHER PARANAENSE)
+Prestar apoio ao público empreendedor feminino através da oferta de crédito produtivo por meio da Fomento Paraná. As ações
+deste componente tem como plataforma o Programa Banco da Mulher Paranaense, que está em operacionalização pela Fomento
+Paraná desde 2019, e oferta recursos em condições diferenciadas para empreendimentos que contam com gestão feminina.
+
+P - Concessão de crédito à empreendimentos com gestão feminina (Programa Banco da Mulher Paranaense)
+Conceder crédito produtivo a empreendimentos com participação feminina na gestão, por meio da Fomento Paraná.
+
+S - APOIO A INICIATIVAS SUSTENTÁVEIS, DE EFICIÊNCIA ENERGÉTICA E USO DE ENERGIAS RENOVÁVEIS
+Prestar apoio a empreendimentos envolvidos em iniciativas sustentáveis, de eficiência energética e o de uso de energias
+alternativas, através da oferta de crédito produtivo por meio da Fomento Paraná.
+
+P - Concessão de crédito a iniciativas sustentáveis, de eficiência energética e uso de energias renováveis
+Concessão de crédito produtivo, por meio da Fomento Paraná, a empreendimentos cujas atividades estejam relacionadas de modo
+direto ou indireto a promoção da sustentabilidade, que estejam conduzindo projetos de eficiência energética ou uso de energias
+renováveis.
+
+C - APRIMORAR AS CAPACIDADES TECNOLÓGICAS E DIGITAIS DA FOMENTO PARANÁ
+Ampliar as capacidades tecnológicas e digitais da Fomento Paraná com vistas a acelerar a originação, análise, processamento e
+demais melhorias relacionadas ao processo de concessão de crédito.
+
+S - INVESTIMENTOS EM TECNOLOGIA DA INFORMAÇÃO (TI) NA FOMENTO PARANÁ
+Investimentos em soluções tecnológicas orientadas a ampliação das capacidades tecnológicas e digitais da Fomento Paraná, por
+meio da contratação de serviços de desenvolvimento ou soluções tecnológicas de mercado.
+
+P - Contratações de serviços de desenvolvimento e soluções tecnológicas de mercado
+Contratações de serviços de desenvolvimento e ou soluções tecnológicas de mercado orientadas a ampliação das capacidades
+operacionais da Fomento Paraná relacionadas ao processo de concessão de crédito.
+
+Categoria de Gasto
+Serviços que Não de Consultoria
+P- Concessão de crédito a micro (incluindo MEIs e
+informais), pequenos e médios empreendimentos
+- MPMEs
+P- Concessão de crédito à empreendimentos com
+gestão feminina (Programa Banco da Mulher
+Paranaense)
+P- Concessão de crédito a iniciativas sustentáveis
+, de eficiência energética e uso de energias
+renováveis
+P- Contratações de serviços de desenvolvimento
+e soluções tecnológicas de mercado
+Total Geral
+
+Unidade de medida
+-
+Valor Monetário
+
+Valor Monetário
+
+Meta
+
+-
+30.000.000,
+
+10.000.000,
+
+Valor
+
+% Financeiro
+
+50.000.000,00
+30.000.000,00
+
+10.000.000,00
+
+Valor Monetário
+
+9.000.000,00
+
+9.000.000,00
+
+Valor Monetário
+
+1.000.000,00
+
+1.000.000,00
+
+-
+
+-
+
+50.000.000,00
+
+100,00
+60,00
+
+20,00
+
+18,00
+
+2,00
+
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Sendo o componente principal do Projeto Paraná Empreendedor orientado a concessão de crédito produtivo por meio da Fomento Paraná,
+pode-se sinalizar que, a partir do recebimento dos recursos oriundos da captação, seu direcionamento ocorrerá de forma imediata para os
+canais de contratação já estabelecidos na instituição.
+
+(cid:10)
+
+
+Página: 7
+
+A Fomento Paraná conta com três principais canais de contratação: sua Rede de Agentes de Crédito, que atuam distribuídos em mais de
+331 municípios do Estado do Paraná na oferta das linhas de Microcrédito, recursos enquadrados no Programa Banco da Mulher
+Paranaense e demais linhas de crédito; a Rede de Correspondentes, que conta com cerca de 230 pontos de atendimento distribuídos
+também por todo o Estado, atuantes na orientação e intermediação dos produtos da instituição, com foco na atendimento do mesmo
+público, porém em valores superiores ao Microcrédito; e o Canal Digital, onde solicitações por crédito podem ser feitas de modo eletrônico
+desde todo o Estado do Paraná, sendo direcionadas aos pontos de atendimento mais próximos, ou atendidas de forma direta pela
+instituição.
+
+Estudos de mercado realizados no período pós pandemia apontam para a continuidade pela demanda de crédito, sobretudo junto ao
+público a vir a ser atendido pelos recursos oriundos da captação (ver detalhes nos Anexos), assegurando a existência de mercado
+potencial para o direcionamento dos recursos.
+
+Com relação ao aspecto de melhoria das capacidades tecnológicas e digitais da instituição, a Fomento Paraná segue uma rotina
+constante de aprimoramento de sistemas e investimentos em tecnologia. No entanto, o contexto da pandemia motivou a instituição a
+buscar medidas adicionais para expandir sua capacidade operacional e agilizar o processo de concessão de crédito. Nesta fase, estão em
+andamento estudos internos para explorar potenciais usos dos recursos obtidos através da captação, que incluem: o levantamento de
+requisitos, pesquisas de campo com instituições semelhantes, análise de soluções tecnológicas disponíveis no mercado e reuniões com
+potenciais fornecedores.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Sem detalhes
+
+Estado do Paraná ()
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+Os condições financeiras da operação (conforme cotação indicativa obtida junto ao BID):
+
+- Valor Total do Projeto: USD$ 50.000.000,00
+
+- Periodicidade de Desembolso: Anual
+
+- Prazo de Carência (meses): 60
+
+- Prazo de Amortização (meses): 300
+
+- Prazo Total (meses): 360
+
+- Taxa de Juros: SOFR + 0,40% + 0,80% (ref. 1° tri 2024, ver quadro taxas na seção de anexos).
+
+- Periodicidade dos Pagamentos: O pagamento de juros ocorre regularmente durante o período de carência, e a periodicidade dos
+pagamentos de amortização, comissão de credito e juros (no período de carência incluso) é semestral.
+
+- Taxa de compromisso: 0,75% a.a. sobre saldo não desembolsado;
+
+- Taxa de inspeção e supervisão: 0.0% (mas pode eventualmente ser alterado até um teto de 1,00%);
+
+- Opções de SWAP: juros fixos em Dólares dos EUA, juros fixos em Reais ou juros variáveis em Reais (CDI ou SELIC).
+
+O processo de escolha pelo Banco Interamericano de Desenvolvimento - BID, decorre de oferta inicialmente feita pelo Banco, durante o
+auge do contexto pandêmico, ao Governo do Estado do Paraná, para o direcionamento de recursos a Fomento Paraná. Com o avanço da
+crise iniciada no final de 2019, a grande procura por financiamentos, sobretudo por parte das Micro e Pequenas empresas, levou ao
+consumo quase que por completo das opções de funding da Fomento Paraná.
+
+Na ocasião, dadas as circunstâncias emergenciais, o Governo do Estado operou no remanejamento de recursos para atendimento
+tempestivo do setor. Contudo, optou por dar continuidade ao processo de negociação com o BID, com vistas a aprimorar as capacidades
+financeiras da Fomento Paraná para atender esse público no contexto pós pandêmico, sendo que o período transcorrido entre as
+negociações iniciais e a apresentação da Carta Consulta, serviu para que ocorresse alinhamento entre as equipes da Fomento Paraná e
+do BID.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 8
+
+O processo de aprovações internas junto ao Governo do Estado acabou ocorrendo em 2023, por meio de avaliação favorável emitida pelo
+COPEC - Comissão de Coordenação e Controle das Operações de Crédito e Concessão de Garantias, que, além de validar o formato
+geral da operação, orientou pela manutenção do BID como Agente Financeiro, tendo em vista: que o BID oferece condições financeiras
+favoráveis em relação a demais instituições financeiras, incluindo taxas de juros competitivas e prazos flexíveis de pagamento, conforme
+pode ser observado no quadro comparativo, disponível no campo de anexos; a vasta experiência da instituição e sua expertise em
+desenvolvimento socioeconômico, inclusive na América do Sul, tendo atuado, junto ao Estado do Paraná especificamente, em uma série
+de projetos de parceria, incluindo três repasses de recursos para a capitalização da Fomento Paraná (programa Paraná Urbano I, II e III)
+contudo, orientadas ao financiamentos de infraestrutura junto ao Setor Público; e pela abordagem integrada ofertada pelo BID que
+combina financiamento com assistência técnicas, fortalecendo a implementação e a sustentabilidade dos projetos.
+
+A opção pelo financiamento externo justifica-se, nesse caso, pelas vantagens que a operação oferece em termos de custo, flexibilidade, e,
+principalmente, pelo modelo que permitirá reforçar o capital próprio da Fomento Paraná. As instituições financeiras nacionais, a exemplo
+do Banco do Brasil, Caixa Econômica Federal e BNDES, atualmente não dispõem programas de crédito voltados especificamente para a
+capitalização de Agências de Fomento. Em vez disso, sua interação ocorre predominantemente por meio de repasses diretos às
+instituições financeiras, resultando em encargos adicionais de captação. Este modelo de operação, que carece de instrumentos
+específicos para a capitalização das agências, tende a implicar em custos mais elevados para o setor de fomento, dificultando
+potencialmente sua eficácia e alcance.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+Estimativas sugerem que os recursos direcionados a oferta de crédito produtivo atenderão de cerca de 20 mil MPMEs durante o curso da
+execução do Projeto Paraná Empreendedor, sendo este o principal público beneficiado de forma direta.
+
+A divisão dos recursos contemplará necessidades específicas deste público, tendo como foco: crédito produtivo as MPMEs (incluindo
+MEIs e informais), com ênfase em operações na modalidade de Microcrédito, que conta com base metodologias de orientação e
+acompanhamento durante o processo de concessão; o apoio a empreendimentos com participação empreendedora feminina, auxiliando
+na mitigação de diferenças de renda e participação entre gêneros; e fomento da eficiência energética e adoção de energias alternativas,
+com efeitos diretos a sustentabilidade ambiental do Estado.
+
+De forma indireta o direcionamento de recursos para esse público guarda uma série de externalidades socioeconômicas positivas, dentre
+elas: estima-se que o crédito beneficie mais de 50 mil pessoas de modo indireto (ao incluirmos no conceito de beneficiários indiretos os
+sócios empreendedores, empregados, fornecedores etc.); o crédito contribuirá com o avanço da agenda dos Objetivos de
+Desenvolvimento Sustentável (ODS), incluindo igualdade de gênero, energia limpa, trabalho decente, inovação e infraestrutura, redução
+das desigualdades, desenvolvimento de comunidades inteligentes e ação contra a mudança climática global; a concessão de crédito
+gerará incremento do emprego, da massa salarial e do produto da economia regional a partir do fortalecimento dos empreendimentos e
+melhoria do ambiente de negócios do Estado; por fim, os investimentos realizados pelos empreendimentos ocasionarão retorno de
+recursos para o Estado do Paraná e Municípios na forma de arrecadação.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Externas
+
+Sigla
+
+Moeda
+
+Valor Proposto
+
+Banco Interamericano de Desenvolvimento
+- BID
+Total:
+
+BID
+
+US$
+
+50.000.000,00
+
+50.000.000,00
+
+50.000.000,00
+
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+50.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+O envio da Carta Consulta teve início a partir de aprovação interna junto COPEC - Comissão de Coordenação e Controle das Operações
+de Crédito e Concessão de Garantias do Paraná, que apreciou o conteúdo da mesma, e autorizou a Fomento Paraná a submeter o pleito
+a COFIEX.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 9
+
+O COPEC, no âmbito do Estado do Paraná, tem função correlata ao COFIEX, atuando na critica dos elementos da carta e pertinência
+quando sua oportunidade, dentro das prioridades do Governo do Estado do Paraná, e é composto por entidades como Casa Civil,
+Secretaria de Estado do Planejamento e Projetos Estruturantes, Secretaria de Estado da Fazenda e Controladoria Geral do Estado.
+Observa-se portanto que o pleito em análise consiste em assunto amplamente avaliado a nível de Governo do Estado do Paraná, estando
+as partes integrantes previamente alinhadas acerca das responsabilidades relacionadas a captação.
+
+O arranjo institucional necessário a operacionalização do Projeto Paraná Empreendedor é simplificado, consistindo na interação entre as
+seguintes instituições: o Governo do Estado do Paraná (na condição de mutuário, representado nas figuras da Secretaria de Estado do
+Planejamento e Projetos Estruturantes, Secretaria de Estado da Fazenda, Procuradoria Geral do Estado do Paraná, Governadoria,
+Assembleia Legislativa do Estado do Paraná e Tribunal de Contas do Estado do Paraná), Agência de Fomento do Paraná - Fomento
+Paraná (gestora e executora principal do projeto) e o Banco Interamericano de Desenvolvimento - BID (agente financeiro provedor do
+funding).
+
+A Matriz de Responsabilidades prevista reflete a participação de cada uma dessas partes relacionadas desde o processo de promulgação
+da Lei Autorizadora, estruturação e formalização do contrato, liberação dos recursos e consequente capitalização na Fomento Paraná
+para a execução dos Componentes 1 e 2, até as etapas de prestação final de contas e manutenção dos pagamentos do contrato. O
+detalhamento da Matriz de Responsabilidades (no formato RACI) pode ser consultado no campo de Anexos.
+
+Em termos de estrutura operacional, na condição de gestora e executora do Projeto Paraná Empreendedor, a Fomento Paraná conta com
+mais de 24 anos atuação e um quadro de mais 150 funcionários. As equipes técnicas responsáveis pelo gestão do projeto Paraná
+Empreendedor estarão alocadas na Diretoria da Presidência, na figura da Assessoria de Planejamento e Gestão Estratégica, e Diretoria
+Administrativa e Financeira. A execução dos financiamentos junto ao beneficiários ficará a cargo das Diretorias de Mercado e Diretoria de
+Operações do Setor Privado, que possuem larga experiência de concessão de financiamentos junto ao referido público, assegurando a
+capacidade da instituição para a realização do Componente 1. Também para a realização dos investimentos em tecnologia a instituição
+conta com Gerência de Tecnologia alocada na Diretoria Administrativa e Financeira, cuja composição assegura as capacidades
+necessárias para a execução do Componente 2.
+
+Por fim, registramos que a Fomento Paraná em parceria com o Governo do Estado do Paraná já conduziu três captações anteriores junto
+ao Banco Interamericano de Desenvolvimento - BID (na ocasião recursos orientados ao financiamento do Setor Público, nos projetos
+Paraná Urbano I, II e II) evidenciando-se a existência das competências técnicas necessárias para a condução da captação nos termos
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Agência de Fomento do Paraná S.A. - Fomento Paraná
+
+Representante Oficial: Heraldo Alves das Neves
+
+Endereço da Sede: R. Comendador Araújo 652, Prédio Batel, CEP 80420063, Curitiba - Paraná
+E-mail Institucional:
+
+Telefone: 55 (41) 3235-7503
+CNPJ: 03584906000199
+
+Fax:
+UF:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 4 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+BID
+
+TOTAL
+
+BID
+
+C - APOIO AO DESENVOLVIMENTO SUSTENTÁVEL DAS MPMES DO PARANÁ NO CONTEXTO PÓS PANDÊMICO
+
+49.000.000,00
+
+12.250.000,00
+
+S - APOIO AOS MICRO (INCLUINDO MEIS E INFORMAIS), PEQUENOS E MÉDIOS EMPREENDIMENTOS - MPMES
+
+30.000.000,00
+
+7.500.000,00
+
+P - Concessão de crédito a micro (incluindo MEIs e informais), pequenos e médios empreendimentos - MPMEs
+
+S - APOIO AO EMPREENDEDORISMO FEMININO (PROGRAMA BANCO DA MULHER PARANAENSE)
+
+P - Concessão de crédito à empreendimentos com gestão feminina (Programa Banco da Mulher Paranaense)
+
+S - APOIO A INICIATIVAS SUSTENTÁVEIS, DE EFICIÊNCIA ENERGÉTICA E USO DE ENERGIAS RENOVÁVEIS
+
+P - Concessão de crédito a iniciativas sustentáveis, de eficiência energética e uso de energias renováveis
+
+C - APRIMORAR AS CAPACIDADES TECNOLÓGICAS E DIGITAIS DA FOMENTO PARANÁ
+
+S - INVESTIMENTOS EM TECNOLOGIA DA INFORMAÇÃO (TI) NA FOMENTO PARANÁ
+
+P - Contratações de serviços de desenvolvimento e soluções tecnológicas de mercado
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - APOIO AO DESENVOLVIMENTO SUSTENTÁVEL DAS MPMES DO PARANÁ NO CONTEXTO PÓS PANDÊMICO
+
+COMPONENTES
+
+30.000.000,00
+
+7.500.000,00
+
+10.000.000,00
+
+2.500.000,00
+
+10.000.000,00
+
+2.500.000,00
+
+9.000.000,00
+
+2.250.000,00
+
+9.000.000,00
+
+2.250.000,00
+
+1.000.000,00
+
+250.000,00
+
+1.000.000,00
+
+250.000,00
+
+1.000.000,00
+
+250.000,00
+
+0,00
+
+12.500.000,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+BID
+
+12.250.000,00
+
+TOTAL
+
+BID
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 10
+
+S - APOIO AOS MICRO (INCLUINDO MEIS E INFORMAIS), PEQUENOS E MÉDIOS EMPREENDIMENTOS - MPMES
+
+P - Concessão de crédito a micro (incluindo MEIs e informais), pequenos e médios empreendimentos - MPMEs
+
+S - APOIO AO EMPREENDEDORISMO FEMININO (PROGRAMA BANCO DA MULHER PARANAENSE)
+
+P - Concessão de crédito à empreendimentos com gestão feminina (Programa Banco da Mulher Paranaense)
+
+S - APOIO A INICIATIVAS SUSTENTÁVEIS, DE EFICIÊNCIA ENERGÉTICA E USO DE ENERGIAS RENOVÁVEIS
+
+P - Concessão de crédito a iniciativas sustentáveis, de eficiência energética e uso de energias renováveis
+
+C - APRIMORAR AS CAPACIDADES TECNOLÓGICAS E DIGITAIS DA FOMENTO PARANÁ
+
+S - INVESTIMENTOS EM TECNOLOGIA DA INFORMAÇÃO (TI) NA FOMENTO PARANÁ
+
+P - Contratações de serviços de desenvolvimento e soluções tecnológicas de mercado
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - APOIO AO DESENVOLVIMENTO SUSTENTÁVEL DAS MPMES DO PARANÁ NO CONTEXTO PÓS PANDÊMICO
+
+S - APOIO AOS MICRO (INCLUINDO MEIS E INFORMAIS), PEQUENOS E MÉDIOS EMPREENDIMENTOS - MPMES
+
+P - Concessão de crédito a micro (incluindo MEIs e informais), pequenos e médios empreendimentos - MPMEs
+
+S - APOIO AO EMPREENDEDORISMO FEMININO (PROGRAMA BANCO DA MULHER PARANAENSE)
+
+P - Concessão de crédito à empreendimentos com gestão feminina (Programa Banco da Mulher Paranaense)
+
+S - APOIO A INICIATIVAS SUSTENTÁVEIS, DE EFICIÊNCIA ENERGÉTICA E USO DE ENERGIAS RENOVÁVEIS
+
+P - Concessão de crédito a iniciativas sustentáveis, de eficiência energética e uso de energias renováveis
+
+C - APRIMORAR AS CAPACIDADES TECNOLÓGICAS E DIGITAIS DA FOMENTO PARANÁ
+
+S - INVESTIMENTOS EM TECNOLOGIA DA INFORMAÇÃO (TI) NA FOMENTO PARANÁ
+
+P - Contratações de serviços de desenvolvimento e soluções tecnológicas de mercado
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+7.500.000,00
+
+7.500.000,00
+
+2.500.000,00
+
+2.500.000,00
+
+2.250.000,00
+
+2.250.000,00
+
+250.000,00
+
+250.000,00
+
+250.000,00
+
+0,00
+
+12.500.000,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+TOTAL
+
+BID
+
+Ano 3
+
+FONTES
+
+BID
+
+12.250.000,00
+
+7.500.000,00
+
+7.500.000,00
+
+2.500.000,00
+
+2.500.000,00
+
+2.250.000,00
+
+2.250.000,00
+
+250.000,00
+
+250.000,00
+
+250.000,00
+
+0,00
+
+12.500.000,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+BID
+
+TOTAL
+
+BID
+
+C - APOIO AO DESENVOLVIMENTO SUSTENTÁVEL DAS MPMES DO PARANÁ NO CONTEXTO PÓS PANDÊMICO
+
+12.250.000,00
+
+49.000.000,00
+
+S - APOIO AOS MICRO (INCLUINDO MEIS E INFORMAIS), PEQUENOS E MÉDIOS EMPREENDIMENTOS - MPMES
+
+P - Concessão de crédito a micro (incluindo MEIs e informais), pequenos e médios empreendimentos - MPMEs
+
+S - APOIO AO EMPREENDEDORISMO FEMININO (PROGRAMA BANCO DA MULHER PARANAENSE)
+
+P - Concessão de crédito à empreendimentos com gestão feminina (Programa Banco da Mulher Paranaense)
+
+S - APOIO A INICIATIVAS SUSTENTÁVEIS, DE EFICIÊNCIA ENERGÉTICA E USO DE ENERGIAS RENOVÁVEIS
+
+P - Concessão de crédito a iniciativas sustentáveis, de eficiência energética e uso de energias renováveis
+
+C - APRIMORAR AS CAPACIDADES TECNOLÓGICAS E DIGITAIS DA FOMENTO PARANÁ
+
+S - INVESTIMENTOS EM TECNOLOGIA DA INFORMAÇÃO (TI) NA FOMENTO PARANÁ
+
+P - Contratações de serviços de desenvolvimento e soluções tecnológicas de mercado
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+7.500.000,00
+
+30.000.000,00
+
+7.500.000,00
+
+30.000.000,00
+
+2.500.000,00
+
+10.000.000,00
+
+2.500.000,00
+
+10.000.000,00
+
+2.250.000,00
+
+9.000.000,00
+
+2.250.000,00
+
+9.000.000,00
+
+250.000,00
+
+1.000.000,00
+
+250.000,00
+
+1.000.000,00
+
+250.000,00
+
+1.000.000,00
+
+50.000.000,00
+
+12.500.000,00
+
+50.000.000,00
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+A Agência de Fomento do Paraná S.A. - Fomento Paraná é uma sociedade anônima de capital fechado, que tem o Estado do Paraná
+como acionista majoritário. A autorização para criação da instituição foi dada pela Lei Estadual nº 11.741/1997 e o Banco Central do Brasil
+concedeu a autorização de funcionamento em 08/11/1999 (DEORF/DIFIN-99/239). Este arranjo legal permite que o Governo do Estado
+contrate os recursos junto ao Banco Interamericano de Desenvolvimento - BID e então proceda com a capitalização dos recursos junto a
+Fomento Paraná. Contudo, em sendo recursos captados externamente com contragarantias da União, se faz necessária a promulgação
+de Lei Autorizadora, demandando aprovação por parte da Assembleia Legislativa do Estado do Paraná, sendo que a interlocução com as
+demais partes interessadas do Governo do Estado do Paraná visando a promulgação da Lei Autorizadora tiveram início em paralelo a
+tramitação da Carta Consulta junto a COFIEX.
+
+Quanto a eventuais riscos legais associados a captação, na condição de Agência de Fomento regulamentada pelo Banco Central do Brasil
+, a Fomento Paraná é aderente a todo compliance aplicável as instituições do Sistema Financeiro Nacional, sendo regularmente auditada
+pelo próprio Banco Central do Brasil, TCE, Auditorias Externas e Internas. A instituição conta com Diretoria especifica para assuntos
+Jurídicos e Gerência específica para assuntos de Riscos e Compliance, além de Gerência de Auditoria interna ligada diretamente a
+Diretoria da Presidência. Essas áreas possuem programas de monitoramento ativo de Riscos e Compliance, e mecanismos de mitigação,
+que estarão ativos durante todo o processo de execução do Projeto.
+
+Também, o ordenamento jurídico do Estado do Paraná não representa risco para a execução do projeto. O Estado possui vasta
+experiência com operações de financiamento externo e capacidade operacional instalada. Serão atendidos todos os requisitos legais
+vigentes, incluindo o cumprimento do Plano Plurianual (PPA), Lei de Diretrizes Orçamentárias (LDO), Lei Orçamentária Anual (LOA), Lei
+de Responsabilidade Fiscal (LRF), bem como toda a legislação administrativa, financeira e fiscal suplementar.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 11
+
+5.2. RISCOS/CONTRATAÇÕES
+
+O componente que visa aprimorar as capacidades tecnológicas e digitais da Fomento Paraná resultará na contratação de serviços de
+desenvolvimento e sistemas de tecnologia orientados a melhoria do processo de concessão de crédito. Eventuais riscos estariam então
+relacionados a condução dos processos de contração. Nestes termos, todas as contratações que venham ocorrer estarão regidas pelo
+Regulamento de Licitações e Contratos - RILC da Fomento Paraná (integra do RILC pode ser consultado nos Anexos) de forma que sejam
+mitigados eventuais riscos relacionados.
+
+Não está prevista a necessidade de contratação adicional de pessoal para a condução do projeto Paraná Empreendedor, estando a
+capacidade de pessoal atualmente alocada na Fomento Paraná, compatível com as necessidades para a execução dos componentes
+relacionados a contratação de operações de crédito, e também para a realização de investimentos em tecnologia.
+
+Tendo em vista a Fomento Paraná ter captado recurso em modelagem similar junto ao Banco Interamericano de Desenvolvimento - BID (
+captação pelo Governo do Estado para aporte de recurso no capital social da instituição para aplicação em operações de infraestrutura
+junto ao Setor Público, por meio dos Projetos Paraná Urbano I, II e III) pode-se afirmar que a instituição possui experiência acerca das
+políticas e aquisição/contratação do agente financeiro.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Pela natureza do Projeto Paraná Empreendedor, não está prevista a necessidade de desapropriação de imóveis, necessidade de
+alocação de recursos para indenizações etc.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+Sendo o objeto do financiamento recursos captados pelo Governo do Estado do Paraná a serem direcionados integralmente para aporte
+no capital social da Fomento Paraná, não serão necessárias autorizações ambientais, licenciamentos etc. específicos para a realização da
+operação. Contudo, quando do aporte dos recursos na Fomento Paraná, conforme descrição dos componentes do Projeto, a maior parte
+dos recursos será direcionada a concessão de crédito (98%), cuja aplicação será condicionada a aplicação plena das diretrizes previstas
+na Política de Responsabilidade Socioambiental da Fomento Paraná - PRSAC (consultar texto integral nos anexos).
+
+Estando sujeita a supervisão do Banco Central do Brasil, a Fomento Paraná atende as previsões da Resolução CMN nº 4.954 de 15/09/
+2021, que dispõe sobre o conjunto de princípios e diretrizes de natureza social, de natureza ambiental e de natureza climática a ser
+observado pela instituição na condução dos seus negócios, das suas atividades e dos seus processos, bem como na sua relação com as
+partes interessadas.
+
+Neste termos, a PRSAC da Fomento Paraná, além de dispor sobre princípios de sustentabilidade a serem seguidos pela instituição, prevê
+todo um conjunto de exigências a serem atendidas pelos mutuários durante o processo de concessão (Ex. certidões, licenças ambientais,
+cláusulas contratuais etc). Incluso, a PRSAC da Fomento Paraná prevê restrições de não apoio a um conjunto de setores específicos (Ex.
+comércio e produção de armamentos, atividades de exploração de jogos de azar e apostas, empreendimentos envolvidos na fabricação de
+Poluentes Orgânicos Persistentes etc).
+
+Portanto, não estão previstos impactos ambientais significativos a partir da execução dos componentes da captação, e, em cumpridas as
+exigências previstas na Política de Responsabilidade Socioambiental da Fomento Paraná, mitigar-se-ão os riscos de prejuízos ambientais
+causados por terceiros, a partir de recursos originados do Projeto. Registramos que a instituição conta com Diretoria especifica,
+responsável junto ao Banco Central do Brasil, para assuntos relacionados à PRSAC e a também com uma Gerência específica para
+assuntos de Riscos e Compliance, que atua como guardiã do normativo interno, contando com programas de monitoramento ativo de
+Riscos desta natureza, e na implantação mecanismos de mitigação, que estarão ativos durante todo o processo de execução do Projeto.
+
+Outro ponto a ser considerado é o fato de que o Banco Interamericano de Desenvolvimento - BID  também possui diretivas de
+Responsabilidade Social e Ambiental que serão aplicadas ao Projeto. Registramos que a Fomento Paraná possui histórico de atuação
+junto ao BID, tendo atuado em três captações anteriores, guardando experiência técnica de aplicação de políticas e salvaguardas oriundas
+desse agente financeiro.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+Não estão previstos riscos sociais decorrentes da implementação do Projeto Paraná Empreendedor. Incluso, reforçamos o caráter de
+apoio a inclusão social por meio do crédito que o Projeto enseja, e também a existência de subcomponente específico de apoio ao
+empreendedorismo feminino.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Pela natureza do Projeto Paraná Empreendedor, não está prevista a necessidade de reassentamento de famílias.
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 12

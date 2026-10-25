@@ -1,0 +1,5744 @@
+# Carta-Consulta CC_61207 — Versao 1 (SIGS)
+
+
+CARTA CONSULTA
+
+BH VERDE AZUL: PROGRAMA DE REDUÇÃO DE CARBONO
+
+Nº Carta Consulta: 61207
+Mutuário: Município de Belo Horizonte - MG
+Tipo de Operação: Operação de crédito externo
+
+Fontes Internas:
+Contrapartida Financeira: US$ 20.000.000,00
+Fontes Externas:
+Banco Interamericano de Desenvolvimento - BID: US$ 80.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+Belo Horizonte (BH), com cerca de 2,7 milhões de habitantes e uma área de 331,4 km², é a capital de Minas Gerais (MG), no Sudeste do
+Brasil. Fundada em 1897, BH responde por 3,8% do Produto Interno Brasileiro e destaca-se pelo alto Índice de Desenvolvimento Humano
+(IDH) de  0,810, o segundo maior de Minas Gerais.
+
+A sustentabilidade emerge como proposta essencial para o desenvolvimento de BH, buscando novos vetores econômicos que reduzam
+impactos ambientais negativos e promovam emprego sustentável. A cidade se destaca em políticas para assegurar um meio ambiente
+equilibrado e combater mudanças climáticas, incluindo a adesão à Nova Agenda Urbana (NAU) e aos Objetivos de Desenvolvimento
+Sustentável (ODS), refletidos no Plano Diretor Municipal de 2019 (Anexo 1) e na Política Municipal Climática, com ações desde 2006.
+
+BH tem implementado diversas ações para mitigar e adaptar-se às mudanças climáticas, como o Comitê Municipal de Mudanças
+Climáticas e Ecoeficiência (CMMCE) (Anexo 2), a Política Municipal de Mitigação dos Efeitos da Mudança Climática (Anexo 3), e a
+campanha global Race to Zero (Anexo 4). Instrumentos como o Inventário Municipal de Emissões de Gases de Efeito Estufa (GEE) (
+Anexo 5), o Plano de Redução de Gases de Efeito Estufa (PREGEE) (Anexo 6), e o Plano Local de Ação Climática (PLAC) (Anexo 7)
+visam reduzir as emissões em 40% até 2040 e alcançar emissões líquidas zero até 2050.
+
+O antigo Aterro Sanitário Municipal (CTR040) é um desafio significativo para BH em função das  23,9 milhões de toneladas de resíduos
+descartados no local que, mesmo desativado, ainda representa um passivo ambiental relevante a ser tratado.
+
+Eventos climáticos extremos, como chuvas intensas e o aumento de temperatura, destacam a necessidade de políticas públicas focadas
+na arborização urbana, recuperação de áreas verdes e proteção de corpos hídricos. A cidade possui apenas 15% de cobertura arbórea,
+distribuídos de forma desigual em seu território. Apenas 50,4% dos corpos hídricos mapeados em BH possuem qualidade boa ou ótima,
+segundo o IQNas 2024. Além disso, algumas áreas verdes como o Parque Guilherme Lage, são carentes em infraestrutura e pouco
+utilizadas pela população.
+
+A cidade foi planejada dentro dos limites da Av. do Contorno e a falta de qualidade urbanística nas suas demais regiões provoca
+deslocamentos ineficientes, reflexos dessa dependência da área central. Com essa ocupação radiocêntrica, dependente de longos
+deslocamentos, o transporte rodoviário torna-se responsável por 66,42% das emissões de GEE, configurando-se como um problema
+crítico para a descarbonização. A falta de investimentos públicos nas regiões periféricas e a concentração de oportunidades no centro
+agravam os problemas de mobilidade e sustentabilidade. É essencial promover a mobilidade urbana sustentável, por meio do fomento ao
+desenvolvimento de novas centralidades distribuídas no território, que diminuam a dependência da área central, e que sejam dotadas de
+infraestrutura para mobilidade ativa, lazer e transporte coletivo. Implantar habitações voltadas para as populações de baixa renda e
+vulneráveis junto aos corredores de transporte coletivo, em áreas hoje ocupadas por usos menos nobres, como galpões e ferros velhos, é
+fundamental. Nesse sentido, instrumentalizar a mudança do planejamento de transporte tradicional para um planejamento voltado para a
+mobilidade limpa é também uma urgência para BH.
+
+A implementação de soluções baseadas na natureza tem sido uma boa alternativa para a gestão de águas pluviais e a mitigação das ilhas
+de calor urbano. No entanto, BH ainda precisa ampliar esses esforços nas áreas periféricas e envolver mais a sociedade na gestão e
+manutenção dessas infraestruturas.
+
+O desenvolvimento econômico local também enfrenta desafios, como a falta de oportunidades de trabalho e renda, especialmente para
+populações vulneráveis e o baixo reconhecimento dos potenciais econômicos dos territórios fora da área central. A transição para a
+energia fotovoltaica é uma área com grande potencial de mercado, mas ainda há obstáculos relacionados aos altos custos de implantação
+.
+
+Em se tratando de potencialidades, a área do antigo Aeroporto Carlos Prates representa uma oportunidade para criar um bairro
+sustentável de baixo carbono, mas requer especificações técnicas detalhadas para assegurar a sustentabilidade das construções e
+infraestrutura.
+
+A promoção de um vigoroso Trabalho Técnico Social é crucial para o sucesso das políticas públicas urbanas e ambientais, garantindo que
+todos os segmentos da sociedade participem ativamente nos fóruns decisórios, combatendo a desigualdade socioespacial e
+socioeconômica na cidade.
+
+Belo Horizonte, embora enfrente inúmeros desafios, possui um potencial significativo para avançar em direção a um desenvolvimento
+sustentável e inclusivo, integrando soluções inovadoras e políticas robustas para melhorar a qualidade de vida de seus habitantes.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+I) Soluções Propostas
+
+Em resposta ao diagnóstico realizado e em linha com o PREGEE e o PLAC, propõe-se:
+
+1. Implantação do Parque Aterro: O PLAC destaca a necessidade de implementar o Plano de Manejo do antigo Aterro Sanitário, com a
+implantação de parque urbano e fotovoltaico. O parque urbano fornecerá áreas de lazer para a comunidade e o parque fotovoltaico será
+instalado sobre resíduos inertes do aterro.
+
+
+Página: 3
+
+2. Infraestrutura verde e azul: Recuperação de nascentes e conexão de fundo de vale; arborização urbana em logradouros públicos e
+áreas verdes; implantação/recuperação de áreas públicas; criação de miniflorestas. Obras de drenagem serão realizadas para garantir a
+segurança hídrica do antigo aterro transformado em parque.
+
+3. Implantação e Requalificação de Parques Urbanos: A requalificação do Parque Guilherme Lage o transformará em referência no uso
+público associado à preservação ambiental. A implantação do Parque da Lagoinha irá incrementar os espaços verdes, qualificar os
+espaços públicos e incentivar a mobilidade ativa e o uso do transporte coletivo.
+
+4. Promoção de Centralidades: O PREGEE e o PLAC indicam a mobilidade como essencial para redução de emissões. As estratégias
+incluem evitar viagens desnecessárias, por meio do desenvolvimento orientado pelo transporte e pela promoção de centralidades que
+democratizem o acesso à infraestrutura urbana de qualidade, descentralizem atividades e investimentos, estimulem novos pólos de
+desenvolvimento econômico e aproximem moradia de áreas de trabalho, serviços e lazer.
+
+5. Soluções baseadas na natureza (SbN): Implantação de SbN para gestão de águas urbanas, de estratégias para sua adoção por
+empresas e capacitação de mão de obra para sua manutenção.
+
+6. Desenvolvimento econômico local: Promoção de oficinas para o desenvolvimento econômico local, para identificação das
+potencialidades dos territórios. As ações incluem a reestruturação da Usina Escola para capacitar cidadãos a atuar com energia
+fotovoltaica.
+
+7. Plano Local de Mobilidade Limpa (PLML): Desenvolvimento de PLML para fomentar a mobilidade sustentável, envolvendo ações como
+a melhora do transporte público, incentivo ao uso de bicicletas e otimização da logística urbana.
+
+8. Plano de Certificação do Aeroporto Carlos Prates: Realização de estudos para definir diretrizes para o parcelamento, ocupação e uso
+do solo do novo bairro-modelo em sustentabilidade.
+
+9. Participação cidadã: Promover a inclusão social e participação cidadã, pela realização de oficinas de educação urbana, focadas em
+grupos sociais vulneráveis.
+
+II) Resultados Esperados
+
+1. Parque-aterro
+
+Redução das emissões de GEE, atuando como sumidouro de carbono
+
+Recuperação de áreas degradadas e aumento da biodiversidade
+
+Melhoria da qualidade de vida da população do entorno
+
+Promoção de investimentos em energia renovável
+
+2. Infraestrutura verde e azul
+
+Implementação de corredores verdes e miniflorestas, incrementando a sustentabilidade socioambiental e melhorando a qualidade de vida
+
+Recuperação de 45 áreas de nascentes e conexões de fundo de vale
+
+Revegetação de 140 áreas verdes
+
+Segurança hídrica e sanitária do antigo aterro
+
+3. Implantação e Requalificação de Parques Urbanos
+
+Transformação do Parque Guilherme Lage em referência de uso público e preservação ambiental
+
+Implantação do Parque da Lagoinha transformando a região em referência de mobilidade ativa e conexão com transporte coletivo
+
+4. Centralidades
+
+Promoção da mobilidade ativa e qualificação ambiental
+
+Melhoria da capacidade de enfrentamento a eventos extremos e gestão hídrica
+
+Melhoria das ações de manejo dos resíduos sólidos
+
+Aumento do uso de energias renováveis
+
+Ampliação da oferta e acesso a habitação para população de baixa renda em áreas bem localizadas
+
+
+Página: 4
+
+Fortalecimento do comércio local e geração de emprego e renda
+
+5. Soluções Baseadas na Natureza
+
+Fortalecimento da resiliência urbana, incrementando a resiliência do município a vulnerabilidades climáticas
+
+Inclusão produtiva de pessoas vulneráveis em medidas socioambientalmente sustentáveis
+
+6. Desenvolvimento econômico local
+
+Capacitação da população em atividades que contribuam para fomentar o desenvolvimento econômico local
+
+Produção de um plano de ação econômica local que potencialize os ativos econômicos de cada território
+
+7. Novo bairro do Aeroporto Carlos Prates
+
+Desenvolvimento de um modelo de urbanização sustentável que incremente a qualidade de vida e a resiliência urbana
+
+
+## 9. PLML
+
+
+Aumento da sustentabilidade do sistema de mobilidade e transporte de BH, contribuindo para menores emissões de gases poluentes e de
+efeito estufa
+
+10. Participação cidadã
+
+Ampliação do conhecimento sobre política urbana e direito à cidade
+
+Fortalecimento da autonomia e capacidade de articulação dos participantes
+
+Construção de diálogos mais inclusivos sobre o espaço urbano
+
+III) Sustentabilidade
+
+As ações do Programa impactam os gastos de conservação e manutenção entre 4% e 6% do investimento a ser realizado pelo Programa.
+Entretanto, muitas áreas beneficiadas têm infraestrutura precária atualmente, gerando custos elevados de deslocamento devido à
+dependência dos serviços da área central. Espera-se que a execução do programa gere um incremento de custos anuais de manutenção
+e conservação para a Prefeitura em volume equivalente a 2% do valor total a ser investido nos componentes 1 a 3, o que corresponde a
+US$1,4 milhões/ano.
+
+No entanto, BH conta com estruturas normativas e financeiras que dão suporte às ações propostas nas áreas de centralidade. Para
+garantir a efetivação dos objetivos do Plano Diretor, em seu art. 60 foi criado o Fundo de Centralidades (FC), alimentado com recursos da
+Outorga Onerosa do Direito de Construir (OODC) e dos ônus urbanísticos associados à regularização de edificações (atualmente com
+disponibilidade de R$40.000.000,00 e com estimativa de arrecadação anual de R$25.000.000,00). Os investimentos em infraestrutura nas
+áreas de centralidade abrirão novas frentes de adensamento, direcionando o crescimento e os investimentos privados para as regiões das
+intervenções. Os novos investimentos privados retroalimentarão o FC pois irão consumir OODC. O aporte de infraestrutura valorizará os
+imóveis nas áreas de investimento, aumentando a arrecadação do IPTU e beneficiará negócios locais, aumentando a arrecadação de
+impostos como o ISS. A saúde fiscal do município sugere que os gastos recorrentes do programa não causarão impactos além da
+capacidade atual.
+
+A Secretaria Municipal de Obras e Infraestrutura (SMOBI) é responsável pela manutenção e operação das estruturas instaladas, em
+coordenação com as secretarias setoriais.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+I - Orientações estratégicas
+
+A PBH deseja concorrer ao SUBLIMITE ESPECÍFICO ANUAL DE PROGRAMAS AMBIENTAIS/CLIMÁTICOS - PORTARIA MPO-SEAID /
+MPO Nº 220/2024.
+
+As ações do Programa estão alinhadas com o Plano de Ação Plurianual Governamental (PPAG) 2022-2025, Anexo 8, pela promoção de
+atividades que apoiarão:
+
+
+Página: 5
+
+(i) sua carteira de projetos estratégicos (página 45), em seus tópicos: 8 - Ampliação e qualificação do serviço de limpeza urbana (págs. 55/
+56); 9 - Modernização do licenciamento ambiental  (página 56); 11 - BH Cidade Sustentável (págs. 57/58); 12 - gestão de águas urbanas (
+págs. 58/59); 14 - melhoria das condições ambientais e de infraestrutura das unidades administradas pela Fundação de Parques
+Municipais e Zoobotânica (FPMZB (págs. 60/61); 15 - qualidade do transporte coletivo: um direito de todos (págs. 61 e 62), 16 - BH
+Inclusiva, Segura e Cidadã (págs. 62/63); 18 - implantação e melhoria da infraestrutura de mobilidade urbana (página 64), 19 -
+regularização fundiária e urbanização em áreas de interesse social (pág. 65/66), 21 - provisão habitacional no município (págs. 66/67); 22 -
+simplificar, democratizar e modernizar a legislação urbanística e os serviços de licenciamento urbano (págs. 67/68); 24 - melhoria do
+ambiente urbano (págs. 68/69); 39 - Democratização do Esporte e do Lazer (págs. 82/83); 41 - Aprimoramento do relacionamento entre
+cidadão e Prefeitura (págs. 84/85); 45 - Belo Horizonte Surpreendente (págs. 87/88); 46 - Atração de investimentos e fomento ao setor da
+tecnologia da informação (págs. 88/89); 47 - Fomento ao empreendedorismo, à economia criativa e solidária (página 89); 48 - Qualificação
+, profissionalização e emprego (página 90)
+
+(ii) seus projetos transformadores (pág. 46), em seus tópicos: sustentabilidade ambiental - 12. gestão de águas urbanas: gestão ambiental;
+mobilidade urbana - 15. qualidade do transporte coletivo: um direito de todos; habitação, urbanização, regulação e ambiente urbano - 19.
+regularização fundiária e urbanização em áreas de interesse social.
+
+As ações previstas constam nos seguintes planos setoriais:
+
+1) Plano Diretor, Lei nº 11.181/19 -Anexo 1;
+
+2) Política de Mitigação dos Efeitos da Mudança Climática, Lei nº 10.175/2011 -Anexo 3;
+
+3) Plano Diretor de Mobilidade Urbana de Belo Horizonte - PlanMob-BH, art. 291 a 295 da Lei 11.181/2019;
+
+4) Programa Cidades Inteligentes, Lei nº 11.146/2018 -Anexo 9. Replicado no PPAG 2022-2025;
+
+5) Orçamento Participativo - Lei Orgânica do Município de Belo Horizonte.
+
+II - Contrapartida
+
+Os recursos de contrapartida do município correspondem a 20% do total dos valores vinculados ao Programa. A contrapartida será
+aportada com recursos de receitas tributárias previstas nos artigos 156, 158 e 159, inciso I, (b), da Constituição Federal, conforme
+estabelecido na Resolução nº 3, de 29 de maio de 2019 - COFIEX.
+
+III - Taxa de Câmbio
+
+A taxa de câmbio considerada é de US$1,00 = R$5,5589, taxa oficial de compra fornecida pelo Banco Central do Brasil, vigente no dia 28/
+06/2024
+
+2. Projeto
+
+### 2.1. Título
+
+
+BH VERDE AZUL: PROGRAMA DE REDUÇÃO DE CARBONO
+
+
+### 2.2. Título Abreviado
+
+BH VERDE AZUL
+
+
+### 2.3. Mutuário
+
+
+Município de Belo Horizonte - MG
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+I - Objetivo Geral
+
+O objetivo geral do Programa é apoiar o desenvolvimento urbano sustentável e inclusivo, promovendo sustentabilidade ambiental,
+adaptação às mudanças climáticas e melhoria da qualidade de vida.
+
+II - Objetivos Específicos:
+
+a) Promover a sustentabilidade ambiental por meio da implementação e requalificação de parques urbanos, recuperação de nascentes e
+promoção da arborização urbana;
+
+Indicador 1
+
+(cid:10)
+
+
+Página: 6
+
+Indicador 2
+
+Indicador 3
+
+Indicador 4
+
+b) Melhorar a qualidade de vida das novas centralidades por meio do fomento do acesso dos indivíduos a comércios, serviços e
+equipamentos urbanos e comunitários sustentáveis e que considerem impactos advindos das mudanças climáticas;
+
+Indicador 5
+
+Indicador 6
+
+Indicador 7
+
+c) Melhorar as condições de habitação no município, por meio da  implementação de programas de habitação de interesse social
+sustentáveis para população de baixa renda e vulnerável, em áreas bem localizadas;
+
+Indicador 5
+
+Indicador 6
+
+Indicador 8
+
+d) Ampliar o acesso a oportunidades de trabalho e renda para mulheres, pessoas vulneráveis e de baixa renda, por meio de ações de
+capacitação que contribuam para o desenvolvimento econômico local socioambiental inclusivo.
+
+Indicador 9
+
+Indicador 10
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Descrição
+Indicador 1: Percentual de avaliação positiva (
+satisfeito ou muito satisfeito) dos usuários do
+Parque Aterro. Linha de base: ano de 2023;
+Meta: primeiro ano após a abertura (2030)
+
+Indicador 2: Percentual de avaliação positiva (
+satisfeito ou muito satisfeito) dos usuários do
+Parque Guilherme Lage. Linha de base: ano de
+2023; Meta: primeiro ano após a reabertura (
+2027)
+
+Indicador 3: Taxa de área Vegetada. Linha de
+Base: ano 2010; Meta: ano 2030. Obs.: Indicador
+015-I01 do Relatório de ODS de Belo Horizonte
+
+Indicador 4: Redução da mancha de inundação
+do Córrego das Taiobas. Linha de Base: ano
+2024; Meta: ano 2030
+Indicador 5: Percentual de imóveis residenciais
+com acesso adequado (10 min de caminhada) a
+cesta de comércio e serviços locais (em %).
+Linha de Base: ano 2020; Meta: ano 2030. Obs.:
+Indicador 011-I20 do Relatório de ODS de Belo
+Horizonte
+
+Indicador 6: Percentual de imóveis residenciais
+com acesso adequado (10 min de caminhada) a
+equipamentos urbanos e comunitários (em %).
+Linha de Base: ano 2020; Meta: ano 2030. Obs.:
+Indicador 011-I19 do Relatório de ODS de Belo
+Horizonte
+
+Indicador 7: Melhoria das condições de
+caminhamento de pedestres. Linha de Base: ano
+2022; Meta: ano 2027
+
+Indicador 8: Taxa de satisfação quanto à
+percepção da melhoria das condições de vida
+pelas famílias beneficiárias pelo programa. Ano
+Base: 2024; Meta: ano 2030
+
+Percentual
+
+Percentual
+
+Fórmula de Cálculo Unidade de Medida
+(número de usuários
+que avaliaram
+positivamente o
+Parque-Aterro na
+pesquisa de
+satisfação / número
+de usuários que
+responderam a
+pesquisa de
+satisfação) * 100
+(número de usuários
+que avaliaram
+positivamente o
+Parque Guilherme
+Lage na pesquisa de
+satisfação / número
+de usuários que
+responderam a
+pesquisa de
+satisfação) * 100
+Extensão de área
+vegetada obtida a
+partir de processos de
+verificação de NDVI /
+quantidade de
+habitantes
+pertencentes à região
+analisada
+área da mancha de
+inundação final
+
+m²/hab
+
+m²
+
+
+Página: 7
+
+Meta
+60,00
+
+Linha de Base
+0,00
+
+18,18
+
+60,00
+
+18,20
+
+23,00
+
+41.966,03
+
+20.000,00
+
+percentual
+
+93,48
+
+95,00
+
+percentual
+
+15,27
+
+30,00
+
+percentual
+
+22,00
+
+70,00
+
+percentual
+
+0,00
+
+60,00
+
+(imóveis residenciais
+com pontuação de
+Unidade de
+Vizinhança
+Qualificada (UVQ)
+acima de 60,
+conforme art. 37, § 1º
+do Plano Diretor/total
+de imóveis) *100
+(imóveis residenciais
+com pontuação de
+Unidade de
+Vizinhança
+Qualificada (UVQ)
+acima de 60,
+conforme art. 37, § 1º
+do Plano Diretor/total
+de imóveis) *100
+Extensão linear
+passeios acessíveis/
+Extensão linear
+passeios existentes
+TMV = (Mtm / Mrv) x
+100  onde: Mtm:
+Moradores que
+afirmam que a
+intervenção trouxe
+melhorias; Mrv:
+Moradores que
+reconhecem as obras
+e forneceram
+respostas válidas
+
+
+Página: 8
+
+Indicador 9: Percentual de mulheres e de outros
+grupos vulneráveis capacitados nas ações de
+trabalho e renda do Programa. Linha de Base:
+ano 2024; Meta: ano 2029
+
+Indicador 10: Nível de satisfação dos envolvidos
+com o evento participativo. Linha de Base: ano
+2024; Meta: ano 2030
+
+
+### 2.7. Projeto/Componentes
+
+
+(Número de mulheres
+e outros grupos
+vulneráveis
+capacitados nas
+ações de trabalho e
+renda / Número total
+de pessoas
+capacitadas) * 100
+Média de satisfação
+por evento
+participativo
+
+Percentual
+
+0,00
+
+60,00
+
+percentual
+
+0,00
+
+60,00
+
+
+Componentes
+C - C1: OLHAR PARA O PASSADO: TRATAMENTO DE PASSIVOS AMBIENTAIS - O PARQUE ATERRO
+S - S1.1 - IMPLANTAÇÃO DO PARQUE ATERRO
+P - P1.1.1 - Elaboração do projeto executivo do Parque Aterro
+P - P1.1.2 - Implantação da obra do Parque Aterro
+S - S1.2 - GERAÇÃO DE ENERGIA RENOVÁVEL: USINAS FOTOVOLTAICAS DO PARQUE ATERRO
+P - P1.2.1 - Elaboração do projeto técnico para parque fotovoltaico na área do antigo Aterro Sanitário
+C - C2: OLHAR PARA O PRESENTE: ADAPTAÇÃO ÀS MUDANÇAS CLIMÁTICAS
+S - S2.1 - PARQUES URBANOS
+P - P2.1.1 - Atualização do projeto executivo de requalificação do Parque Guilherme Lage
+P - P2.1.2 - Implantação das obras de requalificação do Parque Guilherme Lage
+P - P2.1.3 - Desapropriação para a requalificação do Parque Guilherme Lage
+P - P.2.1.4 - Elaboração de projeto executivo e implantação do Parque da Lagoinha: setores complementares
+S - S2.2 - INFRAESTRUTURA VERDE E AZUL
+P - P2.2.1 - Recuperação Ambiental de áreas delimitadas como conexão de fundo de vale com requalificação de
+córregos e nascentes de Áreas na bacia do Onça, Arrudas e Izidora
+P - P2.2.2 - Plantio em Áreas Verdes e Logradouros Públicos, com ênfase em conexões verdes do Plano Diretor
+P - P2.2.3 - Implementação/Recuperação de áreas verdes degradadas em regiões com menor índice de áreas
+protegidas
+P - P2.2.4 - Implantação do sistema de drenagem e selamento de células de resíduos, no Parque Aterro
+C - C3: OLHAR PARA O FUTURO: AS CENTRALIDADES COMO UM NOVO MODELO DE SUSTENTABILIDADE
+AMBIENTAL NOS DESLOCAMENTOS URBANOS
+P - P3.1 - Desenvolvimento de Infraestrutura Urbana Sustentável para Mobilidade Ativa e Lazer
+P - P3.2 - Reforma da Estação Diamante de Transporte Coletivo
+P - P3.3 - Melhoria do acesso à Estação de Metrô Waldomiro Lobo
+P - P3.4 -  Implementação de SbN para Drenagem Urbana Sustentável e para implantação de Refúgios
+Climáticos
+P - P3.5 - Melhoria e ampliação da infraestrutura para rede de coleta seletiva
+P - P3.6 - Desapropriação para implantação de habitação de interesse social e equipamento para populações de
+baixa renda e vulneráveis
+P - P3.7 - Produção de unidades habitacionais para populações de baixa renda e vulneráveis, com parâmetros
+do Programa de Certificação Ambiental de Belo Horizonte
+P - P3.8 - Implantação de equipamento social de cultura, lazer, esporte, educação e tecnologia, com produção
+de energia fotovoltaica
+P - P3.9 - Implantação de quiosques e espaços para feiras
+P - P3.10 - Elaboração de Projetos de Engenharia, Arquitetura, Urbanismo e complementares para áreas das
+centralidades
+P - P.3.11 - Desapropriação de ferros velhos para implantação de habitação de interesse social, via convênio
+urbanístico, junto ao Parque da Lagoinha
+C - C4: OLHAR PARA AS PESSOAS E PARA O FORTALECIMENTO INSTITUCIONAL
+S - S4.1 DESENVOLVIMENTO ECONÔMICO E GERAÇÃO DE TRABALHO E RENDA
+P - P4.1.1 - Capacitação de mão de obra vulnerável e de baixa renda e inclusão em ações de emprego e renda
+voltadas à manutenção das infraestruturas verdes de SbN
+P - P4.1.2 - Realização de oficinas de Desenvolvimento Econômico Local (DEL) e suas cinco dimensões
+P - P4.1.3 - Reestruturação da Usina Escola na Escola Profissionalizante Raimunda da Silva Soares
+P - P4.1.4 - Mulheres na Obra
+S - S4.2 - DESENVOLVIMENTO DE PLANOS
+P - P4.2.1 - Elaboração de plano com diretrizes para certificação de sustentabilidade ambiental do novo bairro do
+Aeroporto Carlos Prates
+P - P4.2.2 - Elaboração do Plano Local de Mobilidade Limpa Municipal
+P - P4.2.3 - Trabalho Técnico Social (TTS)
+C - C5: OLHAR PARA A GESTÃO
+P - P5.1 - Apoio à Unidade Executora do Programa
+P - P5.2 - Supervisão de Obras
+P - P5.3 - Auditoria Externa
+P - P5.4 - Montagem de escritório e aquisição de equipamentos
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+
+Página: 9
+
+Valor(US$)
+10.260.000,00
+9.760.000,00
+380.000,00
+9.380.000,00
+500.000,00
+500.000,00
+28.103.000,00
+7.943.000,00
+75.000,00
+3.518.000,00
+350.000,00
+4.000.000,00
+20.160.000,00
+6.300.000,00
+
+3.240.000,00
+3.060.000,00
+
+7.560.000,00
+49.923.000,00
+
+14.690.000,00
+470.000,00
+76.000,00
+4.000.000,00
+
+412.000,00
+14.260.000,00
+
+6.000.000,00
+
+4.330.000,00
+
+1.135.000,00
+1.500.000,00
+
+3.050.000,00
+
+3.460.000,00
+1.110.000,00
+285.000,00
+
+50.000,00
+55.000,00
+720.000,00
+2.350.000,00
+550.000,00
+
+900.000,00
+900.000,00
+8.254.000,00
+4.000.000,00
+4.000.000,00
+150.000,00
+104.000,00
+100.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - C1: OLHAR PARA O PASSADO: TRATAMENTO DE PASSIVOS AMBIENTAIS - O PARQUE ATERRO
+Os componentes, subcomponentes e produtos desta Carta Consulta foram construídos de forma a abarcar, no âmbito do pleito BH
+Verde Azul: Programa de redução de carbono olhares diversos para a cidade. O componente C1: Olhar para o Passado:
+Tratamento de Passivos Ambientais - O Parque Aterro reúne ações de mitigação para o maior passivo ambiental de Belo Horizonte
+: a área do antigo aterro sanitário. Este componente é conformado por dois subcomponentes, o primeiro dedicado à implantação do
+Parque Aterro e o segundo dedicado à elaboração dos estudos e projetos para as usinas fotovoltaicas do Parque Aterro. São eles:
+S1.1 Implantação do Parque Aterro e S1.2 Geração de Energia Renovável: Usinas fotovoltaicas do Parque Aterro.
+Ver Anexo 10 - Distribuição territorial dos Investimentos
+
+
+Página: 10
+
+S - S1.1 - IMPLANTAÇÃO DO PARQUE ATERRO
+A implantação do parque-aterro está subdividida em 3 grandes áreas que podem ser modeladas e implementadas
+independentemente entre si: parque urbano, parque fotovoltaico e parque de reciclagem. O parque urbano proposto neste
+subcomponente possuirá 32 hectares e contornará a área restrita do maciço de resíduos. Para possibilitar sua implantação em
+fases, esta grande área foi subdividida em 7 subáreas de projeto: Mirante, Campos de Futebol, Mata dos Eucaliptos, Área a ser
+cedida pela MRV, Campos e Praças, Lagoa e Mata dos Coroas. Este parque contará com a utilização de materiais produzidos na
+própria CTRS BR-040, agregados da reciclagem dos resíduos de construção civil (RCC), na pavimentação dos caminhos; cavacos
+provenientes das podas de árvores da cidade, no paisagismo. No programa do Parque Aterro devem estar previstas instalações de
+estruturas de apoio aos campos de futebol existentes, playgrounds, mirantes e espaços de descanso, convivência e apreciação da
+paisagem. No sentido de  promover a segurança e gerar uma boa ambiência para a circulação e fruição por pedestres, serão
+concebidas conexões com o sistema viário existente (ruas sem saída que culminam no muro da CTRS BR-040, dentre outras) e
+requalificação das áreas verdes, de forma a promover a integração entre o parque e o entorno. Além disso, serão implantadas
+trilhas interpretativas, permeando as áreas de aterragem e os equipamentos para tratamento de resíduos existentes na Central.
+
+P - P1.1.1 - Elaboração do projeto executivo do Parque Aterro
+Este produto contempla a elaboração dos projetos básicos e executivos (levantamento planialtimétrico, sondagem, levantamento e
+avaliação fitossanitária da arborização, projeto de terraplenagem, projeto de arquitetura, projeto de paisagismo, projeto de
+estruturas, projeto de drenagem, projeto elétrico e luminotécnico, projeto de hidráulica (água e esgoto), projeto de comunicação e
+sinalização e planilha de orçamento para cada uma das 7 subáreas em que o Parque foi subdividido, totalizando 32 hectares.
+
+P - P1.1.2 - Implantação da obra do Parque Aterro
+O produto contempla a realização das obras de implantação para cada uma das 7 subáreas do Parque Aterro (Mirante, Campos de
+Futebol, Mata dos Eucaliptos, Área a ser cedida pela MRV, Campos e Praças, Lagoa e Mata dos Coroas), que foram projetadas
+no âmbito do produto P1.1.1, totalizando 32 hectares.
+
+S - S1.2 - GERAÇÃO DE ENERGIA RENOVÁVEL: USINAS FOTOVOLTAICAS DO PARQUE ATERRO
+Contempla a elaboração do projeto técnico para a implementação de 2 usinas fotovoltaicas com capacidade de 2,5 megawatts
+cada, a serem implantadas na área restrita do maciço de resíduos. Esclarece-se que, nessa área identificada, com cerca de 75.000
+m2 (28.000 m2 de topo e 47.000 m2 de bermas/taludes), foram dispostos resíduos de construção civil, os quais sofrem poucos
+recalques, além de não apresentaram matéria orgânica em sua constituição, portanto não são passíveis de geração de biogás.
+
+P - P1.2.1 - Elaboração do projeto técnico para parque fotovoltaico na área do antigo Aterro Sanitário
+Este produto contempla a elaboração dos estudos e projetos técnicos necessários para a implantação do parque fotovoltaico na
+área do antigo Aterro Sanitário, a serem implantadas sobre o maciço de resíduos inertes. Este produto contemplará o
+desenvolvimento de um projeto executivo que engloba os seguintes estudos e projetos técnicos:
+- Estudo de viabilidade técnica para as usinas fotovoltaicas;
+- Projeto técnico para o parque fotovoltaico
+- Estudo jurídico e institucional para elaboração de editais, estratégias de financiamento e modelos de contratos para investimentos
+em parcerias público-privadas;
+- Desenvolvimento de business case para os projetos abrangendo período de payback, análise custo-benefício, análise de custos
+evitados;
+- Análise de potenciais fluxos de receita futuros (incluindo uma estratégia de engajamento do setor privado) com a intenção de
+aumentar a escala do projeto;
+- Outros estudos e projetos necessários que forem identificados durante a elaboração do estudo de viabilidade técnica.
+
+C - C2: OLHAR PARA O PRESENTE: ADAPTAÇÃO ÀS MUDANÇAS CLIMÁTICAS
+O componente C2: Olhar para o Presente: Adaptação às Mudanças Climáticas trabalha a adaptação da estrutura atual da cidade
+para o enfrentamento das mudanças climáticas. Este componente, além de atuar diretamente na ampliação da infraestrutura verde
+e azul do Município, aumentando, consequentemente, o potencial dessa infraestrutura como sumidouro de carbono, também busca
+estimular as pessoas a alterarem seus modos de transporte, dos mais poluentes para os menos poluentes ou que não poluem. O
+componente C2: Olhar para o Presente: Adaptação às Mudanças Climáticas é conformado por dois subcomponentes, o primeiro
+dedicado à requalificação do Parque Guilherme Lage e à implantação do Parque da Lagoinha (setores complementares) e o
+segundo dedicado à ampliação da infraestrutura verde e azul do Município.
+
+Ver Anexo 10 - Distribuição territorial dos Investimentos
+
+
+Página: 11
+
+S - S2.1 - PARQUES URBANOS
+Os três primeiros produtos deste subcomponente são dedicados à requalificação do Parque Guilherme Lage. O Parque Professor
+Guilherme Lage, localizado no interior da centralidade do bairro São Paulo e com cerca de 120 mil metros quadrados, é uma das
+principais áreas protegidas sob gestão do Município de Belo Horizonte. Desde 1937 o espaço cumpre importante função ambiental,
+ao ser utilizado como horto florestal e origem de mudas que compõem grande parte da arborização urbana da cidade. Em 1982, o
+horto é transformado em parque, com a implantação do pacote básico de equipamentos e estruturas que lá permanecem até hoje.
+O parque rapidamente tornou-se uma referência para a Regional Nordeste de Belo Horizonte, provendo, além dos serviços
+ambientais, oportunidades de lazer e prática esportiva para a população de seu entorno imediato. Apesar disso, a oferta de
+equipamentos e serviços em seu interior não acompanhou as demandas da população e a evolução do tecido urbano ao seu redor
+nos 44 anos decorridos desde a sua criação, criando o ambiente propício para o desenvolvimento dos problemas que se pretende
+enfrentar agora. Ao longo dos últimos anos, o Município de Belo Horizonte vem tentando sucessivas iniciativas pontuais para o
+enfrentamento dos problemas diagnosticados no parque, mas o seu impacto e resultados se mostraram insuficientes para a sua
+superação.
+Por isso, propõe-se a execução de uma obra de requalificação completa do espaço, para atacar os problemas identificados e, mais
+que isso, transformar o Parque Professor Guilherme Lage em referência na associação entre uso público e preservação ambiental
+entre as áreas protegidas municipais. A experiência da Fundação de Parques Municipais e Zoobotânica, como gestora dos 80
+parques de propriedade do Município de Belo Horizonte, indica de forma clara que a melhor forma de preservar o patrimônio
+ambiental de um parque urbano se dá pelo uso público sustentável, manifestado pela apropriação do parque pela população e o
+desenvolvimento de um sentimento de pertencimento. Espaços em que essa apropriação não ocorre são muito mais afetados por
+vandalismo e violência, multiplicando os custos necessários ao custeio de sua manutenção e vigilância.
+Por isso, a intervenção proposta é fruto de um diagnóstico minucioso da infraestrutura interna da unidade (https://drive.google.com/
+drive/folders/157gjxQJrTat3Zc5yfUNtR2a8seXpjeo9?usp=sharing) e das demandas da população, com o objetivo de responder às
+questões levantadas através da:
+- construção de novas portarias e acessos nas ruas Lídia, Padre José Alves e no Anel Rodoviário, com provimento de
+infraestrutura de controle de acesso, apoio a funcionários, visitantes e à Guarda Municipal Patrimonial, garantindo que as bordas
+do parque sejam facilmente identificáveis pela população e que os acessos ao parque sejam regularizados e monitorados;
+- Regularização e construção de novos passeios em todas as confrontações do parque, e revitalização de todas as suas vias
+internas, com atendimento integral às normas de acessibilidade, no que for aplicável, aumentando o conforto dos pedestres e a
+visibilidade do parque em relação às vias de seu entorno;
+- Demolição das edificações de apoio e uso público atualmente existentes e a sua substituição por novas, em localizações
+estratégicas, integradas entre si por ciclovia e passeios internos acessíveis, incluindo sistema de vigilância por câmeras nas
+edificações e pontos selecionados do espaço. Adicionalmente, a proposta prevê o deslocamento dos estacionamentos de
+visitantes para o entorno do parque, privilegiando o deslocamento a pé e de bicicleta no interior da unidade;
+- Reconstrução do viveiro de mudas, fazendo a sua integração ao prédio de apoio operacional, de visitantes e de educação
+ambiental no centro do parque, desassoreamento do espelho de água e das áreas próximas às nascentes, com disseminação do
+uso de pisos permeáveis para reforço da função ambiental do parque como parte da infraestrutura verde e azul da região;
+- Reforço da oferta de espaços para atividades e convivência, com a reforma do espaço esportivo e construção de área de apoio
+operacional com sala multimeios para atividades culturais e de educação ambiental, ciclovia interna e espaço para eventos, além
+de disponibilização de um espaço para a concessão de serviços de alimentação (lanchonete) no centro de visitantes da unidade.
+Este conjunto de intervenções, somado à localização privilegiada do parque, próximo a diversas vias de grande circulação (
+inclusive o Anel Rodoviário) e à Estação São Gabriel, com a linha de metrô e a integração de diversas linhas de ônibus municipais
+e metropolitanas, permitirá que o parque se torne uma referência de uso público associado à preservação ambiental para uma
+grande parcela da população, desincentivando o estabelecimento de usos inadequados. A requalificação completa do Parque
+Professor Guilherme Lage (ver anteprojeto:https://drive.google.com/drive/folders/1BVhUI1kpAM2rQvo9aD4rd10qQFHuvAma?usp=
+sharing), permitirá que ele desenvolva o seu potencial como uma das áreas protegidas de referência para o uso público,
+preservação e educação ambiental no Município de Belo Horizonte.
+É importante destacar também que a Requalificação do Parque Guilherme Lage foi uma das principais demandas da população
+durante o extenso processo de discussão pública ocorrido para subsidiar a elaboração do Plano de Ação para a Centralidade do
+Bairro São Paulo (onde o parque se encontra), que também orientará as intervenções a serem realizadas no parque. (Ver Plano de
+Ação da Centralidade São Paulo: https://prefeitura.pbh.gov.br/politica-urbana/planejamento-urbano/projetos-urbanos/plano-da-
+centralidade-bairro-sao-paulo).
+O quarto produto deste subcomponente é dedicado à implantação do Parque da Lagoinha (setores complementares). A região da
+Lagoinha, território de importância histórica e referência cultural na cidade de Belo Horizonte, atualmente insere-se em um cenário
+urbano degradado, caracterizado pela presença de um grande complexo viário, barreira que divide o bairro em dois e que o isola
+da Área Central. As vias, em grande parte voltadas para o transporte individual, constituem obstáculos ao acesso às estações de
+transporte coletivo existentes, bem como à integração entre o sistema de BRT, o metrô e a estação rodoviária. Nesse contexto, o
+Parque da Lagoinha (Anexo 11) surge como um elemento  de transposição de barreiras e de conexão entre as estações de
+transporte coletivo e os bairros vizinhos, com vistas a potencializar o uso do transporte coletivo e dos modais de transporte não
+motorizados. Tal condição se apresenta associada a uma ação de recuperação de espaços públicos residuais, incremento dos
+espaços verdes e de integração dos mesmos ao tecido urbano. O projeto do Parque da Lagoinha é, inclusive, uma das propostas
+constantes do Plano de Qualificação Urbanística Centro-Lagoinha (https://prefeitura.pbh.gov.br/politica-urbana/planejamento-
+urbano/plano-centro-lagoinha/plano-qualificacao-urbanistica-centro-lagoinha).
+A escolha da região da Lagoinha e suas adjacências como um dos territórios prioritário de intervenção foi pautada pela
+necessidade de melhoria da qualidade urbanística local, a partir do estímulo à mobilidade ativa, considerando a integração da área
+central com os bairros vizinhos e a transposição dos viadutos e demais eixos viários existentes. O estímulo ao uso do transporte
+coletivo, por meio da melhoria das condições de acesso ao metrô e ao BRT é, assim como a mobilidade ativa, importante fator
+para a adaptação das cidades às mudanças climáticas, na medida que oferece, aos seus usuários, uma alternativa de qualidade
+ao transporte individual.
+
+
+Página: 12
+
+O Parque da Lagoinha foi concebido a partir das seguintes diretrizes: a) recuperação das áreas residuais; b) valorização da
+paisagem urbana e aumento de cobertura vegetal, ajardinamento e melhoria no paisagismo; c) desenvolvimento de atividades
+comerciais; d) implantação de equipamentos urbanos relacionados à prática de esportes diversificados, com o intuito de fomentar
+esses usos ao longo do dia e da noite; e) integração das intervenções com os bairros do entorno e com os equipamentos de
+transporte coletivo, primando pela acessibilidade entre os espaços públicos e equipamentos urbanos, visando a qualificação
+urbana, ambiental e paisagística; (f) implantação da ciclovia norte-sul.
+O Parque foi planejado de modo a viabilizar sua implementação por etapas, por meio da definição de quatro setores de intervenção
+: (1) Setor Rodoviária, (2) Setor Parque de Integração da Lagoinha, (3) Setor Agricultura Urbana e (4) Setor Diamantina. Contudo,
+o Parque da Lagoinha prevê um planejamento geral de execução e captação de recursos que visa atingir os objetivos supracitados
+na sua implantação final. Nesse sentido, a implementação das intervenções ora propostas nesta Carta Consulta, reforçarão
+investimentos com os mesmos propósitos, que já estão em andamento pela Prefeitura de Belo Horizonte na região.
+A PBH já deu início à elaboração de projetos para o Setor 2 - Parque de Integração da Lagoinha e já possui recursos para a
+implementação de suas obras, assegurados por meio de um financiamento com a CAIXA. As informações sobre os projetos do
+Setor 2 podem ser acessadas no site da PBH, nas páginas dedicada à licitação (https://prefeitura.pbh.gov.br/obras-e-infraestrutura/
+licitacao/regime-diferenciado-de-contratacao-029-2022) e ao respectivo contrato (https://prefeitura.pbh.gov.br/contratos/smobi-
+obras-e-servicos-de-engenharia-2022-0168). Este Setor 2 é o destinado a receber as intervenções mais estruturantes do projeto do
+parque. As amplas áreas que hoje se encontram ociosas serão transformadas em um parque, melhorando a qualidade ambiental
+local e provendo tanto a população dos bairros ao redor como os transeuntes de um novo espaço público de qualidade. As ações
+neste setor buscam prioritariamente prover acesso e integração por pedestres e ciclistas entre espaços públicos que hoje são
+desconectados.
+O pleito desta Carta Consulta se concentra, portanto, na implementação de dois setores complementares à área já em execução
+pela PBH: (3) Setor Agricultura Urbana e (4) Setor Diamantina.
+
+P - P2.1.1 - Atualização do projeto executivo de requalificação do Parque Guilherme Lage
+O produto P2.1.1 tem o objetivo de viabilizar a contratação de consultoria especializada para atualização dos projetos executivos
+de Requalificação do Parque Professor Guilherme Lage (ver projeto executivo:https://drive.google.com/drive/folders/1PLmKO-
+k76Q12B7sciKErtHXlin2bi1YB?usp=sharing), incluindo aí o seu licenciamento junto ao Conselho Municipal de Meio Ambiente. É
+importante destacar que o projeto executivo existente já contempla todas as diretrizes de projeto indicadas acima, mas sua
+atualização tornou-se necessária pelo tempo decorrido entre a finalização da elaboração dos projetos executivos, em 2015, e o
+momento em que se tenta obter os recursos necessários à execução das obras. Além disso, os recentes processos participativos
+para elaboração do Plano de Ação da Centralidade do Bairro São Paulo, (ver Plano de Ação da Centralidade São Paulo: https://
+prefeitura.pbh.gov.br/politica-urbana/planejamento-urbano/projetos-urbanos/plano-da-centralidade-bairro-sao-paulo) também trarão
+subsídios importantes para esta atualização do projeto executivo do Parque.
+A atualização deve contemplar ainda a acomodação às mudanças pontuais ocorridas no layout e uso do parque entre 2015 e 2024,
+bem como a adequação dos projetos às versões atualizadas das normas de acessibilidade e playgrounds, entre outras pertinentes
+ao tema. Adicionalmente, a atualização deve incorporar, sempre que possível, soluções alinhadas à política de descarbonização
+do município, com uso de painéis solares e provimento de vagas com recarga para veículos elétricos em seus estacionamentos,
+entre outras iniciativas. Finalizadas as atualizações, a consultoria deve assessorar a Fundação de Parques Municipais e
+Zoobotânica no processo de licenciamento das intervenções junto ao Conselho Municipal de Meio Ambiente (COMAM). Caso o
+Conselho proponha mudanças, elas devem ser incorporadas à versão final do projeto, que será encaminhada para atualização de
+orçamentos e licitação de obra.
+Este produto contemplará:
+- Licitação para contratação de empresa;
+- Atualização dos projetos com ajuste de escopos para compatibilização com mudanças ocorridas desde 2015 e incorporação das
+demandas do Plano de Ação da Centralidade do Bairro São Paulo e de soluções de descarbonização nas edificações e
+estacionamentos);
+- Apresentação do projeto executivo atualizado para licenciamento ambiental junto ao Conselho Municipal de Meio Ambiente (
+COMAM);
+- Atualização dos projetos para incorporação de eventuais modificações solicitadas pelo COMAM, se aplicável;
+- Atualização dos orçamentos da versão aprovada no COMAM.
+
+P - P2.1.2 - Implantação das obras de requalificação do Parque Guilherme Lage
+Este produto consiste na contratação de empresa especializada para execução das obras de requalificação do parque. O
+cronograma e custos são baseados no cronograma físico-financeiro do projeto executivo elaborado em 2015, devidamente
+atualizados pelo Índice Nacional de Custo da Construção (INCC), quando aplicável.
+Este produto contemplará:
+- Licitação para contratação de empresa
+- Obra
+
+P - P2.1.3 - Desapropriação para a requalificação do Parque Guilherme Lage
+A intervenção na Rua Padre José Alves (antiga Rua Angola), necessária ao projeto de requalificação do Parque Guilherme Lage,
+prevê a remoção de 4 edificações situadas imediatamente ao lado da entrada principal do parque, com o objetivo de aumentar a
+visibilidade e atratividade do parque para os visitantes.
+Tais edificações estão inseridas no zoneamento Zeis (Zonas Especiais de Interesse Social), no Plano Diretor, e foram ocupadas
+desordenadamente e de forma espontânea. Pela Política Habitacional do Município, as famílias dessas quatro edificações, que
+residem em áreas de Zeis, são inseridas dentro da esfera de atuação prioritária, para atendimento. Neste caso, a alternativa para
+estas edificações pode ser o recebimento de indenizações em função da desapropriação dos imóveis.
+
+
+Página: 13
+
+P - P.2.1.4 - Elaboração de projeto executivo e implantação do Parque da Lagoinha: setores complementares
+Consiste na elaboração de projeto executivo e implantação de obras de dois setores complementares do Parque da Lagoinha (
+Anexo 11): Setor 3 - Agricultura Urbana e Setor 4 - Diamantina.
+No Setor 3 - Agricultura Urbana, as intervenções buscam a recuperação de territórios residuais - áreas remanescentes da
+implantação do sistema viário - que, na leitura do espaço, oferecem mais desafios para a promoção de uso e para a articulação
+com as demais áreas e com o entorno. Esses locais possuem pouco espaço disponível para uma apropriação mais contínua,
+pouca ou nenhuma articulação com o entorno e grande degradação. Estão previstas, neste setor, as seguintes ações:
+- Implantação de Zona 30 na Rua Itapecerica. A Zona 30 é uma política adotada pela PBH para algumas áreas da cidade, segundo
+a qual a velocidade dos veículos é reduzida para o máximo de 30 km/h, diminuindo os riscos de acidentes e ampliando a
+segurança para pedestres e ciclistas. No âmbito desta política, são realizadas intervenções nas vias, como a revisão do desenho,
+acréscimos de calçadas nas esquinas, instalação de rotatórias e travessias elevadas.
+- Tratamento de áreas residuais remanescentes da implantação do sistema viário por meio de tratamento paisagístico, com o uso
+de SbN, de modo a qualificar a paisagem e evitar ocupações irregulares;
+- Requalificação da horta urbana, por meio de intervenção de consolidação do paisagismo já implantado, com criação de calçadão
+na Rua Francisco Soucasseaux;
+- Tratamento paisagístico de área residual do baixio do viaduto Senegal e melhoria da integração entre o bairro Lagoinha e a
+Avenida Antônio Carlos.
+No Setor 4 - Diamantina, as intervenções buscam a valorização da paisagem urbana e são orientadas para dar suporte à atividade
+contemplativa, através das seguintes propostas:
+- Implantação de Zona 30 na Rua Diamantina;
+- Implantação de mobiliário urbano (bancos, mesas, cadeiras, lixeiras, luminárias, dispositivos de sombreamento) nas áreas
+cobertas e descobertas, de modo a qualificar os espaços para a permanência;
+- Valorização da contemplação da paisagem urbana por meio de alargamento de passeios, implantação de mirante, execução de
+painéis e pinturas na visada do mirante, com o objetivo de produção de obras artísticas e referências visuais de interesse.
+
+S - S2.2 - INFRAESTRUTURA VERDE E AZUL
+A promoção da ampliação e da requalificação ambiental de áreas verdes, nascentes, conexões de fundo de vale e arborização de
+vias públicas, com a consolidação da rede de provisão de serviços ecossistêmicos através de implementação de Soluções
+baseadas na Natureza se dará por meio de três eixos de implementação: recuperação de nascentes e Conexão de fundo de vale;
+arborização urbana (plantios em logradouros públicos e em áreas públicas); e implantação/recuperação de áreas do Programa BH
+Verde.
+A infraestrutura azul recebe também destaque neste subcomponente, por meio de um produto específico de drenagem que
+garantirá a segurança hídrica e sanitária do Parque Aterro.
+
+P - P2.2.1 - Recuperação Ambiental de áreas delimitadas como conexão de fundo de vale com requalificação de
+córregos e nascentes de Áreas na bacia do Onça, Arrudas e Izidora
+Considerando a necessária proteção e recuperação das áreas de nascentes e fundos de vale, serão desenvolvidas ações de
+recuperação ambiental nas áreas de nascentes e conexões de fundo de vale das bacias hidrográficas do município de Belo
+Horizonte. Tem como pressupostos legais o Código Florestal (Lei Federal nº 12.651/12), o Cadastro Único de Nascentes - Cadun-
+BH - Lei nº 11.177/2019; o Plano Diretor de Belo Horizonte (Lei Municipal nº 11.181/2019), o Plano Diretor de Recursos Hídricos do
+Rio das Velhas.  O projeto será desenvolvido a partir da realização de:
+
+- Levantamento das Nascentes e Conexões de Fundo de Vale - Geoprocessamento;
+- Análise Descritiva da Situação Inicial;
+- Levantamento Florístico e Fitofisionômico;
+- Relato Faunístico;
+- Elaboração de Projeto para cada Nascente e/ou Fundo de Vale;
+- Monitoramento e Análise da Água;
+- Educação Ambiental - ações educativas com escolas e comunidade;
+- Recomposição da Cobertura Vegetal (Mata Ciliar, Mata Galeria e/ou Vegetação da Zona ripária);
+- Melhorias de acesso e ambiência para fruição ambiental;
+- Conservação e Manejo da Área;
+- Custos técnicos operacionais e administrativos.
+
+Serão selecionadas 45 áreas, contemplando áreas das bacias hidrográficas dos Ribeirões Arrudas, Onça e Isidoro, totalizando um
+total de 45 projetos de recuperação ambiental em áreas de nascentes e conexões de fundo de vale.
+
+P - P2.2.2 - Plantio em Áreas Verdes e Logradouros Públicos, com ênfase em conexões verdes do Plano Diretor
+Tendo como referência inicial norte o Projeto Montes Verdes, criado em 2016, e que tem como objetivo a recuperação e
+revegetação de áreas degradadas em Belo Horizonte, o plantio de mudas em logradouros públicos, parques e demais áreas
+verdes do Município foi intensificado, assumindo-se a meta inicial de 60.000 novas árvores em 4 anos, e utilizando como uma das
+estratégias a implementação de miniflorestas, plantios adensados que têm por objetivo criar ilhas de biodiversidade em áreas
+pouco vegetadas, proporcionando para as pessoas locais mais frescos e de contato com a natureza. Assim, para reforçar a
+arborização urbana no município, serão executadas as seguintes ações, que buscam, sobretudo, gerar sombreamento, aumentar o
+conforto térmico, diminuir a variação de temperatura, diminuir o impacto das chuvas, gerar barreiras contra ruídos e embelezar a
+cidade:
+
+- Implantação de Corredores verdes nas regiões administrativas do município;
+
+
+Página: 14
+
+- Avaliação de árvores expressivas, em logradouros públicos;
+- Implantação de miniflorestas;
+- Implementação de metas anuais de plantio;
+- Recuperação Ambiental de áreas verdes, Espaços Livres de uso Público;
+- Manutenção dos plantios realizados, durante o prazo de 1 ano;
+- Realização de ações educativas com escolas e comunidade.
+
+Será realizado o plantio de 15 mil mudas em logradouros públicos, com a manutenção por um ano, prevendo controle fitossanitário,
+irrigação, tutoramento e poda de condução.
+
+P - P2.2.3 - Implementação/Recuperação de áreas verdes degradadas em regiões com menor índice de áreas
+protegidas
+No que se refere ao eixo de implantação ou recuperação de áreas do Programa BH Verde, em conformidade com o ODS 15 - Vida
+de Ecossistemas Terrestre, busca-se a efetiva proteção, recuperação e promoção do uso sustentável dos ecossistemas terrestres,
+gerindo de forma sustentável as áreas vegetadas e arborizadas do município, para combater a desertificação, deter e reverter a
+degradação da terra e deter a perda de biodiversidade. Transversalmente, como elemento a ser considerado para a escolha de
+locais para a implementação destes projetos, em conformidade com o ODS 11 - Cidades e Comunidades Sustentáveis, busca-se
+proporcionar o acesso universal a espaços públicos seguros, inclusivos, acessíveis e verdes, particularmente para as mulheres e
+crianças, pessoas idosas e pessoas com deficiência. O projeto será desenvolvido a partir da realização de:
+
+- Realização de levantamento planialtimétrico de cada parcela;
+- Levantamento Florístico e Fitofisionômico;
+- Relato Faunístico;
+- Levantamento das demandas por equipamentos de lazer, recreação, desportivos e culturais da população atingida;
+- Elaboração de Estudo Preliminar de cada ELUP para aprovação junto à SMMA;
+- Elaboração e Aprovação de Projeto Executivo, Memorial Descritivo e Plano de Manejo e de Controle para cada ELUP;
+- Realização de obras de implantação do Projeto Aprovado;
+- Verificação de realização de adequações no Projeto Aprovado;
+- Recebimento de obras executadas;
+- Conservação e Manejo da Área por 6 meses/1 ano.
+
+Será realizada a revegetação 140 áreas verdes distribuídas em todas as regiões da cidade, sendo que cada área teria 1,0 mil m2,
+com o plantio ocorrendo no peri&#769;odo chuvoso, entre os meses de outubro a marc&#807;o, seguindo o padra&#771;o de
+mudas, berc&#807;amento e adubac&#807;a&#771;o. Estima-se o plantio de 160 árvores por local.
+
+P - P2.2.4 - Implantação do sistema de drenagem e selamento de células de resíduos, no Parque Aterro
+No ano de 2007, quando foi encerrada a operação do Aterro Sanitário CTRS BR-040, foram executadas as obras pertinentes
+àquele momento, como cobertura final do aterro (selamento) com material argiloso e cobertura vegetal, visando evitar processos
+erosivos. Na época, também foram realizadas obras de drenagem pluvial, por meio de descidas d'água em Gabião Caixa -
+estrutura flexível que se molda no terreno em função dos possíveis recalques. Apesar do tipo de estrutura adotada, os recalques
+verificados no aterro foram significativos, fazendo com que todo o sistema de drenagem pluvial, ou superficial apresentasse
+deformações diferentes daquelas esperadas. Ao longo dos anos foram adotadas soluções paliativas para estes problemas, até que
+o município pudesse viabilizar uma intervenção de maior porte no local.
+
+Com este intuito, foi elaborada uma proposta para a substituição de todo o sistema de drenagem existente, com uma nova
+concepção estrutural. Esta proposta culminou em um projeto executivo (ver https://drive.google.com/drive/folders/1bo_ubMTm_
+zAYuxgFROnRLY79nQblZoVZ?usp=sharing), que foi concluído em meados de 2022, cujas obras esta proposta pretende viabilizar.
+Este novo projeto de drenagem estrutural da CTRS BR 040 contempla a substituição de todo o sistema de drenagem existente no
+maciço e a implantação de uma bacia de detenção de cheias, visando minimizar os riscos à população residente na Vila Califórnia,
+localizada no entorno do antigo aterro sanitário, que recebe grande parte da drenagem do local.
+
+Paralelamente ao projeto de drenagem pluvial, também foi elaborado, no mesmo contrato, o projeto de cobertura final (selamento)
+da Célula de Disposição de resíduos de serviços de saúde (ver https://drive.google.com/drive/folders/1bo_ubMTm_
+zAYuxgFROnRLY79nQblZoVZ?usp=sharing), que atualmente conta com uma cobertura primária com resíduos de construção civil
+que ainda permite a infiltração de águas de chuva no maciço do aterro, o que ao longo do tempo, também pode afetar a sua
+estabilidade. Também se pretende implantar este projeto por meio deste produto.
+
+Em síntese, este produto pretende viabilizar todas as intervenções físicas necessárias para garantir a estabilidade do maciço do
+aterro sanitário: execução de novo sistema de drenagem pluvial e bacia de detenção de cheias; e selamento da célula de resíduos
+de serviços de saúde. Para tanto a PBH já dispõe dos projetos executivos necessários à execução das obras.
+
+Entende-se que essas obras são importantes para garantir a segurança hídrica e sanitária do Parque Aterro que se pretende
+instalar na área do antigo aterro sanitário.
+
+
+Página: 15
+
+C - C3: OLHAR PARA O FUTURO: AS CENTRALIDADES COMO UM NOVO MODELO DE SUSTENTABILIDADE AMBIENTAL
+NOS DESLOCAMENTOS URBANOS
+O componente C3: Olhar para o futuro: as Centralidades como um novo Modelo de Sustentabilidade Ambiental nos Deslocamentos
+Urbanos lança a estrutura física de suporte a novos padrões de ocupação do solo, policêntricos, de uso misto,  pautados em
+deslocamentos eficientes, que evitarão viagens por meio da redução das distâncias percorridas e pela diminuição do uso dos
+modos motorizados.  Este componente reúne produtos fundamentais para a formação e a consolidação das sete centralidades
+locais (Érico Veríssimo, Abílio Machado, Angola, Itaité, Padre Eustáquio, Úrsula Paulino e Estação Diamante) e da centralidade
+regional (Waldomiro Lobo) que receberão intervenções urbanas através dos recursos advindos deste financiamento. Estas
+intervenções promoverão o desenvolvimento urbano a partir de estratégias sustentáveis e soluções baseadas na natureza,
+possibilitando deslocamentos urbanos mais eficientes. Este componente também contempla ações que viabilizarão a implantação
+de Habitação de Interesse Social em centralidades regionais próximas ao Parque da Lagoinha (objeto do Produto P2.1.4).
+
+Ver Anexo 10 - Distribuição territorial dos Investimentos
+Ver Anexo 12 - Centralidades que receberão investimentos
+
+P - P3.1 - Desenvolvimento de Infraestrutura Urbana Sustentável para Mobilidade Ativa e Lazer
+O Produto prevê a implantação de rotas qualificadas para pedestres e ciclistas nas sete centralidades locais (Érico Veríssimo,
+Abílio Machado, Angola, Itaité, Padre Eustáquio, Úrsula Paulino e Estação Diamante) e na centralidade regional (Waldomiro Lobo).
+
+A qualificação das rotas para pedestres inclui:
+- Ampliação de 14.145m² de calçada para implantação de rampas acessíveis nas esquinas;
+- Reforma de 93.285m² de calçada existente, com demolição de obstáculos existentes e implantação de novo pavimento acessível;
+- Implantação de 3.111 unidades de bancos de concreto (ref.: 1,0x0,5m cada) distribuídos ao longo das calçadas, com garantia da
+faixa livre de circulação;
+- Reforma de 20.395m² de travessia elevada e 9.000m² de pista de rolamento.
+
+A qualificação das rotas para ciclistas inclui:
+- Implantação de 29.597m lineares de ciclovia e 14.759m lineares de ciclofaixa, ambas com sinalização vertical e horizontal;
+- Implantação de 10 estações de bicicletas elétricas com 10 unidades cada;
+- Implantação de 7.280m lineares de trechos compartilhados com horizontal.
+
+O produto prevê ainda a implantação e requalificação de 19.183m² de praças nas centralidades Érico Veríssimo, Abílio Machado,
+Waldomiro Lobo, Angola, Itaité, Padre Eustáquio, Úrsula Paulino e Estação Diamante. Os projetos das praças e parques englobam
+a implantação de circuitos acessíveis, áreas de permanência, áreas para práticas esportivas multi etárias, áreas para playground e
+áreas verdes. Este produto também viabiliza a implantação de jardins junto ao sistema de mobilidade urbana destas centralidades,
+promovendo sua qualificação paisagística.
+
+P - P3.2 - Reforma da Estação Diamante de Transporte Coletivo
+O produto prevê a reforma da Estação Diamante - terminal do transporte público de Belo Horizonte que integra o sistema BHBUS
+com aproximadamente 3.000m². A reforma engloba melhoria do acesso e da circulação interna dos usuários, implantação de
+mobiliários urbanos, melhoria das áreas de embarque e desembarque, reforma das instalações sanitárias, pintura das áreas
+cobertas, melhoria da pavimentação, incremento da iluminação e da sinalização informativa.
+
+P - P3.3 - Melhoria do acesso à Estação de Metrô Waldomiro Lobo
+O produto prevê a melhoria dos acessos à Estação de Metrô Waldomiro Lobo, com área aproximada de 1.000m². A melhoria
+engloba a reforma das rampas existentes e o alargamento do ponto de descida para a estação - a partir da implantação de novo
+espaço público no entorno da Estação - conectando as rotas qualificadas para pedestres e ciclistas ao metrô.
+
+P - P3.4 -  Implementação de SbN para Drenagem Urbana Sustentável e para implantação de Refúgios Climáticos
+O produto prevê o plantio de 1.613 mudas de árvores e implantação de 6.929m² de jardins de chuva nas centralidades Érico
+Veríssimo, Abílio Machado, Waldomiro Lobo, Angola, Itaité, Padre Eustáquio, Úrsula Paulino e Estação Diamante.
+Jardins de chuva são estruturas que contribuem para a captação da água da chuva, criando espaços de armazenamento que
+facilitam a infiltração no solo e ajudam na recarga do lençol freático. Também chamados de Sistema de Biorretenção, os jardins
+utilizam a atividade biológica de plantas e microorganismos para remover os poluentes das águas pluviais.
+O produto prevê ainda a reforma de 25.675m lineares de sarjetas e bocas de lobo das centralidades Érico Veríssimo, Abílio
+Machado, Waldomiro Lobo, Angola, Itaité, Padre Eustáquio, Úrsula Paulino e Estação Diamante.
+
+P - P3.5 - Melhoria e ampliação da infraestrutura para rede de coleta seletiva
+O produto prevê a ampliação da rede de coleta seletiva com implantação de 31 Pontos Verdes nas centralidades Érico Veríssimo,
+Abílio Machado, Waldomiro Lobo, Angola, Itaité, Padre Eustáquio, Úrsula Paulino e Estação Diamante.
+Em Belo Horizonte, existem duas modalidades de coleta seletiva: a porta a porta, em que o caminhão passa recolhendo os
+recicláveis nas residências ou no comércio, e a ponto a ponto (Pontos Verdes), quando o cidadão leva os resíduos (papel, metal,
+plástico, isopor e vidro) a um coletor instalado em local público pela Prefeitura.
+
+P - P3.6 - Desapropriação para implantação de habitação de interesse social e equipamento para populações de baixa
+renda e vulneráveis
+Consiste na compra de áreas bem localizadas, localizadas na Centralidade Regional Waldomiro Lobo, para implantação de
+habitações de interesse social e equipamentos públicos, destinados à populações de baixa renda e vulneráveis. (ver anexo 13)
+
+
+Página: 16
+
+As Centralidades Regionais, tais como a Waldomiro Lobo, possuem uma capacidade polarizadora para materializar os
+compromissos do Plano Diretor em direcionar o ordenamento do território, a partir de processos de renovação urbana, pautadas
+em infraestruturas e serviços acessíveis e bem conectados, de forma a proporcionar densidades populacionais sustentáveis e
+desenho urbano compacto. A Centralidade Regional da Waldomiro Lobo, têm, portanto, o potencial de se tornar um modelo para
+as demais centralidades da cidade. De forma que suas intervenções estruturantes, viabilizadas por meio destas desapropriações,
+possam ser um piloto público que evidencia a inserção de habitações de interesse social, voltadas para população de baixa renda
+e vulneráveis, no centro das maiores benesses urbanas trazidas pelos investimentos públicos nas centralidades.
+
+Essas intervenções estruturantes, viabilizadas por estas desapropriações têm, em seu caráter transformador, o potencial de
+direcionar não só a atuação pública, mas principalmente, de direcionar a atuação do mercado imobiliário para as centralidades.
+Essas desapropriações viabilizarão a construção de edificações públicas com habitação de interesse social, áreas comerciais e
+equipamentos públicos, que farão uso dos potenciais construtivos máximos permitidos pelo Plano Diretor, ancorando investimentos
+e criando uma reação em cadeia para as demais centralidades. Entende-se que, a Centralidade Waldomiro Lobo tem o potencial
+de gerar um "círculo virtuoso", no qual o investimento público e o incremento da infraestrutura e capacidade de suporte possam
+estimular o adensamento populacional e construtivo, a dinamização das atividades econômicas e a disseminação de polos de
+geração de oportunidades de trabalho e renda, de uma forma mais acelerada, gerando maior atratividade e proporcionando
+transformações na produção imobiliária da região.
+
+De forma específica, o produto prevê a desapropriação de 23.191,60 m², distribuídos em 03 áreas (Anexo 13). São elas:
+- Área 1: 9.401,50m² das Zonas 312 e 407, Quarteirões 003 e 036A, na Centralidade Waldomiro Lobo, próximo à Av. Cristiano
+Machado;
+- Área 2: 4.041,60m² da Zona 407, Quarteirão 034, na Centralidade Waldomiro Lobo, próximo ao Parque Nossa Senhora da
+Piedade;
+- Área 3: 9.748,50m² da Zona 929, Quarteirão 047, na Centralidade Waldomiro Lobo, próximo à Av. Risoleta Neves.
+
+P - P3.7 - Produção de unidades habitacionais para populações de baixa renda e vulneráveis, com parâmetros do
+Programa de Certificação Ambiental de Belo Horizonte
+Consiste na produção pública de edifícios com Habitação de Interesse Social (HIS), conjugados a equipamentos de uso comercial,
+nos terrenos desapropriados pelo Produto P3.6. Este produto prevê a implantação de 122 unidades habitacionais de interesse
+social (HIS), com aproximadamente 45m² cada. Voltado para a população com salário inferior a 1,5 salários mínimos, o edifício
+visa promover a produção pública de habitação do município para atendimento da política habitacional e redução do déficit de
+moradia. (ver anexo 13)
+
+O produto prevê ainda a implantação de áreas de uso coletivo e uso comercial nos edifícios de HIS, com gestão a ser realizada por
+entidades da sociedade civil.
+
+As edificações estão distribuídas em:
+- Edificação na Área 1: construção de 40 unidades de HIS em edificação de uso misto, objeto de Convênio Urbanístico de Interesse
+Social;
+- Edificação na Área 3: construção de 82 unidades de HIS e 1.700m² de área comercial em fachada ativa.
+
+O produto prevê também a implantação de 2.670m² de placas fotovoltaicas para geração de energia para uso da edificação,
+promovendo o uso de energias renováveis e a baixo custo para os moradores das unidades habitacionais.
+
+P - P3.8 - Implantação de equipamento social de cultura, lazer, esporte, educação e tecnologia, com produção de
+energia fotovoltaica
+O produto prevê a implantação de equipamento público com área construída de 4.500m², a ser localizado na Área 2, desapropriada
+pelo Produto P3.6. Este equipamento público irá abrigar espaços de cultura, lazer, esporte, educação e tecnologia. O equipamento
+também irá garantir conexão direta e acessível entre a Rua Waldomiro Lobo e o Parque Nossa Senhora da Piedade, por meio de
+circulação vertical. O programa da edificação inclui: quadra poliesportiva, piscina, equipamentos de calistenia e espaços livres para
+práticas diversas; salas para reuniões, treinamentos e oficinas; salas para microempreendedores do setor tecnológico; espaço
+multicultural e salas multiuso. (ver anexo 13)
+
+O produto prevê a implantação de 1.335m² de placas fotovoltaicas para  geração de energia para uso do equipamento público de
+cultura, lazer, esporte, educação e tecnologia, promovendo o uso de energias renováveis e a baixo custo para funcionamento da
+edificação.
+
+P - P3.9 - Implantação de quiosques e espaços para feiras
+O produto prevê a implantação de 34 unidades de quiosques comerciais, conforme projeto padrão do município (anexo 14). O
+mobiliário padrão do município engloba modelos de quiosques comerciais, com e sem banheiro de uso público.
+
+Além da implantação do mobiliário, o produto prevê a qualificação de 466m² para receber feiras livres e de agricultura urbana.
+
+P - P3.10 - Elaboração de Projetos de Engenharia, Arquitetura, Urbanismo e complementares para áreas das
+centralidades
+O Produto consiste na elaboração e desenvolvimento dos estudos, programas e projetos de engenharia, arquitetura, urbanismo e
+complementares previstos no Programa.
+
+
+Página: 17
+
+É importante destacar que várias das centralidades trabalhadas possuem planos urbanísticos e/ou estudos que orientarão o
+desenvolvimento dos projetos, tais como:
+
+- Angola: Plano de Ação da Centralidade São Paulo: https://prefeitura.pbh.gov.br/politica-urbana/planejamento-urbano/projetos-
+urbanos/plano-da-centralidade-bairro-sao-paulo).
+- Itaité e Waldomiro Lobo: https://drive.google.com/file/d/15CuWv1GhZMP7ezCt7xdFt5BS_z9UhzK9/view?usp=sharing
+- Padre Eustáquio: https://prefeitura.pbh.gov.br/sites/default/files/estrutura-de-governo/politica-urbana/2018/planejamento-urbano/
+projetocentralidades_padre_eustaquio.pdf
+- Centralidades regionais na região da Lagoinha: https://prefeitura.pbh.gov.br/politica-urbana/planejamento-urbano/plano-centro-
+lagoinha/plano-qualificacao-urbanistica-centro-lagoinha
+
+P - P.3.11 - Desapropriação de ferros velhos para implantação de habitação de interesse social, via convênio
+urbanístico, junto ao Parque da Lagoinha
+O Plano de Qualificação Urbanística Centro-Lagoinha (https://prefeitura.pbh.gov.br/politica-urbana/planejamento-urbano/plano-
+centro-lagoinha/plano-qualificacao-urbanistica-centro-lagoinha) identificou a existência de uma série de imóveis subutilizados, com
+localização privilegiada, em centralidades regionais, na Região da Lagoinha. Estes imóveis estão atualmente ocupados por ferros
+velhos e, muitos deles, são  frequentemente alvo de ações fiscais da Prefeitura em função de irregularidades nas vendas de fios de
+cobre e materiais metálicos. (ver anexo 12)
+
+A proposta da Prefeitura para esta área consiste na desapropriação desses terrenos para implantação de habitação de interesse
+social, destinada à população de baixa renda e vulnerável, em conjunto com a implantação de comércios e serviços e de
+equipamentos de uso público nos térreos das edificações. Os projetos capitaneados pela Prefeitura neste local irão possibilitar a
+integração dos empreendimentos de interesse social com o Parque da Lagoinha, bem como o usufruto para seus moradores de
+toda rede de mobilidade ativa e de apoio ao transporte coletivo viabilizada pelo parque.
+
+Após a desapropriação dos terrenos, a produção de habitação de interesse social será viabilizada por meio de um instrumento de
+parceria público-privada estabelecido pelo Plano Diretor Municipal, em seu artigo 76: o convênio urbanístico de interesse social.
+Por meio deste instrumento, um acordo de cooperação é firmado entre o Executivo e a iniciativa privada para execução de
+empreendimentos de interesse social. Este instrumento permite que o Executivo disponibilize terrenos para empreendedores
+privados interessados em implantar empreendimentos de interesse social, com vistas à viabilização do atendimento, por parte
+destes, ao público da Política Municipal de Habitação. Concluídas as intervenções físicas e sociais relativas ao empreendimento, o
+empreendedor privado recebe, nas áreas incluídas no convênio ou fora dessas, imóveis em valor equivalente à proporção obtida
+pela divisão do valor do orçamento das intervenções por ele realizadas pelo custo total do empreendimento. O edital da licitação
+que abre o convênio urbanístico, estabelece, entre outros pontos, os padrões da urbanização e da edificação que devem ser
+seguidos pelo parceiro privado, o que permite ao município estabelecer diretrizes específicas de projetos.
+
+Por meio deste produto, será possível então, disponibilizar terrenos bem localizados, em uma centralidade regional, junto ao
+Parque da Lagoinha, para atender a população vulnerável e de baixa renda.
+
+C - C4: OLHAR PARA AS PESSOAS E PARA O FORTALECIMENTO INSTITUCIONAL
+O Plano Local de Ação Climática de Belo Horizonte (PLAC-BH) reconhece que a mudança do clima impacta a sociedade de forma
+desigual, afetando de maneira mais intensa os grupos em situação de maior vulnerabilidade social. Nesse sentido, o PLAC-BH
+define vulnerabilidade social como a condição de fragilidade e exposição de determinados grupos sociais a riscos socioeconômicos
+e ambientais; e define vulnerabilidade climática, como a suscetibilidade de um grupo social, de um sistema ou de um território aos
+impactos negativos das mudanças climáticas. Com o foco em promover ações que reduzam os riscos climáticos e promovam a
+justiça climática, o componente "C4: Olhar para as Pessoas e para o Fortalecimento Institucional" abarca, em seu primeiro
+subcomponente, ações que proporcionarão oportunidades de trabalho e renda para pessoas em condição de vulnerabilidade social
+e econômica, com foco em critérios de renda, raça, gênero e outros fatores de inclusão; promoverão o fortalecimento do tecido
+empresarial local, a organização do sistema produtivo local e a inserção competitiva do território; contribuirão para a manutenção e
+a expansão de infraestruturas verdes de SbN e do uso de tecnologias limpas e renováveis na cidade como um todo, contribuindo
+para a construção de uma cidade mais sustentável e resiliente. O seu segundo subcomponente, por sua vez, reúne instrumentos
+de planejamento fundamentais para fortalecer o Município em temas específicos da estratégia de descarbonização.
+
+S - S4.1 DESENVOLVIMENTO ECONÔMICO E GERAÇÃO DE TRABALHO E RENDA
+O subcomponente S4.1 Desenvolvimento econômico e geração de trabalho e renda é composto por quatro  produtos.
+
+P - P4.1.1 - Capacitação de mão de obra vulnerável e de baixa renda e inclusão em ações de emprego e renda voltadas
+à manutenção das infraestruturas verdes de SbN
+O produto "Capacitação de mão de obra vulnerável e de baixa renda e inclusão em ações de emprego e renda voltadas à
+manutenção das infraestruturas verdes de SbN do Programa BH Verde Azul fortalecerá as iniciativas de implantação de jardins de
+chuva na cidade, correlacionando-as com ações de inclusão socioeconômica e co-gestão destes espaços. Para tanto, o produto
+abarca três eixos de atuação: a capacitação profissional de mão de obra vulnerável e de baixa renda voltada à manutenção dos
+jardins, a estruturação de uma política de adoção de jardins por meio da iniciativa privada e a estruturação de uma rede de
+zeladores. O produto se estrutura na seguinte sequência lógica de ações interligadas:
+
+
+Página: 18
+
+Primeiramente, será realizado um levantamento detalhado das áreas com jardins de chuva implantados em Belo Horizonte,
+identificando a demanda por mão de obra qualificada para a sua manutenção. Paralelamente, será realizada uma análise da
+situação de vulnerabilidade social e econômica no município, com foco em grupos como pessoas de baixa renda, mulheres,
+pessoas pretas, pessoas pertencentes à comunidade LGBTQIA+, entre outros, para definir o público-alvo dos cursos de
+capacitação. Com base nessas informações, será elaborado um plano de capacitação específico para a manutenção de jardins de
+chuva, com módulos sobre jardinagem, agroecologia, manutenção de sistemas de drenagem e educação ambiental.
+Em seguida, serão oferecidos cursos profissionalizantes em jardinagem, agroecologia e temas afins para o público-alvo definido.
+Os cursos serão estruturados com carga horária adequada e utilizarão metodologias participativas que priorizem a aprendizagem
+prática e o engajamento dos participantes. Serão realizadas visitas a jardins de chuva, experimentação de técnicas de jardinagem
+e promovida a troca de experiências. Materiais didáticos adequados, como livros, apostilas, vídeos e outros recursos educacionais,
+serão disponibilizados aos participantes.
+Cada formando receberá um uniforme e um kit de jardinagem e passará a integrar uma Rede de Zeladores Ambientais, que reunirá
+o cadastro de todos os profissionais capacitados. A Rede irá priorizar a inclusão de mulheres e de outros grupos vulneráveis,
+através de critérios de prioridade específicos. As ações deste produto irão facilitar a conexão entre empresas que adotarem jardins
+de chuva e os profissionais da Rede de Zeladores Ambientais, criando oportunidades de trabalho e renda para esse grupo.
+
+Para garantir a sustentabilidade do Programa, a Prefeitura irá monitorar o desempenho dos cursos, avaliando o impacto da Rede
+de Zeladores Ambientais e realizando ajustes conforme necessário. A Prefeitura irá subsidiar inicialmente um pacote mínimo de
+manutenção para cada jardineiro que estiver sendo capacitado, com o objetivo de incluir pessoas vulneráveis e de baixa renda
+nessa rede de prestadores de serviço. No entanto, esse subsídio será temporário, pois a iniciativa privada que adotar os jardins de
+chuva deverá contratar os profissionais da Rede de Zeladores Ambientais, garantindo a sustentabilidade financeira do programa.
+
+Este produto portanto elaborará todo o plano de capacitação e produzirá todo material didático necessário; implantará a
+infraestrutura física necessária para a realização dos cursos; promoverá 15 turmas de 20 alunos cada; capacitará 300 jardineiros;
+distribuirá para os formandos 300 kits contendo uniformes, equipamento de proteção individual e ferramentas de jardinagem; e
+subsidiará 24 manutenções de jardins para cada aluno capacitado como estágio final de seu treinamento para cadastro na Rede de
+Zeladores Ambientais.
+
+P - P4.1.2 - Realização de oficinas de Desenvolvimento Econômico Local (DEL) e suas cinco dimensões
+A Oficina DEL é uma metodologia que se destaca por sua abordagem colaborativa e participativa na construção de estratégias de
+desenvolvimento local. Ao potencializar os ativos dos territórios, utilizar métodos modernos e ágeis de planejamento e valorizar a
+sustentabilidade, essa metodologia contribui para a construção de um futuro mais justo e próspero para as comunidades locais.
+
+A Oficina DEL visa impulsionar o desenvolvimento econômico local por meio da potencialização dos ativos dos territórios. Com o
+objetivo de construir estratégias competitivas em um cenário de mudanças rápidas e profundas, essa metodologia se destaca por
+utilizar conceitos e métodos modernos e ágeis de planejamento. A Oficina DEL parte do pressuposto de que cada território possui
+seus próprios ativos, sejam eles naturais, culturais, sociais ou econômicos. Esses ativos são potencialidades que podem ser
+exploradas para promover o desenvolvimento local.
+
+Nesse sentido, a metodologia propõe um diagnóstico dos ativos territoriais, a fim de identificar quais são as vantagens competitivas
+de cada região. Com base nessa análise, é possível definir estratégias que valorizem esses ativos e contribuam para o
+desenvolvimento econômico local. A Oficina DEL aborda a questão do desenvolvimento econômico local (DEL) e suas cinco
+dimensões: capital empreendedor, tecido empresarial, governança para o desenvolvimento, organização do sistema produtivo local
+e inserção competitiva do território. São apresentadas boas práticas em cada uma dessas dimensões, bem como o uso do mapa
+ISDEL para identificar a identidade municipal por meio de dados. Além disso, o curso também inclui métodos ágeis Canvas DEL
+Território, a abordagem Effectuation, o MVP (Mínimo Produto Viável), a matriz de priorização para avaliar o grau de impacto das
+intervenções, o Lean Canvas e a técnica de Storytelling. Por fim, serão apresentadas estratégias de pitch para vender ideias e
+propostas relacionadas ao DEL.
+
+O participante aprenderá a tornar as vantagens comparativas e competitivas de um território mais dinâmicas para impulsionar o
+crescimento econômico. Além disso, serão apresentadas ações para aumentar o capital empreendedor, fortalecer as empresas
+locais e desenvolver a governança local. Também serão discutidas estratégias para estimular e sustentar a reestruturação da
+produção, a fim de tornar o território mais competitivo no mercado regional, estadual e/ou internacional. Os participantes também
+terão acesso a benefícios adicionais, como a formação de líderes protagonistas incentivados a articular e criar uma agenda de
+desenvolvimento econômico do território com base no conhecimento das potencialidades locais. Eles também terão acesso à
+metodologia da abordagem DEL proposta pelo Sebrae/MG e o conteúdo será aplicado na realidade do município ou território com
+acompanhamento técnico de um consultor especialista no assunto.
+
+O público alvo destas Oficinas DEL são representantes do setor privado e do terceiro setor, que atuem direta ou indiretamente no
+apoio aos pequenos negócios, com perfil de liderança e potencial de atuação para o desenvolvimento sustentável. A carga horária
+de cada oficina são 20 horas presenciais. Serão realizadas 8 oficinas para a certificação de pelo menos 160 participantes.
+
+P - P4.1.3 - Reestruturação da Usina Escola na Escola Profissionalizante Raimunda da Silva Soares
+A Escola Profissionalizante Raimunda da Silva Soares (EPRSS) é uma obra do orçamento participativo de 1996 e foi inaugurada
+em 1998. É considerada uma escola de excelência com cursos profissionalizantes de qualificação profissional gratuita para jovens
+e adultos em diferentes áreas: alimentação, higiene e beleza, serviços, informática e artesanato. Nesse espaço, já são ofertados
+cursos de qualificação profissional para formação de mão de obra para montagem de Usinas Fotovoltaicas, porém com uma
+estrutura bastante precária e com ações dependentes dos equipamentos de parceiros, principalmente no que diz respeito às aulas
+práticas do curso.
+
+
+Página: 19
+
+Através do Produto P4.1.3, será instalada uma Usina Fotovoltaica na Escola e será equipada uma sala de aula para ministrar os
+cursos, de forma a proporcionar aos alunos aulas práticas e teóricas sobre a área em questão. A instalação da usina também
+tornará a Escola Profissionalizante Raimunda da Silva Soares autossuficiente em energia elétrica. Além disso, será instalado um
+sistema de energia solar e captação de água de chuva com capacidade de 10.000 litros, que será utilizado para irrigação de uma
+horta e uso nos banheiros da escola. A Usina contará com os seguintes equipamentos: 60 Painéis Solares Jinko 550w Mono Perc
+21,85% Efic 120 Ce; 3 Microinversor Solar Deye 2kw Monofásico 220v 4mppt Monitoramento; Proteções CC e CA do sistema solar
+; Suporte para os painéis fotovoltaicos; 50m Cabo Solar 6 mm 1Kv; 04 pares Conectores MC4 Serviços; Serviço de Instalação;
+Projeto e Solicitação de Acesso a Rede da CEMIG; 1 ano de monitoramento do seu sistema.
+
+Com esta infraestrutura proporcionada pelo Produto P4.1.3, será possível capacitar 240 alunos, ao longo de 2 anos, em montagem
+e manutenção de usinas fotovoltaicas.
+
+P - P4.1.4 - Mulheres na Obra
+Este produto dialoga com a Política Afirmativa Mulheres na Obra para a inserção da mulher no mercado de trabalho da construção,
+instituída pela Portaria Conjunta SMOBI/SUDECAP/URBEL Nº 037/2023 (https://dom-web.pbh.gov.br/visualizacao/ato/430795).
+Esta política determina que todos os editais de obras promovidas pela Secretaria Municipal de Obras e Infraestrutura (Smobi),
+Superintendência de Desenvolvimento da Capital (Sudecap) e Companhia Urbanizadora e de Habitação de Belo Horizonte (Urbel),
+que contemplem a contratação de 10 funcionários ou mais, deverão reservar a cota mínima de 10% para trabalhadoras.
+
+Esta importante política para a promoção da igualdade de gênero, inclusão da mulher no mercado de trabalho e empoderamento
+econômico feminino, está conectada com outra ação já em curso no município: a oferta de cursos de capacitação profissional na
+área da construção civil direcionado para mulheres. Em 2024 estão sendo abertas 120 vagas, distribuídas em seis cursos (20
+vagas/turma) que visam a formação de Pintora de Obras Imobiliárias, Pedreira de Alvenaria, Pedreira de Acabamento, Carpinteira
+de Obra, Instalações Elétricas Prediais de Baixa Tensão e Hidráulica Predial. Os cursos, divididos em aulas teóricas e práticas, tem
+duração de quatro meses (com carga horária que varia entre 160 horas e 200 horas) e são ministrados no período da noite, com
+uma média de quatro horas/dia. As mulheres que estiverem em situação de vulnerabilidade social recebem uma bolsa mensal de R
+$ 650,00, condicionada à frequência no curso.
+
+Tendo em vista o significativo número de obras que esta Carta Consulta busca viabilizar, pretende-se formar, ao longo dos 6 anos
+de duração do Programa, mais 1.600 mulheres construtoras e, para tanto, este produto contemplará as despesas dos cursos em si
+e as bolsas para as mulheres em situação de vulnerabilidade social, tal como previsto na ação de capacitação atualmente em
+curso pela Prefeitura.
+
+S - S4.2 - DESENVOLVIMENTO DE PLANOS
+O subcomponente S4.2 - Desenvolvimento de planos é conformado por três produtos.
+
+P - P4.2.1 - Elaboração de plano com diretrizes para certificação de sustentabilidade ambiental do novo bairro do
+Aeroporto Carlos Prates
+O produto "Elaboração de plano com diretrizes para certificação do novo bairro do Aeroporto Carlos Prates", que integra o
+componente "Olhar para as Pessoas e para o Fortalecimento Institucional" do Programa BH Verde Azul, tem como objetivo
+transformar a área do antigo Aeroporto Carlos Prates em um bairro modelo de sustentabilidade ambiental e urbana, alinhado com
+os princípios de zero emissões de GEE, em consonância com as metas de descarbonização da cidade. (ver anexo 10)
+
+O plano de certificação irá funcionar como um guia detalhado para a urbanização sustentável do novo bairro, definindo diretrizes
+específicas para cada etapa do desenvolvimento do bairro, desde o parcelamento do solo, a ocupação e o uso do solo, até a
+construção de edificações e a implantação de infraestruturas. O plano irá integrar os princípios de sustentabilidade ambiental e
+urbana ao projeto de urbanização, com base nas diretrizes do Plano Diretor e da Política de Mudanças Climáticas Municipal.
+
+O produto irá estabelecer critérios específicos para a construção de edificações com alta eficiência energética, incluindo o uso de
+materiais sustentáveis, a utilização de sistemas de energia solar e a adoção de tecnologias de baixo impacto ambiental. Também
+irá incorporar soluções baseadas na natureza para a gestão de águas pluviais, como jardins de chuva e outros sistemas de
+drenagem sustentáveis, com o objetivo de reduzir o impacto da impermeabilização do solo e de controlar inundações e
+alagamentos. O produto irá incluir diretrizes para a gestão de resíduos no novo bairro, com foco na redução, reutilização e
+reciclagem, na compostagem e no tratamento adequado de resíduos da construção civil.
+
+O plano de certificação irá funcionar como uma ferramenta essencial para monitorar o desempenho do novo bairro em relação aos
+parâmetros de sustentabilidade ambiental e urbana, garantindo que ele mantenha a certificação e que seja um modelo de
+desenvolvimento urbano sustentável.
+
+P - P4.2.2 - Elaboração do Plano Local de Mobilidade Limpa Municipal
+O Plano Local de Mobilidade Limpa será constituído por sete entregas:
+1. Plano de Trabalho: Contempla a justificativa e a descrição dos objetivos da iniciativa, a abordagem metodológica definida para
+cada um dos componentes temáticos do PLML, informações sobre o processo de gestão do projeto, a proposição de um
+cronograma detalhado de atividades, a partir do cronograma apresentado no Termo de Referência.
+
+
+Página: 20
+
+2. Relatório Pré-diagnóstico e Plano de Monitoramento: apresentará a análise dos dados disponíveis sobre regulações e políticas
+públicas relacionadas ao plano, as potenciais metas e indicadores a serem monitorados durante sua implementação e as ações de
+engajamento das partes interessadas planejadas para o seu desenvolvimento. Esta etapa deve contemplar, dentre outros aspectos
+, o levantamento e análise de dados disponíveis, captura de dados não disponibilizados e definição de metas e indicadores com
+base na análise das informações captadas e das metas definidas no PLML.
+3. Relatório de Levantamento de Dados e Planejamento do processo participativo: apresentará os resultados dos levantamentos e
+das análises de dados primários obtidos em campo para subsidiar o desenvolvimento dos componentes temáticos do PLML e a
+descrição das atividades realizadas voltadas ao engajamento das partes interessadas na sua concepção. Esta etapa contemplará
+ainda a definição do engajamento das partes interessadas no desenvolvimento do PLML.
+4. Plano Local de Mobilidade Limpa propriamente dito: abordará os temas relativos aos oito eixos do PlanMob-BH - Plano Diretor
+de Mobilidade Urbana de Belo Horizonte: (i) Eixo Mobilidade Ativa; (ii) Eixo Mobilidade Coletiva; (iii) Eixo Circulação Calma; (iv)
+Eixo Mobilidade Individual Motorizada; (v) Eixo Logística Urbana; (vi) Eixo Cidade Sustentável; (vii) Eixo Acessibilidade Universal; e
+, (viii) Eixo Gestão, Fiscalização e Operação.
+O PLML deve definir um conjunto de projetos, medidas, planos e programas, estruturados nos oito eixos do PlanMob-BH,
+considerando a transversalidade dos eixos. Devem ser consideradas ações interdisciplinares, que envolvam além da gestão da
+Mobilidade Urbana, áreas de gestão tais como Planejamento Urbano, Educação, Meio Ambiente, Saúde, Assistência e Inclusão
+Social. O PLML deve definir, como estratégia de implantação, quais são os cenários de curto, médio e longo prazos, que devem
+nortear as estratégias de implementação dos projetos, medidas, planos e programas. O PLML deve definir indicadores capazes de
+mensurar o alcance das metas definidas. Considerando cenários de implantação de curto, médio e longo prazo, o PLML deve
+apresentar as estimativas de custo de implementação dos projetos, medidas, planos e programas, bem como as potencialidades e
+dificuldades na implementação de cada uma delas.
+5. Projeto Piloto: Para garantir a viabilidade e a eficácia do PLML, está prevista a realização de um Projeto Piloto, que consiste na
+aplicação medidas previstas no PLML em uma área menor e de mais fácil controle, dentro do perímetro da área central de Belo
+Horizonte, com área aproximada de 0,25 km2 de área urbana, considerados aí os miolos de quadra.
+6. Plano de Monitoramento: Neste componente apresentará a definição do plano de monitoramento e gestão de dados, com
+definição de metas, indicadores, gatilhos e periodicidade de apuração. A referência principal são as metas e indicadores definidos
+pelo PlanMob-BH, alinhando as metas do PLML com as metas definidas pela política setorial ao nível municipal.
+7. Minuta de Carta de Intenções: Serão apresentadas as especificações do PLML no que diz respeito aos normativos legais e
+arranjos institucionais que possam viabilizar o Plano, bem como a captação de financiamentos para sua implementação.
+
+P - P4.2.3 - Trabalho Técnico Social (TTS)
+Morar em uma grande cidade envolve uma complexidade de fatores que determinam a vida das pessoas. Significa muito mais do
+que ter acesso à moradia e trabalho, requer também ter acesso à infraestrutura adequada, saúde, educação, cultura, lazer,
+mobilidade urbana, dentre tantos outros fatores. Porém, grande parte da população não reflete sobre a conformação das cidades,
+como isso interfere na sua vida cotidiana e como os segmentos sociais atuam na dinâmica urbana do seu município. Muitos dos
+conhecimentos acerca das questões urbanas ficam restritos a setores específicos como o acadêmico e técnico, o setor empresarial
+ligado à construção civil e o setor público que lida com o planejamento urbano municipal.
+
+Em Belo Horizonte, uma das formas mais importantes de participação cidadã com foco no direito à cidade são as Conferências
+Municipais de Política Urbana - CMPU. As Conferências acontecem quadrienalmente e, a cada oito anos, deliberam alterações no
+Plano Diretor Municipal, definindo, portanto, os rumos do desenvolvimento urbano e as formas de organização da cidade. Tratam-
+se de arenas de luta entre os diversos setores da sociedade civil que disputam o espaço urbano com forças desiguais e interesses
+muitas vezes divergentes.
+
+Os setores que participam da Conferência são: o Executivo municipal, que apresenta propostas de alterações da legislação
+urbanística e coordena os eventos, e os setores empresarial, popular e técnico que apresentam, discutem e elegem propostas de
+alteração do Plano Diretor municipal. Os três setores da sociedade civil escolhem delegados e suplentes que irão representá-lo
+durante a realização deste fórum participativo. O Executivo municipal não tem poder deliberativo, portanto não elege
+representantes. A questão que se apresenta diante deste cenário é a desigualdade no acesso à informação e ao conhecimento
+relacionados ao contexto urbano entre esses três setores. As Conferências Municipais promovem momentos de capacitação
+visando esclarecer sobre as propostas elaboradas pelo Executivo Municipal e, principalmente, reduzir as desigualdades
+informacionais entre os setores, porém, tais momentos são restritos aos representantes eleitos e com foco nas questões a serem
+debatidas.
+
+Considerando que a falta de acesso ao conhecimento sobre a dinâmica do espaço urbano constitui um problema e que este
+problema - que se reflete nos debates realizados nas Conferências Municipais de Política Urbana - colabora para a manutenção da
+desigualdade socioespacial e socioeconômica presentes na cidade, este produto visa promover ações de educação urbana e
+formação cidadã para grupos sociais com menores possibilidades de engajamento nesta temática. Objetiva-se levar o
+conhecimento a respeito da política urbana e o direito à cidade para tais grupos, contribuindo desta forma, para a autonomia e
+capacidade de articulação e participação ativa de cada cidadã e cidadão nos debates sobre os rumos do desenvolvimento urbano
+municipal.
+
+Propõe-se a realização de oficinas de Educação Urbana com grupos sociais diversos, buscando disseminar o conhecimento
+acerca das temáticas urbanas e, ao mesmo tempo, alcançar as especificidades de cada grupo de pessoas, provocando a reflexão
+e o debate sobre as diferentes formas de ocupação do espaço urbano e as forças coletivas que atuam na transformação deste
+espaço.
+
+
+Página: 21
+
+As oficinas deverão ser adequadas a cada público alvo no que diz respeito à abordagem do tema relacionando-o com a vida
+cotidiana das pessoas. Deverão trabalhar com linguagem simples e acessível e utilizar material didático e metodologia pedagógica
+de fácil compreensão e adequado a cada grupo.
+
+Para a realização das oficinas pretende-se contratar consultoria que deverá propor metodologias e didáticas adequadas a cada
+grupo. Propõe-se trabalhar com seguintes os grupos sociais presentes nas Centralidades objeto desta Carta Consulta:
+- crianças, em todas as centralidades abordadas;
+- adolescentes e jovens em todas as centralidades abordadas;
+- mulheres, em todas as centralidades abordadas;
+- quilombolas ou grupos de matriz afrodescendente, em todas as centralidades abordadas;
+- indígenas, caso haja ocorrência desses grupos nas centralidades;
+- pessoas com deficiência, em todas as centralidades abordadas;
+- pessoas LGBTQIA+, em todas as centralidades abordadas;
+- migrantes;
+- indústrias e comércios de maior porte.
+
+As oficinas serão organizadas de forma a abordar como cada grupo se vê presente no Plano Diretor de Belo Horizonte e como
+desejariam que estivessem inseridos nele. Os temas/recortes serão trabalhados tendo como ponto de partida três cenários:
+
+1º) O que já foi: a história da formação da cidade e da política urbana de Belo Horizonte;
+2º) O que é hoje: quais as premissas e diretrizes da política urbana atual, o que o Plano Diretor vigente determina para a cidade; e,
+por fim.
+3º) O que pode vir a ser: como o Plano Diretor deve incorporar as especificidades de cada grupo visando a conformação de uma
+cidade diversa, acolhedora e vibrante e como atuar para que ele promova a distribuição adequada dos recursos urbanos.
+
+Pretende-se que as oficinas sejam, além de processos de formação cidadã, lugares de troca de conhecimentos a respeito da
+diversidade de formas de estar e atuar no espaço urbano. Com a realização destas oficinas, a equipe do Planejamento Urbano da
+Prefeitura terá acesso a informações relevantes que permitirão a ampliar o conhecimento sobre as relações sociais e como esses
+grupos vivenciam os espaços urbanos, ampliando, desta forma, o olhar e as análises sobre a dinâmica urbana, visando o
+desenvolvimento de uma política urbana mais abrangente e com maior capacidade para acolher as especificidades que conformam
+a cidade de Belo Horizonte.
+
+Tais atividades darão suporte não só às atividades referentes a esta Carta Consulta, mas também fortalecerão a política
+estabelecida pelo Plano Diretor da cidade.
+
+C - C5: OLHAR PARA A GESTÃO
+O componente C5: Olhar para a Gestão, cria a estrutura de gestão necessária para o pleno funcionamento do BH Verde Azul:
+Programa de redução de carbono. Este Componente contempla quatro produtos.
+
+P - P5.1 - Apoio à Unidade Executora do Programa
+A Unidade Executora do Programa será constituída por Comitê Gestor (CG) e Unidade Gestora do Programa (UGP). O CG será
+constituído por membros da Administração Direta do Poder Executivo, sob responsabilidade da Secretaria Municipal de Obras e
+Infraestrutura (SMOBI), e a equipe técnica poderá ser composta por técnicos do quadro da administração pública ou contratados.
+
+O CG contará com o apoio da Unidade Gestora do Programa (UGP) e, ainda, com o suporte de todos os órgãos do poder
+executivo municipal afetos às questões do campo de ação imediato do Programa. Atuará como interlocutor junto ao BID e os
+órgãos públicos envolvidos ou intervenientes no Programa e será responsável por:
+
+- Prover orientações específicas relativas à execução do Programa;
+- Buscar, sempre que possível, conciliar e integrar as ações propostas pelos diferentes co-executores, e modo a promover a
+utilização múltipla e integrada dos recursos;
+- Acompanhar a execução, harmonizar, articular, integrar e otimizar a operacionalização das ações do Programa;
+- Implantar e operar o sistema de monitoramento e avaliação do Programa.
+
+A UGP será responsável pela operacionalização do Programa nas diversas áreas das intervenções e terá, entre outras, as
+seguintes atribuições:
+- Preparar os processos licitatórios, incluindo processos administrativos e técnicos (como Termos de Referência) e demais
+documentos necessários às contratações ;
+- Preparar os Relatórios de Acompanhamento do Programa, reunindo os relatórios dos órgãos e entidades co-executoras;
+- Realizar o acompanhamento físico-financeiro das atividades, no que se referir aos componentes e subcomponentes do Programa;
+- Participar da fase de liquidação da despesa: recebimento dos serviços e produtos; inspeção e liberação; laudo de medição;
+atestado de prestação de serviços e produtos; requisição de pagamento; autorização de pagamento;
+- Preparar os relatórios de monitoramento e as avaliações do Programa;
+- Manter documentação técnica, jurídica e financeira do Programa.
+
+
+Página: 22
+
+P - P5.2 - Supervisão de Obras
+Considerando a complexidade das obras que irão compor o Programa, torna-se necessária a contratação de uma empresa
+especializada em supervisão e fiscalização de obras. Esta empresa deverá conter em seu quadro de profissionais uma equipe
+multidisciplinar com expertise nos diversos tipos de obras previstas no mesmo. Os serviços de supervisão das obras serão
+financiados com recursos do Contrato de Empréstimo e a empresa estará vinculada à Secretaria Municipal de Obras e
+Infraestrutura (SMOBI).
+
+Os serviços compreenderão trabalhos de apoio ao acompanhamento da qualidade dos serviços, fidelidade no seguimento das
+soluções de projeto, aplicação de materiais e uso dos métodos construtivos, perfazendo assim um perfil altamente técnico aos
+trabalhos. Também deverão ser acompanhadas a acuidade dos trabalhos de sondagem, a escavação e o uso compatível com os
+materiais e equipamentos, além do monitoramento dos impactos ambientais e suas respectivas medidas mitigadoras, de controle e
+redução dos riscos ambientais decorrentes da implantação e operação das obras do Programa.
+
+Os  serviços de supervisão, fiscalização e acompanhamento de obras contemplam as seguintes atividades básicas de campo:
+a) Controle da qualidade técnica dos serviços contratados;
+b) Acompanhamento do atendimento dos serviços contratados às especificações dos projetos;
+c) Verificações técnicas, ambientais e administrativas, relacionadas às atividades do canteiro de obras e das frentes de serviços;
+d) Verificação do cumprimento, no âmbito dos contratos dos requisitos de funcionalidade técnica requeridos em projeto;
+e) Verificação do cumprimento, no âmbito dos contratos de obras, da legislação trabalhista, de segurança do trabalho e meio
+ambiente;
+f) Controle dos faturamentos da obra, verificando os quantitativos efetivamente medidos;
+g) Acompanhamento da evolução física e financeira dos contratos;
+h) Acompanhamento por meio de relatórios mensais que reflitam indicadores de custo, desempenho e avanço físico dos
+empreendimentos, apontando os caminhos críticos e as alternativas de solução para os problemas decorrentes da execução
+contratual;
+i) Acompanhamento e monitoramento das condicionantes ambientais indicadas na licença ambiental e de instalação;
+j) Elaboração e apresentação, após a conclusão de cada etapa de obra, o projeto "como construído", de maneira que representem
+a última versão emitida do projeto (As Built) e que sejam condizentes com a real implantação da obra.
+
+P - P5.3 - Auditoria Externa
+Este produto financiará atividades relacionadas com a auditoria da execução do contrato de empréstimo, englobando elementos
+relacionados a aquisições, contratações, desembolsos e demais atos efetivados ao longo do Programa.
+
+P - P5.4 - Montagem de escritório e aquisição de equipamentos
+Este produto prevê a montagem de escritório vinculado à UGP, com aquisição de equipamentos, como computadores e mobiliários
+, bem como contratação de consultorias para apoio ao desenvolvimento de projetos, planejamento e fiscalização e execução de
+obras, monitoramento e controle, aquisições, apoio administrativo, gestão financeira e comunicação, entre outros.
+
+
+Página: 23
+
+Valor
+
+% Financeiro
+
+Categoria de Gasto
+
+Obras
+P- P1.1.2 - Implantação da obra do Parque Aterro
+P- P2.1.2 - Implantação das obras de
+requalificação do Parque Guilherme Lage
+P- P.2.1.4 - Elaboração de projeto executivo e
+implantação do Parque da Lagoinha: setores
+complementares
+P- P2.2.1 - Recuperação Ambiental de áreas
+delimitadas como conexão de fundo de vale com
+requalificação de córregos e nascentes de Áreas
+na bacia do Onça, Arrudas e Izidora
+P- P2.2.2 - Plantio em Áreas Verdes e
+Logradouros Públicos, com ênfase em conexões
+verdes do Plano Diretor
+P- P2.2.3 - Implementação/Recuperação de áreas
+verdes degradadas em regiões com menor índice
+de áreas protegidas
+P- P2.2.4 - Implantação do sistema de drenagem
+e selamento de células de resíduos, no Parque
+Aterro
+P- P3.1 - Desenvolvimento de Infraestrutura
+Urbana Sustentável para Mobilidade Ativa e Lazer
+P- P3.2 - Reforma da Estação Diamante de
+Transporte Coletivo
+P- P3.3 - Melhoria do acesso à Estação de Metrô
+Waldomiro Lobo
+P- P3.4 -  Implementação de SbN para Drenagem
+Urbana Sustentável e para implantação de
+Refúgios Climáticos
+P- P3.5 - Melhoria e ampliação da infraestrutura
+para rede de coleta seletiva
+P- P3.7 - Produção de unidades habitacionais
+para populações de baixa renda e vulneráveis,
+com parâmetros do Programa de Certificação
+Ambiental de Belo Horizonte
+P- P3.8 - Implantação de equipamento social de
+cultura, lazer, esporte, educação e tecnologia,
+com produção de energia fotovoltaica
+P- P3.9 - Implantação de quiosques e espaços
+para feiras
+Bens
+P- P5.4 - Montagem de escritório e aquisição de
+equipamentos
+Consultoria
+P- P1.1.1 - Elaboração do projeto executivo do
+Parque Aterro
+P- P1.2.1 - Elaboração do projeto técnico para
+parque fotovoltaico na área do antigo Aterro
+Sanitário
+P- P2.1.1 - Atualização do projeto executivo de
+requalificação do Parque Guilherme Lage
+P- P3.10 - Elaboração de Projetos de Engenharia,
+Arquitetura, Urbanismo e complementares para
+áreas das centralidades
+P- P4.2.1 - Elaboração de plano com diretrizes
+para certificação de sustentabilidade ambiental do
+novo bairro do Aeroporto Carlos Prates
+P- P4.2.2 - Elaboração do Plano Local de
+Mobilidade Limpa Municipal
+P- P4.2.3 - Trabalho Técnico Social (TTS)
+P- P5.1 - Apoio à Unidade Executora do Programa
+P- P5.2 - Supervisão de Obras
+P- P5.3 - Auditoria Externa
+Capacitação e Treinamento
+P- P4.1.1 - Capacitação de mão de obra
+vulnerável e de baixa renda e inclusão em ações
+de emprego e renda voltadas à manutenção das
+infraestruturas verdes de SbN
+
+Unidade de medida
+-
+hectares
+metros quadrados
+
+Meta
+
+-
+32,00
+120.000,00
+
+68.171.000,00
+9.380.000,00
+3.518.000,00
+
+Setores implantados
+
+2,00
+
+4.000.000,00
+
+projetos implantados
+
+45,00
+
+6.300.000,00
+
+mudas plantadas
+
+15.000,00
+
+3.240.000,00
+
+áreas verdes
+revegetadas
+
+140,00
+
+3.060.000,00
+
+obras implantadas
+
+3,00
+
+7.560.000,00
+
+93.285,00
+
+14.690.000,00
+
+14,69
+
+3.000,00
+
+1.000,00
+
+6.929,00
+
+31,00
+
+122,00
+
+470.000,00
+
+76.000,00
+
+4.000.000,00
+
+412.000,00
+
+6.000.000,00
+
+m2
+
+4.500,00
+
+4.330.000,00
+
+34,00
+
+1.135.000,00
+
+m² de calçada
+reformadas
+m2
+
+m2
+
+m2 de jardins de
+chuva
+
+Pontos Verdes
+instalados
+habitações
+implantadas
+
+quiosques
+implantados
+-
+escritório
+
+-
+Projetos
+
+projeto
+
+projeto
+
+Projetos
+
+Plano
+
+Plano
+
+-
+1,00
+
+-
+7,00
+
+1,00
+
+1,00
+
+9,00
+
+1,00
+
+1,00
+
+104.000,00
+104.000,00
+
+12.955.000,00
+380.000,00
+
+500.000,00
+
+75.000,00
+
+1.500.000,00
+
+550.000,00
+
+900.000,00
+
+900.000,00
+4.000.000,00
+4.000.000,00
+150.000,00
+1.110.000,00
+285.000,00
+
+eventos realizados
+unidade
+unidade
+unidade
+-
+pessoas capacitadas
+
+100,00
+1,00
+1,00
+1,00
+-
+300,00
+
+68,17
+9,38
+3,52
+
+4,00
+
+6,30
+
+3,24
+
+3,06
+
+7,56
+
+0,47
+
+0,08
+
+4,00
+
+0,41
+
+6,00
+
+4,33
+
+1,14
+
+0,10
+0,10
+
+12,96
+0,38
+
+0,50
+
+0,08
+
+1,50
+
+0,55
+
+0,90
+
+0,90
+4,00
+4,00
+0,15
+1,11
+0,28
+
+
+Página: 24
+
+P- P4.1.2 - Realização de oficinas de
+Desenvolvimento Econômico Local (DEL) e suas
+cinco dimensões
+P- P4.1.3 - Reestruturação da Usina Escola na
+Escola Profissionalizante Raimunda da Silva
+Soares
+P- P4.1.4 - Mulheres na Obra
+
+Outros
+P- P2.1.3 - Desapropriação para a requalificação
+do Parque Guilherme Lage
+P- P3.6 - Desapropriação para implantação de
+habitação de interesse social e equipamento para
+populações de baixa renda e vulneráveis
+P- P.3.11 - Desapropriação de ferros velhos para
+implantação de habitação de interesse social, via
+convênio urbanístico, junto ao Parque da
+Lagoinha
+Total Geral
+
+oficinas realizadas
+
+8,00
+
+50.000,00
+
+pessoas capacitadas
+
+240,00
+
+55.000,00
+
+mulheres
+capacitadas
+-
+edificações
+
+1.600,00
+
+720.000,00
+
+-
+4,00
+
+17.660.000,00
+350.000,00
+
+m2
+
+23.191,60
+
+14.260.000,00
+
+Convênio firmado
+
+1,00
+
+3.050.000,00
+
+0,05
+
+0,06
+
+0,72
+
+17,66
+0,35
+
+14,26
+
+3,05
+
+-
+
+-
+
+100.000.000,00
+
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Belo Horizonte, nos últimos anos, vem se destacando entre cidades inclusivas, seguras, resilientes e sustentáveis. Signatária da Nova
+Agenda Urbana - NAU, o município tem trabalhado para pôr em prática os pressupostos e os Objetivos de Desenvolvimento Sustentável -
+ODS, especialmente através do Plano Diretor Municipal, aprovado em 2019. Considerando a responsabilidade local no contexto das
+mudanças climáticas, Belo Horizonte estabeleceu a Política Municipal Climática, com ações em desenvolvimento desde 2006, como a
+criação do Comitê Municipal de Mudanças Climáticas e Ecoeficiência (CMMCE), a Instituição da Política Municipal de Mitigação dos
+Efeitos da Mudança Climática, a aderência à campanha global Race to Zero, além da inserção dos compromissos globais da NAU e dos
+ODS em seu Plano Diretor. De forma alinhada com o Plano Diretor, instrumentos que compõem a Política de Mitigação dos Efeitos da
+Mudança Climática são publicados regularmente com o estabelecimento de metas e monitoramento do cumprimento delas. Dentre eles,
+destacam-se:
+
+- Inventário Municipal de Emissões de Gases de Efeito Estufa (GEE), que está em sua 7° edição com mapeamento das emissões das
+séries históricas de 2000-2007; 2008-2011; 2011-2013; 2009-2019; 2009-2020; 2009-2021;e 2014-2023. (ver anexo 5)
+
+- Plano de Redução de Gases de Efeito Estufa (PREGEE), que está em sua 2ª edição (2013 e 2020) propõe ações para mitigação de
+emissões e para a adaptação da cidade ao cenário de mudança do clima. (ver anexo 6)
+
+- Plano Local de Ação Climática (PLAC) instituído em 2022, que reafirma os compromissos definidos no PREGEE e propõe a redução das
+emissões de Belo Horizonte em 40% até 2040 e o alcance de emissões líquidas zero até 2050. (ver anexo 7)
+
+No que se refere ao componente "C1: Olhar para o Passado: Tratamento de Passivos Ambientais - O Parque Aterro", é importante
+compreender que a Central de Tratamento de Resíduos Sólidos (CTRS) da BR-040 operou de 1975 a dezembro de 2006, tendo
+acumulado uma massa estimada de 23.9 milhões de toneladas de lixo, computado, neste montante, a partir de 1996, o resíduo de
+construção e de demolição como material aterrado. Com o encerramento de sua operação, foi elaborado um Plano de Encerramento que
+contemplou os procedimentos para a conservação e manutenção da área, integrados a um programa de monitoramento ambiental e
+geotécnico e de restauração ambiental das áreas degradadas. Também após o encerramento das atividades de aterragem, foi retomada,
+por meio de uma concessão, a atividade de captação e beneficiamento do gás gerado no interior das áreas de aterramento na CTRS BR-
+040, visando a queima e/ou geração de energia (2009-2024, Consórcio ASJA / Horizonte, Central de Aproveitamento Energético do
+Biogás). Ao longo do tempo, algumas atividades foram sendo desenvolvidas na CTRS BR-040, tais como o plantio de árvores, a
+instalação de unidade de educação ambiental, o desenvolvimento de pesquisas científicas em parceria com universidades; contudo, a
+operação desse aterro causou diversos transtornos às populações circunvizinhas, como danos à saúde e ao meio ambiente.
+
+Os estudos que subsidiaram o Plano Diretor Municipal, classificaram a área do aterro com o zoneamento Preservação Ambiental 1 (PA -1)
+, indicando que o antigo aterro teria o potencial para abrigar equipamentos urbanos de uso coletivo, o que evidenciou a necessidade de
+recuperação e revitalização de todo o equipamento.
+
+Nesse sentido, em 2017 foi elaborado um Diagnóstico Propositivo (https://prefeitura.pbh.gov.br/sites/default/files/estrutura-de-governo/slu/
+2022/5.%20Anexo%20III%20-%20Plano%20de%20Manejo%20CTRS%20BR-040%20(Ap%C3%AAndice%20A%2C%20Parque%
+20Taiobeiras%20-%20Diagn%C3%B3stico%20Urban%C3%ADstico).pdf) para a área, que propõe uma concepção arquitetônica e
+urbanística para mitigação dos impactos do passivo ambiental, por meio de sua configuração futura em um "parque-aterro". Em 2018, foi
+elaborado o Plano de Manejo da Central de Tratamento de Resíduos Sólidos da BR-040 (Anexo 15).
+
+Dentre as várias estratégias da SLU para o compartilhamento da responsabilidade pela gestão da CTRS BR-040, cita-se a revisão dos
+procedimentos para permissão de uso dos campos de futebol por meio da implantação do projeto "Várzea Viva", da Secretaria Municipal
+de Esportes e Lazer (SMEL), que consiste em uma proposta de adoção dos equipamentos pelo setor privado, com investimentos que
+possibilitem sua melhoria e manutenção, preservando o uso pela comunidade local.
+
+(cid:10)
+
+
+Página: 25
+
+Em 2023, escolheu-se a subárea "Mirante", em estudo para o parcelamento da Unidade de Recebimento de Pequenos Volumes - URPV
+Pindorama, para a elaboração de um estudo preliminar para o parque urbano, no escopo do parque-aterro. Os trabalhos resultaram em
+uma estimativa de custos, contemplando os valores de projeto executivo e execução de pavimentação de vias de integração do parque
+com o entorno, iluminação de 2º nível para as áreas de uso público, passeios, arborização e paisagismo, implantação de mobiliário urbano
+e playground infantil, campos de futebol com arquibancada e um vestiário, mirantes, portarias, pórticos de acesso e cercamento do
+equipamento. Com base nesses estudos, foi possível entender o valor por metro quadrado de projetos e obras, contemplando toda a
+extensão do parque urbano.
+
+Para o parque fotovoltaico, em 2022 foi realizada uma simulação junto à CEMIG, quando foi sinalizada a possibilidade de implementação
+de 2 usinas fotovoltaicas com capacidade de 2,5 megawatts (subestações BH Atalaia e Contagem 3). Nessa ocasião foi indicada a
+necessidade de execução de obras de reforço no sistema elétrico, mediante construção de rede aérea de média tensão e instalação de
+equipamentos religadores. Para a conexão da central geradora, não haveria necessidade de construção de obras estruturantes no sistema
+de Alta Tensão.
+
+No que se refere ao subcomponente "S2.1: Parques Urbanos" que compõe o componente "C2: Olhar para o Presente: Adaptação às
+Mudanças Climáticas" , as seguintes ações já foram realizadas para viabilizar o projeto de Requalificação do Parque Guilherme Lage:
+
+Elaboração de diagnóstico completo da infraestrutura e uso público do parque, como subsídio ao desenvolvimento de anteprojeto de
+arquitetura e escopo de intervenções (https://drive.google.com/drive/folders/157gjxQJrTat3Zc5yfUNtR2a8seXpjeo9?usp=drive_link);
+
+Elaboração de anteprojeto de arquitetura das intervenções propostas (https://drive.google.com/drive/folders/
+1BVhUI1kpAM2rQvo9aD4rd10qQFHuvAma?usp=sharing);
+
+Aprovação do anteprojeto de arquitetura pelo Conselho Municipal de Meio Ambiente (COMAM), após avaliação pela equipe técnica da
+Secretaria Municipal de Meio Ambiente (https://drive.google.com/drive/folders/1TVVlFfeJRaS8V6xNTqAjN60Fzalx0t8y?usp=sharing);
+
+Elaboração de projetos executivos de engenharia e arquitetura das intervenções propostas, incluindo orçamentos, com base no
+anteprojeto aprovado no COMAM (https://drive.google.com/drive/folders/1PLmKO-k76Q12B7sciKErtHXlin2bi1YB?usp=sharing );
+
+Apresentação e aprovação dos projetos executivos elaborados pelos representantes da Comissão do Orçamento Participativo, em reunião
+realizada em 08/03/2018 (ata anexa à documentação -https://drive.google.com/drive/folders/1Sl6dXrDx0uiwmp1ztARWOi6bC6OfkFNn?
+usp=sharing).
+
+Com relação às ações para a implementação do Parque da Lagoinha, a PBH já deu início à elaboração de projetos para o Setor 2 -
+Parque de Integração da Lagoinha e já possui recursos para a implementação de suas obras, assegurados por meio de um financiamento
+com a CAIXA. As informações sobre os projetos do Setor 2 podem ser acessadas no site da PBH, nas páginas dedicada à licitação (https:/
+/prefeitura.pbh.gov.br/obras-e-infraestrutura/licitacao/regime-diferenciado-de-contratacao-029-2022)  e ao respectivo contrato (https://
+prefeitura.pbh.gov.br/contratos/smobi-obras-e-servicos-de-engenharia-2022-0168). O Setor 2 é o destinado a receber as intervenções
+mais estruturantes do projeto do parque. As amplas áreas que hoje se encontram ociosas serão transformadas em um parque,
+melhorando a qualidade ambiental local e provendo tanto a população dos bairros ao redor como os transeuntes de um novo espaço
+público de qualidade. As ações neste setor buscam prioritariamente prover acesso e integração por pedestres e ciclistas entre espaços
+públicos que hoje são desconectados. O pleito desta Carta Consulta se concentra, portanto, na implementação de dois setores
+complementares à área já em execução pela PBH: (3) Setor Agricultura Urbana e (4) Setor Diamantina.
+
+No que se refere ao subcomponente "S2.2: Ampliação da infraestrutura verde e azul" que também compõe o componente C2: Olhar para
+o Presente: Adaptação às Mudanças Climáticas" a Secretaria Municipal de Meio Ambiente (SMMA) está realizando a qualificação da base
+de dados geoespaciais dos Recursos Hídricos do município para dispor de mapeamento atualizado de nascentes, brejos e  cursos d'água
+e já realizou a elaboração de 3 projetos piloto de recuperação ambiental de nascentes na bacia hidrográfica da Pampulha em 2023/2024,
+com ações iniciais de plantio.  Quanto a arborização de vias públicas, a SMMA já realizou a implementação do  Corredor Verde da Rua
+Aimée Semple McPherson, no Bairro Liberdade, na região da Pampulha, promovendo a revitalização urbanística e ambiental da região,
+seguindo as diretrizes do atual Plano Diretor do município. Adicionalmente, como mais uma forma de fortalecer o ecossistema em grandes
+espaços urbanos da capital, a Prefeitura de Belo Horizonte começou a implantar em 2022 as miniflorestas.  Com plantios mais adensados
+, o objetivo é criar ilhas de biodiversidade em áreas pouco vegetadas, além de novos espaços de resfriamento, tornando a cidade mais
+sustentável. A cidade conta, atualmente, com 16 sistemas nesse formato, com o plantio de mais de 9.600 novas árvores. Antes das
+intervenções, as áreas eram degradadas e utilizadas como bota-fora. Por meio de ações da Secretaria Municipal de Meio Ambiente, os
+empreendimentos interessados ficam responsáveis pela aquisição, implantação e manutenção das mudas por um prazo pré-estabelecido
+por meio de condicionantes previstas em licenciamento, melhorando a qualidade de vida da comunidade que vive no entorno.
+
+(cid:10)
+(cid:10)
+
+
+Página: 26
+
+Para os projetos de implantação/recuperação de áreas do programa BHVERDE, a Secretaria Municipal de Meio Ambiente é o órgão
+central de implementação da política ambiental do Município, nos termos da Lei n.º 3.570, de 16 de julho de 1983, sendo, assim, o órgão
+gestor das áreas públicas integrantes do sistema municipal de áreas protegidas, conforme designadas na Lei nº 10.879, de 27 de
+novembro de 2015, estando considerados neste universo 75 parques, 5 Centros de Vivência Agroecológica -CEVAE- e centenas de
+praças e jardins. Desde a implementação da política ambiental em Belo Horizonte a SMMA é o órgão que coordena e/ou executa ações
+para a elaboração de projetos e implantação dos ELUP em todas as regiões administrativas, utilizando-se de procedimentos relacionados
+a aprovação de projetos de parcelamento do solo, cuja aprovação, atualmente, exige, em muitos casos, a entrega da área equipada, bem
+como de compensação ambiental e utilização de recursos de orçamentos anuais, havendo, no entanto, um passivo, considerando-se que,
+antes da implementação da Lei Municipal nº 4.034, de 15 de março de 1985, a Lei de Parcelamento, Uso e Ocupação do Solo Urbano que
+exigiu que a transferência de áreas ao Poder Público Municipal não se desse apenas em "terra nua", mas já considerasse a entrega da
+área com algum equipamento a permitir a utilização ou conservação.
+
+Quanto ao sistema de drenagem do antigo aterro sanitário, a Prefeitura elaborou uma proposta para a substituição de todo o sistema de
+drenagem existente, com uma nova concepção estrutural. Esta proposta culminou em um projeto executivo (ver https://drive.google.com/
+drive/folders/1bo_ubMTm_zAYuxgFROnRLY79nQblZoVZ?usp=sharing), que foi concluído em meados de 2022. Este novo projeto de
+drenagem estrutural da CTRS BR 040 contempla a substituição de todo o sistema de drenagem existente no maciço e a implantação de
+uma bacia de detenção de cheias, visando minimizar os riscos à população residente na Vila Califórnia, localizada no entorno do antigo
+aterro sanitário, que recebe grande parte da drenagem do local. Paralelamente ao projeto de drenagem pluvial, também foi elaborado, no
+mesmo contrato, o projeto de cobertura final (selamento) da Célula de Disposição de resíduos de serviços de saúde (ver https://drive.
+google.com/drive/folders/1bo_ubMTm_zAYuxgFROnRLY79nQblZoVZ?usp=sharing), que atualmente conta com uma cobertura primária
+com resíduos de construção civil que ainda permite a infiltração de águas de chuva no maciço do aterro, o que ao longo do tempo,
+também pode afetar a sua estabilidade.
+
+Já, sobre o componente "C3: Olhar para o futuro: as Centralidades como um novo Modelo de Sustentabilidade Ambiental nos
+Deslocamentos Urbanos" ressalta-se que Belo Horizonte incorporou em seu Plano Diretor (Lei nº 11.181/2019) conceitos de
+desenvolvimento urbano arrojados e ambiciosos, como a localização das metas da Nova Agenda Urbana (NAU) e dos Objetivos de
+Desenvolvimento Sustentável (ODS), além da adoção de medidas de resiliência, recuperação ambiental e financiamento urbano. (ver
+anexo 1)
+
+O Plano Diretor define como responsabilidade do Executivo o monitoramento, por meio de indicadores, para avaliação periódica da política
+urbana baseada nas premissas da NAU e do ODS 11. Para atender ao disposto na legislação, foi criada e implementada uma estrutura
+de Monitoramento da Política Urbana, com o objetivo de acompanhar como a produção do espaço urbano está respondendo à orientação
+da legislação urbanística e de seus programas e projetos, sobretudo a partir da aplicação da Lei 11.181 de 2019 - Plano Diretor Municipal.
+(ver Monitoramento da Política Urbana: https://prefeitura.pbh.gov.br/politica-urbana/planejamento-urbano/base-de-dados/monitoramento)
+
+O Plano Diretor de Belo Horizonte definiu o zoneamento "centralidades", identificando porções do território municipal onde se pretende
+direcionar maior adensamento construtivo e populacional associado a melhorias de infraestrutura e concentração de atividades
+econômicas. Este zoneamento tem o objetivo de democratizar o acesso à infraestrutura urbana de qualidade, descentralizar atividades e
+investimentos, estimular e qualificar novos pólos de desenvolvimento econômico, aproximar moradia das áreas de trabalho, serviços e
+lazer, mitigar riscos ambientais e promover o desenvolvimento sustentável. (ver anexo 16)
+
+Para garantir, nas áreas de centralidade, a efetivação dos princípios e objetivos do Plano Diretor, foi criado o Fundo de Desenvolvimento
+de Centralidades, alimentado com recursos provenientes da Outorga Onerosa do Direito de Construir (OODC). Os recursos deste fundo
+garantem a sustentabilidade econômica para o Programa de Centralidades.
+
+Alinhados com os objetivos do Plano Diretor, o Conselho Municipal de Política Urbana de Belo Horizonte definiu orientações e diretrizes
+para a destinação dos recursos nas centralidades, sendo estas definições as bases para a construção do Programa de Desenvolvimento
+de Centralidades. Estas diretrizes foram consolidadas por meio da Deliberação Normativa DN/COMPUR 01/2021, publicada no Diário
+Oficial do Município (https://dom-web.pbh.gov.br/visualizacao/ato/407168).
+
+Definidas as diretrizes gerais e as prioridades para as intervenções, foi estabelecido, em 2022, o Plano de Qualificação das Centralidades
+(https://dom-web.pbh.gov.br/visualizacao/ato/22820), bem como criado e efetivado o Grupo Técnico das Centralidades (https://dom-web.
+pbh.gov.br/visualizacao/ato/22751).  Composto por representantes de diferentes áreas técnicas da Administração Municipal, o GT tem
+como atribuições apreciar, aprovar e acompanhar as ações e intervenções em centralidades, observadas as condições estabelecidas na
+DN/COMPUR 01/2021.
+
+A atuação inicial do GT deu-se no acompanhamento dos trabalhos de elaboração de um modelo metodológico para intervenções nas
+centralidades, objeto de contratação pelo Município de Belo Horizonte com recursos do Banco Interamericano de Desenvolvimento - BID e
+desenvolvido no segundo semestre de 2022 por meio de consultoria do grupo IBI+Rebel+Urbit. Baseado no Termo de Referência (TR) BR
+-T1394 Desenvolvimento Orientado ao Transporte sustentável no Brasil e BR-T1474 - Apoio ao Desenho de Projetos de Desenvolvimento
+Urbano Integrado para Municípios Brasileiros" do BID - o modelo define estratégias para promover o fortalecimento, a requalificação e a
+integração das centralidades com base nas diretrizes e critérios estabelecidos no PD e na DN/COMPUR 01/2021. Trata-se de modelo
+inovador, que considera as especificidades de cada área e constitui referência a ser aplicada ao conjunto das centralidades do Município.
+
+(cid:10)
+
+
+Página: 27
+
+No âmbito do mesmo contrato, foi elaborado, a partir do modelo metodológico desenvolvido, o projeto de qualificação da centralidade da
+Rua Waldomiro Lobo (https://drive.google.com/file/d/15CuWv1GhZMP7ezCt7xdFt5BS_z9UhzK9/view?usp=drive_link). Esta centralidade
+representa um centro regional com diversidade e quantidade considerável de comércio e serviços, conecta dois grandes eixos viários de
+Belo Horizonte e Região Metropolitana e possui estação de metrô no entorno. A partir das características da centralidade e seu potencial
+polarizador, o projeto desenvolvido teve como objetivo a reestruturação urbana da centralidade e sua área de abrangência, funcionando
+como catalisador de investimentos, ao gerar um ambiente favorável para atrair empreendimentos de diferentes tipos.
+
+Paralelamente aos trabalhos desenvolvidos no âmbito da contratação supracitada, a Subsecretaria de Planejamento Urbano definiu outras
+centralidades prioritárias para intervenção, correspondentes a cada uma das regionais do Município - atendendo aos critérios de
+priorização constantes da DN/COMPUR 01/2021, com destaque para aquele que prevê a democratização da utilização dos recursos
+disponíveis e o potencial de geração de um círculo virtuoso no qual o investimento público e o incremento da infraestrutura e capacidade
+de suporte possam estimular o adensamento populacional e construtivo, a dinamização das atividades econômicas e a disseminação de
+polos de geração de oportunidades de trabalho e renda.
+
+Neste contexto, a equipe da Subsecretaria de Planejamento Urbano desenvolveu propostas para as centralidades Itaité (https://drive.
+google.com/file/d/15CuWv1GhZMP7ezCt7xdFt5BS_z9UhzK9/view?usp=drive_link)  e Padre Eustáquio (https://prefeitura.pbh.gov.br/sites/
+default/files/estrutura-de-governo/politica-urbana/2018/planejamento-urbano/projetocentralidades_padre_eustaquio.pdf). Caracterizadas
+como centralidades locais, as propostas contemplam soluções de aplicação a contextos de menor complexidade urbanística, a serem
+replicadas na qualificação urbana das demais centralidades locais. Nesse sentido, as propostas para as centralidades Padre Eustáquio e
+Itaité geram parâmetros quantitativos de intervenções-tipo que subsidiaram a construção da referência de custo das demais centralidades.
+A equipe da Subsecretaria de Planejamento Urbano também desenvolveu internamente um Plano de Ação da Centralidade São Paulo (
+https://prefeitura.pbh.gov.br/politica-urbana/planejamento-urbano/projetos-urbanos/plano-da-centralidade-bairro-sao-paulo) e o Plano de
+Qualificação Urbanística Centro-Lagoinha (https://prefeitura.pbh.gov.br/politica-urbana/planejamento-urbano/plano-centro-lagoinha/plano-
+qualificacao-urbanistica-centro-lagoinha).
+
+De forma a expandir e fortalecer suas capacidades institucionais para estruturação e implementação do Programa de Desenvolvimento de
+Centralidades, a Prefeitura de BH assinou um Acordo de Cooperação com o Escritório de Projetos das Nações Unidas - o UNOPS - que
+proverá assistência técnica à SMPU nas diferentes fases do programa: planejamento, implementação e gestão, monitoramento e
+avaliação.
+
+No que se refere ao produto "P4.1.1 - Capacitação de mão de obra vulnerável e de baixa renda e inclusão em ações de emprego e renda
+voltadas à manutenção das infraestruturas verdes de SbN. - que compõe o componente Olhar para as Pessoas e para o Fortalecimento
+Institucional", as seguintes ações já foram realizadas:
+
+BH já desenvolveu uma série de ações prévias essenciais para a implementação do produto, tais como:
+
+Implantação de Jardins de Chuva: A Prefeitura de Belo Horizonte já implantou 61 jardins de chuva em áreas estratégicas da cidade, com o
+objetivo de mitigar os efeitos das chuvas intensas e de fortalecer a resiliência urbana.
+
+Estudos e Diagnósticos: A Prefeitura realizou estudos e diagnósticos detalhados sobre o potencial de implementação de jardins de chuva
+no município, identificando áreas prioritárias e avaliando as condições de solo, topografia e infraestrutura existentes.
+
+Elaboração de Normas e Diretrizes: A Prefeitura elaborou normas e diretrizes técnicas para a implantação e a manutenção de jardins de
+chuva, definindo critérios de projeto, de materiais e de execução.
+
+Programa de Adoção de Áreas Verdes: A Prefeitura possui um programa de adoção de áreas verdes em Belo Horizonte, com participação
+da iniciativa privada - o Programa Adoro BH. A experiência desse programa servirá como base para o desenvolvimento do Programa de
+Adoção de Jardins de Chuva pela iniciativa privada.
+
+Programa Adote um Jardim de Chuva pela população: A Prefeitura criou o programa, através do Decreto nº 18.706/2024, com o objetivo
+de estimular a adesão a ações de melhoria ambiental relacionadas à manutenção e ao monitoramento dos jardins de chuva no Município,
+mediante a concessão de desconto no pagamento do Imposto sobre a Propriedade Predial e Territorial Urbana - IPTU. A experiência
+desse programa servirá como base para o desenvolvimento do Programa de Adoção de Jardins de Chuva pela iniciativa privada.
+
+No que se refere ao produto "P4.1.2 - Realização de oficinas de Desenvolvimento Econômico Local (DEL) e suas cinco dimensões", as
+seguintes ações já foram realizadas:
+
+Realização de oficina em junho de 2024, capacitando lideranças do bairro Granja de Freitas, localizado na regional Leste de Belo
+Horizonte.
+
+Mapeamento de liderança das demais regionais, realizado pela Secretaria Municipal de Desenvolvimento Econômico (SMDE) e a
+Companhia Urbanizadora de BH (Urbel)
+
+Já o produto "P4.1.3 - Reestruturação da Usina Escola na Escola Profissionalizante Raimunda da Silva Soares: energia renovável gerando
+emprego e renda para populações de baixa renda e vulneráveis, por meio da reestruturação de equipamento social na Pedreira Padro
+Lopes" conta com as seguintes ações realizadas:
+
+(cid:10)
+(cid:10)
+
+
+Página: 28
+
+- A Escola Profissionalizante Raimunda da Silva Soares é reconhecida pela sua excelência no ensino profissionalizante;
+
+- A escola dispõe de espaço físico para a construção da Usina Escola;
+
+- Já se formaram duas turmas em 2023, com 26 alunos certificados;
+
+A primeira turma foi direcionada para pessoas em situação de rua, moradoras de abrigos municipais ou em vulnerabilidade social.
+
+O produto "P4.1.4 - Mulheres na Obra" reforça ações já em curso na Prefeitura de Belo Horizonte. Este produto dialoga com a Política
+Afirmativa "Mulheres na Obra" para a inserção da mulher no mercado de trabalho da construção, instituída pela Portaria Conjunta SMOBI/
+SUDECAP/URBEL Nº 037/2023 (https://dom-web.pbh.gov.br/visualizacao/ato/430795). Esta política determina que todos os editais de
+obras promovidas pela Secretaria Municipal de Obras e Infraestrutura (Smobi), Superintendência de Desenvolvimento da Capital (Sudecap
+) e Companhia Urbanizadora e de Habitação de Belo Horizonte (Urbel), que contemplem a contratação de 10 funcionários ou mais,
+deverão reservar a cota mínima de 10% para trabalhadoras. O produto proposto está conectado também com outra ação já em curso no
+município: a oferta de cursos de capacitação profissional na área da construção civil direcionado para mulheres. Em 2024 estão sendo
+abertas 120 vagas, distribuídas em seis cursos (20 vagas/turma) que visam a formação de "Pintora de Obras Imobiliárias", "Pedreira de
+Alvenaria", "Pedreira de Acabamento", "Carpinteira de Obra", "Instalações Elétricas Prediais de Baixa Tensão" e "Hidráulica Predial". Os
+cursos, divididos em aulas teóricas e práticas, tem duração de quatro meses (com carga horária que varia entre 160 horas e 200 horas) e
+são ministrados no período da noite, com uma média de quatro horas/dia. As mulheres que estiverem em situação de vulnerabilidade
+social recebem uma bolsa mensal de R$ 650,00, condicionada à frequência no curso.
+
+O produto "P4.2.1 - Elaboração de plano com diretrizes para certificação de sustentabilidade ambiental do novo bairro do Aeroporto Carlos
+Prates - que compõe o componente Olhar para as Pessoas e para o Fortalecimento Institucional", tem as seguintes ações realizadas:
+
+- Diagnóstico para a área, contemplando estudos de caminhamento a pé, para avaliar a acessibilidade da população a serviços e
+equipamentos públicos, identificando as áreas com maior dificuldade de acesso, e os pontos estratégicos para a implantação de novos
+equipamentos.
+
+- Estudo de ocupação preliminar que prevê a construção de um grande parque urbano com áreas de lazer, esportes, áreas de convivência
+e um Centro Cultural; a implantação de equipamentos públicos essenciais, como escola de ensino infantil, escola de ensino fundamental,
+um Centro de Saúde, uma UPA e um Centro Esportivo; a construção de unidades residenciais com uma mescla de unidades de livre
+comercialização, habitação de interesse social 1 e 2; a criação de espaços para serviços, comércio, e indústrias de baixo impacto, para
+atender à demanda dos moradores e visitantes do novo bairro; a criação de um sistema viário integrado com a malha urbana existente,
+com vias mistas amplas, ciclovias e jardins de chuva.
+
+- Estudo de Viabilidade Econômico-Financeira para a área do antigo aeroporto, que indicam que o projeto é factível e economicamente
+viável, com a possibilidade de se utilizar as receitas provenientes da venda de unidades habitacionais para subsidiar a construção da
+infraestrutura e dos equipamentos públicos.
+
+- A Prefeitura de Belo Horizonte realizou várias audiências públicas e um grande seminário para discutir a urbanização da área com a
+comunidade local, o que demonstra o compromisso da cidade com a gestão democrática do processo de urbanização.
+
+Já o produto "P4.2.2 - Elaboração do Plano Local de Mobilidade Limpa Municipal" possui as seguintes ações realizadas:
+
+Atualmente, está em fase de desenvolvimento um Plano de Mobilidade Limpa para uma porção territorial reduzida do município de Belo
+Horizonte. O PLML está sendo elaborado pelo Consórcio Logit / ITDP/ WRI, para a área central de Belo Horizonte. Esta iniciativa é
+financiada pelo Banco Interamericano de Desenvolvimento (BID) e apoiada pela Prefeitura de Belo Horizonte (PBH).
+
+Com o PLML para a área central de Belo Horizonte, espera-se a redução da emissão de poluentes e gases de efeito estufa, o aumento e
+promoção da inclusão social e da equidade de gênero e a mudança da divisão modal das viagens para uma matriz mais sustentável, no
+perímetro de estudo. Este trabalho será concluído em novembro de 2024 e deve servir de subsídio para o desenvolvimento de um PLML
+para todo o município
+
+A minuta do Termo de Referência para contratação do Plano Local de Mobilidade Limpa para todo o território municipal já está concluída. (
+ver https://drive.google.com/file/d/1pTeXSNtqeTlfk1fuV07de4xSOy8sXkY1/view?usp=drive_link)
+
+Por fim, no que se refere ao produto "P4.2.3 - Trabalho Técnico Social (TTS)", o Programa BH Verde Azul se beneficia de um contexto de
+ampla participação social na construção da política urbana de Belo Horizonte. A cidade tem uma tradição de debates e discussões sobre o
+futuro da cidade, com destaque para a Conferência Municipal de Política Urbana (CMPU), que é convocada quadrienalmente pelo
+Conselho Municipal de Política Urbana (Compur) para discutir e eleger propostas para o Plano Diretor Municipal.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 29
+
+A CMPU reúne representantes dos três setores da Sociedade Civil com representatividade no Conselho Municipal de Política Urbana (
+COMPUR) - técnico, popular e empresarial - os quais discutem e elegem diretrizes para o desenvolvimento urbano a serem aplicadas pela
+Municipalidade. Desde 1996, seis conferências foram realizadas no Município: em 1999, 2001/2002, 2010, 2014, 2018 e 2022,
+demonstrando o compromisso da cidade com a participação democrática e com a busca por um modelo de desenvolvimento urbano mais
+justo e sustentável. A CMPU demonstra a importância da participação cidadã na construção da política urbana de Belo Horizonte, mas
+também evidencia a desigualdade no acesso à informação e ao conhecimento sobre as questões urbanas entre os diferentes grupos
+sociais.
+
+É importante também destacar que a Prefeitura de Belo Horizonte já desenvolve ações de educação ambiental de forma ampla e com foco
+na mobilização da coletividade, em conformidade com a Política Nacional de Educação Ambiental. O programa "BH Itinerante", que já
+realizou 45 edições desde 2001, e o "Ambiente em Foco Virtual", com 58 palestras online desde 2020, têm como objetivo sensibilizar e
+capacitar a população sobre questões ambientais, com o foco em temas como biodiversidade, mudanças climáticas, meio ambiente e
+saúde, ecologia urbana e arborização urbana. Além disso, a Prefeitura possui seis Centros de Educação Ambiental (CEAs), que atuam em
+parceria com a Secretaria Municipal de Educação, com o objetivo de ampliar a educação ambiental para todas as regionais da cidade.
+
+O grupo de trabalho interinstitucional de Educação Urbanística Ambiental e Sanitária, composto por várias secretarias municipais,
+representa outro importante instrumento para integrar as ações de educação ambiental das diferentes instituições e para fortalecer os
+programas de educação e participação social.
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Municipal
+MUNICIPIO DE  BELO HORIZONTE(MG)
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+I - Condições financeiras:
+
+A Operação de Crédito Externo a ser contratada com o Banco Interamericano de Desenvolvimento (BID) deverá ser contratada nas
+seguintes bases:
+
+1- Montante da Operação: US$100 milhões, sendo US$80 milhões de financiamento e US$20 milhões de contrapartida;
+
+2- Moeda: Dólar dos Estados Unidos da América;
+
+3- Prazo de Desembolso: em até 60 (sessenta) meses, da data de assinatura do Contrato de Empréstimo;
+
+4- Prazo de Carência: até 60 (sessenta) meses, a contar da data de assinatura do Contrato de Empréstimo;
+
+5- Amortização: linear semestral depois da carência, totalizando até 240 meses, prazo total de 300 meses, contados da assinatura do
+contrato de empréstimo, com pagamento em 40 parcelas semestrais, iniciado a partir do final do período de carência. O esquema de
+amortização será semestral, desde que preservada a Vida Média Ponderada (VMP), podendo o principal ser amortizado em: (i) parcelas
+iguais e semestrais; (ii) uma única parcela (Bullet); (iii) parcelas crescentes ao longo do tempo; ou (iv) parcelas irregulares, com prazo de
+carência estendido. Para este empréstimo, entende-se pertinente o EAM adotar a opção de parcelas iguais e semestrais, sem prejuízo de
+posterior alteração. Nesta hipótese os pagamentos serão semestrais;
+
+6- Juros: A taxa de juros é definida pelo Mecanismo de Financiamento Flexível do BID. A taxa de empréstimos é composta por: (i) taxa
+variável com base na SOFR (composta diariamente) denominada em dólares norte-americanos, mais (ii) margem de captação do BID, em
+relação a SOFR (composta diariamente), denominada em dólares norte-americanos, acrescida de spread de crédito variável, do capital
+ordinário do BID. Serão pagos semestralmente;
+
+7- Comissão de Crédito: percentual a ser cobrado sobre o saldo não desembolsado a partir de 60 dias após a contratação, podendo ser
+revista periodicamente, até o máximo de 0,75% ao ano. Paga semestralmente;
+
+Embora o processo de contratação com o mercado interno seja mais célere, as taxas de juros são superiores, conforme taxas
+comparativas abaixo.
+
+AGENTES FINANCEIROS INTERNOS:
+
+BRB
+
+- Prazo total: 120 meses;
+
+- Prazo de carência: 12 meses;
+
+- Prazo de amortização: 108 meses;
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 30
+
+- Taxa concedida: 115% de CDI a.a.;
+
+- Demais Encargos: Tarifa de 1% sobre o valor do financiamento + Tarifa de 0,5% a.a sobre o saldo não desembolsado;
+
+Caixa Econômica
+
+- Prazo total: 120 meses;
+
+- Prazo de carência: 24 meses;
+
+- Prazo de amortização: 96 meses;
+
+- Taxa concedida: 131,13% de CDI a.a;
+
+- Demais Encargos: Tarifa de Customização: 2%;
+
+Desta forma, optou-se pelo financiamento externo em detrimento do financiamento interno, pois considerou-se que as taxas de
+financiamentos internos são maiores e a amortização e prazos de pagamento são menores, o que gera uma pressão muito forte sobre o
+fluxo de caixa do Município, limitando fortemente as possibilidades de captação de recursos para projetos estruturantes.
+
+As condições financeiras oferecidas pelo BID são atrativas, principalmente quando comparadas às taxas de juros do mercado interno e
+aos praticados atualmente por outros BMDs.
+
+AGENTES FINANCEIROS EXTERNOS:
+
+NDB
+
+Prazo total: 216 meses;
+
+- Prazo de carência: 60 meses;
+
+- Prazo de amortização: 156 meses;
+
+- Taxa concedida: SOFR + spread a ser definido na assinatura do contrato;
+
+- Demais Encargos: Comissão Inicial de 0,25% sobre valor do empréstimo e Comissão de compromisso de 0,25% sobre saldo não
+desembolsado;
+
+CAF
+
+- Prazo total: 216 meses;
+
+- Prazo de carência: 60 meses;
+
+- Prazo de amortização: 156 meses;
+
+- Taxa concedida: SOFR semestral + 2,00% a.a
+
+- Demais Encargos: Comissão de compromisso de 0,35% e Comissão de financiamento de 0,85%;
+
+Banco Mundial
+
+- Prazo total: 216 meses;
+
+- Prazo de carência: 60 meses;
+
+- Prazo de amortização: 156 meses;
+
+- Taxa concedida: SOFR semestral + 1,37%
+
+- Demais Encargos: Comissão Inicial de 0,25% sobre valor do empréstimo, comissão de compromisso de 0,25% sobre saldo não
+desembolsado; Sobretaxa de 0,5% pode ser aplicada caso o país ultrapasse o single borrower limit.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 31
+
+II - Necessidade de financiamento externo e a opção pelo agente financeiro:
+
+A demanda por intervenções no município de Belo Horizonte é significativa. Os recursos municipais são, normalmente, insuficientes para
+seu atendimento. Portanto, torna-se imprescindível a captação de recursos externos. Para isso, recentemente a Prefeitura manteve
+parcerias com instituições como o Banco Interamericano de Desenvolvimento (BID) e o Banco de Desenvolvimento da América Latina (
+CAF). O primeiro organismo citado financiou dois empréstimos com o Município em 2004 e 2013, na ordem de US$50 milhões cada, para
+o Programa Recuperação Ambiental de Belo Horizonte (DRENURBS), que teve como objetivo assegurar a sustentabilidade das melhorias
+urbanas mediante a consolidação da gestão municipal em drenagem e meio ambiente, por meio de consultorias e obras em bacias
+estratégicas. O segundo organismo citado financiou o empréstimo de US$82,5 milhões para o Programa de Governo e do Orçamento
+Participativo, que contempla obras de mobilidade (recuperação de ruas e avenidas, e melhorias da sinalização, das calçadas e ciclovias
+em corredores de transporte urbano); reabilitação urbana por meio da regeneração de duas praças públicas emblemáticas; obras de
+saúde através de investimentos em unidades de atendimento primário, atendimento especializado e a remodelação e ampliação de um
+dos principais hospitais da cidade; além da modernização institucional com investimentos em sistemas tecnológicos que permitam uma
+maior eficiência na gestão dos serviços de saúde e na formulação e acompanhamento de projetos de investimento.
+
+Parcerias com o BID
+
+O município de Belo Horizonte examinou diversas fontes internas e externas de financiamento por meio de seus órgãos técnicos e
+consultores. Essas fontes têm o potencial de fornecer os recursos necessários para a implementação do Programa, por meio de
+financiamento de longo prazo. Com base nas pesquisas mencionadas, os órgãos técnicos chegaram à conclusão de que, considerando os
+objetivos a serem alcançados com a execução do Programa, a melhor opção seria prosseguir com o financiamento do Banco
+Interamericano de Desenvolvimento (BID), considerando sua colaboração em outras fases do Programa, sendo uma instituição financeira
+com condições mais favoráveis, demonstrando ser a entidade mais adequada para a fase de implantação das intervenções e os
+interesses do município.
+
+É importante ressaltar que o BID oferece à Prefeitura de Belo Horizonte parcerias exitosas e longevas desta instituição com o Município
+que remonta, por exemplo, às parcerias na década de 1960 - como na Adutora do Rio das Velhas, inaugurada em 1973, que foi na época
+a maior obra de saneamento de Belo Horizonte. Além disso, é possível citar outras cooperações técnicas, permitindo que o município
+tenha acesso a consultorias técnicas e fortalecimento de capacidades, por meio de intercâmbios nacionais e regionais, garantindo que as
+intervenções propostas estejam na vanguarda em termos de qualidade setorial.
+
+Recentemente, em 2021, o BID financiou o projeto piloto de Desenvolvimento Orientado ao Transporte no Eixo Leste e Vetor Norte de
+Belo Horizonte. O trabalho foi desenvolvido por meio de consultoria internacional coordenada pelo IBI GROUP. Esta empresa canadense
+foi contratada pelo Ministério de Desenvolvimento Regional (MDR), com financiamento do BID, como parte de um programa abrangente
+que visa promover o Desenvolvimento Sustentável Orientado para o Transporte (DOT) no Brasil. O estudo, produto ambicioso e feito com
+minucioso diálogo com outras iniciativas de DOT em todo o mundo, tem importância imensurável como referência para balizar projetos
+urbanísticos futuros em Belo Horizonte e contribuirá com o avanço do programa DOT em Minas Gerais. O trabalho financiado pelo BID
+traça diretrizes para ações futuras nas áreas estudadas que poderão trazer benefícios para toda Região Metropolitana de Belo Horizonte.
+
+Outro exemplo recente da parceria BID-PBH é a Cooperação Técnica - CT BR-T1474 "Apoio ao Desenho de Projetos de Desenvolvimento
+Urbano Integrado para Municípios Brasileiros", firmada em 2022, em que o BID forneceu assistência técnica, através da consultoria do IBI
+GROUP, no desenvolvimento de um modelo metodológico de intervenção para áreas de centralidades, pautado nos princípios do Plano
+Diretor do Município de Belo Horizonte (Lei 11.181/2019). O modelo desenvolvido trouxe aspectos inovadores nas áreas de
+desenvolvimento urbano integrado, resiliência urbana, desenvolvimento econômico local e instrumentos de implementação. Tal modelo
+definiu também diretrizes para futuras intervenções e foi aplicado no diagnóstico e projeto urbano conceitual para Centralidade Waldomiro
+Lobo (ANEXO VIII), como piloto de intervenção a ser replicada, compreendendo estratégias e intervenções urbanísticas, econômicas,
+sociais e sustentáveis. Neste projeto, foram estudadas ações para proporcionar a melhoria do cotidiano dos cidadãos, por meio da
+aplicação de instrumentos de política urbana, da qualificação urbanística da região, do incentivo ao uso do transporte coletivo e de modos
+ativos de circulação.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+I - Áreas Estratégicas e Impactos do Projeto (Ambientais, Econômicos e Sociais)
+
+As ações de planejamento, desenvolvimento econômico, capacitação profissional, educação urbana e ambiental, juntamente com as
+intervenções de infraestrutura urbana propostas, desempenham um papel fundamental na promoção do desenvolvimento urbano
+sustentável. O Programa BH Verde Azul abrange uma ampla gama de ações diretamente relacionadas às áreas estratégicas, como uso
+eficiente de recursos, gestão de riscos, saúde e bem-estar, energia e mudanças climáticas, transporte e mobilidade sustentável, inclusão
+social e desenvolvimento econômico. Neste contexto, indica-se a seguir como os critérios de avaliação previstos na Resolução nª 17, de
+07 de junho de 2021 da COFIEX são contemplados pelo Programa:
+
+- Item 1.1 - Promoção da sustentabilidade ambiental, incluindo ações de adaptação e mitigação:
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 32
+
+As ações de adaptação e mitigação são fundamentais para lidar com os impactos decorrentes do aquecimento global e garantir a
+resiliência das áreas urbanas.
+
+Nesse contexto, o tratamento de passivos ambientais é um ponto chave para a promoção da sustentabilidade ambiental. O Produto "P1.1.
+2 - Implantação da obra do Parque Aterro - que compõem o componente "C1: Olhar para o Passado: Tratamento de Passivos Ambientais -
+o Parque Aterro" transformará o atual passivo ambiental em um ativo ambiental, ao valorizar todo o espaço físico do antigo aterro através
+da implantação do parque.
+
+O componente "C2: Olhar para o Presente: Adaptação às Mudanças Climáticas", por sua vez, atua na adaptação da estrutura atual da
+cidade para o enfrentamento das mudanças climáticas. Este componente trabalha diretamente a ampliação da Infraestrutura Verde e Azul
+do Município (S2.2), seja incrementando a arborização urbana e tratando espaços verdes e nascentes, seja implantando ou requalificando
+Parques Urbanos (S2.1), como Parque da Lagoinha e Parque Guilherme Lage, respectivamente. Tais estratégias aumentam o potencial
+dessa infraestrutura como sumidouro de carbono. Este componente também estimula as pessoas a alterarem seus modos de transporte,
+dos mais poluentes para os menos poluentes ou que não poluem. Nesse sentido, as conexões para pedestres e ciclistas proporcionadas
+pelo Parque da Lagoinha incentivam o transporte ativo e o uso do transporte coletivo, à medida que melhoram o acesso às estações de
+metrô e BRT.
+
+O componente "C3: Olhar para o futuro: as centralidades como um novo modelo de sustentabilidade ambiental nos deslocamentos
+urbanos", também tem seu foco na promoção da sustentabilidade urbana, com ações de adaptação e mitigação, voltadas para o estímulo
+das centralidades, estabelecendo um novo padrão de ocupação do solo, pautado no policentrismo, no desenvolvimento orientado ao
+transporte sustentável e na ampliação do acesso à infraestrutura urbana de qualidade em diversos pontos da cidade. Investir na criação
+de uma rede segura e abrangente de ciclovias e ciclofaixas (P3.1), com sinalização adequada e separação física do tráfego de veículos
+motorizados incentiva as pessoas a optarem pela bicicleta como meio de transporte, reduzindo a dependência de carros, e está
+relacionada à mitigação dos impactos ambientais das áreas urbanas, redução das emissões de gases poluentes e do congestionamento
+de tráfego. Isso contribui para a melhoria da qualidade do ar e para a redução da dependência de combustíveis fósseis. Além disso,
+espaços urbanos bem projetados e arborizados, conforme P3.1, desempenham um papel crucial na adaptação às mudanças climáticas,
+oferecendo sombra, reduzindo a temperatura ambiente e melhorando a qualidade do ar,  promovendo espaços de recreação e lazer e um
+estilo de vida saudável e ativo. Ações de melhoria de estações de transporte coletivo nas centralidades, tal como previsto em P3.2 e P3.3,
+garantem qualidade aos deslocamentos realizados por transporte público. Pensar a infraestrutura de drenagem urbana das centralidades
+a partir de soluções baseadas na natureza, tal como previsto em P3.4, são importantes ações de promoção da sustentabilidade ambiental.
+Os refúgios climáticos também previstos em P3.4 são importantes estruturas que amenizam os efeitos das altas temperaturas
+enfrentadas nos últimos anos.
+
+Nessa área estratégica, destacam-se ainda os produtos "P4.1.1 - Capacitação de mão de obra vulnerável e de baixa renda e inclusão em
+ação de emprego e renda voltadas à manutenção das infraestruturas verdes de SbN" que fortalece as ações de SbN do Município, o
+produto "P4.2.1 - Elaborar plano com diretrizes para certificação de sustentabilidade ambiental do novo bairro do Aeroporto Carlos Prates",
+que orientará a ocupação do novo bairro a partir dos princípios de sustentabilidade ambiental, adaptação climática e mitigação e o
+produto "P4.2.2 - Elaboração do Plano Local de Mobilidade Limpa Municipal", que instrumentaliza a mudança do planejamento de
+transporte tradicional para um planejamento voltado para a mobilidade sustentável.
+
+(Ver anexo 17 - Matriz das áreas estratégicas)
+
+- Item 1.2 - Eficiência energética, geração e /ou uso de energia de fontes renováveis:
+
+A instalação de células fotovoltaicas nos maciços aterrados, conforme produto "P1.2.1 - Elaboração do projeto técnico para parque
+fotovoltaico na área do antigo Aterro Sanitário", configura-se como benefício no processo de recuperação de áreas degradadas por
+disposição de resíduos e como uma iniciativa relevante na promoção de investimentos em matriz energética limpa.
+
+O uso de fontes de energia renovável nas edificações construídas pelo Programa, conforme os produtos "P3.7 Produção de unidades
+habitacionais para populações de baixa renda e vulneráveis, com parâmetros de certificação do Programa de Certificação Ambiental de
+Belo Horizonte" e "P3.8 Implantação de equipamento social de cultura, lazer, esporte, educação e tecnologia, com produção de energia
+fotovoltaica", está diretamente ligado às metas de transição energética.
+
+O produto "P4.1.3 - Reestruturação da Usina Escola na Escola Profissionalizante Raimunda da Silva Soares" contribui diretamente para a
+disseminação dessa solução energética sustentável.
+
+(Ver anexo 17 - Matriz das áreas estratégicas)
+
+- Item 1.3 - Implantação e/ou ampliação de ações de saneamento básico:
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 33
+
+Segundo os dados do Inventário Municipal de Emissões de Gases de Efeito Estufa (GEE), o segundo setor que mais emite GEE na cidade
+é o de resíduos, do qual parte significativa das emissões diz respeito à aterragem. Com o encerramento das operações da Central de
+Tratamento de Resíduos Sólidos (CTRS) da BR-040, em função do lento processo de estabilização dos taludes e da recomposição da
+vegetação e do habitat local, a manutenção e os monitoramentos (geotécnico e ambiental) dos maciços de resíduos precisarão ser
+estendidos por um período indeterminado. No entanto, considerando o término da produção do biogás no aterro e a redução para níveis
+aceitáveis dos riscos de colapsos, o Plano de Manejo da área indicou um novo uso para o local (o parque), que valorizasse todo o seu
+espaço físico, promovesse sua recuperação ambiental, mas que pudesse coexistir com o programa permanente de gestão e
+monitoramento da CTRS BR-040. É nesse contexto que se insere o produto "P1.1.2 - Implantação da obra do Parque Aterro" que
+compõem o componente "C1: Olhar para o Passado: Tratamento de Passivos Ambientais - o Parque Aterro".
+
+O produto "P2.2.4 - Implantação do sistema de drenagem e selamento de células de resíduos, no Parque Aterro" também está
+diretamente relacionado à área estratégica em análise. Este produto trata da implantação de uma nova nova concepção estrutural para o
+sistema de drenagem do Aterro, através da substituição de todo o sistema existente no maciço de resíduos e da implantação de uma
+bacia de detenção de cheias, visando minimizar os riscos à população residente na Vila Califórnia, localizada no entorno do antigo aterro
+sanitário, que recebe grande parte da drenagem do local. Este produto também trata da implementação da cobertura final (selamento) da
+Célula de Disposição de resíduos de serviços de saúde, que atualmente conta com uma cobertura primária com resíduos de construção
+civil que ainda permite a infiltração de águas de chuva no maciço do aterro, o que ao longo do tempo, também pode afetar a sua
+estabilidade. Tais obras são importantes para garantir a segurança hídrica e sanitária do Parque Aterro que se pretende instalar na área
+do antigo aterro sanitário.
+
+A gestão inteligente de resíduos, por meio de sistemas de coleta seletiva, reciclagem e compostagem  e disposição final adequada,
+conforme "P3.5- Melhoria e ampliação da infraestrutura para rede de coleta seletiva", reduz a quantidade de resíduos enviados aos aterros
+sanitários, a poluição do solo, ar e água. Além disso, evita a emissão de gases de efeito estufa decorrentes da decomposição desses
+resíduos e minimiza impactos negativos nos ecossistemas aquáticos, preservando a biodiversidade e os recursos naturais.
+
+(Ver anexo 17 - Matriz das áreas estratégicas)
+
+- Item 1.4 - Gestão integrada de recursos hídricos, incluindo segurança hídrica e/ou conservação de solos e nascentes:
+
+Tendo em vista a presença de nascentes, córregos e de um lago na área da CTRS BR-040, fazem parte das ações contínuas de gestão e
+monitoramento do antigo aterro, a realização de estudos e pesquisas visando analisar a dinâmica dos mananciais subterrâneos nessa
+região, bem como avaliar a qualidade de suas águas e seus fluxos subterrâneos. No âmbito destes estudos também são avaliados
+indicadores geoquímicos no processo natural de atenuação da fração orgânica presente no lixiviado, bem como a mobilidade dos
+elementos químicos presentes nas águas subterrâneas, na área de influência do Aterro Sanitário da CTRS-BR040. A implantação do
+parque aterro, conforme produto "P1.1.2 - Implantação da obra do Parque Aterro" considera os recursos hídricos presentes na área como
+um dos grandes ativos do parque e também possibilita a continuidade dos estudos e pesquisas necessários à sua gestão.
+
+O produto "P2.1.2 - Implantação das obras de requalificação do Parque Guilherme Lage" também promove o desassoreamento do
+espelho d'água existente no parque e a recuperação ambiental das nascentes existentes na área próxima à Rua Lídia. O produto "P2.2.1 -
+Recuperação Ambiental de áreas delimitadas como conexão de fundo de vale com requalificação de córregos e nascentes nas bacia do
+Onça, Arrudas e Izidora" promoverá a recuperação ambiental de 45 áreas de nascentes e conexões de fundo de vale.
+
+O produto "P2.2.4 - Implantação do sistema de drenagem e selamento de células de resíduos, no Parque Aterro" trata da implantação de
+uma nova nova concepção estrutural para o sistema de drenagem do Aterro, através da substituição de todo o sistema existente no
+maciço de resíduos e da implantação de uma bacia de detenção de cheias, visando minimizar os riscos à população residente na Vila
+Califórnia, localizada no entorno do antigo aterro sanitário, que recebe grande parte da drenagem do local. Este produto também trata da
+implementação da cobertura final (selamento) da Célula de Disposição de resíduos de serviços de saúde, que atualmente conta com uma
+cobertura primária com resíduos de construção civil que ainda permite a infiltração de águas de chuva no maciço do aterro, o que ao longo
+do tempo, também pode afetar a sua estabilidade. Tais obras são importantes para garantir a segurança hídrica e sanitária do Parque
+Aterro que se pretende instalar na área do antigo aterro sanitário.
+
+A gestão integrada de recursos hídricos e a conservação adequada de solos e nascentes, conforme o produto "P3.4 - Implementação de
+SbN para Drenagem Urbana Sustentável e para implantação de Refúgios Climáticos", desempenham papel importante na infiltração e
+armazenamento da água, podendo contribuir para a prevenção de desastres naturais, como inundações e alagamentos, mitigando danos
+às propriedades e infraestruturas urbanas. Além disso, contribui na regulação dos fluxos de água em bacias hidrográficas, evita erosões,
+degradação e compactação, permitindo que a água da chuva seja absorvida de forma mais eficiente. Nesse mesmo sentido também se
+destaca o produto "P4.1.1 - Capacitação de mão de obra vulnerável e de baixa renda e inclusão em ação de emprego e renda voltadas à
+manutenção das infraestruturas verdes de SbN", na medida que fortalece as iniciativas de implantação de SbN no Município.
+
+(Ver anexo 17 - Matriz das áreas estratégicas)
+
+- Item 1.5 - Conservação e manejo da biodiversidade e/ou de recursos florestais:
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 34
+
+O produto "P1.1.2 - Implantação da obra do Parque Aterro" prevê a implantação do parque que terá cerca de 32 hectares. Como previsto
+no Plano de Manejo do Aterro Sanitário da CTRS-BR040, o projeto do parque será elaborado a partir do conceito de restauração de áreas
+degradadas, o qual pressupõe tornar a área sob tratamento o mais próximo possível daquilo que provavelmente tenha sido o seu aspecto
+original. Sobre os taludes que recobrem as áreas de aterramento de resíduos deverão ser plantadas espécies herbáceas,
+preferencialmente gramíneas. Os estudos para identificação e controle da fauna de vertebrados (avifauna, mastofauna, herpetofauna e
+ictiofauna), também previstos no Plano de Manejo, serão essenciais para o controle das populações de indivíduos da fauna do Parque
+Aterro, tornando-se um  importante indicativo da qualidade ambiental da área. As diretrizes relativas à flora, também presentes no Plano
+de Manejo do Aterro, orientarão o projeto paisagístico do Parque-Aterro, que incluirá as formações nativas remanescentes das matas
+originais da região, onde se destacam espécies comuns ao Domínio Atlântico e ao Cerrado; plantio de bosques de espécies nativas; os
+bosques homogêneos de eucaliptos, casuarinas e palmeiras-leque resultantes de projetos implantados em períodos distintos, bem como
+de leucenas que ocuparam gradualmente vários locais da CTRS BR-040, devido ao alto potencial de germinação e adaptabilidade dessa
+espécie com a região de Belo Horizonte. O projeto paisagístico do futuro parque, objetivando a conectividade com a paisagem da região,
+deverá também avançar para além dos seus limites de forma a promover a articulação da sua composição vegetal com a paisagem das
+praças vizinhas e com a arborização das ruas.
+
+No Parque Guilherme Lage, por se tratar de um parque urbano utilizado como horto florestal na maior parte de sua história, não se verifica
+no local a presença de matas e remanescentes florestais nativos a serem preservados. Não obstante, a antiguidade da ocupação permitiu
+o estabelecimento de um maciço vegetacional expressivo, que sustenta fauna relevante para um ambiente urbano (https://drive.google.
+com/file/d/1ie3ivFX5C-diOlaoVKu9S0-8CjqggjXB/view?usp=drive_link). As intervenções possibilitadas pelo produto "P2.1.2 - Implantação
+das obras de requalificação do Parque Guilherme Lage", notadamente pela reativação do viveiro e manejo de espécies de flora invasoras,
+permitirão aprofundar esse papel. Os produtos P2.2.1, P2.2.2 e P2.2.3 do subcomponente "S2.2 - Ampliação da infraestrutura verde e
+azul" abarcam ações de recuperação de nascentes e conexão de fundo de vale; arborização urbana (plantios em logradouros públicos e
+em áreas públicas); implantação/recuperação de áreas verdes e, portanto, contribui diretamente para a conservação e o manejo da
+biodiversidade e/ou de recursos florestais.
+
+O produto "P3.1 - Desenvolvimento de Infraestrutura Urbana Sustentável para Mobilidade Ativa e Lazer", por sua vez, prevê ainda a
+implantação e requalificação de 19.183m² de praças e parques, que englobam a implantação de circuitos acessíveis, áreas de
+permanência, áreas para práticas esportivas multi etárias, áreas para playground e áreas verdes. As áreas verdes implantadas e
+requalificadas promovem a biodiversidade e a preservação dos ecossistemas urbanos.
+
+(Ver anexo 17 - Matriz das áreas estratégicas)
+
+- Item 1.6 - Melhoria do ambiente de negócios e/ou oportunidades:
+
+O produto "P4.1.2 - Realização de oficinas de Desenvolvimento Econômico Local (DEL) e suas cinco dimensões" trabalha justamente com
+a identificação dos ativos locais e das vantagens competitivas da região para fomentar o desenvolvimento econômico local. Nesse sentido
+, A Oficina DEL aborda a questão do desenvolvimento econômico local (DEL) e suas cinco dimensões: capital empreendedor, tecido
+empresarial, governança para o desenvolvimento, organização do sistema produtivo local e inserção competitiva do território. São
+apresentadas boas práticas em cada uma dessas dimensões, bem como o uso do mapa ISDEL para identificar a identidade municipal por
+meio de dados. Além disso, o curso também inclui métodos ágeis Canvas DEL Território, a abordagem Effectuation, o MVP (Mínimo
+Produto Viável), a matriz de priorização para avaliar o grau de impacto das intervenções, o Lean Canvas e a técnica de Storytelling. Por
+fim, serão apresentadas estratégias de pitch para vender ideias e propostas relacionadas ao DEL. O participante aprenderá a tornar as
+vantagens comparativas e competitivas de um território mais dinâmicas para impulsionar o crescimento econômico. Além disso, serão
+apresentadas ações para aumentar o capital empreendedor, fortalecer as empresas locais e desenvolver a governança local. Também
+serão discutidas estratégias para estimular e sustentar a reestruturação da produção, a fim de tornar o território mais competitivo no
+mercado regional, estadual e/ou internacional. Os participantes também terão acesso a benefícios adicionais, como a formação de líderes
+protagonistas incentivados a articular e criar uma agenda de desenvolvimento econômico do território com base no conhecimento das
+potencialidades locais. Eles também terão acesso à metodologia da abordagem DEL proposta pelo Sebrae/MG e o conteúdo será aplicado
+na realidade do município ou território com acompanhamento técnico de um consultor especialista no assunto.
+
+O produto "P4.1.3 - Reestruturação da Usina Escola na Escola Profissionalizante Raimunda da Silva Soares" possibilita a formação de
+mão de obra especializada para atuar no mercado de energia fotovoltaica, que ainda é incipiente em Belo Horizonte, pois estima-se que
+apenas cerca de 1% da capacidade total de energia fotovoltaica da capital mineira foi explorada. A formação de mão de obra qualificada
+para atuar neste mercado ainda incipiente é um fator importante para a estruturação do ambiente de negócios necessário para o seu
+desenvolvimento.
+
+Mesmo que de forma indireta, também é importante destacar que a formação e a consolidação das centralidades busca reverter o padrão
+de ocupação urbana radiocêntrico e promover uma mudança na forma de se deslocar na cidade, por meio da democratização do acesso à
+infraestrutura urbana de qualidade, da descentralização das atividades e investimentos, do estímulo e qualificação de novos pólos de
+desenvolvimento econômico, da aproximação da moradia das áreas de trabalho, de serviços e de lazer. A melhoria das condições
+espaciais nas áreas de centralidade, possibilitada pelo componente "C3: Olhar para o futuro: as centralidades como um novo modelo de
+sustentabilidade ambiental nos deslocamentos urbanos", é o pressuposto para promoção do adensamento construtivo e populacional no
+território. O adensamento populacional, por sua vez, é fator de atração de novos negócios e geração de oportunidades de emprego, dentro
+de uma dinâmica descrita pelo Conselho Municipal de Política Urbana como "ciclo virtuoso", conforme art. 2º, V DN COMPUR 01/2021.
+Nesse sentido, todas as ações relativas à proposta e especialmente aquelas referentes à qualificação dos espaços públicos apresentam-
+se como fatores de estímulo às atividades econômicas locais.
+
+(cid:10)
+(cid:10)
+
+
+Página: 35
+
+(Ver anexo 17 - Matriz das áreas estratégicas)
+
+- Item 1.7 - Benefícios para empreendedores individuais, micro e pequenas empresas:
+
+O produto "P4.1.2 - Realização de oficinas de Desenvolvimento Econômico Local (DEL) e suas cinco dimensões" tem como público alvo
+representantes do setor privado e do terceiro setor, que atuem direta ou indiretamente no apoio aos pequenos negócios, com perfil de
+liderança e potencial de atuação para o desenvolvimento sustentável. A aplicação desta metodologia no território trará benefícios para
+empreendedores individuais, micro e pequenas empresas.
+
+Para além da qualificação urbanística descrita no item anterior, destacam-se as ações relacionadas à implantação de quiosques e feiras
+para empreendedores individuais e microempresas, conforme produto "P3.9- Implantação de quiosques e espaços para feiras". Neste
+produto, serão implantados 34 unidades de quiosques comerciais, conforme projeto padrão do município e qualificados 466m² para
+receber feiras livres e de agricultura urbana.
+
+(Ver anexo 17 - Matriz das áreas estratégicas)
+
+- Item 1.8 - Geração de emprego e renda para populações de baixa renda e vulneráveis:
+
+As capacitações profissionais possibilitadas pelos produtos "P4.1.1 - Capacitação de mão de obra vulnerável e de baixa renda e inclusão
+em ação de emprego e renda voltadas à manutenção das infraestruturas verdes de SbN",  "P4.1.3 - Reestruturação da Usina Escola na
+Escola Profissionalizante Raimunda da Silva Soares" e "P4.1.4 - Mulheres na Obra" também são iniciativas que proporcionam
+oportunidades de emprego e renda para as populações de baixa renda.
+
+A capacitação para manutenção de infraestruturas verdes de SbN (P4.1.1) oferecerá cursos profissionalizantes em jardinagem,
+agroecologia e temas afins. Cada formando receberá um uniforme e um kit de jardinagem e passará a integrar uma Rede de Zeladores
+Ambientais, que reunirá o cadastro de todos os profissionais capacitados. A Rede irá priorizar a inclusão de mulheres e de outros grupos
+vulneráveis, através de critérios de prioridade específicos. As ações deste produto irão facilitar a conexão entre empresas que adotarem
+jardins de chuva e os profissionais da Rede de Zeladores Ambientais, criando oportunidades de trabalho e renda para esse grupo. A
+Prefeitura irá subsidiar inicialmente um pacote mínimo de manutenção para cada jardineiro que estiver sendo capacitado, com o objetivo
+de incluir pessoas vulneráveis e de baixa renda nessa rede de prestadores de serviço. No entanto, esse subsídio será temporário, pois a
+iniciativa privada que adotar os jardins de chuva deverá contratar os profissionais da Rede de Zeladores Ambientais, garantindo a
+sustentabilidade financeira do programa.
+
+A capacitação para instalação e manutenção de usinas fotovoltaicas oferecidas pelo produto P4.1.3 é uma ação já em curso no município
+direcionada a pessoas vulneráveis e de baixa renda, que será fortalecida e estruturada com as ações do Programa. A primeira turma
+formada em 2023 pela Usina Escola foi composta por pessoas em situação de rua, moradoras de abrigos municipais ou em
+vulnerabilidade social. Esta ação será, portanto, importante para gerar emprego e renda para as populações de baixa renda e vulneráveis.
+
+As ações do produto "P4.1.4 - Mulheres na Obra" se relaciona à Política Afirmativa "Mulheres na Obra" para a inserção da mulher no
+mercado de trabalho da construção, instituída pela Portaria Conjunta SMOBI/SUDECAP/URBEL Nº 037/2023. Esta política determina que
+todos os editais de obras promovidas pela Secretaria Municipal de Obras e Infraestrutura (Smobi), Superintendência de Desenvolvimento
+da Capital (Sudecap) e Companhia Urbanizadora e de Habitação de Belo Horizonte (Urbel), que contemplem a contratação de 10
+funcionários ou mais, deverão reservar a cota mínima de 10% para trabalhadoras. Esta importante política para a promoção da igualdade
+de gênero, inclusão da mulher no mercado de trabalho e empoderamento econômico feminino, está conectada com outra ação já em
+curso no município: a oferta de cursos de capacitação profissional na área da construção civil direcionado para mulheres. Em 2024 estão
+sendo abertas 120 vagas, distribuídas em seis cursos (20 vagas/turma) que visam a formação de "Pintora de Obras Imobiliárias",
+"Pedreira de Alvenaria", "Pedreira de Acabamento", "Carpinteira de Obra", "Instalações Elétricas Prediais de Baixa Tensão" e "Hidráulica
+Predial". Os cursos, divididos em aulas teóricas e práticas, tem duração de quatro meses (com carga horária que varia entre 160 horas e
+200 horas) e são ministrados no período da noite, com uma média de quatro horas/dia. As mulheres que estiverem em situação de
+vulnerabilidade social recebem uma bolsa mensal de R$ 650,00, condicionada à frequência no curso. Tendo em vista o significativo
+número de obras que esta Carta Consulta busca viabilizar, pretende-se formar, ao longo dos 6 anos de duração do Programa, mais 1.600
+mulheres construtoras e, para tanto, este produto contemplará as despesas dos cursos em si e as bolsas para as mulheres em situação
+de vulnerabilidade social, tal como previsto na ação de capacitação atualmente em curso pela Prefeitura.
+
+O produto "P3.9- Implantação de quiosques e espaços para feiras" possibilitará a implantação de 34 unidades de quiosques comerciais,
+conforme projeto padrão do município e a qualificação de 466m² para receber feiras livres e de agricultura urbana. As atividades
+econômicas exercidas em logradouro, como feiras e quiosques, também são importantes fonte de renda para a população de baixa renda
+e vulnerável.
+
+(Ver anexo 17 - Matriz das áreas estratégicas)
+
+- Item 1.9 - Infraestrutura e/ou equipamentos sociais para populações de renda baixa e vulneráveis:
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 36
+
+O Parque Aterro, conforme o produto "P1.1.2 - Implantação da obra do Parque Aterro", viabilizará a implantação de um grande parque
+urbano, de cerca 32 hectares, inserido em um entorno com bairros populosos, vilas e favelas e conjuntos habitacionais nas suas
+imediações. Nestes bairros, a população apresenta, em sua maioria, condição de alta vulnerabilidade social e de baixa renda per capita,
+com presença significativa de jovens, principalmente nas vilas e favelas. Observa-se ainda uma restrita ou inexistente presença de
+equipamentos públicos de lazer e entretenimento, apontando para o grande potencial da intervenção na melhoria da qualidade de vida dos
+moradores.
+
+O Parque Guilherme Lage é cercado de áreas marcadas como sendo de interesse social (Zeis) no Plano Diretor Municipal, como a Vila
+São Paulo, de modo que a comunidade mais diretamente impactada com o produto "P2.1.2 - Implantação das obras de requalificação do
+Parque Guilherme Lage" enquadra-se no critério de população de baixa renda e vulnerável. Essa população será beneficiada pelo
+aumento da oferta de espaços de lazer, educação ambiental e uso público após o final das intervenções.
+
+O Produto "P3.7 Produção de unidades habitacionais para populações de baixa renda e vulneráveis,  com parâmetros do Programa de
+Certificação Ambiental de Belo Horizonte" implanta 122 unidades habitacionais de interesse social, com aproximadamente 45m² cada,
+voltadas para a população com salário inferior a 1,5 salários mínimos. Nessas edificações destinadas à habitação de interesse social
+estão também previstas áreas de uso coletivo e uso comercial, com gestão a ser realizada por entidades da sociedade civil. É importante
+destacar que as habitações destinadas para populações de baixa renda e vulneráveis, estão, nesta proposta, inseridas no coração da
+Centralidade Regional Waldomiro Lobo, área que receberá importantes investimentos em infraestrutura urbana, beneficiando populações
+historicamente "deixadas de fora" neste tipo de projeto.
+
+O Produto "P3.8: Implantação de equipamento social de cultura, lazer, esporte, educação e tecnologia, com produção de energia
+fotovoltaica" prevê a implantação de equipamento público para abrigar espaços de cultura, lazer, esporte, educação e tecnologia. Este
+equipamento também irá garantir conexão direta e acessível entre a Rua Waldomiro Lobo e o Parque Nossa Senhora da Piedade, por
+meio de circulação vertical. O programa da edificação inclui quadra poliesportiva, piscina, equipamentos de calistenia e espaços livres
+para práticas diversas; salas para reuniões, treinamentos e oficinas; salas para microempreendedores do setor tecnológico; espaço
+multicultural e salas multiuso. Trata-se de um equipamento social de grande porte, de caráter transformador da região, implantado para as
+populações de renda baixa e vulneráveis.
+
+Há que se destacar também, que as estações de transporte coletivo são também importantes equipamentos sociais para a população.
+Nesse sentido, os produtos "P3.2 Reforma da Estação Diamante de Transporte Coletivo" e "P3.3 Melhoria do acesso à Estação de Metrô
+Waldomiro Lobo", também contribuem para os objetivos dessa área estratégica.
+
+O produto "P3.11- Desapropriação de ferros velhos para implantação de habitação de interesse social, via convênio urbanístico, junto ao
+Parque da Lagoinha", objetiva a desapropriação de terrenos, hoje ocupados por ferros velhos, para a implantação de habitações voltadas
+para a população de baixa renda e vulnerável, em conjunto com a implantação de comércios e serviços e de equipamentos de uso público
+nos térreos das edificações. Os projetos capitaneados pela Prefeitura neste local irão possibilitar a integração dos empreendimentos de
+interesse social com o Parque da Lagoinha, bem como o usufruto para seus moradores de toda rede de mobilidade ativa e de apoio ao
+transporte coletivo viabilizada pelo parque. Por meio deste produto, será possível então, disponibilizar terrenos bem localizados, em uma
+centralidade regional, junto ao Parque da Lagoinha, para atender a população vulnerável e de baixa renda.
+
+Por fim, a capacitação para instalação e manutenção de usinas fotovoltaicas oferecidas pelo produto P4.1.3 é uma ação já em curso no
+município direcionada a pessoas vulneráveis e de baixa renda, que será fortalecida e estruturada com as ações do Programa. A primeira
+turma formada em 2023 pela Usina Escola foi composta por pessoas em situação de rua, moradoras de abrigos municipais ou em
+vulnerabilidade social. Esta ação será, portanto, importante para gerar emprego e renda para as populações de baixa renda e vulneráveis.
+
+(Ver anexo 17 - Matriz das áreas estratégicas)
+
+- Item 1.10 - Ações de inclusão de minorias sociais entre os beneficiários:
+
+O Produto "P4.2.3 Trabalho Técnico Social (TTS)" está desenhado para promover a inclusão de minorias sociais nos debates sobre o
+desenvolvimento urbano, como quilombolas, indígenas, pessoas com deficiência e pessoas LGBTQIA+. As oficinas irão abordar temas
+específicos que se relacionam com as realidades e os desafios desses grupos, fortalecendo a sua voz e a sua participação na construção
+de uma cidade mais justa e equitativa. As oficinas deverão ser adequadas a cada público alvo no que diz respeito à abordagem do tema
+relacionando-o com a vida cotidiana das pessoas. Deverão trabalhar com linguagem simples e acessível e utilizar material didático e
+metodologia pedagógica de fácil compreensão e adequado a cada grupo. Para a realização das oficinas pretende-se contratar consultoria
+que deverá propor metodologias e didáticas adequadas a cada grupo. Propõe-se trabalhar com seguintes os grupos sociais: crianças;
+adolescentes e jovens; mulheres; quilombolas ou grupos de matriz afrodescendente; indígenas, caso haja ocorrência desses grupos nos
+territórios trabalhados; pessoas com deficiência; pessoas LGBTQIA+; e migrantes.
+
+(cid:10)
+(cid:10)
+
+
+Página: 37
+
+As capacitações profissionais possibilitadas pelos produtos "P4.1.1 - Capacitação de mão de obra vulnerável e de baixa renda e inclusão
+em ação de emprego e renda voltadas à manutenção das infraestruturas verdes de SbN" e "P4.1.3 - Reestruturação da Usina Escola na
+Escola Profissionalizante Raimunda da Silva Soares" também são iniciativas que proporcionam oportunidades para minorias sociais. A
+capacitação para manutenção de infraestruturas verdes de SbN (P4.1.1), por exemplo, irá priorizar a inclusão de mulheres e de outros
+grupos vulneráveis, através de critérios de prioridade específicos para atendimento das ações do produto. A capacitação para instalação e
+manutenção de usinas fotovoltaicas oferecidas pelo produto P4.1.3 é uma ação já em curso no município direcionada a pessoas
+vulneráveis e de baixa renda, que será fortalecida e estruturada com as ações do Programa. A primeira turma formada em 2023 pela
+Usina Escola foi composta por pessoas em situação de rua, moradoras de abrigos municipais ou em vulnerabilidade social e tais critérios
+de priorização continuarão a ser adotados pelo Programa ora desenhado.
+
+(Ver anexo 17 - Matriz das áreas estratégicas)
+
+- Item 1.11 - Políticas voltadas para Juventude, Gênero ou Raça:
+
+As ações do produto "P4.1.4 - Mulheres na Obra" se relaciona à Política Afirmativa "Mulheres na Obra" para a inserção da mulher no
+mercado de trabalho da construção, instituída pela Portaria Conjunta SMOBI/SUDECAP/URBEL Nº 037/2023. Esta política determina que
+todos os editais de obras promovidas pela Secretaria Municipal de Obras e Infraestrutura (Smobi), Superintendência de Desenvolvimento
+da Capital (Sudecap) e Companhia Urbanizadora e de Habitação de Belo Horizonte (Urbel), que contemplem a contratação de 10
+funcionários ou mais, deverão reservar a cota mínima de 10% para trabalhadoras. Esta importante política para a promoção da igualdade
+de gênero, inclusão da mulher no mercado de trabalho e empoderamento econômico feminino, está conectada com outra ação já em
+curso no município: a oferta de cursos de capacitação profissional na área da construção civil direcionado para mulheres. Em 2024 estão
+sendo abertas 120 vagas, distribuídas em seis cursos (20 vagas/turma) que visam a formação de "Pintora de Obras Imobiliárias",
+"Pedreira de Alvenaria", "Pedreira de Acabamento", "Carpinteira de Obra", "Instalações Elétricas Prediais de Baixa Tensão" e "Hidráulica
+Predial". Os cursos, divididos em aulas teóricas e práticas, tem duração de quatro meses (com carga horária que varia entre 160 horas e
+200 horas) e são ministrados no período da noite, com uma média de quatro horas/dia. As mulheres que estiverem em situação de
+vulnerabilidade social recebem uma bolsa mensal de R$ 650,00, condicionada à frequência no curso. Tendo em vista o significativo
+número de obras que esta Carta Consulta busca viabilizar, pretende-se formar, ao longo dos 6 anos de duração do Programa, mais 1.600
+mulheres construtoras e, para tanto, este produto contemplará as despesas dos cursos em si e as bolsas para as mulheres em situação
+de vulnerabilidade social, tal como previsto na ação de capacitação atualmente em curso pela Prefeitura.
+
+Conforme descrito no item anterior, o Produto "P4.2.3 Trabalho Técnico Social (TTS)" incluirá abordagens específicas para a juventude,
+gênero e raça, com o objetivo de fortalecer a participação desses grupos nas discussões sobre o desenvolvimento urbano. As oficinas irão
+abordar temas específicos que se relacionam com as realidades e os desafios desses grupos, fortalecendo a sua voz e a sua participação
+na construção de uma cidade mais justa e equitativa. As oficinas deverão ser adequadas a cada público alvo no que diz respeito à
+abordagem do tema relacionando-o com a vida cotidiana das pessoas. Deverão trabalhar com linguagem simples e acessível e utilizar
+material didático e metodologia pedagógica de fácil compreensão e adequado a cada grupo. Para a realização das oficinas pretende-se
+contratar consultoria que deverá propor metodologias e didáticas adequadas a cada grupo. Propõe-se trabalhar com seguintes os grupos
+sociais: crianças; adolescentes e jovens; mulheres; quilombolas ou grupos de matriz afrodescendente; indígenas, caso haja ocorrência
+desses grupos nos territórios trabalhados; pessoas com deficiência; pessoas LGBTQIA+; e migrantes.
+
+As capacitações profissionais possibilitadas pelos produtos "P4.1.1 - Capacitação de mão de obra vulnerável e de baixa renda e inclusão
+em ação de emprego e renda voltadas à manutenção das infraestruturas verdes de SbN" são iniciativas que proporcionam oportunidades
+para minorias sociais, mas também para jovens, mulheres e grupos de matriz afrodescendente.
+
+(Ver anexo 17 - Matriz das áreas estratégicas)
+
+- Item 1.12 - Melhoria e/ou inovação em processos de prestação de serviços públicos, de gestão e/ou de participação cidadã:
+
+O produto "P2.1.2 - Implantação das obras de requalificação do Parque Guilherme Lage" é parte de uma das maiores políticas de
+participação cidadã do Brasil: o Orçamento Participativo. A requalificação do Parque é uma demanda originária do orçamento participativo
+e o projeto do parque que será implantado por meio do Programa foi aprovado pela população na rodada de 2015/2016 do Orçamento
+Participativo. A execução deste produto é, portanto, uma importante estratégia de reforço dessa política em Belo Horizonte.
+
+O Produto "P4.2.3 Trabalho Técnico Social (TTS)", por sua vez, contribuirá diretamente para a melhoria e a inovação nos processos de
+participação cidadã em Belo Horizonte, fortalecendo a capacidade dos cidadãos de participar das decisões sobre o desenvolvimento
+urbano e de acompanhar a implementação das políticas públicas. As oficinas irão preparar os participantes para atuarem de forma mais
+efetiva nos fóruns de discussão sobre a política urbana, como a Conferência Municipal de Política Urbana (CMPU), contribuindo para a
+construção de um processo de participação social mais inclusivo e eficaz.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 38
+
+Como muitos dos conhecimentos acerca das questões urbanas ficam restritos a setores específicos como o acadêmico e técnico, o setor
+empresarial ligado à construção civil e o setor público que lida com o planejamento urbano municipal, diversos segmentos da sociedade
+civil participam desses fóruns de discussão com pouco conhecimento sobre os processos e instrumentos da política urbana. Com isso,
+estes setores com menos acesso à informação participam desses fóruns decisórios com menor capacidade argumentativa que os os
+demais setores. A falta de acesso ao conhecimento sobre a dinâmica do espaço urbano colabora para a manutenção da desigualdade
+socioespacial e socioeconômica presentes na cidade. Para reverter este quadro, o produto P4.2.3 promoverá ações de educação urbana e
+formação cidadã para grupos sociais com menores possibilidades de engajamento nesta temática. Pretende-se que as oficinas sejam,
+além de processos de formação cidadã, lugares de troca de conhecimentos a respeito da diversidade de formas de estar e atuar no
+espaço urbano. Tais atividades darão suporte não só às atividades referentes a esta Carta Consulta, mas também fortalecerão a política
+estabelecida pelo Plano Diretor da cidade.
+
+(Ver anexo 17 - Matriz das áreas estratégicas)
+
+- Item 1.13 - Melhoria das condições de educação e saúde:
+
+Não há ações diretas do programa nesta área estratégica. De forma indireta, os componentes C1, C2 e C3, ao promoverem a
+sustentabilidade ambiental por meio da implementação e requalificação de parques urbanos, recuperação de nascentes e promoção da
+arborização urbana,  contribuem para a diminuição de emissões de gases efeito estufa, possibilitando a melhoria da qualidade do ar,
+provocando impactos positivos na saúde da população. Além disso, esses componentes estimulam a mobilidade ativa, diminuindo o
+sedentarismo decorrente da adoção de modos não motorizados de transporte.
+
+- Item 1.14 - Desenvolvimento, inovação e modernização tecnológica:
+
+Não há ações diretas do programa nesta área estratégica.
+
+- Item 1.15 - Arranjos de financiamento que incentivem/contribuem com a participação privada:
+
+O produto "P.3.11 - Desapropriação de ferros velhos para implantação de habitação de interesse social, via convênio urbanístico, junto ao
+Parque da Lagoinha" tem seu objetivo de produção habitacional viabilizado por meio de uma parceria com a iniciativa privada. Após a
+desapropriação dos terrenos, a produção de habitação de interesse social será viabilizada por meio de um instrumento de parceria público
+-privada estabelecido pelo Plano Diretor Municipal, em seu artigo 76: o convênio urbanístico de interesse social. Por meio deste
+instrumento, um acordo de cooperação é firmado entre o Executivo e a iniciativa privada para execução de empreendimentos de interesse
+social. Este instrumento permite que o Executivo disponibilize terrenos para empreendedores privados interessados em implantar
+empreendimentos de interesse social, com vistas à viabilização do atendimento, por parte destes, ao público da Política Municipal de
+Habitação. Concluídas as intervenções físicas e sociais relativas ao empreendimento, o empreendedor privado recebe, nas áreas
+incluídas no convênio ou fora dessas, imóveis em valor equivalente à proporção obtida pela divisão do valor do orçamento das
+intervenções por ele realizadas, pelo custo total do empreendimento. O edital da licitação que abre o convênio urbanístico, estabelece,
+entre outros pontos, os padrões da urbanização e da edificação que devem ser seguidos pelo parceiro privado, o que permite ao município
+estabelecer diretrizes específicas de projetos.
+
+(Ver anexo 17 - Matriz das áreas estratégicas)
+
+II - informar e quantificar a população beneficiada direta e/ou indiretamente pelas ações do Programa/projeto; e
+
+O entorno do futuro parque-aterro, conforme componente "C1: Olhar para o Passado: Tratamento de Passivos Ambientais - O Parque
+Aterro" possui bairros populosos (dados Prodabel, 2010), que serão beneficiários diretos do equipamento, tais como:
+
+- com contingentes superiores a 15.000 habitantes, Pindorama (17.579 habitantes) e Glória;
+
+- bairros próximos de 10.000 habitantes, Dom Bosco e Novo Glória (7.856 habitantes);
+
+- bairros com densidades demográficas superiores a 200 hab./ha, vilas e favelas lindeiras (Novo Dom Bosco (704 habitantes), Vila -
+Coqueiral (1.533 habitantes) e Vila Califórnia (3.100 habitantes);
+
+- conjuntos habitacionais das imediações: Califórnia (1.737 habitantes) e Jardim Filadélfia (3.002 habitantes);
+
+- bairro Álvaro Camargos (1.080 habitantes).
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 39
+
+A implantação do novo sistema de drenagem do Aterro, previsto no componente "C2 - Olhar para o presente: adaptação às mudanças
+climáticas", também beneficiará diretamente os 3.100 habitantes da Vila Califórnia, área que recebe grande parte da drenagem do aterro e
+é afetada pela mancha de inundação do Córrego das Taiobas.
+
+Conforme informações constantes no diagnóstico do Plano de Qualificação Centro-Lagoinha (https://prefeitura.pbh.gov.br/politica-urbana/
+planejamento-urbano/plano-centro-lagoinha/plano-qualificacao-urbanistica-centro-lagoinha), a população diretamente beneficiada com a
+realização de intervenções, na área, como a implantação do Parque da Lagoinha, prevista no componente "C2 - Olhar para o presente:
+adaptação às mudanças climáticas", é de 53.042 habitantes (Censo Demográfico 2010). A requalificação do Parque Guilherme Lage, por
+sua vez, beneficiará diretamente a população dos bairros imediatamente vizinhos ao equipamento, tais como Vila São Paulo, Eymard, São
+Paulo, Andiroba e Pirajá, totalizando 11.118 pessoas beneficiadas
+
+Portanto, os componentes C1 e C2 juntos, têm o potencial de beneficiar diretamente 100.751 habitantes.
+
+Conforme componente "C3: Olhar para o futuro: as Centralidades como um novo Modelo de Sustentabilidade Ambiental nos
+Deslocamentos Urbanos", as intervenções e ações previstas no Programa irão beneficiar diretamente a população dos bairros nos quais
+as centralidades estão inseridas, conforme descrição abaixo:
+
+- Centralidade Waldomiro Lobo - Bairro Heliópolis: 6.675 hab., Bairro Floramar: 9.775 hab., Bairro Tupi A: 10.668 hab., Bairro Tupi B: 13.
+527 hab., Bairro Guarani: 7.718 hab., Bairro Aarão Reis: 2.962 hab., Bairro São Gonçalo: 2.598 hab., Bairro Minaslândia: 6.490 hab.,
+Bairro São Gabriel: 13.726 hab. e Bairro São Bernardo: 9.092 hab.
+
+- Centralidade Itaité - Bairro São Geraldo: 13.974 hab.
+
+- Centralidade Angola - Bairro Vila São Paulo: 1.898 hab. e Bairro São Paulo: 3.750 hab.
+
+- Centralidade Abílio Machado - Bairro Glória: 14.627 hab., Bairro Inconfidência: 3.465 hab., e Bairro Alípio de Melo: 9.530 hab.
+
+- Centralidade Úrsula Paulino - Bairro Estrela do Oriente: 4.761 hab. e Betânia: 12.054 hab.
+
+- Centralidade Estação Diamante - Bairro Diamante: 11.979 hab., Bairro Olaria: 5.776 hab., Bairro Castanheira: 5.650 hab. e Bairro Brasil
+Industrial: 7.030 hab.
+
+- Centralidade Érico Veríssimo - Bairro Rio Branco: 12.768 hab. e Bairro Santa Mônica: 23.883 hab.
+
+- Centralidade Padre Eustáquio - Bairro Minas Brasil: 3.511 hab., Bairro Padre Eustáquio - 28.773 hab. e Bairro Carlos Prates: 15.285 hab.
+
+Além da população dos bairros, também serão beneficiadas 122 famílias a partir do acesso às unidades habitacionais de interesse social
+produzidas no âmbito do componente C3. Assim, estima-se que o componente C3 beneficiará diretamente 262.145 pessoas.
+
+O subcomponente "S4.1 Desenvolvimento econômico e geração de trabalho e renda", tem potencial de beneficiar diretamente 2260
+pessoas capacitadas e envolvidas diretamente nas ações.
+
+Portanto, de forma direta, o Programa deve beneficiar, no mínimo: 363.156 pessoas.
+
+Em se tratando dos benefícios indiretos, no que se refere ao Componente "C2 - Olhar para o presente: adaptação às mudanças
+climáticas", as ações de recuperação ambiental de nascentes e fundos de vale tem como área de influência as localidades próximas aos
+corpos hídricos e fundos de vale das bacias hidrográficas Arrudas, Onça, Isidoro e Velhas e tem como beneficiários além dos moradores
+do entorno das localidades das nascentes e fundos de vale, a população de toda a abrangência da bacia hidrográfica, dados resultados
+que repercutem por toda a dimensão das bacias em relação à qualidade ambiental, segurança hídrica e proteção de solos. Nesse sentido,
+ações deste Componente tem o potencial de abarcar todo o território municipal, que está integralmente inserido nas quatro bacias
+hidrográficas citadas. O subcomponente "S4.2 Desenvolvimento de planos" também tem potencial para beneficiar de forma indireta, todo o
+município.
+
+III - especificar se haverá benefício a populações de baixa renda, vulneráveis, minorias sociais, jovens, com foco em gênero e/ou raça,
+entre outros.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 40
+
+As ações previstas no componente "C1: Olhar para o Passado: Tratamento de Passivos Ambientais - O Parque Aterro" trabalham a
+requalificação do passivo ambiental, tendo jovens, idosos e crianças como beneficiários diretos do novo equipamento público de lazer, que
+praticamente inexiste na maior parte dos bairros lindeiros, que concentram população de alta vulnerabilidade social e de baixa renda per
+capita. No programa do Parque Aterro estarão previstas instalações de estruturas de apoio aos campos de futebol existentes, playgrounds
+, mirantes e espaços de descanso, convivência e apreciação da paisagem. No sentido de  promover a segurança e gerar uma boa
+ambiência para a circulação e fruição por pedestres, serão concebidas conexões com o sistema viário existente (ruas sem saída que
+culminam no muro da CTRS BR-040, dentre outras) e requalificação das áreas verdes, de forma a promover a integração entre o parque e
+o entorno. Além disso, serão implantadas trilhas interpretativas, permeando as áreas de aterragem e os equipamentos para tratamento de
+resíduos existentes na Central. Entre as atividades de gestão do complexo da CTRS BR-040 estão previstas a realização de palestras,
+encontros, distribuição de material de divulgação e outras ações educativas, de forma a garantir a apropriação e manutenção do
+equipamento, assim como prestar esclarecimentos à população vizinha e a todos os usuários do parque-aterro, acerca dos problemas e
+das restrições atuais e futuras para um parque implantado sobre um aterro sanitário desativado.
+
+O Parque Guilherme Lage é cercado de áreas marcadas como sendo de interesse social (Zeis) no Plano Diretor Municipal, como a Vila
+São Paulo e Andiroba, de modo que a comunidade mais diretamente impactada com o produto "P2.1.2 - Implantação das obras de
+requalificação do Parque Guilherme Lage" enquadra-se no critério de população de baixa renda e vulnerável. Essa população será
+beneficiada pelo aumento da oferta de espaços de lazer, educação ambiental e uso público após o final das intervenções. A implantação
+do novo sistema de drenagem do Aterro, previsto no produto "P2.2.4 - Implantação do sistema de drenagem e selamento de células de
+resíduos, no Parque Aterro", também beneficiará diretamente os 3.100 habitantes da Vila Califórnia, área de Zeis que recebe grande parte
+da drenagem do aterro e é afetada pela mancha de inundação do Córrego das Taiobas.
+
+A busca por cidades que promovam justiça social e inclusão exige uma abordagem mais integrada e que considere que os modelos de
+urbanização aplicados ainda reforçam desigualdades históricas e estruturais geradoras de desafios e barreiras para mulheres e
+comunidades raciais no acesso a recursos, serviços e apropriação do espaço urbano. O Componente "C3: Olhar para o futuro: as
+Centralidades como um novo Modelo de Sustentabilidade Ambiental nos Deslocamentos Urbanos" é uma uma importante ferramenta para
+mitigar a segregação socioespacial, racial e a desigualdade de gênero e etária na cidade, ao adotar uma abordagem que visa
+democratizar o acesso à infraestrutura urbana de qualidade e descentralizar atividades e investimentos. Ao estimular e qualificar novos
+pólos de desenvolvimento, o componente busca romper com a lógica de concentração de oportunidades em áreas privilegiadas,
+permitindo que as populações de baixa renda, vulneráveis e os grupos raciais e de gênero historicamente marginalizados possam se
+beneficiar das atividades emergentes. O Componente C3 insere-se nesse contexto, buscando promover a equidade espacial e
+socioeconômica, garantindo o acesso igualitário a serviços, moradia, oportunidades e qualidade de vida para todos.
+
+Ainda neste componente, se destaca o produto "P3.7 Produção de unidades habitacionais para populações de baixa renda e vulneráveis,
+com parâmetros do Programa de Certificação Ambiental de Belo Horizonte" que implanta 122 unidades habitacionais de interesse social,
+com aproximadamente 45m² cada, voltadas para a população com salário inferior a 1,5 salários mínimos. Nessas edificações destinadas à
+habitação de interesse social estão também previstas áreas de uso coletivo e uso comercial, com gestão a ser realizada por entidades da
+sociedade civil. É importante destacar que as habitações destinadas para populações de baixa renda e vulneráveis, estão, nesta proposta,
+inseridas no coração da Centralidade Regional Waldomiro Lobo, área que receberá importantes investimentos em infraestrutura urbana,
+beneficiando populações historicamente "deixadas de fora" neste tipo de projeto. Ainda nessa linha, o Produto "P3.8: Implantação de
+equipamento social de cultura, lazer, esporte, educação e tecnologia, com produção de energia fotovoltaica" prevê a implantação de
+equipamento público para abrigar espaços de cultura, lazer, esporte, educação e tecnologia. Este equipamento também irá garantir
+conexão direta e acessível entre a Rua Waldomiro Lobo e o Parque Nossa Senhora da Piedade, por meio de circulação vertical. O
+programa da edificação inclui quadra poliesportiva, piscina, equipamentos de calistenia e espaços livres para práticas diversas; salas para
+reuniões, treinamentos e oficinas; salas para microempreendedores do setor tecnológico; espaço multicultural e salas multiuso. Trata-se
+de um equipamento social de grande porte, de caráter transformador da região, implantado para as populações de renda baixa e
+vulneráveis.
+
+Neste mesmo componente C3, está inserido o produto "P.3.11 - Desapropriação de ferros velhos para implantação de habitação de
+interesse social, via convênio urbanístico, junto ao Parque da Lagoinha" que disponibiliza áreas hoje ocupadas por ferros velhos para a
+produção de habitação para populações de baixa renda e vulneráveis, através da aplicação do instrumento Convênio Urbanístico de
+Interesse Social. Os projetos capitaneados pela Prefeitura neste local irão possibilitar a integração dos empreendimentos de interesse
+social com o Parque da Lagoinha, bem como o usufruto para seus moradores de toda rede de mobilidade ativa e de apoio ao transporte
+coletivo viabilizada pelo parque. Por meio deste produto, será possível então, disponibilizar terrenos bem localizados, em uma centralidade
+regional, junto ao Parque da Lagoinha, para atender a população vulnerável e de baixa renda.
+
+Há que se destacar ainda o Produto "P4.2.3 Trabalho Técnico Social (TTS)" que está desenhado para promover a participação equitativa
+de diversos grupos nos debates sobre o desenvolvimento urbano, como quilombolas; indígenas; pessoas com deficiência; pessoas
+LGBTQIA+; crianças, adolescentes e jovens; mulheres; quilombolas ou grupos de matriz afrodescendente; indígenas, caso haja ocorrência
+desses grupos nos territórios trabalhados; e migrantes. As oficinas irão abordar temas específicos que se relacionam com as realidades e
+os desafios desses grupos, fortalecendo a sua voz e a sua participação na construção de uma cidade mais justa e equitativa.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 41
+
+As capacitações profissionais possibilitadas pelos produtos "P4.1.1 - Capacitação de mão de obra vulnerável e de baixa renda e inclusão
+em ação de emprego e renda voltadas à manutenção das infraestruturas verdes de SbN",  "P4.1.3 - Reestruturação da Usina Escola na
+Escola Profissionalizante Raimunda da Silva Soares" e "P4.1.3 - Reestruturação da Usina Escola na Escola Profissionalizante Raimunda
+da Silva Soares" também são iniciativas que proporcionam oportunidades para minorias sociais e pessoas em situação de vulnerabilidade.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Interamericano de Desenvolvimento
+- BID
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BID
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+20.000.000,00
+Valor Proposto
+
+80.000.000,00
+
+100.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+20.000.000,00
+Valor de Referência US
+$
+80.000.000,00
+
+100.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+A Secretaria Municipal de Obras e Infraestrutura (SMOBI) será o Órgão Executor do Programa e, como tal, terá a responsabilidade do
+planejamento, gestão administrativa, acompanhamento técnico e avaliação do Programa. Contará com o apoio da Secretaria Municipal de
+Planejamento, Orçamento e Gestão (SMPOG), Secretaria Municipal de Governo (SMGO), Secretaria Municipal de Desenvolvimento
+Econômico (SMDE), Secretaria Municipal de Meio Ambiente (SMMA), Secretaria Municipal de Política Urbana (SMPU), Superintendência
+de Desenvolvimento da Capital (SUDECAP), Fundação de Parques Municipais e Zoobotânica (FPMZB), Superintendência de Mobilidade
+do Município de Belo Horizonte (SUMOB), Superintendência de Limpeza Urbana (SLU) e a Procuradoria-Geral do Município de Belo
+Horizonte (PGM) na execução e controle das contratações.
+
+Será constituída na SMOBI uma Unidade de Gerenciamento do Programa (UGP) que servirá como elemento de ligação entre a PBH, o
+BID, o Governo Federal e outras organizações participantes. A UGP será formada por servidores públicos que executarão as principais
+atividades de gerenciamento do Programa considerando-se: coordenação geral; coordenação técnico-administrativa; coordenação de
+licitações; coordenação fiduciária/financeira. A UGP contará, ainda, com a alocação de consultorias especializadas de gerenciamento do
+projeto e com expertise nas diferentes etapas de gerenciamento do programa, com atenção especial para aquisições/licitações
+internacionais, gerenciamento fiduciário e auditorias, monitoramento, avaliações ex-ante e ex-post, licenciamento, e demais temas afetos
+aos subprogramas.
+
+A finalidade da UGP é de assegurar que as ações do Programa estejam em linha com o requerido para uma adequada execução do
+financiamento externo: planejar, programar e acompanhar a execução física e financeira, bem como avaliar os resultados intermediários e
+finais do Programa, de modo a assegurar o cumprimento das ações planejadas e dos cronogramas estabelecidos. A UGP, na execução
+de suas atividades, poderá contar com o apoio operacional externo.
+
+Cabe ressaltar que a Prefeitura dispõe de uma estrutura operacional e experiência para execução do Programa. A prefeitura dispõe de
+uma equipe técnica composta por: corpo de servidores para gestão de convênios e técnicos da área ambiental e social para
+acompanhamento das atividades correlatas; procuradores para acompanhamento das licitações, desapropriações e elaboração de atos
+normativos; corpo de engenheiros para fiscalização das obras; entre outros. Tais profissionais darão suporte ao longo da execução do
+Programa. Esse corpo técnico faz parte das diversas secretarias e órgãos internos da estrutura organizacional da Prefeitura, vide a Matriz
+de Responsabilidade Institucional RACI -Anexo 18.
+
+Ainda quanto ao gerenciamento do Programa, cita-se que a UGP será apoiada técnica e operacionalmente por empresa de consultoria,
+gerenciadora, com experiência em gerenciamento de projetos. A equipe da gerenciadora deverá espelhar, pelo menos, a equipe da UGP.
+Devido ao caráter multissetorial do Programa, será constituído a nível da SMOBI um Conselho Gestor do Programa (CGP) para o
+estabelecimento e acompanhamento do cumprimento de suas diretrizes estratégicas. Este CGP será liderado pela SMOBI, que também
+terá a atribuição de atuar como Secretaria Executiva, convocando reuniões.
+
+Participarão de maneira permanente do CGP: SMOBI, SMPU, SMGO, SMDE, SMMA, FPMZB, SUMOB e SLU. Poderão ser convidados
+outros entes para participar do CGP, de acordo com as necessidades do projeto. As decisões de diretrizes estratégicas tomadas no
+âmbito do CGP serão informadas ao Gabinete do Prefeito, aos participantes (permanentes e temporários), e para a UGP, para a sua
+incorporação da execução no âmbito do Programa.
+
+(cid:10)
+
+
+Página: 42
+
+A SMOBI será a responsável pela execução do programa e, consequentemente, pelo gerenciamento das obras e entregas dos
+equipamentos urbanos previstos. A gestão, manutenção e operação dos equipamentos previstos de serem implementados serão de
+responsabilidade das secretarias municipais conforme indicado na Matriz de Responsabilidade Institucional.
+
+Durante a execução do Programa, a UGP contará com a presença de gestores de projetos ocupando a função de pontos focais em cada
+um dos órgãos de suas respectivas competências para execução dos produtos, conforme descrito na Matriz RACI -ver Anexo 18.
+
+Quanto às políticas socioambientais do agente financiador, o Programa utilizará o Marco de Políticas Ambientais e Sociais (ESPF) como
+diretrizes socioambientais na execução do Programa. O ESPF estabelece padrões de classe internacional a que projetos do BID terão de
+atender para proteger as pessoas e o meio ambiente, além de abranger áreas como gênero e diversidade, engajamento das partes
+interessadas e proteções mais robustas para trabalhadores e comunidades.
+
+Cabe registar que as políticas de aquisição, ambientais e sociais do BID são de conhecimento do Município, e serão observadas ao longo
+da execução.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Secretaria Municipal de Obras e Infraestrutura de Belo Horizonte - MG
+
+Representante Oficial:
+Endereço da Sede:
+E-mail Institucional:
+Telefone:
+
+CNPJ:
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 6 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+C - C1: OLHAR PARA O PASSADO: TRATAMENTO DE PASSIVOS AMBIENTAIS - O PARQUE
+ATERRO
+S - S1.1 - IMPLANTAÇÃO DO PARQUE ATERRO
+
+COMPONENTES
+
+P - P1.1.1 - Elaboração do projeto executivo do Parque Aterro
+
+P - P1.1.2 - Implantação da obra do Parque Aterro
+
+S - S1.2 - GERAÇÃO DE ENERGIA RENOVÁVEL: USINAS FOTOVOLTAICAS DO PARQUE
+ATERRO
+P - P1.2.1 - Elaboração do projeto técnico para parque fotovoltaico na área do antigo Aterro
+Sanitário
+C - C2: OLHAR PARA O PRESENTE: ADAPTAÇÃO ÀS MUDANÇAS CLIMÁTICAS
+
+S - S2.1 - PARQUES URBANOS
+
+P - P2.1.1 - Atualização do projeto executivo de requalificação do Parque Guilherme Lage
+
+P - P2.1.2 - Implantação das obras de requalificação do Parque Guilherme Lage
+
+P - P2.1.3 - Desapropriação para a requalificação do Parque Guilherme Lage
+
+P - P.2.1.4 - Elaboração de projeto executivo e implantação do Parque da Lagoinha: setores
+complementares
+S - S2.2 - INFRAESTRUTURA VERDE E AZUL
+
+P - P2.2.1 - Recuperação Ambiental de áreas delimitadas como conexão de fundo de vale com
+requalificação de córregos e nascentes de Áreas na bacia do Onça, Arrudas e Izidora
+P - P2.2.2 - Plantio em Áreas Verdes e Logradouros Públicos, com ênfase em conexões verdes
+do Plano Diretor
+P - P2.2.3 - Implementação/Recuperação de áreas verdes degradadas em regiões com menor
+índice de áreas protegidas
+P - P2.2.4 - Implantação do sistema de drenagem e selamento de células de resíduos, no Parque
+Aterro
+C - C3: OLHAR PARA O FUTURO: AS CENTRALIDADES COMO UM NOVO MODELO DE
+SUSTENTABILIDADE AMBIENTAL NOS DESLOCAMENTOS URBANOS
+P - P3.1 - Desenvolvimento de Infraestrutura Urbana Sustentável para Mobilidade Ativa e Lazer
+
+P - P3.2 - Reforma da Estação Diamante de Transporte Coletivo
+
+P - P3.3 - Melhoria do acesso à Estação de Metrô Waldomiro Lobo
+
+P - P3.4 -  Implementação de SbN para Drenagem Urbana Sustentável e para implantação de
+Refúgios Climáticos
+P - P3.5 - Melhoria e ampliação da infraestrutura para rede de coleta seletiva
+
+P - P3.6 - Desapropriação para implantação de habitação de interesse social e equipamento para
+populações de baixa renda e vulneráveis
+P - P3.7 - Produção de unidades habitacionais para populações de baixa renda e vulneráveis,
+com parâmetros do Programa de Certificação Ambiental de Belo Horizonte
+P - P3.8 - Implantação de equipamento social de cultura, lazer, esporte, educação e tecnologia,
+com produção de energia fotovoltaica
+P - P3.9 - Implantação de quiosques e espaços para feiras
+
+P - P3.10 - Elaboração de Projetos de Engenharia, Arquitetura, Urbanismo e complementares
+para áreas das centralidades
+P - P.3.11 - Desapropriação de ferros velhos para implantação de habitação de interesse social,
+via convênio urbanístico, junto ao Parque da Lagoinha
+C - C4: OLHAR PARA AS PESSOAS E PARA O FORTALECIMENTO INSTITUCIONAL
+
+Fax:
+UF:
+
+VALOR
+
+CUSTO
+
+Ano 1
+
+FONTES
+
+CF
+
+BID
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+10.260.000,00
+
+880.000,00
+
+9.760.000,00
+
+380.000,00
+
+380.000,00
+
+380.000,00
+
+9.380.000,00
+
+0,00
+
+500.000,00
+
+500.000,00
+
+500.000,00
+
+500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+28.103.000,00
+
+75.000,00
+
+4.432.000,00
+
+7.943.000,00
+
+75.000,00
+
+3.518.000,00
+
+350.000,00
+
+4.000.000,00
+
+20.160.000,00
+
+6.300.000,00
+
+3.240.000,00
+
+3.060.000,00
+
+75.000,00
+
+75.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+400.000,00
+
+0,00
+
+0,00
+
+0,00
+
+400.000,00
+
+4.032.000,00
+
+1.260.000,00
+
+648.000,00
+
+612.000,00
+
+7.560.000,00
+
+0,00
+
+1.512.000,00
+
+49.923.000,00
+
+1.500.000,00
+
+915.000,00
+
+14.690.000,00
+
+470.000,00
+
+76.000,00
+
+4.000.000,00
+
+412.000,00
+
+14.260.000,00
+
+6.000.000,00
+
+4.330.000,00
+
+1.135.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.500.000,00
+
+1.500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.050.000,00
+
+3.460.000,00
+
+0,00
+
+0,00
+
+915.000,00
+
+782.000,00
+
+
+Página: 43
+
+S - S4.1 DESENVOLVIMENTO ECONÔMICO E GERAÇÃO DE TRABALHO E RENDA
+
+P - P4.1.1 - Capacitação de mão de obra vulnerável e de baixa renda e inclusão em ações de
+emprego e renda voltadas à manutenção das infraestruturas verdes de SbN
+P - P4.1.2 - Realização de oficinas de Desenvolvimento Econômico Local (DEL) e suas cinco
+dimensões
+P - P4.1.3 - Reestruturação da Usina Escola na Escola Profissionalizante Raimunda da Silva
+Soares
+P - P4.1.4 - Mulheres na Obra
+
+S - S4.2 - DESENVOLVIMENTO DE PLANOS
+
+P - P4.2.1 - Elaboração de plano com diretrizes para certificação de sustentabilidade ambiental do
+novo bairro do Aeroporto Carlos Prates
+P - P4.2.2 - Elaboração do Plano Local de Mobilidade Limpa Municipal
+
+P - P4.2.3 - Trabalho Técnico Social (TTS)
+
+C - C5: OLHAR PARA A GESTÃO
+
+P - P5.1 - Apoio à Unidade Executora do Programa
+
+P - P5.2 - Supervisão de Obras
+
+P - P5.3 - Auditoria Externa
+
+P - P5.4 - Montagem de escritório e aquisição de equipamentos
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - C1: OLHAR PARA O PASSADO: TRATAMENTO DE PASSIVOS AMBIENTAIS - O PARQUE
+ATERRO
+S - S1.1 - IMPLANTAÇÃO DO PARQUE ATERRO
+
+COMPONENTES
+
+P - P1.1.1 - Elaboração do projeto executivo do Parque Aterro
+
+P - P1.1.2 - Implantação da obra do Parque Aterro
+
+S - S1.2 - GERAÇÃO DE ENERGIA RENOVÁVEL: USINAS FOTOVOLTAICAS DO PARQUE
+ATERRO
+P - P1.2.1 - Elaboração do projeto técnico para parque fotovoltaico na área do antigo Aterro
+Sanitário
+C - C2: OLHAR PARA O PRESENTE: ADAPTAÇÃO ÀS MUDANÇAS CLIMÁTICAS
+
+S - S2.1 - PARQUES URBANOS
+
+P - P2.1.1 - Atualização do projeto executivo de requalificação do Parque Guilherme Lage
+
+P - P2.1.2 - Implantação das obras de requalificação do Parque Guilherme Lage
+
+P - P2.1.3 - Desapropriação para a requalificação do Parque Guilherme Lage
+
+P - P.2.1.4 - Elaboração de projeto executivo e implantação do Parque da Lagoinha: setores
+complementares
+S - S2.2 - INFRAESTRUTURA VERDE E AZUL
+
+P - P2.2.1 - Recuperação Ambiental de áreas delimitadas como conexão de fundo de vale com
+requalificação de córregos e nascentes de Áreas na bacia do Onça, Arrudas e Izidora
+P - P2.2.2 - Plantio em Áreas Verdes e Logradouros Públicos, com ênfase em conexões verdes
+do Plano Diretor
+P - P2.2.3 - Implementação/Recuperação de áreas verdes degradadas em regiões com menor
+índice de áreas protegidas
+P - P2.2.4 - Implantação do sistema de drenagem e selamento de células de resíduos, no Parque
+Aterro
+C - C3: OLHAR PARA O FUTURO: AS CENTRALIDADES COMO UM NOVO MODELO DE
+SUSTENTABILIDADE AMBIENTAL NOS DESLOCAMENTOS URBANOS
+P - P3.1 - Desenvolvimento de Infraestrutura Urbana Sustentável para Mobilidade Ativa e Lazer
+
+P - P3.2 - Reforma da Estação Diamante de Transporte Coletivo
+
+P - P3.3 - Melhoria do acesso à Estação de Metrô Waldomiro Lobo
+
+P - P3.4 -  Implementação de SbN para Drenagem Urbana Sustentável e para implantação de
+Refúgios Climáticos
+P - P3.5 - Melhoria e ampliação da infraestrutura para rede de coleta seletiva
+
+P - P3.6 - Desapropriação para implantação de habitação de interesse social e equipamento para
+populações de baixa renda e vulneráveis
+P - P3.7 - Produção de unidades habitacionais para populações de baixa renda e vulneráveis,
+com parâmetros do Programa de Certificação Ambiental de Belo Horizonte
+P - P3.8 - Implantação de equipamento social de cultura, lazer, esporte, educação e tecnologia,
+com produção de energia fotovoltaica
+P - P3.9 - Implantação de quiosques e espaços para feiras
+
+P - P3.10 - Elaboração de Projetos de Engenharia, Arquitetura, Urbanismo e complementares
+para áreas das centralidades
+P - P.3.11 - Desapropriação de ferros velhos para implantação de habitação de interesse social,
+via convênio urbanístico, junto ao Parque da Lagoinha
+C - C4: OLHAR PARA AS PESSOAS E PARA O FORTALECIMENTO INSTITUCIONAL
+
+S - S4.1 DESENVOLVIMENTO ECONÔMICO E GERAÇÃO DE TRABALHO E RENDA
+
+P - P4.1.1 - Capacitação de mão de obra vulnerável e de baixa renda e inclusão em ações de
+emprego e renda voltadas à manutenção das infraestruturas verdes de SbN
+P - P4.1.2 - Realização de oficinas de Desenvolvimento Econômico Local (DEL) e suas cinco
+dimensões
+P - P4.1.3 - Reestruturação da Usina Escola na Escola Profissionalizante Raimunda da Silva
+Soares
+P - P4.1.4 - Mulheres na Obra
+
+S - S4.2 - DESENVOLVIMENTO DE PLANOS
+
+P - P4.2.1 - Elaboração de plano com diretrizes para certificação de sustentabilidade ambiental do
+novo bairro do Aeroporto Carlos Prates
+
+1.110.000,00
+
+285.000,00
+
+50.000,00
+
+55.000,00
+
+720.000,00
+
+2.350.000,00
+
+550.000,00
+
+900.000,00
+
+900.000,00
+
+8.254.000,00
+
+4.000.000,00
+
+4.000.000,00
+
+150.000,00
+
+104.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+222.000,00
+
+57.000,00
+
+10.000,00
+
+11.000,00
+
+144.000,00
+
+560.000,00
+
+110.000,00
+
+270.000,00
+
+180.000,00
+
+1.262.400,00
+
+800.000,00
+
+400.000,00
+
+0,00
+
+62.400,00
+
+0,00
+
+2.455.000,00
+
+7.391.400,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+BID
+
+0,00
+
+1.876.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.876.000,00
+
+0,00
+
+1.876.000,00
+
+0,00
+
+0,00
+
+245.000,00
+
+8.103.000,00
+
+245.000,00
+
+2.559.000,00
+
+0,00
+
+0,00
+
+0,00
+
+1.759.000,00
+
+245.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+800.000,00
+
+5.544.000,00
+
+1.260.000,00
+
+648.000,00
+
+612.000,00
+
+0,00
+
+3.024.000,00
+
+2.662.000,00
+
+5.038.300,00
+
+1.749.000,00
+
+2.658.000,00
+
+235.000,00
+
+38.000,00
+
+0,00
+
+0,00
+
+640.000,00
+
+960.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+164.800,00
+
+0,00
+
+0,00
+
+0,00
+
+340.500,00
+
+0,00
+
+915.000,00
+
+1.307.000,00
+
+222.000,00
+
+57.000,00
+
+10.000,00
+
+11.000,00
+
+144.000,00
+
+1.085.000,00
+
+275.000,00
+
+
+Página: 44
+
+P - P4.2.2 - Elaboração do Plano Local de Mobilidade Limpa Municipal
+
+P - P4.2.3 - Trabalho Técnico Social (TTS)
+
+C - C5: OLHAR PARA A GESTÃO
+
+P - P5.1 - Apoio à Unidade Executora do Programa
+
+P - P5.2 - Supervisão de Obras
+
+P - P5.3 - Auditoria Externa
+
+P - P5.4 - Montagem de escritório e aquisição de equipamentos
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+630.000,00
+
+180.000,00
+
+2.079.100,00
+
+800.000,00
+
+1.200.000,00
+
+37.500,00
+
+41.600,00
+
+0,00
+
+2.907.000,00
+
+18.403.400,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+C - C1: OLHAR PARA O PASSADO: TRATAMENTO DE PASSIVOS AMBIENTAIS - O PARQUE
+ATERRO
+S - S1.1 - IMPLANTAÇÃO DO PARQUE ATERRO
+
+COMPONENTES
+
+P - P1.1.1 - Elaboração do projeto executivo do Parque Aterro
+
+P - P1.1.2 - Implantação da obra do Parque Aterro
+
+S - S1.2 - GERAÇÃO DE ENERGIA RENOVÁVEL: USINAS FOTOVOLTAICAS DO PARQUE
+ATERRO
+P - P1.2.1 - Elaboração do projeto técnico para parque fotovoltaico na área do antigo Aterro
+Sanitário
+C - C2: OLHAR PARA O PRESENTE: ADAPTAÇÃO ÀS MUDANÇAS CLIMÁTICAS
+
+S - S2.1 - PARQUES URBANOS
+
+P - P2.1.1 - Atualização do projeto executivo de requalificação do Parque Guilherme Lage
+
+P - P2.1.2 - Implantação das obras de requalificação do Parque Guilherme Lage
+
+P - P2.1.3 - Desapropriação para a requalificação do Parque Guilherme Lage
+
+P - P.2.1.4 - Elaboração de projeto executivo e implantação do Parque da Lagoinha: setores
+complementares
+S - S2.2 - INFRAESTRUTURA VERDE E AZUL
+
+P - P2.2.1 - Recuperação Ambiental de áreas delimitadas como conexão de fundo de vale com
+requalificação de córregos e nascentes de Áreas na bacia do Onça, Arrudas e Izidora
+P - P2.2.2 - Plantio em Áreas Verdes e Logradouros Públicos, com ênfase em conexões verdes
+do Plano Diretor
+P - P2.2.3 - Implementação/Recuperação de áreas verdes degradadas em regiões com menor
+índice de áreas protegidas
+P - P2.2.4 - Implantação do sistema de drenagem e selamento de células de resíduos, no Parque
+Aterro
+C - C3: OLHAR PARA O FUTURO: AS CENTRALIDADES COMO UM NOVO MODELO DE
+SUSTENTABILIDADE AMBIENTAL NOS DESLOCAMENTOS URBANOS
+P - P3.1 - Desenvolvimento de Infraestrutura Urbana Sustentável para Mobilidade Ativa e Lazer
+
+P - P3.2 - Reforma da Estação Diamante de Transporte Coletivo
+
+P - P3.3 - Melhoria do acesso à Estação de Metrô Waldomiro Lobo
+
+P - P3.4 -  Implementação de SbN para Drenagem Urbana Sustentável e para implantação de
+Refúgios Climáticos
+P - P3.5 - Melhoria e ampliação da infraestrutura para rede de coleta seletiva
+
+P - P3.6 - Desapropriação para implantação de habitação de interesse social e equipamento para
+populações de baixa renda e vulneráveis
+P - P3.7 - Produção de unidades habitacionais para populações de baixa renda e vulneráveis,
+com parâmetros do Programa de Certificação Ambiental de Belo Horizonte
+P - P3.8 - Implantação de equipamento social de cultura, lazer, esporte, educação e tecnologia,
+com produção de energia fotovoltaica
+P - P3.9 - Implantação de quiosques e espaços para feiras
+
+P - P3.10 - Elaboração de Projetos de Engenharia, Arquitetura, Urbanismo e complementares
+para áreas das centralidades
+P - P.3.11 - Desapropriação de ferros velhos para implantação de habitação de interesse social,
+via convênio urbanístico, junto ao Parque da Lagoinha
+C - C4: OLHAR PARA AS PESSOAS E PARA O FORTALECIMENTO INSTITUCIONAL
+
+S - S4.1 DESENVOLVIMENTO ECONÔMICO E GERAÇÃO DE TRABALHO E RENDA
+
+P - P4.1.1 - Capacitação de mão de obra vulnerável e de baixa renda e inclusão em ações de
+emprego e renda voltadas à manutenção das infraestruturas verdes de SbN
+P - P4.1.2 - Realização de oficinas de Desenvolvimento Econômico Local (DEL) e suas cinco
+dimensões
+P - P4.1.3 - Reestruturação da Usina Escola na Escola Profissionalizante Raimunda da Silva
+Soares
+P - P4.1.4 - Mulheres na Obra
+
+S - S4.2 - DESENVOLVIMENTO DE PLANOS
+
+P - P4.2.1 - Elaboração de plano com diretrizes para certificação de sustentabilidade ambiental do
+novo bairro do Aeroporto Carlos Prates
+P - P4.2.2 - Elaboração do Plano Local de Mobilidade Limpa Municipal
+
+P - P4.2.3 - Trabalho Técnico Social (TTS)
+
+C - C5: OLHAR PARA A GESTÃO
+
+P - P5.1 - Apoio à Unidade Executora do Programa
+
+P - P5.2 - Supervisão de Obras
+
+P - P5.3 - Auditoria Externa
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+BID
+
+0,00
+
+1.876.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.876.000,00
+
+0,00
+
+1.876.000,00
+
+0,00
+
+0,00
+
+105.000,00
+
+8.103.000,00
+
+105.000,00
+
+2.559.000,00
+
+0,00
+
+0,00
+
+0,00
+
+1.759.000,00
+
+105.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+800.000,00
+
+5.544.000,00
+
+1.260.000,00
+
+648.000,00
+
+612.000,00
+
+0,00
+
+3.024.000,00
+
+3.838.000,00
+
+13.140.700,00
+
+0,00
+
+7.345.000,00
+
+235.000,00
+
+38.000,00
+
+0,00
+
+0,00
+
+0,00
+
+2.000.000,00
+
+0,00
+
+247.200,00
+
+3.565.000,00
+
+0,00
+
+0,00
+
+1.200.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+866.000,00
+
+567.500,00
+
+0,00
+
+915.000,00
+
+567.000,00
+
+222.000,00
+
+57.000,00
+
+10.000,00
+
+11.000,00
+
+144.000,00
+
+345.000,00
+
+165.000,00
+
+0,00
+
+180.000,00
+
+1.637.500,00
+
+800.000,00
+
+800.000,00
+
+37.500,00
+
+
+Página: 45
+
+P - P5.4 - Montagem de escritório e aquisição de equipamentos
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+0,00
+
+0,00
+
+3.943.000,00
+
+25.324.200,00
+
+0,00
+
+0,00
+
+C - C1: OLHAR PARA O PASSADO: TRATAMENTO DE PASSIVOS AMBIENTAIS - O PARQUE
+ATERRO
+S - S1.1 - IMPLANTAÇÃO DO PARQUE ATERRO
+
+COMPONENTES
+
+P - P1.1.1 - Elaboração do projeto executivo do Parque Aterro
+
+P - P1.1.2 - Implantação da obra do Parque Aterro
+
+S - S1.2 - GERAÇÃO DE ENERGIA RENOVÁVEL: USINAS FOTOVOLTAICAS DO PARQUE
+ATERRO
+P - P1.2.1 - Elaboração do projeto técnico para parque fotovoltaico na área do antigo Aterro
+Sanitário
+C - C2: OLHAR PARA O PRESENTE: ADAPTAÇÃO ÀS MUDANÇAS CLIMÁTICAS
+
+S - S2.1 - PARQUES URBANOS
+
+P - P2.1.1 - Atualização do projeto executivo de requalificação do Parque Guilherme Lage
+
+P - P2.1.2 - Implantação das obras de requalificação do Parque Guilherme Lage
+
+P - P2.1.3 - Desapropriação para a requalificação do Parque Guilherme Lage
+
+P - P.2.1.4 - Elaboração de projeto executivo e implantação do Parque da Lagoinha: setores
+complementares
+S - S2.2 - INFRAESTRUTURA VERDE E AZUL
+
+P - P2.2.1 - Recuperação Ambiental de áreas delimitadas como conexão de fundo de vale com
+requalificação de córregos e nascentes de Áreas na bacia do Onça, Arrudas e Izidora
+P - P2.2.2 - Plantio em Áreas Verdes e Logradouros Públicos, com ênfase em conexões verdes
+do Plano Diretor
+P - P2.2.3 - Implementação/Recuperação de áreas verdes degradadas em regiões com menor
+índice de áreas protegidas
+P - P2.2.4 - Implantação do sistema de drenagem e selamento de células de resíduos, no Parque
+Aterro
+C - C3: OLHAR PARA O FUTURO: AS CENTRALIDADES COMO UM NOVO MODELO DE
+SUSTENTABILIDADE AMBIENTAL NOS DESLOCAMENTOS URBANOS
+P - P3.1 - Desenvolvimento de Infraestrutura Urbana Sustentável para Mobilidade Ativa e Lazer
+
+P - P3.2 - Reforma da Estação Diamante de Transporte Coletivo
+
+P - P3.3 - Melhoria do acesso à Estação de Metrô Waldomiro Lobo
+
+P - P3.4 -  Implementação de SbN para Drenagem Urbana Sustentável e para implantação de
+Refúgios Climáticos
+P - P3.5 - Melhoria e ampliação da infraestrutura para rede de coleta seletiva
+
+P - P3.6 - Desapropriação para implantação de habitação de interesse social e equipamento para
+populações de baixa renda e vulneráveis
+P - P3.7 - Produção de unidades habitacionais para populações de baixa renda e vulneráveis,
+com parâmetros do Programa de Certificação Ambiental de Belo Horizonte
+P - P3.8 - Implantação de equipamento social de cultura, lazer, esporte, educação e tecnologia,
+com produção de energia fotovoltaica
+P - P3.9 - Implantação de quiosques e espaços para feiras
+
+P - P3.10 - Elaboração de Projetos de Engenharia, Arquitetura, Urbanismo e complementares
+para áreas das centralidades
+P - P.3.11 - Desapropriação de ferros velhos para implantação de habitação de interesse social,
+via convênio urbanístico, junto ao Parque da Lagoinha
+C - C4: OLHAR PARA AS PESSOAS E PARA O FORTALECIMENTO INSTITUCIONAL
+
+S - S4.1 DESENVOLVIMENTO ECONÔMICO E GERAÇÃO DE TRABALHO E RENDA
+
+P - P4.1.1 - Capacitação de mão de obra vulnerável e de baixa renda e inclusão em ações de
+emprego e renda voltadas à manutenção das infraestruturas verdes de SbN
+P - P4.1.2 - Realização de oficinas de Desenvolvimento Econômico Local (DEL) e suas cinco
+dimensões
+P - P4.1.3 - Reestruturação da Usina Escola na Escola Profissionalizante Raimunda da Silva
+Soares
+P - P4.1.4 - Mulheres na Obra
+
+S - S4.2 - DESENVOLVIMENTO DE PLANOS
+
+P - P4.2.1 - Elaboração de plano com diretrizes para certificação de sustentabilidade ambiental do
+novo bairro do Aeroporto Carlos Prates
+P - P4.2.2 - Elaboração do Plano Local de Mobilidade Limpa Municipal
+
+P - P4.2.3 - Trabalho Técnico Social (TTS)
+
+C - C5: OLHAR PARA A GESTÃO
+
+P - P5.1 - Apoio à Unidade Executora do Programa
+
+P - P5.2 - Supervisão de Obras
+
+P - P5.3 - Auditoria Externa
+
+P - P5.4 - Montagem de escritório e aquisição de equipamentos
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - C1: OLHAR PARA O PASSADO: TRATAMENTO DE PASSIVOS AMBIENTAIS - O PARQUE
+ATERRO
+S - S1.1 - IMPLANTAÇÃO DO PARQUE ATERRO
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+BID
+
+0,00
+
+2.814.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+2.814.000,00
+
+0,00
+
+2.814.000,00
+
+0,00
+
+0,00
+
+3.320.000,00
+
+800.000,00
+
+0,00
+
+0,00
+
+0,00
+
+800.000,00
+
+2.520.000,00
+
+1.260.000,00
+
+648.000,00
+
+612.000,00
+
+0,00
+
+3.565.000,00
+
+8.002.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.565.000,00
+
+2.938.000,00
+
+0,00
+
+0,00
+
+400.000,00
+
+0,00
+
+0,00
+
+0,00
+
+2.400.000,00
+
+0,00
+
+1.732.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+227.000,00
+
+0,00
+
+305.000,00
+
+402.000,00
+
+222.000,00
+
+57.000,00
+
+10.000,00
+
+11.000,00
+
+144.000,00
+
+180.000,00
+
+0,00
+
+0,00
+
+180.000,00
+
+1.637.500,00
+
+800.000,00
+
+800.000,00
+
+37.500,00
+
+0,00
+
+0,00
+
+3.565.000,00
+
+16.175.500,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+BID
+
+0,00
+
+1.876.000,00
+
+0,00
+
+1.876.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+
+Página: 46
+
+P - P1.1.1 - Elaboração do projeto executivo do Parque Aterro
+
+P - P1.1.2 - Implantação da obra do Parque Aterro
+
+S - S1.2 - GERAÇÃO DE ENERGIA RENOVÁVEL: USINAS FOTOVOLTAICAS DO PARQUE
+ATERRO
+P - P1.2.1 - Elaboração do projeto técnico para parque fotovoltaico na área do antigo Aterro
+Sanitário
+C - C2: OLHAR PARA O PRESENTE: ADAPTAÇÃO ÀS MUDANÇAS CLIMÁTICAS
+
+S - S2.1 - PARQUES URBANOS
+
+P - P2.1.1 - Atualização do projeto executivo de requalificação do Parque Guilherme Lage
+
+P - P2.1.2 - Implantação das obras de requalificação do Parque Guilherme Lage
+
+P - P2.1.3 - Desapropriação para a requalificação do Parque Guilherme Lage
+
+P - P.2.1.4 - Elaboração de projeto executivo e implantação do Parque da Lagoinha: setores
+complementares
+S - S2.2 - INFRAESTRUTURA VERDE E AZUL
+
+P - P2.2.1 - Recuperação Ambiental de áreas delimitadas como conexão de fundo de vale com
+requalificação de córregos e nascentes de Áreas na bacia do Onça, Arrudas e Izidora
+P - P2.2.2 - Plantio em Áreas Verdes e Logradouros Públicos, com ênfase em conexões verdes
+do Plano Diretor
+P - P2.2.3 - Implementação/Recuperação de áreas verdes degradadas em regiões com menor
+índice de áreas protegidas
+P - P2.2.4 - Implantação do sistema de drenagem e selamento de células de resíduos, no Parque
+Aterro
+C - C3: OLHAR PARA O FUTURO: AS CENTRALIDADES COMO UM NOVO MODELO DE
+SUSTENTABILIDADE AMBIENTAL NOS DESLOCAMENTOS URBANOS
+P - P3.1 - Desenvolvimento de Infraestrutura Urbana Sustentável para Mobilidade Ativa e Lazer
+
+P - P3.2 - Reforma da Estação Diamante de Transporte Coletivo
+
+P - P3.3 - Melhoria do acesso à Estação de Metrô Waldomiro Lobo
+
+P - P3.4 -  Implementação de SbN para Drenagem Urbana Sustentável e para implantação de
+Refúgios Climáticos
+P - P3.5 - Melhoria e ampliação da infraestrutura para rede de coleta seletiva
+
+P - P3.6 - Desapropriação para implantação de habitação de interesse social e equipamento para
+populações de baixa renda e vulneráveis
+P - P3.7 - Produção de unidades habitacionais para populações de baixa renda e vulneráveis,
+com parâmetros do Programa de Certificação Ambiental de Belo Horizonte
+P - P3.8 - Implantação de equipamento social de cultura, lazer, esporte, educação e tecnologia,
+com produção de energia fotovoltaica
+P - P3.9 - Implantação de quiosques e espaços para feiras
+
+P - P3.10 - Elaboração de Projetos de Engenharia, Arquitetura, Urbanismo e complementares
+para áreas das centralidades
+P - P.3.11 - Desapropriação de ferros velhos para implantação de habitação de interesse social,
+via convênio urbanístico, junto ao Parque da Lagoinha
+C - C4: OLHAR PARA AS PESSOAS E PARA O FORTALECIMENTO INSTITUCIONAL
+
+S - S4.1 DESENVOLVIMENTO ECONÔMICO E GERAÇÃO DE TRABALHO E RENDA
+
+P - P4.1.1 - Capacitação de mão de obra vulnerável e de baixa renda e inclusão em ações de
+emprego e renda voltadas à manutenção das infraestruturas verdes de SbN
+P - P4.1.2 - Realização de oficinas de Desenvolvimento Econômico Local (DEL) e suas cinco
+dimensões
+P - P4.1.3 - Reestruturação da Usina Escola na Escola Profissionalizante Raimunda da Silva
+Soares
+P - P4.1.4 - Mulheres na Obra
+
+S - S4.2 - DESENVOLVIMENTO DE PLANOS
+
+P - P4.2.1 - Elaboração de plano com diretrizes para certificação de sustentabilidade ambiental do
+novo bairro do Aeroporto Carlos Prates
+P - P4.2.2 - Elaboração do Plano Local de Mobilidade Limpa Municipal
+
+P - P4.2.3 - Trabalho Técnico Social (TTS)
+
+C - C5: OLHAR PARA A GESTÃO
+
+P - P5.1 - Apoio à Unidade Executora do Programa
+
+P - P5.2 - Supervisão de Obras
+
+P - P5.3 - Auditoria Externa
+
+P - P5.4 - Montagem de escritório e aquisição de equipamentos
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+C - C1: OLHAR PARA O PASSADO: TRATAMENTO DE PASSIVOS AMBIENTAIS - O PARQUE
+ATERRO
+S - S1.1 - IMPLANTAÇÃO DO PARQUE ATERRO
+
+COMPONENTES
+
+P - P1.1.1 - Elaboração do projeto executivo do Parque Aterro
+
+P - P1.1.2 - Implantação da obra do Parque Aterro
+
+S - S1.2 - GERAÇÃO DE ENERGIA RENOVÁVEL: USINAS FOTOVOLTAICAS DO PARQUE
+ATERRO
+P - P1.2.1 - Elaboração do projeto técnico para parque fotovoltaico na área do antigo Aterro
+Sanitário
+C - C2: OLHAR PARA O PRESENTE: ADAPTAÇÃO ÀS MUDANÇAS CLIMÁTICAS
+
+S - S2.1 - PARQUES URBANOS
+
+P - P2.1.1 - Atualização do projeto executivo de requalificação do Parque Guilherme Lage
+
+P - P2.1.2 - Implantação das obras de requalificação do Parque Guilherme Lage
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.876.000,00
+
+0,00
+
+0,00
+
+3.320.000,00
+
+800.000,00
+
+0,00
+
+0,00
+
+0,00
+
+800.000,00
+
+2.520.000,00
+
+1.260.000,00
+
+648.000,00
+
+612.000,00
+
+0,00
+
+3.565.000,00
+
+3.099.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.565.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.800.000,00
+
+0,00
+
+1.299.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+201.000,00
+
+111.000,00
+
+28.500,00
+
+5.000,00
+
+5.500,00
+
+72.000,00
+
+90.000,00
+
+0,00
+
+0,00
+
+90.000,00
+
+818.750,00
+
+400.000,00
+
+400.000,00
+
+18.750,00
+
+0,00
+
+0,00
+
+3.565.000,00
+
+9.314.750,00
+
+0,00
+
+0,00
+
+VALOR
+
+CUSTO
+
+Ano 6
+
+FONTES
+
+CF
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+BID
+938.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BID
+
+880.000,00
+
+9.380.000,00
+
+938.000,00
+
+380.000,00
+
+9.380.000,00
+
+0,00
+
+380.000,00
+
+0,00
+
+938.000,00
+
+0,00
+
+9.380.000,00
+
+0,00
+
+0,00
+
+500.000,00
+
+500.000,00
+
+0,00
+
+0,00
+
+400.000,00
+
+425.000,00
+
+27.678.000,00
+
+400.000,00
+
+425.000,00
+
+7.518.000,00
+
+0,00
+
+0,00
+
+75.000,00
+
+0,00
+
+0,00
+
+3.518.000,00
+
+
+Página: 47
+
+P - P2.1.3 - Desapropriação para a requalificação do Parque Guilherme Lage
+
+P - P.2.1.4 - Elaboração de projeto executivo e implantação do Parque da Lagoinha: setores
+complementares
+S - S2.2 - INFRAESTRUTURA VERDE E AZUL
+
+P - P2.2.1 - Recuperação Ambiental de áreas delimitadas como conexão de fundo de vale com
+requalificação de córregos e nascentes de Áreas na bacia do Onça, Arrudas e Izidora
+P - P2.2.2 - Plantio em Áreas Verdes e Logradouros Públicos, com ênfase em conexões verdes
+do Plano Diretor
+P - P2.2.3 - Implementação/Recuperação de áreas verdes degradadas em regiões com menor
+índice de áreas protegidas
+P - P2.2.4 - Implantação do sistema de drenagem e selamento de células de resíduos, no Parque
+Aterro
+C - C3: OLHAR PARA O FUTURO: AS CENTRALIDADES COMO UM NOVO MODELO DE
+SUSTENTABILIDADE AMBIENTAL NOS DESLOCAMENTOS URBANOS
+P - P3.1 - Desenvolvimento de Infraestrutura Urbana Sustentável para Mobilidade Ativa e Lazer
+
+P - P3.2 - Reforma da Estação Diamante de Transporte Coletivo
+
+P - P3.3 - Melhoria do acesso à Estação de Metrô Waldomiro Lobo
+
+P - P3.4 -  Implementação de SbN para Drenagem Urbana Sustentável e para implantação de
+Refúgios Climáticos
+P - P3.5 - Melhoria e ampliação da infraestrutura para rede de coleta seletiva
+
+P - P3.6 - Desapropriação para implantação de habitação de interesse social e equipamento para
+populações de baixa renda e vulneráveis
+P - P3.7 - Produção de unidades habitacionais para populações de baixa renda e vulneráveis,
+com parâmetros do Programa de Certificação Ambiental de Belo Horizonte
+P - P3.8 - Implantação de equipamento social de cultura, lazer, esporte, educação e tecnologia,
+com produção de energia fotovoltaica
+P - P3.9 - Implantação de quiosques e espaços para feiras
+
+P - P3.10 - Elaboração de Projetos de Engenharia, Arquitetura, Urbanismo e complementares
+para áreas das centralidades
+P - P.3.11 - Desapropriação de ferros velhos para implantação de habitação de interesse social,
+via convênio urbanístico, junto ao Parque da Lagoinha
+C - C4: OLHAR PARA AS PESSOAS E PARA O FORTALECIMENTO INSTITUCIONAL
+
+S - S4.1 DESENVOLVIMENTO ECONÔMICO E GERAÇÃO DE TRABALHO E RENDA
+
+P - P4.1.1 - Capacitação de mão de obra vulnerável e de baixa renda e inclusão em ações de
+emprego e renda voltadas à manutenção das infraestruturas verdes de SbN
+P - P4.1.2 - Realização de oficinas de Desenvolvimento Econômico Local (DEL) e suas cinco
+dimensões
+P - P4.1.3 - Reestruturação da Usina Escola na Escola Profissionalizante Raimunda da Silva
+Soares
+P - P4.1.4 - Mulheres na Obra
+
+S - S4.2 - DESENVOLVIMENTO DE PLANOS
+
+P - P4.2.1 - Elaboração de plano com diretrizes para certificação de sustentabilidade ambiental do
+novo bairro do Aeroporto Carlos Prates
+P - P4.2.2 - Elaboração do Plano Local de Mobilidade Limpa Municipal
+
+P - P4.2.3 - Trabalho Técnico Social (TTS)
+
+C - C5: OLHAR PARA A GESTÃO
+
+P - P5.1 - Apoio à Unidade Executora do Programa
+
+P - P5.2 - Supervisão de Obras
+
+P - P5.3 - Auditoria Externa
+
+P - P5.4 - Montagem de escritório e aquisição de equipamentos
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+350.000,00
+
+0,00
+
+400.000,00
+
+0,00
+
+4.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+20.160.000,00
+
+6.300.000,00
+
+0,00
+
+3.240.000,00
+
+0,00
+
+3.060.000,00
+
+0,00
+
+7.560.000,00
+
+3.565.000,00
+
+1.033.000,00
+
+18.695.000,00
+
+31.228.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.565.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.749.000,00
+
+12.941.000,00
+
+470.000,00
+
+76.000,00
+
+0,00
+
+0,00
+
+640.000,00
+
+3.360.000,00
+
+0,00
+
+412.000,00
+
+14.260.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+600.000,00
+
+0,00
+
+6.000.000,00
+
+433.000,00
+
+0,00
+
+4.330.000,00
+
+0,00
+
+0,00
+
+0,00
+
+201.000,00
+
+111.000,00
+
+28.500,00
+
+5.000,00
+
+5.500,00
+
+72.000,00
+
+90.000,00
+
+0,00
+
+0,00
+
+90.000,00
+
+818.750,00
+
+400.000,00
+
+400.000,00
+
+18.750,00
+
+0,00
+
+0,00
+
+1.135.000,00
+
+1.500.000,00
+
+0,00
+
+0,00
+
+3.050.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+3.460.000,00
+
+1.110.000,00
+
+285.000,00
+
+50.000,00
+
+55.000,00
+
+720.000,00
+
+2.350.000,00
+
+550.000,00
+
+900.000,00
+
+900.000,00
+
+8.254.000,00
+
+4.000.000,00
+
+4.000.000,00
+
+150.000,00
+
+104.000,00
+
+100.000.000,00
+
+3.565.000,00
+
+3.390.750,00
+
+20.000.000,00
+
+80.000.000,00
+
+I - Atos Legais necessários para a implementação do Programa/projeto, (leis, decretos, convênios, contratos, regimentos etc.) e em que
+estágio se encontram
+
+Como é de amplo conhecimento a efetivação dos contratos de financiamentos dessa natureza junto ao BID depende de autorização do
+Poder Legislativo do Município.
+
+Quanto à aplicação de normas e procedimentos para aquisição, lastreadas nas metodologias determinadas por organismos financiadores
+internacionais, o conteúdo do Projeto de Lei não trará inovações que comprometam o entendimento jurisprudencial até então consolidado.
+
+II -  Riscos e as ações mitigadoras
+
+O alinhamento das propostas incluídas no Programa com as políticas públicas municipais, grande parte delas objeto de ampla discussão
+na Câmara Municipal, constitui indicativo favorável à sua aprovação pela casa legislativa. Ainda, cabe destacar que a Câmara Municipal
+tem assento no Conselho Municipal de Política Urbana, fórum responsável pela definição de diretrizes e de critérios de priorização para
+investimentos nas centralidades, consolidadas na DN/COMPUR 01/2021. Configura-se, portanto, contexto favorável à aprovação.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 48
+
+O citado alinhamento do Programa com as políticas instituídas e em vigor no Município, notadamente no que diz respeito ao planejamento
+urbano, à mobilidade urbana e aos impactos ambientais, implica ausência de risco de confronto entre as propostas e a normativa vigente -
+ao contrário, há um integral respaldo das ações previstas na legislação municipal.
+
+Em porções específicas dos territórios objeto de intervenção, é necessário considerar a existência de sobreposição de atribuições com
+outros entes públicos e privados, como por exemplo, nas áreas de domínio da CBTU ao longo das estações e linhas de metrô. Dito isso,
+as ações do Programa deverão ser precedidas de alinhamento entre os entes, com formalizações institucionais por meio de convênios,
+contratos ou instrumentos similares, para definição de responsabilidades e limites de atuação. A partir da definição das áreas abarcadas
+pelos projetos, os acordos institucionais serão estabelecidos anteriormente ao início de obras. Destaca-se que este tipo de celebração de
+acordo constitui procedimento rotineiro no município, via Sudecap e Urbel, agências que integram a UEP, com inúmeros termos já
+pactuados em intervenções similares às propostas.
+
+Deve-se destacar que as propostas do Programa são lastreadas por amplos e constantes processos de discussão pública. Estes
+abarcaram tanto o macroplanejamento e, mais especificamente, a definição das áreas de centralidades e a destinação de recursos para
+sua qualificação - notadamente no âmbito da Conferência Municipal de Política Urbana (evento quadrienal com a atribuição de revisão do
+Plano Diretor do Município) e dos debates do Compur - quanto à escala local, no que diz respeito à forma de efetivação das diretrizes
+gerais no contexto de cada centralidade. Esse contexto, associado às ações do trabalho técnico social previsto, minimiza
+significativamente os riscos relacionados à eventual resistência da população residente nas áreas objeto de intervenção.
+
+Ressalta-se ainda que a Lei Orgânica Municipal, no seu artigo 151, inciso VI, acerca dos "termos resultantes de aterros sanitários" ampara
+a transformação da área da CTRS BR-040 em parque, assim como a Lei nº 14.026, de 15 de julho  de 2020, referente à atualização do
+marco legal do saneamento, que exige que novos usos sejam programados para as áreas que foram utilizadas para a disposição de
+Resíduos Sólidos Urbanos - RSU após seu fechamento. Tais normativas reafirmam a aderência das ações do Programa no contexto das
+políticas municipais.
+
+Por fim, ressalta-se que algumas ações são implementadas através de parcerias com a sociedade civil e demandam, portanto, algum
+instrumento de formalização.  As Oficinas DEL, por exemplo, são promovidas por meio de convênio entre a Secretaria Municipal de
+Desenvolvimento Econômico, que funciona como coordenadora do projeto, e o Sebrae MG, que fornece a metodologia e as capacitações.
+No entanto, a formalização de parcerias como esta são corriqueiras no cotidiano da prefeitura e, portanto, são viabilizadas com bastante
+agilidade.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+I - Principais contratações previstas
+
+No que se refere aos projetos e obras previstos no Programa, as principais contratações necessárias serão: serviços de consultoria para
+elaboração de estudos-chave; serviços de consultoria para acompanhamento dos processos de licenciamento necessários; serviços de
+consultoria para elaboração, revisão, detalhamento dos projetos e execução das obras, sejam elas de urbanização, de unidades
+habitacionais, de equipamentos sociais e/ou comunitários, ou mesmo de parcelamento do solo; e serviços de consultoria para apoio ao
+gerenciamento do Projeto. Cabe destacar que a equipe da PBH, e notadamente a SUDECAP, agência que integra a UEP (tal qual
+detalhado no arranjo institucional proposto) tem ampla experiência e capacidade na gestão de contratos de desenvolvimento de projetos e
+execução de obras públicas de infraestrutura (pavimentação,  saneamento, habitação e mobilidade).
+
+Também será necessária a contratação de consultorias especializadas para a elaboração dos planos, para o desenvolvimento das ações
+de capacitação e também para a realização das ações afetas ao trabalho técnico social. Nesse sentido, será essencial a contratação de
+consultorias especializadas para as ações de comunicação social e mobilização necessárias ao sucesso do Programa.
+
+No âmbito do Programa, haverá uma série de compras de materiais e equipamentos, sejam materiais construtivos e equipamentos para
+suporte às obras, até mesmo compra de materiais de escritório, equipamentos eletrônicos como computadores, projetores, materiais de
+suporte às oficinas, às capacitações, entre outros. Como estão sendo previstas muitas ações de plantio no âmbito do Programa, há que se
+destacar a necessidade de compra de mudas das espécies previstas nos projetos, bem como todo o material necessário para seu plantio
+e adubação.
+
+Sabe-se que as citadas contratações seguirão os procedimentos de salvaguardas e de licitação do agente financiador, dotadas de
+especificidades de contratação e execução quando comparadas àquelas cotidianamente realizadas pela Administração Municipal. Cabe,
+contudo, destacar a familiaridade das equipes da Prefeitura de Belo Horizonte com tais procedimentos, aprofundada, mais recentemente,
+na preparação dos documentos técnicos e editais de programas de complexidade análoga junto ao Banco Mundial, em fase de
+contratação. O arranjo de licitações é atribuído à UEP / SMOBI, capacitada para conduzir as ações com a agilidade necessária.
+
+Quanto às políticas de aquisição do agente financiador, o Programa utilizará o caderno de "Políticas para aquisição de bens e contratação
+de obras financiadas pelo Banco Interamericano de Desenvolvimento GN-2349-15", assim como demais cadernos disponibilizados no site
+do BID, como diretriz para aquisições de bens e contratações de obras durante a execução do Programa. Cabe registrar que as políticas
+de aquisição do BID são de conhecimento do Município.
+
+II - Previsão de contratação de pessoal para implementação e sustentabilidade do programa/projeto
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 49
+
+No que se refere ao Parque Guilherme Lage, será necessário reforço de pessoal terceirizado e dos insumos necessários à manutenção e
+operação do espaço após a finalização das obras, tendo em vista a ampliação de áreas de uso público e o consequente incremento da
+visitação no parque. Este reforço deverá ser acomodado no custeio da Fundação de Parques Municipais e Zoobotânica, que deve ser
+impactado de forma significativa pelas demandas deste parque. Em um cenário de atendimento ideal, estima-se que o custeio médio para
+o parque possa dobrar, partindo de cerca de R$ 425.000,00 anuais para o dobro disso.
+
+Cumpre-se informar que não está prevista a contratação de pessoal por concurso ou outras vias para compor a equipe da Prefeitura na
+execução ou sustentabilidade do Programa, para as demais ações previstas.
+
+III - Riscos e ações mitigadoras
+
+Para mitigar potenciais riscos relacionados às contratações, as equipes irão desenvolver os Termos de Referência e Editais das principais
+atividades a serem contratadas com antecedência, antes do processo de contratação do empréstimo propriamente dito. Ademais, o
+projeto prevê a contratação de profissionais para apoiar o gerenciamento do projeto e empresas que auxiliem na fiscalização da prestação
+do serviço.
+
+Há risco de que os licenciamentos necessários aos projetos e obras se estendam além do cronograma previsto em itens anteriores, em
+função de eventual demora na apreciação e aprovação dos mesmos nos órgãos licenciadores e/ou nos conselhos pertinentes às
+temáticas. A mitigação deste risco se dá através do desenvolvimento dos projetos em conjunto com os órgãos licenciadores, antecipando
+as suas demandas e adequações necessárias à aprovação.
+
+O município conta também com a atuação da Diretoria de Transparência, Auditoria e Controle da Secretaria Municipal de Finanças, que
+promoverá ações com vistas a inibir a participação de empresas financeiramente incapazes na etapa de licitação.
+
+Em relação à qualidade na execução e acompanhamento das obras, a Secretaria Municipal de Obras e Infraestrutura atuará com sua
+equipe de técnicos, que serão assistidos por empresa especializada em consultoria (supervisora de obras), diminuindo com isso os riscos
+na etapa de execução, assim como também trará maior agilidade nos procedimentos de desembolsos junto a instituição financeira.
+
+No que diz respeito às ações que demandam plantio, existe o risco da não disponibilidade de material ou espécies previstas no projeto no
+mercado. A falta de fornecedores de espécies nativas apropriadas para as áreas de nascentes, brejos e cursos d'água, especificamente,
+espécies de herbáceas, gramíneas, espécies pioneiras também é um risco mapeado. Para mitigar tais riscos, serão realizadas ações de
+estímulo ao mercado produtor de espécies e serviços de plantio e manutenção, por meio de feiras e encontros temáticos, para apresentar
+os projetos e instrumentos de acesso, contratos e parcerias.
+
+Considerando o prazo de implementação do projeto, existe o risco de descontinuidade de procedimentos administrativos principalmente ao
+se considerar a realização de eleições e troca de pessoal em cargos de decisão. Este risco deve ser tratado com a consolidação do
+projeto em documentos que expressem as ações de governança, bem como o compromisso da prefeitura com o Programa enquanto
+política pública.
+
+Há ainda riscos de que restrições orçamentárias nos próximos anos prejudiquem o aporte dos recursos necessários à operação de alguns
+espaços, como parques e praças, após a finalização das obras, expondo-os a vandalismos e deteriorações de suas estruturas. Pretende-
+se mitigar esses riscos através de algumas iniciativas paralelas e complementares entre si, algumas já em andamento independentemente
+do sucesso da proposta em discussão.
+
+- Reforço das dotações necessárias ao manejo arbóreo, paisagístico e manutenção civil das unidades da FPMZB: já está em
+orçamentação, em conjunto com a SMOBI, a contratação de novos contratos de manutenção para as unidades da FPMZB, reforçando os
+recursos disponíveis para a sua manutenção;
+
+- Inclusão, no próximo PPAG (2026-2030), dos programas e ações específicos necessários aos reforços de custeio relacionados aos
+espaços públicos nos próximos anos: aproveitando-se o fato de que estamos entrando no último ano do PPAG vigente, há tempo hábil
+suficiente para replanejar os instrumentos orçamentários do Município para acomodar a chegada das novas infraestruturas e das
+demandas adicionais por elas geradas, caso se viabilize os empreendimentos aqui propostos;
+
+- Adoções e parcerias com entes privados: a PBH possui programas de adoção de espaços públicos por parceiros privados que possuam
+interesse em sua manutenção, a exemplo do Programa Adoro BH e Adote um Jardim de Chuva. As intervenções de qualificação
+urbanística dos espaços públicos têm o potencial de alavancar esses investimentos privados, tornando esses espaços mais atrativos para
+adotantes e parceiros capazes de amenizar o impacto orçamentário de longo prazo.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+As intervenções propostas pelo Programa na centralidade Waldomiro Lobo, voltada para a implantação de equipamentos públicos e
+unidades habitacionais de interesse social, demandam a desapropriação de 3 áreas de propriedade privada, totalizando aproximadamente
+23.191,60m² de terreno. Em geral, são áreas que apresentam edificações subutilizadas, com elevado grau de degradação, e situações de
+irregularidades, cabendo, ainda, a utilização dos instrumentos do Estatuto da Cidade para garantir os princípios constitucionais da função
+social da propriedade. Parte das áreas são de domínio público e foram objeto de desapropriação em processos anteriores de intervenção
+viária.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 50
+
+A intervenção na Rua Padre José Alves (antiga Rua Angola), necessária ao projeto de requalificação do Parque Guilherme Lage, prevê a
+remoção de 4 edificações situadas imediatamente ao lado da entrada principal do parque, com o objetivo de aumentar a visibilidade e
+atratividade do parque para os visitantes. Reconhece-se a potencial dificuldade que a presença dessas remoções pode causar ao projeto,
+mas entende-se que se trata de um risco de baixa gravidade, por dois aspectos:
+
+1- O pequeno número de remoções necessárias e o fato de se inserirem em espaço com zoneamento ZEIS no Plano Diretor, o que coloca
+as famílias removidas dentro da esfera de atuação prioritária da política habitacional do município, dado o seu interesse social;
+
+2- O fato de que as remoções, embora fundamentais para garantir o atendimento de todos os objetivos da intervenção, não constituem
+impedimento insuperável para a reforma do parque caso não possam ser viabilizadas. Em um cenário pessimista, no qual o Município não
+consiga a sua realização em nenhuma hipótese, prazo ou custo razoáveis, não há comprometimento de nenhuma das demais áreas de
+intervenção planejadas, que independem do que ocorrer neste espaço. Ademais, o projeto executivo é suficientemente modular para
+permitir a execução de intervenções excluindo o espaço atualmente ocupado pelas edificações.
+
+O produto "P.3.11 - Desapropriação de ferros velhos para implantação de habitação de interesse social, via convênio urbanístico, junto ao
+Parque da Lagoinha" prevê a desapropriação de imóveis subutilizados, com localização privilegiada, em centralidades regionais, na
+Região da Lagoinha. Estes imóveis estão atualmente ocupados por ferros velhos e, muitos deles, são  frequentemente alvo de ações
+fiscais da Prefeitura em função de irregularidades nas vendas de fios de cobre e materiais metálicos (ver anexo 12). O tipo de uso hoje
+existente nessas áreas gera uma série de conflitos com a população local e tem provável ligação com um grave histórico de receptação de
+materiais originários de furtos de fios de cobre da iluminação pública municipal. Nesse sentido, a proposta da Prefeitura de
+desapropriação desses terrenos para implantação de habitação de interesse social, é bem-vinda do ponto de vista não só da qualidade
+urbanística local, mas também do ponto de vista da fiscalização e da segurança pública. Além disso, o atual uso dos imóveis não compre
+sua função social tal como especificado no Plano Diretor Municipal.
+
+A garantia para a execução das desapropriações necessárias para a liberação integral das áreas requeridas será a Lei de Desapropriação
+por Utilidade Pública, que define as poligonais de intervenção e possibilita assim a utilização de procedimentos jurídicos nos casos em
+que, em não havendo comum acordo entre as partes para que se realize a desapropriação administrativa, seja necessária a
+desapropriação ou desocupação por via judicial.
+
+Na eventualidade da existência de alguns imóveis com título de propriedade, as desapropriações por utilidade pública ou social estão
+devidamente amparadas pela Constituição Federal e as avaliações disciplinadas por normas técnicas da ABNT.
+
+A SMOBI será responsável pelos procedimentos relativos à desapropriação de imóveis e indenizações na centralidade da Waldomiro Lobo
+, incluindo os atos administrativos e ações judiciais correlatos. E a URBEL será responsável pelos mesmos procedimentos na área de
+zoneamento Zeis, no Parque Guilherme Lage.
+
+Como forma de mitigar o risco, o município já possui um plano para efetuar as desapropriações, que será executado a partir do momento
+em que os projetos executivos forem concluídos e definidas precisamente as áreas a serem desapropriadas. Após finalizada a etapa de
+projeto executivo, a Prefeitura Municipal de Belo Horizonte iniciará as tratativas com os proprietários dos lotes.
+
+Cabe registrar que o município dispõe de equipe especializada e grande experiência na realização de desapropriações, bem como proverá
+em seu orçamento os recursos necessários para tal finalidade.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+No que se refere ao Parque-Aterro, é importante destacar que o seu Plano de Manejo prevê a reintegração do passivo ambiental à
+paisagem urbana, por meio da realização do monitoramento das nascentes e cursos d'água, da identificação e controle da fauna, do
+manejo da flora (sob o conceito de restauração de áreas degradadas), dentre outras ações, contribuindo para a mitigação de efeitos
+climáticos extremos. Foram previstos estudos, no âmbito do Plano de Manejo, para a identificação e controle das populações de
+indivíduos da fauna de vertebrados (avifauna, mastofauna, herpetofauna e ictiofauna), assim como para o manejo da flora, incluindo as
+formações nativas remanescentes das matas originais da região, traduzindo-se em importante indicativo da qualidade ambiental e visando
+retomar o aspecto mais próximo do original da área.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 51
+
+Dentre as 7 subáreas mapeadas para o projeto do Parque Aterro, duas se destacam pelo processo de revegetação e recuperação
+ambiental já consolidados, contribuindo para a redução do impacto das altas temperaturas, da má qualidade do ar e dos elevados fluxos
+de água: os serviços ecossistêmicos fornecidos pela a área denominada Lagoa, uma das mais antigas, hoje rodeada por uma densa mata
+e uma trilha já consolidada, e pela Mata dos Eucaliptos, cujo caminho arborizado margeia o curso d'água (córrego das Taiobas). Ambas
+apresentam condições de receber intervenções para apropriação pela população no curto prazo, criando oportunidades de diálogo e
+melhor integração com as comunidades lindeiras, engajando-as na busca por soluções resilientes e sustentáveis para os seus problemas
+diários. Nessas áreas é claramente perceptível, pelos frequentadores do local (principalmente os trabalhadores da SLU), a intensificação
+da presença da fauna nativa, em especial a avifauna, ao longo dos anos.
+
+Na CTRS BR-040 existem áreas de uso restrito, pois demandam manutenção constante e são objeto de monitoramento geotécnico e
+ambiental, além de serem, em sua maioria, áreas onde foram dispostos resíduos ao longo da vida útil do aterro e que, por suas
+características, podem oferecer algum risco caso venham a ser utilizadas pela população e frequentadores das áreas de lazer propostas.
+Para essas áreas, está previsto o isolamento, por meio de cercamento físico, evitando o acesso por pessoas não autorizadas.
+
+O Plano de Manejo indica a necessidade de se realizar estudos no sentido da autossuficiência hídrica e da avaliação da qualidade das
+águas captadas, visando evitar a propagação de contaminantes e poluentes. O Plano de Manejo também prevê a atualização do estudo
+de análise de riscos, de forma a contemplar os planos de contingência e emergência. Somente por meio da manutenção dos
+monitoramentos já realizados é possível determinar a estabilidade geotécnica do aterro desativado (monitoramento geotécnico: recalques,
+níveis piezométricos, inclinômetros) ou se o mesmo não está comprometendo a qualidade ambiental da área de sua influência direta e
+indireta, a exemplo da Lagoa da Pampulha (monitoramento ambiental: líquidos lixiviados, águas superficiais e subterrâneas).
+
+No que se refere à Ampliação da Infraestrutura Verde Azul do município, destaca-se que o Programa visa, exatamente, mitigar os
+impactos ambientais já verificados nos estudos elaborados pela PBH/SMMA, inclusive considerando a implantação de Soluções baseadas
+na Natureza com possibilidade de promover a regeneração de áreas degradadas. A intenção aqui é a de agir proativamente em áreas
+que não estão cumprindo de modo otimizado a prestação de serviços ecossistêmico que, caso permaneçam sem a atenção de uma
+gestão ambiental, podem causar impactos ambientais negativos à região na qual se inserem: degradação ambiental decorrente de
+ocupações e usos irregulares das áreas de nascentes e fundo de vale; deposição clandestina de lixo e entulho em áreas de nascentes e
+fundo de vale; lançamento de esgoto doméstico em áreas de nascentes e fundos de vale; e lançamento de efluentes comerciais e
+industriais em áreas de nascentes e fundos de vale.
+
+Já no que se refere à requalificação do Parque Guilherme Lage, o seu anteprojeto de arquitetura foi analisado e aprovado pelo corpo
+técnico da Secretaria Municipal de Meio Ambiente e pelo plenário do Conselho Municipal de Meio Ambiente, em reunião ordinária no dia
+14 de agosto de 2013 (https://drive.google.com/file/d/1B8vk6yKvEz-vngcsAUguqEtmDgBCmZns/view). Naquele momento, não se
+observaram impactos dignos de nota para a aprovação, dado que o escopo aumenta a quantidade de áreas permeáveis e aprimora as
+condições ambientais do espaço. Agora, pretende-se que a fase de atualização do projeto aprofunde os atributos de sustentabilidade com
+a inclusão de aspectos como o uso de energia solar e, em havendo viabilidade técnica, incorporando carregadores de veículos elétricos
+nos estacionamentos da unidade. Assim sendo, as suas características de sustentabilidade são reforçadas e se mitigam ainda mais as
+possibilidades de problemas para a aprovação do projeto executivo e obras. Não obstante, as demolições e movimentações de material e
+resíduos de construção durante a intervenção são os maiores impactos esperados, bem como algumas supressões de árvores de
+espécies invasoras com interface com a área de intervenção proposta. Como mitigações dos impactos ambientais, propõe-se o
+estabelecimento de plano de comunicação e logística de entrada e saída de materiais e resíduos com ampla divulgação junto à
+comunidade do entorno, e com o objetivo de mitigar os impactos no trânsito local; e a realização de plantios de árvores nativas no terreno
+do parque, em quantidade superior à das supressões eventualmente necessárias, para compensação de quaisquer supressões que
+eventualmente sejam necessárias.
+
+Conforme demonstrado ao longo do presente documento, as demais intervenções objeto do Programa ocorrerão em áreas urbanas já
+consolidadas e estão voltadas justamente para a qualificação urbanístico-ambiental das mesmas, em pleno alinhamento com as
+normativas vigentes e com os conceitos mais atuais aplicados ao desenvolvimento urbano. Tem-se, portanto, que as ações terão impactos
+positivos no contexto em que se inserem, não havendo riscos ambientais e urbanísticos associados às mesmas. Deve-se, contudo,
+considerar eventuais impactos relativos à fase de implantação das intervenções, decorrentes do período de obras, tais como geração de
+poeira e ruído, limitação de acesso de pessoas e veículos em ruas e edificações, interrupções temporárias e pontuais do fornecimento de
+energia elétrica e de abastecimento de água interrupção temporária de água e alterações de trânsito. Nesse contexto, serão
+desenvolvidas ações de comunicação e alinhamento com a população diretamente afetada, de modo a minimizar os incômodos
+associados ao período de implantação das intervenções, garantida a observância das condições impostas pela normativa afeta à matéria.
+
+Ainda, deve-se destacar que as intervenções previstas no Parque Aterro e no Parque Guilherme Lage demandam licenciamento ambiental
+, conforme artigo 344 do Plano Diretor Municipal. Já as intervenções previstas nas demais áreas, de acordo com a legislação municipal
+vigente, não se submetem a processos de licenciamento de impacto, seja urbanístico ou ambiental, uma vez que não se enquadram nas
+hipóteses descritas nos arts. 344 e 345 do Plano Diretor Municipal, dispositivos que regem a matéria.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 52
+
+Quanto às políticas ambientais do agente financiador, o Programa utilizará o Marco de Políticas Ambientais e Sociais (ESPF) como
+diretrizes socioambientais na execução do Programa. O ESPF estabelece padrões de classe internacional a que projetos do BID terão de
+atender para proteger o meio ambiente.
+
+Cabe registrar que as políticas ambientais do BID são de conhecimento do Município.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+O Programa tem como premissa a melhoria da qualidade de vida por meio de ações de requalificação social, urbanística e ambiental nas
+áreas de intervenção. Dito isso, os impactos sociais relativos à sua implantação são positivos, tal como indicado no item 2.11. Projeto/
+Beneficiários. Os principais impactos adversos do Programa seriam, portanto, relativos a eventual ineficiência (ou descumprimento), por
+parte da Prefeitura, em assegurar os direitos ou garantir, em prazos adequados, soluções de melhoria de vida da população habitante na
+área de intervenções.
+
+A proposta do Parque-Aterro está em consonância com o conceito da justiça climática, ao propor ações de recuperação de um passivo
+ambiental vizinho a uma região com Índice de Vulnerabilidade Social - IVS médio de 0,60 (o IVS médio de Belo Horizonte é 0,48). O
+projeto de requalificação do Parque Professor Guilherme Lage atende aos anseios manifestos pela comunidade mais diretamente afetada
+por sua execução, o que está registrado em diversas pesquisas de opinião realizadas no âmbito do levantamento de dados para o
+desenvolvimento do projeto e, mais recentemente, do plano de centralidades do bairro São Paulo. Mais que isso, o projeto foi apresentado
+e aprovado por representantes da comunidade diretamente afetada no Orçamento Participativo 2015/2016. Não obstante, sabe-se que o
+atendimento de seus objetivos envolve a necessidade de algumas desapropriações, ainda que em pequeno número (4 edificações), o que
+se considera como a interferência mais grave sobre a população do bairro. Adicionalmente, por uma questão de segurança é provável que
+o parque seja fechado durante o período das intervenções, resultando em uma interrupção temporária do fluxo de visitantes e pedestres
+no interior da unidade. Para mitigação desses impactos, as remoções devem ser inseridas na política geral de habitação do Município,
+tendo em vista estarem inseridas em áreas de Zeis . Quanto ao fechamento do parque, além do estabelecimento de plano de
+comunicação, deve-se priorizar o redirecionamento de visitantes para unidades próximas, notadamente o Parque Ecológico Renato
+Azeredo, o Parque Fernão Dias e o Parque Goiânia.
+
+Outro aspecto que merece especial atenção são eventuais processos de gentrificação resultantes das intervenções a serem realizadas
+pelo Programa. Acerca desse último ponto, deve-se destacar que a adoção de medidas de combate a eventuais processos de
+gentrificação está inserida no próprio Programa, assim como na política para essas áreas, tal como descrito no Plano Diretor. Nesse
+sentido, há a reserva, por meio do disposto no § 2º do art. 60 do Plano Diretor de 25% (vinte e cinco por cento) da arrecadação
+proveniente da outorga onerosa do direito de construir capturada nas centralidades deverá ser destinados ao Fundo Municipal de
+Habitação para investimento em habitação de interesse social nas centralidades ou em sua vizinhança imediata. Esse dispositivo foi criado
+de forma a inserir as populações de baixa renda e vulneráveis nas áreas que receberão investimentos de qualificação urbanística pelo
+Fundo de Centralidades. Seguindo esta diretriz, o Programa prevê a inserção de habitação de interesse social em pontos de destaque da
+centralidade regional da Waldomiro Lobo, de forma que a população vulnerável e de baixa renda more no ponto central da intervenção
+urbanística de maior porte prevista no Programa.
+
+Também deve-se esclarecer que a Prefeitura de Belo Horizonte está comprometida com o desenvolvimento dos instrumentos para a
+gestão dos riscos sociais de acordo com os princípios, diretrizes e procedimentos do Arcabouço Ambiental e Social do organismo
+multilateral. A UEP contará com especialistas em gestão de riscos e impactos sociais, que estarão capacitados para garantir as condições
+acima.
+
+Quanto às políticas sociais do agente financiador, o Programa utilizará o Marco de Políticas Ambientais e Sociais (ESPF) como diretrizes
+socioambientais na sua execução. O ESPF estabelece padrões de classe internacional a que projetos do BID terão de atender para
+proteger as pessoas e o meio ambiente, além de abranger áreas como gênero e diversidade, engajamento das partes interessadas e
+proteções mais robustas para trabalhadores e comunidades.
+
+O BID é o primeiro banco multilateral de desenvolvimento a estabelecer um padrão específico sobre igualdade de gênero, que inclui
+proteções explícitas para pessoas com diferentes orientações sexuais e identidades de gênero.  Reforça o compromisso do BID em
+relação a gênero e diversidade, conforme descrito na trajetória da Visão 2025 - Guia para auxiliar os países da América Latina e Caribe na
+recuperação econômica dos efeitos da pandemia.
+
+Cabe registrar que as políticas ambientais do BID são de conhecimento do Município.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Não estão previstas ações de reassentamento no Programa, tendo em vista que as desapropriações que ocorrerão no seu âmbito serão
+encaminhadas para tratativas de indenização aos afetados.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 53
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN

@@ -1,0 +1,2201 @@
+# Carta-Consulta CC_61046 — Versao 3 (SIGS)
+
+
+CARTA CONSULTA
+
+PROGRAMA GOIÁS EM MOVIMENTO RECONSTRUÇÃO - BIRD
+
+Nº Carta Consulta: 61046
+Processo: 03101.102961/2023-11
+Mutuário: Estado de Goiás
+Tipo de Operação: Operação de crédito externo
+Data de Recebimento:  1 de Novembro de 2023
+
+Fontes Internas:
+Contrapartida Financeira: US$ 152.000.000,00
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 152.000.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+Goiás localizado no centro do Brasil, possui uma área de 340.243 Km2, equivalente a 4% da extensão territorial do Brasil, desfruta de uma
+localização geográfica privilegiada na região Centro-Oeste. Seu clima é majoritariamente tropical, dividindo-se em duas estações  bem
+definidas e predominantes, variando de semiúmido a semiárido. Tem uma pluviosidade média anual de 1500 mm, favorece a diversidade
+da fauna e da flora. Sua vegetação predominante de cerrado, contribuindo para a riqueza de sua biodiversidade. De acordo com o censo
+de 2022, a população do estado é de aproximadamente 7.055.228 pessoas, distribuídas entre seus 246 municípios. Do ponto de vista
+econômico, o PIB de Goiás é de R$ 281.516 bilhões em 2022. Considerando a população do estado, o PIB per capita registrado em 2020
+foi de aproximadamente R$ 39.901,86.
+
+Sendo um elo vital no sistema de transporte do país, Goiás possui uma extensa malha rodoviária como as BR-153, que corre de norte a
+sul sendo um eixo principal para o escoamento do norte goiano, a BR-060 e a BR-020, uma rota para o transporte de produtos do Centro-
+Oeste ao Nordeste do Brasil e a BR-364 que conecta o estado de Goiás a outros estados como MT, MS, MG e SP.
+
+No Plano Nacional de Viação-PNV, essas rodovias federais que cortam o território goiano, são integradas e conectadas com as rodovias
+estaduais que possuem o papel de rodovias alimentadoras, representando assim sua importância vital na vida econômica do Estado e do
+País.
+
+O IDH/Goiás tem demonstrado notável habilidade em reduzir disparidades socioeconômicas e promover uma distribuição equilibrada de
+sua população. O IDH do Estado evidencia um progresso contínuo. Em 1991, o IDH era de 0,487, em 2000 era 0,615, e subiu para 0,737
+em 2021, estando na 10ª posição entre as 27 unidades federativas do Brasil. Essa progressão reflete o empenho contínuo do estado em
+melhorar a qualidade de vida de seus habitantes, investindo em setores vitais como educação, saúde, infraestrutura, além de promover
+um ambiente econômico favorável ao crescimento sustentável (anexo1).
+
+Goiás está na classificação CAPAG B.
+
+O Estado de Goiás tem 21.288,80 km de estradas, sendo 11.987,37 km de vias pavimentadas, 8.341,44 km de vias não pavimentadas,
+644,09 km vias planejadas e 315,90 km de obras em pavimentação. Destas 20.328,81 km de vias, necessitam ser mantidas para
+proporcionar adequada mobilidade e segurança aos usuários (anexo 2 e 3). O relatório de Fiscalização de Rodovias do Estado feita pelo
+TCE/Goiás avaliou 6.089km e 112 trechos, identificou 53% dos trechos comprometidos com 2.050 casos de panelas, 44% com 1.667
+casos de afundamentos e 3% com 80 casos de erosões (TCE 2023). A malha rodoviária em Goiás apresenta condições de infraestrutura
+piores do que a média nacional (CNT,2022), obrigando assim uma recuperação rápida para garantia da sustentabilidade econômica das
+suas atividades. Para um Estado que depende do agronegócio, essa ação rodoviária é imprescindível.
+
+As estradas precárias e malconservadas dificultam a locomoção da população, tornando o trajeto arriscado e muitas vezes impossível em
+condições climáticas adversas.
+
+Este programa prevê ações de meio ambiente viário para implementar medidas ambientais com a criação de corredores de fauna em
+rodovias, mitigação de passivos ambientais e da melhoria de sinalização.
+
+As Estrada-parque tem como premissa a sustentabilidade,  onde o pensamento é preservar a fauna, a flora e as belezas cênicas regional.
+Essas áreas, muitas vezes centradas em atividades como o artesanato, o ecoturismo, a gastronomia regional e os serviços, têm o
+potencial de atrair uma clientela diversificada em busca de experiências autênticas e únicas.
+
+A situação de poluição atmosférica na Av. Anhanguera está em níveis acima dos limites considerados seguros para a saúde pela OMS (
+11mil/tons de CO2 ano), o que reforça a necessidade de implantação de ações integradas para combater a emissão de poluentes e
+melhorar a qualidade do ar na região. A recuperação e modernização do Eixo Anhanguera, sendo o principal corredor de mobilidade da
+população da Região Metropolitana de Goiânia, com 2.471 milhões de habitantes (IBGE, 2022),são imperativas e  visa a melhoria do
+transporte de cerca de 135 mil passageiros dia, e a sustentabilidade ambiental com a redução de carbono de aproximadamente 11 mil t/
+ano.
+
+O desenvolvimento sustentável da infraestrutura de uma região, como no caso de Goiás, possui grandes desafios, desde a restauração da
+malha rodoviária, a mobilidade rural, a integração das rodovias com o meio ambiente e a sinalização viária; que ressalta a necessidade de
+um reforço institucional robusto. Neste sentido a Unidade de Gestão do Programa surge como uma resposta proativa à demanda de
+suporte na implementação do programa com o banco, buscando centralizar, otimizar e inovar na gestão, para garantir a implantação de
+acordo com padrões internacionais de qualidade, eficiência e transparência. ANEXO APRESENTAÇÃO DA CARTA CONSULTA.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+A infraestrutura de transportes requer atenção constante para garantir sua funcionalidade e segurança, a falta de recursos tem dificultado
+a manutenção e o desenvolvimento adequado da malha viária em nossa região.
+
+Diante desse cenário, é essencial implementar ações que visem a melhoria  da malha rodoviária. Essas ações devem incluir a realização
+de 1.019,70 km de obras de restauração de pavimentos, com melhoria de acostamento, recuperação de drenagem superficial e profunda,
+recuperação de obras de artes especiais, implantação de terceiras faixas em pontos críticos, melhoria da sinalização, implantação de
+corredores de fauna mitigando os atropelamento dos animais e os acidentes rodoviários decorrentes dos atropelamentos dos animais,
+tratamento e prevenção de passivos ambientais ao longo das rodovias e beneficiando o meio ambiente e gerando economia na
+manutenção dos trechos.
+
+
+Página: 3
+
+As ações de monitoramento e conservação das estradas, beneficiará diretamente cerca de 54 municípios com aproximadamente 2,8
+milhões de população. ANEXO DADOS MUNICIPIOS ABRANGENTES.
+
+A requalificação da infraestrutura de transporte, se mostra uma estratégia eficaz na solução dos problemas identificados, que possibilitará
+um planejamento financeiro a longo prazo, garantindo recursos contínuos para a manutenção e recuperação da malha viária. O que
+permitirá a realização de intervenções preventivas e corretivas, evitando que as rodovias cheguem a um estado crítico reduzindo os custos
+de restauração estimados, em R$ 1,2 milhões/km (Goinfra 2023), beneficiando os agentes econômicos.
+
+Fomentar práticas de gestão ambiental, normatizar os procedimentos da gestão ambiental rodoviária, promover a supervisão ambiental
+acompanhando todas as fases da rodovia (antes, durante e depois de implantada), ou seja, monitoramento contínuo dos fatores
+ambientais, são formas de mitigar os impactos negativos tanto no meio físico quanto no meio biótico dos passivos em rodovias goianas.
+
+A mobilidade rural irá promover uma mobilidade mais sustentável, segura e eficiente. A melhoraria das estradas não pavimentadas
+otimizará as rotas dos veículos visando ampliar a conectividade e reduzindo o tempo de viagem para os usuários, principalmente para a
+população rural.
+
+O projeto "Corredor Verde Nova Anhanguera" tem como objetivo melhorar a qualidade de vida das 2.471 milhões de pessoas que vivem
+nas proximidades deste importante eixo de transporte. O projeto está alinhado com diversos ODS/ONU. ODS 3 Saúde e Bem-Estar: O
+projeto visa melhorar o transporte público, reduzir a poluição do ar e promover locomoção sustentável para a população. ODS 9 Indústria,
+Inovação e Infraestrutura: A requalificação e modernização da infraestrutura de transporte visam criar um sistema de transporte mais
+eficiente, seguro e sustentável, promovendo inovação tecnológica, geração de emprego, renda e o desenvolvimento de infraestruturas
+resilientes e sustentáveis. ODS 11 Cidades e Comunidades Sustentáveis: O projeto prioriza o transporte público coletivo em detrimento do
+individual e melhora a infraestrutura de transporte, contribuindo para tornar as cidades mais inclusivas, seguras, resilientes e sustentáveis.
+ODS 13 Ação contra a Mudança Global do Clima: A descarbonização do transporte público busca reduzir as emissões de gases de efeito
+estufa, contribuindo para mitigar os impactos das mudanças climáticas.
+
+OS RESULTADOS ESPERADOS:
+
+No interesse de identificar impactos do programa, apresentamos alguns instrumentos de avaliação de resultados/impactos que poderão
+ser utilizados no programa:
+
+a. gerar benefícios a partir da redução do tempo de viagem nas áreas beneficiadas;
+
+b. gerar benefícios a partir da redução dos acidentes nas áreas de abrangência;
+
+c. gerar benefícios econômicos e sociais a população diretamente envolvida;
+
+d. gerar benefícios econômicos e sociais com os empregos durante a execução das obras;
+
+e. gerar satisfação da população em relação as obras a serem implantadas;
+
+f.  gerar satisfação da população em relação as obras durante a execução;
+
+h. reduzir as emissões de poluentes;
+
+i. minimizar a mortalidade da fauna nas vias estaduais;
+
+i. garantir a segurança viária aos usuários;
+
+j. mitigar os impactos ambientais nas vias estaduais;
+
+l. reduzir custos de transportes;
+
+m. gerar melhoria de transportes em vias não pavimentadas
+
+n. gerar economia decorrentes das intervenções rodoviárias
+
+Sustentabilidade: A Goinfra está fazendo a substituição de contratos de demanda por contratos de desempenho, ou seja, a empresa
+contratada para a execução das obras rodoviárias de restauração, terão que manter a qualidade/manutenção do serviço por um período a
+longo prazo a ser definido, sendo que nos primeiros anos após a restauração a manutenção rotineira da faixa de domínio estará incluída e
+nos anos subsequentes serão realizadas os reparos superficiais e profundos que se fizerem necessários com recursos do Tesouro.
+ANEXO PLANILHA CUSTO MANUTENÇÃO PAVIMENTADA POR KM.
+
+Após o termino do período do financiamento todas as técnicas e metodologias serão repassadas para o Estado garantindo assim a
+continuidade da expertise adquirida durante todo o processo, capacitação da equipe é primordial para garantir a geração de dados
+utilizados para controles internos e externos. Os equipamentos e software adquiridos do componente reforço institucional ficarão para a
+Goinfra após o término do financiamento.
+
+
+Página: 4
+
+Nova Anhanguera: A governança é coordenada pela Rede Metropolitana de Transporte Coletivo - RMTC, garantindo uma distribuição
+equitativa de responsabilidades entre entes federativos. O subsídio tarifário público da LC 169/2021 assegura tarifas acessíveis para os
+usuários e equilibra o modelo de negócios das concessionárias de transporte. A LC 187/2023 prorrogou os contratos de concessão por
+mais 20 anos, proporcionando estabilidade e permitindo uma gestão financeira mais eficaz. A Câmara de Liquidação e Custódia garante a
+administração adequada dos recursos financeiros do sistema, incluindo arrecadação de tarifas e subsídios públicos. Os gastos contínuos
+do programa serão cobertos pelas receitas operacionais tarifárias da RMTC e garantidos pela revisão tarifária e subsídios públicos
+previstos na LOA.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+Orientações estratégicas:
+
+As Obras previstas no PROGRAMA GOIÁS EM MOVIMENTO RECONSTRUÇÃO -BIRD, são um conjunto de obras que estão contidas
+dentro do PROGRAMA GOIÁS EM MOVIMENTO RECONSTRUÇÃO, previsto  no PPA"s (Plano Plurianual) - encaminhado para a
+Assembléia Legislativa do Estado, através do Ofício nº 316 do dia 29/08/2023 (anexo 4 e 5).
+
+Ademais, o Plano Plurianual 2024-27, prevê dentre seus objetivos e ações orçamentárias a integridade das atividades propostas na
+presente Carta-Consulta.
+
+Contrapartida, informamos que:
+
+A origem da contrapartida está em conformidade com o disposto na Resolução COFIEX nº 3 de 29/5/2019;
+
+Os gastos de contrapartida, no âmbito da COFIEX, serão elegíveis a partir da data de publicação da Resolução da COFIEX que autoriza a
+preparação do respectivo programa/projeto, observado disposto na referida Resolução COFIEX nº 3;
+
+Poderá ser considerado elegível como contrapartida terreno de propriedade do proponente, destinado à construção de novo equipamento
+público previsto no programa/projeto. O terreno deverá ser incluído como produto com o respectivo valor estimado e método de aferição
+dentro do componente no qual a obra está inserida;
+
+iii)Taxa de câmbio:
+
+A moeda em que se pretende contratar o financiamento é o dólar norte-americano (USD). Os valores para execução das obras foram
+estimados considerando-se a taxa de câmbio no dia 21/09/2023 no valor de US$ 1,00 = R$ 4,9229, em Reais, a serem decididas antes
+das negociações do projeto.
+
+2. Projeto
+
+### 2.1. Título
+
+
+PROGRAMA GOIÁS EM MOVIMENTO RECONSTRUÇÃO - BIRD
+
+
+### 2.2. Título Abreviado
+
+
+GM-RECONSTRUÇÃO-BIRD
+
+
+### 2.3. Mutuário
+
+
+Estado de Goiás
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+O Objetivo Geral do programa, dotar o estado de Goiás de condições de infraestrutura, transporte e logística capaz de atender as
+demandas do agronegócio, da mineração do turismo e de atividades comerciais aja vista a localização geográfica estratégica que Goiás
+possui, sob uma condição ímpar das condições climatológicas e topográficas, e que consigamos destacar no cenário nacional nas
+exportações de comodites, bem como aumentar o nível de qualidade de vida de todas as regiões de Goiás, buscando assim assegurar,
+para sociedade benefícios diretos e indiretos advindos destes investimentos impactando na qualidade de vida da população goiana,
+promovendo o bem-estar, a justiça social, a mobilidade, e em decorrência proporcionando crescimento econômico sustentado e
+sustentável, reduzindo assim desigualdade entre todos habitantes, assegurando também benefícios ao meio ambiente.
+
+Para tanto o programa pretente:
+
+Executar obras de restauração do pavimento, numa extensão aproximada de 1019,70 km, considerando a melhoria de acostamento, a
+recuperação de drenagem superficial e profunda, a recuperação de obras de artes especiais e a implantação de terceiras faixas em pontos
+críticos, a recuperação e implantação de sinalização vertical horizontal e a solução de passiveis ambientais;
+
+Executar obras para melhorar a mobilidade aproximadamente de 400,0 km de estradas não pavimentadas;
+
+Execução de obras para implantar passagem de fauna superiores e inferiores, com também a implantação de estradas parques;
+
+Fora o tema das estradas o programa , em relação ao Eixo Anhanguera  (  principal eixo de ligação da região metropolitana de Goiânia) ,
+tem como objetivo executar  obras  para recuperar o  pavimento de aproximadamente 30 km de vias e também serão reformados 6
+terminais de integração, a reforma de 19 estações de embarque e desembarque, de 167 novos abrigos nos pontos de parada, além da
+redução das emissões de carbono com redução das emissões de carbono com Descarbonização ( redução de carbono de
+aproximadamente 11 mil t/ano).  do Transporte Público: (Implementação de medidas e tecnologias  que  promovam a utilização de
+energias limpas no sistema de transporte público contribuindo para a mitigação das mudanças climáticas e para a qualidade do ar.
+
+Para os Objetivos Específicos, pensamos na  priorizar e  beneficiar a população com uma melhor mobilidade urbana e rural, buscando a
+redução de tempos de viagens razoáveis, garantido acessibilidade a todos os usuários, eliminado congestionamentos, poluição, até
+mesmo a redução do o índice de acidentes de trânsito e aa redução dos pontos de alagamento e erosões.
+
+Desta forma temos como Objetivos Específicos os seguintes temas:
+
+1.Restaurar aproximadamente 1.000 km da malha rodoviária estadual, assegurando sua durabilidade e qualidade;
+
+2.Reduzir os custos com a manutenção viária;
+
+3.Reduzir os custos e o tempo de transporte para passageiros e cargas na malha viária estadual;
+
+4.Implementar e monitorar práticas de gestão ambiental em rodovias, focando na mitigação de impactos, promoção de
+
+sustentabilidade e avaliação contínua das intervenções rodoviárias;
+
+5.Restaurar aproximadamente 400 km de estradas rurais para melhorar a acessibilidade e eficiência do transporte;
+
+6.Capacitar e modernizar a administração pública estadual para uma gestão viária proativa e fortalecer a capacidade institucional
+
+e técnica em áreas estratégicas, otimizando recursos e garantindo a sustentabilidade das intervenções;
+
+7.Melhoria da infraestrutura do eixo Anhanguera com a restauração de 30 km de vias e a reforma de 6 terminais de integração e
+
+de 19 estações de embarque;
+
+8.Redução da poluição com a redução de carbono de aproximadamente 11 mil t/ano.;
+
+9.Geração de novos empregos;
+
+10.Aumento da arrecadação de impostos
+
+11.   Implementar passagens de fauna
+
+12.   Estruturar estradas parques
+
+
+### 2.6. Projeto/Indicadores
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Descrição
+Restaurar aproximadamente 1.000 km da malha
+rodoviária estadual,
+
+Restaurar aproximadamente 400 km de estradas
+rurais
+Redução da emissão de carbono no eixo
+Anhanguera de de aproximadamente 11 mil t/
+ano.
+Restauração de 30 km de vias  do eixo
+Anhanguera
+
+%
+
+%
+
+Fórmula de Cálculo Unidade de Medida
+quantidade de km de
+vias melhoradas x 100
+/ pela linha base.
+quantidade de
+crianças
+quantidade redução
+de carbono x 100/
+pela linha base.
+quantidade de km de
+vias restauradas x 100
+/ pela linha base.
+
+%
+
+$
+
+
+Página: 6
+
+Linha de Base
+1.000,00
+
+400,00
+
+11.000,00
+
+Meta
+100,00
+
+100,00
+
+100,00
+
+30,00
+
+100,00
+
+
+### 2.7. Projeto/Componentes
+
+
+Componentes
+C - MOBILIDADE E MODERNIZAÇÃO DA INFRAESTRUTURA DE TRANSPORTES
+S - REQUALIFICAÇÃO DA INFRAESTRUTURA DE TRANSPORTE
+P - EXECUÇÁO DA RESTAURAÇÃO DA MALHA RODOVIÁRIA ESTADUAL
+S - MOBILIDADE RURAL
+P - EXECUÇÃO DE MELHORIAS PARA A MOBILIDADE NAS ESTRADAS NÃO PAVIMENTADAS
+S - AÇÕES AMBIENTAIS
+P - CONSTRUÇÃO DE PASSAGENS DE FAUNA.
+P - ESTRADAS-PARQUES
+C - MOBILIDADE URBANA (EIXO ANHANGUERA)
+S - CORREDOR VERDE NOVA ANHANGUERA
+P - AQUISIÇÃO DE ONIBUS ELÉTRICOS
+P - EXECUÇÃO DE INFRAESTRUTURA DE TRANSPORTE
+C - GERENCIAMENTO DO PROGRAMA
+P - AUDITORIA EXTERNA
+P - SUPERVISÃO DE OBRAS
+P - ESTUDOS E PROJETOS
+P - APOIO À UNIDADE DE GERENCIAMENTO DO PROGRAMA (UGP)
+P -  OUTROS GASTOS DO PROGRAMA
+P - REFORÇO INSTITUCIONAL
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Valor(US$)
+192.176.900,00
+171.176.900,00
+171.176.900,00
+6.000.000,00
+6.000.000,00
+15.000.000,00
+5.000.000,00
+10.000.000,00
+100.300.000,00
+100.300.000,00
+85.600.000,00
+14.700.000,00
+11.523.100,00
+300.000,00
+3.820.000,00
+1.000.000,00
+1.000.000,00
+403.100,00
+5.000.000,00
+304.000.000,00
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - MOBILIDADE E MODERNIZAÇÃO DA INFRAESTRUTURA DE TRANSPORTES
+Neste componente, Goiás busca revitalizar e modernizar suas vias, garantindo não apenas uma mobilidade mais eficiente, mas
+também mais segura, visando garantir uma infraestrutura rodoviária durável, que atenda às demandas atuais e futuras da
+população e da economia local.
+A definição dos trechos rodoviários a serem intervencionados utiliza a matriz do Sistema de Gerência de Pavimentos - SGP que
+correlaciona uma gama de critérios técnicos, visto que diferentes parâmetros de caracterização funcional e estrutural do pavimento
+são considerados na indicação de uma possível solução. Reitera-se que a indicação de obras dentro do SGP através da matriz de
+decisão, pretende, após uma avaliação integral dos principais indicadores de desempenho, garantir recursos anuais de obras de
+manutenção/restauração e reabilitação dos pavimentos durante um período de análise (plano plurianual de investimentos a nível
+de rede).
+Ademais, no SGP são levados em consideração, além dos critérios técnicos dispostos na matriz do SGP, a análise integral de
+outros critérios, como: os benefícios do usuário através dos custos operacionais veiculares e os principais indicadores econômicos
+na comparação e posterior escolha das estratégias de intervenção nos diversos cenários. A utilização do SGP para a seleção de
+estratégias de manutenção resulta em benefícios à agência na racionalização, otimização e no estabelecimento da programação
+de manutenção da malha rodoviária, assegurando um sistema de transporte com mais economia e confortabilidade para o usuário
+e uma assertividade na indicação de recursos, gerando uma economia para o estado.
+
+Quanto à Mobilidade Rural, que abrange as rodovias não pavimentadas do estado de Goiás o projeto reconhece a importância de
+garantir o acesso da população em todas as regiões do estado. Investindo em transporte eficiente e seguro, Goiás busca eliminar
+barreiras geográficas, garantindo que a população em geral, independentemente de onde residam, tenham facilidade em
+locomoção.
+
+O componente de Rodovias em harmonia com o meio ambiente e sinalização viária reflete o compromisso do estado com a
+sustentabilidade. Ao planejar melhorias na sinalização e implementar medidas que reduzam o impacto das rodovias no meio
+ambiente, Goiás demonstra sua visão de um desenvolvimento que respeita tanto as pessoas quanto a natureza.
+
+
+Página: 7
+
+Os custos unitários de insumos e serviços, para a preparação dos orçamento de todas as obras deste programa, estão de acordo
+com a TABELA DE CUSTOS DE OBRAS CIVIS GOINFRA REF. MAIO/2023 - Agência Goiana de Infraestrutura e Transportes (
+GOINFRA ONERADO) e os  itens que não estão como referenciais da GOINFRA foram substituídos tomando como base os
+sistemas mais próximos: GOINFRA - RODOVIÁRIO, SICRO e SINAPI e outros itens, quando não encontrados nestas planilhas
+referenciais, tiveram seus valores obtidos por meio de referências de mercado.
+
+S - REQUALIFICAÇÃO DA INFRAESTRUTURA DE TRANSPORTE
+A requalificação da infraestrutura de transporte é uma estratégia eficaz, que permitirá um planejamento financeiro a longo prazo,
+garantindo recursos contínuos para a manutenção e recuperação da malha viária. Isso possibilitará a realização de intervenções
+preventivas e corretivas, evitando que as rodovias cheguem a um estado crítico reduzindo os custos estimados em R$ 1,2 milhões/
+km/ano, beneficiando os agentes econômicos, graças à redução dos custos de transporte e ao aumento da competitividade e
+fomentação econômica no estado.
+A determinação de prioridades de intervenções rodoviárias em nível de rede utilizou-se os dados do SGP da GOINFRA para
+parâmetros funcionais e estruturais das rodovias a partir dos levantamentos de campo. EM ANEXO MAPAS DE
+LEVANTAMENTOS REALIZADOS COM AS CONDIÇÕES DAS RODOVIAS, relativo aos dados de entrada do sistema: MAPA IRI (
+Índice de Irregularidade Longitudinal), MAPA IES/LVC (Levantamento Visual Contínuo), MAPA FWD (Falling Weight Deflectometer)
+.
+
+P - EXECUÇÁO DA RESTAURAÇÃO DA MALHA RODOVIÁRIA ESTADUAL
+Execução obras de restauração do pavimento, numa extensão aproximada de 1019,70 km, nas rodovias abaixo relacionadas,
+considerando a melhoria de acostamento, a recuperação de drenagem superficial, e profunda, a recuperação de obras de artes
+especiais e a implantação de terceiras faixas em pontos críticos, a recuperação e implantação de sinalização vertical horizontal e a
+solução de passives ambientais.
+
+(Plano do obas de restauração -BIRD - anexo 06,)
+
+RELAÇÃO DAS RODOVIAS
+
+RELAÇÃO DAS RODOVIAS DE PISTA DUPLA
+
+RodoviaTrechoExt. (Km)
+
+1GO-020Goiânia / Bela Vista43,00
+2GO-070Goiânia / Itaberaí89,89
+
+TOTAL, DE KM DAS VIAS DE PISTA DUPLA: 132,89
+
+RELAÇÃO DAS RODOVIAS DE PISTA SIMPLES
+
+RodoviaTrechoExt. (Km)
+1GO-020Entr. GO-330 (Próx. Roncador) / Entr. GO-307 / Entr. BR-050 67,62
+2GO-050/GO-220 /GO-164Montividiu / Entr. BR-15881,56
+3GO-060Nazário / Trindade / Goiânia63,31
+4GO-108Fim Perím. Urb. Sítio D'Abadia / Entr. BR-02092,98
+5GO-151Porangatu / Mutunópolis40,54
+6GO-164São Miguel do Araguaia / Div. GO-TO44,05
+7GO-164/GO-417/GO-320Sanclerlândia / São Luis dos Montes Belos / Cachoeira de Goiás / Ivolândia98,00
+8GO-217Entr. GO-569 / Maripotaba25,48
+9GO-217Maripotaba / Professor Jamil25,78
+10GO-217Piracanjuba / GO-13925,62
+11GO-217/GO-569BR-060 (Próx. Cezarina) / Entr. GO-21547,91
+12GO-236Div. GO/BA / Início Perímetro Urbano Mambaí10,40
+13GO-244Porangatu / Fim de Pavimentação24,16
+14GO-326Montes Claros / Jaupaci52,35
+15GO-326Anicuns / Sanclerlândia49,10
+16GO-330Sta. Rosa / Taquaral15,09
+17GO-330Orizona / Pires do Rio / Entr. GO-020 (Prox. Roncador)42,49
+18GO-446Iaciara / Posse30,94
+19GO-469Trindade / Abadia de Goiás12,43
+20GO-568Palmeiras / Indiara37,00
+
+TOTAL DE KM DAS VIAS DE PISTA SIMPLES: 886,81
+
+EXTENSÃO TOTAL EM KM: 1.019,70
+
+S - MOBILIDADE RURAL
+Melhoria das condições de mobilidade para população com ações de intervenções em cerca de 400 km de estradas não
+pavimentadas.
+
+
+Página: 8
+
+São ações de infraestrutura, que irão proporcionar melhorias nas estradas não pavimentadas,  para aumentar a conectividade, a
+segurança viária e a otimização das rotas dos transportes.
+
+P - EXECUÇÃO DE MELHORIAS PARA A MOBILIDADE NAS ESTRADAS NÃO PAVIMENTADAS
+Serão contemplados 400 km de vias e pontes dos  8.568,41 km de trechos não pavimentados existentes no estado distribuídos
+pelos 246 municípios do estado.
+Os trechos e as pontes contemplados serão definidos de acordo com critério de criticidade, oriundos de levantamentos de campo
+tipo Condições de Trafegabilidade e Inventário de Rodovias que avaliam a situação qualitativa e funcional dos elementos
+constantes nas rodovias não pavimentadas do estado. Estes levantamentos já estão sendo realizados, entregues e analisados e
+compõem a base de dados do SGP da GOINFRA.
+
+S - AÇÕES AMBIENTAIS
+Execução de ações objetivando a recuperação e passivos ambientais, instalações de passagem de fauna, superiores e inferiores
+nas rodovias e a implantação de estradas parques.
+Aos longos dos anos surgiram passivos ambientais em decorrência de atividades desencadeadas de obras, que ganharam
+proporção em decorrência da sazonalidade climática do Estado de Goiás. Devido a preocupação com o meio ambiente e para com
+a sociedade a Agência Goiana de Infraestrutura e Transporte - Goinfra estabeleceu o programa que busca identificar, monitorar e
+solucionar, sempre que possível de maneira precoce todos os processos erosivos que surgem e/ou que possam vir a provocar
+risco a malha viária goiana. O monitoramento inicia por meio do sensoriamento remoto, que a faz a identificação por meio de
+imagem de satélite, utilizando resolução de  imagem que varia de 2 a 10 metros e que após identificado a existência da erosão é
+feita a fiscalização de campo, dando origem a um parecer técnico que descreve a possível origem do passivo, dimensão, grau de
+risco, inclusão na matriz e no cronograma de execução. Objetiva-se com essa ação, o mapeamento de todos os passivos
+ambientais quem envolvam processos erosivos, para que possam ser quantificados e solucionados, até o momento foram
+identificadas 416 erosões que estão em monitoramento e em fase de vistoria. Para esta ação objetivamos a contratação de
+projetos de recuperação de passíveis ambientais e execução de obras para correção deste passíveis já existentes.  ANEXO
+IDENTIFICAÇÃO EROSIVO
+
+P - CONSTRUÇÃO DE PASSAGENS DE FAUNA.
+Atropelamentos de animais silvestres causam impactos significativos não apenas sobre a fauna local, mas também sobre os
+usuários de rodovias.
+Neste sentido, foi elaborada pela Coordenação Técnica do Projeto Rodo Bicho - Rodovia Segura para Fauna Silvestre, tendo em
+vista o atendimento ao preceituado na uma Instrução Normativa que dispõe sobre a adoção de medidas para evitar acidentes com
+animais silvestres nas rodovias estaduais.
+Sendo assim, a readequação das rodovias goianas visando a inclusão de passagens de fauna pensando em diminuir e mitigar os
+atropelamentos de animais silvestres.
+Rodovias antes projetadas sem a preocupação com os impactos direcionados a fauna, serão adaptadas e readequadas para que
+possibilitem o tráfego seguro dos automóveis e a garantia de travessia sem riscos para os animais.
+Durante a execução dos projetos executivos das rodovias serão feitos levantamentos de campo de avistamento de fauna e análise
+de paisagem, para determinar o tipo da passagem de fauna que será implementada (Subterrânea ou aérea) e da necessidade de
+cercamento faunístico, assim como campanhas de conscientização para os condutores.
+Construção de Passagens de Fauna. Será feita a readequação das rodovias goianas visando a inclusão de passagens de fauna
+pensando em diminuir e mitigar os atropelamentos de animais silvestres. Rodovias antes projetadas sem a preocupação com os
+impactos direcionados a fauna, serão adaptadas e readequadas para que possibilitem o trafego seguro dos automóveis e a
+garantia de travessia sem riscos para os animais. Serão feitos levantamentos de campo de avistamento de fauna e analise de
+paisagem para determinar o tipo da passagem de fauna que será implementada (Subterrânea ou aérea) e da necessidade de
+cercamento faunístico, assim como campanhas de conscientização para os condutores. Já estão sendo elaboradas ações
+emergenciais para a construção e adaptação de passagens de fauna multiuso na região da APA de Pouso Alto, sendo seis (6)
+passagens superiores, nove (nove) pontos de passagens subterrâneas de fauna e nove (9) pontos de cercamento, distribuídas ao
+longo das rodovias GO-239 e GO-118. Nas proximidades do Parque Nacional das Emas, na GO-341, está previsto a construção de
+uma (1) passagem subterrânea e adaptações de mais três (3) pontos, como passagem multiuso. Estão sendo conduzidos os
+estudos de monitoramento de fauna na GO-020, para futura adaptação viária. Anexo CHAPADA E TERMO DE REFERÊNCIA
+
+P - ESTRADAS-PARQUES
+A implantação de Estrada-parque que terá como base em projetos totalmente sustentáveis, pensando em preservar a fauna, a flora
+e as belezas cênicas regional.
+
+Serão obras de pavimentos com passagens de fauna, cercamento faunístico, mirantes, pontualmente para respeitar, preservar e
+contemplar o meio ambiente.
+
+Com a contínua melhoria da infraestrutura de acesso a essas regiões, espera-se que o número de visitantes aumente
+significativamente.
+
+Essas áreas, muitas vezes centradas em atividades como o artesanato, o ecoturismo, a gastronomia regional e os serviços, têm o
+potencial de atrair uma clientela diversificada em busca de experiências autênticas e únicas. À medida que as estradas se tornam
+mais acessíveis, mais viajantes terão a oportunidade de explorar esses destinos, contribuindo assim para o crescimento econômico
+dessas comunidades e para a preservação de suas tradições culturais e naturais.
+ANEXO Mapa abrangência, localização dos Parques Estaduais
+
+
+Página: 9
+
+C - MOBILIDADE URBANA (EIXO ANHANGUERA)
+Este componente busca a modernização do Eixo Anhanguera, onde serão implantadas melhorias na qualidade na infraestrutura do
+Eixo Anhanguera, como renovação de vias, estações, terminais e pontos de parada, como também a  redução das emissões de
+carbono com Descarbonização do Transporte Público: (Implementação de medidas e tecnologias  que  promovam a utilização de
+energias limpas no sistema de transporte público). Isso contribuirá para a mitigação das mudanças climáticas e para a qualidade
+do ar nas regiões servidas pelo Eixo Anhanguera.
+
+Isso garantirá maior segurança, conforto e eficiência para os usuários do sistema e também a melhoria da vida das pessoas que
+vivem nas proximidades desse importante eixo de transporte.
+
+A priorização do Transporte Público Coletivo com o estabelecimento de políticas e medidas que priorizem o uso do transporte
+público coletivo em detrimento do transporte individual, contribuirá para a redução do congestionamento nas vias e diminuirá a
+demanda por veículos particulares, resultando em uma cidade mais fluida e sustentável
+
+Estas melhorias alinham-se diretamente com diversos Objetivos de Desenvolvimento Sustentável (ODS) estabelecidos pela
+Organização das Nações Unidas (ONU), com destaque para:
+
+ODS 3 - Saúde e Bem-Estar: A melhoria das condições de transporte público pode resultar em redução da poluição atmosférica e
+do tráfego, contribuindo para a promoção da saúde e bem-estar da população, ao diminuir a exposição a poluentes do ar e ao
+incentivar a atividade física por meio da locomoção sustentável.
+
+ODS 9 - Indústria, Inovação e Infraestrutura: A requalificação e modernização da infraestrutura de transporte buscam criar um
+sistema mais eficiente, seguro e sustentável, fomentando a inovação tecnológica e o desenvolvimento de infraestruturas resilientes
+e sustentáveis.
+
+ODS 11 - Cidades e Comunidades Sustentáveis: A priorização do transporte público coletivo em relação ao individual e a melhoria
+da infraestrutura de transporte estão alinhadas com o objetivo de tornar as cidades mais inclusivas, seguras, resilientes e
+sustentáveis.
+
+ODS 13 - Ação contra a Mudança Global do Clima: A descarbonização do transporte público visa reduzir as emissões de gases de
+efeito estufa, contribuindo para mitigar os impactos das mudanças climáticas.
+
+A medida não apenas beneficiará proprietários de veículos elétricos, mas também promoverá um ambiente mais limpo e saudável,
+fortalecendo a posição de Goiânia como uma cidade sustentável e inovadora. O projeto prepara o terreno para uma transição
+ampla em direção à mobilidade elétrica, começando com a infraestrutura de recarga para ônibus elétricos e possibilitando a
+expansão futura para usuários privados.
+
+Dessa forma, o projeto busca não apenas modernizar o transporte público, mas também promover uma mobilidade urbana
+sustentável, contribuindo para a qualidade de vida dos cidadãos e para a preservação do meio ambiente.
+O Eixo Anhanguera, principal corredor de transporte da Rede Metropolitana de Transporte Coletivo (RMTC) de Goiânia, encontra-
+se em uma situação crítica devido à ausência de investimentos na melhoria e modernização da infraestrutura ao longo dos últimos
+25 anos. A deterioração do corredor tem impactado negativamente não apenas a qualidade do transporte público, mas também o
+ambiente urbano e a saúde dos moradores da vizinhança.
+
+A idade média da frota de ônibus que circula pelo Eixo Anhanguera já ultrapassou a marca de 10 anos, o que resulta em um
+serviço de transporte desgastado, pouco eficiente e com potenciais problemas de segurança. Essa realidade contrasta com a
+importância desse corredor como principal via de acesso e mobilidade para a população de Goiânia.
+
+A vizinhança da Avenida Anhanguera, outrora considerada a mais bela da cidade, agora encontra- se em estado de degradação
+devido à poluição sonora e atmosférica causada pelos ônibus em circulação. A pesquisa "Monitoramento da poluição atmosférica
+por meio da análise de metais em água das chuvas", realizada por acadêmicos do IFG/ Campus Goiânia e do Instituto de Química
+da Universidade Federal de Goiás (UFG), confirmou a presença de elementos-traço, também conhecidos como metais pesados, na
+água das chuvas coletadas na capital. Esses elementos incluem Cálcio, Alumínio, Estrôncio, Magnésio, Ferro, Sódio, Zinco,
+Manganês e Bário. Preocupantemente, a pesquisa identificou que Alumínio, Cálcio e Zinco estão presentes em níveis acima dos
+limites considerados seguros para a saúde humana pela Organização Mundial da Saúde (OMS).
+
+A situação de poluição atmosférica na Avenida Anhanguera é reflexo da combinação desses fatores, reforçando a necessidade de
+ações integradas para combater a emissão de poluentes e melhorar a qualidade do ar na região. A recuperação e modernização
+do Eixo Anhanguera são imperativas, visando não apenas a melhoria do transporte público, mas também a qualidade de vida dos
+moradores e a sustentabilidade ambiental.
+
+S - CORREDOR VERDE NOVA ANHANGUERA
+Diante dos desafios apresentados pela situação atual do Eixo Anhanguera, um plano de ação abrangente foi elaborado visando
+enfrentar e solucionar os problemas relacionados à infraestrutura de transporte, poluição atmosférica e qualidade de vida na região
+. Este plano envolve medidas cruciais para a revitalização do corredor e melhoria da qualidade de vida dos moradores de Goiânia.
+As principais ações são as seguintes:
+
+
+Página: 10
+
+Substituição da Frota da Metrobus: Será realizada a substituição integral da frota da empresa estatal Metrobus, detentora do
+Concessão de Exploração? Eixo Anhanguera, por veículos novos, elétricos e com diversos itens de conforto e segurança. A
+eletrificação da frota contribuirá para a redução significativa da emissão de poluentes atmosféricos, melhorando a qualidade do ar
+ao longo do corredor e beneficiando a saúde dos cidadãos.
+Reforma da infraestrutura de transporte: Serão reformados seis terminais de integração ao longo do Eixo Anhanguera (Terminal
+Padre Pelagio, Terminal do Dergo, Terminal Praça A, Terminal da Bíblia, Terminal de Senador Canedo), além de 19 estações de
+embarque e desembarque. Essa reforma abrangente visa modernizar as instalações, proporcionar maior conforto aos usuários e
+promover a acessibilidade universal. A requalificação dos terminais e estações criará um ambiente mais agradável e seguro para
+os passageiros. Essa medida beneficiará os passageiros dessa região específica, oferecendo uma experiência de transporte mais
+eficiente e conveniente. E serão instalados 167 novos abrigos nos pontos de parada ao longo das extensões do Eixo Anhanguera.
+Esses abrigos fornecerão proteção contra as intempéries, aumentando o conforto dos usuários enquanto aguardam o transporte
+público.
+Os Resultados Esperados são: Requalificação da Avenida Anhanguera: A revitalização do corredor resultará em uma avenida mais
+agradável, limpa e atrativa, contribuindo para a revalorização da região.
+Diminuição da Poluição Atmosférica: Com a substituição da frota por veículos elétricos e a redução da emissão de poluentes,
+espera-se uma diminuição significativa da poluição atmosférica ao longo do corredor. Isso terá impactos positivos na saúde dos
+moradores e na qualidade do ar.
+Valorização Imobiliária: Com a requalificação do Eixo Anhanguera, a expectativa é que o valor do metro quadrado médio, das
+edificações e instalações, da região aumente, devido à melhoria da infraestrutura e ao ambiente mais agradável.
+Aumento do IDH da Região Metropolitana Goiânia: A implementação dessas medidas impactará positivamente o Índice de
+Desenvolvimento Humano (IDH) dos municípios, promovendo melhorias nas áreas de mobilidade, saúde, bem-estar e qualidade de
+vida dos habitantes.
+O projeto delineado visa transformar o Eixo Anhanguera em um corredor de transporte moderno, eficiente e sustentável. Através
+da substituição da frota, reforma das instalações e outras medidas, espera-se criar um ambiente mais saudável, seguro e atraente
+para os cidadãos, contribuindo para a requalificação da região e o aumento do desenvolvimento humano em Goiânia.(ANEXO
+PROPOSTA COMERCIAL EIXO ANHANGUERA)
+
+P - AQUISIÇÃO DE ONIBUS ELÉTRICOS
+Serão adquiridos, 83 ônibus elétrico, cujo total é de aproximadamente de 85.000.000 de dólares. Para a estimativa do valor foram
+realizadas pesquisa de preço no mercado com a seguinte configuração:
+Carroceria para ônibus urbano, modelo Articulado elétrico, montada sobre chassis, Carroceria Articulado (Piso Alto) - 23.020 mt e
+Ar-Condicionado.
+
+P - EXECUÇÃO DE INFRAESTRUTURA DE TRANSPORTE
+Recuperação do pavimento de aproximadamente 30 km de vias e também serão reformados seis terminais de integração ao longo
+do Eixo Anhanguera (Terminal Padre Pelágio, Terminal do Dergo, Terminal Praça A, Terminal da Bíblia, Terminal de Senador
+Canedo), a reforma de 19 estações de embarque e desembarque que busca modernizar as instalações, proporcionar maior
+conforto aos usuários e promover a acessibilidade universal.
+
+A requalificação dos terminais e estações criará um ambiente mais agradável e seguro para os passageiros. Essa medida
+beneficiará os passageiros dessa região específica, oferecendo uma experiência de transporte mais eficiente e conveniente.
+
+Também projetamos a instalação de 167 novos abrigos nos pontos de parada ao longo das extensões do Eixo Anhanguera. Esses
+abrigos fornecerão proteção contra as intempéries, aumentando o conforto dos usuários enquanto aguardam o transporte público.
+
+As intervenções de execução de infraestrutura proposta estão indicadas para cada tipo de intervenção de acordo com a
+necessidade detectada para cada local, como reforma, ampliação, reconstrução e reposicionamento.
+
+C - GERENCIAMENTO DO PROGRAMA
+Este componente contempla as ações para a implantação de estrutura de gerenciamento do programa.
+
+OBS.: Considerando a experiência do Estado na execução de outros Programas contratados, podemos dizer que todos os valores
+informados nos produtos deste componente, são suficientes para a execução das atividades.
+
+P - AUDITORIA EXTERNA
+Consiste na implantação da estrutura de funcionamento de uma auditoria independente, com o fim de auditar anualmente, durante
+o período de desembolso do empréstimo, a execução do Programa, verificando, com base dos instrumentos estabelecidos, a
+utilização dos recursos, os pagamentos efetuados e o cumprimento das condições contratual.
+
+P - SUPERVISÃO DE OBRAS
+SUPERVISÃO DE OBRAS
+Consiste na implantação da estrutura de funcionamento de uma consultoria técnica para a Supervisão técnica, Ambiental, Social e
+Segurança Viária para o controle da execução das obras.
+
+P - ESTUDOS E PROJETOS
+Consiste na implantação da estrutura de funcionamento de consultoria técnica para a elaboração de projetos executivos para as
+obras e outros estudos que se fizerem necessário
+
+
+Página: 11
+
+P - APOIO À UNIDADE DE GERENCIAMENTO DO PROGRAMA (UGP)
+APOIO À UNIDADE DE GERENCIAMENTO DO PROGRAMA (UGP) - Consiste na implantação da estrutura de funcionamento de
+uma consultoria técnica especializada para o apoio à Unidade de Gerenciamento do Programa com a finalidade de prestar
+assistência técnica e suporte no gerenciamento e na administração do programa.
+
+P -  OUTROS GASTOS DO PROGRAMA
+Recursos destinados ao pagamento da encargos do financiamento do empréstimo
+
+P - REFORÇO INSTITUCIONAL
+Aquisições de equipamentos, software , cursos, treinamento e capacitação da equipe do órgão executor Há necessidade de
+treinamento e de capacitação dos membros, seja das unidades de gerenciamento do projeto, ou seja, das diretorias que estarão
+diretamente ligadas às obras físicas desses projetos e também na diretoria que estiver envolvida, como é o caso da diretoria
+financeira, da diretoria de obra rodoviária, da diretoria de manutenção e da diretoria de planejamento. Essas diretorias estão
+aderentes ao projeto, ao programa, na sua implantação, no seu acompanhamento e no recebimento dessas obras. Então, para
+tanto há necessidade de treinamentos específicos de fiscalização, treinamento de gestão de projetos, treinamento de economistas
+para a parte financeira, treinamento para licitação internacional, com a equipe da licitação, treinamento para o controle tecnológico
+de qualidade dessas estradas que serão restauradas, cursos de liderança, dentre outros, bem como contratação de especialistas.
+Então, todo reforço voltado aos recursos humanos são necessários para poder dotá -los de condições à altura de um projeto desse
+que está sendo pleiteado pelo governo junto às instituições e junto ao governo federal. Toda a linha do tempo precisa ser dotada
+também de equipamentos como computadores, como laptops, drones, GPS, equipamentos de topografia. Toda essa parte de
+veículos, tudo isso é importante para que a agência esteja preparada para o acompanhamento de um projeto dessa natureza. Além
+disso, outros serviços, outras questões que serão ainda levantadas de acordo com as demandas da agência para que possa fazer
+face diretamente ao andamento desse projeto.
+
+Unidade de medida
+-
+km
+
+Meta
+
+-
+1.019,70
+
+Valor
+
+% Financeiro
+
+201.876.900,00
+171.176.900,00
+
+Categoria de Gasto
+
+Obras
+P- EXECUÇÁO DA RESTAURAÇÃO DA MALHA
+RODOVIÁRIA ESTADUAL
+P- EXECUÇÃO DE MELHORIAS PARA A
+MOBILIDADE NAS ESTRADAS NÃO
+PAVIMENTADAS
+P- ESTRADAS-PARQUES
+P- EXECUÇÃO DE INFRAESTRUTURA DE
+TRANSPORTE
+Bens
+P- AQUISIÇÃO DE ONIBUS ELÉTRICOS
+Consultoria
+P- AUDITORIA EXTERNA
+P- SUPERVISÃO DE OBRAS
+P- ESTUDOS E PROJETOS
+P- APOIO À UNIDADE DE GERENCIAMENTO
+DO PROGRAMA (UGP)
+Capacitação e Treinamento
+P- REFORÇO INSTITUCIONAL
+Outros
+P- CONSTRUÇÃO DE PASSAGENS DE FAUNA.
+P-  OUTROS GASTOS DO PROGRAMA
+Total Geral
+
+km
+
+km
+km
+
+-
+unidade
+-
+unidade
+unidade
+unidade
+unidade
+
+-
+unidade
+-
+unidade
+unidade
+-
+
+400,00
+
+6.000.000,00
+
+70,00
+30,00
+
+-
+1,00
+-
+1,00
+1,00
+1,00
+1,00
+
+-
+1,00
+-
+1,00
+1,00
+-
+
+10.000.000,00
+14.700.000,00
+
+85.600.000,00
+85.600.000,00
+6.120.000,00
+300.000,00
+3.820.000,00
+1.000.000,00
+1.000.000,00
+
+5.000.000,00
+5.000.000,00
+5.403.100,00
+5.000.000,00
+403.100,00
+304.000.000,00
+
+66,41
+56,31
+
+1,97
+
+3,29
+4,84
+
+28,16
+28,16
+2,01
+0,10
+1,26
+0,33
+0,33
+
+1,64
+1,64
+1,78
+1,64
+0,13
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+Para melhor entendimento, as ações em andamento ou já concluídas foram aqui relacionadas por componente:
+
+MOBILIDADE E MODERNIZAÇÃO DA INFRAESTRUTURA DE TRANSPORTES:
+
+Sistema de Gestão de Pavimentos - SGP: Implantado com o intuito de destinar os investimentos capazes de gerar a melhor relação custo-
+benefício à manutenção de suas rodovias. Hoje já implantado o SGP da GOINFRA apresenta o planejamento das ações necessárias a
+manutenção, restauração e pavimentação utilizando-se o HDM-4. Com o uso do HDM-4 são apresentadas simulações das variações das
+condições da via e os custos totais envolvidos, que incluem os custos de intervenção, de operação e dos usuários para diferentes
+estratégias de manutenção.
+
+A análise dos pavimentos realizada dentro do ciclo de gestão, para a posterior proposição de melhorias, é dada a partir da simulação de
+muitas combinações e alternativas possíveis. Assim sendo, utilizar modelos representativos capazes de relacionar todas as variáveis é
+uma questão indispensável. Com essa necessidade, o modelo HDM, resultado de estudos coordenados pelo Banco Mundial, surgiu para
+atender a necessidade de se ter um modelo capaz de realizar uma compilação dos dados obtidos e simular as condições físicas e
+econômicas do modo de transporte rodoviário em um determinado período de análise. OHDM-4, é o modelo utilizado para elaborar o
+plano plurianual de investimentos das rodovias da malha rodoviária pavimentada do estado de Goiás.
+
+(cid:10)
+
+
+Página: 12
+
+O Sistema de Gerência de Pavimentos representa uma possibilidade concreta de se avançar de um esquema de manutenção tradicional,
+apoiado quase sempre na correção de problemas dos pavimentos, para um sistema de manutenção planejada, onde a atuação sobre a
+malha viária abrange não só a solução de seus problemas imediatos, mas também, um trabalho de prevenção que prolongue sua vida útil
+e garanta padrões mínimos de serviço em toda a malha manutenida.
+
+Implementado e em execução a 2 (dois) anos, tornou-se um processo contínuo; para auxílio do planejamento e definição das tomadas de
+decisão das ações necessárias à manutenção, restauração e pavimentação nas rodovias estaduais de Goiás Processo SEI N.º
+202000036013509; (ANEXO CONTRATO SGP);
+
+Levantamento da malha rodoviária estadual e situação trechos: Concluído, contudo, o monitoramento e manutenção implementados já se
+transformou em um processo contínuo (ANEXO CONTRATO SGP);
+
+Levantamento das Obras de Artes Especiais (OAE) rodoviárias (pavimentadas e não pavimentadas) do estado de Goiás: Concluído,
+contudo, o monitoramento e manutenção implementados já se transformou em um processo contínuo em conjunto com as empresas
+gerenciadoras (ANEXO PONTE CONSOLIDADAS PROCESSADAS);
+
+Relação das Rodovias a serem restauradas: Concluído (ANEXO 6 - PLANO DE OBRAS RESTAURAÇÃO);
+
+Identificação dos Processos Erosivos: Em execução, se trata de processo contínuo executado no estado, utilizando técnicas de
+sensoriamento remoto e visitas in loco para o mapeamento dos passivos ambientais que envolvem processos erosivos; (ANEXO
+IDENTIFICAÇÃO PROCESSO EROSIVO);
+
+Construção de passagens de fauna: Em execução. Vários pontos de intervenção identificados e projetos em elaboração (ANEXO
+IDENTIFICAÇÃO DE PONTOS CRITICOS, CHAPADA E TERMO DE REFERÊNCIA);
+
+Monitoramento e de fauna, monitoramento de ocupação da faixa de domínio, diagnóstico e prognóstico de passivos ambientais em faixa
+de domínio, elaboração de estudos ambientais para implantação de Estradas-parque e Estudos para criação de Parque-linear
+
+(ANEXO TR CONTRATAÇÃO GERENCIADORA);
+
+MOBILIDADE URBANA (EIXO ANHANGUERA):
+
+Estudo Técnico Preliminar: Concluídos, diagnóstico, metodologia,  propostas de melhorias e impactos econômico e socioambiental (
+ANEXOS ESTUDOS TÉCNICOS TERMINAIS);
+
+Cotações de aquisições de ônibus elétricos: Concluído, (ANEXO PROPOSTA COMERCIAL EIXO ANHANGUERA);
+
+Projeto Básico das obras : Concluídos (ANEXO PROJETO BÁSICO);
+
+Orçamento Preliminar e Termos de Referência: Concluído (ANEXO ORÇAMENTO TERMINAIS E ANEXO TERMO DE REFERENCIA
+TERMINAIS);
+
+GERENCIAMENTO DO PROGRAMA:
+
+Contratação de Empresa supervisora para as obras: Termo de Referência elaborado para licitar a contratação de empresa especializada
+para o acompanhamento das obras;
+
+Projetos básicos: Em fase de Licitação para a contratação de empresa especializada para a elaboração dos projetos;
+
+Esse processo de articulação prévio, e o uso dos sistemas nacionais socioambientais e de aquisições, permitirão uma preparação rápida
+do projeto;
+
+LEI: Lei autorizativa para a contratação do empréstimo junto a Instituição Financeira, com garantia da União, para financiamento de obras
+no âmbito do programa, está na fase de preparação, como também o decreto de criação da UGP;
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 13
+
+Todas as Licenças Ambientais serão liberadas pela Secretaria de Meio Ambiente e Desenvolvimento Sustentável - SEMAD;
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Sem detalhes
+
+Estado de Goiás ()
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+(i) condições financeiras: informar as condições financeiras da operação pretendida:
+
+BIRD, que nos apresentou as seguintes condições financeiras:
+
+(a) prazo de desembolso de 96 (noventa e seis) meses,
+
+(b) prazo de carência de 96 (noventa e seis) meses,
+
+(c) prazo de amortização de 360 (trezentos e sessenta e seis) meses, semestral
+
+(d) prazo total de 408 (quatrocentos e oito) meses,
+
+(e) taxa de juros:1,4% a.a. + SFOR semestral,
+
+(f) taxa inicial (front-and fee) de 0,25% (zero virgula vinte e cinco por cento) a.a.,
+
+(g) comissão de compromisso - demais encargos de 0,25% (zero virgula vinte e cinco por cento) a.a, sobre o saldo não desembolsado.
+Começará a ser devida aos 60 dias corridos contados a partir da data da assinatura do contrato e será paga semestralmente.
+
+DEVIDO AO ENQUADRAMENTO DO ESTADO DE GOIÁS NO RRF PELA LEI 159/2017 E DECRETO 10681/2021, TODOS OS
+PRAZOS SOLICITADOS SERÃO ADEQUADOS PARA 36 MESES, CONFORME A LEI.
+
+(ii) necessidade de financiamento externo e a opção pelo agente financeiro:
+
+a) justificar a necessidade e a opção por financiamento externo em detrimento de financiamento interno;
+
+Em 2022 tivemos a dívida consolidada em R$ 24,5 BI e receita corrente líquida de R$ 37,2 BI, classificando o Estado no Capap B.
+
+No entanto, fomos fortemente impactados, por decisão do Governo Federal, por meio da Lei complementar 194/2022, que reduziu a
+alíquota do ICMS incidente sobre combustíveis, energia elétrica e comunicações. Tal redução impactou  diretamente o Estado de Goiás,
+causando uma perda de receita de R$ 5.5 BI no ano de 2023 comparado ao mesmo período de 2022. Devido ao fato da queda de
+arrecadação,  as despesas começaram a ultrapassar as receitas, entrando em desequilíbrio com previsão de fechamento negativo no
+exercício. Para tentar restabelecer o reequilíbrio financeiro, o Estado adotou medidas para executar os programas com recursos
+financiados de maneira que o impacto nos cofres do Estado sejam distribuídos, permitindo que as receitas se equilibrem com as despesas
+
+(b) justificar a opção pelo agente financeiro escolhido;
+
+A necessidade de financiamento externo e a opção pelo agente financeiro: As fontes de financiamento externos para projetos de
+infraestrutura apresentam condições mais favoráveis do que as internas, principalmente quando se trata de prazos como de e  carência e
+amortização.
+
+Em recentes  reuniões com instituições financeiras brasileiras com a previsão de empréstimos nos mesmos valores apresentados nas
+cartas, fomos informados pelos agentes financeiros que as taxas seriam bem superiores àquelas praticadas pelo Banco Mundial e Caf.
+Tendo em vista, que os Bancos  Mundial e Caf são bancos de fomento e visam o desenvolvimento de nações a taxas de juros mais baixas
+do que os praticados pelos agentes internos.
+
+Considerando as especificações dos componentes deste programa, o Agente Financeiro escolhido foi o BIRD, que nos apresentou as
+seguintes condições financeiras:
+
+(a) prazo de desembolso de 96 (noventa e seis) meses,
+
+(b) prazo de carência de 96 (noventa e seis) meses,
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 14
+
+(c) prazo de amortização de 360 (trezentos e sessenta e seis) meses,
+
+(d) prazo total de 408 (quatrocentos e oito) meses,
+
+(e) taxa de juros:1,4% a.a. + SFOR semestral,
+
+(f) taxa inicial (front-and fee) de 0,25% (zero virgula vinte e cinco por cento) a.a.,
+
+(g) demais encargos de 0,25% (zero virgula vinte e cinco por cento) a.a.,
+
+(c) comparar as condições financeiras do agente financeiro escolhido em relação a outros financiadores externos/internos
+
+Cotações financiamento interno:
+
+Operação BNDES
+
+TLP + 1,40% a.a..
+
+O valor da TLP será fixado no momento da assinatura do contrato de financiamento. Para contratos firmados em setembro/2023, a TLP
+correspondia a IPCA + 5,15% a.a., e o custo total do financiamento era de IPCA + 6,62% a.a...
+
+Prazo de carência (12 meses)
+
+Prazo de amortização (396 meses)
+
+Prazo total (408 meses)
+
+Operação Banco do Brasil
+
+taxa anual média dos Certificados de Depósitos Interbancários (CDI), acrescidos de sobretaxa efetiva de 6,80 p.p. (seis inteiros e oitenta
+centésimos) pontos percentuais ao ano.
+
+- Tarifa de estruturação de 2% sobre o valor do contrato
+
+CDI
+
+Prazo de carência (12meses)
+
+
+Prazo de amortização ( 108 meses)
+
+
+Prazo total ( 120 meses)
+
+Operação Caixa
+
+141,70% do CDI a.a
+
+A Comissão de Estruturação: será de 2,00% (dois por cento) sobre o valor total do financiamento, cobrada conforme abaixo:
+
+- 1,00% (um por cento) em até dois dias úteis após a assinatura do contrato e
+
+- 1,00% (um por cento) previamente ao primeiro desembolso.
+
+CDI
+
+Prazo de carência (24 meses)
+
+Prazo de amortização (96 meses)
+
+Prazo total (120 meses)
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 15
+
+Cotações financiamentos externos;
+
+CAF;
+
+O prazo de 20 anos, com 6 anos de carência. A taxa de juros é equivalente à SOFR (seis meses) + 1,80% a.a. nos primeiros 8 anos e de
+2,00% no restante do prazo. Também é cobrada uma comissão de Financiamento de 0,85% do valor do financiamento e comissão de
+compromisso: 0,35%do saldo não desembolsado.
+
+New Development Bank NDB.;
+
+Prazo de Carência: 60 (sessenta) meses; Prazo de Amortização; 300 (trezentos) meses; Prazo Total: 360 (trezentos e sessenta) meses;
+Periodicidade do pagamento das parcelas de amortizações: semestral; Taxa de Juros; podem variar de SOFR de 6 meses mais 0,65% até
+SOFR de 6 meses mais 1,25%, dependendo da maturidade média do empréstimo; Taxa de Abertura de 0,25% Comissão de
+compromisso: 0,25% (zero vírgula vinte e cinco por cento) anual, aplicado sobre os saldos não desembolsados do empréstimo.
+
+O BID.;
+
+As condições financeiras são: Taxa SOFR de 3 meses- Esta taxa é atualizada nos meses de janeiro, abril, julho e outubro e possui 3
+componentes (a SOFR de 3 meses + a margem de captação do BID + o spread aplicável a empréstimos do Capital Ordinário do BID
+determinado periodicamente pelo Diretório, hoje em 0,80%).A taxa aplicável ao primeiro trimestre de 2020 é de 2,11% (1,22% + 0,09% + 0
+,80%).A comissão de crédito é cobrada sobre saldos não desembolsados, começa a ser calculada 60 dias após a assinatura do contrato e
+é cobrada nas mesmas datas de pagamento dos juros. Esta comissão também é determinada periodicamente pela Diretório do BID e
+atualmente é de 0, 50% ao ano. O prazo máximo contado da assinatura do empréstimo é de 25 anos, tendo prazo de carência de 5 anos e
+meio, uma vida média ponderada máxima (VMP) de 15 anos e 3 meses, com amortizações iguais, consecutivas e semianuais começando
+no final do período de carência.
+
+AFD;
+
+O empréstimo terá uma maturidade de até 20 anos, com 5 de carência, e uma taxa equivalente à Euribor 6 meses+157 bp, comissão de
+abertura de 0,5% e comissão de empenho (sobre o valor não desembolsado) de 0,5%.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+O "PROGRAMA GOIÁS EM MOVIMENTO RECONSTRUÇÃO - BIRD " tem como estratégia principal a melhoria da trafegabilidade no
+Estado. Mesmo executado em regiões específicas, terá o potencial de impactar na melhoria de vida, diretamente e ou indiretamente, de
+mais de 6 milhões de habitantes, abrangendo beneficiários dos 246 municípios. Abrangência Geográfica:
+
+As ações dos componentes previstos em geral impactam positivamente todo o estado de Goiás.
+
+Especificamente para cada componente:
+
+Mobilidade Rural: Serão contemplados 400 km de vias e pontes dos  8.568,41 km de vias não pavimentadas existentes no estado
+abrangendo distribuídas pelos 246 municípios do estado.
+
+Os trechos e as pontes contemplados serão definidos de acordo com critério de criticidade, oriundos de levantamentos de campo tipo
+Condições de Trafegabilidade e Inventário de Rodovias que avaliam a situação qualitativa e funcional dos elementos constantes nas
+rodovias não pavimentadas do estado. Estes levantamentos já estão sendo realizados, entregues e analisados e compõem o SGP da
+GOINFRA.
+
+Mobilidade Urbana: Abrange aproximadamente 30 km de vias localizadas na Avenida Anhanguera, cidade de Goiânia-GO capital do
+estado.
+
+MOBILIDADE E MODERNIZAÇÃO DA INFRAESTRUTURA DE TRANSPORTES: As rodovias selecionadas para esta intervenção estão
+distribuídas em 54 municípios, abrangendo cerca de 2,8 milhões de pessoas (ANEXO MAPA DADOS MUNICÍPIOS ABRANGENTES,
+MAPA POPULAÇÃO E MAPA PIB).
+
+Somente na região Metropolitana de Goiânia, abrangerá mais de 2,4 milhões de pessoas, melhorando o acesso as escolas, ao trabalho e
+lazer.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 16
+
+Além disso, quando se investe em infraestrutura estamos buscando também o manejo da biodiversidade, a promoção da sustentabilidade
+ambiental, com a criação de corredores de fauna em rodovias e a mitigação de passivos ambientais entre outros.
+
+Espera-se que com a redução dos custos nos transportes, haja o aumento da competitividade e fomentação econômica do Estado de
+Goiás, aumentando a geração de empregos e renda, através do fortalecimento da economia estadual com a abertura de novos mercados,
+abrindo assim oportunidades e benefícios para novos empreendedores individuais, micro e pequenas empresas. O objetivo é beneficiar as
+populações de baixa renda, vulneráveis, minorias sociais, jovens, mantendo foco em gênero e/ou raça, entre outros.
+
+Não podemos esquecer a melhoria e/ou inovação nos processos de prestação de serviços público deste programa. Os benefícios
+garantirão que os projetos sejam implementados de forma eficaz e eficiente, por meio da qualificação, capacitação institucional contínua,
+aquisições de materiais e equipamentos, que terá um impacto em todo o estado, garantindo que as melhores práticas sejam adotadas e
+que haja uma preparação adequada para futuros desafios.
+
+O programa tem como foco superar os principais desafios de desenvolvimento enfrentados por pessoas no Estado, promovendo o
+crescimento sustentável, abrangendo diferentes temas, relacionados a aspectos ambientais e sociais.
+
+As medidas aqui propostas são voltadas para a melhoria do bem-estar da população como um todo, buscando reduzir as desigualdades
+sociais, ampliar o acesso a direitos e serviços básicos, a redução da pobreza, agricultura sustentável, educação de qualidade, trabalho
+decente e crescimento econômico.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BIRD
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+Valor Proposto
+
+152.000.000,00
+Valor Proposto
+
+152.000.000,00
+
+304.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+152.000.000,00
+Valor de Referência US
+$
+152.000.000,00
+
+304.000.000,00
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+Arranjo institucional
+
+A implementação do programa/projeto ocorrerá por meio da criação da Unidade de Gestão do Projeto (UGP), no âmbito da  Agência
+Goiana de Infraestrutura e Transportes (GOINFRA) subordinada à presidência e responsável pelas funções de administração,
+coordenação, supervisão e execução do programa.
+
+A UGP terá seu corpo técnico composto: um Coordenador Geral, um Coordenador Administrativo, um Coordenador Técnico e um
+Coordenador Socioambiental que serão responsáveis para executar de forma direta o controle, o acompanhamento, a fiscalização, a
+supervisão a avaliação da execução do programa, como também a administração do acordo de empréstimo a ser firmado.
+
+O financiamento para despesas operacionais da UGP será fornecido por fonte de recursos do Programa.
+
+ORGANISMOS COEXECUTORES: Não há necessidade de elaborar instrumentos legais (acordos interinstitucionais de gestão), para que
+os Organismos Coexecutores participem da execução do Programa nas diferentes fases de execução, condicionado apenas a natureza
+dos componentes, das intervenções e das atribuições destes organismos da estrutura organizacional estadual e da solicitação as UGP.
+
+Os órgãos da estrutura organizacional, relacionados abaixo, considerando a natureza dos componentes e das intervenções do Programa,
+serão os Órgãos Coexecutores, do programa.
+
+Secretaria de infraestrutura SEINFRA - Desempenhar a função de monitoramento e avaliação do projeto GM-Reconstrução
+
+Secretaria - Geral de Governo SGG -Elaboração de relatórios ao Governo; Acompanhamento das ações inerentes ao projeto
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 17
+
+Secretaria da Economia - Administração dos recursos financeiros do Estado
+
+Secretaria de Meio Ambiente e Desenvolvimento Sustentável SEMAD-Acompanhamento da emissão de documentos ambientais e
+fiscalização ambiental
+
+Secretaria de Educação SEDUC -é responsável por formular e executar a política estadual de educação
+
+Procuradoria Geral do Estado  PGE  Assessorar juridicamente o Estado de Goiás
+
+Controladoria Geral do Estado CGE responsável pelo controle externo do Estado de Goiás, responsável por auditoria, inspeção, correição
+e transparência
+
+GOINFRA através da Presidência implantará a  Unidade de Gestão do Projeto (UGP)
+
+A Matriz de Responsabilidade está no ANEXO 7
+
+ARRANJO OPERACIONAL
+
+ORGANISMOS OPERADORES: A participação em fases de execução dos Projetos será garantida mediante a assinatura de contratos de
+prestação de serviços, entre o Governo do Estado/ Organismo Executor (GOINFRA) com os respectivos Organismos Operadores que
+deverão assumir todas as responsabilidades que o Contrato de Empréstimo dispuser, durante a fase de operação e manutenção dos
+componentes do Programa
+
+Considerando a natureza dos componentes e das intervenções do Programa, bem como as atuais atribuições dos órgãos da estrutura
+organizacional, salientam-se como operadores empresas prestadoras de serviços de Consultoria para o apoio a UGP, de Auditora Externa
+, de Supervisão das obras e socioambientais, de elaboração de Estudos, e das empresas executoras das obras.
+
+A estrutura operacional do programa seguirá:
+
+GOVERNO DO ESTADO
+
+GOINFRA
+
+Presidência
+
+UGP
+
+a)Coordenação Geral b)Coordenação Técnica
+
+i. Estudos e Projetos (operador)
+
+ii Supervisão de Obras, Ambiental e Social (operador)
+
+iii.Execução de obras (operador)
+
+c) Coordenação Administrativa e financeira
+
+i.Apoio ao Gerenciamento (operador)
+
+ii.Auditoria (operador)
+
+d) Coordenação socioambiental
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 18
+
+A implementação do GM-Reconstrução se baseará em experiências anteriores de operações de créditos contratadas junto a organismos
+internacionais, dentre as quais: a operação de crédito externo do Estado no ano de 2013, com o BID, chamado BID I e BID II,para a
+pavimentação de rodovias estaduais no Estado  e os financiamentos  para restauração e recuperação da malha rodoviária estadual com o
+Banco Mundial (BIRD) o BIRD 1 e o BIRD 2: GOIAS STATE HIGHWAY MANAGEMENT - P055954, USD 65 MILHÕES 2001 - 2006 e
+GOIAS STATE HIGHWAY MANAGEMENT PROJECT (APL II) USD 65 MILHÕES -  P101418 2009, na qual para ambas criou-se uma
+Unidade de Gestão do Projeto (UGP), formada de engenheiros e outros profissionais, administradores, economistas, que acompanharam,
+monitoraram e controlaram todo o programa, diretamente subordinada à GOINFRA. Essas UGP's  também eram compostas por um
+coordenador geral, composta por um coordenador de engenharia, por times de economistas, bem como consultores e administradores
+nesta unidade, que controlava toda a documentação, a realização e o andamento cronograma de execução das obras por parte da
+agência. Isso foi realizado de forma bastante proveitosa, aprovada pelo Banco Mundial, com as missões aqui recebidas no Estado de
+Goiás, com todo o andamento, documentação, comunicação, tradução de edital, inclusive, com cursos de licitação internacional,
+juntamente com o BIRD e esta unidade, essa UGP. Desta forma, podemos podemos afirmar que o arranjo operacional a ser criado terá
+terá a capacidade para a implementação de de todas as ações do programa
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Agência Goiana de Infraestrutura e Transportes - GOINFRA
+
+Representante Oficial: Lucas Alberto Vissotto Junior
+
+Endereço da Sede: Av. Governador José Ludovico de Almeida nº 20 (BR-153, km 493,5), Conjunto Caiçara, Goiânia - Goiás -
+
+E-mail Institucional:
+
+Brasil
+
+Telefone: 6232654000
+
+CNPJ: 03520933000106
+
+
+### 4.3. Execução/Prazo
+
+
+Prazo de Desembolso: 3 Anos
+
+
+### 4.4. Execução/Cronograma
+
+
+Fax:
+UF:
+
+C - MOBILIDADE E MODERNIZAÇÃO DA INFRAESTRUTURA DE TRANSPORTES
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+192.176.900,00
+
+Ano 1
+
+FONTES
+
+CF
+
+BIRD
+
+19.258.000,00
+
+19.177.380,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+S - REQUALIFICAÇÃO DA INFRAESTRUTURA DE TRANSPORTE
+
+171.176.900,00
+
+17.158.000,00
+
+17.077.380,00
+
+P - EXECUÇÁO DA RESTAURAÇÃO DA MALHA RODOVIÁRIA ESTADUAL
+
+171.176.900,00
+
+17.158.000,00
+
+17.077.380,00
+
+S - MOBILIDADE RURAL
+
+P - EXECUÇÃO DE MELHORIAS PARA A MOBILIDADE NAS ESTRADAS NÃO
+PAVIMENTADAS
+S - AÇÕES AMBIENTAIS
+
+P - CONSTRUÇÃO DE PASSAGENS DE FAUNA.
+
+P - ESTRADAS-PARQUES
+
+C - MOBILIDADE URBANA (EIXO ANHANGUERA)
+
+S - CORREDOR VERDE NOVA ANHANGUERA
+
+P - AQUISIÇÃO DE ONIBUS ELÉTRICOS
+
+P - EXECUÇÃO DE INFRAESTRUTURA DE TRANSPORTE
+
+C - GERENCIAMENTO DO PROGRAMA
+
+P - AUDITORIA EXTERNA
+
+P - SUPERVISÃO DE OBRAS
+
+P - ESTUDOS E PROJETOS
+
+6.000.000,00
+
+600.000,00
+
+600.000,00
+
+6.000.000,00
+
+600.000,00
+
+600.000,00
+
+15.000.000,00
+
+1.500.000,00
+
+1.500.000,00
+
+5.000.000,00
+
+500.000,00
+
+500.000,00
+
+10.000.000,00
+
+1.000.000,00
+
+1.000.000,00
+
+100.300.000,00
+
+11.010.000,00
+
+11.010.000,00
+
+100.300.000,00
+
+11.010.000,00
+
+11.010.000,00
+
+85.600.000,00
+
+8.560.000,00
+
+8.560.000,00
+
+14.700.000,00
+
+2.450.000,00
+
+2.450.000,00
+
+11.523.100,00
+
+1.668.000,00
+
+2.071.100,00
+
+300.000,00
+
+45.000,00
+
+45.000,00
+
+3.820.000,00
+
+573.000,00
+
+573.000,00
+
+1.000.000,00
+
+150.000,00
+
+150.000,00
+
+P - APOIO À UNIDADE DE GERENCIAMENTO DO PROGRAMA (UGP)
+
+1.000.000,00
+
+150.000,00
+
+150.000,00
+
+P -  OUTROS GASTOS DO PROGRAMA
+
+P - REFORÇO INSTITUCIONAL
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+403.100,00
+
+0,00
+
+403.100,00
+
+5.000.000,00
+
+750.000,00
+
+750.000,00
+
+0,00
+
+31.936.000,00
+
+32.258.480,00
+
+0,00
+
+0,00
+
+C - MOBILIDADE E MODERNIZAÇÃO DA INFRAESTRUTURA DE TRANSPORTES
+
+S - REQUALIFICAÇÃO DA INFRAESTRUTURA DE TRANSPORTE
+
+P - EXECUÇÁO DA RESTAURAÇÃO DA MALHA RODOVIÁRIA ESTADUAL
+
+COMPONENTES
+
+S - MOBILIDADE RURAL
+
+P - EXECUÇÃO DE MELHORIAS PARA A MOBILIDADE NAS ESTRADAS NÃO
+PAVIMENTADAS
+S - AÇÕES AMBIENTAIS
+
+P - CONSTRUÇÃO DE PASSAGENS DE FAUNA.
+
+P - ESTRADAS-PARQUES
+
+C - MOBILIDADE URBANA (EIXO ANHANGUERA)
+
+S - CORREDOR VERDE NOVA ANHANGUERA
+
+P - AQUISIÇÃO DE ONIBUS ELÉTRICOS
+
+P - EXECUÇÃO DE INFRAESTRUTURA DE TRANSPORTE
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+BIRD
+
+48.145.000,00
+
+47.943.450,00
+
+42.895.000,00
+
+42.693.450,00
+
+42.895.000,00
+
+42.693.450,00
+
+1.500.000,00
+
+1.500.000,00
+
+1.500.000,00
+
+1.500.000,00
+
+3.750.000,00
+
+3.750.000,00
+
+1.250.000,00
+
+1.250.000,00
+
+2.500.000,00
+
+2.500.000,00
+
+23.850.000,00
+
+23.850.000,00
+
+23.850.000,00
+
+23.850.000,00
+
+21.400.000,00
+
+21.400.000,00
+
+2.450.000,00
+
+2.450.000,00
+
+
+Página: 19
+
+C - GERENCIAMENTO DO PROGRAMA
+
+P - AUDITORIA EXTERNA
+
+P - SUPERVISÃO DE OBRAS
+
+P - ESTUDOS E PROJETOS
+
+P - APOIO À UNIDADE DE GERENCIAMENTO DO PROGRAMA (UGP)
+
+P -  OUTROS GASTOS DO PROGRAMA
+
+P - REFORÇO INSTITUCIONAL
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+2.224.000,00
+
+2.224.000,00
+
+60.000,00
+
+60.000,00
+
+764.000,00
+
+764.000,00
+
+200.000,00
+
+200.000,00
+
+200.000,00
+
+200.000,00
+
+0,00
+
+0,00
+
+1.000.000,00
+
+1.000.000,00
+
+0,00
+
+74.219.000,00
+
+74.017.450,00
+
+0,00
+
+0,00
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+BIRD
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+C - MOBILIDADE E MODERNIZAÇÃO DA INFRAESTRUTURA DE TRANSPORTES
+
+28.887.000,00
+
+28.766.070,00
+
+96.290.000,00
+
+95.886.900,00
+
+S - REQUALIFICAÇÃO DA INFRAESTRUTURA DE TRANSPORTE
+
+25.737.000,00
+
+25.616.070,00
+
+85.790.000,00
+
+85.386.900,00
+
+P - EXECUÇÁO DA RESTAURAÇÃO DA MALHA RODOVIÁRIA ESTADUAL
+
+25.737.000,00
+
+25.616.070,00
+
+85.790.000,00
+
+85.386.900,00
+
+S - MOBILIDADE RURAL
+
+P - EXECUÇÃO DE MELHORIAS PARA A MOBILIDADE NAS ESTRADAS NÃO
+PAVIMENTADAS
+S - AÇÕES AMBIENTAIS
+
+P - CONSTRUÇÃO DE PASSAGENS DE FAUNA.
+
+P - ESTRADAS-PARQUES
+
+C - MOBILIDADE URBANA (EIXO ANHANGUERA)
+
+S - CORREDOR VERDE NOVA ANHANGUERA
+
+P - AQUISIÇÃO DE ONIBUS ELÉTRICOS
+
+P - EXECUÇÃO DE INFRAESTRUTURA DE TRANSPORTE
+
+C - GERENCIAMENTO DO PROGRAMA
+
+P - AUDITORIA EXTERNA
+
+P - SUPERVISÃO DE OBRAS
+
+P - ESTUDOS E PROJETOS
+
+P - APOIO À UNIDADE DE GERENCIAMENTO DO PROGRAMA (UGP)
+
+P -  OUTROS GASTOS DO PROGRAMA
+
+P - REFORÇO INSTITUCIONAL
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+Atos legais:
+
+1- Regime de Recuperação Fiscal - RRF
+
+900.000,00
+
+900.000,00
+
+3.000.000,00
+
+3.000.000,00
+
+900.000,00
+
+900.000,00
+
+3.000.000,00
+
+3.000.000,00
+
+2.250.000,00
+
+2.250.000,00
+
+7.500.000,00
+
+7.500.000,00
+
+750.000,00
+
+750.000,00
+
+2.500.000,00
+
+2.500.000,00
+
+1.500.000,00
+
+1.500.000,00
+
+5.000.000,00
+
+5.000.000,00
+
+15.290.000,00
+
+15.290.000,00
+
+50.150.000,00
+
+50.150.000,00
+
+15.290.000,00
+
+15.290.000,00
+
+50.150.000,00
+
+50.150.000,00
+
+12.840.000,00
+
+12.840.000,00
+
+42.800.000,00
+
+42.800.000,00
+
+2.450.000,00
+
+2.450.000,00
+
+7.350.000,00
+
+7.350.000,00
+
+1.668.000,00
+
+1.668.000,00
+
+5.560.000,00
+
+5.963.100,00
+
+45.000,00
+
+45.000,00
+
+150.000,00
+
+150.000,00
+
+573.000,00
+
+573.000,00
+
+1.910.000,00
+
+1.910.000,00
+
+150.000,00
+
+150.000,00
+
+500.000,00
+
+500.000,00
+
+150.000,00
+
+150.000,00
+
+500.000,00
+
+500.000,00
+
+0,00
+
+0,00
+
+0,00
+
+403.100,00
+
+750.000,00
+
+750.000,00
+
+2.500.000,00
+
+2.500.000,00
+
+304.000.000,00
+
+45.845.000,00
+
+45.724.070,00
+
+152.000.000,00
+
+152.000.000,00
+
+A Secretaria de Economia como gestora do Regime de Recuperação Fiscal - RRF, está providenciando a inclusão do programa dentro do
+plano de recuperação.
+
+2.Lei autorizativa do financiamento:
+
+A lei autorizativa está em preparação, para posterior aprovação.
+
+Em relação ao Componente do Corredor Verde, a autorização legal para esta operação já foi aprovada pela Assembleia Legislativa. Os
+próximos passos consistem na construção do regime jurídico e econômico que permitirá a modificação dos contratos de concessão e a
+criação da Sociedade de Propósito Específico (SPE), e todos já estão em andamento.
+
+3. Na fase licitatória, poderíamos citar como risco a morosidade na execução do processo, bem como o ato de impugnação ao Edital
+Licitação, ou mesmo o caso de licitação deserta. Todavia, como ações preventivas, o Governo do Estado de Goiás já toma as devidas
+precauções com ações coordenadas de planejamento e governança, com reuniões estratégicas para alinhamento entre todas as áreas
+envolvidas, controle de cronogramas, alocação de recursos humanos, observância às recomendações jurídicas dos órgãos, respaldo das
+jurisprudências de órgãos de controle, e interlocução com os possíveis licitantes.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+(i) as principais contratações previstas para a execução do programa/projeto (consultorias, obras, bens e serviços, outros);
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 20
+
+Considerando a complexidade das atividades relacionadas a execução do programa, haverá necessidade da contratação de empresas de:
+
+1.Consultoria para elaboração de projetos de engenharia,
+
+2.De supervisão e controle tecnológico das obras,
+
+3.De auditoría externa,
+
+4.Consultoria para o apoio ao gerenciamento e
+
+5.Empresas construtoras para os serviços de construção civil.
+
+(ii) se há previsão de contratação de pessoal (via concurso ou por outra via) para implementação e sustentabilidade do programa/projeto;
+
+A Goinfra , possui nos quadros de funcionários, profissionais habilitados para a gestão do programa. Assim, não há previsão de
+contratação de pessoal, via concurso ou por outra via, para implementação e sustentabilidade do programa.
+
+(iii) a experiência do órgão executor com as políticas de aquisição/contratação do agente financeiro;
+
+O Estado está em tratativas com o agente financeiro para conhecer as politicas de aquisição.
+
+Todas as contrações estão planejadas e seguirão o cronograma de execução, e as licitações, seguiram o que a lei brasileira determina.
+
+Serão elaborados projetos executivos, e outros estudos que se fizerem necessários às contratações. Os projetos já estão em fase de
+contratação. Em vista da sua repercussão tanto no alinhamento do contrato, como no ambiente concorrencial da licitação, os projetos
+possuem repercussão direta no âmbito da execução das obras, assim como nos problemas e custos gerados por todo o ciclo de vida dos
+contratos, portanto, existe um risco de projetos de engenharia e técnicos.
+
+O metaprocesso de contratações públicas trabalha com diversos elementos incertos, complexos, interconectados e voláteis. Ademais,
+opera com vários stakeholders internos e externos, mutáveis e, às vezes, concorrentes, evidenciando a importância de se estabelecer um
+modelo de governança.
+
+O PMO ou Escritório de Projetos é o setor responsável por implementar e garantir a manutenção dos padrões e boas práticas de
+Gerenciamento de Projetos adotados pelas organizações. Assim, por meio deste modelo, o Governo de Goiás tem continuadamente
+melhorado a comunicação e o gerenciamento de riscos e controle por meio do esclarecimento dos papéis e responsabilidades essenciais
+ao desenvolvimento dos programas. A necessidade de se gerir riscos de forma estruturada, com aplicação de metodologias e efetivo
+registro e controle das informações, tem se imposto como fundamental para a realização de contratações públicas e execução dos
+programas, e o Estado de Goiás avança em passos largos.
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+Não há imóveis, ou área ou famílias a serem desapropriadas.
+
+Por se tratar de rodovias já implantadas, e que seu traçado não será alterado, não há riscos relativos a desapropriações.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+Os licenciamentos ambientais, serão requeridos pela UGP (GOINFRA), junto a Secretaria de Meio Ambiente e Desenvolvimento
+Sustentável - SEMAD, após a conclusão dos projetos executivos e antes do início das obras.
+
+A SEMAD na qualidade de Coexecutora, terá a função de fiscalizar todas as atividades a serem desenvolvidas nas obras do programa.
+
+Desta forma, espera se que não haja os riscos ambientais decorrentes da implementação do programa.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 21
+
+A GOINFRA em 2002, executou com sucesso um programa com o BIRD. Neste a Agência está em tratativa com o BIRD, para conhecer
+todas as políticas/salvaguardas ambientais do agente financeiro.
+
+Riscos e ações mitigadoras.
+
+Nos trechos das obras a serem executadas, já possuem um tráfego considerável, pois a população humana e as atividades econômicas já
+se instalaram com grande capacidade produtiva, pouco resta do ambiente natural.
+
+Os impactos ambientais de maior amplitude já ocorreram e/ou foram absorvidos e/ou se tornaram permanentes, contudo, os investimentos
+programados gerarão novos impactos negativos, que ficarão limitados ao alcance das faixas de domínio das vias e ao canteiro de obras e
+ao período que durarem as atividades de construção, e pelos quais o Estado dispõe de instrumentos mitigadores adequados.
+
+O Programa então, de maneira geral, terá impacto ambiental positivo, uma vez que serão implantados assegurarão uma boa
+
+qualidade para a população. E se destacam, pois representarão a economia de combustíveis fósseis com a consequente redução das
+emissões de carbono para a atmosfera.
+
+As intervenções localizadas em pontos críticos da rede estadual não pavimentada consistem principalmente e garantir a trafegabilidade e
+reconstrução de ponte, tendo como característica os baixos impactos negativos, que normalmente se limitam a impactos locais
+relacionados com a execução da obra.
+
+As análises e recomendações restringirão às condições particulares dos trechos, considerando que as recomendações voltadas à
+execução da obra propriamente dita (acampamentos, instalações de apoio, horários de trabalho e controle de ruídos, emissões de
+fumaças e gases, armazenagem de produtos poluentes e de explosivos, sinalização das obras e segurança dos usuários; controle e
+descarte de efluentes da obra, das máquinas e das oficinas; destinação final de resíduos sólidos e de materiais perigosos, jazidas e locais
+de empréstimo; controle de erosão, recuperação de áreas degradadas; educação ambiental dos trabalhadores) serão objeto de projetos
+específicos para solução de problemas ambientais que exigem uma metodologia específica, no sentido de que para um problema tem que
+haver uma solução específica das normas e procedimentos ambientais e de Instruções de Serviço de caráter genérico, válidas para todas
+as obras, que devem fazer parte dos cadernos de encargos.
+
+Em síntese, estes investimentos serão pontuais e localizados, não implicando modificações de traçados, e ocorrerão em vias já existentes.
+Portanto, seus impactos ambientais de caráter regional (áreas de influência indiretas) já foram absorvidos e/ou se tornaram permanentes
+e os impactos previsíveis se restringem às consequências das atividades de construção (supressão de camada vegetal no entorno das
+pontes e bueiros, desnudamento de solo, ruído de máquinas e motores, impedimentos do fluxo normal do tráfego, poeira fugidia, descarte
+de materiais removidos, resíduos sólidos e efluentes líquidos, afugentamento de fauna local, etc.) e à operação das instalações conexas (
+abertura de caminhos de acesso, acampamentos, oficinas, etc.).
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+Não foi identificado riscos sociais decorrentes da implementação do programa/projeto sobre a população; minorias sociais, vulneráveis,
+baixa renda e populações tradicionais como: indígenas, quilombolas, extrativistas e outras.
+
+A GOINFRA em 2002, executou com sucesso um programa com o BIRD. Neste a Agência está em tratativa com o BIRD, para conhecer
+todas as políticas/salvaguardas ambientais do agente financeiro.
+
+.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+Não foi identificado necessidade de reassentamentos.
+
+Por se tratar de rodovias já implantadas, e que seu traçado não será alterado, não há riscos relativos a desapropriações e por
+consequência de reassentamentos.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 22
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)

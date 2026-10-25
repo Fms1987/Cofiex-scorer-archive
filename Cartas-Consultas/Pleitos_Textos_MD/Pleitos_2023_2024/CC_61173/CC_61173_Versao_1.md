@@ -1,0 +1,3789 @@
+# Carta-Consulta CC_61173 — Versao 1 (SIGS)
+
+
+CARTA CONSULTA
+
+Programa para Aumento da Resiliência Climática e Redução de Risco de desastres em
+Santa Catarina
+
+Nº Carta Consulta: 61173
+Mutuário: Estado de Santa Catarina
+Tipo de Operação: Operação de crédito externo
+
+Fontes Internas:
+Contrapartida Financeira: US$ 55.400.000,00
+Fontes Externas:
+Banco Internacional para Reconstrução e Desenvolvimento - BIRD: US$ 221.600.000,00
+
+
+Sumário
+
+
+Página: 2
+
+1. Marco de Referência
+
+1.1. MARCO DE REFERÊNCIA/DIAGNÓSTICO
+
+Diante dos impactos crescentes das mudanças climáticas e do aumento da frequência de desastres naturais, a necessidade de
+investimentos em infraestrutura resiliente e na proteção da população e ativos nunca foi tão crítica. Inserida neste contexto, SC tem
+enfrentado uma diversidade de eventos extremos e seus impactos. Seu território é frequentemente afetado por chuvas intensas que
+causam enxurradas, inundações, alagamentos e deslizamentos, bem como por tempestades severas, com ventos intensos, raios, granizo
+e até mesmo tornados. O Relatório do Banco Mundial, elaborado com base nos registros realizados pelos estados e municípios, apontou
+que, entre 1995 e 2019, foram registrados mais de 5.500 desastres, impactando aproximadamente 10 milhões de pessoas neste período.
+Estes desastres, em média, ocasionam perdas econômicas próximas a R$ 1 bilhão por ano. Este histórico coloca SC entre os estados
+com maior impacto social e econômico, com maior destaque quando considerados os eventos hidrológicos, sendo o 1º em danos e
+prejuízos, e o 2º em afetados diretos.
+
+Ao fazer um recorte sobre o Vale do Rio Itajaí, observa-se que ele concentra 25% dos registros do estado, 30% das pessoas afetadas e
+metade das perdas econômicas registradas. Ademais, trata-se de uma das principais regiões do estado sob o aspecto socioeconômico.
+Conforme dados do IBGE, a mesorregião reúne 1,9 milhões de habitantes, cerca de 26% da população estadual, e registrou, em 2021, um
+PIB acima de R$ 74 bilhões, o que representa aproximadamente 22% do acumulado em todo o estado. A região é afetada
+recorrentemente por inundações, como as ocorridos nos anos de 1983, 1984, 1992, 1997, 2008, 2011 e 2013 (Ver linha do tempo no
+Anexo). Mais recentemente, em outubro de 2023, o Vale foi novamente afetado por fortes chuvas. O evento atingiu 3,6 milhões de
+pessoas e ocasionou R$ 1,2 bilhão em prejuízos. Dentre as 295 cidades catarinenses, 159 registraram algum dano e mais de 100
+decretaram situação de emergência. Considerando a alta recorrência e impactos no Vale do Itajaí, foi firmada uma cooperação com a
+Agência Internacional de Cooperação Internacional do Japão (JICA). Esta resultou na formulação de um Plano Diretor com medidas de
+prevenção e mitigação de desastres e de um Estudo de Viabilidade que apontou os projetos prioritários, finalizados em 2011. Desde sua
+concepção, estes produtos vêm sendo empregados como referência para o desenvolvimento de estudos de engenharia, projetos e obras
+de prevenção e mitigação. Porém, a maior parte das recomendações ainda precisa ser iniciada ou retomada, sendo decisão do Governo
+implementar, com urgência, as medidas mais relevantes, visando mitigar os impactos como os observados em outubro do último ano.
+
+Apesar de significativos avanços, muitos desafios persistem no contexto de avaliação e monitoramento dos riscos. Como consequência do
+aquecimento global, há uma projeção futura de aumento na frequência e intensidades de eventos climáticos extremos nas regiões
+costeiras do Sul e Sudeste do Brasil. Neste contexto, são necessários investimentos para aumentar o entendimento dos riscos regionais e,
+assim, compreender melhor as necessidades de adequação a esta nova realidade. A gestão de riscos de desastres em SC, assim como
+no Brasil e no Mundo, se depara com a necessidade premente de desenvolver uma abordagem mais sistemática e integrada. Isso exige
+investimentos em infraestrutura para prevenção, mas também em pesquisa e tecnologia para uma melhor compreensão e monitoramento
+dos riscos. Neste aspecto. a rede de radares ainda não está completa, sendo necessária a aquisição de um para a Grande Florianópolis,
+visando completar a rede do litoral, tão afetada por chuvas de circulação marítima, que hoje são subestimadas. A rede de monitoramento
+hidrometeorológica ainda é deficitária em pontos críticos, havendo vazios de informações em áreas prioritárias.
+
+Diante deste cenário, é preciso investir na caracterização e, consequentemente, no entendimento da população mais vulnerável. O
+Serviço Geológico do Brasil identificou 2.878 setores de risco no estado, classificados pela instituição como de Alto e Muito Alto Risco,
+onde residem, aproximadamente, 420 mil catarinenses. Apesar do IDH estadual ser 0,792 (IBGE,2021), é preciso ressaltar que estas
+áreas são ocupadas por uma população mais vulnerável e com menor acesso aos serviços públicos.
+
+Por fim, é preciso melhorar as capacidades locais, tanto para o reconhecimento dos riscos quanto para a preparação e resposta a eventos
+extremos. É preciso garantir que a informação sobre riscos seja transmitida de forma rápida e eficaz, permitindo que as comunidades
+tomem medidas preventivas ou se preparem para responder adequadamente. Ademais, é primordial inserir uma abordagem mais centrada
+nas pessoas, para que os alertas sejam efetivamente recebidos, compreendidos e atendidos pelas comunidades em risco.
+
+Para maiores detalhes consultar o tópico Diagnóstico do Anexo.
+
+1.2. MARCO DE REFERÊNCIA/SOLUÇÃO PROPOSTA - RESULTADOS ESPERADOS - SUSTENTABILIDADE
+
+As soluções propostas podem ser consolidadas em 4 eixos principais:
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 3
+
+1) Obras de Infraestrutura para Mitigação de Inundações: Melhoramento Fluvial no Médio Vale do Rio Itajaí-Açu; Melhoramento Fluvial no
+Alto Vale do Rio Itajaí-Açu; Barragem de contenção em Mirim-Doce; Barragem de contenção em Petrolândia; Barragem de contenção em
+Braço do Trombudo; Barragem de contenção em Botuverá. Além do investimento em infraestruturas, o Programa prevê a modernização
+das barragens sob gestão da SDC: Manutenção, automação e modernização da Barragem Sul em Ituporanga; Manutenção, automação e
+modernização das Barragem Oeste em Taió. 2) Reconhecimento, Avaliação e Monitoramento dos Riscos Climáticos: Elaboração do Perfil
+de Risco de Desastres por Bacia Hidrográfica; Estudo para Avaliar os Impactos das Mudanças Climáticas em Santa Catarina; Atualização
+os Modelos Digitais de Terreno e de Elevação; Desenvolvimento dos PDRRD; Plano de Ação para Proteção do Setor Privado; Aquisição
+de Radar para a Grande Florianópolis; Estudo técnico e aquisição e implantação de equipamentos e serviços para ampliação,
+fortalecimento e operação da rede de monitoramento estadual; Sistema Integrado de Ferramentas de Análise e Previsão
+Hidrometeorológica; Sistema de emissão e gerenciamento de avisos e alertas; Plataforma web e aplicativo do Observatório de Avisos e
+Alertas Hidrometeorológicos; Sistema de registro e gerenciamento de ocorrências e desastres; Ferramenta para a comunicação do Grupo
+de Ações Coordenadas; Transformação energética das instalações e equipamentos do Sistema de Monitoramento e Alerta. 3) Resiliência
+Local e Fortalecimento Institucional: Elaboração e atualização dos mapas de risco locais, com foco na identificação das populações mais
+vulneráveis; Elaboração de mapas de risco com foco nas unidades escolares e de saúde; Elaboração de instrumentos para Gestão de
+Risco de Desastres (GRD) no nível municipal; Promoção do desenvolvimento de sistemas de alerta local e percepção de risco da
+população; Atualização e aprimoramento do Índice Municipal de Risco de Desastres por Capacidades; Capacitações sobre Gestão de
+Riscos e Resiliência Climática; Capacitações e treinamentos da população vulnerável para entendimento e tomada de ações frente a
+alertas hidrometeorológicos; Ampliação do Programa Defesa Civil na Escola; Atualização e aprimoramento dos Protocolos de Atuação
+Conjunta entre as instituições no âmbito estadual; Promoção de criação e manutenção de Nupdec's; Fortalecimento da atuação
+regionalizada para Gestão de Riscos e de Desastres; Linhas de financiamento para adoção de novas tecnologias e processos inovadores
+na GRD. 4) Administração do Programa: Além do corpo de servidores disponíveis na (SDC), será necessária a contratação de empresas
+especializadas no serviço de consultorias e gerenciamento. Em resumo, a SDC, juntamente com as empresas especializadas contratadas,
+estará preparada para assumir a administração do programa, garantindo uma gestão eficiente, transparente e responsável de todos os
+recursos e atividades relacionadas à proteção e resiliência da comunidade de Santa Catarina frente aos desastres naturais.
+
+Resultados Esperados
+
+Com a implementação do Programa Santa Catarina Protegida e Resiliente, devem ser alcançados os seguintes resultados: 1) Obras de
+Infraestrutura para Mitigação de Inundações: Redução dos danos causados por inundações no Vale do Rio Itajaí-Açu, resultando em
+menor impacto socioeconômico durante eventos de inundação; Aumento da capacidade de drenagem e controle de enchentes,
+contribuindo na proteção de áreas urbanas e rurais vulneráveis; Maior segurança e qualidade de vida da população local, reduzindo o
+risco de perdas materiais e humanas associadas a eventos extremos de precipitação. 2) Reconhecimento, Avaliação e Monitoramento dos
+Riscos Climáticos: Identificação precisa das áreas de maior vulnerabilidade a desastres climáticos, permitindo uma alocação mais
+eficiente de recursos para a redução de riscos; Desenvolvimento de estratégias, baseadas em evidências científicas e tecnologias
+inovadoras de monitoramento; Cobertura total da rede de radares do Litoral; Ampliação da rede de monitoramento e desenvolvimento de
+sistemas robustos para análise de dados e geração de alertas antecipados; Rede de monitoramento integrada para eventos adversos e
+emergências hidrometeorológicas; Sistema avançado de previsão de tempo e clima; Sistema de previsão numérica de tempo de
+curtíssimo prazo com assimilação rápida de dados e técnicas avançadas de modelagem numérica; Maior assertividade e antecipação de
+condições de tempo severo, com disponibilização rápida das previsões; Ferramenta para o CIGERD para gerenciamento, elaboração,
+disseminação e armazenamento de alertas, integrada com diversas mídias sociais; Maior efetividade dos avisos e alertas de desastres,
+com campanhas educativas para aprimoramento do monitoramento e disseminação de alertas; Sistema de registro e gestão de
+ocorrências e desastres para instrumentalizar as defesas civis com ferramentas para todo o ciclo de gestão de desastres, incluindo a
+integração com sistemas do governo federal e homologação de situações de emergência e calamidade pública. 3) Resiliência Local e
+Fortalecimento Institucional: Maior capacidade local para gerir riscos e responder a desastres; Conhecimento no nível municipal que
+permita melhor avaliação de prioridades e apoie tomada de decisão mais eficiente de investimentos; Melhor coordenação e colaboração
+entre diferentes setores e atores envolvidos na gestão de riscos; Capacitação e empoderamento das instituições locais, incluindo agências
+governamentais, organizações da sociedade civil, academia e setor privado; Aumento da conscientização e engajamento da comunidade
+local em medidas de prevenção e preparação para desastres, contribuindo para uma resposta mais eficaz e uma maior resiliência frente a
+eventos adversos.
+
+Sustentabilidade
+
+A SDC será o órgão executor central do projeto e possui um quadro técnico amplo e capacitado, composto por 126 servidores que irão
+incorporar os instrumentos, equipamentos e sistemas desenvolvidos no  Programa. Cabe salientar, ainda, que os custos incrementais que
+serão gerados com a implementação do programa proposto compõem este planejamento e serão absorvidos parte pelo Tesouro Estadual,
+por meio da alocação de servidores, instalações e custos operacionais, e parte será custeada pelo próprio programa, por meio do
+financiamento de equipes temporárias para gestão técnica, administrativa e financeira.
+
+1.3. MARCO DE REFERÊNCIA/ORIENTAÇÕES ESTRATÉGICAS - CONTRAPARTIDA - TAXA DE CÂMBIO
+
+Orientações Estratégicas
+
+O planejamento de médio prazo da SDC, refletido em seu Plano Plurianual (PPA) 2024-2027, é amplamente aderente ao projeto
+apresentado. Para ações e projetos relacionados à redução das vulnerabilidades do território catarinense, em especial a execução de
+obras de infraestrutura para a mitigação de riscos hidrológicos, fortalecimento da rede de monitoramento e alerta dos riscos climáticos e
+ações diversas destinadas ao aumento da resiliência e fortalecimento institucional das estruturas de defesa civil, estão previstos recursos
+da ordem de R$ 2,4 bilhões. No que tange à gestão integrada dos recursos hídricos, o programa segue as orientações estratégicas do
+Plano Estadual de Recursos Hídricos (2017), na medida que contempla ações, estruturais e não estruturais, voltadas à mitigação dos
+eventos hidrológicos extremos e preservação ambiental.
+
+
+Página: 4
+
+Recentemente o estado elaborou o seu Plano Estadual de Proteção e Defesa Civil (PPDC-SC), finalizado em 2022. Este instrumento visa
+orientar o trabalho de planejamento e implementação das ações voltadas à redução de risco de desastres e aumento da resiliência, por
+meio de estratégias que serão detalhadas mais à frente, no tópico referente às etapas realizadas. As soluções e produtos propostos neste
+programa estão alinhados aos eixos de atuação estabelecidos no PPDC, com destaque para (i) compreender os riscos; (ii) fortalecer a
+governança voltada a GRD; e (iii) investir na redução de riscos por meio de um planejamento integrado e multisetorial.
+
+O Programa proposto está, também, alinhado estrategicamente com o Eixo 2 do PPA 2024 ? 2027 do Governo Federal, que preconiza o
+Desenvolvimento econômico e sustentabilidade socioambiental e climática, particularmente ao Objetivo Estratégico 2.2: Ampliar as
+capacidades de prevenção, gestão de riscos e resposta a desastres e adaptação às mudanças climáticas.
+
+Para detalhamento das Orientações Estratégicas, vide Anexos.
+
+Contrapartida
+
+A origem da contrapartida estará em conformidade com o disposto na Resolução COFIEX nº 3 de 29/05/2019, garantindo que a mesma
+será proveniente de receitas tributárias previstas nos artigos 155, 157 e 159, inciso I, (a), da Constituição Federal e o aporte da
+contrapartida será de 20% do valor do Programa a ser financiado. Os gastos de contrapartida só serão elegíveis a partir da data de
+publicação da Resolução da COFIEX que autoriza a preparação do Programa, observado o disposto na Resolução COFIEX nº 3.
+
+CONTRAPARTIDA: O Governo do Estado de Santa Catarina disponibilizará recursos de contrapartida no total de US$ 55.400.000,00.
+
+Taxa de Câmbio
+
+A Taxa de Câmbio é de R$ 5,06 / USD (05/04/2024).
+
+2. Projeto
+
+### 2.1. Título
+
+
+Programa para Aumento da Resiliência Climática e Redução de Risco de desastres em Santa Catarina
+
+
+### 2.2. Título Abreviado
+
+
+Santa Catarina Protegida e Resiliente
+
+
+### 2.3. Mutuário
+
+
+Estado de Santa Catarina
+
+
+### 2.4. Tipo Operacao
+
+
+Operação de crédito externo
+
+2.5. PROJETO/OBJETIVO GERAL- OBJETIVOS ESPECÍFICOS
+
+Objetivo Geral
+
+O objetivo do Programa Santa Catarina Protegida e Resiliente é desenvolver e implementar uma abordagem integrada para aumentar a
+resiliência e reduzir os impactos sociais e econômicos causados por desastres no Estado de Santa Catarina.
+
+Objetivos Específicos
+
+O objetivo do Programa será alcançado por meio dos seguintes objetivos específicos:
+
+1. Executar as obras de infraestrutura mais relevantes para mitigação os riscos de inundação no Vale do Rio Itajaí-Açu;
+
+2. Elaborar os Planos de Redução de Risco de Desastres para as 24 Bacias Hidrográficas do Estado, de forma a estabelecer as
+principais diretrizes, intervenções necessárias e custos estimados; com foco principal nas populações mais expostas e vulneráveis,
+infraestrutura pública, proteção das unidades de saúde e escolares no suporte ao desenvolvimento sustentável do setor privado;
+
+3. Ampliar a capacidade de monitoramento e emissão de alertas antecipados do Estado, incluindo a expansão da rede monitoramento e
+o desenvolvimentos de sistemas de informação;
+
+4. Apoiar e atuar complementarmente aos municípios para o desenvolvimento de instrumentos que aumentem sua capacidade para
+reduzir os elementos de exposição vulnerabilidades locais, gerir e monitorar riscos e responder a eventos climáticos; e
+
+5. Promover a ação setorial integrada, nos níveis estadual e municipal, voltada à gestão de riscos de desastres, por meio do
+fortalecimento da articulação entre as instituições, setor privado e sociedade civil.
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 5
+
+
+### 2.6. Projeto/Indicadores
+
+
+Descrição
+Pessoas com maior resiliência aos riscos
+climáticos.
+
+População beneficiada pela redução de perdas
+econômicas e danos materiais em função da
+modernização e manutenção das barragens de
+controle de cheias no Vale do Itajaí.
+Municípios impactados pelas obras de
+infraestrutura para redução de inundações no
+Vale do Itajaí.
+
+Expansão da Área de Controle da Bacia
+Hidrográfica
+
+Número de Planos Diretores de Redução de
+Risco de Desastres (PDRRD) elaborados por
+bacia hidrográfica do estado
+
+Percentual de cobertura da rede de radares
+meteorológicos do Litoral de SC
+
+Percentual da população cadastrada para
+recebimentos de alertas via SMS transmitidos
+pelo sistema IDAP.
+
+Implantação do sistema para monitoramento e
+previsão de variáveis climáticas e
+hidrometeorológicas, e ocorrências relacionadas
+a desastres.
+Antecipação média da emissão de alertas de
+curtíssimo prazo
+
+Expansão da Rede de Monitoramento
+
+Índice de Satisfação dos Usuários dos Serviços
+de Monitoramento e Alerta
+
+Nível da Capacidade Municipal para Gestão de
+Riscos, Resposta a Desastres e Adaptação a
+Mudanças Climáticas.
+
+Análise e mapeamento de risco de inundações e
+deslizamentos das unidades de saúde e
+escolares do estado.
+
+
+Página: 6
+
+Linha de Base
+0,00
+
+Meta
+1.050.000,00
+
+0,00
+
+1.975.000,00
+
+Fórmula de Cálculo Unidade de Medida
+Pessoas Impactadas
+Número de pessoas
+impactadas
+diretamente pela
+execução das obras
+de infraestrutura no
+Vale do Itajaí
+Soma da população
+residente no Vale do
+Itajaí
+
+Pessoas
+
+Municípios
+
+0,00
+
+14,00
+
+Porcentagem
+
+28,73
+
+35,61
+
+Unidade
+
+1,00
+
+23,00
+
+% Área
+
+73,00
+
+100,00
+
+% da População
+Cadastrada
+
+12,15
+
+24,30
+
+Unidade
+
+0,00
+
+1,00
+
+Horas
+
+3,00
+
+6,00
+
+Unidade
+
+Escala de 0 a 100
+
+Escala de 0 a 10
+
+42,00
+
+0,00
+
+3,08
+
+180,00
+
+90,00
+
+6,00
+
+% Unidades
+Mapeadas
+
+0,00
+
+100,00
+
+Número de municípios
+com redução de
+áreas inundadas por
+eventos com o mesmo
+tempo de retorno do
+projeto.
+(área total de controle
+atual + área total de
+controle após
+construção) * 100 /
+área total da bacia
+Número de PDRRD
+elaborados durante a
+execução do
+Programa
+(Área coberta pelos
+radares / Área total do
+litoral) * 100
+Nº de pessoas (CPFs)
+cadastrados no
+sistema / (Total da
+população do estado)
+Sistema desenvolvido
+e implementado.
+
+Soma (Hora da
+Emissão do Alerta &#
+8722; Hora do Início
+do Evento Previsto) /
+Número Total de
+Alertas Emitidos
+Número de estações
+instaladas no período
+Soma das notas de
+satisfação / Número
+total de respostas
+[Soma (Elementos
+presente no município
+)] / Total municípios.
+Observada a
+existência de 10
+elementos no
+município. Sendo
+atribuído o valor 1
+quando existe e  valor
+0 quando não está
+presente. (Os
+elementos estão
+descritos no Anexo I)
+(Nº total de unidades
+escolares + Nº total de
+unidades de saúde) /
+(Total de unidades de
+saúde e escolares
+mapeadas) *100
+
+
+Página: 7
+
+Pessoas que participaram de cursos/eventos de
+conscientização da população para percepção
+dos riscos
+
+Municípios que elaboraram o Plano Municipal e
+Plancon
+
+Alunos do Ensino Médio impactados pelo
+Programa Defesa Civil na Escola, por meio  da
+incorporação da temática nas escolas, de forma
+interdisciplinar e transdisciplina.
+
+Escolas quilombolas e indígenas atendidas pelo
+Programa Defesa Civil na Escola.
+
+Soma do número dos
+participantes dos
+cursos/eventos
+realizados pela SDC
+Soma do número de
+municípios que
+elaboraram o Plano
+Municipal de Proteção
+e Defesa Civil ou
+Plano de Contingência
+Soma do número de
+alunos que
+participaram de
+atividades dentro do
+Programa Defesa Civil
+na Escola.
+(Nº total de escolas
+quilombolas e
+indígenas) / (Nº de
+escolas quilombolas e
+indígenas atendidas)
+*100
+
+
+### 2.7. Projeto/Componentes
+
+
+Pessoas
+
+0,00
+
+420.000,00
+
+Municípios apoiados
+
+0,00
+
+100,00
+
+Alunos
+
+0,00
+
+523.000,00
+
+Percentual
+
+38,00
+
+100,00
+
+
+Página: 8
+
+Valor(US$)
+224.000.000,00
+150.000.000,00
+80.000.000,00
+70.000.000,00
+69.000.000,00
+18.000.000,00
+15.000.000,00
+5.000.000,00
+31.000.000,00
+5.000.000,00
+2.500.000,00
+2.500.000,00
+21.000.000,00
+11.700.000,00
+
+300.000,00
+240.000,00
+4.500.000,00
+6.400.000,00
+260.000,00
+9.300.000,00
+2.700.000,00
+1.800.000,00
+3.200.000,00
+
+250.000,00
+150.000,00
+1.200.000,00
+20.000.000,00
+8.500.000,00
+
+4.000.000,00
+
+1.200.000,00
+2.200.000,00
+400.000,00
+200.000,00
+160.000,00
+340.000,00
+
+11.500.000,00
+320.000,00
+80.000,00
+900.000,00
+200.000,00
+10.000.000,00
+12.000.000,00
+12.000.000,00
+12.000.000,00
+277.000.000,00
+
+
+Componentes
+C - OBRAS DE INFRAESTRUTURA PARA  MITIGAÇÃO DE INUNDAÇÕES
+S -  OBRAS DE MELHORAMENTO FLUVIAL  NO RIO ITAJAÍ-AÇU
+P - Melhoramento Fluvial do Trecho  do Médio Vale do Rio Itajaí-Açu
+P - Melhoramento Fluvial do Trecho do Alto Vale do Rio Itajaí-Açu
+S - CONSTRUÇÃO DE BARRAGENS DE PARA CONTENÇÃO E CONTROLE DE CHEIAS
+P - Barragem de contenção em Mirim-Doce
+P - Barragem de contenção em Petrolândia
+P - Barragem de contenção em Braço do Trombudo
+P - Barragem de contenção no Rio Itajaí-Mirim em Botuverá
+S - MANUTENÇÃO, AUTOMAÇÃO E MODERNIZAÇÃO DA BARRAGENS DE CONTENÇÃO EXISTENTES
+P - Manutenção, automação e modernização da Barragem Sul em Ituporanga
+P - Manutenção, automação e modernização das Barragem Oeste em Taió
+C - RECONHECIMENTO, AVALIAÇÃO E MONITORAMENTO DOS RISCOS CLIMÁTICOS
+S - AVALIAÇÃO E PLANEJAMENTO PARA AÇÕES DE REDUÇÃO DE RISCO E AUMENTO DA RESILIÊNCIA
+POR BACIA HIDROGRÁFICA
+P - Elaboração do Perfil de Risco de Desastres por Bacia Hidrográfica.
+P - Estudo para Avaliar os Impactos das Mudanças Climáticas em Santa Catarina.
+P - Levantamento Aerofotogramétrico, Gravimétrico e Laser Aerotransportado
+P - Desenvolvimento dos Planos Diretores para Redução de Risco de Desastres (PDRRD).
+P - Plano de Ação para Proteção do Setor Privado.
+S - EXPANSÃO E MODERNIZAÇÃO DO SISTEMA ESTADUAL DE MONITORAMENTO E ALERTA.
+P - Aquisição de Radar para Grande Florianópolis.
+P - Estudo técnico e ampliação da rede de monitoramento estadual.
+P - Sistema para monitoramento e previsão de variáveis climáticas e hidrometeorológicas, e ocorrências
+relacionadas a desastres.
+P - Plataforma web do Observatório de Avisos e Alertas Hidrometeorológicos
+P - Ferramenta para a comunicação do Grupo de Ações Coordenadas.
+P - Transformação energética das instalações e equipamentos do Sistema de Monitoramento e Alerta.
+C - RESILIÊNCIA LOCAL E FORTALECIMENTO INSTITUCIONAL
+S - AMPLIAR AS CAPACIDADES LOCAIS PARA GESTÃO DE RISCOS E ENFRENTAMENTO A DESASTRES
+CLIMÁTICOS
+P - Elaboração e atualização dos mapas de risco locais, com foco na identificação das populações mais
+vulneráveis.
+P - Elaboração de mapas de risco com foco nas unidades escolares e de saúde.
+P - Promoção a elaboração de instrumentos para Gestão de Risco de Desastres (GRD) no nível municipal.
+P - Promoção do desenvolvimento de sistemas de alerta local e percepção de risco da população.
+P - Atualização e aprimoramento do Índice Municipal de Risco de Desastres por Capacidades.
+P - Capacitações sobre Gestão de Riscos e Resiliência Climática.
+P - Capacitações e treinamentos da população vulnerável para entendimento e tomada de ações frente a alertas
+hidrometeorológicos.
+S - ARTICULAÇÃO, INOVAÇÃO E FORTALECIMENTO INSTITUCIONAL.
+P - Ampliação do Programa Defesa Civil na Escola
+P - Atualização e aprimoramento dos Protocolos de Atuação Conjunta entre as instituições no âmbito estadual.
+P - Promoção de criação e manutenção de Nupdec's
+P - Fortalecimento da atuação regionalizada para Gestão de Riscos e de Desastres
+P - Linhas de financiamento para adoção de novas tecnologias e processos inovadores na GRD
+C - ADMINISTRAÇÃO DO PROGRAMA
+S - GERENCIAMENTO DO PROGRAMA
+P - Suporte ao Gerenciamento do Programa
+Total dos Componentes
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+Descrição detalhada dos componentes/subcomponentes e produtos:
+
+C - OBRAS DE INFRAESTRUTURA PARA  MITIGAÇÃO DE INUNDAÇÕES
+Essa Componente contempla os principais investimentos em obras de infraestruturas para prevenção e
+mitigação no Vale do Rio Itajaí-Açu, previstas no Plano Diretor de Redução de Riscos de Desastres,
+elaborado pela Agência Japonesa de Cooperação Internacional (JICA). São intervenções que já possuem
+um nível de maturidade elevado, sendo que para parte delas já foi emitida a Licença Ambiental e
+elaborado o Projeto Executivo, conforme detalhado nos produtos listados a seguir.
+
+S -  OBRAS DE MELHORAMENTO FLUVIAL  NO RIO ITAJAÍ-AÇU
+Esta subcomponente prevê a execução de obras que visam aumentar a capacidade de escoamento do
+rio em épocas de cheias, de forma a proteger áreas vulneráveis contra inundações, ajudando a
+minimizar impactos humanos e materiais
+
+
+Página: 9
+
+P - Melhoramento Fluvial do Trecho  do Médio Vale do Rio Itajaí-Açu
+Obra de melhoramento fluvial incluindo desassoreamento, construção de diques, tratamento de margens e derrocarem. Projeto
+Básico pronto e Licença Ambiental em análise pelo órgão ambiental.
+
+P - Melhoramento Fluvial do Trecho do Alto Vale do Rio Itajaí-Açu
+Obra de melhoramento fluvial incluindo desassoreamento, construção de diques, tratamento de margens e derrocarem. Projeto
+Básico pronto e Licença Ambiental em análise pelo órgão ambiental.
+
+S - CONSTRUÇÃO DE BARRAGENS DE PARA CONTENÇÃO E CONTROLE DE CHEIAS
+Esta subcomponente refere-se à construção de barragens de contenção de cheias para retenção e controle de escoamento da
+água, e execução dos programas ambientais e de redução de impacto nas regiões de interesse.
+
+P - Barragem de contenção em Mirim-Doce
+Construção da barragem de pequeno porte para contenção de cheias em Mirim-Doce. Possui Projeto Executivo e Licença
+Ambiental de Instalação.
+
+P - Barragem de contenção em Petrolândia
+Construção da barragem de pequeno porte para contenção de cheias em Petrolândia. Possui Projeto Executivo e Licença
+Ambiental de Instalação.
+
+P - Barragem de contenção em Braço do Trombudo
+Construção da barragem de pequeno porte para contenção de cheias em Braço do Trombudo. Possui Projeto Executivo.
+
+P - Barragem de contenção no Rio Itajaí-Mirim em Botuverá
+Construção da barragem de médio porte para contenção de cheias em Botuverá. Possui Projeto Executivo e a LAP está em análise
+no órgão ambiental.
+
+S - MANUTENÇÃO, AUTOMAÇÃO E MODERNIZAÇÃO DA BARRAGENS DE CONTENÇÃO EXISTENTES
+Melhorias nas barragens já existentes, construídas na década de 60, que demandam adequações, modernização e manutenção.
+desenvolvimento de programas ambientais e execução dos planos previstos para diminuição de impacto ambiental.
+
+P - Manutenção, automação e modernização da Barragem Sul em Ituporanga
+Modernização, automação dos sistemas de operação, implantação de pontos de monitoramento e instrumentação completa da
+barragem Sul. Projeto com Licença Ambiental de Instalação emitida pelo órgão ambiental.
+
+P - Manutenção, automação e modernização das Barragem Oeste em Taió
+Modernização, automação dos sistemas de operação, implantação de pontos de monitoramento e instrumentação completa da
+barragem Oeste. Projeto com Licença Ambiental de Instalação emitida pelo órgão ambiental.
+
+C - RECONHECIMENTO, AVALIAÇÃO E MONITORAMENTO DOS RISCOS CLIMÁTICOS
+Ações que visam aprimorar a Gestão de Riscos de Desastres no Estado, por meio de uma avaliação abrangente do risco em nível
+setorial, considerando agravantes relacionais aos efeitos das mudanças climáticas, da identificação e priorização de investimentos
+para redução de risco e aumento da resiliência, bem como do emprego de tecnologias inovadoras para ampliação da capacidade
+de monitoramento e emissão de alertas antecipados de eventos hidrometeorológicos.
+
+S - AVALIAÇÃO E PLANEJAMENTO PARA AÇÕES DE REDUÇÃO DE RISCO E AUMENTO DA RESILIÊNCIA POR BACIA
+HIDROGRÁFICA
+Esta subcomponente visa compreender os perigos climáticos e hidrometeorológicos por Bacia Hidrográfica do Estado, definir e
+planejar as intervenções e investimentos necessários para RRD, incluindo a visão particular do Setor Privado.
+
+P - Elaboração do Perfil de Risco de Desastres por Bacia Hidrográfica.
+Elaboração de um Perfil de Risco para cada uma das Bacias Hidrográficas do Estado, considerando as particularidades regionais,
+recorrência de eventos climáticos extremos, características geográficas e socioeconômicas, setores mais afetados, perdas
+econômicas, estudos e mapas de risco elaborados e outros documentos desenvolvidos pelas diversas instituições no nível federal,
+estadual e municipal.
+
+P - Estudo para Avaliar os Impactos das Mudanças Climáticas em Santa Catarina.
+Utilizar modelos climáticos para projetar os impactos potenciais futuros, considerando diferentes cenários de emissões de gases de
+efeito estufa e outras variáveis relevantes, observando principalmente a influência sobre os recursos hídricos, infraestrutura,
+economia, saúde, agricultura e segurança alimentar.
+
+P - Levantamento Aerofotogramétrico, Gravimétrico e Laser Aerotransportado
+Complementação e detalhamento de informações territoriais, que tornem mais assertivas modelos matemáticos para o
+planejamento e monitoramento do território no âmbito da proteção e defesa civil, avaliação de riscos e adaptação as mudanças
+climáticas.
+
+
+Página: 10
+
+P - Desenvolvimento dos Planos Diretores para Redução de Risco de Desastres (PDRRD).
+Com base no Perfil de Risco e entendimento dos impactos das mudanças climáticas, elaborar os PDRRD para as Bacias
+Hidrográficas do Estado. Os Planos devem identificar as principais intervenções estruturais necessárias para redução de riscos,
+ações para aumento da resiliência e aumento da capacidade de enfrentamento de desastres, tanto no setor público como no
+privado.
+
+P - Plano de Ação para Proteção do Setor Privado.
+Estudo sobre a influência dos desastres sobre o setor privado e a perda econômica potencial, de forma a identificar instrumentos
+de transferência de risco, planejamento para contingências e continuidade do negócio, com foco principal nas empresas de
+pequeno e médio.
+
+S - EXPANSÃO E MODERNIZAÇÃO DO SISTEMA ESTADUAL DE MONITORAMENTO E ALERTA.
+Esta subcomponente ampliar e fortalecer o Sistema Estadual de Monitoramento e Alerta, empregando sistemas inovadores e
+equipamentos de ponta para operar a rede de monitoramento ambiental, incluindo radares meteorológicos, estações fluviométricas,
+meteorológicas e pluviométricas, entre outros; desenvolver uma ferramenta online para consulta de informações ambientais com
+dados integrados das redes de monitoramento existentes nas bacias; e melhorar a efetividade dos avisos e alertas de desastres.
+
+P - Aquisição de Radar para Grande Florianópolis.
+Aumentar a capacidade de previsão de curtíssimo prazo para eventos hidrometeorológicos extremos, por meio da aquisição e
+operação de um Radar posicionado na Grande Florianópolis, para completar a rede litorânea, severamente afetada por chuvas de
+circulação marítima, atualmente subestimadas pela capacidade do sistema atual.
+
+P - Estudo técnico e ampliação da rede de monitoramento estadual.
+De maneira coordenada com as ações e prioridades estabelecidas pelos Planos Diretores de Redução de Riscos de Desastres,
+este Produto contempla o desenvolvimento de estudos, especificações e investimentos para a ampliação e modernização da rede
+monitoramento hidrometeorológica, composta por pluviômetros, sensores de nível do rio e estações meteorológicas.
+
+P - Sistema para monitoramento e previsão de variáveis climáticas e hidrometeorológicas, e ocorrências relacionadas
+a desastres.
+Desenvolver e implementar um sistema para identificação de riscos para emissão de alertas de desastres de origem climática e
+hidrometeorológica, para uso na elaboração de produtos que serão operacionalizados pelo Centro de Gerenciamento de Riscos e
+Desastre (CIGERD) de Santa Catarina. Deve ser capaz de realizar o registro de ocorrências, danos humanos e materiais no nível
+local, de forma a possibilitar o acompanhamento dos impactos, das ações de resposta a desastres e  validar os limiares de avisos
+e alertas, de forma a aumentar a assertividade das previsões.
+
+P - Plataforma web do Observatório de Avisos e Alertas Hidrometeorológicos
+Portal de consulta e visualização dos avisos e alertas na forma de mapas, gráficos e texto. Sistema de controle de numeração e
+autenticação de cada aviso e alerta emitido e um banco de dados para consulta, visualização e análise do histórico. Contemplar
+uma ferramenta de geração de conteúdo e informações para divulgação para a sociedade, contendo informações preparadas para
+a população.
+
+P - Ferramenta para a comunicação do Grupo de Ações Coordenadas.
+Ferramenta destinada à comunicação integrada dos atores institucionais, particularmente os integrantes do Grupo de Ações
+Coordenadas (GRAC), que possuem atribuições especificas durante a fase de monitoramento e resposta a desastres, garantindo
+que o alerta foi recebido e quais medidas foram tomadas.
+
+P - Transformação energética das instalações e equipamentos do Sistema de Monitoramento e Alerta.
+Alterar o fornecimento de energia das instalações e equipamentos sistemas de monitoramento para solar, incluindo o Centro
+Integrado de Gerenciamento de Riscos e Desastres (Cigerd), das vinte Coordenadorias Regionais de Defesa Civil (COREDECs) e
+os equipamentos que compõe o Sistema Estadual de Monitoramento e Alerta.
+
+C - RESILIÊNCIA LOCAL E FORTALECIMENTO INSTITUCIONAL
+A gestão de risco é uma responsabilidade compartilhada que requer a colaboração e coordenação entre diversos setores e atores.
+É necessário investir na melhoria das capacidades e recursos das instituições envolvidas, como agências governamentais,
+organizações da sociedade civil, academia e setor privado. Em cumprimento à Política Nacional de Proteção e Defesa Civil, as
+ações e produtos propostos visam promover a atuação conjunta e complementar aos município para redução de desastres e
+aumentos da resiliência.
+
+S - AMPLIAR AS CAPACIDADES LOCAIS PARA GESTÃO DE RISCOS E ENFRENTAMENTO A DESASTRES CLIMÁTICOS
+As iniciativas e produtos desta subcomponente visam apoiar complementarmente os municípios na implementação de ações
+voltadas à redução de riscos e aumento da resiliência, com foco no desenvolvimento de instrumentos de gestão, ferramentas de
+planejamento e capacitação.
+
+P - Elaboração e atualização dos mapas de risco locais, com foco na identificação das populações mais vulneráveis.
+Este produto visa apoiar tecnicamente e financeiramente os municípios catarinenses com maior risco para elaborar e/ou atualizar
+seus mapas locais de risco de inundações, enxurradas e deslizamentos, com foco no nível comunitário e identificação e avaliação
+das áreas com população mais vulnerável exposta a estes eventos.
+
+
+Página: 11
+
+P - Elaboração de mapas de risco com foco nas unidades escolares e de saúde.
+Identificar as unidades escolares e de saúde expostas a eventos hidrometeorológicos, analisar as condições de vulnerabilidade
+física e ambiental e desenvolver Planos de Ação Setoriais para Redução de Risco, em articulação com as Secretarias de Estado
+da Saúde e da Educação.
+
+P - Promoção a elaboração de instrumentos para Gestão de Risco de Desastres (GRD) no nível municipal.
+Este produto visa apoiar tecnicamente e financeiramente os municípios catarinenses para o desenvolvimento de instrumentos e
+ferramentas que incrementem a capacidade local para a GRD e aumento da Resiliência. Os instrumentos seguem a relação de
+variáveis que compõe o "Índice da Capacidade Municipal", definido pela Secretaria Nacional de Proteção e Defesa Civil (SEDEC),
+que integra os indicadores previstos no Eixo 2 do PPA 2024 - 2027 do Governo Federal: "Desenvolvimento econômico e
+sustentabilidade socioambiental e climática". Dentre os elementos avaliados estão o Plano Municipal de Redução de Risco, Planos
+de Contingência, Sistemas Locais de Alerta e Alarme, entre outros.
+
+P - Promoção do desenvolvimento de sistemas de alerta local e percepção de risco da população.
+Este produto visa promover a adesão da população catarinense, principalmente a residente em áreas de risco, ao serviço de alerta
+por SMS (hoje está em 12,4%), melhorar os instrumentos de comunicação dos alertas para melhor compreensão dos riscos e
+medidas a serem tomadas, e apoiar os órgãos de Proteção e Defesa Civil municipal no desenvolvimento de sistemas locais de
+alerta e alarme.
+
+P - Atualização e aprimoramento do Índice Municipal de Risco de Desastres por Capacidades.
+Atualizar e ampliar as variáveis que compõe o Índice Municipal de Risco de Desastres por Capacidades, considerando dados sobre
+mudanças climáticas, novos elementos disponíveis no Censo 2022 e dados históricos atualizados sobre danos e perdas
+econômicas. A análise dos fatores que compõe o iRDC- SC deve apoiar a priorização de investimentos do Estado e das ações
+estratégicas para fortalecimento das capacidades locais de gestão de risco e enfrentamento a desastres, associadas aos demais
+produtos previstos.
+
+P - Capacitações sobre Gestão de Riscos e Resiliência Climática.
+Capacitações voltadas aos servidores públicos, representantes do setor privado e sociedade civil organizada, com objetivo de
+aumentar o entendimento sobre os riscos climáticos, compartilhar os resultados e planejamento dos Planos Diretores de Redução
+de Risco e sensibilizar agentes públicos e privados sobre a relevância do tema para a Proteção da População Catarinense.
+
+P - Capacitações e treinamentos da população vulnerável para entendimento e tomada de ações frente a alertas
+hidrometeorológicos.
+Alcançar a população mais vulnerável, principalmente a residente em áreas de risco, para sensibilizar e capacitar para acessar
+ferramentas, interpretar os avisos e alertas e estar preparada para tomar ações que protejam a vida e seus bens materiais.
+
+S - ARTICULAÇÃO, INOVAÇÃO E FORTALECIMENTO INSTITUCIONAL.
+Este produto visa o desenvolvimento de ações junto a instituições de ensino do estado, Secretária de Educação municipais e
+outras instituições para atingir 100 mil alunos do ensino fundamental.
+
+P - Ampliação do Programa Defesa Civil na Escola
+Este produto visa o desenvolvimento de ações junto a instituições de ensino do estado, Secretária de Educação municipais e
+outras instituições para atingir 100 mil alunos do ensino fundamental.
+
+P - Atualização e aprimoramento dos Protocolos de Atuação Conjunta entre as instituições no âmbito estadual.
+Rever o conjunto de Protocolos estabelecido entre as instituições estaduais e atores mais relevantes, frente à necessidade de
+adequação a novos desafios impostos pelas mudanças climáticas, atualização dos cenários de risco e Planos Diretores de
+Redução de Risco.
+
+P - Promoção de criação e manutenção de Nupdec's
+Promover a criação e manutenção de Núcleos Comunitários de Proteção e Defesa Civil (Nupdec) nos municípios do estado, com
+foco em comunidades mais vulneráveis e mais expostas a inundações, deslizamentos e vendavais.
+
+P - Fortalecimento da atuação regionalizada para Gestão de Riscos e de Desastres
+Capacitar servidores públicos e população para fortalecer a atuação dos Cigerds Regionais (Centro Integrado de Gerenciamento
+de Riscos e Desastres) e das vinte Coordenadorias Regionais de Defesa Civil (COREDECs), como forma de melhorar a prestação
+de serviços públicos por meio da maior aproximação entre Estado e Municípios.
+
+P - Linhas de financiamento para adoção de novas tecnologias e processos inovadores na GRD
+Fomentar a participação do Setor Privado através da criação de linhas de financiamento direcionadas ao desenvolvimento de
+novas tecnologias, sistema de informação, pesquisas e produtos que contribuam com a redução de riscos e aumento da resiliência
+climática, implementadas em cooperação pelo Banco Regional de Desenvolvimento do Extremo Sul (BRDE), com suporte das
+Secretarias de Estado da Fazenda e do Planejamento.
+
+C - ADMINISTRAÇÃO DO PROGRAMA
+A administração do programa engloba as atividades de planejamento, monitoramento, controle e coordenação.
+
+
+Página: 12
+
+S - GERENCIAMENTO DO PROGRAMA
+A administração do programa engloba as atividades de planejamento, monitoramento, controle e coordenação.
+
+P - Suporte ao Gerenciamento do Programa
+Este produto visa apoiar as instituições do Estado no gerenciamento do programa, incluindo o planejamento das atividades, apoio
+técnico e jurídico, acompanhamento físico-financeiro de contratações, cumprimentos dos requisitos e salvaguardas ambientais e
+sociais, gestão administrativa e financeira e potenciais auditorias.
+
+
+Página: 13
+
+Meta
+
+Valor
+
+% Financeiro
+
+Categoria de Gasto
+
+Obras
+P- Melhoramento Fluvial do Trecho  do Médio
+Vale do Rio Itajaí-Açu
+P- Melhoramento Fluvial do Trecho do Alto Vale
+do Rio Itajaí-Açu
+P- Barragem de contenção em Mirim-Doce
+P- Barragem de contenção em Petrolândia
+P- Barragem de contenção em Braço do
+Trombudo
+P- Barragem de contenção no Rio Itajaí-Mirim em
+Botuverá
+Bens
+P- Aquisição de Radar para Grande Florianópolis.
+P- Sistema para monitoramento e previsão de
+variáveis climáticas e hidrometeorológicas, e
+ocorrências relacionadas a desastres.
+P- Plataforma web do Observatório de Avisos e
+Alertas Hidrometeorológicos
+P- Ferramenta para a comunicação do Grupo de
+Ações Coordenadas.
+P- Transformação energética das instalações e
+equipamentos do Sistema de Monitoramento e
+Alerta.
+Consultoria
+P- Elaboração do Perfil de Risco de Desastres por
+Bacia Hidrográfica.
+P- Estudo para Avaliar os Impactos das Mudanças
+Climáticas em Santa Catarina.
+P- Levantamento Aerofotogramétrico,
+Gravimétrico e Laser Aerotransportado
+P- Desenvolvimento dos Planos Diretores para
+Redução de Risco de Desastres (PDRRD).
+P- Plano de Ação para Proteção do Setor Privado.
+P- Estudo técnico e ampliação da rede de
+monitoramento estadual.
+P- Elaboração e atualização dos mapas de risco
+locais, com foco na identificação das populações
+mais vulneráveis.
+P- Elaboração de mapas de risco com foco nas
+unidades escolares e de saúde.
+P- Promoção a elaboração de instrumentos para
+Gestão de Risco de Desastres (GRD) no nível
+municipal.
+P- Promoção do desenvolvimento de sistemas de
+alerta local e percepção de risco da população.
+P- Atualização e aprimoramento do Índice
+Municipal de Risco de Desastres por Capacidades
+.
+P- Atualização e aprimoramento dos Protocolos
+de Atuação Conjunta entre as instituições no
+âmbito estadual.
+P- Promoção de criação e manutenção de
+Nupdec's
+P- Fortalecimento da atuação regionalizada para
+Gestão de Riscos e de Desastres
+P- Suporte ao Gerenciamento do Programa
+Serviços que Não de Consultoria
+P- Manutenção, automação e modernização da
+Barragem Sul em Ituporanga
+P- Manutenção, automação e modernização das
+Barragem Oeste em Taió
+Capacitação e Treinamento
+P- Capacitações sobre Gestão de Riscos e
+Resiliência Climática.
+P- Capacitações e treinamentos da população
+vulnerável para entendimento e tomada de ações
+frente a alertas hidrometeorológicos.
+P- Ampliação do Programa Defesa Civil na Escola
+
+Unidade de medida
+-
+unid
+
+unid
+
+unid
+unid
+unid
+
+unid
+
+-
+unid
+unid
+
+unid
+
+unid
+
+unid
+
+-
+unid
+
+unid
+
+unid
+
+unid
+
+unid
+unid
+
+Municípios
+
+Percentual
+
+Municípios
+
+-
+1,00
+
+1,00
+
+1,00
+1,00
+1,00
+
+1,00
+
+-
+1,00
+1,00
+
+1,00
+
+1,00
+
+22,00
+
+-
+24,00
+
+1,00
+
+1,00
+
+18,00
+
+1,00
+1,00
+
+50,00
+
+100,00
+
+50,00
+
+Municípios
+
+295,00
+
+unid
+
+unid
+
+unid
+
+unid
+
+unid
+-
+unid
+
+unid
+
+-
+Pessoas
+
+1,00
+
+1,00
+
+100,00
+
+20,00
+
+1,00
+-
+1,00
+
+1,00
+
+-
+500,00
+
+Pessoas
+
+420.000,00
+
+219.000.000,00
+80.000.000,00
+
+70.000.000,00
+
+18.000.000,00
+15.000.000,00
+5.000.000,00
+
+31.000.000,00
+
+7.500.000,00
+2.700.000,00
+3.200.000,00
+
+250.000,00
+
+150.000,00
+
+1.200.000,00
+
+34.680.000,00
+300.000,00
+
+240.000,00
+
+4.500.000,00
+
+6.400.000,00
+
+260.000,00
+1.800.000,00
+
+4.000.000,00
+
+1.200.000,00
+
+2.200.000,00
+
+400.000,00
+
+200.000,00
+
+80.000,00
+
+900.000,00
+
+200.000,00
+
+12.000.000,00
+5.000.000,00
+2.500.000,00
+
+2.500.000,00
+
+820.000,00
+160.000,00
+
+340.000,00
+
+Pessoas
+
+600.000,00
+
+320.000,00
+
+79,06
+28,88
+
+25,27
+
+6,50
+5,42
+1,81
+
+11,19
+
+2,71
+0,97
+1,16
+
+0,09
+
+0,05
+
+0,43
+
+12,52
+0,11
+
+0,09
+
+1,62
+
+2,31
+
+0,09
+0,65
+
+1,44
+
+0,43
+
+0,79
+
+0,14
+
+0,07
+
+0,03
+
+0,32
+
+0,07
+
+4,33
+1,81
+0,90
+
+0,90
+
+0,30
+0,06
+
+0,12
+
+0,12
+
+
+Outros
+P- Linhas de financiamento para adoção de novas
+tecnologias e processos inovadores na GRD
+Total Geral
+
+-
+unid
+
+-
+
+-
+1,00
+
+-
+
+
+Página: 14
+
+3,61
+3,61
+
+10.000.000,00
+10.000.000,00
+
+277.000.000,00
+
+100,00
+
+
+### 2.8. PROJETO/ETAPAS REALIZADAS
+
+
+As ações propostas inserem-se dentro de uma visão de futuro mais resiliente para o Estado, em consolidação pelo Programa Proteção
+Levada a Sério, que prevê uma série de investimentos planejados com base em anos de experiência da Proteção e Defesa Civil em Santa
+Catarina.
+
+Neste contexto destaca-se o Plano Diretor de Redução de Riscos de Desastres realizado pela JICA (Agência de Cooperação Internacional
+do Japão) no Vale do Itajaí, desenvolvido após o desastre de novembro de 2008.  Os estudos apontam diversas estratégias e medidas
+para reduzir os riscos de desastres na região, especialmente relacionados a eventos climáticos extremos. Incluem a identificação e
+avaliação dos riscos de desastres na área, o desenvolvimento de políticas e diretrizes para a redução desses riscos e o fortalecimento da
+capacidade de resposta e recuperação da comunidade diante de desastres.
+
+Estes estudos definiram as principais prioridades para a contratação dos projetos executivos das intervenções mais significativas no Vale
+do Itajaí. Dentre os projetos previstos, foram inseridos no Programa as obras com impacto direto na prevenção de inundações na Região.
+Conforme detalhado nas Componentes propostas, são obras que visam aumentar a capacidade de escoamento do rio em épocas de
+cheias, de forma a proteger áreas vulneráveis &#8203;&#8203;contra inundações, ajudando a minimizar impactos humanos e materiais.
+Estão contempladas, ainda, a construção de barragens de pequeno porte de contenção de cheias para retenção e controle de escoamento
+da água. Parte destes projetos, elaborados em 2014, carecem de alguma atualização, mas, no geral, encontram-se em um estágio
+avançado, possibilitando que o processo de licitação e contratação seja quase que imediato.
+
+O Estado possui atualmente uma capacidade destacada para avaliar os riscos e desenvolver os Planos Diretores para as demais Bacias
+Hidrográficas do Estado, resultado da disponibilidade de uma série de estudos e produtos que permitem analisar fatores de exposição e
+vulnerabilidade, de forma multissetorial, para priorização as ações necessárias para redução de riscos, dentre os quais:
+
+- Modelo Digital de Terreno, produzido a partir do aerolevantamento realizado em 2014 para todo o Estado, que permite a execução de
+modelagens matemáticas para previsão de inundações, enxurradas e deslizamento;
+
+- Setorização de Riscos realizada pelo Serviço Geológico Brasileiro (SGB), que identificou 2.878 áreas de alto e muito alto risco no
+perímetro urbano, principalmente relacionadas a deslizamentos.
+
+Desde 2018, o Estado utiliza a estrutura do Centro Integrado de Gerenciamento de Riscos e Desastres (Cigerd) como parte da nova
+proposta para o Sistema de Proteção e Defesa Civil em desenvolvimento no Estado, o qual dispõe de uma sede, localizada na Capital, e
+mais vinte unidades junto às Coordenadorias Regionais de Defesa Civil (COREDECs). No Cigerd são coordenadas as atividades de
+monitoramento de condições meteorológicas e hidrológicas, emitidos avisos e alertas, são articuladas as ações de resposta e a
+comunicação com outras agências e população afetada.
+
+Desenvolvido em 2022, o Plano Estadual de Proteção e Defesa Civil (PPDC|SC) vem orientar o trabalho de planejamento e
+implementação das ações voltadas à redução de risco de desastres, de forma segura, contínua e efetiva, contribuindo para a prosperidade
+, o desenvolvimento econômico sustentável, o bem-estar e o fortalecimento da resiliência dos catarinenses. Seus 5 Eixos Estratégicos,
+ilustrados na figura a seguir, representam a visão do Estado para 2030.
+
+O princípio norteador representado pelo eixo I ´compreender os riscos de desastres´ é um componente crítico da resiliência. As políticas e
+práticas para a gestão do risco de desastres devem ser baseadas em uma compreensão clara do risco em todas as suas dimensões, por
+isso esse componente depende de abordagens consistentes de avaliação de risco (identificação, análise e dimensionamento) para ajudar
+o Governo na definição das prioridades.
+
+O eixo II refere-se ao ´fortalecimento da governança voltada à gestão de riscos de desastres´ no nível estadual para uma gestão eficaz e
+eficiente. Para isso é necessário ter visão clara de futuro, construir planos de ação, definir competências e orientações intra e intersetoriais
+, para ampliar a participação das diferentes estruturas setoriais interessadas.
+
+O princípio norteador representado pelo eixo III está vinculado ao investimento na redução de risco de desastres por meio de um
+planejamento integrado e multissetorial. Isso requer uma série de investimentos públicos e privados na prevenção e na redução de riscos
+de desastres por meio de medidas estruturais e não estruturais, as quais são essenciais para melhorar a resiliência econômica, social,
+cultural e de saúde das pessoas e suas comunidades.
+
+O eixo IV diz respeito à efetividade das ações de resposta e recuperação por meio de investimentos na preparação. É importante observar
+que o crescimento constante do risco de desastres, incluindo o aumento da exposição de pessoas e ativos, combinado com as lições
+aprendidas do passado, indica a necessidade de reforçar ainda mais a preparação para resposta a desastres, tomando medidas com base
+na previsão de eventos, integrando a RRD na preparação para resposta e assegurando que exista capacidade para resposta e
+recuperação eficazes em todos os níveis.
+
+Por fim, o princípio norteador representado pelo eixo V diz respeito ao desenvolvimento de uma cultura de GRD mediante ações de
+capacitação continuada, as quais objetivam capacitar indivíduos e comunidades com conhecimento e responsabilidade por suas próprias
+ações. O trabalho governamental no nível da comunidade precisa progredir para que os indivíduos entendam melhor os riscos, e recebam
+informações e ajuda por meio de mecanismos de capacitação continuada para melhorar suas performances, escolhas e decisões.
+
+
+Página: 15
+
+
+### 2.9. Projeto/Abrangência Geográfica
+
+
+Abrangência Geográfica: Estadual/Sem detalhes
+
+Estado de Santa Catarina ()
+
+2.10. PROJETO/CONDIÇÕES FINANCEIRAS DA OPERAÇÃO
+
+Prazo médio da operação: SOFR + taxa do banco + variação cambial; comissão inicial 0,25% e comissão de permanência 0,25% a.a.
+
+No momento, para envio do pleito para análise da COFIEX, entendemos ser a melhor opção a linha de crédito BIRD12+ to 15 yrs, que
+possui taxa SOFR + 1,44% a.a.
+
+Periodicidade das amortizações: serão 40 amortizações semestrais dentro da linha BIRD (12+ to 15 yrs) que possui
+
+taxa SOFR + 1,44%
+
+Prazo total do financiamento e de carência: carência de 5 anos, com prazo total de 25 anos ou 40 amortizações
+
+semestrais
+
+Prazo de desembolso: 6 (seis) anos.
+
+Demais encargos e comissões: uma sobretaxa de exposição ao país (SBL surcharge), atualmente de 50 pontos básicos (0,5%), se aplica
+quando a exposição total do Banco Mundial ao Brasil (considerando todos os empréstimos em vigor) exceder o chamado "SBL surcharge
+threshold", fixado nesse ano fiscal em 18,7 bilhões de dólares para o Brasil. A comissão se aplica somente ao montante que exceda a
+exposição e é calculada de modo pro-rata. Esse conceito foi introduzido em 2014 e o Brasil tem por política nunca ultrapassar esse limite.
+
+NECESSIDADE DE FINANCIAMENTO EXTERNO E A OPÇÃO PELO AGENTE FINANCEIRO:
+
+Buscamos nas instituições financeiras abaixo relacionadas as suas condições para operações de crédito com o ESC
+
+que serviram de base para as projeções realizadas pela DITE/SEF e a emissão da Nota Técnica Nº 001/2024,
+
+inserida na aba Anexos.
+
+1. Banco Mundial
+
+2. BID
+
+3. NDB
+
+4. Banco do Brasil
+
+
+## 5. BNDES
+
+
+De acordo com análise da Diretoria do Tesouro (Nota Técnica Nº 001/2024), verificou-se que as condições do BID
+
+estão ligeiramente mais vantajosas que as do Banco Mundial. Porém, a escolha do agente financeiro levou em
+
+consideração aspectos financeiros e aspectos qualitativos.
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 16
+
+Quanto  aos  aspectos  qualitativos: O Banco Mundial é o maior financiador multilateral para ação climática e gestão de riscos de
+desastres no mundo. O Banco apoia 98 países com financiamento e assistência técnica para avaliar a exposição às ameaças climáticas e
+para reduzir riscos.  No ano fiscal 2023, o  banco  entregou  USD  38,6  bilhões  de  financiamento  climático,  um  aumento  de  22%  do
+ano  anterior.  A  atuação  em  conjunto  com  o  Banco  Mundial,  no  âmbito  do  Programa Proteção  Levada  a  Sério,  pretende
+proporcionar  não  somente  a  oferta  de  crédito,  mas também o conhecimento técnico especializado do Banco Mundial para ampliar a
+resiliência urbana. Nesse contexto, o Banco Mundial vem atuando de forma global há várias décadas no tema de Gestão de Riscos de
+Desastres (GRD) e mais recentemente em específico na junção  entre  as  temáticas  de  GRD  e  Planejamento  Urbano,  dando  origem,
+então,  a  sua agenda  de  Resiliência  Urbana.  Em  específico  ao  Brasil,  o  Banco  Mundial  tem  atuação permanente  e  direta  desde
+2011  quando  foi  estabelecido  um  programa  de  apoio  do Governo  brasileiro  nas  suas  três  esferas  públicas.  Como  resultado,  a
+instituição  gerou vasto conhecimento técnico bem como linhas de financiamento para ações de identificação e  mitigação  de  riscos  de
+desastres,  bem  como  melhorias  no  planejamento  e  controle urbano.
+
+2.11. PROJETO/BENEFICIÁRIO
+
+O Programa Santa Catarina Protegida e Resiliente tem abrangência estadual, trazendo benefícios, mesmo que indiretos, para todos os 7,6
+milhões de catarinenses. Este fato se justifica ao observar que as perdas econômicas impactam negativamente praticamente todos os
+setores produtivos, assim como os danos materiais na infraestrutura pública, principalmente de transporte, energia e água, pode prejudicar
+indiretamente uma grande porção da população.
+
+O Programa propõe iniciativas que alcançam impactos positivos, diretos ou indiretos, relacionados aos resultados identificados no anexo 4
+da Resolução nº 17/2021 da COFIEX, de 7 de junho de 2021, dentre as quais destacam-se:
+
+- Proteção de 500 mil catarinenses residentes em áreas suscetíveis a inundações no Vale do Rio Itajaí, beneficiados pelas obras de
+prevenção e mitigação;
+
+- Aumento da resiliência de 420 mil catarinenses residentes em áreas de alto e muito alto risco de inundações e deslizamentos, na medida
+que são o público prioritário para recebimento dos avisos e alertas de risco, bem como das ações para promoção do aumento da
+capacidade local de preparação e adaptação às mudanças climáticas;
+
+- Apoio aos agentes públicos dos 295 municípios catarinenses na identificação e avaliação dos riscos locais, desenvolvimento de
+instrumentos voltados à redução de desastres e sistemas de monitoramento e alerta locais;
+
+- Proteção da população exposta a eventos extremos como tempestades severas, que residem em moradias estruturalmente vulneráveis,
+por meio do aumento da capacidade de previsão e alerta destes eventos;
+
+- Proteção de toda a população residente na faixa litorânea do estado (cerca de ¾ da população do estado, segundo o IBGE),
+especialmente na Grande Florianópolis, beneficiados com a cobertura adequada de radares, melhorando as previsões e emissão de
+alertas no curtíssimo prazo;
+
+- Melhoria do saneamento básico dos municípios com áreas suscetíveis a alagamentos urbanos, por meio das informações geradas pelo
+mapeamento de risco, como suporte aos projetos de micro e macro drenagem;
+
+- Redução dos danos materiais e impactos econômicos relacionados a desastres, aumentando a percepção de segurança para
+investimentos e desenvolvimento do setor privado;
+
+- Implantação de equipamentos sociais por meio do apoio a criação de Núcleos Comunitários de Proteção e Defesa Civil junto às
+comunidades mais vulneráveis.
+
+- Melhorar a comunicação de avisos e alertas por meio de informações disponíveis em aplicativo, como serviço público disponível à
+população;
+
+- Ampliar as ações do Programa Defesa Civil na Escolado, para alcançar 532 mil jovens em 6 anos, sendo destes 377 de povos originários
+(indígenas) e 430 jovens quilombolas.
+
+- Fomento à participação da iniciativa privada por meio da criação de linhas de financiamento direcionadas ao desenvolvimento de novas
+tecnologias, sistema de informação, pesquisas e produtos que contribuam com a redução de riscos e aumento da resiliência climática.
+
+2.12. PROJETO/GARANTIA DA UNIÃO
+
+Sim
+
+3. Financiamento
+
+
+### 3.1. Financiamento/Fonte
+
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 17
+
+Moeda de Referência: Dólar
+
+Fontes Internas
+
+Contrapartida Financeira
+Fontes Externas
+
+Banco Internacional para Reconstrução e
+Desenvolvimento - BIRD
+Total:
+
+Sigla
+
+CF
+Sigla
+
+BIRD
+
+Moeda
+
+US$
+Moeda
+
+US$
+
+3.2. FINANCIAMENTO/INDICAÇÃO DE CONTRAGARANTIAS
+
+Concordo
+
+4. Execução
+
+Valor Proposto
+
+55.400.000,00
+Valor Proposto
+
+221.600.000,00
+
+277.000.000,00
+
+Taxa de
+Câmbio
+1,00
+Taxa de
+Câmbio
+1,00
+
+Valor de Referência US
+$
+55.400.000,00
+Valor de Referência US
+$
+221.600.000,00
+
+277.000.000,00
+
+4.1. EXECUÇÃO/ARRANJO INSTITUCIONAL- MATRIZ DE RESPONSABILIDADE- ARRANJO OPERACIONAL
+
+Conforme estabelece o Decreto Estadual nº 385, de 10 de dezembro de 2019, a Secretaria de Estado da Fazenda (SEF), tem a atribuição
+de prover orçamento do Estado necessário, tanto da contrapartida como das dotações relacionadas com a entrada dos recursos do
+Contrato de Empréstimo, bem como coordenar as negociações de crédito junto ao BIRD.
+
+O Escritório de Projetos do Estado, também conforme o Decreto 385/2019, terá como atribuição, na fase de execução dos projetos,
+acompanhamento e a supervisão dos contratos de operação de crédito, assim como realizar o controle prévio das liberações financeiras,
+solicitando à SEF o repasse de recursos.
+
+A gestão do contrato em relação a dívida e seus pagamentos será de responsabilidade da Gerência da Dívida Pública (GEDIP) vinculada
+à Diretoria do Tesouro Estadual (DITE) da SEF.
+
+À SEF cabe ainda a solicitação da liberação dos recursos financeiros à instituição contratada, avaliando as regras contratuais e financeiras
+envolvidas, pertinência e impacto financeiro e fluxo de caixa e desembolsos futuros.
+
+O Decreto nº 632, de 02 de junho de 2020, regulamenta o Escritório de Gestão de Projetos (EPROJ) da Administração Pública Estadual
+do Poder Executivo atribuindo a gestão estratégica dos projetos como responsabilidade do EPROJ, ligado à Secretaria de Estado do
+Planejamento (SEPLAN), sendo parte de suas atribuições: apoiar a estruturação dos núcleos de Gestão de Projetos Setoriais (NUPROJ);
+promover a aplicação da metodologia proposta; disponibilizar as ferramentas e disseminar as boas práticas em gerenciamento de projetos;
+apoiar o planejamento,
+
+À Secretaria de Estado da Proteção e Defesa Civil (SDC) cabe a implementação que fará um processo de gestão interna com apoio de
+empresa de engenharia consultiva contratada exclusivamente para apoio ao gerenciamento do programa. Será criado o Grupo Executivo
+do SC Protegida e Resiliente, setor executor do projeto, a qual ficará responsável pelo planejamento geral do programa, gerenciamento
+técnico, operacional, financeiro e administrativo, assim como pela coordenação e articulação institucional, monitoramento e avaliação das
+ações.
+
+O Grupo Executivo do SC Protegida e Resiliente, será vinculada ao Gabinete do Secretário de Estado da Proteção e Defesa Civil - SDC,
+que terá como função a supervisão, coordenação, orientação e fiscalização, conforme modelo de gestão da Administração Pública
+Estadual, no âmbito do Poder Executivo, definido pela Lei 18.646 de 05 de junho de 2023.
+
+A SDC é responsável pela gestão do Fundo Estadual de Proteção e Defesa Civil - FUNPDEC. Esse Fundo, possui os mecanismos
+necessários às ações do programa que contam com repasses financeiros diretamente aos contratados.
+
+Outros órgãos parceiros serão Secretaria de Estado da Infraestrutura (SIE), Secretaria de Estado de Ciência Tecnologia e Inovação (SCTI
+), Instituto do Meio Ambiente de Santa Catarina (IMA), Secretaria de Estado da Administração (SEA), Secretaria de Estado da Assistência
+Social (SDS), Secretaria de Estado da Educação (SED).
+
+Além desses, serão estabelecidas parcerias com prefeituras, organizações da sociedade civil e organizações sociais de proteção e defesa
+civil.
+
+
+### 4.2. Execução/Executores
+
+
+Executor: Secretaria de Estado da Proteção de Defesa Civil do Estado de Santa Catarina - SC
+
+Representante Oficial: Fabiano de Souza
+Endereço da Sede: A. Ivo Siveira
+E-mail Institucional:
+
+Telefone: (48) 3664-5992
+
+CNPJ: 04426883000157
+
+
+### 4.3. Execução/Prazo
+
+
+Fax:
+UF:
+
+(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Prazo de Desembolso: 6 Anos
+
+
+Página: 18
+
+
+### 4.4. Execução/Cronograma
+
+
+C - OBRAS DE INFRAESTRUTURA PARA  MITIGAÇÃO DE INUNDAÇÕES
+
+COMPONENTES
+
+VALOR
+
+Ano 1
+
+FONTES
+
+CUSTO
+224.000.000,00
+
+CF
+
+BIRD
+
+3.030.000,00
+
+12.120.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+S -  OBRAS DE MELHORAMENTO FLUVIAL  NO RIO ITAJAÍ-AÇU
+
+150.000.000,00
+
+1.500.000,00
+
+6.000.000,00
+
+P - Melhoramento Fluvial do Trecho  do Médio Vale do Rio Itajaí-Açu
+
+80.000.000,00
+
+800.000,00
+
+3.200.000,00
+
+P - Melhoramento Fluvial do Trecho do Alto Vale do Rio Itajaí-Açu
+
+70.000.000,00
+
+700.000,00
+
+2.800.000,00
+
+S - CONSTRUÇÃO DE BARRAGENS DE PARA CONTENÇÃO E CONTROLE DE CHEIAS
+
+69.000.000,00
+
+1.330.000,00
+
+5.320.000,00
+
+P - Barragem de contenção em Mirim-Doce
+
+P - Barragem de contenção em Petrolândia
+
+P - Barragem de contenção em Braço do Trombudo
+
+P - Barragem de contenção no Rio Itajaí-Mirim em Botuverá
+
+S - MANUTENÇÃO, AUTOMAÇÃO E MODERNIZAÇÃO DA BARRAGENS DE CONTENÇÃO
+EXISTENTES
+P - Manutenção, automação e modernização da Barragem Sul em Ituporanga
+
+18.000.000,00
+
+360.000,00
+
+1.440.000,00
+
+15.000.000,00
+
+300.000,00
+
+1.200.000,00
+
+5.000.000,00
+
+50.000,00
+
+200.000,00
+
+31.000.000,00
+
+620.000,00
+
+2.480.000,00
+
+5.000.000,00
+
+200.000,00
+
+800.000,00
+
+2.500.000,00
+
+100.000,00
+
+400.000,00
+
+P - Manutenção, automação e modernização das Barragem Oeste em Taió
+
+2.500.000,00
+
+100.000,00
+
+400.000,00
+
+C - RECONHECIMENTO, AVALIAÇÃO E MONITORAMENTO DOS RISCOS CLIMÁTICOS
+
+21.000.000,00
+
+511.200,00
+
+2.044.800,00
+
+S - AVALIAÇÃO E PLANEJAMENTO PARA AÇÕES DE REDUÇÃO DE RISCO E AUMENTO DA
+RESILIÊNCIA POR BACIA HIDROGRÁFICA
+P - Elaboração do Perfil de Risco de Desastres por Bacia Hidrográfica.
+
+P - Estudo para Avaliar os Impactos das Mudanças Climáticas em Santa Catarina.
+
+P - Levantamento Aerofotogramétrico, Gravimétrico e Laser Aerotransportado
+
+11.700.000,00
+
+311.200,00
+
+1.244.800,00
+
+300.000,00
+
+240.000,00
+
+4.500.000,00
+
+36.000,00
+
+19.200,00
+
+0,00
+
+144.000,00
+
+76.800,00
+
+0,00
+
+P - Desenvolvimento dos Planos Diretores para Redução de Risco de Desastres (PDRRD).
+
+6.400.000,00
+
+256.000,00
+
+1.024.000,00
+
+P - Plano de Ação para Proteção do Setor Privado.
+
+S - EXPANSÃO E MODERNIZAÇÃO DO SISTEMA ESTADUAL DE MONITORAMENTO E
+ALERTA.
+P - Aquisição de Radar para Grande Florianópolis.
+
+P - Estudo técnico e ampliação da rede de monitoramento estadual.
+
+P - Sistema para monitoramento e previsão de variáveis climáticas e hidrometeorológicas, e
+ocorrências relacionadas a desastres.
+P - Plataforma web do Observatório de Avisos e Alertas Hidrometeorológicos
+
+P - Ferramenta para a comunicação do Grupo de Ações Coordenadas.
+
+P - Transformação energética das instalações e equipamentos do Sistema de Monitoramento e
+Alerta.
+C - RESILIÊNCIA LOCAL E FORTALECIMENTO INSTITUCIONAL
+
+S - AMPLIAR AS CAPACIDADES LOCAIS PARA GESTÃO DE RISCOS E ENFRENTAMENTO A
+DESASTRES CLIMÁTICOS
+P - Elaboração e atualização dos mapas de risco locais, com foco na identificação das
+populações mais vulneráveis.
+P - Elaboração de mapas de risco com foco nas unidades escolares e de saúde.
+
+P - Promoção a elaboração de instrumentos para Gestão de Risco de Desastres (GRD) no nível
+municipal.
+P - Promoção do desenvolvimento de sistemas de alerta local e percepção de risco da população.
+
+P - Atualização e aprimoramento do Índice Municipal de Risco de Desastres por Capacidades.
+
+P - Capacitações sobre Gestão de Riscos e Resiliência Climática.
+
+P - Capacitações e treinamentos da população vulnerável para entendimento e tomada de ações
+frente a alertas hidrometeorológicos.
+S - ARTICULAÇÃO, INOVAÇÃO E FORTALECIMENTO INSTITUCIONAL.
+
+P - Ampliação do Programa Defesa Civil na Escola
+
+P - Atualização e aprimoramento dos Protocolos de Atuação Conjunta entre as instituições no
+âmbito estadual.
+P - Promoção de criação e manutenção de Nupdec's
+
+P - Fortalecimento da atuação regionalizada para Gestão de Riscos e de Desastres
+
+260.000,00
+
+0,00
+
+0,00
+
+9.300.000,00
+
+200.000,00
+
+800.000,00
+
+2.700.000,00
+
+0,00
+
+0,00
+
+1.800.000,00
+
+72.000,00
+
+288.000,00
+
+3.200.000,00
+
+128.000,00
+
+512.000,00
+
+250.000,00
+
+150.000,00
+
+1.200.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+20.000.000,00
+
+8.500.000,00
+
+32.800,00
+
+20.000,00
+
+131.200,00
+
+80.000,00
+
+4.000.000,00
+
+1.200.000,00
+
+2.200.000,00
+
+400.000,00
+
+200.000,00
+
+160.000,00
+
+340.000,00
+
+11.500.000,00
+
+320.000,00
+
+80.000,00
+
+900.000,00
+
+200.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+20.000,00
+
+80.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+12.800,00
+
+12.800,00
+
+51.200,00
+
+51.200,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+P - Linhas de financiamento para adoção de novas tecnologias e processos inovadores na GRD
+
+10.000.000,00
+
+C - ADMINISTRAÇÃO DO PROGRAMA
+
+S - GERENCIAMENTO DO PROGRAMA
+
+P - Suporte ao Gerenciamento do Programa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+12.000.000,00
+
+240.000,00
+
+960.000,00
+
+12.000.000,00
+
+240.000,00
+
+960.000,00
+
+12.000.000,00
+
+240.000,00
+
+960.000,00
+
+0,00
+
+3.814.000,00
+
+15.256.000,00
+
+0,00
+
+0,00
+
+COMPONENTES
+
+C - OBRAS DE INFRAESTRUTURA PARA  MITIGAÇÃO DE INUNDAÇÕES
+
+S -  OBRAS DE MELHORAMENTO FLUVIAL  NO RIO ITAJAÍ-AÇU
+
+P - Melhoramento Fluvial do Trecho  do Médio Vale do Rio Itajaí-Açu
+
+P - Melhoramento Fluvial do Trecho do Alto Vale do Rio Itajaí-Açu
+
+S - CONSTRUÇÃO DE BARRAGENS DE PARA CONTENÇÃO E CONTROLE DE CHEIAS
+
+P - Barragem de contenção em Mirim-Doce
+
+P - Barragem de contenção em Petrolândia
+
+P - Barragem de contenção em Braço do Trombudo
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+VALOR
+
+CUSTO
+
+Ano 2
+
+FONTES
+
+CF
+
+BIRD
+
+6.190.000,00
+
+24.760.000,00
+
+1.500.000,00
+
+6.000.000,00
+
+800.000,00
+
+3.200.000,00
+
+700.000,00
+
+2.800.000,00
+
+3.890.000,00
+
+15.560.000,00
+
+1.080.000,00
+
+4.320.000,00
+
+900.000,00
+
+3.600.000,00
+
+50.000,00
+
+200.000,00
+
+
+Página: 19
+
+P - Barragem de contenção no Rio Itajaí-Mirim em Botuverá
+
+S - MANUTENÇÃO, AUTOMAÇÃO E MODERNIZAÇÃO DA BARRAGENS DE CONTENÇÃO
+EXISTENTES
+P - Manutenção, automação e modernização da Barragem Sul em Ituporanga
+
+P - Manutenção, automação e modernização das Barragem Oeste em Taió
+
+C - RECONHECIMENTO, AVALIAÇÃO E MONITORAMENTO DOS RISCOS CLIMÁTICOS
+
+S - AVALIAÇÃO E PLANEJAMENTO PARA AÇÕES DE REDUÇÃO DE RISCO E AUMENTO DA
+RESILIÊNCIA POR BACIA HIDROGRÁFICA
+P - Elaboração do Perfil de Risco de Desastres por Bacia Hidrográfica.
+
+P - Estudo para Avaliar os Impactos das Mudanças Climáticas em Santa Catarina.
+
+P - Levantamento Aerofotogramétrico, Gravimétrico e Laser Aerotransportado
+
+P - Desenvolvimento dos Planos Diretores para Redução de Risco de Desastres (PDRRD).
+
+P - Plano de Ação para Proteção do Setor Privado.
+
+S - EXPANSÃO E MODERNIZAÇÃO DO SISTEMA ESTADUAL DE MONITORAMENTO E
+ALERTA.
+P - Aquisição de Radar para Grande Florianópolis.
+
+P - Estudo técnico e ampliação da rede de monitoramento estadual.
+
+P - Sistema para monitoramento e previsão de variáveis climáticas e hidrometeorológicas, e
+ocorrências relacionadas a desastres.
+P - Plataforma web do Observatório de Avisos e Alertas Hidrometeorológicos
+
+P - Ferramenta para a comunicação do Grupo de Ações Coordenadas.
+
+P - Transformação energética das instalações e equipamentos do Sistema de Monitoramento e
+Alerta.
+C - RESILIÊNCIA LOCAL E FORTALECIMENTO INSTITUCIONAL
+
+S - AMPLIAR AS CAPACIDADES LOCAIS PARA GESTÃO DE RISCOS E ENFRENTAMENTO A
+DESASTRES CLIMÁTICOS
+P - Elaboração e atualização dos mapas de risco locais, com foco na identificação das
+populações mais vulneráveis.
+P - Elaboração de mapas de risco com foco nas unidades escolares e de saúde.
+
+P - Promoção a elaboração de instrumentos para Gestão de Risco de Desastres (GRD) no nível
+municipal.
+P - Promoção do desenvolvimento de sistemas de alerta local e percepção de risco da população.
+
+P - Atualização e aprimoramento do Índice Municipal de Risco de Desastres por Capacidades.
+
+P - Capacitações sobre Gestão de Riscos e Resiliência Climática.
+
+P - Capacitações e treinamentos da população vulnerável para entendimento e tomada de ações
+frente a alertas hidrometeorológicos.
+S - ARTICULAÇÃO, INOVAÇÃO E FORTALECIMENTO INSTITUCIONAL.
+
+P - Ampliação do Programa Defesa Civil na Escola
+
+P - Atualização e aprimoramento dos Protocolos de Atuação Conjunta entre as instituições no
+âmbito estadual.
+P - Promoção de criação e manutenção de Nupdec's
+
+P - Fortalecimento da atuação regionalizada para Gestão de Riscos e de Desastres
+
+P - Linhas de financiamento para adoção de novas tecnologias e processos inovadores na GRD
+
+C - ADMINISTRAÇÃO DO PROGRAMA
+
+S - GERENCIAMENTO DO PROGRAMA
+
+P - Suporte ao Gerenciamento do Programa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - OBRAS DE INFRAESTRUTURA PARA  MITIGAÇÃO DE INUNDAÇÕES
+
+S -  OBRAS DE MELHORAMENTO FLUVIAL  NO RIO ITAJAÍ-AÇU
+
+P - Melhoramento Fluvial do Trecho  do Médio Vale do Rio Itajaí-Açu
+
+P - Melhoramento Fluvial do Trecho do Alto Vale do Rio Itajaí-Açu
+
+S - CONSTRUÇÃO DE BARRAGENS DE PARA CONTENÇÃO E CONTROLE DE CHEIAS
+
+P - Barragem de contenção em Mirim-Doce
+
+P - Barragem de contenção em Petrolândia
+
+P - Barragem de contenção em Braço do Trombudo
+
+P - Barragem de contenção no Rio Itajaí-Mirim em Botuverá
+
+S - MANUTENÇÃO, AUTOMAÇÃO E MODERNIZAÇÃO DA BARRAGENS DE CONTENÇÃO
+EXISTENTES
+P - Manutenção, automação e modernização da Barragem Sul em Ituporanga
+
+P - Manutenção, automação e modernização das Barragem Oeste em Taió
+
+C - RECONHECIMENTO, AVALIAÇÃO E MONITORAMENTO DOS RISCOS CLIMÁTICOS
+
+S - AVALIAÇÃO E PLANEJAMENTO PARA AÇÕES DE REDUÇÃO DE RISCO E AUMENTO DA
+RESILIÊNCIA POR BACIA HIDROGRÁFICA
+P - Elaboração do Perfil de Risco de Desastres por Bacia Hidrográfica.
+
+P - Estudo para Avaliar os Impactos das Mudanças Climáticas em Santa Catarina.
+
+P - Levantamento Aerofotogramétrico, Gravimétrico e Laser Aerotransportado
+
+P - Desenvolvimento dos Planos Diretores para Redução de Risco de Desastres (PDRRD).
+
+P - Plano de Ação para Proteção do Setor Privado.
+
+S - EXPANSÃO E MODERNIZAÇÃO DO SISTEMA ESTADUAL DE MONITORAMENTO E
+ALERTA.
+
+1.860.000,00
+
+7.440.000,00
+
+800.000,00
+
+3.200.000,00
+
+400.000,00
+
+1.600.000,00
+
+400.000,00
+
+1.600.000,00
+
+1.403.200,00
+
+5.612.800,00
+
+839.200,00
+
+3.356.800,00
+
+24.000,00
+
+19.200,00
+
+96.000,00
+
+76.800,00
+
+540.000,00
+
+2.160.000,00
+
+256.000,00
+
+1.024.000,00
+
+0,00
+
+0,00
+
+564.000,00
+
+2.256.000,00
+
+108.000,00
+
+432.000,00
+
+72.000,00
+
+288.000,00
+
+384.000,00
+
+1.536.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+789.600,00
+
+3.158.400,00
+
+308.000,00
+
+1.232.000,00
+
+160.000,00
+
+640.000,00
+
+0,00
+
+0,00
+
+88.000,00
+
+352.000,00
+
+40.000,00
+
+20.000,00
+
+160.000,00
+
+80.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+481.600,00
+
+1.926.400,00
+
+25.600,00
+
+102.400,00
+
+0,00
+
+0,00
+
+36.000,00
+
+20.000,00
+
+144.000,00
+
+80.000,00
+
+400.000,00
+
+1.600.000,00
+
+480.000,00
+
+1.920.000,00
+
+480.000,00
+
+1.920.000,00
+
+480.000,00
+
+1.920.000,00
+
+0,00
+
+8.862.800,00
+
+35.451.200,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+VALOR
+
+CUSTO
+
+Ano 3
+
+FONTES
+
+CF
+
+BIRD
+
+11.420.000,00
+
+45.680.000,00
+
+6.000.000,00
+
+24.000.000,00
+
+3.200.000,00
+
+12.800.000,00
+
+2.800.000,00
+
+11.200.000,00
+
+5.420.000,00
+
+21.680.000,00
+
+1.440.000,00
+
+5.760.000,00
+
+1.200.000,00
+
+4.800.000,00
+
+300.000,00
+
+1.200.000,00
+
+2.480.000,00
+
+9.920.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+1.581.600,00
+
+6.326.400,00
+
+933.600,00
+
+3.734.400,00
+
+0,00
+
+0,00
+
+9.600,00
+
+38.400,00
+
+360.000,00
+
+1.440.000,00
+
+512.000,00
+
+2.048.000,00
+
+52.000,00
+
+208.000,00
+
+648.000,00
+
+2.592.000,00
+
+
+Página: 20
+
+P - Aquisição de Radar para Grande Florianópolis.
+
+P - Estudo técnico e ampliação da rede de monitoramento estadual.
+
+P - Sistema para monitoramento e previsão de variáveis climáticas e hidrometeorológicas, e
+ocorrências relacionadas a desastres.
+P - Plataforma web do Observatório de Avisos e Alertas Hidrometeorológicos
+
+P - Ferramenta para a comunicação do Grupo de Ações Coordenadas.
+
+P - Transformação energética das instalações e equipamentos do Sistema de Monitoramento e
+Alerta.
+C - RESILIÊNCIA LOCAL E FORTALECIMENTO INSTITUCIONAL
+
+S - AMPLIAR AS CAPACIDADES LOCAIS PARA GESTÃO DE RISCOS E ENFRENTAMENTO A
+DESASTRES CLIMÁTICOS
+P - Elaboração e atualização dos mapas de risco locais, com foco na identificação das
+populações mais vulneráveis.
+P - Elaboração de mapas de risco com foco nas unidades escolares e de saúde.
+
+P - Promoção a elaboração de instrumentos para Gestão de Risco de Desastres (GRD) no nível
+municipal.
+P - Promoção do desenvolvimento de sistemas de alerta local e percepção de risco da população.
+
+P - Atualização e aprimoramento do Índice Municipal de Risco de Desastres por Capacidades.
+
+P - Capacitações sobre Gestão de Riscos e Resiliência Climática.
+
+P - Capacitações e treinamentos da população vulnerável para entendimento e tomada de ações
+frente a alertas hidrometeorológicos.
+S - ARTICULAÇÃO, INOVAÇÃO E FORTALECIMENTO INSTITUCIONAL.
+
+P - Ampliação do Programa Defesa Civil na Escola
+
+P - Atualização e aprimoramento dos Protocolos de Atuação Conjunta entre as instituições no
+âmbito estadual.
+P - Promoção de criação e manutenção de Nupdec's
+
+P - Fortalecimento da atuação regionalizada para Gestão de Riscos e de Desastres
+
+P - Linhas de financiamento para adoção de novas tecnologias e processos inovadores na GRD
+
+C - ADMINISTRAÇÃO DO PROGRAMA
+
+S - GERENCIAMENTO DO PROGRAMA
+
+P - Suporte ao Gerenciamento do Programa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+COMPONENTES
+
+C - OBRAS DE INFRAESTRUTURA PARA  MITIGAÇÃO DE INUNDAÇÕES
+
+S -  OBRAS DE MELHORAMENTO FLUVIAL  NO RIO ITAJAÍ-AÇU
+
+P - Melhoramento Fluvial do Trecho  do Médio Vale do Rio Itajaí-Açu
+
+P - Melhoramento Fluvial do Trecho do Alto Vale do Rio Itajaí-Açu
+
+S - CONSTRUÇÃO DE BARRAGENS DE PARA CONTENÇÃO E CONTROLE DE CHEIAS
+
+P - Barragem de contenção em Mirim-Doce
+
+P - Barragem de contenção em Petrolândia
+
+P - Barragem de contenção em Braço do Trombudo
+
+P - Barragem de contenção no Rio Itajaí-Mirim em Botuverá
+
+S - MANUTENÇÃO, AUTOMAÇÃO E MODERNIZAÇÃO DA BARRAGENS DE CONTENÇÃO
+EXISTENTES
+P - Manutenção, automação e modernização da Barragem Sul em Ituporanga
+
+P - Manutenção, automação e modernização das Barragem Oeste em Taió
+
+C - RECONHECIMENTO, AVALIAÇÃO E MONITORAMENTO DOS RISCOS CLIMÁTICOS
+
+S - AVALIAÇÃO E PLANEJAMENTO PARA AÇÕES DE REDUÇÃO DE RISCO E AUMENTO DA
+RESILIÊNCIA POR BACIA HIDROGRÁFICA
+P - Elaboração do Perfil de Risco de Desastres por Bacia Hidrográfica.
+
+P - Estudo para Avaliar os Impactos das Mudanças Climáticas em Santa Catarina.
+
+P - Levantamento Aerofotogramétrico, Gravimétrico e Laser Aerotransportado
+
+P - Desenvolvimento dos Planos Diretores para Redução de Risco de Desastres (PDRRD).
+
+P - Plano de Ação para Proteção do Setor Privado.
+
+S - EXPANSÃO E MODERNIZAÇÃO DO SISTEMA ESTADUAL DE MONITORAMENTO E
+ALERTA.
+P - Aquisição de Radar para Grande Florianópolis.
+
+P - Estudo técnico e ampliação da rede de monitoramento estadual.
+
+P - Sistema para monitoramento e previsão de variáveis climáticas e hidrometeorológicas, e
+ocorrências relacionadas a desastres.
+P - Plataforma web do Observatório de Avisos e Alertas Hidrometeorológicos
+
+P - Ferramenta para a comunicação do Grupo de Ações Coordenadas.
+
+P - Transformação energética das instalações e equipamentos do Sistema de Monitoramento e
+Alerta.
+C - RESILIÊNCIA LOCAL E FORTALECIMENTO INSTITUCIONAL
+
+S - AMPLIAR AS CAPACIDADES LOCAIS PARA GESTÃO DE RISCOS E ENFRENTAMENTO A
+DESASTRES CLIMÁTICOS
+P - Elaboração e atualização dos mapas de risco locais, com foco na identificação das
+populações mais vulneráveis.
+P - Elaboração de mapas de risco com foco nas unidades escolares e de saúde.
+
+P - Promoção a elaboração de instrumentos para Gestão de Risco de Desastres (GRD) no nível
+municipal.
+
+432.000,00
+
+1.728.000,00
+
+72.000,00
+
+288.000,00
+
+128.000,00
+
+512.000,00
+
+10.000,00
+
+6.000,00
+
+0,00
+
+40.000,00
+
+24.000,00
+
+0,00
+
+833.600,00
+
+3.334.400,00
+
+352.000,00
+
+1.408.000,00
+
+160.000,00
+
+640.000,00
+
+48.000,00
+
+88.000,00
+
+192.000,00
+
+352.000,00
+
+40.000,00
+
+160.000,00
+
+0,00
+
+0,00
+
+16.000,00
+
+64.000,00
+
+0,00
+
+0,00
+
+481.600,00
+
+1.926.400,00
+
+25.600,00
+
+102.400,00
+
+0,00
+
+0,00
+
+36.000,00
+
+20.000,00
+
+144.000,00
+
+80.000,00
+
+400.000,00
+
+1.600.000,00
+
+480.000,00
+
+1.920.000,00
+
+480.000,00
+
+1.920.000,00
+
+480.000,00
+
+1.920.000,00
+
+0,00
+
+14.315.200,00
+
+57.260.800,00
+
+0,00
+
+0,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+VALOR
+
+CUSTO
+
+Ano 4
+
+FONTES
+
+CF
+
+BIRD
+
+11.960.000,00
+
+47.840.000,00
+
+9.000.000,00
+
+36.000.000,00
+
+4.800.000,00
+
+19.200.000,00
+
+4.200.000,00
+
+16.800.000,00
+
+2.960.000,00
+
+11.840.000,00
+
+720.000,00
+
+2.880.000,00
+
+600.000,00
+
+2.400.000,00
+
+400.000,00
+
+1.600.000,00
+
+1.240.000,00
+
+4.960.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+440.000,00
+
+1.760.000,00
+
+256.000,00
+
+1.024.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+256.000,00
+
+1.024.000,00
+
+0,00
+
+0,00
+
+184.000,00
+
+736.000,00
+
+0,00
+
+0,00
+
+72.000,00
+
+288.000,00
+
+0,00
+
+0,00
+
+40.000,00
+
+24.000,00
+
+48.000,00
+
+160.000,00
+
+96.000,00
+
+192.000,00
+
+782.000,00
+
+3.128.000,00
+
+346.000,00
+
+1.384.000,00
+
+160.000,00
+
+640.000,00
+
+48.000,00
+
+88.000,00
+
+192.000,00
+
+352.000,00
+
+
+Página: 21
+
+P - Promoção do desenvolvimento de sistemas de alerta local e percepção de risco da população.
+
+P - Atualização e aprimoramento do Índice Municipal de Risco de Desastres por Capacidades.
+
+P - Capacitações sobre Gestão de Riscos e Resiliência Climática.
+
+P - Capacitações e treinamentos da população vulnerável para entendimento e tomada de ações
+frente a alertas hidrometeorológicos.
+S - ARTICULAÇÃO, INOVAÇÃO E FORTALECIMENTO INSTITUCIONAL.
+
+P - Ampliação do Programa Defesa Civil na Escola
+
+P - Atualização e aprimoramento dos Protocolos de Atuação Conjunta entre as instituições no
+âmbito estadual.
+P - Promoção de criação e manutenção de Nupdec's
+
+P - Fortalecimento da atuação regionalizada para Gestão de Riscos e de Desastres
+
+P - Linhas de financiamento para adoção de novas tecnologias e processos inovadores na GRD
+
+C - ADMINISTRAÇÃO DO PROGRAMA
+
+S - GERENCIAMENTO DO PROGRAMA
+
+P - Suporte ao Gerenciamento do Programa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+16.000,00
+
+34.000,00
+
+64.000,00
+
+136.000,00
+
+436.000,00
+
+1.744.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+36.000,00
+
+144.000,00
+
+0,00
+
+0,00
+
+400.000,00
+
+1.600.000,00
+
+480.000,00
+
+1.920.000,00
+
+480.000,00
+
+1.920.000,00
+
+480.000,00
+
+1.920.000,00
+
+0,00
+
+13.662.000,00
+
+54.648.000,00
+
+0,00
+
+0,00
+
+COMPONENTES
+
+C - OBRAS DE INFRAESTRUTURA PARA  MITIGAÇÃO DE INUNDAÇÕES
+
+S -  OBRAS DE MELHORAMENTO FLUVIAL  NO RIO ITAJAÍ-AÇU
+
+P - Melhoramento Fluvial do Trecho  do Médio Vale do Rio Itajaí-Açu
+
+P - Melhoramento Fluvial do Trecho do Alto Vale do Rio Itajaí-Açu
+
+S - CONSTRUÇÃO DE BARRAGENS DE PARA CONTENÇÃO E CONTROLE DE CHEIAS
+
+P - Barragem de contenção em Mirim-Doce
+
+P - Barragem de contenção em Petrolândia
+
+P - Barragem de contenção em Braço do Trombudo
+
+P - Barragem de contenção no Rio Itajaí-Mirim em Botuverá
+
+S - MANUTENÇÃO, AUTOMAÇÃO E MODERNIZAÇÃO DA BARRAGENS DE CONTENÇÃO
+EXISTENTES
+P - Manutenção, automação e modernização da Barragem Sul em Ituporanga
+
+P - Manutenção, automação e modernização das Barragem Oeste em Taió
+
+VALOR
+
+CUSTO
+
+Ano 5
+
+FONTES
+
+CF
+
+BIRD
+
+6.200.000,00
+
+24.800.000,00
+
+6.000.000,00
+
+24.000.000,00
+
+3.200.000,00
+
+12.800.000,00
+
+2.800.000,00
+
+11.200.000,00
+
+200.000,00
+
+800.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+200.000,00
+
+800.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+C - RECONHECIMENTO, AVALIAÇÃO E MONITORAMENTO DOS RISCOS CLIMÁTICOS
+
+264.000,00
+
+1.056.000,00
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+
+S - AVALIAÇÃO E PLANEJAMENTO PARA AÇÕES DE REDUÇÃO DE RISCO E AUMENTO DA
+RESILIÊNCIA POR BACIA HIDROGRÁFICA
+P - Elaboração do Perfil de Risco de Desastres por Bacia Hidrográfica.
+
+P - Estudo para Avaliar os Impactos das Mudanças Climáticas em Santa Catarina.
+
+P - Levantamento Aerofotogramétrico, Gravimétrico e Laser Aerotransportado
+
+P - Desenvolvimento dos Planos Diretores para Redução de Risco de Desastres (PDRRD).
+
+P - Plano de Ação para Proteção do Setor Privado.
+
+S - EXPANSÃO E MODERNIZAÇÃO DO SISTEMA ESTADUAL DE MONITORAMENTO E
+ALERTA.
+P - Aquisição de Radar para Grande Florianópolis.
+
+P - Estudo técnico e ampliação da rede de monitoramento estadual.
+
+P - Sistema para monitoramento e previsão de variáveis climáticas e hidrometeorológicas, e
+ocorrências relacionadas a desastres.
+P - Plataforma web do Observatório de Avisos e Alertas Hidrometeorológicos
+
+P - Ferramenta para a comunicação do Grupo de Ações Coordenadas.
+
+P - Transformação energética das instalações e equipamentos do Sistema de Monitoramento e
+Alerta.
+C - RESILIÊNCIA LOCAL E FORTALECIMENTO INSTITUCIONAL
+
+S - AMPLIAR AS CAPACIDADES LOCAIS PARA GESTÃO DE RISCOS E ENFRENTAMENTO A
+DESASTRES CLIMÁTICOS
+P - Elaboração e atualização dos mapas de risco locais, com foco na identificação das
+populações mais vulneráveis.
+P - Elaboração de mapas de risco com foco nas unidades escolares e de saúde.
+
+P - Promoção a elaboração de instrumentos para Gestão de Risco de Desastres (GRD) no nível
+municipal.
+P - Promoção do desenvolvimento de sistemas de alerta local e percepção de risco da população.
+
+P - Atualização e aprimoramento do Índice Municipal de Risco de Desastres por Capacidades.
+
+P - Capacitações sobre Gestão de Riscos e Resiliência Climática.
+
+P - Capacitações e treinamentos da população vulnerável para entendimento e tomada de ações
+frente a alertas hidrometeorológicos.
+S - ARTICULAÇÃO, INOVAÇÃO E FORTALECIMENTO INSTITUCIONAL.
+
+P - Ampliação do Programa Defesa Civil na Escola
+
+P - Atualização e aprimoramento dos Protocolos de Atuação Conjunta entre as instituições no
+âmbito estadual.
+P - Promoção de criação e manutenção de Nupdec's
+
+P - Fortalecimento da atuação regionalizada para Gestão de Riscos e de Desastres
+
+P - Linhas de financiamento para adoção de novas tecnologias e processos inovadores na GRD
+
+C - ADMINISTRAÇÃO DO PROGRAMA
+
+S - GERENCIAMENTO DO PROGRAMA
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+264.000,00
+
+1.056.000,00
+
+0,00
+
+0,00
+
+72.000,00
+
+288.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+192.000,00
+
+768.000,00
+
+868.400,00
+
+3.473.600,00
+
+426.000,00
+
+1.704.000,00
+
+160.000,00
+
+640.000,00
+
+144.000,00
+
+576.000,00
+
+88.000,00
+
+352.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+34.000,00
+
+136.000,00
+
+442.400,00
+
+1.769.600,00
+
+0,00
+
+0,00
+
+6.400,00
+
+25.600,00
+
+36.000,00
+
+144.000,00
+
+0,00
+
+0,00
+
+400.000,00
+
+1.600.000,00
+
+480.000,00
+
+1.920.000,00
+
+480.000,00
+
+1.920.000,00
+
+
+Página: 22
+
+P - Suporte ao Gerenciamento do Programa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+480.000,00
+
+1.920.000,00
+
+0,00
+
+7.812.400,00
+
+31.249.600,00
+
+0,00
+
+0,00
+
+C - OBRAS DE INFRAESTRUTURA PARA  MITIGAÇÃO DE INUNDAÇÕES
+
+6.000.000,00
+
+24.000.000,00
+
+44.800.000,00
+
+COMPONENTES
+
+VALOR
+
+CUSTO
+
+Ano 6
+
+FONTES
+
+CF
+
+BIRD
+
+TOTAL
+
+CF
+
+TOTAL
+
+BIRD
+179.200.000,00
+
+S -  OBRAS DE MELHORAMENTO FLUVIAL  NO RIO ITAJAÍ-AÇU
+
+P - Melhoramento Fluvial do Trecho  do Médio Vale do Rio Itajaí-Açu
+
+P - Melhoramento Fluvial do Trecho do Alto Vale do Rio Itajaí-Açu
+
+S - CONSTRUÇÃO DE BARRAGENS DE PARA CONTENÇÃO E CONTROLE DE CHEIAS
+
+P - Barragem de contenção em Mirim-Doce
+
+P - Barragem de contenção em Petrolândia
+
+P - Barragem de contenção em Braço do Trombudo
+
+P - Barragem de contenção no Rio Itajaí-Mirim em Botuverá
+
+S - MANUTENÇÃO, AUTOMAÇÃO E MODERNIZAÇÃO DA BARRAGENS DE CONTENÇÃO
+EXISTENTES
+P - Manutenção, automação e modernização da Barragem Sul em Ituporanga
+
+P - Manutenção, automação e modernização das Barragem Oeste em Taió
+
+C - RECONHECIMENTO, AVALIAÇÃO E MONITORAMENTO DOS RISCOS CLIMÁTICOS
+
+S - AVALIAÇÃO E PLANEJAMENTO PARA AÇÕES DE REDUÇÃO DE RISCO E AUMENTO DA
+RESILIÊNCIA POR BACIA HIDROGRÁFICA
+P - Elaboração do Perfil de Risco de Desastres por Bacia Hidrográfica.
+
+P - Estudo para Avaliar os Impactos das Mudanças Climáticas em Santa Catarina.
+
+P - Levantamento Aerofotogramétrico, Gravimétrico e Laser Aerotransportado
+
+P - Desenvolvimento dos Planos Diretores para Redução de Risco de Desastres (PDRRD).
+
+P - Plano de Ação para Proteção do Setor Privado.
+
+S - EXPANSÃO E MODERNIZAÇÃO DO SISTEMA ESTADUAL DE MONITORAMENTO E
+ALERTA.
+P - Aquisição de Radar para Grande Florianópolis.
+
+P - Estudo técnico e ampliação da rede de monitoramento estadual.
+
+P - Sistema para monitoramento e previsão de variáveis climáticas e hidrometeorológicas, e
+ocorrências relacionadas a desastres.
+P - Plataforma web do Observatório de Avisos e Alertas Hidrometeorológicos
+
+P - Ferramenta para a comunicação do Grupo de Ações Coordenadas.
+
+P - Transformação energética das instalações e equipamentos do Sistema de Monitoramento e
+Alerta.
+C - RESILIÊNCIA LOCAL E FORTALECIMENTO INSTITUCIONAL
+
+S - AMPLIAR AS CAPACIDADES LOCAIS PARA GESTÃO DE RISCOS E ENFRENTAMENTO A
+DESASTRES CLIMÁTICOS
+P - Elaboração e atualização dos mapas de risco locais, com foco na identificação das
+populações mais vulneráveis.
+P - Elaboração de mapas de risco com foco nas unidades escolares e de saúde.
+
+P - Promoção a elaboração de instrumentos para Gestão de Risco de Desastres (GRD) no nível
+municipal.
+P - Promoção do desenvolvimento de sistemas de alerta local e percepção de risco da população.
+
+P - Atualização e aprimoramento do Índice Municipal de Risco de Desastres por Capacidades.
+
+P - Capacitações sobre Gestão de Riscos e Resiliência Climática.
+
+P - Capacitações e treinamentos da população vulnerável para entendimento e tomada de ações
+frente a alertas hidrometeorológicos.
+S - ARTICULAÇÃO, INOVAÇÃO E FORTALECIMENTO INSTITUCIONAL.
+
+P - Ampliação do Programa Defesa Civil na Escola
+
+P - Atualização e aprimoramento dos Protocolos de Atuação Conjunta entre as instituições no
+âmbito estadual.
+P - Promoção de criação e manutenção de Nupdec's
+
+6.000.000,00
+
+24.000.000,00
+
+30.000.000,00
+
+120.000.000,00
+
+3.200.000,00
+
+12.800.000,00
+
+16.000.000,00
+
+64.000.000,00
+
+2.800.000,00
+
+11.200.000,00
+
+14.000.000,00
+
+56.000.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+13.800.000,00
+
+55.200.000,00
+
+3.600.000,00
+
+14.400.000,00
+
+3.000.000,00
+
+12.000.000,00
+
+1.000.000,00
+
+4.000.000,00
+
+6.200.000,00
+
+24.800.000,00
+
+1.000.000,00
+
+4.000.000,00
+
+500.000,00
+
+2.000.000,00
+
+500.000,00
+
+2.000.000,00
+
+4.200.000,00
+
+16.800.000,00
+
+2.340.000,00
+
+9.360.000,00
+
+60.000,00
+
+48.000,00
+
+240.000,00
+
+192.000,00
+
+900.000,00
+
+3.600.000,00
+
+1.280.000,00
+
+5.120.000,00
+
+52.000,00
+
+208.000,00
+
+1.860.000,00
+
+7.440.000,00
+
+540.000,00
+
+2.160.000,00
+
+360.000,00
+
+1.440.000,00
+
+640.000,00
+
+2.560.000,00
+
+50.000,00
+
+30.000,00
+
+200.000,00
+
+120.000,00
+
+240.000,00
+
+960.000,00
+
+693.600,00
+
+2.774.400,00
+
+4.000.000,00
+
+16.000.000,00
+
+248.000,00
+
+992.000,00
+
+1.700.000,00
+
+6.800.000,00
+
+160.000,00
+
+640.000,00
+
+800.000,00
+
+3.200.000,00
+
+0,00
+
+0,00
+
+240.000,00
+
+960.000,00
+
+88.000,00
+
+352.000,00
+
+440.000,00
+
+1.760.000,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+80.000,00
+
+40.000,00
+
+32.000,00
+
+68.000,00
+
+320.000,00
+
+160.000,00
+
+128.000,00
+
+272.000,00
+
+445.600,00
+
+1.782.400,00
+
+2.300.000,00
+
+9.200.000,00
+
+0,00
+
+0,00
+
+9.600,00
+
+38.400,00
+
+64.000,00
+
+16.000,00
+
+256.000,00
+
+64.000,00
+
+36.000,00
+
+144.000,00
+
+180.000,00
+
+720.000,00
+
+P - Fortalecimento da atuação regionalizada para Gestão de Riscos e de Desastres
+
+0,00
+
+0,00
+
+40.000,00
+
+160.000,00
+
+P - Linhas de financiamento para adoção de novas tecnologias e processos inovadores na GRD
+
+400.000,00
+
+1.600.000,00
+
+2.000.000,00
+
+8.000.000,00
+
+C - ADMINISTRAÇÃO DO PROGRAMA
+
+S - GERENCIAMENTO DO PROGRAMA
+
+P - Suporte ao Gerenciamento do Programa
+
+Total
+Legenda: Componente (C), Subcomponente (S) e Produto(P).
+
+5. Riscos
+
+
+### 5.1. RISCOS/ATOS LEGAIS
+
+
+ATOS LEGAIS
+
+240.000,00
+
+960.000,00
+
+2.400.000,00
+
+9.600.000,00
+
+240.000,00
+
+960.000,00
+
+2.400.000,00
+
+9.600.000,00
+
+240.000,00
+
+960.000,00
+
+2.400.000,00
+
+9.600.000,00
+
+277.000.000,00
+
+6.933.600,00
+
+27.734.400,00
+
+55.400.000,00
+
+221.600.000,00
+
+Para viabilização do projeto deverão ser estabelecidas algumas normatizações e documentos jurídicos:
+
+Conforme Resolução do Senado Federal nº 43/2001, a Lei autorizativa para operação de crédito, de autoria do executivo, será enviada à
+Assembleia Legislativa de Santa Catarina a fim de obter autorização legal.
+
+
+Página: 23
+
+Edição de Portaria de autoria do executivo, para estabelecer o Grupo Executivo do Programa SC Protegida e Resiliente, grupo vinculado à
+Secretaria de Estado da Proteção e Defesa Civil, criado para executar toda a gestão técnica, administrativa e financeira do projeto.
+
+Firmar Acordo de Cooperação Técnica com órgãos envolvidos no Projeto, tais como Secretaria de Estado da Infraestrutura, Secretaria de
+Estado da Ciência, Tecnologia e Inovação, Secretaria de Estado da Educação, dentre outros.
+
+Firmar Termos de Colaboração ou outro instrumento equivalente, para operacionalização das ações definidas no Projeto junto à entidades
+que não fazem parte da estrutura do poder executivo estadual, tais como prefeituras, associações, federações, dentre outras. Esses
+instrumentos serão celebrados no início do projeto, porém, durante a execução do projeto poderão ser verificados novos parceiros.
+
+Ainda, para a execução do projeto deverá ser elaborado e implementado o Manual Operativo do Projeto, o qual deverá normatizar toda a
+operação do projeto, incluindo o arranjo de implementação, procedimentos para aquisições, procedimentos para movimentação financeira,
+procedimentos contábeis, marcos legais, ambientais e sociais e os procedimentos de monitoramento e controle do projeto.
+
+As ações previstas no Programa serão executadas ao abrigo da legislação e regulamentação vigentes no país e no Estado acrescidas das
+exigências propostas pelo agente financeiro.
+
+5.2. RISCOS/CONTRATAÇÕES
+
+CONTRATAÇÕES
+
+Os processos de seleção, contratação e aquisição serão realizados em estrita conformidade com as Diretrizes do BIRD, e em atendimento
+a legislação vigente, sempre prezando pela segurança jurídica e administrativa do certame.
+
+Ressalte-se que a SDC e os órgãos parceiros possuem profissionais com experiência em licitações conforme os métodos do BIRD.
+
+Inicialmente, o processo de implementação do SC Protegida e Resiliente tem como premissas contratações junto a empresas
+especializadas para apoio à gestão e acompanhamento dos contratos de obras, além da execução destas, e seu acompanhamento
+ambiental.
+
+Destacamos, não haver previsão de contratação de pessoal via concurso público ou por outra via para implementação e sustentabilidade
+do programa.
+
+De forma geral, os principais riscos envolvidos nas contratações são:
+
+Morosidade e dificuldade na contratação de serviços especializados. Busca-se mitigar por meio de capacitação da equipe, pesquisas
+direcionadas ao entendimento do mercado a ser alcançado, e envolvimento da alta administração na agilidade dos processos, no
+entendimento da importância do procedimento de contratação por parte da estrutura das secretarias envolvidas.
+
+O risco jurídico ou administrativo que prejudique o andamento da licitação. Sugere-se a mitigação por meio de editais bem elaborados com
+critérios de análise claros e com exigências técnicas contundentes
+
+A possibilidade de certames de licitação desertos onde não se tenha proponente ou nenhum proponente classificado. Sua mitigação se dá
+por meio de definição de parâmetros compatíveis com as soluções disponíveis no mercado e que sejam exequíveis dentro dos níveis de
+exigência de qualidade desejados pelas comunidades a serem atendidas, bem como ampla divulgação dos processos licitatórios.
+
+Os riscos orçamentários e de disponibilidade financeira que poderão acarretar atrasos ou inexecução de projetos por falta de recursos.
+Porém com a inclusão dos recursos de contrapartida nos instrumentos legais PPA e LOA e na programação financeira de desembolso
+garantindo o aporte de recursos já no início de cada ano fiscal, estes são mitigados
+
+5.3. RISCOS/DESAPROPRIAÇÕES
+
+DESAPROPRIAÇÕES E INDENIZAÇÕES
+
+As obras propostas já possuem a área correspondente a construção das estruturas desapropriadas, os casos extras, como áreas de
+descarte de material, são contemplados com os valores necessários para as desapropriações e indenizações. Ressaltamos que essa é
+uma ação necessária para a obtenção das licenças ambientais, portanto os empreendimentos licenciados não possuem risco quanto esse
+item.
+
+O orçamento proposto já contempla os custos decorrentes de eventual necessidade de desapropriação.
+
+(cid:10)
+(cid:10)
+
+
+Página: 24
+
+Destacamos que todas as ações referentes a desapropriações e indenizações sob responsabilidade da Secretaria da Proteção e Defesa
+Civil de Santa Catarina, atenderam as exigências legais vigentes, e as eventuais desapropriações futuras tem uma garantia instrução
+processual dentro das exigências, não só legais, mas também políticas do BIRD, em especial a atenção aos padrões de quadro ambiental
+e social do Banco Mundial.
+
+
+### 5.4. RISCOS/IMPACTOS AMBIENTAIS
+
+
+IMPACTO AMBIENTAL
+
+Os efeitos ambientais potenciais do Projeto serão mitigados por meio da aplicação de controles e programas predefinidos. Todas as
+atividades e obras de infraestrutura, incluindo barragens e melhoramentos fluviais, serão categorizadas de acordo com sua magnitude de
+impacto, em conformidade com a legislação ambiental vigente. Isso implica que todas as obras potencialmente poluidoras serão
+submetidas aos processos de licenciamento ambiental, assegurando sua consonância com os padrões ambientais estabelecidos.
+
+Cada potencial impacto será acompanhado por uma medida mitigadora correspondente, com uma abordagem sinérgica, considerando os
+efeitos da implantação de infraestruturas correlatas. O plano de gestão ambiental seguirá uma metodologia lógica de análise desde a
+concepção até a localização das obras a serem realizadas, garantindo sua viabilidade ambiental e estabelecendo requisitos básicos e
+condicionantes a serem cumpridos nas fases subsequentes de implementação.
+
+Durante a operação das obras, serão implementados todos os controles necessários para garantir a conformidade com os requisitos
+ambientais estabelecidos. A instalação das infraestruturas e a realização das atividades previstas no projeto serão conduzidas de acordo
+com os planos e projetos previamente aprovados. Isso envolverá a incorporação de medidas de controle e condicionantes delineadas nos
+estudos ambientais, bem como aquelas determinadas pelas autoridades ambientais competentes.
+
+As obras de infraestrutura mencionadas neste Projeto já possuem estudos ambientais em andamento no Instituto do Meio Ambiente de
+Santa Catarina, estando em fase de análise prévia ou de instalação. Destacamos que duas barragens mencionadas no Projeto já
+obtiveram licença ambiental de instalação, o que reflete o compromisso em cumprir os procedimentos legais e assegurar que as obras
+sejam conduzidas em conformidade com as regulamentações ambientais.
+
+
+### 5.5. RISCOS/IMPACTO SOCIAL
+
+
+IMPACTO SOCIAL
+
+A implementação dos Projetos contará com um Plano de Gestão de Riscos Socioambientais, que incluirá questões relacionadas à
+população indígena, quilombolas e outros povos tradicionais, conforme diretrizes do BIRD, e dos governos estadual e federal.
+
+Também incluirá neste Plano os temas de promoção da equidade de gênero e de oportunidades para a juventude. Em linha com a Política
+de Salvaguardas Ambientais e Sociais do BIRD e a questão constitucional de proteção aos direitos dos Povos Indígenas, este projeto
+adotará uma metodologia específica de acordo com as características desses povos e comunidades. De acordo com esta Política,
+qualquer ação em territórios indígenas deverá obrigatoriamente ser precedida por um processo de consulta participativo para assegurar o
+consentimento livre, prévio e informado dos povos indígenas, quilombolas afetados e dos órgãos federais responsáveis. O Estado é parte
+componente dos conselhos estaduais dos povos indígenas e dos quilombolas.
+
+A equipe do Projeto contará com pessoas com competências específicas relacionadas com as temáticas de gênero, juventude, raça e
+etnia que orientarão a abordagem metodológica com as comunidades tradicionais. Essa abordagem incluirá: i) um plano de capacitação
+das equipes de defesa civil, para trabalhar em comunidades indígenas e outras comunidades tradicionais; ii) a produção de material de
+suporte, com metodologias e linguagem apropriadas de cunho técnico e para a realização das capacitações.
+
+A SDC já executa um contrato semelhante ao proposto que consiste em criar e manter mecanismos adequados de comunicação entre as
+populações indígenas afetadas pelo empreendimento e o empreendedor, de maneira a possibilitar a participação dos indígenas e a
+transparência no desenvolvimento das obras e do processo de licenciamento, este contrato visou criar um canal de comunicação que
+permita aos indígenas submeter dúvidas, sugestões e reclamações ao empreendedor, a fim de fomentar a participação destes durante
+todo o período de pré-instalação, instalação e operação do empreendimento. Dentre os objetivos deste, encontram-se o constante diálogo
+por meio do Programa de Comunicação Social do Plano Básico Ambiental (PBA), a divulgação de informações e minimização de dúvidas
+a respeito da elaboração dos estudos e dos demais programas ambientais necessários para a regularização ambiental da Barragem Norte
+, em José Boiteux. Como produtos diretos deste contrato, encontram-se o Estudo da componente indígena, onde diversos fatores culturais
+e a história da comunidade ali situada são a raiz do estudo e documento elaborado.
+
+
+### 5.6. RISCOS/REASSENTAMENTOS
+
+
+5.7. RISCOS/INFORMAÇÕES FINANCEIRAS DO MUTUÁRIO DEVERÃO SER ENCAMINHADAS DIRETAMENTE À STN
+
+(cid:10)
+(cid:10)
+(cid:10)
+
+
+Página: 25
