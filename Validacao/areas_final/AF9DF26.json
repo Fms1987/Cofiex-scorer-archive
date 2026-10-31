@@ -1,0 +1,92 @@
+{
+ "id": "AF9DF26",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Direct link to objectives, components and indicators on investment management and results contracts, but no resources allocated and not a central objective, so impact is low."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Debt restructuring is the core of the project, with all resources, verifiable indicators, viable targets and a financing-advantage study, giving high impact."
+  },
+  {
+   "code": "110",
+   "name": "Social security",
+   "level": null,
+   "points": 0.0,
+   "reason": "No link between general objective and pension protection; payroll audit is not pension protection; no resources allocated to related components; indicator does not demonstrate it."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Climate governance product exists, but the budget-marker indicator only tracks budgeting and does not measure capacity gains; no relevant indicators or targets, no resources."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Targeting investment inside the state reduces intra-state, not regional, inequality; no indicator or target for the area and no allocated resources."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific objective, component or resources tied to the area; a budget-marker indicator is relevant but impact cannot be measured."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "110",
+   "name": "Social security",
+   "reason": "No link between general objective and pension protection; payroll audit is not pension protection; no resources allocated to related components; indicator does not demonstrate it."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "reason": "Climate governance product exists, but the budget-marker indicator only tracks budgeting and does not measure capacity gains; no relevant indicators or targets, no resources."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Targeting investment inside the state reduces intra-state, not regional, inequality; no indicator or target for the area and no allocated resources."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "reason": "No specific objective, component or resources tied to the area; a budget-marker indicator is relevant but impact cannot be measured."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  3.5,
+  10.0
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "id": "A53625A",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Programme fully health-focused; components, products, indicators, objectives and significant resources serve the public health system; efficient solutions with high potential impact on access."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Dedicated digital-transformation component with digitization of health services, related objective, products, indicators and relevant resources."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Health-facility expansion and renovation noted, but structure of indicators, components and resources did not show contribution to the area."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No indicators, specific objectives or resources closely tied to the area."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "reason": "Health-facility expansion and renovation noted, but structure of indicators, components and resources did not show contribution to the area."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "reason": "No indicators, specific objectives or resources closely tied to the area."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 1.0,
+   "decision": "aceito",
+   "reason": "Programme is entirely tied to the federal PPA priority on primary and specialized health care, aligned with the state health plan."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not claim regional integration."
+  }
+ ],
+ "areas_total": [
+  5.0,
+  10.0
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "id": "A92C450",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": "D",
+   "points": 1.0,
+   "reason": "New primary-care and emergency units address insufficient and unequal coverage, with a target set; modest share of the programme."
+  },
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Full-time elementary schools built or upgraded in underserved areas; indicator and target given, but impact is small relative to total demand."
+  },
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Deteriorated cultural venues and a heritage railway complex renovated, forming a cultural corridor; indicators on visitation and cultural events."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": "E",
+   "points": 0.5,
+   "reason": "New social-assistance centres expand coverage for vulnerable families, prioritizing dense, underserved neighbourhoods."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Integrated road, drainage, mobility and public-space interventions with objectives, indicators and targets; strongest link to the programme."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Sports fields plus squares with exercise equipment and walking tracks respond to a lack of public sports spaces; indicators achievable."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Botanical garden restoring degraded vegetation and an ecological corridor to counter ecosystem fragmentation."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Drainage works and canal requalification reduce recurrent flooding; indicators and targets on flood prevention."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Modernized cultural venues, a religious pilgrimage route, panoramic lift, pedestrian-centre revitalization and ecological tourism sites strengthen tourism."
+  },
+  {
+   "code": "101",
+   "name": "Poverty",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific actions against food insecurity; expected results from social, school and health facilities fit other areas better."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "101",
+   "name": "Poverty",
+   "reason": "No specific actions against food insecurity; expected results from social, school and health facilities fit other areas better."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  8.5,
+  10.0
+ ]
+}

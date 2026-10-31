@@ -1,0 +1,96 @@
+{
+ "id": "AF74C0D",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Health-unit weaknesses are described and a product addresses primary and emergency units, but unclear whether new or existing units, with divergent information, hampered impact measurement."
+  },
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Product renovates deteriorated cultural and tourist structures, valuing local memory; indicators and targets on visitation exist."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Road, drainage, lighting and urban lift products address flooding and mobility; public-space content unclear and indicators cover only road mobility."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Interventions in sports facilities, but unclear whether new builds or refurbishment, with divergent figures across annexes, hindering impact measurement."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Botanical garden and recovery of degraded urban area described, but no consistent information on other announced environmental interventions."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Cultural and urban-lift products have tourism potential, supporting income generation from tourism."
+  },
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "level": null,
+   "points": 0.0,
+   "reason": "School requalification product lacks type and scale of intervention, and no valid indicators or targets for the area, so minimum criteria were not met."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Resilience and geological-risk interventions are cited without clear product descriptions, and no relevant indicators measure impact."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "reason": "School requalification product lacks type and scale of intervention, and no valid indicators or targets for the area, so minimum criteria were not met."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "reason": "Resilience and geological-risk interventions are cited without clear product descriptions, and no relevant indicators measure impact."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the resources are exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  5.5,
+  10.0
+ ]
+}

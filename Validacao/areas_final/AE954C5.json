@@ -1,0 +1,91 @@
+{
+ "id": "AE954C5",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": "E",
+   "points": 0.5,
+   "reason": "New municipal funeral infrastructure supports dignity and socio-spatial justice, with a related specific objective and indicator, but resources are low relative to the program and population impact is limited."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Paving, drainage, mobility and sanitation connections address disorderly urban growth and flooding; specific objective and indicators align; resources are significant and impact potential high."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Rehabilitation of sports gyms, courts and squares expands access to physical activity, with specific indicators and products; resources relevant but impact potential moderate."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Green infrastructure, nature-based solutions and a linear park contribute, with indicators, but sustainable use of the environment is cross-cutting rather than the main program impact."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Drainage works and nature-based solutions contribute but are not focused on risk management or adaptation, better fitted to sustainable cities and environment; indicators imprecise."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "level": "E",
+   "points": 0.5,
+   "reason": "An eco-industrial district component has a related objective and replicability potential, but the future industries were not specified, so impact was judged barely relevant."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": "E",
+   "points": 0.5,
+   "reason": "A municipal photovoltaic plant with a specific objective and indicators expands renewables, but it mainly cuts public-building energy costs, so impact on energy security is low."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions found contributing to this strategic area."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "No actions found contributing to this strategic area."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not indicate the resources are exclusively aimed at federal PPA priorities; no points awarded."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not indicate the program promotes regional integration; no points awarded."
+  }
+ ],
+ "areas_total": [
+  6.5,
+  10.0
+ ]
+}

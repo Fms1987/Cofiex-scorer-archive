@@ -1,0 +1,130 @@
+{
+ "id": "A00CF02",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "101",
+   "name": "Poverty",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Overall and specific objectives and a component tie directly to poverty and food insecurity; SMART indicators; largest resource share and high impact."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": "D",
+   "points": 1.0,
+   "reason": "General objective relevant, SMART indicators on follow-up of vulnerable families; resources small and impact moderate since rights are not the main focus."
+  },
+  {
+   "code": "110",
+   "name": "Social security",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Relevant objective and indicators on formalization, but resources only indirectly linked; low impact."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Objectives, component and SMART indicators on productive inclusion; resource share not significant but impact potential high."
+  },
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": null,
+   "points": 0.0,
+   "reason": "Health-care targets exist inside a family plan, but no objectives directly tied to the area and no clear indicators."
+  },
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only school-enrolment links within a family plan; no directly related objectives, so minimum criteria not met."
+  },
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "level": null,
+   "points": 0.0,
+   "reason": "No components, objectives or indicators directed at culture or creative economy."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": null,
+   "points": 0.0,
+   "reason": "No objectives, indicators, components or products specific to women's policies."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Territorial targeting of poor municipalities noted, but no indicators showing the area is reached."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Institutional strengthening is present but without directly related objectives or indicators."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "reason": "Health-care targets exist inside a family plan, but no objectives directly tied to the area and no clear indicators."
+  },
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "reason": "Only school-enrolment links within a family plan; no directly related objectives, so minimum criteria not met."
+  },
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "reason": "No components, objectives or indicators directed at culture or creative economy."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "reason": "No objectives, indicators, components or products specific to women's policies."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Territorial targeting of poor municipalities noted, but no indicators showing the area is reached."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "reason": "Institutional strengthening is present but without directly related objectives or indicators."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 1.0,
+   "decision": "aceito",
+   "reason": "All resources go to the federal priority of fighting hunger and reducing inequality, via social protection and productive inclusion."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not indicate a regional integration focus."
+  }
+ ],
+ "areas_total": [
+  6.5,
+  10.0
+ ]
+}

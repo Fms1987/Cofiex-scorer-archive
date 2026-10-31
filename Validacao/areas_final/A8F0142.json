@@ -1,0 +1,64 @@
+{
+ "id": "A8F0142",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Flood macrodrainage ties directly to sanitation and the component fits; indicators are not SMART but show objectives; protected population is small relative to the city, so impact is low."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Sports equipment at only two reservoirs with a relevant indicator, but a tiny resource share and no engagement strategy, so impact is limited."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Related specific objective on restoring micro-basins; the indicator on waste diverted from water bodies is viable but unambitious and its impact is limited relative to the area."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "C",
+   "points": 2.0,
+   "reason": "General objective and component directly aligned, viable indicators and about 90% of resources on flood prevention; directly protected population is small, so moderate impact."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Relevant objectives and component, but the sole related indicator is modest and the effectiveness of water-quality gains for broader water security was not demonstrated."
+  }
+ ],
+ "not_accepted": [],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 1.0,
+   "decision": "aceito",
+   "reason": "Proponent declared alignment with the PPA priority on confronting the climate emergency; resources are fully directed to climate adaptation against floods and droughts."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration; no points."
+  }
+ ],
+ "areas_total": [
+  4.5,
+  10.0
+ ]
+}

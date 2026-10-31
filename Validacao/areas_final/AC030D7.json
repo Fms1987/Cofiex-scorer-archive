@@ -1,0 +1,43 @@
+{
+ "id": "AC030D7",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Debt-restructuring loan with urban-planning and environmental legislation products that fit the area, but no project funds go to them and the impact is medium to long term."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Most closely related area: all resources refinance costlier debt, with fiscal-control measures and indicators on debt service, payment capacity and current savings."
+  }
+ ],
+ "not_accepted": [],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the project is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the project promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  3.5,
+  10.0
+ ]
+}

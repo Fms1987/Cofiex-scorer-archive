@@ -1,0 +1,82 @@
+{
+ "id": "A25E93E",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "104",
+   "name": "Secondary/technical education",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Full thematic alignment: modernized school infrastructure, more enrolments, curricula and teacher training for technical education; most resources go to this area."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Resilient school buildings designed for extreme climate events; objectives, indicators, products and some resources meet the minimum criteria."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Actions integrating students into the green labor market (internships, micro-business support, partnerships); objectives, indicators and a relevant resource share."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Targets low-coverage, low-development municipalities with related objective and products, but related indicators and resource share are not well demonstrated."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": null,
+   "points": 0.0,
+   "reason": "Green-skills training has only long-term effects; no indicators, actions or resources directly and closely tied to conservation or restoration."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "level": null,
+   "points": 0.0,
+   "reason": "No objectives, indicators, components or products focused on industry; actions are curricular changes to prepare labor supply."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "201",
+   "name": "Environment",
+   "reason": "Green-skills training has only long-term effects; no indicators, actions or resources directly and closely tied to conservation or restoration."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "reason": "No objectives, indicators, components or products focused on industry; actions are curricular changes to prepare labor supply."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 0.0,
+   "decision": "não aceito",
+   "reason": "Proponent claimed all resources go to federal priorities, but the subsequent technical-vocational modality is not basic education, so actions are not exclusively focused on those priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  6.0,
+  10.0
+ ]
+}

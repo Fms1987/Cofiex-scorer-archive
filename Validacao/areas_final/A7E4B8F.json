@@ -1,0 +1,146 @@
+{
+ "id": "A7E4B8F",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Restoration of degraded historic and cultural buildings, a cultural complex and gastronomic complex strengthen memory and creative economy."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Integrated drainage, road requalification and accessible sidewalks improve mobility and urban comfort; other products add social, cultural and sports facilities; indicators reflect positive impacts."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Modernization of a multipurpose arena and a new public square with exercise equipment; indicators presented, but impact limited to the directly served area."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Botanical garden with slope stabilization, native reforestation, trails, nursery and environmental monitoring acts as an ecological barrier to irregular urban growth."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Macro- and micro-drainage with nature-based solutions and slope recovery; flood-point reduction indicator; contribution largely shared with other areas."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Tourism, hospitality and gastronomy training with supervised internships creates employment opportunities for a mostly low-income local population."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": "E",
+   "points": 0.5,
+   "reason": "LED public lighting and photovoltaic systems in public buildings, with expected energy savings and emission reductions."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Tourism training centre, restored cultural and heritage sites, an events programme and ecological tourism raise visitor flow and service quality."
+  },
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": null,
+   "points": 0.0,
+   "reason": "Health-unit improvements are included, but no indicators or targets were presented for this area."
+  },
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "level": null,
+   "points": 0.0,
+   "reason": "School improvements are included, but no indicators or targets were presented for this area."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions serving this area were identified."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions identified; actions within the proponent's own municipality are not considered."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions serving this area were identified."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "reason": "Health-unit improvements are included, but no indicators or targets were presented for this area."
+  },
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "reason": "School improvements are included, but no indicators or targets were presented for this area."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "reason": "No actions serving this area were identified."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "No actions identified; actions within the proponent's own municipality are not considered."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "reason": "No actions serving this area were identified."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  7.0,
+  10.0
+ ]
+}

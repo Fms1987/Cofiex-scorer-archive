@@ -1,0 +1,180 @@
+{
+ "id": "A2A2623",
+ "regime": "R17_2021",
+ "outcome": "withdrawn",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "level": null,
+   "points": 0.133,
+   "reason": "Requalification includes a solar photovoltaic system for cost savings and supply security."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Includes individual sewage collection and treatment systems giving proper final disposal."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Social work project ensures popular participation during works via community participation, communication and environmental education."
+  },
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Photovoltaic and sewage effects on the environment are indirect, not actions directly promoting sustainability."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "Sewage system helps conserve water and soil, but no integrated water-resources management actions."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions directly aimed at biodiversity or forest management; sewage benefits are indirect."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Information provided was insufficient."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "level": null,
+   "points": 0.0,
+   "reason": "Entrepreneurship training could not be linked to concrete benefits such as easier business opening or trade."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "Information insufficient; works and training not shown to generate jobs and income for vulnerable groups."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "No infrastructure or facilities specifically aimed at low-income or vulnerable groups."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Information insufficient; youth and gender actions belong under 1.11."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "level": null,
+   "points": 0.0,
+   "reason": "Training quotas for women and youth are not an effective inclusion action compared with hiring in project works."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "level": null,
+   "points": 0.0,
+   "reason": "Better bathing-water quality reduces waterborne disease, but as an indirect impact, not a specific action."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "level": null,
+   "points": 0.0,
+   "reason": "Solar generation already credited in 1.2; panels are equipment acquisition, not technological innovation."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Information in the proposal was insufficient."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "reason": "Photovoltaic and sewage effects on the environment are indirect, not actions directly promoting sustainability."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "reason": "Sewage system helps conserve water and soil, but no integrated water-resources management actions."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "reason": "No actions directly aimed at biodiversity or forest management; sewage benefits are indirect."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "reason": "Information provided was insufficient."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "reason": "Entrepreneurship training could not be linked to concrete benefits such as easier business opening or trade."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "reason": "Information insufficient; works and training not shown to generate jobs and income for vulnerable groups."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "reason": "No infrastructure or facilities specifically aimed at low-income or vulnerable groups."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "reason": "Information insufficient; youth and gender actions belong under 1.11."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "reason": "Training quotas for women and youth are not an effective inclusion action compared with hiring in project works."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "reason": "Better bathing-water quality reduces waterborne disease, but as an indirect impact, not a specific action."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "reason": "Solar generation already credited in 1.2; panels are equipment acquisition, not technological innovation."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "reason": "Information in the proposal was insufficient."
+  }
+ ],
+ "bonus": [],
+ "areas_total": [
+  0.399,
+  2.0
+ ]
+}

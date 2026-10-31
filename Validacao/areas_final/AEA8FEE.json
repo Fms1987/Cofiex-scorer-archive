@@ -1,0 +1,70 @@
+{
+ "id": "AEA8FEE",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "101",
+   "name": "Poverty",
+   "level": "B",
+   "points": 3.0,
+   "reason": "General objective directly tied to food insecurity and poverty; objectives, products, indicators and targets aligned; all actions relate to the aim and reach many beneficiaries, so impact potential is high."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "D",
+   "points": 1.0,
+   "reason": "No direct link to the general objective; significant resources go to infrastructure and social facilities, but these are not the project focus, so impact is low."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": "D",
+   "points": 1.0,
+   "reason": "A dedicated component targets work and income for vulnerable people, but its scope is limited because the project centers on social assistance policy; impact is low."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Aligned indicators exist, but few resources and limited scope, as digital upgrades cover only the proponent's social assistance agency; impact is barely relevant."
+  },
+  {
+   "code": "209",
+   "name": "Digital inclusion and connectivity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Scope is strictly social and productive inclusion; digital actions are a tactical means, with no direct measures for digital transformation of the economy or alignment with the area."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "209",
+   "name": "Digital inclusion and connectivity",
+   "reason": "Scope is strictly social and productive inclusion; digital actions are a tactical means, with no direct measures for digital transformation of the economy or alignment with the area."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 1.0,
+   "decision": "aceito",
+   "reason": "All resources go to activities tied to the PPA priority of fighting hunger and reducing inequality, via social protection, food security and productive inclusion."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not indicate regional integration; no points awarded."
+  }
+ ],
+ "areas_total": [
+  5.5,
+  10.0
+ ]
+}

@@ -1,0 +1,10 @@
+{
+  "moeda": "US$",
+  "total": 100000000,
+  "areas_declaradas": ["107","111","202","204","205","207","208","214","305","102","104","206","209","215","302","303"],
+  "produtos": [
+    {"nome": "P1 - Financiamento de projetos de transição energética (componente 1)", "valor": 38000000, "areas": ["107","111","202","204","205","207","208","214","305"]},
+    {"nome": "P2 - Financiamento de projetos de transição digital (componente 2)", "valor": 60000000, "areas": ["102","104","111","205","206","209","214","215","302","303"]},
+    {"nome": "P3 - Estruturação e apoio à implementação das linhas de crédito (componente 3)", "valor": 2000000, "areas": ["206"]}
+  ]
+}

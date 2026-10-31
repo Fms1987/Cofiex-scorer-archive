@@ -1,0 +1,78 @@
+{
+ "id": "A6A6F75",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "104",
+   "name": "Secondary/technical education",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Only a minor education-sector financial-management component; one indicator covers a narrow slice of school management; tiny resource share and low impact."
+  },
+  {
+   "code": "110",
+   "name": "Social security",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Pension-management subcomponent only; very small resource share, low potential impact, no evidence of efficiency versus alternatives."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Public procurement modernization linked to business environment only loosely; resources relevant (about 20%) but impact judged low given the many areas claimed."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "General objective only minimally related; link to most listed indicators not clearly shown; pooled resources (about 20%) relevant but impact low."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Objectives directly related; SMART indicators and viable targets; relevant pooled resource share; moderate impact; innovative versus usual public management."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "C",
+   "points": 2.0,
+   "reason": "General objective relevant; digitalization-focused indicators clear and viable; relevant pooled resources; impact called high yet level C assigned."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Fiscal-management objectives directly related; many SMART indicators; relevant resources; impact moderate but not high."
+  }
+ ],
+ "not_accepted": [],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  8.0,
+  10.0
+ ]
+}

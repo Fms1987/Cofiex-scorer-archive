@@ -1,0 +1,110 @@
+{
+ "id": "AC8CB83",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "107",
+   "name": "Women",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Insufficient resources relative to the total and low relevance of the expected result limit impact."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "E",
+   "points": 0.5,
+   "reason": "No relevant resources allocated, though products combined can partly raise productivity; SMART objectives and targets are coherent."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Low representativeness in efficiency or innovation, no sizeable resources and only a discreet commitment in objectives and products."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Low representativeness, no sizeable resources, discreet commitment, and a weak understanding of diversified water sources."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Score driven by the resource-apportionment method; products linked to the area are well represented."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Merit fits, but apportioning resources in diffuse cross-cutting areas pulled the score down; SMART objectives and targets noted."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Aligned with digital transformation but limited reach to other government levels and no robust dissemination solutions."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Well supported fit, but outcomes depend on external factors such as federal policy and economic variables, limiting direct short-term impact."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": null,
+   "points": 0.0,
+   "reason": "No concrete efficiency or innovation measures, no specific resources, only a consultancy with unmeasurable results, and no express commitment in objectives."
+  },
+  {
+   "code": "307",
+   "name": "Justice",
+   "level": null,
+   "points": 0.0,
+   "reason": "Proposal brings procedural improvements rather than an improvement of the justice system."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "reason": "No concrete efficiency or innovation measures, no specific resources, only a consultancy with unmeasurable results, and no express commitment in objectives."
+  },
+  {
+   "code": "307",
+   "name": "Justice",
+   "reason": "Proposal brings procedural improvements rather than an improvement of the justice system."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the program is exclusively aimed at federal PPA priorities; resources are not mainly directed to them."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state regional integration; the program does not primarily serve frontier-zone municipalities."
+  }
+ ],
+ "areas_total": [
+  7.5,
+  10.0
+ ]
+}

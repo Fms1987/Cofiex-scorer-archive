@@ -1,0 +1,192 @@
+{
+ "id": "A4E8247",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Relevant though not the general objective; specific objectives, components and SMART indicators; significant resources; high-impact potential for vulnerable youth, older people, caregivers and minorities; moderate level; solutions efficient."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Adequate specific objective, products and SMART indicator; low resource share; moderate impact in highest-violence areas; efficient solutions such as protective patrols and electronic monitoring."
+  },
+  {
+   "code": "112",
+   "name": "Public safety",
+   "level": "B",
+   "points": 3.0,
+   "reason": "General and specific objectives and components directly related; SMART indicators and targets; most resources go here; high impact in low-income municipalities; efficient solutions."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Relevant but not direct; specific objective and products; indicator measures active-ageing activities generally rather than physical activity; low resources and slight impact; efficient solutions."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "General objective unrelated, but specific objective, product, SMART indicators and relevant resources; direct beneficiaries unclear so impact slight; efficient solutions."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Specific objective and product on prison work access with SMART indicators; low resources and slight impact; solutions efficient."
+  },
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": null,
+   "points": 0.0,
+   "reason": "No objectives or actions directly tied to strengthening the public health system and no indicators showing results."
+  },
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions on early childhood or primary education; the programme targets older youth."
+  },
+  {
+   "code": "104",
+   "name": "Secondary/technical education",
+   "level": null,
+   "points": 0.0,
+   "reason": "Vocational and prison education products serve specific publics and do not improve the quality of regular secondary, technical or higher education."
+  },
+  {
+   "code": "110",
+   "name": "Social security",
+   "level": null,
+   "points": 0.0,
+   "reason": "Actions concern productive inclusion of inmates and detained youth, not pension coverage or sustainability; better fits the labor area."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": null,
+   "points": 0.0,
+   "reason": "No objectives or actions on integrated urban investment and no indicators showing results."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": null,
+   "points": 0.0,
+   "reason": "Actions concern risk management and response to environmental disasters, not conservation or restoration; better framed under disaster resilience."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Efficient solar-powered public lighting is an instrument for crime prevention, not an energy policy; energy impact is local and ancillary."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "No objectives or actions on regional inequality and no indicators showing results."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Strengthens institutional capacity of security forces, but no indicators clearly show results directly tied to this area."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": null,
+   "points": 0.0,
+   "reason": "Digital security platforms and app planned, but no indicators clearly show results directly tied to this area."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "reason": "No objectives or actions directly tied to strengthening the public health system and no indicators showing results."
+  },
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "reason": "No actions on early childhood or primary education; the programme targets older youth."
+  },
+  {
+   "code": "104",
+   "name": "Secondary/technical education",
+   "reason": "Vocational and prison education products serve specific publics and do not improve the quality of regular secondary, technical or higher education."
+  },
+  {
+   "code": "110",
+   "name": "Social security",
+   "reason": "Actions concern productive inclusion of inmates and detained youth, not pension coverage or sustainability; better fits the labor area."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "reason": "No objectives or actions on integrated urban investment and no indicators showing results."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "reason": "Actions concern risk management and response to environmental disasters, not conservation or restoration; better framed under disaster resilience."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "reason": "Efficient solar-powered public lighting is an instrument for crime prevention, not an energy policy; energy impact is local and ancillary."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "No objectives or actions on regional inequality and no indicators showing results."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "reason": "Strengthens institutional capacity of security forces, but no indicators clearly show results directly tied to this area."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "reason": "Digital security platforms and app planned, but no indicators clearly show results directly tied to this area."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 0.0,
+   "decision": "não aceito",
+   "reason": "Proponent invoked the hunger-and-inequality priority, but the programme's predominant purpose is violence prevention, public security and justice modernization, with no food-security actions."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  7.5,
+  10.0
+ ]
+}

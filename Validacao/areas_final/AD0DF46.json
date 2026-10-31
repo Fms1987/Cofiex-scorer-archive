@@ -1,0 +1,185 @@
+{
+ "id": "AD0DF46",
+ "regime": "R17_2021",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "level": null,
+   "points": 0.133,
+   "reason": "New rail extension replaces diesel bus trips with electric rail, cutting fossil-fuel emissions; the national grid is largely renewable."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "level": null,
+   "points": 0.138,
+   "reason": "Project is a continuation of an existing public-private partnership concession signed with the same private operator."
+  },
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project actions do not apply to this criterion (no score printed, treated as zero)."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "level": null,
+   "points": 0.0,
+   "reason": "Data-mining and BI dashboards are proposed, but their funding is small relative to the project, too little to produce societal impact."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "reason": "Project actions do not apply to this criterion (no score printed, treated as zero)."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "reason": "Project actions do not apply to this criterion."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "reason": "Data-mining and BI dashboards are proposed, but their funding is small relative to the project, too little to produce societal impact."
+  }
+ ],
+ "bonus": [],
+ "areas_total": [
+  0.271,
+  2.0
+ ]
+}

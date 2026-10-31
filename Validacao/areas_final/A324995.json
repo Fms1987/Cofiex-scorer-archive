@@ -1,0 +1,57 @@
+{
+ "id": "A324995",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Objectives, products and indicators aligned and a significant share of resources, but scope limited to one basin with only local residents benefiting directly; moderate impact."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Aligned objectives and indicators, but low share of resources and efficient yet not demonstrably innovative solutions; low impact."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Aligned design with a meaningful resource share, but limited geographic coverage within the municipality; moderate impact."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Aligned design, but very small resource share and limited number of people reached by social-work actions; little relevant impact."
+  }
+ ],
+ "not_accepted": [],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 1.0,
+   "decision": "aceito",
+   "reason": "Proponent declared exclusive alignment; all actions relate to climate and socio-environmental resilience, matching the PPA priority on confronting the climate emergency."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not claim it; the project does not serve border-strip municipalities."
+  }
+ ],
+ "areas_total": [
+  5.5,
+  10.0
+ ]
+}

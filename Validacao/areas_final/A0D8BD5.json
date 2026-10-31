@@ -1,0 +1,89 @@
+{
+ "id": "A0D8BD5",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Health-sector spending-rationalization component with indicators, but focus is internal efficiency, so little impact on public health access (about a quarter of resources)."
+  },
+  {
+   "code": "110",
+   "name": "Social security",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Pension audit system improves financial sustainability but is unrelated to extending coverage to all forms of work; very small resource share."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": "C",
+   "points": 2.0,
+   "reason": "One of the most affected areas: several objectives, a dedicated component with about a third of resources and many indicators; moderate impact."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "E",
+   "points": 0.5,
+   "reason": "System modernization aimed at internal management rather than citizens; small resource share and few digital-transformation indicators; limited impact."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Core pillar: systems and audits to save resources, about 30% of funds and several savings indicators; moderate impact."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": null,
+   "points": 0.0,
+   "reason": "No components, products or indicators related to the area; sub-products added in the resubmission have no funds and were not deemed achievable."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Transparency is a cross-cutting aim, but no specific objectives, products or indicators allow assessing results."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "reason": "No components, products or indicators related to the area; sub-products added in the resubmission have no funds and were not deemed achievable."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "reason": "Transparency is a cross-cutting aim, but no specific objectives, products or indicators allow assessing results."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  5.5,
+  10.0
+ ]
+}

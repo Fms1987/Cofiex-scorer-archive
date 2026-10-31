@@ -1,0 +1,89 @@
+{
+ "id": "A660E98",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Safe drinking-water supply for urban centres in a semi-arid setting, with an indicator; but the scope is mostly dispersed rural communities, so urban impact is small."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Watershed revitalization, green infrastructure and nature-based solutions with a clear indicator; moderate impact given target population and resources."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Hydroclimatic risk knowledge, drought contingency plan and dam safety works, with indicators; significant resources but moderate impact."
+  },
+  {
+   "code": "203",
+   "name": "Family farming",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Agroclimatic risk knowledge, monitoring network, wells, climate-risk zoning and irrigation-scheme studies, with indicators; moderate impact."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": "B",
+   "points": 3.0,
+   "reason": "High adherence: institutional framework, water-management instruments, knowledge base and regulation, with significant resources and measurable indicators; high impact and efficient solutions."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "No objectives, products, indicators or resources aimed directly at regional inequality; effects are indirect through improved water supply."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Institutional strengthening, equipment and training are means to the water-security objectives, not a distinct state-capacity focus."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "No objectives, products, indicators or resources aimed directly at regional inequality; effects are indirect through improved water supply."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "reason": "Institutional strengthening, equipment and training are means to the water-security objectives, not a distinct state-capacity focus."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  6.5,
+  10.0
+ ]
+}

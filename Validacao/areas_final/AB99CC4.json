@@ -1,0 +1,75 @@
+{
+ "id": "AB99CC4",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": null,
+   "points": 0.5,
+   "reason": "Only the digital layer of smart-city products; no mobility, housing or sanitation investment; tangential indicators; resource share small; limited impact."
+  },
+  {
+   "code": "209",
+   "name": "Digital inclusion and connectivity",
+   "level": null,
+   "points": 3.0,
+   "reason": "Core area: general and all specific objectives, all components and ten SMART indicators match; relevant share of resources; high impact, shared among areas; efficient and innovative solutions."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": null,
+   "points": 2.0,
+   "reason": "Several specific objectives and two components directly on government digitalisation; four SMART indicators; relevant but not predominant resource share; moderate impact; efficient solutions."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Programme finances adoption of existing technologies (operational modernisation), not science, technology and innovation; no research indicators."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Capacity building is instrumental to digitalisation; no indicator measures state capacity; share of resources for the area in the strict sense is small."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "reason": "Programme finances adoption of existing technologies (operational modernisation), not science, technology and innovation; no research indicators."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "reason": "Capacity building is instrumental to digitalisation; no indicator measures state capacity; share of resources for the area in the strict sense is small."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state exclusive aim at federal priorities; resources are spread over several objectives rather than a single priority."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not claim regional integration; project does not prioritise frontier-zone municipalities or show cross-border exchange potential."
+  }
+ ],
+ "areas_total": [
+  5.5,
+  10.0
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": "AA81238",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Only one specific objective relates; resilience investments foreseen but resources undefined; indicators and targets exist; impact moderate."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "D",
+   "points": 1.0,
+   "reason": "General and specific objectives directly related; nearly all resources in the main component; indicators lack time frames so not SMART; impact high and solutions efficient."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Institutional strengthening component has high potential impact but a tiny resource share; indicators measure infrastructure conditions, not state capacity, so effectiveness is not demonstrated."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "302",
+   "name": "State capacity",
+   "reason": "Institutional strengthening component has high potential impact but a tiny resource share; indicators measure infrastructure conditions, not state capacity, so effectiveness is not demonstrated."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 1.0,
+   "decision": "aceito",
+   "reason": "Resources are entirely directed to an initiative included in the federal growth acceleration programme, a PPA priority."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  1.5,
+  10.0
+ ]
+}

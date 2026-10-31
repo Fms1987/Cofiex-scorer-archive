@@ -1,0 +1,139 @@
+{
+ "id": "A458A13",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Strong adherence: general objective and most specific objectives align; large resources for integrated drainage, mobility, green and housing actions; high expected impact."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Nature-based solutions and a protected area are relevant, but their share of the investment is limited, so impact is low and adherence restricted."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Detention and containment works plus a flood-area indicator relate directly; impact moderate given relative weight in the project."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Municipal solar generation and LED lighting reduce consumption, but scope is local and a limited share of investment; low impact."
+  },
+  {
+   "code": "210",
+   "name": "Logistics and transport",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Rural bridge and culvert works improve access and logistics, but scope is local and small within the project; low impact."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Municipal management capacity and information-security/integrated operations actions relate directly; impact moderate since they are a minor part of the investments."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Digital services portal, cybersecurity and data-integration actions are relevant but a limited share of investments; low impact."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": null,
+   "points": 0.0,
+   "reason": "Parks serve recreation but aim at green areas and urban quality, not structured sport or physical-activity promotion; counted under other areas."
+  },
+  {
+   "code": "203",
+   "name": "Family farming",
+   "level": null,
+   "points": 0.0,
+   "reason": "No productive-sector actions; rural access benefits to production are indirect."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": null,
+   "points": 0.0,
+   "reason": "No components or indicators aimed at productivity; economic effects are indirect externalities."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "Interventions focus on risk reduction and ecosystem recovery, not water availability or multiple uses; counted under other areas."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Benefits are local socio-environmental vulnerability reduction, not reduction of regional inequalities."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "113",
+   "name": "Sport",
+   "reason": "Parks serve recreation but aim at green areas and urban quality, not structured sport or physical-activity promotion; counted under other areas."
+  },
+  {
+   "code": "203",
+   "name": "Family farming",
+   "reason": "No productive-sector actions; rural access benefits to production are indirect."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "reason": "No components or indicators aimed at productivity; economic effects are indirect externalities."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "reason": "Interventions focus on risk reduction and ecosystem recovery, not water availability or multiple uses; counted under other areas."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Benefits are local socio-environmental vulnerability reduction, not reduction of regional inequalities."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the project is exclusively aimed at federal PPA priorities; no points awarded."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not indicate regional integration; no points awarded."
+  }
+ ],
+ "areas_total": [
+  7.0,
+  10.0
+ ]
+}

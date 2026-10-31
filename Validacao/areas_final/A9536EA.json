@@ -1,0 +1,149 @@
+{
+ "id": "A9536EA",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": "D",
+   "points": 1.0,
+   "reason": "New emergency unit and polyclinic widen specialties and attendance; objective relevant, but tiny resource share makes impact moderate and adherence limited."
+  },
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Revitalization of an education centre to cut the early-childhood vacancy deficit; small resource share and limited beneficiaries give low impact and restricted adherence."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "General objective directly aligned; most resources (about 70%) and most products go to integrated mobility, drainage, waste, urban requalification and parks; impact judged high."
+  },
+  {
+   "code": "112",
+   "name": "Public safety",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Integrated operations centre enables real-time monitoring and coordination among agencies; very small resource share gives moderate impact and limited adherence."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Specific objective on environmental preservation, with park revitalization and waste collection points, but only indirect relation, low impact and restricted adherence."
+  },
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "level": null,
+   "points": 0.0,
+   "reason": "No components, products, indicators or impacts directly tied to the area; central-area revitalization was credited under sustainable cities."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": null,
+   "points": 0.0,
+   "reason": "Has a related objective and product, but no indicators or targets on sports access; the sports indicator was credited under early childhood and education."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": null,
+   "points": 0.0,
+   "reason": "River-bank containment and drainage works fit the area, but no indicators or targets on risk prevention; works were credited under sustainable cities."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "Flood-control and bank-stabilization works are urban drainage, not multiple-use water security; credited under sustainable cities."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "level": null,
+   "points": 0.0,
+   "reason": "Park and central-area works may affect tourism only indirectly and are not aimed at tourism service quality; credited under sustainable cities."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "No evidence the mobility axis targets territorial equity or vulnerable regions; its mobility benefit was credited under sustainable cities."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": null,
+   "points": 0.0,
+   "reason": "Has an aligned objective and a product modernizing municipal IT and data protection compliance, but no indicators or targets on digital transformation."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "reason": "No components, products, indicators or impacts directly tied to the area; central-area revitalization was credited under sustainable cities."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "reason": "Has a related objective and product, but no indicators or targets on sports access; the sports indicator was credited under early childhood and education."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "reason": "River-bank containment and drainage works fit the area, but no indicators or targets on risk prevention; works were credited under sustainable cities."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "reason": "Flood-control and bank-stabilization works are urban drainage, not multiple-use water security; credited under sustainable cities."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "reason": "Park and central-area works may affect tourism only indirectly and are not aimed at tourism service quality; credited under sustainable cities."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "No evidence the mobility axis targets territorial equity or vulnerable regions; its mobility benefit was credited under sustainable cities."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "reason": "Has an aligned objective and a product modernizing municipal IT and data protection compliance, but no indicators or targets on digital transformation."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  6.0,
+  10.0
+ ]
+}

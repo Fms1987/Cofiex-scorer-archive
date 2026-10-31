@@ -1,0 +1,70 @@
+{
+ "id": "AD6929B",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Flood-control drainage ties to the sanitation aspect of the area; relevant indicators and viable targets, but limited direct beneficiaries and narrow coverage of the area give low impact; solution not innovative."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Specific objective on restoring natural microbasins with a solid-waste indicator and viable target, but limited magnitude yields restricted impact against the breadth of the area."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "C",
+   "points": 2.0,
+   "reason": "General objective, component and indicators directly aligned; all resources go to flood-control works; direct beneficiaries limited but indirect benefits broad, moderate impact."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Relevant to urban stormwater management; solid-waste indicator is of minor relevance, and no evidence of broader efficient and rational water use."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": null,
+   "points": 0.0,
+   "reason": "General objective unrelated to sport; no specific objectives, indicators or targets; small budget share and sports equipment at one site only, without engagement strategy."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "113",
+   "name": "Sport",
+   "reason": "General objective unrelated to sport; no specific objectives, indicators or targets; small budget share and sports equipment at one site only, without engagement strategy."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 1.0,
+   "decision": "aceito",
+   "reason": "Proponent declared alignment with the PPA priority on confronting the climate emergency; resources fully directed to flood-related climate adaptation."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not declare regional integration; no score given."
+  }
+ ],
+ "areas_total": [
+  4.0,
+  10.0
+ ]
+}

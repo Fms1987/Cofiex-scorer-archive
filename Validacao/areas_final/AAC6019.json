@@ -1,0 +1,160 @@
+{
+ "id": "AAC6019",
+ "regime": "R17_2021",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Revitalisation of vulnerable degraded areas, flood reduction through nature-based drainage and institutional strengthening for risk management."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Sanitation is an integral action, with sewer collection networks across the city."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "level": null,
+   "points": 0.133,
+   "reason": "Integrated actions on risk management, drainage, water resilience and vulnerability reduction address water-security deficits."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.133,
+   "reason": "Tender clauses require a minimum share of local labour and social work provides job-oriented training."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.133,
+   "reason": "Territorial development components (sanitation, paving, housing, rent support, social work) directly benefit low-income residents of flood areas."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "level": null,
+   "points": 0.133,
+   "reason": "Resettlement prioritises low-income women, female-headed households and women under protective measures; women's consent required and domestic-violence safeguards."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Disaster and climate emergency control centre, staff training, public alert application and AI-assisted geomonitoring."
+  },
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only minor efficiency elements (pumping station, sustainable buildings); no direct energy efficiency or renewable actions."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "level": null,
+   "points": 0.0,
+   "reason": "Ecological corridors from watercourse requalification are mentioned, but no direct biodiversity or forest management actions."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "level": null,
+   "points": 0.0,
+   "reason": "No direct action to improve the business environment."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "level": null,
+   "points": 0.0,
+   "reason": "Private-sector participation, microcredit and partnerships are planned intentions, not accepted as direct benefits for small firms."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "level": null,
+   "points": 0.0,
+   "reason": "No direct action on inclusion of minorities among beneficiaries."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only indirect health and quality-of-life effects; no direct education or health actions."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "level": null,
+   "points": 0.0,
+   "reason": "Program does not directly address technological development or modernisation."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No financing arrangements such as PPPs were directly verified."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "reason": "Only minor efficiency elements (pumping station, sustainable buildings); no direct energy efficiency or renewable actions."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "reason": "Ecological corridors from watercourse requalification are mentioned, but no direct biodiversity or forest management actions."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "reason": "No direct action to improve the business environment."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "reason": "Private-sector participation, microcredit and partnerships are planned intentions, not accepted as direct benefits for small firms."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "reason": "No direct action on inclusion of minorities among beneficiaries."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "reason": "Only indirect health and quality-of-life effects; no direct education or health actions."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "reason": "Program does not directly address technological development or modernisation."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "reason": "No financing arrangements such as PPPs were directly verified."
+  }
+ ],
+ "bonus": [],
+ "areas_total": [
+  0.931,
+  2.0
+ ]
+}

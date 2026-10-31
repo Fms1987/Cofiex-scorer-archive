@@ -1,0 +1,78 @@
+{
+ "id": "A9136D4",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "104",
+   "name": "Secondary/technical education",
+   "level": "E",
+   "points": 0.5,
+   "reason": "General objective only minimally related; education finance system is a very small share of resources and one indicator covers just part of the objective; low impact."
+  },
+  {
+   "code": "110",
+   "name": "Social security",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Minimal link via a pension-management system; tiny share of resources, so potential impact is low and efficiency versus alternatives is not shown."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "E",
+   "points": 0.5,
+   "reason": "General objective minimally related; public-procurement modernization has a relevant resource share but potential impact is low given the number of areas and products."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Link to most indicators not clearly shown; resources only apportioned across areas (relevant share); impact low and no efficiency evidence versus alternatives."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": "C",
+   "points": 2.0,
+   "reason": "General objective directly related, SMART indicators and feasible targets; relevant apportioned resource share; moderate but not high impact; innovative versus usual public management."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Objective relevant, indicators clear and targets feasible; relevant apportioned resource share; impact judged high, with digitalization shown as innovative and efficient."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Objective relevant with many SMART indicators and feasible targets; relevant apportioned share of resources; impact moderate, not high, given resources and target public."
+  }
+ ],
+ "not_accepted": [],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  8.0,
+  10.0
+ ]
+}

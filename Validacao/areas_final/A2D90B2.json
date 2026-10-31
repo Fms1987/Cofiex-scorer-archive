@@ -1,0 +1,89 @@
+{
+ "id": "A2D90B2",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Health-sector management efficiency platform and indicators, but about a quarter of resources and products aim at cost control, so little impact on expanding access to quality public health."
+  },
+  {
+   "code": "110",
+   "name": "Social security",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Pension audit and planning system targets irregular payments and financial balance, with small funding; no link to extending coverage to all forms of work."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Among the most affected areas: many objectives on people, planning, budget and procurement systems, about a third of resources and seven indicators; moderate potential impact."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Several system modernisations, but about 10% of resources, few digital-transformation indicators and focus on internal management rather than citizens; very limited impact."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Also among the most affected: systems, audits and process improvements with savings potential, about 30% of resources and several savings indicators; moderate impact."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": null,
+   "points": 0.0,
+   "reason": "No components, products or indicators related to the area; two sub-products added in the new version have no funding and were deemed unrealisable."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Transparency is a cross-cutting aim, but no components, objectives, products or indicators allow assessing results on the topic."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "reason": "No components, products or indicators related to the area; two sub-products added in the new version have no funding and were deemed unrealisable."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "reason": "Transparency is a cross-cutting aim, but no components, objectives, products or indicators allow assessing results on the topic."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  5.5,
+  10.0
+ ]
+}

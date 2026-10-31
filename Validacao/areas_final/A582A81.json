@@ -1,0 +1,165 @@
+{
+ "id": "A582A81",
+ "regime": "R17_2021",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Environmental actions such as real-time monitoring of pollutant emissions."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "level": null,
+   "points": 0.133,
+   "reason": "Innovation center supporting the creation of startups."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "level": null,
+   "points": 0.133,
+   "reason": "Points printed although the NT says there is no specific benefit and any benefit is only an externality."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Digitalization of municipal services improves both citizen services and their management."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "level": null,
+   "points": 0.133,
+   "reason": "Specific component providing wi-fi across the municipal school network."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "level": null,
+   "points": 0.133,
+   "reason": "Programme centers on technological innovation and modernization across urban development areas."
+  },
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific energy-efficiency actions."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only an integrated solid-waste management solution, not credited."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific actions; the NT justification repeats the energy-efficiency text."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "level": null,
+   "points": 0.0,
+   "reason": "No initiatives explicitly directed at biodiversity or forest management."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "No initiatives explicitly aimed at jobs and income for vulnerable groups."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "No initiatives explicitly providing or improving social infrastructure."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Digital inclusion may benefit minorities but only as a positive externality."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "level": null,
+   "points": 0.0,
+   "reason": "No initiatives explicitly aimed at youth, gender or race policies."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No financing arrangements presented."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "reason": "No specific energy-efficiency actions."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "reason": "Only an integrated solid-waste management solution, not credited."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "reason": "No specific actions; the NT justification repeats the energy-efficiency text."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "reason": "No initiatives explicitly directed at biodiversity or forest management."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "reason": "No initiatives explicitly aimed at jobs and income for vulnerable groups."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "reason": "No initiatives explicitly providing or improving social infrastructure."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "reason": "Digital inclusion may benefit minorities but only as a positive externality."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "reason": "No initiatives explicitly aimed at youth, gender or race policies."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "reason": "No financing arrangements presented."
+  }
+ ],
+ "bonus": [],
+ "areas_total": [
+  0.665,
+  2.0
+ ]
+}

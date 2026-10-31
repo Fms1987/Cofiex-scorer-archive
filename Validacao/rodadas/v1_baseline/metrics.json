@@ -1,0 +1,37 @@
+{
+  "label": "v1 (teste cego n=89, recorte do banco)",
+  "n": 40,
+  "n_banco": 40,
+  "mae_nota_geral": 1.348,
+  "vies_nota_geral": 0.463,
+  "mediana_abs_nota_geral": 1.127,
+  "mae_ae": 1.373,
+  "vies_ae": 0.482,
+  "n_ae": 11,
+  "mae_capag": 0.188,
+  "mae_divida": 0.166,
+  "mae_idh": 0.255,
+  "vies_idh": -0.253,
+  "abs_vies_idh": 0.253,
+  "cobertura_faixa": 0.7,
+  "largura_mediana_faixa": 3.1,
+  "acerto_nivel_area_principal": null,
+  "acerto_nivel_area_principal_1_degrau": null,
+  "n_area_principal": 0,
+  "acerto_nivel_todas_areas": null,
+  "n_areas": 0,
+  "faixa_empirica": {
+    "nota_geral_p70": 1.8000000000000007,
+    "nota_geral_p80": 2.112,
+    "ae_p70": 2.0,
+    "ae_p80": 2.2
+  },
+  "mae_por_estrato": {
+    "Federal|Federal": 2.325,
+    "Geral|Estadual": 0.744,
+    "Geral|Municipal": 1.056,
+    "Subnacional-especifico|Estadual": 1.699,
+    "Subnacional-especifico|Municipal": 1.61
+  },
+  "matriz_confusao": null
+}

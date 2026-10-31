@@ -1,0 +1,70 @@
+{
+ "id": "A37DA6E",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Urban flood-control objective tied to the sanitation/drainage aspect; indicators not SMART but show goal delivery; benefited population small relative to the city, so low strategic impact despite very large resource share."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Relevant to natural-area conservation via a solid-waste diversion indicator with viable target, but limited impact against the area's breadth and no clear evidence of solution effectiveness."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "C",
+   "points": 2.0,
+   "reason": "General objective directly aligned; flood-area and beneficiary indicators with viable targets; very large resource share; directly protected group small but indirect beneficiaries and efficiency give moderate impact."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Drainage component linked to water quality, but the related indicator target is modest, impact isolated and effectiveness for broader water-security goals not demonstrated."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only incidental leisure/sport equipment around the reservoirs; no objective, indicator or target on sport access, and a minimal budget share."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "113",
+   "name": "Sport",
+   "reason": "Only incidental leisure/sport equipment around the reservoirs; no objective, indicator or target on sport access, and a minimal budget share."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 1.0,
+   "decision": "aceito",
+   "reason": "Proponent declared alignment with the climate-emergency priority; resources are entirely directed to climate adaptation measures against floods and droughts."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not indicate a regional-integration purpose; no score."
+  }
+ ],
+ "areas_total": [
+  4.0,
+  10.0
+ ]
+}

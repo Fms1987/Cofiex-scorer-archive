@@ -1,0 +1,280 @@
+{
+  "data": "30/10/2026",
+  "versao_skill": "cofiex-scorer V.1 BETA (atualizada em 27/10/2026), julgamento cego, reunião-alvo 187ª (18/06/2026)",
+  "cabecalho": {
+    "proposta": "Programa de Financiamento às Transições Tecnológicas Energética e Digital de Minas Gerais",
+    "proponente": "Banco de Desenvolvimento de Minas Gerais (instituição financeira estatal estadual não dependente)",
+    "campos": [
+      ["Credor", "BIRD (Banco Internacional para Reconstrução e Desenvolvimento)"],
+      ["Valor total", "US$ 100.000.000,00"],
+      ["Valor do empréstimo", "US$ 100.000.000,00"],
+      ["Contrapartida", "US$ 0,00 (dispensa pedida com base no Art. 34 da Resolução Normativa 1/2024); exigência de 20% de contrapartida dos submutuários privados"],
+      ["Sublimite-alvo", "Subnacional – Geral (sublimite não declarado na carta; inferido)"],
+      ["Tipo de ente", "Estatal subnacional não dependente, instituição financeira; contragarantia do Estado de Minas Gerais"],
+      ["Modalidade", "Linha de crédito por banco de desenvolvimento (repasse a municípios e empresas)"],
+      ["Componentes", "Transição energética US$ 38 milhões; transição digital US$ 60 milhões; assistência técnica US$ 2 milhões"],
+      ["Condições", "Prazo 240 meses, carência 60, amortização 180; taxa SOFR + 1,84% (margem variável); comissão de compromisso 0,25%; comissão de avaliação 0,25%"],
+      ["Situação de reenvio", "Reenvio declarado na própria carta (versão 6, revisada após o Grupo Técnico de 24/04/2026); desfecho anterior não informado pelo usuário"]
+    ]
+  },
+  "sintese": "A carta passa na admissibilidade e os Dados Objetivos são fortes pelo enquadramento como instituição financeira, mas a Nota de Área Estratégica fica moderada porque o orçamento de cada componente é espalhado por 9 a 10 objetivos do PPA, sem custo atribuído por área. Com a Nota Geral esperada em torno de 10,4, o pleito fica abaixo da linha de corte recente do sublimite Geral, que tem limite suficiente na 187ª mas não aprovou nenhum pleito na 185ª.",
+  "ente_federal": false,
+  "teto_area_estrategica": 10.0,
+  "dados_objetivos": [
+    {"item": "Nota do Índice de Desenvolvimento Humano (até 2,00)", "min": 0.0, "esp": 1.413, "max": 1.453},
+    {"item": "Capacidade de Pagamento (até 2,00)", "min": 0.0, "esp": 2.0, "max": 2.0},
+    {"item": "Tendência da Dívida (até 1,00)", "min": 0.5, "esp": 1.0, "max": 1.0}
+  ],
+  "area_estrategica": {
+    "areas": [
+      {"codigo": "205", "objetivo": "Produtividade e competitividade", "pleiteado_como": "Declarada", "nivel_min": "E", "nivel_esp": "D", "nivel_max": "D", "justificativa_curta": "Objetivos específicos 7 e 14 e indicadores de produtividade próprios; 10,2% do orçamento por repartição linear; meta de variação de 2% é modesta."},
+      {"codigo": "208", "objetivo": "Segurança energética, fontes limpas e eficiência", "pleiteado_como": "Declarada", "nivel_min": "E", "nivel_esp": "D", "nivel_max": "D", "justificativa_curta": "Produto de energia renovável e eficiência com valor, objetivo específico 5 e indicador de cofinanciamento; só 4,2% pela repartição linear."},
+      {"codigo": "209", "objetivo": "Transformação digital da economia e inclusão digital", "pleiteado_como": "Declarada", "nivel_min": "E", "nivel_esp": "D", "nivel_max": "D", "justificativa_curta": "Objetivos 8 e 11 de conectividade, indicador de unidades públicas conectadas; 6,0% do orçamento."},
+      {"codigo": "303", "objetivo": "Transformação digital do governo", "pleiteado_como": "Declarada", "nivel_min": "E", "nivel_esp": "D", "nivel_max": "D", "justificativa_curta": "Objetivos 9 e 10, indicadores de municípios com serviços digitalizados e interoperáveis; objetivo do grupo que costuma pontuar; 6,0%."},
+      {"codigo": "111", "objetivo": "Cidades sustentáveis", "pleiteado_como": "Declarada", "nivel_min": "0", "nivel_esp": "E", "nivel_max": "D", "justificativa_curta": "Mobilidade elétrica e cidades inteligentes no texto dos produtos; nenhum objetivo específico urbano; indicadores atribuídos não medem a área."},
+      {"codigo": "102", "objetivo": "Saúde pública (Sistema Único de Saúde)", "pleiteado_como": "Declarada", "nivel_min": "0", "nivel_esp": "E", "nivel_max": "D", "justificativa_curta": "Saúde digital citada no componente 2; o único indicador ligado é o de conectividade, que já sustenta a área 209."},
+      {"codigo": "104", "objetivo": "Ensino médio, técnico e superior", "pleiteado_como": "Declarada", "nivel_min": "0", "nivel_esp": "E", "nivel_max": "D", "justificativa_curta": "Objetivos 11 e 12 e indicadores próprios, mas metas pequenas (3 instituições, 30 escolas): impacto baixo."},
+      {"codigo": "207", "objetivo": "Trabalho digno e inserção produtiva", "pleiteado_como": "Declarada", "nivel_min": "0", "nivel_esp": "E", "nivel_max": "D", "justificativa_curta": "Objetivo específico 4 de empregos, mas o indicador de empregos foi ligado a 204 e 305 e a fórmula mistura razão e número absoluto."},
+      {"codigo": "204", "objetivo": "Neoindustrialização e descarbonização", "pleiteado_como": "Declarada", "nivel_min": "0", "nivel_esp": "0", "nivel_max": "D", "justificativa_curta": "Hidrogênio e descarbonização industrial no produto 1, mas o indicador ligado é o de empregos; o de emissões evitadas foi ligado a outras áreas."},
+      {"codigo": "206", "objetivo": "Ciência, tecnologia e inovação", "pleiteado_como": "Declarada sem sustentação", "nivel_min": "0", "nivel_esp": "0", "nivel_max": "E", "justificativa_curta": "Indicadores medem contratos de consultoria do próprio banco (execução); objetivo do grupo que quase sempre fica em 0."},
+      {"codigo": "214", "objetivo": "Redução das desigualdades regionais", "pleiteado_como": "Declarada sem sustentação", "nivel_min": "0", "nivel_esp": "0", "nivel_max": "E", "justificativa_curta": "Compromisso de só 5% dos recursos para municípios de baixo Índice de Desenvolvimento Humano; objetivo rejeitado em 88% das avaliações."},
+      {"codigo": "302", "objetivo": "Capacidades estatais", "pleiteado_como": "Declarada sem sustentação", "nivel_min": "0", "nivel_esp": "0", "nivel_max": "E", "justificativa_curta": "Sem produto ou indicador que não esteja já contado em 303 ou 209; sem dupla contagem."},
+      {"codigo": "202", "objetivo": "Desastres e adaptação climática", "pleiteado_como": "Declarada sem sustentação", "nivel_min": "0", "nivel_esp": "0", "nivel_max": "E", "justificativa_curta": "A carta financia mitigação, não adaptação; indicador de emissões evitadas não mede risco de desastre."},
+      {"codigo": "215", "objetivo": "Setor mineral", "pleiteado_como": "Declarada sem sustentação", "nivel_min": "0", "nivel_esp": "0", "nivel_max": "E", "justificativa_curta": "Minerais críticos só na seção de áreas; o indicador ligado mede escolas conectadas."},
+      {"codigo": "107", "objetivo": "Proteção e autonomia das mulheres", "pleiteado_como": "Declarada sem sustentação", "nivel_min": "0", "nivel_esp": "0", "nivel_max": "E", "justificativa_curta": "Empresas lideradas por mulheres citadas sem meta, cota ou indicador desagregado."},
+      {"codigo": "305", "objetivo": "Cooperação internacional e desenvolvimento regional integrado", "pleiteado_como": "Declarada sem sustentação", "nivel_min": "0", "nivel_esp": "0", "nivel_max": "0", "justificativa_curta": "Objetivo sempre rejeitado na base; recursos não identificados."}
+    ],
+    "bonus": [
+      {"item": "Prioridade do PPA (Art. 15 §3º)", "situacao": "pedido; alinhamento parcial", "min": 0, "esp": 0, "max": 1.0},
+      {"item": "Integração regional (Art. 15 §4º)", "situacao": "pedido; sem enquadramento documental", "min": 0, "esp": 0, "max": 1.0}
+    ]
+  },
+  "base_calibracao": "Base de calibração: n=6 perfis comparáveis (regime da Resolução Normativa 1/2024 com marcador de repasse ou intermediação); relaxado: setor, subtipo, credor e faixa de valor; dados fracos: subtipos misturados (federal e subnacional) e cartão de fundo com só 3 avaliações no regime atual; ancoragem: empurrada em direção à mediana comparável de 4,75 (dispersão 2,0 a 9,0), de 6,5 pela rubrica para 6,0.",
+  "faixa_empirica": {"min": 8.31, "max": 12.51},
+  "resumo_ttl": {
+    "veredito": "Admissível e com Dados Objetivos fortes, mas abaixo da linha de corte recente do sublimite Geral: a dispersão do orçamento por 16 objetivos do PPA segura toda área no nível D ou abaixo.",
+    "frase_faixa": "Faixa empírica de 80% da Nota Geral: 8,3 a 12,5. A Nota Geral cai cerca de 1,4 ponto se a Secretaria não aplicar o Índice de Desenvolvimento Humano do Estado a uma instituição financeira, e sobe até 2,0 pontos se os dois bônus pedidos forem concedidos.",
+    "sublimite_recomendado": "Subnacional – Geral cabe no limite da 187ª, mas a nota fica abaixo da linha; a rota mais promissora é separar o componente de transição energética numa operação de até US$ 40 milhões para o Ambiental e Climático e reconcentrar o orçamento da parte digital.",
+    "lacunas": [
+      "Orçamento repartido linearmente por 16 objetivos do PPA: nenhuma área passa de 10,2% e todas ficam limitadas ao nível D.",
+      "Indicadores de contagem com linha de base zero em 13 de 18 e vínculos de área trocados (por exemplo, escolas conectadas ligadas à mineração).",
+      "Sete áreas sem sustentação (305, 214, 107, 202, 215, 302, 206) que tendem a zero e diluem as demais na repartição."
+    ],
+    "acoes": [
+      {"acao": "Atribuir no formulário o custo de cada componente por área, concentrando pelo menos 15% em 208, 209 e 303 (nível C possível em cada uma).", "ganho": "+1,5 a +2,5 na Nota de Área Estratégica"},
+      {"acao": "Retirar as sete áreas sem sustentação e realocar os recursos para as áreas que já pontuam.", "ganho": "+0,5 a +1,0 na Nota de Área Estratégica (por concentração)"},
+      {"acao": "Trocar indicadores de contagem por indicadores de resultado com linha de base medida na carteira atual do banco e ligar cada indicador a uma só área.", "ganho": "+0,5 a +1,0 na Nota de Área Estratégica"}
+    ],
+    "en": {
+      "veredito": "Admissible, with strong objective data, but below the recent cut-off line of the General sub-ceiling: spreading the budget across 16 multi-year plan objectives caps every area at level D or lower.",
+      "frase_faixa": "80% empirical range of the Overall Score: 8.3 to 12.5. The Overall Score drops about 1.4 points if the Secretariat does not apply the State Human Development Index to a financial institution, and rises up to 2.0 points if both requested bonuses are granted.",
+      "sublimite_recomendado": "The General sub-ceiling has room at the 187th meeting, but the score is below the line; the most promising route is to carve the energy transition component into an operation of up to US$ 40 million for the Environmental and Climate sub-ceiling and re-concentrate the digital budget.",
+      "lacunas": [
+        "Budget split evenly across 16 multi-year plan objectives: no area exceeds 10.2%, so all are capped at level D.",
+        "Count indicators with zero baseline in 13 of 18, and mismatched area links (for example, connected schools linked to mining).",
+        "Seven unsupported areas (305, 214, 107, 202, 215, 302, 206) likely to score zero and dilute the others."
+      ],
+      "acoes": [
+        {"acao": "Assign each component's cost by area in the form, concentrating at least 15% in objectives 208, 209 and 303 (level C becomes possible in each).", "ganho": "+1.5 to +2.5 Strategic Area Score"},
+        {"acao": "Drop the seven unsupported areas and reallocate their resources to the areas that already score.", "ganho": "+0.5 to +1.0 Strategic Area Score (through concentration)"},
+        {"acao": "Replace count indicators with outcome indicators baselined on the bank's current portfolio, each linked to a single area.", "ganho": "+0.5 to +1.0 Strategic Area Score"}
+      ]
+    }
+  },
+  "sugestoes": [
+    {"sugestao": "Confirmar o enquadramento como instituição financeira (índice de Basileia atualizado, com data e fonte do Banco Central)", "item_afetado": "Capacidade de Pagamento e Tendência da Dívida", "prioridade": "P0", "ganho_estimado": "protege até 1,5 ponto"},
+    {"sugestao": "Demonstrar a situação do Estado contragarantidor nos contratos com a União e no regime fiscal", "item_afetado": "Art. 28, I, g", "prioridade": "P0", "ganho_estimado": "evita eliminação"},
+    {"sugestao": "Tabela de custo por área com alocação explícita de cada componente", "item_afetado": "Áreas 208, 209, 303", "prioridade": "P1", "ganho_estimado": "+1,5 a +2,5"},
+    {"sugestao": "Retirar áreas sem sustentação", "item_afetado": "Áreas 305, 214, 107, 202, 215, 302, 206", "prioridade": "P1", "ganho_estimado": "+0,5 a +1,0"},
+    {"sugestao": "Indicadores de resultado com linha de base medida e um vínculo por área", "item_afetado": "Todas as áreas pontuadas", "prioridade": "P1", "ganho_estimado": "+0,5 a +1,0"},
+    {"sugestao": "Cota mínima de recursos para a área da Superintendência do Desenvolvimento do Nordeste com indicador próprio", "item_afetado": "Bônus de integração regional e área 214", "prioridade": "P1", "ganho_estimado": "+0,5 a +1,0"},
+    {"sugestao": "Carteira-piloto com pelo menos 3 subprojetos por componente e critérios de elegibilidade", "item_afetado": "Perguntas 12 e 20 do Grupo Técnico", "prioridade": "P2", "ganho_estimado": "evita pergunta"},
+    {"sugestao": "Sistema de gestão ambiental e social do intermediário e mecanismo de reclamação", "item_afetado": "Riscos e Padrão Ambiental e Social 9", "prioridade": "P2", "ganho_estimado": "evita pergunta"},
+    {"sugestao": "Tabela comparativa de condições financeiras com fonte nacional e dois credores externos", "item_afetado": "Justificativa do credor", "prioridade": "P3", "ganho_estimado": "evita pergunta"}
+  ],
+  "carta_cliente": {
+    "introducao": "Seguem comentários à versão 6 da carta-consulta do Programa de Financiamento às Transições Tecnológicas Energética e Digital de Minas Gerais, organizados pelas seções do formulário do Portal de Financiamento Externo. Cada item indica o problema observado e uma redação sugerida para a próxima versão.",
+    "itens": [
+      {"secao_anexo": "I. Projeto – Componentes e V. Financiamento", "problema": "Os componentes 1 e 2 não atribuem custo às áreas estratégicas que declaram. Sem essa atribuição, o valor de cada componente é dividido em partes iguais por 9 e 10 áreas, e nenhuma área recebe mais de 10% do total.", "redacao_sugerida": "Incluir, para cada componente, uma tabela de destinação indicativa: 'Do componente 2 (US$ 60 milhões), US$ [x] milhões destinam-se à conectividade de unidades públicas (área 209), US$ [y] milhões à digitalização de serviços municipais (área 303) e US$ [z] milhões à saúde digital (área 102), conforme a carteira indicativa do Anexo [n]'."},
+      {"secao_anexo": "II. Áreas Estratégicas", "problema": "Foram declarados 16 objetivos do PPA. Sete deles (305, 214, 107, 202, 215, 302 e 206) não têm objetivo específico, produto, indicador e custo próprios, ou têm indicador que mede outra coisa.", "redacao_sugerida": "Manter apenas os objetivos com produto, indicador de resultado e custo próprios, por exemplo: '208 – US$ [x] milhões em geração renovável e eficiência energética; indicador: energia economizada ou gerada (megawatt-hora por ano), linha de base [valor] em [ano], meta [valor] no ano 5'."},
+      {"secao_anexo": "I. Projeto – Indicadores", "problema": "Treze dos dezoito indicadores têm linha de base zero e medem contagens (projetos, contratos, municípios). Há unidades trocadas: o indicador de unidades conectadas diz medir 'percentual de projetos' e o de escolas diz medir 'municípios'. O indicador de empregos define razão na fórmula e número absoluto na unidade.", "redacao_sugerida": "Para cada indicador: 'Fórmula: [numerador] / [denominador] × 100; unidade: [unidade única]; linha de base: [valor medido na carteira atual de linhas verdes e de inovação], [ano]; meta: [valor] no ano 5; fonte: [sistema do banco ou base oficial]; área do PPA: [uma só]'."},
+      {"secao_anexo": "I. Projeto – Objetivos", "problema": "O compromisso com municípios de menor Índice de Desenvolvimento Humano é de 5% dos recursos de cada componente, considerado reduzido. O argumento de alavancagem de 1 para 5 não se aplica ao indicador, que mede apenas os recursos do empréstimo.", "redacao_sugerida": "'Pelo menos [30]% dos recursos de cada componente serão destinados a municípios da área de atuação da Superintendência do Desenvolvimento do Nordeste ou com Índice de Desenvolvimento Humano Municipal abaixo da média nacional, verificados por relatório semestral de desembolsos por município.'"},
+      {"secao_anexo": "I. Projeto – Beneficiários e III. Gestão", "problema": "Os critérios de elegibilidade dos subprojetos são genéricos e só dois subprojetos de mobilidade elétrica aparecem descritos, apenas na seção de áreas estratégicas.", "redacao_sugerida": "Incluir uma carteira indicativa com pelo menos três subprojetos por componente (setor, município, valor, indicador esperado) e os critérios de elegibilidade e de seleção de cada linha de crédito."},
+      {"secao_anexo": "IV. Riscos", "problema": "Todos os sete riscos estão classificados como de impacto e probabilidade baixos. Não há risco de demanda dos municípios (limite de endividamento), de segurança cibernética e proteção de dados nos subprojetos digitais, nem de comunidades tradicionais na cadeia de minerais críticos. A matriz não indica responsável nem prazo.", "redacao_sugerida": "Reapresentar a matriz com probabilidade, impacto, medida de mitigação, área responsável e prazo para cada risco, acrescentando: demanda e capacidade de endividamento dos municípios; segurança cibernética e Lei Geral de Proteção de Dados; povos e comunidades tradicionais em subprojetos de mineração."},
+      {"secao_anexo": "IV. Riscos – socioambiental", "problema": "A carta descreve a política socioambiental do banco, mas não um sistema de gestão ambiental e social do intermediário aplicado aos subprojetos nem um mecanismo de reclamação.", "redacao_sugerida": "'O banco adotará um sistema de gestão ambiental e social para a carteira do programa, com triagem por categoria de risco, lista de exclusão, monitoramento e relatório anual ao credor, além de mecanismo de reclamação acessível aos beneficiários dos subprojetos.'"},
+      {"secao_anexo": "V. Financiamento", "problema": "O comparativo com outros credores está só em texto e não inclui a fonte nacional. A carta menciona demonstrações financeiras 'de 31 de dezembro de 2026', data posterior à própria carta.", "redacao_sugerida": "Incluir tabela com moeda, prazo, carência, taxa indicativa, comissões e custo efetivo para o BIRD, dois outros credores externos e uma fonte nacional de longo prazo; corrigir a data das demonstrações financeiras para 31/12/2025."},
+      {"secao_anexo": "III. Gestão – Operacionalização e Manutenção", "problema": "Não há estimativa de custo de operação dos produtos digitais financiados nem do custo do próprio banco para gerir as linhas após o desembolso.", "redacao_sugerida": "Incluir tabela de cinco anos com o custo de gestão das linhas e, para os subprojetos digitais, a exigência de que o município demonstre a fonte do custeio anual (licenças, hospedagem, manutenção) como condição de elegibilidade."}
+    ],
+    "fechamento": "Os ajustes mais relevantes são a atribuição de custo por área, a redução do número de áreas declaradas e a revisão dos indicadores. Ficamos à disposição para revisar a próxima versão antes do envio."
+  },
+  "secoes": [
+    {"titulo": "1. Cabeçalho", "blocos": [
+      {"tipo": "p", "texto": "Proposta: Programa de Financiamento às Transições Tecnológicas Energética e Digital de Minas Gerais. Proponente: Banco de Desenvolvimento de Minas Gerais. Credor: BIRD. Valor da operação: US$ 100 milhões, sem contrapartida do proponente. Carta-consulta versão 6, de 08/05/2026, preparada para a 187ª reunião (18/06/2026)."},
+      {"tipo": "bullets", "itens": [
+        "O que esta simulação faz: reproduz a análise técnica (Art. 9 a 23), o filtro eliminatório (Art. 28), a pontuação objetiva (Art. 10, Anexos II e III), o sublimite (Art. 25), as perguntas do Grupo Técnico e um parecer com sugestões seção a seção.",
+        "Checagem regulatória em tempo real (FASE 0): nenhuma resolução normativa nova publicada foi encontrada além da base ativa; os resultados indicam uma proposta de alteração da Resolução Normativa 1/2024 em pauta na 186ª reunião, sem texto final localizado. Base aplicada: Resolução Normativa 1/2024 consolidada, com as Resoluções 32/2025, 142/2026, 150/2026 e 151/2026.",
+        "Modalidade lida no texto: linha de crédito de banco de desenvolvimento, com repasse a municípios e a micro, pequenas e médias empresas; subprojetos ainda não definidos, mas com metas anuais para todos os indicadores."
+      ]}
+    ]},
+    {"titulo": "2. Integridade dos Insumos", "blocos": [
+      {"tipo": "tabela", "titulo": "Marcações de integridade (FASE 1.6)", "cabecalho": ["Insumo", "Situação", "Efeito na pontuação"], "linhas": [
+        ["Capacidade de Pagamento da instituição financeira", "Índice de Basileia de 23,9% em 31/12/2023, informado pela própria carta; nenhuma tabela geral consultada traz o índice atual. Marcação de insumo: pedir o valor do último trimestre com fonte do Banco Central (relatório público de instituições financeiras).", "Mantida a classe máxima no cenário esperado: a margem sobre o limite de 15% é larga."],
+        ["Regra de enquadramento da estatal", "A tabela empacotada do Estado de Minas Gerais traz Capacidade de Pagamento D (ciclo 2025, em vigor desde 10/03/2026) e Dívida Consolidada Líquida sobre Receita Corrente Líquida de 167,5% em 2025. A instituição tem indicador próprio (Basileia), então a regra da skill pontua pela própria instituição.", "Se a Secretaria usar o ente mantenedor, a Capacidade de Pagamento D seria eliminatória: tratado como risco P0, não como nota."],
+        ["Índice de Desenvolvimento Humano", "Estado de Minas Gerais, 0,774 (Índice de Desenvolvimento Humano de 2021, planilha empacotada), piso estadual de 0,680.", "1,413 ponto esperado; a tabela de classificação de entes indica que o índice não se aplica a instituição financeira, o que leva o mínimo a zero."],
+        ["Data das demonstrações financeiras", "A carta cita demonstrações 'de 31 de dezembro de 2026'; o anexo é de 31/12/2025.", "Inconsistência de texto; corrigir antes do envio."],
+        ["Situação de reenvio", "A carta declara ajustes após o Grupo Técnico de 30/01/2026 e de 24/04/2026 e um novo envio em 09/04/2026.", "Tratada como segunda tentativa ou posterior, com texto revisado; desfecho anterior não informado."]
+      ]}
+    ]},
+    {"titulo": "3. Checagem Eliminatória", "blocos": [
+      {"tipo": "tabela", "titulo": "Triagem do Anexo I e Art. 28", "cabecalho": ["Item", "Resultado", "Observação"], "linhas": [
+        ["I. Projeto", "COMPLETO", "Justificativa, objetivos, 18 indicadores, 3 componentes e beneficiários presentes."],
+        ["II. Áreas Estratégicas", "COMPLETO", "16 objetivos declarados, com texto por componente."],
+        ["III. Gestão", "COMPLETO", "Arranjo, estrutura operacional e matriz de responsabilidades."],
+        ["IV. Riscos", "COMPLETO", "Sete riscos descritos; qualidade tratada no item A.3."],
+        ["V. Financiamento", "COMPLETO", "Condições, cronograma e contragarantias; manifestação de concordância do BIRD anexada."],
+        ["VI. Etapas realizadas", "COMPLETO", "Preparação com o credor descrita."],
+        ["Art. 28, I, b (piso da Nota de Área Estratégica)", "Não se aplica", "Estatal não dependente não tem piso."],
+        ["Art. 28, I, c (Capacidade de Pagamento D)", "APROVADO, condicional", "Aprovado pela instituição; ver marcação da seção 2."],
+        ["Art. 28, I, f e g (contratos com a União)", "A VERIFICAR", "O Estado de Minas Gerais é o contragarantidor; a alínea g é o motivo de mérito mais citado nas não aprovações do regime atual."],
+        ["Contrapartida", "CONDICIONAL", "Contrapartida zero com dispensa pedida pelo Art. 34; confirmar o enquadramento da dispensa."]
+      ]},
+      {"tipo": "p", "texto": "Resultado geral: CONDICIONAL. Não há falha eliminatória no texto; os dois pontos a resolver são externos à redação (situação fiscal do contragarantidor e enquadramento da estatal)."}
+    ]},
+    {"titulo": "4. Detalhamento da Nota de Área Estratégica", "blocos": [
+      {"tipo": "p", "texto": "Passo 0, orçamento por área: a carta não atribui custo por área, então cada componente é repartido em partes iguais entre as áreas que declara (componente 1 por 9 áreas; componente 2 por 10; componente 3 inteiro em 206). Resultado: 214, 111 e 205 com 10,2% cada; 206 com 8,0%; 102, 104, 209, 215, 302 e 303 com 6,0%; 107, 202, 204, 207, 208 e 305 com 4,2%. Nenhuma área chega a 15%, então o teto pelo orçamento é D para todas e não há área principal."},
+      {"tipo": "tabela", "titulo": "Lente de pontuação por área (todos os números são Nota de Área Estratégica, componente)", "cabecalho": ["Área", "Objetivo específico próprio", "Produto próprio", "Indicador de resultado com ano-meta", "% do orçamento", "Grupo do objetivo", "Nível esperado", "Degrau que falta"], "linhas": [
+        ["205", "sim (7 e 14)", "sim", "parcial (produtividade, meta 2%)", "10,2%", "metade ou mais em 0", "D (1,0)", "C exige 15% atribuídos"],
+        ["208", "sim (5)", "sim", "parcial (cofinanciamento)", "4,2%", "metade ou mais em 0", "D (1,0)", "custo atribuído e indicador de energia"],
+        ["209", "sim (8 e 11)", "sim", "sim (unidades conectadas)", "6,0%", "costumam pontuar", "D (1,0)", "15% atribuídos"],
+        ["303", "sim (9 e 10)", "sim", "sim (municípios digitalizados)", "6,0%", "costumam pontuar", "D (1,0)", "15% atribuídos"],
+        ["111", "não", "sim", "não", "10,2%", "metade ou mais em 0", "E (0,5)", "objetivo e indicador urbanos"],
+        ["102", "não", "sim", "não (indicador compartilhado)", "6,0%", "costumam pontuar", "E (0,5)", "indicador de saúde próprio"],
+        ["104", "sim (11 e 12)", "sim", "sim, metas pequenas", "6,0%", "metade ou mais em 0", "E (0,5)", "escala do impacto"],
+        ["207", "sim (4)", "não", "indicador ligado a outras áreas", "4,2%", "metade ou mais em 0", "E (0,5)", "religar o indicador de empregos"],
+        ["204", "parcial (3)", "sim", "não (indicador ligado é de empregos)", "4,2%", "metade ou mais em 0", "0", "ligar emissões evitadas a 204"],
+        ["206, 214, 302, 202, 215, 107, 305", "variável", "não ou compartilhado", "não", "4,2% a 10,2%", "quase sempre 0 ou sem lastro", "0", "retirar ou criar lastro próprio"]
+      ]},
+      {"tipo": "p", "texto": "Soma esperada das áreas: 6,0 na Nota de Área Estratégica (4 áreas em D e 4 em E). Teste da soma: a referência por grupo para 16 áreas secundárias é cerca de 6,0; a primeira leitura pela contagem de vínculos dava 9,25 e foi rebaixada nas áreas de vínculo mais fraco (302 por dupla contagem com 303 e 209; 202 por tratar de mitigação e não de adaptação; 206 por indicadores de execução; 215 por indicador trocado). Precedência entre âncoras: o teto pelo orçamento (D) prevaleceu sobre os critérios por objetivo; o conjunto comparável empurrou a estimativa de 6,5 para 6,0."},
+      {"tipo": "p", "texto": "Bônus: o de prioridade do PPA (Art. 15 §3º) foi pedido, mas a carta financia mineração, inovação e produtividade empresarial além das prioridades, e a regra exige recursos integralmente direcionados; fica só no cenário máximo. O de integração regional (Art. 15 §4º) foi pedido com base na área da Superintendência do Desenvolvimento do Nordeste, sem enquadramento documental; também só no cenário máximo."}
+    ]},
+    {"titulo": "5. Notas dos Componentes", "blocos": [
+      {"tipo": "tabela", "titulo": "Dados Objetivos (valor oficial ou da instituição; não mudam com a redação da carta)", "cabecalho": ["Item", "Esperado", "Faixa", "Fonte e regra"], "linhas": [
+        ["Nota do Índice de Desenvolvimento Humano", "1,413", "0,000 a 1,453", "Estado de Minas Gerais, 0,774 (2021); fórmula do Art. 18 com piso estadual 0,680; zero se a Secretaria considerar que o índice não se aplica à instituição financeira."],
+        ["Classificação de Capacidade de Pagamento", "2,000 (A+)", "0,000 a 2,000", "Instituição financeira: Basileia acima de 15% dá A+. Valor de 23,9% informado pela carta para 31/12/2023."],
+        ["Nota de Tendência da Dívida", "1,000", "0,500 a 1,000", "Instituição financeira em A+ ou A dá 1,000; pelo ente mantenedor, a regra calibrada dá 0,500 (nível de 167%)."]
+      ]},
+      {"tipo": "nota", "texto": "Esses três itens só se movem se a Secretaria trocar o critério de enquadramento da estatal; a redação da carta não os altera."}
+    ]},
+    {"titulo": "6. Nota Final", "blocos": [
+      {"tipo": "p", "texto": "Nota Geral esperada: 10,41 = Dados Objetivos 4,41 (Índice de Desenvolvimento Humano 1,413 + Capacidade de Pagamento 2,000 + Tendência da Dívida 1,000) + Nota de Área Estratégica 6,00 (sem bônus)."},
+      {"tipo": "p", "texto": "Faixa empírica de 80% da Nota Geral: 8,3 a 12,5. Faixa empírica da Nota de Área Estratégica: 3,8 a 8,2. Pela rubrica, a Nota Geral vai de 2,5 (todas as áreas no piso e Dados Objetivos pelo pior critério) a 14,5 (todas as áreas no teto de D e os dois bônus concedidos)."},
+      {"tipo": "nota", "texto": "Base de calibração: n=6 perfis comparáveis (regime atual com marcador de repasse ou intermediação); relaxado: setor, subtipo, credor e faixa de valor; dados fracos: subtipos misturados e cartão de fundo com 3 avaliações no regime atual; ancoragem: empurrada em direção à mediana (6,5 para 6,0)."},
+      {"tipo": "p", "texto": "Iteração (FASE 9.5): é um reenvio com texto revisado. Pela evidência de reenvios, a Área Estratégica costuma ficar igual quando a estrutura de áreas, produtos, indicadores e recursos não muda; as revisões desta versão acrescentaram texto na seção de áreas, mas não atribuíram custo nem criaram produto próprio por área, então o ganho esperado sobre a versão anterior é pequeno. Compressão de valor sozinha não resolve com a Nota de Área Estratégica abaixo de 8,5."}
+    ]},
+    {"titulo": "7. Simulação das Perguntas do Grupo Técnico", "blocos": [
+      {"tipo": "tabela", "titulo": "Perguntas aplicáveis", "cabecalho": ["Número", "Pergunta", "Prioridade", "Situação na carta", "Lacuna ou ação"], "linhas": [
+        ["12", "Repasse: qualidade dos subprojetos indefinidos", "Alta", "PARCIAL", "Só dois subprojetos de mobilidade elétrica descritos; pedir 3 por componente com indicadores."],
+        ["20", "Repasse: carteira e critérios de elegibilidade", "Setorial", "PARCIAL", "Critérios genéricos (normativos internos); explicitar seleção por linha."],
+        ["30", "Fundo: objetivos especificados ou postergados", "Setorial", "PARCIAL", "Metas anuais existem, mas 13 de 18 linhas de base são zero."],
+        ["13", "Concentração em municípios de maior capacidade", "Média", "PARCIAL", "Cota de 5% é baixa; propor cota maior com indicador."],
+        ["1", "Sustentabilidade pós-projeto", "Alta", "PARCIAL", "Estratégia de captação descrita; sem custo de operação dos produtos digitais."],
+        ["3", "Custo por beneficiário frente a operações comparáveis", "Alta", "AUSENTE", "Sem custo por empresa ou município apoiado nem referência regional."],
+        ["14", "Conectividade: quem paga a operação e manutenção", "Alta", "AUSENTE", "Sem atribuição do custeio da conectividade financiada."],
+        ["4", "Segurança cibernética e proteção de dados", "Média", "AUSENTE", "Citada como linha financiável, não como risco dos subprojetos."],
+        ["6", "Contrapartida e respaldo legislativo", "Média", "PARCIAL", "Lei autorizativa da contragarantia ainda a enviar à Assembleia; contrapartida zero com dispensa."],
+        ["8", "Inclusão digital desagregada", "Baixa", "AUSENTE", "Nenhum indicador por sexo, renda ou território além da cota regional."],
+        ["15", "Conectividade sem última milha", "Média", "RESPONDIDA", "Indicador de unidades públicas conectadas."],
+        ["23", "Multissetorial: setor citado é substancial", "Setorial", "PARCIAL", "Mineração, mulheres e cooperação internacional são retóricos."],
+        ["27", "Mecanismo de reclamação e violência de gênero", "Setorial", "AUSENTE", "Sem mecanismo de reclamação para os subprojetos."],
+        ["16", "Mudanças desde a última reunião", "Iteração", "RESPONDIDA", "Anexos 33, 35 e 36 listam as alterações."],
+        ["17", "Por que o valor mudou ou não", "Iteração", "PARCIAL", "Novo valor citado no Anexo 9 sem justificativa no texto."],
+        ["18", "Mudança de credor ou sublimite", "Iteração", "AUSENTE", "Sem análise de sublimite alternativo."]
+      ]},
+      {"tipo": "p", "texto": "Contagem: 2 respondidas de 16 aplicáveis; taxa de blindagem de 13%. O risco dominante registrado nas não aprovações do regime atual é o limite da reunião, seguido da alínea g do Art. 28."}
+    ]},
+    {"titulo": "8. Revisão Sênior de Banco Multilateral de Desenvolvimento", "blocos": [
+      {"tipo": "tabela", "titulo": "Itens A.1 a A.6", "cabecalho": ["Item", "Classificação", "Evidência", "Lacuna principal"], "linhas": [
+        ["A.1 Teoria da mudança", "FRACO", "Problemas bem caracterizados por eixo; soluções escritas no condicional ('poderá financiar').", "Resultados sem cadeia até as metas: não se sabe como US$ 38 milhões levam às 2.000 toneladas adicionais de emissões evitadas."],
+        ["A.2 Marco de resultados", "FRACO", "18 indicadores com metas anuais e fórmula na maioria.", "Linha de base zero em 13; unidades trocadas; verificação só por metodologia interna."],
+        ["A.3 Riscos", "FRACO", "Sete riscos com texto extenso.", "Todos baixos e baixos; sem responsável e prazo; faltam demanda municipal, proteção de dados e comunidades tradicionais."],
+        ["A.4 Implementação", "ADEQUADO", "Fluxo de crédito por superintendência, 648 empregados, experiência com sete credores multilaterais.", "Conhecimento das regras de aquisição e do quadro ambiental e social do BIRD apenas afirmado."],
+        ["A.5 Sustentabilidade financeira", "ADEQUADO", "Plano estratégico com captações de R$ 5,3 bilhões, proteção cambial cotada, Basileia de 23,9%.", "Sem tabela de custo de gestão das linhas nem custeio dos produtos digitais."],
+        ["A.6 Lente de Área Estratégica", "ver seção 4", "Soma esperada 6,0 com quatro áreas em D.", "Degrau de maior alavanca: custo atribuído de 15% ou mais em 208, 209 e 303."]
+      ]},
+      {"tipo": "p", "texto": "Justificativa do credor: ADEQUADO. Os quatro subitens aparecem (externo contra interno pelo prazo de 25 anos e custo da proteção cambial; experiência do BIRD em transformação digital; condições completas; comparação com BID, NDB e CAF), mas só em texto, sem tabela e sem a fonte nacional na comparação. Prontidão para banco multilateral: CONDICIONALMENTE PRONTO."},
+      {"tipo": "p", "texto": "Lente Banco Mundial. Instrumento sugerido: Financiamento de Projeto de Investimento (Investment Project Financing) com intermediário financeiro, que é o desenho lido na carta (linha de crédito com subprojetos definidos depois). Programa para Resultados (Program-for-Results) não se encaixa: não há programa de governo com orçamento próprio, e indicador vinculado a desembolso (Disbursement-Linked Indicator) não se aplica."},
+      {"tipo": "p", "texto": "Padrões Ambientais e Sociais (Environmental and Social Standard) acionados, conforme o Quadro Ambiental e Social de 2016, em vigor desde outubro de 2018: 1 e 10 em todo projeto; 9, intermediários financeiros, como padrão central; 2, 3 e 4 conforme os subprojetos; 5 se garagens ou estações de recarga exigirem terreno; 6 e 7 se a linha financiar a cadeia de minerais críticos em regiões com comunidades tradicionais. Classe de risco provável: Substancial, enquanto a lista de exclusão não retirar mineração e hidrogênio de grande porte; Moderado se a carteira ficar em eficiência energética, geração distribuída e serviços digitais. A carta traz política socioambiental, lista de exclusão e checagem de licença por subprojeto; não traz sistema de gestão ambiental e social do intermediário nem mecanismo de reclamação."},
+      {"tipo": "p", "texto": "Quadro de Parceria com o País (Country Partnership Framework) para os anos fiscais 2024 a 2028: encaixe nos eixos de produtividade (micro, pequenas e médias empresas) e de sustentabilidade e clima (energia limpa); o eixo de inclusão depende de a cota regional ganhar escala."},
+      {"tipo": "p", "texto": "Rascunho de objetivo de desenvolvimento do projeto (Project Development Objective): ampliar o acesso de micro, pequenas e médias empresas e de municípios de Minas Gerais, com prioridade para os de menor desenvolvimento humano, a financiamento de longo prazo para energia limpa, eficiência energética e serviços digitais. Indicadores já presentes na carta que serviriam: emissões evitadas pelos projetos apoiados; projetos de eficiência energética apoiados; unidades públicas conectadas em regiões vulneráveis; participação dos recursos destinada a municípios abaixo da média nacional de desenvolvimento humano. Falta um indicador de acesso a crédito (volume ou número de empresas que obtêm financiamento de prazo superior a cinco anos pela primeira vez)."},
+      {"tipo": "tabela", "titulo": "Ponte para a Nota Conceitual do Projeto (Project Concept Note)", "cabecalho": ["Seção da Nota Conceitual", "Onde está na carta", "Lacuna"], "linhas": [
+        ["Contexto do país e do setor", "Justificativa 1.2", "Diagnóstico sem número da lacuna de crédito de longo prazo para empresas e municípios."],
+        ["Objetivo de desenvolvimento e indicadores", "Objetivos e indicadores", "Ver A.2."],
+        ["Componentes e custos", "Componentes e Financiamento", "Custo por subsetor ausente."],
+        ["Arranjo de implementação", "Gestão", "Ver A.4."],
+        ["Riscos e classe ambiental e social", "Riscos", "Sistema de gestão ambiental e social do intermediário ausente."],
+        ["Análise econômica e financeira", "ausente", "Esperada análise de adicionalidade do crédito e de viabilidade dos subprojetos típicos."]
+      ]},
+      {"tipo": "p", "texto": "Empregos: referências do Banco Mundial abertas e lidas nesta simulação (busca por tema, nunca pelo pleito)."},
+      {"tipo": "tabela", "titulo": "Referências do Banco Mundial", "cabecalho": ["Referência", "O que diz de útil", "Onde usar"], "linhas": [
+        ["Access to finance and job growth, blog All About Finance, 23/05/2016 (blogs.worldbank.org/en/allaboutfinance/access-finance-and-job-growth)", "Em dados de dezenas de países em desenvolvimento, empresas com empréstimo cresceram o emprego de 1 a 3 pontos percentuais mais rápido; o efeito é cerca de três vezes maior em micro, pequenas e médias empresas.", "Ênfase de argumento e desenho do indicador de empregos"],
+        ["To meet the jobs challenge, maximize the impact of SMEs, blog de desenvolvimento do setor privado, 04/09/2015 (blogs.worldbank.org/en/psd/meet-jobs-challenge-maximize-impact-smes)", "Pequenas e médias empresas respondem por grande parte do emprego; produtividade, certificação e adoção de tecnologia limitam sua inserção em cadeias; empresas lideradas por mulheres são prioridade.", "Reconcepção do componente de produtividade"],
+        ["World Bank Supports Sustainable Digital Transformation, Connectivity and Energy Efficiency in Sergipe, comunicado, 18/03/2025", "Operação estadual de US$ 53,6 milhões que junta conectividade, governo digital e eficiência energética de prédios públicos, com capacitação de jovens e mulheres ligada a melhores empregos; não publica meta de empregos.", "Precedente de combinação energia e digital"],
+        ["World Bank Supports Better Infrastructure and More Jobs in Bahia, comunicado, 20/03/2026", "Empréstimo de US$ 796 milhões aprovado com enquadramento de empregos diretos e indiretos ligados a energia limpa e investimento privado; o comunicado não traz método de medição.", "Precedente de enquadramento na Diretoria"]
+      ]},
+      {"tipo": "tabela", "titulo": "Canais de emprego lidos na carta", "cabecalho": ["Canal", "Evidência", "Grau"], "linhas": [
+        ["Emprego direto na execução", "Só nos dois subprojetos de mobilidade elétrica (73 e 480 diretos estimados)", "implícito"],
+        ["Emprego direto permanente", "Indicador de empregos 'suportados' de 20 mil para 25 mil, sem definição", "implícito"],
+        ["Cadeia de fornecedores", "Inserção de pequenas e médias empresas em cadeias de energia renovável e minerais críticos", "implícito"],
+        ["Efeito habilitador", "Crédito de longo prazo a empresas sem acesso; conectividade de unidades públicas", "explícito"],
+        ["Qualidade do emprego", "Empregos verdes e empreendedorismo feminino citados, sem meta", "ausente"]
+      ]},
+      {"tipo": "bullets", "itens": [
+        "Reconcepção 1: tornar as micro, pequenas e médias empresas o núcleo do componente de transição energética, com meta de empresas lideradas por mulheres e medição de empregos mantidos e criados nas empresas financiadas.",
+        "Reconcepção 2: usar o componente de assistência técnica para certificação e adequação de fornecedores às cadeias de energia renovável, ligando crédito a contrato com comprador.",
+        "Reconcepção 3: nos municípios, condicionar o crédito digital a serviços que reduzem o tempo de abertura de empresas e de emissão de alvarás, levando o componente para o pilar de ambiente de negócios.",
+        "Indicadores sugeridos: emprego formal nas empresas financiadas, 12 e 24 meses após o desembolso, por sexo e faixa etária (Relação Anual de Informações Sociais e Novo Cadastro Geral de Empregados e Desempregados); empresas que obtêm crédito de longo prazo pela primeira vez; participação de empresas lideradas por mulheres na carteira; tempo médio para emitir alvará nos municípios apoiados; renda média dos postos nas empresas apoiadas.",
+        "Ênfases para o Diretor do País e a Diretoria: mandato de mais e melhores empregos pelo canal de acesso a crédito, que tem evidência do próprio Banco; encaixe nos eixos de produtividade e clima; setor privado como motor, com espaço para a Corporação Financeira Internacional em cofinanciamento ou garantia; medição com dados administrativos já disponíveis.",
+        "Pautas com o cliente: quantas empresas da carteira atual de linhas verdes e de inovação aumentaram o emprego depois do crédito, e o banco consegue cruzar a carteira com dados de emprego formal? Que procedimento municipal mais atrasa quem quer investir nos municípios atendidos?",
+        "Regras do jogo: o banco não controla alvarás ou registro, mas pode exigir dos municípios tomadores de crédito digital metas de tempo de licença e de abertura de empresas como condição do financiamento."
+      ]}
+    ]},
+    {"titulo": "9. Plano de Correção", "blocos": [
+      {"tipo": "tabela", "titulo": "Ações priorizadas", "cabecalho": ["Número", "Prioridade", "Ação", "Remissão", "Variação estimada na Nota de Área Estratégica"], "linhas": [
+        ["1", "P0", "Apresentar índice de Basileia do último trimestre com fonte do Banco Central e declarar o enquadramento como instituição financeira", "seção 2", "protege os Dados Objetivos"],
+        ["2", "P0", "Documentar a situação do Estado contragarantidor nos contratos com a União e no regime fiscal, e o cronograma da lei autorizativa", "seção 3", "evita eliminação"],
+        ["3", "P1", "Tabela de custo por área com alocação explícita, concentrando 15% ou mais em 208, 209 e 303 (tarefa R2 e R4)", "seção 4", "+1,5 a +2,5"],
+        ["4", "P1", "Retirar 305, 214, 107, 202, 215, 302 e 206, ou dar a cada uma produto, indicador e custo próprios (tarefa R3)", "seção 4", "+0,5 a +1,0"],
+        ["5", "P1", "Indicadores de resultado com linha de base medida na carteira atual, unidade única e uma área por indicador (tarefa R6)", "A.2", "+0,5 a +1,0"],
+        ["6", "P1", "Cota de recursos para municípios da área da Superintendência do Desenvolvimento do Nordeste com indicador próprio e pedido documentado do bônus de integração regional (tarefa R12)", "seção 4", "até +1,0"],
+        ["7", "P2", "Carteira indicativa com 3 subprojetos por componente, custo por beneficiário e mecanismo de reclamação", "seção 7", "evita pergunta"],
+        ["8", "P2", "Matriz de riscos com responsável e prazo, incluindo proteção de dados e comunidades tradicionais", "A.3", "evita pergunta"],
+        ["9", "P3", "Tabela de condições financeiras com fonte nacional e dois credores externos (texto-modelo 3)", "justificativa do credor", "evita pergunta"]
+      ]},
+      {"tipo": "p", "texto": "Resumo: se P0 e P1 forem atendidos, a Nota de Área Estratégica pode ganhar de +2,0 a +3,5, para cerca de 8,0 a 9,0, e a Nota Geral passaria para cerca de 12,4 a 13,4 com os Dados Objetivos atuais. Isso exige nova versão da carta, não ajuste de texto."},
+      {"tipo": "tabela", "titulo": "Rota para Área Estratégica máxima (10,000)", "cabecalho": ["Área", "Atual", "Meta", "Condição"], "linhas": [
+        ["208 energia limpa", "D (1,0)", "B (3,0)", "componente de transição energética atribuído em mais de 30% do total, com indicador de energia gerada ou economizada"],
+        ["209 inclusão digital", "D (1,0)", "C (2,0)", "15% ou mais atribuídos à conectividade"],
+        ["303 governo digital", "D (1,0)", "C (2,0)", "15% ou mais atribuídos a serviços municipais digitais"],
+        ["205 produtividade", "D (1,0)", "D (1,0)", "manter com indicador de produtividade com linha de base"],
+        ["204 descarbonização", "0", "D (1,0)", "ligar o indicador de emissões evitadas e o produto de hidrogênio"],
+        ["Bônus de integração regional", "0", "1,0", "cota relevante e enquadramento documentado"]
+      ]},
+      {"tipo": "p", "texto": "Caminho aritmético escolhido: B + 2 C + 2 D + bônus = 3 + 4 + 2 + 1 = 10. Nas Notas Técnicas do regime atual, nenhuma soma de áreas chegou a 10 (máximo 9,0 sem bônus e 9,5 com bônus); trate o teto como meta de desenho, não como expectativa."}
+    ]},
+    {"titulo": "10. Janela e Momento", "blocos": [
+      {"tipo": "tabela", "titulo": "Elegibilidade e saldo na 187ª reunião (base de sublimites até a 185ª)", "cabecalho": ["Sublimite", "Elegível", "Limite divulgado", "Cabe", "Linha de corte recente", "Posição"], "linhas": [
+        ["Subnacional – Geral", "sim", "US$ 233 milhões", "sim", "11,91 (maior nota não aprovada na 185ª; nenhum aprovado)", "abaixo"],
+        ["Subnacional – Ambiental e Climático", "sim, se a operação for só de energia limpa e eficiência", "US$ 40 milhões", "só uma operação de até US$ 40 milhões", "10,64 (menor aprovada na 185ª)", "depende da nova carta"],
+        ["Subnacional – PPP", "não", "US$ 78 milhões", "—", "—", "—"],
+        ["Subnacional – Fiscal", "não", "zero", "não", "—", "—"]
+      ]},
+      {"tipo": "p", "texto": "No Geral, a linha recente está em torno de 11,9 e o pleito fica abaixo dela; o limite da reunião caiu de cerca de US$ 700 milhões por reunião em 2025 para US$ 175 a 270 milhões em 2026, e a 185ª não aprovou nenhum pleito do Geral. O Plano de Correção alcança a linha só com a reconcentração do orçamento, o que pede nova versão da carta."},
+      {"tipo": "bullets", "itens": [
+        "Melhor sublimite e reunião: para a 187ª, a operação inteira só disputa o Geral, abaixo da linha. A alternativa de maior chance é separar o componente de transição energética (US$ 38 milhões) numa operação própria para o Ambiental e Climático, que costuma ter saldo; custa uma nova carta e a reapresentação do pleito digital.",
+        "Mudança de desenho: na parte digital (US$ 60 milhões) que ficaria no Geral, concentrar recursos em conectividade e governo digital, com custo atribuído, para disputar a linha.",
+        "Estratégia de iteração: reenviar o mesmo texto não muda a nota; mirar a reunião do último trimestre de 2026, que costuma ter saldo de rolagem, com a carta revisada. Depois de duas tentativas sem aprovação, a recomendação é redesenho, não novo reenvio.",
+        "Esta leitura depende da base de sublimites gerada até a 185ª; conferir a ata da 186ª e os comunicados vigentes antes da decisão."
+      ]}
+    ]}
+  ]
+}

@@ -1,0 +1,110 @@
+{
+ "id": "A4E41EC",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Aligned specific objectives and indicators but general objective silent; low resources and actions limited to health financial-management systems; slight impact."
+  },
+  {
+   "code": "104",
+   "name": "Secondary/technical education",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Aligned specific objectives and indicators; low resources and only education financial-management systems; slight impact."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Aligned specific objectives and indicators; minimal resources and only social-assistance financial-management systems; slight impact."
+  },
+  {
+   "code": "110",
+   "name": "Social security",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Aligned specific objectives and indicators; minimal resources; slight impact; solutions shown efficient."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Aligned specific objectives; low resources; improved public procurement and investment capacity could raise productivity only at limited scale; slight impact."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": "D",
+   "points": 1.0,
+   "reason": "General objective relevant with aligned indicators, but capacity actions limited to specific government processes and sectors; low impact; solutions efficient."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "D",
+   "points": 1.0,
+   "reason": "General objective relevant; digital transformation is an instrument for specific sectors rather than the programme's exclusive focus; low impact; solutions efficient."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Central though not sole focus; systems improving spending management in specific sectors; moderate impact; solutions shown efficient among alternatives."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Programme centers on fiscal, financial and asset management; no direct investment in mobility, housing, sanitation or social facilities, so no sufficient link."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Systems may indirectly improve transparency, but no direct actions to widen societal participation, so no sufficient link."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "reason": "Programme centers on fiscal, financial and asset management; no direct investment in mobility, housing, sanitation or social facilities, so no sufficient link."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "reason": "Systems may indirectly improve transparency, but no direct actions to widen societal participation, so no sufficient link."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  6.5,
+  10.0
+ ]
+}

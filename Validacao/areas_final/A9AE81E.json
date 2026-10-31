@@ -1,0 +1,50 @@
+{
+ "id": "A9AE81E",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Sustainable housing credit line with aligned objectives, products, indicators and targets; high impact potential but not shown to be exceptional."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Aligned, but the link is indirect (lower-impact construction processes), so impact is low and solution efficiency is not demonstrated."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Only an indirect stimulus to decarbonizing construction; marginal relevance and no demonstration of efficiency versus alternatives."
+  }
+ ],
+ "not_accepted": [],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  4.5,
+  10.0
+ ]
+}

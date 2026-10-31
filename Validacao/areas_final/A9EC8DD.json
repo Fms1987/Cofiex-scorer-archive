@@ -1,0 +1,132 @@
+{
+ "id": "A9EC8DD",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Safe housing, public spaces and urban mobility components with direct links, roughly half of resources, indicators and targets; high impact and efficient solutions."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Recovery of water bodies, linear parks and botanical garden with water-quality indicators; small resource share and target public, so moderate impact."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Slope stabilization, risk-area recovery and macrodrainage with an indicator on flooding hotspots; high impact but a small resource share."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Industrial, agro-food and market infrastructure with a job-creation indicator; moderate impact given resources and target public; efficient solutions."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Objective and products on job generation and productive insertion, but no resources specifically allocated and efficiency not demonstrated."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Institutional strengthening component (administrative modernization, integrated management systems, training) with satisfaction indicator; high impact, efficient solutions."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "level": null,
+   "points": 0.0,
+   "reason": "No objectives, indicators or targets specifically tied to the area, so impact and efficiency are not demonstrated."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "Objectives and products not specific to the area; water-quality indicators are only potentially related and insufficient to show impact."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "No objectives, indicators or targets specifically tied to the area."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No objectives, indicators or targets specifically tied to the area."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": null,
+   "points": 0.0,
+   "reason": "IT equipment and integrated systems are only potentially related; without specific objectives, indicators and targets, impact is not shown."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "reason": "No objectives, indicators or targets specifically tied to the area, so impact and efficiency are not demonstrated."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "reason": "Objectives and products not specific to the area; water-quality indicators are only potentially related and insufficient to show impact."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "No objectives, indicators or targets specifically tied to the area."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "reason": "No objectives, indicators or targets specifically tied to the area."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "reason": "IT equipment and integrated systems are only potentially related; without specific objectives, indicators and targets, impact is not shown."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 0.0,
+   "decision": "não aceito",
+   "reason": "Proponent said the programme aligns with five PPA priorities, but only part of the actions fit them, so resources are not entirely directed to those priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  8.5,
+  10.0
+ ]
+}

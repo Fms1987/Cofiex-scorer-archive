@@ -1,0 +1,89 @@
+{
+ "id": "A4D92C4",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "107",
+   "name": "Women",
+   "level": "E",
+   "points": 0.5,
+   "reason": "One product on productive inclusion of women among other groups; indicator not fully adequate, small aggregated resources, other dimensions of the objective not covered; slight impact."
+  },
+  {
+   "code": "108",
+   "name": "Indigenous and quilombola peoples",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Theme not central; productive inclusion of traditional communities with a reasonably SMART indicator, but aggregated limited resources and narrow scope; slight impact."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Significant alignment and SMART indicators, but components and resources do not prioritize the theme, outputs are dispersed and resource share is limited; low impact."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Significant alignment; dedicated component with a large resource share on climate-resilient farming and rural roads; targets cover only part of demand, so moderate impact."
+  },
+  {
+   "code": "203",
+   "name": "Family farming",
+   "level": "C",
+   "points": 2.0,
+   "reason": "High alignment across all final components, relevant resources, well-structured SMART indicators; beneficiary target relevant but limited against total demand; moderate impact."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Aligned with a dedicated research component, but the technology-adoption indicator does not show science or innovation results, so impact could not be measured."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only a mention of efficient irrigation in one product; no components, products or indicators clearly aligned, so resources and impact could not be assessed."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "reason": "Aligned with a dedicated research component, but the technology-adoption indicator does not show science or innovation results, so impact could not be measured."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "reason": "Only a mention of efficient irrigation in one product; no components, products or indicators clearly aligned, so resources and impact could not be assessed."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 0.0,
+   "decision": "não aceito",
+   "reason": "Proponent claimed most resources go to two federal priorities (deforestation, climate emergency); the rule requires all resources, so the proponent's own statement defeats the request."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  6.0,
+  10.0
+ ]
+}

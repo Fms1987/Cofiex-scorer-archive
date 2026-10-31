@@ -1,0 +1,80 @@
+{
+ "id": "AAF3477",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Coherent objectives, well-defined components, SMART indicators, significant resources and high positive impact, using solutions aligned with higher-court recommendations; stronger fit here than in related areas."
+  },
+  {
+   "code": "112",
+   "name": "Public safety",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Coherent objectives, defined components, SMART indicators on prison management and security, significant resources, high positive impact with efficient solutions."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": null,
+   "points": 0.0,
+   "reason": "No women-focused specific objectives or gender-sensitive indicators; resource linkage unclear. Arguments fit better under human rights."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "level": null,
+   "points": 0.0,
+   "reason": "No robust objectives or race-sensitive indicators; majority-Black beneficiary profile mentioned, but no objective criteria. Arguments fit better under human rights."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": null,
+   "points": 0.0,
+   "reason": "Alignment not consistently shown; subcomponent and indicator poorly articulated with strategic priorities; resources and impact unclear."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "107",
+   "name": "Women",
+   "reason": "No women-focused specific objectives or gender-sensitive indicators; resource linkage unclear. Arguments fit better under human rights."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "reason": "No robust objectives or race-sensitive indicators; majority-Black beneficiary profile mentioned, but no objective criteria. Arguments fit better under human rights."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "reason": "Alignment not consistently shown; subcomponent and indicator poorly articulated with strategic priorities; resources and impact unclear."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state resources are exclusively aimed at federal PPA priorities; no points."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not indicate regional integration; no points."
+  }
+ ],
+ "areas_total": [
+  6.0,
+  10.0
+ ]
+}

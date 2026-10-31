@@ -1,0 +1,101 @@
+{
+ "id": "AC8F5D5",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Objectives, products, SMART indicators and targets fit; resources for this area were of little relevance and impact moderate."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Objectives, components, SMART indicators and targets directly related; most program resources go here, with high potential impact and efficient solutions."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Direct objectives, components and indicators (reforestation, nature-based solutions, risk monitoring); resources of little relevance, moderate impact."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Support for waste-picker cooperatives is relevant, but the indicator is weakly representative and the resource share is small."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Relevant objectives, products and SMART indicators on urban watershed conservation, but a small resource share and low impact."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": null,
+   "points": 0.0,
+   "reason": "Urban parks offer leisure and physical activity, but objectives are not directly about expanding sport access and no clear indicator was presented."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "level": null,
+   "points": 0.0,
+   "reason": "Some actions may help ecotourism, but no components, objectives or indicators are directly related."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No objectives or indicators directly related to the area."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "113",
+   "name": "Sport",
+   "reason": "Urban parks offer leisure and physical activity, but objectives are not directly about expanding sport access and no clear indicator was presented."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "reason": "Some actions may help ecotourism, but no components, objectives or indicators are directly related."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "reason": "No objectives or indicators directly related to the area."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 1.0,
+   "decision": "aceito",
+   "reason": "Proponent declared exclusive alignment with federal priorities; NT accepted deforestation control and climate emergency response, as the program reverses green-area degradation and reduces climate vulnerabilities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the program promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  6.0,
+  10.0
+ ]
+}

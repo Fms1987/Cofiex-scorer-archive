@@ -1,0 +1,82 @@
+{
+ "id": "ABB4DCC",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Objectives, components and products directly tied; SMART indicators; most resources go to the area; high impact; efficient solutions (regionalisation, facility modernisation, ICT-based services, new general hospital)."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Objectives and components related, SMART indicators; part of resources; limited impact; actions strengthen regional network coordination and add a hospital in a region of high regional dependence."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Relevant general objective and related component, but indicators weakly representative; small resource share and low impact; workshops, consulting and training for network managers."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "D",
+   "points": 1.0,
+   "reason": "General objective contributes only indirectly; specific objective, component and SMART indicators exist; resource share not relevant; moderate impact; ICT-based care models and telehealth."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": null,
+   "points": 0.0,
+   "reason": "No objectives or indicators directly related; minimum criteria not met."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Facility modernisation touches climate resilience, but no objectives or indicators directly related; minimum criteria not met."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "reason": "No objectives or indicators directly related; minimum criteria not met."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "reason": "Facility modernisation touches climate resilience, but no objectives or indicators directly related; minimum criteria not met."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 1.0,
+   "decision": "aceito",
+   "reason": "Resources are entirely directed to strengthening primary and specialised health care, a federal priority, through governance, facility modernisation, ICT and a new hospital."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not indicate regional integration; the NT gives no separate section for this bonus."
+  }
+ ],
+ "areas_total": [
+  5.5,
+  10.0
+ ]
+}

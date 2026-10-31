@@ -1,0 +1,92 @@
+{
+ "id": "A94BE80",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Indirect relation: home ownership for older people and low-income families frees income from rent, supporting social inclusion and protection."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Direct impact encouraging sustainable housing and reducing the urban housing deficit; moderate impact because the programme covers only the housing sector."
+  },
+  {
+   "code": "101",
+   "name": "Poverty",
+   "level": null,
+   "points": 0.0,
+   "reason": "Insufficient relation: no indicators or products directly tied to the area; income effect of home ownership is already credited under human rights."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": null,
+   "points": 0.0,
+   "reason": "Products and indicators exist, but sports and leisure access is restricted to the supported housing developments, so impact on the area is not relevant enough."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": null,
+   "points": 0.0,
+   "reason": "Insufficient relation: environmental criteria in housing policy are already credited under sustainable cities; no products or indicators directly tied to the area."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Insufficient relation: no products aimed at reducing regional inequality and no regionalized impact indicators."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "101",
+   "name": "Poverty",
+   "reason": "Insufficient relation: no indicators or products directly tied to the area; income effect of home ownership is already credited under human rights."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "reason": "Products and indicators exist, but sports and leisure access is restricted to the supported housing developments, so impact on the area is not relevant enough."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "reason": "Insufficient relation: environmental criteria in housing policy are already credited under sustainable cities; no products or indicators directly tied to the area."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Insufficient relation: no products aimed at reducing regional inequality and no regionalized impact indicators."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  3.0,
+  10.0
+ ]
+}

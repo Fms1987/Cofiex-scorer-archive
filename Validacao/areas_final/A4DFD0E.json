@@ -1,0 +1,161 @@
+{
+ "id": "A4DFD0E",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Specific objectives and two components on urban requalification and housing in vulnerable areas; relevant indicators; relevant resources with high potential impact."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Specific objective, large sports and leisure facilities and coastal sports spaces, an indicator with target for monthly users; resource share considered; low impact."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Specific objectives, housing improvement target, nature-based drainage and recovery works; resources shared with other areas so not exclusive; impact present but more targeted actions needed."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Training and consulting for informal tourism workers with indicators and targets for vulnerable groups; low impact given limited target audience relative to the local population and modest resources."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Professional training plus tourist-oriented urban facilities strengthen attractiveness; resources are shared with other areas and cannot count fully; low impact."
+  },
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "level": null,
+   "points": 0.0,
+   "reason": "No exclusive, relevant actions for local arts and culture; no specific indicators, targets or objectives."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": null,
+   "points": 0.0,
+   "reason": "Works in historically excluded territories, but no effective indicators measuring social inclusion; actions fit better in other areas."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": null,
+   "points": 0.0,
+   "reason": "No exclusive actions for women's protection and no consistent indicators, targets or objectives."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "level": null,
+   "points": 0.0,
+   "reason": "Benefits territories with many Black residents, but no specific objectives or robust indicators on combating racism."
+  },
+  {
+   "code": "112",
+   "name": "Public safety",
+   "level": null,
+   "points": 0.0,
+   "reason": "Lighting and public-space occupation only indirectly promote safety; no specific objectives or indicators, so efficiency and impact cannot be assessed."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": null,
+   "points": 0.0,
+   "reason": "Native-vegetation recovery and a coastal park planned, but no indicators specific to this area, so targets and impact cannot be measured."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": null,
+   "points": 0.0,
+   "reason": "No exclusive, relevant actions to raise productivity or competitiveness; no specific indicators, targets or objectives."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Actions reduce territorial gaps within the municipality only, so they do not fit this area."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "reason": "No exclusive, relevant actions for local arts and culture; no specific indicators, targets or objectives."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "reason": "Works in historically excluded territories, but no effective indicators measuring social inclusion; actions fit better in other areas."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "reason": "No exclusive actions for women's protection and no consistent indicators, targets or objectives."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "reason": "Benefits territories with many Black residents, but no specific objectives or robust indicators on combating racism."
+  },
+  {
+   "code": "112",
+   "name": "Public safety",
+   "reason": "Lighting and public-space occupation only indirectly promote safety; no specific objectives or indicators, so efficiency and impact cannot be assessed."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "reason": "Native-vegetation recovery and a coastal park planned, but no indicators specific to this area, so targets and impact cannot be measured."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "reason": "No exclusive, relevant actions to raise productivity or competitiveness; no specific indicators, targets or objectives."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Actions reduce territorial gaps within the municipality only, so they do not fit this area."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities; no points given."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration; no points given."
+  }
+ ],
+ "areas_total": [
+  7.0,
+  10.0
+ ]
+}

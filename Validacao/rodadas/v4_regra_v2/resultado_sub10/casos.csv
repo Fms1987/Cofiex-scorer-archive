@@ -1,0 +1,11 @@
+pleito_id,estrato,nota_oficial,nota_esp,delta,na_faixa,largura,ae_oficial,ae_esp,area_principal,nivel_oficial,nivel_previsto
+1010106881,Subnacional-especifico|Estadual,9.485,8.6,-0.885,1,4.2,6.5,5.5,205,C,D
+2364216778,Geral|Municipal,10.196,8.68,-1.516,1,4.2,7.5,6.0,202,C,D
+3814936734,Geral|Estadual,11.562,10.5,-1.062,1,4.2,8.0,7.0,112,B,B
+5309374312,Subnacional-especifico|Municipal,9.925,8.2,-1.725,1,4.2,7.0,5.3,201,B,C
+5502586403,Geral|Municipal,9.754,8.25,-1.504,1,4.2,7.0,5.5,111,B,D
+7762622899,Geral|Estadual,8.726,8.09,-0.636,1,4.2,6.5,6.0,102,B,C
+9102009723,Subnacional-especifico|Estadual,9.904,10.0,0.096,1,4.2,7.0,7.0,306,B,B
+9188548484,Geral|Municipal,10.206,9.7,-0.506,1,4.2,6.5,6.0,111,B,C
+9194096568,Federal|Federal,2.0,4.0,2.0,1,4.2,2.0,4.0,111,E,E
+9443031498,Subnacional-especifico|Municipal,5.707,6.2,0.493,1,4.2,3.0,3.5,306,B,D

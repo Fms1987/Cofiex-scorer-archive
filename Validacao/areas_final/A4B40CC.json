@@ -1,0 +1,106 @@
+{
+ "id": "A4B40CC",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "D",
+   "points": 1.0,
+   "reason": "General objective only punctually related; two indicators directly linked, others weakly; minimal resource share and low potential impact."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Transparency portal modernization and one directly linked indicator, but general objective not related, minimal resources and slight potential impact."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "C",
+   "points": 2.0,
+   "reason": "General objective directly related; indicators easily verified; relevant resource share; moderate impact; digitalization is a core focus and solution shown more efficient than alternatives."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Core focus of the project; many indicators directly verifiable; over half of resources; high potential impact; solution shown more efficient than usual fiscal management."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only a leadership-training product for female staff of the tax agency; no direct link to women's protection policies, minimal resources, indicator insufficient."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Own solar generation and efficiency in agency buildings does not strengthen national energy security; indicator insufficient, minimal resources."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "Rainwater reuse in agency buildings has no direct bearing on national water security; indicator insufficient, minimal resources."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": null,
+   "points": 0.0,
+   "reason": "General objective is related and resources relevant, but the indicators presented do not clearly show area results, so impact cannot be measured."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "107",
+   "name": "Women",
+   "reason": "Only a leadership-training product for female staff of the tax agency; no direct link to women's protection policies, minimal resources, indicator insufficient."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "reason": "Own solar generation and efficiency in agency buildings does not strengthen national energy security; indicator insufficient, minimal resources."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "reason": "Rainwater reuse in agency buildings has no direct bearing on national water security; indicator insufficient, minimal resources."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "reason": "General objective is related and resources relevant, but the indicators presented do not clearly show area results, so impact cannot be measured."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the project is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the project promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  6.5,
+  10.0
+ ]
+}

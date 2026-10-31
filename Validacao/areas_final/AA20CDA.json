@@ -1,0 +1,128 @@
+{
+ "id": "AA20CDA",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": "A",
+   "points": 5.0,
+   "reason": "Highly consistent: clear objectives, structured components, SMART indicators and significant resources; structuring design beyond buildings; exceptional impact potential and efficient solutions."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Expansion of digital health services and telehealth exists, but resources are limited and relative impact on the area is small; minimal fit."
+  },
+  {
+   "code": "101",
+   "name": "Poverty",
+   "level": null,
+   "points": 0.0,
+   "reason": "Positive externalities of primary care are noted, but no objectives, indicators or targets tied to food insecurity or poverty."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": null,
+   "points": 0.0,
+   "reason": "Strengthening the health system yields positive externalities, but results are not structured with specific objectives, indicators or targets."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific objectives, components, products or resources directed to women."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Health-facility works are counted under health; no integrated urban investment in mobility, housing, sanitation or infrastructure."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only an indirect contribution to disaster response; no explicit objective, risk-management indicators or targets."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Technology initiatives focus on operational capacity; no structuring science and innovation actions or links to research institutions."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Relevant objectives on management modernization and training, but indicators are imprecise and resources relatively small; impacts already credited under health."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "101",
+   "name": "Poverty",
+   "reason": "Positive externalities of primary care are noted, but no objectives, indicators or targets tied to food insecurity or poverty."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "reason": "Strengthening the health system yields positive externalities, but results are not structured with specific objectives, indicators or targets."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "reason": "No specific objectives, components, products or resources directed to women."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "reason": "Health-facility works are counted under health; no integrated urban investment in mobility, housing, sanitation or infrastructure."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "reason": "Only an indirect contribution to disaster response; no explicit objective, risk-management indicators or targets."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "reason": "Technology initiatives focus on operational capacity; no structuring science and innovation actions or links to research institutions."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "reason": "Relevant objectives on management modernization and training, but indicators are imprecise and resources relatively small; impacts already credited under health."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 1.0,
+   "decision": "aceito",
+   "reason": "Proponent declared exclusive alignment with federal priorities; all actions strengthen the public health system, matching the health priority of the PPA."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  5.5,
+  10.0
+ ]
+}

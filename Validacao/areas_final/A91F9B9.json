@@ -1,0 +1,70 @@
+{
+ "id": "A91F9B9",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Direct link via accessibility features and digital public services for people with disabilities; adequate indicators but modest targets and a very small resource share, so moderate impact."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Credit access for the sector value chain; indicator is not the best fit but feasible; resource share about 30% apportioned; moderate impact, credit is not an innovation."
+  },
+  {
+   "code": "209",
+   "name": "Digital inclusion and connectivity",
+   "level": "C",
+   "points": 2.0,
+   "reason": "General objective fully related; three adequate indicators and consistent targets, modest but sound for an initial stage; about one third of resources; moderate impact."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Interactive civic-participation platform is relevant, but the indicator does not measure the area, resources are very small and reach is limited; low impact, though innovative."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Objective and specific objectives are consistent, but no indicator measures the area's impacts and targets are limited to specific cities, so no points."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Objective and specific objectives are consistent, but no indicator measures the area's impacts and targets are limited to specific cities, so no points."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  5.0,
+  10.0
+ ]
+}

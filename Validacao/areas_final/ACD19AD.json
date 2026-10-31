@@ -1,0 +1,87 @@
+{
+ "id": "ACD19AD",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "C",
+   "points": 2.0,
+   "reason": "One of the most benefited areas: conservation, restoration and carbon-market policies; two indicators; over half of notionally prorated resources; moderate and innovative impact."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Policies related to climate adaptation and risk reduction; no indicator designed for it; small prorated resource share; subsidiary and reduced impact."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Second most affected area: carbon-market framework, sustainable fuels, green finance; two indicators; about 40% of prorated resources; moderate and innovative impact."
+  },
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": null,
+   "points": 0.0,
+   "reason": "No general or specific objective, indicator or target on health-system strengthening; health adaptation actions are marginal and no resources are allocated to components."
+  },
+  {
+   "code": "108",
+   "name": "Indigenous and quilombola peoples",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only one product, on rights of traditional communities to use public forests, bears some relation; no indicators or targets on the theme."
+  },
+  {
+   "code": "203",
+   "name": "Family farming",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only indirect links through sustainable agribusiness and land conversion; no indicators or targets; policy-only, little relevant impact."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "reason": "No general or specific objective, indicator or target on health-system strengthening; health adaptation actions are marginal and no resources are allocated to components."
+  },
+  {
+   "code": "108",
+   "name": "Indigenous and quilombola peoples",
+   "reason": "Only one product, on rights of traditional communities to use public forests, bears some relation; no indicators or targets on the theme."
+  },
+  {
+   "code": "203",
+   "name": "Family farming",
+   "reason": "Only indirect links through sustainable agribusiness and land conversion; no indicators or targets; policy-only, little relevant impact."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the operation is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the operation promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  5.0,
+  10.0
+ ]
+}

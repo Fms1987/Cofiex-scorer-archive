@@ -1,0 +1,104 @@
+{
+ "id": "A672E6A",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Direct alignment: integrated sustainable mobility, active-mobility infrastructure, major share of resources, measurable indicators; high impact and technically efficient, innovative solutions."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Socio-environmental management component (tree planting, fauna handling, green-area recovery) with measurable air-quality and active-mobility indicators; relevant but secondary."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project is urban mobility; resettlement actions do not fit the area's focus on protecting vulnerable groups."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions, indicators or resources linked to risk management; socio-environmental measures are compensatory and legal-compliance actions."
+  },
+  {
+   "code": "210",
+   "name": "Logistics and transport",
+   "level": null,
+   "points": 0.0,
+   "reason": "Area targets air, rail, waterway and cabotage modes; project is urban road transport with no components tied to those modes."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Link is only indirect; intervention is municipal while the area concerns inter-regional disparities."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Community consultation only during project preparation; no structured components for participation, transparency or social control."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "106",
+   "name": "Human rights",
+   "reason": "Project is urban mobility; resettlement actions do not fit the area's focus on protecting vulnerable groups."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "reason": "No actions, indicators or resources linked to risk management; socio-environmental measures are compensatory and legal-compliance actions."
+  },
+  {
+   "code": "210",
+   "name": "Logistics and transport",
+   "reason": "Area targets air, rail, waterway and cabotage modes; project is urban road transport with no components tied to those modes."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Link is only indirect; intervention is municipal while the area concerns inter-regional disparities."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "reason": "Community consultation only during project preparation; no structured components for participation, transparency or social control."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  5.0,
+  10.0
+ ]
+}

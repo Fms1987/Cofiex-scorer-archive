@@ -1,0 +1,57 @@
+{
+ "id": "A89049D",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Strong alignment through violence-monitoring systems and equity institutions with clear indicators, but the area is very broad and no innovation evidence was presented."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": "A",
+   "points": 5.0,
+   "reason": "General and specific objectives directly on women's economic autonomy, pay equality, care and violence prevention; well-defined indicators; resources tied to policy delivery; innovative legal measures."
+  },
+  {
+   "code": "108",
+   "name": "Indigenous and quilombola peoples",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Territory titling, cultural and institutional measures with indicators, but resources are diluted across fronts and reach is moderate."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Structural racial-equality policies with indicators and robust design, but diluted resources and moderate reach; no evidence of innovation."
+  }
+ ],
+ "not_accepted": [],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 1.0,
+   "decision": "aceito",
+   "reason": "Programme is fully directed at reducing structural gender and racial inequalities, matching the PPA priority on hunger and inequality reduction."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  8.5,
+  10.0
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": "ADE9896",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Single debt-restructuring component directly tied to the area; indicators and viable targets; efficient solution with high impact potential through lower debt cost and greater public investment capacity."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": null,
+   "points": 0.0,
+   "reason": "All financing goes to public debt restructuring; no targets or indicators for this objective, so impact cannot be assessed."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "All financing goes to public debt restructuring; no targets or indicators for this objective, so impact cannot be assessed."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "reason": "All financing goes to public debt restructuring; no targets or indicators for this objective, so impact cannot be assessed."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "reason": "All financing goes to public debt restructuring; no targets or indicators for this objective, so impact cannot be assessed."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  3.0,
+  10.0
+ ]
+}

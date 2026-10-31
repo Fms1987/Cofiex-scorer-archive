@@ -1,0 +1,135 @@
+{
+ "id": "A73000D",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Port electrification (shore power, charging stations) with funding and an emissions indicator; moderate impact given target population and resources."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "B",
+   "points": 3.0,
+   "reason": "High adherence: port infrastructure for cargo handling; significant resources; indicator with complementary private investment; high impact, efficient solutions, strong multiplier effect."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Solar plant supplying shore power with an emissions indicator; scope limited to local energy management and complementary to decarbonization, so low impact."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Adherence claimed, but no objective, component, product, indicator or resources aimed at sustainable cities or urban investments."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Resilient infrastructure claimed, but nothing in objectives, components, indicators or resources targets risk prevention or adaptation capacity."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": null,
+   "points": 0.0,
+   "reason": "Job and income gains are means to other objectives, not a project focused on decent work for the poorest."
+  },
+  {
+   "code": "210",
+   "name": "Logistics and transport",
+   "level": null,
+   "points": 0.0,
+   "reason": "Objectives and components aligned, but no indicators or targets showing achievement; minimum criteria not met."
+  },
+  {
+   "code": "211",
+   "name": "Trade",
+   "level": null,
+   "points": 0.0,
+   "reason": "Potential contribution to trade diversification, but no specific objective, indicators or targets; minimum criteria not met."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Regional development effects are indirect results of port infrastructure; nothing aimed directly at reducing regional inequality."
+  },
+  {
+   "code": "305",
+   "name": "International cooperation and regional development",
+   "level": null,
+   "points": 0.0,
+   "reason": "No objective, indicator or resources for cooperation; the lender's role does not count since it applies to every external financing."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "reason": "Adherence claimed, but no objective, component, product, indicator or resources aimed at sustainable cities or urban investments."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "reason": "Resilient infrastructure claimed, but nothing in objectives, components, indicators or resources targets risk prevention or adaptation capacity."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "reason": "Job and income gains are means to other objectives, not a project focused on decent work for the poorest."
+  },
+  {
+   "code": "210",
+   "name": "Logistics and transport",
+   "reason": "Objectives and components aligned, but no indicators or targets showing achievement; minimum criteria not met."
+  },
+  {
+   "code": "211",
+   "name": "Trade",
+   "reason": "Potential contribution to trade diversification, but no specific objective, indicators or targets; minimum criteria not met."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Regional development effects are indirect results of port infrastructure; nothing aimed directly at reducing regional inequality."
+  },
+  {
+   "code": "305",
+   "name": "International cooperation and regional development",
+   "reason": "No objective, indicator or resources for cooperation; the lender's role does not count since it applies to every external financing."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  4.5,
+  10.0
+ ]
+}

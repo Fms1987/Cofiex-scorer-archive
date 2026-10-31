@@ -1,0 +1,80 @@
+{
+ "id": "ACD3A84",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "210",
+   "name": "Logistics and transport",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Directly aligned: relocated terminal improves cargo and passenger service; objectives, indicators, components and resources relevant; proponent does not clarify whether impacts are structural or transformative."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Relevance to service quality and tourism shown by proponent, but not reflected in resources or impacts: civil works absorb nearly all funds, service quality a very small share; minimal compliance."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": null,
+   "points": 0.0,
+   "reason": "Productivity and competitiveness effects are indirect; no components, indicators or targets show a direct contribution."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": null,
+   "points": 0.0,
+   "reason": "Job creation is mentioned only as a general objective; other project elements do not show a direct contribution."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": null,
+   "points": 0.0,
+   "reason": "No components, indicators, targets or resources directly tied to improving state capacities."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "reason": "Productivity and competitiveness effects are indirect; no components, indicators or targets show a direct contribution."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "reason": "Job creation is mentioned only as a general objective; other project elements do not show a direct contribution."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "reason": "No components, indicators, targets or resources directly tied to improving state capacities."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal priorities; no information provided."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state regional integration and is not located in the frontier strip."
+  }
+ ],
+ "areas_total": [
+  3.5,
+  10.0
+ ]
+}

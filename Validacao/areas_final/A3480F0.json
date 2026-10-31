@@ -1,0 +1,97 @@
+{
+ "id": "A3480F0",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "A",
+   "points": 5.0,
+   "reason": "General objective directly tied to urban mobility; clear specific objectives, indicators and targets; all components and resources go to rail infrastructure; quantified transformation potential meets maximum standard."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": null,
+   "points": 0.0,
+   "reason": "Link via lower emissions and pollution, but no components or products directly serving the area."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "level": null,
+   "points": 0.0,
+   "reason": "Domestic-manufacture effect of rolling stock is noted, but no components, resources, targets or indicators tied to the area."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": null,
+   "points": 0.0,
+   "reason": "Jobs arise only as construction and operation externalities; no resources or components targeting employment of vulnerable residents."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Electric rail efficiency is not reflected in objectives, indicators, targets, components or resources."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Relevant to intra-municipal inequality, but no specific objectives, indicators, targets or resources; needs better framing in the design."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "201",
+   "name": "Environment",
+   "reason": "Link via lower emissions and pollution, but no components or products directly serving the area."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "reason": "Domestic-manufacture effect of rolling stock is noted, but no components, resources, targets or indicators tied to the area."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "reason": "Jobs arise only as construction and operation externalities; no resources or components targeting employment of vulnerable residents."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "reason": "Electric rail efficiency is not reflected in objectives, indicators, targets, components or resources."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Relevant to intra-municipal inequality, but no specific objectives, indicators, targets or resources; needs better framing in the design."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state exclusive alignment with federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state a regional-integration purpose."
+  }
+ ],
+ "areas_total": [
+  5.0,
+  10.0
+ ]
+}

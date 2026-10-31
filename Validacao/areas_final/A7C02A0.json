@@ -1,0 +1,125 @@
+{
+ "id": "A7C02A0",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Illegal-deforestation enforcement and carbon-credit certification are clearly linked, but the indicator lacks a baseline, resources are minimal and impact is low."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Tax simplification, business registry integration and foreign-trade integration relate to the area; only some indicators link directly; relevant resource share but low impact."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Transparency portal upgrades and ombudsman actions are directly linked with a verifiable indicator, but minimal resources give low impact."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Digital transformation is a core aim; indicators easily verified; relevant resource share; moderate impact; programme considered innovative and efficient versus usual tax management."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Fiscal and tax management is the central focus; indicators easily verified; about half of resources; high impact; programme efficient versus alternatives."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": null,
+   "points": 0.0,
+   "reason": "General objective not directly related; minimal resource share; leadership training for staff is not tied to the area's structural policies, so indicators are insufficient."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Own solar generation in administrative buildings has no direct bearing on national energy security; minimal resources and insufficient indicators."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "Rainwater reuse in the headquarters building does not materially affect national water security; minimal resources and insufficient indicators."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Link through inclusive procurement and training is not directly verifiable; no pertinent indicators and minimal resources, so impact cannot be measured."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": null,
+   "points": 0.0,
+   "reason": "General objective directly related, but indicators do not clearly show the objectives are met; relevant resource share does not compensate for the lack of pertinent indicators."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "107",
+   "name": "Women",
+   "reason": "General objective not directly related; minimal resource share; leadership training for staff is not tied to the area's structural policies, so indicators are insufficient."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "reason": "Own solar generation in administrative buildings has no direct bearing on national energy security; minimal resources and insufficient indicators."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "reason": "Rainwater reuse in the headquarters building does not materially affect national water security; minimal resources and insufficient indicators."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Link through inclusive procurement and training is not directly verifiable; no pertinent indicators and minimal resources, so impact cannot be measured."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "reason": "General objective directly related, but indicators do not clearly show the objectives are met; relevant resource share does not compensate for the lack of pertinent indicators."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  7.0,
+  10.0
+ ]
+}

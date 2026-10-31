@@ -1,0 +1,36 @@
+{
+ "id": "A0C74FA",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "B",
+   "points": 3.0,
+   "reason": "General and specific objectives directly tied to fiscal predictability and sustainability, with indicators and targets; debt restructuring concentrates impact on near-term debt service, efficient via lengthening maturities and positive NPV."
+  }
+ ],
+ "not_accepted": [],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "No additional points were requested under the article."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "The municipality is not in the frontier zone, so it does not qualify."
+  }
+ ],
+ "areas_total": [
+  3.0,
+  10.0
+ ]
+}

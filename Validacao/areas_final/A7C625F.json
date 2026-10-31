@@ -1,0 +1,175 @@
+{
+ "id": "A7C625F",
+ "regime": "R17_2021",
+ "outcome": "withdrawn",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Schools and infrastructure follow sustainable-construction standards equivalent to green building certification: bioclimatic design, LED lighting and solar-powered electrical systems."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.133,
+   "reason": "New classrooms, renovated and new basic-education centres, rural and riverside schools, in areas of high social vulnerability."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "level": null,
+   "points": 0.133,
+   "reason": "Focus on low-income pupils in peripheral areas, expanded special education, and accessibility works and maintenance in school units."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "level": null,
+   "points": 0.133,
+   "reason": "Main focus is improving quality and environment of the municipal public school network through education policies and infrastructure."
+  },
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions found for energy-efficiency systems, renewable generation or transmission."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions found for water supply, solid waste or stormwater drainage."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions found on soil, spring or water-body protection or land-use studies."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions found on species protection, protected areas or wildlife-trafficking control."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions found on business-registration simplification or commercial and industrial facilities."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions found on business-opening simplification, trade facilitation or dedicated credit lines."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions found promoting jobs and income for low-income or vulnerable groups."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "level": null,
+   "points": 0.0,
+   "reason": "No policies directly aimed at youth, gender or race were verified."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No innovative improvements to service delivery, management or participation were verified."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "level": null,
+   "points": 0.0,
+   "reason": "No research or experimental development; purchase of equipment and software is not innovation or modernization."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No public-private partnership or similar financing arrangements were verified."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "reason": "No actions found for energy-efficiency systems, renewable generation or transmission."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "reason": "No actions found for water supply, solid waste or stormwater drainage."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "reason": "No actions found on soil, spring or water-body protection or land-use studies."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "reason": "No actions found on species protection, protected areas or wildlife-trafficking control."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "reason": "No actions found on business-registration simplification or commercial and industrial facilities."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "reason": "No actions found on business-opening simplification, trade facilitation or dedicated credit lines."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "reason": "No actions found promoting jobs and income for low-income or vulnerable groups."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "reason": "No policies directly aimed at youth, gender or race were verified."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "reason": "No innovative improvements to service delivery, management or participation were verified."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "reason": "No research or experimental development; purchase of equipment and software is not innovation or modernization."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "reason": "No public-private partnership or similar financing arrangements were verified."
+  }
+ ],
+ "bonus": [],
+ "areas_total": [
+  0.532,
+  2.0
+ ]
+}

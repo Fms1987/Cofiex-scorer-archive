@@ -1,0 +1,75 @@
+{
+ "id": "AD62D74",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Objectives, components and SMART indicators directly tied to the area; most resources allocated to it, high impact potential; school infrastructure and pedagogical actions efficient."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Sustainable building standards and climate-resilient solutions; the one related indicator (perceived quality of school spaces) is weakly relevant; low resource share, low impact."
+  },
+  {
+   "code": "209",
+   "name": "Digital inclusion and connectivity",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Specific objective, component and SMART indicators on digital learning tools and management digitalization; low resource share, low impact potential."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions, objectives or indicators directly related to protection and support policies for women; minimum criteria not met."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "level": null,
+   "points": 0.0,
+   "reason": "Race-disaggregated indicators exist, but no components or specific objectives directly address combating racism or racial equality."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "107",
+   "name": "Women",
+   "reason": "No actions, objectives or indicators directly related to protection and support policies for women; minimum criteria not met."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "reason": "Race-disaggregated indicators exist, but no components or specific objectives directly address combating racism or racial equality."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  5.0,
+  10.0
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "A6D6511",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Primary-care health units expansion fits; indicators on visits and prenatal care; about 10% of resources; impact judged high but level kept low by resource share."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "High coherence among objectives, components, indicators and funding; integrated urban, mobility, sanitation and social facilities; about 80% of resources; high impact."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Health-and-leisure complexes with outdoor exercise spaces give some adherence; resource allocation residual and not structuring, though impact seen as significant."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Urban requalification with green infrastructure, drainage and nature-based solutions; sanitation and water-quality indicators; about 30% of resources; elevated environmental impact."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Civil-defense risk-management structure and clear indicators; resource allocation residual, though solutions judged high-impact and efficient."
+  }
+ ],
+ "not_accepted": [],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 0.0,
+   "decision": "não aceito",
+   "reason": "Proponent claimed alignment with two federal priorities (climate emergency, health care), but resources are not entirely directed to them."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  8.0,
+  10.0
+ ]
+}

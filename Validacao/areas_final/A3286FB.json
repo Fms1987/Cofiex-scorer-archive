@@ -1,0 +1,113 @@
+{
+ "id": "A3286FB",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Direct, central fit: intermodal mobility, green areas and urban integration are the core scope, SMART indicators, most resources, high impact though not exceptional."
+  },
+  {
+   "code": "112",
+   "name": "Public safety",
+   "level": "E",
+   "points": 0.5,
+   "reason": "A specific objective and components on lighting, surveillance and a municipal guard base improve the sense of safety in the area, with limited materiality."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Strong environmental content (green areas, riverside boulevard, drainage reservoirs) with quantified targets, but not the majority of resources and moderate impact within a broader urban scope."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Flood-risk reduction through reservoirs and gallery works with precise verifiable targets; resources shared with mobility and impact limited to the central area, so moderate."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Clear but non-central link: specific visitation objective and SMART visitor indicator, yet minority share of resources; high but not exceptional impact."
+  },
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Culture is only a complementary by-product of a mobility, drainage and green-space scope; no specific indicators and marginal resources, below minimum criteria."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only indirect link via public and green spaces usable informally; no sport objective, indicators or meaningful resources, below minimum criteria."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only indirect link; drainage works target flood prevention, not water-use efficiency or multiple uses; no indicators and residual resources."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Purely local intervention with no objective, indicator or resources aimed at reducing regional inequalities."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "reason": "Culture is only a complementary by-product of a mobility, drainage and green-space scope; no specific indicators and marginal resources, below minimum criteria."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "reason": "Only indirect link via public and green spaces usable informally; no sport objective, indicators or meaningful resources, below minimum criteria."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "reason": "Only indirect link; drainage works target flood prevention, not water-use efficiency or multiple uses; no indicators and residual resources."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Purely local intervention with no objective, indicator or resources aimed at reducing regional inequalities."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state exclusive alignment with federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state a regional-integration purpose."
+  }
+ ],
+ "areas_total": [
+  7.5,
+  10.0
+ ]
+}

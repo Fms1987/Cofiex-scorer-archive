@@ -1,0 +1,106 @@
+{
+ "id": "AFB2EAD",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Aligned specific objectives and indicators, but bioeconomy value chains relate only indirectly to creative economy and traditional cultures; low impact."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Central objective with aligned components, indicators, targets and significant resources; high impact; efficient solutions though not shown to be innovative."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Comprehensive adaptation and mitigation approach, but low impact given the share of resources devoted to it."
+  },
+  {
+   "code": "203",
+   "name": "Family farming",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Actions affect sustainable rural and extractive productivity, but low impact given limited resources; efficient but not shown innovative."
+  },
+  {
+   "code": "101",
+   "name": "Poverty",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions directly addressing food insecurity or poverty; bioeconomy and conservation effects on livelihoods are only indirect."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions specifically for inclusion or protection of vulnerable people; productive-inclusion effects are indirect."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": null,
+   "points": 0.0,
+   "reason": "Gender inequality is acknowledged but no action in scope specifically addresses it."
+  },
+  {
+   "code": "108",
+   "name": "Indigenous and quilombola peoples",
+   "level": null,
+   "points": 0.0,
+   "reason": "No initiatives addressing the specifics of indigenous, quilombola or traditional communities; effects are indirect."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "101",
+   "name": "Poverty",
+   "reason": "No actions directly addressing food insecurity or poverty; bioeconomy and conservation effects on livelihoods are only indirect."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "reason": "No actions specifically for inclusion or protection of vulnerable people; productive-inclusion effects are indirect."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "reason": "Gender inequality is acknowledged but no action in scope specifically addresses it."
+  },
+  {
+   "code": "108",
+   "name": "Indigenous and quilombola peoples",
+   "reason": "No initiatives addressing the specifics of indigenous, quilombola or traditional communities; effects are indirect."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 0.0,
+   "decision": "não aceito",
+   "reason": "Alignment with deforestation and climate priorities is substantial, but the programme scope is broad and not all resources go to those priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not claim it; the programme does not serve frontier-strip municipalities."
+  }
+ ],
+ "areas_total": [
+  5.5,
+  10.0
+ ]
+}

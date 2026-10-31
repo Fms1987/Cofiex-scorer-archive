@@ -1,0 +1,170 @@
+{
+ "id": "A29AF58",
+ "regime": "R17_2021",
+ "outcome": "withdrawn",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Recovers vulnerable, degraded urban areas, with positive environmental impact and urban resilience to floods."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Sanitation is part of the programme, with sewer collection networks across the city and specific basins."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "level": null,
+   "points": 0.133,
+   "reason": "Integrated, resilient actions on risk management, drainage structures and water resilience address water-security deficits."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "level": null,
+   "points": 0.133,
+   "reason": "Watercourse requalification creates ecological corridors, with planted tree islands and grass on banks sheltering fauna."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.133,
+   "reason": "Territorial development and social engagement components (sewerage, paving, housing, rent support, social work) directly benefit low-income residents of flood-prone areas."
+  },
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "No energy-efficiency actions specified."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions directly affecting the business environment."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions directly benefiting individual entrepreneurs or small firms."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "No direct job and income actions for low-income or vulnerable groups."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific action for inclusion of minorities."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "level": null,
+   "points": 0.0,
+   "reason": "No public policies directly aimed at youth, gender or race."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No direct improvement or innovation in service delivery, management or participation."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "level": null,
+   "points": 0.0,
+   "reason": "No direct improvements in education or health."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "level": null,
+   "points": 0.0,
+   "reason": "No technological actions; financing studies and designs is not a concrete programme delivery."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No financing arrangements encouraging private-sector participation."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "reason": "No energy-efficiency actions specified."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "reason": "No actions directly affecting the business environment."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "reason": "No actions directly benefiting individual entrepreneurs or small firms."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "reason": "No direct job and income actions for low-income or vulnerable groups."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "reason": "No specific action for inclusion of minorities."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "reason": "No public policies directly aimed at youth, gender or race."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "reason": "No direct improvement or innovation in service delivery, management or participation."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "reason": "No direct improvements in education or health."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "reason": "No technological actions; financing studies and designs is not a concrete programme delivery."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "reason": "No financing arrangements encouraging private-sector participation."
+  }
+ ],
+ "bonus": [],
+ "areas_total": [
+  0.665,
+  2.0
+ ]
+}

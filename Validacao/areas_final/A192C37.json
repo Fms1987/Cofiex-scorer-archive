@@ -1,0 +1,106 @@
+{
+ "id": "A192C37",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "C",
+   "points": 2.0,
+   "reason": "General objective aligned; drainage and mobility component with suitable indicators, relevant resources; moderate impact from a limited beneficiary population."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Linear park revitalization, vegetation recovery, nature-based solutions and sewage-discharge elimination targets; relevant resources; moderate impact."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Objective on flooding reduction and canal requalification, but channelization and drainage alone have limited impact on risk management and adaptation."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Avenue requalification for tourist connectivity with visitor-flow indicator, but road and signage works do not raise quality or value of tourism services."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": null,
+   "points": 0.0,
+   "reason": "General objective unrelated; lighting, video monitoring and a women's sports centre are fragmented and not tied to the violence indicator."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": null,
+   "points": 0.0,
+   "reason": "No related specific objectives, indicators or targets; outdoor gyms and cycle paths receive few resources and have little impact."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Electromobility and solar plant mentioned in justification, but no matching actions, indicators or resource allocation."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Training and maintenance planning only; indicators are output-based and the impact is limited."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "107",
+   "name": "Women",
+   "reason": "General objective unrelated; lighting, video monitoring and a women's sports centre are fragmented and not tied to the violence indicator."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "reason": "No related specific objectives, indicators or targets; outdoor gyms and cycle paths receive few resources and have little impact."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "reason": "Electromobility and solar plant mentioned in justification, but no matching actions, indicators or resource allocation."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "reason": "Training and maintenance planning only; indicators are output-based and the impact is limited."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state exclusive alignment with federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  5.0,
+  10.0
+ ]
+}

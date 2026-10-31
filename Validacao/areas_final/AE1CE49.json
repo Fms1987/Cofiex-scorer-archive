@@ -1,0 +1,101 @@
+{
+ "id": "AE1CE49",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Tax-administration components relate to the area and new productivity indicators were added, but the general objective is fiscal, resources are modest and impact potential is reduced."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Consistent alignment with transparency products and indicators and relevant resources (about 10%), but weak evidence of reach and impact limits the score."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Components and indicators on institutional capacity with relevant resources; impact judged moderate given structural complexity and gradual institutionalization."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Digital-transformation components and indicators with relevant resources; moderate impact because it depends on institutional maturity and gradual adoption."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Core fiscal and tax components and indicators with significant resources (about 30%); high structural impact on fiscal governance."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": null,
+   "points": 0.0,
+   "reason": "Women only mentioned among beneficiaries; no specific objectives, products or indicators tied to women's policies."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Energy security cited in an objective, but no components, products or fitting indicators; sustainable-procurement indicator insufficient."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "Water security cited in an objective, but no components, products or indicators demonstrate impact."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "107",
+   "name": "Women",
+   "reason": "Women only mentioned among beneficiaries; no specific objectives, products or indicators tied to women's policies."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "reason": "Energy security cited in an objective, but no components, products or fitting indicators; sustainable-procurement indicator insufficient."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "reason": "Water security cited in an objective, but no components, products or indicators demonstrate impact."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the resources are exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the project promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  9.0,
+  10.0
+ ]
+}

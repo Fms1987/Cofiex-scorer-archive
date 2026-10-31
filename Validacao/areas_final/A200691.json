@@ -1,0 +1,77 @@
+{
+ "id": "A200691",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "C",
+   "points": 2.0,
+   "reason": "High adherence: objectives and mobility/urban component directly aligned, about a quarter of resources, measurable indicators; impact moderate given target population and resources."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Linear park with leisure and sports equipment relates to a specific objective, with indicators on park area and users; impact minor given audience and resources."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Park with nature-based solutions and native planting expands green area and reduces flood and erosion risk; indicators measurable; impact moderate."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Technology park relevant to general and specific objectives, with relevant resources and startup-related indicators; impact moderate given audience and resources."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Debt restructuring is a direct general and specific objective, about half of resources, with fiscal indicators; high impact and efficient solution."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "level": null,
+   "points": 0.0,
+   "reason": "Heritage and biodiversity features could attract visitors, but no specific objectives directly tied to tourism, so minimum criteria are not met."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "213",
+   "name": "Tourism",
+   "reason": "Heritage and biodiversity features could attract visitors, but no specific objectives directly tied to tourism, so minimum criteria are not met."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the project is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": true,
+   "points": 1.0,
+   "decision": "aceito",
+   "reason": "Border-city location with cross-border conurbation; a road reorganization project eases flows of people, goods and services, reinforcing regional integration."
+  }
+ ],
+ "areas_total": [
+  7.5,
+  10.0
+ ]
+}

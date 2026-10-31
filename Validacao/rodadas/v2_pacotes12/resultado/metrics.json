@@ -1,0 +1,88 @@
+{
+  "label": "v2_pacotes12",
+  "n": 20,
+  "n_banco": 40,
+  "mae_nota_geral": 1.138,
+  "vies_nota_geral": 0.609,
+  "mediana_abs_nota_geral": 0.87,
+  "mae_ae": 1.175,
+  "vies_ae": 0.825,
+  "n_ae": 20,
+  "mae_capag": 0.0,
+  "mae_divida": 0.036,
+  "mae_idh": 0.038,
+  "vies_idh": -0.011,
+  "abs_vies_idh": 0.011,
+  "cobertura_faixa": 0.85,
+  "largura_mediana_faixa": 4.2,
+  "acerto_nivel_area_principal": 0.75,
+  "acerto_nivel_area_principal_1_degrau": 0.9,
+  "n_area_principal": 20,
+  "acerto_nivel_todas_areas": 0.517,
+  "n_areas": 149,
+  "faixa_empirica": {
+    "nota_geral_p70": 1.19,
+    "nota_geral_p80": 1.9,
+    "ae_p70": 1.5,
+    "ae_p80": 2.0
+  },
+  "mae_por_estrato": {
+    "Federal|Federal": 1.75,
+    "Geral|Estadual": 0.853,
+    "Geral|Municipal": 1.171,
+    "Subnacional-especifico|Estadual": 1.048,
+    "Subnacional-especifico|Municipal": 1.152
+  },
+  "matriz_confusao": {
+    "A": {
+      "A": 0,
+      "B": 1,
+      "C": 1,
+      "D": 0,
+      "E": 0,
+      "0": 0
+    },
+    "B": {
+      "A": 1,
+      "B": 9,
+      "C": 1,
+      "D": 1,
+      "E": 0,
+      "0": 0
+    },
+    "C": {
+      "A": 0,
+      "B": 0,
+      "C": 10,
+      "D": 2,
+      "E": 0,
+      "0": 0
+    },
+    "D": {
+      "A": 0,
+      "B": 1,
+      "C": 5,
+      "D": 14,
+      "E": 8,
+      "0": 3
+    },
+    "E": {
+      "A": 0,
+      "B": 0,
+      "C": 3,
+      "D": 8,
+      "E": 13,
+      "0": 3
+    },
+    "0": {
+      "A": 0,
+      "B": 0,
+      "C": 2,
+      "D": 6,
+      "E": 26,
+      "0": 31
+    }
+  },
+  "baseline": "v1 (teste cego n=89, recorte do banco)",
+  "regressoes": []
+}

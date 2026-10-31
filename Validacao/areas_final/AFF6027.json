@@ -1,0 +1,94 @@
+{
+ "id": "AFF6027",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Integrated territorial planning, urban drainage and housing components directly related, with relevant resources; SMART indicators, moderate impact given city scale."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Secondary alignment via nature-based solutions and revegetation, but indicator shows these are not applied across all intervention areas; lower relevance."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Objectives and components directly aligned with risk reduction and adaptation; significant resources, SMART indicators with viable targets, high impact on vulnerable households."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Institutional strengthening is a specific objective, with a monitoring module product; chosen indicator not relevant enough, so impact judged of lower relevance."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "Drainage works do not address water availability or efficient use; no related products or indicators."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Municipal-scale programme addresses intra-urban disparities, not macro-regional inequality."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": null,
+   "points": 0.0,
+   "reason": "Upgrading a monitoring module is not a strategic digital transformation agenda; no suitable indicators."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "212",
+   "name": "Water security",
+   "reason": "Drainage works do not address water availability or efficient use; no related products or indicators."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Municipal-scale programme addresses intra-urban disparities, not macro-regional inequality."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "reason": "Upgrading a monitoring module is not a strategic digital transformation agenda; no suitable indicators."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 1.0,
+   "decision": "aceito",
+   "reason": "Proponent requested it citing the climate-emergency priority; all components and resource allocation serve climate adaptation and disaster risk reduction."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  6.0,
+  10.0
+ ]
+}

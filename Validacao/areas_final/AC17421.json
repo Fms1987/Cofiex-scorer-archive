@@ -1,0 +1,71 @@
+{
+ "id": "AC17421",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "108",
+   "name": "Indigenous and quilombola peoples",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Relevant general and specific objective and participatory ethnodevelopment plan, but the associated indicator is not relevant and only a small share of resources reaches traditional communities."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "C",
+   "points": 2.0,
+   "reason": "General and specific objectives, indicators, targets and relevant resources support sustainable use and restoration in rural areas, with subsidies for sustainable production."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Community networks for fire prevention, rural safety and climate-risk management link to existing civil-protection bodies, but only a small share of resources is focused here."
+  },
+  {
+   "code": "203",
+   "name": "Family farming",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Strong focus on rural producers across all components, with indicators, targets and significant resources for sustainable and resilient production."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Component aims to raise economic sustainability and competitiveness of family farming organizations and traditional communities in their value chains; resources and indicator are limited."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": "E",
+   "points": 0.5,
+   "reason": "On-farm water storage and rural sanitation actions with indicators and targets, but the share of resources is not significant."
+  }
+ ],
+ "not_accepted": [],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the project is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the project promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  7.5,
+  10.0
+ ]
+}

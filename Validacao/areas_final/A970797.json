@@ -1,0 +1,120 @@
+{
+ "id": "A970797",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Formalization, training and calls for creative-economy workers plus an urban-art product; no dedicated product for the area, so impact is minor."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Economic inclusion and female entrepreneurship actions with measurable indicators; low score reflects limited resources and credit in related areas."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Housing upgrades, resettlement, basic services, drainage and public spaces; objectives, components and indicators fit, and it is the main area by impact and resources."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Nature-based solutions and recovery of degraded areas with a specific indicator, but objectives and products are mostly tied to other areas."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Drainage, slope containment and bioengineering reduce landslide risk; indicators sufficient though not fully focused on the area's results."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Vocational training and popular entrepreneurship with measurable indicators; small score due to resources and credit given in correlated areas."
+  },
+  {
+   "code": "101",
+   "name": "Poverty",
+   "level": null,
+   "points": 0.0,
+   "reason": "Poverty-related actions were already credited under more suitable related areas, and no action specifically addresses hunger."
+  },
+  {
+   "code": "112",
+   "name": "Public safety",
+   "level": null,
+   "points": 0.0,
+   "reason": "Insufficient actions, no thematic centrality or consistent indicators; the isolated security-related products do not justify points."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Actions are concentrated in intra-urban areas of a single municipality, so the broader territorial integration the area requires is absent."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Participation was peripheral and not a priority among the specific objectives; insufficient detail."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "101",
+   "name": "Poverty",
+   "reason": "Poverty-related actions were already credited under more suitable related areas, and no action specifically addresses hunger."
+  },
+  {
+   "code": "112",
+   "name": "Public safety",
+   "reason": "Insufficient actions, no thematic centrality or consistent indicators; the isolated security-related products do not justify points."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Actions are concentrated in intra-urban areas of a single municipality, so the broader territorial integration the area requires is absent."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "reason": "Participation was peripheral and not a priority among the specific objectives; insufficient detail."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  7.5,
+  10.0
+ ]
+}

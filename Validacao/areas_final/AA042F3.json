@@ -1,0 +1,144 @@
+{
+ "id": "AA042F3",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "101",
+   "name": "Poverty",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Food insecurity and poverty among family farmers is the project's core focus; relevant component and aligned SMART indicator; impact potential judged moderate."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Women only prioritized as beneficiaries with sex-disaggregated data; no direct actions; indicator merges women and youth, losing specificity; limited impact."
+  },
+  {
+   "code": "108",
+   "name": "Indigenous and quilombola peoples",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Traditional communities are a priority audience, but no clear share of beneficiaries, so resources and impact could not be properly estimated."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Only community fire brigades address the area, in a component of little weight; indicator does not show causality; other mechanisms unclear."
+  },
+  {
+   "code": "203",
+   "name": "Family farming",
+   "level": "C",
+   "points": 2.0,
+   "reason": "High alignment across components, notably technical assistance; relevant resources and well-built SMART indicators; impact potential moderate."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Value-chain objective and business-plan component relate to the area, but the share of resources directly tied is low and impact magnitude is low."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "level": null,
+   "points": 0.0,
+   "reason": "Quilombola communities are a target group, but no anti-racism element, component or indicator was found; minimum criteria not met."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": null,
+   "points": 0.0,
+   "reason": "Strong thematic alignment, but the chosen indicator mixes non-environmental aspects and its target is inconsistent and unrealistic, so impact could not be established."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "level": null,
+   "points": 0.0,
+   "reason": "Agro-industry support does not show a focus on technological industrialization or decarbonization; no aligned components or indicators."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Some relevance through a vulnerable target audience, but no specific actions, resources or indicators on regional inequality."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Support to councils and forums is secondary and detached from a robust strategy; no aligned indicators."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Institutional strengthening of the executing agency exists, but no indicators measure the area, so impact could not be assessed."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "reason": "Quilombola communities are a target group, but no anti-racism element, component or indicator was found; minimum criteria not met."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "reason": "Strong thematic alignment, but the chosen indicator mixes non-environmental aspects and its target is inconsistent and unrealistic, so impact could not be established."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "reason": "Agro-industry support does not show a focus on technological industrialization or decarbonization; no aligned components or indicators."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Some relevance through a vulnerable target audience, but no specific actions, resources or indicators on regional inequality."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "reason": "Support to councils and forums is secondary and detached from a robust strategy; no aligned indicators."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "reason": "Institutional strengthening of the executing agency exists, but no indicators measure the area, so impact could not be assessed."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 0.0,
+   "decision": "não aceito",
+   "reason": "Proponent claimed exclusive alignment with several federal priorities, but a component financing government agency buildings and equipment is ineligible, so resources are not entirely aligned; denied."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  6.5,
+  10.0
+ ]
+}

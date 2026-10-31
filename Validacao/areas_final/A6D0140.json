@@ -1,0 +1,68 @@
+{
+ "id": "A6D0140",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "level": "B",
+   "points": 3.0,
+   "reason": "General and specific objectives directly aligned (expanding access and quality of early-childhood education); indicators linked; over 90% of resources; high impact, efficient solutions."
+  },
+  {
+   "code": "108",
+   "name": "Indigenous and quilombola peoples",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Not directly tied by the general objective, but specific objectives cover riverside-community centers; high potential impact for that population, efficient solutions."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": null,
+   "points": 0.0,
+   "reason": "No direct link between objectives, components or products and the area; only an indirect inclusion effect through education access."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": null,
+   "points": 0.0,
+   "reason": "No explicit policies for women; childcare places only indirectly support female labor-market participation."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "106",
+   "name": "Human rights",
+   "reason": "No direct link between objectives, components or products and the area; only an indirect inclusion effect through education access."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "reason": "No explicit policies for women; childcare places only indirectly support female labor-market participation."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not explicitly request the additional point for federal priority areas."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  4.0,
+  10.0
+ ]
+}

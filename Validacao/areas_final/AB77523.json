@@ -1,0 +1,94 @@
+{
+ "id": "AB77523",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Objectives focus on access to public health, but the contingent credit funds no specific investment; benefit is indirect via making the PPP more attractive; qualified indicators."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Only a specific objective touches women's care; no dedicated resources, but the PPP indirectly enables a maternal-child unit with delivery-related facilities."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Contractual commitment to raise representation of racial and ethnic groups in hospital management gives indirect, localised potential; no specific resources."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "A",
+   "points": 5.0,
+   "reason": "Core area: general objective and the single component are the guarantee of the state's PPP obligations; SMART indicator; large fiscal benefits and high replicability; highly efficient."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": null,
+   "points": 0.0,
+   "reason": "Credit does not directly finance human-rights actions and the inclusion target is not relevant enough for the objective; classified N/A."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Sustainable processes and waste treatment are outside prevention, risk management or climate adaptation; below minimum criteria, N/A."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Renewable generation is indirect and limited to the hospital; the sole indicator is an infrastructure certification and not satisfactory; not relevant nationally; N/A."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "106",
+   "name": "Human rights",
+   "reason": "Credit does not directly finance human-rights actions and the inclusion target is not relevant enough for the objective; classified N/A."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "reason": "Sustainable processes and waste treatment are outside prevention, risk management or climate adaptation; below minimum criteria, N/A."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "reason": "Renewable generation is indirect and limited to the hospital; the sole indicator is an infrastructure certification and not satisfactory; not relevant nationally; N/A."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 1.0,
+   "decision": "aceito",
+   "reason": "Proponent declared resources exclusively for federal priorities; accepted under the new growth-acceleration programme, health axis, as funds are tied to a qualified maternity proposal being reallocated to the PPP."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the project promotes regional integration; no points."
+  }
+ ],
+ "areas_total": [
+  6.5,
+  10.0
+ ]
+}

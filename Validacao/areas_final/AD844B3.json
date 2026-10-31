@@ -1,0 +1,57 @@
+{
+ "id": "AD844B3",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Coherent with cultural and creative-economy objective and a cultural-space component with viable indicator; relatively high impact potential but small resource share, no clear efficiency or innovation."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "High adherence through integrated urban requalification, active mobility and public space; most of the resources go to this component; high impact potential."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Only tangential adherence via green areas and microclimate; indirect link to conservation, very low resource share, little relevant impact, no evidence of efficiency or innovation."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Adherent through tourism-attractiveness objective and visitation indicator with viable targets; only partial link and limited resources, so low impact; no efficiency or innovation evidence."
+  }
+ ],
+ "not_accepted": [],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  5.5,
+  10.0
+ ]
+}

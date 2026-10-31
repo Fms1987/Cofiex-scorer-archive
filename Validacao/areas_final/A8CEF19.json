@@ -1,0 +1,132 @@
+{
+ "id": "A8CEF19",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Not the project's centre, but a specific objective, product and SMART indicator exist; the project spans many areas, so impact is limited."
+  },
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Objective, product and SMART indicator exist, but proportion of resources and the physical target reach only part of the territory, so impact is limited."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Dedicated specific objective and component, well-built SMART indicators, relevant resources and wide benefit across districts through public transport."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Objective and product exist, but the indicator is not SMART, which prevents a finer grading of impact."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Nature-based solutions and risk-area interventions with a specific objective, but the indicator is not SMART and reach is limited."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Specific objective and interoperability products with an adequate SMART indicator, but the resource share is small, limiting reach."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": null,
+   "points": 0.0,
+   "reason": "Revegetation actions exist but no systemic approach, no related specific objective, products or indicators; only secondary effects."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": null,
+   "points": 0.0,
+   "reason": "Industrial-area infrastructure is mentioned, but no strategic focus on productivity or competitiveness in the objectives."
+  },
+  {
+   "code": "209",
+   "name": "Digital inclusion and connectivity",
+   "level": null,
+   "points": 0.0,
+   "reason": "An innovation hub is mentioned, but no strategic focus on digital transformation of the economy or inclusion in the objectives."
+  },
+  {
+   "code": "210",
+   "name": "Logistics and transport",
+   "level": null,
+   "points": 0.0,
+   "reason": "No logistics-efficiency logic for the modes in the area; no specific indicators or targets."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": null,
+   "points": 0.0,
+   "reason": "General objective not relevant; a cadastre-integration product exists but indicators do not clearly show results, so impact cannot be assessed."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "201",
+   "name": "Environment",
+   "reason": "Revegetation actions exist but no systemic approach, no related specific objective, products or indicators; only secondary effects."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "reason": "Industrial-area infrastructure is mentioned, but no strategic focus on productivity or competitiveness in the objectives."
+  },
+  {
+   "code": "209",
+   "name": "Digital inclusion and connectivity",
+   "reason": "An innovation hub is mentioned, but no strategic focus on digital transformation of the economy or inclusion in the objectives."
+  },
+  {
+   "code": "210",
+   "name": "Logistics and transport",
+   "reason": "No logistics-efficiency logic for the modes in the area; no specific indicators or targets."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "reason": "General objective not relevant; a cadastre-integration product exists but indicators do not clearly show results, so impact cannot be assessed."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the project is exclusively aimed at federal PPA priorities; no points."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the project promotes regional integration; no points."
+  }
+ ],
+ "areas_total": [
+  7.0,
+  10.0
+ ]
+}

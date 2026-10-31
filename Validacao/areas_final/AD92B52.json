@@ -1,0 +1,70 @@
+{
+ "id": "AD92B52",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Mobility objective and portfolio of possible interventions; indicators not SMART; resource allocation not determinable; focus only on mobility gives moderate impact; efficacy and innovation unassessable."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Productivity objective and logistics portfolio; indicators not SMART; resources by credit line not provided; narrow economic focus gives low impact."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Specific objective on renewable expansion; indicators not SMART; resources not determinable; eligible project types efficient with moderate impact potential."
+  },
+  {
+   "code": "210",
+   "name": "Logistics and transport",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Objective on transport bottlenecks and resilience; indicators not SMART; resources not determinable; eligible project types efficient with moderate impact potential."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project aligned with the area in principle, but no corresponding indicators or targets, which is decisive for scoring."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Project aligned with the area in principle, but no corresponding indicators or targets, which is decisive for scoring."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities; no information provided on it."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state regional integration; NT repeats the same missing-information reasoning."
+  }
+ ],
+ "areas_total": [
+  2.0,
+  10.0
+ ]
+}

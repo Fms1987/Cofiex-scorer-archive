@@ -1,0 +1,50 @@
+{
+ "id": "AA60329",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "General objective directly aligned; most specific objectives and indicators tied; large resource share; integrated sanitation, drainage, mobility, housing and public spaces give high expected impact."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Relevant general objective, but works relate only indirectly to environmental conservation; a few indicators fit; impact judged low and adherence restricted."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Only a specific objective on training and productive inclusion relates; small resource share; moderate impact potential; adherence limited."
+  }
+ ],
+ "not_accepted": [],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent reported harmony with several PPA priorities, but the NT could not conclude that resources are entirely directed to them."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  4.5,
+  10.0
+ ]
+}

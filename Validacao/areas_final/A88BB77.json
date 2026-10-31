@@ -1,0 +1,202 @@
+{
+ "id": "A88BB77",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "level": "E",
+   "points": 0.5,
+   "reason": "General objective relevant; industrial decarbonization financing with related indicators, but small scale within the programme and indirect link, so restricted adherence."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": "C",
+   "points": 2.0,
+   "reason": "General objective directly aligned; roughly 30% of resources, two objectives and indicators on renewables, efficiency and biofuel credit lines; high expected impact."
+  },
+  {
+   "code": "209",
+   "name": "Digital inclusion and connectivity",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Strong adherence; over 40% of resources on connectivity, digital platforms and industry digitalization credit; high expected impact for digital inclusion."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "D",
+   "points": 1.0,
+   "reason": "General objective directly related; digitalization and interoperability targets for municipalities; moderate impact given the initiatives' relative weight, so limited adherence."
+  },
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": null,
+   "points": 0.0,
+   "reason": "Digital health projects exist in a product, but no specific objectives, indicators or targets measure impact on public health access."
+  },
+  {
+   "code": "104",
+   "name": "Secondary/technical education",
+   "level": null,
+   "points": 0.0,
+   "reason": "Education credit lines exist, but no specific objectives, indicators or targets on education quality."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": null,
+   "points": 0.0,
+   "reason": "Women-led business support is mentioned but not formally linked to components, products, indicators or targets."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Electric bus fleet financing exists, but no specific objectives, indicators or targets on sustainable urban mobility."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Environmental benefits are indirect effects of energy-transition projects, not climate adaptation or risk-management initiatives."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": null,
+   "points": 0.0,
+   "reason": "Potential positive effects on productivity, but no objectives, indicators or targets on productive chains or business environment."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "level": null,
+   "points": 0.0,
+   "reason": "R&D support and research-infrastructure initiatives exist, but no specific objectives, indicators or targets on innovation system impact."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": null,
+   "points": 0.0,
+   "reason": "Jobs indicator does not match the actions; job creation is an indirect effect of energy-transition investments."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Some adherence via lower-development municipalities, but no components, indicators or targets on regional inequality; the elements fit digital government better."
+  },
+  {
+   "code": "215",
+   "name": "Mining",
+   "level": null,
+   "points": 0.0,
+   "reason": "Technological innovation financing in extraction exists, but no objectives, indicators or targets on the sector."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Some adherence, but the elements were credited to the digital government area."
+  },
+  {
+   "code": "305",
+   "name": "International cooperation and regional development",
+   "level": null,
+   "points": 0.0,
+   "reason": "No direct link between green hydrogen and biofuel support and international cooperation."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "reason": "Digital health projects exist in a product, but no specific objectives, indicators or targets measure impact on public health access."
+  },
+  {
+   "code": "104",
+   "name": "Secondary/technical education",
+   "reason": "Education credit lines exist, but no specific objectives, indicators or targets on education quality."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "reason": "Women-led business support is mentioned but not formally linked to components, products, indicators or targets."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "reason": "Electric bus fleet financing exists, but no specific objectives, indicators or targets on sustainable urban mobility."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "reason": "Environmental benefits are indirect effects of energy-transition projects, not climate adaptation or risk-management initiatives."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "reason": "Potential positive effects on productivity, but no objectives, indicators or targets on productive chains or business environment."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "reason": "R&D support and research-infrastructure initiatives exist, but no specific objectives, indicators or targets on innovation system impact."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "reason": "Jobs indicator does not match the actions; job creation is an indirect effect of energy-transition investments."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Some adherence via lower-development municipalities, but no components, indicators or targets on regional inequality; the elements fit digital government better."
+  },
+  {
+   "code": "215",
+   "name": "Mining",
+   "reason": "Technological innovation financing in extraction exists, but no objectives, indicators or targets on the sector."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "reason": "Some adherence, but the elements were credited to the digital government area."
+  },
+  {
+   "code": "305",
+   "name": "International cooperation and regional development",
+   "reason": "No direct link between green hydrogen and biofuel support and international cooperation."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  6.5,
+  10.0
+ ]
+}

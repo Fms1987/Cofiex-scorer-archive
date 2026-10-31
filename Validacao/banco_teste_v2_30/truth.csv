@@ -1,0 +1,31 @@
+pleito_id,categoria,tipo_ente,resultado,nota_geral,ae,capag,divida,idh
+255673713,Federal – Empresa Estatal,Federal,Aprovado,4.5,4.5,,,
+6922493901,Federal – Administração Direta,Federal,Aprovado,9.5,9.5,,,
+2663785330,Subnacional – Geral,Estadual,Aprovado,13.166,6.0,,,
+3965484231,Subnacional – Geral,Estadual,Aprovado,11.906,7.5,,,
+8440730401,Subnacional – Geral,Estadual,Aprovado,10.0,6.5,1.0,0.5,2.0
+5864638957,Subnacional – Geral,Estadual,Aprovado,10.75,6.5,,,
+6552151988,Subnacional – Geral,Municipal,Não aprovado,7.092,5.0,,,
+6615074997,Subnacional – Geral,Municipal,Aprovado,10.041,7.0,0.5,0.75,1.791
+2059210710,Subnacional – Geral,Municipal,Aprovado parcialmente,8.589,6.5,0.0,0.75,1.339
+4485307307,Subnacional – Geral,Municipal,Aprovado,9.849,7.0,0.5,0.75,1.599
+7686339262,Subnacional – Geral,Municipal,Aprovado,11.945,8.5,1.0,0.75,1.695
+9314768107,Subnacional – Geral,Municipal,Aprovado,8.651,5.0,1.5,0.75,1.401
+7788406591,Subnacional – Geral,Municipal,Aprovado,9.103,6.0,0.5,0.75,1.853
+3090938102,Subnacional – PPP,Estadual,Aprovado,5.702,3.5,0.5,0.5,1.202
+4713068623,Subnacional – Operações em R$,Estadual,Aprovado,9.461,6.0,1.0,0.5,1.961
+5911407114,Subnacional – Operações em R$,Estadual,Aprovado,9.211,6.0,0.5,0.75,1.961
+874692895,Subnacional – Fiscal,Estadual,Aprovado,10.405,6.5,1.5,0.75,1.655
+6544589522,Subnacional – Ambiental e Climático,Municipal,Aprovado,7.352,5.0,0.5,0.75,1.102
+7731025374,Subnacional – Operações em R$,Municipal,Aprovado,10.314,6.5,2.0,0.75,1.064
+5904123987,Subnacional – Reestruturação de Dívidas,Municipal,Aprovado,5.613,3.5,0.0,0.75,1.363
+9194096568,Federal – Administração Direta,Federal,Aprovado,2.0,2.0,,,
+7762622899,Subnacional – Geral,Estadual,Aprovado,8.726,6.5,0.5,0.5,1.226
+3814936734,Subnacional – Geral,Estadual,Aprovado,11.562,8.0,1.0,0.75,1.812
+9188548484,Subnacional – Geral,Municipal,Aprovado,10.206,6.5,1.5,0.5,1.706
+5502586403,Subnacional – Geral,Municipal,Não aprovado,9.754,7.0,,,
+2364216778,Subnacional – Geral,Municipal,Aprovado,10.196,7.5,0.5,0.75,1.446
+9102009723,Subnacional – Fiscal,Estadual,Aprovado,9.904,7.0,0.0,1.0,1.904
+1010106881,Subnacional – Operações em R$,Estadual,Aprovado,9.485,6.5,1.0,0.5,1.485
+5309374312,Subnacional – Ambiental e Climático,Municipal,Aprovado,9.925,7.0,1.0,0.75,1.175
+9443031498,Subnacional – Reestruturação de Dívidas,Municipal,Aprovado,5.707,3.0,0.5,0.75,1.457

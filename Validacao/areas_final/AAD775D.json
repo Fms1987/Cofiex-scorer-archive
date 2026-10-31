@@ -1,0 +1,154 @@
+{
+ "id": "AAD775D",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "107",
+   "name": "Women",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Gender action plan directly aligned; SMART housing-equity indicator with high impact potential; but no significant resources specifically allocated to the area."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Strongly aligned, with consistent technical structure; nearly all resources go to the area; flood mitigation, nature-based solutions and public spaces; high impact potential."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Strong adherence through ecological recovery, nature-based solutions and measurable indicators; positive impacts, though not top level."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Components target risk mitigation and resilience, including a climate plan; almost all resources, shared with other areas; high impact potential, level C assigned."
+  },
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only one product (a heritage square design) relates; no indicators or targets and a small resource share (under 10%) reduce impact."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": null,
+   "points": 0.0,
+   "reason": "No components, indicators or targets; only a discreet link through a gender action plan, insufficient for points."
+  },
+  {
+   "code": "108",
+   "name": "Indigenous and quilombola peoples",
+   "level": null,
+   "points": 0.0,
+   "reason": "No correlation with objectives, components, indicators, targets or resources."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "level": null,
+   "points": 0.0,
+   "reason": "Broad social-inclusion actions only; no specific objectives, indicators, components or resources on racial equality."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": null,
+   "points": 0.0,
+   "reason": "Green leisure spaces might encourage activity, but no product, indicator, target or resource ties directly to the area."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": null,
+   "points": 0.0,
+   "reason": "No objectives, products, indicators or resources on employment or productive inclusion."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "No significant energy security, clean-source or efficiency actions; sustainable housing is localised and minor."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Gender and socioeconomic equity mentions lack territorial approach; no indicators, products or resources on regional inequality."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "reason": "Only one product (a heritage square design) relates; no indicators or targets and a small resource share (under 10%) reduce impact."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "reason": "No components, indicators or targets; only a discreet link through a gender action plan, insufficient for points."
+  },
+  {
+   "code": "108",
+   "name": "Indigenous and quilombola peoples",
+   "reason": "No correlation with objectives, components, indicators, targets or resources."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "reason": "Broad social-inclusion actions only; no specific objectives, indicators, components or resources on racial equality."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "reason": "Green leisure spaces might encourage activity, but no product, indicator, target or resource ties directly to the area."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "reason": "No objectives, products, indicators or resources on employment or productive inclusion."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "reason": "No significant energy security, clean-source or efficiency actions; sustainable housing is localised and minor."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Gender and socioeconomic equity mentions lack territorial approach; no indicators, products or resources on regional inequality."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "NT states proponent did not declare it; its review found that a share of resources lacks a direct link to climate emergency response, so not entirely aligned."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not claim it; the location is not in the border strip."
+  }
+ ],
+ "areas_total": [
+  7.5,
+  10.0
+ ]
+}

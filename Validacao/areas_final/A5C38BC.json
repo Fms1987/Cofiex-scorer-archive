@@ -1,0 +1,113 @@
+{
+ "id": "A5C38BC",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "107",
+   "name": "Women",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Specific objective, product and indicator on support network, specialized care and economic autonomy of women; very small resources and low-relevance impact give minimal level."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Integrated mobility, urban infrastructure, green infrastructure and social protection actions; relevant indicators and targets; significant resources concentrated here; high impact."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Specific objective on green areas, a new municipal park, reforestation and recovery of degraded areas, with aligned indicators and relevant resources; general objective only indirectly related; moderate impact."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Requalification of a drainage channel to reduce recurrent flooding; reasonable but not very relevant indicator and feasible target; resources not precisely identified, so low impact."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Productive inclusion, training and microcredit for small local ventures; indicators compatible but not very relevant; impact limited by scale of investment and beneficiaries."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": null,
+   "points": 0.0,
+   "reason": "Focus is narrowly on women's protection policies; no broad human-rights objectives, indicators or resources covering other groups."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": null,
+   "points": 0.0,
+   "reason": "Related objective exists but actions are not clearly targeted at low-income people; no specific components or indicators and low resource share."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "level": null,
+   "points": 0.0,
+   "reason": "No objectives, indicators, targets or resources directed at tourism development."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Actions are local; no mechanisms, objectives, indicators or resources aimed at reducing disparities between regions."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "106",
+   "name": "Human rights",
+   "reason": "Focus is narrowly on women's protection policies; no broad human-rights objectives, indicators or resources covering other groups."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "reason": "Related objective exists but actions are not clearly targeted at low-income people; no specific components or indicators and low resource share."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "reason": "No objectives, indicators, targets or resources directed at tourism development."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Actions are local; no mechanisms, objectives, indicators or resources aimed at reducing disparities between regions."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities; no points."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not indicate regional integration; no points."
+  }
+ ],
+ "areas_total": [
+  6.0,
+  10.0
+ ]
+}

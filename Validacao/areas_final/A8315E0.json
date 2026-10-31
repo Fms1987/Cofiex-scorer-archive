@@ -1,0 +1,148 @@
+{
+ "id": "A8315E0",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": "D",
+   "points": 1.0,
+   "reason": "General objective not directly related; health infrastructure products and a digital health project contribute, but resource share is small and impact moderate."
+  },
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "level": "D",
+   "points": 1.0,
+   "reason": "School and nursery construction and refurbishment contribute via a specific objective; small resource share and moderate impact."
+  },
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Cultural-space refurbishment and a covered market extension contribute; very small resource share and an indicator of limited design."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "C",
+   "points": 2.0,
+   "reason": "General objective directly aligned; about 30% of resources on land regularization, waste, parks, drainage and road works; high expected impact."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Sports centre refurbishment and a citizenship facility contribute; very small resource share and an indicator of limited design."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Urban parks with preservation of springs and green-area expansion are only indirectly related, as the parks were mainly credited to urban-cities area."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Storm drainage network and flood-exposure indicator, but no information on resources allocated to drainage, which weakens the impact assessment."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Solar generation on public buildings and landfill biogas; low reach concentrated on public buildings and small resource share."
+  },
+  {
+   "code": "210",
+   "name": "Logistics and transport",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Airport modernization supports regional integration and cargo and passenger flights; weak indicator and small resource share limit impact."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Administrative centre, fiscal modernization and digital city products; only one indicator, so moderate impact and limited adherence."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": null,
+   "points": 0.0,
+   "reason": "No components, indicators or impacts directly tied to the area; land regularization was credited to urban-cities area instead."
+  },
+  {
+   "code": "203",
+   "name": "Family farming",
+   "level": null,
+   "points": 0.0,
+   "reason": "Expansion of local farming could not be tied to the covered-market works, which were credited to the creative-economy area."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No related components or indicators; the digital-city product was credited to digital government."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": null,
+   "points": 0.0,
+   "reason": "No direct link between the market works and job creation or productive inclusion of the poorest."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "106",
+   "name": "Human rights",
+   "reason": "No components, indicators or impacts directly tied to the area; land regularization was credited to urban-cities area instead."
+  },
+  {
+   "code": "203",
+   "name": "Family farming",
+   "reason": "Expansion of local farming could not be tied to the covered-market works, which were credited to the creative-economy area."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "reason": "No related components or indicators; the digital-city product was credited to digital government."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "reason": "No direct link between the market works and job creation or productive inclusion of the poorest."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  8.5,
+  10.0
+ ]
+}

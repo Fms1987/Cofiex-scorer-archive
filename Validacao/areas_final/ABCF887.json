@@ -1,0 +1,82 @@
+{
+ "id": "ABCF887",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Only historic-building revitalisation touches cultural memory; single non-SMART indicator; very small resource share; little impact; efficiency not confirmed."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "General objective directly related; mobility and drainage components; relevant indicators with achievable targets; most resources go to the area; high impact; efficient but not innovative."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Two related specific objectives and a vegetation-cover indicator; small to moderate resource share for spring recovery and ecological parks; localised actions, low impact; efficient measures."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Urban and climate resilience objective with drainage and flooding indicators; relevant resource share; works concentrate on drainage without broad adaptation, so low strategic impact; efficient, not innovative."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "General objective unrelated; one pertinent specific objective but its vegetation-cover indicator is insufficient; small resource share, limited reach; actions not deemed efficient or innovative."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Objective relevant but the training indicator does not capture service impact; under a small resource share, limited reach; courses and equipment not deemed efficient or innovative."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "212",
+   "name": "Water security",
+   "reason": "General objective unrelated; one pertinent specific objective but its vegetation-cover indicator is insufficient; small resource share, limited reach; actions not deemed efficient or innovative."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "reason": "Objective relevant but the training indicator does not capture service impact; under a small resource share, limited reach; courses and equipment not deemed efficient or innovative."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state exclusive aim at federal priorities; no points."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not indicate regional integration; no points."
+  }
+ ],
+ "areas_total": [
+  5.5,
+  10.0
+ ]
+}

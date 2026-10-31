@@ -1,0 +1,190 @@
+{
+ "id": "A5338BE",
+ "regime": "R17_2021",
+ "outcome": "withdrawn",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Programme brings potable water and sewerage to several localities, with clear positive impact on sanitation."
+  },
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Link to sanitation is indirect; no explicit affirmative environmental-sustainability policy beyond sanitation and energy efficiency."
+  },
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Solar power is a complementary feature of small relevance, not the project focus."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific direct actions; indirect treatment is insufficient."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific actions."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Benefits mentioned but only indirect; insufficient."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "level": null,
+   "points": 0.0,
+   "reason": "Benefits mentioned but only indirect; insufficient."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "Benefits mentioned but only indirect; insufficient."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "Infrastructure in under-served areas is an indirect sanitation benefit, not action aimed at low-income groups."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific inclusion actions."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific policies."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Sanitation service improvement is not differentiated or innovative enough."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "level": null,
+   "points": 0.0,
+   "reason": "Health benefit of sanitation already credited under 1.3; other effects are indirect."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "level": null,
+   "points": 0.0,
+   "reason": "Solar adoption is energy efficiency, not a sector innovation."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific financing arrangements for private participation."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "reason": "Link to sanitation is indirect; no explicit affirmative environmental-sustainability policy beyond sanitation and energy efficiency."
+  },
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "reason": "Solar power is a complementary feature of small relevance, not the project focus."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "reason": "No specific direct actions; indirect treatment is insufficient."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "reason": "No specific actions."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "reason": "Benefits mentioned but only indirect; insufficient."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "reason": "Benefits mentioned but only indirect; insufficient."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "reason": "Benefits mentioned but only indirect; insufficient."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "reason": "Infrastructure in under-served areas is an indirect sanitation benefit, not action aimed at low-income groups."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "reason": "No specific inclusion actions."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "reason": "No specific policies."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "reason": "Sanitation service improvement is not differentiated or innovative enough."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "reason": "Health benefit of sanitation already credited under 1.3; other effects are indirect."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "reason": "Solar adoption is energy efficiency, not a sector innovation."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "reason": "No specific financing arrangements for private participation."
+  }
+ ],
+ "bonus": [],
+ "areas_total": [
+  0.133,
+  2.0
+ ]
+}

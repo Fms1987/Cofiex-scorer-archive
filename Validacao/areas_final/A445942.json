@@ -1,0 +1,175 @@
+{
+ "id": "A445942",
+ "regime": "R17_2021",
+ "outcome": "withdrawn",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Emission-measurement stations are a monitoring tool for the reduction expected from collective and non-motorized transport products."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Stormwater drainage works including pumping stations."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "level": null,
+   "points": 0.133,
+   "reason": "Urban logistics improvement and infrastructure investment boost the economy of a dry-port area, with a mobility and logistics lab and observatory."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Mobility and logistics observatory and lab bring management innovation and digitalization to public services."
+  },
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "level": null,
+   "points": 0.0,
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "level": null,
+   "points": 0.0,
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "level": null,
+   "points": 0.0,
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "level": null,
+   "points": 0.0,
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "level": null,
+   "points": 0.0,
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Proponent provided no information to score."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "reason": "Proponent provided no information to score."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "reason": "Proponent provided no information to score."
+  }
+ ],
+ "bonus": [],
+ "areas_total": [
+  0.532,
+  2.0
+ ]
+}

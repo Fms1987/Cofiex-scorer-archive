@@ -1,0 +1,111 @@
+{
+ "id": "A891D86",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "D",
+   "points": 1.0,
+   "reason": "A component on tax administration relates to business environment and the indicators are suitable, but the area is not central and the resource share is modest, so impact is low."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "C",
+   "points": 2.0,
+   "reason": "General and specific objectives directly related; all components include digital products, a digital-service indicator, viable targets and a relevant resource share, giving high impact."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Core objective of the programme; most components and about half of resources fit, with several SMART indicators; high impact but not exceptional."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": null,
+   "points": 0.0,
+   "reason": "General objective unrelated; the single women-related indicator does not match the stated specific objective and the resource share is tiny, so minimum criteria are not met."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only a minor solar-generation item on the proponent's own premises; negligible resources and negligible societal impact."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only rainwater harvesting in a few service units; minimal resources and irrelevant impact on water security."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Transparency product exists, but the indicator measures executive-wide governance rather than fiscal transparency, and the resource share is small."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Objective and components fit and impact potential is high, but the indicators cited are better aligned with other areas, so no pertinent indicator exists."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "107",
+   "name": "Women",
+   "reason": "General objective unrelated; the single women-related indicator does not match the stated specific objective and the resource share is tiny, so minimum criteria are not met."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "reason": "Only a minor solar-generation item on the proponent's own premises; negligible resources and negligible societal impact."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "reason": "Only rainwater harvesting in a few service units; minimal resources and irrelevant impact on water security."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "reason": "Transparency product exists, but the indicator measures executive-wide governance rather than fiscal transparency, and the resource share is small."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "reason": "Objective and components fit and impact potential is high, but the indicators cited are better aligned with other areas, so no pertinent indicator exists."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities; no points."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration; no points."
+  }
+ ],
+ "areas_total": [
+  6.0,
+  10.0
+ ]
+}

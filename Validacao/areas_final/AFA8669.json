@@ -1,0 +1,89 @@
+{
+ "id": "AFA8669",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Priority school audience; general and specific objectives, relevant resources, SMART indicators and an education component; moderate impact; innovative non-formal education practice."
+  },
+  {
+   "code": "104",
+   "name": "Secondary/technical education",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Same context as basic education, with indicators and resources, but lower impact because the local school network centres on earlier levels."
+  },
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Aligned on memory and cultural diversity, but components, robust indicators and resources only partly evidenced; moderate impact."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Aligned objectives, scientific equipment products and significant resources; the related indicator is not relevant to impact; moderate impact; innovative elements."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Weak contribution to service quality and tourism; components, products and indicators fragile; resources unclear; efficiency and innovation not consistently shown."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": null,
+   "points": 0.0,
+   "reason": "No evidence of direct, expressive contribution; no objectives, indicators, targets or resources meeting minimum criteria."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Components and indicators address local social inequality, not regional inequality; structure insufficient to measure results."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "reason": "No evidence of direct, expressive contribution; no objectives, indicators, targets or resources meeting minimum criteria."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Components and indicators address local social inequality, not regional inequality; structure insufficient to measure results."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  5.5,
+  10.0
+ ]
+}

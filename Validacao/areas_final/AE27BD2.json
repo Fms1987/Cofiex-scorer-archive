@@ -1,0 +1,116 @@
+{
+ "id": "AE27BD2",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Core objective of expanding early-childhood access and quality, with infrastructure, quality standards and teacher training; indicators aligned and nearly all resources serve it."
+  },
+  {
+   "code": "108",
+   "name": "Indigenous and quilombola peoples",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Riverside-community education centers give meaningful access, but no direct link of the general objective to the area."
+  },
+  {
+   "code": "101",
+   "name": "Poverty",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only indirect benefit via school meals; no components, products, goals or resources directly tied to the area."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": null,
+   "points": 0.0,
+   "reason": "No direct correlation with the general objective; contribution is only collateral through wider school access."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only indirect, secondary contribution via caregivers' labor-market entry; no resources for specific women's policies."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only a teacher-training goal touches the theme indirectly; resources minimal and no specific goals."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": null,
+   "points": 0.0,
+   "reason": "Sustainable construction practices are instrumental; no indicators measure environmental results."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Impacts are local to the municipality; no regional-scale intervention reducing inter-regional inequality."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "101",
+   "name": "Poverty",
+   "reason": "Only indirect benefit via school meals; no components, products, goals or resources directly tied to the area."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "reason": "No direct correlation with the general objective; contribution is only collateral through wider school access."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "reason": "Only indirect, secondary contribution via caregivers' labor-market entry; no resources for specific women's policies."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "reason": "Only a teacher-training goal touches the theme indirectly; resources minimal and no specific goals."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "reason": "Sustainable construction practices are instrumental; no indicators measure environmental results."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Impacts are local to the municipality; no regional-scale intervention reducing inter-regional inequality."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 1.0,
+   "decision": "aceito",
+   "reason": "Resources go entirely to basic education, a PPA priority, mostly to early-childhood access and full-time schooling."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the project promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  4.0,
+  10.0
+ ]
+}

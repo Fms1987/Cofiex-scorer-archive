@@ -1,0 +1,175 @@
+{
+ "id": "A3231A0",
+ "regime": "R17_2021",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Sewer network expansion, energy reuse of treatment residues, lower methane emissions and better source-water quality."
+  },
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "level": null,
+   "points": 0.133,
+   "reason": "Specific product: sludge-to-energy plant to supply the treatment plant's own demand, i.e. alternative renewable generation."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Important component expanding the sewage network with collectors, household connections, pumping and treatment stations."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "level": null,
+   "points": 0.133,
+   "reason": "Water-analysis laboratory upgrade, water-quality monitoring programme and lake cleaning that improves aquatic habitat."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "level": null,
+   "points": 0.0,
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "level": null,
+   "points": 0.0,
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "level": null,
+   "points": 0.0,
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "level": null,
+   "points": 0.0,
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "level": null,
+   "points": 0.0,
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Not among the criteria accepted by the NT."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "reason": "Not among the criteria accepted by the NT."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "reason": "Not among the criteria accepted by the NT."
+  }
+ ],
+ "bonus": [],
+ "areas_total": [
+  0.532,
+  2.0
+ ]
+}

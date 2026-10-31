@@ -1,0 +1,68 @@
+{
+ "id": "A41E941",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Mobility objective directly tied to sustainable mobility; two components with viable indicators and targets (travel time, crowding, accessible sidewalks); resource share above 90%; high impact."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Relevant through emissions reduction, fleet electrification, active mobility and nature-based solutions (about a third of resources); indicators not fully SMART; limited reach gives low impact."
+  },
+  {
+   "code": "211",
+   "name": "Trade",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only partly pertinent; indicators measure cross-border freight only, not export expansion or diversification; no resource allocation evidenced, so impact could not be assessed."
+  },
+  {
+   "code": "305",
+   "name": "International cooperation and regional development",
+   "level": null,
+   "points": 0.0,
+   "reason": "Logistics-integration component is aligned, but indicators measure freight only and targets were judged unviable; bridge and access works contribute only partially, so low impact."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "211",
+   "name": "Trade",
+   "reason": "Only partly pertinent; indicators measure cross-border freight only, not export expansion or diversification; no resource allocation evidenced, so impact could not be assessed."
+  },
+  {
+   "code": "305",
+   "name": "International cooperation and regional development",
+   "reason": "Logistics-integration component is aligned, but indicators measure freight only and targets were judged unviable; bridge and access works contribute only partially, so low impact."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the program is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": true,
+   "points": 1.0,
+   "decision": "aceito",
+   "reason": "Border location makes the city strategic for regional integration and agricultural exports; the saturated road link is addressed, with objectives and indicators on cross-border cargo and people flows."
+  }
+ ],
+ "areas_total": [
+  4.0,
+  10.0
+ ]
+}

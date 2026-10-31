@@ -1,0 +1,70 @@
+{
+ "id": "AA41914",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Objectives, components and SMART indicators directly tied; most resources go here; high impact potential relative to target audience; efficient solutions (new places, learning quality, full-time schooling)."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Relevant general objective, specific objective, products and SMART indicators on racial learning gaps, but small resource share and low impact potential; efficient solutions."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Specific objective and products (sustainable school buildings) tied to the area; indicator weakly relevant; main purpose of works is more school places, so impact is limited."
+  },
+  {
+   "code": "209",
+   "name": "Digital inclusion and connectivity",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Specific objective, components and SMART indicators (technology equipment, digital skills); relevant resources and efficient solutions; moderate impact potential."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": null,
+   "points": 0.0,
+   "reason": "Some gender-oriented action and a low-relevance indicator exist, but no specific objective directly tied to the area; minimum criteria not reached."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "107",
+   "name": "Women",
+   "reason": "Some gender-oriented action and a low-relevance indicator exist, but no specific objective directly tied to the area; minimum criteria not reached."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state exclusive alignment with federal PPA priorities; no points."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  6.0,
+  10.0
+ ]
+}

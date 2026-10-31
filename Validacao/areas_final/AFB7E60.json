@@ -1,0 +1,94 @@
+{
+ "id": "AFB7E60",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "203",
+   "name": "Family farming",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Relevant general and specific objectives and indicators for small producers and small firms; superficial description of beneficiary segments and products limits adherence."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Objectives on credit access, productivity and jobs in local value chains, business-environment indicators, significant resources, moderate impact; superficial beneficiary description limits score."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Objectives and indicators on productive inclusion of low-income small producers and firms; relevant resources, moderate impact if targeting is implemented; weak component structure limits score."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Some alignment through operation in vulnerable areas and credit-volume indicator there, but superficial elements to assess comparative reduction of regional disparities."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific indicators on conservation, restoration or sustainable use; metrics focus on productivity, credit access and income."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No explicit risk prevention or climate adaptation actions, components or metrics."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "level": null,
+   "points": 0.0,
+   "reason": "No objectives, actions or indicators on industrial modernization, emissions reduction or clean technology."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "201",
+   "name": "Environment",
+   "reason": "No specific indicators on conservation, restoration or sustainable use; metrics focus on productivity, credit access and income."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "reason": "No explicit risk prevention or climate adaptation actions, components or metrics."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "reason": "No objectives, actions or indicators on industrial modernization, emissions reduction or clean technology."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  3.5,
+  10.0
+ ]
+}

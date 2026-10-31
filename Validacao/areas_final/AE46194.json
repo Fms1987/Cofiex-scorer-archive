@@ -1,0 +1,137 @@
+{
+ "id": "AE46194",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "107",
+   "name": "Women",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Specific objective and two products target women, with a related indicator, but resources are small and impact limited."
+  },
+  {
+   "code": "108",
+   "name": "Indigenous and quilombola peoples",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Specific objective, products and indicator for these communities, but small resource share and products sit in broad components; limited impact."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Low-income internet-access objective and public access points relate to the area, but not the project's core; small resources, limited impact."
+  },
+  {
+   "code": "209",
+   "name": "Digital inclusion and connectivity",
+   "level": "A",
+   "points": 5.0,
+   "reason": "Central objective with high-speed backbone and connectivity components, direct indicators and the majority of resources; transformative impact and highly efficient solutions."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Government digital infrastructure, cybersecurity, data center and digital-service products with indicators; high impact but only a limited resource share."
+  },
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": null,
+   "points": 0.0,
+   "reason": "Spreading internet to health facilities alone does not give specific objectives, products and indicators for the area."
+  },
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "level": null,
+   "points": 0.0,
+   "reason": "Connecting schools alone does not meet the minimum criteria; no specific objectives, products or indicators."
+  },
+  {
+   "code": "104",
+   "name": "Secondary/technical education",
+   "level": null,
+   "points": 0.0,
+   "reason": "Connecting institutions alone does not meet the minimum criteria for the area."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": null,
+   "points": 0.0,
+   "reason": "Relation recognized, but overlaps with the women and indigenous/quilombola areas, avoiding double counting."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": null,
+   "points": 0.0,
+   "reason": "Spreading internet alone does not meet the minimum criteria; no specific objectives, products or indicators."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": null,
+   "points": 0.0,
+   "reason": "Related actions already counted under state capacity; nothing additional to avoid double counting."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "reason": "Spreading internet to health facilities alone does not give specific objectives, products and indicators for the area."
+  },
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "reason": "Connecting schools alone does not meet the minimum criteria; no specific objectives, products or indicators."
+  },
+  {
+   "code": "104",
+   "name": "Secondary/technical education",
+   "reason": "Connecting institutions alone does not meet the minimum criteria for the area."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "reason": "Relation recognized, but overlaps with the women and indigenous/quilombola areas, avoiding double counting."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "reason": "Spreading internet alone does not meet the minimum criteria; no specific objectives, products or indicators."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "reason": "Related actions already counted under state capacity; nothing additional to avoid double counting."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the resources are exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the project promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  8.5,
+  10.0
+ ]
+}

@@ -1,0 +1,228 @@
+{
+ "id": "A293AD8",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "107",
+   "name": "Women",
+   "level": "E",
+   "points": 0.5,
+   "reason": "One related specific objective, a training pilot product and an indicator not fully SMART; no clear resource allocation; low impact given the target audience."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Relevant general objective on safe, resilient, sustainable transport; two related specific objectives; most of one component attributable; some non-SMART indicators; moderate impact."
+  },
+  {
+   "code": "112",
+   "name": "Public safety",
+   "level": "E",
+   "points": 0.5,
+   "reason": "General objective not relevant, but two related specific objectives and road-safety equipment products; minimal resource share; low impact yet efficient."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "One related specific objective, a climate-resilience product and an indicator not fully SMART; clearly identified but minimal resources; little impact, efficiency not shown."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Indirect general objective, one related specific objective, road works product, non-SMART indicator, resources identified; moderate impact but efficiency not demonstrated."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Relevant general objective, related specific objective and a drainage-focused product; non-SMART indicator, no clear resource allocation; low impact since effects are limited to rainwater handling."
+  },
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "108",
+   "name": "Indigenous and quilombola peoples",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "General objective relevant, but no specific objectives, indicators or targets, no clear resource allocation; low impact and efficiency not shown."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": null,
+   "points": 0.0,
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "108",
+   "name": "Indigenous and quilombola peoples",
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "General objective relevant, but no specific objectives, indicators or targets, no clear resource allocation; low impact and efficiency not shown."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "reason": "No specific objectives, components, products, indicators or resources linked to the area."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "No information provided on alignment with federal administration priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "No information provided; NT reuses the federal-priorities wording for this bonus."
+  }
+ ],
+ "areas_total": [
+  5.0,
+  10.0
+ ]
+}

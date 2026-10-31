@@ -1,0 +1,139 @@
+{
+ "id": "A9D22D9",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "107",
+   "name": "Women",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Gender-inclusion actions in several products and a dedicated indicator, but a very small resource share makes it an inclusive measure rather than a policy reinforcement."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Racial-equity actions in several products and a dedicated indicator, but small resources; inclusive measure rather than structural, cross-cutting action."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Technology-modernization and biotechnology park products relate directly; indicators and targets viable, but about a tenth of resources, so moderate impact."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Directly tied to the general objective, a main component, many products and most indicators; resource share is moderate, solutions efficient and innovative."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Innovation ecosystem, AI centre and human-capital products with viable targets, but a small resource share gives low impact."
+  },
+  {
+   "code": "210",
+   "name": "Logistics and transport",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Logistics efficiency component and road indicators, but the project is restricted to road transport, not the modes named in the area; limited impact."
+  },
+  {
+   "code": "211",
+   "name": "Trade",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Addresses export concentration and low value added with relevant products and indicators, but a very small resource share gives low impact."
+  },
+  {
+   "code": "203",
+   "name": "Family farming",
+   "level": null,
+   "points": 0.0,
+   "reason": "Relation to family farming only inferred; no components, products or indicators specifically targeting the area, so impact could not be assessed."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": null,
+   "points": 0.0,
+   "reason": "Jobs for the poorest are only a subsidiary consequence; no specific objectives, components, products, indicators or targets."
+  },
+  {
+   "code": "209",
+   "name": "Digital inclusion and connectivity",
+   "level": null,
+   "points": 0.0,
+   "reason": "General objective not related to digital transformation or connectivity; a few digital products and indicators exist but with low resource share the area was not scored."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Area is read as inequality between Brazilian regions; road works within a single state do not meet the minimum."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Declared products create new structures rather than improve state self-management; no related objectives, components, products, indicators or targets."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "203",
+   "name": "Family farming",
+   "reason": "Relation to family farming only inferred; no components, products or indicators specifically targeting the area, so impact could not be assessed."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "reason": "Jobs for the poorest are only a subsidiary consequence; no specific objectives, components, products, indicators or targets."
+  },
+  {
+   "code": "209",
+   "name": "Digital inclusion and connectivity",
+   "reason": "General objective not related to digital transformation or connectivity; a few digital products and indicators exist but with low resource share the area was not scored."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Area is read as inequality between Brazilian regions; road works within a single state do not meet the minimum."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "reason": "Declared products create new structures rather than improve state self-management; no related objectives, components, products, indicators or targets."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  6.5,
+  10.0
+ ]
+}

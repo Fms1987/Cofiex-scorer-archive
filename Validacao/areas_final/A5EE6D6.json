@@ -1,0 +1,77 @@
+{
+ "id": "A5EE6D6",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Directly aligned: road requalification and urban drainage; objectives, indicators, components and resources relevant; proponent did not clarify whether impacts are structuring or transformative."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Relevant objectives and indicators, but only a very small share of resources is allocated, which drives the lowest level and impact."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Related objectives, high impact and efficient measures; no dedicated components, only products on disaster prevention and slope recovery."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Relevant objectives, indicators and targets on urban services oriented to tourism, but only a small resource share, giving lowest level and impact."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Relevant objectives and innovative digital public services, but only a small resource share, so lowest level and impact."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Municipal institutional strengthening is relevant but its effects are indirect and fit better under digital government; no indicators or targets showing direct contribution."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "302",
+   "name": "State capacity",
+   "reason": "Municipal institutional strengthening is relevant but its effects are indirect and fit better under digital government; no indicators or targets showing direct contribution."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent cited the Annex II strategic areas as priorities rather than those listed in art. 15 par.3, so the additional point was precluded."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent is not located in the border strip, so the criterion is not met."
+  }
+ ],
+ "areas_total": [
+  6.5,
+  10.0
+ ]
+}

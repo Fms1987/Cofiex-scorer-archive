@@ -1,0 +1,180 @@
+{
+ "id": "AA10D78",
+ "regime": "R17_2021",
+ "outcome": "withdrawn",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Reforestation as compensation for works and agricultural reuse of sewage sludge as fertilizer reduce chemical fertilizer use."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Expansion and upgrading of sewerage systems to raise urban sewerage coverage."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "level": null,
+   "points": 0.133,
+   "reason": "Native-species reforestation in a very-high-priority conservation area, with maintenance until vegetation establishes."
+  },
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Proponent presented no information to score the criterion."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "Water-security benefits are indirect effects of sewerage works; no integrated water-resources management actions exist."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Information insufficient; could not conclude that sludge reuse creates new business opportunities."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "level": null,
+   "points": 0.0,
+   "reason": "Cost savings for farmers using sludge are not a reasonable justification for the criterion."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "A professional course for women could not be shown to generate jobs and income in the intervention areas."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "No infrastructure or facilities specifically aimed at low-income groups; community engagement activities do not qualify."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Social-tariff enrollment activities only; no actual tariff adoption planned, so inclusion effect is indirect."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "level": null,
+   "points": 0.0,
+   "reason": "Training course for women is not an effective inclusion measure compared with e.g. hiring in works."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Community relations programme shows no significant innovation or improvement in service delivery; information insufficient."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "level": null,
+   "points": 0.0,
+   "reason": "Environmental education activities not shown to yield direct education benefits in the strict sense."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "level": null,
+   "points": 0.0,
+   "reason": "Museum equipment upgrade not shown to generate technological development or innovation."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Intention to use performance, turnkey or leasing contract models wherever possible was considered insufficient."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "reason": "Proponent presented no information to score the criterion."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "reason": "Water-security benefits are indirect effects of sewerage works; no integrated water-resources management actions exist."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "reason": "Information insufficient; could not conclude that sludge reuse creates new business opportunities."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "reason": "Cost savings for farmers using sludge are not a reasonable justification for the criterion."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "reason": "A professional course for women could not be shown to generate jobs and income in the intervention areas."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "reason": "No infrastructure or facilities specifically aimed at low-income groups; community engagement activities do not qualify."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "reason": "Social-tariff enrollment activities only; no actual tariff adoption planned, so inclusion effect is indirect."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "reason": "Training course for women is not an effective inclusion measure compared with e.g. hiring in works."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "reason": "Community relations programme shows no significant innovation or improvement in service delivery; information insufficient."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "reason": "Environmental education activities not shown to yield direct education benefits in the strict sense."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "reason": "Museum equipment upgrade not shown to generate technological development or innovation."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "reason": "Intention to use performance, turnkey or leasing contract models wherever possible was considered insufficient."
+  }
+ ],
+ "bonus": [],
+ "areas_total": [
+  0.399,
+  2.0
+ ]
+}

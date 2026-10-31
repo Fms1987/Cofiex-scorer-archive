@@ -1,0 +1,70 @@
+{
+ "id": "A0FFF1D",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Clear fit: integrated mobility, drainage, urban redevelopment and public space investments; over 90% of resources linked; feasible targets; high impact."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Only indirect link through cycling infrastructure and a linear park; general objective not sport-oriented and most funds go to roads and drainage."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Drainage, linear park and area recovery give limited fit; environmental share around 16% and goals lack specific environmental results; low impact."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Only the drainage component and one specific objective relate to flood mitigation; under 10% of funds and no early-warning or risk-management elements."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "Water is not a central axis; only partial links via the river park and a drainage indicator; under 10% of funds, so no acceptance."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "212",
+   "name": "Water security",
+   "reason": "Water is not a central axis; only partial links via the river park and a drainage indicator; under 10% of funds, so no acceptance."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state exclusive alignment with federal PPA priorities; not applicable."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration; not applicable."
+  }
+ ],
+ "areas_total": [
+  4.5,
+  10.0
+ ]
+}

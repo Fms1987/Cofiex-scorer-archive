@@ -1,0 +1,75 @@
+{
+ "id": "A85E3E2",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": "A",
+   "points": 5.0,
+   "reason": "General objective and specific objectives directly tied to the area; core components and most resources (roughly 90%) go to the flagship hospital; efficiency indicators; high replicable impact."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "General objective relevant but not directly related; a research-centre objective, a dedicated component and one SMART indicator exist, but the resource share is small."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Replicable hospital model contributes to state capacity with high impact potential, but no components or resources are formally allocated to it."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": null,
+   "points": 0.0,
+   "reason": "Digital features of the hospital do not link clearly to digital transformation across government levels; the programme is mainly construction of one unit."
+  },
+  {
+   "code": "305",
+   "name": "International cooperation and regional development",
+   "level": null,
+   "points": 0.0,
+   "reason": "Cooperation with a multilateral lender is financing, not the programme's purpose, and is common to all proposals."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "303",
+   "name": "Digital government",
+   "reason": "Digital features of the hospital do not link clearly to digital transformation across government levels; the programme is mainly construction of one unit."
+  },
+  {
+   "code": "305",
+   "name": "International cooperation and regional development",
+   "reason": "Cooperation with a multilateral lender is financing, not the programme's purpose, and is common to all proposals."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  6.5,
+  10.0
+ ]
+}

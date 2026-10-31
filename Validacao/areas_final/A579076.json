@@ -1,0 +1,75 @@
+{
+ "id": "A579076",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Primary-care expansion is a structuring axis with relevant indicators, but only a small share of resources is tied to health, giving a low level."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "High coherence among objectives, components, indicators and resources; integrated urban, mobility, sanitation and social-facility actions; most resources allocated; feasible schedule and high impact."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Coherent sustainable urban development with green infrastructure, drainage and water-quality indicators; feasible targets; about 30% of resources; considerable environmental impact."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": null,
+   "points": 0.0,
+   "reason": "No direct adherence: sports and leisure spaces are accessories of primary-care facilities, with no specific objectives, indicators or targets and only residual resources."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Objectives focus on urban upgrading; the single partly related specific objective is not reflected in components or indicators, and no risk-management capacity actions exist."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "113",
+   "name": "Sport",
+   "reason": "No direct adherence: sports and leisure spaces are accessories of primary-care facilities, with no specific objectives, indicators or targets and only residual resources."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "reason": "Objectives focus on urban upgrading; the single partly related specific objective is not reflected in components or indicators, and no risk-management capacity actions exist."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Only a minor, transversal part of resources serves the climate-emergency priority; most resources go to urbanization, active mobility and primary-care infrastructure."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not indicate regional integration; no points given."
+  }
+ ],
+ "areas_total": [
+  6.0,
+  10.0
+ ]
+}

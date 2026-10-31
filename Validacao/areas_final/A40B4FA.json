@@ -1,0 +1,108 @@
+{
+ "id": "A40B4FA",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Specialized care for women is directly related, with indicator and target but no timeframe; negligible resource share and tiny population reach give reduced impact; integrated care solution seen as efficient."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Urban infrastructure objective directly related; works component with mobility and public facilities; indicators and targets (one without timeframe); a moderate resource share; moderate impact and efficient solutions."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Objective of public parks for sport and leisure is directly related, with indicator lacking a timeframe; small resource share, negligible expected increase in park area, efficiency not demonstrated."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Flooding-reduction objective directly related; macro-drainage works with indicator lacking a timeframe; moderate impact from a modest reduction in affected properties; efficient solutions."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Training-based opportunity objective related; very small resource share; employment indicator without timeframe and tiny expected increase; efficiency not demonstrated."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Budget-balance and governance objectives directly related; refinancing component takes half the resources; liquidity indicator and target; moderate impact because only one external debt is refinanced; efficient cash-flow rebalancing."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": null,
+   "points": 0.0,
+   "reason": "Objectives, products, indicators and targets show no specific link; no impact or efficiency demonstrated."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": null,
+   "points": 0.0,
+   "reason": "Objectives, products, indicators and targets show no specific link; no impact or efficiency demonstrated."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No objectives or products specific to the area; an R&D indicator exists but without supporting products or solutions, so no efficiency shown."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "106",
+   "name": "Human rights",
+   "reason": "Objectives, products, indicators and targets show no specific link; no impact or efficiency demonstrated."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "reason": "Objectives, products, indicators and targets show no specific link; no impact or efficiency demonstrated."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "reason": "No objectives or products specific to the area; an R&D indicator exists but without supporting products or solutions, so no efficiency shown."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the program is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state a regional-integration purpose."
+  }
+ ],
+ "areas_total": [
+  6.5,
+  10.0
+ ]
+}

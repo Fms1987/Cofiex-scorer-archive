@@ -1,0 +1,61 @@
+{
+ "id": "A2F1F3B",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Direct fit: urban mobility, housing resettlement and road infrastructure, well-defined indicators with clear targets, almost all resources in these components, high urban and social impact."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": null,
+   "points": 0.0,
+   "reason": "Gender inclusion is complementary with few resources, limited to the works period; no training, protection networks or lasting structural measures."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": null,
+   "points": 0.0,
+   "reason": "Indirect link only; jobs exist just during works, no permanent employment or productive-inclusion strategy, no components, indicators or dedicated resources."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "107",
+   "name": "Women",
+   "reason": "Gender inclusion is complementary with few resources, limited to the works period; no training, protection networks or lasting structural measures."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "reason": "Indirect link only; jobs exist just during works, no permanent employment or productive-inclusion strategy, no components, indicators or dedicated resources."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state exclusive alignment with federal PPA priorities; NT marks it as not applicable."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state regional integration; NT marks it as not applicable."
+  }
+ ],
+ "areas_total": [
+  3.0,
+  10.0
+ ]
+}

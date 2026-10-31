@@ -1,0 +1,170 @@
+{
+ "id": "AE01F9A",
+ "regime": "R17_2021",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Actions, objectives and indicators on sustainable development awareness and diffusion of environmentally sound technologies."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "level": null,
+   "points": 0.133,
+   "reason": "Conservation units, rural land registration, restoration, reforestation, forest management and training, with productive inclusion of conservation-linked families."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "level": null,
+   "points": 0.133,
+   "reason": "Program expands credit for restoration, carbon capture and sustainable development projects, satisfying the business-opportunity criterion within its niche."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.133,
+   "reason": "Actions, objectives and indicators promoting jobs and income for low-income and vulnerable populations."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "level": null,
+   "points": 0.133,
+   "reason": "Clear gender-policy actions with specific indicators and objectives, focused on women and low-income people."
+  },
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "No related actions, components or indicators."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No related actions, components or indicators."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "No related actions, components or indicators."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "level": null,
+   "points": 0.0,
+   "reason": "No related actions, components or indicators."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions expanding infrastructure or social facilities."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Potentially relevant actions, but no direct link in objectives, indicators or components; group is treated under the gender criterion."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No related actions, components or indicators."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "level": null,
+   "points": 0.0,
+   "reason": "No related actions, components or indicators."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "level": null,
+   "points": 0.0,
+   "reason": "No related actions, components or indicators."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No arrangements tied to public-private partnership."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "reason": "No related actions, components or indicators."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "reason": "No related actions, components or indicators."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "reason": "No related actions, components or indicators."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "reason": "No related actions, components or indicators."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "reason": "No actions expanding infrastructure or social facilities."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "reason": "Potentially relevant actions, but no direct link in objectives, indicators or components; group is treated under the gender criterion."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "reason": "No related actions, components or indicators."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "reason": "No related actions, components or indicators."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "reason": "No related actions, components or indicators."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "reason": "No arrangements tied to public-private partnership."
+  }
+ ],
+ "bonus": [],
+ "areas_total": [
+  0.665,
+  2.0
+ ]
+}

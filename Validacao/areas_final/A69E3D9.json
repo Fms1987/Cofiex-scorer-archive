@@ -1,0 +1,98 @@
+{
+ "id": "A69E3D9",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Emergency-support objective, product and response-time indicator exist, but only a very small share of resources; little relevance and no area-specific innovation."
+  },
+  {
+   "code": "203",
+   "name": "Family farming",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Low-carbon agribusiness objective, product and value-added indicator, but very small resource share; financial innovation not specific to the area."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Directly related objective and several products and indicators, but resource share is not relevant and the fund-level innovation is not specific to industrialization."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "A",
+   "points": 5.0,
+   "reason": "Core of the programme: productivity, investment attraction and diversification; direct objectives and indicators; over half of resources; exceptional, replicable innovative fund design."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Innovation-ecosystem objective, products and incubation indicator, but small resource share; impact limited to one front of the fund; financial innovation generic."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Job creation is an indirect effect of the fund's success, so products were counted under competitiveness and no resources specifically attributed; limited impact."
+  },
+  {
+   "code": "210",
+   "name": "Logistics and transport",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Logistics-infrastructure product and road service-level indicator, but a small resource share and no efficiency or innovation features identified."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Liquidity-buffer product and specific objective relate to fiscal sustainability, but small resources and an indicator that only maintains an already top level; low impact."
+  },
+  {
+   "code": "211",
+   "name": "Trade",
+   "level": null,
+   "points": 0.0,
+   "reason": "Export diversification appears in the general objective and an indicator, but no specific objective is directly tied to international trade."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "211",
+   "name": "Trade",
+   "reason": "Export diversification appears in the general objective and an indicator, but no specific objective is directly tied to international trade."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  9.0,
+  10.0
+ ]
+}

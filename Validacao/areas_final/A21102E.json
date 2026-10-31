@@ -1,0 +1,103 @@
+{
+ "id": "A21102E",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Not the program focus, but hospital capacity expansion with an acceptable objective and SMART indicator; resource share is low because funds are spread across areas."
+  },
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Daycare construction with objective and product, but indicator counts only places created (not SMART); resources dispersed and the increment over baseline marginal."
+  },
+  {
+   "code": "106",
+   "name": "Human rights",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Single older-adult care center product with under 1% of resources; indicator lacks a baseline, so not SMART; impact minor."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Single women's care center product; indicator counts only service volumes, not results, and resources are dispersed; impact minor."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Integrated sanitation, drainage, mobility and urban requalification with significant component resources, but indicators not clear enough to be SMART, limiting impact assessment."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Stream and spring recovery plus waste planning, with some SMART indicators; dispersion of resources and localized recovery target limit impact."
+  },
+  {
+   "code": "203",
+   "name": "Family farming",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Agro-processing unit relevant to the general objective, but indicators count raw output and trained farmers (not SMART), resources dispersed and impact on value added unclear; potential low."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Drainage objective and product exist, but indicators do not measure prevention, risk management or disaster response capacity, so impact cannot be gauged."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "level": null,
+   "points": 0.0,
+   "reason": "Program logic does not cover new-technology industrialization or decarbonization; no components or indicators clearly aligned."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "reason": "Drainage objective and product exist, but indicators do not measure prevention, risk management or disaster response capacity, so impact cannot be gauged."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "reason": "Program logic does not cover new-technology industrialization or decarbonization; no components or indicators clearly aligned."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the program is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the program promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  6.0,
+  10.0
+ ]
+}

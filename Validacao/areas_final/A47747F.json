@@ -1,0 +1,175 @@
+{
+ "id": "A47747F",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "107",
+   "name": "Women",
+   "level": "E",
+   "points": 0.5,
+   "reason": "No direct link in the general objective; a pilot training product for vulnerable groups has a tiny resource share, with indicator and target; impact minor."
+  },
+  {
+   "code": "108",
+   "name": "Indigenous and quilombola peoples",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Rural-access objective focused on traditional communities, with indicator and target; resources not identified, impact minor; efficient solutions."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Relevant general objective; components with most resources include urban crossings, pedestrian areas and mobility planning; indicator and target exist; high impact and efficient solutions."
+  },
+  {
+   "code": "112",
+   "name": "Public safety",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Road-safety objective with indicator and target on fatalities; small resource share; high impact and efficient solutions, but only indirect link to public safety."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Relevant objective with indicators on climate-response plans and critical-point treatment; very small resource share, so impact minor; efficient solutions."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Relevant objective with drainage-based water-availability indicator; resources not identified, impact minor; efficiency of solutions not shown."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Asset-management capacity building with performance-based contracts, training and monitoring indicators; impact deemed exceptional and structuring, but very small resource share."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "level": null,
+   "points": 0.0,
+   "reason": "Objectives and indicators overlap with the women's area; no specific racial-equality features, so impact and efficiency are not demonstrated."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "level": null,
+   "points": 0.0,
+   "reason": "Indicators address maintenance, safety and resilience, not decarbonization; impact and efficiency not demonstrated."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": null,
+   "points": 0.0,
+   "reason": "Same elements as the women's area; nothing specific to employment shown, so no impact or efficiency demonstrated."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Indicators only cover studies, not outcomes; impact and efficiency not demonstrated."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Indicators concern treatment of critical road points and do not show inequality reduction; impact and efficiency not demonstrated."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No relation to the area; objectives, indicators and targets do not show it."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": null,
+   "points": 0.0,
+   "reason": "Monitoring-system product has a tiny resource share and objectives and indicators do not show contribution; impact not demonstrated."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": null,
+   "points": 0.0,
+   "reason": "Maintenance-fund indicator exists, but no project component or product is tied to the area."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "reason": "Objectives and indicators overlap with the women's area; no specific racial-equality features, so impact and efficiency are not demonstrated."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "reason": "Indicators address maintenance, safety and resilience, not decarbonization; impact and efficiency not demonstrated."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "reason": "Same elements as the women's area; nothing specific to employment shown, so no impact or efficiency demonstrated."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "reason": "Indicators only cover studies, not outcomes; impact and efficiency not demonstrated."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Indicators concern treatment of critical road points and do not show inequality reduction; impact and efficiency not demonstrated."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "reason": "No relation to the area; objectives, indicators and targets do not show it."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "reason": "Monitoring-system product has a tiny resource share and objectives and indicators do not show contribution; impact not demonstrated."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "reason": "Maintenance-fund indicator exists, but no project component or product is tied to the area."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities; no points."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not indicate regional integration; no points."
+  }
+ ],
+ "areas_total": [
+  6.0,
+  10.0
+ ]
+}

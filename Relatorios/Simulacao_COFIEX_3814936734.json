@@ -1,0 +1,230 @@
+{
+  "data": "30/10/2026",
+  "cabecalho": {
+    "proposta": "Projeto de Modernização e Fortalecimento Institucional do Ministério Público de Pernambuco, para o Combate ao Crime Organizado e a Sustentabilidade Ambiental (versão 3 da carta-consulta, 07/08/2025)",
+    "proponente": "Estado de Pernambuco (órgão executor: Ministério Público de Pernambuco)",
+    "campos": [
+      ["Credor", "Banco Interamericano de Desenvolvimento (BID)"],
+      ["Tipo de operação", "Operação de crédito externo de investimento (empréstimo de investimento padrão)"],
+      ["Valor total", "US$ 25.000.000,00"],
+      ["Valor do empréstimo", "US$ 20.000.000,00"],
+      ["Contrapartida", "US$ 5.000.000,00 (20,0% do total)"],
+      ["Prazos", "Carência de 72 meses, amortização de 222 meses, prazo total de 294 meses"],
+      ["Sublimite-alvo", "Geral (subnacional)"],
+      ["Tipo de ente", "Estado (subnacional), com órgão autônomo como executor"],
+      ["Selo de versão", "cofiex-scorer V.1 BETA (atualizada em 27/10/2026), julgamento cego"]
+    ]
+  },
+  "sintese": "Operação pequena (US$ 20 milhões) e bem estruturada, com área principal em Segurança Pública (código 112) sustentada por indicadores de resultado inovadores de persecução patrimonial com linha de base medida. A Nota de Área Estratégica esperada é 7,00 (faixa 3,50 a 10,00) e a Nota Geral esperada é 10,38 (faixa 5,81 a 14,29). Os principais riscos não estão na nota: o espaço fiscal do Estado no Programa de Acompanhamento Fiscal aparece esgotado em 2025 na planilha empacotada, e a sustentabilidade financeira pós-projeto não está quantificada.",
+  "ente_federal": false,
+  "teto_area_estrategica": 10.0,
+  "dados_objetivos": [
+    {"item": "Nota do Índice de Desenvolvimento Humano (até 2,00) — Índice de Desenvolvimento Humano 0,719; menor da reunião assumido 0,572 / 0,655 / 0,686", "min": 1.313, "esp": 1.629, "max": 1.790},
+    {"item": "Capacidade de Pagamento (até 2,00) — classificação B+ (planilha empacotada, ciclo 2026; ciclo da reunião-alvo não confirmado)", "min": 0.5, "esp": 1.0, "max": 1.5},
+    {"item": "Tendência da Dívida (até 1,00) — Dívida Consolidada/Receita Corrente Líquida não disponível na base empacotada (cenário)", "min": 0.5, "esp": 0.75, "max": 1.0}
+  ],
+  "area_estrategica": {
+    "areas": [
+      {"codigo": "112", "objetivo": "Fortalecer a segurança pública cidadã e integrada", "pleiteado_como": "Declarada",
+       "nivel_min": "C", "nivel_esp": "B", "nivel_max": "A",
+       "justificativa_curta": "Área principal: US$ 12,53 milhões (50% do total), três indicadores de resultado de persecução patrimonial com linha de base medida; falta impacto quantificado sobre a criminalidade para disputar A."},
+      {"codigo": "303", "objetivo": "Intensificar a transformação digital nos três níveis de governo", "pleiteado_como": "Declarada",
+       "nivel_min": "D", "nivel_esp": "C", "nivel_max": "B",
+       "justificativa_curta": "US$ 6,34 milhões (25%), abaixo do limiar de 30% para B; um único indicador (tempo de cruzamento de dados, 30 para 3 dias) de eficiência interna, sem efeito direto ao cidadão."},
+      {"codigo": "307", "objetivo": "Aperfeiçoar o sistema de justiça para ampliação do acesso e exercício de direitos", "pleiteado_como": "Declarada",
+       "nivel_min": "0", "nivel_esp": "D", "nivel_max": "C",
+       "justificativa_curta": "US$ 2,81 milhões (11%); indicadores de contagem (fontes integradas, procedimentos proativos) com linha de base zero; vínculo com acesso a direitos é indireto. Objetivo historicamente rejeitado em dois terços dos pedidos."},
+      {"codigo": "201", "objetivo": "Conservar, restaurar e usar de forma sustentável o meio ambiente", "pleiteado_como": "Declarada",
+       "nivel_min": "E", "nivel_esp": "D", "nivel_max": "C",
+       "justificativa_curta": "US$ 2,50 milhões (10%); produto próprio (núcleo de geoprocessamento) e três indicadores de produto/cobertura com linha de base zero; impacto ambiental não quantificado."},
+      {"codigo": "302", "objetivo": "Fortalecer as capacidades estatais (sugestão)", "pleiteado_como": "Sugerida — não declarada",
+       "nivel_min": "0", "nivel_esp": "0", "nivel_max": "D",
+       "justificativa_curta": "Não declarada; só pontuaria se ganhasse objetivo específico, produto, indicador e custo próprios (capacitação e governança de dados). Não entra na nota esperada."}
+    ],
+    "bonus": [
+      {"item": "Prioridade do PPA (Art. 15 §3º)", "min": 0, "esp": 0, "max": 0},
+      {"item": "Integração regional / Zona de Fronteira (Art. 15 §4º)", "min": 0, "esp": 0, "max": 0}
+    ]
+  },
+  "base_calibracao": "n=5 linhas comparáveis de Nota de Área Estratégica (regime Resolução Normativa 1/2024; setor justiça mais setor segurança, com governo digital como setor secundário), correspondentes a apenas 4 pleitos distintos; relaxado: credor, faixa de valor e subtipo; mediana 8,0, dispersão 6,0 a 9,0. Conjunto de controle: subnacional, valor abaixo de US$ 50 milhões, n=20 notas publicadas, mediana 6,25 (faixa 4,5 a 8,5). Dados fracos: duplicidade de pleito no conjunto setorial e amostra setorial pequena. Ancoragem: nenhuma — a estimativa da rubrica (7,00) já fica entre as duas medianas; a faixa foi mantida mais larga que a dispersão comparável.",
+  "sugestoes": [
+    {"sugestao": "Comprovar espaço fiscal do Estado no Programa de Acompanhamento Fiscal para a operação", "item_afetado": "Elegibilidade (parecer do Tesouro)", "prioridade": "P0", "ganho_estimado": "Evita bloqueio"},
+    {"sugestao": "Apresentar Capacidade de Pagamento e Dívida Consolidada/Receita Corrente Líquida com data e fonte do ciclo da reunião", "item_afetado": "Dados Objetivos", "prioridade": "P0", "ganho_estimado": "Valida até 2,50 pontos"},
+    {"sugestao": "Tabela de custos de operação e manutenção pós-projeto (licenças, centro de dados, pessoal) por 5 anos com fonte orçamentária", "item_afetado": "Sustentabilidade; todas as áreas", "prioridade": "P1", "ganho_estimado": "+0,5 a +1,0"},
+    {"sugestao": "Indicador de impacto em segurança pública (valor efetivamente recuperado ao erário ou ativos perdidos em definitivo) com ano-meta", "item_afetado": "Área 112", "prioridade": "P1", "ganho_estimado": "+2,0 (B para A)"},
+    {"sugestao": "Levar a Área 303 acima de 30% do orçamento, atribuindo a ela a plataforma de dados e a infraestrutura", "item_afetado": "Área 303", "prioridade": "P1", "ganho_estimado": "+1,0 (C para B)"},
+    {"sugestao": "Trocar indicadores de contagem das Áreas 307 e 201 por indicadores de resultado (tempo de resposta ao cidadão; área desmatada responsabilizada)", "item_afetado": "Áreas 307 e 201", "prioridade": "P1", "ganho_estimado": "+1,0 a +2,0"},
+    {"sugestao": "Converter metas em anos civis e incluir fonte de verificação em todos os indicadores", "item_afetado": "Marco de resultados", "prioridade": "P1", "ganho_estimado": "+0,5"},
+    {"sugestao": "Criar instância de governança conjunta Executivo e Ministério Público e justificar a compra de imóvel", "item_afetado": "Perguntas do Grupo Técnico", "prioridade": "P2", "ganho_estimado": "Reduz pendências"},
+    {"sugestao": "Incluir custo por beneficiário e duas a três referências de operações do BID na América Latina", "item_afetado": "Perguntas do Grupo Técnico", "prioridade": "P2", "ganho_estimado": "+0,5"}
+  ],
+  "secoes": [
+    {"titulo": "0. Nota de método e escopo da execução", "blocos": [
+      {"tipo": "p", "texto": "Esta simulação reproduz a análise técnica da COFIEX sob a Resolução Normativa 1/2024 (consolidada em 18/05/2026): triagem do Anexo I, filtro eliminatório do Art. 28, Nota de Área Estratégica por objetivo do PPA 2024–2027 (Anexo II), Dados Objetivos (Índice de Desenvolvimento Humano, Capacidade de Pagamento, Tendência da Dívida), perguntas calibradas do Grupo Técnico, revisão sênior de banco multilateral de desenvolvimento e plano de correção."},
+      {"tipo": "bullets", "itens": [
+        "Julgamento cego: usados apenas o texto da carta-consulta (versão 3) e o material da própria habilidade (rubricas, calibração agregada e anonimizada, planilha oficial empacotada). Nenhuma Nota Técnica, ata, resultado de reunião ou planilha de avaliação foi consultada.",
+        "Fase 0 (checagem regulatória em tempo real): NÃO realizada nesta execução, por instrução do usuário (sem busca na web). Base regulatória assumida: Resolução Normativa 1/2024 com as alterações das Resoluções 32/2025, 142/2026, 150/2026 e 151/2026; Portaria do Ministério da Fazenda/Tesouro 857/2026; Resolução do Conselho Monetário Nacional 5.282/2026. Marcação: checagem em tempo real indisponível.",
+        "Fase 1 (triagem com o usuário): o arquivo da carta-consulta foi fornecido; os campos foram pré-preenchidos a partir dele, sem rodada de perguntas.",
+        "Fase 9.5 (iteração): a carta está na versão 3 dentro do Portal de Financiamento Externo, o que não prova reenvio após reunião. Registrado: status de reenvio desconhecido."
+      ]}
+    ]},
+    {"titulo": "1. Cabeçalho", "blocos": [
+      {"tipo": "tabela", "titulo": "Identificação da operação (repetida do texto da carta-consulta)", "cabecalho": ["Campo", "Valor"], "linhas": [
+        ["Nome completo", "Projeto de Modernização e Fortalecimento Institucional do Ministério Público, para o Combate ao Crime Organizado e a Sustentabilidade Ambiental"],
+        ["Proponente / executor", "Estado de Pernambuco / Ministério Público de Pernambuco (Procuradoria-Geral de Justiça)"],
+        ["Credor e moeda", "Banco Interamericano de Desenvolvimento, dólar dos Estados Unidos"],
+        ["Valor total / empréstimo / contrapartida", "US$ 25,00 milhões / US$ 20,00 milhões / US$ 5,00 milhões (20,0%)"],
+        ["Componentes", "Componente 1 — Modernização do Ministério Público: US$ 24,19 milhões (quatro produtos); Componente 2 — Administração, Avaliação e Auditoria: US$ 0,81 milhão"],
+        ["Custos declarados por área estratégica", "Área 112: US$ 12,53 milhões; Área 303: US$ 6,34 milhões; Área 307: US$ 2,81 milhões; Área 201: US$ 2,50 milhões (soma US$ 24,18 milhões, igual ao Componente 1)"],
+        ["Condições financeiras", "Taxa flutuante do capital ordinário do BID; comissão de compromisso 0,5% e taxa de abertura 0,25%; carência 72 meses; prazo 294 meses; pagamentos semestrais"],
+        ["Contragarantias", "Cotas de repartição constitucional (arts. 157 e 159) e receitas do art. 155 da Constituição"],
+        ["Sublimite-alvo", "Geral (subnacional)"],
+        ["Áreas estratégicas declaradas", "112, 201, 303 e 307"]
+      ]}
+    ]},
+    {"titulo": "2. Integridade dos Insumos", "blocos": [
+      {"tipo": "p", "texto": "Insumos regulados conferidos contra a planilha oficial empacotada (Brazilian External Credit Operations Database, setembro de 2026; última atualização registrada na aba de metadados em 02/10/2026), aba Borrowers_States, linha do código 26 (Pernambuco). O código do ente casa com o nome e a unidade da federação declarados."},
+      {"tipo": "tabela", "titulo": "Marcações de integridade", "cabecalho": ["Insumo", "Valor encontrado", "Situação", "Efeito na pontuação"], "linhas": [
+        ["Índice de Desenvolvimento Humano", "0,719 (2021) na planilha; 0,719 declarado na carta", "Conferido", "Usado normalmente"],
+        ["Capacidade de Pagamento", "B+ (coluna de classificação fiscal 2026 da planilha)", "Marcação de insumo: o ciclo da classificação (2026) não coincide com o da reunião-alvo provável (segundo semestre de 2025); a carta não informa data nem fonte", "B+ usado como esperado (1,00), com faixa de um nível (0,50 a 1,50) até validação"],
+        ["Dívida Consolidada/Receita Corrente Líquida e tendência", "Não disponível na planilha empacotada; carta não informa", "Marcação de insumo: dado ausente (busca externa vedada nesta execução)", "Cenário 0,50 / 0,75 / 1,00; não confirmado"],
+        ["Espaço fiscal no Programa de Acompanhamento Fiscal", "Aba Borrowing_Capacity_States: espaço disponível do Estado em 2025 = R$ 0 (100% utilizado); em 2026 = R$ 1.752 milhões", "Marcação de insumo: risco de elegibilidade para operação a ser contratada em 2025", "Não altera a nota; afeta a viabilidade (parecer do Tesouro, Art. 28, I, e)"],
+        ["Valores da operação", "Tabela 5.1 mostra 'valor proposto' US$ 20 milhões e 'valor em dólar' US$ 25 milhões", "Inconsistência de preenchimento: o campo de valor em dólar repete o valor total", "Sem efeito na nota; corrigir no Portal"],
+        ["Anuência do credor", "Campo 'Anuência do Banco' sem arquivo; carta de concordância listada nos anexos da seção 5", "Pendência documental leve", "Sem efeito na nota"]
+      ]}
+    ]},
+    {"titulo": "3. Checagem Eliminatória", "blocos": [
+      {"tipo": "tabela", "titulo": "Triagem do Anexo I (Fase 3)", "cabecalho": ["Seção", "Situação", "Observação"], "linhas": [
+        ["I. Projeto", "COMPLETO", "Justificativa extensa, quatro objetivos específicos, nove indicadores com linha de base e meta, dois componentes e beneficiários"],
+        ["II. Áreas Estratégicas", "COMPLETO", "Quatro objetivos do PPA com narrativa, custo e indicadores por área"],
+        ["III. Gestão", "COMPLETO", "Unidade gestora a ser criada no Ministério Público; matriz de responsabilidade em anexo; operação e manutenção descritas sem valores"],
+        ["IV. Riscos", "COMPLETO", "Treze riscos com impacto, probabilidade e mitigação; sem responsável e prazo"],
+        ["V. Financiamento", "COMPLETO com ressalva", "Cronograma de desembolso coerente (US$ 20,00 milhões e US$ 5,00 milhões); campo de valor em dólar inconsistente; anuência sem arquivo"],
+        ["VI. Ações preparatórias", "COMPLETO", "Etapas realizadas por produto, incluindo protótipo do núcleo de geoprocessamento desde 2023"],
+        ["VII. Contatos", "AUSENTE no texto disponível", "Seção não aparece na versão analisada; confirmar no Portal"]
+      ]},
+      {"tipo": "tabela", "titulo": "Filtros do Art. 28, I (Fase 4)", "cabecalho": ["Filtro", "Resultado", "Fundamento"], "linhas": [
+        ["(a) Anexo I rejeitado", "Não — condicional", "Seções essenciais completas; confirmar contatos e anuência"],
+        ["(b) Nota de Área Estratégica abaixo de 3,0", "Não", "Mínimo simulado da Nota de Área Estratégica = 3,50"],
+        ["(c) Capacidade de Pagamento D", "Não", "B+ na planilha empacotada (ciclo a confirmar)"],
+        ["(d) Bloqueio judicial", "Sem evidência", "Não informado na carta"],
+        ["(e) Sem parecer do Tesouro", "Risco", "Espaço fiscal do Estado em 2025 aparece esgotado na planilha"],
+        ["(f) Atrasos ou honra de garantia", "Sem evidência", "Não informado"],
+        ["(g) Violação contratual", "Sem evidência", "Não informado"],
+        ["(h) Revisão sem resposta", "Sem evidência", "Não informado"],
+        ["Contrapartida mínima de 20%", "Atende", "US$ 5,00 milhões de US$ 25,00 milhões = 20,0%"]
+      ]},
+      {"tipo": "p", "texto": "Resultado geral: APROVADO CONDICIONAL. Nenhum filtro eliminatório é acionado pelo texto; a condição é documental (contatos, anuência) e fiscal (espaço no Programa de Acompanhamento Fiscal e ciclo da Capacidade de Pagamento)."}
+    ]},
+    {"titulo": "4. Detalhamento da Nota de Área Estratégica", "blocos": [
+      {"tipo": "nota", "texto": "Todos os números desta seção são Nota de Área Estratégica (componente, teto 10, bônus incluído), nunca Nota Geral. Pesos do Anexo II: A=5, B=3, C=2, D=1, E=0,5. Percentuais calculados sobre o valor total de US$ 25,00 milhões."},
+      {"tipo": "tabela", "titulo": "Nota de Área Estratégica por área declarada", "cabecalho": ["Área (código PPA)", "% do orçamento", "Indicadores próprios", "Nível mín./esp./máx.", "Pontos de Área Estratégica mín./esp./máx.", "Fundamento"], "linhas": [
+        ["112 Segurança pública", "50,1% (US$ 12,53 milhões)", "3 de resultado: atenção à persecução patrimonial (0% para 75%), patrimônio ilícito identificado (mediana de R$ 1,6 milhão, +59%), patrimônio constrito (8,21% para 45%)", "C / B / A", "2,00 / 3,00 / 5,00", "Objetivo geral diretamente ligado; recursos significativos (perto do limiar de maioria); indicadores de resultado inovadores com linha de base medida; replicabilidade nacional argumentada. Falta impacto 'excepcional' quantificado e recursos de 68% ou mais para A."],
+        ["303 Transformação digital do governo", "25,4% (US$ 6,34 milhões)", "1: tempo médio de cruzamento de dados complexos (30 para 3 dias)", "D / C / B", "1,00 / 2,00 / 3,00", "Objetivo relevante; abaixo do limiar de 30% para B; transformação interna ao órgão, sem serviço digital ao cidadão."],
+        ["307 Sistema de justiça", "11,2% (US$ 2,81 milhões)", "2 de contagem: fontes externas integradas (0 para 7), procedimentos proativos (0 para 10)", "0 / D / C", "0,00 / 1,00 / 2,00", "Produto próprio (plataforma integrada de dados), mas indicadores de execução e relação indireta com acesso a direitos; meta de 10 procedimentos é baixa diante de 182.650 processos criminais recebidos em 2024."],
+        ["201 Meio ambiente", "10,0% (US$ 2,50 milhões)", "3 de produto/cobertura: área monitorada (0% para 35%), relatórios geoespaciais (0 para 80), antigos lixões monitorados (0% para 80%)", "E / D / C", "0,50 / 1,00 / 2,00", "Objetivo específico, produto e custo próprios; impacto ambiental não medido (hectares, responsabilização); padrão conservador para área ambiental sem obras."],
+        ["Soma das áreas", "96,7% alocados", "9 indicadores", "—", "3,50 / 7,00 / 12,00 (teto 10,00)", "Subtotal da Nota de Área Estratégica sem bônus"],
+        ["Bônus prioridade do PPA (§3º)", "—", "—", "—", "0,00 / 0,00 / 0,00", "Só 10% dos recursos estão em prioridade elegível (201); não foi pedido; operação híbrida não se qualifica"],
+        ["Bônus integração regional (§4º)", "—", "—", "—", "0,00 / 0,00 / 0,00", "Estado sem fronteira internacional"],
+        ["Nota de Área Estratégica", "—", "—", "—", "3,50 / 7,00 / 10,00", "Faixa final do componente"]
+      ]},
+      {"tipo": "p", "texto": "Setor dominante (pergunta 23 do Grupo Técnico): pelos indicadores e custos, a operação é de justiça/segurança — 50% do orçamento e 3 de 9 indicadores em persecução patrimonial — com modernização digital como meio. O rótulo ambiental do título responde por 10% dos recursos."},
+      {"tipo": "p", "texto": "Salvaguarda de regressão à mediana: o esperado (7,00) fica na banda mediana empírica de 6,0 a 7,5 para investimento subnacional. Um valor acima disso (até cerca de 8,0) só se justificaria pelo perfil 'justiça com indicadores de resultado inovadores de recuperação de ativos', que aparece aqui; como rodadas cegas tendem a sair cerca de 0,6 ponto acima da nota oficial, manteve-se 7,00 e deixou-se 8,00 como cenário favorável (Área 307 em C)."}
+    ]},
+    {"titulo": "5. Notas dos Componentes", "blocos": [
+      {"tipo": "nota", "texto": "Itens de Dados Objetivos, distintos da Nota de Área Estratégica."},
+      {"tipo": "tabela", "titulo": "Dados Objetivos — cenários", "cabecalho": ["Item de Dados Objetivos", "Mínimo", "Esperado", "Máximo", "Premissa"], "linhas": [
+        ["Nota do Índice de Desenvolvimento Humano (teto 2,00)", "1,31", "1,63", "1,79", "Fórmula 2 × (1 − 0,719) / (1 − menor Índice da reunião). Menor Índice assumido: 0,572 (pauta com município de índice baixo), 0,655 (pauta estadual, extremo pessimista recomendado pelo viés de subestimação), 0,686 (pauta sem estado de índice muito baixo)"],
+        ["Classificação de Capacidade de Pagamento (teto 2,00)", "0,50", "1,00", "1,50", "B+ = 1,00 pela tabela fixa; faixa de um nível (B a A) porque o ciclo da classificação não está confirmado para a data da reunião"],
+        ["Nota de Tendência da Dívida (teto 1,00)", "0,50", "0,75", "1,00", "Sem Dívida Consolidada/Receita Corrente Líquida disponível; esperado de 'crescente, dentro dos limites' (0,75); o esgotamento do espaço fiscal em 2025 desaconselha supor 1,00"],
+        ["Subtotal de Dados Objetivos (teto 5,00)", "2,31", "3,38", "4,29", "Soma dos três itens"]
+      ]}
+    ]},
+    {"titulo": "6. Nota Final", "blocos": [
+      {"tipo": "p", "texto": "Nota Geral = Dados Objetivos + Nota de Área Estratégica (teto 15,00)."},
+      {"tipo": "tabela", "titulo": "Composição da Nota Geral", "cabecalho": ["Cenário", "Dados Objetivos", "Nota de Área Estratégica", "Nota Geral"], "linhas": [
+        ["Mínimo", "2,31", "3,50", "5,81"],
+        ["Esperado", "3,38", "7,00", "10,38"],
+        ["Máximo", "4,29", "10,00", "14,29"]
+      ]},
+      {"tipo": "p", "texto": "Nota Geral estimada: [Mínimo 5,81 — Esperado 10,38 — Máximo 14,29]. Cenário favorável plausível, sem mudar a carta: Área 307 em C, Nota de Área Estratégica 8,00 e Nota Geral cerca de 11,4."},
+      {"tipo": "p", "texto": "Base de calibração: n=5 linhas comparáveis (regime Resolução Normativa 1/2024; setores justiça e segurança, com governo digital como secundário), apenas 4 pleitos distintos; relaxado: credor, faixa de valor e subtipo; dados fracos: duplicidade de pleito e amostra setorial pequena; ancoragem: nenhuma (estimativa da rubrica entre a mediana setorial de 8,0 e a mediana do controle subnacional abaixo de US$ 50 milhões, 6,25 com n=20)."},
+      {"tipo": "nota", "texto": "Uma nota alta é condição necessária, nunca suficiente: na validação com retenção de amostra, a Nota Geral média prevista foi praticamente igual entre pleitos aprovados e não aprovados. Ver a seção 10."}
+    ]},
+    {"titulo": "7. Simulação das Perguntas do Grupo Técnico", "blocos": [
+      {"tipo": "tabela", "titulo": "Perguntas aplicáveis", "cabecalho": ["#", "Pergunta", "Prioridade", "Aplica?", "Resposta na carta-consulta", "Situação", "Lacuna / Ação"], "linhas": [
+        ["1", "Sustentabilidade pós-projeto", "Alta", "Sim", "Seção 3.2: orçamento de R$ 988 milhões, R$ 30 milhões/ano em custeio de tecnologia, 'plena sustentabilidade'", "PARCIAL", "Tabela em reais por ano (licenças, centro de dados contêiner, local de contingência, energia, pessoal) por 5 anos e linha orçamentária"],
+        ["2", "Transferência de conhecimento versus dependência de fornecedor", "Alta", "Sim", "Ano 5 com operação assistida e transferência; núcleo de competência; trilhas de capacitação", "PARCIAL", "Titularidade de código e dados, cláusulas contratuais e estratégia de saída das licenças proprietárias citadas"],
+        ["3", "Custo por beneficiário versus operações comparáveis na América Latina e Caribe", "Alta", "Sim", "Ausente; cita apenas um projeto de transformação digital da justiça financiado pelo mesmo credor", "AUSENTE", "Custo por membro/servidor atendido ou por procedimento, com 2 a 3 referências do BID"],
+        ["9", "Tensão entre autonomia do órgão e unidade gestora / Executivo", "Alta", "Sim", "Procurador-Geral como instância maior por delegação da Governadora; unidade gestora no Ministério Público", "PARCIAL", "Instrumento formal (convênio ou decreto) que defina papéis do Estado (mutuário, contragarantia, serviço da dívida) e do órgão autônomo (executor)"],
+        ["4", "Cibersegurança e Lei Geral de Proteção de Dados", "Média", "Sim", "Risco 7 reconhecido; mitigação 'investimentos em segurança da informação'", "PARCIAL", "Encarregado de dados, base legal para compartilhamento com órgãos de inteligência financeira e fiscal, orçamento recorrente de segurança"],
+        ["5", "Coordenação interinstitucional", "Média", "Sim", "Acordos de cooperação com oito órgãos a firmar (risco 1)", "PARCIAL", "Ao menos um acordo assinado ou cronograma datado por parceiro; comitê formal"],
+        ["6", "Contrapartida assegurada legislativamente", "Média", "Sim", "US$ 1 milhão por ano; menção ao capítulo do órgão no PPA estadual", "PARCIAL", "Linha da lei orçamentária e lei autorizativa da operação"],
+        ["10", "Metas do Conselho Nacional de Justiça / Conselho Nacional do Ministério Público vinculantes", "Média", "Sim", "Adesão ao planejamento estratégico nacional do Ministério Público citada; nenhum indicador nacional usado", "AUSENTE", "Usar ao menos um indicador nacional de referência com linha de base do órgão"],
+        ["29", "Faixa ampla de meta", "Média", "Sim", "Metas pontuais em todos os indicadores", "RESPONDIDA", "—"],
+        ["7", "Licenciamento ambiental de componentes físicos", "Baixa", "Sim", "Centro de dados contêiner, reformas e aquisição de imóvel sem situação de licenciamento", "AUSENTE", "Situação por obra e elegibilidade da compra de imóvel nas políticas do credor"],
+        ["8", "Inclusão de populações vulneráveis", "Baixa", "Sim", "Jovens periféricos e comunidades tradicionais citados como beneficiários", "PARCIAL", "Desagregar ao menos um indicador por território ou comunidade tradicional"],
+        ["11", "Migração e interoperabilidade de sistemas legados", "Baixa", "Sim", "Diagnóstico, roteiro de modernização, prova de conceito e integração com o processo judicial eletrônico do tribunal", "RESPONDIDA", "Inventário dos sistemas no anexo"]
+      ]},
+      {"tipo": "p", "texto": "Contagem: RESPONDIDAS 2 / APLICÁVEIS 12. Taxa de blindagem: 17% (mais 7 parciais e 3 ausentes). Não se aplicam: perguntas de repasse (12, 13, 20, 30), conectividade (14, 15), reestruturação de dívida (21), classificação como meta (22), garantia/PPP (24, 28), clusters de desastre e multi-tranche (25, 26), salvaguarda de violência de gênero (27), programa social (31). Perguntas de iteração (16 a 18): aplicáveis só se houver reenvio após reunião (status desconhecido)."}
+    ]},
+    {"titulo": "8. Revisão Sênior de Banco Multilateral de Desenvolvimento", "blocos": [
+      {"tipo": "tabela", "titulo": "Itens A.1 a A.6", "cabecalho": ["Item", "Classificação", "Evidência", "Lacuna principal"], "linhas": [
+        ["A.1 Teoria da Mudança", "ADEQUADO", "Problema geral (enfraquecimento do Estado de Direito) desdobrado em 4 problemas, 4 soluções, 4 objetivos específicos e indicadores vinculados a cada objetivo", "Sem elo quantificado entre persecução patrimonial e redução de crimes; sem contrafactual nem premissas testáveis"],
+        ["A.2 Marco de Resultados", "ADEQUADO", "9 indicadores com fórmula, unidade, linha de base e metas anuais; 3 com linha de base medida (30 dias; R$ 1,6 milhão; 8,21%)", "Sem fonte de verificação no texto; metas em 'Ano 2 a 5' em vez de anos civis; 6 de 9 com linha de base zero por construção; indicador 5 chamado de 'valor médio' na seção 2 e de 'mediana' na seção 1.4"],
+        ["A.3 Avaliação de Riscos", "ADEQUADO", "13 riscos com impacto, probabilidade e mitigação, incluindo cibersegurança, legado, adesão e obsolescência", "Sem responsável e prazo; ausentes os riscos de autonomia do órgão versus Executivo, espaço fiscal e proteção de dados no compartilhamento com órgãos de inteligência"],
+        ["A.4 Arranjos de Implementação", "ADEQUADO", "Unidade gestora com coordenadorias definidas; coordenação de tecnologia com cerca de 61 profissionais; histórico de convênios e operação com a Caixa", "Unidade gestora ainda a criar; sem experiência prévia do órgão com banco multilateral"],
+        ["A.5 Sustentabilidade Financeira", "FRACO", "Orçamento anual e custeio de tecnologia de R$ 30 milhões citados; afirmação de redução futura de licenças", "Nenhum custo pós-projeto quantificado; centro de dados e local de contingência sem estimativa de custeio"],
+        ["A.6 Lente de Área Estratégica", "B / C / D / D", "Soma esperada 7,00 (Área 112 B; 303 C; 307 D; 201 D)", "Área de maior alavanca: 112 de B para A (impacto excepcional quantificado e mais de dois terços dos recursos)"]
+      ]},
+      {"tipo": "p", "texto": "Prontidão geral para banco multilateral de desenvolvimento: CONDICIONALMENTE PRONTO."},
+      {"tipo": "tabela", "titulo": "A.6 — Lente de pontuação da Área Estratégica (oito quesitos)", "cabecalho": ["Área (código PPA)", "Objetivo geral", "Objetivo específico próprio", "Produto próprio", "Indicador de resultado com ano-meta", "% do orçamento", "Impacto", "Inovação", "Nível estimado", "Degrau que falta"], "linhas": [
+        ["112", "direto", "sim (objetivo 3)", "sim (núcleos de persecução patrimonial)", "sim (3, em anos de projeto)", "50%", "alto", "sim", "B", "Para A: recursos acima de cerca de 67%, impacto 'excepcional' quantificado (valor devolvido ao erário, participação no total estadual) e inovação com referência de pioneirismo"],
+        ["303", "relevante", "sim (objetivo 2)", "sim (modernização de sistemas e infraestrutura)", "sim (1)", "25%", "moderado", "não", "C", "Para B: passar de 30% do orçamento e medir efeito ao cidadão (tempo de tramitação)"],
+        ["307", "indireto", "sim (objetivo 1)", "sim (plataforma integrada de dados)", "não (contagens)", "11%", "baixo/moderado", "parcial", "D", "Para C: indicador de resultado para o sistema de justiça (tempo entre notícia-crime e denúncia; taxa de resolução)"],
+        ["201", "relevante (crime ambiental no objetivo geral)", "sim (objetivo 4)", "sim (núcleo de geoprocessamento)", "não (cobertura e contagem)", "10%", "baixo/moderado", "não", "D", "Para C: indicador ambiental de resultado (hectares com ação de responsabilização; área recuperada em acordos) e mais recursos"]
+      ]}
+    ]},
+    {"titulo": "9. Plano de Correção", "blocos": [
+      {"tipo": "tabela", "titulo": "Plano priorizado", "cabecalho": ["#", "Item", "Fase", "Prioridade", "Atual", "Meta", "Variação na Nota de Área Estratégica", "Ação", "Responsável", "Prazo"], "linhas": [
+        ["1", "Espaço fiscal no Programa de Acompanhamento Fiscal", "Fase 1.6 / Art. 28", "P0", "Planilha indica R$ 0 disponível em 2025", "Espaço confirmado para US$ 20 milhões", "0 (viabilidade)", "Obter manifestação do Tesouro sobre o espaço do Estado ou ajustar o ano de contratação", "Proponente", "Antes da pauta"],
+        ["2", "Capacidade de Pagamento e Dívida com metadado", "Fase 1.6", "P0", "Sem data e fonte; dívida ausente", "Boletim do Tesouro do ciclo vigente", "0 (valida até 2,50 pontos de Dados Objetivos)", "Anexar classificação e Dívida Consolidada/Receita Corrente Líquida com data", "Proponente", "Antes da pauta"],
+        ["3", "Seção de contatos e anuência do credor", "Fase 3", "P0", "Ausentes no texto", "Completas", "0", "Preencher no Portal", "Proponente", "Imediato"],
+        ["4", "Sustentabilidade pós-projeto quantificada", "Fase 11 (A.5) / pergunta 1", "P1", "FRACO", "FORTE", "+0,5 a +1,0", "Tabela de custeio por 5 anos com fonte orçamentária nomeada", "Proponente", "30 dias"],
+        ["5", "Indicador de impacto da Área 112", "Fase 5", "P1", "B", "A", "+2,0", "Valor recuperado ao Fundo Estadual de Segurança Pública e participação no total estadual, com ano-meta", "Proponente", "30 dias"],
+        ["6", "Concentrar orçamento na Área 303", "Fase 5", "P1", "C (25%)", "B (mais de 30%)", "+1,0", "Atribuir à 303 a infraestrutura de dados hoje sem área dona", "Proponente", "30 dias"],
+        ["7", "Indicadores de resultado nas Áreas 307 e 201", "Fase 5", "P1", "D e D", "C e C", "+2,0", "Trocar contagens por tempos de tramitação e hectares responsabilizados", "Proponente", "30 dias"],
+        ["8", "Anos civis e fonte de verificação", "Fase 11 (A.2)", "P1", "Anos de projeto, sem verificação", "Anos civis, sistema e responsável", "+0,5", "Revisar a matriz de indicadores", "Proponente", "15 dias"],
+        ["9", "Governança Executivo e órgão autônomo", "Fase 10 / pergunta 9", "P2", "Delegação genérica", "Instrumento formal", "+0,5", "Convênio de execução com papéis e fluxo do serviço da dívida", "Proponente / Credor", "60 dias"],
+        ["10", "Custo por beneficiário e referências", "Fase 10 / pergunta 3", "P2", "Ausente", "2 a 3 referências", "+0,5", "Comparar com operações de justiça e segurança do credor", "Credor", "30 dias"],
+        ["11", "Compra de imóvel e obras", "Fase 10 / pergunta 7", "P2", "Sem justificativa", "Elegibilidade comprovada", "0", "Justificar ou retirar a aquisição de imóvel", "Proponente / Credor", "30 dias"]
+      ]},
+      {"tipo": "p", "texto": "Resumo: 11 itens. Melhoria estimada se todos os P0 e P1 forem atendidos: +1,0 a +3,0 na Nota de Área Estratégica. Nova faixa da Nota de Área Estratégica: [Mínimo 5,00 — Esperado 8,50 — Máximo 10,00]."},
+      {"tipo": "tabela", "titulo": "Rota para Área Estratégica máxima (10,000): Atual para Meta por área", "cabecalho": ["Área", "Atual (nível e pontos)", "Meta (nível e pontos)", "Tarefas aplicáveis", "Variação estimada"], "linhas": [
+        ["112", "B — 3,0", "A — 5,0", "R4, R5, R9, R10", "+2,0"],
+        ["303", "C — 2,0", "B — 3,0", "R2, R4, R6", "+1,0"],
+        ["307", "D — 1,0", "D — 1,0 (proteger)", "R6, R13", "0 (protege contra queda a zero)"],
+        ["201", "D — 1,0", "D — 1,0 (proteger)", "R2, R13", "0"],
+        ["Bônus prioridade do PPA", "0", "0", "R1 não aplicável sem redesenho (só 10% em prioridade)", "0"],
+        ["Soma", "7,0", "10,0 (5+3+1+1)", "Caminho aritmético 1 sem bônus: A + B + D + D", "+3,0"]
+      ]},
+      {"tipo": "bullets", "itens": [
+        "Caminho escolhido: variante do caminho 1 (A + B + D + bônus), trocando o bônus por uma segunda área D, porque o bônus de prioridade do PPA exigiria 100% dos recursos em prioridades e apenas a Área 201 é elegível.",
+        "R2 — tabela de custo por área, produto a produto: a carta já informa custos por área (US$ 12,53 / 6,34 / 2,81 / 2,50 milhões); falta mostrar que nenhum produto foi repartido e mover a infraestrutura de dados para a 303 (+0,5 a +1,0).",
+        "R4 — concentrar orçamento: 112 precisa subir de 50% para perto de 67% e 303 de 25% para mais de 30%; as duas metas competem entre si, então a soma 112 + 303 deve chegar a cerca de 98% retirando a compra de imóvel ou parte das reformas (+1,0 a +2,0).",
+        "R5 e R9 — objetivo geral e impacto excepcional: reescrever o objetivo geral centrado na asfixia financeira do crime organizado e quantificar o impacto em relação ao universo estadual (ex.: participação dos procedimentos contra organizações criminosas com persecução patrimonial; valor devolvido ao erário em relação ao total recuperado no Estado) (+2,0).",
+        "R10 — inovação: a carta já argumenta replicabilidade nacional por meio de fóruns dos Ministérios Públicos; acrescentar referência de pioneirismo do modelo de procedimentos patrimoniais autônomos (parte de R9).",
+        "R6 — indicadores: substituir as contagens da 307 por indicador de resultado com ano-meta (protege contra a queda a zero, frequente nesse objetivo).",
+        "R7 — área nova: a 302 (capacidades estatais) poderia entrar em D com produto próprio de capacitação e governança de dados, mas só ajuda se as demais não perderem fatia; não necessária para o caminho escolhido.",
+        "R13 — checar regressões: não retirar o rótulo ambiental sem preservar o produto e o custo da Área 201.",
+        "Honestidade sobre o teto: 10,000 nunca foi observado nas 154 Notas Técnicas da Resolução Normativa 1/2024 (máximo 9,0 sem bônus e 9,5 com bônus). As tarefas acima são uma rota de desenho, não garantia de nota."
+      ]}
+    ]},
+    {"titulo": "10. Janela e Momento (circunstancial)", "blocos": [
+      {"tipo": "p", "texto": "Viabilidade de sublimite: o valor de US$ 20 milhões é pequeno para o sublimite Geral e não aciona os redutores de porte (valor acima de 15% ou 25% do teto da reunião). O valor da operação ser menor ou igual ao saldo do teto da reunião é condição necessária, independente da nota; o saldo não foi consultado (sem ata nem busca nesta execução)."},
+      {"tipo": "p", "texto": "Taxa-base de desfecho (não é veredito): no corpus anonimizado, pleitos subnacionais abaixo de US$ 50 milhões sob a Resolução Normativa 1/2024 tiveram 17 aprovações em 23 avaliações (74%); as recusas vieram de teto excedido, outros motivos do Art. 28 e lacunas de informação. Como a Nota Geral esperada de 10,38 é condição necessária mas não suficiente, a leitura de probabilidade é favorável ao porte e condicionada a dois fatores externos à nota: saldo do teto na data da reunião e espaço fiscal do Estado no Programa de Acompanhamento Fiscal."},
+      {"tipo": "p", "texto": "Estratégia de iteração: status de reenvio desconhecido. Se houver nova submissão, reenviar o mesmo texto não muda a nota; os ganhos vêm de redesenho de áreas, indicadores e recursos (seção 9). Persistência tem retornos decrescentes: no máximo dois ciclos antes de reestruturação."},
+      {"tipo": "nota", "texto": "Dado circunstancial: antes de decidir o momento, o operador deve consultar a ata mais recente da COFIEX, os comunicados e resoluções em vigor e a posição do pleito na fila do Portal de Financiamento Externo. Esta análise usa dados históricos apenas como referência estrutural."}
+    ]}
+  ]
+}

@@ -1,0 +1,165 @@
+{
+ "id": "AE65857",
+ "regime": "R17_2021",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Urban infrastructure upgrades, public transport promotion and tree planting support environmental sustainability and climate mitigation."
+  },
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "level": null,
+   "points": 0.133,
+   "reason": "Replacing conventional public lighting with LED fixtures contributes to energy efficiency."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Expanded drainage infrastructure is a direct sanitation action, reducing flooding and aiding public health."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "level": null,
+   "points": 0.133,
+   "reason": "Greater green and permeable areas relate to soil conservation and permeability, indirectly supporting integrated water management."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.133,
+   "reason": "Targets underserved communities with infrastructure and social facilities such as sports spaces."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "level": null,
+   "points": 0.133,
+   "reason": "No specific gender or race policies, but sports training centers target young people in vulnerable areas."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "level": null,
+   "points": 0.0,
+   "reason": "Tree planting supports biodiversity but is not the central scope of the project."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Better infrastructure and mobility only indirectly benefit business; not central to the project scope."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "level": null,
+   "points": 0.0,
+   "reason": "Improved mobility and accessibility may help local entrepreneurs, but only as an indirect benefit."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "Construction-phase jobs and revitalization are an indirect benefit, not the central scope."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Benefits low-human-development neighborhoods but specifies no direct actions to include social minorities."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Focus is on public infrastructure with no innovation in management processes or citizen participation."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "level": null,
+   "points": 0.0,
+   "reason": "Sanitation and fewer waterborne diseases give only indirect health and education potential, not central scope."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "level": null,
+   "points": 0.0,
+   "reason": "Lighting modernization is a technology investment but already credited under energy efficiency; no explicit technological focus."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No financing arrangements for private participation are specified."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "reason": "Tree planting supports biodiversity but is not the central scope of the project."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "reason": "Better infrastructure and mobility only indirectly benefit business; not central to the project scope."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "reason": "Improved mobility and accessibility may help local entrepreneurs, but only as an indirect benefit."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "reason": "Construction-phase jobs and revitalization are an indirect benefit, not the central scope."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "reason": "Benefits low-human-development neighborhoods but specifies no direct actions to include social minorities."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "reason": "Focus is on public infrastructure with no innovation in management processes or citizen participation."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "reason": "Sanitation and fewer waterborne diseases give only indirect health and education potential, not central scope."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "reason": "Lighting modernization is a technology investment but already credited under energy efficiency; no explicit technological focus."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "reason": "No financing arrangements for private participation are specified."
+  }
+ ],
+ "bonus": [],
+ "areas_total": [
+  0.798,
+  2.0
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "id": "AAD6905",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Consistent alignment, transparency products and clear indicators; but a small share of resources and weak evidence of reach and impact limit the score."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Consistent alignment, institutional capacity components, clear indicators and relevant resources; impact judged moderate given gradual institutionalisation."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Consistent alignment, digital transformation components and indicators, relevant resources; impact moderate, depending on institutional maturity and user adoption."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Consistent alignment, tax administration and legal components, clear indicators, roughly 30% of resources; impact described as high, yet level C assigned."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": null,
+   "points": 0.0,
+   "reason": "Women only among target public; no specific objectives, components, products or indicators tied to women's policies."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only a loose link to the general objective; many indicators cannot be clearly tied to productivity or business environment."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No clear relation between the area and objectives, components or indicators; no research cooperation."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Environmental sustainability objectives exist, but no concrete actions or adequate indicators for energy security."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "A specific objective mentions water security, but no components, products or indicators demonstrate impact."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "107",
+   "name": "Women",
+   "reason": "Women only among target public; no specific objectives, components, products or indicators tied to women's policies."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "reason": "Only a loose link to the general objective; many indicators cannot be clearly tied to productivity or business environment."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "reason": "No clear relation between the area and objectives, components or indicators; no research cooperation."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "reason": "Environmental sustainability objectives exist, but no concrete actions or adequate indicators for energy security."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "reason": "A specific objective mentions water security, but no components, products or indicators demonstrate impact."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state resources are exclusively aimed at federal PPA priorities; no points."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not indicate regional integration; no points."
+  }
+ ],
+ "areas_total": [
+  7.0,
+  10.0
+ ]
+}

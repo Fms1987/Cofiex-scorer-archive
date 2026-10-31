@@ -1,0 +1,123 @@
+{
+ "id": "AD7390F",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "B",
+   "points": 3.0,
+   "reason": "High adherence: general and specific objectives on urban mobility infrastructure; national policy actions; significant resources; high expected impact; efficient solutions."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Active-mobility and fleet-renewal objectives relate directly to decarbonization; significant resources; moderate expected impact."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Aligned with the specific objective on municipal planning and transit service; institutional-development component receives relevant resources; indicators on planning and training."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": null,
+   "points": 0.0,
+   "reason": "Gender capacity-building for public managers does not show impact on women's protection policies; no specific objective on the area."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "level": null,
+   "points": 0.0,
+   "reason": "Anti-racist capacity-building for managers does not show impact on racial equality; no specific objective on the area."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": null,
+   "points": 0.0,
+   "reason": "Emission-reduction actions exist, but no specific objectives directly related to the area."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": null,
+   "points": 0.0,
+   "reason": "No objectives, indicators or targets on employment; job-access benefit of transit is asserted but not measurable."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Fleet electrification actions only; no specific objective or elements to measure impact."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Focus on large metropolitan regions noted, but no elements to assess impact on regional inequality."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "107",
+   "name": "Women",
+   "reason": "Gender capacity-building for public managers does not show impact on women's protection policies; no specific objective on the area."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "reason": "Anti-racist capacity-building for managers does not show impact on racial equality; no specific objective on the area."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "reason": "Emission-reduction actions exist, but no specific objectives directly related to the area."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "reason": "No objectives, indicators or targets on employment; job-access benefit of transit is asserted but not measurable."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "reason": "Fleet electrification actions only; no specific objective or elements to measure impact."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Focus on large metropolitan regions noted, but no elements to assess impact on regional inequality."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  7.0,
+  10.0
+ ]
+}

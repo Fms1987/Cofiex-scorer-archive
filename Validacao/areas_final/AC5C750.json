@@ -1,0 +1,103 @@
+{
+ "id": "AC5C750",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "107",
+   "name": "Women",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Complementary objective, a women-leadership training product and indicators exist, but the theme is not central and the resource share is small."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Tax-system adaptation and simplification improve the business environment, with a related objective, component and indicators, but the resource share is low."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Complementary objective and a water-consumption indicator exist, but the resource share is tiny, so potential impact is not relevant."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Fiscal-transparency objective, product and a SMART indicator, but no primary component, low resources and no robust actions."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Extensive link to state capacity and federative cooperation, with components and indicators, but low resource share limits impact."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Digital-transformation objectives and product fit; resource share is low, though second largest among areas."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": "B",
+   "points": 3.0,
+   "reason": "General objective, specific objectives, components and indicators directly aligned; about half of resources; high but not exceptional impact; some indicators depend on external factors."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Uses technology and develops internal systems but does not contribute to the national science system or research or international cooperation."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Objective unrelated to the area, no clear energy indicators and a low resource share; some sustainability products are only loosely linked."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "reason": "Uses technology and develops internal systems but does not contribute to the national science system or research or international cooperation."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "reason": "Objective unrelated to the area, no clear energy indicators and a low resource share; some sustainability products are only loosely linked."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the project is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the project promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  7.0,
+  10.0
+ ]
+}

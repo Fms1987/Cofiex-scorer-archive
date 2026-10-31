@@ -1,0 +1,165 @@
+{
+ "id": "A78009A",
+ "regime": "R17_2021",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "level": null,
+   "points": 0.133,
+   "reason": "Photovoltaic installation in tax-administration buildings, with an indicator on increased own energy generation."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "level": null,
+   "points": 0.133,
+   "reason": "Upgrade of the agricultural monitoring system with socio-environmental cross-checks and cattle traceability, supporting ecological tax benefits and reduced deforestation."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "level": null,
+   "points": 0.133,
+   "reason": "Taxpayer registry integration with the national business-registration network and foreign-trade single-window integration improve the business environment."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "level": null,
+   "points": 0.133,
+   "reason": "Sustainable logistics plan sets procurement quotas for firms owned by women, persons with disabilities, ethnic and social minorities, and other vulnerable groups."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Data-driven public-resource management aimed at better citizen services, with an indicator raising the share of online services."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "level": null,
+   "points": 0.133,
+   "reason": "IT infrastructure and data-centre upgrades, unified analytics and AI architecture, and predictive machine-learning models for tax processes."
+  },
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Actions only indirectly affect environmental sustainability; those with a specific fit are credited under 1.2, 1.5 and 1.10 instead."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project has no basic sanitation actions."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project has no integrated water-resources management actions."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "level": null,
+   "points": 0.0,
+   "reason": "Benefits accrue to taxpayers generally, not specifically to individual entrepreneurs and micro/small firms; training actions do not directly affect formalization or public procurement access."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project has no job and income actions for low-income and vulnerable groups."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project has no social infrastructure or facilities for these groups."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "level": null,
+   "points": 0.0,
+   "reason": "Leadership and diversity training could raise awareness but was not shown to produce effective gender or race equity; training audiences do not justify points here or in 1.10."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "level": null,
+   "points": 0.0,
+   "reason": "Could not be concluded that fiscal-education actions improve education conditions."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project has no actions related to this criterion."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "reason": "Actions only indirectly affect environmental sustainability; those with a specific fit are credited under 1.2, 1.5 and 1.10 instead."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "reason": "Project has no basic sanitation actions."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "reason": "Project has no integrated water-resources management actions."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "reason": "Benefits accrue to taxpayers generally, not specifically to individual entrepreneurs and micro/small firms; training actions do not directly affect formalization or public procurement access."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "reason": "Project has no job and income actions for low-income and vulnerable groups."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "reason": "Project has no social infrastructure or facilities for these groups."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "reason": "Leadership and diversity training could raise awareness but was not shown to produce effective gender or race equity; training audiences do not justify points here or in 1.10."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "reason": "Could not be concluded that fiscal-education actions improve education conditions."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "reason": "Project has no actions related to this criterion."
+  }
+ ],
+ "bonus": [],
+ "areas_total": [
+  0.798,
+  2.0
+ ]
+}

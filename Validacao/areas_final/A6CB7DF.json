@@ -1,0 +1,57 @@
+{
+ "id": "A6CB7DF",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "112",
+   "name": "Public safety",
+   "level": "B",
+   "points": 3.0,
+   "reason": "Clear fit with organized-crime asset-recovery units; SMART indicators, viable targets; about half of resources; high but not exceptional impact; efficient but not highly innovative."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Geoprocessing unit for environmental crime monitoring fits well; SMART indicators; only about 10% of resources, so moderate impact despite replicability."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Modernization of case-handling systems tied to the area; one key indicator; roughly a quarter of resources; moderate impact, replicable, not highly innovative."
+  },
+  {
+   "code": "307",
+   "name": "Justice",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Integrated data platform across justice and security bodies fits the area; two indicators; about 10% of resources; moderate impact, replicable."
+  }
+ ],
+ "not_accepted": [],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme is exclusively aimed at federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the programme promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  8.0,
+  10.0
+ ]
+}

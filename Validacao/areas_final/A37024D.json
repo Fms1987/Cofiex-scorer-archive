@@ -1,0 +1,262 @@
+{
+ "id": "A37024D",
+ "regime": "NR1_2024",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "C",
+   "points": 2.0,
+   "reason": "Consistent fit via road safety, mobility and resilience with clear measurable indicators and efficient evidence-based solutions; moderate impact on specific stretches and relevant but non-majority resources."
+  },
+  {
+   "code": "112",
+   "name": "Public safety",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Road-safety interventions reduce accidents with clear indicators, but modest resources and moderate impact, with no integrated public-security strategy."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Clear fit with drainage, slope stabilisation and aligned indicators, but limited share of resources and moderate impact in the covered stretches."
+  },
+  {
+   "code": "205",
+   "name": "Competitiveness",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Indirect link via logistics fluidity and an innovative asset-management model, but indicators do not measure economic or logistics impacts, so impact is of little relevance."
+  },
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only indirect access benefits from better mobility; no objectives, components, indicators or resources aimed at public health."
+  },
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "level": null,
+   "points": 0.0,
+   "reason": "Safer routes for students are an indirect benefit; no education-focused components, indicators or resources."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "level": null,
+   "points": 0.0,
+   "reason": "Training for vulnerable groups in the institutional component is complementary; no specific women-focused design or resources."
+  },
+  {
+   "code": "108",
+   "name": "Indigenous and quilombola peoples",
+   "level": null,
+   "points": 0.0,
+   "reason": "General social benefits only; nothing directed at indigenous, quilombola or traditional communities."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "level": null,
+   "points": 0.0,
+   "reason": "Vulnerable-group training is complementary; no components, indicators or resources on racial equality."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": null,
+   "points": 0.0,
+   "reason": "Environmental actions relate to climate adaptation (area 202), not conservation or sustainable use; no dedicated components, indicators or resources."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project is wholly road management, safety and adaptation; nothing on industrialisation or productive decarbonisation."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Modern road-management practices serve asset management, not science and technology system strengthening; no dedicated resources."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": null,
+   "points": 0.0,
+   "reason": "Training in the institutional component is limited and complementary; no employment indicators or targets."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Project is entirely road works and asset management with no energy-related design."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "Hydrological-risk measures belong to area 202; only indirect drainage benefits, nothing on water supply or availability."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "level": null,
+   "points": 0.0,
+   "reason": "Possible tourist-flow benefits are indirect; no tourism-oriented design."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Effects on inequality are indirect from general road improvement; no components or targets aimed at it."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Only procedural social-communication mechanisms required by safeguards; no structured participation or transparency initiatives."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Institutional strengthening is credited under road-related areas; it does not address broad state-capacity or federative cooperation."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "level": null,
+   "points": 0.0,
+   "reason": "No digital transformation of public services or administration; only physical works and road-sector institutional support."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "level": null,
+   "points": 0.0,
+   "reason": "Road-sector institutional actions are not linked to fiscal balance, revenue or spending control; connection is only indirect."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "102",
+   "name": "Health (SUS)",
+   "reason": "Only indirect access benefits from better mobility; no objectives, components, indicators or resources aimed at public health."
+  },
+  {
+   "code": "103",
+   "name": "Early childhood and education",
+   "reason": "Safer routes for students are an indirect benefit; no education-focused components, indicators or resources."
+  },
+  {
+   "code": "107",
+   "name": "Women",
+   "reason": "Training for vulnerable groups in the institutional component is complementary; no specific women-focused design or resources."
+  },
+  {
+   "code": "108",
+   "name": "Indigenous and quilombola peoples",
+   "reason": "General social benefits only; nothing directed at indigenous, quilombola or traditional communities."
+  },
+  {
+   "code": "109",
+   "name": "Anti-racism",
+   "reason": "Vulnerable-group training is complementary; no components, indicators or resources on racial equality."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "reason": "Environmental actions relate to climate adaptation (area 202), not conservation or sustainable use; no dedicated components, indicators or resources."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "reason": "Project is wholly road management, safety and adaptation; nothing on industrialisation or productive decarbonisation."
+  },
+  {
+   "code": "206",
+   "name": "Science, technology and innovation",
+   "reason": "Modern road-management practices serve asset management, not science and technology system strengthening; no dedicated resources."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "reason": "Training in the institutional component is limited and complementary; no employment indicators or targets."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "reason": "Project is entirely road works and asset management with no energy-related design."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "reason": "Hydrological-risk measures belong to area 202; only indirect drainage benefits, nothing on water supply or availability."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "reason": "Possible tourist-flow benefits are indirect; no tourism-oriented design."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Effects on inequality are indirect from general road improvement; no components or targets aimed at it."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "reason": "Only procedural social-communication mechanisms required by safeguards; no structured participation or transparency initiatives."
+  },
+  {
+   "code": "302",
+   "name": "State capacity",
+   "reason": "Institutional strengthening is credited under road-related areas; it does not address broad state-capacity or federative cooperation."
+  },
+  {
+   "code": "303",
+   "name": "Digital government",
+   "reason": "No digital transformation of public services or administration; only physical works and road-sector institutional support."
+  },
+  {
+   "code": "306",
+   "name": "Fiscal sustainability",
+   "reason": "Road-sector institutional actions are not linked to fiscal balance, revenue or spending control; connection is only indirect."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state exclusive alignment with federal PPA priorities."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state a regional-integration purpose."
+  }
+ ],
+ "areas_total": [
+  4.5,
+  10.0
+ ]
+}

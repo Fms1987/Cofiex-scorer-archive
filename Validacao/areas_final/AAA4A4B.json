@@ -1,0 +1,97 @@
+{
+ "id": "AAA4A4B",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "A",
+   "points": 5.0,
+   "reason": "General objective directly tied to urban mobility; clear specific objectives, indicators and targets; all components and resources address the area; impact and efficiency shown quantitatively at the maximum standard."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": null,
+   "points": 0.0,
+   "reason": "Link to sustainable use of the environment (emissions, pollution) is acknowledged, but no components or products directly serve the area."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "level": null,
+   "points": 0.0,
+   "reason": "Domestic industrial content of rolling stock is relevant, but no components, resources, targets or indicators tied to the area were presented."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": null,
+   "points": 0.0,
+   "reason": "Jobs arise only from construction and operation as positive externalities; no resources or priority targeting of vulnerable residents for employment."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Energy efficiency gains from electric rail are not reflected in objectives, indicators, targets, components or resources."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "level": null,
+   "points": 0.0,
+   "reason": "Program is relevant to intra-metropolitan inequality, but no specific objectives, indicators, targets or resources address the area."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "201",
+   "name": "Environment",
+   "reason": "Link to sustainable use of the environment (emissions, pollution) is acknowledged, but no components or products directly serve the area."
+  },
+  {
+   "code": "204",
+   "name": "Decarbonization",
+   "reason": "Domestic industrial content of rolling stock is relevant, but no components, resources, targets or indicators tied to the area were presented."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "reason": "Jobs arise only from construction and operation as positive externalities; no resources or priority targeting of vulnerable residents for employment."
+  },
+  {
+   "code": "208",
+   "name": "Clean energy",
+   "reason": "Energy efficiency gains from electric rail are not reflected in objectives, indicators, targets, components or resources."
+  },
+  {
+   "code": "214",
+   "name": "Regional equity",
+   "reason": "Program is relevant to intra-metropolitan inequality, but no specific objectives, indicators, targets or resources address the area."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not frame the project under the federal administration priorities additional point."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Project not eligible for the border-municipality additional point; proponent did not claim it."
+  }
+ ],
+ "areas_total": [
+  5.0,
+  10.0
+ ]
+}

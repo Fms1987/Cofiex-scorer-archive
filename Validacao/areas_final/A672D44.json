@@ -1,0 +1,165 @@
+{
+ "id": "A672D44",
+ "regime": "R17_2021",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "level": null,
+   "points": 0.133,
+   "reason": "Productive-chain subcomponent includes investments enabling access to renewable energy and biodigesters."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "level": null,
+   "points": 0.133,
+   "reason": "Management plans for conservation units and indigenous lands, land and environmental regularization, and training in sustainable use of socio-biodiversity products."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "level": null,
+   "points": 0.133,
+   "reason": "Technical assistance and rural extension for beneficiary families and their organizations to prepare and monitor bioeconomy investment plans."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.133,
+   "reason": "Bioeconomy investment plans for forest, agroforestry and farming value chains, and community-based sustainable tourism."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "level": null,
+   "points": 0.133,
+   "reason": "Beneficiaries include rural producers, extractivists, riverside and indigenous peoples; plans to improve food security in hard-to-reach areas."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "level": null,
+   "points": 0.133,
+   "reason": "Traditional communities, indigenous peoples and family farmers targeted, with affirmative actions to raise women's and youth participation."
+  },
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions found that positively affect the environment through adaptation, mitigation or resilient practices."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions found on water supply, sewage, solid waste or drainage."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions found on soil, spring or water-body conservation, land-use studies or recovery of degraded areas."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions found on business-environment modernization, simplification or trade facilitation."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions found on social infrastructure or equipment for low-income or vulnerable beneficiaries."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions found on management innovation, digitalization, transparency, efficiency or procurement."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions found on education or health infrastructure, supplies, training or systems."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "level": null,
+   "points": 0.0,
+   "reason": "No applied research or technological improvement actions found."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "No actions found supporting public-private partnerships or similar arrangements."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "reason": "No actions found that positively affect the environment through adaptation, mitigation or resilient practices."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "reason": "No actions found on water supply, sewage, solid waste or drainage."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "reason": "No actions found on soil, spring or water-body conservation, land-use studies or recovery of degraded areas."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "reason": "No actions found on business-environment modernization, simplification or trade facilitation."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "reason": "No actions found on social infrastructure or equipment for low-income or vulnerable beneficiaries."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "reason": "No actions found on management innovation, digitalization, transparency, efficiency or procurement."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "reason": "No actions found on education or health infrastructure, supplies, training or systems."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "reason": "No applied research or technological improvement actions found."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "reason": "No actions found supporting public-private partnerships or similar arrangements."
+  }
+ ],
+ "bonus": [],
+ "areas_total": [
+  0.798,
+  2.0
+ ]
+}

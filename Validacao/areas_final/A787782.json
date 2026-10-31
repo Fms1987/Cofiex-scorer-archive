@@ -1,0 +1,185 @@
+{
+ "id": "A787782",
+ "regime": "R17_2021",
+ "outcome": "not_approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "1.1",
+   "name": "Environmental sustainability, adaptation and mitigation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Integration of environmental and climate resilience into road management: disaster prevention via drainage, slope protection and remediation of environmental liabilities."
+  },
+  {
+   "code": "1.12",
+   "name": "Public-service delivery, management and citizen participation",
+   "level": null,
+   "points": 0.133,
+   "reason": "Long-term performance-based contracting model improves road-service delivery and public spending efficiency."
+  },
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "level": null,
+   "points": 0.0,
+   "reason": "Studies on energy transition and multimodality are mentioned, but no actions directly address energy efficiency or renewables."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Restoration of drainage devices is mentioned, but no actions directly address basic sanitation."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "level": null,
+   "points": 0.0,
+   "reason": "Erosion reduction relates to climate-resilience practices, not directly to water security."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "level": null,
+   "points": 0.0,
+   "reason": "Environmental awareness and good practices are mentioned, but no actions directly address biodiversity or forest resources."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Infrastructure improvements for regional competitiveness do not directly address the business environment."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "level": null,
+   "points": 0.0,
+   "reason": "Competitiveness gains from infrastructure are not direct benefits for individual entrepreneurs or micro/small firms."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "Direct and indirect jobs from works are mentioned, but no actions directly address employment and income generation."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "level": null,
+   "points": 0.0,
+   "reason": "Transport infrastructure in a less-developed region is not directly aimed at low-income and vulnerable populations."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "level": null,
+   "points": 0.0,
+   "reason": "Sustainable tourism in traditional or indigenous areas is included, but its strategic alignment with the agency's legal remit and sector plan was not clarified."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "level": null,
+   "points": 0.0,
+   "reason": "Targeted hiring from works is mentioned, but no actions directly address youth, gender or race policies."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "level": null,
+   "points": 0.0,
+   "reason": "Road-safety actions reduce deaths and injuries but are not directly tied to education or health."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "level": null,
+   "points": 0.0,
+   "reason": "Institutional strengthening of infrastructure management is not directly technological development or innovation."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Support for transport and concession policy reform is not directly a financing arrangement fostering private participation."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "1.2",
+   "name": "Energy efficiency and renewable energy",
+   "reason": "Studies on energy transition and multimodality are mentioned, but no actions directly address energy efficiency or renewables."
+  },
+  {
+   "code": "1.3",
+   "name": "Basic sanitation",
+   "reason": "Restoration of drainage devices is mentioned, but no actions directly address basic sanitation."
+  },
+  {
+   "code": "1.4",
+   "name": "Integrated water-resources management and water security",
+   "reason": "Erosion reduction relates to climate-resilience practices, not directly to water security."
+  },
+  {
+   "code": "1.5",
+   "name": "Biodiversity and forest resources",
+   "reason": "Environmental awareness and good practices are mentioned, but no actions directly address biodiversity or forest resources."
+  },
+  {
+   "code": "1.6",
+   "name": "Business environment and opportunities",
+   "reason": "Infrastructure improvements for regional competitiveness do not directly address the business environment."
+  },
+  {
+   "code": "1.7",
+   "name": "Individual entrepreneurs and micro/small firms",
+   "reason": "Competitiveness gains from infrastructure are not direct benefits for individual entrepreneurs or micro/small firms."
+  },
+  {
+   "code": "1.8",
+   "name": "Jobs and income for low-income and vulnerable groups",
+   "reason": "Direct and indirect jobs from works are mentioned, but no actions directly address employment and income generation."
+  },
+  {
+   "code": "1.9",
+   "name": "Infrastructure and social facilities for low-income and vulnerable groups",
+   "reason": "Transport infrastructure in a less-developed region is not directly aimed at low-income and vulnerable populations."
+  },
+  {
+   "code": "1.10",
+   "name": "Inclusion of social minorities",
+   "reason": "Sustainable tourism in traditional or indigenous areas is included, but its strategic alignment with the agency's legal remit and sector plan was not clarified."
+  },
+  {
+   "code": "1.11",
+   "name": "Youth, gender and race policies",
+   "reason": "Targeted hiring from works is mentioned, but no actions directly address youth, gender or race policies."
+  },
+  {
+   "code": "1.13",
+   "name": "Education and health conditions",
+   "reason": "Road-safety actions reduce deaths and injuries but are not directly tied to education or health."
+  },
+  {
+   "code": "1.14",
+   "name": "Technological development, innovation and modernization",
+   "reason": "Institutional strengthening of infrastructure management is not directly technological development or innovation."
+  },
+  {
+   "code": "1.15",
+   "name": "Financing arrangements encouraging private participation",
+   "reason": "Support for transport and concession policy reform is not directly a financing arrangement fostering private participation."
+  }
+ ],
+ "bonus": [],
+ "areas_total": [
+  0.266,
+  2.0
+ ]
+}

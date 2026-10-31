@@ -1,0 +1,120 @@
+{
+ "id": "A0B7C1B",
+ "regime": "NR1_2024",
+ "outcome": "approved",
+ "status": "ok",
+ "areas": [
+  {
+   "code": "108",
+   "name": "Indigenous and quilombola peoples",
+   "level": "E",
+   "points": 0.5,
+   "reason": "General objective not directly related; a few conservation and heritage products only indirectly benefit traditional populations, so impact potential is low."
+  },
+  {
+   "code": "111",
+   "name": "Sustainable cities",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Green infrastructure, nature-based drainage and bike paths link to sanitation and mobility; impact moderate given the limited share of resources in related products."
+  },
+  {
+   "code": "201",
+   "name": "Environment",
+   "level": "B",
+   "points": 3.0,
+   "reason": "General objective is biodiversity conservation; most specific objectives and products are direct, with nature-based solutions and protected-area creation; resources significant and impact high."
+  },
+  {
+   "code": "202",
+   "name": "Disaster resilience and climate adaptation",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Conservation products protect ecosystems acting as natural flood barriers, but only indirectly; resources indirectly linked, so impact potential is low."
+  },
+  {
+   "code": "212",
+   "name": "Water security",
+   "level": "D",
+   "points": 1.0,
+   "reason": "Nature-based stormwater management and a water-quality target are relevant; impact moderate because related products weigh little in the total program."
+  },
+  {
+   "code": "213",
+   "name": "Tourism",
+   "level": "E",
+   "points": 0.5,
+   "reason": "Ecotourism objective and indicator align, but infrastructure only indirectly linked to the area and no direct components; impact low."
+  },
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "level": null,
+   "points": 0.0,
+   "reason": "A cultural museum product exists, but no targets for this area; the indicator offered measures community environmental education and was counted under environment."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "level": null,
+   "points": 0.0,
+   "reason": "No components, indicators or targets aimed at sport access; the bike-path indicator was used for sustainable cities instead."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "level": null,
+   "points": 0.0,
+   "reason": "Green-jobs objective is not reflected in the scope; infrastructure is not centered on employment, and related elements were used for tourism."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "level": null,
+   "points": 0.0,
+   "reason": "Participation objective exists, but only physical centers are delivered, with no permanent participatory governance mechanisms; the indicator was counted under environment."
+  }
+ ],
+ "not_accepted": [
+  {
+   "code": "105",
+   "name": "Creative economy",
+   "reason": "A cultural museum product exists, but no targets for this area; the indicator offered measures community environmental education and was counted under environment."
+  },
+  {
+   "code": "113",
+   "name": "Sport",
+   "reason": "No components, indicators or targets aimed at sport access; the bike-path indicator was used for sustainable cities instead."
+  },
+  {
+   "code": "207",
+   "name": "Labor",
+   "reason": "Green-jobs objective is not reflected in the scope; infrastructure is not centered on employment, and related elements were used for tourism."
+  },
+  {
+   "code": "301",
+   "name": "Transparency and participation",
+   "reason": "Participation objective exists, but only physical centers are delivered, with no permanent participatory governance mechanisms; the indicator was counted under environment."
+  }
+ ],
+ "bonus": [
+  {
+   "article": "15 par.3 PPA priority",
+   "requested": true,
+   "points": 0.0,
+   "decision": "não aceito",
+   "reason": "Proponent claimed deforestation and climate priorities, but products tied to them cover only about half of program resources, so full allocation was not shown."
+  },
+  {
+   "article": "15 par.4 regional integration",
+   "requested": false,
+   "points": 0.0,
+   "decision": "não concedido",
+   "reason": "Proponent did not state the program promotes regional integration."
+  }
+ ],
+ "areas_total": [
+  6.5,
+  10.0
+ ]
+}
